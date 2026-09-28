@@ -1,0 +1,145 @@
+{
+  "courseId": "vscode-power-tips-c9662a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:24.798Z",
+  "title": "VSCode Power Tips",
+  "channel": "Learn with Hasin Hayder",
+  "videos": [
+    {
+      "id": "ItSlnBMZHjA",
+      "title": "vscode power tips - introduction",
+      "duration": 69
+    },
+    {
+      "id": "DH5undqVF-g",
+      "title": "vscode power tips - theme, font and icons",
+      "duration": 149
+    },
+    {
+      "id": "CBp2bY1vAtQ",
+      "title": "vscode power tips - font zoom with mouse wheel and reset",
+      "duration": 78
+    },
+    {
+      "id": "4pGgdVyfkjw",
+      "title": "vscode power tips - changing keybindings",
+      "duration": 115
+    },
+    {
+      "id": "VHajKeTEW5Q",
+      "title": "vscode power tips - quickly duplicating lines",
+      "duration": 86
+    },
+    {
+      "id": "gQecr2VkLe8",
+      "title": "vscode power tips -  quickly move lines up and down",
+      "duration": 57
+    },
+    {
+      "id": "MWphFx21AeE",
+      "title": "vscode power tips - minimaps",
+      "duration": 45
+    },
+    {
+      "id": "4QOqGm-vnPg",
+      "title": "vscode power tips - quickly go to a specific line",
+      "duration": 40
+    },
+    {
+      "id": "VNxHfFin3Pw",
+      "title": "vscode power tips - toggle sidebar",
+      "duration": 17
+    },
+    {
+      "id": "ghUjyFl3fww",
+      "title": "vscode power tips - splitting the editor",
+      "duration": 115
+    },
+    {
+      "id": "2BfKBjDPkLw",
+      "title": "vscode power tips - quickly navigate between the active tabs",
+      "duration": 33
+    },
+    {
+      "id": "9ToJ4yKuqok",
+      "title": "vscode power tips - quickly create nested folders",
+      "duration": 69
+    },
+    {
+      "id": "Cbj2wrH16fY",
+      "title": "vscode power tips - using multiple cursors",
+      "duration": 90
+    },
+    {
+      "id": "0GzsWaT_smg",
+      "title": "vscode power tips - quickly incrementing and decrementing css values",
+      "duration": 106
+    },
+    {
+      "id": "NVdmpVOT2So",
+      "title": "vscode power tips - opening files in new tab",
+      "duration": 98
+    },
+    {
+      "id": "BOwqmdVRCEQ",
+      "title": "vscode power tips - quickly navigating to different files",
+      "duration": 57
+    },
+    {
+      "id": "Acf2yXEZa-E",
+      "title": "vscode power tips - quickly navigating to the previous open tab",
+      "duration": 116
+    },
+    {
+      "id": "sn3k2k18U4I",
+      "title": "vscode power tips - close all active tabs at once",
+      "duration": 46
+    },
+    {
+      "id": "iuMwRIzJTE8",
+      "title": "vscode power tips - access integrated terminal in vscode",
+      "duration": 80
+    },
+    {
+      "id": "kqtNH4Ch6Cc",
+      "title": "vscode power tips - quickly access symbols in current file",
+      "duration": 80
+    },
+    {
+      "id": "JLKUhFyC7qs",
+      "title": "vscode power tips - installing a better looking monospace font",
+      "duration": 126
+    },
+    {
+      "id": "d4fmZAlm220",
+      "title": "vscode power tips - formatting your code",
+      "duration": 249
+    },
+    {
+      "id": "z47HdYLwIx0",
+      "title": "vscode power tips - phpfmt tips and tricks for your php code",
+      "duration": 372
+    },
+    {
+      "id": "IgR1-7DIQqo",
+      "title": "vscode power tips - useful extensions for php developers",
+      "duration": 246
+    },
+    {
+      "id": "jnDY-QEJGK8",
+      "title": "vscode power tips - instantly run code and see output using code runner extension",
+      "duration": 223
+    },
+    {
+      "id": "4eSbzbRp_OA",
+      "title": "vscode power tips - creating live templates or snippets in vscode",
+      "duration": 295
+    },
+    {
+      "id": "hx3-ecJMFsA",
+      "title": "vscode power tips - displaying hints in vscode snippets",
+      "duration": 236
+    }
+  ]
+}

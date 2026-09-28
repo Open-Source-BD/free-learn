@@ -1,0 +1,110 @@
+{
+  "courseId": "tailwind-css-bangla-tutorial-series-4bc325",
+  "sourceUrl": "https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:07.375Z",
+  "title": "Tailwind CSS Bangla Tutorial Series",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "X7XbjwD6fVY",
+      "title": "#01 Introduction | Tailwind CSS Bangla Tutorial",
+      "duration": 256
+    },
+    {
+      "id": "6LF7y7T0_EU",
+      "title": "#02 Tailwind Installation | Tailwind CSS Bangla Tutorial",
+      "duration": 480
+    },
+    {
+      "id": "HxVdmUGGtJk",
+      "title": "#03 Utility-First Approach | Tailwind CSS Bangla Tutorial",
+      "duration": 1652
+    },
+    {
+      "id": "36TUIIZgiu0",
+      "title": "#04 Responsive variants - Tailwind Breakpoints | Tailwind CSS Tutorial",
+      "duration": 452
+    },
+    {
+      "id": "GY7E4Eurb0Q",
+      "title": "#05 Hover, Focus & Other State Variants | Tailwind CSS Tutorial",
+      "duration": 481
+    },
+    {
+      "id": "1PjVAoUxKfI",
+      "title": "#06 Dark mode variant | Tailwind CSS Bangla Tutorial",
+      "duration": 1003
+    },
+    {
+      "id": "9F7Cmfw5uLc",
+      "title": "#07 Composing Utilities with @apply Directive | Tailwind CSS Bangla Tutorial",
+      "duration": 738
+    },
+    {
+      "id": "FzqkDsWFpeA",
+      "title": "#08 Tailwind @layer Directive - Understand Tailwind Layers | Tailwind CSS Tutorial",
+      "duration": 675
+    },
+    {
+      "id": "ZPHsMQSRXlQ",
+      "title": "#09 @variants Directive | Tailwind CSS Bangla Tutorial",
+      "duration": 662
+    },
+    {
+      "id": "cFQH0OJmvIw",
+      "title": "#10 @responsive and @screen Directives | Tailwind CSS Bangla Tutorial",
+      "duration": 291
+    },
+    {
+      "id": "m71mvBqdNXY",
+      "title": "#11 theme() and screen() - Tailwind Functions | Tailwind CSS Bangla Tutorial",
+      "duration": 580
+    },
+    {
+      "id": "f6MmZCXimoE",
+      "title": "#12 Tailwind Configurations - Advanced Concepts | Tailwind CSS Bangla Tutorial",
+      "duration": 974
+    },
+    {
+      "id": "txxAqdOVJAM",
+      "title": "#13 PostCSS Installation - Advanced Concepts | Tailwind CSS Bangla Tutorial",
+      "duration": 648
+    },
+    {
+      "id": "zTS7ZmsPiE8",
+      "title": "#14 Just in Time - Advanced Concepts | Tailwind CSS Bangla Tutorial",
+      "duration": 707
+    },
+    {
+      "id": "VTOLMaaTKw0",
+      "title": "#15 Theme Configuration - Advanced Concepts | Tailwind CSS Bangla Tutorial",
+      "duration": 1074
+    },
+    {
+      "id": "Tq4OfBjhkYM",
+      "title": "#16 Extend Theme - Advanced Concepts | Tailwind CSS Bangla Tutorial",
+      "duration": 341
+    },
+    {
+      "id": "laKTuk-002s",
+      "title": "#17 Extend Variants - Advanced Concepts | Tailwind CSS Tutorial",
+      "duration": 728
+    },
+    {
+      "id": "4M7D3O2XX4o",
+      "title": "#18 Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "duration": 3114
+    },
+    {
+      "id": "y7DrXkGj7AU",
+      "title": "Tailwind CSS Bangla Tutorial || cn() - Magical utility for every Tailwind Developer (clsx + twMerge)",
+      "duration": 805
+    },
+    {
+      "id": "THeGVRJwIYM",
+      "title": "What's new in Tailwind v4 - Tailwind is now 10x faster!",
+      "duration": 1027
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "courseId": "bootstrap-tutorial-for-beginners-to-advanced-2b15c3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLerpoOYRrjUzKiOZDjPkTL0uaRLgJ_NJF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:59.116Z",
+  "title": "Bootstrap tutorial for (beginners to advanced)",
+  "channel": "Programming Shikhbo",
+  "videos": [
+    {
+      "id": "64_xg2JrVoE",
+      "title": "introduction of bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 827
+    },
+    {
+      "id": "_WNQ6eNTNgM",
+      "title": "bootstrap environment setup | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1471
+    },
+    {
+      "id": "oO8mu_sxvKI",
+      "title": "basic concept of bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1367
+    },
+    {
+      "id": "7jxuIEgcjaw",
+      "title": "bootstrap background color | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1652
+    },
+    {
+      "id": "1xpw-E-SaF0",
+      "title": "how to use border in bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 2268
+    },
+    {
+      "id": "123M9jPCOn4",
+      "title": "colors in bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1461
+    },
+    {
+      "id": "fSYjOhho-9w",
+      "title": "display classes in bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1243
+    },
+    {
+      "id": "9IIeE4C2yjI",
+      "title": "display print and screen size | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1495
+    },
+    {
+      "id": "tV19uGo9O8A",
+      "title": "flex or flex reverse utilities | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1342
+    },
+    {
+      "id": "FrdRbolwzIU",
+      "title": "justify content and align items | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 1442
+    },
+    {
+      "id": "0jQyLOY74DA",
+      "title": "align self & fill and grow shrink | complete bootstrap tutorial in bangla with bootstrap full course",
+      "duration": 1036
+    },
+    {
+      "id": "0AeCrJZCzSk",
+      "title": "margin align items wrap or order class | complete bootstrap tutorial bangla bootstrap 5 full course",
+      "duration": 1516
+    },
+    {
+      "id": "vUtc55ekAmM",
+      "title": "float in bootstrap | complete bootstrap tutorial in bangla with bootstrap 5 full course",
+      "duration": 791
+    },
+    {
+      "id": "0VjvIwtyfvU",
+      "title": "interactions of bootstrap with text selection or pointer events bootstrap tutorial full course",
+      "duration": 904
+    },
+    {
+      "id": "ZBCoFLzB0Ok",
+      "title": "opacity in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 610
+    },
+    {
+      "id": "gY9iB5amtX4",
+      "title": "overflow in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 730
+    },
+    {
+      "id": "uIb7Lo7dG78",
+      "title": "position absolute or relative in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 1870
+    },
+    {
+      "id": "zEJUL0BZZZY",
+      "title": "how to use shadow in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 889
+    },
+    {
+      "id": "x_3zFlInQSo",
+      "title": "how to use sizing in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 1410
+    },
+    {
+      "id": "eJ-_-t3aIZM",
+      "title": "spacing in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 1213
+    },
+    {
+      "id": "Pfigfza_Bqg",
+      "title": "text in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 1956
+    },
+    {
+      "id": "-72ZyiwD4Ek",
+      "title": "vertical alignment in bootstrap 5 tutorial in bangla bootstrap full course",
+      "duration": 779
+    },
+    {
+      "id": "MeLiuKtDYp8",
+      "title": "visibility in bootstrap 5 tutorial in bangla || bootstrap full course",
+      "duration": 357
+    },
+    {
+      "id": "n_P9nuIoXUQ",
+      "title": "clearfix in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 712
+    },
+    {
+      "id": "umfgejoa5fY",
+      "title": "color & background in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 1080
+    },
+    {
+      "id": "4SPXYMA3fG4",
+      "title": "colored links in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 501
+    },
+    {
+      "id": "ZjrGg0zDpLo",
+      "title": "position with sticky in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 1031
+    },
+    {
+      "id": "wI2x9cJAtas",
+      "title": "ratio with video in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 1006
+    },
+    {
+      "id": "jXsUCFxi4FU",
+      "title": "stacks with vstack or hstack in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 1181
+    },
+    {
+      "id": "Pk9tOW3pn7I",
+      "title": "stretched link in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 863
+    },
+    {
+      "id": "Sy5-M7AtpKU",
+      "title": "text truncation in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 595
+    },
+    {
+      "id": "ps1N7mXx3gQ",
+      "title": "vertical rule in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 756
+    },
+    {
+      "id": "faeaarl7dvc",
+      "title": "visually hidden in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 401
+    },
+    {
+      "id": "3R1A59lGZ4M",
+      "title": "accordion in bootstrap 5 tutorial in bangla || how to create accordion || bootstrap full course",
+      "duration": 1596
+    },
+    {
+      "id": "KlkrGuHT6sM",
+      "title": "alert in bootstrap 5 tutorial in bangla || how to create alerts || bootstrap full course bangla",
+      "duration": 1091
+    },
+    {
+      "id": "mak7WWgjA5E",
+      "title": "badge in bootstrap 5 tutorial in bangla || how to use badges || bootstrap full course bangla",
+      "duration": 1085
+    },
+    {
+      "id": "9S53IooN3bU",
+      "title": "breadcrumb in bootstrap 5 tutorial in bangla | how to use breadcrumb | bootstrap full course bangla",
+      "duration": 701
+    },
+    {
+      "id": "s33JUD_iW0Y",
+      "title": "button with outline button in bootstrap 5 tutorial in bangla || bootstrap full course bangla",
+      "duration": 1372
+    },
+    {
+      "id": "WjzmQeUgaZU",
+      "title": "button group in bootstrap 5 tutorial in bangla | how to create button group bootstrap course bangla",
+      "duration": 1925
+    },
+    {
+      "id": "nJ8gm7yeM2Y",
+      "title": "card in bootstrap 5 tutorial in bangla | how to create bootstrap cards | bootstrap full course",
+      "duration": 1987
+    },
+    {
+      "id": "xFgQFfAcJzI",
+      "title": "carousel in bootstrap 5 tutorial in bangla | how to create bootstrap carousel in bootstrap courses",
+      "duration": 1356
+    },
+    {
+      "id": "kabu_HTYIAs",
+      "title": "close button or collapse in bootstrap 5 tutorial in bangla | how to create close button or collapse",
+      "duration": 734
+    },
+    {
+      "id": "SKtQx3sRYGY",
+      "title": "dropdowns in bootstrap 5 tutorial in bangla | how to create dropdown | bootstrap full course bangla",
+      "duration": 1055
+    },
+    {
+      "id": "hPY595R0hdQ",
+      "title": "list group in bootstrap 5 tutorial in bangla | how to create list group | bootstrap full course",
+      "duration": 1733
+    },
+    {
+      "id": "KUpmqFYbyfI",
+      "title": "modal popup in bootstrap 5 tutorial in bangla | how to create modal | bootstrap full course bangla",
+      "duration": 1112
+    },
+    {
+      "id": "O4Ev04BkDsU",
+      "title": "navbar in bootstrap 5 tutorial in bangla | how to create navigation bar | bootstrap course bangla",
+      "duration": 1720
+    },
+    {
+      "id": "e5EVWmBlhUg",
+      "title": "navs and tabs in bootstrap 5 tutorial in bangla | how to create navs or tabs | bootstrap full course",
+      "duration": 925
+    },
+    {
+      "id": "6U3P5AqBXYQ",
+      "title": "offcanvas in bootstrap 5 tutorial in bangla | how to create offcanvas | bootstrap full course bangla",
+      "duration": 1170
+    },
+    {
+      "id": "d0rBM4dBRCM",
+      "title": "pagination in bootstrap 5 tutorial in bangla | how to create pagination | bootstrap full course",
+      "duration": 724
+    },
+    {
+      "id": "iapwCVB5xgk",
+      "title": "placeholders in bootstrap 5 tutorial in bangla | how to create placeholder | bootstrap full course",
+      "duration": 863
+    },
+    {
+      "id": "LUL4jPISJNw",
+      "title": "popovers in bootstrap tutorial bangla or how to create popover and popover not working bootstrap 5",
+      "duration": 934
+    },
+    {
+      "id": "sJ5wTbCkr4w",
+      "title": "progress in bootstrap tutorial in bangla or how to create progress | bootstrap 5 full course bangla",
+      "duration": 926
+    },
+    {
+      "id": "GKqJHQWBUVU",
+      "title": "scrollspy in bootstrap 5 tutorial in bangla or how to create scrollspy bootstrap full course bangla",
+      "duration": 1061
+    },
+    {
+      "id": "JeosPsI2jbY",
+      "title": "spinners in bootstrap 5 tutorial in bangla or how to create loading spinner | bootstrap full course",
+      "duration": 929
+    },
+    {
+      "id": "JgdIa3OxSiw",
+      "title": "toast in bootstrap 5 tutorial in bangla or how to create toasts | bootstrap 5 full course bangla",
+      "duration": 978
+    },
+    {
+      "id": "qZyOmGqk8ws",
+      "title": "tooltip in bootstrap 5 tutorial in bangla or how to create tooltips | bootstrap 5 full course bangla",
+      "duration": 582
+    },
+    {
+      "id": "n5IneGLAgjE",
+      "title": "form in bootstrap 5 tutorial in bangla or how to create form | bootstrap 5 full course bangla",
+      "duration": 942
+    },
+    {
+      "id": "0gcCleXstQQ",
+      "title": "form control in bootstrap 5 tutorial in bangla or how to create login form | bootstrap 5 full course",
+      "duration": 1326
+    },
+    {
+      "id": "bwGP0WsZX4Q",
+      "title": "select in bootstrap 5 tutorial in bangla or how to create select form | bootstrap full course bangla",
+      "duration": 669
+    },
+    {
+      "id": "pGhnhsAY4H8",
+      "title": "check and radio in bootstrap tutorial or how to create checks and radios | bootstrap 5 full course",
+      "duration": 1065
+    },
+    {
+      "id": "nsLPijrLnoM",
+      "title": "range in bootstrap 5 tutorial in bangla or how to create range | bootstrap 5 full course bangla",
+      "duration": 592
+    },
+    {
+      "id": "pzlG085h_qA",
+      "title": "input group in bootstrap 5 tutorial or how to create input group | bootstrap 5 full course bangla",
+      "duration": 1294
+    },
+    {
+      "id": "FRFYRi8t6WM",
+      "title": "floating labels in bootstrap or how to create floating label | bootstrap 5 full course bangla",
+      "duration": 1094
+    },
+    {
+      "id": "-zVEsjszTMY",
+      "title": "layout in bootstrap or how to create layout | bootstrap 5 tutorial full course bangla",
+      "duration": 1906
+    },
+    {
+      "id": "8cNOp0flA3I",
+      "title": "form validation in bootstrap or how to create validation form | bootstrap 5 tutorial bangla",
+      "duration": 1861
+    },
+    {
+      "id": "6xTc_R87LNU",
+      "title": "reboot in bootstrap or explained about bootstrap reboot. | bootstrap 5 tutorial full course bangla",
+      "duration": 764
+    },
+    {
+      "id": "ZkNUDrMFrT4",
+      "title": "typography in bootstrap or explained about bootstrap typography. | bootstrap 5 full course bangla",
+      "duration": 1034
+    },
+    {
+      "id": "krySm96VRvw",
+      "title": "images in bootstrap or explained about how to create responsive image | bootstrap full course bangla",
+      "duration": 680
+    },
+    {
+      "id": "DTVmhLXJbSU",
+      "title": "table in bootstrap or how to make beautiful table | bootstrap 5 tutorial full course bangla",
+      "duration": 1282
+    },
+    {
+      "id": "COk4nEgu0Ik",
+      "title": "figures in bootstrap or how to set caption of the images | bootstrap 5 tutorial full course bangla",
+      "duration": 654
+    },
+    {
+      "id": "2XhabzEPik8",
+      "title": "breakpoint in bootstrap or how to use bootstrap breakpoint | bootstrap 5 tutorial full course bangla",
+      "duration": 1600
+    },
+    {
+      "id": "do7eUaea954",
+      "title": "container in bootstrap or how to use bootstrap container | bootstrap 5 tutorial for beginners",
+      "duration": 1000
+    },
+    {
+      "id": "DUjMNQIO_cw",
+      "title": "grid in bootstrap or how to use bootstrap grid | bootstrap 5 grid tutorial for beginners",
+      "duration": 1853
+    },
+    {
+      "id": "hj5_aduhHxM",
+      "title": "columns in bootstrap or how to use bootstrap Column | bootstrap 5 column tutorial for beginners",
+      "duration": 1703
+    },
+    {
+      "id": "HvuqM_QfID8",
+      "title": "gutters in bootstrap or how to use gutters | bootstrap 5 gutter tutorial for beginners",
+      "duration": 805
+    },
+    {
+      "id": "uE-SnEZKl2g",
+      "title": "overview of bootstrap or how to use bootstrap effectively | bootstrap 5 tutorial for beginners",
+      "duration": 507
+    }
+  ]
+}

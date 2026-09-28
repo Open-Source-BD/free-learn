@@ -1,0 +1,60 @@
+{
+  "courseId": "git-bangla-tutorial-complete-b34524",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:08.565Z",
+  "title": "Git Complete Bangla Tutorial",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "C4lNdjgYoi8",
+      "title": "1-9: Basic Uses of Git For Beginners Bangla Tutorial Video",
+      "duration": 1540
+    },
+    {
+      "id": "hTFSeWgT7jg",
+      "title": "2-9: Basic Usage of Git For Beginners Bangla Tutorial Video - 2",
+      "duration": 1373
+    },
+    {
+      "id": "-IpyFnFkAPc",
+      "title": "3-9: Github introduction For Beginners Bangla Tutorial Video",
+      "duration": 1264
+    },
+    {
+      "id": "Mf2rhvV667I",
+      "title": "4-9: What is Branch in Git For All Bangla Tutorial Video",
+      "duration": 690
+    },
+    {
+      "id": "sLDQLeXYaFg",
+      "title": "5-9: What is Merge Conflict in Git Bangla Tutorial Video",
+      "duration": 1086
+    },
+    {
+      "id": "fGEKHpSHCHY",
+      "title": "6-9: What is Fork And Pull Request in Git Bangla Tutorial Video",
+      "duration": 1019
+    },
+    {
+      "id": "wK9IAw7nsxU",
+      "title": "7-9: How to Use Visual Studio Code For Beginners Bangla Video",
+      "duration": 2652
+    },
+    {
+      "id": "t_1z65j0MY8",
+      "title": "8-9: Use Git with VSCode For Beginners Bangla Tutorial Video",
+      "duration": 1442
+    },
+    {
+      "id": "AHEZlnJ4FCc",
+      "title": "9-9: How to Use Git Kraken For Git and Github Bangla Tutorial",
+      "duration": 835
+    },
+    {
+      "id": "0oj46eH5h0A",
+      "title": "Git Hacks: Format Your Commit Message | How to write a commit message?",
+      "duration": 456
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "courseId": "bangla-go-golang-course-e30af9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLHkC-Z1xxZM7y5XxlZFQmI-M8jsAI2AQd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:11.568Z",
+  "title": "Bangla Go/Golang Course",
+  "channel": "Backend Ninja",
+  "videos": [
+    {
+      "id": "JmJ3uHbE_Sg",
+      "title": "01. গো প্রোগ্রামিং - Hello World by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 576
+    },
+    {
+      "id": "Gqlm2mhQ_Ug",
+      "title": "02. গো প্রোগ্রামিং - Naming Conventions by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 883
+    },
+    {
+      "id": "EVM_coQ2ky0",
+      "title": "03. গো প্রোগ্রামিং - Data Types and Variable Declaration by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1058
+    },
+    {
+      "id": "lLjNXb7JwB0",
+      "title": "04. গো প্রোগ্রামিং - Declaring Data Types, Their Ranges by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1225
+    },
+    {
+      "id": "9BAF-2vQfRU",
+      "title": "05. গো প্রোগ্রামিং - Aggregate Data Type - Array by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1358
+    },
+    {
+      "id": "KJXh4awIWKE",
+      "title": "06. গো প্রোগ্রামিং - Control Flow - Conditional and Loops by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1337
+    },
+    {
+      "id": "ZEVspR5JwgE",
+      "title": "07. গো প্রোগ্রামিং - Function - Part One by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1504
+    },
+    {
+      "id": "xhtbMf3g_w0",
+      "title": "08. গো প্রোগ্রামিং - Pointer by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1201
+    },
+    {
+      "id": "HiwCMRBVaLk",
+      "title": "09. গো প্রোগ্রামিং - More on Pointers by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 795
+    },
+    {
+      "id": "7Qbq-GhDFhg",
+      "title": "10. গো প্রোগ্রামিং - Reference Data Types: Slices by Cyan Tarek | Bangla Go/Golang Course",
+      "duration": 1704
+    }
+  ]
+}

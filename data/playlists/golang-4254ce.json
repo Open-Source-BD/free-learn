@@ -1,0 +1,130 @@
+{
+  "courseId": "golang-4254ce",
+  "sourceUrl": "https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:17.251Z",
+  "title": "Golang কোডিং বুট ক্যাম্প 2021",
+  "channel": "MASTER-ACADEMY",
+  "videos": [
+    {
+      "id": "JBplfuvzFRE",
+      "title": "কোডিং বুট ক্যাম্প: প্রোগ্রামিং ভিডিও - লেকচার-০১",
+      "duration": 1151
+    },
+    {
+      "id": "Cb_KLnqXMEo",
+      "title": "কোডিং বুট ক্যাম্প :: কম্পিউটার কিভাবে কাজ করে",
+      "duration": 2192
+    },
+    {
+      "id": "Xm2kOW1Su5c",
+      "title": "কোডিং বুট ক্যাম্প :: কম্পিউটার প্রোগ্রামিং কি ?",
+      "duration": 1106
+    },
+    {
+      "id": "hffMABwkW00",
+      "title": "কোডিং বুট ক্যাম্প :: উইন্ডোজ বেসিক কমান্ড পরিচিতি ও Golang এনভায়রনমেন্ট সেটআপ",
+      "duration": 2665
+    },
+    {
+      "id": "wQpyUY3f3hM",
+      "title": "কোডিং বুট ক্যাম্প :: ফাইল, ফোল্ডার, প্যাকেজ ও  Golang ফাইল SYNTAX",
+      "duration": 2973
+    },
+    {
+      "id": "f43CwpOqXmU",
+      "title": "কোডিং বুট ক্যাম্প :: github ভার্সন কন্ট্রোল পরিচিতি ও সেটআপ",
+      "duration": 2153
+    },
+    {
+      "id": "AmJ_bMyqUcE",
+      "title": "কোডিং বুট ক্যাম্প ::  git STAGE, STATUS, ADD, COMMIT, PUSH এর ব্যবহার",
+      "duration": 1772
+    },
+    {
+      "id": "RJqI7EaFnvI",
+      "title": "কোডিং বুট ক্যাম্প :: golang কমান্ড সিনটেক্স, ভ্যারিয়েবল ও এরর হ্যান্ডলিং",
+      "duration": 2381
+    },
+    {
+      "id": "1paVLhBaUaY",
+      "title": "কোডিং বুট ক্যাম্প :: fmt package verbs ও কমান্ড লাইন এপ্লিকেশন",
+      "duration": 2141
+    },
+    {
+      "id": "Qhxhsz-Kh3o",
+      "title": "কোডিং বুট ক্যাম্প :: Composite ডাটা টাইপ Array, Slice ও Map",
+      "duration": 3130
+    },
+    {
+      "id": "jZJoPQzr3sM",
+      "title": "কোডিং বুট ক্যাম্প :: struct ও ভ্যারিয়েবল স্কোপ",
+      "duration": 2126
+    },
+    {
+      "id": "l04Q9Bmw59g",
+      "title": "কোডিং বুট ক্যাম্প :: কন্ট্রোল ফ্লো (if, else if, else & for loop)",
+      "duration": 2254
+    },
+    {
+      "id": "s-FFHDbeV7s",
+      "title": "কোডিং বুট ক্যাম্প :: golang ফাংশন",
+      "duration": 1977
+    },
+    {
+      "id": "HGDlTLIStJ0",
+      "title": "কোডিং বুট ক্যাম্প :: পয়েন্টার ভ্যারিয়েবল",
+      "duration": 1155
+    },
+    {
+      "id": "SKmYTgJHW-c",
+      "title": "কোডিং বুট ক্যাম্প :: নেটওয়ার্ক ও প্রোটোকল",
+      "duration": 3157
+    },
+    {
+      "id": "7rzBmOFCW_U",
+      "title": "কোডিং বুট ক্যাম্প :: golang net pkg & http server",
+      "duration": 2591
+    },
+    {
+      "id": "v2LWFIHeHOo",
+      "title": "কোডিং বুট ক্যাম্প :: net/http প্যাকেজ",
+      "duration": 1617
+    },
+    {
+      "id": "F8wpRQw39Ho",
+      "title": "কোডিং বুট ক্যাম্প  :: golang দিয়ে তৈরী প্রথম ওয়েবসাইট",
+      "duration": 2264
+    },
+    {
+      "id": "2h0P5BbQsno",
+      "title": "কোডিং বুট ক্যাম্প :: golang html form handling & mysql database insert",
+      "duration": 3226
+    },
+    {
+      "id": "aNAgIJaIcQQ",
+      "title": "কোডিং বুট ক্যাম্প :: নতুন ডাটাবেজ পরিচিতি  (Couchbase | কাউচবেজ)",
+      "duration": 1644
+    },
+    {
+      "id": "n81nOASki1E",
+      "title": "কোডিং বুট ক্যাম্প :: কমান্ড দিয়ে ইমেইল পাঠানো",
+      "duration": 1693
+    },
+    {
+      "id": "HfLfIrQM7kQ",
+      "title": "কোডিং বুট ক্যাম্প :: UI/UX ডিজাইন Figma  ও Adobe XD টিউটোরিয়াল-০১",
+      "duration": 3241
+    },
+    {
+      "id": "EHPKecFVGlU",
+      "title": "কোডিং বুট ক্যাম্প :: ফিগমা প্রোটোটাইপ থেকে ওয়েবসাইট তৈরী",
+      "duration": 6171
+    },
+    {
+      "id": "caXXki6tsnU",
+      "title": "কোডিং বুট ক্যাম্প :: ফাইল হ্যান্ডলিং ও গো-রুটিনস কনকারেন্সী",
+      "duration": 5161
+    }
+  ]
+}
