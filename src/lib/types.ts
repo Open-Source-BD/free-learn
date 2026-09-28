@@ -13,3 +13,26 @@ export type CategoryGroup =
   | 'Cloud & DevOps'
   | 'Tools'
   | 'Other';
+
+export type LangCode = 'en' | 'bn' | 'hi';
+
+export interface RawCourse {
+  title: string;
+  url: string;
+  authors: string[];
+  notes: string[];
+  category: string;
+  section_path: string[];
+  language: string;
+}
+
+export interface RawLanguageBlock {
+  language: string;
+  code: string;
+  source: string;
+  license: string;
+  count: number;
+  courses: RawCourse[];
+}
+
+export type RawCatalog = Partial<Record<LangCode, RawLanguageBlock>>;
