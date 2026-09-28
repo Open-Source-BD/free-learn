@@ -1,0 +1,830 @@
+{
+  "courseId": "c-programming-tutorials-cb137f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:10.281Z",
+  "title": "C Programming Tutorials (HINDI/URDU)",
+  "channel": "by easytuts4you",
+  "videos": [
+    {
+      "id": "AZdfLJ_hmXI",
+      "title": "History of the C Programming (HINDI/URDU)",
+      "duration": 447
+    },
+    {
+      "id": "yFQr8e7cxzw",
+      "title": "Basic Structure of C Program (HINDI)",
+      "duration": 743
+    },
+    {
+      "id": "DvB9p_vevFU",
+      "title": "Data Types in C (HINDI/URDU)",
+      "duration": 1157
+    },
+    {
+      "id": "AJxTXuNVbZ8",
+      "title": "All Operators in C (HIND/URDU)",
+      "duration": 1334
+    },
+    {
+      "id": "nEmhjsmp-K0",
+      "title": "Variable and Constant in C (HINDI/URDU)",
+      "duration": 719
+    },
+    {
+      "id": "_mmicoGAi7U",
+      "title": "Assigning Values to Variables in C (HINDI)",
+      "duration": 563
+    },
+    {
+      "id": "zWUigl23DJ4",
+      "title": "Preprocessor in C (HINDI/URDU)",
+      "duration": 785
+    },
+    {
+      "id": "Y4wxvZ3nPhs",
+      "title": "How to Compile & Execute a C C++ Program using Turbo C++ IDE (HINDI)",
+      "duration": 170
+    },
+    {
+      "id": "wsseeGStPz4",
+      "title": "How to Compile & Execute C,C++ Programs using Codeblocks? (HINDI)",
+      "duration": 265
+    },
+    {
+      "id": "szDQfGogwno",
+      "title": "First Programming in C (HINDI/URDU)",
+      "duration": 638
+    },
+    {
+      "id": "1F974ylNRfM",
+      "title": "Local and Global variables in C (HINDI)",
+      "duration": 717
+    },
+    {
+      "id": "1g9ehjOp6-4",
+      "title": "What is Local and Global Variables in C/C++(HINDI)",
+      "duration": 688
+    },
+    {
+      "id": "EJWSRKyCGQA",
+      "title": "Program to Find ASCII Value of a Character in C (HINDI)",
+      "duration": 542
+    },
+    {
+      "id": "dqGZOD9Sq90",
+      "title": "Swapping Two Numbers Without Using Third Variable in C (HINDI)",
+      "duration": 728
+    },
+    {
+      "id": "cFFLHKAC_ZE",
+      "title": "Storage Classes in C (HINDI/URDU)",
+      "duration": 1132
+    },
+    {
+      "id": "Nspq8J8zoBc",
+      "title": "Operator Precedence And Associativity in C/C++ (HINDI)",
+      "duration": 815
+    },
+    {
+      "id": "GENabb0yGhg",
+      "title": "Typedef() in C (HINDI/URDU)",
+      "duration": 751
+    },
+    {
+      "id": "lqKAazzOIzA",
+      "title": "Enumeration in C (HINDI/URDU)",
+      "duration": 837
+    },
+    {
+      "id": "dAMcvl6DIyo",
+      "title": "Type Casting in C (HINDI/URDU)",
+      "duration": 712
+    },
+    {
+      "id": "W9Jq1UEP-Nk",
+      "title": "Example Program for Type Casting in C (HINDI)",
+      "duration": 470
+    },
+    {
+      "id": "dOaf_qLnG64",
+      "title": "Macro Substitution in C (HINDI/URDU)",
+      "duration": 1211
+    },
+    {
+      "id": "SoG7vZ0wfzQ",
+      "title": "Macro with Arguments in C (HINDI)",
+      "duration": 1057
+    },
+    {
+      "id": "5uuPjYXSf88",
+      "title": "Nesting of Macros in C (HINDI/URDU)",
+      "duration": 749
+    },
+    {
+      "id": "yJl6F82tHgE",
+      "title": "Decision Making and Branching Using IF Statement in C (HINDI)",
+      "duration": 1085
+    },
+    {
+      "id": "vfTRf3vHTJQ",
+      "title": "Simple if Statement in C (HINDI)",
+      "duration": 944
+    },
+    {
+      "id": "jefaXUvlfL0",
+      "title": "If Else Statement in C (HINDI)",
+      "duration": 901
+    },
+    {
+      "id": "01E5wyaIZMU",
+      "title": "Else if Ladder Statement in C (HINDI)",
+      "duration": 738
+    },
+    {
+      "id": "2SU5sjjpQf4",
+      "title": "Else If Ladder Statement in C (HINDI)",
+      "duration": 984
+    },
+    {
+      "id": "sXZNYTm6mow",
+      "title": "Nested If Else Statement in C (HINDI)",
+      "duration": 1170
+    },
+    {
+      "id": "i3cytSUrZ3Q",
+      "title": "Program to Check Leap Year in C (HINDI/URDU)",
+      "duration": 936
+    },
+    {
+      "id": "mkf2_kYLgoc",
+      "title": "Compiler Control Directives in C (HINDI)",
+      "duration": 1271
+    },
+    {
+      "id": "y-1dkud9Ac0",
+      "title": "Conditional Operator in C (HINDI/URDU)",
+      "duration": 691
+    },
+    {
+      "id": "inrnPN3iLX8",
+      "title": "Switch Case Statement in C (HINDI)",
+      "duration": 1048
+    },
+    {
+      "id": "27e38OU1cg4",
+      "title": "Go to Statement in C (HINDI/URDU)",
+      "duration": 735
+    },
+    {
+      "id": "6YFXFOrAWKs",
+      "title": "While loop in C (HINDI/URDU)",
+      "duration": 662
+    },
+    {
+      "id": "JzrHBeXC3Nk",
+      "title": "Program to Calculate Sum of Digits of a Given Number in C (HINDI)",
+      "duration": 752
+    },
+    {
+      "id": "SmzrQsCbfq0",
+      "title": "Program for Reverse, Palindrome Number in C (HINDI/URDU)",
+      "duration": 1368
+    },
+    {
+      "id": "K8Iqvuy1E8k",
+      "title": "Program to Check Strong Number or Not in C (HINDI/URDU)",
+      "duration": 1611
+    },
+    {
+      "id": "SBTVL1jkfLc",
+      "title": "Program to Check Armstrong Number in C (HINDI)",
+      "duration": 931
+    },
+    {
+      "id": "Q-jmbUbNHOM",
+      "title": "Program to Find LCM and HCF/GCD in C (HINDI)",
+      "duration": 1277
+    },
+    {
+      "id": "LAhxijt4g-4",
+      "title": "Program to Convert Decimal Numbers to Binary Numbers in C (HINDI/URDU)",
+      "duration": 878
+    },
+    {
+      "id": "1OfPXgVi3Jo",
+      "title": "Program to Count Uppercase and Lowercase Letters in a String in C (HINDI)",
+      "duration": 1176
+    },
+    {
+      "id": "5bLwaZK7nuE",
+      "title": "Do While Loop in C (HINDI/URDU)",
+      "duration": 457
+    },
+    {
+      "id": "rBwRaxH8gZo",
+      "title": "For Loop in C / C++ with Example Program (HINDI/URDU)",
+      "duration": 570
+    },
+    {
+      "id": "AU7mADJMa9Y",
+      "title": "More about For Loop in C,C++ with Examples",
+      "duration": 1158
+    },
+    {
+      "id": "6ncGHGhtGzY",
+      "title": "Program to Display Character from A to Z in C (HINDI)",
+      "duration": 360
+    },
+    {
+      "id": "JuwU8nuek3E",
+      "title": "C program to count vowel, consonant and words in a given string",
+      "duration": 695
+    },
+    {
+      "id": "FCySLQzkqFc",
+      "title": "Program for Factorial Number in C (HINDI)",
+      "duration": 656
+    },
+    {
+      "id": "Jnd_v8q9t8k",
+      "title": "Program to Check Prime Number in C (HINDI)",
+      "duration": 916
+    },
+    {
+      "id": "sbQc1l0VJ0A",
+      "title": "Fibonacci Series in C (HINDI/URDU)",
+      "duration": 826
+    },
+    {
+      "id": "Gh4lsEVCsmw",
+      "title": "Perfect Number प्राप्त करने का प्रोग्राम। Program to Check Perfect Number in C (HINDI)",
+      "duration": 641
+    },
+    {
+      "id": "XcA3P_IqKwg",
+      "title": "Nesting of FOR Loops in C (HINDI)",
+      "duration": 669
+    },
+    {
+      "id": "vHGC4g7rPWU",
+      "title": "Printing a Right Angled Triangle in C (HINDI)",
+      "duration": 555
+    },
+    {
+      "id": "-Ldd_iSo0Ps",
+      "title": "Printing Floyd's, Triangle in C (HINDI/URDU)",
+      "duration": 1020
+    },
+    {
+      "id": "droKthOz31E",
+      "title": "Alphabet Pattern Printing in C (HINDI)",
+      "duration": 2079
+    },
+    {
+      "id": "oXadOJHZ0Hw",
+      "title": "Printing Binary(0,1) Right Angled Triangle in C (HINDI)",
+      "duration": 816
+    },
+    {
+      "id": "z95nI-Tdp9A",
+      "title": "Program to Print Pascal Triangle in C (HINDI)",
+      "duration": 1121
+    },
+    {
+      "id": "3yNwqoIK4Hk",
+      "title": "Printing Different Pyramid Patterns of Numbers and Stars in C (HINDI)",
+      "duration": 2721
+    },
+    {
+      "id": "BVHQ_knIuJE",
+      "title": "1 232 34543 4567654 567898765 Pattern Printing in C (HINDI)",
+      "duration": 2779
+    },
+    {
+      "id": "9v0i0syTDU8",
+      "title": "Printing Diamond Pattern from Any Symbol  in C (HINDI)",
+      "duration": 2305
+    },
+    {
+      "id": "5NBi7o032KE",
+      "title": "Jumps in Loops - Break and Continue Statement in C (HINDI)",
+      "duration": 553
+    },
+    {
+      "id": "ixLHwaWAtdM",
+      "title": "Arrays in C Programming (HINDI/URDU)",
+      "duration": 931
+    },
+    {
+      "id": "cscUPrRWnmQ",
+      "title": "One Dimensional Array in C (HINDI/URDU)",
+      "duration": 963
+    },
+    {
+      "id": "aOlW_Un6_n4",
+      "title": "Addition and Multiplication of Two One Dimensional Array Elements in C (HINDI)",
+      "duration": 739
+    },
+    {
+      "id": "cJpvEcUdtOo",
+      "title": "Program to Merge Two Arrays and Sort It In Third Array in C (HINDI)",
+      "duration": 1905
+    },
+    {
+      "id": "vNfWeXMafqo",
+      "title": "Two and Multi Dimensional Array in C (HINDI)",
+      "duration": 1088
+    },
+    {
+      "id": "QqFlvUgdkn8",
+      "title": "Addition of Two Matrix in C (HINDI)",
+      "duration": 968
+    },
+    {
+      "id": "WtmMrHIqfUQ",
+      "title": "Multiplication of Two Matrix in C (HINDI)",
+      "duration": 3964
+    },
+    {
+      "id": "9ECDZ-OjcYM",
+      "title": "Program to Transpose a Matrix in C (HINDI)",
+      "duration": 1165
+    },
+    {
+      "id": "SqoMWHTQas0",
+      "title": "Linear Search with Practice Program in C (HINDI)",
+      "duration": 661
+    },
+    {
+      "id": "paFaCYUJVPE",
+      "title": "Binary Search with Practice Program in C (HINDI)",
+      "duration": 1137
+    },
+    {
+      "id": "rsHFHOilCU0",
+      "title": "Intro to C Functions (HINDI/URDU)",
+      "duration": 369
+    },
+    {
+      "id": "ZyTmWjWc5Eg",
+      "title": "Function Declaration and Call in C (HINDI)",
+      "duration": 853
+    },
+    {
+      "id": "Zw6vzekBuys",
+      "title": "Function Definition in  C (HINDI/URDU)",
+      "duration": 989
+    },
+    {
+      "id": "tdvnkqc308w",
+      "title": "Return Type and Arguments in Function in C (HINDI)",
+      "duration": 1093
+    },
+    {
+      "id": "Ou6Hf2dBets",
+      "title": "Actual & Formal Parameters in C,C++ with Example Program(HINDI)",
+      "duration": 530
+    },
+    {
+      "id": "mg5BclpRSXE",
+      "title": "Category of Functions in C (HINDI)",
+      "duration": 684
+    },
+    {
+      "id": "Dt9q3qiaqiA",
+      "title": "Function with No Arguments and No Return Value in C (HINDI)",
+      "duration": 778
+    },
+    {
+      "id": "qVaCC7eUPxc",
+      "title": "Function with Arguments and No Return Value in C (HINDI)",
+      "duration": 680
+    },
+    {
+      "id": "w0EyaGCbYw8",
+      "title": "Function with No Arguments and Return Value in C (HINDI)",
+      "duration": 738
+    },
+    {
+      "id": "a_SMgTBehLU",
+      "title": "Function with Arguments and Return Value (HINDI)",
+      "duration": 634
+    },
+    {
+      "id": "Xs22zOBfaoM",
+      "title": "Call by Value and Call by Reference in C (HINDI)",
+      "duration": 834
+    },
+    {
+      "id": "GHFBAN5R9v8",
+      "title": "Nesting of Functions in C (HINDI)",
+      "duration": 958
+    },
+    {
+      "id": "HSRM1w1BWqg",
+      "title": "Recursion in C (HINDI/URDU)",
+      "duration": 727
+    },
+    {
+      "id": "vs4hK9cn0M4",
+      "title": "Command Line Arguments in C (HINDI)",
+      "duration": 813
+    },
+    {
+      "id": "CoSEjV-2Yu0",
+      "title": "Passing Arrays as Function Arguments in C (HINDI)",
+      "duration": 1162
+    },
+    {
+      "id": "O50VjqpCsKk",
+      "title": "Pointers in C (HINDI/URDU)",
+      "duration": 662
+    },
+    {
+      "id": "Iku1PCkqdM4",
+      "title": "More About Pointers In C (HINDI/URDU)",
+      "duration": 1218
+    },
+    {
+      "id": "1dIvinqOBUo",
+      "title": "Null Pointer,  Pointer Referencing and Dereferencing in C/C++ (HINDI)",
+      "duration": 2652
+    },
+    {
+      "id": "dJPuyMuOj18",
+      "title": "Increment and Decrement on Pointer in C (HINDI)",
+      "duration": 506
+    },
+    {
+      "id": "hyp8S90wmTM",
+      "title": "Problem Solving on C Increment and Decrement Operators Part1 (HINDI)",
+      "duration": 1029
+    },
+    {
+      "id": "fsjBiflhbTs",
+      "title": "Problem Solving on C Increment and Decrement Operators Part2 (HINDI)",
+      "duration": 1654
+    },
+    {
+      "id": "9sWQ5Jds1jQ",
+      "title": "Array of Pointers in C (HINDI/URDU)",
+      "duration": 810
+    },
+    {
+      "id": "omwQVZ-uDOs",
+      "title": "Pointer to Pointer in C (HINDI)",
+      "duration": 875
+    },
+    {
+      "id": "6dRoZqbW4vM",
+      "title": "Pointers and Arrays in C (HINDI)",
+      "duration": 845
+    },
+    {
+      "id": "FEd4AAgAGKU",
+      "title": "Passing Pointers to Functions in C (HINDI)",
+      "duration": 1095
+    },
+    {
+      "id": "PFnaHr3soCI",
+      "title": "Pointers to Functions in C (HINDI/URDU)",
+      "duration": 1150
+    },
+    {
+      "id": "9Ge2Y5jtfd0",
+      "title": "Void Pointer in C (HINDI)",
+      "duration": 944
+    },
+    {
+      "id": "JVm698XBW44",
+      "title": "Example Program for Void Pointer in C (HINDI)",
+      "duration": 453
+    },
+    {
+      "id": "yPqZYq2g6NE",
+      "title": "Strings in C (HINDI/URDU)",
+      "duration": 1194
+    },
+    {
+      "id": "V82U0gIZesk",
+      "title": "More About Strings in C (HINDI/URDU)",
+      "duration": 1075
+    },
+    {
+      "id": "60NXG6qFH2w",
+      "title": "strlen() Function in C (HINDI/URDU)",
+      "duration": 598
+    },
+    {
+      "id": "0E8lRvlSlB8",
+      "title": "String Triangle Print करने का प्रोग्राम। Printing String Triangle in C (HINDI)",
+      "duration": 637
+    },
+    {
+      "id": "edUMC9k9vvA",
+      "title": "strcat() Function in C (HINDI/URDU)",
+      "duration": 995
+    },
+    {
+      "id": "n0qOzvOsIKk",
+      "title": "strncat() Function in C (HINDI/URDU)",
+      "duration": 924
+    },
+    {
+      "id": "NfogJTa3WG4",
+      "title": "strcpy() Function in C (HINDI)",
+      "duration": 800
+    },
+    {
+      "id": "_4sIQwgJKM4",
+      "title": "strncpy() Function in C (HINDI)",
+      "duration": 1219
+    },
+    {
+      "id": "21CXDgWTw9k",
+      "title": "strcmp() Function in C (HINDI)",
+      "duration": 1006
+    },
+    {
+      "id": "HGGrHQy7YbE",
+      "title": "strrev() Function in C (HINDI)",
+      "duration": 527
+    },
+    {
+      "id": "x6cUOyzzjKU",
+      "title": "Arrays of Strings in C (HINDI/URDU)",
+      "duration": 902
+    },
+    {
+      "id": "RZ4Ip01_GPI",
+      "title": "Reversing a String Without Using Library Function in C (HINDI)",
+      "duration": 757
+    },
+    {
+      "id": "Qzbty6i4veg",
+      "title": "Program to Reverse a String in C (HINDI)",
+      "duration": 1610
+    },
+    {
+      "id": "8ZUjIApUzAw",
+      "title": "Program for Palindrome String in C (HINDI)",
+      "duration": 682
+    },
+    {
+      "id": "6EdtxlSVwNU",
+      "title": "Program to Check Whether Two Strings are Anagrams in C (HINDI)",
+      "duration": 2586
+    },
+    {
+      "id": "_Mc6VoWS-8w",
+      "title": "Introduction to Structure in C (HINDI)",
+      "duration": 489
+    },
+    {
+      "id": "ZVoRQf2EXPo",
+      "title": "Accessing Members of Structure in C (HINDI)",
+      "duration": 869
+    },
+    {
+      "id": "v_dHbPJi8o4",
+      "title": "An Example Program for Structure in C (HINDI)",
+      "duration": 898
+    },
+    {
+      "id": "_pybIn1yuY4",
+      "title": "Array within Structure in C (HINDI/URDU)",
+      "duration": 917
+    },
+    {
+      "id": "2PjtV9-QyOE",
+      "title": "Array of Structure in C (HINDI)",
+      "duration": 985
+    },
+    {
+      "id": "0x9EVpv1V0k",
+      "title": "Structure within Structure in C (HINDI)",
+      "duration": 556
+    },
+    {
+      "id": "0bdLNewNxis",
+      "title": "Program for Nested Structure in C (HINDI)",
+      "duration": 875
+    },
+    {
+      "id": "25uPAfiinWc",
+      "title": "Pointer to Structure in C (HINDI)",
+      "duration": 702
+    },
+    {
+      "id": "YeOC6ZCCo7A",
+      "title": "Passing Structure as a Function Argument in C (HINDI)",
+      "duration": 1051
+    },
+    {
+      "id": "eCqRUBAvywU",
+      "title": "Introduction to Union in C (HINDI/URDU)",
+      "duration": 959
+    },
+    {
+      "id": "zXzWJSEAMA0",
+      "title": "Difference Between Structure and Union  in C (HINDI)",
+      "duration": 735
+    },
+    {
+      "id": "669YaQQMM_0",
+      "title": "Dynamic Memory Allocation In C (HINDI/URDU)",
+      "duration": 559
+    },
+    {
+      "id": "8-L9WE-Dnl8",
+      "title": "malloc() Function in C (HINDI/URDU)",
+      "duration": 771
+    },
+    {
+      "id": "yehmSyTbWOA",
+      "title": "Example Program for malloc() Function in C (HINDI)",
+      "duration": 1351
+    },
+    {
+      "id": "9o_PsZWH1cM",
+      "title": "Free() Function in C (HINDI)",
+      "duration": 359
+    },
+    {
+      "id": "g_oObj3tCoQ",
+      "title": "calloc() Function in C (HINDI)",
+      "duration": 609
+    },
+    {
+      "id": "iDmqwZVcWBM",
+      "title": "Example Program for calloc in C (HINDI)",
+      "duration": 1005
+    },
+    {
+      "id": "pVhcYE6pR-4",
+      "title": "realloc()  function in C (HINDI)",
+      "duration": 487
+    },
+    {
+      "id": "jTRdrSe6Sbo",
+      "title": "Program for realloc() function in C (HINDI)",
+      "duration": 1627
+    },
+    {
+      "id": "QToupvpxfMc",
+      "title": "Introduction to File Handling in C (HINDI)",
+      "duration": 429
+    },
+    {
+      "id": "CyqS3ymoPZc",
+      "title": "File Opening Modes in C (HINDI)",
+      "duration": 955
+    },
+    {
+      "id": "AlQ7Z137RDE",
+      "title": "File Management fopen() and fclose() in C (HINDI)",
+      "duration": 757
+    },
+    {
+      "id": "F8ci5HBa3C8",
+      "title": "File Management getc() and putc() in C (HINDI)",
+      "duration": 649
+    },
+    {
+      "id": "aL2a0UwaXyM",
+      "title": "Example Program for File Handling in C (HINDI)",
+      "duration": 1029
+    },
+    {
+      "id": "1SPUNmCa0yc",
+      "title": "File Management fgets() and fputs() in C (HINDI)",
+      "duration": 828
+    },
+    {
+      "id": "v8azyBCFp8c",
+      "title": "Example Program for fgets() and fputs() in C (HINDI)",
+      "duration": 796
+    },
+    {
+      "id": "wDMPoFNOtfY",
+      "title": "File Management getw() and putw() in C (HINDI)",
+      "duration": 566
+    },
+    {
+      "id": "UDLDJ_srfcU",
+      "title": "Example Program for getw() and putw() in C (HINDI)",
+      "duration": 659
+    },
+    {
+      "id": "9W-Ha4wRULc",
+      "title": "File Management fprintf() and fscanf() in C (HINDI)",
+      "duration": 569
+    },
+    {
+      "id": "sdkvKOvqwAA",
+      "title": "Example Program for fprintf() and fscanf() in C (HINDI)",
+      "duration": 1027
+    },
+    {
+      "id": "GDvgE1ekcBc",
+      "title": "File Management feof() and ferror() in C (HINDI)",
+      "duration": 922
+    },
+    {
+      "id": "-f_9CIAj8c0",
+      "title": "Example Program for feof() and ferror() in C (HINDI)",
+      "duration": 838
+    },
+    {
+      "id": "xjVr5dVbTo8",
+      "title": "Checking Whether File is Opened or Not in C (HINDI)",
+      "duration": 916
+    },
+    {
+      "id": "xtEdjl2LVu8",
+      "title": "fseek() ftell() and rewind() in C (HINDI)",
+      "duration": 1173
+    },
+    {
+      "id": "S9TCgHKjbSw",
+      "title": "Example Program for fseek() ftell() and rewind() in C (HINDI)",
+      "duration": 885
+    },
+    {
+      "id": "EETBQ3yWcFA",
+      "title": "fread() and fwrite() Function in C (HINDI)",
+      "duration": 1053
+    },
+    {
+      "id": "2L9SJRJUMF0",
+      "title": "File Inclusion Directives in C (HINDI/URDU)",
+      "duration": 393
+    },
+    {
+      "id": "FvyTf85cT_0",
+      "title": "Graphics Programming in C (HINDI/URDU)",
+      "duration": 669
+    },
+    {
+      "id": "2WXdTrZy7a8",
+      "title": "initgraph() Function in C/C++ (HINDI)",
+      "duration": 953
+    },
+    {
+      "id": "7r7k_-otbRE",
+      "title": "Graphics - graphresult() Function & grapherrormsg() Function in C (HINDI)",
+      "duration": 755
+    },
+    {
+      "id": "eyGfQMYsfmo",
+      "title": "Graphics - Outtext() and Outtextxy() Graphics in C (HINDI)",
+      "duration": 749
+    },
+    {
+      "id": "oSVyMRHN4c8",
+      "title": "First Graphics Program in C (HINDI)",
+      "duration": 679
+    },
+    {
+      "id": "zK5vMH24wq0",
+      "title": "Graphics - Program to  Draw Line in C (HINDI)",
+      "duration": 722
+    },
+    {
+      "id": "aC2jVeifg2o",
+      "title": "Program to Draw Circle Using C Graphics (HINDI)",
+      "duration": 414
+    },
+    {
+      "id": "D_UnjAR0ZkA",
+      "title": "Drawing Rectangle Using C Graphics (HINDI)",
+      "duration": 588
+    },
+    {
+      "id": "-f21je_5ewg",
+      "title": "Drawing Ellipse Using Graphics in C (HINDI)",
+      "duration": 1255
+    },
+    {
+      "id": "qWDrrRX67jE",
+      "title": "Using Colors in Graphics in C (HINDI)",
+      "duration": 1272
+    },
+    {
+      "id": "2kAfRypW9z8",
+      "title": "Filling Patterns With Different Colors And Styles in C/C++ (HINDI)",
+      "duration": 1696
+    },
+    {
+      "id": "dnDmpTOuclk",
+      "title": "Drawing Bar Graph/Chart in C (HINDI)",
+      "duration": 1503
+    },
+    {
+      "id": "7tnIoVPi9H4",
+      "title": "How to Run C/C++ Graphics Program in CodeBlocks? (HINDI)",
+      "duration": 395
+    }
+  ]
+}

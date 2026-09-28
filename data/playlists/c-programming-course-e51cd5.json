@@ -1,0 +1,70 @@
+{
+  "courseId": "c-programming-course-e51cd5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:06.711Z",
+  "title": "C Programming Course",
+  "channel": "College Wallah",
+  "videos": [
+    {
+      "id": "rQoqCP7LX60",
+      "title": "C Programming in One Shot | Part 1 | Variables, Operators and Input/ Output | C Complete Course",
+      "duration": 14545
+    },
+    {
+      "id": "7PSfRdeY5qE",
+      "title": "If Else in 1 Video | C Programming | Lecture 2 | Complete C Course",
+      "duration": 10524
+    },
+    {
+      "id": "wYvrBXUfFfw",
+      "title": "Loops in One Shot | C Programming | Lecture 3 | Complete C Course",
+      "duration": 14245
+    },
+    {
+      "id": "clIcH1ALHMw",
+      "title": "Pattern Printing in One Video | Lecture 4 | C Programming Series",
+      "duration": 14539
+    },
+    {
+      "id": "mIY3QVktHU8",
+      "title": "Functions & Pointers in One Shot | C Programming | Lecture 5 | Complete C Course",
+      "duration": 11709
+    },
+    {
+      "id": "Bd-1YM8taBc",
+      "title": "Recursion in One Shot | C Programming | Lecture 6 | Complete C Course",
+      "duration": 15439
+    },
+    {
+      "id": "aWKJ5lRgI3U",
+      "title": "Arrays in One Shot | C Programming | Lecture 7",
+      "duration": 14385
+    },
+    {
+      "id": "sEiMDFdbPGo",
+      "title": "2D Arrays in One Shot | C Programming | Lecture 8",
+      "duration": 15677
+    },
+    {
+      "id": "8qKp63Ox3vQ",
+      "title": "Strings in One Shot | Lecture 9 | C Programming Course",
+      "duration": 7397
+    },
+    {
+      "id": "nDmULDo8D18",
+      "title": "Structures in One Shot | Lecture 10 | C Programming Course",
+      "duration": 13751
+    },
+    {
+      "id": "9s1_FWWxvlg",
+      "title": "Sorting | Time and Space Analysis | Lecture 11 | C Programming",
+      "duration": 14697
+    },
+    {
+      "id": "4DljBbiC2p4",
+      "title": "File Handling | Preprocessor | Dynamic Memory Allocation | Switch Statement | C Programming 12",
+      "duration": 6575
+    }
+  ]
+}

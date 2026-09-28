@@ -1,0 +1,310 @@
+{
+  "courseId": "artificial-intelligence-complete-playlist-702817",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:47.675Z",
+  "title": "Artificial Intelligence (Complete Playlist)",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "uB3i-qV6VdM",
+      "title": "Lec-1: Artificial Intelligence Syllabus Discussion and Analysis  for NTA UGC NET",
+      "duration": 686
+    },
+    {
+      "id": "gm5DcqzZ3f4",
+      "title": "Lec-2: What's the FUTURE of Artificial Intelligence in 2025",
+      "duration": 270
+    },
+    {
+      "id": "s-s9ilkMVj8",
+      "title": "Lec-3: What is Artificial Intelligence | Learn AI with Real Life Examples | Can Machine Think??",
+      "duration": 511
+    },
+    {
+      "id": "E5jVBqe59EE",
+      "title": "Lec-4: What is State Space Search | Introduction to Problem Solving in Artificial Intelligence",
+      "duration": 647
+    },
+    {
+      "id": "gZpUcsB9TFc",
+      "title": "Lec-5: Uninformed Vs Informed Search in Artificial Intelligence with Example",
+      "duration": 497
+    },
+    {
+      "id": "YatDNnaJ1TU",
+      "title": "Lec-6: Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence",
+      "duration": 383
+    },
+    {
+      "id": "qul0f79gxGs",
+      "title": "Lec-7: Breadth First Search (BFS) with example | Uninformed Search | Artificial Intelligence",
+      "duration": 777
+    },
+    {
+      "id": "f8luGFRtshY",
+      "title": "Lec-8: Depth First Search (DFS) with example | Uninformed Search | Artificial Intelligence",
+      "duration": 553
+    },
+    {
+      "id": "_Ky9w2zF8JM",
+      "title": "Lec-9: Time & Space Complexity of BFS and DFS | Artificial Intelligence",
+      "duration": 478
+    },
+    {
+      "id": "rEema9uQ02c",
+      "title": "Lec-10: Bidirectional Search Algorithm in Artificial Intelligence in Hindi with Real Life Examples",
+      "duration": 527
+    },
+    {
+      "id": "7ffDUDjwz5E",
+      "title": "Lec-11: Best First Search Algorithm | How it Works | All Imp Points(Pros & Cons)",
+      "duration": 881
+    },
+    {
+      "id": "jbw6nWFWxDk",
+      "title": "Lec-12: Depth-Limited Search (DLS) Explained | Uninformed Search in AI",
+      "duration": 791
+    },
+    {
+      "id": "0-vP781wblQ",
+      "title": "Lec-13: Iterative Deepening Depth-First Search (IDDFS) | Artificial Intelligence",
+      "duration": 311
+    },
+    {
+      "id": "_CrEYrcImv0",
+      "title": "Lec-14: 8-Puzzle Problem in Artificial Intelligence without Heuristic | All Imp Points | Must Watch",
+      "duration": 665
+    },
+    {
+      "id": "5F9YzkpnaRw",
+      "title": "Lec-15: What is Heuristic in AI | Why we use Heuristic | How to Calculate Heuristic | Must Watch",
+      "duration": 777
+    },
+    {
+      "id": "nmWGhb9E4es",
+      "title": "Lec-16: How to Solve 8-Puzzle Problem with Heuristic(Informed Search) in Artificial Intelligence",
+      "duration": 667
+    },
+    {
+      "id": "h-AfcPvpld4",
+      "title": "Lec-17: Generate and Test Search in Artificial Intelligence with Examples | Heuristic Search",
+      "duration": 478
+    },
+    {
+      "id": "jhoXO1XF6Fk",
+      "title": "Lec-18: Beam Search Algorithm | All Imp Points | Heuristic Search Techniques",
+      "duration": 722
+    },
+    {
+      "id": "3SiWtAnUROs",
+      "title": "Lec-19: Hill Climbing Algorithm in Artificial Intelligence with Real Life Examples| Heuristic Search",
+      "duration": 614
+    },
+    {
+      "id": "tvAh0JZF2YE",
+      "title": "Lec-20: A* algorithm in AI (artificial intelligence) in HINDI | A* algorithm with example",
+      "duration": 874
+    },
+    {
+      "id": "xz1Nq6cZejI",
+      "title": "Lec-21: How to Proof A* Admissible| Underestimation & Overestimation of A* in Hindi",
+      "duration": 745
+    },
+    {
+      "id": "u_TE42-uWD0",
+      "title": "Lec-22: AO* algorithm in AI (artificial intelligence) in HINDI | AO* algorithm with example",
+      "duration": 804
+    },
+    {
+      "id": "FFzdXJ49KAI",
+      "title": "Lec-23: Introduction to Game Playing | Learn Game Playing Algorithms with Example",
+      "duration": 427
+    },
+    {
+      "id": "Ntu8nNBL28o",
+      "title": "Lec-24: Minimax Algorithm in Game Playing | Artificial Intelligence",
+      "duration": 749
+    },
+    {
+      "id": "dEs_kbvu_0s",
+      "title": "Lec-25: Alpha Beta Pruning in Hindi with Example | Artificial Intelligence",
+      "duration": 981
+    },
+    {
+      "id": "9iN3O_oL2ac",
+      "title": "Lec-26: Knowledge Representation and Reasoning | Logic, Semantic Net, Frames etc.",
+      "duration": 464
+    },
+    {
+      "id": "6490tKrGEic",
+      "title": "Lec-27: Propositional Logic in Artificial Intelligence | Knowledge Representation | All Imp Points",
+      "duration": 740
+    },
+    {
+      "id": "BkedAnQfJ_U",
+      "title": "Lec-28: Introduction to Intelligent Agents and their types with Example in Artificial Intelligence",
+      "duration": 670
+    },
+    {
+      "id": "KZFfbebQPAU",
+      "title": "Lec-29: Simple Reflex Agent in Artificial Intelligence with Example | Artificial Intelligence",
+      "duration": 544
+    },
+    {
+      "id": "xKxh3fQwU8E",
+      "title": "Lec-30: Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples",
+      "duration": 435
+    },
+    {
+      "id": "HsdiMkKnNLk",
+      "title": "Lec-31: Goal Based Agents in Artificial Intelligence with real life examples in HINDI",
+      "duration": 328
+    },
+    {
+      "id": "e-egxFtAF_4",
+      "title": "Lec-32: Utility Based Agents in Artificial Intelligence in Hindi with real life examples",
+      "duration": 335
+    },
+    {
+      "id": "vof2vhfqoBo",
+      "title": "Lec-33: Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence",
+      "duration": 783
+    },
+    {
+      "id": "o-2O4fmIu3E",
+      "title": "Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.",
+      "duration": 782
+    },
+    {
+      "id": "EYeF2e2IKEo",
+      "title": "Lec-35: Introduction to Neural Networks with Example in HINDI | Artificial Intelligence",
+      "duration": 680
+    },
+    {
+      "id": "bPpwZxasJo0",
+      "title": "Lec-36: Natural Language Processing in Artificial Intelligence in Hindi | NLP with Demo and Examples",
+      "duration": 1038
+    },
+    {
+      "id": "4dwsSz_fNSQ",
+      "title": "Lec-37: Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi",
+      "duration": 568
+    },
+    {
+      "id": "96-u9s6D16k",
+      "title": "Lec-38: Genetic Algorithm in Artificial Intelligence | Simplest Explanation with real life examples",
+      "duration": 744
+    },
+    {
+      "id": "AgyCSmDVk5s",
+      "title": "Lec-39: What is Constraint Satisfaction | Constraint Satisfaction Problem (CSP) in AI with Example",
+      "duration": 491
+    },
+    {
+      "id": "udOfKqeLVSg",
+      "title": "Lec-40: How Constraint Satisfaction Algorithm Works | Explained with Interesting Example | AI",
+      "duration": 640
+    },
+    {
+      "id": "XZbrmetb9VE",
+      "title": "Lec-41: Branch & Bound Algorithm with Example | Easiest Explanation of B&B with example",
+      "duration": 793
+    },
+    {
+      "id": "CwM-Mv0Bm4Y",
+      "title": "Lec-42 : 0/1 Knapsack using Branch and Bound with example",
+      "duration": 680
+    },
+    {
+      "id": "PKeOJ4a2DNc",
+      "title": "When There is Uncertainty🤨#artificialintelligence #shorts #ytshorts #machinelearning",
+      "duration": 32
+    },
+    {
+      "id": "519FvcUQqYU",
+      "title": "Lec-43: Propositional Logic | Artificial Intelligence",
+      "duration": 707
+    },
+    {
+      "id": "FpGeg27Ffk8",
+      "title": "Lec-44: Predicate Logic | Artificial Intelligence",
+      "duration": 611
+    },
+    {
+      "id": "Aw3EOSr64j0",
+      "title": "Lec-45: How to write First order/Predicate logic | Artificial Intelligence",
+      "duration": 564
+    },
+    {
+      "id": "XYfTz5gziBk",
+      "title": "Lec-46: Negation of Quantifiers | Predicate Logic | Logic with Certainty | Artificial Intelligence",
+      "duration": 425
+    },
+    {
+      "id": "TD7DilUtUvE",
+      "title": "Lec-47: Questions on Propositional & Predicate logic | How to Solve Problems in Logic",
+      "duration": 766
+    },
+    {
+      "id": "SktJqrYereQ",
+      "title": "Lec-48: Bayes Theorem & Total Probability with Examples",
+      "duration": 436
+    },
+    {
+      "id": "DVnubVOjZtg",
+      "title": "Lec-49 : Network with Examples | Easiest Explanation",
+      "duration": 594
+    },
+    {
+      "id": "xDyMuT9BliI",
+      "title": "Lec-50: Question on Bayesian Network | Artificial Intelligence",
+      "duration": 467
+    },
+    {
+      "id": "zLlKc8AePIQ",
+      "title": "Lec-51: Bayesian Network Numerical Example #gate2025preparation",
+      "duration": 430
+    },
+    {
+      "id": "kGlR6gBIjTk",
+      "title": "Lec-52: Probabilistic Inference | Sampling | Artificial Intelligence",
+      "duration": 486
+    },
+    {
+      "id": "D4x0NB5cKGE",
+      "title": "Lec-53: Likelihood Weight Sampling | Inference through Sampling | Uncertainty in Artificial",
+      "duration": 548
+    },
+    {
+      "id": "kWyFuJWGYdc",
+      "title": "Lec-54: Question on Likelihood Sampling | Probabilistic Inference | Sampling | Artificial",
+      "duration": 487
+    },
+    {
+      "id": "ilmJD8tRg-Q",
+      "title": "Lec-55: Rejection Sampling | Probabilistic Inference | Sampling | Artificial Intelligence",
+      "duration": 389
+    },
+    {
+      "id": "MIf5shIfsj8",
+      "title": "Lec-56: Reasoning under Uncertainty in Artificial Intelligence",
+      "duration": 508
+    },
+    {
+      "id": "6eKQnSf7atA",
+      "title": "Lec-57: Uncertainty probabilistic inference (Markov Model) | Artificial Intelligence",
+      "duration": 855
+    },
+    {
+      "id": "GIuaPCWXy0Q",
+      "title": "Lec-58: Introduction to Hidden Markov Model | Artificial Intelligence",
+      "duration": 829
+    },
+    {
+      "id": "UcFhiOtNHsQ",
+      "title": "Lec-31: Token & Parameters in LLama3 META Models | 8B & 70B Parameters Model | GPT model",
+      "duration": 429
+    }
+  ]
+}

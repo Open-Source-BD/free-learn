@@ -1,0 +1,170 @@
+{
+  "courseId": "compiler-design-8f24d1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:03.182Z",
+  "title": "Compiler Design",
+  "channel": "Abhishek Sharma",
+  "videos": [
+    {
+      "id": "4mAxMWz8p6g",
+      "title": "Lecture 1 Introduction to Compiler and types of COMPILER | Two parts of compilation process",
+      "duration": 490
+    },
+    {
+      "id": "Pwps_CP5MFE",
+      "title": "Language Processing System in Compiler Design | Lecture 2",
+      "duration": 655
+    },
+    {
+      "id": "fhgTETR77PY",
+      "title": "Lecture 3 Compiler vs Interpreter",
+      "duration": 378
+    },
+    {
+      "id": "wnJMYuKaTvk",
+      "title": "Lecture 4 Phases of a COMPILER | Compiler Design",
+      "duration": 909
+    },
+    {
+      "id": "CD542K8DqCQ",
+      "title": "Lecture 5 Functions of a Lexical Analyzer | Compiler Design",
+      "duration": 357
+    },
+    {
+      "id": "rRWzN219fsg",
+      "title": "Lecture 6 Tokens patterns and Lexemes in Compiler Design | ABHISHEK Sharma Lectures",
+      "duration": 562
+    },
+    {
+      "id": "ETMcmKtAgBs",
+      "title": "Lecture 7 Grammars in Compiler Design with example",
+      "duration": 819
+    },
+    {
+      "id": "FUvWDxvcXBw",
+      "title": "Lecture 8 Leftmost Derivation , Rightmost Derivation and PARSE Tree",
+      "duration": 899
+    },
+    {
+      "id": "8MwWl85NAe8",
+      "title": "Lecture 9 Ambiguous Grammar in Compiler Design",
+      "duration": 954
+    },
+    {
+      "id": "PZc67fO9JMY",
+      "title": "Lecture 10  Examples to Check Grammar is ambiguous or not |  Compiler Design",
+      "duration": 1230
+    },
+    {
+      "id": "nyWxFxAj2Ms",
+      "title": "Lecture 11 Ambiguous to unambiguous Grammar in Compiler Design",
+      "duration": 1130
+    },
+    {
+      "id": "0kUVqKBPD1k",
+      "title": "How can you Support the Channel ?",
+      "duration": 33
+    },
+    {
+      "id": "YiCtHVZR_lA",
+      "title": "Lecture 12 Ambiguous to unambiguous grammar examples | Compiler Design",
+      "duration": 986
+    },
+    {
+      "id": "usDg_TdKbyo",
+      "title": "Lecture 13 How to remove Left Recursion in Compiler Design",
+      "duration": 890
+    },
+    {
+      "id": "EHKTx9Df188",
+      "title": "Lecture 14 Examples to eliminate left recursion | 6 Questions explained",
+      "duration": 723
+    },
+    {
+      "id": "CIN01KsPSpg",
+      "title": "Lecture 15 Left factoring with examples | Common prefix problem in Compiler Design",
+      "duration": 649
+    },
+    {
+      "id": "xfHjoXXzlCY",
+      "title": "Lecture 16 First and Follow in Compiler Design | LL(1) Parser",
+      "duration": 865
+    },
+    {
+      "id": "L9iAmoEcGIE",
+      "title": "Lecture 17  6 examples to find First and Follow | Most Important for exams",
+      "duration": 1234
+    },
+    {
+      "id": "CdC61wH1Zic",
+      "title": "Lecture-18 Types of parsers | Top down parser and Bottom up parser with example",
+      "duration": 869
+    },
+    {
+      "id": "4NWgdNquqEo",
+      "title": "LL(1) Parsing Table in Compiler Design | Lecture 19",
+      "duration": 795
+    },
+    {
+      "id": "d8k4EDOd0Gc",
+      "title": "Lecture 20 Making parse tree from LL(1) parsing table | Compiler Design",
+      "duration": 938
+    },
+    {
+      "id": "ku7bDfrxehw",
+      "title": "Lecture-21 Checking Grammar is LL(1) or not | Compiler Design",
+      "duration": 904
+    },
+    {
+      "id": "6YCbJizBuk0",
+      "title": "Lecture-22 Recursive descent parser with example in COMPILER DESIGN",
+      "duration": 646
+    },
+    {
+      "id": "GJBHAST2n0U",
+      "title": "Lecture-23 Operator Grammar in Compiler Design |  what is Operator Precedence Grammar in Compiler",
+      "duration": 307
+    },
+    {
+      "id": "m0gZpHcehkg",
+      "title": "Lecture-24 Operator Precedence Parser with example in Hindi | Compiler Design",
+      "duration": 1387
+    },
+    {
+      "id": "SePsuX5Rk5w",
+      "title": "Lecture-25  Operator precedence table example-2 | Check Operator Precedence grammar",
+      "duration": 570
+    },
+    {
+      "id": "R-RFzp9lfxM",
+      "title": "LEX tool in Compiler Design | Everything about LEX tool in Compiler Design | Part 1",
+      "duration": 416
+    },
+    {
+      "id": "vvXEN7bOP_U",
+      "title": "LEX tool programs explanation | LEX tool part-2 | Compiler Design",
+      "duration": 588
+    },
+    {
+      "id": "87K0nHA_F5Y",
+      "title": "YACC in Hindi | YACC (Yet Another Compiler Compiler) in Compiler Design",
+      "duration": 898
+    },
+    {
+      "id": "vn9AozmTzuo",
+      "title": "My INFOSYS SES Training Experience  || Infosys Training Process",
+      "duration": 823
+    },
+    {
+      "id": "LF_HHuquOvo",
+      "title": "My Infosys 2.5 years Journey || Abhishek Sharma Specialist Programmar",
+      "duration": 379
+    },
+    {
+      "id": "n7PrTKe0N7k",
+      "title": "Cloud Computing Roadmap  | How to become a Cloud Engineer #cloudcomputing",
+      "duration": 373
+    }
+  ]
+}

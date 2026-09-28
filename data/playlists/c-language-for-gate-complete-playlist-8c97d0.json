@@ -1,0 +1,450 @@
+{
+  "courseId": "c-language-for-gate-complete-playlist-8c97d0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC36xJgs4dxG-IqARhc23jYTDMYt7yvZP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:57.701Z",
+  "title": "C Language for GATE — Complete Playlist",
+  "channel": "GATE CSE LECTURES BY AMIT KHURANA",
+  "videos": [
+    {
+      "id": "U9dv2wvZ2UI",
+      "title": "Introduction to C Language - Part-1 | C Language Tutorial",
+      "duration": 2020
+    },
+    {
+      "id": "G1jXuIDDnM0",
+      "title": "Introduction to C Language - Part-2 | C Language Tutorial",
+      "duration": 1857
+    },
+    {
+      "id": "tMsc2_VX-9M",
+      "title": "Syllabus of c language",
+      "duration": 1101
+    },
+    {
+      "id": "tipMhXGuqQg",
+      "title": "keywords in C language",
+      "duration": 453
+    },
+    {
+      "id": "6tGB1gW2A3s",
+      "title": "variable and constant in C",
+      "duration": 2123
+    },
+    {
+      "id": "tclQ3yYH3TU",
+      "title": "DataTypes in c | what are data types | DataTypes in c programming",
+      "duration": 3305
+    },
+    {
+      "id": "BI3epVCgAbE",
+      "title": "Operators in C | Arithmetic operator in C | Assignment | relational | logical operators in C",
+      "duration": 3671
+    },
+    {
+      "id": "YbswmXYFPPk",
+      "title": "operators in C | Increment operator in C | Decrement operator in C",
+      "duration": 2621
+    },
+    {
+      "id": "oX2eSgV0Q0w",
+      "title": "operators in C |  Ternary (conditional) operator in C |  Sizeof operator in C | Shortcut  operators",
+      "duration": 1633
+    },
+    {
+      "id": "rUWCQCiEkE8",
+      "title": "operators in C |  Type casting operator in C |  Type conversion in C | implicit and explicit",
+      "duration": 818
+    },
+    {
+      "id": "gE6oVbTi8Cw",
+      "title": "operators in C |  comma operator in C |  comma as a separator | comma as a operator",
+      "duration": 1227
+    },
+    {
+      "id": "B05XOvVyeH4",
+      "title": "Rules for Naming a Variable| How to Write Variable Name| Variable Naming Conventions In C Language",
+      "duration": 363
+    },
+    {
+      "id": "TkbbG7R-dtY",
+      "title": "input output functions in C program | printf, scanf | printf and scanf functions c langauge",
+      "duration": 994
+    },
+    {
+      "id": "ybALcYlNfUc",
+      "title": "first c program",
+      "duration": 1481
+    },
+    {
+      "id": "tqFhPQULWfA",
+      "title": "Simple if Statement in C | control structures in C",
+      "duration": 1031
+    },
+    {
+      "id": "7uBI6FLRLx0",
+      "title": "If Else Control Statements In C: C Tutorial In Hindi",
+      "duration": 1346
+    },
+    {
+      "id": "nrmr2ODWkjI",
+      "title": "nested if statement in c programming | nested if statement syntax,flowchart and example program in c",
+      "duration": 2692
+    },
+    {
+      "id": "NgnZ0OiT710",
+      "title": "if else if ladder statement in c | else if statement syntax, flowchart and example program in c",
+      "duration": 709
+    },
+    {
+      "id": "8ntoNsC_kEU",
+      "title": "Switch Case Control Statements In C: C Tutorial In Hindi | part 1",
+      "duration": 1786
+    },
+    {
+      "id": "A0FPetS_FZo",
+      "title": "Switch Case Control Statements In C: C Tutorial In Hindi | part 2",
+      "duration": 2069
+    },
+    {
+      "id": "L5lCV_6i66s",
+      "title": "While Loop In C: C Tutorial In Hindi",
+      "duration": 3529
+    },
+    {
+      "id": "1E6ZctQiEZ0",
+      "title": "Do While Loop In C: C Tutorial In Hindi",
+      "duration": 1169
+    },
+    {
+      "id": "yoxL5KhfESw",
+      "title": "For Loop In C: C Tutorial In Hindi",
+      "duration": 981
+    },
+    {
+      "id": "0wtwI_nZ3Y8",
+      "title": "Nested Loops in C",
+      "duration": 3011
+    },
+    {
+      "id": "Tfm_CKYkyq4",
+      "title": "break and continue statements  In C",
+      "duration": 1793
+    },
+    {
+      "id": "uUkKpQFtoVI",
+      "title": "Printing Patterns In C | PART 1",
+      "duration": 2335
+    },
+    {
+      "id": "LD704RmCGUI",
+      "title": "Printing Patterns In C | PART 2",
+      "duration": 2972
+    },
+    {
+      "id": "amQloA2ebuU",
+      "title": "Printing Patterns In C | PART 3",
+      "duration": 2822
+    },
+    {
+      "id": "IFBv8zRtUbI",
+      "title": "2 D Arrays In C: C Tutorial In Hindi",
+      "duration": 2450
+    },
+    {
+      "id": "17Dhxs0uzvE",
+      "title": "Arrays In C: C Tutorial In Hindi",
+      "duration": 3287
+    },
+    {
+      "id": "A0anmKm_ffw",
+      "title": "2 D Arrays In C: C Tutorial In Hindi | part 2",
+      "duration": 3157
+    },
+    {
+      "id": "Ds6_QXyT5y8",
+      "title": "Strings In C: C Tutorial In Hindi | GATE 2023 | PART 1",
+      "duration": 1996
+    },
+    {
+      "id": "pYmzr74hg_w",
+      "title": "Strings In C: C Tutorial In Hindi | GATE 2023 | PART 2",
+      "duration": 2015
+    },
+    {
+      "id": "z5qIXU3hEzo",
+      "title": "Functions In C: C Tutorial In Hindi | part 1",
+      "duration": 2430
+    },
+    {
+      "id": "pzx_-WfFXjw",
+      "title": "Functions In C: C Tutorial In Hindi | part 2",
+      "duration": 2567
+    },
+    {
+      "id": "1hDkBjRQTAI",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi | PART 1",
+      "duration": 3049
+    },
+    {
+      "id": "wUbJVic5NKc",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi | PART 2",
+      "duration": 3371
+    },
+    {
+      "id": "MBBFMT3AV0Y",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi | PART 3",
+      "duration": 3484
+    },
+    {
+      "id": "4uF9Nthpx-w",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi | PART 4",
+      "duration": 2155
+    },
+    {
+      "id": "FbGclatvYaw",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi | PART 5",
+      "duration": 4508
+    },
+    {
+      "id": "aJ0y166dJUM",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi | part 1",
+      "duration": 2431
+    },
+    {
+      "id": "8X8UZKha7zY",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi | part 2",
+      "duration": 963
+    },
+    {
+      "id": "w6KxUgmBWDw",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi | part 3",
+      "duration": 3228
+    },
+    {
+      "id": "Cq8hTf0CuzA",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi | part 4",
+      "duration": 1905
+    },
+    {
+      "id": "lbpcppCKaHM",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi | part 5",
+      "duration": 3159
+    },
+    {
+      "id": "dtDagq5FVMU",
+      "title": "C Pre-processor Introduction & Working: C Tutorial In Hindi",
+      "duration": 2683
+    },
+    {
+      "id": "DYfLScrF47M",
+      "title": "User Defined Datatypes in C Language | C Tutorial for Beginners",
+      "duration": 3797
+    },
+    {
+      "id": "NwmtcW6OMbw",
+      "title": "Bitwise operators in C",
+      "duration": 4729
+    },
+    {
+      "id": "IAiulp74aGw",
+      "title": "C language completed!! | GATE 2023",
+      "duration": 291
+    },
+    {
+      "id": "4XmJBtujHeA",
+      "title": "1. Pointers intro 1",
+      "duration": 579
+    },
+    {
+      "id": "tXRThYRcOmE",
+      "title": "2. Pointers intro 2",
+      "duration": 459
+    },
+    {
+      "id": "85pjxNzPk5Q",
+      "title": "3. Summary of intro to pointers",
+      "duration": 126
+    },
+    {
+      "id": "S0NfrKgFYN8",
+      "title": "4. pointer to pointer",
+      "duration": 162
+    },
+    {
+      "id": "jm492qmHFig",
+      "title": "5. small question on pointers",
+      "duration": 147
+    },
+    {
+      "id": "oeIM3eI4zWI",
+      "title": "6. practice question for * and & operator",
+      "duration": 672
+    },
+    {
+      "id": "vS4o95xEG4k",
+      "title": "7. pointer arithmetic",
+      "duration": 836
+    },
+    {
+      "id": "TuzFTLoubuA",
+      "title": "8. question on pointer arithmetic",
+      "duration": 569
+    },
+    {
+      "id": "QwD6tKk7Wr8",
+      "title": "9. void pointer",
+      "duration": 498
+    },
+    {
+      "id": "RSrOTNIsNso",
+      "title": "10. question on void pointer",
+      "duration": 491
+    },
+    {
+      "id": "k75lpra8sBg",
+      "title": "how to print content of memory location 2000",
+      "duration": 187
+    },
+    {
+      "id": "v75CPaCuJIE",
+      "title": "pointer and pointer to pointer diffrence",
+      "duration": 281
+    },
+    {
+      "id": "0an69DcHsT0",
+      "title": "complex pointers",
+      "duration": 1221
+    },
+    {
+      "id": "xEulGw9SUUo",
+      "title": "question on complex pointers",
+      "duration": 129
+    },
+    {
+      "id": "py3D2-e-RHs",
+      "title": "gate 2005 question on complex pointer",
+      "duration": 44
+    },
+    {
+      "id": "GJAsx4i-rko",
+      "title": "pointer and function",
+      "duration": 309
+    },
+    {
+      "id": "GN5FcgT7mV4",
+      "title": "call by value and call by refrence",
+      "duration": 233
+    },
+    {
+      "id": "1kl7y0XHiZI",
+      "title": "gate 2016 question on call by refrence",
+      "duration": 71
+    },
+    {
+      "id": "t8Cw2cRYKHo",
+      "title": "gate 2016 and 2017 question on pointer and function",
+      "duration": 157
+    },
+    {
+      "id": "mpb56eFl1s4",
+      "title": "gate 2008 and 2010 question on pointer and function",
+      "duration": 269
+    },
+    {
+      "id": "yGj4wdJZd9M",
+      "title": "pointer and 1D array",
+      "duration": 997
+    },
+    {
+      "id": "C_kfTirLDz0",
+      "title": "question on pointer and 1d array",
+      "duration": 295
+    },
+    {
+      "id": "ZZOjmAnUnmU",
+      "title": "question explaining difference between pointer to an array and array of pointers.",
+      "duration": 510
+    },
+    {
+      "id": "mBluMQv0tvw",
+      "title": "beautiful question on pointer and 1D array",
+      "duration": 452
+    },
+    {
+      "id": "tyV-Ns6Afvk",
+      "title": "another important question on pointer and 1D array",
+      "duration": 266
+    },
+    {
+      "id": "Ico0TOEzjDU",
+      "title": "gate 2015 and gate 2019 question on pointer and 1d array",
+      "duration": 346
+    },
+    {
+      "id": "R8baoa_3VFc",
+      "title": "pointer and 2D array part 1",
+      "duration": 480
+    },
+    {
+      "id": "cS2AcJ0kwEc",
+      "title": "pointer and 2D array part 2",
+      "duration": 394
+    },
+    {
+      "id": "qiEsK7bOklY",
+      "title": "gate 2006 question on pointer and array",
+      "duration": 534
+    },
+    {
+      "id": "BTKhF03RC-E",
+      "title": "pointer and 3D array",
+      "duration": 1100
+    },
+    {
+      "id": "KJ9ZuZBhltg",
+      "title": "pointer and string part 2",
+      "duration": 308
+    },
+    {
+      "id": "6YNLEqIdkMk",
+      "title": "pointer and string part1",
+      "duration": 239
+    },
+    {
+      "id": "vvp7m-rkgdU",
+      "title": "question on pointer and string",
+      "duration": 307
+    },
+    {
+      "id": "4NfJ7HhOMhU",
+      "title": "very important question on pointer and string",
+      "duration": 349
+    },
+    {
+      "id": "pATtTphN0Ek",
+      "title": "GATE 2011 and GATE 2015 questions on pointer and strings",
+      "duration": 265
+    },
+    {
+      "id": "vV00DoU2bTU",
+      "title": "pointer and structure",
+      "duration": 711
+    },
+    {
+      "id": "lpE3qkhOadc",
+      "title": "Gate 2006 question on pointer and structure",
+      "duration": 427
+    },
+    {
+      "id": "8Om3PhqVphU",
+      "title": "Dynamic memory allocation",
+      "duration": 744
+    },
+    {
+      "id": "1-QUU0_PZG4",
+      "title": "Dangling pointers.",
+      "duration": 184
+    }
+  ]
+}

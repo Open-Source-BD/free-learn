@@ -1,0 +1,120 @@
+{
+  "courseId": "dbms-placements-series-2022-e393bf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:13.992Z",
+  "title": "DBMS Placements Series 2022",
+  "channel": "CodeHelp - by Babbar",
+  "videos": [
+    {
+      "id": "eYpXCdvKwEQ",
+      "title": "Introduction to DBMS Placements Course 2022",
+      "duration": 623
+    },
+    {
+      "id": "TYo_CUnIWP8",
+      "title": "Lecture 1: What the heck is Database Management System (DBMS)?",
+      "duration": 2699
+    },
+    {
+      "id": "mYI2nopkQJE",
+      "title": "Lecture 2: DBMS Architecture || Role of DBA",
+      "duration": 4407
+    },
+    {
+      "id": "kMHJhhIx5k4",
+      "title": "Lecture 3: ER Model Explained || ER Diagram Notations || DBMS for Placements",
+      "duration": 3301
+    },
+    {
+      "id": "8_dMPX6_qiY",
+      "title": "Lecture 4: Extended ER Features || Abstraction in ER Model",
+      "duration": 1857
+    },
+    {
+      "id": "w-VfTUvxETQ",
+      "title": "Lecture 5: How to think and formulate an ER Diagram || Banking System ER Model",
+      "duration": 1612
+    },
+    {
+      "id": "sQ1AcVYP18c",
+      "title": "Lecture 6: Designing the ER Model of FACEBOOK Database || DBMS for Placements",
+      "duration": 1228
+    },
+    {
+      "id": "kUk8PgORTzo",
+      "title": "Lecture 7: Relational Model Explained || DBMS for Placements",
+      "duration": 3373
+    },
+    {
+      "id": "_xHl2gpoXqI",
+      "title": "Lecture 8: Transform ER Model to Relational Model || ER-Diagram to Tables",
+      "duration": 2034
+    },
+    {
+      "id": "D_wNQR3LeeM",
+      "title": "Lecture 9: Complete SQL in 1 VIDEO",
+      "duration": 13941
+    },
+    {
+      "id": "vIq9zkpGWc8",
+      "title": "Lecture 10: Common SQL Queries for Interviews",
+      "duration": 4667
+    },
+    {
+      "id": "nweGaymEwGM",
+      "title": "Lecture 11: Why We Need Normalisation ? || DBMS Series for Placements",
+      "duration": 3505
+    },
+    {
+      "id": "sS4gadQw5iM",
+      "title": "Lecture 12: ACID Properties && Transactions in DBMS",
+      "duration": 2199
+    },
+    {
+      "id": "iNAaZNC7prE",
+      "title": "Lecture 13: How to Implement Atomicity and Durability? || DBMS Interview question",
+      "duration": 1902
+    },
+    {
+      "id": "Fr-0rNhIECw",
+      "title": "Lecture 14: Why Indexing is important in Database Systems || DBMS Interview question",
+      "duration": 2907
+    },
+    {
+      "id": "hl65apHxp64",
+      "title": "Lecture 15: What are NoSQL Databases || SQL vs NoSQL",
+      "duration": 3983
+    },
+    {
+      "id": "ItjrKq7c-h4",
+      "title": "Lecture 16: Types of Databases || DBMS for Placements",
+      "duration": 2071
+    },
+    {
+      "id": "Xt3HWe8W67Q",
+      "title": "Lecture 17: What is Clustering / Replication in DBMS || DBMS for Placements",
+      "duration": 981
+    },
+    {
+      "id": "TlIX427wKDg",
+      "title": "Lecture 18: What is Partitioning and Sharding in DBMS || DB Optimisation",
+      "duration": 1885
+    },
+    {
+      "id": "SOrhyETsz6w",
+      "title": "Lecture 19: Database Scaling Patterns | How to perform step by step scaling",
+      "duration": 3635
+    },
+    {
+      "id": "EIl02n-FxTg",
+      "title": "Lecture 20: CAP Theorem in DBMS || DBMS for Placements 2022",
+      "duration": 1375
+    },
+    {
+      "id": "_RS78xr2Dc4",
+      "title": "Last Lecture: Master-Slave Architecture || DBMS for Placements",
+      "duration": 1427
+    }
+  ]
+}

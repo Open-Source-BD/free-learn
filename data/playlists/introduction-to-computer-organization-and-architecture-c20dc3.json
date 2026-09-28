@@ -1,0 +1,25 @@
+{
+  "courseId": "introduction-to-computer-organization-and-architecture-c20dc3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:44.086Z",
+  "title": "Introduction to COA | Chapter 1 | Computer Organization & Architecture",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "Ol8D69VKX2k",
+      "title": "Introduction to Computer Organization and Architecture (COA)",
+      "duration": 421
+    },
+    {
+      "id": "GRInNLx3Tug",
+      "title": "Basics of Computer Architecture",
+      "duration": 359
+    },
+    {
+      "id": "6_PHIL4LZEU",
+      "title": "Classifications of Computer Architecture",
+      "duration": 389
+    }
+  ]
+}

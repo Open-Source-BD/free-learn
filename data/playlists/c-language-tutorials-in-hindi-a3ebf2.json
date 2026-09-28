@@ -1,0 +1,390 @@
+{
+  "courseId": "c-language-tutorials-in-hindi-a3ebf2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:04.215Z",
+  "title": "C Language Tutorials In Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "7Dh73z3icd8",
+      "title": "Why Learn C Programming Language? : C Tutorial In Hindi #1",
+      "duration": 891
+    },
+    {
+      "id": "Wa-kgmSLls4",
+      "title": "What Is Coding & C Programming Language? : C Tutorial In Hindi #2",
+      "duration": 863
+    },
+    {
+      "id": "9xCskNFVt2c",
+      "title": "Install & Configure VS Code With C Compiler: C Tutorial In Hindi #3",
+      "duration": 1257
+    },
+    {
+      "id": "5SIBB589fAg",
+      "title": "Basic Structure of C Program in Hindi: C Tutorial In Hindi #4",
+      "duration": 1005
+    },
+    {
+      "id": "PrVOM7M5nEY",
+      "title": "Basic Syntax Of A C Program: C Tutorial In Hindi #5",
+      "duration": 664
+    },
+    {
+      "id": "EcUGDTs4RyY",
+      "title": "Variables & Data Types In C: C Tutorial In Hindi #6",
+      "duration": 1201
+    },
+    {
+      "id": "V4Wwuu05_t4",
+      "title": "Operators In C: C Tutorial In Hindi #7",
+      "duration": 1718
+    },
+    {
+      "id": "c3Pd1xQlfWE",
+      "title": "C Programming Exercise 1 - Multiplication Tables: C Tutorial In Hindi #8",
+      "duration": 385
+    },
+    {
+      "id": "XETsCR2bXJI",
+      "title": "C Format Specifiers and Escape Sequences With Examples : C Tutorial In Hindi #9",
+      "duration": 1402
+    },
+    {
+      "id": "D0ACZ0uU_2g",
+      "title": "If Else Control Statements In C: C Tutorial In Hindi #10",
+      "duration": 1511
+    },
+    {
+      "id": "E8weUIY2-iw",
+      "title": "Switch Case Control Statements In C: C Tutorial In Hindi #11",
+      "duration": 1148
+    },
+    {
+      "id": "A_IgufxmIHk",
+      "title": "Loops In C: C Tutorial In Hindi #12",
+      "duration": 619
+    },
+    {
+      "id": "S2z0OTZoziI",
+      "title": "Do While Loop In C: C Tutorial In Hindi #13",
+      "duration": 680
+    },
+    {
+      "id": "0KzWpgMLDmk",
+      "title": "While Loop In C: C Tutorial In Hindi #14",
+      "duration": 369
+    },
+    {
+      "id": "T5_qpdDtTZ0",
+      "title": "For Loop In C: C Tutorial In Hindi #15",
+      "duration": 957
+    },
+    {
+      "id": "yeH9DZlpbmM",
+      "title": "Break and Continue Statements In C: C Tutorial In Hindi #16",
+      "duration": 860
+    },
+    {
+      "id": "AWUxfROdzPc",
+      "title": "Goto Statement In C: C Tutorial In Hindi #17",
+      "duration": 533
+    },
+    {
+      "id": "qc7FU9jWAxk",
+      "title": "Typecasting In C: C Tutorial In Hindi #18",
+      "duration": 315
+    },
+    {
+      "id": "CSJLuARmzg0",
+      "title": "Functions In C: C Tutorial In Hindi #19",
+      "duration": 1554
+    },
+    {
+      "id": "nq_999WmWTY",
+      "title": "C Exercise 1: Multiplication Table Solution + Shoutouts: C Tutorial In Hindi #20",
+      "duration": 667
+    },
+    {
+      "id": "P5TdIWxYz4I",
+      "title": "Recursive Functions: Recursion In C: C Tutorial In Hindi #21",
+      "duration": 1547
+    },
+    {
+      "id": "mLKRZg3I66g",
+      "title": "C Exercise 2: Units and Conversions: C Tutorial In Hindi #22",
+      "duration": 250
+    },
+    {
+      "id": "qKFBtCPwjgI",
+      "title": "Arrays In C: C Tutorial In Hindi #23",
+      "duration": 1545
+    },
+    {
+      "id": "UUkEFH20IL4",
+      "title": "Exercise 2: Solution + Shoutouts: C Tutorial In Hindi #24",
+      "duration": 1254
+    },
+    {
+      "id": "-y_YOWV4kPc",
+      "title": "Exercise 3 On Recursions: C Tutorial In Hindi #25",
+      "duration": 456
+    },
+    {
+      "id": "IBjGjDbwxSg",
+      "title": "Pointers In C: C Tutorial In Hindi #26",
+      "duration": 1966
+    },
+    {
+      "id": "RhLSYjDXB4Q",
+      "title": "Arrays And Pointer Arithmetic In C: C Tutorial In Hindi #27",
+      "duration": 1712
+    },
+    {
+      "id": "Wtoekh_12kI",
+      "title": "Exercise 3 On Recursions: Solution + Shoutouts: C Tutorial In Hindi #28",
+      "duration": 918
+    },
+    {
+      "id": "L39wmuaupa8",
+      "title": "Is Recursion Always Good? : C Tutorial In Hindi #29",
+      "duration": 643
+    },
+    {
+      "id": "Gtlskam5ric",
+      "title": "Exercise 4: Printing Star Patterns In C: C Tutorial In Hindi #30",
+      "duration": 301
+    },
+    {
+      "id": "6R0jNW6j2NA",
+      "title": "Call by Value & Call By Reference In C: C Tutorial In Hindi #31",
+      "duration": 1650
+    },
+    {
+      "id": "iaWMpHLQmDU",
+      "title": "Passing Arrays As Function Arguments: C Tutorial In Hindi #32",
+      "duration": 1444
+    },
+    {
+      "id": "SFiRyw8R8mE",
+      "title": "Star Pattern In C - Exercise 4 Solution: C Tutorial In Hindi #33",
+      "duration": 1201
+    },
+    {
+      "id": "fltaqGek-oA",
+      "title": "Strings In C: C Tutorial In Hindi #34",
+      "duration": 1297
+    },
+    {
+      "id": "L2aTSqTcJs8",
+      "title": "String Functions In C & string.h Library: C Tutorial In Hindi #35",
+      "duration": 1129
+    },
+    {
+      "id": "FUcFssRCT70",
+      "title": "Array Reversal In C - Exercise 5: C Tutorial In Hindi #36",
+      "duration": 221
+    },
+    {
+      "id": "J464pe6ZTrE",
+      "title": "Structures In C: C Tutorial In Hindi #37",
+      "duration": 1578
+    },
+    {
+      "id": "sxQ4hRHLVAc",
+      "title": "Typedef In C: C Tutorial In Hindi #38",
+      "duration": 788
+    },
+    {
+      "id": "C3zS6WPxHPY",
+      "title": "Unions In C: C Tutorial In Hindi #39",
+      "duration": 1273
+    },
+    {
+      "id": "ijgm-QLEsHM",
+      "title": "C Language Array Reversal Exercise 5: Solution: C Tutorial In Hindi #40",
+      "duration": 1087
+    },
+    {
+      "id": "K_9qlP7D8ik",
+      "title": "C Language HTML Parser Exercise 6: C Tutorial In Hindi #41",
+      "duration": 276
+    },
+    {
+      "id": "u98KvPuaIus",
+      "title": "Static Variables In C: C Tutorial In Hindi #42",
+      "duration": 1725
+    },
+    {
+      "id": "7uBBK6H3rTw",
+      "title": "C Tutorial HTML Parser Exercise 6: Solution and Shoutouts: C Tutorial In Hindi #43",
+      "duration": 1507
+    },
+    {
+      "id": "RZ0trTpVVMM",
+      "title": "C Language Travel Agency Manager Exercise 7: C Tutorial In Hindi #44",
+      "duration": 497
+    },
+    {
+      "id": "kmV55hPsSQE",
+      "title": "Memory Layout of C Programs - Dynamic Memory Allocation : C Tutorial In Hindi #45",
+      "duration": 1425
+    },
+    {
+      "id": "zx7jBJkEEt8",
+      "title": "C Language Travel Agency Manager Exercise 7 Solution: C Tutorial In Hindi #46",
+      "duration": 1146
+    },
+    {
+      "id": "q8j8EqCZcWM",
+      "title": "Dynamic Memory Allocation Malloc Calloc Realloc & Free(): C Tutorial In Hindi #47",
+      "duration": 1793
+    },
+    {
+      "id": "kBSJl6r70aA",
+      "title": "C Language Employee Manager Exercise 8: C Tutorial In Hindi #48",
+      "duration": 465
+    },
+    {
+      "id": "0yNX8aYPBRg",
+      "title": "Storage Classes In C Auto, Extern, Static & Register Storage Classes: C Tutorial In Hindi #49",
+      "duration": 2219
+    },
+    {
+      "id": "9vbXVOE7ufg",
+      "title": "Employee Manager In C - Exercise 8 Solution: C Tutorial In Hindi #50",
+      "duration": 956
+    },
+    {
+      "id": "23FDUZy1jJw",
+      "title": "Coding Rock, Paper, Scissors In C Exercise 9: C Tutorial In Hindi #51",
+      "duration": 753
+    },
+    {
+      "id": "HQzIJJTTCBk",
+      "title": "Void Pointer In C Language: C Tutorial In Hindi #52",
+      "duration": 1023
+    },
+    {
+      "id": "lWX0nSBxcrc",
+      "title": "NULL Pointer In C Language: C Tutorial In Hindi #53",
+      "duration": 1243
+    },
+    {
+      "id": "PAgnCAMY4t8",
+      "title": "Dangling Pointer In C Language: C Tutorial In Hindi #54",
+      "duration": 1443
+    },
+    {
+      "id": "zYDHG6qt_lo",
+      "title": "Wild Pointer In C Language: C Tutorial In Hindi #55",
+      "duration": 490
+    },
+    {
+      "id": "OFeX90DiXLI",
+      "title": "Rock, Paper & Scissors In C Language - Exercise 9 Solution: C Tutorial In Hindi #56",
+      "duration": 1705
+    },
+    {
+      "id": "bwx4gqfeJok",
+      "title": "Matrix Multiplication In C Language - Exercise 10: C Tutorial In Hindi #57",
+      "duration": 374
+    },
+    {
+      "id": "P9IAfh89EK8",
+      "title": "C Pre-processor Introduction & Working: C Tutorial In Hindi #58",
+      "duration": 764
+    },
+    {
+      "id": "qDIpHL8Al20",
+      "title": "#define and #include Preprocessor Directives: C Tutorial In Hindi #59",
+      "duration": 1177
+    },
+    {
+      "id": "iOTf_ZgrU20",
+      "title": "Predefined Macros & Other Pre-processor Directives: C Tutorial In Hindi #60",
+      "duration": 800
+    },
+    {
+      "id": "7QX_vwJMsL0",
+      "title": "Matrix Multiplication in C - Exercise 10 Solution: C Tutorial In Hindi #61",
+      "duration": 1075
+    },
+    {
+      "id": "C286MZpbNl8",
+      "title": "File I/O In C: C Tutorial In Hindi #62",
+      "duration": 507
+    },
+    {
+      "id": "kFTwAWiQUIg",
+      "title": "Check Palindrome In C Language - Exercise 11: C Tutorial In Hindi #63",
+      "duration": 373
+    },
+    {
+      "id": "qbeKkYSMe-Y",
+      "title": "Functions For File I/O In C Language: C Tutorial In Hindi #64",
+      "duration": 1176
+    },
+    {
+      "id": "WUG2rN0cG9c",
+      "title": "Palindrome Number Program in C Language: C Tutorial In Hindi #65",
+      "duration": 793
+    },
+    {
+      "id": "dJA5qWhCXvE",
+      "title": "Automated Receipt Generator In C - Exercise 12: C Tutorial In Hindi #66",
+      "duration": 420
+    },
+    {
+      "id": "qg69AXmHhx8",
+      "title": "File modes, fgets, fputs, fgetc, fputc & more on C file handling: C Tutorial In Hindi #67",
+      "duration": 1819
+    },
+    {
+      "id": "CMkymwLBSyg",
+      "title": "Command Line Arguments In C: C Tutorial In Hindi #68",
+      "duration": 1209
+    },
+    {
+      "id": "9HcUfc6_0Oc",
+      "title": "Automated Bill Generator In C (Solution) - Exercise 12: C Tutorial In Hindi #69",
+      "duration": 2103
+    },
+    {
+      "id": "CqRCD3Vv6xM",
+      "title": "Command Line Calculator In C - Exercise 13: C Tutorial In Hindi #70",
+      "duration": 409
+    },
+    {
+      "id": "7G0ceg3ElqY",
+      "title": "[Solved] Command Line Calculator In C Ex.13 : C Tutorial In Hindi #71",
+      "duration": 741
+    },
+    {
+      "id": "TjgU8oTd61E",
+      "title": "Function Pointers In C: C Tutorial In Hindi #72",
+      "duration": 1103
+    },
+    {
+      "id": "ixsfbrvoFwA",
+      "title": "Callback Functions Using Function Pointers In C: C Tutorial In Hindi #73",
+      "duration": 865
+    },
+    {
+      "id": "QPACZmKLx_c",
+      "title": "Exercise 14 Area of the Circle Using Function Pointers: C Tutorial In Hindi #74",
+      "duration": 504
+    },
+    {
+      "id": "5tFhNUJSFrc",
+      "title": "Memory Leak In C: C Tutorial In Hindi #75",
+      "duration": 842
+    },
+    {
+      "id": "VxBsanSLMSA",
+      "title": "Area of Circle In C Exercise 14 Solution: C Tutorial In Hindi #76",
+      "duration": 651
+    }
+  ]
+}

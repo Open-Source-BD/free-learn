@@ -1,0 +1,90 @@
+{
+  "courseId": "shell-scripting-and-bash-programming-for-beginners-in-hindi-bee23f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZqV_M3p_p10yhNExLIKj497ZkdUz1KuB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:20.597Z",
+  "title": "Shell Scripting and Bash Programming for Beginners In Hindi",
+  "channel": "LogicOps Lab - Hindi",
+  "videos": [
+    {
+      "id": "8OVY1sX1LPQ",
+      "title": "Announcement | Bash Scripting for Beginners in Hindi | Shell Programming | LogicOps Lab - Hindi",
+      "duration": 101
+    },
+    {
+      "id": "rfOdXP-VhO4",
+      "title": "01 | RoadMap | Bash Scripting for Beginners in Hindi | Shell Programming in Hindi",
+      "duration": 236
+    },
+    {
+      "id": "h0AHCRqi9LI",
+      "title": "02 | CentOS installation on a Virtual Box | Linux Installation | Oracle Virtual Box | VDI file",
+      "duration": 450
+    },
+    {
+      "id": "Oeps8vTlYo0",
+      "title": "03 | How to install Guest Additions in Linux | How to install Guest Additions in CentOS",
+      "duration": 384
+    },
+    {
+      "id": "Xp-kGY-C5q4",
+      "title": "04 | Setup | Running First Shell Script | GNome Tweaks | How to install Visual Studio Code in Linux",
+      "duration": 847
+    },
+    {
+      "id": "yR_aR1MSWD0",
+      "title": "05 | Writing a Basic Script | Declaring Variables in a Shell File | CHMOD | Bash Scripting in Hindi",
+      "duration": 646
+    },
+    {
+      "id": "qtLjIFaTcZ8",
+      "title": "06 | Operators in Shell Scripting | If Else in Shell Scripting | Elif | Nested If | Part 1/2",
+      "duration": 899
+    },
+    {
+      "id": "7-G9IzSQz-A",
+      "title": "07 | Operators in Shell Scripting | If Else in Shell Scripting | Elif | Nested If | Part 2/2",
+      "duration": 1069
+    },
+    {
+      "id": "inzDhb3v9nE",
+      "title": "08 | Return Codes | Exit Status | MAN Command | How To Check Exit Status",
+      "duration": 847
+    },
+    {
+      "id": "wywjgtft2P8",
+      "title": "09 | Functions | Declaration | Calling a Function | Passing Parameter to a Function | Variable Scope",
+      "duration": 821
+    },
+    {
+      "id": "GCw0eUe5pqQ",
+      "title": "10 | Wildcards | Character Class | Named Character Classes | Ranges in Wildcards",
+      "duration": 770
+    },
+    {
+      "id": "ej9GzsKIuTA",
+      "title": "11 | Loops | For | Three Expressions For Loop | While | Until | Break and Continue Statements",
+      "duration": 1010
+    },
+    {
+      "id": "d-gneLJjAdw",
+      "title": "12 | Logging | Logging Ki Zarurat Kyun Hai? | Custom Logs | Logs kaise Generate Karein",
+      "duration": 635
+    },
+    {
+      "id": "OiOTlKizP2o",
+      "title": "13 | Case Esac Statement | Input Output in Shell Scripting | Shell Scripting Mein Input Kaise Lein",
+      "duration": 444
+    },
+    {
+      "id": "9QI8MY29akE",
+      "title": "14 | Debugging in Shell Scripting | Editing in Terminal | Vi Editor | Debugging Options",
+      "duration": 961
+    },
+    {
+      "id": "b6yGSVh-LWs",
+      "title": "15 | SED Command | Stream Editor | Workflow in SED | SED Command in Hindi",
+      "duration": 1462
+    }
+  ]
+}

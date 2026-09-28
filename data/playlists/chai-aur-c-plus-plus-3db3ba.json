@@ -1,0 +1,100 @@
+{
+  "courseId": "chai-aur-c-plus-plus-3db3ba",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:13.787Z",
+  "title": "Chai aur C++",
+  "channel": "Chai aur Code",
+  "videos": [
+    {
+      "id": "gCkPJTSZ9mU",
+      "title": "C++ Course launch | Chai aur C++",
+      "duration": 1767
+    },
+    {
+      "id": "H-57MLM5Tyc",
+      "title": "Going in depth of Hello World | chai aur C++",
+      "duration": 1458
+    },
+    {
+      "id": "YHGqfKh8n4Q",
+      "title": "Variables and constants in c++",
+      "duration": 1298
+    },
+    {
+      "id": "tATskvdm3NM",
+      "title": "Data types and challenges in C++",
+      "duration": 3249
+    },
+    {
+      "id": "vy4FvPCp0XA",
+      "title": "Operators and challenges in cpp",
+      "duration": 3177
+    },
+    {
+      "id": "bHpJaWNMHLo",
+      "title": "Conditionals and challenges in c++",
+      "duration": 2179
+    },
+    {
+      "id": "eWJt3Lamnhg",
+      "title": "Loops in C++",
+      "duration": 2960
+    },
+    {
+      "id": "OziGAvXDMOA",
+      "title": "Functions in c++",
+      "duration": 2819
+    },
+    {
+      "id": "7G4IkcCqNlc",
+      "title": "Object Oriented Programming in C++",
+      "duration": 1935
+    },
+    {
+      "id": "h1S6YKHKrNs",
+      "title": "Array, dynamic memory and Pointers in Cpp",
+      "duration": 2599
+    },
+    {
+      "id": "6R-CFloUX0U",
+      "title": "Constructor, destructor and Copy Constructor in C++",
+      "duration": 1993
+    },
+    {
+      "id": "OkL5PQxJAqI",
+      "title": "Friend Keyword in C++",
+      "duration": 1289
+    },
+    {
+      "id": "GIg-iOXw3w8",
+      "title": "Getter Setter and delegating constructor",
+      "duration": 1282
+    },
+    {
+      "id": "Ksi7hNouJdM",
+      "title": "Encapsulation, Abstract class, virtual function in c++",
+      "duration": 1503
+    },
+    {
+      "id": "wLItTkq6O-w",
+      "title": "Inheritance and final keyword in c++",
+      "duration": 1371
+    },
+    {
+      "id": "0StscizseYY",
+      "title": "Building an online store with STL in c++",
+      "duration": 2130
+    },
+    {
+      "id": "Fw-ew5Hio14",
+      "title": "Building Employee Management with STL in C++",
+      "duration": 1883
+    },
+    {
+      "id": "aXiVBbjXSR8",
+      "title": "Farewell to C++ series",
+      "duration": 262
+    }
+  ]
+}

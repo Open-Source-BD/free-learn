@@ -1,0 +1,370 @@
+{
+  "courseId": "asp-net-course-2023-774d2f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:34.200Z",
+  "title": "ASP.NET C# Tutorial",
+  "channel": "Coder Baba",
+  "videos": [
+    {
+      "id": "aLsDDTpxGSo",
+      "title": "ASP.NET C# ट्यूटोरियल भाग-1 | .NET ओवरव्यू, .NET फ्रेमवर्क का परिचय | CoderBaba",
+      "duration": 1333
+    },
+    {
+      "id": "C9jOL4tpQLw",
+      "title": "ASP.NET C# Tutorial Part-2 |  why dotnet | Technologies Supported by .Net | coderbaba",
+      "duration": 2130
+    },
+    {
+      "id": "yfiravnWPrQ",
+      "title": "ASP.NET C# Tutorial Part-3 |  DotNet Components ( CLR, CTS , CLS, MSIL andd ManagedCode )",
+      "duration": 2063
+    },
+    {
+      "id": "nZcUWXj2KcQ",
+      "title": "ASP.NET C# Tutorial Part-4 | Intro of dotNET | ASP vs ASP NET | Type of Framework  | CODERBABA",
+      "duration": 1633
+    },
+    {
+      "id": "qcN6XBkdPY8",
+      "title": "ASP.NET C# Tutorial Part-5 |  Visual Studio Setup| First Hello World Application | CODERBABA",
+      "duration": 1732
+    },
+    {
+      "id": "APefcZ_L6sM",
+      "title": "ASP.NET C# Tutorial Part-6 | Learn Complete HTML | Coderbaba",
+      "duration": 15477
+    },
+    {
+      "id": "cdgrKbB4V78",
+      "title": "ASP.NET C# Tutorial Part-7 | Complete JavaScript | Every Developers' Must-Watch |  for Beginners",
+      "duration": 9273
+    },
+    {
+      "id": "-Vi0bAlXjRA",
+      "title": "ASP.NET C# Tutorial Part-8 | Learn Complete CSS | Cascading Style Sheet",
+      "duration": 2547
+    },
+    {
+      "id": "NdQszbBpy4w",
+      "title": "ASP.NET C# Tutorial Part-9 | DotNet Page Structure and Directives | coderbaba",
+      "duration": 1846
+    },
+    {
+      "id": "Zlu8aKaOPgA",
+      "title": "ASP.NET C# Tutorial Part-10 | Page renders into HTML, coding Technique & server controls | coderbaba",
+      "duration": 4141
+    },
+    {
+      "id": "67lvHSWEIM8",
+      "title": "ASP.NET C# Tutorial Part-11 | working with server controls, Properties and events | coderbaba",
+      "duration": 2928
+    },
+    {
+      "id": "X-Akz6hDF0o",
+      "title": "ASP.NET C# Tutorial Part-12 | Post Back Vs Cross Page Submission | coderbaba",
+      "duration": 2622
+    },
+    {
+      "id": "7FvqL3K14WA",
+      "title": "#13 ASP.NET Course 2023 | how to create simple Calculator | coderbaba",
+      "duration": 2871
+    },
+    {
+      "id": "zKMyBcCC4_Q",
+      "title": "#14 ASP.NET Course 2023 | AJAX | coderbaba",
+      "duration": 2738
+    },
+    {
+      "id": "gRzcNQOpMVk",
+      "title": "#15 ASP.NET Course 2023 | Login page, PostBack & Cross page submission | coderbaba",
+      "duration": 2911
+    },
+    {
+      "id": "ljcAPhQEg3w",
+      "title": "#16 ASP.NET Course 2023 | working with RadioButton and Checkbox | coderbaba",
+      "duration": 2480
+    },
+    {
+      "id": "RzS42_eJXvA",
+      "title": "#17 ASP.NET Course 2023 | ListBox Control in ASP.NET: Selection, Display, and Functionality",
+      "duration": 2408
+    },
+    {
+      "id": "35-MLQMEMtM",
+      "title": "18 ASP.NET Course 2023 | DropDownList Control | XML & Database Binding",
+      "duration": 7127
+    },
+    {
+      "id": "ItLDpDIGZe0",
+      "title": "19 ASP.NET Course 2023 | RadioButtonList and CheckBoxList Control in asp.net | coderbaba",
+      "duration": 1831
+    },
+    {
+      "id": "ti-EZOugslQ",
+      "title": "20 ASP.NET Course 2023 | Bulleted list in asp.net | Hindi | @CoderBaba",
+      "duration": 1629
+    },
+    {
+      "id": "htOETvyBE2Y",
+      "title": "21 ASP.NET Course 2023 | FileUpload Control in asp.net with condition | #coderbaba",
+      "duration": 2997
+    },
+    {
+      "id": "eS8ZZjK8ehY",
+      "title": "22 ASP.NET Course 2023 | Calendar Control in ASP.NET C# | #coderbaba",
+      "duration": 1967
+    },
+    {
+      "id": "zPLGFk0PHS4",
+      "title": "23 ASP.NET Course 2023 | Monetize Your Website: Creating Ads with AdRotator Control in ASP.NET",
+      "duration": 1394
+    },
+    {
+      "id": "ymTUBEFZuXI",
+      "title": "24 ASP.NET Course 2023 | Creating and Customizing Your ASP.NET web.config File",
+      "duration": 1056
+    },
+    {
+      "id": "G1nQYBYs7Z8",
+      "title": "25 ASP.NET Course 2023 | MultiView  Controls| Divide the content of a page into different groups",
+      "duration": 1135
+    },
+    {
+      "id": "TjgJl5ookjw",
+      "title": "How to Create a Animated Sidebar Menu using HTML CSS And JavaScript | #coderbaba",
+      "duration": 1116
+    },
+    {
+      "id": "2Y1ZffRosQ8",
+      "title": "26 ASP.NET Course 2023 | upload project on #github from visual studio | Panel Control | @Coder Baba",
+      "duration": 1110
+    },
+    {
+      "id": "fVCDPWty_UQ",
+      "title": "27 ASP.NET Course 2023 | RequiredFieldValidator Control | Validating User Input Effectively",
+      "duration": 2304
+    },
+    {
+      "id": "bpmBNhAerE0",
+      "title": "28 ASP.NET Course 2023 | How to Use the RangeValidator Control in ASP.NET",
+      "duration": 1573
+    },
+    {
+      "id": "SiUqI7cpIBs",
+      "title": "29 ASP.NET Course 2023 | Compare Validator control | Comparing Values Made Easy | coderbaba",
+      "duration": 2421
+    },
+    {
+      "id": "OCagiplsiq8",
+      "title": "30 ASP.NET Course 2023 | Regular Expression Validator Control",
+      "duration": 3214
+    },
+    {
+      "id": "xMwTgOSOUfc",
+      "title": "31 ASP.NET Course 2023 | RegularExpression Validators for Password Policy  Example",
+      "duration": 1214
+    },
+    {
+      "id": "jQr9QdJL_aM",
+      "title": "32 ASP.NET Course 2023 | CustomValidator vs. ValidationSummary: Exploring Validation in ASP.NET",
+      "duration": 2754
+    },
+    {
+      "id": "k0pXIsnghpw",
+      "title": "33 ASP.NET Course 2023 | Control Development | Creating User control in asp.net Csharp | coderbaba",
+      "duration": 1498
+    },
+    {
+      "id": "axRpim_R8ZU",
+      "title": "34 ASP.NET Course 2023 | working with MasterPage in asp.net Csharp | coderbaba",
+      "duration": 2869
+    },
+    {
+      "id": "s45o08hb4Zc",
+      "title": "35 ASP.NET Course | ASP.NET Themes and Skins | CoderBaba",
+      "duration": 701
+    },
+    {
+      "id": "UzkqQ0Hwnfk",
+      "title": "36 ASP.NET Course | ViewState Example in C# | CoderBaba",
+      "duration": 1763
+    },
+    {
+      "id": "55ehhNT0HF4",
+      "title": "37 ASP.NET Course | Exception Handling | Block Level | Page Level | Application Level Error Handling",
+      "duration": 2972
+    },
+    {
+      "id": "dFJ5-WNzW6Q",
+      "title": "38 ASP.NET Course | Exception Logging to Database Table In ASP.NET",
+      "duration": 2541
+    },
+    {
+      "id": "lXNiMenmXCA",
+      "title": "39 ASP.NET Course | How to create Unsuccessful Login Attempts |State Management | ViewState |",
+      "duration": 1349
+    },
+    {
+      "id": "jzW6IgujelA",
+      "title": "40 ASP.NET Course | What is Query Strings and How to Read QueryString in Asp.Net Using C#",
+      "duration": 1223
+    },
+    {
+      "id": "PGqhpCRs8bc",
+      "title": "41 ASP.NET Course | What is HiddenField Control in ASP.NET | CoderBaba",
+      "duration": 1080
+    },
+    {
+      "id": "tDUpmpSkce8",
+      "title": "42 ASP.NET Course | What is Cookies in ASP.NET explain | How to set and get Cookies in Asp.Net C#",
+      "duration": 1976
+    },
+    {
+      "id": "SsyTmG7dToo",
+      "title": "43 ASP.NET Course | Session Object In ASP.NET | Online Training | #coderbaba",
+      "duration": 1572
+    },
+    {
+      "id": "S_AgJFwN8wk",
+      "title": "44 ASP.NET Course | Application Object | working with Global.asax file | Coderbaba",
+      "duration": 1495
+    },
+    {
+      "id": "djXqdLt75-0",
+      "title": "45 ASP.NET Course | How To Connect SQL Database In ASP.NET C#",
+      "duration": 1291
+    },
+    {
+      "id": "KMATZ8n4qsc",
+      "title": "46 ASP.NET Course | Accessing data from a DataReader | Search record with ExecuteReader()| CoderBaba",
+      "duration": 1515
+    },
+    {
+      "id": "V3JfScurejI",
+      "title": "47 ASP.NET Course | How to Insert Update Delete with ExecuteNonQuery method | CoderBaba",
+      "duration": 2123
+    },
+    {
+      "id": "WzfLJlLZt0g",
+      "title": "48 ASP.NET Course | Using ExecuteScalar Method in ASP.NET Retrieve Single Results Effortlessly",
+      "duration": 270
+    },
+    {
+      "id": "QjFXTZMMMq0",
+      "title": "49 ASP.NET Course | Employee Details Insert, Update, Delete and Search with Dropdownlist using SQL",
+      "duration": 1912
+    },
+    {
+      "id": "g2BXccLXweA",
+      "title": "50 ASP.NET Course |Efficient Data Retrieval: Loading Multiple Tables into DataReader in ASP.NET",
+      "duration": 499
+    },
+    {
+      "id": "ki4budpRDlg",
+      "title": "51 ASP.NET Course | Connection Oriented Architecture Vs Disconnected architecture | DataSet",
+      "duration": 2427
+    },
+    {
+      "id": "zHlM1P-2b-U",
+      "title": "52 ASP.NET Course | How to Display Records as First-Next-Previous-Last in a Textboxes Using ASP.NET",
+      "duration": 1616
+    },
+    {
+      "id": "9g9L0ti_PGM",
+      "title": "53 ASP.NET Tutorial | Storing Connection Strings in Web.config file",
+      "duration": 410
+    },
+    {
+      "id": "DStXcWRcLtY",
+      "title": "54 ASP.NET Course | Understanding ASP.NET GridView Control Using a Database",
+      "duration": 5642
+    },
+    {
+      "id": "4uxEVTpczQA",
+      "title": "55 ASP.NET Course | GridView Edit, Update and Delete Example in C#| CoderBaba",
+      "duration": 1796
+    },
+    {
+      "id": "H38Ki1hcpWA",
+      "title": "56 ASP.NET Course | How to create Select, Insert Stored Procedure in SQL Server Database | CoderBaba",
+      "duration": 3405
+    },
+    {
+      "id": "kryqeDgg_3U",
+      "title": "57 ASP.NET Course | how to upload image in ASP.NET C# and store in SQL Server Database | CoderBaba",
+      "duration": 3301
+    },
+    {
+      "id": "OgXEVe8Hs_U",
+      "title": "58 ASP.NET Course Exploring Repeater Control in ASP.NET C# - Ultimate Tutorial and Examples",
+      "duration": 2372
+    },
+    {
+      "id": "ESHvvH85ACk",
+      "title": "59 ASP.NET Course | Mastering DataList Control in ASP.NET C#: A Comprehensive Guide| coderbaba",
+      "duration": 3204
+    },
+    {
+      "id": "j8Zp6BGaFLw",
+      "title": "60 ASP.NET Course | What is DetailsView Control and How to Use It in ASP.NET C# | #coderbaba",
+      "duration": 1844
+    },
+    {
+      "id": "qaoDvtt8QCo",
+      "title": "61 ASP.NET Course Performing editing operations Insert, Update and Delete using DetailsView control",
+      "duration": 1548
+    },
+    {
+      "id": "e-T0OvVoUxA",
+      "title": "62 ASP.NET Course | FormView Control Performing editing operations Insert, Update and Delete",
+      "duration": 1428
+    },
+    {
+      "id": "H3eX2RC_T6g",
+      "title": "63 ASP.NET Course | 🏆 Become an ASP.NET C# Expert: FormView Control with Advanced Pager Settings",
+      "duration": 1071
+    },
+    {
+      "id": "BtK-ftBrsBE",
+      "title": "64 📚 ASP.NET ListView Control Demystified! 💡 Master Data Display and Management like a Pro! 🎯",
+      "duration": 2684
+    },
+    {
+      "id": "_Ec6r4Hkb1g",
+      "title": "65 Complete ASP.NET Course: LINQ (Language Integrated Query) #coderbaba",
+      "duration": 504
+    },
+    {
+      "id": "q4bbTfe-M18",
+      "title": "66 ASP.NET C# Course |Writing Efficient LINQ to Object Queries: Best Practices",
+      "duration": 1894
+    },
+    {
+      "id": "Iojg-SxRx4I",
+      "title": "67 ASP.NET Course | Storing user-defined type values in Collection (LINQ to Object)",
+      "duration": 1189
+    },
+    {
+      "id": "0ntQNHw3tkU",
+      "title": "68 ASP.NET Course: XML Parsing in ASP.NET C# Using LINQ to XML | Visual Studio Tips | CoderBaba",
+      "duration": 789
+    },
+    {
+      "id": "DZEd9h4q1XM",
+      "title": "69 🔒Secure Your ASP.NET C# Web App with Form Authentication and Authorization🚀  Visual Studio Tips🛡️",
+      "duration": 1395
+    },
+    {
+      "id": "pxIwet-eqc8",
+      "title": "🌐Complete .NET Full Stack Developer Journey | 🚀 Roadmap and Resources 📚Learning Path & Tips #dotnet",
+      "duration": 645
+    },
+    {
+      "id": "qAoXYuXB8Pg",
+      "title": "📚Download ASP.NET C# Complete PDF Notes Download Link Inside! Get Started! |  Coderbaba",
+      "duration": 163
+    }
+  ]
+}

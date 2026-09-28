@@ -1,0 +1,560 @@
+{
+  "courseId": "angular-13-tutorial-in-hindi-54d109",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_qizAfcpJ-N2mRgfQxnDgsv20daqwlfN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:24.141Z",
+  "title": "Angular 13 Tutorial in Hindi",
+  "channel": "Sahosoft Solutions",
+  "videos": [
+    {
+      "id": "TB7FZ26ufMw",
+      "title": "Angular Introduction & Versioning and Releases: Angular 13 Tutorial in Hindi",
+      "duration": 1599
+    },
+    {
+      "id": "iUxkTvGsCaA",
+      "title": "Angular v13 is now Available | New features in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 970
+    },
+    {
+      "id": "qhaVjjWRC0w",
+      "title": "installation requirements & Setup Development Environment : Angular 13 Tutorial in Hindi",
+      "duration": 1072
+    },
+    {
+      "id": "fMekGjzDQrg",
+      "title": "Why does Angular 2 and above need Node.js? : Angular 13 Tutorial in Hindi",
+      "duration": 696
+    },
+    {
+      "id": "Fd5Wcp4tan0",
+      "title": "CLI in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 858
+    },
+    {
+      "id": "rNR05sqzJbM",
+      "title": "Folder structure & booting process of the angular Application : Angular 13 Tutorial in Hindi",
+      "duration": 1948
+    },
+    {
+      "id": "13eLC4K_tO4",
+      "title": "package.json and package-lock.json of the angular Application : Angular 13 Tutorial in Hindi",
+      "duration": 1153
+    },
+    {
+      "id": "7TqxMEwLrPU",
+      "title": "Modules in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1485
+    },
+    {
+      "id": "_CFqNilBr70",
+      "title": "Decorators in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1388
+    },
+    {
+      "id": "Rk5DzFZQfXQ",
+      "title": "Component in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1370
+    },
+    {
+      "id": "L_NK1nOKn9c",
+      "title": "Directives in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1090
+    },
+    {
+      "id": "avhj_jMU_Rg",
+      "title": "ngif, else and then in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1006
+    },
+    {
+      "id": "rFqP2dtio5I",
+      "title": "ngSwitch in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 776
+    },
+    {
+      "id": "80Ti4Sg-ejA",
+      "title": "ngFor in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 946
+    },
+    {
+      "id": "8QIPglE1Q98",
+      "title": "TrackBy with ngFor in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1272
+    },
+    {
+      "id": "SakOKdW84Aw",
+      "title": "Grouping in ngFor in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 688
+    },
+    {
+      "id": "xxrUg1Dj9o4",
+      "title": "ngStyle Directive in Angular 13 | Attribute Directive in Angular : Angular 13 Tutorial in Hindi",
+      "duration": 944
+    },
+    {
+      "id": "xkfF69ExHcQ",
+      "title": "ngClass Directive in Angular 13 | Attribute Directive in Angular : Angular 13 Tutorial in Hindi",
+      "duration": 1197
+    },
+    {
+      "id": "KjzNDOSC6ss",
+      "title": "Data Binding in Angular 13 | Attribute Directive in Angular : Angular 13 Tutorial in Hindi",
+      "duration": 647
+    },
+    {
+      "id": "iC2HRJs8mxc",
+      "title": "interpolation in Angular 13 | Attribute Directive in Angular : Angular 13 Tutorial in Hindi",
+      "duration": 744
+    },
+    {
+      "id": "LHRdIW5otVY",
+      "title": "Property Binding in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 704
+    },
+    {
+      "id": "VPMEmggvWIk",
+      "title": "Attribute binding in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 777
+    },
+    {
+      "id": "f3ppLG8kzDg",
+      "title": "AWS DevOps Online Class | AWS DevOps Syllabus : Sahosoft Solutions",
+      "duration": 3764
+    },
+    {
+      "id": "xwj3s08yMjk",
+      "title": "Event Binding in Angular 13: Full Angular 13 Tutorial",
+      "duration": 683
+    },
+    {
+      "id": "xDxVaV5jA48",
+      "title": "Two Way Data binding in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1175
+    },
+    {
+      "id": "Xpx05_aR6Hw",
+      "title": "Pipes in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 966
+    },
+    {
+      "id": "DX5aWOzPgos",
+      "title": "Parameterized Pipes in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 736
+    },
+    {
+      "id": "jwgqcpKUpXc",
+      "title": "Chaining Pipes in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 770
+    },
+    {
+      "id": "CmMEiRHieZg",
+      "title": "String Pipes in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 502
+    },
+    {
+      "id": "vRmDLEfn658",
+      "title": "Date Pipe, Percent Pipe, Decimal Pipe, and Currency Pipe in Angular 13: Angular 13 Tutorial in Hindi",
+      "duration": 999
+    },
+    {
+      "id": "DYDwckjyaM0",
+      "title": "json Pipe in Angular 13 : Angular 13 Tutorial",
+      "duration": 830
+    },
+    {
+      "id": "BoQJG9JGTIk",
+      "title": "Custom Pipe in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1017
+    },
+    {
+      "id": "twfkAdbhpZ0",
+      "title": "Routing in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 853
+    },
+    {
+      "id": "7e9yKD3DNXc",
+      "title": "How Angular Router Works in Angular 13 : Angular 13 Tutorial",
+      "duration": 775
+    },
+    {
+      "id": "sGwsveiW5Dw",
+      "title": "Router Outlet in Angular 13 : Angular 13 Tutorial",
+      "duration": 500
+    },
+    {
+      "id": "q5J-RM5aFFY",
+      "title": "Router- Link in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1350
+    },
+    {
+      "id": "xTy8EbpFWFM",
+      "title": "Redirecting routes in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 625
+    },
+    {
+      "id": "hJ01V2lU5uQ",
+      "title": "Wildcard Routes in Angular 13 : Angular 13 Tutorial",
+      "duration": 919
+    },
+    {
+      "id": "etxp79WZnQg",
+      "title": "Bootstrap in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 948
+    },
+    {
+      "id": "eVAhNqFPRnU",
+      "title": "Angular Forms in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 869
+    },
+    {
+      "id": "eBQn5GjLz4Y",
+      "title": "Template Driven  Forms in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1497
+    },
+    {
+      "id": "aMmNoP08yZ4",
+      "title": "Validation in Template Driven  Forms in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 720
+    },
+    {
+      "id": "2EH5EQ7mJTk",
+      "title": "Reactive Forms in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1104
+    },
+    {
+      "id": "cJGDNP4W-98",
+      "title": "Validation in Reactive Forms in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 836
+    },
+    {
+      "id": "JWFaiNNcr34",
+      "title": "get value and reset  in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 963
+    },
+    {
+      "id": "TJ3he3QradU",
+      "title": "set value and patch value  in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 738
+    },
+    {
+      "id": "jdubpRqEdGg",
+      "title": "value changes and status changes  in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1415
+    },
+    {
+      "id": "T-WSot0O1y4",
+      "title": "FormArray  in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 769
+    },
+    {
+      "id": "7EF6dvt9dBs",
+      "title": "Nested FormArray  in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 755
+    },
+    {
+      "id": "FdpfrpxKcqI",
+      "title": "Add new rows dynamically in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 697
+    },
+    {
+      "id": "mcQyT6tgk1I",
+      "title": "radio button & checkbox in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 2020
+    },
+    {
+      "id": "xH5T5M87N9M",
+      "title": "Angular Material Install and use in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1184
+    },
+    {
+      "id": "BfbAsCj8xBg",
+      "title": "Angular Material Design in Reactive Form in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1115
+    },
+    {
+      "id": "6J60ouaymNk",
+      "title": "Module Loading in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1166
+    },
+    {
+      "id": "GPd-ifwEg3Y",
+      "title": "Lazy Loading in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 979
+    },
+    {
+      "id": "C1cFwRwKkxQ",
+      "title": "PreLoading in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 750
+    },
+    {
+      "id": "XxRxy8zCHuM",
+      "title": "Custom PreLoading in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 897
+    },
+    {
+      "id": "KF1-PzpKnSo",
+      "title": "Custom PreLoading with delay in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 508
+    },
+    {
+      "id": "WC7KFEBuhXE",
+      "title": "Observables & Subscribe in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1017
+    },
+    {
+      "id": "N6RWQYbw2Cw",
+      "title": "Observables & Subscribe with Web API in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 2244
+    },
+    {
+      "id": "nmORtoeJPGI",
+      "title": "Observables & Async pipe with ngFor in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 593
+    },
+    {
+      "id": "fYjdYNYHbvg",
+      "title": "Observables & Async pipe with ngIf in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1016
+    },
+    {
+      "id": "6coAgg4ZdWE",
+      "title": "The Complete Java Development with spring boot & microservices with Project Training | Sahosoft",
+      "duration": 289
+    },
+    {
+      "id": "B8fvTVXAKDA",
+      "title": "The Complete Web Development with Project Training | Sahosoft",
+      "duration": 264
+    },
+    {
+      "id": "PbYbr_CE2M8",
+      "title": "Observable map Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 904
+    },
+    {
+      "id": "pHCgqEC3DCI",
+      "title": "httpClient in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 767
+    },
+    {
+      "id": "0PlaL-IF128",
+      "title": "httpClient get in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 2601
+    },
+    {
+      "id": "hRW8pft0rRY",
+      "title": "httpClient Post in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1838
+    },
+    {
+      "id": "BywynoN6e58",
+      "title": "Online React JS Class with Project Training | React JS Live Class | Sahosoft Solutions",
+      "duration": 312
+    },
+    {
+      "id": "0qxTv3C_N8U",
+      "title": "httpClient Put in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1029
+    },
+    {
+      "id": "ENj-TjQ45S4",
+      "title": "httpClient Delete in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 528
+    },
+    {
+      "id": "Mqil9L74pxg",
+      "title": "Session Management in Angular 13 | Part 1: Angular 13 Tutorial",
+      "duration": 1730
+    },
+    {
+      "id": "7nSP3ILxAPQ",
+      "title": "Session Management  in Angular 13  | Part - 2 : Angular 13 Tutorial in Hindi",
+      "duration": 1204
+    },
+    {
+      "id": "CBlMGCUOpvY",
+      "title": "Auxiliary Routes in Angular 13 | Part 2: Angular 13 Tutorial",
+      "duration": 1869
+    },
+    {
+      "id": "b3zM691ZEjM",
+      "title": "ng-template in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1940
+    },
+    {
+      "id": "xcGsvXXr1fo",
+      "title": "ng-container in Angular 13: Angular 13 Tutorial",
+      "duration": 1577
+    },
+    {
+      "id": "9tNK_YudeHQ",
+      "title": "How to import and use jQuery in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1164
+    },
+    {
+      "id": "bH-KNtf2Z0c",
+      "title": "@viewchild using Component in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1206
+    },
+    {
+      "id": "gHJW_Br2I9E",
+      "title": "@viewchild using Directive in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1123
+    },
+    {
+      "id": "2IkATcpkJ9E",
+      "title": "@viewchild using Template Variables in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 976
+    },
+    {
+      "id": "X6klQ9PntK0",
+      "title": "route guards in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1872
+    },
+    {
+      "id": "mqZ9dYZl9fc",
+      "title": "canDeactivate guards in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 888
+    },
+    {
+      "id": "Yrs6dg5c7Cc",
+      "title": "Parameterize route in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1333
+    },
+    {
+      "id": "aJXBhA8_v9E",
+      "title": "resolve route guard in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 966
+    },
+    {
+      "id": "JmlVI9i13FY",
+      "title": "HostListener in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 750
+    },
+    {
+      "id": "JO20HlbAVJ8",
+      "title": "Transpilation in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 679
+    },
+    {
+      "id": "RFxsNZJLNyE",
+      "title": "Component Decorator in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 641
+    },
+    {
+      "id": "AEiyffFRfV4",
+      "title": "Template & TemplateUrl in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 817
+    },
+    {
+      "id": "SO-AznTiA4Y",
+      "title": "Error Handling in Interpolation in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1203
+    },
+    {
+      "id": "uwamL926Tms",
+      "title": "cookies in Angular 13  : Angular 13 Tutorial in Hindi",
+      "duration": 1113
+    },
+    {
+      "id": "ln6jVkR9S_U",
+      "title": "Service in Angular 13 : part - 1  : Angular 13 Tutorial in Hindi",
+      "duration": 1685
+    },
+    {
+      "id": "pBr414-KU-g",
+      "title": "Service in Angular 13: Part 2: Angular 13 Tutorial",
+      "duration": 1144
+    },
+    {
+      "id": "CJNJ-LHyzzk",
+      "title": "career growth in IT sector : How to clear interview in English : Interview skills : Sahosoft",
+      "duration": 407
+    },
+    {
+      "id": "u7qZdThlXjI",
+      "title": "Service in Angular 13: Part 3: Angular 13 Tutorial",
+      "duration": 1650
+    },
+    {
+      "id": "ciipj3qbN3U",
+      "title": "ProvidedIn in Angular 13 : Angular 13 Tutorial in Hindi",
+      "duration": 1029
+    },
+    {
+      "id": "JGb1p1MbkmY",
+      "title": "Tree Shaking in Angular Services in Angular 13 : Angular 13 Tutorial",
+      "duration": 958
+    },
+    {
+      "id": "2XOSwouRakE",
+      "title": "Angular 14 features in Hindi | what's new angular | Angular 14 tutorial in Hindi",
+      "duration": 1413
+    },
+    {
+      "id": "vg9Pf4I8us4",
+      "title": "Angular 14 CRUD project | angular 14 CRUD operation | Angular CRUD with Angular In memory Web API",
+      "duration": 13855
+    },
+    {
+      "id": "0gcwoNs0bWU",
+      "title": "Angular CRUD using tab with memory Web API | Angular 14 CRUD project | angular 14 CRUD operation",
+      "duration": 13424
+    },
+    {
+      "id": "z2flodSbzhI",
+      "title": "Angular 14 CRUD project | angular 14 CRUD operation | Angular CRUD with Angular In memory Web API",
+      "duration": 12340
+    },
+    {
+      "id": "6CBFSVEVVkU",
+      "title": "Angular 14 CRUD project | angular 14 CRUD with routing | angular 14 CRUD operation with web API",
+      "duration": 14778
+    },
+    {
+      "id": "iYBMrsX1Qgw",
+      "title": "5 Resume Mistakes you must avoid | Why is your resume getting Rejected? | Sahosoft",
+      "duration": 555
+    },
+    {
+      "id": "K9NdWk4ahuQ",
+      "title": "ASYNC vs SYNC - Difference | Synchronous and Asynchronous Programming - Explained | Sahosoft",
+      "duration": 660
+    },
+    {
+      "id": "IZat-mahvi0",
+      "title": "What is LinkedIn & How to Use LinkedIn - the Complete Guide (2023) | Sahosoft",
+      "duration": 706
+    },
+    {
+      "id": "TrCAx9Idl68",
+      "title": "Error PS1 Can Not Be Loaded Because Running Scripts Is Disabled On This System? SOLVED | Sahosoft",
+      "duration": 252
+    },
+    {
+      "id": "UJjy21RoH04",
+      "title": "How to Become a Web Developer | Complete Roadmap for Full Stack Developer | Sahosoft",
+      "duration": 1228
+    },
+    {
+      "id": "u4bGlLdEL8s",
+      "title": "Live Class Batches are going to start of Multiple Courses : Sahosoft Solutions",
+      "duration": 856
+    },
+    {
+      "id": "12TcXjv4XfE",
+      "title": "How to join our Live Class | Sahosoft",
+      "duration": 752
+    },
+    {
+      "id": "NMh6wbYVFb0",
+      "title": "Why Developers Choose Angular | Why Angular Is Better For Getting Hired",
+      "duration": 800
+    },
+    {
+      "id": "d7shjWPfjUI",
+      "title": "Guidelines for Angular Developers 2023 | Sahosoft",
+      "duration": 488
+    }
+  ]
+}

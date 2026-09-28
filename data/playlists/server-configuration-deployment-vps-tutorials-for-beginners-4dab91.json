@@ -1,0 +1,75 @@
+{
+  "courseId": "server-configuration-deployment-vps-tutorials-for-beginners-4dab91",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:35.525Z",
+  "title": "Server Configuration, Deployment & VPS Tutorials For Beginners",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "MdF6H0WAhSk",
+      "title": "Configuring a non root user & firewall on a brand new Ubuntu 20.04 server",
+      "duration": 1772
+    },
+    {
+      "id": "pMJ0_pj5IJI",
+      "title": "Uploading Files & PasswordLess Login on Ubuntu VPS",
+      "duration": 2097
+    },
+    {
+      "id": "zWTRNXmtVYM",
+      "title": "Installing Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 20.04",
+      "duration": 1042
+    },
+    {
+      "id": "BEGtS3XE6j4",
+      "title": "How to Host Multiple Websites on One Server",
+      "duration": 1048
+    },
+    {
+      "id": "NboJeJTRzic",
+      "title": "How to install phpMyAdmin on Ubuntu?",
+      "duration": 765
+    },
+    {
+      "id": "Wa2rnINf_tg",
+      "title": "How to enable HTTPs on Your Website in 2 minutes?",
+      "duration": 484
+    },
+    {
+      "id": "jVKw5njDpVc",
+      "title": "How to Open Remote Server directly in VS Code (in 2 mins)!",
+      "duration": 325
+    },
+    {
+      "id": "D4ou3geDstk",
+      "title": "How to install LEMP stack on Ubuntu VPS?",
+      "duration": 1099
+    },
+    {
+      "id": "mCKKKGCyugM",
+      "title": "How to install phpMyAdmin on Nginx (in 5 minutes)",
+      "duration": 476
+    },
+    {
+      "id": "tnJBalPzeAo",
+      "title": "How deploy a Django application using Nginx & Gunicorn in Production",
+      "duration": 1558
+    },
+    {
+      "id": "pAczUF4aFxg",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "QxSHj_sldwc",
+      "title": "How to deploy Flask apps on Ubuntu VPS Using gunicorn and Ngnix",
+      "duration": 1238
+    },
+    {
+      "id": "WUt7oi81oVY",
+      "title": "How to Deploy NodeJs app on Ubuntu in Production",
+      "duration": 596
+    }
+  ]
+}

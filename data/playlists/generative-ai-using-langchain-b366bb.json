@@ -1,0 +1,115 @@
+{
+  "courseId": "generative-ai-using-langchain-b366bb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:56.498Z",
+  "title": "Generative AI using LangChain",
+  "channel": "CampusX",
+  "videos": [
+    {
+      "id": "pSVk-5WemQ0",
+      "title": "GenAI Roadmap for Beginners | End-to-End GenAI Course 2025 | CampusX",
+      "duration": 3015
+    },
+    {
+      "id": "_3ezSpJw2E8",
+      "title": "Generative AI using LangChain | GENAI for Beginners | CampusX",
+      "duration": 919
+    },
+    {
+      "id": "nlz9j-r0U9U",
+      "title": "Introduction to LangChain | LangChain for Beginners | Video 1 | CampusX",
+      "duration": 2264
+    },
+    {
+      "id": "-xSJA8-o6Eg",
+      "title": "LangChain Components | GenAI using LangChain | Video 2 | CampusX",
+      "duration": 3204
+    },
+    {
+      "id": "HdcLE8JuMrA",
+      "title": "LangChain Models | Indepth Tutorial with Code Demo | Video 3 | CampusX",
+      "duration": 6123
+    },
+    {
+      "id": "3TGqlQxpuU0",
+      "title": "Prompts in LangChain | Generative AI using LangChain | Video 4 | CampusX",
+      "duration": 4713
+    },
+    {
+      "id": "y5EmRr1O1h4",
+      "title": "Structured Output in LangChain | Generative AI using LangChain | Video 5 | CampusX",
+      "duration": 4093
+    },
+    {
+      "id": "Op6PbJZ5b2Q",
+      "title": "Output Parsers in LangChain | Generative AI using LangChain | Video 6 | CampusX",
+      "duration": 3193
+    },
+    {
+      "id": "5hjrPILA3-8",
+      "title": "Chains in LangChain | Generative AI using LangChain | Video 7 | CampusX",
+      "duration": 3241
+    },
+    {
+      "id": "u3b-W1NgYa4",
+      "title": "What are Runnables in LangChain | Generative AI using LangChain | Video 8 | CampusX",
+      "duration": 4582
+    },
+    {
+      "id": "47nc0n-e4_w",
+      "title": "Langchain Runnables - Part 2 | Generative AI using LangChain | Video 9 | CampusX",
+      "duration": 3266
+    },
+    {
+      "id": "bL92ALSZ2Cg",
+      "title": "Document Loaders in LangChain |  Generative AI using LangChain | Video 10 | CampusX",
+      "duration": 3404
+    },
+    {
+      "id": "SEWS9P4ODmc",
+      "title": "Text Splitters in LangChain | Generative AI using LangChain | Video 11 | CampusX",
+      "duration": 3541
+    },
+    {
+      "id": "k13WK0bxQP0",
+      "title": "Vector Stores in LangChain | Generative AI using LangChain | Video 12 | CampusX",
+      "duration": 3031
+    },
+    {
+      "id": "pJdMxwXBsk0",
+      "title": "Retrievers in LangChain | Generative AI using LangChain | Video 13 | CampusX",
+      "duration": 3070
+    },
+    {
+      "id": "X0btK9X0Xnk",
+      "title": "Retrieval Augmented Generation | What is RAG | How does RAG Work | RAG Explained | CampusX",
+      "duration": 3564
+    },
+    {
+      "id": "J5_-l7WIO_w",
+      "title": "YouTube Chatbot using LangChain | Building a RAG system in LangChain  | Video 15 | CampusX",
+      "duration": 2775
+    },
+    {
+      "id": "etnLX7m2MiA",
+      "title": "Tools in LangChain | Generative AI using LangChain | Video 16 | CampusX",
+      "duration": 2716
+    },
+    {
+      "id": "EzYaFF7ahKw",
+      "title": "Tool Calling in LangChain | Generative AI using LangChain | Video 17 | CampusX",
+      "duration": 3527
+    },
+    {
+      "id": "gm_lQG8fYjI",
+      "title": "Building end-to-end AI Agent in LangChain | Generative AI using LangChain | Video 18 | CampusX",
+      "duration": 4367
+    },
+    {
+      "id": "YcAYmIFtA0o",
+      "title": "Ollama Masterclass 2026: Run Powerful Local LLMs with Ollama (3-Hour Full Course) | CampusX",
+      "duration": 10181
+    }
+  ]
+}

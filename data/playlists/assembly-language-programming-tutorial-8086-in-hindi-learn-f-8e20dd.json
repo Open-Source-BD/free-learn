@@ -1,0 +1,100 @@
+{
+  "courseId": "assembly-language-programming-tutorial-8086-in-hindi-learn-f-8e20dd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:07.320Z",
+  "title": "Assembly Language programming tutorial 8086 in hindi learn full course with examples for beginners | what is assembly language in hindi",
+  "channel": "Malik Shahzaib Official",
+  "videos": [
+    {
+      "id": "_BpOV3G1-m0",
+      "title": "Introduction to Assembly Language Programming Tutorial in Urdu Hindi | best intro",
+      "duration": 464
+    },
+    {
+      "id": "NZIll3zQc6M",
+      "title": "#2 Computer buses in urdu | buses in computer architecture organization in cpu | system bus in hindi",
+      "duration": 608
+    },
+    {
+      "id": "cHxc3v0kosg",
+      "title": "#3 Register in assembly language in hindi | types of registers in urdu | data registers",
+      "duration": 876
+    },
+    {
+      "id": "QmkfZ_MRwZk",
+      "title": "#4 Flag Registers in Assembly Language in hindi with types | sign carry parity 8086 microprocessor",
+      "duration": 1342
+    },
+    {
+      "id": "91Vv-GKe57g",
+      "title": "#5 AFD Debugger in Assembly language with examples | Dosbox instructions with debugging Hindi Urdu",
+      "duration": 1670
+    },
+    {
+      "id": "xebE-UnVAOk",
+      "title": "#6 My first assembly language program |Writing assembly language instructions |Reading assembly code",
+      "duration": 758
+    },
+    {
+      "id": "AaUvys-FHXg",
+      "title": "#7 What Segmented Memory Segmentation Model Assembly Language | code data stack segment hindi urdu",
+      "duration": 1979
+    },
+    {
+      "id": "UtcI3Ff0fxs",
+      "title": "#8 Logical to physical address conversion | physical vs virtual memory | find & get physical address",
+      "duration": 1326
+    },
+    {
+      "id": "jmqpQ1Q34KI",
+      "title": "#9 Addressing Modes in coa computer architecture Assembly Language Types Memory examples Hindi Urdu",
+      "duration": 1376
+    },
+    {
+      "id": "v_Gp-Eu-A_g",
+      "title": "#10 Explain What is Register Addressing Mode Example | Register Indirect Addressing Mode",
+      "duration": 1598
+    },
+    {
+      "id": "bczxexgSB3s",
+      "title": "#11 conditional jumps in assembly language with examples |if statement in assembly language |compare",
+      "duration": 818
+    },
+    {
+      "id": "5iOO-mKylxY",
+      "title": "Unconditional JUMP in assembly language | JMP instruction label | types of jumps | SHORT | NEAR |FAR",
+      "duration": 1467
+    },
+    {
+      "id": "rpHsOGIIAA8",
+      "title": "#13 shift instruction in assembly language | sar shr sal shl | logical arithmetic right left example",
+      "duration": 947
+    },
+    {
+      "id": "dZMXcf5Pnm8",
+      "title": "#14 bitwise logical operators | AND | OR | XOR | NOT | what is bit masking operation in assembly",
+      "duration": 1542
+    },
+    {
+      "id": "yhogHpMVJaY",
+      "title": "what is signed and unsigned numbers in computer organization |signed number representation in binary",
+      "duration": 515
+    },
+    {
+      "id": "vVmo-4IF5cw",
+      "title": "what is subroutine in assembly language microprocessor | procedure example | RET | CALL instruction",
+      "duration": 1776
+    },
+    {
+      "id": "t97KAq-pSh0",
+      "title": "Stack in Assembly Language | nasm stack pointer register x86 | push and pop in stack instructions",
+      "duration": 1615
+    },
+    {
+      "id": "0H6i6_Cqlfw",
+      "title": "Bubble sorting in assembly language asm algorithm | bubble sort assembly code | ascending order",
+      "duration": 1330
+    }
+  ]
+}

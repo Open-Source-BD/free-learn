@@ -1,0 +1,290 @@
+{
+  "courseId": "compiler-design-91e667",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:00.368Z",
+  "title": "Compiler Design",
+  "channel": "THE GATEHUB",
+  "videos": [
+    {
+      "id": "Cb46_P12bMY",
+      "title": "Introduction to Compiler Design | Language Processing System",
+      "duration": 927
+    },
+    {
+      "id": "15_8wKnqj7U",
+      "title": "Compiler vs Interpreter | Compiler Design",
+      "duration": 824
+    },
+    {
+      "id": "KB1CFp6LUXA",
+      "title": "Phases of Compiler | Compiler Design",
+      "duration": 1306
+    },
+    {
+      "id": "3UCBQbsjIy0",
+      "title": "Lexical Analyzer | Lexical Analysis | Compiler Design",
+      "duration": 894
+    },
+    {
+      "id": "278hcTpBqvA",
+      "title": "Count number of tokens in compiler design | Lexical Analyzer",
+      "duration": 1269
+    },
+    {
+      "id": "XMt-KL-xn7k",
+      "title": "Ambiguous Grammar || Introduction to Ambiguous Grammar || Compiler Design",
+      "duration": 941
+    },
+    {
+      "id": "w7Udqf_Wvw8",
+      "title": "Ambiguous Grammar to Unambiguous Grammar || Compiler Design || GATE",
+      "duration": 1027
+    },
+    {
+      "id": "4a5k8H8eN6Q",
+      "title": "Elimination of left recursion | Compiler Design",
+      "duration": 854
+    },
+    {
+      "id": "QzsLNzzomNA",
+      "title": "Precedence and Associativity of Operators Examples | Compiler Design",
+      "duration": 861
+    },
+    {
+      "id": "wbMxBVcwtX8",
+      "title": "Elimination of left factoring | Compiler Design",
+      "duration": 908
+    },
+    {
+      "id": "pSY6laN6a0o",
+      "title": "Introduction to Parser | Top Down and Bottom Up Parser | Compiler Design",
+      "duration": 941
+    },
+    {
+      "id": "nuwoySABfVs",
+      "title": "Recursive Descent Parser with solved example | Compiler Design",
+      "duration": 546
+    },
+    {
+      "id": "lhQqq5FfzMU",
+      "title": "First and Follow in Compiler Design | Examples",
+      "duration": 1083
+    },
+    {
+      "id": "T7twzNPspTg",
+      "title": "First and Follow Examples  | Compiler Design | GATECS",
+      "duration": 1396
+    },
+    {
+      "id": "en0Mptigzkw",
+      "title": "LL(1) parser | Example 1 | Top Down Parser | Compiler Design",
+      "duration": 1262
+    },
+    {
+      "id": "BZ3VRfjeTT4",
+      "title": "LL(1) parser | Example 2 | Top Down Parser | Compiler Design",
+      "duration": 901
+    },
+    {
+      "id": "hkUCwLOn8FE",
+      "title": "How to Check a Grammar is  LL(1) or not |  Compiler Design",
+      "duration": 874
+    },
+    {
+      "id": "HO9WSyevTwA",
+      "title": "LL(1) parser | Example 3 | Top Down Parser | Compiler Design",
+      "duration": 506
+    },
+    {
+      "id": "fmd-tDDPonY",
+      "title": "Bottom Up Parser | Shift Reduce Parsing | Compiler Design",
+      "duration": 996
+    },
+    {
+      "id": "sm_hwNDzc-o",
+      "title": "LR(0) parser || Example 1 || LR(0) parsing table || Compiler Design",
+      "duration": 1917
+    },
+    {
+      "id": "BVUSHWogXiA",
+      "title": "LR(0) parser || Example 2 || LR(0) parsing table || Compiler Design",
+      "duration": 1237
+    },
+    {
+      "id": "eons9sss1xE",
+      "title": "SLR (1) Parser Example 1 | Simple LR Parser | SLR Parsing Table Example | Compiler Design",
+      "duration": 1526
+    },
+    {
+      "id": "2ktkX_9KtpM",
+      "title": "SLR(1) Parser Example 3 | Simple LR Parser | SLR Parsing Table Example | Compiler Design",
+      "duration": 812
+    },
+    {
+      "id": "94qfTPON5kU",
+      "title": "CLR(1) Parser Example 1 | Canonical LR Parser | Compiler Design",
+      "duration": 1083
+    },
+    {
+      "id": "Go4cG3jHnNE",
+      "title": "CLR(1) Parser Example 2 |  Canonical LR Parser | Compiler Design",
+      "duration": 701
+    },
+    {
+      "id": "JwStWxFWfzQ",
+      "title": "CLR(1) Parser Example 3 | Canonical LR Parser | Compiler Design",
+      "duration": 772
+    },
+    {
+      "id": "Rs7N94GlqYQ",
+      "title": "LALR(1) Parser Solved Examples | Look-Ahead LR Parser | Compiler Design",
+      "duration": 1082
+    },
+    {
+      "id": "l29-94pGOWg",
+      "title": "Operator Precedence Parser with Solved Examples | Operator Grammar | GATECS | Compiler Design",
+      "duration": 1621
+    },
+    {
+      "id": "WFXVq5tE3VA",
+      "title": "Relationship between LL(1), SLR(1), LALR(1), CLR(1) and LR(1) Parsers | Compiler Design",
+      "duration": 564
+    },
+    {
+      "id": "155qkb0goHU",
+      "title": "Introduction to Syntax Directed Definition (SDD)| Syntax Directed Translation | Compiler Design",
+      "duration": 922
+    },
+    {
+      "id": "rsyZpnGIG2I",
+      "title": "S-Attributed and L-Attributed SDD | Types of SDD | Compiler Design",
+      "duration": 1081
+    },
+    {
+      "id": "bNPX_F0x6Hc",
+      "title": "SDD to Convert Binary to Decimal || SDT || Compiler Design",
+      "duration": 462
+    },
+    {
+      "id": "KV01s3r9fLc",
+      "title": "SDD to Binary to Decimal with Fraction | SDT | Compiler Design",
+      "duration": 769
+    },
+    {
+      "id": "IU6eb0S4qw0",
+      "title": "SDD to construct syntax tree | SDT | Compiler Design",
+      "duration": 670
+    },
+    {
+      "id": "gwQScodYdpg",
+      "title": "SDD to store type information in symbol table || SDT || Compiler Design",
+      "duration": 441
+    },
+    {
+      "id": "m8z55ZgoOSU",
+      "title": "SDD to generate Three Address Code || SDT || Compiler Design",
+      "duration": 537
+    },
+    {
+      "id": "HcVVyiP0_BQ",
+      "title": "Run Time Environment | Compiler Design",
+      "duration": 1309
+    },
+    {
+      "id": "tGOByZDpF-8",
+      "title": "Activation Record in Compiler Design",
+      "duration": 707
+    },
+    {
+      "id": "yMUw2MxzNec",
+      "title": "Intermediate Code Generation with Examples | Compiler Design",
+      "duration": 771
+    },
+    {
+      "id": "O0HCUfGsEK0",
+      "title": "Quadruples,Triples,Indirect Triples | Representation of three address code | Compiler Design",
+      "duration": 792
+    },
+    {
+      "id": "OPVMxftWBJc",
+      "title": "Backpatching Example 1 ( If & Else Case ) | Three Address Code | ICG | Compiler Design",
+      "duration": 442
+    },
+    {
+      "id": "zibfnC40jmU",
+      "title": "Backpatching Example 2 (Loop & Switch Case ) | Three Address Code | ICG | Compiler Design",
+      "duration": 672
+    },
+    {
+      "id": "XR28e3CaE7Q",
+      "title": "Backpatching Example 3 ( 1 D Array ) | Three Address Code | ICG | Compiler Design",
+      "duration": 750
+    },
+    {
+      "id": "sG9ixmxUKeo",
+      "title": "Backpatching Example 4 ( 2 D Array ) | Three Address Code | ICG | Compiler Design",
+      "duration": 841
+    },
+    {
+      "id": "avJOhG4ukGo",
+      "title": "Backpatching GATE Solved Example ( 3 D Array ) | Three Address Code | ICG | Compiler Design",
+      "duration": 1020
+    },
+    {
+      "id": "CFF7Zt_wwX0",
+      "title": "Directed Acyclic Graph | DAG Examples 1 | Intermediate Code Generation |  Compiler Design",
+      "duration": 549
+    },
+    {
+      "id": "2mwE_R40Ci4",
+      "title": "Directed Acyclic Graph | DAG Examples 2 | Intermediate Code Generation |  Compiler Design",
+      "duration": 540
+    },
+    {
+      "id": "2MW4blYXMUc",
+      "title": "Directed Acyclic Graph | DAG Examples 3 | Intermediate Code Generation | Compiler Design",
+      "duration": 508
+    },
+    {
+      "id": "Kj9nmjvf6wk",
+      "title": "Introduction to Code Optimization | Compiler Design",
+      "duration": 966
+    },
+    {
+      "id": "IGrHRulR0Uc",
+      "title": "Basic Blocks and Flow Graphs  | Code Optimization | Compiler Design",
+      "duration": 966
+    },
+    {
+      "id": "fHubDiB89RM",
+      "title": "Basic Blocks and Flow Graphs with GATE 2015 Example | Compiler Design",
+      "duration": 499
+    },
+    {
+      "id": "aYMAsAy_lAc",
+      "title": "Loop Optimization Techniques | Code Optimization | Compiler Design",
+      "duration": 792
+    },
+    {
+      "id": "DkdpHtY2kw4",
+      "title": "Peephole Optimization in Compiler Design | Machine Dependent Code Optimization",
+      "duration": 535
+    },
+    {
+      "id": "MV0mKgT7PuY",
+      "title": "Machine Independent Code Optimization | Compiler Design",
+      "duration": 508
+    },
+    {
+      "id": "TLmcTXtOBKA",
+      "title": "Liveness Analysis in Compiler Design | Code optimization | Dataflow analysis",
+      "duration": 1168
+    },
+    {
+      "id": "p6ETLr_J4_0",
+      "title": "Liveness Analysis Solved examples | Dataflow analysis | Compiler Design",
+      "duration": 971
+    }
+  ]
+}

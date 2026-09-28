@@ -1,0 +1,435 @@
+{
+  "courseId": "angular-6-7-8-series-in-hindi-f2f25c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLhsXdvz0qjL1HVD2jAtlvoDmS5qj0OvA",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:27.089Z",
+  "title": "Angular Complete Series (In Hindi)",
+  "channel": "UX Trendz",
+  "videos": [
+    {
+      "id": "H2TUbmlh4YQ",
+      "title": "Introduction of Angular  | Installation  |  Angular Tutorial in Hindi [#1] (2023)",
+      "duration": 893
+    },
+    {
+      "id": "3neAPOqCrjY",
+      "title": "Project Files Structure of Angular Project  |  Angular 6 Tutorial in Hindi [#2]",
+      "duration": 455
+    },
+    {
+      "id": "uxYvALNR70Y",
+      "title": "Component in Angular  | Components Explained in Hindi  |  Angular Tutorial in Hindi [#3]",
+      "duration": 1304
+    },
+    {
+      "id": "3uuAk0yKOjk",
+      "title": "Data Binding in Angular 6 | Data Binding Explained in Hindi  |  Angular 6 Tutorial in Hindi [#4]",
+      "duration": 207
+    },
+    {
+      "id": "iTDZH2Bb8sI",
+      "title": "Interpolation in Angular 6 | String Interpolation |  Angular 6 Tutorial in Hindi [#5]",
+      "duration": 512
+    },
+    {
+      "id": "LaQdFIDpCBI",
+      "title": "Property Binding in Angular 6  |  Property Binding Vs Interpolation  |  Angular in Hindi (2018) [#6]",
+      "duration": 429
+    },
+    {
+      "id": "oZVSrJkIUps",
+      "title": "Class and Style Binding in Angular  |  ngClass | ngStyle  |  Angular 6 Tutorial in Hindi(2018) [#7]",
+      "duration": 674
+    },
+    {
+      "id": "q5jo8XUtuso",
+      "title": "Event Binding in Angular  |  Event Binding Explained  |  Angular 6 Tutorial in Hindi (2018) [#8]",
+      "duration": 968
+    },
+    {
+      "id": "sf0ycNLB9-g",
+      "title": "Template Reference Variable  |  Local Reference Variable   |  Angular Tutorial in Hindi(2019) [#9]",
+      "duration": 405
+    },
+    {
+      "id": "Q3v9m1wHgTo",
+      "title": "Two Way Data Binding in Angular  |  [(ngModel)]   |  Angular 6 Tutorial in Hindi(2019) [#10]",
+      "duration": 388
+    },
+    {
+      "id": "cNJJMfLqc58",
+      "title": "Ngx-Bootstrap in Angular  |  Bootstrap in Angular   |  Angular 6 Tutorial in Hindi(2019) [#11]",
+      "duration": 438
+    },
+    {
+      "id": "KtbmllogyI8",
+      "title": "NgIf, Else & Then in Angular  |  Directives in Angular   |  Angular 6 Tutorial in Hindi (2019) [#12]",
+      "duration": 467
+    },
+    {
+      "id": "ILgnVV3IDI0",
+      "title": "ngSwitch in Angular  |  Directives in Angular   |  Angular 6 Tutorial in Hindi (2019) [#13]",
+      "duration": 493
+    },
+    {
+      "id": "M4mbs_7RCLo",
+      "title": "ngFor in Angular  |  Directives in Angular   |  Angular 6 Tutorial in Hindi (2019) [#14]",
+      "duration": 453
+    },
+    {
+      "id": "dMf7LPnFBEA",
+      "title": "Push and Splice with ngFor in Angular  |  Angular 6 Tutorial in Hindi (2019) [#15]",
+      "duration": 641
+    },
+    {
+      "id": "zG4Ffkj0ZiI",
+      "title": "Routing in Angular  | Angular Routes |  RouterLink   |  Angular 6 Tutorial in Hindi (2023) [#16]",
+      "duration": 517
+    },
+    {
+      "id": "WrrYDp5frV8",
+      "title": "Styling Active Router Link in Angular  | Angular Routes |  Angular 6 Tutorial in Hindi (2019) [#17]",
+      "duration": 334
+    },
+    {
+      "id": "oxLd-Zp_o80",
+      "title": "Routes Redirection   | Angular Routes |  Angular 6 Tutorial in Hindi (2019) [#18]",
+      "duration": 431
+    },
+    {
+      "id": "Y1zLeqHJbxI",
+      "title": "Nested and Child Routes   | Angular Routes |  Angular 6 Tutorial in Hindi (2019) [#19]",
+      "duration": 677
+    },
+    {
+      "id": "vzUVuwS_n2s",
+      "title": "Navigating Routes Programmatically   | Angular Routes |  Angular 6 Tutorial in Hindi (2019) [#20]",
+      "duration": 291
+    },
+    {
+      "id": "HCO4nteOEn8",
+      "title": "Ng Content in Angular 6+   |  ng-content   |  Angular 6 Tutorial in Hindi (2019) [#21]",
+      "duration": 485
+    },
+    {
+      "id": "itG2hii60bg",
+      "title": "Ng Container in Angular 6+   |  ng-container   |  Angular 6 Tutorial in Hindi (2019) [#22]",
+      "duration": 309
+    },
+    {
+      "id": "3srOOe_hI-I",
+      "title": "Components Communication in Angular 6+   |  Angular 6 Tutorial in Hindi (2019) [#23]",
+      "duration": 1320
+    },
+    {
+      "id": "j91_u74HPgg",
+      "title": "@Input and Custom Property in Angular 6+   |  Angular 6 Tutorial in Hindi (2019) [#24]",
+      "duration": 975
+    },
+    {
+      "id": "yHOhTgok0dw",
+      "title": "@Output and Custom Events in Angular 6+   |  Angular 6 Tutorial in Hindi (2019) [#25]",
+      "duration": 596
+    },
+    {
+      "id": "n70ZoTl36F8",
+      "title": "Services in Angular 6+   |  Angular 6 Tutorial in Hindi (2019) [#26]",
+      "duration": 762
+    },
+    {
+      "id": "BfQrp6_L7nY",
+      "title": "Dependency Injection in Angular 6   |  Angular Services  |  Angular 6 Tutorial in Hindi (2019) [#27]",
+      "duration": 766
+    },
+    {
+      "id": "g54UFXKQH1w",
+      "title": "Angular Exercise  NgIf |  NgFor |  Input  | Output  |  Push  |  Splice  [Ep #1]",
+      "duration": 137
+    },
+    {
+      "id": "F7yh2YUxv1E",
+      "title": "Angular Exercise #01 - Solution ( NgIf |  NgFor |  Input  | Output  |  Push  |  Splice)",
+      "duration": 1676
+    },
+    {
+      "id": "9n033dPwuGc",
+      "title": "Http and Observables in Angular  | Observables  |  Angular Tutorial in Hindi (2023) [#28]",
+      "duration": 427
+    },
+    {
+      "id": "5-lCkyweqyk",
+      "title": "Fetch Data with Http and Observables  |  HTTP  | Observables  |  Angular 6 Tutorial in Hindi [#29]",
+      "duration": 548
+    },
+    {
+      "id": "Ft5aDAKuW5Y",
+      "title": "Subject and Behavior Subject in Angular  |  Subject  |  Angular Tutorial in Hindi (2023) [#30]",
+      "duration": 792
+    },
+    {
+      "id": "eaIg9Vy5fTU",
+      "title": "Component Lifecycle Hooks in Angular  |  Angular Tutorial in Hindi (2023) [#31]",
+      "duration": 428
+    },
+    {
+      "id": "qdvGXSUk7Mo",
+      "title": "Component Lifecycle Hooks in Action Angular  |  Angular Tutorial in Hindi (2023) [#32]",
+      "duration": 1324
+    },
+    {
+      "id": "DXaIZmKAzQY",
+      "title": "View Child in Angular  |  ViewChild()  |  Angular Tutorial in Hindi (2023) [#33]",
+      "duration": 804
+    },
+    {
+      "id": "nwUdFeM6sh8",
+      "title": "Renderer 2 & Content Child in Angular 6+  |  Renderer2  |  Angular 6 Tutorial in Hindi (2019) [#34]",
+      "duration": 617
+    },
+    {
+      "id": "yFd9s1lwois",
+      "title": "ViewChild with Directive in Angular 6+   |  ViewChild()  |  Angular 6 Tutorial in Hindi (2019) [#35]",
+      "duration": 361
+    },
+    {
+      "id": "s9NqICibhIc",
+      "title": "HostListener in Angular 6+   |  HostListener  |  Angular 6 Tutorial in Hindi (2019) [#36]",
+      "duration": 934
+    },
+    {
+      "id": "gOQnLIIyH7I",
+      "title": "HostBinding in Angular    |  HostBinding  |  Angular 6/7/8 Tutorial in Hindi (2019) [#37]",
+      "duration": 825
+    },
+    {
+      "id": "TLzUHjTnjEo",
+      "title": "Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#38]",
+      "duration": 412
+    },
+    {
+      "id": "2XOPWcMLXcQ",
+      "title": "Angular Exercise #2  |  Create Multi-View Component in Angular  |  [Ep #2]",
+      "duration": 313
+    },
+    {
+      "id": "NvHadEcsbP4",
+      "title": "Angular Exercise #2  - Solution   |  Create Multi-View Component in Angular  |  [Ep #2]",
+      "duration": 2685
+    },
+    {
+      "id": "3_0m_ypxhIQ",
+      "title": "Custom Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#39]",
+      "duration": 719
+    },
+    {
+      "id": "uUQfi1-g92Q",
+      "title": "Filter Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#40]",
+      "duration": 984
+    },
+    {
+      "id": "TkaQfCS6USk",
+      "title": "Angular Exercise #3  |  Work with Data Modal in Angular  |  [Ep #3]",
+      "duration": 142
+    },
+    {
+      "id": "A9SZshaxYjY",
+      "title": "Angular Exercise #3  - Solution   |  Work with Data Modal in Angular  |  [Ep #3]",
+      "duration": 1288
+    },
+    {
+      "id": "ZGwcLYujQlU",
+      "title": "Pure and Impure Pipes in Angular 6+   |  Angular Pipe  |  Angular 6 Tutorial in Hindi (2019) [#41]",
+      "duration": 428
+    },
+    {
+      "id": "RaVDRay-Xfg",
+      "title": "Template Driven Forms in Angular 6+   |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#42]",
+      "duration": 725
+    },
+    {
+      "id": "eLbttIXsrrc",
+      "title": "Template Driven Forms  Part 2  |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#43]",
+      "duration": 888
+    },
+    {
+      "id": "tBEEnAEG04w",
+      "title": "Template Driven Forms  Part 3  |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#44]",
+      "duration": 787
+    },
+    {
+      "id": "g_0I_Zp34iY",
+      "title": "Reactive Forms  Part 1  |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#45]",
+      "duration": 684
+    },
+    {
+      "id": "MagByMMoKNk",
+      "title": "Reactive Forms  Part 2  |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#46]",
+      "duration": 689
+    },
+    {
+      "id": "0sGMNeK8o78",
+      "title": "Reactive FormArray   |  Angular Forms  |  Angular 6 Tutorial in Hindi (2019) [#47]",
+      "duration": 698
+    },
+    {
+      "id": "NF5SpeiKmMM",
+      "title": "Reactive Form  |  Custom Validation  |  Using Error Codes  |  Angular Tutorial in Hindi (2019) [#48]",
+      "duration": 660
+    },
+    {
+      "id": "TkhYkelTkkY",
+      "title": "Reactive Form #5  |  Custom Async Validators  |  Angular Forms  |  Angular in Hindi (2019) [#49]",
+      "duration": 474
+    },
+    {
+      "id": "7vOcZ5099V4",
+      "title": "Reactive Form #6  |  Status & Value Change  |  Reset Angular Form  |  Angular 6+ Hindi (2019) [#50]",
+      "duration": 797
+    },
+    {
+      "id": "5hJmOViuGrY",
+      "title": "Modules in Angular in Hindi  |  Angular Modules  |  Angular 6+ Tutorial in Hindi (2019) [#51]",
+      "duration": 410
+    },
+    {
+      "id": "Ocp5aK0MpV8",
+      "title": "Featured Module in Angular in Hindi  |  Angular Modules  |  Angular 8 Tutorial in Hindi (2021) [#52]",
+      "duration": 633
+    },
+    {
+      "id": "nby-S987m6Q",
+      "title": "Featured Module (Part 2) |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi (2021) [#53]",
+      "duration": 697
+    },
+    {
+      "id": "YWeIMqjtCTs",
+      "title": "Shared Module in Angular  |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi (2021) [#54]",
+      "duration": 821
+    },
+    {
+      "id": "JD4eAL8pkfI",
+      "title": "Module Loading Strategy  |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi (2021) [#55]",
+      "duration": 782
+    },
+    {
+      "id": "aYcdMr2Vwn0",
+      "title": "Lazy Loading in Angular in Hindi  |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi 2021 [#56]",
+      "duration": 834
+    },
+    {
+      "id": "ukUwL2oVTbQ",
+      "title": "Pre Loading in Angular  |  Angular Modules  |  Angular 6/7/8+ Tutorial in Hindi (2021) [#57]",
+      "duration": 591
+    },
+    {
+      "id": "DYIGBy0kofY",
+      "title": "Custom Preloading Strategy in Hindi  |  Angular Modules  |  Angular 8 Tutorial in Hindi (2021) [#58]",
+      "duration": 556
+    },
+    {
+      "id": "8NiJZ7QinGU",
+      "title": "Ngx Translate in Angular in Hindi  |  MultiLanguage Angular App  |  Angular Exercise #4",
+      "duration": 428
+    },
+    {
+      "id": "e2bpbo_B32s",
+      "title": "Ngx-Translate in Angular in Hindi  |  MultiLanguage Angular App  |  Exercise #4  - Solution[Ep #4]",
+      "duration": 1241
+    },
+    {
+      "id": "uEknsl700XY",
+      "title": "Ngx-Translate in Angular in Hindi - Part 2  |  MultiLanguage Angular  |  Ex #4  - Solution [Ep #4]",
+      "duration": 1087
+    },
+    {
+      "id": "5_5i6Hgsfao",
+      "title": "Ngx-Translate in Angular in Hindi - Part 3  |  MultiLanguage Angular  |  Ex #4  - Solution [Ep #4]",
+      "duration": 801
+    },
+    {
+      "id": "YehL_mrK94o",
+      "title": "JSON.stringify() Vs JSON.parse() use with Real Json Api in Angular   | Angular8 Tutorial (2020) [#2]",
+      "duration": 456
+    },
+    {
+      "id": "GAnbf7SaUqU",
+      "title": "Post and Put  |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#59] [Angular CRUD #1]",
+      "duration": 1190
+    },
+    {
+      "id": "CO1J_GvyyBg",
+      "title": "Fetch Data from Firebase  |  Firebase  |  Angular 8 Tutorial in Hindi (2020) [#60] [Angular CRUD #2]",
+      "duration": 1031
+    },
+    {
+      "id": "H5pVJ5cxDWs",
+      "title": "Delete Data from Firebase  |  Firebase  |  Angular 8 Tutorial Hindi (2020) [#61] [Angular CRUD #3]",
+      "duration": 397
+    },
+    {
+      "id": "UCVjdLFwKUc",
+      "title": "Edit and Update Data from Firebase  |  Angular 8 Tutorial Hindi (2020) [#62] [Angular CRUD #4]",
+      "duration": 805
+    },
+    {
+      "id": "yObqRIgSogA",
+      "title": "Post Method |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#63] [Angular CRUD #1]",
+      "duration": 1044
+    },
+    {
+      "id": "T1yCe4IX9U4",
+      "title": "Fetch Data |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#64] [Angular CRUD #2]",
+      "duration": 838
+    },
+    {
+      "id": "Lz1p73rNjmg",
+      "title": "Delete Data |  Angular Firebase  |  Angular 8 Tutorial in Hindi (2020) [#65] [Angular CRUD #3]",
+      "duration": 602
+    },
+    {
+      "id": "b_N7hRYQPis",
+      "title": "Edit and Update Data |  Angular Firebase  |  Angular 8 Tutorial Hindi (2020) [#66] [Angular CRUD #4]",
+      "duration": 1240
+    },
+    {
+      "id": "1RZfqvbkhJ8",
+      "title": "Interceptor to Manipulate Request Angular |  Angular Authentication Tutorial in hindi (2021) [#11]",
+      "duration": 641
+    },
+    {
+      "id": "A5FYzkfUnyI",
+      "title": "Angular Route Parameters Tutorial 2024 (हिंदी)",
+      "duration": 718
+    },
+    {
+      "id": "LT3ITcWRiK8",
+      "title": "Angular Query Parameters Tutorial 2024 (हिंदी)",
+      "duration": 507
+    },
+    {
+      "id": "gnqGBiyyOmY",
+      "title": "Angular Fragments Tutorial 2024 (हिंदी)",
+      "duration": 430
+    },
+    {
+      "id": "BPakxKCrAdU",
+      "title": "Mean Stack App from scratch  |  Create Mean Backend  |  Mean Stack tutorial in Hindi (2021) [ #1]",
+      "duration": 2526
+    },
+    {
+      "id": "9Su6JmIt83s",
+      "title": "Mean Stack App from scratch  |  Create Mean FrontEnd  |  Mean Stack tutorial in Hindi (2021) [ #2 ]",
+      "duration": 1341
+    },
+    {
+      "id": "FHx0X8HoRn4",
+      "title": "Organized Folder Structure of Angular App in Hindi |  #ngMaterial  |  Uxtrendz (2021) [#5]",
+      "duration": 776
+    },
+    {
+      "id": "D0Ea93Qaoo4",
+      "title": "🔥 Free Source Code of Angular Series |  Uxtrendz  |  Angular Tutorials in Hindi (2021) [#67]",
+      "duration": 82
+    }
+  ]
+}

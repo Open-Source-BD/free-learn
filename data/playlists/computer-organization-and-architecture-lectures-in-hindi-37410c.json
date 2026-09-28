@@ -1,0 +1,245 @@
+{
+  "courseId": "computer-organization-and-architecture-lectures-in-hindi-37410c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:41.626Z",
+  "title": "Computer Organization and Architecture(COA) Full Course and Lectures",
+  "channel": "Easy Engineering Classes",
+  "videos": [
+    {
+      "id": "B6rqMbArcew",
+      "title": "L1: Computer Organization & Architecture Introduction | Difference b/w Organization & Architecture",
+      "duration": 746
+    },
+    {
+      "id": "llBYrJd6yUw",
+      "title": "L2: CPU, Basic Components of Computer, Main Memory, I/O Modules | COA Lectures in Hindi",
+      "duration": 764
+    },
+    {
+      "id": "QnSZr9Dv4y0",
+      "title": "L3: Von Neumann Architecture, Hardwired Program(S/W Vs. H/W Functionality) | COA Lectures in Hindi",
+      "duration": 920
+    },
+    {
+      "id": "KhWAUUDoDlw",
+      "title": "L4: Interactions between Computer Components | Memory Address, Buffer, I/O Buffer Register | COA",
+      "duration": 697
+    },
+    {
+      "id": "MH_7J3cQqTo",
+      "title": "L5: Program Execution & Instruction Execution | Computer Organization & Architecture Lectures Hindi",
+      "duration": 796
+    },
+    {
+      "id": "XAhC2hvD73Q",
+      "title": "L6: Actions Performed by Instruction, Accumulator Instruction | Computer Organization Lectures Hindi",
+      "duration": 868
+    },
+    {
+      "id": "p9n91lXeJ8Y",
+      "title": "L7: Different states of an Instruction Cycle | Diagrammatic representation of states | COA Lectures",
+      "duration": 1051
+    },
+    {
+      "id": "zaAwvU-sfUI",
+      "title": "L8: Interrupts : Introduction , Uses, Advantages | Computer Organization Architecture Lectures Hindi",
+      "duration": 905
+    },
+    {
+      "id": "PW5jYdYXK7k",
+      "title": "L9: Interrupt Request and Interrupt Handlers | Advantages, Disadvantages | COA Lectures in Hindi",
+      "duration": 946
+    },
+    {
+      "id": "7ACJnUbwbdk",
+      "title": "L10: Different Types of interrupts | Program, Timer, I/O, Hardware Interrupts | COA Lectures Hindi",
+      "duration": 707
+    },
+    {
+      "id": "8-mF4ytBvhE",
+      "title": "L11: Modifying Instruction Cycle to Handle Interrupts | Computer Organization Architecture Lectures",
+      "duration": 959
+    },
+    {
+      "id": "k3GEgZjQPq8",
+      "title": "L12: Methods to Handle Multiple Interrupts | Computer Organization Architecture Lectures in Hindi",
+      "duration": 785
+    },
+    {
+      "id": "378ikEWD-sU",
+      "title": "L13: Input/output Connections to I/O Modules, Processor, Memory | Computer Organization Architecture",
+      "duration": 1505
+    },
+    {
+      "id": "qX_rqLO-tkU",
+      "title": "L14: Bus Structure & Features of the System BUS | Computer Organization Architecture Lectures Hindi",
+      "duration": 1234
+    },
+    {
+      "id": "w4plT5O1z-s",
+      "title": "L15: Features of Data BUS and Address BUS | Computer Organization Architecture Lectures Hindi",
+      "duration": 1113
+    },
+    {
+      "id": "iXbZMhEBeL4",
+      "title": "L16: Control BUS, Features, Important Control Signals | Computer Organization Architecture Lectures",
+      "duration": 873
+    },
+    {
+      "id": "BLMnNuDKaI8",
+      "title": "L17: Types of BUS: Dedicated and Multiplexed | Computer Organization Architecture Lectures in Hindi",
+      "duration": 978
+    },
+    {
+      "id": "DAMgj_0vkac",
+      "title": "L18: Method of Arbitration in BUS: Centralized & Distributed Mode | Computer Organization Lectures",
+      "duration": 787
+    },
+    {
+      "id": "YsSUUbfWFhQ",
+      "title": "L19: Synchronous and Asynchronous BUS Timings | Computer Organization Architecture Lectures in Hindi",
+      "duration": 1137
+    },
+    {
+      "id": "T5r4L2utl-8",
+      "title": "L20: Elements of a Machine Instruction | Computer Organization Architecture Lectures in Hindi",
+      "duration": 1346
+    },
+    {
+      "id": "zSmsCb8dKkI",
+      "title": "L21: Instruction Types & Symbolic Representation | Computer Organization Architecture Lectures Hindi",
+      "duration": 1093
+    },
+    {
+      "id": "8RYtCKTNUBM",
+      "title": "L22: Three Address & Two Address Instructions | Computer Organization Architecture Lectures Hindi",
+      "duration": 1204
+    },
+    {
+      "id": "0OthYPoEa-s",
+      "title": "L23: One Address & Zero Address Instructions | Computer Organization Architecture Lectures Hindi",
+      "duration": 1036
+    },
+    {
+      "id": "q9oRTnE0HK4",
+      "title": "L24: Arithmetic & Logical Shift Operations | Examples | Computer Organization Architecture Lectures",
+      "duration": 1449
+    },
+    {
+      "id": "6iulXOOGX-U",
+      "title": "L25: Conditional & Unconditional Branch Instructions | Computer Organization Architecture Lectures",
+      "duration": 983
+    },
+    {
+      "id": "pXeKt_pzjCw",
+      "title": "L26: Status Flags: Definition, Types and Uses | Computer Organization Architecture Lectures",
+      "duration": 994
+    },
+    {
+      "id": "XYJ4oWOfrPw",
+      "title": "L27: Skip Instruction and Procedure Calls | Computer Organization Architecture Lectures in Hindi",
+      "duration": 842
+    },
+    {
+      "id": "JjnN86rgY7I",
+      "title": "L28: Saving Return Address & Parameters for Procedures | Computer Organization Architecture Lectures",
+      "duration": 1039
+    },
+    {
+      "id": "9f6n07qlBCk",
+      "title": "L29: Addressing Mode Introduction | Type 1: Immediate Mode | Computer Organization Architecture",
+      "duration": 1059
+    },
+    {
+      "id": "5Xyul619rII",
+      "title": "L30: Direct Addressing Mode & Register Addressing Mode | Computer Organization Architecture Lectures",
+      "duration": 993
+    },
+    {
+      "id": "6SjZE919DJE",
+      "title": "L31: Indirect Addressing Mode Explanation | Comparison | Computer Organization Architecture Lectures",
+      "duration": 1106
+    },
+    {
+      "id": "kq0o8iHQpIY",
+      "title": "L32: Register Indirect Addressing | Displacement Addressing | Computer Organization Architecture",
+      "duration": 835
+    },
+    {
+      "id": "dCn9eGN9YvM",
+      "title": "L35: Introduction to Memory Organization | Types of Memory | Computer Organization Architecture",
+      "duration": 823
+    },
+    {
+      "id": "tW9PxForJXY",
+      "title": "L36: Memory Read, Memory Write Operation | Computer Organization Architecture Lectures in Hindi",
+      "duration": 697
+    },
+    {
+      "id": "LI7gAVkxjAs",
+      "title": "L37: Memory Hierarchy | Comparison of Memory Types | Computer Organization Architecture Lectures",
+      "duration": 1166
+    },
+    {
+      "id": "4FB7qdXC_z8",
+      "title": "L38: Memory Access Methods: Direct, Random, Sequential | Computer Organization Architecture Lectures",
+      "duration": 683
+    },
+    {
+      "id": "sOeCIWoFP_g",
+      "title": "L33: PC Relative Addressing & Base Register Addressing Mode | Computer Organization Architecture",
+      "duration": 817
+    },
+    {
+      "id": "wQ_25VnF01s",
+      "title": "L34: Index Addressing Mode & Stack Addressing Mode | Computer Organization Architecture Lectures",
+      "duration": 767
+    },
+    {
+      "id": "PxTv_R2k_B0",
+      "title": "L39: Types of Main Memory | Random Access, Read Only Memory | Computer Organization Architecture",
+      "duration": 737
+    },
+    {
+      "id": "_dnnOqSqqFw",
+      "title": "L40: Cache Memory: Introduction, Advantages, Disadvantages | Computer Organization Architecture",
+      "duration": 936
+    },
+    {
+      "id": "HLg2magwSac",
+      "title": "L41: Cache Hit Time, Hit Ratio and Average Memory Access Time | Computer Organization Architecture",
+      "duration": 646
+    },
+    {
+      "id": "ZRqpcBqywwg",
+      "title": "COA Lecture 42 - Cache Hierarchy, Cache Line & Mappings in Cache Memory",
+      "duration": 1003
+    },
+    {
+      "id": "S1sBCW01QXQ",
+      "title": "Computer Architecture Solved Questions Part 1 | Size of Address Bus, DMA Controller and other ques",
+      "duration": 1133
+    },
+    {
+      "id": "C1bSmivuKLg",
+      "title": "Computer Architecture Solved Questions Part 2 | Flip Flop, Pipeline based Important Solved Numerical",
+      "duration": 1031
+    },
+    {
+      "id": "7UOpcYdtavk",
+      "title": "Computer Architecture Solved Questions Part 3 | Important Solved Questions on Registers",
+      "duration": 1018
+    },
+    {
+      "id": "z4iFiM2NhjM",
+      "title": "Computer Architecture Solved Questions Part 4 | Important Numerical on Pipelined Processor",
+      "duration": 834
+    },
+    {
+      "id": "cSk8q0BEMI0",
+      "title": "Computer Architecture Solved Questions Part 5 | T Flip flop, Product of sum(POS) based questions",
+      "duration": 1008
+    }
+  ]
+}

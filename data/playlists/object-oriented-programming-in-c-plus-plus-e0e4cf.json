@@ -1,0 +1,50 @@
+{
+  "courseId": "object-oriented-programming-in-c-plus-plus-e0e4cf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQEaRBV9gAFujcBWJhBT2XXsuMlIfETBy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:16.476Z",
+  "title": "Object Oriented Programming in C++",
+  "channel": "Coder Army",
+  "videos": [
+    {
+      "id": "iw1Xf_33YM0",
+      "title": "Lecture 70: Object Oriented Programming in C++",
+      "duration": 4343
+    },
+    {
+      "id": "sNiiJ16dLz0",
+      "title": "Lecture 71: Constructor and Destructor in C++",
+      "duration": 3810
+    },
+    {
+      "id": "ZIL8t5AoGmQ",
+      "title": "Lecture 72: Object Oriented Programming: Static data Member and Function | Encapsulation",
+      "duration": 4048
+    },
+    {
+      "id": "qq3BY4viEB4",
+      "title": "Lecture 73: Inheritance | Access Modifier | Real Life Example",
+      "duration": 3017
+    },
+    {
+      "id": "ww02EpE4DZo",
+      "title": "Lecture 74: Type of Inheritance in C++ | Single Inheritance | Multiple | Hybrid | Multipath",
+      "duration": 4280
+    },
+    {
+      "id": "p2h8rGnkD0o",
+      "title": "Lecture 75: Polymorphism and Virtual Function in C++",
+      "duration": 3392
+    },
+    {
+      "id": "essQiHKRmrc",
+      "title": "Lecture 76: Exception Handling in C++",
+      "duration": 3637
+    },
+    {
+      "id": "NBsmPHXjLfg",
+      "title": "Lecture 77: File Handling in C++",
+      "duration": 1841
+    }
+  ]
+}

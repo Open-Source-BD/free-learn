@@ -1,0 +1,35 @@
+{
+  "courseId": "compiler-design-2f9854",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL23dd-8zssJBiyntds3X1sVWUDeb0Aa1N",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:05.777Z",
+  "title": "Compiler Design",
+  "channel": "Start Practicing",
+  "videos": [
+    {
+      "id": "Q7pHG24PsH0",
+      "title": "Introduction of Compiler Design and Phases of Compiler In Hindi | Easy Explain",
+      "duration": 813
+    },
+    {
+      "id": "FKnqOgZrRn4",
+      "title": "Language Processing Systems in Compiler Design | Cousins of Compiler | In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "XMcET-eVcsk",
+      "title": "Phases of Compiler With Example | In Hindi | Easy Explanation",
+      "duration": 1069
+    },
+    {
+      "id": "JBsp_6Z4XDQ",
+      "title": "Lexical Analysis in Compiler Design | In Hindi | Easy Explanation",
+      "duration": 601
+    },
+    {
+      "id": "5qH6ZWi14AA",
+      "title": "Tokens Pattern Lexemes and Attributes of tokens in Compiler Design",
+      "duration": 950
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "courseId": "generative-ai-series-showcasing-generative-ai-by-building-pr-42c5b4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:53.725Z",
+  "title": "Generative AI Series - Showcasing Generative AI By Building Projects",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "BP-w99ZINTc",
+      "title": "HarryGPT - An AI Based Discord Bot 🔥 | Generative AI Series",
+      "duration": 3646
+    },
+    {
+      "id": "dGdA9z6gBkM",
+      "title": "Lets Build a Dall-E Image Generator Using OpenAI, Flask & Replit | Generative AI Series 🔥",
+      "duration": 3040
+    },
+    {
+      "id": "cQUUkZnyoD0",
+      "title": "LangChain Tutorial for Beginners | Generative AI Series 🔥",
+      "duration": 3886
+    },
+    {
+      "id": "eEeqw8-hNZk",
+      "title": "Creating an Article Generator Website using Langchain and OpenAI | Generative AI Series 🔥",
+      "duration": 3215
+    },
+    {
+      "id": "pXvfcoag-VE",
+      "title": "Lets Build an AI Voice Assisted  Using ChatGPT API | ChatGPT API Tutorial | Generative AI Series 🔥",
+      "duration": 4745
+    },
+    {
+      "id": "KRhvlB1mOts",
+      "title": "OpenAI Whisper Tutorial + Audio to Text Translator Website Project 🔥",
+      "duration": 2696
+    }
+  ]
+}

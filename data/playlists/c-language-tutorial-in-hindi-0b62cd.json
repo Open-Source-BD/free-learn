@@ -1,0 +1,640 @@
+{
+  "courseId": "c-language-tutorial-in-hindi-0b62cd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:01.177Z",
+  "title": "C Language Tutorial in Hindi",
+  "channel": "codeitup",
+  "videos": [
+    {
+      "id": "kVIOEdrigWY",
+      "title": "How to Learn C Programming | With Handwritten Notes | In Hindi",
+      "duration": 349
+    },
+    {
+      "id": "WclJri-15HI",
+      "title": "C Introduction and Installation | C Programming |  In Hindi",
+      "duration": 595
+    },
+    {
+      "id": "3cZcnsYEQow",
+      "title": "Keywords & Identifiers in C | In Hindi",
+      "duration": 721
+    },
+    {
+      "id": "wARq2NWj6oM",
+      "title": "Variables and Constants in C | In Hindi",
+      "duration": 727
+    },
+    {
+      "id": "pCnUKyjp6iE",
+      "title": "Symbolic Constants in C | In Hindi",
+      "duration": 583
+    },
+    {
+      "id": "XksiheECUN4",
+      "title": "Printf Function in C | In Hindi",
+      "duration": 909
+    },
+    {
+      "id": "e-lXCPCztHM",
+      "title": "Scanf function in C | In Hindi",
+      "duration": 683
+    },
+    {
+      "id": "-pNL5qB0-dc",
+      "title": "Writing First C Program | In Hindi",
+      "duration": 690
+    },
+    {
+      "id": "duT_rVN4BYE",
+      "title": "Relational Operator in C Programming | In Hindi",
+      "duration": 555
+    },
+    {
+      "id": "uK53ZhjqYng",
+      "title": "Arithmetic Operator in C Programming | In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "aSiIZPtcyf0",
+      "title": "Assignment Operator in C Programming | In Hindi",
+      "duration": 634
+    },
+    {
+      "id": "pn2SosDDgsA",
+      "title": "Logical Operator in C Programming | In Hindi",
+      "duration": 519
+    },
+    {
+      "id": "nUdeKsdzMUU",
+      "title": "Increment Decrement in C Programming | In Hindi",
+      "duration": 695
+    },
+    {
+      "id": "3pCvpsIY10U",
+      "title": "Sizeof Operator in C Programming | In Hindi",
+      "duration": 578
+    },
+    {
+      "id": "Yy7ITYyjAVU",
+      "title": "Installation of CodeBlocks for Running C/C++ Programs | In Hindi",
+      "duration": 657
+    },
+    {
+      "id": "-xHH8_ATk4Y",
+      "title": "Ternary / Conditional Operator in C Programming | In Hindi",
+      "duration": 700
+    },
+    {
+      "id": "d-b6-ZuV49M",
+      "title": "Max Between Three Numbers | Using Ternary Operator | Conditional Operator | In Hindi",
+      "duration": 588
+    },
+    {
+      "id": "BFYeWIexdpA",
+      "title": "Basic Structure of C Program | In Hindi",
+      "duration": 460
+    },
+    {
+      "id": "6RBOyPNDvj8",
+      "title": "C Program to convert temperature from Fahrenheit to Celsius | In Hindi",
+      "duration": 286
+    },
+    {
+      "id": "TkuSNqBrWr0",
+      "title": "Control Statements - If | Loops | C Programming | In Hindi",
+      "duration": 492
+    },
+    {
+      "id": "taSonKNVhX4",
+      "title": "If Statement in C Programming | In Hindi",
+      "duration": 524
+    },
+    {
+      "id": "quFQ6V6AxI4",
+      "title": "C Programming with If else Statement | In Hindi",
+      "duration": 560
+    },
+    {
+      "id": "x0OS9IfTRQs",
+      "title": "Find Max Between Three Numbers | In Hindi",
+      "duration": 610
+    },
+    {
+      "id": "9C5wx-AXP24",
+      "title": "Switch Case Statement in C | In Hindi",
+      "duration": 719
+    },
+    {
+      "id": "RqtkMS1ly5Q",
+      "title": "Goto Statement in C Programming | In Hindi",
+      "duration": 429
+    },
+    {
+      "id": "U1aYtB-ke4c",
+      "title": "While Loop in C | In Hindi",
+      "duration": 589
+    },
+    {
+      "id": "3GT7oSUVPBQ",
+      "title": "Programming with While Statement in C | In Hindi",
+      "duration": 543
+    },
+    {
+      "id": "06_MCZGbnWc",
+      "title": "C Program to Print first N Natural Numbers | In Hindi",
+      "duration": 578
+    },
+    {
+      "id": "CM7NNX4iddI",
+      "title": "C Program to Print First N Even/Odd Numbers | In Hindi",
+      "duration": 630
+    },
+    {
+      "id": "OT6PCUKdQJ8",
+      "title": "C Program to Find Sum of First N Natural Numbers | In Hindi",
+      "duration": 511
+    },
+    {
+      "id": "eHHcuxrNy7I",
+      "title": "C Program to Find Sum of Digits of a Given Number | In Hindi",
+      "duration": 598
+    },
+    {
+      "id": "-m71_eHBaVw",
+      "title": "Factorial Program in C | In Hindi",
+      "duration": 508
+    },
+    {
+      "id": "54nH3itO75g",
+      "title": "C Program to Reverse a Number | In Hindi",
+      "duration": 439
+    },
+    {
+      "id": "6SmXVUGiseU",
+      "title": "Palindrome Number Program in C | In Hindi",
+      "duration": 569
+    },
+    {
+      "id": "euPZIMj66Ws",
+      "title": "C Armstrong Number Program | In Hindi",
+      "duration": 626
+    },
+    {
+      "id": "MSCrYjEgiVQ",
+      "title": "Fibonacci Series Program in C | In Hindi",
+      "duration": 665
+    },
+    {
+      "id": "Gic85ed6F2w",
+      "title": "C Program to Print Table of a Number | In Hindi",
+      "duration": 536
+    },
+    {
+      "id": "KqxeuK--uvA",
+      "title": "Nesting of Loops in C | C Programming | In Hindi",
+      "duration": 630
+    },
+    {
+      "id": "nbxgZQTwGSw",
+      "title": "C Star Pattern | Printing Star Pattern | Part 1 | In Hindi",
+      "duration": 839
+    },
+    {
+      "id": "RZcWTuuiafY",
+      "title": "C Star Pattern | Printing Star Pattern | Part 2 | In Hindi",
+      "duration": 715
+    },
+    {
+      "id": "DY309g0kDlQ",
+      "title": "C Star Pattern | Printing Star Pattern | Part 3 | In Hindi",
+      "duration": 846
+    },
+    {
+      "id": "Ycx00yw1Pi0",
+      "title": "C Star Pattern | Printing Star Pattern | Part 4 | In Hindi",
+      "duration": 913
+    },
+    {
+      "id": "H4ayr2TdFzY",
+      "title": "C Star Pattern | Printing Star Pattern | Part 5 | In Hindi",
+      "duration": 629
+    },
+    {
+      "id": "B-f-g_EKfuc",
+      "title": "Do While Loop in C Programming - In Hindi",
+      "duration": 467
+    },
+    {
+      "id": "RL6klX00cHU",
+      "title": "Introduction to For Loop in C | In Hindi",
+      "duration": 524
+    },
+    {
+      "id": "bnL5PtGbRRU",
+      "title": "Introduction to Arrays | C Programming | In Hindi",
+      "duration": 576
+    },
+    {
+      "id": "xsrXEyIILFQ",
+      "title": "Input & Display Array Elements in C | In Hindi",
+      "duration": 561
+    },
+    {
+      "id": "83SWUtj1TtE",
+      "title": "While Vs Do-While Vs For Loop | In Hindi",
+      "duration": 502
+    },
+    {
+      "id": "hnh39uRKsTk",
+      "title": "C Program to Find Sum of Array Elements | In Hindi",
+      "duration": 430
+    },
+    {
+      "id": "beNTgokXUCs",
+      "title": "C Program to Count Odd and Even Numbers in an Array | In Hindi",
+      "duration": 487
+    },
+    {
+      "id": "V7FhqddhOj4",
+      "title": "C Program to find Sum of Even & Product of Odd Numbers in an Array | In Hindi",
+      "duration": 505
+    },
+    {
+      "id": "SkO9mGpCLJY",
+      "title": "C Program to Print Alternate Array Elements | In Hindi",
+      "duration": 521
+    },
+    {
+      "id": "WybdXuEaKLQ",
+      "title": "C Program to Print Array in Reverse Order | in Hindi",
+      "duration": 428
+    },
+    {
+      "id": "HXfvOoQjjxM",
+      "title": "Linear Search / Sequential Search in C | In Hindi",
+      "duration": 602
+    },
+    {
+      "id": "AcyytXEk0NA",
+      "title": "C Program To Count Frequency Of Elements in An Array | in hindi",
+      "duration": 556
+    },
+    {
+      "id": "2G0pq_swvw0",
+      "title": "C Program to Find Max & Min Number in Array | In Hindi",
+      "duration": 549
+    },
+    {
+      "id": "RmXvbiEPvZg",
+      "title": "Selection Sort Algorithm | In Hindi",
+      "duration": 436
+    },
+    {
+      "id": "b9xWoCCpzl0",
+      "title": "C Program for Selection Sort | In Hindi",
+      "duration": 447
+    },
+    {
+      "id": "LV5hxtTXeag",
+      "title": "Two Dimensional Array in C | In Hindi",
+      "duration": 599
+    },
+    {
+      "id": "h-Hgm-_M4jQ",
+      "title": "C Program to Accept & Display 2D Array | In Hindi",
+      "duration": 733
+    },
+    {
+      "id": "BMBg01jO2MI",
+      "title": "C Program to Count Total Odd & Even in a 2D Array | In Hindi",
+      "duration": 450
+    },
+    {
+      "id": "MyrmxL_I2yA",
+      "title": "Sum of Even & Product of Odd Elements in 2D Array | In Hindi",
+      "duration": 435
+    },
+    {
+      "id": "HQrYj8tedSM",
+      "title": "C Program to Find Sum of Elements of 2D Array | In Hindi",
+      "duration": 338
+    },
+    {
+      "id": "vOsUzpZz2xU",
+      "title": "C Program to Search a Number in 2D array | In Hindi",
+      "duration": 375
+    },
+    {
+      "id": "XRgmQisrfB4",
+      "title": "C Program to Print Left and Right Diagonal Element in 2D Array | In Hindi",
+      "duration": 363
+    },
+    {
+      "id": "PVRx4cdPtr4",
+      "title": "C Program to Find Row Sum & Column Sum in 2D Array | In Hindi",
+      "duration": 512
+    },
+    {
+      "id": "Ra-Asja9MVo",
+      "title": "Addition of Two Matrix in C | In Hindi",
+      "duration": 531
+    },
+    {
+      "id": "B_ozLTjjMLM",
+      "title": "Program to Multiply Two Matrices in C Language | In Hindi",
+      "duration": 665
+    },
+    {
+      "id": "mc6BIxaYYeI",
+      "title": "Find Transpose of a Matrix | In Hindi",
+      "duration": 575
+    },
+    {
+      "id": "DGoG9O-q-2k",
+      "title": "Check Two Matrix are Equal or Not | C Programming | In Hindi",
+      "duration": 466
+    },
+    {
+      "id": "LTbhiS9MOHA",
+      "title": "Check a Matrix is Upper or Lower Triangular Matrix or Not in C Programming | In Hindi",
+      "duration": 364
+    },
+    {
+      "id": "ZtqsygBaafI",
+      "title": "Introduction to String in C Programming | In Hindi",
+      "duration": 506
+    },
+    {
+      "id": "4z0JPsMDslY",
+      "title": "Accessing Strings Character by Character in C Programming",
+      "duration": 310
+    },
+    {
+      "id": "gA92SC_HVz0",
+      "title": "C Program to Find Length of String | In Hindi",
+      "duration": 320
+    },
+    {
+      "id": "okWY7Lv0o7U",
+      "title": "C Program to Count Total Number of Words in a String | In Hindi",
+      "duration": 303
+    },
+    {
+      "id": "qyx2xsZOmPQ",
+      "title": "C Program to Count Total Vowels & Consonants in a String",
+      "duration": 631
+    },
+    {
+      "id": "XTVJed-aSJo",
+      "title": "C Program to Copy a String | In Hindi",
+      "duration": 387
+    },
+    {
+      "id": "yS_ddig7Zcc",
+      "title": "C Program to Concatenate Two String | In Hindi",
+      "duration": 521
+    },
+    {
+      "id": "XPwNkiMrpa0",
+      "title": "Character Functions in C Programming | isalpha, isdigit, isalnum, isspace, islower etc | In Hindi",
+      "duration": 470
+    },
+    {
+      "id": "CopUixbkVZI",
+      "title": "C String Functions | Strlen(), Strcpy(), Strcat() | In Hindi",
+      "duration": 523
+    },
+    {
+      "id": "R7XiobUEmIA",
+      "title": "Strcmp() Function in C",
+      "duration": 792
+    },
+    {
+      "id": "3m1xD9GgqvU",
+      "title": "String Conversion from Upper Case to Lower Case & Vice Versa | In Hindi",
+      "duration": 651
+    },
+    {
+      "id": "2CM2FMsEY5Q",
+      "title": "String Reverse Program In C | In Hindi",
+      "duration": 697
+    },
+    {
+      "id": "MHPpntxNdEg",
+      "title": "String Palindrome Program In C | In Hindi",
+      "duration": 743
+    },
+    {
+      "id": "dGBNgYIUGCA",
+      "title": "C Program to Delete a Number From an Array | In Hindi",
+      "duration": 570
+    },
+    {
+      "id": "CxHKXvZQQ4g",
+      "title": "Function Introduction in C | In Hindi",
+      "duration": 544
+    },
+    {
+      "id": "hkT_TswB2do",
+      "title": "Library Functions In C | In Hindi",
+      "duration": 503
+    },
+    {
+      "id": "FbKy4Mkp5TQ",
+      "title": "Creating User Defined Functions in C | In Hindi",
+      "duration": 816
+    },
+    {
+      "id": "TarftquuGDc",
+      "title": "User Defined Function | 4 Ways to Write Addition Program Using Function | In Hindi",
+      "duration": 871
+    },
+    {
+      "id": "lYQcbMz5b2U",
+      "title": "Reverse of a Number in C Using Function | In Hindi",
+      "duration": 794
+    },
+    {
+      "id": "sD2_fFv_VZU",
+      "title": "Prime Number Program in C Using Function | In Hindi",
+      "duration": 681
+    },
+    {
+      "id": "ov6-HiBwTEo",
+      "title": "Sum of Array Elements in C Programming Using Function | In Hindi",
+      "duration": 663
+    },
+    {
+      "id": "rlBLklJ_baI",
+      "title": "Linear Search in C | In Hindi",
+      "duration": 1045
+    },
+    {
+      "id": "3WNEZGfXqho",
+      "title": "Addition of Two Matrix in C using Function | In Hindi",
+      "duration": 807
+    },
+    {
+      "id": "cwMG5-tvuwA",
+      "title": "Introduction to Pointer in C Programming | In Hindi",
+      "duration": 986
+    },
+    {
+      "id": "4m1oQZidOJM",
+      "title": "C Program to Check Odd Even Using Pointer | In Hindi",
+      "duration": 353
+    },
+    {
+      "id": "BvVn-QK78Mg",
+      "title": "C Program for Prime Number Using Pointer | In Hindi",
+      "duration": 612
+    },
+    {
+      "id": "bNpXDUa4ZmM",
+      "title": "Pointer With Array in C Programming | In Hindi",
+      "duration": 1075
+    },
+    {
+      "id": "pUv3iDkqBws",
+      "title": "Pointer With Function In C Programming | In Hindi",
+      "duration": 584
+    },
+    {
+      "id": "gvwJ_STdhg0",
+      "title": "Call By Value & Call By Reference | In Hindi",
+      "duration": 1109
+    },
+    {
+      "id": "DXEU6Sz3PCY",
+      "title": "Structure in C Programming | In Hindi",
+      "duration": 1582
+    },
+    {
+      "id": "4JSIyWSfZ28",
+      "title": "Array of Structure In C Programming | In Hindi",
+      "duration": 853
+    },
+    {
+      "id": "-uhqkA86Ovs",
+      "title": "Structure as Function Argument In C Programming | In Hindi",
+      "duration": 893
+    },
+    {
+      "id": "u5_O7vtRDSE",
+      "title": "Structure with Pointer in C Programming | In Hindi",
+      "duration": 673
+    },
+    {
+      "id": "5ieKOMWjZOA",
+      "title": "Introduction to Union | Difference Between Structure & Union | C Programming | In Hindi",
+      "duration": 1322
+    },
+    {
+      "id": "6ZNzpMA5Uws",
+      "title": "Introduction to File Handling | C Programming | In Hindi",
+      "duration": 966
+    },
+    {
+      "id": "aIzG9qMp0_8",
+      "title": "Writing Data to File | fputc() | fprintf() | fputs() | C File Handling | In Hindi",
+      "duration": 1091
+    },
+    {
+      "id": "LSZydoScTLg",
+      "title": "fprintf() function in C | C File Handling | In Hindi",
+      "duration": 804
+    },
+    {
+      "id": "QGIbuskexUA",
+      "title": "Getc() Function in C Programming | File Handling in C | In Hindi",
+      "duration": 863
+    },
+    {
+      "id": "4yHasKBQ0WA",
+      "title": "Count Total Number of Vowels & Consonants in a File | File Handling in C | In Hindi",
+      "duration": 549
+    },
+    {
+      "id": "nh-aU7jpvK8",
+      "title": "fscanf() function in C | File Handling in C Programming | In Hindi",
+      "duration": 666
+    },
+    {
+      "id": "EOQfSE-hiAU",
+      "title": "fgets function in C | File Handling | C Programming | In Hindi",
+      "duration": 590
+    },
+    {
+      "id": "WVhyvblORNE",
+      "title": "Recursion in C Programming | Factorial Program in C | In Hindi",
+      "duration": 1278
+    },
+    {
+      "id": "L1tkqXCHK-4",
+      "title": "Recursion in C Programming | Fibonacci Series Program in C | In Hindi",
+      "duration": 1180
+    },
+    {
+      "id": "92vIYebOkh8",
+      "title": "Break & Continue Statement in C | C Programming | In Hindi",
+      "duration": 990
+    },
+    {
+      "id": "J5fE8rzJSnM",
+      "title": "Introduction to Flow Chart | One Shot | Complete Flow Chart in One Video | With Example",
+      "duration": 3076
+    },
+    {
+      "id": "LAWnN42iV1A",
+      "title": "Pseudocode | One Shot | With Examples",
+      "duration": 3849
+    },
+    {
+      "id": "-R4M14pXOPQ",
+      "title": "Zero or Null Matrix | C Programming",
+      "duration": 980
+    },
+    {
+      "id": "848mYmatiRw",
+      "title": "Unit or Identity Matrix | C Programming",
+      "duration": 1006
+    },
+    {
+      "id": "wnjQNCHCiuk",
+      "title": "Sparse or Dense Matrix | C Programming",
+      "duration": 889
+    },
+    {
+      "id": "5w3E4oWF6Cg",
+      "title": "Sparse Matrix Representation | Program Implementation | C Programming",
+      "duration": 1691
+    },
+    {
+      "id": "jiSWz7ReG3Q",
+      "title": "Macro | Symbolic Constant | #define | C Programming",
+      "duration": 1139
+    },
+    {
+      "id": "4w3lt-MAV_I",
+      "title": "Installing Turbo C++ | Running C C++ Programs | In Hindi",
+      "duration": 488
+    },
+    {
+      "id": "997ZpJwxi_I",
+      "title": "VS Code Installation for C & C++ in Windows | Step by step process | In Hindi",
+      "duration": 598
+    },
+    {
+      "id": "NX4JvHIfRs0",
+      "title": "Installing CODEBLOCKS | Running C C++ Programs | In Hindi",
+      "duration": 423
+    },
+    {
+      "id": "9vJXp0CLKKQ",
+      "title": "C Program to Insert a Number at Given Position in an Array - In Hindi",
+      "duration": 620
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "courseId": "arduino-programming-series-37d8a0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:35.940Z",
+  "title": "Arduino Programming Series (हिंदी में)",
+  "channel": "Engineers & Electronics",
+  "videos": [
+    {
+      "id": "PzJayPUPV6A",
+      "title": "Arduino Programming Series - Tutorial 01 | Program Structure [in Hindi]",
+      "duration": 492
+    },
+    {
+      "id": "TfsoOpSTh7E",
+      "title": "Arduino Programming Series - Tutorial 02 | Using Variables [in Hindi]",
+      "duration": 453
+    },
+    {
+      "id": "jbrAJPqtw5I",
+      "title": "Arduino Programming Series - Tutorial 03 | Writing our First Program [in Hindi]",
+      "duration": 812
+    },
+    {
+      "id": "73wevmyawVU",
+      "title": "Arduino Programming Series - Tutorial 04 | Serial Monitor [in Hindi]",
+      "duration": 641
+    },
+    {
+      "id": "0rPaiyzyQHU",
+      "title": "Arduino Programming Series - Tutorial 05 | Numeric Data Types [in Hindi]",
+      "duration": 800
+    },
+    {
+      "id": "k1LcAIZZcYc",
+      "title": "Arduino Programming Series - Tutorial 06 | Text Data Types [in Hindi]",
+      "duration": 522
+    },
+    {
+      "id": "i1HgARwq3bw",
+      "title": "Arduino Programming Series - Tutorial 07 | Array Data Types [in Hindi]",
+      "duration": 793
+    },
+    {
+      "id": "vuIWHFFzSHg",
+      "title": "Arduino Programming Series - Tutorial 08 | Digital Input/Output Functions [in Hindi]",
+      "duration": 690
+    },
+    {
+      "id": "nwLSH9imEYc",
+      "title": "Arduino Programming Series - Tutorial 09 | Analog Input/Output Functions [in Hindi]",
+      "duration": 743
+    },
+    {
+      "id": "ptV-YC-bknw",
+      "title": "Arduino Programming Series - Tutorial 10 | if... else Statement [in Hindi]",
+      "duration": 644
+    },
+    {
+      "id": "Nb9rN7gGda8",
+      "title": "Arduino Programming Series - Tutorial 11 | if... else if Statement [in Hindi]",
+      "duration": 871
+    },
+    {
+      "id": "mgbFAsQK7RY",
+      "title": "Arduino Programming Series - Tutorial 12 | Switch... case Statement [in Hindi]",
+      "duration": 766
+    },
+    {
+      "id": "sTcyc23K4ZE",
+      "title": "Arduino Programming Series - Tutorial 13 | For Loop [in Hindi]",
+      "duration": 814
+    },
+    {
+      "id": "Ankfz39P9gM",
+      "title": "Arduino Programming Series - Tutorial 14 | While Loop [in Hindi]",
+      "duration": 560
+    },
+    {
+      "id": "FThzJXBhlZY",
+      "title": "Arduino Programming Series - Tutorial 15 | Creating own Functions [in Hindi]",
+      "duration": 790
+    },
+    {
+      "id": "-G-9CUIwk28",
+      "title": "Arduino Programming Series - Tutorial 16 | The Return Keyword [in Hindi]",
+      "duration": 708
+    },
+    {
+      "id": "MqLIg7hLhL4",
+      "title": "Arduino Programming Series - Tutorial 17 | Interrupt [in Hindi]",
+      "duration": 569
+    },
+    {
+      "id": "RrQDn7NkaQc",
+      "title": "Arduino Programming Series - Tutorial 18 | Pointers [in Hindi]",
+      "duration": 760
+    },
+    {
+      "id": "qL-OV2QVbSA",
+      "title": "Arduino Programming Series - Tutorial 19 | Time functions [in Hindi]",
+      "duration": 1220
+    }
+  ]
+}

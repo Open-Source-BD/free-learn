@@ -1,0 +1,350 @@
+{
+  "courseId": "c-plus-plus-and-dsa-foundation-course-76e219",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:40.188Z",
+  "title": "C++ and DSA Foundation Course",
+  "channel": "College Wallah",
+  "videos": [
+    {
+      "id": "bL-o2xBENY0",
+      "title": "Introduction to C++ | Lecture 1 | C++ and DSA Foundation Course",
+      "duration": 828
+    },
+    {
+      "id": "VvYhfj2g4Zo",
+      "title": "Visual Studio Code Installation on M1 Mac, Windows & Intel Mac | VS Code for Java, C & C++",
+      "duration": 3201
+    },
+    {
+      "id": "sv1ofY9B1q0",
+      "title": "Variables and Output / Input in C++ | Lecture 3 | C++ and DSA Foundation Course",
+      "duration": 3129
+    },
+    {
+      "id": "QAemAVPZKKc",
+      "title": "Operators in C++ | Lecture 4 | C++ and DSA Foundation Course",
+      "duration": 3003
+    },
+    {
+      "id": "FydQ2VDUTZk",
+      "title": "C++ in One Shot | Revision - 1| Output, Input, Variables, Operators & Conditionals | C++ Course",
+      "duration": 8488
+    },
+    {
+      "id": "fjCyOjGFfU0",
+      "title": "If Else & Switch Statement | Conditionals in C++ | Lecture 5 | C++ and DSA Foundation Course",
+      "duration": 2050
+    },
+    {
+      "id": "jdg-W5Y4TTg",
+      "title": "Loops in C++ | For, While, Do-While | Lecture 6 | C++ and DSA Foundation Course",
+      "duration": 2266
+    },
+    {
+      "id": "WZizrQiXhYo",
+      "title": "Pattern Printing | Problems on Loops - Part 1 | Lecture 7 | C++ and DSA Foundation Course",
+      "duration": 2550
+    },
+    {
+      "id": "RyaN6tRI2r8",
+      "title": "Problems on Loops - Part 2 | Lecture 8 | C++ and DSA Foundation Course",
+      "duration": 1671
+    },
+    {
+      "id": "Hy8r8VLmh6I",
+      "title": "Pattern Printing Practice Session | Revision - 2 | C++ and DSA Foundation Course",
+      "duration": 6073
+    },
+    {
+      "id": "lhPcx5qnpY4",
+      "title": "Number System | Decimal & Binary | Lecture 9 | C++ and DSA Foundation Course",
+      "duration": 1637
+    },
+    {
+      "id": "QP_dA2E9E_w",
+      "title": "Functions in C++ | Lecture 10 | C++ and DSA Foundation Course",
+      "duration": 2158
+    },
+    {
+      "id": "Hp7c2ecLzWo",
+      "title": "Functions in One Shot | Revision - 3 | C++ and DSA Foundation Course",
+      "duration": 9259
+    },
+    {
+      "id": "orKvRjhdRus",
+      "title": "Functions - 2 | Pass by Value & Pass by Reference | Lecture 11 | C++ and DSA Foundation Course",
+      "duration": 2981
+    },
+    {
+      "id": "afoJyiiN1Pw",
+      "title": "Arrays - 1 | Array Creation, Types, and Operations | Lecture 12 | C++ and DSA Foundation Course",
+      "duration": 3788
+    },
+    {
+      "id": "-J6ZKSuaVds",
+      "title": "Vectors in C++ | Looping & Problem Solving | Arrays - 2 | Lecture 13 | C++ and DSA Foundation Course",
+      "duration": 4223
+    },
+    {
+      "id": "DhlDG8f1bZI",
+      "title": "Target Sum | Problems in Arrays - 1 | Lecture 14 | C++ and DSA Foundation Course",
+      "duration": 5169
+    },
+    {
+      "id": "rjP83yyzwRY",
+      "title": "Two Pointers | Problems in Arrays - 2 | Lecture 15 | C++ and DSA Foundation Course",
+      "duration": 3695
+    },
+    {
+      "id": "OjFxqCApM6E",
+      "title": "Prefix Sum Problems | Problems in Arrays - 3 | Lecture 16 | C++ and DSA Foundation Course",
+      "duration": 2889
+    },
+    {
+      "id": "Yafdg4Ol1-Q",
+      "title": "Arrays in One shot | Revision - 4 | C++ and DSA Foundation Course",
+      "duration": 7838
+    },
+    {
+      "id": "lC6d3-v0CT4",
+      "title": "2D Arrays - 1 | What, Why, and How? | Lecture 17 | C++ and DSA Foundation Course",
+      "duration": 3854
+    },
+    {
+      "id": "NFhB6dIADKw",
+      "title": "Important Problems in 2D Arrays | 2D Vectors, Pascal's Triangle | Lecture 18 | C++ and DSA Course",
+      "duration": 3069
+    },
+    {
+      "id": "OtquH8kqz8w",
+      "title": "Advanced Problem Solving in 2D Arrays | Lecture 19 | C++ and DSA Foundation course",
+      "duration": 3566
+    },
+    {
+      "id": "PIMrTzS0lMM",
+      "title": "Advanced Problem Solving in 2D Arrays - 2 | Lecture 20 | C++ and DSA Foundation course",
+      "duration": 3482
+    },
+    {
+      "id": "z5hLhHHPjQ8",
+      "title": "Advanced Problem Solving in 2D Arrays - 3 | Lecture 21 | C++ and DSA Foundation course",
+      "duration": 3661
+    },
+    {
+      "id": "2exHfPLCc44",
+      "title": "Time Space Complexity and Big O Notation | How to avoid TLE | Lecture 22 | C++ and DSA Course",
+      "duration": 6255
+    },
+    {
+      "id": "wendmZfPX_w",
+      "title": "Calculating Time Complexity | Problem Solving | Lecture 23 | C++ and DSA Foundation Course",
+      "duration": 5228
+    },
+    {
+      "id": "PnnbciTtnaM",
+      "title": "Pointers - 1 | Introduction, Data Storage and Access Using Pointers | Lecture 24 | C++ & DSA Course",
+      "duration": 5446
+    },
+    {
+      "id": "I-qKl3WHXkY",
+      "title": "C++ & DSA course | Pointers - 2 | Call by reference, Arithmetic and Array as a pointer | Lecture 25",
+      "duration": 5313
+    },
+    {
+      "id": "5UZaM7UQAW4",
+      "title": "Pointers - 3 | Types of Pointers, Null, Wild, Dangling, Void | Lecture 26 | C++ and DSA Course",
+      "duration": 2437
+    },
+    {
+      "id": "EFCeh3mxqCA",
+      "title": "Recursion | Recursion concept and problems | Lecture 27 | C++ and DSA Foundation course",
+      "duration": 5728
+    },
+    {
+      "id": "48RiwsFetT4",
+      "title": "Recursion Problems - 1 | Sum of digits & power of a number | Lecture 28 | C++ and DSA course",
+      "duration": 4720
+    },
+    {
+      "id": "k-yBcZmWwvk",
+      "title": "Problem Solving on Recursion - 2 | Recursive operations on Arrays | Lecture 29 | C++ and DSA Course",
+      "duration": 4744
+    },
+    {
+      "id": "ueZ7mAPh0ZQ",
+      "title": "Problem Solving on Recursion - 3 | String Problems | Lecture 30 | C++ and DSA Foundation Course",
+      "duration": 3333
+    },
+    {
+      "id": "VFv5aqA-xHs",
+      "title": "Problem Solving on Recursion - 4 | Basic Problems | Lecture 31 | C++ and DSA Foundation course",
+      "duration": 4067
+    },
+    {
+      "id": "hFCEZJRzxrE",
+      "title": "Problem Solving on Recursion - 5 | Frog Jump Problem | Lecture 32 | C++ and DSA Foundation course",
+      "duration": 4975
+    },
+    {
+      "id": "Q_tMVG5tNZE",
+      "title": "Problem Solving on Recursion - 6 | Lecture 33 | C++ and DSA Foundation Course",
+      "duration": 6885
+    },
+    {
+      "id": "9c0GajqYd8E",
+      "title": "Problem-solving on Recursion -7 | Subsequence concept | Lecture-34 | C++ and DSA Foundation course",
+      "duration": 3155
+    },
+    {
+      "id": "1DYj1ebMolY",
+      "title": "Bubble Sort Algorithm | Optimized Bubble Sort | Lecture-35 | C++ and DSA Foundation course",
+      "duration": 3775
+    },
+    {
+      "id": "vjt88RjzeOM",
+      "title": "Selection Sort Algorithm | Lecture-36 | C++ and DSA Foundation course",
+      "duration": 2764
+    },
+    {
+      "id": "JncVPgnvywI",
+      "title": "Insertion Sort Algorithm  | Lecture-37 | C++ and DSA Foundation course",
+      "duration": 3043
+    },
+    {
+      "id": "dTeak2KY05s",
+      "title": "Problem Solving on Sorting Algorithms-1 | Lecture-38 | C++ and DSA Foundation course",
+      "duration": 2599
+    },
+    {
+      "id": "JqipLIKtolM",
+      "title": "Merge Sort Algorithm  | Lecture-39 | C++ and DSA Foundation course",
+      "duration": 3838
+    },
+    {
+      "id": "2qK31-MQnWw",
+      "title": "Quick Sort Algorithm | Lecture-40 | C++ and DSA Foundation course",
+      "duration": 3679
+    },
+    {
+      "id": "IeFE9lDLmRw",
+      "title": "Count Sort Algorithm | Radix Sort Algorithm | Lecture-41 | C++ and DSA Foundation course",
+      "duration": 4042
+    },
+    {
+      "id": "DlRoUk95rJ4",
+      "title": "Bucket Sort Algorithm | Lecture-41.2 | C++ and DSA Foundation course",
+      "duration": 2145
+    },
+    {
+      "id": "vXncwR8llL4",
+      "title": "Problem Solving on Sorting Algorithms-2 | Lecture-42 | C++ and DSA Foundation course",
+      "duration": 2804
+    },
+    {
+      "id": "cIaDEGqc8pw",
+      "title": "Problem Solving on Sorting Algorithms-3 | Lecture-43 | C++ and DSA Foundation course",
+      "duration": 2804
+    },
+    {
+      "id": "erpkKxfGkQQ",
+      "title": "Binary Search Algorithm | Lecture-44 | C++ and DSA Foundation course",
+      "duration": 6232
+    },
+    {
+      "id": "ctswFPAoOrY",
+      "title": "Binary Search Problems - 1 | Lecture-45 | C++ And DSA Foundation course",
+      "duration": 5926
+    },
+    {
+      "id": "Eo8-p3REQdE",
+      "title": "Binary Search Problems - 2 | Lecture-46 | C++ and DSA Foundation course",
+      "duration": 2766
+    },
+    {
+      "id": "X6WF_RZyP44",
+      "title": "Binary Search Problems - 3 | Lecture-47 | C++ and DSA Foundation course",
+      "duration": 2840
+    },
+    {
+      "id": "kjU04wGSYzw",
+      "title": "Strings in One Shot | Lecture 48 | C++ and DSA Foundation Course",
+      "duration": 11507
+    },
+    {
+      "id": "9roJTTghZJI",
+      "title": "OOPS in One Shot | Lecture 49 | C++ and DSA Foundation Course",
+      "duration": 5011
+    },
+    {
+      "id": "Kz_6lUoDO_Y",
+      "title": "Linked List in C++ - Part 1 | Lecture 50 | C++ and DSA Foundation Course",
+      "duration": 9932
+    },
+    {
+      "id": "OjGR1GpEukY",
+      "title": "Linked List Part 2 | C++ and DSA Foundation course",
+      "duration": 11216
+    },
+    {
+      "id": "-g5EK1Msz8Y",
+      "title": "Doubly Linked List | Lecture 52 |C++ and DSA Foundation Course",
+      "duration": 7456
+    },
+    {
+      "id": "rHrOILOBeyU",
+      "title": "Circular Linked List | Lecture 53 | C++ And DSA Foundation Course",
+      "duration": 5426
+    },
+    {
+      "id": "XJvmY6iahqo",
+      "title": "Stacks - 1 | C++ & DSA Full Course for Beginners | Lecture 54",
+      "duration": 6904
+    },
+    {
+      "id": "Fi7UFBkLAWA",
+      "title": "Stacks - Important Problems | C++ & DSA Full Course for Beginners | Lecture 55",
+      "duration": 6472
+    },
+    {
+      "id": "Xbd55lKPGks",
+      "title": "Stacks | Interview Questions | C++ & DSA Full Course for Beginners | Lecture 56",
+      "duration": 5515
+    },
+    {
+      "id": "GX4SbJV7bas",
+      "title": "Queues - 1 | Basics, STL and Implementation | C++ & DSA Full Course for Beginners | Lecture 57",
+      "duration": 3723
+    },
+    {
+      "id": "gWAU2olfS8Q",
+      "title": "Queue Interview Questions in C++ | DSA Full Course | Lecture 58",
+      "duration": 3650
+    },
+    {
+      "id": "6bh2IdSEv-0",
+      "title": "Set in C++ One Shot | STL Types and DSA | Lecture 59",
+      "duration": 7970
+    },
+    {
+      "id": "OxBEypvXl9s",
+      "title": "Introduction to Hashing and Hash Table | C++ & DSA Full Course for Beginners | Lecture 60",
+      "duration": 4792
+    },
+    {
+      "id": "pBvlSc2A2U4",
+      "title": "Hashmap - STL and Types | Implementation | C++ & DSA Full Course for Beginners | Lecture 61",
+      "duration": 7306
+    },
+    {
+      "id": "1s8Dl6KDKe8",
+      "title": "Hashmap Problems in C++ STL | Unordered Map | DSA Lecture 62",
+      "duration": 5612
+    },
+    {
+      "id": "SW6btyQjY_0",
+      "title": "C++ and Java Course Update | New Learning Content and Course Details",
+      "duration": 115
+    }
+  ]
+}

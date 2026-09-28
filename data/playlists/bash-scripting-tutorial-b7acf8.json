@@ -1,0 +1,80 @@
+{
+  "courseId": "bash-scripting-tutorial-b7acf8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:17.902Z",
+  "title": "Bash Scripting tutorial",
+  "channel": "STAARKEN INFOSEC (Fortify Solutions)",
+  "videos": [
+    {
+      "id": "9T2nEXlLy9o",
+      "title": "Bash scripting tutorial for beginners | learn shell scripting in one video Hindi English | fortify",
+      "duration": 15139
+    },
+    {
+      "id": "UWpDhXGO_pE",
+      "title": "Write your first shell script  | Shell scripting tutorial for beginners in hindi | fortify solutions",
+      "duration": 462
+    },
+    {
+      "id": "YAY0gTTydvg",
+      "title": "Create a bash script to print current user name , date & time and cal | Bash Scripting tutorial",
+      "duration": 373
+    },
+    {
+      "id": "abqGODB9Zm0",
+      "title": "Command Line argument in Bash Scripting || Bash Scripting tutorial in Hindi | fortify solutions",
+      "duration": 495
+    },
+    {
+      "id": "6fy1U0eMBTc",
+      "title": "Variables in Shell Scripting | Bash Shell Scripting Tutorial in Hindi | fortify solutions",
+      "duration": 1601
+    },
+    {
+      "id": "UePSKHBuHgY",
+      "title": "Functions , Argument passing , Variable scope in Bash Scripting || Bash Scripting Tutorial in Hindi",
+      "duration": 1917
+    },
+    {
+      "id": "Fhy3tZoKEZc",
+      "title": "Loops in Bash Script || For and While Loop in Bash Scripting",
+      "duration": 1007
+    },
+    {
+      "id": "k9NxVMea0LU",
+      "title": "In Bash Script How to take User Input via Keyboard | Bash Script tutorial Hindi | fortify solutions",
+      "duration": 977
+    },
+    {
+      "id": "fpO1ADufqm8",
+      "title": "Conditional statements in bash || Bash scripting tutorial in Hindi",
+      "duration": 2754
+    },
+    {
+      "id": "2jZ3IFTsFPQ",
+      "title": "Bash Scripts to Automate the task Examples || Bash tutorial in Hindi | fortify solutions",
+      "duration": 1944
+    },
+    {
+      "id": "2V_n-ymdsao",
+      "title": "Array in Bash Scripting || Learn Bash Scripting in Hindi | fortify solutions",
+      "duration": 1019
+    },
+    {
+      "id": "HbXUgclV5YA",
+      "title": "until loop in bash scripting | bash scripting tutorial | shell scripting tutorial |Fortify Solutions",
+      "duration": 590
+    },
+    {
+      "id": "CtcCEE1dKLE",
+      "title": "Manage  Date and Time on Bash Scripting || Bash Tutorial in Hindi | fortify solutions",
+      "duration": 1904
+    },
+    {
+      "id": "zrhk7OT2iwg",
+      "title": "Mush Crash Course || Automate Task without the bash complexity",
+      "duration": 6025
+    }
+  ]
+}

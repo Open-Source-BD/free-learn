@@ -1,0 +1,230 @@
+{
+  "courseId": "text-processing-level-3-0c46be",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEoZSwjEZT3TvpKG16FntFL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:57.479Z",
+  "title": "Text Processing - Level 3",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "__Cu92rei1s",
+      "title": "Knuth-Morris-Pratt (KMP) String Matching Algorithm | Text Processing and Competitive Programming",
+      "duration": 4357
+    },
+    {
+      "id": "QlwzsWs0oyc",
+      "title": "Z Algorithm",
+      "duration": 4625
+    },
+    {
+      "id": "M0Nwvd-G-tg",
+      "title": "Shortest Palindrome | Competitive Programming | Level 3",
+      "duration": 1924
+    },
+    {
+      "id": "06QIlUBLTz4",
+      "title": "Manchers algorithms| Text processing and competitive  programming",
+      "duration": 5668
+    },
+    {
+      "id": "TlVeF4JfdgA",
+      "title": "Find String Roots | Competitive Programming",
+      "duration": 745
+    },
+    {
+      "id": "Z-lZrO6N6Ko",
+      "title": "String Rotation| Competitive Programming",
+      "duration": 809
+    },
+    {
+      "id": "-g2keRF4E4k",
+      "title": "Prefix and suffix count | Competitive Programming",
+      "duration": 1388
+    },
+    {
+      "id": "N5kn4IrIAKg",
+      "title": "String Polynomial Hashing | Rabin Karp Rolling Hash | Part 1 | Text Processing",
+      "duration": 1307
+    },
+    {
+      "id": "gNDIOqdAJiw",
+      "title": "Rabin Karp Rolling Hash | SPOJ Pattern Matching | Part 2 | Text Processing",
+      "duration": 3182
+    },
+    {
+      "id": "fnSD3MsfKf8",
+      "title": "Password - Codeforces | Rabin Karp Rolling Hash | Text Processing",
+      "duration": 2327
+    },
+    {
+      "id": "pTj1QvxOzOI",
+      "title": "Good Substrings- Codeforces | Rabin Karp Rolling Hash | Text Processing",
+      "duration": 1259
+    },
+    {
+      "id": "dcOSQjhfBcQ",
+      "title": "Longest Duplicate Substring | Rabin Karp Rolling Hash | Text Processing",
+      "duration": 2792
+    },
+    {
+      "id": "8f_JcbwoBQY",
+      "title": "Longest Prefix Suffix | Rabin Karp Rolling Hash | Text Processing",
+      "duration": 1201
+    },
+    {
+      "id": "ZJr_MX6biNg",
+      "title": "Suffix Arrays | Kasai Algorithm | Fastest Implementation | Text Processing",
+      "duration": 3508
+    },
+    {
+      "id": "ysN8RQFl52Y",
+      "title": "Longest Common Substring | Suffix Arrays | Text Processing",
+      "duration": 1288
+    },
+    {
+      "id": "t7u3ftRZY2Y",
+      "title": "Repeated Substrings | Kattis | Suffix Arrays | Text Processing",
+      "duration": 1256
+    },
+    {
+      "id": "5iVHXUQ94pE",
+      "title": "Longest Palindromic Substring | Suffix Arrays | Text Processing",
+      "duration": 1172
+    },
+    {
+      "id": "5-S3MrZGfRc",
+      "title": "Hidden Password | ICPC Live Archive | Suffix Arrays | Text Processing",
+      "duration": 1542
+    },
+    {
+      "id": "qkLSuq2xSKU",
+      "title": "DFS on Suffix Trees",
+      "duration": 1465
+    },
+    {
+      "id": "tOyqZg9Fvq0",
+      "title": "Suffix Trees | Ukkonen's algorithm | Implementation Overview | Text Processing",
+      "duration": 2164
+    },
+    {
+      "id": "G5byOF9asVI",
+      "title": "Pattern Find | Suffix Trees | Application 1 | Text Processing",
+      "duration": 1771
+    },
+    {
+      "id": "hvFaaUPyd5w",
+      "title": "Longest Repeated Substring | Suffix Trees | Application 2 | Text Processing",
+      "duration": 1712
+    },
+    {
+      "id": "tkYiWT81mRA",
+      "title": "Longest Common Substring | Suffix Trees | Application 3 | Text Processing",
+      "duration": 1959
+    },
+    {
+      "id": "vJVI_3DrrBw",
+      "title": "Dictionary Queries | Suffix Trees | Use Case | Text Processing",
+      "duration": 917
+    },
+    {
+      "id": "E20_JCLMdoU",
+      "title": "Aho-Corasick Algorithm | Working | Complete Explanation | Text Processing",
+      "duration": 3788
+    },
+    {
+      "id": "8T8N2fDgzoc",
+      "title": "Aho-Corasick Algorithm | Implementation | Advanced DS | Text Processing",
+      "duration": 2602
+    },
+    {
+      "id": "VkLInaahUg0",
+      "title": "Aho Corasick Algorithm || Application",
+      "duration": 2843
+    },
+    {
+      "id": "9y8fkUmXTtI",
+      "title": "Obscene Words Filter || Aho Corasick Algorithm",
+      "duration": 701
+    },
+    {
+      "id": "P887FsZsNFY",
+      "title": "Substring Problem || Aho Corasick Algorithm",
+      "duration": 507
+    },
+    {
+      "id": "WgOHPYTMsLU",
+      "title": "Vitaly and Strings | Codeforces Round#293(Div. 2) | Text Processing | Competitive Coding | Pepcoding",
+      "duration": 1291
+    },
+    {
+      "id": "VG5T_og_VP4",
+      "title": "Remove Adjacent | Codeforces Round #625 (Div. 2) | Text Processing | Competitive Coding | Pepcoding",
+      "duration": 1704
+    },
+    {
+      "id": "0IJZRgRC1BI",
+      "title": "Phoenix and Distribution|Codeforces Round #638 (Div. 2)|Text Processing|Competitive Coding|Pepcoding",
+      "duration": 1962
+    },
+    {
+      "id": "Z8s9QyCNrd4",
+      "title": "Make palindrome || Codeforces",
+      "duration": 1814
+    },
+    {
+      "id": "v9PUDLVLUKU",
+      "title": "Wizards and minimal spells || Codeforce",
+      "duration": 1105
+    },
+    {
+      "id": "Wokv6qldWDE",
+      "title": "Exponential notations || Codeforces",
+      "duration": 1732
+    },
+    {
+      "id": "Je5w61yGn7g",
+      "title": "Sasha and one more name || Codeforces",
+      "duration": 811
+    },
+    {
+      "id": "atEHN1ntXCs",
+      "title": "AB String",
+      "duration": 1451
+    },
+    {
+      "id": "WnBWE0Oz99U",
+      "title": "Print a 1337 String || Codeforces",
+      "duration": 1204
+    },
+    {
+      "id": "89jlYRn0oDo",
+      "title": "String Reversal || Codeforces",
+      "duration": 1263
+    },
+    {
+      "id": "3IklzAZNQO0",
+      "title": "Calender || Codeforces",
+      "duration": 1535
+    },
+    {
+      "id": "7scv-0ydJH4",
+      "title": "Minimax || Codeforces",
+      "duration": 1873
+    },
+    {
+      "id": "cdSzuAHCkS8",
+      "title": "Diane",
+      "duration": 610
+    },
+    {
+      "id": "dQackPBwLWw",
+      "title": "Say No to Palindrome",
+      "duration": 1542
+    },
+    {
+      "id": "_r-V8Dsd0dg",
+      "title": "Codeforces subsequence || Codeforces",
+      "duration": 799
+    }
+  ]
+}

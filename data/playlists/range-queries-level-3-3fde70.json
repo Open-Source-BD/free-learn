@@ -1,0 +1,70 @@
+{
+  "courseId": "range-queries-level-3-3fde70",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiGkI_pL8l67OVvbpnwf-5yO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:54.572Z",
+  "title": "Range Queries - Level 3",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "tzDI7X8voT4",
+      "title": "Prefix sum| Competitive Programming",
+      "duration": 840
+    },
+    {
+      "id": "-SDHYqxI-Hc",
+      "title": "Range Addition| Competitive Programming",
+      "duration": 834
+    },
+    {
+      "id": "f43qOr8eTlU",
+      "title": "Moksh and his Girlfriend | Competitive Programming",
+      "duration": 1613
+    },
+    {
+      "id": "K54R2D9bilQ",
+      "title": "Square Root Decomposition | Competitive Programming",
+      "duration": 2358
+    },
+    {
+      "id": "yP48ylKOsA8",
+      "title": "Sqrt decomposition point update | Competitive Programming",
+      "duration": 593
+    },
+    {
+      "id": "c2uBLEJmE0U",
+      "title": "Can Prefix sum beat SQRT Decomposition!? | Competitive Programming",
+      "duration": 384
+    },
+    {
+      "id": "pTg7NezkV28",
+      "title": "Fenwick Tree (Binary Indexed Tree) | Competitive Programming",
+      "duration": 2058
+    },
+    {
+      "id": "fdflfFwyUa4",
+      "title": "Fenwick Tree (BIT) Preprocessing in O(n) | Competitive Programming",
+      "duration": 643
+    },
+    {
+      "id": "74tokuW415A",
+      "title": "2D Binary Indexed Tree (Fenwick Tree) | Competitive Programming",
+      "duration": 1553
+    },
+    {
+      "id": "0KuZRxsHUjM",
+      "title": "Create Sorted Array through Instructions | Competitive Programming",
+      "duration": 1064
+    },
+    {
+      "id": "yuP21gi2slM",
+      "title": "SQRT Decomposition vs Fenwick Tree(BIT) | Competitive Programming",
+      "duration": 228
+    },
+    {
+      "id": "jYSIy65MpGg",
+      "title": "Sparse Table | Range Minimum Query | RMQSQ | Spoj",
+      "duration": 2148
+    }
+  ]
+}

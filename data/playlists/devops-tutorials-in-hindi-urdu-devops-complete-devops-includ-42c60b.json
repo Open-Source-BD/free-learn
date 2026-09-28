@@ -1,0 +1,300 @@
+{
+  "courseId": "devops-tutorials-in-hindi-urdu-devops-complete-devops-includ-42c60b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:27.067Z",
+  "title": "DevOps Tutorials in Hindi/Urdu | Devops सीखने का सबसे आसान तरीका l Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes",
+  "channel": "Technical Guftgu",
+  "videos": [
+    {
+      "id": "eX3ZimWWHh4",
+      "title": "What are the Pre-requisite for Devops-Hindi/Urdu | LEC-01 | Devops Tutorial for beginners in Hindi",
+      "duration": 3156
+    },
+    {
+      "id": "5VVSh1wKOX8",
+      "title": "What is Devops,DevOps Stages,Agile-Hindi/Urdu | What is Agile Methodology | What is Scrum and sprint",
+      "duration": 3157
+    },
+    {
+      "id": "kCToCLzu6iw",
+      "title": "Basics of AWS Cloud required for Devops-Hindi/Urdu | Lec-03 l DevOps Tutorial for Beginners",
+      "duration": 2885
+    },
+    {
+      "id": "CTZfWmMAdoI",
+      "title": "Everything about Linux from Scratch-Part-1 Hindi/urdu | Linux tutorial for beginners in hindi",
+      "duration": 2513
+    },
+    {
+      "id": "6OfP7lf9Hjw",
+      "title": "Everything About Linux from Scratch Part-2 Hindi/urdu | Linux tutorial for beginners in hindi",
+      "duration": 1703
+    },
+    {
+      "id": "5-Dspz2_aHQ",
+      "title": "Everything about Linux from Scratch Part-3 Hindi/urdu | DevOps Tutorial for Beginners in Hindi/Urdu",
+      "duration": 3647
+    },
+    {
+      "id": "5JtJUcp2BOg",
+      "title": "Everything about linux from Scratch Part-4 Hindi/Urdu | Linux Tutorial for Beginners in Hindi",
+      "duration": 3614
+    },
+    {
+      "id": "RLWp702zng8",
+      "title": "Everything about Linux from Scratch Part-5 hindi/Urdu | Devops tutorial for beginners in hindi/urdu",
+      "duration": 3340
+    },
+    {
+      "id": "CkN25Y1HmiY",
+      "title": "Everything about Linux from scratch Part-6 Hindi/urdu | DevOps Tutorial for Beginners in Hindi",
+      "duration": 3717
+    },
+    {
+      "id": "0jOo6aH2cNI",
+      "title": "Everything about linux from Scratch-Part-7 Hindi/Urdu | Linux commands like chmod | chgrp | chown",
+      "duration": 2650
+    },
+    {
+      "id": "ZoOdwgxmw4U",
+      "title": "What is GIT in Hindi/Urdu | What is github | Distributed Version Control System | Github tutorial",
+      "duration": 2147
+    },
+    {
+      "id": "QJBIsVFX_Mc",
+      "title": "Git-Three Stages -Working Directory,Staging area and Local Repository | What is Branch in git",
+      "duration": 4511
+    },
+    {
+      "id": "U8_YEWuBybI",
+      "title": "How to install git on aws linux machine-Hindi/Urdu | How to Create github account | What is git?",
+      "duration": 1958
+    },
+    {
+      "id": "JXiJNCtWmcA",
+      "title": "How to add,commit in git-Hindi/Urdu | How to push from git to github | How to pull code from github",
+      "duration": 4665
+    },
+    {
+      "id": "4MtsFAArXVU",
+      "title": "How to create Branch in git-Hindi | What is git reset,git stash and git Merge | What is git conflict",
+      "duration": 5611
+    },
+    {
+      "id": "reJ31q-JCzM",
+      "title": "What is git revert-Hindi/Urdu |What is tag in git | Github clone | git reset vs git revert | gitlab",
+      "duration": 4031
+    },
+    {
+      "id": "xxrCZxjNPfI",
+      "title": "What is Chef in Devops-Hindi/Urdu | Configuration Management Tools | Complete Working of Chef | Ohai",
+      "duration": 3496
+    },
+    {
+      "id": "6n6XK3w1-rs",
+      "title": "What is Chef in Devops Part-2 Hindi/Urdu | How to create Cookbook and Recipe in Chef Workstation",
+      "duration": 6402
+    },
+    {
+      "id": "vqfrnvRrLHw",
+      "title": "What is Attribute in CHEF-Hindi/Urdu | What is CHEF in Devops | CHEF devops | Devops Tutorial",
+      "duration": 3316
+    },
+    {
+      "id": "9iO3Z8lQ17o",
+      "title": "Chef devops in Hindi/Urdu | Chef recipes devops | Runlist | Run Multiple Recipes | Chef Ohai Devops",
+      "duration": 4120
+    },
+    {
+      "id": "KLyo3bHx7iU",
+      "title": "What is Bootstrapping in CHEF-Hindi/Urdu | Upload Cookbook in Chef-Server and apply to node | Devops",
+      "duration": 6728
+    },
+    {
+      "id": "qmIvAV-w4V8",
+      "title": "How to Create Role in Chef-HIndi/Urdu | Installing Chef server,workstation and Node-upload Cookbook",
+      "duration": 6714
+    },
+    {
+      "id": "vWjP3fsfgrw",
+      "title": "What is Docker and how it works ? | Docker tutorial for Beginners | Microservices | Devops Tools",
+      "duration": 2993
+    },
+    {
+      "id": "vacvCaE4uQM",
+      "title": "O.S Level Virtualisation in Docker-Hindi/Urdu | What is Docker? | Docker for beginners | Docker Hub",
+      "duration": 1660
+    },
+    {
+      "id": "h17po-0DfWE",
+      "title": "Docker Architecture in Hindi | Lec-25 | Benefits of Docker containers | Docker Limitations | Devops",
+      "duration": 3892
+    },
+    {
+      "id": "ZGnHJzPJdd0",
+      "title": "What is Docker and how to Install it | How to start and stop a Container in AWS | Docker in Hindi",
+      "duration": 3134
+    },
+    {
+      "id": "vEv0IxPEsW0",
+      "title": "Dockerfile creation-Hindi/urdu | what is docker and how it works | what is docker file | Docker diff",
+      "duration": 4084
+    },
+    {
+      "id": "OoZxPUgpUUM",
+      "title": "What is Docker Volume-Hindi/Urdu | How to Create Volumes | Docker Storage | Docker Volume tutorial",
+      "duration": 3808
+    },
+    {
+      "id": "p4HuoL7hwXI",
+      "title": "Docker port mapping,restart container,exec container and docker expose | Docker port expose",
+      "duration": 3619
+    },
+    {
+      "id": "3moRvwkqy_A",
+      "title": "What is docker hub and how it works-Hindi/Urdu | Create Docker hub account |Dockerhub push and pull",
+      "duration": 2989
+    },
+    {
+      "id": "75wa1N49b-o",
+      "title": "What is Ansible-Hindi/Urdu Part-1 | Ansible tutorial for beginners | How Ansible works | Devops tool",
+      "duration": 2432
+    },
+    {
+      "id": "kE-6KDyf-0o",
+      "title": "Ansible Demo-Hindi/Urdu | Lec-32 | How to Establish ssh connection between server and Node | Devops",
+      "duration": 6461
+    },
+    {
+      "id": "SR_CZcZQfqE",
+      "title": "Ansible Ad hoc commands,ansible modules Demo-Hindi/Urdu | What is Ansible in Devops |Complete Devops",
+      "duration": 5102
+    },
+    {
+      "id": "uyFrrKju4Es",
+      "title": "Ansible Playbook,Handlers,Variables,Dry Run and Loops-Hindi/Urdu | Ansible tutorial for beginners",
+      "duration": 6691
+    },
+    {
+      "id": "2UlTYJMi0YE",
+      "title": "Ansible Roles,Conditions and Ansible Vault-Hindi/Urdu | What is Ansible | Ansible Full Course",
+      "duration": 5258
+    },
+    {
+      "id": "N-Iv4KIOvKY",
+      "title": "What is CI/CD Pipeline-Hindi/Urdu | What is Jenkins and how it works | CI/CD Pipeline using Jenkins",
+      "duration": 3989
+    },
+    {
+      "id": "vxSXqvQy95g",
+      "title": "Lec-37- Jenkins and CI/CD Project Part-1 Hindi/Urdu | CI/CD Pipeline | What is Jenkins and Maven",
+      "duration": 4188
+    },
+    {
+      "id": "iZzIFRphLQE",
+      "title": "Lec-38 Maven job,schedule task and Source code Polling-Hindi/Urdu | Jenkins and Maven Basic | Devops",
+      "duration": 3440
+    },
+    {
+      "id": "qhKizGnU3hA",
+      "title": "Jenkins-Linked Projects,Views, User Management and Master Slave Concept | Lec-39 | Devops Tutorials",
+      "duration": 4168
+    },
+    {
+      "id": "CdGr3IvbpFs",
+      "title": "How to install jenkins on Ubuntu-Hindi/Urdu | Lec-40 | Jenkins installation on Linux | DevOps video",
+      "duration": 1749
+    },
+    {
+      "id": "X35kdzKcAwg",
+      "title": "What is Maven and how it works-Hindi/Urdu | Lec-41 | Maven Tutorial for beginners | Devops Training",
+      "duration": 3917
+    },
+    {
+      "id": "vfw8zXyJtQA",
+      "title": "Complete Devops project for CI/CD-Hindi/urdu | Lec-42 | Devops Real time Project | Devops tutorial |",
+      "duration": 6279
+    },
+    {
+      "id": "4MueJSBRjv0",
+      "title": "Nagios Continuous Monitoring Tool -Hindi/Urdu | Lec-43 | Nagios Complete Tutorial | Devops tool",
+      "duration": 2816
+    },
+    {
+      "id": "H9uRoLS_8ks",
+      "title": "Nagios installation on AWS Linux machine-Hindi/Urdu | Lec-44 |  How to install nagios on Linux",
+      "duration": 2979
+    },
+    {
+      "id": "mYVzuE3daY8",
+      "title": "What is Kubernetes-Hindi/Urdu | Lec-45 | Kubernetes tutorial for beginners | Kubernetes Introduction",
+      "duration": 4395
+    },
+    {
+      "id": "C69My8d-Hww",
+      "title": "Architecture of Kubernetes in Detail-Hindi/Urdu |Lec-46 | What is Kubernetes | Devops Tutorial",
+      "duration": 4446
+    },
+    {
+      "id": "ftrAFHL6w2c",
+      "title": "Setup Kubernetes Master and Worker Node on AWS-Hindi/Urdu |Lec-47  |Install Kubernetes step by step",
+      "duration": 3932
+    },
+    {
+      "id": "hV8zi3vdQqk",
+      "title": "Installation of Minikube and Detailed Lab Part-1-Hindi/Urdu | Lec-48 | Kubernetes complete tutorial",
+      "duration": 8083
+    },
+    {
+      "id": "dQSQELeC2A4",
+      "title": "Labels,Selectors,ReplicationController and replicaset in Kubernetes-Hindi/Urdu| Lec-49 | Minikube",
+      "duration": 6867
+    },
+    {
+      "id": "t3z-vkk_T6g",
+      "title": "Deployment Object in Kubernetes-Hindi/urdu | Lec-50 | What is Kubernetes and how it works | Devops",
+      "duration": 4567
+    },
+    {
+      "id": "J2sUlm2cwQk",
+      "title": "Kubernetes Networking- Hindi/Urdu | Lec-51 | Kubernetes Services, Nodeport and Volumes | DevOps",
+      "duration": 7698
+    },
+    {
+      "id": "9zjGOCb-6As",
+      "title": "Persistent Volume and LivenessProbe in Kubernetes-Hindi/Urdu | Lec-52 | Complete Devops Tutorials",
+      "duration": 4894
+    },
+    {
+      "id": "I1w1o2LM4ws",
+      "title": "kubernetes configmap and secrets-Hindi/Urdu | Lec-53 | Complete tutorials in Hindi/urdu",
+      "duration": 3342
+    },
+    {
+      "id": "OaZcXRJuOo8",
+      "title": "What is Namespaces and Resource Quota in Kubernetes-Hindi | Lec-54 | Complete kubernetes | Devops",
+      "duration": 4973
+    },
+    {
+      "id": "hm3jnETOoFo",
+      "title": "Kubernetes Horizontal Pod Autoscaling-Hindi/Urdu | Lec-55 | Complete Kubernetes Tutorials",
+      "duration": 3715
+    },
+    {
+      "id": "BqHAoaXbz1A",
+      "title": "Kubernetes Jobs,init container and pod lifecycle-Hindi/Urdu | Lec-56 | Complete Kubernetes series",
+      "duration": 4515
+    },
+    {
+      "id": "nH6LDrl6xpI",
+      "title": "What is HELM and HELM Chart-Hindi/Urdu | Lec-57 | Introduction to Helm | Helm 3 Architecture",
+      "duration": 4153
+    },
+    {
+      "id": "FpJpHWe3Va4",
+      "title": "Helm installation and commands-Hindi/Urdu | Lec-58 | Hands-on Helm | What is Helm in Kubernetes",
+      "duration": 6253
+    }
+  ]
+}

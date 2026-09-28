@@ -1,0 +1,210 @@
+{
+  "courseId": "assembly-language-programming-tutorials-in-urdu-hindi-1b1582",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:10.090Z",
+  "title": "Assembly Language Programming Tutorials in Urdu Hindi",
+  "channel": "Programology",
+  "videos": [
+    {
+      "id": "SL--qoiu7yA",
+      "title": "lecture 1: Introduction to Assembly Language Programming Tutorial in Urdu Hindi",
+      "duration": 820
+    },
+    {
+      "id": "1GfMuBn6ZB0",
+      "title": "Lecture 2: Introduction to Registers in assembly language programming tutorial in Urdu HIndi",
+      "duration": 746
+    },
+    {
+      "id": "aynfIm-QQVw",
+      "title": "Lecture 3: Types of registers in Assembly language programming tutorial in Urdu Hindi",
+      "duration": 1133
+    },
+    {
+      "id": "924y1XRvD98",
+      "title": "Lecture 4 : Addressing modes mov instruction interrupt and ASCII in Assembly language in Urdu Hindi",
+      "duration": 1569
+    },
+    {
+      "id": "BpHngBtVe7U",
+      "title": "Lecture 5 Program structure, syntax and program to print single character in assembly language urdu",
+      "duration": 1488
+    },
+    {
+      "id": "IHMWU2_ZbVE",
+      "title": "Lecture 6 Install DosBox MASM LINK & Run Assembly Program in dosbox to print character in URDU HINDI",
+      "duration": 1030
+    },
+    {
+      "id": "_QBRGK3rYns",
+      "title": "Lecture 7: Program to print name with characters in assembly language programming urdu hindi",
+      "duration": 456
+    },
+    {
+      "id": "vIPGhBBgFLc",
+      "title": "Lecture 8 Program to take input a character from user in assembly language programming in urdu hindi",
+      "duration": 349
+    },
+    {
+      "id": "T_NQ38ptIUk",
+      "title": "Lecture 10 : Program to subtract two numbers in assembly language programming tutorial in urdu hindi",
+      "duration": 399
+    },
+    {
+      "id": "KmgLbl-Re8U",
+      "title": "Lecture 9 : Program to add two numbers in Assembly language Programming tutorial in urdu hindi",
+      "duration": 662
+    },
+    {
+      "id": "kh7Gm7rwuSE",
+      "title": "Lecture 11 Program to input two numbers and add them in assembly language tutorial in urdu hindi",
+      "duration": 557
+    },
+    {
+      "id": "tIavP8jYIcM",
+      "title": "Lecture 12 : Program to convert Capital letter to small in assembly, uppercase to lowercase in urdu",
+      "duration": 320
+    },
+    {
+      "id": "Aej3hDGywBU",
+      "title": "Lecture 13 : Variables, data types, offset and lea in assembly language in urdu hindi",
+      "duration": 1051
+    },
+    {
+      "id": "DP7fw-8T2sA",
+      "title": "Lecture 15: Loop, Label, Inc and Program to print 0 to 9 in assembly language in urdu hindi",
+      "duration": 605
+    },
+    {
+      "id": "ehGR49UU9XI",
+      "title": "Lecture 14: Assembly program to print two strings on two different lines, Linefeed, Carriage return",
+      "duration": 502
+    },
+    {
+      "id": "s_0LEb2jDHM",
+      "title": "Lecture 16 Program to print capital letters from A to Z using loop in assembly language in urdu hind",
+      "duration": 416
+    },
+    {
+      "id": "oT-5NNcDlCI",
+      "title": "Lecture 17 Flag Register Carry parity Auxiliary zero sign trap interrupt direction and overflow flag",
+      "duration": 1153
+    },
+    {
+      "id": "qE6GhXFkxIM",
+      "title": "Lecture 19 Program to print the input number is equal or not in assembly language in urdu hindi",
+      "duration": 573
+    },
+    {
+      "id": "VB6Oqwv3jLQ",
+      "title": "lecture 18 jump, unconditional jump, conditional jump and compare cmp, jmp in assembly in urdu hindi",
+      "duration": 977
+    },
+    {
+      "id": "lvD_ZClwV6A",
+      "title": "Lecture 20 : Array, dup and source index register in assembly language programming in urdu hindi",
+      "duration": 927
+    },
+    {
+      "id": "p3g9Zh-3yQ8",
+      "title": "Lecture 21 : Program to print an array using loop in assembly language programming in urdu hindi",
+      "duration": 609
+    },
+    {
+      "id": "tSMFgi1NrJI",
+      "title": "Lecture 22 : String, Program to input a string in assembly language programming in urdu hindi",
+      "duration": 862
+    },
+    {
+      "id": "2Gdvz_6m5j8",
+      "title": "Lecture 23 : stack, push, pop and example program of push and pop in assembly language in urdu hindi",
+      "duration": 1128
+    },
+    {
+      "id": "K1lIhTrgf4s",
+      "title": "Lecture 24: Exam Material for assembly language | programs, theory, papers, book and presentations",
+      "duration": 210
+    },
+    {
+      "id": "0y9CwUAu-ms",
+      "title": "Lecture 25 : program to swap two numbers in assembly language in urdu hindi",
+      "duration": 456
+    },
+    {
+      "id": "_ASyIg3uTTg",
+      "title": "Lecture 26 : program to reverse a string in assembly language tutorial in urdu hindi",
+      "duration": 505
+    },
+    {
+      "id": "jOBmT8LtvHE",
+      "title": "Lecture 27 : nested loop, program to print pyramid in assembly language in urdu hindi",
+      "duration": 508
+    },
+    {
+      "id": "97oDBapuj1o",
+      "title": "Lecture 28 : procedure, example program of procedure in assembly language in urdu hindi",
+      "duration": 752
+    },
+    {
+      "id": "0ZVFXQMsUpw",
+      "title": "Lecture 29 : macro, example program for macro, macro vs procedure in assembly language in urdu hindi",
+      "duration": 621
+    },
+    {
+      "id": "Q5Bg6rVFYbY",
+      "title": "Lecture 30: signed and unsigned numbers, convert unsigned to signed numbers in assembly urdu hindi",
+      "duration": 383
+    },
+    {
+      "id": "wp0tXC5BdfI",
+      "title": "Lecture 31: Division in assembly language for unsigned numbers , postive numbers in urdu hindi",
+      "duration": 775
+    },
+    {
+      "id": "CbJwvve0xXs",
+      "title": "Lecture 32: program to divide two numbers in assembly language, quotient remainder in urdu hindi",
+      "duration": 370
+    },
+    {
+      "id": "EvsFFSoRfY8",
+      "title": "Lecture 33: multiplication, multiplication for unsigned numbers / positive numbers in urdu hindi",
+      "duration": 513
+    },
+    {
+      "id": "jaNnObbRFh4",
+      "title": "Lecture 34: program to multiply two numbers in assembly language in urdu hindi",
+      "duration": 303
+    },
+    {
+      "id": "JBsrGYOX0-o",
+      "title": "Lecture 35: introduction to graphics, int 10h , ah functions routines in assembly in urdu",
+      "duration": 457
+    },
+    {
+      "id": "UKGnAxJdPNY",
+      "title": "Lecture 36: program to draw box, rectangle, square in assembly graphics int 10h urdu hindi",
+      "duration": 757
+    },
+    {
+      "id": "cBfzkvheVck",
+      "title": "assembly language projects for students with source code in urdu hindi",
+      "duration": 167
+    },
+    {
+      "id": "PjAlsLJmhkE",
+      "title": "Programming nahi aati? best motivational video for computer science students in urdu hindi",
+      "duration": 199
+    },
+    {
+      "id": "tMALWg0jLpA",
+      "title": "Auto Assignment Maker for computer science students | auto screenshot capture and make assignment",
+      "duration": 382
+    },
+    {
+      "id": "GFrykQvEgMw",
+      "title": "make educational video using mobile | make whiteboard animation video in android mobile hindi urdu",
+      "duration": 487
+    }
+  ]
+}

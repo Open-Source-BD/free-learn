@@ -1,0 +1,415 @@
+{
+  "courseId": "artificial-intelligence-lectures-hindi-cd63f4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:51.104Z",
+  "title": "Artificial Intelligence Lectures Hindi",
+  "channel": "Easy Engineering Classes",
+  "videos": [
+    {
+      "id": "FpvnF7_-tW8",
+      "title": "L1: Artificial Intelligence Introduction, Goals, Reasons of Boost | Artificial Intelligence Lectures",
+      "duration": 498
+    },
+    {
+      "id": "Oth_jnB5lOA",
+      "title": "L2: Applications of Artificial Intelligence in various domains | Artificial Intelligence Lectures",
+      "duration": 513
+    },
+    {
+      "id": "Wps7PnyJjDs",
+      "title": "L3: Composition of Artificial Intelligence | Advantages, Disadvantages of Artificial Intelligence",
+      "duration": 421
+    },
+    {
+      "id": "3F1ub2quBBk",
+      "title": "L4: Classification of Artificial Intelligence | Weak, Evolutionary, Strong | Artificial Intelligence",
+      "duration": 311
+    },
+    {
+      "id": "anW5W67OEME",
+      "title": "L6: Artificial Intelligence Agents | Types of AI Agents | Artificial Intelligence Lectures in Hindi",
+      "duration": 1292
+    },
+    {
+      "id": "n9rwoA-36iY",
+      "title": "L7: PEAS in Artificial Intelligence | Grouping of AI Agents with Example of Self Driving Car | AI",
+      "duration": 375
+    },
+    {
+      "id": "qZ1jovXesJA",
+      "title": "L8: Classification of Environment in Artificial Intelligence | Artificial Intelligence Lectures",
+      "duration": 569
+    },
+    {
+      "id": "K4ZWapj7n64",
+      "title": "L10: Artificial Intelligence Task | Formal, Expert, Mundane Task | Artificial Intelligence Lectures",
+      "duration": 369
+    },
+    {
+      "id": "dWQitocmGmY",
+      "title": "L11: Uncertainty in Artificial Intelligence | Sources of Uncertainty | AI Lectures in Hindi",
+      "duration": 319
+    },
+    {
+      "id": "PaDyuD788Us",
+      "title": "L12: Turing Test in Artificial Intelligence with Configuration and Steps to Perform | AI Lectures",
+      "duration": 344
+    },
+    {
+      "id": "7lTCyo6o1wg",
+      "title": "L13: Chinese Room Test in Artificial Intelligence with Configuration & Steps to Perform | AI Course",
+      "duration": 361
+    },
+    {
+      "id": "HXGaabF6T7U",
+      "title": "L14: Artificial Intelligence Technique | Knowledge Representation, Search Algorithm | AI Lectures",
+      "duration": 313
+    },
+    {
+      "id": "SZ2a668G6vA",
+      "title": "L17: Breadth First Search(BFS) in Artificial Intelligence with Solved Examples | Uninformed Search",
+      "duration": 658
+    },
+    {
+      "id": "dWpvK-8uAqM",
+      "title": "L18: Depth First Search(DFS) in Artificial Intelligence with Solved Examples | Uninformed Search",
+      "duration": 619
+    },
+    {
+      "id": "NUlKH29gg6I",
+      "title": "L19: Depth Limited Search in Artificial Intelligence with Example | Uninformed Search | AI Lectures",
+      "duration": 472
+    },
+    {
+      "id": "FbI1lCNNxP8",
+      "title": "L20: Uniform Cost Search in Artificial Intelligence with Solved Examples | Uninformed Search in AI",
+      "duration": 480
+    },
+    {
+      "id": "VdXjaRe4o0M",
+      "title": "L21: Bidirectional Search in Artificial Intelligence with Solved Examples | Uninformed Search in AI",
+      "duration": 491
+    },
+    {
+      "id": "EHwPE5IDXlQ",
+      "title": "L22: Iterative Deepening Depth First Search in Artificial Intelligence with Solved Examples",
+      "duration": 371
+    },
+    {
+      "id": "FRBzy5-BR74",
+      "title": "L23: Informed Search in Artificial Intelligence with Examples | Heuristic Function | AI Lectures",
+      "duration": 412
+    },
+    {
+      "id": "xaVTpt58bFI",
+      "title": "L24: Heuristic Search in Artificial Intelligence | Admissible & Non-Admissible with Examples",
+      "duration": 622
+    },
+    {
+      "id": "uuHDNeeNGSY",
+      "title": "L25: Difference(Comparison) between Blind Search and Heuristic Search in Artificial Intelligence",
+      "duration": 289
+    },
+    {
+      "id": "IBNs4GJLAmc",
+      "title": "L26: Best First Search(BFS) | Informed Search in Artificial Intelligence with Examples | AI Lectures",
+      "duration": 685
+    },
+    {
+      "id": "r6h9hydNhPw",
+      "title": "L27: Beam Search | Optimized Best First Search | Artificial Intelligence with Examples | AI Lectures",
+      "duration": 380
+    },
+    {
+      "id": "95s0b0HBe3w",
+      "title": "L28: A Star(A*) Search Algorithm in Artificial Intelligence with Examples | Informed Search in AI",
+      "duration": 951
+    },
+    {
+      "id": "1Tk1SBvp-lg",
+      "title": "L29: AO Star(AO*) Search Algorithm in Artificial Intelligence with Examples | Informed Search in AI",
+      "duration": 528
+    },
+    {
+      "id": "z2y1sMrHKDw",
+      "title": "L30: Hill Climbing Search in Artificial Intelligence | Limitation of Hill Climbing Search in AI",
+      "duration": 716
+    },
+    {
+      "id": "nVX20DJeGjU",
+      "title": "L31: Branch and Bound Technique in Artificial Intelligence to find shortest solution | AI Lectures",
+      "duration": 656
+    },
+    {
+      "id": "ct9rpyxbgaE",
+      "title": "L32: Simulated Annealing in Artificial Intelligence | Difference Hill Climbing & Simulated Annealing",
+      "duration": 381
+    },
+    {
+      "id": "acsk3i7gS_U",
+      "title": "L32-1: Steepest Ascent Hill Climbing | Artificial Intelligence | Compare with Simple Hill Climbing",
+      "duration": 525
+    },
+    {
+      "id": "6GuvCBi4EBs",
+      "title": "L33: Generate and Test Search in Artificial Intelligence | British Museum Search | AI Lectures Hindi",
+      "duration": 233
+    },
+    {
+      "id": "SH1eYvdLpUE",
+      "title": "L34: State Space Search | Eight Tile Puzzle Problem | Artificial Intelligence Lectures in Hindi",
+      "duration": 829
+    },
+    {
+      "id": "g5LO4rC_kss",
+      "title": "L35: Single State and Multiple State Problem Formulation | Artificial Intelligence Lectures Hindi",
+      "duration": 433
+    },
+    {
+      "id": "WtRWfbUZzZw",
+      "title": "L36: Water Jug Problem in Artificial Intelligence | State Representation and Solution | AI Lectures",
+      "duration": 388
+    },
+    {
+      "id": "KMkwBwD_ezw",
+      "title": "L36-1: Default Reasoning in Artificial Intelligence | Non Monotonic and Default Logic | AI Lectures",
+      "duration": 386
+    },
+    {
+      "id": "JVclXaq00Pk",
+      "title": "L37: Monotonic vs Non-Monotonic Reasoning in Artificial Intelligence | AI Lectures in Hindi",
+      "duration": 446
+    },
+    {
+      "id": "Aebkfuqj1Og",
+      "title": "L38: Production System in Artificial Intelligence | Characteristics, Advantages, Steps to Solve",
+      "duration": 489
+    },
+    {
+      "id": "yLEB-n4URu4",
+      "title": "L39: Missionaries and Cannibals Problem in Artificial Intelligence with Solution | AI Lectures Hindi",
+      "duration": 396
+    },
+    {
+      "id": "pnLFu0yJzN8",
+      "title": "L40: N Queen Problem in Artificial Intelligence | 4 Queen, 8 Queen Problem with Solution | AI Course",
+      "duration": 644
+    },
+    {
+      "id": "QZ8tB_-Jpfk",
+      "title": "L41: Tower of Hanoi Problem in Artificial Intelligence with Solution | AI Lectures in Hindi",
+      "duration": 344
+    },
+    {
+      "id": "H0hRly9JanE",
+      "title": "L42: Tic Tac Toe Problem in Artificial Intelligence with Solution | AI Lectures in Hindi",
+      "duration": 321
+    },
+    {
+      "id": "_xFm4ZWkkkg",
+      "title": "L43: Travelling Salesman Problem | State Representation in Artificial Intelligence with Solution",
+      "duration": 436
+    },
+    {
+      "id": "Xi0uaEwCzNs",
+      "title": "L44: Blocks World Problem in Artificial Intelligence with Solution | AI Lectures in Hindi",
+      "duration": 295
+    },
+    {
+      "id": "aZblDSAx4cg",
+      "title": "L46: CryptArithmetic Problem in Artificial Intelligence | TO+GO = OUT & SEND+MORE= MONEY Solutions",
+      "duration": 922
+    },
+    {
+      "id": "qo2RmonoK5Y",
+      "title": "L47: CryptArithmetic Problem in Artificial Intelligence | EAT + THAT = APPLE Problem Solution",
+      "duration": 170
+    },
+    {
+      "id": "bmvAfz3BhqM",
+      "title": "L48: CryptArithmetic Problem in Artificial Intelligence | SOME + TIME = SPENT Problem Solution",
+      "duration": 220
+    },
+    {
+      "id": "BrraXMroIos",
+      "title": "L49: CryptArithmetic Problem | BASE + BALL = GAMES Problem Solution | Artificial Intelligence",
+      "duration": 338
+    },
+    {
+      "id": "VQ4gsqYBv1s",
+      "title": "L50: CryptArithmetic Problem in Artificial Intelligence | CROSS + ROADS = DANGER Solution",
+      "duration": 503
+    },
+    {
+      "id": "HVzr8ZeTR6o",
+      "title": "L52: Propositional Logic in Artificial Intelligence | Introduction and Alphabet Set | AI Lectures",
+      "duration": 386
+    },
+    {
+      "id": "hHRWRa3k6Ww",
+      "title": "L53: Propositional Logic | Set of Equivalence Relation | Rules of Inference(MODUS PONENS, TOLLENS)",
+      "duration": 453
+    },
+    {
+      "id": "J1Jhl-Vq3eA",
+      "title": "L54: Tautology and Truth Table in Artificial Intelligence with Solved Example | AI Lectures in Hindi",
+      "duration": 336
+    },
+    {
+      "id": "Q_15qjqX-RE",
+      "title": "L56: First Order Logic (FOL) | Predicate Logic Introduction | Quantifiers in Predicate Logic | AI",
+      "duration": 661
+    },
+    {
+      "id": "NYFI79HONUE",
+      "title": "L58: Unification Algorithm in Artificial Intelligence with example | AI Lectures in Hindi",
+      "duration": 611
+    },
+    {
+      "id": "_JPEHHhG2tk",
+      "title": "L60: Forward chaining, Backward chaining | Example | Comparison | Artificial Intelligence Lectures",
+      "duration": 439
+    },
+    {
+      "id": "AvhLHUVj4j4",
+      "title": "L61: Significance of Inference Engine in Expert System | Forward and Backward Chaining | AI Lectures",
+      "duration": 248
+    },
+    {
+      "id": "cjNJ65aA8UY",
+      "title": "L62: Class Membership & Inclusion in Predicate Logic | Comparison of Predicate & Propositional Logic",
+      "duration": 496
+    },
+    {
+      "id": "S7L4-KDTvEE",
+      "title": "L64: Minimax Algorithm in Game Playing with examples | Artificial Intelligence Lectures in Hindi",
+      "duration": 728
+    },
+    {
+      "id": "BvpmYnF0NFA",
+      "title": "L66: Knowledge Acquisition | Artificial Intelligence | Architecture, Tasks, Techniques | AI Lectures",
+      "duration": 633
+    },
+    {
+      "id": "YeThScCaIEM",
+      "title": "L67: Knowledge Based System | Artificial Intelligence | Architecture, Components | AI Lectures Hindi",
+      "duration": 375
+    },
+    {
+      "id": "hRjECBm_KH8",
+      "title": "L68: Knowledge Engineers Role | Knowledge Engineering Process | Knowledge Acquisition Difficulties",
+      "duration": 547
+    },
+    {
+      "id": "2ONm2TdQEh0",
+      "title": "L69: Knowledge Type | Artificial Intelligence | Procedural, Declarative, Meta, Heuristic, Structural",
+      "duration": 295
+    },
+    {
+      "id": "1jyLrS6U3hA",
+      "title": "L70: Semantic Networks in Artificial Intelligence | Components, Example | AI Lectures in Hindi",
+      "duration": 352
+    },
+    {
+      "id": "5iHBv_74Ces",
+      "title": "L71: Frames for knowledge Representation in Artificial Intelligence | Attributes, Reasoning Actions",
+      "duration": 591
+    },
+    {
+      "id": "Woyd7K1mUk8",
+      "title": "L72: Scripts for knowledge Representation | Artificial Intelligence | Components | AI Lectures",
+      "duration": 527
+    },
+    {
+      "id": "oKko3ukFLVc",
+      "title": "L73: Bayes Theorem in Artificial Intelligence with Applications & Example | AI Lectures in Hindi",
+      "duration": 656
+    },
+    {
+      "id": "c5eaKymcwiU",
+      "title": "L74: Bayesian Belief Network in Artificial Intelligence | AI Lectures(Course) in Hindi",
+      "duration": 507
+    },
+    {
+      "id": "IS0zdKpC5EU",
+      "title": "L75: Fuzzy Logic System Architecture | Characteristics of Fuzzy Logic | Artificial Intelligence",
+      "duration": 596
+    },
+    {
+      "id": "KhF8Wni8q6E",
+      "title": "L76: Membership Function in Fuzzy Systems | Significance| Artificial Intelligence Lectures",
+      "duration": 426
+    },
+    {
+      "id": "41ioSAat_ss",
+      "title": "L78: Learning | Process, Components of Learner System | Artificial Intelligence Lectures in Hindi",
+      "duration": 401
+    },
+    {
+      "id": "MqABY2u5q9Y",
+      "title": "L79: Neuron Biological Model | Characteristics, Neurons, Axons, Dendrites | Artificial Intelligence",
+      "duration": 404
+    },
+    {
+      "id": "B2aI7m7wldw",
+      "title": "L80: Artificial Neural Network Architecture | Advantages, Characteristics | Artificial Intelligence",
+      "duration": 547
+    },
+    {
+      "id": "wUIQVzw0xS4",
+      "title": "L81: Types of Artificial Neural Network(ANN) Architectures | Artificial Intelligence Course Hindi",
+      "duration": 421
+    },
+    {
+      "id": "UqvYrgkG_vc",
+      "title": "L82: Activation Function in Artificial Neural Network | Types, Importance | Artificial Intelligence",
+      "duration": 565
+    },
+    {
+      "id": "tXaQRl0eKd8",
+      "title": "L83: Supervised, Unsupervised and Reinforcement Learning in Neural Network | Artificial Intelligence",
+      "duration": 550
+    },
+    {
+      "id": "vWCfOX4iBWI",
+      "title": "L84: Recurrent Neural Network Architecture | RNN Working | Difference between RNN & Feed Forward N/W",
+      "duration": 714
+    },
+    {
+      "id": "5PWHcSRn2W4",
+      "title": "L85: MCP(McCulloch Pitts Neuron Model) | Artificial Intelligence Lectures(Course) in Hindi",
+      "duration": 392
+    },
+    {
+      "id": "C-34SFYMNNA",
+      "title": "L86: Natural Language Processing | Introduction, Components | Artificial Intelligence Lectures",
+      "duration": 422
+    },
+    {
+      "id": "NmF-VJ2NrT0",
+      "title": "L89: Expert System Architecture | Characteristics of Expert System | Artificial Intelligence Hindi",
+      "duration": 353
+    },
+    {
+      "id": "TR6KecyHH6w",
+      "title": "L90: Comparison of Expert System with Conventional Computers | Application of Expert System | AI",
+      "duration": 518
+    },
+    {
+      "id": "vA1Bz8sII1c",
+      "title": "L91: Constraint Satisfaction Problem in Artificial Intelligence | NODE COLORING Problem Solution",
+      "duration": 730
+    },
+    {
+      "id": "sgaGp6ENSa0",
+      "title": "L92: Linearly Separable Patterns in Context of Linear Separability | AND, OR, XOR Problem | AI",
+      "duration": 562
+    },
+    {
+      "id": "JaEmYNRijKs",
+      "title": "L93: Effect of Learning Rate on Back Propagation Algorithm | Artificial Intelligence Lectures Hindi",
+      "duration": 446
+    }
+  ]
+}

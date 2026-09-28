@@ -1,0 +1,135 @@
+{
+  "courseId": "aws-tutorial-for-beginners-in-hindi-b171e8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:33.624Z",
+  "title": "AWS Tutorial for Beginners In Hindi",
+  "channel": "Together with Abhi ",
+  "videos": [
+    {
+      "id": "X0fRPWwTHOA",
+      "title": "1. AWS | Amazon Web Services | Tutorial For Beginners In Hindi | Course Introduction",
+      "duration": 118
+    },
+    {
+      "id": "8nLkozsNzm8",
+      "title": "2. AWS In Hindi | Introduction to Amazon Web Services and Cloud Concepts",
+      "duration": 1248
+    },
+    {
+      "id": "E9VcxtP01Vc",
+      "title": "3. AWS In Hindi | Initial Setup | MultiFactorAuthentication | User Creation | Billing Alert",
+      "duration": 888
+    },
+    {
+      "id": "gbXC62iIac4",
+      "title": "4. AWS In Hindi | Initial Setup | AWS Command Line Interface CLI Configuration",
+      "duration": 936
+    },
+    {
+      "id": "4khdbyC2K0I",
+      "title": "5. AWS In Hindi | S3 | Object Storage vs Block Storage vs File Storage",
+      "duration": 1255
+    },
+    {
+      "id": "3VSw3jM_D_8",
+      "title": "6. AWS In Hindi | S3 | Buckets and Objects | CRUD Opearations | Versioning",
+      "duration": 988
+    },
+    {
+      "id": "dNjK3Cw3Vqw",
+      "title": "7. AWS In Hindi | S3 | Static Website Hosting | Bucket Policy",
+      "duration": 672
+    },
+    {
+      "id": "f2UgYXanoSg",
+      "title": "8. AWS In Hindi | S3 | Security |  Access Control for Buckets and Objects",
+      "duration": 1369
+    },
+    {
+      "id": "LtSjb4MRpqc",
+      "title": "9. AWS In Hindi | S3 |  Storage Classes |  Object Lifecycle Management",
+      "duration": 626
+    },
+    {
+      "id": "HGikh8wp3Nc",
+      "title": "10. AWS In Hindi | S3 |  Security |  Encryption Concepts | Key Management Service KMS",
+      "duration": 1032
+    },
+    {
+      "id": "GWUJaY0dgPw",
+      "title": "11. AWS In Hindi | S3 |  Security |  Encryption  Practical | Key Management Service KMS",
+      "duration": 887
+    },
+    {
+      "id": "CXVaIuidrDs",
+      "title": "12. AWS In Hindi | S3 |  Advanced Features |  Glacier | S3 Complete Summary",
+      "duration": 918
+    },
+    {
+      "id": "ADD4JHQlAag",
+      "title": "13. AWS In Hindi | EC2 | Introduction | AMI & Instance Types",
+      "duration": 983
+    },
+    {
+      "id": "pZJi_OycDOI",
+      "title": "14. AWS In Hindi | EC2 | Launch Linux Instance | Access Metadata",
+      "duration": 834
+    },
+    {
+      "id": "msEkbXojxq8",
+      "title": "15. AWS In Hindi | EC2 | Launch Windows Instance | Bootstrapping",
+      "duration": 628
+    },
+    {
+      "id": "6ge0jddnoD4",
+      "title": "16. AWS In Hindi | EC2 | Security Groups | Instance Store and EBS",
+      "duration": 1316
+    },
+    {
+      "id": "0O5FZJGo8C4",
+      "title": "17. AWS In Hindi | EC2 | Instance Store and EBS (Practical) | Termination Protection",
+      "duration": 823
+    },
+    {
+      "id": "hZgr8-gu_GI",
+      "title": "18. AWS In Hindi | EC2 | Snapshots and Volumes (Practical) | AMI Usage",
+      "duration": 1120
+    },
+    {
+      "id": "JRHUspQsBYM",
+      "title": "19. AWS In Hindi | EC2 | Complete Summary | Q & A",
+      "duration": 979
+    },
+    {
+      "id": "dJBBCtInaS0",
+      "title": "20. AWS In Hindi | VPC | Virtual Private Cloud Introduction | IP Addressing",
+      "duration": 979
+    },
+    {
+      "id": "GecAq75mA4Q",
+      "title": "21. AWS In Hindi | VPC | Virtual Private Cloud (Demo)",
+      "duration": 1474
+    },
+    {
+      "id": "28dfkZuZqzw",
+      "title": "22. AWS In Hindi | VPC | Virtual Private Cloud Concepts and Summary | Q & A",
+      "duration": 1188
+    },
+    {
+      "id": "sT1BBPTy-EM",
+      "title": "23. AWS In Hindi | RDS | Relational Database Service Concepts | Q & A",
+      "duration": 1224
+    },
+    {
+      "id": "CfplYST9lRY",
+      "title": "24. AWS In Hindi | RDS | Relational Database Service Practical",
+      "duration": 889
+    },
+    {
+      "id": "3vrId_AwS34",
+      "title": "25. AWS In Hindi | SQS, SWF and SNS",
+      "duration": 1251
+    }
+  ]
+}

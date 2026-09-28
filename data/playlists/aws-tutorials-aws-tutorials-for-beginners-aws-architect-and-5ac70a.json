@@ -1,0 +1,520 @@
+{
+  "courseId": "aws-tutorials-aws-tutorials-for-beginners-aws-architect-and-5ac70a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:42.443Z",
+  "title": "AWS Solution Architect & Sysops Tutorial for beginners in Hindi/Urdu |सबसे आसान तरीका AWS सीखने का | हिंदी | नेपाली | اردو۔ | AWS SAA C03 | AWS DevOps",
+  "channel": "Technical Guftgu",
+  "videos": [
+    {
+      "id": "DxveVHN4Ymg",
+      "title": "What is cloud and how it works in hindi | Lec-01 | AWS Solution Architect Tutorial for Beginners",
+      "duration": 2256
+    },
+    {
+      "id": "XMskE8AjEjs",
+      "title": "IAAS, PAAS and SAAS in AWS | Lec 2 | How Cloud Works | Virtualization layers in AWS CLoud",
+      "duration": 1350
+    },
+    {
+      "id": "uujEQjiw7CU",
+      "title": "How to create AWS Free Account-Hindi LEC 3| AWS Solution Architect tutorial for beginners",
+      "duration": 353
+    },
+    {
+      "id": "gO_2VWUkl0U",
+      "title": "Types of EC2 Instances Part 1-Hindi/urdu | Lec-04 | Theory of Elastic compute Cloud | AWS tutorial",
+      "duration": 1066
+    },
+    {
+      "id": "UQ8eBZvPrYc",
+      "title": "Amazon EC2 Part 2-Hindi/Urdu | LEC-05 | General Purpose Instance | TYPES OF EC2 |what is ec2 in aws",
+      "duration": 1205
+    },
+    {
+      "id": "4ry6XM7PvEQ",
+      "title": "Amazon EC2 Part-3 Hindi/urdu | Lec-06 | Compute Optimized Instance | EC2 instances Types |",
+      "duration": 652
+    },
+    {
+      "id": "hXfNX_p2mHw",
+      "title": "Amazon EC2 Part-4 Hindi/Urdu |LEC-07 | Memory optimized Instance | AWS Tutorials in Hindi/Urdu |",
+      "duration": 567
+    },
+    {
+      "id": "EZlCvbfJbKE",
+      "title": "Amazon EC2 Part-5 Hindi/urdu | LEC-08 |Storage Optimized Instances | AWS Solution Architect Tutorial",
+      "duration": 814
+    },
+    {
+      "id": "zE3QIEiiNSE",
+      "title": "Amazon EC2 Part -6 Hindi/Urdu | LEC-09 | Accelerated Computing Instance |AWS EC2 Tutorials",
+      "duration": 782
+    },
+    {
+      "id": "h0z-l5v-abs",
+      "title": "Amazon EC2 Part-7-Hindi | High Memory Instance | LEC-10 | AWS Tutorial for beginners in hindi",
+      "duration": 811
+    },
+    {
+      "id": "dG11IG2WfxA",
+      "title": "Amazon EC2 Purchasing options Part-8-Hindi/urdu | Lec-11 | AWS Elastic compute cloud | AWS SAA C03",
+      "duration": 2231
+    },
+    {
+      "id": "EDyLhse2pw0",
+      "title": "AWS EC2 Instances Part-9- Hindi/Urdu | LEC-12 | AWS Solution architect tutorial for beginners",
+      "duration": 2004
+    },
+    {
+      "id": "zYBYm45A78E",
+      "title": "How to Create a Windows Server in AWS | LEC 13 | How to launch Windows Instance in AWS | Amazon EC2",
+      "duration": 1450
+    },
+    {
+      "id": "L1Rp--bWwPs",
+      "title": "How to Install webserver IIS and Create Webpage on windows Server-Hindi/Urdu | Lec-14 | AWS SAA C03",
+      "duration": 814
+    },
+    {
+      "id": "9Cs6n6xA0Sw",
+      "title": "How to attach extra volume in existing windows machine in AWS | Lec-15 | AWS SAA C03 Tutorials",
+      "duration": 1178
+    },
+    {
+      "id": "V7RC32ufxek",
+      "title": "AWS EC2 Linux Launch & Concept using SSH | LEC-16 | How to create an AWS EC2 Linux instance | SAAC03",
+      "duration": 819
+    },
+    {
+      "id": "BI65txf8_kQ",
+      "title": "How to Retrieve Metadata of Amazon linux machine-Hindi/Urdu | LEC-17 | AWS SAA C03 Tutorials |",
+      "duration": 518
+    },
+    {
+      "id": "K7Nxx0YuVxo",
+      "title": "Virtual Private Cloud in AWS Part-1 Hindi/Urdu | Lec-18 |What is VPC and how it works | Types of VPC",
+      "duration": 1458
+    },
+    {
+      "id": "tXJiWva4lsQ",
+      "title": "Virtual Private Cloud Part-2 Hindi | LEC-19 |  What is VPC | What is a Virtual private Cloud | AWS",
+      "duration": 852
+    },
+    {
+      "id": "OKuPIlVGEjg",
+      "title": "Virtual Private Cloud Part-3 Hindi/Urdu | LEC-20 | What is Internet Gateway | Implied Router | AWS",
+      "duration": 1078
+    },
+    {
+      "id": "wVqrZjF1ics",
+      "title": "Virtual Private Cloud Part-4 Hindi/Urdu | Lec-21 | Internet Gateway | Network ACL | AWS SAA C03",
+      "duration": 2667
+    },
+    {
+      "id": "v01oaZBRRpY",
+      "title": "AWS VPC Demo | Creating VPC,Subnets,Route table | LEC-22 |  How to Create Amazon VPC | AWS SAA C03",
+      "duration": 1571
+    },
+    {
+      "id": "YRYwbORyXkI",
+      "title": "Lab on VPC NAT Gateway-Hindi/Urdu | Lec-23 |How to access internet via NAT Gateway | AWS VPC demo",
+      "duration": 1129
+    },
+    {
+      "id": "kM7zunMeBg8",
+      "title": "AWS-VPC Peering- Concept & Demo | LEC 24| 2 VPC within a Region | AWS-Solution Architect Tutorials",
+      "duration": 2265
+    },
+    {
+      "id": "Evj6DQr6gwM",
+      "title": "AWS-VPC Peering across Two Region | Lec-25 | Cross-Region VPC Peering | AWS-CSA Associate Exam",
+      "duration": 1682
+    },
+    {
+      "id": "5pI8IcBTM2s",
+      "title": "AWS Network ACL's inside my VPC-Hindi/Urdu | LEC-26 | AWS Solution Architect tutorial for beginners",
+      "duration": 1094
+    },
+    {
+      "id": "ab036IW3ASw",
+      "title": "AWS VPC Endpoint Theory with Lab-Hindi/Urdu | LEC-27 | AWS  VPC Endpoint for S3 | AWS SAA C03",
+      "duration": 1784
+    },
+    {
+      "id": "WxBiGioCBDk",
+      "title": "AWS Tutorials in Hindi/Urdu | VPN Connection in AWS-LEC 28 | Access EC2 Instance through VPN",
+      "duration": 1467
+    },
+    {
+      "id": "ZG-JRs5qRlc",
+      "title": "AWS Storage Part-1 Hindi/Urdu | Lec-29 | Types of AWS Storage | Glacier | EBS | AWS Cloud Storage",
+      "duration": 1048
+    },
+    {
+      "id": "uPv6rmhKUvA",
+      "title": "AWS Storage Part-2 Hindi/urdu | Block storage and Object Storage | AWS Solution Architect Tutorial",
+      "duration": 1049
+    },
+    {
+      "id": "IHnorot0kxM",
+      "title": "AWS Storage Part-3 Hindi/urdu | Lec-31 |  S3 introduction | S3 Naming Rules | Simple Storage service",
+      "duration": 1708
+    },
+    {
+      "id": "S_RV_NTABo0",
+      "title": "AWS Storage Part-4 Hindi/urdu | S3 Versioning | MFA Delete | S3 Copying Objects | AWS S3 Tutorial",
+      "duration": 1806
+    },
+    {
+      "id": "HTb_VYOE4WM",
+      "title": "Amazon S3 Tutorials Hindi/Urdu/English | Lec-33 | Amazon S3 Storage classes | S3 Glacier | S3-IA",
+      "duration": 3358
+    },
+    {
+      "id": "MZBTyfs2jTw",
+      "title": "S3 Bucket Creation LAB-Lec 34  | AWS Simple Storage Service Lab | AWS S3 Bucket | AWS SAA C03",
+      "duration": 1052
+    },
+    {
+      "id": "g_rw2X5HJZg",
+      "title": "S3 Bucket Creation using CLI-Hindi/Urdu | Lec-35 | AWS tutorial for beginners | AWS SAA C03 Tutorial",
+      "duration": 1270
+    },
+    {
+      "id": "3BRIA2SDQUk",
+      "title": "S3 Versioning-Hindi/Urdu | Lec-36 | How to enable versioning on S3 Bucket| AWS Tutorial for beginner",
+      "duration": 829
+    },
+    {
+      "id": "kraKcjxSJv0",
+      "title": "S3 Cross Region Replication in Hindi/Urdu | Lec-37 | AWS Solution Architect Tutorial for beginners",
+      "duration": 1005
+    },
+    {
+      "id": "vz-o7AXg_cU",
+      "title": "AWS S3 Object Lifecycle Management-Hindi/Urdu | Lec-38 | S3 Demo | AWS S3 Tutorial | AWS Glacier",
+      "duration": 788
+    },
+    {
+      "id": "hx6mMIcQN6E",
+      "title": "AWS EFS Demo-Using through linux servers-Hindi/Urdu | Lec-39 | Elastic file system |AWS EFS Tutorial",
+      "duration": 1200
+    },
+    {
+      "id": "OKtZhbg7he0",
+      "title": "Static Website Hosting on AWS S3-Hindi/Urdu | LEC-40 | Make website in 10 Minutes on AWS | Route 53",
+      "duration": 1321
+    },
+    {
+      "id": "YJnqXaGb2M8",
+      "title": "Hosting Static website on S3 Bucket using route 53-Hindi/Urdu | Lec-41 | S3 static Website hosting |",
+      "duration": 1435
+    },
+    {
+      "id": "gJD8M5dcs4s",
+      "title": "Elastic Block Store Part-1-Hindi/Urdu | LEC-42 |  Difference between EBS and instance store | AWS",
+      "duration": 1224
+    },
+    {
+      "id": "XTpPMf7AgLc",
+      "title": "Elastic Block Store Part-2-Hindi/Urdu | Lec-43 | EBS Volume Types | AWS-CSA Lectures | AWS EBS",
+      "duration": 1843
+    },
+    {
+      "id": "PkOhjYMteqs",
+      "title": "AWS Elastic Block store Part-3-Hindi/Urdu | Lec-44 |How to take EBS Snapshot | AWS SA C003 Tutorials",
+      "duration": 1668
+    },
+    {
+      "id": "tzOs1_ed2IU",
+      "title": "Elastic Block Store (EBS) Part-4-Hindi/Urdu | Lec-45 | What is Incremental Snapshot | AWS SAA C03",
+      "duration": 898
+    },
+    {
+      "id": "fUY3NcpJ9sk",
+      "title": "Elastic Block Store Part-5-Hindi/Urdu | LEC-46 | How to encrypt EBS Volume | AWS-SAA C03 exam",
+      "duration": 1169
+    },
+    {
+      "id": "PIs_B8M00lE",
+      "title": "Elastic Block store Part-6 in Hindi/Urdu | LEC-47 | How to Share EBS Snapshot | AWS  SAA C03 Videos",
+      "duration": 1379
+    },
+    {
+      "id": "y2kEZkiQwM4",
+      "title": "How to create AMI From EC2 | LEC-48 | What is amazon machine image | AWS Solution Architect TUTORIAL",
+      "duration": 1451
+    },
+    {
+      "id": "aGB7bvTMRTM",
+      "title": "How to copy AMI into another AWS Account | LEC-49 | AWS Cross account permission | AWS-CSA Tutorials",
+      "duration": 925
+    },
+    {
+      "id": "C6lSCAVggFE",
+      "title": "How to attach root volume with another EC2 Instance | How to take snapshot of EC2 | AWS-CSA Lectures",
+      "duration": 884
+    },
+    {
+      "id": "hS9DLXyOgd0",
+      "title": "AWS Autoscaling Part-1 Hindi/Urdu | LEC-51 | Amazon EC2 Autoscaling | AWS-SAA C03 Exam Tutorials",
+      "duration": 1864
+    },
+    {
+      "id": "X7beRrEeBSI",
+      "title": "Aws autoscaling part-2 hindi/urdu | LEC-52 | Autoscaling and Load balancing in AWS |AWS Training",
+      "duration": 2589
+    },
+    {
+      "id": "c-AwFkicRY8",
+      "title": "AWS Autoscaling Part-3 | LEC-53 | Types of scaling policies | AWS Solution architect Associate",
+      "duration": 2369
+    },
+    {
+      "id": "mLJImHSh-tc",
+      "title": "AWS Autoscaling Demo in detail-Hindi/Urdu | LEC-54 | Step scaling,Target tracking policy | AWS DEMO",
+      "duration": 2402
+    },
+    {
+      "id": "3WlcgylrAxE",
+      "title": "Elastic load balancer in aws-hindi/Urdu | LEC-55 | AWS ELB Tutorial | AWS Tutorial | AWS Training",
+      "duration": 1838
+    },
+    {
+      "id": "RewtkN8ICs0",
+      "title": "AWS  Elastic load Balancer Part-2 Hindi/Urdu | LEC-56 | AWS ELB | What is aws elastic load balancer",
+      "duration": 1262
+    },
+    {
+      "id": "yLd4peEUmpQ",
+      "title": "AWS Elastic load Balancer Part-3 | LEC-57 AWS ELB |How ELB Works | What is AWS Elastic load balancer",
+      "duration": 2213
+    },
+    {
+      "id": "eKL4LBjpZv8",
+      "title": "AWS Elastic load Balancer Part-4 | AWS ELB | What is aws elastic  Load Balancer | AWS ALB vs NLB",
+      "duration": 1530
+    },
+    {
+      "id": "OftItZ2Ahd8",
+      "title": "Lab on AWS Application load Balancer-Hindi/Urdu | AWS Elastic load balancer | AWS ELB Tutorial",
+      "duration": 2034
+    },
+    {
+      "id": "GoxMcltLsEs",
+      "title": "AWS Network Load Balancer-Demo | AWS ELB | Cross zone Load Balancer | What is AWS NLB vs ALB vs ELB",
+      "duration": 1564
+    },
+    {
+      "id": "keXwkpjSRrw",
+      "title": "How to establish a load balancer between two VPC-Hindi/urdu | LEC-61 | AWS ALB vs NLB vs CLB",
+      "duration": 2523
+    },
+    {
+      "id": "o2w5DlccB3A",
+      "title": "AWS Identity and access Management Part-1 | IAM Roles and features | AWS IAM Tutorial |AWS Training",
+      "duration": 2401
+    },
+    {
+      "id": "Z3jVClyYAN0",
+      "title": "Identity and access Management Part-2-Hindi/Urdu | LEC-63 | AWS IAM Roles and Policies | AWS SAA C03",
+      "duration": 1789
+    },
+    {
+      "id": "AKSMYUaIqKk",
+      "title": "Identity and access Management Part 3-Hindi/Urdu | AWS Training Videos | AWS IAM Tutorial",
+      "duration": 941
+    },
+    {
+      "id": "pD1aRAB29hY",
+      "title": "Identity and Access Management Part-4 -Hindi/Urdu | AWS IAM Identities | AWS IAM Tutorial",
+      "duration": 2535
+    },
+    {
+      "id": "xIbtYZGRKCU",
+      "title": "Identity and Access Management Part-5 Hindi/Urdu | LEC-66 | AWS IAM | AWS IAM Roles and Policies",
+      "duration": 1741
+    },
+    {
+      "id": "ezc9Ys0AeCg",
+      "title": "AWS Identity and Access Management Part-6 Hindi/Urdu | AWS IAM Tutorial |Account Security with IAM",
+      "duration": 1755
+    },
+    {
+      "id": "8hZq5byiIvo",
+      "title": "AWS IAM Lab Part-1 Hindi/Urdu | How to create IAM User in AWS | AWS IAM Tutorial | IAM User",
+      "duration": 2050
+    },
+    {
+      "id": "eLjiW6TZMKc",
+      "title": "AWS IAM Lab Part-2 Hindi/Urdu | How to create IAM Group,Inline Policy and Billing Dashboard",
+      "duration": 1662
+    },
+    {
+      "id": "pIXSdYVGHFI",
+      "title": "Cross Account access using IAM Role-Hindi/Urdu | AWS IAM Federated User and Role | AWS IAM Tutorial",
+      "duration": 2344
+    },
+    {
+      "id": "Spu_mxedGBI",
+      "title": "How to connect windows server to AWS AD Connector | LEC-71 | AWS AD Connector | AWS IAM",
+      "duration": 2558
+    },
+    {
+      "id": "vsz8PoQos_0",
+      "title": "What is Database-Hindi/Urdu | What is database management System | AWS Database | AWS DynamoDB",
+      "duration": 1507
+    },
+    {
+      "id": "4WnLrcBtq7o",
+      "title": "What is Relational Database-Hindi/Urdu | LEC-73 | What is SQL | AWS Database | AWS RDS",
+      "duration": 1776
+    },
+    {
+      "id": "H-A7VdONggM",
+      "title": "What is NoSQL Database in Hindi/Urdu | LEC-74 | Non Relational Databases | AWS DynamoDB",
+      "duration": 2420
+    },
+    {
+      "id": "MTppcqSploY",
+      "title": "AWS Relational database Services-Hindi/Urdu | LEC-75 | AWS Databases | AWS RDS | AWS DynamoDB",
+      "duration": 1670
+    },
+    {
+      "id": "CrPiDpELHy4",
+      "title": "AWS Relational Database Services Part II-Hindi/Urdu | LEC-76 | AWS RDS | AWS DynamoDB | AWS SAA C03",
+      "duration": 1866
+    },
+    {
+      "id": "nVq8LTxI1Hs",
+      "title": "AWS Relational Database Services-III Hindi/urdu | LEC-77 | AWS Databases | AWS RDS | AWS SAA C03",
+      "duration": 1746
+    },
+    {
+      "id": "uMYf4-TgRf0",
+      "title": "AWS Relational database services Part-4 Hindi/Urdu | LEC-78 | AWS Database | AWS RDS Aurora",
+      "duration": 1885
+    },
+    {
+      "id": "3yNTsbMRWKc",
+      "title": "AWS RDS Lab-Hindi/Urdu | LEC-79 | How to access MySQL Instance from Linux machine | AWS RDS MySQL",
+      "duration": 2115
+    },
+    {
+      "id": "mm27zBqoxKA",
+      "title": "AWS RDS Lab Part-2-Hindi/urdu | LEC-80 | How to access MySQL DB From windows Server | AWS Databases",
+      "duration": 887
+    },
+    {
+      "id": "PlhD80o-wcw",
+      "title": "AWS Dynamo DB Complete Theory-Hindi/Urdu | LEC-81 |  What is dynamoDB | AWS Sysops | AWS SAA-C03",
+      "duration": 2121
+    },
+    {
+      "id": "8Bl-6Hv424Y",
+      "title": "AWS DynamoDB Demo-Hindi/Urdu | LEC-82 | Create Table,item in dynamo DB | AWS Databases",
+      "duration": 1106
+    },
+    {
+      "id": "PsJWTZ-bYlQ",
+      "title": "AWS Route 53 Tutorial-Hindi/Urdu | How routing policy works in Route 53 | What is AWS Route 53",
+      "duration": 1152
+    },
+    {
+      "id": "G20A82dB5w0",
+      "title": "AWS Route 53 Basics-Part-II Hindi/Urdu | LEC-84 | What is Route 53 | AWS Routing policies",
+      "duration": 2092
+    },
+    {
+      "id": "Qf8BNGq2r6w",
+      "title": "AWS Route 53 Part-III in Hindi/urdu | Lec-85 | What is Route 53 in AWS | AWS DNS | AWS Routing",
+      "duration": 1096
+    },
+    {
+      "id": "59aFPjeXfm8",
+      "title": "AWS Route 53 Part-4 Hindi/Urdu | Lec-86 | What is AWS Route 53 | AWS Routing policies | AWS DNS",
+      "duration": 1381
+    },
+    {
+      "id": "MR0dwcJ0Ujg",
+      "title": "AWS Route 53 Routing Policies-Hindi/Urdu | Lec-87 | AWS Route 53 and its features | AWS DNS",
+      "duration": 2921
+    },
+    {
+      "id": "7V33wpgCUIM",
+      "title": "AWS Route 53 Demo-Hindi/Urdu | Lec-88 | How Routing Policy works in Route 53 | AWS DNS | AWS Videos",
+      "duration": 1182
+    },
+    {
+      "id": "dyPI37FQWW4",
+      "title": "AWS Cloudfront-Hindi/urdu | What is Cloudfront | Creating amazon cloudfront distribution |AWS CDN",
+      "duration": 1837
+    },
+    {
+      "id": "YwAPrf2tMjs",
+      "title": "AWS Cloudfront Part-2 Hindi/Urdu | What is Edge location and Regional edge cache in AWS |AWS SAA C03",
+      "duration": 1020
+    },
+    {
+      "id": "ufRxrPihooE",
+      "title": "AWS Cloudfront Demo Hindi/urdu | How CDN works in AWS",
+      "duration": 925
+    },
+    {
+      "id": "PjsbXzuj_5Y",
+      "title": "AWS Simple Queue Service-HIndi/Urdu | How SQS Works | AWS SQS used Cases | SNS vs SQS Comparison",
+      "duration": 1491
+    },
+    {
+      "id": "wCD6NtTMIeY",
+      "title": "AWS SQS Part-2 Hindi/Urdu | LEC-93 |Important Points of Simple Queue Service | How SQS Billing works",
+      "duration": 1094
+    },
+    {
+      "id": "pypjxGaUQHw",
+      "title": "AWS SQS Part-3 Hindi/Urdu | LEC-94 | SQS Visibility Timeout | Short Polling and Long Polling | SAA",
+      "duration": 1365
+    },
+    {
+      "id": "dedJqS4WuB4",
+      "title": "AWS SQS LAB-Hindi/urdu | LEC-95 |  AWS SQS Triggers on Lambda function | AWS Simple Queue Service",
+      "duration": 784
+    },
+    {
+      "id": "_IFRdW06OUs",
+      "title": "AWS Simple Notification Service Complete Theory-Hindi/urdu | Lec-96 | AWS SNS Features | SNS vs SQS",
+      "duration": 1472
+    },
+    {
+      "id": "d8HilKWQ7OM",
+      "title": "AWS SNS Demo-Hindi/urdu | Lec-97 | AWS Simple Notification Service | AWS Cloudwatch | AWS SAA C03",
+      "duration": 657
+    },
+    {
+      "id": "pSNFw71T2uA",
+      "title": "Configuring NAT instance for private subnets and internet access | LEC-98NAT Gateway vs NAT instance",
+      "duration": 1953
+    },
+    {
+      "id": "qGpMQIzGw_w",
+      "title": "AWS Site to Site VPN Configuration-Theory and Demo-Hindi/Urdu | Lec-99 | AWS Real time Project",
+      "duration": 3510
+    },
+    {
+      "id": "6cTObKzpLUA",
+      "title": "AWS Lambda Part-1-Hindi/Urdu | Lec-100 | Serverless compute on AWS | What is AWS Lambda",
+      "duration": 2361
+    },
+    {
+      "id": "7aH9VoeQ6t8",
+      "title": "AWS Lambda Part-2 Hindi/Urdu | Lec-101 | Invocation types | AWS Lambda Trigger | AWS Serverless",
+      "duration": 2010
+    },
+    {
+      "id": "LfyqWYpm8Jw",
+      "title": "AWS Lambda Lab-1 Hindi/Urdu | LAST LECTURE 102 | Setup S3 Trigger with Lambda and dynamoDB",
+      "duration": 1486
+    }
+  ]
+}

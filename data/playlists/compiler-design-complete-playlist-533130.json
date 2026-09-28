@@ -1,0 +1,140 @@
+{
+  "courseId": "compiler-design-complete-playlist-533130",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:08.489Z",
+  "title": "1.4 COMPILER DESIGN (Complete Playlist)",
+  "channel": "KnowledgeGATE by Sanchit Sir",
+  "videos": [
+    {
+      "id": "OQCjakjCJu4",
+      "title": "Complete CD Compiler Design in one shot | Semester Exam | Hindi",
+      "duration": 26507
+    },
+    {
+      "id": "ebDJJKb_zDo",
+      "title": "GATE 2026 CSE Batch Lauch | 2 Feb, 2025 | 8:00pm | #knowledgegate #withsanchitsir",
+      "duration": 1108
+    },
+    {
+      "id": "Imc8KqKT5ec",
+      "title": "1.1 What to study in Compiler Design?",
+      "duration": 704
+    },
+    {
+      "id": "VkW3Ro1_mss",
+      "title": "Context Free Grammar | CFG | Context Free Language in Compiler Design",
+      "duration": 869
+    },
+    {
+      "id": "jArgjLF98k4",
+      "title": "Derivation of String | Left/Rightmost, Type 2 Grammar, Parse Tree | CFG | Compiler Design",
+      "duration": 567
+    },
+    {
+      "id": "rDBafyxYCW8",
+      "title": "3.3 Deterministic non deterministic context free grammar  left factoring left factored grammer",
+      "duration": 650
+    },
+    {
+      "id": "fPlhNzVMza0",
+      "title": "3.4 Left Factoring: Non deterministic CFG to Deterministic CFG in Hindi",
+      "duration": 684
+    },
+    {
+      "id": "nJxF9M2lFEw",
+      "title": "3.5 Recursive Grammar left recursion right recursion removal elimination in hindi compiler design",
+      "duration": 615
+    },
+    {
+      "id": "ttplIT5r8OQ",
+      "title": "3.6 Recursive Grammar left recursion right recursion removal elimination in hindi compiler design",
+      "duration": 556
+    },
+    {
+      "id": "T96Jua67drw",
+      "title": "3.7 Practice Problem on conversion of Left Recursive Grammer into Right Recursive Grammer",
+      "duration": 502
+    },
+    {
+      "id": "qEsZ5fb9shA",
+      "title": "Ambiguous Grammar | Example, Practice Question, Previous Year Questions | Compiler Design",
+      "duration": 756
+    },
+    {
+      "id": "qw1PH2CX_f0",
+      "title": "Ambiguous Grammar | Unambiguous Grammar | Inherently Ambiguous Grammar | Compiler Design",
+      "duration": 595
+    },
+    {
+      "id": "8rkzd4CuCD0",
+      "title": "Simplification of CFG | Context Free Grammar | Compiler Design",
+      "duration": 1140
+    },
+    {
+      "id": "Cjtis0vitT0",
+      "title": "Chomsky vs Greibach Normal Form | CFG to CNF | CFG to GNF | Context Free Grammar | Compiler Design",
+      "duration": 727
+    },
+    {
+      "id": "1rGLFs5pGNM",
+      "title": "Parsing and Classification of Parser | Parse Tree | Syntax Analysis in Compiler Design",
+      "duration": 674
+    },
+    {
+      "id": "mP6YNYSpZV4",
+      "title": "Top Down Parsing | Requirement and Time Complexity of Top Down Parser | Parsers in Compiler Design",
+      "duration": 749
+    },
+    {
+      "id": "4gKY5GHOMQE",
+      "title": "Brute Force Algorithm with Examples | Backtracking in Top Down Parsing | Compiler Design",
+      "duration": 512
+    },
+    {
+      "id": "oCyHux4Ta3k",
+      "title": "Find First Function | First and Follow in Compiler design",
+      "duration": 921
+    },
+    {
+      "id": "sWiXyhCwnsE",
+      "title": "फॉलो फंक्शन खोजें | कंपाइलर डिज़ाइन में फर्स्ट और फॉलो",
+      "duration": 956
+    },
+    {
+      "id": "BNfNBYnKjp8",
+      "title": "What is LL(1) Parser | LL1 Parsing Algorithm | Top down Parsing | Compiler Design",
+      "duration": 1267
+    },
+    {
+      "id": "SemmXpNeTx4",
+      "title": "बॉटम अप पार्सर्स भाग-1 | पार्सिंग | शिफ्ट रिड्यूस पार्सर | कंपाइलर डिज़ाइन",
+      "duration": 1419
+    },
+    {
+      "id": "v8p2BrEUFbc",
+      "title": "Bottom Up Parsers Part-2 | Parsing | LR(k) Parser | Compiler Design",
+      "duration": 696
+    },
+    {
+      "id": "qTJR9Jw_i2I",
+      "title": "LR0 Parsing | LR0 Grammar Examples | Bottom up parsers | Compiler Design",
+      "duration": 832
+    },
+    {
+      "id": "p7gsXHibb_w",
+      "title": "SLR (1) Parsing Table | SLR Parser algorithm | Bottom up parsers | Compiler Design",
+      "duration": 1509
+    },
+    {
+      "id": "hLycx5wiU8g",
+      "title": "CLR Parsing Table | Bottom Up Parsers | Compiler Design",
+      "duration": 1245
+    },
+    {
+      "id": "0YsmwW7tmjo",
+      "title": "LALR पार्सर | बॉटम-अप पार्सिंग का LALR1 पार्सर | कंपाइलर डिज़ाइन",
+      "duration": 894
+    }
+  ]
+}

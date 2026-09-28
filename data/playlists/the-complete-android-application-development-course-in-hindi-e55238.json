@@ -1,0 +1,310 @@
+{
+  "courseId": "the-complete-android-application-development-course-in-hindi-e55238",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:17.454Z",
+  "title": "The complete Android Application Development Course in Hindi/Urdu | Android Development for Beginners in Hindi - Urdu | Android tutorial in Urdu",
+  "channel": "Fahad Hussain",
+  "videos": [
+    {
+      "id": "OFN3x9sBUIg",
+      "title": "Tutorial 01: Introduction to Android from Scratch Hindi | Android architecture from Scratch in Hindi",
+      "duration": 1309
+    },
+    {
+      "id": "p8dQn0QUIv4",
+      "title": "Tutorial 02: Android Activity Lifecycle Complete in Hindi/Urdu | Activity lifecycle Methods working",
+      "duration": 532
+    },
+    {
+      "id": "5uAwbxfg_fU",
+      "title": "Tutorial 03: Android core building blocks in Hindi/Urdu | 8 android core building blocks",
+      "duration": 502
+    },
+    {
+      "id": "xQts9rKk-H8",
+      "title": "Tutorial 04: Dalvik Virtual Machine Android in hindi | Install Android Studio with JDK Procedure",
+      "duration": 469
+    },
+    {
+      "id": "VXbY7TO0XbI",
+      "title": "Tutorial 05: Android folder hierarchy in Hindi/Urdu | Hello world project in Android Studio Urdu",
+      "duration": 690
+    },
+    {
+      "id": "yH7S6G01cqs",
+      "title": "Tutorial 06: Linear layout in android using Horizontal and vertical orientation in Hindi/Urdu",
+      "duration": 1078
+    },
+    {
+      "id": "ZKBJi71Onjo",
+      "title": "Tutorial 07: Relative layout tutorial android in hindi| Relativelayout android with example in Hindi",
+      "duration": 895
+    },
+    {
+      "id": "6lLDOcBuBmA",
+      "title": "Tutorial 08: Table layout in Android Studio in Urdu / Hindi | Android TableLayout Urdu/Hindi",
+      "duration": 894
+    },
+    {
+      "id": "smKjkXrzCYs",
+      "title": "Tutorial 09: Grid layout in android studio in Urdu/hindi | Android gridlayout in Urdu/Hindi",
+      "duration": 534
+    },
+    {
+      "id": "SyMmrGlnHPQ",
+      "title": "Tutorial 10: Frame Layout tutorial in android studio 2020 in Urdu/Hindi | Android layouts in Urdu",
+      "duration": 642
+    },
+    {
+      "id": "lRj7mn2oXrw",
+      "title": "Tutorial 11: Absolute layout in android studio in Urdu/Hindi | layout_x layout_y in absolute layout",
+      "duration": 414
+    },
+    {
+      "id": "4fRqSj-2Xp8",
+      "title": "Tutorial 12: Constraint Layout in android studio in Urdu/Hindi |Android development tutorial in Urdu",
+      "duration": 814
+    },
+    {
+      "id": "VwiosanVyPg",
+      "title": "Tutorial 13: What is Toast in Android Studio|onClick OnClickListener onCreate in Android using Toast",
+      "duration": 889
+    },
+    {
+      "id": "zYb9cBY2L0s",
+      "title": "Tutorial 14: Custom Toast in Android Studio using ImageView and TextView in Hindi/Urdu| Custom Toast",
+      "duration": 642
+    },
+    {
+      "id": "yGBYvDl1D4o",
+      "title": "Tutorial 15: Toggle Button in Android Studio | Toggle Button with Push Button in Android Studio App",
+      "duration": 989
+    },
+    {
+      "id": "fCsT3W0C0E0",
+      "title": "Tutorial 16: Switch Toggle Button in Android Studio | Toggle Button vs Switch Button in Android",
+      "duration": 532
+    },
+    {
+      "id": "-3SQfbk6wbs",
+      "title": "Tutorial 17: Checkboxes in Android using basic example | Checkbox in android studio in Urdu/Hindi",
+      "duration": 999
+    },
+    {
+      "id": "qZ4CqiLBNsQ",
+      "title": "Tutorial 18: Date Picker and DatePickerDialog in Android Studio using click and click Listener Hindi",
+      "duration": 1656
+    },
+    {
+      "id": "m1w2SafpWpQ",
+      "title": "Tutorial 19: TimePicker and TimePicker dialog using Analog and Digital Clock in Android Studio Hindi",
+      "duration": 869
+    },
+    {
+      "id": "wFzoPHcCnyQ",
+      "title": "Tutorial 20: AnalogClock DigitalClock andTextClock In Android With Example in  Hindi/Urdu",
+      "duration": 888
+    },
+    {
+      "id": "hatDZqUWLBQ",
+      "title": "Tutorial 21: RatingBar in Android Studio using Click Event | How to create Rating Bar in Android",
+      "duration": 740
+    },
+    {
+      "id": "qlHmWRZxq_0",
+      "title": "Tutorial 22: ProgressBar in Android Studio Hindi/Urdu |Horizontal Progress Bar Circular Progress Bar",
+      "duration": 585
+    },
+    {
+      "id": "C2GuFfcgAGU",
+      "title": "Tutorial 23: SeekBar & SeekBar Discrete in Android | Difference between seekbar and seekbar discrete",
+      "duration": 829
+    },
+    {
+      "id": "DdKqMFJF0Mw",
+      "title": "Tutorial 24: Adapter in Android All types of Adapter | BaseAdapter using GridView in Andorid Studio",
+      "duration": 1289
+    },
+    {
+      "id": "SAwCIudq7fM",
+      "title": "Tutorial 25: SimpleAdapter in Android using ListView|Simple Adapter in android example in Hindi/Urdu",
+      "duration": 1439
+    },
+    {
+      "id": "fTe0RZm74YA",
+      "title": "Tutorial 26: Simple Custom Adapter for listview in Android | Custom SimpleAdapter in Android Studio",
+      "duration": 1492
+    },
+    {
+      "id": "EwHbZ_wXTR8",
+      "title": "Tutorial 27: ArrayAdapter with ListView in Android Studio|Array Adapter in Android Studio Hindi/Urdu",
+      "duration": 753
+    },
+    {
+      "id": "ShiT31l8zyA",
+      "title": "Tutorial 28: Custom ArrayAdapter in Android Studio using ImageView and GridView in Urdu / Hindi",
+      "duration": 1321
+    },
+    {
+      "id": "FoGTGkq5pCk",
+      "title": "Tutorial 29: Intent and its types EXPLICIT INTENT IMPLICIT INTENT in Android Studio in Hindi / Urdu",
+      "duration": 668
+    },
+    {
+      "id": "3Xr0vf8UlXA",
+      "title": "Tutorial 30: What is Fragment and its Life Cycle in Android with example | Fragment in Android",
+      "duration": 940
+    },
+    {
+      "id": "Uf9fzWQZmpA",
+      "title": "Tutorial 31:Primary Classes of fragment fragmentmanager fragmenttransaction fragmentactivity Android",
+      "duration": 751
+    },
+    {
+      "id": "Ro2Dcs5uJhs",
+      "title": "Tutorial 32: Spinner in Android Studio with Text and Images | Working with Spinner View In Android",
+      "duration": 867
+    },
+    {
+      "id": "_n_9fCJofas",
+      "title": "Tutorial 33: Custom Spinner in Android Studio using Images | Custom Spinner using ArrayAdapter",
+      "duration": 1031
+    },
+    {
+      "id": "ySqm7-yNz3w",
+      "title": "Tutorial 34: GridView using BaseAdapter in Android Studio using basic example | Grid View in Andorid",
+      "duration": 630
+    },
+    {
+      "id": "Mf9uhpWwaI0",
+      "title": "Tutorial 35: Part 2 - GridView using BaseAdapter in Android with Images and activity Hindi / Urdu",
+      "duration": 337
+    },
+    {
+      "id": "LFnKiJ-hRY0",
+      "title": "Tutorial 36: Horizontal and Vertical ScrollView in Android Studio basic example Hindi / Urdu",
+      "duration": 603
+    },
+    {
+      "id": "jr6RaJ996r4",
+      "title": "Tutorial 37: WebView in Android Studio | Display HTML TAGS and Websites in Android App using WebView",
+      "duration": 527
+    },
+    {
+      "id": "jGYLvleRROg",
+      "title": "Tutorial 38: Android Alert Dialog Box | Android Alert Dialog Box with Yes No and Image Hindi / Urdu",
+      "duration": 691
+    },
+    {
+      "id": "CHGSGmAclao",
+      "title": "Tutorial 39: Custom Alert Dialog Box in Android | setIcon setTitle setmessage in Custom AlertDialog",
+      "duration": 510
+    },
+    {
+      "id": "OAgo7eaipaA",
+      "title": "Tutorial 40: Recyclerview in Android Studio | Recyclerview in android using RecyclerView.Adapter",
+      "duration": 931
+    },
+    {
+      "id": "NGmtsf5UrEc",
+      "title": "Tutorial 41: CardView using Recyclerview and Toolbar in Android Studio|Android CardView with Example",
+      "duration": 1203
+    },
+    {
+      "id": "eOiEq25wFjM",
+      "title": "Tutorial 42: SIMPLE CALCULATOR APP in Android Studio with FREE Source Code | Calculator App Android",
+      "duration": 1128
+    },
+    {
+      "id": "EliFLC6YhEk",
+      "title": "Tutorial 43: Scientific CALCULATOR APP in Android Studio FREE Source Code |Scientific Calculator App",
+      "duration": 1235
+    },
+    {
+      "id": "D5F9VDttepA",
+      "title": "Tutorial 44: Full Page Slider using ViewPager and PagerAdapter in Android Studio Free [Source Code]",
+      "duration": 558
+    },
+    {
+      "id": "NC7iYm4LPcE",
+      "title": "Tutorial 45: Slider using ViewAnimator ImageAdapter in Android Studio | ViewAnimator With Example",
+      "duration": 517
+    },
+    {
+      "id": "1bzDOwGet5g",
+      "title": "Tutorial 46: Tween Animation in Android Studio Zoom In/Out, Clockwise rotate, Blink, Move, Slide",
+      "duration": 1053
+    },
+    {
+      "id": "oF0n4KDR4UI",
+      "title": "Tutorial 47:Text to Speech in Android using TextToSpeech.OnInitListener OnItemSelectedListener",
+      "duration": 538
+    },
+    {
+      "id": "NmAissIj0Ds",
+      "title": "Tutorial 48: Age calculator in Android | How to calculate age in years, months and days in android",
+      "duration": 499
+    },
+    {
+      "id": "Ditp_C79yxQ",
+      "title": "Tutorial 49: Countdown Timer in Android Studio | Android CountDown Timer Example",
+      "duration": 510
+    },
+    {
+      "id": "F8b2OrpfdGI",
+      "title": "Tutorial 50: Smart Alarm System in Android | Simple Android Alarm Application using AlarmManager",
+      "duration": 646
+    },
+    {
+      "id": "a_tS46nGWso",
+      "title": "Tutorial 51: [Android Built in Layout] - Basic Activity in Android Studio using Snackbar example",
+      "duration": 729
+    },
+    {
+      "id": "rsDCpRUeXvc",
+      "title": "Tutorial 52: [Android Built in Layout] Bottom Navigation Bar With Activities in Android Studio",
+      "duration": 698
+    },
+    {
+      "id": "Tga7xc8A3n0",
+      "title": "Tutorial 53: [Validation in Android] - Registration Form with Validation in Android using SARIPAAR",
+      "duration": 698
+    },
+    {
+      "id": "_5IIWUBzGbk",
+      "title": "Tutorial 54: Part 1 -Registration and Login Form in Android Studio using SQLite Database Source Code",
+      "duration": 1417
+    },
+    {
+      "id": "yPktMtYq4Wk",
+      "title": "Tutorial 55: Part 2 - Registration and Login Form in Android with Validation using SQLite Database",
+      "duration": 558
+    },
+    {
+      "id": "NBGvuu7087U",
+      "title": "Tutorial 56: Part 1-CRUD using Sqlite in Android | Create, Read, Update, Delete using Sqlite Android",
+      "duration": 966
+    },
+    {
+      "id": "7hl146aZZvY",
+      "title": "Tutorial 57: Part 2-CRUD using Sqlite in Android | Create, Read, Update, Delete using Sqlite Android",
+      "duration": 569
+    },
+    {
+      "id": "g1FZPGKtebo",
+      "title": "Tutorial 58:Part 1-CRUD with image in android Studio|Create Read Update Delete with image in android",
+      "duration": 1362
+    },
+    {
+      "id": "YQkqLiKK0hg",
+      "title": "Tutorial 59:Part 2-CRUD with image in android Studio|Create Read Update Delete with image in android",
+      "duration": 804
+    },
+    {
+      "id": "TJtlLA-J7KY",
+      "title": "Tutorial 60: Firebase Authentication in Android|How to use Firebase Authentication in Android Studio",
+      "duration": 1423
+    }
+  ]
+}

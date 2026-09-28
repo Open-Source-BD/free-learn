@@ -1,0 +1,235 @@
+{
+  "courseId": "solidity-0-8-blockchain-in-hindi-ffbe0c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:51.068Z",
+  "title": "Solidity ^0.8 | Blockchain | In Hindi",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "MERRq6GUQrI",
+      "title": "Introduction | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1198
+    },
+    {
+      "id": "ZJ4HVD43UAk",
+      "title": "Course Overview | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 535
+    },
+    {
+      "id": "ajJ6ZRG18EE",
+      "title": "Remix IDE Tour | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 651
+    },
+    {
+      "id": "NPvhYkvF0Yo",
+      "title": "Sample Smart Contract | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1901
+    },
+    {
+      "id": "gd2K3rO9jHo",
+      "title": "Solidity Compiler- ABI & Byte Code | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 472
+    },
+    {
+      "id": "1arQBz3SLUo",
+      "title": "Data Type- Value Types | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 737
+    },
+    {
+      "id": "P0KNVWRaFvY",
+      "title": "Introduction To Function | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 752
+    },
+    {
+      "id": "B-gYBc5alAE",
+      "title": "State Variable | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 484
+    },
+    {
+      "id": "T_kPrfT0OM0",
+      "title": "Local Variable | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 674
+    },
+    {
+      "id": "8dfHm7JLbRc",
+      "title": "Global Variable | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 573
+    },
+    {
+      "id": "Z7IxrF3Fpwk",
+      "title": "View, Pure And Simple Function | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 651
+    },
+    {
+      "id": "hWYwF14wei4",
+      "title": "Default Values | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 263
+    },
+    {
+      "id": "SK-meCKg1-4",
+      "title": "Strings | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 580
+    },
+    {
+      "id": "TT8P4xesse8",
+      "title": "Constants | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 473
+    },
+    {
+      "id": "ZTfA8QMCqbM",
+      "title": "Constructor  Blockchain  Solidity 0 8 in Hindi",
+      "duration": 578
+    },
+    {
+      "id": "2e_0tCMeS3U",
+      "title": "If-Else | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 608
+    },
+    {
+      "id": "IseOqZrngPo",
+      "title": "Ternary Operator | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 407
+    },
+    {
+      "id": "MdGk6ZmkzNQ",
+      "title": "Loops - For loop, While loop and Do-While loop | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1036
+    },
+    {
+      "id": "pEO0jamcLMc",
+      "title": "Continue and Break keyword | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1033
+    },
+    {
+      "id": "lx4IF73cJHM",
+      "title": "Fixed Size Array | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1857
+    },
+    {
+      "id": "vBYRn07Wwao",
+      "title": "Dynamic Size Array | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 772
+    },
+    {
+      "id": "Zq-318A4RTA",
+      "title": "Bytes | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1171
+    },
+    {
+      "id": "PERH1DVIWak",
+      "title": "Dynamic Bytes | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 557
+    },
+    {
+      "id": "myyhTtcSKw0",
+      "title": "Enums | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1337
+    },
+    {
+      "id": "VzJpjN3lxRY",
+      "title": "Struct | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 2461
+    },
+    {
+      "id": "FwmpNeaDSmY",
+      "title": "Mapping & Advanced Mapping | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1686
+    },
+    {
+      "id": "vrj6Woe3Ygk",
+      "title": "Visiblity | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 2240
+    },
+    {
+      "id": "Cma5LS9AZRQ",
+      "title": "Inheritance | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 925
+    },
+    {
+      "id": "kd7k8-Tz_sU",
+      "title": "Events | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1444
+    },
+    {
+      "id": "zbmgECeO14c",
+      "title": "Multiple Inheritance | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 905
+    },
+    {
+      "id": "5eW1r5nZgQw",
+      "title": "Overriding Parent Function In Multiple Inheritance | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 433
+    },
+    {
+      "id": "nFVFOPrP6Dw",
+      "title": "Passing Parameter To Parent Constructor In Multiple Inheritance | Blockchain | Solidity ^0.8 inHindi",
+      "duration": 972
+    },
+    {
+      "id": "SS2I58KSAxI",
+      "title": "Calling Parent Function | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1225
+    },
+    {
+      "id": "05o4uVRSfP8",
+      "title": "Require | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 751
+    },
+    {
+      "id": "CfqmiNvqqEs",
+      "title": "Revert and Assert | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 929
+    },
+    {
+      "id": "0vNYurjwrww",
+      "title": "Function Modifiers | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1617
+    },
+    {
+      "id": "fUeFCPlhfhE",
+      "title": "Payable | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 814
+    },
+    {
+      "id": "vbUWqXvnKXc",
+      "title": "Fallback and Receive | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1056
+    },
+    {
+      "id": "0U0g_CUqlho",
+      "title": "Send Ether- Send, Transfer, Call | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 576
+    },
+    {
+      "id": "TqKi5DUaaDg",
+      "title": "Send Ether- Send, transfer, call (CODE) | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1942
+    },
+    {
+      "id": "Gmra3-JIHJw",
+      "title": "Immutability | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 872
+    },
+    {
+      "id": "5WKQiSJqG84",
+      "title": "Data Location- Storage, Memory, and Calldata | Blockchain | Solidity ^0.8 in Hindi",
+      "duration": 1351
+    },
+    {
+      "id": "Du0aguUwinY",
+      "title": "Inbuilt Cryptographic Hash Function - Keccak256,Sha256,Ripemd160 |Blockchain | Solidity ^0.8 inHindi",
+      "duration": 973
+    },
+    {
+      "id": "W_nKWwJ_5FU",
+      "title": "Lottery Smart Contract | Blockchain | Solidity^0.8 In Hindi",
+      "duration": 1305
+    },
+    {
+      "id": "sI2mtHaKiCk",
+      "title": "Auction Smart Contract | Blockchain | Solidity^0.8 In Hindi",
+      "duration": 3880
+    }
+  ]
+}

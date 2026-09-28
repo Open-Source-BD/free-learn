@@ -1,0 +1,55 @@
+{
+  "courseId": "x64-assembly-language-ae012d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:12.578Z",
+  "title": "x64 Assembly Language",
+  "channel": "The Cyber Expert",
+  "videos": [
+    {
+      "id": "Nv-GTg3uICE",
+      "title": "[PRACTICAL]What is Reverse Engineering? Understanding CPU Registers[HINDI]",
+      "duration": 1300
+    },
+    {
+      "id": "HDLfy7JeWG8",
+      "title": "[PRACTICAL]What are System Calls??[HINDI]",
+      "duration": 1077
+    },
+    {
+      "id": "rXJ9sCVX1zM",
+      "title": "[PRACTICAL]Assembly For Reverse Engineering[HINDI]",
+      "duration": 2038
+    },
+    {
+      "id": "yOLAr0Ye8jk",
+      "title": "[PRACTICAL]Printing Hello World In x64 Assembly Language[HINDI]",
+      "duration": 1790
+    },
+    {
+      "id": "CuXtR01PsUg",
+      "title": "[PRACTICAL]Taking User Input in x64 Assembly[HINDI]",
+      "duration": 1966
+    },
+    {
+      "id": "YBB0unCm7kM",
+      "title": "[PRACTICAL]Basic Maths In x64 Assembly. Introduction To Debugging[HINDI]",
+      "duration": 1767
+    },
+    {
+      "id": "0UmtYcieopI",
+      "title": "[PRACTICAL]Conditional Branching in x64 Assembly[HINDI]",
+      "duration": 2203
+    },
+    {
+      "id": "lmReT81jdkQ",
+      "title": "[PRACTICAL]Loops and Calling Convention in x64 Assembly[HINDI]",
+      "duration": 1998
+    },
+    {
+      "id": "400dY1yL7W4",
+      "title": "[PRACTICAL]Final Project x64 Assembly[HINDI]",
+      "duration": 2040
+    }
+  ]
+}

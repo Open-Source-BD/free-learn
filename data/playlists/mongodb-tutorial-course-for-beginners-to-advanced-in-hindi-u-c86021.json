@@ -1,0 +1,175 @@
+{
+  "courseId": "mongodb-tutorial-course-for-beginners-to-advanced-in-hindi-u-c86021",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbysebQ-yBd7ZHYGPMuFvvyD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:16.625Z",
+  "title": "MongoDB Tutorial Course for Beginners to Advanced in Hindi / Urdu",
+  "channel": "YOOBABA",
+  "videos": [
+    {
+      "id": "q1V1A9ZcpKo",
+      "title": "MongoDB Introduction Tutorial in Hindi/Urdu",
+      "duration": 953
+    },
+    {
+      "id": "skBh4ft-IjI",
+      "title": "MongoDB Installation on Windows Tutorial in Hindi / Urdu",
+      "duration": 830
+    },
+    {
+      "id": "iEb-ap9TOO0",
+      "title": "MongoDB Installation on MacOS Tutorial in Hindi/Urdu",
+      "duration": 516
+    },
+    {
+      "id": "P3ePCC1K40Q",
+      "title": "MongoDB Create Database & Collections Tutorial in Hindi / Urdu",
+      "duration": 978
+    },
+    {
+      "id": "SaPPUV6tVRM",
+      "title": "MongoDB Insert Document in Collection Tutorial in Hindi Urdu",
+      "duration": 789
+    },
+    {
+      "id": "Z3pnpP90K7c",
+      "title": "MongoDB Data Types Tutorial in Hindi / Urdu",
+      "duration": 1324
+    },
+    {
+      "id": "mO81XZAmFr8",
+      "title": "MongoDB JSON Schema Validation Tutorial in Hindi / Urdu",
+      "duration": 1856
+    },
+    {
+      "id": "Aox_DHFnqTg",
+      "title": "MongoDB Update & Replace Documents Tutorial in Hindi / Urdu",
+      "duration": 2029
+    },
+    {
+      "id": "cUq0upSof34",
+      "title": "MongoDB Delete Document Tutorial in Hindi / Urdu",
+      "duration": 527
+    },
+    {
+      "id": "THQP1EhvTDk",
+      "title": "MongoDB Find Document Tutorial in Hindi / Urdu",
+      "duration": 1499
+    },
+    {
+      "id": "3HHyQOV-9LU",
+      "title": "MongoDB Comparison Query Operators Tutorial in Hindi / Urdu",
+      "duration": 950
+    },
+    {
+      "id": "QXbmrRJmxNs",
+      "title": "MongoDB Logical Operators Tutorial in Hindi / Urdu",
+      "duration": 1266
+    },
+    {
+      "id": "NnWG59wMYIs",
+      "title": "MongoDB Element Query Operators Tutorial in Hindi / Urdu",
+      "duration": 677
+    },
+    {
+      "id": "bYgbqchjtgI",
+      "title": "MongoDB Evaluation Query Operators Tutorial in Hindi / Urdu",
+      "duration": 1401
+    },
+    {
+      "id": "8EuluG46ysk",
+      "title": "MongoDB FindOneAndUpdate FindOneAndReplace FindOneAndDelete Tutorial in Hindi / Urdu",
+      "duration": 1545
+    },
+    {
+      "id": "3sJbtnfmnYQ",
+      "title": "MongoDB Aggregation Pipeline Operators Tutorial in Hindi / Urdu",
+      "duration": 1617
+    },
+    {
+      "id": "2sHcSQNvBm8",
+      "title": "MongoDB Aggregation $group Operator Tutorial in Hindi / Urdu",
+      "duration": 1862
+    },
+    {
+      "id": "sIIJHVdm7sA",
+      "title": "MongoDB Aggregation $lookUp Operator Tutorial in Hindi / Urdu",
+      "duration": 1770
+    },
+    {
+      "id": "i5X3BjvrB9U",
+      "title": "MongoDB $bucket & $bucketAuto Operator Tutorial in Hindi / Urdu",
+      "duration": 1199
+    },
+    {
+      "id": "xLdOjrX46Kw",
+      "title": "MongoDB $addFields & $unwind Operator Tutorial in Hindi / Urdu",
+      "duration": 2010
+    },
+    {
+      "id": "jVw89Bh8zPE",
+      "title": "MongoDB $out $merge & $unionWith Operator Tutorial in Hindi / Urdu",
+      "duration": 1404
+    },
+    {
+      "id": "O3YTVz98XMw",
+      "title": "MongoDB $facet & $fill Operator Tutorial in Hindi / Urdu",
+      "duration": 1856
+    },
+    {
+      "id": "RMKf2AS9r34",
+      "title": "MongoDB Arithmetic Operators Tutorial in Hindi / Urdu",
+      "duration": 1202
+    },
+    {
+      "id": "r4xAUGR7m3s",
+      "title": "MongoDB String Operators Tutorial in Hindi / Urdu",
+      "duration": 2977
+    },
+    {
+      "id": "bKIFrtpwAws",
+      "title": "MongoDB Date Operators Tutorial in Hindi / Urdu",
+      "duration": 2295
+    },
+    {
+      "id": "ZR8P6-gCfME",
+      "title": "MongoDB Array Operators Tutorial in Hindi / Urdu",
+      "duration": 3266
+    },
+    {
+      "id": "rQXuHD4wWcg",
+      "title": "MongoDB Type Operators Tutorial in Hindi / Urdu",
+      "duration": 1490
+    },
+    {
+      "id": "EOE8FNRC6gU",
+      "title": "MongoDb Conditional Operators Tutorial in Hindi Urdu",
+      "duration": 1360
+    },
+    {
+      "id": "1WOIh7Apf5A",
+      "title": "MongoDb Capped Collection Tutorial in Hindi / Urdu",
+      "duration": 1378
+    },
+    {
+      "id": "eax7V8RKjkE",
+      "title": "MongoDB Indexes Tutorial in Hindi / Urdu",
+      "duration": 2114
+    },
+    {
+      "id": "9svsSHQTpUI",
+      "title": "MongoDB Import JSON Tutorial in Hindi / Urdu",
+      "duration": 609
+    },
+    {
+      "id": "Yr_dPdSPhbw",
+      "title": "MongoDB Database Backup and Restore Tutorial in Hindi / Urdu",
+      "duration": 1559
+    },
+    {
+      "id": "90szdRqZTeo",
+      "title": "MongoDB Authentication & User Management Tutorial in Hindi / Urdu",
+      "duration": 2366
+    }
+  ]
+}

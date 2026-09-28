@@ -1,0 +1,470 @@
+{
+  "courseId": "angular-in-depth-5d9d62",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:30.556Z",
+  "title": "Angular In Depth (Hindi)",
+  "channel": "Computer Baba",
+  "videos": [
+    {
+      "id": "bRTiIRPU5A0",
+      "title": "1. Angular Architecture | Angular In Depth (Hindi)",
+      "duration": 723
+    },
+    {
+      "id": "ugeoLTnoMos",
+      "title": "2. Angular Setup & Install | Angular In Depth (Hindi)",
+      "duration": 720
+    },
+    {
+      "id": "rcwWXwP2wO8",
+      "title": "3. Basics of a Component | Angular In Depth (Hindi)",
+      "duration": 589
+    },
+    {
+      "id": "cw0JHGGJxV0",
+      "title": "4. Interpolation - Data Binding | Angular In Depth (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "pmdev8RsGYk",
+      "title": "5. Property Binding - Data Binding  | Angular In Depth (Hindi)",
+      "duration": 828
+    },
+    {
+      "id": "88h65rgDjng",
+      "title": "6. Attribute Binding - Data Binding | Angular In Depth (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "GE-tixZwcOE",
+      "title": "7. Class and Style Binding - Data Binding  | Angular In Depth (Hindi)",
+      "duration": 486
+    },
+    {
+      "id": "5N2kl6dZK2o",
+      "title": "8. Event Binding - Data Binding | Angular In Depth (Hindi)",
+      "duration": 665
+    },
+    {
+      "id": "VFO-Fk2GdtM",
+      "title": "9. One Way Data Binding Practice - Part 1 | Angular In Depth (Hindi)",
+      "duration": 900
+    },
+    {
+      "id": "uWNQFfibWkQ",
+      "title": "10. One Way Data Binding Practice - Part 2 | Angular In Depth (Hindi)",
+      "duration": 1134
+    },
+    {
+      "id": "aIV3OPZve-c",
+      "title": "11. NgStyle & NgClass - Built-in Attribute Directives | Angular In Depth (Hindi)",
+      "duration": 655
+    },
+    {
+      "id": "noDj6u-WIWs",
+      "title": "12. NgIf - Built-in Structural Directive | Angular In Depth (Hindi)",
+      "duration": 601
+    },
+    {
+      "id": "H1MkTeiav1c",
+      "title": "13. NgFor - Built-in Structural Directive (with practice) | Angular In Depth (Hindi)",
+      "duration": 1588
+    },
+    {
+      "id": "cgw1Kc5yF-c",
+      "title": "14. NgSwitch - Built-in Structural Directive | Angular In Depth (Hindi)",
+      "duration": 793
+    },
+    {
+      "id": "yktz1MSjd_E",
+      "title": "15. Pipes - Template Expression Operator | Angular In Depth (Hindi)",
+      "duration": 1550
+    },
+    {
+      "id": "sHRFBTsbJ04",
+      "title": "16. Template Reference Variable | Angular In Depth (Hindi)",
+      "duration": 509
+    },
+    {
+      "id": "22fs9O3Aw_Y",
+      "title": "17. Creating Components & Child Components  | Angular In Depth (Hindi)",
+      "duration": 1100
+    },
+    {
+      "id": "hgzLD5TdzFY",
+      "title": "18. @Input()  Decorator - (Part A) Passing data from parent to child comp | Angular In Depth (Hindi)",
+      "duration": 557
+    },
+    {
+      "id": "1QrC1n3eBdY",
+      "title": "19. @Input() Decorator - (Part B) Passing Array and Objects to child comp | Angular In Depth (Hindi)",
+      "duration": 968
+    },
+    {
+      "id": "5K7_9OEZaig",
+      "title": "20. @Output() Decorator - Passing data from child to parent via event | Angular In Depth (Hindi)",
+      "duration": 1037
+    },
+    {
+      "id": "oeXykhecc74",
+      "title": "21. @Input() and @Output() Decorators Combined Use | Angular In Depth (Hindi)",
+      "duration": 1014
+    },
+    {
+      "id": "JXqmvZqwoKQ",
+      "title": "22. @Input() & @Output() Decorators with Two Way Data Binding - (Part A)  | Angular In Depth (Hindi)",
+      "duration": 675
+    },
+    {
+      "id": "aYkue5z_SQU",
+      "title": "23. @Input() & @Output() Decorators with Two Way Data Binding - (Part B)  | Angular In Depth (Hindi)",
+      "duration": 825
+    },
+    {
+      "id": "qu9xXMaf-3g",
+      "title": "24. @Input() & @Output() Decorators With NgFor - Mini Task (Part 1) | Angular In Depth (Hindi)",
+      "duration": 516
+    },
+    {
+      "id": "T-QG8MzuVfQ",
+      "title": "25. @Input() & @Output() Decorators With NgFor - Mini Task (Part 2) | Angular In Depth (Hindi)",
+      "duration": 722
+    },
+    {
+      "id": "9j3vC0IMj60",
+      "title": "26. @Input() & @Output() Decorators With NgFor - Mini Task (Part 3) | Angular In Depth (Hindi)",
+      "duration": 927
+    },
+    {
+      "id": "ozy_e4m665w",
+      "title": "27. @Input() & @Output() Decorators With NgFor - Mini Task (Part 4) | Angular In Depth (Hindi)",
+      "duration": 452
+    },
+    {
+      "id": "QlQR5q95lB8",
+      "title": "28. ngTemplate - If-Else block | (Part 1) | Angular In Depth (Hindi)",
+      "duration": 846
+    },
+    {
+      "id": "fUQx93b54Fc",
+      "title": "29. ngTemplate - If-Then-Else block | ngFor & ngSwitchCase | (Part 2) | Angular In Depth (Hindi)",
+      "duration": 932
+    },
+    {
+      "id": "rc5qoPaohRE",
+      "title": "30. ngTemplate - Internal Behavior Explained | (Part 3) | Angular In Depth (Hindi)",
+      "duration": 686
+    },
+    {
+      "id": "Igsj-mw_MzE",
+      "title": "31. ngContainer and Use cases - Part A | Angular In Depth (Hindi)",
+      "duration": 798
+    },
+    {
+      "id": "duDkhM7_rw0",
+      "title": "32. ngContainer & Conversion to ngTemplate - Part B | Angular In Depth (Hindi)",
+      "duration": 346
+    },
+    {
+      "id": "TqR_NdyHJGo",
+      "title": "33. NgTemplateOutlet - Built-in Structural Directive With Use Case | Angular In Depth (Hindi)",
+      "duration": 1285
+    },
+    {
+      "id": "o5ijALINsKQ",
+      "title": "34. Content Projection - The Problem of passing HTML to Child | (Part 1) | Angular In Depth (Hindi)",
+      "duration": 1166
+    },
+    {
+      "id": "I8FhSlLboTM",
+      "title": "35. Content Projection - ngContent | Project External Contents | (Part 2) | Angular In Depth (Hindi)",
+      "duration": 1018
+    },
+    {
+      "id": "ZrT2LyFrrKk",
+      "title": "36. Content Projection - ngContent | Problems & Internal working (Part 3) | Angular In Depth (Hindi)",
+      "duration": 1405
+    },
+    {
+      "id": "TUIhPKM6UXM",
+      "title": "37. Content Projection - Spawn projection multiple times (Part 4) | Angular In Depth (Hindi)",
+      "duration": 1011
+    },
+    {
+      "id": "fadQHP5U2jI",
+      "title": "38. The ngTemplate Reference Projection Use Case : Mini task (Part 1) | Angular In Depth (Hindi)",
+      "duration": 929
+    },
+    {
+      "id": "gl_gFnxZAUY",
+      "title": "39. The ngTemplate Reference Projection Use Case : Mini task (Part 2) | Angular In Depth (Hindi)",
+      "duration": 761
+    },
+    {
+      "id": "DgSJltBmvf4",
+      "title": "40. The ngTemplate Reference Projection Use Case : Mini task (Part 3) | Angular In Depth (Hindi)",
+      "duration": 605
+    },
+    {
+      "id": "EiWJP_TuJOk",
+      "title": "41. Component lifecycle architecture: ViewData and ViewDefinition  | Angular In Depth (Hindi)",
+      "duration": 1578
+    },
+    {
+      "id": "3McjgxGJo4c",
+      "title": "42. Component lifecycle: Phases, lifecycle hooks & uni-directional flow  | Angular In Depth (Hindi)",
+      "duration": 1818
+    },
+    {
+      "id": "lmuGJ2Ozi1U",
+      "title": "43. Component lifecycle: Parent and child component lifecycle process | Angular In Depth (Hindi)",
+      "duration": 1050
+    },
+    {
+      "id": "b6JTgqDuOF0",
+      "title": "44. Component lifecycle: Constructor and use of it | Angular In Depth (Hindi)",
+      "duration": 917
+    },
+    {
+      "id": "1_FDNWX5Enc",
+      "title": "45. Component constructor - The @Attribute( ) decorator | Angular In Depth (Hindi)",
+      "duration": 476
+    },
+    {
+      "id": "8QESzvZpgmY",
+      "title": "46. Component lifecycle: ngOnChanges Introduction - Part 1 | Angular In Depth (Hindi)",
+      "duration": 598
+    },
+    {
+      "id": "SzM2hZuuvqs",
+      "title": "47. Component lifecycle: ngOnChanges Use Case - Part 2 | Angular In Depth (Hindi)",
+      "duration": 551
+    },
+    {
+      "id": "nlG4UiF3OSU",
+      "title": "48. Component lifecycle: ngOnChanges | firstChange Use Case - Part 3 | Angular In Depth (Hindi)",
+      "duration": 455
+    },
+    {
+      "id": "FlIcpuiholo",
+      "title": "49. Component lifecycle: ngOnChanges | Setter & Getter - Part A | Angular In Depth (Hindi)",
+      "duration": 703
+    },
+    {
+      "id": "8yrhBTJGKqo",
+      "title": "50. Component lifecycle: ngOnChanges | Setter & Getter - Part B | Angular In Depth (Hindi)",
+      "duration": 758
+    },
+    {
+      "id": "koPrlOFc19E",
+      "title": "51. Component lifecycle: Custom Decorator & ngOnChanges Object Accessors | Angular In Depth (Hindi)",
+      "duration": 793
+    },
+    {
+      "id": "sV89qSTgwvU",
+      "title": "52. Component lifecycle: ngOnInit and Constructor difference | Never seen | Angular In Depth (Hindi)",
+      "duration": 731
+    },
+    {
+      "id": "PFnjOl62iiY",
+      "title": "53. Component lifecycle: ngAfterContentInit and @ContentChild | Part A | Angular In Depth (Hindi)",
+      "duration": 748
+    },
+    {
+      "id": "tObVybWjZGE",
+      "title": "54. Component lifecycle: ngAfterContentInit and @ContentChild | Part B | Angular In Depth (Hindi)",
+      "duration": 428
+    },
+    {
+      "id": "6fszmqqrZ8w",
+      "title": "55. Component lifecycle: ngAfterContentInit | ContentChildren & QueryList | Angular In Depth (Hindi)",
+      "duration": 848
+    },
+    {
+      "id": "FtmoyerqDO4",
+      "title": "56. Component lifecycle: ngAfterContentInit and QueryList Change | Angular In Depth (Hindi)",
+      "duration": 594
+    },
+    {
+      "id": "Zy-mTKZ_kOs",
+      "title": "57. Component lifecycle: ngAfterContentChecked with example - Part A  | Angular In Depth (Hindi)",
+      "duration": 570
+    },
+    {
+      "id": "r2wy61qahXE",
+      "title": "58. Component lifecycle: ngAfterContentChecked & Use Case - Part B  | Angular In Depth (Hindi)",
+      "duration": 601
+    },
+    {
+      "id": "bmH5OYWRcUw",
+      "title": "59. Component lifecycle: ngAfterViewInit & @ViewChild | Angular In Depth (Hindi)",
+      "duration": 1014
+    },
+    {
+      "id": "FhaJaNpbczg",
+      "title": "60. Component lifecycle: ngAfterViewInit & @ViewChild Component query | Angular In Depth (Hindi)",
+      "duration": 1001
+    },
+    {
+      "id": "4nYlO9TsK60",
+      "title": "61. Component lifecycle: Expression Changed After Checked Error Explained | Angular In Depth (Hindi)",
+      "duration": 2593
+    },
+    {
+      "id": "CiPFUpakSS4",
+      "title": "62. Component lifecycle: @ViewChildren & ngAfterViewInit - Part A | Angular In Depth (Hindi)",
+      "duration": 741
+    },
+    {
+      "id": "otbtHMUwecQ",
+      "title": "63. Component lifecycle: @ViewChildren & Component query - Part B | Angular In Depth (Hindi)",
+      "duration": 883
+    },
+    {
+      "id": "9r-ymcT6-10",
+      "title": "64. Component lifecycle: ngAfterViewChecked - Usage | Pros and Cons | Angular In Depth (Hindi)",
+      "duration": 2120
+    },
+    {
+      "id": "hkAJp2hWZoI",
+      "title": "65. The read option in @ViewChild & @ViewChildren - Part A | Angular In Depth (Hindi)",
+      "duration": 1279
+    },
+    {
+      "id": "akerOyyKJe0",
+      "title": "66. The read & descendants in @ContentChild & @ContentChildren - Part B | Angular In Depth (Hindi)",
+      "duration": 881
+    },
+    {
+      "id": "64aknCwbj1I",
+      "title": "67. Component lifecycle: ngDoCheck | Use Cases & Cons | Angular In Depth (Hindi)",
+      "duration": 1083
+    },
+    {
+      "id": "kmaJZLcHkWM",
+      "title": "68. Component lifecycle: ngOnDestroy - Memory leaks & Freeing Resources | Angular In Depth (Hindi)",
+      "duration": 1003
+    },
+    {
+      "id": "wiWaIS6Yvjk",
+      "title": "69. Custom Pipes - Transformation Principle | Pure & Impure Pipes | Angular In Depth (Hindi)",
+      "duration": 1256
+    },
+    {
+      "id": "50w36yfiW_8",
+      "title": "70. Custom Pipes - Pure Pipes | Angular In Depth (Hindi)",
+      "duration": 1037
+    },
+    {
+      "id": "5_x300nNz20",
+      "title": "71. Custom Pipes - Impure Pipes | Angular In Depth (Hindi)",
+      "duration": 1076
+    },
+    {
+      "id": "xeqH3HbeR4E",
+      "title": "72. Custom Pipes - State & Cached value | Pure & Impure Pipes | Angular In Depth (Hindi)",
+      "duration": 974
+    },
+    {
+      "id": "5XaGwwIJXiI",
+      "title": "73. Custom Pipes -  Disposable Resource & Async Impure Pipe | Angular In Depth (Hindi)",
+      "duration": 1233
+    },
+    {
+      "id": "MIfuYJIGjIU",
+      "title": "74. Custom Pipes - Memoizing functions using Pure Pipe | Angular In Depth (Hindi)",
+      "duration": 1555
+    },
+    {
+      "id": "5nCTego9JVg",
+      "title": "75. Async Pipe - Built-In Pipe | Subscribe Observables & Promises | Angular In Depth (Hindi)",
+      "duration": 673
+    },
+    {
+      "id": "1lJ2yofwsL8",
+      "title": "76. Custom Directives - Complete Guide | Attribute & Structural Directive | Angular In Depth (Hindi)",
+      "duration": 1084
+    },
+    {
+      "id": "O_STeD_VM0M",
+      "title": "77. Custom Directives - How to create & Types of selectors | Angular In Depth (Hindi)",
+      "duration": 627
+    },
+    {
+      "id": "YQoMdcPyacw",
+      "title": "78. Custom Directives - ElementRef, TemplateRef & ViewContainerRef | Angular In Depth (Hindi)",
+      "duration": 1108
+    },
+    {
+      "id": "5W6yxplURLc",
+      "title": "79. Custom Attribute Directive - Create image preview Directive | Part 1 | Angular In Depth (Hindi)",
+      "duration": 785
+    },
+    {
+      "id": "y4emwPpjTUM",
+      "title": "80. Custom Attribute Directive - Input data using same name Prop | Part 2 | Angular In Depth (Hindi)",
+      "duration": 643
+    },
+    {
+      "id": "2jIADzKe8Uo",
+      "title": "81. Custom Attribute Directive - Pass data using multiple inputs | Part 3 | Angular In Depth (Hindi)",
+      "duration": 773
+    },
+    {
+      "id": "I6GbrNEqR9k",
+      "title": "82. Custom Attribute Directive - Custom events & Output bindings | Part 4 | Angular In Depth (Hindi)",
+      "duration": 383
+    },
+    {
+      "id": "wIMHwaV_dAg",
+      "title": "83. Custom Attribute Directive - @HostListener & @HostBinding | Part 5 | Angular In Depth (Hindi)",
+      "duration": 523
+    },
+    {
+      "id": "-iC_T0M8f6U",
+      "title": "84. Custom Attribute Directive - exportAs | Usage & Benefits | Part 6 | Angular In Depth (Hindi)",
+      "duration": 707
+    },
+    {
+      "id": "S1BX5Kh775E",
+      "title": "85. Custom Attribute Directive - Applying Multiple Directives on Element | Angular In Depth (Hindi)",
+      "duration": 935
+    },
+    {
+      "id": "jGXJNLwzR7Y",
+      "title": "86. Custom Attribute Directive - Child & Children Queries | Angular In Depth (Hindi)",
+      "duration": 631
+    },
+    {
+      "id": "qGsMFMVWIPA",
+      "title": "87. Custom Structural Directive - Intro | TemplateRef & ViewContainerRef | Angular In Depth (Hindi)",
+      "duration": 1010
+    },
+    {
+      "id": "nmdcdRW3ync",
+      "title": "88. Custom Structural Directive - Directive Grammar & Microsyntax | Angular In Depth (Hindi)",
+      "duration": 2478
+    },
+    {
+      "id": "3nUGIiXANpY",
+      "title": "89. Structural Directive - NgIf & NgFor | Grammar & Microsyntax Explained | Angular In Depth (Hindi)",
+      "duration": 881
+    },
+    {
+      "id": "lDAvrDJsYdw",
+      "title": "90. Custom Structural Directive - Image Outlet | Preview before upload | Angular In Depth (Hindi)",
+      "duration": 859
+    },
+    {
+      "id": "fB03sjUOlCM",
+      "title": "91. Custom Structural Directive - Range | Generate Templates b/w Numbers | Angular In Depth (Hindi)",
+      "duration": 740
+    },
+    {
+      "id": "aU5y2M7KSpQ",
+      "title": "92. Custom Structural Directive - Limitations | Angular In Depth (Hindi)",
+      "duration": 627
+    }
+  ]
+}

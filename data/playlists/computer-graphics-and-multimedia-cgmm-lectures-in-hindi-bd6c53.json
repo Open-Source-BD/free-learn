@@ -1,0 +1,135 @@
+{
+  "courseId": "computer-graphics-and-multimedia-cgmm-lectures-in-hindi-bd6c53",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:20.310Z",
+  "title": "Computer Graphics and Multimedia(CGMM) Lectures in Hindi",
+  "channel": "Easy Engineering Classes",
+  "videos": [
+    {
+      "id": "ykOv5pm9Blg",
+      "title": "CGMM Lecture 1 in Hindi : Basics  of  Line  Drawing Algorithms | Computer Graphics Classes",
+      "duration": 1190
+    },
+    {
+      "id": "dM0DmjHvkFM",
+      "title": "CGMM Lecture 2 in Hindi : Brute Force Approach for Line Drawing | Computer Graphics Classes",
+      "duration": 871
+    },
+    {
+      "id": "OSy6qic1Us4",
+      "title": "CGMM Lecture 3 in Hindi : DDA Line Drawing Algorithm  | Computer Graphics Classes",
+      "duration": 1208
+    },
+    {
+      "id": "2PJx4ivfAZw",
+      "title": "CGMM Lecture 4 - DDA Line Algorithm Solved Example for Lines with Positive Slope(Hindi)",
+      "duration": 918
+    },
+    {
+      "id": "QOnwP6xKiBM",
+      "title": "CGMM Lecture 5 - DDA Line Algorithm Solved Example for Lines with Negative Slope(Hindi)",
+      "duration": 656
+    },
+    {
+      "id": "F6fy54LUlFI",
+      "title": "CGMM Lecture 6 - DDA Line Algorithm Solved Example for Horizontal and Vertical Lines(Hindi)",
+      "duration": 751
+    },
+    {
+      "id": "tWdv1fKeM_A",
+      "title": "CGMM Lecture 7 : Bresenham's Line Drawing Algorithm - Disadvantages of DDA Line Drawing Algo",
+      "duration": 2307
+    },
+    {
+      "id": "011_1Jkm39I",
+      "title": "CGMM Lecture 8 | Step by Step Procedure of Bresenham's Line Drawing Algorithm(Hindi)",
+      "duration": 1236
+    },
+    {
+      "id": "2i0u7cv82pg",
+      "title": "CGMM Lecture 9 | Solved Example No. 2 for Bresenham's Line Drawing Algorithm",
+      "duration": 885
+    },
+    {
+      "id": "Atu6ZXePMtA",
+      "title": "CGMM Lecture 10 | Bresenham's Line Drawing Algorithm for Lines with Slope b/w -1 and 0",
+      "duration": 1032
+    },
+    {
+      "id": "aG9VLRFa-2k",
+      "title": "CGMM Video 11 : Midpoint Circle Drawing Algorithm Introduction in Hindi/English",
+      "duration": 1057
+    },
+    {
+      "id": "UxquV4h6-Eo",
+      "title": "CGMM Lecture 12: Derivation of Midpoint Circle Drawing Algorithm - Hindi/English",
+      "duration": 1716
+    },
+    {
+      "id": "cArcbtjBk_A",
+      "title": "CGMM Lecture 13 : Solved Numerical on Midpoint Circle Drawing Algorithm : Hindi/English",
+      "duration": 1166
+    },
+    {
+      "id": "9FcOmr6DPM0",
+      "title": "CGMM Lecture 14 - Bresenham Circle Drawing Algorithm Introduction - Hindi/English",
+      "duration": 944
+    },
+    {
+      "id": "h9uJg4z0H8I",
+      "title": "CGMM Lecture 15 | Bresenham Circle Drawing Algorithm Derivation | Hindi/English",
+      "duration": 1155
+    },
+    {
+      "id": "ZgWXOxKNXMw",
+      "title": "CGMM Lecture 16 : Bresenham Circle Drawing Algorithm Solved Numerical in Hindi/English",
+      "duration": 791
+    },
+    {
+      "id": "3FDusdODHI8",
+      "title": "CGMM Lecture 17 : Midpoint Ellipse Drawing Algorithm Part 1 in Hindi/English",
+      "duration": 806
+    },
+    {
+      "id": "FGEus8EjHsE",
+      "title": "CGMM Lecture 18 | Midpoint Ellipse Drawing Algorithm(Derivation) Part 2 - Hindi/English",
+      "duration": 1535
+    },
+    {
+      "id": "Yf7EV9JkCNM",
+      "title": "CGMM Lecture 19 | Solved Numerical example of Midpoint Ellipse Drawing Algorithm(Hindi/English)",
+      "duration": 1554
+    },
+    {
+      "id": "Npuv_AzK4fw",
+      "title": "CGMM Lecture 20 | Basics of Clipping, Clip Window & Point Clipping - Hindi/English",
+      "duration": 867
+    },
+    {
+      "id": "iNQayBpHNFs",
+      "title": "CGMM Lecture 21 | Cohen Sutherland Line Clipping Algorithm Part 1 - Hindi/English",
+      "duration": 1515
+    },
+    {
+      "id": "Kq7L9S1LRGw",
+      "title": "Data Compression Introduction, Data Compression Types(Lossless, Lossy), Imp Terms - CGMM Hindi",
+      "duration": 883
+    },
+    {
+      "id": "u3g6kKJYlr4",
+      "title": "Run Length Coding – Lossless Compression, Solved Examples, Drawback of RLE(Hindi)",
+      "duration": 530
+    },
+    {
+      "id": "sT9YgEiTr4A",
+      "title": "Huffman Code Data Compression in Hindi – Algorithm , Solved Examples",
+      "duration": 762
+    },
+    {
+      "id": "rEChzhlJa9c",
+      "title": "Lempel ZiV Code Data Compression in Hindi – Algorithm , Solved Examples",
+      "duration": 500
+    }
+  ]
+}

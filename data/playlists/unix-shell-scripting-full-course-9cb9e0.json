@@ -1,0 +1,120 @@
+{
+  "courseId": "unix-shell-scripting-full-course-9cb9e0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6UwySlcwEYIZGsbXnUxsojD0yeUA67lb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:34.962Z",
+  "title": "Unix Shell Scripting Full Course",
+  "channel": "AmpCode",
+  "videos": [
+    {
+      "id": "lqYSCSgFefM",
+      "title": "Basics of Unix / Linux | Lecture #1 | Unix Shell Scripting Tutorial",
+      "duration": 764
+    },
+    {
+      "id": "eimpjkuovZk",
+      "title": "File Management in Unix / Linux | Lecture #2 | Unix Shell Scripting Tutorial",
+      "duration": 1015
+    },
+    {
+      "id": "8zxfYJnjXFg",
+      "title": "Directories in Unix / Linux | Lecture #3 | Unix Shell Scripting Tutorial",
+      "duration": 763
+    },
+    {
+      "id": "HvonLym2eDw",
+      "title": "Unix / Linux File Permission | Lecture #4 | Unix Shell Scripting Tutorial",
+      "duration": 961
+    },
+    {
+      "id": "hpybXv8-V7k",
+      "title": "Unix Environment Variables | Lecture #5 | Unix Shell Scripting Tutorial",
+      "duration": 879
+    },
+    {
+      "id": "DTC5V5GyaNk",
+      "title": "Unix/Linux Pipes and Filters | grep, sort, pg Commands | Lecture #6 | Shell Scripting Tutorial",
+      "duration": 810
+    },
+    {
+      "id": "MTrDRzriC68",
+      "title": "vi Editor in Unix | Lecture #7 | Unix Shell Scripting Tutorial",
+      "duration": 938
+    },
+    {
+      "id": "aJcglXZpoGI",
+      "title": "Shell Scripting Basic Concepts | Lecture #8 | Unix Shell Scripting Tutorial",
+      "duration": 657
+    },
+    {
+      "id": "WkiGqO2rTZ0",
+      "title": "Variables in Shell Scripting | Lecture #9 | Unix Shell Scripting Tutorial",
+      "duration": 596
+    },
+    {
+      "id": "T9k0dlCp3D8",
+      "title": "Arrays in Shell Scripting | Lecture #10 | Unix Shell Scripting Tutorial",
+      "duration": 758
+    },
+    {
+      "id": "Gh5nki69ma0",
+      "title": "Basic Operators in Shell Scripting | Lecture #11 | Unix Shell Scripting Tutorial",
+      "duration": 861
+    },
+    {
+      "id": "pH3ROfiNjEw",
+      "title": "Decision Making in Shell Script | IF ELSE ELIF | Lecture #12 | Shell Scripting Tutorial",
+      "duration": 622
+    },
+    {
+      "id": "ZtV3qKN0goQ",
+      "title": "Loops in Shell Scripting | Lecture #13 | Unix Shell Scripting Tutorial",
+      "duration": 792
+    },
+    {
+      "id": "bYVpBb2voR4",
+      "title": "Loop Control in Unix Shell Scripting | Lecture #14 | Shell Scripting Tutorial",
+      "duration": 700
+    },
+    {
+      "id": "uETxLq9YbJI",
+      "title": "Substitution in Unix Shell Scripting | Lecture #15 | Shell Scripting Tutorial",
+      "duration": 530
+    },
+    {
+      "id": "Qh57khuBmt8",
+      "title": "Quoting Mechanism in Unix Shell Scripting | Lecture #16 | Shell Scripting Tutorial",
+      "duration": 757
+    },
+    {
+      "id": "rXJNoK_Nk5Q",
+      "title": "Input Output Redirection in Unix Shell Scripting | Lecture #17 | Shell Scripting Tutorial",
+      "duration": 481
+    },
+    {
+      "id": "Qge43XoDizU",
+      "title": "Man Page Help in Unix Shell Scripting | Lecture #18 | Shell Scripting Tutorial",
+      "duration": 382
+    },
+    {
+      "id": "AjCdC6MBnYw",
+      "title": "Functions in Unix Shell Scripting | Lecture #19 | Shell Scripting Tutorial",
+      "duration": 765
+    },
+    {
+      "id": "0xG8H9XUkLE",
+      "title": "Stream Editor (SED Command) in Unix Shell Scripting | Lecture #20 | Shell Scripting Tutorial",
+      "duration": 717
+    },
+    {
+      "id": "mJzQOuGBd_k",
+      "title": "File System in Unix Shell Scripting | Lecture #21 | Shell Scripting Tutorial",
+      "duration": 811
+    },
+    {
+      "id": "wmqXEleSrXY",
+      "title": "Unix/Linux User Administration | Lecture #22 | Shell Scripting Tutorial",
+      "duration": 599
+    }
+  ]
+}

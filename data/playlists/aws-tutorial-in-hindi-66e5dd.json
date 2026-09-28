@@ -1,0 +1,210 @@
+{
+  "courseId": "aws-tutorial-in-hindi-66e5dd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_OdF9Z6GmVZCwyfd8n6_50jcE_Xlz1je",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:36.555Z",
+  "title": "AWS Tutorial in HINDI",
+  "channel": "S3CloudHub",
+  "videos": [
+    {
+      "id": "CrpPG0Cz6xc",
+      "title": "AWS in Hindi | AWS Introduction in HINDI| AWS Tutorial For Beginners| Cloud career",
+      "duration": 772
+    },
+    {
+      "id": "LN0k5igG-GI",
+      "title": "#01 What is AWS | Why AWS | Why to Learn AWS | AWS Tutorial For Beginners| aws in hindi",
+      "duration": 613
+    },
+    {
+      "id": "UQCK_MG6tVU",
+      "title": "#02 How to Create AWS Free Account  | AWS Tutorial in Hindi | aws account creation",
+      "duration": 290
+    },
+    {
+      "id": "LQnjGypB-2g",
+      "title": "#03 AWS Console Overview and Budget setup | Aws Tutorial in Hindi",
+      "duration": 280
+    },
+    {
+      "id": "HWjxONLNdsw",
+      "title": "#04 aws region vs availability zone | aws in hindi | AWS - Regions, AZ Availability Zones",
+      "duration": 277
+    },
+    {
+      "id": "GBWQSyCzlFk",
+      "title": "AWS Security - IAM (Part-1) | Users, Groups, Policy - Identity & Access Management",
+      "duration": 359
+    },
+    {
+      "id": "8B9Nv_uuWX8",
+      "title": "AWS Security - IAM (Part-2) | Users, Groups, Policy - Identity & Access Management",
+      "duration": 559
+    },
+    {
+      "id": "cOxJnNmAFVo",
+      "title": "#4 AWS Tutorial For Beginners in HINDI | S3 Tutorial | Introduction of S3 |aws in hindi",
+      "duration": 583
+    },
+    {
+      "id": "vbbIUW79LeA",
+      "title": "#5 AWS Tutorial For Beginners in HINDI | How to create S3 Bucket | aws in hindi",
+      "duration": 443
+    },
+    {
+      "id": "Oz1jwpV4ZaI",
+      "title": "AWS Tutorial For Beginners | Life Cycle Policy, IA, Glacier (LAB) | AWS in Hindi |",
+      "duration": 394
+    },
+    {
+      "id": "wdIk-ce7Mew",
+      "title": "#7 AWS in Hindi | S3 Tutorial | Cross-Region Replication (CRR) LAB | aws in hindi",
+      "duration": 467
+    },
+    {
+      "id": "R5B0PLrCT4I",
+      "title": "AWS EC2 Instance Tutorial | Step-by-Step Guide to Launch and Manage EC2 Instances in Hindi",
+      "duration": 566
+    },
+    {
+      "id": "J30qvDKDfhY",
+      "title": "How to SSH into AWS EC2 Instances | Hindi",
+      "duration": 256
+    },
+    {
+      "id": "_hbjy0Hyrx4",
+      "title": "AWS | EC2 Tutorial: How to Set Up Security Groups on EC2 (Step-by-Step Guide) | AWS in Hindi |",
+      "duration": 411
+    },
+    {
+      "id": "6tNMOwNJXzM",
+      "title": "AWS - Difference between Elastic, Public & Private IP | PART-1 | HINDI",
+      "duration": 253
+    },
+    {
+      "id": "eczSdqfUgA8",
+      "title": "AWS - Difference between Elastic, Public & Private IP | PART-2 | DEMO | HINDI",
+      "duration": 387
+    },
+    {
+      "id": "IrNUomSp3Gs",
+      "title": "Amazon AWS EC2 Basics, AMI Creation Step-by-Step, and AWS Guide for Beginners | AWS in Hindi |",
+      "duration": 359
+    },
+    {
+      "id": "NkSNwSWuemA",
+      "title": "AWS Elastic Block Storage (EBS) Tutorial: Master EBS Volumes & Snapshots | AWS in Hindi |",
+      "duration": 902
+    },
+    {
+      "id": "Uk_SH5zT7Ok",
+      "title": "AWS Elastic Load Balancer (ELB) Tutorial | Configure ELB & Add Web Servers | AWS in Hindi |",
+      "duration": 516
+    },
+    {
+      "id": "HvR94ZJOZvw",
+      "title": "Amazon CloudWatch Tutorial | CloudWatch Metrics, Alarms, Events, Detailed Monitoring | AWS in Hindi|",
+      "duration": 326
+    },
+    {
+      "id": "7728yFTR5Zc",
+      "title": "AWS Command Line Interface (CLI) Tutorial: Introduction, Installation, and Configuration | Hindi |",
+      "duration": 286
+    },
+    {
+      "id": "v_KfIQ0L04s",
+      "title": "AWS Tutorial | How to Use IAM Roles with Amazon EC2 Instances | AWS in Hindi |",
+      "duration": 149
+    },
+    {
+      "id": "kmcQ5vMZ4w8",
+      "title": "#16 AWS Tutorial in HINDI | Bootstrap EC2 instances with userdata from the AWS Console",
+      "duration": 414
+    },
+    {
+      "id": "9YYN8gvwbiI",
+      "title": "#17 Introduction to Amazon Elastic File System (EFS) in HINDI - Cloud File Storage on AWS",
+      "duration": 977
+    },
+    {
+      "id": "j-V1FHsH_kE",
+      "title": "#19 How to Access EC2 Metadata in HINDI",
+      "duration": 142
+    },
+    {
+      "id": "2C4V6fQEbDg",
+      "title": "#20 How to use auto scaling your applications with AWS in Hindi | @S3CloudHub",
+      "duration": 844
+    },
+    {
+      "id": "H9ntTa70Fzg",
+      "title": "#22 [HINDI] Introduction to Amazon DynamoDB | Amazon web services Tutorial",
+      "duration": 419
+    },
+    {
+      "id": "3M9MAcFzBEY",
+      "title": "#23 Amazon AWS RDS | How to create and connect RDS Database Instance| rds in aws in hindi",
+      "duration": 949
+    },
+    {
+      "id": "tZaiJHxmsZI",
+      "title": "#24 How to Create a AWS RDS Snapshot and Restore from Snapshot in HINDI",
+      "duration": 310
+    },
+    {
+      "id": "_nDpSINmuNw",
+      "title": "#25 Introduction to Microsoft SQL Server in AWS | AWS database tutorial in HINDI",
+      "duration": 438
+    },
+    {
+      "id": "HLNIPk9s0u8",
+      "title": "#26 Introduction to the Amazon ElastiCache Service in HINDI | elasticache redis tutorial",
+      "duration": 288
+    },
+    {
+      "id": "vqktKtlPmYE",
+      "title": "AWS Tutorial for Beginners: Mastering AWS CloudFront and CDN with a Hands-On Lab | AWS in Hindi |",
+      "duration": 350
+    },
+    {
+      "id": "boo5byWZGu4",
+      "title": "#28 AWS Route 53 Domain Name Setup in HINDI | aws in hindi | route 53 in hindi",
+      "duration": 298
+    },
+    {
+      "id": "facPFziy5CQ",
+      "title": "#28 AWS VPC Tutorial in Hindi | Public & Private Subnets, Route Tables, Internet & NAT Gateways",
+      "duration": 375
+    },
+    {
+      "id": "QSg6tJu1bLU",
+      "title": "#29 AWS VPC Demo in HINDI | Creating a VPC, Subnets, and Base Security Groups",
+      "duration": 965
+    },
+    {
+      "id": "0VcRANh7QsA",
+      "title": "#30AWS ElastiCache Configuration Example | Using AWS ElastiCache Redis",
+      "duration": 329
+    },
+    {
+      "id": "z2z1wxsaT1U",
+      "title": "#31 AWS - Public & Private Instances, Network ACL (with demo) - Hindi",
+      "duration": 556
+    },
+    {
+      "id": "FZano-7mnuY",
+      "title": "#32 HINDI-How to use a NAT Gateway for Internet Access from Private Subnet in AWS VPC",
+      "duration": 541
+    },
+    {
+      "id": "9MenrhRPaAo",
+      "title": "Application Load Balancing in AWS | AWS Training  | Application load balancer | AWS ELB",
+      "duration": 837
+    },
+    {
+      "id": "hotbxGD5wnk",
+      "title": "Career guidance for Cloud Technology",
+      "duration": 217
+    }
+  ]
+}

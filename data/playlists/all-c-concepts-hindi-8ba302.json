@@ -1,0 +1,740 @@
+{
+  "courseId": "all-c-concepts-hindi-8ba302",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:54.555Z",
+  "title": "Programming in C",
+  "channel": "MySirG.com",
+  "videos": [
+    {
+      "id": "08vc8DQZWz4",
+      "title": "C Program | Swapping of two Integers | MySirG.com",
+      "duration": 215
+    },
+    {
+      "id": "rKRLcvmNUbM",
+      "title": "Programming in C Swapping without third variable",
+      "duration": 381
+    },
+    {
+      "id": "X9ADZwl-gOM",
+      "title": "Programming in C Printing name without semicolon",
+      "duration": 295
+    },
+    {
+      "id": "wDUyxXaHxhM",
+      "title": "Programming in C   Check Even number without % operator",
+      "duration": 366
+    },
+    {
+      "id": "GVuR-Tsgnok",
+      "title": "Program of Linked List Explained Part 1 Hindi",
+      "duration": 1473
+    },
+    {
+      "id": "96gXgZ5CqeY",
+      "title": "Program of Linked List Explained Part 2 Hindi",
+      "duration": 1342
+    },
+    {
+      "id": "Mu2o0UmKofo",
+      "title": "Program that allows integer input only",
+      "duration": 498
+    },
+    {
+      "id": "zHOv4B_cp8Q",
+      "title": "Program of Linked List Explained Part 3 Hindi",
+      "duration": 1227
+    },
+    {
+      "id": "PODvbWRuZ6s",
+      "title": "Program of Fibonacci Series with Recursion in C Hindi",
+      "duration": 536
+    },
+    {
+      "id": "NSwXAathwsM",
+      "title": "Program to draw a coloured circle Hindi",
+      "duration": 801
+    },
+    {
+      "id": "NCVfQjCsNSg",
+      "title": "Program to calculate length of the string in C Hindi",
+      "duration": 489
+    },
+    {
+      "id": "wcTxLKu2C2w",
+      "title": "Program to add two numbers in C",
+      "duration": 1057
+    },
+    {
+      "id": "lIebnTH-Umw",
+      "title": "Program to calculate length of string using strlen function in C",
+      "duration": 309
+    },
+    {
+      "id": "lxXOHuE6U7U",
+      "title": "Program to reverse a string using strrev function in C",
+      "duration": 475
+    },
+    {
+      "id": "AKin18xCj7Y",
+      "title": "Program to reverse a string without using strrev in C Language",
+      "duration": 734
+    },
+    {
+      "id": "TuqhEvEBHgg",
+      "title": "Program to calculate area of circle in C Language",
+      "duration": 622
+    },
+    {
+      "id": "nmxom_i7kew",
+      "title": "Program to print first 10 natural numbers using loop in C language",
+      "duration": 891
+    },
+    {
+      "id": "_ln27a5nXwk",
+      "title": "Printing first 10 natural numbers in reverse using loop in C language",
+      "duration": 981
+    },
+    {
+      "id": "SglLytWdbF0",
+      "title": "Printing first N natural numbers using loop in C language",
+      "duration": 495
+    },
+    {
+      "id": "rC_z4013lRo",
+      "title": "Printing first N natural numbers in reverse using loop in C language",
+      "duration": 572
+    },
+    {
+      "id": "pR2glqK3VUc",
+      "title": "Printing first 10 even natural numbers using loop in C language",
+      "duration": 539
+    },
+    {
+      "id": "08vleW56mdc",
+      "title": "Printing first N even natural numbers using loop in C language",
+      "duration": 576
+    },
+    {
+      "id": "kDLQzguicPQ",
+      "title": "Program to print System Date in C language",
+      "duration": 935
+    },
+    {
+      "id": "cixzRDHsTiY",
+      "title": "Printing first 10 odd natural numbers using loop in C language",
+      "duration": 768
+    },
+    {
+      "id": "p5ZH4z9HUyY",
+      "title": "Printing first N odd natural numbers using loop in C",
+      "duration": 812
+    },
+    {
+      "id": "IZSLHw1c6_4",
+      "title": "Program to count digits in a number in C language",
+      "duration": 871
+    },
+    {
+      "id": "l4e-69-uNNs",
+      "title": "Program to calculate sum of digits of a number in C language",
+      "duration": 860
+    },
+    {
+      "id": "9shZiw97MoA",
+      "title": "Program to reverse a number in C language",
+      "duration": 839
+    },
+    {
+      "id": "URB38hzV_DY",
+      "title": "Program to add two matrices in C",
+      "duration": 594
+    },
+    {
+      "id": "DmHfB7o6vKc",
+      "title": "Program to multiply two matrices in C language",
+      "duration": 1412
+    },
+    {
+      "id": "OhYGk94q3CM",
+      "title": "Program to calculate LCM of two numbers in C language",
+      "duration": 1236
+    },
+    {
+      "id": "_phhGuu2iow",
+      "title": "Program to calculate sum of first N natural numbers in C",
+      "duration": 963
+    },
+    {
+      "id": "Tj_eENK-o5k",
+      "title": "Program to calculate product of first N natural numbers in C",
+      "duration": 776
+    },
+    {
+      "id": "gh5UNVQ5_Zk",
+      "title": "Program to calculate HCF of two numbers in C language",
+      "duration": 879
+    },
+    {
+      "id": "1hoUWN3-D1Y",
+      "title": "Program to print all Armstrong numbers under 1000 in C language",
+      "duration": 956
+    },
+    {
+      "id": "sYbvERjC-y0",
+      "title": "Program to calculate x power y in C",
+      "duration": 841
+    },
+    {
+      "id": "2dtBZeBDA-8",
+      "title": "Program to check whether a number is Prime or not in C",
+      "duration": 1127
+    },
+    {
+      "id": "CZIErnInnbY",
+      "title": "Program to print all prime numbers between two numbers in C",
+      "duration": 972
+    },
+    {
+      "id": "JkFYESnVazY",
+      "title": "Program to print all prime factors of a number in C",
+      "duration": 1216
+    },
+    {
+      "id": "A0WG2uYQuFI",
+      "title": "Program to calculate sum of all even and odd numbers in C",
+      "duration": 811
+    },
+    {
+      "id": "I_faTZ5RZXU",
+      "title": "Program to print first N terms of Fibonacci series in C",
+      "duration": 885
+    },
+    {
+      "id": "pfqD7TgoqC8",
+      "title": "Program to find greater among three numbers in C",
+      "duration": 1653
+    },
+    {
+      "id": "0gMRJAkbqyw",
+      "title": "How to reverse a linked list in C Hindi",
+      "duration": 1798
+    },
+    {
+      "id": "I-xLIB2Sf18",
+      "title": "Happy Valentine's Day Program in C",
+      "duration": 1498
+    },
+    {
+      "id": "6irHnysGbSI",
+      "title": "Star Pattern 1 Program in C Language",
+      "duration": 1192
+    },
+    {
+      "id": "hje73IXa8hI",
+      "title": "Star Pattern 2 Program in C language Hindi",
+      "duration": 752
+    },
+    {
+      "id": "63R1UuaFQVE",
+      "title": "Star Pattern 3 Program in C language",
+      "duration": 1054
+    },
+    {
+      "id": "rPPbyLq_hDo",
+      "title": "Star Pattern 4 Program in C",
+      "duration": 958
+    },
+    {
+      "id": "0q9O3HmLEqA",
+      "title": "Program to check co prime numbers in C language",
+      "duration": 1192
+    },
+    {
+      "id": "yGCQ9if5I-8",
+      "title": "Star Pattern 5 Program in C",
+      "duration": 1005
+    },
+    {
+      "id": "wHDgTbSpFGo",
+      "title": "Program to print N co prime numbers in C language",
+      "duration": 1004
+    },
+    {
+      "id": "JWMKN7OW_SA",
+      "title": "Star Pattern 6 Program in C Hindi",
+      "duration": 992
+    },
+    {
+      "id": "O0iAjT27nZQ",
+      "title": "Star Pattern 7 Program in C",
+      "duration": 785
+    },
+    {
+      "id": "1yUUelJsRs0",
+      "title": "Star Pattern 8 Program in C",
+      "duration": 874
+    },
+    {
+      "id": "nEvDsMud17M",
+      "title": "Star Pattern 9 Program in C",
+      "duration": 1186
+    },
+    {
+      "id": "YqluI21SCeM",
+      "title": "Star Pattern 10 Program in C Hindi",
+      "duration": 1446
+    },
+    {
+      "id": "FHkmQDC1mFo",
+      "title": "Program to transform a string into its uppercase without using strupr in C Hindi",
+      "duration": 937
+    },
+    {
+      "id": "rx-muNpSs_g",
+      "title": "Star Pattern 11 Program in C Hindi",
+      "duration": 1155
+    },
+    {
+      "id": "qeZIaO9Q9K4",
+      "title": "Program to find roots of quadratic equation in C language",
+      "duration": 1064
+    },
+    {
+      "id": "BXdnMQiAqZc",
+      "title": "Star Pattern 12 Program in C Language",
+      "duration": 923
+    },
+    {
+      "id": "GUY5k6gok6w",
+      "title": "Star Pattern 13 Program in C Language",
+      "duration": 1029
+    },
+    {
+      "id": "GvQID_8TILM",
+      "title": "Program to sort strings in dictionary order in C language",
+      "duration": 1052
+    },
+    {
+      "id": "dRW_edTTZSY",
+      "title": "Star Pattern 14 Program in C Language",
+      "duration": 943
+    },
+    {
+      "id": "GcF2AMqlFyY",
+      "title": "Star Pattern 15 Program in C",
+      "duration": 1153
+    },
+    {
+      "id": "we6FjeeKrZ8",
+      "title": "Function to calculate sum of first N natural numbers in C language",
+      "duration": 1341
+    },
+    {
+      "id": "4YriRAf25M8",
+      "title": "Star Pattern 16 Program in C",
+      "duration": 1374
+    },
+    {
+      "id": "uWoMVwF_Xoc",
+      "title": "Function to calculate sum of squares of N natural numbers in C Language",
+      "duration": 1169
+    },
+    {
+      "id": "M2ofZTiLuBs",
+      "title": "Star Pattern 17 Program in C Language",
+      "duration": 1029
+    },
+    {
+      "id": "1s7aXlvIl8Q",
+      "title": "Star Pattern 18 Program in C Language",
+      "duration": 597
+    },
+    {
+      "id": "GYyAKq1LkZA",
+      "title": "Star Pattern 19 Program in C",
+      "duration": 801
+    },
+    {
+      "id": "baQcNkvm-Z8",
+      "title": "Program to check whether a number is divisible by 5 or not in C",
+      "duration": 849
+    },
+    {
+      "id": "-pLTE7Vt-_s",
+      "title": "Star Pattern 20 Program in C",
+      "duration": 778
+    },
+    {
+      "id": "XzlCm4Qx6Ek",
+      "title": "Program to calculate Factorial of a number in C",
+      "duration": 882
+    },
+    {
+      "id": "WCHxVfN6_2E",
+      "title": "Function to calculate Factorial of a number in C",
+      "duration": 662
+    },
+    {
+      "id": "Kuaj9g6NDF8",
+      "title": "Program to print Pascal Triangle in C Language Hindi",
+      "duration": 1620
+    },
+    {
+      "id": "R090kjqt3NY",
+      "title": "Program of circular linked list in C Part 1 Hindi",
+      "duration": 1929
+    },
+    {
+      "id": "wSzAoYVOh7Q",
+      "title": "Program of circular linked list in C Part 2 Hindi",
+      "duration": 770
+    },
+    {
+      "id": "YIV1tLKrt80",
+      "title": "Program of circular linked list in C Part 3 Hindi",
+      "duration": 411
+    },
+    {
+      "id": "M-jeTKpb9A4",
+      "title": "Program of Circular linked list in C Part 4 Hindi",
+      "duration": 365
+    },
+    {
+      "id": "pDFaR0dBqTw",
+      "title": "Program of circular linked list in C Part 5 Hindi",
+      "duration": 521
+    },
+    {
+      "id": "RmnUA1UpqnY",
+      "title": "Program of circular linked list in C Part 6 Hindi",
+      "duration": 843
+    },
+    {
+      "id": "jeJObT3K8Ls",
+      "title": "Program of circular linked list in C Part 7 hindi",
+      "duration": 1276
+    },
+    {
+      "id": "6eSoubJSCDc",
+      "title": "Program of circular linked list in C Part 8 Hindi",
+      "duration": 1618
+    },
+    {
+      "id": "6LubLAnTwdc",
+      "title": "Star Pattern 21 Program in C",
+      "duration": 536
+    },
+    {
+      "id": "KEib760tcno",
+      "title": "Star Pattern 22 Program in C",
+      "duration": 985
+    },
+    {
+      "id": "zQ2X-KGIfqs",
+      "title": "Star Pattern 23 Program in C Language Hindi",
+      "duration": 439
+    },
+    {
+      "id": "rmmAUb9vQoc",
+      "title": "Star Pattern 24 Program in C Hindi",
+      "duration": 690
+    },
+    {
+      "id": "oWyRhlpnCU8",
+      "title": "Star Pattern 25 Program in C Language",
+      "duration": 1512
+    },
+    {
+      "id": "2IIX77d5Sd8",
+      "title": "Program to generate 10 distinct numbers in a given range in C",
+      "duration": 1160
+    },
+    {
+      "id": "UxtojbMsAzs",
+      "title": "Program to rotate an array by n positions in C language",
+      "duration": 980
+    },
+    {
+      "id": "YWbt8oEioqg",
+      "title": "Program to print table of users choice in C language",
+      "duration": 542
+    },
+    {
+      "id": "eodWsoyd9g4",
+      "title": "Star Pattern 26 Program in C",
+      "duration": 717
+    },
+    {
+      "id": "6qkSXIEdnMY",
+      "title": "C program to express a number as a sum of two prime numbers",
+      "duration": 1674
+    },
+    {
+      "id": "cYUvaSLVGx8",
+      "title": "Star Pattern 27 Program in C Language",
+      "duration": 999
+    },
+    {
+      "id": "LT5PDQvd_dA",
+      "title": "C Program to check whether a string is palindrome or not",
+      "duration": 1349
+    },
+    {
+      "id": "Scc4YfX-eXE",
+      "title": "C Program to count words in a sentence",
+      "duration": 1764
+    },
+    {
+      "id": "r27hfqIBOpI",
+      "title": "C Program to reverse a string word wise",
+      "duration": 2250
+    },
+    {
+      "id": "REZCAjoyxV4",
+      "title": "C Program to check even or odd without modulus and bitwise operator",
+      "duration": 512
+    },
+    {
+      "id": "ilxVPfTatqM",
+      "title": "C Program to print name 5 times using loop Hindi",
+      "duration": 1076
+    },
+    {
+      "id": "VRGuZwQpwgk",
+      "title": "C Program to print first N even natural numbers in reverse order Hindi",
+      "duration": 589
+    },
+    {
+      "id": "PB7aTtbfD-A",
+      "title": "C Program to print first N odd natural numbers in reverse order Hindi",
+      "duration": 584
+    },
+    {
+      "id": "hRtQIdJrEMY",
+      "title": "C Program to calculate sum of first N even natural numbers Hindi",
+      "duration": 742
+    },
+    {
+      "id": "A6OrTKtyl6Q",
+      "title": "Star Pattern 28 Program in C Language",
+      "duration": 1432
+    },
+    {
+      "id": "c9UWBTEip6Q",
+      "title": "C program to find sum of first N odd natural numbers",
+      "duration": 910
+    },
+    {
+      "id": "njtSdWlth4Q",
+      "title": "Star Pattern 29 Program in C language Hindi",
+      "duration": 1066
+    },
+    {
+      "id": "Je2SDD9saHk",
+      "title": "C Program to remove adjacent duplicate characters from a string",
+      "duration": 819
+    },
+    {
+      "id": "DaaDbTQjBUU",
+      "title": "Sum of series 1 Program in C language",
+      "duration": 675
+    },
+    {
+      "id": "J63br_H6E9Y",
+      "title": "Print first N prime numbers in C language",
+      "duration": 986
+    },
+    {
+      "id": "bCSxNOhXc14",
+      "title": "Star Pattern 30 Program in C Language Hindi",
+      "duration": 1714
+    },
+    {
+      "id": "JjMUzJYZqLs",
+      "title": "C Program to sort an array using recursion",
+      "duration": 1083
+    },
+    {
+      "id": "dI1chKTCAKE",
+      "title": "Program to check even and odd in C language",
+      "duration": 598
+    },
+    {
+      "id": "NjnGNW5LgLc",
+      "title": "Program to find greater between two numbers in C language",
+      "duration": 464
+    },
+    {
+      "id": "VCBs3yfcgm0",
+      "title": "C Program to convert binary to decimal",
+      "duration": 966
+    },
+    {
+      "id": "E09QBxJ3zmE",
+      "title": "C Program to convert binary to decimal improved logic",
+      "duration": 1060
+    },
+    {
+      "id": "QtP3iTSBpZk",
+      "title": "C Program to check whether a string is alphanumeric or not",
+      "duration": 598
+    },
+    {
+      "id": "S78LVUajk6o",
+      "title": "Star Pattern 31 Program in C Language Hindi",
+      "duration": 1114
+    },
+    {
+      "id": "lkjoK6eB44M",
+      "title": "Recursive function to print first N natural number in C language",
+      "duration": 657
+    },
+    {
+      "id": "mHnAR0MEhPM",
+      "title": "Star pattern 32 Program in C Language",
+      "duration": 811
+    },
+    {
+      "id": "QsUQrTly6uY",
+      "title": "Recursive function to print first N natural numbers in reverse order in C language",
+      "duration": 582
+    },
+    {
+      "id": "bSBTcQNPNqc",
+      "title": "How to print %d using printf in C language",
+      "duration": 513
+    },
+    {
+      "id": "yMS3-TN_rcU",
+      "title": "Star Pattern 33 Program in  C Language Hindi",
+      "duration": 898
+    },
+    {
+      "id": "yX8vhLTaOuI",
+      "title": "Star Pattern 34 Program in C Language Hindi",
+      "duration": 1357
+    },
+    {
+      "id": "e_h1gABuA08",
+      "title": "Star Pattern 35 Program in C Language Hindi",
+      "duration": 1400
+    },
+    {
+      "id": "PB1nPAo3dq0",
+      "title": "Program to print ASCII chart in C language",
+      "duration": 588
+    },
+    {
+      "id": "R-meb8n8dxI",
+      "title": "Define structure student in C language Hindi",
+      "duration": 1015
+    },
+    {
+      "id": "O_NKFQ77ahI",
+      "title": "Recursive function in C language to calculate determinant part 1 of 3 Hindi",
+      "duration": 793
+    },
+    {
+      "id": "qLDDwT-kPAk",
+      "title": "Recursive function in C language to calculate determinant part 2 of 3 Hindi",
+      "duration": 893
+    },
+    {
+      "id": "2fWSU6DMt7Y",
+      "title": "Recursive function in C language to calculate determinant part 3 of 3 Hindi",
+      "duration": 541
+    },
+    {
+      "id": "wkjGFx_TXgE",
+      "title": "Program to print first n positive numbers with two bits set in C language first logic Hindi",
+      "duration": 1089
+    },
+    {
+      "id": "0XVzw9JFp2I",
+      "title": "Program to print first n positive numbers with two bits set in C language second logic Hindi",
+      "duration": 900
+    },
+    {
+      "id": "_DE-iL5odmI",
+      "title": "Star Pattern 36 Program in C Language Hindi",
+      "duration": 577
+    },
+    {
+      "id": "KKgtHo-9bLc",
+      "title": "Recursive function to calculate sum of digits in C language Hindi",
+      "duration": 581
+    },
+    {
+      "id": "cTUNea6hgZc",
+      "title": "Recursive function to calculate sum of squares of digits in C language Hindi",
+      "duration": 495
+    },
+    {
+      "id": "JBb2qUnXluU",
+      "title": "Recursive function to calculate sum of cubes of first N natural numbers in C language Hindi",
+      "duration": 503
+    },
+    {
+      "id": "nfRW5UZjinY",
+      "title": "C Program to find smallest among 10 numbers Hindi",
+      "duration": 551
+    },
+    {
+      "id": "IlGlSykPqOM",
+      "title": "C Program to find greatest among 10 numbers Hindi",
+      "duration": 598
+    },
+    {
+      "id": "n29AVuZBQIA",
+      "title": "How to input variable length String in C language Hindi",
+      "duration": 2188
+    },
+    {
+      "id": "27UrePr-gEk",
+      "title": "C Program to check leap year",
+      "duration": 794
+    },
+    {
+      "id": "uW_qmsUFMng",
+      "title": "C Program to count vowels in a given string",
+      "duration": 815
+    },
+    {
+      "id": "R313hqBo-iA",
+      "title": "C Program to find substring in a string",
+      "duration": 1162
+    },
+    {
+      "id": "t0PpbJTgn2Y",
+      "title": "C Program to move your name",
+      "duration": 865
+    },
+    {
+      "id": "TB7y-QxwUuk",
+      "title": "How to print a character without format specifier in C language",
+      "duration": 427
+    },
+    {
+      "id": "kilzZwIZHnI",
+      "title": "C program to change the colour of console window | MySirG.com",
+      "duration": 381
+    },
+    {
+      "id": "_ij-cMnXw6U",
+      "title": "Variadic Function in C Language | MySirG | Hindi",
+      "duration": 901
+    },
+    {
+      "id": "Ch-NfNZo6TQ",
+      "title": "C Language MCQ Quiz | Test your skills | MySirG",
+      "duration": 570
+    },
+    {
+      "id": "k-1UsNnJ_E0",
+      "title": "C Language MCQ Quiz-2 | Test your skills | MySirG",
+      "duration": 706
+    }
+  ]
+}
