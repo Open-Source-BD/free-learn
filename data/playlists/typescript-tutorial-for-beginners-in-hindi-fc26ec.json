@@ -1,0 +1,195 @@
+{
+  "courseId": "typescript-tutorial-for-beginners-in-hindi-fc26ec",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:35:10.417Z",
+  "title": "Typescript Tutorial for Beginners in Hindi",
+  "channel": "Thapa Technical",
+  "videos": [
+    {
+      "id": "Xciunyug99U",
+      "title": "Typescript Tutorial in Hindi #1: Introduction to Typescript with Advantages & Disadvantages",
+      "duration": 647
+    },
+    {
+      "id": "JXiGf9eazvc",
+      "title": "TypeScript Tutorial in Hindi #2: Prerequisites, Installation and First Program in Typescript",
+      "duration": 679
+    },
+    {
+      "id": "Ek0LMDfTupE",
+      "title": "TypeScript Tutorial in Hindi #3: Deep Dive into TS Code, Catching Errors & Solving & TS Config File",
+      "duration": 772
+    },
+    {
+      "id": "gCv2Fyth33A",
+      "title": "Typescript Tutorial #4:  Mastering Type Annotations in TS with Practical Examples and In-depth Q&A",
+      "duration": 1480
+    },
+    {
+      "id": "6iZJiJH8CPU",
+      "title": "#5: Typescript Boolean and Bigint Types with Practical Examples🔥Typescript Tutorial in Hindi",
+      "duration": 1056
+    },
+    {
+      "id": "A8djjeABV-4",
+      "title": "Typescript Tutorial #6: Differences ANY vs UNKOWN Types with Practical Examples🔥",
+      "duration": 822
+    },
+    {
+      "id": "yYgLCHSyw7Q",
+      "title": "#8: TypeScript Function Mastery: Understanding Invocation, Declaration, and Return Types in Hindi",
+      "duration": 1034
+    },
+    {
+      "id": "QJLMZyZt89c",
+      "title": "#7: TypeScript Type Inference: Ask in Interview Question with Best Practices | Typescript Tutorial",
+      "duration": 562
+    },
+    {
+      "id": "GJlAshOHMA8",
+      "title": "#9 : Understanding Optional and Default Parameters in TypeScript Functions in Hindi",
+      "duration": 687
+    },
+    {
+      "id": "dX_Z5DMkZ8Q",
+      "title": "TypeScript Array Tutorial #10: Initializing, Accessing, and Checking Length of an Array in Hindi",
+      "duration": 650
+    },
+    {
+      "id": "RRaZzF6xIOU",
+      "title": "#11:  TypeScript Arrays👉Methods and Iterations Explained with Practical Examples",
+      "duration": 630
+    },
+    {
+      "id": "BSBc8EMlzdE",
+      "title": "#12: TypeScript Array Map and Filter Methods Explained with Examples",
+      "duration": 822
+    },
+    {
+      "id": "IA1KlkmeqmA",
+      "title": "#13: TypeScript Objects Explained: Everything You Need to Know with Real Life Example",
+      "duration": 882
+    },
+    {
+      "id": "fVSW3N6Oobw",
+      "title": "#14: TypeScript Type Aliases: Making Your Code Easier to Read & Maintain🚀",
+      "duration": 921
+    },
+    {
+      "id": "cA7Pqw72LAQ",
+      "title": "#15: Call Signatures in TypeScript with Real-life Examples & Best Practices 🧑‍💻",
+      "duration": 900
+    },
+    {
+      "id": "J3DcFIFE7SE",
+      "title": "#16: Enums in Typescript Explained with Real-life Examples 👉 Used in Thapa Technical Website",
+      "duration": 785
+    },
+    {
+      "id": "Rlz01xQFWUc",
+      "title": "#17: TypeScript Tuples🔥Mastering Data Structures| Best Practices & Examples",
+      "duration": 804
+    },
+    {
+      "id": "GDQhJtDOa64",
+      "title": "#18: Master TypeScript Unions and Intersections - Real-Life Examples & Practical Tips 🚀",
+      "duration": 1678
+    },
+    {
+      "id": "Gw-0ZlFkvFI",
+      "title": "#19:  Generics in Typescript 🚀 Make everything Reusable like JAVA & C# |  Most Important Topic in TS",
+      "duration": 734
+    },
+    {
+      "id": "HyYBveoqTIM",
+      "title": "VS Code Best Hidden Feature You Don't know Exists 🚀To Boost Your Coding Skills - Inlay Hints 🔥",
+      "duration": 282
+    },
+    {
+      "id": "MorYwVBb-b0",
+      "title": "#20: Solving Function Overloading with TS Generics: Mastering Multiple Type Variables like a Pro 🚀",
+      "duration": 710
+    },
+    {
+      "id": "VjWNfPF0nwY",
+      "title": "#21: TypeScript Interface - Defining Contracts for Objects & Classes 📝",
+      "duration": 809
+    },
+    {
+      "id": "t1orwXRZ-7k",
+      "title": "#22: TypeScript Compiler & Project Configuration Explained 🚀 Watch Mode, rootDir, Lib, and More!",
+      "duration": 1058
+    },
+    {
+      "id": "XeW_FHbxzT4",
+      "title": "Create a TypeScript Website with GitHub API & Search Functionality🔥TypeScript Project in Hindi 🚀",
+      "duration": 2481
+    },
+    {
+      "id": "UhFvPzq7isQ",
+      "title": "TypeScript Object-Oriented Programming Tutorial👉 Understanding Classes and Constructors in Hindi",
+      "duration": 890
+    },
+    {
+      "id": "oFTbcECOaVk",
+      "title": "#24:  Inheritance in TypeScript in Hindi | Extends & Super Keyword with Real Life Example",
+      "duration": 881
+    },
+    {
+      "id": "bC_-FIRUOpw",
+      "title": "#25: Public, Protected & Private🔒Access Modifiers in Object-Oriented Programming in TypeScript",
+      "duration": 691
+    },
+    {
+      "id": "Gs1ICYpRRSU",
+      "title": "#26: Shorthand Properties in Classes You are Waiting For | OOPs in TypeScript",
+      "duration": 486
+    },
+    {
+      "id": "2P4Y2D64rY4",
+      "title": "#27: Mastering Getter and Setter Methods in TypeScript Classes | Explained with Examples",
+      "duration": 1115
+    },
+    {
+      "id": "tnFK1stXQ2U",
+      "title": "#28: Building Bank Account & Temperature Converter Apps in TypeScript | Practice Time #2",
+      "duration": 787
+    },
+    {
+      "id": "ecWEgoAtWcA",
+      "title": "#29: Static Properties and Methods in TypeScript Explained with Real-Life Examples",
+      "duration": 528
+    },
+    {
+      "id": "uHtK7YILpSo",
+      "title": "#30: Abstract Classes in TypeScript in Hindi 👉 with Real-life Examples",
+      "duration": 947
+    },
+    {
+      "id": "iV1LeuJQGwE",
+      "title": "#31: Types vs. Interfaces in TypeScript 👉 When & Where to Use Differences with Examples",
+      "duration": 842
+    },
+    {
+      "id": "-pRUnmZqPQI",
+      "title": "#32: Type Safety with Typeof Guards: Understanding Type Narrowing in TypeScript",
+      "duration": 437
+    },
+    {
+      "id": "wTHgCvHEOCk",
+      "title": "Should I use Functions or Classes in TypeScript for MERN & Front-End Projects 🤔",
+      "duration": 550
+    },
+    {
+      "id": "LvUlBl5uetE",
+      "title": "Create Website using HTML, CSS & TypeScript with Parcel in Hindi🔥 Beginners Complete Guide👍",
+      "duration": 1092
+    },
+    {
+      "id": "jD91DUxCLEg",
+      "title": "TypeScript 7 is 10x Faster and Here's Why",
+      "duration": 1139
+    }
+  ]
+}

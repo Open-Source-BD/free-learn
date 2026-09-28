@@ -1,0 +1,170 @@
+{
+  "courseId": "swift-programming-hindi-tutorial-for-beginners-d22418",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:51.957Z",
+  "title": "Swift for beginners (Hindi tutorial)",
+  "channel": "Code Cat",
+  "videos": [
+    {
+      "id": "0HPOxthY6q0",
+      "title": "Variables in swift tutorial | swift variables",
+      "duration": 359
+    },
+    {
+      "id": "HAD9QfTyw0E",
+      "title": "Functions in swift Tutorial | Hindi Swift tutorial",
+      "duration": 874
+    },
+    {
+      "id": "FSIQtQ0IMMM",
+      "title": "Structure in swift | structs swift hindi | Swift for beginners series",
+      "duration": 601
+    },
+    {
+      "id": "5IMM7_-OIlY",
+      "title": "Class in swift tutorial | Swift 5 | Swift for beginners series",
+      "duration": 482
+    },
+    {
+      "id": "03tORjctBXw",
+      "title": "Introduction to swift: Why classes are called as reference type in Hindi",
+      "duration": 319
+    },
+    {
+      "id": "ZIeDcLj2FVk",
+      "title": "Swift lesson 06: Optional vs Required in Hindi",
+      "duration": 435
+    },
+    {
+      "id": "a_7ZxRp1B2Q",
+      "title": "Closures in Swift Hindi tutorial | Swift for beginners | Swift Tutorial",
+      "duration": 643
+    },
+    {
+      "id": "64z5Nhk9A-M",
+      "title": "Dictionaries In Swift Hindi Tutorial",
+      "duration": 476
+    },
+    {
+      "id": "XYS-olBITjY",
+      "title": "Extension in swift | What are extension in swift 5 | Extensions tutorial",
+      "duration": 461
+    },
+    {
+      "id": "yHCqZHO7PBA",
+      "title": "Sets in swift tutorial in Hindi | Collection type in swift | Swift set latest tutorial",
+      "duration": 702
+    },
+    {
+      "id": "yzk8x1f7SPM",
+      "title": "Introduction to Swift: Initializers (init method) part 1",
+      "duration": 1281
+    },
+    {
+      "id": "1Rl1l7pmna8",
+      "title": "Introduction to Swift: Initializers (init method) part 2",
+      "duration": 400
+    },
+    {
+      "id": "hfGtp-t6lJg",
+      "title": "Generic in swift | Swift Generics | Generic for  swift beginners",
+      "duration": 262
+    },
+    {
+      "id": "NloFfqZMmyA",
+      "title": "Guard keyword in Swift 5 tutorial | Hindi | what is guard in swift",
+      "duration": 776
+    },
+    {
+      "id": "W9wyjKa_zSM",
+      "title": "Optional binding and optional chaining",
+      "duration": 379
+    },
+    {
+      "id": "jusWD83SMG0",
+      "title": "Error Handling Swift Tutorial in Hindi",
+      "duration": 852
+    },
+    {
+      "id": "C78GQzB6MB4",
+      "title": "Multiple inheritance in swift hindi tutorial | Inheritance swift example",
+      "duration": 606
+    },
+    {
+      "id": "XAlXnApplk0",
+      "title": "Automatic reference counting | What is swift ARC | Memory management in swift",
+      "duration": 789
+    },
+    {
+      "id": "RMGgGODH9FI",
+      "title": "Think before adding any third party library in swift iOS project",
+      "duration": 680
+    },
+    {
+      "id": "Wk4UzzePfb8",
+      "title": "Swift Opaque return types (some keyword) and protocol associated types",
+      "duration": 542
+    },
+    {
+      "id": "ZP4pEHtndFE",
+      "title": "Closure in swift (escaping, non-escaping, autoclosure) Hindi tutorial",
+      "duration": 918
+    },
+    {
+      "id": "NPUTMEar1Oc",
+      "title": "Introduction to higher order function in swift hindi tutorial",
+      "duration": 205
+    },
+    {
+      "id": "96rS9jk4YLg",
+      "title": "Map in swift Higher order function Hindi tutorial",
+      "duration": 680
+    },
+    {
+      "id": "1m7e3oh2uDo",
+      "title": "Avoid recursion in swift programming | Swift tutorial in Hindi",
+      "duration": 300
+    },
+    {
+      "id": "s5CbRD1NGj8",
+      "title": "Native vs hybrid vs cross platform mobile app development in Hindi",
+      "duration": 1141
+    },
+    {
+      "id": "bsmjhC5MQ7I",
+      "title": "What is Any and AnyObject in swift iOS Hindi Tutorial",
+      "duration": 657
+    },
+    {
+      "id": "U6NHlCBPAF4",
+      "title": "Format UTC date string using DateFormatter in Swift",
+      "duration": 238
+    },
+    {
+      "id": "HdhJjc7Y6iw",
+      "title": "Difference between weak and unowned in Swift",
+      "duration": 980
+    },
+    {
+      "id": "rhQqYqwGef4",
+      "title": "Copy on write & Copy on assignment in Swift | Hindi tutorial",
+      "duration": 675
+    },
+    {
+      "id": "1oL5_hSu0So",
+      "title": "iOS developer career guidance for Freshers & Junior developers",
+      "duration": 1020
+    },
+    {
+      "id": "MpFe0AaIsgQ",
+      "title": "Career guidance Part 2: Senior iOS developer and open question session",
+      "duration": 1839
+    },
+    {
+      "id": "Q4rJnFx684M",
+      "title": "Don't use string everywhere | Swift hindi tutorial",
+      "duration": 397
+    }
+  ]
+}

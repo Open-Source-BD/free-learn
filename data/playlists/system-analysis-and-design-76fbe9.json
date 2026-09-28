@@ -1,0 +1,180 @@
+{
+  "courseId": "system-analysis-and-design-76fbe9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:35:01.854Z",
+  "title": "System Analysis and Design in Hindi",
+  "channel": "Gursimran Singh Dhillon",
+  "videos": [
+    {
+      "id": "lGe74JlhG7I",
+      "title": "Lecture 1: Intro, Definition and Characteristics of System with Notes | System Analysis and Design",
+      "duration": 1553
+    },
+    {
+      "id": "3s2W5mrem_s",
+      "title": "Lecture 2: Elements of System with notes | System Analysis and Design",
+      "duration": 727
+    },
+    {
+      "id": "PMNZKyZUtAY",
+      "title": "Lecture 3: Types of System with notes | System Analysis and Design",
+      "duration": 522
+    },
+    {
+      "id": "PpDxxd7-Vl8",
+      "title": "Lecture 4: System Analyst Skills and Responsibilities with notes | System Analysis and Design",
+      "duration": 840
+    },
+    {
+      "id": "CtNXNfxvpIM",
+      "title": "Lecture 5: System Development Life Cycle SDLC with notes | System Analysis and Design",
+      "duration": 989
+    },
+    {
+      "id": "l3KLo9dZYf8",
+      "title": "Lecture 6: Requirement Analysis with notes | Software Analysis and Design",
+      "duration": 1229
+    },
+    {
+      "id": "x7Lg0v2Q9gs",
+      "title": "Lecture 7: Feasibility Study with notes | System Analysis and Design",
+      "duration": 1115
+    },
+    {
+      "id": "TQoYSjYXK7I",
+      "title": "Lecture 8.1: Information Gathering Tools | System Analysis and Design",
+      "duration": 1707
+    },
+    {
+      "id": "XGEcM6LsZV0",
+      "title": "Lecture 8.2 Information Gathering Tools | System Analysis and Design",
+      "duration": 1599
+    },
+    {
+      "id": "9Iw83T9lguc",
+      "title": "Lecture 9: Cost Benefit Analysis with notes | System Analysis and Design",
+      "duration": 1571
+    },
+    {
+      "id": "MxzxfLDuvCc",
+      "title": "Lecture 10.1: Input Design | System Analysis and Design",
+      "duration": 1511
+    },
+    {
+      "id": "NNP8t9Mbpq4",
+      "title": "Lecture 10.2 Output Design | System Analysis and Design",
+      "duration": 1480
+    },
+    {
+      "id": "JZRbU68_r-o",
+      "title": "Lecture 11.1: Introduction to Modular and Structural Design | System Analysis and Design",
+      "duration": 1266
+    },
+    {
+      "id": "LRSVAOKI0T8",
+      "title": "Lecture 11.2: Top Down, Bottom Up Approach, Module Attributes & Types | System Analysis and Design",
+      "duration": 1032
+    },
+    {
+      "id": "1VN5NJwC6o0",
+      "title": "Lecture 12: Tools For Structured Design | System Analysis and Design",
+      "duration": 1513
+    },
+    {
+      "id": "DaDkZGmKqEM",
+      "title": "Lecture 13: Design Considerations | System Analysis and Design",
+      "duration": 983
+    },
+    {
+      "id": "CyAo5yqVQ1g",
+      "title": "Lecture 14.1: Coupling and Its Types | System Analysis and Design",
+      "duration": 652
+    },
+    {
+      "id": "XzKUHmmVa9c",
+      "title": "Lecture 14.2: Coupling | System Analysis and Design",
+      "duration": 1494
+    },
+    {
+      "id": "6zqRGe7r-6A",
+      "title": "Lecture 15: Cohesion | System Analysis and Design",
+      "duration": 1049
+    },
+    {
+      "id": "NO5t3UDKBuU",
+      "title": "Lecture 16: Relationship between Coupling and Cohesion | System Analysis and Design",
+      "duration": 691
+    },
+    {
+      "id": "CqOgG3sYlCs",
+      "title": "Lecture 17: Introduction to Testing | System Analysis and Design",
+      "duration": 1330
+    },
+    {
+      "id": "aLPBHdUhvvU",
+      "title": "Lecture 18.1: Types of Testing Part I | System Analysis and Design",
+      "duration": 1074
+    },
+    {
+      "id": "vTMawO88AKQ",
+      "title": "Lecture 18.2 Types of Testing - Functional Testing | System Analysis and Design",
+      "duration": 1478
+    },
+    {
+      "id": "UztWCIMtkto",
+      "title": "Lecture 18.3 Types of Testing - Non Functional Testing | System Analysis and Design",
+      "duration": 926
+    },
+    {
+      "id": "C78mYypf45I",
+      "title": "Lecture 19: System Testing | System Analysis and Design",
+      "duration": 889
+    },
+    {
+      "id": "QgAUHwE2Cf0",
+      "title": "Lecture 20: System Implementation | System Analysis and Design",
+      "duration": 1620
+    },
+    {
+      "id": "GkIv-kU20fs",
+      "title": "Lecture 21: Quality Assurance | System Analysis and Design",
+      "duration": 1561
+    },
+    {
+      "id": "xebw9ytLmIQ",
+      "title": "Lecture 22: Documentation | System Analysis and Design",
+      "duration": 1186
+    },
+    {
+      "id": "6lJYGoFflbM",
+      "title": "Lecture 23: Concept, Importance and Types of System Maintenance | System Analysis and Design",
+      "duration": 1354
+    },
+    {
+      "id": "_4d6hTC0kBQ",
+      "title": "Lecture 24.1: System Flow Chart | System Analysis and Design",
+      "duration": 599
+    },
+    {
+      "id": "P9BmrP70Jqc",
+      "title": "Lecture 24.2: Data Flow Diagram DFD | System Analysis and Design",
+      "duration": 1097
+    },
+    {
+      "id": "0mT6wegAFfc",
+      "title": "Lecture 24.3 Data Dictionary | System Analysis and Design",
+      "duration": 657
+    },
+    {
+      "id": "v7X9EVrseAw",
+      "title": "Lecture 24.4 Decision Tree | System Analysis and Design",
+      "duration": 630
+    },
+    {
+      "id": "-pAMeaWG7Ac",
+      "title": "Lecture 24.5 Decision Table | System Analysis and Design",
+      "duration": 661
+    }
+  ]
+}

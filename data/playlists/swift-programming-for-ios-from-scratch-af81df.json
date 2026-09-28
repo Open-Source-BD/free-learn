@@ -1,0 +1,115 @@
+{
+  "courseId": "swift-programming-for-ios-from-scratch-af81df",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:49.254Z",
+  "title": "Swift Programming For IOS From Scratch | Swift Programming Tutorial For Beginners",
+  "channel": "Fahad Hussain",
+  "videos": [
+    {
+      "id": "sAvs0itMqi0",
+      "title": "Tutorial 01: Introduction to Swift Programming language for IOS | Hello World Program in XCode Swift",
+      "duration": 847
+    },
+    {
+      "id": "wD13vIg5oCY",
+      "title": "Tutorial 02: Variable and Data Types in Swift | Integer Float Double Character Boolean Var Let Swift",
+      "duration": 657
+    },
+    {
+      "id": "U5vCa6zk97c",
+      "title": "Tutorial 03: Conditional Statements if else in Swift | IF IF Else and Nested IF Else in Swift",
+      "duration": 789
+    },
+    {
+      "id": "z-OBgFrRGos",
+      "title": "Tutorial 04: Loop in Swift | Loops (For While Repeat) using Swift Programming Language",
+      "duration": 626
+    },
+    {
+      "id": "eCGRsbCL2gA",
+      "title": "Tutorial 05: Array in Swift [All Types] | 1D vs 2D array in Swift | Array Matrix in Swift",
+      "duration": 750
+    },
+    {
+      "id": "PXs8kAv1-aU",
+      "title": "Tutorial 06: Switch case in Swift | Nested Switch case in Swift | Fallthrough keyword in Swift",
+      "duration": 553
+    },
+    {
+      "id": "7iO-c7OLXZE",
+      "title": "Tutorial 07: Dictionary in Swift Programming | key value dictionary in swift",
+      "duration": 590
+    },
+    {
+      "id": "oRNTVLt2PH0",
+      "title": "Tutorial 08: Set in Swift | Set vs Array in Swift | Set Collection in Swift",
+      "duration": 618
+    },
+    {
+      "id": "PfY5WHJsdh8",
+      "title": "Tutorial 09: Function in Swift | User Define Functions in Swift |Void Return Type Parameter in Swift",
+      "duration": 718
+    },
+    {
+      "id": "PgYx83m-6sU",
+      "title": "Tutorial 10: Recursion in Swift | Factorial using recursion in swift | Recursive function explained",
+      "duration": 529
+    },
+    {
+      "id": "JXo8ib5Bgjc",
+      "title": "Tutorial 11: Closure in Swift | Parameter and return type in Closure | Closure vs Function in swift",
+      "duration": 708
+    },
+    {
+      "id": "JsXb8yRTxKY",
+      "title": "Tutorial 12: Object Oriented Programming in Swift | What is Class, Object and Constructor in Swift",
+      "duration": 971
+    },
+    {
+      "id": "9BW5zI8LQQk",
+      "title": "Tutorial 13: Struct vs Class in Swift | Difference between Structure and Class in Swift",
+      "duration": 497
+    },
+    {
+      "id": "22g79AYTb0w",
+      "title": "Tutorial 14: Enumeration in Swift tutorial | How to use Enumerations | Enum in swift iOS URDU/HINDI",
+      "duration": 568
+    },
+    {
+      "id": "7rBSjYR_2ZE",
+      "title": "Tutorial 15: Access Level Swift | Access Modifier in Swift Open public Internal Private File-Private",
+      "duration": 864
+    },
+    {
+      "id": "wL2OvT82tjM",
+      "title": "Tutorial 16: Encapsulation in Swift | How to use get and set in Swift | ! vs ? in Swift",
+      "duration": 887
+    },
+    {
+      "id": "Lz39VrUVAFY",
+      "title": "Tutorial 17: Inheritance in Swift using class and object | Multiple inheritance in swift",
+      "duration": 514
+    },
+    {
+      "id": "3J3YIrtgMC4",
+      "title": "Tutorial 18: Polymorphism in Swift | Method overloading vs Method overriding in swift",
+      "duration": 575
+    },
+    {
+      "id": "fWPur6hgmE8",
+      "title": "Tutorial 19: Exception Handling in Swift | Error handling in Swift try catch do and throw",
+      "duration": 663
+    },
+    {
+      "id": "yg_TZNN7RRA",
+      "title": "Tutorial 20: Generic in Swift | Swift Generics | inout Parameters in Swift",
+      "duration": 798
+    },
+    {
+      "id": "9NehMmFpyg8",
+      "title": "Tutorial 21: Logic Building using Swift | Pattern using Stars in Swift | Swift Programming in Xcode",
+      "duration": 1556
+    }
+  ]
+}
