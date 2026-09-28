@@ -1,0 +1,1405 @@
+{
+  "courseId": "c-programming-bangla-tutorial-course-b0443b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:41.934Z",
+  "title": "সি প্রোগ্রামিং Bangla Full Course | সবার জন্য সি প্রোগ্রামিং",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "5sFrHBakZMA",
+      "title": "প্রতিটি সিএস শিক্ষার্থীর জন্য জরুরি কিছু পরামর্শ! | Challenges of CS Students",
+      "duration": 1173
+    },
+    {
+      "id": "0_8dOzwShtc",
+      "title": "C programming Bangla Tutorial 5.0 : নতুন আপডেটেড প্লেলিস্টের সাথে শিখুন",
+      "duration": 333
+    },
+    {
+      "id": "6Dl_gkr0Lmw",
+      "title": "C programming Bangla Tutorial 5.1 : Course Plan",
+      "duration": 254
+    },
+    {
+      "id": "FDPpu7f5Z1c",
+      "title": "C programming Bangla Tutorial 5.2 : কিভাবে সি প্রোগ্রামিং পড়বেন / পড়াবেন ?",
+      "duration": 523
+    },
+    {
+      "id": "dCP5Qa4UDVk",
+      "title": "C programming Bangla Tutorial 5.3 : welcome to part-1 (Introduction to programming)",
+      "duration": 139
+    },
+    {
+      "id": "xYQFvuTsOAI",
+      "title": "C programming Bangla Tutorial 5.4 : Translator program - Compiler,Interpreter",
+      "duration": 1050
+    },
+    {
+      "id": "L-fbxGjFI8Q",
+      "title": "C programming Bangla Tutorial 5.5 : Algorithm",
+      "duration": 421
+    },
+    {
+      "id": "Ef8d_m4ja9Q",
+      "title": "C programming Bangla Tutorial 5.6 : Flowchart and pseudocode",
+      "duration": 1150
+    },
+    {
+      "id": "DrUUf2itfQk",
+      "title": "C programming Bangla Tutorial 5.7 : প্রোগ্রাম তৈরির ধাপসমূহ ও ডিবাগিং",
+      "duration": 733
+    },
+    {
+      "id": "WDX1gLtCIlc",
+      "title": "C programming Bangla Tutorial 5.8 : Introduction to C program",
+      "duration": 805
+    },
+    {
+      "id": "axANBRPWXAQ",
+      "title": "C programming Bangla Tutorial 5.9 : How to setup CodeBlocks IDE",
+      "duration": 626
+    },
+    {
+      "id": "TH6JYd1jOHo",
+      "title": "C programming Bangla Tutorial 5.10 : c programming in vscode",
+      "duration": 219
+    },
+    {
+      "id": "3HmbCV6WU-k",
+      "title": "C programming Bangla Tutorial 5.11 : End of the Introduction to programming Topic",
+      "duration": 198
+    },
+    {
+      "id": "GIuXziwwEJc",
+      "title": "C programming Bangla Tutorial 5.12 : welcome to part-2 (Input Output)",
+      "duration": 142
+    },
+    {
+      "id": "wEWHq8FzdMw",
+      "title": "C programming Bangla Tutorial 5.13 : First C program",
+      "duration": 1155
+    },
+    {
+      "id": "VPPQaMkRssM",
+      "title": "C programming Bangla Tutorial 5.14 : Comments and Escape sequence",
+      "duration": 1130
+    },
+    {
+      "id": "-epx4dSNWOw",
+      "title": "C programming Bangla Tutorial 5.15 : How to increase the font size in codeblock IDE",
+      "duration": 85
+    },
+    {
+      "id": "HWyEt9Q_2pE",
+      "title": "C programming Bangla Tutorial 5.16 : Keyword, Variable, data type (part-1)",
+      "duration": 1407
+    },
+    {
+      "id": "aqtbdvrUY_8",
+      "title": "C programming Bangla Tutorial 5.17 : Keyword, Variable, data type (part-2)",
+      "duration": 1442
+    },
+    {
+      "id": "Gz5rkuWFy5U",
+      "title": "C programming Bangla Tutorial 5.18 : More on data types",
+      "duration": 257
+    },
+    {
+      "id": "vuIzuHA8GPg",
+      "title": "C programming Bangla Tutorial 5.19 : how to get user input using scanf",
+      "duration": 584
+    },
+    {
+      "id": "jQzn_HgrpaI",
+      "title": "C programming Bangla Tutorial 5.20 : Get inputs using gets, fgets, getchar",
+      "duration": 710
+    },
+    {
+      "id": "dkrkxd2fqwY",
+      "title": "C programming Bangla Tutorial 5.21 : sizeof",
+      "duration": 237
+    },
+    {
+      "id": "uPvJShGM2SM",
+      "title": "C programming Bangla Tutorial 5.22 : Convert ASCII value into character",
+      "duration": 312
+    },
+    {
+      "id": "7CAzUTKGDpE",
+      "title": "C programming Bangla Tutorial 5.23 : Convert Character Into Ascii Value",
+      "duration": 200
+    },
+    {
+      "id": "tWUY_yRhTaM",
+      "title": "C programming Bangla Tutorial 5.24 : Lower To Uppercase letter",
+      "duration": 333
+    },
+    {
+      "id": "PFcAZydjTT4",
+      "title": "C programming Bangla Tutorial 5.25 : Upper to lowercase letter",
+      "duration": 167
+    },
+    {
+      "id": "pQ_Rz7ArNc0",
+      "title": "C programming Bangla Tutorial 5.26 : toupper function",
+      "duration": 230
+    },
+    {
+      "id": "9ftpCh4CrgU",
+      "title": "C programming Bangla Tutorial 5.27 : lower to uppercase letter using library function",
+      "duration": 135
+    },
+    {
+      "id": "FDlEzs5okuI",
+      "title": "C programming Bangla Tutorial 5.28 : conversion between decimal and octal",
+      "duration": 261
+    },
+    {
+      "id": "UeqOibStroU",
+      "title": "C programming Bangla Tutorial 5.29 : conversion between decimal and hexa-decimal",
+      "duration": 135
+    },
+    {
+      "id": "WNgNxUSpz5c",
+      "title": "C programming Bangla Tutorial 5.30 : conversion between octal and hexa-decimal",
+      "duration": 170
+    },
+    {
+      "id": "PU0eojArPP4",
+      "title": "C programming Bangla Tutorial 5.31 : End of the Input-output Topic",
+      "duration": 132
+    },
+    {
+      "id": "oFEfioCnN-k",
+      "title": "C programming Bangla Tutorial 5.32 : Welcome to part-3 (Operators)",
+      "duration": 80
+    },
+    {
+      "id": "TlGrfWOsW_g",
+      "title": "C programming Bangla Tutorial 5.33 : Operator, Operand, Expression",
+      "duration": 762
+    },
+    {
+      "id": "6y2TkyxlMcw",
+      "title": "C programming Bangla Tutorial 5.34 : Arithmetic Operator",
+      "duration": 1378
+    },
+    {
+      "id": "UCRuomfm8po",
+      "title": "C programming Bangla Tutorial 5.35 : ২ টি পূর্ণ সংখ্যার যোগফল নির্ণয়ের জন্য A, F & C program",
+      "duration": 737
+    },
+    {
+      "id": "2mAg6L7sOmA",
+      "title": "C programming Bangla Tutorial 5.36 : ২ টি পূর্ণ সংখ্যার যোগফল নির্ণয়ের জন্য C program",
+      "duration": 300
+    },
+    {
+      "id": "aCZNXDml7kk",
+      "title": "C programming Bangla Tutorial 5.37 : ৩ টি পূর্ণ সংখ্যার যোগফল ও গড় নির্ণয়ের জন্য A,F,C",
+      "duration": 707
+    },
+    {
+      "id": "DMgCI_w8q0o",
+      "title": "C programming Bangla Tutorial 5.38 : ৩ টি পূর্ণ সংখ্যার যোগফল ও গড় নির্ণয়ের জন্য C program",
+      "duration": 394
+    },
+    {
+      "id": "WFm_TsiPIpQ",
+      "title": "C programming Bangla Tutorial 5.39 : ত্রিভুজের ক্ষেত্রফল নির্ণয়ের Algorithm, Flowchart & C",
+      "duration": 533
+    },
+    {
+      "id": "cRr6k5FlrHc",
+      "title": "C programming Bangla Tutorial 5.40 : ত্রিভুজের ক্ষেত্রফল নির্ণয়ের জন্য C program",
+      "duration": 343
+    },
+    {
+      "id": "kY4AyxEazZ8",
+      "title": "C programming Bangla Tutorial 5.41 : ত্রিভুজের ৩ বাহুর দৈর্ঘ্য এর ক্ষেত্রফল নির্ণয়ের জন্য A,F,C",
+      "duration": 515
+    },
+    {
+      "id": "khlIaBAH3YY",
+      "title": "C programming Bangla Tutorial 5.42 : ত্রিভুজের ৩ বাহুর দৈর্ঘ্য এর ক্ষেত্রফল নির্ণয়ের জন্য C program",
+      "duration": 358
+    },
+    {
+      "id": "CQfBYvLKgd8",
+      "title": "C programming Bangla Tutorial 5.43 : আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয়ের জন্য A,F,C",
+      "duration": 506
+    },
+    {
+      "id": "rD1PwDfHfsw",
+      "title": "C programming Bangla Tutorial 5.44 : আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয়ের জন্য C program",
+      "duration": 263
+    },
+    {
+      "id": "w1PZwIyZbZw",
+      "title": "C programming Bangla Tutorial 5.45 : বৃত্তের ক্ষেত্রফল নির্ণয়ের জন্য Algorithm,Flowchart & C",
+      "duration": 424
+    },
+    {
+      "id": "AjVhrRh_UKk",
+      "title": "C programming Bangla Tutorial 5.46 : বৃত্তের ক্ষেত্রফল নির্ণয়ের জন্য C program",
+      "duration": 319
+    },
+    {
+      "id": "mMVX0lfei-U",
+      "title": "C programming Bangla Tutorial 5.47 : Centigrade to Fahrenheit A, F & C",
+      "duration": 645
+    },
+    {
+      "id": "WhN-7seJb7w",
+      "title": "C programming Bangla Tutorial 5.48 : Centigrade to Fahrenheit C program",
+      "duration": 293
+    },
+    {
+      "id": "9iSUtY8bYGI",
+      "title": "C programming Bangla Tutorial 5.49 : Fahrenheit to Centigrade A,F,C",
+      "duration": 464
+    },
+    {
+      "id": "6dxhmo1vQIw",
+      "title": "C programming Bangla Tutorial 5.50 : Fahrenheit to Centigrade C program",
+      "duration": 303
+    },
+    {
+      "id": "da64tXRWRQA",
+      "title": "C programming Bangla Tutorial 5.51 : How to swap two numbers with temporary variable",
+      "duration": 288
+    },
+    {
+      "id": "IyHs3iuHADQ",
+      "title": "C programming Bangla Tutorial 5.52 : How to swap two numbers without temporary variable",
+      "duration": 159
+    },
+    {
+      "id": "jTnrwzle4RE",
+      "title": "C programming Bangla Tutorial 5.53 : Quadratic Equation A, F & C (part-1)",
+      "duration": 522
+    },
+    {
+      "id": "ApWQewIp08g",
+      "title": "C programming Bangla Tutorial 5.54 : Quadratic equation A, F & C (part-2)",
+      "duration": 255
+    },
+    {
+      "id": "7KppH61CQXk",
+      "title": "C programming Bangla Tutorial 5.55 : quadratic equation | ax^2+bx+c C program",
+      "duration": 256
+    },
+    {
+      "id": "iaMktvB5VF8",
+      "title": "C programming Bangla Tutorial 5.56 : simple interest calculator",
+      "duration": 277
+    },
+    {
+      "id": "NkX75KlD0HI",
+      "title": "C programming Bangla Tutorial 5.57 : End of the Operator Topic",
+      "duration": 91
+    },
+    {
+      "id": "24FWHKgqFkk",
+      "title": "C programming Bangla Tutorial 5.58 : Math | Absolute value | সংখ্যার পরম মান",
+      "duration": 185
+    },
+    {
+      "id": "MqQP_p-CkXc",
+      "title": "C programming Bangla Tutorial 5.59 : Math | Square root | সংখ্যার বর্গমূল",
+      "duration": 287
+    },
+    {
+      "id": "D7MwR1sZDDo",
+      "title": "C programming Bangla Tutorial 5.60 : Math | x raised to the power y (x^y)",
+      "duration": 282
+    },
+    {
+      "id": "NEkEuPr5hK8",
+      "title": "C programming Bangla Tutorial 5.61 : Math | log, log10, sin function",
+      "duration": 279
+    },
+    {
+      "id": "c2HOvvgn8rM",
+      "title": "C programming Bangla Tutorial 5.62 : Math | round, trunc, ceil, floor function",
+      "duration": 387
+    },
+    {
+      "id": "1z5xjK0S8-s",
+      "title": "C programming Bangla Tutorial 5.63 : End Of Math Topic",
+      "duration": 146
+    },
+    {
+      "id": "j46MzI-7KPc",
+      "title": "C programming Bangla Tutorial 5.64 : Assignment Operator",
+      "duration": 439
+    },
+    {
+      "id": "uAzjmnIkHYA",
+      "title": "C programming Bangla Tutorial 5.65 : Unary Operator",
+      "duration": 907
+    },
+    {
+      "id": "KCkcz6-xl74",
+      "title": "C programming Bangla Tutorial 5.66 : if else statement | Relational operators 1",
+      "duration": 690
+    },
+    {
+      "id": "MN9jH_8pE6Y",
+      "title": "C programming Bangla Tutorial 5.67 : if else statement | Relational operators 2",
+      "duration": 837
+    },
+    {
+      "id": "NqTWJrolWKo",
+      "title": "C programming Bangla Tutorial 5.68 : Letter Grade using if-else if-else",
+      "duration": 596
+    },
+    {
+      "id": "3Ovy79Gszvc",
+      "title": "C programming Bangla Tutorial 5.69 : flowchart of if-else if and else statements",
+      "duration": 693
+    },
+    {
+      "id": "2hhZEUgTc3k",
+      "title": "C programming Bangla Tutorial 5.70 : Even/Odd | সংখ্যা জোড়/ বিজোড় তা নির্ণয়ের জন্য A,F,C",
+      "duration": 573
+    },
+    {
+      "id": "5fFF1mHcWok",
+      "title": "C programming Bangla Tutorial 5.71 : Even / Odd  | সংখ্যা জোড়/ বিজোড়  C program (practical)",
+      "duration": 334
+    },
+    {
+      "id": "Pw73CuiJg18",
+      "title": "C programming Bangla Tutorial 5.72 : Positive/Negative নির্ণয়ের জন্য A,F,C",
+      "duration": 500
+    },
+    {
+      "id": "ReKjEXTLbZQ",
+      "title": "C programming Bangla Tutorial 5.73 : Positive/Negative তা নির্ণয়ের জন্য C program (practical)",
+      "duration": 338
+    },
+    {
+      "id": "tm5IlN4MDjc",
+      "title": "C programming Bangla Tutorial 5.74 : দুইটি সংখ্যার মধ্যে বৃহত্তম সংখ্যা নির্ণয়ের জন্য A,F,C",
+      "duration": 671
+    },
+    {
+      "id": "U_h--1GeMRc",
+      "title": "C programming Bangla Tutorial 5.75 : দুইটি সংখ্যার মধ্যে বৃহত্তম সংখ্যা নির্ণয়ের জন্য C program",
+      "duration": 392
+    },
+    {
+      "id": "kXYCFVavzpI",
+      "title": "C programming Bangla Tutorial 5.76 : Logical operator",
+      "duration": 737
+    },
+    {
+      "id": "k5DDnSvzLS8",
+      "title": "C programming Bangla Tutorial 5.77 : তিনটি সংখ্যার মধ্যে বৃহত্তম সংখ্যা নির্ণয়ের জন্য A,F,C",
+      "duration": 864
+    },
+    {
+      "id": "6h3Hnjp4-LQ",
+      "title": "C programming Bangla Tutorial 5.78 : তিনটি সংখ্যার মধ্যে বৃহত্তম সংখ্যা নির্ণয়ের জন্য C program",
+      "duration": 422
+    },
+    {
+      "id": "Ol3ialGySE4",
+      "title": "C programming Bangla Tutorial 5.79 : Leap Year | অধিবর্ষ  কিনা তা নির্ণয়ের জন্য A, F & C",
+      "duration": 719
+    },
+    {
+      "id": "DNvIZ0ZICpE",
+      "title": "C programming Bangla Tutorial 5.80 : Leap Year | অধিবর্ষ  কিনা তা নির্ণয়ের জন্য C program",
+      "duration": 340
+    },
+    {
+      "id": "vnBFYeAT7AY",
+      "title": "C programming Bangla Tutorial 5.81 : capital/small নির্ণয়ের জন্য A,F,C",
+      "duration": 672
+    },
+    {
+      "id": "QaWbdMpzQVI",
+      "title": "C programming Bangla Tutorial 5.82 : capital/small তা নির্ণয়ের জন্য C program",
+      "duration": 363
+    },
+    {
+      "id": "Sw5membis50",
+      "title": "C programming Bangla Tutorial 5.83 : vowel/consonant কিনা তা নির্ণয়ের জন্য A, F & C",
+      "duration": 627
+    },
+    {
+      "id": "W4TBEgB9PeI",
+      "title": "C programming Bangla Tutorial 5.84 : vowel/consonant তা নির্ণয়ের জন্য C program",
+      "duration": 314
+    },
+    {
+      "id": "EODPrl_H-CY",
+      "title": "C programming Bangla Tutorial 5.85 : প্রাপ্ত নম্বর থেকে Pass/Fail নির্ণয়ের জন্য A,F,C",
+      "duration": 213
+    },
+    {
+      "id": "k_JngZ5SDO8",
+      "title": "C programming Bangla Tutorial 5.86 : প্রাপ্ত নম্বর থেকে Pass/Fail নির্ণয়ের জন্য C program",
+      "duration": 232
+    },
+    {
+      "id": "ZghcQgrsOv8",
+      "title": "C programming Bangla Tutorial 5.87 : প্রাপ্ত নম্বর থেকে Letter Grade নির্ণয়ের জন্য A,F,C",
+      "duration": 527
+    },
+    {
+      "id": "ccgNJzgl0B4",
+      "title": "C programming Bangla Tutorial 5.88 : Letter Grade",
+      "duration": 435
+    },
+    {
+      "id": "0KfmZoEH8bw",
+      "title": "C programming Bangla Tutorial 5.89 : Build a Simple Calculator Using If-Else Statements",
+      "duration": 458
+    },
+    {
+      "id": "aEDu0utnkTc",
+      "title": "C programming Bangla Tutorial 5.90 : End of if-else Topic",
+      "duration": 194
+    },
+    {
+      "id": "5J6EeTQlQmk",
+      "title": "C programming Bangla Tutorial 5.91 : Types of variables ( Local & Global )",
+      "duration": 495
+    },
+    {
+      "id": "FB05w2xBaiI",
+      "title": "C programming Bangla Tutorial 5.92 : switch | Digit Spelling",
+      "duration": 716
+    },
+    {
+      "id": "jAECs5jrrf4",
+      "title": "C programming Bangla Tutorial 5.93 : switch | Interesting facts about switch statement",
+      "duration": 246
+    },
+    {
+      "id": "MxrnddhD14M",
+      "title": "C programming Bangla Tutorial 5.94 : switch | vowel/consonant তা switch এর C program",
+      "duration": 445
+    },
+    {
+      "id": "fVScpCnmhTI",
+      "title": "C programming Bangla Tutorial 5.95 : switch | switch syntax & Flowchart",
+      "duration": 518
+    },
+    {
+      "id": "LDQ_VgubDWA",
+      "title": "C programming Bangla Tutorial 5.96 : switch | Menu Based Temperature conversion",
+      "duration": 583
+    },
+    {
+      "id": "Yny-iLKFJII",
+      "title": "C programming Bangla Tutorial 5.97 : switch | Calculator",
+      "duration": 405
+    },
+    {
+      "id": "RPV6pCMWf_s",
+      "title": "C programming Bangla Tutorial 5.98 : switch | Menu-driven calculator",
+      "duration": 626
+    },
+    {
+      "id": "EiPzYNE2Neg",
+      "title": "C programming Bangla Tutorial 5.99 : End of the switch Topic",
+      "duration": 83
+    },
+    {
+      "id": "GuxPgMv8k-Q",
+      "title": "C Programming Tutorial 5.100: Conditional Operator / Ternary Operator",
+      "duration": 419
+    },
+    {
+      "id": "_HhV1f6abXs",
+      "title": "C programming Bangla Tutorial 5.101 : Bitwise operator",
+      "duration": 469
+    },
+    {
+      "id": "2kuf1VrxotM",
+      "title": "C programming Bangla Tutorial 5.102 : Loop | for, while, do while loop",
+      "duration": 1078
+    },
+    {
+      "id": "0wjav4T6z1k",
+      "title": "C programming Bangla Tutorial 5.103 : for, while, do while Syntax (part-1)",
+      "duration": 317
+    },
+    {
+      "id": "uACxP1GryZE",
+      "title": "C programming Bangla Tutorial 5.104 : for, while, do while Syntax (part-2)",
+      "duration": 698
+    },
+    {
+      "id": "7Ad6TGufx10",
+      "title": "C programming Bangla Tutorial 5.105 : for, while, do while Flowchart",
+      "duration": 443
+    },
+    {
+      "id": "sjH07WuDmF8",
+      "title": "C programming Bangla Tutorial 5.106 : break and continue statement",
+      "duration": 667
+    },
+    {
+      "id": "wiGTx0HPmz8",
+      "title": "C programming Bangla Tutorial 5.107 : goto statement",
+      "duration": 344
+    },
+    {
+      "id": "s5oo-fz5_IA",
+      "title": "C programming Bangla Tutorial 5.108 : Multiplication Table",
+      "duration": 676
+    },
+    {
+      "id": "EiqgbQ1TBnk",
+      "title": "C programming Bangla Tutorial 5.109 : Factorial | গৌণিক নির্ণয়ের জন্য Algorithm, Flowchart & C",
+      "duration": 651
+    },
+    {
+      "id": "HiPTnmjFsPU",
+      "title": "C programming Bangla Tutorial 5.110 : Factorial | গৌণিক নির্ণয়ের জন্য C program",
+      "duration": 386
+    },
+    {
+      "id": "kbEPqzsaxF8",
+      "title": "Code Run করার আগেই Output বের করুন! | DSA Bangla Series #01",
+      "duration": 1587
+    },
+    {
+      "id": "nM1TRC0myws",
+      "title": "C programming Bangla Tutorial 5.111 : Prime number | মৌলিক সংখ্যা কি এবং কিভাবে নির্ণয় করতে হয় ?",
+      "duration": 512
+    },
+    {
+      "id": "r5zf-0hAaAY",
+      "title": "C programming Bangla Tutorial 5.112 : Prime number | মৌলিক সংখ্যা  নির্ণয়ের জন্য A,F,C",
+      "duration": 899
+    },
+    {
+      "id": "4UrbVxaD1Xg",
+      "title": "C programming Bangla Tutorial 5.113 : Prime number | মৌলিক সংখ্যা নির্ণয়ের জন্য C program practical",
+      "duration": 515
+    },
+    {
+      "id": "1UByc1KclNk",
+      "title": "C programming Bangla Tutorial 5.114 : Check Prime Number",
+      "duration": 1630
+    },
+    {
+      "id": "h-Td0B-Yx4g",
+      "title": "C programming Bangla Tutorial 5.115 : total and sum of prime number",
+      "duration": 989
+    },
+    {
+      "id": "0Xh_qqKZHMU",
+      "title": "C programming Bangla Tutorial 5.116 : GCD(গসাগু) ও LCM(লসাগু) কি এবং কিভাবে নির্ণয় করতে হয় ?",
+      "duration": 626
+    },
+    {
+      "id": "8LTZzO7wVXg",
+      "title": "C programming Bangla Tutorial 5.117 : GCD(গসাগু) ও LCM(লসাগু) নির্ণয়ের জন্য Algorithm, Flowchart, C",
+      "duration": 650
+    },
+    {
+      "id": "0j4mouJlVnk",
+      "title": "C programming Bangla Tutorial 5.118 : GCD(গসাগু) ও LCM(লসাগু) নির্ণয়ের জন্য C program Practical",
+      "duration": 323
+    },
+    {
+      "id": "xn0ofA4XpIE",
+      "title": "C programming Bangla Tutorial 5.119 : Counting number of a digit in an integer",
+      "duration": 322
+    },
+    {
+      "id": "zNn1LQYrDkw",
+      "title": "Live Lecture 1 - Loop in C programming | sum of digits, reverse, palindrome, armstrong | Jan 2024",
+      "duration": 3136
+    },
+    {
+      "id": "IVHExlhBhrE",
+      "title": "Java Bangla Tutorials 56 : sum of digits (Theory)",
+      "duration": 613
+    },
+    {
+      "id": "6hbHXHTYzwY",
+      "title": "C programming Bangla Tutorial 5.120 : sum of digits (practical)",
+      "duration": 193
+    },
+    {
+      "id": "NwFRZK5kj_U",
+      "title": "Java Bangla Tutorials 58 : How To Reverse A Number  (Theory)",
+      "duration": 415
+    },
+    {
+      "id": "vP1K7bWKEvM",
+      "title": "C programming Bangla Tutorial 5.121 : Reverse a number (practical)",
+      "duration": 149
+    },
+    {
+      "id": "1rVaH6_L3iQ",
+      "title": "Java Bangla Tutorials 60 : Palindrome number (Theory)",
+      "duration": 410
+    },
+    {
+      "id": "7a1L7KBRjQ0",
+      "title": "C programming Bangla Tutorial 5.122 : Palindrome number (practical)",
+      "duration": 127
+    },
+    {
+      "id": "MWORULBTt-o",
+      "title": "Java Bangla Tutorials 63 : How to check an Armstrong number (Theory)",
+      "duration": 400
+    },
+    {
+      "id": "eiwk9DLGu7Q",
+      "title": "C programming Bangla Tutorial 5.123 : Armstrong Number (practical)",
+      "duration": 456
+    },
+    {
+      "id": "UWAzh5wawDs",
+      "title": "C programming Bangla Tutorial 5.124 : Check Armstrong number for any number of digits",
+      "duration": 925
+    },
+    {
+      "id": "3qPWlLOYd28",
+      "title": "C programming Bangla Tutorial 5.125 : Strong number",
+      "duration": 441
+    },
+    {
+      "id": "2SB8I7VINrw",
+      "title": "C programming Bangla Tutorial 5.126 : Largest digit in a number",
+      "duration": 577
+    },
+    {
+      "id": "6fw2WSyoOx0",
+      "title": "C programming Bangla Tutorial 5.127 : sum of divisors of a number",
+      "duration": 495
+    },
+    {
+      "id": "q6JRiUtsx2I",
+      "title": "C programming Bangla Tutorial 5.128 : How to check for Perfect number",
+      "duration": 739
+    },
+    {
+      "id": "2WlIafN4Pck",
+      "title": "C programming Bangla Tutorial 5.129 : How to check if number is a power of 2",
+      "duration": 888
+    },
+    {
+      "id": "1F0eIst9Y_s",
+      "title": "C programming Bangla Tutorial 5.130 : How to Check if number is a power of 2 | Bitwise trick",
+      "duration": 649
+    },
+    {
+      "id": "HJXTNHrvJuE",
+      "title": "For, While, Do-While: লুপ কনভার্সন করার নিয়ম | C Programming Tutorial",
+      "duration": 459
+    },
+    {
+      "id": "iKdy30tOy5I",
+      "title": "C programming Bangla Tutorial 5.131 : End of the Loop Topic",
+      "duration": 145
+    },
+    {
+      "id": "dDZf3jTyXiM",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "7d8cxxkGPVE",
+      "title": "C programming Bangla Tutorial 5.133 : Introduction to series program",
+      "duration": 116
+    },
+    {
+      "id": "Aix5RVbrZC4",
+      "title": "C programming Bangla Tutorial 5.134 : ১ হতে n পর্যন্ত সংখ্যাগুলো প্রদর্শন নির্ণয়ের জন্য A, F & C",
+      "duration": 808
+    },
+    {
+      "id": "0meysALVZxM",
+      "title": "C programming Bangla Tutorial 5.135 : ১ হতে n পর্যন্ত সংখ্যাগুলো প্রদর্শন নির্ণয়ের জন্য C program",
+      "duration": 306
+    },
+    {
+      "id": "5zryiltS5hU",
+      "title": "C programming Bangla Tutorial 5.136 : Series | 1 + 2 + 3 + .... + n নির্ণয়ের জন্য A, F & C",
+      "duration": 754
+    },
+    {
+      "id": "N8weeYjhr98",
+      "title": "C programming Bangla Tutorial 5.137 : Series | 1 + 2 + 3 + .... + n নির্ণয়ের জন্য C program",
+      "duration": 547
+    },
+    {
+      "id": "KvrTGoJuVRI",
+      "title": "C programming Bangla Tutorial 5.138 : Loop vs Gauss Formula",
+      "duration": 474
+    },
+    {
+      "id": "p-Ectv7LL9U",
+      "title": "C programming Bangla Tutorial 5.139 : Series programs এর জন্য input validation",
+      "duration": 1029
+    },
+    {
+      "id": "fFOSP47ri1s",
+      "title": "C programming Bangla Tutorial 5.140 : Series | 1.5 + 2.5+ 3.5 + .... +n নির্ণয়ের জন্য Algo, F & C",
+      "duration": 514
+    },
+    {
+      "id": "kDrnLFCRvYE",
+      "title": "C programming Bangla Tutorial 5.141 : Series | 1.5 + 2.5+ 3.5 + .... +n নির্ণয়ের জন্য C program",
+      "duration": 265
+    },
+    {
+      "id": "ohp3CR41ojc",
+      "title": "C programming Bangla Tutorial 5.142 : Series | 1^2 + 2^2 +....+ n^2 নির্ণয়ের জন্য Algorithm, F & C",
+      "duration": 695
+    },
+    {
+      "id": "apybRDAIhmE",
+      "title": "C programming Bangla Tutorial 5.143 : Series | 1^2 + 2^2 +....+ n^2 নির্ণয়ের জন্য C program",
+      "duration": 415
+    },
+    {
+      "id": "Y0GCjeKtutY",
+      "title": "C programming Bangla Tutorial 5.144 : Series | 1 + 1/2 + 1/3 +.... + 1/ n নির্ণয়ের জন্য C program",
+      "duration": 364
+    },
+    {
+      "id": "CBsO9nQgPiQ",
+      "title": "C programming Bangla Tutorial 5.145 : Series | 1 X 2 X 3 X.... X n নির্ণয়ের জন্য Algo, F & C",
+      "duration": 682
+    },
+    {
+      "id": "6OauDTx_SgM",
+      "title": "C programming Bangla Tutorial 5.146 : Series | 1 X 2 X 3 X.... X n নির্ণয়ের জন্য C prog Practical",
+      "duration": 268
+    },
+    {
+      "id": "fdzQDmAvqX4",
+      "title": "C programming Bangla Tutorial 5.147 : Series | 1^2 X 2^2 X 3^2 X.... X n^2 নির্ণয়ের জন্য A, F & C",
+      "duration": 269
+    },
+    {
+      "id": "jyiayNW0rbc",
+      "title": "C programming Bangla Tutorial 5.148 : Series | 1^2 X 2^2 X 3^2 X.... X n^2 নির্ণয়ের জন্য C program",
+      "duration": 327
+    },
+    {
+      "id": "clAwIq6YT-g",
+      "title": "C programming Bangla Tutorial 5.149 : Sum of Factorial series",
+      "duration": 925
+    },
+    {
+      "id": "Fl4PAkSCHZI",
+      "title": "C programming Bangla Tutorial 5.150 : কিভাবে যেকোনো সিরিজ সি প্রোগ্রামে লিখবেন?",
+      "duration": 764
+    },
+    {
+      "id": "GLrFN_jJ-io",
+      "title": "C programming Bangla Tutorial 5.151 : Series |  1-2+3-4+5-6......",
+      "duration": 360
+    },
+    {
+      "id": "9xtSeNsWIXQ",
+      "title": "C programming Bangla Tutorial 5.152 : Series | Fibonacci series Algorithm, Flowchart & C (part-1)",
+      "duration": 680
+    },
+    {
+      "id": "KwaQWvy4BeE",
+      "title": "C programming Bangla Tutorial 5.153 : Series | Fibonacci series Algorithm, Flowchart & C (part-2)",
+      "duration": 440
+    },
+    {
+      "id": "h6NgoxaJKDs",
+      "title": "C programming Bangla Tutorial 5.154 : Series | Fibonacci series C program practical",
+      "duration": 255
+    },
+    {
+      "id": "Us1gTBUb8XY",
+      "title": "C programming Bangla Tutorial 5.155 : Series | Lucas series",
+      "duration": 652
+    },
+    {
+      "id": "opIVJtOVt3Y",
+      "title": "C programming Bangla Tutorial 5.156 : End of the Series Topic",
+      "duration": 153
+    },
+    {
+      "id": "r96NSGpI0-I",
+      "title": "প্যাটার্ন প্রিন্টিং মডিউলে কি কি থাকছে?",
+      "duration": 262
+    },
+    {
+      "id": "irzvR4VEt4M",
+      "title": "C programming Bangla Tutorial 5.145 : Pattern | part-1",
+      "duration": 653
+    },
+    {
+      "id": "nouUL1X_3GI",
+      "title": "C programming Bangla Tutorial 5.146 : Pattern | part-2",
+      "duration": 820
+    },
+    {
+      "id": "GfbhD4JQ0wk",
+      "title": "C programming Bangla Tutorial 5.147 : Pattern | part-3",
+      "duration": 673
+    },
+    {
+      "id": "zDS4Q2UMj10",
+      "title": "C programming Bangla Tutorial 5.148 : Pattern | part-4",
+      "duration": 528
+    },
+    {
+      "id": "CRZSPHCQduo",
+      "title": "C programming Bangla Tutorial 5.149 : Pattern | part-5",
+      "duration": 281
+    },
+    {
+      "id": "f39LL1_4_Y8",
+      "title": "C programming Bangla Tutorial 5.150 : Pattern | part-6",
+      "duration": 541
+    },
+    {
+      "id": "YdXTZ8nSVxg",
+      "title": "C programming Bangla Tutorial 5.151 : Pattern | part-7",
+      "duration": 317
+    },
+    {
+      "id": "yPWRqmxIa10",
+      "title": "C programming Bangla Tutorial 5.152 : Pattern | part-8",
+      "duration": 543
+    },
+    {
+      "id": "N5le-vwM7Tw",
+      "title": "C programming Bangla Tutorial 5.153 : Pattern | part-9",
+      "duration": 488
+    },
+    {
+      "id": "OoGS9Xk2EKw",
+      "title": "C programming Bangla Tutorial 5.154 : Pattern | part-10 (Solid Rectangle)",
+      "duration": 316
+    },
+    {
+      "id": "uGySRUscoRo",
+      "title": "C programming Bangla Tutorial 5.155 : Pattern | part-11 (Multiplication Triangle)",
+      "duration": 317
+    },
+    {
+      "id": "_YeOERaD81M",
+      "title": "C programming Bangla Tutorial 5.156 : Pattern | part-12 (Pyramid I)",
+      "duration": 496
+    },
+    {
+      "id": "7I6id2bf-2k",
+      "title": "C programming Bangla Tutorial 5.157 : Pattern | part-13",
+      "duration": 306
+    },
+    {
+      "id": "y8qvPdAXT4w",
+      "title": "C programming Bangla Tutorial 5.158 : Pattern | part-14",
+      "duration": 313
+    },
+    {
+      "id": "BX9yDr52rUk",
+      "title": "C programming Bangla Tutorial 5.159 : Pattern | part-15  (Pyramid II)",
+      "duration": 568
+    },
+    {
+      "id": "Rgxf9Iowfos",
+      "title": "C programming Bangla Tutorial 5.160 : Pattern | part-16",
+      "duration": 442
+    },
+    {
+      "id": "4CAPeERHiBo",
+      "title": "C programming Bangla Tutorial 5.161 : Pattern | part-17 (Hollow Rectangle shape)",
+      "duration": 448
+    },
+    {
+      "id": "tsD4e27-R68",
+      "title": "C programming Bangla Tutorial 5.162 : Pattern | part-18 (Hollow Triangle shape)",
+      "duration": 278
+    },
+    {
+      "id": "uX2AdoGnX1o",
+      "title": "C programming Bangla Tutorial 5.163 : Pattern | part-19 (X shape)",
+      "duration": 369
+    },
+    {
+      "id": "fTQdsQ7WHCM",
+      "title": "C programming Bangla Tutorial 5.164 : Pattern | part-20 (Plus shape)",
+      "duration": 425
+    },
+    {
+      "id": "xjcjfZ84R-I",
+      "title": "C programming Bangla Tutorial 5.165 : Pattern | part-21 (Floyd's triangle)",
+      "duration": 345
+    },
+    {
+      "id": "eOoFlSUifkU",
+      "title": "C programming Bangla Tutorial 5.166 : Pattern | part-22 (Palindrome Number Pyramid)",
+      "duration": 438
+    },
+    {
+      "id": "ff-u0-9kWwE",
+      "title": "C programming Bangla Tutorial 5.167 : Pattern | part-23 (Reversed Palindrome Number Pyramid)",
+      "duration": 215
+    },
+    {
+      "id": "-qAHobXeGss",
+      "title": "C programming Bangla Tutorial 5.168 : Pattern | part-24 (Hollow pyramid)",
+      "duration": 642
+    },
+    {
+      "id": "Dxtgwb09oDI",
+      "title": "C programming Bangla Tutorial 5.169 : Pattern | Part 25 (Butterfly Shape)",
+      "duration": 498
+    },
+    {
+      "id": "y-Isj12apkI",
+      "title": "C programming Bangla Tutorial 5.170 : Pattern | Part 26 (Number Hourglass)",
+      "duration": 383
+    },
+    {
+      "id": "4G38TkMqOwM",
+      "title": "C programming Bangla Tutorial 5.171 : Pattern | Part 27 (Checkerboard)",
+      "duration": 216
+    },
+    {
+      "id": "1L5J_07HTaw",
+      "title": "C programming Bangla Tutorial 5.172 : Pattern | Part 28  (Number checkerboard)",
+      "duration": 234
+    },
+    {
+      "id": "HsgySyXOCHs",
+      "title": "C programming Bangla Tutorial 5.173 : Pattern | Part 29 (Concentric Square)",
+      "duration": 970
+    },
+    {
+      "id": "CUS28GSFcPY",
+      "title": "C programming Bangla Tutorial 5.174 : End Of Pattern Series",
+      "duration": 166
+    },
+    {
+      "id": "Q1W3vC24Hvs",
+      "title": "Live Lecture 2 - Array in C programming (part-1) | Jan 2024",
+      "duration": 4956
+    },
+    {
+      "id": "7QpLIXc1ILM",
+      "title": "Live Lecture 3 - Array in C programming (part-2) | Jan 2024",
+      "duration": 4615
+    },
+    {
+      "id": "NynMXcUGjKQ",
+      "title": "C programming Bangla Tutorial 5.165 : Introduction to Array",
+      "duration": 712
+    },
+    {
+      "id": "4h_7bbieZlw",
+      "title": "C programming Bangla Tutorial 5.166 : Array | Declaration, Initialization , sum of Array",
+      "duration": 785
+    },
+    {
+      "id": "dxak3umHC7g",
+      "title": "C programming Bangla Tutorial 5.167 : Array | Sum and Average of an Array",
+      "duration": 906
+    },
+    {
+      "id": "gFaxk3AtvFY",
+      "title": "C programming Bangla Tutorial 5.168 : Array | Maximum and Minimum of Array",
+      "duration": 834
+    },
+    {
+      "id": "ZcT1g-y1lDo",
+      "title": "C programming Bangla Tutorial 5.169 : Array | Fibonacci series using array",
+      "duration": 444
+    },
+    {
+      "id": "k4FP2b1HwjY",
+      "title": "C programming Bangla Tutorial 5.170 : Array | Searching a number (Linear search)",
+      "duration": 798
+    },
+    {
+      "id": "5uE-6b2e7ns",
+      "title": "Linear Search | Step-by-Step Algorithm, Dry Run with Code | DSA Bangla Series #14",
+      "duration": 640
+    },
+    {
+      "id": "GmiJlhrAKEs",
+      "title": "C programming Bangla Tutorial 5.171 : Array | copy all elements of an array to another array",
+      "duration": 545
+    },
+    {
+      "id": "kf-WxaKxztQ",
+      "title": "C programming Bangla Tutorial 5.172 : Array | Introduction to 2D Array",
+      "duration": 684
+    },
+    {
+      "id": "1MH7V3HD5b8",
+      "title": "C programming Bangla Tutorial 5.173 : Array | Getting input for 2D Array",
+      "duration": 448
+    },
+    {
+      "id": "sirKXoc9r-s",
+      "title": "C programming Bangla Tutorial 5.174 : Array | Simple Matrix",
+      "duration": 433
+    },
+    {
+      "id": "dgXbdk97lHo",
+      "title": "C programming Bangla Tutorial 5.175 : Array | Matrix Addition & Subtraction",
+      "duration": 867
+    },
+    {
+      "id": "38_xouYxIY8",
+      "title": "C programming Bangla Tutorial 5.176 : Array | Matrix Multiplication (part-1)",
+      "duration": 947
+    },
+    {
+      "id": "eCCq0vRU5L0",
+      "title": "C programming Bangla Tutorial 5.177 : Array | Matrix Multiplication (part-2)",
+      "duration": 738
+    },
+    {
+      "id": "yEuuf3yCCB0",
+      "title": "C programming Bangla Tutorial 5.178 : Array | Transpose Matrix",
+      "duration": 560
+    },
+    {
+      "id": "mj4lj0v-lCU",
+      "title": "C programming Bangla Tutorial 5.179 : Array | Sum of diagonal elements of a matrix",
+      "duration": 467
+    },
+    {
+      "id": "SV9LPxcS4cM",
+      "title": "C programming Bangla Tutorial 5.180 : Array | Sum of upper & lower triangles elements",
+      "duration": 347
+    },
+    {
+      "id": "UhPZr3Czh5I",
+      "title": "C programming Bangla Tutorial 5.181 : Array | End Of Array Topic",
+      "duration": 146
+    },
+    {
+      "id": "w1DhTRYrJ2w",
+      "title": "C programming Bangla Tutorial 5.182 : String | Introduction to String",
+      "duration": 478
+    },
+    {
+      "id": "p37NNwFkpfo",
+      "title": "C programming Bangla Tutorial 5.183 : String | Input and display String",
+      "duration": 209
+    },
+    {
+      "id": "OVR7aA-J0ic",
+      "title": "C programming Bangla Tutorial 5.184 : String | Display string character-wise",
+      "duration": 290
+    },
+    {
+      "id": "KUkeLiGqgv8",
+      "title": "C programming Bangla Tutorial 5.185 : String | finding length of String using strlen() function",
+      "duration": 151
+    },
+    {
+      "id": "I5qYJOrgSc0",
+      "title": "C programming Bangla Tutorial 5.186 : String | finding length of String without strlen() function",
+      "duration": 236
+    },
+    {
+      "id": "C88XXSdnfs8",
+      "title": "C programming Bangla Tutorial 5.187 : String | copy string using strcpy()",
+      "duration": 240
+    },
+    {
+      "id": "8f5NOjSfj1A",
+      "title": "C programming Bangla Tutorial 5.188 : String | concatenation using strcat()",
+      "duration": 274
+    },
+    {
+      "id": "UKobevD4-oc",
+      "title": "C programming Bangla Tutorial 5.189 : String | concatenation without strcat()",
+      "duration": 318
+    },
+    {
+      "id": "yYYN_9VfhMo",
+      "title": "C programming Bangla Tutorial 5.190 : String | String compare using strcmp()",
+      "duration": 166
+    },
+    {
+      "id": "ub1nYlvLZ_U",
+      "title": "C programming Bangla Tutorial 5.191 : String | String reverse using strrev()",
+      "duration": 156
+    },
+    {
+      "id": "KfoDrDQelis",
+      "title": "C programming Bangla Tutorial 5.192 : String | String reverse without strrev()",
+      "duration": 428
+    },
+    {
+      "id": "MDqvH2IrYYI",
+      "title": "C programming Bangla Tutorial 5.193 : String | string palindrome",
+      "duration": 257
+    },
+    {
+      "id": "BioLU_wMUi8",
+      "title": "C programming Bangla Tutorial 5.194 : String | string swapping",
+      "duration": 264
+    },
+    {
+      "id": "_zA7Ugx2AyQ",
+      "title": "C programming Bangla Tutorial 5.195 : String | strupr() and strlwr()",
+      "duration": 137
+    },
+    {
+      "id": "0lZRNEi4Lr4",
+      "title": "C programming Bangla Tutorial 5.196 : String | Number of vowels, consonants, words, digits and other",
+      "duration": 649
+    },
+    {
+      "id": "WWAmZ7kUPng",
+      "title": "C programming Bangla Tutorial 5.197 : String | Number of capital-small letters, digits",
+      "duration": 438
+    },
+    {
+      "id": "thxSpR-C51g",
+      "title": "C programming Bangla Tutorial 5.198 : String | End of String Topic",
+      "duration": 103
+    },
+    {
+      "id": "f9rcjQVoaSU",
+      "title": "C programming Bangla Tutorial 5.199 : Function | Sum of 2/3 numbers",
+      "duration": 950
+    },
+    {
+      "id": "Nfh3jfM7rL0",
+      "title": "C programming Bangla Tutorial 5.200 : Function | Square of a number",
+      "duration": 393
+    },
+    {
+      "id": "r7AAaFedlJQ",
+      "title": "C programming Bangla Tutorial 5.201 : Function | Area of a Triangle",
+      "duration": 465
+    },
+    {
+      "id": "CN4IFEz648I",
+      "title": "C programming Bangla Tutorial 5.202 : X To The Power Y using User-defined Function",
+      "duration": 415
+    },
+    {
+      "id": "VZjgFoqJmLA",
+      "title": "C programming Bangla Tutorial 5.203 : x to the power y (using /not using) Library function",
+      "duration": 639
+    },
+    {
+      "id": "-PBRb3VgEfs",
+      "title": "C programming Bangla Tutorial 5.204 : Passing Array to function",
+      "duration": 295
+    },
+    {
+      "id": "VepD8IvlS9s",
+      "title": "C programming Bangla Tutorial 5.205 : finding maximum value from an array using function",
+      "duration": 321
+    },
+    {
+      "id": "0O0nBrcuYo4",
+      "title": "C programming Bangla Tutorial 5.206 : Passing String to function",
+      "duration": 188
+    },
+    {
+      "id": "voGyK8L4ANM",
+      "title": "C programming Bangla Tutorial 5.207 : Recursion",
+      "duration": 577
+    },
+    {
+      "id": "tM3hANml0lo",
+      "title": "C programming Bangla Tutorial 5.208 : Factorial Using Recursion",
+      "duration": 237
+    },
+    {
+      "id": "gdDW0h1_YiI",
+      "title": "C programming Bangla Tutorial 5.209 : end of the function topic",
+      "duration": 92
+    },
+    {
+      "id": "VE_wE3VVMQ4",
+      "title": "C programming Bangla Tutorial 5.210 : Structure | Introduction to Structure",
+      "duration": 620
+    },
+    {
+      "id": "HMQdP-0VbrE",
+      "title": "C programming Bangla Tutorial 5.211 : Structure | Local vs Global structure",
+      "duration": 184
+    },
+    {
+      "id": "J6Cq2fx8s5A",
+      "title": "C programming Bangla Tutorial 5.212 : Structure | Input structure element",
+      "duration": 269
+    },
+    {
+      "id": "sh70EC0lRrE",
+      "title": "C programming Bangla Tutorial 5.213 : Structure | initialize structure variables",
+      "duration": 264
+    },
+    {
+      "id": "2PE4v9SEbgM",
+      "title": "C programming Bangla Tutorial 5.214 : Structure | structure comparison",
+      "duration": 225
+    },
+    {
+      "id": "K-4_FZ3Bm_Q",
+      "title": "C programming Bangla Tutorial 5.215 : Structure | Array of structure",
+      "duration": 543
+    },
+    {
+      "id": "v1slHDL5T_E",
+      "title": "C programming Bangla Tutorial 5.216 : Structure | Array within structure",
+      "duration": 441
+    },
+    {
+      "id": "MdwCs-cWl1s",
+      "title": "C programming Bangla Tutorial 5.217 : Structure | passing structure variable to function",
+      "duration": 458
+    },
+    {
+      "id": "6KFURRnpj1Q",
+      "title": "C programming Bangla Tutorial 5.218 : union | Introduction to union",
+      "duration": 397
+    },
+    {
+      "id": "NjYZqYzt0dQ",
+      "title": "C programming Bangla Tutorial 5.219 : union | size of union and structure",
+      "duration": 407
+    },
+    {
+      "id": "5ynO2-ma5H8",
+      "title": "C programming Bangla Tutorial 5.220 : enumeration | Introduction to enum",
+      "duration": 303
+    },
+    {
+      "id": "mArdUjvRJSQ",
+      "title": "C programming Bangla Tutorial 5.221 : typedef | Introduction to typedef",
+      "duration": 404
+    },
+    {
+      "id": "83slLHbwzj8",
+      "title": "C programming Bangla Tutorial 5.222 : End of structure, union, enum, typedef",
+      "duration": 169
+    },
+    {
+      "id": "zl9hmnj7BZU",
+      "title": "C programming Bangla Tutorial 5.223 : Pointer | Introduction to pointer",
+      "duration": 729
+    },
+    {
+      "id": "oHd2PSRNW8E",
+      "title": "C programming Bangla Tutorial 5.224 : Pointer | pointer pointing to different variable",
+      "duration": 199
+    },
+    {
+      "id": "ERvJEGKhRXk",
+      "title": "C programming Bangla Tutorial 5.225 : Pointer | Adding two numbers using pointer",
+      "duration": 188
+    },
+    {
+      "id": "8Qyjx_Tw3Iw",
+      "title": "C programming Bangla Tutorial 5.226 : Pointer | swapping two numbers",
+      "duration": 266
+    },
+    {
+      "id": "UYO_uITvfZ4",
+      "title": "C programming Bangla Tutorial 5.227 : Pointer | swapping two numbers using pointer and function",
+      "duration": 266
+    },
+    {
+      "id": "n9qyQKdSbLE",
+      "title": "C programming Bangla Tutorial 5.228 : Pointer | Access array elements using pointer",
+      "duration": 220
+    },
+    {
+      "id": "IsB2NsJ2OXw",
+      "title": "C programming Bangla Tutorial 5.229 : pass by value vs pass by reference",
+      "duration": 516
+    },
+    {
+      "id": "79i_z4acois",
+      "title": "C programming Bangla Tutorial 5.229 : Pointer | End of the pointer Topic",
+      "duration": 74
+    },
+    {
+      "id": "pB45aYxFYd0",
+      "title": "C programming Bangla Tutorial 5.230 : File | Introduction to File",
+      "duration": 517
+    },
+    {
+      "id": "GTOLbDDkSzU",
+      "title": "C programming Bangla Tutorial 5.231 : File | Writing to a file using fputc()",
+      "duration": 496
+    },
+    {
+      "id": "yAJ05vjD1CY",
+      "title": "C programming Bangla Tutorial 5.232 : File | Writing to a file using fputs()",
+      "duration": 569
+    },
+    {
+      "id": "keBOIqs9TWE",
+      "title": "C programming Bangla Tutorial 5.233 : File | Writing to a file using fprintf()",
+      "duration": 322
+    },
+    {
+      "id": "2TZXDWf5BNU",
+      "title": "C programming Bangla Tutorial 5.234 : File | Reading a file using fgetc()",
+      "duration": 264
+    },
+    {
+      "id": "g9OQlTCQ5hY",
+      "title": "C programming Bangla Tutorial 5.235 : File | Reading a file using fgets()",
+      "duration": 284
+    },
+    {
+      "id": "KHs7E2YbvVE",
+      "title": "C programming Bangla Tutorial 5.236 : File | Reading a file using fscanf()",
+      "duration": 410
+    },
+    {
+      "id": "4AK8NF8sMNo",
+      "title": "C programming Bangla Tutorial 5.237 : File | storing student details",
+      "duration": 755
+    },
+    {
+      "id": "FIwKYlPps6A",
+      "title": "C programming Bangla Tutorial 5.238 : File | End of the File topic",
+      "duration": 145
+    },
+    {
+      "id": "HRDR3Sji7hg",
+      "title": "C programming Bangla Tutorial 5.239 : Preprocessor | #define",
+      "duration": 320
+    },
+    {
+      "id": "kTthmXJYYzY",
+      "title": "C programming Bangla Tutorial 5.240 : Preprocessor | How to create header file",
+      "duration": 235
+    },
+    {
+      "id": "SzflfWOr9Ec",
+      "title": "Suggestions for Algorithms, Flowcharts & C Programming",
+      "duration": 259
+    },
+    {
+      "id": "A3jWF4Trsd0",
+      "title": "Contact Management System Project | C Programming | 2024",
+      "duration": 2808
+    },
+    {
+      "id": "Hx8j_vcyLf4",
+      "title": "C programming Bangla Tutorial 5.241 : series Finale",
+      "duration": 184
+    }
+  ]
+}
