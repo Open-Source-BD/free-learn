@@ -1,0 +1,510 @@
+{
+  "courseId": "c-plus-plus-bangla-tutorial-course-5ddb29",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:02.932Z",
+  "title": "C++ Bangla Tutorials",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "5sFrHBakZMA",
+      "title": "প্রতিটি সিএস শিক্ষার্থীর জন্য জরুরি কিছু পরামর্শ! | Challenges of CS Students",
+      "duration": 1173
+    },
+    {
+      "id": "0T4mPpbNs_8",
+      "title": "C++ Bangla Tutorials 1 : Introduction to C++",
+      "duration": 280
+    },
+    {
+      "id": "aAJCvPG3Lqo",
+      "title": "C++ Bangla Tutorials 2 : Translator program",
+      "duration": 289
+    },
+    {
+      "id": "34GzO42qX2k",
+      "title": "C++ Bangla Tutorials 3 : software installation",
+      "duration": 327
+    },
+    {
+      "id": "M8CuzjliVqk",
+      "title": "C++ Bangla Tutorials 4 : First c++ program and its various parts",
+      "duration": 532
+    },
+    {
+      "id": "9zL8nm7mnsI",
+      "title": "C++ Bangla Tutorials 5 : Escape sequence",
+      "duration": 288
+    },
+    {
+      "id": "LeLEFzZSEJA",
+      "title": "C++ Bangla Tutorials 6 : Comment | Types of comment",
+      "duration": 244
+    },
+    {
+      "id": "TmsuuRwg9Hc",
+      "title": "C++ Bangla Tutorials 7 : keyword, variable & data type (part-1)",
+      "duration": 610
+    },
+    {
+      "id": "QLhpDDon7vA",
+      "title": "C++ Bangla Tutorials 8 : keyword, variable & data type (part-2)",
+      "duration": 445
+    },
+    {
+      "id": "C0_F-vY3Qpw",
+      "title": "C++ Bangla Tutorials 9 : String variable",
+      "duration": 267
+    },
+    {
+      "id": "3NFbmRgCYGo",
+      "title": "C++ Bangla Tutorials 10 : How to get user input",
+      "duration": 389
+    },
+    {
+      "id": "HorndswDyVg",
+      "title": "C++ Bangla Tutorials 11 : Arithmetic operator | Types of operator",
+      "duration": 450
+    },
+    {
+      "id": "ScugABE-ho4",
+      "title": "C++ Bangla Tutorials 12 : Formatting output",
+      "duration": 491
+    },
+    {
+      "id": "M9aJrSkOMYg",
+      "title": "C++ Bangla Tutorials 13 : Calculating area of triangle",
+      "duration": 400
+    },
+    {
+      "id": "LwxilBuURmQ",
+      "title": "C++ Bangla Tutorials 14 : Temperature converter",
+      "duration": 220
+    },
+    {
+      "id": "6wJVDb6UMyA",
+      "title": "C++ Bangla Tutorials 15 : Assignment operator",
+      "duration": 376
+    },
+    {
+      "id": "0QACr5AkCBU",
+      "title": "C++ Bangla Tutorials 16 : Unary Operator",
+      "duration": 464
+    },
+    {
+      "id": "QIykGi84Yh0",
+      "title": "C++ Bangla Tutorials 17 : Bitwise operator (part-1)",
+      "duration": 376
+    },
+    {
+      "id": "MtF50gRSju0",
+      "title": "C++ Bangla Tutorials 18 : Bitwise operator (part-2)",
+      "duration": 236
+    },
+    {
+      "id": "cPF00yfWErY",
+      "title": "C++ Bangla Tutorials 19 : special operator",
+      "duration": 251
+    },
+    {
+      "id": "Y5Z0yXXGIl4",
+      "title": "C++ Bangla Tutorials 20 : Relational operator",
+      "duration": 154
+    },
+    {
+      "id": "YGLGpYucXn4",
+      "title": "C++ Bangla Tutorials 21 : if statement",
+      "duration": 500
+    },
+    {
+      "id": "bUl8zAxMzUE",
+      "title": "C++ Bangla Tutorials 22 : if else-if statement",
+      "duration": 236
+    },
+    {
+      "id": "70LSj7k-TdU",
+      "title": "C++ Bangla Tutorials 23 : if else-if else statement",
+      "duration": 138
+    },
+    {
+      "id": "143mjQ3lWOE",
+      "title": "C++ Bangla Tutorials 24 : Even-Odd | Large-small | Pass-Fail | Absolute value",
+      "duration": 669
+    },
+    {
+      "id": "CTlS6dwNWq0",
+      "title": "C++ Bangla Tutorials 25 : Letter Grade program",
+      "duration": 410
+    },
+    {
+      "id": "raGTSrh0BzU",
+      "title": "C++ Bangla Tutorials 26 : Logical Operator",
+      "duration": 308
+    },
+    {
+      "id": "8UUTRgI9lJA",
+      "title": "C++ Bangla Tutorials 27 : Vowel / Consonant program",
+      "duration": 310
+    },
+    {
+      "id": "GQzoDZIs1RI",
+      "title": "C++ Bangla Tutorials 28 : Vowel / Consonant program (part-2)",
+      "duration": 195
+    },
+    {
+      "id": "uWUsKyB1wNo",
+      "title": "C++ Bangla Tutorials 29 : Large / small number among 3 numbers",
+      "duration": 358
+    },
+    {
+      "id": "CHBRGobjlNI",
+      "title": "C++ Bangla Tutorials 30 : Leap Year program",
+      "duration": 309
+    },
+    {
+      "id": "MWc1VL3k7pI",
+      "title": "C++ Bangla Tutorials 31 : nested if",
+      "duration": 311
+    },
+    {
+      "id": "Hg-0Rv_uOXo",
+      "title": "C++ Bangla Tutorials 32 : conditional operator / Ternary Operator",
+      "duration": 360
+    },
+    {
+      "id": "Yasp3_cydQs",
+      "title": "C++ Bangla Tutorials 33 : switch statement",
+      "duration": 448
+    },
+    {
+      "id": "Uh8m8tcMe0s",
+      "title": "C++ Bangla Tutorials 34 : Vowel / consonant program using switch statement",
+      "duration": 301
+    },
+    {
+      "id": "GyYHZzGuYUc",
+      "title": "C++ Bangla Tutorials 35 : for loop",
+      "duration": 446
+    },
+    {
+      "id": "dFmR1EEwMPM",
+      "title": "C++ Bangla Tutorials 36 : while Loop",
+      "duration": 166
+    },
+    {
+      "id": "cxf7b0-udfM",
+      "title": "C++ Bangla Tutorials 37 : do while loop",
+      "duration": 273
+    },
+    {
+      "id": "mbMW3pdMPdA",
+      "title": "C++ Bangla Tutorials 38 : while vs do while",
+      "duration": 158
+    },
+    {
+      "id": "7qcuZAvtt0k",
+      "title": "C++ Bangla Tutorials 39 : break and continue keyword",
+      "duration": 307
+    },
+    {
+      "id": "EwHbqUOQN0s",
+      "title": "C++ Bangla Tutorials 40 : Multiplication table",
+      "duration": 341
+    },
+    {
+      "id": "kbEPqzsaxF8",
+      "title": "Code Run করার আগেই Output বের করুন! | DSA Bangla Series #01",
+      "duration": 1587
+    },
+    {
+      "id": "KQpncOdiQzo",
+      "title": "C++ Bangla Tutorials 41 : series",
+      "duration": 540
+    },
+    {
+      "id": "Zol6YOa44cg",
+      "title": "C++ Bangla Tutorials 42 : pattern",
+      "duration": 354
+    },
+    {
+      "id": "TwBXoE3sGxE",
+      "title": "C++ Bangla Tutorials 43 : data type and modifier",
+      "duration": 400
+    },
+    {
+      "id": "PBSZQh0UddA",
+      "title": "C++ Bangla Tutorials 44 : Introduction to array",
+      "duration": 494
+    },
+    {
+      "id": "MgIkP-trvhA",
+      "title": "C++ Bangla Tutorials 45 : Getting input in array",
+      "duration": 340
+    },
+    {
+      "id": "998IzgJWLAg",
+      "title": "C++ Bangla Tutorials 46 : Student application",
+      "duration": 752
+    },
+    {
+      "id": "ai1Ap0fkyk0",
+      "title": "C++ Bangla Tutorials 47 : Types of array",
+      "duration": 134
+    },
+    {
+      "id": "iXU0U2roem4",
+      "title": "C++ Bangla Tutorials 48 : Introduction to 2D Array",
+      "duration": 619
+    },
+    {
+      "id": "U8GvEO3tl64",
+      "title": "C++ Bangla Tutorials 49 : Getting input for 2D Array",
+      "duration": 410
+    },
+    {
+      "id": "_VcY_H-5-O4",
+      "title": "C++ Bangla Tutorials 50 : Introduction to pointer",
+      "duration": 249
+    },
+    {
+      "id": "mBqjoxHymFM",
+      "title": "C++ Bangla Tutorials 51 : Adding 2 Numbers Using Pointer",
+      "duration": 157
+    },
+    {
+      "id": "dv7Yw6IEzGw",
+      "title": "C++ Bangla Tutorials 52 : Introduction to function",
+      "duration": 612
+    },
+    {
+      "id": "sTqCPQmiHXA",
+      "title": "C++ Bangla Tutorials 53 : declaring multiple function",
+      "duration": 422
+    },
+    {
+      "id": "Ic4aW_RbBek",
+      "title": "C++ Bangla Tutorials 54 : Returning a value from a function",
+      "duration": 339
+    },
+    {
+      "id": "6T4cCT0bB1k",
+      "title": "C++ Bangla Tutorials 55 : default values for parameters",
+      "duration": 317
+    },
+    {
+      "id": "L3kBg7K-fIA",
+      "title": "C++ Bangla Tutorials 56 : advantages of parameters",
+      "duration": 228
+    },
+    {
+      "id": "9q5SQdor1Pk",
+      "title": "C++ Bangla Tutorials 57 : Random number",
+      "duration": 359
+    },
+    {
+      "id": "GJnOUWgwva8",
+      "title": "C++ Bangla Tutorials 58 : Guessing game",
+      "duration": 423
+    },
+    {
+      "id": "koJbB8Wi4TI",
+      "title": "C++ Bangla Tutorials 59 : function overloading",
+      "duration": 291
+    },
+    {
+      "id": "mC2qNKHtvDU",
+      "title": "C++ Bangla Tutorials 60 : passing arrays to function",
+      "duration": 313
+    },
+    {
+      "id": "DWEvTfsTsH4",
+      "title": "C++ Bangla Tutorials 61 : Recursion | recursive call | base case",
+      "duration": 459
+    },
+    {
+      "id": "BWHxmYvJdXs",
+      "title": "C++ Bangla Tutorials 62 : passing arguments",
+      "duration": 405
+    },
+    {
+      "id": "FPcYqhx4FO8",
+      "title": "C++ Bangla Tutorials 63 : string input",
+      "duration": 136
+    },
+    {
+      "id": "-lcWu8bD_Y0",
+      "title": "C++ Bangla Tutorials 64 : scope resolution operator",
+      "duration": 409
+    },
+    {
+      "id": "o1rtqUuzces",
+      "title": "C++ Bangla Tutorials 65 : Introduction to OOP | class & object",
+      "duration": 447
+    },
+    {
+      "id": "VFhTInXZDus",
+      "title": "C++ Bangla Tutorials 66 : class and object practical example",
+      "duration": 401
+    },
+    {
+      "id": "Vg6eC5W41Vc",
+      "title": "C++ Bangla Tutorials 67 : adding function to the class",
+      "duration": 246
+    },
+    {
+      "id": "fFuKZpQoOm8",
+      "title": "C++ Bangla Tutorials 68 : adding parametrized function to the class",
+      "duration": 259
+    },
+    {
+      "id": "XwasGhRnie4",
+      "title": "C++ Bangla Tutorials 69 : Constructor",
+      "duration": 358
+    },
+    {
+      "id": "jT4LdHax5Zo",
+      "title": "C++ Bangla Tutorials 70 : Types of Constructor | constructor overloading",
+      "duration": 206
+    },
+    {
+      "id": "Q9UjocdW2kk",
+      "title": "C++ Bangla Tutorials 71 : creating separate files for class",
+      "duration": 590
+    },
+    {
+      "id": "N4hIGFFDvX0",
+      "title": "C++ Bangla Tutorials 72 : Destructor",
+      "duration": 431
+    },
+    {
+      "id": "t-ABwnVzC_8",
+      "title": "C++ Bangla Tutorials 73 : Selection Operator",
+      "duration": 237
+    },
+    {
+      "id": "KtSZyaTnfUA",
+      "title": "C++ Bangla Tutorials 74 : constant variable",
+      "duration": 180
+    },
+    {
+      "id": "xtOkow5ZtJo",
+      "title": "C++ Bangla Tutorials 75 : Constant Objects",
+      "duration": 376
+    },
+    {
+      "id": "IgyMLLl9YGQ",
+      "title": "C++ Bangla Tutorials 76 : constructor initializer",
+      "duration": 465
+    },
+    {
+      "id": "M4Ff7VeLJfg",
+      "title": "C++ Bangla Tutorials 77 : introduction to string",
+      "duration": 474
+    },
+    {
+      "id": "7dCXFzPGzKI",
+      "title": "C++ Bangla Tutorials 78 : string library function",
+      "duration": 528
+    },
+    {
+      "id": "_IN8uXf3pug",
+      "title": "C++ Bangla Tutorials 79 : string class",
+      "duration": 248
+    },
+    {
+      "id": "3bGbh5pMrYU",
+      "title": "C++ Bangla Tutorials 80 : Encapsulation | Data hiding",
+      "duration": 526
+    },
+    {
+      "id": "uAdvD9meYYg",
+      "title": "C++ Bangla Tutorials 81 : this keyword",
+      "duration": 183
+    },
+    {
+      "id": "d5WFf68CcuU",
+      "title": "C++ Bangla Tutorials 82 : Inheritance",
+      "duration": 652
+    },
+    {
+      "id": "hRQgxzK-3xg",
+      "title": "C++ Bangla Tutorials 83 : types of inheritance",
+      "duration": 236
+    },
+    {
+      "id": "fNKSMl-HT7g",
+      "title": "C++ Bangla Tutorials 84 : Function Overriding",
+      "duration": 349
+    },
+    {
+      "id": "3brqrZ5g2j4",
+      "title": "C++ Bangla Tutorials 85 : difference between function overloading and function overriding",
+      "duration": 197
+    },
+    {
+      "id": "VLg8sYvLIGg",
+      "title": "C++ Bangla Tutorials 86 : Polymorphism",
+      "duration": 473
+    },
+    {
+      "id": "4fcjfIMc7wc",
+      "title": "C++ Bangla Tutorials 87 : Polymorphism Example - Shape",
+      "duration": 729
+    },
+    {
+      "id": "sy94_UfZgxs",
+      "title": "C++ Bangla Tutorials 88 : Abstraction",
+      "duration": 645
+    },
+    {
+      "id": "wFfhQhLnpVs",
+      "title": "C++ Bangla Tutorials 89 : Friend class",
+      "duration": 251
+    },
+    {
+      "id": "uoCuMTzD9AE",
+      "title": "C++ Bangla Tutorials 92 : Exception handling",
+      "duration": 571
+    },
+    {
+      "id": "qAwyLjU_MHE",
+      "title": "C++ Bangla Tutorials 90 : function templates",
+      "duration": 244
+    },
+    {
+      "id": "pMg95WOBC2c",
+      "title": "C++ Bangla Tutorials 91 : Function Templates With Multiple Parameters",
+      "duration": 150
+    },
+    {
+      "id": "ypFSfa3nobg",
+      "title": "C++ Bangla Tutorials 93 : how to create and write into a file",
+      "duration": 557
+    },
+    {
+      "id": "fXQdL-KT0Ao",
+      "title": "C++ Bangla Tutorials 94 : Storing student details in a file",
+      "duration": 351
+    },
+    {
+      "id": "k3mzhH9CcsA",
+      "title": "C++ Bangla Tutorials 95 : How to read from a file",
+      "duration": 324
+    },
+    {
+      "id": "Zhr7dhTDqhQ",
+      "title": "C++ Bangla Tutorials 96 : series finale",
+      "duration": 179
+    },
+    {
+      "id": "yS_tZXkNugQ",
+      "title": "Coding Tips Bangla Tutorial - Coding Standard in Software Development",
+      "duration": 1065
+    },
+    {
+      "id": "e6xYGbYst7M",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

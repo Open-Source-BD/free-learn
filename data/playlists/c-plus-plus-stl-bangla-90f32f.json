@@ -1,0 +1,115 @@
+{
+  "courseId": "c-plus-plus-stl-bangla-90f32f",
+  "sourceUrl": "https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:08.687Z",
+  "title": "C++ STL (Bangla)",
+  "channel": "LoveExtendsCode",
+  "videos": [
+    {
+      "id": "awY7oJ7wFhs",
+      "title": "C++ STL: 1 introduction to STL  (Bangla | বাংলা)",
+      "duration": 76
+    },
+    {
+      "id": "thC4qSvywPg",
+      "title": "C++ STL: 2 vector 1 (Bangla | বাংলা)",
+      "duration": 309
+    },
+    {
+      "id": "WEwZpte_XB8",
+      "title": "C++ STL: 2 vector 2 printing vector (Bangla | বাংলা)",
+      "duration": 422
+    },
+    {
+      "id": "zfF4W7pK-_0",
+      "title": "C++ STL: 4 vector 3 more on iterator (Bangla | বাংলা)",
+      "duration": 314
+    },
+    {
+      "id": "8Ga-vtsMM6o",
+      "title": "C++ STL: 5 vector 4 sort (Bangla | বাংলা)",
+      "duration": 258
+    },
+    {
+      "id": "13N1gcLVNSQ",
+      "title": "C++ STL: sort() (Bangla | বাংলা)",
+      "duration": 281
+    },
+    {
+      "id": "1TGXjIg4vzM",
+      "title": "C++ STL: 6 list (Bangla | বাংলা)",
+      "duration": 211
+    },
+    {
+      "id": "vNlYk9t-InI",
+      "title": "C++ STL: 8 more on list (Bangla | বাংলা)",
+      "duration": 183
+    },
+    {
+      "id": "WIIHRBn9gOg",
+      "title": "C++ STL: 9 list find() insert() (Bangla | বাংলা)",
+      "duration": 416
+    },
+    {
+      "id": "AO-bubqjpYU",
+      "title": "C++ STL: 10 list find (Bangla | বাংলা)",
+      "duration": 260
+    },
+    {
+      "id": "Nrjc8x53fr4",
+      "title": "C++ STL: 11 overview vector list (Bangla | বাংলা)",
+      "duration": 181
+    },
+    {
+      "id": "NcaV1awy5X8",
+      "title": "C++ STL: 12 list pop_front() pop_back() empty()  (Bangla | বাংলা)",
+      "duration": 391
+    },
+    {
+      "id": "fGCJIOWANIg",
+      "title": "STL C++ 13: Map (Bangla | বাংলা)",
+      "duration": 658
+    },
+    {
+      "id": "9dCd_5bYhRg",
+      "title": "STL C++ 14: Pair (Bangla | বাংলা)",
+      "duration": 439
+    },
+    {
+      "id": "lK4JRmpXjPo",
+      "title": "STL C++ 15: Set (Bangla | বাংলা)",
+      "duration": 453
+    },
+    {
+      "id": "LosrkzZK90g",
+      "title": "STL C++ 16 : Stack (Bangla | বাংলা)",
+      "duration": 401
+    },
+    {
+      "id": "M390yEnX7TU",
+      "title": "STL C++ 17 : Priority Queue (Bangla | বাংলা)",
+      "duration": 198
+    },
+    {
+      "id": "-eSomeDScBk",
+      "title": "STL C++ 18 MultiSet (Bangla | বাংলা)",
+      "duration": 274
+    },
+    {
+      "id": "XjxQWjVxC9Y",
+      "title": "STL C++ #19 (Bangla | বাংলা) :: binary_search, upper_bound, lower_bound",
+      "duration": 1113
+    },
+    {
+      "id": "ytxsaKqAPng",
+      "title": "STL C++ #20 (Bangla | বাংলা) :: Bitset, using Bitset in Sieve's algorithm",
+      "duration": 883
+    },
+    {
+      "id": "j85JfgBJtJ8",
+      "title": "[ বাংলা ] STL C++ #21:: Custom Comparator",
+      "duration": 1247
+    }
+  ]
+}
