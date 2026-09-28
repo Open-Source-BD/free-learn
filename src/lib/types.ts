@@ -36,3 +36,26 @@ export interface RawLanguageBlock {
 }
 
 export type RawCatalog = Partial<Record<LangCode, RawLanguageBlock>>;
+
+export interface PlaylistVideo {
+  id: string;
+  title: string;
+  duration: number | null;
+}
+
+export interface PlaylistFile {
+  courseId: string;
+  sourceUrl: string;
+  kind: 'playlist' | 'channel';
+  fetchedAt: string;
+  title: string;
+  channel: string;
+  videos: PlaylistVideo[];
+}
+
+export interface FetchReport {
+  ok: string[];
+  skipped: string[];
+  empty: string[];
+  failed: { courseId: string; url: string; error: string }[];
+}
