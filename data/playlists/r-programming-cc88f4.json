@@ -1,0 +1,210 @@
+{
+  "courseId": "r-programming-cc88f4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:26.686Z",
+  "title": "R Programming",
+  "channel": "TutorialsPoint",
+  "videos": [
+    {
+      "id": "7076ZuAwUn8",
+      "title": "R Programming - Course Overview",
+      "duration": 45
+    },
+    {
+      "id": "rGfuLF0QJ2M",
+      "title": "R Programming - Introduction",
+      "duration": 39
+    },
+    {
+      "id": "Al-pTT-YMEA",
+      "title": "R Programming - Environment setup",
+      "duration": 156
+    },
+    {
+      "id": "Njw0FHe0jow",
+      "title": "R Programming - Basic Syntax",
+      "duration": 190
+    },
+    {
+      "id": "i8naytvS5G8",
+      "title": "R Programming - Variables",
+      "duration": 151
+    },
+    {
+      "id": "gKWIM5MN6Go",
+      "title": "R Programming - Datatypes",
+      "duration": 54
+    },
+    {
+      "id": "0m1rfh4qSyc",
+      "title": "R Programming - Operators",
+      "duration": 52
+    },
+    {
+      "id": "t-rt6GpbZeM",
+      "title": "R Programming - Arithmetic Operator",
+      "duration": 78
+    },
+    {
+      "id": "j9Hq8alTVT8",
+      "title": "R Programming -  Relational Operators",
+      "duration": 78
+    },
+    {
+      "id": "G9vzTp0ea4M",
+      "title": "R Programming - Logical Operator",
+      "duration": 111
+    },
+    {
+      "id": "5927Axn5SJ0",
+      "title": "R Programming - Decision Making",
+      "duration": 25
+    },
+    {
+      "id": "87pyIjDgIUk",
+      "title": "R Programming - if Statement",
+      "duration": 94
+    },
+    {
+      "id": "ehC0-DxG-K4",
+      "title": "R Programming - if else Statement",
+      "duration": 124
+    },
+    {
+      "id": "14eMU0PsvKA",
+      "title": "R Programming - Switch Statement",
+      "duration": 93
+    },
+    {
+      "id": "huXQecLOXS8",
+      "title": "R Programming - Loops",
+      "duration": 21
+    },
+    {
+      "id": "vKiNQkGeZwA",
+      "title": "R Programming - for Loop",
+      "duration": 132
+    },
+    {
+      "id": "4vo_XHc5pxg",
+      "title": "R Programming - While Loop",
+      "duration": 131
+    },
+    {
+      "id": "Z_pkI1QkTo0",
+      "title": "R Programming - Repeat Loop",
+      "duration": 136
+    },
+    {
+      "id": "QjAGNquiLGU",
+      "title": "R Programming - Array",
+      "duration": 196
+    },
+    {
+      "id": "Vl9gSqi71Cs",
+      "title": "R Programming - Functions",
+      "duration": 181
+    },
+    {
+      "id": "77jR3aa7qcQ",
+      "title": "R Programming - Strings",
+      "duration": 252
+    },
+    {
+      "id": "wG4M3Y2jiU8",
+      "title": "R Programming - Vectors",
+      "duration": 215
+    },
+    {
+      "id": "P1he9Py5gU8",
+      "title": "R Programming - List",
+      "duration": 240
+    },
+    {
+      "id": "g9VCjOab7UI",
+      "title": "R Programming - Matrices",
+      "duration": 204
+    },
+    {
+      "id": "8dkbt0LsYyc",
+      "title": "R Programming - Factors",
+      "duration": 127
+    },
+    {
+      "id": "KfbU3ohYQCo",
+      "title": "R Programming - Data Frames",
+      "duration": 260
+    },
+    {
+      "id": "RzGdU20suQU",
+      "title": "R Programming - Packages",
+      "duration": 182
+    },
+    {
+      "id": "gOI6Ybno1qk",
+      "title": "R Programming - Data Reshaping",
+      "duration": 150
+    },
+    {
+      "id": "wMv0hmZGgU0",
+      "title": "R Programming - Opning Files",
+      "duration": 286
+    },
+    {
+      "id": "PJT1s_rOHFg",
+      "title": "R Programming - Web Data",
+      "duration": 117
+    },
+    {
+      "id": "F-4Dp6jJG8o",
+      "title": "R Programming - Database",
+      "duration": 547
+    },
+    {
+      "id": "Qxba8rg826w",
+      "title": "R Programming - Plotting",
+      "duration": 31
+    },
+    {
+      "id": "oQ1nhfNjOq8",
+      "title": "R Programming - Plotting Pie Chart",
+      "duration": 157
+    },
+    {
+      "id": "8gHaApZbQBQ",
+      "title": "R Programming - Plotting Bar Chart",
+      "duration": 137
+    },
+    {
+      "id": "bbANsOcmojs",
+      "title": "R Programming - Plotting Boxplots",
+      "duration": 114
+    },
+    {
+      "id": "lXvka6db1tw",
+      "title": "R Programming - Plotting Histogram",
+      "duration": 98
+    },
+    {
+      "id": "yMNLB7QXXXM",
+      "title": "R Programming - Plotting Line Graphs",
+      "duration": 167
+    },
+    {
+      "id": "_ZseOlGIGKE",
+      "title": "R Programming - Plotting Scatterplots",
+      "duration": 84
+    },
+    {
+      "id": "Glfp9s2dPcM",
+      "title": "R Programming - Mean, Median & Mode",
+      "duration": 90
+    },
+    {
+      "id": "xlJyKDzru1o",
+      "title": "R Programming - Linear Regression",
+      "duration": 245
+    }
+  ]
+}

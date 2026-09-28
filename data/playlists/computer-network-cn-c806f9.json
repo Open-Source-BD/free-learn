@@ -1,0 +1,495 @@
+{
+  "courseId": "computer-network-cn-c806f9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:27.792Z",
+  "title": "Computer Networks (CN)",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "1V9mhVgVH3A",
+      "title": "Complete CN Computer Networks in One Shot 10 Hours | Semester Exam | Hindi",
+      "duration": 37874
+    },
+    {
+      "id": "iap73O9OfMA",
+      "title": "Network Topology (Bus, Ring, Star, Mesh and Tree) Easiest Explanation Ever! (HINDI)",
+      "duration": 395
+    },
+    {
+      "id": "f4qblYxEEHM",
+      "title": "FHSS : Frequency Hopping Spread Spectrum Explained In Hindi",
+      "duration": 403
+    },
+    {
+      "id": "2645jY7qQSY",
+      "title": "DSSS : Direct Sequence Spread Spectrum With Example Explained In Hindi",
+      "duration": 425
+    },
+    {
+      "id": "ScGmmrXuw0M",
+      "title": "Pure Aloha ll Explained With Examples And Flowchart in Hindi",
+      "duration": 338
+    },
+    {
+      "id": "aq4_M1zll1I",
+      "title": "Slotted Aloha Explained with Examples ll A Comparison Between Pure and Slotted Aloha in Hindi",
+      "duration": 346
+    },
+    {
+      "id": "UhMqF0e6Ueg",
+      "title": "CRC ll Cyclic Redundancy Check Explained with Examples in Hindi",
+      "duration": 393
+    },
+    {
+      "id": "G8h3NCCL3SA",
+      "title": "Checksum ( Computer Networks) Error Detection Method Explained with Examples in Hindi",
+      "duration": 292
+    },
+    {
+      "id": "rVHjTrT8_Xs",
+      "title": "TDM (Time Division Multiplexing) and Polling Technique Explained and Compared with Examples in Hindi",
+      "duration": 318
+    },
+    {
+      "id": "Xr_S4kr4fR8",
+      "title": "Hidden Station Problem And Exposed Station Problem in Computer Networks Explained  in Hindi",
+      "duration": 314
+    },
+    {
+      "id": "f7sH3QzyRUw",
+      "title": "Non-persistent , 1-Persistent , P-Persistent CSMA Techniques Explained with Examples in Hindi",
+      "duration": 405
+    },
+    {
+      "id": "FWRBMeofRsM",
+      "title": "DHCP ll Dynamic Host Configuration Protocol Explained in Hindi ll Need Of DHCP",
+      "duration": 497
+    },
+    {
+      "id": "n9-VQvIFvFc",
+      "title": "CDMA ll Code Division Multiple Access Explained with Solved Example in Hindi",
+      "duration": 680
+    },
+    {
+      "id": "61A6iwJL3fw",
+      "title": "Introduction To OSI Model ll Computer Network Course Explained in Hindi",
+      "duration": 555
+    },
+    {
+      "id": "wa4eT3LlQZo",
+      "title": "OSI Model : Physical Layer ll Computer Networks Explained in Hindi",
+      "duration": 433
+    },
+    {
+      "id": "JvsFBNIBmVI",
+      "title": "Encoding : Manchester Encoding and Differential Manchester Encoding Explained with Examples in Hindi",
+      "duration": 368
+    },
+    {
+      "id": "yY0NtpmVB_A",
+      "title": "OSI Model : Data Link Layer (DLL) Explained in Hindi ll Computer Networks Course",
+      "duration": 515
+    },
+    {
+      "id": "f67UpCK6stE",
+      "title": "OSI Model : Network Layer Explained in Hindi ll Computer Networks Course",
+      "duration": 455
+    },
+    {
+      "id": "eP_rehnOkQ0",
+      "title": "OSI Model : Transport Layer Explained in Hindi ll Computer Networks Course",
+      "duration": 325
+    },
+    {
+      "id": "jP1n3pnljfw",
+      "title": "OSI Model : Session Layer Explained in Hindi ll Computer Networks Course",
+      "duration": 334
+    },
+    {
+      "id": "j-EWGI0uGAg",
+      "title": "OSI Model : Presentation Layer Explained in Hindi ll Computer Networks Course",
+      "duration": 300
+    },
+    {
+      "id": "fyZL1YDC45I",
+      "title": "How All Layers Work Explained with Example Part-1 in Hindi ll Computer Networks Course",
+      "duration": 793
+    },
+    {
+      "id": "riV-zYzO_q4",
+      "title": "How All Layers Work Explained with Example in Hindi Part-2 ll Computer Networks Course",
+      "duration": 791
+    },
+    {
+      "id": "QDexSqDxHq4",
+      "title": "Framing Part-1 Explained in Hindi l Computer Networks Course",
+      "duration": 574
+    },
+    {
+      "id": "1_BjtWi2bc4",
+      "title": "Framing Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 804
+    },
+    {
+      "id": "KJrS-zwsm1w",
+      "title": "Media Access Control (MAC) Address Part-1 Explained in Hindi",
+      "duration": 411
+    },
+    {
+      "id": "v5Oxp7GvoI4",
+      "title": "Media Access Control (MAC) Address Part-2 Explained in Hindi",
+      "duration": 388
+    },
+    {
+      "id": "JTJFiYgA44w",
+      "title": "Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Part-1 Explained in Hindi",
+      "duration": 503
+    },
+    {
+      "id": "ERUwFmLkkCk",
+      "title": "Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Part-2 Explained in Hindi",
+      "duration": 512
+    },
+    {
+      "id": "dQQA3-jdBCE",
+      "title": "Ethernet Explained in Hindi l Computer Network",
+      "duration": 599
+    },
+    {
+      "id": "GK_uF6cvrOY",
+      "title": "Ethernet Frame Format Explained in Hindi l Computer Network",
+      "duration": 619
+    },
+    {
+      "id": "PEKrQCmKLgg",
+      "title": "Token Passing Part-1 Explained in Hindi l Computer Network",
+      "duration": 433
+    },
+    {
+      "id": "zBEh7-C3SGw",
+      "title": "Token Passing Part-2 Explained in Hindi l Computer Network",
+      "duration": 413
+    },
+    {
+      "id": "6r5j_ayCq5A",
+      "title": "Token Ring Explained in Hindi l Computer Network Course",
+      "duration": 457
+    },
+    {
+      "id": "LehxFj-h6Bw",
+      "title": "Token Ring Problems : Source Problems Explained in Hindi l Computer Network Course",
+      "duration": 622
+    },
+    {
+      "id": "WFraQMCZQPs",
+      "title": "Token Ring Problems : Destination Problems Explained in Hindi l Computer Network Course",
+      "duration": 466
+    },
+    {
+      "id": "kelCq1lgQhU",
+      "title": "Token Ring Problems : Token Problems Explained in Hindi l Computer Network Course",
+      "duration": 607
+    },
+    {
+      "id": "V1tOwnAVwY8",
+      "title": "Token Ring Problems : Monitor Problems Explained in Hindi l Computer Network Course",
+      "duration": 336
+    },
+    {
+      "id": "y3QwFjKKLNU",
+      "title": "Token Ring Frame Format Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 807
+    },
+    {
+      "id": "T7tf4ju4-Hw",
+      "title": "Token Ring Frame Format Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 736
+    },
+    {
+      "id": "lAEPRn4DIrA",
+      "title": "Circuit Switching Explained in Hindi l Computer Network Course",
+      "duration": 443
+    },
+    {
+      "id": "gjN4GACRt84",
+      "title": "Packet Switching Explained in Hindi l Computer Network Course",
+      "duration": 568
+    },
+    {
+      "id": "VS97ef2qpaM",
+      "title": "Virtual Circuit and Datagram Explained in Hindi l Computer Network Course",
+      "duration": 458
+    },
+    {
+      "id": "of4c-BmehHQ",
+      "title": "Packetization Part-1 Explained with Example in Hindi l Computer Network Course",
+      "duration": 595
+    },
+    {
+      "id": "KuNzZ7D4qB4",
+      "title": "Packetization Part-2 Explained with Example in Hindi l Computer Network Course",
+      "duration": 540
+    },
+    {
+      "id": "SGptQCoBA00",
+      "title": "Introduction To IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 558
+    },
+    {
+      "id": "CJ45R8mlg0c",
+      "title": "What Should be the Minimum Length Of Ring l Token Ring l Computer Network Course",
+      "duration": 384
+    },
+    {
+      "id": "nI15BhTRfVg",
+      "title": "Header Length Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 452
+    },
+    {
+      "id": "FYzRwtdgZjc",
+      "title": "Fragmentation Part-1 Explained with Example in Hindi l Computer Network Course",
+      "duration": 592
+    },
+    {
+      "id": "1Ai0Aya9Vsw",
+      "title": "Fragmentation Part-2 Explained with Example in Hindi l Computer Network Course",
+      "duration": 567
+    },
+    {
+      "id": "aHu3Ydp7KcE",
+      "title": "TTL Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 670
+    },
+    {
+      "id": "IcNHdzacW5U",
+      "title": "Protocol Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 340
+    },
+    {
+      "id": "Jm46l18dMBI",
+      "title": "Options Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 552
+    },
+    {
+      "id": "wLlhTrkCY0c",
+      "title": "Total length Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 188
+    },
+    {
+      "id": "KoMlis50cho",
+      "title": "Header Checksum Field in IPV4 Header Explained in Hindi l Computer Network Course",
+      "duration": 370
+    },
+    {
+      "id": "pJsVg-LQGIA",
+      "title": "Reassembling Algorithm Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 458
+    },
+    {
+      "id": "NJE-bhPY1uU",
+      "title": "Reassembling Algorithm Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 393
+    },
+    {
+      "id": "-IXPDypf2cs",
+      "title": "Address Resolution Protocol (ARP) Explained in Hindi l Computer Network Course",
+      "duration": 471
+    },
+    {
+      "id": "myDrL9YaxjM",
+      "title": "Reverse Address Resolution Protocol (RARP) Explained in Hindi l Computer Network Course",
+      "duration": 557
+    },
+    {
+      "id": "tAKx2RCgqow",
+      "title": "Internet Control Message Protocol (ICMP) Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 570
+    },
+    {
+      "id": "241lPGbXsHo",
+      "title": "Internet Control Message Protocol (ICMP) Explained in Hindi l Computer Network Course",
+      "duration": 598
+    },
+    {
+      "id": "wTgDh2X1rJ0",
+      "title": "ICMP Feedback Messaging : TTL Exceed and Source Quench Explained in Hindi l Computer Network Course",
+      "duration": 393
+    },
+    {
+      "id": "uuZCNsU6n6A",
+      "title": "ICMP FEEDBACK MESSAGING : Parameter Problem and Source Redirect Explained in Hindi",
+      "duration": 367
+    },
+    {
+      "id": "hPlOxTjS5vA",
+      "title": "ICMP Feedback Messaging : Destination Unreachable Explained in Hindi l Computer Network Course",
+      "duration": 295
+    },
+    {
+      "id": "5LM0iYNUUY8",
+      "title": "Echo Request and Reply and Router Solicitation Explained in Hindi l Computer Network Course",
+      "duration": 399
+    },
+    {
+      "id": "T46-dlrDM0o",
+      "title": "Routing Vs Flooding Explained in Hindi l Computer Network Course",
+      "duration": 617
+    },
+    {
+      "id": "5vKu_RColVI",
+      "title": "Introduction To Routing Algorithm : Static Vs Flooding Explained in Hindi l Computer Network Course",
+      "duration": 304
+    },
+    {
+      "id": "hkaYIg01dDk",
+      "title": "Distance Vector Routing Algorithm Part-1Explained in Hindi l Computer Network Course",
+      "duration": 590
+    },
+    {
+      "id": "HeKGOiy4OLE",
+      "title": "Distance Vector Routing Algorithm Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 548
+    },
+    {
+      "id": "7S8a7AZBycM",
+      "title": "Distance Vector Routing Algorithm Part-3 Explained in Hindi l Computer Network Course",
+      "duration": 511
+    },
+    {
+      "id": "W9wthihPw4g",
+      "title": "Link State Routing Algorithm Part-1 Explained with Example in Hindi l Computer Network Course",
+      "duration": 508
+    },
+    {
+      "id": "pAgthRHdy9s",
+      "title": "Link State Routing Algorithm Part-2 Explained with Example in Hindi l Computer Network Course",
+      "duration": 487
+    },
+    {
+      "id": "zCrijIJNeKI",
+      "title": "Link State Routing Algorithm Part-3 Explained with Example in Hindi l Computer Network Course",
+      "duration": 412
+    },
+    {
+      "id": "pfU_IgdEzMs",
+      "title": "Introduction To TCP Header Explained in Hindi l Computer Network Course",
+      "duration": 566
+    },
+    {
+      "id": "N3DnbL_f2bE",
+      "title": "Source Port and Destination Port Field in TCP Header Explained in Hindi",
+      "duration": 466
+    },
+    {
+      "id": "8meI2O7bS2c",
+      "title": "Sequence Number Field and Acknowledgement Number Field in TCP Header Explained in Hindi",
+      "duration": 491
+    },
+    {
+      "id": "TyWYSh2ykE4",
+      "title": "In TCP Why We Should Not Start With a Sequence Number 0 Explained in Hindi l Computer Network Course",
+      "duration": 372
+    },
+    {
+      "id": "ynFSszLvAas",
+      "title": "Maximum Segment Size (MSS) Explained in Hindi l Computer Network Course",
+      "duration": 303
+    },
+    {
+      "id": "uZvpppR3dL0",
+      "title": "Header Length Field in TCP Header Explained in Hindi l Computer Network Course",
+      "duration": 507
+    },
+    {
+      "id": "GiKIciAsx8w",
+      "title": "Wrap Around Time Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 600
+    },
+    {
+      "id": "ym4gszuLoY8",
+      "title": "Wrap Around Time Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 514
+    },
+    {
+      "id": "z-RFQVL2RnQ",
+      "title": "TCP Connection Establishment Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 458
+    },
+    {
+      "id": "urPIXoAFP8c",
+      "title": "TCP Connection Establishment Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 363
+    },
+    {
+      "id": "cjzxNAeh5SM",
+      "title": "TCP Data Transmission Phase Explained in Hindi l Computer Network Course",
+      "duration": 483
+    },
+    {
+      "id": "mEdF-Z4k_MY",
+      "title": "TCP Connection Termination Phase Explained in Hindi l Computer Network Course",
+      "duration": 591
+    },
+    {
+      "id": "xp6gA0_YHL4",
+      "title": "URG Flag and Urgent Pointer Field in TCP Header Explained in Hindi l Computer Network Course",
+      "duration": 414
+    },
+    {
+      "id": "ywHLApzSHoo",
+      "title": "RST Flag in TCP Header Explained in Hindi l Computer Network Course",
+      "duration": 313
+    },
+    {
+      "id": "OFkiaIjTXW8",
+      "title": "User Datagram Protocol (UDP) Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 384
+    },
+    {
+      "id": "lsVRbzdEvsk",
+      "title": "User Datagram Protocol (UDP) Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 359
+    },
+    {
+      "id": "lb5vwsR6myM",
+      "title": "Repeater Explained in Hindi l Computer Network Course",
+      "duration": 350
+    },
+    {
+      "id": "WS6-yG6OY54",
+      "title": "Hub Explained in Hindi l Computer Network Course",
+      "duration": 260
+    },
+    {
+      "id": "bIoUH3QO5xc",
+      "title": "Bridge Explained in Hindi l Computer Network Course",
+      "duration": 486
+    },
+    {
+      "id": "RNTMApUc3Mo",
+      "title": "Router Explained in Hindi l Computer Network Course",
+      "duration": 357
+    },
+    {
+      "id": "UCuXtlVcIJM",
+      "title": "Domain Name Server (DNS) Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 490
+    },
+    {
+      "id": "Alhc7cqM4Ds",
+      "title": "Domain Name Server (DNS) Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 466
+    },
+    {
+      "id": "3CwX2_lc0nc",
+      "title": "BackOff Algorithm Part-1 Explained in Hindi l Computer Network Course",
+      "duration": 567
+    },
+    {
+      "id": "RP6ZzjoICG0",
+      "title": "BackOff Algorithm Part-2 Explained in Hindi l Computer Network Course",
+      "duration": 545
+    }
+  ]
+}

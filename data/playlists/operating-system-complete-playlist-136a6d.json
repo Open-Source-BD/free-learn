@@ -1,0 +1,470 @@
+{
+  "courseId": "operating-system-complete-playlist-136a6d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:48.360Z",
+  "title": "Operating System (Complete Playlist)",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "bkSWJJZNgf8",
+      "title": "Lec-0:Operating System Syllabus Discussion for all College/University & Competitive exams (GATE,NET)",
+      "duration": 781
+    },
+    {
+      "id": "WJ-UaAaumNA",
+      "title": "L-1.1: Introduction to Operating System and its Functions with English Subtitles",
+      "duration": 1139
+    },
+    {
+      "id": "povNcHSasgs",
+      "title": "L-1.2: Batch Operating System | Types of Operating System",
+      "duration": 432
+    },
+    {
+      "id": "3MqyDWDpZoI",
+      "title": "L-1.3: Multiprogramming and Multitasking Operating System in Hindi with real life examples",
+      "duration": 394
+    },
+    {
+      "id": "YQZbIT9FcUk",
+      "title": "L-1.4: Types of OS(Real Time OS, Distributed, Clustered & Embedded OS)",
+      "duration": 495
+    },
+    {
+      "id": "2dJdHMpCLIg",
+      "title": "L-1.5: Process States in Operating System| Schedulers(Long term,Short term,Medium term)",
+      "duration": 1254
+    },
+    {
+      "id": "-Mq8Mm_NGxI",
+      "title": "L-1.6: Imp Linux Commands(Operating System) | Must Watch for College/University & Competitive exams",
+      "duration": 658
+    },
+    {
+      "id": "tWPa-rZiGM8",
+      "title": "L-1.7: System Calls in Operating system and its types in Hindi",
+      "duration": 607
+    },
+    {
+      "id": "ixq5cpdEO2Q",
+      "title": "L-1.8: Fork System call with Example | Fork() system call questions",
+      "duration": 602
+    },
+    {
+      "id": "uMMvYLB4cys",
+      "title": "L-1.9: Questions on Fork System Call With Explanation | Operating System",
+      "duration": 399
+    },
+    {
+      "id": "8duV1LLHHJU",
+      "title": "L-1.10: User mode and Kernel mode in operating system in hindi",
+      "duration": 406
+    },
+    {
+      "id": "ITc09gOrqZk",
+      "title": "L-1.11: Process Vs Threads in Operating System",
+      "duration": 677
+    },
+    {
+      "id": "-NONm-Jq34Y",
+      "title": "L-1.12: User Level Vs Kernel Level Thread in Operating System | All Imp Points",
+      "duration": 509
+    },
+    {
+      "id": "zFnrUVqtiOY",
+      "title": "L-2.1: Process Scheduling Algorithms (Preemption Vs Non-Preemption) | CPU Scheduling in OS",
+      "duration": 631
+    },
+    {
+      "id": "n7Owxwfr6Ko",
+      "title": "L-2.2: What is Arrival, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling",
+      "duration": 539
+    },
+    {
+      "id": "MZdVAVMgNpA",
+      "title": "L-2.3: First Come First Serve(FCFS) CPU Scheduling Algorithm with Example",
+      "duration": 634
+    },
+    {
+      "id": "VCIVXPoiLpU",
+      "title": "L-2.4: Shortest Job First(SJF) Scheduling  Algorithm with  Example | Operating System",
+      "duration": 554
+    },
+    {
+      "id": "hoN7_VMzw_g",
+      "title": "L-2.5: Shortest Remaining Time First (SJF With Preemption) Scheduling Algorithm with  Example | OS",
+      "duration": 817
+    },
+    {
+      "id": "kbfCRoNAPbY",
+      "title": "L-2.6: Question on Shortest Job First(SJF) with Preemption Scheduling Algorithm",
+      "duration": 472
+    },
+    {
+      "id": "TxjIlNYRZ5M",
+      "title": "L-2.7: Round Robin(RR) CPU Scheduling Algorithm with  Example",
+      "duration": 983
+    },
+    {
+      "id": "rsDGfFxSgiY",
+      "title": "L-2.8: Pre-emptive Priority  Scheduling Algorithm with  Example | Operating System",
+      "duration": 630
+    },
+    {
+      "id": "0T5PlFVA9_k",
+      "title": "L-2.9: Example of Mix Burst Time(CPU & I/O both) in CPU Scheduling | Tough Question",
+      "duration": 859
+    },
+    {
+      "id": "hBPYP0ZEvS8",
+      "title": "L-2.10: Multi Level Queue Scheduling | Operating System",
+      "duration": 221
+    },
+    {
+      "id": "-94WGbrWveI",
+      "title": "L-2.11: Multilevel Feedback Queue Scheduling | Operating System",
+      "duration": 322
+    },
+    {
+      "id": "3Eaw1SSIqRg",
+      "title": "L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1",
+      "duration": 1022
+    },
+    {
+      "id": "iMD1Z3f9ioI",
+      "title": "L-3.2: Producer Consumer Problem | Process Synchronization Problem in Operating System",
+      "duration": 1596
+    },
+    {
+      "id": "16NMm0jvu2w",
+      "title": "L-3.3: Printer-Spooler Problem | Process Synchronization Problem in Operating System",
+      "duration": 795
+    },
+    {
+      "id": "qMQsd7Iy5jo",
+      "title": "L-3.4: Critical Section Problem |  Mutual Exclusion, Progress and Bounded Waiting | Operating System",
+      "duration": 1536
+    },
+    {
+      "id": "TrV_dOX_YHw",
+      "title": "L-3.5: LOCK Variable in OS | Process Synchronization",
+      "duration": 444
+    },
+    {
+      "id": "9hzoO4hBXFw",
+      "title": "L-3.6: Test and Set Instruction in OS | Process Synchronization",
+      "duration": 549
+    },
+    {
+      "id": "kMlJT1BDIMg",
+      "title": "L-3.7: Turn Variable | Strict Alteration Method | Process Synchronization",
+      "duration": 501
+    },
+    {
+      "id": "eoGkJWgxurQ",
+      "title": "L-3.8: Semaphores | Wait, Signal Operation | Counting Semaphore | Example| Operating system",
+      "duration": 1482
+    },
+    {
+      "id": "l5-3mbBV1BQ",
+      "title": "L-3.9: What is Binary Semaphore | Easiest Explanation | Operating system",
+      "duration": 743
+    },
+    {
+      "id": "Tav67viXmpA",
+      "title": "L-3.10: Practice Question on Binary Semaphore in Operating System",
+      "duration": 960
+    },
+    {
+      "id": "hh9g5kKl_aE",
+      "title": "L-3.11: Solution of Producer Consumer Problem using Semaphore | Operating System",
+      "duration": 1050
+    },
+    {
+      "id": "Zdzp5k3eSYg",
+      "title": "L-3.12: Solution of Readers-writers  Problem using Binary semaphore",
+      "duration": 1271
+    },
+    {
+      "id": "HHoB2t_B6MI",
+      "title": "L-3.13: Dining philosophers Problem and Solution using Semaphore in Operating System",
+      "duration": 2113
+    },
+    {
+      "id": "rWFH6PLOIEI",
+      "title": "L-4.1: DEADLOCK concept | Example | Necessary condition | Operating System",
+      "duration": 741
+    },
+    {
+      "id": "BW74JYB3QOM",
+      "title": "L-4.2: Resource Allocation Graph in Deadlock | Single Instance with example | Operating System",
+      "duration": 1578
+    },
+    {
+      "id": "hJhB2ddOQtg",
+      "title": "L-4.3: Multi-Instance Resource Allocation Graph with Example | Operating System",
+      "duration": 1302
+    },
+    {
+      "id": "pPM9Ajqmy_4",
+      "title": "L-4.4: Deadlock Handling Methods and Deadlock Prevention | Operating System",
+      "duration": 1489
+    },
+    {
+      "id": "7gMLNiEz3nw",
+      "title": "L-4.5: Deadlock Avoidance Banker's Algorithm with Example |With English Subtitles",
+      "duration": 1444
+    },
+    {
+      "id": "k8BHyy6gBls",
+      "title": "L-4.6: GATE 2018 Question on Banker's Algorithm | Deadlock avoidance | Operating System",
+      "duration": 962
+    },
+    {
+      "id": "mGBjd2WoODs",
+      "title": "L-4.7: Question Explaination on Deadlock | Operating System",
+      "duration": 946
+    },
+    {
+      "id": "6uEf_F1S-Jo",
+      "title": "L-4.8: GATE 2018 Question Explaination on deadlock | Operating system",
+      "duration": 1335
+    },
+    {
+      "id": "eESIFJz7mJw",
+      "title": "L-5.1: Memory Management and Degree of Multiprogramming | Operating System",
+      "duration": 1421
+    },
+    {
+      "id": "FrTttJLN7Kw",
+      "title": "L-5.2: Memory management  Techniques | Contiguous and non-Contiguous | Operating System",
+      "duration": 706
+    },
+    {
+      "id": "bK-VhQA512c",
+      "title": "L-5.3: Internal Fragmentation | Fixed  size Partitioning | Memory management | Operating System",
+      "duration": 1133
+    },
+    {
+      "id": "JdPmsrYqRDY",
+      "title": "L-5.4: Variable size Partitioning |  Memory management | Operating System",
+      "duration": 911
+    },
+    {
+      "id": "N3rG_1CEQkQ",
+      "title": "L-5.5: First Fit, Next Fit, Best Fit, Worst fit Memory Allocation | Memory Management | OS",
+      "duration": 982
+    },
+    {
+      "id": "W7wDlABjCQI",
+      "title": "L-5.6: GATE Question Solved on First Fit,Best Fit and Worst fit Memory Allocation | Operating System",
+      "duration": 842
+    },
+    {
+      "id": "XOFTINaUZt8",
+      "title": "L-5.7: GATE 2007 Question Solved on First Fit, Best Fit and Worst fit with timeline | OS",
+      "duration": 941
+    },
+    {
+      "id": "I2TbCGNv1xQ",
+      "title": "L-5.8: Need of Paging | Memory Management | Operating System",
+      "duration": 860
+    },
+    {
+      "id": "6c-mOFZwP_8",
+      "title": "L-5.9: What is Paging | Memory management |  Operating System",
+      "duration": 1554
+    },
+    {
+      "id": "30P73tWmU0s",
+      "title": "L-5.10: Question Explanation on Logical address and Physical address space | Operating System",
+      "duration": 925
+    },
+    {
+      "id": "L80DakYu4uw",
+      "title": "L-5.11: Question Explanation on Paging | Memory Management | Operating System",
+      "duration": 832
+    },
+    {
+      "id": "JyPMJnnkNmQ",
+      "title": "L-5.12: Page Table Entries | Format of Page Table | Operating System",
+      "duration": 639
+    },
+    {
+      "id": "PiEq1CoP0ds",
+      "title": "L-5.13: 2-Level Paging in Operating System | Multilevel Paging",
+      "duration": 945
+    },
+    {
+      "id": "spApKfUa8BI",
+      "title": "L-5.14: Inverted paging | Memory Management | Operating System",
+      "duration": 635
+    },
+    {
+      "id": "ucNJMcX-duE",
+      "title": "L-5.15: Paging Questions in Operating System(OS) | Imp Question for all competitive exams",
+      "duration": 473
+    },
+    {
+      "id": "IyWaK8pbN6A",
+      "title": "L-5.16: What is Thrashing | Operating System",
+      "duration": 514
+    },
+    {
+      "id": "dz9Tk6KCMlQ",
+      "title": "L-5.17: Segmentation Vs Paging | Segmentation Working | Operating system",
+      "duration": 990
+    },
+    {
+      "id": "Quj-Goz4VMA",
+      "title": "L-5.18: Overlay | Memory Management | Operating system",
+      "duration": 672
+    },
+    {
+      "id": "o2_iCzS9-ZQ",
+      "title": "L-5.19: Virtual Memory | Page fault | Significance of virtual memory | Operating System",
+      "duration": 1218
+    },
+    {
+      "id": "Z2T2vnyZl0o",
+      "title": "L-5.20: Translation Lookaside Buffer(TLB) in Operating System in Hindi",
+      "duration": 743
+    },
+    {
+      "id": "Z4vzWxCcDCY",
+      "title": "L-5.21: Numerical on Translation Lookaside Buffer (TLB) | Operating System",
+      "duration": 271
+    },
+    {
+      "id": "8rcUs5RutX0",
+      "title": "L-5.22: Page Replacement Introduction | FIFO Page Replacement algorithm | Operating System",
+      "duration": 967
+    },
+    {
+      "id": "pR1uhp--COc",
+      "title": "L-5.23: Belady's Anomaly in FIFO page Replacement with example | Operating System",
+      "duration": 746
+    },
+    {
+      "id": "q2BpMvPhhrY",
+      "title": "L-5.24: Optimal Page Replacement algorithm | Operating System",
+      "duration": 787
+    },
+    {
+      "id": "dYIoWkCvd6A",
+      "title": "L-5.25: Least Recently Used  Page Replacement Algorithm | Operating System",
+      "duration": 477
+    },
+    {
+      "id": "H3BU_Do_l-Q",
+      "title": "L-5.26: Most recently used page replacement algorithm | Operating System",
+      "duration": 402
+    },
+    {
+      "id": "sveZw_GG_cs",
+      "title": "L-6.1: Hard Disk Architecture in Operating System in Hindi",
+      "duration": 695
+    },
+    {
+      "id": "udZi6uiR8bM",
+      "title": "L-6.2: Disk Access Time with Example | Seek Time, Rotational Time and Transfer Time",
+      "duration": 913
+    },
+    {
+      "id": "9uoa_p8q47Y",
+      "title": "L-6.3: Disk Scheduling Algorithm | Operating System",
+      "duration": 368
+    },
+    {
+      "id": "yP89YlEGCqA",
+      "title": "L-6.4: FCFS in Disk scheduling with Example | Operating System",
+      "duration": 524
+    },
+    {
+      "id": "P_dA8VGJjA8",
+      "title": "L-6.5: SSTF in Disk scheduling with Example | Operating System",
+      "duration": 510
+    },
+    {
+      "id": "xouo556RGiE",
+      "title": "L-6.6: SCAN Algorithm in Disk scheduling with Example | Operating System",
+      "duration": 474
+    },
+    {
+      "id": "Q2qcqX_hvR0",
+      "title": "L-6.7: LOOK Algorithm in Disk scheduling with Example | Operating System",
+      "duration": 268
+    },
+    {
+      "id": "vLqZ6ZMBkX8",
+      "title": "L-6.8: C-SCAN Algorithm in Disk scheduling with Example | Operating System",
+      "duration": 322
+    },
+    {
+      "id": "gwCgG5ORXW8",
+      "title": "L-6.9: C-LOOK Algorithm in Disk scheduling with Example | Operating System",
+      "duration": 299
+    },
+    {
+      "id": "AF3FoARvtcc",
+      "title": "L-6.10: Important Questions on Operating System | Must Watch | NTA NET June 2021",
+      "duration": 581
+    },
+    {
+      "id": "0LtuQhNFFe0",
+      "title": "L-7.1: File System in Operating System | Windows, Linux, Unix, Android etc.",
+      "duration": 595
+    },
+    {
+      "id": "q1wGGZbOr4s",
+      "title": "L-7.2: File Attributes & Operations in Operating System",
+      "duration": 674
+    },
+    {
+      "id": "J6wVO4pvUCw",
+      "title": "L-7.3: Allocation Methods in operating system in hindi | Contiguous vs NonContiguous",
+      "duration": 359
+    },
+    {
+      "id": "XHx-ms5Ldi4",
+      "title": "L-7.4: Contiguous Allocation in Operating system | Advantages & Disadvantages",
+      "duration": 757
+    },
+    {
+      "id": "irGdM3iIS54",
+      "title": "L-7.5: Linked List allocation in file allocation with example | Operating system",
+      "duration": 655
+    },
+    {
+      "id": "S6lLRz7SQUw",
+      "title": "L-7.6: Indexed File Allocation in Operating System",
+      "duration": 643
+    },
+    {
+      "id": "BJ13GsC0_os",
+      "title": "L-7.7: Unix Inode Structure with Numerical Example | OS",
+      "duration": 626
+    },
+    {
+      "id": "DKb7KhfoZmU",
+      "title": "Lec-8: Protection & Security in Operating system | Full OS playlist",
+      "duration": 1254
+    },
+    {
+      "id": "10tZ7JBiN0w",
+      "title": "TLBs Toughest Question asked in GATE exam | Operating System",
+      "duration": 593
+    },
+    {
+      "id": "K1GFwYzCQlw",
+      "title": "Top 15 OS Interview Questions | Operating System Interview | Placement Strategy",
+      "duration": 937
+    },
+    {
+      "id": "j7VU5A8ajSA",
+      "title": "Linker & Loader with example",
+      "duration": 594
+    }
+  ]
+}

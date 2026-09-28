@@ -1,0 +1,280 @@
+{
+  "courseId": "codeigniter-4-tutorials-for-beginners-6dacc1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:25.768Z",
+  "title": "CodeIgniter 4 Tutorials for Beginners | CodeIgniter4",
+  "channel": "GoPHP",
+  "videos": [
+    {
+      "id": "DXoQ26TDGcY",
+      "title": "#01 CodeIgniter 4 Introduction",
+      "duration": 524
+    },
+    {
+      "id": "eVp1MBnj8v0",
+      "title": "#02 CodeIgniter 4 Server Requirements",
+      "duration": 436
+    },
+    {
+      "id": "SQ8AXUXLsxQ",
+      "title": "#03 CodeIgniter 4 Installation",
+      "duration": 679
+    },
+    {
+      "id": "duAUw1AlBkA",
+      "title": "#04 CodeIgniter 4 Application Structure",
+      "duration": 525
+    },
+    {
+      "id": "xL01DBLVbto",
+      "title": "#05 MVC Architecture | CodeIgniter 4 Tutorials",
+      "duration": 718
+    },
+    {
+      "id": "41quBmldpQM",
+      "title": "#06 CodeIgniter 4 URLs",
+      "duration": 562
+    },
+    {
+      "id": "N274PPhL1WU",
+      "title": "#07 Controllers in CodeIgniter 4",
+      "duration": 741
+    },
+    {
+      "id": "Daw_bkWyP8o",
+      "title": "#08 Removing public and index.php from URL | CodeIgniter 4 Tutorials",
+      "duration": 431
+    },
+    {
+      "id": "d0Vu9PW73-o",
+      "title": "#09 Remapping method calls in Controller class | CodeIgniter 4 Tutorials",
+      "duration": 900
+    },
+    {
+      "id": "0npImrPi3Jk",
+      "title": "#10 Views in CodeIgniter 4 | Loading Multiple views",
+      "duration": 585
+    },
+    {
+      "id": "LFVbP1VfRmU",
+      "title": "#11 Passing data to views | Data Iteration in views | CodeIgniter 4 Tutorials",
+      "duration": 998
+    },
+    {
+      "id": "_M1Lzn1VzmE",
+      "title": "#12 HTML Table class in CodeIgniter 4",
+      "duration": 1092
+    },
+    {
+      "id": "xZFyh14TUcg",
+      "title": "#13 View Parser class in CodeIgniter 4",
+      "duration": 1093
+    },
+    {
+      "id": "nm_U1669fPw",
+      "title": "#14 View Filters in CodeIgniter 4 | View Parser Class in CodeIgniter 4",
+      "duration": 1042
+    },
+    {
+      "id": "kwnrn7-7Onk",
+      "title": "#15 Custom View Filters in CodeIgniter 4",
+      "duration": 894
+    },
+    {
+      "id": "Jdrhg9TQTHs",
+      "title": "#16 View Layouts CodeIgniter 4",
+      "duration": 1818
+    },
+    {
+      "id": "c9WXiQaAoBY",
+      "title": "#17 Theme Integration in CodeIgniter 4",
+      "duration": 2361
+    },
+    {
+      "id": "ldYJViRGhwQ",
+      "title": "#18 URI Routing in CodeIgniter 4",
+      "duration": 1402
+    },
+    {
+      "id": "z-DV_mgqDg8",
+      "title": "#19 Database Configuration in CodeIgniter 4",
+      "duration": 666
+    },
+    {
+      "id": "L9eTea-N7kI",
+      "title": "#20 Database Configuration by using .env file | CodeIgniter 4 Tutorials",
+      "duration": 177
+    },
+    {
+      "id": "U4BE3znXqns",
+      "title": "#21 Models in CodeIgniter 4 | How to load a model into a Controller",
+      "duration": 621
+    },
+    {
+      "id": "5qP33VVVvhI",
+      "title": "#22 Reading data from database using Models| CodeIgniter 4 Tutorials",
+      "duration": 716
+    },
+    {
+      "id": "qNJGL3fuF5M",
+      "title": "#23 Libraries in CodeIgniter 4",
+      "duration": 300
+    },
+    {
+      "id": "j920pNKcCSc",
+      "title": "#23-1 Custom Libraries in CodeIgniter 4",
+      "duration": 1103
+    },
+    {
+      "id": "70R8b0pwrLs",
+      "title": "#24 Email Library in CodeIgniter 4 | Sending an email from localhost | CodeIgniter 4 Tutorials",
+      "duration": 970
+    },
+    {
+      "id": "6SnK64MuBoY",
+      "title": "#25 Helpers in CodeIgniter 4 | Extending Helpers | Custom Helpers",
+      "duration": 892
+    },
+    {
+      "id": "PYjfL4DGkzk",
+      "title": "#26 Form Validations in CodeIgniter 4",
+      "duration": 2076
+    },
+    {
+      "id": "Nuiwro-W2Ec",
+      "title": "#27 Enable development environment in CodeIgniter 4",
+      "duration": 402
+    },
+    {
+      "id": "SpKEj1kRONw",
+      "title": "#28 Contact Form in CodeIgniter 4",
+      "duration": 2431
+    },
+    {
+      "id": "gNHMo6GhMaU",
+      "title": "#29 User Management module overview | CodeIgniter 4 Tutorials",
+      "duration": 193
+    },
+    {
+      "id": "B_27dKlVMYQ",
+      "title": "#30 Create Register and Login forms | CodeIgniter 4 Tutorials",
+      "duration": 920
+    },
+    {
+      "id": "-7lsFgH2y7A",
+      "title": "#31 Register Form in CodeIgniter 4",
+      "duration": 2348
+    },
+    {
+      "id": "OwJQf7oL4W8",
+      "title": "#32 Account Activation Link Process | CodeIgniter 4 Tutorials",
+      "duration": 1322
+    },
+    {
+      "id": "yAAQ4pGZYJY",
+      "title": "Finding total no.of records from a result set | CodeIgniter 4 tutorials",
+      "duration": 308
+    },
+    {
+      "id": "rcZC43e2wq0",
+      "title": "#33 Login form in Codeigniter 4",
+      "duration": 1640
+    },
+    {
+      "id": "iMD8fkd5VuA",
+      "title": "#34 Display Logged In User Profile | Logout | CodeIgniter 4 Tutorials",
+      "duration": 1412
+    },
+    {
+      "id": "_a0ebkIDnTo",
+      "title": "#35 Login Activity of a user | CodeIgniter 4 Tutorials",
+      "duration": 1634
+    },
+    {
+      "id": "VDBJMS4zl8I",
+      "title": "#36 Login with Google Account in codeigniter 4",
+      "duration": 3112
+    },
+    {
+      "id": "VGJuy9TWZs8",
+      "title": "#37 Login with facebook in codeigniter 4",
+      "duration": 1760
+    },
+    {
+      "id": "zQttxMPGuCE",
+      "title": "#38 File Uploading in codeigniter 4",
+      "duration": 1191
+    },
+    {
+      "id": "zrMJHkBwoV8",
+      "title": "#39 Multiple File Uploading in codeigniter 4",
+      "duration": 968
+    },
+    {
+      "id": "lqvosAb3nkY",
+      "title": "#40 Upload Avatar | User Management Module | CodeIgniter 4 Tutorials",
+      "duration": 1606
+    },
+    {
+      "id": "laBbm0VTVdU",
+      "title": "#41 Change Password | User Management Module | CodeIgniter 4 Tutorials",
+      "duration": 1058
+    },
+    {
+      "id": "gnVhPfbrjis",
+      "title": "#42 Edit User Profile | User Management Module | CodeIgniter 4 Tutorials",
+      "duration": 849
+    },
+    {
+      "id": "dups0CtNSIk",
+      "title": "#43 Forgot Password | User Management Module | CodeIgniter 4 Tutorials",
+      "duration": 889
+    },
+    {
+      "id": "qn5tHNglqMw",
+      "title": "#44 Reset Password | User Management Module | CodeIgniter 4 Tutorials",
+      "duration": 1106
+    },
+    {
+      "id": "ZXnb94qSh34",
+      "title": "#45 Controller Filters in CodeIgniter 4",
+      "duration": 379
+    },
+    {
+      "id": "kefPLVfE2kE",
+      "title": "#46 isLoggedIn Filter | Controller Filters | CodeIgniter 4 Tutorials",
+      "duration": 915
+    },
+    {
+      "id": "h0RYv2Q6tzI",
+      "title": "#47 Throttler in CodeIgniter 4 | Throttler Class",
+      "duration": 1013
+    },
+    {
+      "id": "Iuz8Q-mxOJ0",
+      "title": "#48 IP Address Blocking using Throttler & Filters",
+      "duration": 1339
+    },
+    {
+      "id": "KHlbSRar9AU",
+      "title": "#49 Rate limiting API calls by using Throttler & Filters | CodeIgniter 4 Tutorials",
+      "duration": 902
+    },
+    {
+      "id": "5wW8YFThHXY",
+      "title": "#50 Automatic Models | Codeigniter 4 Models",
+      "duration": 1435
+    },
+    {
+      "id": "qVs3jgwHjFA",
+      "title": "#51 CRUD Operation part 1 | Automatic Models | CodeIgniter 4 Tutorials",
+      "duration": 1760
+    },
+    {
+      "id": "n8SsmFiodjg",
+      "title": "#52 CRUD Operation part 2 | Automatic Models | CodeIgniter 4 Tutorials",
+      "duration": 1027
+    }
+  ]
+}

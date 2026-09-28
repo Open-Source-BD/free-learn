@@ -1,0 +1,655 @@
+{
+  "courseId": "python-tutorial-for-beginners-hindi-with-notes-0d99d5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:37.452Z",
+  "title": "Python Tutorials For Absolute Beginners In Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "aqvDTCpNRek",
+      "title": "Beginner Friendly Full Python Tutorials(Teaser) | Python Tutorials For Absolute Beginners In Hindi#0",
+      "duration": 225
+    },
+    {
+      "id": "vrQlEhmVFDA",
+      "title": "What is Programming & Why Learn Python? | Python Tutorials For Absolute Beginners In Hindi #1",
+      "duration": 666
+    },
+    {
+      "id": "MoeQlmeJnPg",
+      "title": "Downloading Python and Pycharm Installation | Python Tutorials For Absolute Beginners In Hindi #2",
+      "duration": 892
+    },
+    {
+      "id": "0SZodbWUsQU",
+      "title": "Using Modules & Pip In Python | Python Tutorials For Absolute Beginners In Hindi #3",
+      "duration": 496
+    },
+    {
+      "id": "bfSHM-vx5lA",
+      "title": "Writing Our First Python Program | Python Tutorials For Absolute Beginners In Hindi #4",
+      "duration": 302
+    },
+    {
+      "id": "CDb9YzUq_VA",
+      "title": "Using Python As A Calculator | Python Tutorials For Absolute Beginners In Hindi #5",
+      "duration": 265
+    },
+    {
+      "id": "uhUgIT68CoU",
+      "title": "Comments, Escape Sequences & Print Statement| Python Tutorials For Absolute Beginners In Hindi #6",
+      "duration": 787
+    },
+    {
+      "id": "z1-zfCvxybI",
+      "title": "Variables, Datatypes and Typecasting | Python Tutorials For Absolute Beginners In Hindi #7",
+      "duration": 1013
+    },
+    {
+      "id": "lPZn7zcGXQo",
+      "title": "String Slicing And Other Functions In Python | Python Tutorials For Absolute Beginners In Hindi #8",
+      "duration": 1077
+    },
+    {
+      "id": "neTsPE9XFsQ",
+      "title": "Python Lists And List Functions | Python Tutorials For Absolute Beginners In Hindi #9",
+      "duration": 1299
+    },
+    {
+      "id": "5y1sh0-oKTE",
+      "title": "Dictionary & Its Functions Explained | Python Tutorials For Absolute Beginners In Hindi #10",
+      "duration": 790
+    },
+    {
+      "id": "y_aRifWZbnY",
+      "title": "Python Exercise 1 - Apni Dictionary | Python Tutorials For Absolute Beginners In Hindi #11",
+      "duration": 134
+    },
+    {
+      "id": "iVJv3zdgkD4",
+      "title": "Sets In Python | Python Tutorials For Absolute Beginners In Hindi #12",
+      "duration": 383
+    },
+    {
+      "id": "3VejIihDfwU",
+      "title": "If Else & Elif Conditionals In Python | Python Tutorials For Absolute Beginners In Hindi #13",
+      "duration": 797
+    },
+    {
+      "id": "6_hq_8FsKkE",
+      "title": "Exercise 1 - Solution And Your Answers | Python Tutorials For Absolute Beginners In Hindi #14",
+      "duration": 698
+    },
+    {
+      "id": "VP8s9NiFToM",
+      "title": "Python Exercise 2 - Faulty Calculator  | Python Tutorials For Absolute Beginners In Hindi #15",
+      "duration": 238
+    },
+    {
+      "id": "sSyCRQx5WM0",
+      "title": "For Loops In Python | Python Tutorials For Absolute Beginners In Hindi #16",
+      "duration": 681
+    },
+    {
+      "id": "qvWuPZNOeGg",
+      "title": "While Loops In Python | Python Tutorials For Absolute Beginners In Hindi #17",
+      "duration": 235
+    },
+    {
+      "id": "aXGC1fx6QQo",
+      "title": "Break & Continue Statements In Python | Python Tutorials For Absolute Beginners In Hindi #18",
+      "duration": 559
+    },
+    {
+      "id": "s0lxxTHWx6w",
+      "title": "Python Exercise 2: Faulty Calculator Solution| Python Tutorials For Absolute Beginners In Hindi #19",
+      "duration": 1064
+    },
+    {
+      "id": "2loUi5KxZ3E",
+      "title": "Python Exercise 3 - Guess The Number | Python Tutorials For Absolute Beginners In Hindi #20",
+      "duration": 212
+    },
+    {
+      "id": "OlumSBDDR3U",
+      "title": "Operators In Python | Python Tutorials For Absolute Beginners In Hindi #21",
+      "duration": 785
+    },
+    {
+      "id": "FsqiWRJeRDQ",
+      "title": "Short Hand If Else Notation In Python | Python Tutorials For Absolute Beginners In Hindi #22",
+      "duration": 293
+    },
+    {
+      "id": "xTmBq-CQTVU",
+      "title": "Functions And Docstrings | Python Tutorials For Absolute Beginners In Hindi #23",
+      "duration": 782
+    },
+    {
+      "id": "A0hmk3wWTXI",
+      "title": "Try Except Exception Handling In Python | Python Tutorials For Absolute Beginners In Hindi #24",
+      "duration": 426
+    },
+    {
+      "id": "MpHo6dC6Ky0",
+      "title": "Python File IO Basics | Python Tutorials For Absolute Beginners In Hindi #25",
+      "duration": 402
+    },
+    {
+      "id": "Q9K_wFj5DuQ",
+      "title": "Open(), Read() & Readline() For Reading File | Python Tutorials For Absolute Beginners In Hindi #26",
+      "duration": 783
+    },
+    {
+      "id": "nsJuAUCH-_o",
+      "title": "Python Exercise 3: Solution | Python Tutorials For Absolute Beginners In Hindi #27",
+      "duration": 1386
+    },
+    {
+      "id": "ZNIe4Nf-6-c",
+      "title": "Writing And Appending To A File | Python Tutorials For Absolute Beginners In Hindi #28",
+      "duration": 410
+    },
+    {
+      "id": "FyvmDqsc8tc",
+      "title": "Python Exercise 4: Astrologer's Stars | Python Tutorials For Absolute Beginners In Hindi #29",
+      "duration": 200
+    },
+    {
+      "id": "stcJipumWwY",
+      "title": "Seek(), tell() & More On Python Files | Python Tutorials For Absolute Beginners In Hindi #30",
+      "duration": 365
+    },
+    {
+      "id": "Mqmq5YwciMg",
+      "title": "Using With Block To Open Python Files | Python Tutorials For Absolute Beginners In Hindi #31",
+      "duration": 354
+    },
+    {
+      "id": "OM5hCIwSv1g",
+      "title": "Exercise 5: Health Management System | Python Tutorials For Absolute Beginners In Hindi #32",
+      "duration": 333
+    },
+    {
+      "id": "im7Z1jKMGao",
+      "title": "Scope, Global Variables and Global Keyword | Python Tutorials For Absolute Beginners In Hindi #33",
+      "duration": 787
+    },
+    {
+      "id": "UhCObChYSMc",
+      "title": "Recursions: Recursive Vs Iterative Approach | Python Tutorials For Absolute Beginners In Hindi #34",
+      "duration": 948
+    },
+    {
+      "id": "ZXtpX_CRVGM",
+      "title": "Exercise 4: Solution And First Solver | Python Tutorials For Absolute Beginners In Hindi #35",
+      "duration": 1086
+    },
+    {
+      "id": "EFjf3cx1N7o",
+      "title": "Anonymous/Lambda Functions In Python | Python Tutorials For Absolute Beginners In Hindi #36",
+      "duration": 400
+    },
+    {
+      "id": "Ft5ksUloEH8",
+      "title": "Exercise 5: Solution And First Solver | Python Tutorials For Absolute Beginners In Hindi #37",
+      "duration": 945
+    },
+    {
+      "id": "jA5pP2HNRNI",
+      "title": "Using Python External & Built In Modules | Python Tutorials For Absolute Beginners In Hindi #38",
+      "duration": 677
+    },
+    {
+      "id": "mcK9lEPomMI",
+      "title": "F-Strings & String Formatting In Python | Python Tutorials For Absolute Beginners In Hindi #39",
+      "duration": 449
+    },
+    {
+      "id": "kHYaYbHQOg0",
+      "title": "Exercise 6: Game Development: Snake Water Gun | Python Tutorials For Absolute Beginners In Hindi #40",
+      "duration": 318
+    },
+    {
+      "id": "0lu2SY3menU",
+      "title": "*args and **kwargs In Python | Python Tutorials For Absolute Beginners In Hindi #41",
+      "duration": 893
+    },
+    {
+      "id": "u9cHEJivgPA",
+      "title": "Time Module In Python | Python Tutorials For Absolute Beginners In Hindi #42",
+      "duration": 670
+    },
+    {
+      "id": "Lah7WGW6exg",
+      "title": "Virtual Environment & Requirements.txt | Python Tutorials For Absolute Beginners In Hindi #43",
+      "duration": 1308
+    },
+    {
+      "id": "NjaKU7eEGt8",
+      "title": "Enumerate Function | Python Tutorials For Absolute Beginners In Hindi #44",
+      "duration": 410
+    },
+    {
+      "id": "6RfTUiMR-RM",
+      "title": "How Import Works In Python? | Python Tutorials For Absolute Beginners In Hindi #45",
+      "duration": 774
+    },
+    {
+      "id": "Gy74MjEpnYw",
+      "title": "If __name__==__main__ usage & necessity | Python Tutorials For Absolute Beginners In Hindi #46",
+      "duration": 542
+    },
+    {
+      "id": "6VXmyVwPDlE",
+      "title": "Join Function In Python | Python Tutorials For Absolute Beginners In Hindi #47",
+      "duration": 274
+    },
+    {
+      "id": "zimHDlOpGXo",
+      "title": "Map, Filter & Reduce | Python Tutorials For Absolute Beginners In Hindi #48",
+      "duration": 1119
+    },
+    {
+      "id": "uRIjZu3d22I",
+      "title": "Exercise 6 Solution & First Solver | Python Tutorials For Absolute Beginners In Hindi #49",
+      "duration": 2019
+    },
+    {
+      "id": "khKJXOOETzc",
+      "title": "Exercise 7: Healthy Programmer | Python Tutorials For Absolute Beginners In Hindi #50",
+      "duration": 690
+    },
+    {
+      "id": "_zTyBMFD4yY",
+      "title": "Decorators In Python | Python Tutorials For Absolute Beginners In Hindi #51",
+      "duration": 622
+    },
+    {
+      "id": "o6zPAzl4ZtM",
+      "title": "Classes & Objects (OOPS) | Python Tutorials For Absolute Beginners In Hindi #52",
+      "duration": 586
+    },
+    {
+      "id": "l2YmwyayVVk",
+      "title": "Creating Our First Class In Python | Python Tutorials For Absolute Beginners In Hindi #53",
+      "duration": 371
+    },
+    {
+      "id": "Hg7dnmczBTA",
+      "title": "Instance & Class Variables | Python Tutorials For Absolute Beginners In Hindi #54",
+      "duration": 507
+    },
+    {
+      "id": "ya4e4OcCRB4",
+      "title": "Self & __init__() (Constructors) | Python Tutorials For Absolute Beginners In Hindi #55",
+      "duration": 708
+    },
+    {
+      "id": "16K7DvU5Bvw",
+      "title": "Class Methods In Python | Python Tutorials For Absolute Beginners In Hindi #56",
+      "duration": 358
+    },
+    {
+      "id": "nrCI9HcpVZ8",
+      "title": "Class Methods As Alternative Constructors | Python Tutorials For Absolute Beginners In Hindi #57",
+      "duration": 505
+    },
+    {
+      "id": "cO5GBHKJGJw",
+      "title": "Static Methods In Python | Python Tutorials For Absolute Beginners In Hindi #58",
+      "duration": 343
+    },
+    {
+      "id": "wySW_E4XsvE",
+      "title": "Abstraction & Encapsulation | Python Tutorials For Absolute Beginners In Hindi #59",
+      "duration": 493
+    },
+    {
+      "id": "Ynf1GcIEzeo",
+      "title": "Single Inheritance | Python Tutorials For Absolute Beginners In Hindi #60",
+      "duration": 750
+    },
+    {
+      "id": "-f5yvt5XtEU",
+      "title": "Multiple Inheritance | Python Tutorials For Absolute Beginners In Hindi #61",
+      "duration": 726
+    },
+    {
+      "id": "VccLwnrT5hQ",
+      "title": "Multilevel Inheritance | Python Tutorials For Absolute Beginners In Hindi #62",
+      "duration": 542
+    },
+    {
+      "id": "e2dmC0hksVE",
+      "title": "Public, Private & Protected Access Specifiers | Python Tutorials For Absolute Beginners In Hindi #63",
+      "duration": 460
+    },
+    {
+      "id": "xnb-9TI-BjQ",
+      "title": "Polymorphism In Python | Python Tutorials For Absolute Beginners In Hindi #64",
+      "duration": 253
+    },
+    {
+      "id": "HfmFcj0NmHI",
+      "title": "Super() and Overriding In Classes | Python Tutorials For Absolute Beginners In Hindi #65",
+      "duration": 579
+    },
+    {
+      "id": "mEF_vVNTPUY",
+      "title": "Diamond Shape Problem In Multiple Inheritance | Python Tutorials For Absolute Beginners In Hindi #66",
+      "duration": 367
+    },
+    {
+      "id": "iYu6KPigfr4",
+      "title": "Operator Overloading & Dunder Methods | Python Tutorials For Absolute Beginners In Hindi #67",
+      "duration": 666
+    },
+    {
+      "id": "Iho_Kgj5kfI",
+      "title": "Abstract Base Class & @abstractmethod | Python Tutorials For Absolute Beginners In Hindi #68",
+      "duration": 422
+    },
+    {
+      "id": "O3R_P5j41ns",
+      "title": "Setters & Property Decorators | Python Tutorials For Absolute Beginners In Hindi #69",
+      "duration": 1066
+    },
+    {
+      "id": "h1CmrQBAifY",
+      "title": "Object Introspection | Python Tutorials For Absolute Beginners In Hindi #70",
+      "duration": 386
+    },
+    {
+      "id": "LH6wWxXLKQ0",
+      "title": "Python Mini Project #1 | Python Tutorials For Absolute Beginners In Hindi #71",
+      "duration": 394
+    },
+    {
+      "id": "S9d-fwalZ_Q",
+      "title": "Generators In Python | Python Tutorials For Absolute Beginners In Hindi #72",
+      "duration": 793
+    },
+    {
+      "id": "D2h_qI6Tx4M",
+      "title": "Python Comprehensions | Python Tutorials For Absolute Beginners In Hindi #73",
+      "duration": 956
+    },
+    {
+      "id": "C0SnZ_DRfUI",
+      "title": "Using Else With For Loops | Python Tutorials For Absolute Beginners In Hindi #74",
+      "duration": 389
+    },
+    {
+      "id": "34p5CH48hLE",
+      "title": "Function Caching In Python | Python Tutorials For Absolute Beginners In Hindi #75",
+      "duration": 755
+    },
+    {
+      "id": "pxEhxWhvIik",
+      "title": "Else & Finally In Try Except | Python Tutorials For Absolute Beginners In Hindi #76",
+      "duration": 624
+    },
+    {
+      "id": "T3tmkWfOHa8",
+      "title": "Coroutines In Python | Python Tutorials For Absolute Beginners In Hindi #77",
+      "duration": 731
+    },
+    {
+      "id": "gDeCfW_Kt0s",
+      "title": "Exercise 7: Solution & First Solver | Python Tutorials For Absolute Beginners In Hindi #78",
+      "duration": 1684
+    },
+    {
+      "id": "HHviSDUTtUc",
+      "title": "Os Module | Python Tutorials For Absolute Beginners In Hindi #79",
+      "duration": 878
+    },
+    {
+      "id": "MkgJfmN6dN8",
+      "title": "Exercise 8: Oh Soldier Prettify My Folder| Python Tutorials For Absolute Beginners In Hindi #80",
+      "duration": 327
+    },
+    {
+      "id": "u6_aYV-1LAE",
+      "title": "Requests Module For HTTP Requests | Python Tutorials For Absolute Beginners In Hindi #81",
+      "duration": 505
+    },
+    {
+      "id": "9U4dHBOzmaE",
+      "title": "Json Module | Python Tutorials For Absolute Beginners In Hindi #82",
+      "duration": 694
+    },
+    {
+      "id": "9aW-knzZ7p8",
+      "title": "Exercise 9: Akhbaar Padhke Sunaao | Python Tutorials For Absolute Beginners In Hindi #83",
+      "duration": 286
+    },
+    {
+      "id": "KaurZiP0mhU",
+      "title": "Pickle Module | Python Tutorials For Absolute Beginners In Hindi #84",
+      "duration": 596
+    },
+    {
+      "id": "XEgRSum4Zps",
+      "title": "Exercise 10: Pickling Iris | Python Tutorials For Absolute Beginners In Hindi #85",
+      "duration": 286
+    },
+    {
+      "id": "g8u0wLvvPSs",
+      "title": "Regular Expressions | Python Tutorials For Absolute Beginners In Hindi #86",
+      "duration": 1059
+    },
+    {
+      "id": "oNq9QKX3lMs",
+      "title": "Converting .py to .exe | Python Tutorials For Absolute Beginners In Hindi #87",
+      "duration": 724
+    },
+    {
+      "id": "uw4pvD0Mczw",
+      "title": "Python Exercise 8: Solution + Tips | Python Tutorials For Absolute Beginners In Hindi #88",
+      "duration": 825
+    },
+    {
+      "id": "BGQhccSWYpk",
+      "title": "Raise In Python + Examples | Python Tutorials For Absolute Beginners In Hindi #89",
+      "duration": 690
+    },
+    {
+      "id": "Xub80-7g4I8",
+      "title": "Python 'is' vs '==': What's The Difference? | Python Tutorials For Absolute Beginners In Hindi #90",
+      "duration": 308
+    },
+    {
+      "id": "n39cxF9bQIE",
+      "title": "Python 2.x Vs Python 3.x | Python Tutorials For Absolute Beginners In Hindi #91",
+      "duration": 649
+    },
+    {
+      "id": "S2kvV91gswo",
+      "title": "Python Exercise 9 Solution + Shoutouts | Python Tutorials For Absolute Beginners In Hindi #92",
+      "duration": 1419
+    },
+    {
+      "id": "Qi-8zaBfRWI",
+      "title": "Creating a Command Line Utility In Python | Python Tutorials For Absolute Beginners In Hindi #93",
+      "duration": 871
+    },
+    {
+      "id": "tCrRWiEIMec",
+      "title": "Exercise 10: Solution + Shoutouts | Python Tutorials For Absolute Beginners In Hindi #94",
+      "duration": 854
+    },
+    {
+      "id": "RiWqigGW9cA",
+      "title": "Creating a Python Package Using Setuptools | Python Tutorials For Absolute Beginners In Hindi #95",
+      "duration": 1182
+    },
+    {
+      "id": "IvCMglGI4PU",
+      "title": "Python Exercise 11: Regex Email Extractor | Python Tutorials For Absolute Beginners In Hindi #96",
+      "duration": 202
+    },
+    {
+      "id": "QW7eJbkDvDc",
+      "title": "Learning Path For Python Web Development | Python Tutorials For Absolute Beginners In Hindi #97",
+      "duration": 402
+    },
+    {
+      "id": "eowHTYzUZhw",
+      "title": "Python GUI Development - Learning Path | Python Tutorials For Absolute Beginners In Hindi #98",
+      "duration": 890
+    },
+    {
+      "id": "nO546sT9PFQ",
+      "title": "Machine Learning & Data Science Learning Path | Python Tutorials For Absolute Beginners In Hindi #99",
+      "duration": 1071
+    },
+    {
+      "id": "-1dH3h-BcVg",
+      "title": "Regex Exercise 11 Solutions | Python Tutorials For Absolute Beginners In Hindi #100",
+      "duration": 740
+    },
+    {
+      "id": "hyZA885xVmc",
+      "title": "Mini Project 1 (OOPs Library) Solution | Python Tutorials For Absolute Beginners In Hindi #101",
+      "duration": 1560
+    },
+    {
+      "id": "XI6s3-TdU54",
+      "title": "Conclusion & Way Forward | Python Tutorials For Absolute Beginners In Hindi #102",
+      "duration": 996
+    },
+    {
+      "id": "nDWMNCs8TBg",
+      "title": "Practice Problem 1 (Easy) |  Python Tutorials For Absolute Beginners In Hindi #103",
+      "duration": 557
+    },
+    {
+      "id": "F6-RRrwWEsQ",
+      "title": "Python Practice 1 Solution | Python Tutorials For Absolute Beginners In Hindi #104",
+      "duration": 1070
+    },
+    {
+      "id": "VeOPJM6yTIY",
+      "title": "Practice Problem 2 (Easy) |  Python Tutorials For Absolute Beginners In Hindi #105",
+      "duration": 470
+    },
+    {
+      "id": "-aF859WfPoQ",
+      "title": "Python Practice 2 Solution | Python Tutorials For Absolute Beginners In Hindi #106",
+      "duration": 589
+    },
+    {
+      "id": "XiXUrvzoTIs",
+      "title": "Python Practice 3 | Python Tutorials For Absolute Beginners In Hindi #107",
+      "duration": 501
+    },
+    {
+      "id": "tx7VofKNnAA",
+      "title": "Python Problem 3: Solution | Python Tutorials For Absolute Beginners In Hindi #108",
+      "duration": 1226
+    },
+    {
+      "id": "-7IhCwaHb2c",
+      "title": "Python Problem 4 | Python Tutorials For Absolute Beginners In Hindi #109",
+      "duration": 385
+    },
+    {
+      "id": "o6h2kU2VTkc",
+      "title": "Python Problem 4: Solution | Python Tutorials For Absolute Beginners In Hindi #110",
+      "duration": 1016
+    },
+    {
+      "id": "H7kH_2YJQVY",
+      "title": "Python Problem 5 | Python Tutorials For Absolute Beginners In Hindi #111",
+      "duration": 533
+    },
+    {
+      "id": "-Q57UxpBfV0",
+      "title": "Python Problem 5: Solution | Python Tutorials For Absolute Beginners In Hindi #112",
+      "duration": 904
+    },
+    {
+      "id": "3ePMrLWsBps",
+      "title": "Python Problem 6 | Python Tutorials For Absolute Beginners In Hindi #113",
+      "duration": 580
+    },
+    {
+      "id": "NRndfnhknSc",
+      "title": "Python Problem 6: Solution | Python Tutorials For Absolute Beginners In Hindi #114",
+      "duration": 935
+    },
+    {
+      "id": "sEZW2n2D-Hs",
+      "title": "Python Problem 7: Creating A Search Engine | Python Tutorials For Absolute Beginners In Hindi #115",
+      "duration": 691
+    },
+    {
+      "id": "VkH1B0EAhfU",
+      "title": "Python Problem 7: Solution | Python Tutorials For Absolute Beginners In Hindi #116",
+      "duration": 1427
+    },
+    {
+      "id": "S-OFpk9IQmU",
+      "title": "Python Problem 8: Fake Multiplication Tables | Python Tutorials For Absolute Beginners In Hindi #117",
+      "duration": 706
+    },
+    {
+      "id": "Dhzp7hlXJFQ",
+      "title": "Python Problem 8: Solution | Python Tutorials For Absolute Beginners In Hindi #118",
+      "duration": 744
+    },
+    {
+      "id": "1glrtDGtjVI",
+      "title": "Python Problem 9: Jumbled Funny Names | Python Tutorials For Absolute Beginners In Hindi #119",
+      "duration": 417
+    },
+    {
+      "id": "Lp9Ftuq2sVI",
+      "title": "Project 1: Iron Man Jarvis AI Desktop Voice Assistant | Python Tutorials For Absolute Beginners #120",
+      "duration": 3528
+    },
+    {
+      "id": "t90FMQr9WWc",
+      "title": "VS Code Tutorial + Python Setup | Python Tutorials For Absolute Beginners In Hindi #121",
+      "duration": 3177
+    },
+    {
+      "id": "itB6VsP5UnA",
+      "title": "Project 2: Coding Flappy Bird Game (With Source Code) | Python Tutorials For Absolute Beginners #122",
+      "duration": 7672
+    },
+    {
+      "id": "Sq9oaVFYUaE",
+      "title": "Project 3: Third Umpire Decision Review System (DRS Gully Cricket) |Python Tutorials in Hindi #123",
+      "duration": 3705
+    },
+    {
+      "id": "V-O96C_7xgc",
+      "title": "Project 4: Indian Railways Announcement Software | Python Tutorials For Absolute Beginners #124",
+      "duration": 3120
+    },
+    {
+      "id": "02eZFXALcl4",
+      "title": "CoronaVirus: Python Programming Solution to the Problem",
+      "duration": 5026
+    },
+    {
+      "id": "h_0lPh7LE_E",
+      "title": "Covid -19: Creating a Realtime CoronaVirus Outbreak Notification System Using Python Programming",
+      "duration": 2404
+    },
+    {
+      "id": "JxzZxdht-XY",
+      "title": "Django Tutorial In Hindi",
+      "duration": 10584
+    },
+    {
+      "id": "PXz2nFNuNJU",
+      "title": "I Automated The Chrome Dinosaur Game Using Python 🔥",
+      "duration": 3600
+    }
+  ]
+}

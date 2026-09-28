@@ -1,0 +1,60 @@
+{
+  "courseId": "chai-aur-django-ecf3fd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:51.874Z",
+  "title": "Chai aur Django",
+  "channel": "Chai aur Code",
+  "videos": [
+    {
+      "id": "j6szNSzw4BU",
+      "title": "Chai aur Django | Launch",
+      "duration": 558
+    },
+    {
+      "id": "CLDDcXV4H50",
+      "title": "Start a Django project and file structure",
+      "duration": 1378
+    },
+    {
+      "id": "66lfSjIrG8M",
+      "title": "Templates and errors in Django",
+      "duration": 1981
+    },
+    {
+      "id": "sp5fTeCkfm0",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "gHsC73Ou7mA",
+      "title": "Jinja2 and django apps",
+      "duration": 1954
+    },
+    {
+      "id": "4bgAIKV3BVw",
+      "title": "How to add tailwind in Django and super user",
+      "duration": 1966
+    },
+    {
+      "id": "wf_3Jqqli1c",
+      "title": "Handle model and urls in Django",
+      "duration": 3146
+    },
+    {
+      "id": "zUXhp3GkIqg",
+      "title": "Django Relationship models",
+      "duration": 2333
+    },
+    {
+      "id": "GsuMuVXFff0",
+      "title": "First look at Django forms",
+      "duration": 1849
+    },
+    {
+      "id": "opzK3E4Xx6o",
+      "title": "Build a full stack project in Django for beginners",
+      "duration": 7659
+    }
+  ]
+}

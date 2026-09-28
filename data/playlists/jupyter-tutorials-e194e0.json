@@ -1,0 +1,350 @@
+{
+  "courseId": "jupyter-tutorials-e194e0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:21.116Z",
+  "title": "Python Basics:Intro to Python with Jupyter Notebook in Udru/Hind, Lesson 1 and 2",
+  "channel": "Saima Academy",
+  "videos": [
+    {
+      "id": "uYlbaTAI3G8",
+      "title": "How to install Jupyter Notebook, using Anaconda, Urdu/Hindi",
+      "duration": 141
+    },
+    {
+      "id": "Reg68Z-HjoM",
+      "title": "Python: Exploring the Jupyter Notebook: Lesson 3 in Urdu/ Hindi Saima Academy",
+      "duration": 525
+    },
+    {
+      "id": "NZnMXjtTdoM",
+      "title": "Python: Jupyter Notebook: lesson 4: Hello World Urdu /Hindi Saima Academy",
+      "duration": 677
+    },
+    {
+      "id": "VigysecHe1s",
+      "title": "Python: Lesson 5:  How to insert comments using Jupyter Notebook Urdu/ Hindi",
+      "duration": 172
+    },
+    {
+      "id": "HLOJy8iBTDI",
+      "title": "Python: Lesson 6: Jupyter Notebook, How to Edit, Run and Save Urdu/ Hindi Saima Academy",
+      "duration": 509
+    },
+    {
+      "id": "sTer8boe-Xg",
+      "title": "Python: Lesson 7: Jupyter Notebbok: Insert cells & Reset the Kernel Urdu /Hindi Saima Academy",
+      "duration": 206
+    },
+    {
+      "id": "3KEjoMMo0Ic",
+      "title": "Python:Lesson 10: Jupyter Notebook: What are variables? Urdu /Hindi Saima Academy",
+      "duration": 612
+    },
+    {
+      "id": "wStBRm5WaE4",
+      "title": "Python Lesson 8: Jupyter Notebook:What is a String? Urdu/Hindi Saima Academy",
+      "duration": 187
+    },
+    {
+      "id": "d1a_dnPtwyM",
+      "title": "Python with Jupyter Notebook: Lesson 9: What are Integers? Urdu /Hindi Saima Academy",
+      "duration": 252
+    },
+    {
+      "id": "WEXpU3K4614",
+      "title": "Python:Lesson 11: Jupyter Notebook: Variables can change the datatype: Urdu /Hindi",
+      "duration": 242
+    },
+    {
+      "id": "hekjS7aRi5U",
+      "title": "Python Lesson 12 Jupyter Notebook Datatypes & type Function Urdu Hindi Saima Academy_",
+      "duration": 362
+    },
+    {
+      "id": "9UnjkVas0gs",
+      "title": "Python: Lesson 13: Jupyter Notebook: Addition of Integers,Float & Strings Urdu/Hindi",
+      "duration": 659
+    },
+    {
+      "id": "s8zVT_7cPf0",
+      "title": "Python: Lesson 14: Jupyter Notebook: Addition Operator Urdu/ Hindi Saima Academy",
+      "duration": 427
+    },
+    {
+      "id": "KKwp31sCydE",
+      "title": "Python: Lesson 15: Jupyter Notebook: SyntaxError & NameError Urdu /Hindi Saima Academy",
+      "duration": 746
+    },
+    {
+      "id": "KgRK4YP3vc4",
+      "title": "Python: Lesson 16: Jupyter Notebook: TypeError Urdu /Hindi Saima Academy",
+      "duration": 371
+    },
+    {
+      "id": "0ML6P3qluIY",
+      "title": "Python: Lesson 17: Jupyter Notebook: Formatting with commas Urdu /Hindi Saima Academy",
+      "duration": 329
+    },
+    {
+      "id": "mQ2x3GmUZ4o",
+      "title": "Python: Lesson 18: Jupyter notebook: Strings & Number with Comma Format Urdu /Hindi Saima Academy",
+      "duration": 438
+    },
+    {
+      "id": "kTb09eQxydw",
+      "title": "Python: Lesson 19: Jupyter notebook: Quotes in Strings Urdu/ Hindi Saima Academy",
+      "duration": 266
+    },
+    {
+      "id": "__jWrcHGKoM",
+      "title": "Python: Lesson 20: Jupyter Notebook: Boolean String Tests: Urdu/ Hindi Saima Academy",
+      "duration": 556
+    },
+    {
+      "id": "JSjmoPi0bow",
+      "title": "Python: Lesson 21: Jupyter Notebook: String Format Methods: Urdu/ Hindi Saima Academy",
+      "duration": 280
+    },
+    {
+      "id": "n9TUn8IExkU",
+      "title": "Python: Lesson 22: Jupyter notebook: Formatting String Input: Urdu /Hindi Saima Academy",
+      "duration": 331
+    },
+    {
+      "id": "0BIj-8AacO8",
+      "title": "Python: Lesson 23: Jupyter Notebook: Boolean in keyword: Urdu /Hindi Saima Academy",
+      "duration": 245
+    },
+    {
+      "id": "BPrs2GHSX1I",
+      "title": "Python: Lesson 24: Jupyter Notebook: Coding with input prompt: Urdu /Hindi Saima Academy",
+      "duration": 623
+    },
+    {
+      "id": "St4VGFez88E",
+      "title": "Python: Lesson 25: Jupyter Notebook: Upper,swapcase,etc in print statement: Urdu /Hindi",
+      "duration": 180
+    },
+    {
+      "id": "hvRGSCziS-4",
+      "title": "Python: Module 2: Lesson 1: Function with arguments: Urdu /Hindi Saima Academy",
+      "duration": 418
+    },
+    {
+      "id": "yOZ9sugPka8",
+      "title": "Python: Module 2: Lesson 2: Simple Functions Urdu/ Hindi Saima Academy",
+      "duration": 493
+    },
+    {
+      "id": "VDuUqF7s3tw",
+      "title": "Python: Module 2: Lesson 4: Function with return value: Urdu/ Hindi Saima Academy",
+      "duration": 552
+    },
+    {
+      "id": "whREhe2o_KM",
+      "title": "Python: Module 2: Lesson 3: Function Parameters: Urdu/ Hindi Saima Academy",
+      "duration": 511
+    },
+    {
+      "id": "VsPPlO5O5Qs",
+      "title": "Python: Module 2: Lesson 6: Avoid hard coded values: Urdu/ Hindi Saima Academy",
+      "duration": 816
+    },
+    {
+      "id": "am-uN1fp7B4",
+      "title": "Python: Module 2: Lesson 5: Function with multiple parameters: Urdu/ Hindi Saima Academy",
+      "duration": 500
+    },
+    {
+      "id": "v895gBQ_fwE",
+      "title": "Python: Module 3: Lesson 1: if,else pass Statements Urdu/ Hindi Saima Academy",
+      "duration": 516
+    },
+    {
+      "id": "qTnVS-Z35cs",
+      "title": "Python: Module 3: Lesson 2: Conditions with Boolean String Methods Urdu/ Hindi Saima Academy",
+      "duration": 1013
+    },
+    {
+      "id": "Bc6g7Bo1HU4",
+      "title": "Python: Module 3: Lesson 3: Comparison Operators Urdu/ Hindi Saima Academy",
+      "duration": 345
+    },
+    {
+      "id": "m_mWBqdFDrA",
+      "title": "Python: Module 3: Lesson 4: Comarison Operators with if Statement: Urdu/ Hindi Saima Academy",
+      "duration": 549
+    },
+    {
+      "id": "evMKuJWjmZ8",
+      "title": "Python: Module 3: Lesson 5: String Comparisons: Urdu/ Hindi Saima Academy",
+      "duration": 778
+    },
+    {
+      "id": "mzujbhUUUvE",
+      "title": "Python: Module 3: Lesson 6: if, elif, & else  Statements Urdu/ Hindi Saima Academy",
+      "duration": 498
+    },
+    {
+      "id": "hglRin3wR_A",
+      "title": "Python: Module 3: Lesson 7: Casting: Urdu/ Hindi Saima Academy",
+      "duration": 482
+    },
+    {
+      "id": "lv8XMTUYqiI",
+      "title": "Python: Module 4: Lesson 1: Nested Conditions: Urdu/ Hindi Saima Academy",
+      "duration": 636
+    },
+    {
+      "id": "NHN4ZiwxgWk",
+      "title": "Python: Module 4: Lesson 2: Escape Sequences: Urdu/ Hindi Saima Academy",
+      "duration": 490
+    },
+    {
+      "id": "9dwlBHXsgts",
+      "title": "Python: Module 4 | Lesson 3 |while True loop  | Urdu/Hindi| Saima Academy",
+      "duration": 410
+    },
+    {
+      "id": "q7gPFBZhKwY",
+      "title": "Python: Module 4: Lesson 4: Incrementing Decrementing Variable: Hindi/Urdu: Saima Academy",
+      "duration": 511
+    },
+    {
+      "id": "AHAsGD-ODxw",
+      "title": "Python: Module 4: Lesson 5:while with Boolean comparison: : Hindi/Urdu: Saima Academy",
+      "duration": 338
+    },
+    {
+      "id": "l0EJ0VbR8gs",
+      "title": "Fundamentals of Python:Lesson 1:Accessing a single String Character:Urdu/Hindi",
+      "duration": 756
+    },
+    {
+      "id": "KqOoEjcpeSY",
+      "title": "Fundamentals of Python:Lesson 2:Using a negative index:Urdu/Hindi",
+      "duration": 441
+    },
+    {
+      "id": "0o4M2DdCpuw",
+      "title": "Fundamentals of Python:Lesson 3:Index Slicing [start:stop]:Urdu/Hindi",
+      "duration": 555
+    },
+    {
+      "id": "MisOC6dYZ90",
+      "title": "Fundamentals of Python:Lesson 4:Access beginning of sub-strings:Urdu/Hindi",
+      "duration": 278
+    },
+    {
+      "id": "74ObUjuBAls",
+      "title": "Fundamentals of Python:Lesson 5:Access ending of sub-strings:Urdu/Hindi",
+      "duration": 165
+    },
+    {
+      "id": "_UHcVtamp4Q",
+      "title": "Fundamentals of Python:Lesson 6:Access sub-strings by step size:Urdu/Hindi",
+      "duration": 497
+    },
+    {
+      "id": "kKS7BWpbzEo",
+      "title": "Fundamentals of Python:Lesson 7:Accessing sub-strings stepping backwards:Urdu",
+      "duration": 293
+    },
+    {
+      "id": "sNFVxLILpFw",
+      "title": "Fundamentals of Python:Lesson 8:for in statement:Urdu/Hindi",
+      "duration": 523
+    },
+    {
+      "id": "NGFJouoQxvY",
+      "title": "Fundamentals of Python:Lesson 9:Iterate sub strings:Urdu/Hindi",
+      "duration": 389
+    },
+    {
+      "id": "gHN6QKC7gac",
+      "title": "Fundamentals of Python:Lesson 10:string Methods len():Urdu/Hindi",
+      "duration": 389
+    },
+    {
+      "id": "V-8x2N8PXXY",
+      "title": "Fundamentals of Python:Lesson 11:string Methods: count():Urdu/Hind",
+      "duration": 463
+    },
+    {
+      "id": "5VxwFB_APAI",
+      "title": "Fundamentals of Python:Lesson 12:string Methods: find():Urdu/Hindi",
+      "duration": 700
+    },
+    {
+      "id": "oF0pA1SRHxg",
+      "title": "Fundamentals of Python:Lesson 13:Creating list:Urdu/Hindi",
+      "duration": 317
+    },
+    {
+      "id": "mvmYWI6KTmc",
+      "title": "Fundamentals of Python:Lesson 14:Access list using index:Urdu/Hindi",
+      "duration": 417
+    },
+    {
+      "id": "me4fAYs42lg",
+      "title": "Fundamentals of Python:Lesson 16:Insert a new value for an index:Urdu/Hindi",
+      "duration": 392
+    },
+    {
+      "id": "wtBEfWVLftw",
+      "title": "Appending to a List",
+      "duration": 196
+    },
+    {
+      "id": "t9ydR6FND7k",
+      "title": "Fundamentals of Python:Lesson 17:Insert items into a list:Urdu/Hindi",
+      "duration": 399
+    },
+    {
+      "id": "naDHJsffoHk",
+      "title": "Fundamentals of Python:Lesson 18: Format function:Urdu/Hindi",
+      "duration": 398
+    },
+    {
+      "id": "TVBz8p6-G2w",
+      "title": "Iterate through Lists using",
+      "duration": 206
+    },
+    {
+      "id": "DHzy5B_HVCk",
+      "title": "Sort and Filter in Python",
+      "duration": 264
+    },
+    {
+      "id": "TCaVBBSvpFE",
+      "title": "Count  function in Python",
+      "duration": 122
+    },
+    {
+      "id": "rCtzDub3PfM",
+      "title": "Data Analysis with Python using Pandas data frame Covid 19 Dataset, Project #2",
+      "duration": 1238
+    },
+    {
+      "id": "jviMc31lYkc",
+      "title": "Data Analysis with Python using Pandas Data Frame: Police Dataset, Urdu, Hindi",
+      "duration": 1236
+    },
+    {
+      "id": "m9Wj_9xdTcE",
+      "title": "Data Analysis with Python using Pandas data Frame Udemy Courses Dataset. Urdu, Hindi",
+      "duration": 1514
+    },
+    {
+      "id": "D1IkoGhmNfo",
+      "title": "Data Analysis with Python using Pandas data frame London Housing Dataset, Urdu/Hindi",
+      "duration": 1360
+    },
+    {
+      "id": "9mS3a08ddEA",
+      "title": "How to Upload Image in a Jupyter Notebook",
+      "duration": 145
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "courseId": "introduction-to-r-software-d3f858",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFfF7qtFi8Pv_RK8x55jsUQ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:24.002Z",
+  "title": "Introduction to R Software",
+  "channel": "Computer Science and Engineering",
+  "videos": [
+    {
+      "id": "N-DQ8iDlH_U",
+      "title": "How to Learn and Follow the Course",
+      "duration": 443
+    },
+    {
+      "id": "A_I5XAtkxiY",
+      "title": "Why R and Installation Procedure",
+      "duration": 1352
+    },
+    {
+      "id": "ueFXTnG8ZC0",
+      "title": "Introduction _Help_ Demo examples_ packages_ libraries",
+      "duration": 1898
+    },
+    {
+      "id": "668keuD73k4",
+      "title": "Introduction _Command line_ Data editor _ Rstudio",
+      "duration": 2721
+    },
+    {
+      "id": "SJpd7KC18fQ",
+      "title": "Basics in Calculations",
+      "duration": 2392
+    },
+    {
+      "id": "r6a2WuWPBa0",
+      "title": "Basics of Calculations _ Calculator _Built in Functions Assignments",
+      "duration": 1253
+    },
+    {
+      "id": "CdivH5kY_54",
+      "title": "Basics of Calculations _Functions _Matrices",
+      "duration": 1624
+    },
+    {
+      "id": "feCZo_2Ql3c",
+      "title": "Basics Calculations: Matrix Operations",
+      "duration": 1541
+    },
+    {
+      "id": "-CIto4pV6Zw",
+      "title": "Basics Calculations Matrix Operations contd",
+      "duration": 1569
+    },
+    {
+      "id": "OvhQn6HkA_0",
+      "title": "Basic calculations: Missing data and logical operators",
+      "duration": 1766
+    },
+    {
+      "id": "zvvUKDfwA6k",
+      "title": "Basic calculations: Logical operators",
+      "duration": 1563
+    },
+    {
+      "id": "9W-VlZFICCY",
+      "title": "Basics calculations: Truth table and conditional executions",
+      "duration": 1521
+    },
+    {
+      "id": "dN2m8irACSw",
+      "title": "Basics calculations: Conditional executions and loops",
+      "duration": 1731
+    },
+    {
+      "id": "PPBynZnJkfM",
+      "title": "Basics calculations: Loops",
+      "duration": 1208
+    },
+    {
+      "id": "fWqx01BbeI8",
+      "title": "Data managment: Sequences",
+      "duration": 1753
+    },
+    {
+      "id": "UOt3y50dcb0",
+      "title": "Data management : sequences contd",
+      "duration": 2122
+    },
+    {
+      "id": "ekUGhPsFZZs",
+      "title": "Data management : Repeats",
+      "duration": 1918
+    },
+    {
+      "id": "LxiFzgQGDBw",
+      "title": "Data management : Sorting and Ordering",
+      "duration": 1233
+    },
+    {
+      "id": "M-iDsvrmABw",
+      "title": "Data management : Lists",
+      "duration": 1531
+    },
+    {
+      "id": "VpN3zDKjYl0",
+      "title": "Data management: Lists (continued)",
+      "duration": 1419
+    },
+    {
+      "id": "xD2Zqt3HHuc",
+      "title": "Data management : Vector indexing",
+      "duration": 2197
+    },
+    {
+      "id": "AGSHaE3Ob2A",
+      "title": "Data management : Vector Indexing (continued)",
+      "duration": 1770
+    },
+    {
+      "id": "CAx1lNvPOgI",
+      "title": "Data management: Factors",
+      "duration": 2019
+    },
+    {
+      "id": "bzNXpXakIZ0",
+      "title": "Data management: factors (continued)",
+      "duration": 1690
+    },
+    {
+      "id": "IQIRNxfMvxA",
+      "title": "Strings -Display and Formatting, Print and Format Functions",
+      "duration": 1318
+    },
+    {
+      "id": "S3jNEt9SgVs",
+      "title": "Strings - Display and Formatting, Print and Format with Concatenate",
+      "duration": 1326
+    },
+    {
+      "id": "nP2YpsgBXAE",
+      "title": "Strings - Display and Formatting, Paste Function",
+      "duration": 1630
+    },
+    {
+      "id": "XciCuzhUa6E",
+      "title": "Strings - Display and Formatting, Splitting",
+      "duration": 972
+    },
+    {
+      "id": "RdVTHSrlLyw",
+      "title": "Strings - Display and Formatting, Replacement_ Manipulations _Alphabets",
+      "duration": 1912
+    },
+    {
+      "id": "fFBnIy30Uwo",
+      "title": "Strings - Display and Formatting, Replacement and Evaluation of Strings",
+      "duration": 1860
+    },
+    {
+      "id": "b-brVcf2tDo",
+      "title": "Data frames",
+      "duration": 1972
+    },
+    {
+      "id": "jXl55PJpxQM",
+      "title": "Data frames (Continued )",
+      "duration": 1539
+    },
+    {
+      "id": "GzfKAAHtzX8",
+      "title": "Data frames (Continued)",
+      "duration": 1722
+    },
+    {
+      "id": "dCikE8vA90k",
+      "title": "Data Handling - Importing CSV and Tabular Data Files",
+      "duration": 2036
+    },
+    {
+      "id": "G53R-yechVo",
+      "title": "Data Handling - Importing Data Files from Other Software -- old version",
+      "duration": 2466
+    },
+    {
+      "id": "vDDEZH5KpDY",
+      "title": "Statistical Functions : Frequency and Partition values",
+      "duration": 1903
+    },
+    {
+      "id": "HRKMfk7jWwc",
+      "title": "Statistical Functions - Graphics and Plots",
+      "duration": 1820
+    },
+    {
+      "id": "ggf1EDsQDaY",
+      "title": "Statistical Functions - Central Tendency and Variation",
+      "duration": 2055
+    },
+    {
+      "id": "DZSpWklktZc",
+      "title": "Statistical Functions - Boxplots, Skewness and Kurtosis",
+      "duration": 2151
+    },
+    {
+      "id": "-TuZYR_ke_w",
+      "title": "Statistical Functions bivariate three dimensional plot",
+      "duration": 2068
+    },
+    {
+      "id": "OxhTzFd88sA",
+      "title": "Statistical Functions - Correlation and Examples of Programming",
+      "duration": 1681
+    },
+    {
+      "id": "sZwOtG0VQhY",
+      "title": "Examples of Programming",
+      "duration": 2634
+    },
+    {
+      "id": "AfWpjB26iXU",
+      "title": "Examples of More Programming",
+      "duration": 1651
+    }
+  ]
+}

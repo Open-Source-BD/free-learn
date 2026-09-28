@@ -1,0 +1,120 @@
+{
+  "courseId": "linux-tutorial-for-beginners-in-hindi-022417",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSntPnamABVEi_K1gxbOEwXVz09pY9qb8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:54.693Z",
+  "title": "Linux Tutorial for Beginners in Hindi",
+  "channel": "Ankit Tiwari",
+  "videos": [
+    {
+      "id": "LSLWD-562kY",
+      "title": "Install Ubuntu on Windows using VirtualBox [in Hindi]",
+      "duration": 639
+    },
+    {
+      "id": "j2yqu8IXb5c",
+      "title": "Make Ubuntu Full Screen in VirualBox [in Hindi]",
+      "duration": 185
+    },
+    {
+      "id": "X7vbppD9VBE",
+      "title": "Linux Command Line - Accessing Files an Directories [in Hindi]",
+      "duration": 345
+    },
+    {
+      "id": "oxA5vHHemuc",
+      "title": "Linux Command Line Interface - cat (concatenate) command [in Hindi]",
+      "duration": 557
+    },
+    {
+      "id": "TTCswGYaVk4",
+      "title": "Linux Command Line Interface - Move and Remove Files in Linux [in Hindi]",
+      "duration": 354
+    },
+    {
+      "id": "5jkpI0SLsZ4",
+      "title": "Linux Command Line Interface - Create and Delete Folders [in Hindi]",
+      "duration": 286
+    },
+    {
+      "id": "Fj-gqCdsWS4",
+      "title": "Linux Command Line Interface - grep command in linux [in Hindi]",
+      "duration": 299
+    },
+    {
+      "id": "vZaTEQV2Zbo",
+      "title": "Linux Command Line Interface - Sort Command in Linux [in Hindi]",
+      "duration": 309
+    },
+    {
+      "id": "BCH6ljFeYI4",
+      "title": "Linux Command Line Interface - wc command in Linux [in HIndi]",
+      "duration": 276
+    },
+    {
+      "id": "lDNsHDqjMTE",
+      "title": "Linux Command Line Interface - Pipe Command in Linux [in Hindi]",
+      "duration": 199
+    },
+    {
+      "id": "qt26052cJlg",
+      "title": "Linux Command Line Interface - ps Command in Linux [in Hindi]",
+      "duration": 337
+    },
+    {
+      "id": "xarVB3bIUr4",
+      "title": "Linux Command Line Interface - Terminate Process by Kill Command [in Hindi]",
+      "duration": 232
+    },
+    {
+      "id": "fdkYH28Xtj8",
+      "title": "Linux Command Line Interface - tar Command in Linux [in Hindi]",
+      "duration": 1314
+    },
+    {
+      "id": "SSHBZR5kI_4",
+      "title": "Linux Command Line Interface - less Command in Linux [in Hindi]",
+      "duration": 410
+    },
+    {
+      "id": "RUYcj7mbG30",
+      "title": "Linux Command Line Interface - touch Command [in Hindi]",
+      "duration": 875
+    },
+    {
+      "id": "t-_hN2VX6SA",
+      "title": "Linux Command Line Interface - echo Command [in Hindi]",
+      "duration": 535
+    },
+    {
+      "id": "JdAssJAIZIU",
+      "title": "Linux Command Line interface - chmod Command [in Hindi]",
+      "duration": 1321
+    },
+    {
+      "id": "-_fntqEXXFQ",
+      "title": "Linux Command Line Interface - chmod Command Octal Reprsentation [in Hindi]",
+      "duration": 589
+    },
+    {
+      "id": "5mc8JHEyoLU",
+      "title": "Linux Command Line Interface - sudo, su, command (set SuperUser Passwd) [in Hindi]",
+      "duration": 631
+    },
+    {
+      "id": "JTHGXOHiuzA",
+      "title": "Linux Command Line Interface - useradd Command [in Hindi]",
+      "duration": 740
+    },
+    {
+      "id": "pPLTh_9ZL9w",
+      "title": "Linux Command Line Interface - userdel command [in Hindi]",
+      "duration": 217
+    },
+    {
+      "id": "zdnZF8uEz40",
+      "title": "Linux Command Line Interface - find Command [in Hindi]",
+      "duration": 1123
+    }
+  ]
+}

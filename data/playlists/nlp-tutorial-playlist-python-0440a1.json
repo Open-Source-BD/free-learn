@@ -1,0 +1,150 @@
+{
+  "courseId": "nlp-tutorial-playlist-python-0440a1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:21.714Z",
+  "title": "NLP Tutorial Python",
+  "channel": "codebasics",
+  "videos": [
+    {
+      "id": "R-AG4-qZs1A",
+      "title": "Introduction | NLP Tutorial For Beginners In Python  -  Season 1 Episode 1",
+      "duration": 607
+    },
+    {
+      "id": "3y2-IaBeIs0",
+      "title": "Why NLP is booming right now? | NLP Tutorial For Beginners In Python - S1 E2",
+      "duration": 428
+    },
+    {
+      "id": "lK9gx4q_vfI",
+      "title": "Regex For NLP: NLP Tutorial For Beginners In Python - S1 E3",
+      "duration": 2667
+    },
+    {
+      "id": "nknYY32RGXQ",
+      "title": "Three Category Of Techniques for NLP : NLP Tutorial For Beginners In Python - S1 E4",
+      "duration": 755
+    },
+    {
+      "id": "In7jB8TUGPA",
+      "title": "NLP Tasks: NLP Tutorial For Beginners In Python - S1 E5",
+      "duration": 1358
+    },
+    {
+      "id": "S3EId9uatxI",
+      "title": "NLP Pipeline: NLP Tutorial For Beginners In Python - S1 E6",
+      "duration": 1562
+    },
+    {
+      "id": "h2kBNEShsiE",
+      "title": "Spacy vs NLTK: NLP Tutorial For Beginners In Python - S1 E7",
+      "duration": 900
+    },
+    {
+      "id": "_lR3RjvYvF4",
+      "title": "Tokenization in Spacy: NLP Tutorial For Beginners - S1 E8",
+      "duration": 2146
+    },
+    {
+      "id": "hKK59rfpXL0",
+      "title": "Language Processing Pipeline in Spacy: NLP Tutorial For Beginners - S1 E9",
+      "duration": 1129
+    },
+    {
+      "id": "HHAilAC3cXw",
+      "title": "Stemming and Lemmatization: NLP Tutorial For Beginners - S1 E10",
+      "duration": 1006
+    },
+    {
+      "id": "gdHWoQWZGkk",
+      "title": "Part Of Speech POS Tagging: NLP Tutorial For Beginners - S1 E11",
+      "duration": 1549
+    },
+    {
+      "id": "2XUhKpH0p4M",
+      "title": "Named Entity Recognition (NER): NLP Tutorial For Beginners - S1 E12",
+      "duration": 1354
+    },
+    {
+      "id": "_3ahmI5vpKY",
+      "title": "Text Representation Basics: NLP Tutorial For Beginners - Season 2 Episode 1",
+      "duration": 746
+    },
+    {
+      "id": "2d8iP2_cS-U",
+      "title": "Text Representation: Label & One Hot Encoding: NLP Tutorial For Beginners - S2 E2",
+      "duration": 896
+    },
+    {
+      "id": "Yt1Sw6yWjlw",
+      "title": "Text Representation Using Bag Of Words (BOW): NLP Tutorial For Beginners - S2 E3",
+      "duration": 2038
+    },
+    {
+      "id": "vUPAOU2NPls",
+      "title": "Stop Words: NLP Tutorial For Beginners - S2 E4",
+      "duration": 1123
+    },
+    {
+      "id": "nZromH6F7R0",
+      "title": "Text Representation Using Bag Of n-grams: NLP Tutorial For Beginners - S2 E5",
+      "duration": 2238
+    },
+    {
+      "id": "ATK6fm3cYfI",
+      "title": "Text Representation Using TF-IDF: NLP Tutorial For Beginners - S2 E6",
+      "duration": 2178
+    },
+    {
+      "id": "Do8cVbx-HOs",
+      "title": "Text Representation Using Word Embeddings: NLP Tutorial For Beginners - S2 E7",
+      "duration": 491
+    },
+    {
+      "id": "vyohzuTkty8",
+      "title": "Word vectors in Spacy overview: NLP Tutorial For Beginners - S2 E8",
+      "duration": 824
+    },
+    {
+      "id": "ibi5hvw6f3g",
+      "title": "News classification using Spacy word vectors: NLP Tutorial For Beginners - S2 E9",
+      "duration": 823
+    },
+    {
+      "id": "0r2NJdalzDw",
+      "title": "Word vectors in Gensim overview: NLP Tutorial For Beginners - S2 E10",
+      "duration": 878
+    },
+    {
+      "id": "ZrgVlfNduj8",
+      "title": "News classification using Gensim word vectors: NLP Tutorial For Beginners - S2 E11",
+      "duration": 926
+    },
+    {
+      "id": "Br-Ozg9D4mc",
+      "title": "fastText Tutorial | Train Custom Word Vectors in fastText | NLP Tutorial For Beginners - S2 E12",
+      "duration": 2168
+    },
+    {
+      "id": "Cq_pbQYO3M8",
+      "title": "fastText tutorial | Text Classification Using fastText | NLP Tutorial For Beginners - S2 E13",
+      "duration": 1259
+    },
+    {
+      "id": "ZeoqOybAzdc",
+      "title": "Introduction to Chatbots | NLP Tutorial | S3 E1",
+      "duration": 855
+    },
+    {
+      "id": "2e5pQqBvGco",
+      "title": "End-to-End NLP Project | Build a Chatbot in Dialogflow | NLP Tutorial | S3 E2",
+      "duration": 10523
+    },
+    {
+      "id": "Ji3_VX80YJg",
+      "title": "Gen AI Project | Log Classification System Using Deepseek R1 LLM, NLP, Regex, BERT",
+      "duration": 4944
+    }
+  ]
+}

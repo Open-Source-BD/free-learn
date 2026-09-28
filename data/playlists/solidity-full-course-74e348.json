@@ -1,0 +1,185 @@
+{
+  "courseId": "solidity-full-course-74e348",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:40.814Z",
+  "title": "Solidity Full Course",
+  "channel": "Code Eater",
+  "videos": [
+    {
+      "id": "gsaapL1SEqg",
+      "title": "Solidity Full Course Overview | Solidity Full Tutorial  | Solidity Latest Version  | Part -1 | Hindi",
+      "duration": 324
+    },
+    {
+      "id": "wXo3S8k1ueg",
+      "title": "Solidity Course Prerequisites | Solidity Full Course  | Solidity Latest Version  | Part -2 | Hindi",
+      "duration": 285
+    },
+    {
+      "id": "GiD5wz_XjsY",
+      "title": "Remix IDE | Solidity Full Course  | Solidity Latest Version  | Part -3 | Hindi",
+      "duration": 481
+    },
+    {
+      "id": "opHjPETCh68",
+      "title": "Solidity Compilation Process | Byte Code and ABI  | Solidity Full Course | Part -4 | Hindi",
+      "duration": 733
+    },
+    {
+      "id": "ux91QP1Yuy4",
+      "title": "Mainnet vs Testnet | Solidity Full Course | Solidity Latest Version | Part -5 | Hindi",
+      "duration": 323
+    },
+    {
+      "id": "ts3mIcfnD9s",
+      "title": "What is metamask ? | Metamask Installation | Solidity Full Course | Part -6 | Hindi",
+      "duration": 327
+    },
+    {
+      "id": "f9AbCK6PwmM",
+      "title": "What is Rinkeby Faucet? | How to transfer ether from Rinkeby faucet to Metamask | Part -7 | Hindi",
+      "duration": 187
+    },
+    {
+      "id": "hi1BjWLFrSM",
+      "title": "Contract Deployment Environment | Solidity Full Course| Part -8 | Hindi",
+      "duration": 213
+    },
+    {
+      "id": "p9fkcSy7lPU",
+      "title": "Solidity | What is Solidity Programming Language? | Solidity Full Course| Part -9 | Hindi",
+      "duration": 361
+    },
+    {
+      "id": "8OrZ3NYUXVE",
+      "title": "Solidity sample program | Steps in writing a solidity program | Solidity Course| Part -10 | Hindi",
+      "duration": 482
+    },
+    {
+      "id": "edXevqKdw4Q",
+      "title": "State variable in solidity | What are state variable in solidity | Solidity Course| Part -11 | Hindi",
+      "duration": 521
+    },
+    {
+      "id": "D9gem1AZmvY",
+      "title": "Local variable in solidity | What are local variable in solidity | Solidity Course| Part -12 | Hindi",
+      "duration": 401
+    },
+    {
+      "id": "1es2rV4xd_E",
+      "title": "Functions in solidity | Getter and Setter Function | Solidity Full Course| Part -13 | Hindi",
+      "duration": 660
+    },
+    {
+      "id": "LU4EzKqZqhE",
+      "title": "Pure vs View in solidity  | Solidity Full Course| Part -14 | Hindi",
+      "duration": 298
+    },
+    {
+      "id": "_Ud8pG5UB-o",
+      "title": "Constructor in solidity  | Solidity Full Course| Part -15 | Hindi",
+      "duration": 358
+    },
+    {
+      "id": "2yNC3GVG4I8",
+      "title": "Integers in solidity  | Solidity Full Course| Part -16 | Hindi",
+      "duration": 522
+    },
+    {
+      "id": "OrJSsEGy5_A",
+      "title": "Overflow in solidity  | Solidity Full Course | Part -17 | Hindi",
+      "duration": 437
+    },
+    {
+      "id": "1mBCRNTiRuQ",
+      "title": "Array in solidity  | Fixed Size Array | Solidity Full Course | Part -18 | Hindi",
+      "duration": 406
+    },
+    {
+      "id": "DSbkyz0ZUFU",
+      "title": "Array in solidity  | Dynamic Size Array | Solidity Full Course | Part -19 | Hindi",
+      "duration": 376
+    },
+    {
+      "id": "0A8HwMepa9A",
+      "title": "Bytes Array (Fixed Size Array) in solidity | Solidity Full Course | Part -20 | Hindi",
+      "duration": 687
+    },
+    {
+      "id": "BpSBDtwxnKM",
+      "title": "bytes[] Array (Dynamic Size Array) in solidity | Solidity Full Course | Part -21 | Hindi",
+      "duration": 417
+    },
+    {
+      "id": "ENgQ56JeJd0",
+      "title": "Loops in solidity | While loop | For loop | Do while loop | Solidity Full Course | Part -22 | Hindi",
+      "duration": 477
+    },
+    {
+      "id": "hfxZoQD_VdI",
+      "title": "If else in solidity | Solidity Full Course | Part -23 | Hindi",
+      "duration": 264
+    },
+    {
+      "id": "gC-at02uB_8",
+      "title": "Bool Data type in solidity | Solidity Full Course | Part -24 | Hindi",
+      "duration": 239
+    },
+    {
+      "id": "eXkhV1w3uQI",
+      "title": "Structure in solidity | Struct in Solidity | Solidity Full Course | Part -25 | Hindi",
+      "duration": 677
+    },
+    {
+      "id": "ZtuoaRS2hGc",
+      "title": "Enum in solidity | Solidity Latest Version | Solidity Full Course | Part -26 | Hindi",
+      "duration": 590
+    },
+    {
+      "id": "WUzy80NYM9o",
+      "title": "Mapping in solidity | Solidity Latest Version | Solidity Full Course | Part -27 -A  |  Hindi",
+      "duration": 557
+    },
+    {
+      "id": "FysX0N0AcR8",
+      "title": "Mapping Struct in solidity | Solidity Latest Version | Solidity Full Course | Part -27 -B  |  Hindi",
+      "duration": 557
+    },
+    {
+      "id": "5zeVqUpEjgg",
+      "title": "Storage Vs Memory in Solidity | Solidity Latest Version | Solidity Full Course | Part -28  |  Hindi",
+      "duration": 663
+    },
+    {
+      "id": "4ngTvVHTYNw",
+      "title": "Mapping Struct in solidity | Solidity Latest Version | Solidity Full Course | Part -27 -B  |  Hindi",
+      "duration": 510
+    },
+    {
+      "id": "ymp66UjvOYU",
+      "title": "Global Variables in solidity | Solidity Latest Version | Solidity Full Course | Part -29  |  Hindi",
+      "duration": 359
+    },
+    {
+      "id": "Iu7GfFpMvm0",
+      "title": "Contract Balance Update | Payable | Solidity Full Course | Part -30  |  Hindi",
+      "duration": 663
+    },
+    {
+      "id": "N29NjnOFEY4",
+      "title": "Pubic ,Private, Internal , External | Visibility | Solidity Full Course | Part -31  |  Hindi",
+      "duration": 950
+    },
+    {
+      "id": "aFI_XPll_mg",
+      "title": "Solidity Project For Beginners | Deploying Smart Contract on Rinkeby  | Code Eater | Hindi",
+      "duration": 3616
+    },
+    {
+      "id": "7lUxF3t1n4I",
+      "title": "Blockchain Mastery Path | Code Eater - Blockchain | Hindi",
+      "duration": 1270
+    }
+  ]
+}

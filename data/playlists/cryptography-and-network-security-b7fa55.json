@@ -1,0 +1,355 @@
+{
+  "courseId": "cryptography-and-network-security-b7fa55",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:09.581Z",
+  "title": "Cryptography and network security",
+  "channel": "Abhishek Sharma",
+  "videos": [
+    {
+      "id": "9X1rSWLFhLY",
+      "title": "What is Cryptography | why cryptography? Introduction to Cryptography",
+      "duration": 769
+    },
+    {
+      "id": "DsuP90FeYLI",
+      "title": "Cryptography and Network Security Course | Cryptography and Network Security Playlist | Cryptography",
+      "duration": 609
+    },
+    {
+      "id": "9nUlQjvZh2A",
+      "title": "TYPES OF CRYPTOGRAPHY | Symmetric Cryptography, Asymmetric Cryptography  and Hashing",
+      "duration": 603
+    },
+    {
+      "id": "Mi2May0-zc8",
+      "title": "Security Goals and Security Services | CIA Triad in Cryptography",
+      "duration": 685
+    },
+    {
+      "id": "ktb7aouxpRw",
+      "title": "Security Attacks in cryptography",
+      "duration": 655
+    },
+    {
+      "id": "quROFZoVVEY",
+      "title": "Security Mechanisms in Cryptography",
+      "duration": 393
+    },
+    {
+      "id": "bZBVbvNjxKY",
+      "title": "Substitution and  transposition techniques | Monoalphabetic and polyalphabetic substitution ciphers",
+      "duration": 689
+    },
+    {
+      "id": "kDfEOv68YDs",
+      "title": "Rail Fence and Row Transposition cipher techniques | Types Of Transposition Techniques",
+      "duration": 994
+    },
+    {
+      "id": "bRtDbyOKhwo",
+      "title": "Keyless and Keyed Transposition techniques | Types of transposition techniques in Cryptography",
+      "duration": 729
+    },
+    {
+      "id": "oqzQbHLa9Uw",
+      "title": "Caesar Cipher in Cryptography | Substitution Techniques",
+      "duration": 874
+    },
+    {
+      "id": "i5rmbisHu70",
+      "title": "VIGENERE CIPHER in Cryptography Method-1",
+      "duration": 872
+    },
+    {
+      "id": "Yb6nTuVgyKA",
+      "title": "VIGENERE Cipher in Cryptography Method -2",
+      "duration": 984
+    },
+    {
+      "id": "p0HM_mnA_HM",
+      "title": "Stream and Block Cipher | Difference between Stream and Block Cipher",
+      "duration": 659
+    },
+    {
+      "id": "3NpRhXWWWMQ",
+      "title": "Shannon's theory of Confusion and Diffusion | Cryptography and Network Security",
+      "duration": 503
+    },
+    {
+      "id": "6T46sgty4Mk",
+      "title": "Hill Cipher Encryption and Decryption with Numerical | Everything about Hill Cipher",
+      "duration": 1279
+    },
+    {
+      "id": "qU1kcpuJXaw",
+      "title": "HILL CIPHER 3X3 Matrix Example Encryption and decryption",
+      "duration": 1319
+    },
+    {
+      "id": "8I0LKQc-IBU",
+      "title": "FIESTEL CIPHER STRUCTURE in Cryptography",
+      "duration": 627
+    },
+    {
+      "id": "xG3-YcYy0GU",
+      "title": "Playfair Cipher Algorithm",
+      "duration": 748
+    },
+    {
+      "id": "2nULm_zcNto",
+      "title": "Playfair Cipher Algorithm | Cryptography and Network Security | Playfair Cipher Algorithm Example ",
+      "duration": 871
+    },
+    {
+      "id": "dIQnvVBJAjI",
+      "title": "Playfair Cipher Algorithm Decryption | Cryptography and Network Security ",
+      "duration": 425
+    },
+    {
+      "id": "eMHcQByhR-g",
+      "title": "DES in Hindi video-1 | Data Encryption Standard in Cryptography",
+      "duration": 1112
+    },
+    {
+      "id": "vj7HJ56mdiw",
+      "title": "DES video-2 key generation | Cryptography and network security",
+      "duration": 605
+    },
+    {
+      "id": "xBRmS8kPIjQ",
+      "title": "Vernam Cipher in Cryptography in hindi",
+      "duration": 604
+    },
+    {
+      "id": "ZBkpYKGPHUs",
+      "title": "Euler's Toitient Function in Cryptography and Network Security",
+      "duration": 462
+    },
+    {
+      "id": "Rp3MT-k37IY",
+      "title": "Euler's theorem in Cryptography and Network Security",
+      "duration": 419
+    },
+    {
+      "id": "jMiM-6gyC7c",
+      "title": "Fermat's theorem in Cryptography | Fermat's Theorem",
+      "duration": 425
+    },
+    {
+      "id": "rlJTMUBXhKE",
+      "title": "RSA Algorithm in Cryptography and Network Security",
+      "duration": 615
+    },
+    {
+      "id": "9qh5FZZEEIY",
+      "title": "Euclidean/ Euclid's algorithm in Cryptography and network security",
+      "duration": 448
+    },
+    {
+      "id": "Hnt-QQgKygw",
+      "title": "Symmetric vs Asymmetric Cryptography | Cryptography and network security",
+      "duration": 296
+    },
+    {
+      "id": "zLNug0LrFiU",
+      "title": "Diffi Hellman Key Exchange Algorithm | Cryptography and Network Security",
+      "duration": 925
+    },
+    {
+      "id": "lg1GyrUtOrM",
+      "title": "DES Analysis | Avalanche effect and Completeness Effect in DES",
+      "duration": 252
+    },
+    {
+      "id": "P-H1PAX5oIM",
+      "title": "Finding the modulus of a negative number",
+      "duration": 719
+    },
+    {
+      "id": "rGSsEdx0dcU",
+      "title": "Double DES and Meet in the middle attack in 2DES | DES part-3",
+      "duration": 897
+    },
+    {
+      "id": "_zldFlu7tCM",
+      "title": "Triple DES in Cryptography | DES video-4",
+      "duration": 374
+    },
+    {
+      "id": "qoXTLPu0Fi4",
+      "title": "Euclidean Algorithm Numericals in Cryptography | Abhishek Sharma",
+      "duration": 536
+    },
+    {
+      "id": "61sph5R5Juw",
+      "title": "Extended Euclidean Algorithm in Cryptography | Abhishek Sharma",
+      "duration": 679
+    },
+    {
+      "id": "4Uo7kivJ0EQ",
+      "title": "DES Weaknesses in Cryptography",
+      "duration": 413
+    },
+    {
+      "id": "On_OMBf2j6E",
+      "title": "Block cipher modes of operations (part-1) in Cryptography and Network Security | Abhishek Sharma",
+      "duration": 580
+    },
+    {
+      "id": "OcSUWAYBPZs",
+      "title": "Block Cipher Modes of Operations part-2 | Cryptography by Abhishek Sharma",
+      "duration": 651
+    },
+    {
+      "id": "Fyr9rUWhhTM",
+      "title": "Chinese Remainder Theorem with NUMERICAL in Cryptography | Abhishek Sharma",
+      "duration": 897
+    },
+    {
+      "id": "EoAID_sCDns",
+      "title": "Confidentiality,Authentication and Data Integrity",
+      "duration": 203
+    },
+    {
+      "id": "SAz7-A6rNKM",
+      "title": "Authentication functions and 3 ways to produce authentication | Message authentication",
+      "duration": 709
+    },
+    {
+      "id": "Om4O14irGzA",
+      "title": "MAC in Cryptography ||  Message Authentication Code in Cryptography and network security",
+      "duration": 881
+    },
+    {
+      "id": "y6e70OKHg7c",
+      "title": "Digital signature",
+      "duration": 774
+    },
+    {
+      "id": "jXw-CXYT01M",
+      "title": "Digital Signature Scheme using RSA concept",
+      "duration": 550
+    },
+    {
+      "id": "FnBjew1qMbY",
+      "title": "Multiplicative inverse of a number in Cryptography",
+      "duration": 466
+    },
+    {
+      "id": "jNoUtbK8hv4",
+      "title": "Hash Functions in Cryptography",
+      "duration": 1019
+    },
+    {
+      "id": "UWRzShi9gME",
+      "title": "Euler's theorem numerical examples | Important for exams",
+      "duration": 415
+    },
+    {
+      "id": "5ojfHuB5Cxo",
+      "title": "Fermat's Theorem Numerical examples | Important for exams",
+      "duration": 226
+    },
+    {
+      "id": "0NGPhAPKYv4",
+      "title": "Elliptic Curve Cryptography | ECC in Cryptography and Network Security",
+      "duration": 872
+    },
+    {
+      "id": "eTIT29wI6JE",
+      "title": "Modular Arithmetic in Detail | Cryptography and Network Security",
+      "duration": 740
+    },
+    {
+      "id": "Xi-oisdGr_g",
+      "title": "Firewalls and its types in Cryptography",
+      "duration": 655
+    },
+    {
+      "id": "YVT4fcW7sI8",
+      "title": "AES Algorithm in Hindi |  Advanced Encryption Standard Algorithm in Cryptography & Network Security",
+      "duration": 1590
+    },
+    {
+      "id": "0kUVqKBPD1k",
+      "title": "How can you Support the Channel ?",
+      "duration": 33
+    },
+    {
+      "id": "BPXEy6FzoWU",
+      "title": "Difference between AES and DES | Aes vs DES in Cryptography and network security | ABHISHEK Lectures",
+      "duration": 404
+    },
+    {
+      "id": "CxAfmNQG0yk",
+      "title": "BLOWFISH ALGORITHM in Cryptography and Network Security | Easiest explanation for students",
+      "duration": 1257
+    },
+    {
+      "id": "iOE_3GW0njg",
+      "title": "IDEA ALGORITHM in Cryptography and Network Security | Information Security",
+      "duration": 1318
+    },
+    {
+      "id": "By4TM8ikAps",
+      "title": "Steganography in Hindi| What is Steganography in Information Security",
+      "duration": 584
+    },
+    {
+      "id": "ccyXcXSxCPw",
+      "title": "Difference between Steganography and Cryprtography | Cryptography vs Staganography in HINDI",
+      "duration": 396
+    },
+    {
+      "id": "NRUMWuVDONg",
+      "title": "Cryptanalysis and its types in Hindi | What is Cryptology in Network Security",
+      "duration": 603
+    },
+    {
+      "id": "TPznt04CCpA",
+      "title": "SSH (Secure shell)  protocol in Hindi | Secure shell protocol in Network Security",
+      "duration": 517
+    },
+    {
+      "id": "BPnEqi0zMaE",
+      "title": "PGP in Hindi |  Pretty good privacy in Cryptography| Email Security",
+      "duration": 1303
+    },
+    {
+      "id": "Ta8r_I7-wrw",
+      "title": "MIME protocol in Cryptography and Network Security | Email security in Network Security",
+      "duration": 563
+    },
+    {
+      "id": "l2aF0ykovRY",
+      "title": "S/MIME protocol in Hindi | Cryptography and Network Security",
+      "duration": 602
+    },
+    {
+      "id": "9lf9hMtS2NQ",
+      "title": "Cryptography MCQs  Part-1 | Multiple Choice Questions in Cryptography and Network Security",
+      "duration": 950
+    },
+    {
+      "id": "0moU2Hp8v9s",
+      "title": "Cryptography and Network Security MCQs part-2 | Multiple Choice Questions",
+      "duration": 802
+    },
+    {
+      "id": "w6GO6LkHqEk",
+      "title": "Multiple Choice Questions Part-3 | Cryptography and Network Security",
+      "duration": 566
+    },
+    {
+      "id": "vn9AozmTzuo",
+      "title": "My INFOSYS SES Training Experience  || Infosys Training Process",
+      "duration": 823
+    },
+    {
+      "id": "LF_HHuquOvo",
+      "title": "My Infosys 2.5 years Journey || Abhishek Sharma Specialist Programmar",
+      "duration": 379
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "courseId": "linux-tutorials-for-beginners-in-hindi-8ad903",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0tP8lerTbX3eUtBFS0Ir4_aFqKuXWjYZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:57.773Z",
+  "title": "Linux Zero to Hero Playlist 2024",
+  "channel": "M Prashant",
+  "videos": [
+    {
+      "id": "rrw-Pv3rc0E",
+      "title": "What is LINUX for Beginners? Understand Linux Distributions & Kernel [HINDI] | MPrashant",
+      "duration": 545
+    },
+    {
+      "id": "BNTFJJMh2eU",
+      "title": "What is Virtualization? | Hypervisor Types | Virtual Machines [HINDI]",
+      "duration": 521
+    },
+    {
+      "id": "4j2juiMJIhg",
+      "title": "VirtualBox Setup - Linux Ubuntu & CentOS on Windows",
+      "duration": 564
+    },
+    {
+      "id": "5q6_w5Dk4UE",
+      "title": "Access Linux Server Remotely Using SSH - Putty | Windows CMD | GitBash | MobaXterm",
+      "duration": 758
+    },
+    {
+      "id": "56oK8Zvi1Sg",
+      "title": "WinScp Setup | Transfer Files Between Linux and Windows",
+      "duration": 215
+    },
+    {
+      "id": "J1-hSlxsDVo",
+      "title": "What is SCP command in Linux? Transfer files between Linux Remote Servers",
+      "duration": 650
+    },
+    {
+      "id": "oWGn26htT3I",
+      "title": "Kali Linux Tutorial 🔥 - VirtualBox Setup, SSH, and Decrypt Password | MPrashant",
+      "duration": 1035
+    },
+    {
+      "id": "Byx4sgLR88E",
+      "title": "Linux for Beginners in One Video 🔥 100 Commands Explanation [HINDI] | MPrashant",
+      "duration": 10105
+    },
+    {
+      "id": "VnbP0VKkrWU",
+      "title": "MOST Frequently USED LINUX COMMANDS in JOB for Beginners [HINDI]",
+      "duration": 707
+    },
+    {
+      "id": "oGLrtHfr1uE",
+      "title": "Linux Commands Starts from A to Z alphabet in Hindi | Quick Revision | MPrashant",
+      "duration": 639
+    },
+    {
+      "id": "sUIoV48rxVE",
+      "title": "Learn How to use vi / vim editor in Linux with examples in Hindi | MPrashant",
+      "duration": 1411
+    },
+    {
+      "id": "0EVsbhnvLds",
+      "title": "How to Use Nano Editor in Linux | Hindi Tutorial",
+      "duration": 467
+    },
+    {
+      "id": "uF7hFCThf4g",
+      "title": "How to Use Pipe in Linux | Linux TEE and XARGS Command [HINDI]",
+      "duration": 1166
+    },
+    {
+      "id": "bKNAYemzC6E",
+      "title": "Mastering Linux GREP Command with 15+ Practical Use Cases [HINDI]",
+      "duration": 1373
+    },
+    {
+      "id": "gkQHAy6Zdrg",
+      "title": "What is Linux Pgrep, Fgrep, ZGrep, PDFGrep, Egrep, Grep Commands | MPrashant",
+      "duration": 483
+    },
+    {
+      "id": "1z17BswGsdw",
+      "title": "Linux FIND COMMAND Tutorial With Practical 12 UseCases or Examples [HINDI]",
+      "duration": 1376
+    },
+    {
+      "id": "ziXsxVS8BWc",
+      "title": "LINUX TIPS and TRICKS To Improve Productivity | Linux Script Command",
+      "duration": 1070
+    },
+    {
+      "id": "DKPhqK2K2VQ",
+      "title": "Linux Wildcards in Hindi With Simple Examples | MPrashant",
+      "duration": 1485
+    },
+    {
+      "id": "lRokPC5ZrPU",
+      "title": "Linux Redirects | Linux Stdin Stdout Stderr [HINDI]",
+      "duration": 854
+    },
+    {
+      "id": "q7_kgvJsk0s",
+      "title": "Linux Compression: tar, gzip, and zip Commands Explained",
+      "duration": 674
+    },
+    {
+      "id": "djR1Q_bVHok",
+      "title": "Understand Linux Hard & Soft Links | Linux LN command [HINDI]",
+      "duration": 921
+    },
+    {
+      "id": "4L7r-Y_OSyE",
+      "title": "How to set Environment Variables in Linux? [HINDI]",
+      "duration": 1182
+    },
+    {
+      "id": "YdXxYxeMuos",
+      "title": "ALIAS in Linux To Boost your Productivity [HINDI] | MPrashant",
+      "duration": 1085
+    },
+    {
+      "id": "IyKWSc7s760",
+      "title": "What Is Linux File System in Hindi? |  Linux FileSystem Explained for Beginners [HINDI]",
+      "duration": 1582
+    },
+    {
+      "id": "HxVVVvoXWSs",
+      "title": "Types Of Files In Linux | Mprashant",
+      "duration": 465
+    },
+    {
+      "id": "sebgrmiYdk4",
+      "title": "Linux Boot Process Explained [HINDI] | MPrashant",
+      "duration": 942
+    },
+    {
+      "id": "4p2zkY8Q-LQ",
+      "title": "Linux File Permissions For Beginners [HINDI] | Linux CHMOD Command",
+      "duration": 1027
+    },
+    {
+      "id": "Et2cvQvIyUY",
+      "title": "Linux Access Control List (ACL) | Linux File Permissions Using getfacl & setfacl",
+      "duration": 555
+    },
+    {
+      "id": "7FSRZc_76Ys",
+      "title": "Linux DISK SPACE Monitoring Commands - DF DU FREE [HINDI]",
+      "duration": 577
+    },
+    {
+      "id": "vvZcssOpuIk",
+      "title": "How to use the PS command in Linux | What is PS command | What is PS -ef?",
+      "duration": 682
+    },
+    {
+      "id": "gXByMLmzOpo",
+      "title": "How to Use Kill Command? | Linux Kill Command Tutorial in Hindi | MPrashant",
+      "duration": 539
+    },
+    {
+      "id": "--w38cgP3kY",
+      "title": "Linux Service Management Using SYSTEMCTL Command | MPrashant",
+      "duration": 736
+    },
+    {
+      "id": "hK-tYkiIoqY",
+      "title": "Top Command: A Linux Command for Quickly Seeing What is Running on Your System",
+      "duration": 755
+    },
+    {
+      "id": "kmk3_kEiJvk",
+      "title": "How to Manage Processes on Linux with nohup, nice, bg, fg, jobs Commands",
+      "duration": 1056
+    },
+    {
+      "id": "Ync6SdB51Z4",
+      "title": "Understand Cron Job in Linux with Practical Example [HINDI] | MPrashant",
+      "duration": 1138
+    },
+    {
+      "id": "yXpFv9q5SkA",
+      "title": "Linux AT Command | Schedule Task in Linux To Run at Once | Linux Basic Commands for Beginners",
+      "duration": 532
+    },
+    {
+      "id": "1y-qmAMKIW4",
+      "title": "Master Linux Anacron: Schedule Tasks on Your Terms | Anacrontab | MPrashant",
+      "duration": 981
+    },
+    {
+      "id": "Iv8ig0PoDlc",
+      "title": "How to Use Linux Ping Command to Troubleshoot Network Issues | Ping Command Tutorial in Hindi",
+      "duration": 1013
+    },
+    {
+      "id": "YuTfG-mVRlA",
+      "title": "How to Use Linux Netstat Command to Troubleshoot Network Issues | Netstat Command In Hindi",
+      "duration": 862
+    },
+    {
+      "id": "hibnsk5EdFY",
+      "title": "How to Use Linux TraceRoute for Network Troubleshooting | MPrashant",
+      "duration": 573
+    },
+    {
+      "id": "TtGM9GfBuok",
+      "title": "Master SHELL SCRIPTING in ONE VIDEO 🔥 for Beginners  [HINDI] | MPrashant",
+      "duration": 18616
+    },
+    {
+      "id": "F4Zo1NuE_rY",
+      "title": "Master Linux AWK: From Basics to Advanced Techniques | Hindi | MPrashant",
+      "duration": 4617
+    },
+    {
+      "id": "ETF6CapGAvc",
+      "title": "Linux SED Command | SED Tutorial in Hindi | Linux for Beginners #6",
+      "duration": 2456
+    },
+    {
+      "id": "XMYcB0mB0Rs",
+      "title": "Linux Package Management | Linux YUM, DNF, RPM | Rollback Patches",
+      "duration": 1393
+    },
+    {
+      "id": "vLuFkesBPcM",
+      "title": "Linux User Account Management | USERADD, USERMOD, Examples | MPrashant",
+      "duration": 1229
+    },
+    {
+      "id": "QTcLUkX1bWI",
+      "title": "Linux Password Aging | Linux CHAGE Command | MPrashant",
+      "duration": 625
+    },
+    {
+      "id": "l25ir0p6Lfc",
+      "title": "Linux SU and SUDO Commands | How to Give SUDO Access to a User using SUDOERS | MPrashant",
+      "duration": 980
+    },
+    {
+      "id": "Ei3nU-fHI6E",
+      "title": "Learn Linux SSH Basics - How to Connect to a Server | Linux SSH Tutorial Part-1",
+      "duration": 770
+    },
+    {
+      "id": "S1a7RmqeZ5E",
+      "title": "How to SSH Login Without a Password on a Linux Server | Linux SSH Tutorial Part-2",
+      "duration": 426
+    },
+    {
+      "id": "bR8SAS60QnY",
+      "title": "Linux FIREWALL Management - firewalld service, rules | MPrashant",
+      "duration": 2249
+    },
+    {
+      "id": "ZysmaEbw2wE",
+      "title": "What is SUID and SGID in Linux? | MPrashant",
+      "duration": 846
+    },
+    {
+      "id": "-KPbAZ6sD_k",
+      "title": "Linux Sticky Bit in Hindi | MPrashant",
+      "duration": 667
+    },
+    {
+      "id": "Y-pd5iTXJjs",
+      "title": "How to Change Default Permission in Linux with UMASK | MPrashant",
+      "duration": 550
+    },
+    {
+      "id": "0Bs54BsdHu8",
+      "title": "Linux Chown, Chgrp Command in Hindi | Linux File Ownership Command",
+      "duration": 324
+    },
+    {
+      "id": "blYx6VQEPXY",
+      "title": "Linux POSTFIX Tutorial to send EMAIL | MPrashant",
+      "duration": 1036
+    },
+    {
+      "id": "tA-32BLjrFA",
+      "title": "Linux Log Monitoring | How to Do Log Analysis? | MPrashant",
+      "duration": 1187
+    },
+    {
+      "id": "DSkVPzHzJBc",
+      "title": "How to Use Linux DMESG Command for System Monitor in Hindi |",
+      "duration": 581
+    },
+    {
+      "id": "lrcQ6wT-VYs",
+      "title": "Linux LogRotate with Example [HINDI] | MPrashant",
+      "duration": 1320
+    },
+    {
+      "id": "D_CvoPsKvsA",
+      "title": "Linux RSYNC Tutorial in [Hindi] | MPrashant",
+      "duration": 1165
+    },
+    {
+      "id": "TQR0sPgVpEg",
+      "title": "Linux Apache Web Server HTTPD | Setup with Example in Hindi | Beginners",
+      "duration": 611
+    },
+    {
+      "id": "EmtCxPCo4WY",
+      "title": "What is NGINX WebServer With Example Setup on Linux [Hindi]",
+      "duration": 1143
+    },
+    {
+      "id": "hgLFNSelxAs",
+      "title": "NGINX Reverse Proxy Setup with Example Using HTTPD [Hindi]",
+      "duration": 814
+    },
+    {
+      "id": "q37lf7lTVA4",
+      "title": "FTP in Linux | FTP Server in Linux | MPrashant",
+      "duration": 1010
+    },
+    {
+      "id": "1TBD9aMQ7Rg",
+      "title": "Learn Linux NFS Fast--You WON'T BELIEVE What Happens Next! | MPrashant",
+      "duration": 993
+    },
+    {
+      "id": "q4qTkR2Hc34",
+      "title": "Learn Linux SAMBA Server Fast--You WON'T BELIEVE What Happens Next! | MPrashant",
+      "duration": 1668
+    },
+    {
+      "id": "FsSf3rmu2Cc",
+      "title": "What is LVM in Linux with Example in Hindi | MPrashant",
+      "duration": 2134
+    },
+    {
+      "id": "DS-HpSlqfAc",
+      "title": "SELinux in Linux [HINDI] | MPrashant",
+      "duration": 1365
+    },
+    {
+      "id": "pIcNF7JUjt8",
+      "title": "Ultimate DNS Server & Apache Setup Guide with Custom Domain | DNS Config with Example | MPrashant",
+      "duration": 2146
+    },
+    {
+      "id": "dcF5Rqw_VZ4",
+      "title": "Mastering Linux AWK and CUT commands: Essential Linux skills for beginners",
+      "duration": 1392
+    },
+    {
+      "id": "8So9iwyB8qQ",
+      "title": "Discover How to Access Your Linux Server with Ease - Linux Cockpit! A Web Interface for Linux Server",
+      "duration": 603
+    },
+    {
+      "id": "vo9F_l_wwZs",
+      "title": "PART 1 | 60 Linux Questions for Job Interview Preparation in Hindi in 60 min with Answer | Linux QnA",
+      "duration": 3401
+    },
+    {
+      "id": "MJ5g8fEDRe0",
+      "title": "PART 2 | 70 Linux Questions for Job Interview Preparation in Hindi in 60 min with Answer | Linux QnA",
+      "duration": 4016
+    },
+    {
+      "id": "5dBjEwsW4m8",
+      "title": "100 Linux Questions for Experienced, Job Interview & Exams | MOCK",
+      "duration": 3840
+    },
+    {
+      "id": "9X7G3uhnP6k",
+      "title": "PART 3 | 50 Linux Shell Scripting Questions for Job Interview & Exam in Hindi | MPrashant",
+      "duration": 2413
+    },
+    {
+      "id": "wBdRjZ92yN4",
+      "title": "Linux Interview Question: How to Find Largest or Biggest file in a Linux Directory | In Hindi",
+      "duration": 741
+    },
+    {
+      "id": "PH-rWuclGjA",
+      "title": "Shell Scripting Project 1 | Linux Shell Scripting Project | Digital Clock Using Shell Scripting",
+      "duration": 559
+    },
+    {
+      "id": "r-9PgW0vAkQ",
+      "title": "Shell Scripting Project -2 | Archive Older Log Files | MPrashant",
+      "duration": 1726
+    },
+    {
+      "id": "FW9Bo9bDcZc",
+      "title": "Shell Scripting Project -3 | Create Users on Linux using Shell Script | MPrashant",
+      "duration": 1740
+    },
+    {
+      "id": "86gIJPgLJp0",
+      "title": "Get Started with MySQL and CRUD on Linux CLI | How to Install MySQL on Linux? | MPrashant",
+      "duration": 1986
+    },
+    {
+      "id": "4IIlZRabmV8",
+      "title": "Linux Basic Commands in One Video | Linux for beginners in HINDI",
+      "duration": 2745
+    },
+    {
+      "id": "O0g3fmhjq4Y",
+      "title": "How to Change Hostname in Linux? Change Hostname Ubuntu Hindi | MPrashant",
+      "duration": 83
+    },
+    {
+      "id": "kO4NzlAA9vQ",
+      "title": "How to Send Email from Linux using SendMail Hindi | Linux SENDMAIL Tutorial",
+      "duration": 602
+    },
+    {
+      "id": "OB2Xta8o9mk",
+      "title": "How to Install and Setup JAVA on Linux? | Compile Java on Linux | MPrashant",
+      "duration": 717
+    },
+    {
+      "id": "e5sBHXX-PUc",
+      "title": "How to Send Email in Linux using Python | Easy Way of Sending Email in Linux in Hindi",
+      "duration": 364
+    },
+    {
+      "id": "d2hCS6T1z3k",
+      "title": "The Ultimate Guide to Linux Hardening: Boost Your System Security [HINDI]",
+      "duration": 996
+    },
+    {
+      "id": "GHyFtrpX-Lo",
+      "title": "Linux BOOT PROCESS Explained (UEFI, GRUB, Kernel & systemd) [HINDI] | MPrashant",
+      "duration": 1434
+    }
+  ]
+}

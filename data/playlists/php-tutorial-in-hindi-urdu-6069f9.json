@@ -1,0 +1,1305 @@
+{
+  "courseId": "php-tutorial-in-hindi-urdu-6069f9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:10.486Z",
+  "title": "✅ PHP Tutorial in Hindi / Urdu",
+  "channel": "YOOBABA",
+  "videos": [
+    {
+      "id": "a_qREkJ78f4",
+      "title": "PHP Introduction Tutorial in Hindi / Urdu",
+      "duration": 626
+    },
+    {
+      "id": "PeAFYfVGL68",
+      "title": "PHP Installing Xampp Server in Hindi / Urdu",
+      "duration": 876
+    },
+    {
+      "id": "eLBDf7U4DfQ",
+      "title": "PHP Code Structure Tutorial in Hindi / Urdu",
+      "duration": 304
+    },
+    {
+      "id": "V9c2M7c5xqU",
+      "title": "PHP Echo & Print Statement Tutorial in Hindi / Urdu",
+      "duration": 561
+    },
+    {
+      "id": "L2kwYV_paRE",
+      "title": "PHP Variables Tutorial in Hindi / Urdu",
+      "duration": 544
+    },
+    {
+      "id": "oXX2SJKijig",
+      "title": "PHP Data Types Tutorial in Hindi / Urdu",
+      "duration": 601
+    },
+    {
+      "id": "Ot0KW2B99jw",
+      "title": "PHP Comments Tutorial in Hindi / Urdu",
+      "duration": 381
+    },
+    {
+      "id": "7uzeFkv3xnA",
+      "title": "PHP Constant Variable Tutorial in Hindi / Urdu",
+      "duration": 571
+    },
+    {
+      "id": "vVriOT-erZU",
+      "title": "PHP Arithmetic Operators Tutorial in Hindi / Urdu",
+      "duration": 599
+    },
+    {
+      "id": "TJvxmzW2y6k",
+      "title": "PHP Assignment Operators Tutorial in Hindi / Urdu",
+      "duration": 296
+    },
+    {
+      "id": "SqRvxdqPfnw",
+      "title": "PHP Comparison Operators Tutorial in Hindi / Urdu",
+      "duration": 611
+    },
+    {
+      "id": "D5U0764ynQU",
+      "title": "PHP If Statement Tutorial in Hindi / Urdu",
+      "duration": 459
+    },
+    {
+      "id": "LdBiXNEmY5E",
+      "title": "PHP Logical Operators Tutorial in Hindi / Urdu",
+      "duration": 574
+    },
+    {
+      "id": "YD-4ZNtqJ2E",
+      "title": "PHP If else Statement Tutorial in Hindi / Urdu",
+      "duration": 360
+    },
+    {
+      "id": "ATSS8uKXRt8",
+      "title": "PHP If Elseif Statement Tutorial in Hindi / Urdu",
+      "duration": 482
+    },
+    {
+      "id": "3KARgG9t62w",
+      "title": "PHP Switch Statement Tutorial in Hindi / Urdu",
+      "duration": 748
+    },
+    {
+      "id": "HRe_XhB0Yes",
+      "title": "PHP Ternary Operator Tutorial in Hindi / Urdu",
+      "duration": 480
+    },
+    {
+      "id": "9MXLF808190",
+      "title": "PHP String Operators Tutorial in Hindi / Urdu",
+      "duration": 369
+    },
+    {
+      "id": "jO4nyx1rJLU",
+      "title": "PHP While Loop Tutorial in Hindi / Urdu",
+      "duration": 659
+    },
+    {
+      "id": "yF3SLL3JmkA",
+      "title": "PHP Do While Loop Tutorial in Hindi / Urdu",
+      "duration": 352
+    },
+    {
+      "id": "y4BayRnGmTM",
+      "title": "PHP For Loop Tutorial in Hindi / Urdu",
+      "duration": 399
+    },
+    {
+      "id": "XDHWyeTu0pQ",
+      "title": "PHP Nested Loop Tutorial in Hindi / Urdu",
+      "duration": 392
+    },
+    {
+      "id": "n0G506Kbpm4",
+      "title": "PHP Continue & Break Statement Tutorial in Hindi / Urdu",
+      "duration": 374
+    },
+    {
+      "id": "RIq2wwg1cuY",
+      "title": "PHP Goto Statement Tutorial in Hindi / Urdu",
+      "duration": 269
+    },
+    {
+      "id": "hDMg-NCGLfQ",
+      "title": "PHP Functions Tutorial in Hindi / Urdu",
+      "duration": 467
+    },
+    {
+      "id": "rnd3GOm_iWQ",
+      "title": "PHP Functions with Parameters Tutorial in Hindi / Urdu",
+      "duration": 547
+    },
+    {
+      "id": "glURuKGsvHg",
+      "title": "PHP Functions with Returning Value Tutorial in Hindi / Urdu",
+      "duration": 608
+    },
+    {
+      "id": "5jd3xHssAOI",
+      "title": "PHP Function Argument By Reference Tutorial in Hindi / Urdu",
+      "duration": 590
+    },
+    {
+      "id": "ZTksI7nK0UI",
+      "title": "PHP Variable Functions Tutorial in Hindi / Urdu",
+      "duration": 336
+    },
+    {
+      "id": "Fyfkiz3W0LY",
+      "title": "PHP Recursive Function Tutorial in Hindi / Urdu",
+      "duration": 605
+    },
+    {
+      "id": "EUqK-1Xdb38",
+      "title": "PHP Global & Local Variable Tutorial in Hindi / Urdu",
+      "duration": 407
+    },
+    {
+      "id": "SLqF77h6HLY",
+      "title": "PHP Array Tutorial in Hindi / Urdu",
+      "duration": 771
+    },
+    {
+      "id": "4g92hYriSXw",
+      "title": "PHP Associative Array Tutorial in Hindi / Urdu",
+      "duration": 587
+    },
+    {
+      "id": "G7i-yaqEZQ4",
+      "title": "PHP Foreach Loop Tutorial in Hindi / Urdu",
+      "duration": 489
+    },
+    {
+      "id": "lMvNPGbKyjI",
+      "title": "PHP Multidimensional Array Tutorial in Hindi / Urdu",
+      "duration": 812
+    },
+    {
+      "id": "LtMwo90dJXo",
+      "title": "PHP Multidimensional Associative Array Tutorial in Hindi / Urdu",
+      "duration": 601
+    },
+    {
+      "id": "KczLt2Llk1M",
+      "title": "PHP Foreach Loop with List Tutorial in Hindi / Urdu",
+      "duration": 745
+    },
+    {
+      "id": "xPzZHhm4MQ4",
+      "title": "PHP Array Count & Sizeof Function Tutorial in Hindi / Urdu",
+      "duration": 531
+    },
+    {
+      "id": "gqVvKhN6VRo",
+      "title": "PHP Array In_array &  Array_search Function Tutorial in Hindi / Urdu",
+      "duration": 521
+    },
+    {
+      "id": "_lix9Hfp8AI",
+      "title": "PHP Array_replace & Array_replace_recursive Tutorial in Hindi / Urdu",
+      "duration": 542
+    },
+    {
+      "id": "JTsOMiKpYmE",
+      "title": "PHP Array_pop & Array_push Tutorial in Hindi / Urdu",
+      "duration": 228
+    },
+    {
+      "id": "v7J0zKeV0uc",
+      "title": "PHP Array_shift  & Array_unshift Tutorial in Hindi / Urdu",
+      "duration": 241
+    },
+    {
+      "id": "_IgZwyP2x0I",
+      "title": "PHP Array_Merge & Array_Combine Tutorial in Hindi / Urdu",
+      "duration": 708
+    },
+    {
+      "id": "3cpM8lE8-rA",
+      "title": "PHP Array_Slice Function Tutorial in Hindi / Urdu",
+      "duration": 488
+    },
+    {
+      "id": "wWFmzR6jNkw",
+      "title": "PHP Array_Splice Function Tutorial in Hindi / Urdu",
+      "duration": 597
+    },
+    {
+      "id": "xcYxXsi-igY",
+      "title": "PHP Array Key Functions Tutorial in Hindi / Urdu",
+      "duration": 403
+    },
+    {
+      "id": "ziUDM1EBc-U",
+      "title": "PHP Array Intersect Functions Tutorial in Hindi / Urdu",
+      "duration": 967
+    },
+    {
+      "id": "7NGlB36JtBA",
+      "title": "PHP Array Diff & Udiff Functions Tutorial in Hindi / Urdu",
+      "duration": 902
+    },
+    {
+      "id": "fLD1vL8dKj0",
+      "title": "PHP Array_Values & Array_Unique Tutorial in Hindi / urdu",
+      "duration": 245
+    },
+    {
+      "id": "PJvG9wDkrbU",
+      "title": "PHP Array_Column & Array_Chunk Function Tutorial in Hindi / Urdu",
+      "duration": 447
+    },
+    {
+      "id": "T5ajloWi5-4",
+      "title": "PHP Array_Flip & Array_Change_Key_Case Tutorial in Hindi / Urdu",
+      "duration": 281
+    },
+    {
+      "id": "uA9z9jjOXgo",
+      "title": "PHP Array_Sum & Array_Product Tutorial in Hindi / Urdu",
+      "duration": 244
+    },
+    {
+      "id": "KBIF19lkD5I",
+      "title": "PHP Array_Rand & Shuffle Function Tutorial in Hindi / Urdu",
+      "duration": 585
+    },
+    {
+      "id": "ONjFoEYECMY",
+      "title": "PHP Array_Fill & Array_Fill_KeysTutorial in Hindi / Urdu",
+      "duration": 374
+    },
+    {
+      "id": "vvwYmnMV4KE",
+      "title": "PHP Array_Walk & Array_Walk_Recursive Tutorial in Hindi / Urdu",
+      "duration": 437
+    },
+    {
+      "id": "XXPZgyntzEQ",
+      "title": "PHP Array_Map Function Tutorial in Hindi / Urdu",
+      "duration": 615
+    },
+    {
+      "id": "XDkOts9PkyE",
+      "title": "PHP Array_Reduce Function Tutorial in Hindi / Urdu",
+      "duration": 576
+    },
+    {
+      "id": "Mv2YI-drH6Q",
+      "title": "PHP Array Sorting Function Tutorial in Hindi / Urdu",
+      "duration": 878
+    },
+    {
+      "id": "85FCCyQo6SY",
+      "title": "PHP Array Traversing Function Tutorial in Hindi / Urdu",
+      "duration": 603
+    },
+    {
+      "id": "h2lDsWe6TkQ",
+      "title": "PHP Array List Function Tutorial in Hindi / Urdu",
+      "duration": 502
+    },
+    {
+      "id": "9MiRB_d2kLw",
+      "title": "PHP Array Extract & Compact Function Tutorial in Hindi / Urdu",
+      "duration": 805
+    },
+    {
+      "id": "ltzoZIahk7w",
+      "title": "PHP Array_Range Function Tutorial in Hindi / Urdu",
+      "duration": 345
+    },
+    {
+      "id": "cNv8Gi1KjNY",
+      "title": "PHP Explode & Implode Function Tutorial in Hindi / Urdu",
+      "duration": 690
+    },
+    {
+      "id": "7abl_NHZRkM",
+      "title": "PHP String Str_split & Chunk_split Function Tutorial in Hindi / Urdu",
+      "duration": 445
+    },
+    {
+      "id": "LF87_g0Vx_A",
+      "title": "PHP String LowerCase & UpperCase Functions Tutorial in Hindi / Urdu",
+      "duration": 243
+    },
+    {
+      "id": "jYoaZF0T-mE",
+      "title": "PHP String Length & Count Functions Tutorial in Hindi / Urdu",
+      "duration": 731
+    },
+    {
+      "id": "inORLdkSRH0",
+      "title": "PHP String Search & Find Position Functions in Hindi / Urdu",
+      "duration": 541
+    },
+    {
+      "id": "kmwg54Xg3Rs",
+      "title": "PHP String Search Functions Tutorial in Hindi / Urdu",
+      "duration": 598
+    },
+    {
+      "id": "looY2FqabgY",
+      "title": "PHP String Substr Function Tutorial in Hindi / Urdu",
+      "duration": 380
+    },
+    {
+      "id": "TGxXq58bi3c",
+      "title": "PHP String Replace Functions Tutorial in Hindi / Urdu",
+      "duration": 984
+    },
+    {
+      "id": "SPDBZQXvd-g",
+      "title": "PHP String Compare Functions Tutorial in Hindi / Urdu",
+      "duration": 1249
+    },
+    {
+      "id": "WLYnDV0H61E",
+      "title": "PHP String  Strrev & Str_shuffle Functions Tutorial in Hindi / Urdu",
+      "duration": 229
+    },
+    {
+      "id": "wceHwNWXGGY",
+      "title": "PHP String Str_Pad & Str_Repeat Functions Tutorial in Hindi / Urdu",
+      "duration": 497
+    },
+    {
+      "id": "5IwE5x6fbZs",
+      "title": "PHP String Trim  & Chop Functions Tutorial in Hindi / Urdu",
+      "duration": 531
+    },
+    {
+      "id": "LM6eWvDKtKI",
+      "title": "PHP String Addslashes & Stipslashes Functions Tutorial in Hindi / Urdu",
+      "duration": 634
+    },
+    {
+      "id": "D8L7l1qAgd4",
+      "title": "PHP Htmlentities & Htmlspecialchars Functions Tutorial in Hindi / Urdu",
+      "duration": 1062
+    },
+    {
+      "id": "qZDAKb-SRc8",
+      "title": "PHP Md5 & Sha1 Function Tutorial in Hindi / Urdu",
+      "duration": 592
+    },
+    {
+      "id": "t1LttlfNdxs",
+      "title": "PHP Convert_uuencode & Convert_uudecode Function Tutorial in Hindi Urdu",
+      "duration": 346
+    },
+    {
+      "id": "6r-okMf_tHo",
+      "title": "PHP bin2hex & hex2bin Function Tutorial in Hindi / Urdu",
+      "duration": 246
+    },
+    {
+      "id": "XmmTLpM75ck",
+      "title": "PHP Chr & Ord Function Tutorial in Hindi / Urdu",
+      "duration": 332
+    },
+    {
+      "id": "GDLfJxcgaYk",
+      "title": "PHP Strip_tags & Wordwrap Function Tutorial in Hindi / Urdu",
+      "duration": 452
+    },
+    {
+      "id": "HHsU-Fj-pN0",
+      "title": "PHP Math Min & Max Functions Tutorial in Hindi / Urdu",
+      "duration": 435
+    },
+    {
+      "id": "MTnnsBqmSdQ",
+      "title": "PHP Math Ceil Floor Round Abs Functions Tutorial in Hindi / Urdu",
+      "duration": 476
+    },
+    {
+      "id": "KslQDncxgkY",
+      "title": "PHP Math Intdiv, Sqrt, Pow Functions Tutorial in Hindi / Urdu",
+      "duration": 381
+    },
+    {
+      "id": "vxD9LvB1eNA",
+      "title": "PHP Math Rand,  Mt_rand & Lcg_value Functions in Hindi / Urdu",
+      "duration": 332
+    },
+    {
+      "id": "lSQ7JmBj6AA",
+      "title": "PHP Date Function Tutorial in Hindi / Urdu",
+      "duration": 918
+    },
+    {
+      "id": "izzxN3diUQs",
+      "title": "PHP Time Tutorial in Hindi / Urdu",
+      "duration": 800
+    },
+    {
+      "id": "t5ILmDJBYAs",
+      "title": "PHP Mktime & Gmmktime Function Tutorial in Hindi / Urdu",
+      "duration": 412
+    },
+    {
+      "id": "lmUlbgKpNzI",
+      "title": "PHP Date_create & Date_format Function Tutorial in Hindi / Urdu",
+      "duration": 469
+    },
+    {
+      "id": "MuluEuOJyTU",
+      "title": "PHP Checkdate & Date_diff Function Tutorial in Hindi / Urdu",
+      "duration": 915
+    },
+    {
+      "id": "ODyzbNWUz_k",
+      "title": "PHP Date_add, Date_sub & Date_modify Function in Hindi / Urdu",
+      "duration": 487
+    },
+    {
+      "id": "z-wGRGKwWDE",
+      "title": "PHP Getdate, Localtime, Gettimeofday Function in Hindi / Urdu",
+      "duration": 843
+    },
+    {
+      "id": "w5yyQnqZzFc",
+      "title": "PHP Date_parse Function Tutorial in Hindi / Urdu",
+      "duration": 463
+    },
+    {
+      "id": "BvJMRElidVg",
+      "title": "PHP Strtotime, Strftime, Gmstrftime Function in Hindi / Urdu",
+      "duration": 821
+    },
+    {
+      "id": "ZZV7-_XA6QY",
+      "title": "PHP Date_time_set Function Tutorial in Hindi / Urdu",
+      "duration": 286
+    },
+    {
+      "id": "n12wJB4GPpo",
+      "title": "PHP TimeZone Functions Tutorial in Hindi / Urdu",
+      "duration": 589
+    },
+    {
+      "id": "owztt8rCH_M",
+      "title": "PHP Include & Require Statement Tutorial in Hindi / Urdu",
+      "duration": 670
+    },
+    {
+      "id": "5Qc4Gk6RrbE",
+      "title": "PHP Include_once & Require_once Tutorial in Hindi / Urdu",
+      "duration": 298
+    },
+    {
+      "id": "fTs3deU7n10",
+      "title": "PHP $_GET $_POST $_REQUEST Variables Tutorial in Hindi / Urdu",
+      "duration": 767
+    },
+    {
+      "id": "gjq0JcmVAqM",
+      "title": "PHP $_SERVER Variable Tutorial in Hindi / Urdu",
+      "duration": 630
+    },
+    {
+      "id": "QfKFijweO64",
+      "title": "PHP COOKIE Variable Tutorial in Hindi / Urdu",
+      "duration": 975
+    },
+    {
+      "id": "NL20n0x0raI",
+      "title": "PHP Session Variable Tutorial in Hindi / Urdu",
+      "duration": 871
+    },
+    {
+      "id": "SASN00yQ20Y",
+      "title": "PHP FILES Variable & Move_uploaded_file Tutorial in Hindi / Urdu",
+      "duration": 1080
+    },
+    {
+      "id": "628rwAk0uiM",
+      "title": "PHP Die & Exit Function Tutorial in Hindi / Urdu",
+      "duration": 204
+    },
+    {
+      "id": "KlWOr2RwqM4",
+      "title": "MySQL Introduction Tutorial in Hindi / Urdu",
+      "duration": 597
+    },
+    {
+      "id": "20nqvXrHS0M",
+      "title": "MySQL Installation & Workbench Tutorial in Hindi / Urdu",
+      "duration": 991
+    },
+    {
+      "id": "tN3B0F24fJs",
+      "title": "MySQL Create Table Tutorial in Hindi / Urdu",
+      "duration": 1036
+    },
+    {
+      "id": "8ZgrP_mJ0cM",
+      "title": "MySQL Insert Tutorial in Hindi / Urdu",
+      "duration": 344
+    },
+    {
+      "id": "dp0PQ7BKvhU",
+      "title": "MySQL INSERT Multiple Rows Tutorial in Hindi / Urdu",
+      "duration": 367
+    },
+    {
+      "id": "HAWQu5jx_8Y",
+      "title": "MySQL Constraints Tutorial in Hindi / Urdu",
+      "duration": 1013
+    },
+    {
+      "id": "60b1om_ujGg",
+      "title": "MySQL SELECT With WHERE Clause Tutorial in Hindi / Urdu",
+      "duration": 679
+    },
+    {
+      "id": "gEiMK-ilOCw",
+      "title": "MySQL AND, OR, NOT Operators Tutorial in Hindi / Urdu",
+      "duration": 679
+    },
+    {
+      "id": "f17Xk4ZpMuY",
+      "title": "MySQL IN Operator Tutorial in Hindi / Urdu",
+      "duration": 386
+    },
+    {
+      "id": "szZwAih5nWk",
+      "title": "MySQL BETWEEN & NOT BETWEEN Operator Tutorial in Hindi / Urdu",
+      "duration": 606
+    },
+    {
+      "id": "9qrnHX5TxgA",
+      "title": "MySQL LIKE Operator & Wildcards Tutorial in Hindi / Urdu",
+      "duration": 886
+    },
+    {
+      "id": "PhTeFJAllcA",
+      "title": "MySQL Regular Expression Tutorial in Hindi / Urdu",
+      "duration": 949
+    },
+    {
+      "id": "Flc_QiqzXT4",
+      "title": "MySQL ORDER BY & DISTINCT Tutorial in Hindi / Urdu",
+      "duration": 603
+    },
+    {
+      "id": "-y0wTMAKyKU",
+      "title": "MySQL IS NULL & IS NOT NULL Tutorial in Hindi / Urdu",
+      "duration": 285
+    },
+    {
+      "id": "6Vb3WFeIR98",
+      "title": "MySQL LIMIT & OFFSET Tutorial in Hindi / Urdu",
+      "duration": 388
+    },
+    {
+      "id": "2Awr_CDk8as",
+      "title": "MySQL Count Sum Min Max Avg Tutorial in Hindi / Urdu",
+      "duration": 555
+    },
+    {
+      "id": "8j250rfweyc",
+      "title": "MySQL UPDATE Tutorial in Hindi / Urdu",
+      "duration": 472
+    },
+    {
+      "id": "sQrdLH-QhBQ",
+      "title": "MySQL COMMIT & ROLLBACK Tutorial in Hindi / Urdu",
+      "duration": 691
+    },
+    {
+      "id": "rpwZcLlBfuM",
+      "title": "MySQL DELETE Tutorial in Hindi / Urdu",
+      "duration": 380
+    },
+    {
+      "id": "1wj9wHQzrDo",
+      "title": "MySQL PRIMARY KEY & FOREIGN KEY Tutorial in Hindi / Urdu",
+      "duration": 895
+    },
+    {
+      "id": "bPeQHlmfPPk",
+      "title": "MySQL INNER JOIN Tutorial in Hindi / Urdu",
+      "duration": 565
+    },
+    {
+      "id": "sEjnXJOytzc",
+      "title": "MySQL LEFT JOIN & RIGHT JOIN Tutorial in Hindi / Urdu",
+      "duration": 1016
+    },
+    {
+      "id": "M0VICJpq_jA",
+      "title": "MySQL CROSS JOIN Tutorial in Hindi / Urdu",
+      "duration": 382
+    },
+    {
+      "id": "dkY-KvFtNFM",
+      "title": "MySQL JOIN Multiple Tables Tutorial in Hindi / Urdu",
+      "duration": 634
+    },
+    {
+      "id": "RJbP_oTbwNw",
+      "title": "MySQL GROUP BY & HAVING Clause Tutorial in Hindi / Urdu",
+      "duration": 753
+    },
+    {
+      "id": "VxiF_MgePL8",
+      "title": "MySQL SubQuery with EXISTS & NOT EXISTS Tutorial in Hindi / Urdu",
+      "duration": 685
+    },
+    {
+      "id": "ekA1tuSeHXc",
+      "title": "MySQL UNION & UNION ALL Tutorial in Hindi / Urdu",
+      "duration": 922
+    },
+    {
+      "id": "azkZI3uA71I",
+      "title": "MySQL IF & CASE Statement Tutorial in Hindi / Urdu",
+      "duration": 954
+    },
+    {
+      "id": "afMAQJ3dCCU",
+      "title": "MySQL Arithmetic Functions Tutorial in Hindi / Urdu",
+      "duration": 1082
+    },
+    {
+      "id": "-wcsmxI9vq4",
+      "title": "MySQL String Functions Tutorial in Hindi / Urdu",
+      "duration": 936
+    },
+    {
+      "id": "AyJIt8qhG0Y",
+      "title": "MySQL String Functions Tutorial - II in Hindi / Urdu",
+      "duration": 1113
+    },
+    {
+      "id": "ZZKUyMIsC3M",
+      "title": "MySQL Date Functions Tutorial in Hindi / Urdu",
+      "duration": 890
+    },
+    {
+      "id": "Wnh_cTUqkKE",
+      "title": "MySQL Date Functions Tutorial - II in Hindi Urdu",
+      "duration": 1348
+    },
+    {
+      "id": "VPUYgZvoPL8",
+      "title": "MySQL Time Functions Tutorial in Hindi / Urdu",
+      "duration": 909
+    },
+    {
+      "id": "shZYRITkYPk",
+      "title": "MySQL ALTER Tutorial in Hindi / Urdu",
+      "duration": 964
+    },
+    {
+      "id": "ATs5w3CUnRo",
+      "title": "MySQL DROP & TRUNCATE Table Tutorial in Hindi / Urdu",
+      "duration": 226
+    },
+    {
+      "id": "iLHolv9Oeyg",
+      "title": "MySQL VIEW Tutorial in Hindi / Urdu",
+      "duration": 954
+    },
+    {
+      "id": "vRJM1sDrocM",
+      "title": "MySQL INDEX Tutorial in Hindi / Urdu",
+      "duration": 705
+    },
+    {
+      "id": "JtG3bb6scEE",
+      "title": "PHP MySQL CRUD - Read Data Tutorial in Hindi / Urdu",
+      "duration": 1930
+    },
+    {
+      "id": "CGI4N5IcgtQ",
+      "title": "PHP MySQL CRUD - Create Data Tutorial in Hindi / Urdu",
+      "duration": 1149
+    },
+    {
+      "id": "iDsXwICAIjI",
+      "title": "PHP MySQL CRUD - Update Data Tutorial in Hindi / Urdu",
+      "duration": 1786
+    },
+    {
+      "id": "Xx661lMiRyo",
+      "title": "PHP MySQL CRUD - Update Data Tutorial-II in Hindi / Urdu",
+      "duration": 630
+    },
+    {
+      "id": "ff_zI6sT3hI",
+      "title": "PHP MySQL CRUD - Delete Data Tutorial in Hindi / Urdu",
+      "duration": 962
+    },
+    {
+      "id": "ijnXg3Lrhv4",
+      "title": "PHP MySQL News Project Introduction Tutorial in Hindi Urdu",
+      "duration": 1045
+    },
+    {
+      "id": "cDzRP64u31Y",
+      "title": "PHP News Project - Add Modify Delete Users Tutorial in Hindi / Urdu",
+      "duration": 3247
+    },
+    {
+      "id": "SCi-BNgRIhY",
+      "title": "PHP News Project - Pagination Tutorial in Hindi / Urdu",
+      "duration": 1545
+    },
+    {
+      "id": "phJTik2aphI",
+      "title": "PHP News Project - Login & Logout Tutorial in Hindi / Urdu",
+      "duration": 1912
+    },
+    {
+      "id": "uAmt5jGybf4",
+      "title": "PHP News Project - Add & Show Post Tutorial in Hindi / Urdu",
+      "duration": 3580
+    },
+    {
+      "id": "2CRQ65Uktcc",
+      "title": "PHP News Project - Update & Delete Post Tutorial in Hindi / Urdu",
+      "duration": 2337
+    },
+    {
+      "id": "YJ0T3Xi-1HQ",
+      "title": "PHP News Project - Delete Image from Folder Tutorial in Hindi / Urdu",
+      "duration": 699
+    },
+    {
+      "id": "KJIp_l3iU9c",
+      "title": "PHP News Project - Front & Single Page Tutorial in Hindi / Urdu",
+      "duration": 1690
+    },
+    {
+      "id": "PKAHZakvEY8",
+      "title": "PHP News Project - Category Page Tutorial in Hindi / Urdu",
+      "duration": 1697
+    },
+    {
+      "id": "1-nHjYhr4ec",
+      "title": "PHP News Project - Author Page Tutorial in Hindi / Urdu",
+      "duration": 992
+    },
+    {
+      "id": "BfKjlym6zxg",
+      "title": "PHP News Project - Search Page Tutorial in Hindi / Urdu",
+      "duration": 834
+    },
+    {
+      "id": "XBhS9N0CJ9s",
+      "title": "PHP News Project - Recent Post Tutorial in Hindi / Urdu",
+      "duration": 642
+    },
+    {
+      "id": "zedK6ud08VA",
+      "title": "PHP News Project - Dynamic Title Tutorial in Hindi / Urdu",
+      "duration": 1379
+    },
+    {
+      "id": "IWNLfd7PwKQ",
+      "title": "PHP News Project - Website Settings Page Tutorial in Hindi / Urdu",
+      "duration": 1687
+    },
+    {
+      "id": "hPqvukMZnBg",
+      "title": "PHP News Project - Resolve Issues & Tips Tutorial in Hindi / Urdu",
+      "duration": 2716
+    },
+    {
+      "id": "aZOMGjTX6pM",
+      "title": "PHP MySQLi Fetch Functions Tutorial in Hindi / Urdu",
+      "duration": 1320
+    },
+    {
+      "id": "vBsF8QZ-6J8",
+      "title": "PHP MySQLi Affected Rows Tutorial in Hindi / Urdu",
+      "duration": 386
+    },
+    {
+      "id": "dfuqDV0nbxU",
+      "title": "PHP MySQLi Error Functions Tutorial in Hindi / Urdu",
+      "duration": 625
+    },
+    {
+      "id": "m28rN7xz5JI",
+      "title": "PHP Is Conditional Functions Tutorial in Hindi / Urdu",
+      "duration": 1251
+    },
+    {
+      "id": "Pb3tRs8u2Rw",
+      "title": "PHP Filter Validations Tutorial in Hindi / Urdu",
+      "duration": 1776
+    },
+    {
+      "id": "z_OlfBbaENQ",
+      "title": "PHP Sanitize Filter Tutorial in Hindi / Urdu",
+      "duration": 881
+    },
+    {
+      "id": "nVwpUJHsFXo",
+      "title": "PHP Sanitize Filter - II Tutorial in Hindi / Urdu",
+      "duration": 860
+    },
+    {
+      "id": "G7fvPsLfeco",
+      "title": "PHP Filter_Var_Array Function Tutorial in Hindi / Urdu",
+      "duration": 565
+    },
+    {
+      "id": "vb4GsTYhtJw",
+      "title": "PHP Filter_Input Function Tutorial in Hindi / Urdu",
+      "duration": 717
+    },
+    {
+      "id": "NUjxVl96PYg",
+      "title": "PHP FileSystem Functions Tutorial in Hindi / Urdu",
+      "duration": 1413
+    },
+    {
+      "id": "-FjZoukFJmE",
+      "title": "PHP FileSystem Functions Tutorial - II in Hindi / Urdu",
+      "duration": 1454
+    },
+    {
+      "id": "H3XMF5_0gVU",
+      "title": "PHP FileSystem Is Functions Tutorial in Hindi / Urdu",
+      "duration": 483
+    },
+    {
+      "id": "OYvK_P0mrow",
+      "title": "PHP Chmod & Fileperms Functions Tutorial in Hindi / Urdu",
+      "duration": 1192
+    },
+    {
+      "id": "WNAC_zcPbj8",
+      "title": "PHP File_put_contents & File_get_contents Tutorial in Hindi / Urdu",
+      "duration": 820
+    },
+    {
+      "id": "kHj3hSslO-g",
+      "title": "PHP Glob Function Tutorial in Hindi / Urdu",
+      "duration": 887
+    },
+    {
+      "id": "wPuUb46EcmY",
+      "title": "PHP Getcwd, Chdir,  Scandir Functions Tutorial in Hindi / Urdu",
+      "duration": 532
+    },
+    {
+      "id": "6rgcWrFVGhA",
+      "title": "PHP OpenDir, ReadDir, CloseDir Functions Tutorial in Hindi / Urdu",
+      "duration": 330
+    },
+    {
+      "id": "3RlDZEa6gW8",
+      "title": "PHP Regular Expressions Tutorial in Hindi Urdu",
+      "duration": 2415
+    },
+    {
+      "id": "YjtsWHDnPwE",
+      "title": "PHP Regular Expressions Tutorial - II in Hindi / Urdu",
+      "duration": 2385
+    },
+    {
+      "id": "1myvbrWbJNc",
+      "title": "PHP Preg_replace & Preg_split Tutorial in Hindi Urdu",
+      "duration": 1579
+    },
+    {
+      "id": "qtBdS1ILQ5c",
+      "title": "PHP : How to Send Email Tutorial in Hindi / Urdu",
+      "duration": 1045
+    },
+    {
+      "id": "ACitNEo8sKw",
+      "title": "PHP Ajax Introduction Tutorial in Hindi / Urdu",
+      "duration": 1287
+    },
+    {
+      "id": "FDVUw6nJIBI",
+      "title": "PHP Ajax Insert Records in Database Tutorial in Hindi / Urdu",
+      "duration": 1453
+    },
+    {
+      "id": "4dIry2oofkk",
+      "title": "PHP Ajax Delete Records From Database Tutorial in Hindi / Urdu",
+      "duration": 1049
+    },
+    {
+      "id": "fAF7PQz1sEU",
+      "title": "PHP Ajax Update Records of Database Tutorial in Hindi / Urdu",
+      "duration": 1971
+    },
+    {
+      "id": "httIPQ9SJBU",
+      "title": "PHP Ajax Live Search Tutorial in Hindi / Urdu",
+      "duration": 707
+    },
+    {
+      "id": "ikKccfEpKBI",
+      "title": "PHP Ajax Pagination Tutorial in Hindi / Urdu",
+      "duration": 1838
+    },
+    {
+      "id": "scYFekpJzWI",
+      "title": "PHP Ajax Load More Pagination Tutorial in Hindi / Urdu",
+      "duration": 1513
+    },
+    {
+      "id": "Hawe_SD-kFg",
+      "title": "PHP Ajax Serialize Form Data Tutorial in Hindi / Urdu",
+      "duration": 1547
+    },
+    {
+      "id": "tnMzTo4-NCw",
+      "title": "PHP Ajax - $.Get & $.Post Methods Tutorial in Hindi / Urdu",
+      "duration": 983
+    },
+    {
+      "id": "BAHpbig3Liw",
+      "title": "JSON Introduction Tutorial in Hindi / Urdu",
+      "duration": 776
+    },
+    {
+      "id": "l2Fjf7BzeWE",
+      "title": "Read JSON Data with jQuery Tutorial in Hindi / Urdu",
+      "duration": 1169
+    },
+    {
+      "id": "uP3HVv1GCvc",
+      "title": "PHP Json_Encode Function Tutorial in Hindi / Urdu",
+      "duration": 1217
+    },
+    {
+      "id": "gEOEBTqjV1M",
+      "title": "PHP Json_Decode Function Tutorial in Hindi / Urdu",
+      "duration": 545
+    },
+    {
+      "id": "TSUoWoKQgHo",
+      "title": "PHP Create Dynamic JSON File Tutorial in Hindi / Urdu",
+      "duration": 1280
+    },
+    {
+      "id": "arfKoJ-PK38",
+      "title": "PHP REST API Introduction Tutorial in Hindi / Urdu",
+      "duration": 1063
+    },
+    {
+      "id": "iuesfipZ6Y8",
+      "title": "PHP REST API : Read Data Tutorial in Hindi / Urdu",
+      "duration": 1335
+    },
+    {
+      "id": "_VrF-mvtaEk",
+      "title": "PHP REST API : Create & Update Data Tutorial in Hindi / Urdu",
+      "duration": 1082
+    },
+    {
+      "id": "KMlb92Esbeg",
+      "title": "PHP REST API  : Delete & Search Data Tutorial in Hindi / Urdu",
+      "duration": 945
+    },
+    {
+      "id": "3iJNwnhTB1k",
+      "title": "PHP REST API  in Web Page Tutorial in Hindi / Urdu",
+      "duration": 1587
+    },
+    {
+      "id": "T_MMJmJbKCI",
+      "title": "PHP REST API in Web Page Tutorial - II in Hindi / Urdu",
+      "duration": 1736
+    },
+    {
+      "id": "JyWxwIVwWwo",
+      "title": "PHP REST API in Web Page Tutorial - III in Hindi / Urdu",
+      "duration": 896
+    },
+    {
+      "id": "xSG5eGfjY9I",
+      "title": "PHP CoronaVirus API Tutorial in Hindi / Urdu",
+      "duration": 1400
+    },
+    {
+      "id": "MVEAYafrgKM",
+      "title": "PHP OOP Introduction Tutorial in Hindi / Urdu",
+      "duration": 1314
+    },
+    {
+      "id": "sdrGl-RMjAw",
+      "title": "PHP OOP Constructor Function Tutorial in Hindi / Urdu",
+      "duration": 946
+    },
+    {
+      "id": "zl7e1AWqTFw",
+      "title": "PHP OOP Inheritance Tutorial in Hindi / Urdu",
+      "duration": 889
+    },
+    {
+      "id": "iriGS66B7Ds",
+      "title": "PHP OOP Access Modifier Tutorial in Hindi / Urdu",
+      "duration": 924
+    },
+    {
+      "id": "e87GesY4hlk",
+      "title": "PHP OOP Overriding Properties & Methods Tutorial in Hindi / Urdu",
+      "duration": 431
+    },
+    {
+      "id": "P9xlBwoAdPk",
+      "title": "PHP OOP Abstract Class Tutorial in Hindi / Urdu",
+      "duration": 794
+    },
+    {
+      "id": "qOzQbnDaMng",
+      "title": "PHP OOP Interfaces Tutorial in Hindi / Urdu",
+      "duration": 1035
+    },
+    {
+      "id": "Gnnge0Jv3dc",
+      "title": "PHP OOP Static Members Tutorial in Hindi / Urdu",
+      "duration": 777
+    },
+    {
+      "id": "Z0H96kDx7M8",
+      "title": "PHP OOP Late Static Binding Tutorial in Hindi / Urdu",
+      "duration": 368
+    },
+    {
+      "id": "OJ5fmrMMcDU",
+      "title": "PHP OOP Traits Tutorial in Hindi / Urdu",
+      "duration": 555
+    },
+    {
+      "id": "boo0VGf3uiw",
+      "title": "PHP OOP Traits Method Overriding Tutorial in Hindi / Urdu",
+      "duration": 973
+    },
+    {
+      "id": "kyapc7gnCfQ",
+      "title": "PHP OOP Type Hinting Tutorial in Hindi / Urdu",
+      "duration": 1245
+    },
+    {
+      "id": "EKz3cvGvlCE",
+      "title": "PHP OOP Namespace Tutorial in Hindi / Urdu",
+      "duration": 1079
+    },
+    {
+      "id": "V5LziilBHNk",
+      "title": "PHP OOP Method Chaining Tutorial in Hindi / Urdu",
+      "duration": 375
+    },
+    {
+      "id": "G0KM7DMOPCo",
+      "title": "PHP OOP Magic Methods Tutorial in Hindi Urdu",
+      "duration": 200
+    },
+    {
+      "id": "_iH9sZaPzg8",
+      "title": "PHP OOP Destruct Method Tutorial in Hindi / Urdu",
+      "duration": 462
+    },
+    {
+      "id": "0r-k-MZZWFo",
+      "title": "PHP OOP Autoload Method Tutorial in Hindi / Urdu",
+      "duration": 551
+    },
+    {
+      "id": "GPIh47jwM94",
+      "title": "PHP OOP Get Method Tutorial in Hindi / Urdu",
+      "duration": 762
+    },
+    {
+      "id": "E8ksRLcCuhw",
+      "title": "PHP OOP Set Method Tutorial in Hindi / Urdu",
+      "duration": 816
+    },
+    {
+      "id": "casoKXH_410",
+      "title": "PHP OOP Call Method Tutorial in Hindi / Urdu",
+      "duration": 816
+    },
+    {
+      "id": "ss4LABJrD10",
+      "title": "PHP OOP CallStatic Method Tutorial in Hindi / Urdu",
+      "duration": 579
+    },
+    {
+      "id": "XOrAAsPoBp8",
+      "title": "PHP OOP Isset Method Tutorial in Hindi / Urdu",
+      "duration": 819
+    },
+    {
+      "id": "Q-HLEFumJws",
+      "title": "PHP OOP Unset Method Tutorial in Hindi / Urdu",
+      "duration": 542
+    },
+    {
+      "id": "5Gc6d_07fXU",
+      "title": "PHP OOP toString Method Tutorial in Hindi / Urdu",
+      "duration": 310
+    },
+    {
+      "id": "TLV6s9Q95V0",
+      "title": "PHP OOP Sleep Method Tutorial in Hindi / Urdu",
+      "duration": 549
+    },
+    {
+      "id": "toQSIrJOIcQ",
+      "title": "PHP OOP Wakeup Method Tutorial in Hindi / Urdu",
+      "duration": 437
+    },
+    {
+      "id": "EgArTemVs3k",
+      "title": "PHP OOP Clone Method Tutorial in Hindi / Urdu",
+      "duration": 1161
+    },
+    {
+      "id": "9tAGOhBOZs0",
+      "title": "PHP OOP Invoke Method Tutorial in Hindi / Urdu",
+      "duration": 385
+    },
+    {
+      "id": "jMSNo_UFb9M",
+      "title": "PHP Magic Constants Tutorial in Hindi / Urdu",
+      "duration": 780
+    },
+    {
+      "id": "qcc3JtiHi9s",
+      "title": "PHP OOP Conditional Functions Tutorial in Hindi / Urdu",
+      "duration": 1065
+    },
+    {
+      "id": "khL0BXeZkgw",
+      "title": "PHP OOP Get Functions Tutorial in Hindi / Urdu",
+      "duration": 1574
+    },
+    {
+      "id": "HCii0dLHbVw",
+      "title": "PHP MySQLi Object Oriented Tutorial in Hindi / Urdu",
+      "duration": 1001
+    },
+    {
+      "id": "MT4TgXUpoGM",
+      "title": "PHP CRUD Class Tutorial in Hindi / Urdu",
+      "duration": 902
+    },
+    {
+      "id": "otAUVeot7YU",
+      "title": "PHP CRUD Class - Insert Method Tutorial in Hindi / Urdu",
+      "duration": 1473
+    },
+    {
+      "id": "3R2VmvWYylw",
+      "title": "PHP CRUD Class - Update Method Tutorial in Hindi / Urdu",
+      "duration": 1199
+    },
+    {
+      "id": "EARS2TpbZRg",
+      "title": "PHP CRUD Class - Delete Method Tutorial in Hindi / Urdu",
+      "duration": 640
+    },
+    {
+      "id": "BwFlDxVDobs",
+      "title": "PHP CRUD Class - Select Method Tutorial in Hindi / Urdu",
+      "duration": 1293
+    },
+    {
+      "id": "yVRl_uK7LtE",
+      "title": "PHP CRUD Class Pagination Method Tutorial in Hindi / Urdu",
+      "duration": 2224
+    },
+    {
+      "id": "ECqoQ8wVr7o",
+      "title": "PHP CRUD Class - Usage Example Tutorial in Hindi / urdu",
+      "duration": 1269
+    },
+    {
+      "id": "JNf2zvljUl4",
+      "title": "PHP MySQLi Prepare Function Tutorial in Hindi / Urdu",
+      "duration": 1834
+    },
+    {
+      "id": "RkNAi2lpaeo",
+      "title": "PHP MySQLi Prepare Function Tutorial - II in Hindi / Urdu",
+      "duration": 1502
+    },
+    {
+      "id": "ECZMl0-khn0",
+      "title": "PHP E-commerce Shopping Website Project Tutorial in Hindi / Urdu",
+      "duration": 1771
+    },
+    {
+      "id": "Lo8THRA4Pj4",
+      "title": "PHP MySQL PDO Tutorial in Hindi / Urdu",
+      "duration": 1430
+    },
+    {
+      "id": "6dXUtaIymp4",
+      "title": "PHP MySQL PDO : Prepare Method Tutorial in Hindi / Urdu",
+      "duration": 990
+    },
+    {
+      "id": "_cOCaTmPtr0",
+      "title": "PHP PDO : Advance Fetch Styles Tutorial in Hindi / Urdu",
+      "duration": 1440
+    },
+    {
+      "id": "BavFEioruh8",
+      "title": "PHP Exception Handling Tutorial in Hindi / Urdu",
+      "duration": 1341
+    },
+    {
+      "id": "qSx0pUNghhQ",
+      "title": "PHP PDO with Exception Handling Tutorial in Hindi / Urdu",
+      "duration": 975
+    },
+    {
+      "id": "-9wiBkoz5B8",
+      "title": "PHP PDO - Transaction Tutorial in Hindi / Urdu",
+      "duration": 1634
+    },
+    {
+      "id": "bEKVrT26FWw",
+      "title": "PHP PDO - bindColumn Method Tutorial in Hindi / Urdu",
+      "duration": 584
+    },
+    {
+      "id": "RZ9ck5YqY6I",
+      "title": "PHP MySQL Read Data with JS Fetch Method in Hindi / Urdu",
+      "duration": 2126
+    },
+    {
+      "id": "nUex1Z0jEwo",
+      "title": "PHP MySQL Insert Data with JS Fetch Method in Hindi / Urdu",
+      "duration": 2551
+    },
+    {
+      "id": "jFNSmmC8eoM",
+      "title": "PHP MySQL Update Data with JS Fetch Method in Hindi / Urdu",
+      "duration": 2324
+    },
+    {
+      "id": "h2-gsS2R49I",
+      "title": "PHP MySQL Delete Data with JS Fetch Method in Hindi / Urdu",
+      "duration": 682
+    },
+    {
+      "id": "hHyl-thc7UY",
+      "title": "PHP MySQL Search Data with JS Fetch Method in Hindi / Urdu",
+      "duration": 657
+    }
+  ]
+}

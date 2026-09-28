@@ -1,0 +1,420 @@
+{
+  "courseId": "module-1-basics-of-matlab-a-complete-course-1a5dcd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLcgIaTuuWp3kr9W0T7b817jenHcX3CXs1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:55.565Z",
+  "title": "Module-1: Basics of MATLAB (A complete Course)",
+  "channel": "R K THENUA",
+  "videos": [
+    {
+      "id": "5A9sEaEt3Z4",
+      "title": "MATLAB and Simulink Training Program Introduction",
+      "duration": 294
+    },
+    {
+      "id": "cEbbWVFI53o",
+      "title": "Lecture-1: Introduction to MATLAB in (Hindi/Urdu)",
+      "duration": 847
+    },
+    {
+      "id": "Y5vqrs4HHCY",
+      "title": "Lecture-2: Get familiar with MATLAB Environment (Hindi/Urdu)",
+      "duration": 621
+    },
+    {
+      "id": "IinSYDz5QI8",
+      "title": "Lecture-3: Get familiar with MATLAB commands (Hindi/Urdu)",
+      "duration": 994
+    },
+    {
+      "id": "zCQBhP_y-A4",
+      "title": "Lecture-4: How to write a mathematical expression in matlab (Hindi/Urdu)",
+      "duration": 682
+    },
+    {
+      "id": "mYyIBxCAWaM",
+      "title": "Lecture-5: How to write a simple MATLAB program (Hindi/Urdu)",
+      "duration": 692
+    },
+    {
+      "id": "PdUGc_hagoU",
+      "title": "How to write mathematical expression in MATLAB [live Session]",
+      "duration": 2734
+    },
+    {
+      "id": "pM7vZN7rQ1s",
+      "title": "Lecture-6: MATLAB Variables and Arrays (Hindi/Urdu)",
+      "duration": 360
+    },
+    {
+      "id": "OOG25Tu51TM",
+      "title": "Lecture-7: Multi dimensional Arrays in MATLAB (Hindi/Urdu)",
+      "duration": 711
+    },
+    {
+      "id": "fbQh9ve_Jd0",
+      "title": "Lecture-8: Initializing variables in MATLAB part 1 (Hindi/Urdu)",
+      "duration": 642
+    },
+    {
+      "id": "EDc22fFm7c0",
+      "title": "Lecture-9: Initializing variables in MATLAB part 2: Read data from a file (Hindi/Urdu)",
+      "duration": 671
+    },
+    {
+      "id": "xkBIaF_6L7M",
+      "title": "Lecture-10: Displaying output data in MATLAB (Hindi/Urdu)",
+      "duration": 587
+    },
+    {
+      "id": "2cwn2EjNBnc",
+      "title": "Lecture-11: Scalar and Array Operations in MATLAB (Hindi/Urdu)",
+      "duration": 562
+    },
+    {
+      "id": "iP9TYNgMYBg",
+      "title": "Lecture-12: Introduction to Plotting in MATLAB (Hindi/Urdu)",
+      "duration": 773
+    },
+    {
+      "id": "Ou7o-v3WTIo",
+      "title": "Lecture-13: Multiple plots  in MATLAB (Hindi/Urdu)",
+      "duration": 551
+    },
+    {
+      "id": "zY4H0c6jqCM",
+      "title": "Lecture-14: Additional 2D plots in MATLAB (Hindi/Urdu)",
+      "duration": 260
+    },
+    {
+      "id": "rs-Khjf1eKM",
+      "title": "Lecture-15: Three dimensional (3D) plots in MATLAB (Hindi/Urdu)",
+      "duration": 246
+    },
+    {
+      "id": "dZsUzILrdmw",
+      "title": "Lecture-16: Additional Plotting Features Part-1: Multiple plots and Subplots in MATLAB (Hindi/Urdu)",
+      "duration": 445
+    },
+    {
+      "id": "6YjTJHCVoXE",
+      "title": "Lecture-17: Additional Plotting Features Part-2: Stream modifiers (Hindi/Urdu)",
+      "duration": 479
+    },
+    {
+      "id": "xaqfZEGyMGc",
+      "title": "Amplitude Modulation (AM) in MATLAB (Hindi/Urdu)",
+      "duration": 517
+    },
+    {
+      "id": "jKlt94WYeCQ",
+      "title": "Frequency Modulation (FM) in MATLAB (Hindi/Urdu)",
+      "duration": 562
+    },
+    {
+      "id": "ZHfSyJ2teB8",
+      "title": "Lecture-18: Polynomials Handling Part-1: Roots of a polynomial in MATLAB (Hindi/Urdu)",
+      "duration": 413
+    },
+    {
+      "id": "-lHJwRt81OI",
+      "title": "Lecture-19: Polynomials Handling Part-2: Partial Fraction Expansion of polynomials (Hindi/Urdu)",
+      "duration": 518
+    },
+    {
+      "id": "dtPaiIWLHNU",
+      "title": "Lecture-20: Pole Zero Plot in MATLAB (Hindi/Urdu)",
+      "duration": 254
+    },
+    {
+      "id": "vh3WBTzUJZI",
+      "title": "Lecture-21:Transfer Function Response and Bode plot in MATLAB (Hindi/Urdu)",
+      "duration": 392
+    },
+    {
+      "id": "xP2Bjy7jpJ4",
+      "title": "Lecture-22: Top down design techniques :Steps to Implement a problem in MATLAB (Hindi/Urdu)",
+      "duration": 390
+    },
+    {
+      "id": "OKzRKobBAgQ",
+      "title": "Lecture-23: Need of Control Statements in MATLAB(Hindi/Urdu)",
+      "duration": 750
+    },
+    {
+      "id": "FSoabKeyCDQ",
+      "title": "Updated Lect-24 and 25: if control statements and loops with examples",
+      "duration": 4173
+    },
+    {
+      "id": "u0eaZAV8TvY",
+      "title": "Lecture-24: if construct or if else control statement in MATLAB (Hindi/Urdu)",
+      "duration": 539
+    },
+    {
+      "id": "cAwz7eGUxFs",
+      "title": "Lecture-25: Nested if else construct or control statement (Hindi/Urdu)",
+      "duration": 222
+    },
+    {
+      "id": "XqsT5OtOS5w",
+      "title": "Lecture-26: Switch construct or Control statement in MATLAB (Hindi/Urdu)",
+      "duration": 324
+    },
+    {
+      "id": "-rHX0gIOqrs",
+      "title": "Lecture-27: While loop in MATLAB (Hindi/Urdu)",
+      "duration": 480
+    },
+    {
+      "id": "HM6RhxWcXnY",
+      "title": "Lecture-28: for loop in MATLAB (Hindi/Urdu)",
+      "duration": 301
+    },
+    {
+      "id": "ujEHhdQv4_0",
+      "title": "Loop based programs in MATLAB (Hindi/Urdu)",
+      "duration": 452
+    },
+    {
+      "id": "V1-owLdzGNs",
+      "title": "Lecture-29: break and continue (Hindi/Urdu)",
+      "duration": 279
+    },
+    {
+      "id": "AeorZdtRqVU",
+      "title": "Lecture-30: How to create a function in MATLAB (Hindi/Urdu)",
+      "duration": 576
+    },
+    {
+      "id": "ED3IOwDTxyw",
+      "title": "Lecture-31: How to create a function part 2 (Hindi/Urdu)",
+      "duration": 518
+    },
+    {
+      "id": "mzkLvAKWGAY",
+      "title": "Lecture-32:function functions in MATLAB (Hindi/Urdu)",
+      "duration": 180
+    },
+    {
+      "id": "TMliD1rSfMM",
+      "title": "Getting MATLAB help",
+      "duration": 452
+    },
+    {
+      "id": "WaxuKEen-hw",
+      "title": "Lecture-33: Sub functions in MATLAB (Hindi/Urdu)",
+      "duration": 395
+    },
+    {
+      "id": "4NjMuNdLE10",
+      "title": "Lecture-34: Nested function in MATLAB (Hindi/Urdu)",
+      "duration": 334
+    },
+    {
+      "id": "ncEOrg6f1Hs",
+      "title": "Lecture-35: private function in MATLAB (Hindi/Urdu)",
+      "duration": 277
+    },
+    {
+      "id": "KpGD1VInEwo",
+      "title": "Lecture-36: Sharing Data using Global memory (Hindi/Urdu)",
+      "duration": 378
+    },
+    {
+      "id": "dSRd-2W0GBE",
+      "title": "Lecture-37: Preserving data between calls to a function (Hindi/Urdu)",
+      "duration": 315
+    },
+    {
+      "id": "Qf4oXcSSL1k",
+      "title": "Lecture-38: String Functions (Hindi/Urdu)",
+      "duration": 600
+    },
+    {
+      "id": "_vtldJDzv1o",
+      "title": "Lecture-39: MATLAB Sparse array (Hindi/Urdu)",
+      "duration": 627
+    },
+    {
+      "id": "NYJxAFufG0Q",
+      "title": "Lecture-40: MATLAB Cell Array (Hindi/Urdu)",
+      "duration": 722
+    },
+    {
+      "id": "3rGr4YS4UUk",
+      "title": "Lecture-41: MATLAB Structures (Hindi/Urdu)",
+      "duration": 987
+    },
+    {
+      "id": "tLQloJ8Wq70",
+      "title": "Lecture-42: MATLAB Structures Part-2 (Hindi/Urdu)",
+      "duration": 660
+    },
+    {
+      "id": "pA6SzlqKytk",
+      "title": "Lecture-43: MATLAB Function handles (Hindi/Urdu)",
+      "duration": 822
+    },
+    {
+      "id": "LuD2gkbbx54",
+      "title": "Lecture-44: MATLAB Graphics Handles (Hindi/Urdu)",
+      "duration": 995
+    },
+    {
+      "id": "5foHK_K151w",
+      "title": "Lecture-45: Time domain to Frequency domain Conversion:  Need of Fourier Transform",
+      "duration": 653
+    },
+    {
+      "id": "DxlFSh1Ap-g",
+      "title": "Lecture-46 Debugging of  MATLAB programs (Hindi/Urdu)",
+      "duration": 778
+    },
+    {
+      "id": "G41jgXwco9o",
+      "title": "Lecture-47 Debugging of MATLAB programs Part-2 (Hindi/Urdu)",
+      "duration": 630
+    },
+    {
+      "id": "xtUJRxdUwKQ",
+      "title": "Lecture 48: How to choose and work on MATLAB higher versions",
+      "duration": 1067
+    },
+    {
+      "id": "4pbYm3BKtRY",
+      "title": "Reading and Writing images in MATLAB",
+      "duration": 354
+    },
+    {
+      "id": "7USErlqY2Q8",
+      "title": "Lecture 49: How to create sections in a MATLAB program",
+      "duration": 283
+    },
+    {
+      "id": "P54TswY9miU",
+      "title": "Lecture-50: Create a function to import Excel data into MATLAB",
+      "duration": 537
+    },
+    {
+      "id": "oe6fUlL1Nss",
+      "title": "Lecture 51: How to create an ASCII file using MATLAB",
+      "duration": 354
+    },
+    {
+      "id": "TAKjSi-77Ns",
+      "title": "Lecture-52: How to create MATLAB Executable (MEX) file",
+      "duration": 864
+    },
+    {
+      "id": "eqP-MN_BGu8",
+      "title": "Lecture-53: Useful MATLAB inbuilt functions (Hindi/Urdu)",
+      "duration": 829
+    },
+    {
+      "id": "b7_Rho7L1c0",
+      "title": "Lecture-54: Applications of MATLAB inbuilt functions (Hindi/Urdu)",
+      "duration": 1136
+    },
+    {
+      "id": "cV_pnMkGTak",
+      "title": "Lecture-55: MATLAB Programming Practice Problem-1",
+      "duration": 596
+    },
+    {
+      "id": "PdUnQq1xzEo",
+      "title": "Lecture-56: MATLAB Programming Practice Problem-2",
+      "duration": 640
+    },
+    {
+      "id": "hwsP6e0qZB8",
+      "title": "Lecture-57: MATLAB Programming Practice Problem-3",
+      "duration": 419
+    },
+    {
+      "id": "Jz8CJyZEt-g",
+      "title": "Lecture-58: MATLAB Programming Practice Problem-4",
+      "duration": 861
+    },
+    {
+      "id": "qXn0gg5_cww",
+      "title": "Lecture-59: MATLAB Programming Practice Problem-5",
+      "duration": 474
+    },
+    {
+      "id": "OjYVakgQtSY",
+      "title": "Lecture-60: MATLAB Programming Practice Problem-6",
+      "duration": 440
+    },
+    {
+      "id": "yXApcc9P5BE",
+      "title": "Lecture-61: MATLAB Programming Practice Problem-7",
+      "duration": 409
+    },
+    {
+      "id": "sAKiy8qHxbE",
+      "title": "Lecture-62: MATLAB Programming Practice Problem-8",
+      "duration": 846
+    },
+    {
+      "id": "A2x65BaOtmM",
+      "title": "Lecture-63: MATLAB Programming Practice Problem-9",
+      "duration": 949
+    },
+    {
+      "id": "bsIIGPLOD9w",
+      "title": "Lecture-64: MATLAB Programming Practice Problem 10",
+      "duration": 903
+    },
+    {
+      "id": "lBiwZ6VqVdE",
+      "title": "How to install and use MATLAB on mobile",
+      "duration": 1074
+    },
+    {
+      "id": "bFVklom6_5Q",
+      "title": "How to activate MATLAB code Auto-complete feature",
+      "duration": 288
+    },
+    {
+      "id": "wTBF0QzNbz8",
+      "title": "My MATLAB Journey: Motivation for Learners",
+      "duration": 1238
+    },
+    {
+      "id": "Vk8if-gZGwE",
+      "title": "Generate MATLAB codes using AI Chat Playground",
+      "duration": 1028
+    },
+    {
+      "id": "waWxTdIQiDg",
+      "title": "Access MATLAB Online without License",
+      "duration": 390
+    },
+    {
+      "id": "nbbKYa4OQok",
+      "title": "Reading data into MATLAB from different files",
+      "duration": 3596
+    },
+    {
+      "id": "RDUnRsOAZrg",
+      "title": "How to perform Integration, Differentiation, and other Mathematical Operations in MATLAB",
+      "duration": 4398
+    },
+    {
+      "id": "7LuufQ32_ME",
+      "title": "Interpolation and Extrapolation in MATLAB",
+      "duration": 2014
+    },
+    {
+      "id": "joN11S0mwto",
+      "title": "Curve fitting in MATLAB",
+      "duration": 982
+    },
+    {
+      "id": "34nhGpQ_FaU",
+      "title": "3D Animated plot in MATLAB with Movie creation",
+      "duration": 1166
+    }
+  ]
+}

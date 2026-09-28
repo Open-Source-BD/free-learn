@@ -1,0 +1,125 @@
+{
+  "courseId": "maths-for-machine-learning-ba0447",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:43.797Z",
+  "title": "Maths for Machine Learning",
+  "channel": "CampusX",
+  "videos": [
+    {
+      "id": "2GV_ouHBw30",
+      "title": "Statistics Roadmap for Data Science and Data Analysis | Complete Guide |  Full Resources | CampusX",
+      "duration": 760
+    },
+    {
+      "id": "Uv3Blie7F3g",
+      "title": "Session 38 - Descriptive Statistics Part 1 | DSMP 2023",
+      "duration": 6746
+    },
+    {
+      "id": "1ndVC500-EU",
+      "title": "Session 39 - Descriptive Statistics Part 2 | DSMP 2023",
+      "duration": 6942
+    },
+    {
+      "id": "C_QAURbgBqY",
+      "title": "Session 40 - Probability Distribution Functions - PDF, PMF & CDF | DSMP 2023",
+      "duration": 7795
+    },
+    {
+      "id": "ADqYqSdtyW8",
+      "title": "Session 41 - Normal Distribution | DSMP 2023",
+      "duration": 7289
+    },
+    {
+      "id": "U6QCc_3zgUk",
+      "title": "Session 42 - Non-Gaussian Probability Distributions | DSMP 2023",
+      "duration": 8164
+    },
+    {
+      "id": "-WmJDYBor7c",
+      "title": "Session 43 - Central Limit Theorem | DSMP 2023",
+      "duration": 6695
+    },
+    {
+      "id": "X52HK2qkiIE",
+      "title": "Session 44 - Confidence Intervals | DSMP 2023",
+      "duration": 7801
+    },
+    {
+      "id": "S94mx6OL7kM",
+      "title": "Session 45 - Hypothesis Testing Part 1 | DSMP 2023",
+      "duration": 7156
+    },
+    {
+      "id": "xHTMjxx14sU",
+      "title": "Session 46 - Hypothesis Testing Part 2 | p-values | t-tests | DSMP 2023",
+      "duration": 7896
+    },
+    {
+      "id": "_8DTqznosvY",
+      "title": "Session on Chi Square Tests",
+      "duration": 8121
+    },
+    {
+      "id": "G9ppvMWyd54",
+      "title": "Session on ANOVA  | Paid Zoom Session",
+      "duration": 7090
+    },
+    {
+      "id": "DUT4WEUngt0",
+      "title": "Master Probability in Data Science: The Ultimate Crash Course! | Part 1 | CampusX",
+      "duration": 5646
+    },
+    {
+      "id": "ndHDsvqmbuI",
+      "title": "Mastering Probability for ML: Joint | Marginal | Conditional Probability and Bayes' Theorem",
+      "duration": 4829
+    },
+    {
+      "id": "rIsCKVyh4dI",
+      "title": "Linear Algebra Roadmap for Machine Learning and Deep Learning | Complete Guide | CampusX",
+      "duration": 948
+    },
+    {
+      "id": "mQewAJb8oJ8",
+      "title": "Supercharge Your ML Journey: Mastering Vectors in Linear Algebra - Part 1",
+      "duration": 5518
+    },
+    {
+      "id": "Y8UjSNSMeZ4",
+      "title": "Linear Algebra Part 2 | Matrices",
+      "duration": 8794
+    },
+    {
+      "id": "7IV56bGTJTQ",
+      "title": "Linear Algebra Part 3  | Matrices  Intuition",
+      "duration": 7801
+    },
+    {
+      "id": "5HDkRG5gQHM",
+      "title": "Session on Eigen Vectors and Eigen Values | Week 29 | DSMP",
+      "duration": 6043
+    },
+    {
+      "id": "D5IlO4lzaZ0",
+      "title": "Session on Eigen Decomposition + PCA Variants | Week 29 | DSMP",
+      "duration": 7647
+    },
+    {
+      "id": "NPkMoUNkEtQ",
+      "title": "Session on Singular Value Decomposition",
+      "duration": 7981
+    },
+    {
+      "id": "T2f8249569Q",
+      "title": "Session on Optimization - The Big Picture",
+      "duration": 7750
+    },
+    {
+      "id": "-siBIGUREjw",
+      "title": "Session on Differential Calculus",
+      "duration": 8748
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "courseId": "complete-linux-course-in-hindi-2be92a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9LY4jTSNS23_yo6XIyIFZeZKL7UlKm-V",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:46.173Z",
+  "title": "संपूर्ण लिनक्स हिंदी भाषा में सीखें (Complete Linux Course in Hindi Language) - EX 200 (RHCSA 9)",
+  "channel": "Nehra Classes",
+  "videos": [
+    {
+      "id": "Olg3k52Ei0Q",
+      "title": "Session - 1 | Objective of RHCSA | RHEL 7 Vs RHEL 8 | History of UNIX & Linux | Nehra Classes",
+      "duration": 3083
+    },
+    {
+      "id": "o6tje_85lGo",
+      "title": "Session - 2 | Booting Process of Linux | Installation of RHEL8 in VMWare/Virtual Box | Nehra Classes",
+      "duration": 1915
+    },
+    {
+      "id": "1uS8eQ8ros8",
+      "title": "Session - 3 | Access Linux Machine Using SSH | Filesystem Hierarchy in Linux (RHEL8) | Nehra Classes",
+      "duration": 3046
+    },
+    {
+      "id": "EKpkyjcl6N0",
+      "title": "Session - 4 | Getting Help & Man Pages in Linux | Command Details & Help in RHEL 8 | Nehra Classes",
+      "duration": 2012
+    },
+    {
+      "id": "BQUft4WXlHc",
+      "title": "Session - 5 | Working With Directories In Linux | Manage Directories in RHEL 8 | Nehra Classes",
+      "duration": 3176
+    },
+    {
+      "id": "pTmM0RKJXZI",
+      "title": "Session - 6 | Working With Files In Linux | Managing Files in RHEL 8 | Nehra Classes",
+      "duration": 2535
+    },
+    {
+      "id": "4vgOqyzlGG0",
+      "title": "Session - 7 | Working With File Contents | Manage File Contents in RHEL | Nehra Classes",
+      "duration": 2640
+    },
+    {
+      "id": "zS7cAEFCgrY",
+      "title": "Session - 8 | Shell Expansion in Linux | Commands & Arguments | Nehra Classes",
+      "duration": 2430
+    },
+    {
+      "id": "dwEL21WJ8ZI",
+      "title": "Session - 9 | Shell Expansion in Linux | Control Operators in Linux | Nehra Classes",
+      "duration": 2825
+    },
+    {
+      "id": "Dn6bpLFOcXs",
+      "title": "Session - 10 | Shell Expansion in Linux | Shell Variables in Linux | Nehra Classes",
+      "duration": 3406
+    },
+    {
+      "id": "Qal1uI9xAyQ",
+      "title": "Session - 11 | Shell Expansion in Linux | Shell Embedding, Options & Shell History | Nehra Classes",
+      "duration": 4067
+    },
+    {
+      "id": "lp-1mOiF-zA",
+      "title": "Session - 12 | Shell Expansion in Linux | File Globbing in Linux | Nehra Classes",
+      "duration": 4400
+    },
+    {
+      "id": "wxSXWb_zF8M",
+      "title": "Session - 13 | Pipes & Commands in Linux | Input Output Redirection in Linux | Nehra Classes",
+      "duration": 3630
+    },
+    {
+      "id": "wDEDdCIL1ZU",
+      "title": "Session - 14 | Pipes & Commands in Linux | Using Filters in Linux | Nehra Classes",
+      "duration": 4715
+    },
+    {
+      "id": "RDkG3xA_Txs",
+      "title": "Session - 15 | Pipes & Commands | Basic UNIX Tools in Linux | Nehra Classes",
+      "duration": 3833
+    },
+    {
+      "id": "0K5kSpfC6Fw",
+      "title": "Session - 16 | Pipes & Commands | Regular Expressions in Linux | Part-1 | Nehra Classes",
+      "duration": 2401
+    },
+    {
+      "id": "9OzPr8IBLfU",
+      "title": "Session - 17 | Pipes & Commands | Regular Expressions in Linux | Part-2 | Nehra Classes",
+      "duration": 2730
+    },
+    {
+      "id": "U9AeVOCVRvc",
+      "title": "Session - 18 | Introduction To VI Editor | Using VI Editor Modified (VIM) in RHEL 8 | Nehra Classes",
+      "duration": 3996
+    },
+    {
+      "id": "qGhLr4lP11I",
+      "title": "Session - 19 | Local User Management in Linux | Managing Users in RHEL 8 | Nehra Classes",
+      "duration": 3586
+    },
+    {
+      "id": "Mpygwdghzt0",
+      "title": "Session - 20 | Password Management in Linux | Managing Password in RHEL 8 | Nehra Classes",
+      "duration": 3342
+    },
+    {
+      "id": "JV8zEUaMC7E",
+      "title": "Session - 21 | Profile Files in Linux | Managing Profile Files in RHEL 8 | Nehra Classes",
+      "duration": 2286
+    },
+    {
+      "id": "fEyTudC5V3g",
+      "title": "Session - 22 | Groups Management in Linux | Managing Groups in RHEL 8 | Nehra Classes",
+      "duration": 3826
+    },
+    {
+      "id": "x8b6Ybc_mOg",
+      "title": "Session - 23 | File Security in Linux | Standard File Permissions in RHEL 8 | Nehra Classes",
+      "duration": 4287
+    },
+    {
+      "id": "ETxct2oIhHY",
+      "title": "Session - 24 | File Security in Linux | Advanced File Permissions in RHEL 8 | Nehra Classes",
+      "duration": 3056
+    },
+    {
+      "id": "E44uR8LH-50",
+      "title": "Session - 25 | Access Control Lists in Linux | Manage ACLs in RHEL 8 | Nehra Classes",
+      "duration": 3181
+    },
+    {
+      "id": "z_zqKhIEpYg",
+      "title": "Session - 26 | File Links in Linux | Inodes, Hard Links & Soft Links in RHEL 8 | Nehra Classes",
+      "duration": 3585
+    },
+    {
+      "id": "xKiFCAZoPOA",
+      "title": "Session - 27 | Process Management in Linux | Managing Processes in RHEL 8 | Nehra Classes",
+      "duration": 3930
+    },
+    {
+      "id": "5XveBvmQG2I",
+      "title": "Session-28 | Top Command, Process Priority & Jobs | Process Management Tools in RHEL | Nehra Classes",
+      "duration": 4705
+    },
+    {
+      "id": "P6IX7nXdsaE",
+      "title": "Session-29 | Disk Management in Linux | Managing Storage in RHEL 8 | Nehra Classes",
+      "duration": 5029
+    },
+    {
+      "id": "zg3Syeq7plo",
+      "title": "Session-30 | Filesystems & Mounting in Linux | Manage Filesystems in RHEL 8 | Nehra Classes",
+      "duration": 3806
+    },
+    {
+      "id": "dLx8vqX_EvM",
+      "title": "Session-31 | Convert EXT2 Into EXT3 & EXT4 | Enable/Disable Journaling Feature | Nehra Classes",
+      "duration": 2696
+    },
+    {
+      "id": "juESDilXJuU",
+      "title": "Session-32 | Logical Volume (LVM) Feature in Linux | Using LVM in RHEL 8 | Nehra Classes",
+      "duration": 3696
+    },
+    {
+      "id": "_gxBkilrJIA",
+      "title": "Session-33 | Resize Logical Volume (LVM) in Linux | Extend/Reduce LVM in RHEL 8 | Nehra Classes",
+      "duration": 2800
+    },
+    {
+      "id": "D74w7aoc2v4",
+      "title": "Session-34 | Logical Volume (LVM) Snapshot Feature | Managing LVM Snapshot in RHEL 8 | Nehra Classes",
+      "duration": 3096
+    },
+    {
+      "id": "8bgOMF79OPs",
+      "title": "Session-35 | Restore Removed LVM in Linux | Recover Mistakenly Removed LVM in RHEL 8 | Nehra Classes",
+      "duration": 1362
+    },
+    {
+      "id": "Dn1GnYp5AxY",
+      "title": "Session-36 | Merge/Split Volume Groups in Linux | Merge/Split Volume Groups in RHEL8 | Nehra Classes",
+      "duration": 2515
+    },
+    {
+      "id": "hL-pI4VotIs",
+      "title": "Session-37 | Migrate Physical Volumes (PVs) & LVM From One Disk To Another in RHEL 8 | Nehra Classes",
+      "duration": 2401
+    },
+    {
+      "id": "zVKtws848n0",
+      "title": "Session-38 | Migrate LVM Data Disk From One Machine To Another in RHEL 8 | Nehra Classes",
+      "duration": 1971
+    },
+    {
+      "id": "s1Lpa63nWl8",
+      "title": "Session-39 | Setup Thin Provisioning Volumes in Logical Volume (LVM) in RHEL 8 | Nehra Classes",
+      "duration": 2515
+    },
+    {
+      "id": "5ZoWxHyWV68",
+      "title": "Session-40 | Manage Multiple LVM Disks using Striping I/O in RHEL 8 | Nehra Classes",
+      "duration": 2746
+    },
+    {
+      "id": "Bsuinc3UY_E",
+      "title": "Session-41 | Logical Volume Manager (LVM) Commands & Attributes Details in RHEL 8 | Nehra Classes",
+      "duration": 4121
+    },
+    {
+      "id": "0eCbmp_nX7Q",
+      "title": "Session-42 | Create & Manage Swap Space in Linux | Extend Swap Size in RHEL8 Online | Nehra Classes",
+      "duration": 3328
+    },
+    {
+      "id": "E951LNWFNYw",
+      "title": "Session-43 | Swap Space, Swap Uses & Working, Swap File & Swappiness In Linux | Nehra Classes",
+      "duration": 2766
+    },
+    {
+      "id": "qYJS4uyQg2Q",
+      "title": "Session-44 | Swap Space, Swapping & Swappiness | Using Virtual Hard Drive In Linux | Nehra Classes",
+      "duration": 2991
+    },
+    {
+      "id": "ZI9omrGQLz0",
+      "title": "Session-45 | Concept of RAID & RAID Levels | Create & Manage RAID-0 In Linux | Nehra Classes",
+      "duration": 2490
+    },
+    {
+      "id": "mEvcSDBpfR8",
+      "title": "Session-46 | Create & Manage RAID-1 In Linux | Configure RAID-1 in RHEL 8 | Nehra Classes",
+      "duration": 1996
+    },
+    {
+      "id": "V7q0qhe2kZ8",
+      "title": "Session-47 | Create & Manage RAID-5 In Linux | Configure RAID-5 in RHEL 8 | Nehra Classes",
+      "duration": 2495
+    },
+    {
+      "id": "79IRzwnH79o",
+      "title": "Session-48 | Create & Manage RAID-6 In Linux | Configure RAID-6 in RHEL 8 | Nehra Classes",
+      "duration": 2425
+    },
+    {
+      "id": "xp15uqdXKYo",
+      "title": "Session-49 | Create & Manage RAID-10 In Linux | Configure RAID-10 in RHEL 8 | Nehra Classes",
+      "duration": 2490
+    },
+    {
+      "id": "neAjBgcQcRk",
+      "title": "Session-50 | Disk Quota Management for Users & Groups on EXT4 Filesystem in RHEL 8 | Nehra Classes",
+      "duration": 3920
+    },
+    {
+      "id": "_7Rzsyb0-to",
+      "title": "Session-51 | Disk Quota Management on XFS Filesystem in RHEL 8 | XFS Quota Linux | Nehra Classes",
+      "duration": 4020
+    },
+    {
+      "id": "_SS-UGsHZ3U",
+      "title": "Session-52 | Check & Repair Filesystems in Linux | Repair EXT, XFS & ZFS Filesystems | Nehra Classes",
+      "duration": 4021
+    },
+    {
+      "id": "6cfJUrRy1rQ",
+      "title": "Session-53 | Create & Manage Virtual Data Optimizer (VDO) Volume in RHEL 8 | Nehra Classes",
+      "duration": 2334
+    },
+    {
+      "id": "YFQIAtEchtY",
+      "title": "Session-54 | Create & Manage Stratis Filesystem in RHEL 8 | Stratis Layered Storage | Nehra Classes",
+      "duration": 2713
+    },
+    {
+      "id": "o_gC4Cui1_g",
+      "title": "Session-55 | Setup Disk Encryption Using LUKS in Linux (RHEL 8) | Nehra Classes",
+      "duration": 3120
+    },
+    {
+      "id": "U0h3fbvOjzw",
+      "title": "Session-56 | Booting Process of RHEL 8 | Booting Sequence of RHEL 8 (Linux) | Nehra Classes",
+      "duration": 2533
+    },
+    {
+      "id": "SerKrbHn0eA",
+      "title": "Session-57 | Set or Change Default Target (Runlevel) in RHEL 8 | Runlevels in Linux | Nehra Classes",
+      "duration": 2562
+    },
+    {
+      "id": "VpEJwIFwQIc",
+      "title": "Session-58 | Resolve Kernel Panic Error in RHEL 8 | Fix Corrupted GRUB2 & INITRAMFS  | Nehra Classes",
+      "duration": 3622
+    },
+    {
+      "id": "hJAoQkXyM00",
+      "title": "Session-59 | Fix GRUB Errors in RHEL 8 | Recover VMLINUZ (Kernel) Files in Linux  | Nehra Classes",
+      "duration": 1667
+    },
+    {
+      "id": "qg9DXi9R2Qo",
+      "title": "Session-60 | Install New Kernel In RHEL 8 | Set/Change Default Kernel & GRUB Timeout | Nehra Classes",
+      "duration": 2645
+    },
+    {
+      "id": "XAd32qHq6PQ",
+      "title": "Session-61 | Remove Old Kernels From Linux | Clean Up /boot Directory in RHEL 8 | Nehra Classes",
+      "duration": 2110
+    },
+    {
+      "id": "D4aYeddUUKI",
+      "title": "Session-62 | Schedule Future Jobs/Tasks Using AT Command in Linux (RHEL 8) | Nehra Classes",
+      "duration": 2996
+    },
+    {
+      "id": "yrE8YIvt7p4",
+      "title": "Session-63 | Schedule Future Jobs/Tasks Using AT & CRONTAB in Linux (RHEL 8) | Nehra Classes",
+      "duration": 4185
+    },
+    {
+      "id": "gnIsUr_yp5s",
+      "title": "Session-64 | Schedule Advanced & Complex Cron Jobs in Linux (RHEL 8) | Nehra Classes",
+      "duration": 4996
+    },
+    {
+      "id": "atOl3q87Vbg",
+      "title": "Session-65 | System Logging & Logs Management in Linux | Managing Logs in RHEL 8 | Nehra Classes",
+      "duration": 4043
+    },
+    {
+      "id": "x5zdbN1CvT4",
+      "title": "Session-66 | Resource Monitoring, Management & Troubleshooting in Linux (RHEL 8) | Nehra Classes",
+      "duration": 3805
+    },
+    {
+      "id": "415gHIVPB6s",
+      "title": "Session-67 | Package Management in Linux (RHEL 8) | Nehra Classes",
+      "duration": 4869
+    },
+    {
+      "id": "HRKvoIqJvbc",
+      "title": "Session-68 | Configure Local YUM/DNF Repository in RHEL 8 | Managing Repositories | Nehra Classes",
+      "duration": 3410
+    },
+    {
+      "id": "eUeUtfnnt6g",
+      "title": "Session-69 | Create/Build RPM Package in Linux From Scratch | Create RPM in RHEL | Nehra Classes",
+      "duration": 2200
+    },
+    {
+      "id": "NYggSCmV98s",
+      "title": "Session-70 | Network Management in Linux | Assigning IP Address in RHEL 8 | Nehra Classes",
+      "duration": 3582
+    },
+    {
+      "id": "51gN84cngQo",
+      "title": "Session-71 | Network Management | Assigning Static IPv4 & IPv6 Address in Linux | Nehra Classes",
+      "duration": 3011
+    },
+    {
+      "id": "tmbq6tRUm4k",
+      "title": "Session-72 | Configure NIC Teaming (Link Aggregation)/Network Bonding in Linux | Nehra Classes",
+      "duration": 2286
+    },
+    {
+      "id": "pC8c5oPoUY0",
+      "title": "Session-73 | What is Routing & Routing Table? | Manage Routing Table in Linux | Nehra Classes",
+      "duration": 2236
+    },
+    {
+      "id": "eEvt6OFveqs",
+      "title": "Session-74 | Network Sniffing & Secure Shell Configuration (SSH) in Linux | Nehra Classes",
+      "duration": 3216
+    },
+    {
+      "id": "GQwj87uY1bs",
+      "title": "Session-75 | SSH Welcome Banner, Disable Root Login & Change Default Port in Linux | Nehra Classes",
+      "duration": 2711
+    },
+    {
+      "id": "iciEhgQSW-A",
+      "title": "Session-76 | Allow Or Deny Selected User & Groups To Login Via SSH in Linux | Nehra Classes",
+      "duration": 2286
+    },
+    {
+      "id": "dKmj2Lkz5oU",
+      "title": "Session-77 | Allow/Deny Access From Selected IP Addresses Or Networks Through SSH | Nehra Classes",
+      "duration": 2846
+    },
+    {
+      "id": "cUelJALS6F0",
+      "title": "Session-78 | Configure SSH Login Alerts Email Notification in Linux | SSHPass | Nehra Classes",
+      "duration": 1690
+    },
+    {
+      "id": "lLs2u1T3fEc",
+      "title": "Session-79 | Kernel Modules, Management & Parameters Tuning in Linux | Nehra Classes",
+      "duration": 3635
+    },
+    {
+      "id": "Y7zS9dFqSqw",
+      "title": "Session-80 | Compile The Linux Kernel | Compile Latest Kernel in RHEL/CentOS Linux | Nehra Classes",
+      "duration": 4040
+    },
+    {
+      "id": "6GkbaN-8wuU",
+      "title": "Session-81 | What is Kdump? | Kdump Vs Early Kdump | Configure Kdump in Linux | Nehra Classes",
+      "duration": 3275
+    },
+    {
+      "id": "yiuaDfCiKzA",
+      "title": "Session-82 | Reset Forgotten Root Password in Linux | Reset Root Password in RHEL 8 | Nehra Classes",
+      "duration": 1069
+    },
+    {
+      "id": "wTr3EDkGcvk",
+      "title": "Reset Forgotten Root Password in RHEL 9 | Reset Root Password in RHEL 9 (Linux) | Latest Method",
+      "duration": 3787
+    },
+    {
+      "id": "3CiqBy6KzWY",
+      "title": "Session-83 | Set/Reset GRUB Password in Linux | Set Or Remove Password at GRUB | Nehra Classes",
+      "duration": 2715
+    },
+    {
+      "id": "LoLAXoWzYuY",
+      "title": "Session-84 | Automate Backup in Linux Using RSYNC & Crontab | Manage Backups | Nehra Classes",
+      "duration": 2510
+    },
+    {
+      "id": "gViPaMGldtQ",
+      "title": "Session-85 | What is Firewall? | Why Do We Use Firewall? | Iptables Vs Firewalld | Nehra Classes",
+      "duration": 5746
+    },
+    {
+      "id": "MfjkqTpUVQU",
+      "title": "Session-86 | Firewalld Masquerading, Port Forwarding, Rich Rules & ICMP | Nehra Classes",
+      "duration": 3570
+    },
+    {
+      "id": "aqPOp521VFA",
+      "title": "Session-87 | SELINUX Part-1 | Introduction To Security Enhanced Linux (SELinux) | Nehra Classes",
+      "duration": 3810
+    },
+    {
+      "id": "aGHK8D_r4rw",
+      "title": "Session-88 | SELINUX Part-2 | SELinux Contexts & Process Domain Transitioning | Nehra Classes",
+      "duration": 2200
+    },
+    {
+      "id": "B0YYvXQfKKQ",
+      "title": "Session-89 | SELINUX Part-3 | Targeted Policy in SELinux: Confined Processes | Nehra Classes",
+      "duration": 1656
+    },
+    {
+      "id": "9zVVLMhXeLQ",
+      "title": "Session-90 | SELINUX Part-4 | Targeted Policy in SELinux: Unconfined Processes | Nehra Classes",
+      "duration": 1846
+    },
+    {
+      "id": "VS3bEp2hgo0",
+      "title": "Session-91 | SELINUX Part-5 | Targeted Policy in SELinux: Confined & Unconfined User | Nehra Classes",
+      "duration": 2611
+    },
+    {
+      "id": "RB-QhOD2CEg",
+      "title": "Session-92 | SELINUX Part-6 | Working With SELinux: Packages, Logs, Labeling Context | Nehra Classes",
+      "duration": 2570
+    },
+    {
+      "id": "FVo_00kVWCI",
+      "title": "Session-93 | SELINUX Part-7 | Managing Ports in SELinux & Preserving Contexts | Nehra Classes",
+      "duration": 2701
+    },
+    {
+      "id": "jWniu0VjKMs",
+      "title": "Session-94 | SELINUX Part-8 | Information Gathering Tools & Multi Level Security | Nehra Classes",
+      "duration": 2431
+    },
+    {
+      "id": "Jt5FHot4xeE",
+      "title": "Session-95 | RHEL 8 New Feature | Cockpit: Web Based Server Management Tool | Nehra Classes",
+      "duration": 1236
+    },
+    {
+      "id": "ld7U1QY_a7g",
+      "title": "Session-96 | RHEL 8 New Feature | KVM: Kernel Based Virtual Machine | Manage KVM | Nehra Classes",
+      "duration": 2421
+    },
+    {
+      "id": "PtMzzu0omxw",
+      "title": "Session-97 | RHEL 8 New Feature | Using Image Builder (Composer) in RHEL 8 | Nehra Classes",
+      "duration": 2590
+    },
+    {
+      "id": "zMi0Nv1s8-o",
+      "title": "Session-98 | RHEL 8 New Feature | Managing Containers in RHEL 8 | Podman Containers | Nehra Classes",
+      "duration": 4175
+    },
+    {
+      "id": "WllyuyqNPoM",
+      "title": "Session-99 | RHEL8 Features | Inspect, Copy, Move, Tag, Push & Pull Container Images | Nehra Classes",
+      "duration": 2140
+    },
+    {
+      "id": "dDT6HLoEVso",
+      "title": "Session-100 | RHEL8 Features | Containers Management in Linux | Nehra Classes",
+      "duration": 1491
+    },
+    {
+      "id": "fXUCZADZRzc",
+      "title": "Session-101 | RHEL 8 Features | Managing & Modifying Running Containers in Linux | Nehra Classes",
+      "duration": 2350
+    },
+    {
+      "id": "qXTbZ3581RI",
+      "title": "Session-102 | RHEL 8 Features | Podman: Rootless Vs Rootful Containers in Linux | Nehra Classes",
+      "duration": 2560
+    },
+    {
+      "id": "mAFyu6GZhFs",
+      "title": "Session-103 | RHEL8 Features | Running Containers Under Systemd (Rootless & Rootful) | Nehra Classes",
+      "duration": 2901
+    },
+    {
+      "id": "7AJk5r_oBR0",
+      "title": "Session-104 | RHEL 8 Features | Using Pods with Podman in Linux | Kubernetes | Nehra Classes",
+      "duration": 1591
+    },
+    {
+      "id": "D4uxIwuiyjY",
+      "title": "Session-105 | RHEL 8 Features | Build Container Images Using Podman & Buildah | Nehra Classes",
+      "duration": 2590
+    },
+    {
+      "id": "A8HV7nT_tpU",
+      "title": "Session-106 | RHEL 8 Features | Manage System Tuning Profiles in Linux | Tuned | Nehra Classes",
+      "duration": 2011
+    },
+    {
+      "id": "kr7u_bKWpg4",
+      "title": "Session-107 | SSH Port Forwarding | SSH Tunneling | Local, Remote & Dynamic Port Forwarding in Linux",
+      "duration": 3041
+    },
+    {
+      "id": "PluyAhqlmRA",
+      "title": "Session-108 | Bash Shell Scripting (Chapter-1) | Introduction To Shell Scripting | Nehra Classes",
+      "duration": 2000
+    },
+    {
+      "id": "hKo1nbSJGp4",
+      "title": "Session-109 | Bash Shell Scripting (Chapter-2) | Using Comments & Variables | Nehra Classes",
+      "duration": 2791
+    },
+    {
+      "id": "osJV0-dNRb0",
+      "title": "Session-110 | Bash Shell Scripting (Chapter-3) | Using Read Operator in Shell Script | Nehra Classes",
+      "duration": 1566
+    },
+    {
+      "id": "ohwpZEzKTeM",
+      "title": "Session-111 | Bash Shell Scripting (Chapter-4) | Passing The Arguments in Scripts | Nehra Classes",
+      "duration": 1366
+    },
+    {
+      "id": "rV9p1JCgoUI",
+      "title": "Session-112 | Bash Shell Scripting (Chapter-5) | Using If, Then, Else & Else-If Statements in Script",
+      "duration": 2290
+    },
+    {
+      "id": "fL1649Edrxg",
+      "title": "Session-113 | Bash Shell Scripting (Chapter-6) | Using File Test Operators in Shell Scripts",
+      "duration": 2256
+    },
+    {
+      "id": "k9eutJRk2aI",
+      "title": "Session-114 | Bash Shell Scripting (Chapter-7) | Nested IF Condition in Shell Scripts | NehraClasses",
+      "duration": 1961
+    },
+    {
+      "id": "WAtubgv4Q4c",
+      "title": "Session-115 | Bash Shell Scripting (Chapter-8) | Using Logical AND Operator in Shell Scripts",
+      "duration": 1431
+    },
+    {
+      "id": "Qyp4esYOpXM",
+      "title": "Session-116 | Bash Shell Scripting (Chapter-9) | Using Logical OR Operator in Shell Scripts",
+      "duration": 1256
+    },
+    {
+      "id": "X-RY41UNMGQ",
+      "title": "Session-117 | Bash Shell Scripting (Chapter-10) | Arithmetic Operations on Integers in Shell Scripts",
+      "duration": 1436
+    },
+    {
+      "id": "qBMfTasa6gY",
+      "title": "Session-118 | Bash Shell Scripting (Chapter-11) | Arithmetic Operations on Decimal Numbers",
+      "duration": 1846
+    },
+    {
+      "id": "Rq_fHOo4dqo",
+      "title": "Session-119 | Learn How To Use AWK Command in Unix/Linux With Examples (In Hindi) | Nehra Classes",
+      "duration": 2070
+    },
+    {
+      "id": "nicDFZMq1LM",
+      "title": "Session-120 | Configuration of File Transfer Protocol (FTP) Server in Linux | Nehra Classes",
+      "duration": 4445
+    },
+    {
+      "id": "AToBJX928Hs",
+      "title": "Session-121 | Configuration of Network File System (NFS) Server in Linux | Nehra Classes",
+      "duration": 2746
+    },
+    {
+      "id": "y8YjjvubRPA",
+      "title": "Session-122 | Using AutoFS (Automount) & ACL With NFS Server in Linux | Nehra Classes",
+      "duration": 3336
+    },
+    {
+      "id": "YoG1oYZBwIc",
+      "title": "Session-123 | Part-1: Samba (SMB) Server & Clients Configuration in Linux | Nehra Classes",
+      "duration": 3450
+    },
+    {
+      "id": "R2VKUiuyxQs",
+      "title": "Session-124 | Part-2: Samba (SMB) Troubleshooting | CIFS Permanent Mounting in FSTAB | Nehra Classes",
+      "duration": 3865
+    },
+    {
+      "id": "qARrBtjHItk",
+      "title": "Session-125 | RHCSA Exam Lab Setup in PC | RHCSA Exam (EX 200) Lab Environment | Nehra Classes",
+      "duration": 2975
+    },
+    {
+      "id": "6MvyvZ1jhBw",
+      "title": "Session-126 | RHCSA Exam (EX 200) Questions Solution | Redhat Exam Paper Solution | Nehra Classes",
+      "duration": 2661
+    },
+    {
+      "id": "xsqgqD5aqSo",
+      "title": "Session-127 | RHCSA Exam (EX 200) Questions Solution (Part-2) | Redhat Exam Solution | Nehra Classes",
+      "duration": 3140
+    },
+    {
+      "id": "0xMSA0OTIsI",
+      "title": "Session-128 | RHCSA Exam (EX 200) Questions Solution (Part-3) | Redhat Exam Solution | Nehra Classes",
+      "duration": 4885
+    },
+    {
+      "id": "pwqcokQiJFU",
+      "title": "Session-129 | NTP (Chrony) Server & Clients Configuration in Linux | Nehra Classes",
+      "duration": 2861
+    },
+    {
+      "id": "I2N4uZnelYQ",
+      "title": "Session-130 | What’s New in RHEL 9 | RHEL 8 Vs RHEL 9 | RHEL 9 New Features | Redhat | Nehra Classes",
+      "duration": 2899
+    },
+    {
+      "id": "Rk2L42Q93ew",
+      "title": "Session-131 | DHCP Server Configuration in RHEL9 Linux | Assign Static IP Address Using DHCP Server",
+      "duration": 3920
+    },
+    {
+      "id": "mI5tZrP_-M0",
+      "title": "Session-132 | Domain Name Server (DNS) Configuration in Linux | Domain Name Server | Nehra Classes",
+      "duration": 4310
+    },
+    {
+      "id": "-d1Xz6Y3dj4",
+      "title": "Session-133 | Apache HTTP/HTTPS Server Configuration | Host Multiple Websites On a Server Using SSL",
+      "duration": 3771
+    },
+    {
+      "id": "0UrzGNkHO9s",
+      "title": "Session - 134 | Configure iSCSI Target (Server) & Initiator (Client) in Linux | Nehra Classes",
+      "duration": 2406
+    }
+  ]
+}

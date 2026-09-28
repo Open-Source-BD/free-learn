@@ -1,0 +1,255 @@
+{
+  "courseId": "full-stack-development-in-ruby-on-rails-hindi-eb4997",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:41.529Z",
+  "title": "Full Stack Development in Ruby on Rails - Hindi",
+  "channel": "APPSIMPACT Academy Hindi",
+  "videos": [
+    {
+      "id": "-zv9HKx5M0g",
+      "title": "Full Stack Ruby on Rails Development Bootcamp in Hindi - Introduction",
+      "duration": 546
+    },
+    {
+      "id": "Z-Kw4JgIeAs",
+      "title": "Ruby Basics - Part 1 in Hindi",
+      "duration": 1583
+    },
+    {
+      "id": "9N7wKvAnl2Y",
+      "title": "Ruby Basics in Hindi - Part 2",
+      "duration": 2143
+    },
+    {
+      "id": "mceDGk3NWjg",
+      "title": "Ruby Basics in Hindi - Part 3",
+      "duration": 1189
+    },
+    {
+      "id": "F18TwVfD1NY",
+      "title": "Ruby Basics in Hindi - Part 4",
+      "duration": 1416
+    },
+    {
+      "id": "ZZeF8KZOcHw",
+      "title": "Create New Rails Application from Scratch - in Hindi",
+      "duration": 1315
+    },
+    {
+      "id": "KT0omi2xnbM",
+      "title": "Creating Custom Controllers in Rails - Hindi",
+      "duration": 1483
+    },
+    {
+      "id": "XkTj19bgGrw",
+      "title": "Defining Custom Root Page in Rails Application - Hindi",
+      "duration": 614
+    },
+    {
+      "id": "qRS2YANzNyQ",
+      "title": "Creating Controller using Rails Generators - In Hindi",
+      "duration": 1081
+    },
+    {
+      "id": "s2QBdAcKqVM",
+      "title": "Creating Controllers Manually vs Using Rails Generators - Hindi",
+      "duration": 328
+    },
+    {
+      "id": "rh-k3iVS7JM",
+      "title": "Working with link_to helpers  - In Hindi",
+      "duration": 1034
+    },
+    {
+      "id": "zubKNsI2yd4",
+      "title": "Using Partials to Refactor Rails Views - Hindi",
+      "duration": 925
+    },
+    {
+      "id": "6c1izfEIgU8",
+      "title": "Add Bootstrap 5 to Rails Application using CDN - Hindi",
+      "duration": 1298
+    },
+    {
+      "id": "gH9YpQn5Z5o",
+      "title": "Generate your first ActiveRecord model - Hindi",
+      "duration": 935
+    },
+    {
+      "id": "YMl5UIggqY4",
+      "title": "CRUD Operations on ActiveRecord Model - Hindi",
+      "duration": 1552
+    },
+    {
+      "id": "pN-gIAfFPdc",
+      "title": "Listing ActiveRecord Objects - Hindi",
+      "duration": 1425
+    },
+    {
+      "id": "3wl6Lwkdajo",
+      "title": "Creating Forms for ActiveRecord Model - Hindi",
+      "duration": 1495
+    },
+    {
+      "id": "wbFK91ECXJ0",
+      "title": "Create and Save Model Instance in Database",
+      "duration": 1256
+    },
+    {
+      "id": "7hGQG6JJbZ0",
+      "title": "Displaying validations on Rails forms",
+      "duration": 712
+    },
+    {
+      "id": "2TXrZ2fnzmY",
+      "title": "Edit ActiveRecord Objects and Form Partials",
+      "duration": 618
+    },
+    {
+      "id": "kcKslAV1Vxw",
+      "title": "Update ActiveRecord Object in Rails - Update Action",
+      "duration": 476
+    },
+    {
+      "id": "ujCsbx442bA",
+      "title": "Display ActiveRecord Object in Rails - Show Action",
+      "duration": 953
+    },
+    {
+      "id": "j4zeskQ7ijc",
+      "title": "Deleting an ActiveRecord Object in Rails - Destroy Action",
+      "duration": 589
+    },
+    {
+      "id": "pIwrwdjNJJA",
+      "title": "Using Before Action Filter in Rails",
+      "duration": 622
+    },
+    {
+      "id": "54ZC2iqBbGQ",
+      "title": "Using Bootstrap Dropdown to Display Links",
+      "duration": 365
+    },
+    {
+      "id": "l1Yl-B7N6c0",
+      "title": "Understanding DB relationships in general",
+      "duration": 620
+    },
+    {
+      "id": "YI9tUhiM9og",
+      "title": "Implement One to Many Association in Rails",
+      "duration": 702
+    },
+    {
+      "id": "z7KQ71Mh61E",
+      "title": "Accessing Records of Associated Models",
+      "duration": 537
+    },
+    {
+      "id": "yRAN5e9EiBI",
+      "title": "Resource controller implementation for child model",
+      "duration": 440
+    },
+    {
+      "id": "iciAPx5ha4s",
+      "title": "Implementing views for child resource controller",
+      "duration": 1096
+    },
+    {
+      "id": "Co8CIois41w",
+      "title": "Display array constants in rails dropdown",
+      "duration": 644
+    },
+    {
+      "id": "NySSf5_LiIs",
+      "title": "Display parent model records in rails dropdown",
+      "duration": 500
+    },
+    {
+      "id": "C2KNXFjD_Iw",
+      "title": "Upload Attachments using Active Storage in Rails - Hindi",
+      "duration": 1047
+    },
+    {
+      "id": "BmVhd7KXWss",
+      "title": "Linking Parent Child Models on View Layer",
+      "duration": 946
+    },
+    {
+      "id": "h3m___dcs0Q",
+      "title": "Understanding ActiveRecord Migrations in Rails - Hindi",
+      "duration": 674
+    },
+    {
+      "id": "Dgy0QJMkn9k",
+      "title": "Schema Versioning in Rails - Hindi",
+      "duration": 528
+    },
+    {
+      "id": "6NqLxLqfvQA",
+      "title": "Add new columns to model using migrations - Hindi",
+      "duration": 1378
+    },
+    {
+      "id": "U1I8A6wkanQ",
+      "title": "Remove Column from Existing Table in Rails - Hindi",
+      "duration": 610
+    },
+    {
+      "id": "UsBDUWXlJlg",
+      "title": "Rename Existing Column in a Table in Rails - Hindi",
+      "duration": 398
+    },
+    {
+      "id": "HIAae_KP9Sg",
+      "title": "Display ActiveRecord Objects in Bootstrap 5 Accordian - Hindi",
+      "duration": 1076
+    },
+    {
+      "id": "HbFWvCSPEM4",
+      "title": "Using Multiple View Options to Display ActiveRecord Objects - Hindi",
+      "duration": 770
+    },
+    {
+      "id": "Cll-xi7Oszs",
+      "title": "Devise Gem Introduction - हिंदी में",
+      "duration": 441
+    },
+    {
+      "id": "bCzOkTSAIuc",
+      "title": "Intalling devise gem in rails application - हिंदी में",
+      "duration": 550
+    },
+    {
+      "id": "NgN9BhY_xn8",
+      "title": "Add devise resource in rails application - हिंदी में",
+      "duration": 762
+    },
+    {
+      "id": "VeD_PMFEoi8",
+      "title": "Devise helper methods for accessing current resource - हिंदी में",
+      "duration": 541
+    },
+    {
+      "id": "8KW-iSkJxF4",
+      "title": "Signing out current user from devise - हिंदी में",
+      "duration": 493
+    },
+    {
+      "id": "7zPolfZxVDg",
+      "title": "Customizing devise signin page using bootstrap - हिंदी में",
+      "duration": 849
+    },
+    {
+      "id": "nn7stCyOnyo",
+      "title": "Customizing devise signup page using bootstrap - हिंदी में",
+      "duration": 293
+    },
+    {
+      "id": "doLq-iqH24c",
+      "title": "Customizing devise passwords page using bootstrap - हिंदी में",
+      "duration": 613
+    }
+  ]
+}

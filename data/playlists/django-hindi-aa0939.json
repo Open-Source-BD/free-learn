@@ -1,0 +1,650 @@
+{
+  "courseId": "django-hindi-aa0939",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:57.768Z",
+  "title": "Django 3 (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "sccLfQ4_u10",
+      "title": "What is Framework (Hindi)",
+      "duration": 568
+    },
+    {
+      "id": "_yinh8m3M78",
+      "title": "What is Web Framework (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "eNP0K4mrRwI",
+      "title": "What is Model View Template (Hindi)",
+      "duration": 404
+    },
+    {
+      "id": "jMmgvzHKXgw",
+      "title": "Visual Studio Code Crash Course (Hindi)",
+      "duration": 3559
+    },
+    {
+      "id": "oNNDR3Sm3Zs",
+      "title": "Introduction to Django (Hindi)",
+      "duration": 304
+    },
+    {
+      "id": "tsDWo1dlZPw",
+      "title": "Requirements for Learning Django (Hindi)",
+      "duration": 220
+    },
+    {
+      "id": "F_xWv0Q_dLE",
+      "title": "How to Install Django in Virtual Environment and Create Django Project (Hindi)",
+      "duration": 881
+    },
+    {
+      "id": "JvH6pGRxp-Y",
+      "title": "How to Uninstall Django from Separate Environment (Hindi)",
+      "duration": 257
+    },
+    {
+      "id": "OtNb7cp1Lxw",
+      "title": "How to Install Django Globally and Create Django Project (Hindi)",
+      "duration": 556
+    },
+    {
+      "id": "mPqIUszKK84",
+      "title": "Django Study Material Download Geeky Shows (Hindi)",
+      "duration": 430
+    },
+    {
+      "id": "91ACEy-0Plg",
+      "title": "Django Project Directory Structure (Hindi)",
+      "duration": 1187
+    },
+    {
+      "id": "r-bAwErQ5pQ",
+      "title": "init wsgi and asgi Files in Django (Hindi)",
+      "duration": 944
+    },
+    {
+      "id": "JXh3q_hY1u8",
+      "title": "settings File in Django (Hindi)",
+      "duration": 1420
+    },
+    {
+      "id": "6Vlxh8diglo",
+      "title": "urls and manage File in Django (Hindi)",
+      "duration": 168
+    },
+    {
+      "id": "_XWao1KF8c4",
+      "title": "How to Run and Stop Server in Django (Hindi)",
+      "duration": 468
+    },
+    {
+      "id": "z_PG2qEwysU",
+      "title": "Problems and their Solutions While Learning Django (Hindi)",
+      "duration": 131
+    },
+    {
+      "id": "tRGV_DoWyrI",
+      "title": "How to Create and Install Application in Django (Hindi)",
+      "duration": 1360
+    },
+    {
+      "id": "KNrnc9huxZI",
+      "title": "Application Directory Structure in Django (Hindi)",
+      "duration": 561
+    },
+    {
+      "id": "ZDcw6O5_Ds4",
+      "title": "Setup Visual Studio Code for Django (Hindi)",
+      "duration": 684
+    },
+    {
+      "id": "XQYSlaEBSzw",
+      "title": "Create Function Based View in Django (Hindi)",
+      "duration": 2532
+    },
+    {
+      "id": "8DeZ2rLfv9w",
+      "title": "URL Dispatcher or URL Pattern inside Project in Django (Hindi)",
+      "duration": 2207
+    },
+    {
+      "id": "s5drQZSvO3w",
+      "title": "Multiple Application inside Project and their Function Based Views in Django (Hindi)",
+      "duration": 1609
+    },
+    {
+      "id": "wlkwpkXgNSU",
+      "title": "URL Dispatcher or URL Pattern inside Application in Django (Hindi)",
+      "duration": 3385
+    },
+    {
+      "id": "B7im-zrvOxk",
+      "title": "Django 3.1 New Features and Deprecation (Hindi)",
+      "duration": 1886
+    },
+    {
+      "id": "MWwTWpqcFeM",
+      "title": "Template and How to Render Template Files in Django (Hindi)",
+      "duration": 3620
+    },
+    {
+      "id": "xrovglBdBqk",
+      "title": "Creating and Rendering Templates File For each Application Separately in Django (Hindi)",
+      "duration": 1736
+    },
+    {
+      "id": "bd_afvkrBaI",
+      "title": "Dynamic Template Files using DTL in Django (Hindi)",
+      "duration": 958
+    },
+    {
+      "id": "6zJo84q2blo",
+      "title": "Django Template Language Crash Course (Hindi)",
+      "duration": 7543
+    },
+    {
+      "id": "mHAvXKMqU8c",
+      "title": "How to fix Emmet not working after Django Extension Installation in VS Code (Hindi)",
+      "duration": 136
+    },
+    {
+      "id": "_ngoYTH5aqE",
+      "title": "Templates inside Application in Django (Hindi)",
+      "duration": 2966
+    },
+    {
+      "id": "sv6kMpCcVIs",
+      "title": "Static Files inside Project and How to use CSS JavaScript Images in Django (Hindi)",
+      "duration": 4417
+    },
+    {
+      "id": "cbA6l8jVI-o",
+      "title": "Static Files inside Application and How to use CSS JavaScript Images in Django (Hindi)",
+      "duration": 2721
+    },
+    {
+      "id": "SLkS0J5ArPk",
+      "title": "Template Inheritance in Django (Hindi)",
+      "duration": 4591
+    },
+    {
+      "id": "vjqt6rIWHAY",
+      "title": "Template Inheritance with Static File in Django (Hindi)",
+      "duration": 1414
+    },
+    {
+      "id": "3I3Og_RPIE4",
+      "title": "How to use Bootstrap and Font Awesome in Django (Hindi)",
+      "duration": 1346
+    },
+    {
+      "id": "v0ZZIi4jkt8",
+      "title": "How to Create Hyperlinks and Use url Tag in Django (Hindi)",
+      "duration": 2149
+    },
+    {
+      "id": "ig7XPN_54X0",
+      "title": "How to include template within template using include Tag in Django (Hindi)",
+      "duration": 1288
+    },
+    {
+      "id": "86swrY1kf1o",
+      "title": "Django Resume Project from Development to Deployment and collectstatic in Django (Hindi)",
+      "duration": 9475
+    },
+    {
+      "id": "ueh7WzP8KRQ",
+      "title": "What is Cookie and How it works (Hindi)",
+      "duration": 1012
+    },
+    {
+      "id": "tPPFm_7Hh9A",
+      "title": "Object Relational Mapper and QuerySet in Django (Hindi)",
+      "duration": 528
+    },
+    {
+      "id": "M6T1RgtS8b4",
+      "title": "Model and How to Create Database Table in Django (Hindi)",
+      "duration": 4151
+    },
+    {
+      "id": "dihtmtYQgA4",
+      "title": "Show or Retrieve Database Table Data to User in Django (Hindi)",
+      "duration": 2622
+    },
+    {
+      "id": "oIazG00lB4A",
+      "title": "Admin Application and How to Create Super User in Django (Hindi)",
+      "duration": 752
+    },
+    {
+      "id": "khdVg1lLbZo",
+      "title": "How to Register Model Class and use __str__ method in Django (Hindi)",
+      "duration": 1424
+    },
+    {
+      "id": "O_SsSeB-HSY",
+      "title": "ModelAdmin Class and How to register ModelAdmin Class in Django (Hindi)",
+      "duration": 1403
+    },
+    {
+      "id": "CtD4u-Bncf8",
+      "title": "How to Create Django Form using Form API in Django (Hindi)",
+      "duration": 2319
+    },
+    {
+      "id": "K_NJZd-YsoU",
+      "title": "Configure id Attribute and label Tag and Dynamic initial Value in Django (Hindi)",
+      "duration": 1140
+    },
+    {
+      "id": "XV7VAOrJ3B8",
+      "title": "Ordering Form Field in Django (Hindi)",
+      "duration": 414
+    },
+    {
+      "id": "cVF7PAT8wlk",
+      "title": "Render Form Fields Manually in Django (Hindi)",
+      "duration": 1139
+    },
+    {
+      "id": "zB6wa5dyj40",
+      "title": "Loop Form Fields and Form Hidden Fields in Django (Hindi)",
+      "duration": 800
+    },
+    {
+      "id": "XB3lhklF1Ts",
+      "title": "Form Field Argument in Django (Hindi)",
+      "duration": 936
+    },
+    {
+      "id": "HkW0NxzMZxg",
+      "title": "Form Widgets in Django (Hindi)",
+      "duration": 827
+    },
+    {
+      "id": "0kDfY0QlhUo",
+      "title": "Difference between GET and POST in Django (Hindi)",
+      "duration": 366
+    },
+    {
+      "id": "NC5SxNXg164",
+      "title": "What is Cross Site Request Forgery CSRF (Hindi)",
+      "duration": 656
+    },
+    {
+      "id": "9c28ctq1-J0",
+      "title": "Create Form using Method POST and CSRF Token in Django (Hindi)",
+      "duration": 559
+    },
+    {
+      "id": "xXZbxxH1jTQ",
+      "title": "How to Get Form Data and Validate Data in Django (Hindi)",
+      "duration": 2354
+    },
+    {
+      "id": "o1JQ6zmMA9U",
+      "title": "HttpResponseRedirect in Django (Hindi)",
+      "duration": 742
+    },
+    {
+      "id": "MbpBMmjfn6M",
+      "title": "Form Field Type CharField BooleanField IntegerField DecimalField SlugField etc in Django (Hindi)",
+      "duration": 2487
+    },
+    {
+      "id": "66YL64GjQiI",
+      "title": "Cleaning and Validating Specific Form Field in Django (Hindi)",
+      "duration": 792
+    },
+    {
+      "id": "clQk6VgJXcI",
+      "title": "Validating Complete Django Form at Once in Django (Hindi)",
+      "duration": 605
+    },
+    {
+      "id": "xmPc2vwl0Xs",
+      "title": "Built in Validators and Custom Validators in Django (Hindi)",
+      "duration": 583
+    },
+    {
+      "id": "OGHVnIwnxRo",
+      "title": "Match Password and Re Enter Password Field in Django (Hindi)",
+      "duration": 648
+    },
+    {
+      "id": "7W58mD6sAhg",
+      "title": "Styling Django Form Errors and Field Error in Django (Hindi)",
+      "duration": 1821
+    },
+    {
+      "id": "vOYHKXakETY",
+      "title": "Save Update and Delete Form Data to/from Database in Django (Hindi)",
+      "duration": 1143
+    },
+    {
+      "id": "t_WPaN-xwLY",
+      "title": "ModelForm in Django (Hindi)",
+      "duration": 3224
+    },
+    {
+      "id": "0lGdIiSkz_M",
+      "title": "Dynamic URL in Django (Hindi)",
+      "duration": 3114
+    },
+    {
+      "id": "SxRezJzcQJg",
+      "title": "Custom Path Converters in Django (Hindi)",
+      "duration": 835
+    },
+    {
+      "id": "OPc_oMgjhpM",
+      "title": "CRUD Project Function Based View with Model Form in Django (Hindi)",
+      "duration": 5179
+    },
+    {
+      "id": "lI5MSTtRKlY",
+      "title": "Selecting ModelForm Fields in Django (Hindi)",
+      "duration": 798
+    },
+    {
+      "id": "lupEsonZtvk",
+      "title": "Model Form Inheritance in Django (Hindi)",
+      "duration": 705
+    },
+    {
+      "id": "EhYu8V_HZPE",
+      "title": "Messages Framework in Django (Hindi)",
+      "duration": 3725
+    },
+    {
+      "id": "GoG3cdXVVYQ",
+      "title": "What is Authentication and Authorization (Hindi)",
+      "duration": 173
+    },
+    {
+      "id": "FzGTpnI5tpo",
+      "title": "User Authentication System using Django Admin Application in Django (Hindi)",
+      "duration": 2013
+    },
+    {
+      "id": "or_JNxHf9s4",
+      "title": "Create Registration Form using UserCreationForm in Django (Hindi)",
+      "duration": 3884
+    },
+    {
+      "id": "SXN4tcLlu9w",
+      "title": "Create Login Form using AuthenticationForm and Profile Page and Logout in Django (Hindi)",
+      "duration": 2944
+    },
+    {
+      "id": "AJoofWcy_JM",
+      "title": "Change Password with Old Password and without Old Password in Django (Hindi)",
+      "duration": 1378
+    },
+    {
+      "id": "5iR-oKjNEg0",
+      "title": "Profile using UserChangeForm in Django (Hindi)",
+      "duration": 944
+    },
+    {
+      "id": "gOhAGmXJ1K4",
+      "title": "User Profile and Admin Profile in Django (Hindi)",
+      "duration": 2411
+    },
+    {
+      "id": "z17MvbSAOxU",
+      "title": "Permission and Authorization in Django (Hindi)",
+      "duration": 2669
+    },
+    {
+      "id": "VqozcIuU9jI",
+      "title": "Django Mini Blog Project (Hindi)",
+      "duration": 9735
+    },
+    {
+      "id": "hiZO7c7sZ3c",
+      "title": "Cookies in Django (Hindi)",
+      "duration": 3561
+    },
+    {
+      "id": "_2_ZXWknd20",
+      "title": "Session Framework in Django (Hindi)",
+      "duration": 5596
+    },
+    {
+      "id": "PFqootfq3VI",
+      "title": "Page Session Expired in 20 Seconds in Django (Hindi)",
+      "duration": 780
+    },
+    {
+      "id": "E3YlCuvg-ps",
+      "title": "File Based Session in Django (Hindi)",
+      "duration": 305
+    },
+    {
+      "id": "PvtXALHNOYY",
+      "title": "Page Counter Project in Django (Hindi)",
+      "duration": 742
+    },
+    {
+      "id": "aJ67Yf6N6oE",
+      "title": "What is Cache and The per site Cache in Django (Hindi)",
+      "duration": 2930
+    },
+    {
+      "id": "qR19nk6O2Vc",
+      "title": "The Per View Caching in Django (Hindi)",
+      "duration": 2325
+    },
+    {
+      "id": "F63HvBkgw88",
+      "title": "Template Fragment Caching in Django (Hindi)",
+      "duration": 1091
+    },
+    {
+      "id": "xelswkSF5Ck",
+      "title": "Low Level Cache API in Django (Hindi)",
+      "duration": 2468
+    },
+    {
+      "id": "w4pnWgEgv8E",
+      "title": "Signals and Built in Signals in Django (Hindi)",
+      "duration": 4990
+    },
+    {
+      "id": "NwLWLMe3KQs",
+      "title": "Track Client IP Django Project (Hindi)",
+      "duration": 954
+    },
+    {
+      "id": "w98x0yPUET0",
+      "title": "User Login Count Django Project Hindi",
+      "duration": 1015
+    },
+    {
+      "id": "RO556wbW9uU",
+      "title": "Custom Signals in Django (Hindi)",
+      "duration": 862
+    },
+    {
+      "id": "vw3yv2AVaTE",
+      "title": "Middleware in Django (Hindi)",
+      "duration": 5741
+    },
+    {
+      "id": "YaguJMff17E",
+      "title": "Site Under Construction Django Project (Hindi)",
+      "duration": 794
+    },
+    {
+      "id": "8VC62i_WI3w",
+      "title": "QuerySet API Methods that return new QuerySets in Django (Hindi)",
+      "duration": 5728
+    },
+    {
+      "id": "0eJeDxEb7Tw",
+      "title": "QuerySet API Methods that do not return new QuerySets in Django (Hindi)",
+      "duration": 3789
+    },
+    {
+      "id": "6Hn8TJSCQI0",
+      "title": "QuerySet API Field Lookups in Django (Hindi)",
+      "duration": 3651
+    },
+    {
+      "id": "y71IbSL918g",
+      "title": "QuerySet API Aggregation in Django (Hindi)",
+      "duration": 727
+    },
+    {
+      "id": "v-n43CC6DJI",
+      "title": "Q Objects in Django (Hindi)",
+      "duration": 425
+    },
+    {
+      "id": "XsPNCvwkzNA",
+      "title": "Limiting QuerySet in Django (Hindi)",
+      "duration": 442
+    },
+    {
+      "id": "cg9pb6V7IQk",
+      "title": "Model Inheritance Abstract Base Class MultiTable Inheritance Proxy Model in Django (Hindi)",
+      "duration": 4743
+    },
+    {
+      "id": "C7gBrFcZKf4",
+      "title": "Model Manager in Django (Hindi)",
+      "duration": 2696
+    },
+    {
+      "id": "mQhyQGKh38s",
+      "title": "Model Relationship and One to One Relationship in Django (Hindi)",
+      "duration": 3370
+    },
+    {
+      "id": "dFB_V1IWc9Y",
+      "title": "Many to One Relationship in Django (Hindi)",
+      "duration": 869
+    },
+    {
+      "id": "CmRi6W4pXxk",
+      "title": "Many to Many Relationship in Django (Hindi)",
+      "duration": 914
+    },
+    {
+      "id": "QwefUuhiSjw",
+      "title": "Model Relationship Example and related_name Parameter in Django (Hindi)",
+      "duration": 1461
+    },
+    {
+      "id": "1dDimoXKb-g",
+      "title": "View Class Based Base View or View Base Class in Django (Hindi)",
+      "duration": 4251
+    },
+    {
+      "id": "RBn-ckech2Q",
+      "title": "TemplateView in Django (Hindi)",
+      "duration": 1471
+    },
+    {
+      "id": "udY9elNHhho",
+      "title": "RedirectView in Django (Hindi)",
+      "duration": 2231
+    },
+    {
+      "id": "XQjaTUwTJRY",
+      "title": "CRUD Project Base Class Based View with Model Form in Django (Hindi)",
+      "duration": 2398
+    },
+    {
+      "id": "SMZLAphM4Ik",
+      "title": "Generic Class Based View and ListView in Django (Hindi)",
+      "duration": 3351
+    },
+    {
+      "id": "xlXPM7YND7E",
+      "title": "DetailView in Django (Hindi)",
+      "duration": 2460
+    },
+    {
+      "id": "X1bfdnC5gkU",
+      "title": "FormView in Django (Hindi)",
+      "duration": 1559
+    },
+    {
+      "id": "2DMkfZ0JSTY",
+      "title": "CreateView in Django (Hindi)",
+      "duration": 3194
+    },
+    {
+      "id": "epEq_25OU7Y",
+      "title": "UpdateView in Django (Hindi)",
+      "duration": 2395
+    },
+    {
+      "id": "equUFCojDLs",
+      "title": "DeleteView in Django (Hindi)",
+      "duration": 1118
+    },
+    {
+      "id": "Ey2TYURMmmc",
+      "title": "How to Use Authentication Views with Function Based View in Django (Hindi)",
+      "duration": 2178
+    },
+    {
+      "id": "3XCMY_ucNYM",
+      "title": "Function Based View with login_required and staff_member_required Decorators in Django (Hindi)",
+      "duration": 984
+    },
+    {
+      "id": "2EcO801vInw",
+      "title": "How to use Authentication Views with Class Based View in Django (Hindi)",
+      "duration": 1377
+    },
+    {
+      "id": "XMFQiPfDZnw",
+      "title": "Class Based View with login required and staff member required Decorators in Django (Hindi)",
+      "duration": 2049
+    },
+    {
+      "id": "PVK-FmzYlU0",
+      "title": "Customize Authentication View in Django (Hindi)",
+      "duration": 5540
+    },
+    {
+      "id": "RCxK1ycavy0",
+      "title": "Authentication Settings in Django (Hindi)",
+      "duration": 370
+    },
+    {
+      "id": "CL6-xumjFZ4",
+      "title": "Database Configurations in Django (Hindi)",
+      "duration": 240
+    },
+    {
+      "id": "Z1A0TdZzDkE",
+      "title": "Pagination with Function Based View in Django (Hindi)",
+      "duration": 2093
+    },
+    {
+      "id": "R6DfClhWv_E",
+      "title": "Pagination with Class Based View in Django (Hindi)",
+      "duration": 2007
+    },
+    {
+      "id": "enwLpIk7GDI",
+      "title": "Django Security (Hindi)",
+      "duration": 267
+    },
+    {
+      "id": "hVv3TIKCvag",
+      "title": "Django Completed Now What Next (Hindi)",
+      "duration": 258
+    }
+  ]
+}

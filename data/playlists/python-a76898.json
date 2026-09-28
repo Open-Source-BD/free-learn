@@ -1,0 +1,720 @@
+{
+  "courseId": "python-a76898",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:26.199Z",
+  "title": "Python",
+  "channel": "Computer Gyan Guruji",
+  "videos": [
+    {
+      "id": "k0uFJBIUwCQ",
+      "title": "Python for Beginners Lesson - 1 | Learn Python Easily in Hindi | Introduction and Install Python",
+      "duration": 720
+    },
+    {
+      "id": "gqIwYj1sCW4",
+      "title": "Write our First Python Program | Python Tutorial for Beginners lesson - 2 | Learn coding",
+      "duration": 628
+    },
+    {
+      "id": "9BywxH7k1TA",
+      "title": "Input and Integer Function in Python | Pytnon for beginners lesson - 3 | Adding Two number in python",
+      "duration": 492
+    },
+    {
+      "id": "_zlbsZtzfiw",
+      "title": "Python Escape character and new line | Escape Characters in Python | Python for beginners lesson - 4",
+      "duration": 306
+    },
+    {
+      "id": "iT0KYue_uPM",
+      "title": "Variables in Python | What are Variables | Python for beginners lesson - 5 | Learn coding",
+      "duration": 242
+    },
+    {
+      "id": "8M9xdykobDM",
+      "title": "Variables in Python | Python tutorial for beginners lesson -6 | learn coding",
+      "duration": 873
+    },
+    {
+      "id": "VDx1LLTpMXg",
+      "title": "Data Type in Python | Python tutorial for beginners lesson - 7 | Python all data types",
+      "duration": 868
+    },
+    {
+      "id": "Tj606TsztJw",
+      "title": "Operators in Python | Arithmetic and Comparison Operators | Python tutorial for beginners lesson - 8",
+      "duration": 564
+    },
+    {
+      "id": "EnIK6Ado-24",
+      "title": "Operators in Python | Assignment and Logical Operators | Python tutorial for beginners lesson - 9",
+      "duration": 620
+    },
+    {
+      "id": "WYwkZPHhSo4",
+      "title": "Operators in Python | Identity and Membership Operators | Python tutorial for beginners lesson - 10",
+      "duration": 701
+    },
+    {
+      "id": "MneXqOIoXz8",
+      "title": "What are Bitwise operators in Python | Python operators in hindi | Python tutorial lesson - 11",
+      "duration": 669
+    },
+    {
+      "id": "PqOFmr_ygMM",
+      "title": "Conditional Statement in Python | IF, Else and Elif statement | Python tutorial lesson - 12",
+      "duration": 372
+    },
+    {
+      "id": "4L55-U1E2Qo",
+      "title": "IF, Else and Elif statement | Python tutorial lesson - 13 | Python for beginners",
+      "duration": 374
+    },
+    {
+      "id": "FiXrjW48BFE",
+      "title": "Onle line Short Hand IF, Else statement | Python tutorial lesson - 14 | Python for beginners",
+      "duration": 749
+    },
+    {
+      "id": "QL-VIouxVuA",
+      "title": "How to make simple calculator in Python using IF,  Elif and Else | Python Tutorial lesson - 15",
+      "duration": 645
+    },
+    {
+      "id": "dbUseR9j1VE",
+      "title": "For Loop in Python | For Loop with Range in python | Python Tutorial lesson - 16",
+      "duration": 544
+    },
+    {
+      "id": "i04HsGXINeA",
+      "title": "For Loop in Python | For Loop with String in python | Python Tutorial lesson - 17",
+      "duration": 347
+    },
+    {
+      "id": "ejEKukqGKhQ",
+      "title": "While Loop in Python | Python tutorial lesson -18 | Python for beginners @ComputerGurujiTechnical",
+      "duration": 295
+    },
+    {
+      "id": "xPGUeazi2kA",
+      "title": "Break and Continue statement in Python | Python tutorial lesson -18  @ComputerGurujiTechnical",
+      "duration": 360
+    },
+    {
+      "id": "AjPImoy20M8",
+      "title": "Using Else with Loop | Python Tutorial leson - 20 | For Else and While Else in Python",
+      "duration": 298
+    },
+    {
+      "id": "1c7dHzj2hP8",
+      "title": "Nested Loop in python | Python tutorial lesson - 21 | Python for beginners",
+      "duration": 514
+    },
+    {
+      "id": "9v51g1wsEsM",
+      "title": "Python Pattern Program | Python tutorial lesson - 22 | Solve any pattern program",
+      "duration": 867
+    },
+    {
+      "id": "3nySt1GgngU",
+      "title": "Pattern program in python | Solve any Star Pattern program in Python | Python tutorial lesson - 23",
+      "duration": 672
+    },
+    {
+      "id": "UPDHjPM_FWQ",
+      "title": "Pattern program in python | Solve any Number Pattern program in Python | Python tutorial lesson - 24",
+      "duration": 597
+    },
+    {
+      "id": "luNFOEChxkw",
+      "title": "String Slicing and Indexing in Python | Python tutorial lesson - 25 | Python for beginners",
+      "duration": 588
+    },
+    {
+      "id": "eCbwJDZMAic",
+      "title": "String Iteration in Python | tutorial lesson - 26 | Python for beginners",
+      "duration": 428
+    },
+    {
+      "id": "K69qH6DC1XE",
+      "title": "List or Tuple Iteration in Python | tutorial lesson - 27 | Python for beginners",
+      "duration": 662
+    },
+    {
+      "id": "EiaAyhentiw",
+      "title": "String Format () Method in Python | tutorial lesson - 28 | Python for beginners",
+      "duration": 585
+    },
+    {
+      "id": "1TLBDXAP6xI",
+      "title": "String Functions in Python | tutorial lesson - 29 | UPPER, lower, Title and Capitalize in Python",
+      "duration": 309
+    },
+    {
+      "id": "qaHuYa2Mf3s",
+      "title": "String Functions of Python | tutorial lesson - 30 | count, index, find, isalpha, isdigit in Python",
+      "duration": 467
+    },
+    {
+      "id": "qRv-UTgNQBA",
+      "title": "chr() and ord() function in python | Python tutorial lesson - 31 | python for beginners",
+      "duration": 379
+    },
+    {
+      "id": "Vjl-h3Ozu0g",
+      "title": "ZIP function in python | Python tutorial lesson - 32 | Iterate multiple list in one time",
+      "duration": 349
+    },
+    {
+      "id": "a0bRQv3cmcY",
+      "title": "List Comprehension in python | Python tutorial lesson - 33 | Append items in new list",
+      "duration": 563
+    },
+    {
+      "id": "A57nxVlwawg",
+      "title": "Python List Functions | del(), remove(), pop() and clear() functions in Python | Python lesson - 34",
+      "duration": 293
+    },
+    {
+      "id": "VGcV5JcgIBA",
+      "title": "Python List Functions | count(), reverse(), max(), min(), sort() and index() | Python lesson - 35",
+      "duration": 430
+    },
+    {
+      "id": "NB28q9PE9I0",
+      "title": "Python List Functions | append(), insert() and expend() functions in python | Python lesson - 36",
+      "duration": 411
+    },
+    {
+      "id": "Q-z2dbn7Y_Y",
+      "title": "How convert String to List in Python | Python tutorial lesson - 37 | Split method of list",
+      "duration": 525
+    },
+    {
+      "id": "jA0R1Ec4dDI",
+      "title": "Stack and Queue Data Type of list in Python | Python tutorial lesson - 38 | List Data Type in python",
+      "duration": 1263
+    },
+    {
+      "id": "9wK_1xRaEK4",
+      "title": "Dictionary in Python | Python tutorial lesson - 39 | Python dictionary for beginners",
+      "duration": 431
+    },
+    {
+      "id": "XwhmOLfvsU0",
+      "title": "Dictionary Functions and methods in Python | Python tutorial lesson - 40",
+      "duration": 871
+    },
+    {
+      "id": "9l1zZxpdBLw",
+      "title": "Nested Dictionary in Python | Python tutorial lesson - 41",
+      "duration": 919
+    },
+    {
+      "id": "iifUBtGdQqU",
+      "title": "Tuple in python | Python Tuple Data Type and Functions | Python tutorial lesson - 42",
+      "duration": 748
+    },
+    {
+      "id": "xPhNNKAUsX0",
+      "title": "Python set data type | Python tutorial lesson - 43 | Set Data Type in python",
+      "duration": 801
+    },
+    {
+      "id": "YNYHTQsFWYY",
+      "title": "What are User Defined Functions in Python | Python tutorial lesson - 44",
+      "duration": 802
+    },
+    {
+      "id": "0UOsaTZ7fDM",
+      "title": "Passing List, tuple and dictionary in Function | Functions in Python | Python tutorial lesson - 45",
+      "duration": 1000
+    },
+    {
+      "id": "mpEF8X6USjI",
+      "title": "What are Modules in Python | Python Modules explained with examples | Python tutorial lesson - 46",
+      "duration": 911
+    },
+    {
+      "id": "usm1Gvygbok",
+      "title": "Math Module in Python | Python Math Module | Python Tutorial Lesson - 47",
+      "duration": 468
+    },
+    {
+      "id": "rIrZ1wmWoXQ",
+      "title": "Random Module in Python | Python Random Module in hindi | Python tutorial lesson - 48",
+      "duration": 446
+    },
+    {
+      "id": "JO-FReGbTvQ",
+      "title": "Datetime Module in Python | Python Datetime Module in hindi | Python tutorial lesson - 49",
+      "duration": 427
+    },
+    {
+      "id": "FQJnESxKs6o",
+      "title": "Number Guessing Game in Python using Random Module | Python tutorial lesson - 50",
+      "duration": 638
+    },
+    {
+      "id": "_mqXFW7H1Fo",
+      "title": "Python Rock, Scissor Paper game | Rock Paper Scissor game in Python | Python Tutorial lesson - 51",
+      "duration": 1249
+    },
+    {
+      "id": "01NtYVLYD1U",
+      "title": "Pickle Module in Python | Python Pickle Module in hindi | Python tutorial lesson - 52",
+      "duration": 508
+    },
+    {
+      "id": "WV1UO3rbrZ4",
+      "title": "What is JSON in Python | Introduction to JSON | Python  tutorial lesson - 53",
+      "duration": 744
+    },
+    {
+      "id": "jsjkLdXNHRA",
+      "title": "Convert JSON Data Into a Python Object and Python Object to JSON Data | Python tutorial lesson - 54",
+      "duration": 654
+    },
+    {
+      "id": "DeA6a4qGOBc",
+      "title": "How to read Data from JSON File in Python | Python totorial lesson - 55 | Read and Write JSON file",
+      "duration": 454
+    },
+    {
+      "id": "zKvkHoC2T6k",
+      "title": "OOPS in Python | Object Oriented Programming in Python | Python tutorial lesson - 56",
+      "duration": 468
+    },
+    {
+      "id": "V87Jww1NbPY",
+      "title": "Methods and Constructors in OOP in Python | Object Oriented Programing | Python tutorial lesson - 57",
+      "duration": 618
+    },
+    {
+      "id": "5u5dRNd-u8E",
+      "title": "Inheritance in OOP in Python | Object Oriented Programing | Python tutorial lesson - 58",
+      "duration": 549
+    },
+    {
+      "id": "L6eZZniyl7k",
+      "title": "encapsulation in OOP in Python | Object Oriented Programing | Python tutorial lesson - 59",
+      "duration": 947
+    },
+    {
+      "id": "SRbDmhHQEUI",
+      "title": "Polymorphism in OOP in Python | Object Oriented Programing | Python tutorial lesson - 60",
+      "duration": 786
+    },
+    {
+      "id": "pCb1JyJa7fA",
+      "title": "Python Bike and Car rental System project | Python for beginners lesson - 61 | python project",
+      "duration": 764
+    },
+    {
+      "id": "UvP6BW8nSzU",
+      "title": "What is Error and Built in exception in Python | Python for beginners lesson - 62",
+      "duration": 331
+    },
+    {
+      "id": "CrYO1zPeErg",
+      "title": "Error and Built in exception Handling in Python | Python for beginners lesson - 63",
+      "duration": 1081
+    },
+    {
+      "id": "6-OqRiUQmX0",
+      "title": "SQLite Database with Python | Python tutorial for beginners - 64 | what is SQLite and create table",
+      "duration": 638
+    },
+    {
+      "id": "e0NuxJAj50Y",
+      "title": "SQLite Insert Query | Python tutorial for beginners - 65 | SQLite Database with Python store data",
+      "duration": 367
+    },
+    {
+      "id": "h5rc4cLkcA4",
+      "title": "SQLite Select Query | Python tutorial for beginners - 66 | SQLite Database with Python store data",
+      "duration": 609
+    },
+    {
+      "id": "-Ujka93LR68",
+      "title": "SQLite Delete Query | Python tutorial for beginners - 67 | SQLite Database with Python",
+      "duration": 334
+    },
+    {
+      "id": "FxTsXbxFQAs",
+      "title": "SQLite Update Query | Python tutorial for beginners - 68 | SQLite Database with Python",
+      "duration": 346
+    },
+    {
+      "id": "BYVfyQsIf8E",
+      "title": "SQLite Where clause | Python tutorial for beginners - 69 | SQLite Database with Python",
+      "duration": 728
+    },
+    {
+      "id": "cd1_jbNYpa8",
+      "title": "Python SQLite Join Concept | Python tutorial for beginners - 70 | SQLite Inner join and left join",
+      "duration": 695
+    },
+    {
+      "id": "vwssV7baqH8",
+      "title": "Install Xampp & PIP in Windows | How to use MySQL in Python | Python tutorial for beginners - 71",
+      "duration": 624
+    },
+    {
+      "id": "GKUHG6NQltU",
+      "title": "Create MySQL Database and Connection in Python | Python tutorial for beginners - 72",
+      "duration": 663
+    },
+    {
+      "id": "8PX8-QC0AEs",
+      "title": "MySQL Data Type in Database | Python tutorial for beginners - 73",
+      "duration": 325
+    },
+    {
+      "id": "VrjSwuM4VyQ",
+      "title": "Python with MySQL | Create Table in MySQL in Python | Python tutorial for beginners - 74",
+      "duration": 491
+    },
+    {
+      "id": "9wBRTzxEoTI",
+      "title": "Python with MySQL | Insert Query in MySQL in Python | Python tutorial for beginners - 75",
+      "duration": 584
+    },
+    {
+      "id": "OoBqAnBnlwQ",
+      "title": "Python with MySQL | Select Query in MySQL in Python | Python tutorial for beginners - 76",
+      "duration": 645
+    },
+    {
+      "id": "UHGSHIKf6ao",
+      "title": "Python with MySQL | Delete Query in MySQL in Python | Python tutorial for beginners - 77",
+      "duration": 344
+    },
+    {
+      "id": "135qNJclFRc",
+      "title": "Python with MySQL | Update Query in MySQL in Python | Python tutorial for beginners - 78",
+      "duration": 561
+    },
+    {
+      "id": "LRcuwyJt8oI",
+      "title": "MySQL Order by and Limit in Python | Python with MySQL | Python tutorial for beginners - 79",
+      "duration": 499
+    },
+    {
+      "id": "_zDAhhQNevM",
+      "title": "MySQL Searching and Filtering in Python | Python with MySQL | Python tutorial for beginners - 80",
+      "duration": 527
+    },
+    {
+      "id": "CBwmSGUnl6I",
+      "title": "Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 81",
+      "duration": 268
+    },
+    {
+      "id": "FFzvjEgYPW8",
+      "title": "Inner Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 82",
+      "duration": 459
+    },
+    {
+      "id": "lNmj6BWS5ks",
+      "title": "Left Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 83",
+      "duration": 418
+    },
+    {
+      "id": "qQr1G4Cnh24",
+      "title": "Right Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 84",
+      "duration": 282
+    },
+    {
+      "id": "Fv5GpMkMJ2E",
+      "title": "Equi Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 85",
+      "duration": 303
+    },
+    {
+      "id": "MQcucNbAWOw",
+      "title": "Self Join in Python MySQL | Python with MySQL | Python tutorial for beginners - 86",
+      "duration": 344
+    },
+    {
+      "id": "fhZnoW_aP5c",
+      "title": "Between Option in Python MySQL | Python with MySQL | Python tutorial for beginners - 87",
+      "duration": 247
+    },
+    {
+      "id": "dJJ_A-0-DYM",
+      "title": "MIN and MAX in Python MySQL | Python with MySQL | Python tutorial for beginners - 88",
+      "duration": 276
+    },
+    {
+      "id": "44n5SEttTGg",
+      "title": "Group by Option in Python MySQL | Python with MySQL | Python tutorial for beginners - 89",
+      "duration": 368
+    },
+    {
+      "id": "QL8i0Z4JRA0",
+      "title": "Distinct Option in Python MySQL | Python with MySQL | Python tutorial for beginners - 90",
+      "duration": 277
+    },
+    {
+      "id": "Hcfr09yE1iQ",
+      "title": "sum() and avg() function in Python MySQL | Python with MySQL | Python tutorial for beginners - 91",
+      "duration": 263
+    },
+    {
+      "id": "K04aFdzuFEQ",
+      "title": "IN and NOT IN Options in Python MySQL | Python with MySQL | Python tutorial for beginners - 92",
+      "duration": 286
+    },
+    {
+      "id": "RAKzfnZ4b9g",
+      "title": "args operator in Python function | Python *operator | Python tutorial for beginners - 93",
+      "duration": 508
+    },
+    {
+      "id": "uKP13OhkZuI",
+      "title": "args with normal parameter in Python | Python *operator | Python tutorial for beginners - 94",
+      "duration": 478
+    },
+    {
+      "id": "4kYdXCVpJvc",
+      "title": "kwargs operator in Python | Python double star operator | Python tutorial for beginners - 95",
+      "duration": 543
+    },
+    {
+      "id": "ZWgdPo5WRtg",
+      "title": "All types of parameter in Function in Python | Types of Parameter | Python for beginners - 96",
+      "duration": 531
+    },
+    {
+      "id": "bVTZOlbVzaw",
+      "title": "Lambda Function in Python | What is Lambda in Python | Python for beginners - 97",
+      "duration": 398
+    },
+    {
+      "id": "qrTeOXYgnrA",
+      "title": "Filter Function with Lambda in Python | What is Lambda in Python | Python for beginners - 98",
+      "duration": 584
+    },
+    {
+      "id": "sJ6O0-AbQRU",
+      "title": "Map Function with Lambda in Python | What is Lambda in Python | Python for beginners - 99",
+      "duration": 513
+    },
+    {
+      "id": "J2WDa3p6954",
+      "title": "Reduce Function with Lambda in Python | What is Lambda in Python | Python for beginners - 100",
+      "duration": 609
+    },
+    {
+      "id": "0kxkOOe-9oA",
+      "title": "Python Return Statement | Return Statement in Python Function | Python for beginners - 101",
+      "duration": 686
+    },
+    {
+      "id": "V5zOQHgD_2I",
+      "title": "Python Numpy Tutorial | Introduction to Numpy in Python | Python for beginners - 102",
+      "duration": 257
+    },
+    {
+      "id": "puoWFNkJ2Ks",
+      "title": "Numpy Installation in Python| Anaconda and VS Code installation | Python for beginners - 103",
+      "duration": 742
+    },
+    {
+      "id": "ibvBy8X1Qjc",
+      "title": "Writing and Executing Numpy Program in Anaconda Jupyter Notebood | Python for beginners - 104",
+      "duration": 673
+    },
+    {
+      "id": "_fx9ZBqMtKY",
+      "title": "Create One Dimensional Array using Numpy in Python | Jupyter Notebood | Python for beginners - 105",
+      "duration": 384
+    },
+    {
+      "id": "LF6uInqvkuw",
+      "title": "Create Two Dimensional Array using Numpy in Python | Jupyter Notebood | Python for beginners - 106",
+      "duration": 362
+    },
+    {
+      "id": "byTM52O001I",
+      "title": "Numpy Two Dimensional Array with User Input | Multidimensional array | Python for beginners - 107",
+      "duration": 765
+    },
+    {
+      "id": "RnRy4nTDXIo",
+      "title": "Numpy Functions in Python | Python Numpy Methods | Python for beginners - 108",
+      "duration": 694
+    },
+    {
+      "id": "Yv4JyW0g2bY",
+      "title": "Indexing and Slicing of Numpy Array in Python | Python Numpy Array | Python for beginners - 109",
+      "duration": 456
+    },
+    {
+      "id": "0eBhCbf1N-A",
+      "title": "Indexing and Slicing of Two Dimensional of Numpy Array in Python | Python for beginners - 110",
+      "duration": 691
+    },
+    {
+      "id": "DsOzDQbizwA",
+      "title": "Numpy SEED Function | Python for beginners - 111 | Seed Function in Numpy",
+      "duration": 321
+    },
+    {
+      "id": "2cW4VLxqYcg",
+      "title": "Numpy Reshaping of Array | Python for beginners - 112 | Reshaping of array in Numpy",
+      "duration": 483
+    },
+    {
+      "id": "7t4PjTzjj-Y",
+      "title": "Numpy View Vs Copy terms of Slicing | Python for beginners - 113 | View Vs Copy of array in Numpy",
+      "duration": 303
+    },
+    {
+      "id": "HyElbMYq8Kc",
+      "title": "Numpy Conditional Selection | Python for beginners - 114 | Conditional selection of array in Numpy",
+      "duration": 253
+    },
+    {
+      "id": "eu2ucu44-Fw",
+      "title": "Numpy Various operations on array | Python for beginners - 115 | Various Operations on Numpy array",
+      "duration": 538
+    },
+    {
+      "id": "eQm8suvDkss",
+      "title": "Numpy Array Functions| Python for beginners - 116 | min, max, sqrt, linspace, agrmax, argmin, sin",
+      "duration": 410
+    },
+    {
+      "id": "hRR8TkaWU-4",
+      "title": "Numpy Array Functions - 2| Python for beginners - 117 | min, max, axis, cumsum on Two Dimensional",
+      "duration": 374
+    },
+    {
+      "id": "Xu6QWs-YPEA",
+      "title": "Numpy Array Functions - 3 | Python for beginners - 118 | Numpy Shuffle and Unique function",
+      "duration": 419
+    },
+    {
+      "id": "r8H8aYIB5DQ",
+      "title": "Numpy Stacking in Python | Python for beginners - 119 | Stack in Nympy",
+      "duration": 373
+    },
+    {
+      "id": "6IeT17B4kWs",
+      "title": "Numpy Array Vs Python List | Python for beginners - 120 | Numpy Vs List",
+      "duration": 539
+    },
+    {
+      "id": "btOw321q7z8",
+      "title": "Searching an Element in Numpy Array | Python for beginners - 121 | Numpy where & searchsorted",
+      "duration": 425
+    },
+    {
+      "id": "NbvXiW_GQM8",
+      "title": "Python Pandas Introduction & Installation | Pandas in Python | Python Tutorial lesson - 122",
+      "duration": 441
+    },
+    {
+      "id": "OSGfgaC304s",
+      "title": "Python Pandas Series Data Type | Pandas Series in Python | Python Tutorial lesson - 123",
+      "duration": 695
+    },
+    {
+      "id": "RGPougvTCUE",
+      "title": "Python Pandas DataFrame Data Type | Pandas DataFrame in Python | Python Tutorial lesson - 124",
+      "duration": 874
+    },
+    {
+      "id": "5kyzDyox41c",
+      "title": "Python Pandas Arithmetic Operators | Python Tutorial lesson - 125",
+      "duration": 292
+    },
+    {
+      "id": "_LfqKCIoIxA",
+      "title": "How to insert and delete data in pandas in python | Python Tutorial lesson - 126",
+      "duration": 654
+    },
+    {
+      "id": "us22MH1rIuk",
+      "title": "Delete Rows and Columns in pandas Dataframe in python | Python Tutorial lesson - 127",
+      "duration": 546
+    },
+    {
+      "id": "Qzdknqs4Lvk",
+      "title": "Pandas How to create CSV File | Python Tutorial lesson - 128",
+      "duration": 348
+    },
+    {
+      "id": "_j1cWGvYCN4",
+      "title": "Read CVS File in Python Pandas | Python Tutorial lesson - 129 | Pandas read csv file",
+      "duration": 747
+    },
+    {
+      "id": "bfAfvhoibAs",
+      "title": "Pandas Functions - 1 | Python CVS File in Pandas | Python Tutorial lesson - 130",
+      "duration": 588
+    },
+    {
+      "id": "0nZoKEK-fak",
+      "title": "Pandas Functions - 2 | Python CVS File in Pandas | Python Tutorial lesson - 131",
+      "duration": 704
+    },
+    {
+      "id": "c_UgeAPvQhY",
+      "title": "Handling Missing Data (Dropna & Fillna) | Python CVS File in Pandas | Python Tutorial lesson - 132",
+      "duration": 996
+    },
+    {
+      "id": "hg2z6IKgc2A",
+      "title": "Handling Missing Data (Replace) | Python CVS File in Pandas | Python Tutorial lesson - 134",
+      "duration": 793
+    },
+    {
+      "id": "xBPLP0H-VGg",
+      "title": "Handling Missing Data (Interpolate) | Python CVS File in Pandas | Python Tutorial lesson - 135",
+      "duration": 686
+    },
+    {
+      "id": "f7FbL8yn2x0",
+      "title": "How to Merge and Concat DataFrames | Merging DataFrames in Pandas | Python Tutorial lesson - 136",
+      "duration": 1059
+    },
+    {
+      "id": "rk5dq_SrA6E",
+      "title": "Python Pandas GROUPBY() Function | Python Tutorial lesson - 137",
+      "duration": 416
+    },
+    {
+      "id": "NL-PXa0v1dM",
+      "title": "Python Pandas JOIN & APPEND Function | Python Tutorial lesson - 138",
+      "duration": 782
+    },
+    {
+      "id": "MRufhB_i8Tc",
+      "title": "Python Pandas PIVOT & MELT Functions | Python Tutorial lesson - 139",
+      "duration": 611
+    },
+    {
+      "id": "j86vnTg440U",
+      "title": "Python Recursion | Introduction to Recursion | Recursion in Python lesson - 1",
+      "duration": 405
+    },
+    {
+      "id": "hScsgY95CGE",
+      "title": "Python Direct Recursion with example | Recursion in Python lesson - 2",
+      "duration": 454
+    },
+    {
+      "id": "eW5OLL7QhNU",
+      "title": "Python Direct Recursion Print Reverse String | Recursion in Python lesson - 3",
+      "duration": 378
+    },
+    {
+      "id": "K7Gi0xHpfoE",
+      "title": "Find Factorial Using Python Direct Recursion | Recursion in Python lesson - 4",
+      "duration": 320
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "courseId": "100-days-of-machine-learning-c86192",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:03.951Z",
+  "title": "100 Days of Machine Learning | CampusX",
+  "channel": "CampusX",
+  "videos": [
+    {
+      "id": "ZftI2fEz0Fw",
+      "title": "What is Machine Learning? | 100 Days of Machine Learning",
+      "duration": 1200
+    },
+    {
+      "id": "1v3_AQ26jZ0",
+      "title": "AI Vs ML Vs DL for Beginners in Hindi",
+      "duration": 962
+    },
+    {
+      "id": "81ymPYEtFOw",
+      "title": "Types of Machine Learning for Beginners | Types of Machine learning in Hindi | Types of ML in Depth",
+      "duration": 1662
+    },
+    {
+      "id": "nPrhFxEuTYU",
+      "title": "Batch Machine Learning | Offline Vs Online Learning | Machine Learning Types",
+      "duration": 688
+    },
+    {
+      "id": "3oOipgCbLIk",
+      "title": "Online Machine Learning | Online Learning | Online Vs Offline Machine Learning",
+      "duration": 1168
+    },
+    {
+      "id": "ntAOq1ioTKo",
+      "title": "Instance-Based Vs Model-Based Learning | Types of Machine Learning",
+      "duration": 1004
+    },
+    {
+      "id": "WGUNAJki2S4",
+      "title": "Challenges in Machine Learning | Problems in Machine Learning",
+      "duration": 1420
+    },
+    {
+      "id": "UZio8TcTMrI",
+      "title": "Application of Machine Learning | Real Life Machine Learning Applications",
+      "duration": 1742
+    },
+    {
+      "id": "iDbhQGz_rEo",
+      "title": "Machine Learning Development Life Cycle | MLDLC in Data Science",
+      "duration": 1513
+    },
+    {
+      "id": "93rKZs0MkgU",
+      "title": "Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer | Data Science Job Roles",
+      "duration": 1583
+    },
+    {
+      "id": "vVhD2EyS41Y",
+      "title": "What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning",
+      "duration": 2489
+    },
+    {
+      "id": "82P5N2m41jE",
+      "title": "Installing Anaconda For Data Science | Jupyter Notebook for Machine Learning | Google Colab for ML",
+      "duration": 2226
+    },
+    {
+      "id": "dr7z7a_8lQw",
+      "title": "End to End Toy Project | Day 13 | 100 Days of Machine Learning",
+      "duration": 1843
+    },
+    {
+      "id": "A9SezQlvakw",
+      "title": "How to Frame a Machine Learning Problem | How to plan a Data Science Project Effectively",
+      "duration": 1342
+    },
+    {
+      "id": "a_XrmKlaGTs",
+      "title": "Working with CSV files | Day 15 | 100 Days of Machine Learning",
+      "duration": 2190
+    },
+    {
+      "id": "fFwRC-fapIU",
+      "title": "Working with JSON/SQL | Day 16 | 100 Days of Machine Learning",
+      "duration": 1020
+    },
+    {
+      "id": "roTZJaxjnJc",
+      "title": "Fetching Data From an API | Day 17 | 100 Days of Machine Learning",
+      "duration": 1370
+    },
+    {
+      "id": "8NOdgjC1988",
+      "title": "Fetching data using Web Scraping | Day 18 | 100 Days of Machine Learning",
+      "duration": 2269
+    },
+    {
+      "id": "mJlRTUuVr04",
+      "title": "Understanding Your Data | Day 19 | 100 Days of Machine Learning",
+      "duration": 923
+    },
+    {
+      "id": "4HyTlbHUKSw",
+      "title": "EDA using Univariate Analysis | Day 20 | 100 Days of Machine Learning",
+      "duration": 1831
+    },
+    {
+      "id": "6D3VtEfCw7w",
+      "title": "EDA using Bivariate and Multivariate Analysis | Day 21 | 100 Days of Machine Learning",
+      "duration": 2283
+    },
+    {
+      "id": "E69Lg2ZgOxg",
+      "title": "Pandas Profiling | Day 22 | 100 Days of Machine Learning",
+      "duration": 784
+    },
+    {
+      "id": "sluoVhT0ehg",
+      "title": "What is Feature Engineering | Day 23 | 100 Days of Machine Learning",
+      "duration": 1492
+    },
+    {
+      "id": "1Yw9sC0PNwY",
+      "title": "Feature Scaling - Standardization | Day 24 | 100 Days of Machine Learning",
+      "duration": 1958
+    },
+    {
+      "id": "eBrGyuA2MIg",
+      "title": "Feature Scaling - Normalization | MinMaxScaling | MaxAbsScaling | RobustScaling",
+      "duration": 1411
+    },
+    {
+      "id": "w2GglmYHfmM",
+      "title": "Encoding Categorical Data | Ordinal Encoding | Label Encoding",
+      "duration": 1193
+    },
+    {
+      "id": "U5oCv3JKWKA",
+      "title": "One Hot Encoding | Handling Categorical Data | Day 27 | 100 Days of Machine Learning",
+      "duration": 1812
+    },
+    {
+      "id": "5TVj6iEBR4I",
+      "title": "Column Transformer in Machine Learning | How to use ColumnTransformer in Sklearn",
+      "duration": 941
+    },
+    {
+      "id": "xOccYkgRV4Q",
+      "title": "Machine Learning Pipelines A-Z | Day 29 | 100 Days of Machine Learning",
+      "duration": 2739
+    },
+    {
+      "id": "cTjj3LE8E90",
+      "title": "Function Transformer | Log Transform | Reciprocal Transform | Square Root Transform",
+      "duration": 1933
+    },
+    {
+      "id": "lV_Z4HbNAx0",
+      "title": "Power Transformer | Box - Cox Transform | Yeo - Johnson Transform",
+      "duration": 1288
+    },
+    {
+      "id": "kKWsJGKcMvo",
+      "title": "Binning and Binarization | Discretization | Quantile Binning | KMeans Binning",
+      "duration": 2305
+    },
+    {
+      "id": "9xiX-I5_LQY",
+      "title": "Handling Mixed Variables | Feature Engineering",
+      "duration": 730
+    },
+    {
+      "id": "J73mvgG9fFs",
+      "title": "Handling Date and Time Variables | Day 34 | 100 Days of Machine Learning",
+      "duration": 858
+    },
+    {
+      "id": "aUnNWZorGmk",
+      "title": "Handling Missing Data | Part 1 | Complete Case Analysis",
+      "duration": 1494
+    },
+    {
+      "id": "mCL2xLBDw8M",
+      "title": "Handling missing data | Numerical Data | Simple Imputer",
+      "duration": 1881
+    },
+    {
+      "id": "l_Wip8bEDFQ",
+      "title": "Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | Missing Category Imp",
+      "duration": 814
+    },
+    {
+      "id": "Ratcir3p03w",
+      "title": "Missing Indicator | Random Sample Imputation | Handling Missing Data Part 4",
+      "duration": 2225
+    },
+    {
+      "id": "-fK-xEev2I8",
+      "title": "KNN Imputer | Multivariate Imputation | Handling Missing Data Part 5",
+      "duration": 1467
+    },
+    {
+      "id": "a38ehxv3kyk",
+      "title": "Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer",
+      "duration": 1111
+    },
+    {
+      "id": "Lln1PKgGr_M",
+      "title": "What are Outliers | Outliers in Machine Learning",
+      "duration": 1027
+    },
+    {
+      "id": "OnPE-Z8jtqM",
+      "title": "Outlier Detection and Removal using Z-score Method | Handling Outliers Part 2",
+      "duration": 1066
+    },
+    {
+      "id": "Ccv1-W5ilak",
+      "title": "Outlier Detection and Removal using the IQR Method | Handing Outliers Part 3",
+      "duration": 845
+    },
+    {
+      "id": "bcXA4CqRXvM",
+      "title": "Outlier Detection using the Percentile Method | Winsorization Technique",
+      "duration": 983
+    },
+    {
+      "id": "ma-h30PoFms",
+      "title": "Feature Construction | Feature Splitting",
+      "duration": 742
+    },
+    {
+      "id": "ToGuhynu-No",
+      "title": "Curse of Dimensionality",
+      "duration": 925
+    },
+    {
+      "id": "iRbsBi5W0-c",
+      "title": "Principle Component Analysis  (PCA) | Part 1 | Geometric Intuition",
+      "duration": 2034
+    },
+    {
+      "id": "tXXnxjj2wM4",
+      "title": "Principle Component Analysis (PCA) | Part 2 | Problem Formulation and Step by Step Solution",
+      "duration": 3377
+    },
+    {
+      "id": "tofVCUDrg4M",
+      "title": "Principle Component Analysis(PCA) | Part 3 | Code Example and Visualization",
+      "duration": 2606
+    },
+    {
+      "id": "UZPfbG0jNec",
+      "title": "Simple Linear Regression | Code + Intuition | Simplest Explanation in Hindi",
+      "duration": 2016
+    },
+    {
+      "id": "dXHIDLPKdmA",
+      "title": "Simple Linear Regression | Mathematical Formulation | Coding from Scratch",
+      "duration": 3211
+    },
+    {
+      "id": "Ti7c-Hz7GSM",
+      "title": "Regression Metrics | MSE, MAE & RMSE | R2 Score & Adjusted R2 Score",
+      "duration": 2636
+    },
+    {
+      "id": "ashGekqstl8",
+      "title": "Multiple Linear Regression | Geometric Intuition & Code",
+      "duration": 1257
+    },
+    {
+      "id": "NU37mF5q8VE",
+      "title": "Multiple Linear Regression | Part 2 | Mathematical Formulation From Scratch",
+      "duration": 2891
+    },
+    {
+      "id": "VmZWXzxmNrE",
+      "title": "Multiple Linear Regression | Part 3 | Code From Scratch",
+      "duration": 961
+    },
+    {
+      "id": "EmSNAtcHLm8",
+      "title": "What are the main Assumptions of Linear Regression? | Top 5 Assumptions of Linear Regression",
+      "duration": 1058
+    },
+    {
+      "id": "ORyfPJypKuU",
+      "title": "Gradient Descent From Scratch | End to End Gradient Descent | Gradient Descent Animation",
+      "duration": 7076
+    },
+    {
+      "id": "Jyo53pAyVAM",
+      "title": "Batch Gradient Descent with Code Demo | Simple Explanation in Hindi",
+      "duration": 3889
+    },
+    {
+      "id": "V7KBAa_gh4c",
+      "title": "Stochastic Gradient Descent",
+      "duration": 2975
+    },
+    {
+      "id": "_scscQ4HVTY",
+      "title": "Mini-Batch Gradient Descent",
+      "duration": 1330
+    },
+    {
+      "id": "BNWLf3cKdbQ",
+      "title": "Polynomial Regression | Machine Learning",
+      "duration": 1606
+    },
+    {
+      "id": "74DU02Fyrhk",
+      "title": "Bias Variance Trade-off | Overfitting and Underfitting in Machine Learning",
+      "duration": 485
+    },
+    {
+      "id": "aEow1QoTLo0",
+      "title": "Ridge Regression Part 1 | Geometric Intuition and Code | Regularized Linear Models",
+      "duration": 1198
+    },
+    {
+      "id": "oDlZBQjk_3A",
+      "title": "Ridge Regression Part 2 | Mathematical Formulation & Code from scratch | Regularized Linear Models",
+      "duration": 2621
+    },
+    {
+      "id": "Fci_wwMp8G8",
+      "title": "Ridge Regression Part 3 | Gradient Descent | Regularized Linear Models",
+      "duration": 1123
+    },
+    {
+      "id": "8osKeShYVRQ",
+      "title": "5 Key Points - Ridge Regression | Part 4 | Regularized Linear Models",
+      "duration": 1817
+    },
+    {
+      "id": "HLF4bFbBgwk",
+      "title": "Lasso Regression | Intuition and Code Sample | Regularized Linear Models",
+      "duration": 1717
+    },
+    {
+      "id": "FN4aZPIAfI4",
+      "title": "Why Lasso Regression creates sparsity?",
+      "duration": 1470
+    },
+    {
+      "id": "2g2DBkFhTTY",
+      "title": "ElasticNet Regression | Intuition and Code Example | Regularized Linear Models",
+      "duration": 701
+    },
+    {
+      "id": "XNXzVfItWGY",
+      "title": "Logistic Regression Part 1 | Perceptron Trick",
+      "duration": 2826
+    },
+    {
+      "id": "tLezwPKvPK4",
+      "title": "Logistic Regression Part 2 | Perceptron Trick Code",
+      "duration": 1027
+    },
+    {
+      "id": "ehO0-6i9qD4",
+      "title": "Logistic Regression Part 3 | Sigmoid Function | 100 Days of ML",
+      "duration": 2444
+    },
+    {
+      "id": "6bXOo0sxY5c",
+      "title": "Logistic Regression Part 4 | Loss Function | Maximum Likelihood | Binary Cross Entropy",
+      "duration": 1743
+    },
+    {
+      "id": "awjXaFR1jOM",
+      "title": "Derivative of Sigmoid Function",
+      "duration": 357
+    },
+    {
+      "id": "ABrrSwMYWSg",
+      "title": "Logistic Regression Part 5 | Gradient Descent & Code From Scratch",
+      "duration": 2202
+    },
+    {
+      "id": "c09drtuCS3c",
+      "title": "Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1",
+      "duration": 2048
+    },
+    {
+      "id": "iK-kdhJ-7yI",
+      "title": "Precision, Recall and F1 Score | Classification Metrics Part 2",
+      "duration": 2562
+    },
+    {
+      "id": "gdW6hj9IXaA",
+      "title": "ROC Curve in Machine Learning | ROC-AUC in Machine Learning Simplified | CampusX",
+      "duration": 4275
+    },
+    {
+      "id": "Z8noL_0M4tw",
+      "title": "Softmax Regression || Multinomial Logistic Regression || Logistic Regression Part 6",
+      "duration": 2301
+    },
+    {
+      "id": "WnBYW_DX3sM",
+      "title": "Polynomial Features in Logistic Regression | Non Linear Logistic Regression | Logistic Regression 7",
+      "duration": 551
+    },
+    {
+      "id": "ay_OcblJasE",
+      "title": "Logistic Regression Hyperparameters || Logistic Regression Part 8",
+      "duration": 787
+    },
+    {
+      "id": "Ty7knppVo9E",
+      "title": "Naive Bayes Classifier | Part 1 | Conditional Probability",
+      "duration": 566
+    },
+    {
+      "id": "0GD480CnrO4",
+      "title": "Naive Bayes Classifier | Part 2 | Independent Events in Probability",
+      "duration": 479
+    },
+    {
+      "id": "nneTjTYikBE",
+      "title": "Naive Bayes Classifier | Part 3 | Mutually Exclusive Events",
+      "duration": 109
+    },
+    {
+      "id": "Oqw-v-Z7PuU",
+      "title": "Naive Bayes Classifier | Part 4 | Bayes Theorem in Probability",
+      "duration": 267
+    },
+    {
+      "id": "aAEHjXDHtbE",
+      "title": "Naive Bayes Classifier | Part 5 | Problem based upon Bayes Theorem",
+      "duration": 540
+    },
+    {
+      "id": "ZR1_QtLk_4U",
+      "title": "Naive Bayes Classifier | Part 6 | Intuition",
+      "duration": 884
+    },
+    {
+      "id": "2PVRG45eVrY",
+      "title": "Naive Bayes Classifier | Part 7 | Mathematics behind Naive Bayes Algorithm",
+      "duration": 1149
+    },
+    {
+      "id": "DeeWsqoY4Eo",
+      "title": "Naive Bayes Classifier | Part 8 | Simple Example Code",
+      "duration": 963
+    },
+    {
+      "id": "TCgK2nBJx9o",
+      "title": "Naive Bayes Part 9 | Handling Numerical Data",
+      "duration": 527
+    },
+    {
+      "id": "abnL_GUGub4",
+      "title": "What is K Nearest Neighbors? | KNN Explained in Hindi | Simple Overview in 1 Video | CampusX",
+      "duration": 3121
+    },
+    {
+      "id": "ugTxMLjLS8M",
+      "title": "Support Vector Machines | Geometric Intuition",
+      "duration": 706
+    },
+    {
+      "id": "yCAlHPDgWtM",
+      "title": "Mathematics of SVM | Support Vector Machines | Hard margin SVM",
+      "duration": 2094
+    },
+    {
+      "id": "utqrvIFAE1k",
+      "title": "Mathematics of Support Vector Machine | Soft Margin SVM",
+      "duration": 878
+    },
+    {
+      "id": "egxjT0p7_K8",
+      "title": "Kernel Trick in SVM | Geometric Intuition",
+      "duration": 378
+    },
+    {
+      "id": "pjvmVMDrzVU",
+      "title": "Kernel Trick in SVM | Code Example",
+      "duration": 844
+    },
+    {
+      "id": "IZnno-dKgVQ",
+      "title": "Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain",
+      "duration": 3509
+    },
+    {
+      "id": "mDEV0Iucwz0",
+      "title": "Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees",
+      "duration": 1643
+    },
+    {
+      "id": "RANHxyAvtM4",
+      "title": "Regression Trees | Decision Trees Part 3",
+      "duration": 2115
+    },
+    {
+      "id": "SlMZqfvl5uw",
+      "title": "Awesome Decision Tree Visualization using dtreeviz library",
+      "duration": 1116
+    },
+    {
+      "id": "bHK1fE_BUms",
+      "title": "Introduction to Ensemble Learning | Ensemble Techniques in Machine Learning",
+      "duration": 2263
+    },
+    {
+      "id": "_W1i-c_6rOk",
+      "title": "Voting Ensemble |  Introduction and Core Idea | Part 1",
+      "duration": 990
+    },
+    {
+      "id": "pGQnNYdPTvY",
+      "title": "Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Voting | Part 2",
+      "duration": 1430
+    },
+    {
+      "id": "ut4vh59rGkw",
+      "title": "Voting Ensemble | Regression | Part 3",
+      "duration": 657
+    },
+    {
+      "id": "LUiBOAy7x6Y",
+      "title": "Bagging | Introduction | Part 1",
+      "duration": 1873
+    },
+    {
+      "id": "-1T54G_E-ys",
+      "title": "Bagging Ensemble | Part 2 | Bagging Classifiers",
+      "duration": 1352
+    },
+    {
+      "id": "HYVzrETXbkE",
+      "title": "Bagging Ensemble | Part 3 | Bagging Regressor",
+      "duration": 655
+    },
+    {
+      "id": "F9uESCHGjhA",
+      "title": "Introduction to Random Forest | Intuition behind the Algorithm",
+      "duration": 2035
+    },
+    {
+      "id": "jHgG4gjuFAk",
+      "title": "How Random Forest Performs So Well? Bias Variance Trade-Off in Random Forest",
+      "duration": 772
+    },
+    {
+      "id": "l93jRojZMqU",
+      "title": "Bagging Vs Random Forest | What is the difference between Bagging and Random Forest | Very Important",
+      "duration": 722
+    },
+    {
+      "id": "WOFVY_wQ9wU",
+      "title": "Random Forest Hyper-parameters",
+      "duration": 917
+    },
+    {
+      "id": "4Im0CT43QxY",
+      "title": "Hyperparameter Tuning Random Forest using GridSearchCV and RandomizedSearchCV | Code Example",
+      "duration": 704
+    },
+    {
+      "id": "tdDhyFoSG94",
+      "title": "OOB Score | Out of Bag Evaluation in Random Forest | Machine Learning",
+      "duration": 405
+    },
+    {
+      "id": "R47JAob1xBY",
+      "title": "Feature Importance using Random Forest and Decision Trees | How is Feature Importance calculated",
+      "duration": 1640
+    },
+    {
+      "id": "sFKnP0iP0K0",
+      "title": "How Adaboost Classifier Works? | Geometric Intuition",
+      "duration": 1034
+    },
+    {
+      "id": "RT0t9a3Xnfw",
+      "title": "AdaBoost - A Step by Step Explanation",
+      "duration": 1163
+    },
+    {
+      "id": "a20TaKNsriE",
+      "title": "AdaBoost Algorithm | Code from Scratch",
+      "duration": 987
+    },
+    {
+      "id": "JmXnztjULnQ",
+      "title": "AdaBoost Hyperparameters | GridSearchCV in Adaboost",
+      "duration": 673
+    },
+    {
+      "id": "7M5oWXCpDEw",
+      "title": "Bagging Vs Boosting | What is the difference between Bagging and Boosting",
+      "duration": 377
+    },
+    {
+      "id": "fbKz7N92mhQ",
+      "title": "Gradient Boosting Explained | How Gradient Boosting Works?",
+      "duration": 1969
+    },
+    {
+      "id": "nMNiTZm-qY0",
+      "title": "Gradient Boosting Regression Part 2 | Mathematics of Gradient Boosting",
+      "duration": 3402
+    },
+    {
+      "id": "4p5EQtyxSyI",
+      "title": "Gradient Boosting for Classification | Geometric Intuition | CampusX",
+      "duration": 3873
+    },
+    {
+      "id": "C6aDw4y8qJ0",
+      "title": "Introduction to XGBOOST | Machine Learning | CampusX",
+      "duration": 4777
+    },
+    {
+      "id": "gmp2tS2joaA",
+      "title": "XGBoost for Regression | XGBoost Part 2 | CampusX",
+      "duration": 2837
+    },
+    {
+      "id": "mELtxVUNNrw",
+      "title": "XGBoost For Classification | How XGBoost works on Classification Problems | CampusX",
+      "duration": 2348
+    },
+    {
+      "id": "0Eo-_5bfers",
+      "title": "The Maths Behind XGBoost | Machine Learning | CampusX",
+      "duration": 7048
+    },
+    {
+      "id": "O-aDHBGMqXA",
+      "title": "Stacking and Blending Ensembles",
+      "duration": 2120
+    },
+    {
+      "id": "5shTLzwAdEc",
+      "title": "K-Means Clustering Algorithm | Geometric Intuition | Clustering | Unsupervised Learning",
+      "duration": 1438
+    },
+    {
+      "id": "UPvv9SprgVo",
+      "title": "K-Means Clustering Algorithm in Python | Practical Example | Student Clustering Example | sklearn",
+      "duration": 613
+    },
+    {
+      "id": "MFraC1JObUo",
+      "title": "K-Means Clustering Algorithm From Scratch In Python | ML Algorithms From Scratch",
+      "duration": 2033
+    },
+    {
+      "id": "Ka5i9TVUT-E",
+      "title": "Agglomerative Hierarchical Clustering | Python Code Example",
+      "duration": 2243
+    },
+    {
+      "id": "1_bLnsNmhCI",
+      "title": "DBSCAN Clustering Algorithms | Density Based Clustering | How DBSCAN Works | CampusX",
+      "duration": 2056
+    },
+    {
+      "id": "yh2AKoJCV3k",
+      "title": "Imbalanced Data in Machine Learning | Undersampling | Oversampling | SMOTE",
+      "duration": 3437
+    },
+    {
+      "id": "E2b3SKMw934",
+      "title": "Hyperparameter Tuning using Optuna | Bayesian Optimization using Optuna",
+      "duration": 3563
+    }
+  ]
+}

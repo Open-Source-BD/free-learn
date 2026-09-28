@@ -1,0 +1,755 @@
+{
+  "courseId": "core-php-hindi-795dae",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:57.917Z",
+  "title": "Core PHP (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "Hqd8dZrw5bg",
+      "title": "Introduction to PHP (Hindi)",
+      "duration": 299
+    },
+    {
+      "id": "hpzOvtqZrqM",
+      "title": "What is Client and Server (Hindi)",
+      "duration": 279
+    },
+    {
+      "id": "hYOOOLMdBsA",
+      "title": "Client Server Architecture (Hindi)",
+      "duration": 136
+    },
+    {
+      "id": "u2cQhuDNtbM",
+      "title": "What is Web Browser and Web Server (Hindi)",
+      "duration": 316
+    },
+    {
+      "id": "_kT2wg_PEFc",
+      "title": "Web Server Architecture (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "whiiC9tCi2Y",
+      "title": "What is Web Application (Hindi)",
+      "duration": 210
+    },
+    {
+      "id": "12PB9V77fLo",
+      "title": "What is Website (Hindi)",
+      "duration": 106
+    },
+    {
+      "id": "WE8Z6984Qgs",
+      "title": "Type of Website (Hindi)",
+      "duration": 357
+    },
+    {
+      "id": "Kps6Yw8Pck4",
+      "title": "How PHP Works (Hindi)",
+      "duration": 373
+    },
+    {
+      "id": "-5AzqVQajPQ",
+      "title": "Development Environment for PHP (Hindi)",
+      "duration": 328
+    },
+    {
+      "id": "yPTeQnh4hY4",
+      "title": "How to Install XAMPP (Hindi)",
+      "duration": 497
+    },
+    {
+      "id": "yMZctJoWoo0",
+      "title": "How to Download and Install XAMPP in Windows 11 (Hindi)",
+      "duration": 437
+    },
+    {
+      "id": "ryIOMEK2GjA",
+      "title": "MySQL Replaced by MariaDB in XAMPP (Hindi)",
+      "duration": 512
+    },
+    {
+      "id": "ymTyVNHbM18",
+      "title": "How to Download Core PHP Notes",
+      "duration": 251
+    },
+    {
+      "id": "00pPkDqaxlk",
+      "title": "Basic Structure of PHP (Hindi)",
+      "duration": 212
+    },
+    {
+      "id": "Rcm2f7u7ELQ",
+      "title": "How to Run PHP on Local Server (Hindi)",
+      "duration": 779
+    },
+    {
+      "id": "gzMI0aia3zA",
+      "title": "Variable in PHP (Hindi)",
+      "duration": 582
+    },
+    {
+      "id": "ADWeXZ5BBbI",
+      "title": "Data Type in PHP (Hindi)",
+      "duration": 136
+    },
+    {
+      "id": "x1d0KoUPrwE",
+      "title": "echo Statement in PHP (Hindi)",
+      "duration": 1385
+    },
+    {
+      "id": "P1z4exBEOQ8",
+      "title": "print Statement in PHP (Hindi)",
+      "duration": 84
+    },
+    {
+      "id": "yqeTNOjaVqY",
+      "title": "Difference between print and echo in PHP (Hindi)",
+      "duration": 89
+    },
+    {
+      "id": "gtgfFFa1co8",
+      "title": "Here Document in PHP (Hindi)",
+      "duration": 350
+    },
+    {
+      "id": "zgT3K6IzibM",
+      "title": "Comments in PHP (Hindi)",
+      "duration": 622
+    },
+    {
+      "id": "f_Zv7CbC2Dk",
+      "title": "String Interpolation in PHP (Hindi)",
+      "duration": 1004
+    },
+    {
+      "id": "798W6giBLpM",
+      "title": "Constant in PHP (Hindi)",
+      "duration": 707
+    },
+    {
+      "id": "ypD0rAJRYPg",
+      "title": "Math Operators in PHP (Hindi)",
+      "duration": 292
+    },
+    {
+      "id": "-2dCRlkmC7I",
+      "title": "Math Function in PHP (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "cP5NRORfIw4",
+      "title": "Assignment Operators in PHP (Hindi)",
+      "duration": 336
+    },
+    {
+      "id": "T6ULdzlYWXk",
+      "title": "If Statement and Nested if Statement in PHP (Hindi)",
+      "duration": 1053
+    },
+    {
+      "id": "iwTTEu1uTA8",
+      "title": "if else and Nested if else Statement in PHP (Hindi)",
+      "duration": 958
+    },
+    {
+      "id": "B-SLNdAqlAE",
+      "title": "Relational Operators in PHP (Hindi)",
+      "duration": 617
+    },
+    {
+      "id": "PeP8HVwAbPU",
+      "title": "Difference between Single Equal Double Equal and Triple Equal in PHP (Hindi)",
+      "duration": 483
+    },
+    {
+      "id": "BrZqH-48cAo",
+      "title": "Difference between Not Equal and Not Identical in PHP (Hindi)",
+      "duration": 449
+    },
+    {
+      "id": "sQ8fqFlwJbY",
+      "title": "Spaceship in PHP (Hindi)",
+      "duration": 296
+    },
+    {
+      "id": "Afcn-K-rzE8",
+      "title": "Logical Operators in PHP (Hindi)",
+      "duration": 767
+    },
+    {
+      "id": "l4E3ZH5yN30",
+      "title": "Increment and Decrement Operators in PHP (Hindi)",
+      "duration": 399
+    },
+    {
+      "id": "O1X82TuUhJk",
+      "title": "String Operators in PHP (Hindi)",
+      "duration": 219
+    },
+    {
+      "id": "aueYi882nZU",
+      "title": "Operator Precedence in PHP (Hindi)",
+      "duration": 344
+    },
+    {
+      "id": "xVtaaZh7iZI",
+      "title": "ElseIf Statement in PHP (Hindi)",
+      "duration": 582
+    },
+    {
+      "id": "bhhDXG5FAt0",
+      "title": "Ternary or Conditional Operator in PHP (Hindi)",
+      "duration": 213
+    },
+    {
+      "id": "ySFDgzr1otM",
+      "title": "Switch Statement in PHP (Hindi)",
+      "duration": 881
+    },
+    {
+      "id": "cqAqhmPR8Fc",
+      "title": "While Loop in PHP (Hindi)",
+      "duration": 1170
+    },
+    {
+      "id": "XkI_eDt0c4s",
+      "title": "Nested While Loop in PHP (Hindi)",
+      "duration": 849
+    },
+    {
+      "id": "iXPYUZp_yYI",
+      "title": "Do While Loop in PHP (Hindi)",
+      "duration": 455
+    },
+    {
+      "id": "gMDWEyusgDY",
+      "title": "Nested Do While Loop in PHP (Hindi)",
+      "duration": 568
+    },
+    {
+      "id": "tCQjST3zvgY",
+      "title": "For Loop in PHP (Hindi)",
+      "duration": 595
+    },
+    {
+      "id": "bwdQHYpk8qc",
+      "title": "Nested For Loop in PHP (Hindi)",
+      "duration": 829
+    },
+    {
+      "id": "SLWOi8XggJA",
+      "title": "Break and Continue Statement in PHP (Hindi)",
+      "duration": 780
+    },
+    {
+      "id": "xfeuXT9gnQ8",
+      "title": "Array and Its Type in PHP (Hindi)",
+      "duration": 542
+    },
+    {
+      "id": "4T1zn5aPtqQ",
+      "title": "Numeric Array in PHP (Hindi)",
+      "duration": 1061
+    },
+    {
+      "id": "C5lFA0jv6KM",
+      "title": "Create Array using Array Function in PHP (Hindi)",
+      "duration": 482
+    },
+    {
+      "id": "5Q5ZLVjlnVc",
+      "title": "Double Arrow Operator in PHP (Hindi)",
+      "duration": 362
+    },
+    {
+      "id": "TqgDDUXjPAQ",
+      "title": "Associative Array in PHP (Hindi)",
+      "duration": 952
+    },
+    {
+      "id": "XYyfbgSxxcU",
+      "title": "Modifying and Deleting Array Element using unset Function in PHP (Hindi)",
+      "duration": 433
+    },
+    {
+      "id": "hcNfxku74gM",
+      "title": "Copy an Array in Array in PHP (Hindi)",
+      "duration": 204
+    },
+    {
+      "id": "U0ss7T-0WWg",
+      "title": "count Function in PHP (Hindi)",
+      "duration": 287
+    },
+    {
+      "id": "z5P6yVbOrqo",
+      "title": "for Loop with Numeric Array in PHP (Hindi)",
+      "duration": 693
+    },
+    {
+      "id": "Af57qLDcj5w",
+      "title": "array_keys Function in PHP (Hindi)",
+      "duration": 652
+    },
+    {
+      "id": "jzOkacumji8",
+      "title": "for Loop with Associative Array in PHP (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "kd0_7NFSlWo",
+      "title": "foreach Loop with Numeric Array in PHP (Hindi)",
+      "duration": 871
+    },
+    {
+      "id": "kNIpYJTDkqQ",
+      "title": "foreach Loop with Associative Array in PHP (Hindi)",
+      "duration": 415
+    },
+    {
+      "id": "ALNhsI2Dpf0",
+      "title": "While Loop with Numeric Array in PHP (Hindi)",
+      "duration": 425
+    },
+    {
+      "id": "EwfGPsYG1rU",
+      "title": "While Loop with Associative Array in PHP (Hindi)",
+      "duration": 610
+    },
+    {
+      "id": "JGaPRzWiM60",
+      "title": "print_r Function in PHP (Hindi)",
+      "duration": 345
+    },
+    {
+      "id": "0Yaw11X_rvA",
+      "title": "Array Operators in PHP (Hindi)",
+      "duration": 1372
+    },
+    {
+      "id": "l1ksN3kREbA",
+      "title": "Multidimensional Array in PHP (Hindi)",
+      "duration": 883
+    },
+    {
+      "id": "lQsAYfWsMgY",
+      "title": "foreach Loop with Multi D Numeric Array in PHP (Hindi)",
+      "duration": 821
+    },
+    {
+      "id": "G1gmbMDYOVI",
+      "title": "foreach Loop with Multi D Associative Array in PHP (Hindi)",
+      "duration": 566
+    },
+    {
+      "id": "jr3CjK10laU",
+      "title": "for Loop with Multi D Numeric Array in PHP (Hindi)",
+      "duration": 529
+    },
+    {
+      "id": "rjzfR2gIej8",
+      "title": "for Loop with Multi D associative Array in PHP (Hindi)",
+      "duration": 723
+    },
+    {
+      "id": "BlSlJNulc6w",
+      "title": "String in PHP (Hindi)",
+      "duration": 295
+    },
+    {
+      "id": "YKPbM-yJOZY",
+      "title": "Access Character in PHP (Hindi)",
+      "duration": 217
+    },
+    {
+      "id": "W8I4ZbAplOo",
+      "title": "Difference between Single Quote and Double Quote in PHP (Hindi)",
+      "duration": 742
+    },
+    {
+      "id": "KiLHGA4DEy8",
+      "title": "Escape Sequence in PHP (Hindi)",
+      "duration": 195
+    },
+    {
+      "id": "wcKf9XCFupo",
+      "title": "Difference between heredoc and nowdoc in PHP (Hindi)",
+      "duration": 596
+    },
+    {
+      "id": "HNjnZ_8k2GI",
+      "title": "String Functions in PHP (Hindi)",
+      "duration": 395
+    },
+    {
+      "id": "265ldyDTL_Q",
+      "title": "Formatting String in PHP (Hindi)",
+      "duration": 189
+    },
+    {
+      "id": "AUvMPtuKPC8",
+      "title": "printf Function in PHP (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "NqnpkhfMalg",
+      "title": "Conversion Specifications in PHP (Hindi)",
+      "duration": 78
+    },
+    {
+      "id": "Z8f8C-CcaDY",
+      "title": "Type Specifiers in PHP (Hindi)",
+      "duration": 892
+    },
+    {
+      "id": "oFGbhzYL0SA",
+      "title": "Position Specifier in PHP (Hindi)",
+      "duration": 604
+    },
+    {
+      "id": "EYYpNdcCvwo",
+      "title": "Sign Specifier in PHP (Hindi)",
+      "duration": 225
+    },
+    {
+      "id": "AWi780pLt9o",
+      "title": "Width Specifier in PHP (Hindi)",
+      "duration": 306
+    },
+    {
+      "id": "D5-mdzmdXeM",
+      "title": "Padding Specifier in PHP (Hindi)",
+      "duration": 453
+    },
+    {
+      "id": "SQLvBLJ-pQI",
+      "title": "Alignment Specifier in PHP (Hindi)",
+      "duration": 105
+    },
+    {
+      "id": "cTERwRAhAe4",
+      "title": "Precision Specifier in PHP (Hindi)",
+      "duration": 724
+    },
+    {
+      "id": "pPajdc1w7d0",
+      "title": "sprintf Function in PHP (Hindi)",
+      "duration": 322
+    },
+    {
+      "id": "AjTtSmbwOsY",
+      "title": "Function in PHP (Hindi)",
+      "duration": 275
+    },
+    {
+      "id": "4IRsKRkY7SI",
+      "title": "Creating and Calling a Function in PHP (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "sxFHoLxyxfw",
+      "title": "How Function Call Work in PHP (Hindi)",
+      "duration": 372
+    },
+    {
+      "id": "SWbIn6mXVLQ",
+      "title": "Function with Parameter in PHP (Hindi)",
+      "duration": 564
+    },
+    {
+      "id": "3BQ5nXNdi4Q",
+      "title": "Default Arguments in PHP (Hindi)",
+      "duration": 1676
+    },
+    {
+      "id": "1AxqRJQL3wI",
+      "title": "Return Statement in PHP (Hindi)",
+      "duration": 496
+    },
+    {
+      "id": "2BrmpgtOEm8",
+      "title": "Type Declaration in PHP (Hindi)",
+      "duration": 448
+    },
+    {
+      "id": "7Y8b3Y0pnGU",
+      "title": "Scalar Type Declaration Coercive Mode in PHP (Hindi)",
+      "duration": 1035
+    },
+    {
+      "id": "jnxH2vThPys",
+      "title": "Scalar Type Declaration Strict Mode in PHP (Hindi)",
+      "duration": 597
+    },
+    {
+      "id": "PzB8oLy7nNE",
+      "title": "Return Type Declaration in PHP (Hindi)",
+      "duration": 815
+    },
+    {
+      "id": "pPZE-EQZJkw",
+      "title": "Pass by Value in PHP (Hindi)",
+      "duration": 356
+    },
+    {
+      "id": "wUGmBkRboKI",
+      "title": "Pass by Reference in PHP (Hindi)",
+      "duration": 304
+    },
+    {
+      "id": "-YRvH0ZPZto",
+      "title": "Passing Array to Function in PHP (Hindi)",
+      "duration": 349
+    },
+    {
+      "id": "lCt_A7k-9Tk",
+      "title": "Returning Array from Function in PHP (Hindi)",
+      "duration": 329
+    },
+    {
+      "id": "MdVhcwOZ5Yo",
+      "title": "Local Variable in PHP (Hindi)",
+      "duration": 293
+    },
+    {
+      "id": "sorvk-DAI4g",
+      "title": "Global Variable in PHP (Hindi)",
+      "duration": 218
+    },
+    {
+      "id": "3kBjwnvgtdA",
+      "title": "Static Variable in PHP (Hindi)",
+      "duration": 365
+    },
+    {
+      "id": "Eyj_NO1D2CY",
+      "title": "Super Global Variable in PHP (Hindi)",
+      "duration": 440
+    },
+    {
+      "id": "ltXAbExFwRk",
+      "title": "Conditional Function in PHP (Hindi)",
+      "duration": 222
+    },
+    {
+      "id": "qNiSMwJcg4k",
+      "title": "Calling Function with Condition in PHP (Hindi)",
+      "duration": 109
+    },
+    {
+      "id": "oIlTpnqL6FQ",
+      "title": "Variable Function in PHP (Hindi)",
+      "duration": 216
+    },
+    {
+      "id": "5XnlUR4eXq0",
+      "title": "Nesting of Function in PHP (Hindi)",
+      "duration": 265
+    },
+    {
+      "id": "mo4s7q-3IxI",
+      "title": "Recursive Function in PHP (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "nszioFwgHGI",
+      "title": "Returning Error from Function using die in PHP (Hindi)",
+      "duration": 406
+    },
+    {
+      "id": "6rEi-qSnhM0",
+      "title": "Anonymous Function in PHP (Hindi)",
+      "duration": 980
+    },
+    {
+      "id": "8CDSomRMkOY",
+      "title": "Passing Anonymous Function as Argument in PHP (Hindi)",
+      "duration": 693
+    },
+    {
+      "id": "cwLwaXaN91g",
+      "title": "Returning Anonymous Function in PHP (Hindi)",
+      "duration": 907
+    },
+    {
+      "id": "N5rHCHvppBU",
+      "title": "File Handling in PHP (Hindi)",
+      "duration": 106
+    },
+    {
+      "id": "hOqlL-aex1Y",
+      "title": "Opening a File in PHP (Hindi)",
+      "duration": 1204
+    },
+    {
+      "id": "_jNXhmhaLwE",
+      "title": "Reading a File in PHP (Hindi)",
+      "duration": 481
+    },
+    {
+      "id": "dX42PeSg3bA",
+      "title": "Closing a File in PHP (Hindi)",
+      "duration": 115
+    },
+    {
+      "id": "6q7uDTTEtyI",
+      "title": "Reading a File Character by Character in PHP (Hindi)",
+      "duration": 573
+    },
+    {
+      "id": "hAEFVFKY6Xc",
+      "title": "Reading a Whole File at Once in PHP (Hindi)",
+      "duration": 532
+    },
+    {
+      "id": "IrJc5ZUuVRg",
+      "title": "Reading a File into an Array in PHP (Hindi)",
+      "duration": 397
+    },
+    {
+      "id": "NLQPto-z0Pc",
+      "title": "Checking if a File Exists in PHP (Hindi)",
+      "duration": 350
+    },
+    {
+      "id": "uFMHB581Oz8",
+      "title": "File Size in PHP (Hindi)",
+      "duration": 110
+    },
+    {
+      "id": "wRozOEy7Mbg",
+      "title": "Reading Binary Reads in PHP (Hindi)",
+      "duration": 280
+    },
+    {
+      "id": "soezMA2-xAw",
+      "title": "Getting File Info in PHP (Hindi)",
+      "duration": 211
+    },
+    {
+      "id": "nCW8Jfkl7OA",
+      "title": "Copy File in PHP (Hindi)",
+      "duration": 297
+    },
+    {
+      "id": "A6dnn1FvJFE",
+      "title": "Delete a File in PHP (Hindi)",
+      "duration": 218
+    },
+    {
+      "id": "3sS-QAKw5m0",
+      "title": "Writing to a File in PHP (Hindi)",
+      "duration": 520
+    },
+    {
+      "id": "nyP4RegInWs",
+      "title": "Appending to Files in PHP (Hindi)",
+      "duration": 121
+    },
+    {
+      "id": "JGeaQNv3qJU",
+      "title": "Writing a File All at Once in PHP (Hindi)",
+      "duration": 543
+    },
+    {
+      "id": "jMmgvzHKXgw",
+      "title": "Visual Studio Code Crash Course (Hindi)",
+      "duration": 3559
+    },
+    {
+      "id": "VP12E_Q3_Ag",
+      "title": "Emmet Crash Course (Hindi)",
+      "duration": 2377
+    },
+    {
+      "id": "QDLyNbvSvCc",
+      "title": "HTML CSS and JavaScript with PHP (Hindi)",
+      "duration": 1030
+    },
+    {
+      "id": "LO5fpc4GDXY",
+      "title": "Form Tag in PHP (Hindi)",
+      "duration": 949
+    },
+    {
+      "id": "TLtATAcwLVU",
+      "title": "GET and POST in PHP (Hindi)",
+      "duration": 519
+    },
+    {
+      "id": "jdOj7-pXgbY",
+      "title": "How to Access Data in Server in PHP (Hindi)",
+      "duration": 844
+    },
+    {
+      "id": "ZF2O5iex-Rg",
+      "title": "Handle Text Field in PHP (Hindi)",
+      "duration": 928
+    },
+    {
+      "id": "pczH0Kay-qk",
+      "title": "Handle Password Field in PHP (Hindi)",
+      "duration": 1244
+    },
+    {
+      "id": "YAKAUORB0rk",
+      "title": "isset Function in PHP (Hindi)",
+      "duration": 359
+    },
+    {
+      "id": "IbIf7xKjnMc",
+      "title": "Handle Checkbox in PHP (Hindi)",
+      "duration": 719
+    },
+    {
+      "id": "zU6BPcSOzXI",
+      "title": "Handle Radio Button in PHP (Hindi)",
+      "duration": 537
+    },
+    {
+      "id": "xZA8yWc-I5E",
+      "title": "Handle ListBox in PHP (Hindi)",
+      "duration": 385
+    },
+    {
+      "id": "tccEeE16oJI",
+      "title": "Handle TextArea in PHP (Hindi)",
+      "duration": 360
+    },
+    {
+      "id": "_b4iLJ0VtbI",
+      "title": "Handle Date in PHP (Hindi)",
+      "duration": 598
+    },
+    {
+      "id": "dTLu7PpZAkM",
+      "title": "Handle Files in PHP (Hindi)",
+      "duration": 1122
+    },
+    {
+      "id": "FECeMyVuCxw",
+      "title": "Retrieve Form Data at Once in PHP (Hindi)",
+      "duration": 492
+    },
+    {
+      "id": "EhNwjNh59eA",
+      "title": "Retrieve Form Data in same Page in PHP (Hindi)",
+      "duration": 915
+    },
+    {
+      "id": "3xeY130aUTU",
+      "title": "Form Validation in PHP (Hindi)",
+      "duration": 576
+    },
+    {
+      "id": "2MMUScdXrng",
+      "title": "Final Core PHP Video What Next",
+      "duration": 193
+    }
+  ]
+}

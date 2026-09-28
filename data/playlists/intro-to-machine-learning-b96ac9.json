@@ -1,0 +1,85 @@
+{
+  "courseId": "intro-to-machine-learning-b96ac9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHioMKxmCxzpXdNfLE4TVjD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:09.360Z",
+  "title": "Intro to Machine Learning",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "hhJdGBO7sb0",
+      "title": "What is Unsupervised | Intro to Machine Learning | Data Science | NADOS",
+      "duration": 1122
+    },
+    {
+      "id": "VJW8U8Njkq4",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "xsgR_FHhKb8",
+      "title": "What is Machine Learning,Why Machine Learning,Types of Machine Learning  |  Chapter 1 | Data Science",
+      "duration": 2221
+    },
+    {
+      "id": "aGteQRExCjs",
+      "title": "Challenges in Machine Learning  |  Chapter 1 | Data Science | NADOS",
+      "duration": 814
+    },
+    {
+      "id": "166iZjiLY9U",
+      "title": "OverFitting and under Fitting  |  Chapter 1 | Data Science | NADOS",
+      "duration": 478
+    },
+    {
+      "id": "uTmbEVpJwPw",
+      "title": "Testing and Validation  |  Chapter 1 | Data Science | NADOS",
+      "duration": 589
+    },
+    {
+      "id": "kj36ZGM0biw",
+      "title": "End to End ML Project  |  Chapter 2 | Data Science | NADOS",
+      "duration": 4883
+    },
+    {
+      "id": "WuhaalD8Ego",
+      "title": "Cross Validation  |  Chapter 2 | Data Science | NADOS",
+      "duration": 558
+    },
+    {
+      "id": "gsPtOB2vqbQ",
+      "title": "Grid Search, Randomised Search  |  Chapter 2 | Data Science | NADOS",
+      "duration": 1108
+    },
+    {
+      "id": "wyzikFLh_b8",
+      "title": "What is Classification | Training a Binary Classifier  | Chapter 3 | Data Science | NADOS",
+      "duration": 1476
+    },
+    {
+      "id": "KZ6rHIRSHKw",
+      "title": "Confusion Matrix : TPR, FPR  | Chapter 3 | Data Science | NADOS",
+      "duration": 1960
+    },
+    {
+      "id": "BvPOaG7CTY4",
+      "title": "Precision, recall and F1 Score  | Chapter 3 | Data Science | NADOS",
+      "duration": 1151
+    },
+    {
+      "id": "suhY8d1hO9U",
+      "title": "Precision-Recall Tradeoff  | Chapter 3 | Data Science | NADOS",
+      "duration": 1888
+    },
+    {
+      "id": "WA03YjtfkYg",
+      "title": "Roc and AUC Curve  | Chapter 3 | Data Science | NADOS",
+      "duration": 957
+    },
+    {
+      "id": "q-gIL-20N_U",
+      "title": "Multiclass Classification : One vs One and One vs All  | Chapter 3 | Data Science | NADOS",
+      "duration": 1487
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "courseId": "matlab-hindi-tutorial-series-23e2c1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6G0RjixRx3xgzxqjRdZIoLLpzhyLFTXk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:49.129Z",
+  "title": "MATLAB (HINDI) Tutorial Series",
+  "channel": "WittyRobo",
+  "videos": [
+    {
+      "id": "tfF8eaRm5aM",
+      "title": "MATLAB (HINDI) Part 01 : Language Basics: Matrices and Arrays",
+      "duration": 3011
+    },
+    {
+      "id": "ls8H-wnYTyQ",
+      "title": "MATLAB (HINDI) Part 02 : Scripts and Plotting Functions",
+      "duration": 4052
+    },
+    {
+      "id": "ng9Hdzz4CeA",
+      "title": "MATLAB (HINDI) Part 03 : Thinking logically: 2D Matrices: Black and White Images",
+      "duration": 6049
+    },
+    {
+      "id": "ZiDuVWq0R2c",
+      "title": "MATLAB (HINDI) Part 04 : Thinking logically: 3D Matrices: Coloured Images",
+      "duration": 4395
+    },
+    {
+      "id": "-KYL49SjFyM",
+      "title": "MATLAB (HINDI) Part 05 : Developing a GUI Tool: ROI Editor for TL_RAM Robot",
+      "duration": 4085
+    }
+  ]
+}

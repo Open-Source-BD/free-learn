@@ -1,0 +1,365 @@
+{
+  "courseId": "information-and-cyber-security-fc8208",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:28.967Z",
+  "title": "Information And Cyber Security",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "CrLRFn5O_F8",
+      "title": "Security Goals : Confidentiality,Integrity,Availability Explained in Hindi",
+      "duration": 392
+    },
+    {
+      "id": "lvARQKJnwp0",
+      "title": "Elements Of Information Security ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 598
+    },
+    {
+      "id": "cMOWZkYVleg",
+      "title": "Security Policy ll Information And Cyber Security Course Explained in Hindi",
+      "duration": 566
+    },
+    {
+      "id": "szHSgMWYSiQ",
+      "title": "Security Attacks : Active and Passive Attack ll Passive Attack Types Explained in Hindi",
+      "duration": 490
+    },
+    {
+      "id": "tSkh7zqbQwg",
+      "title": "Security Attacks : Types Of Active Attacks Explained in Hindi",
+      "duration": 566
+    },
+    {
+      "id": "mjaY0ExSmFU",
+      "title": "Active Attack Vs Passive Attack ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 377
+    },
+    {
+      "id": "KOv4csT0W1s",
+      "title": "Security Mechanisms ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 635
+    },
+    {
+      "id": "THSF3aiww7E",
+      "title": "Security Services ll Categories ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 504
+    },
+    {
+      "id": "BdDd_Ez4iZs",
+      "title": "Basics Of Network Security ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 451
+    },
+    {
+      "id": "V0d5VdTIz_c",
+      "title": "Network Security Model ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 557
+    },
+    {
+      "id": "fKFKThuUdnI",
+      "title": "Symmetric Key Cryptography ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 462
+    },
+    {
+      "id": "yvf3lgBxdrA",
+      "title": "Asymmetric Key Cryptography ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 546
+    },
+    {
+      "id": "H7w4ZmaFzfg",
+      "title": "Symmetric Key Cryptography Vs Asymmetric Key Cryptography Explained in Hindi",
+      "duration": 331
+    },
+    {
+      "id": "dOKXCCwlwCk",
+      "title": "Stream Cipher ll Information and Cyber Security ll Explained with Example in Hindi",
+      "duration": 422
+    },
+    {
+      "id": "aGxdQxO0nEo",
+      "title": "Block Cipher ll Information and Cyber Security Course  Explained in Hindi",
+      "duration": 362
+    },
+    {
+      "id": "euVke4djgDg",
+      "title": "Caesar Cipher Explained with Solved Example ll Information and Cyber Security Course in Hindi",
+      "duration": 767
+    },
+    {
+      "id": "jS8u6bX6Xi4",
+      "title": "PlayFair Cipher ll Basics Of Playfair Cipher Explained with Solved Example in Hindi",
+      "duration": 677
+    },
+    {
+      "id": "IyYRfPaxaFk",
+      "title": "PlayFair Cipher Explained with Solved Example in Hindi",
+      "duration": 603
+    },
+    {
+      "id": "VFMSnDZ7FEI",
+      "title": "One Time Pad (Vernam Cipher) Encryption Explained with Solved Example in Hindi",
+      "duration": 540
+    },
+    {
+      "id": "rlrpcNYNPBY",
+      "title": "One Time Pad Cipher Decryption Explained With Example in Hindi l Information and Cyber Security",
+      "duration": 304
+    },
+    {
+      "id": "-UgLXx-RIKE",
+      "title": "Autokey Cipher Encryption and Decryption Explained with Solved Example in Hindi",
+      "duration": 612
+    },
+    {
+      "id": "KczOjHHb5Nw",
+      "title": "Columnar Transposition Technique Encryption Explained with Solved Example in Hindi",
+      "duration": 460
+    },
+    {
+      "id": "j7QdpHO5N8U",
+      "title": "Transposition Cipher ll Keyless Transposition Technique Explained with Solved Example in Hindi",
+      "duration": 230
+    },
+    {
+      "id": "BdyGcVH9fS4",
+      "title": "Basics of Steganography ll Information and Cyber Security Course Explained with Examples In Hindi",
+      "duration": 565
+    },
+    {
+      "id": "It0KU1kyMUQ",
+      "title": "Block Cipher Mode : Electronic Codebook (ECB) Mode Explained in Hindi",
+      "duration": 477
+    },
+    {
+      "id": "fueyWs92cvs",
+      "title": "Block Cipher Mode : Cipher Block Chaining (cbc)  Mode Explained in Hindi",
+      "duration": 458
+    },
+    {
+      "id": "QqcctEPQKuU",
+      "title": "Block Cipher Modes : Cipher Feedback Mode Explained in Hindi l Information and Cyber Security Course",
+      "duration": 669
+    },
+    {
+      "id": "pypos_NnLfM",
+      "title": "Block Cipher Modes : Output Feedback Mode Explained in Hindi l Information and Cyber Security Course",
+      "duration": 355
+    },
+    {
+      "id": "6X1GkaJpBj0",
+      "title": "Block Cipher Modes : Counter (CTR) Mode Explained in Hindi ll Information and Cyber Security Course",
+      "duration": 290
+    },
+    {
+      "id": "uVeChiA_yv0",
+      "title": "Feistel Cipher Explained in Hindi ll Information and Cyber Security Course",
+      "duration": 483
+    },
+    {
+      "id": "O3JnMMugG44",
+      "title": "Modular Arithmetic Part-1 Explained with Examples in Hindi",
+      "duration": 487
+    },
+    {
+      "id": "wvGicFDnIHE",
+      "title": "Modular Arithmetic Part-2 Explained with Examples in Hindi",
+      "duration": 371
+    },
+    {
+      "id": "0uRL3ymzWig",
+      "title": "Euler's Toient Function Explained with Examples in Hindi",
+      "duration": 506
+    },
+    {
+      "id": "1pNNst2gFII",
+      "title": "Multiplicative Inverse Explained with Examples in Hindi",
+      "duration": 434
+    },
+    {
+      "id": "y7sk9XIGdws",
+      "title": "Euler's Theorem Explained with Examples in Hindi",
+      "duration": 434
+    },
+    {
+      "id": "N0aLkfJaX1E",
+      "title": "Fermat's Theorem Explained with Examples in Hindi",
+      "duration": 437
+    },
+    {
+      "id": "Qv4NXy5F5IY",
+      "title": "RSA Algorithm Part-1 Explained With Solved Example in Hindi",
+      "duration": 862
+    },
+    {
+      "id": "-Fsf0ZVjJ4Y",
+      "title": "RSA Algorithm Part-2 Explained with Solved Example in Hindi",
+      "duration": 300
+    },
+    {
+      "id": "kegrmlWbFQQ",
+      "title": "RSA Algorithm Part-3 Explained with Solved Example in Hindi",
+      "duration": 535
+    },
+    {
+      "id": "yUeI4nqvNs8",
+      "title": "Basics Of Digital Signature Explained in Hindi",
+      "duration": 481
+    },
+    {
+      "id": "xwtZBLxbjaU",
+      "title": "IP Security Architecture ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 344
+    },
+    {
+      "id": "V0tk99kA_i8",
+      "title": "Security Association (SA) and It's Associated Parameters Explained in Hindi",
+      "duration": 425
+    },
+    {
+      "id": "QLuJYzcWbmM",
+      "title": "IP Security Modes : Transport Mode and Tunnel Mode Explained in Hindi",
+      "duration": 326
+    },
+    {
+      "id": "baTcW5ofgFo",
+      "title": "IP Security Protocol : Authentication Header (AH) Explained in Hindi",
+      "duration": 352
+    },
+    {
+      "id": "-TAaml6fImY",
+      "title": "Mode Of Operation Of Authentication Header (AH)  Explained in Hindi",
+      "duration": 325
+    },
+    {
+      "id": "EPVwhLFT0tY",
+      "title": "IP Security Protocol : Encapsulating Security Payload (ESP) Explained in Hindi",
+      "duration": 417
+    },
+    {
+      "id": "SFT4fBIKskM",
+      "title": "Mode Of Operation Of Encapsulating Security Payload (ESP) : Transport Mode and Tunnel Mode Explained",
+      "duration": 396
+    },
+    {
+      "id": "SXErMCgrT0o",
+      "title": "Secure Socket Layer (SSL) ll SSL Protocol Stack Explained in Hindi",
+      "duration": 524
+    },
+    {
+      "id": "bm8mB8zYST0",
+      "title": "SSL Record Protocol Detailed Explanation in Hindi",
+      "duration": 491
+    },
+    {
+      "id": "Nh5jdNxPL7g",
+      "title": "SSL Handshake Protocol ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 417
+    },
+    {
+      "id": "yeiU5SRSBjU",
+      "title": "SSL Alert Protocol ll Information and Cyber Security Course Explained in Hindi",
+      "duration": 265
+    },
+    {
+      "id": "xv5lwFxxUw0",
+      "title": "Hill Cipher Encryption Explained in Detail with Solved Example in Hindi",
+      "duration": 688
+    },
+    {
+      "id": "QakKuZQ4xsw",
+      "title": "What is Firewall A Brief Explanation in Hindi",
+      "duration": 255
+    },
+    {
+      "id": "Yi2HfNySPUk",
+      "title": "Types Of Firewall : Packet Filtering and Application-Level Gateway (Proxy Server) Explained (Hindi)",
+      "duration": 589
+    },
+    {
+      "id": "R1mF7Mxfynk",
+      "title": "Intrusion Detection System (IDS) ll Types Of Intruder Explained in Hindi",
+      "duration": 418
+    },
+    {
+      "id": "3xfLPBjs5BU",
+      "title": "IDS Detection Methods /Techniques : Signature Based IDS and Anomaly Based IDS in Hindi",
+      "duration": 428
+    },
+    {
+      "id": "UdP39Ke9cTs",
+      "title": "Types Of IDS : Network Based IDS (NIDS) and Host Based IDS (HIDS) Explained in Hindi",
+      "duration": 520
+    },
+    {
+      "id": "8B1rN1rnTiU",
+      "title": "DES ( Data Encryption Standard ) Algorithm Part -1 Explained in Hindi l Network Security",
+      "duration": 367
+    },
+    {
+      "id": "sL0gD1N-kfM",
+      "title": "DES ( Data Encryption Standard ) Algorithm Part-2 Explained in Hindi l Network Security",
+      "duration": 348
+    },
+    {
+      "id": "6Sycf0wI_q8",
+      "title": "DES (Data Encryption Standard) Algorithm Part-3 Explained in Hindi l Network Security",
+      "duration": 383
+    },
+    {
+      "id": "khFqzQVuYRQ",
+      "title": "DES (Data Encryption Standard) Algorithm Part-4 Explained in Hindi l Network Security",
+      "duration": 354
+    },
+    {
+      "id": "o-MZgVJP-rI",
+      "title": "Advanced Encryption Standard (AES) Algorithm Part-1 Explained in Hindi",
+      "duration": 386
+    },
+    {
+      "id": "FRWkzxI1Fcw",
+      "title": "Advanced Encryption Standard (AES) Algorithm Part-2 Explained in Hindi",
+      "duration": 299
+    },
+    {
+      "id": "4Kfasc_wN-U",
+      "title": "Advanced Encryption Standard (AES) Algorithm Part-3 Explained in Hindi",
+      "duration": 500
+    },
+    {
+      "id": "dkmR5k_UJ-0",
+      "title": "Advanced Encryption Standard (AES) Algorithm Part-4 Explained in Hindi",
+      "duration": 370
+    },
+    {
+      "id": "RKp2gnrF_9c",
+      "title": "SHA-1 (Secure Hash Algorithm - 1) Part-1 Working Explained in Hindi",
+      "duration": 652
+    },
+    {
+      "id": "j8SCxp8ROOA",
+      "title": "SHA-1 (Secure Hash Algorithm - 1) Part-2 Working Explained in Hindi",
+      "duration": 773
+    },
+    {
+      "id": "OHUps89pDns",
+      "title": "Brute Force Attack Explained in Hindi l Information and Cyber Security",
+      "duration": 466
+    },
+    {
+      "id": "eaVBvrhwbk0",
+      "title": "Malware and its types l Virus, Worms, Trojan, Ransomware, Adware and Spyware Explained in Hindi",
+      "duration": 548
+    },
+    {
+      "id": "ZQvq_nlGq7g",
+      "title": "Cybersecurity Fundamentals One Shot | Semester Exam | AKTU VTU SPPU MU Anna RGPV GTU KTU Hindi",
+      "duration": 3656
+    },
+    {
+      "id": "9EqWxnhAycE",
+      "title": "Information Security Fundamentals One Shot | Semester Exam | AKTU VTU JNTU SPPU MU  RGPV GTU Hindi",
+      "duration": 3865
+    }
+  ]
+}

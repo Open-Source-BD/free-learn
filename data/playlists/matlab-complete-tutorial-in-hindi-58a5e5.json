@@ -1,0 +1,645 @@
+{
+  "courseId": "matlab-complete-tutorial-in-hindi-58a5e5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:52.387Z",
+  "title": "MATLAB Complete Tutorial in Hindi | MATLAB for Beginner",
+  "channel": "WsCube Tech",
+  "videos": [
+    {
+      "id": "lhZEKr1R_s4",
+      "title": "Introduction to MATLAB for Beginners in Hindi (Part-1) | WsCube Tech",
+      "duration": 1166
+    },
+    {
+      "id": "P15akHUD0mQ",
+      "title": "Basic course for Matlab in Hindi (Part-2) | Matlab Tutorials | WsCube Tech",
+      "duration": 643
+    },
+    {
+      "id": "uPax75tJSVc",
+      "title": "Signal Processing for MATLAB (Hindi) - Part-3 | MATLAB Tutorials | WsCube Tech",
+      "duration": 440
+    },
+    {
+      "id": "V8GHo1vPDZ8",
+      "title": "MATLAB Working Environment & User Interface (Hindi) - Part - 4 | WsCube Tech",
+      "duration": 660
+    },
+    {
+      "id": "rbEyt35uV7I",
+      "title": "How to Declare Variable in MATLAB (Hindi) - Part-5 | MATLAB Tutorial | WsCube Tech",
+      "duration": 815
+    },
+    {
+      "id": "BPwV2NXbEMA",
+      "title": "Array Indexing in Matlab (Hindi) - Part 6 | Matlab Tutorial | WsCube Tech",
+      "duration": 764
+    },
+    {
+      "id": "52YVb9vtOWY",
+      "title": "How to Create and Call Function in Matlab (Hindi) - Part 7 | Matlab Tutorial | WsCube Tech",
+      "duration": 570
+    },
+    {
+      "id": "Vm9FSsZ1z2A",
+      "title": "How to Line Plot & 2D Plot Line in Matlab (Hindi) Part - 8 | Matlab Tutorial | WsCube Tech",
+      "duration": 576
+    },
+    {
+      "id": "EipGQHv_SfU",
+      "title": "Adding Plot on existing Graph in MATLAB | MATLAB Plotting Graph (Hindi) Part-9 | MATLAB Tutorial",
+      "duration": 545
+    },
+    {
+      "id": "ik8G2bGYzKU",
+      "title": "Basic Mathematical Operations (Hindi) Part-10 | MATLAB Tutorial | WsCube Tech",
+      "duration": 604
+    },
+    {
+      "id": "nEmQq-jLjpI",
+      "title": "Sorting Matrix Values in MATLAB (Hindi) Part-11 | MATLAB Tutorial | WsCube Tech",
+      "duration": 578
+    },
+    {
+      "id": "1aET8vqs4Tk",
+      "title": "How to Identifying Non Zero Element in a Matrix (Hindi) Part-12 | MATLAB Tutorial | WsCube Tech",
+      "duration": 500
+    },
+    {
+      "id": "nVEcVNeCDco",
+      "title": "How to Solve Mathematical Expressions in MATLAB (Hindi) Part-13 | Matlab Tutorial | WsCube Tech",
+      "duration": 632
+    },
+    {
+      "id": "f_M_9krV6co",
+      "title": "Predefined Keyword for Mathematical Operations in Matlab | What is Predefined Keyword in Matlab #14",
+      "duration": 667
+    },
+    {
+      "id": "NJmAb-W8tLE",
+      "title": "Set Theory - Union and Intersection Sets Operation in Matlab (Hindi) Part-15 | MATLAB Tutorial",
+      "duration": 533
+    },
+    {
+      "id": "wrNgmyy-G8c",
+      "title": "Use of Subplot on Graph in MATLAB (Hindi) | Subplot in MATLAB | MATLAB Tutorial #16 - WsCube Tech",
+      "duration": 656
+    },
+    {
+      "id": "3KKFqn8b-0g",
+      "title": "Order of Precedence in Mathematical Operations in MATLAB (Hindi) #17 | MATLAB Tutorial - WsCube Tech",
+      "duration": 622
+    },
+    {
+      "id": "Alsrzwp_Zd0",
+      "title": "How to use Exponent and PI in MATLAB (Hindi) Part-18 | MATLAB Tutorial - WsCube Tech",
+      "duration": 535
+    },
+    {
+      "id": "8vpFtaEdGNA",
+      "title": "Operations of Matrices in MATLAB (Multiplication & Division) (Hindi) Part-19 | MATLAB Tutorial",
+      "duration": 614
+    },
+    {
+      "id": "YXJGBe2BhSY",
+      "title": "How to Calculation Size and Length Calculation in MATLAB (Hindi) #20 | MATLAB Tutorial - WsCube Tech",
+      "duration": 584
+    },
+    {
+      "id": "BKsUjh6RCaU",
+      "title": "Types of Plot in MATLAB | Comparing Bar Plot, Pie Plot and Histogram Plot in MATLAB (Hindi) #21",
+      "duration": 811
+    },
+    {
+      "id": "tQu2NYWTS9M",
+      "title": "3D Plotting Line in MATLAB for Beginners (Hindi) | 3D Plotting MATLAB | MATLAB Tutorial - Part 22",
+      "duration": 656
+    },
+    {
+      "id": "Uwc2eqr8t-8",
+      "title": "How to Generate Random Number in MATLAB (Hindi) | Handling Random Numbers | MATLAB Tutorial #23",
+      "duration": 885
+    },
+    {
+      "id": "ow-fB36FcOI",
+      "title": "Determinant, Inverse, and Diagonal Operations in Matlab - Hindi #25 | MATLAB Tutorial - WsCube Tech",
+      "duration": 798
+    },
+    {
+      "id": "O_T2CIrPUYU",
+      "title": "Operations of Matrices in MATLAB (Additions, Subtraction NXN) - Hindi | Operations of Matrices #24",
+      "duration": 614
+    },
+    {
+      "id": "IFl8GepriR8",
+      "title": "Identity and Concatenating Matrix in MATLAB (हिंदी में) | Matlab Matrix Tutorial Part-26 WsCube Tech",
+      "duration": 789
+    },
+    {
+      "id": "Y_Vsc9NzZq0",
+      "title": "Logical Operator in MATLAB | Matlab Tutorial for Beginners in Hindi - Part-26 WsCube Tech",
+      "duration": 702
+    },
+    {
+      "id": "8qRkW0Xhp5Y",
+      "title": "Relational Operators in MATLAB | MATLAB Tutorial for Beginners in Hindi - Part 28 | WsCube Tech",
+      "duration": 673
+    },
+    {
+      "id": "Y8xatmP4czc",
+      "title": "Best ways to Import Data from Excel sheet to Matlab | MATLAB Tutorial for Beginners in Hindi - #29",
+      "duration": 946
+    },
+    {
+      "id": "tktr11iyr4Y",
+      "title": "How to Create a Text File in Matlab (हिंदी में) | MATLAB Tutorial for Beginners in Hindi - Part 30",
+      "duration": 856
+    },
+    {
+      "id": "n0HA6pPlGO4",
+      "title": "For Loop in Matlab | Introduction to For Loop in MATLAB | MATLAB Tutorial for Beginners - Part 31",
+      "duration": 742
+    },
+    {
+      "id": "6InIo-abMso",
+      "title": "While Loop/Nested for Loop in MATLAB | Introduction to While / Nested for loop in Matlab - #32",
+      "duration": 781
+    },
+    {
+      "id": "yHlWgn6Eu7E",
+      "title": "Exit Loop Before Expression (Break) in Matlab | Matlab Loop Tutorial for Beginners in Hindi #33",
+      "duration": 808
+    },
+    {
+      "id": "BkKCH6xYL2s",
+      "title": "How to Write If, Elseif & Else Statement in Matlab | Conditional If, Elseif & Else Statement #34",
+      "duration": 640
+    },
+    {
+      "id": "_7O-hQAak9w",
+      "title": "Functions in Matlab | How to Create a Function in Matlab & How does Work it | Matlab Tutorial #35",
+      "duration": 775
+    },
+    {
+      "id": "_Ex58l3WSkE",
+      "title": "Coordinate Systems in Matlab | What is Coordinate Systems & How does Work it | Matlab Tutorial #37",
+      "duration": 741
+    },
+    {
+      "id": "OSitmPTZuU4",
+      "title": "Functions in Matlab-2 | How to Create a Function in Matlab & How does Work it | Matlab Tutorial #36",
+      "duration": 814
+    },
+    {
+      "id": "gva-4yCKy0M",
+      "title": "Differentiation and Integration in Matlab | Evaluation of Polynomial Differentiation and Integration",
+      "duration": 678
+    },
+    {
+      "id": "HGdMaAp3WUg",
+      "title": "Polynomial to Trigonometric Function | Fit Polynomial to Trigonometric Function in Matlab #39",
+      "duration": 649
+    },
+    {
+      "id": "jrjRS69ZxaE",
+      "title": "Deleting Elements - Matlab Adding Deleting Cell Elements | Matlab Tutorial #40",
+      "duration": 886
+    },
+    {
+      "id": "bmWm5KFwLqY",
+      "title": "Concatenating Cell - How to Use Concatenating Different Cells in Matlab | Matlab Tutorial #41",
+      "duration": 865
+    },
+    {
+      "id": "KGLjo27ipbM",
+      "title": "Shifting of Matrix- Shifting Rows of a Matrix in Matlab | Matlab Tutorial #42",
+      "duration": 739
+    },
+    {
+      "id": "cNUvhbxVCxQ",
+      "title": "Trigonometric Functions - How to Use Trigonometric Math Functions in Matlab | Matlab Tutorial #43",
+      "duration": 658
+    },
+    {
+      "id": "qtnSxu8ifqk",
+      "title": "Number Conversion - How to Use & Work Number conversion in MATLAB | MATLAB Tutorial #44",
+      "duration": 712
+    },
+    {
+      "id": "RQ4_B2QcIVA",
+      "title": "Concept of Cell - Creating and Defining Cell in MATLAB | MATLAB Tutorial #45",
+      "duration": 680
+    },
+    {
+      "id": "RW5oGgz8JJQ",
+      "title": "Cell Element - How to Create & work Accessing Cell Elements in MATLAB | MATLAB Tutorial #46",
+      "duration": 652
+    },
+    {
+      "id": "3itzJjLGqOc",
+      "title": "Matrix Element - How to Better Use Moving Matrix Element in MATLAB | MATLAB Tutorial #47",
+      "duration": 565
+    },
+    {
+      "id": "khoQ7Aqc7Sw",
+      "title": "What is Live Editor in MATLAB? | Introduction to the Live Editor | MATLAB Tutorial #48",
+      "duration": 733
+    },
+    {
+      "id": "-54yGDu5TuA",
+      "title": "MATLAB Symbolic Variable - Creating and Storing Values in Symbolic Variables #49",
+      "duration": 609
+    },
+    {
+      "id": "YnGeoiWGYAs",
+      "title": "What is Nested Cell Functions in MATLAB? How to Use Nested Cell | MATLAB Tutorial 51",
+      "duration": 692
+    },
+    {
+      "id": "SE6kTvV5T8g",
+      "title": "MATLAB Unit Sequence - How to Generate Unit Step Sequence in MATLAB | MATLAB Tutorial 51",
+      "duration": 653
+    },
+    {
+      "id": "H_Oh1HpOJ1c",
+      "title": "MATLAB Impulse Signal - How to Generate of Unit Impulse Signal In MATLAB | MATLAB Tutorial #52",
+      "duration": 455
+    },
+    {
+      "id": "Mde4oLNIfys",
+      "title": "MATLAB Ramp Signal - How to Generate of Ramp Signal in MATLAB (Full Video) | MATLAB Tutorial #53",
+      "duration": 453
+    },
+    {
+      "id": "isQSbat41-o",
+      "title": "Matlab Shifted Signals - How to Use & Generate Shifted Signals in Matlab | Matlab Tutorial #54",
+      "duration": 664
+    },
+    {
+      "id": "6ZDOYhERolc",
+      "title": "Matlab Straignt Line - How to Generate & Plot Straight Line in Matlab | Matlab Tutorial #55",
+      "duration": 302
+    },
+    {
+      "id": "00lNv_zTqY4",
+      "title": "How to Generate Program & Plot Complex Exponential Sequence in Matlab #56",
+      "duration": 460
+    },
+    {
+      "id": "dVgE-krKXrI",
+      "title": "Matlab Sawtooth Wave - How to Generate Sawtooth Wave in Matlab | Matlab Tutorial #57",
+      "duration": 623
+    },
+    {
+      "id": "a1huE6idHeQ",
+      "title": "Matlab Triangular wave - How to Generate Triangular wave in Matlab | Matlab Tutorial #58",
+      "duration": 584
+    },
+    {
+      "id": "wwoYFkazBbA",
+      "title": "Matlab Square wave - How to Generate Square wave in Matlab | Matlab Tutorial #59",
+      "duration": 824
+    },
+    {
+      "id": "9GG4y7r6ySA",
+      "title": "Matlab - How to Exponential Growing Cosine Signal in Matlab | Matlab Tutorial #61",
+      "duration": 585
+    },
+    {
+      "id": "H9NxflocN5g",
+      "title": "Matlab Square wave - How to Exponential Decaying Sinusoidal Signal in Matlab | Matlab Tutorial #60",
+      "duration": 588
+    },
+    {
+      "id": "ORzfwS-7DPQ",
+      "title": "Periodic Signal and Nonperiodic signal in MATLAB | Matlab Tutorial #62",
+      "duration": 702
+    },
+    {
+      "id": "-Gue5FsxDqk",
+      "title": "Program to add Two Continuous Signal in MATLAB | Matlab Tutorial #63",
+      "duration": 600
+    },
+    {
+      "id": "4y65dFBUq8A",
+      "title": "Matlab Subtract Signal - Program to Subtract Two Continuous Signals in Matlab | Matlab Tutorial #64",
+      "duration": 503
+    },
+    {
+      "id": "GkQkvD2LNDA",
+      "title": "Matlab Amplitude Modulated - Amplitude Modulated Signal in Matlab | Matlab Tutorial #65",
+      "duration": 839
+    },
+    {
+      "id": "0CPle0_DpmQ",
+      "title": "Matlab AM Modulation - Amplitude Modulated with Different Modulation Index | Matlab Tutorial #66",
+      "duration": 662
+    },
+    {
+      "id": "Pxaxi13tm-c",
+      "title": "AutoCad Layout - How to Create Model Space Viewports in AutoCad | AutoCad Tutorial #156",
+      "duration": 623
+    },
+    {
+      "id": "bXl0VFrsUNc",
+      "title": "Matlab Signal - How to Generate Random Signal/ Bits/ Value Binary Signal | Matlab Tutorial #67",
+      "duration": 444
+    },
+    {
+      "id": "XBjxCd-TyBg",
+      "title": "How to Evaluate Auto-Correlation in Matlab | Auto-Correlation Function | Matlab Tutorial #68",
+      "duration": 488
+    },
+    {
+      "id": "BUQOtw7OUKA",
+      "title": "Matlab Evaluate Cross-Correlation | Evaluate Cross-Correlation Function | Matlab Tutorial #69",
+      "duration": 442
+    },
+    {
+      "id": "cvln7FJ_Yic",
+      "title": "Linear Convolution for Given Sequence | Linear Convolution Using Matlab | Matlab Tutorial #70",
+      "duration": 581
+    },
+    {
+      "id": "OnpuqteRZLA",
+      "title": "Matlab Rayleigh PDF - Matlab Program to Plot PDF of Rayleigh Distribution # 71",
+      "duration": 446
+    },
+    {
+      "id": "xwDLpoiBVTU",
+      "title": "MATLAB Normal PDF - Signal Processing with Normal PDF in MATLAB | MATLAB Tutorial #72",
+      "duration": 359
+    },
+    {
+      "id": "Las8cMOXsEo",
+      "title": "What is Gaussian Distribution? When & How to Use Gaussian Distribution in MATLAB #73",
+      "duration": 331
+    },
+    {
+      "id": "zZ1yhUTXtGA",
+      "title": "Increasing Sampling Rate of Signal in MATLAB | Signal Processing - MATLAB Tutorial #74",
+      "duration": 945
+    },
+    {
+      "id": "V_rOfYxopOc",
+      "title": "Decreasing Sampling Rate of Signal MATLAB | Signal Processing | MATLAB Tutorial - 75",
+      "duration": 689
+    },
+    {
+      "id": "DROmx2AfWNQ",
+      "title": "AM Modulation Demodulation with AWGN using Matlab | Amplitude Modulation Tutorial #76",
+      "duration": 1928
+    },
+    {
+      "id": "BFYaTvkkP7c",
+      "title": "SSB Modulation Demodulation in Matlab (Signal Processing) | Matlab Tutorial #77",
+      "duration": 1199
+    },
+    {
+      "id": "QPY-NdFXhjA",
+      "title": "SSB Modulation Demodulation with AWGN in Matlab (Signal Processing) | Matlab Tutorial #78",
+      "duration": 758
+    },
+    {
+      "id": "xqw1kV3Q3Ck",
+      "title": "Introduction to Image Processing using Matlab | Matlab Image Processing | Matlab Tutorial #79",
+      "duration": 400
+    },
+    {
+      "id": "grLORiCwrRc",
+      "title": "How to Read and Write Image using Matlab | Matlab Image Processing | Matlab Tutorial 80",
+      "duration": 1136
+    },
+    {
+      "id": "yoouCCFjCE8",
+      "title": "Converting Color Image to Grayscale Image using Matlab | Image Processing | Matlab Tutorial 81",
+      "duration": 845
+    },
+    {
+      "id": "zhFdF1cd4iE",
+      "title": "Histogram Equalization in Matlab using Image Processing | Matlab Tutorial #82",
+      "duration": 599
+    },
+    {
+      "id": "oryAPdiCniA",
+      "title": "How to Crop Formatting Image in Matlab | Formatting Image Cropping using Matlab #83",
+      "duration": 732
+    },
+    {
+      "id": "bIoKs7lWeP0",
+      "title": "How to Rotate Formatting Image using Matlab [HINDI] | Image Processing Tutorial #84",
+      "duration": 403
+    },
+    {
+      "id": "XaU3wcUoMz8",
+      "title": "How to Image Translation Using MATLAB (Image Processing) - Hindi | MATLAB Tutorial #85",
+      "duration": 460
+    },
+    {
+      "id": "HGos0uBfsHw",
+      "title": "Image Transformation using MATLAB (Image Processing) - Hindi | MATLAB Tutorial #86",
+      "duration": 668
+    },
+    {
+      "id": "Xuj5yk0FrxY",
+      "title": "Fourier Transform in MATLAB (Image Processing) | MATLAB Tutorial #87",
+      "duration": 694
+    },
+    {
+      "id": "pw06NkcIOFY",
+      "title": "Liner Filtering using Matlab (Image Processing) | Matlab Tutorial #88",
+      "duration": 617
+    },
+    {
+      "id": "m_bQJnQB8vg",
+      "title": "Edge Detection Using Matlab (Image Processing) | Matlab Tutorial #89",
+      "duration": 682
+    },
+    {
+      "id": "ONauAArx7J4",
+      "title": "Edge Desination Assignment | Matlab Image Processing Assignment in Hindi #90",
+      "duration": 366
+    },
+    {
+      "id": "nZ8LPWGYgNc",
+      "title": "Erosion and Dilation in Image Processing Matlab | Morphological Operations using Matlab #91",
+      "duration": 1078
+    },
+    {
+      "id": "wHI6_kDB538",
+      "title": "Opening and Closing in Image Processing MATLAB | Morphological Operations using MATLAB #92",
+      "duration": 644
+    },
+    {
+      "id": "aw8SvQAl9qA",
+      "title": "Morphological Operations on Binary Image in Matlab (Image Processing) #93",
+      "duration": 461
+    },
+    {
+      "id": "hwlPhmw4ZRY",
+      "title": "How to Merge Image in Matlab | Add Two Images (Image Processing) #94",
+      "duration": 643
+    },
+    {
+      "id": "G5RPZE9nOAc",
+      "title": "What is Simulink? Complete Introduction about Simulink [Hindi] | MATLAB Tutorial #95",
+      "duration": 1065
+    },
+    {
+      "id": "a-ZPuynwl94",
+      "title": "Amplitude Modulation in Simulink (Matlab Simulink) - Hindi #96",
+      "duration": 872
+    },
+    {
+      "id": "7fwb2N2QTxY",
+      "title": "Amplitude Demodulation in Simulink (Matlab Simulink) - Hindi #97",
+      "duration": 728
+    },
+    {
+      "id": "J-_J92jh0gI",
+      "title": "Signal Addition and Parameter variation in a Matlab Simulink - Hindi  #98",
+      "duration": 1090
+    },
+    {
+      "id": "mL0mL0jeKcY",
+      "title": "Simulink Switch & if-else Statement [Hindi] - Matlab Tutorial #100",
+      "duration": 607
+    },
+    {
+      "id": "mHzTRQjo5Ec",
+      "title": "How to Design an Up-Counter in Simulink/Matlab [Hindi]",
+      "duration": 358
+    },
+    {
+      "id": "HCbbfqPt5bQ",
+      "title": "Up-counter till fixed number in Simulink [Hindi] | MATLAB Tutorial",
+      "duration": 338
+    },
+    {
+      "id": "SZstPZO1m6Y",
+      "title": "How to Design a Down Counter in Simulink/Matlab [Hindi]",
+      "duration": 674
+    },
+    {
+      "id": "EwI3W0pYm6Y",
+      "title": "Solving Mathematical Expression in Simulink/Matlab [Hindi]",
+      "duration": 654
+    },
+    {
+      "id": "g8ysi-TAjIs",
+      "title": "Square and Square Root Expressions in MATLAB Simulink [Hindi]",
+      "duration": 429
+    },
+    {
+      "id": "-QINliPuyWE",
+      "title": "Celsius to Fahrenheit Conversion in MATLAB Simulink [Hindi]",
+      "duration": 268
+    },
+    {
+      "id": "UIoPLWdNf7M",
+      "title": "Solving Differential Equations using Simulink/Matlab  [Hindi]",
+      "duration": 765
+    },
+    {
+      "id": "aKhVncVkQK0",
+      "title": "How to use of [FCN] Function Block in Simulink / Matlab - Hindi",
+      "duration": 475
+    },
+    {
+      "id": "4GZ2JI2Wrls",
+      "title": "Closed-loop System in Simulink/Matlab [Hindi] - Matlab Tutorial",
+      "duration": 807
+    },
+    {
+      "id": "LpVRw6X6D90",
+      "title": "Open-loop System in Simulink/Matlab [Hindi] - MATLAB Tutorial",
+      "duration": 399
+    },
+    {
+      "id": "ZjZKx0GSwl0",
+      "title": "XOR Gate Implementation in Simulink/Matlab [Hindi]",
+      "duration": 567
+    },
+    {
+      "id": "M2h21Zy9NWw",
+      "title": "What is Half Adder? How to design Half Adder using Logic Gates in Simulink [Hindi]",
+      "duration": 647
+    },
+    {
+      "id": "spzZfoVEKnE",
+      "title": "Design Full Adder using Logic Gates in Simulink/ Matlab [Hindi]",
+      "duration": 852
+    },
+    {
+      "id": "97qO-hgQlLs",
+      "title": "User Defined Function In MATLAB/Simulink [Hindi]",
+      "duration": 1051
+    },
+    {
+      "id": "y1wJXz_XE94",
+      "title": "How to use if-else Statement using Function in Simulink | Hindi",
+      "duration": 730
+    },
+    {
+      "id": "jGUb89zZ2YQ",
+      "title": "Half Wave Rectifier using Simulink/Matlab - MATLAB Tutorial [Hindi]",
+      "duration": 1134
+    },
+    {
+      "id": "U0oi0YhDtak",
+      "title": "How to Make a Full Wave Rectifier in Simulink / Matlab - Hindi",
+      "duration": 999
+    },
+    {
+      "id": "HPgPVHWSiqo",
+      "title": "Single Pulse Full Wave Rectifier in Matlab/Simulink - Hindi",
+      "duration": 515
+    },
+    {
+      "id": "SR0r_2uKZU8",
+      "title": "ASK Modulation and Demodulation using Matlab in Hindi (Project)",
+      "duration": 1076
+    },
+    {
+      "id": "t5Ohe8DibWc",
+      "title": "Implementation of FSK/BFSK Modulation and Demodulation in Matlab Simulink - Project",
+      "duration": 1379
+    },
+    {
+      "id": "xlbTh-ia50s",
+      "title": "Logical Operator in Simulink/Matlab [HINDI] - Matlab Tutorial",
+      "duration": 627
+    },
+    {
+      "id": "wGUG8Z5PyTM",
+      "title": "How to Create Low Pass Filter Design in Matlab Simulink - Hindi #99",
+      "duration": 1378
+    },
+    {
+      "id": "L3h_VuRVkOc",
+      "title": "MATLAB Assignment-1 Solution with Full Explanation - Hindi",
+      "duration": 684
+    },
+    {
+      "id": "n2MOGw-c-Qc",
+      "title": "MATLAB Assignment-2 Solution with Full Explanation - Hindi",
+      "duration": 593
+    },
+    {
+      "id": "llZqsSwVBKk",
+      "title": "How to Plotting Simple Wave in Matlab | MATLAB Tutorial",
+      "duration": 669
+    },
+    {
+      "id": "f2t5tQ7Ysf8",
+      "title": "Sign and Absolute Functions in Matlab - MATLAB Tutorial in Hindi",
+      "duration": 709
+    },
+    {
+      "id": "61NGbngl5yc",
+      "title": "Creating Switch Case Statement in Matlab | MATLAB Tutorial [Hindi]",
+      "duration": 1061
+    }
+  ]
+}

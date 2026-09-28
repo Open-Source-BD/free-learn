@@ -1,0 +1,540 @@
+{
+  "courseId": "computer-networks-complete-playlist-dc9925",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:36.894Z",
+  "title": "Computer Networks (Complete Playlist)",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "JFF2vJaN0Cw",
+      "title": "Lec-1: Computer Networks and Security Full Syllabus for GATE, UGC NET,DSSSB,NIELIT & University exam",
+      "duration": 432
+    },
+    {
+      "id": "4D55Cmj2t-A",
+      "title": "Lec-2: Introduction to Computer Network | OSI MODEL in easiest Way in Hindi | Need of OSI model",
+      "duration": 1328
+    },
+    {
+      "id": "n0iaPtsnmxQ",
+      "title": "Lec-3: LAN, MAN, WAN, PAN , CAN | Computer Networks",
+      "duration": 552
+    },
+    {
+      "id": "GfaHdjApnhU",
+      "title": "Lec-4: TCP/IP Protocol Suite | Internet Protocol Suite | OSI vs TCP/IP",
+      "duration": 406
+    },
+    {
+      "id": "lg-f92uY1Lc",
+      "title": "Lec-5: Physical layer in computer networks in hindi | Functions of Physical layer | OSI",
+      "duration": 646
+    },
+    {
+      "id": "uDulBxDb7GM",
+      "title": "Lec-6: Topologies in Computer Networks | Part-1 | All imp points of Mesh, Star, Hub, Bus, Hybrid",
+      "duration": 643
+    },
+    {
+      "id": "7t0YJWTjmdI",
+      "title": "Lec-7: Topologies in Computer Networks | Part-2 | All imp points of Mesh, Star, Hub, Bus, Hybrid",
+      "duration": 510
+    },
+    {
+      "id": "3IaB2a8tXLA",
+      "title": "Lec-8: Manchester encoding and differential Manchester encoding in Hindi | Computer Network",
+      "duration": 470
+    },
+    {
+      "id": "YxyLN3N5w9s",
+      "title": "Lec-9: Various Devices In Computer Networks | Hardware and Software Devices | Communicating devices",
+      "duration": 239
+    },
+    {
+      "id": "wuI6FGsOFZU",
+      "title": "Lec-10: Types Of Cables in Computer Networks | Coaxial, twisted pair, fibre optic cable",
+      "duration": 499
+    },
+    {
+      "id": "mf4bRP_puNQ",
+      "title": "Lec-11: Repeaters in Computer Networks | Physical layer devices",
+      "duration": 444
+    },
+    {
+      "id": "3N5a9cHYzCM",
+      "title": "Lec-12: Hub in Computer Networks | Physical layer devices",
+      "duration": 325
+    },
+    {
+      "id": "dDP36_ZBs6A",
+      "title": "Lec-13: Bridges In Computer Networks | Physical and data link layer device",
+      "duration": 792
+    },
+    {
+      "id": "vdtqEPKYB5M",
+      "title": "Lec-14: Switch, Hub & Bridge Explained - What's the difference?",
+      "duration": 299
+    },
+    {
+      "id": "JhBnOamc_8s",
+      "title": "Lec-15: Routers in Computer Networks | Physical, data link and network layer device",
+      "duration": 488
+    },
+    {
+      "id": "301XUVtn-6s",
+      "title": "Lec-16: Collision Domain Vs. Broadcast Domain | Repeater, Hub, Bridge, Switch, Router | Networks",
+      "duration": 832
+    },
+    {
+      "id": "Cug52cpjM_g",
+      "title": "Lec-17: What is Circuit Switching in Computer Networks in Hindi",
+      "duration": 632
+    },
+    {
+      "id": "_0mE6PH1E4c",
+      "title": "Lec-18: Packet Switching In Computer Networks | Imp for GATE and UGC NET",
+      "duration": 508
+    },
+    {
+      "id": "-S-NThI_79o",
+      "title": "Lec-19: Datagram Switching Vs Virtual Circuit Switching in Packet Switching | Computer Networks",
+      "duration": 686
+    },
+    {
+      "id": "T1rSrLPHLLI",
+      "title": "Lec-20: What is Message Switching In Computer Networks",
+      "duration": 356
+    },
+    {
+      "id": "EcWhJbEWxHU",
+      "title": "Lec-21: Unicast, Broadcast & Multicast in Computer Networks",
+      "duration": 353
+    },
+    {
+      "id": "JRgmPco0KWI",
+      "title": "Lec-22: Data link layer in computer Networks and its Responsibilities",
+      "duration": 1163
+    },
+    {
+      "id": "YIX1NfaUpsU",
+      "title": "Lec-23: Stop and Wait ARQ protocol | Data link layer",
+      "duration": 356
+    },
+    {
+      "id": "zc88y9HTAOA",
+      "title": "Lec-24: Go-Back-N ARQ (Automatic Repeat Request) | Data Link layer",
+      "duration": 580
+    },
+    {
+      "id": "08y_Vrs1vHo",
+      "title": "Lec-25: Selective Repeat ARQ (Automatic Repeat Request) | Data Link Layer",
+      "duration": 459
+    },
+    {
+      "id": "yNedVgNyE8Q",
+      "title": "Lec-26: Various Flow Control Protocols | Stop&Wait , GoBackN & Selective repeat in Data Link Layer",
+      "duration": 976
+    },
+    {
+      "id": "2U6kPu0dfqI",
+      "title": "Lec-27: Framing in Data Link Layer | Bit Stuffing vs Byte(Character) Stuffing",
+      "duration": 445
+    },
+    {
+      "id": "U7-h2hyM1Dc",
+      "title": "Lec-28: Introduction to Error detection and Correction | Computer Networks",
+      "duration": 644
+    },
+    {
+      "id": "U09cNsiYpc8",
+      "title": "Lec-29: Single Bit Parity along With Hamming Distance Concept | Error Control",
+      "duration": 699
+    },
+    {
+      "id": "5Q-Yv6_0Qcw",
+      "title": "Lec-30: Cyclic Redundancy Check(CRC)  for Error Detection and Correction  | Computer Networks",
+      "duration": 762
+    },
+    {
+      "id": "V5Iu52tbZEQ",
+      "title": "Lec-31: Hamming Code for Error Detection & Correction both with easiest examples",
+      "duration": 659
+    },
+    {
+      "id": "G0h0dC4Zycs",
+      "title": "Lec-32: Various Media Access Control Protocols in Data Link Layer | Computer Networks",
+      "duration": 490
+    },
+    {
+      "id": "WYM9nFYnYAg",
+      "title": "Lec-33: What is Pure Aloha in Hindi | MAC Layer Protocol",
+      "duration": 650
+    },
+    {
+      "id": "ggdeb2_z240",
+      "title": "Lec-34: Pure Aloha Vs Slotted Aloha with all imp points in Hindi | Computer Networks",
+      "duration": 497
+    },
+    {
+      "id": "IftFvfSywCQ",
+      "title": "Lec-35: Carrier Sense Multiple Access in Computer Network || CSMA || Computer Networks",
+      "duration": 649
+    },
+    {
+      "id": "v_z888gQWq0",
+      "title": "Lec-36: Carrier Sense Multiple Access/ Collision Detection | CSMA/CD | Computer Networks",
+      "duration": 879
+    },
+    {
+      "id": "reQ938TeFHM",
+      "title": "Lec-37: CSMA/CA in Computer Network | Full Explanation",
+      "duration": 611
+    },
+    {
+      "id": "oNOVfVcWBXc",
+      "title": "Lec-38: GATE Question on CSMA/CD | GATE-2015",
+      "duration": 373
+    },
+    {
+      "id": "ewpq3qxx5Ls",
+      "title": "Lec-39: Ethernet Frame Format (IEEE-802.3) in Data Link Layer",
+      "duration": 637
+    },
+    {
+      "id": "-u4Dzu63eZc",
+      "title": "Lec-40: Token Ring (IEEE 802.5) in Computer Networks",
+      "duration": 583
+    },
+    {
+      "id": "rW1jPlYgp_0",
+      "title": "Lec-41: Network Layer | Responsibilities of Network Layer | OSI Model | Computer Networks",
+      "duration": 733
+    },
+    {
+      "id": "iurle2xZrBQ",
+      "title": "Lec-42: Class A in IP addressing with Example in HINDI | Classful Addressing | Network Layer",
+      "duration": 1408
+    },
+    {
+      "id": "es1NEZbgCss",
+      "title": "Lec-43: Class B in IP addressing with Example | Classful Addressing in hindi with most easiest way",
+      "duration": 1235
+    },
+    {
+      "id": "gk7c-Dceg5Y",
+      "title": "Lec-44: Class C in IP addressing with Example | Classful Addressing | Network Layer",
+      "duration": 862
+    },
+    {
+      "id": "NDG2SEi2dKo",
+      "title": "Lec-45: Class D & Class E in IP addressing with Example | Classful Addressing | Network Layer",
+      "duration": 638
+    },
+    {
+      "id": "vTzrn_M77mo",
+      "title": "Lec-46: Find Range, Network Id, Host, Broadcast address with Numerical Examples in Hindi",
+      "duration": 768
+    },
+    {
+      "id": "ARfwnD6X6ZI",
+      "title": "Lec-47: Disadvantages of Classful Addressing | IP addressing | Computer Networks",
+      "duration": 372
+    },
+    {
+      "id": "N-ywmOpWehE",
+      "title": "Lec-48: What is Classless Addressing (CIDR) in Hindi | CIDR vs Classful Addressing",
+      "duration": 1002
+    },
+    {
+      "id": "rdb2ki4iGuo",
+      "title": "Lec-49: Subnetting in Classful Addressing with Examples in Hindi | Computer Networks",
+      "duration": 1157
+    },
+    {
+      "id": "mhVATrk0OhU",
+      "title": "Lec-50: Variable Length Subnet Masking(VLSM) in Hindi with Examples | Computer Networks",
+      "duration": 843
+    },
+    {
+      "id": "wvvoT-dpr8o",
+      "title": "Lec-51: Subnetting in CIDR Addressing | Classless Interdomain Routing in Hindi with Example",
+      "duration": 671
+    },
+    {
+      "id": "jXioURQ2v8E",
+      "title": "Lec-52: Numerical Question on CIDR | Classless Addressing | Very Imp for all Competitive Exams",
+      "duration": 748
+    },
+    {
+      "id": "DFjz3yxe3aU",
+      "title": "Lec-53: VLSM in Classless Addressing(CIDR) | Variable Length Subnet Masking",
+      "duration": 789
+    },
+    {
+      "id": "zoFSxIuS5Ro",
+      "title": "Lec-54: IPv4 Header Format – All Fields Explained in Hindi | Computer Networks",
+      "duration": 1105
+    },
+    {
+      "id": "k8VgrqDOIUo",
+      "title": "Lec-55: Fragmentation(MTU) of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks",
+      "duration": 802
+    },
+    {
+      "id": "W1UzRlh1gNc",
+      "title": "Lec-56: Options & Padding in IPv4 Header | Computer Networks",
+      "duration": 502
+    },
+    {
+      "id": "0os5MOAKRL0",
+      "title": "Lec-57: Need of IPv6 Protocol | Why IPv6 is Required",
+      "duration": 476
+    },
+    {
+      "id": "U3rGOTxwXAI",
+      "title": "Lec-58: IPv6 Header Format in Hindi | IPv4 Vs IPv6 in Computer Networks",
+      "duration": 787
+    },
+    {
+      "id": "XsgVqrcP32U",
+      "title": "Lec-59: What is IPSec Protocol | IPsec Introduction | Computer Networks",
+      "duration": 413
+    },
+    {
+      "id": "dTkIs9XR4P0",
+      "title": "Lec-60 : Transport Mode Vs Tunnel Mode in IPSec | Computer Networks",
+      "duration": 495
+    },
+    {
+      "id": "rA0p0ouD3aE",
+      "title": "Lec-61: What is Routing Protocols | Various types of Routing Protocols",
+      "duration": 417
+    },
+    {
+      "id": "5ZuP5qjbKSI",
+      "title": "Lec-62: Distance vector routing algorithm in hindi | Computer Networks",
+      "duration": 1560
+    },
+    {
+      "id": "UYASPR4jEkk",
+      "title": "Lec-63: Count to Infinity Problem in Distance Vector Routing",
+      "duration": 641
+    },
+    {
+      "id": "kW6zV-040SY",
+      "title": "Lec-64: Link state routing in computer networks in Hindi",
+      "duration": 876
+    },
+    {
+      "id": "IUSyV2BVh4A",
+      "title": "Lec-65: ARP Explained- Address Resolution Protocol | Network Layer",
+      "duration": 493
+    },
+    {
+      "id": "47PUj7OSGkA",
+      "title": "Lec-66: NAT Explained - Network Address Translation with example in Hindi",
+      "duration": 588
+    },
+    {
+      "id": "kAty4mKczEg",
+      "title": "Lec-67: Transport  Layer | Responsibilities of Transport  Layer | OSI Model | Computer Networks",
+      "duration": 971
+    },
+    {
+      "id": "zddG06-1Fl0",
+      "title": "Lec-68: Why both IP & Port address is used  | What is Socket Address with real life example",
+      "duration": 604
+    },
+    {
+      "id": "c8aet11HNxg",
+      "title": "Lec-69: TCP: Transmission control protocol | TCP Header | Transport layer | part -1",
+      "duration": 891
+    },
+    {
+      "id": "hsNuqtfxgRI",
+      "title": "Lec-70: TCP: Transmission control protocol | TCP Header | Transport layer | part -2",
+      "duration": 751
+    },
+    {
+      "id": "qIEHUUt2Wfc",
+      "title": "Lec-71: TCP connection Establishment and connection Termination | Transport layer",
+      "duration": 912
+    },
+    {
+      "id": "7zPfuIf4GL0",
+      "title": "Lec-72: TCP Data Transfer | Piggybacking & Pure Acknowledgement",
+      "duration": 684
+    },
+    {
+      "id": "dJIAComFq9U",
+      "title": "Lec-73: Connection Termination in TCP in Hindi with example",
+      "duration": 675
+    },
+    {
+      "id": "0bc_T_pEZmo",
+      "title": "Lec-74: TCP Congestion Control in Computer Networks in Hindi",
+      "duration": 759
+    },
+    {
+      "id": "HF_znV8x9a0",
+      "title": "Lec-75: UDP (User Datagram Protocol) header in Computer Networks in Hindi",
+      "duration": 708
+    },
+    {
+      "id": "Zs0VixZqgzA",
+      "title": "Lec-76: Advantages of UDP protocol over TCP | Transport Layer",
+      "duration": 727
+    },
+    {
+      "id": "jJyXpMmXJI0",
+      "title": "Lec-77: TCP vs UDP differences in hindi",
+      "duration": 718
+    },
+    {
+      "id": "2Abjxmp7TfU",
+      "title": "Lec-78: Session Layer of OSI model | Session layer functions in Hindi",
+      "duration": 638
+    },
+    {
+      "id": "cj4OxZRJUdw",
+      "title": "Lec-79: Presentation layer in computer networks in Hindi | OSI Model",
+      "duration": 387
+    },
+    {
+      "id": "8An0dRalJeM",
+      "title": "Lec-80: Application layer of OSI model in Hindi | Application layer protocols & Port no",
+      "duration": 944
+    },
+    {
+      "id": "vhfRArT11jc",
+      "title": "Lec-81: Domain Name System (DNS) in computer Networks",
+      "duration": 562
+    },
+    {
+      "id": "BZISxpdl4lQ",
+      "title": "Lec-81: Domain Name Server(DNS) & its types in Hindi | All about DNS",
+      "duration": 412
+    },
+    {
+      "id": "pnoWCK82apU",
+      "title": "Lec-83: HTTP, FTP, SMTP, POP | All Application Layer Protocols | Computer Networks",
+      "duration": 1065
+    },
+    {
+      "id": "zRUdSu3JlK8",
+      "title": "Lec-84: Persistent vs Non-Persistent HTTP | HTTP/1.0 vs HTTP/1.1",
+      "duration": 471
+    },
+    {
+      "id": "cjPVlxmf_Vk",
+      "title": "Lec-85 : SMTP vs POP3 vs IMAP with real life example | All in 1 | Application layer Protocols",
+      "duration": 603
+    },
+    {
+      "id": "XTVTlEhGS6w",
+      "title": "Lec-86: Socket Programming in Computer Networks",
+      "duration": 496
+    },
+    {
+      "id": "aUYwx9bYlGY",
+      "title": "Lec-87: All Networking Protocols & Devices | Summary from Physical to Application Layer protocols",
+      "duration": 952
+    },
+    {
+      "id": "trHox1bN5es",
+      "title": "Lec-88: Cryptography in computer network in Hindi | Cryptography in Information Security",
+      "duration": 459
+    },
+    {
+      "id": "6AmmQiOWoXM",
+      "title": "Lec-89: Symmetric Key Cryptography in Network Security with examples",
+      "duration": 374
+    },
+    {
+      "id": "JUi2x_WbVO0",
+      "title": "Lec-90: Imp Question on Network Security | Symmetric Key Cryptography",
+      "duration": 506
+    },
+    {
+      "id": "xw19eT5thIE",
+      "title": "Lec-91: Asymmetric key Cryptography with example | Network Security",
+      "duration": 503
+    },
+    {
+      "id": "VUxfDCmWM0U",
+      "title": "Lec-92: RSA Algorithm in Network Security with examples in Hindi rsa algorithm example in hindi",
+      "duration": 688
+    },
+    {
+      "id": "o_vyfo3Hw0Y",
+      "title": "Lec-93: What is Firewalls and How it Works | Packet Filtering firewall explained in Hindi Part-1",
+      "duration": 825
+    },
+    {
+      "id": "CHtTLireUCA",
+      "title": "Lec-94: What is Application(Proxy) Firewall in Hindi | Network Security Part-2",
+      "duration": 318
+    },
+    {
+      "id": "DujE2sRVpeY",
+      "title": "Lec-95: 3 Imp Questions on Computer Networks| Must Watch |",
+      "duration": 766
+    },
+    {
+      "id": "Ovm-qqdPKn8",
+      "title": "Lec-96: Top Linux Network Commands | Computer Networks",
+      "duration": 820
+    },
+    {
+      "id": "kon5GS_OWl4",
+      "title": "Lec-97 : Basics of Communication | Computer Networks",
+      "duration": 518
+    },
+    {
+      "id": "cDVNU2j26Bs",
+      "title": "Lec-98 : Bandwidth vs. Throughput vs. Latency | Computer Networks",
+      "duration": 376
+    },
+    {
+      "id": "V1y8fkNWp8c",
+      "title": "Lec-99 : Fast Ethernet vs. Gigabit Ethernet with examples | Computer Networks",
+      "duration": 384
+    },
+    {
+      "id": "78hvo-30ayg",
+      "title": "Lec-100 : What is Ping📱& Loopback🔁 in Network | Computer Network",
+      "duration": 480
+    },
+    {
+      "id": "TVr0RZ1-74g",
+      "title": "TCP/IP Protocol Suite with Real Life Examples | Why TCP/IP Used | Fundamentals of Networking",
+      "duration": 567
+    },
+    {
+      "id": "G9Px24hHlUA",
+      "title": "IPsec vs. SSH vs. SSL/TLS | Network Security Protocols",
+      "duration": 468
+    },
+    {
+      "id": "JFXBjlT5cGU",
+      "title": "What is VPN | How VPN Works 🕵️‍♂️| Virtual Private Network (VPN) with Real Life Examples",
+      "duration": 429
+    },
+    {
+      "id": "7u0XnqS-5xs",
+      "title": "Lec - 20 : What is CIDR Addressing | Classless Inter-Domain Routing with Examples | Most Important",
+      "duration": 856
+    },
+    {
+      "id": "FmgIQBQ87fo",
+      "title": "HTTP vs HTTPS 🚨 with Examples",
+      "duration": 349
+    },
+    {
+      "id": "lh2K_kDH5s0",
+      "title": "Lec-6: What are SSL Certificates & How they work? | System Design",
+      "duration": 550
+    }
+  ]
+}

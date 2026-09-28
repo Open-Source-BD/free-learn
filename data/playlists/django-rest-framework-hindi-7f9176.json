@@ -1,0 +1,185 @@
+{
+  "courseId": "django-rest-framework-hindi-7f9176",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:03.308Z",
+  "title": "Django REST Framework (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "qXXC6ocTC80",
+      "title": "What is API (Hindi)",
+      "duration": 709
+    },
+    {
+      "id": "Nba81dOUU9k",
+      "title": "What is Web API (Hindi)",
+      "duration": 245
+    },
+    {
+      "id": "madENMEfHLg",
+      "title": "What is REST and REST API (Hindi)",
+      "duration": 942
+    },
+    {
+      "id": "wB6NJ1CoFY4",
+      "title": "Django Rest Framework and How to Install Uninstall Django Rest Framework (Hindi)",
+      "duration": 468
+    },
+    {
+      "id": "4Yu_dr8FYf0",
+      "title": "Download Django REST Framework Study Material (Hindi)",
+      "duration": 182
+    },
+    {
+      "id": "i6M7x541Zx8",
+      "title": "Serializer and Serializertion in Django REST Framework (Hindi)",
+      "duration": 3283
+    },
+    {
+      "id": "Dr5C9vbcSbc",
+      "title": "Serializer Fields and Core Arguments in Django REST Framework (Hindi)",
+      "duration": 405
+    },
+    {
+      "id": "Thg8iRTVpXo",
+      "title": "DeSerialization and Insert Data Django REST Framework (Hindi)",
+      "duration": 1874
+    },
+    {
+      "id": "tmy5g3lQWcM",
+      "title": "CRUD API using Function Based View and Class Based View in Django REST Framework (Hindi)",
+      "duration": 4676
+    },
+    {
+      "id": "9fB6fPNq6sc",
+      "title": "Validation in Django REST Framework (Hindi)",
+      "duration": 1907
+    },
+    {
+      "id": "B2FwMdrcuBE",
+      "title": "Model Serializer in Django REST Framework (Hindi)",
+      "duration": 2317
+    },
+    {
+      "id": "CWV8jd1iCf8",
+      "title": "Function Based API View in Django REST Framework (Hindi)",
+      "duration": 4613
+    },
+    {
+      "id": "IlGguIgO5x4",
+      "title": "Class Based APIView in Django REST Framework (Hindi)",
+      "duration": 1587
+    },
+    {
+      "id": "Ix-HjVQP0t4",
+      "title": "Generic API View and Mixins in Django REST Framework (Hindi)",
+      "duration": 2606
+    },
+    {
+      "id": "p45ZPhYUR2w",
+      "title": "Concrete View Class in Django REST Framework (Hindi)",
+      "duration": 1959
+    },
+    {
+      "id": "B-qtEZhRlu8",
+      "title": "ViewSet in Django REST Framework (Hindi)",
+      "duration": 1429
+    },
+    {
+      "id": "d3zrJsux4C8",
+      "title": "Model View Set and Ready Only Model View Set in Django REST Framework (Hindi)",
+      "duration": 907
+    },
+    {
+      "id": "r6bwPS5vMHA",
+      "title": "Basic Authentication and Permission Class in Django REST Framework (Hindi)",
+      "duration": 2608
+    },
+    {
+      "id": "CrT2PLynuPk",
+      "title": "Session Authentication and Permission in Django REST Framework (Hindi)",
+      "duration": 1664
+    },
+    {
+      "id": "UUts-Bmh6w0",
+      "title": "Custom Permission in Django REST Framework (Hindi)",
+      "duration": 807
+    },
+    {
+      "id": "sg-nb04h_pY",
+      "title": "Authentication and Permission in Function Based View in Django REST Framework (Hindi)",
+      "duration": 569
+    },
+    {
+      "id": "8KHtGonmsoE",
+      "title": "Token Authentication in Django REST Framework (Hindi)",
+      "duration": 4167
+    },
+    {
+      "id": "xQHnWFox2JM",
+      "title": "Custom Authentication in Django REST Framework (Hindi)",
+      "duration": 757
+    },
+    {
+      "id": "DIOIudHnXt8",
+      "title": "JSON Web Token and Simple JWT in Django REST Framework (Hindi)",
+      "duration": 3453
+    },
+    {
+      "id": "PRPQIdKWYSo",
+      "title": "Throttling in Django REST Framework (Hindi)",
+      "duration": 2444
+    },
+    {
+      "id": "bQSJ5yq572U",
+      "title": "Filtering and django filter in Django REST Framework (Hindi)",
+      "duration": 1915
+    },
+    {
+      "id": "746ar4atUB8",
+      "title": "Search Filter in Django REST Framework (Hindi)",
+      "duration": 724
+    },
+    {
+      "id": "agQXfX9_FFU",
+      "title": "Ordering Filter in Django REST Framework (Hindi)",
+      "duration": 469
+    },
+    {
+      "id": "CNcca44LEBE",
+      "title": "Page Number Pagination in Django REST Framework (Hindi)",
+      "duration": 1981
+    },
+    {
+      "id": "wTFjIXlduVs",
+      "title": "Limit Offset Pagination in Django REST Framework (Hindi)",
+      "duration": 777
+    },
+    {
+      "id": "iDmQnbBmr0w",
+      "title": "Cursor Pagination in Django REST Framework (Hindi)",
+      "duration": 600
+    },
+    {
+      "id": "dMJUDeKsYtI",
+      "title": "Serializer Relations in Django REST Framework (Hindi)",
+      "duration": 1540
+    },
+    {
+      "id": "jVy7w-9QEQc",
+      "title": "Hyperlinked Model Serializer in Django REST Framework (Hindi)",
+      "duration": 477
+    },
+    {
+      "id": "Tn7QwfJh8FY",
+      "title": "Nested Serializer in Django REST Framework (Hindi)",
+      "duration": 652
+    },
+    {
+      "id": "NqsBik-W3gc",
+      "title": "Django API Project and How to Disable Browsable API in Production (Hindi)",
+      "duration": 1509
+    }
+  ]
+}

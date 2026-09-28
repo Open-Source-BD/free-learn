@@ -1,0 +1,135 @@
+{
+  "courseId": "codeigniter-4-tutorial-in-hindi-5efd3b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:18.997Z",
+  "title": "Codeigniter 4 Tutorial in Hindi",
+  "channel": "Code Improve",
+  "videos": [
+    {
+      "id": "Rm67fnWCYAs",
+      "title": "Introduction & Installation Part #1 | Codeigniter 4 tutorial in Hindi",
+      "duration": 376
+    },
+    {
+      "id": "xrhG1R52jKw",
+      "title": "Directory Structure in Codeigniter 4 Part #2 | Codeigniter 4 tutorial in Hindi",
+      "duration": 363
+    },
+    {
+      "id": "UzEehcuYJgM",
+      "title": "Spark CLI Tool | Builds CLI Tool Part #3  | Codeigniter 4 tutorial in Hindi",
+      "duration": 930
+    },
+    {
+      "id": "eqWgL_eMlf4",
+      "title": "MVC and Controller in Codeigniter Part #4 | Codeigniter 4 tutorial in Hindi",
+      "duration": 351
+    },
+    {
+      "id": "0F6yGFkdpfw",
+      "title": "View in Controller Part #5 | Codeigniter 4 tutorial in Hindi",
+      "duration": 472
+    },
+    {
+      "id": "zTFXtL5Ear4",
+      "title": "View layout in Codeigniter Part #6 | Codeigniter 4 tutorial in Hindi",
+      "duration": 631
+    },
+    {
+      "id": "2jaqQXnutWE",
+      "title": "Routing in Codeigniter Part #7 | Codeigniter 4 tutorial in Hindi",
+      "duration": 893
+    },
+    {
+      "id": "Ktv7ao6fAqQ",
+      "title": "Database connection in Codeigniter Part #8 | Codeigniter 4 tutorials in Hindi",
+      "duration": 472
+    },
+    {
+      "id": "r_l-v--n0pg",
+      "title": "Logs and cache in Codeigniter Part #9 | Codeigniter 4 tutorial in Hindi",
+      "duration": 145
+    },
+    {
+      "id": "NLU2V41QM0k",
+      "title": "Multiple database connection in Codeigniter Part #10 | Codeigniter 4 tutorial in Hindi",
+      "duration": 222
+    },
+    {
+      "id": "iUYc5ixsKGE",
+      "title": "Model in Codeigniter Part #11 | Codeigniter 4 tutorial in Hindi",
+      "duration": 739
+    },
+    {
+      "id": "GfUoJtrIdxY",
+      "title": "Query Builder in Codeigniter Part #12 | Codeigniter 4 tutorial in Hindi",
+      "duration": 1217
+    },
+    {
+      "id": "hs_3ucULXAM",
+      "title": "Global Functions and Global Constants Part #13 | Codeigniter 4 tutorial in Hindi",
+      "duration": 367
+    },
+    {
+      "id": "iSR8wpr_C6A",
+      "title": "Helper in Codeigniter Part#14 | Codeigniter 4 tutorial in Hindi",
+      "duration": 494
+    },
+    {
+      "id": "xXAqi-5k3k0",
+      "title": "Form Validation in Codeigniter Part #15 | Codeigniter 4 tutorial in Hindi",
+      "duration": 621
+    },
+    {
+      "id": "CsTVPtT3Ttw",
+      "title": "Customizing Error Display in Form Validation Part #16 | Codeigniter 4 tutorial in Hindi",
+      "duration": 746
+    },
+    {
+      "id": "5Tc47z78j-E",
+      "title": "HoneyPot and CSRF Filters with Examples Part #17 | Codeigniter 4 tutorial in Hindi",
+      "duration": 373
+    },
+    {
+      "id": "_bZ7pYUFBPE",
+      "title": "Session in Codeigniter Part #18 | Codeigniter 4 tutorial in Hindi",
+      "duration": 711
+    },
+    {
+      "id": "dxWI0QAK7_c",
+      "title": "Url Helper and URIs Library in Codeigniter Part #19 | Codeigniter 4 tutorial in Hindi",
+      "duration": 554
+    },
+    {
+      "id": "nDcecQfNsM0",
+      "title": "Insert Record Part #20 | CRUD | Codeigniter 4 CRUD Application with Bootstrap",
+      "duration": 463
+    },
+    {
+      "id": "TXrNHpcqpuQ",
+      "title": "Read Record Part #21  | CRUD | Codeigniter 4 CRUD Application with Bootstrap",
+      "duration": 511
+    },
+    {
+      "id": "jNqrQb0E5dc",
+      "title": "Update Record Part #22 | CRUD | Codeigniter 4 CRUD Application with Bootstrap",
+      "duration": 790
+    },
+    {
+      "id": "ZJmJ4gjJTm0",
+      "title": "Delete Record Part #23 | CRUD | Codeigniter 4 CRUD Application with Bootstrap",
+      "duration": 309
+    },
+    {
+      "id": "xNyf95TN9MA",
+      "title": "Create Controller using command line Part #24 | Codeigniter 4 | Api in Codeigniter 4",
+      "duration": 419
+    },
+    {
+      "id": "vA87fgq2t2o",
+      "title": "Pagination in Codeigniter 4 Part #25 | CRUD | Codeigniter 4 CRUD Application with Bootstrap",
+      "duration": 516
+    }
+  ]
+}

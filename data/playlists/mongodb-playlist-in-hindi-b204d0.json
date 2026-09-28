@@ -1,0 +1,205 @@
+{
+  "courseId": "mongodb-playlist-in-hindi-b204d0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:04.717Z",
+  "title": "MongoDB Playlist in Hindi ( Complete Course 2026 )",
+  "channel": "Engineering Digest",
+  "videos": [
+    {
+      "id": "4EjKroJCpFA",
+      "title": "What is MongoDB ?",
+      "duration": 326
+    },
+    {
+      "id": "f43Q7SoxPl4",
+      "title": "Install MongoDB on windows 11 in Hindi ( Step by step )",
+      "duration": 222
+    },
+    {
+      "id": "P0PbaTKm3Ok",
+      "title": "How to install MongoDB on fedora",
+      "duration": 134
+    },
+    {
+      "id": "Hvju9iIpGDM",
+      "title": "How to create database in MongoDB in Hindi",
+      "duration": 153
+    },
+    {
+      "id": "Llllssq-3g8",
+      "title": "Embedded documents in MongoDB ( Nested documents limit)",
+      "duration": 420
+    },
+    {
+      "id": "2Qj33fkKRo0",
+      "title": "CRUD Operations in MongoDB in Hindi ( All methods )",
+      "duration": 130
+    },
+    {
+      "id": "IFMfHhhq0ls",
+      "title": "Find vs FindOne in MongoDB in Hindi",
+      "duration": 635
+    },
+    {
+      "id": "cA917b2wxvE",
+      "title": "How to Insert Document in Collection in MongoDB ( Insert vs InsertOne vs InsertMany in MongoDB )",
+      "duration": 273
+    },
+    {
+      "id": "WC5Q2IpKtCQ",
+      "title": "How To Update Document In MongoDB ( UpdateOne vs UpdateMany in MongoDB )",
+      "duration": 335
+    },
+    {
+      "id": "Cjr-gkQSii8",
+      "title": "How to delete documents in MongoDB ( DeleteOne vs DeleteMany in MongoDB )",
+      "duration": 227
+    },
+    {
+      "id": "W_1zgvqwx80",
+      "title": "Select Column Query in MongoDB ( Projection In MongoDB)",
+      "duration": 163
+    },
+    {
+      "id": "7D17DVmMrpE",
+      "title": "Is MongoDB really Schemaless ?",
+      "duration": 232
+    },
+    {
+      "id": "-mYB6Ym8ZIc",
+      "title": "Datatypes in MongoDB ( In Hindi )",
+      "duration": 247
+    },
+    {
+      "id": "Eemjm6H2dGk",
+      "title": "How to delete database in MongoDB ( How to delete collection in MongoDB )",
+      "duration": 153
+    },
+    {
+      "id": "UaLiC6z1JIU",
+      "title": "Ordered option in insert command in MongoDB ( In Hindi ) #mongodb",
+      "duration": 292
+    },
+    {
+      "id": "6Cv7ihA4388",
+      "title": "Schema Validation in MongoDB in Hindi ( Complete Explanation )",
+      "duration": 751
+    },
+    {
+      "id": "3slJKBYEgbU",
+      "title": "Write concern in MongoDB in Hindi",
+      "duration": 276
+    },
+    {
+      "id": "k5KuDcsp39k",
+      "title": "Atomicity in MongoDB",
+      "duration": 146
+    },
+    {
+      "id": "I0fxhB81nqc",
+      "title": "MongoImport in MongoDB ( Import json in MongoDB )",
+      "duration": 252
+    },
+    {
+      "id": "OjMJgW4hby8",
+      "title": "Comparison operators in MongoDB in Hindi ( $eq, $ne, $lt, $gt, $lte, $gte, $in & $nin )",
+      "duration": 369
+    },
+    {
+      "id": "FAInqdJlu2k",
+      "title": "Logical Operators in MongoDB in Hindi ( $not, $and, $or & $nor)",
+      "duration": 509
+    },
+    {
+      "id": "2ur6Cs8OPSU",
+      "title": "Mastering MongoDB: Understanding the $exists and $type Operators",
+      "duration": 202
+    },
+    {
+      "id": "Hs8AM57BlVc",
+      "title": "Take Your MongoDB Queries to the Next Level with Evaluation Operators",
+      "duration": 494
+    },
+    {
+      "id": "wPL2i8KHKTI",
+      "title": "From Beginner to Pro: Querying Arrays in MongoDB",
+      "duration": 836
+    },
+    {
+      "id": "eYE3vkR1mGA",
+      "title": "Effortlessly Sort Your MongoDB Documents with These Tips and Tricks",
+      "duration": 201
+    },
+    {
+      "id": "yNQ20_RfwUk",
+      "title": "Advanced Update ( $inc, $min, $max, $mul, $unset, $rename & Upsert in MongoDB )",
+      "duration": 570
+    },
+    {
+      "id": "N2vaL3Oz--E",
+      "title": "MongoDB - Update Nested Arrays and Use $pop, $pull, $push and $addToSet Operators",
+      "duration": 926
+    },
+    {
+      "id": "yo6ZXsgsyBA",
+      "title": "Master MongoDB Indexing in One Video: Boost Your Database Performance Instantly!",
+      "duration": 2302
+    },
+    {
+      "id": "MWmMvudBgFU",
+      "title": "The Ultimate MongoDB Aggregation Guide: Make Your Queries Soar in One Video",
+      "duration": 1900
+    },
+    {
+      "id": "ga8LeVRmtG0",
+      "title": "$bucket operator in MongoDB in Hindi",
+      "duration": 570
+    },
+    {
+      "id": "zzVa5cvQK6w",
+      "title": "$lookup in MongoDB: How to Join Collections in MongoDB",
+      "duration": 745
+    },
+    {
+      "id": "9sUBVbQY4b8",
+      "title": "$project in MongoDB: Practical Examples and Use Cases",
+      "duration": 348
+    },
+    {
+      "id": "khq2wvnWo5M",
+      "title": "Capped Collection in MongoDB in Hindi",
+      "duration": 300
+    },
+    {
+      "id": "1HBp3WYhx8Y",
+      "title": "Mastering MongoDB: The Complete Guide to Authentication ( RBAC )",
+      "duration": 928
+    },
+    {
+      "id": "bSulWZtc2n8",
+      "title": "MongoDB Replication & Sharding: Scaling Your Database for Performance",
+      "duration": 529
+    },
+    {
+      "id": "LqCEp1PmfgY",
+      "title": "Replicate MongoDB Database Like a Pro: Complete Step-by-Step Tutorial",
+      "duration": 717
+    },
+    {
+      "id": "ErszXERETr0",
+      "title": "Transactions in MongoDB: Complete Walkthrough",
+      "duration": 1177
+    },
+    {
+      "id": "ZFhLaufhxYg",
+      "title": "Mastering Date Queries in MongoDB: $year, $month, $dateToString, and More!",
+      "duration": 856
+    },
+    {
+      "id": "j7Ke_tvOtgE",
+      "title": "Managed & Unmanaged Database: An Introduction to Mongodb Atlas",
+      "duration": 379
+    }
+  ]
+}

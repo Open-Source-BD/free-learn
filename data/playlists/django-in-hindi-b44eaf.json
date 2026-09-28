@@ -1,0 +1,105 @@
+{
+  "courseId": "django-in-hindi-b44eaf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKkAfNrxxRKqYLB9bCqMXrvoYd13WVxOq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:00.665Z",
+  "title": "Django in Hindi",
+  "channel": "Effcon Technology",
+  "videos": [
+    {
+      "id": "Ba1iym8xcnI",
+      "title": "About Django video series",
+      "duration": 610
+    },
+    {
+      "id": "4fEfP2AHXNk",
+      "title": "Django | Introduction to Django Framework | Part -1",
+      "duration": 1601
+    },
+    {
+      "id": "J2vVMRdrrS0",
+      "title": "Python Eclipse Installation",
+      "duration": 1141
+    },
+    {
+      "id": "sbqZTG1Bao8",
+      "title": "Creating Django Project without Eclipse",
+      "duration": 550
+    },
+    {
+      "id": "4vSO_nNIvZA",
+      "title": "Django | Hello World in Django | Part - 2",
+      "duration": 2309
+    },
+    {
+      "id": "sRX6gyGDLbU",
+      "title": "Django | Masterpage and CSS | Part - 3",
+      "duration": 2076
+    },
+    {
+      "id": "8bWTVrshUtE",
+      "title": "Django | Django Administration | ORM Introduction | Part - 4",
+      "duration": 2762
+    },
+    {
+      "id": "c8_JRjNrs5I",
+      "title": "Django | Django Registration Redux | Part - 5",
+      "duration": 3197
+    },
+    {
+      "id": "paaq1cuV2Ic",
+      "title": "Django | Working with Models | User Site (1) | Part - 6 | Hindi",
+      "duration": 2323
+    },
+    {
+      "id": "3Qz2Ip1TcFI",
+      "title": "Django | Foreign Key | User Site (2) | Part - 7",
+      "duration": 2955
+    },
+    {
+      "id": "EEqtMpb9hkg",
+      "title": "Django | Profile Update | Search in List | Part - 8",
+      "duration": 4508
+    },
+    {
+      "id": "RFRye5C1VmE",
+      "title": "Django | Adding more functionalities | Part - 9",
+      "duration": 4461
+    },
+    {
+      "id": "08Krd7y8s4Q",
+      "title": "Django | Buliding a Social Media Site from Scratch! | Part - 10",
+      "duration": 3259
+    },
+    {
+      "id": "4PztlmHslTM",
+      "title": "Django | Building a Social Media Website (B) | Part - 11",
+      "duration": 5602
+    },
+    {
+      "id": "1U8szSLmagQ",
+      "title": "Django | Building a Social Media Website (C) | Part - 12",
+      "duration": 4624
+    },
+    {
+      "id": "HYBMfoTYNVE",
+      "title": "Django | Building a Social Media Website (D) | Part - 13",
+      "duration": 4977
+    },
+    {
+      "id": "ZL19nbv5Rsg",
+      "title": "Django | Building a Social Media Website (E) Part - 14",
+      "duration": 5344
+    },
+    {
+      "id": "tiZwu6zrfR8",
+      "title": "REST API Complete | PART - 15",
+      "duration": 3788
+    },
+    {
+      "id": "rktsTFvUXPE",
+      "title": "Hosting a website | E-Sabha",
+      "duration": 1199
+    }
+  ]
+}

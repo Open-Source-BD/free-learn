@@ -1,0 +1,300 @@
+{
+  "courseId": "software-engineering-lectures-2502b6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:37.687Z",
+  "title": "Software Engineering Lectures",
+  "channel": "Easy Engineering Classes",
+  "videos": [
+    {
+      "id": "tZreaH_FyMs",
+      "title": "L1: Software Engineering Introduction | Focus and Importance | Software Engineering Lectures Hindi",
+      "duration": 1074
+    },
+    {
+      "id": "TtC_OFjknWI",
+      "title": "L2:  Why Software Engineering is a Layered Technology | Software Engineering Lectures in Hindi",
+      "duration": 748
+    },
+    {
+      "id": "4A_qeQxwo2w",
+      "title": "L3: Types of Software | System, Application, Legacy etc | Software Engineering Lectures in Hindi",
+      "duration": 811
+    },
+    {
+      "id": "jszUD8vHsG0",
+      "title": "L4: Difference between Software and Hardware | Software Engineering Lectures in Hindi",
+      "duration": 1241
+    },
+    {
+      "id": "Y71gQGDhOWQ",
+      "title": "L6: Build and Fix Model: Software life cycle models | Software Engineering Lectures in Hindi",
+      "duration": 863
+    },
+    {
+      "id": "MuoUH6aQHY8",
+      "title": "L7: Waterfall Model: Software life cycle models | Software Engineering Lectures in Hindi",
+      "duration": 1134
+    },
+    {
+      "id": "zi5HjXyIfrk",
+      "title": "L8: Drawbacks of Waterfall Software Development Life Cycle Model | Software Engineering Lectures",
+      "duration": 818
+    },
+    {
+      "id": "Yzuj6w-ClAs",
+      "title": "L9:  Prototype Model, Spiral Model : Software life cycle models | Software Engineering Lectures",
+      "duration": 2082
+    },
+    {
+      "id": "c6B1LaL6UEs",
+      "title": "L10:  Iterative Enhancement Model : Software life cycle models | Software Engineering Lectures Hindi",
+      "duration": 1008
+    },
+    {
+      "id": "21of7xtUR1s",
+      "title": "L11: Rapid Application Development(RAD) Model : Software life cycle models | Software Engineering",
+      "duration": 978
+    },
+    {
+      "id": "TRHx9P_9NRA",
+      "title": "L15: Line of Code Method(LOC) | Software Size Estimation | Examples | Software Engineering Lectures",
+      "duration": 944
+    },
+    {
+      "id": "nN379biPGxE",
+      "title": "L16: Theory of Function Point(FP) | Software Size Estimation | Software Engineering Lectures Hindi",
+      "duration": 953
+    },
+    {
+      "id": "w-yiSQtN6fQ",
+      "title": "L17: Solved Numerical Examples of Function Point Calculation | Software Engineering Lectures Hindi",
+      "duration": 1524
+    },
+    {
+      "id": "Tkwg5YuPeXw",
+      "title": "L21: COCOMO Model | Constructive Cost Model Introduction | Software Engineering Lectures Hindi",
+      "duration": 818
+    },
+    {
+      "id": "XYoiYFz-o6s",
+      "title": "L22: COCOMO Basic Model Equations | Solved Numerical Examples | Software Engineering Course in Hindi",
+      "duration": 695
+    },
+    {
+      "id": "HgatUf2yZgU",
+      "title": "L23: COCOMO Intermediate Model Introduction | Effort Adjustment Factor(EAF) | Software Engineering",
+      "duration": 813
+    },
+    {
+      "id": "K76XWOCpvDY",
+      "title": "L24: COCOMO Detailed Model | COCOMO Intermediate Model Solved Numerical | Software Engineering",
+      "duration": 946
+    },
+    {
+      "id": "ziHWHLCcHgY",
+      "title": "L25: COCOMO Detailed Model Solved Numerical | Software Engineering Lectures(Course) in Hindi",
+      "duration": 840
+    },
+    {
+      "id": "KL1gK-H3Qvk",
+      "title": "L26: COCOMO II Application Composition Estimation | Effort Estimation  Steps | Software Engineering",
+      "duration": 980
+    },
+    {
+      "id": "cxCW65rrlDU",
+      "title": "L27: Putnam Resource Allocation Model | Introduction | Rayleigh Curve | Software Engineering Course",
+      "duration": 992
+    },
+    {
+      "id": "8bD1KdtlRE4",
+      "title": "L28: Putnam Allocation Model Solved Numerical | Software Engineering Lectures/Complete Course",
+      "duration": 594
+    },
+    {
+      "id": "ABDIyiW3b7g",
+      "title": "L35: Software Requirement Documentation | Requirement Engineering | Software Engineering Lectures",
+      "duration": 1008
+    },
+    {
+      "id": "42_J-W7RumE",
+      "title": "L36: Software Requirement Elicitation | Requirement Gathering | Software Engineering Lectures",
+      "duration": 1599
+    },
+    {
+      "id": "QhJSlFWFICM",
+      "title": "L37: Functional, Non-Functional Software Requirement | Types of Requirement | Software Engineering",
+      "duration": 1874
+    },
+    {
+      "id": "A8qEg1rokV8",
+      "title": "L38: Good SRS Characteristics | Software Requirement Specification | Software Engineering Lectures",
+      "duration": 1220
+    },
+    {
+      "id": "4L7Hj2WaKN8",
+      "title": "L42: Cohesion | Types of Module Cohesion | Software Engineering Lectures(Course) in Hindi",
+      "duration": 1119
+    },
+    {
+      "id": "9VaZLEW0aTI",
+      "title": "L43: Coupling | Types of Module Coupling | Software Engineering Lectures(Course) in Hindi",
+      "duration": 989
+    },
+    {
+      "id": "vq_Y5hupinY",
+      "title": "L45: Function Oriented Design | Introduction | Software Engineering Lectures in Hindi",
+      "duration": 543
+    },
+    {
+      "id": "x5hE1sc5nfQ",
+      "title": "L46: Data Flow Diagram(DFD) | Introduction, Symbols, Levels | Software Engineering Lectures in Hindi",
+      "duration": 913
+    },
+    {
+      "id": "x2EGlsAha2M",
+      "title": "L47: Data Flow Diagram(DFD) Example of Flight Database(Level 0,1,2) | Software Engineering Lectures",
+      "duration": 654
+    },
+    {
+      "id": "i2wDn2eSsRI",
+      "title": "L48: Structure Charts | Introduction, Notation, Example | Software Engineering Lectures in Hindi",
+      "duration": 1079
+    },
+    {
+      "id": "lfN95ugVd5Q",
+      "title": "L49: Types of Structure Charts | Pseudocode | Software Engineering Lectures(Course) in Hindi",
+      "duration": 603
+    },
+    {
+      "id": "-gjambqRAKQ",
+      "title": "L52: Errors Faults and Failures | Software Engineering Lectures in Hindi with Examples",
+      "duration": 583
+    },
+    {
+      "id": "6_L6HNeDRCU",
+      "title": "L53: Software Reliability Introduction | Types of Time in Software Engineering Lectures(Course)",
+      "duration": 774
+    },
+    {
+      "id": "28VKi4M8-JI",
+      "title": "L54: Reliability Metrics(MTTF, MTBF, ROCOF) | Probability of Failure in Software Engineering Course",
+      "duration": 540
+    },
+    {
+      "id": "7eHES5V8YPA",
+      "title": "L59: Software Testing Strategies: Introduction | Types of Testing | Software Engineering Lectures",
+      "duration": 772
+    },
+    {
+      "id": "K2LQJKpOl6E",
+      "title": "L60: Functional Testing | Introduction, Drawbacks | Software Engineering Lectures in Hindi",
+      "duration": 391
+    },
+    {
+      "id": "OUVVW0-NoWc",
+      "title": "L61: Boundary Value Analysis(BVA) | Introduction | Software Engineering Lectures in Hindi",
+      "duration": 815
+    },
+    {
+      "id": "ofDqVAgl7tU",
+      "title": "L62: Solved Numerical On Boundary Value Analysis(BVA) | Software Engineering Lectures in Hindi",
+      "duration": 911
+    },
+    {
+      "id": "riykwQ1Ffm8",
+      "title": "L63: Worst Case Testing | Extension of Boundary Value Analysis | Software Engineering Lectures",
+      "duration": 620
+    },
+    {
+      "id": "Q7kzDb7X66w",
+      "title": "L64: Robustness Testing Technique | Extension of Boundary Value Analysis | Software Engineering",
+      "duration": 787
+    },
+    {
+      "id": "zDMxb13ibqc",
+      "title": "L65: Equivalence Class Testing | Introduction | Solved Numerical | Software Engineering Lectures",
+      "duration": 881
+    },
+    {
+      "id": "cN5nFS8qNf0",
+      "title": "L66: Solution of Triangle Problem in Equivalence Class Testing | Software Engineering Lectures",
+      "duration": 521
+    },
+    {
+      "id": "shCw0OZ6aEQ",
+      "title": "L67: Decision Table Testing | Introduction | Software Engineering Lectures(Course) in Hindi",
+      "duration": 598
+    },
+    {
+      "id": "w1h2xmEhWQE",
+      "title": "L68: The Triangle Problem Solution using Decision Table Testing | Software Engineering Lectures",
+      "duration": 760
+    },
+    {
+      "id": "-F0aGW_mw9U",
+      "title": "L69: Cause Effect Graphing | Introduction | Steps to Derive Test Cases | Notations | Example",
+      "duration": 1189
+    },
+    {
+      "id": "v2XXLd4TGS0",
+      "title": "L70: Types of Constraints in Cause Effect Graphing | Software Engineering Lectures(Course) in Hindi",
+      "duration": 578
+    },
+    {
+      "id": "f8o046V4d_k",
+      "title": "L72: Unit Testing | Introduction, Problems | Software Engineering Lectures in Hindi and English",
+      "duration": 692
+    },
+    {
+      "id": "i8wuj_zS-EM",
+      "title": "L73: Role of Drivers and Stubs in Unit Testing | Software Engineering Lectures in Hindi and English",
+      "duration": 658
+    },
+    {
+      "id": "uKkBgElf5DI",
+      "title": "L74: Integration Testing | Introduction, Types | Software Engineering Lectures in Hindi and English",
+      "duration": 976
+    },
+    {
+      "id": "J0lTn3XNBRY",
+      "title": "L75: Top-Down and Bottom-Up Integration | Software Engineering Lectures in Hindi and English",
+      "duration": 622
+    },
+    {
+      "id": "6UCZu-TmwsI",
+      "title": "L76: Regression Testing | Introduction | Software Engineering Testing Lectures in Hindi",
+      "duration": 459
+    },
+    {
+      "id": "Qtjf67spqXo",
+      "title": "L77: Verification, Validation Introduction | Comparison(Difference) | Software Engineering Lectures",
+      "duration": 479
+    },
+    {
+      "id": "2zWfVs-u7iM",
+      "title": "L78: Validation Testing | System Testing | Introduction | Software Engineering Testing Lectures",
+      "duration": 760
+    },
+    {
+      "id": "nuWjB19b8BQ",
+      "title": "L79: System Testing | Introduction, Types | Software Engineering Testing Lectures in Hindi",
+      "duration": 1009
+    },
+    {
+      "id": "MBmg--znTmw",
+      "title": "L80: Acceptance Testing | Difference between Alpha and Beta Testing | Software Engineering Lectures",
+      "duration": 592
+    },
+    {
+      "id": "YYy1so-VByE",
+      "title": "L83: Software Maintenance | Introduction, Types | Software Engineering Lectures(Course) in Hindi",
+      "duration": 765
+    },
+    {
+      "id": "zIYTKClLDwM",
+      "title": "L86: Reverse Engineering | Introduction, Uses, Tasks, Levels, Re-documentation, Design Recovery",
+      "duration": 981
+    }
+  ]
+}

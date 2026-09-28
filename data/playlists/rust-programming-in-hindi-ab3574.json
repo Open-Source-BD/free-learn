@@ -1,0 +1,200 @@
+{
+  "courseId": "rust-programming-in-hindi-ab3574",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:01.517Z",
+  "title": "Rust-Programming in HINDI",
+  "channel": "Go Guru",
+  "videos": [
+    {
+      "id": "xzSMXHdYOns",
+      "title": "What is Rust Programming Language? - An Introduction and History of Rust IN HINDI",
+      "duration": 448
+    },
+    {
+      "id": "npNFaqavHNg",
+      "title": "Beginner's Guide: How to Install Rust, Rustc, and Cargo IN HINDI",
+      "duration": 629
+    },
+    {
+      "id": "JuOlgkz53AQ",
+      "title": "Mastering Rust Datatypes and Compiler: A Comprehensive Guide IN HINDI",
+      "duration": 984
+    },
+    {
+      "id": "QHbq3DbOTs0",
+      "title": "Exploring Rust Programming Language: Understanding Functions IN HINDI",
+      "duration": 801
+    },
+    {
+      "id": "HXyeYhcW02Q",
+      "title": "Mastering Rust Conditional Statements: A Guide for Beginners | Interesting Facts IN HINDI",
+      "duration": 527
+    },
+    {
+      "id": "DwwDQ04STyU",
+      "title": "Mastering Comments in Rust: Best Practices and Tips IN HINDI",
+      "duration": 310
+    },
+    {
+      "id": "K4AdqcwooWM",
+      "title": "Understanding Infinite Loops in Rust: What They Are and How to Avoid Them IN HINDI",
+      "duration": 325
+    },
+    {
+      "id": "_pbzOdHVtMI",
+      "title": "Rust Programming Tutorial: Understanding For Loops and While Loops IN HINDI",
+      "duration": 437
+    },
+    {
+      "id": "sQ3qJgMsVts",
+      "title": "Rust Enums and Switch: A Beginner's Guide IN HINDI",
+      "duration": 292
+    },
+    {
+      "id": "8YxFxynCZZQ",
+      "title": "Mastering Rust Constants and Code Blocks: Tips and Tricks IN HINDI",
+      "duration": 311
+    },
+    {
+      "id": "5uHpWmfDelU",
+      "title": "Rust Programming Tutorial: Mastering Shadowing",
+      "duration": 222
+    },
+    {
+      "id": "XXFspv0vg3Q",
+      "title": "Rust Programming: Understanding Referencing and Borrowing IN HINDI",
+      "duration": 365
+    },
+    {
+      "id": "Ue04U_F3qw4",
+      "title": "Rust Programming: Understanding Structs IN HINDI",
+      "duration": 290
+    },
+    {
+      "id": "wprgMwI-6fo",
+      "title": "Rust Programming: Understanding Tuple Structs IN HINDI",
+      "duration": 203
+    },
+    {
+      "id": "NIoWu3Fi0Ck",
+      "title": "Rust Programming Tutorial: Understanding Arrays in Rust IN HINDI",
+      "duration": 478
+    },
+    {
+      "id": "Vsrgx_j-Zas",
+      "title": "Rust Programming Tutorial: Pass by Reference in Structs IN HINDI",
+      "duration": 314
+    },
+    {
+      "id": "cdlWpwNU2sw",
+      "title": "Understanding the 'impl' Keyword in Rust IN HINDI",
+      "duration": 260
+    },
+    {
+      "id": "K1ooynHgRxM",
+      "title": "Rust Programming for Beginners: Understanding Strings IN HINDI",
+      "duration": 452
+    },
+    {
+      "id": "uh7_XQ8ytEE",
+      "title": "Rust String Methods: Replace, Lines, Split, Trim.... IN HINDI",
+      "duration": 755
+    },
+    {
+      "id": "gfdUcDNvJTE",
+      "title": "Rust Traits Tutorial for Beginners IN HINDI",
+      "duration": 494
+    },
+    {
+      "id": "jjt353PSDE8",
+      "title": "Rust Vectors Learn How to Use Vectors || Shorthand Method Vectors in Rust Programming IN HINDI",
+      "duration": 352
+    },
+    {
+      "id": "C85pmGNIsG4",
+      "title": "Rust Programming Tutorial: How to Read Files IN HINDI",
+      "duration": 264
+    },
+    {
+      "id": "cBfguDf5Evo",
+      "title": "Mastering Command Line Arguments in Rust: A Beginner's Guide IN HINDI",
+      "duration": 355
+    },
+    {
+      "id": "pA3pF5EnlYI",
+      "title": "Rust Programming Tutorial: How to Write Files in Rust IN HINDI",
+      "duration": 243
+    },
+    {
+      "id": "MJAmMQHHg-0",
+      "title": "Mastering Rust Traits: A Comprehensive Guide IN HINDI",
+      "duration": 364
+    },
+    {
+      "id": "E3NWNV6J-NA",
+      "title": "Mastering Rust's Match Operator: A Comprehensive Guide IN HINDI",
+      "duration": 380
+    },
+    {
+      "id": "zdH_C-FJOTg",
+      "title": "Rust Programming Tutorial: Handling User Input IN HINDI",
+      "duration": 370
+    },
+    {
+      "id": "TXRSVgOgDvs",
+      "title": "Rust Hash Map Tutorial: Learn How to Use Hash Maps in Rust IN HINDI",
+      "duration": 751
+    },
+    {
+      "id": "YAnGHkM_TRE",
+      "title": "Rust Programming Tutorial Random Number Generation IN HINDI",
+      "duration": 312
+    },
+    {
+      "id": "pnZJJ8T5nXw",
+      "title": "Rust Programming: Understanding Public and Private Function Implementation IN HINDI",
+      "duration": 329
+    },
+    {
+      "id": "f49Xr6BNK3k",
+      "title": "Rust Programming: Organizing Code with Multiple Source Files IN HINDI",
+      "duration": 158
+    },
+    {
+      "id": "ttCJdihLnOk",
+      "title": "Regular Expressions in Rust: A Comprehensive Guide IN HINDI",
+      "duration": 505
+    },
+    {
+      "id": "MwT9-zeeqXc",
+      "title": "Understanding Rust Option Enums: A Comprehensive Guide IN HINDI",
+      "duration": 400
+    },
+    {
+      "id": "J1Fs2n4Ogyk",
+      "title": "Rust Enum Methods For Beginners IN HINDI",
+      "duration": 238
+    },
+    {
+      "id": "b9HybkCV9wc",
+      "title": "Rust Terminal Commands Tutorial: Mastering Command Line Interactions with Rust IN HINDI",
+      "duration": 348
+    },
+    {
+      "id": "V2YGDHAhd8Q",
+      "title": "Rust Testing Tutorial: Building a Strong Foundation for Robust Code IN HINDI",
+      "duration": 508
+    },
+    {
+      "id": "sowqvUrvfag",
+      "title": "Rust Tutorial: Parsing JSON Data || Aliasing  IN HINDI",
+      "duration": 311
+    },
+    {
+      "id": "k1Npnt22Rwk",
+      "title": "Is error handling easy in rust? | Does rust having exceptions? IN HINDI",
+      "duration": 846
+    }
+  ]
+}

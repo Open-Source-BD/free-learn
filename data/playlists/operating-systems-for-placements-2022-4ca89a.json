@@ -1,0 +1,170 @@
+{
+  "courseId": "operating-systems-for-placements-2022-4ca89a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:54.155Z",
+  "title": "Operating Systems for Placements 2022",
+  "channel": "CodeHelp - by Babbar",
+  "videos": [
+    {
+      "id": "_TpOHMCODXo",
+      "title": "Introduction to Operating Systems Placements Course 2022",
+      "duration": 441
+    },
+    {
+      "id": "a1l4MceYHaQ",
+      "title": "Lecture 1: What is an Operating System ?",
+      "duration": 1118
+    },
+    {
+      "id": "LBqNWOqSzBA",
+      "title": "Lecture 2: Types of Operating Systems",
+      "duration": 2421
+    },
+    {
+      "id": "iAnEvdCya6M",
+      "title": "Lecture 3: Multi-Tasking vs Multi-Threading",
+      "duration": 2337
+    },
+    {
+      "id": "kHMXP_i6zew",
+      "title": "Lecture 4: Components of Operating System",
+      "duration": 2716
+    },
+    {
+      "id": "lo8Z61qCDqQ",
+      "title": "Lecture 5: System Calls in Operating System  [Theory + Example + Hands-on Terminal]",
+      "duration": 1693
+    },
+    {
+      "id": "nAr2sLiLDWw",
+      "title": "Lecture 6: How Operating System Boots up?",
+      "duration": 1111
+    },
+    {
+      "id": "cE6WoaUnpAM",
+      "title": "Lecture 7: Difference between 32-bit & 64-bit Operating System",
+      "duration": 1217
+    },
+    {
+      "id": "KFIStTj2DFw",
+      "title": "Lecture 8: Comparison between different STORAGES used in Computer",
+      "duration": 674
+    },
+    {
+      "id": "ev4PrTlTKzE",
+      "title": "Lecture 9: How OS creates a PROCESS  || Introduction to Process",
+      "duration": 2255
+    },
+    {
+      "id": "BoH-yzA2nj8",
+      "title": "Lecture 10: What are different Process States in Operating System ?",
+      "duration": 1098
+    },
+    {
+      "id": "arlIBez-W_I",
+      "title": "Lecture 11: Context Switching in OS | Medium Term Scheduler | Orphan/Zombie Process",
+      "duration": 2441
+    },
+    {
+      "id": "lLmqbQnLM4A",
+      "title": "Lecture 12: What is Convoy Effect | FCFS CPU Scheduling Algorithm",
+      "duration": 1495
+    },
+    {
+      "id": "AXrF0AmMYlc",
+      "title": "Lecture 13:  Shortest Job First Algorithm | Priority Scheduling | Round Robin CPU Scheduling",
+      "duration": 2673
+    },
+    {
+      "id": "ly5Ume_Crsk",
+      "title": "Lecture 14: Multi Level Queue Scheduling || MLFQ  || Comparison btw CPU Scheduling Algorithms",
+      "duration": 1682
+    },
+    {
+      "id": "S7Aym-4-iUc",
+      "title": "Lecture 15: What is Concurrency ? || Multi-Threading in C++ || Operating Systems Placement Series",
+      "duration": 1460
+    },
+    {
+      "id": "6NEJ3-nOQek",
+      "title": "Lecture 16: Critical Section Problem || Race condition in OS",
+      "duration": 2129
+    },
+    {
+      "id": "AeDvGSbnoBE",
+      "title": "Lecture 17: Conditional Variables & Semaphores to Synchronise Threads",
+      "duration": 1373
+    },
+    {
+      "id": "lY64CSlnjpg",
+      "title": "Lecture 18: Producer Consumer Problem and its Solution || OS Placement Series",
+      "duration": 887
+    },
+    {
+      "id": "TyJ3as7haIU",
+      "title": "Lecture 19: Reader-Writer Problem and its Solution || OS Placement Series",
+      "duration": 831
+    },
+    {
+      "id": "PIaIJCUZbf4",
+      "title": "Lecture 20: The Dining Philosophers Problem & its Solution",
+      "duration": 984
+    },
+    {
+      "id": "pkTekFvauhU",
+      "title": "Lecture 21: What is Deadlock | Necessary Conditions | Handling Methods | Part - 1",
+      "duration": 3246
+    },
+    {
+      "id": "dupdUhx1fns",
+      "title": "Lecture 22: Deadlock Avoidance | Deadlock Detection and Recovery | Part - 2",
+      "duration": 1430
+    },
+    {
+      "id": "pOfDCjYm6Kk",
+      "title": "Lecture 23: Solving LeetCode Problems on Concurrency || OS Placement Series",
+      "duration": 1881
+    },
+    {
+      "id": "ZNcArN7ODrw",
+      "title": "Lecture 24: Memory Management in OS || Contiguous Memory Allocation",
+      "duration": 2949
+    },
+    {
+      "id": "_hrKEA1sEUo",
+      "title": "Lecture 25: How OS manages Free Space? || Memory Management",
+      "duration": 1870
+    },
+    {
+      "id": "P65WxiAjySs",
+      "title": "Lecture 26: What is Paging? || Non-Contiguous Memory Allocation",
+      "duration": 2857
+    },
+    {
+      "id": "fRPz3dQ2LZc",
+      "title": "Lecture 27: What is Segmentation || Non-Contiguous Memory Allocation",
+      "duration": 1632
+    },
+    {
+      "id": "U7wsluje5lU",
+      "title": "Lecture 28: What is Virtual Memory? || Page fault in OS",
+      "duration": 2655
+    },
+    {
+      "id": "S727dgU0pU8",
+      "title": "Lecture 29: Page Replacement Algorithms || How to implement LRU algorithm?",
+      "duration": 2489
+    },
+    {
+      "id": "gA34TuSHAHk",
+      "title": "Lecture 30: What is Thrashing? || Important Interview Question",
+      "duration": 2109
+    },
+    {
+      "id": "9xS77QBL8W0",
+      "title": "Bonus Session: Solving LeetCode Problems on Concurrency || Operating Systems Placement Series",
+      "duration": 2029
+    }
+  ]
+}
