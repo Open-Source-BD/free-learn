@@ -1,0 +1,485 @@
+{
+  "courseId": "vue-js-3-bangla-tutorial-e8b84c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:38.456Z",
+  "title": "Vue JS 3 Bangla Tutorial",
+  "channel": "Mamunur Rashid (Rimon)",
+  "videos": [
+    {
+      "id": "CS4LAhAogpU",
+      "title": "Vue.js 3 Bangla Tutorial: 1. Introduction",
+      "duration": 355
+    },
+    {
+      "id": "uzWbZaFX4v8",
+      "title": "Vue.js 3 Bangla Tutorial: 2. Understanding JavaScript and JSON",
+      "duration": 995
+    },
+    {
+      "id": "AWQKaMyrNa0",
+      "title": "Vue.js 3 Bangla Tutorial: 3. Environment Setup",
+      "duration": 471
+    },
+    {
+      "id": "cumXvLQ7jBY",
+      "title": "Vue.js 3 Bangla Tutorial: 4. Data and attribute binding",
+      "duration": 528
+    },
+    {
+      "id": "RuTk-1qzWkg",
+      "title": "Vue.js 3 Bangla Tutorial: 5. Method and Events",
+      "duration": 600
+    },
+    {
+      "id": "-lvM0KGr3I8",
+      "title": "Vue.js 3 Bangla Tutorial: 6. Event and method arguments",
+      "duration": 477
+    },
+    {
+      "id": "v7E7zXvyDB8",
+      "title": "Vue.js 3 Bangla Tutorial: 7. Event Modifiers",
+      "duration": 1088
+    },
+    {
+      "id": "rBnO6RybQiw",
+      "title": "Vue.js 3 Bangla Tutorial: 8. Two way data binding",
+      "duration": 865
+    },
+    {
+      "id": "_y29zAs-YoI",
+      "title": "Vue.js 3 Bangla Tutorial: 9. Class binding",
+      "duration": 664
+    },
+    {
+      "id": "uG-EMu2W3zA",
+      "title": "Vue.js 3 Bangla Tutorial: 10. Style Binding",
+      "duration": 400
+    },
+    {
+      "id": "6awto8q43zk",
+      "title": "Vue.js 3 Bangla Tutorial: 11. List Rendering",
+      "duration": 746
+    },
+    {
+      "id": "zfqhMZXCLls",
+      "title": "Vue.js 3 Bangla Tutorial: 12. Uses of key in loops",
+      "duration": 400
+    },
+    {
+      "id": "qiBF00dMz6g",
+      "title": "Vue.js 3 Bangla Tutorial: 13. List rendering of object and numbers",
+      "duration": 542
+    },
+    {
+      "id": "zXgyk09ZBo4",
+      "title": "Vue.js 3 Bangla Tutorial: 14. Conditional Rendering",
+      "duration": 514
+    },
+    {
+      "id": "ffQhAal53-0",
+      "title": "Vue.js 3 Bangla Tutorial: 15. Computed Properties",
+      "duration": 638
+    },
+    {
+      "id": "Nw4ybgjlxNw",
+      "title": "Vue.js 3 Bangla Tutorial: 16. Watcher",
+      "duration": 683
+    },
+    {
+      "id": "2OOwD4ZZu-o",
+      "title": "Vue.js 3 Bangla Tutorial: 17. Computed property vs Method vs Watcher",
+      "duration": 308
+    },
+    {
+      "id": "UUMDFK_zdxA",
+      "title": "Vue.js 3 Bangla Tutorial: 18. Ticket booking app introduction",
+      "duration": 304
+    },
+    {
+      "id": "yRKrIHE8_qk",
+      "title": "Vue.js 3 Bangla Tutorial: 19. Ticket Booking App Coding",
+      "duration": 2486
+    },
+    {
+      "id": "ktCAxz7lbYw",
+      "title": "Vue.js 3 Bangla Tutorial: 20. Multiple apps and Templates",
+      "duration": 429
+    },
+    {
+      "id": "HrhG_SFrSCA",
+      "title": "Vue.js 3 Bangla Tutorial: 21. Vue JS Reactivity - How it works",
+      "duration": 693
+    },
+    {
+      "id": "XRrJ-Yyxr-4",
+      "title": "Vue.js 3 Bangla Tutorial: 22. Understanding Virtual DOM",
+      "duration": 361
+    },
+    {
+      "id": "cKRT6mLf0SE",
+      "title": "Vue.js 3 Bangla Tutorial: 23. Introduction to Components",
+      "duration": 266
+    },
+    {
+      "id": "03KwoEQhn5k",
+      "title": "Vue.js 3 Bangla Tutorial: 24. Creating your first Component",
+      "duration": 307
+    },
+    {
+      "id": "zxXVTYPmKHE",
+      "title": "Vue.js 3 Bangla Tutorial: 25. Changing Development Environment",
+      "duration": 412
+    },
+    {
+      "id": "aVCWeQc471g",
+      "title": "Vue.js 3 Bangla Tutorial: 26. Intruduction To Vue CLI",
+      "duration": 711
+    },
+    {
+      "id": "ANKjfwkbKCw",
+      "title": "Vue.js 3 Bangla Tutorial: 27. Understanding CLI project structure",
+      "duration": 477
+    },
+    {
+      "id": "h-XhmWI-KQQ",
+      "title": "Vue.js 3 Bangla Tutorial: 28. Recreating vue app with CLI",
+      "duration": 853
+    },
+    {
+      "id": "svzxdPy3YvE",
+      "title": "Vue.js 3 Bangla Tutorial: 29: Recreating the component with CLI",
+      "duration": 363
+    },
+    {
+      "id": "2wHbZtj3x9E",
+      "title": "Vue.js 3 Bangla Tutorial: 30. Vue CLI alternatives",
+      "duration": 121
+    },
+    {
+      "id": "yUrBoAdz-uY",
+      "title": "Vue.js 3 Bangla Tutorial: 31. Adding style to components",
+      "duration": 234
+    },
+    {
+      "id": "uBs1PxSQCBk",
+      "title": "Vue.js 3 Bangla Tutorial: 32. Component custom properties",
+      "duration": 388
+    },
+    {
+      "id": "Nt2UxjWMG34",
+      "title": "Vue.js 3 Bangla Tutorial: Props Validation",
+      "duration": 598
+    },
+    {
+      "id": "zl6EkpP0u4U",
+      "title": "Vue.js 3 Bangla Tutorial: 34. Component Slots",
+      "duration": 665
+    },
+    {
+      "id": "132sG5-vPNE",
+      "title": "Vue.js 3 Bangla Tutorial: 35. Named Slots",
+      "duration": 495
+    },
+    {
+      "id": "0sFD1VyvUfM",
+      "title": "Vue.js 3 Bangla Tutorial: 36. Slots object and more",
+      "duration": 294
+    },
+    {
+      "id": "PNJgMUQBNdA",
+      "title": "Vue.js 3 Bangla Tutorial: 37. Component custom event",
+      "duration": 984
+    },
+    {
+      "id": "XBnj1lpFTLU",
+      "title": "Vue.js 3 Bangla Tutorial: 38. Component communications",
+      "duration": 297
+    },
+    {
+      "id": "gbWF2iYQ54g",
+      "title": "Vue.js 3 Bangla Tutorial: 39. Unidirectional data flow",
+      "duration": 680
+    },
+    {
+      "id": "IsjyhuXBQNg",
+      "title": "Vue.js 3 Bangla Tutorial: 40. Moving to vite",
+      "duration": 543
+    },
+    {
+      "id": "SbvMqt-rvpo",
+      "title": "Vue.js 3 Bangla Tutorial: 41. Adding v-model support",
+      "duration": 837
+    },
+    {
+      "id": "4dHp2SCXAvQ",
+      "title": "Vue.js 3 Bangla Tutorial: 42. Multiple v-model support",
+      "duration": 1146
+    },
+    {
+      "id": "1uwpb3GnP3s",
+      "title": "Vue.js 3 Bangla Tutorial: 43. Non-Prop Attributes",
+      "duration": 1290
+    },
+    {
+      "id": "7jK1muHIkGg",
+      "title": "Vue.js 3 Bangla Tutorial: 44. Lifecycle Hooks",
+      "duration": 1077
+    },
+    {
+      "id": "_gri0KVxFeE",
+      "title": "Vue.js 3 Bangla Tutorial: 45. Teleport Component",
+      "duration": 1355
+    },
+    {
+      "id": "Lw1RSj8enlI",
+      "title": "Vue.js 3 Bangla Tutorial: 46. Fragments",
+      "duration": 222
+    },
+    {
+      "id": "c2sY5JzL2B4",
+      "title": "Vue.js 3 Bangla Tutorial: 47. Dynamic and async components",
+      "duration": 500
+    },
+    {
+      "id": "oTXeIM4ci0Y",
+      "title": "Vue.js 3 Bangla Tutorial: 48. Dependency injection with provide-inject",
+      "duration": 502
+    },
+    {
+      "id": "aqarWaNq1s0",
+      "title": "Vue.js 3 Bangla Tutorial: 49. Working with references - $refs",
+      "duration": 445
+    },
+    {
+      "id": "BkAkkGKWThQ",
+      "title": "Vue.js 3 Bangla Tutorial: 50. Official Style guide",
+      "duration": 394
+    },
+    {
+      "id": "x42oKi7R3xo",
+      "title": "Vue.js 3 Bangla Tutorial: 51. Working with forms - input text, textarea",
+      "duration": 517
+    },
+    {
+      "id": "ZuhjeVEBVPo",
+      "title": "Vue.js 3 Bangla Tutorial: 52. Working with forms - Radio Button",
+      "duration": 346
+    },
+    {
+      "id": "p1RJaI3VvAs",
+      "title": "Vue.js 3 Bangla Tutorial: 53. Working with forms - Select",
+      "duration": 450
+    },
+    {
+      "id": "K0c_IW7XIAo",
+      "title": "Vue.js 3 Bangla Tutorial: 54. Working with forms - checkbox",
+      "duration": 366
+    },
+    {
+      "id": "ADpcBs6U3AU",
+      "title": "Vue.js 3 Bangla Tutorial: 55. Pharmacy Management Project - 1 Introduction",
+      "duration": 777
+    },
+    {
+      "id": "ZryYBVeIf2Y",
+      "title": "Vue.js 3 Bangla Tutorial: 56. Pharmacy Management Project - 2 Project setup",
+      "duration": 274
+    },
+    {
+      "id": "B3QOjHV6o1g",
+      "title": "Vue.js 3 Bangla Tutorial: 57. Pharmacy Management Project - 3 Designing the login page",
+      "duration": 689
+    },
+    {
+      "id": "b2DAhUm-GaQ",
+      "title": "Vue.js 3 Bangla Tutorial: 58. Pharmacy Management Project - 4 Adding form validation",
+      "duration": 700
+    },
+    {
+      "id": "JI5Kn5x8Oxg",
+      "title": "Vue.js 3 Bangla Tutorial: 59. Pharmacy Management Project - 5 Creating toast component",
+      "duration": 1936
+    },
+    {
+      "id": "_CIfWzaJrNw",
+      "title": "Vue.js 3 Bangla Tutorial: 60. Pharmacy Management Project - 6 Transition animation basic",
+      "duration": 1570
+    },
+    {
+      "id": "KNkzialBm0M",
+      "title": "Vue.js 3 Bangla Tutorial: 61. Pharmacy Management Project - 7 Adding animation to the toast.",
+      "duration": 619
+    },
+    {
+      "id": "LviXM9I5toI",
+      "title": "Vue.js 3 Bangla Tutorial: 62. Pharmacy Management Project - 8 Introduction to the API.",
+      "duration": 298
+    },
+    {
+      "id": "qQAf53IFRmg",
+      "title": "Vue.js 3 Bangla Tutorial: 63. Pharmacy Management Project - 9 Calling the login API",
+      "duration": 724
+    },
+    {
+      "id": "g0qF_YO1keE",
+      "title": "Vue.js 3 Bangla Tutorial: 64. Pharmacy Management Project - 10 TheButton component",
+      "duration": 699
+    },
+    {
+      "id": "MHf8Pu-MZ0M",
+      "title": "Vue.js 3 Bangla Tutorial: 65. Pharmacy Management Project - 11 vue-router setup",
+      "duration": 970
+    },
+    {
+      "id": "EmIeuJjYiy8",
+      "title": "Vue.js 3 Bangla Tutorial: 66. Pharmacy Management Project - 12 Designing dashboard layout",
+      "duration": 132
+    },
+    {
+      "id": "Ln1rzfVShlU",
+      "title": "Vue.js 3 Bangla Tutorial: 67. Pharmacy Management Project - 13 TheSidebar component",
+      "duration": 298
+    },
+    {
+      "id": "u0y0fE8Hk7g",
+      "title": "Vue.js 3 Bangla Tutorial: 68. Pharmacy Management Project - 14 TheHeader component",
+      "duration": 177
+    },
+    {
+      "id": "mzZN3g-V_lU",
+      "title": "Vue.js 3 Bangla Tutorial: 69. Pharmacy Management Project - 15 Child route setup",
+      "duration": 668
+    },
+    {
+      "id": "dw8EpG6BR8A",
+      "title": "Vue.js 3 Bangla Tutorial: 70. Pharmacy Management Project - 16 Using router-view",
+      "duration": 528
+    },
+    {
+      "id": "KMD2-iQXRzw",
+      "title": "Vue.js 3 Bangla Tutorial: 71. Pharmacy Management Project - 17 Creating vendors page",
+      "duration": 280
+    },
+    {
+      "id": "GIwx-1MY10Y",
+      "title": "Vue.js 3 Bangla Tutorial: 72. Pharmacy Management Project - 18 TheModal component",
+      "duration": 962
+    },
+    {
+      "id": "YDMtAzmcRBE",
+      "title": "Vue.js 3 Bangla Tutorial: 73. Pharmacy Management Project - 19 Vendors CRUD - Part1",
+      "duration": 1369
+    },
+    {
+      "id": "INgbeDeH9U0",
+      "title": "Vue.js 3 Bangla Tutorial: 74. Pharmacy Management Project - 20 Vendors CRUD - Part2",
+      "duration": 922
+    },
+    {
+      "id": "uT-sVMy7aUA",
+      "title": "Vue.js 3 Bangla Tutorial: 75. Pharmacy Management Project - 21 Utility functions",
+      "duration": 1051
+    },
+    {
+      "id": "eNFC4PWPeL4",
+      "title": "Vue.js 3 Bangla Tutorial: 76. Pharmacy Management Project - 22 Using axios instance",
+      "duration": 1345
+    },
+    {
+      "id": "Sh89jzXv2Eo",
+      "title": "Vue.js 3 Bangla Tutorial: 77. Pharmacy Management Project - 23 Drugs CRUD",
+      "duration": 1347
+    },
+    {
+      "id": "zcNv85cNmRM",
+      "title": "Vue.js 3 Bangla Tutorial: 78. Pharmacy Management Project - 24 Authentication and Authorization",
+      "duration": 1235
+    },
+    {
+      "id": "ygsau4ODgSw",
+      "title": "Vue.js 3 Bangla Tutorial: 79. Pharmacy Management Project - 25 Search drug",
+      "duration": 1126
+    },
+    {
+      "id": "RCTE3DgnYPE",
+      "title": "Vue.js 3 Bangla Tutorial: 80. Pharmacy Management Project - 26 Drug details modal",
+      "duration": 964
+    },
+    {
+      "id": "WXcV5fH_UsU",
+      "title": "Vue.js 3 Bangla Tutorial: 81. Pharmacy Management Project - 27 TheCart component",
+      "duration": 348
+    },
+    {
+      "id": "SXg5ygFQnws",
+      "title": "Vue.js 3 Bangla Tutorial: 82. Pharmacy Management Project - 28 State management introduction",
+      "duration": 993
+    },
+    {
+      "id": "Bopu1iu3KYc",
+      "title": "Vue.js 3 Bangla Tutorial: 83. Pharmacy Management Project - 29 Introduction to Pinia",
+      "duration": 1267
+    },
+    {
+      "id": "E3ytqjxQ2Gk",
+      "title": "Vue.js 3 Bangla Tutorial: 84. Pharmacy Management Project - 30 Cart store with Pinia",
+      "duration": 1529
+    },
+    {
+      "id": "HZzamM6NEio",
+      "title": "Vue.js 3 Bangla Tutorial: 85. Pharmacy Management Project - 31 Persisting pinia store",
+      "duration": 624
+    },
+    {
+      "id": "fQP-XLTvl0I",
+      "title": "Vue.js 3 Bangla Tutorial: 86. Pharmacy Management Project - 32 Placing order",
+      "duration": 780
+    },
+    {
+      "id": "kndwmV7fglg",
+      "title": "Vue.js 3 Bangla Tutorial: 87. Pharmacy Management Project - 33 Order history",
+      "duration": 1104
+    },
+    {
+      "id": "JIl82AziHlI",
+      "title": "Vue.js 3 Bangla Tutorial: 88. Pharmacy Management Project - 34 Overview page",
+      "duration": 669
+    },
+    {
+      "id": "z1npDjhe2uI",
+      "title": "Vue.js 3 Bangla Tutorial: 89. Pharmacy Management Project - 35 Settings route setup",
+      "duration": 537
+    },
+    {
+      "id": "mfA3YAHaGpg",
+      "title": "Vue.js 3 Bangla Tutorial: 90. Pharmacy Management Project - 36 Theme settings",
+      "duration": 1135
+    },
+    {
+      "id": "Aye90zD5NHE",
+      "title": "Vue.js 3 Bangla Tutorial: 91. Pharmacy Management Project - 37 Account and website settings",
+      "duration": 863
+    },
+    {
+      "id": "y4StaTlOsAM",
+      "title": "Vue.js 3 Bangla Tutorial: 92. Deploy vue js projects to server",
+      "duration": 1317
+    },
+    {
+      "id": "pmUgYhmpWls",
+      "title": "Vue.js 3 Bangla Tutorial: 93. Composition API",
+      "duration": 415
+    },
+    {
+      "id": "wK3l8w2ga0c",
+      "title": "Vue.js 3 Bangla Tutorial: 94. Migrating Vue 2 project to Vue 3",
+      "duration": 223
+    },
+    {
+      "id": "SEemz7FVw5E",
+      "title": "Vue.js 3 Bangla Tutorial: 95. What's next?",
+      "duration": 300
+    }
+  ]
+}

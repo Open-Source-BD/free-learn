@@ -1,0 +1,80 @@
+{
+  "courseId": "angularjs-bangla-tutorial-basic-df4556",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:39.236Z",
+  "title": "Angularjs bangla tutorial basic",
+  "channel": "Learn Hunter",
+  "videos": [
+    {
+      "id": "qv7oK5Hfn_8",
+      "title": "Angularjs bangla tutorial 1(introduction)",
+      "duration": 458
+    },
+    {
+      "id": "oIMXsPIxXiI",
+      "title": "Angularjs bangla tutorial 2(ng-app,bind,model)",
+      "duration": 634
+    },
+    {
+      "id": "QZ0Hqz_QcI8",
+      "title": "Angularjs bangla tutorial 3(ng-init)",
+      "duration": 297
+    },
+    {
+      "id": "AzT6KwaWks4",
+      "title": "Angularjs bangla tutorial 4(Expresion)",
+      "duration": 215
+    },
+    {
+      "id": "VTPtcu5Hc_0",
+      "title": "Angularjs bangla tutorial 5(ng-repeat)",
+      "duration": 568
+    },
+    {
+      "id": "wPtSfiEZXEU",
+      "title": "Angularjs bangla tutorial 6(validate)",
+      "duration": 269
+    },
+    {
+      "id": "nIgiRogOy1E",
+      "title": "Angularjs bangla tutorial 7(some directive)",
+      "duration": 321
+    },
+    {
+      "id": "jsthg11YN-I",
+      "title": "Angularjs bangla tutorial 8(scope)",
+      "duration": 445
+    },
+    {
+      "id": "bFBjHMqF9YM",
+      "title": "Angularjs bangla tutorial 9(upper & lower)",
+      "duration": 268
+    },
+    {
+      "id": "QLdgGTzGNy0",
+      "title": "Angularjs bangla tutorial 10(Filter)",
+      "duration": 520
+    },
+    {
+      "id": "ModzChlA5oo",
+      "title": "Angularjs bangla tutorial 11(advance filter)",
+      "duration": 191
+    },
+    {
+      "id": "LNB0pKSbxDk",
+      "title": "Angularjs bangla tutorial 12(timeout)",
+      "duration": 477
+    },
+    {
+      "id": "nbeylWj6e3U",
+      "title": "Angularjs bangla tutorial 13(event)",
+      "duration": 304
+    },
+    {
+      "id": "QDvl4PUdzJY",
+      "title": "Angularjs bangla tutorial 14(project overview)",
+      "duration": 231
+    }
+  ]
+}

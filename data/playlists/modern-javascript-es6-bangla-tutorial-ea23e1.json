@@ -1,0 +1,145 @@
+{
+  "courseId": "modern-javascript-es6-bangla-tutorial-ea23e1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:22.251Z",
+  "title": "Modern JavaScript ES6 Bangla Tutorial",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "PWXkYBmlbB4",
+      "title": "#1 - Introduction - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 108
+    },
+    {
+      "id": "UwrmEUCaAIY",
+      "title": "#2 - JavaScript Fat Arrow Functions Bangla Tutorial - Modern JavaScript Syntaxes in Bangla - ES6",
+      "duration": 1696
+    },
+    {
+      "id": "VPs3yHtN7Ss",
+      "title": "#3 - Truthy / Falsy values - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 317
+    },
+    {
+      "id": "akkfVWWZEio",
+      "title": "#4 - Ternary Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 529
+    },
+    {
+      "id": "UeMhY-8k1E4",
+      "title": "#5 - Array find() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 566
+    },
+    {
+      "id": "x1xire6i9EY",
+      "title": "#6 - Array findIndex() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 259
+    },
+    {
+      "id": "bLYEPdTSRDs",
+      "title": "#7 - Array filter() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 167
+    },
+    {
+      "id": "h6rTtCydrw0",
+      "title": "#8 - Array slice() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 315
+    },
+    {
+      "id": "jleFHKtgllE",
+      "title": "#9 - Array splice() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 319
+    },
+    {
+      "id": "aUqpld_h1j8",
+      "title": "#10 - Array concat() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 102
+    },
+    {
+      "id": "DymrMEkja24",
+      "title": "#11 - Array push() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 113
+    },
+    {
+      "id": "ZfrqGZTJuVQ",
+      "title": "#12 - Array map() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 186
+    },
+    {
+      "id": "zThtzWgMtjM",
+      "title": "#13 - Array reduce() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 365
+    },
+    {
+      "id": "ABJ9-ldZQkM",
+      "title": "#14 - for loop, for in & for of - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 455
+    },
+    {
+      "id": "eey1BnpTbKw",
+      "title": "#15 - Important object tricks - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 289
+    },
+    {
+      "id": "8Ysp6tP93zo",
+      "title": "#16 - Function default parameter - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 165
+    },
+    {
+      "id": "w8gXwrD-Kg4",
+      "title": "#17 - Spread Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 519
+    },
+    {
+      "id": "Owc1mLiZjDI",
+      "title": "#18 - Rest Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 323
+    },
+    {
+      "id": "UXxg2ncX4gU",
+      "title": "#19 - Destructuring - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 995
+    },
+    {
+      "id": "pcN3PFnw2Q0",
+      "title": "#20 - Module Imports / Exports - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 808
+    },
+    {
+      "id": "sPa_P1aaho8",
+      "title": "#21 - Template Literals - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 269
+    },
+    {
+      "id": "ws_XgqikD6o",
+      "title": "#22 - Tagged Template Literals - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "duration": 519
+    },
+    {
+      "id": "ACmxamCZrWg",
+      "title": "#23 - Set & WeakSet - Modern JavaScript Syntaxes - ES6+",
+      "duration": 2047
+    },
+    {
+      "id": "lIbjL50kl90",
+      "title": "#24 - copyWithin() Array Method - Modern JavaScript Syntax - ES6+",
+      "duration": 778
+    },
+    {
+      "id": "EBURWwIkCwU",
+      "title": "#25 - ES2020 / ES11 এর অসাধারণ কিছু features যেগুলো আমাদের জানা উচিৎ - JavaScript Tutorial in Bangla",
+      "duration": 986
+    },
+    {
+      "id": "qaQZZmBTTIw",
+      "title": "ECMAScript 2023 - ES14: Discover Four Exciting New Array Features!",
+      "duration": 1704
+    },
+    {
+      "id": "AqbDkXQJbH4",
+      "title": "JavaScript Object.groupBy() Mastery: Grouping Made Effortless!",
+      "duration": 652
+    }
+  ]
+}

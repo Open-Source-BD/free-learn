@@ -1,0 +1,265 @@
+{
+  "courseId": "understand-reactjs-advanced-features-b03d4c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:29.141Z",
+  "title": "Understand ReactJS Advanced Features",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "MOBwD1TjEvE",
+      "title": "1.1 We Have A Project | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 309
+    },
+    {
+      "id": "elPtjHlowGU",
+      "title": "1.2 Broke This Project Into Parts | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 155
+    },
+    {
+      "id": "NrmqUHCDXps",
+      "title": "2.1 Smart Component Vs Dumb Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 376
+    },
+    {
+      "id": "x_dRQX3TV5k",
+      "title": "2.2 Explore Component API  | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 336
+    },
+    {
+      "id": "pOE3wfPG790",
+      "title": "2.3 Idea Behind Puree Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 506
+    },
+    {
+      "id": "m-EaTYoRh_w",
+      "title": "2.4 Creating And Transforming Elements | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 340
+    },
+    {
+      "id": "YF5Lj0RYGhE",
+      "title": "2.5 Understand React Fragment | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 248
+    },
+    {
+      "id": "OqlLRadn0i8",
+      "title": "2.6 Divide Into Components | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 246
+    },
+    {
+      "id": "oaB5NFRDv4k",
+      "title": "2.7 Header Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 817
+    },
+    {
+      "id": "Al0JWYjFsWk",
+      "title": "2.8 Newslist Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 706
+    },
+    {
+      "id": "J3efI8KDVKQ",
+      "title": "2.9 Pagination Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 508
+    },
+    {
+      "id": "qJqzQqvcYnM",
+      "title": "2.10 Loading Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 192
+    },
+    {
+      "id": "wYO4cho96x8",
+      "title": "3.1 Understand Rest API | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 496
+    },
+    {
+      "id": "YDh8UfPgVU4",
+      "title": "3.2 Difference Between API And Custom URL",
+      "duration": 448
+    },
+    {
+      "id": "6jjc1LgfTjE",
+      "title": "3.3 Http Methods | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 367
+    },
+    {
+      "id": "csa_2ByZVZg",
+      "title": "3.4 Map Data From URL | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 480
+    },
+    {
+      "id": "Kh4KjnrdJKA",
+      "title": "3.5 Rest Api And React Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 86
+    },
+    {
+      "id": "2aOH2g_2oeI",
+      "title": "4.1 Understand Lifecycle Concept | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 287
+    },
+    {
+      "id": "2dE2hElmA64",
+      "title": "4.2 Constructor And Render | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 483
+    },
+    {
+      "id": "1MyOlmVWY0g",
+      "title": "4.3 ComponentDidmount | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 313
+    },
+    {
+      "id": "tsLL_gPV5Uc",
+      "title": "4.4 ComponentDidupdate | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 151
+    },
+    {
+      "id": "eqAhwMCK4yo",
+      "title": "4.5 Componentdidmount Vs Componentdidupdate | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 76
+    },
+    {
+      "id": "eftbfDQxPNg",
+      "title": "4.6 Componentwillunmount | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 201
+    },
+    {
+      "id": "mbkVEOOrOfk",
+      "title": "4.7 Getderivedstatefromprops | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 333
+    },
+    {
+      "id": "Sa662oW7Vik",
+      "title": "4.8 Shouldcomponentupdate | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 210
+    },
+    {
+      "id": "Du0AR1SXp8A",
+      "title": "4.9 Getsnapshotbeforeupdate | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 362
+    },
+    {
+      "id": "gB7TmXJRkrY",
+      "title": "4.10 React Lifecycle Methods | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 328
+    },
+    {
+      "id": "awMYbFKVwls",
+      "title": "5.1 Get Api Key | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 217
+    },
+    {
+      "id": "2RlS5jvtAPc",
+      "title": "5.2 Setup Environment Variable | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 565
+    },
+    {
+      "id": "mAYLe8gU3Rk",
+      "title": "6.1 Get Top Headlines | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 459
+    },
+    {
+      "id": "zbRALAL1EXY",
+      "title": "6.2 Update State With News | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 243
+    },
+    {
+      "id": "GqWa50PytTo",
+      "title": "6.3 Change Category | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 482
+    },
+    {
+      "id": "vrrkHMIMe4g",
+      "title": "6.4 Problem With Componentdidmount | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 436
+    },
+    {
+      "id": "hXaKEG0KyFw",
+      "title": "7.1 Setup Axios | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 373
+    },
+    {
+      "id": "p_mw00eMICU",
+      "title": "7.2 Get News Using News Class | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 1230
+    },
+    {
+      "id": "rgxzzkhxvOY",
+      "title": "7.3 Implement News Pagination | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 311
+    },
+    {
+      "id": "RcF8S7p_KSg",
+      "title": "7.4 Set Current Page | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 166
+    },
+    {
+      "id": "UwEYK-v5Zck",
+      "title": "7.5 Change Category | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 160
+    },
+    {
+      "id": "vW8BKBgvxgE",
+      "title": "7.6 Change Search Term | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 61
+    },
+    {
+      "id": "ppFlSD5fGpU",
+      "title": "7.7 Display All Articles | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 458
+    },
+    {
+      "id": "TAQ8MBuhi78",
+      "title": "7.8 Pagination Next And Previous | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 648
+    },
+    {
+      "id": "HYD6dTCY6G8",
+      "title": "7.9 Go To Page X | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 489
+    },
+    {
+      "id": "EaSHzTLM42E",
+      "title": "7.10 Implement Category Change | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 340
+    },
+    {
+      "id": "Xj0PA7FGthA",
+      "title": "7.11 Make Search Workable | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 248
+    },
+    {
+      "id": "x363n4kWlhQ",
+      "title": "7.12 Breakdown The Project | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 816
+    },
+    {
+      "id": "2OLJqTG3lAI",
+      "title": "8.1 Understand Ref | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 424
+    },
+    {
+      "id": "bT3zubM_rm0",
+      "title": "8.2 Implement Ref With Search Focus | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 567
+    },
+    {
+      "id": "BGWvIszmFag",
+      "title": "8.3 Implement Go To Top | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 265
+    },
+    {
+      "id": "ztjVlf1x7iU",
+      "title": "8.4 Forward Ref And Functional Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 545
+    },
+    {
+      "id": "QQI2j-g5HCg",
+      "title": "8.5 Forward Ref To Class Component | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 408
+    },
+    {
+      "id": "M0Wjvi25YSQ",
+      "title": "8.6 Callback Ref | Understand ReactJS Advanced Features | Stack Learner",
+      "duration": 618
+    }
+  ]
+}

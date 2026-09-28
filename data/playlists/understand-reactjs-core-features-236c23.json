@@ -1,0 +1,435 @@
+{
+  "courseId": "understand-reactjs-core-features-236c23",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:32.582Z",
+  "title": "Understand React JS Core Features",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "sCKGvYTSdKM",
+      "title": "0.0 Understand React JS Core Features - Introduction | Stack Learner",
+      "duration": 482
+    },
+    {
+      "id": "VFRE2tcLPa4",
+      "title": "1.1 Understanding React - What is React | Stack Learner",
+      "duration": 78
+    },
+    {
+      "id": "9znBJQEhMKg",
+      "title": "1.2 How Does React Work | Stack Learner",
+      "duration": 782
+    },
+    {
+      "id": "F6IHP0tFFvY",
+      "title": "1.3 Which Type of Problem React is Solving | Stack Learner",
+      "duration": 547
+    },
+    {
+      "id": "l5AYkvdtIyo",
+      "title": "1.4 Core Features of ReactJS | Stack Learner",
+      "duration": 287
+    },
+    {
+      "id": "uSPfXF7Nbew",
+      "title": "1.5 How to Use This Course | Stack Learner",
+      "duration": 273
+    },
+    {
+      "id": "OA_9gv2UD6Y",
+      "title": "2.1  Custom Environment Setup Introduction | Stack Learner",
+      "duration": 48
+    },
+    {
+      "id": "4lLuQwiOztM",
+      "title": "2.2 Tools We Need to Work with ReactJS | Stack Learner",
+      "duration": 197
+    },
+    {
+      "id": "Ckgoc--dgdo",
+      "title": "2.3 Custom Environment Setup For React | Stack Learner",
+      "duration": 191
+    },
+    {
+      "id": "at2155fkBNk",
+      "title": "2.4 File Structures of A React Application | Stack Learner",
+      "duration": 375
+    },
+    {
+      "id": "dLN_Yd9_PGo",
+      "title": "2.5 Our First React Application | Stack Learner",
+      "duration": 309
+    },
+    {
+      "id": "ELm_-3xzuEg",
+      "title": "3.1 Create React App Introduction | Stack Learner",
+      "duration": 45
+    },
+    {
+      "id": "n9iqwdXsMGw",
+      "title": "3.2 Understand What is Create React App | Stack Learner",
+      "duration": 153
+    },
+    {
+      "id": "HYk9ijTiwA8",
+      "title": "3.3 Create First Project using Create-React-App | Stack Learner",
+      "duration": 358
+    },
+    {
+      "id": "iSGTaj0h3HU",
+      "title": "3.4 Understand React Scripts in Create-React-App | Stack Learner",
+      "duration": 239
+    },
+    {
+      "id": "g5ZJeia0VcE",
+      "title": "3.5 Create-React-App Project File Structures | Stack Learner",
+      "duration": 686
+    },
+    {
+      "id": "AK3pKKxP1eQ",
+      "title": "3.6 Our First React Component | Stack Learner",
+      "duration": 682
+    },
+    {
+      "id": "GjqaIuNsB6M",
+      "title": "4.1 Component and Props - Chapter Introduction | Stack Learner",
+      "duration": 47
+    },
+    {
+      "id": "xPzgTLwuNeQ",
+      "title": "4.2 Understand Component | What is React Component | Stack Learner",
+      "duration": 398
+    },
+    {
+      "id": "-Zgei2p-Lgg",
+      "title": "4.3 Type of Components in React | Stack Learner",
+      "duration": 116
+    },
+    {
+      "id": "CZwjc7lM_70",
+      "title": "4.4 How to Create Functional Component in React | Stack Learner",
+      "duration": 225
+    },
+    {
+      "id": "F_q2U8K2Auk",
+      "title": "4.5 What is JSX in React | Stack Learner",
+      "duration": 706
+    },
+    {
+      "id": "hHaaAPrdM4g",
+      "title": "4.6 How to Use JSX in React | Stack Learner",
+      "duration": 934
+    },
+    {
+      "id": "3yygK6zJUt4",
+      "title": "4.7 Create A Simple Profile Component | Stack Learner",
+      "duration": 549
+    },
+    {
+      "id": "EQP-7Dj_MZU",
+      "title": "4.8 Spilt Profile Component into Multiple Child Components | Stack Learner",
+      "duration": 588
+    },
+    {
+      "id": "Ag2Hs8RNh2o",
+      "title": "4.9 How to Reuse React Components | Stack Learner",
+      "duration": 433
+    },
+    {
+      "id": "2-cznlRpchg",
+      "title": "4.10 What is Props in React | Stack Learner",
+      "duration": 667
+    },
+    {
+      "id": "ZyiEOmqmlb4",
+      "title": "4.11 Modify Profile Component Using Props | Stack Learner",
+      "duration": 594
+    },
+    {
+      "id": "afzp0-HHXOA",
+      "title": "4.12 How to Pass Function As Props | Stack Learner",
+      "duration": 300
+    },
+    {
+      "id": "ctrrjChHM9o",
+      "title": "4.13 How to Render Children Props in React | Stack Learner",
+      "duration": 240
+    },
+    {
+      "id": "U8wcbt1wMrs",
+      "title": "5.1 React State - Chapter Intro | Stack Learner",
+      "duration": 45
+    },
+    {
+      "id": "rjdegxxXtdI",
+      "title": "5.2 Why do We Need State in React | Stack Learner",
+      "duration": 465
+    },
+    {
+      "id": "5DVoCuEMdoY",
+      "title": "5.3 Introducing State in React | Stack Learner",
+      "duration": 432
+    },
+    {
+      "id": "SYUrzlyB_N8",
+      "title": "5.4 How does React State Work | Stack Learner",
+      "duration": 217
+    },
+    {
+      "id": "OX_rTDy5GrE",
+      "title": "5.5 How to Update State in React | Stack Learner",
+      "duration": 540
+    },
+    {
+      "id": "ao3tNQ5_IQk",
+      "title": "5.6 React State Example by Implementing A Timer | Stack Learner",
+      "duration": 753
+    },
+    {
+      "id": "jpwRKtEY9IU",
+      "title": "6.1 Styles in React - Chapter Introduction",
+      "duration": 24
+    },
+    {
+      "id": "pHtW_wWRcaY",
+      "title": "6.2 How to Style React Applications | Stack Learner",
+      "duration": 179
+    },
+    {
+      "id": "BTFBG4D8WGk",
+      "title": "6.3 Inline Styles in React | Stack Learner",
+      "duration": 377
+    },
+    {
+      "id": "EuEhMR5jFHE",
+      "title": "6.4 How to Use CSS Classes in React | Stack Learner",
+      "duration": 695
+    },
+    {
+      "id": "qgapiFsm_Ok",
+      "title": "6.5 What is CSS Module in React | Stack Learner",
+      "duration": 443
+    },
+    {
+      "id": "1cjo1KUt6xs",
+      "title": "6.6 What is Styled Component | Does It Necessary? | Stack Learner",
+      "duration": 85
+    },
+    {
+      "id": "RJ-HxHU_j5A",
+      "title": "7.1 Events in React - Chapter Intro | Stack Learner",
+      "duration": 20
+    },
+    {
+      "id": "O6sjJYQR3U8",
+      "title": "7.2 What is Events in React | Stack Learner",
+      "duration": 336
+    },
+    {
+      "id": "JHJelhCADEQ",
+      "title": "7.3 Our First React Event Handler | Stack Learner",
+      "duration": 430
+    },
+    {
+      "id": "0MGrc6-stb0",
+      "title": "7.4 Text Field Change Event in React | Stack Learner",
+      "duration": 289
+    },
+    {
+      "id": "MuOVOSIQHMU",
+      "title": "7.5 Two Way Data Bindings in React | Stack Learner",
+      "duration": 486
+    },
+    {
+      "id": "fZPcYBZllyI",
+      "title": "7.6 Text Field Blur and Focus Events in React | Stack Learner",
+      "duration": 265
+    },
+    {
+      "id": "Kd0cnKU8Q7U",
+      "title": "8.1 Inputs and Forms - Chapter Intro",
+      "duration": 32
+    },
+    {
+      "id": "l8iFCkqdkLo",
+      "title": "8.2 Basic Input Elements in React | Stack Learner",
+      "duration": 991
+    },
+    {
+      "id": "bQedajuWNgE",
+      "title": "8.3 Handle Checkbox and Radio Button in React | Stack Learner",
+      "duration": 460
+    },
+    {
+      "id": "zVPPIwdypRw",
+      "title": "8.4 React Checkbox and Skills Array Example | Stack Learner",
+      "duration": 560
+    },
+    {
+      "id": "YzGk5XjPzuM",
+      "title": "8.5 Introducing Forms in React - Uncontrolled Form | Stack Learner",
+      "duration": 602
+    },
+    {
+      "id": "PLJWLpKatmY",
+      "title": "8.6 Our First React Form | Stack Learner",
+      "duration": 483
+    },
+    {
+      "id": "XQaedKK_yDk",
+      "title": "8.7 Understand The Form Philosophy in React | Stack Learner",
+      "duration": 255
+    },
+    {
+      "id": "Bq6GFh_gLK8",
+      "title": "8.8 Split Form Into Multiple React Components | Stack Learner",
+      "duration": 1180
+    },
+    {
+      "id": "NuMWxHLu9XI",
+      "title": "8.9 Create A Simple Signup Form in React | Stack Learner",
+      "duration": 1255
+    },
+    {
+      "id": "XYw4cvbp8js",
+      "title": "8.10 How to Validate React Form | Stack Learner",
+      "duration": 266
+    },
+    {
+      "id": "MF5dgfLpuqw",
+      "title": "8.11 How to Implement Form Validation in React | Stack Learner",
+      "duration": 942
+    },
+    {
+      "id": "rO0z4fQMRSk",
+      "title": "8.12 Understand State Lifting in React | Stack Learner",
+      "duration": 531
+    },
+    {
+      "id": "eRXbUxnOacs",
+      "title": "9.1 Project 1 Tic Tac Toe - Chapter Intro",
+      "duration": 177
+    },
+    {
+      "id": "bye7464R-zY",
+      "title": "9.2 Tic Tac Toe - Setup Our Project",
+      "duration": 306
+    },
+    {
+      "id": "jRAwH8kei0g",
+      "title": "9.3 Square And Board Component - Tic Tac Toe | Stack Learner",
+      "duration": 737
+    },
+    {
+      "id": "pYS01sL0r-E",
+      "title": "9.4 Game Component Functionalities - Tic Tac Toe | Stack Learner",
+      "duration": 424
+    },
+    {
+      "id": "Wmb_O8YperU",
+      "title": "9.5 Game Winning Logic - Tic Tac Toe | Stack Learner",
+      "duration": 392
+    },
+    {
+      "id": "OQeAKxGtg5Y",
+      "title": "9.6 Implement Jump Functionality - Tic Tac Toe | Stack Learner",
+      "duration": 453
+    },
+    {
+      "id": "tALeyHu1k6A",
+      "title": "10.1 Project Stack Todo - Chapter Intro | Stack Learner",
+      "duration": 548
+    },
+    {
+      "id": "pHlXZEwKxVQ",
+      "title": "10.2 Stack Todo - Setup Our Project | Stack Learner",
+      "duration": 444
+    },
+    {
+      "id": "THuzLYvV-C8",
+      "title": "10.3 Implement List View of Projects - Stack Todo | Stack Learner",
+      "duration": 1028
+    },
+    {
+      "id": "r532r_HeovY",
+      "title": "10.4 Implement Table View of Projects - Stack Todo | Stack Learner",
+      "duration": 716
+    },
+    {
+      "id": "RKOk1Lp5Fs0",
+      "title": "10.5 How Create A Todo Form | Stack Learner",
+      "duration": 509
+    },
+    {
+      "id": "uSjwsnFoqYA",
+      "title": "10.6 Implement Controller Component with Search Panel | Stack Learner",
+      "duration": 450
+    },
+    {
+      "id": "xZKddkqlUss",
+      "title": "10.7 Add, Select and Complete Todo Functionalities | Stack Learner",
+      "duration": 740
+    },
+    {
+      "id": "1Rm_FBSYiGo",
+      "title": "10.8 Change View and Other Controllers JSX Implementation | Stack Learner",
+      "duration": 1279
+    },
+    {
+      "id": "6_yflrhSrIs",
+      "title": "10.9 Implement Search and Filter Functionalities | Stack Learner",
+      "duration": 663
+    },
+    {
+      "id": "G_T9Lh5KpZA",
+      "title": "10.10 Implement Bulk Operation Controller | Stack Learner",
+      "duration": 743
+    },
+    {
+      "id": "90dg771Nb4c",
+      "title": "11.1 Smart Poll Project - Chapter Intro",
+      "duration": 325
+    },
+    {
+      "id": "X3Gg5SpdxK4",
+      "title": "11.2 Smart Poll - Setup Our Project | Stack Learner",
+      "duration": 441
+    },
+    {
+      "id": "AmTIYFhE1sg",
+      "title": "11.3 Implement Poll CRUD Functionalities | Stack Learner",
+      "duration": 717
+    },
+    {
+      "id": "7eIHCJ1AH9M",
+      "title": "11.4 Implement Smart Poll Sidebar Component | Stack Learner",
+      "duration": 831
+    },
+    {
+      "id": "SWBAlnUdAuY",
+      "title": "11.5 Implement The Create Poll Form | Stack Learner",
+      "duration": 2100
+    },
+    {
+      "id": "Fm9GR6VyUOc",
+      "title": "11.6 Implement Poll Participation Form | Stack Learner",
+      "duration": 1110
+    },
+    {
+      "id": "nQ4AWPv_p8Q",
+      "title": "11.7 Implement Main Content and Get Opinion Functionalities | Stack Learner",
+      "duration": 853
+    },
+    {
+      "id": "zdjnuXWuD3U",
+      "title": "11.8 Reuse Create Poll Form | Stack Learner",
+      "duration": 679
+    },
+    {
+      "id": "P7bVJN0TwK8",
+      "title": "11.9 Implement Search Functionalities | Stack Learner",
+      "duration": 555
+    }
+  ]
+}

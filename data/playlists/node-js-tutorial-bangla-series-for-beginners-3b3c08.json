@@ -1,0 +1,190 @@
+{
+  "courseId": "node-js-tutorial-bangla-series-for-beginners-3b3c08",
+  "sourceUrl": "https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:11.498Z",
+  "title": "Node.js Tutorial Bangla | Express.js Tutorial Bangla Series for Beginners",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "WC-g0JtEIwM",
+      "title": "#1 - Node.js নিয়ে একটি ছোট্ট গল্প - Node.js Tutorial Bangla | Express.js Tutorial Bangla",
+      "duration": 1126
+    },
+    {
+      "id": "qImH1bFubW4",
+      "title": "#2 - Node.js কি & কিভাবে কাজ করে? - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 1332
+    },
+    {
+      "id": "J5sCarsKX1s",
+      "title": "#3 - Node.js Installation - VS Code Editor Setup - Node.js Tutorial Bangla",
+      "duration": 1703
+    },
+    {
+      "id": "IFBeIUX3J8M",
+      "title": "#4  Node.js Global Object & Module System - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 2267
+    },
+    {
+      "id": "6Yv3YXgPBJU",
+      "title": "#5 - Node.js Server & Core Modules - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 3514
+    },
+    {
+      "id": "BPdRVquo5pg",
+      "title": "#6 - Node.js Stream & Buffer - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 2717
+    },
+    {
+      "id": "dBd1j6x2HOo",
+      "title": "#7 - একটি Node.js এপ্লিকেশনের ব্যবচ্ছেদ - Understanding NodeJS | Node.js Tutorial Bangla",
+      "duration": 1602
+    },
+    {
+      "id": "Xg4effPSJXk",
+      "title": "#8 - Raw Node Project (Part 1) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 3553
+    },
+    {
+      "id": "_7AKC-Q9mKc",
+      "title": "#9 - Raw Node Project (Part 2) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 3321
+    },
+    {
+      "id": "OwXw8nV7RPc",
+      "title": "#10 - Raw Node Project (Part 3) - Node.js Tutorial | Node.js Tutorial",
+      "duration": 4087
+    },
+    {
+      "id": "KPl8NLRK52c",
+      "title": "#11 - Raw Node Project (Part 4) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 3488
+    },
+    {
+      "id": "XsEv2HCQLCs",
+      "title": "#12 - Raw Node Project (Part 5) - Node.js Tutorial | Node.js Tutorial",
+      "duration": 3751
+    },
+    {
+      "id": "2P-BDJQyxuQ",
+      "title": "#13 - Raw Node Project (Part 6) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 1514
+    },
+    {
+      "id": "1tmjwMxAifk",
+      "title": "#14 - Raw Node Project (Part 7) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "duration": 4233
+    },
+    {
+      "id": "nwneGf7vYgY",
+      "title": "#15 - Introduction to Express JS - Express JS in Bangla ( বাংলা ) - Node.js Bangla টিউটোরিয়াল",
+      "duration": 861
+    },
+    {
+      "id": "9plyl7_giFc",
+      "title": "#16 - express() function - Express JS in English - Node.js Tutorial",
+      "duration": 1062
+    },
+    {
+      "id": "5q3NeKhhLQ0",
+      "title": "#17 - application Object - Express JS in English - Node.js English Tutorial",
+      "duration": 1559
+    },
+    {
+      "id": "gPp65W7tnFM",
+      "title": "#18 - Request Object - Express JS in Bangla ( বাংলা ) - Node.js Bangla টিউটোরিয়াল",
+      "duration": 2378
+    },
+    {
+      "id": "sA5Hno7n01g",
+      "title": "#19 - Response Object - Express JS in Bangla - Node.js Bangla Tutorial",
+      "duration": 1605
+    },
+    {
+      "id": "JC8pvR7ZOiE",
+      "title": "#20 - Middleware Concept - Express JS in Bangla ( বাংলা ) - Node.js Bangla Tutorial",
+      "duration": 1622
+    },
+    {
+      "id": "SAZU6-Ucrno",
+      "title": "#21 - Router Concept - Express JS in Bangla (বাংলা) - Node.js Bangla Tutorial",
+      "duration": 1744
+    },
+    {
+      "id": "-iaqGdPNdHw",
+      "title": "#22 - Error Handling - Express JS in Bangla ( বাংলা ) - Node.js Bangla Tutorial",
+      "duration": 1077
+    },
+    {
+      "id": "w1kYZ0SOQTY",
+      "title": "#23 - File Upload with Multer - Express JS Tutorial - Node.js Tutorial",
+      "duration": 2009
+    },
+    {
+      "id": "dyJFohH1DEM",
+      "title": "#24 - MongoDB Introduction & Installation - SQL vs NoSQL - Node.js Tutorial",
+      "duration": 1387
+    },
+    {
+      "id": "yXK6Ch9ZhhA",
+      "title": "#25 - MongoDB basic CRUD Commands - Node.js Bangla Tutorial",
+      "duration": 1659
+    },
+    {
+      "id": "BtCGiEHzdfk",
+      "title": "#26 - Mongoose CRUD Application with Express.js - Node.js Tutorial",
+      "duration": 3824
+    },
+    {
+      "id": "KV4kNMxx7SY",
+      "title": "#27 - mongoose Instance Methods, Static & Query Helpers  - Node.js MongoDB Bangla Tutorial",
+      "duration": 2893
+    },
+    {
+      "id": "ZQJx93ZL7n8",
+      "title": "#28 - Authenticate with JSON Web Token (JWT) - Node.js Express.js Bangla Tutorial",
+      "duration": 2951
+    },
+    {
+      "id": "Sp1grkdJi7Q",
+      "title": "#29 - Mongoose - Populate Relational Data - Node.js Express.js Tutorial",
+      "duration": 1939
+    },
+    {
+      "id": "xihtoTIy-ms",
+      "title": "#30 - Project - Part 1 - Requirement Analysis - Full-stack Node Chat Application in Bangla",
+      "duration": 742
+    },
+    {
+      "id": "ujLUe1Hgd_Q",
+      "title": "#31 - Project - Part 2 - Complete Project Setup - Full-stack Node Chat Application in Bangla",
+      "duration": 3376
+    },
+    {
+      "id": "VclaxHIXrKw",
+      "title": "#32 - Project - Part 3 - User Management & Validation - Full-stack Node Chat Application in Bangla",
+      "duration": 3355
+    },
+    {
+      "id": "B63dURcrC5w",
+      "title": "#33 - Project - Part 4 - JWT - Cookie Authentication - Full-stack Node Chat Application in Bangla",
+      "duration": 2592
+    },
+    {
+      "id": "YXCJFtTyoKc",
+      "title": "#34 - Project - Part 5 - Realtime Chat with Websocket - Full-stack Node Chat Application in Bangla",
+      "duration": 2289
+    },
+    {
+      "id": "GtCEbTarCoQ",
+      "title": "#35 - Project - Part 6 - Authorization & Deployment - Full-stack Node Chat Application in Bangla",
+      "duration": 2022
+    },
+    {
+      "id": "TyTdnMHZ5Fk",
+      "title": "Master Node.js Multithreading with Worker Threads | Boost Your Application's Performance!",
+      "duration": 1811
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "courseId": "next-js-bangla-tutorial-series-c9a3bd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:50.405Z",
+  "title": "Next Js Bangla Tutorial Series",
+  "channel": "dSkill",
+  "videos": [
+    {
+      "id": "s8wDVaWBog0",
+      "title": "Next Js Bangla Tutorial: Setup, Basic Pages, and Head Component | Part 1",
+      "duration": 801
+    },
+    {
+      "id": "J6_EchrpYro",
+      "title": "Next Js Bangla Tutorial: Layout and CSS Module, Navbar, and JSX Style | Part 2",
+      "duration": 811
+    },
+    {
+      "id": "267IoG5I5QE",
+      "title": "Next Js Bangla Tutorial: Data Fetching, Server-Side Rendering, Static Site Generation | Part 3",
+      "duration": 907
+    },
+    {
+      "id": "XidCRNO84fs",
+      "title": "Next Js Bangla Tutorial: Nested Routes and Dynamic Route | Part 4",
+      "duration": 1093
+    },
+    {
+      "id": "i5GO9cZMyIk",
+      "title": "Next Js Bangla Tutorial: getStaticProps and getStaticPaths | Part 5",
+      "duration": 505
+    },
+    {
+      "id": "kwbbF0OnpLk",
+      "title": "Next Js Bangla Tutorial: Font Optimization, Image optimization | Part 6",
+      "duration": 942
+    },
+    {
+      "id": "-yJZPZibiAU",
+      "title": "Next Js Bangla Tutorial: API Routes, Fundamentals of API Routes in Next js | Part 7",
+      "duration": 1400
+    },
+    {
+      "id": "6p8cP0YHRe0",
+      "title": "Next Js Bangla Tutorial: Connect MongoDB with Next.js Bangla, Insert a Post on Mongodb | Part 8",
+      "duration": 1520
+    },
+    {
+      "id": "aumagIfk79c",
+      "title": "Next Js Bangla Tutorial: Connect MongoDB with Next.js Bangla, Update a Post on MongoDB | Part 9",
+      "duration": 1701
+    }
+  ]
+}
