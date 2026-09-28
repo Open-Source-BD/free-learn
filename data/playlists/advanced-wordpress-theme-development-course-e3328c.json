@@ -1,0 +1,595 @@
+{
+  "courseId": "advanced-wordpress-theme-development-course-e3328c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEVK9h",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:04:28.216Z",
+  "title": "Advanced WordPress Theme Development Course | learn wordpress theme development | wordpress theme development from scratch",
+  "channel": "Imran Sayed - Codeytek Academy",
+  "videos": [
+    {
+      "id": "lNtw4yxEydM",
+      "title": "#1 Advanced WordPress Theme Development | Wordpress theme development course | Introduction",
+      "duration": 325
+    },
+    {
+      "id": "cK_wvACTGMw",
+      "title": "#2 Advanced WordPress Theme Development | Wordpress theme development course | Directory Structure",
+      "duration": 571
+    },
+    {
+      "id": "cP4FprafrkE",
+      "title": "#3 Advanced WordPress Theme Development | Wordpress theme development course | get_header get_footer",
+      "duration": 602
+    },
+    {
+      "id": "T0_FqVuOte4",
+      "title": "#4 Advanced WordPress Theme Development | Wordpress theme development course | wp_head | wp_footer",
+      "duration": 482
+    },
+    {
+      "id": "DIyvwx806nw",
+      "title": "#5 Advanced WordPress Theme Development | Wordpress theme development course | wp_body_open",
+      "duration": 353
+    },
+    {
+      "id": "7HfPqzm2mzU",
+      "title": "#6 Advanced WordPress Theme Development | Wordpress theme development course | enqueue stylesheet",
+      "duration": 622
+    },
+    {
+      "id": "KgbIilYZHNI",
+      "title": "#7 Advanced WordPress Theme Development | Wordpress theme development course | enqueue scripts",
+      "duration": 486
+    },
+    {
+      "id": "XhMxCF2n2X8",
+      "title": "#8 Advanced WordPress Theme Development | Bootstrap WordPress Theme | get_template_part",
+      "duration": 659
+    },
+    {
+      "id": "KdrHOgCvR3w",
+      "title": "#9 Advanced WordPress Theme Development | Bootstrap WordPress Theme | get_template_part",
+      "duration": 608
+    },
+    {
+      "id": "WZfLcl_0S48",
+      "title": "#10 Advanced WordPress Theme Development | Wordpress theme development course | namespace in php",
+      "duration": 198
+    },
+    {
+      "id": "QvWzWod9jdM",
+      "title": "#11 Advanced WordPress Theme Development | spl_autoload_register | autoloading classes in php",
+      "duration": 357
+    },
+    {
+      "id": "5W0N9cAyHBI",
+      "title": "#12 Advanced WordPress Theme Development | traits in php | php traits tutorial",
+      "duration": 443
+    },
+    {
+      "id": "iB0ZonUhXKU",
+      "title": "#13 Advanced WordPress Theme Development | singleton design pattern | singleton php",
+      "duration": 216
+    },
+    {
+      "id": "ja23DYVn2k4",
+      "title": "#14 Advanced WordPress Theme Development | singleton design pattern | traits in php",
+      "duration": 362
+    },
+    {
+      "id": "dybTm5iSzsM",
+      "title": "#15 Advanced WordPress Theme Development | Singleton design pattern in WordPress",
+      "duration": 623
+    },
+    {
+      "id": "IESN8wtZtyQ",
+      "title": "#16 Advanced WordPress Theme Development | Wordpress theme development course | OOP Class",
+      "duration": 620
+    },
+    {
+      "id": "Zx46bZIP3PY",
+      "title": "#17 Advanced WordPress Theme Development | Wordpress theme development course | Enqueue with OOP",
+      "duration": 685
+    },
+    {
+      "id": "NqY-JxB1z8Y",
+      "title": "#18 Advanced WordPress Theme Development | add theme support title tag | add_theme_support",
+      "duration": 466
+    },
+    {
+      "id": "rbRWXq9jYCI",
+      "title": "#19 Add Theme Support Custom Logo| How to add custom logo in WordPress theme development",
+      "duration": 339
+    },
+    {
+      "id": "ksxFW3VpvIw",
+      "title": "#20 Add Theme Support Custom Background | add_theme_support( 'custom-background'",
+      "duration": 357
+    },
+    {
+      "id": "rrpyotWlR2g",
+      "title": "#21 Get the post thumbnail| add_theme_support( 'post-thumbnails' ) | WordPress customizer selective",
+      "duration": 637
+    },
+    {
+      "id": "ohVe8bdtGiY",
+      "title": "#22 Register Nav Menu WordPress Tutorial | how to create dynamic header menu in wordpress | nav_menu",
+      "duration": 760
+    },
+    {
+      "id": "ON-f3aKWfIc",
+      "title": "#23 Add custom html to wordpress menu | How to make html menu dynamic in wordpress | wp_nav_menu",
+      "duration": 534
+    },
+    {
+      "id": "G--9YWcH9cY",
+      "title": "#24 Add custom html to wordpress menu | How to make html menu dynamic in wordpress | wp_nav_menu",
+      "duration": 915
+    },
+    {
+      "id": "9h03LXonzYM",
+      "title": "#25 WordPress Posts Tutorial | WordPress Posts vs Pages | wordpress posts and pages tutorial",
+      "duration": 506
+    },
+    {
+      "id": "YbdD3ZcuGTg",
+      "title": "#26 Template Hierarchy in WordPress | Wordpress Template hierarchy Tutorial | wp template hierarchy",
+      "duration": 726
+    },
+    {
+      "id": "kvF1lwQXTL4",
+      "title": "#27 Template Hierarchy in WordPress | Wordpress Template hierarchy Tutorial | wp template hierarchy",
+      "duration": 820
+    },
+    {
+      "id": "e52t4mK7Adc",
+      "title": "#28 Wordpress The Loop | WordPress Posts Tutorial | WordPress Posts Page | wordpress the_post",
+      "duration": 572
+    },
+    {
+      "id": "JtmWiHT2nHs",
+      "title": "#29 Get blog page title wordpress | WordPress get page title outside loop | seo page title wordpress",
+      "duration": 277
+    },
+    {
+      "id": "37JC2A7Qirc",
+      "title": "#30 Wordpress Loop posts in Bootstrap 3 grid layout | Grid post page on Wordpress with Bootstrap",
+      "duration": 585
+    },
+    {
+      "id": "yBoLbXaH2Bc",
+      "title": "#31 No content template | WordPress get_search_form | wp_kses examples",
+      "duration": 890
+    },
+    {
+      "id": "Gbx9mEoEHWY",
+      "title": "#32 How to create dynamic template in WordPress? | wordpress blog post template | get_template_part",
+      "duration": 310
+    },
+    {
+      "id": "rWd9Fycxh1Q",
+      "title": "#33 Lazy Loading WordPress Without Plugin | Featured image wordpress | default featured image",
+      "duration": 905
+    },
+    {
+      "id": "vnGSMm5MG_A",
+      "title": "#34 Add Image Size WordPress | wordpress image gallery plugin | add_image_size wordpress",
+      "duration": 305
+    },
+    {
+      "id": "35ApPDhqbLY",
+      "title": "#35 Custom Meta Box WordPress  | Meta box WordPress tutorial | add_meta_box",
+      "duration": 681
+    },
+    {
+      "id": "ZbB_0ITlugo",
+      "title": "#36 Save Meta Box Value In WordPress | Meta Box WordPress Tutorial | get_post_meta",
+      "duration": 429
+    },
+    {
+      "id": "3mtkI6ibWRc",
+      "title": "#37 WordPress Nonce Example | WordPress Nonce Ajax | wordpress nonce verification | verify_nonce",
+      "duration": 688
+    },
+    {
+      "id": "AjnGvOjPAjE",
+      "title": "#38 WordPress get page title | single_post_title | Get post title in loop",
+      "duration": 507
+    },
+    {
+      "id": "eH_iICxQrek",
+      "title": "#39 Wordpress get post date and time | How to hide wordpress post date | get_the_date",
+      "duration": 898
+    },
+    {
+      "id": "rnl0wQ6NeCU",
+      "title": "#40 Get Post Author WordPress | wordpress post author display name | post author name wordpress",
+      "duration": 543
+    },
+    {
+      "id": "wGe2ggBcTx8",
+      "title": "#41 Change excerpt length WordPress | Customize Excerpt Length WordPress | wp_trim_excerpt | excerpt",
+      "duration": 1008
+    },
+    {
+      "id": "0K-6WfXrp10",
+      "title": "#42 How to Add Read More In Wordpress | read more wordpress code | read more button wordpress",
+      "duration": 321
+    },
+    {
+      "id": "JDuJImNRMtI",
+      "title": "#43 Create Single Post Template WordPress | single post wordpress | single post page wordpress",
+      "duration": 239
+    },
+    {
+      "id": "fQQ6d5QcFEo",
+      "title": "#44 Pagination WordPress Code | wp_link_pages example | Single Post Pagination wordpress",
+      "duration": 217
+    },
+    {
+      "id": "9--0G-lpRBU",
+      "title": "#45 WordPress Taxonomy explained | In depth | WordPress Database Structure",
+      "duration": 985
+    },
+    {
+      "id": "RZEWxssYTFk",
+      "title": "#46 How to display Taxonomy categories in wordpress | wp_get_post_terms",
+      "duration": 705
+    },
+    {
+      "id": "BqlRhuxNwws",
+      "title": "#47 Post Pagination wordpress with page numbers | paginate_links | next_post_link",
+      "duration": 700
+    },
+    {
+      "id": "ZrCD1gwkWHc",
+      "title": "#48 Sidebar Widget WordPress | How do I add a sidebar to my WordPress page? | Get the sidebar widget",
+      "duration": 346
+    },
+    {
+      "id": "zuxMaWowXnc",
+      "title": "#49 Register Sidebar In WordPress | sidebar wordpress tutorial",
+      "duration": 539
+    },
+    {
+      "id": "evjZuRnBUbY",
+      "title": "#50 How do I show the sidebar in WordPress? | dynamic_sidebar | get_sidebar",
+      "duration": 749
+    },
+    {
+      "id": "1TThGG6guf0",
+      "title": "#51 WordPress Custom widget development | Custom Widget WordPress code | register_widget",
+      "duration": 311
+    },
+    {
+      "id": "GZ0gTW3gb4I",
+      "title": "#52 How to Create a Custom WordPress Widget | Custom Widget WordPress code | WP_Widget",
+      "duration": 1549
+    },
+    {
+      "id": "jiY-bAhe7oU",
+      "title": "#53 Setup Webpack and Babel for WordPress Theme | webpack wordpress theme development | webpack 4",
+      "duration": 1351
+    },
+    {
+      "id": "_KqJzhnjEjI",
+      "title": "#54 Setup Webpack rules for WordPress Theme | webpack wordpress theme development | webpack 4",
+      "duration": 762
+    },
+    {
+      "id": "uIFZ8z4NE-M",
+      "title": "#55 Setup Webpack Plugins for WordPress Theme | webpack wordpress theme development | webpack 4",
+      "duration": 340
+    },
+    {
+      "id": "BS46lOvZyX8",
+      "title": "#56 Setup Webpack Externals for WordPress Theme | cross-env | webpack wordpress theme development",
+      "duration": 279
+    },
+    {
+      "id": "ZBeUA8rymHg",
+      "title": "#57 CSS Optimization Webpack WordPress Theme | OptimizeCssAssetsPlugin | UglifyJsPlugin | css-nano",
+      "duration": 811
+    },
+    {
+      "id": "_dFffEDXNPk",
+      "title": "#58 How to use Babel with WordPress theme? | using webpack in wordpress | @babel/preset-env",
+      "duration": 251
+    },
+    {
+      "id": "TUkaDzZbfl8",
+      "title": "How To Host Google Fonts Locally On WordPress 2020 | Font Loading Performance Experiments with FOUT",
+      "duration": 701
+    },
+    {
+      "id": "nGniMFfy0bo",
+      "title": "#60 Using Webpack 4 and SASS with WordPress | node-sass | sass-mq | sass-loader (from scratch)",
+      "duration": 1636
+    },
+    {
+      "id": "Lm8qve6mOJ8",
+      "title": "#61 Importing Fonts in WordPress Theme | Advanced WordPress Theme Development",
+      "duration": 260
+    },
+    {
+      "id": "CLLdK7OLQmM",
+      "title": "#62 Adding Gutenberg support to WordPress theme | add_editor_style | Gutenberg Editor WordPress",
+      "duration": 874
+    },
+    {
+      "id": "1uKVtOUVE5Y",
+      "title": "#63 Remove Gutenberg CSS | Remove the Gutenberg Block Library CSS from WordPress | wp_dequeue_style",
+      "duration": 131
+    },
+    {
+      "id": "eAIcFTo73oI",
+      "title": "#64 How to create Block Patterns | register_block_pattern | The Future of Page Building in WordPress",
+      "duration": 666
+    },
+    {
+      "id": "265ztJcWmVM",
+      "title": "#65 How To Remove Default Gutenberg Block Patterns | remove_theme_support( 'core-block-patterns' )",
+      "duration": 268
+    },
+    {
+      "id": "rca6B4xY4F4",
+      "title": "#66 Add Block Pattern Categories | register_block_pattern_category | WordPress 5.5 | Gutenberg",
+      "duration": 483
+    },
+    {
+      "id": "xXN-Qnttr5c",
+      "title": "#67 Block Pattern Templates | register_block_pattern | WordPress 5.5 | Gutenberg",
+      "duration": 658
+    },
+    {
+      "id": "m5Ig1apBpKE",
+      "title": "#68 Gutenberg Block Patterns Styles | register_block_pattern | WordPress 5.5 | Gutenberg",
+      "duration": 1181
+    },
+    {
+      "id": "6wNc-ogX04I",
+      "title": "#69 Setup Gutenberg | Gutenberg Wordpress Tutorial | @wordpress/create-block",
+      "duration": 886
+    },
+    {
+      "id": "VRUD2GGmGY0",
+      "title": "#70 Enqueue Block Editor Assets | enqueue_block_editor_assets |  enqueue_editor_assets",
+      "duration": 911
+    },
+    {
+      "id": "I9uLQ-edTeU",
+      "title": "#71 Creating Custom Block Categories | block_categories | WordPress Gutenberg Tutorial",
+      "duration": 603
+    },
+    {
+      "id": "xvv9dEbgxkY",
+      "title": "#72 My First Gutenberg Block in React | Gutenberg WordPress Tutorial | registerBlocktype",
+      "duration": 767
+    },
+    {
+      "id": "G5tOgPaS5Ag",
+      "title": "#73 Custom Gutenberg Block React | RichText | registerblocktype WordPress",
+      "duration": 1031
+    },
+    {
+      "id": "pcKgMrgjMUk",
+      "title": "#74 SVGR CLI | @svgr/cli | Custom Blocks | Gutenberg WordPress Tutorial",
+      "duration": 1695
+    },
+    {
+      "id": "FfqZ3AgLouQ",
+      "title": "#75 Setup ESLint for WordPress | @wordpress/eslint-plugin | eslint-config-wordpress | Theme",
+      "duration": 277
+    },
+    {
+      "id": "iKWF0eNuCA4",
+      "title": "#76 Inner Blocks Gutenberg | Nested Blocks: Using InnerBlocks | React Example",
+      "duration": 1875
+    },
+    {
+      "id": "mmJaST95dCw",
+      "title": "#77 Stylelint tutorial | Using Stylelint for WordPress Theme | stylelint-config-wordpress",
+      "duration": 311
+    },
+    {
+      "id": "EOO0leJSmOs",
+      "title": "How to Use Block Variations in WordPress | registerBlockStyle | Gutenberg Block Variations",
+      "duration": 1303
+    },
+    {
+      "id": "aAvwKC5Y8zA",
+      "title": "#79 Unregister Block Style Variation | unregisterBlockStyle | Block Variations Gutenberg",
+      "duration": 229
+    },
+    {
+      "id": "LLsInxOrh-U",
+      "title": "#80 Slick Slider WordPress Without Plugin |  WordPress Carousel Slider With Text | Slick Carousel",
+      "duration": 1512
+    },
+    {
+      "id": "IlBuoZl55Ms",
+      "title": "#81 How To Create Custom Post Type Slider In WordPress Without Plugin | WP_Query Example",
+      "duration": 984
+    },
+    {
+      "id": "vfLOHRDTlDA",
+      "title": "#82 Make Carousel Responsive | How to create a responsive carousel | Carousel Responsive CSS",
+      "duration": 182
+    },
+    {
+      "id": "f0Qigl5pxyg",
+      "title": "#83 get_search_form | How to Create Custom Search Form in WordPress | Customize search form",
+      "duration": 452
+    },
+    {
+      "id": "yzsfdHJG358",
+      "title": "Create Custom Search Form in WordPress | get_search_form | Build Your Own Custom WordPress Search",
+      "duration": 444
+    },
+    {
+      "id": "usO6kSSQyjU",
+      "title": "#85 Custom Search Results Page in WordPress | WordPress Custom Search Query | Advanced WordPress",
+      "duration": 500
+    },
+    {
+      "id": "tx_pdt7Byb4",
+      "title": "#86 Best Way to add SVG  | use- SVG | SVG `use` with External Source | WordPress  | SVG use Element",
+      "duration": 826
+    },
+    {
+      "id": "8NJCx4vyno4",
+      "title": "#87 Using AJAX With PHP on Your WordPress Site Without a Plugin | Using admin-ajax.php | ajax url",
+      "duration": 384
+    },
+    {
+      "id": "n5ZhcgcrrBM",
+      "title": "#88 Load More Posts with AJAX in WordPress with no plugins | WordPress Infinite Scroll",
+      "duration": 706
+    },
+    {
+      "id": "eJmdx1fjZBQ",
+      "title": "#89 Simple infinite scroll for WordPress sites without plugin | WordPress loadmore posts AJAX",
+      "duration": 838
+    },
+    {
+      "id": "cYaYXkRL-Vg",
+      "title": "#90 Load More Posts Ajax Button in WordPress | Load More Posts with no plugins",
+      "duration": 764
+    },
+    {
+      "id": "WE2yg0EtBwA",
+      "title": "#91 Intersection Observer API | Intersection Observer tutorial | Infinite Scroll Example | JS",
+      "duration": 616
+    },
+    {
+      "id": "HuXNbbMfoMw",
+      "title": "#92 Intersection Observer Infinite scroll | WordPress Infinite Scroll Ajax Load More without Plugin",
+      "duration": 292
+    },
+    {
+      "id": "IUBGSxLrrRs",
+      "title": "#93 Create Shortcode WordPress | Wordpress Shortcode Example | Pass variable to shortcode -",
+      "duration": 747
+    },
+    {
+      "id": "fl2FpBohcLg",
+      "title": "#94 Conditionally Enqueue a Stylesheet into WordPress | WP Enqueue Style On Specific Page Templates",
+      "duration": 295
+    },
+    {
+      "id": "JQxgQ4Asf6s",
+      "title": "#95 Infinite Scroll WordPress Single Posts - Ajax Load More | Load More Posts For Single Post",
+      "duration": 604
+    },
+    {
+      "id": "n4YnxFuU1SE",
+      "title": "#96 Load More Post Or Infinite Scroll For A Single Post In WordPress | Ajax Load More",
+      "duration": 473
+    },
+    {
+      "id": "vwhGLC4z80E",
+      "title": "#97 Modifying the WHERE Clause in WordPress | How to extend the where clause in WordPress WP_Query",
+      "duration": 592
+    },
+    {
+      "id": "BBQjsCgUvqY",
+      "title": "#98 WordPress Custom Post Types: The All-In-One Guide | When To Use Custom Post Types What are CPTs?",
+      "duration": 252
+    },
+    {
+      "id": "mxgraTGuAOo",
+      "title": "#99 Registering Custom Post Types | register_post_type() | How to Create Custom Post Types",
+      "duration": 654
+    },
+    {
+      "id": "TkI2B8vNNuo",
+      "title": "#100 Create Custom Taxonomies in WordPress | register_taxonomy | wp hasty | Advanced WordPress",
+      "duration": 507
+    },
+    {
+      "id": "dxTZNamA7bg",
+      "title": "#101 Create a Custom Archives Page in WordPress | Advanced WordPress Theme Development | archive.php",
+      "duration": 602
+    },
+    {
+      "id": "7IDywBa9GjU",
+      "title": "#102 Change Posts per page count | Change posts per page on archive | Advanced WordPress Theme",
+      "duration": 386
+    },
+    {
+      "id": "y02rp1lqdQo",
+      "title": "#103 Create a WordPress Author's Page Template | Customize the Author's Page | Advanced WordPress",
+      "duration": 655
+    },
+    {
+      "id": "0OexKVbbISY",
+      "title": "#104 Check if a User Has a Gravatar [WordPress]  | Get Author image in WordPress without plugin",
+      "duration": 792
+    },
+    {
+      "id": "BdLEP0PhyMQ",
+      "title": "#105 Custom Date Archive Page WordPress | Advanced WordPress Theme Development",
+      "duration": 610
+    },
+    {
+      "id": "z5sc3jPFo_g",
+      "title": "#106 Date Archive Pagination First Next | WordPress Date Formats |  Advanced WordPress Theme",
+      "duration": 524
+    },
+    {
+      "id": "PZlBbRpALR8",
+      "title": "#107 Introduction To Zustand | Zustand With WordPress | Zustand Without React | Zustand Example",
+      "duration": 781
+    },
+    {
+      "id": "cYEXC0pbZE4",
+      "title": "#108 Web Components and why you should be using them | Web Components With WordPress",
+      "duration": 913
+    },
+    {
+      "id": "ykcpsGx2aXY",
+      "title": "#109 Setup Zustand For WordPress | Zustand's Guide to Simple State Management | Advanced WordPress",
+      "duration": 723
+    },
+    {
+      "id": "qMyNxlyYzu0",
+      "title": "#110 Zustand Store Example With WordPress | Create Filter Accordions | WordPress Taxonomy filters",
+      "duration": 880
+    },
+    {
+      "id": "amZpnwSKD6E",
+      "title": "Create Zustand Store | Persistent State Zustand | create Store | Advanced WordPress Theme",
+      "duration": 882
+    },
+    {
+      "id": "XCRxzkcM2h8",
+      "title": "Using Zustand Store With WordPress | Add and delete filter | State Management | Advance WordPress",
+      "duration": 687
+    },
+    {
+      "id": "r2RDjTgaWlA",
+      "title": "Zustand State Management In WordPress | Get Post Results With Taxonomy Filters | Advanced WordPress",
+      "duration": 728
+    },
+    {
+      "id": "Gvo6UXlykTY",
+      "title": "#114 Load More Posts In WordPress With Zustand | wordpress load more posts without plugin #zustand",
+      "duration": 516
+    },
+    {
+      "id": "gsZJtSZ96Hw",
+      "title": "#115 Clear Filters Zustand Store With WordPress | Zustand Example | WordPress Theme Development",
+      "duration": 287
+    },
+    {
+      "id": "b4hJlVCKtrM",
+      "title": "#116 How To Create Custom Comment Template In WordPress | Advanced WordPress Theme Development",
+      "duration": 809
+    },
+    {
+      "id": "qVku1TR2PNA",
+      "title": "#117 Understanding WordPress Core - How Comments Are Loaded in WordPress? | comment_form | Theme",
+      "duration": 1024
+    }
+  ]
+}
