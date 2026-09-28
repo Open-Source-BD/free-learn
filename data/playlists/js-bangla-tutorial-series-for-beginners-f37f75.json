@@ -1,0 +1,665 @@
+{
+  "courseId": "js-bangla-tutorial-series-for-beginners-f37f75",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:11.760Z",
+  "title": "JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "rePN-VFo1Eo",
+      "title": "#00 JavaScript Tutorial for Beginners | Course Outline",
+      "duration": 605
+    },
+    {
+      "id": "lb7wT1gVU7Y",
+      "title": "#01 JavaScript Bangla Tutorial | Introduction to JavaScript",
+      "duration": 1410
+    },
+    {
+      "id": "PHy8h0BixKA",
+      "title": "#02 JavaScript Tutorial | JavaScript Output",
+      "duration": 1441
+    },
+    {
+      "id": "vXHefJiJM24",
+      "title": "#03 JavaScript Tutorial | JavaScript Statements",
+      "duration": 743
+    },
+    {
+      "id": "xWujZw0yIqg",
+      "title": "#04 JavaScript Bangla Tutorial | JavaScript Syntax",
+      "duration": 1171
+    },
+    {
+      "id": "bH-xZqvPk8A",
+      "title": "#05 JavaScript Tutorial | JavaScript Comments",
+      "duration": 284
+    },
+    {
+      "id": "5WXXBGjmsiA",
+      "title": "#06 JavaScript Tutorial | JavaScript Variables",
+      "duration": 309
+    },
+    {
+      "id": "HS6nkKeuP_M",
+      "title": "#07 JavaScript Bangla Tutorial | JavaScript let Keyword",
+      "duration": 1300
+    },
+    {
+      "id": "DZHb10fzbOQ",
+      "title": "#08 JavaScript Tutorial | JavaScript const Keyword",
+      "duration": 688
+    },
+    {
+      "id": "UzPsbiJjqsA",
+      "title": "#09 JavaScript Bangla Tutorial | JavaScript Operators",
+      "duration": 831
+    },
+    {
+      "id": "ZwzOEK8KTWY",
+      "title": "#10 JavaScript Bangla Tutorial | JavaScript Assignment Operators",
+      "duration": 154
+    },
+    {
+      "id": "55qObA3f9lw",
+      "title": "#11 JavaScript Tutorial | JavaScript Data Types",
+      "duration": 1197
+    },
+    {
+      "id": "o-wx8CJ8W2g",
+      "title": "#12 JavaScript Bangla Tutorial | JavaScript Function",
+      "duration": 1722
+    },
+    {
+      "id": "WWhlEWOf2ww",
+      "title": "#13 JavaScript Tutorial | JavaScript Object",
+      "duration": 1084
+    },
+    {
+      "id": "TUl3pl5ODcU",
+      "title": "#14 JavaScript Bangla Tutorial | JavaScript Events",
+      "duration": 818
+    },
+    {
+      "id": "AQwWeKrdB58",
+      "title": "#15 JavaScript Bangla Tutorial | JavaScript Strings",
+      "duration": 1124
+    },
+    {
+      "id": "Po7yLhlBudg",
+      "title": "#16 JavaScript Bangla Tutorial | JavaScript String Methods",
+      "duration": 2033
+    },
+    {
+      "id": "KobnEBz0zs4",
+      "title": "#17 JavaScript Tutorial | JavaScript String Search",
+      "duration": 848
+    },
+    {
+      "id": "HQZOGMBAQgY",
+      "title": "#18 JavaScript Tutorial | JavaScript Template Literals",
+      "duration": 512
+    },
+    {
+      "id": "DvKF9v4Se0o",
+      "title": "#19 JavaScript Bangla Tutorial | JavaScript Numbers",
+      "duration": 1732
+    },
+    {
+      "id": "LD6pPKmNRhE",
+      "title": "#20 JavaScript Bangla Tutorial | JavaScript Number Methods",
+      "duration": 938
+    },
+    {
+      "id": "62C_FfMgCcw",
+      "title": "#21 JavaScript Tutorial | JavaScript Arrays",
+      "duration": 2869
+    },
+    {
+      "id": "Oi0o0ORl_u0",
+      "title": "#22 JavaScript Tutorial | JavaScript Array Methods",
+      "duration": 1544
+    },
+    {
+      "id": "HPerndfCzFw",
+      "title": "#23 JavaScript Bangla Tutorial | JavaScript Array Sort",
+      "duration": 1355
+    },
+    {
+      "id": "59cYAMuER6U",
+      "title": "#24 JavaScript Bangla Tutorial | JavaScript Array Iteration",
+      "duration": 1598
+    },
+    {
+      "id": "MV15SLCqcmY",
+      "title": "#25 JavaScript Bangla Tutorial | JavaScript Array Constant",
+      "duration": 322
+    },
+    {
+      "id": "k47an680fl0",
+      "title": "#26 JavaScript Tutorial | JavaScript Date Object",
+      "duration": 778
+    },
+    {
+      "id": "0f2pcrlM5uw",
+      "title": "#27 JavaScript Bangla Tutorial | JavaScript Date Formats",
+      "duration": 466
+    },
+    {
+      "id": "6NKxqklzxi4",
+      "title": "#28 JavaScript Tutorial | JavaScript Get Date Methods",
+      "duration": 298
+    },
+    {
+      "id": "Kf0B6r4kmE4",
+      "title": "#29 JavaScript Tutorial | JavaScript Set Date Methods",
+      "duration": 324
+    },
+    {
+      "id": "oWVXUNk94Eo",
+      "title": "#30 JavaScript Tutorial | JavaScript Math",
+      "duration": 894
+    },
+    {
+      "id": "NOGBLqD8mGA",
+      "title": "#31 JavaScript Bangla Tutorial | Problem Solving   1",
+      "duration": 2146
+    },
+    {
+      "id": "jvxC5bRF1LQ",
+      "title": "#32 JavaScript Bangla Tutorial | Booleans",
+      "duration": 732
+    },
+    {
+      "id": "1swGWyGvTko",
+      "title": "#33 JavaScript Bangla Tutorial | JavaScript Comparisons",
+      "duration": 1925
+    },
+    {
+      "id": "qcsExzWfWXs",
+      "title": "#34 JavaScript Bangla Tutorial | Conditions",
+      "duration": 1002
+    },
+    {
+      "id": "Qq9dVX35ykk",
+      "title": "#35 JavaScript Bangla Tutorial | for loop",
+      "duration": 1415
+    },
+    {
+      "id": "hZoJTiYHku0",
+      "title": "#36 JavaScript Bangla Tutorial | for in loop",
+      "duration": 777
+    },
+    {
+      "id": "rSZJrUKhwBg",
+      "title": "#37 JavaScript Bangla Tutorial | for of loop",
+      "duration": 430
+    },
+    {
+      "id": "2TtzVkjnDnQ",
+      "title": "#38 JavaScript Bangla Tutorial | JavaScript while loop",
+      "duration": 574
+    },
+    {
+      "id": "Edc64lr1IlE",
+      "title": "#39 JavaScript Bangla Tutorial | break and continue statements",
+      "duration": 291
+    },
+    {
+      "id": "MPR3giyak2w",
+      "title": "#40 JavaScript Bangla Tutorial | JavaScript Iterables",
+      "duration": 325
+    },
+    {
+      "id": "dECw8_OFvnU",
+      "title": "#41 JavaScript Bangla Tutorial | JavaScript Sets",
+      "duration": 532
+    },
+    {
+      "id": "Ke05OZiLXDA",
+      "title": "#42 JavaScript Bangla Tutorial | JavaScript Maps",
+      "duration": 837
+    },
+    {
+      "id": "tvP4netWqS8",
+      "title": "#43 JavaScript Bangla Tutorial | JavaScript typeof operator",
+      "duration": 1693
+    },
+    {
+      "id": "KdVfJXIDb_E",
+      "title": "#44 JavaScript Bangla Tutorial | JavaScript type Conversion",
+      "duration": 1212
+    },
+    {
+      "id": "caWBJwWCzbE",
+      "title": "#45 JavaScript Tutorial | Bitwise Operators & Operations",
+      "duration": 1290
+    },
+    {
+      "id": "hH5-XwMLrP0",
+      "title": "#46 JavaScript Bangla Tutorial | Regular Expressions",
+      "duration": 1619
+    },
+    {
+      "id": "Fm16o_BNbv0",
+      "title": "#47 JavaScript Bangla Tutorial | JavaScript Errors",
+      "duration": 1302
+    },
+    {
+      "id": "wqgsnyxsaLE",
+      "title": "#48 JavaScript Bangla Tutorial | JavaScript Scope",
+      "duration": 1454
+    },
+    {
+      "id": "zKa_GH0uPOM",
+      "title": "#49 JavaScript Bangla Tutorial | JavaScript Hoisting",
+      "duration": 912
+    },
+    {
+      "id": "vnP4oonjmNc",
+      "title": "#50 JavaScript Bangla Tutorial | Strict Mode",
+      "duration": 410
+    },
+    {
+      "id": "iMbMR86liyE",
+      "title": "#51 JavaScript Bangla Tutorial | JavaScript this keyword",
+      "duration": 1071
+    },
+    {
+      "id": "5ccXpH0nlc8",
+      "title": "#52 JavaScript Bangla Tutorial | Arrow Functions",
+      "duration": 731
+    },
+    {
+      "id": "fg1E7IHP5bE",
+      "title": "#53 JavaScript Bangla Tutorial | JavaScript Classes",
+      "duration": 938
+    },
+    {
+      "id": "-sh1ESgihPM",
+      "title": "#54 JavaScript Bangla Tutorial | JavaScript JSON",
+      "duration": 837
+    },
+    {
+      "id": "4jOs7Hv50eQ",
+      "title": "#55 JavaScript Bangla Tutorial | JavaScript Debugging",
+      "duration": 610
+    },
+    {
+      "id": "Ra7t9qna2SU",
+      "title": "#56 JavaScript Bangla Tutorial | JavaScript Style Guide",
+      "duration": 982
+    },
+    {
+      "id": "rIJDJ8Ml_1I",
+      "title": "#57 JavaScript Bangla Tutorial | JavaScript Best Practices",
+      "duration": 662
+    },
+    {
+      "id": "Xxm2jx5oLC4",
+      "title": "#58 JavaScript Bangla Tutorial | JavaScript common Mistakes",
+      "duration": 632
+    },
+    {
+      "id": "Rajjo47RiGo",
+      "title": "#59 JavaScript Bangla Tutorial | JavaScript Performance",
+      "duration": 553
+    },
+    {
+      "id": "k9Td060UYVY",
+      "title": "#60 JavaScript Bangla Tutorial | JavaScript Reserved Words",
+      "duration": 368
+    },
+    {
+      "id": "66uuvUyO56Y",
+      "title": "#61 JavaScript Bangla Tutorial | JavaScript Problem Solving - 2",
+      "duration": 2040
+    },
+    {
+      "id": "je57nVdF6Gg",
+      "title": "#62 JavaScript Tutorial | JavaScript Object Definitions",
+      "duration": 811
+    },
+    {
+      "id": "8Jgne66EqmE",
+      "title": "#63 JavaScript Bangla Tutorial | JavaScript Object Properties",
+      "duration": 1389
+    },
+    {
+      "id": "HWGjV-1LSOY",
+      "title": "#64 JavaScript Tutorial | JavaScript Object Methods",
+      "duration": 457
+    },
+    {
+      "id": "XC8rVZ4Kcvw",
+      "title": "#65 JavaScript Tutorial | How to Display JavaScript Objects",
+      "duration": 808
+    },
+    {
+      "id": "WQ1iiWgtTxQ",
+      "title": "#66 JavaScript Tutorial | JavaScript Object Accessors",
+      "duration": 1044
+    },
+    {
+      "id": "ZGzzMuEMVr0",
+      "title": "#67 JavaScript Tutorial in Bengali | JavaScript Object Constructors",
+      "duration": 727
+    },
+    {
+      "id": "6WBaPpFJhR0",
+      "title": "#68 JavaScript Tutorial | JavaScript Object Prototype",
+      "duration": 750
+    },
+    {
+      "id": "azMPTpkI4XE",
+      "title": "#69 JavaScript Tutorial in Bengali | JavaScript Object Iterables",
+      "duration": 1263
+    },
+    {
+      "id": "h8Wr_Flq3Nk",
+      "title": "#70 JavaScript Bangla Tutorial | JavaScript Object Sets",
+      "duration": 634
+    },
+    {
+      "id": "BhoMfn6mJhw",
+      "title": "#71 JavaScript Bangla Tutorial | JavaScript Object Maps",
+      "duration": 751
+    },
+    {
+      "id": "qP3qTsKbAnc",
+      "title": "#72 JavaScript Bangla Tutorial | JavaScript Function Definitions",
+      "duration": 1672
+    },
+    {
+      "id": "Q4M3jdanSNM",
+      "title": "#73 JavaScript Bangla Tutorial | JavaScript Function Parameters",
+      "duration": 894
+    },
+    {
+      "id": "DG-Igv1nbPQ",
+      "title": "#74 JavaScript Bangla Tutorial | JavaScript Function Invocation",
+      "duration": 793
+    },
+    {
+      "id": "_MFUxQ7OXbI",
+      "title": "#75 JavaScript Bangla Tutorial | JavaScript Function call()",
+      "duration": 748
+    },
+    {
+      "id": "hAfj8U0RKhI",
+      "title": "#76 JavaScript Bangla Tutorial | JavaScript Function Apply",
+      "duration": 717
+    },
+    {
+      "id": "LEQNr5spj2U",
+      "title": "#77 JavaScript Bangla Tutorial | JavaScript Function Closures",
+      "duration": 1866
+    },
+    {
+      "id": "TdL3fwZGkTQ",
+      "title": "#78 JavaScript Bangla Tutorial | Introduction to JavaScript Classes",
+      "duration": 586
+    },
+    {
+      "id": "b5UznDoari0",
+      "title": "#79 JavaScript Bangla Tutorial | JavaScript Class Inheritance",
+      "duration": 754
+    },
+    {
+      "id": "DxSUvCD53g8",
+      "title": "#80 JavaScript Bangla Tutorial | JavaScript Class Static Method",
+      "duration": 362
+    },
+    {
+      "id": "0eSG3_mvFZY",
+      "title": "#81 JavaScript Bangla Tutorial | Callback Functions | Asynchronous JavaScript - 1",
+      "duration": 1175
+    },
+    {
+      "id": "VCxRhIhhzxs",
+      "title": "#82 JavaScript Tutorial in Bangla | JS Asynchronous Behavior | Asynchronous JavaScript - 2",
+      "duration": 1042
+    },
+    {
+      "id": "atQ0PNxT3Qc",
+      "title": "#83 JavaScript Tutorial in Bangla | Callback Pattern | Asynchronous JavaScript - 3",
+      "duration": 1365
+    },
+    {
+      "id": "RLurk_AL6GM",
+      "title": "#84 JavaScript Tutorial | Promises | Asynchronous JavaScript - 4",
+      "duration": 2147
+    },
+    {
+      "id": "93kW8DI54W8",
+      "title": "#85 JavaScript Bangla Tutorial | async await explained | Asynchronous JavaScript - 5",
+      "duration": 1142
+    },
+    {
+      "id": "mPTkKnL2aNA",
+      "title": "#86 JavaScript Bangla Tutorial | What is DOM | DOM Tutorial - 1",
+      "duration": 637
+    },
+    {
+      "id": "_9sJf-zYC3o",
+      "title": "#87 JavaScript Bangla Tutorial | DOM Methods | DOM Tutorial - 2",
+      "duration": 753
+    },
+    {
+      "id": "exPwrcu_UfQ",
+      "title": "#88 JavaScript Bangla Tutorial | DOM Document | DOM Tutorial - 3",
+      "duration": 704
+    },
+    {
+      "id": "x0z3XxZ_6ys",
+      "title": "#89 JavaScript Bangla Tutorial | DOM Elements | DOM Tutorial - 4",
+      "duration": 917
+    },
+    {
+      "id": "MhAuNGWVu74",
+      "title": "#90 JavaScript Bangla Tutorial | DOM HTML | DOM Tutorial - 5",
+      "duration": 598
+    },
+    {
+      "id": "R3xeTc05O48",
+      "title": "#91 JavaScript Bangla Tutorial | DOM Forms | DOM Tutorial - 6",
+      "duration": 882
+    },
+    {
+      "id": "g1W_ixdu8U8",
+      "title": "#92 JavaScript Bangla Tutorial | DOM CSS | DOM Tutorial - 7",
+      "duration": 466
+    },
+    {
+      "id": "ra-IV5ruCUk",
+      "title": "#93 JavaScript Tutorial | DOM Animations | DOM Tutorial - 8",
+      "duration": 949
+    },
+    {
+      "id": "0yQlOSZR7wo",
+      "title": "#94 JavaScript Tutorial | DOM Events | DOM Tutorial - 9",
+      "duration": 1082
+    },
+    {
+      "id": "HnaN4IQ9cBA",
+      "title": "#95 JavaScript Bangla Tutorial | DOM Event Listeners | DOM Tutorial - 10",
+      "duration": 773
+    },
+    {
+      "id": "6jjlFsU2Y88",
+      "title": "#96 JavaScript Bangla Tutorial | DOM Navigation | DOM Tutorial - 11",
+      "duration": 1099
+    },
+    {
+      "id": "bt-xTBqhqEk",
+      "title": "#97 JavaScript Tutorial | DOM Nodes | DOM Tutorial - 12",
+      "duration": 897
+    },
+    {
+      "id": "W1Kdx8hnQHc",
+      "title": "#98 JavaScript Bangla Tutorial | DOM Collections | DOM Tutorial - 13",
+      "duration": 306
+    },
+    {
+      "id": "83YeoTWpyMQ",
+      "title": "#99 JavaScript Bangla Tutorial | DOM Node Lists | DOM Tutorial - 14",
+      "duration": 585
+    },
+    {
+      "id": "_WuDDnZMRiE",
+      "title": "#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial",
+      "duration": 4262
+    },
+    {
+      "id": "lctGu8Emeyw",
+      "title": "#101 JavaScript Bangla Tutorial | Browser Object Model | BOM Tutorial   1",
+      "duration": 257
+    },
+    {
+      "id": "bxmummkz71g",
+      "title": "#102 JavaScript Bangla Tutorial | JS Window object | BOM Tutorial   2",
+      "duration": 645
+    },
+    {
+      "id": "rSfY5R9Rdbw",
+      "title": "#103 JavaScript Bangla Tutorial | JS Window screen | BOM Tutorial   3",
+      "duration": 179
+    },
+    {
+      "id": "s9vFmfI4lCA",
+      "title": "#104 JavaScript Bangla Tutorial | JS Window location | BOM Tutorial   4",
+      "duration": 267
+    },
+    {
+      "id": "F4R7V-xeb64",
+      "title": "#105 JavaScript Bangla Tutorial | JS Window history | BOM Tutorial   5",
+      "duration": 146
+    },
+    {
+      "id": "8O4k499M6oA",
+      "title": "#106 JavaScript Bangla Tutorial | JS Window navigator | BOM Tutorial   6",
+      "duration": 221
+    },
+    {
+      "id": "2B30765BkUE",
+      "title": "#107 JavaScript Bangla Tutorial | JS popup alert boxes | BOM Tutorial   7",
+      "duration": 557
+    },
+    {
+      "id": "PzeopM5MHLI",
+      "title": "#108 JavaScript Bangla Tutorial | JS timing events | BOM Tutorial   8",
+      "duration": 509
+    },
+    {
+      "id": "Umr8ezHiVvc",
+      "title": "#109 JavaScript Bangla Tutorial | JS Cookies | BOM Tutorial   9 mp4",
+      "duration": 2073
+    },
+    {
+      "id": "P3cvZG7Xqgk",
+      "title": "#110 JavaScript Bangla Tutorial | Web API | Introduction to WEB API",
+      "duration": 268
+    },
+    {
+      "id": "iKILnC1OOms",
+      "title": "#111 JavaScript Bangla Tutorial | Web API | Forms API",
+      "duration": 668
+    },
+    {
+      "id": "09YrgBgN91U",
+      "title": "#112 JavaScript Bangla Tutorial | Web API | History API",
+      "duration": 293
+    },
+    {
+      "id": "4AHElB820_Q",
+      "title": "#113 JavaScript Bangla Tutorial | Web API | Storage API",
+      "duration": 756
+    },
+    {
+      "id": "e2vYFEahiGE",
+      "title": "#114 JavaScript Bangla Tutorial | Web API | Worker API",
+      "duration": 1231
+    },
+    {
+      "id": "clVhRorRQag",
+      "title": "#115 JavaScript Bangla Tutorial | Web API | Fetch API",
+      "duration": 813
+    },
+    {
+      "id": "M_mDN0woJPg",
+      "title": "#116 JavaScript Bangla Tutorial | Web API | Geolocation API",
+      "duration": 1030
+    },
+    {
+      "id": "dhLWefQTnNo",
+      "title": "#117 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX",
+      "duration": 1086
+    },
+    {
+      "id": "xzleywpcicg",
+      "title": "#118 JavaScript Bangla Tutorial | JS AJAX | XMLHttp",
+      "duration": 1299
+    },
+    {
+      "id": "wQgphPeh_Z0",
+      "title": "#119 JavaScript Bangla Tutorial | JS AJAX | Request",
+      "duration": 480
+    },
+    {
+      "id": "tB1Z7GRHEp8",
+      "title": "#120 JavaScript Bangla Tutorial | JS AJAX | Response",
+      "duration": 333
+    },
+    {
+      "id": "KnbcCJ-c84c",
+      "title": "#121 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX",
+      "duration": 1498
+    },
+    {
+      "id": "xmsSoJ-PJUU",
+      "title": "#122 JavaScript Bangla Tutorial | JS JSON | Introduction to JSON",
+      "duration": 773
+    },
+    {
+      "id": "R6ExWQJhC-8",
+      "title": "#123 JavaScript Bangla Tutorial | JS JSON | JSON Syntax",
+      "duration": 598
+    },
+    {
+      "id": "f7MWPiO5ohc",
+      "title": "#124 JavaScript Bangla Tutorial | JS JSON | JSON vs XML",
+      "duration": 323
+    },
+    {
+      "id": "j_8yYuoessc",
+      "title": "#125 JavaScript Bangla Tutorial | JS JSON | JSON Data types",
+      "duration": 151
+    },
+    {
+      "id": "cv2aJA-x2Bg",
+      "title": "#126 JavaScript Bangla Tutorial | JS JSON | JSON Parse",
+      "duration": 990
+    },
+    {
+      "id": "YdqYH33U3Wg",
+      "title": "#127 JavaScript Bangla Tutorial | JS JSON | JSON Stringify",
+      "duration": 371
+    },
+    {
+      "id": "OqAaF4wSGz4",
+      "title": "#128 JavaScript Tutorial | JS JSON | JSON Object & Array Literals",
+      "duration": 378
+    },
+    {
+      "id": "wU9x2Xp-SIQ",
+      "title": "#129 JavaScript Bangla Tutorial | JS JSON | JSON Server",
+      "duration": 723
+    },
+    {
+      "id": "99YCgkA2-lI",
+      "title": "#130 JavaScript Bangla Tutorial | JS JSON | JSON HTML",
+      "duration": 1200
+    }
+  ]
+}

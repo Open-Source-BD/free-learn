@@ -1,0 +1,50 @@
+{
+  "courseId": "javascript-behind-the-scene-bangla-tutorial-67d02c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:01.624Z",
+  "title": "Javascript Behind The Scene Bangla Tutorial",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "PgyEngBXgNg",
+      "title": "1. Javascript Behind The Scene Intro & Javascript Engine Details in Bangla",
+      "duration": 567
+    },
+    {
+      "id": "bE0p2BL6tv4",
+      "title": "2. Javascript Behind The Scene Execution Context Basics in Bangla",
+      "duration": 610
+    },
+    {
+      "id": "UOZIwRLBQ7E",
+      "title": "3. Javascript Behind The Scene Execution Context Details | Creation of Execution Context in Bangla",
+      "duration": 550
+    },
+    {
+      "id": "tCWrfCBoDdg",
+      "title": "4. Javascript Behind The Scene Hoisting and Variable Object Creation in Bangla",
+      "duration": 613
+    },
+    {
+      "id": "wIdI5rhlnLs",
+      "title": "5. Javascript Behind The Scene Function Expression vs Declaration Details in Bangla",
+      "duration": 393
+    },
+    {
+      "id": "LPB6oT_pvu4",
+      "title": "6. Javascript Behind The Scene Scope Chain and Lexical Scope in Bangla",
+      "duration": 547
+    },
+    {
+      "id": "R6jwFfJqR14",
+      "title": "7. Javascript Behind The Scene Execution Stack Vs Scope Chain in Bangla",
+      "duration": 544
+    },
+    {
+      "id": "llHbVLDwPtg",
+      "title": "8. Javascript Behind The Scene This keyword Initialization in Bangla",
+      "duration": 489
+    }
+  ]
+}

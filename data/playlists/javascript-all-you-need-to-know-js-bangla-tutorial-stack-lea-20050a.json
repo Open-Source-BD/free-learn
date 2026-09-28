@@ -1,0 +1,1235 @@
+{
+  "courseId": "javascript-all-you-need-to-know-js-bangla-tutorial-stack-lea-20050a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:55.715Z",
+  "title": "JavaScript All You Need to Know | JS Bangla Tutorial | Stack Learner",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "9Rhawzp-Icg",
+      "title": "000. Give Away Raffle Draw App | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 1794
+    },
+    {
+      "id": "TToqLqlDt54",
+      "title": "001. JS Course Introductions | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 313
+    },
+    {
+      "id": "H5BK6DhfWy4",
+      "title": "002. Who is This Course For? | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 147
+    },
+    {
+      "id": "BRzJ-2mid78",
+      "title": "003. How to Use This Course Contents | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 977
+    },
+    {
+      "id": "C3fkZDi3v3Q",
+      "title": "004. Setup Working Environment | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 411
+    },
+    {
+      "id": "Zx1S820yNKs",
+      "title": "005. First Code of JS | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 755
+    },
+    {
+      "id": "KcfH2jEqNrk",
+      "title": "006. What are Variables | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 546
+    },
+    {
+      "id": "jni00pR4WHw",
+      "title": "007. JS Reserved Words | JS All You Need to Know | JS Tutorials in Bangla",
+      "duration": 396
+    },
+    {
+      "id": "Zncs_834IR8",
+      "title": "008. JS Data Types | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 325
+    },
+    {
+      "id": "5wxf-e64IhQ",
+      "title": "009. JS Basic Numbers | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 460
+    },
+    {
+      "id": "dZ4gcg9PweI",
+      "title": "010. JS Basic Strings | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 224
+    },
+    {
+      "id": "sMwAfLAIYPE",
+      "title": "011. JS Basic Booleans | JS All You Need to Know | JS Tutorials in Bangla",
+      "duration": 174
+    },
+    {
+      "id": "1llwUZtR8yI",
+      "title": "012. JS Null & Undefined | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 154
+    },
+    {
+      "id": "Ao7BpnAEWJE",
+      "title": "013. JS Type Conversion | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 672
+    },
+    {
+      "id": "ua-u5RtJ6Gs",
+      "title": "014. Octal and Hexadecimal Numbers | JS All You Need to Know | JS Tutorials in Bangla",
+      "duration": 202
+    },
+    {
+      "id": "YDpztesEdAU",
+      "title": "015. JS Operators | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 1441
+    },
+    {
+      "id": "6pOpH_8MWA8",
+      "title": "016. JS Statements | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 260
+    },
+    {
+      "id": "iVgpwXRXjXw",
+      "title": "017. JS Math Functions | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 587
+    },
+    {
+      "id": "WC4B0vZ2CzM",
+      "title": "018. JS Date Functions | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 370
+    },
+    {
+      "id": "kOCjP-7oeN4",
+      "title": "019. JS Comments | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 264
+    },
+    {
+      "id": "LOQCrz_OGX8",
+      "title": "020. JS Logic & Conditions | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 260
+    },
+    {
+      "id": "J4iX8IZY7O0",
+      "title": "021. JS If Condition | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 688
+    },
+    {
+      "id": "jfhkwii4WTc",
+      "title": "022. JS Else Condition | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 366
+    },
+    {
+      "id": "06sGOWjVV3o",
+      "title": "023. JS Else If Condition | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 458
+    },
+    {
+      "id": "jjg8wTHAW6k",
+      "title": "024. JS Switch Statement | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 529
+    },
+    {
+      "id": "fg5Rx88nWcU",
+      "title": "025. JS Logical Operators | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 573
+    },
+    {
+      "id": "xUfqVbtNdaM",
+      "title": "026. JS Ternary Operator | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 379
+    },
+    {
+      "id": "bKsl0_Vcw1g",
+      "title": "027. And Or Shorthand | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 458
+    },
+    {
+      "id": "FJiVQX58yuk",
+      "title": "028. Introduction to Loops | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 371
+    },
+    {
+      "id": "gDy15jOZQ1Y",
+      "title": "029. JS For Loop | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 1087
+    },
+    {
+      "id": "rZHeuqMFSLA",
+      "title": "030. JS While Loop | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 556
+    },
+    {
+      "id": "ufZhrefTYS4",
+      "title": "031. JS Do While Loop | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 239
+    },
+    {
+      "id": "XpasFJJ4geE",
+      "title": "032. JS Nested Loops | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 603
+    },
+    {
+      "id": "g9WR2Bpm5iw",
+      "title": "033. JS Break Statement | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 297
+    },
+    {
+      "id": "n4aLHYG0gpY",
+      "title": "034. JS Continue Statement | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 215
+    },
+    {
+      "id": "vd8af77j2gk",
+      "title": "035. JS Infinity for Loop | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 286
+    },
+    {
+      "id": "kg6sFzm7w5c",
+      "title": "036. JS String | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 248
+    },
+    {
+      "id": "vAg-yMgYkeI",
+      "title": "037. String Literal vs Constructor | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 340
+    },
+    {
+      "id": "BQ6fDZS0nFQ",
+      "title": "038. JS Escape Notation | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 409
+    },
+    {
+      "id": "L5v6cIOUQYo",
+      "title": "039. JS String Comparison | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 412
+    },
+    {
+      "id": "zpp_8V0cxZk",
+      "title": "040. JS String Methods | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 755
+    },
+    {
+      "id": "WDkWetCCtnI",
+      "title": "041. JS String Length | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 514
+    },
+    {
+      "id": "448YqBQLlOk",
+      "title": "042. JS Array | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 333
+    },
+    {
+      "id": "9Xd5wxJgZxs",
+      "title": "043. JS Array Declaration | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 725
+    },
+    {
+      "id": "QK9j4818rdQ",
+      "title": "044. JS Array Traversing | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 629
+    },
+    {
+      "id": "BknqwAu5Rz4",
+      "title": "045. Array Insert Remove and Replace | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 583
+    },
+    {
+      "id": "FZM0hkkHH8A",
+      "title": "046. JS Search Value in Array | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 404
+    },
+    {
+      "id": "Ei7kbCe8YEw",
+      "title": "047. Multidimensional Array | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 568
+    },
+    {
+      "id": "LvnU_5oqVsU",
+      "title": "048. JS Reverse An Array | JS All You Need to Know | JS Tutorials in Bangla",
+      "duration": 324
+    },
+    {
+      "id": "us0Pq4YhPOI",
+      "title": "049. JS Array Methods | JS All You Need to Know | JS Tutorials in Bangla",
+      "duration": 648
+    },
+    {
+      "id": "bS0hd6plTF4",
+      "title": "050. JS Objects | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 459
+    },
+    {
+      "id": "g3jZqtK-fDE",
+      "title": "051. JS Object Literal vs Constructor | JS All You Need to Know | JS Bangla Tutorials",
+      "duration": 480
+    },
+    {
+      "id": "ls80JBqgIOw",
+      "title": "052. Accessing Object Properties in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 349
+    },
+    {
+      "id": "7A4CnVlobfg",
+      "title": "053. Setting Object Properties in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 289
+    },
+    {
+      "id": "K-icBn7l_vA",
+      "title": "054. Remove Object Properties in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 213
+    },
+    {
+      "id": "wibCQbDDATY",
+      "title": "055.  Comparing Two Objects in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 417
+    },
+    {
+      "id": "TyMrsaDp5gE",
+      "title": "056. Iterate Object Properties in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 400
+    },
+    {
+      "id": "rCpqHR5FzBI",
+      "title": "057.  Object Methods in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 512
+    },
+    {
+      "id": "nfiSlgV_8Yo",
+      "title": "058.  What is Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 500
+    },
+    {
+      "id": "ItJ0qowJ4Hc",
+      "title": "059.  Defining a Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 383
+    },
+    {
+      "id": "ivs4BIfUlD4",
+      "title": "060.  Invoking a Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 412
+    },
+    {
+      "id": "YTC2OOYr8fA",
+      "title": "061.  Function Arguments and Parameters in Javascript | JS All You Need To Know | JS Bangla Tutorial",
+      "duration": 863
+    },
+    {
+      "id": "pQJf2PY-8Ls",
+      "title": "062.  Argument Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 648
+    },
+    {
+      "id": "YUuklJ8koCI",
+      "title": "063.  Return Something from a Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 470
+    },
+    {
+      "id": "MMTLMVWKzi8",
+      "title": "064.  Function Expression in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 348
+    },
+    {
+      "id": "xyu7o21xj1w",
+      "title": "065.  Inner Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 583
+    },
+    {
+      "id": "y2cT2E2u_Mg",
+      "title": "066.  Function Scoping in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 821
+    },
+    {
+      "id": "mSESQG-ek8I",
+      "title": "067.  What is Functional Programming in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 478
+    },
+    {
+      "id": "pOcNXZlhhMU",
+      "title": "068.  Pure Functions in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 413
+    },
+    {
+      "id": "xNtPY_RsEus",
+      "title": "069.  First Class Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 375
+    },
+    {
+      "id": "jkPB1jAJWfU",
+      "title": "070. Higher Order Function in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 346
+    },
+    {
+      "id": "kVxsWPEzhAc",
+      "title": "071.  Closure First Look in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 272
+    },
+    {
+      "id": "m2JQ_RqzfXg",
+      "title": "072.  Callback Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 800
+    },
+    {
+      "id": "1mItbWuvrMw",
+      "title": "073.  Foreach Implementation in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 658
+    },
+    {
+      "id": "FWgyBeAu-vE",
+      "title": "074.  Map Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 724
+    },
+    {
+      "id": "w_FI5rfsehs",
+      "title": "075.  Filter Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 560
+    },
+    {
+      "id": "YAvJVcVKwu8",
+      "title": "076.  Reduce Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 597
+    },
+    {
+      "id": "PpfoZeXgaMk",
+      "title": "077. Find and FindIndex Functions in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 361
+    },
+    {
+      "id": "IHjLft2UU_g",
+      "title": "078.  Sort, Some and Every Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 830
+    },
+    {
+      "id": "P-FFczi-giM",
+      "title": "079.  Return Function from Another Function in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 701
+    },
+    {
+      "id": "5eMlqhgb6i0",
+      "title": "080. Recursive Function in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 669
+    },
+    {
+      "id": "Viw6rpxwZeM",
+      "title": "081.  Currying in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 397
+    },
+    {
+      "id": "KMNNv2hK7S4",
+      "title": "082.  Function Composition in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 403
+    },
+    {
+      "id": "33HALfGri7Q",
+      "title": "083.  Javascript Engine | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 490
+    },
+    {
+      "id": "T027AHGNoeE",
+      "title": "084.  Compiled vs Interpreted | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 410
+    },
+    {
+      "id": "MoPW9pxHMkI",
+      "title": "085.  Execution Context in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 657
+    },
+    {
+      "id": "uvVLaQ_Au94",
+      "title": "086. Creation and Execution of Context in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 447
+    },
+    {
+      "id": "O_yEKwVP7Uc",
+      "title": "087.  Variable Object Creation in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 373
+    },
+    {
+      "id": "Dj9dZfwCvHE",
+      "title": "088.  Execution Context and Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 250
+    },
+    {
+      "id": "fo3fvEXMM60",
+      "title": "089.  Hoisting in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 365
+    },
+    {
+      "id": "Y9d8ry5KiA4",
+      "title": "090. Function Declaration vs Expression in Javascript | JS All You Need To Know | JS Bangla Tutorial",
+      "duration": 239
+    },
+    {
+      "id": "HMeC7DT-Cmk",
+      "title": "091.  Scope in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 434
+    },
+    {
+      "id": "KZ8WpqVXG4Y",
+      "title": "092.  Nested Scope in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 372
+    },
+    {
+      "id": "hUeHgdTVkWA",
+      "title": "093. Lexical Scope in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 171
+    },
+    {
+      "id": "6huOVzX7BqU",
+      "title": "094.  Scope Chain in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 289
+    },
+    {
+      "id": "M46H617M5Lg",
+      "title": "095.  Closure in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 480
+    },
+    {
+      "id": "ecwtU-YASAc",
+      "title": "096.  Closure and Loops in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 328
+    },
+    {
+      "id": "QI9rhJ5mYMQ",
+      "title": "097.  Intro to OOP in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 649
+    },
+    {
+      "id": "kqOwUA4wo-o",
+      "title": "098.  Think Everything as an Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 480
+    },
+    {
+      "id": "Hl0dIYvI8Xw",
+      "title": "099.  Methods and Properties in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 259
+    },
+    {
+      "id": "IzC1M6dsLsM",
+      "title": "100.  Class in OOP | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 425
+    },
+    {
+      "id": "ySTFGrrx1IA",
+      "title": "101. Four Pillars of OOP | JS All You Need To Know | JS Bengali Tutorials",
+      "duration": 222
+    },
+    {
+      "id": "hUyAXtrOQms",
+      "title": "102. Abstraction | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 308
+    },
+    {
+      "id": "_TyKjex0z0A",
+      "title": "103. Encapsulation | JS All You Need To Know | JS Tutorials",
+      "duration": 109
+    },
+    {
+      "id": "yXQVpQEmS0g",
+      "title": "104.  Inheritance | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 279
+    },
+    {
+      "id": "_DN8vvLYQO8",
+      "title": "105. Polymorphism | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 187
+    },
+    {
+      "id": "MzkCSRGOdck",
+      "title": "106. Intro to Object Oriented in Javascript | Stack Learner",
+      "duration": 319
+    },
+    {
+      "id": "FYrYOfW2_24",
+      "title": "107.  Object Literal in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 443
+    },
+    {
+      "id": "ro9x3SVucDY",
+      "title": "108.  \"THIS\" in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 661
+    },
+    {
+      "id": "h_h7FDOkl2A",
+      "title": "109. Factory Pattern in JavaScript | JS All You Need To Know | JavaScript Tutorials in Bangla",
+      "duration": 397
+    },
+    {
+      "id": "DB-dN4TtYD0",
+      "title": "110.  Constructor Pattern in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 356
+    },
+    {
+      "id": "-OqmWA_P1WI",
+      "title": "111. New Keyword in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 752
+    },
+    {
+      "id": "F3k99p89SyY",
+      "title": "112.  Factory vs Constructor in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 261
+    },
+    {
+      "id": "kAUptUeN3Gg",
+      "title": "113.  Constructor Property in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 475
+    },
+    {
+      "id": "3qitu-Sjx2E",
+      "title": "114.  Functions Are Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 536
+    },
+    {
+      "id": "Irb4_0Sheos",
+      "title": "115.  Bind, Call, Apply in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 848
+    },
+    {
+      "id": "DyZwXcSsYtU",
+      "title": "116. Pass By Value vs Pass By Reference in Javascript | JS All You Need To Know | JS Bangla Tutorial",
+      "duration": 623
+    },
+    {
+      "id": "nkIVqb3D_hE",
+      "title": "117. Abstraction in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 267
+    },
+    {
+      "id": "v0UasCyAOa0",
+      "title": "118. Private Properties in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 371
+    },
+    {
+      "id": "HAPQADxe2SU",
+      "title": "119.  How to Use Getter Setter in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 413
+    },
+    {
+      "id": "T4pvbWvvCDA",
+      "title": "120.  Intro to Inheritance in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 219
+    },
+    {
+      "id": "eab3Q1OyCTU",
+      "title": "121. Prototype and Prototypical Inheritance in JavaScript | JS All You Need To Know | JS Bangla",
+      "duration": 390
+    },
+    {
+      "id": "Le-_O1n_iZY",
+      "title": "122. Multi-Level Inheritance in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 340
+    },
+    {
+      "id": "mQSSiTQSdYQ",
+      "title": "123. Property Descriptor in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 597
+    },
+    {
+      "id": "s9xYswSi3Jo",
+      "title": "124.  Constructor Prototype in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 481
+    },
+    {
+      "id": "8BCqFK8W4Jk",
+      "title": "125.  Instance vs Prototype Members in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 534
+    },
+    {
+      "id": "xWZRdOvVxp0",
+      "title": "126. Using Instance and Prototype Members in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 218
+    },
+    {
+      "id": "dbqsoK5YlEs",
+      "title": "127. Iterate Object and HasOwnProperty in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 225
+    },
+    {
+      "id": "DkOA8x1pPCU",
+      "title": "128.  Don't Overwrite Built in Prototypes in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 144
+    },
+    {
+      "id": "7bJ02BqYh0Y",
+      "title": "129.  First Prototypical Inheritance in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 589
+    },
+    {
+      "id": "j6VyadTWf8c",
+      "title": "130. Reset Constructor After Inheritance in JavaScript | JS All You Need To Know | JS Bangla",
+      "duration": 449
+    },
+    {
+      "id": "yjx5vKtaCac",
+      "title": "131.  Calling Super With Call Method in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 319
+    },
+    {
+      "id": "wrklEuHAWNc",
+      "title": "132.  Creating Extends Function in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 318
+    },
+    {
+      "id": "9y9doJkoSMg",
+      "title": "133. Method Overriding in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 381
+    },
+    {
+      "id": "Eb4hjCvZYLM",
+      "title": "134.  Polymorphism in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 463
+    },
+    {
+      "id": "w2-JtlFuTqE",
+      "title": "135. When to Use Inheritance in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 274
+    },
+    {
+      "id": "-U6NKpbSU-g",
+      "title": "136.  Inheritance & Composition Mixing in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 666
+    },
+    {
+      "id": "L8fL5OZlaCc",
+      "title": "137.  What is ES6 in Javascript | Stack LearneJS All You Need To Know | JS Bangla Tutorials",
+      "duration": 380
+    },
+    {
+      "id": "c7wKfsBLicw",
+      "title": "138.  Setup Your Environment | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 773
+    },
+    {
+      "id": "afaP9TUK4iY",
+      "title": "139.  Template String in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 769
+    },
+    {
+      "id": "A_6cgqSbcCg",
+      "title": "140.  Let vs Const vs Var in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 447
+    },
+    {
+      "id": "Y1EvRQq_4kw",
+      "title": "141.  Arrow Function Syntax in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 371
+    },
+    {
+      "id": "-k6rjxLfbok",
+      "title": "142.  Arrow Functions & This in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 822
+    },
+    {
+      "id": "enc--pxfOCY",
+      "title": "143.  Default Parameters in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 321
+    },
+    {
+      "id": "5nEOhy6pHlQ",
+      "title": "144. Custom Iteratable Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 463
+    },
+    {
+      "id": "QzxFU9-CU_Q",
+      "title": "145.  Rest & Spread Operator in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 559
+    },
+    {
+      "id": "zfzCWDju_ts",
+      "title": "146.  Enhance Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 216
+    },
+    {
+      "id": "9vG5iSn6qfo",
+      "title": "147.  Destructuring in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 414
+    },
+    {
+      "id": "m4Hxc5bLV5U",
+      "title": "148.  Object From Entries in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 298
+    },
+    {
+      "id": "0S4CbNCJ3DI",
+      "title": "149.  Symbols in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 457
+    },
+    {
+      "id": "epQ-RMNXqUE",
+      "title": "150.  Webpack 4 + Babel 7 |  JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 764
+    },
+    {
+      "id": "BK93SvkqizI",
+      "title": "151.  Iterator Basics in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 655
+    },
+    {
+      "id": "Co9LXwhdMSc",
+      "title": "152.  Iterator With Symbol in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 295
+    },
+    {
+      "id": "B05j5ILsM70",
+      "title": "153.  For of Loop in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 259
+    },
+    {
+      "id": "4MfZEDQmqnE",
+      "title": "154.  Generators in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 615
+    },
+    {
+      "id": "P1q_tjZ2C4k",
+      "title": "155.  Set in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 578
+    },
+    {
+      "id": "vAMQvWPPD3c",
+      "title": "156. Map in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 554
+    },
+    {
+      "id": "j_edV10zAUE",
+      "title": "157. Weak Set in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 363
+    },
+    {
+      "id": "6KIHJsNyTag",
+      "title": "158.  Weak Map in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 162
+    },
+    {
+      "id": "4kL_AS3cPHg",
+      "title": "159.  Class in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 379
+    },
+    {
+      "id": "WnCVsSHtC2E",
+      "title": "160.  Class Properties in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 322
+    },
+    {
+      "id": "AgVS2z2U0gA",
+      "title": "161.  Static Method in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 376
+    },
+    {
+      "id": "XtzjUYGosKg",
+      "title": "162.  \"This\" in Javascript Class | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 458
+    },
+    {
+      "id": "ja37KpxIF50",
+      "title": "163.  Private Data with Symbol in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 425
+    },
+    {
+      "id": "Bd7PHcPM57k",
+      "title": "164.  Private Properties with WeakMap in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 278
+    },
+    {
+      "id": "w-uNhvcoJes",
+      "title": "165.  Getter & Setter in ES6 | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 160
+    },
+    {
+      "id": "foyifunpTeM",
+      "title": "166.  Inheritance in ES6 in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 338
+    },
+    {
+      "id": "4jIU6fHVslA",
+      "title": "167.  Method Overriding in ES6 in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 124
+    },
+    {
+      "id": "3rYZCb6dE40",
+      "title": "168.  ES6 Modules System in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 765
+    },
+    {
+      "id": "0_cMtFuB5xs",
+      "title": "169.  Error in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 645
+    },
+    {
+      "id": "lkfMdG2W5H4",
+      "title": "170.  Error Handling with If Else in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 470
+    },
+    {
+      "id": "nA_NPSsJ5Vo",
+      "title": "171.  Error Handling with Try Catch in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 411
+    },
+    {
+      "id": "NOT_xK10FCI",
+      "title": "172.  Throwing an Error in Javascript | Stack Learner",
+      "duration": 213
+    },
+    {
+      "id": "iBTdEM5Qvg8",
+      "title": "173.  Finally Block in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 145
+    },
+    {
+      "id": "bpu2IBqD4t8",
+      "title": "174.  Optional Catch Binding in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 140
+    },
+    {
+      "id": "qyN8VesJI5k",
+      "title": "175.  Custom Error in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 323
+    },
+    {
+      "id": "qRoUMkVrOs4",
+      "title": "176.  What is Asynchronous Programming in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 593
+    },
+    {
+      "id": "VoBeaWLjjtI",
+      "title": "177.  Asynchronous Programming is Action in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 697
+    },
+    {
+      "id": "4j0IaibMKvU",
+      "title": "178.  How to Store Result from Async Function in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 421
+    },
+    {
+      "id": "W3TxfhK8_zQ",
+      "title": "179.  Why does Javascript Act Like Asynchronous | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 307
+    },
+    {
+      "id": "3nlnKnx3jWU",
+      "title": "180.  How JS Handle Asynchronous | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 517
+    },
+    {
+      "id": "nyNv7crSslc",
+      "title": "181.  v8 Engine in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 283
+    },
+    {
+      "id": "Q6aWSBTKDNk",
+      "title": "182.  How to Handle Asynchronous Tasks in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 132
+    },
+    {
+      "id": "MLQdwcRQoBg",
+      "title": "183.  What is Ajax | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 429
+    },
+    {
+      "id": "LxWI163FOuI",
+      "title": "184.  Ajax with Callback in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 781
+    },
+    {
+      "id": "edOcXdbfQkk",
+      "title": "185. Callback Not Always Asynchronous in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 546
+    },
+    {
+      "id": "aAd7ny0MlXA",
+      "title": "186.  Why Not Callback in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 578
+    },
+    {
+      "id": "2Mv62Qus2II",
+      "title": "187.  Introduction to Promise in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 984
+    },
+    {
+      "id": "xEWtGK2LjcI",
+      "title": "188.  Implement Fetch API in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 860
+    },
+    {
+      "id": "F0ak3GzzPaU",
+      "title": "189.  Promise API in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 717
+    },
+    {
+      "id": "TCim2PVWTCA",
+      "title": "190. Async Await in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 873
+    },
+    {
+      "id": "A6pEvltuOi0",
+      "title": "191.  Async Iterator in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 344
+    },
+    {
+      "id": "Rdg8zu08S9A",
+      "title": "192.  For Await of Loop in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 265
+    },
+    {
+      "id": "AMMB2gR6K-M",
+      "title": "193.  Async Generators in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 252
+    },
+    {
+      "id": "oLWPDFPTT1o",
+      "title": "194.  Introduction to DOM | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 554
+    },
+    {
+      "id": "7lO8uxYHwRw",
+      "title": "195.  Window Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 504
+    },
+    {
+      "id": "JT7FpwpiiCg",
+      "title": "196.  Document Object in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 551
+    },
+    {
+      "id": "yOs9M59ODf0",
+      "title": "197.  Selectors Part One in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 764
+    },
+    {
+      "id": "3K--FLWCeBc",
+      "title": "198.  Selectors Part Two in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 509
+    },
+    {
+      "id": "hhtM8sesAN4",
+      "title": "199.  GetElemetns Method vs Query Selector in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 466
+    },
+    {
+      "id": "JM_u7_RHSQw",
+      "title": "200.  How to Traverse DOM Elements in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 423
+    },
+    {
+      "id": "CtzE8fUHhfM",
+      "title": "201. How to Loop Throw HTML Collections in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 481
+    },
+    {
+      "id": "64nWDQWz6-g",
+      "title": "202.  Create DOM Elements in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 1028
+    },
+    {
+      "id": "IxyrqO7Xoj0",
+      "title": "203. Insert Adjacent Element in JavaScript | JS All You Need To Know | JS Tutorials",
+      "duration": 308
+    },
+    {
+      "id": "VgApvxY07cA",
+      "title": "204. Update & Remove any DOM Elements in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 435
+    },
+    {
+      "id": "4V0jZTHtThY",
+      "title": "205. How to Clone Nodes Including Child Elements in JavaScript | JS All You Need To Know",
+      "duration": 249
+    },
+    {
+      "id": "KePok6kuD8o",
+      "title": "206. How to Deal with Attributes in DOM Manipulation in JavaScript | JS All You Need To Know",
+      "duration": 496
+    },
+    {
+      "id": "-rwa1VFW4yo",
+      "title": "207.  Styling DOM in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 667
+    },
+    {
+      "id": "PnJVsT6o-yM",
+      "title": "208.  Introduction to Event in DOM Manupulation in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 960
+    },
+    {
+      "id": "V_Oj4nh4Ia4",
+      "title": "209.  Event Delegation in DOM Manipulation | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 481
+    },
+    {
+      "id": "4J5FF4BPjQ0",
+      "title": "210.  Input Box Event Handling in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 503
+    },
+    {
+      "id": "cJ_XxBRBOeE",
+      "title": "211.  Check Box Event Handling in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 610
+    },
+    {
+      "id": "_KE2418OAQk",
+      "title": "212.  List and Input Event Handler in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 492
+    },
+    {
+      "id": "GrZCHP3wB-E",
+      "title": "213.  Form Handling in DOM in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 810
+    },
+    {
+      "id": "NE9VrivahXM",
+      "title": "214.  Form Validation in DOM in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 604
+    },
+    {
+      "id": "8mJNRuekweA",
+      "title": "215.  AJAX GET Request in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 766
+    },
+    {
+      "id": "UHpUpq-yC58",
+      "title": "216.  Ajax Post Request in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 918
+    },
+    {
+      "id": "P1Fy5cXUZsQ",
+      "title": "217.  Conclusion of DOM Manipulation in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 289
+    },
+    {
+      "id": "SD3RkKynKSQ",
+      "title": "218.  What is Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 668
+    },
+    {
+      "id": "3ch0OVz84FM",
+      "title": "219.  JQuery - Javascript DOM Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 1239
+    },
+    {
+      "id": "25SYvlHnB0A",
+      "title": "220.  Lodash - Javascript Utility Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 588
+    },
+    {
+      "id": "upVCm9WtNao",
+      "title": "221.  Underscore - Javascript Utility Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 303
+    },
+    {
+      "id": "_GOzuzd5A1Y",
+      "title": "222.  Math JS - Javascript Math Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 570
+    },
+    {
+      "id": "-rQmFpyMA_w",
+      "title": "223.  Moment JS - Javascript Time Library | Stack Learner",
+      "duration": 423
+    },
+    {
+      "id": "5RXHaktiAVk",
+      "title": "224.  Collect JS - Javascript Collection Library | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 216
+    },
+    {
+      "id": "XscqW9sxSOQ",
+      "title": "225.  Axios - HTTP Client | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 421
+    },
+    {
+      "id": "YyY_gtoRZaE",
+      "title": "226.  Conclusion of This Course | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 402
+    },
+    {
+      "id": "dGDW1qVPsYQ",
+      "title": "227. Frontend in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 901
+    },
+    {
+      "id": "hZw1NrA-yCA",
+      "title": "228.  Backend in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 346
+    },
+    {
+      "id": "kQ3gq2nOFw4",
+      "title": "229.  Fullstack Development in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 235
+    },
+    {
+      "id": "lPo7XHks7-U",
+      "title": "230.  Mobile Frameworks in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 378
+    },
+    {
+      "id": "63xXNukjNa0",
+      "title": "231.  Desktop Frameworks in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 232
+    },
+    {
+      "id": "agbm0p9dx3o",
+      "title": "232.  Introduction to Our Project in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 516
+    },
+    {
+      "id": "WIELkZowWhI",
+      "title": "233.  Setup & Resources for Our Project | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 676
+    },
+    {
+      "id": "DkGMtHVw7As",
+      "title": "234.  User Permission for Location | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 929
+    },
+    {
+      "id": "Lo7Ft0qDgEo",
+      "title": "235.  Setting Weather Information to DOM | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 483
+    },
+    {
+      "id": "OdcvLhw2TfE",
+      "title": "236. Handle User Input in JavaScript | JS All You Need To Know | JS Tutorials in Bangla",
+      "duration": 245
+    },
+    {
+      "id": "BKWNRNbnUNw",
+      "title": "237.  Setup Backend Server in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 540
+    },
+    {
+      "id": "zejdw1dRc-w",
+      "title": "238.  MongoDB Database & Mongoose Setup | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 330
+    },
+    {
+      "id": "IFT54b0nDqk",
+      "title": "239.  Create History Model in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 210
+    },
+    {
+      "id": "qnXRGysoxHU",
+      "title": "240.  Create History Router in Javascript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 489
+    },
+    {
+      "id": "FVUkcHB1hcw",
+      "title": "241. History Request & Update DOM in JavaScript | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 586
+    },
+    {
+      "id": "BZ80Q709iKM",
+      "title": "242.  Using Callback to Post New History in Javascript | JS All You Need To Know | JS Bangla",
+      "duration": 344
+    },
+    {
+      "id": "ywgF8q_fe0k",
+      "title": "243.  Deploying Apps to Heroku | JS All You Need To Know | JS Bangla Tutorials",
+      "duration": 768
+    },
+    {
+      "id": "6U1ISPe1fPQ",
+      "title": "Should We Learn JavaScript in 2022? Should We Learn JavaScript in 2022?",
+      "duration": 849
+    }
+  ]
+}

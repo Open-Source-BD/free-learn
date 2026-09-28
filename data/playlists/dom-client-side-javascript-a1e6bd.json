@@ -1,0 +1,55 @@
+{
+  "courseId": "dom-client-side-javascript-a1e6bd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVA10Q5UxbhG3zTPpe_ZdDGg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:46.580Z",
+  "title": "DOM: Client Side Javascript",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "EErhhC5-Uz4",
+      "title": "1. DOM: Client Side Javascript Intro | DOM বাংলা টিউটোরিয়াল",
+      "duration": 1096
+    },
+    {
+      "id": "ppE4WBd9vdU",
+      "title": "2. DOM: What is DOM & How it Works | DOM বাংলা টিউটোরিয়াল",
+      "duration": 832
+    },
+    {
+      "id": "W4i6rQjkNtQ",
+      "title": "3. DOM: What is Window & Document Object | DOM বাংলা টিউটোরিয়াল",
+      "duration": 859
+    },
+    {
+      "id": "EGgJCWtQg_I",
+      "title": "4. DOM: Basic Selectors | DOM বাংলা টিউটোরিয়াল",
+      "duration": 1276
+    },
+    {
+      "id": "6fQTHcngaGU",
+      "title": "5. DOM: Query Selector & Query Selector All | DOM Bangla Tutorial",
+      "duration": 603
+    },
+    {
+      "id": "xFRAv2zwFoQ",
+      "title": "6. DOM: Style Your Document | DOM বাংলা টিউটোরিয়াল",
+      "duration": 745
+    },
+    {
+      "id": "49PZWwYBO_8",
+      "title": "7. DOM: Working with Events | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 804
+    },
+    {
+      "id": "N35Ct8bN2UU",
+      "title": "8. DOM: Creating & Deleting DOM Element | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 1829
+    },
+    {
+      "id": "_lohuu9KUWk",
+      "title": "9. DOM: Simple Project Using Vanilla Javascript | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 4428
+    }
+  ]
+}

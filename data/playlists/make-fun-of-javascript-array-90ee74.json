@@ -1,0 +1,350 @@
+{
+  "courseId": "make-fun-of-javascript-array-90ee74",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:14.872Z",
+  "title": "Make Fun Of Javascript Array",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "1tnv99373J0",
+      "title": "1.1 Why Do We Need Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 619
+    },
+    {
+      "id": "fbs6aj4kho4",
+      "title": "1.2 How Does Array Work | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 384
+    },
+    {
+      "id": "UbR2vD5VLLE",
+      "title": "1.3 What we can store in JS Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 95
+    },
+    {
+      "id": "HkBIUJ5N8xU",
+      "title": "1.4 Understand Multi Dimensional Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 351
+    },
+    {
+      "id": "VnfkaG7cWmo",
+      "title": "2.1 Array Literal | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 628
+    },
+    {
+      "id": "4LE_gfx510w",
+      "title": "2.2 Array Constructor vs Factory | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 445
+    },
+    {
+      "id": "pvssgFTynGs",
+      "title": "2.3 Traverse Array Elements | Making JavaScript Arrays Fun | Stack Learner",
+      "duration": 1072
+    },
+    {
+      "id": "a5ntvex4BV0",
+      "title": "2.4 Update Array Elements | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 749
+    },
+    {
+      "id": "ACdA6yAcrkM",
+      "title": "2.5 Array of Everything | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 1299
+    },
+    {
+      "id": "NBhbnxXvc7A",
+      "title": "3.1  Add New Elements in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 668
+    },
+    {
+      "id": "3RtTlLKIeFI",
+      "title": "3.2  Update Existing Elements in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 258
+    },
+    {
+      "id": "Y8hZkrpHOvQ",
+      "title": "3.3 Delete Elements in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 688
+    },
+    {
+      "id": "m7lTPL7naP8",
+      "title": "3.4 Concat Multiple Arrays | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 190
+    },
+    {
+      "id": "7L-IjWUDWDA",
+      "title": "3.5 Slice Array into Multiple Arrays | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 288
+    },
+    {
+      "id": "uNJwPX5atl8",
+      "title": "3.6 CLI Project (Part-1) Create To-do Class | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 764
+    },
+    {
+      "id": "oJQODzDAHZQ",
+      "title": "3.6 CLI Project (Part-2) Utility Functions | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 293
+    },
+    {
+      "id": "BxtFmLkmWwI",
+      "title": "3.6 CLI Project Tied Up (Part-3) | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 1244
+    },
+    {
+      "id": "l_Yb0VNc1yg",
+      "title": "4.1 Understand The Concept of Stack | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 373
+    },
+    {
+      "id": "v2j2pIORI2s",
+      "title": "4.2 Implement A Basic Stack | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 559
+    },
+    {
+      "id": "FjTU_qw7N2g",
+      "title": "4.3 Array Push and Pop Method in Javascript | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 591
+    },
+    {
+      "id": "uLNnD9wujFE",
+      "title": "5.1 Understand The Concept of Queue | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 522
+    },
+    {
+      "id": "x18POhDNAfM",
+      "title": "5.2 Implement A Basic Queue in Javascript | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 671
+    },
+    {
+      "id": "1z7TWIdd9gQ",
+      "title": "5.3 Array Push and Shift Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 362
+    },
+    {
+      "id": "-TOhCnOsTvM",
+      "title": "6.1 For Each Method in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 1168
+    },
+    {
+      "id": "hl7i6JILWq0",
+      "title": "6.2 Map Method in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 1171
+    },
+    {
+      "id": "5ADJu6ns1TM",
+      "title": "6.3 Filter Method in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 343
+    },
+    {
+      "id": "TQE7LFodq5s",
+      "title": "6.4 Map vs Filter in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 233
+    },
+    {
+      "id": "YUGMDuDFLXQ",
+      "title": "6.5 Some and Every in Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 264
+    },
+    {
+      "id": "iBA920_p_Ug",
+      "title": "7.1 Understand The Concept of Reduce | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 346
+    },
+    {
+      "id": "-NOJxEPRZOk",
+      "title": "7.2 Hands on Reduce | Make Fun Of Javascript Array | Stack Learner",
+      "duration": 321
+    },
+    {
+      "id": "VCRpNFL1CZE",
+      "title": "7. 3 Anatomy of Reduce Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 374
+    },
+    {
+      "id": "lY7Wa_WeIj0",
+      "title": "7.4 Example Array Flatten | Learning Javascript Arrays Made Fun | Stack Learner",
+      "duration": 219
+    },
+    {
+      "id": "ktzR1GZGXGQ",
+      "title": "7.5 Example FlatMap | JavaScript Array Methods Explained in Bengali | Stack Learner",
+      "duration": 263
+    },
+    {
+      "id": "Sf_M10ICRpc",
+      "title": "7.6 Example Frequency Checker | Mastering JavaScript Arrays | Stack Learner",
+      "duration": 240
+    },
+    {
+      "id": "blz_bJDgq-U",
+      "title": "7.7 Implement Our Own Reduce | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 480
+    },
+    {
+      "id": "xN01jmnE354",
+      "title": "7.8 Reduce Right | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 178
+    },
+    {
+      "id": "Ha-A6vXEWKA",
+      "title": "7.9 Reduce Array into Single Object | JavaScript Array Mastery | Stack Learner",
+      "duration": 298
+    },
+    {
+      "id": "rW0xq4Bk7lY",
+      "title": "7.10 Matrix Sum | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 371
+    },
+    {
+      "id": "actzCmkOWYk",
+      "title": "7.11 Map and Filter using Reduce | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 527
+    },
+    {
+      "id": "_aqBG03mOj8",
+      "title": "7.12 Compose Functions | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 462
+    },
+    {
+      "id": "OkIehYSKfpk",
+      "title": "7.13 Inspect Nested Object | Manipulating Javascript Arrays | Stack Learner",
+      "duration": 673
+    },
+    {
+      "id": "pIhGeMSVICs",
+      "title": "7.14 Generating Markup from List | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 240
+    },
+    {
+      "id": "Wpq6mMmND9M",
+      "title": "7.15 Grouping Similar Elements | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 169
+    },
+    {
+      "id": "UDxhJ5GzG7g",
+      "title": "7.16 Combining Data from Different Sources | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 275
+    },
+    {
+      "id": "ki6nY8qP5VA",
+      "title": "7.17 Promise Chain | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 436
+    },
+    {
+      "id": "jyRCstr7GF4",
+      "title": "7.18 Contact List by Group | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 446
+    },
+    {
+      "id": "UvY2to-iHiE",
+      "title": "8.1 Understand Sorting | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 211
+    },
+    {
+      "id": "ln6mtpdWyOw",
+      "title": "8.2 Implement Bubble Sort | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 297
+    },
+    {
+      "id": "KXBEUav4eKI",
+      "title": "8.3 Understand Javascript Sort Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 116
+    },
+    {
+      "id": "aQRsvI5G7-4",
+      "title": "8.4 How to Work with Sort Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 649
+    },
+    {
+      "id": "oV2wI8b3IL4",
+      "title": "8.5 Implement Bubble Sort with Callback | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 338
+    },
+    {
+      "id": "hf-blsyVQ6w",
+      "title": "8.6 Understand and Implement Linear Search | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 536
+    },
+    {
+      "id": "6kDw3X1Njt4",
+      "title": "8.7 Understand Binary Search | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 642
+    },
+    {
+      "id": "sXV8fun1t6w",
+      "title": "8.8 Implement Binary Search | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 376
+    },
+    {
+      "id": "MsuxZ-q2OTQ",
+      "title": "8.9 FindIndex Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 285
+    },
+    {
+      "id": "9trjj95dH3E",
+      "title": "8.10 Find Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 365
+    },
+    {
+      "id": "XLPIP6O9EEs",
+      "title": "9.1 Static Method vs Instance Method  | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 758
+    },
+    {
+      "id": "JpvaF_iEfiM",
+      "title": "9.2 Join Method | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 109
+    },
+    {
+      "id": "z-MQo8TATFQ",
+      "title": "9.3 Includes, IndexOf and LastIndexOf | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 187
+    },
+    {
+      "id": "TJa2No0559U",
+      "title": "10.1 Understand Iterable Objects | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 431
+    },
+    {
+      "id": "VElEOfqKMBM",
+      "title": "10.2 Find Iterator from Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 146
+    },
+    {
+      "id": "yntXEesoP7w",
+      "title": "10.3 Keys, Values and Entries in Javascript Array   Stack Learner",
+      "duration": 186
+    },
+    {
+      "id": "MFjRjOjXW7Y",
+      "title": "10.4 Array and For Of Loop | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 232
+    },
+    {
+      "id": "dKqPLGl7aQs",
+      "title": "11.1 Array is an Object  | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 504
+    },
+    {
+      "id": "zmQoe-rbgl8",
+      "title": "11.2 Copy Array Elements | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 779
+    },
+    {
+      "id": "Y_ZDUm-OVTs",
+      "title": "11.3 Compare Two Arrays | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 301
+    },
+    {
+      "id": "VVDB83-3Q6A",
+      "title": "11.4 Compare Array References | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 163
+    },
+    {
+      "id": "3bo8QcqTSDo",
+      "title": "12.1 Prototype of an Array | Make Fun Of Javascript Array in Bangla | Stack Learner",
+      "duration": 663
+    }
+  ]
+}

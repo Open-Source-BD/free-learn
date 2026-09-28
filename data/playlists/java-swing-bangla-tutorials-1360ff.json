@@ -1,0 +1,515 @@
+{
+  "courseId": "java-swing-bangla-tutorials-1360ff",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:43.823Z",
+  "title": "Java Swing Bangla Tutorials",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "28P_QSR-ouQ",
+      "title": "Java Swing Bangla Tutorial 1 : Java Swing course plan",
+      "duration": 320
+    },
+    {
+      "id": "7GkGWdv5lvY",
+      "title": "Java Bangla Tutorials 154 : How to run a java program from command Line",
+      "duration": 553
+    },
+    {
+      "id": "RJU3TFACzFI",
+      "title": "Java Swing Bangla Tutorial 3 : showMessageDialog (part-I)",
+      "duration": 580
+    },
+    {
+      "id": "YhucUbvZtbI",
+      "title": "Java Swing Bangla Tutorial 4 : showMessageDialog (part-II)",
+      "duration": 680
+    },
+    {
+      "id": "S8pyHK_6j9M",
+      "title": "Java Swing Tutorial 5: showMessageDialog (Part III)",
+      "duration": 628
+    },
+    {
+      "id": "fj8J44PNqSc",
+      "title": "Java Swing Bangla Tutorial 6 : showInputDialog",
+      "duration": 890
+    },
+    {
+      "id": "4pKoPhOMQjk",
+      "title": "Java Swing Bangla Tutorial 7 : showConfirmDialog",
+      "duration": 544
+    },
+    {
+      "id": "fBWXf58UL-k",
+      "title": "Java Swing Bangla Tutorial 8 : Creating and setting up JFrame (Part - 1)",
+      "duration": 776
+    },
+    {
+      "id": "ttPJox_ZR_8",
+      "title": "Java Swing Bangla Tutorial 9 : Creating and setting up JFrame (Part - 2)",
+      "duration": 365
+    },
+    {
+      "id": "PrkEGsd2hV4",
+      "title": "Java Swing Tutorial 10: How to change JFrame icon",
+      "duration": 397
+    },
+    {
+      "id": "SSMB1hpiHXc",
+      "title": "Java Swing Tutorial 11: How to change the background color of a JFrame",
+      "duration": 240
+    },
+    {
+      "id": "O8BO93kBvzw",
+      "title": "Java Swing Bangla Tutorial 12 : How to create a JLabel",
+      "duration": 569
+    },
+    {
+      "id": "W6sPfPdJTY4",
+      "title": "Java Swing Bangla Tutorial 13 : How to create multiple JLabel",
+      "duration": 281
+    },
+    {
+      "id": "nz8iBjTXc28",
+      "title": "Java Swing Bangla Tutorial 14: How to Change the Font Style and Size of a JLabel",
+      "duration": 244
+    },
+    {
+      "id": "lArx0SxQRT0",
+      "title": "Java Swing Tutorial 15: How to set foreground and background color of JLabel",
+      "duration": 171
+    },
+    {
+      "id": "MaAFXXEpkSQ",
+      "title": "Java Swing Bangla Tutorial 16 : How to add Tips to Jlabel",
+      "duration": 320
+    },
+    {
+      "id": "rqZLDEN-h4M",
+      "title": "Java Swing Bangla Tutorial 17 : How to add image on JLabel",
+      "duration": 337
+    },
+    {
+      "id": "WPntxvbB2IM",
+      "title": "Java Swing Bangla Tutorial 19 : How to create JTextField",
+      "duration": 467
+    },
+    {
+      "id": "rdZe-6jo0IU",
+      "title": "Java Swing Bangla Tutorial 20 : How to set Font style & size of JTextField",
+      "duration": 225
+    },
+    {
+      "id": "K5k8j0HJVTI",
+      "title": "Java Swing Tutorial 21 : How to set Foreground & background color of JTextField",
+      "duration": 131
+    },
+    {
+      "id": "D4JIWdmjrIA",
+      "title": "Java Swing Bangla Tutorial 22 : How to align JTextField",
+      "duration": 183
+    },
+    {
+      "id": "AvlyShvuOu0",
+      "title": "Java Swing Tutorial 23: How to add ActionListener with JTextField (Part 1)",
+      "duration": 392
+    },
+    {
+      "id": "itgSJqKvce8",
+      "title": "Java Swing Bangla Tutorial 24 : How to add actionLister with JTextField (Part-2)",
+      "duration": 416
+    },
+    {
+      "id": "f1d4I5fRD10",
+      "title": "Java Swing Bangla Tutorial 25 : How to add actionLister with JTextField (Part-3)",
+      "duration": 481
+    },
+    {
+      "id": "Lp40NlXBIgc",
+      "title": "Java Swing Bangla Tutorial 26 : How to create JPasswordField",
+      "duration": 423
+    },
+    {
+      "id": "TFyw9qJmONw",
+      "title": "Java Swing Bangla Tutorial 27 : How to set Font style & size of JPsswordField",
+      "duration": 180
+    },
+    {
+      "id": "EmutoEChgRk",
+      "title": "Java Swing Bangla Tutorial 28 : How to set Foreground & background color of JPsswordField",
+      "duration": 141
+    },
+    {
+      "id": "A8vKcChsFqA",
+      "title": "Java Swing Bangla Tutorial 29 : How to create JButton",
+      "duration": 363
+    },
+    {
+      "id": "LJGGA-jLJ_s",
+      "title": "Java Swing Bangla Tutorial 30 : How to set Font style & size of JButton",
+      "duration": 143
+    },
+    {
+      "id": "sa1IWk76Sx0",
+      "title": "Java Swing Bangla Tutorial 31 : How to set Foreground and background of JButton",
+      "duration": 186
+    },
+    {
+      "id": "hFwgd_WowZ0",
+      "title": "Java Swing Bangla Tutorial 32 : How to create different cursor for JButton",
+      "duration": 211
+    },
+    {
+      "id": "E80tPsn9cVo",
+      "title": "Java Swing Bangla Tutorial 33 : How to set Image on JButton",
+      "duration": 332
+    },
+    {
+      "id": "Jot1z1roYKI",
+      "title": "Java Swing Bangla Tutorial 34 : How to add ActionListener with JButton",
+      "duration": 505
+    },
+    {
+      "id": "2qTVMdGQcvU",
+      "title": "Java Swing Bangla Tutorial 40 : How to create a Login Frame (part-1)",
+      "duration": 1060
+    },
+    {
+      "id": "u9I66bxW2HA",
+      "title": "Java Swing Bangla Tutorial 41 : How to create a Login Frame (part-2)",
+      "duration": 429
+    },
+    {
+      "id": "nRhQ-vldQkw",
+      "title": "Java Swing Bangla Tutorial 42 : How to open one frame from another (part-1)",
+      "duration": 685
+    },
+    {
+      "id": "M3Nh1bSeGyA",
+      "title": "Java Swing Bangla Tutorial 43 : How to open one frame from another (part-2)",
+      "duration": 120
+    },
+    {
+      "id": "8qDEbdMX860",
+      "title": "Java Swing Bangla Tutorial 44 : How to create JTextArea",
+      "duration": 386
+    },
+    {
+      "id": "vRoETwTISJw",
+      "title": "Java Swing Bangla Tutorial 45 : How to set Font style & size of JTextArea",
+      "duration": 156
+    },
+    {
+      "id": "H92AmmYSMuo",
+      "title": "Java Swing Bangla Tutorial 46 : How to set Foreground & background of JTextArea",
+      "duration": 84
+    },
+    {
+      "id": "ypfTy7R9DvQ",
+      "title": "Java Swing Bangla Tutorial 47 : How to do Line Wrapping JTextArea",
+      "duration": 405
+    },
+    {
+      "id": "p2TOuLELqSE",
+      "title": "Java Swing Bangla Tutorial 48 : How to create JScrollPane",
+      "duration": 460
+    },
+    {
+      "id": "cXwe_51NcG4",
+      "title": "Java Swing Bangla Tutorial 49 : Multiplication Table (Part-1)",
+      "duration": 940
+    },
+    {
+      "id": "TQUwjKzBI9k",
+      "title": "Java Swing Bangla Tutorial 50 : Multiplication Table (Part-2)",
+      "duration": 658
+    },
+    {
+      "id": "Wm9bxvmIQKE",
+      "title": "Java Swing Bangla Tutorial 51 : Multiplication Table (Part-3)",
+      "duration": 697
+    },
+    {
+      "id": "i5SkhlOQJ8c",
+      "title": "Java Swing Bangla Tutorial 52 : Multiplication Table (Part-4)",
+      "duration": 242
+    },
+    {
+      "id": "prG--R8U-e4",
+      "title": "Java Swing Bangla Tutorial 53 : How to create Jar file in Netbeans",
+      "duration": 220
+    },
+    {
+      "id": "_fCtI77ih9I",
+      "title": "Java Swing Bangla Tutorial 54 : How to create JRadioButton",
+      "duration": 529
+    },
+    {
+      "id": "c5taedPCCyA",
+      "title": "Java Swing Bangla Tutorial 55 : How to create ButtonGroup for JRadioButton",
+      "duration": 207
+    },
+    {
+      "id": "hz7Ddur5SCA",
+      "title": "Java Swing Bangla Tutorial 56 : How to set Font style & size of JRadioButton",
+      "duration": 166
+    },
+    {
+      "id": "aMedXKf5PwE",
+      "title": "Java Swing Bangla Tutorial 57 : How to select a JRadioButton internally",
+      "duration": 123
+    },
+    {
+      "id": "vy8fgibVvQo",
+      "title": "Java Swing Bangla Tutorial 58 : How to disable a JRadioButton",
+      "duration": 95
+    },
+    {
+      "id": "B0pzZDZlhmI",
+      "title": "Java Swing Bangla Tutorial 59 : JRadioButton with ActionListener",
+      "duration": 572
+    },
+    {
+      "id": "6ncdsHinj8Q",
+      "title": "Java Swing Bangla Tutorial 60 : How to create JCheckBox",
+      "duration": 683
+    },
+    {
+      "id": "z7lLnFlEqI8",
+      "title": "Java Swing Bangla Tutorial 61 : How to create ButtonGroup for JCheckBox",
+      "duration": 134
+    },
+    {
+      "id": "fjJFPIGSv6I",
+      "title": "Java Swing Bangla Tutorial 62 : How to set Font style & size of JCheckBox",
+      "duration": 172
+    },
+    {
+      "id": "2C-ZuyV9Ff4",
+      "title": "Java Swing Bangla Tutorial 63 : How to select a JCheckBox internally",
+      "duration": 165
+    },
+    {
+      "id": "1KO44rtWsoE",
+      "title": "Java Swing Bangla Tutorial 64 : JCheckBox with ActionListener",
+      "duration": 599
+    },
+    {
+      "id": "kOHvMLPUvvY",
+      "title": "Java Swing Bangla Tutorial 65 : JCheckBox with ItemListener",
+      "duration": 538
+    },
+    {
+      "id": "TSCQjOxIHh0",
+      "title": "Java Swing Bangla Tutorial 66 : How to create JComboBox",
+      "duration": 525
+    },
+    {
+      "id": "RBk4V6lc2_0",
+      "title": "Java Swing Bangla Tutorial 67 : various methods of JComboBox",
+      "duration": 586
+    },
+    {
+      "id": "joqJZFXEKUM",
+      "title": "Java Swing Bangla Tutorial 68 : ActionListener with JComboBox",
+      "duration": 576
+    },
+    {
+      "id": "6Je5BtRgz44",
+      "title": "Java Swing Bangla Tutorial 69 : Another method for adding Listeners",
+      "duration": 773
+    },
+    {
+      "id": "7DIdI7XsSKo",
+      "title": "Java Swing Bangla Tutorial 70 : KeyListener",
+      "duration": 505
+    },
+    {
+      "id": "NLOqJwuud0U",
+      "title": "Java Swing Bangla Tutorial 71 : Vowel Counter using KeyListener (Part-1)",
+      "duration": 920
+    },
+    {
+      "id": "jZ78tXOO72I",
+      "title": "Java Swing Bangla Tutorial 72 : Vowel Counter using KeyListener (Part-2)",
+      "duration": 736
+    },
+    {
+      "id": "xHgWZuMKLf8",
+      "title": "Java Swing Bangla Tutorial 73 : MouseListener",
+      "duration": 812
+    },
+    {
+      "id": "pTyfVAMmp4Y",
+      "title": "Java Swing Tutorial 74: MouseMotionListener",
+      "duration": 665
+    },
+    {
+      "id": "MpCeJheqKxk",
+      "title": "Java Swing Bangla Tutorial 75 : FocusListener",
+      "duration": 577
+    },
+    {
+      "id": "gZvs45bGATE",
+      "title": "Java Swing Bangla Tutorial 76 : WindowListener",
+      "duration": 635
+    },
+    {
+      "id": "keDXwuQ32K0",
+      "title": "Java Swing Bangla Tutorial 18 : How to add image and text on JLabel",
+      "duration": 380
+    },
+    {
+      "id": "OjKYFEO9Q-0",
+      "title": "Java Bangla Tutorials 155 : How to run a java program from a package",
+      "duration": 176
+    },
+    {
+      "id": "nmmWTs6t1k4",
+      "title": "Java Swing Bangla Tutorial 77 : How to create and use JPanel",
+      "duration": 764
+    },
+    {
+      "id": "DzKSMdabfsk",
+      "title": "Java Swing Bangla Tutorial 78 : BorderLayout",
+      "duration": 784
+    },
+    {
+      "id": "Am939E9HOzY",
+      "title": "Java Swing Bangla Tutorial 79 : FlowLayout",
+      "duration": 741
+    },
+    {
+      "id": "vZqFbfwvLms",
+      "title": "Java Swing Bangla Tutorial 80 : BoxLayout",
+      "duration": 363
+    },
+    {
+      "id": "Xp2F_c_kMoU",
+      "title": "Java Swing Bangla Tutorial 81: GridLayout",
+      "duration": 474
+    },
+    {
+      "id": "8_MgJfCAxOc",
+      "title": "Java Swing Bangla Tutorial 82 : CardLayout 1",
+      "duration": 643
+    },
+    {
+      "id": "SkQRTJHaJaY",
+      "title": "Java Swing Bangla Tutorial 83 : CardLayout 2",
+      "duration": 321
+    },
+    {
+      "id": "YMATlYWnddc",
+      "title": "Java Swing Bangla Tutorial 84 : Slideshow (part-1)",
+      "duration": 481
+    },
+    {
+      "id": "rxp_lzp1iLs",
+      "title": "Java Swing Bangla Tutorial 85 : Slideshow (part-2)",
+      "duration": 840
+    },
+    {
+      "id": "Kcwoe10zlFU",
+      "title": "Java Swing Bangla Tutorial 86 : JToggleButton (part-1)",
+      "duration": 754
+    },
+    {
+      "id": "eUjmYR0t4ao",
+      "title": "Java Swing Bangla Tutorial 87 : JToggleButton (part-2)",
+      "duration": 239
+    },
+    {
+      "id": "my-4A7hDl10",
+      "title": "Java Swing Bangla Tutorial 88 :  JSlider",
+      "duration": 412
+    },
+    {
+      "id": "EWIQNJ7hsm8",
+      "title": "Java Swing Bangla Tutorial 89 : JSlider Project with ChangeListener (part-1)",
+      "duration": 895
+    },
+    {
+      "id": "Bq3qyksOr-U",
+      "title": "Java Swing Bangla Tutorial 90 : JSlider Project with ChangeListener (part-2)",
+      "duration": 398
+    },
+    {
+      "id": "meztmQRlMy8",
+      "title": "Java Swing Bangla Tutorial 91 : JSpinner",
+      "duration": 330
+    },
+    {
+      "id": "ytg-RPOBpDI",
+      "title": "Java Swing Bangla Tutorial 92 : JSpinner with ChangeListener",
+      "duration": 298
+    },
+    {
+      "id": "T6OgBiMvGFQ",
+      "title": "Java Swing Bangla Tutorial 93 :  JTabbedPane (part-1)",
+      "duration": 622
+    },
+    {
+      "id": "O4aFRfBGr4M",
+      "title": "Java Swing Bangla Tutorial 94 :   JTabbedPane (part-2)",
+      "duration": 415
+    },
+    {
+      "id": "AIUJI4zq_Bg",
+      "title": "Java Swing Bangla Tutorial 95 : JColorChooser with actionListener",
+      "duration": 625
+    },
+    {
+      "id": "y1UkBEAE5jA",
+      "title": "Java Swing Bangla Tutorial 96 : JTable",
+      "duration": 776
+    },
+    {
+      "id": "Bq9RghjdJkI",
+      "title": "97. Java Swing Bangla Tutorial : Student Management (part-1)",
+      "duration": 398
+    },
+    {
+      "id": "bi-XPk9MawU",
+      "title": "98. Java Swing Bangla : Student Management (part-2)",
+      "duration": 438
+    },
+    {
+      "id": "mCWEkjI6c18",
+      "title": "99. Java Swing: Student Management (Part 3)",
+      "duration": 531
+    },
+    {
+      "id": "dPNAsnOW9Io",
+      "title": "100. Java Swing : Student Management (part-4)",
+      "duration": 375
+    },
+    {
+      "id": "fsEwbXpH-cU",
+      "title": "101. Java Swing : Student Management (part-5)",
+      "duration": 562
+    },
+    {
+      "id": "ofoYMaN29lk",
+      "title": "102. Java Swing : Student Management (part-6)",
+      "duration": 471
+    },
+    {
+      "id": "FepDyo57TNc",
+      "title": "103. Java Swing : JMenu (part-1)",
+      "duration": 609
+    },
+    {
+      "id": "QjBMLbM4pAM",
+      "title": "104. Java Swing : Adding actionListener with JMenuItem",
+      "duration": 396
+    },
+    {
+      "id": "Bdwvo-dl910",
+      "title": "105. Java Swing : Adding icon and keyboard shortcuts on JMenu",
+      "duration": 570
+    }
+  ]
+}
