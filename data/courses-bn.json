@@ -1,0 +1,2359 @@
+{
+  "language": "Bangla",
+  "code": "bn",
+  "source": "https://raw.githubusercontent.com/EbookFoundation/free-programming-books/main/courses/free-courses-bn.md",
+  "license": "CC BY 4.0 (EbookFoundation/free-programming-books)",
+  "count": 176,
+  "courses": [
+    {
+      "title": "Android Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Android",
+      "section_path": [
+        "Android"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Android Firebase Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Android",
+      "section_path": [
+        "Android"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Android SQLite Database Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Android",
+      "section_path": [
+        "Android"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Android Tutorials Material Design",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Android",
+      "section_path": [
+        "Android"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java, OOP & Android tutorials for beginners in Bengali",
+      "url": "https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH",
+      "authors": [
+        "Zulkarnine Mahmud"
+      ],
+      "notes": [],
+      "category": "Android",
+      "section_path": [
+        "Android"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Assembly Language Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM",
+      "authors": [
+        "Maruf Sarker"
+      ],
+      "notes": [],
+      "category": "Assembly Language",
+      "section_path": [
+        "Assembly Language"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C - All you need to know",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C Programming Bangla Tutorial",
+      "url": "https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo",
+      "authors": [
+        "Bangla Coding Tutor"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C Programming Bangla Tutorial Course",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C Programming Bangla Tutorial For Beginners 2023",
+      "url": "https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV",
+      "authors": [
+        "Hablu Programmer"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C Programming Bangla Tutorial for Beginners 2023 - Full Course",
+      "url": "https://www.youtube.com/playlist?list=PLrDxN3bRTRn0MuyOVcJi016T7i1LTOPRm",
+      "authors": [
+        "TechDev Point"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Pattern Printing in C",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "C",
+      "section_path": [
+        "C"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C# and ASP.NET MVC Full Bangla Tutorial BITM",
+      "url": "https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6",
+      "authors": [
+        "Learn With Nirash"
+      ],
+      "notes": [],
+      "category": "<a id=\"csharp\"></a>C\\#",
+      "section_path": [
+        "<a id=\"csharp\"></a>C\\#"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C# bangla tutorial \\| Basic to advance in depth bangla course",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "<a id=\"csharp\"></a>C\\#",
+      "section_path": [
+        "<a id=\"csharp\"></a>C\\#"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C# OOP (object oriented programming) BanglaTutorials",
+      "url": "https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p",
+      "authors": [
+        "Asp Dot Net Explorer"
+      ],
+      "notes": [],
+      "category": "<a id=\"csharp\"></a>C\\#",
+      "section_path": [
+        "<a id=\"csharp\"></a>C\\#"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C++ Bangla Tutorial Course",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "<a id=\"cpp\"></a>C++",
+      "section_path": [
+        "<a id=\"cpp\"></a>C++"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C++ Bangla Tutorial for Beginners - 2022",
+      "url": "https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc",
+      "authors": [
+        "Shikkhangon BD"
+      ],
+      "notes": [],
+      "category": "<a id=\"cpp\"></a>C++",
+      "section_path": [
+        "<a id=\"cpp\"></a>C++"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "C++ STL (Bangla)",
+      "url": "https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_",
+      "authors": [
+        "LoveExtendsCode"
+      ],
+      "notes": [],
+      "category": "<a id=\"cpp\"></a>C++",
+      "section_path": [
+        "<a id=\"cpp\"></a>C++"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Object Oriented C++ \\| Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y",
+      "authors": [
+        "Online School"
+      ],
+      "notes": [],
+      "category": "<a id=\"cpp\"></a>C++",
+      "section_path": [
+        "<a id=\"cpp\"></a>C++"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Standard Template Library of C++ (STL)",
+      "url": "https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5",
+      "authors": [
+        "CPS Academy"
+      ],
+      "notes": [],
+      "category": "<a id=\"cpp\"></a>C++",
+      "section_path": [
+        "<a id=\"cpp\"></a>C++"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "Cloud Computing",
+      "section_path": [
+        "Cloud Computing"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Competitive Programming Course in Bengali",
+      "url": "https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos",
+      "authors": [
+        "Bangladesh IOI team"
+      ],
+      "notes": [],
+      "category": "Competitive Programming",
+      "section_path": [
+        "Competitive Programming"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Data Structures and Algorithms in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_",
+      "authors": [
+        "Tamim Shahriar"
+      ],
+      "notes": [],
+      "category": "Competitive Programming",
+      "section_path": [
+        "Competitive Programming"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "১ ভিডিওতে ডার্ট শিখুন !",
+      "url": "https://www.youtube.com/watch?v=_8Q5cwfvi64",
+      "authors": [
+        "Rabbil Hasan"
+      ],
+      "notes": [],
+      "category": "Dart",
+      "section_path": [
+        "Dart"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Dart All You Need To Know",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Dart",
+      "section_path": [
+        "Dart"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Dart Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "Dart",
+      "section_path": [
+        "Dart"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Dart Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLy0nhnjSE4irkzR9mbo70J2iKbf4a36y5",
+      "authors": [
+        "Afran Sarkar"
+      ],
+      "notes": [],
+      "category": "Dart",
+      "section_path": [
+        "Dart"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Dart Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLg87mxEuu8-68krJBfgF3yjIPAwdgz1T2",
+      "authors": [
+        "Techno BD XYZ"
+      ],
+      "notes": [],
+      "category": "Dart",
+      "section_path": [
+        "Dart"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Docker and Kubernetes - 2022",
+      "url": "https://www.youtube.com/playlist?list=PLzOdtYcAxAiM4_XQrzRmofBJ_ImFkSojg",
+      "authors": [
+        "CSLCBT Bangla"
+      ],
+      "notes": [],
+      "category": "Docker",
+      "section_path": [
+        "Docker"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Docker Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "Docker",
+      "section_path": [
+        "Docker"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Docker Tutorial Course",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "Docker",
+      "section_path": [
+        "Docker"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Mastering Docker -23",
+      "url": "https://youtube.com/playlist?list=PLzOdtYcAxAiNNR-8DEbnW2LErzqC3-qcs",
+      "authors": [
+        "CSLCBT Bangla"
+      ],
+      "notes": [],
+      "category": "Docker",
+      "section_path": [
+        "Docker"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flutter Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7",
+      "authors": [
+        "Afran Sarkar"
+      ],
+      "notes": [],
+      "category": "Flutter",
+      "section_path": [
+        "Flutter"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flutter Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy",
+      "authors": [
+        "Techno BD XYZ"
+      ],
+      "notes": [],
+      "category": "Flutter",
+      "section_path": [
+        "Flutter"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flutter Tutorial Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLkyGuIcLcmx3-Z3QML9xkYZtdKh91LeYC",
+      "authors": [
+        "Rabbil Hasan"
+      ],
+      "notes": [],
+      "category": "Flutter",
+      "section_path": [
+        "Flutter"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flutter Tutorial Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p",
+      "authors": [
+        "Soykot Hosen"
+      ],
+      "notes": [],
+      "category": "Flutter",
+      "section_path": [
+        "Flutter"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flutter Tutorial Bangla (Full Course) \\| Mobile App Development",
+      "url": "https://www.youtube.com/playlist?list=PLzHzHuEcLLzDh7koqhZJMrE879XzLAfo4",
+      "authors": [
+        "Jibon Khan"
+      ],
+      "notes": [],
+      "category": "Flutter",
+      "section_path": [
+        "Flutter"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "গিট পরিচিতি",
+      "url": "https://www.youtube.com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w",
+      "authors": [
+        "Learn with Hasin Hayder"
+      ],
+      "notes": [],
+      "category": "Git",
+      "section_path": [
+        "Git"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial",
+      "url": "https://www.youtube.com/watch?v=oe21Nlq8GS4",
+      "authors": [
+        "Sumit Saha"
+      ],
+      "notes": [
+        "Learn with Sumit"
+      ],
+      "category": "Git",
+      "section_path": [
+        "Git"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Git & GitHub complete course Bangla (Beginner to Advanced)",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Git",
+      "section_path": [
+        "Git"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Git and Github in One Video (Theory + Practical) \\| A 2 Z in Bangla",
+      "url": "https://www.youtube.com/watch?v=4KdGgGsIDeA",
+      "authors": [
+        "SHAJ.T3CH"
+      ],
+      "notes": [],
+      "category": "Git",
+      "section_path": [
+        "Git"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Git Bangla Tutorial Complete",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Git",
+      "section_path": [
+        "Git"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bangla Go/Golang Course",
+      "url": "https://www.youtube.com/playlist?list=PLHkC-Z1xxZM7y5XxlZFQmI-M8jsAI2AQd",
+      "authors": [
+        "Backend Ninja"
+      ],
+      "notes": [],
+      "category": "Go",
+      "section_path": [
+        "Go"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Go Bangla Tutorials 2022",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Go",
+      "section_path": [
+        "Go"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Golang কোডিং বুট ক্যাম্প ক্লাস",
+      "url": "https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl",
+      "authors": [
+        "MASTER-ACADEMY"
+      ],
+      "notes": [],
+      "category": "Go",
+      "section_path": [
+        "Go"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Golang Web Development Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx",
+      "authors": [
+        "Learn with Raihan"
+      ],
+      "notes": [],
+      "category": "Go",
+      "section_path": [
+        "Go"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "CSS Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH",
+      "authors": [
+        "Moshiur"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "CSS Complete Course in Bangla 2021",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "CSS3 and CSS4 Weird Parts Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "CSS3 Essential Training (Bangla)",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "HTML Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64",
+      "authors": [
+        "Moshiur"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "HTML Complete Course in Bangla 2021(Beginner to Advanced)",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "HTML5 \\| HTML Tutorial For Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp",
+      "authors": [
+        "Hablu Programmer"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap 4 Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBr2NqbL3q71nk5FX8zB0nK",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap 5 and 4 Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap 5 Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLCTSm-A1QfHqRdVcdKx6Q7vaxW3vvsAug",
+      "authors": [
+        "Amar Course"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap 5 Essential Training Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowASvSK4qx9Nz9MNTJC9Up67",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap Bangla Tutorial With Projects",
+      "url": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg",
+      "authors": [
+        "Moshiur"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bootstrap tutorial for (beginners to advanced)",
+      "url": "https://www.youtube.com/playlist?list=PLerpoOYRrjUzKiOZDjPkTL0uaRLgJ_NJF",
+      "authors": [
+        "Programming Shikhbo"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Bootstrap"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Tailwind CSS",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD8Vo0owqLtHhVpSSZ4w6Om",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Tailwind"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Tailwind CSS Bangla Tutorial Basic to Project Series",
+      "url": "https://www.youtube.com/playlist?list=PL2ozzDVxiDachzWAOiMRrjgrqe7EO-XOv",
+      "authors": [
+        "CODE ABC"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Tailwind"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Tailwind CSS Bangla Tutorial Series",
+      "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2",
+      "authors": [
+        "Learn with Sumit"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Tailwind"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Tailwind CSS Tutorials in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine",
+      "authors": [
+        "Programming Shikhbo"
+      ],
+      "notes": [],
+      "category": "HTML and CSS",
+      "section_path": [
+        "HTML and CSS",
+        "Tailwind"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "How to save coding time using sublime text (bangla)",
+      "url": "https://www.youtube.com/playlist?list=PLPkEK3TrAJ1Pi8IUcA9Ldm81ZCVCA_bIm",
+      "authors": [
+        "Sharif Chowdhury"
+      ],
+      "notes": [],
+      "category": "IDE and editors",
+      "section_path": [
+        "IDE and editors"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Notepad++ tutorial in Bangla for beginner",
+      "url": "https://www.youtube.com/playlist?list=PLf3nMuwgaMb24VtxNGQcUKr2NVenMkzGC",
+      "authors": [
+        "Community Solution IT"
+      ],
+      "notes": [],
+      "category": "IDE and editors",
+      "section_path": [
+        "IDE and editors"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)",
+      "url": "https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej",
+      "authors": [
+        "Positive World"
+      ],
+      "notes": [],
+      "category": "IDE and editors",
+      "section_path": [
+        "IDE and editors"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "VSCode Complete Tutorial Series \\| VSCode টিউটোরিয়াল সিরিজ",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "IDE and editors",
+      "section_path": [
+        "IDE and editors"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "VSCode Power Tips",
+      "url": "https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F",
+      "authors": [
+        "Learn with Hasin Hayder"
+      ],
+      "notes": [],
+      "category": "IDE and editors",
+      "section_path": [
+        "IDE and editors"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java Bangla (বাংলা) tutorial for beginners",
+      "url": "https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP",
+      "authors": [
+        "Time & Training"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java Bangla Tutorials \\| CORE Java \\| Complete OOP",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java Basic Syntax Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I",
+      "authors": [
+        "Bangla Coding Tutor"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java Course! Full Course Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy",
+      "authors": [
+        "Online Course"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java For Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy",
+      "authors": [
+        "Learn With Tawhid"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java Swing Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Spring Boot for Beginners",
+      "url": "https://www.youtube.com/watch?v=ELL1Pwd3W28",
+      "authors": [
+        "Yeamim Hossain Sajid"
+      ],
+      "notes": [],
+      "category": "Java",
+      "section_path": [
+        "Java",
+        "Spring Boot"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "DOM: Client Side Javascript",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVA10Q5UxbhG3zTPpe_ZdDGg",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Express JS Crash Course in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Functional JavaScript Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPR9fASxugXgQAWkZLcmt1",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JavaScript All You Need to Know \\| JS Bangla Tutorial \\| Stack Learner",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JavaScript Bangla Tutorial Course 2021",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JavaScript Behind The Scene Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JavaScript Full Playlist With Order",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JavaScript Tutorial For Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+      "authors": [
+        "Hablu Programmer"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "JS Bangla Tutorial Series for Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
+      "authors": [
+        "Sumit Saha"
+      ],
+      "notes": [
+        "Learn with Sumit"
+      ],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Make Fun of JavaScript Array",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Modern JavaScript Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL4iFnndHlduhY_C69D8XSVqG7IOdbzmfb",
+      "authors": [
+        "JS Bangladesh"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Modern JavaScript ES6 Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG",
+      "authors": [
+        "Sumit Saha"
+      ],
+      "notes": [
+        "Learn with Sumit"
+      ],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Play with DOM - Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_",
+      "authors": [
+        "Sumit Saha"
+      ],
+      "notes": [
+        "Learn with Sumit"
+      ],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Angular 12 Easy Tutorial in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR",
+      "authors": [
+        "web-man"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Angular"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Angular full tutorial series for Beginners in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLBcycf_KNrYpgj_yzcNgW9I3_2fpiGXXg",
+      "authors": [
+        "Learn With Rashed"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Angular"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Angular Tutorials for Beginners in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE",
+      "authors": [
+        "miTechSoln"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Angular"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "AngularJS bangla tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst",
+      "authors": [
+        "tutplus24"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Angular"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Angularjs bangla tutorial basic",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Angular"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Electron JS Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Electron"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "jQuery Bangla Series for Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "jQuery"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "jQuery Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw",
+      "authors": [
+        "Moshiur"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "jQuery"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Next Js Bangla Tutorial Series",
+      "url": "https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp",
+      "authors": [
+        "dSkill"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Next.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "next js bangla(বাংলা) tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2",
+      "authors": [
+        "Faazle Rabbi"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Next.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Next js tutorial in bangla",
+      "url": "https://www.youtube.com/playlist?list=PLkmCJMhveta1PihBgW4MpYxFlyzdSjlNC",
+      "authors": [
+        "Sabeek Bin Sayeed"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Next.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Complete MERN Stack Course in Bangla",
+      "url": "https://www.youtube.com/watch?v=ewBBT6Iph0M&list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Dive Into NodeJS",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "E-commerce MERN Stack Project in Bangla",
+      "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Node.js Tutorial Bangla  Series for Beginners",
+      "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM",
+      "authors": [
+        "Learn With Sumit"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "NodeJS Tutorial Online",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API",
+      "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj",
+      "authors": [
+        "Learn With Sumit"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স",
+      "url": "https://www.youtube.com/watch?v=6wilewRV3xQ",
+      "authors": [
+        "Rabbil Hasan"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "React - Redux Complete Course",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "React JS Bangla Tutorial \\| React Tutorial For Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL",
+      "authors": [
+        "Hablu Programmer"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "React JS Tutorial Bangla Series for Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+      "authors": [
+        "Sumit Saha"
+      ],
+      "notes": [
+        "Learn with Sumit"
+      ],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Understand ReactJS Advanced Features",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Understand ReactJS Core Features",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "React"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Svelte 3: The Game Changer (Bangla Crash Course)",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Svelte"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course",
+      "url": "https://www.youtube.com/watch?v=iIvN7upsLoA",
+      "authors": [
+        "Learn with Sumit"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Vue.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Vue JS 3 Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x",
+      "authors": [
+        "Mamunur Rashid"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Vue.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)",
+      "url": "https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P",
+      "authors": [
+        "Rafee Amin"
+      ],
+      "notes": [],
+      "category": "JavaScript",
+      "section_path": [
+        "JavaScript",
+        "Vue.js"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Android Development with Kotlin - Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp",
+      "authors": [
+        "MKH Russell"
+      ],
+      "notes": [],
+      "category": "Kotlin",
+      "section_path": [
+        "Kotlin"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Chapter 1 : Kotlin Basic Concepts Bangla",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Kotlin",
+      "section_path": [
+        "Kotlin"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Kotlin For Android - Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr",
+      "authors": [
+        "Touhid Apps!"
+      ],
+      "notes": [],
+      "category": "Kotlin",
+      "section_path": [
+        "Kotlin"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Kotlin Programming Language Basics in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLYSlHgBmbWcurc9BBThq0WdcESbpEymF1",
+      "authors": [
+        "Bonny Ahmad"
+      ],
+      "notes": [],
+      "category": "Kotlin",
+      "section_path": [
+        "Kotlin"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Kali Linux Basics Full Course In Bangla By Mehedi Shakeel",
+      "url": "https://www.youtube.com/playlist?list=PL-8coCSOYV9F_tVxJSX1tzNram6PH0K4O",
+      "authors": [
+        "Mehedi Shakeel"
+      ],
+      "notes": [],
+      "category": "Linux",
+      "section_path": [
+        "Linux"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Linux Essentials Full course",
+      "url": "https://www.youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb",
+      "authors": [
+        "CSLCBT Bangla"
+      ],
+      "notes": [],
+      "category": "Linux",
+      "section_path": [
+        "Linux"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Ubuntu Linux Bangla Tutorial 2021",
+      "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw",
+      "authors": [
+        "Study Mart"
+      ],
+      "notes": [],
+      "category": "Linux",
+      "section_path": [
+        "Linux"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Mastering MongoDB",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "MongoDB",
+      "section_path": [
+        "MongoDB"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "MongoDB Bangla tutorial series",
+      "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "MongoDB",
+      "section_path": [
+        "MongoDB"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "MongoDB Bangla Tutorials \\| MongoDB  Crash Course in Bangla \\| MongoDB NoSQL Database Tutorial in Bengali",
+      "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFe5tIAh3FB8avnQBD5FFXvE",
+      "authors": [
+        "Study Mart"
+      ],
+      "notes": [],
+      "category": "MongoDB",
+      "section_path": [
+        "MongoDB"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bangla MySQL Database Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4",
+      "authors": [
+        "Delowar Jahan Imran",
+        "Training with Live Project"
+      ],
+      "notes": [],
+      "category": "MySQL",
+      "section_path": [
+        "MySQL"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "mysql bangla tutorial \\| Mysql Database \\| HSC,CSE, Anyone",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99",
+      "authors": [
+        "Sohidul Islam",
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "MySQL",
+      "section_path": [
+        "MySQL"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "MySql Database Bangla Tutorial Beginner to Advanced",
+      "url": "https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi",
+      "authors": [
+        "Shoaib Hossain",
+        "Soft-All"
+      ],
+      "notes": [],
+      "category": "MySQL",
+      "section_path": [
+        "MySQL"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "MySQL Database Bangla Tutorials (HSC student / Anyone)",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "MySQL",
+      "section_path": [
+        "MySQL"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Operating System",
+      "url": "https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU",
+      "authors": [
+        "Farhan Hossan"
+      ],
+      "notes": [],
+      "category": "Operating Systems",
+      "section_path": [
+        "Operating Systems"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)",
+      "url": "https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT",
+      "authors": [
+        "Lecturelia - CSE Bangla Tutorial"
+      ],
+      "notes": [],
+      "category": "Operating Systems",
+      "section_path": [
+        "Operating Systems"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "PHP All You Need To Know",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "PHP Bangla Tutorial - Basic To Advanced",
+      "url": "https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9",
+      "authors": [
+        "JS Bangladesh"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "php bangla tutorial for beginners \\| php8 bangla tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "PHP OOP Bangla Tutorial \\| Object Oriented Programming Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G",
+      "authors": [
+        "Technology Village"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "laravel 10 bangla tutorial latest version \\| laravel basic to advanced from official documentation",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP",
+        "Laravel"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Laravel Queue Tutorial \\| Basic to Advanced",
+      "url": "https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X",
+      "authors": [
+        "Programming with CodeSteps"
+      ],
+      "notes": [],
+      "category": "PHP",
+      "section_path": [
+        "PHP",
+        "Laravel"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "PostgreSQL Full Course In Bangla 2025",
+      "url": "https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5",
+      "authors": [
+        "Nexist"
+      ],
+      "notes": [],
+      "category": "PostgreSQL",
+      "section_path": [
+        "PostgreSQL"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java and OOO. Learn Object Oriented with Real Example",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Programming paradigms",
+      "section_path": [
+        "Programming paradigms"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java and OOP Basics",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Programming paradigms",
+      "section_path": [
+        "Programming paradigms"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Java and OOP: Java Built in Classes and Features",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Programming paradigms",
+      "section_path": [
+        "Programming paradigms"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Object Oriented Programming Main Theory in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Programming paradigms",
+      "section_path": [
+        "Programming paradigms"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Bangla Python Tutorial for Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B",
+      "authors": [
+        "Niamul Hasan"
+      ],
+      "notes": [
+        "StartBit"
+      ],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python All You Need to Know / stack learner",
+      "url": "https://www.youtube.com/playlist?list=PL3-qJK8D7YirnPBwmPNRyczdVOEwJbtLW",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python Bangla Tutorial 2023",
+      "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v",
+      "authors": [
+        "Hablu Programmer"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python Bangla Tutorials for Beginners",
+      "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python For Beginners - Bangla Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC",
+      "authors": [
+        "Learn With Tawhid"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python Full Course Bangla (Learn Python A - Z)",
+      "url": "https://www.youtube.com/playlist?list=PLF-F70WLa6yP0gIAowyaluE85ZBBMB6en",
+      "authors": [
+        "Artificial Neuron"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python tutorials by Zulkarnine",
+      "url": "https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8",
+      "authors": [
+        "Zulkarnine Mahmud"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "60 Days of Django - Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5",
+      "authors": [
+        "Abu Noman Basar"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Django"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Django Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Django"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Django Bangla Tutorial \\| পাইথন জ্যাঙ্গো বাংলা \\| Django full course \\| 2022",
+      "url": "https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN",
+      "authors": [
+        "Nongare Hi-Tech"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Django"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python Django & RestAPI Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6",
+      "authors": [
+        "Study Mart"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Django"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python DJango Bangla (বাংলা) tutorial",
+      "url": "https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS",
+      "authors": [
+        "Tech Solutions In Bangla"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Django"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Flask Web Development with python (Bangla)",
+      "url": "https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK",
+      "authors": [
+        "Naimul Hawk"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Flask"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Python Flask Web Development Full Course in One Video(বাংলা)",
+      "url": "https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR",
+      "authors": [
+        "CodeWithRafiq"
+      ],
+      "notes": [],
+      "category": "Python",
+      "section_path": [
+        "Python",
+        "Flask"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Scratch Programming",
+      "url": "https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH",
+      "authors": [
+        "bdOSN"
+      ],
+      "notes": [],
+      "category": "Scratch",
+      "section_path": [
+        "Scratch"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Scratch Programming for Kids Bangla",
+      "url": "https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz",
+      "authors": [
+        "Opportunities For Kids"
+      ],
+      "notes": [],
+      "category": "Scratch",
+      "section_path": [
+        "Scratch"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Scratch Programming in Bangla",
+      "url": "https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3",
+      "authors": [
+        "Tamim Shahriar"
+      ],
+      "notes": [],
+      "category": "Scratch",
+      "section_path": [
+        "Scratch"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Linux Shell Scripting Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p",
+      "authors": [
+        "Atiq Hasan Zubu"
+      ],
+      "notes": [],
+      "category": "Shell scripting",
+      "section_path": [
+        "Shell scripting"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Shell Scripting Tutorial in Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLuDISCShhAlxIduQrBqee-dlCAQTygm4l",
+      "authors": [
+        "Mohammad Shakirul Islam"
+      ],
+      "notes": [],
+      "category": "Shell scripting",
+      "section_path": [
+        "Shell scripting"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "বাংলায় মাইক্রোসার্ভিস \\| Microservices in Bangla - What are the building blocks of a good Microservices System",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Career in Backend Workshop",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Practical Microservices Workshop",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Pro Postman Workshop",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "REST API Design Workshop",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "System Design & Application Architecture Workshop",
+      "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz",
+      "authors": [
+        "Stack Learner"
+      ],
+      "notes": [],
+      "category": "Software Architecture",
+      "section_path": [
+        "Software Architecture"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "Swift Programming Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K",
+      "authors": [
+        "FHT Bangla"
+      ],
+      "notes": [],
+      "category": "Swift",
+      "section_path": [
+        "Swift"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "TypeScript Advance Course",
+      "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8aesJ9a6lREDE4lcIA0iHMR",
+      "authors": [
+        "Foyzul Karim"
+      ],
+      "notes": [],
+      "category": "TypeScript",
+      "section_path": [
+        "TypeScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3",
+      "authors": [
+        "Learn with Sumit"
+      ],
+      "notes": [],
+      "category": "TypeScript",
+      "section_path": [
+        "TypeScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "typescript full course in bangla",
+      "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq",
+      "authors": [
+        "Anisul Islam"
+      ],
+      "notes": [],
+      "category": "TypeScript",
+      "section_path": [
+        "TypeScript"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "WordPress Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E",
+      "authors": [
+        "Moshiur"
+      ],
+      "notes": [],
+      "category": "WordPress",
+      "section_path": [
+        "WordPress"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "WordPress Customization Bangla Tutorial",
+      "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4",
+      "authors": [
+        "Learn Hunter"
+      ],
+      "notes": [],
+      "category": "WordPress",
+      "section_path": [
+        "WordPress"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "WordPress Plugin Development",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "WordPress",
+      "section_path": [
+        "WordPress"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "WordPress Theme Development Tutorial Bangla",
+      "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l",
+      "authors": [
+        "Procoder BD"
+      ],
+      "notes": [],
+      "category": "WordPress",
+      "section_path": [
+        "WordPress"
+      ],
+      "language": "Bangla"
+    },
+    {
+      "title": "WP Theme Development with ChatGPT",
+      "url": "https://www.youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL",
+      "authors": [
+        "Md Maruf Adnan Sami"
+      ],
+      "notes": [],
+      "category": "WordPress",
+      "section_path": [
+        "WordPress"
+      ],
+      "language": "Bangla"
+    }
+  ]
+}
