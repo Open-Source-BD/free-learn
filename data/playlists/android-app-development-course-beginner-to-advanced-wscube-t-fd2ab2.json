@@ -1,0 +1,705 @@
+{
+  "courseId": "android-app-development-course-beginner-to-advanced-wscube-t-fd2ab2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:56.223Z",
+  "title": "Android 📱App Development Course (Beginner to Advanced) | WsCube Tech 2.0",
+  "channel": "WsCube Tech",
+  "videos": [
+    {
+      "id": "HyU4vkZ2NB8",
+      "title": "What is Android & How it Work? | How to Become an Android Developer! | Android Tutorial",
+      "duration": 1074
+    },
+    {
+      "id": "mbmka5RYuXg",
+      "title": "History of Android: How did Google Acquire Android? | Amazing Android Facts",
+      "duration": 1076
+    },
+    {
+      "id": "y1R_3bly7MQ",
+      "title": "Android Versions A to Z: Evolution of All Android Versions from 1.0 to 12",
+      "duration": 1695
+    },
+    {
+      "id": "YW6kyOUpWQo",
+      "title": "What is IDE for Android? | Android Studio for Beginners | App Development",
+      "duration": 495
+    },
+    {
+      "id": "PmiSj2QGZVM",
+      "title": "How to Install and Set up Android Studio on Windows (Latest Version) - Installation Guide",
+      "duration": 1531
+    },
+    {
+      "id": "-NpB2E0cXcY",
+      "title": "How to Install & Setup Android Studio on MAC OS (All Versions)",
+      "duration": 610
+    },
+    {
+      "id": "xMCAkUsdDT8",
+      "title": "How to Install Android Studio on Ubuntu (Linux Latest Version) | Complete Setup",
+      "duration": 736
+    },
+    {
+      "id": "CqwbpwEK9OU",
+      "title": "What is Front End and Back End in Android App | Coding Languages used for Android App Development",
+      "duration": 907
+    },
+    {
+      "id": "hvlhxEtH5IY",
+      "title": "What is ADB & AVD in Android? | Android Debug Bridge & Android Virtual Device | Complete Tutorial",
+      "duration": 505
+    },
+    {
+      "id": "dKJbRxKBats",
+      "title": "APK Kya Hota Hai? | Android Application Extension & Package",
+      "duration": 205
+    },
+    {
+      "id": "poDgvBrEZGo",
+      "title": "Android Project: Creating First Application In Android Studio",
+      "duration": 2725
+    },
+    {
+      "id": "-nZ0NAGIdaI",
+      "title": "What is Android Studio? Complete Overview of Android Studio [सम्पूर्ण जानकारी]",
+      "duration": 3039
+    },
+    {
+      "id": "ORMrUK9TRec",
+      "title": "Create Android Virtual Device (AVD) Emulator for Android Studio | Android Developers Tutorial",
+      "duration": 1538
+    },
+    {
+      "id": "IE7fAJD4GhY",
+      "title": "RUN YOUR APP: Run Android App on Virtual Device (AVD) | Complete Tutorial",
+      "duration": 375
+    },
+    {
+      "id": "L6xPOSoKgvM",
+      "title": "ADB: Run & Test Your App on Android Smartphone (Android Debug Bridge) | Android Developer",
+      "duration": 665
+    },
+    {
+      "id": "DgiABhh9JYw",
+      "title": "Debugging Kya Hai? | Different Ways of Debugging Android Apps | संपूर्ण जानकारी",
+      "duration": 799
+    },
+    {
+      "id": "UtaY0JgO1pE",
+      "title": "XML Kya Hai? How to use XML & Why to use XML | Android XML Tutorial",
+      "duration": 879
+    },
+    {
+      "id": "PeCOKgAua7A",
+      "title": "Layouts in Android Studio (XML) | Android UI Design Explained",
+      "duration": 3881
+    },
+    {
+      "id": "0TtJwa5vL6Y",
+      "title": "Views in Android: Text, Button, Image & Edit Text Views in Android | Android UI Designing",
+      "duration": 2218
+    },
+    {
+      "id": "MYjEsHQth5s",
+      "title": "Drag & Drop का Use करके Android App Design कैसे करें? | Android UI Design Tutorial",
+      "duration": 2088
+    },
+    {
+      "id": "6oHH8de8RSY",
+      "title": "JAVA Kya Hai? | Why does Android use Java? | Android Java Tutorial",
+      "duration": 877
+    },
+    {
+      "id": "fXaytserkTQ",
+      "title": "Android JAVA: How to Run JAVA Program in Command Prompt (CMD) - Windows 10",
+      "duration": 565
+    },
+    {
+      "id": "LCOxwjh1Go8",
+      "title": "Java Hello World: Write & Run Your First Java Program in Notepad | Android Tutorial",
+      "duration": 642
+    },
+    {
+      "id": "8dpo_nCBR0Q",
+      "title": "Packages and Classes in JAVA & How to Use Them? | Android Java Tutorial",
+      "duration": 584
+    },
+    {
+      "id": "XfNjYV-h6hw",
+      "title": "Datatype Kya Hai? | Data Types in Java Full Explanation | Android Java Tutorial",
+      "duration": 380
+    },
+    {
+      "id": "BnrxijwJJ_8",
+      "title": "Variables Kya Hai? Types of Variables in Java | Variable Tutorial for beginners",
+      "duration": 507
+    },
+    {
+      "id": "POmGgYhtNn8",
+      "title": "Methods Kya Hai? Types of Methods in Java | Method Tutorial for Beginners",
+      "duration": 980
+    },
+    {
+      "id": "mMLroKvgaeA",
+      "title": "Encapsulation Kya Hai? | Encapsulation in JAVA with Example | Android Java Tutorial",
+      "duration": 421
+    },
+    {
+      "id": "c_vy_UqO9pA",
+      "title": "What is Keywords and Identifiers in JAVA? | Difference Between Keywords & Identifiers",
+      "duration": 499
+    },
+    {
+      "id": "ec-dTWBKN1E",
+      "title": "Method Overloading in Java with Examples | Android Java Tutorial",
+      "duration": 479
+    },
+    {
+      "id": "RNg4pjN3Fc0",
+      "title": "Inheritance Kya Hai? | Types of Inheritance | Java Inheritance Explained | Android Java Tutorial",
+      "duration": 1077
+    },
+    {
+      "id": "NiqDfdVhhPM",
+      "title": "Method Overriding in Java [Methods, Uses, Examples with Output] | Android Java Tutorial",
+      "duration": 823
+    },
+    {
+      "id": "kVd9cLfRACg",
+      "title": "Objects and Calling in Java with Example | Android Java Tutorial",
+      "duration": 525
+    },
+    {
+      "id": "a5_0-a6NQ50",
+      "title": "What are Constructors in Java | Types & Uses of Constructors with Example | Android Java Tutorial",
+      "duration": 382
+    },
+    {
+      "id": "ZEGbgi9k2Fg",
+      "title": "Interface and Implements Explained | Android Java Tutorial",
+      "duration": 254
+    },
+    {
+      "id": "vQPC-3IH7uQ",
+      "title": "This, Static & Final Keywords | Important Keywords in Java | Android Java Tutorial",
+      "duration": 1017
+    },
+    {
+      "id": "DhvaTtN7j-8",
+      "title": "Conditional Statements In Java | Simple IF-ELSE, IF-ELSE IF-ELSE in JAVA | Android Java Tutorial",
+      "duration": 505
+    },
+    {
+      "id": "p5vjHet3Mqw",
+      "title": "IF, IF Else & IF-Else IF-Else Statement in Java | Android Java Tutorial",
+      "duration": 609
+    },
+    {
+      "id": "sWWC2TpXrY0",
+      "title": "Loops Kya Hai? | Types of Loops in Java | Android Java Tutorial",
+      "duration": 448
+    },
+    {
+      "id": "33FjFO1AzYk",
+      "title": "For and For Each Loop in Java with Example | Android Java Tutorial",
+      "duration": 542
+    },
+    {
+      "id": "nNAhZvL3bV4",
+      "title": "While and Do While Loop in Java with Example | Android Java Tutorial",
+      "duration": 384
+    },
+    {
+      "id": "ygUb950FQA4",
+      "title": "String Operations Kya Hai? | Java Strings Tutorial for Beginners | Android Java Tutorial",
+      "duration": 791
+    },
+    {
+      "id": "DJ9niKqYtUc",
+      "title": "Android Architecture Kya Hai: Application Layers, Framework & Component | Android Tutorial",
+      "duration": 800
+    },
+    {
+      "id": "W2Xn42Id2V4",
+      "title": "Main Components of Android App (Activities, Content Provider, Services and Broadcast Receivers)",
+      "duration": 637
+    },
+    {
+      "id": "kp-oGImpO_c",
+      "title": "Android Activity Lifecycle Explained with Example | All Activity Lifecycle",
+      "duration": 612
+    },
+    {
+      "id": "WjOUheWLpTs",
+      "title": "How to Create a BMI Calculator Android App? | Making First Android App",
+      "duration": 2754
+    },
+    {
+      "id": "eVUKEItFt8c",
+      "title": "Making Tic Tac Toe Gaming App in Android Studio | Gaming App Kaise Banaye?",
+      "duration": 3364
+    },
+    {
+      "id": "VeFPqmkXAGE",
+      "title": "Android Intent Passing Kya Hai? Passing Intent from One Activity to Another in Android",
+      "duration": 1276
+    },
+    {
+      "id": "hn4gD6dys50",
+      "title": "Android Bundle Passing Tutorial: Passing Data Between Activities using Intent in Android",
+      "duration": 1095
+    },
+    {
+      "id": "I2bEcv_3iMU",
+      "title": "Making Splash Screen in Android Studio (Step-by-Step) | Splash Screen Tutorial",
+      "duration": 1168
+    },
+    {
+      "id": "Brp4Ad-2uqA",
+      "title": "Android Animation: Add Animation in Your Android App - Complete Tutorial",
+      "duration": 2943
+    },
+    {
+      "id": "ccpm3X74LcY",
+      "title": "Lottie Animation in Android Application | Lottie Animation Tutorial",
+      "duration": 1300
+    },
+    {
+      "id": "n08uI7gViLE",
+      "title": "Type of Listview | Listview in Android Studio | App Development Tutorial",
+      "duration": 2272
+    },
+    {
+      "id": "DeyFygSs9Qc",
+      "title": "Android Style and Theme: What is this and How to Implement? | Android App Development Tutorial",
+      "duration": 907
+    },
+    {
+      "id": "HOebDG1XQMA",
+      "title": "Making App Screen Compatible in Android Studio | Support Multiple Screen Sizes",
+      "duration": 632
+    },
+    {
+      "id": "uu6o0Qvp2gg",
+      "title": "Create Custom CardView in Android Studio | Android CardView Tutorial",
+      "duration": 1037
+    },
+    {
+      "id": "FEqF1_jDV-A",
+      "title": "Recycler View in Android Studio Explained with Example | Android Recycler View Tutorial",
+      "duration": 3799
+    },
+    {
+      "id": "zK3jXRNdp2M",
+      "title": "Android Recycler View: How to Insert, Update and Delete Item? | Android Tutorial",
+      "duration": 2182
+    },
+    {
+      "id": "w8inTdDZDfw",
+      "title": "How to Animate RecyclerView Items in Android? - Android Studio Tutorial",
+      "duration": 943
+    },
+    {
+      "id": "o35gogTi8lY",
+      "title": "How to Design Custom Toolbar of App in Android Studio? - Android Toolbar Tutorial",
+      "duration": 2932
+    },
+    {
+      "id": "LipvIFwWRaI",
+      "title": "How to Create Custom Button in Android Studio? | Android Drawable Tutorial",
+      "duration": 3090
+    },
+    {
+      "id": "HMxANAdlAtU",
+      "title": "How to Create Toast in Android Studio? | Android Toast Message Tutorial",
+      "duration": 801
+    },
+    {
+      "id": "nXwP5ic1vtQ",
+      "title": "How to Create Custom Toast in Android Studio? | Android Toast  Tutorial",
+      "duration": 1868
+    },
+    {
+      "id": "-cCG3BAFzUU",
+      "title": "Write and View Logs with Logcat in Android Studio | Android App Tutorial",
+      "duration": 1090
+    },
+    {
+      "id": "ism9JAmNBYY",
+      "title": "How to Create AlertDialog in Android | Android Alert Dialog Tutorial",
+      "duration": 2238
+    },
+    {
+      "id": "UKlGLvKDia8",
+      "title": "Create Custom Dialog in Android Studio | Android Dialog Tutorial",
+      "duration": 1169
+    },
+    {
+      "id": "Pen_en0zhIY",
+      "title": "How to Implement Notifications in Android? | Android Notifications Tutorial",
+      "duration": 1946
+    },
+    {
+      "id": "LNrAh0-D4HA",
+      "title": "Create Custom Notifications in Android | Android Notifications Tutorial",
+      "duration": 1615
+    },
+    {
+      "id": "r-JNSsrIBds",
+      "title": "Implicit Intent Passing in Android Studio | Android Intent Passing Explained with Practical",
+      "duration": 2292
+    },
+    {
+      "id": "7jcXW0Xwd4Y",
+      "title": "Fragments using Frame Layout in Android Studio | Android App Development Tutorial",
+      "duration": 3536
+    },
+    {
+      "id": "MvlFAgAxC8s",
+      "title": "Tab Layout in Android Studio with Example | Android App Development Tutorial",
+      "duration": 2040
+    },
+    {
+      "id": "KJhYqe04bGo",
+      "title": "BottomNavigationView in Android Studio | Android Studio Tutorial for Beginners",
+      "duration": 2264
+    },
+    {
+      "id": "D5Ha9S5SVsw",
+      "title": "Android Navigation Drawer Tutorial | How to Create Navigation Drawer in Android Studio",
+      "duration": 2748
+    },
+    {
+      "id": "_3dnTaq9KdE",
+      "title": "Data Passing in Fragment in Android Studio | Android Studio Tutorial",
+      "duration": 888
+    },
+    {
+      "id": "pBUyd6QlSDU",
+      "title": "Managing Fragment Backstack in Android | Android Studio Tutorial",
+      "duration": 608
+    },
+    {
+      "id": "BO1utHYhsms",
+      "title": "Android Google Map Tutorial: How to Implement Google Map in Android Studio",
+      "duration": 2610
+    },
+    {
+      "id": "xg6r4AnPZzY",
+      "title": "How to Add Overlay in Google Maps? | Android Google Map Tutorial",
+      "duration": 751
+    },
+    {
+      "id": "InTLAZ99Y40",
+      "title": "How to use Geocoder Class in Android App? | Android Studio Tutorial",
+      "duration": 1296
+    },
+    {
+      "id": "q2kYT-Sd-XQ",
+      "title": "Android Dynamic APP:  What is Dynamic App? Difference Between Static VS Dynamic App",
+      "duration": 992
+    },
+    {
+      "id": "9-9sdoaGyUM",
+      "title": "Receiving API response (JSON) in App | Android Studio Tutorial for Beginners",
+      "duration": 495
+    },
+    {
+      "id": "ENcJWl9o4ag",
+      "title": "What is JSON Response? JSON Array, JSON Object, Key-Value - DATA | Android JSON Tutorial",
+      "duration": 890
+    },
+    {
+      "id": "fB3oQFW--qg",
+      "title": "Parsing JSON Response - Parse JSON Data from Web URL in Android - Complete Tutorial",
+      "duration": 1659
+    },
+    {
+      "id": "pHKuSMZc2kk",
+      "title": "Parsing POST API Response - Parse JSON Data from Web URL in Android - Complete Tutorial",
+      "duration": 1861
+    },
+    {
+      "id": "JlmIf8mo-O8",
+      "title": "WebView Android Studio: What is WebView in Android? | Android WebView Tutorial",
+      "duration": 1303
+    },
+    {
+      "id": "4-dpxp0yrvo",
+      "title": "Android SharedPreferences: Saving Data to Android Device | SharedPreferences Tutorial",
+      "duration": 2038
+    },
+    {
+      "id": "Ip0LaPUcxiU",
+      "title": "What is Database & Types of Database | Android SQLite Database Tutorial - Fully Explained",
+      "duration": 238
+    },
+    {
+      "id": "HQo4Nr2d3DA",
+      "title": "SQLite Kya Hai? | SQLite Database for Android | Android SQLite - Fully Explained",
+      "duration": 554
+    },
+    {
+      "id": "7NJavvSLYx8",
+      "title": "SQLite Open Helper: How to Create Database in Android? | Android SQLite Tutorial",
+      "duration": 1364
+    },
+    {
+      "id": "SoqujjHpO8Q",
+      "title": "Android Open and Close Database | Android SQLite Database Example Tutorial",
+      "duration": 283
+    },
+    {
+      "id": "rK4walNCMzI",
+      "title": "Inserting Data in Database (Insert) in Android | Android Database Tutorial",
+      "duration": 631
+    },
+    {
+      "id": "ZDWg9qFwIIY",
+      "title": "Fetch the Data From SQLite Database in Android? | Android SQLite Tutorial",
+      "duration": 937
+    },
+    {
+      "id": "lqoVrGWFrJI",
+      "title": "Android SQLite Database: Updating, and Deleting Data in Database (SQLite) - Android Tutorial",
+      "duration": 1456
+    },
+    {
+      "id": "cZRBPGyLw9E",
+      "title": "Room Database in Android | How to Store & Fetch Data using Room Presence Library in Android",
+      "duration": 1973
+    },
+    {
+      "id": "cwKyXZjuvRY",
+      "title": "Taking Pictures in Android | Using Camera App to Capture and Show Image | Android Tutorial",
+      "duration": 164
+    },
+    {
+      "id": "kIgpSokJgzY",
+      "title": "Upload Image using Camera - Get Image from Camera | Android Studio Tutorial",
+      "duration": 1162
+    },
+    {
+      "id": "bLi1qr6h4T4",
+      "title": "Android Studio Tutorial: Upload Image using Gallery - Get Image from Gallery",
+      "duration": 706
+    },
+    {
+      "id": "YDraUaHz55o",
+      "title": "Android Music Player: Create Music Player App in Android Studio? - Complete Tutorial",
+      "duration": 1819
+    },
+    {
+      "id": "ewdSmjMbsP0",
+      "title": "Android Video Player: Create Video Player in Android Studio? - Complete Tutorial",
+      "duration": 1202
+    },
+    {
+      "id": "H0dxrwRT1aE",
+      "title": "What are Sensors and How Sensor Works in Android - Android Sensor Programming",
+      "duration": 1055
+    },
+    {
+      "id": "gVszXHio7hU",
+      "title": "Accelerometer Sensor and Its Application Tutorial in Android Studio",
+      "duration": 801
+    },
+    {
+      "id": "SvOKrWf7cmc",
+      "title": "Proximity  Sensor and Its Application Tutorial in Android Studio",
+      "duration": 535
+    },
+    {
+      "id": "R-8k2GYK1G4",
+      "title": "Ambient Light Sensor Working, Applications and Uses | Android Tutorial",
+      "duration": 983
+    },
+    {
+      "id": "hMMeFhEenM8",
+      "title": "How to Run a Task in Background of Android App | Android Tutorial in Hindi",
+      "duration": 1057
+    },
+    {
+      "id": "oRmgM9xQLDE",
+      "title": "Services in Android with Example | Android App Development Tutorial",
+      "duration": 815
+    },
+    {
+      "id": "diaPAI0n-tw",
+      "title": "AlarmManager - Alarm Manager in Android Studio | Android Studio Tutorial",
+      "duration": 1656
+    },
+    {
+      "id": "kG8rt_wvqKo",
+      "title": "How do you Send and Receive Text Messages on Android Studio - Android Studio Tutorial",
+      "duration": 1407
+    },
+    {
+      "id": "GFRKvB08FBg",
+      "title": "Kotlin for Android - What is Kotlin - Complete Introduction | Kotlin Android Tutorial",
+      "duration": 839
+    },
+    {
+      "id": "oalCpTO1oA4",
+      "title": "Android Kotlin - How to Setup Kotlin in Android Studio | Android Tutorial",
+      "duration": 459
+    },
+    {
+      "id": "yJUf6scL3WE",
+      "title": "What are Kotlin Classes in Android Studio | Android tutorials for Beginners",
+      "duration": 247
+    },
+    {
+      "id": "oR1lc8jLGpY",
+      "title": "Kotlin Hello World! - Hello World In Android Using Kotlin Language | Android Tutorial",
+      "duration": 219
+    },
+    {
+      "id": "A9yr9mFz8oE",
+      "title": "Kotlin Android - Variables and Basic Types in Kotlin | Android Studio Tutorial",
+      "duration": 280
+    },
+    {
+      "id": "GHK9WuhqFFE",
+      "title": "Kotlin Data Types:  var Vs val - Kotlin | Kotlin Android Tutorial",
+      "duration": 319
+    },
+    {
+      "id": "LwYvxuBku44",
+      "title": "Android Kotlin: Methods in Kotlin - Android Tutorial",
+      "duration": 441
+    },
+    {
+      "id": "mOhBUWJ9HSM",
+      "title": "Kotlin Conditions - What are the Conditional Statements in Kotlin | Kotlin Android Tutorial",
+      "duration": 470
+    },
+    {
+      "id": "CFsiJt0ka-8",
+      "title": "Kotlin List - How to Create Lists in Kotlin | Kotlin Android Tutorial",
+      "duration": 1240
+    },
+    {
+      "id": "WW2lUpQgW88",
+      "title": "Kotlin Python Loops - What is For and For Each Loop in Kotlin | Kotlin Android Tutorial",
+      "duration": 437
+    },
+    {
+      "id": "Q9JIjs40ujI",
+      "title": "What is Kotlin While and Do-While Loops - Kotlin Android Tutorial",
+      "duration": 280
+    },
+    {
+      "id": "-dMSKqp9YT4",
+      "title": "What is Pair and Triple in Kotlin Programming - Kotlin Android Tutorial",
+      "duration": 503
+    },
+    {
+      "id": "kiHu0-Z6xHI",
+      "title": "Basic Syntax of Kotlin (Android) | Android Kotlin Tutorial",
+      "duration": 701
+    },
+    {
+      "id": "gWmZ2UxFg7s",
+      "title": "Android intent passing kya hai? what is intent passing | Android  KotlinTutorial",
+      "duration": 332
+    },
+    {
+      "id": "T3K5FMQ6OEM",
+      "title": "What is Android Recycler View in Kotlin Studio - Android Kotlin Tutorial",
+      "duration": 670
+    },
+    {
+      "id": "GanrZ3xxPps",
+      "title": "Maps in Kotlin - Explain Working with Maps in Kotlin | Kotlin Android Tutorial",
+      "duration": 300
+    },
+    {
+      "id": "vx4BtrqlKCY",
+      "title": "What is Firebase in Android? - Fully Explained | Android Tutorial",
+      "duration": 948
+    },
+    {
+      "id": "4B85lFGTL-U",
+      "title": "Creating a Firebase Project on the Firebase Console - Android Firebase Tutorial",
+      "duration": 1058
+    },
+    {
+      "id": "crJaLpCiNfI",
+      "title": "What is Firebase Push Notification (Cloud Messaging) in Kotlin | Android Tutorials",
+      "duration": 1429
+    },
+    {
+      "id": "Nmof6xhlDlE",
+      "title": "Learn about Firebase FireStore Realtime Database | Android Firebase Tutorial",
+      "duration": 1130
+    },
+    {
+      "id": "ap7lZBqD9uI",
+      "title": "Admob Kya Hai | What are Mobile Ads? | How to add AdMob to your Android App | Android Tutorials",
+      "duration": 810
+    },
+    {
+      "id": "g9rVra5wG7s",
+      "title": "Banner Ads Kya Hai - How to Create & Implement Banner Ads in Android Studio | Android Tutorial",
+      "duration": 750
+    },
+    {
+      "id": "0UR0LYYgXqc",
+      "title": "Play Store Kya Hai - What is Play Store | Android Tutorial",
+      "duration": 432
+    },
+    {
+      "id": "6AujjRltNWM",
+      "title": "How To Implement Admob Interstitial Ads Android Studio | Android Tutorial",
+      "duration": 785
+    },
+    {
+      "id": "92sKMUmv_wo",
+      "title": "How to Create Signed APK file using Android Studio | Kotlin Android Tutorial",
+      "duration": 718
+    },
+    {
+      "id": "Ormjb-BX1sw",
+      "title": "How to Publish App to Google Play Store - Complete Guide | Android Tutorial",
+      "duration": 1878
+    },
+    {
+      "id": "J_aF7uJDJ9o",
+      "title": "How to Build a Calculator App in Android Studio | Kotlin Android Tutorials",
+      "duration": 1035
+    },
+    {
+      "id": "-5LGc3S0S1A",
+      "title": "How to Request a Run Time Permission for Risky Permission - Android Kotlin Tutorial",
+      "duration": 1356
+    },
+    {
+      "id": "l93dUjCBWeg",
+      "title": "First Kotlin App - How to Create BMI Calculator | Kotlin Android Tutorial",
+      "duration": 1782
+    },
+    {
+      "id": "nN5_L-CvxIs",
+      "title": "Tic Tac Toe Kotlin Game - Build a Tic Tac Toe Game | Android Tutorial",
+      "duration": 1000
+    },
+    {
+      "id": "O-6WX-NLf9U",
+      "title": "How to Build a Notes App (using Room Library) in Android Studio | Kotlin Tutorial",
+      "duration": 2086
+    },
+    {
+      "id": "-VZ-DZyOfv0",
+      "title": "Top 20+ Amazing Keyboard Shortcuts for Android Studio - You Must Know ⚡ बन जाइये प्रो",
+      "duration": 2961
+    },
+    {
+      "id": "q-toXXOIduM",
+      "title": "Live Templates in Android Studio: Fully Explained #fastcoding",
+      "duration": 1754
+    }
+  ]
+}

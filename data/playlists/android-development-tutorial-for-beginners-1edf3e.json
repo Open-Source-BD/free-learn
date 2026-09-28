@@ -1,0 +1,105 @@
+{
+  "courseId": "android-development-tutorial-for-beginners-1edf3e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:01.636Z",
+  "title": "Android Development Tutorial for Beginners",
+  "channel": "Anuj Kumar Sharma",
+  "videos": [
+    {
+      "id": "u0kmgolU09g",
+      "title": "Android Development Tutorial for Absolute Beginners | Hindi 🔥 | 5 Projects in Android | Announcement",
+      "duration": 693
+    },
+    {
+      "id": "YV4i_ksoe-Q",
+      "title": "#1. Android studio installation guide | Birthday Wishing App | Android development Tutorial 2021",
+      "duration": 760
+    },
+    {
+      "id": "H7FL9UgoGEI",
+      "title": "#2. Add XML Layouts in Android Studio | Creating new Emulator | Android Development Tutorial 2021",
+      "duration": 1034
+    },
+    {
+      "id": "9VPBtnUXvvU",
+      "title": "#3. Creating new Activities | Button clicks | Show Toast Message | Android Development Tutorial 2021",
+      "duration": 595
+    },
+    {
+      "id": "GAGsnRg8rc0",
+      "title": "#4. How to move to New Activity on Button click | Intents | Android Development Tutorial 2021",
+      "duration": 1127
+    },
+    {
+      "id": "W3lgZuaIuqU",
+      "title": "#5. Android Studio Volley API tutorial | Memes Share App | Android Studio Development 2021",
+      "duration": 707
+    },
+    {
+      "id": "3ZTjH9lEylI",
+      "title": "#6. How to make API calls in Android Studio | Volley library | Android Development Tutorial 2021",
+      "duration": 941
+    },
+    {
+      "id": "at8z7I4A6SY",
+      "title": "#7. Glide library in Android Studio | Memes share App Done! | Android Development Tutorial 2021",
+      "duration": 1252
+    },
+    {
+      "id": "ttIfesjYDQQ",
+      "title": "#8. RecyclerView in Android Studio Tutorial | News App | Android Development Tutorial 2021",
+      "duration": 1571
+    },
+    {
+      "id": "GVtCt1O2Q1o",
+      "title": "#9. Load data from API and show in RecyclerView | News App Done | Android Development Tutorial 2021",
+      "duration": 1804
+    },
+    {
+      "id": "XZSFoquBC74",
+      "title": "#10. ViewModel, LiveData, Room & Android Architecture Component | Android Development Tutorial 2021",
+      "duration": 439
+    },
+    {
+      "id": "dx7TWA9Oot4",
+      "title": "#11. Room Database in Android | Notes App | Create Entity and DAO Android Development Tutorial 2021",
+      "duration": 842
+    },
+    {
+      "id": "2yD0FfvhglQ",
+      "title": "#12. Insert, Find & Delete Queries in Android Room Database | Android Development Tutorial 2021",
+      "duration": 777
+    },
+    {
+      "id": "Gig0hdBVJMY",
+      "title": "#13. What is ViewModel | MVVM in Android | LiveData and Observers Android Development Tutorial 2021",
+      "duration": 638
+    },
+    {
+      "id": "tu7ZiRozZNs",
+      "title": "#14. Load LiveData from ViewModel into RecyclerView | Android Development Tutorial 2021",
+      "duration": 1819
+    },
+    {
+      "id": "peobCNlQZY8",
+      "title": "#15. Firebase Authorisation and Login | Register App on Firebase | Android Development Tutorial 2021",
+      "duration": 1581
+    },
+    {
+      "id": "_-BpSd0awAM",
+      "title": "#16. Firebase FireStore using Coroutines | Social Media App | Android Development Tutorial 2021",
+      "duration": 669
+    },
+    {
+      "id": "uuq5eLrbl7k",
+      "title": "#17. Firebase FireStore realtime database | Social Media App | Android Development Tutorial 2021",
+      "duration": 1043
+    },
+    {
+      "id": "hOebaflo7Pk",
+      "title": "#18. Retrieve data from Firebase and load into RecyclerView | Android Development Tutorial 2021",
+      "duration": 1662
+    }
+  ]
+}

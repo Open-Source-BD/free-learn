@@ -1,0 +1,180 @@
+{
+  "courseId": "android-development-tutorials-in-hindi-fd55db",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:04.271Z",
+  "title": "Android Development Tutorials in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "InigFUSiPl8",
+      "title": "Installing Android Studio & Setup | Android Tutorials in Hindi #1",
+      "duration": 1743
+    },
+    {
+      "id": "PoBePPh5Iko",
+      "title": "Creating Our First Android App (with APK) | Android Tutorials in Hindi #2",
+      "duration": 1950
+    },
+    {
+      "id": "HHaghq5wXic",
+      "title": "Linear Layout & Relative Layout In Android | Android Tutorials in Hindi #3",
+      "duration": 1935
+    },
+    {
+      "id": "jUmqYE2iWiI",
+      "title": "Android activity & Activity Lifecycle | Android Tutorials in Hindi #4",
+      "duration": 964
+    },
+    {
+      "id": "WVjqX1BoQeM",
+      "title": "Project 1: Tic Tac Toe Game Android Game Development | Android Tutorials in Hindi #5",
+      "duration": 4909
+    },
+    {
+      "id": "n_S2myhVPww",
+      "title": "Creating Photo Frame Application In Android: Exercise 1 | Android Tutorials in Hindi #6",
+      "duration": 472
+    },
+    {
+      "id": "5NZ3SKx-q4I",
+      "title": "Creating a Multi Screen Android  Application | Android Tutorials in Hindi #7",
+      "duration": 2356
+    },
+    {
+      "id": "pfypXyKtCH8",
+      "title": "Creating a Navigation Drawer App with Hamburger Icon In Android | Android Tutorials in Hindi #8",
+      "duration": 2421
+    },
+    {
+      "id": "d-iwHP7vMd8",
+      "title": "Embedding Video with media controls in Android | Android Tutorials in Hindi #9",
+      "duration": 1398
+    },
+    {
+      "id": "x4Etu6M2-Dk",
+      "title": "MediaPlayer & Handling Audio in Android | Android Tutorials in Hindi #10",
+      "duration": 1047
+    },
+    {
+      "id": "P9zDJV6KpOw",
+      "title": "Android SeekBar & its Methods | Android Tutorials in Hindi #11",
+      "duration": 1958
+    },
+    {
+      "id": "EROGNbMEw3Y",
+      "title": "Dynamic Photo Frame Application In Android Exercise 1: Solution | Android Tutorials in Hindi #12",
+      "duration": 2639
+    },
+    {
+      "id": "geWi5v7_Zsc",
+      "title": "Android ListViews & Array Adapters | Android Tutorials in Hindi #13",
+      "duration": 899
+    },
+    {
+      "id": "hAS1Pvmn1VM",
+      "title": "Multiplication Tables Application Project In Android | Android Tutorials in Hindi #14",
+      "duration": 250
+    },
+    {
+      "id": "u2fmW0FTnt8",
+      "title": "CountDownTimer, Runnable & Handler in Android | Android Tutorials in Hindi #15",
+      "duration": 1018
+    },
+    {
+      "id": "ATS8j5MEJ74",
+      "title": "Performing Tasks in Background in Android | Android Tutorials in Hindi #16",
+      "duration": 1514
+    },
+    {
+      "id": "xiEmCw8n-iU",
+      "title": "What is an API & how to use API in Android | Android Tutorials in Hindi #17",
+      "duration": 691
+    },
+    {
+      "id": "AVxqyMwT0qU",
+      "title": "Adding Volley Library dependency & Fake JSON API | Android Tutorials in Hindi #18",
+      "duration": 485
+    },
+    {
+      "id": "iZzGtTYFNqY",
+      "title": "Retrieve & Parse JSON Data from Web URL in Android | Android Tutorials in Hindi #19",
+      "duration": 989
+    },
+    {
+      "id": "h22g-k8Akpk",
+      "title": "Multiplication Tables App on Seekbar Change: Exercise 2: Solution | Android Tutorials in Hindi #20",
+      "duration": 1236
+    },
+    {
+      "id": "1urX_WEIOTw",
+      "title": "Android Exercise 3: Creating a User Display App | Android Tutorials in Hindi #21",
+      "duration": 209
+    },
+    {
+      "id": "cbW6TZRSMOw",
+      "title": "Parsing Nested JSON Arrays & Objects | Android Tutorials in Hindi #22",
+      "duration": 1007
+    },
+    {
+      "id": "pO70tQ2kgoo",
+      "title": "Shared Preferences: Saving data to Android device | Android Tutorials in Hindi #23",
+      "duration": 1323
+    },
+    {
+      "id": "kAO5AMoQRu0",
+      "title": "Using a Database in Android | Android Tutorials in Hindi #24",
+      "duration": 705
+    },
+    {
+      "id": "hhSmhAo0hAM",
+      "title": "SQLite Android CRUD: Implementing Database class | Android Tutorials in Hindi #25",
+      "duration": 1606
+    },
+    {
+      "id": "Mlybjj_daLU",
+      "title": "SQLite Android CRUD: Adding Contacts to the Database | Android Tutorials in Hindi #26",
+      "duration": 1015
+    },
+    {
+      "id": "2eBD4-_mNe0",
+      "title": "SQLite Android CRUD: Fetching all Contacts | Android Tutorials in Hindi #27",
+      "duration": 838
+    },
+    {
+      "id": "RAaXwpgn90I",
+      "title": "SQLite Android CRUD: Updating Records | Android Tutorials in Hindi #28",
+      "duration": 1085
+    },
+    {
+      "id": "3mTrjj-6su0",
+      "title": "SQLite Android CRUD: Deleting Records | Android Tutorials in Hindi #29",
+      "duration": 560
+    },
+    {
+      "id": "143Q7WbTCoM",
+      "title": "SQLite Android CRUD: Getting Count | Android Tutorials in Hindi #30",
+      "duration": 399
+    },
+    {
+      "id": "qBdI_W0tt6Q",
+      "title": "SQLite Android CRUD: Adding ListView | Android Tutorials in Hindi #31",
+      "duration": 498
+    },
+    {
+      "id": "PSIQ-L8_Cxk",
+      "title": "RecyclerView in Android | Android Tutorials in Hindi #32",
+      "duration": 1148
+    },
+    {
+      "id": "hNWZaOd-Ghw",
+      "title": "Creating a RecyclerViewAdaper Class | Android Tutorials in Hindi #33",
+      "duration": 1856
+    },
+    {
+      "id": "2gz8D9Tfe8E",
+      "title": "Adding OnClick Listener to RecyclerView | Android Tutorials in Hindi #34",
+      "duration": 1420
+    }
+  ]
+}
