@@ -1,0 +1,220 @@
+{
+  "courseId": "python-3-programming-tutorials-for-beginners-839c33",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:38.058Z",
+  "title": "Python 3 Programming Tutorials for Beginners",
+  "channel": "codebasics",
+  "videos": [
+    {
+      "id": "eykoKxsYtow",
+      "title": "Why Should You Learn Python? | Complete python3 tutorials for beginners",
+      "duration": 316
+    },
+    {
+      "id": "6lBPM-MiGNI",
+      "title": "1. Install python on windows [Python 3 Programming Tutorials]",
+      "duration": 233
+    },
+    {
+      "id": "8tCe1P_cgoY",
+      "title": "2. Variables in python [Python 3 Programming Tutorials]",
+      "duration": 223
+    },
+    {
+      "id": "pd2_ZbhFT38",
+      "title": "3. Numbers [Python 3 Programming Tutorials]",
+      "duration": 525
+    },
+    {
+      "id": "ez2N-hcwvcQ",
+      "title": "4. Strings [Python 3 Programming Tutorials]",
+      "duration": 432
+    },
+    {
+      "id": "t0UTQ1eOH_g",
+      "title": "5. Lists [Python 3 Programming Tutorials]",
+      "duration": 624
+    },
+    {
+      "id": "Vig1IeU2RYk",
+      "title": "6. Install PyCharm on Windows [Python 3 Programming Tutorials]",
+      "duration": 393
+    },
+    {
+      "id": "0cQj7q8EWxY",
+      "title": "7. Debug Python code using PyCharm [Python 3 Programming Tutorials]",
+      "duration": 579
+    },
+    {
+      "id": "hNddJ3_hahk",
+      "title": "8. If Statement [Python 3 Programming Tutorials]",
+      "duration": 799
+    },
+    {
+      "id": "3ykIpmAxdoY",
+      "title": "9. For loop [Python 3 Programming Tutorials]",
+      "duration": 1241
+    },
+    {
+      "id": "fz_BCnhEQYQ",
+      "title": "10. Functions [Python 3 Programming Tutorials]",
+      "duration": 970
+    },
+    {
+      "id": "RCM-lVAfXFg",
+      "title": "11. Dictionaries and Tuples [Python 3 Programming Tutorials]",
+      "duration": 526
+    },
+    {
+      "id": "7snh_1Hf_TI",
+      "title": "12.1 - Install Python Module (using pip) [Python 3 Programming Tutorials]",
+      "duration": 187
+    },
+    {
+      "id": "DdGVBZv46PI",
+      "title": "12. Modules [Python 3 Programming Tutorials]",
+      "duration": 663
+    },
+    {
+      "id": "FNExLliAnZw",
+      "title": "13. Working With JSON [Python 3 Programming Tutorials]",
+      "duration": 522
+    },
+    {
+      "id": "YgI94IRXySk",
+      "title": "Python Tutorial - 13. Reading/Writing Files",
+      "duration": 922
+    },
+    {
+      "id": "2AKJzc-cSj8",
+      "title": "14. if __name__ == \"__main__\" [Python 3 Programming Tutorials]",
+      "duration": 265
+    },
+    {
+      "id": "kqVQDXfc9hU",
+      "title": "15. Exception Handling [Python 3 Programming Tutorials]",
+      "duration": 550
+    },
+    {
+      "id": "6XWeeEg6d3s",
+      "title": "16. Class and Objects [Python 3 Programming Tutorials]",
+      "duration": 590
+    },
+    {
+      "id": "Z7D9yv21tig",
+      "title": "17. Inheritance [Python 3 Programming Tutorials]",
+      "duration": 707
+    },
+    {
+      "id": "ttMX3Ns_0oY",
+      "title": "18. Multiple Inheritance [Python 3 Programming Tutorials]",
+      "duration": 240
+    },
+    {
+      "id": "WIqX3kDxDKE",
+      "title": "19. Raise Exception And Finally [Python 3 Programming Tutorials]",
+      "duration": 538
+    },
+    {
+      "id": "ffFRuB03qLE",
+      "title": "20. Iterators [Python 3 Programming Tutorials]",
+      "duration": 688
+    },
+    {
+      "id": "66HNCg7_gfE",
+      "title": "21. Generators [Python 3 Programming Tutorials]",
+      "duration": 559
+    },
+    {
+      "id": "fz2PKpPdlRo",
+      "title": "22. List Set Dict Comprehensions [Python 3 Programming Tutorials]",
+      "duration": 360
+    },
+    {
+      "id": "RD6JionMlXM",
+      "title": "23. Sets and Frozen Sets [Python 3 Programming Tutorials]",
+      "duration": 471
+    },
+    {
+      "id": "OxpBMNalsDM",
+      "title": "24. Command line argument processing using argparse [Python 3 Programming Tutorials]",
+      "duration": 885
+    },
+    {
+      "id": "IVWZxr0kOyI",
+      "title": "25. Decorators [Python 3 Programming Tutorials]",
+      "duration": 547
+    },
+    {
+      "id": "PJ4t2U15ACo",
+      "title": "Python Tutorial - 26. Multithreading - Introduction",
+      "duration": 697
+    },
+    {
+      "id": "Lu5LrKh1Zno",
+      "title": "Python Tutorial - 27. Multiprocessing Introduction",
+      "duration": 497
+    },
+    {
+      "id": "uWbSc84he2Q",
+      "title": "Python Tutorial - 28. Sharing Data Between Processes Using Array and Value",
+      "duration": 425
+    },
+    {
+      "id": "sp7EhjLkFY4",
+      "title": "Python Tutorial - 29. Sharing Data Between Processes Using Multiprocessing Queue",
+      "duration": 373
+    },
+    {
+      "id": "POL7n754JTc",
+      "title": "Python Tutorial - 30. Multiprocessing Lock",
+      "duration": 429
+    },
+    {
+      "id": "_1ZwkCY9wxk",
+      "title": "Python Tutorial - 31. Multiprocessing Pool (Map Reduce)",
+      "duration": 658
+    },
+    {
+      "id": "l32bsaIDoWk",
+      "title": "Python unit testing - pytest introduction",
+      "duration": 604
+    },
+    {
+      "id": "nv9zw454bEk",
+      "title": "Python unit testing - skip/selectively run tests in pytest",
+      "duration": 673
+    },
+    {
+      "id": "IVrGz8w0H8c",
+      "title": "Python unit testing - pytest fixtures",
+      "duration": 796
+    },
+    {
+      "id": "2EGgtlf7BN0",
+      "title": "Python unit testing - pytest parameters",
+      "duration": 301
+    },
+    {
+      "id": "rN0TREj8G7U",
+      "title": "numpy tutorial - introduction | numpy array vs python list",
+      "duration": 635
+    },
+    {
+      "id": "a8aDcLk4vRc",
+      "title": "numpy tutorial - basic array operations",
+      "duration": 828
+    },
+    {
+      "id": "_d_Ka-ks2a0",
+      "title": "numpy tutorial - slicing/stacking arrays, indexing with boolean arrays",
+      "duration": 729
+    },
+    {
+      "id": "XawR6CjAYV4",
+      "title": "numpy tutorial: iterate numpy array using nditer | numpy nditer",
+      "duration": 512
+    }
+  ]
+}

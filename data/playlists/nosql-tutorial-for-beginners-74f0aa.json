@@ -1,0 +1,60 @@
+{
+  "courseId": "nosql-tutorial-for-beginners-74f0aa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7r0bn6dzVA8bQNxcx7DRl5F",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:22.472Z",
+  "title": "NoSQL Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "qEhNHOEa5sE",
+      "title": "What is No SQL?",
+      "duration": 874
+    },
+    {
+      "id": "F1TklaUfKcM",
+      "title": "Getting Started with NoSQL",
+      "duration": 526
+    },
+    {
+      "id": "HTuSgkDlbSA",
+      "title": "Cassandra Query Language Part 1 | NoSQL Tutorial #2",
+      "duration": 743
+    },
+    {
+      "id": "Y-vY49lDeKY",
+      "title": "Cassandra Query Language  | UPSERT | NoSQL Tutorial #3",
+      "duration": 311
+    },
+    {
+      "id": "oWLYIrY_xqw",
+      "title": "Cassandra CQL Data Types | NoSQL Tutorial #4",
+      "duration": 1443
+    },
+    {
+      "id": "VsQ4OuH-K1I",
+      "title": "Cassandra Basics | NoSQL Tutorial #5",
+      "duration": 945
+    },
+    {
+      "id": "TblnhsAVtgc",
+      "title": "Document Type in Cassandra | Stargate API",
+      "duration": 632
+    },
+    {
+      "id": "bBn5FRT2hPI",
+      "title": "Document Type in Cassandra | Stargate API #2",
+      "duration": 369
+    },
+    {
+      "id": "2YgcTvVKijA",
+      "title": "DataStax Astra Intellij Plugin Setup",
+      "duration": 320
+    },
+    {
+      "id": "nBEUVnDeI9c",
+      "title": "Spring Boot app with DataStax AstraDB Demo",
+      "duration": 1003
+    }
+  ]
+}

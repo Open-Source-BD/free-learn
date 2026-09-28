@@ -1,0 +1,55 @@
+{
+  "courseId": "the-basics-autoit-tutorial-3de6a2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmB-aWjqd3PrkiIK-kiD_T08_g48n1Jdn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:04.199Z",
+  "title": "The Basics AutoIt Tutorial",
+  "channel": "MrAutoIt",
+  "videos": [
+    {
+      "id": "c4dQR3rgTmg",
+      "title": "AutoIt Tutorial 1: AutoIt Download",
+      "duration": 393
+    },
+    {
+      "id": "Kz_uVE1SPac",
+      "title": "AutoIt Tutorial 2: AutoIt Script Editor Download",
+      "duration": 319
+    },
+    {
+      "id": "5r1U7TuuozI",
+      "title": "AutoIt Tutorial 3: Hello World Part 1",
+      "duration": 502
+    },
+    {
+      "id": "e-s181sdpzs",
+      "title": "AutoIt Tutorial 4: Hello World Part 2",
+      "duration": 348
+    },
+    {
+      "id": "U5WeW1vswI0",
+      "title": "AutoIt Tutorial 5: Hello World Part 3",
+      "duration": 395
+    },
+    {
+      "id": "i3TMQdFMAxY",
+      "title": "AutoIt Tutorial 6: Notepad Automation Part 1",
+      "duration": 729
+    },
+    {
+      "id": "r1CgsvdhUng",
+      "title": "AutoIt Tutorial 7: Notepad Automation Part 2",
+      "duration": 798
+    },
+    {
+      "id": "Y6DOgURZubg",
+      "title": "AutoIt Tutorial 8: Notepad Automation Part 3",
+      "duration": 804
+    },
+    {
+      "id": "CEv2Rq0UdIQ",
+      "title": "AutoIt Tutorial 9: String Variables",
+      "duration": 560
+    }
+  ]
+}

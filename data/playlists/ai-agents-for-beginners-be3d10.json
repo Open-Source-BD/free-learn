@@ -1,0 +1,85 @@
+{
+  "courseId": "ai-agents-for-beginners-be3d10",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:33.341Z",
+  "title": "AI Agents for Beginners",
+  "channel": "by Microsoft Developer",
+  "videos": [
+    {
+      "id": "OhI005_aJkA",
+      "title": "Full Course (Lessons 1-10) AI Agents for Beginners",
+      "duration": 3868
+    },
+    {
+      "id": "3zgm60bXmQk",
+      "title": "What are AI agents?",
+      "duration": 357
+    },
+    {
+      "id": "ODwF-EZo_O8",
+      "title": "Which AI agent framework to use",
+      "duration": 501
+    },
+    {
+      "id": "m9lM8qqoOEA",
+      "title": "How to design good AI agents",
+      "duration": 324
+    },
+    {
+      "id": "WcjAARvdL7I",
+      "title": "What Is agentic RAG?",
+      "duration": 438
+    },
+    {
+      "id": "vieRiPRx-gI",
+      "title": "What Is the Agent Tool Use Design Pattern?",
+      "duration": 375
+    },
+    {
+      "id": "l4TP6IyJxmQ",
+      "title": "How to deploy AI agents into production",
+      "duration": 355
+    },
+    {
+      "id": "F5zqRV7gEag",
+      "title": "Context engineering for AI agents",
+      "duration": 1008
+    },
+    {
+      "id": "X-Dh9R3Opn8",
+      "title": "Using Agentic Protocols (MCP, A2A, and NLWeb)",
+      "duration": 909
+    },
+    {
+      "id": "iZKkMEGBCUQ",
+      "title": "How to build effective AI agents",
+      "duration": 355
+    },
+    {
+      "id": "V6HpE9hZEx0",
+      "title": "How to use a multi-AI agent system",
+      "duration": 424
+    },
+    {
+      "id": "kPfJ2BrBCMY",
+      "title": "What Is the AI Agent Planning Design Pattern?",
+      "duration": 329
+    },
+    {
+      "id": "QrYbHesIxpw",
+      "title": "AI Agent Memory: Building Self-Improving Agents",
+      "duration": 801
+    },
+    {
+      "id": "His9R6gw6Ec",
+      "title": "How can AI agents improve?",
+      "duration": 433
+    },
+    {
+      "id": "zr_DuUzFEd4",
+      "title": "Building Computer Use Agents (CUA)",
+      "duration": 1000
+    }
+  ]
+}

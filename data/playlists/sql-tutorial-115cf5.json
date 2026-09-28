@@ -1,0 +1,290 @@
+{
+  "courseId": "sql-tutorial-115cf5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:31.005Z",
+  "title": "SQL Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "-thOn1NKJew",
+      "title": "SQL Tutorial - 1: Introduction",
+      "duration": 410
+    },
+    {
+      "id": "RHYLOdscpZI",
+      "title": "SQL Tutorial - 2: Installing MySQL",
+      "duration": 766
+    },
+    {
+      "id": "3EeYuDvM3zg",
+      "title": "SQL Tutorial - 3: MySQL Workbench  and Command Line Client",
+      "duration": 352
+    },
+    {
+      "id": "7Yp2NtcjahM",
+      "title": "SQL Tutorial - 4: Things You Need To Know About Tables",
+      "duration": 412
+    },
+    {
+      "id": "MiuMZkoRtAw",
+      "title": "SQL Tutorial - 5: Create, Use and Drop Databases",
+      "duration": 306
+    },
+    {
+      "id": "6E1tZg6qAvI",
+      "title": "SQL Tutorial - 6: Data-Types in SQL (Part-1)",
+      "duration": 316
+    },
+    {
+      "id": "7fOdo8PhPaw",
+      "title": "SQL Tutorial - 7: Data-Types in SQL (Part-2)",
+      "duration": 408
+    },
+    {
+      "id": "bIFB-rz315U",
+      "title": "SQL Tutorial - 8: Constraints in SQL",
+      "duration": 258
+    },
+    {
+      "id": "oReH2vO8Izc",
+      "title": "SQL Tutorial - 9: Create Table Statement",
+      "duration": 468
+    },
+    {
+      "id": "FezaylNrGwg",
+      "title": "SQL Tutorial - 10: Creating Tables from Other Tables",
+      "duration": 351
+    },
+    {
+      "id": "cywvyHDdxl0",
+      "title": "SQL Tutorial - 11: Removing Tables from Database",
+      "duration": 189
+    },
+    {
+      "id": "Tet3Z7Yb2gg",
+      "title": "SQL Tutorial - 12: Inserting Data Into Tables",
+      "duration": 610
+    },
+    {
+      "id": "LHw1RD3TVuE",
+      "title": "SQL Tutorial - 13: Inserting Data Into a Table From Another Table",
+      "duration": 420
+    },
+    {
+      "id": "JA_92A65pTg",
+      "title": "SQL Tutorial - 14: The SELECT Query",
+      "duration": 202
+    },
+    {
+      "id": "9BLaJjNi4e8",
+      "title": "SQL Tutorial - 15: Arithmetic Operators",
+      "duration": 314
+    },
+    {
+      "id": "1VrXJ5K_t38",
+      "title": "SQL Tutorial- 16: Comparison Operators",
+      "duration": 653
+    },
+    {
+      "id": "JRmpM9UNY-w",
+      "title": "SQL Tutorial - 17: Logical Operators (Part-1)",
+      "duration": 642
+    },
+    {
+      "id": "BJyyvte3zMI",
+      "title": "SQL Tutorial - 18: Logical Operators (Part-2)",
+      "duration": 431
+    },
+    {
+      "id": "JeZCabShIFk",
+      "title": "SQL Tutorial - 19: The WHERE Clause",
+      "duration": 249
+    },
+    {
+      "id": "GqBb8xjI53A",
+      "title": "SQL Tutorial - 20: AND & OR Operators",
+      "duration": 234
+    },
+    {
+      "id": "lyqeLvtlQiA",
+      "title": "SQL Tutorial - 21: The UPDATE Query",
+      "duration": 372
+    },
+    {
+      "id": "iHfDrczm0cU",
+      "title": "SQL Tutorial - 22: The DELETE Query",
+      "duration": 247
+    },
+    {
+      "id": "ZABT_3t4Iew",
+      "title": "SQL Tutorial - 23: The LIKE Operator and Wildcard Characters",
+      "duration": 456
+    },
+    {
+      "id": "QP8zLvQDzZk",
+      "title": "SQL Tutorial - 24: The TOP and LIMIT Clauses",
+      "duration": 218
+    },
+    {
+      "id": "6YGvqrwQ9d4",
+      "title": "SQL Tutorial - 25: The ORDER BY Clause",
+      "duration": 285
+    },
+    {
+      "id": "3QXn_O9RQiI",
+      "title": "SQL Tutorial - 26: The GROUP BY Clause",
+      "duration": 498
+    },
+    {
+      "id": "C29WO7CUKAQ",
+      "title": "SQL Tutorial - 27: The DISTINCT Keyword",
+      "duration": 151
+    },
+    {
+      "id": "Lvh3Bd2yVFc",
+      "title": "SQL Tutorial - 28: Aliasing Through AS Clause",
+      "duration": 151
+    },
+    {
+      "id": "LlCURXIdKo8",
+      "title": "SQL Tutorial - 29: SQL JOINS",
+      "duration": 474
+    },
+    {
+      "id": "0Dybbaf-MF8",
+      "title": "SQL Tutorial - 30: Using GROUP BY Clause with SQL JOINS",
+      "duration": 317
+    },
+    {
+      "id": "W7P8tnZkCVc",
+      "title": "SQL Tutorial - 31: Left Outer JOIN",
+      "duration": 221
+    },
+    {
+      "id": "pBO_VCbFc0E",
+      "title": "SQL Tutorial - 32: Right Outer JOIN",
+      "duration": 196
+    },
+    {
+      "id": "-N1OV80y670",
+      "title": "SQL Tutorial - 33: ABS() Function",
+      "duration": 279
+    },
+    {
+      "id": "2WX4KUmFB_8",
+      "title": "SQL Tutorial - 34: ROUND() Function",
+      "duration": 411
+    },
+    {
+      "id": "tdbozpaXnC8",
+      "title": "SQL Tutorial - 35: DIV() & MOD() Functions",
+      "duration": 245
+    },
+    {
+      "id": "aFvRg1OqJYg",
+      "title": "SQL Tutorial - 36: Useful Numeric Functions Part-1",
+      "duration": 314
+    },
+    {
+      "id": "PbCl5z245KI",
+      "title": "SQL Tutorial - 37: Useful Numeric Functions Part-2",
+      "duration": 269
+    },
+    {
+      "id": "OUWGB7D2d1M",
+      "title": "SQL Tutorial - 38: The CONCAT() Function",
+      "duration": 249
+    },
+    {
+      "id": "gsRDo1yKSlA",
+      "title": "SQL Tutorial - 39: UPPER() and LOWER() Functions",
+      "duration": 172
+    },
+    {
+      "id": "FKCkP4I4yoo",
+      "title": "SQL Tutorial - 40: The TRIM() Function",
+      "duration": 152
+    },
+    {
+      "id": "H34bpIZuL7I",
+      "title": "SQL Tutorial - 41: SUBSTR(), RIGHT() & LEFT() Functions",
+      "duration": 274
+    },
+    {
+      "id": "37HuY-aSPZo",
+      "title": "SQL Tutorial - 42: The LENGTH() & INSERT() Functions",
+      "duration": 279
+    },
+    {
+      "id": "H6tovV3gbg8",
+      "title": "SQL Tutorial - 43: REPEAT() & REPLACE() Functions",
+      "duration": 145
+    },
+    {
+      "id": "N4WNVjFdCKE",
+      "title": "SQL Tutorial - 44: REVERSE() & STRCMP() Functions",
+      "duration": 203
+    },
+    {
+      "id": "xAot53nUQpo",
+      "title": "SQL Tutorial - 45: Date & Time Functions (Part-1)",
+      "duration": 315
+    },
+    {
+      "id": "5fDAjrd24b8",
+      "title": "SQL Tutorial - 46: Date & Time Functions (Part-2)",
+      "duration": 336
+    },
+    {
+      "id": "8Cz6C3vQOCY",
+      "title": "SQL Tutorial - 47: Date & Time Functions (Part-3)",
+      "duration": 412
+    },
+    {
+      "id": "kqmKFaji_4g",
+      "title": "SQL Tutorial - 48: Views in SQL (Part-1)",
+      "duration": 335
+    },
+    {
+      "id": "kzDPPsLrRlY",
+      "title": "SQL Tutorial - 49: Views in SQL (Part-2)",
+      "duration": 400
+    },
+    {
+      "id": "3IE3M7EYZY8",
+      "title": "SQL Tutorial - 50: Views in SQL (Part-3)",
+      "duration": 202
+    },
+    {
+      "id": "gIK1EIblsvI",
+      "title": "SQL Tutorial - 51: Aggregate Functions (Part-1)",
+      "duration": 288
+    },
+    {
+      "id": "xWhoawWZ-Mw",
+      "title": "SQL Tutorial - 52: Aggregate Functions (Part-2)",
+      "duration": 129
+    },
+    {
+      "id": "WKCI4Q7gWZk",
+      "title": "SQL Tutorial - 53: The TRUNCATE TABLE Command",
+      "duration": 177
+    },
+    {
+      "id": "Nse7Kgm6K3I",
+      "title": "SQL Tutorial - 54: Subqueries in SQL",
+      "duration": 316
+    },
+    {
+      "id": "vDr2DZeU5mY",
+      "title": "SQL Tutorial - 55: The ALTER TABLE Command",
+      "duration": 330
+    },
+    {
+      "id": "tXh9TLnQ35Y",
+      "title": "SQL Tutorial - 56: Conclusion",
+      "duration": 103
+    }
+  ]
+}

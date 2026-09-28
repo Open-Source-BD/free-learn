@@ -1,0 +1,390 @@
+{
+  "courseId": "data-science-interview-questions-02f107",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:47.792Z",
+  "title": "Data Science interview questions",
+  "channel": "Krish Naik",
+  "videos": [
+    {
+      "id": "KlJe9h438_w",
+      "title": "How to Prepare For Deep Learning Interviews- Important Interview Questions in ANN-Part 1🔥🔥🔥🔥",
+      "duration": 1288
+    },
+    {
+      "id": "mlumJPFvooQ",
+      "title": "Interview Prep Day 1-How To Learn Machine Learning Algorithms For Interviews- Naive Bayes Classifier",
+      "duration": 735
+    },
+    {
+      "id": "eh-muwX6qbQ",
+      "title": "Interview Prep Day 2- Linear Regression Interview Question-The Most Important Algorithm In ML & DS🔥🔥",
+      "duration": 996
+    },
+    {
+      "id": "eYRBWM9Mvuc",
+      "title": "Interview Prep Day3-How To Prepare Support Vector Machines Important Questions In Interviews🔥🔥",
+      "duration": 825
+    },
+    {
+      "id": "xoP4h09grBM",
+      "title": "Interview Prep Day 4-How To Learn Machine Learning Algorithms For Interviews- Decision Trees🔥🔥",
+      "duration": 912
+    },
+    {
+      "id": "y5H0B-cCuRw",
+      "title": "Final Year Student To Deep Learning Engineer Internship- Transition Story- Must For Freshers",
+      "duration": 1417
+    },
+    {
+      "id": "CVUpXeplavY",
+      "title": "Focus On Story Telling-How To Ace Data Science Interviews?",
+      "duration": 1615
+    },
+    {
+      "id": "tcaruVHXZwE",
+      "title": "Data Science Interview Questions- Multicollinearity In Linear And Logistic Regression",
+      "duration": 329
+    },
+    {
+      "id": "D5RJDoNHs_A",
+      "title": "The Role of Maths in Data Science and How to Learn?",
+      "duration": 582
+    },
+    {
+      "id": "ieMjGVYw9ag",
+      "title": "Cosine Similarity and Cosine Distance",
+      "duration": 711
+    },
+    {
+      "id": "017B07EHe2M",
+      "title": "Data Engineer vs Data Analyst vs Data Scientist",
+      "duration": 320
+    },
+    {
+      "id": "Gvwuyx_F-28",
+      "title": "How to Read Dataset in Google Colab from Google Drive",
+      "duration": 586
+    },
+    {
+      "id": "HTN6rccMu1k",
+      "title": "Diabetes Prediction using Machine Learning from Kaggle",
+      "duration": 813
+    },
+    {
+      "id": "Bc2dWI3vnE0",
+      "title": "How to choose number of hidden layers and nodes in Neural Network",
+      "duration": 869
+    },
+    {
+      "id": "goMoUHl8q6c",
+      "title": "Why, How and When to Scale Features in Machine Learning?",
+      "duration": 609
+    },
+    {
+      "id": "uXl3_8yVBxI",
+      "title": "DNA Sequencing Classifier using  Machine Learning",
+      "duration": 1038
+    },
+    {
+      "id": "OJedgzdipC0",
+      "title": "Tutorial 46-Handling imbalanced Dataset using python- Part 2",
+      "duration": 659
+    },
+    {
+      "id": "YMPMZmlH5Bo",
+      "title": "Tutorial 45-Handling imbalanced Dataset  using python- Part 1",
+      "duration": 781
+    },
+    {
+      "id": "dD7gvbfBiyA",
+      "title": "Voting Classifier(Hard Voting and Soft Voting Classifier)",
+      "duration": 405
+    },
+    {
+      "id": "iajaNLLCOF4",
+      "title": "Random Forest(Bootstrap Aggregation) Easily Explained",
+      "duration": 558
+    },
+    {
+      "id": "75OJvlhFUMY",
+      "title": "Predicting Heart Disease using Machine Learning",
+      "duration": 709
+    },
+    {
+      "id": "fJOhLKvWOJI",
+      "title": "How to Visualize Multiple Linear Regression in python",
+      "duration": 505
+    },
+    {
+      "id": "CSEmUmkfb8Q",
+      "title": "Deployment of Deep Learning Model using Flask",
+      "duration": 453
+    },
+    {
+      "id": "UbCWoMf80PY",
+      "title": "Deploy Machine Learning Model using Flask",
+      "duration": 800
+    },
+    {
+      "id": "P_iMSYQnqac",
+      "title": "Handling Missing Data Easily Explained| Machine Learning",
+      "duration": 1402
+    },
+    {
+      "id": "VGuxr5W5Nqg",
+      "title": "Cross Validation using sklearn and python | Machine Learning",
+      "duration": 588
+    },
+    {
+      "id": "EqLBAmtKMnQ",
+      "title": "Feature Selection Techniques Easily Explained | Machine Learning",
+      "duration": 1381
+    },
+    {
+      "id": "_4DaqzLyT08",
+      "title": "Curse of Dimensionality Easily explained| Machine Learning",
+      "duration": 457
+    },
+    {
+      "id": "C3r7tGRe2eI",
+      "title": "DBSCAN Clustering Easily Explained with Implementation",
+      "duration": 1112
+    },
+    {
+      "id": "-Bjko05HKWM",
+      "title": "Handle Categorical features using Python",
+      "duration": 1117
+    },
+    {
+      "id": "OM1dtIt0VNo",
+      "title": "Linear Regression Mathematical Intuition",
+      "duration": 1457
+    },
+    {
+      "id": "o_Ro0l-bTBo",
+      "title": "How to switch your career to Data Science.",
+      "duration": 1319
+    },
+    {
+      "id": "EP5cs7urLYI",
+      "title": "Deep Learning in Medical Science",
+      "duration": 1010
+    },
+    {
+      "id": "820Qr4BH0YM",
+      "title": "Complete Life Cycle of a Data Science Project",
+      "duration": 944
+    },
+    {
+      "id": "0jPGHniVVNc",
+      "title": "Hierarchical Clustering intuition",
+      "duration": 372
+    },
+    {
+      "id": "c_6cJSTuUBY",
+      "title": "RandomizedSearchCV- Select the best hyperparameter for any Classification Model",
+      "duration": 776
+    },
+    {
+      "id": "CgmvAMiVKFE",
+      "title": "GridSearchCV- Select the best hyperparameter for any Classification Model",
+      "duration": 1096
+    },
+    {
+      "id": "sJR-1yz7mnI",
+      "title": "Precision, Recall and F1-Score",
+      "duration": 543
+    },
+    {
+      "id": "-dsoGHvk7II",
+      "title": "TPR,FPR,FNR,TNR, Confusion Matrix",
+      "duration": 1512
+    },
+    {
+      "id": "OIjV_V8CpYs",
+      "title": "Tutorial 44-Balanced vs Imbalanced Dataset and how to handle Imbalanced Dataset",
+      "duration": 1193
+    },
+    {
+      "id": "e83XI1ha288",
+      "title": "Confusion matrix, Precision, Recall| Data Science Interview questions",
+      "duration": 1486
+    },
+    {
+      "id": "mlxwAPTjiCA",
+      "title": "Covariance in Statistics",
+      "duration": 719
+    },
+    {
+      "id": "sPzPEeJ4OQ4",
+      "title": "Log Normal Distribution in Statistics",
+      "duration": 949
+    },
+    {
+      "id": "Vv_eMSknucY",
+      "title": "Gaussian distribution or Normal Distribution in statisctics",
+      "duration": 711
+    },
+    {
+      "id": "GGZfVeZs_v4",
+      "title": "Population vs Sample in Statistics",
+      "duration": 775
+    },
+    {
+      "id": "Bcw8S449QW4",
+      "title": "How to select the best model using cross validation in python",
+      "duration": 932
+    },
+    {
+      "id": "TxO-GoBcQlw",
+      "title": "Computer Vision using Microsoft Cognitive Services for Images",
+      "duration": 818
+    },
+    {
+      "id": "QdBy02ExhGI",
+      "title": "Principle Component Analysis (PCA) using sklearn and python",
+      "duration": 750
+    },
+    {
+      "id": "9FYyp5bUoEI",
+      "title": "Creating a Dataset and training an Artificial Neural Network with Keras",
+      "duration": 1657
+    },
+    {
+      "id": "O-bCDtHVPtA",
+      "title": "Artificial Neural Network Intuition",
+      "duration": 559
+    },
+    {
+      "id": "YABWwCLPfZs",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "8gJ3p1h-QbM",
+      "title": "Interview Prep Day 6-How To Learn Machine Learning Algorithms For Interviews-Random Forest Algo🔥🔥🔥🔥",
+      "duration": 777
+    },
+    {
+      "id": "MDKkbIymmLk",
+      "title": "Interview Prep Day 5-How To Learn Machine Learning Algorithms For Interviews- Logistic Regression🔥🔥🔥",
+      "duration": 752
+    },
+    {
+      "id": "9ZtpsRibgY8",
+      "title": "Important Interview Questions On Convolution Neural Network- Deep Learning",
+      "duration": 1009
+    },
+    {
+      "id": "BIbzt8qcMA4",
+      "title": "Performance Metrics Interview Questions- Data Science",
+      "duration": 274
+    },
+    {
+      "id": "IfWjlVAuKGM",
+      "title": "Live Virtual Interview of Uday From Mechanical Engineer To Data Science By Krish And Sudhanshu",
+      "duration": 3631
+    },
+    {
+      "id": "edQA8nvTLbg",
+      "title": "Live- Conversation With Amit Bose-Transition From Commerce Background To Data Analyst",
+      "duration": 2116
+    },
+    {
+      "id": "nWn5qkS4mBc",
+      "title": "Live Virtual Mock Interview For Data Science By Krish And Sudhanshu",
+      "duration": 3581
+    },
+    {
+      "id": "WsOV6mQGd_U",
+      "title": "Live- Virtual Interview For Data Scientist By Krish And Sudhanshu",
+      "duration": 4025
+    },
+    {
+      "id": "7t38yxyEOro",
+      "title": "Live- How To Create Deep Learning Model Using Tensorflow JS",
+      "duration": 3468
+    },
+    {
+      "id": "4XnOSEf2e3k",
+      "title": "Live- Virtual Interview Session For Data Science- Session 8",
+      "duration": 3999
+    },
+    {
+      "id": "fUH4H-lVMQU",
+      "title": "Live Virtual Interview Of Experienced For Data Scientist",
+      "duration": 3316
+    },
+    {
+      "id": "8hhMUwfYMag",
+      "title": "Live- Conversation With Data Structure And Algorithms Mentor For Free Community Session",
+      "duration": 3471
+    },
+    {
+      "id": "CiVExfC900c",
+      "title": "Live-How To Prepare Resume For Data Scientist As A Fresher",
+      "duration": 4219
+    },
+    {
+      "id": "6t41KDpHpx0",
+      "title": "Live -Virtual Interview Of Fresher For Data Science - Session 6",
+      "duration": 3301
+    },
+    {
+      "id": "KIA9_9RPETg",
+      "title": "Live Virtual Interview For Data Science Fresher By Krish And Sudhanshu",
+      "duration": 3844
+    },
+    {
+      "id": "SLOyyFHbiqo",
+      "title": "How To Perform Post Pruning In Decision Tree? Prevent Overfitting- Data Science",
+      "duration": 984
+    },
+    {
+      "id": "uGehFWj2Ouw",
+      "title": "Live Q&A Tips For Interview Preparation Of Data Science",
+      "duration": 3657
+    },
+    {
+      "id": "FWETqH9MhRg",
+      "title": "Data Science Is Just Not About Model Building",
+      "duration": 479
+    },
+    {
+      "id": "9iidtytk5gs",
+      "title": "Live Virtual Mock Interview Of Statistician IIT Kanpur For Data Science",
+      "duration": 4261
+    },
+    {
+      "id": "gG0Cwx4bG_0",
+      "title": "Live Virtual Mock Interview- Successful Transition From Diploma Engineer To Data Science Intern",
+      "duration": 2781
+    },
+    {
+      "id": "KE_hfIFn0HA",
+      "title": "Follow These Playlist Before Interviews- Guide to Crack Data Science Interviews",
+      "duration": 467
+    },
+    {
+      "id": "UPObq_Lx28w",
+      "title": "Interview Question -Risks In Data Science Projects",
+      "duration": 584
+    },
+    {
+      "id": "tiE1eEB3GdM",
+      "title": "Stats Interview Series #1- Asked In Interview",
+      "duration": 121
+    },
+    {
+      "id": "jeVDVMRELxQ",
+      "title": "Stats Interview Series #2-Asked In Interview",
+      "duration": 139
+    },
+    {
+      "id": "MicmZlGfGJg",
+      "title": "Z Score And Its Applications- Important Stats Interview Question",
+      "duration": 744
+    }
+  ]
+}

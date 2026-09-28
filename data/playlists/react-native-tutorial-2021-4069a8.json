@@ -1,0 +1,210 @@
+{
+  "courseId": "react-native-tutorial-2021-4069a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:23.637Z",
+  "title": "React Native Tutorial",
+  "channel": "Mash School",
+  "videos": [
+    {
+      "id": "ANdSdIlgsEw",
+      "title": "The Complete React Native Course: from Zero to Hero",
+      "duration": 24321
+    },
+    {
+      "id": "LWs6dY92_MU",
+      "title": "React Native Tutorial #1 - Introduction - What is React Native & How it works",
+      "duration": 430
+    },
+    {
+      "id": "p1Csi_0rh5I",
+      "title": "React Native Tutorial #2 - Creating first app with Expo",
+      "duration": 593
+    },
+    {
+      "id": "LiHkAGyNSJU",
+      "title": "React Native Tutorial #3 - Creating Native App with React Native CLI & Ejecting Expo Project",
+      "duration": 700
+    },
+    {
+      "id": "btxP4dY6Pgc",
+      "title": "React Native Tutorial #4 - Configure Visual Studio Code for React Native Development",
+      "duration": 582
+    },
+    {
+      "id": "1lg_IXtjles",
+      "title": "React Native Tutorial #5 - Structure & Basic Components in Our First App",
+      "duration": 984
+    },
+    {
+      "id": "9ACpqQR3lQg",
+      "title": "React Native Tutorial #6 - Using the State Hook",
+      "duration": 437
+    },
+    {
+      "id": "FgMuqQkGw9Q",
+      "title": "React Native Tutorial #7 - Styles & Style Sheet",
+      "duration": 543
+    },
+    {
+      "id": "_t21GTZ4pf8",
+      "title": "React Native Tutorial #8 - Responsive UI with Flexbox",
+      "duration": 490
+    },
+    {
+      "id": "Hy3HudbaU68",
+      "title": "React Native Tutorial #9 - List, ScrollView & RefreshControl",
+      "duration": 488
+    },
+    {
+      "id": "Otp4cCts7oo",
+      "title": "React Native Tutorial #10 - FlatList & SectionList with Nested Array",
+      "duration": 514
+    },
+    {
+      "id": "VUYCjQ7KUk0",
+      "title": "React Native Tutorial - Quiz#1 - Challenge Yourself",
+      "duration": 327
+    },
+    {
+      "id": "wZkGaDw1Ydg",
+      "title": "React Native Tutorial #11 - Text Input & Keyboard",
+      "duration": 468
+    },
+    {
+      "id": "_eaJlRYjFdo",
+      "title": "React Native Tutorial #12 - Button, Touchables & Pressable",
+      "duration": 713
+    },
+    {
+      "id": "XsPesUur5R4",
+      "title": "React Native Tutorial #13 - Alert & Toast Message",
+      "duration": 390
+    },
+    {
+      "id": "dw7xnbxhBUk",
+      "title": "React Native Tutorial #14 - Modal & How to Create Custom Alert with it",
+      "duration": 522
+    },
+    {
+      "id": "Gb-GTDPFAZE",
+      "title": "React Native Tutorial #15 - Image & ImageBackground",
+      "duration": 377
+    },
+    {
+      "id": "6euMQsGt7Qs",
+      "title": "React Native Tutorial #16 - Custom Components & Props",
+      "duration": 571
+    },
+    {
+      "id": "2ouN6xeF6Hk",
+      "title": "React Native Tutorial #17 - React Navigation - Stack Navigator",
+      "duration": 590
+    },
+    {
+      "id": "_031dsQNy88",
+      "title": "React Native Tutorial #18 - React Navigation - Tab Navigator - Material Tab at Bottom &Top",
+      "duration": 793
+    },
+    {
+      "id": "M4WNSjTWFDo",
+      "title": "React Native Tutorial #19 - React Navigation - Drawer Navigation - Side Menu",
+      "duration": 575
+    },
+    {
+      "id": "D4dDN4nXSns",
+      "title": "React Native Tutorial #20 - React Navigation - Passing Data Between Screens",
+      "duration": 272
+    },
+    {
+      "id": "UE66n7HOIAg",
+      "title": "React Native Tutorial #21 - Debugging in VS Code",
+      "duration": 700
+    },
+    {
+      "id": "ER83EI-b4Xk",
+      "title": "React Native Tutorial #22 - Custom Fonts in React Native CLI & Expo Projects",
+      "duration": 507
+    },
+    {
+      "id": "sM5Rx4LvjyQ",
+      "title": "React Native Tutorial #23 - Global Styles & How to Use Custom Fonts Globally in Project",
+      "duration": 330
+    },
+    {
+      "id": "CmQIMrGnBDs",
+      "title": "React Native Tutorial #24 - AsyncStorage - How to make an Offline Login with Async Storage",
+      "duration": 1090
+    },
+    {
+      "id": "wAyizHBFQEs",
+      "title": "React Native Tutorial #25 - SQLite Database - How to make an Offline Login with SQLite",
+      "duration": 812
+    },
+    {
+      "id": "BtJoy4G3N8U",
+      "title": "React Native Tutorial #26 - Redux - State Management",
+      "duration": 824
+    },
+    {
+      "id": "DYJVl6vVCEI",
+      "title": "React Native Tutorial #27 - How to Fetch Data from an API Using Redux",
+      "duration": 497
+    },
+    {
+      "id": "RgN1TEnULVQ",
+      "title": "React Native Tutorial #28 - Local & Scheduled Push Notification",
+      "duration": 907
+    },
+    {
+      "id": "FsUNPSA6Ogg",
+      "title": "React Native Tutorial #29 - Push Notification with Firebase - Remote Notification",
+      "duration": 457
+    },
+    {
+      "id": "mhc8k_PoUJk",
+      "title": "React Native Tutorial #30 - Google Maps",
+      "duration": 589
+    },
+    {
+      "id": "1dcFNPA1sTw",
+      "title": "React Native Tutorial #31 - RN Camera with Hooks",
+      "duration": 629
+    },
+    {
+      "id": "bOJkNut1Qyo",
+      "title": "React Native Tutorial #32 - Testing with Jest and React Test Renderer",
+      "duration": 700
+    },
+    {
+      "id": "h7FJhA1cZcs",
+      "title": "React Native Tutorial - Quiz#2 - Challenge Yourself",
+      "duration": 494
+    },
+    {
+      "id": "44tTKQyLZDA",
+      "title": "React Native Tutorial #33 - To-Do List App part 1",
+      "duration": 1834
+    },
+    {
+      "id": "233BdJQ2FPw",
+      "title": "React Native Tutorial #34 - To-Do List App part 2",
+      "duration": 2594
+    },
+    {
+      "id": "5tgcogEoIiQ",
+      "title": "React Native Tutorial #35 - Generating APK & Android App Bundle for Google Play Store",
+      "duration": 767
+    },
+    {
+      "id": "nWMn1QQkmaw",
+      "title": "React Native Tutorial #36 - Publishing App to Google Play Store",
+      "duration": 699
+    },
+    {
+      "id": "O5K0c6_xScw",
+      "title": "React Native Tutorial #37 - How to Build iOS App Using Xcode",
+      "duration": 726
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "courseId": "lua-programming-tutorials-91bf40",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:05.746Z",
+  "title": "Lua Programming Tutorials",
+  "channel": "Steve's teacher",
+  "videos": [
+    {
+      "id": "PW8NRGAZQs8",
+      "title": "Introduction to the Lua Programming Language - Lua Tutorial (Part 1)",
+      "duration": 221
+    },
+    {
+      "id": "8lY-HGqs_mA",
+      "title": "Comments and Printing - Lua Tutorial (Part 2)",
+      "duration": 527
+    },
+    {
+      "id": "vNSNBe2-y4c",
+      "title": "Data Types, Scopes and Variables - Lua Tutorial (Part 3)",
+      "duration": 995
+    },
+    {
+      "id": "gKa0-3n_JpA",
+      "title": "How to do math and use the math library - Lua Tutorial (Part 4)",
+      "duration": 764
+    },
+    {
+      "id": "zQ1OU_nWiz0",
+      "title": "Strings in Lua - Lua Tutorial (Part 5)",
+      "duration": 1108
+    },
+    {
+      "id": "WgBvVx5ihU4",
+      "title": "If statements - Lua Tutorial (Part 6)",
+      "duration": 949
+    },
+    {
+      "id": "zg9KtZaVaRY",
+      "title": "Loops - Lua Tutorial (Part 7)",
+      "duration": 953
+    },
+    {
+      "id": "V_4V-jtiA0U",
+      "title": "User Input - Lua Tutorial (Part 8)",
+      "duration": 420
+    },
+    {
+      "id": "-5Vma8aNCkA",
+      "title": "Tables (Arrays) - Lua Tutorial (Part 9)",
+      "duration": 959
+    },
+    {
+      "id": "9EVjBNjqU2U",
+      "title": "Functions in Lua - Lua Tutorial (Part 10)",
+      "duration": 1728
+    },
+    {
+      "id": "yE_qmKc_mp0",
+      "title": "Co-Routines - Lua Tutorial (Part 11)",
+      "duration": 661
+    },
+    {
+      "id": "FGrC8nY8mtw",
+      "title": "Working with Files - Lua Tutorial (Part 12)",
+      "duration": 752
+    },
+    {
+      "id": "qBdU59qDELY",
+      "title": "The OS Module - Lua Tutorial (Part 13)",
+      "duration": 894
+    },
+    {
+      "id": "TGLYLyTj2NA",
+      "title": "Creating Custom Modules - Lua Tutorial (Part 14)",
+      "duration": 627
+    },
+    {
+      "id": "xdJZdEAQOEo",
+      "title": "OOP (Object Oriented Programming) - Lua tutorial (Part 15)",
+      "duration": 1443
+    },
+    {
+      "id": "viDCpKoduC0",
+      "title": "Metamethods - Lua Tutorial (Part 16)",
+      "duration": 705
+    },
+    {
+      "id": "BMw8FDvitSw",
+      "title": "You finished Lua,  what now? - Lua Tutorial (Part 17)",
+      "duration": 360
+    },
+    {
+      "id": "1srFmjt1Ib0",
+      "title": "Full Lua Programming Crash Course - Beginner to Advanced",
+      "duration": 13240
+    },
+    {
+      "id": "vxIO5xkbk50",
+      "title": "How to execute code with the VSCode terminal (Lua)",
+      "duration": 149
+    },
+    {
+      "id": "VyZfvnBLqIU",
+      "title": "How to install and run Lua in Windows",
+      "duration": 505
+    },
+    {
+      "id": "5Npikd5vGEE",
+      "title": "How to install and run LuaRocks on Windows (WSL)",
+      "duration": 734
+    },
+    {
+      "id": "odwEphAwX5M",
+      "title": "Love2D Crash Course - Game Dev for Beginnners",
+      "duration": 5182
+    },
+    {
+      "id": "z5YR_6D1UlM",
+      "title": "Create the Atari Asteroids Game - Love2D Crash Course",
+      "duration": 20466
+    },
+    {
+      "id": "xvy3Kb0tqE4",
+      "title": "What is Lua - Lua Basics (Part 1)",
+      "duration": 168
+    },
+    {
+      "id": "P7z2xfAExl8",
+      "title": "Printing to the screen - Lua Basics (Part 2)",
+      "duration": 574
+    },
+    {
+      "id": "hHnn5rYkO3k",
+      "title": "Variables and Data Types - Lua Basics (Part 3)",
+      "duration": 666
+    },
+    {
+      "id": "eAGoYigXHl4",
+      "title": "Strings - Lua Basics (Part 4)",
+      "duration": 486
+    },
+    {
+      "id": "d47zLUFc2Po",
+      "title": "Math - Lua Basics (Part 5)",
+      "duration": 628
+    },
+    {
+      "id": "8OYoz0kbOKk",
+      "title": "If Statement - Lua Basics (Part 6)",
+      "duration": 808
+    },
+    {
+      "id": "wZjkaHplAWs",
+      "title": "Loops - Lua Basics (Part 7)",
+      "duration": 342
+    },
+    {
+      "id": "9FuvEZM2agM",
+      "title": "Getting User Input - Lua Basics (Part 8)",
+      "duration": 169
+    },
+    {
+      "id": "jQb7TUvetuI",
+      "title": "Tables (Data Structures) - Lua Basics (Part 9)",
+      "duration": 1122
+    },
+    {
+      "id": "mJwfVC8p4P4",
+      "title": "Functions - Lua Basics (Part 10)",
+      "duration": 556
+    },
+    {
+      "id": "VoygNP35SJ0",
+      "title": "Reading and Writing files - Lua Basics (Part 11)",
+      "duration": 505
+    },
+    {
+      "id": "66CxYnFwO3Y",
+      "title": "Creating Custom Modules - Lua Basics (Part 12)",
+      "duration": 294
+    },
+    {
+      "id": "JKMalRvWwSs",
+      "title": "Object Orientated Programming - Lua Basics (Part 13)",
+      "duration": 881
+    },
+    {
+      "id": "zDKK_1hxW_o",
+      "title": "Lua Basics Crash Course - Learn the basics of Lua for Game Development",
+      "duration": 7027
+    },
+    {
+      "id": "DSHAml7EoLE",
+      "title": "Running Lua code in C++ - C++ Tutorial (Part 47)",
+      "duration": 1585
+    },
+    {
+      "id": "ooQ-_9YQVw0",
+      "title": "Add types to your Lua code - Teal Tutorial",
+      "duration": 1620
+    },
+    {
+      "id": "GqdoCIA55X8",
+      "title": "How to download and install Lua on MacOS",
+      "duration": 479
+    },
+    {
+      "id": "vTsBrDeQuZ0",
+      "title": "Complete Lua and Love2D Crash Course",
+      "duration": 41050
+    }
+  ]
+}

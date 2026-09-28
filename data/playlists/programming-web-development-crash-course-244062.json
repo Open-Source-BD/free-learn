@@ -1,0 +1,540 @@
+{
+  "courseId": "programming-web-development-crash-course-244062",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:04:07.822Z",
+  "title": "Programming & Web Development Crash Courses",
+  "channel": "Traversy Media",
+  "videos": [
+    {
+      "id": "UB1O30fR-EE",
+      "title": "HTML Crash Course For Absolute Beginners",
+      "duration": 3642
+    },
+    {
+      "id": "yfoY53QXEnI",
+      "title": "CSS Crash Course For Absolute Beginners",
+      "duration": 5111
+    },
+    {
+      "id": "hdI2bqOjy3c",
+      "title": "JavaScript Crash Course For Beginners",
+      "duration": 6030
+    },
+    {
+      "id": "LDB4uaJ87e0",
+      "title": "React Crash Course",
+      "duration": 11076
+    },
+    {
+      "id": "VeNfHj6MhgA",
+      "title": "Vue.js Crash Course",
+      "duration": 10604
+    },
+    {
+      "id": "mTz0GXj8NN0",
+      "title": "Next.js Crash Course",
+      "duration": 4185
+    },
+    {
+      "id": "3dHNOWTI7H8",
+      "title": "Angular Crash Course",
+      "duration": 7292
+    },
+    {
+      "id": "32M1al-Y6Ag",
+      "title": "Node.js Crash Course",
+      "duration": 7595
+    },
+    {
+      "id": "CnH3kAXSrmU",
+      "title": "Express Crash Course",
+      "duration": 6371
+    },
+    {
+      "id": "BUCiSSyIGGU",
+      "title": "PHP For Beginners | 3+ Hour Crash Course",
+      "duration": 11736
+    },
+    {
+      "id": "JJmcL1N2KQs",
+      "title": "Python Crash Course For Beginners",
+      "duration": 5747
+    },
+    {
+      "id": "3YW65K6LcIA",
+      "title": "Flexbox Crash Course",
+      "duration": 2814
+    },
+    {
+      "id": "0xMQfnTU6oo",
+      "title": "CSS Grid Crash Course",
+      "duration": 3225
+    },
+    {
+      "id": "9ylj9NR0Lcg",
+      "title": "MySQL Crash Course | Learn SQL",
+      "duration": 4295
+    },
+    {
+      "id": "-56x56UppqQ",
+      "title": "MongoDB Crash Course",
+      "duration": 2203
+    },
+    {
+      "id": "MYyJ4PuL4pY",
+      "title": "Laravel From Scratch | 4+ Hour Course",
+      "duration": 15532
+    },
+    {
+      "id": "e1IyzVyrLSU",
+      "title": "Python Django Crash Course",
+      "duration": 4311
+    },
+    {
+      "id": "BCg4U1FzODs",
+      "title": "TypeScript Crash Course",
+      "duration": 3147
+    },
+    {
+      "id": "3TVy6GdtNuQ",
+      "title": "Svelte Crash Course",
+      "duration": 4852
+    },
+    {
+      "id": "XoIHKO6AkoM",
+      "title": "Astro Quick Start Course | Build an SSR Blog",
+      "duration": 9844
+    },
+    {
+      "id": "nu5mdN2JIwM",
+      "title": "Sass Crash Course",
+      "duration": 2885
+    },
+    {
+      "id": "SqrbIlUwR0U",
+      "title": "Go / Golang Crash Course",
+      "duration": 5922
+    },
+    {
+      "id": "pPy0GQJLZUM",
+      "title": "Ruby On Rails In 60 Minutes",
+      "duration": 3728
+    },
+    {
+      "id": "iYM2zFP3Zn0",
+      "title": "HTTP Crash Course & Exploration",
+      "duration": 2310
+    },
+    {
+      "id": "6YhqQ2ZW1sc",
+      "title": "Gatsby JS Crash Course",
+      "duration": 3873
+    },
+    {
+      "id": "ltzlhAxJr74",
+      "title": "Nuxt JS Crash Course",
+      "duration": 2768
+    },
+    {
+      "id": "5lVQgZzLMHc",
+      "title": "Vuex Crash Course | State Management",
+      "duration": 3679
+    },
+    {
+      "id": "Hf4MJH0jDb4",
+      "title": "React Native Crash Course",
+      "duration": 3088
+    },
+    {
+      "id": "NHHhiqwcfRM",
+      "title": "Deno Crash Course",
+      "duration": 3126
+    },
+    {
+      "id": "1gDhl4leEzA",
+      "title": "Flutter Crash Course",
+      "duration": 3560
+    },
+    {
+      "id": "UBOj6rqRUME",
+      "title": "Tailwind CSS Crash Course",
+      "duration": 1831
+    },
+    {
+      "id": "pW3PFtchHDc",
+      "title": "RethinkDB & ReQL Crash Course",
+      "duration": 2187
+    },
+    {
+      "id": "vSFH1T3SnBY",
+      "title": "Meteor.js in 50 Minutes",
+      "duration": 2890
+    },
+    {
+      "id": "zF34dRivLOw",
+      "title": "Rust Crash Course | Rustlang",
+      "duration": 6643
+    },
+    {
+      "id": "HUBNt18RFbo",
+      "title": "Markdown Crash Course",
+      "duration": 1172
+    },
+    {
+      "id": "82hnvUYY6QA",
+      "title": "AJAX Crash Course (Vanilla JavaScript)",
+      "duration": 4183
+    },
+    {
+      "id": "hQWRp-FdTpc",
+      "title": "SSH Crash Course | With Some DevOps",
+      "duration": 3302
+    },
+    {
+      "id": "7r4xVDI2vho",
+      "title": "Jest Crash Course - Unit Testing in JavaScript",
+      "duration": 3439
+    },
+    {
+      "id": "x4q86IjJFag",
+      "title": "Google Chrome Developer Tools Crash Course",
+      "duration": 3080
+    },
+    {
+      "id": "fEDT4lWWe9g",
+      "title": "Microservices Crash Course & Moleculer JS Intro",
+      "duration": 2334
+    },
+    {
+      "id": "ei7FsoXKPl0",
+      "title": "RxJS Observables Crash Course",
+      "duration": 4385
+    },
+    {
+      "id": "kEW6f7Pilc4",
+      "title": "PDO Crash Course (PHP)",
+      "duration": 2735
+    },
+    {
+      "id": "jHDhaSSKmB0",
+      "title": "NPM Crash Course",
+      "duration": 2523
+    },
+    {
+      "id": "g9_6KmiBISk",
+      "title": "Yarn Package Manager Crash Course",
+      "duration": 1363
+    },
+    {
+      "id": "IZGNcSuwBZs",
+      "title": "Webpack 5 Crash Course | Frontend Development Setup",
+      "duration": 2477
+    },
+    {
+      "id": "02zO0hZmwnw",
+      "title": "Styled Components Crash Course & Project",
+      "duration": 2903
+    },
+    {
+      "id": "vBreXjkizgo",
+      "title": "Vagrant Crash Course",
+      "duration": 2790
+    },
+    {
+      "id": "5GcQtLDGXy8",
+      "title": "Bootstrap Beginner Crash Course",
+      "duration": 4407
+    },
+    {
+      "id": "DEu5xYEZx18",
+      "title": "Foundation Framework Crash Course",
+      "duration": 4380
+    },
+    {
+      "id": "IiPQYQT2-wg",
+      "title": "Bulma CSS Framework Crash Course",
+      "duration": 2981
+    },
+    {
+      "id": "nqT8c5OFjEQ",
+      "title": "Materialize CSS Crash Course [Part 1]",
+      "duration": 3368
+    },
+    {
+      "id": "ZpduVPHZ5Aw",
+      "title": "Materialize CSS Crash Course [Part 2] - JavaScript Widgets",
+      "duration": 2409
+    },
+    {
+      "id": "a9mUH1EWp40",
+      "title": "Semantic UI In 60 Minutes",
+      "duration": 3510
+    },
+    {
+      "id": "nVANwdryGVc",
+      "title": "Skeleton CSS Crash Course & Landing Page",
+      "duration": 2317
+    },
+    {
+      "id": "1rw9MfIleEg",
+      "title": "Gulp JS Crash Course",
+      "duration": 2021
+    },
+    {
+      "id": "2lprC0yYeFw",
+      "title": "Hapi.js Framework Crash Course",
+      "duration": 2240
+    },
+    {
+      "id": "wqhNoDE6pb4",
+      "title": "NestJS Crash Course",
+      "duration": 3600
+    },
+    {
+      "id": "a-dn6k6Frq4",
+      "title": "Build A Mean js App In 30 Minutes",
+      "duration": 1837
+    },
+    {
+      "id": "zHUpx90NerM",
+      "title": "CSS3 Animation & Transitions Crash Course",
+      "duration": 2180
+    },
+    {
+      "id": "wKzcWbxVtKA",
+      "title": "Ractive.js Crash Course",
+      "duration": 2517
+    },
+    {
+      "id": "z84uTk5zmak",
+      "title": "Koa.js Crash Course - Modern & Minimalist Node.js Framework",
+      "duration": 2243
+    },
+    {
+      "id": "6Qmnh5C4Pmo",
+      "title": "Pipenv Crash Course",
+      "duration": 940
+    },
+    {
+      "id": "8jP4xpga6yY",
+      "title": "Getting Started With Three.js",
+      "duration": 1175
+    },
+    {
+      "id": "6LyagkoRWYA",
+      "title": "Axios Crash Course | HTTP Library",
+      "duration": 2540
+    },
+    {
+      "id": "YK-GurROGIg",
+      "title": "Documenting Your JavaScript | JSDoc Crash Course",
+      "duration": 2192
+    },
+    {
+      "id": "2eebptXfEvw",
+      "title": "PHP For Absolute Beginners | 6.5 Hour Course",
+      "duration": 23242
+    },
+    {
+      "id": "1v_4dL8l8pQ",
+      "title": "C++ Crash Course For Beginners",
+      "duration": 5680
+    },
+    {
+      "id": "ZYdXI1GteDE",
+      "title": "R Programming Crash Course",
+      "duration": 5603
+    },
+    {
+      "id": "XBSvp43EQhA",
+      "title": "Machine Learning Crash Course With ML.NET",
+      "duration": 1258
+    },
+    {
+      "id": "B3Fbujmgo60",
+      "title": "Ruby On Rails Crash Course",
+      "duration": 7506
+    },
+    {
+      "id": "tZt6gRlRcgk",
+      "title": "Neural Networks & TensorfFlow Crash Course",
+      "duration": 7512
+    },
+    {
+      "id": "Lk-uVEVGxOA",
+      "title": "Fastify Crash Course | Node.js Framework",
+      "duration": 2383
+    },
+    {
+      "id": "u5cLK1UrFyQ",
+      "title": "Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)",
+      "duration": 9116
+    },
+    {
+      "id": "OXE2a8dqIAI",
+      "title": "DevOps Crash Course (Docker, Terraform, and Github Actions)",
+      "duration": 3484
+    },
+    {
+      "id": "5flXf8nuq60",
+      "title": "Kotlin Crash Course",
+      "duration": 5030
+    },
+    {
+      "id": "BBWyXo-3JGQ",
+      "title": "Build A Simple Android App With Kotlin",
+      "duration": 4301
+    },
+    {
+      "id": "MFh0Fd7BsjE",
+      "title": "Laravel Crash Course",
+      "duration": 8937
+    },
+    {
+      "id": "3HqN-YS8eso",
+      "title": "Getting Started With Open Source & GitHub",
+      "duration": 1648
+    },
+    {
+      "id": "32RP-sG1njE",
+      "title": "Sanity.io Crash Course | Headless CMS",
+      "duration": 1344
+    },
+    {
+      "id": "7uKQBl9uZ00",
+      "title": "Supabase Crash Course",
+      "duration": 1517
+    },
+    {
+      "id": "OVNjsIto9xM",
+      "title": "React Testing Crash Course",
+      "duration": 3516
+    },
+    {
+      "id": "d_BhzHVV4aQ",
+      "title": "Remix Crash Course | Full Stack React",
+      "duration": 3889
+    },
+    {
+      "id": "wEoktJMSWLY",
+      "title": "Remix Crash Course Pt 2 | User Authentication",
+      "duration": 3699
+    },
+    {
+      "id": "2QQGWYe7IDU",
+      "title": "MongoDB Crash Course 2022",
+      "duration": 1642
+    },
+    {
+      "id": "dFgzHOX84xQ",
+      "title": "Tailwind Crash Course | Project From Scratch",
+      "duration": 5739
+    },
+    {
+      "id": "r5iWCtfltso",
+      "title": "Alpine.js Crash Course",
+      "duration": 2522
+    },
+    {
+      "id": "MMxbP8ME2Ag",
+      "title": "Carbon Lang First Look & Crash Course | Google's C++ Successor",
+      "duration": 4006
+    },
+    {
+      "id": "Oi9z5gfIHJs",
+      "title": "Astro Crash Course",
+      "duration": 5719
+    },
+    {
+      "id": "uwAqEzhyjtw",
+      "title": "Command Line Crash Course For Beginners | Terminal Commands",
+      "duration": 2693
+    },
+    {
+      "id": "SP8mSVSAh6s",
+      "title": "PostCSS Crash Course",
+      "duration": 2046
+    },
+    {
+      "id": "CYH04BJzamo",
+      "title": "Prisma Crash Course",
+      "duration": 2201
+    },
+    {
+      "id": "U4JVw8K19uY",
+      "title": "Bun Crash Course | JavaScript Runtime, Bundler & Transpiler",
+      "duration": 2419
+    },
+    {
+      "id": "0UvA7zvwsmg",
+      "title": "HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript",
+      "duration": 3407
+    },
+    {
+      "id": "XMu46BRPLqA",
+      "title": "Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)",
+      "duration": 3013
+    },
+    {
+      "id": "tL01EzN2-xA",
+      "title": "Encore Crash Course - TypeScript Backend Framework & Toolset",
+      "duration": 2179
+    },
+    {
+      "id": "PyaSnpXssks",
+      "title": "React Admin Crash Course 2025",
+      "duration": 2711
+    },
+    {
+      "id": "vA5TTz6BXhY",
+      "title": "Git & GitHub Crash Course 2025",
+      "duration": 2969
+    },
+    {
+      "id": "bCpFbERgj7s",
+      "title": "React Native Crash Course+ | Build a Mobile App In 3 Hours",
+      "duration": 11009
+    },
+    {
+      "id": "5zR1ZE5aqho",
+      "title": "Cursor Crash Course & AI Coding For Beginners",
+      "duration": 3161
+    },
+    {
+      "id": "8TMQcRcBnW8",
+      "title": "FastAPI Crash Course - Modern Python API Development",
+      "duration": 3621
+    },
+    {
+      "id": "XCifkDC0yXA",
+      "title": "React Native Crash Course 2026 - Build a Complete Mobile App",
+      "duration": 5916
+    },
+    {
+      "id": "K6CO0S5ql_A",
+      "title": "OpenClaw Crash Course For Beginners",
+      "duration": 2383
+    },
+    {
+      "id": "1ha65hF7NS4",
+      "title": "Why AI Is So Divisive for Developers",
+      "duration": 499
+    },
+    {
+      "id": "S5xNFmAR2xk",
+      "title": "I Was Starting To Forget...",
+      "duration": 421
+    },
+    {
+      "id": "C2GpeepcmYs",
+      "title": "Claude Code Crash Course For Developers",
+      "duration": 3803
+    },
+    {
+      "id": "L4g6GGLzAyo",
+      "title": "Stop Vibe Coding: There's A Better Way To Use AI",
+      "duration": 3675
+    }
+  ]
+}

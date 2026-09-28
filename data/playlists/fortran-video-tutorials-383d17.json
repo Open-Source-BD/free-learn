@@ -1,0 +1,65 @@
+{
+  "courseId": "fortran-video-tutorials-383d17",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:24.432Z",
+  "title": "Fortran Video Tutorials",
+  "channel": "Cyprien Rusu",
+  "videos": [
+    {
+      "id": "X1x0fgn1tMo",
+      "title": "[Fortran Tuto 1] Hello World !",
+      "duration": 456
+    },
+    {
+      "id": "GSJL6E1A6gM",
+      "title": "[Fortran Tuto 2] Basics about variables",
+      "duration": 580
+    },
+    {
+      "id": "f4YAJhiqzg0",
+      "title": "[Fortran Tuto 3] Simple Math and Real Variables",
+      "duration": 723
+    },
+    {
+      "id": "LN9lQH6DUh8",
+      "title": "[Fortran Tuto 4] If endif statement",
+      "duration": 754
+    },
+    {
+      "id": "QLtXQqvhb8c",
+      "title": "[Fortran Tuto 5] Do Loops",
+      "duration": 391
+    },
+    {
+      "id": "AHZ92ciAdZo",
+      "title": "[ Fortran Tuto 6] Opening and Writing Text Files",
+      "duration": 631
+    },
+    {
+      "id": "tMrJhuenf88",
+      "title": "[Fortran Tuto 7] Data Tables",
+      "duration": 549
+    },
+    {
+      "id": "4LhohX2AQYA",
+      "title": "[Fortran Tuto 8] Handling Precision",
+      "duration": 717
+    },
+    {
+      "id": "dvMnZEt8maE",
+      "title": "[Fortran Tuto 9] Dimension Arrays",
+      "duration": 620
+    },
+    {
+      "id": "I20auasm9Xc",
+      "title": "[Fortran Tuto 10] Formatting the print",
+      "duration": 579
+    },
+    {
+      "id": "u1ODtjxNdnA",
+      "title": "[Fortran Tuto 11] Subroutines",
+      "duration": 994
+    }
+  ]
+}

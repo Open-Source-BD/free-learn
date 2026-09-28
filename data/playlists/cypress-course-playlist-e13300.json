@@ -1,0 +1,395 @@
+{
+  "courseId": "cypress-course-playlist-e13300",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:30.547Z",
+  "title": "🚀🤖 Cypress Tutorial for Beginners | Cypress Testing | Cypress IO tutorial",
+  "channel": "JoanMedia",
+  "videos": [
+    {
+      "id": "-RasYTPbG6A",
+      "title": "What’s NEW in Cypress? 🔥 AI Integration & Ambassador Updates You Can’t Miss",
+      "duration": 1325
+    },
+    {
+      "id": "CDamv-uW7Aw",
+      "title": "Voice feature Cypress Wick A11y  #cypresstesting",
+      "duration": 55
+    },
+    {
+      "id": "nq2E_7I6tZQ",
+      "title": "Unlocking Accessibility  Testing with Cypress Voice Feature",
+      "duration": 36
+    },
+    {
+      "id": "zrieLtJTaYQ",
+      "title": "Unlock Accessibility  WICK Ally Cypress Plugin Overview  #cypresstesting",
+      "duration": 33
+    },
+    {
+      "id": "Wm3nr00hYBc",
+      "title": "Unleashing the Power of HTML Reports to check web accessibility violations automatically",
+      "duration": 52
+    },
+    {
+      "id": "9Z6qdkrkqCo",
+      "title": "Mastering Cypress -  Install the New Accessibility Plugin #cypresstesting #crossbrowsertesting",
+      "duration": 45
+    },
+    {
+      "id": "LVxyJMW6EJw",
+      "title": "Cypress Accessibility Testing powered by WICK-A11Y",
+      "duration": 680
+    },
+    {
+      "id": "SPmJvH5mYaU",
+      "title": "Cypress API Testing: AJV SCHEMA VALIDATOR",
+      "duration": 807
+    },
+    {
+      "id": "E5wTvNS6jR8",
+      "title": "Cypress Testing Library: Find Elements by Accessibility Roles!",
+      "duration": 740
+    },
+    {
+      "id": "CqyrESJutD0",
+      "title": "Cypress Cloud: Test Replay (The NEWEST FEATURE)",
+      "duration": 764
+    },
+    {
+      "id": "zXzeaFYBXR8",
+      "title": "CYPRESS: Environment Management, Hide Requests, Test Isolation and Cy.Origin()",
+      "duration": 1154
+    },
+    {
+      "id": "Olh-rmr3pOw",
+      "title": "Cypress Custom Commands by @bartoszkuczera",
+      "duration": 2972
+    },
+    {
+      "id": "GjMOROzMmjc",
+      "title": "Cypress + Cucumber using Docker",
+      "duration": 1058
+    },
+    {
+      "id": "0pszHKEs0bE",
+      "title": "CYPRESS + POSTGRES Integration",
+      "duration": 693
+    },
+    {
+      "id": "dJfsWvCZojA",
+      "title": "Cypress: Cucumber, Run All Specs, & GitHub Page Report",
+      "duration": 678
+    },
+    {
+      "id": "V-F80UzZAmA",
+      "title": "Cypress Component vs E2E Testing | by Mark Noonan",
+      "duration": 1616
+    },
+    {
+      "id": "CVBSe2hFXVQ",
+      "title": "Cypress Plugin API: \"Imagine Postman, but in Cypress\"",
+      "duration": 765
+    },
+    {
+      "id": "BhWaarUEvck",
+      "title": "CYPRESS TASK | Execute code in Node",
+      "duration": 1020
+    },
+    {
+      "id": "lZg3kUhvXYE",
+      "title": "📚 AUTOMATE your TESTS REPORTS with CYPRESS 10+ & ALLURE REPORTS  | HTML Report 🔥",
+      "duration": 550
+    },
+    {
+      "id": "uBVFnM8ebSg",
+      "title": "🔴 GitHub Actions + Cypress: Artifacts(HTML Report) + Slack Notifications",
+      "duration": 870
+    },
+    {
+      "id": "WJcjNFjYmoM",
+      "title": "Cypress + Safari's Browser Engine (NEW Experimental Support for WebKit)",
+      "duration": 514
+    },
+    {
+      "id": "Aa5YOT1Cgxs",
+      "title": "🔍 Cypress Selector Method Types:  parent, prev, and siblings",
+      "duration": 899
+    },
+    {
+      "id": "8sEvyR9rbak",
+      "title": "🔍 Cypress Selector Method Types: First, Last, Next, NextAll, and Not",
+      "duration": 642
+    },
+    {
+      "id": "gvOROzQSXdM",
+      "title": "🔍 Cypress Selector Method Types: Filter, Find, Children, Eq, and Closest",
+      "duration": 726
+    },
+    {
+      "id": "skpfm8ypYpc",
+      "title": "Cypress Viewport and Browser Configurations you Must Know.",
+      "duration": 614
+    },
+    {
+      "id": "dFiQpbUXqIs",
+      "title": "Amazing HTML Reporter for Cypress 10+ [MOCHAWESOME REPORTER]",
+      "duration": 630
+    },
+    {
+      "id": "5AGXK9cL2fs",
+      "title": "📚 AUTOMATE your TESTS REPORTS with CYPRESS 10+ & CUCUMBER  | HTML Report 🔥",
+      "duration": 721
+    },
+    {
+      "id": "FlQ9Carxeds",
+      "title": "📚 AUTOMATE your TESTS NOW with CYPRESS 10+ & CUCUMBER  | Project Boilerplate 🔥",
+      "duration": 958
+    },
+    {
+      "id": "6ASbP_IAArU",
+      "title": "Migrate to CYPRESS 10+ 🔥",
+      "duration": 668
+    },
+    {
+      "id": "yM3qnxWNCY8",
+      "title": "INSTALL CYPRESS 10+ | New UI & Project Structure Review🔥",
+      "duration": 621
+    },
+    {
+      "id": "Sy1L0fb64jA",
+      "title": "Automated PERFORMANCE & ACCESSIBILITY TEST with CYPRESS.IO? | Cypress Tutorial",
+      "duration": 716
+    },
+    {
+      "id": "Bn6r57dm9nM",
+      "title": "🔗 Connect CYPRESS to a DATABASE [STEP BY STEP] | Cypress Tutorial",
+      "duration": 1063
+    },
+    {
+      "id": "SbBXBfCHWsg",
+      "title": "Interested in TEST AUTOMATION? Review the CYPRESS + APPLITOOLS integration NOW!",
+      "duration": 872
+    },
+    {
+      "id": "JwijJG3l5gQ",
+      "title": "Interested in Test Automation? Start with CYPRESS STUDIO now!",
+      "duration": 933
+    },
+    {
+      "id": "7FfpVcZVppM",
+      "title": "📚 Automation Test Framework using TYPESCRIPT & CYPRESS | Cypress Tutorial For Beginners",
+      "duration": 905
+    },
+    {
+      "id": "up9jyQqhxxk",
+      "title": "Cypress INVOKE Review: A Command you MUST KNOW  | Cypress Tutorial for Beginners",
+      "duration": 1064
+    },
+    {
+      "id": "srMqpQpPJ08",
+      "title": "AUTOMATED TEST Execution with GITLAB + CYPRESS 🔥| Cypress Tutorial for Beginners",
+      "duration": 1179
+    },
+    {
+      "id": "BCY_9aMwJh4",
+      "title": "CYPRESS + CUCUMBER Data Tables & Reports | Cypress Tutorial For Beginners",
+      "duration": 1666
+    },
+    {
+      "id": "4KPBMXUSWJc",
+      "title": "📚 AUTOMATE your TESTS NOW with CYPRESS + CUCUMBER | Cypress Tutorial For Beginners",
+      "duration": 2105
+    },
+    {
+      "id": "mopKFKSNNYw",
+      "title": "Cypress Configuration Settings (cypress.json) | Cypress Tutorial For Beginners",
+      "duration": 1223
+    },
+    {
+      "id": "zTr5wP2nP-Y",
+      "title": "SHARE your CYPRESS DOCKER Test Framework with DOCKERHUB [Free 🔥]",
+      "duration": 833
+    },
+    {
+      "id": "h-PKlVdNVpA",
+      "title": "CYPRESS INTERCEPT to SPY API Calls",
+      "duration": 841
+    },
+    {
+      "id": "QWfjLc2RbKY",
+      "title": "EASY Cypress + GitHub Actions INTRODUCTION | Cypress Tutorial",
+      "duration": 1037
+    },
+    {
+      "id": "7jrXK0hIguA",
+      "title": "Automatic Slack Notification with Jenkins Pipeline | Cypress Tutorial | Jenkins Tutorial",
+      "duration": 1780
+    },
+    {
+      "id": "Gf0gxV1bYbc",
+      "title": "EASY Cypress Jenkins PIPELINE Example | Cypress Tutorial",
+      "duration": 1431
+    },
+    {
+      "id": "XfVVDGrt8WQ",
+      "title": "XPATH Locators + CYPRESS together? Use them NOW!",
+      "duration": 934
+    },
+    {
+      "id": "RhBRFyLqxz0",
+      "title": "EASY CYPRESS + JENKINS Example | Jenkins Job with Parameters | Cypress Tutorial",
+      "duration": 945
+    },
+    {
+      "id": "rubA6aArTAc",
+      "title": "Cypress Jenkins Introduction in 12 Minutes | Cypress Tutorial",
+      "duration": 764
+    },
+    {
+      "id": "XyBxEnyBb0A",
+      "title": "EASY XPath Tutorial",
+      "duration": 1083
+    },
+    {
+      "id": "K5ZKrnLIMJk",
+      "title": "CUSTOM Cypress + Docker Integration | Cypress Docker Tutorial",
+      "duration": 1385
+    },
+    {
+      "id": "1GpmGpSKZkk",
+      "title": "RUN a SPECIFIC test using CYPRESS-GREP (TAGS) | Cypress Tutorial For Beginners",
+      "duration": 810
+    },
+    {
+      "id": "3wi_EZID0xs",
+      "title": "EASY DOCKER + CYPRESS Integration in 10 MINUTES* | Cypress Tutorial For Beginners",
+      "duration": 860
+    },
+    {
+      "id": "cfZG6TymwNI",
+      "title": "EASY BrowserStack + CYPRESS INTEGRATION in 10 MINUTES* | Cypress Tutorial For Beginners",
+      "duration": 967
+    },
+    {
+      "id": "A1MVLZMTR7k",
+      "title": "MOCHAWESOME HTML Report in CYPRESS (EASY INTEGRATION)",
+      "duration": 825
+    },
+    {
+      "id": "2jrGCQCdt7s",
+      "title": "4 CYPRESS COMMANDS you DIDN'T KNOW |  Cypress Tutorial For Beginners",
+      "duration": 1661
+    },
+    {
+      "id": "ydTviHjpxh0",
+      "title": "CYPRESS DASHBOARD(EASY SETUP) | How much does Cypress IO cost? | Cypress tutorial for beginners",
+      "duration": 886
+    },
+    {
+      "id": "a78vUc648CU",
+      "title": "DID YOU KNOW about CYPRESS STUDIO? (Scripts WITHOUT CODING) | Cypress Tutorial For Beginners",
+      "duration": 504
+    },
+    {
+      "id": "gIgqEvbYkgg",
+      "title": "THE SECRET of declaring VARIABLES in CYPRESS IO | Then Command | CYPRESS TUTORIAL For BEGINNERS",
+      "duration": 1032
+    },
+    {
+      "id": "JvGTA_zKToI",
+      "title": "CYPRESS ASSERTIONS EXPLAINED | Cypress Testing | Cypress Tutorial For Beginners",
+      "duration": 1428
+    },
+    {
+      "id": "JkxexX3wmLk",
+      "title": "How do I write to a file in Cypress? | HOW TO USE WRITEFILE AND READFILE IN CYPRESS?",
+      "duration": 904
+    },
+    {
+      "id": "rEJFrj2mZdc",
+      "title": "ITERATE over JSON OBJECT using CYPRESS IO | Cypress Fixture JSON Array",
+      "duration": 1031
+    },
+    {
+      "id": "GVv55mAtrUA",
+      "title": "API Testing with Cypress (CY.REQUEST) explained | CYPRESS IO TUTORIAL",
+      "duration": 1496
+    },
+    {
+      "id": "bcO2E6XFJCY",
+      "title": "CYPRESS API TESTING Introduction - CYPRESS REQUEST",
+      "duration": 1342
+    },
+    {
+      "id": "bC9bGHDgpQk",
+      "title": "CYPRESS Page Object Model EXAMPLE | POM in CYPRESS",
+      "duration": 1269
+    },
+    {
+      "id": "z57lsgbImug",
+      "title": "CYPRESS INTERCEPT Response | Cypress Mock API Response",
+      "duration": 1547
+    },
+    {
+      "id": "66bEpdatEYQ",
+      "title": "Create your OWN CYPRESS COMMAND NOW! | Cypress Tutorial For Beginners",
+      "duration": 1104
+    },
+    {
+      "id": "8UIzDOeB33c",
+      "title": "CYPRESS FIXTURES EXPLAINED | Cypress Tutorial for BEGINNERS",
+      "duration": 1075
+    },
+    {
+      "id": "WjabvzuEBCg",
+      "title": "💻 Selectors in Cypress | Cypress LOCATORS (Identify Elements) | Cypress TUTORIAL for Beginners",
+      "duration": 1399
+    },
+    {
+      "id": "TWz9SHD97n0",
+      "title": "💻 CYPRESS URL Commands | Cypress TUTORIAL for Beginners | Cypress Testing",
+      "duration": 1107
+    },
+    {
+      "id": "EsLuhij98sQ",
+      "title": "🚀 RUN Cypress TEST in Test Runner and Terminal | Cypress Tutorial for Beginners | Cypress Testing",
+      "duration": 747
+    },
+    {
+      "id": "HbqsrbePYR8",
+      "title": "🚀 Automatic Cypress Wait (Retry-Ability) | Cypress Test | Cypress Tutorial🤖",
+      "duration": 801
+    },
+    {
+      "id": "cQCkxxdFcRs",
+      "title": "Cypress HOOKS example in 10 MINUTES | Cypress Testing | Cypress Tutorial",
+      "duration": 603
+    },
+    {
+      "id": "ImI4i_-9oF0",
+      "title": "🚀 Cypress EXAMPLE |  Write your FIRST Cypress TEST | Cypress E2E",
+      "duration": 861
+    },
+    {
+      "id": "U-KaXmJUuHo",
+      "title": "🚀🤖Cypress PROJECT FOLDER STRUCTURE | Cypress TUTORIAL for Beginners | Cypress io tutorial",
+      "duration": 686
+    },
+    {
+      "id": "_7bPbDAz-qg",
+      "title": "CSS SELECTORS in SELENIUM webdriver(Cypress | TestCafe | +) | CSS SELECTORS in Selenium Webdriver",
+      "duration": 1401
+    },
+    {
+      "id": "1YA83lZrODs",
+      "title": "🚀🤖 INTRODUCTION to CYPRESS IO | Cypress TUTORIAL for Beginners",
+      "duration": 951
+    },
+    {
+      "id": "uIX8nHBfo-o",
+      "title": "🚀 INSTALL CYPRESS in Windows | Cypress IO Tutorial | Cypress TUTORIAL for Beginners",
+      "duration": 922
+    }
+  ]
+}

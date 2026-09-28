@@ -1,0 +1,305 @@
+{
+  "courseId": "complete-devops-zero-to-hero-course-18f4fa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:05.416Z",
+  "title": "DEVOPS ZERO TO HERO COURSE",
+  "channel": "Abhishek.Veeramalla",
+  "videos": [
+    {
+      "id": "Ou9j73aWgyE",
+      "title": "Day-1 | Fundamentals of DevOps | Free DevOps Course | 45 days | #devopscourse #learning",
+      "duration": 1840
+    },
+    {
+      "id": "jRqBIpcgO4g",
+      "title": "Day-2 | Improve SDLC with DevOps | Free DevOps Course | 45 days | #devopscourse #learning",
+      "duration": 1572
+    },
+    {
+      "id": "neG2MFVFji0",
+      "title": "Absolute Prerequisite for Learning DevOps",
+      "duration": 2532
+    },
+    {
+      "id": "lgUwYwBozow",
+      "title": "Day-3 | Virtual Machines Part-1 | Free DevOps Course | 45 days | #devopscourse #learning #vm",
+      "duration": 1527
+    },
+    {
+      "id": "NJkMe9cdYEQ",
+      "title": "Day-4 | AWS & Azure - How to Create Virtual Machines | Free DevOps Course | 45 days |#devops #aws",
+      "duration": 1778
+    },
+    {
+      "id": "MkIRh1mi8Ms",
+      "title": "HOW TO CONNECT TO EC2 INSTANCE FROM WINDOWS LAPTOP | MOBAXTERM | #aws #devops #abhishekveeramalla",
+      "duration": 460
+    },
+    {
+      "id": "cN4pt5KQ9eA",
+      "title": "Day-5 | AWS CLI Full Guide | How to connect to EC2 Instance from UI & Terminal | AWS CFT walk though",
+      "duration": 1836
+    },
+    {
+      "id": "9jw9F6mcQDo",
+      "title": "Day-6 | Linux & Shell Scripting | Complete Shell Scripting Playlist| #aws #azure | #devops",
+      "duration": 2265
+    },
+    {
+      "id": "zsajhz2_50g",
+      "title": "Shell Scripting for DevOps|Shell Scripting Zero 2 Hero|Shell Scripting Interview Questions| #devops",
+      "duration": 4204
+    },
+    {
+      "id": "CyQtk9f646Q",
+      "title": "Shell Scripting for DevOps | Zero 2 Hero Part-2 | Shell Scripting Interview Q&A | #devops",
+      "duration": 4230
+    },
+    {
+      "id": "0jgqMKuADX0",
+      "title": "Shell Scripting & Linux Interview Questions for DevOps Engineers | Bash Zero to Hero | #devops",
+      "duration": 2254
+    },
+    {
+      "id": "gx5E47R9fGk",
+      "title": "Day-7 |  Live AWS Project using SHELL SCRIPTING for DevOps | AWS DevOps project| #devops #aws #2023",
+      "duration": 1691
+    },
+    {
+      "id": "OuyNM5-r8P8",
+      "title": "Day-8 | DevOps Zero to Hero | Shell Scripting Project Used In Real Time | GitHub API Integration",
+      "duration": 2988
+    },
+    {
+      "id": "PhTn8RkF0F4",
+      "title": "Networking Concepts are Easy | Networking Explained in a simple way",
+      "duration": 2524
+    },
+    {
+      "id": "fIMySI_gZJU",
+      "title": "Day-9 | Git and GitHub | What is GIT ? | What is Version Control ? | #devops #2023 #github #gitlab",
+      "duration": 2191
+    },
+    {
+      "id": "MCyvYT8FS5w",
+      "title": "Day-10 | Git Branching Strategy | Real World Example | DevOps Interview Question|#devops #k8s #2023",
+      "duration": 1335
+    },
+    {
+      "id": "mT6qrAx14O4",
+      "title": "Day-11 | Git Interview Q&A and Commands for DevOps | Real World Example |#devops #github #git  #2023",
+      "duration": 3126
+    },
+    {
+      "id": "NLmF64KdLN0",
+      "title": "Day 12 | Deploy and expose your First App to AWS | Feat. Kunal Verma | Live Project | #aws projects",
+      "duration": 3806
+    },
+    {
+      "id": "leWJypzVyQ4",
+      "title": "Day 13 | Top 15 AWS Services that Every DevOps Engineers should learn | #aws #devops",
+      "duration": 2139
+    },
+    {
+      "id": "I5_NF8nvACg",
+      "title": "Day-14 | Configuration Management With Ansible |Puppet vs Ansible |Live Projects | #ansible #devops",
+      "duration": 2202
+    },
+    {
+      "id": "Z6T2r3Xhk5k",
+      "title": "Day-15 | Ansible Zero to Hero | #ansible #devops",
+      "duration": 3351
+    },
+    {
+      "id": "G1BRnIHBBig",
+      "title": "Day-16 | Infrastructure as Code | #terraform #IaC",
+      "duration": 1265
+    },
+    {
+      "id": "CzdfdKWRDB8",
+      "title": "Day-17 |Everything about Terraform |Write Your First Project |Remote Backend |Modules |Interview Q&A",
+      "duration": 4673
+    },
+    {
+      "id": "CmVxoNkkACQ",
+      "title": "Day-18 | What is CICD ? | Introduction to CICD | How CICD works ? | #devops #abhishekveeramalla",
+      "duration": 2005
+    },
+    {
+      "id": "zZfhAXfBvVA",
+      "title": "Day-19 | Jenkins ZERO to HERO | 3 Projects Live |Docker Agent |Interview Questions | #k8s #gitops",
+      "duration": 3566
+    },
+    {
+      "id": "K3RqgDPCjYs",
+      "title": "Day-20 | GitHub Actions | Actions vs Jenkins | 3 Projects with examples | Configure your own runner",
+      "duration": 1339
+    },
+    {
+      "id": "Rb2pUKdmdYo",
+      "title": "GITHUB ACTIONS SELF HOSTED RUNNERS | ADD THIS PROJECT TO YOUR RESUME | #devops #cicd  #githubactions",
+      "duration": 1485
+    },
+    {
+      "id": "LAYV7x_aIC0",
+      "title": "Day-21 | CICD Interview Questions | GitHub Repo with Q&A #cicd #jenkins #github #gitlab #devops",
+      "duration": 1367
+    },
+    {
+      "id": "h4HdQBnEO04",
+      "title": "Day-22 | Project Management tools for DevOps | What a DevOps Engineer does in the first week ? #2023",
+      "duration": 1489
+    },
+    {
+      "id": "pUAadFQjnvc",
+      "title": "JIRA Workflow in Real Time for DevOps Projects | Agile & Scrum Explained | #abhishekveeramalla",
+      "duration": 2202
+    },
+    {
+      "id": "7JZP345yVjw",
+      "title": "Day-23 | Introduction to Containers | Learn about containers in easy way #docker #kubernetes #devops",
+      "duration": 1510
+    },
+    {
+      "id": "wodLpta-hoQ",
+      "title": "Day-24 | Docker Zero to Hero Part-1 | Must Watch | Basics to Best Practices | #docker #devops",
+      "duration": 2994
+    },
+    {
+      "id": "3IAvr_O6vao",
+      "title": "Day-25  | Docker Containerzation for Django | #django #python #devops",
+      "duration": 1714
+    },
+    {
+      "id": "yyJrZgoNal0",
+      "title": "Day-26 | Multi Stage Docker Builds | Reduce Image Size by 800 % | Distroless Container Images | #k8s",
+      "duration": 1891
+    },
+    {
+      "id": "r_LgmqejAkA",
+      "title": "Day-27 | Docker Volumes and Bind Mounts|Persistent Storage for Docker| #devopstutorialsforbeginners",
+      "duration": 2134
+    },
+    {
+      "id": "xrUGEoUpa3s",
+      "title": "Day-28 | Docker Networking | Bridge vs Host vs Overlay |Secure containers with custom bridge network",
+      "duration": 2004
+    },
+    {
+      "id": "I6ZBUEc4LrU",
+      "title": "Day-29 | Docker Interview Questions with Answers | How many can you answer ? | Comment your score",
+      "duration": 2296
+    },
+    {
+      "id": "eYzIPGHxnQo",
+      "title": "Docker Compose Beginner Level Guide with multiple examples | Docker Compose is Easy",
+      "duration": 3019
+    },
+    {
+      "id": "IUpsu2xemrA",
+      "title": "Containerizing a MERN Stack Application and Deploying using Docker Compose | Step by Step Guide",
+      "duration": 3005
+    },
+    {
+      "id": "dfxrdoEQe00",
+      "title": "Day-30 | KUBERNETES IS EASY  | INTRODUCTION TO KUBERNETES| #k8s #devopscourse #kubernetes #devops",
+      "duration": 2113
+    },
+    {
+      "id": "gywke3XiNC0",
+      "title": "Day-31 | KUBERNETES ARCHITECTURE USING EXAMPLES | Kubernetes is Easy #devops #k8s #devopscourse",
+      "duration": 1530
+    },
+    {
+      "id": "44Qk55E6CAA",
+      "title": "Day-32 | How to Manage Hundreds of Kubernetes clusters ??? | KOPS | #k8s #kubernetes #devops",
+      "duration": 1595
+    },
+    {
+      "id": "-rDT9m1RKSA",
+      "title": "Day-33 | KUBERNETES PODS | DEPLOY YOUR FIRST APP |  #k8s #devopscourse #kubernetes #devops",
+      "duration": 2111
+    },
+    {
+      "id": "lVKLkyuRWCY",
+      "title": "Day-34 | KUBERNETES DEPLOYMENT | REPLICASETS | #k8s #devopscourse #kubernetes #devops",
+      "duration": 1658
+    },
+    {
+      "id": "xY6Ic7Igzck",
+      "title": "DAY-35 | EVERYTHING ABOUT KUBERNETES SERVICES | DISCOVERY | LOAD BALANCING | NETWORKING | #devops",
+      "duration": 2077
+    },
+    {
+      "id": "0qy5JD7CbJ4",
+      "title": "Day-36 | KUBERNETES INTERVIEW QUESTIONS PART-1| What's Your Score ? |10/10| #kubernetes #devops #k8s",
+      "duration": 1743
+    },
+    {
+      "id": "fCX8O7GA_lY",
+      "title": "DAY-37 | KUBERNETES SERVICES DEEP DIVE| LIVE DEMO | LEARN TRAFFIC FLOW USING KUBESHARK | #kubernetes",
+      "duration": 2658
+    },
+    {
+      "id": "47ck6bh6dfI",
+      "title": "DAY-38 | KUBERNETES INGRESS | WATCH DEMO USING LINK IN DESCRIPTION | #kubernetes #devops #freecourse",
+      "duration": 2357
+    },
+    {
+      "id": "3YTU4EPjEh4",
+      "title": "Kubernetes Service, Ingress with TLS and Ingress Controllers with Live coding || #kubernetes #k8s",
+      "duration": 3280
+    },
+    {
+      "id": "1slRgW2IzJY",
+      "title": "INTRODUCTION TO K8s RBAC | 30 DAYS FREE OPENSHIFT CLUSTER | LEARN RBAC WITH REAL CLUSTER | #devops",
+      "duration": 1600
+    },
+    {
+      "id": "alGEPSQxbLg",
+      "title": "DAY-40 | KUBERNETES CUSTOM RESOURCES | CUSTOM CONTROLLER | DEEP DIVE & DETAILED EXPLANATION | #k8s",
+      "duration": 2350
+    },
+    {
+      "id": "f-DqMTxs5z8",
+      "title": "DAY-41 | KUBERNETES LIVE PROJECT | CONFIGMAPS & SECRETS | HOW TO USE CONFIGMAPS & SECRETS INSIDE POD",
+      "duration": 2286
+    },
+    {
+      "id": "EeiYpnBHnhY",
+      "title": "DAY-42 | KUBERNETES MONITORING USING PROMETHEUS & GRAFANA |LIVE DEMO |STEPS IN GITHUB | #kubernetes",
+      "duration": 2454
+    },
+    {
+      "id": "cgsBdVnMV-o",
+      "title": "DAY-43 | AWS LIVE PROJECT | DEPLOY APP USING HTTPD |Feat. Varun Bansal | #aws #devops #apache #http",
+      "duration": 3288
+    },
+    {
+      "id": "lomiPKIXdEo",
+      "title": "OSI Model Simplified | You will never forget OSI model after this",
+      "duration": 1859
+    },
+    {
+      "id": "jNPGo6A4VHc",
+      "title": "ULTIMATE CI/CD PIPELINE | JENKINS END TO END PROJECT ||#devopsinterviewquestions | #kubernetes #2023",
+      "duration": 1973
+    },
+    {
+      "id": "JGQI5pkK82w",
+      "title": "JENKINS END TO END CICD Implementation with Detailed Notes | BEST CICD PROJECT",
+      "duration": 5231
+    },
+    {
+      "id": "6yzNNG5t36Y",
+      "title": "DAY-44 | THE END OF FREE DEVOPS COURSE | WHAT'S NEXT ?? | THANK YOU | GRATITUDE NOTE | #devops",
+      "duration": 595
+    },
+    {
+      "id": "EG27AzlHolU",
+      "title": "You will never forget Kubernetes Gateway API after watching this.",
+      "duration": 3214
+    }
+  ]
+}

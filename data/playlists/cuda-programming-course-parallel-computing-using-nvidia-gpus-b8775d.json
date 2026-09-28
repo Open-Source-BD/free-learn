@@ -1,0 +1,205 @@
+{
+  "courseId": "cuda-programming-course-parallel-computing-using-nvidia-gpus-b8775d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:24.000Z",
+  "title": "CUDA Programming Course -- Parallel Computing using Nvidia GPUs",
+  "channel": "Learn Computer Science",
+  "videos": [
+    {
+      "id": "cvo3gnInQ7M",
+      "title": "L1 How to write the HelloWorld program in NVIDIA CUDA?  #cuda #nvidiagpus #gpucomputing",
+      "duration": 5395
+    },
+    {
+      "id": "wgoP4xITs2U",
+      "title": "L2 CUDA program flow and cudamemcopies #cuda #gpucomputing #nvidiagpus",
+      "duration": 5282
+    },
+    {
+      "id": "3753pgnKLnc",
+      "title": "L3 Thread organization and Thread block in CUDA #cuda #gpucomputing #nvidiagpus",
+      "duration": 5808
+    },
+    {
+      "id": "Z9K68s9ImJA",
+      "title": "L4 GPU computation Hierarchy and Matrix Squaring Thread Divergence #cuda #nvidiagpus #gpucomputing",
+      "duration": 3170
+    },
+    {
+      "id": "PuMXrkg09fM",
+      "title": "L5 Thread Divergence in CUDA continue #cuda #gpucomputing #nvidiagpus",
+      "duration": 4951
+    },
+    {
+      "id": "oSHJACJAlgA",
+      "title": "L6 Types of GPU memories, latency and locality #cuda #gpucomputing #nvidiagpus",
+      "duration": 5462
+    },
+    {
+      "id": "6Ulc8EMd_ww",
+      "title": "L7 Memory coalescing and AoS vs SoA #cuda #nvidiagpus #gpucomputing",
+      "duration": 5492
+    },
+    {
+      "id": "6IkIoxuG7Vo",
+      "title": "L8 Shared Memory in GPUs #cuda #gpucomputing #nvidiagpus",
+      "duration": 5579
+    },
+    {
+      "id": "ceNrQAdLUlU",
+      "title": "L9 Dynamic Shared Memory Bank Conflicts #cuda #nvidiagpus #gpucomputing",
+      "duration": 5529
+    },
+    {
+      "id": "JmE-wgsOtPM",
+      "title": "L10  Bank Conflicts Continue Texture, Constant Memory and Compute Capabilities #cuda",
+      "duration": 5566
+    },
+    {
+      "id": "bo9NBoDOldg",
+      "title": "L11 Data Race and Synchronization #cuda #gpucomputing #nvidiagpus",
+      "duration": 5729
+    },
+    {
+      "id": "GlioCYzBR_A",
+      "title": "L12 Mutual Exclusion #cuda #nvidiagpus #gpucomputing",
+      "duration": 5295
+    },
+    {
+      "id": "CUWzgaBNRco",
+      "title": "L13  Mutual Exclusion continue and atomics in CUDA #cuda #gpucomputing #nvidiagpus",
+      "duration": 5531
+    },
+    {
+      "id": "rym5QTw0Y9g",
+      "title": "L14 various Atomic functions and Barriers in CUDA #cuda #gpucomputing #nvidiagpus",
+      "duration": 5305
+    },
+    {
+      "id": "7uRnbY0-57o",
+      "title": "L15 Barriers, Reductions and Prefix sum in CUDA #cuda #nvidiagpus #gpucomputing",
+      "duration": 5463
+    },
+    {
+      "id": "5hed9uleQQE",
+      "title": "L16 Functions in CUDA #cuda #nvidiagpus #gpucomputing",
+      "duration": 5406
+    },
+    {
+      "id": "9G5yWq-usfk",
+      "title": "L17 Support in CUDA #cuda #gpucomputing #nvidiagpus",
+      "duration": 5027
+    },
+    {
+      "id": "LC5UdIJaw_g",
+      "title": "L18 CUDA Topics #cuda #nvidiagpus #gpucomputing",
+      "duration": 5889
+    },
+    {
+      "id": "Xknx97eo4ks",
+      "title": "L19 Multi dimensional arrays in CUDA #cuda #gpucomputing #nvidiagpus",
+      "duration": 4814
+    },
+    {
+      "id": "Iao5GSfvOdw",
+      "title": "High Performance Computing Unveiled #shorts",
+      "duration": 43
+    },
+    {
+      "id": "s6QpqrUJ0sM",
+      "title": "Harnessing GPU Power: A CUDA Programming Guide #shorts",
+      "duration": 48
+    },
+    {
+      "id": "MgfysgW516E",
+      "title": "CPU vs GPU: What's the Difference? #shorts  #cpu #gpu",
+      "duration": 37
+    },
+    {
+      "id": "8I1yeXEBTPA",
+      "title": "CUDA Hello World Explained in 50s! #shorts #cuda #gpus",
+      "duration": 49
+    },
+    {
+      "id": "YVWpTycoE2s",
+      "title": "L0 CUDA - How to run CUDA program? #nvidiagpus  #cuda  #gpucomputing",
+      "duration": 181
+    },
+    {
+      "id": "RceZBEFzWKA",
+      "title": "Understanding Data Races in 60 Seconds! #datarace #concurrency  #parallelprocessing",
+      "duration": 55
+    },
+    {
+      "id": "Cx4fJl79kF8",
+      "title": "Understanding Critical Sections in 60 secs! #parallelprocessing #operatingsystem #multithreading",
+      "duration": 59
+    },
+    {
+      "id": "PKAol3QOYNo",
+      "title": "How to parallelize loops with NVIDIA CUDA? #shorts  #gpucomputing #cuda #nvidiagpus",
+      "duration": 64
+    },
+    {
+      "id": "KEbsVRgA33I",
+      "title": "Understanding GPU program flow in 60 secs!! #shorts  #nvidiagpus #gpus #cpu",
+      "duration": 59
+    },
+    {
+      "id": "lJBaSZI77XE",
+      "title": "What is GPU? Explained in simple words. #shorts  #gpus  #gpucomputing",
+      "duration": 41
+    },
+    {
+      "id": "alEjKAEsZTo",
+      "title": "GPU vs TPU vs QPU vs DPU",
+      "duration": 241
+    },
+    {
+      "id": "YC5BBUpMkCM",
+      "title": "The World's Fastest Computer!",
+      "duration": 55
+    },
+    {
+      "id": "4W9XieEITVk",
+      "title": "Amdahl's Law explained in 50 secs!!",
+      "duration": 45
+    },
+    {
+      "id": "elSxOGFnzsg",
+      "title": "5 Parallel Computing Concepts You Must Know!",
+      "duration": 474
+    },
+    {
+      "id": "sBlSrRqusAk",
+      "title": "GPU Architecture -- Part 1",
+      "duration": 235
+    },
+    {
+      "id": "p5P_Oq2Q8WQ",
+      "title": "Synchronization in parallel computing #shorts",
+      "duration": 109
+    },
+    {
+      "id": "EgpHyhudZ4U",
+      "title": "GPU Architecture -- Part 2",
+      "duration": 198
+    },
+    {
+      "id": "pB1mGkSxfzI",
+      "title": "Why GPUs Crush CPUs for LLM Training?  #gpucomputing",
+      "duration": 93
+    },
+    {
+      "id": "OKJIBCQvH9w",
+      "title": "Is Moore's Law Dead? #mooreslaw",
+      "duration": 87
+    },
+    {
+      "id": "07ZX0R3wUoE",
+      "title": "CUDA Interview Questions & Answers",
+      "duration": 295
+    }
+  ]
+}

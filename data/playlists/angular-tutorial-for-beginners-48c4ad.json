@@ -1,0 +1,305 @@
+{
+  "courseId": "angular-tutorial-for-beginners-48c4ad",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:14.594Z",
+  "title": "Angular Tutorial For Beginners",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "0eWrpsCLMJQ",
+      "title": "Angular Tutorial - 1 - Introduction",
+      "duration": 376
+    },
+    {
+      "id": "FVPGJHinItI",
+      "title": "Angular Tutorial - 2 - Getting Started",
+      "duration": 255
+    },
+    {
+      "id": "mDoHtD1hI3I",
+      "title": "Angular Tutorial - 3 - Hello World App",
+      "duration": 473
+    },
+    {
+      "id": "16rQyEQtpyQ",
+      "title": "Angular Tutorial - 4 - Components",
+      "duration": 802
+    },
+    {
+      "id": "2a6OfacW_-I",
+      "title": "Angular Tutorial - 5 - Interpolation",
+      "duration": 488
+    },
+    {
+      "id": "N8FBmB2jme8",
+      "title": "Angular Tutorial - 6 - Property Binding",
+      "duration": 446
+    },
+    {
+      "id": "Y6OP-lPJxgs",
+      "title": "Angular Tutorial - 7 - Class Binding",
+      "duration": 386
+    },
+    {
+      "id": "q256X6-u9Q8",
+      "title": "Angular Tutorial - 8 - Style Binding",
+      "duration": 260
+    },
+    {
+      "id": "ZfIc1_oj7uM",
+      "title": "Angular Tutorial - 9 - Event Binding",
+      "duration": 319
+    },
+    {
+      "id": "Oo0-r_YhoJs",
+      "title": "Angular Tutorial - 10 - Template Reference Variables",
+      "duration": 183
+    },
+    {
+      "id": "DOWwWsbG1Sw",
+      "title": "Angular Tutorial - 11 - Two Way Binding",
+      "duration": 269
+    },
+    {
+      "id": "nWst87nQmZQ",
+      "title": "Angular Tutorial - 12 - ngIf Directive",
+      "duration": 429
+    },
+    {
+      "id": "WiDn2y1Ktws",
+      "title": "Angular Tutorial - 13 - ngSwitch Directive",
+      "duration": 158
+    },
+    {
+      "id": "Du3p6QYGs3A",
+      "title": "Angular Tutorial - 14 - ngFor Directive",
+      "duration": 277
+    },
+    {
+      "id": "BGy8DdGw_WE",
+      "title": "Angular Tutorial - 15 - Component Interaction",
+      "duration": 573
+    },
+    {
+      "id": "y8lwG8IM82k",
+      "title": "Angular Tutorial - 16 - Pipes",
+      "duration": 615
+    },
+    {
+      "id": "pwuGBvOPFYI",
+      "title": "Angular Tutorial - 17 - Services",
+      "duration": 331
+    },
+    {
+      "id": "OFPIGlxunL0",
+      "title": "Angular Tutorial - 18 - Dependency Injection",
+      "duration": 565
+    },
+    {
+      "id": "69VeYoKzL6I",
+      "title": "Angular Tutorial - 19 - Using a Service",
+      "duration": 519
+    },
+    {
+      "id": "vj0kUzKOgGQ",
+      "title": "Angular Tutorial - 20 - HTTP and Observables",
+      "duration": 461
+    },
+    {
+      "id": "LmIsbzt-S_E",
+      "title": "Angular Tutorial - 21 - Fetch Data Using HTTP",
+      "duration": 516
+    },
+    {
+      "id": "TmTGQiLBS5A",
+      "title": "Angular Tutorial - 22 - HTTP Error Handling",
+      "duration": 326
+    },
+    {
+      "id": "Nehk4tBxD4o",
+      "title": "Angular Tutorial - 23 - Routing and Navigation",
+      "duration": 771
+    },
+    {
+      "id": "QC6wRxXT26I",
+      "title": "Angular Tutorial - 24 - Wildcard Route and Redirecting Routes",
+      "duration": 451
+    },
+    {
+      "id": "qh5nHv-4aw0",
+      "title": "Angular Tutorial - 25 - Route Parameters",
+      "duration": 596
+    },
+    {
+      "id": "KRV9jZwl0Ig",
+      "title": "Angular Tutorial - 26 - paramMap Observable",
+      "duration": 397
+    },
+    {
+      "id": "gnTFkl2AF-w",
+      "title": "Angular Tutorial - 27 - Optional Route Parameters",
+      "duration": 461
+    },
+    {
+      "id": "qktmk-7Kot8",
+      "title": "Angular Tutorial - 28 - Relative Navigation",
+      "duration": 371
+    },
+    {
+      "id": "ZoeZxpfTCXk",
+      "title": "Angular Tutorial - 29 - Child Routes",
+      "duration": 418
+    },
+    {
+      "id": "RkV_LozGP3w",
+      "title": "Angular Tutorial - 30 - Angular 6 New Features  and Changes",
+      "duration": 605
+    },
+    {
+      "id": "ScaKGrW5s0I",
+      "title": "Angular 6 Tutorial - 31 - Updating your app to angular 6",
+      "duration": 1055
+    },
+    {
+      "id": "gRgdoCnEMHI",
+      "title": "Angular Tutorial - 32 - Angular 8 Features and Changes",
+      "duration": 536
+    },
+    {
+      "id": "nGr3C3wbh9c",
+      "title": "Angular Forms Tutorial - 1 - Introduction",
+      "duration": 141
+    },
+    {
+      "id": "1Zx2xb7F-c8",
+      "title": "Angular Forms Tutorial - 2 - Template Driven Forms",
+      "duration": 185
+    },
+    {
+      "id": "GKU0LtH8bzU",
+      "title": "Angular Forms Tutorial - 3 - Setting Up a New Project",
+      "duration": 298
+    },
+    {
+      "id": "xqqCPoEyoE0",
+      "title": "Angular Forms Tutorial - 4 - Adding Form HTML",
+      "duration": 293
+    },
+    {
+      "id": "iyabqUWYsz4",
+      "title": "Angular Forms Tutorial - 5 - Binding Data with ngForm",
+      "duration": 537
+    },
+    {
+      "id": "2cWPk2X79is",
+      "title": "Angular Forms Tutorial - 6 - Binding Data to a Model",
+      "duration": 467
+    },
+    {
+      "id": "WyWJwR0FJV0",
+      "title": "Angular Forms Tutorial - 7 - Tracking state and validity",
+      "duration": 539
+    },
+    {
+      "id": "kFHkztHm8xA",
+      "title": "Angular Forms Tutorial - 8 - Validation with Visual Feedback",
+      "duration": 419
+    },
+    {
+      "id": "U8FfRRLFmSY",
+      "title": "Angular Forms Tutorial - 9 - Displaying Error Messages",
+      "duration": 536
+    },
+    {
+      "id": "Ikn9eWLw3ys",
+      "title": "Angular Forms Tutorial - 10 - Select control validation",
+      "duration": 445
+    },
+    {
+      "id": "kiR3J3MoWV4",
+      "title": "Angular Forms Tutorial - 11 - Form validation",
+      "duration": 223
+    },
+    {
+      "id": "lmteIO2FQYA",
+      "title": "Angular Forms Tutorial - 12 - Submitting form data",
+      "duration": 352
+    },
+    {
+      "id": "jwA-9XXybdM",
+      "title": "Angular Forms Tutorial - 13 - Express Server to Receive Form Data",
+      "duration": 405
+    },
+    {
+      "id": "_sJHvvgfE9o",
+      "title": "Angular Forms Tutorial - 14 - Error Handling",
+      "duration": 231
+    },
+    {
+      "id": "3MLQ9Eb3QQE",
+      "title": "Angular Forms Tutorial - 15 - TDF and Reactive (Model Driven) Approach",
+      "duration": 193
+    },
+    {
+      "id": "lgatKVd03_U",
+      "title": "Angular Forms Tutorial - 16 - Reactive Forms",
+      "duration": 208
+    },
+    {
+      "id": "ruE1beZ7a0g",
+      "title": "Angular Forms Tutorial - 17 - Adding form HTML",
+      "duration": 181
+    },
+    {
+      "id": "-7hS1mZKT2Y",
+      "title": "Angular Forms Tutorial - 18 - Creating the Form Model",
+      "duration": 389
+    },
+    {
+      "id": "B0a3IIQckBw",
+      "title": "Angular Forms Tutorial - 19 - Nesting Form Groups",
+      "duration": 204
+    },
+    {
+      "id": "VWmvobkOjcU",
+      "title": "Angular Forms Tutorial - 20 - Managing Control Values",
+      "duration": 284
+    },
+    {
+      "id": "3_dFnULt3FA",
+      "title": "Angular Forms Tutorial - 21 - FormBuilder Service",
+      "duration": 222
+    },
+    {
+      "id": "ZQroyD2rLzY",
+      "title": "Angular Forms Tutorial - 22 - Simple Validation",
+      "duration": 637
+    },
+    {
+      "id": "nm-x8gsqB2E",
+      "title": "Angular Forms Tutorial - 23 - Custom Validation",
+      "duration": 545
+    },
+    {
+      "id": "dlVVYmntDnE",
+      "title": "Angular Forms Tutorial - 24 - Cross Field Validation",
+      "duration": 414
+    },
+    {
+      "id": "7y6GV3EeMHE",
+      "title": "Angular Forms Tutorial - 25 - Conditional Validation",
+      "duration": 440
+    },
+    {
+      "id": "4nJJQMxZkF0",
+      "title": "Angular Forms Tutorial - 26 - Dynamic Form Controls",
+      "duration": 427
+    },
+    {
+      "id": "bHcQx4hCF_0",
+      "title": "Angular Forms Tutorial - 27 - Submitting Form Data",
+      "duration": 503
+    }
+  ]
+}

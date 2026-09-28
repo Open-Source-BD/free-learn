@@ -1,0 +1,475 @@
+{
+  "courseId": "comptia-n10-008-network-plus-training-course-86f80a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:07.743Z",
+  "title": "CompTIA N10-008 Network+ Training Course",
+  "channel": "Professor Messer",
+  "videos": [
+    {
+      "id": "As6g6IXcVa4",
+      "title": "How to Pass Your N10-008 Network+ Exam",
+      "duration": 393
+    },
+    {
+      "id": "owDh6FNJUog",
+      "title": "Understanding the OSI Model - N10-008 CompTIA Network+ : 1.1",
+      "duration": 737
+    },
+    {
+      "id": "jKjVTPpcZT0",
+      "title": "Data Communication - N10-008 CompTIA Network+ : 1.1",
+      "duration": 767
+    },
+    {
+      "id": "nKMrAvl960I",
+      "title": "Network Topologies - N10-008 CompTIA Network+ : 1.2",
+      "duration": 418
+    },
+    {
+      "id": "6a-roIeJ_a4",
+      "title": "Network Types - N10-008 CompTIA Network+ : 1.2",
+      "duration": 870
+    },
+    {
+      "id": "bqJAbvKACN4",
+      "title": "WAN Termination - N10-008 CompTIA Network+ : 1.2",
+      "duration": 175
+    },
+    {
+      "id": "A29g5-Os-u8",
+      "title": "Virtual Networks - N10-008 CompTIA Network+ : 1.2",
+      "duration": 373
+    },
+    {
+      "id": "M2cJtZXJrpE",
+      "title": "Provider Links - N10-008 CompTIA Network+ : 1.2",
+      "duration": 383
+    },
+    {
+      "id": "UO57e6cv5SA",
+      "title": "Copper Cabling - N10-008 CompTIA Network+ : 1.3",
+      "duration": 566
+    },
+    {
+      "id": "sFYDo_qxRBE",
+      "title": "Optical Fiber - N10-008 CompTIA Network+ : 1.3",
+      "duration": 212
+    },
+    {
+      "id": "BGzg_ZwiSzc",
+      "title": "Network Connectors - N10-008 CompTIA Network+ : 1.3",
+      "duration": 420
+    },
+    {
+      "id": "TsZ_9CVTEuw",
+      "title": "Network Transceivers - N10-008 CompTIA Network+ : 1.3",
+      "duration": 454
+    },
+    {
+      "id": "CMfSiqvj9Dc",
+      "title": "Cable Management - N10-008 CompTIA Network+ : 1.3",
+      "duration": 429
+    },
+    {
+      "id": "QFZX8qWuepE",
+      "title": "Ethernet Standards - N10-008 CompTIA Network+ : 1.3",
+      "duration": 540
+    },
+    {
+      "id": "tEv2PKT5Lv8",
+      "title": "Binary Math - N10-008 CompTIA Network+ : 1.4",
+      "duration": 469
+    },
+    {
+      "id": "cHQCxQ_MC4E",
+      "title": "IPv4 Addressing - N10-008 CompTIA Network+ : 1.4",
+      "duration": 557
+    },
+    {
+      "id": "NkCx8AnzBaI",
+      "title": "Network Address Translation - N10-008 CompTIA Network+ : 1.4",
+      "duration": 436
+    },
+    {
+      "id": "CCrY5SYtbz8",
+      "title": "Network Communication - N10-008 CompTIA Network+ : 1.4",
+      "duration": 328
+    },
+    {
+      "id": "Q3wYfb3jnE8",
+      "title": "Classful Subnetting - N10-008 CompTIA Network+ : 1.4",
+      "duration": 766
+    },
+    {
+      "id": "7AGp1glJm8M",
+      "title": "IPv4 Subnet Masks - N10-008 CompTIA Network+ : 1.4",
+      "duration": 521
+    },
+    {
+      "id": "4kMGs9-HDEk",
+      "title": "Calculating IPv4 Subnets and Hosts - N10-008 CompTIA Network+ : 1.4",
+      "duration": 580
+    },
+    {
+      "id": "XMzLpGKTu50",
+      "title": "Magic Number Subnetting - N10-008 CompTIA Network+ : 1.4",
+      "duration": 1194
+    },
+    {
+      "id": "SWy0MRfkXpQ",
+      "title": "Seven-Second Subnetting - N10-008 CompTIA Network+ : 1.4",
+      "duration": 1212
+    },
+    {
+      "id": "mCo7Zg_0PP0",
+      "title": "IPv6 Addressing - N10-008 CompTIA Network+ : 1.4",
+      "duration": 798
+    },
+    {
+      "id": "Rgsn8Gwiu9w",
+      "title": "IPv6 Subnet Masks - N10-008 CompTIA Network+ : 1.4",
+      "duration": 306
+    },
+    {
+      "id": "S0dKMst-ED0",
+      "title": "Configuring IPv6 - N10-008 CompTIA Network+ : 1.4",
+      "duration": 358
+    },
+    {
+      "id": "NAI-gE51VXg",
+      "title": "Introduction to IP - N10-008 CompTIA Network+ : 1.5",
+      "duration": 849
+    },
+    {
+      "id": "fgC8hk4IfDk",
+      "title": "Common Ports - N10-008 CompTIA Network+ : 1.5",
+      "duration": 1024
+    },
+    {
+      "id": "K0o4XDkDRHA",
+      "title": "Other Useful Protocols - N10-008 CompTIA Network+ : 1.5",
+      "duration": 460
+    },
+    {
+      "id": "ED99yLmMMfw",
+      "title": "DHCP Overview - N10-008 CompTIA Network+ : 1.6",
+      "duration": 516
+    },
+    {
+      "id": "0Ddl90OXYFo",
+      "title": "Configuring DHCP - N10-008 CompTIA Network+ : 1.6",
+      "duration": 459
+    },
+    {
+      "id": "LNGOkJPd5pM",
+      "title": "An Overview of DNS - N10-008 CompTIA Network+ : 1.6",
+      "duration": 625
+    },
+    {
+      "id": "NijONS9gMZ0",
+      "title": "DNS Record Types - N10-008 CompTIA Network+ : 1.6",
+      "duration": 508
+    },
+    {
+      "id": "iBHRIu9MQr4",
+      "title": "An Overview of NTP - N10-008 CompTIA Network+ : 1.6",
+      "duration": 266
+    },
+    {
+      "id": "23H0nA-_4YE",
+      "title": "Network Architectures - N10-008 CompTIA Network+ : 1.7",
+      "duration": 594
+    },
+    {
+      "id": "prkPpAPm4lA",
+      "title": "Storage Area Networks - N10-008 CompTIA Network+ : 1.7",
+      "duration": 200
+    },
+    {
+      "id": "R6jV35zYB5U",
+      "title": "Cloud Models - N10-008 CompTIA Network+ : 1.8",
+      "duration": 408
+    },
+    {
+      "id": "CiNStlKYkk0",
+      "title": "Designing the Cloud - N10-008 CompTIA Network+ : 1.8",
+      "duration": 501
+    },
+    {
+      "id": "rWArzuqNLGM",
+      "title": "Networked Devices - N10-008 CompTIA Network+ : 2.1",
+      "duration": 374
+    },
+    {
+      "id": "hew1tfY-_D8",
+      "title": "Networking Devices - N10-008 CompTIA Network+ : 2.1",
+      "duration": 512
+    },
+    {
+      "id": "xohKfNxFy2s",
+      "title": "Advanced Networking Devices - N10-008 CompTIA Network+ : 2.1",
+      "duration": 710
+    },
+    {
+      "id": "RM_ME1cNJ54",
+      "title": "Dynamic Routing - N10-008 CompTIA Network+ : 2.2",
+      "duration": 491
+    },
+    {
+      "id": "HR59xk4umWY",
+      "title": "Routing Technologies - N10-008 CompTIA Network+ : 2.2",
+      "duration": 994
+    },
+    {
+      "id": "CZmGuPjJfQI",
+      "title": "Introduction to Ethernet - N10-008 CompTIA Network+ : 2.3",
+      "duration": 720
+    },
+    {
+      "id": "ND_wGVid51M",
+      "title": "Network Switching Overview - N10-008 CompTIA Network+ : 2.3",
+      "duration": 739
+    },
+    {
+      "id": "933KsYiuugg",
+      "title": "VLANs and Trunking - N10-008 CompTIA Network+ : 2.3",
+      "duration": 630
+    },
+    {
+      "id": "xYyVwH3dYsA",
+      "title": "Spanning Tree Protocol - N10-008 CompTIA Network+ : 2.3",
+      "duration": 412
+    },
+    {
+      "id": "lWMvYfyizLw",
+      "title": "Interface Configurations - N10-008 CompTIA Network+ : 2.3",
+      "duration": 502
+    },
+    {
+      "id": "3F-5lZ_3ZX4",
+      "title": "Straight-Through and Crossover Cables - N10-008 CompTIA Network+ : 2.3",
+      "duration": 412
+    },
+    {
+      "id": "JJyJQjCnYcM",
+      "title": "Wireless Standards - N10-008 CompTIA Network+ : 2.4",
+      "duration": 547
+    },
+    {
+      "id": "lgMs37e860E",
+      "title": "Wireless Technologies - N10-008 CompTIA Network+ : 2.4",
+      "duration": 982
+    },
+    {
+      "id": "9EOpXkUykAA",
+      "title": "Wireless Encryption - N10-008 CompTIA Network+ : 2.4",
+      "duration": 531
+    },
+    {
+      "id": "m1o7rS5q5Qo",
+      "title": "Cellular Standards - N10-008 CompTIA Network+ : 2.4",
+      "duration": 239
+    },
+    {
+      "id": "YPD4Prvam9w",
+      "title": "Performance Metrics - N10-008 CompTIA Network+ : 3.1",
+      "duration": 617
+    },
+    {
+      "id": "p0ZIQ2HhkH8",
+      "title": "SNMP - N10-008 CompTIA Network+ : 3.1",
+      "duration": 403
+    },
+    {
+      "id": "HQ_ehIXnw78",
+      "title": "Logs and Monitoring - N10-008 CompTIA Network+ : 3.1",
+      "duration": 681
+    },
+    {
+      "id": "SECh79s5bV4",
+      "title": "Plans and Procedures - N10-008 CompTIA Network+ : 3.2",
+      "duration": 568
+    },
+    {
+      "id": "MC-wWu9Q_jM",
+      "title": "Security Policies - N10-008 CompTIA Network+ : 3.2",
+      "duration": 528
+    },
+    {
+      "id": "ddB6y_f4ISM",
+      "title": "Network Documentation - N10-008 CompTIA Network+ : 3.2",
+      "duration": 565
+    },
+    {
+      "id": "49Z8OhvUWEc",
+      "title": "High Availability - N10-008 CompTIA Network+ : 3.3",
+      "duration": 557
+    },
+    {
+      "id": "umcY3Kar_wc",
+      "title": "Infrastructure Support - N10-008 CompTIA Network+ : 3.3",
+      "duration": 327
+    },
+    {
+      "id": "MgON2aJyf-0",
+      "title": "Recovery Sites - N10-008 CompTIA Network+ : 3.3",
+      "duration": 248
+    },
+    {
+      "id": "vnswgVeuiII",
+      "title": "Network Redundancy - N10-008 CompTIA Network+ : 3.3",
+      "duration": 342
+    },
+    {
+      "id": "ZepiOehImWQ",
+      "title": "Availability Concepts - N10-008 CompTIA Network+ : 3.3",
+      "duration": 188
+    },
+    {
+      "id": "3yqGCsuREfQ",
+      "title": "CIA Triad - N10-008 CompTIA Network+ : 4.1",
+      "duration": 254
+    },
+    {
+      "id": "4wsj_nEI1Ds",
+      "title": "Security Concepts - N10-008 CompTIA Network+ : 4.1",
+      "duration": 561
+    },
+    {
+      "id": "1nUXQHr4l9g",
+      "title": "Defense in Depth - N10-008 CompTIA Network+ : 4.1",
+      "duration": 602
+    },
+    {
+      "id": "-8P2fqO2nnA",
+      "title": "Authentication Methods - N10-008 CompTIA Network+ : 4.1",
+      "duration": 495
+    },
+    {
+      "id": "uPFEEpRp9Cc",
+      "title": "Risk Management - N10-008 CompTIA Network+ : 4.1",
+      "duration": 608
+    },
+    {
+      "id": "sgmxK1CxwKU",
+      "title": "Denial of Service - N10-008 CompTIA Network+ : 4.2",
+      "duration": 346
+    },
+    {
+      "id": "jdeAT8w9o38",
+      "title": "On-path Attacks - N10-008 CompTIA Network+ : 4.2",
+      "duration": 419
+    },
+    {
+      "id": "pDumMKDK4Wc",
+      "title": "VLAN Hopping - N10-008 CompTIA Network+ : 4.2",
+      "duration": 342
+    },
+    {
+      "id": "jUWgEowyvJE",
+      "title": "Spoofing - N10-008 CompTIA Network+ : 4.2",
+      "duration": 312
+    },
+    {
+      "id": "PMjTaxCkbjM",
+      "title": "Rogue Services - N10-008 CompTIA Network+ : 4.2",
+      "duration": 263
+    },
+    {
+      "id": "bdCXyxxssAo",
+      "title": "Malware and Ransomware - N10-008 CompTIA Network+ : 4.2",
+      "duration": 269
+    },
+    {
+      "id": "aA0s61Du85A",
+      "title": "Password Attacks - N10-008 CompTIA Network+ : 4.2",
+      "duration": 474
+    },
+    {
+      "id": "-fh37E_H3wM",
+      "title": "Deauthentication - N10-008 CompTIA Network+ : 4.2",
+      "duration": 296
+    },
+    {
+      "id": "Hdk3jOMFXsU",
+      "title": "Social Engineering - N10-008 CompTIA Network+ : 4.2",
+      "duration": 317
+    },
+    {
+      "id": "SbG3z1Pl8YY",
+      "title": "Network Hardening - N10-008 CompTIA Network+ : 4.3",
+      "duration": 1155
+    },
+    {
+      "id": "ThwWlZ3rbtM",
+      "title": "Wireless Security - N10-008 CompTIA Network+ : 4.3",
+      "duration": 565
+    },
+    {
+      "id": "nHUApn4wCPo",
+      "title": "Remote Access - N10-008 CompTIA Network+ : 4.4",
+      "duration": 634
+    },
+    {
+      "id": "kv_q6AflUKw",
+      "title": "Physical Security - N10-008 CompTIA Network+ : 4.5",
+      "duration": 638
+    },
+    {
+      "id": "L-hlrK9Dq7I",
+      "title": "Network Troubleshooting Methodology - N10-008 CompTIA Network+ : 5.1",
+      "duration": 395
+    },
+    {
+      "id": "Gf2shRh-5GU",
+      "title": "Cable Connectivity - N10-008 CompTIA Network+ : 5.2",
+      "duration": 676
+    },
+    {
+      "id": "wHo-IpFblio",
+      "title": "Wired Network Troubleshooting - N10-008 CompTIA Network+ : 5.2",
+      "duration": 792
+    },
+    {
+      "id": "4TPSHsqE15s",
+      "title": "Hardware Tools - N10-008 CompTIA Network+ : 5.2",
+      "duration": 1016
+    },
+    {
+      "id": "IIlgojrwjB4",
+      "title": "Software Tools - N10-008 CompTIA Network+ : 5.3",
+      "duration": 578
+    },
+    {
+      "id": "6t9C72BXQHw",
+      "title": "Command Line Tools - N10-008 CompTIA Network+ : 5.3",
+      "duration": 1262
+    },
+    {
+      "id": "LIofZvLd_04",
+      "title": "Wireless Troubleshooting - N10-008 CompTIA Network+ : 5.4",
+      "duration": 665
+    },
+    {
+      "id": "zyo5Iv6v3uU",
+      "title": "Common Wireless Issues - N10-008 CompTIA Network+ : 5.4",
+      "duration": 562
+    },
+    {
+      "id": "OKI4CIItKK8",
+      "title": "General Network Troubleshooting - N10-008 CompTIA Network+ : 5.5",
+      "duration": 477
+    },
+    {
+      "id": "XfvBsCcJ500",
+      "title": "Common Network Issues - Part 1 - N10-008 CompTIA Network+ : 5.5",
+      "duration": 848
+    },
+    {
+      "id": "W0Sm8mKwNII",
+      "title": "Common Network Issues - Part 2 - N10-008 CompTIA Network+ : 5.5",
+      "duration": 862
+    }
+  ]
+}

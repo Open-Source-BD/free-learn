@@ -1,0 +1,155 @@
+{
+  "courseId": "solidity-tutorial-46dd18",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:52.205Z",
+  "title": "Solidity Tutorial",
+  "channel": "EatTheBlocks",
+  "videos": [
+    {
+      "id": "p3C7jljTXaA",
+      "title": "Solidity Tutorial: Introduction",
+      "duration": 261
+    },
+    {
+      "id": "xxJfQJ5bMfw",
+      "title": "Solidity Tutorial: Remix IDE (new layout)",
+      "duration": 366
+    },
+    {
+      "id": "yzcp594R92c",
+      "title": "Solidity Tutorial: Structure of Smart contract",
+      "duration": 430
+    },
+    {
+      "id": "TNZLonjrLYE",
+      "title": "Solidity Tutorial - Variable Types",
+      "duration": 555
+    },
+    {
+      "id": "jPHXG82WCYA",
+      "title": "Solidity Tutorial: Declaring a function",
+      "duration": 253
+    },
+    {
+      "id": "SeQluFcMPTc",
+      "title": "Solidity Tutorial: Deploying a Smart Contract with Remix",
+      "duration": 419
+    },
+    {
+      "id": "OZVBfXb2Yfc",
+      "title": "Solidity Tutorial: Interacting with a Smart Contract with Remix",
+      "duration": 224
+    },
+    {
+      "id": "nep2-1Zzptk",
+      "title": "Solidity Tutorial: Function modifier keywords (view, pure, constant)",
+      "duration": 225
+    },
+    {
+      "id": "h3rgSRN-Y1M",
+      "title": "Solidity Tutorial: Function visibility (external, public, internal & private)",
+      "duration": 218
+    },
+    {
+      "id": "xQ987rtzWJc",
+      "title": "Solidity Tutorial: Variable Visibility (private, internal & public)",
+      "duration": 317
+    },
+    {
+      "id": "XiDs_UmEDG0",
+      "title": "Solidity Tutorial: Built-in Variables (msg.sender, msg.value...)",
+      "duration": 384
+    },
+    {
+      "id": "tjetRaSgY70",
+      "title": "Solidity Tutorial: Control Structures (if, for, while...)",
+      "duration": 485
+    },
+    {
+      "id": "MPBOnChpi0c",
+      "title": "Solidity Tutorial: Arrays (Declare, Read, Update, Delete)",
+      "duration": 860
+    },
+    {
+      "id": "U-wWqTq1zoQ",
+      "title": "Solidity Tutorial: Mappings (simple mappings, nested mappings, array in mappings...)",
+      "duration": 755
+    },
+    {
+      "id": "UkdU0cuAp9U",
+      "title": "Solidity Tutorial: Structs",
+      "duration": 533
+    },
+    {
+      "id": "5ED_6FasZ68",
+      "title": "Solidity Tutorial: Enums",
+      "duration": 244
+    },
+    {
+      "id": "jA_ykc6woig",
+      "title": "Solidity Tutorial: Memory vs Storage",
+      "duration": 460
+    },
+    {
+      "id": "jaMHPT-78HM",
+      "title": "Solidity Tutorial: Events",
+      "duration": 410
+    },
+    {
+      "id": "4k_ak3SFczc",
+      "title": "Solidity Tutorial: Sending Ether to a smart contract (function payable keyword)",
+      "duration": 411
+    },
+    {
+      "id": "_Nvl-gz-tRs",
+      "title": "Solidity Tutorial: Sending Ether FROM a smart contract to another contract / address",
+      "duration": 454
+    },
+    {
+      "id": "YxU87o4U5iw",
+      "title": "Solidity Tutorial: Call function of other contract",
+      "duration": 690
+    },
+    {
+      "id": "-5j6Ho0Bkfk",
+      "title": "Solidity Tutorial: ERC20 token transfers (transfer, transferFrom, approve)",
+      "duration": 662
+    },
+    {
+      "id": "ADVifGOanVU",
+      "title": "Solidity Tutorial: Constructor",
+      "duration": 375
+    },
+    {
+      "id": "Es0AfhcyXx0",
+      "title": "Solidity Tutorial: Create a smart contract... from a smart contract!",
+      "duration": 428
+    },
+    {
+      "id": "1Mi1ub9bIv8",
+      "title": "Solidity Tutorial: Error Handling (throw, revert, require, assert...)",
+      "duration": 599
+    },
+    {
+      "id": "RobaQulUzsY",
+      "title": "Solidity Tutorial: Modifier",
+      "duration": 342
+    },
+    {
+      "id": "5fjJxjX3vV0",
+      "title": "Solidity Tutorial: Fallback function",
+      "duration": 434
+    },
+    {
+      "id": "r4yKide6jiU",
+      "title": "Solidity Tutorial: Assembly",
+      "duration": 605
+    },
+    {
+      "id": "25MLAnIzXRw",
+      "title": "Solidity Tutorial: Library",
+      "duration": 449
+    }
+  ]
+}

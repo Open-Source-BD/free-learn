@@ -1,0 +1,510 @@
+{
+  "courseId": "pygame-python-game-development-09cee4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:09.090Z",
+  "title": "Pygame (Python Game Development) Playlist",
+  "channel": "thenewboston",
+  "videos": [
+    {
+      "id": "K5F-aGDIYaM",
+      "title": "Pygame (Python Game Development) Tutorial - 1 - Introduction",
+      "duration": 438
+    },
+    {
+      "id": "iLL2V1es52I",
+      "title": "Pygame (Python Game Development) Tutorial - 2 - Creating a Basic Framework",
+      "duration": 398
+    },
+    {
+      "id": "umHZ6wnQTyQ",
+      "title": "Pygame (Python Game Development) Tutorial - 3 - Events",
+      "duration": 405
+    },
+    {
+      "id": "nE5EeQPiznU",
+      "title": "Pygame (Python Game Development) Tutorial - 4 - Quit Event Handling",
+      "duration": 450
+    },
+    {
+      "id": "P8bx4nits-o",
+      "title": "Pygame (Python Game Development) Tutorial - 5 - Colors and Fill",
+      "duration": 518
+    },
+    {
+      "id": "OGDJdeiuB5M",
+      "title": "Pygame (Python Game Development) Tutorial - 6 - Draw Rect and Fill",
+      "duration": 395
+    },
+    {
+      "id": "pp2opCTPa0k",
+      "title": "Pygame (Python Game Development) Tutorial - 7 - Moving Rectangle",
+      "duration": 378
+    },
+    {
+      "id": "ldh13IP8GAY",
+      "title": "Pygame (Python Game Development) Tutorial - 8 - Moving Objects",
+      "duration": 343
+    },
+    {
+      "id": "pNjSyBlbl_Q",
+      "title": "Pygame (Python Game Development) Tutorial - 9 - Frames Per Second",
+      "duration": 503
+    },
+    {
+      "id": "BijaSsLMNOg",
+      "title": "Pygame (Python Game Development) Tutorial - 10 - More User Control",
+      "duration": 326
+    },
+    {
+      "id": "Fq74VE-JTWE",
+      "title": "Pygame (Python Game Development) Tutorial - 11 - Moving Up",
+      "duration": 409
+    },
+    {
+      "id": "EHOYMe2HS8M",
+      "title": "Pygame (Python Game Development) Tutorial - 12 - Boundaries",
+      "duration": 364
+    },
+    {
+      "id": "3PEywupqE_4",
+      "title": "Pygame (Python Game Development) Tutorial - 13 - Fixing the Hardcoding",
+      "duration": 395
+    },
+    {
+      "id": "PzG-fnci8uE",
+      "title": "Pygame (Python Game Development) Tutorial - 14 - Adding Text to the Screen",
+      "duration": 496
+    },
+    {
+      "id": "juRZLrUkDtU",
+      "title": "Pygame (Python Game Development) Tutorial - 15 - Game Over Functionality",
+      "duration": 556
+    },
+    {
+      "id": "ZFFA4lCUOEY",
+      "title": "Pygame (Python Game Development) Tutorial - 16 - Adding an Apple",
+      "duration": 398
+    },
+    {
+      "id": "L8VE7o4wkM0",
+      "title": "Pygame (Python Game Development) Tutorial - 17 - Eating the Apple",
+      "duration": 526
+    },
+    {
+      "id": "YE3kENV_CHk",
+      "title": "Pygame (Python Game Development) Tutorial - 18 - More Apples and Snake Functions",
+      "duration": 366
+    },
+    {
+      "id": "uj9msWzqRuo",
+      "title": "Pygame (Python Game Development) Tutorial - 19 - Snake Length Rules",
+      "duration": 396
+    },
+    {
+      "id": "4MUcUhL0tMw",
+      "title": "Pygame (Python Game Development) Tutorial - 20 - More Snake Functionality",
+      "duration": 266
+    },
+    {
+      "id": "fuyDyPeBZCM",
+      "title": "Pygame (Python Game Development) Tutorial - 21 - How to Lengthen the Snake",
+      "duration": 349
+    },
+    {
+      "id": "0HH-CDr-uog",
+      "title": "Pygame (Python Game Development) Tutorial - 22 - More Object Contact",
+      "duration": 555
+    },
+    {
+      "id": "Ww0onQ1_BbY",
+      "title": "Pygame (Python Game Development) Tutorial - 23 - Fixing Some Stuff",
+      "duration": 408
+    },
+    {
+      "id": "6cw4jFSmZdk",
+      "title": "Pygame (Python Game Development) Tutorial - 24 - Collision Detection",
+      "duration": 471
+    },
+    {
+      "id": "cBeKj2ZZ8TQ",
+      "title": "Pygame (Python Game Development) Tutorial - 25 - More Collision Detection",
+      "duration": 357
+    },
+    {
+      "id": "zuF9BF21578",
+      "title": "Pygame (Python Game Development) Tutorial - 26 - Finishing Up Collision Detection",
+      "duration": 411
+    },
+    {
+      "id": "t3eh6YiyCoQ",
+      "title": "Pygame (Python Game Development) Tutorial - 27 - Centering Text",
+      "duration": 384
+    },
+    {
+      "id": "d5RhJXNb9j0",
+      "title": "Pygame (Python Game Development) Tutorial - 28 - Drawing the Snakes Head",
+      "duration": 363
+    },
+    {
+      "id": "P4HGZthhkpg",
+      "title": "Pygame (Python Game Development) Tutorial - 29 - Attaching Snakes Head to Body",
+      "duration": 462
+    },
+    {
+      "id": "eyBGydhnesM",
+      "title": "Pygame (Python Game Development) Tutorial - 30 - Using Logic to Rotate Images",
+      "duration": 477
+    },
+    {
+      "id": "Zlobv5pmZTc",
+      "title": "Pygame (Python Game Development) Tutorial - 31 - Game Over Screen",
+      "duration": 357
+    },
+    {
+      "id": "YymI_oE458A",
+      "title": "Pygame (Python Game Development) Tutorial - 32 - Updating Menus and Fonts",
+      "duration": 402
+    },
+    {
+      "id": "aRMxsTWHiKs",
+      "title": "Pygame (Python Game Development) Tutorial - 33 - Start Screen",
+      "duration": 394
+    },
+    {
+      "id": "It8viQLa7E4",
+      "title": "Pygame (Python Game Development) Tutorial - 34 - Start Screen Logic",
+      "duration": 322
+    },
+    {
+      "id": "YlVGZOBLQiY",
+      "title": "Pygame (Python Game Development) Tutorial - 35 - Apple Sprite",
+      "duration": 369
+    },
+    {
+      "id": "j_YoIb242gk",
+      "title": "Pygame (Python Game Development) Tutorial - 36 - Creating a Game Icon",
+      "duration": 421
+    },
+    {
+      "id": "05Z79eROSkg",
+      "title": "Pygame (Python Game Development) Tutorial - 37 - randapple Function",
+      "duration": 296
+    },
+    {
+      "id": "Gyc5dMdP2uc",
+      "title": "Pygame (Python Game Development) Tutorial - 38 - Adding the Score",
+      "duration": 423
+    },
+    {
+      "id": "sDL7P2Jhlh8",
+      "title": "Pygame (Python Game Development) Tutorial - 39 - Pausing the Game",
+      "duration": 490
+    },
+    {
+      "id": "BIWqt6NICrw",
+      "title": "Pygame (Python Game Development) Tutorial - 40 - Converting to Executable",
+      "duration": 506
+    },
+    {
+      "id": "xz2q2GaTBYE",
+      "title": "Pygame (Python Game Development) Tutorial - 41 - Finish Converting to Executable",
+      "duration": 513
+    },
+    {
+      "id": "sjSeDtjNehQ",
+      "title": "Pygame (Python Game Development) Tutorial - 42 - Pause and Game Over Non-Clearing",
+      "duration": 369
+    },
+    {
+      "id": "me6FIFSkLHw",
+      "title": "Pygame (Python Game Development) Tutorial - 43 - Drawing Stuff",
+      "duration": 446
+    },
+    {
+      "id": "q0mZ2XgEdZM",
+      "title": "Pygame (Python Game Development) Tutorial - 44 - Drawing More Stuff",
+      "duration": 498
+    },
+    {
+      "id": "UHO2k-3sVcI",
+      "title": "Pygame (Python Game Development) Tutorial - 45 - Cleaning the Slate",
+      "duration": 468
+    },
+    {
+      "id": "D69T-pfI6LY",
+      "title": "Pygame (Python Game Development) Tutorial - 46 - Button Intro",
+      "duration": 444
+    },
+    {
+      "id": "kmXKFTu_IyQ",
+      "title": "Pygame (Python Game Development) Tutorial - 47 - Button Adding",
+      "duration": 368
+    },
+    {
+      "id": "-Uc5BKxwNGo",
+      "title": "Pygame (Python Game Development) Tutorial - 48 - Responsive Hover",
+      "duration": 395
+    },
+    {
+      "id": "hJYUvUJCEeI",
+      "title": "Pygame (Python Game Development) Tutorial - 49 - Button Functions",
+      "duration": 486
+    },
+    {
+      "id": "Sn4PEsrlrPU",
+      "title": "Pygame (Python Game Development) Tutorial - 50 - Button Actions",
+      "duration": 328
+    },
+    {
+      "id": "qznIo4Bc3Mg",
+      "title": "Pygame (Python Game Development) Tutorial - 51 - Button Press Events",
+      "duration": 297
+    },
+    {
+      "id": "Ox0HnIzLakE",
+      "title": "Pygame (Python Game Development) Tutorial - 52 - Controls Screen",
+      "duration": 435
+    },
+    {
+      "id": "tLFZfh-sW14",
+      "title": "Pygame (Python Game Development) Tutorial - 53 - Tank Turret",
+      "duration": 404
+    },
+    {
+      "id": "SGBvCireMxI",
+      "title": "Pygame (Python Game Development) Tutorial - 54 - Tank Body",
+      "duration": 381
+    },
+    {
+      "id": "mDtCToVf39Q",
+      "title": "Pygame (Python Game Development) Tutorial - 55 - Tank Guns and Wheels",
+      "duration": 657
+    },
+    {
+      "id": "AYls2ZpysjA",
+      "title": "Pygame (Python Game Development) Tutorial - 56 - Moving Tank Part 1",
+      "duration": 295
+    },
+    {
+      "id": "GcPbhGU95j4",
+      "title": "Pygame (Python Game Development) Tutorial - 57 - Moving Tank Part 2",
+      "duration": 322
+    },
+    {
+      "id": "02tk_sSxTgg",
+      "title": "Pygame (Python Game Development) Tutorial - 58 - Tank Turret Functionality",
+      "duration": 485
+    },
+    {
+      "id": "l-30guW0PsQ",
+      "title": "Pygame (Python Game Development) Tutorial - 59 - Moving the Turret Part 1",
+      "duration": 351
+    },
+    {
+      "id": "SfYkoFzmXo4",
+      "title": "Pygame (Python Game Development) Tutorial - 60 - Moving the Turret Part 2",
+      "duration": 365
+    },
+    {
+      "id": "wH5sNvNDkRc",
+      "title": "Pygame (Python Game Development) Tutorial - 61 - Barrier Part 1",
+      "duration": 253
+    },
+    {
+      "id": "hRv9Zu8u-ik",
+      "title": "Pygame (Python Game Development) Tutorial - 62 - Barrier Part 2",
+      "duration": 331
+    },
+    {
+      "id": "WnKUvfVE2R8",
+      "title": "Pygame (Python Game Development) Tutorial - 63 - Barrier Part 3",
+      "duration": 321
+    },
+    {
+      "id": "wzomhIXrkQY",
+      "title": "Pygame (Python Game Development) Tutorial - 64 - Barrier Part 4",
+      "duration": 417
+    },
+    {
+      "id": "dLWQ4vJFgqI",
+      "title": "Pygame (Python Game Development) Tutorial - 65 - Firing Part 1",
+      "duration": 404
+    },
+    {
+      "id": "NzyDu93kNMc",
+      "title": "Pygame (Python Game Development) Tutorial - 66 - Firing Part 2",
+      "duration": 476
+    },
+    {
+      "id": "uvuLlsWbDS4",
+      "title": "Pygame (Python Game Development) Tutorial - 67 - Firing Part 3",
+      "duration": 589
+    },
+    {
+      "id": "AZzTc_IEajw",
+      "title": "Pygame (Python Game Development) Tutorial - 68 - Fire Power Part 1",
+      "duration": 478
+    },
+    {
+      "id": "HJKi5Wyo-Ek",
+      "title": "Pygame (Python Game Development) Tutorial - 69 - Fire Power Part 2",
+      "duration": 415
+    },
+    {
+      "id": "xthD0lMTIPY",
+      "title": "Pygame (Python Game Development) Tutorial - 70 - Shell Collision",
+      "duration": 394
+    },
+    {
+      "id": "ukKDZkebRow",
+      "title": "Pygame (Python Game Development) Tutorial - 71 - Shell Explosion",
+      "duration": 437
+    },
+    {
+      "id": "xa6kpf_CTzM",
+      "title": "Pygame (Python Game Development) Tutorial - 72 - Hitting Barrier",
+      "duration": 555
+    },
+    {
+      "id": "dy1tzeqz9JA",
+      "title": "Pygame (Python Game Development) Tutorial - 73 - Adding Ground",
+      "duration": 380
+    },
+    {
+      "id": "zBmpM2DwkoM",
+      "title": "Pygame (Python Game Development) Tutorial - 74 - Enemy Tank Part 1",
+      "duration": 393
+    },
+    {
+      "id": "tt7eY4lPRU4",
+      "title": "Pygame (Python Game Development) Tutorial - 75 - Enemy Tank Part 2",
+      "duration": 456
+    },
+    {
+      "id": "wm0FF-g5Z1k",
+      "title": "Pygame (Python Game Development) Tutorial - 76 - Enemy Tank Fire",
+      "duration": 756
+    },
+    {
+      "id": "TcnWjyHVaOs",
+      "title": "Pygame (Python Game Development) Tutorial - 77 - Health Bars",
+      "duration": 474
+    },
+    {
+      "id": "J5TuuuZwQwI",
+      "title": "Pygame (Python Game Development) Tutorial - 78 - Damage",
+      "duration": 475
+    },
+    {
+      "id": "9lgc4kfGxq0",
+      "title": "Pygame (Python Game Development) Tutorial - 79 - Game Over and Win",
+      "duration": 373
+    },
+    {
+      "id": "PvlVs5EhHEM",
+      "title": "Pygame (Python Game Development) Tutorial - 80 - Enemy Randomness",
+      "duration": 399
+    },
+    {
+      "id": "rAHNAi_UIew",
+      "title": "Pygame (Python Game Development) Tutorial - 81 - Hit Strength",
+      "duration": 338
+    },
+    {
+      "id": "43U5ZiIptEs",
+      "title": "Pygame (Python Game Development) Tutorial - 82 - Enemy Tank Movement",
+      "duration": 489
+    },
+    {
+      "id": "FLAVoB8mpgo",
+      "title": "Pygame (Python Game Development) Tutorial - 83 - Sounds",
+      "duration": 464
+    },
+    {
+      "id": "5QoMTFjhpkw",
+      "title": "Pygame (Python Game Development) Tutorial - 84 - Fixing Power and Barrier",
+      "duration": 265
+    },
+    {
+      "id": "SmxMw37pqJ8",
+      "title": "Pygame (Python Game Development) Tutorial - 85 - Pseudo 3D Intro",
+      "duration": 463
+    },
+    {
+      "id": "AeL1rPKDdIw",
+      "title": "Pygame (Python Game Development) Tutorial - 86 - Pseudo 3D Square",
+      "duration": 543
+    },
+    {
+      "id": "ppfJY6nMLfE",
+      "title": "Pygame (Python Game Development) Tutorial - 87 - Pseudo 3D Zoom",
+      "duration": 519
+    },
+    {
+      "id": "OHBnboDZ8sQ",
+      "title": "Pygame (Python Game Development) Tutorial - 88 - Cube",
+      "duration": 550
+    },
+    {
+      "id": "NqPIVnbCFek",
+      "title": "Pygame (Python Game Development) Tutorial - 89 - X Axis Perspective",
+      "duration": 544
+    },
+    {
+      "id": "uGUJlfwDJ3w",
+      "title": "Pygame (Python Game Development) Tutorial - 90 - Y Axis Perspective",
+      "duration": 284
+    },
+    {
+      "id": "Snl7UwuMoD4",
+      "title": "Pygame (Python Game Development) Tutorial - 91 - OpenGL Intro",
+      "duration": 394
+    },
+    {
+      "id": "If9bTeh4o7w",
+      "title": "Pygame (Python Game Development) Tutorial - 92 - Defining Vertices and Edges",
+      "duration": 413
+    },
+    {
+      "id": "kitNq9O4zio",
+      "title": "Pygame (Python Game Development) Tutorial - 93 - OpenGL Block",
+      "duration": 290
+    },
+    {
+      "id": "XmomghI-ti4",
+      "title": "Pygame (Python Game Development) Tutorial - 94 - OpenGL Main Loop",
+      "duration": 332
+    },
+    {
+      "id": "K49lqNTClnM",
+      "title": "Pygame (Python Game Development) Tutorial - 95 - OpenGL Display Cube",
+      "duration": 447
+    },
+    {
+      "id": "TU-wZWuWJI8",
+      "title": "Pygame (Python Game Development) Tutorial - 96 - PyOpenGL Display Rules",
+      "duration": 511
+    },
+    {
+      "id": "pS3Y6ehQpgM",
+      "title": "Pygame (Python Game Development) Tutorial - 97 - Understanding Parameters",
+      "duration": 348
+    },
+    {
+      "id": "XTHUKqZYRiY",
+      "title": "Pygame (Python Game Development) Tutorial - 98 - Zoom",
+      "duration": 284
+    },
+    {
+      "id": "3DKhu1pIMFk",
+      "title": "Pygame (Python Game Development) Tutorial - 99 - Colors",
+      "duration": 398
+    },
+    {
+      "id": "VJRQSVMNKLA",
+      "title": "Pygame (Python Game Development) Tutorial - 100 - Conclusion",
+      "duration": 278
+    }
+  ]
+}

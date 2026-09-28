@@ -1,0 +1,25 @@
+{
+  "courseId": "random-forests-ac759e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:52.314Z",
+  "title": "Random Forests",
+  "channel": "StatQuest with Josh Starmer",
+  "videos": [
+    {
+      "id": "J4Wdy0Wc_xQ",
+      "title": "StatQuest: Random Forests Part 1 - Building, Using and Evaluating",
+      "duration": 594
+    },
+    {
+      "id": "mIlw5j3WyVk",
+      "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
+      "duration": 648
+    },
+    {
+      "id": "6EXPYzbfLCE",
+      "title": "StatQuest: Random Forests in R",
+      "duration": 910
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "courseId": "free-flutter-animations-course-c621fc",
+  "sourceUrl": "https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:09.902Z",
+  "title": "Flutter Animation Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "OtrWXLfGtqE",
+      "title": "Flutter Animation Tutorial #1 - Intro & Setup",
+      "duration": 872
+    },
+    {
+      "id": "sZw8opj38Vo",
+      "title": "Flutter Animation Tutorial #2 - Built-in Animations",
+      "duration": 852
+    },
+    {
+      "id": "G5fEzO2PprM",
+      "title": "Flutter Animation Tutorial #3 - Tween Animation Builder",
+      "duration": 507
+    },
+    {
+      "id": "4naljQa5QA8",
+      "title": "Flutter Animation Tutorial #4 - Hero Animations",
+      "duration": 302
+    },
+    {
+      "id": "ENJaLMUxdmg",
+      "title": "Flutter Animation Tutorial #5 - Dart Mixins (Primer)",
+      "duration": 525
+    },
+    {
+      "id": "k5BDKI7R6ag",
+      "title": "Flutter Animation Tutorial #6 - Animation Controllers",
+      "duration": 1289
+    },
+    {
+      "id": "FSbt7kx42q0",
+      "title": "Flutter Animation Tutorial #7 - Tween Sequences",
+      "duration": 379
+    },
+    {
+      "id": "d0wsoY6meBY",
+      "title": "Flutter Animation Tutorial #8 - Curves",
+      "duration": 472
+    },
+    {
+      "id": "i9g2kSuWutk",
+      "title": "Flutter Animation Tutorial #9 - Animated Lists",
+      "duration": 540
+    },
+    {
+      "id": "um0M3CYYLh8",
+      "title": "Flutter Animation Tutorial #10 - Stagger List Animations",
+      "duration": 381
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "courseId": "learn-blockchain-78bc47",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:44.123Z",
+  "title": "Learn Blockchain",
+  "channel": "ROOMYAN",
+  "videos": [
+    {
+      "id": "C6o-L1wvfsE",
+      "title": "Learn Blockchain | Full course Beginner to Expert | Introduction",
+      "duration": 33
+    },
+    {
+      "id": "ZfPQjlHoiRY",
+      "title": "What is Blockchain | Learn Blockchain | Section 1 | Part 1",
+      "duration": 232
+    },
+    {
+      "id": "zaDH3zvO2dE",
+      "title": "Hash Cryptography| SHA 256 | Learn Blockchain | Section 1 | Part 2",
+      "duration": 327
+    },
+    {
+      "id": "NDGR1hd7vrA",
+      "title": "Immutable Ledger | Learn Blockchain | Section 1 | Part 3",
+      "duration": 278
+    },
+    {
+      "id": "gApG3t8xLSY",
+      "title": "Distributed Peer to Peer Network | Learn Blockchain | Section 1 | Part 4",
+      "duration": 259
+    },
+    {
+      "id": "Pad8gLLD0ZI",
+      "title": "How Mining works Part 1 |  Learn Blockchain | Section 1 | Part 5",
+      "duration": 184
+    },
+    {
+      "id": "2-08Xs7JlE0",
+      "title": "How Mining works Part 2 |  Learn Blockchain | Section 1 | Part 6",
+      "duration": 386
+    },
+    {
+      "id": "jYkGpLi_EAA",
+      "title": "Byzantine Fault Tolerance|  Learn Blockchain | Section 1 | Part 7",
+      "duration": 375
+    },
+    {
+      "id": "HyesI-GgXEU",
+      "title": "Consensus Protocol | Part 1- Protect Against Attackers|  Learn Blockchain | Section 1 | Part 8",
+      "duration": 353
+    },
+    {
+      "id": "Gw89LCEI2F0",
+      "title": "Consensus Protocol | Part 2- Competing Chains|  Learn Blockchain | Section 1 | Part 9",
+      "duration": 193
+    },
+    {
+      "id": "4ddaxtZq4LQ",
+      "title": "Blockchain Demo |  Learn Blockchain | Section 1 | Part 10",
+      "duration": 530
+    },
+    {
+      "id": "ayGRw0lo5sM",
+      "title": "What is Bitcoin ? |  Learn Blockchain | Section 2 | Part 1",
+      "duration": 339
+    },
+    {
+      "id": "aez8fogjjEE",
+      "title": "Bitcoin's Monetary Policy |  Learn Blockchain | Section 2 | Part 2",
+      "duration": 304
+    },
+    {
+      "id": "lsL0hcKChOU",
+      "title": "Mining Difficulty |  Learn Blockchain | Section 2 | Part 3",
+      "duration": 304
+    },
+    {
+      "id": "vh-GHZryzuI",
+      "title": "Mining Pools | Learn Blockchain | Section 2 | Part 4",
+      "duration": 306
+    },
+    {
+      "id": "jUVH7Ei-wEk",
+      "title": "Nonce Range | Learn Blockchain | Section 2 | Part 5",
+      "duration": 341
+    },
+    {
+      "id": "xlW2KUSL-8I",
+      "title": "How Miners pick transactions | Learn Blockchain | Section 2 | Part 6",
+      "duration": 279
+    },
+    {
+      "id": "QZuUaxz0k80",
+      "title": "How Miners pick transactions | Learn Blockchain | Section 2 | Part 7",
+      "duration": 324
+    },
+    {
+      "id": "KQOTMQ_3q4Q",
+      "title": "How do Mempool works ?  | Learn Blockchain | Section 2 | Part 8",
+      "duration": 356
+    },
+    {
+      "id": "tBVX3EEkMts",
+      "title": "Orphaned Blocks | Learn Blockchain | Section 2 | Part 9",
+      "duration": 191
+    },
+    {
+      "id": "FV6woRN3gac",
+      "title": "51% Attack | Learn Blockchain | Section 2 | Part 10",
+      "duration": 372
+    },
+    {
+      "id": "Dj1uAdIQkGE",
+      "title": "Transactions and UTXOs | Learn Blockchain | Section 2 | Part 11",
+      "duration": 198
+    },
+    {
+      "id": "FJ-Pjb31Pa4",
+      "title": "Where do transaction fees come from ? | Learn Blockchain | Section 2 | Part 12",
+      "duration": 130
+    },
+    {
+      "id": "x8WOG1TbUBM",
+      "title": "How wallet works? | Learn Blockchain | Section 2 | Part 13",
+      "duration": 142
+    },
+    {
+      "id": "wsNgwAXp04M",
+      "title": "Signatures: Private and Public Keys | Learn Blockchain | Section 2 | Part 14",
+      "duration": 247
+    },
+    {
+      "id": "mt86gWVV3DE",
+      "title": "Demo Signatures: Private and Public Keys | Learn Blockchain | Section 2 | Part 15",
+      "duration": 338
+    },
+    {
+      "id": "qTZDuWNlQ1c",
+      "title": "What is Segregated Witness ? |  Learn Blockchain | Section 2 | Part 16",
+      "duration": 203
+    },
+    {
+      "id": "DmWkKj_QV34",
+      "title": "Public Key vs Bitcoin Address | Learn Blockchain | Section 2 | Part 17",
+      "duration": 141
+    },
+    {
+      "id": "Aoi0L0oVLWs",
+      "title": "Hierarchically Deterministic HD Wallets | Learn Blockchain | Section 2 | Part 18",
+      "duration": 282
+    },
+    {
+      "id": "eLb2-ejS_7Q",
+      "title": "What is Ethereum ? | Learn Blockchain | Section 3 | Part 1",
+      "duration": 207
+    },
+    {
+      "id": "T26qjbEgm6w",
+      "title": "What is a Smart Contract ? | Learn Blockchain | Section 3 | Part 2",
+      "duration": 291
+    },
+    {
+      "id": "NPk4dpVwJuc",
+      "title": "Decentralized Applications (DAPPS) | Learn Blockchain | Section 3 | Part 3",
+      "duration": 110
+    },
+    {
+      "id": "9F4t_LQQSKY",
+      "title": "Ethereum Virtual Machine & Gas | Learn Blockchain | Section 3 | Part 4",
+      "duration": 283
+    },
+    {
+      "id": "W_uh4K3po2M",
+      "title": "Decentralized Autonomous Organizations | DAOs | Learn Blockchain | Section 3 | Part 5",
+      "duration": 206
+    },
+    {
+      "id": "yDwSt5Amdo0",
+      "title": "The DAO Attack |  Learn Blockchain | Section 3 | Part 6",
+      "duration": 265
+    },
+    {
+      "id": "Zx8IwYUZou0",
+      "title": "Soft & Hard Fork part 1 | Learn Blockchain | Section 3 | Part 7",
+      "duration": 299
+    },
+    {
+      "id": "7w2mk8T8PRI",
+      "title": "Soft & Hard Fork part 2 | Learn Blockchain | Section 3 | Part 8",
+      "duration": 397
+    },
+    {
+      "id": "B_UeKyqmpG0",
+      "title": "Initial Coin Offerings | ICOs | Learn Blockchain | Section 3 | Part 9",
+      "duration": 264
+    },
+    {
+      "id": "b_zgR9rORxo",
+      "title": "Blockchain & Web 3.0 | Learn Blockchain | Section 3 | Part 10",
+      "duration": 235
+    }
+  ]
+}

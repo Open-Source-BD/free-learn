@@ -1,0 +1,335 @@
+{
+  "courseId": "data-structure-and-algorithm-98ac57",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:19.929Z",
+  "title": "Data Structure and Algorithm",
+  "channel": "Lalit Vashishtha",
+  "videos": [
+    {
+      "id": "GbOW74e4xZE",
+      "title": "WORST CASE TIME COMPLEXITY OF AN ALGORITHM 1",
+      "duration": 1131
+    },
+    {
+      "id": "SmuVOSyB5Ss",
+      "title": "WORST CASE TIME COMPLEXITY OF AN ALGORITHM 2",
+      "duration": 859
+    },
+    {
+      "id": "WX2qWdkbFA8",
+      "title": "WORST CASE TIME COMPLEXITY OF AN ALGORITHM 3",
+      "duration": 755
+    },
+    {
+      "id": "1x6ZfXl7oFY",
+      "title": "FINDING THE ADDRESS OF AN ELEMENT IN ROW MAJOR ORDERING IN A MATRIX",
+      "duration": 969
+    },
+    {
+      "id": "ckHXvjqkERs",
+      "title": "FINDING THE ADDRESS OF AN ELEMENT IN COLUMN MAJOR ORDERING IN A MATRIX",
+      "duration": 1078
+    },
+    {
+      "id": "7GWkeZlCCUY",
+      "title": "Pointers in C",
+      "duration": 1191
+    },
+    {
+      "id": "mMkqhXP_6Hs",
+      "title": "Pointer arithmetic",
+      "duration": 1338
+    },
+    {
+      "id": "7EAgA9Ulhoc",
+      "title": "PRECEDENCE OF DEREFERANCING OPERATOR",
+      "duration": 497
+    },
+    {
+      "id": "-liyAWwtf0c",
+      "title": "POINTER TO POINTER IN C",
+      "duration": 601
+    },
+    {
+      "id": "zKmvDm0IAdo",
+      "title": "Passing values of the variables to the function",
+      "duration": 647
+    },
+    {
+      "id": "Xh9tOH4zT30",
+      "title": "Passing the reference of the variables to the function",
+      "duration": 654
+    },
+    {
+      "id": "JJqfP_F6PXc",
+      "title": "Example on Call by reference",
+      "duration": 554
+    },
+    {
+      "id": "1RbcsSq-J0I",
+      "title": "Dynamic memory allocation using malloc( ) function",
+      "duration": 761
+    },
+    {
+      "id": "yBosBtssIj0",
+      "title": "Dynamic memory allocation using realloc( ) function",
+      "duration": 451
+    },
+    {
+      "id": "7OLeFH0GOZw",
+      "title": "Structure",
+      "duration": 661
+    },
+    {
+      "id": "T9lBzghJyNo",
+      "title": "CREATION AND DISPLAY OF  LINKED LIST",
+      "duration": 1074
+    },
+    {
+      "id": "IZMlH_iVse4",
+      "title": "INSERTION IN A LINKED LIST",
+      "duration": 671
+    },
+    {
+      "id": "k2bkkxX2LLY",
+      "title": "INSERTION IN A  LINKED LIST PROGRAM",
+      "duration": 954
+    },
+    {
+      "id": "8JIO23gws6g",
+      "title": "DELETION OF A NODE FROM A  LINKED LIST PROGRAM",
+      "duration": 731
+    },
+    {
+      "id": "4MxW1MZgj08",
+      "title": "REVERSING  A SINGLE  LINKED LIST",
+      "duration": 659
+    },
+    {
+      "id": "gJx6NN8mR4I",
+      "title": "Sorted Link List",
+      "duration": 1022
+    },
+    {
+      "id": "E9cS_qiI2vM",
+      "title": "Circular linked list creation",
+      "duration": 712
+    },
+    {
+      "id": "r2-uLJmmnBo",
+      "title": "Display function in Circular Linked list",
+      "duration": 295
+    },
+    {
+      "id": "QVEF_7sdL_E",
+      "title": "Insertion in beginning in Circular Linked list",
+      "duration": 302
+    },
+    {
+      "id": "bitI-mhFgqA",
+      "title": "Insertion in last in Circular linked list",
+      "duration": 332
+    },
+    {
+      "id": "CKc0DlxiUU0",
+      "title": "Insertion of a node after some position in a circular linked list",
+      "duration": 570
+    },
+    {
+      "id": "d_ldqSNLv1E",
+      "title": "Deletion of the only node in Circular linked list",
+      "duration": 187
+    },
+    {
+      "id": "f076ymuMRkA",
+      "title": "Deletion of the first node in the Circular linked list",
+      "duration": 171
+    },
+    {
+      "id": "_enS1NwByOw",
+      "title": "Deletion of a node in between first and last",
+      "duration": 250
+    },
+    {
+      "id": "zjtRFL7dQQk",
+      "title": "Deletion of last node from a circular linked list",
+      "duration": 299
+    },
+    {
+      "id": "gpUdjPicnOA",
+      "title": "Double linked list creation",
+      "duration": 780
+    },
+    {
+      "id": "Uhivr3lWCMU",
+      "title": "Display code of double linked list",
+      "duration": 284
+    },
+    {
+      "id": "4ZnzGtQbVnI",
+      "title": "Insertion of a node in beginning in Double linked list",
+      "duration": 304
+    },
+    {
+      "id": "gIgx2nCAInk",
+      "title": "Insertion of a node after some position in double linked list",
+      "duration": 314
+    },
+    {
+      "id": "Ii4sZ7JO9RY",
+      "title": "Insertion of a node at last in Double linked list",
+      "duration": 231
+    },
+    {
+      "id": "Bp912jg45iM",
+      "title": "Deletion of a node from double linked list",
+      "duration": 834
+    },
+    {
+      "id": "NKc7i7NUn00",
+      "title": "Stack implementation using array",
+      "duration": 830
+    },
+    {
+      "id": "c1W808u1bdY",
+      "title": "Push operation in stack using linked list",
+      "duration": 374
+    },
+    {
+      "id": "8XJlSbVKK6Y",
+      "title": "Popping an element from the stack using linked list",
+      "duration": 236
+    },
+    {
+      "id": "Fa4hQvNGdZU",
+      "title": "Display the elements of the stack",
+      "duration": 288
+    },
+    {
+      "id": "FDbuEXekb8c",
+      "title": "Queue implementation using linked list (insertion)",
+      "duration": 704
+    },
+    {
+      "id": "VqzBHosB9b8",
+      "title": "Deletion from queue using linked list",
+      "duration": 174
+    },
+    {
+      "id": "EWHjsRteka0",
+      "title": "Display the elements in queue using linked list",
+      "duration": 223
+    },
+    {
+      "id": "B2sPkHn-W8g",
+      "title": "Insertion in circular queue using circular linked list",
+      "duration": 509
+    },
+    {
+      "id": "GZKHgfbQ1CQ",
+      "title": "Deletion from circular queue",
+      "duration": 191
+    },
+    {
+      "id": "iyis_zVckSk",
+      "title": "Display the elements of circular queue",
+      "duration": 243
+    },
+    {
+      "id": "3PllQ73JSrs",
+      "title": "Tree Basics 1",
+      "duration": 724
+    },
+    {
+      "id": "SlevcwZqX48",
+      "title": "Tree  Basics 2",
+      "duration": 238
+    },
+    {
+      "id": "4wfKnSyKVzk",
+      "title": "Traversal of a tree  Pre, post and inorder 1",
+      "duration": 459
+    },
+    {
+      "id": "JiiwuD_E2YI",
+      "title": "Traversal of a tree  Pre, post and inorder 2",
+      "duration": 746
+    },
+    {
+      "id": "qKS56CIWsp4",
+      "title": "Creation of binary tree using pre-order and in-order traversals 1",
+      "duration": 292
+    },
+    {
+      "id": "NwRIpY_IkCc",
+      "title": "Creation of binary tree using preorder and inorder traversals2",
+      "duration": 271
+    },
+    {
+      "id": "cNgzkiroUs8",
+      "title": "Creation of binary tree using postorder and inorder traversals1",
+      "duration": 269
+    },
+    {
+      "id": "TMetEKvjdhE",
+      "title": "Creation of binary tree using postorder and inorder traversals2",
+      "duration": 243
+    },
+    {
+      "id": "co-BrohEIw4",
+      "title": "Binary Search Tree (BST)",
+      "duration": 283
+    },
+    {
+      "id": "4t_J9goWfHQ",
+      "title": "Construction of BST and deletion of nodes",
+      "duration": 362
+    },
+    {
+      "id": "j4Q8g2Yb-Yo",
+      "title": "Creation of BST from its preorder traversal",
+      "duration": 272
+    },
+    {
+      "id": "17YmeAQO9hU",
+      "title": "AVL or Balanced BST and balanced factor",
+      "duration": 737
+    },
+    {
+      "id": "cfBjvOIeJdM",
+      "title": "Construction of AVL tree 1",
+      "duration": 1128
+    },
+    {
+      "id": "_s0sRIJUQRM",
+      "title": "Consstruction of  AVL tree 2",
+      "duration": 414
+    },
+    {
+      "id": "g2qTVR59cC8",
+      "title": "Construction of AVL tree 3",
+      "duration": 609
+    },
+    {
+      "id": "a3lIGKKUcyo",
+      "title": "Deletion of nodes from AVL tree",
+      "duration": 570
+    },
+    {
+      "id": "2CXwHGa2uls",
+      "title": "Deletion of  nodes from BST",
+      "duration": 853
+    },
+    {
+      "id": "Vq30-CKWnmA",
+      "title": "Creation of a B tree",
+      "duration": 562
+    },
+    {
+      "id": "Bv1Ba7zm3nw",
+      "title": "Deletion of a node from a B tree",
+      "duration": 670
+    }
+  ]
+}

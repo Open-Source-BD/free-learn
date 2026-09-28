@@ -1,0 +1,210 @@
+{
+  "courseId": "figma-101-crash-course-the-beginners-guide-9c2620",
+  "sourceUrl": "https://www.youtube.com/watch?v=4HSK6-TFUzQ&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:51.957Z",
+  "title": "Crash Courses",
+  "channel": "Zero To Mastery",
+  "videos": [
+    {
+      "id": "XNDY7jtihok",
+      "title": "Build a Text Classification Model in 5 Hours | Hugging Face from Scratch",
+      "duration": 19552
+    },
+    {
+      "id": "r67SfaiYaDI",
+      "title": "Intro to Machine Learning & Data Science (+Pandas, NumPy, Matplotlib)",
+      "duration": 36030
+    },
+    {
+      "id": "4uBbCUjJ_G8",
+      "title": "Python 101 Crash Course: Learn Python v3 (8 HOURS!) | Python Course + Projects",
+      "duration": 28654
+    },
+    {
+      "id": "xhjqVW1ETZ8",
+      "title": "React 101 Crash Course: Learn React JS (6 HOURS!) + Build Your First React App | Zero To Mastery",
+      "duration": 23962
+    },
+    {
+      "id": "zkVWqHUh0C4",
+      "title": "Ethereum 101 Crash Course: Smart Contracts, Decentralized Banks + More | Zero To Mastery",
+      "duration": 1974
+    },
+    {
+      "id": "lzKeecy4OmQ",
+      "title": "Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery",
+      "duration": 21675
+    },
+    {
+      "id": "0kS3M8a6kP8",
+      "title": "Full HTML & CSS Course For Beginners (6+ HOURS!) | Build Your First Website Today!",
+      "duration": 23017
+    },
+    {
+      "id": "IgBOT0QyByQ",
+      "title": "Vue 101 Crash Course: Learn Vue JS (6 HOURS!) + Build Your First Project | Zero To Mastery",
+      "duration": 22646
+    },
+    {
+      "id": "cKZEgtQUxlU",
+      "title": "Design 101 Crash Course: Learn UX/UI Design, Figma (6 HOURS!) | Zero To Mastery",
+      "duration": 22412
+    },
+    {
+      "id": "fUJ3ULyyA-Y",
+      "title": "Node.js 101 Crash Course: Learn Node.js (6 HOURS!) + Build Your First Project!",
+      "duration": 23119
+    },
+    {
+      "id": "gG7vDXEvuo4",
+      "title": "Excel 101 Crash Course: Learn Excel (6 HOURS!) | Zero To Mastery",
+      "duration": 22539
+    },
+    {
+      "id": "4HSK6-TFUzQ",
+      "title": "Figma 101 Crash Course: The Beginners Guide (Figma UI, Auto Layout, Plugins, and More)",
+      "duration": 8413
+    },
+    {
+      "id": "S65k7Tubbck",
+      "title": "Golang 101 Crash Course: Learn Go Programming Fundamentals!",
+      "duration": 7499
+    },
+    {
+      "id": "f8Ci0CWHzs8",
+      "title": "Ethical Hacking Crash Course: The Beginners Guide (Hacking Lab, Reconnaissance, Scanning)",
+      "duration": 16098
+    },
+    {
+      "id": "-01BzZf0Tg8",
+      "title": "Build 5 Javascript Projects (HTML5 + CCS3 + Vanilla JS) | Javascript Crash Course",
+      "duration": 23356
+    },
+    {
+      "id": "Mhy5_DpSDhM",
+      "title": "React Native 101 Crash Course: Build Your First Mobile App!",
+      "duration": 11999
+    },
+    {
+      "id": "zrTKNSoQUrw",
+      "title": "SQL 101 Crash Course: Learn SQL Fundamentals (8 HOURS!)",
+      "duration": 29298
+    },
+    {
+      "id": "impqUbJdkgM",
+      "title": "CSS 101 Crash Course: Beginner’s Guide to Web Design (8 HOURS!)",
+      "duration": 28202
+    },
+    {
+      "id": "KM64t3pA4fs",
+      "title": "Three.js 101 Crash Course: Beginner’s Guide to 3D Web Design (7 HOURS!)",
+      "duration": 23517
+    },
+    {
+      "id": "LWiMwhDZ9as",
+      "title": "Learn Prompt Engineering: Full Beginner Crash Course (5 HOURS!)",
+      "duration": 17820
+    },
+    {
+      "id": "KUNK2rqfTyU",
+      "title": "Power BI for Beginners Crash Course (4 HOURS!)",
+      "duration": 15260
+    },
+    {
+      "id": "uWpgtcSxJ3E",
+      "title": "Angular 101 Crash Course For Beginners: Learn Angular Fundamentals (4 HOURS!)",
+      "duration": 15232
+    },
+    {
+      "id": "LyJtbe__2i0",
+      "title": "PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke",
+      "duration": 98592
+    },
+    {
+      "id": "Ld2oTLY47sA",
+      "title": "AI Engineering with AWS SageMaker: Crash Course for Beginners!",
+      "duration": 14129
+    },
+    {
+      "id": "RyaPmwrjrpY",
+      "title": "Build 5 Real World Python Projects With 3 Senior Developers",
+      "duration": 12749
+    },
+    {
+      "id": "1OLUi77XKWY",
+      "title": "TypeScript 101 Crash Course For Beginners: Learn TypeScript Fundamentals!",
+      "duration": 13852
+    },
+    {
+      "id": "BJt0wsRfUmA",
+      "title": "Unity 101 Crash Course For Beginners: Start Building Your Own Game!",
+      "duration": 24239
+    },
+    {
+      "id": "w9Zz_myULjc",
+      "title": "Linux 101 Crash Course For Beginners: Learn Linux Fundamentals!",
+      "duration": 20612
+    },
+    {
+      "id": "BhDv-Rv59tg",
+      "title": "Stop Grinding LeetCode: Learn How to Actually Solve Coding Interviews (FAANG Edition)",
+      "duration": 22076
+    },
+    {
+      "id": "gWvwu7qLjJs",
+      "title": "TensorFlow Crash Course for Beginners (2026) | Daniel Bourke",
+      "duration": 82609
+    },
+    {
+      "id": "4AEsblWWdQg",
+      "title": "Python Automation Crash Course (2026): Automate Your Life With Python!",
+      "duration": 18079
+    },
+    {
+      "id": "K-aqHfwZk5w",
+      "title": "Building AI Applications Crash Course: Build an AI-Powered Meal Planning App (Step-By-Step)",
+      "duration": 16215
+    },
+    {
+      "id": "T1gN8WqA9lc",
+      "title": "PHP Crash Course: Learn Modern PHP & Master the Fundamentals (Step-By-Step)",
+      "duration": 18081
+    },
+    {
+      "id": "0RP1PDu2di0",
+      "title": "Motion Design Crash Course: Learn Figma, Smart Animate & UI Animations",
+      "duration": 11886
+    },
+    {
+      "id": "HQaVFUV2AgY",
+      "title": "Vibe Coding Crash Course: Build Real Apps with Cursor, Copilot, MCP + more",
+      "duration": 27242
+    },
+    {
+      "id": "RL-2Oas3gps",
+      "title": "Learn Python in 2026: Full Course For Beginners with Andrei Neagoie",
+      "duration": 34633
+    },
+    {
+      "id": "paFmOo_lCHw",
+      "title": "Learn React Router v7: Build Better React Apps.",
+      "duration": 9535
+    },
+    {
+      "id": "5LhU9hc0Rpw",
+      "title": "Data Engineering Foundations Crash Course!",
+      "duration": 13320
+    },
+    {
+      "id": "7AnPmOApo9g",
+      "title": "Build iOS & Android Apps with Flutter",
+      "duration": 14037
+    },
+    {
+      "id": "U_7NpbAOOTc",
+      "title": "Build a RAG App From Scratch | OpenAI API & Streamlit",
+      "duration": 14547
+    }
+  ]
+}

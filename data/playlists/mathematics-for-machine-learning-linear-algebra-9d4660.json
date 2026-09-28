@@ -1,0 +1,195 @@
+{
+  "courseId": "mathematics-for-machine-learning-linear-algebra-9d4660",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:44.304Z",
+  "title": "Mathematics for Machine Learning - Linear Algebra",
+  "channel": "Digital Media - Imperial College London",
+  "videos": [
+    {
+      "id": "T73ldK46JqE",
+      "title": "M4ML - Linear Algebra - 1.1 Introduction: Solving data science challenges with mathematics",
+      "duration": 355
+    },
+    {
+      "id": "-HWMdcUYiCU",
+      "title": "M4ML - Linear Algebra - 1.2 Motivations for linear algebra",
+      "duration": 211
+    },
+    {
+      "id": "S2f4KNnBhks",
+      "title": "M4ML - Linear Algebra - 1.3 Getting a handle on vectors",
+      "duration": 546
+    },
+    {
+      "id": "a64RYUtIAYc",
+      "title": "M4ML - Linear Algebra - 1.4 Operations with vectors",
+      "duration": 689
+    },
+    {
+      "id": "AA8RmDUHedg",
+      "title": "M4ML - Linear Algebra - 1.5 Summary",
+      "duration": 66
+    },
+    {
+      "id": "Z_a31hN07uI",
+      "title": "M4ML - Linear Algebra - 2.1 Introduction to module 2: Vectors",
+      "duration": 50
+    },
+    {
+      "id": "ciLVJra_jVA",
+      "title": "M4ML - Linear Algebra - 2.2 Part 1: Modulus & Inner Product",
+      "duration": 574
+    },
+    {
+      "id": "kkus5KHOLZQ",
+      "title": "M4ML - Linear Algebra - 2.2 - Part 2: Cosine & Dot Product",
+      "duration": 354
+    },
+    {
+      "id": "iucKb-VSrRc",
+      "title": "M4ML - Linear Algebra - 2.2 - Part 3: Projection",
+      "duration": 408
+    },
+    {
+      "id": "D7QY2kis4bw",
+      "title": "M4ML - Linear Algebra - 2.3 Changing basis",
+      "duration": 685
+    },
+    {
+      "id": "moR2XCe2IDM",
+      "title": "M4ML - Linear Algebra - 2.4 Part 1: Basis, vector space, and linear independence",
+      "duration": 254
+    },
+    {
+      "id": "GpFDwzHlrKk",
+      "title": "M4ML - Linear Algebra - 2.4 Part 2: Applications of changing basis",
+      "duration": 209
+    },
+    {
+      "id": "WqvWsMEpg6A",
+      "title": "M4ML - Linear Algebra - 2.5 Summary",
+      "duration": 80
+    },
+    {
+      "id": "3mdIAv4n8tM",
+      "title": "M4ML - Linear Algebra - 3.1 Matrices, vectors, and solving simultaneous equation problems",
+      "duration": 332
+    },
+    {
+      "id": "wQOEgOCmfBU",
+      "title": "M4ML - Linear Algebra - 3.2 Part 1: How matrices transform space",
+      "duration": 342
+    },
+    {
+      "id": "L98DSIAfq-k",
+      "title": "M4ML - Linear Algebra - 3.2 Part 2: Types of matrix transformation",
+      "duration": 519
+    },
+    {
+      "id": "Turv5-2X_Hg",
+      "title": "M4ML - Linear Algebra - 3.2 Part 3: Composition or combination of matrix transformations",
+      "duration": 540
+    },
+    {
+      "id": "ygwgSsQYCDI",
+      "title": "M4ML - Linear Algebra - 3.3 Part 1: Solving the apples and bananas problem: Gaussian elimination",
+      "duration": 481
+    },
+    {
+      "id": "MAC53rOmzaE",
+      "title": "M4ML - Linear Algebra - 3.3 Part 2: Going from Gaussian elimination to finding the inverse matrix",
+      "duration": 519
+    },
+    {
+      "id": "ruFEITlvdvo",
+      "title": "M4ML - Linear Algebra - 3.4 Determinants and inverses",
+      "duration": 637
+    },
+    {
+      "id": "EdKh7vZXVjc",
+      "title": "M4ML - Linear Algebra - 3.5 Summary",
+      "duration": 60
+    },
+    {
+      "id": "pHgEjMSpOwY",
+      "title": "M4Ml - Linear Algebra - 4.1 Einstein summation convention and the symmetry of the dot product",
+      "duration": 594
+    },
+    {
+      "id": "QAsmbpPLhwU",
+      "title": "M4Ml - Linear Algebra - 4.2 Part 1: Matrices changing basis",
+      "duration": 675
+    },
+    {
+      "id": "M6JBYAck-W4",
+      "title": "M4ML - Linear Algebra - 4.2 Part 2: Doing a transformation in a changed basis",
+      "duration": 278
+    },
+    {
+      "id": "4vTALXAyW2M",
+      "title": "M4ML - Linear Algebra - 4.3 Orthogonal Matrices",
+      "duration": 401
+    },
+    {
+      "id": "D67ltANaUtI",
+      "title": "M4ML - Linear Algebra - 4.4 The Gram-Schmidt process",
+      "duration": 368
+    },
+    {
+      "id": "pF7Auk9oeCw",
+      "title": "M4ML - Linear Algebra - 4.5 Example: Reflecting on a plane",
+      "duration": 851
+    },
+    {
+      "id": "TPAZbL76JWM",
+      "title": "M4ML - Linear Algebra - 5.1 Welcome to Module 5!",
+      "duration": 495
+    },
+    {
+      "id": "ClNfT8ElRj0",
+      "title": "M4ML - Linear Algebra - 5.2 What are eigenvalues and eigenvectors?",
+      "duration": 265
+    },
+    {
+      "id": "SnclWEdb28Q",
+      "title": "M4ML - Linear Algebra - 5.3 Special eigen-cases",
+      "duration": 213
+    },
+    {
+      "id": "WCei0uHdGRM",
+      "title": "M4ML - Linear Algebra - 5.4 Calculating eigenvectors",
+      "duration": 608
+    },
+    {
+      "id": "lYfmQ64aATQ",
+      "title": "M4ML - Linear Algebra - 5.5 Changing to eigenbasis",
+      "duration": 353
+    },
+    {
+      "id": "plEP_WlaMIU",
+      "title": "M4ML - Linear Algebra - 5.6 Eigenbasis example",
+      "duration": 447
+    },
+    {
+      "id": "urKLHNhUEQ0",
+      "title": "M4ML - Linear Algebra - 5.7 Introduction to PageRank",
+      "duration": 525
+    },
+    {
+      "id": "YS-7FRrrC3Y",
+      "title": "M4ML - Linear Algebra - 5.8 Summary",
+      "duration": 75
+    },
+    {
+      "id": "SrSoaY_Zw5Q",
+      "title": "M4ML - Linear Algebra - Wrap up of this Linear Algebra course",
+      "duration": 117
+    },
+    {
+      "id": "k0zKoTvngUY",
+      "title": "Mathematics for Machine Learning - Linear Algebra - Full Online Specialism",
+      "duration": 13840
+    }
+  ]
+}

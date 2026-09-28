@@ -1,0 +1,310 @@
+{
+  "courseId": "php-for-beginners-4a9839",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:02.532Z",
+  "title": "PHP for beginners",
+  "channel": "Code With Dary",
+  "videos": [
+    {
+      "id": "te3GnuhU6oQ",
+      "title": "Course Overview | PHP for beginners | PHP Programming | Learn PHP in 2020",
+      "duration": 285
+    },
+    {
+      "id": "LGF5H4nWMGs",
+      "title": "Installing XAMPP on a mac | PHP for beginners | PHP Programming | Learn PHP in 2020",
+      "duration": 365
+    },
+    {
+      "id": "iOc1d4RjWXA",
+      "title": "Installing Brackets with extensions | PHP for beginners | PHP Programming | Learn PHP in 2020",
+      "duration": 391
+    },
+    {
+      "id": "mFrvWWCjpro",
+      "title": "How to use PHP code in HTML5 | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 170
+    },
+    {
+      "id": "0YRQe-fmiZM",
+      "title": "Using the echo statement | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 241
+    },
+    {
+      "id": "5glBNDwS9FU",
+      "title": "Using the print statement | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 109
+    },
+    {
+      "id": "Eh3DcnYoqUA",
+      "title": "How to use comments in PHP | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 228
+    },
+    {
+      "id": "RiGz1w54GT4",
+      "title": "How to use a line break | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 288
+    },
+    {
+      "id": "lp78kFc347Y",
+      "title": "Variables in PHP | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 394
+    },
+    {
+      "id": "RmiS7eFsiWk",
+      "title": "Variables in Echo and Print | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 323
+    },
+    {
+      "id": "OHl4Nc2Ib10",
+      "title": "Data Types in PHP | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 267
+    },
+    {
+      "id": "BUUi6q9KW-8",
+      "title": "Arrays in PHP | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 478
+    },
+    {
+      "id": "HRMWBUcX8I8",
+      "title": "Associative Arrays | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 295
+    },
+    {
+      "id": "uiXqGl1AP0g",
+      "title": "Multidimensional Arrays | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 383
+    },
+    {
+      "id": "35ZOdzb3wzc",
+      "title": "Exercises Data Types | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 1050
+    },
+    {
+      "id": "VbqvyhHJvtU",
+      "title": "Arithmetic Operators | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 248
+    },
+    {
+      "id": "qkI5MtXSjK4",
+      "title": "Assignment Operators | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 261
+    },
+    {
+      "id": "n2GZQgAYJQc",
+      "title": "Comparison Operators | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 390
+    },
+    {
+      "id": "75LUZ8Qg27k",
+      "title": "Increment And Decrement | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 206
+    },
+    {
+      "id": "9YmneJIoW4Q",
+      "title": "Logical Operators | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 352
+    },
+    {
+      "id": "fB73u7OmFu8",
+      "title": "Control Structures | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 438
+    },
+    {
+      "id": "joDU35VvQhg",
+      "title": "Switch Statement | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 250
+    },
+    {
+      "id": "0wWVLymfGY4",
+      "title": "While Loop | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 178
+    },
+    {
+      "id": "BGm9S5B0y50",
+      "title": "Do While Loop | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 239
+    },
+    {
+      "id": "onScE6Lz7iY",
+      "title": "For Loop | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 454
+    },
+    {
+      "id": "-Qopt-MDgNc",
+      "title": "Foreach Loop | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 273
+    },
+    {
+      "id": "MrPbA2Wc45A",
+      "title": "Exercises Control Structures | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 1033
+    },
+    {
+      "id": "oemvQkynx3I",
+      "title": "Introduction To Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 247
+    },
+    {
+      "id": "L976uigVQow",
+      "title": "Creating Our First Function | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 242
+    },
+    {
+      "id": "_b3xAmrApEY",
+      "title": "Functions With Arguments/Parameters | PHP for beginners | Learn PHP | PHP Programming | Learn PHP",
+      "duration": 291
+    },
+    {
+      "id": "rg3DRGRVyeo",
+      "title": "Functions With Return Value | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 427
+    },
+    {
+      "id": "7dHvC6TcDyY",
+      "title": "Global & Local Scope | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 151
+    },
+    {
+      "id": "a2YXO3F4JS8",
+      "title": "Constants | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 336
+    },
+    {
+      "id": "BLc0XVNf0KY",
+      "title": "How to include documents | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 567
+    },
+    {
+      "id": "W31BZuXTxIk",
+      "title": "How to require documents | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 175
+    },
+    {
+      "id": "PIAElmRixWg",
+      "title": "Exercises Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 888
+    },
+    {
+      "id": "6Tmtl8Epiz4",
+      "title": "Introduction To Built-In Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP",
+      "duration": 180
+    },
+    {
+      "id": "7-th8kJah78",
+      "title": "Math Built-In Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 195
+    },
+    {
+      "id": "g3QgoYBgFHQ",
+      "title": "String Built-In Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 435
+    },
+    {
+      "id": "ymO2JEVWu30",
+      "title": "Array Built-In Functions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 492
+    },
+    {
+      "id": "mxBmT7QhPDk",
+      "title": "How to use the date and time function | PHP for beginners | Learn PHP | PHP Programming | Learn PHP",
+      "duration": 659
+    },
+    {
+      "id": "rWlw8DkYhQg",
+      "title": "How to generate random numbers | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 165
+    },
+    {
+      "id": "SrkPX4KZxFI",
+      "title": "What are superglobals? | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 321
+    },
+    {
+      "id": "suc8N7n_Wmw",
+      "title": "What is the POST superglobal? | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 284
+    },
+    {
+      "id": "cJJr_NvjoQs",
+      "title": "What is the GET superglobal? | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 223
+    },
+    {
+      "id": "rXio8EpUCto",
+      "title": "How to create sessions | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 286
+    },
+    {
+      "id": "_ipin0yn7-s",
+      "title": "How to create cookies | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 349
+    },
+    {
+      "id": "zXaD1cvzCE8",
+      "title": "What is the superglobal FILES? | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 473
+    },
+    {
+      "id": "LwYD8K4XGZk",
+      "title": "How to create a working upload system | PHP for beginners | Learn PHP | PHP Programming | Learn PHP",
+      "duration": 1025
+    },
+    {
+      "id": "9qbVj-zY92s",
+      "title": "How to create and write files | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 540
+    },
+    {
+      "id": "2z60PcIm4Fg",
+      "title": "How to read a file | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 284
+    },
+    {
+      "id": "6mBEKf42eo4",
+      "title": "How to create a working contact form | PHP for beginners | Learn PHP | PHP Programming | Learn PHP",
+      "duration": 895
+    },
+    {
+      "id": "mIz9tAp-Soo",
+      "title": "Introduction to databases | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 352
+    },
+    {
+      "id": "_X15J4DXTx0",
+      "title": "Creating a MySQL database | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 296
+    },
+    {
+      "id": "LFuLSN_AAfA",
+      "title": "Creating a MySQL table | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 587
+    },
+    {
+      "id": "3GQ9Rzl42jE",
+      "title": "Inserting data using MySQL | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 409
+    },
+    {
+      "id": "YaSkWM_o0Iw",
+      "title": "Updating data using MySQL | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 208
+    },
+    {
+      "id": "DNYbrfv94M4",
+      "title": "Deleting data using MySQL | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 159
+    },
+    {
+      "id": "YOPsNSmFemE",
+      "title": "How to order data using MySQL | PHP for beginners | Learn PHP | PHP Programming | Learn PHP in 2020",
+      "duration": 247
+    },
+    {
+      "id": "xf4Sz87xZvI",
+      "title": "How to create a login & register system | Procedural PHP | PHP for beginners | Learn PHP in 2020",
+      "duration": 4425
+    }
+  ]
+}

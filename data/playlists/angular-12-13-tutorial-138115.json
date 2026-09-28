@@ -1,0 +1,325 @@
+{
+  "courseId": "angular-12-13-tutorial-138115",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:58.584Z",
+  "title": "Angular tutorial for beginners",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "7VvAi6ZbZio",
+      "title": "Angular 19 tutorial #1 Introduction | Why learn angular | #angular19",
+      "duration": 338
+    },
+    {
+      "id": "xBnFfUWfok4",
+      "title": "Angular 19 tutorial #2 Angular installation and setup  macOS #angular19  #angulartutorial",
+      "duration": 483
+    },
+    {
+      "id": "JnrefM-Tzg0",
+      "title": "Angular 19 tutorial #3 Hello World | Make first change",
+      "duration": 347
+    },
+    {
+      "id": "V5pdycHYBvk",
+      "title": "Angular 19 tutorial #4 File and Folder Structure",
+      "duration": 796
+    },
+    {
+      "id": "x0tRdWkBlT4",
+      "title": "Angular 19 Tutorial #5 Interpolation in Angular #angulartutorial",
+      "duration": 492
+    },
+    {
+      "id": "-y1khbX1jTY",
+      "title": "Angular 19 Tutorial #6 Angular CLI | command Line interface",
+      "duration": 446
+    },
+    {
+      "id": "m4LJlde0zVI",
+      "title": "Angular 19 Tutorial #7 Component",
+      "duration": 513
+    },
+    {
+      "id": "1Dy89jAp0YI",
+      "title": "Angular 19 Tutorial #8 Custom Component",
+      "duration": 545
+    },
+    {
+      "id": "Gz5V2q_vi-0",
+      "title": "Angular 19 Tutorial #9 Function call on Button Click",
+      "duration": 275
+    },
+    {
+      "id": "C1FAi1OHt5g",
+      "title": "Angular 19 Tutorial #10 Define data Type in Angular",
+      "duration": 685
+    },
+    {
+      "id": "z_7g1OHW0Dw",
+      "title": "Angular 12 tutorial #10 Events | blue | keyup, | mouseover etc",
+      "duration": 683
+    },
+    {
+      "id": "9FbVRM55wr0",
+      "title": "Angular 12 tutorial #11 Get Input field  Value",
+      "duration": 440
+    },
+    {
+      "id": "1FDGE49Z7Y4",
+      "title": "Angular 12 tutorial #12 Counter example",
+      "duration": 344
+    },
+    {
+      "id": "2e2kqED8Bcg",
+      "title": "Angular 12 tutorial #13 Basic style",
+      "duration": 440
+    },
+    {
+      "id": "jdZqEbHVtZg",
+      "title": "Angular 12 tutorial #14 Property Binding Example",
+      "duration": 279
+    },
+    {
+      "id": "Nwhwci0vwmE",
+      "title": "Angular 12 tutorial #15 If else condition",
+      "duration": 420
+    },
+    {
+      "id": "ccLIho-WqG0",
+      "title": "Angular 12 tutorial #16 Multiple condition or else if",
+      "duration": 283
+    },
+    {
+      "id": "1VitBcLRP_M",
+      "title": "Angular 12 tutorial #17 Switch case",
+      "duration": 402
+    },
+    {
+      "id": "xjq6Wwgkka8",
+      "title": "Angular 12 tutorial #18 For Loop | *ngFor",
+      "duration": 454
+    },
+    {
+      "id": "53ftOZ-Q4N4",
+      "title": "Angular 12 tutorial #19 Nested Loop",
+      "duration": 331
+    },
+    {
+      "id": "8FwRLYbr5YM",
+      "title": "Angular 12 tutorial #20 Style Binding | Dynamic Style",
+      "duration": 347
+    },
+    {
+      "id": "XR7Q9Bu3pEI",
+      "title": "Angular 12 tutorial #21 Header",
+      "duration": 473
+    },
+    {
+      "id": "-xDTNSEC8nM",
+      "title": "Angular 12 tutorial #22 Basic Form",
+      "duration": 513
+    },
+    {
+      "id": "-5E-uRrMUKg",
+      "title": "Angular 12 tutorial in Hindi #22 Toggle Element on button  | hide and show tag",
+      "duration": 297
+    },
+    {
+      "id": "AXq9r0_kfbo",
+      "title": "Angular 12 tutorial #23 how to use Bootstrap with angular",
+      "duration": 519
+    },
+    {
+      "id": "WWMoTYvrSjY",
+      "title": "Angular 12 tutorial #24 Material UI",
+      "duration": 482
+    },
+    {
+      "id": "4kDeGqXc1ZU",
+      "title": "Angular 12 tutorial #25 Todo list in angular",
+      "duration": 574
+    },
+    {
+      "id": "xbFdFreTi1k",
+      "title": "Angular 12 tutorial #26 Pass Data child to component",
+      "duration": 474
+    },
+    {
+      "id": "IiZu-Eg3qRM",
+      "title": "Angular 12 tutorial #27 Reusable Component",
+      "duration": 468
+    },
+    {
+      "id": "ffCG8Xi3RcU",
+      "title": "Angular 12 tutorial #28 Send data child to parent component",
+      "duration": 521
+    },
+    {
+      "id": "pRXJ2PYu22Q",
+      "title": "Angular 12 tutorial #29 Two way binding",
+      "duration": 214
+    },
+    {
+      "id": "6_ntV0zBOMY",
+      "title": "Angular 12 tutorial #30 Template Reference Variable",
+      "duration": 319
+    },
+    {
+      "id": "p36ehVmF0CM",
+      "title": "Angular 12 tutorial #31 Basic typescript for angular",
+      "duration": 763
+    },
+    {
+      "id": "IZ7GxYOsERk",
+      "title": "Angular 12 tutorial #32 Basic of Pipes in angular",
+      "duration": 363
+    },
+    {
+      "id": "rcu1pNqYn2Y",
+      "title": "Angular 12 tutorial # 33 Advance Pipes",
+      "duration": 436
+    },
+    {
+      "id": "P2587FN4Y0w",
+      "title": "Angular 12 tutorial # 34 Make custom pipes",
+      "duration": 379
+    },
+    {
+      "id": "hPwrbbgEBBY",
+      "title": "Angular 12 tutorial # 34 Form introduction",
+      "duration": 303
+    },
+    {
+      "id": "whr14XxB8-M",
+      "title": "Angular 12 tutorial #35 Template driven form",
+      "duration": 524
+    },
+    {
+      "id": "cVd4ZCIXprs",
+      "title": "Angular 12 tutorial #36 Template driven form Validations",
+      "duration": 508
+    },
+    {
+      "id": "8k4ctDmVn7w",
+      "title": "Angular 12 tutorial #37 Reactive Form in Angular",
+      "duration": 468
+    },
+    {
+      "id": "44PZFXaUa0U",
+      "title": "Angular 12 tutorial #37 Reactive form Validations",
+      "duration": 766
+    },
+    {
+      "id": "jzBPa9VsTCI",
+      "title": "Angular 12 tutorial #38 Directives",
+      "duration": 328
+    },
+    {
+      "id": "kaHSVI4kDTc",
+      "title": "Angular 12 tutorial #39 Basic Routing",
+      "duration": 600
+    },
+    {
+      "id": "nLxy0sqxhAc",
+      "title": "Angular 12 tutorial #40 Dynamic Routing in angular",
+      "duration": 569
+    },
+    {
+      "id": "m-AR6ly6eSU",
+      "title": "Angular 12 tutorial #41 Wild Card | 404 page routing",
+      "duration": 399
+    },
+    {
+      "id": "sqM4Z8ok-IY",
+      "title": "Angular 12 tutorial #42 Child Routing",
+      "duration": 342
+    },
+    {
+      "id": "tDQeogR9KuQ",
+      "title": "Angular 12 tutorial #43 what we service",
+      "duration": 579
+    },
+    {
+      "id": "3Gj3Uo5h_XU",
+      "title": "Angular 12 tutorial #44 Make service and use in multiple files",
+      "duration": 707
+    },
+    {
+      "id": "Ij0KypgKPNs",
+      "title": "Angular 12 tutorial in Hindi #45 get data from API and display",
+      "duration": 754
+    },
+    {
+      "id": "TFFrbW9_iZE",
+      "title": "Angular 12 tutorial #46 Post API Method | http post call",
+      "duration": 471
+    },
+    {
+      "id": "sGYEZvGu5ak",
+      "title": "Angular tutorial # Model and Interface",
+      "duration": 552
+    },
+    {
+      "id": "o_Plo5VllsA",
+      "title": "Angular Tutorial # Recap Module and Routing",
+      "duration": 493
+    },
+    {
+      "id": "jyKpMN3qogc",
+      "title": "Angular tutorial # Routing Module",
+      "duration": 505
+    },
+    {
+      "id": "aeybVeBvN5M",
+      "title": "Angular tutorial # Group Routing",
+      "duration": 656
+    },
+    {
+      "id": "JjIQq9lh-Bw",
+      "title": "Angular tutorial # Lazy Loading",
+      "duration": 788
+    },
+    {
+      "id": "guQlKSs5Frc",
+      "title": "Angular tutorial # Lazy Loading component",
+      "duration": 629
+    },
+    {
+      "id": "ApXEw186rN0",
+      "title": "Angular tutorial # automation Testing | Unit Testing",
+      "duration": 561
+    },
+    {
+      "id": "yhpY9PrPoeQ",
+      "title": "Angular tutorial # First Unit test case",
+      "duration": 570
+    },
+    {
+      "id": "KLlJKJBjeUQ",
+      "title": "Angular tutorial # Component unit testing",
+      "duration": 617
+    },
+    {
+      "id": "PvI06_KTqnI",
+      "title": "Angular 10 - New Feature",
+      "duration": 303
+    },
+    {
+      "id": "JOov7bMUxc8",
+      "title": "Angular 12 - new features | what's new in Angular 12",
+      "duration": 479
+    },
+    {
+      "id": "4d3iBVOQajs",
+      "title": "Angular 13 new feature tutorial | what is new in angular 13",
+      "duration": 630
+    },
+    {
+      "id": "WJGmWdBEUxg",
+      "title": "Angular 14 features | what's new angular | Angular 14 tutorial",
+      "duration": 831
+    }
+  ]
+}

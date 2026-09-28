@@ -1,0 +1,585 @@
+{
+  "courseId": "graph-theory-dm-da2688",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:55.603Z",
+  "title": "Graph Theory - DM",
+  "channel": "SCCI Labs IIT Ropar",
+  "videos": [
+    {
+      "id": "0wfLKljzatA",
+      "title": "Friendship   an interesting property mod07lec249",
+      "duration": 76
+    },
+    {
+      "id": "_eU8WxM-yac",
+      "title": "Connectedness through Connecting people mod07lec250",
+      "duration": 65
+    },
+    {
+      "id": "Zu6dsSiTvTs",
+      "title": "Traversing the bridges mod07lec251",
+      "duration": 22
+    },
+    {
+      "id": "YhwK9XosE68",
+      "title": "Three utilities problem mod07lec252",
+      "duration": 58
+    },
+    {
+      "id": "QW5p53b8YQM",
+      "title": "Coloring the India map mod07lec253",
+      "duration": 53
+    },
+    {
+      "id": "mvI6osjeyzU",
+      "title": "Defintion of a Graph mod07lec254",
+      "duration": 141
+    },
+    {
+      "id": "RBGDuM9dQOI",
+      "title": "Degree and degree sequence mod07lec255",
+      "duration": 356
+    },
+    {
+      "id": "r0Q8GV5QAdw",
+      "title": "Relation between number of edges and degrees mod07lec256",
+      "duration": 37
+    },
+    {
+      "id": "2NP23ymXthc",
+      "title": "Relation between number of edges and degrees   Proof mod07lec257",
+      "duration": 107
+    },
+    {
+      "id": "Tk4IC9YVRTM",
+      "title": "Hand shaking lemma   Corollary mod07lec258",
+      "duration": 213
+    },
+    {
+      "id": "fJcbRXwzrtY",
+      "title": "Problems based on Hand shaking lemma mod07lec259",
+      "duration": 101
+    },
+    {
+      "id": "zigci8PHTrU",
+      "title": "Havel Hakimi theorem   Part 1 mod07lec260",
+      "duration": 162
+    },
+    {
+      "id": "3U5BU6ZceOQ",
+      "title": "Havel Hakimi theorem   Part 2 mod07lec261",
+      "duration": 115
+    },
+    {
+      "id": "cFYBhnO30i8",
+      "title": "Havel Hakimi theorem   Part 3 mod07lec262",
+      "duration": 588
+    },
+    {
+      "id": "Hd8Xpmb_Yqc",
+      "title": "Havel Hakimi theorem   Part 4 mod07lec263",
+      "duration": 52
+    },
+    {
+      "id": "sO94OWJVJCg",
+      "title": "Havel Hakimi theorem   Part 5 mod07lec264",
+      "duration": 307
+    },
+    {
+      "id": "NePMsrpug3Y",
+      "title": "Regular graph and irregular graph mod07lec265",
+      "duration": 132
+    },
+    {
+      "id": "LD0J_jgUPgI",
+      "title": "Walk mod07lec266",
+      "duration": 186
+    },
+    {
+      "id": "fg9ifVphEDE",
+      "title": "Trail mod07lec267",
+      "duration": 117
+    },
+    {
+      "id": "fSuD6GsNxlg",
+      "title": "Path and closed path mod07lec268",
+      "duration": 246
+    },
+    {
+      "id": "bIFTo6sGfH8",
+      "title": "Definitions revisited mod07lec269",
+      "duration": 51
+    },
+    {
+      "id": "U3A4PCRGT0Y",
+      "title": "Examples of walk, trail and path mod07lec270",
+      "duration": 164
+    },
+    {
+      "id": "SgJ3kq_5T_g",
+      "title": "Cycle and circuit mod07lec271",
+      "duration": 191
+    },
+    {
+      "id": "or8_QfnJ-c0",
+      "title": "Example of cycle and circuit mod07lec272",
+      "duration": 73
+    },
+    {
+      "id": "clMz0BFoaXQ",
+      "title": "Relation between walk and path mod07lec273",
+      "duration": 180
+    },
+    {
+      "id": "ODQlsZxz2JU",
+      "title": "Relation between walk and path   An induction proof mod07lec274",
+      "duration": 290
+    },
+    {
+      "id": "TOLP9btZwD8",
+      "title": "Subgraph mod07lec275",
+      "duration": 92
+    },
+    {
+      "id": "A4iqcOsEKwA",
+      "title": "Spanning and induced subgraph mod07lec276",
+      "duration": 197
+    },
+    {
+      "id": "Z165N912Cw0",
+      "title": "Spanning and induced subgraph    A result mod07lec277",
+      "duration": 104
+    },
+    {
+      "id": "ehht0lmqT84",
+      "title": "Introduction to Tree mod07lec278",
+      "duration": 73
+    },
+    {
+      "id": "0e39SOiffsM",
+      "title": "Connected and Disconnected graphs mod07lec279",
+      "duration": 103
+    },
+    {
+      "id": "UwgGDaBVTTU",
+      "title": "Property of a cycle mod07lec280",
+      "duration": 156
+    },
+    {
+      "id": "i8IXLNVkAFM",
+      "title": "Edge condition for connectivity mod07lec281",
+      "duration": 210
+    },
+    {
+      "id": "PWHRX0IVJII",
+      "title": "Connecting connectedness and path mod07lec282",
+      "duration": 62
+    },
+    {
+      "id": "zW2Qbga89zw",
+      "title": "Connecting connectedness and path   An illustration mod07lec283",
+      "duration": 101
+    },
+    {
+      "id": "M5r4riDJ4aw",
+      "title": "Cut vertex mod07lec284",
+      "duration": 27
+    },
+    {
+      "id": "6n7YHB8bir4",
+      "title": "Cut edge mod07lec285",
+      "duration": 82
+    },
+    {
+      "id": "UIIjUB36E_c",
+      "title": "Illustration of cut vertices and cut edges mod07lec286",
+      "duration": 180
+    },
+    {
+      "id": "LhNph6_wqkI",
+      "title": "NetworkX   Need of the hour mod07lec287",
+      "duration": 93
+    },
+    {
+      "id": "JX1yfh_Zy4M",
+      "title": "Introduction to Python   Installation mod07lec288",
+      "duration": 70
+    },
+    {
+      "id": "p0Nf_Xh6s0g",
+      "title": "Introduction to Python   Basics mod07lec289",
+      "duration": 562
+    },
+    {
+      "id": "LtsyhLyNQFI",
+      "title": "Introduction to NetworkX mod07lec290",
+      "duration": 1208
+    },
+    {
+      "id": "wD2mah4Bi4s",
+      "title": "Story so far   Using NetworkX mod07lec291",
+      "duration": 833
+    },
+    {
+      "id": "SOIOImh92lE",
+      "title": "Directed, weighted and multi graphs mod08lec292",
+      "duration": 262
+    },
+    {
+      "id": "p7RFnR-Y7q8",
+      "title": "Illustration of Directed, weighted and multi graphs mod08lec293",
+      "duration": 126
+    },
+    {
+      "id": "Q4WDh4qH3ig",
+      "title": "Graph representations   Introduction mod08lec294",
+      "duration": 26
+    },
+    {
+      "id": "Nla7xRLYvyQ",
+      "title": "Adjacency matrix representation mod08lec295",
+      "duration": 274
+    },
+    {
+      "id": "bTX8HqiWDHE",
+      "title": "Incidence matrix representation mod08lec296",
+      "duration": 149
+    },
+    {
+      "id": "EN6kClUWtV0",
+      "title": "Isomorphism   Introduction mod08lec297",
+      "duration": 74
+    },
+    {
+      "id": "eSJPKWPb-8o",
+      "title": "Isomorphic graphs   An illustration mod08lec298",
+      "duration": 278
+    },
+    {
+      "id": "eP6fAz8vytg",
+      "title": "Isomorphic graphs   A challenge mod08lec299",
+      "duration": 34
+    },
+    {
+      "id": "qY2Bkh3_H00",
+      "title": "Non   isomorphic graphs mod08lec300",
+      "duration": 370
+    },
+    {
+      "id": "PLX6FX_zRss",
+      "title": "Isomorphism   A question mod08lec301",
+      "duration": 119
+    },
+    {
+      "id": "u-obQ7RMEFw",
+      "title": "Complement of a Graph   Introduction mod08lec302",
+      "duration": 82
+    },
+    {
+      "id": "ivEAAKSFt9w",
+      "title": "Complement of a Graph   Illiustration mod08lec303",
+      "duration": 139
+    },
+    {
+      "id": "jwo8sZBvQmM",
+      "title": "Self complement mod08lec304",
+      "duration": 127
+    },
+    {
+      "id": "cHv8xQW492w",
+      "title": "Complement of a disconnected graph is connected mod08lec305",
+      "duration": 38
+    },
+    {
+      "id": "TiSzBzelvSM",
+      "title": "Complement of a disconnected graph is connected   Solution mod08lec306",
+      "duration": 233
+    },
+    {
+      "id": "o-cAfqw4AYk",
+      "title": "Ore's Theorem",
+      "duration": 110
+    },
+    {
+      "id": "W0WSDeN6-W8",
+      "title": "Bipartite graphs mod08lec308",
+      "duration": 110
+    },
+    {
+      "id": "Axs79LLyBH0",
+      "title": "Bipartite graphs   A puzzle mod08lec309",
+      "duration": 195
+    },
+    {
+      "id": "zBnIwNllDDo",
+      "title": "Bipartite graphs   Converse part of the puzzle mod08lec310",
+      "duration": 251
+    },
+    {
+      "id": "cNGZnR6bmXw",
+      "title": "Definition of Eulerian Graph mod08lec311",
+      "duration": 30
+    },
+    {
+      "id": "xi_Fvuh-c9k",
+      "title": "Illustration of eulerian graph mod08lec312",
+      "duration": 423
+    },
+    {
+      "id": "awJ2sJrkjI0",
+      "title": "Non  example of Eulerian graph mod08lec313",
+      "duration": 44
+    },
+    {
+      "id": "WszCyK5vfDQ",
+      "title": "Litmus test for an Eulerian graph mod08lec314",
+      "duration": 61
+    },
+    {
+      "id": "LmFFfnMlEW0",
+      "title": "Why even degree? mod08lec315",
+      "duration": 52
+    },
+    {
+      "id": "Waoa2idMQWE",
+      "title": "Proof for even degree implies graph is eulerian mod08lec316",
+      "duration": 1038
+    },
+    {
+      "id": "Vn62sZ9A_M4",
+      "title": "A condition for Eulerian trail mod08lec317",
+      "duration": 189
+    },
+    {
+      "id": "rEC1WZ0nPKI",
+      "title": "Why the name Eulerian mod08lec318",
+      "duration": 37
+    },
+    {
+      "id": "2IfrQuQm89c",
+      "title": "Can you traverse all location  mod08lec319",
+      "duration": 112
+    },
+    {
+      "id": "vJzE73YQOaA",
+      "title": "Defintion of Hamiltonian graphs mod08lec320",
+      "duration": 67
+    },
+    {
+      "id": "kNm-ijInMEY",
+      "title": "Examples of Hamiltonian graphs mod08lec321",
+      "duration": 309
+    },
+    {
+      "id": "1dlewmMimFo",
+      "title": "Hamiltonian graph   A result mod08lec322",
+      "duration": 78
+    },
+    {
+      "id": "_LAlgpwYBgs",
+      "title": "A result on connectedness mod08lec323",
+      "duration": 198
+    },
+    {
+      "id": "6cD4m4qs0HY",
+      "title": "A result on Path mod08lec324",
+      "duration": 277
+    },
+    {
+      "id": "gJumcdZIc4s",
+      "title": "Dirac's Theorem mod08lec325",
+      "duration": 477
+    },
+    {
+      "id": "krXd-9Ee_Ls",
+      "title": "Dirac's theorem   A note mod08lec326",
+      "duration": 71
+    },
+    {
+      "id": "DhH4cEpaJuM",
+      "title": "Ore's Theorem mod08lec327",
+      "duration": 110
+    },
+    {
+      "id": "BiE7Cj7-PLI",
+      "title": "Dirac's Theorem v s Ore's Theorem mod08lec328",
+      "duration": 83
+    },
+    {
+      "id": "v7QI_UWn-vE",
+      "title": "Eulerian and Hamiltonian Are they related mod08lec329",
+      "duration": 100
+    },
+    {
+      "id": "SA42JatBTls",
+      "title": "Importance of Hamiltonian graphs in Computer science mod08lec330",
+      "duration": 97
+    },
+    {
+      "id": "QNammNswRhM",
+      "title": "Constructing non intersecting roads mod08lec331",
+      "duration": 105
+    },
+    {
+      "id": "H_kxXCfwPNE",
+      "title": "Definition of a Planar graph mod08lec332",
+      "duration": 69
+    },
+    {
+      "id": "9Nw4uMLWEsw",
+      "title": "Examples of Planar graphs mod08lec333",
+      "duration": 231
+    },
+    {
+      "id": "CJZD8k8fOJk",
+      "title": "V   E   R = 2 mod08lec334",
+      "duration": 101
+    },
+    {
+      "id": "1tv2XbJ7Z48",
+      "title": "Illustration of V   E   R =2 mod08lec335",
+      "duration": 177
+    },
+    {
+      "id": "blXEFzGHp1M",
+      "title": "V   E   R = 2; Use induction mod08lec336",
+      "duration": 31
+    },
+    {
+      "id": "wOk4WFST6I8",
+      "title": "Proof of V   E   R 2 mod08lec337",
+      "duration": 258
+    },
+    {
+      "id": "EIYGmE38vAg",
+      "title": "Famous non planar graphs mod08lec338",
+      "duration": 40
+    },
+    {
+      "id": "j4F3-IoA1Qs",
+      "title": "Litmus test for planarity mod08lec339",
+      "duration": 37
+    },
+    {
+      "id": "gfesPHjDkcw",
+      "title": "Planar graphs   Inequality 1 mod08lec340",
+      "duration": 344
+    },
+    {
+      "id": "Uyvpl804kLI",
+      "title": "3 Utilities problem   Revisited mod08lec341",
+      "duration": 335
+    },
+    {
+      "id": "NO8TimmQ_Qw",
+      "title": "Complete graph on 5 vertices is non planar   Proof mod08lec342",
+      "duration": 141
+    },
+    {
+      "id": "kMLiknYP5v8",
+      "title": "Prisoners and cells mod08lec343",
+      "duration": 103
+    },
+    {
+      "id": "KXFmN-OMWkQ",
+      "title": "Prisoners example and Proper coloring mod08lec344",
+      "duration": 236
+    },
+    {
+      "id": "xgbvL2kuHQE",
+      "title": "Chromatic number of a graph mod08lec345",
+      "duration": 32
+    },
+    {
+      "id": "O7eUZRgd8rs",
+      "title": "Examples on Proper coloring mod08lec346",
+      "duration": 617
+    },
+    {
+      "id": "2IjtYl2oKbU",
+      "title": "Recalling the India map problem mod08lec347",
+      "duration": 26
+    },
+    {
+      "id": "N_SW2nOra1Q",
+      "title": "Recalling the India map problem   Solution mod08lec348",
+      "duration": 74
+    },
+    {
+      "id": "Od9M5oxU3SA",
+      "title": "NetworkX   Digraphs mod09lec349",
+      "duration": 402
+    },
+    {
+      "id": "vY6Fg304vL0",
+      "title": "NetworkX   Adjacency matrix mod09lec350",
+      "duration": 544
+    },
+    {
+      "id": "FJMH9UBZRqk",
+      "title": "NetworkX  Random graphs mod09lec351",
+      "duration": 964
+    },
+    {
+      "id": "6ssrufvZxdU",
+      "title": "NetworkX   Subgarph mod09lec352",
+      "duration": 328
+    },
+    {
+      "id": "CJ88PR-bLl8",
+      "title": "NetworkX   Isomorphic graphs Part 1 mod09lec353",
+      "duration": 284
+    },
+    {
+      "id": "sC0fHG0vqnE",
+      "title": "NetworkX   Isomorphic graphs Part 2 mod09lec354",
+      "duration": 290
+    },
+    {
+      "id": "-5qW4YqjhzA",
+      "title": "NetworkX   Isomorphic graphs  A game to play mod09lec355",
+      "duration": 242
+    },
+    {
+      "id": "zbqF-uAE6HQ",
+      "title": "NetworkX   Graph complement mod09lec356",
+      "duration": 403
+    },
+    {
+      "id": "9uk7A4q-d20",
+      "title": "NetworkX   Eulerian graphs mod09lec357",
+      "duration": 230
+    },
+    {
+      "id": "siJ7kn4zGOY",
+      "title": "NetworkX   Bipaprtite graphs mod09lec358",
+      "duration": 566
+    },
+    {
+      "id": "gh2XFJUiIBk",
+      "title": "NetworkX   Coloring mod09lec359",
+      "duration": 234
+    },
+    {
+      "id": "v1kg0KCCLgc",
+      "title": "Introduction to Chromatic polynomial mod12lec441",
+      "duration": 326
+    },
+    {
+      "id": "rI2fhzUqs08",
+      "title": "Chromatic polynomial of complete graphs mod12lec442",
+      "duration": 88
+    },
+    {
+      "id": "TvH8rPRYm-I",
+      "title": "Chromatic polynomial of cycle on 4 vertices   Part 1 mod12lec443",
+      "duration": 350
+    },
+    {
+      "id": "d8490wS9jrI",
+      "title": "Chromatic polynomial of cycle on 4 vertices   Part 2 mod12lec444",
+      "duration": 234
+    }
+  ]
+}

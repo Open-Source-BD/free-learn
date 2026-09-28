@@ -1,0 +1,185 @@
+{
+  "courseId": "react-native-for-beginners-e983c8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:18.105Z",
+  "title": "React Native Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "ur6I5m2nTvk",
+      "title": "React Native Tutorial  #1 - Introduction",
+      "duration": 507
+    },
+    {
+      "id": "pflXnUNMsNk",
+      "title": "React Native Tutorial  #2 - Creating a React Native App",
+      "duration": 1128
+    },
+    {
+      "id": "_YydVvnjNFE",
+      "title": "React Native Tutorial  #3 - Views, Text & Styles",
+      "duration": 554
+    },
+    {
+      "id": "1FiIYaRr148",
+      "title": "React Native Tutorial  #4 - Using State",
+      "duration": 578
+    },
+    {
+      "id": "c9Sg9jDitm8",
+      "title": "React Native Tutorial  #5 - Text Inputs",
+      "duration": 514
+    },
+    {
+      "id": "W-pg1r6-T0g",
+      "title": "React Native Tutorial  #6 - Lists & ScrollView",
+      "duration": 474
+    },
+    {
+      "id": "iMCM1NceGJY",
+      "title": "React Native Tutorial  #7 - Flat List Component",
+      "duration": 447
+    },
+    {
+      "id": "QhX25YGf8qg",
+      "title": "React Native Tutorial  #8 - Touchable Components",
+      "duration": 444
+    },
+    {
+      "id": "uLHFPt9B2Os",
+      "title": "React Native Tutorial  #9 - Todo App (part 1)",
+      "duration": 758
+    },
+    {
+      "id": "SGEitne8N-Q",
+      "title": "React Native Tutorial  #10 - Todo App (part 2)",
+      "duration": 524
+    },
+    {
+      "id": "LH_SoXiu_Hk",
+      "title": "React Native Tutorial  #11 - Todo App (part 3)",
+      "duration": 799
+    },
+    {
+      "id": "oVA9JgTTiT0",
+      "title": "React Native Tutorial  #12 - Alerts",
+      "duration": 269
+    },
+    {
+      "id": "IW-SEiRjUsI",
+      "title": "React Native Tutorial  #13 - Dismissing the Keyboard",
+      "duration": 245
+    },
+    {
+      "id": "R2eqAgR_KlU",
+      "title": "React Native Tutorial  #14 - Flexbox Basics",
+      "duration": 1123
+    },
+    {
+      "id": "C4ikFaP0a5o",
+      "title": "React Native Tutorial  #15 - Icons & More Flexbox",
+      "duration": 425
+    },
+    {
+      "id": "cFVHTazhb7I",
+      "title": "React Native Tutorial  #16 - Starting the Reviews App",
+      "duration": 516
+    },
+    {
+      "id": "IY5OBeL9LNE",
+      "title": "React Native Tutorial  #17 - Custom Fonts",
+      "duration": 712
+    },
+    {
+      "id": "wtvpQ9liu4g",
+      "title": "React Native Tutorial  #18 - Global Styles",
+      "duration": 358
+    },
+    {
+      "id": "OmQCU-3KPms",
+      "title": "React Native Tutorial  #19 - React Navigation Setup",
+      "duration": 332
+    },
+    {
+      "id": "cS4PgI3zBzY",
+      "title": "React Native Tutorial  #20 - Stack Navigator",
+      "duration": 727
+    },
+    {
+      "id": "PMX6GP1TXGo",
+      "title": "React Native Tutorial  #21 - Navigating Around",
+      "duration": 492
+    },
+    {
+      "id": "-40TBdSRk6E",
+      "title": "React Native Tutorial  #22 - Passing Data Between Screens",
+      "duration": 485
+    },
+    {
+      "id": "llPRMRl_ZTM",
+      "title": "React Native Tutorial  #23 - Navigation Options",
+      "duration": 326
+    },
+    {
+      "id": "EaNCi8o8H0A",
+      "title": "React Native Tutorial  #24 - Drawer Navigation",
+      "duration": 726
+    },
+    {
+      "id": "C3oDJdlrEKE",
+      "title": "React Native Tutorial  #25 - Custom Header Component",
+      "duration": 897
+    },
+    {
+      "id": "5NewXsBnoKw",
+      "title": "React Native Tutorial #26 - Custom Card Component",
+      "duration": 583
+    },
+    {
+      "id": "2s5KNg_5_LA",
+      "title": "React Native Tutorial  #27 - Using Images",
+      "duration": 690
+    },
+    {
+      "id": "RULLuEC5C7Y",
+      "title": "React Native Tutorial  #28 - Background Images",
+      "duration": 291
+    },
+    {
+      "id": "pYh3Z-iBc4E",
+      "title": "React Native Tutorial  #29 - Modals",
+      "duration": 680
+    },
+    {
+      "id": "t4Q1s8WntlA",
+      "title": "React Native Tutorial  #30 - Formik Forms (part 1)",
+      "duration": 869
+    },
+    {
+      "id": "urzVC5Zr-JM",
+      "title": "React Native Tutorial  #31 - Formik Forms (part 2)",
+      "duration": 563
+    },
+    {
+      "id": "ftLy78R8xrg",
+      "title": "React Native Tutorial  #32 - Validation with Yup",
+      "duration": 572
+    },
+    {
+      "id": "o_ErcEKV23I",
+      "title": "React Native Tutorial  #33 - Showing Form Errors",
+      "duration": 464
+    },
+    {
+      "id": "LEa48P-KtCw",
+      "title": "React Native Tutorial  #34 - Custom Button Component",
+      "duration": 392
+    },
+    {
+      "id": "BTnp1TiiSMg",
+      "title": "React Native Tutorial  #35 - Wrap Up",
+      "duration": 148
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "courseId": "package-management-in-ballerina-80d2ca",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0LjuZZ8OXzN5apFqlCb6tnY",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:16.813Z",
+  "title": "Package Management with Ballerina",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "3OQWrifgWQ8",
+      "title": "Introduction to Package Management with the Ballerina Programming Language",
+      "duration": 67
+    },
+    {
+      "id": "FoEUYT7_h4c",
+      "title": "Ballerina Programming Language | Package Structure",
+      "duration": 570
+    },
+    {
+      "id": "RF6zaUiYlow",
+      "title": "Developing and Publishing a Library Package in Ballerina",
+      "duration": 523
+    },
+    {
+      "id": "3QBaw7KXEWI",
+      "title": "Versioning Strategies for Library Package Management in Ballerina",
+      "duration": 308
+    },
+    {
+      "id": "FbFtyNY2nNk",
+      "title": "Package Management with Ballerina - Wrap Up",
+      "duration": 52
+    }
+  ]
+}

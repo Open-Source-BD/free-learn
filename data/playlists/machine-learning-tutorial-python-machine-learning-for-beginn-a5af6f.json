@@ -1,0 +1,220 @@
+{
+  "courseId": "machine-learning-tutorial-python-machine-learning-for-beginn-a5af6f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:41.571Z",
+  "title": "Machine Learning Tutorial Python | Machine Learning For Beginners",
+  "channel": "codebasics",
+  "videos": [
+    {
+      "id": "gmvvaobm7eQ",
+      "title": "Machine Learning Tutorial Python -1: What is Machine Learning?",
+      "duration": 411
+    },
+    {
+      "id": "8jazNUpO3lQ",
+      "title": "Machine Learning Tutorial Python - 2: Linear Regression Single Variable",
+      "duration": 914
+    },
+    {
+      "id": "J_LnPL3Qg70",
+      "title": "Machine Learning Tutorial Python - 3: Linear Regression Multiple Variables",
+      "duration": 848
+    },
+    {
+      "id": "vsWrXfO3wWw",
+      "title": "Machine Learning Tutorial Python - 4: Gradient Descent and Cost Function",
+      "duration": 1706
+    },
+    {
+      "id": "KfnhNlD8WZI",
+      "title": "Machine Learning Tutorial Python - 5: Save Model Using Joblib And Pickle",
+      "duration": 501
+    },
+    {
+      "id": "9yl6-HEY7_s",
+      "title": "Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding",
+      "duration": 1295
+    },
+    {
+      "id": "fwY9Qv96DJY",
+      "title": "Machine Learning Tutorial Python - 7: Training and Testing Data",
+      "duration": 394
+    },
+    {
+      "id": "zM4VZR0px8E",
+      "title": "Machine Learning Tutorial Python - 8:  Logistic Regression (Binary Classification)",
+      "duration": 1159
+    },
+    {
+      "id": "J5bXOOmkopc",
+      "title": "Machine Learning Tutorial Python - 8  Logistic Regression (Multiclass Classification)",
+      "duration": 943
+    },
+    {
+      "id": "PHxYNGo8NcI",
+      "title": "Machine Learning Tutorial Python - 9  Decision Tree",
+      "duration": 886
+    },
+    {
+      "id": "FB5EdxAGxQg",
+      "title": "Machine Learning Tutorial Python - 10  Support Vector Machine (SVM)",
+      "duration": 1402
+    },
+    {
+      "id": "ok2s1vV9XW0",
+      "title": "Machine Learning Tutorial Python - 11  Random Forest",
+      "duration": 768
+    },
+    {
+      "id": "gJo0uNL-5Qw",
+      "title": "Machine Learning Tutorial Python 12 - K Fold Cross Validation",
+      "duration": 1520
+    },
+    {
+      "id": "EItlUEPCIzM",
+      "title": "Machine Learning Tutorial Python - 13:  K Means Clustering Algorithm",
+      "duration": 1515
+    },
+    {
+      "id": "PPeaRc-r1OI",
+      "title": "Machine Learning Tutorial Python - 14: Naive Bayes Classifier Algorithm Part 1",
+      "duration": 818
+    },
+    {
+      "id": "nHIUYwN-5rM",
+      "title": "Machine Learning Tutorial Python - 15:  Naive Bayes Classifier Algorithm Part 2",
+      "duration": 688
+    },
+    {
+      "id": "HdlDYng8g9s",
+      "title": "Machine Learning Tutorial Python - 16: Hyper parameter Tuning (GridSearchCV)",
+      "duration": 990
+    },
+    {
+      "id": "VqKq78PVO9g",
+      "title": "Machine Learning Tutorial Python - 17: L1 and L2 Regularization | Lasso, Ridge Regression",
+      "duration": 1161
+    },
+    {
+      "id": "CQveSaMyEwM",
+      "title": "Machine Learning Tutorial Python - 18: K nearest neighbors classification with python code",
+      "duration": 942
+    },
+    {
+      "id": "8klqIM9UvAc",
+      "title": "Machine Learning Tutorial Python - 19: Principal Component Analysis (PCA) with Python Code",
+      "duration": 1449
+    },
+    {
+      "id": "B01qMFMAgUQ",
+      "title": "Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning",
+      "duration": 650
+    },
+    {
+      "id": "RtrBtAKwcxQ",
+      "title": "Machine Learning Tutorial Python - 21: Ensemble Learning - Bagging",
+      "duration": 1417
+    },
+    {
+      "id": "rdfbcdP75KI",
+      "title": "Machine Learning & Data Science Project - 1 : Introduction (Real Estate Price Prediction Project)",
+      "duration": 132
+    },
+    {
+      "id": "_drqJ9SFCgU",
+      "title": "Machine Learning & Data Science Project - 2 : Data Cleaning (Real Estate Price Prediction Project)",
+      "duration": 921
+    },
+    {
+      "id": "gMoJIH0prL4",
+      "title": "Machine Learning & Data Science Project - 3 : Feature Engineering (Real Estate Price Prediction)",
+      "duration": 506
+    },
+    {
+      "id": "cbqZa_1vzcg",
+      "title": "Machine Learning & Data Science Project - 4 : Outlier Removal (Real Estate Price Prediction Project)",
+      "duration": 1171
+    },
+    {
+      "id": "oCiRv94GMEc",
+      "title": "Machine Learning & Data Science Project - 5 : Model Building (Real Estate Price Prediction Project)",
+      "duration": 1152
+    },
+    {
+      "id": "Q5JyawS8f5Q",
+      "title": "Machine Learning & Data Science Project - 6 : Python Flask Server (Real Estate Price Prediction)",
+      "duration": 1273
+    },
+    {
+      "id": "rD2xumR98w8",
+      "title": "Machine Learning & Data Science Project - 7 : Website or UI (Real Estate Price Prediction Project)",
+      "duration": 801
+    },
+    {
+      "id": "q8NOmLD5pTU",
+      "title": "Deploy machine learning model to production AWS (Amazon EC2 instance)",
+      "duration": 1719
+    },
+    {
+      "id": "qWXXHjV3JHI",
+      "title": "Data Science & Machine Learning Project - Part 1 Introduction | Image Classification",
+      "duration": 282
+    },
+    {
+      "id": "m1dQ38qDABw",
+      "title": "Data Science & Machine Learning Project - Part 2 Data Collection | Image Classification",
+      "duration": 337
+    },
+    {
+      "id": "kwKfWBb6frs",
+      "title": "Data Science & Machine Learning Project - Part 3 Data Cleaning | Image Classification",
+      "duration": 2445
+    },
+    {
+      "id": "sWAPtaBZKBQ",
+      "title": "Data Science & Machine Learning Project - Part 4 Feature Engineering | Image Classification",
+      "duration": 1103
+    },
+    {
+      "id": "5Uc_m9CRWro",
+      "title": "Data Science & Machine Learning Project - Part 5 Training a Model | Image Classification",
+      "duration": 1201
+    },
+    {
+      "id": "NtNl97LlpOk",
+      "title": "Data Science & Machine Learning Project - Part 6 Flask Server | Image Classification",
+      "duration": 2176
+    },
+    {
+      "id": "idMKTkfeo4A",
+      "title": "Data Science & Machine Learning Project - Part 7 Build Website | Image Classification",
+      "duration": 2294
+    },
+    {
+      "id": "W-PmvEeHioQ",
+      "title": "Data Science & Machine Learning Project - Part 8 Deployment & Exercise | Image Classification",
+      "duration": 317
+    },
+    {
+      "id": "pYVScuY-GPk",
+      "title": "What is feature engineering | Feature Engineering Tutorial Python # 1",
+      "duration": 312
+    },
+    {
+      "id": "7sJaRHF03K8",
+      "title": "Outlier detection and removal using percentile | Feature engineering tutorial python # 2",
+      "duration": 1038
+    },
+    {
+      "id": "KFuEAGR3HS4",
+      "title": "Outlier detection and removal: z score, standard deviation | Feature engineering tutorial python # 3",
+      "duration": 1205
+    },
+    {
+      "id": "A3gClkblXK8",
+      "title": "Outlier detection and removal using IQR | Feature engineering tutorial python # 4",
+      "duration": 482
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "courseId": "rust-projects-03fbb1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:03.315Z",
+  "title": "Rust Projects",
+  "channel": "Tensor Programming",
+  "videos": [
+    {
+      "id": "-Jp7sabBCp4",
+      "title": "Rustlang Project: Port Sniffer CLI",
+      "duration": 854
+    },
+    {
+      "id": "DnT_7M7L7vo",
+      "title": "Rustlang Project: Snake Game",
+      "duration": 2185
+    },
+    {
+      "id": "CIhlfJSvxe4",
+      "title": "Rustlang Project: Chat Application",
+      "duration": 776
+    },
+    {
+      "id": "U8GGZ4TqlQs",
+      "title": "Rustlang Project: CLI Toy Blockchain",
+      "duration": 1227
+    },
+    {
+      "id": "c6q0lUtD3FY",
+      "title": "Intro to Rust-lang (Building a Web API with Iron)",
+      "duration": 1338
+    },
+    {
+      "id": "j8EnB7gkygw",
+      "title": "Rustlang Project: Todo App (Yew Framework and Web Assembly)",
+      "duration": 763
+    },
+    {
+      "id": "-JIlCYbpNnI",
+      "title": "Intro to Rust-lang (Games and Graphics with Piston; Pong game)",
+      "duration": 883
+    },
+    {
+      "id": "brhuVn91EdY",
+      "title": "Intro to Rust-lang (Building the Dom and an HTML Parser)",
+      "duration": 1224
+    },
+    {
+      "id": "dnrEto7adg0",
+      "title": "Intro to Rust-lang (Adding a CSS engine and CSS parsing to our Browser)",
+      "duration": 1172
+    },
+    {
+      "id": "8e37RsyiGSE",
+      "title": "Intro to Rust-lang (Adding a Style Tree to our Browser)",
+      "duration": 711
+    },
+    {
+      "id": "GuzZqrlc52s",
+      "title": "Intro to Rust-lang (Building a Browser Engine: Boxes and the Layout Tree)",
+      "duration": 1130
+    },
+    {
+      "id": "rszgtm7i0n8",
+      "title": "Intro to Rust (Building a Browser Engine: Commands and Rendering in OpenGL)",
+      "duration": 889
+    },
+    {
+      "id": "xNu6U5XCMMQ",
+      "title": "Intro to Rust (Building a Browser Engine: Finishing things up)",
+      "duration": 849
+    },
+    {
+      "id": "LNABJvABhos",
+      "title": "Intro to Rust (Crawling Links with a Web Crawler)",
+      "duration": 1163
+    },
+    {
+      "id": "VMZdGX9wC4g",
+      "title": "Building an API in Rust (part 1)",
+      "duration": 912
+    },
+    {
+      "id": "Ck_bOoRjKdQ",
+      "title": "Building an API in Rust (part 2)",
+      "duration": 755
+    },
+    {
+      "id": "GKXCLc8F7nA",
+      "title": "Building an API in Rust (Part 3)",
+      "duration": 771
+    },
+    {
+      "id": "9U8pVQEZQFc",
+      "title": "Elm front-end for Rust API (Part 1)",
+      "duration": 666
+    },
+    {
+      "id": "3posJoGeq4E",
+      "title": "Elm front-end for Rust API (Part 2)",
+      "duration": 789
+    },
+    {
+      "id": "utIb9lrPEtA",
+      "title": "Elm front-end for Rust API (Part 3)",
+      "duration": 732
+    },
+    {
+      "id": "LdAnEUd517o",
+      "title": "Rust Web Assembly - Building a Canvas Snake Game using Stdweb - Part 1",
+      "duration": 1113
+    },
+    {
+      "id": "cPj3801fYQU",
+      "title": "Rust Web Assembly - Building a Canvas Snake Game using Stdweb - Part 2",
+      "duration": 1429
+    },
+    {
+      "id": "Od_Q2d1SQ4U",
+      "title": "Rust Async/Await - Building a Web Crawler with Surf and Async-Std",
+      "duration": 1313
+    },
+    {
+      "id": "2IxQgXQl_Ws",
+      "title": "Rust Memory Management - Ownership and Borrowing",
+      "duration": 1293
+    },
+    {
+      "id": "RhFZxkxkeIc",
+      "title": "Rust Port Sniffer v2 - Update",
+      "duration": 892
+    }
+  ]
+}

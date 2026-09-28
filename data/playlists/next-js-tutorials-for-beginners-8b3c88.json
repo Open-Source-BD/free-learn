@@ -1,0 +1,285 @@
+{
+  "courseId": "next-js-tutorials-for-beginners-8b3c88",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:22.705Z",
+  "title": "Next.js Tutorials for Beginners",
+  "channel": "Dave Gray",
+  "videos": [
+    {
+      "id": "6h649f2fB9Q",
+      "title": "Next.js Tutorial for Beginners | Next.js 13",
+      "duration": 1004
+    },
+    {
+      "id": "vuznUqirz5I",
+      "title": "Next.js Pages, Layout, Links, Routes & Loading | Next.js 13 tutorial",
+      "duration": 1482
+    },
+    {
+      "id": "1n7slbDB1bQ",
+      "title": "Next.js Data Fetching, Dynamic Routes & Metadata | Nextjs 13",
+      "duration": 2588
+    },
+    {
+      "id": "E1HzFvXgrCs",
+      "title": "Next.js 13 SSG, SSR & ISR | Nextjs 13 tutorial",
+      "duration": 1321
+    },
+    {
+      "id": "PcHY2Py6AQY",
+      "title": "Next.js Client Components | Build a Small Project with Nextjs 13",
+      "duration": 2603
+    },
+    {
+      "id": "puIQhnjOfbc",
+      "title": "Next.js Blog Website | How to Build a Blog App with Nextjs 13",
+      "duration": 3290
+    },
+    {
+      "id": "xirQ7AMyTM8",
+      "title": "Next.js Route Handlers | API Routes in Nextjs 13",
+      "duration": 1243
+    },
+    {
+      "id": "-MFiza7ZRzs",
+      "title": "How to Build a REST API with Next.js 13",
+      "duration": 1877
+    },
+    {
+      "id": "h4-2K7nFf7s",
+      "title": "Next.js Middleware & Cors | Nextjs 13 tutorial",
+      "duration": 2288
+    },
+    {
+      "id": "Q3UP1Is8Pvw",
+      "title": "Revalidate with Next.js | On-Demand Revalidation in Nextjs 13",
+      "duration": 1693
+    },
+    {
+      "id": "v_HpVwCDAgU",
+      "title": "Mutating Data in Next.js | Mutations with Nextjs 13",
+      "duration": 1388
+    },
+    {
+      "id": "6ih_3m_UPKg",
+      "title": "Build and Deploy a Next.js Blog with Remote MDX Content Files and Nextjs 13",
+      "duration": 5304
+    },
+    {
+      "id": "843nec-IvW0",
+      "title": "Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours",
+      "duration": 25438
+    },
+    {
+      "id": "BmUsDuLO598",
+      "title": "Server Actions in Next.js | Nextjs 13 Server Mutations",
+      "duration": 1683
+    },
+    {
+      "id": "OyxDGWgNJMc",
+      "title": "How to Upload Images to a Server in Next.js | Nextjs 13",
+      "duration": 1864
+    },
+    {
+      "id": "Lna5CjbxD4o",
+      "title": "What is an Import Alias? And how to use them!",
+      "duration": 60
+    },
+    {
+      "id": "d7XJjQesDtE",
+      "title": "Build a Random Quote Machine with Nextjs, PlanetScale MySQL, & Drizzle ORM",
+      "duration": 3053
+    },
+    {
+      "id": "NWc7FU_qQ8g",
+      "title": "Next.js - What is Cold Boot Duration / Lambda Cold Start?",
+      "duration": 690
+    },
+    {
+      "id": "w2h54xz6Ndw",
+      "title": "Next-Auth Login Authentication Tutorial with Next.js App Directory",
+      "duration": 2427
+    },
+    {
+      "id": "ay-atEUGIc4",
+      "title": "Next.js Role-Based User Authorization & Access Control | Next Auth Protected Routes",
+      "duration": 2181
+    },
+    {
+      "id": "WtHQGlKGUrU",
+      "title": "My Login Authentication & User Registration Setup for React & Next.js | Kinde Auth",
+      "duration": 867
+    },
+    {
+      "id": "gpJKj45AikY",
+      "title": "Next.js Image Optimization with Image Component | Responsive Images",
+      "duration": 1188
+    },
+    {
+      "id": "Bz3No1RFXWY",
+      "title": "How to Use the Next.js blurDataUrl Images Prop with Plaiceholder",
+      "duration": 780
+    },
+    {
+      "id": "qaJpoDs_Uqo",
+      "title": "🚨 Avoid useState for Modals & Dialogs",
+      "duration": 60
+    },
+    {
+      "id": "AS79oJ3Fcf0",
+      "title": "Next.js with React Testing Library, Jest, TypeScript",
+      "duration": 1504
+    },
+    {
+      "id": "caWa3IFDUbY",
+      "title": "🤯 NEVER Guess React Event Types Again!",
+      "duration": 59
+    },
+    {
+      "id": "XTNqyEBPAFw",
+      "title": "Testing a Next.js App with React Testing Library & Jest",
+      "duration": 1830
+    },
+    {
+      "id": "KY-9VUaPXHE",
+      "title": "😲 I Was WRONG About Next.js Client Components",
+      "duration": 58
+    },
+    {
+      "id": "k0LPNKWCxx0",
+      "title": "How to Mock a REST API Server for Testing with Jest & React Testing Library",
+      "duration": 2644
+    },
+    {
+      "id": "D_w2Z3sIkTc",
+      "title": "Next.js Project Example with Discussion",
+      "duration": 855
+    },
+    {
+      "id": "loW6Zp5ussg",
+      "title": "Next.js MISTAKE is 👀 Easy to Make!",
+      "duration": 54
+    },
+    {
+      "id": "MdlYyqnvo7M",
+      "title": "Non-Serializable Props in Next.js",
+      "duration": 59
+    },
+    {
+      "id": "kf2m_as89gI",
+      "title": "What is ISR in Next.js? 🤔",
+      "duration": 58
+    },
+    {
+      "id": "j-A67bRKJ_c",
+      "title": "Next.js Auth in Under 60 Seconds 🏁",
+      "duration": 55
+    },
+    {
+      "id": "7zqI4qMDdg8",
+      "title": "Next.js Dark Mode with No Flicker + Tailwind CSS",
+      "duration": 583
+    },
+    {
+      "id": "lqc8fq3ajBs",
+      "title": "Next.js is NOT all JavaScript",
+      "duration": 60
+    },
+    {
+      "id": "XHSiMSEE2S8",
+      "title": "The Problem with Next.js",
+      "duration": 592
+    },
+    {
+      "id": "Zz_mP5gAnxc",
+      "title": "Next.js Reports tutorial with Microsoft Excel",
+      "duration": 1099
+    },
+    {
+      "id": "iA8JR8GgTKs",
+      "title": "Don't Make These Next.js Mistakes",
+      "duration": 781
+    },
+    {
+      "id": "O8AmIELoxrc",
+      "title": "Why I Don't Use Next.js Server Actions to Fetch Client-Side Data",
+      "duration": 443
+    },
+    {
+      "id": "v0_AT8zaLo8",
+      "title": "Build Your UI Component Library in React & Next.js | ShadCN UI for Beginners",
+      "duration": 1357
+    },
+    {
+      "id": "xF-BL8XF4mg",
+      "title": "Your Developer Portfolio NEEDS a Project like THIS",
+      "duration": 1057
+    },
+    {
+      "id": "YLagvzoWCL0",
+      "title": "Build an AI RAG Application with LangChain & Next.js",
+      "duration": 2014
+    },
+    {
+      "id": "1FyzVaWl4PA",
+      "title": "Next.js Template vs Layout with Page Transition Animations",
+      "duration": 1039
+    },
+    {
+      "id": "PCy-lBnG0Fw",
+      "title": "Next.js 15 Fixes Caching Issues | Nextjs Default Cache Changes",
+      "duration": 409
+    },
+    {
+      "id": "x6hrvwNzj10",
+      "title": "🚨 STOP Using Auth in Next.js Layouts",
+      "duration": 42
+    },
+    {
+      "id": "M836RZxReHU",
+      "title": "NextJS Parallel Routes Explained with a Simple Example",
+      "duration": 844
+    },
+    {
+      "id": "Ft2qs7tOW1k",
+      "title": "Next.js Modal with Parallel & Intercepting Routes, shadcn/ui Dialog",
+      "duration": 1558
+    },
+    {
+      "id": "WyL_Jc6_-sY",
+      "title": "Next.js Modal Form w/ React-Hook-Form, ShadCN/ui Dialog, Server Actions & Validation",
+      "duration": 1981
+    },
+    {
+      "id": "ahB3DgUMs1A",
+      "title": "Nextjs Server Actions Just Got Better",
+      "duration": 799
+    },
+    {
+      "id": "A_061Vqh6Bc",
+      "title": "Toast Notification Patterns with Next.js Server Actions and next-safe-action",
+      "duration": 1034
+    },
+    {
+      "id": "RxMFztEB6a4",
+      "title": "Why You Should Use TypeScript Generics with react-hook-form",
+      "duration": 501
+    },
+    {
+      "id": "a6lYZWN4lVA",
+      "title": "Drag and Drop in React - the missing example",
+      "duration": 1141
+    },
+    {
+      "id": "thQ-6hFpd4I",
+      "title": "Fetch Data at Intervals in Nextjs with this Custom React Hook",
+      "duration": 456
+    },
+    {
+      "id": "GvA2VVreK_g",
+      "title": "Optimize Your Code!  🔥 How I Optimized Drag n Drop Form Inputs",
+      "duration": 716
+    }
+  ]
+}

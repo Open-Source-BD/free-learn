@@ -1,0 +1,220 @@
+{
+  "courseId": "compilers-e0fa0e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:51.731Z",
+  "title": "Compilers",
+  "channel": "Ghassan Shobaki Computer Science Lectures",
+  "videos": [
+    {
+      "id": "W9B98S2mGGE",
+      "title": "Compilers Lecture 0: Introduction and Syllabus",
+      "duration": 1876
+    },
+    {
+      "id": "mH0XqOZ6Yjk",
+      "title": "Compilers Lecture 1: Compiler Overview (1): Structure and Major Components",
+      "duration": 3003
+    },
+    {
+      "id": "1oJNDYwDNWY",
+      "title": "Compilers Lecture 2: Compiler Overview (2): Register Allocation Concepts",
+      "duration": 2949
+    },
+    {
+      "id": "iuAmJsVM9hg",
+      "title": "Compilers Lecture 3: Compiler Overview (3): Instruction Scheduling Concepts",
+      "duration": 2813
+    },
+    {
+      "id": "bR5x5D2mMVg",
+      "title": "Compilers Lecture 4: Scanning (1): Finite Automata and Regular Expressions",
+      "duration": 2871
+    },
+    {
+      "id": "b-MXQ4qVoFU",
+      "title": "Compilers Lecture 5: Scanning (2): Regular Expressions for Programming Languages",
+      "duration": 1911
+    },
+    {
+      "id": "ptefJiuvZhk",
+      "title": "Compilers Lecture 6: Scanning (3): Converting a Regular Expression into an NFA",
+      "duration": 1675
+    },
+    {
+      "id": "QVFSSImRW0Y",
+      "title": "Compilers Lecture 7: Scanning (4): Converting an NFA into a DFA (The Subset Construction), Part I",
+      "duration": 736
+    },
+    {
+      "id": "UPwo6tNmBQY",
+      "title": "Compilers Lecture 8: Scanning (5): Converting an NFA into a DFA (The Subset Construction), Part II",
+      "duration": 2927
+    },
+    {
+      "id": "ul8n60wLGHM",
+      "title": "Compilers Lecture 9: Scanning (6): Converting an NFA into a DFA (The Subset Construction), Part III",
+      "duration": 1167
+    },
+    {
+      "id": "Vi_IPx4GLSw",
+      "title": "Compilers Lecture 10: Scanning (7): Implementation, Part I",
+      "duration": 1816
+    },
+    {
+      "id": "sb2GbNZ0Fw4",
+      "title": "Compilers Lecture 11: Scanning (8): Implementation, Part II",
+      "duration": 2484
+    },
+    {
+      "id": "a4H30Af55No",
+      "title": "Compilers Lecture 12: Parsing (1): Context-Free Grammars",
+      "duration": 2959
+    },
+    {
+      "id": "HXN2AGMRZWg",
+      "title": "Compilers Lecture 13: Parsing (2): Context-Free Grammars for Programming Language Constructs",
+      "duration": 3008
+    },
+    {
+      "id": "IAXJ3j2tB_Q",
+      "title": "Compilers Lecture 14: Parsing (3): LL(1) Parsing, Part I",
+      "duration": 3012
+    },
+    {
+      "id": "vrWr_5Yk1OA",
+      "title": "Compilers Lecture 15: Parsing (4): LL(1) Parsing, Part II: First and Follow Sets",
+      "duration": 2988
+    },
+    {
+      "id": "GIXxByw6jYo",
+      "title": "Compilers Lecture 16: Parsing (5): LL(1) Parsing, Part III",
+      "duration": 2913
+    },
+    {
+      "id": "Twv3q5NNPtM",
+      "title": "Compilers Lecture 17: Parsing (6): Recursive Descent Parsing",
+      "duration": 2685
+    },
+    {
+      "id": "tER4azjgBfI",
+      "title": "Compilers Lecture 18: Parsing (7): LR(1) Parsing, Part I",
+      "duration": 2986
+    },
+    {
+      "id": "p3AV5jhbL_A",
+      "title": "Compilers Lecture 19: Parsing (8): LR(1) Parsing, Part II",
+      "duration": 3013
+    },
+    {
+      "id": "r7_5wvnIUO4",
+      "title": "Compilers Lecture 20: Parsing (9): LR(1) Parsing, Part III",
+      "duration": 3014
+    },
+    {
+      "id": "DiYxgkhRNgE",
+      "title": "Compilers Lecture 21: Parsing (10): LR(1) Parsing, Part IV",
+      "duration": 2676
+    },
+    {
+      "id": "LBLwKB4cO00",
+      "title": "Compilers Lecture 22: Syntax-Directed Translation (1)",
+      "duration": 3011
+    },
+    {
+      "id": "a9Ano-H7uUA",
+      "title": "Compilers Lecture 23: Syntax-Directed Translation (2)",
+      "duration": 3009
+    },
+    {
+      "id": "jKN_kjtb128",
+      "title": "Compilers Lecture 24: Code Generation for Expressions",
+      "duration": 2123
+    },
+    {
+      "id": "y_L4cC7cgag",
+      "title": "Compilers Lecture 25: Code Generation for Conditionals and Loops (1)",
+      "duration": 2457
+    },
+    {
+      "id": "xh_U5FaCID4",
+      "title": "Compilers Lecture 26: Code Generation for Conditionals and Loops (2)",
+      "duration": 1070
+    },
+    {
+      "id": "8x057jVBCVM",
+      "title": "Compilers Lecture 27: Local Register Allocation (1)",
+      "duration": 2529
+    },
+    {
+      "id": "Q0VTbJeJ8To",
+      "title": "Compilers Lecture 28: Local Register Allocation (2)",
+      "duration": 2547
+    },
+    {
+      "id": "e_Mn0SI_lI8",
+      "title": "Compilers Lecture 29: Global Register Allocation (1)",
+      "duration": 2881
+    },
+    {
+      "id": "K6YIXlM1Wj8",
+      "title": "Compilers Lecture 30: Global Register Allocation (2)",
+      "duration": 2449
+    },
+    {
+      "id": "xs_Ef4ThDAo",
+      "title": "Compilers Lecture 31: Global Register Allocation (3)",
+      "duration": 1075
+    },
+    {
+      "id": "0wYgorCBaxM",
+      "title": "Compilers Lecture 32: Instruction Scheduling (1)",
+      "duration": 2896
+    },
+    {
+      "id": "IezEeP2R4iA",
+      "title": "Compilers Lecture 33: Instruction Scheduling (2)",
+      "duration": 2908
+    },
+    {
+      "id": "cd1gndixx2A",
+      "title": "Compilers Lecture 34: Intermediate-Level Optimizations (1)",
+      "duration": 2727
+    },
+    {
+      "id": "WrtT3Xwbt4s",
+      "title": "Compilers Lecture 35: Intermediate-Level Optimizations (2)",
+      "duration": 3031
+    },
+    {
+      "id": "zTey9_rPYSI",
+      "title": "Compilers Lecture 36: Intermediate-Level Optimizations (3)",
+      "duration": 1507
+    },
+    {
+      "id": "himxl1YiB6c",
+      "title": "Compilers Lecture 37: Program Performance and Profile-Guided Optimizations",
+      "duration": 1207
+    },
+    {
+      "id": "u9b9XvXhReI",
+      "title": "Compilers: Programming Assignment",
+      "duration": 632
+    },
+    {
+      "id": "kv8BOBDa4Hk",
+      "title": "Compilers: Solution to the First Quiz of Fall 2017",
+      "duration": 1606
+    },
+    {
+      "id": "pcdYlbWvYhs",
+      "title": "Compilers: Solution to the Final Exam of Fall 2016 (1)",
+      "duration": 2956
+    },
+    {
+      "id": "-Hxb6T_CsK0",
+      "title": "Compilers: Solution to the Final Exam of Fall 2016 (2)",
+      "duration": 2723
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "courseId": "django-3-0-crash-course-tutorials-customer-management-app-607803",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:21.915Z",
+  "title": "Django (3.0) Crash Course Tutorials | Customer Management App",
+  "channel": "Dennis Ivy",
+  "videos": [
+    {
+      "id": "xv_bwpA_aEA",
+      "title": "What is Django? | Getting Started | Django Framework (3.0)  Crash Course Tutorials (pt 1)",
+      "duration": 634
+    },
+    {
+      "id": "QvTyqta3OJo",
+      "title": "URLS and Views | Django Framework (3.0) Crash Course Tutorials (pt 2)",
+      "duration": 578
+    },
+    {
+      "id": "9aEsZxaOwRs",
+      "title": "Templates &  Inheritance | Django Framework (3.0) Crash Course Tutorials (pt 3)",
+      "duration": 1286
+    },
+    {
+      "id": "kqyfEz7TNI0",
+      "title": "Static Files & Images | Django Framework (3.0) Crash Course Tutorials (pt 4)",
+      "duration": 471
+    },
+    {
+      "id": "mOu9fpfzyUg",
+      "title": "Database Models & Admin Panel |  Django Framework (3.0) Crash Course Tutorials (pt 5)",
+      "duration": 1064
+    },
+    {
+      "id": "wIPHER2UBB4",
+      "title": "Database Relationships | One To Many & Many to Many  | Django (3.0)  Crash Course Tutorials (pt 6)",
+      "duration": 839
+    },
+    {
+      "id": "PD3YnPSHC-c",
+      "title": "Database Model Queries  | Django (3.0)  Crash Course Tutorials (pt 7)",
+      "duration": 879
+    },
+    {
+      "id": "7a23TbUXfWE",
+      "title": "Rendering Data to Templates | Template Tags | Django (3.0)  Crash Course Tutorials (pt 8)",
+      "duration": 759
+    },
+    {
+      "id": "HhjnQIpXqPc",
+      "title": "Dynamic URL Routing & Templates | Django (3.0)  Crash Course Tutorials (pt 9)",
+      "duration": 524
+    },
+    {
+      "id": "HsyPaQ_B8kY",
+      "title": "Dynamic URL's (Part 2) | Django (3.0)  Crash Course Tutorials (pt 9.5)",
+      "duration": 292
+    },
+    {
+      "id": "EX6Tt-ZW0so",
+      "title": "Create Update & Delete (CRUD) with  Model Forms | Django (3.0)  Crash Course Tutorials (pt 10)",
+      "duration": 1535
+    },
+    {
+      "id": "MRWFg30FmZQ",
+      "title": "Inline Formsets | Django (3.0)  Crash Course Tutorials (pt 11)",
+      "duration": 643
+    },
+    {
+      "id": "G-Rct7Na0UQ",
+      "title": "Filter Form Table Search | Django (3.0)  Crash Course Tutorials (pt 12)",
+      "duration": 855
+    },
+    {
+      "id": "tUqUdu0Sjyc",
+      "title": "User Registration and Login Authentication | Django (3.0)  Crash Course Tutorials (pt 14)",
+      "duration": 2263
+    },
+    {
+      "id": "eBsc65jTKvw",
+      "title": "User Role Based Permissions & Authentication | Django (3.0)  Crash Course Tutorials (pt 15)",
+      "duration": 1344
+    },
+    {
+      "id": "gXGQmt_U9Ao",
+      "title": "User Profile With One To One Relationship | Django (3.0) Crash Course Tutorials (pt 16)",
+      "duration": 517
+    },
+    {
+      "id": "aNk2CAkHvlE",
+      "title": "Image File Upload to User Profile Model | Django (3.0) Crash Course Tutorials (pt 17)",
+      "duration": 1030
+    },
+    {
+      "id": "Kc1Q_ayAeQk",
+      "title": "Introduction to Django Signals | Django (3.0) Crash Course Tutorials (pt 18)",
+      "duration": 808
+    },
+    {
+      "id": "jYzTKcvO0Pk",
+      "title": "Creating Customer Profiles with Django Signals | Django (3.0) Crash Course Tutorials (pt 19)",
+      "duration": 449
+    },
+    {
+      "id": "sFPcd6myZrY",
+      "title": "Password Reset Email | Django (3.0) Crash Course Tutorials (pt 20)",
+      "duration": 1168
+    },
+    {
+      "id": "3HPq12w-dww",
+      "title": "Postgres Database + AWS RDS |  Django (3.0) Crash Course Tutorials (pt 21)",
+      "duration": 1029
+    },
+    {
+      "id": "inQyZ7zFMHM",
+      "title": "File Storage with AWS S3 Buckets Upload |  Django (3.0) Crash Course Tutorials (pt 22)",
+      "duration": 808
+    },
+    {
+      "id": "kBwhtEIXGII",
+      "title": "Deploying to Heroku Server  |  Django (3.0) Crash Course Tutorials (pt 23)",
+      "duration": 1658
+    },
+    {
+      "id": "TFFtDLZnbSs",
+      "title": "Heroku Postgres Connection | Django (3.0) Crash Course Tutorials (pt 24)",
+      "duration": 715
+    }
+  ]
+}

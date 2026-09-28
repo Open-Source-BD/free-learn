@@ -1,0 +1,530 @@
+{
+  "courseId": "comprehensive-nest-js-course-from-beginner-to-expert-fd11c7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:52.465Z",
+  "title": "💥 Complete NestJS Backend Course (Beginner to Advanced) - Build RESTful APIs and a Full-Stack Social Media App",
+  "channel": "procademy",
+  "videos": [
+    {
+      "id": "b9p1VCaKlVw",
+      "title": "#00 Introduction to Nest JS Course | What to Expect from this Course | A Complete Nest JS Course",
+      "duration": 357
+    },
+    {
+      "id": "aJ38fvBVT0c",
+      "title": "#01 What is Nest JS | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 264
+    },
+    {
+      "id": "FejvugxPWEQ",
+      "title": "#02 Setting up Development Environment | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 478
+    },
+    {
+      "id": "q8MkwR0E_lo",
+      "title": "#03 Create & Run Nest JS Application | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 746
+    },
+    {
+      "id": "4ug9cik_Tao",
+      "title": "#04 Nest JS Project Files & Folders | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 652
+    },
+    {
+      "id": "uGOQJPWcIA8",
+      "title": "#05 How Nest JS App Bootstraps | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 889
+    },
+    {
+      "id": "8vmR8UYgJv0",
+      "title": "#06 What is a Module | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 716
+    },
+    {
+      "id": "KACeL8cr_fI",
+      "title": "#07 How to Create a Module | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 716
+    },
+    {
+      "id": "nEaLIrNk0uk",
+      "title": "#08 What is REST API | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 1232
+    },
+    {
+      "id": "Ztliccw6cso",
+      "title": "#09 REST API Testing with Postman | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 484
+    },
+    {
+      "id": "RFz7chwwjRo",
+      "title": "#10 How to Create a Controller | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 830
+    },
+    {
+      "id": "3LQy2beV_Bs",
+      "title": "#11 Working with Route Decorators | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 351
+    },
+    {
+      "id": "PXyJCP0GES4",
+      "title": "#12 How to Create a Service | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 880
+    },
+    {
+      "id": "G5bgQew9eEs",
+      "title": "#13 Reading Route Parameter Value | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 1024
+    },
+    {
+      "id": "3JiJ_bS9Iys",
+      "title": "#14 Reading Query String Value | Nest JS Project & Modules | A Complete Nest JS Course",
+      "duration": 772
+    },
+    {
+      "id": "JZjBwubZGwQ",
+      "title": "#15 What are Pipes in Nest JS | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 557
+    },
+    {
+      "id": "K7T58cZj-_o",
+      "title": "#16 Built in Pipes of Nest JS | Nest JS Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 993
+    },
+    {
+      "id": "ziEs4TDd0BU",
+      "title": "#17 What is a DTO | Nest JS Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 549
+    },
+    {
+      "id": "BzJ_VzecFF4",
+      "title": "#18 Validating DTO with Class Validator | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 703
+    },
+    {
+      "id": "OO2dzRqOepE",
+      "title": "#19 Connecting DTO to Route Method | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 680
+    },
+    {
+      "id": "T591yVbZSLw",
+      "title": "#20 Global Pipes | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 297
+    },
+    {
+      "id": "t4DhvrTgTxE",
+      "title": "#21 Configuring Validation Pipe | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 656
+    },
+    {
+      "id": "wLXvQoWuBBc",
+      "title": "#22 Using DTO with Route Parameter | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 712
+    },
+    {
+      "id": "vMZXbxCrK-s",
+      "title": "#23 Using Mapped Types with DTO | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 893
+    },
+    {
+      "id": "t9e79gBFZJY",
+      "title": "#24 Understanding Dependency Injection | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 524
+    },
+    {
+      "id": "43Spg6IHbis",
+      "title": "#25 Types of Dependency in Nest JS | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 510
+    },
+    {
+      "id": "_z47y0gDNCw",
+      "title": "#26 Inter Modular Dependency | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 1104
+    },
+    {
+      "id": "edY3p31H5q0",
+      "title": "#27 Circular Dependency | Pipes & Dependency Injection | A Complete Nest JS Course",
+      "duration": 1232
+    },
+    {
+      "id": "LrA_OoJsAJo",
+      "title": "#28 Working with Database | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 690
+    },
+    {
+      "id": "PVjoiAt5QTM",
+      "title": "#29 What is an ORM | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 764
+    },
+    {
+      "id": "_po_HqpYlO8",
+      "title": "#30 Installing PostgreSQL | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 646
+    },
+    {
+      "id": "_CG2BfaJD3w",
+      "title": "#31 Connecting to PostgreSQL Database | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 617
+    },
+    {
+      "id": "NTZEJ5-06vc",
+      "title": "#32 Asynchronous Connection | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 384
+    },
+    {
+      "id": "gMJXPkHFbBA",
+      "title": "#33 Understanding Repository Pattern | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 479
+    },
+    {
+      "id": "sR-bElzeGX4",
+      "title": "#34 Create a User Entity | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 752
+    },
+    {
+      "id": "WwCPnK_OU-w",
+      "title": "#35 Configuring Entity Columns | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 651
+    },
+    {
+      "id": "A-q9K5-4Y2Y",
+      "title": "#36 Creating a User Repository | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 1262
+    },
+    {
+      "id": "SIRLjdrqOAY",
+      "title": "#37 Using Date Column Options | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 1183
+    },
+    {
+      "id": "sE5fRd4LBDE",
+      "title": "#38 Auto Loading Entities | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 323
+    },
+    {
+      "id": "Q11y2ixEok4",
+      "title": "#39 Relation Between SQL Tables | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 900
+    },
+    {
+      "id": "V5K9KzEaA2o",
+      "title": "#40 One to One Relationship | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 715
+    },
+    {
+      "id": "vh-eADsi9KE",
+      "title": "#41 Creating a Profile with User | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 830
+    },
+    {
+      "id": "KuMxG1uPDc0",
+      "title": "#42 Cascading Insert Operation | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 743
+    },
+    {
+      "id": "bKGw3CZIwDw",
+      "title": "#43 Query Data with Eager Loading | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 688
+    },
+    {
+      "id": "nVPFYhSTEK0",
+      "title": "#44 Delete Related Entities | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 643
+    },
+    {
+      "id": "070_4bitvpA",
+      "title": "#45 Bi-Directional One to One Relation | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 535
+    },
+    {
+      "id": "6U68YisP2oE",
+      "title": "#46 Cascading Delete Operation | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 648
+    },
+    {
+      "id": "v_rIZhbOcYg",
+      "title": "#47 One to Many Relationship | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 794
+    },
+    {
+      "id": "6nh-RlV91c0",
+      "title": "#48 Create Tweet API | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 1010
+    },
+    {
+      "id": "8MAuwnuCewM",
+      "title": "#49 Get Tweet API with Eager Loading | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 568
+    },
+    {
+      "id": "pVwDxOPQ6uk",
+      "title": "#50 Many to Many Relationship | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 1083
+    },
+    {
+      "id": "A5dZvOnA460",
+      "title": "#51 Create a Tweet with Hashtag | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 944
+    },
+    {
+      "id": "K1XffyMmk5A",
+      "title": "#52 Update Tweet API | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 1062
+    },
+    {
+      "id": "bkYy6qNHmWU",
+      "title": "#53 Delete Tweet & Related Hashtag | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 743
+    },
+    {
+      "id": "H3Xo8p95zhI",
+      "title": "#54 Bi-Directional Many to Many Relation | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 918
+    },
+    {
+      "id": "lBCNHz1Jalo",
+      "title": "#55 Soft Delete Hashtag | Working with SQL Database | A Complete Nest JS Course",
+      "duration": 523
+    },
+    {
+      "id": "Dz3SZePoIRo",
+      "title": "#56 What is an Environment Variable | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 1010
+    },
+    {
+      "id": "0AKiaX-kfBo",
+      "title": "#57 Install & Use Config Module | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 935
+    },
+    {
+      "id": "w6lmgFryDSg",
+      "title": "#58 Reading Environment Variables | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 576
+    },
+    {
+      "id": "W3SJUFzZpEE",
+      "title": "#59 Load Environment File Dynamically | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 1105
+    },
+    {
+      "id": "TCcnCZKDDpY",
+      "title": "#60 Custom Configuration File | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 808
+    },
+    {
+      "id": "XdTWlFgyoYo",
+      "title": "#61 Custom Config File with Namespace | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 539
+    },
+    {
+      "id": "QniA-9Mx32Y",
+      "title": "#62 Partial Registration | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 880
+    },
+    {
+      "id": "WpkYDxgcBow",
+      "title": "#63 Validating Environment Variables | Environment Variables in Nest JS | A Complete Nest JS Course",
+      "duration": 887
+    },
+    {
+      "id": "2SsOKThVmbc",
+      "title": "#64 Introduction to Exceptions | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 846
+    },
+    {
+      "id": "VGNueTI9GG0",
+      "title": "#65 DB Connection Error Handling | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 614
+    },
+    {
+      "id": "CRAD4oZoWjA",
+      "title": "#66 Handling Exception Conditionally | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 652
+    },
+    {
+      "id": "2S9j8qsIWMw",
+      "title": "#67 Modal Constraint Exception Handling | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 703
+    },
+    {
+      "id": "NpGkx_rU7QY",
+      "title": "#68 Custom Exception using HttpException | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 871
+    },
+    {
+      "id": "B5p1zaBf_Js",
+      "title": "#69 Creating a Custom Exception Class | Exception Handling in Nest JS | A Complete Nest JS Course",
+      "duration": 572
+    },
+    {
+      "id": "5U4CgdRKqIk",
+      "title": "#70 Introduction to Pagination | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 592
+    },
+    {
+      "id": "NE09aU7gMSQ",
+      "title": "#71 Creating DTO for Pagination Query | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 831
+    },
+    {
+      "id": "amLahhx0qC4",
+      "title": "#72 Add Pagination Logic for Tweets | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 673
+    },
+    {
+      "id": "7WbgBUoarVU",
+      "title": "#73 Understanding DTO Intersection | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 527
+    },
+    {
+      "id": "-oeCoL6GGCM",
+      "title": "#74 Creating a Pagination Module & Interface | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 829
+    },
+    {
+      "id": "1hoMlS6T8fY",
+      "title": "#75 Using Pagination Query Provider | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 622
+    },
+    {
+      "id": "EQEs3VSqb0g",
+      "title": "#76 Creating the response Object | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 763
+    },
+    {
+      "id": "Fc5lNYYTer8",
+      "title": "#77 Creating the Page Links | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 1190
+    },
+    {
+      "id": "v0sMDJzWvs0",
+      "title": "#78 Add Pagination for Users | Pagination in Nest JS | A Complete Nest JS Course",
+      "duration": 522
+    },
+    {
+      "id": "q2inBSgTsnA",
+      "title": "#79 Introduction to Authentication | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 688
+    },
+    {
+      "id": "8jQZdDaBL3I",
+      "title": "#80 Creating a User Signup API | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 953
+    },
+    {
+      "id": "bAuBM9trrMQ",
+      "title": "#81 Password Hashing & Salting | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 673
+    },
+    {
+      "id": "AAMwyKWf-jg",
+      "title": "#82 Creating a Hashing Provider | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 1130
+    },
+    {
+      "id": "nzmWJDS_xPY",
+      "title": "#83 Storing Hashed Password in Database | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 725
+    },
+    {
+      "id": "O-FF_16D2Z4",
+      "title": "#84 Creating a User Login API | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 1093
+    },
+    {
+      "id": "MetScPx2IOU",
+      "title": "#85 Compare Passwords | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 455
+    },
+    {
+      "id": "ZiwbjhN1qKY",
+      "title": "#86 Understanding JWT | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 1037
+    },
+    {
+      "id": "Xshacm_Hpuc",
+      "title": "#87 Creating JWT Config File | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 660
+    },
+    {
+      "id": "1k17g8Cn1kM",
+      "title": "#88 Generating JWT | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 707
+    },
+    {
+      "id": "4v2n8-FkKPc",
+      "title": "#89 Understanding Guards | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 716
+    },
+    {
+      "id": "FU00wTFBdmU",
+      "title": "#90 Extract Token from Request | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 564
+    },
+    {
+      "id": "RlQPjfvOFv8",
+      "title": "#91 Validate JWT | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 649
+    },
+    {
+      "id": "kZ-oWiAd3uI",
+      "title": "#92 Using Authorize Guard | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 632
+    },
+    {
+      "id": "ECxY4cIgHdQ",
+      "title": "#93 Applying Guard Globally | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 662
+    },
+    {
+      "id": "veJ-txXV0n8",
+      "title": "#94 Understanding Decorators | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 624
+    },
+    {
+      "id": "BJviDZ2stXY",
+      "title": "#95 Allow Anonymous Access to Routes | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 573
+    },
+    {
+      "id": "yruK7mvIGGs",
+      "title": "#96 Read User from Request | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 683
+    },
+    {
+      "id": "UD0h_re9S-Y",
+      "title": "#97 Create Active User Decorator | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 714
+    },
+    {
+      "id": "e4_zaU3Pifk",
+      "title": "#98 Update Create Tweet Method | Authentication in Nest JS | A Complete Nest JS Course",
+      "duration": 1306
+    },
+    {
+      "id": "4BXGn9_-4Xs",
+      "title": "#99 Introduction to Refresh Token | Authentication with Refresh Token | A Complete Nest JS Course",
+      "duration": 455
+    },
+    {
+      "id": "qZNznlPQ4KA",
+      "title": "#100 Creating a Sign Token Method | Authentication with Refresh Token | A Complete Nest JS Course",
+      "duration": 632
+    },
+    {
+      "id": "VgV6RY19ous",
+      "title": "#101 Creating Generate Token Method | Authentication with Refresh Token | A Complete Nest JS Course",
+      "duration": 441
+    },
+    {
+      "id": "Ci9ZGT6J07Y",
+      "title": "#102 Creating a Refresh Token API | Authentication with Refresh Token | A Complete Nest JS Course",
+      "duration": 382
+    },
+    {
+      "id": "5CiFlKZKvis",
+      "title": "#103 Implement Refresh Token Logic | Authentication with Refresh Token | A Complete Nest JS Course",
+      "duration": 551
+    }
+  ]
+}

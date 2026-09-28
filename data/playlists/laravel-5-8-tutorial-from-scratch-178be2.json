@@ -1,0 +1,270 @@
+{
+  "courseId": "laravel-5-8-tutorial-from-scratch-178be2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:40.846Z",
+  "title": "Laravel 5.8 - From The Ground Up",
+  "channel": "Coder's Tape",
+  "videos": [
+    {
+      "id": "qiMYkrkXJ6k",
+      "title": "Laravel 5.8 Tutorial From Scratch - e01 - Installation",
+      "duration": 322
+    },
+    {
+      "id": "x8d0PosueLI",
+      "title": "Laravel 5.8 Tutorial From Scratch - e02 - Web Routes",
+      "duration": 257
+    },
+    {
+      "id": "mywbPC1TZnA",
+      "title": "Laravel 5.8 Tutorial From Scratch - e03 - Views",
+      "duration": 339
+    },
+    {
+      "id": "YyID0VuFS_U",
+      "title": "Laravel 5.8 Tutorial From Scratch - e04 - Passing Data to Views",
+      "duration": 381
+    },
+    {
+      "id": "aVrgGAB7Y3A",
+      "title": "Laravel 5.8 Tutorial From Scratch - e05 - Controllers",
+      "duration": 257
+    },
+    {
+      "id": "k1GDORPzHFI",
+      "title": "Laravel 5.8 Tutorial From Scratch - e06 - Blade Templating Basics",
+      "duration": 501
+    },
+    {
+      "id": "kWmnQvznkUI",
+      "title": "Laravel 5.8 Tutorial From Scratch - e07 - SQLite Database",
+      "duration": 620
+    },
+    {
+      "id": "WT6sEJD7gFc",
+      "title": "Laravel 5.8 Tutorial From Scratch - e08 - Adding Customers To The Database",
+      "duration": 372
+    },
+    {
+      "id": "Frv0X57_TXI",
+      "title": "Laravel 5.8 Tutorial From Scratch - e09 - Form Validation",
+      "duration": 281
+    },
+    {
+      "id": "IRZeVfGbZZE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e10 - Adding Email For Customers",
+      "duration": 498
+    },
+    {
+      "id": "j0OPNAXFaow",
+      "title": "Laravel 5.8 Tutorial From Scratch - e11 - Cleaning Up The Views",
+      "duration": 553
+    },
+    {
+      "id": "xB85dtFtauE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e12 - Eloquent Where Clause",
+      "duration": 703
+    },
+    {
+      "id": "L1E_uJxNC3M",
+      "title": "Laravel 5.8 Tutorial From Scratch - e13 - Eloquent Scopes & Mass Assignment",
+      "duration": 942
+    },
+    {
+      "id": "3Oxfi3DLdkI",
+      "title": "Laravel 5.8 Tutorial From Scratch - e14 - Eloquent BelongsTo & HasMany Relationships",
+      "duration": 817
+    },
+    {
+      "id": "LhzCdEeEeQA",
+      "title": "Laravel 5.8 Tutorial From Scratch - e15 - Eloquent Accessors & RESTful Controller - Part 1",
+      "duration": 945
+    },
+    {
+      "id": "eE6mIfOHr8Y",
+      "title": "Laravel 5.8 Tutorial From Scratch - e16 - Eloquent Route Model Binding & RESTful Controller - Part 2",
+      "duration": 595
+    },
+    {
+      "id": "szcb047Cp6g",
+      "title": "Laravel 5.8 Tutorial From Scratch - e17 - Eloquent Route Model Binding & RESTful Controller - Part 3",
+      "duration": 569
+    },
+    {
+      "id": "7n2ZElFqP1I",
+      "title": "Laravel 5.8 Tutorial From Scratch - e18 - Eloquent Route Model Binding & RESTful Controller - Part 4",
+      "duration": 1008
+    },
+    {
+      "id": "iQoRh_9LkjU",
+      "title": "Laravel 5.8 Tutorial From Scratch - e19 - Handling a Contact Form Using a Laravel Mailable",
+      "duration": 1105
+    },
+    {
+      "id": "dFe2a5xipkY",
+      "title": "Laravel 5.8 Tutorial From Scratch - e20 - Flashing Data to Session & Conditional Alerts in View",
+      "duration": 425
+    },
+    {
+      "id": "SbPYrndtjJ4",
+      "title": "Laravel 5.8 Tutorial From Scratch - e21 - Artisan Authentication - Register, Login & Password Reset",
+      "duration": 697
+    },
+    {
+      "id": "5Cf-04IzGSo",
+      "title": "Laravel 5.8 Tutorial From Scratch - e22 - Artisan Authentication Restricting Access with Middleware",
+      "duration": 520
+    },
+    {
+      "id": "CQyNDnMhf8U",
+      "title": "Laravel 5.8 Tutorial From Scratch - e23 - Adding a Custom Middleware",
+      "duration": 664
+    },
+    {
+      "id": "QQl7VJKRoTg",
+      "title": "Laravel 5.8 Tutorial From Scratch - e24 - URL Helpers",
+      "duration": 616
+    },
+    {
+      "id": "kAzxwMesVNk",
+      "title": "Laravel 5.8 Tutorial From Scratch - e25 - Front End Setup with NPM, Node, Vue & Webpack",
+      "duration": 673
+    },
+    {
+      "id": "BoYQpwvKLuE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e26 - Vue Basics 101",
+      "duration": 957
+    },
+    {
+      "id": "YLwy5EPYjbg",
+      "title": "Laravel 5.8 Tutorial From Scratch - e27 - Frontend Presets for React, Vue, Bootstrap & Tailwind CSS",
+      "duration": 451
+    },
+    {
+      "id": "6wZKwJQF7Is",
+      "title": "Laravel 5.8 Tutorial From Scratch - e28 - Events & Listeners",
+      "duration": 1219
+    },
+    {
+      "id": "lGOACudnLWE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e29 - Queues: Database Driver",
+      "duration": 537
+    },
+    {
+      "id": "5wJ3NHDR134",
+      "title": "Laravel 5.8 Tutorial From Scratch - e30 - queue:work In The Background",
+      "duration": 340
+    },
+    {
+      "id": "VopxsIHrJH4",
+      "title": "Laravel 5.8 Tutorial From Scratch - e31 - Deployment: Basic Server Setup - SSH, UFW, Nginx - Part 1",
+      "duration": 971
+    },
+    {
+      "id": "duKZPrQ1Lvo",
+      "title": "Laravel 5.8 Tutorial From Scratch - e32 - Deployment: Basic Server Setup - MySQL, PHP 7 - Part 2",
+      "duration": 1312
+    },
+    {
+      "id": "cDoBCn7i9cs",
+      "title": "Laravel 5.8 Tutorial From Scratch - e33 - Deployment: Basic Server Setup - SSL, HTTPS - Part 3",
+      "duration": 772
+    },
+    {
+      "id": "uWrecwtVarw",
+      "title": "Laravel 5.8 Tutorial From Scratch - e34 - Artisan Commands - Part 1",
+      "duration": 668
+    },
+    {
+      "id": "5o1raoxJI3U",
+      "title": "Laravel 5.8 Tutorial From Scratch - e35 - Artisan Commands - Part 2",
+      "duration": 300
+    },
+    {
+      "id": "mMnjTO1-yLg",
+      "title": "Laravel 5.8 Tutorial From Scratch - e36 - Artisan Commands (Closure) - Part 3",
+      "duration": 488
+    },
+    {
+      "id": "s37i5W1Bzp8",
+      "title": "Laravel 5.8 Tutorial From Scratch - e37 - Model Factories",
+      "duration": 475
+    },
+    {
+      "id": "U5gxiPNcSZU",
+      "title": "Laravel 5.8 Tutorial From Scratch - e38 - Database & Table Seeders",
+      "duration": 739
+    },
+    {
+      "id": "sriGJ2thWKo",
+      "title": "Laravel 5.8 Tutorial From Scratch - e39 - Image Upload - Part 1",
+      "duration": 1186
+    },
+    {
+      "id": "qivfsoTkmws",
+      "title": "Laravel 5.8 Tutorial From Scratch - e40 - Image Upload: Cropping & Resizing - Part 2",
+      "duration": 684
+    },
+    {
+      "id": "qeGbPeM3_m8",
+      "title": "Laravel 5.8 Tutorial From Scratch - e41 - Telescope",
+      "duration": 331
+    },
+    {
+      "id": "bZlvzvGpCEE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e42 - Lazy Loading vs. Eager Loading (Fixing N + 1 Problem)",
+      "duration": 303
+    },
+    {
+      "id": "4yfRdl2-3mE",
+      "title": "Laravel 5.8 Tutorial From Scratch - e43 - Pagination",
+      "duration": 260
+    },
+    {
+      "id": "NrlY-xeqHBg",
+      "title": "Laravel 5.8 Tutorial From Scratch - e44 - Policies",
+      "duration": 969
+    },
+    {
+      "id": "9yeJ-93B-R4",
+      "title": "Laravel 5.8 Tutorial From Scratch - e45 - Eloquent Relationships One To One (hasOne, BelongsTo)",
+      "duration": 551
+    },
+    {
+      "id": "_2wJWVQEFAU",
+      "title": "Laravel 5.8 Tutorial From Scratch - e46 - Eloquent Relationships One To Many (hasMany, BelongsTo)",
+      "duration": 460
+    },
+    {
+      "id": "f7quw05phxs",
+      "title": "Laravel 5.8 Tutorial From Scratch - e47 - Eloquent Relationships Many To Many (BelongsToMany)",
+      "duration": 834
+    },
+    {
+      "id": "ztu_Y0I2UIM",
+      "title": "Laravel 5.8 Tutorial From Scratch - e48 - Eloquent Relationships Many To Many Part 2 (BelongsToMany)",
+      "duration": 363
+    },
+    {
+      "id": "RJ_iXzdSpT0",
+      "title": "Laravel 5.8 Tutorial From Scratch - e49 - Testing 101 Using PHPUnit",
+      "duration": 1566
+    },
+    {
+      "id": "LmTcMwurJsA",
+      "title": "Laravel 5.8 Tutorial From Scratch - e50 - SEO Friendly URLs",
+      "duration": 825
+    },
+    {
+      "id": "ymdcTOXXSBY",
+      "title": "Laravel 5.8 Tutorial From Scratch - e51 - Localization, Translations & Language Files",
+      "duration": 703
+    },
+    {
+      "id": "0FprI1Pv9fM",
+      "title": "Laravel 5.8 Tutorial From Scratch - e52 - Multi Image File Upload & Gallery",
+      "duration": 2169
+    }
+  ]
+}

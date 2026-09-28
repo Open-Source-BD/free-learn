@@ -1,0 +1,60 @@
+{
+  "courseId": "devops-bootcamp-dc1052",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:08.113Z",
+  "title": "DevOps Bootcamp",
+  "channel": "Kunal Kushwaha",
+  "videos": [
+    {
+      "id": "ZbG0c87wcM8",
+      "title": "DevOps Bootcamp Announcement",
+      "duration": 1233
+    },
+    {
+      "id": "apGV9Kg7ics",
+      "title": "Complete Git and GitHub Tutorial",
+      "duration": 4360
+    },
+    {
+      "id": "IPvYjXCsTg8",
+      "title": "Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples",
+      "duration": 14816
+    },
+    {
+      "id": "iwolPf6kN-k",
+      "title": "Introduction to Linux & Terminal Commands - Full Course for Beginners",
+      "duration": 6997
+    },
+    {
+      "id": "IA90BTozdow",
+      "title": "Complete YAML Course - Beginner to Advanced for DevOps and more!",
+      "duration": 4907
+    },
+    {
+      "id": "17Bl31rlnRM",
+      "title": "Docker Tutorial for Beginners - What is Docker? Introduction to Containers",
+      "duration": 6179
+    },
+    {
+      "id": "KVBON1lA9N8",
+      "title": "Kubernetes Tutorial for Beginners | What is Kubernetes? Architecture Simplified!",
+      "duration": 6118
+    },
+    {
+      "id": "8YLsQIG2Svo",
+      "title": "Introduction to Argo CD & GitOps",
+      "duration": 2666
+    },
+    {
+      "id": "62N8UiWUdQo",
+      "title": "Introduction to GitHub Actions CI/CD",
+      "duration": 1244
+    },
+    {
+      "id": "QaPPSWHgd8c",
+      "title": "Learn Infrastructure Automation in 15 Minutes | Automate Ansible Playbooks at Scale with Kestra",
+      "duration": 1458
+    }
+  ]
+}

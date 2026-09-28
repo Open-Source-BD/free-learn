@@ -1,0 +1,30 @@
+{
+  "courseId": "ballerina-tables-basics-72d689",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0K--nPJCEQILMt4ZlpkfvHU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:14.270Z",
+  "title": "Ballerina Tables Basics",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "sfcGnS_g0U8",
+      "title": "Ballerina Language Table Data Type - Introduction",
+      "duration": 71
+    },
+    {
+      "id": "bd7ngHfXrxM",
+      "title": "Ballerina Language Table Data Type - Table Initialization",
+      "duration": 560
+    },
+    {
+      "id": "WB8pTu4T9oI",
+      "title": "Ballerina Language Table Data Type - Table Operations",
+      "duration": 271
+    },
+    {
+      "id": "8S85Hwx8YuI",
+      "title": "Ballerina Language Table Data Type - Table Langlib Functions",
+      "duration": 337
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "courseId": "theory-of-computation-e0e7af",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:42.161Z",
+  "title": "Theory of Computation_Prof. Subrahmanyam Kalyanasundaram",
+  "channel": "NPTEL-NOC IITM",
+  "videos": [
+    {
+      "id": "dVDUcuWPixU",
+      "title": "Theory of Computation",
+      "duration": 325
+    },
+    {
+      "id": "0cMd3lhjb9A",
+      "title": "W1L1_An Introduction to The Theory of Computation",
+      "duration": 1229
+    },
+    {
+      "id": "6NIe2KxGWsY",
+      "title": "W1L2_Notations and Terminology in Theory of Computation",
+      "duration": 1964
+    },
+    {
+      "id": "I-2LpMf9Z_k",
+      "title": "W1L3_An Introduction to Finite Automata and Regular Languages - Part 01",
+      "duration": 1905
+    },
+    {
+      "id": "3ulZxoB_5y4",
+      "title": "W1L4_An Introduction to Finite Automata and Regular Languages - Part 02",
+      "duration": 1651
+    },
+    {
+      "id": "MhGnh0FciS0",
+      "title": "W1L5_Significance of Regular Languages and Regular Operations",
+      "duration": 972
+    },
+    {
+      "id": "LcWIaHlsgGw",
+      "title": "W1L6_Closure Properties of Regular Languages Under Union, Concatenation and Kleene Star Operation",
+      "duration": 1948
+    },
+    {
+      "id": "oFH-vRocQ8I",
+      "title": "W1L7_Closure Properties of Regular Languages Under Union, Concatenation and Kleene Star Operation",
+      "duration": 745
+    },
+    {
+      "id": "8ln0ArI5FXY",
+      "title": "W2L8_An Introduction to Non-Deterministic Finite Automata (NFA)",
+      "duration": 2047
+    },
+    {
+      "id": "lOr0l3NN-G0",
+      "title": "W2L9_Formal Definitions and Examples of Non-Deterministic Finite Automata(NFA)",
+      "duration": 983
+    },
+    {
+      "id": "CEqRyV32yBo",
+      "title": "W2L10_Equivalence of NFA and DFA",
+      "duration": 2522
+    },
+    {
+      "id": "KF3UpVIndQ4",
+      "title": "W2L11_Closure of Regular Languages Under Regular Operations(Using NFA)",
+      "duration": 2312
+    },
+    {
+      "id": "P741HbQYnFw",
+      "title": "W2L12_Regular Expressions - Part 01",
+      "duration": 1710
+    },
+    {
+      "id": "B6hP4JNFQlQ",
+      "title": "W2L13_Regular Expressions - Part 02",
+      "duration": 1046
+    },
+    {
+      "id": "QTdVvyDUtdk",
+      "title": "W2L14_Proving Equivalence of Regular Expression and DFA Through a GNFA",
+      "duration": 2740
+    },
+    {
+      "id": "mH7Pq5l3mNM",
+      "title": "W3L15_Pumping Lemma for Regular Languages - Part 01",
+      "duration": 1930
+    },
+    {
+      "id": "pV3fDYvA7Rs",
+      "title": "W3L16_Pumping Lemma for Regular Languages - Part 02",
+      "duration": 2515
+    },
+    {
+      "id": "jYRd_wwslZg",
+      "title": "W3L17_Distinguishability of Strings and Myhill-Nerode Theorem",
+      "duration": 1805
+    },
+    {
+      "id": "POVIgT69UUE",
+      "title": "W3L18_Proving the Myhill-Nerode Theorem",
+      "duration": 2395
+    },
+    {
+      "id": "_7zFldNSybg",
+      "title": "W3L19_An Introduction to Context-Free Languages - Part 01",
+      "duration": 1637
+    },
+    {
+      "id": "m4eNNpyCv6s",
+      "title": "W3L20_An Introduction to Context-Free Languages - Part 02",
+      "duration": 2325
+    },
+    {
+      "id": "qwgl4rQX7YQ",
+      "title": "W4L21_Chomsky Normal Form",
+      "duration": 2233
+    },
+    {
+      "id": "YjoQWYDq3uo",
+      "title": "W4L22_CYK Algorithm - Part 1",
+      "duration": 1683
+    },
+    {
+      "id": "2fz_-6621RU",
+      "title": "W4L23_CYK Algorithm - Part 2 (Example)",
+      "duration": 1141
+    },
+    {
+      "id": "0E1Mbr1LcZM",
+      "title": "W4L24_Closure Properties of Context Free Languages",
+      "duration": 1045
+    },
+    {
+      "id": "E2AuGl872mk",
+      "title": "W4L25_An Introduction to Push Down Automata",
+      "duration": 2628
+    },
+    {
+      "id": "y0MXRqq-hms",
+      "title": "W4L26_Normalizations in PDA and Intersection of Regular Language & CFL",
+      "duration": 1315
+    },
+    {
+      "id": "aXkvu1d3Xfk",
+      "title": "W5L27_Equivalence of Context Free Grammars and Push Down Automata - Part 01",
+      "duration": 1513
+    },
+    {
+      "id": "djiOvVI6ULM",
+      "title": "W5L28_Equivalence of Context Free Grammars and Push Down Automata - Part 02",
+      "duration": 2026
+    },
+    {
+      "id": "QNuiXXAMccs",
+      "title": "W5L29_Equivalence of Context Free Grammars and Push Down Automata - Part 03",
+      "duration": 2026
+    },
+    {
+      "id": "AbCMVqbd8fo",
+      "title": "W5L30_Pumping Lemma for Context Free Languages",
+      "duration": 2276
+    },
+    {
+      "id": "0zFf5CuwOAc",
+      "title": "W5L31_Examples of Pumping Lemma Usage for Context Free Languages",
+      "duration": 1270
+    },
+    {
+      "id": "FW2tfhxDThs",
+      "title": "W5L32_Formal Definition of a Turing Machine",
+      "duration": 2238
+    },
+    {
+      "id": "t9eGtSOVjPk",
+      "title": "W6L33_Turing Recognizable & Decidable Languages and TM Examples",
+      "duration": 2469
+    },
+    {
+      "id": "JLkf_YHZlao",
+      "title": "W6L34_Multitape Turing Machine",
+      "duration": 1608
+    },
+    {
+      "id": "RG5bohlmaTk",
+      "title": "W6L35_Non-Deterministic Turing Machines",
+      "duration": 2201
+    },
+    {
+      "id": "9GmVwwEtkwQ",
+      "title": "W6L36_Equivalence of Deterministic and Nondeterministic TM",
+      "duration": 1617
+    },
+    {
+      "id": "yIim-rT7jKY",
+      "title": "W6L37_Church-Turing Thesis",
+      "duration": 1793
+    },
+    {
+      "id": "WiAVpj9uumU",
+      "title": "W7L38_Decidable Problems Concerning Regular Languages",
+      "duration": 1597
+    },
+    {
+      "id": "sud1QFIBz14",
+      "title": "W7L39_Decidable Problems Concerning Context Free Languages",
+      "duration": 1347
+    },
+    {
+      "id": "_QFe_dBA2ek",
+      "title": "W7L40_Countability of Sets",
+      "duration": 2038
+    },
+    {
+      "id": "Fwsy8ampXVc",
+      "title": "W7L41_Proof of Existence of Undecidable Languages",
+      "duration": 1603
+    },
+    {
+      "id": "9RGNfWWViaw",
+      "title": "W7L42_Halting Problem",
+      "duration": 2039
+    },
+    {
+      "id": "KvImCxmvvAM",
+      "title": "W7L43_Co-Turing Recognizability",
+      "duration": 1202
+    },
+    {
+      "id": "URfrS4o9Oq8",
+      "title": "W8L43_An Introduction to Mapping Reducibility",
+      "duration": 2037
+    },
+    {
+      "id": "0niOxXMi4ME",
+      "title": "W8L44_Examples of Proving Undecidability Using Reductions",
+      "duration": 2277
+    },
+    {
+      "id": "Trs3QhhSeUU",
+      "title": "W8L45_Rice Theorem",
+      "duration": 2073
+    },
+    {
+      "id": "og2jlHZNHFI",
+      "title": "W8L46_Computation Histories",
+      "duration": 2181
+    },
+    {
+      "id": "TzI3DXEXBwE",
+      "title": "W9L47_The Post Correspondence Problem",
+      "duration": 2787
+    },
+    {
+      "id": "q9q4LQkIrX8",
+      "title": "W9L48_Checking Ambiguity in CFG is Undecidable",
+      "duration": 1202
+    },
+    {
+      "id": "Jsh5iwNfmIQ",
+      "title": "W9L49_Time Complexity - Part 1",
+      "duration": 2000
+    },
+    {
+      "id": "dVHvcsSpZW8",
+      "title": "W9L50_Time Complexity - Part 2",
+      "duration": 1830
+    },
+    {
+      "id": "1TJE7IycxQU",
+      "title": "W9L51_Non-Deterministic Polynomial Time - Part 1",
+      "duration": 1924
+    },
+    {
+      "id": "n4xIf-qCaFk",
+      "title": "W9L52_Non-Deterministic Polynomial Time - Part 2",
+      "duration": 1082
+    },
+    {
+      "id": "GNez-Fwv9Eo",
+      "title": "W10L53_Verifiability and NP",
+      "duration": 2310
+    },
+    {
+      "id": "j8Wx0V-bpJM",
+      "title": "W10L54_Polynomial Time Reductions - Part 1",
+      "duration": 1392
+    },
+    {
+      "id": "oWwwqFgpHBA",
+      "title": "W10L55_Polynomial Time Reductions - Part 2",
+      "duration": 1639
+    },
+    {
+      "id": "Wp_nB-MF_Mk",
+      "title": "W10L56_NP-Completeness",
+      "duration": 882
+    },
+    {
+      "id": "96JURPTS8dA",
+      "title": "W10L57_Cook-Levin Theorem",
+      "duration": 2122
+    },
+    {
+      "id": "DjYUeE_6boc",
+      "title": "W10L51_Cook-Levin Theorem - Proof and Implications",
+      "duration": 2622
+    },
+    {
+      "id": "2UBcQEHH5Ew",
+      "title": "W11L59_CLIQUE and VERTEX-COVER is NP-Complete",
+      "duration": 2678
+    },
+    {
+      "id": "OzurrJe8Gzw",
+      "title": "W11L60_HAM-PATH is NP-Complete",
+      "duration": 2342
+    },
+    {
+      "id": "01WTVl2a_dk",
+      "title": "W11L61_SUBSET-SUM is NP-Complete",
+      "duration": 2356
+    },
+    {
+      "id": "RCYQGIU08ak",
+      "title": "W11L62_Knapsack Problem",
+      "duration": 1090
+    },
+    {
+      "id": "jkBj6QMDykE",
+      "title": "W11L63_Integer Linear Program is NP-Complete",
+      "duration": 1325
+    },
+    {
+      "id": "dGIhM1tpRmI",
+      "title": "L12L64_Space Complexity and its Complexity Classes",
+      "duration": 3052
+    },
+    {
+      "id": "1XHVkkOERcE",
+      "title": "W12L65_Logspace Reductions and NL-Completeness",
+      "duration": 3052
+    },
+    {
+      "id": "4q6JAjlpy4M",
+      "title": "W12L66_Savitch's theorem",
+      "duration": 1588
+    },
+    {
+      "id": "S71X2RViBfk",
+      "title": "W12L67_Results in Space Complexity",
+      "duration": 1858
+    },
+    {
+      "id": "MNfrspYhyy8",
+      "title": "W12L68_Summary and Concluding Remarks",
+      "duration": 1026
+    }
+  ]
+}

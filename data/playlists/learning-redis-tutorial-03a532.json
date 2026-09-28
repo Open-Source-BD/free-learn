@@ -1,0 +1,60 @@
+{
+  "courseId": "learning-redis-tutorial-03a532",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mt3iBO2eosx5vXHeaM92TG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:07.442Z",
+  "title": "Learning Redis Tutorial",
+  "channel": "Packt ",
+  "videos": [
+    {
+      "id": "mZ4RzHQoSps",
+      "title": "Learning Redis: The Course Overview | packtpub.com",
+      "duration": 176
+    },
+    {
+      "id": "vhZVZg0mTME",
+      "title": "Learning Redis: Installation | packtpub.com",
+      "duration": 395
+    },
+    {
+      "id": "8htXUfk98WY",
+      "title": "Learning Redis: Storing and Retrieving Strings | packtpub.com",
+      "duration": 513
+    },
+    {
+      "id": "wOXYfoFxiT4",
+      "title": "Learning Redis: Modeling a Player | packtpub.com",
+      "duration": 293
+    },
+    {
+      "id": "DJwEoGwrNCY",
+      "title": "Learning Redis: Sets and Membership | packtpub.com",
+      "duration": 225
+    },
+    {
+      "id": "lNYM57WVPA8",
+      "title": "Learning Redis: Understanding the Game | packtpub.com",
+      "duration": 339
+    },
+    {
+      "id": "u9akzy4U61g",
+      "title": "Learning Redis: The Player's Tray | packtpub.com",
+      "duration": 589
+    },
+    {
+      "id": "oF_4iVcYmZg",
+      "title": "Learning Redis: How Does a Sorted Set Work? | packtpub.com",
+      "duration": 488
+    },
+    {
+      "id": "nhv8gn068P0",
+      "title": "Learning Redis: Redis Events | packtpub.com",
+      "duration": 390
+    },
+    {
+      "id": "mRWH4_QmrdY",
+      "title": "Learning Redis: What Have You Learned? | packtpub.com",
+      "duration": 177
+    }
+  ]
+}

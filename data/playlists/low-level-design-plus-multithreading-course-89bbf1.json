@@ -1,0 +1,230 @@
+{
+  "courseId": "low-level-design-plus-multithreading-course-89bbf1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpxM6m39X_t-Rk9lZVVD4U6JycAAIIEDW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:04.049Z",
+  "title": "Low Level Design + MultiThreading Course",
+  "channel": "codeWithAryan",
+  "videos": [
+    {
+      "id": "xMNSTBGoGbU",
+      "title": "Introduction to LLD | How to Approach LLD Problems in an Interview 🔥",
+      "duration": 2961
+    },
+    {
+      "id": "XPCG24lEGTo",
+      "title": "Master OOPS in Record Time 🕰️ | OOPS Interview Questions 🔥",
+      "duration": 9766
+    },
+    {
+      "id": "uxe_0RFgT7A",
+      "title": "Design Principles | SOLID | DRY | KISS | YAGNI 🔥",
+      "duration": 3359
+    },
+    {
+      "id": "GDWg5yvWlu4",
+      "title": "Become a MASTER Developer by using Creational Design Pattern 🤝",
+      "duration": 754
+    },
+    {
+      "id": "qP-0MQOSxrc",
+      "title": "Factory Design Pattern in Java 🏭 | Simplify Object Creation with a Centralized Factory Method🚀",
+      "duration": 658
+    },
+    {
+      "id": "or1wpvH2Yps",
+      "title": "Abstract Factory Pattern in Java 🏭 | Scalable & Flexible Object Creation Explained! 🚀",
+      "duration": 706
+    },
+    {
+      "id": "j-U1xJ_PaDs",
+      "title": "Builder Design Pattern in Java 🔨 | Create Flexible & Scalable Objects | Step-by-Step Guide with Code",
+      "duration": 1039
+    },
+    {
+      "id": "1HCUDQTQrC0",
+      "title": "Singleton Design Pattern in Java 🔁 | Efficient & Thread-Safe Object Creation Explained🚀",
+      "duration": 1123
+    },
+    {
+      "id": "ECPEWMIvRKQ",
+      "title": "Prototype Design Pattern in Java 🎭 | Efficient Object Cloning Explained | Shallow vs Deep Copy  🚀",
+      "duration": 994
+    },
+    {
+      "id": "J43PRo7VVnc",
+      "title": "Master Behavioral Design Patterns | 🔍 Overview for System Design Interviews 🎯",
+      "duration": 683
+    },
+    {
+      "id": "AcY2GWHCe7k",
+      "title": "Strategy Pattern Guide ⚙️| Pick the Best Algorithm Dynamically 🚀",
+      "duration": 563
+    },
+    {
+      "id": "oCKv6jE62-o",
+      "title": "Observer Pattern Simplified 👀 | Real-World Examples + Best Practices 📚",
+      "duration": 961
+    },
+    {
+      "id": "UrxdNL94Xfc",
+      "title": "Iterator Pattern Tutorial 🔄 | Iterate Collections Like a Pro ⭐",
+      "duration": 692
+    },
+    {
+      "id": "yrD80SnWm5o",
+      "title": "Command Pattern Explained 🧠 |  Structure Actions for Cleaner Code ✅",
+      "duration": 844
+    },
+    {
+      "id": "hq0bTdBfc84",
+      "title": "Mediator Design Pattern: 🏗️ Reduce Complexity & 🔄 Improve Communication Between Objects 🧩",
+      "duration": 726
+    },
+    {
+      "id": "uQMiEP52YIg",
+      "title": "State Design Pattern: 🔄 Manage Object Behavior Dynamically ⚙️",
+      "duration": 978
+    },
+    {
+      "id": "MjqEq-v3KFo",
+      "title": "Template Design Pattern: 📄 Simplifying Code Reusability 🔄 with Examples 💡",
+      "duration": 620
+    },
+    {
+      "id": "SYulyXp5zKs",
+      "title": "Chain of Responsibility Pattern: 🔗 Improve Code Flexibility ♻️ & Maintainability 🛠️",
+      "duration": 955
+    },
+    {
+      "id": "MvwkgjHe5Ic",
+      "title": "Visitor Design Pattern Explained: 👨‍🏫 Best Practices ✅ & Real-World Examples 🌍",
+      "duration": 1122
+    },
+    {
+      "id": "WxKrJFYPK-A",
+      "title": "Memento Design Pattern Explained: 📝 Preserve Object State 💾 & Undo Changes 🔄",
+      "duration": 1106
+    },
+    {
+      "id": "ahrT6J_faX8",
+      "title": "Structural Design Patterns: 🏗️ Everything You Need to Know 📖",
+      "duration": 1103
+    },
+    {
+      "id": "DPohrgR-SD0",
+      "title": "Adapter Design Pattern: 🔌 Examples & Implementations in Java ☕",
+      "duration": 1023
+    },
+    {
+      "id": "78270FDPlZg",
+      "title": "Composite Design Pattern Explained: 🌳 Real-World Applications 🏢 & Advantages ✅",
+      "duration": 813
+    },
+    {
+      "id": "xUnL7e8kAmM",
+      "title": "Facade Design Pattern: 🏠 Easy Guide for Beginners 📖 with Examples 💡",
+      "duration": 502
+    },
+    {
+      "id": "dgww0AiHAY0",
+      "title": "Decorator Design Pattern Simplified: 🎨 How & When to Use It ✅",
+      "duration": 1215
+    },
+    {
+      "id": "okr_avFJg8Y",
+      "title": "Bridge Design Pattern in Software Development: 🌉 A Complete Guide 📖",
+      "duration": 863
+    },
+    {
+      "id": "4z2LRJ-QPuI",
+      "title": "Proxy Design Pattern Explained: Benefits, Examples & Use Cases 😊🚀",
+      "duration": 778
+    },
+    {
+      "id": "tLw0A1rYDXg",
+      "title": "Flyweight Design Pattern Explained: Optimize Memory & Performance in Software Development 🚀💾",
+      "duration": 897
+    },
+    {
+      "id": "0-TIqvK6sh8",
+      "title": "✅ Complete Tic-Tac-Toe System Design & Low Level Design | Full Explanation + Code",
+      "duration": 2945
+    },
+    {
+      "id": "Mmw-sEUuCNs",
+      "title": "🟢 Chess Full System Design + LLD | OOP Design + Coding Explained",
+      "duration": 2364
+    },
+    {
+      "id": "g-4Su16rfK0",
+      "title": "🐍 Snake and Food Game System Design + Low Level Design | Full Explanation + Code",
+      "duration": 1995
+    },
+    {
+      "id": "NU16qSPUmus",
+      "title": "🚗  Parking Lot Design | System Design + LLD + Full Code Implementation",
+      "duration": 2674
+    },
+    {
+      "id": "gV4NeR4Ms9Y",
+      "title": "🧠 Elevator System Low-Level Design (LLD) – OOP, UML & Best Practices 📊",
+      "duration": 4099
+    },
+    {
+      "id": "zFtTuKXGRiw",
+      "title": "🧩 Inventory System Design – Scalable & Modular LLD (with Code!) 🖥️",
+      "duration": 2089
+    },
+    {
+      "id": "uj6fMmjRkUk",
+      "title": "🚗 Car Rental System LLD – Complete Low-Level Design with UML & Classes 📘",
+      "duration": 2456
+    },
+    {
+      "id": "cMVSM4_2f0Y",
+      "title": "🚀 Vending Machine System Design – LLD for Interviews & Projects 🧑‍💻",
+      "duration": 2409
+    },
+    {
+      "id": "yTgXFgL1BK0",
+      "title": "📁 File System LLD – Complete Low-Level Design with Classes & UML 📘",
+      "duration": 1429
+    },
+    {
+      "id": "ZkCOa00WPMk",
+      "title": "🛠️ Logging System Design: Scalable Architecture for Real-Time Log Collection & Analysis 📈",
+      "duration": 2997
+    },
+    {
+      "id": "YFxxTGUdkAE",
+      "title": "💰 Splitwise System Design with Full Code & Step-by-Step Explanation 🧑‍💻",
+      "duration": 4500
+    },
+    {
+      "id": "2hr3z7VUh4Y",
+      "title": "🏧 ATM Machine System Design Explained | Full Code + Architecture 🧑‍💻",
+      "duration": 2796
+    },
+    {
+      "id": "Rot2QnaUqBU",
+      "title": "🧵 Concurrency & Multithreading COMPLETE Crash Course | All you need to know for any LLD Rounds ‼️",
+      "duration": 27418
+    },
+    {
+      "id": "dX5iHM2jlZw",
+      "title": "Design [ANY] Booking System 🎟️ | LLD + Multithreading 🧵 | Movie Ticket Booking System 🎬",
+      "duration": 5150
+    },
+    {
+      "id": "8qcxn7eJdw4",
+      "title": "Low Level design of Cache 💿 | LLD + Multithreading | Write Policies + Eviction Policies ...🔥",
+      "duration": 4011
+    },
+    {
+      "id": "_7Ft2GzR2tY",
+      "title": "Design Pub-Sub Model like Kafka 🪈 | LLD + Multithreading 🧵 | Concurrent Subscription",
+      "duration": 3439
+    }
+  ]
+}

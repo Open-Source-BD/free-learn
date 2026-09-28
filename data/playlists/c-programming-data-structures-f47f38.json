@@ -1,0 +1,1580 @@
+{
+  "courseId": "c-programming-data-structures-f47f38",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:07.284Z",
+  "title": "C Programming & Data Structures",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "4OGMB4Fhh50",
+      "title": "Introduction to Programming and Data Structures",
+      "duration": 592
+    },
+    {
+      "id": "rLf3jnHxSmU",
+      "title": "C Programming – Features & The First C Program",
+      "duration": 898
+    },
+    {
+      "id": "fO4FwJOShdc",
+      "title": "Introduction to Variables",
+      "duration": 504
+    },
+    {
+      "id": "Rl9w0hVxuRw",
+      "title": "Variable Naming Conventions",
+      "duration": 261
+    },
+    {
+      "id": "VXol2-SoUy8",
+      "title": "Basic Output Function – printf",
+      "duration": 374
+    },
+    {
+      "id": "_9bAlgRzlkc",
+      "title": "Fundamental Data Types − Integer (Part 1)",
+      "duration": 460
+    },
+    {
+      "id": "bUryucFPC6I",
+      "title": "Fundamental Data Types − Integer (Part 2)",
+      "duration": 440
+    },
+    {
+      "id": "nwfoxcXgs8o",
+      "title": "Exceeding The Valid Range of Data Types",
+      "duration": 467
+    },
+    {
+      "id": "QncEuobXjvw",
+      "title": "Fundamental Data Types − Character",
+      "duration": 745
+    },
+    {
+      "id": "vNeOx1rQ25E",
+      "title": "Fundamental Data Types − Float, Double & Long Double",
+      "duration": 786
+    },
+    {
+      "id": "IY79fWYkiPQ",
+      "title": "C Programming (Important Questions Set 1)",
+      "duration": 822
+    },
+    {
+      "id": "elMQ5YtZPxA",
+      "title": "Scope of Variables - Local vs Global",
+      "duration": 672
+    },
+    {
+      "id": "1Dkfmf4PmvQ",
+      "title": "Variable Modifiers − Auto & Extern",
+      "duration": 772
+    },
+    {
+      "id": "qHZ7qf6-rhc",
+      "title": "Variable Modifiers − Register",
+      "duration": 242
+    },
+    {
+      "id": "CRhF8a9-pzc",
+      "title": "Variable Modifiers − Static",
+      "duration": 1142
+    },
+    {
+      "id": "BVnNg20AuYU",
+      "title": "Constants in C (Part 1)",
+      "duration": 523
+    },
+    {
+      "id": "I1i0WgiRVXo",
+      "title": "Constants in C (Part 2)",
+      "duration": 245
+    },
+    {
+      "id": "hTUvEURkNeA",
+      "title": "C Programming (Important Questions Set 2)",
+      "duration": 370
+    },
+    {
+      "id": "ZSZwDARaQYI",
+      "title": "Basic Input Function – scanf",
+      "duration": 308
+    },
+    {
+      "id": "gegaS_gX3TY",
+      "title": "C Programming (Important Questions Set 3)",
+      "duration": 1279
+    },
+    {
+      "id": "50Pb27JoUrw",
+      "title": "Introduction to Operators in C",
+      "duration": 333
+    },
+    {
+      "id": "5JXcX0IqRUo",
+      "title": "Arithmetic Operators in C",
+      "duration": 482
+    },
+    {
+      "id": "Lpo1QYsuAmM",
+      "title": "Increment and Decrement Operators in C (Part 1)",
+      "duration": 655
+    },
+    {
+      "id": "3uRoSITqXRI",
+      "title": "Increment and Decrement Operators in C (Part 2)",
+      "duration": 939
+    },
+    {
+      "id": "1oKRTjw0yuY",
+      "title": "Relational Operators in C",
+      "duration": 216
+    },
+    {
+      "id": "WGQRInmOBM8",
+      "title": "Logical Operators in C",
+      "duration": 729
+    },
+    {
+      "id": "jlQmeyce65Q",
+      "title": "Bitwise Operators in C (Part 1)",
+      "duration": 472
+    },
+    {
+      "id": "8aFik6lPPaA",
+      "title": "Bitwise Operators in C (Part 2)",
+      "duration": 299
+    },
+    {
+      "id": "GhhJP6vpEA8",
+      "title": "Bitwise Operators in C (Part 3)",
+      "duration": 241
+    },
+    {
+      "id": "kYR5biY4OHw",
+      "title": "Bitwise Operators in C (Part 4)",
+      "duration": 274
+    },
+    {
+      "id": "zv73Qv1GdwY",
+      "title": "Assignment Operators in C",
+      "duration": 288
+    },
+    {
+      "id": "rULDbIbrXis",
+      "title": "Conditional Operator in C",
+      "duration": 341
+    },
+    {
+      "id": "mhmnb80ZDBM",
+      "title": "Comma Operator in C",
+      "duration": 510
+    },
+    {
+      "id": "8H9G621pQq0",
+      "title": "Precedence and Associativity of Operators",
+      "duration": 987
+    },
+    {
+      "id": "HAKAhma7MQg",
+      "title": "Operators in C (Solved Problem 1)",
+      "duration": 354
+    },
+    {
+      "id": "-QXh0y__tYY",
+      "title": "Operators in C (Solved Problem 2)",
+      "duration": 387
+    },
+    {
+      "id": "5sOZ7l2it2I",
+      "title": "C Programming (Rapid Fire Quiz-1)",
+      "duration": 352
+    },
+    {
+      "id": "Led5aHdLoT4",
+      "title": "Conditionals (if-else, Nested if and else if)",
+      "duration": 490
+    },
+    {
+      "id": "-JMSaLRqsgo",
+      "title": "Conditionals (Switch)",
+      "duration": 444
+    },
+    {
+      "id": "qUPXsPtWGoY",
+      "title": "for and while Loops",
+      "duration": 409
+    },
+    {
+      "id": "TjkJQly2YCw",
+      "title": "do-while Loop",
+      "duration": 303
+    },
+    {
+      "id": "obJcPlAtGVM",
+      "title": "Loop Control Statements − break and continue",
+      "duration": 459
+    },
+    {
+      "id": "SQCPZYAXoZs",
+      "title": "Conditionals and Loops (Solved Problem 1)",
+      "duration": 390
+    },
+    {
+      "id": "1HeVryTa8s0",
+      "title": "Conditionals and Loops (Solved Problem 2)",
+      "duration": 318
+    },
+    {
+      "id": "0wLZbI3NpRo",
+      "title": "Conditionals and Loops (Solved Problem 3)",
+      "duration": 307
+    },
+    {
+      "id": "nKb52W0mD1A",
+      "title": "Conditionals and Loops (Solved Problem 4)",
+      "duration": 341
+    },
+    {
+      "id": "O6DAXvDD2x4",
+      "title": "Conditionals and Loops (Solved Problem 5)",
+      "duration": 198
+    },
+    {
+      "id": "KdM6OrvcjPI",
+      "title": "Special Programs in C − Pyramid of Stars",
+      "duration": 666
+    },
+    {
+      "id": "LJ0m-8zGRB4",
+      "title": "Special Programs in C − Check If The Number Is Palindrome Number",
+      "duration": 494
+    },
+    {
+      "id": "2qcUcon5Ux0",
+      "title": "Special Programs in C− Check If The Number Is Armstrong Number",
+      "duration": 736
+    },
+    {
+      "id": "rZtc68o-He8",
+      "title": "Special Programs in C− Check If The Number Is Strong Number",
+      "duration": 618
+    },
+    {
+      "id": "XWAy-1MoTGw",
+      "title": "Special Programs in C − Check If The Number Is Prime Number",
+      "duration": 626
+    },
+    {
+      "id": "9_exJ-JFW6Y",
+      "title": "Special Programs in C − Adding Two Numbers Without Using The Plus Operator",
+      "duration": 265
+    },
+    {
+      "id": "QFq5vbSlXHU",
+      "title": "Special Programs in C − Adding Two Numbers Without Using The Plus Operator (Half Adder Method)",
+      "duration": 856
+    },
+    {
+      "id": "D59HhCkcmNA",
+      "title": "Special Programs in C − Fibonacci Series",
+      "duration": 430
+    },
+    {
+      "id": "0jZPdInhhco",
+      "title": "Special Programs in C − Floyd's Triangle",
+      "duration": 309
+    },
+    {
+      "id": "9dPMb_znOwk",
+      "title": "Special Programs in C − Binary to Decimal Conversion",
+      "duration": 460
+    },
+    {
+      "id": "2tBRwPYxxhc",
+      "title": "Special Programs in C − Calculating Power of an Integer",
+      "duration": 625
+    },
+    {
+      "id": "rkR_04FIr7U",
+      "title": "Special Programs in C − Check Leap Year",
+      "duration": 272
+    },
+    {
+      "id": "wy-4p_VC88A",
+      "title": "Special Programs in C − Check If The Number Is Perfect Number",
+      "duration": 371
+    },
+    {
+      "id": "3lqgdqoY83o",
+      "title": "Introduction to Functions in C",
+      "duration": 322
+    },
+    {
+      "id": "5wAf9nzX2R8",
+      "title": "Function Declaration in C",
+      "duration": 411
+    },
+    {
+      "id": "gF7wjwM9Jjs",
+      "title": "Function Definition in C",
+      "duration": 364
+    },
+    {
+      "id": "HEiPxjVR8CU",
+      "title": "Call By Value & Call By Reference in C",
+      "duration": 514
+    },
+    {
+      "id": "WYneiMbS6qo",
+      "title": "Functions (Solved Question 1)",
+      "duration": 296
+    },
+    {
+      "id": "sQ8MBVuGk8k",
+      "title": "Functions (Solved Question 2)",
+      "duration": 423
+    },
+    {
+      "id": "GE-236hkYF0",
+      "title": "Functions (Solved Question 3)",
+      "duration": 369
+    },
+    {
+      "id": "mwmvfNVhIA4",
+      "title": "Static Functions in C",
+      "duration": 281
+    },
+    {
+      "id": "L53nqHCSSFY",
+      "title": "Static and Dynamic Scoping (Part-1)",
+      "duration": 694
+    },
+    {
+      "id": "DeGfInd5BPY",
+      "title": "Static and Dynamic Scoping (Part-2)",
+      "duration": 509
+    },
+    {
+      "id": "-7Hz3iriV6w",
+      "title": "Static and Dynamic Scoping (Part-3)",
+      "duration": 305
+    },
+    {
+      "id": "kqWP26CdhB8",
+      "title": "Static and Dynamic Scoping (Part-4)",
+      "duration": 360
+    },
+    {
+      "id": "EKf0Jslyr4Q",
+      "title": "Static and Dynamic Scoping (Solved Question 1)",
+      "duration": 192
+    },
+    {
+      "id": "H68DUS--mUY",
+      "title": "Static and Dynamic Scoping (Solved Question 2)",
+      "duration": 327
+    },
+    {
+      "id": "kepBmgvWNDw",
+      "title": "Recursion in C",
+      "duration": 672
+    },
+    {
+      "id": "ggk7HbcnLG8",
+      "title": "How to write Recursive Functions",
+      "duration": 543
+    },
+    {
+      "id": "t9whckmAEq0",
+      "title": "Types of Recursion (Part 1) | Direct & Indirect Recursion",
+      "duration": 585
+    },
+    {
+      "id": "HIt_GPuD7wk",
+      "title": "Types of Recursion (Part 2) | Tail & Non-tail Recursion",
+      "duration": 793
+    },
+    {
+      "id": "_-wrCUN4z24",
+      "title": "Advantage and Disadvantage of Recursion",
+      "duration": 301
+    },
+    {
+      "id": "IVLUGb_gDDE",
+      "title": "Recursion (Solved Problem 1)",
+      "duration": 409
+    },
+    {
+      "id": "4JqbrwlvreY",
+      "title": "Recursion (Solved Problem 2)",
+      "duration": 393
+    },
+    {
+      "id": "DmIBX7Jjm38",
+      "title": "Recursion (Solved Problem 3)",
+      "duration": 271
+    },
+    {
+      "id": "GL_gJbc7f-Q",
+      "title": "Recursion (Solved Problem 4)",
+      "duration": 637
+    },
+    {
+      "id": "Ou1ZlN3FDP8",
+      "title": "Recursion (Solved Problem 5)",
+      "duration": 389
+    },
+    {
+      "id": "h4mgqQKHBMc",
+      "title": "C Programming (Rapid Fire Quiz-2)",
+      "duration": 331
+    },
+    {
+      "id": "55l-aZ7_F24",
+      "title": "Definition of Array",
+      "duration": 324
+    },
+    {
+      "id": "Bqud0_ozgcc",
+      "title": "Declaration of Array",
+      "duration": 283
+    },
+    {
+      "id": "g0ClJ28-8LE",
+      "title": "Accessing Array Elements",
+      "duration": 319
+    },
+    {
+      "id": "GtcRReso9Xk",
+      "title": "Initializing an Array",
+      "duration": 392
+    },
+    {
+      "id": "Sr21AdNJPKg",
+      "title": "Designated Initialization of Arrays",
+      "duration": 382
+    },
+    {
+      "id": "hsmSDBBsifo",
+      "title": "Arrays in C (Solved Problem 1)",
+      "duration": 248
+    },
+    {
+      "id": "C57wwOOF6ys",
+      "title": "Arrays in C (Solved Problem 2)",
+      "duration": 603
+    },
+    {
+      "id": "iBFzKvCzXsw",
+      "title": "Counting Array Elements using sizeof() Operator",
+      "duration": 245
+    },
+    {
+      "id": "36z4qgN3GWw",
+      "title": "Introduction to Multidimensional Arrays",
+      "duration": 183
+    },
+    {
+      "id": "J1aQ9JN4vZY",
+      "title": "Introduction to Two-Dimensional (2D) Arrays",
+      "duration": 620
+    },
+    {
+      "id": "bbkdiUbou74",
+      "title": "Introduction to Three-Dimensional (3D) Arrays",
+      "duration": 479
+    },
+    {
+      "id": "UbBCg0-xjkU",
+      "title": "Multidimensional Arrays (Solved Problem)",
+      "duration": 321
+    },
+    {
+      "id": "aAFP5wsmH2k",
+      "title": "C Program for Matrix Multiplication (Part 1)",
+      "duration": 389
+    },
+    {
+      "id": "jzdQqoG1tZs",
+      "title": "C Program for Matrix Multiplication (Part 2)",
+      "duration": 499
+    },
+    {
+      "id": "yK9AFU7fzEA",
+      "title": "Constant Arrays in C",
+      "duration": 128
+    },
+    {
+      "id": "JW3Vg0xpJLY",
+      "title": "Variable Length Arrays in C",
+      "duration": 237
+    },
+    {
+      "id": "f2i0CnUOniA",
+      "title": "Introduction to Pointers in C",
+      "duration": 172
+    },
+    {
+      "id": "b3G9RjG4l2s",
+      "title": "Declaring & Initializing Pointers in C",
+      "duration": 248
+    },
+    {
+      "id": "xlt_bEqfnxg",
+      "title": "Value of Operator in Pointers",
+      "duration": 344
+    },
+    {
+      "id": "qG01z8unrU4",
+      "title": "Pointer Assignment",
+      "duration": 240
+    },
+    {
+      "id": "qxUd5av1OYI",
+      "title": "Pointer Application (Finding the Largest & Smallest Elements in an Array)",
+      "duration": 426
+    },
+    {
+      "id": "NVH4K-0O39E",
+      "title": "Returning Pointers",
+      "duration": 320
+    },
+    {
+      "id": "cEphEIMaqms",
+      "title": "Pointers (Important Questions)",
+      "duration": 671
+    },
+    {
+      "id": "FmptkK2XZ0w",
+      "title": "Pointer Arithmetic (Addition)",
+      "duration": 430
+    },
+    {
+      "id": "MgsPbqOKF-c",
+      "title": "Pointer Arithmetic (Subtraction)",
+      "duration": 479
+    },
+    {
+      "id": "gwqbYnxQGR8",
+      "title": "Pointer Arithmetic (Increment & Decrement)",
+      "duration": 247
+    },
+    {
+      "id": "nYHA3eZuhzc",
+      "title": "Pointer Arithmetic (Comparing the Pointers)",
+      "duration": 198
+    },
+    {
+      "id": "04x7hKdyJAQ",
+      "title": "Pointers (Program 1) | Sum of Array Elements using Pointers",
+      "duration": 185
+    },
+    {
+      "id": "gv-y9hIhvq4",
+      "title": "Using Array Name as a Pointer",
+      "duration": 414
+    },
+    {
+      "id": "D4QmCQePRko",
+      "title": "Pointers (Program 2) | Reversing a Series of Numbers using Pointers",
+      "duration": 207
+    },
+    {
+      "id": "gNlmJ2WrZSY",
+      "title": "Passing Array as an Argument to a Function",
+      "duration": 194
+    },
+    {
+      "id": "lCDGo7rK3ms",
+      "title": "Using Pointers to Print 2D Arrays",
+      "duration": 251
+    },
+    {
+      "id": "3fOPOUnkcdQ",
+      "title": "Processing the Multidimensional Array Elements (or) Address Arithmetic of Multidimensional Arrays",
+      "duration": 871
+    },
+    {
+      "id": "ZiA6HB7JbxE",
+      "title": "Pointers (Program 3)",
+      "duration": 655
+    },
+    {
+      "id": "kI9BV7D4OZM",
+      "title": "Pointers (Program 4)",
+      "duration": 334
+    },
+    {
+      "id": "ibj_AKOxpHo",
+      "title": "Pointer Pointing to an Entire Array",
+      "duration": 322
+    },
+    {
+      "id": "zt2Z8U_1kmw",
+      "title": "Pointer Pointing to an Entire Array (Solved Problem)",
+      "duration": 380
+    },
+    {
+      "id": "I95ebG2tifA",
+      "title": "Pointers (Program 5)",
+      "duration": 154
+    },
+    {
+      "id": "U8Ps0XSQdJw",
+      "title": "Pointers (Program 6)",
+      "duration": 461
+    },
+    {
+      "id": "alEjARaJ-Fo",
+      "title": "Pointers (Program 7)",
+      "duration": 330
+    },
+    {
+      "id": "ze2lBQwugDw",
+      "title": "Pointers (Program 8)",
+      "duration": 672
+    },
+    {
+      "id": "Mgygikl0Ym8",
+      "title": "Pointers (Program 9)",
+      "duration": 413
+    },
+    {
+      "id": "IlqiTmcK1Eg",
+      "title": "Basics of String Literals",
+      "duration": 245
+    },
+    {
+      "id": "zNCgj3mfixw",
+      "title": "Storing the String Literals",
+      "duration": 205
+    },
+    {
+      "id": "hiO_j137K48",
+      "title": "Performing Operations on String Literals",
+      "duration": 247
+    },
+    {
+      "id": "GJ9w9eYPq5E",
+      "title": "String Literal vs. Character Constant",
+      "duration": 144
+    },
+    {
+      "id": "cnfRyvo41Bs",
+      "title": "Declaring and Initializing String Variables",
+      "duration": 542
+    },
+    {
+      "id": "wW7u_WrkY6Q",
+      "title": "Writing Strings using printf and puts Functions",
+      "duration": 260
+    },
+    {
+      "id": "2HasEQe5VR0",
+      "title": "Reading Strings using scanf and gets Functions",
+      "duration": 319
+    },
+    {
+      "id": "jGRI7Au7f2c",
+      "title": "Designing The Input Function using getchar()",
+      "duration": 596
+    },
+    {
+      "id": "RxgfedYdJMk",
+      "title": "putchar() Function in C",
+      "duration": 300
+    },
+    {
+      "id": "0gkOH0Ft6bk",
+      "title": "Strings (Solved Problem 1)",
+      "duration": 165
+    },
+    {
+      "id": "DOPs6c0f4Ek",
+      "title": "C String Library and String Copy Function - strcpy()",
+      "duration": 540
+    },
+    {
+      "id": "1ogEw57L4Gw",
+      "title": "String Length Function - strlen()",
+      "duration": 237
+    },
+    {
+      "id": "beq14396XMk",
+      "title": "String Concatenate Functions - strcat() & strncat()",
+      "duration": 364
+    },
+    {
+      "id": "1h0dsVlowwM",
+      "title": "String Comparison Function - strcmp()",
+      "duration": 364
+    },
+    {
+      "id": "AefKSoNpZtQ",
+      "title": "Array of Strings",
+      "duration": 284
+    },
+    {
+      "id": "RtfFs16nVXY",
+      "title": "Strings (Solved Problem 2)",
+      "duration": 217
+    },
+    {
+      "id": "LcPaeVIv6PU",
+      "title": "Strings (Solved Problem 3)",
+      "duration": 275
+    },
+    {
+      "id": "ngTC-e8ECPc",
+      "title": "Strings (Solved Problem 4)",
+      "duration": 403
+    },
+    {
+      "id": "c5epkyTH7ZE",
+      "title": "Strings (Solved Problem 5)",
+      "duration": 402
+    },
+    {
+      "id": "123MCNF7dH4",
+      "title": "Strings (Solved Problem 6)",
+      "duration": 256
+    },
+    {
+      "id": "BRsv3ZXoHto",
+      "title": "Function Pointers in C",
+      "duration": 367
+    },
+    {
+      "id": "wQ-gWwKKeP4",
+      "title": "Application of Function Pointers in C",
+      "duration": 431
+    },
+    {
+      "id": "zmRxC7gYw-g",
+      "title": "Introduction to Structures in C",
+      "duration": 234
+    },
+    {
+      "id": "3pFSbSVIwKU",
+      "title": "Declaring Structure Variables",
+      "duration": 254
+    },
+    {
+      "id": "IPLPISOXvF0",
+      "title": "Structure Types (Using Structure Tags)",
+      "duration": 399
+    },
+    {
+      "id": "Bw3sUC6Txus",
+      "title": "Structure Types (Using typedef)",
+      "duration": 143
+    },
+    {
+      "id": "2DidKZmwNMo",
+      "title": "Initializing & Accessing the Structure Members",
+      "duration": 179
+    },
+    {
+      "id": "WUbp4gHR6_8",
+      "title": "Designated Initialization in Structures",
+      "duration": 127
+    },
+    {
+      "id": "EGeIsvx4Wns",
+      "title": "Declaring an Array of Structure",
+      "duration": 202
+    },
+    {
+      "id": "VsnXsfNstVw",
+      "title": "Pointer to Structure Variable",
+      "duration": 154
+    },
+    {
+      "id": "aROgtACPjjg",
+      "title": "Structure Padding in C",
+      "duration": 522
+    },
+    {
+      "id": "VZBLCpQYchs",
+      "title": "Structure Packing in C",
+      "duration": 147
+    },
+    {
+      "id": "KChOkB7aTS4",
+      "title": "Structures in C (Solved Problem 1)",
+      "duration": 88
+    },
+    {
+      "id": "H-19ff0wW6s",
+      "title": "Structures in C (Solved Problem 2)",
+      "duration": 331
+    },
+    {
+      "id": "nYZBCtlMd-k",
+      "title": "Structures in C (Solved Problem 3)",
+      "duration": 157
+    },
+    {
+      "id": "oySsPUDr35U",
+      "title": "Introduction to Unions in C",
+      "duration": 418
+    },
+    {
+      "id": "5CVYtRh5S7E",
+      "title": "Unions in C (Solved Problem 1)",
+      "duration": 177
+    },
+    {
+      "id": "QOFjQMdtoRA",
+      "title": "Application of Unions (Part 1)",
+      "duration": 464
+    },
+    {
+      "id": "7eHRoAjFepU",
+      "title": "Application of Unions (Part 2)",
+      "duration": 274
+    },
+    {
+      "id": "9QdJExC2AVg",
+      "title": "Enumerations in C",
+      "duration": 406
+    },
+    {
+      "id": "vwqDTWZE8_E",
+      "title": "Program to Find Area of Rectangle Using Structures",
+      "duration": 533
+    },
+    {
+      "id": "gSYFHluoeHs",
+      "title": "Structures & Unions in C (Solved Problem)",
+      "duration": 228
+    },
+    {
+      "id": "Wslbb1UQUSc",
+      "title": "File Handling | Chapter-14 | C Programming | nesoacademy.org",
+      "duration": 51
+    },
+    {
+      "id": "xLetJpcjHS0",
+      "title": "Introduction to Data Structures",
+      "duration": 678
+    },
+    {
+      "id": "ZniDyolzrBw",
+      "title": "Data Types vs. Abstract Data Types",
+      "duration": 471
+    },
+    {
+      "id": "2JroZSycSXs",
+      "title": "Data Structure Definition & Advantages",
+      "duration": 233
+    },
+    {
+      "id": "T9DSBhBR_I4",
+      "title": "Types of Data Structures",
+      "duration": 268
+    },
+    {
+      "id": "f_IaKCB7Zo8",
+      "title": "Basics of Asymptotic Analysis (Part 1)",
+      "duration": 392
+    },
+    {
+      "id": "Xhl3LS_7ulY",
+      "title": "Basics of Asymptotic Analysis (Part 2)",
+      "duration": 191
+    },
+    {
+      "id": "MgyLGVUn8LQ",
+      "title": "Basics of Asymptotic Analysis (Part 3)",
+      "duration": 590
+    },
+    {
+      "id": "_lO-qsfk_0Q",
+      "title": "Basics of Asymptotic Analysis (Part 4)",
+      "duration": 464
+    },
+    {
+      "id": "lRy3RmxjR0k",
+      "title": "Basics of Asymptotic Analysis (Part 5)",
+      "duration": 735
+    },
+    {
+      "id": "BpiMRyWoDu0",
+      "title": "Guidelines for Asymptotic Analysis (Part 1)",
+      "duration": 304
+    },
+    {
+      "id": "Aky8vEtC2dY",
+      "title": "Guidelines for Asymptotic Analysis (Part 2)",
+      "duration": 506
+    },
+    {
+      "id": "HFjJgSguqUA",
+      "title": "Asymptotic Analysis (Solved Problem 1)",
+      "duration": 443
+    },
+    {
+      "id": "_92v4uTrTwM",
+      "title": "Asymptotic Analysis (Solved Problem 2)",
+      "duration": 229
+    },
+    {
+      "id": "WWeUhPlUt1k",
+      "title": "Asymptotic Analysis (Solved Problem 3)",
+      "duration": 247
+    },
+    {
+      "id": "ij2jrsUmwCI",
+      "title": "Understanding the Void Pointers",
+      "duration": 259
+    },
+    {
+      "id": "oPScHNQDCkc",
+      "title": "Understanding the Null Pointers",
+      "duration": 263
+    },
+    {
+      "id": "qNgV7oAHElk",
+      "title": "Understanding the Dangling Pointers",
+      "duration": 311
+    },
+    {
+      "id": "NMxqA8OG2gE",
+      "title": "Understanding the Wild Pointers",
+      "duration": 147
+    },
+    {
+      "id": "udfbq4M2Kfc",
+      "title": "Basics of Dynamic Memory Allocation",
+      "duration": 258
+    },
+    {
+      "id": "Vch7_YeGKH4",
+      "title": "Dynamic Memory Allocation using malloc()",
+      "duration": 509
+    },
+    {
+      "id": "8q0jLDun0_0",
+      "title": "Dynamic Memory Allocation using calloc()",
+      "duration": 126
+    },
+    {
+      "id": "j1jo8QQT7zw",
+      "title": "Dynamic Memory Allocation using realloc()",
+      "duration": 292
+    },
+    {
+      "id": "qG0wUzuBI_A",
+      "title": "Releasing the Dynamically Allocated Memory using free()",
+      "duration": 244
+    },
+    {
+      "id": "16P51olKuzk",
+      "title": "Structures and Functions (Part 1)",
+      "duration": 431
+    },
+    {
+      "id": "uw8gkmhUwQ8",
+      "title": "Structures and Functions (Part 2)",
+      "duration": 170
+    },
+    {
+      "id": "f-AR6vUuTYc",
+      "title": "Structures and Functions (Part 3)",
+      "duration": 168
+    },
+    {
+      "id": "bN2h1cdj1to",
+      "title": "Structures and Functions (Part 4)",
+      "duration": 218
+    },
+    {
+      "id": "NA_bM5Jwxiw",
+      "title": "Structures and Functions (Part 5)",
+      "duration": 470
+    },
+    {
+      "id": "8kOtIcar3ck",
+      "title": "Structures and Functions (Part 6)",
+      "duration": 314
+    },
+    {
+      "id": "otu7gJVcwDw",
+      "title": "Self Referential Structures",
+      "duration": 380
+    },
+    {
+      "id": "R9PTBwOzceo",
+      "title": "Introduction to Linked List",
+      "duration": 381
+    },
+    {
+      "id": "b5QR4AmrspU",
+      "title": "Array vs. Single Linked List (In Terms of Representation)",
+      "duration": 250
+    },
+    {
+      "id": "DneLxrPmmsw",
+      "title": "Creating the Node of a Single Linked List",
+      "duration": 360
+    },
+    {
+      "id": "nxtDe6Gq4t4",
+      "title": "Creating a Single Linked List (Part 1)",
+      "duration": 277
+    },
+    {
+      "id": "HrY_YmU1vdg",
+      "title": "Creating a Single Linked List (Part 2)",
+      "duration": 420
+    },
+    {
+      "id": "e0s-zmpedYo",
+      "title": "Traversing a Single Linked List (Counting the Nodes)",
+      "duration": 367
+    },
+    {
+      "id": "FIV-0A0mZd8",
+      "title": "Traversing a Single Linked List (Printing the Data)",
+      "duration": 224
+    },
+    {
+      "id": "b7HpuVs3Xi0",
+      "title": "Traversing the List (Linked List vs. Arrays)",
+      "duration": 240
+    },
+    {
+      "id": "LYGbeWnYXd8",
+      "title": "Single Linked List (Inserting a Node at the End)",
+      "duration": 349
+    },
+    {
+      "id": "80gNiLhyr7A",
+      "title": "Insertion at the End (Linked List vs. Array) - Part 1",
+      "duration": 455
+    },
+    {
+      "id": "egUHjERGf88",
+      "title": "Insertion at the End (Linked List vs. Array) - Part 2",
+      "duration": 487
+    },
+    {
+      "id": "jgqg6Qw68_Q",
+      "title": "Single Linked List (Inserting a Node at the Beginning)",
+      "duration": 337
+    },
+    {
+      "id": "YL8MnLAJOMg",
+      "title": "Inserting the Data at the Beginning of Single Linked Lists (Possible Mistake)",
+      "duration": 347
+    },
+    {
+      "id": "90zyJ1eVeUw",
+      "title": "Inserting the Data at the Beginning of Single Linked List (2nd Method)",
+      "duration": 227
+    },
+    {
+      "id": "IdRq1uz4-t0",
+      "title": "Inserting the Data at the Beginning (Singly Linked List vs. Array)",
+      "duration": 448
+    },
+    {
+      "id": "0hGxILnKvJk",
+      "title": "Single Linked List (Inserting a Node at a Certain Position)",
+      "duration": 412
+    },
+    {
+      "id": "_ajoEqskMHE",
+      "title": "Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 1",
+      "duration": 187
+    },
+    {
+      "id": "pBbVRIjy3VY",
+      "title": "Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 2",
+      "duration": 488
+    },
+    {
+      "id": "-rcIWx-JTxw",
+      "title": "Single Linked List (Deleting the First Node)",
+      "duration": 227
+    },
+    {
+      "id": "TpgxJupHATQ",
+      "title": "Single Linked List (Deleting the Last Node)",
+      "duration": 306
+    },
+    {
+      "id": "8flOSiGsO-g",
+      "title": "Single Linked List (Deleting the Last Node using Single Pointer)",
+      "duration": 241
+    },
+    {
+      "id": "h0qOcQs-nSw",
+      "title": "Deletion at the End (Singly Linked List vs. Array)",
+      "duration": 265
+    },
+    {
+      "id": "AhE22mHckzE",
+      "title": "Deletion at the Beginning (Single Linked List vs. Array)",
+      "duration": 259
+    },
+    {
+      "id": "f1r_jxCyOl0",
+      "title": "Single Linked List (Deleting the Node at a Particular Position)",
+      "duration": 583
+    },
+    {
+      "id": "ScKTk5GwmG4",
+      "title": "Deleting the Entire Single Linked List",
+      "duration": 366
+    },
+    {
+      "id": "XgABnoJLtG4",
+      "title": "Reverse a Single Linked List",
+      "duration": 717
+    },
+    {
+      "id": "bgtqECHpy8k",
+      "title": "Singly Linked List (Solved Problem 1)",
+      "duration": 301
+    },
+    {
+      "id": "VBxq-gpFWSU",
+      "title": "Singly Linked List (Solved Problem 2)",
+      "duration": 443
+    },
+    {
+      "id": "g5533n34-2A",
+      "title": "Singly Linked List (Solved Problem 3)",
+      "duration": 344
+    },
+    {
+      "id": "z7Q3fd1ylEE",
+      "title": "Singly Linked List (Solved Problem 4)",
+      "duration": 464
+    },
+    {
+      "id": "WJmFjm_N_mw",
+      "title": "Singly Linked List (Solved Problem 5)",
+      "duration": 265
+    },
+    {
+      "id": "J_XaK17r6rY",
+      "title": "Singly Linked List (Solved Problem 6)",
+      "duration": 414
+    },
+    {
+      "id": "7lMlHBOEhag",
+      "title": "Rapid Fire Quiz (Singly Linked List)",
+      "duration": 324
+    },
+    {
+      "id": "e9NG_a6Z0mg",
+      "title": "Introduction to Doubly Linked List",
+      "duration": 183
+    },
+    {
+      "id": "nsMWbs-r4vE",
+      "title": "Doubly Linked List (Inserting a Node in an Empty List)",
+      "duration": 161
+    },
+    {
+      "id": "SPKCATQ--KY",
+      "title": "Doubly Linked List (Insertion at the Beginning)",
+      "duration": 223
+    },
+    {
+      "id": "LDMF8iqO8pg",
+      "title": "Doubly Linked List (Insertion at the End)",
+      "duration": 262
+    },
+    {
+      "id": "le9RuwN2sQg",
+      "title": "Doubly Linked List (Insertion between the Nodes) - Part 1",
+      "duration": 379
+    },
+    {
+      "id": "vL-4DvU4nK4",
+      "title": "Doubly Linked List (Insertion between the Nodes) - Part 2",
+      "duration": 309
+    },
+    {
+      "id": "EgrSkwnuZUU",
+      "title": "Creating an Entire Doubly Linked List",
+      "duration": 421
+    },
+    {
+      "id": "ZxGz3XkGlyA",
+      "title": "Doubly Linked List (Deleting the First Node)",
+      "duration": 216
+    },
+    {
+      "id": "hJ7lVSt0AsQ",
+      "title": "Doubly Linked List (Deleting the Last Node)",
+      "duration": 202
+    },
+    {
+      "id": "4ZOk5g67Lzg",
+      "title": "Doubly Linked List (Deleting the Intermediate Node)",
+      "duration": 313
+    },
+    {
+      "id": "-vWXY57N5xU",
+      "title": "Reversing the Doubly Linked List",
+      "duration": 468
+    },
+    {
+      "id": "ZENzuR6Vbsw",
+      "title": "Doubly Linked List (Solved Problem 1)",
+      "duration": 266
+    },
+    {
+      "id": "u4jeDAgIoqc",
+      "title": "Doubly Linked List (Solved Problem 2)",
+      "duration": 247
+    },
+    {
+      "id": "WEI2GA5mBq8",
+      "title": "Why Doubly Linked List?",
+      "duration": 298
+    },
+    {
+      "id": "DySVJ3O20aU",
+      "title": "Rapid Fire Quiz (Doubly Linked List)",
+      "duration": 325
+    },
+    {
+      "id": "HMkdlu5sP4A",
+      "title": "Introduction to Circular Linked List",
+      "duration": 269
+    },
+    {
+      "id": "IVae9CP-dlo",
+      "title": "Circular Singly Linked List (Insertion at the Beginning)",
+      "duration": 328
+    },
+    {
+      "id": "zI8qPtnQ2tQ",
+      "title": "Traversing a Circular Singly Linked List",
+      "duration": 307
+    },
+    {
+      "id": "kErHUGvFrNg",
+      "title": "Circular Singly Linked List (Insertion at the End)",
+      "duration": 193
+    },
+    {
+      "id": "UlwpE_4y_A0",
+      "title": "Circular Singly Linked List (Insertion between the Nodes)",
+      "duration": 391
+    },
+    {
+      "id": "5pD7P43hL2Q",
+      "title": "Creating a Circular Singly Linked List",
+      "duration": 338
+    },
+    {
+      "id": "D_qSNKsGfrA",
+      "title": "Circular Singly Linked List (Deleting the First Node)",
+      "duration": 269
+    },
+    {
+      "id": "2bqbgNQi2UE",
+      "title": "Circular Singly Linked List (Deleting the Last Node)",
+      "duration": 262
+    },
+    {
+      "id": "HQ6y6kEWbiU",
+      "title": "Circular Singly Linked List (Deleting the Intermediate Node)",
+      "duration": 275
+    },
+    {
+      "id": "j0HZepsDpWo",
+      "title": "Circular Singly Linked List (Counting the Number of Elements)",
+      "duration": 250
+    },
+    {
+      "id": "kDdHfUofhrg",
+      "title": "Circular Singly Linked List (Searching an Element)",
+      "duration": 452
+    },
+    {
+      "id": "3ZrkixbHCTI",
+      "title": "Circular Doubly Linked List (Insertion at the Beginning)",
+      "duration": 370
+    },
+    {
+      "id": "Ynjr36a0NFU",
+      "title": "Circular Doubly Linked List (Insertion at the End)",
+      "duration": 289
+    },
+    {
+      "id": "gF52eWekqz4",
+      "title": "Circular Doubly Linked List (Insertion between the Nodes)",
+      "duration": 328
+    },
+    {
+      "id": "xiLKeIHAqdc",
+      "title": "Circular Doubly Linked List (Deleting the First Node)",
+      "duration": 248
+    },
+    {
+      "id": "hzvneUGiWj4",
+      "title": "Circular Doubly Linked List (Deleting the Last Node)",
+      "duration": 223
+    },
+    {
+      "id": "zb82RiXmVnA",
+      "title": "Circular Doubly Linked List (Deleting the Intermediate Node)",
+      "duration": 353
+    },
+    {
+      "id": "Gg89CzoRDfc",
+      "title": "Sorted Singly Linked List (Inserting a New Element)",
+      "duration": 735
+    },
+    {
+      "id": "eppL94aNwBI",
+      "title": "Application of Linked List (Polynomial Arithmetic) - Part 1",
+      "duration": 254
+    },
+    {
+      "id": "YrwAuv0n1Wk",
+      "title": "Application of Linked List (Polynomial Arithmetic) - Part 2",
+      "duration": 1374
+    },
+    {
+      "id": "cFHZ-a87Vp4",
+      "title": "Application of Linked List (Addition of Two Polynomials)",
+      "duration": 1049
+    },
+    {
+      "id": "_XjzQzZY2gg",
+      "title": "Application of Linked List (Multiplication of Two Polynomials)",
+      "duration": 840
+    },
+    {
+      "id": "bNWPciD7ogg",
+      "title": "Application of Linked List (Multiplication of Two Polynomials) - Improvements",
+      "duration": 721
+    },
+    {
+      "id": "DB0L2_pDFeo",
+      "title": "Adding Two Numbers using Linked Lists - Part 1",
+      "duration": 1114
+    },
+    {
+      "id": "bkElP6EjVEA",
+      "title": "Adding Two Numbers using Linked Lists - Part 2",
+      "duration": 578
+    },
+    {
+      "id": "N0K16q61Hw8",
+      "title": "Adding Two Numbers using Linked Lists - Part 3",
+      "duration": 1076
+    },
+    {
+      "id": "I37kGX-nZEI",
+      "title": "Introduction to Stacks",
+      "duration": 514
+    },
+    {
+      "id": "rS-ZKTqwi90",
+      "title": "Array Implementation of Stacks (Part 1)",
+      "duration": 600
+    },
+    {
+      "id": "Mlv2fMvt9b4",
+      "title": "Array Implementation of Stacks (Part 2)",
+      "duration": 661
+    },
+    {
+      "id": "1tDjNwntufU",
+      "title": "Array Implementation of Stacks (Part 3)",
+      "duration": 608
+    },
+    {
+      "id": "xZuA5hA2yF8",
+      "title": "Array Implementation of Stacks (Part 4)",
+      "duration": 947
+    },
+    {
+      "id": "Yu6BE-zFncU",
+      "title": "Stacks (Important Questions) – Set 1",
+      "duration": 383
+    },
+    {
+      "id": "wJjk3BeOmqA",
+      "title": "Stacks (Important Questions) – Set 2",
+      "duration": 804
+    },
+    {
+      "id": "jj7q_LfW0hQ",
+      "title": "Stacks (Program 1) – Part 1",
+      "duration": 987
+    },
+    {
+      "id": "5PodMf7uc-o",
+      "title": "Stacks (Program 1) – Part 2",
+      "duration": 609
+    },
+    {
+      "id": "pq9mq_AiELo",
+      "title": "Stacks (Program 1) – Part 3",
+      "duration": 816
+    },
+    {
+      "id": "Bhap9SG4EvI",
+      "title": "Stacks (Program 2) – Part 1",
+      "duration": 576
+    },
+    {
+      "id": "PHHyjJk82Mo",
+      "title": "Stacks (Program 2) – Part 2",
+      "duration": 707
+    },
+    {
+      "id": "eEAQX2FzfKo",
+      "title": "Stacks (Program 3)",
+      "duration": 752
+    },
+    {
+      "id": "0-kkDfCOXOI",
+      "title": "Linked List Implementation of Stacks (Part 1)",
+      "duration": 564
+    },
+    {
+      "id": "25oEU6h6zqw",
+      "title": "Linked List Implementation of Stacks (Part 2)",
+      "duration": 709
+    },
+    {
+      "id": "311qJJHiQjU",
+      "title": "Linked List Implementation of Stacks (Part 3)",
+      "duration": 706
+    },
+    {
+      "id": "hrgkobEya0U",
+      "title": "Stacks (Program 4) – Part 1",
+      "duration": 622
+    },
+    {
+      "id": "Oi33tvniyHY",
+      "title": "Stacks (Program 4) – Part 2",
+      "duration": 561
+    },
+    {
+      "id": "m3Frh9R_Phc",
+      "title": "Stacks (Program 4) – Part 3",
+      "duration": 602
+    },
+    {
+      "id": "lRsaSyUFlA4",
+      "title": "Stacks (Program 4) – Part 4",
+      "duration": 674
+    },
+    {
+      "id": "wLMac4N28Kw",
+      "title": "Stacks (Program 4) – Part 5",
+      "duration": 718
+    },
+    {
+      "id": "haeA3bErNpw",
+      "title": "Stacks (Program 4) – Part 6",
+      "duration": 865
+    },
+    {
+      "id": "wzYfTX7qhGY",
+      "title": "Stacks (Program 4) – Part 7",
+      "duration": 878
+    },
+    {
+      "id": "uDfqjMIXB8s",
+      "title": "Stacks (Program 5)",
+      "duration": 1079
+    },
+    {
+      "id": "POM1dnAYgL4",
+      "title": "Application of Stacks (Nested Brackets) - Part 1",
+      "duration": 1141
+    },
+    {
+      "id": "BDiPAuWrcJc",
+      "title": "Application of Stacks (Nested Brackets) - Part 2",
+      "duration": 1532
+    },
+    {
+      "id": "XfX5jlzWQsg",
+      "title": "Application of Stacks (Infix to Postfix) - Part 1",
+      "duration": 633
+    },
+    {
+      "id": "IQ3p9yCLYuQ",
+      "title": "Application of Stacks (Infix to Postfix) - Part 2",
+      "duration": 822
+    },
+    {
+      "id": "aq8S_RJN7bE",
+      "title": "Application of Stacks (Infix to Postfix) - Part 3",
+      "duration": 576
+    },
+    {
+      "id": "ymG0zxuC__I",
+      "title": "Application of Stacks (Infix to Postfix) - Part 4",
+      "duration": 707
+    },
+    {
+      "id": "8HeJxuJ8qeY",
+      "title": "Application of Stacks (Infix to Postfix) - Part 5",
+      "duration": 516
+    },
+    {
+      "id": "7jLR-al8RaM",
+      "title": "Application of Stacks (Infix to Postfix) - Part 6",
+      "duration": 1129
+    },
+    {
+      "id": "qmz9nFacAOE",
+      "title": "Application of Stacks (Infix to Postfix) - Part 7",
+      "duration": 1682
+    },
+    {
+      "id": "imfuqa9E6O8",
+      "title": "Application of Stacks (Infix to Postfix) - Part 8",
+      "duration": 1367
+    },
+    {
+      "id": "4WwkxT_tU9A",
+      "title": "Stacks (GATE Problems) - Set 1",
+      "duration": 915
+    },
+    {
+      "id": "zxvEOvb5z1g",
+      "title": "Stacks (GATE Problems) - Set 2",
+      "duration": 481
+    },
+    {
+      "id": "D80AB1WkzRk",
+      "title": "Queues | Chapter-7 | Data Structures | nesoacademy.org",
+      "duration": 88
+    },
+    {
+      "id": "lAo9r_asiew",
+      "title": "Binary Trees | Chapter-8 | Data Structures | nesoacademy.org",
+      "duration": 184
+    },
+    {
+      "id": "CwJgfGsyArA",
+      "title": "Binary Search Trees | Chapter-9 | Data Structures | nesoacademy.org",
+      "duration": 69
+    },
+    {
+      "id": "8de0iwrsuO0",
+      "title": "AVL Trees | Chapter-10 | Data Structures | nesoacademy.org",
+      "duration": 70
+    }
+  ]
+}

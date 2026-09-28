@@ -1,0 +1,50 @@
+{
+  "courseId": "sorting-algorithms-5fdb99",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:13.437Z",
+  "title": "Sorting Algorithms",
+  "channel": "mycodeschool",
+  "videos": [
+    {
+      "id": "pkkFqlG0Hds",
+      "title": "Introduction to sorting algorithms",
+      "duration": 537
+    },
+    {
+      "id": "GUDLRan2DWM",
+      "title": "Selection sort algorithm",
+      "duration": 618
+    },
+    {
+      "id": "Jdtq5uKz-w4",
+      "title": "Bubble sort algorithm",
+      "duration": 624
+    },
+    {
+      "id": "i-SKeOcBwko",
+      "title": "Insertion sort algorithm",
+      "duration": 855
+    },
+    {
+      "id": "TzeBrDU-JaY",
+      "title": "Merge sort algorithm",
+      "duration": 1100
+    },
+    {
+      "id": "0nlPxaC2lTw",
+      "title": "Analysis of Merge sort algorithm",
+      "duration": 1101
+    },
+    {
+      "id": "COk73cpQbFQ",
+      "title": "Quicksort algorithm",
+      "duration": 1239
+    },
+    {
+      "id": "3Bbm3Prd5Fo",
+      "title": "Analysis of quicksort",
+      "duration": 1217
+    }
+  ]
+}

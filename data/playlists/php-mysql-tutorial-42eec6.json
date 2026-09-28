@@ -1,0 +1,355 @@
+{
+  "courseId": "php-mysql-tutorial-42eec6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:59.491Z",
+  "title": "PHP Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "G_CFRAdbXfI",
+      "title": "PHP & MySQL Tutorial - 1: Introduction to PHP",
+      "duration": 372
+    },
+    {
+      "id": "uAwYY4Lp48Q",
+      "title": "PHP & MySQL Tutorial - 2: Installing WAMP",
+      "duration": 285
+    },
+    {
+      "id": "EOt6Ah2OZrQ",
+      "title": "PHP & MySQL Tutorial - 3: First PHP Script",
+      "duration": 308
+    },
+    {
+      "id": "ZvP-6zdTWfg",
+      "title": "PHP & MySQL Tutorial - 4: The ECHO Statement",
+      "duration": 222
+    },
+    {
+      "id": "EUYcG7GhsR0",
+      "title": "PHP & MySQL Tutorial - 5: Comments in PHP",
+      "duration": 204
+    },
+    {
+      "id": "bDE02eQuuGs",
+      "title": "PHP & MySQL Tutorial - 6: Variables in PHP",
+      "duration": 261
+    },
+    {
+      "id": "mfD1jxBTuT4",
+      "title": "PHP & MySQL Tutorial - 7: Strings (Part-1)",
+      "duration": 376
+    },
+    {
+      "id": "4za3jwi4_Do",
+      "title": "PHP & MySQL Tutorial - 8: Strings (Part-2)",
+      "duration": 290
+    },
+    {
+      "id": "DwvCiY18sTg",
+      "title": "PHP & MySQL Tutorial - 9: Strings (Part-3)",
+      "duration": 271
+    },
+    {
+      "id": "Q0neh15jNmA",
+      "title": "PHP & MySQL Tutorial - 10: Numbers (Part-1)",
+      "duration": 200
+    },
+    {
+      "id": "awK03dFytBY",
+      "title": "PHP & MySQL Tutorial - 11: Numbers (Part-2)",
+      "duration": 291
+    },
+    {
+      "id": "4LNEHVXP39Q",
+      "title": "PHP & MySQL Tutorial - 12: Numbers (Part-3)",
+      "duration": 307
+    },
+    {
+      "id": "3X53DmDZ7e4",
+      "title": "PHP & MySQL Tutorial - 13: Arrays",
+      "duration": 493
+    },
+    {
+      "id": "w4vhWbpBSRk",
+      "title": "PHP & MySQL Tutorial - 14: Associative Arrays",
+      "duration": 435
+    },
+    {
+      "id": "yjlnQpmu2CY",
+      "title": "PHP & MySQL Tutorial - 15: Array Functions",
+      "duration": 588
+    },
+    {
+      "id": "B9kswIrDU6A",
+      "title": "PHP & MySQL Tutorial - 16: Boolean Data Type",
+      "duration": 235
+    },
+    {
+      "id": "-XCZmF6dqdQ",
+      "title": "PHP & MySQL Tutorial - 17: Null Value & Empty Method",
+      "duration": 322
+    },
+    {
+      "id": "vuModTJ7bFA",
+      "title": "PHP & MySQL Tutorial - 18: Constants",
+      "duration": 266
+    },
+    {
+      "id": "B_eJKJwFUFQ",
+      "title": "PHP & MySQL Tutorial - 19: Implicit Type Conversion",
+      "duration": 354
+    },
+    {
+      "id": "Eq48gU06LXk",
+      "title": "PHP & MySQL Tutorial - 20: Explicit Type Conversion",
+      "duration": 327
+    },
+    {
+      "id": "CdQUP8DOLGs",
+      "title": "PHP & MySQL Tutorial - 21: IF Statement",
+      "duration": 315
+    },
+    {
+      "id": "rFV16iKka28",
+      "title": "PHP & MySQL Tutorial - 22: Else & Elseif Statements",
+      "duration": 292
+    },
+    {
+      "id": "S2K8oQCOCf0",
+      "title": "PHP & MySQL Tutorial - 23: Relational Operators",
+      "duration": 350
+    },
+    {
+      "id": "QUVs-23-6XA",
+      "title": "PHP & MySQL Tutorial - 24: Logical Operators",
+      "duration": 459
+    },
+    {
+      "id": "w73-Eo65kI0",
+      "title": "PHP & MySQL Tutorial - 25: Finding the Largest of Three Numbers",
+      "duration": 222
+    },
+    {
+      "id": "QWzg0QsIkHs",
+      "title": "PHP & MySQL Tutorial - 26: Switch Statement",
+      "duration": 407
+    },
+    {
+      "id": "qdApbKwbPJ0",
+      "title": "PHP & MySQL Tutorial - 27: While Loop",
+      "duration": 245
+    },
+    {
+      "id": "sm5obpL7w28",
+      "title": "PHP & MySQL Tutorial - 28: For Loop",
+      "duration": 220
+    },
+    {
+      "id": "bct03Cxq8jQ",
+      "title": "PHP & MySQL Tutorial - 29: Foreach Loop",
+      "duration": 238
+    },
+    {
+      "id": "cAxgPKeJ-Ec",
+      "title": "PHP & MySQL Tutorial - 30: Looping through Associative Arrays using Foreach Loop",
+      "duration": 440
+    },
+    {
+      "id": "TvY_T3XP0t8",
+      "title": "PHP & MySQL Tutorial - 31: Continue Statement",
+      "duration": 290
+    },
+    {
+      "id": "pMfMp5bW5jY",
+      "title": "PHP & MySQL Tutorial - 32: Break Statement",
+      "duration": 233
+    },
+    {
+      "id": "IhiMJ03dY_w",
+      "title": "PHP & MySQL Tutorial - 33: Array Pointers",
+      "duration": 356
+    },
+    {
+      "id": "Z02RA2CUT6M",
+      "title": "PHP & MySQL Tutorial - 34: Functions (Part-1)",
+      "duration": 456
+    },
+    {
+      "id": "ZQlwWXPFFmo",
+      "title": "PHP & MySQL Tutorial - 35: Functions (Part-2)",
+      "duration": 281
+    },
+    {
+      "id": "DOAmD_1IPvU",
+      "title": "PHP & MySQL Tutorial - 36: Returning Values From Functions",
+      "duration": 235
+    },
+    {
+      "id": "KH1qVe7k-9Y",
+      "title": "PHP & MySQL Tutorial - 37: Returning Multiple Values From Functions",
+      "duration": 266
+    },
+    {
+      "id": "CXxHmsQDAN8",
+      "title": "PHP & MySQL Tutorial - 38: Scope of Variables",
+      "duration": 266
+    },
+    {
+      "id": "3gJSf9_oYiY",
+      "title": "PHP & MySQL Tutorial - 39: Functions With Default Arguments",
+      "duration": 160
+    },
+    {
+      "id": "owCNK54eZRw",
+      "title": "PHP & MySQL Tutorial - 40: Passing Values Through Query String",
+      "duration": 463
+    },
+    {
+      "id": "r2_k_AiMuhg",
+      "title": "PHP & MySQL Tutorial - 41: Encoding URLs",
+      "duration": 327
+    },
+    {
+      "id": "GJACmU4SWBI",
+      "title": "PHP & MySQL Tutorial - 42: HTML Special Characters",
+      "duration": 239
+    },
+    {
+      "id": "OzO1a-WiBnU",
+      "title": "PHP & MySQL Tutorial - 43: Viewing Special Characters",
+      "duration": 178
+    },
+    {
+      "id": "v-siTC8zLM8",
+      "title": "PHP & MySQL Tutorial - 44: Including PHP Files",
+      "duration": 207
+    },
+    {
+      "id": "nUEHG4xQVtQ",
+      "title": "PHP & MySQL Tutorial - 45: Obtaining Values Through Forms",
+      "duration": 474
+    },
+    {
+      "id": "UYQB9D3qW8U",
+      "title": "PHP & MySQL Tutorial - 46: Form Validation in PHP",
+      "duration": 539
+    },
+    {
+      "id": "FXJABN4sakU",
+      "title": "PHP & MySQL Tutorial - 47: Setting Cookies",
+      "duration": 316
+    },
+    {
+      "id": "-dsqbZY37Cg",
+      "title": "PHP & MySQL Tutorial - 48: Obtaining Cookie Values",
+      "duration": 175
+    },
+    {
+      "id": "AXHl6ZexgJk",
+      "title": "PHP & MySQL Tutorial - 49: Unsetting Cookies",
+      "duration": 216
+    },
+    {
+      "id": "0dx8R3emPV0",
+      "title": "PHP & MySQL Tutorial - 50: Creating Database in MySql",
+      "duration": 280
+    },
+    {
+      "id": "HvRSlNrOArE",
+      "title": "PHP & MySQL Tutorial - 51: Creating Users in MySql",
+      "duration": 231
+    },
+    {
+      "id": "tz66xozGxVk",
+      "title": "PHP & MySQL Tutorial - 52: Creating Tables",
+      "duration": 471
+    },
+    {
+      "id": "CBC_fcsxwwc",
+      "title": "PHP & MySQL Tutorial - 53: MySql For Excel",
+      "duration": 359
+    },
+    {
+      "id": "I4mEeBjcsn4",
+      "title": "PHP & MySQL Tutorial - 54: Inserting Data Into a Table",
+      "duration": 335
+    },
+    {
+      "id": "pzYD1Ms241g",
+      "title": "PHP & MySQL Tutorial - 55: Updating Tables",
+      "duration": 284
+    },
+    {
+      "id": "p3kxOXwoGD8",
+      "title": "PHP & MySQL Tutorial - 56: Deleting Data",
+      "duration": 171
+    },
+    {
+      "id": "Q6It9SD6i7s",
+      "title": "PHP & MySQL Tutorial - 57: Altering Table Structure",
+      "duration": 234
+    },
+    {
+      "id": "qaglEh8KreA",
+      "title": "PHP & MySQL Tutorial - 58: SQL Joins",
+      "duration": 349
+    },
+    {
+      "id": "xQ-qB0eqMeA",
+      "title": "PHP & MySQL Tutorial - 59: Connecting to a Database Using PHP",
+      "duration": 438
+    },
+    {
+      "id": "WHw6vVoRTMs",
+      "title": "PHP & MySQL Tutorial - 60: Executing a Query Using PHP",
+      "duration": 587
+    },
+    {
+      "id": "y7sRnS_IOIE",
+      "title": "PHP & MySQL Tutorial - 61: Displaying Retrieved Data",
+      "duration": 265
+    },
+    {
+      "id": "imhrFgJYhAk",
+      "title": "PHP & MySQL Tutorial - 62: Formatting Displayed Data",
+      "duration": 553
+    },
+    {
+      "id": "upZ-Ouo_El0",
+      "title": "PHP & MySQL Tutorial - 63: Creating Tables",
+      "duration": 327
+    },
+    {
+      "id": "jNLsS2RFQPc",
+      "title": "PHP & MySQL Tutorial - 64: Inserting Data in a Table",
+      "duration": 264
+    },
+    {
+      "id": "4_rDXHbdBoY",
+      "title": "PHP & MySQL Tutorial - 65: Updating Data",
+      "duration": 205
+    },
+    {
+      "id": "T0_zTIU3q1Y",
+      "title": "PHP & MySQL Tutorial - 66: Deleting Data",
+      "duration": 167
+    },
+    {
+      "id": "Rp9PeSra_uc",
+      "title": "PHP & MySQL Tutorial - 67: Removing a Table",
+      "duration": 130
+    },
+    {
+      "id": "CEzSaks4Q0A",
+      "title": "PHP & MySQL Tutorial - 68: Creating a Signup Page",
+      "duration": 1267
+    },
+    {
+      "id": "lDiTzRcVzvs",
+      "title": "PHP & MySQL Tutorial - 69: Conclusion",
+      "duration": 194
+    }
+  ]
+}

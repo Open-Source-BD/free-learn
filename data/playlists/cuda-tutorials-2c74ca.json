@@ -1,0 +1,65 @@
+{
+  "courseId": "cuda-tutorials-2c74ca",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:27.086Z",
+  "title": "CUDA Tutorials",
+  "channel": "Creel",
+  "videos": [
+    {
+      "id": "m0nhePeHwFs",
+      "title": "NVIDIA CUDA Tutorial 1: Introduction",
+      "duration": 450
+    },
+    {
+      "id": "rbHURDt2dcQ",
+      "title": "NVIDIA CUDA Tutorial 2: Basics and a First Kernel",
+      "duration": 1256
+    },
+    {
+      "id": "8NtHDkUoN98",
+      "title": "NVIDIA CUDA Tutorial 3: Display Driver has Stopped Working and has Recovered",
+      "duration": 744
+    },
+    {
+      "id": "kzXjRFL-gjo",
+      "title": "NVIDIA CUDA Tutorial 4: Threads, Thread Blocks and Grids",
+      "duration": 1526
+    },
+    {
+      "id": "RY2_8wB2QY4",
+      "title": "NVIDIA CUDA Tutorial 5: Memory Overview",
+      "duration": 1287
+    },
+    {
+      "id": "0ILeCeaor0A",
+      "title": "NVIDIA CUDA Tutorial 6: An Embarrassingly Parallel Algorithm 1",
+      "duration": 807
+    },
+    {
+      "id": "UJ3kNwoxtuk",
+      "title": "NVIDIA CUDA Tutorial 7: An Embarrassingly Parallel Algorithm 2",
+      "duration": 1050
+    },
+    {
+      "id": "upGoZ00MlfI",
+      "title": "NVIDIA CUDA Tutorial 8: Intro to Shared Memory",
+      "duration": 880
+    },
+    {
+      "id": "CZgM3DEBplE",
+      "title": "NVIDIA CUDA Tutorial 9: Bank Conflicts",
+      "duration": 1446
+    },
+    {
+      "id": "oJK5CDlkwCs",
+      "title": "NVIDIA CUDA Tutorial 10: Blocking with Shared Memory",
+      "duration": 1256
+    },
+    {
+      "id": "sjtoJHYqd4s",
+      "title": "CUDA Tutorial 11: Thrust Library Intro",
+      "duration": 1176
+    }
+  ]
+}

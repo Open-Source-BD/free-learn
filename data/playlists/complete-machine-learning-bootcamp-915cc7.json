@@ -1,0 +1,95 @@
+{
+  "courseId": "complete-machine-learning-bootcamp-915cc7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:08.408Z",
+  "title": "Complete Machine Learning Bootcamp",
+  "channel": "Code for Cause",
+  "videos": [
+    {
+      "id": "7r9tbzqWVD0",
+      "title": "Machine Learning 101 with Anuj Garg",
+      "duration": 6241
+    },
+    {
+      "id": "ycvSMpsg7qk",
+      "title": "ML Bootcamp - Introduction to Machine Learning",
+      "duration": 6337
+    },
+    {
+      "id": "FAposp6k-lA",
+      "title": "ML Bootcamp - Image Processing with NumPy and OpenCV",
+      "duration": 7558
+    },
+    {
+      "id": "7jN24_YVcns",
+      "title": "ML Bootcamp - Data Visualization & Outlier Detection with Seaborn, Matplotlib",
+      "duration": 6091
+    },
+    {
+      "id": "bAp8YJAJ5Ek",
+      "title": "ML Bootcamp - Collecting and Generating Data with Pandas",
+      "duration": 5820
+    },
+    {
+      "id": "j8wbYLH7UcU",
+      "title": "ML Bootcamp - Introduction to Tensorflow and Tensorboard",
+      "duration": 5466
+    },
+    {
+      "id": "rroGKLqbncs",
+      "title": "ML Bootcamp - KNN & Handwriting Classification Project",
+      "duration": 6665
+    },
+    {
+      "id": "2BOxO93WMII",
+      "title": "ML Bootcamp - Face Recognition, Mood Detection & Gestures Control Car Racing Game",
+      "duration": 7269
+    },
+    {
+      "id": "34BBEVf94Rw",
+      "title": "ML Bootcamp - K-Means Clustering & Recommendations System Project",
+      "duration": 6531
+    },
+    {
+      "id": "jADjdCrtY1I",
+      "title": "ML Bootcamp - Linear Regression & House Price, Salary Prediction Project",
+      "duration": 7214
+    },
+    {
+      "id": "UzaIxfRIcEY",
+      "title": "ML Bootcamp - Logistic Regression Image Classification, Clean vs Dirty Room Project",
+      "duration": 8955
+    },
+    {
+      "id": "2qjhXfkg7pM",
+      "title": "Naive Bayes, Text Processing & Spam Email Detection Project",
+      "duration": 10622
+    },
+    {
+      "id": "XxpwawmCVHM",
+      "title": "ML Bootcamp - Decision Tree, Random Forest & Exploring Titanic Dataset from Kaggle",
+      "duration": 8786
+    },
+    {
+      "id": "UNyX6WrkiMg",
+      "title": "ML Bootcamp - Support Vector  Machine & Cancer Prediction Project",
+      "duration": 8288
+    },
+    {
+      "id": "Uf7N1tab6Ho",
+      "title": "ML Bootcamp - Introduction to Artificial Neurons, Neural Networks and Deep Learning",
+      "duration": 6685
+    },
+    {
+      "id": "S6A0-d8kz6Q",
+      "title": "ML Bootcamp - Deploy your ML Project on the Web with Flask using Heroku, Google Cloud",
+      "duration": 7708
+    },
+    {
+      "id": "ks6GZjPVcRU",
+      "title": "(Algorithm + Code) Genetic Algorithm, Evolutionary algorithms for COVID-19 Vaccines #MachineLearning",
+      "duration": 4787
+    }
+  ]
+}

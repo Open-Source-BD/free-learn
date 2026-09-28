@@ -1,0 +1,75 @@
+{
+  "courseId": "tailwindcss-tutorial-8b467a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLFHz2csJcgk8lgiRDB7FdsXVr4xy6jE8K",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:38.536Z",
+  "title": "TailwindCSS Tutorial",
+  "channel": "Code With Dary",
+  "videos": [
+    {
+      "id": "PyPR5l8tky8",
+      "title": "Introduction to Tailwind CSS | Tailwind CSS Tutorial | Learn Tailwind 2 CSS | Tailwind Tutorial",
+      "duration": 384
+    },
+    {
+      "id": "9XeewBRtDKE",
+      "title": "How To Install Tailwind CSS | Install Tailwind Via NPM | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 627
+    },
+    {
+      "id": "rcWzZz969qg",
+      "title": "Fonts, Colors & Alignment in Tailwind CSS | Colors In Tailwind | Tailwind Tutorial | Learn Tailwind",
+      "duration": 836
+    },
+    {
+      "id": "mvGE7goLc5g",
+      "title": "Background Colors & Gradients In Tailwind | Tailwind CSS Tutorial | Tailwind Tutorial",
+      "duration": 692
+    },
+    {
+      "id": "ywLgqJjLUm4",
+      "title": "Background Images Tailwind | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 459
+    },
+    {
+      "id": "u2ubnYOC-qA",
+      "title": "Padding & Margin In Tailwind | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 590
+    },
+    {
+      "id": "SDnum2IdebU",
+      "title": "Learn Grid In Tailwind CSS | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 606
+    },
+    {
+      "id": "rRzeygfoHI4",
+      "title": "Learn Flexbox In 8 Minutes | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 477
+    },
+    {
+      "id": "z9sHOXheE_M",
+      "title": "Hover, Transitions, Animations & Transformations | Tailwind CSS Tutorial | Learn Tailwind 2 CSS",
+      "duration": 792
+    },
+    {
+      "id": "V8nAzWNeKvQ",
+      "title": "How To Make Responsive Designs | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 494
+    },
+    {
+      "id": "5c7_Og_JwWo",
+      "title": "How To Add Custom Fonts | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 325
+    },
+    {
+      "id": "O7r2HszhgOE",
+      "title": "How To Customize Tailwind Classes | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 459
+    },
+    {
+      "id": "l6_fC_Xg9cI",
+      "title": "How To Purge Your Tailwind File | Tailwind CSS Tutorial | Tailwind Tutorial | Learn Tailwind 2 CSS",
+      "duration": 388
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "courseId": "redis-cli-course-db2339",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhfxuQVMs-nw6wu3HaD4YcO6wlF0AXMkp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:13.773Z",
+  "title": "Redis CLI Course",
+  "channel": "Daily Code Buffer",
+  "videos": [
+    {
+      "id": "s2co4JzuVB0",
+      "title": "Introduction to Redis - Redis CLI Course",
+      "duration": 142
+    },
+    {
+      "id": "M8hdjUeH650",
+      "title": "Installing Redis - Redis CLI Course | 02",
+      "duration": 107
+    },
+    {
+      "id": "UftELQf3k8s",
+      "title": "Redis Strings - Redis CLI Course | 03",
+      "duration": 470
+    },
+    {
+      "id": "oMcvkFu95z4",
+      "title": "Redis Lists - Redis CLI Course | 04",
+      "duration": 657
+    },
+    {
+      "id": "FZK9HKKp2vQ",
+      "title": "Redis Sets - Redis CLI Course | 05",
+      "duration": 464
+    },
+    {
+      "id": "VSkdCNgII5k",
+      "title": "Redis Sorted Sets - Redis CLI Course | 06",
+      "duration": 439
+    },
+    {
+      "id": "qW4AsqnNDDg",
+      "title": "Redis HyperLogLog - Redis CLI Course | 07",
+      "duration": 173
+    },
+    {
+      "id": "ig94jUkPbZI",
+      "title": "Redis Hashes - Redis CLI Course | 08",
+      "duration": 354
+    },
+    {
+      "id": "KFeTfQkuLP8",
+      "title": "Redis Transactions - Redis CLI Course | 09",
+      "duration": 216
+    },
+    {
+      "id": "6Ec_f0QOeVk",
+      "title": "Redis PubSub - Redis CLI Course | 10",
+      "duration": 474
+    },
+    {
+      "id": "wEJo503Pm7I",
+      "title": "Redis Scripts - Redis CLI Course | 11",
+      "duration": 548
+    },
+    {
+      "id": "CiSaBT6s1kw",
+      "title": "Redis Connection & Security - Redis CLI Course | 12",
+      "duration": 363
+    },
+    {
+      "id": "nKqvpqPVDCU",
+      "title": "Redis GEO - Redis CLI Course | 13",
+      "duration": 675
+    },
+    {
+      "id": "eWuYa7KTLPw",
+      "title": "Redis Benchmark - Redis CLI Course | 14",
+      "duration": 303
+    }
+  ]
+}

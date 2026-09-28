@@ -1,0 +1,80 @@
+{
+  "courseId": "react-testing-library-crash-course-8611f0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:02.768Z",
+  "title": "React Testing Library Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "7dTTFW7yACQ",
+      "title": "React Testing Library Tutorial #1 - Introduction",
+      "duration": 466
+    },
+    {
+      "id": "tit8PecSH70",
+      "title": "React Testing Library Tutorial #2 - The Importance of Testing",
+      "duration": 294
+    },
+    {
+      "id": "n_sS-GAgZ98",
+      "title": "React Testing Library Tutorial #3 - Types of Test",
+      "duration": 273
+    },
+    {
+      "id": "SppbtlpPZu4",
+      "title": "React Testing Library Tutorial #4 - Structure of Tests",
+      "duration": 742
+    },
+    {
+      "id": "Yghw9FkNGsc",
+      "title": "React Testing Library Tutorial #5 - Intro to Query Methods",
+      "duration": 510
+    },
+    {
+      "id": "PLL5Pvuk-tw",
+      "title": "React Testing Library Tutorial #6 - Priority",
+      "duration": 178
+    },
+    {
+      "id": "l9qr3EuLE_8",
+      "title": "React Testing Library Tutorial #7 - Using Query Methods",
+      "duration": 936
+    },
+    {
+      "id": "3ugQRXRToFA",
+      "title": "React Testing Library Tutorial #8 - Assertions",
+      "duration": 1081
+    },
+    {
+      "id": "kVzw_f7TfCE",
+      "title": "React Testing Library Tutorial #9 - Describe Block",
+      "duration": 280
+    },
+    {
+      "id": "0Y11K7KSC80",
+      "title": "React Testing Library Tutorial #10 - Fire Events",
+      "duration": 805
+    },
+    {
+      "id": "6wbnwsKrnYU",
+      "title": "React Testing Library Tutorial #11 - Integration Tests",
+      "duration": 1059
+    },
+    {
+      "id": "V2wWLM8VX5k",
+      "title": "React Testing Library Tutorial #12 - Finding Async Elements with FindBy",
+      "duration": 635
+    },
+    {
+      "id": "TBZy-Rc-xX0",
+      "title": "React Testing Library Tutorial #13 - Mocking Requests",
+      "duration": 629
+    },
+    {
+      "id": "MtiQMhzjQrY",
+      "title": "React Testing Library Tutorial #14 - Before &After Each",
+      "duration": 325
+    }
+  ]
+}

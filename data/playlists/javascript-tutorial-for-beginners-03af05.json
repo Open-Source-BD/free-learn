@@ -1,0 +1,40 @@
+{
+  "courseId": "javascript-tutorial-for-beginners-03af05",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:31.167Z",
+  "title": "JavaScript Tutorial for Beginners",
+  "channel": "ProgrammingWithHarry",
+  "videos": [
+    {
+      "id": "DW7OaXN9wMs",
+      "title": "Introduction to JavaScript + Setup | Ultimate JavaScript Course #1",
+      "duration": 677
+    },
+    {
+      "id": "hraAvEwZ3o4",
+      "title": "Variables in JavaScript | Ultimate JavaScript Course #2",
+      "duration": 744
+    },
+    {
+      "id": "agXU_IjTy0Y",
+      "title": "const, let and var in JavaScript | Ultimate JavaScript Course #3",
+      "duration": 628
+    },
+    {
+      "id": "JF6c8jvS3c8",
+      "title": "Primitives and Objects in JavaScript | Ultimate JavaScript Course #4",
+      "duration": 809
+    },
+    {
+      "id": "fl2wY8XnNP4",
+      "title": "JavaScript Chapter 1 - Practice Set | Ultimate JavaScript Course #5",
+      "duration": 744
+    },
+    {
+      "id": "Z51jMk6N1zY",
+      "title": "Operators & Expressions in JavaScript | Ultimate JavaScript Course #6",
+      "duration": 1270
+    }
+  ]
+}

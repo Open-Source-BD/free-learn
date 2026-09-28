@@ -1,0 +1,75 @@
+{
+  "courseId": "data-structures-and-algorithms-1f915a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:35.870Z",
+  "title": "Data Structures and Algorithms",
+  "channel": "CS Dojo",
+  "videos": [
+    {
+      "id": "bum_19loj9A",
+      "title": "Data Structures & Algorithms #1 - What Are Data Structures?",
+      "duration": 995
+    },
+    {
+      "id": "pmN9ExDf3yQ",
+      "title": "An Overview of Arrays and Memory (Data Structures & Algorithms #2)",
+      "duration": 1220
+    },
+    {
+      "id": "8yjkWGRlUmY",
+      "title": "Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)",
+      "duration": 1191
+    },
+    {
+      "id": "4dqlSk_RPmI",
+      "title": "Introduction to Classes and Objects - Part 2 (Data Structures & Algorithms #4)",
+      "duration": 904
+    },
+    {
+      "id": "WwfhLC16bis",
+      "title": "Introduction to Linked Lists (Data Structures & Algorithms #5)",
+      "duration": 1127
+    },
+    {
+      "id": "B0NtAFf4bvU",
+      "title": "Introduction to Recursion (Data Structures & Algorithms #6)",
+      "duration": 1357
+    },
+    {
+      "id": "D6xkbGLQesk",
+      "title": "Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)",
+      "duration": 2182
+    },
+    {
+      "id": "UNWSdgaPkwY",
+      "title": "Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)",
+      "duration": 216
+    },
+    {
+      "id": "1-l_UOFi1Xw",
+      "title": "Introduction to Trees (Data Structures & Algorithms #9)",
+      "duration": 630
+    },
+    {
+      "id": "6ysjqCUv3K4",
+      "title": "Introduction to Binary Search (Data Structures & Algorithms #10)",
+      "duration": 863
+    },
+    {
+      "id": "0SkOjNaO1XY",
+      "title": "A Complete Overview of Quicksort (Data Structures & Algorithms #11)",
+      "duration": 1459
+    },
+    {
+      "id": "A3ZUpyrnCbM",
+      "title": "Introduction to Stacks and Queues (Data Structures & Algorithms #12)",
+      "duration": 990
+    },
+    {
+      "id": "sfWyugl4JWA",
+      "title": "Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13)",
+      "duration": 1120
+    }
+  ]
+}

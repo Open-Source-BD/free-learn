@@ -1,0 +1,110 @@
+{
+  "courseId": "python-programming-tutorials-aaa6c2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:02.001Z",
+  "title": "Python Programming Tutorials",
+  "channel": "Tech With Tim",
+  "videos": [
+    {
+      "id": "OFrLs22MDAw",
+      "title": "Python Programming Tutorial #1 - Variables and Data Types",
+      "duration": 667
+    },
+    {
+      "id": "QQrcd_62VWM",
+      "title": "Python Programming Tutorial #2 - Basic Operators and Input",
+      "duration": 708
+    },
+    {
+      "id": "2EngAQX_kCg",
+      "title": "Python Programming Tutorial #3 - Conditions",
+      "duration": 518
+    },
+    {
+      "id": "vA4r_MPRNsg",
+      "title": "Python Programming Tutorial #4 - IF/ELIF/ELSE",
+      "duration": 776
+    },
+    {
+      "id": "IRiJdLN-Ers",
+      "title": "Python Programming Tutorial #5 - Chained Conditionals and Nested Statements",
+      "duration": 451
+    },
+    {
+      "id": "vKeoXxVaga4",
+      "title": "Python Programming Tutorial #6 - For Loops",
+      "duration": 355
+    },
+    {
+      "id": "U_nugSKtbSk",
+      "title": "Python Programming Tutorial #7 - While Loops",
+      "duration": 378
+    },
+    {
+      "id": "1uCH3zqbv2s",
+      "title": "Python Programming Tutorial #8 - Lists and Tuples",
+      "duration": 493
+    },
+    {
+      "id": "jmx1OZNMLr0",
+      "title": "Python Programming Tutorial #9 - Iteration by Item (For Loops Continued...)",
+      "duration": 360
+    },
+    {
+      "id": "ERww7FiLrqk",
+      "title": "Python Programming Tutorial #10 - String Methods",
+      "duration": 381
+    },
+    {
+      "id": "L0j7JkFmYDI",
+      "title": "Python Programming Tutorial #11 - Slice Operator",
+      "duration": 418
+    },
+    {
+      "id": "1OuRhD7FmTA",
+      "title": "Python Programming Tutorial #12 - Functions",
+      "duration": 504
+    },
+    {
+      "id": "0EgSo7hsRWM",
+      "title": "Python Programming Tutorial #13 - How to Read a Text File",
+      "duration": 498
+    },
+    {
+      "id": "W0fPZQBFpVE",
+      "title": "Python Programming Tutorial #14 - Writing to a Text File",
+      "duration": 254
+    },
+    {
+      "id": "W4JwgcqpDBE",
+      "title": "Python Programming Tutorial #15 - Using .count() and .find()",
+      "duration": 414
+    },
+    {
+      "id": "PBUtAdR1n6g",
+      "title": "Python Programming Tutorial #16 - Introduction to Modular Programming",
+      "duration": 471
+    },
+    {
+      "id": "pjIxDyLCOfQ",
+      "title": "Python Programming Tutorial #17 - Optional Parameters",
+      "duration": 350
+    },
+    {
+      "id": "MImAiZIzzd4",
+      "title": "Python Programming Tutorial #18 - Try and Except (Python Error Handling)",
+      "duration": 288
+    },
+    {
+      "id": "Fc0XRcRmBP4",
+      "title": "Python Programming Tutorial #19 - Global vs Local Variables",
+      "duration": 516
+    },
+    {
+      "id": "ucSuTR5qat8",
+      "title": "Python Programming Tutorial #20 - Classes and Objects",
+      "duration": 675
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "courseId": "intro-to-javascript-es6-programming-5c7e0b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:19.497Z",
+  "title": "Intro To JavaScript ES6 Programming course",
+  "channel": "Codexpanse with Rakhim",
+  "videos": [
+    {
+      "id": "muFql8Z4sCg",
+      "title": "What's a computer? Are computers smart? / Intro to JavaScript ES6 programming, lesson 1",
+      "duration": 332
+    },
+    {
+      "id": "7J545CYg8W4",
+      "title": "What Is a Programming Language? / Intro to JavaScript ES6 Programming, lesson 2",
+      "duration": 343
+    },
+    {
+      "id": "aicwb8czmBc",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "Svl1BjWgWnU",
+      "title": "Constants and Math in JavaScript / Intro to JavaScript ES6 Programming, lesson 3",
+      "duration": 322
+    },
+    {
+      "id": "RtNCotW8I0g",
+      "title": "Functions in JavaScript / Intro to JavaScript ES6 Programming, lesson 4",
+      "duration": 305
+    },
+    {
+      "id": "pyvS0zwYbiM",
+      "title": "IF conditions in JavaScript / Intro to JavaScript ES6 programming, lesson 5",
+      "duration": 343
+    },
+    {
+      "id": "O0EHKBi7iXU",
+      "title": "Errors in JavaScript / Intro to JavaScript ES6 programming, lesson 6",
+      "duration": 466
+    },
+    {
+      "id": "vLhHyGTkjCs",
+      "title": "Recursion and recursive functions / Intro to JavaScript ES6 programming, lesson 7",
+      "duration": 391
+    },
+    {
+      "id": "w5egSWVy69c",
+      "title": "Iterative process / Intro to JavaScript ES6 programming, lesson 8",
+      "duration": 365
+    },
+    {
+      "id": "K25aOWFEPZc",
+      "title": "Loops and variables, declarative vs. imperative / Intro to JavaScript ES6 programming, lesson 9",
+      "duration": 434
+    },
+    {
+      "id": "8QZ8Ogc3lAs",
+      "title": "Strings / Intro to JavaScript ES6 programming, lesson 10",
+      "duration": 327
+    },
+    {
+      "id": "o2jrNCYwsSA",
+      "title": "Mutators and for loop in JavaScript / Intro to JavaScript ES6 programming, lesson 11",
+      "duration": 156
+    },
+    {
+      "id": "qbxfaL7boAk",
+      "title": "Testing and writing tests / Intro to JavaScript ES6 programming, lesson 12",
+      "duration": 319
+    },
+    {
+      "id": "SmBb2SSZqFU",
+      "title": "Modules, import and export / Intro to JavaScript ES6 programming, lesson 13",
+      "duration": 335
+    },
+    {
+      "id": "WVyCrI1cHi8",
+      "title": "Expressions vs. Statements in JS / Intro to JavaScript ES6 programming, lesson 14",
+      "duration": 278
+    },
+    {
+      "id": "LhSCEWHazAU",
+      "title": "Environment, Scope and Closures in JS / Intro to JavaScript ES6 programming, lesson 15",
+      "duration": 459
+    },
+    {
+      "id": "C5fr0LZLMAs",
+      "title": "Typing: Static vs Dynamic, Weak vs. Strong / Intro to JavaScript ES6 programming, lesson 16",
+      "duration": 442
+    },
+    {
+      "id": "dZ41D6LDSBg",
+      "title": "Pure Functions / Intro to JavaScript ES6 programming, lesson 17",
+      "duration": 415
+    }
+  ]
+}

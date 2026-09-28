@@ -1,0 +1,60 @@
+{
+  "courseId": "linux-for-hackers-and-everyone-free-course-for-beginners-7de7ad",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:53.668Z",
+  "title": "Linux for Hackers (and everyone) // FREE Course for Beginners",
+  "channel": "NetworkChuck",
+  "videos": [
+    {
+      "id": "VbEx7B_PTOE",
+      "title": "Linux for Hackers // EP 1 (FREE Linux course for beginners)",
+      "duration": 693
+    },
+    {
+      "id": "A3G-3hp88mo",
+      "title": "the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2",
+      "duration": 1233
+    },
+    {
+      "id": "Y17KTiJLcyQ",
+      "title": "HELP!! (for when you suck at Linux) // Linux for Hackers // EP3",
+      "duration": 794
+    },
+    {
+      "id": "jwnvKOjmtEA",
+      "title": "sudo = POWER!! (managing users in Linux) // Linux for Hackers // EP4",
+      "duration": 1699
+    },
+    {
+      "id": "vX3krP6JmOY",
+      "title": "apt, dpkg, git, Python PiP (Linux Package Management) // Linux for Hackers // EP 5",
+      "duration": 1565
+    },
+    {
+      "id": "wOWhfNB_r-0",
+      "title": "start, stop, restart Linux services (daemon HUNTING!!) // Linux for Hackers // EP 6",
+      "duration": 1460
+    },
+    {
+      "id": "LfC6pv8VISk",
+      "title": "KILL Linux processes!! (also manage them) // Linux for Hackers // EP 7",
+      "duration": 1311
+    },
+    {
+      "id": "HSRghjwTTOQ",
+      "title": "2 cool (web) things to do in Linux // Linux for Hackers // EP 8",
+      "duration": 1219
+    },
+    {
+      "id": "ACM36qtHIEg",
+      "title": "you need to HACK faster!! (Linux Terminal hacks YOU NEED!!)",
+      "duration": 1180
+    },
+    {
+      "id": "ugt3PBeqHIo",
+      "title": "i KILLED my Linux computer!! (to teach you something)",
+      "duration": 1340
+    }
+  ]
+}

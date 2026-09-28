@@ -1,0 +1,115 @@
+{
+  "courseId": "sql-nptel-019e4a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:28.010Z",
+  "title": "SQL NPTEL",
+  "channel": "AR CS",
+  "videos": [
+    {
+      "id": "-gVcV-OFOyI",
+      "title": "SQL: Introduction and Data Definition",
+      "duration": 843
+    },
+    {
+      "id": "qfQqXoZjqSo",
+      "title": "SQL: Basic Queries",
+      "duration": 1309
+    },
+    {
+      "id": "sjzlr0EsZL4",
+      "title": "SQL: Advanced Queries",
+      "duration": 970
+    },
+    {
+      "id": "dUAkwjfw-gI",
+      "title": "SQL: Updates, Joins, Views and Triggers",
+      "duration": 1117
+    },
+    {
+      "id": "Vq7Jca_apUk",
+      "title": "Normalization Theory: Motivation",
+      "duration": 1082
+    },
+    {
+      "id": "cTSV4bYoxIw",
+      "title": "Normalization Theory: 1 NF and 2NF",
+      "duration": 899
+    },
+    {
+      "id": "td7RnhbKBPU",
+      "title": "Normalization Theory: 3NF",
+      "duration": 826
+    },
+    {
+      "id": "BajbVVTlSJg",
+      "title": "Normalization Theory: BCNF",
+      "duration": 684
+    },
+    {
+      "id": "wGqvBNZRhQ0",
+      "title": "Normalization Theory: MVD",
+      "duration": 1071
+    },
+    {
+      "id": "tCJaZn8UkAU",
+      "title": "Physical Design",
+      "duration": 1512
+    },
+    {
+      "id": "zCa6DJTjkhg",
+      "title": "Database Indexing: Hashing",
+      "duration": 1243
+    },
+    {
+      "id": "NiW6NI1NEI8",
+      "title": "Database Indexing: Tree-based Indexing",
+      "duration": 1266
+    },
+    {
+      "id": "7mrfiGf69fA",
+      "title": "Database Transactions: Properties and Failures",
+      "duration": 1135
+    },
+    {
+      "id": "v9Jv6BUDdXk",
+      "title": "Database Transactions: States and Systems",
+      "duration": 928
+    },
+    {
+      "id": "dxCpTEuTl0c",
+      "title": "Concurrency Control: Locks",
+      "duration": 814
+    },
+    {
+      "id": "e1dlMkBYfr4",
+      "title": "Concurrency Control: Two-phase Locking Protocol",
+      "duration": 821
+    },
+    {
+      "id": "ompcyEsxkoc",
+      "title": "Concurrency Control: Timestamp Ordering Protocol",
+      "duration": 1400
+    },
+    {
+      "id": "dSwqH5Jp0ng",
+      "title": "Concurrency Control: Validation-based Protocol",
+      "duration": 870
+    },
+    {
+      "id": "A8ppZYMmzng",
+      "title": "Concurrency Control: Multiple Granularity for Locks",
+      "duration": 1430
+    },
+    {
+      "id": "xCxdBkFX_ww",
+      "title": "Concurrency Control: Deadlock Prevention and Deadlock Detection",
+      "duration": 833
+    },
+    {
+      "id": "jTXzrIMx5PQ",
+      "title": "Concurrency Control: Deadlock Recovery and Update Operations",
+      "duration": 952
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "courseId": "redis-data-types-1c55c1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL83Wfqi-zYZEnzA9nguVbC-USbBIlRG0y",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:19.759Z",
+  "title": "Redis Data Types",
+  "channel": "Redis",
+  "videos": [
+    {
+      "id": "7CUt4yWeRQE",
+      "title": "Redis Strings Explained",
+      "duration": 339
+    },
+    {
+      "id": "-KdITaRkQ-U",
+      "title": "Redis Hashes Explained",
+      "duration": 388
+    },
+    {
+      "id": "MUKlxdBQZ7g",
+      "title": "Redis Sorted Sets Explained",
+      "duration": 377
+    },
+    {
+      "id": "PKdCppSNTGQ",
+      "title": "Redis Sets Explained",
+      "duration": 324
+    },
+    {
+      "id": "PB5SeOkkxQc",
+      "title": "Redis Lists Explained",
+      "duration": 272
+    },
+    {
+      "id": "qftiVQraxmI",
+      "title": "Redis Geospatial Explained",
+      "duration": 252
+    },
+    {
+      "id": "aRw5ME_5kMY",
+      "title": "Redis Sets Elaborated",
+      "duration": 221
+    },
+    {
+      "id": "oj8LdJQjhJo",
+      "title": "Redis Bitmaps Explained",
+      "duration": 323
+    },
+    {
+      "id": "MunL8nnwscQ",
+      "title": "Redis HyperLogLog Explained",
+      "duration": 310
+    },
+    {
+      "id": "Z8qcpXyMAiA",
+      "title": "Redis Streams Explained",
+      "duration": 631
+    },
+    {
+      "id": "SzcpwtLRgyk",
+      "title": "RedisTimeSeries Explained",
+      "duration": 563
+    },
+    {
+      "id": "I-ohlZXXaxs",
+      "title": "Redis and JSON  Explained (Revisited)",
+      "duration": 560
+    },
+    {
+      "id": "xhLXZ0Hqudk",
+      "title": "Redis as a Vector Database Explained",
+      "duration": 395
+    },
+    {
+      "id": "V0wmD_y03iM",
+      "title": "RedisJSON Explained",
+      "duration": 429
+    }
+  ]
+}

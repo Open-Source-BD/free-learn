@@ -1,0 +1,610 @@
+{
+  "courseId": "introduction-to-programming-through-c-plus-plus-ebc21e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:58.781Z",
+  "title": "Introduction to Programming through C++ - Abhiram Ranade | IIT Bombay - NPTEL",
+  "channel": "Rahul Madhavan",
+  "videos": [
+    {
+      "id": "efXI8anQwXo",
+      "title": "Lecture 1 Part 1: Introduction",
+      "duration": 904
+    },
+    {
+      "id": "NuSpfatuU84",
+      "title": "Lecture 1 Part 2 : Introduction",
+      "duration": 886
+    },
+    {
+      "id": "9gHKNJgmpNw",
+      "title": "Lecture 1 Part 3 : Introduction",
+      "duration": 1163
+    },
+    {
+      "id": "l4ToYxif-A4",
+      "title": "Lecture 1 Part 4 : Introduction",
+      "duration": 1004
+    },
+    {
+      "id": "LNcMZrgqMG8",
+      "title": "Lecture 2 Part 1 : Problem Solving using Computer",
+      "duration": 1282
+    },
+    {
+      "id": "JR3Ysh0ySXY",
+      "title": "Lecture 2 Part 2 : Problem Solving using Computer",
+      "duration": 674
+    },
+    {
+      "id": "T1zMigesILA",
+      "title": "Lecture 2 Part 3 : Problem Solving using Computer",
+      "duration": 1751
+    },
+    {
+      "id": "FBsBfq8LI7g",
+      "title": "Lecture 2 Part 4 : Problem Solving using Computer",
+      "duration": 1131
+    },
+    {
+      "id": "UsYEy6J2OoI",
+      "title": "Lecture 2 Part 5 : Problem Solving using Computer",
+      "duration": 1006
+    },
+    {
+      "id": "I99bi-iw6lM",
+      "title": "Lecture 3 Part 1 : Basic Elements of Program",
+      "duration": 1365
+    },
+    {
+      "id": "btT2AD5gEHg",
+      "title": "Lecture 3 Part 2 : Basic Elements of Program",
+      "duration": 1556
+    },
+    {
+      "id": "pD0eg03BR8c",
+      "title": "Lecture 3 Part 3 : Basic Elements of Program",
+      "duration": 972
+    },
+    {
+      "id": "SicrlmSqsBo",
+      "title": "Lecture 3 Part 4 : Basic Elements of Program",
+      "duration": 789
+    },
+    {
+      "id": "dedP0G_3mzs",
+      "title": "Lecture 4 Part 1 : Program Design",
+      "duration": 554
+    },
+    {
+      "id": "r7wRLIfqkZA",
+      "title": "Lecture 4 Part 2 : Program Design",
+      "duration": 894
+    },
+    {
+      "id": "rTmC6_hQesA",
+      "title": "Lecture 4 Part 3 : Program Design",
+      "duration": 1052
+    },
+    {
+      "id": "nZmSKNfbRxc",
+      "title": "Lecture 5 : Simple cpp Graphics",
+      "duration": 1502
+    },
+    {
+      "id": "eQO7Hax06kE",
+      "title": "Lecture 6 Part 1 : Conditional Execution",
+      "duration": 1279
+    },
+    {
+      "id": "MU7fE8KF2U4",
+      "title": "Lecture 6 Part 2 : Most general form of if",
+      "duration": 634
+    },
+    {
+      "id": "JqhLGuo7Xvw",
+      "title": "Lecture 6 Part 3 : More general form of conditions",
+      "duration": 879
+    },
+    {
+      "id": "smmxx3Ca7Mg",
+      "title": "Lecture 6 Part 4 : A somewhat large program example",
+      "duration": 469
+    },
+    {
+      "id": "P_zjvG-XlOI",
+      "title": "Lecture 6 Part 5 : Switch statement and logical data",
+      "duration": 1154
+    },
+    {
+      "id": "BJ_0eQRrgrQ",
+      "title": "Lecture 7 Part 1 : Loops",
+      "duration": 889
+    },
+    {
+      "id": "GmNLoZ1qVco",
+      "title": "Lecture 7 Part 2 : Mark averaging",
+      "duration": 694
+    },
+    {
+      "id": "-0D0FSK-WzY",
+      "title": "Lecture 7 Part 3 : The break and continue statements",
+      "duration": 550
+    },
+    {
+      "id": "tnMXS7BxDP4",
+      "title": "Lecture 7 Part 4 : The for statement",
+      "duration": 1495
+    },
+    {
+      "id": "O3WlqAH_naA",
+      "title": "Lecture 7 Part 5 : Euclid's algorithm for GCD",
+      "duration": 1038
+    },
+    {
+      "id": "iHoiuaFWTi8",
+      "title": "Lecture 7 Part 6 : Correctness proof for GCD",
+      "duration": 1109
+    },
+    {
+      "id": "O5LGsxehX7w",
+      "title": "Lecture 8 : Computing Mathematical Functions Part 1 : Taylor series",
+      "duration": 1374
+    },
+    {
+      "id": "WQQdfzTWWBY",
+      "title": "Lecture 8 : Computing Mathematical Functions Part 2 : Numerical integration",
+      "duration": 928
+    },
+    {
+      "id": "wflr8xIuazs",
+      "title": "Lecture 8 : Computing Mathematical Functions Part 3 : Bisection Method",
+      "duration": 1185
+    },
+    {
+      "id": "gwU8isPJgeM",
+      "title": "Lecture 8 : Computing Mathematical Functions Part 4 : Newton Raphson Method",
+      "duration": 1242
+    },
+    {
+      "id": "sV4qwU0zWpo",
+      "title": "Lecture 9 : Loops in various applications Part 1 :  Brute force algorithms",
+      "duration": 1029
+    },
+    {
+      "id": "Pr3ZOS1WXAA",
+      "title": "Lecture 9 : Loops in various applications Part 2 : Finding Pythagorean Triples",
+      "duration": 1120
+    },
+    {
+      "id": "j-YqSLNx49U",
+      "title": "Lecture 9 : Loops in various applications Part 3 : Modelling a system: bargaining",
+      "duration": 719
+    },
+    {
+      "id": "O218iB20ax4",
+      "title": "Lecture 9 : Loops in various applications Part 4 : Simulating a water tank",
+      "duration": 1222
+    },
+    {
+      "id": "4tc0TrnCfbg",
+      "title": "Lecture 9 : Loops in various applications Part 5 : Arithmetic on very large numbers",
+      "duration": 1567
+    },
+    {
+      "id": "cHXho-0cE64",
+      "title": "Lecture 10 : Functions Part 1 : Basics",
+      "duration": 1799
+    },
+    {
+      "id": "vIkxQjjwrDI",
+      "title": "Lecture 10 : Functions Part 2 : Examples",
+      "duration": 1047
+    },
+    {
+      "id": "7ehR__TLto0",
+      "title": "Lecture 10 : Functions Part 3 : Reference parameters",
+      "duration": 701
+    },
+    {
+      "id": "-md1ivKIAEs",
+      "title": "Lecture 10 : Functions Part 4 : Pointers",
+      "duration": 1570
+    },
+    {
+      "id": "gEe7twZ_Txk",
+      "title": "Lecture 10 : Functions Part 5 : Graphics Objects and Lecture conclusion",
+      "duration": 725
+    },
+    {
+      "id": "1_AU74wmDCs",
+      "title": "Lecture 11 : Recursion Part 1 : Introduction",
+      "duration": 1215
+    },
+    {
+      "id": "X26X3k56S9Y",
+      "title": "Lecture 11 : Recursion Part 2 : Recursive objects, Tree drawing",
+      "duration": 1446
+    },
+    {
+      "id": "_6P43GSyMZM",
+      "title": "Lecture 11 : Recursion Part 3 : How to think about recursion",
+      "duration": 1570
+    },
+    {
+      "id": "j8jY0ZV3GsA",
+      "title": "Lecture 12 : Virahanka  Numbers Part 1 : Introduction",
+      "duration": 817
+    },
+    {
+      "id": "tm8L4OQ8NXQ",
+      "title": "Lecture 12 : Virahanka  Numbers Part 2 : Recursive Program",
+      "duration": 895
+    },
+    {
+      "id": "bPckPyPqJa8",
+      "title": "Lecture 12 : Virahanka  Numbers Part 3 : Iterative Program and  Conclusion",
+      "duration": 633
+    },
+    {
+      "id": "T_WBVTepRwg",
+      "title": "Lecture 13 : Program  Organization  and Functions Part 1 : Introduction",
+      "duration": 1171
+    },
+    {
+      "id": "_w3U9kAW3ZI",
+      "title": "Lecture 13 : Program  Organization  and Functions Part 2 : Splitting into files",
+      "duration": 1033
+    },
+    {
+      "id": "tmB2RUQxdUw",
+      "title": "Lecture 13 : Program  Organization  and Functions Part 3 : Namespaces",
+      "duration": 404
+    },
+    {
+      "id": "zk68zaDuAVA",
+      "title": "Lecture 13 : Program  Organization  and Functions Part 4 : How to use C++ without  simplecpp",
+      "duration": 584
+    },
+    {
+      "id": "Et2PIGxduS8",
+      "title": "Lecture 14 : Advanced Features of Functions Part 1: Introduction and passing one function to another",
+      "duration": 845
+    },
+    {
+      "id": "vku0nGoLvXI",
+      "title": "Lecture 14 : Advanced  Features of  Functions Part 2 : Lambda expressions",
+      "duration": 913
+    },
+    {
+      "id": "BLmywY6d4ho",
+      "title": "Lecture 14 : Advanced  Features of  Functions Part 3 : Default values to parameters",
+      "duration": 682
+    },
+    {
+      "id": "6x5PpO1tXh0",
+      "title": "Lecture 14 : Advanced  Features of  Functions Part 4 : Function over loading and  lecture conclusion",
+      "duration": 664
+    },
+    {
+      "id": "_pQfHQcqthA",
+      "title": "Lecture 15 : Array Part-1 : Part 1 : Introduction",
+      "duration": 920
+    },
+    {
+      "id": "b46GkhtKk30",
+      "title": "Lecture 15 : Array Part-1 : Part 2 : Marks averaging problem",
+      "duration": 938
+    },
+    {
+      "id": "jdv62xB2eOg",
+      "title": "Lecture 15 : Array Part-1 : Part 3 : Histogram computation",
+      "duration": 727
+    },
+    {
+      "id": "O1KFwwJB9Rg",
+      "title": "Lecture 15 : Array Part-1 : Part 4 : Marks display variation",
+      "duration": 1056
+    },
+    {
+      "id": "HO1HGDlglF0",
+      "title": "Lecture 15 : Array Part-1 : Part 5 : Polynomial multiplication",
+      "duration": 736
+    },
+    {
+      "id": "rYA3nYPLdTg",
+      "title": "Lecture 15 : Array Part-1 : Part 6 : Queues in dispatching taxis",
+      "duration": 898
+    },
+    {
+      "id": "MX4E62rnDA8",
+      "title": "Lecture 15 : Array Part-1 : Part 7 : More efficient Queues in dispatching taxis",
+      "duration": 1002
+    },
+    {
+      "id": "5XmsngKRl24",
+      "title": "Lecture 15 : Array Part-1 : Part 8 : Disk intersection",
+      "duration": 771
+    },
+    {
+      "id": "aRsev9iHuPE",
+      "title": "Lecture 15 : Array Part-1 : Part 9 : Arrays of graphical objects and conclusion",
+      "duration": 815
+    },
+    {
+      "id": "82cxE0zsr30",
+      "title": "Lecture 16 : Array Part-2 : Part 1 : Introduction",
+      "duration": 724
+    },
+    {
+      "id": "Ljb7dNLk5Mg",
+      "title": "Lecture 16 : Array Part-2 : Part 2 : Interpretation of aname[index]",
+      "duration": 871
+    },
+    {
+      "id": "ZJDMEX8c7c8",
+      "title": "Lecture 16 : Array Part-2 : Part 3 : Arrays and function calls",
+      "duration": 710
+    },
+    {
+      "id": "p74jqnkB_fs",
+      "title": "Lecture 16 : Array Part-2 : Part 4 : A function to sort an array",
+      "duration": 1119
+    },
+    {
+      "id": "zllR8R11f08",
+      "title": "Lecture 17 : More on Arrays : Part 1 : Textual data",
+      "duration": 1395
+    },
+    {
+      "id": "3FCl5zws9xE",
+      "title": "Lecture 17 : More on Arrays : Part 2 : Functions on character strings",
+      "duration": 1043
+    },
+    {
+      "id": "OyhctFgORGU",
+      "title": "Lecture 17 : More on Arrays : Part 3 : Two dimensional arrays",
+      "duration": 1502
+    },
+    {
+      "id": "fxysVa8iU-c",
+      "title": "Lecture 17 : More on Arrays : Part 4 : Command Line Arguments",
+      "duration": 820
+    },
+    {
+      "id": "JQxGS5HLxg8",
+      "title": "Lecture 18 : Arrays and recursion : Part 1 : Binary Search Introduction",
+      "duration": 1827
+    },
+    {
+      "id": "B2WI5GkLuR8",
+      "title": "Lecture 18 : Arrays and recursion : Part 2 : Binary search analysis",
+      "duration": 805
+    },
+    {
+      "id": "xD2EKeXb3G8",
+      "title": "Lecture 18 : Arrays and recursion : Part 3 : Mergesort overview",
+      "duration": 462
+    },
+    {
+      "id": "obe0FyYv5K0",
+      "title": "Lecture 18 : Arrays and recursion : Part 4 : Merge function",
+      "duration": 720
+    },
+    {
+      "id": "ADDpDC0TCBw",
+      "title": "Lecture 18 : Arrays and recursion : Part 5 : Mergesort conclusion",
+      "duration": 880
+    },
+    {
+      "id": "0Nh5hdqQHYU",
+      "title": "Lecture 19 : Structures : Part 1 : Definition and instantiation",
+      "duration": 568
+    },
+    {
+      "id": "IPhwyNKRZp0",
+      "title": "Lecture 19 : Structures : Part 2 : Operations on structures",
+      "duration": 846
+    },
+    {
+      "id": "EsRYEuUjed8",
+      "title": "Lecture 19 : Structures : Part 3 : An example program",
+      "duration": 676
+    },
+    {
+      "id": "hvDw7WA4Z1o",
+      "title": "Lecture 19 : Structures : Part 4 : Pointers and lecture conclusion",
+      "duration": 781
+    },
+    {
+      "id": "Au_S3P45lVM",
+      "title": "Lecture 20 : Structures Part 2 : Part 1 : Introduction to Member functions",
+      "duration": 622
+    },
+    {
+      "id": "nDzsqjnzYBY",
+      "title": "Lecture 20 : Structures Part 2 : Part 2 : Vectors from Physics",
+      "duration": 1079
+    },
+    {
+      "id": "vUkobzSdtI4",
+      "title": "Lecture 20 : Structures Part 2 : Part 3 : Taxi dispatch",
+      "duration": 748
+    },
+    {
+      "id": "MElmXBxs1K8",
+      "title": "Lecture 21 : Classes : Part 1 : Introduction",
+      "duration": 522
+    },
+    {
+      "id": "liyApYvf3ss",
+      "title": "Lecture 21 : Classes : Part 2 : Constructors",
+      "duration": 667
+    },
+    {
+      "id": "zcg33ZqYVuw",
+      "title": "Lecture 21 : Classes : Part 3 : Operator overloading",
+      "duration": 941
+    },
+    {
+      "id": "i2uCjrt_S5o",
+      "title": "Lecture 21 : Classes : Part 4 : Access control",
+      "duration": 552
+    },
+    {
+      "id": "y6WEV77CJ54",
+      "title": "Lecture 21 : Classes : Part 5 : Classes for graphics and input output",
+      "duration": 670
+    },
+    {
+      "id": "Of99z2yfJFI",
+      "title": "Lecture 21 : Classes : Part 6 : General remarks",
+      "duration": 1026
+    },
+    {
+      "id": "DBsmrzOAFac",
+      "title": "Lecture 22 : Representing variable length entities: Part 1 : Introduction",
+      "duration": 476
+    },
+    {
+      "id": "UQXt3N8hby4",
+      "title": "Lecture 22 : Representing variable length entities: Part 2 : Heap memory basics",
+      "duration": 1029
+    },
+    {
+      "id": "3IYlS1hT7Hs",
+      "title": "Lecture 22 : Representing variable length entities: Part 3 : Pitfalls of using heap memory",
+      "duration": 734
+    },
+    {
+      "id": "LEew75ViorI",
+      "title": "Lecture 22 : Representing variable length entities: Part 4 : Automating memory management",
+      "duration": 920
+    },
+    {
+      "id": "ldBj_oHfQMQ",
+      "title": "Lecture 22 : Part 5 : Implementing a class with automated memory management 1",
+      "duration": 979
+    },
+    {
+      "id": "TfeFiy_1k08",
+      "title": "Lecture 22 : Part 6 : Implementing a class with automated memory management 2",
+      "duration": 816
+    },
+    {
+      "id": "k0fc2oWonFA",
+      "title": "Lecture 22 : Part 7 : Using the implemented class and conclusion",
+      "duration": 823
+    },
+    {
+      "id": "N_h2t4_wWkY",
+      "title": "Lecture 23 : The Standard Library: Part 1 : Class string",
+      "duration": 582
+    },
+    {
+      "id": "htAc1ROHgFU",
+      "title": "Lecture 23 : The Standard Library: Part 2 : Class vector",
+      "duration": 1020
+    },
+    {
+      "id": "nAmT3PhsM2g",
+      "title": "Lecture 23 : The Standard Library: Part 3 : Sorting vectors and arrays",
+      "duration": 281
+    },
+    {
+      "id": "OiPjWf0T7cY",
+      "title": "Lecture 23 : The Standard Library: Part 4 : Classes map and unordered_map",
+      "duration": 516
+    },
+    {
+      "id": "LusEjHQKOq4",
+      "title": "Lecture 23 : The Standard Library: Part 5 : Iterators",
+      "duration": 986
+    },
+    {
+      "id": "YnCOZKunD-w",
+      "title": "Lecture 24 : Data structure based programming : Part 1 : Introduction",
+      "duration": 304
+    },
+    {
+      "id": "xpcb4OEzu8s",
+      "title": "Lecture 24 : Data structure based programming : Part 2 : Set and pair classes",
+      "duration": 931
+    },
+    {
+      "id": "iMzBkUZLcn0",
+      "title": "Lecture 24 : Part 3 : Implementation of standard library data structures",
+      "duration": 783
+    },
+    {
+      "id": "4q_bSS2--fg",
+      "title": "Lecture 24 : Data structure based programming : Part 4 : Composing data structures",
+      "duration": 937
+    },
+    {
+      "id": "CjThMynwSio",
+      "title": "Lecture 24 : Data structure based programming : Part 5 : typedef and lecture conclusion",
+      "duration": 362
+    },
+    {
+      "id": "ZmzduYEGGzY",
+      "title": "Lecture 25 : Medium size programs : Part 1 : The new marks display program",
+      "duration": 587
+    },
+    {
+      "id": "i3ZQdODrFwM",
+      "title": "Lecture 25 : Medium size programs : Part 2 : Manual algorithm for new marks display",
+      "duration": 1688
+    },
+    {
+      "id": "AAgxzaHxRC8",
+      "title": "Lecture 25 : Medium size programs : Part 3 : RSMTAB and rest of the program",
+      "duration": 1598
+    },
+    {
+      "id": "7y67IQ6FjF4",
+      "title": "Lecture 25 : Medium size programs : Part 4 : Sophisticated solutions to marks display",
+      "duration": 2271
+    },
+    {
+      "id": "cHhLZH-HHMk",
+      "title": "Lecture 26 : A graphical editor and solver for circuits : Part 1 : Outline",
+      "duration": 433
+    },
+    {
+      "id": "xstRzG7PxIM",
+      "title": "Lecture 26 : A graphical editor and solver for circuits : Part 2 : Main program and organization",
+      "duration": 2029
+    },
+    {
+      "id": "-BsfplT2W3A",
+      "title": "Lecture 26: Part 3: Mathematical representation of the circuit",
+      "duration": 1730
+    },
+    {
+      "id": "NndHJsZuuVU",
+      "title": "Lecture 26 : A graphical editor and solver for circuits Part 4 : Extensions and concluding remarks",
+      "duration": 745
+    },
+    {
+      "id": "QNlTZBWFjIw",
+      "title": "Lecture 27 : Cosmological simulation : Part 1 : Introduction and First order Euler method",
+      "duration": 1559
+    },
+    {
+      "id": "nhVt5M9REJE",
+      "title": "Lecture 27 : Cosmological simulation : Part 2 : Second order Euler method",
+      "duration": 1305
+    },
+    {
+      "id": "_hPYKyKgTao",
+      "title": "Lecture 27 : Cosmological simulation : Part 3 : The program",
+      "duration": 1302
+    },
+    {
+      "id": "5ZldOqIjdW4",
+      "title": "Lecture 27 : Cosmological simulation : Part 4 : Concluding remarks",
+      "duration": 540
+    }
+  ]
+}

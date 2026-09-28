@@ -1,0 +1,210 @@
+{
+  "courseId": "c-plus-plus-programming-16d5ec",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:38.854Z",
+  "title": "C++ Programming",
+  "channel": "Kody Simpson",
+  "videos": [
+    {
+      "id": "IsAoIqnNia4",
+      "title": "How to Install Visual Studio 2019 for C++ Programming",
+      "duration": 403
+    },
+    {
+      "id": "g4ZQgXEcCfg",
+      "title": "C++ Tutorial [2] - Creating Your First C++ Program",
+      "duration": 703
+    },
+    {
+      "id": "_vf7hjtApg4",
+      "title": "C++ Tutorial [3] - Variables",
+      "duration": 859
+    },
+    {
+      "id": "7_q2JMiQ0gc",
+      "title": "C++ Tutorial [4] - Strings",
+      "duration": 447
+    },
+    {
+      "id": "7EJn-8TZRsQ",
+      "title": "C++ Tutorial [5] - Number Datatypes",
+      "duration": 735
+    },
+    {
+      "id": "A4WCk_fHroE",
+      "title": "C++ Tutorial [6] - Floating Point Number Datatypes",
+      "duration": 404
+    },
+    {
+      "id": "e_zjCFo1R0U",
+      "title": "C++ Tutorial [7] - Booleans and Characters",
+      "duration": 364
+    },
+    {
+      "id": "e4RbRwwBkWw",
+      "title": "C++ Tutorial [8] - sizeof, auto, and typedef",
+      "duration": 729
+    },
+    {
+      "id": "NdOty4M6Nlw",
+      "title": "C++ Tutorial [9] - Constants and Enumerations",
+      "duration": 838
+    },
+    {
+      "id": "n4-4fdI9uf4",
+      "title": "C++ Tutorial [10] - Arrays",
+      "duration": 936
+    },
+    {
+      "id": "pF4DAAzDnZI",
+      "title": "C++ Tutorial [11] - Multidimensional Arrays",
+      "duration": 534
+    },
+    {
+      "id": "yysTd4J5Qkg",
+      "title": "C++ Tutorial [12] - Getting Console Input from the User",
+      "duration": 1523
+    },
+    {
+      "id": "4T8NSUAZId4",
+      "title": "C++ Tutorial [13] - If Statements",
+      "duration": 1025
+    },
+    {
+      "id": "EAuUTGvCGow",
+      "title": "C++ Tutorial [14] - Switch Statements",
+      "duration": 856
+    },
+    {
+      "id": "CGX__eqFwvY",
+      "title": "C++ Tutorial [15] - While Loops & Do-While Loops",
+      "duration": 775
+    },
+    {
+      "id": "QvuK0n4x604",
+      "title": "C++ Tutorial [16] - For Loops",
+      "duration": 1327
+    },
+    {
+      "id": "7aeBh15n3KU",
+      "title": "C++ Tutorial [17] - Logical Operators",
+      "duration": 598
+    },
+    {
+      "id": "-CuIFcW4D4U",
+      "title": "C++ Tutorial [18] - Functions",
+      "duration": 1044
+    },
+    {
+      "id": "E0-v0YUSFUA",
+      "title": "C++ Tutorial [19] - Overloading Functions",
+      "duration": 606
+    },
+    {
+      "id": "xV1-YV4giJI",
+      "title": "C++ Tutorial [20] - Reference Variables",
+      "duration": 1187
+    },
+    {
+      "id": "wzXEZLpfXBg",
+      "title": "C++ Practice: Compound Interest Program",
+      "duration": 1502
+    },
+    {
+      "id": "5vrAMuweUGY",
+      "title": "C++ Tutorial [21] - Static Local Function Variables",
+      "duration": 445
+    },
+    {
+      "id": "5NTNc8doAT0",
+      "title": "C++ Tutorial [22] - Basic File Streams",
+      "duration": 2049
+    },
+    {
+      "id": "4TobQ_eqCPg",
+      "title": "C++ Tutorial [23] - Vectors",
+      "duration": 1499
+    },
+    {
+      "id": "P8zgTnZMlPk",
+      "title": "C++ Practice: Maximum and Minimum & Time to Seconds Programs",
+      "duration": 1567
+    },
+    {
+      "id": "wkFJXkvY6jQ",
+      "title": "C++ Tutorial [24] - Introduction to Pointers",
+      "duration": 2165
+    },
+    {
+      "id": "2xIxP1q8hrk",
+      "title": "C++ Tutorial [25] - Null Pointers and Pointers to Arrays",
+      "duration": 1872
+    },
+    {
+      "id": "sj7fcDHd7QE",
+      "title": "C++ Tutorial [26] - Constant Pointers & Pointers to Constants",
+      "duration": 800
+    },
+    {
+      "id": "Rkon8F2hHOs",
+      "title": "C++ Tutorial [27] - Pointers as Function Parameters",
+      "duration": 1094
+    },
+    {
+      "id": "Oq5aUwTrPXo",
+      "title": "C++ Tutorial [28] - Dynamic Memory Allocation",
+      "duration": 1180
+    },
+    {
+      "id": "GbaldnslEao",
+      "title": "C++ Tutorial [29] - Dynamically Allocated Arrays",
+      "duration": 681
+    },
+    {
+      "id": "K6JkB5Ics50",
+      "title": "C++ Tutorial [30] - Returning Pointers",
+      "duration": 944
+    },
+    {
+      "id": "NI5PHNfqIX8",
+      "title": "C++ Tutorial [32] - Structures",
+      "duration": 1087
+    },
+    {
+      "id": "W4dWVpGaQfI",
+      "title": "C++ Tutorial [33] - Arrays of Structures",
+      "duration": 767
+    },
+    {
+      "id": "t-X7UOeCkx0",
+      "title": "C++ Tutorial [34] - Structures w/ Functions",
+      "duration": 739
+    },
+    {
+      "id": "Fj3Tr_vxh9I",
+      "title": "C++ Tutorial [35] - Pointers to Structures",
+      "duration": 799
+    },
+    {
+      "id": "6B2fulBZlH4",
+      "title": "C++ Tutorial [36] - Enumerations",
+      "duration": 912
+    },
+    {
+      "id": "MQHaUhGdixU",
+      "title": "C++ Tutorial [37] - More Enums | Strongly Typed Enums",
+      "duration": 772
+    },
+    {
+      "id": "0mj-innZYYk",
+      "title": "C++ Tutorial [38] - Intro to Object Oriented Programming | Creating Classes & Objects",
+      "duration": 1165
+    },
+    {
+      "id": "K_8bEe-fucA",
+      "title": "C++ Tutorial [39] - Access Specifiers | Accessors & Mutators",
+      "duration": 1487
+    }
+  ]
+}

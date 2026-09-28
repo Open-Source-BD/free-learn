@@ -1,0 +1,250 @@
+{
+  "courseId": "linear-algebra-for-machine-learning-826641",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:19.868Z",
+  "title": "Linear Algebra for Machine Learning",
+  "channel": "Jon Krohn",
+  "videos": [
+    {
+      "id": "Qc19jQWHdL0",
+      "title": "Machine Learning Foundations: Welcome to the Journey",
+      "duration": 158
+    },
+    {
+      "id": "NMTQ7rodUxY",
+      "title": "What Linear Algebra Is — Topic 1 of Machine Learning Foundations",
+      "duration": 1444
+    },
+    {
+      "id": "ibTYANFwrNc",
+      "title": "Plotting a System of Linear Equations — Machine Learning Foundations Bonus Video",
+      "duration": 559
+    },
+    {
+      "id": "dd1kOC4d898",
+      "title": "Linear Algebra Exercise — Topic 2 of Machine Learning Foundations",
+      "duration": 125
+    },
+    {
+      "id": "2Wf5G0QJJXw",
+      "title": "Tensors — Topic 3 of Machine Learning Foundations",
+      "duration": 154
+    },
+    {
+      "id": "vl05OkoXiYQ",
+      "title": "Scalars — Topic 4 of Machine Learning Foundations",
+      "duration": 785
+    },
+    {
+      "id": "KiKMqNFlo7Y",
+      "title": "Vectors and Vector Transposition — Topic 5 of Machine Learning Foundations",
+      "duration": 739
+    },
+    {
+      "id": "ujukn3Wyq58",
+      "title": "Norms and Unit Vectors — Topic 6 of Machine Learning Foundations",
+      "duration": 910
+    },
+    {
+      "id": "-v5ysv4Wqhs",
+      "title": "Basis, Orthogonal, and Orthonormal Vectors — Topic 7 of Machine Learning Foundations",
+      "duration": 270
+    },
+    {
+      "id": "NEp9uDJZ3gY",
+      "title": "Matrix Tensors — Topic 8 of Machine Learning Foundations",
+      "duration": 504
+    },
+    {
+      "id": "8xvbCM1D19I",
+      "title": "Generic Tensor Notation — Topic 9 of Machine Learning Foundations",
+      "duration": 404
+    },
+    {
+      "id": "wHUKdr5VcRc",
+      "title": "Exercises on Algebra Data Structures — Topic 10 of Machine Learning Foundations",
+      "duration": 42
+    },
+    {
+      "id": "ear_B5VVOyk",
+      "title": "Tensor Operations — Segment 2 of Subject 1, \"Intro to Linear Algebra\", ML Foundations",
+      "duration": 80
+    },
+    {
+      "id": "mivhVHNMZSM",
+      "title": "Tensor Transposition — Topic 11 of Machine Learning Foundations",
+      "duration": 233
+    },
+    {
+      "id": "_MaVzNUjMPk",
+      "title": "Basic Tensor Arithmetic (The Hadamard Product) — Topic 12 of Machine Learning Foundations",
+      "duration": 373
+    },
+    {
+      "id": "HKyiVH3N4Nc",
+      "title": "Tensor Reduction — Topic 13 of Machine Learning Foundations",
+      "duration": 212
+    },
+    {
+      "id": "E5zLj5Mk28w",
+      "title": "The Dot Product — Topic 14 of Machine Learning Foundations",
+      "duration": 314
+    },
+    {
+      "id": "WzpSTpgRxzg",
+      "title": "Exercises on Tensor Operations — Topic 15 of Machine Learning Foundations",
+      "duration": 57
+    },
+    {
+      "id": "DV6na-uJ5-U",
+      "title": "Solving Linear Systems with Substitution — Topic 16 of Machine Learning Foundations",
+      "duration": 244
+    },
+    {
+      "id": "kkyXJ6v3JnY",
+      "title": "Solving Linear Systems with Elimination — Topic 17 of Machine Learning Foundations",
+      "duration": 352
+    },
+    {
+      "id": "vt7pzdHLdsE",
+      "title": "Visualizing Linear Systems — Machine Learning Foundations Bonus Video",
+      "duration": 659
+    },
+    {
+      "id": "5cA43yd4XxY",
+      "title": "Matrix Properties — Final Segment of Subject 1, \"Intro to Linear Algebra\", ML Foundations",
+      "duration": 126
+    },
+    {
+      "id": "yJh8l9HKMGY",
+      "title": "The Frobenius Norm — Topic 18 of Machine Learning Foundations",
+      "duration": 302
+    },
+    {
+      "id": "Kqh7stbGakg",
+      "title": "Matrix Multiplication — Topic 19 of Machine Learning Foundations",
+      "duration": 1500
+    },
+    {
+      "id": "0WlPLhxt6Lo",
+      "title": "Symmetric and Identity Matrices — Topic 20 of Machine Learning Foundations",
+      "duration": 282
+    },
+    {
+      "id": "qUmcHXvhISY",
+      "title": "Matrix Multiplication Exercises — Topic 21 of Machine Learning Foundations",
+      "duration": 52
+    },
+    {
+      "id": "kdliu4uQbIA",
+      "title": "Matrix Inversion — Topic 22 of Machine Learning Foundations",
+      "duration": 1027
+    },
+    {
+      "id": "OWvt2MUmgow",
+      "title": "Diagonal Matrices — Topic 23 of Machine Learning Foundations",
+      "duration": 206
+    },
+    {
+      "id": "iqq832T8SrA",
+      "title": "Orthogonal Matrices — Topic 24 of Machine Learning Foundations",
+      "duration": 350
+    },
+    {
+      "id": "EjldGbrwGt8",
+      "title": "Orthogonal Matrix Exercises — Topic 25 of Machine Learning Foundations",
+      "duration": 131
+    },
+    {
+      "id": "HlY8FP65MMM",
+      "title": "Linear Algebra II: Matrix Operations — Subject 2 of Machine Learning Foundations",
+      "duration": 1073
+    },
+    {
+      "id": "zCaMlabyr_M",
+      "title": "Applying Matrices — Topic 26 of Machine Learning Foundations",
+      "duration": 452
+    },
+    {
+      "id": "6H-fSbV-Jzw",
+      "title": "Affine Transformations — Topic 27 of Machine Learning Foundations",
+      "duration": 1133
+    },
+    {
+      "id": "AeIttlCdFXU",
+      "title": "Eigenvectors and Eigenvalues — Topic 28 of Machine Learning Foundations",
+      "duration": 1607
+    },
+    {
+      "id": "GHZcmWHZhJY",
+      "title": "Matrix Determinants — Topic 29 of Machine Learning Foundations",
+      "duration": 485
+    },
+    {
+      "id": "E4xrKonOHYw",
+      "title": "Determinants of Larger Matrices — Topic 30 of Machine Learning Foundations",
+      "duration": 522
+    },
+    {
+      "id": "l1KXDuHWWFQ",
+      "title": "Determinant Exercises — Topic 31 of Machine Learning Foundations",
+      "duration": 88
+    },
+    {
+      "id": "OWdCKYAewA0",
+      "title": "Determinants and Eigenvalues — Topic 32 of Machine Learning Foundations",
+      "duration": 976
+    },
+    {
+      "id": "oshZQtYAh84",
+      "title": "Eigendecomposition — Topic 33 of Machine Learning Foundations",
+      "duration": 769
+    },
+    {
+      "id": "JDcxaxezmwg",
+      "title": "Eigenvector and Eigenvalue Applications — Topic 34 of Machine Learning Foundations",
+      "duration": 782
+    },
+    {
+      "id": "0W84RyEH8Ew",
+      "title": "Matrix Operations for Machine Learning — Final Segment of Subject 2, \"Linear Algebra II\"",
+      "duration": 202
+    },
+    {
+      "id": "_So8j8T-E1o",
+      "title": "Singular Value Decomposition — Topic 35 of Machine Learning Foundations",
+      "duration": 650
+    },
+    {
+      "id": "RscKCtF--NI",
+      "title": "Data Compression with SVD — Topic 36 of Machine Learning Foundations",
+      "duration": 693
+    },
+    {
+      "id": "vXk-o3PVUdU",
+      "title": "The Moore-Penrose Pseudoinverse — Topic 37 of Machine Learning Foundations",
+      "duration": 743
+    },
+    {
+      "id": "_H9nizwEwUg",
+      "title": "Regression with the Pseudoinverse — Topic 38 of Machine Learning Foundations",
+      "duration": 1137
+    },
+    {
+      "id": "epvmijS3gBY",
+      "title": "The Trace Operator — Topic 39 of Machine Learning Foundations",
+      "duration": 277
+    },
+    {
+      "id": "t5UA3xWDGZI",
+      "title": "Principal Component Analysis (PCA) — Topic 40 of Machine Learning Foundations",
+      "duration": 507
+    },
+    {
+      "id": "579u2VemHB4",
+      "title": "Linear Algebra Resources — Topic 41 of Machine Learning Foundations",
+      "duration": 371
+    }
+  ]
+}

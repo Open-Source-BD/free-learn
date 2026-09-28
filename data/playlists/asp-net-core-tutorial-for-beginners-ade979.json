@@ -1,0 +1,630 @@
+{
+  "courseId": "asp-net-core-tutorial-for-beginners-ade979",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:55.277Z",
+  "title": "ASP.NET core tutorial for beginners",
+  "channel": "kudvenkat",
+  "videos": [
+    {
+      "id": "4IgC2Q5-yDE",
+      "title": "ASP NET Core Tutorial",
+      "duration": 335
+    },
+    {
+      "id": "wKUWYOi442I",
+      "title": "Setting up machine for asp net core development",
+      "duration": 328
+    },
+    {
+      "id": "KWidSz17tks",
+      "title": "Creating asp net core web application",
+      "duration": 402
+    },
+    {
+      "id": "6gnsUsjRTVo",
+      "title": "ASP NET core project file",
+      "duration": 513
+    },
+    {
+      "id": "X60RR34gKy0",
+      "title": "Main method in asp net core",
+      "duration": 274
+    },
+    {
+      "id": "ydR2jd3ZaEA",
+      "title": "ASP NET Core in process hosting",
+      "duration": 572
+    },
+    {
+      "id": "QsXsOX6qq2c",
+      "title": "ASP NET Core out of process hosting",
+      "duration": 579
+    },
+    {
+      "id": "u2S4TkkACVc",
+      "title": "ASP NET Core launchsettings json file",
+      "duration": 696
+    },
+    {
+      "id": "m_BevGi7zBw",
+      "title": "ASP NET Core appsettings json file",
+      "duration": 693
+    },
+    {
+      "id": "ALu4jtvjSYw",
+      "title": "Middleware in ASP NET Core",
+      "duration": 498
+    },
+    {
+      "id": "nt6anXAwfYI",
+      "title": "Configure ASP NET Core request processing pipeline",
+      "duration": 852
+    },
+    {
+      "id": "yt6bzZoovgM",
+      "title": "Static files in asp net core",
+      "duration": 766
+    },
+    {
+      "id": "UGG2-oV9iQ8",
+      "title": "ASP NET Core developer exception page",
+      "duration": 572
+    },
+    {
+      "id": "x8jNX1nb_og",
+      "title": "ASP NET Core environment variables",
+      "duration": 713
+    },
+    {
+      "id": "f72ookCWhsQ",
+      "title": "ASP NET Core MVC tutorial",
+      "duration": 470
+    },
+    {
+      "id": "KQH51Yip0K0",
+      "title": "Setup mvc in asp net core",
+      "duration": 626
+    },
+    {
+      "id": "sNpeNyaDCTo",
+      "title": "ASP NET Core AddMvc vs AddMvcCore",
+      "duration": 337
+    },
+    {
+      "id": "KXPbJ9I4ce0",
+      "title": "Model in ASP NET Core MVC",
+      "duration": 577
+    },
+    {
+      "id": "BPGtVpu81ek",
+      "title": "ASP NET Core dependency injection tutorial",
+      "duration": 568
+    },
+    {
+      "id": "-O0UYM0ZIIc",
+      "title": "Controller in ASP NET Core MVC",
+      "duration": 531
+    },
+    {
+      "id": "SWIcHLBnJUg",
+      "title": "Views in ASP NET Core MVC",
+      "duration": 371
+    },
+    {
+      "id": "gXiYrUoiinY",
+      "title": "Customize view discovery in asp net core mvc",
+      "duration": 518
+    },
+    {
+      "id": "tz4q6q0_JwQ",
+      "title": "Passing data to view in ASP NET Core MVC",
+      "duration": 389
+    },
+    {
+      "id": "FBvNz00o7jg",
+      "title": "ViewBag in ASP NET Core MVC",
+      "duration": 398
+    },
+    {
+      "id": "5auO0iXrOs4",
+      "title": "Strongly Typed View in ASP NET Core MVC",
+      "duration": 333
+    },
+    {
+      "id": "Lu24lZsUreg",
+      "title": "ViewModel in ASP NET Core MVC",
+      "duration": 321
+    },
+    {
+      "id": "nHAMDUtiV6w",
+      "title": "List view in asp net core mvc",
+      "duration": 313
+    },
+    {
+      "id": "Px8nwoO7FO8",
+      "title": "Layout view in asp net core mvc",
+      "duration": 575
+    },
+    {
+      "id": "9OyrzRVZT8o",
+      "title": "Sections in layout page in ASP NET Core MVC",
+      "duration": 346
+    },
+    {
+      "id": "r7WgjrTSlO8",
+      "title": "ViewStart cshtml in ASP NET Core MVC",
+      "duration": 358
+    },
+    {
+      "id": "5HskoMcun9A",
+      "title": "ViewImports cshtml in ASP NET Core MVC",
+      "duration": 263
+    },
+    {
+      "id": "ZoxrbrHjj2g",
+      "title": "Routing in ASP NET Core MVC",
+      "duration": 721
+    },
+    {
+      "id": "prNptonJAiY",
+      "title": "Attribute Routing in ASP NET Core MVC",
+      "duration": 854
+    },
+    {
+      "id": "5qzzjvZ4w0c",
+      "title": "Install and use Bootstrap in ASP NET Core",
+      "duration": 689
+    },
+    {
+      "id": "iaSdTMdReWg",
+      "title": "Tag helpers in asp net core",
+      "duration": 608
+    },
+    {
+      "id": "pXvizSVe-eQ",
+      "title": "Why use tag helpers",
+      "duration": 399
+    },
+    {
+      "id": "4jW9T-TLPTM",
+      "title": "ASP NET Core Image tag helper",
+      "duration": 403
+    },
+    {
+      "id": "-E4zP2L-R_U",
+      "title": "ASP NET Core Environment Tag Helper",
+      "duration": 711
+    },
+    {
+      "id": "l2dzzuxvmxk",
+      "title": "Bootstrap navigation menu in asp net core application",
+      "duration": 534
+    },
+    {
+      "id": "mU4hV50rkVE",
+      "title": "Form tag helpers in asp net core",
+      "duration": 672
+    },
+    {
+      "id": "-GkZERrqEQo",
+      "title": "ASP NET Core Model Binding",
+      "duration": 751
+    },
+    {
+      "id": "aDRC_IgwmH8",
+      "title": "ASP NET Core model validation",
+      "duration": 619
+    },
+    {
+      "id": "woFHR3iNEEI",
+      "title": "Select list validation in asp net core",
+      "duration": 337
+    },
+    {
+      "id": "v6Nr7Zman_Y",
+      "title": "AddSingleton vs AddScoped vs AddTransient",
+      "duration": 923
+    },
+    {
+      "id": "OE0_9c-K-Ow",
+      "title": "Introduction to entity framework core",
+      "duration": 285
+    },
+    {
+      "id": "8aHzSx-inDE",
+      "title": "Install entity framework core in visual studio",
+      "duration": 522
+    },
+    {
+      "id": "nN9jOORIFtc",
+      "title": "DbContext in entity framework core",
+      "duration": 319
+    },
+    {
+      "id": "xMktEpPmadI",
+      "title": "Using sql server with entity framework core",
+      "duration": 510
+    },
+    {
+      "id": "qJmEI2LtXIY",
+      "title": "Repository pattern in asp net core",
+      "duration": 890
+    },
+    {
+      "id": "G14lmWS-h4k",
+      "title": "Entity framework core migrations",
+      "duration": 485
+    },
+    {
+      "id": "qDUS8ocavBU",
+      "title": "Entity framework core seed data",
+      "duration": 440
+    },
+    {
+      "id": "MhvOKHUWgiY",
+      "title": "Keeping domain models and database schema in sync in asp net core",
+      "duration": 855
+    },
+    {
+      "id": "aoxEJii70_I",
+      "title": "File upload in asp net core mvc",
+      "duration": 1392
+    },
+    {
+      "id": "14ZqBoQIW-Q",
+      "title": "Upload multiple files in asp net core mvc",
+      "duration": 651
+    },
+    {
+      "id": "lhiIvx7jMaY",
+      "title": "Edit view in asp net core mvc",
+      "duration": 889
+    },
+    {
+      "id": "wamToyK4x7I",
+      "title": "httppost edit action in asp net core mvc",
+      "duration": 962
+    },
+    {
+      "id": "QiF3eJ4Zb0o",
+      "title": "Handling 404 not found in asp net core mvc",
+      "duration": 531
+    },
+    {
+      "id": "DVo138knAHQ",
+      "title": "Centralised 404 error handling in ASP NET Core",
+      "duration": 584
+    },
+    {
+      "id": "9CwgiSxrkeQ",
+      "title": "UseStatusCodePagesWithRedirects vs UseStatusCodePagesWithReExecute",
+      "duration": 782
+    },
+    {
+      "id": "jeBttUIqpuc",
+      "title": "Global exception handling in asp net core mvc",
+      "duration": 548
+    },
+    {
+      "id": "WyAJe6lA-bY",
+      "title": "Logging in ASP NET Core",
+      "duration": 568
+    },
+    {
+      "id": "LhpO2sgxqfw",
+      "title": "Logging exceptions in ASP NET Core",
+      "duration": 652
+    },
+    {
+      "id": "o5u4fE0t79k",
+      "title": "Logging to file in asp net core using nlog",
+      "duration": 449
+    },
+    {
+      "id": "bTPnT13Efd4",
+      "title": "ASP NET Core LogLevel configuration",
+      "duration": 945
+    },
+    {
+      "id": "egITMrwMOPU",
+      "title": "ASP NET Core Identity tutorial from scratch",
+      "duration": 612
+    },
+    {
+      "id": "sPbDrqpme_w",
+      "title": "Register new user using asp net core identity",
+      "duration": 546
+    },
+    {
+      "id": "TfarnVqnhX0",
+      "title": "ASP NET Core Identity UserManager and SignInManager",
+      "duration": 644
+    },
+    {
+      "id": "kC9qrUcy2Js",
+      "title": "ASP NET core identity password complexity",
+      "duration": 289
+    },
+    {
+      "id": "YLAHIZmO2PI",
+      "title": "Show or hide login and logout links based on login status in asp net core",
+      "duration": 530
+    },
+    {
+      "id": "9d8DXXc71RI",
+      "title": "Implementing login functionality in asp net core",
+      "duration": 851
+    },
+    {
+      "id": "uET7MjhUeY4",
+      "title": "Authorization in ASP NET Core",
+      "duration": 747
+    },
+    {
+      "id": "-asykt9Zo_w",
+      "title": "Redirect user to original url after login in asp net core",
+      "duration": 272
+    },
+    {
+      "id": "0q0CZTliQ7A",
+      "title": "Open redirect vulnerability example",
+      "duration": 564
+    },
+    {
+      "id": "PUX3PzyBofg",
+      "title": "ASP NET Core client side validation",
+      "duration": 542
+    },
+    {
+      "id": "2jZc11l67Zk",
+      "title": "ASP NET core remote validation",
+      "duration": 586
+    },
+    {
+      "id": "o_AH2MGti0A",
+      "title": "Custom validation attribute in asp net core",
+      "duration": 568
+    },
+    {
+      "id": "NV734cJdZts",
+      "title": "Extend IdentityUser in ASP NET Core",
+      "duration": 652
+    },
+    {
+      "id": "TuJd2Ez9i3I",
+      "title": "Creating roles in asp net core",
+      "duration": 740
+    },
+    {
+      "id": "KGIT8P29jf4",
+      "title": "Get list of roles in asp net core",
+      "duration": 531
+    },
+    {
+      "id": "7ikyZk5fGzk",
+      "title": "Edit role in asp net core",
+      "duration": 1107
+    },
+    {
+      "id": "TzhqymQm5kw",
+      "title": "Add or remove users from role in asp net core",
+      "duration": 1470
+    },
+    {
+      "id": "DXVe6skc42k",
+      "title": "ASP NET Core role based authorization",
+      "duration": 505
+    },
+    {
+      "id": "IPjK65ehQBg",
+      "title": "Show or hide navigation menu based on user role in asp net core",
+      "duration": 445
+    },
+    {
+      "id": "OMX0UiLpMSA",
+      "title": "List all users from asp net core identity database",
+      "duration": 673
+    },
+    {
+      "id": "QYlIfH8qyrU",
+      "title": "Edit identity user in asp net core",
+      "duration": 1034
+    },
+    {
+      "id": "MhNfyZGfY-A",
+      "title": "Delete identity user in asp net core",
+      "duration": 378
+    },
+    {
+      "id": "hKLjt9GzYM8",
+      "title": "ASP NET Core delete confirmation",
+      "duration": 810
+    },
+    {
+      "id": "pj3GCelrIGM",
+      "title": "Delete identity role in asp net core",
+      "duration": 370
+    },
+    {
+      "id": "txTZAFut9mA",
+      "title": "Enforce ON DELETE NO ACTION in entity framework core",
+      "duration": 644
+    },
+    {
+      "id": "0jqZ63ybeRY",
+      "title": "Custom error page in asp net core",
+      "duration": 840
+    },
+    {
+      "id": "1OaVUy1pRXA",
+      "title": "Manage user roles in asp net core identity",
+      "duration": 757
+    },
+    {
+      "id": "Qobkh8gEP6Q",
+      "title": "Model binding not working on submitting razor view with foreach loop",
+      "duration": 545
+    },
+    {
+      "id": "5XA4Z-SOif8",
+      "title": "Manage user claims in asp net core",
+      "duration": 1047
+    },
+    {
+      "id": "LJQBBvJ6tL0",
+      "title": "Claims based authorization in asp net core",
+      "duration": 437
+    },
+    {
+      "id": "Uw2ujXvN3i4",
+      "title": "Role based authorization vs claims based authorization in asp net core",
+      "duration": 490
+    },
+    {
+      "id": "72zYJw0nF-k",
+      "title": "Authorization in views in asp net core mvc",
+      "duration": 555
+    },
+    {
+      "id": "1Mi9Y9GAuCw",
+      "title": "Change AccessDenied route in ASP NET Core",
+      "duration": 294
+    },
+    {
+      "id": "I2wgxzLbESA",
+      "title": "Claim type and claim value in claims policy based authorization in asp net core",
+      "duration": 598
+    },
+    {
+      "id": "KJprzM49NnU",
+      "title": "Create custom authorization policy using func in asp net core",
+      "duration": 711
+    },
+    {
+      "id": "1qdtjlKDJJ0",
+      "title": "Custom authorization requirements and handlers in asp net core",
+      "duration": 323
+    },
+    {
+      "id": "cXsYer31UPo",
+      "title": "Custom authorization requirement and handler example in asp net core",
+      "duration": 671
+    },
+    {
+      "id": "aKEN2Z-jfgc",
+      "title": "Multiple custom authorization handlers for a requirement in asp net core",
+      "duration": 494
+    },
+    {
+      "id": "119eY23O-RE",
+      "title": "Custom authorization handler success vs failure",
+      "duration": 385
+    },
+    {
+      "id": "ZgPK51X5BGw",
+      "title": "External identity providers in asp net core",
+      "duration": 347
+    },
+    {
+      "id": "V4KqpIX6pdI",
+      "title": "Create google oauth credentials   Client Id and Client Secret",
+      "duration": 443
+    },
+    {
+      "id": "fgzRnlB992s",
+      "title": "ASP NET Core google authentication   setting up the UI",
+      "duration": 856
+    },
+    {
+      "id": "vkB2yaV7_LQ",
+      "title": "ExternalLoginCallback action in asp net core",
+      "duration": 897
+    },
+    {
+      "id": "uAymQERp90w",
+      "title": "Register application with facebook",
+      "duration": 238
+    },
+    {
+      "id": "R_1OW8PyiRI",
+      "title": "ASP NET Core facebook authentication",
+      "duration": 658
+    },
+    {
+      "id": "TVF9o5qbrkI",
+      "title": "ASP NET Core secret manager",
+      "duration": 718
+    },
+    {
+      "id": "MChbBMLS2FQ",
+      "title": "Why email confirmation is important",
+      "duration": 269
+    },
+    {
+      "id": "4XugKqgwGnU",
+      "title": "Block login if email is not confirmed in asp net core",
+      "duration": 593
+    },
+    {
+      "id": "yRP6C7fhAuE",
+      "title": "ASP NET Core email confirmation",
+      "duration": 774
+    },
+    {
+      "id": "k_q5ZSh07t4",
+      "title": "External login email confirmation in asp net core",
+      "duration": 741
+    },
+    {
+      "id": "0W0yAz7fu04",
+      "title": "Forgot password in asp net core",
+      "duration": 495
+    },
+    {
+      "id": "72Eu92ZkgCg",
+      "title": "Reset password in asp net core",
+      "duration": 580
+    },
+    {
+      "id": "fOQjWUokhn8",
+      "title": "How tokens are generated and validated in asp net core",
+      "duration": 478
+    },
+    {
+      "id": "gX6CW8c4Huw",
+      "title": "ASP NET Core password reset token lifetime",
+      "duration": 322
+    },
+    {
+      "id": "lYTXJrJGg0U",
+      "title": "ASP NET Core custom token provider",
+      "duration": 522
+    },
+    {
+      "id": "HlHDTQhVYoI",
+      "title": "ASP NET Core encryption and decryption example",
+      "duration": 696
+    },
+    {
+      "id": "r7VzoLhFLd0",
+      "title": "Change password in asp net core",
+      "duration": 475
+    },
+    {
+      "id": "mCKdMgFv8MI",
+      "title": "Add password to local account linked to external login",
+      "duration": 523
+    },
+    {
+      "id": "jHRWR36UC2s",
+      "title": "ASP NET Core account lockout",
+      "duration": 560
+    },
+    {
+      "id": "pVV4v6Fpa_s",
+      "title": "ASP NET Core course wrap up",
+      "duration": 198
+    }
+  ]
+}

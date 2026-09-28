@@ -1,0 +1,80 @@
+{
+  "courseId": "autoit-tutorial-186ab0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2EKpjm0bX4K_ztKMhWW7JPmk-uv15aYR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:55.856Z",
+  "title": "AutoIt Tutorial",
+  "channel": "Cool IT Help",
+  "videos": [
+    {
+      "id": "f2EjgUeUHIg",
+      "title": "AutoIt tutorial for Beginners | Easy installation and Learn to Write Automation Script",
+      "duration": 1036
+    },
+    {
+      "id": "peC9a7qHEmA",
+      "title": "AutoIt Tutorial for Beginners - Part 2",
+      "duration": 711
+    },
+    {
+      "id": "tanzvixHyhA",
+      "title": "AutoIT basic concepts Tutorial Part #1 | AutoIT Tutorial for Beginners",
+      "duration": 892
+    },
+    {
+      "id": "siNCo8xYOzQ",
+      "title": "AutoIt basic concepts Tutorial part-2 | How to Create Loops in AutoIt script",
+      "duration": 679
+    },
+    {
+      "id": "sbRTolRHG7Q",
+      "title": "AutoIt basic concepts Tutorial Part #3 | Declaring Arrays and Iterating Over Arrays in AutoIt",
+      "duration": 524
+    },
+    {
+      "id": "Rfhhcw__PNQ",
+      "title": "How to create and call functions in AutoIt? | AutoIt basic concepts Tutorial part #4",
+      "duration": 371
+    },
+    {
+      "id": "f62mrUeX89M",
+      "title": "Working with If Else and ElseIf conditions in AutoIt Script | AutoIt basic concepts Tutorial Part #5",
+      "duration": 809
+    },
+    {
+      "id": "JEW-ENdWnZ4",
+      "title": "AutoIt basic concepts Tutorial part #6 | Important Functions WinWait(), WinClose()",
+      "duration": 549
+    },
+    {
+      "id": "1FcuOQ8D_pc",
+      "title": "AutoIt basic concepts Tutorial Part #7 | Important Functions WinActivate(), WinMove()",
+      "duration": 858
+    },
+    {
+      "id": "684UFdkV6ks",
+      "title": "How to Maximize and Minimize Windows | AutoIt Basic Concepts Tutorial Part #8",
+      "duration": 422
+    },
+    {
+      "id": "iuESN6Cw5f0",
+      "title": "Working with AutoIt Script Recorder | A useful AutoIt Utility Tool",
+      "duration": 719
+    },
+    {
+      "id": "pX0U21lDUPg",
+      "title": "Error Fixed |  SQLite3.dll Can't be Loaded - AutoIt Script",
+      "duration": 368
+    },
+    {
+      "id": "q9DAhrl1XUA",
+      "title": "AutoIT Script Tutorial | Connecting SQLite Database with AutoIt Script Tutorial Part #1",
+      "duration": 1112
+    },
+    {
+      "id": "e03F9qKgf58",
+      "title": "CRUD operation in SQLite by using AutoIt Script Tutorial Part #2",
+      "duration": 1032
+    }
+  ]
+}

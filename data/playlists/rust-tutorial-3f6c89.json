@@ -1,0 +1,120 @@
+{
+  "courseId": "rust-tutorial-3f6c89",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:06.048Z",
+  "title": "Rust Tutorial",
+  "channel": "Doug Milford",
+  "videos": [
+    {
+      "id": "Az3jBd4xdF4",
+      "title": "Rust Intro Trailer",
+      "duration": 17
+    },
+    {
+      "id": "2KTG3OQPPJ4",
+      "title": "Why Rust",
+      "duration": 538
+    },
+    {
+      "id": "f6tizikEMTk",
+      "title": "Rust Setup for Windows",
+      "duration": 515
+    },
+    {
+      "id": "DWcIZFGiKr0",
+      "title": "Rust Hello World",
+      "duration": 411
+    },
+    {
+      "id": "1nCZOh83ins",
+      "title": "Rust Primitives (basic data)",
+      "duration": 867
+    },
+    {
+      "id": "ClPrjjHmo2Y",
+      "title": "Rust String vs str slices",
+      "duration": 898
+    },
+    {
+      "id": "hEhnDRR4Ijs",
+      "title": "Rust Functions and Procedures",
+      "duration": 811
+    },
+    {
+      "id": "Vz9_y7NjRlQ",
+      "title": "Rust Conditional Statements",
+      "duration": 698
+    },
+    {
+      "id": "afFehipXJFA",
+      "title": "Rust Tuples",
+      "duration": 528
+    },
+    {
+      "id": "gi0AQ78diSA",
+      "title": "Rust Structs, Traits and Impl",
+      "duration": 1493
+    },
+    {
+      "id": "N28mGv1L8EM",
+      "title": "Rust Enumerations",
+      "duration": 495
+    },
+    {
+      "id": "nvur2Ast8hE",
+      "title": "Rust Generics",
+      "duration": 1330
+    },
+    {
+      "id": "lQ7XF-6HYGc",
+      "title": "Rust Ownership and Borrowing",
+      "duration": 2301
+    },
+    {
+      "id": "1QoT9fmPYr8",
+      "title": "Rust Lifetimes",
+      "duration": 1612
+    },
+    {
+      "id": "LJ_tHdhkkng",
+      "title": "Rust Casting, Shadowing, Consts and Static",
+      "duration": 532
+    },
+    {
+      "id": "K-KK_UGuXFI",
+      "title": "Rust println! and format! macros",
+      "duration": 576
+    },
+    {
+      "id": "5F6pHtkWMxg",
+      "title": "Rust lib vs main",
+      "duration": 407
+    },
+    {
+      "id": "sE2cDV91IRg",
+      "title": "Rust Cargo.toml",
+      "duration": 746
+    },
+    {
+      "id": "SoK2TT1JJGo",
+      "title": "Rust Cargo and Rustup Commands",
+      "duration": 775
+    },
+    {
+      "id": "p7DtoeuDT5Y",
+      "title": "Rust 3D Graphics in the Browser: Boilerplate Setup and WASM Introduction",
+      "duration": 2372
+    },
+    {
+      "id": "kjYCSySObDo",
+      "title": "Rust 3D Graphics in the Browser: 2D Graphics",
+      "duration": 4090
+    },
+    {
+      "id": "K63uBfs1K7Y",
+      "title": "Rust 3D Graphics in the Browser:  3D Graphics",
+      "duration": 3691
+    }
+  ]
+}

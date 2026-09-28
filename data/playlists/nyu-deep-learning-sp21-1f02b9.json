@@ -1,0 +1,175 @@
+{
+  "courseId": "nyu-deep-learning-sp21-1f02b9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:51.577Z",
+  "title": "NYU Deep Learning SP21",
+  "channel": "Alfredo Canziani (冷在)",
+  "videos": [
+    {
+      "id": "mTtDfKgLm54",
+      "title": "01 – History and resources",
+      "duration": 3018
+    },
+    {
+      "id": "nTlCqaL7fCY",
+      "title": "01L – Gradient descent and the backpropagation algorithm",
+      "duration": 6664
+    },
+    {
+      "id": "0TdAmZUMj2k",
+      "title": "02 – Neural nets: rotation and squashing",
+      "duration": 3714
+    },
+    {
+      "id": "IYQN3i7dJIQ",
+      "title": "02L – Modules and architectures",
+      "duration": 6147
+    },
+    {
+      "id": "EyKiYVwrdjE",
+      "title": "03 – Tools, classification with neural nets, PyTorch implementation",
+      "duration": 3948
+    },
+    {
+      "id": "7dU3TFBJl-0",
+      "title": "03L – Parameter sharing: recurrent and convolutional nets",
+      "duration": 7188
+    },
+    {
+      "id": "-wz_vADGbtE",
+      "title": "04L – ConvNet in practice",
+      "duration": 3101
+    },
+    {
+      "id": "KvvNkE2vQVk",
+      "title": "04.1 – Natural signals properties and the convolution",
+      "duration": 4153
+    },
+    {
+      "id": "5KSGNomPJTE",
+      "title": "04.2 – Recurrent neural networks, vanilla and gated (LSTM)",
+      "duration": 3936
+    },
+    {
+      "id": "xIn-Czj1g2Q",
+      "title": "05L – Joint embedding method and latent variable energy based models (LV-EBMs)",
+      "duration": 6691
+    },
+    {
+      "id": "xA_OPjRby5g",
+      "title": "05.1 – Latent Variable Energy Based Models (LV-EBMs), inference",
+      "duration": 3665
+    },
+    {
+      "id": "eJeJWWEo7cE",
+      "title": "05.2 – But what are these EBMs used for?",
+      "duration": 642
+    },
+    {
+      "id": "8u2s64ZtmiA",
+      "title": "06L – Latent variable EBMs for structured prediction",
+      "duration": 6534
+    },
+    {
+      "id": "XIMaWj5YjOQ",
+      "title": "06 – Latent Variable Energy Based Models (LV-EBMs), training",
+      "duration": 3889
+    },
+    {
+      "id": "AOFUZZZ6KyU",
+      "title": "07L – PCA, AE, K-means, Gaussian mixture model, sparse coding, and intuitive VAE",
+      "duration": 6863
+    },
+    {
+      "id": "IuXsG3sN3zY",
+      "title": "07 – Unsupervised learning: autoencoding the targets",
+      "duration": 3402
+    },
+    {
+      "id": "bdebHVF__mo",
+      "title": "08L – Self-supervised learning and variational inference",
+      "duration": 6884
+    },
+    {
+      "id": "PpcN-F7ovK0",
+      "title": "08 – From LV-EBM to target prop to (vanilla, denoising, contractive, variational) autoencoder",
+      "duration": 3635
+    },
+    {
+      "id": "AQtPoDnauq4",
+      "title": "09L – Differentiable associative memories, attention, and transformers",
+      "duration": 7229
+    },
+    {
+      "id": "bZF4N8HR1cc",
+      "title": "09 – AE, DAE, and VAE with PyTorch; generative adversarial networks (GAN) and code",
+      "duration": 4071
+    },
+    {
+      "id": "8L10w1KoOU8",
+      "title": "10L – Self-supervised learning in computer vision",
+      "duration": 5773
+    },
+    {
+      "id": "fEVyfT-gLqQ",
+      "title": "10 – Self / cross, hard / soft attention and the Transformer",
+      "duration": 4321
+    },
+    {
+      "id": "Of9s8epjflU",
+      "title": "11L – Speech recognition and Graph Transformer Networks",
+      "duration": 6904
+    },
+    {
+      "id": "lWUh7jzhQ1Q",
+      "title": "11 – Graph Convolutional Networks (GCNs)",
+      "duration": 3454
+    },
+    {
+      "id": "fR42OOy9ROo",
+      "title": "12L – Low resource machine translation",
+      "duration": 7076
+    },
+    {
+      "id": "wTg6qJlXkok",
+      "title": "12 – Planning and control",
+      "duration": 4223
+    },
+    {
+      "id": "n1w5b5rTFv0",
+      "title": "13L – Optimisation for Deep Learning",
+      "duration": 6693
+    },
+    {
+      "id": "C4iSZ3IJU-w",
+      "title": "13 – The Truck Backer-Upper",
+      "duration": 3682
+    },
+    {
+      "id": "MJfnamMFylo",
+      "title": "14L – Lagrangian backpropagation, final project winners, and Q&A session",
+      "duration": 7956
+    },
+    {
+      "id": "DJgloa244ZQ",
+      "title": "14 – Prediction and Planning Under Uncertainty",
+      "duration": 4485
+    },
+    {
+      "id": "bDvpuaPq8Vc",
+      "title": "AI2S Xmas Seminar - Dr. Alfredo Canziani (NYU) - Energy-Based Self-Supervised Learning",
+      "duration": 13528
+    },
+    {
+      "id": "5VjEBHWuYs8",
+      "title": "09P – Contrastive joint embedding methods (JEMs) for self-supervised learning (SSL)",
+      "duration": 3412
+    },
+    {
+      "id": "EBrbaD2zyuo",
+      "title": "10P – Non-contrastive joint embedding methods (JEMs) for self-supervised learning (SSL)",
+      "duration": 3928
+    }
+  ]
+}

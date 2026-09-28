@@ -1,0 +1,235 @@
+{
+  "courseId": "shell-scripting-tutorial-for-beginners-c0b58b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:30.739Z",
+  "title": "Shell Scripting Tutorial for Beginners",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "cQepf9fY6cE",
+      "title": "Shell Scripting Tutorial for Beginners 1 -  Introduction",
+      "duration": 706
+    },
+    {
+      "id": "vQv4W-JfrmQ",
+      "title": "Shell Scripting Tutorial for Beginners 2 - using Variables and Comments",
+      "duration": 617
+    },
+    {
+      "id": "AcSkkNAsGCY",
+      "title": "Shell Scripting Tutorial for Beginners 3 - Read User Input",
+      "duration": 691
+    },
+    {
+      "id": "BjBBfmDRakg",
+      "title": "Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script",
+      "duration": 515
+    },
+    {
+      "id": "OO2Avn1g5Tw",
+      "title": "Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else)",
+      "duration": 798
+    },
+    {
+      "id": "uVi5o38NGi0",
+      "title": "Shell Scripting Tutorial for Beginners 6 - File test operators",
+      "duration": 630
+    },
+    {
+      "id": "0Z72-LpvwjU",
+      "title": "Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file",
+      "duration": 647
+    },
+    {
+      "id": "m4G3MLK8l4s",
+      "title": "Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator",
+      "duration": 395
+    },
+    {
+      "id": "RtbeGJfssGQ",
+      "title": "Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator",
+      "duration": 346
+    },
+    {
+      "id": "kr3WP_-bu8A",
+      "title": "Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations",
+      "duration": 441
+    },
+    {
+      "id": "yqpY-Wk-i9k",
+      "title": "Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash | bc Command",
+      "duration": 742
+    },
+    {
+      "id": "dW3oYQbNFyI",
+      "title": "Shell Scripting Tutorial for Beginners 12 - The case statement",
+      "duration": 472
+    },
+    {
+      "id": "dqaMU4v6KvQ",
+      "title": "Shell Scripting Tutorial for Beginners 13 - The case statement Example",
+      "duration": 519
+    },
+    {
+      "id": "p4ZHbf4_6IU",
+      "title": "Shell Scripting Tutorial for Beginners 14 - Array variables",
+      "duration": 630
+    },
+    {
+      "id": "iwEteYwKDfE",
+      "title": "Shell Scripting Tutorial for Beginners 15 - WHILE Loops",
+      "duration": 381
+    },
+    {
+      "id": "L2eaBxAoMfQ",
+      "title": "Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops",
+      "duration": 296
+    },
+    {
+      "id": "A-rBp1OJSH4",
+      "title": "Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash",
+      "duration": 441
+    },
+    {
+      "id": "PgVIvWIi89I",
+      "title": "Shell Scripting Tutorial for Beginners 18 - UNTIL loop",
+      "duration": 262
+    },
+    {
+      "id": "mhhAbETJpag",
+      "title": "Shell Scripting Tutorial for Beginners 19 - FOR loop",
+      "duration": 520
+    },
+    {
+      "id": "qnmlnu-J3_g",
+      "title": "Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands",
+      "duration": 406
+    },
+    {
+      "id": "k3yTt0V01Mo",
+      "title": "Shell Scripting Tutorial for Beginners 21 - Select loop",
+      "duration": 422
+    },
+    {
+      "id": "OOG076Z5SU8",
+      "title": "Shell Scripting Tutorial for Beginners 22 - Break and continue",
+      "duration": 403
+    },
+    {
+      "id": "kvQpx0q3qhY",
+      "title": "Shell Scripting Tutorial for Beginners 23 - Functions",
+      "duration": 583
+    },
+    {
+      "id": "16T4e4DME8I",
+      "title": "Shell Scripting Tutorial for Beginners 24 - Local variables",
+      "duration": 524
+    },
+    {
+      "id": "x8Zbspqm_x4",
+      "title": "Shell Scripting Tutorial for Beginners 25 - Function Example",
+      "duration": 718
+    },
+    {
+      "id": "EcldWxfoEmw",
+      "title": "Shell Scripting Tutorial for Beginners 26 - Readonly command",
+      "duration": 438
+    },
+    {
+      "id": "tF0Qau7zcsw",
+      "title": "Shell Scripting Tutorial for Beginners 27 - Signals and Traps",
+      "duration": 1305
+    },
+    {
+      "id": "yrIlmyRST8c",
+      "title": "Shell Scripting Tutorial for Beginners 28 - How to debug a bash script",
+      "duration": 443
+    },
+    {
+      "id": "zWVV31NYi1U",
+      "title": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming",
+      "duration": 15032
+    },
+    {
+      "id": "GGorVpzZQwA",
+      "title": "How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8 / Windows 10",
+      "duration": 1160
+    },
+    {
+      "id": "QbmRXJJKsvs",
+      "title": "How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10 / Windows 8",
+      "duration": 760
+    },
+    {
+      "id": "qNecdUsuTPw",
+      "title": "How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest / virtual machine",
+      "duration": 217
+    },
+    {
+      "id": "4RJ60fqeTN4",
+      "title": "How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux)",
+      "duration": 209
+    },
+    {
+      "id": "cPDNnpsdteU",
+      "title": "How to Install Linux Mint 19 Cinnamon on VirtualBox",
+      "duration": 583
+    },
+    {
+      "id": "6M1DivpQSdo",
+      "title": "How to Install Debian Linux on VirtualBox",
+      "duration": 794
+    },
+    {
+      "id": "M9C-_s3HQl8",
+      "title": "How to be a Good Software Developer / Coder / Programmer",
+      "duration": 1121
+    },
+    {
+      "id": "AmTD9BaL6zY",
+      "title": "Which Programming Language Should You Learn First",
+      "duration": 635
+    },
+    {
+      "id": "LIpQGLdll7A",
+      "title": "Docker Tutorial for Beginners | Learn Docker in 2 Hours (Full Course) | DevOps Training",
+      "duration": 7781
+    },
+    {
+      "id": "f_CWdtoTMKg",
+      "title": "How To Test 200+ Linux Distributions Without Installing them",
+      "duration": 806
+    },
+    {
+      "id": "mXT3d3ZRVYs",
+      "title": "Top 7 Programming Languages To Learn | Best Programming Languages",
+      "duration": 626
+    },
+    {
+      "id": "x5MhydijWmc",
+      "title": "How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10",
+      "duration": 1245
+    },
+    {
+      "id": "v1JVqd8M3Yc",
+      "title": "How to Install Ubuntu 22.04 LTS on VirtualBox in Windows 11",
+      "duration": 1194
+    },
+    {
+      "id": "rMpa-VgJ_UQ",
+      "title": "Bash Shell Scripting Tutorial | Full Course",
+      "duration": 12311
+    },
+    {
+      "id": "Rusk2FofQPo",
+      "title": "How to Install Debian Linux on VirtualBox on Windows 11",
+      "duration": 1178
+    },
+    {
+      "id": "mSQM8Xo78Wc",
+      "title": "Bash Scripting Tutorial for Beginners | Bash Scripting Full Course 3 Hours",
+      "duration": 12311
+    }
+  ]
+}

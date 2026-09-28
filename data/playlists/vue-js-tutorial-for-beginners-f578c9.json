@@ -1,0 +1,285 @@
+{
+  "courseId": "vue-js-tutorial-for-beginners-f578c9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV47GZrhYwnnStpx_B5GqL1Aq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:08.335Z",
+  "title": "vue js tutorial for beginners",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "vPjRDxUsWMo",
+      "title": "Vue js tutorial for beginners #1 Introduction",
+      "duration": 381
+    },
+    {
+      "id": "aMEDUmH1jwc",
+      "title": "Vue js tutorial for Beginners #2 installation",
+      "duration": 320
+    },
+    {
+      "id": "8a2hl09TCh0",
+      "title": "Vue JS 3 tutorial #2 How to use VueJs with CDN",
+      "duration": 556
+    },
+    {
+      "id": "uomfLm9AMI4",
+      "title": "Vue js tutorial for beginners #3 folder and file structure",
+      "duration": 392
+    },
+    {
+      "id": "HhEiAXXsmYc",
+      "title": "Vue js tutorial for beginner #4 Make component",
+      "duration": 500
+    },
+    {
+      "id": "69aHvXFhCIs",
+      "title": "Vue js tutorial for beginners  #5 event | how to use click event",
+      "duration": 210
+    },
+    {
+      "id": "AEYND6C4uCA",
+      "title": "Vue js tutorial for beginners  #6 conditional rendering | if else conditions",
+      "duration": 306
+    },
+    {
+      "id": "N8jKcydMunU",
+      "title": "Vue js tutorial for beginners  #7 for loop",
+      "duration": 318
+    },
+    {
+      "id": "trqTmXWT9Dg",
+      "title": "Vue js tutorial for beginners #8 composing with component",
+      "duration": 609
+    },
+    {
+      "id": "f_mL4Iu4TjM",
+      "title": "Vue js tutorial for beginners #9 template with example",
+      "duration": 507
+    },
+    {
+      "id": "Cs7m8yi8B38",
+      "title": "Vue js tutorial for beginners  #10 Class and Style Bindings",
+      "duration": 595
+    },
+    {
+      "id": "BGSeNIr_idI",
+      "title": "Vue js tutorial for beginners #11 Data binding",
+      "duration": 350
+    },
+    {
+      "id": "hA9wY9tlQhg",
+      "title": "Vue js tutorial for beginners  #13 props child to parent component",
+      "duration": 440
+    },
+    {
+      "id": "B539P1J37bk",
+      "title": "Vue js tutorial for beginners  #12 props in vue js",
+      "duration": 455
+    },
+    {
+      "id": "wbQL-r_cG2Y",
+      "title": "Vue js tutorial for beginners #14 life cycle methods (Hooks)",
+      "duration": 473
+    },
+    {
+      "id": "XRcuxUa-H3k",
+      "title": "Vue js tutorial for beginners #15 Make form and get data",
+      "duration": 533
+    },
+    {
+      "id": "TyWBQ05J_R0",
+      "title": "Vue js tutorial for beginners #16 form with checkbox and radio button",
+      "duration": 652
+    },
+    {
+      "id": "vajkqZJHhdg",
+      "title": "Vue js tutorial for beginners #17 form validation",
+      "duration": 602
+    },
+    {
+      "id": "I4iEAH9J4hk",
+      "title": "Vue js tutorial for beginners #18 filters",
+      "duration": 340
+    },
+    {
+      "id": "kXHN6SENmbE",
+      "title": "Vue js tutorial for beginners  #19 beforecreate and created life cycle methods",
+      "duration": 347
+    },
+    {
+      "id": "IP9JSC-Frgc",
+      "title": "Vue js tutorial for beginners #20 beforeMount and Mounted life cycle methods",
+      "duration": 326
+    },
+    {
+      "id": "vFZp7k-c3yE",
+      "title": "Vue js tutorial for beginners # 21 beforeDestroy and destroyed life cycle methods",
+      "duration": 402
+    },
+    {
+      "id": "Kbm9HsF_7-4",
+      "title": "Vue js tutorial for beginners  #22 fetch data from API | axios",
+      "duration": 587
+    },
+    {
+      "id": "_VGXs4VplGA",
+      "title": "Vue js tutorial for beginners #23 add bootstrap",
+      "duration": 379
+    },
+    {
+      "id": "XWfxsDcoqe4",
+      "title": "Vue js tutorial for beginners #24 Post API with form data",
+      "duration": 675
+    },
+    {
+      "id": "IYuMBejxXUo",
+      "title": "Vue js tutorial for Beginners #25 Delete data with API | delete method",
+      "duration": 612
+    },
+    {
+      "id": "DNUkIgcOXN4",
+      "title": "Vue js tutorial for Beginners #26 Basic Routing | Vue router part 1",
+      "duration": 336
+    },
+    {
+      "id": "0JahVRN_e8s",
+      "title": "Vue js tutorial for beginners #27 Add Routing Link |  vue router part 2",
+      "duration": 255
+    },
+    {
+      "id": "zc9JBFvpDpg",
+      "title": "Vue js tutorial for beginners #28 Pass data in routing params |  Vue router part 3",
+      "duration": 302
+    },
+    {
+      "id": "utXDlUDtQ6Q",
+      "title": "Vue js tutorial for beginners #29 page not found | 404 page |  Vue router part 4",
+      "duration": 242
+    },
+    {
+      "id": "UvGaO7O03ds",
+      "title": "Vue js tutorial for beginners  #30 dynamic component",
+      "duration": 452
+    },
+    {
+      "id": "HJHKSNA6HU0",
+      "title": "Vue js tutorial for beginners  #31 make custom directive",
+      "duration": 380
+    },
+    {
+      "id": "nZY4y02bMTw",
+      "title": "Vue JS 3 tutorial #20 send child to parent data component",
+      "duration": 466
+    },
+    {
+      "id": "NeP37qGVxD0",
+      "title": "Vue JS 3 tutorial #26 Non-Props Data",
+      "duration": 495
+    },
+    {
+      "id": "2HJrJBtu8Fs",
+      "title": "Vue JS 3 tutorial #27 Computed Property",
+      "duration": 341
+    },
+    {
+      "id": "UGDrpySemZU",
+      "title": "Vue JS 3 tutorial #28 Watchers with example",
+      "duration": 376
+    },
+    {
+      "id": "XpLS9v4_mjU",
+      "title": "Vue JS 3 tutorial #29 Slots with example",
+      "duration": 443
+    },
+    {
+      "id": "F7gBRyGXCoo",
+      "title": "Vue JS 3 tutorial #30 Multiple slots with Named Slot",
+      "duration": 585
+    },
+    {
+      "id": "X0KqqZNqm3M",
+      "title": "Vue JS 3 tutorial #31 Dynamic Component",
+      "duration": 489
+    },
+    {
+      "id": "dHCWkrFSD40",
+      "title": "Vue JS 3 tutorial #32 Teleport component with example",
+      "duration": 568
+    },
+    {
+      "id": "sRTaNZlLw_s",
+      "title": "Vue JS 3 tutorial #36 beforeUpdate and updated",
+      "duration": 256
+    },
+    {
+      "id": "J6fRp0F0I2I",
+      "title": "Vue JS 3 tutorial #37 beforeUnmount and unmounted",
+      "duration": 558
+    },
+    {
+      "id": "qRcEKl9TJtM",
+      "title": "Vue JS 3 tutorial #38 Routing",
+      "duration": 822
+    },
+    {
+      "id": "LjrSTftqP0U",
+      "title": "Vue JS 3 tutorial #39 Dynamic Routing",
+      "duration": 607
+    },
+    {
+      "id": "X5zT2VWHzrc",
+      "title": "Vue JS 3 tutorial #41 what is rest API",
+      "duration": 504
+    },
+    {
+      "id": "1MUjCLDJoQ8",
+      "title": "Vue js project #13 Add and Update Page",
+      "duration": 398
+    },
+    {
+      "id": "kuR6SA_r7jM",
+      "title": "Vue js project #14 Make API for restaurant List with json server",
+      "duration": 308
+    },
+    {
+      "id": "VRbQOf63_-4",
+      "title": "Vue js project #15 List of restaurant with API",
+      "duration": 509
+    },
+    {
+      "id": "HN4cOShQLj0",
+      "title": "Vue js project #16 Form for Add Restaurant",
+      "duration": 431
+    },
+    {
+      "id": "iu7tve3Iy2Q",
+      "title": "Vue js project #17 Call API  for Add Restaurant",
+      "duration": 586
+    },
+    {
+      "id": "dWF41e8lhVY",
+      "title": "Vue js project #18 Update Restaurant | Update Route",
+      "duration": 368
+    },
+    {
+      "id": "EBEU7t35rNg",
+      "title": "Vue js project #19 Prefill Update Restaurant Form",
+      "duration": 426
+    },
+    {
+      "id": "Tr_mVFBnx5s",
+      "title": "Vue js project #20 Prefill Update Restaurant Form",
+      "duration": 289
+    },
+    {
+      "id": "t3cojoA1SRQ",
+      "title": "Vue js project in Hindi #21 Delete Restaurant",
+      "duration": 428
+    },
+    {
+      "id": "0xt_Jv-P_Vo",
+      "title": "Vue JS complete tutorial | Full course for beginners | version 3",
+      "duration": 18625
+    }
+  ]
+}

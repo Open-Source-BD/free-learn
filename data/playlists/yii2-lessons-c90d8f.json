@@ -1,0 +1,315 @@
+{
+  "courseId": "yii2-lessons-c90d8f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:13.886Z",
+  "title": "Yii2 Lessons",
+  "channel": "Uthpala Heenatigala",
+  "videos": [
+    {
+      "id": "z1xtFbO9jgQ",
+      "title": "Yii2 Lesson - 1 Installing the framework and Creating Our First Application",
+      "duration": 278
+    },
+    {
+      "id": "jkIVxN5_WFc",
+      "title": "Yii2 Lesson - 2 Routing in Yii2",
+      "duration": 373
+    },
+    {
+      "id": "FOcmETyZsgA",
+      "title": "Yii2 Lesson - 3 Forms in Yii",
+      "duration": 806
+    },
+    {
+      "id": "niOtgKNWfiU",
+      "title": "Yii2 Lesson - 4 Connecting to a DB and Active Records",
+      "duration": 830
+    },
+    {
+      "id": "6B52-li6IgU",
+      "title": "Yii2 Lesson - 5 Gii Module CRUD Application",
+      "duration": 675
+    },
+    {
+      "id": "Xtz-f_qMIFA",
+      "title": "Yii2 Lesson - 6 Access Control",
+      "duration": 649
+    },
+    {
+      "id": "1WcN5mMm81E",
+      "title": "Yii2 Lesson - 7 Installing the Advance Template in Yii",
+      "duration": 692
+    },
+    {
+      "id": "AR9Onm4_FUE",
+      "title": "Yii2 Lesson - 8 Advance Template - Customizing the Signup form",
+      "duration": 588
+    },
+    {
+      "id": "aSvxwwjaY2U",
+      "title": "Yii2 Lesson - 9 Advance Template CRUD Generation using the Gii Tool",
+      "duration": 1013
+    },
+    {
+      "id": "Kg17wiJfGA8",
+      "title": "Yii2 Lesson - 10 DropDownList populated with Database Records",
+      "duration": 409
+    },
+    {
+      "id": "Fw6k3BEsCCE",
+      "title": "Yii2 Lesson - 11 Searching Related Table Data From the GridView",
+      "duration": 426
+    },
+    {
+      "id": "GtHB58-JA38",
+      "title": "Yii2 Lesson - 12 Creating Modules",
+      "duration": 570
+    },
+    {
+      "id": "dkNGB2OSNho",
+      "title": "Yii2 Lesson - 13 Bootstrap Style Datepicker",
+      "duration": 509
+    },
+    {
+      "id": "UGZvggiYGHk",
+      "title": "Yii2 Lesson - 14 Auto Suggest DropDown Search",
+      "duration": 299
+    },
+    {
+      "id": "fdbHzIzwIpY",
+      "title": "Yii2 Lesson - 15 DatePicker in the Filter Field Gridview",
+      "duration": 334
+    },
+    {
+      "id": "1QUB8Pqlz8g",
+      "title": "Yii2 Lesson - 16 Ajax Search With the GridView",
+      "duration": 174
+    },
+    {
+      "id": "NKG24GJpZRA",
+      "title": "Yii2 Lesson - 17 Uploading Files to the server",
+      "duration": 543
+    },
+    {
+      "id": "eFOIUeU-Y74",
+      "title": "Yii2 Lesson - 18 RBAC part 1",
+      "duration": 508
+    },
+    {
+      "id": "G9-tBshv3Uo",
+      "title": "Yii2 Lesson - 19 RBAC part 2",
+      "duration": 562
+    },
+    {
+      "id": "ZepxKw8VA7w",
+      "title": "Yii2 Lesson - 20 Dependent Drop Down Lists",
+      "duration": 600
+    },
+    {
+      "id": "c5pebmTUQjs",
+      "title": "Yii2 Lesson - 21 Sending Emails With Attachments",
+      "duration": 1245
+    },
+    {
+      "id": "wtWadQOBklQ",
+      "title": "Yii2 Lesson - 22 Adding Classes to Rows in the GridView",
+      "duration": 302
+    },
+    {
+      "id": "aUAUsADp9ao",
+      "title": "Yii2 Lesson - 23 Pop up Window for forms",
+      "duration": 493
+    },
+    {
+      "id": "hZ-6huMYxBc",
+      "title": "Yii2 Lesson - 24 Getting Values From a Table Using Ajax",
+      "duration": 1257
+    },
+    {
+      "id": "Coa76qKyTBc",
+      "title": "Yii2 - Lesson -25 Assigning User Permissions with a checkboxlist",
+      "duration": 1027
+    },
+    {
+      "id": "g2XRCm-x3iQ",
+      "title": "Yii2 - Lesson - 26 Custom Rules",
+      "duration": 345
+    },
+    {
+      "id": "j0shOAEuU-g",
+      "title": "Yii2 Lesson - 27 Complex Forms",
+      "duration": 507
+    },
+    {
+      "id": "qqFpTBr323Y",
+      "title": "Yii2 Lesson 28 - Dynamic Forms in Yii Part 1",
+      "duration": 827
+    },
+    {
+      "id": "eAg0LIrZDdk",
+      "title": "Yii2 Lesson - 29 Dynamic Forms Part 2",
+      "duration": 555
+    },
+    {
+      "id": "7u0p8fKriy0",
+      "title": "Yii2 Lesson - 30 Karthik Gridview Expand Row",
+      "duration": 716
+    },
+    {
+      "id": "ZhblqEROLWo",
+      "title": "Yii2 Lesson - 31 Submitting Forms Using Ajax",
+      "duration": 507
+    },
+    {
+      "id": "nzxERblYZ10",
+      "title": "Yii2 Lesson - 32 Global Search",
+      "duration": 303
+    },
+    {
+      "id": "_jNrPCgwi-8",
+      "title": "Yii2 Lesson - 33 Full Calendar part - 1/2",
+      "duration": 716
+    },
+    {
+      "id": "ghkbIGsLJRY",
+      "title": "Yii2 Lesson - 34 Full Calendar part 2/2",
+      "duration": 640
+    },
+    {
+      "id": "oK81gJLrqno",
+      "title": "Yii2 Lesson - 35 Creating A Component",
+      "duration": 318
+    },
+    {
+      "id": "1vfgTKxCyLI",
+      "title": "Yii2 Lesson - 36 Real World Component",
+      "duration": 270
+    },
+    {
+      "id": "9yKFZxVxzi8",
+      "title": "Yii2 Lesson - 37 Layouts",
+      "duration": 194
+    },
+    {
+      "id": "i2LdV-YWh6c",
+      "title": "Yii2 Lesson - 38 Asset Files",
+      "duration": 258
+    },
+    {
+      "id": "A7o_wN8eHr4",
+      "title": "Yii2 Lesson - 39 Theme Integration AdminLTE part 1/2",
+      "duration": 399
+    },
+    {
+      "id": "OnauNk0eeOM",
+      "title": "Yii2 Lesson - 40 Theme Integration AdminLTE part 2/2",
+      "duration": 486
+    },
+    {
+      "id": "QILGR6CtJP8",
+      "title": "Yii2 Lesson - 41 Login Page using the template property.",
+      "duration": 477
+    },
+    {
+      "id": "JnMFi3R6HbE",
+      "title": "Yii2 Lesson - 42 Editable Column Part 1/2",
+      "duration": 290
+    },
+    {
+      "id": "0MGmaqKTN4Q",
+      "title": "Yii2 Lesson - 43 Editable Column Part 2/2",
+      "duration": 569
+    },
+    {
+      "id": "uXn_nXlw33E",
+      "title": "Yii2 Lesson - 44 Importing Excel Sheet",
+      "duration": 1173
+    },
+    {
+      "id": "tGEbGPyBVEM",
+      "title": "Yii2 Lesson - 45 Exporting Excel Sheet using Kartik Export Menu Widget",
+      "duration": 262
+    },
+    {
+      "id": "URhvUwebSvc",
+      "title": "Yii2 Lesson - 46 Ajax Validation",
+      "duration": 516
+    },
+    {
+      "id": "XHC_RPcfwWE",
+      "title": "Yii2 Lesson - 47 More on Validation",
+      "duration": 492
+    },
+    {
+      "id": "2j38iLVmIjM",
+      "title": "Yii2 Lesson - 48 Uploading Multiple Files With DropZone",
+      "duration": 426
+    },
+    {
+      "id": "kWvOvTWRb0M",
+      "title": "Yii2 Lesson - 49 Setting and Getting Cookies",
+      "duration": 299
+    },
+    {
+      "id": "f60ZZLgXAsg",
+      "title": "Yii2 Lesson - 50 Behaviors and Before Request Event",
+      "duration": 456
+    },
+    {
+      "id": "_qNMcJKoEK0",
+      "title": "Yii2 Lesson - 51 Internationalization  |  i18n File Based",
+      "duration": 524
+    },
+    {
+      "id": "-OKk83F-4zc",
+      "title": "Yii2 Lesson - 52 Internationalization  |  i18n Database Based",
+      "duration": 356
+    },
+    {
+      "id": "t9x0BEpoBBY",
+      "title": "Yii2 Lesson - 53 Grid View Sorting Related Table Column Data",
+      "duration": 268
+    },
+    {
+      "id": "C07sOZxViog",
+      "title": "Yii2 Lesson - 54 Passing Values from the view file to the layout file",
+      "duration": 286
+    },
+    {
+      "id": "oObc3FoSVXU",
+      "title": "Yii2 Lesson - 55 Batch Insert",
+      "duration": 451
+    },
+    {
+      "id": "NNo4jrVzMtY",
+      "title": "Yii2 Lesson - 56 Connecting To Multiple Databases",
+      "duration": 186
+    },
+    {
+      "id": "QUniwqhjLTA",
+      "title": "Yii2 Lesson 57 Rest Controller",
+      "duration": 328
+    },
+    {
+      "id": "seT5UMlks7c",
+      "title": "Yii2 Lesson 58 Rest Controller Override parent Actions",
+      "duration": 428
+    },
+    {
+      "id": "660cLxHg4rs",
+      "title": "Yii2 Lesson 59 Migrations",
+      "duration": 756
+    },
+    {
+      "id": "LqPyncULbXs",
+      "title": "Yii2 Lesson 60 Running and Writing Tests",
+      "duration": 484
+    },
+    {
+      "id": "SG5piu3ZrcA",
+      "title": "Yii2 Lesson - 61 Fixtures",
+      "duration": 531
+    }
+  ]
+}

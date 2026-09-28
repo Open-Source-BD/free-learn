@@ -1,0 +1,225 @@
+{
+  "courseId": "javascript-tutorials-for-beginners-267aeb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:40.194Z",
+  "title": "JavaScript Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "PlbupGCBV6w",
+      "title": "#0 JavaScript Tutorial for Beginners | Introduction",
+      "duration": 373
+    },
+    {
+      "id": "POPLF-Qc0OU",
+      "title": "#1 Getting Started | JavaScript Tutorial for Beginners",
+      "duration": 623
+    },
+    {
+      "id": "BxZKLKfjaRg",
+      "title": "#2 NodeJS, VS Code Installation | JavaScript Tutorial",
+      "duration": 394
+    },
+    {
+      "id": "TOkU5HxES1o",
+      "title": "#3 Variables in JavaScript",
+      "duration": 1012
+    },
+    {
+      "id": "Wsy7nhFnfbM",
+      "title": "#4 Constants in JavaScript",
+      "duration": 286
+    },
+    {
+      "id": "ifu2UlqIoYM",
+      "title": "Premium Java and spring boot Courses",
+      "duration": 51
+    },
+    {
+      "id": "nCwQY8inRvU",
+      "title": "#5 Data Types in JavaScript - 1 | JavaScript Tutorial",
+      "duration": 751
+    },
+    {
+      "id": "4GXpB9EMLWM",
+      "title": "#6 Data Types in JavaScript - 2 | JavaScript Tutorial",
+      "duration": 544
+    },
+    {
+      "id": "4MsfBokJiSs",
+      "title": "History of JavaScript",
+      "duration": 1161
+    },
+    {
+      "id": "wFiVtqe1osM",
+      "title": "#8 Type Conversion & Coercion in JavaScript",
+      "duration": 773
+    },
+    {
+      "id": "otYwi_wW9Hk",
+      "title": "#9 Arithmetic Operators in JavaScript",
+      "duration": 687
+    },
+    {
+      "id": "gG0ynX_Sfx4",
+      "title": "#10 Relational operators in JavaScript",
+      "duration": 622
+    },
+    {
+      "id": "uuRJ1aCj8Ro",
+      "title": "#11 Logical Operators in JavaScript",
+      "duration": 450
+    },
+    {
+      "id": "o_iO9WuoWaM",
+      "title": "#12 Conditional Statements If Else in JavaScript",
+      "duration": 737
+    },
+    {
+      "id": "VBCOx4CqBz0",
+      "title": "#13 Ternary Operator in JavaScript",
+      "duration": 302
+    },
+    {
+      "id": "SJPsOFfvEQA",
+      "title": "#14 Switch Statement in JavaScript",
+      "duration": 478
+    },
+    {
+      "id": "K4Kh5gw4PRE",
+      "title": "#15 Template Literal in JavaScript",
+      "duration": 306
+    },
+    {
+      "id": "h84MlHv6g4Q",
+      "title": "#16 While loop in JavaScript",
+      "duration": 685
+    },
+    {
+      "id": "jcwTB9fBzP0",
+      "title": "#17 For Loop in JavaScript",
+      "duration": 402
+    },
+    {
+      "id": "EBHOo-6xn4A",
+      "title": "#18 While vs For Loop | Which to use and When?",
+      "duration": 418
+    },
+    {
+      "id": "S1dWe3f2zm0",
+      "title": "#19 Objects in JavaScript",
+      "duration": 618
+    },
+    {
+      "id": "weEDSjNYzv4",
+      "title": "#20 Complex Object, Delete Property in JavaScript",
+      "duration": 575
+    },
+    {
+      "id": "-PVcUUj_ke4",
+      "title": "#21 For in loop in JavaScript",
+      "duration": 260
+    },
+    {
+      "id": "jwOW-qlJtxg",
+      "title": "#22 Functions in JavaScript",
+      "duration": 305
+    },
+    {
+      "id": "pCU7vicLCgA",
+      "title": "#23 Function return and passing",
+      "duration": 309
+    },
+    {
+      "id": "37ly8tCGFWA",
+      "title": "#24 Function Expression in JavaScript",
+      "duration": 269
+    },
+    {
+      "id": "nnAU1dLY7gY",
+      "title": "#25 Local-Global Variable | Default Value in JavaScript",
+      "duration": 390
+    },
+    {
+      "id": "tJOJPealurs",
+      "title": "#26 Arrow function in JavaScript",
+      "duration": 356
+    },
+    {
+      "id": "4r72b1ScPLY",
+      "title": "#27 What are Methods in JavaScript?",
+      "duration": 281
+    },
+    {
+      "id": "kE93zNJBCBw",
+      "title": "#28 What is this? | JavaScript",
+      "duration": 389
+    },
+    {
+      "id": "YiqqAAvb16Q",
+      "title": "#29 Why it is called THIS?",
+      "duration": 687
+    },
+    {
+      "id": "tV7ZqcB9J3Y",
+      "title": "Constructor function in JavaScript",
+      "duration": 452
+    },
+    {
+      "id": "TScHu-37Cqw",
+      "title": "Creating Array and Fetching Elements in JavaScript",
+      "duration": 434
+    },
+    {
+      "id": "eADCg1R5_sk",
+      "title": "Different types of data in Array",
+      "duration": 273
+    },
+    {
+      "id": "Yv1h-QKt_KQ",
+      "title": "Array methods in JavaScripts",
+      "duration": 388
+    },
+    {
+      "id": "c69Y2GpF6-U",
+      "title": "For of Loop with an Array in JavaScript",
+      "duration": 303
+    },
+    {
+      "id": "giNjEgYTd9E",
+      "title": "Array Destructuring in JavaScript",
+      "duration": 571
+    },
+    {
+      "id": "hP0Rl5euD_o",
+      "title": "Array forEach Method in JavaScript",
+      "duration": 393
+    },
+    {
+      "id": "oQ7Le6SuLNA",
+      "title": "Array Method filter map reduce",
+      "duration": 575
+    },
+    {
+      "id": "YiIKUhtqeRM",
+      "title": "Set in JavaScript",
+      "duration": 422
+    },
+    {
+      "id": "flveJ5_-iFA",
+      "title": "Map in Javascript",
+      "duration": 455
+    },
+    {
+      "id": "8NZZSgtTelc",
+      "title": "What is Recursion? | JavaScript",
+      "duration": 463
+    },
+    {
+      "id": "rDjSD1vcsRI",
+      "title": "Factorial using Recursion | JavaScript",
+      "duration": 541
+    }
+  ]
+}

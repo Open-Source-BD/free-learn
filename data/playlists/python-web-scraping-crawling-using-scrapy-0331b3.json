@@ -1,0 +1,135 @@
+{
+  "courseId": "python-web-scraping-crawling-using-scrapy-0331b3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:04:10.630Z",
+  "title": "Python Web Scraping & Crawling using Scrapy",
+  "channel": "buildwithpython",
+  "videos": [
+    {
+      "id": "ve_0h4Y8nuI",
+      "title": "Python Scrapy Tutorial- 1 - Web Scraping, Spiders and Crawling",
+      "duration": 199
+    },
+    {
+      "id": "wYJAtx4HL6U",
+      "title": "Python Scrapy Tutorial- 2 - How does Web Scraping work?",
+      "duration": 330
+    },
+    {
+      "id": "w_jUkFFaobQ",
+      "title": "Python Scrapy Tutorial - 3 - Robots.txt and Web Scraping Rules",
+      "duration": 79
+    },
+    {
+      "id": "OlAouS669bc",
+      "title": "Python Scrapy Tutorial - 4 - Installation with Pycharm (recommended)",
+      "duration": 315
+    },
+    {
+      "id": "UoLu3PIkO2c",
+      "title": "Python Scrapy Tutorial - 5 - Installation with Terminal / Sublime",
+      "duration": 469
+    },
+    {
+      "id": "2osL98z3w-Q",
+      "title": "Python Scrapy Tutorial- 6 - Project Structure in Scrapy",
+      "duration": 604
+    },
+    {
+      "id": "Y0AG6L3GJCs",
+      "title": "Python Scrapy Tutorial- 7 - Creating our first spider ( web crawler )",
+      "duration": 453
+    },
+    {
+      "id": "evnbUI09vQQ",
+      "title": "Python Scrapy Tutorial- 8 - Running our first spider ( web crawler )",
+      "duration": 261
+    },
+    {
+      "id": "FQv-whbCfKs",
+      "title": "Python Scrapy Tutorial - 9 - Extracting data w/ CSS Selectors",
+      "duration": 725
+    },
+    {
+      "id": "INm8yR4aYjk",
+      "title": "Python Scrapy Tutorial - 10 - Extracting data w/ XPATH",
+      "duration": 552
+    },
+    {
+      "id": "cC9aFbViT_c",
+      "title": "Python Scrapy Tutorial - 11 - Web Scraping Quotes and Authors",
+      "duration": 588
+    },
+    {
+      "id": "QksUFT2Cmlo",
+      "title": "Python Scrapy Tutorial - 12 - Item containers ( Storing scraped data )",
+      "duration": 419
+    },
+    {
+      "id": "kkWhQKtxT2I",
+      "title": "Python Scrapy Tutorial - 13 - Storing in JSON, XML and CSV",
+      "duration": 211
+    },
+    {
+      "id": "VMVFB1VKpto",
+      "title": "Python Scrapy Tutorial - 14 - Pipelines in Web Scraping",
+      "duration": 279
+    },
+    {
+      "id": "Ze0JRzdxVBU",
+      "title": "Python Scrapy Tutorial - 15 - Basics of SQLite3 database",
+      "duration": 641
+    },
+    {
+      "id": "QhuUi9cWZNQ",
+      "title": "Python Scrapy Tutorial - 16 - Storing data in Sqlite3 Database",
+      "duration": 742
+    },
+    {
+      "id": "6VFMGthBD58",
+      "title": "Python Scrapy Tutorial - 17 - Storing data in MySQL Database",
+      "duration": 610
+    },
+    {
+      "id": "djfnjtYB2co",
+      "title": "Python Scrapy Tutorial - 18 - Storing data in MongoDB",
+      "duration": 659
+    },
+    {
+      "id": "cf6KPRjqlP8",
+      "title": "Python Scrapy Tutorial - 19 - Web Crawling & Following links",
+      "duration": 545
+    },
+    {
+      "id": "_5a_o3qcGOI",
+      "title": "Python Scrapy Tutorial - 20 - Scraping Websites with Pagination",
+      "duration": 475
+    },
+    {
+      "id": "I_vAGDZeg5Q",
+      "title": "Python Scrapy Tutorial - 21 - Logging in with Scrapy FormRequest",
+      "duration": 769
+    },
+    {
+      "id": "2vcp0fKq3aw",
+      "title": "Python Scrapy Tutorial - 22 - Web Scraping Amazon",
+      "duration": 784
+    },
+    {
+      "id": "GOjuQ9IgSfI",
+      "title": "Python Scrapy Tutorial - 23 - Bypass Restrictions using User-Agent",
+      "duration": 276
+    },
+    {
+      "id": "090tLVr0l7s",
+      "title": "Python Scrapy Tutorial - 24 - Bypass Restrictions using Proxies",
+      "duration": 337
+    },
+    {
+      "id": "quMUjys9BcU",
+      "title": "Python Scrapy Tutorial - 25 - Scraping multiple pages of Amazon",
+      "duration": 313
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "courseId": "compiler-design-601ead",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:45.727Z",
+  "title": "Compiler Design",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "5ZmFlxrNaN8",
+      "title": "Introduction to Compiler Design",
+      "duration": 860
+    },
+    {
+      "id": "TApMNhQPaCM",
+      "title": "Different Phases of Compiler",
+      "duration": 1152
+    },
+    {
+      "id": "Dd3DWRpqI40",
+      "title": "Symbol Table",
+      "duration": 643
+    },
+    {
+      "id": "hVaAXOGxMWo",
+      "title": "Symbol Table – Solved PYQs",
+      "duration": 485
+    },
+    {
+      "id": "4nx8LEGy9kI",
+      "title": "Introduction to Lexical Analyzer",
+      "duration": 899
+    },
+    {
+      "id": "MZ9NZdZteG4",
+      "title": "Lexical Analyzer – Tokenization",
+      "duration": 568
+    },
+    {
+      "id": "izGDMglQzgY",
+      "title": "Lexical Analyzer (Solved Problems) - Set 1",
+      "duration": 562
+    },
+    {
+      "id": "POWFABRCujo",
+      "title": "Lexical Analyzer (Solved Problems) - Set 2",
+      "duration": 663
+    },
+    {
+      "id": "J8cFZCUdfj8",
+      "title": "Errors and Error Recovery in Lexical Analysis",
+      "duration": 619
+    },
+    {
+      "id": "U-rg4nHeYiw",
+      "title": "Introduction to Formal Grammars",
+      "duration": 545
+    },
+    {
+      "id": "HkqgBqUjjS0",
+      "title": "Classifications of Formal Grammars (Part 1)",
+      "duration": 581
+    },
+    {
+      "id": "MONaMMwSz2E",
+      "title": "Classifications of Formal Grammars (Part 2)",
+      "duration": 528
+    },
+    {
+      "id": "3rzTRtjUM_I",
+      "title": "Derivations of CFGs",
+      "duration": 543
+    },
+    {
+      "id": "gUaAKAj-rqA",
+      "title": "Ambiguity in CFGs",
+      "duration": 398
+    },
+    {
+      "id": "i-xrAmOR314",
+      "title": "Ambiguity in CFGs - Solved Problems (Set 1)",
+      "duration": 478
+    },
+    {
+      "id": "_rcDHRk1_zo",
+      "title": "Ambiguity in CFGs - Solved Problems (Set 2)",
+      "duration": 452
+    },
+    {
+      "id": "WqpkuM8UVss",
+      "title": "Problems of Ambiguity in CFGs",
+      "duration": 436
+    },
+    {
+      "id": "zdlDl5fYuAA",
+      "title": "Associativity Violation and Solution in CFGs",
+      "duration": 362
+    },
+    {
+      "id": "fHQlQQELCYM",
+      "title": "Precedence Violation and Solution in CFGs",
+      "duration": 437
+    },
+    {
+      "id": "q8uBrWsD4q4",
+      "title": "Associativity and Precedence in CFGs",
+      "duration": 600
+    },
+    {
+      "id": "OTWq5SkLg48",
+      "title": "Associativity and Precedence in CFGs – Solved Problems (Set 1)",
+      "duration": 466
+    },
+    {
+      "id": "gnlx5ueT2AU",
+      "title": "Associativity and Precedence in CFGs – Solved Problems (Set 2)",
+      "duration": 471
+    },
+    {
+      "id": "g2hlbqob0lo",
+      "title": "Recursion in Context Free Grammars (CFGs)",
+      "duration": 419
+    },
+    {
+      "id": "IO5ie7GbJGI",
+      "title": "Problem of Left Recursion and Solution in CFGs",
+      "duration": 490
+    },
+    {
+      "id": "PFey5FpKlFM",
+      "title": "Elimination of Left Recursion – Solved Problems",
+      "duration": 441
+    },
+    {
+      "id": "BlVzfIghVw8",
+      "title": "Non-Deterministic CFGs",
+      "duration": 403
+    },
+    {
+      "id": "s9N3_7ADZno",
+      "title": "Non-deterministic CFGs – Solved Problems (Set 1)",
+      "duration": 749
+    },
+    {
+      "id": "Dzv839GW6FA",
+      "title": "Non-deterministic CFGs – Solved Problems (Set 2)",
+      "duration": 620
+    },
+    {
+      "id": "OIKL6wFjFOo",
+      "title": "Introduction to Parsers",
+      "duration": 852
+    },
+    {
+      "id": "iddRD8tJi44",
+      "title": "Top Down Parsers - Recursive Descent Parsers",
+      "duration": 1224
+    },
+    {
+      "id": "v_wvcuJ6mGY",
+      "title": "Top Down Parsers - LL(1) Parsers",
+      "duration": 976
+    },
+    {
+      "id": "oOCromcWnfc",
+      "title": "FIRST() and FOLLOW() Functions",
+      "duration": 713
+    },
+    {
+      "id": "jv4dwxukVvU",
+      "title": "FIRST() and FOLLOW() Functions – Solved Problems (Set 1)",
+      "duration": 727
+    },
+    {
+      "id": "Wo4bafMawFA",
+      "title": "FIRST() and FOLLOW() Functions – Solved Problems (Set 2)",
+      "duration": 1032
+    },
+    {
+      "id": "DT-cbznw9aY",
+      "title": "LL(1) Parsing Table",
+      "duration": 449
+    },
+    {
+      "id": "clkHOgZUGWU",
+      "title": "LL(1) Parsing",
+      "duration": 695
+    },
+    {
+      "id": "5P7ehgZ6EIs",
+      "title": "LL(1) Parsing – Solved Problems (Set 1)",
+      "duration": 1187
+    },
+    {
+      "id": "INbA4Wr6dXs",
+      "title": "LL(1) Parsing – Solved Problems (Set 2)",
+      "duration": 1169
+    },
+    {
+      "id": "kQMIQQmmkj8",
+      "title": "Bottom-Up Parsers | Chapter-4 | Compiler Design | nesoacademy.org",
+      "duration": 78
+    },
+    {
+      "id": "0i8q9Gubu6Q",
+      "title": "Semantic Analysis | Chapter-5 | Compiler Design | nesoacademy.org",
+      "duration": 46
+    },
+    {
+      "id": "SiYxGP0O68s",
+      "title": "Intermediate Code Generation | Chapter-6 | Compiler Design | nesoacademy.org",
+      "duration": 36
+    },
+    {
+      "id": "SaKfQX_tQrs",
+      "title": "Runtime Environment & Code Optimization | Chapter-7 | Compiler Design | nesoacademy.org",
+      "duration": 27
+    }
+  ]
+}

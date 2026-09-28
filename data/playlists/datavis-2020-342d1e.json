@@ -1,0 +1,295 @@
+{
+  "courseId": "datavis-2020-342d1e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:50.898Z",
+  "title": "Datavis 2020",
+  "channel": "Curran Kelleher",
+  "videos": [
+    {
+      "id": "30lR5BlcO48",
+      "title": "Datavis 2020 Course Launch",
+      "duration": 400
+    },
+    {
+      "id": "Di5fjz9n0o8",
+      "title": "Datavis 2020 Episode 1: What is Data Visualization",
+      "duration": 548
+    },
+    {
+      "id": "EpJllW-iHnU",
+      "title": "Datavis 2020 Episode 2: Week 1 Q & A",
+      "duration": 499
+    },
+    {
+      "id": "l4ly6W8SL64",
+      "title": "Datavis 2020 Episode 3 - Finding Visualizations",
+      "duration": 389
+    },
+    {
+      "id": "NatZzPrwBnU",
+      "title": "Datavis 2020 Episode 4 - Introduction to Web Technologies",
+      "duration": 594
+    },
+    {
+      "id": "QT5ef8dUyoo",
+      "title": "Datavis 2020 Episode 5 - Let's Make a Face Part I (HTML, CSS, SVG)",
+      "duration": 1072
+    },
+    {
+      "id": "JMvnd1CIRNo",
+      "title": "Datavis 2020 Episode 6 - Let's Make a Face Part II (React)",
+      "duration": 1075
+    },
+    {
+      "id": "1nOC9GR-Mzc",
+      "title": "Datavis 2020 Episode 7 - Let's Make a Face Part III (React & D3)",
+      "duration": 717
+    },
+    {
+      "id": "x1WwIKmnpjA",
+      "title": "Datavis 2020 Episode 8 - Let's Make a Face Part IV (React Components & ES6)",
+      "duration": 613
+    },
+    {
+      "id": "0AjwWMiVfv4",
+      "title": "Datavis 2020 Episode 9 - Let's Make a Face Part V multiple files with ES6 modules",
+      "duration": 597
+    },
+    {
+      "id": "skiecpXhGxQ",
+      "title": "Datavis 2020 Episode 10 - Let's Make a Face Part VI (Compartmentalizing Complexity)",
+      "duration": 716
+    },
+    {
+      "id": "v5F9l-Pfsp4",
+      "title": "Datavis 2020 Episode 11 - Coronavirus Dataviz Hackathon Part I (Coronavirus Dataviz)",
+      "duration": 592
+    },
+    {
+      "id": "8tJV3jMHyEQ",
+      "title": "Datavis 2020 Episode 12 - Preparing Data for Visualization",
+      "duration": 598
+    },
+    {
+      "id": "1UBraY8Z7uI",
+      "title": "Datavis 2020 Episode 13 - Loading Data with Fetch, Promises, Aync & Await",
+      "duration": 626
+    },
+    {
+      "id": "9zzIwsASgeo",
+      "title": "Datavis 2020 Episode 14 - Interaction With React",
+      "duration": 1157
+    },
+    {
+      "id": "oTUDt78qkiM",
+      "title": "Datavis 2020 Episode 15 - Parsing CSV Data with D3",
+      "duration": 531
+    },
+    {
+      "id": "asscsklxokE",
+      "title": "Datavis 2020 Episode 16 - Loading Data in React",
+      "duration": 683
+    },
+    {
+      "id": "Gle7a8qPf8k",
+      "title": "Datavis 2020 Episode 17 - Inputs for Visualization: Data & Tasks",
+      "duration": 653
+    },
+    {
+      "id": "RKJPMfKsAsQ",
+      "title": "Datavis 2020 Episode 18 - Iterating Fast with Vega Lite API",
+      "duration": 1862
+    },
+    {
+      "id": "gwUYOWCxdIw",
+      "title": "Datavis 2020 Episode 19 - Marks & Channels",
+      "duration": 2170
+    },
+    {
+      "id": "KHmaEse5WSI",
+      "title": "Datavis 2020 Episode 20 - Visualizing Data with React & D3",
+      "duration": 986
+    },
+    {
+      "id": "ZpBPLpgIvu8",
+      "title": "Datavis 2020 Episode 21 - Making a Bar Chart with React & D3",
+      "duration": 883
+    },
+    {
+      "id": "y03s9MEx6mc",
+      "title": "Datavis 2020 Episode 22 - Margins and Axes",
+      "duration": 1172
+    },
+    {
+      "id": "pEslJER9ekM",
+      "title": "Datavis 2020 Episode 23 -  Refactoring a Bar Chart",
+      "duration": 697
+    },
+    {
+      "id": "3jIF4Z3iIoM",
+      "title": "Datavis 2020 Episode 24   Stylized Bar Chart",
+      "duration": 1454
+    },
+    {
+      "id": "yVxnQQpBg-Q",
+      "title": "Datavis 2020 Episode 25 - Making a Scatter Plot",
+      "duration": 1337
+    },
+    {
+      "id": "1vV3UAzh1R4",
+      "title": "Datavis 2020 Episode 26   Working with Time",
+      "duration": 489
+    },
+    {
+      "id": "CJ3y2xKX-N0",
+      "title": "Datavis 2020 Episode 27 - Making a Line Chart",
+      "duration": 833
+    },
+    {
+      "id": "AmOz08_Fh8Q",
+      "title": "Datavis 2020 Episode 28   Preparing Geospatial Data",
+      "duration": 486
+    },
+    {
+      "id": "mzZ1fCXq-uo",
+      "title": "Datavis 2020 Episode 29 - Making a World Map with React & D3",
+      "duration": 1549
+    },
+    {
+      "id": "5yCM6zSnaw0",
+      "title": "Datavis 2020 Episode 30 - Menus with React",
+      "duration": 977
+    },
+    {
+      "id": "j4VI47GlmGA",
+      "title": "Datavis 2020 Episode 31 - Scatter Plot with Menus",
+      "duration": 1098
+    },
+    {
+      "id": "kyWZf3sNhtg",
+      "title": "Datavis 2020 Episode 32 - Polished Scatter Plot with Menus",
+      "duration": 1226
+    },
+    {
+      "id": "dBxH80v0M2U",
+      "title": "Datavis 2020 Episode 33 - Scatter Plot with Color",
+      "duration": 421
+    },
+    {
+      "id": "bnFsTqWxcb8",
+      "title": "Datavis 2020 Episode 34 - Making a Color Legend",
+      "duration": 903
+    },
+    {
+      "id": "Ig_C5lDTuq4",
+      "title": "Datavis 2020 Episode 35 - Interactive Color Legend",
+      "duration": 1103
+    },
+    {
+      "id": "151T4hSrlSo",
+      "title": "Datavis 2020 Episode 36 - Points on a Map",
+      "duration": 706
+    },
+    {
+      "id": "bOmn1-hWCp4",
+      "title": "Datavis 2020 Episode 37 - Using Size",
+      "duration": 808
+    },
+    {
+      "id": "E4nCWOx_1PM",
+      "title": "Datavis 2020 episode 38 - Missing Migrants",
+      "duration": 685
+    },
+    {
+      "id": "0Zm9drw02fw",
+      "title": "Datavis 2020 Epsode 39 - Missing Migrants Part II - Aggregation by Month",
+      "duration": 1449
+    },
+    {
+      "id": "BkLy0mR6VyA",
+      "title": "Datavis 2020 Episode 40 - Missing Migrants Part III - On a Map",
+      "duration": 553
+    },
+    {
+      "id": "D4pShNSZen0",
+      "title": "Datavis 2020 Episode 41   Multiple Views",
+      "duration": 757
+    },
+    {
+      "id": "lyUgVPAAjjQ",
+      "title": "Datavis 2020 Eposide 42 - Why Use Modules",
+      "duration": 145
+    },
+    {
+      "id": "AtTBFu-3Rlc",
+      "title": "Datavis 2020 Episode 43 - Multiple Views Cleanup",
+      "duration": 1230
+    },
+    {
+      "id": "a-Ec2HR1U2g",
+      "title": "Datavis 2020 Episode 44 - Multiple Views with Brushing",
+      "duration": 1577
+    },
+    {
+      "id": "Gf40jrJTsQU",
+      "title": "Datavis 2020 Episode 45 - React Performance Optimization",
+      "duration": 1296
+    },
+    {
+      "id": "QdIsmTIcL5U",
+      "title": "Datavis 2020 Episode 46 - Choropleth Map",
+      "duration": 602
+    },
+    {
+      "id": "AJVeqgs9URc",
+      "title": "Datavis 2020 Episode 47 - Log Scales",
+      "duration": 425
+    },
+    {
+      "id": "Si6TsBYxkZc",
+      "title": "Datavis 2020 Episode 48 - Making a Choropleth Map",
+      "duration": 1674
+    },
+    {
+      "id": "b8Ellt-BYjI",
+      "title": "Datavis 2020 episode 49 - Coronavirus Basic Line Chart",
+      "duration": 3836
+    },
+    {
+      "id": "5Rb0wvICpXA",
+      "title": "Datavis 2020 episode 50 - Coronavirus Line Chart with Marker Lines",
+      "duration": 2040
+    },
+    {
+      "id": "4YTZwPeWZcM",
+      "title": "Datavis 2020 episode 51 - React & D3 Axes with useRef and d3 axis",
+      "duration": 938
+    },
+    {
+      "id": "D7iaMGgiu4A",
+      "title": "Datavis 2020 Episode 52 - Coronavirus Line Chart with Log Scale and Labels",
+      "duration": 1550
+    },
+    {
+      "id": "cLziE0i8kRI",
+      "title": "Datavis 2020 Episode 53 - Coronavirus Line Chart with Multiple Colored Lines",
+      "duration": 1726
+    },
+    {
+      "id": "YdSFgK0hPgU",
+      "title": "Datavis 2020 Episode 54 - Coronavirus Line Chart with Voronoi Overlay",
+      "duration": 3080
+    },
+    {
+      "id": "JDTjddCPpio",
+      "title": "Datavis 2020 Episode 55 - Coronavirus Line Chart with Voronoi Tooltips",
+      "duration": 1942
+    },
+    {
+      "id": "y7DxbW9nwmo",
+      "title": "Datavis 2020 Episode 56 - Organization Graph Diagram",
+      "duration": 5779
+    }
+  ]
+}

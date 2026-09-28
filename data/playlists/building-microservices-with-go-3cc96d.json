@@ -1,0 +1,115 @@
+{
+  "courseId": "building-microservices-with-go-3cc96d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:34.303Z",
+  "title": "Building Microservices with Go",
+  "channel": "Nic Jackson",
+  "videos": [
+    {
+      "id": "VzBGi_n65iU",
+      "title": "Introduction to microservices (Ep. 1)",
+      "duration": 2361
+    },
+    {
+      "id": "hodOppKJm5Y",
+      "title": "Building Microservices with Go: 2. Introduction to microservices, continued",
+      "duration": 2242
+    },
+    {
+      "id": "eBeqtmrvVpg",
+      "title": "Building Microservices with Go: 3. RESTful services",
+      "duration": 1965
+    },
+    {
+      "id": "UZbHLVsjpF0",
+      "title": "Building Microservices with Go: 4. More RESTful services",
+      "duration": 3238
+    },
+    {
+      "id": "DD3JlT_u0DM",
+      "title": "Building Microservices with Go: 5. Gorilla framework for RESTful services",
+      "duration": 2612
+    },
+    {
+      "id": "gE8_-8KoOLc",
+      "title": "Building Microservices with Go: 6 JSON Validation",
+      "duration": 1657
+    },
+    {
+      "id": "07XhTqE-j8k",
+      "title": "Building Microservices with Go: 7 Documenting RESTful APIs with Swagger",
+      "duration": 2795
+    },
+    {
+      "id": "Zn4joNjqBFc",
+      "title": "Building Microservices with Go: 8 Auto-generating HTTP clients from Swagger files",
+      "duration": 2765
+    },
+    {
+      "id": "RlYoy_RiYPw",
+      "title": "Building Microservices with Go: 9 CORS (Cross-Origin Resource Sharing)",
+      "duration": 1011
+    },
+    {
+      "id": "ctmhYJpGsgU",
+      "title": "Building Microservices with Go: 10 Handling files with the Go standard library",
+      "duration": 1828
+    },
+    {
+      "id": "_7-IhHMptNo",
+      "title": "Building Microservices with Go: 11 HTTP multi-part requests",
+      "duration": 1960
+    },
+    {
+      "id": "GtSg1H7SU5Y",
+      "title": "Building Microservices with Go: 12 Using Gzip compression for HTTP responses",
+      "duration": 1929
+    },
+    {
+      "id": "pMgty_RYIOc",
+      "title": "13 Introduction to gRPC and Protocol Buffers",
+      "duration": 1927
+    },
+    {
+      "id": "oTBcd5J0VYU",
+      "title": "Building Microservices with Go: 14. gRPC Client Connections",
+      "duration": 1990
+    },
+    {
+      "id": "Vl88R9acq-Y",
+      "title": "Building Microservices with Go: 15. Refactoring Part 1/3",
+      "duration": 1790
+    },
+    {
+      "id": "QBl8LZ0Rems",
+      "title": "Building Microservices with Go: 15. Refactoring Part 2/3",
+      "duration": 2262
+    },
+    {
+      "id": "ARvOyAsuFog",
+      "title": "Building Microservices with Go: 15. Refactoring Part 3/3",
+      "duration": 1401
+    },
+    {
+      "id": "4ohwkWVgEZM",
+      "title": "Building Microservices with Go: 16. gRPC Bi-directional streaming, part 1/2",
+      "duration": 987
+    },
+    {
+      "id": "MT5tXSKa-KY",
+      "title": "17. gRPC Bi-directional streaming, part 2/2",
+      "duration": 2251
+    },
+    {
+      "id": "9QS33m8vnag",
+      "title": "18. gRPC Error messages in Unary RPCs",
+      "duration": 1216
+    },
+    {
+      "id": "IT4OfN27D4c",
+      "title": "19. gRPC Error handling in gRPC Bidirectional streams",
+      "duration": 1745
+    }
+  ]
+}

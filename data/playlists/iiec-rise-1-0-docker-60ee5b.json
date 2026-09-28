@@ -1,0 +1,60 @@
+{
+  "courseId": "iiec-rise-1-0-docker-60ee5b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:58.290Z",
+  "title": "IIEC RISE 1.0 Docker",
+  "channel": "IIEC_connect",
+  "videos": [
+    {
+      "id": "3Kn6_b-1mK4",
+      "title": "Solomon Hykes | Creator of Docker |  In 2013 Explained - Why we built Docker",
+      "duration": 1248
+    },
+    {
+      "id": "362sHaO5eGU",
+      "title": "How First Time, Solomon Hykes shows docker to the public : The future of Linux Containers",
+      "duration": 322
+    },
+    {
+      "id": "NPgXHA41-YM",
+      "title": "Docker Introduction : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 9955
+    },
+    {
+      "id": "-lpDRE3Fcj0",
+      "title": "Session 1: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 13288
+    },
+    {
+      "id": "YCIf4Aj7Uoc",
+      "title": "Session 2: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 14441
+    },
+    {
+      "id": "wmGgmaMmPEQ",
+      "title": "Session 3: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 14139
+    },
+    {
+      "id": "PVQSmR9EQ6Q",
+      "title": "Session 4: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 13754
+    },
+    {
+      "id": "jTKtps5FBQI",
+      "title": "Session 5: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 12826
+    },
+    {
+      "id": "UndfobhXKG8",
+      "title": "Session 6: Docker : Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 15311
+    },
+    {
+      "id": "c5uavKsVviQ",
+      "title": "Session 7: DockerFile: Instructor-led Live Training on Docker Container | Basic to Expert",
+      "duration": 8021
+    }
+  ]
+}

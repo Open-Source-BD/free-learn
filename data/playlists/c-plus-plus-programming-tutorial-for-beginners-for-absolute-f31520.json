@@ -1,0 +1,560 @@
+{
+  "courseId": "c-plus-plus-programming-tutorial-for-beginners-for-absolute-f31520",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:46.131Z",
+  "title": "C++ Programming Tutorial for Beginners (For Absolute Beginners)",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "e1YafrxYOWw",
+      "title": "C++ Tutorial for Beginners 1 - Installing CodeBlocks and Getting Started (For Absolute Beginners)",
+      "duration": 729
+    },
+    {
+      "id": "XWE3hA4PAoI",
+      "title": "C++ Tutorial for Beginners 2 - Understanding C++ Program Structure",
+      "duration": 873
+    },
+    {
+      "id": "tkPjecc0ViY",
+      "title": "C++ Tutorial for Beginners 3 - Understanding Variables",
+      "duration": 676
+    },
+    {
+      "id": "fta0zpX05vk",
+      "title": "C++ Tutorial for Beginners 4 - Basic Calculator",
+      "duration": 599
+    },
+    {
+      "id": "sqgR26VHBa0",
+      "title": "C++ Tutorial for Beginners 5 - Understanding Basic Arithmetic",
+      "duration": 275
+    },
+    {
+      "id": "MTjDwDHbcv0",
+      "title": "C++ Tutorial for Beginners 6 - If and Else Statements",
+      "duration": 618
+    },
+    {
+      "id": "uvODOG3_hQk",
+      "title": "C++ Tutorial for Beginners 7 - Switch Statement",
+      "duration": 590
+    },
+    {
+      "id": "98Ga_B8LpwU",
+      "title": "C++ Tutorial for Beginners 8 - Using 'For Loop'",
+      "duration": 497
+    },
+    {
+      "id": "ahAU6mHHuTs",
+      "title": "C++ Tutorial for Beginners 9 -  Increment , Decrement and Assignment Operators",
+      "duration": 426
+    },
+    {
+      "id": "pvfUXIG6KEc",
+      "title": "C++ Tutorial for Beginners 10 - While Loops",
+      "duration": 497
+    },
+    {
+      "id": "MXnfeqcZcfQ",
+      "title": "C++ Tutorial for Beginners 11 - Do While Loops",
+      "duration": 449
+    },
+    {
+      "id": "gWsCOHTl1nA",
+      "title": "C++ Tutorial for Beginners 12 - Functions in C++",
+      "duration": 529
+    },
+    {
+      "id": "qDGfz4oaIkQ",
+      "title": "C++ Tutorial for Beginners 13 - Passing Parameters and Arguments in Function",
+      "duration": 545
+    },
+    {
+      "id": "zaj7OxqEo1E",
+      "title": "C++ Tutorial for Beginners 14 - Return Values in Functions",
+      "duration": 568
+    },
+    {
+      "id": "HGwNczk1n0Y",
+      "title": "C++ Tutorial for Beginners 15 - Default Function Parameter",
+      "duration": 388
+    },
+    {
+      "id": "mk-hKbRebHk",
+      "title": "C++ Tutorial for Beginners 16 - Variable Scope and Unary Scope Resolution Operator",
+      "duration": 479
+    },
+    {
+      "id": "VMvCCrBU5Rw",
+      "title": "C++ Tutorial for Beginners 17 - Function Overloading",
+      "duration": 453
+    },
+    {
+      "id": "ExcwHSLkZ9A",
+      "title": "C++ Tutorial for Beginners 18 - Arrays in C++",
+      "duration": 480
+    },
+    {
+      "id": "VcHXsiMPCeQ",
+      "title": "C++ Tutorial for Beginners 19 - Getting the sum of values in an array",
+      "duration": 266
+    },
+    {
+      "id": "si5nWWhjRt0",
+      "title": "C++ Tutorial for Beginners 20 - Multidimensional Arrays",
+      "duration": 540
+    },
+    {
+      "id": "aOVputhO2Ow",
+      "title": "C++ Tutorial for Beginners 21 - Pointers in C++",
+      "duration": 499
+    },
+    {
+      "id": "amn6wHUrv4U",
+      "title": "C++ Tutorial for Beginners 22 - Pass by Reference / Value in C++",
+      "duration": 384
+    },
+    {
+      "id": "XS16alJYY7w",
+      "title": "C++ Tutorial for Beginners 23 - Data structures or struct (C++)",
+      "duration": 621
+    },
+    {
+      "id": "IMFDdTUre4Q",
+      "title": "C++ Tutorial for Beginners 24 - How to pass a structure to a function in C++",
+      "duration": 345
+    },
+    {
+      "id": "b8Luumpu_kE",
+      "title": "C++ Tutorial for Beginners 25 - Introduction to C++ Classes and Objects",
+      "duration": 572
+    },
+    {
+      "id": "gJYPaiGQunc",
+      "title": "C++ Tutorial for Beginners 26 - Setter/Getter functions in C++",
+      "duration": 511
+    },
+    {
+      "id": "2BTFA8TEzlU",
+      "title": "C++ Tutorial for Beginners 27 - Introduction To Constructors in C++",
+      "duration": 656
+    },
+    {
+      "id": "bFNcauq7bCA",
+      "title": "C++ Tutorial for Beginners 28 - Destructors in C++",
+      "duration": 431
+    },
+    {
+      "id": "FNnPScv9Qkg",
+      "title": "C++ Tutorial for Beginners 29 - Placing Classes in Separate Files in C++",
+      "duration": 1113
+    },
+    {
+      "id": "8FL-fDuASyk",
+      "title": "C++ Tutorial for Beginners 30 - Arrow Member Selection Operator and Pointers to classes",
+      "duration": 574
+    },
+    {
+      "id": "yUtY63Fk3hM",
+      "title": "C++ Tutorial for Beginners 31 - Operator Overloading in C++",
+      "duration": 976
+    },
+    {
+      "id": "lMyknvJOb7s",
+      "title": "Please Support ProgrammingKnowledge ....",
+      "duration": 23
+    },
+    {
+      "id": "HXs3j-lF8JE",
+      "title": "C++ Tutorial for Beginners 32 - C++ Inheritance",
+      "duration": 1083
+    },
+    {
+      "id": "miydHp2y_Rg",
+      "title": "C++ Tutorial for Beginners 33 - C++ Multiple Inheritance",
+      "duration": 480
+    },
+    {
+      "id": "PuLF8iXeKA0",
+      "title": "C++ Tutorial for Beginners 34 - Friend Class in C++",
+      "duration": 523
+    },
+    {
+      "id": "lX09jBr9I1s",
+      "title": "C++ Tutorial for Beginners 35 - Introduction to Polymorphism in C++",
+      "duration": 883
+    },
+    {
+      "id": "7ab1FGcJBW0",
+      "title": "C++ Tutorial for Beginners 36 - Virtual Member function & Pure Virtual Functions",
+      "duration": 828
+    },
+    {
+      "id": "OtDysNsdF1s",
+      "title": "C++ Tutorial for Beginners 37 - C++ Exception Handling (Try Throw Catch)",
+      "duration": 733
+    },
+    {
+      "id": "eFNgoraf2oA",
+      "title": "CLion C/C++ IDE - EAP build (First Impressions)",
+      "duration": 766
+    },
+    {
+      "id": "HTy3D98C188",
+      "title": "C++ Tutorial for Beginners 38 - C++ Function Templates",
+      "duration": 475
+    },
+    {
+      "id": "SeO4gfZwrGI",
+      "title": "C++ Tutorial for Beginners 39 - C++ Function Templates with Multiple Parameters",
+      "duration": 223
+    },
+    {
+      "id": "L8lmOLoCrB4",
+      "title": "C++ Tutorial for Beginners 40 - Class Templates",
+      "duration": 537
+    },
+    {
+      "id": "5LBcuhdAb-o",
+      "title": "C++ Tutorial for Beginners 41 - Template Specialization in C++",
+      "duration": 488
+    },
+    {
+      "id": "SNLZEhWZ1og",
+      "title": "How to add C++11 support to code::blocks compiler",
+      "duration": 777
+    },
+    {
+      "id": "13TrhiKLZg8",
+      "title": "C++ Tutorial for Beginners 42 -Create a Text File and Write in It",
+      "duration": 619
+    },
+    {
+      "id": "lzxWNtjii8U",
+      "title": "C++ Tutorial for Beginners 43 - How to Read from a .txt file using C++",
+      "duration": 868
+    },
+    {
+      "id": "TXbuATMlVNY",
+      "title": "How to Install and Setup Eclipse IDE for C/C++ Development on Windows",
+      "duration": 1128
+    },
+    {
+      "id": "vSio4fvNgzg",
+      "title": "C++ Tutorial for Beginners 44 - C++ Vectors",
+      "duration": 1099
+    },
+    {
+      "id": "POYRev0zk2k",
+      "title": "C++ Tutorial for Beginners 45 - C++ Map",
+      "duration": 892
+    },
+    {
+      "id": "8p76pJsUP44",
+      "title": "How to Set up OpenGL and GLUT in Visual Studio (C++)",
+      "duration": 631
+    },
+    {
+      "id": "aS5_jrIbKmA",
+      "title": "How to Install Codeblocks IDE on Windows 10 with Compilers ( GCC , G++)",
+      "duration": 430
+    },
+    {
+      "id": "KwOLqfyQ7TU",
+      "title": "How to Install Qt Creator IDE on Windows 8.1 / Windows 10 (Open Source Version)",
+      "duration": 524
+    },
+    {
+      "id": "3SIj6zL6mmA",
+      "title": "How To Create First Qt GUI Widget Application in C++ Using Qt Creator",
+      "duration": 932
+    },
+    {
+      "id": "MhYECGUzdA4",
+      "title": "C++ Tutorial | Learn C++ programming | Full C++ Programming Course",
+      "duration": 26910
+    },
+    {
+      "id": "-H_EyIqBNDA",
+      "title": "How to Create First C++ Hello World Project using Xcode Mac OS",
+      "duration": 509
+    },
+    {
+      "id": "6pABIQl1ZP0",
+      "title": "How to Install OpenCV in Ubuntu for C / C++ (Ubuntu 18.04, Ubuntu 20.04 )",
+      "duration": 908
+    },
+    {
+      "id": "KdweixONFyA",
+      "title": "What Is JSON ? JSON Crash Course",
+      "duration": 1012
+    },
+    {
+      "id": "DIw02CaEusY",
+      "title": "Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)",
+      "duration": 1416
+    },
+    {
+      "id": "zaokK25DITo",
+      "title": "How to Setup Atom For C / C++ Development on Windows 10",
+      "duration": 784
+    },
+    {
+      "id": "C893qy0c5do",
+      "title": "Introduction to Linked Lists - Linked List Implementation in C/C++ - Data Structure Tutorial",
+      "duration": 1299
+    },
+    {
+      "id": "W-oqv3uezlY",
+      "title": "Visualization of Sorting Algorithms | 11 Sorting Algorithms in 7 Minutes",
+      "duration": 441
+    },
+    {
+      "id": "RsOEfAYIr0U",
+      "title": "C++ Tutorial for Beginners 1 - Introduction to C++  |  Installing CodeBlocks on Windows 10",
+      "duration": 1012
+    },
+    {
+      "id": "7j834VpIb0E",
+      "title": "C++ Tutorial for Beginners 2 - What is compiler ? Difference Between Compiler and Interpreter",
+      "duration": 654
+    },
+    {
+      "id": "SukVA3w6l3E",
+      "title": "C++ Tutorial for Beginners 3 - C++ Output (Print Text) | Output Statements in C++",
+      "duration": 972
+    },
+    {
+      "id": "DTxc1rA2Itg",
+      "title": "C++ Tutorial for Beginners 4 - C++ Input (Input Statements in C++) |  Escape sequences",
+      "duration": 1507
+    },
+    {
+      "id": "mXT3d3ZRVYs",
+      "title": "Top 7 Programming Languages To Learn | Best Programming Languages",
+      "duration": 626
+    },
+    {
+      "id": "GK39mFS9fKc",
+      "title": "C++ Tutorial for Beginners 5 - ASCII Value",
+      "duration": 534
+    },
+    {
+      "id": "ae-gENE5wvE",
+      "title": "C++ Tutorial for Beginners 6 - Conditional Statement- IF, IF Else and Nested IF Else",
+      "duration": 863
+    },
+    {
+      "id": "6PfmUiZTWBM",
+      "title": "C++ Tutorial for Beginners 7 - Logical Operators",
+      "duration": 684
+    },
+    {
+      "id": "ghToze5bboE",
+      "title": "C++ Tutorial for Beginners 8 - Switch Statement in C++",
+      "duration": 707
+    },
+    {
+      "id": "6F6ECKek1Dc",
+      "title": "C++ Tutorial for Beginners 9 - C++ For Loop | Loops in C++",
+      "duration": 650
+    },
+    {
+      "id": "bVAH2772w3Q",
+      "title": "C++ Tutorial for Beginners 10 - C++ While Loop | Loops in C++ | Print the pattern by using Loop",
+      "duration": 1699
+    },
+    {
+      "id": "cyyfke88sro",
+      "title": "C++ Tutorial for Beginners 11 - C++ Do-While Loop | Jump Statements (C++)",
+      "duration": 1104
+    },
+    {
+      "id": "awVkDykjCbc",
+      "title": "C++ Tutorial for Beginners 12 - Functions in C++ | Understand C++ Function With Examples",
+      "duration": 990
+    },
+    {
+      "id": "jhrjYank-wg",
+      "title": "C++ Tutorial for Beginners 13 - Function return values + Function parameters and arguments",
+      "duration": 540
+    },
+    {
+      "id": "y7GNJlilbvg",
+      "title": "C++ Tutorial for Beginners 14 - Different ways of calling functions C++",
+      "duration": 556
+    },
+    {
+      "id": "i4BCSEPz25o",
+      "title": "C++ Tutorial for Beginners 15 - C++ Recursion with example",
+      "duration": 615
+    },
+    {
+      "id": "3FM0KzuDiRg",
+      "title": "C++ Tutorial for Beginners 16 - Understand C++ Arrays in Detail with Examples",
+      "duration": 943
+    },
+    {
+      "id": "KrH1qNVYKO0",
+      "title": "C++ Tutorial for Beginners 17 - How to Create Tic-Tac-Toe in C++ | Tic-Tac-Toe game in C++",
+      "duration": 2662
+    },
+    {
+      "id": "Mwd1dX--HaU",
+      "title": "C++ Tutorial for Beginners 18 - C++ Pointers",
+      "duration": 1856
+    },
+    {
+      "id": "QBXoWOc7T_Q",
+      "title": "C++ Tutorial for Beginners 19 - C++ Structures | Struct declaration | C++ Data Structures",
+      "duration": 831
+    },
+    {
+      "id": "xjnM1iWvo2g",
+      "title": "Loops in C++ | For, While, and Do While Loops in C++",
+      "duration": 1606
+    },
+    {
+      "id": "43i3FLtsD-0",
+      "title": "Functions In C++ | Declaration, Call, Return Values, Parameter Passing, Function overloading",
+      "duration": 3819
+    },
+    {
+      "id": "h1NlXUaDpmk",
+      "title": "C++ Tutorial for Beginners 20 - C++ Classes and Objects",
+      "duration": 1336
+    },
+    {
+      "id": "tt5h-zF8dUI",
+      "title": "C++ Tutorial for Beginners 21 -  C++ Snake Game | C++ Snake Terminal Game",
+      "duration": 2561
+    },
+    {
+      "id": "fpgDeQ_EW1A",
+      "title": "C++ Tutorial for Beginners 22 -  C++ Snake Game | C++ Snake Terminal Game (Part - 2)",
+      "duration": 2603
+    },
+    {
+      "id": "x3KoYy4czXU",
+      "title": "C++ Tutorial for Beginners 23 - Inheritance in C++",
+      "duration": 730
+    },
+    {
+      "id": "ADM2KkHp-rE",
+      "title": "C++ Tutorial for Beginners 24 - Types of Inheritance in C++",
+      "duration": 1216
+    },
+    {
+      "id": "DirkdQjBTnM",
+      "title": "C++ Tutorial for Beginners 25 - Multiple Inheritance in C++ | The Diamond Problem",
+      "duration": 841
+    },
+    {
+      "id": "nrR7smJpguY",
+      "title": "C++ Tutorial for Beginners 26 - Overloading and Overriding in C++ | Override Vs Overload",
+      "duration": 1201
+    },
+    {
+      "id": "XNHSSduMBbY",
+      "title": "C++ Tutorial for Beginners 27 -  Pure Virtual Functions and Abstract Classes",
+      "duration": 596
+    },
+    {
+      "id": "0Jf9UQ3MURo",
+      "title": "C++ Tutorial for Beginners 28 -  File I/O in C++",
+      "duration": 1351
+    },
+    {
+      "id": "tyXq2d5g8-0",
+      "title": "C++ Tutorial for Beginners 29 - Binary Files in C++ | Structure In Binary File I/O",
+      "duration": 1551
+    },
+    {
+      "id": "GPnDfDlLNHQ",
+      "title": "C++ Tutorial for Beginners 30 - Operation On Binary File In C++ ( read, write, delete and modify)",
+      "duration": 1937
+    },
+    {
+      "id": "bodRnroBlqM",
+      "title": "C++ Tutorial for Beginners 31 - Static Members and Functions",
+      "duration": 984
+    },
+    {
+      "id": "Sr3W_zdmhlM",
+      "title": "C++ Programming Tutorial | Learn C++ programming | C++ language",
+      "duration": 35932
+    },
+    {
+      "id": "a-3hcS-tEn0",
+      "title": "Templates in C++ | C++ Tutorial for Beginners",
+      "duration": 1087
+    },
+    {
+      "id": "HmVrsxJawas",
+      "title": "The C++ Standard Template Library (STL) | C++ STL Tutorial",
+      "duration": 980
+    },
+    {
+      "id": "YmbA2xmF8Ug",
+      "title": "How to Create, Read and Write to a File in C++",
+      "duration": 1348
+    },
+    {
+      "id": "AxrQje7V65o",
+      "title": "Creating Simple Snake Game in C++ (With Source Code)@ProgrammingKnowledge",
+      "duration": 5146
+    },
+    {
+      "id": "_6H49euHmJc",
+      "title": "C++ Tic Tac Toe Game Project Program",
+      "duration": 2659
+    },
+    {
+      "id": "sZOC2cfZDLk",
+      "title": "Pointers in C++ with Examples",
+      "duration": 1854
+    },
+    {
+      "id": "9acwlCukLRQ",
+      "title": "Vector in C++ STL with Examples",
+      "duration": 1612
+    },
+    {
+      "id": "rv_V2Ul_Pcw",
+      "title": "Inheritance in C++ | Types Of Inheritance In C++ | Multiple Inheritance",
+      "duration": 4495
+    },
+    {
+      "id": "lp1LQDUX7R8",
+      "title": "C++ Tutorial for Beginners - Full Course | Deep Dive in C++",
+      "duration": 35932
+    },
+    {
+      "id": "fsmVbLMzBoo",
+      "title": "How to Install MinGW (GCC/G++) Compiler in Windows 11",
+      "duration": 770
+    },
+    {
+      "id": "8DRt2CRD6X8",
+      "title": "How to Install CodeBlocks IDE on Windows 11 with Compilers ( GCC , G++)",
+      "duration": 399
+    },
+    {
+      "id": "uFydSHo4LcM",
+      "title": "Set Up C++ Development With Visual Studio Code on Windows 11 (VS Code) |VSCode C++Development Basics",
+      "duration": 1665
+    },
+    {
+      "id": "wHsPdo5p4fA",
+      "title": "C++ Tutorial - Full Course",
+      "duration": 35932
+    },
+    {
+      "id": "2VokW_Jt0oM",
+      "title": "Debugging C++ Program in Visual Studio Code (VSCode)",
+      "duration": 1043
+    }
+  ]
+}

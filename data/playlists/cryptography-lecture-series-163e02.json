@@ -1,0 +1,130 @@
+{
+  "courseId": "cryptography-lecture-series-163e02",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:12.961Z",
+  "title": "Cryptography Lecture Series",
+  "channel": "Tyler Larson",
+  "videos": [
+    {
+      "id": "2aHkqB2-46k",
+      "title": "Lecture 1: Introduction to Cryptography by Christof Paar",
+      "duration": 4645
+    },
+    {
+      "id": "W1SY6qKZrUk",
+      "title": "Lecture 2: Modular Arithmetic and Historical Ciphers by Christof Paar",
+      "duration": 5471
+    },
+    {
+      "id": "AELVJL0axRs",
+      "title": "Lecture 3: Stream Ciphers, Random Numbers and the One Time Pad by Christof Paar",
+      "duration": 5379
+    },
+    {
+      "id": "sKUhFpVxNWc",
+      "title": "Lecture 4: Stream Ciphers and Linear Feedback Shift Registers by Christof Paar",
+      "duration": 5380
+    },
+    {
+      "id": "kPBJIhpcZgE",
+      "title": "Lecture 5: Data Encryption Standard (DES): Encryption by Christof Paar",
+      "duration": 5617
+    },
+    {
+      "id": "l-7YW06BFNs",
+      "title": "Lecture 6: Data Encryption Standard (DES): Key Schedule and Decryption by Christof Paar",
+      "duration": 4026
+    },
+    {
+      "id": "x1v2tX4_dkQ",
+      "title": "Lecture 7: Introduction to Galois Fields for the AES by Christof Paar",
+      "duration": 5450
+    },
+    {
+      "id": "NHuibtoL_qk",
+      "title": "Lecture 8: Advanced Encryption Standard (AES) by Christof Paar",
+      "duration": 5599
+    },
+    {
+      "id": "4FBgb2uobWI",
+      "title": "Lecture 9: Modes of Operation for Block Ciphers by Christof Paar",
+      "duration": 5114
+    },
+    {
+      "id": "M10BVpTCzGg",
+      "title": "Lecture 10: Multiple Encryption and Brute-Force Attacks by Christof Paar",
+      "duration": 5269
+    },
+    {
+      "id": "fq6SXByItUI",
+      "title": "Lecture 11: Number Theory for PKC: Euclidean Algorithm, Euler's Phi Function & Euler's Theorem",
+      "duration": 5462
+    },
+    {
+      "id": "QSlWzKNbKrU",
+      "title": "Lecture 12: The RSA Cryptosystem and Efficient Exponentiation by Christof Paar",
+      "duration": 5307
+    },
+    {
+      "id": "aeOzBCbwxUo",
+      "title": "Lecture 13: Diffie-Hellman Key Exchange and the Discrete Log Problem by Christof Paar",
+      "duration": 4847
+    },
+    {
+      "id": "IGqrbM52wtg",
+      "title": "Lecture 14: The Generalized Discrete Log Problem and the Security of Diffie-Hellman by Christof Paar",
+      "duration": 5320
+    },
+    {
+      "id": "tKNY1zhK3sQ",
+      "title": "Lecture 15: Elgamal Encryption Scheme by Christof Paar",
+      "duration": 4671
+    },
+    {
+      "id": "vnpZXJL6QCQ",
+      "title": "Lecture 16: Introduction to Elliptic Curves by Christof Paar",
+      "duration": 4842
+    },
+    {
+      "id": "zTt4gvuQ6sY",
+      "title": "Lecture 17: Elliptic Curve Cryptography (ECC) by Christof Paar",
+      "duration": 5191
+    },
+    {
+      "id": "jbBe4AS5pk0",
+      "title": "Lecture 18: Digital Signatures and Security Services by Christof Paar",
+      "duration": 4635
+    },
+    {
+      "id": "AQXRX55hgHs",
+      "title": "Lecture 19: Elgamal Digital Signature by Christof Paar",
+      "duration": 4943
+    },
+    {
+      "id": "tLkHk__-M6Q",
+      "title": "Lecture 20: Hash Functions by Christof Paar",
+      "duration": 3904
+    },
+    {
+      "id": "JIhZWgJA-9o",
+      "title": "Lecture 21: SHA-1 Hash Function by Christof Paar",
+      "duration": 4715
+    },
+    {
+      "id": "DiLPn_ldAAQ",
+      "title": "Lecture 25: MAC (Message Authentication Codes) and HMAC by Christof Paar",
+      "duration": 4507
+    },
+    {
+      "id": "iaH8UG2yMg4",
+      "title": "Lecture 26: Symmetric Key Establishment and Kerberos by Christof Paar",
+      "duration": 3249
+    },
+    {
+      "id": "B9UirR9YDnQ",
+      "title": "Lecture 27: Man-in-the-middle Attack, Certificates and PKI by Christof Paar",
+      "duration": 4202
+    }
+  ]
+}

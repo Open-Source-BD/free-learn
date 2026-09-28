@@ -1,0 +1,410 @@
+{
+  "courseId": "javascript-algorithms-and-data-structures-4294a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:04.694Z",
+  "title": "JavaScript Algorithms and Data Structures",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "coqQwbDezUA",
+      "title": "JavaScript Algorithms - 1 - Introduction",
+      "duration": 232
+    },
+    {
+      "id": "vVYG8TNN7hg",
+      "title": "JavaScript Algorithms - 2 - What is an Algorithm?",
+      "duration": 220
+    },
+    {
+      "id": "Fo2Qnw5pMGo",
+      "title": "JavaScript Algorithms - 3 - Time and Space Complexity",
+      "duration": 261
+    },
+    {
+      "id": "3yUuo7TqMW8",
+      "title": "JavaScript Algorithms - 4 - Big-O Notation",
+      "duration": 633
+    },
+    {
+      "id": "XkhLTlFXxbI",
+      "title": "JavaScript Algorithms - 5 - Objects and Arrays Big-O",
+      "duration": 221
+    },
+    {
+      "id": "Eivk4lyC00E",
+      "title": "JavaScript Algorithms - 6 - Math Algorithms",
+      "duration": 97
+    },
+    {
+      "id": "tQjd29Rmo_A",
+      "title": "JavaScript Algorithms - 7 - Fibonacci Sequence",
+      "duration": 369
+    },
+    {
+      "id": "vAgzuS3u6W0",
+      "title": "JavaScript Algorithms - 8 - Factorial of a Number",
+      "duration": 282
+    },
+    {
+      "id": "cbHMQxOuIUw",
+      "title": "JavaScript Algorithms - 9 - Prime Number",
+      "duration": 451
+    },
+    {
+      "id": "SZRG1bmDlx8",
+      "title": "JavaScript Algorithms - 10 - Power of Two",
+      "duration": 533
+    },
+    {
+      "id": "Oz4Y4psjG7w",
+      "title": "JavaScript Algorithms - 11 - Recursion",
+      "duration": 222
+    },
+    {
+      "id": "wZNxLwqxu00",
+      "title": "JavaScript Algorithms - 12 - Recursive Fibonacci Sequence",
+      "duration": 524
+    },
+    {
+      "id": "o5XweHW-H4Y",
+      "title": "JavaScript Algorithms - 13 - Recursive Factorial of a Number",
+      "duration": 406
+    },
+    {
+      "id": "jktVSpNwVT8",
+      "title": "JavaScript Algorithms - 14 - Search Algorithms",
+      "duration": 68
+    },
+    {
+      "id": "EvRdNdOfRl8",
+      "title": "JavaScript Algorithms - 15 - Linear Search",
+      "duration": 321
+    },
+    {
+      "id": "oVj5ZvZd-cU",
+      "title": "JavaScript Algorithms - 16 - Binary Search",
+      "duration": 261
+    },
+    {
+      "id": "75jGy1xAhhs",
+      "title": "JavaScript Algorithms - 17 - Binary Search Solution",
+      "duration": 502
+    },
+    {
+      "id": "EFXWgZJZqL8",
+      "title": "JavaScript Algorithms - 18 - Recursive Binary Search",
+      "duration": 535
+    },
+    {
+      "id": "DOB7YVH2SZo",
+      "title": "JavaScript Algorithms - 19 - Sorting Algorithms",
+      "duration": 98
+    },
+    {
+      "id": "gqMjdM8FsrE",
+      "title": "JavaScript Algorithms - 20 - Bubble Sort",
+      "duration": 287
+    },
+    {
+      "id": "xdCgW2a3r_Q",
+      "title": "JavaScript Algorithms - 21 - Bubble Sort Solution",
+      "duration": 392
+    },
+    {
+      "id": "Wu_mDUIsTVE",
+      "title": "JavaScript Algorithms - 22 - Insertion Sort",
+      "duration": 348
+    },
+    {
+      "id": "OxUF23k7IcM",
+      "title": "JavaScript Algorithms - 23 - Insertion Sort Solution",
+      "duration": 403
+    },
+    {
+      "id": "ceqwscS_muA",
+      "title": "JavaScript Algorithms - 24 - Quick Sort",
+      "duration": 257
+    },
+    {
+      "id": "lWLTHsQnHDI",
+      "title": "JavaScript Algorithms - 25 - Quick Sort Solution",
+      "duration": 335
+    },
+    {
+      "id": "qInXNtKaf4Q",
+      "title": "JavaScript Algorithms - 26 - Merge Sort",
+      "duration": 386
+    },
+    {
+      "id": "wXZyuJqNk9U",
+      "title": "JavaScript Algorithms - 27 - Merge Sort Solution",
+      "duration": 440
+    },
+    {
+      "id": "x3rkUQcfFww",
+      "title": "JavaScript Algorithms - 28 - Misc Problems",
+      "duration": 103
+    },
+    {
+      "id": "C2HuBFYgyM8",
+      "title": "JavaScript Algorithms - 29 - Cartesian Product",
+      "duration": 118
+    },
+    {
+      "id": "XPpnW-WsDmQ",
+      "title": "JavaScript Algorithms - 30 - Cartesian Product Solution",
+      "duration": 243
+    },
+    {
+      "id": "jrY7eONLHZs",
+      "title": "JavaScript Algorithms - 31 - Climbing Staircase",
+      "duration": 190
+    },
+    {
+      "id": "ezWDYotcuek",
+      "title": "JavaScript Algorithms - 32 - Climbing Staircase Solution",
+      "duration": 207
+    },
+    {
+      "id": "_dt773ImwFw",
+      "title": "JavaScript Algorithms - 33 - Tower of Hanoi",
+      "duration": 207
+    },
+    {
+      "id": "bLHxrvDvL_8",
+      "title": "JavaScript Algorithms - 34 - Tower of Hanoi Solution",
+      "duration": 420
+    },
+    {
+      "id": "tCvSDnRsGnw",
+      "title": "JavaScript Algorithms - 35 - Further Learning",
+      "duration": 340
+    },
+    {
+      "id": "poGEVboh9Rw",
+      "title": "JavaScript Data Structures - 1 - Introduction",
+      "duration": 361
+    },
+    {
+      "id": "txjmvEPlAtU",
+      "title": "JavaScript Data Structures - 2 - Array",
+      "duration": 428
+    },
+    {
+      "id": "1c9CArj66mU",
+      "title": "JavaScript Data Structures - 3 - Object",
+      "duration": 439
+    },
+    {
+      "id": "vfPd6_H7W4Q",
+      "title": "JavaScript Data Structures - 4 - Set",
+      "duration": 274
+    },
+    {
+      "id": "XOpKmpRh69Y",
+      "title": "JavaScript Data Structures - 5 - Map",
+      "duration": 351
+    },
+    {
+      "id": "a1fyufVlLmk",
+      "title": "JavaScript Data Structures - 6 - Stack Overview",
+      "duration": 146
+    },
+    {
+      "id": "ex8EHl5fq1o",
+      "title": "JavaScript Data Structures - 8 - Queue Overview",
+      "duration": 156
+    },
+    {
+      "id": "NuBWJ7kIlDg",
+      "title": "JavaScript Data Structures - 9 - Queue Implementation",
+      "duration": 388
+    },
+    {
+      "id": "ba15sgOiAOg",
+      "title": "JavaScript Data Structures - 10 - Queue Implementation Optimised",
+      "duration": 458
+    },
+    {
+      "id": "ngNJps_RUg8",
+      "title": "JavaScript Data Structures - 11 - Circular Queue Overview",
+      "duration": 148
+    },
+    {
+      "id": "oIR_DOOOACk",
+      "title": "JavaScript Data Structures - 12 - Circular Queue Implementation",
+      "duration": 931
+    },
+    {
+      "id": "3OsxH-huRc4",
+      "title": "JavaScript Data Structures - 13 - Linked List Overview",
+      "duration": 154
+    },
+    {
+      "id": "Tggvw4QlA9U",
+      "title": "JavaScript Data Structures - 14 - Linked List Class",
+      "duration": 326
+    },
+    {
+      "id": "NAPQ0ua02CA",
+      "title": "JavaScript Data Structures - 15 - Linked List Prepend",
+      "duration": 339
+    },
+    {
+      "id": "A-9tzPuE1eA",
+      "title": "JavaScript Data Structures - 16 - Linked List Print",
+      "duration": 345
+    },
+    {
+      "id": "3e6Xfnr5ME8",
+      "title": "JavaScript Data Structures - 17 - Linked List Append",
+      "duration": 460
+    },
+    {
+      "id": "Sd9Nps5nAdU",
+      "title": "JavaScript Data Structures - 18 - Linked List Insert",
+      "duration": 603
+    },
+    {
+      "id": "D_kWagEfcx8",
+      "title": "JavaScript Data Structures - 19 - Linked List Remove",
+      "duration": 601
+    },
+    {
+      "id": "RgrIXX3E2mY",
+      "title": "JavaScript Data Structures - 20 - Linked List Remove Value",
+      "duration": 700
+    },
+    {
+      "id": "ZRIJuAIGJ4M",
+      "title": "JavaScript Data Structures - 21 - Linked List Search",
+      "duration": 342
+    },
+    {
+      "id": "S9kMVEUg-x4",
+      "title": "JavaScript Data Structures - 22 - Linked List Reverse",
+      "duration": 399
+    },
+    {
+      "id": "sw7fCZeFTdc",
+      "title": "JavaScript Data Structures - 23 - Linked List with Tail Overview",
+      "duration": 298
+    },
+    {
+      "id": "ADZfDxftXQ0",
+      "title": "JavaScript Data Structures - 24 - Linked List with Tail Implementation",
+      "duration": 645
+    },
+    {
+      "id": "-0ZIresFUZI",
+      "title": "JavaScript Data Structures - 25 - Linked List Stack",
+      "duration": 396
+    },
+    {
+      "id": "15q-fLZqo_0",
+      "title": "JavaScript Data Structures - 26 - Linked List Queue",
+      "duration": 343
+    },
+    {
+      "id": "MZhQB8R33xw",
+      "title": "JavaScript Data Structures - 27 - Doubly Linked List",
+      "duration": 260
+    },
+    {
+      "id": "-Df9ipREbuM",
+      "title": "JavaScript Data Structures - 28 - Hash Table Overview",
+      "duration": 243
+    },
+    {
+      "id": "y3CcHKEM8r8",
+      "title": "JavaScript Data Structures - 29 - Hash Table Implementation",
+      "duration": 593
+    },
+    {
+      "id": "kTh5nAqCkOA",
+      "title": "JavaScript Data Structures - 30 - Hash Table Collisions",
+      "duration": 572
+    },
+    {
+      "id": "c-LEpmYikFY",
+      "title": "JavaScript Data Structures - 31 - Tree Overview",
+      "duration": 339
+    },
+    {
+      "id": "-ZMm8xX-Vrs",
+      "title": "JavaScript Data Structures - 32 - Binary Search Tree Overview",
+      "duration": 166
+    },
+    {
+      "id": "kIVkBsfB-SM",
+      "title": "JavaScript Data Structures - 33 - Binary Search Tree Class",
+      "duration": 305
+    },
+    {
+      "id": "zOgsIjM-a7g",
+      "title": "JavaScript Data Structures - 34 - Binary Search Tree Insert",
+      "duration": 559
+    },
+    {
+      "id": "lml2E9SIJHo",
+      "title": "JavaScript Data Structures - 35 - Binary Search Tree Search",
+      "duration": 309
+    },
+    {
+      "id": "n6_Ruq1qvjU",
+      "title": "JavaScript Data Structures - 36 - Binary Search Trees Depth First Search",
+      "duration": 633
+    },
+    {
+      "id": "H0i3gk1h0lI",
+      "title": "JavaScript Data Structures - 37 - Binary Search Tree Breadth First Search",
+      "duration": 332
+    },
+    {
+      "id": "mrzE5SqzoQY",
+      "title": "JavaScript Data Structures - 38 - Binary Search Tree Min Max",
+      "duration": 240
+    },
+    {
+      "id": "80GhW9X1MGI",
+      "title": "JavaScript Data Structures - 39 - Binary Search Tree Delete",
+      "duration": 615
+    },
+    {
+      "id": "bLtm94mvfjE",
+      "title": "JavaScript Data Structures - 40 - Graph Overview",
+      "duration": 203
+    },
+    {
+      "id": "Gqwt45cHyoQ",
+      "title": "JavaScript Data Structures - 41 - Adjacency Matrix of a Graph",
+      "duration": 212
+    },
+    {
+      "id": "O7BtCGkkPBY",
+      "title": "JavaScript Data Structures - 42 - Adjacency List of a Graph",
+      "duration": 199
+    },
+    {
+      "id": "Yy7T4bLhqUg",
+      "title": "JavaScript Data Structures - 43 - Graph Add Vertex and Edge",
+      "duration": 333
+    },
+    {
+      "id": "TQ1LlaRHaow",
+      "title": "JavaScript Data Structure - 44 - Graph Display and HasEdge",
+      "duration": 251
+    },
+    {
+      "id": "75JAn8ejI_I",
+      "title": "JavaScript Data Structures - 45 - Graph Remove Edge and Vertex",
+      "duration": 247
+    },
+    {
+      "id": "kRYZmOZDlY0",
+      "title": "JavaScript Data Structures - 46 - Further Learning",
+      "duration": 104
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "courseId": "digital-electronics-for-gate-066c6f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:42.623Z",
+  "title": "Digital Electronics for GATE",
+  "channel": "TutorialsPoint",
+  "videos": [
+    {
+      "id": "vsoYlH1_hbc",
+      "title": "Digital Electronics Overview",
+      "duration": 378
+    },
+    {
+      "id": "WcUVHedv1O8",
+      "title": "Introduction to Number Systems & base or radix",
+      "duration": 610
+    },
+    {
+      "id": "pViwWzcB8w4",
+      "title": "Find out the base or radix",
+      "duration": 506
+    },
+    {
+      "id": "Chm-zu9ntoE",
+      "title": "Decimal to any other Number System Conversion",
+      "duration": 635
+    },
+    {
+      "id": "iDu6JgdkQ7s",
+      "title": "Binary Equivalent of Decimal Number",
+      "duration": 294
+    },
+    {
+      "id": "v0VSL1iRK_g",
+      "title": "Decimal to Octal Number Example",
+      "duration": 321
+    },
+    {
+      "id": "HTUB7gGX3Fo",
+      "title": "Octal equivalent of Decimal Number",
+      "duration": 350
+    },
+    {
+      "id": "EEWTJ9j3t48",
+      "title": "Hexadecimal Equivalent of Decimal Number",
+      "duration": 305
+    },
+    {
+      "id": "88UBoquXmiQ",
+      "title": "Decimal to Binary and Hexa Conversion Example",
+      "duration": 443
+    },
+    {
+      "id": "dVOIZnXGZks",
+      "title": "Any other number system into decimal",
+      "duration": 585
+    },
+    {
+      "id": "QTt2IyFQi3g",
+      "title": "Decimal Equivalent of Binary Number",
+      "duration": 391
+    },
+    {
+      "id": "O5j5Ll1dzvw",
+      "title": "Decimal Equivalent of Binary Number Example",
+      "duration": 409
+    },
+    {
+      "id": "-4QOKSUfYbg",
+      "title": "Octal to Decimal Number Conversion",
+      "duration": 479
+    },
+    {
+      "id": "t7fk46LOFQ8",
+      "title": "Octal to Decimal Number Example",
+      "duration": 299
+    },
+    {
+      "id": "_-0N9QPCmLk",
+      "title": "Hexadecimal to Decimal Number Conversion",
+      "duration": 354
+    },
+    {
+      "id": "VKL-tNG9ghE",
+      "title": "Hexadecimal to Decimal Number Example",
+      "duration": 228
+    },
+    {
+      "id": "dGzpviEyoE8",
+      "title": "Octal to Binary Number Conversion",
+      "duration": 394
+    },
+    {
+      "id": "lEC1l3jFcbg",
+      "title": "Binary to Octal Conversion Example",
+      "duration": 189
+    },
+    {
+      "id": "Asae8IwBU44",
+      "title": "Hexadecimal to Binary and Binary to Hexa Conversion",
+      "duration": 656
+    },
+    {
+      "id": "9nvQngUlQ1g",
+      "title": "Hexa to Binary Conversion Example 1",
+      "duration": 282
+    },
+    {
+      "id": "7QYj6v6MEWg",
+      "title": "Hexa to Binary Conversion Example 2",
+      "duration": 181
+    },
+    {
+      "id": "rx6kFjtLlXk",
+      "title": "Hexa to Octal & Octal to Hexa Number Conversion",
+      "duration": 445
+    },
+    {
+      "id": "jWQV3SDGPxY",
+      "title": "Octal to Hexa Conversions Example 1",
+      "duration": 394
+    },
+    {
+      "id": "Hrth9xhW8Lo",
+      "title": "Octal to Hexa Conversions Example 2",
+      "duration": 642
+    },
+    {
+      "id": "Bvsa7vBXifA",
+      "title": "Octal to Hexa Conversions Example 3",
+      "duration": 416
+    },
+    {
+      "id": "SVgL4IDWZ0U",
+      "title": "Hexa to Octal Conversion Example 1",
+      "duration": 460
+    },
+    {
+      "id": "xFi2uSlqIvs",
+      "title": "Hexa to Octal Conversion Example 2",
+      "duration": 352
+    },
+    {
+      "id": "i-J1PJFCMl0",
+      "title": "Minimal Decimal Equivalent",
+      "duration": 499
+    },
+    {
+      "id": "7CZHwolf5lE",
+      "title": "Required bits to Represent a Number - Part A",
+      "duration": 428
+    },
+    {
+      "id": "6xwV5BhH5Yg",
+      "title": "Required bits to Represent a Number - Part B",
+      "duration": 201
+    },
+    {
+      "id": "6ucNrD3ej6Y",
+      "title": "Match the List Octal Binary",
+      "duration": 313
+    },
+    {
+      "id": "CzKxDNHlRJQ",
+      "title": "Find Unknown Value in a Relation",
+      "duration": 450
+    },
+    {
+      "id": "9PQuH-kGMxc",
+      "title": "Conversions Examples - Part 1",
+      "duration": 537
+    },
+    {
+      "id": "Adx_Pf8s6wM",
+      "title": "Conversions Examples - Part 2",
+      "duration": 523
+    },
+    {
+      "id": "JoeS8LXV78o",
+      "title": "Binary Coded Pentory Problem",
+      "duration": 216
+    },
+    {
+      "id": "saZhNTu_dDg",
+      "title": "Signed Magnitude Representation",
+      "duration": 331
+    },
+    {
+      "id": "xOOiWK_Dcz4",
+      "title": "1s & 2s Complement Representation of Signed Numbers (complement representation)",
+      "duration": 411
+    },
+    {
+      "id": "SnAOZqA-dbw",
+      "title": "2's Complement Representation Example",
+      "duration": 280
+    },
+    {
+      "id": "gHpPeKPzzAQ",
+      "title": "2's Complement Representation Previous GATE Problem 1",
+      "duration": 423
+    },
+    {
+      "id": "cG0UhDT_70I",
+      "title": "2's Complement Representation Previous GATE Problem 2",
+      "duration": 387
+    },
+    {
+      "id": "JT_xmDteLHQ",
+      "title": "2's Complement Representation Previous GATE Problem 3",
+      "duration": 240
+    },
+    {
+      "id": "8mv9DT5Anws",
+      "title": "2's Complement Representation Previous GATE Problem 4",
+      "duration": 192
+    },
+    {
+      "id": "1WX4EfkmSew",
+      "title": "2's Complement Representation Previous GATE Problem 5",
+      "duration": 228
+    },
+    {
+      "id": "a1rM8yuySUU",
+      "title": "Binary Arithmetic Addition",
+      "duration": 427
+    },
+    {
+      "id": "LwYaPngYOhw",
+      "title": "Binary Arithmetic Subtraction",
+      "duration": 281
+    },
+    {
+      "id": "zAGBDZ6toIs",
+      "title": "Binary Arithmetic Multiplication",
+      "duration": 333
+    },
+    {
+      "id": "VpVoY5wLof0",
+      "title": "Binary arithmetic Multiplication Example",
+      "duration": 604
+    },
+    {
+      "id": "RI1CMFM2YKw",
+      "title": "Binary Arithmetic Division",
+      "duration": 476
+    },
+    {
+      "id": "PMSwH9wRznA",
+      "title": "Introduction to Complement Subtraction",
+      "duration": 362
+    },
+    {
+      "id": "oHky_dUV4Qo",
+      "title": "1’s Complement Subtraction Smaller to Larger",
+      "duration": 447
+    },
+    {
+      "id": "NEkcNilC1NE",
+      "title": "1’s Complement Subtraction Smaller from Larger Example",
+      "duration": 360
+    },
+    {
+      "id": "hi8N6e-FV7g",
+      "title": "1’s Complement Subtraction Larger to Smaller",
+      "duration": 385
+    },
+    {
+      "id": "xdtPh4SMBPU",
+      "title": "1’s Complement Subtraction Larger from Smaller Example",
+      "duration": 583
+    },
+    {
+      "id": "5svnIKl7jR8",
+      "title": "2’s Complement Subtraction Smaller from Larger",
+      "duration": 385
+    },
+    {
+      "id": "i291-8qMtYA",
+      "title": "2’s Complement Subtraction Smaller from Larger Example",
+      "duration": 359
+    },
+    {
+      "id": "aQ9Utww_ge0",
+      "title": "2’s Complement Subtraction Larger from Smaller",
+      "duration": 616
+    },
+    {
+      "id": "4-RLjQmUQjo",
+      "title": "2’s Complement Subtraction Previous GATE Problem",
+      "duration": 153
+    },
+    {
+      "id": "FFpoNHJtPxA",
+      "title": "Introduction to 15's and 16's Complement",
+      "duration": 467
+    },
+    {
+      "id": "-hMKJ9ngLX8",
+      "title": "Hexadecimal Addition",
+      "duration": 660
+    },
+    {
+      "id": "MZPSx7WjNDQ",
+      "title": "Hexadecimal Subtraction",
+      "duration": 300
+    },
+    {
+      "id": "YXJi28F7HTM",
+      "title": "15’s Complement Subtraction Smaller from Larger",
+      "duration": 345
+    },
+    {
+      "id": "5Yix-WDBlTU",
+      "title": "15’s Complement Subtraction Smaller from Larger Examples",
+      "duration": 385
+    },
+    {
+      "id": "rzE1ZoTdI6M",
+      "title": "15’s Complement Subtraction Larger from Smaller",
+      "duration": 370
+    },
+    {
+      "id": "j8c08fgCN94",
+      "title": "16’s Complement Subtraction Smaller from Larger",
+      "duration": 303
+    },
+    {
+      "id": "JQCeWOFivvw",
+      "title": "16’s Complement Subtraction Larger from Smaller",
+      "duration": 363
+    },
+    {
+      "id": "wDfj5m_Krwg",
+      "title": "15’s Complement and 16s Complement Subtraction Examples",
+      "duration": 786
+    },
+    {
+      "id": "VBM5XTvJSRQ",
+      "title": "Classification of Binary Codes",
+      "duration": 657
+    },
+    {
+      "id": "OqRkzN02M6E",
+      "title": "BCD Code (Binary Coded Decimal)",
+      "duration": 574
+    },
+    {
+      "id": "g6CdaNx9Jes",
+      "title": "BCD Addition",
+      "duration": 392
+    },
+    {
+      "id": "iMQyPYQ4YOw",
+      "title": "9s Complement and 10s Complement",
+      "duration": 299
+    },
+    {
+      "id": "4qTPRwjM_Zc",
+      "title": "BCD Subtraction using 9’s Complement",
+      "duration": 757
+    },
+    {
+      "id": "TTHT0x1dYmw",
+      "title": "BCD Subtraction using 9’s Complement Example",
+      "duration": 827
+    },
+    {
+      "id": "1HUY_LT7F_c",
+      "title": "BCD Subtraction using 10's Complement",
+      "duration": 594
+    },
+    {
+      "id": "b4Obkhf3cNk",
+      "title": "BCD Subtraction using 10's Complement Example",
+      "duration": 573
+    },
+    {
+      "id": "tjIWy9HfK_4",
+      "title": "Excess-3 Code",
+      "duration": 415
+    },
+    {
+      "id": "vYswo3-qHVI",
+      "title": "Excess 3 Addition",
+      "duration": 571
+    },
+    {
+      "id": "xhzSKyXjAnE",
+      "title": "Excess-3 Addition Example",
+      "duration": 489
+    },
+    {
+      "id": "Vsfg2ayPuLU",
+      "title": "Excess 3 Code Subtraction using 9s Complement",
+      "duration": 834
+    },
+    {
+      "id": "AD_hMx7wMPQ",
+      "title": "Excess-3 Subtraction using 9’s Complement Example",
+      "duration": 1035
+    },
+    {
+      "id": "j7zT1Sr4ZLw",
+      "title": "Excess-3 Subtraction using 10’s Complement",
+      "duration": 896
+    },
+    {
+      "id": "7v-fRqRu8uc",
+      "title": "Excess-3 Subtraction using 10’s Complement Example",
+      "duration": 958
+    },
+    {
+      "id": "AzyG_wL3qMY",
+      "title": "Gray Code & Conversion Binary to Gray",
+      "duration": 951
+    },
+    {
+      "id": "fxBEB8i7ToM",
+      "title": "Gray to Binary Conversion",
+      "duration": 308
+    },
+    {
+      "id": "EkQaR6B3FSs",
+      "title": "ASCII Code",
+      "duration": 511
+    },
+    {
+      "id": "zfMxkjOtCws",
+      "title": "Introduction to Logic Gates & Boolean Algebra",
+      "duration": 542
+    },
+    {
+      "id": "aWp8ILQgudI",
+      "title": "Introduction to Logic Gates",
+      "duration": 734
+    },
+    {
+      "id": "YnR-7GhqpyQ",
+      "title": "AND Gate",
+      "duration": 836
+    },
+    {
+      "id": "LfKTposIsdk",
+      "title": "OR Gate",
+      "duration": 896
+    },
+    {
+      "id": "B3ebn7GLZ5A",
+      "title": "NOT Gate",
+      "duration": 519
+    },
+    {
+      "id": "4tE_Nia8tcw",
+      "title": "NAND Gate",
+      "duration": 478
+    },
+    {
+      "id": "wII4NLZvYZM",
+      "title": "NOR Gate",
+      "duration": 581
+    },
+    {
+      "id": "jzzOC3rGGwA",
+      "title": "EX-OR Gate",
+      "duration": 750
+    },
+    {
+      "id": "Awn1zDyCtw8",
+      "title": "EX NOR Gate",
+      "duration": 513
+    },
+    {
+      "id": "Dip_WrcohZA",
+      "title": "Alternate Gate",
+      "duration": 705
+    },
+    {
+      "id": "moatqHyNyes",
+      "title": "Properties of EX-OR Gate",
+      "duration": 592
+    },
+    {
+      "id": "Bdw4rCm3eq8",
+      "title": "NAND Realization",
+      "duration": 537
+    },
+    {
+      "id": "MDSr0izEoSs",
+      "title": "NOR Realization",
+      "duration": 681
+    },
+    {
+      "id": "stizwoY51es",
+      "title": "X-OR Gate Example",
+      "duration": 372
+    },
+    {
+      "id": "eEnp4vTIqyA",
+      "title": "Logic Gates Example",
+      "duration": 353
+    },
+    {
+      "id": "LL_evVIcyTE",
+      "title": "Implement AND & NAND Gates",
+      "duration": 308
+    },
+    {
+      "id": "YGM3gkjmZfA",
+      "title": "Back Propagation Problem Example",
+      "duration": 349
+    },
+    {
+      "id": "oZkwl8nK5yc",
+      "title": "NAND Realization Example",
+      "duration": 683
+    },
+    {
+      "id": "2U71nZYb990",
+      "title": "Fundamentals of Boolean Algebra",
+      "duration": 674
+    },
+    {
+      "id": "MxNQpXyieWo",
+      "title": "Theorem's of Boolean Algebra",
+      "duration": 200
+    },
+    {
+      "id": "WueLiCbiU18",
+      "title": "Stuck-at-1 Fault in Logic Circuit",
+      "duration": 250
+    },
+    {
+      "id": "ditj-zHFxMs",
+      "title": "Dual of Boolean Expression",
+      "duration": 178
+    },
+    {
+      "id": "nhYH3Gtn3RE",
+      "title": "Properties of Boolean Algebra",
+      "duration": 476
+    },
+    {
+      "id": "Iaif36B1RDE",
+      "title": "Boolean Equation Representation Literal",
+      "duration": 282
+    },
+    {
+      "id": "U0WjEkylfPc",
+      "title": "Boolean Expression Representation in Sum of Products Form",
+      "duration": 181
+    },
+    {
+      "id": "7o8oo5m0vqQ",
+      "title": "Boolean Expression Representation in Product of Sum Form",
+      "duration": 186
+    },
+    {
+      "id": "smKUO7ZGxg4",
+      "title": "Boolean Expression Representation using Canonical Form",
+      "duration": 412
+    },
+    {
+      "id": "ckqO4lXsnF4",
+      "title": "Min-Terms and Max-Terms in Boolean Algebra",
+      "duration": 690
+    },
+    {
+      "id": "PKH2CzGxXx4",
+      "title": "Converting SOP to SSOP",
+      "duration": 447
+    },
+    {
+      "id": "HRrbH7GYlSY",
+      "title": "Converting POS to SPOS",
+      "duration": 504
+    },
+    {
+      "id": "mdBAb6IoN2g",
+      "title": "Converting SSOP to SPOS",
+      "duration": 516
+    },
+    {
+      "id": "QkF4iMK2XkA",
+      "title": "Logic Gates GATE Problem Example",
+      "duration": 325
+    },
+    {
+      "id": "R4QQ_SzhXvE",
+      "title": "Distributive Property GATE Problem Example",
+      "duration": 165
+    },
+    {
+      "id": "cXDgTx3R7Rk",
+      "title": "Propagation Delay & Example",
+      "duration": 281
+    },
+    {
+      "id": "mQONHAbapEU",
+      "title": "Propagation Delay GATE Problem Example",
+      "duration": 332
+    },
+    {
+      "id": "sO7IqfBSvqk",
+      "title": "Transposition Property GATE Problem Example",
+      "duration": 390
+    },
+    {
+      "id": "LFI4iS7E1wg",
+      "title": "Logic Gates using BASIC Propagation Method GATE Problem Example",
+      "duration": 302
+    },
+    {
+      "id": "wjM2RDG5yTI",
+      "title": "Karnaugh Map (K-Map)",
+      "duration": 801
+    },
+    {
+      "id": "eu5mqMepGuQ",
+      "title": "Rules for K-Map Simplification Part 1",
+      "duration": 672
+    },
+    {
+      "id": "w-ncl48AVTs",
+      "title": "Rules for K-Map Simplification Part 2",
+      "duration": 423
+    },
+    {
+      "id": "hOnHEXyKQa8",
+      "title": "K-Maps GATE Problem Example 1",
+      "duration": 473
+    },
+    {
+      "id": "cPvDKwRvZMw",
+      "title": "K-Maps GATE Problem Example 2",
+      "duration": 390
+    },
+    {
+      "id": "ewkhVRIzsN0",
+      "title": "Boolean Expression Solving using K-Map",
+      "duration": 529
+    },
+    {
+      "id": "BgakMTvIQlI",
+      "title": "Don’t care & Problem",
+      "duration": 326
+    },
+    {
+      "id": "BxDUhIU8c1A",
+      "title": "Boolean Expression using K-Map GATE Problem Example",
+      "duration": 587
+    },
+    {
+      "id": "tXpBQBpzdCk",
+      "title": "POS Expression using K-Map GATE Problem Example",
+      "duration": 594
+    },
+    {
+      "id": "slHQtAZ-Gw4",
+      "title": "K-Map & Logic Circuit Design GATE Problem Example",
+      "duration": 531
+    },
+    {
+      "id": "QT3cObbQNX0",
+      "title": "Expression Solving using Boolean Law",
+      "duration": 244
+    },
+    {
+      "id": "_yHo2qq82P0",
+      "title": "Introduction to Combinational Circuits",
+      "duration": 204
+    },
+    {
+      "id": "Pjw8t-bGSBo",
+      "title": "Designing Steps for a Combinational Circuit",
+      "duration": 666
+    },
+    {
+      "id": "8-QzdRZ9bjs",
+      "title": "Combinational Circuit Design GATE Problem Example",
+      "duration": 619
+    },
+    {
+      "id": "mXw8RTmd-7c",
+      "title": "Design of Half Adder",
+      "duration": 614
+    },
+    {
+      "id": "QyKIuJY4u8A",
+      "title": "Designing of Full Adder",
+      "duration": 1031
+    },
+    {
+      "id": "V9IaH4_LrQI",
+      "title": "Half Subtractor",
+      "duration": 517
+    },
+    {
+      "id": "caU4Gfa90uU",
+      "title": "Full Subtractor",
+      "duration": 823
+    },
+    {
+      "id": "DwoM9_Qq3r4",
+      "title": "N Bit Parallel Adder 4 Bit Parallel Adder",
+      "duration": 541
+    },
+    {
+      "id": "9R_lPPAwht0",
+      "title": "4-Bit Parallel Adder cum Subtractor",
+      "duration": 366
+    },
+    {
+      "id": "FSFNefbKckM",
+      "title": "Designing of Full Adder using Half Adder",
+      "duration": 429
+    },
+    {
+      "id": "rcaLtlLsRaw",
+      "title": "Carry Generation in Carry Look Ahead Adder",
+      "duration": 687
+    },
+    {
+      "id": "_bJ53XErKY8",
+      "title": "Carry Look Ahead Adder",
+      "duration": 1008
+    },
+    {
+      "id": "wLHFJEQWEng",
+      "title": "BCD Adder",
+      "duration": 893
+    },
+    {
+      "id": "WpDWVGewPAg",
+      "title": "Excess-3 Adder",
+      "duration": 575
+    },
+    {
+      "id": "hoSrJv47RaI",
+      "title": "Comparators Part 1",
+      "duration": 613
+    },
+    {
+      "id": "5QAHUV1dmfc",
+      "title": "Comparators Part 2",
+      "duration": 1041
+    },
+    {
+      "id": "yrFm_EuDy50",
+      "title": "Binary to Gray Code Converter",
+      "duration": 693
+    },
+    {
+      "id": "2bcWI9zCMj4",
+      "title": "Code converter Binary to BCD",
+      "duration": 1217
+    },
+    {
+      "id": "kJa5uOYKMqc",
+      "title": "Parity Bit & Check Bit",
+      "duration": 304
+    },
+    {
+      "id": "jI1UIGlf4Gs",
+      "title": "Odd Parity Generator",
+      "duration": 831
+    },
+    {
+      "id": "d2Ctri06E_A",
+      "title": "Even Parity Generator",
+      "duration": 755
+    },
+    {
+      "id": "iir1ahUmSGc",
+      "title": "2 to 4 Decoder Design",
+      "duration": 570
+    },
+    {
+      "id": "AFBoQ0zSdTI",
+      "title": "3 to 8 Decoder Design",
+      "duration": 757
+    },
+    {
+      "id": "oRIKoCm1eA8",
+      "title": "Multiplexer (MUX) 2 X 1MUX Design",
+      "duration": 565
+    },
+    {
+      "id": "OJzX4kfzS7Y",
+      "title": "MUX Problem Part-1",
+      "duration": 434
+    },
+    {
+      "id": "onc87C6_pyc",
+      "title": "MUX Problem Part-2",
+      "duration": 758
+    },
+    {
+      "id": "omcEL_Gummg",
+      "title": "4X1 MUX",
+      "duration": 617
+    },
+    {
+      "id": "wwiXGj3opO8",
+      "title": "MUX GATE problem Example part 1",
+      "duration": 307
+    },
+    {
+      "id": "tHYGJ3z7Qsk",
+      "title": "MUX GATE problem Example part 2",
+      "duration": 352
+    },
+    {
+      "id": "Fz14WKq78aM",
+      "title": "MUX GATE problem Example part 3",
+      "duration": 322
+    },
+    {
+      "id": "kAezzdEGJ8A",
+      "title": "Introduction of Hamming Code",
+      "duration": 363
+    },
+    {
+      "id": "UY0VpqyJ3U4",
+      "title": "Hamming Code Generation with an Example",
+      "duration": 693
+    },
+    {
+      "id": "hQzFRLKPsbU",
+      "title": "Hamming Code Generation Example with Even Parity",
+      "duration": 484
+    },
+    {
+      "id": "7MFAvMFLLfU",
+      "title": "Hamming Code Generation Example with Odd Parity",
+      "duration": 413
+    },
+    {
+      "id": "V5UPzZNg8Hk",
+      "title": "Error Correction in Hamming Code",
+      "duration": 335
+    },
+    {
+      "id": "N8Yy0-4YMS4",
+      "title": "Error Detection and Correction in Hamming Code",
+      "duration": 398
+    },
+    {
+      "id": "Mt3AToASuFo",
+      "title": "Introduction to Sequential Circuits",
+      "duration": 251
+    },
+    {
+      "id": "nZNEgSN9_mM",
+      "title": "S-R Latch using NOR gates",
+      "duration": 1114
+    },
+    {
+      "id": "aldxBo3XXUU",
+      "title": "S-R Latch with NAND Gates",
+      "duration": 748
+    },
+    {
+      "id": "tSti91b6qec",
+      "title": "S-R Flip Flop",
+      "duration": 747
+    },
+    {
+      "id": "WE2wbOAVzdo",
+      "title": "Equation for S-R Flip Flop",
+      "duration": 543
+    },
+    {
+      "id": "kQ9WICIFWnU",
+      "title": "D Flip Flop",
+      "duration": 720
+    },
+    {
+      "id": "V_JJ_YrPU6Q",
+      "title": "J-K Flip Flop",
+      "duration": 814
+    },
+    {
+      "id": "wK5qJGI8qBA",
+      "title": "T Flip Flop",
+      "duration": 632
+    },
+    {
+      "id": "xQgLFK0Jv2g",
+      "title": "Equation for J-K Flip Flop",
+      "duration": 669
+    },
+    {
+      "id": "JiAWddZebGg",
+      "title": "Race Around Condition in J-K Flip Flop",
+      "duration": 436
+    },
+    {
+      "id": "utjjhrLIkX4",
+      "title": "Excitation Table for S-R Flip Flop",
+      "duration": 772
+    },
+    {
+      "id": "xxlqLOiY53o",
+      "title": "Excitation Table for D Flip Flop",
+      "duration": 387
+    },
+    {
+      "id": "nrZWlj23y6I",
+      "title": "Excitation Table for J-K Flip Flop",
+      "duration": 642
+    },
+    {
+      "id": "ARrPYqyvXnM",
+      "title": "Excitation Table for T Flip Flop",
+      "duration": 350
+    },
+    {
+      "id": "JvC-434_T5E",
+      "title": "Flip-Flop Conversion Process Steps",
+      "duration": 333
+    },
+    {
+      "id": "kONcPe1iMoc",
+      "title": "S-R to D Flip Flop Conversion",
+      "duration": 766
+    },
+    {
+      "id": "MhaprPWRLAw",
+      "title": "S-R to J-K Flip Flop Conversion",
+      "duration": 918
+    },
+    {
+      "id": "Q07DvdHUkFk",
+      "title": "S-R to T Flip Flop Conversion",
+      "duration": 646
+    },
+    {
+      "id": "2-MUleomiJE",
+      "title": "J-K to T Flip Flop Conversion",
+      "duration": 703
+    },
+    {
+      "id": "3aiWYwv75dg",
+      "title": "J-K to D Flip Flop conversion",
+      "duration": 896
+    },
+    {
+      "id": "wjQYjPDMrsY",
+      "title": "T to D Flip Flop Conversion",
+      "duration": 583
+    },
+    {
+      "id": "YdRfP0hnk98",
+      "title": "D to T Flip-Flop Conversion",
+      "duration": 500
+    },
+    {
+      "id": "RTc6vhpIVDY",
+      "title": "Propagation Delay",
+      "duration": 371
+    },
+    {
+      "id": "S-I-_1ApMF8",
+      "title": "Flip-Flop Conversion GATE Problem Example",
+      "duration": 275
+    },
+    {
+      "id": "P585_4KC4IA",
+      "title": "Race Around Condition GATE Problem Example",
+      "duration": 263
+    },
+    {
+      "id": "s5654I794ks",
+      "title": "Applications of Flip-Flop",
+      "duration": 334
+    },
+    {
+      "id": "uc2BjBHAiNA",
+      "title": "Universal Shift Register",
+      "duration": 756
+    },
+    {
+      "id": "vRBnZMJA0LY",
+      "title": "Serial in Parallel out Shift Register",
+      "duration": 749
+    },
+    {
+      "id": "Ut2SjYuVBM0",
+      "title": "Serial in Serial out Shift Register",
+      "duration": 456
+    },
+    {
+      "id": "VwQHsKh8Bn4",
+      "title": "Shift Register Problem Example 1",
+      "duration": 382
+    },
+    {
+      "id": "S8CbVwVIk70",
+      "title": "Shift Register Problem Example 2",
+      "duration": 271
+    },
+    {
+      "id": "32v8s0R0qIk",
+      "title": "Introduction of Counter",
+      "duration": 534
+    },
+    {
+      "id": "iHT-Jcgq2X0",
+      "title": "Introduction of Asynchronous Counter",
+      "duration": 526
+    },
+    {
+      "id": "eiIV28LSQnM",
+      "title": "Ripple Up Counter",
+      "duration": 828
+    },
+    {
+      "id": "uLGmK6NQInE",
+      "title": "Ripple Down Counter",
+      "duration": 766
+    },
+    {
+      "id": "Pvty_1r-tI8",
+      "title": "Synchronous Counter",
+      "duration": 748
+    },
+    {
+      "id": "EAhtV0H6z0Y",
+      "title": "Ring Counter or Shift Register Counter",
+      "duration": 506
+    },
+    {
+      "id": "SXbXnfgY6jk",
+      "title": "Twisted Ring Counter or Johnson’s Counter",
+      "duration": 792
+    },
+    {
+      "id": "A8j-BDvKZDA",
+      "title": "Johnson’s Counter GATE Problem Example",
+      "duration": 412
+    },
+    {
+      "id": "PFp3fcBH734",
+      "title": "Ripple Counter Problem Example",
+      "duration": 438
+    },
+    {
+      "id": "j88f_358I6U",
+      "title": "Synchronous Counters GATE Problem Example",
+      "duration": 570
+    },
+    {
+      "id": "um3TyjwAXL4",
+      "title": "Modulus of Counter",
+      "duration": 155
+    },
+    {
+      "id": "3gtxUmsGrl4",
+      "title": "Counters Problem Example 1",
+      "duration": 434
+    },
+    {
+      "id": "b4dRAmAoAls",
+      "title": "Counters Problem Example 2",
+      "duration": 291
+    },
+    {
+      "id": "aJlAxBAwzvg",
+      "title": "Asynchronous & Direct Inputs",
+      "duration": 586
+    },
+    {
+      "id": "6DR4qYMY7xc",
+      "title": "MOD 3 Asynchronous Counter",
+      "duration": 841
+    },
+    {
+      "id": "kbZxoKR0FY4",
+      "title": "MOD 12 Counter",
+      "duration": 1183
+    },
+    {
+      "id": "OwS9fA1BZ3U",
+      "title": "MOD Counter Example",
+      "duration": 347
+    },
+    {
+      "id": "nb11AipMJd4",
+      "title": "Introduction to Logic Families",
+      "duration": 379
+    },
+    {
+      "id": "9Rt7iuqSVJ8",
+      "title": "Characteristics of Logic Families",
+      "duration": 694
+    },
+    {
+      "id": "Jar8gw7oyGQ",
+      "title": "Resistor Transistor Logic (RTL)",
+      "duration": 577
+    },
+    {
+      "id": "bJVKGBV7KDY",
+      "title": "Direct Coupled Transistor Logic",
+      "duration": 409
+    },
+    {
+      "id": "eUUoBtJAmVI",
+      "title": "Diode Transistor Logic NAND Gate",
+      "duration": 866
+    },
+    {
+      "id": "XopoRmASU_k",
+      "title": "Diode Transistor Logic NOR Gate",
+      "duration": 447
+    },
+    {
+      "id": "sW1FEm2yNnA",
+      "title": "Transistor Transistor Logic",
+      "duration": 514
+    },
+    {
+      "id": "Oj56f-cXPlw",
+      "title": "Versions in Transistor Transistor Logic",
+      "duration": 205
+    },
+    {
+      "id": "vFDoRVTQII8",
+      "title": "PMOS & NMOS Inverter",
+      "duration": 439
+    },
+    {
+      "id": "6jLd02O8uo8",
+      "title": "CMOS Inverter",
+      "duration": 295
+    },
+    {
+      "id": "vW4uYKWiv3U",
+      "title": "PMOS NAND Gate",
+      "duration": 428
+    },
+    {
+      "id": "bAjV6J_ZWuY",
+      "title": "PMOS NOR Gate",
+      "duration": 359
+    },
+    {
+      "id": "ZxjhBr2S5do",
+      "title": "Designing of Universal Gates using NMOS",
+      "duration": 577
+    },
+    {
+      "id": "orNRyYhOtG8",
+      "title": "CMOS NAND Gate",
+      "duration": 482
+    },
+    {
+      "id": "601dZ7NYJf4",
+      "title": "CMOS NOR Gate",
+      "duration": 542
+    },
+    {
+      "id": "bj4oiFUoYAs",
+      "title": "Comparision of Logic Families",
+      "duration": 406
+    },
+    {
+      "id": "1G7TCcgVuiQ",
+      "title": "Semi Conductor Memories",
+      "duration": 354
+    },
+    {
+      "id": "BNdsJ08RhwQ",
+      "title": "ROM (Non Volatile)",
+      "duration": 646
+    },
+    {
+      "id": "CyQoiZjR_Wk",
+      "title": "RAM (Volatile)",
+      "duration": 346
+    },
+    {
+      "id": "r8x0MZWr9iU",
+      "title": "Difference Between SRAM & DRAM",
+      "duration": 247
+    },
+    {
+      "id": "QrGBpGYc5Rg",
+      "title": "Introduction to Data Converters",
+      "duration": 197
+    },
+    {
+      "id": "jDn1eXijQdY",
+      "title": "Binary Weighted Resistor DAC",
+      "duration": 748
+    },
+    {
+      "id": "nDjcJNThnbQ",
+      "title": "R-2R Ladder DAC (Voltage Switched)",
+      "duration": 1369
+    },
+    {
+      "id": "q6WVxBs82IQ",
+      "title": "R-2R Ladder DAC (Current Switched)",
+      "duration": 714
+    },
+    {
+      "id": "ktn7w8yv4Tg",
+      "title": "Counter type ADC",
+      "duration": 545
+    },
+    {
+      "id": "2CflTZXE9_Q",
+      "title": "Successive Approximation type ADC",
+      "duration": 951
+    },
+    {
+      "id": "A9NinZYWyo8",
+      "title": "Flash Parallel type ADC",
+      "duration": 499
+    },
+    {
+      "id": "K07T1dSnwxY",
+      "title": "Dual Slope or Integrating type ADC",
+      "duration": 466
+    },
+    {
+      "id": "isJv56sOMjc",
+      "title": "Sigma Delta ADC",
+      "duration": 737
+    },
+    {
+      "id": "6p1MjDgi3Rk",
+      "title": "ADC Problem Example",
+      "duration": 430
+    },
+    {
+      "id": "F7q_5FDO9MI",
+      "title": "Resolution of DAC",
+      "duration": 330
+    },
+    {
+      "id": "DxIb6djxJNM",
+      "title": "ADC GATE Model Example 1",
+      "duration": 302
+    },
+    {
+      "id": "UTQfd5u1J4s",
+      "title": "ADC GATE Model Example 2",
+      "duration": 222
+    },
+    {
+      "id": "xanPStsRgcc",
+      "title": "Flash ADC GATE Model Example",
+      "duration": 327
+    },
+    {
+      "id": "NpxqoD9NZ1g",
+      "title": "Resolution of DAC GATE Model Example",
+      "duration": 284
+    }
+  ]
+}

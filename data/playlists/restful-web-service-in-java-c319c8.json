@@ -1,0 +1,145 @@
+{
+  "courseId": "restful-web-service-in-java-c319c8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7oz8yL16PqO1sy9sxdlTuI1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:55.940Z",
+  "title": "RestFul Web Service in Java",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "Qw23--Avew4",
+      "title": "Introduction to REST Web service part 1 by Majrul Ansari",
+      "duration": 409
+    },
+    {
+      "id": "beqaLEvF5Cs",
+      "title": "Introduction to REST Web Service part 2 | What REST Means?",
+      "duration": 433
+    },
+    {
+      "id": "lacJpg6H0yU",
+      "title": "Introduction to REST Web Service part 3 by Majrul Ansari",
+      "duration": 500
+    },
+    {
+      "id": "ardNq12nnQA",
+      "title": "Introduction to REST Webservice part 4 by Majrul Ansari",
+      "duration": 229
+    },
+    {
+      "id": "qCMRZJa5CRE",
+      "title": "Introduction to REST Webservice part 5 | HATEOAS by Majrul Ansari",
+      "duration": 341
+    },
+    {
+      "id": "E05zaMRX8oI",
+      "title": "Introduction to Rest Web Service Tutorial Practical by Majrul Ansari",
+      "duration": 671
+    },
+    {
+      "id": "TERMdBN4FxA",
+      "title": "#0 Restful Web Services Tutorial | Introduction",
+      "duration": 268
+    },
+    {
+      "id": "DWPN45AJA3k",
+      "title": "#1 Restful Web Services Tutorial | Creating a Jersey Project in Eclipse",
+      "duration": 527
+    },
+    {
+      "id": "Segb1V9ygiA",
+      "title": "#2 Restful Web Services Tutorial | Running our First Rest Jersey Application",
+      "duration": 522
+    },
+    {
+      "id": "stW0gyeMgDI",
+      "title": "#3 Restful Web Services Tutorial | How to create a Resource Class",
+      "duration": 641
+    },
+    {
+      "id": "sXfWz_v08uI",
+      "title": "#4 Restful Web Services Tutorial | List as Resource",
+      "duration": 218
+    },
+    {
+      "id": "tfzQXYIVzfk",
+      "title": "#5 Restful Web Services Tutorial | Mock Repository",
+      "duration": 608
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "ennnQ664Fsk",
+      "title": "#6 Restful Web Services Tutorial | Creating a Resource",
+      "duration": 370
+    },
+    {
+      "id": "pCcchG73ADM",
+      "title": "#7 Restful Web Services Tutorial | How to install Postman",
+      "duration": 281
+    },
+    {
+      "id": "IFd7KvxROfo",
+      "title": "#8 Restful Web Services Tutorial | Send a Post Request",
+      "duration": 285
+    },
+    {
+      "id": "Oti-1n55LXw",
+      "title": "#9 Restful Web Services Tutorial | PathParam",
+      "duration": 483
+    },
+    {
+      "id": "6nQXlfjWmp0",
+      "title": "#10 Restful Web Services Tutorial | Working with JSON",
+      "duration": 328
+    },
+    {
+      "id": "QwxxvVSQhSs",
+      "title": "#11 Restful Web Services Tutorial | Mysql Repository part 1",
+      "duration": 532
+    },
+    {
+      "id": "sT2Y9WZP8wI",
+      "title": "#12 Restful Web Services Tutorial | Mysql Repository part 2",
+      "duration": 521
+    },
+    {
+      "id": "m2huKyOZABA",
+      "title": "#13 Restful Web Services Tutorial | Consumes JSON and XML",
+      "duration": 342
+    },
+    {
+      "id": "5Hn2yc2HWtY",
+      "title": "#14  RESTful Web Services | Update Resource using PUT method",
+      "duration": 640
+    },
+    {
+      "id": "lBaYoGJmI5s",
+      "title": "#15 RESTful Web Services | Delete Resource",
+      "duration": 359
+    },
+    {
+      "id": "Q2H1fLeR8oE",
+      "title": "#16 RESTful Web Services |  Recap",
+      "duration": 465
+    },
+    {
+      "id": "zjhWPRXfGJ0",
+      "title": "#17 RESTful Web Services | Spring Rest | Spring Boot Example",
+      "duration": 745
+    },
+    {
+      "id": "moj78gBA9_o",
+      "title": "#18 RESTful Web Services |  Spring JPA | REST",
+      "duration": 686
+    },
+    {
+      "id": "vlz9ina4Usk",
+      "title": "Spring Boot Project for Beginners",
+      "duration": 6100
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "courseId": "angularjs-tutorials-646692",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:20.677Z",
+  "title": "AngularJS Tutorials",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "FlUCU13dJyo",
+      "title": "AngularJS Tutorial #1 - Introduction to AngularJS",
+      "duration": 445
+    },
+    {
+      "id": "CQE1cBsJ_Gk",
+      "title": "AngularJS Tutorial #2 - MVC Architecture",
+      "duration": 248
+    },
+    {
+      "id": "FlbtIHcGnPE",
+      "title": "AngularJS Tutorial #3 - Downloading AngularJS",
+      "duration": 260
+    },
+    {
+      "id": "GLdRo9CQVHA",
+      "title": "AngularJS Tutorial #4 - 2-Way Data Binding",
+      "duration": 405
+    },
+    {
+      "id": "Wm1Zj_VLbpk",
+      "title": "AngularJS Tutorial #5 - Introduction to Directives",
+      "duration": 223
+    },
+    {
+      "id": "xB-OkaRilZo",
+      "title": "AngularJS Tutorial #6 - Expressions",
+      "duration": 383
+    },
+    {
+      "id": "oRGRpjU_duw",
+      "title": "AngularJS Tutorial #7 -  ng-repeat directive",
+      "duration": 265
+    },
+    {
+      "id": "ybnw5JwBk8g",
+      "title": "AngularJS Tutorial #8 - Modules",
+      "duration": 314
+    },
+    {
+      "id": "QAUjWaQrY4A",
+      "title": "AngularJS Tutorial #9 - Controllers",
+      "duration": 534
+    },
+    {
+      "id": "OCbJ12rJwnE",
+      "title": "AngularJS Tutorial #10 - Filters",
+      "duration": 494
+    },
+    {
+      "id": "S-uYRHtXxgk",
+      "title": "AngularJS Tutorial #11 - ng-include directive",
+      "duration": 359
+    },
+    {
+      "id": "kSSQYgQ6aEY",
+      "title": "AngularJS Tutorial #12 - ng-show directive",
+      "duration": 319
+    },
+    {
+      "id": "e6YjzckfQpg",
+      "title": "AngularJS Tutorial #13 - ng-click directive",
+      "duration": 700
+    },
+    {
+      "id": "OL8JIQEPSt0",
+      "title": "AngularJS Tutorial #14 - ng-submit directive",
+      "duration": 557
+    },
+    {
+      "id": "HR2MuTRuoIE",
+      "title": "AngularJS Tutorial #15 - ng-src directive",
+      "duration": 334
+    },
+    {
+      "id": "y7FojM9BTdE",
+      "title": "AngularJS Tutorial #16 - Views and Routes",
+      "duration": 749
+    },
+    {
+      "id": "5SXog1helAY",
+      "title": "AngularJS Tutorial #17- JSON and $http",
+      "duration": 434
+    },
+    {
+      "id": "R_okHflzgm0",
+      "title": "AngularJS Tutorial #18 - Custom Directives",
+      "duration": 1063
+    },
+    {
+      "id": "SmFjEyd1iNU",
+      "title": "AngularJS Tutorial #19 - Transclude & Replace",
+      "duration": 387
+    },
+    {
+      "id": "r5g5foLA0UI",
+      "title": "AngularJS Tutorial #20 - Animations (part 1)",
+      "duration": 812
+    },
+    {
+      "id": "iWS7z7ur8Ls",
+      "title": "AngularJS Tutorial #21 - Animations (part 2)",
+      "duration": 293
+    },
+    {
+      "id": "GkjaFQAhM7o",
+      "title": "AngularJS Tutorial #22 - Form Validation (part 1)",
+      "duration": 747
+    },
+    {
+      "id": "jHhtaJAdYv8",
+      "title": "AngularJS Tutorial #23 - Form Validation (part 2)",
+      "duration": 606
+    },
+    {
+      "id": "NUBooHYKOeY",
+      "title": "AngularJS Tutorial #24 - Location Service",
+      "duration": 386
+    },
+    {
+      "id": "XiVtu58xVJY",
+      "title": "AngularJS Tutorial #25 - Pretty URL's",
+      "duration": 482
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "courseId": "chef-tutorial-291c3e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:19.892Z",
+  "title": "CHEF Tutorial",
+  "channel": "Online Tutorials",
+  "videos": [
+    {
+      "id": "4aaK2rzzOLc",
+      "title": "Master in Chef Devops | Chef Automation Tutorials | Chef setup on Vagrant",
+      "duration": 1788
+    },
+    {
+      "id": "wY6xg7CI5Xw",
+      "title": "Chef Cookbook Recipe Tutorial for beginners",
+      "duration": 1590
+    },
+    {
+      "id": "_t-bf76LGko",
+      "title": "Chef Resources Recipe Tutorial",
+      "duration": 2489
+    },
+    {
+      "id": "ol_rw5QQ3bA",
+      "title": "Chef Supermarket Tutorial | Chef Tutorial",
+      "duration": 2866
+    },
+    {
+      "id": "93FGdlje_S4",
+      "title": "Chef Cookbooks Solo Knife EC2 Tutorial",
+      "duration": 4331
+    },
+    {
+      "id": "V_qbbBHRXw0",
+      "title": "chef recipes inclusion tutorial |  chef data bags tutorial",
+      "duration": 1680
+    },
+    {
+      "id": "PhW5DYzVujE",
+      "title": "Master in Devops Chef | Devops Chef | Getting started with Chef",
+      "duration": 3550
+    },
+    {
+      "id": "JwjBZkxjaxE",
+      "title": "Chef setup | Chef installation on AWS | Chef Tutorial for beginners",
+      "duration": 2939
+    },
+    {
+      "id": "dn1Ay4wUWIE",
+      "title": "Chef cook books and recipes | chef cookbook tutorial",
+      "duration": 3033
+    },
+    {
+      "id": "6LxgMMjTHZc",
+      "title": "Nginx Installation using Chef Cookbook  | Chef Tutorial",
+      "duration": 3562
+    },
+    {
+      "id": "WYtDeqxbTT4",
+      "title": "Chef Attributes Tutorial | Chef Tutorial for Beginners",
+      "duration": 3898
+    },
+    {
+      "id": "mTso3Kzh9uU",
+      "title": "Chef Kitchen | Kitchen Converge | Chef Tutorial for beginners",
+      "duration": 3442
+    },
+    {
+      "id": "uVB19OnOfFw",
+      "title": "Apache Tomcat Setup using Chef -1",
+      "duration": 2177
+    },
+    {
+      "id": "u6-f2Cn7tVA",
+      "title": "Chef Supermarket Tutorial | Chef Tutorial for beginners",
+      "duration": 3096
+    },
+    {
+      "id": "eSIC-IdjOzI",
+      "title": "Chef Roles Tutorial | Chef Tutorial for beginners",
+      "duration": 2762
+    },
+    {
+      "id": "d-yW3dCFLi8",
+      "title": "Chef Installation and Configuration in AWS EC2",
+      "duration": 1501
+    },
+    {
+      "id": "tSYbXx8Iscs",
+      "title": "Chef databags | chef lite weight resource provider",
+      "duration": 3268
+    },
+    {
+      "id": "N_BLpztHRfk",
+      "title": "Chef Automation Tutorials | Configuration Management",
+      "duration": 1621
+    },
+    {
+      "id": "AcFJ8mpClsE",
+      "title": "Master In Devops Chef | Working with Chef knife bootstrap",
+      "duration": 3544
+    },
+    {
+      "id": "9I6yhmblb6Q",
+      "title": "Master in Devops Chef | Ruby basics for working with Chef Cookbooks",
+      "duration": 6743
+    },
+    {
+      "id": "QcZi51LpWQs",
+      "title": "Master in Devops Chef | Chef Cookbooks | Chef Attributes | Chef Test kitchen",
+      "duration": 3107
+    },
+    {
+      "id": "KFgNKmtwieI",
+      "title": "Master in Devops Chef | Chef bootstrap Windows Instance",
+      "duration": 3123
+    },
+    {
+      "id": "vfsmBZuYs4s",
+      "title": "Master in Devops Chef | Chef databags | chef lite weight resource provider",
+      "duration": 3055
+    },
+    {
+      "id": "R9TOHbcItkw",
+      "title": "Master in Devops Chef | Chef Supermarket Tutorial",
+      "duration": 3055
+    },
+    {
+      "id": "9prtsw8YDV4",
+      "title": "Master in Devops Chef | Chef Test kitchen on AWS Ec2",
+      "duration": 3553
+    },
+    {
+      "id": "_DWjLcOd4io",
+      "title": "Master in Devops Chef | Chef Cookbooks Solo Knife EC2 Tutorial",
+      "duration": 6404
+    },
+    {
+      "id": "LmmDggt1mHM",
+      "title": "Master in Devops Chef | Lamp stack setup on AWS using Chef | chef roles and Environments",
+      "duration": 7254
+    },
+    {
+      "id": "n57Byd9qo5Q",
+      "title": "Master in Devops Chef | Chef Kitchen Converge Tutorial",
+      "duration": 3320
+    },
+    {
+      "id": "SFzKuePIsto",
+      "title": "Apache Tomcat setup using Chef -2",
+      "duration": 2325
+    },
+    {
+      "id": "g7USPVLuFHk",
+      "title": "Apache Web server setup using CHEF with Real time scenarios",
+      "duration": 3395
+    },
+    {
+      "id": "EhPTViWtOH8",
+      "title": "Chef workstation and chef nodes",
+      "duration": 2170
+    }
+  ]
+}

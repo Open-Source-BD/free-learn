@@ -1,0 +1,70 @@
+{
+  "courseId": "functional-programming-in-javascript-363b7d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:16.392Z",
+  "title": "Functional programming in JavaScript",
+  "channel": "Fun Fun Function",
+  "videos": [
+    {
+      "id": "BMUiFMZr7vk",
+      "title": "Higher-order functions - Part 1 of Functional Programming in JavaScript",
+      "duration": 649
+    },
+    {
+      "id": "bCqtb-Z5YGQ",
+      "title": "Map - Part 2 of Functional Programming in JavaScript",
+      "duration": 548
+    },
+    {
+      "id": "Wl98eZpkp-c",
+      "title": "Reduce basics - Part 3 of Functional Programming in JavaScript",
+      "duration": 579
+    },
+    {
+      "id": "1DMolJ2FrNY",
+      "title": "Reduce Advanced - Part 4 of Functional Programming in JavaScript",
+      "duration": 803
+    },
+    {
+      "id": "CQqwU2Ixu-U",
+      "title": "Closures - Part 5 of Functional Programming in JavaScript",
+      "duration": 424
+    },
+    {
+      "id": "iZLP4qOwY8I",
+      "title": "Currying - Part 6 of Functional Programming in JavaScript",
+      "duration": 528
+    },
+    {
+      "id": "k7-N8R0-KY4",
+      "title": "Recursion - Part 7 of Functional Programming in JavaScript",
+      "duration": 944
+    },
+    {
+      "id": "2d7s3spWAzo",
+      "title": "Promises - Part 8 of Functional Programming in JavaScript",
+      "duration": 1016
+    },
+    {
+      "id": "YLIH8TKbAh4",
+      "title": "Functors - FunFunFunction #10",
+      "duration": 559
+    },
+    {
+      "id": "DisD9ftUyCk",
+      "title": "Functors: I was WRONG! - FunFunFunction #11",
+      "duration": 699
+    },
+    {
+      "id": "UD2dZw9iHCc",
+      "title": "Streams - FunFunFunction #13",
+      "duration": 953
+    },
+    {
+      "id": "9QveBbn7t_c",
+      "title": "Monad - FunFunFunction #21",
+      "duration": 685
+    }
+  ]
+}

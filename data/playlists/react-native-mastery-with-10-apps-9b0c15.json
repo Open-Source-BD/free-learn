@@ -1,0 +1,300 @@
+{
+  "courseId": "react-native-mastery-with-10-apps-9b0c15",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:20.907Z",
+  "title": "React Native Mastery with 10 apps",
+  "channel": "Hitesh Choudhary",
+  "videos": [
+    {
+      "id": "kGtEax1WQFg",
+      "title": "React Native Mastery: Develop 10 Apps with Confidence",
+      "duration": 298
+    },
+    {
+      "id": "XV5LwKuk3zc",
+      "title": "The Ultimate React Native Installation Guide: Prerequisites and Setup",
+      "duration": 681
+    },
+    {
+      "id": "8l691BQ-RGc",
+      "title": "React native windows installation",
+      "duration": 1214
+    },
+    {
+      "id": "TXWYrnl6dZI",
+      "title": "React Native 101: Building Your First App and Troubleshooting Common Issues",
+      "duration": 740
+    },
+    {
+      "id": "PjmAVh4Syvk",
+      "title": "React Native File Structure: Best Practices and Tips",
+      "duration": 843
+    },
+    {
+      "id": "CZrJpEn6b4I",
+      "title": "Rewrite React Native App",
+      "duration": 734
+    },
+    {
+      "id": "9yhlhKX7ZYM",
+      "title": "Styling React Native Components: The Fundamentals of Stylesheet",
+      "duration": 1071
+    },
+    {
+      "id": "6BlFPa_MGNg",
+      "title": "Dynamic Theming in React Native: A Guide to Hooks",
+      "duration": 329
+    },
+    {
+      "id": "XfREwe2sUGs",
+      "title": "Summary of Project 1 and open source contribution | React Native",
+      "duration": 329
+    },
+    {
+      "id": "pbvC119ZRDw",
+      "title": "React Native Project 2",
+      "duration": 261
+    },
+    {
+      "id": "hg_cpUnBkBc",
+      "title": "Organizing Your React Native Project with Multi-File Components",
+      "duration": 442
+    },
+    {
+      "id": "MJ7P1JUyuFA",
+      "title": "React Native Flexbox Explained: How to Create Powerful UI",
+      "duration": 1035
+    },
+    {
+      "id": "cdP210MwnLw",
+      "title": "React Native Horizontal Scroll: A Complete Overview of Properties and Usage",
+      "duration": 884
+    },
+    {
+      "id": "txSxteRjpYw",
+      "title": "A Beginner's Guide to Images in React Native",
+      "duration": 768
+    },
+    {
+      "id": "RpBOw56rp1I",
+      "title": "Styling Cards in React Native",
+      "duration": 740
+    },
+    {
+      "id": "eL5qYJ7y68k",
+      "title": "DeepLinking and Touchable Opacity in React Native",
+      "duration": 982
+    },
+    {
+      "id": "QpTPQmBsOyI",
+      "title": "Making beautiful buttons in react native",
+      "duration": 790
+    },
+    {
+      "id": "UJLphDsGzCQ",
+      "title": "Iteration UI in react native",
+      "duration": 833
+    },
+    {
+      "id": "VxLl6XmS__E",
+      "title": "WhatsApp chat style design in React Native",
+      "duration": 522
+    },
+    {
+      "id": "inriP3Vj2wo",
+      "title": "Project 3 | Password Generator in react Native",
+      "duration": 309
+    },
+    {
+      "id": "86EO42D6s7E",
+      "title": "Yup schema validation in react native",
+      "duration": 541
+    },
+    {
+      "id": "ORSHG3dfUrk",
+      "title": "UseState in React Native",
+      "duration": 503
+    },
+    {
+      "id": "dGkA5u7f1YM",
+      "title": "Logic to generate password React Native",
+      "duration": 328
+    },
+    {
+      "id": "Ffia32q_umY",
+      "title": "How to reset state in React Native",
+      "duration": 460
+    },
+    {
+      "id": "molTIg-zvGI",
+      "title": "Formik React Native Crash Course",
+      "duration": 2216
+    },
+    {
+      "id": "BayDYRigP5I",
+      "title": "Debugging React Native Apps",
+      "duration": 257
+    },
+    {
+      "id": "mJomfTfOJUQ",
+      "title": "Let's build a react native app with debugging in 1 shot | Project 4",
+      "duration": 1723
+    },
+    {
+      "id": "9ZkiY373CHk",
+      "title": "React Native Project 5 | Haptic feedback and Images",
+      "duration": 307
+    },
+    {
+      "id": "zI69kpGoFRI",
+      "title": "How to handle Images in React Native",
+      "duration": 1089
+    },
+    {
+      "id": "NM2-naJ2zDU",
+      "title": "Rolling the dice in React Native",
+      "duration": 592
+    },
+    {
+      "id": "bIJASPiSKS4",
+      "title": "Handling errors in Haptic Feedback in React Native",
+      "duration": 650
+    },
+    {
+      "id": "5Qlep9sKuX4",
+      "title": "Project 6 | What next to build in React Native",
+      "duration": 169
+    },
+    {
+      "id": "c9UNoNqwKTQ",
+      "title": "Currency type and button component",
+      "duration": 787
+    },
+    {
+      "id": "rm4x_SwgA28",
+      "title": "Introduction to flatlist in React native",
+      "duration": 927
+    },
+    {
+      "id": "a0PRdbFBgY8",
+      "title": "Implementing FlatList in React Native",
+      "duration": 1008
+    },
+    {
+      "id": "ZpXB6DkScac",
+      "title": "Project 7 in React Native | TicTacToe app",
+      "duration": 160
+    },
+    {
+      "id": "ShIND2eR1Z0",
+      "title": "FontAwesome icons in react native",
+      "duration": 823
+    },
+    {
+      "id": "41HzsprDVBE",
+      "title": "How to write tic tac toe logic",
+      "duration": 1064
+    },
+    {
+      "id": "8UwoThBYvM4",
+      "title": "Finishing tic tac toe in react native",
+      "duration": 807
+    },
+    {
+      "id": "yqMKsKzUanU",
+      "title": "Project 8 | Building a Spotify inspired app in react native",
+      "duration": 242
+    },
+    {
+      "id": "eCkPGsqn4xw",
+      "title": "React native track player | reading docs",
+      "duration": 525
+    },
+    {
+      "id": "TaY3-eBuf7U",
+      "title": "Create a music service in React Native",
+      "duration": 1295
+    },
+    {
+      "id": "pt4ekPqX9Bo",
+      "title": "Conditional rendering of UI for music in react native",
+      "duration": 533
+    },
+    {
+      "id": "Jy0hMhllf90",
+      "title": "Creating control centre in react native",
+      "duration": 842
+    },
+    {
+      "id": "lpCwIPFGMkQ",
+      "title": "Slider and album info in react native",
+      "duration": 699
+    },
+    {
+      "id": "2at5ac3Po9g",
+      "title": "Combining components in screen and debugging in react native",
+      "duration": 1109
+    },
+    {
+      "id": "c_7ukxJz1wE",
+      "title": "Introduction to react native navigation",
+      "duration": 645
+    },
+    {
+      "id": "KMJE_0ybg9E",
+      "title": "Learn react native navigation basics",
+      "duration": 1113
+    },
+    {
+      "id": "dAsxCAQogwA",
+      "title": "Setting up Home screen for navigation in react native",
+      "duration": 651
+    },
+    {
+      "id": "hgca3tkyVlY",
+      "title": "Handling params in details screen in react native",
+      "duration": 715
+    },
+    {
+      "id": "Q5lqT7bHoV0",
+      "title": "Project 10 in react native",
+      "duration": 110
+    },
+    {
+      "id": "6qSHnTXeUxI",
+      "title": "Setting up navigation for react native",
+      "duration": 666
+    },
+    {
+      "id": "9BfMfDJpbjI",
+      "title": "Creating components to display mobile in react native",
+      "duration": 631
+    },
+    {
+      "id": "VfftvZ0J-Ro",
+      "title": "Finishing up navigation project",
+      "duration": 995
+    },
+    {
+      "id": "VeSUgWHbphk",
+      "title": "Building a React native app with Appwrite authentication | App demo",
+      "duration": 231
+    },
+    {
+      "id": "zlojM-Jbux4",
+      "title": "Complete Appwrite authentication walkthrough",
+      "duration": 2613
+    },
+    {
+      "id": "rWv0zzEYB2w",
+      "title": "Using Appwrite service with custom context in React Native",
+      "duration": 3991
+    },
+    {
+      "id": "fw8J9-KhGdU",
+      "title": "React Native Authentication in 1 shot | Appwrite Backend",
+      "duration": 7032
+    }
+  ]
+}

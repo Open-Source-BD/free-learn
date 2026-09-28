@@ -1,0 +1,320 @@
+{
+  "courseId": "reactjs-basics-0d4969",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:08.369Z",
+  "title": "ReactJS Basics",
+  "channel": "Sarthaksavvy",
+  "videos": [
+    {
+      "id": "ZOrFTWSAzYw",
+      "title": "1 ReactJS basics - Say hello to ReactJS",
+      "duration": 801
+    },
+    {
+      "id": "SC66BW1WZpY",
+      "title": "2 ReactJS basics - What are props in reactJS",
+      "duration": 354
+    },
+    {
+      "id": "Ek9Nvqp1WVo",
+      "title": "3 ReactJS basics - Why we need JSX",
+      "duration": 605
+    },
+    {
+      "id": "on2tmcor1Es",
+      "title": "4 ReactJS basics - Babel Magic to JSX",
+      "duration": 268
+    },
+    {
+      "id": "o1m2IeFonQU",
+      "title": "5 ReactJS basics Using variable in JSX",
+      "duration": 199
+    },
+    {
+      "id": "VcgacXluI0s",
+      "title": "6 ReactJS basics First Functional Component",
+      "duration": 431
+    },
+    {
+      "id": "DTyvcynHduU",
+      "title": "7  Reactjs basics   Component Props",
+      "duration": 436
+    },
+    {
+      "id": "0mgRwEhH0LY",
+      "title": "8 ReactJS basics Create React App",
+      "duration": 515
+    },
+    {
+      "id": "Pu1DnI8vlig",
+      "title": "9 ReactJS basics Understanding the file structure",
+      "duration": 347
+    },
+    {
+      "id": "Lbb_xRoFSyo",
+      "title": "10 ReactJS basics ReCreate Index",
+      "duration": 471
+    },
+    {
+      "id": "CxeoaMSMSMo",
+      "title": "11 ReactJS basics Using Class Based Component",
+      "duration": 358
+    },
+    {
+      "id": "PmyU5N8AKVo",
+      "title": "12 ReactJS basics Hey React Dev Tool",
+      "duration": 227
+    },
+    {
+      "id": "eUGBqjYxG3g",
+      "title": "13 ReactJS basics Styling JSX",
+      "duration": 279
+    },
+    {
+      "id": "p9fQGFuZScA",
+      "title": "14 ReactJS basics Importing Css into JS file",
+      "duration": 275
+    },
+    {
+      "id": "34gu7EhHGfQ",
+      "title": "15 ReactJS basics Say hi to Tailwindcss",
+      "duration": 422
+    },
+    {
+      "id": "CeRBZtM44f0",
+      "title": "16 ReactJS basics What is Virtual DOM",
+      "duration": 298
+    },
+    {
+      "id": "39kSTwui3Ek",
+      "title": "17 ReactJS basics Handle Click Event",
+      "duration": 535
+    },
+    {
+      "id": "-jdomeAVcKg",
+      "title": "18 ReactJS basics Bind THIS in function",
+      "duration": 229
+    },
+    {
+      "id": "mpiQNc0jKUg",
+      "title": "19 ReactJS basics Lifecycle When Component Mount",
+      "duration": 238
+    },
+    {
+      "id": "FjtZyt_uNdQ",
+      "title": "20 ReactJS basics Lifecycle When Component Unmount",
+      "duration": 427
+    },
+    {
+      "id": "bSheEPXuJUk",
+      "title": "21 ReactJS basics Lifecycle When Component Update",
+      "duration": 157
+    },
+    {
+      "id": "xhVTXgqDvBg",
+      "title": "22 ReactJS basics React Hook useState",
+      "duration": 455
+    },
+    {
+      "id": "cavyvqzhX1M",
+      "title": "23 ReactJS basics Hook useEffect as Mount",
+      "duration": 276
+    },
+    {
+      "id": "8WJrvewicGU",
+      "title": "24 ReactJS basics Hook useEffect as UnMount",
+      "duration": 398
+    },
+    {
+      "id": "SPiqc2lv9AA",
+      "title": "25 ReactJS basics Hook useEffect as Update",
+      "duration": 279
+    },
+    {
+      "id": "czRDWXFdqdw",
+      "title": "26 ReactJS basics Hook useEffect as Update 2",
+      "duration": 434
+    },
+    {
+      "id": "H7N0PlIqlRE",
+      "title": "27 ReactJS basics Component Inside Component",
+      "duration": 445
+    },
+    {
+      "id": "8eF5UHrL5yw",
+      "title": "28 ReactJS basics  Add New Image",
+      "duration": 692
+    },
+    {
+      "id": "4uDKxoBJCBs",
+      "title": "29 ReactJS basics Input OnChange Event",
+      "duration": 419
+    },
+    {
+      "id": "IVv_80sD9fo",
+      "title": "30 ReactJS basics Some Cleanup",
+      "duration": 444
+    },
+    {
+      "id": "TBMug66p5w4",
+      "title": "31 ReactJS basics How to define Key Prop",
+      "duration": 441
+    },
+    {
+      "id": "FTuC9fVFx24",
+      "title": "32 ReactJS basics Spread operator remove",
+      "duration": 517
+    },
+    {
+      "id": "jpqAb_Vksv8",
+      "title": "33 ReactJS basics Using Font Awesome remove",
+      "duration": 266
+    },
+    {
+      "id": "GSHBhIqylxM",
+      "title": "34 ReactJS basics MouseEnter MouseLeave Events",
+      "duration": 406
+    },
+    {
+      "id": "UtOMuUx8IqE",
+      "title": "35 ReactJS basics Dynamic Class",
+      "duration": 239
+    },
+    {
+      "id": "B6CTE9yIA9U",
+      "title": "36 ReactJS basics Parent Child Data sharing",
+      "duration": 374
+    },
+    {
+      "id": "PFEpy-NrPPw",
+      "title": "37 ReactJS basics useRef Hook",
+      "duration": 457
+    },
+    {
+      "id": "An53SH9vRaY",
+      "title": "38 ReactJS basics useRef Hook vs useState",
+      "duration": 501
+    },
+    {
+      "id": "ADtb7hCF-Dg",
+      "title": "39 ReactJS basics useLayoutEffect Hook",
+      "duration": 374
+    },
+    {
+      "id": "V0TLGyIdanQ",
+      "title": "40 ReactJS basics useLayoutEffect Use-case",
+      "duration": 203
+    },
+    {
+      "id": "gsOKY1Ud7xU",
+      "title": "41 ReactJS basics - use Unsplash API",
+      "duration": 290
+    },
+    {
+      "id": "esFJqNnhp8U",
+      "title": "42 ReactJS basics - show images from API",
+      "duration": 390
+    },
+    {
+      "id": "KJE4LtAxLEw",
+      "title": "43 ReactJS basics - using env file",
+      "duration": 364
+    },
+    {
+      "id": "BNmJFWEC31M",
+      "title": "44 ReactJS basics - create custom hook",
+      "duration": 318
+    },
+    {
+      "id": "h807ZAth2KQ",
+      "title": "45 ReactJS basics - custom hook to fetch Image",
+      "duration": 339
+    },
+    {
+      "id": "PzePbEVkn1o",
+      "title": "46 ReactJS basics - design images grid",
+      "duration": 182
+    },
+    {
+      "id": "l26WQHIvG3U",
+      "title": "47 ReactJS basics - custom hook pagination",
+      "duration": 382
+    },
+    {
+      "id": "8FikcsxaY7M",
+      "title": "48 ReactJS basics- handle api error",
+      "duration": 487
+    },
+    {
+      "id": "Muy3FI2xqqU",
+      "title": "49 Reactjs basics   handle Loading State",
+      "duration": 352
+    },
+    {
+      "id": "TmNkfkvZeYY",
+      "title": "50 ReactJS basics - manual infinite scroll",
+      "duration": 458
+    },
+    {
+      "id": "iK_aJ1g7aFg",
+      "title": "51 ReactJS basics - Infinite scroll component",
+      "duration": 407
+    },
+    {
+      "id": "XIoyTCRSsfs",
+      "title": "52 ReactJS basics - Search Image term",
+      "duration": 518
+    },
+    {
+      "id": "xGZu-F6gQ1A",
+      "title": "53 ReactJS basics - multiple useEffect",
+      "duration": 328
+    },
+    {
+      "id": "E5GU3mlrfis",
+      "title": "54 ReactJS basics - useDebounce custom hook",
+      "duration": 472
+    },
+    {
+      "id": "ZJk1G62oggg",
+      "title": "55 ReactJS basics - paginate on search",
+      "duration": 622
+    },
+    {
+      "id": "gW2cxg4X6bc",
+      "title": "56 ReactJS basics - React Router DOM",
+      "duration": 507
+    },
+    {
+      "id": "DRPc4MvnhP4",
+      "title": "57 ReactJS basics - page dir and route file",
+      "duration": 472
+    },
+    {
+      "id": "Tcxjm7f4v0k",
+      "title": "58 ReactJS basics- navbar for routing",
+      "duration": 365
+    },
+    {
+      "id": "Hq-dCpLQuDY",
+      "title": "59 ReactJS basics - create Login Form",
+      "duration": 378
+    },
+    {
+      "id": "7aZI0OB9Pew",
+      "title": "60 ReactJS basics - firebase install & configure",
+      "duration": 334
+    },
+    {
+      "id": "x0PtLLG_Wvk",
+      "title": "61 ReactJS basics - Firebase Login",
+      "duration": 424
+    },
+    {
+      "id": "I6tbhNUU96Y",
+      "title": "React JS Tutorial - Full Course 10 Hours (2021)",
+      "duration": 37022
+    }
+  ]
+}

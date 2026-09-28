@@ -1,0 +1,235 @@
+{
+  "courseId": "matlab-programming-for-numerical-computation-nptel-9d7db9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:04.251Z",
+  "title": "MATLAB Programming for Numerical Computation NPTEL",
+  "channel": "Summer HA",
+  "videos": [
+    {
+      "id": "IuEOMyGuuIg",
+      "title": "Course Introduction",
+      "duration": 275
+    },
+    {
+      "id": "O41BWhXFu8E",
+      "title": "Basics of Programming using MATLAB",
+      "duration": 1201
+    },
+    {
+      "id": "83S48Fs9WhY",
+      "title": "Array Operations in MATLAB",
+      "duration": 1461
+    },
+    {
+      "id": "vL4IcyC7WDU",
+      "title": "Tutorial: Using Arrays",
+      "duration": 1263
+    },
+    {
+      "id": "y_Fk3uQVJfs",
+      "title": "Loops and Execution Control",
+      "duration": 1063
+    },
+    {
+      "id": "025XHJHeJtA",
+      "title": "MATLAB Files -- Scripts and Functions",
+      "duration": 1415
+    },
+    {
+      "id": "kn0uB7xHfsg",
+      "title": "Plotting and Output",
+      "duration": 1599
+    },
+    {
+      "id": "edb2t1kYC0I",
+      "title": "How to submit MATLAB Assignment",
+      "duration": 608
+    },
+    {
+      "id": "p1nXahmcQwg",
+      "title": "Errors in Numerical Computation",
+      "duration": 1034
+    },
+    {
+      "id": "wqqsejn-cv4",
+      "title": "Truncation Errors and Taylors Series",
+      "duration": 1120
+    },
+    {
+      "id": "By2hk_x5dLY",
+      "title": "Round-Off Errors; and Iterative Methods",
+      "duration": 1410
+    },
+    {
+      "id": "iRAnHZ-rk98",
+      "title": "Step-wise Methods and Error Propagation",
+      "duration": 1190
+    },
+    {
+      "id": "AsxS6P_BR7w",
+      "title": "Accessing Course Website",
+      "duration": 304
+    },
+    {
+      "id": "G_AdDGCJDBw",
+      "title": "Differentiation in Single Variable",
+      "duration": 1120
+    },
+    {
+      "id": "GBcChiS-G-Y",
+      "title": "Higher Order Differentiation Formulae",
+      "duration": 987
+    },
+    {
+      "id": "ZJp67pC-oCk",
+      "title": "Partial Differentials (Bonus)",
+      "duration": 1241
+    },
+    {
+      "id": "tByDeErG0Ic",
+      "title": "Numerical Integration",
+      "duration": 1059
+    },
+    {
+      "id": "3dGbQ-aUaCY",
+      "title": "Multiple Applications of Integration Formulae",
+      "duration": 1055
+    },
+    {
+      "id": "potVTmNi1Ww",
+      "title": "In-Build MATLAB Integration Functions",
+      "duration": 1005
+    },
+    {
+      "id": "celUu5aY6_Q",
+      "title": "Basics of Linear Algebra",
+      "duration": 1262
+    },
+    {
+      "id": "JY99xfMgwnk",
+      "title": "Gauss Elimination and Back-Substitution",
+      "duration": 1299
+    },
+    {
+      "id": "smsE7iOlNj4",
+      "title": "LU Decomposition and Partial Pivoting",
+      "duration": 1118
+    },
+    {
+      "id": "8ny5fyZEhPQ",
+      "title": "Gauss Siedel Method",
+      "duration": 992
+    },
+    {
+      "id": "9rTZ_YVeyT0",
+      "title": "(Tutorial)",
+      "duration": 595
+    },
+    {
+      "id": "CIVYeFGNRpU",
+      "title": "Tri-Diagonal Matrix Algorithm",
+      "duration": 1367
+    },
+    {
+      "id": "5W46xcVInL8",
+      "title": "Nonlinear Equations in Single Variable",
+      "duration": 1308
+    },
+    {
+      "id": "7Mg0b9Gc_mc",
+      "title": "Using MATLAB command fzero",
+      "duration": 1065
+    },
+    {
+      "id": "bas_VheTL5o",
+      "title": "Fixed Point Iteration in Single Variable",
+      "duration": 1154
+    },
+    {
+      "id": "bsgPR0lWiTg",
+      "title": "Newton-Raphson (single variable)",
+      "duration": 995
+    },
+    {
+      "id": "_C4rbXdujcM",
+      "title": "Using MATLAB command fsolve (multi-variable)",
+      "duration": 1023
+    },
+    {
+      "id": "InIkxZcz7YI",
+      "title": "Newton-Raphson (multi Variable)",
+      "duration": 1021
+    },
+    {
+      "id": "aLXjoT8Z94s",
+      "title": "Introduction",
+      "duration": 827
+    },
+    {
+      "id": "Ub7kj6rYIMw",
+      "title": "Linear Least Squares Regression",
+      "duration": 1048
+    },
+    {
+      "id": "XlkuYgJPS34",
+      "title": "Nonlinear and Functional Regression",
+      "duration": 1290
+    },
+    {
+      "id": "dZMZmii66iI",
+      "title": "Interpolation Functions in MATLAB",
+      "duration": 1150
+    },
+    {
+      "id": "DN7bJVyAnDA",
+      "title": "Introduction and Euler\\'s Method",
+      "duration": 1348
+    },
+    {
+      "id": "TKiG01eOk3I",
+      "title": "Runge-Kutta (RK-2) method",
+      "duration": 955
+    },
+    {
+      "id": "jRyQbTyb3yk",
+      "title": "MATLAB ode45 algorithm",
+      "duration": 1001
+    },
+    {
+      "id": "51PwCoFtyXw",
+      "title": "Higher order Runge-Kutta Methods",
+      "duration": 972
+    },
+    {
+      "id": "JCaPYDgQ1iQ",
+      "title": "Error Analysis",
+      "duration": 1144
+    },
+    {
+      "id": "i5Ton-G9zNs",
+      "title": "Multi-Variable ODE",
+      "duration": 1126
+    },
+    {
+      "id": "2dbIuEgKx0s",
+      "title": "Stiff Systems & Solution using ode15s",
+      "duration": 1219
+    },
+    {
+      "id": "CDSM5bLy8lU",
+      "title": "Method of Lines for transient PDEs",
+      "duration": 930
+    },
+    {
+      "id": "kM8FqZZ4Wi4",
+      "title": "A Final Example",
+      "duration": 1056
+    },
+    {
+      "id": "mr2mS0bk8P4",
+      "title": "Tutorial: How to do linear and nonlinear regression",
+      "duration": 533
+    }
+  ]
+}

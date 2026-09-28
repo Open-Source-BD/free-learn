@@ -1,0 +1,245 @@
+{
+  "courseId": "javascript-tutorial-for-beginners-765ae0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:34.011Z",
+  "title": "JavaScript Tutorials for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "qoSksQ4s_hg",
+      "title": "JavaScript Tutorial For Beginners 01 - Introduction",
+      "duration": 221
+    },
+    {
+      "id": "VB7y0yxZjro",
+      "title": "JavaScript for Beginners 02 - What is JavaScript?",
+      "duration": 244
+    },
+    {
+      "id": "ranSYb-EhrU",
+      "title": "JavaScript Tutorial For Beginners 03 - Hello World! in JavaScript",
+      "duration": 198
+    },
+    {
+      "id": "GCcfKNswi4c",
+      "title": "New Modern JavaScript Update",
+      "duration": 52
+    },
+    {
+      "id": "czlwRUeTCgw",
+      "title": "JavaScript Tutorial For Beginners #4 - Where to put your JS",
+      "duration": 314
+    },
+    {
+      "id": "JzZFccCEgGA",
+      "title": "JavaScript Tutorial For Beginners #5 - Google Chrome Developer Tools",
+      "duration": 292
+    },
+    {
+      "id": "QLatPwsbDrQ",
+      "title": "JavaScript Tutorial For Beginners #6 - Basic JavaScript Syntax & Rules",
+      "duration": 470
+    },
+    {
+      "id": "u0Mq3FzpsmI",
+      "title": "JavaScript Tutorial For Beginners #7 - JavaScript Variables",
+      "duration": 540
+    },
+    {
+      "id": "_MC0Gw07w8M",
+      "title": "JavaScript Tutorial For Beginners #8 - Basic Mathematical Operators",
+      "duration": 377
+    },
+    {
+      "id": "Z1eV0RBRam0",
+      "title": "JavaScript Tutorial For Beginners #9 - Math Operator Short-hand",
+      "duration": 296
+    },
+    {
+      "id": "tH-q9QFNUdA",
+      "title": "JavaScript Tutorial For Beginners #10 - Logging to the Console",
+      "duration": 220
+    },
+    {
+      "id": "B4ZCFdrBmbE",
+      "title": "JavaScript Tutorial For Beginners #11 - Booleans in JavaScript",
+      "duration": 374
+    },
+    {
+      "id": "Lp-Du2fKoug",
+      "title": "JavaScript Tutorial For Beginners #12 - If Statements",
+      "duration": 527
+    },
+    {
+      "id": "1v1Bk3Q02Sc",
+      "title": "JavaScript Tutorial For Beginners #13 - Else If Statements",
+      "duration": 244
+    },
+    {
+      "id": "LjGaaWX_NbE",
+      "title": "JavaScript Tutorial For Beginners #14 - Comparison Operators",
+      "duration": 326
+    },
+    {
+      "id": "mbT7sSmVUS8",
+      "title": "JavaScript Tutorial For Beginners #15 - Logical Operators",
+      "duration": 362
+    },
+    {
+      "id": "PpbFyLTtpWI",
+      "title": "JavaScript Tutorial For Beginners #16 - While Loops",
+      "duration": 250
+    },
+    {
+      "id": "U87UmD-5h4o",
+      "title": "JavaScript Tutorial For Beginners #17 - For Loops",
+      "duration": 470
+    },
+    {
+      "id": "QSuTH0C_3_Y",
+      "title": "JavaScript Tutorial For Beginners #18 - Break & Continue",
+      "duration": 254
+    },
+    {
+      "id": "eZBTLsv2ktM",
+      "title": "JavaScript Tutorial For Beginners 19 -  Practical Example using Loops",
+      "duration": 243
+    },
+    {
+      "id": "KH57lIgwe2g",
+      "title": "JavaScript Tutorial For Beginners #20 - Functions",
+      "duration": 559
+    },
+    {
+      "id": "kjdZ1h3CIs4",
+      "title": "JavaScript Tutorial For Beginners #21 - Variable Scope",
+      "duration": 366
+    },
+    {
+      "id": "TD3Pfuxgnuc",
+      "title": "JavaScript Tutorial For Beginners #22 - Numbers",
+      "duration": 370
+    },
+    {
+      "id": "0ZiltZDg9Gg",
+      "title": "JavaScript Tutorial For Beginners - NaN (Not a Number)",
+      "duration": 395
+    },
+    {
+      "id": "k8MIbEVXhE0",
+      "title": "JavaScript Tutorial For Beginners #24 - Strings",
+      "duration": 578
+    },
+    {
+      "id": "HEdikBHsMag",
+      "title": "JavaScript Tutorial For Beginners #25 - Slice and Split Strings",
+      "duration": 399
+    },
+    {
+      "id": "EUnV-fCY0Pc",
+      "title": "JavaScript Tutorial For Beginners #26 - Arrays",
+      "duration": 408
+    },
+    {
+      "id": "t-evBCCQFzM",
+      "title": "JavaScript Tutorial For Beginners #27 - Introduction to Objects",
+      "duration": 397
+    },
+    {
+      "id": "wA5vU_HQfVI",
+      "title": "JavaScript Tutorial For Beginners #28 - Creating a new JavaScript Object",
+      "duration": 607
+    },
+    {
+      "id": "yVdU2coJ1VQ",
+      "title": "JavaScript Tutorial For Beginners #29 - THIS Keyword",
+      "duration": 324
+    },
+    {
+      "id": "SrhHszXkMRU",
+      "title": "JavaScript Tutorial For Beginners #30 - Constructor Functions",
+      "duration": 409
+    },
+    {
+      "id": "irrxnH-nkqg",
+      "title": "JavaScript Tutorial For Beginners #31 - The Date Object",
+      "duration": 563
+    },
+    {
+      "id": "H63dVFDuJDM",
+      "title": "JavaScript Tutorial For Beginners #32 - What is the DOM in JavaScript?",
+      "duration": 271
+    },
+    {
+      "id": "SowaJlX1uKA",
+      "title": "JavaScript Tutorial For Beginners #33 - Traversing the DOM",
+      "duration": 464
+    },
+    {
+      "id": "FQuwArzGPYo",
+      "title": "JavaScript Tutorial For Beginners #34 - Changing Page Content",
+      "duration": 339
+    },
+    {
+      "id": "V0S0LXvnW-o",
+      "title": "JavaScript Tutorial For Beginners #35 - Changing Element Attributes",
+      "duration": 363
+    },
+    {
+      "id": "97agDBCyxAE",
+      "title": "JavaScript Tutorial For Beginners #36 - Changing CSS Styles",
+      "duration": 290
+    },
+    {
+      "id": "TrGI9Yki-24",
+      "title": "JavaScript Tutorial For Beginners #37 - Adding Elements to the DOM",
+      "duration": 464
+    },
+    {
+      "id": "rBGgguNnutE",
+      "title": "JavaScript Tutorial For Beginners #38 - Removing Elements from the DOM",
+      "duration": 253
+    },
+    {
+      "id": "bf_9IeihQ0M",
+      "title": "JavaScript Tutorial For Beginners # 39 - Introduction to JavaScript Events",
+      "duration": 510
+    },
+    {
+      "id": "XQEfWd1lh4Q",
+      "title": "JavaScript Tutorial For Beginners #40 - The onClick Event",
+      "duration": 485
+    },
+    {
+      "id": "RVA4HoEE_q8",
+      "title": "JavaScript Tutorial For Beginners #41 - Window onLoad Event",
+      "duration": 307
+    },
+    {
+      "id": "Az5J_EkhYCY",
+      "title": "JavaScript Tutorial For Beginners #42 - JavaScript Timers",
+      "duration": 732
+    },
+    {
+      "id": "BhlvQfIaE4k",
+      "title": "JavaScript Tutorial For Beginners #43 - Accessing Form Elements",
+      "duration": 364
+    },
+    {
+      "id": "b0pxAb_yy2U",
+      "title": "JavaScript Tutorial For Beginners #44 - VERY Simple Form Validation",
+      "duration": 337
+    },
+    {
+      "id": "uq7omoxwA7A",
+      "title": "JavaScript Tutorial For Beginners #45 - JavaScript Libraries",
+      "duration": 514
+    },
+    {
+      "id": "Qikr22Tc3wg",
+      "title": "JavaScript Tutorial For Beginners #46 - What to Study Next",
+      "duration": 271
+    }
+  ]
+}

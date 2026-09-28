@@ -1,0 +1,185 @@
+{
+  "courseId": "svelte-tutorial-for-beginners-405828",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:37.242Z",
+  "title": "Svelte Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "zojEMeQGGHs",
+      "title": "Svelte Tutorial for Beginners #1 - Introduction",
+      "duration": 420
+    },
+    {
+      "id": "lnpdn2rE2N8",
+      "title": "Svelte Tutorial for Beginners #2 - Setting up a Svelte App",
+      "duration": 399
+    },
+    {
+      "id": "TanFofZBvNI",
+      "title": "Svelte Tutorial for Beginners #3 - Svelte Basics",
+      "duration": 554
+    },
+    {
+      "id": "n8Kk7uvsx9A",
+      "title": "Svelte Tutorial for Beginners #4 - User Input & Data Binding",
+      "duration": 414
+    },
+    {
+      "id": "QJJjXRIg7kI",
+      "title": "Svelte Tutorial for Beginners #5 - Reactive Values",
+      "duration": 422
+    },
+    {
+      "id": "sGmSSULKJwE",
+      "title": "Svelte Tutorial for Beginners #6 - Loops",
+      "duration": 378
+    },
+    {
+      "id": "VWOpVxIkZJs",
+      "title": "Svelte Tutorial for Beginners #7 - Inline Event Handlers",
+      "duration": 501
+    },
+    {
+      "id": "9PfCZFqYsYA",
+      "title": "Svelte Tutorial for Beginners #8 - Conditionals",
+      "duration": 282
+    },
+    {
+      "id": "rkwKpULfWZA",
+      "title": "Svelte Tutorial for Beginners #9 - Components",
+      "duration": 401
+    },
+    {
+      "id": "AAPu__4qSlY",
+      "title": "Svelte Tutorial for Beginners #10 - CSS & Conditional Styles",
+      "duration": 585
+    },
+    {
+      "id": "Y1McRGLkxQc",
+      "title": "Svelte Tutorial for Beginners #11 - Props",
+      "duration": 316
+    },
+    {
+      "id": "SaMils0yx7s",
+      "title": "Svelte Tutorial for Beginners #12 - Event Forwarding",
+      "duration": 417
+    },
+    {
+      "id": "RrNC2hizXXI",
+      "title": "Svelte Tutorial for Beginners #13 - Event Modifiers",
+      "duration": 204
+    },
+    {
+      "id": "WUXalRPfP1A",
+      "title": "Svelte Tutorial for Beginners #14 - Slots",
+      "duration": 334
+    },
+    {
+      "id": "FB_am3ZPY7I",
+      "title": "Svelte Tutorial for Beginners #15 - Forms (part 1)",
+      "duration": 444
+    },
+    {
+      "id": "tkBgoKpU6Tk",
+      "title": "Svelte Tutorial for Beginners #16 - forms (part 2)",
+      "duration": 513
+    },
+    {
+      "id": "yCkYm4zze8I",
+      "title": "Svelte Tutorial for Beginners #17 - Dispatching Custom Events",
+      "duration": 640
+    },
+    {
+      "id": "f0v5WcrU_vM",
+      "title": "Svelte Tutorial for Beginners #18 - Starting the Polls Project",
+      "duration": 248
+    },
+    {
+      "id": "xwiER0u9YS0",
+      "title": "Svelte Tutorial for Beginners #19 - Header & Footer Components",
+      "duration": 491
+    },
+    {
+      "id": "U8cM_jhmDxA",
+      "title": "Svelte Tutorial for Beginners #20 - Reusable Tabs Component",
+      "duration": 939
+    },
+    {
+      "id": "Cv8vo4ZBy2E",
+      "title": "Svelte Tutorial for Beginners #21 - Poll Form Component",
+      "duration": 505
+    },
+    {
+      "id": "3-DO-9fUKo0",
+      "title": "Svelte Tutorial for Beginners #22 - Custom Button Component",
+      "duration": 602
+    },
+    {
+      "id": "lx71zJldzEs",
+      "title": "Svelte Tutorial for Beginners #23 - Custom Form Validation",
+      "duration": 530
+    },
+    {
+      "id": "lCiyWC8cqDg",
+      "title": "Svelte Tutorial for Beginners #24 - Adding New Polls",
+      "duration": 674
+    },
+    {
+      "id": "OC_WmW3nZCs",
+      "title": "Svelte Tutorial for Beginners #25 - Poll Details Component",
+      "duration": 501
+    },
+    {
+      "id": "2z4z7zgyT9g",
+      "title": "Svelte Tutorial for Beginners #26 - Card Component",
+      "duration": 218
+    },
+    {
+      "id": "eqmxFAxBwBo",
+      "title": "Svelte Tutorial for Beginners #27 - Casting Votes",
+      "duration": 638
+    },
+    {
+      "id": "05lrYOs6GTM",
+      "title": "Svelte Tutorial for Beginners #28 - Vote Bars",
+      "duration": 427
+    },
+    {
+      "id": "rszZ7TYTbR0",
+      "title": "Svelte Tutorial for Beginners #29 - Introduction to Stores",
+      "duration": 461
+    },
+    {
+      "id": "pza7POTt9Yo",
+      "title": "Svelte Tutorial for Beginners #30 - Lifecycle Hooks",
+      "duration": 455
+    },
+    {
+      "id": "dD7uF_CgN_8",
+      "title": "Svelte Tutorial for Beginners #31 - Updating Store Data",
+      "duration": 499
+    },
+    {
+      "id": "izXFqVTUfXU",
+      "title": "Svelte Tutorial for Beginners #32 - Deleting Polls",
+      "duration": 385
+    },
+    {
+      "id": "D18WAuDr8mQ",
+      "title": "Svelte Tutorial for Beginners #33 - Transition Basics",
+      "duration": 392
+    },
+    {
+      "id": "2-cGLrRnZPE",
+      "title": "Svelte Tutorial for Beginners #34 - Tweens & Animations",
+      "duration": 567
+    },
+    {
+      "id": "3EDXKfKKP-U",
+      "title": "Svelte Tutorial for Beginners #35 - Wrap Up",
+      "duration": 166
+    }
+  ]
+}

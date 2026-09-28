@@ -1,0 +1,70 @@
+{
+  "courseId": "understanding-rxjs-bc62de",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:50.869Z",
+  "title": "Understanding RxJS",
+  "channel": "Academind",
+  "videos": [
+    {
+      "id": "T9wOu11uU6U",
+      "title": "RxJS - What and Why?",
+      "duration": 571
+    },
+    {
+      "id": "Tux1nhBPl_w",
+      "title": "OBSERVABLES, OBSERVERS & SUBSCRIPTIONS | RxJS TUTORIAL",
+      "duration": 1060
+    },
+    {
+      "id": "-nYQJkMpOHU",
+      "title": "RxJS OPERATORS LIKE map() OR throttleTime() | RxJS TUTORIAL",
+      "duration": 497
+    },
+    {
+      "id": "X9fdpGthrXA",
+      "title": "Fix your RxJS 6 Imports & Operators - What's New in RxJS 6?",
+      "duration": 722
+    },
+    {
+      "id": "rdK92pf3abs",
+      "title": "RxJS SUBJECT (~EventEmitter) | RxJS TUTORIAL",
+      "duration": 283
+    },
+    {
+      "id": "tk5x8By3yYk",
+      "title": "THE filter() OPERATOR | RxJS TUTORIAL",
+      "duration": 351
+    },
+    {
+      "id": "QbNUD5ca99A",
+      "title": "debounceTime & distinctUntilChanged | RxJS TUTORIAL",
+      "duration": 434
+    },
+    {
+      "id": "myEeo2rZc3g",
+      "title": "scan() vs reduce() | RxJS TUTORIAL",
+      "duration": 270
+    },
+    {
+      "id": "IVBJ3-M_YsQ",
+      "title": "pluck() | RxJS TUTORIAL",
+      "duration": 333
+    },
+    {
+      "id": "b59tcUwfpWU",
+      "title": "mergeMap() | RxJS TUTORIAL",
+      "duration": 454
+    },
+    {
+      "id": "6lKoLwGlglE",
+      "title": "switchMap() | RxJS TUTORIAL",
+      "duration": 321
+    },
+    {
+      "id": "-mwNLRbfKmU",
+      "title": "BehaviorSubject | RxJS TUTORIAL",
+      "duration": 191
+    }
+  ]
+}

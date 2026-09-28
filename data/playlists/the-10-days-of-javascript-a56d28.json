@@ -1,0 +1,80 @@
+{
+  "courseId": "the-10-days-of-javascript-a56d28",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:48.159Z",
+  "title": "The 10 Days of JavaScript",
+  "channel": "LearnWebCode",
+  "videos": [
+    {
+      "id": "dc-2t26Vuhs",
+      "title": "The 10 Days of JavaScript: Day 0",
+      "duration": 649
+    },
+    {
+      "id": "K4b7LdWAVyw",
+      "title": "The 10 Days of JavaScript: Day 1",
+      "duration": 1042
+    },
+    {
+      "id": "bYshPb-wEWs",
+      "title": "The 10 Days of JavaScript: Day 2 (Functions)",
+      "duration": 1245
+    },
+    {
+      "id": "CXnnw9rQH5I",
+      "title": "The 10 Days of JavaScript: Day 3 (Objects)",
+      "duration": 1229
+    },
+    {
+      "id": "rTK0Gmf57jE",
+      "title": "The 10 Days of JavaScript: Day 4 (Arrays)",
+      "duration": 1233
+    },
+    {
+      "id": "ZWxWx-vmubI",
+      "title": "The 10 Days of JavaScript: Day 5 (Making Decisions)",
+      "duration": 1162
+    },
+    {
+      "id": "25VUf6pUwEU",
+      "title": "The 10 Days of JavaScript: Day 6 (Higher-Order Functions)",
+      "duration": 1145
+    },
+    {
+      "id": "eJ7hvnS0Bfk",
+      "title": "The 10 Days of JavaScript: Day 7 (Returning vs Mutating)",
+      "duration": 1224
+    },
+    {
+      "id": "WPcW83BMT3Y",
+      "title": "The 10 Days of JavaScript: Day 8 (Variable Scope & Context / this keyword)",
+      "duration": 1991
+    },
+    {
+      "id": "AzxiDWeFeps",
+      "title": "The 10 Days of JavaScript: Day 9 (Misc Must Know Info)",
+      "duration": 1396
+    },
+    {
+      "id": "HQuJzGU7TWg",
+      "title": "The 10 Days of JavaScript: Day 10 (Browser Practice)",
+      "duration": 1693
+    },
+    {
+      "id": "WTOnKNjiPWU",
+      "title": "Learn JavaScript: Full-Stack From Scratch",
+      "duration": 5982
+    },
+    {
+      "id": "AVmGmLFcukM",
+      "title": "Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await",
+      "duration": 4156
+    },
+    {
+      "id": "70fadMRqnBo",
+      "title": "Learn React.js in 70 Minutes: JSX & useState Tutorial",
+      "duration": 4157
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "courseId": "egghead-io-angularjs-2a4ef6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:23.725Z",
+  "title": "Egghead.io - AngularJS",
+  "channel": "John Lindquist",
+  "videos": [
+    {
+      "id": "Lx7ycjC8qjE",
+      "title": "Egghead.io - AngularJS - Binding",
+      "duration": 173
+    },
+    {
+      "id": "MEmC0QH8ATQ",
+      "title": "Egghead.io - AngularJS - Controllers",
+      "duration": 133
+    },
+    {
+      "id": "DTx23w4z6Kc",
+      "title": "Egghead.io - AngularJS - The Dot",
+      "duration": 182
+    },
+    {
+      "id": "HXpHV5gWgyk",
+      "title": "Egghead.io - AngularJS - Sharing Data Between Controllers",
+      "duration": 199
+    },
+    {
+      "id": "Powr9vzqMac",
+      "title": "Egghead.io - AngularJS - Defining a Method on the Scope",
+      "duration": 136
+    },
+    {
+      "id": "FX5TwV2ZKqc",
+      "title": "Egghead.io - AngularJS - Filters",
+      "duration": 139
+    },
+    {
+      "id": "wFYID8eYQLs",
+      "title": "Egghead.io - AngularJS - Testing Overview",
+      "duration": 318
+    },
+    {
+      "id": "bLohP9mh8ks",
+      "title": "Egghead.io - AngularJS - ngFilter",
+      "duration": 313
+    },
+    {
+      "id": "D4NyA-SFnZg",
+      "title": "Egghead.io - AngularJS - Built-in Filters",
+      "duration": 133
+    },
+    {
+      "id": "xoIHkM4KpHM",
+      "title": "Egghead.io - AngularJS - First Directive",
+      "duration": 127
+    },
+    {
+      "id": "AoDh1T_0Obg",
+      "title": "Egghead.io - AngularJS - Directive Restrictions",
+      "duration": 181
+    },
+    {
+      "id": "W82ztvDY_Po",
+      "title": "Egghead.io - AngularJS - Basic Behaviors",
+      "duration": 209
+    },
+    {
+      "id": "IfUyUeYHffk",
+      "title": "Egghead.io - AngularJS - Useful Behaviors",
+      "duration": 175
+    },
+    {
+      "id": "LJmZaxuxlRc",
+      "title": "Egghead.io - AngularJS - Directives Talking to Controllers",
+      "duration": 283
+    },
+    {
+      "id": "rzMrBIVuxgM",
+      "title": "Egghead.io - AngularJS - Directive to Directive Communication",
+      "duration": 481
+    },
+    {
+      "id": "fYgdU7u2--g",
+      "title": "Egghead.io - AngularJS - Understanding Isolate Scope",
+      "duration": 398
+    },
+    {
+      "id": "7X5vx-n7Nxs",
+      "title": "Egghead.io - AngularJS - Isolate Scope \"@\"",
+      "duration": 291
+    },
+    {
+      "id": "O9iVkfQJauQ",
+      "title": "Egghead.io - AngularJS - Isolate Scope \"=\"",
+      "duration": 171
+    },
+    {
+      "id": "mZGgNPTHc2Q",
+      "title": "Egghead.io - AngularJS - Isolate Scope \"&\"",
+      "duration": 363
+    },
+    {
+      "id": "97pv_kiYhv4",
+      "title": "Egghead.io - AngularJS - Isolate Scope Review",
+      "duration": 210
+    },
+    {
+      "id": "cjrBTjMvruI",
+      "title": "Egghead.io - AngularJS - Transclusion Basics",
+      "duration": 168
+    },
+    {
+      "id": "L9-c2NvCuf4",
+      "title": "Egghead.io - AngularJS - An Alternative Approach to Controllers",
+      "duration": 169
+    },
+    {
+      "id": "bz-yhpaFElI",
+      "title": "Egghead.io - AngularJS - Thinking Differently About Organization",
+      "duration": 261
+    },
+    {
+      "id": "JeuhhPlOZs0",
+      "title": "Egghead.io - AngularJS - Building Zippy",
+      "duration": 475
+    },
+    {
+      "id": "_6ijcqI5fi8",
+      "title": "Egghead.io - AngularJS - angular.element",
+      "duration": 520
+    },
+    {
+      "id": "NnB2NBtoeAY",
+      "title": "Egghead.io - AngularJS - $scope vs. scope",
+      "duration": 554
+    },
+    {
+      "id": "_23TfKY8If4",
+      "title": "Egghead.io - AngularJS - templateUrl",
+      "duration": 225
+    },
+    {
+      "id": "boBm3AU-uX4",
+      "title": "Egghead.io - AngularJS - $templateCache",
+      "duration": 187
+    },
+    {
+      "id": "nZrbZ_sYShU",
+      "title": "Egghead.io - AngularJS - ng-view",
+      "duration": 183
+    },
+    {
+      "id": "TT31mYUEAPs",
+      "title": "Egghead.io - AngularJS - The config function",
+      "duration": 175
+    },
+    {
+      "id": "gNtnxRzXj8s",
+      "title": "Egghead.io - AngularJS - $routeProvider api",
+      "duration": 110
+    },
+    {
+      "id": "T10gr1Leq6g",
+      "title": "Egghead.io - AngularJS - $routeParams",
+      "duration": 134
+    },
+    {
+      "id": "LGPXW-NgHCs",
+      "title": "Egghead.io - AngularJS - redirectTo",
+      "duration": 225
+    },
+    {
+      "id": "o84ryzNp36Q",
+      "title": "Egghead.io - AngularJS - Promises",
+      "duration": 243
+    },
+    {
+      "id": "Kr1qZ8Ik9G8",
+      "title": "Egghead.io - AngularJS - Resolve",
+      "duration": 125
+    },
+    {
+      "id": "vIDvluer97A",
+      "title": "Egghead.io - AngularJS - resolve conventions",
+      "duration": 203
+    },
+    {
+      "id": "rbqRJQZBF3Q",
+      "title": "Egghead.io - AngularJS - resolve $routeChangeError",
+      "duration": 309
+    },
+    {
+      "id": "-bv4Tp06Lxg",
+      "title": "Egghead.io - AngularJS - Directive for Route Handling",
+      "duration": 182
+    },
+    {
+      "id": "0uvAseNXDr0",
+      "title": "Egghead.io - AngularJS - Route Life Cycle",
+      "duration": 263
+    },
+    {
+      "id": "HvTZbQ_hUZY",
+      "title": "Egghead.io - AngularJS - Providers",
+      "duration": 306
+    },
+    {
+      "id": "OnSb4ebdjrk",
+      "title": "Egghead.io - AngularJS - Injectors",
+      "duration": 174
+    },
+    {
+      "id": "UCn7CwS5fKg",
+      "title": "Egghead.io - AngularJS - Components and Containers",
+      "duration": 267
+    },
+    {
+      "id": "jEpbjve5iHk",
+      "title": "Egghead.io - AngularJS - $index, $event, $log",
+      "duration": 288
+    },
+    {
+      "id": "tTihyXaz4Bo",
+      "title": "Egghead.io - AngularJS - Experimental \"Controller as\" Syntax",
+      "duration": 320
+    },
+    {
+      "id": "2CdivtU5ytY",
+      "title": "Egghead.io - AngularJS - Directive Communication",
+      "duration": 268
+    },
+    {
+      "id": "ZvWftlp7TKY",
+      "title": "Egghead.io - AngularJS - ngmin",
+      "duration": 208
+    },
+    {
+      "id": "WX03ODuzkSY",
+      "title": "Egghead.io - AngularJS - ng-repeat-start",
+      "duration": 85
+    },
+    {
+      "id": "Bcv46xKJH98",
+      "title": "Egghead.io - AngularJS - animation basics",
+      "duration": 232
+    },
+    {
+      "id": "ni0N8dmxiio",
+      "title": "Egghead.io - AngularJS - Animating with JavaScript",
+      "duration": 225
+    },
+    {
+      "id": "2-xcoaba7_o",
+      "title": "Egghead.io - AngularJS - Animating the Angular Way",
+      "duration": 354
+    },
+    {
+      "id": "vV1CHwr6oDo",
+      "title": "Egghead.io - AngularJS - angular.copy",
+      "duration": 189
+    },
+    {
+      "id": "vO_Ie3kMXbY",
+      "title": "Egghead.io - Bower - Intro to Bower",
+      "duration": 169
+    },
+    {
+      "id": "b4SrSrhdQYs",
+      "title": "Egghead.io - AngularJS - angular.bootstrap",
+      "duration": 74
+    },
+    {
+      "id": "MH58D6XOlqA",
+      "title": "Egghead.io - AngularJS - No custom markup",
+      "duration": 100
+    },
+    {
+      "id": "UIz5iH_hCJg",
+      "title": "Egghead.io - AngularJS - Unit Testing Hello World",
+      "duration": 178
+    },
+    {
+      "id": "NV5Zkthh7nw",
+      "title": "Egghead.io - AngularJS - Unit Testing a Directive",
+      "duration": 135
+    },
+    {
+      "id": "vqkDxNibGTw",
+      "title": "Egghead.io - AngularJS - Testing Scope",
+      "duration": 118
+    },
+    {
+      "id": "qVyQXsFDRaQ",
+      "title": "Egghead.io - AngularJS - Testing Underscores",
+      "duration": 98
+    },
+    {
+      "id": "KK940-n3Uic",
+      "title": "Egghead.io - AngularJS - Intro to Karma",
+      "duration": 166
+    }
+  ]
+}

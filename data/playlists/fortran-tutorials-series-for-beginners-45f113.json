@@ -1,0 +1,120 @@
+{
+  "courseId": "fortran-tutorials-series-for-beginners-45f113",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEUWOGLuqAyW03voorKM06F2_QF8TlcNu",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:21.412Z",
+  "title": "FORTRAN Tutorials series for Beginners",
+  "channel": "Rameshwar Ingalkar",
+  "videos": [
+    {
+      "id": "EELkvPd8QcI",
+      "title": "1. How to download and install FORTRAN",
+      "duration": 177
+    },
+    {
+      "id": "n2MWbGN1vCY",
+      "title": "5.0 Data Types In FORTRAN (INTEGER, REAL, DOUBLE PRECISION, COMPLEX, LOGICAL & CHARACTER.",
+      "duration": 879
+    },
+    {
+      "id": "NmMKm22U2FA",
+      "title": "2.0 Introduction to FORTRAN",
+      "duration": 534
+    },
+    {
+      "id": "drlY5qgIFVg",
+      "title": "3.0 Interface & Rules for Coding FORTRAN",
+      "duration": 753
+    },
+    {
+      "id": "uYhjqPeONYk",
+      "title": "4.0 UnFormatted INPUT/OUTPUT",
+      "duration": 938
+    },
+    {
+      "id": "efTE4TimxOo",
+      "title": "6.0 FORTRAN Program on Variable Testing",
+      "duration": 531
+    },
+    {
+      "id": "IqrBVxVHuuA",
+      "title": "7.0 Identifiers, Rules for valid Identifiers",
+      "duration": 322
+    },
+    {
+      "id": "lHTGszR8_0g",
+      "title": "8.0  Type Declaration in FORTRAN, Implicit, Explicit",
+      "duration": 1283
+    },
+    {
+      "id": "ColLKhcapg4",
+      "title": "9.0 PARAMETERS or NAMED CONSTANT Statement in FORTRAN",
+      "duration": 1097
+    },
+    {
+      "id": "_LxnbP8Gr9Q",
+      "title": "10. Expression in FORTRAN, Arithmetic, relational, Logical, Character.",
+      "duration": 939
+    },
+    {
+      "id": "IpVphiZzDK0",
+      "title": "11.Hierarchy of Operations in FORTRAN",
+      "duration": 898
+    },
+    {
+      "id": "DsvMyrU97OA",
+      "title": "12. Library Functions  in FORTRAN",
+      "duration": 238
+    },
+    {
+      "id": "XYM-WmvmOGs",
+      "title": "13. FlowChart in Programming",
+      "duration": 396
+    },
+    {
+      "id": "MNlWF22P1uc",
+      "title": "14. Formatted Output in FORTRAN",
+      "duration": 1165
+    },
+    {
+      "id": "zccGmEEo0iQ",
+      "title": "15. File Input Output in FORTRAN",
+      "duration": 769
+    },
+    {
+      "id": "DQ_lW_Fqyg8",
+      "title": "16. Program to understand File Input and output in FORTRAN",
+      "duration": 1028
+    },
+    {
+      "id": "JBvfjFjizJg",
+      "title": "17. Control Statement in FORTRAN, Arithmetic IF",
+      "duration": 919
+    },
+    {
+      "id": "tGwNaqe4wmM",
+      "title": "18. Program:Roots of Quadratic Equation using Arithmetic IF",
+      "duration": 639
+    },
+    {
+      "id": "ToRqQ2xdikA",
+      "title": "19. Control Statement in FORTRAN: LOGICAL IF",
+      "duration": 628
+    },
+    {
+      "id": "fXsl287pLY4",
+      "title": "20. Program: Roots of Quadratic Equation using LOGICAL IF",
+      "duration": 628
+    },
+    {
+      "id": "mdYryz3zoyc",
+      "title": "21. Control Statements in FORTRAN: 1. IF THEN 2. IF THEN ...ELSE",
+      "duration": 628
+    },
+    {
+      "id": "PkNDL7uX04c",
+      "title": "22. Program: Roots of Quadratic Equation using 1. IF THEN 2. IF THEN ...ELSE",
+      "duration": 628
+    }
+  ]
+}

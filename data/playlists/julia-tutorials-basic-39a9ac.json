@@ -1,0 +1,70 @@
+{
+  "courseId": "julia-tutorials-basic-39a9ac",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:21.972Z",
+  "title": "Julia Tutorials (Basic)",
+  "channel": "by The Julia Programming Language",
+  "videos": [
+    {
+      "id": "4igzy3bGVkQ",
+      "title": "A Gentle Introduction to Julia",
+      "duration": 6002
+    },
+    {
+      "id": "oyx8M1yoboY",
+      "title": "How to install Julia and Jupyter notebooks",
+      "duration": 315
+    },
+    {
+      "id": "76KL8aSz0Sg",
+      "title": "How to get started with Julia 1.0's package manager",
+      "duration": 337
+    },
+    {
+      "id": "QVmU29rCjaA",
+      "title": "Developing Julia Packages",
+      "duration": 3321
+    },
+    {
+      "id": "tx8DRc7_c9I",
+      "title": "Developing and Editing Julia Packages",
+      "duration": 2907
+    },
+    {
+      "id": "HWLV6oTmfO8",
+      "title": "Julia: A third perspective - parallel computing explained",
+      "duration": 3910
+    },
+    {
+      "id": "EkgCENBFrAY",
+      "title": "Julia  REPL tips and tricks! Coding productivity hacks and quality of life",
+      "duration": 2445
+    },
+    {
+      "id": "8h8rQyEpiZA",
+      "title": "Intro to Julia tutorial (version 1.0)",
+      "duration": 8649
+    },
+    {
+      "id": "Rk12jda7cV0",
+      "title": "Introduction to Julia for Programmers | Printing, Variables, Comments, Math | with Logan Kilpatrick",
+      "duration": 620
+    },
+    {
+      "id": "KldNhe4kvuk",
+      "title": "Managing Packages | Intro to Julia (for Programmers) | on Julia Academy | with Logan Kilpatrick",
+      "duration": 594
+    },
+    {
+      "id": "pHQe3PiYY1w",
+      "title": "Exploring Structs in the Julia programming language with Logan Kilpatrick",
+      "duration": 466
+    },
+    {
+      "id": "7hVV5uoEo-0",
+      "title": "Introduction to Julia | Matt Bauman | JuliaCon 2024",
+      "duration": 11294
+    }
+  ]
+}

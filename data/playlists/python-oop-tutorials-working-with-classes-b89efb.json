@@ -1,0 +1,40 @@
+{
+  "courseId": "python-oop-tutorials-working-with-classes-b89efb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:56.089Z",
+  "title": "Python OOP Tutorials - Working with Classes",
+  "channel": "Corey Schafer",
+  "videos": [
+    {
+      "id": "ZDa-Z5JzLYM",
+      "title": "Python OOP Tutorial 1: Classes and Instances",
+      "duration": 924
+    },
+    {
+      "id": "BJ-VvGyQxho",
+      "title": "Python OOP Tutorial 2: Class Variables",
+      "duration": 701
+    },
+    {
+      "id": "rq8cL2XMM5M",
+      "title": "Python OOP Tutorial 3: classmethods and staticmethods",
+      "duration": 920
+    },
+    {
+      "id": "RSl87lqOXDE",
+      "title": "Python OOP Tutorial 4: Inheritance - Creating Subclasses",
+      "duration": 1180
+    },
+    {
+      "id": "3ohzBxoFHAY",
+      "title": "Python OOP Tutorial 5: Special (Magic/Dunder) Methods",
+      "duration": 830
+    },
+    {
+      "id": "jCzT9XFZ5bw",
+      "title": "Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters",
+      "duration": 573
+    }
+  ]
+}

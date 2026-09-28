@@ -1,0 +1,40 @@
+{
+  "courseId": "free-dart-course-d19586",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkVR2FiAS7TTCT_n2mDhwISE",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:33.299Z",
+  "title": "Free Dart Course 💙",
+  "channel": "Vandad Nahavandipoor",
+  "videos": [
+    {
+      "id": "SV3PEvZU8Z0",
+      "title": "Intro - Free Dart Course 💙",
+      "duration": 244
+    },
+    {
+      "id": "uI-42qQbB_8",
+      "title": "Chapter 1 - Abstract Classes - Free Dart Course 💙",
+      "duration": 2190
+    },
+    {
+      "id": "qSFPygTKdzk",
+      "title": "Chapter 2 - Mixins - Free Dart Course 💙",
+      "duration": 1800
+    },
+    {
+      "id": "WCKmLQfpUEU",
+      "title": "Chapter 3 - Isolates - Free Dart Course 💙",
+      "duration": 5926
+    },
+    {
+      "id": "Rs9i8zJhN68",
+      "title": "Chapter 4 - Concurrency - Free Dart Course 💙",
+      "duration": 7653
+    },
+    {
+      "id": "Uy0X86M_cDo",
+      "title": "Stay Tuned - Free Dart Course 💙",
+      "duration": 19
+    }
+  ]
+}

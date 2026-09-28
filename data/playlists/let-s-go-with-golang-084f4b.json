@@ -1,0 +1,320 @@
+{
+  "courseId": "let-s-go-with-golang-084f4b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:45.918Z",
+  "title": "Javascript course",
+  "channel": "Hitesh Choudhary",
+  "videos": [
+    {
+      "id": "2md4HQNRqJA",
+      "title": "Welcome to new JavaScript course",
+      "duration": 374
+    },
+    {
+      "id": "papg2tsoFzg",
+      "title": "Welcome to Javascript Course",
+      "duration": 278
+    },
+    {
+      "id": "BMKWdLX9w3M",
+      "title": "What are Javascript engines",
+      "duration": 585
+    },
+    {
+      "id": "7z-VseyACaE",
+      "title": "What ES version of javascript is good for us",
+      "duration": 384
+    },
+    {
+      "id": "ycLqC41TO1U",
+      "title": "Variable and datatypes in javascript",
+      "duration": 767
+    },
+    {
+      "id": "Sb5_BIprKDs",
+      "title": "Our first User Signup",
+      "duration": 693
+    },
+    {
+      "id": "WxyFRb0_eUQ",
+      "title": "Operators in javascript | Calculate discount",
+      "duration": 647
+    },
+    {
+      "id": "nvKktNrJXcY",
+      "title": "Type and Operator precedence in javascript",
+      "duration": 357
+    },
+    {
+      "id": "gx7N3QGrVWE",
+      "title": "What are conditionals in javascript",
+      "duration": 508
+    },
+    {
+      "id": "uT9n7iIxEw8",
+      "title": "Logical conditional Login in javascript",
+      "duration": 319
+    },
+    {
+      "id": "R0HJtkYtjwk",
+      "title": "Ternary operator in javascript",
+      "duration": 405
+    },
+    {
+      "id": "_wyPpPlFwrI",
+      "title": "Switch for role based access in javascript",
+      "duration": 453
+    },
+    {
+      "id": "0O-9uXmqbFI",
+      "title": "Coercion and falsy values in JavaScript",
+      "duration": 417
+    },
+    {
+      "id": "TwDHINjr1AQ",
+      "title": "Basics of functions in javascript",
+      "duration": 550
+    },
+    {
+      "id": "hEX8ohGSOyc",
+      "title": "Functions in variable | User Role in javascript",
+      "duration": 523
+    },
+    {
+      "id": "_JMXlGt3OSo",
+      "title": "Understand the context in javascript",
+      "duration": 518
+    },
+    {
+      "id": "9Ta1umc3tkQ",
+      "title": "Code hoisting in javascript",
+      "duration": 1009
+    },
+    {
+      "id": "vGGOOYOXoQ4",
+      "title": "Scope chaining in javascript",
+      "duration": 569
+    },
+    {
+      "id": "lTACw0-yAzc",
+      "title": "Light intro to THIS in javascript",
+      "duration": 422
+    },
+    {
+      "id": "Lr-uGVNM8Ko",
+      "title": "Introduction to Array in javascript",
+      "duration": 1070
+    },
+    {
+      "id": "Tny4_-QjNHg",
+      "title": "Callback and arrow function introduction in array",
+      "duration": 763
+    },
+    {
+      "id": "2k6osJPXsgk",
+      "title": "Fill and Filter in Array in Javascript",
+      "duration": 489
+    },
+    {
+      "id": "t1qDSAUclzI",
+      "title": "Slice and Splice in Javascript",
+      "duration": 476
+    },
+    {
+      "id": "HPddGlSIV3M",
+      "title": "Objects in Javascript",
+      "duration": 517
+    },
+    {
+      "id": "gqBaQHXHwm0",
+      "title": "Methods and objects in javascript",
+      "duration": 567
+    },
+    {
+      "id": "26QWcjTdJGM",
+      "title": "For loop basics in Javascript",
+      "duration": 721
+    },
+    {
+      "id": "kCl3W4kR4-c",
+      "title": "While and do while loops in javascript",
+      "duration": 390
+    },
+    {
+      "id": "QAFjcAxcNcY",
+      "title": "For Each loop in javascript",
+      "duration": 460
+    },
+    {
+      "id": "NlagmmCwOU4",
+      "title": "For in and for of loop in javascript",
+      "duration": 423
+    },
+    {
+      "id": "jTPt5XO7KoU",
+      "title": "Confusing part of THIS in javascript",
+      "duration": 549
+    },
+    {
+      "id": "GkXAGe7SLm0",
+      "title": "What is DOM",
+      "duration": 684
+    },
+    {
+      "id": "nkOL-mZjq60",
+      "title": "How to grab web elements in javascript",
+      "duration": 547
+    },
+    {
+      "id": "eUm1evTJ2Z8",
+      "title": "A counter project in javascript",
+      "duration": 853
+    },
+    {
+      "id": "NONbkVx5FAM",
+      "title": "Get Computed properties in javascript",
+      "duration": 747
+    },
+    {
+      "id": "aBnsO6QWGEY",
+      "title": "Event listener in javascript",
+      "duration": 740
+    },
+    {
+      "id": "Uhp9xPCILno",
+      "title": "New keyword in Javascript",
+      "duration": 752
+    },
+    {
+      "id": "w9CaKd2bq-E",
+      "title": "What is proto in javascript",
+      "duration": 433
+    },
+    {
+      "id": "ko5tv0tP6XA",
+      "title": "Better code with object chain in javascript",
+      "duration": 448
+    },
+    {
+      "id": "IH7TJla_rwY",
+      "title": "Objects from MDN docs",
+      "duration": 562
+    },
+    {
+      "id": "XRwgc6ERk_g",
+      "title": "Self Executing Anonymous Function and functional programming",
+      "duration": 367
+    },
+    {
+      "id": "qT5S7GgIioE",
+      "title": "Lexical scoping in javascript",
+      "duration": 364
+    },
+    {
+      "id": "bC-ilFHSt4s",
+      "title": "Closure in javascript",
+      "duration": 649
+    },
+    {
+      "id": "QoUboMfIemw",
+      "title": "Borrow a method using bind",
+      "duration": 886
+    },
+    {
+      "id": "fPBPlNABfpk",
+      "title": "Get to know node Elements in Javascript",
+      "duration": 333
+    },
+    {
+      "id": "fEj0IsPa37M",
+      "title": "Generating elements and Text node in DOM",
+      "duration": 1297
+    },
+    {
+      "id": "r2YoiwVmAa0",
+      "title": "Solution of Scope problem in javascript",
+      "duration": 493
+    },
+    {
+      "id": "vXhbV_xgkMo",
+      "title": "Template literals in javascript",
+      "duration": 407
+    },
+    {
+      "id": "fMfMdE3wifs",
+      "title": "Maps in javascript",
+      "duration": 567
+    },
+    {
+      "id": "brtUfHte9uc",
+      "title": "Destructure the data in javascript",
+      "duration": 439
+    },
+    {
+      "id": "DoIGxx7P-ps",
+      "title": "Spread and REST operators in Javascript",
+      "duration": 840
+    },
+    {
+      "id": "dQCdwX0p_tc",
+      "title": "Classes and module exports in javascript",
+      "duration": 869
+    },
+    {
+      "id": "mGR2nH1HIR4",
+      "title": "Private props getters and setters in javascript",
+      "duration": 371
+    },
+    {
+      "id": "FX2hGgUPbeY",
+      "title": "Inheritance in javascript",
+      "duration": 562
+    },
+    {
+      "id": "WvTMIKHvPxU",
+      "title": "Event loop | Will javascript wait?",
+      "duration": 595
+    },
+    {
+      "id": "Gjbr21JLfgg",
+      "title": "Promise async and await in javascript",
+      "duration": 699
+    },
+    {
+      "id": "wjbsRjf8QN8",
+      "title": "How to Handle API in javascript",
+      "duration": 989
+    },
+    {
+      "id": "ksV07bvCR3c",
+      "title": "Get to know game files",
+      "duration": 335
+    },
+    {
+      "id": "K0KQP7qfrYo",
+      "title": "Logic of game | javascript",
+      "duration": 1444
+    },
+    {
+      "id": "ZqOUYVjllVE",
+      "title": "Fixing the bug in game | Javascript",
+      "duration": 216
+    },
+    {
+      "id": "YwHJCTXg6Es",
+      "title": "What is new in Javascript 2021",
+      "duration": 968
+    },
+    {
+      "id": "Ex652LPfUdA",
+      "title": "Why iife appears in javascript interviews",
+      "duration": 807
+    },
+    {
+      "id": "DlYlFpGEghQ",
+      "title": "Quirky Behaviour of javascript",
+      "duration": 396
+    }
+  ]
+}

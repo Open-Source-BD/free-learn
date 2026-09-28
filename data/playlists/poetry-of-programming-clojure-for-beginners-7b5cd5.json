@@ -1,0 +1,225 @@
+{
+  "courseId": "poetry-of-programming-clojure-for-beginners-7b5cd5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:05.054Z",
+  "title": "Poetry of Programming - Clojure for beginners",
+  "channel": "Attila EGRI-NAGY",
+  "videos": [
+    {
+      "id": "CjdVNCQ7YHA",
+      "title": "Poetry of Programming - Clojure course Introduction",
+      "duration": 166
+    },
+    {
+      "id": "x09-2JEE9SU",
+      "title": "Evaluation",
+      "duration": 322
+    },
+    {
+      "id": "397NASfRgNQ",
+      "title": "Function composition",
+      "duration": 635
+    },
+    {
+      "id": "vjF84r1IcFA",
+      "title": "Arithmetic by functions - Clojure",
+      "duration": 514
+    },
+    {
+      "id": "yqtQ8lM7-ig",
+      "title": "Predicate functions - Clojure",
+      "duration": 617
+    },
+    {
+      "id": "9ruymXSS-RA",
+      "title": "Hosted languages: Clojure and ClojureScript",
+      "duration": 207
+    },
+    {
+      "id": "fQGFrmVfd1g",
+      "title": "Strings - Clojure",
+      "duration": 492
+    },
+    {
+      "id": "Leiw3Xc7pLg",
+      "title": "Lists in Clojure",
+      "duration": 788
+    },
+    {
+      "id": "mQRWsO41Dvo",
+      "title": "Vectors - Clojure",
+      "duration": 271
+    },
+    {
+      "id": "E95CGXLEIJg",
+      "title": "Vector as a function",
+      "duration": 498
+    },
+    {
+      "id": "NMHYBNDpSRY",
+      "title": "Symbol binding - \"making memories\"",
+      "duration": 373
+    },
+    {
+      "id": "8fDJvh6VqBo",
+      "title": "Defining functions in Clojure",
+      "duration": 629
+    },
+    {
+      "id": "dG7HaBl74Fw",
+      "title": "Lambda functions",
+      "duration": 546
+    },
+    {
+      "id": "mMMtgO6DDbM",
+      "title": "Text and code blocks, slurping and barfing in maria.cloud",
+      "duration": 274
+    },
+    {
+      "id": "t7JSXyqpTEY",
+      "title": "apply - manual function call",
+      "duration": 382
+    },
+    {
+      "id": "_0ho_8pg3Wk",
+      "title": "Common Beginner  Problems - Clojure",
+      "duration": 480
+    },
+    {
+      "id": "K6uv4YqeSto",
+      "title": "Lazy sequences of numbers",
+      "duration": 923
+    },
+    {
+      "id": "PMiqZO_Fib4",
+      "title": "Functional collection transformation",
+      "duration": 493
+    },
+    {
+      "id": "ceNQWRynSKM",
+      "title": "Selecting from a collection",
+      "duration": 250
+    },
+    {
+      "id": "z5RONcxhJYo",
+      "title": "Conditional: if special form",
+      "duration": 228
+    },
+    {
+      "id": "K-rdLlryvkk",
+      "title": "Conditional: cond",
+      "duration": 450
+    },
+    {
+      "id": "MZHLGLtMJ7g",
+      "title": "Logic with truthy and falsey",
+      "duration": 475
+    },
+    {
+      "id": "vR5m8VmBmME",
+      "title": "Reducing a collection - introducing the abstract idea",
+      "duration": 231
+    },
+    {
+      "id": "cO_gCooFNnA",
+      "title": "Reducing a collection - abstract definition and examples.",
+      "duration": 704
+    },
+    {
+      "id": "zHg6ubm43Bg",
+      "title": "Hash-maps - Introduction",
+      "duration": 754
+    },
+    {
+      "id": "b89CRCHU9pI",
+      "title": "Keywords",
+      "duration": 442
+    },
+    {
+      "id": "qdmqex7wkqA",
+      "title": "Hash-sets",
+      "duration": 526
+    },
+    {
+      "id": "MKTQF1P7uXA",
+      "title": "Sequence abstraction",
+      "duration": 398
+    },
+    {
+      "id": "cxnXVrP-za4",
+      "title": "conj, the universal way of growing collections",
+      "duration": 408
+    },
+    {
+      "id": "U3IUdpHplGY",
+      "title": "Creating collections",
+      "duration": 446
+    },
+    {
+      "id": "CQCQpKPhMBI",
+      "title": "Iteration",
+      "duration": 293
+    },
+    {
+      "id": "7BeeDnWTm1Q",
+      "title": "Immutability",
+      "duration": 340
+    },
+    {
+      "id": "He3Xu5NMyms",
+      "title": "Troubleshooting techniques: walking the parens",
+      "duration": 323
+    },
+    {
+      "id": "9KV6UJ1YqMY",
+      "title": "zipmap",
+      "duration": 297
+    },
+    {
+      "id": "6U-pcKDJfdY",
+      "title": "Recursion - explanation through a silly little example",
+      "duration": 608
+    },
+    {
+      "id": "lDwBrdg3YGo",
+      "title": "Tower of Hanoi - recursive solution",
+      "duration": 906
+    },
+    {
+      "id": "H3YVxkWrAqU",
+      "title": "Function not called - typical problem",
+      "duration": 337
+    },
+    {
+      "id": "SoU5_Fqh1M8",
+      "title": "Sequences construction with for",
+      "duration": 810
+    },
+    {
+      "id": "AOl2_jpfZ9E",
+      "title": "Point-free style in Clojure 1",
+      "duration": 841
+    },
+    {
+      "id": "fkceiVHoxyA",
+      "title": "Point-free style in Clojure 2: Golden ratio continued fraction sequence",
+      "duration": 399
+    },
+    {
+      "id": "7_dM5O-C_Sc",
+      "title": "Destructuring",
+      "duration": 1034
+    },
+    {
+      "id": "B9oIUBVEi-Y",
+      "title": "Side effects",
+      "duration": 878
+    },
+    {
+      "id": "uDac2bsQntk",
+      "title": "Quil: Creative Coding in Clojure and ClojureScript",
+      "duration": 765
+    }
+  ]
+}

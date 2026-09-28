@@ -1,0 +1,60 @@
+{
+  "courseId": "python-for-beginners-286c2a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:43.337Z",
+  "title": "Python for Beginners",
+  "channel": "Alex The Analyst",
+  "videos": [
+    {
+      "id": "WUeBzT43JyY",
+      "title": "Installing Jupyter Notebooks/Anaconda | Python for Beginners",
+      "duration": 603
+    },
+    {
+      "id": "pHOH7UfOhbE",
+      "title": "Variables in Python | Python for Beginners",
+      "duration": 797
+    },
+    {
+      "id": "ppsCxnNm-JI",
+      "title": "Data Types in Python | Python for Beginners",
+      "duration": 1318
+    },
+    {
+      "id": "lPVke-p4S7s",
+      "title": "Comparison, Logical, and Membership Operators in Python | Python for Beginners",
+      "duration": 435
+    },
+    {
+      "id": "-BOBedcjySI",
+      "title": "If Else Statements in Python | Python for Beginners",
+      "duration": 400
+    },
+    {
+      "id": "zmIdC0_0BgY",
+      "title": "For Loops in Python | Python for Beginners",
+      "duration": 557
+    },
+    {
+      "id": "ECduJk00mUU",
+      "title": "While Loops in Python | Python for Beginners",
+      "duration": 340
+    },
+    {
+      "id": "zvzjaqMBEso",
+      "title": "Functions in Python | Python for Beginners",
+      "duration": 764
+    },
+    {
+      "id": "B63bN2cLVLM",
+      "title": "Converting Data Types in Python | Python for Beginners",
+      "duration": 396
+    },
+    {
+      "id": "ey1VNjU0YbM",
+      "title": "Building a BMI Calculator with Python | Python Projects for Beginners",
+      "duration": 863
+    }
+  ]
+}

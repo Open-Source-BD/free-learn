@@ -1,0 +1,145 @@
+{
+  "courseId": "hibernate-tutorial-for-beginners-45dd46",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:20.241Z",
+  "title": "Hibernate Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "PMR0ld5h938",
+      "title": "#1 Hibernate Tutorial | Introduction",
+      "duration": 281
+    },
+    {
+      "id": "YQRzVFvYTOA",
+      "title": "#2 Hibernate Tutorial | Prerequisites",
+      "duration": 164
+    },
+    {
+      "id": "8qZZeskl8Fc",
+      "title": "#3 Hibernate Tutorial | Theory",
+      "duration": 589
+    },
+    {
+      "id": "vOiCGQ-DXX8",
+      "title": "#4 Hibernate Tutorial | Practical",
+      "duration": 720
+    },
+    {
+      "id": "FJdqunnFmeQ",
+      "title": "#5 Hibernate Tutorial | How to add Hibernate Plugin in Eclipse",
+      "duration": 99
+    },
+    {
+      "id": "HslkJXvqlWs",
+      "title": "#6 Hibernate Tutorial | Configuration File",
+      "duration": 430
+    },
+    {
+      "id": "KZw7jnXA6u4",
+      "title": "#7 Hibernate Tutorial | Working",
+      "duration": 281
+    },
+    {
+      "id": "xQTqXxYZcz8",
+      "title": "#8 Hibernate Tutorial | Show sql Property",
+      "duration": 206
+    },
+    {
+      "id": "zyK13CMNS3w",
+      "title": "#9 Hibernate Tutorial | Annotation",
+      "duration": 292
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "Snk7CWv0q-E",
+      "title": "#10 Hibernate Tutorial | Fetching",
+      "duration": 275
+    },
+    {
+      "id": "pWqC0CvDnZc",
+      "title": "#11 Hibernate Tutorial | Embeddable",
+      "duration": 481
+    },
+    {
+      "id": "VLlDaIcb3jE",
+      "title": "#12 Hibernate Tutorial | Mapping Relations Theory",
+      "duration": 794
+    },
+    {
+      "id": "8mUPvdDGoLQ",
+      "title": "#13 Hibernate Tutorial | Mapping Relations Practical",
+      "duration": 937
+    },
+    {
+      "id": "ucuVbL-tsUY",
+      "title": "#14 Hibernate Tutorial | Fetch EAGER LAZY",
+      "duration": 395
+    },
+    {
+      "id": "fVDu0sF_wSA",
+      "title": "#15 Hibernate Tutorial | Caching",
+      "duration": 517
+    },
+    {
+      "id": "7yPalDu6gx8",
+      "title": "#16 Hibernate Tutorial | Caching Level 1",
+      "duration": 397
+    },
+    {
+      "id": "TCHm1h7rBmo",
+      "title": "#17 Hibernate Tutorial | Caching Level 2",
+      "duration": 591
+    },
+    {
+      "id": "2hYtMfQ2TnQ",
+      "title": "#18 Hibernate Tutorial | Caching Level 2 with Query",
+      "duration": 277
+    },
+    {
+      "id": "O7W2baUP54k",
+      "title": "#19 Hibernate Tutorial | HQL | Hibernate Query Language Theory",
+      "duration": 256
+    },
+    {
+      "id": "RuBfc8kfSas",
+      "title": "#20 Hibernate Tutorial | HQL | Hibernate Query Language part 1",
+      "duration": 551
+    },
+    {
+      "id": "_yBjL_5bH8E",
+      "title": "#21 Hibernate Tutorial | HQL | Hibernate Query Language part 2",
+      "duration": 531
+    },
+    {
+      "id": "kd0b2yxmS5Y",
+      "title": "#22 Hibernate Tutorial | HQL | Hibernate Query Language part 3",
+      "duration": 433
+    },
+    {
+      "id": "ZLeTFBvegfY",
+      "title": "Hibernate Object States | Persistence Life Cycle",
+      "duration": 393
+    },
+    {
+      "id": "7wrN-Y6K9B4",
+      "title": "Hibernate Object States Pratical | Persistence Life Cycle",
+      "duration": 439
+    },
+    {
+      "id": "W6vPLnoraqM",
+      "title": "Hibernate get vs load",
+      "duration": 335
+    },
+    {
+      "id": "otinfgwkMbY",
+      "title": "What is JPA? | JPA Implementation",
+      "duration": 1581
+    }
+  ]
+}

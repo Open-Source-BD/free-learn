@@ -1,0 +1,295 @@
+{
+  "courseId": "swiftui-tutorials-031d83",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:02.606Z",
+  "title": "SwiftUI Tutorials",
+  "channel": "Sean Allen",
+  "videos": [
+    {
+      "id": "fjtWpQGs5lU",
+      "title": "SwiftUI Image Playground - AI Images with Apple Intelligence",
+      "duration": 896
+    },
+    {
+      "id": "EK7SthdWV2w",
+      "title": "SwiftUI Data Flow in iOS 17 - Observation & @Observable",
+      "duration": 477
+    },
+    {
+      "id": "oxp8Qqwr4AY",
+      "title": "NavigationStack - SwiftUI Programmatic Navigation - iOS 16",
+      "duration": 1220
+    },
+    {
+      "id": "IwUp2iP0jnI",
+      "title": "Super Power Scroll Views - SwiftUI - iOS 17",
+      "duration": 554
+    },
+    {
+      "id": "vfUalXtwth0",
+      "title": "SwiftUI Grids - LazyVGrid, LazyHGrid, Static Grid",
+      "duration": 1075
+    },
+    {
+      "id": "lsXqJKm4l-U",
+      "title": "SwiftUI Drag and Drop with Transferable Custom Object",
+      "duration": 1593
+    },
+    {
+      "id": "mvXFGikltPc",
+      "title": "Intro to SwiftData - Model, Container, Fetch, Create, Update & Delete",
+      "duration": 1633
+    },
+    {
+      "id": "8M3N4HWUc0U",
+      "title": "SwiftUI Pie & Donut Charts - New in iOS 17",
+      "duration": 595
+    },
+    {
+      "id": "4utsyqhnS4g",
+      "title": "SwiftUI Bar Chart with Customizations | Swift Charts",
+      "duration": 1286
+    },
+    {
+      "id": "uloAs9tQIcA",
+      "title": "Interactive SwiftUI Chart - Drag to Show Data w/ Animation",
+      "duration": 1077
+    },
+    {
+      "id": "98rQZbwxMFI",
+      "title": "SwiftUI Maps - iOS 17 - Look Around, User Location, Directions, Markers & Annotations, Map Styles",
+      "duration": 2104
+    },
+    {
+      "id": "2c1IQ0BT0PE",
+      "title": "SwiftUI Alerts - Buttons, TextFields, & Passing Errors",
+      "duration": 798
+    },
+    {
+      "id": "NvE3SaGGurQ",
+      "title": "SwiftUI Card View - Group Box & Customizations",
+      "duration": 621
+    },
+    {
+      "id": "MCLiPW2ns2w",
+      "title": "SwiftUI Tic Tac Toe | Multiple AI Difficulties | MVVM | Portfolio Project",
+      "duration": 4714
+    },
+    {
+      "id": "iTqwa0DCIMA",
+      "title": "SwiftUI Search Bar - Searchable",
+      "duration": 375
+    },
+    {
+      "id": "k5rupivxnMA",
+      "title": "SwiftUI List with Custom Cell & Passing Data",
+      "duration": 2187
+    },
+    {
+      "id": "FwGMU_Grnf8",
+      "title": "SwiftUI - Intro to MVVM | Example Refactor | Model View ViewModel",
+      "duration": 715
+    },
+    {
+      "id": "m0QQ-hWs8fc",
+      "title": "SwiftUI Form w/ TextField, DatePicker, Toggle, Stepper, Link and Sections w/ Header",
+      "duration": 865
+    },
+    {
+      "id": "bEB7ATENue0",
+      "title": "Simple, Clean Empty States in SwiftUI - ContentUnavailableView - iOS 17",
+      "duration": 451
+    },
+    {
+      "id": "e7OuerHs8PU",
+      "title": "SwiftUI Profile Animation | Matched Geometry Effect",
+      "duration": 588
+    },
+    {
+      "id": "-sw7gvNUboc",
+      "title": "SwiftUI Toggle - Button & Switch Tutorial",
+      "duration": 319
+    },
+    {
+      "id": "qlMxrwJfHaE",
+      "title": "SwiftUI Tooltips with TipKit (Popover & Inline Tips)",
+      "duration": 977
+    },
+    {
+      "id": "hWMkimzIQoU",
+      "title": "How to Get User Location on a Map - Swift",
+      "duration": 1571
+    },
+    {
+      "id": "iqKmgs_0VPE",
+      "title": "SwiftUI Segmented Control Tutorial | iOS 14 | Xcode 12.4",
+      "duration": 530
+    },
+    {
+      "id": "sWhoAXjiOVA",
+      "title": "SwiftUI Navigation Bar Button | Toolbar | iOS 14 | Xcode 12.4",
+      "duration": 387
+    },
+    {
+      "id": "48JYBb5yJ0s",
+      "title": "SwiftUI - @State Property Wrapper Explained",
+      "duration": 271
+    },
+    {
+      "id": "lgtB3WLEOYg",
+      "title": "SwiftUI - @Binding Property Wrapper Explained - Passing Data",
+      "duration": 382
+    },
+    {
+      "id": "YL43vieArF8",
+      "title": "SwiftUI Link - Open Website in Safari | iOS 14 | Xcode 12.4",
+      "duration": 238
+    },
+    {
+      "id": "Kp9sHwp4wN8",
+      "title": "SwiftUI ColorPicker | iOS 14 | Xcode 12.4",
+      "duration": 170
+    },
+    {
+      "id": "Q036u2OWOVQ",
+      "title": "SwiftUI - Redacted Tutorial | iOS 14 | Xcode 12.4",
+      "duration": 434
+    },
+    {
+      "id": "tnNFoZ7CkP8",
+      "title": "SwiftUI - TabView Tutorial",
+      "duration": 216
+    },
+    {
+      "id": "2Jk58S6FiZw",
+      "title": "SwiftUI - Loading View | Activity Indicator",
+      "duration": 433
+    },
+    {
+      "id": "wZinqpiAEiA",
+      "title": "SwiftUI - DatePicker Tutorial",
+      "duration": 446
+    },
+    {
+      "id": "IopCl8sOyFA",
+      "title": "SwiftUI Navigation - NavigationView & NavigationLink Tutorial",
+      "duration": 1054
+    },
+    {
+      "id": "5PJL4xxEXJE",
+      "title": "SwiftUI - Swipe Actions on List | iOS 15 & Xcode 13",
+      "duration": 520
+    },
+    {
+      "id": "qSV0lnuGhwM",
+      "title": "SwiftUI Gradient Buttons | Linear, Radial & Angular Gradients",
+      "duration": 595
+    },
+    {
+      "id": "jCskmh46L-s",
+      "title": "New SwiftUI Photo Picker - Single & Multiple Selection",
+      "duration": 762
+    },
+    {
+      "id": "V-kSSjh1T74",
+      "title": "SwiftUI Photo Picker - Compressed Images, UIViewControllerRepresentable",
+      "duration": 1190
+    },
+    {
+      "id": "4xRm8MqMtG4",
+      "title": "SwiftUI Custom Path Drawing - Map Balloon Shape",
+      "duration": 902
+    },
+    {
+      "id": "N2RLA0TPucE",
+      "title": "SwiftUI Preview Tips & Tricks",
+      "duration": 603
+    },
+    {
+      "id": "1kX0vA6SXBo",
+      "title": "SwiftUI - Context Menu - Power User Shortcuts",
+      "duration": 331
+    },
+    {
+      "id": "S3DVAGQX0kI",
+      "title": "SwiftUI Environment Values - What are they? Code Examples | Xcode 13",
+      "duration": 504
+    },
+    {
+      "id": "0OaHzM3F9es",
+      "title": "SwiftUI Page View | Onboard Flow",
+      "duration": 340
+    },
+    {
+      "id": "P6ZUiH1IZlQ",
+      "title": "SwiftUI LocationButton - Get User Location |  iOS 15",
+      "duration": 1128
+    },
+    {
+      "id": "V1eoQvDgpuc",
+      "title": "SwiftUI Confirmation Dialog | iOS 15",
+      "duration": 412
+    },
+    {
+      "id": "o8AMXHzZoDg",
+      "title": "SwiftUI New Button Styles | iOS 15",
+      "duration": 386
+    },
+    {
+      "id": "gw2k-sXTEyI",
+      "title": "SwiftUI Bottom Sheet - Resizable",
+      "duration": 442
+    },
+    {
+      "id": "_oTPT3gFUms",
+      "title": "Request App Ratings & Review - SwiftUI | iOS 16 | Xcode 14",
+      "duration": 126
+    },
+    {
+      "id": "HXoVSbwWUIk",
+      "title": "SwiftUI Basics Tutorial",
+      "duration": 4771
+    },
+    {
+      "id": "VNRdRlHsr2k",
+      "title": "SwiftUI - Reorder a List (2 Ways)",
+      "duration": 813
+    },
+    {
+      "id": "cpT02OtOasE",
+      "title": "Fix This Problem with SwiftUI Lists",
+      "duration": 279
+    },
+    {
+      "id": "6SUgEBDs1C8",
+      "title": "SwiftUI - Support Prior iOS Versions - Backward Compatibility - #available",
+      "duration": 566
+    },
+    {
+      "id": "c5XaOrVYRGI",
+      "title": "Advanced SwiftUI Animations - PhaseAnimator - iOS 17+",
+      "duration": 918
+    },
+    {
+      "id": "oJDu0dKa0PU",
+      "title": "Stop Creating Custom Colors in SwiftUI",
+      "duration": 582
+    },
+    {
+      "id": "GFjOuH2Utt4",
+      "title": "SwiftUI - Glowing Button Animation",
+      "duration": 543
+    },
+    {
+      "id": "e4s37VcWCj0",
+      "title": "Why SwiftUI's Built-In Font is OP 🔥",
+      "duration": 327
+    },
+    {
+      "id": "C0wu_dAQqAk",
+      "title": "The Most Satisfying iOS 26 Design Feature - Concentricity",
+      "duration": 478
+    }
+  ]
+}

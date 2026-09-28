@@ -1,0 +1,80 @@
+{
+  "courseId": "angular-courses-ae86fd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:11.705Z",
+  "title": "Angular Tutorials",
+  "channel": "Programming with Mosh",
+  "videos": [
+    {
+      "id": "k5E2AVpwsko",
+      "title": "Angular Tutorial for Beginners: Learn Angular & TypeScript",
+      "duration": 7362
+    },
+    {
+      "id": "9AaRJ8COXdM",
+      "title": "AngularJS vs Angular 2 vs Angular 4 | Mosh",
+      "duration": 255
+    },
+    {
+      "id": "LtT01ZCHRjk",
+      "title": "Directives in Angular Applications",
+      "duration": 1513
+    },
+    {
+      "id": "WjcL09xgo3o",
+      "title": "Two-way Binding and ngModel in Angular 4",
+      "duration": 486
+    },
+    {
+      "id": "hAaoPOx_oIw",
+      "title": "Building Forms in Angular Apps | Mosh",
+      "duration": 1504
+    },
+    {
+      "id": "wPT3K3w6JtU",
+      "title": "Angular Material Tutorial | Mosh",
+      "duration": 2179
+    },
+    {
+      "id": "ra5qNKNc95U",
+      "title": "Angular Animations Tutorial | Mosh",
+      "duration": 1979
+    },
+    {
+      "id": "tUCa3JcFILI",
+      "title": "Routing and Navigation in Angular | Mosh",
+      "duration": 1472
+    },
+    {
+      "id": "vwyvMZStS54",
+      "title": "Deploying Angular Applications | Mosh",
+      "duration": 1627
+    },
+    {
+      "id": "mqWXRX5fxGQ",
+      "title": "Firebase in Angular Applications | Mosh",
+      "duration": 1613
+    },
+    {
+      "id": "_-CD_5YhJTA",
+      "title": "Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch | Mosh",
+      "duration": 3253
+    },
+    {
+      "id": "CaspUXvVVG4",
+      "title": "Architecture of Angular 2+ Apps",
+      "duration": 331
+    },
+    {
+      "id": "SRn_E6juCVE",
+      "title": "Working with Components in Angular",
+      "duration": 626
+    },
+    {
+      "id": "NjN00cM18Z4",
+      "title": "TypeScript Tutorial - TypeScript for React - Learn TypeScript",
+      "duration": 3093
+    }
+  ]
+}

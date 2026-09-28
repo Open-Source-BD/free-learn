@@ -1,0 +1,70 @@
+{
+  "courseId": "python-machine-learning-tutorials-03d9c7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:49.818Z",
+  "title": "Python Machine Learning Tutorials",
+  "channel": "Tech With Tim",
+  "videos": [
+    {
+      "id": "ujTCoH21GlA",
+      "title": "Python Machine Learning Tutorial #1 - Introduction",
+      "duration": 681
+    },
+    {
+      "id": "45ryDIPHdGg",
+      "title": "Python Machine Learning Tutorial #2 - Linear Regression p.1",
+      "duration": 888
+    },
+    {
+      "id": "1BYu65vLKdA",
+      "title": "Python Machine Learning Tutorial #3 - Linear Regression p.2",
+      "duration": 1019
+    },
+    {
+      "id": "3AQ_74xrch8",
+      "title": "Python Machine Learning Tutorial #4 - Saving Models & Plotting Data",
+      "duration": 816
+    },
+    {
+      "id": "ddqQUz9mZaM",
+      "title": "Python Machine Learning Tutorial #5 - KNN p.1 - Irregular Data",
+      "duration": 768
+    },
+    {
+      "id": "vwLT6bZrHEE",
+      "title": "Python Machine Learning Tutorial #6 - KNN p.2 - How does K Nearest Neighbors Work?",
+      "duration": 819
+    },
+    {
+      "id": "TQKI0KE-JYY",
+      "title": "Python Machine Learning Tutorial #7 - KNN p.3 - Implementation",
+      "duration": 663
+    },
+    {
+      "id": "dNBvQ38MlT8",
+      "title": "Python Machine Learning Tutorial #8 - Using Sklearn Datasets",
+      "duration": 434
+    },
+    {
+      "id": "JHxyrMgOUWI",
+      "title": "Python Machine Learning Tutorial #9 - SVM P.2 - How Support Vector Machines Work",
+      "duration": 854
+    },
+    {
+      "id": "l2I8NycJMCY",
+      "title": "Python Machine Learning Tutorial #10 - SVM P.3 - Implementing a SVM",
+      "duration": 598
+    },
+    {
+      "id": "g1Zbuk1gAfk",
+      "title": "Python Machine Learning Tutorial #11 - How K Means Clustering Works",
+      "duration": 827
+    },
+    {
+      "id": "zixd-si9Q-o",
+      "title": "Python Machine Learning Tutorial #12 - Implementing K-Means Clustering",
+      "duration": 747
+    }
+  ]
+}

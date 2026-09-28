@@ -1,0 +1,105 @@
+{
+  "courseId": "electron-complete-course-de0931",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmx8ERLT7ojO2PAH_sDnnoKXcqswxJ6CL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:37.608Z",
+  "title": "Electron Complete Course",
+  "channel": "coderJeet",
+  "videos": [
+    {
+      "id": "oPUwnDmJRak",
+      "title": "Getting Started With Electron JS - Learn Electron Basics",
+      "duration": 989
+    },
+    {
+      "id": "-bjl401p5r8",
+      "title": "ElectronJS Tutorial - How to debug Electron JS in VS Code",
+      "duration": 486
+    },
+    {
+      "id": "nB4ulB8efck",
+      "title": "How to auto-reload Electron JS projects on file modification",
+      "duration": 447
+    },
+    {
+      "id": "nMvjcBTFlPA",
+      "title": "Connecting to Sqlite Database in Electron JS - (Electron & Databases)",
+      "duration": 1180
+    },
+    {
+      "id": "mgZBcjGPCjo",
+      "title": "Programming MongoDB Database in Electron JS (How to use Mongo in Electron)",
+      "duration": 1934
+    },
+    {
+      "id": "0CJY-IHoNto",
+      "title": "Electron BrowserWindow & WebContents Objects - Electron Basics Tutorial",
+      "duration": 875
+    },
+    {
+      "id": "hsaowq5fMlA",
+      "title": "Context Isolation in Electron JS - Detailed Explanation. Electron JS Tutorial",
+      "duration": 645
+    },
+    {
+      "id": "70-p0mq-w5g",
+      "title": "ipcMain to ipcRenderer Data Communication + How to modify HTML from ipcMain  - Electron JS Tutorial",
+      "duration": 495
+    },
+    {
+      "id": "WNTNcRO9Ikg",
+      "title": "Running an external process or app in ElectronJS",
+      "duration": 570
+    },
+    {
+      "id": "W7X177Af8Ls",
+      "title": "Electron JS Tutorial: ipcRenderer  - All communication methods of explained",
+      "duration": 733
+    },
+    {
+      "id": "nbmJGYn1Jg8",
+      "title": "ElectronJS Tutorial - Inter Process Communication Correct Method (2021)",
+      "duration": 1058
+    },
+    {
+      "id": "CUbysreXVqw",
+      "title": "Making HTTP Calls in Electron JS (4 Methods) - Electron Tutorial",
+      "duration": 1368
+    },
+    {
+      "id": "1rDvNDvZrnA",
+      "title": "Reading & Writing Files in Electron JS - Electron Tutorial",
+      "duration": 956
+    },
+    {
+      "id": "5ofY0UHHtLY",
+      "title": "Storing Data in Electron JS Applications  - 4 Methods",
+      "duration": 1257
+    },
+    {
+      "id": "4aIanHYViOM",
+      "title": "The Complete Electron JS Menu Tutorial (Top Menus, Context Menus & Accelerators)",
+      "duration": 956
+    },
+    {
+      "id": "4D4YOaie24k",
+      "title": "Packaging & Distributing your Electron App - How to create a redistributable setup",
+      "duration": 1272
+    },
+    {
+      "id": "obNrwKcLY18",
+      "title": "Electron Vs .net MAUI - Which technology should you choose?",
+      "duration": 1455
+    },
+    {
+      "id": "idL995KXELU",
+      "title": "Electron Tutorial - How to easily test & run your code using Electron Fiddle",
+      "duration": 1041
+    },
+    {
+      "id": "oaza9tqCWXg",
+      "title": "How to implement Automatic Updates in your Electron JS Application",
+      "duration": 1403
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "courseId": "go-programming-language-tutorial-58ec58",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:38.067Z",
+  "title": "Go Programming Language Tutorial | Golang Tutorial For Beginners | Go Language Training",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "3iuoQkQOx2w",
+      "title": "Go Tutorial (Golang) 1 - Introduction to Go Programming Language",
+      "duration": 599
+    },
+    {
+      "id": "Fnnp6FBYSvo",
+      "title": "Go Tutorial (Golang) 2 - Setup Go Development Environment with Visual Studio Code(VS Code )",
+      "duration": 440
+    },
+    {
+      "id": "Om-4U2a2PYA",
+      "title": "Go Tutorial (Golang) 3 - Golang Variables - Declaring Variables in Go - How To Use Variables in Go",
+      "duration": 729
+    },
+    {
+      "id": "SQWy_J2txsI",
+      "title": "Go Tutorial (Golang) 4 - Variables Naming Convention and Visibility modes and Type Conversion",
+      "duration": 716
+    },
+    {
+      "id": "O_LyJ0roqas",
+      "title": "Go Tutorial (Golang) 5 - Primitives in Golang",
+      "duration": 685
+    },
+    {
+      "id": "pd2TGaao4lI",
+      "title": "Go Tutorial (Golang) 6 - Integer Types, Bitwise Operators, Bit Shifting",
+      "duration": 814
+    },
+    {
+      "id": "hqPX-POlKM4",
+      "title": "Go Tutorial (Golang) 7 - Floating Point, Complex types in GO",
+      "duration": 683
+    },
+    {
+      "id": "S9uq3bVI1Sc",
+      "title": "Go Tutorial (Golang) 8 - Text types in Go",
+      "duration": 679
+    },
+    {
+      "id": "nWiT6KQeBQc",
+      "title": "Go Tutorial (Golang) 9 - Working with Constants in Golang",
+      "duration": 656
+    },
+    {
+      "id": "QZBnRF02u6k",
+      "title": "Go Tutorial (Golang) 10 - golang enumerated constants",
+      "duration": 658
+    },
+    {
+      "id": "CpN2a_4KG6s",
+      "title": "Go Tutorial (Golang) 11 - GoLang enumerated constants part 2",
+      "duration": 836
+    },
+    {
+      "id": "51nHfHVCgNs",
+      "title": "Go Tutorial (Golang) 12 - Golang Arrays and Slices",
+      "duration": 890
+    },
+    {
+      "id": "dSnaRTKPedM",
+      "title": "Go Tutorial (Golang) 13 - Slices in Golang",
+      "duration": 812
+    },
+    {
+      "id": "pycueJyFgxk",
+      "title": "Go Tutorial (Golang) 14 - Slice Operations Using builtin functions",
+      "duration": 814
+    },
+    {
+      "id": "UDBnFHcqAxY",
+      "title": "Go Tutorial (Golang) 15 -  Golang Maps with Example",
+      "duration": 994
+    },
+    {
+      "id": "t24UEghfyvo",
+      "title": "Go Tutorial (Golang) 16 - Structures in Go (structs)",
+      "duration": 888
+    },
+    {
+      "id": "-FN7h2xM0W8",
+      "title": "Go Tutorial (Golang) 17 - Composition in Golang",
+      "duration": 556
+    },
+    {
+      "id": "Cfi1lu5bkTc",
+      "title": "Go Tutorial (Golang) 18 -  tags in Golang | How To Use Struct Tags in Go",
+      "duration": 469
+    },
+    {
+      "id": "IYMKts1ZyPg",
+      "title": "Go Tutorial (Golang) 19 -  Basic Control Flows | Golang If...Else...Else If Statements",
+      "duration": 796
+    },
+    {
+      "id": "FIiXwpf-tNU",
+      "title": "Go Tutorial (Golang) 20 - Switch Statements in Golang",
+      "duration": 559
+    },
+    {
+      "id": "YK-uVRuL4MI",
+      "title": "Go Tutorial (Golang) 21 - Looping Constructs in Golang | Golang For Loop",
+      "duration": 537
+    },
+    {
+      "id": "fje5735B6Qs",
+      "title": "Go Tutorial (Golang) 22 - Looping Constructs in Golang | For Range loop in Golang",
+      "duration": 913
+    },
+    {
+      "id": "G5h_C-dhi20",
+      "title": "Go Tutorial (Golang) 23 - Defer Keyword in Golang",
+      "duration": 628
+    },
+    {
+      "id": "5f8WB1jiw-A",
+      "title": "Go Tutorial (Golang) 24 - Panic Keyword in Golang",
+      "duration": 661
+    },
+    {
+      "id": "U3rVqIcQLBU",
+      "title": "Go Tutorial (Golang) 25 - Recover Keyword in Golang",
+      "duration": 590
+    },
+    {
+      "id": "a6V1Aic0HYQ",
+      "title": "Go Tutorial (Golang) 26 - Functions in Golang",
+      "duration": 681
+    },
+    {
+      "id": "tndfCJwLuUU",
+      "title": "Go Tutorial (Golang) 27 - First Class Functions in Golang",
+      "duration": 825
+    },
+    {
+      "id": "VBWdxvauGWU",
+      "title": "Go Tutorial (Golang) 28 - Interfaces in Golang",
+      "duration": 857
+    },
+    {
+      "id": "VA15eMLBPgE",
+      "title": "Creating a Simple Hello World HTTP Server in Go",
+      "duration": 570
+    },
+    {
+      "id": "Zhq4O7vEqq8",
+      "title": "Learn Google's Go (Golang) Programming Language",
+      "duration": 20311
+    },
+    {
+      "id": "RhBXMnJHdZw",
+      "title": "Golang Tutorial - Learn Go Programming Language",
+      "duration": 20298
+    },
+    {
+      "id": "DFiXJKIF2ss",
+      "title": "How to Set Up Go Development in Visual Studio Code on Windows 11 | VSCode Golang Development Basics",
+      "duration": 1040
+    },
+    {
+      "id": "-FBM8ZHVQ9I",
+      "title": "How to Set Up Go Development in Visual Studio Code on Ubuntu  | Install Golang",
+      "duration": 1283
+    }
+  ]
+}

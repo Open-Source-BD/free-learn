@@ -1,0 +1,130 @@
+{
+  "courseId": "google-cloud-essentials-9c4cfc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:33.282Z",
+  "title": "Google Cloud Essentials",
+  "channel": "Google Cloud Tech",
+  "videos": [
+    {
+      "id": "kzKFuHk8ovk",
+      "title": "What is Google Cloud?",
+      "duration": 330
+    },
+    {
+      "id": "GKEk1FzAN1A",
+      "title": "Getting started with Google Cloud",
+      "duration": 451
+    },
+    {
+      "id": "f-Ly6qMETDY",
+      "title": "Machine learning on Google Cloud",
+      "duration": 428
+    },
+    {
+      "id": "jtPtSVSTb9Y",
+      "title": "How to run code on Google Cloud",
+      "duration": 460
+    },
+    {
+      "id": "w2mL4sUOjVo",
+      "title": "How to store data on Google Cloud",
+      "duration": 412
+    },
+    {
+      "id": "ogzJovMsDIU",
+      "title": "How to use the Google Cloud Free Program",
+      "duration": 219
+    },
+    {
+      "id": "27Pb5g7bEAA",
+      "title": "How to use the Google Cloud Console",
+      "duration": 379
+    },
+    {
+      "id": "TH_OuqZ1ZKU",
+      "title": "Platform overview - Code & build tools",
+      "duration": 347
+    },
+    {
+      "id": "CjGv1bDy9rI",
+      "title": "Debugging, distributed tracing, and profiling for web applications",
+      "duration": 299
+    },
+    {
+      "id": "GANi9eRxhHs",
+      "title": "Error reporting",
+      "duration": 182
+    },
+    {
+      "id": "gyDp-Cl_MdA",
+      "title": "Cloud logging",
+      "duration": 242
+    },
+    {
+      "id": "zR6CsTLTPsk",
+      "title": "GCP vs. Firebase - Functions & Firestore",
+      "duration": 318
+    },
+    {
+      "id": "xbmYmgBEj4o",
+      "title": "GCP vs. Firebase - Projects & storage",
+      "duration": 321
+    },
+    {
+      "id": "jh0fPT-AWwM",
+      "title": "Top 3 ways to run your containers on Google Cloud",
+      "duration": 369
+    },
+    {
+      "id": "vmTRaAkYH7k",
+      "title": "GCP Staying in touch",
+      "duration": 408
+    },
+    {
+      "id": "eSYOjZuDtDw",
+      "title": "Hands-on GCP",
+      "duration": 261
+    },
+    {
+      "id": "tc2940Zwvyk",
+      "title": "Platform Overview - Data & Storage",
+      "duration": 325
+    },
+    {
+      "id": "PBw9vD_BO5A",
+      "title": "Platform Overview - Serverless",
+      "duration": 501
+    },
+    {
+      "id": "QR_LQQ-vvko",
+      "title": "Platform Overview - Machine Learning",
+      "duration": 304
+    },
+    {
+      "id": "hHmBOv8z1D0",
+      "title": "Platform Overview - Compute",
+      "duration": 326
+    },
+    {
+      "id": "3v9XWdFyh2E",
+      "title": "Developer and Management Tools",
+      "duration": 354
+    },
+    {
+      "id": "FsbYh47q55o",
+      "title": "The Cloud Console Tour",
+      "duration": 315
+    },
+    {
+      "id": "P2ADJdk5mYo",
+      "title": "The Google Cloud Platform Free Trial and Free Tier",
+      "duration": 264
+    },
+    {
+      "id": "4D3X6Xl5c_Y",
+      "title": "Welcome to Google Cloud Platform - the Essentials of GCP",
+      "duration": 358
+    }
+  ]
+}

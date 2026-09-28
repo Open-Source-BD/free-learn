@@ -1,0 +1,50 @@
+{
+  "courseId": "terraform-tutorials-b86678",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:31.366Z",
+  "title": "Terraform Tutorials",
+  "channel": "VRTechnologies For Automation",
+  "videos": [
+    {
+      "id": "ABFf7e5z4XQ",
+      "title": "Terraform as a IAC | Introduction to Infrastructure As a Code",
+      "duration": 827
+    },
+    {
+      "id": "WsZaGmjeyys",
+      "title": "Terraform Tutorials | What is Terraform ?",
+      "duration": 222
+    },
+    {
+      "id": "R3fohgDHCYg",
+      "title": "Terraform Tutorials | How to install terraform on Windows ?",
+      "duration": 412
+    },
+    {
+      "id": "fgSON_ILnLA",
+      "title": "Terraform Tutorials | How to install terraform on LINUX ?",
+      "duration": 398
+    },
+    {
+      "id": "U4hNIqOIONA",
+      "title": "Terraform Tutorials | What is Terrafrom Configuration file and Its Types ?",
+      "duration": 293
+    },
+    {
+      "id": "3msga3Ax3Zk",
+      "title": "Terraform Tutorials | How setup terraform to work with AWS Cloud ?",
+      "duration": 451
+    },
+    {
+      "id": "kHPHAZ_2qE4",
+      "title": "Terraform Tutorials | AWS IAM User creation to work with terrafrom for IAC",
+      "duration": 426
+    },
+    {
+      "id": "DRDV7ViTnG8",
+      "title": "Terraform Tutorials | Simple project creation with terraform | Simple IAC with terraform",
+      "duration": 973
+    }
+  ]
+}

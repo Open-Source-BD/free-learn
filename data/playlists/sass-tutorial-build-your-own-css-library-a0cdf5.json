@@ -1,0 +1,120 @@
+{
+  "courseId": "sass-tutorial-build-your-own-css-library-a0cdf5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:32.994Z",
+  "title": "SASS Tutorial (Build Your Own CSS Library)",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "_kqN4hl9bGc",
+      "title": "SASS Tutorial (build your own CSS library) #1 - Introduction",
+      "duration": 278
+    },
+    {
+      "id": "Sk5jMurFHCo",
+      "title": "SASS Tutorial (build your own CSS library) #2 - Compiling SASS",
+      "duration": 961
+    },
+    {
+      "id": "LXx_oE6IBWs",
+      "title": "SASS Tutorial (build your own CSS library) #3 - Variables",
+      "duration": 481
+    },
+    {
+      "id": "sIzt6kr3MHc",
+      "title": "SASS Tutorial (build your own CSS library) #4 - Partials & @import",
+      "duration": 275
+    },
+    {
+      "id": "OxT05SPg1js",
+      "title": "SASS Tutorial (build your own CSS library) #5 - Project Structure",
+      "duration": 416
+    },
+    {
+      "id": "vajsECys5Tc",
+      "title": "SASS Tutorial (build your own CSS library) #6 - Nested Rules",
+      "duration": 461
+    },
+    {
+      "id": "sXE3nwjCY_w",
+      "title": "SASS Tutorial (build your own CSS library) #7 - Using Math",
+      "duration": 391
+    },
+    {
+      "id": "La8wN7o-cL8",
+      "title": "SASS Tutorial (build your own CSS library) #8 - Maps",
+      "duration": 418
+    },
+    {
+      "id": "I1lp8eSKmEs",
+      "title": "SASS Tutorial (build your own CSS library) #9 - Loops",
+      "duration": 682
+    },
+    {
+      "id": "QPZOvED3N_8",
+      "title": "SASS Tutorial (build your own CSS library) #10 - Conditionals (@if)",
+      "duration": 267
+    },
+    {
+      "id": "unhOp1Z-hec",
+      "title": "SASS Tutorial (build your own CSS library) #11 - Parent Selectors",
+      "duration": 313
+    },
+    {
+      "id": "eW1nhSZaPEw",
+      "title": "SASS Tutorial (build your own CSS library) #12 - Mixins",
+      "duration": 718
+    },
+    {
+      "id": "l0VljiUg2d0",
+      "title": "SASS Tutorial (build your own CSS library) #13 - Functions",
+      "duration": 353
+    },
+    {
+      "id": "JIskeGNEVEk",
+      "title": "SASS Tutorial (build your own CSS library) #14 - Making Utility Classes",
+      "duration": 849
+    },
+    {
+      "id": "3R4fpnIAozs",
+      "title": "SASS Tutorial (build your own CSS library) #15 - Media Queries",
+      "duration": 581
+    },
+    {
+      "id": "GA65QBSec-Y",
+      "title": "SASS Tutorial (build your own CSS library) #16 - Making a Grid System (part 1)",
+      "duration": 890
+    },
+    {
+      "id": "jWV_fU3qMnw",
+      "title": "SASS Tutorial (build your own CSS library) #17 - Making a Grid System (part 2)",
+      "duration": 548
+    },
+    {
+      "id": "vqI9kuoy6xM",
+      "title": "SASS Tutorial (build your own CSS library) #18 - Using @extend",
+      "duration": 635
+    },
+    {
+      "id": "Ta0hiPMH9Qg",
+      "title": "SASS Tutorial (build your own CSS library) #19 - Using the CSS Library",
+      "duration": 607
+    },
+    {
+      "id": "5IpRkfdWoaM",
+      "title": "SASS Tutorial (build your own CSS library) #20 - Purging CSS",
+      "duration": 382
+    },
+    {
+      "id": "btMR5e4ZRM4",
+      "title": "SASS Tutorial (build your own CSS library) #21 - Customizing the Library",
+      "duration": 479
+    },
+    {
+      "id": "AqyCmYxy60s",
+      "title": "SASS Tutorial (build your own CSS library) #22 - Extending the Library Yourself",
+      "duration": 225
+    }
+  ]
+}

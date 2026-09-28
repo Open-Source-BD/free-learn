@@ -1,0 +1,95 @@
+{
+  "courseId": "hadoop-tutorial-for-beginners-08612d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:53.789Z",
+  "title": "Hadoop Tutorial for Beginners | Big Data Hadoop Tutorial for Beginners | Hadoop Tutorial",
+  "channel": "Great Learning",
+  "videos": [
+    {
+      "id": "JK2MdJAWEGc",
+      "title": "Hadoop Tutorial for Beginners | Hadoop Tutorial | Big Data Hadoop Tutorial for Beginners | Hadoop",
+      "duration": 15163
+    },
+    {
+      "id": "5P9T08lDXbE",
+      "title": "What is Big Data? Introduction to Big Data | Hadoop Tutorial for Beginners | Hadoop [Part 1]",
+      "duration": 906
+    },
+    {
+      "id": "r4Hrp1fFpMs",
+      "title": "What is ETL | Extract, Transform and Load | Hadoop Tutorial for Beginners | Hadoop [Part 2]",
+      "duration": 867
+    },
+    {
+      "id": "44xO9XmL2Co",
+      "title": "Introduction to Hadoop | Hadoop Tutorial for Beginners | Hadoop [Part 3]",
+      "duration": 821
+    },
+    {
+      "id": "-_Lu-U735_E",
+      "title": "Distributed Computing | Hadoop Tutorial for Beginners | Hadoop [Part 4]",
+      "duration": 511
+    },
+    {
+      "id": "M-Ua9CHDbiQ",
+      "title": "Hadoop Architecture | Hadoop Tutorial for Beginners | Hadoop [Part 5]",
+      "duration": 418
+    },
+    {
+      "id": "9DHQAQqo3OI",
+      "title": "HDFS Architecture | Hadoop Tutorial for Beginners | Hadoop [Part 6]",
+      "duration": 789
+    },
+    {
+      "id": "MxF2vZxL3Z0",
+      "title": "Oozie Hadoop Tutorial | HDFS Processing | Hadoop Tutorial for Beginners | Hadoop [Part 7]",
+      "duration": 323
+    },
+    {
+      "id": "T8RwElhrpy0",
+      "title": "Hadoop Cluster Setup | Hadoop Tutorial for Beginners | Hadoop [Part 8]",
+      "duration": 1122
+    },
+    {
+      "id": "LiTYA4WBJgE",
+      "title": "Hadoop Ecosystem | Hadoop Tutorial for Beginners | Hadoop [Part 9]",
+      "duration": 1687
+    },
+    {
+      "id": "rZdj81E3QU4",
+      "title": "MapReduce | MapReduce in Hadoop | Hadoop Tutorial for Beginners | Hadoop [Part 10]",
+      "duration": 793
+    },
+    {
+      "id": "tVLZLg84P0c",
+      "title": "Understanding MapReduce With Example | Hadoop Tutorial for Beginners | Hadoop [Part 11]",
+      "duration": 1020
+    },
+    {
+      "id": "akvtHY9fJcU",
+      "title": "MapReduce Programming | Hadoop Tutorial for Beginners | Hadoop [Part 12]",
+      "duration": 694
+    },
+    {
+      "id": "G4UPuX_m32c",
+      "title": "Map Reduce Programmatic Comparison with Java | Hadoop Tutorial for Beginners | Hadoop [Part 13]",
+      "duration": 290
+    },
+    {
+      "id": "Wel0IWqxBqg",
+      "title": "Map Reduce Hands on Word Count | Hadoop Tutorial for Beginners | Hadoop [Part 14]",
+      "duration": 1210
+    },
+    {
+      "id": "Xt68U0mYbvw",
+      "title": "Map Reduce Word Count Code | Hadoop Tutorial for Beginners | Hadoop [Part 15]",
+      "duration": 2426
+    },
+    {
+      "id": "VvdR0AKL6Uc",
+      "title": "YARN | YARN Architecture in Hadoop | Hadoop YARN | Hadoop Tutorial for Beginners | Hadoop [Part 16]",
+      "duration": 1083
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "courseId": "pyspark-zero-to-hero-pyspark-tutorial-2025-spark-tutorial-20-3cd84d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:11.782Z",
+  "title": "PySpark - Zero to Hero | PySpark Tutorial 2025 | Spark Tutorial 2025 | Learn from Basics to Advanced Performance Optimization",
+  "channel": "Ease With Data",
+  "videos": [
+    {
+      "id": "wNRjR6Cds5s",
+      "title": "01 PySpark Tutorial | PySpark Training | Learn from Basics to Advanced Performance Optimization",
+      "duration": 175
+    },
+    {
+      "id": "nKM4f1olwsI",
+      "title": "02 How Spark Works - Driver & Executors | How Spark divide Job in Stages | What is Shuffle in Spark",
+      "duration": 287
+    },
+    {
+      "id": "purrLTWn178",
+      "title": "03 Spark Transformations & Actions | Why Spark prefers Lazy Evaluation |What are Partitions in Spark",
+      "duration": 345
+    },
+    {
+      "id": "I_gum_3bEvY",
+      "title": "04 Spark DataFrames & Execution Plans | Spark Logical and Physical Execution Planning | What are DAG",
+      "duration": 238
+    },
+    {
+      "id": "GrvOnYI92Ps",
+      "title": "04_2 - Setup PySpark in Local Machine with Jupyter Lab | PySpark Local Machine Setup",
+      "duration": 1219
+    },
+    {
+      "id": "s3B8HXLlLTM",
+      "title": "05 Understand Spark Session & Create your First DataFrame | Create SparkSession object | Spark UI",
+      "duration": 675
+    },
+    {
+      "id": "lyiNfPftvAQ",
+      "title": "06 Basic Structured Transformation - Part 1 | Write Spark DataFrame Schema |Ways to write DF Columns",
+      "duration": 786
+    },
+    {
+      "id": "EiPCK2y_QPk",
+      "title": "07 Basic Structured Transformation - Part 2 | Cast Column | Add Column | Static Column Value |Rename",
+      "duration": 735
+    },
+    {
+      "id": "X8sRgRQkLwQ",
+      "title": "08 Working with Strings, Dates and Null | Regex Replace | Convert string to date | Transform NULL",
+      "duration": 975
+    },
+    {
+      "id": "ta8E8RasLCQ",
+      "title": "09 Sorting data, Union and Aggregation in Spark | Difference in Union and UnionAll | Having Clause",
+      "duration": 610
+    },
+    {
+      "id": "NkUA2Q5gQNk",
+      "title": "10 Window Functions, Unique Data & Databricks Community Cloud | Second Highest Salary | Spark expr",
+      "duration": 628
+    },
+    {
+      "id": "_e0-QYbO8iI",
+      "title": "11 Data Repartitioning & PySpark Joins | Coalesce vs Repartition | Spark Data Partition | Joins",
+      "duration": 803
+    },
+    {
+      "id": "k2AVOmUS7i0",
+      "title": "12 Understand Spark UI, Read CSV Files and Read Modes | Spark InferSchema Option | Drop Malformed",
+      "duration": 1028
+    },
+    {
+      "id": "BUWKbCcqgmo",
+      "title": "13 Read Complex File Formats | Parquet | ORC | Performance benefit of Parquet |Recursive File Lookup",
+      "duration": 633
+    },
+    {
+      "id": "FLrCwoy5Z6c",
+      "title": "14 Read, Parse or Flatten JSON data | JSON file with Schema | from_json | to_json | Multiline JSON",
+      "duration": 1070
+    },
+    {
+      "id": "dn0ijC_SSfo",
+      "title": "15 How Spark Writes data | Write modes in Spark | Write data with Partition | Default Parallelism",
+      "duration": 848
+    },
+    {
+      "id": "CYyUuInwgtA",
+      "title": "16 Understand Spark Execution on Cluster | Cluster Manager | Cluster Deployment Modes | Spark Submit",
+      "duration": 757
+    },
+    {
+      "id": "bbNUiWfAP90",
+      "title": "17 User Defined Function (UDF) | How Spark works with UDF | How to register Python UDF",
+      "duration": 582
+    },
+    {
+      "id": "RlLWMlDeS04",
+      "title": "18 Understand DAG, Explain Plans & Spark Shuffle with Tasks |Skipped Stage |Benefit of Shuffle Write",
+      "duration": 1007
+    },
+    {
+      "id": "PHVFDgk3lok",
+      "title": "19 Understand and Optimize Shuffle in Spark",
+      "duration": 914
+    },
+    {
+      "id": "5peB6KcCsd4",
+      "title": "20 Data Caching in Spark | Cache vs Persist | Spark Storage Level with Persist |Partial Data Caching",
+      "duration": 799
+    },
+    {
+      "id": "JB98Loobc7k",
+      "title": "21 Broadcast Variable and Accumulators in Spark | How to use Spark Broadcast Variables",
+      "duration": 755
+    },
+    {
+      "id": "plSXIcP6_uM",
+      "title": "22 Optimize Joins in Spark & Understand Bucketing for Faster joins |Sort Merge Join |Broad Cast Join",
+      "duration": 1697
+    },
+    {
+      "id": "3LXbeMnIBhI",
+      "title": "23 Static vs Dynamic Resource Allocation in Spark | Dynamic Allocation vs Databricks Scale up",
+      "duration": 630
+    },
+    {
+      "id": "2oaTQl1YzCw",
+      "title": "24 Fix Skewness and Spillage with Salting in Spark | Salting Technique | How to identify Skewness",
+      "duration": 1277
+    },
+    {
+      "id": "164OKvwW8T8",
+      "title": "25 AQE aka Adaptive Query Execution in Spark | Coalesce Shuffle Partitions | Skew Partitions Fix",
+      "duration": 712
+    },
+    {
+      "id": "VHtPqEp2V3k",
+      "title": "26 Spark SQL, Hints, Spark Catalog and Metastore | Hints in Spark SQL Query | SQL functions & Joins",
+      "duration": 1160
+    },
+    {
+      "id": "BOfnMXFrNUA",
+      "title": "27 Read and Write from Azure Cosmos DB using Spark | E2E Cosmos DB setup | NoSQL vs SQL Databases",
+      "duration": 1277
+    },
+    {
+      "id": "84HOVF8Vn3I",
+      "title": "28 Get Started with Delta Lake using Databricks | Benefits and Features of Delta Lake | Time Travel",
+      "duration": 2055
+    },
+    {
+      "id": "EBR-2epcQsU",
+      "title": "29 Optimize Data Scanning with Partitioning in Spark | How Partitioning data works | Optimize Jobs",
+      "duration": 822
+    },
+    {
+      "id": "kUMAmZQIMfA",
+      "title": "30 Data Skipping and Z-Ordering in Delta Lake Tables | Optimize & Data Compaction Delta Lake Tables",
+      "duration": 1125
+    },
+    {
+      "id": "qovye-vdn8I",
+      "title": "31 Delta Tables - Deletion Vectors and Liquid Clustering | Optimize Delta Tables | Delta Clustering",
+      "duration": 773
+    },
+    {
+      "id": "McMQ7yMaL9Q",
+      "title": "32 Spark Memory Management | Why OOM Errors in Spark | Spark Unified Memory | Storage/Execution Mem",
+      "duration": 2905
+    },
+    {
+      "id": "I7F5iAcxPnQ",
+      "title": "33 What is Spark Connect? | Spark Connect vs Spark Session | Setup Spark Connect Server with Cluster",
+      "duration": 1397
+    },
+    {
+      "id": "9_D8jTFis6E",
+      "title": "34 Write PySpark Unit Test Cases using PyTest module | Setup PyTest with PySpark",
+      "duration": 1346
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "courseId": "complete-python-playlist-c50230",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:24.675Z",
+  "title": "Complete Python Playlist",
+  "channel": "Krish Naik",
+  "videos": [
+    {
+      "id": "bPrmA1SEN2k",
+      "title": "Complete Road Map To Be Expert In Python- Follow My Way",
+      "duration": 1751
+    },
+    {
+      "id": "7S865QCGL74",
+      "title": "Tutorial 1- Anaconda Installation and Python Basics",
+      "duration": 1145
+    },
+    {
+      "id": "JSJJ-qOOAXI",
+      "title": "Why Python is the Best Programming Language For Machine Learning?",
+      "duration": 315
+    },
+    {
+      "id": "GA0u6WM7_Eo",
+      "title": "Tutorial 2 - Python List  and Boolean Variables",
+      "duration": 1309
+    },
+    {
+      "id": "wlS_fWxIPyQ",
+      "title": "Tutorial 3- Python Sets, Dictionaries and Tuples",
+      "duration": 965
+    },
+    {
+      "id": "vh525RjO6C0",
+      "title": "Tutorial 4 - Numpy and Inbuilt Functions Tutorial",
+      "duration": 1602
+    },
+    {
+      "id": "QUClKFFn1Vk",
+      "title": "Tutorial 5- Pandas, Data Frame and Data Series Part-1",
+      "duration": 1009
+    },
+    {
+      "id": "tW1BWtQRZ2M",
+      "title": "Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2",
+      "duration": 1772
+    },
+    {
+      "id": "xx4Vkc5RrWY",
+      "title": "Tutorial 7- Pandas-Reading JSON,Reading HTML, Read PICKLE, Read EXCEL Files- Part 3",
+      "duration": 1171
+    },
+    {
+      "id": "czQO1_GEEos",
+      "title": "Tutorial 8- Matplotlib (Simple Visualization Library)",
+      "duration": 1555
+    },
+    {
+      "id": "UsglokDLa2o",
+      "title": "Tutorial 9- Seaborn Tutorial- Distplot, Joinplot, Pairplot  Part 1",
+      "duration": 1303
+    },
+    {
+      "id": "XezfbWlEVwE",
+      "title": "Tutorial 10- Seaborn- Countplot(), Violinplot(), Boxplot()- Part2",
+      "duration": 654
+    },
+    {
+      "id": "dP170R-wO-8",
+      "title": "How To Become Expertise in Exploratory Data Analysis",
+      "duration": 605
+    },
+    {
+      "id": "Ea_KAcdv1vs",
+      "title": "Tutorial 11-Exploratory Data Analysis(EDA) of Titanic dataset",
+      "duration": 1905
+    },
+    {
+      "id": "Vah_RQrlM_k",
+      "title": "Tutorial 12- Python Functions, Positional and Keywords Arguments",
+      "duration": 819
+    },
+    {
+      "id": "NNlrQp5de98",
+      "title": "Tutorial 13- Python Lambda Functions",
+      "duration": 363
+    },
+    {
+      "id": "j1lTvjmOJbQ",
+      "title": "Tutorial 15- Map Functions using Python",
+      "duration": 286
+    },
+    {
+      "id": "VrHcTFAkkak",
+      "title": "Tutorial 16- Filter Functions In Python",
+      "duration": 238
+    },
+    {
+      "id": "iiDDZtzvMC8",
+      "title": "Tutorial 17- Python List Comprehension",
+      "duration": 487
+    },
+    {
+      "id": "9LtA-YbmGOg",
+      "title": "Tutorial 18- Python Advanced String Formatting",
+      "duration": 625
+    },
+    {
+      "id": "t5iO4LzVeLU",
+      "title": "Tutorial 19-  Python Iterables vs Iterators",
+      "duration": 722
+    },
+    {
+      "id": "ubtIYcx4_Gw",
+      "title": "Tutorial 20- How To Import All Important Python Data Science Libraries Using Pyforest",
+      "duration": 301
+    },
+    {
+      "id": "P4zmS8zm2m4",
+      "title": "Tutorial 21- Python OOPS Tutorial- Classes, Variables, Methods and Objects",
+      "duration": 868
+    },
+    {
+      "id": "06HauGzxc9s",
+      "title": "Advanced Python- Exception Handling Detailed Explanation In Python",
+      "duration": 1229
+    },
+    {
+      "id": "UXV_o2W_UUA",
+      "title": "Advanced Python Series- Custom Exception Handling In Python",
+      "duration": 538
+    },
+    {
+      "id": "FA3ODPdBW10",
+      "title": "Advance Python Series- Inheritance In Python",
+      "duration": 699
+    },
+    {
+      "id": "g0wmOM0NS7w",
+      "title": "Advance Python Series-Magic Methods In Classes",
+      "duration": 607
+    },
+    {
+      "id": "WGfosDXSjZ0",
+      "title": "Advanced Python Series- Assert Statement In Python",
+      "duration": 365
+    },
+    {
+      "id": "rDj8EBv9ErA",
+      "title": "Advanced Python Series - Iterators Vs Generators",
+      "duration": 978
+    },
+    {
+      "id": "zA53Lf-fqcQ",
+      "title": "Advance Python-Decorators Indepth Implementation",
+      "duration": 1022
+    },
+    {
+      "id": "S7Bz-mOdAdc",
+      "title": "Python Series- is Vs == Indepth Explanation- Boolean Evaluation",
+      "duration": 417
+    },
+    {
+      "id": "K22hmfeUx2w",
+      "title": "60 Python Projects With Source Code- Solved And Explained",
+      "duration": 329
+    },
+    {
+      "id": "SgUwPDT9tEs",
+      "title": "Shallow Copy Vs Deep Copy in Python",
+      "duration": 769
+    },
+    {
+      "id": "eTU6cif1ySQ",
+      "title": "How To Speed Up Pandas By 4X Times- Modin Pandas Library",
+      "duration": 728
+    },
+    {
+      "id": "CsysumoOjig",
+      "title": "Class Variables And Class Methods In Python",
+      "duration": 589
+    },
+    {
+      "id": "ahV-fKcBk8U",
+      "title": "Python Advance Series- Static Methods Indepth Understanding And Implementation In Python",
+      "duration": 563
+    },
+    {
+      "id": "Fa-ae413Wdo",
+      "title": "Advance Python Series- Multiple Inheritance In Python",
+      "duration": 580
+    },
+    {
+      "id": "QKPnLQtzab8",
+      "title": "Python Eval Function- Evaluating Python Expressions Dynamically",
+      "duration": 1110
+    },
+    {
+      "id": "ioN1jcWxbv8",
+      "title": "Advance House Price Prediction- Exploratory Data Analysis- Part 1",
+      "duration": 1409
+    },
+    {
+      "id": "wR4Xfwjr-3Y",
+      "title": "Advance House Price Prediction- Exploratory Data Analysis- Part 2",
+      "duration": 1188
+    },
+    {
+      "id": "VgZZP8rAS-c",
+      "title": "Advance House Price Prediction-Feature Engineering Part 1",
+      "duration": 852
+    },
+    {
+      "id": "0fT-bqvHD2w",
+      "title": "Advance House Price Prediction-Feature Engineering Part 2",
+      "duration": 834
+    },
+    {
+      "id": "1JXrxCJoHuw",
+      "title": "Advance House Price Prediction-Feature Selection",
+      "duration": 483
+    },
+    {
+      "id": "xWG9UC2NlpA",
+      "title": "Advance Python Series-Asynchronous Execution(Parallel Execution) With Thread Using Python",
+      "duration": 854
+    },
+    {
+      "id": "qlX9znhqQ6Q",
+      "title": "Vulture Library- How To Find Unused And Dead Code In Python Projects",
+      "duration": 407
+    },
+    {
+      "id": "gbUDLOUt5kQ",
+      "title": "Python Zip Function- Easy Parallel Iteration for Multiple Iterators",
+      "duration": 871
+    },
+    {
+      "id": "JhabusIJZ3I",
+      "title": "Pdf Password Protection Using Python",
+      "duration": 535
+    },
+    {
+      "id": "brWhYOzBfW8",
+      "title": "PIP Freeze- Creating Packages(Requirements.txt) For The Application",
+      "duration": 370
+    },
+    {
+      "id": "Ye6FHfWV8is",
+      "title": "Logging Implementation In Python",
+      "duration": 555
+    },
+    {
+      "id": "IsDheIWguHs",
+      "title": "Secure Hash Algorithms Using Python- SHA256,SHA384,SHA224,SHA512,SHA1- Hashing In BlockChain",
+      "duration": 736
+    },
+    {
+      "id": "3O-Pvnrbsu0",
+      "title": "Numba Library- Let's Make Python Faster",
+      "duration": 405
+    },
+    {
+      "id": "S0zFUubITQc",
+      "title": "10 Tips To Learn Python Efficiently And Effectively",
+      "duration": 705
+    },
+    {
+      "id": "_yaGV-u18qI",
+      "title": "Advance Python Series- Public Private And Protected Access Modifiers",
+      "duration": 896
+    },
+    {
+      "id": "zUiTu8HJ3Tg",
+      "title": "Top 7 Best Extensions In VSCode For Python Programming That I Use For Data Science Projects",
+      "duration": 735
+    },
+    {
+      "id": "SOOS7tN0nHg",
+      "title": "What’s New In Python 3.10? Discussing All The New Features",
+      "duration": 532
+    },
+    {
+      "id": "I5VE2dHeKGE",
+      "title": "Python – Different Ways To Import Module From Different Directory",
+      "duration": 952
+    },
+    {
+      "id": "2_FqpMbKxf8",
+      "title": "Can We Have Multiple Constructors In Python?",
+      "duration": 519
+    },
+    {
+      "id": "Y9mxx1Mer0I",
+      "title": "Learn How Python Data Classes Can Save Your Time In Projects",
+      "duration": 985
+    }
+  ]
+}

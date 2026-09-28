@@ -1,0 +1,410 @@
+{
+  "courseId": "c-programming-tutorial-b64fa7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:59.995Z",
+  "title": "C Programming Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "iXEw_0hlM9A",
+      "title": "C Programming Tutorial-1: Install Code::Blocks",
+      "duration": 428
+    },
+    {
+      "id": "bX92pvlC6bs",
+      "title": "C Programming Tutorial-2: Hello Youtubers!",
+      "duration": 567
+    },
+    {
+      "id": "9tYkmcGumnY",
+      "title": "C Programming Tutorial-3: Variables & Arithmetic Operators",
+      "duration": 467
+    },
+    {
+      "id": "1gqmWkmCDsM",
+      "title": "C Programming Tutorial-4: Comments, Newline Escape Sequence & Arithmetic Operators (Contd.)",
+      "duration": 422
+    },
+    {
+      "id": "CWnf6WWKAss",
+      "title": "C Programming Tutorial-5: Program To Compute Simple Interest",
+      "duration": 291
+    },
+    {
+      "id": "oaGdiYGMJfA",
+      "title": "C Programming Tutorial-6: Receive Input from Users Using scanf()",
+      "duration": 213
+    },
+    {
+      "id": "aiScLDZKbtQ",
+      "title": "C Programming Tutorial-7: Simple Interest Program (Enhanced)",
+      "duration": 399
+    },
+    {
+      "id": "pPswwSdLWGs",
+      "title": "C Programming Tutorial-8: Modular Division",
+      "duration": 260
+    },
+    {
+      "id": "QlLIqZHhqN8",
+      "title": "C Programming Tutorial - 9: Characters",
+      "duration": 375
+    },
+    {
+      "id": "zGnmlSfwolY",
+      "title": "C Programming Tutorial - 10: The pow() Function",
+      "duration": 223
+    },
+    {
+      "id": "GRSDMcgsSQ0",
+      "title": "C Programming Tutorial - 11: Type Conversion in C",
+      "duration": 329
+    },
+    {
+      "id": "oEL23OgG1m8",
+      "title": "C Programming Tutorial - 12: Operator Precedence",
+      "duration": 417
+    },
+    {
+      "id": "dcoMRL4Hcho",
+      "title": "C Programming Tutorial - 13: Associativity of Operators",
+      "duration": 313
+    },
+    {
+      "id": "nvogmDjvlds",
+      "title": "C Programming Tutorial - 14: Distance Conversion Program",
+      "duration": 313
+    },
+    {
+      "id": "79-Eon6Ufjo",
+      "title": "C Programming Tutorial - 15: Temperature Conversion Program",
+      "duration": 256
+    },
+    {
+      "id": "UfVxs_8mGw4",
+      "title": "C Programming Tutorial - 16: The if Statement",
+      "duration": 241
+    },
+    {
+      "id": "1o9tVDFTnhI",
+      "title": "C Programming Tutorial - 17: The if-else Statement",
+      "duration": 230
+    },
+    {
+      "id": "VR043J2gSSQ",
+      "title": "C Programming Tutorial - 18: Relational Operators",
+      "duration": 540
+    },
+    {
+      "id": "kxOj5pM3kas",
+      "title": "C Programming Tutorial - 19: Testing Without Relational Operators",
+      "duration": 233
+    },
+    {
+      "id": "Eg9wJr7Vhwc",
+      "title": "C Programming Tutorial - 20: Nested if-else Statement",
+      "duration": 362
+    },
+    {
+      "id": "mtpEh2xnWQA",
+      "title": "C Programming Tutorial - 21: The Logical AND Operator",
+      "duration": 418
+    },
+    {
+      "id": "xjrvn42vfnE",
+      "title": "C Programming Tutorial - 22: Logical OR Operator",
+      "duration": 370
+    },
+    {
+      "id": "Gjni7UgC35M",
+      "title": "C Programming Tutorial - 23: Logical NOT Operator",
+      "duration": 304
+    },
+    {
+      "id": "5mtXrtQaONE",
+      "title": "C Programming Tutorial - 24: Storage Classes Part One",
+      "duration": 558
+    },
+    {
+      "id": "qEegAyPc_nk",
+      "title": "C Programming Tutorial - 25: Escape Sequences",
+      "duration": 587
+    },
+    {
+      "id": "v6OYmtFiAH8",
+      "title": "C Programming Tutorial - 26: Constants (Part-1)",
+      "duration": 338
+    },
+    {
+      "id": "0W56QwpDtcc",
+      "title": "C Programming Tutorial - 27: Constants (Part-2)",
+      "duration": 364
+    },
+    {
+      "id": "AbSxTaxDfMM",
+      "title": "C Programming Tutorial - 28: Bitwise Operators (Part-1)",
+      "duration": 718
+    },
+    {
+      "id": "fmW_zEas5bY",
+      "title": "C Programming Tutorial - 29: Bitwise Operators (Part-2)",
+      "duration": 424
+    },
+    {
+      "id": "AsZjK65R0gY",
+      "title": "C Programming Tutorial - 30: Assignment Operators",
+      "duration": 426
+    },
+    {
+      "id": "z4H-UN8BRNQ",
+      "title": "C Programming Tutorial - 31: Sizeof Operator",
+      "duration": 316
+    },
+    {
+      "id": "W1FHoRJiZ-o",
+      "title": "C Programming Tutorial - 32: Address of Operator",
+      "duration": 256
+    },
+    {
+      "id": "dVMuWFz5T0k",
+      "title": "C Programming Tutorial - 33: Ternary Operator",
+      "duration": 373
+    },
+    {
+      "id": "_pwxiFrYKsI",
+      "title": "C Programming Tutorial - 34: Ternary Operator (Part-2)",
+      "duration": 352
+    },
+    {
+      "id": "YOqm3r2yqmw",
+      "title": "C Programming Tutorial - 35: The Switch Statement",
+      "duration": 524
+    },
+    {
+      "id": "Ju1LYO9pkaI",
+      "title": "C Programming Tutorial - 36: While Loop",
+      "duration": 318
+    },
+    {
+      "id": "GQTuzF5gVNM",
+      "title": "C Programming Tutorial - 37: For Loop",
+      "duration": 376
+    },
+    {
+      "id": "omlJjNMzr6E",
+      "title": "C Programming Tutorial - 38: Do-While Loop",
+      "duration": 305
+    },
+    {
+      "id": "76UAxsNiF14",
+      "title": "C Programming Tutorial - 39: Nested Loops",
+      "duration": 451
+    },
+    {
+      "id": "l0vQS3gm8nQ",
+      "title": "C Programming Tutorial - 42: Finding Prime Numbers",
+      "duration": 393
+    },
+    {
+      "id": "SNuR_JLmHZQ",
+      "title": "C Programming Tutorial - 40: The Break Statement",
+      "duration": 264
+    },
+    {
+      "id": "5XxmP84K4SY",
+      "title": "C Programming Tutorial - 41: The Continue Statement",
+      "duration": 256
+    },
+    {
+      "id": "x8APkeKR6r0",
+      "title": "C Programming Tutorial - 43: Functions (Part-1) Declaration, Definition & Invocation",
+      "duration": 403
+    },
+    {
+      "id": "waJM9xpPFhU",
+      "title": "C Programming Tutorial - 45: Functions (Part-3) Return Statement",
+      "duration": 531
+    },
+    {
+      "id": "UE2HNfqOcJ4",
+      "title": "C Programming Tutorial - 46: The GOTO Statement",
+      "duration": 350
+    },
+    {
+      "id": "GKWj7ii7PlU",
+      "title": "C Programming Tutorial - 47: Infinite Loop",
+      "duration": 159
+    },
+    {
+      "id": "ZpPYH3-joMo",
+      "title": "C Programming Tutorial - 48: Functions (Part-4) Call By Value Method",
+      "duration": 336
+    },
+    {
+      "id": "uZKxJuOtR1g",
+      "title": "C Programming Tutorial - 49: Functions (Part-4) Call By Reference Method",
+      "duration": 384
+    },
+    {
+      "id": "gdBZsCReLzs",
+      "title": "C Programming Tutorial - 50: Scope in C (Local & Global Variables)",
+      "duration": 229
+    },
+    {
+      "id": "K7q-_Bacu4c",
+      "title": "C Programming Tutorial - 51: Introduction to Arrays",
+      "duration": 250
+    },
+    {
+      "id": "gV3M00QHQe0",
+      "title": "C Programming Tutorial - 52: Arrays (Part-2) Adding Array Elements",
+      "duration": 340
+    },
+    {
+      "id": "PkjpLpGEqWw",
+      "title": "C Programming Tutorial - 53: Arrays (Part-3) Miscellaneous Information",
+      "duration": 336
+    },
+    {
+      "id": "QI-zMxNUblg",
+      "title": "C Programming Tutorial - 54: Two Dimensional Arrays",
+      "duration": 414
+    },
+    {
+      "id": "3PgzRX8wHEc",
+      "title": "C Programming Tutorial - 55: Passing Arrays To Functions",
+      "duration": 333
+    },
+    {
+      "id": "xAFYs87UF1A",
+      "title": "C Programming Tutorial - 56: Introduction to Pointers",
+      "duration": 394
+    },
+    {
+      "id": "2ImsOWPSfxU",
+      "title": "C Programming Tutorial - 57: Null Pointer",
+      "duration": 173
+    },
+    {
+      "id": "IgqlgLcsj9g",
+      "title": "C Programming Tutorial - 58: Pointer to an Array",
+      "duration": 334
+    },
+    {
+      "id": "m6Q2D7EDcic",
+      "title": "C Programming Tutorial - 60: Pointer to a Pointer",
+      "duration": 364
+    },
+    {
+      "id": "MIvJHJBuwMo",
+      "title": "C Programming Tutorial - 59: Array of Pointers",
+      "duration": 296
+    },
+    {
+      "id": "uPEc_yEWdrw",
+      "title": "C Programming Tutorial - 61: Introduction to Strings",
+      "duration": 327
+    },
+    {
+      "id": "PRisB1ME2-w",
+      "title": "C Programming Tutorial - 62: Predefined String Functions (Part-1)",
+      "duration": 426
+    },
+    {
+      "id": "O9s1aYcstNE",
+      "title": "C Programming Tutorial - 63: Predefined String Functions (Part-2)",
+      "duration": 581
+    },
+    {
+      "id": "0ufCLtSJJds",
+      "title": "C Programming Tutorial - 64: Introduction to Structures",
+      "duration": 210
+    },
+    {
+      "id": "zWB4oFpWNF8",
+      "title": "C Programming Tutorial - 65: Accessing Structure Members",
+      "duration": 386
+    },
+    {
+      "id": "9P5vDXDJrqY",
+      "title": "C Programming Tutorial - 66: The getchar() and putchar() Functions",
+      "duration": 220
+    },
+    {
+      "id": "-rNW_rpkuoQ",
+      "title": "C Programming Tutorial - 67: The gets() and puts() Functions",
+      "duration": 195
+    },
+    {
+      "id": "VmJ1FhPWgRk",
+      "title": "C Programming Tutorial - 68: Array of Structure Variables",
+      "duration": 461
+    },
+    {
+      "id": "3WPQGVAmZvI",
+      "title": "C Programming Tutorial - 69: Passing Structures to Functions",
+      "duration": 364
+    },
+    {
+      "id": "x85upiss898",
+      "title": "C Programming Tutorial - 70: Pointers to Structures",
+      "duration": 304
+    },
+    {
+      "id": "SzErnaKq8Zo",
+      "title": "C Programming Tutorial - 71: Unions",
+      "duration": 311
+    },
+    {
+      "id": "mUeBqZdNLkw",
+      "title": "C Programming Tutorial - 72: Typedef",
+      "duration": 209
+    },
+    {
+      "id": "SpjiAjmmZk8",
+      "title": "C Programming Tutorial - 73: Parameterized Macros",
+      "duration": 187
+    },
+    {
+      "id": "XURPe5IXjr4",
+      "title": "C Programming Tutorial - 74: Predefined Macros",
+      "duration": 124
+    },
+    {
+      "id": "XrF5KYuvwq8",
+      "title": "C Programming Tutorial - 75: Type Casting in C",
+      "duration": 230
+    },
+    {
+      "id": "YxeH51tkYnM",
+      "title": "C Programming Tutorial - 76: Implicit Type Conversion",
+      "duration": 187
+    },
+    {
+      "id": "aF6YURGnJWw",
+      "title": "C Programming Tutorial - 77: Recursion in C",
+      "duration": 427
+    },
+    {
+      "id": "kNT5pAyUeqE",
+      "title": "C Programming Tutorial - 78: Generating Fibonacci Series Through Recursion",
+      "duration": 389
+    },
+    {
+      "id": "JzDhNsrAQRw",
+      "title": "C Programming Tutorial - 79: Running C Programs in Linux Environment",
+      "duration": 301
+    },
+    {
+      "id": "W6X6yn7epwM",
+      "title": "C Programming Tutorial - 44: Functions (Part-2) Parameter Lists, Actual & Formal Parameters",
+      "duration": 574
+    },
+    {
+      "id": "PxTuorfxJTA",
+      "title": "'Third Degree' Interview With Gurmeet Ram Rahim Singh",
+      "duration": 769
+    }
+  ]
+}

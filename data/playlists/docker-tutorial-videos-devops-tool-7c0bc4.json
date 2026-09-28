@@ -1,0 +1,195 @@
+{
+  "courseId": "docker-tutorial-videos-devops-tool-7c0bc4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:55.592Z",
+  "title": "Docker Tutorial Videos | DevOps Tool",
+  "channel": "edureka!",
+  "videos": [
+    {
+      "id": "YE5T8o29NFc",
+      "title": "Docker Tutorial for Beginners | Learn Docker in 30 Minutes | Docker Training | Edureka",
+      "duration": 1636
+    },
+    {
+      "id": "RSIstPUiEjY",
+      "title": "Docker Full Course - Learn Docker in 5 Hours | Docker Tutorial For Beginners | Edureka",
+      "duration": 19006
+    },
+    {
+      "id": "EsLlCWHx_-k",
+      "title": "Docker Tutorial For Beginners | What Is Docker | Dockers Containers | DevOps Training | Edureka",
+      "duration": 2921
+    },
+    {
+      "id": "lcQfQRDAMpQ",
+      "title": "What is Docker | Docker Tutorial for Beginners | Docker Container | DevOps Tools | Edureka",
+      "duration": 1894
+    },
+    {
+      "id": "oik6FSUZakc",
+      "title": "Edureka Learner Testimonial - Shyam's Success Story",
+      "duration": 107
+    },
+    {
+      "id": "CPQUgDyTd6g",
+      "title": "Docker Installation | Install Docker | Docker Installation In CentOS | DevOps Tools | Edureka",
+      "duration": 243
+    },
+    {
+      "id": "iJeL2tOFfvM",
+      "title": "Docker For Windows | Setting Up Docker On Windows | Docker Tutorial For Beginners | Edureka",
+      "duration": 1463
+    },
+    {
+      "id": "lktzQrHQcYU",
+      "title": "Docker Commands With Examples | Docker Tutorial | DevOps Tutorial | Docker Training | Edureka",
+      "duration": 3334
+    },
+    {
+      "id": "b91ZyTSsH2Y",
+      "title": "Docker Explained | What Is A  Docker Container? | Docker Simplified | Docker Tutorial | Edureka",
+      "duration": 1942
+    },
+    {
+      "id": "2lU9zdrs9bM",
+      "title": "Dockerfile Tutorial with Example | Creating your First Dockerfile | Docker Training | Edureka",
+      "duration": 1883
+    },
+    {
+      "id": "cMj_3woGXhM",
+      "title": "Docker Networking | Container Network Model (CNM) | Docker Tutorial For Beginners | Edureka",
+      "duration": 1748
+    },
+    {
+      "id": "WZa7GsqyS3w",
+      "title": "Docker Compose | Containerizing MEAN Stack Application | DevOps Tutorial | Edureka",
+      "duration": 2244
+    },
+    {
+      "id": "Ceqb53EXANk",
+      "title": "Docker Swarm For High Availability | Docker Tutorial | DevOps Tutorial | Edureka",
+      "duration": 3489
+    },
+    {
+      "id": "1cNwEMlmnq0",
+      "title": "Dockerizing An Application | DevOps Tools | GIT Jenkins Docker | DevOps Tutorial | Edureka",
+      "duration": 2890
+    },
+    {
+      "id": "mMjLS3wYnts",
+      "title": "Docker Tutorial For Beginners | Docker Training | DevOps Tools | Edureka",
+      "duration": 4902
+    },
+    {
+      "id": "sCCQ3xEBLZ4",
+      "title": "Top 10 DevOps Tools to Learn in 2024 | Best DevOps Tools to Learn | DevOps Training | Edureka",
+      "duration": 455
+    },
+    {
+      "id": "4tY7neiukb0",
+      "title": "DevOps Certification Training | DevOps Foundation Certification | DevOps Training | Edureka",
+      "duration": 580
+    },
+    {
+      "id": "1WnDHitznGY",
+      "title": "Docker vs VM |  | Containerization or Virtualization - The Differences | DevOps Training | Edureka",
+      "duration": 848
+    },
+    {
+      "id": "hMlr1KlazBk",
+      "title": "Docker Jenkins Pipeline Tutorial | Microservices Using Docker & Jenkins | DevOps Tools | Edureka",
+      "duration": 1397
+    },
+    {
+      "id": "Mn6Jc0AOUTE",
+      "title": "Kubernetes Tutorial | Learn Kubernetes from Scratch in 30 Minutes | Kubernetes Training | Edureka",
+      "duration": 1725
+    },
+    {
+      "id": "aavsiTbL9zc",
+      "title": "Kubernetes Deployment Tutorial | Kubernetes Tutorial For Beginners | Kubernetes Training | Edureka",
+      "duration": 1506
+    },
+    {
+      "id": "FCz10zapsI8",
+      "title": "Node.js Docker Tutorial For Beginners | Dockerizing Node.js Application | DevOps Training | Edureka",
+      "duration": 1407
+    },
+    {
+      "id": "h8gbk7coq5g",
+      "title": "Jenkins Git Integration | Know How to Integrate GitHub with Jenkins | Jenkins Git Tutorial | Edureka",
+      "duration": 990
+    },
+    {
+      "id": "ViYjHfbmBYA",
+      "title": "Top 50 Docker Interview Questions & Answers  | Frequently Asked Docker Interview Questions | Edureka",
+      "duration": 2006
+    },
+    {
+      "id": "jHHCRnC5t0o",
+      "title": "Docker Tutorial for Beginners | What is Docker | DevOps Tools | DevOps Training | Edureka",
+      "duration": 3623
+    },
+    {
+      "id": "I_F-hPTGuLA",
+      "title": "Introduction To Docker WordPress | WordPress Setup With Docker | Docker Training | Edureka",
+      "duration": 1250
+    },
+    {
+      "id": "tChOqEupZmM",
+      "title": "Docker and Kubernetes Tutorial | Docker and Kubernetes Explained | Kubernetes Training | Edureka",
+      "duration": 2768
+    },
+    {
+      "id": "h0NCZbHjIpY",
+      "title": "Docker Tutorial for Beginners | Docker Container | What is Docker? | Learn Docker | Edureka",
+      "duration": 1894
+    },
+    {
+      "id": "HLMFa4Iofpg",
+      "title": "How to Install Docker on Windows 10 [LATEST 2024] | Docker Installation on Ubuntu | Edureka",
+      "duration": 454
+    },
+    {
+      "id": "mVc_WX_YO_A",
+      "title": "Docker Jenkins Pipeline | Docker Jenkins Integration | DevOps Tutorial for Beginners | Edureka",
+      "duration": 1413
+    },
+    {
+      "id": "Qb_9Lk8mEyM",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "CC0U74nt6bw",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "Ozp_tpWoscg",
+      "title": "Docker Full Course - Learn Docker in 7 Hours [2024] | Docker Tutorial For Beginners | Edureka",
+      "duration": 26030
+    },
+    {
+      "id": "R7PXdWz27f0",
+      "title": "Docker Tutorial in 40 mins | Docker Tutorial For Beginners | Docker Training |  Edureka",
+      "duration": 2313
+    },
+    {
+      "id": "og3_Z50ktp8",
+      "title": "Top 5 DevOps Certifications | Highest Paying DevOps Certifications | DevOps Training | Edureka",
+      "duration": 642
+    },
+    {
+      "id": "ElvEAQscpCU",
+      "title": "Dockers Full Course in 7 Hours [2024] | Docker Tutorial for Beginners | Docker Training | Edureka",
+      "duration": 25104
+    },
+    {
+      "id": "QE4umG6PzT4",
+      "title": "What is MLOps? | MLOps Explained in 15 Minutes | MLOps Tutorial | MLOps Training | Edureka",
+      "duration": 925
+    }
+  ]
+}

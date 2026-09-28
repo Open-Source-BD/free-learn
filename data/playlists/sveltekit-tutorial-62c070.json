@@ -1,0 +1,290 @@
+{
+  "courseId": "sveltekit-tutorial-62c070",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjifDNQYYWI6i06D7PjF0Ua",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:42.434Z",
+  "title": "SvelteKit Tutorial",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "UOMLvxfrTCA",
+      "title": "SvelteKit Tutorial - 1 - Introduction",
+      "duration": 414
+    },
+    {
+      "id": "H09pgYzVrhc",
+      "title": "SvelteKit Tutorial - 2 - Hello World",
+      "duration": 319
+    },
+    {
+      "id": "iqm7Sv9VykI",
+      "title": "SvelteKit Tutorial - 3 - Project Structure",
+      "duration": 502
+    },
+    {
+      "id": "IFZM2CGQ4cU",
+      "title": "SvelteKit Tutorial - 4 - Routing",
+      "duration": 413
+    },
+    {
+      "id": "1UiDq3RAD8c",
+      "title": "SvelteKit Tutorial - 5 - Nested Routes",
+      "duration": 219
+    },
+    {
+      "id": "2ZvSj5kktjA",
+      "title": "SvelteKit Tutorial - 6 - Dynamic Routes",
+      "duration": 538
+    },
+    {
+      "id": "Vo4ZML4JOUI",
+      "title": "SvelteKit Tutorial - 7 - Nested Dynamic Routes",
+      "duration": 226
+    },
+    {
+      "id": "hREagSs5UI0",
+      "title": "SvelteKit Tutorial - 8 - Catch All Routes",
+      "duration": 509
+    },
+    {
+      "id": "cgsT_WCLWEo",
+      "title": "SvelteKit Tutorial - 9 - Optional Parameters",
+      "duration": 423
+    },
+    {
+      "id": "6GImQ9i6hRc",
+      "title": "SvelteKit Tutorial - 10 - Route Navigation",
+      "duration": 335
+    },
+    {
+      "id": "GjAViOJeaEo",
+      "title": "SvelteKit Tutorial - 11 - Navigating Programmatically",
+      "duration": 375
+    },
+    {
+      "id": "TNF2umSjulw",
+      "title": "SvelteKit Tutorial - 12 - Route Matchers",
+      "duration": 194
+    },
+    {
+      "id": "C_ZUTipbXkg",
+      "title": "SvelteKit Tutorial - 13 - Route Layout",
+      "duration": 315
+    },
+    {
+      "id": "GMxnG82JHlE",
+      "title": "SvelteKit Tutorial - 14 - Layout Groups",
+      "duration": 288
+    },
+    {
+      "id": "QoT_OxlFHUw",
+      "title": "SvelteKit Tutorial - 15 - Breaking Out of Layouts",
+      "duration": 362
+    },
+    {
+      "id": "6CawFc-OvV4",
+      "title": "SvelteKit Tutorial - 16 - Other Files",
+      "duration": 233
+    },
+    {
+      "id": "eW8uTGspyV8",
+      "title": "SvelteKit Tutorial - 17 - API Routes",
+      "duration": 219
+    },
+    {
+      "id": "U375cmoSIDU",
+      "title": "SvelteKit Tutorial - 18 - API Get Request",
+      "duration": 325
+    },
+    {
+      "id": "3R4rSyMCiC0",
+      "title": "SvelteKit Tutorial - 19 - API Post Request",
+      "duration": 275
+    },
+    {
+      "id": "Q5b_Gy90G4c",
+      "title": "SvelteKit Tutorial - 20 - Dynamic API Routes",
+      "duration": 279
+    },
+    {
+      "id": "S08Fvb0Iv1w",
+      "title": "SvelteKit Tutorial - 21 - API Patch Request",
+      "duration": 246
+    },
+    {
+      "id": "SxcfP0V-LxM",
+      "title": "SvelteKit Tutorial - 22 - API Delete Request",
+      "duration": 241
+    },
+    {
+      "id": "qHqQpHC0xVY",
+      "title": "SvelteKit Tutorial - 23 - Loading Data",
+      "duration": 400
+    },
+    {
+      "id": "iBctrIOg-Jw",
+      "title": "SvelteKit Tutorial - 24 - Page Data",
+      "duration": 362
+    },
+    {
+      "id": "1w2d5HsqwS8",
+      "title": "SvelteKit Tutorial - 25 - fetch Function",
+      "duration": 342
+    },
+    {
+      "id": "oQL3stj6_H0",
+      "title": "SvelteKit Tutorial - 26 - Universal Load Function",
+      "duration": 166
+    },
+    {
+      "id": "mmhUlbvkp-0",
+      "title": "SvelteKit Tutorial - 27 - Server Load Function",
+      "duration": 293
+    },
+    {
+      "id": "jQXeLhR6Qe8",
+      "title": "SvelteKit Tutorial - 28 - Universal vs Server Load Function",
+      "duration": 458
+    },
+    {
+      "id": "qMJ8JEZ2A4c",
+      "title": "SvelteKit Tutorial - 29 - Using URL data",
+      "duration": 412
+    },
+    {
+      "id": "rf3hHNkoLRk",
+      "title": "SvelteKit Tutorial - 30 - Errors and Redirects",
+      "duration": 381
+    },
+    {
+      "id": "OBRbAXPpNIg",
+      "title": "SvelteKit Tutorial - 31 - Layout Data",
+      "duration": 306
+    },
+    {
+      "id": "N3qa9nSS96s",
+      "title": "SvelteKit Tutorial - 32 - Using Parent Data",
+      "duration": 325
+    },
+    {
+      "id": "VICP7KihiNs",
+      "title": "SvelteKit Tutorial - 33 - Using Child Data",
+      "duration": 323
+    },
+    {
+      "id": "btg0_D9TMos",
+      "title": "SvelteKit Tutorial - 34 - Promise Unwrapping",
+      "duration": 224
+    },
+    {
+      "id": "zydO6wkqXRU",
+      "title": "SvelteKit Tutorial - 35 - Data Invalidation",
+      "duration": 523
+    },
+    {
+      "id": "Jj2EzWzEUk4",
+      "title": "SvelteKit Tutorial - 36 - Link Options",
+      "duration": 158
+    },
+    {
+      "id": "W5Uo8-zaCeY",
+      "title": "SvelteKit Tutorial - 37 - Preload Data",
+      "duration": 304
+    },
+    {
+      "id": "iatqe8JLbuA",
+      "title": "SvelteKit Tutorial - 38 - Preload Code",
+      "duration": 291
+    },
+    {
+      "id": "xyFSbu3hM1g",
+      "title": "SvelteKit Tutorial - 39 - Reload and No Scroll",
+      "duration": 213
+    },
+    {
+      "id": "Wte7GTEryZM",
+      "title": "SvelteKit Tutorial - 40 - Preload Programmatically",
+      "duration": 237
+    },
+    {
+      "id": "zv4zxqcpe0I",
+      "title": "SvelteKit Tutorial - 41 - Page Options",
+      "duration": 92
+    },
+    {
+      "id": "CwneYTVt_UY",
+      "title": "SvelteKit Tutorial - 42 - SSR and CSR",
+      "duration": 262
+    },
+    {
+      "id": "FEwUOn_MCL4",
+      "title": "SvelteKit Tutorial - 43 - Pre-rendering Pages",
+      "duration": 392
+    },
+    {
+      "id": "nm0arhFBz9Y",
+      "title": "SvelteKit Tutorial - 44 - Pre-rendering API Routes",
+      "duration": 378
+    },
+    {
+      "id": "BCqlAbxFlHc",
+      "title": "SvelteKit Tutorial - 45 - Pre-rendering Dynamic Routes",
+      "duration": 370
+    },
+    {
+      "id": "JkBTI_6cAMI",
+      "title": "SvelteKit Tutorial - 46 - Pre-rendering and SSR",
+      "duration": 193
+    },
+    {
+      "id": "Ygazrvdm3ec",
+      "title": "SvelteKit Tutorial - 47 - Form Actions",
+      "duration": 431
+    },
+    {
+      "id": "kN6n2wsQA9U",
+      "title": "SvelteKit Tutorial for Beginners - 48 - Default Form Actions",
+      "duration": 297
+    },
+    {
+      "id": "ZXWGRzg5IWE",
+      "title": "SvelteKit Tutorial - 49 - Named Form Actions",
+      "duration": 345
+    },
+    {
+      "id": "NeUWRIbonrY",
+      "title": "SvelteKit Tutorial - 50 - Form Action Validation",
+      "duration": 166
+    },
+    {
+      "id": "QfwNNKq6-bw",
+      "title": "SvelteKit Tutorial - 51 - Form Action Redirects",
+      "duration": 345
+    },
+    {
+      "id": "sYOppTihzgA",
+      "title": "SvelteKit Tutorial - 52 - Progressive Enhancement",
+      "duration": 158
+    },
+    {
+      "id": "knjWr4bTyA8",
+      "title": "SvelteKit Tutorial - 53 - Snapshots",
+      "duration": 233
+    },
+    {
+      "id": "rab8jW1iJOs",
+      "title": "SvelteKit Tutorial - 54 - Environment Variables",
+      "duration": 400
+    },
+    {
+      "id": "hb5LPU5DMlA",
+      "title": "SvelteKit Tutorial - 55 - Server-only Modules",
+      "duration": 179
+    },
+    {
+      "id": "dxFDUpPjfRc",
+      "title": "SvelteKit Tutorial - 56 - Deploying SvelteKit Application",
+      "duration": 254
+    }
+  ]
+}

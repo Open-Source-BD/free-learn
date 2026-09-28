@@ -1,0 +1,855 @@
+{
+  "courseId": "c-programming-0ab7df",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:51.001Z",
+  "title": "C Programming",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "rLf3jnHxSmU",
+      "title": "C Programming – Features & The First C Program",
+      "duration": 898
+    },
+    {
+      "id": "fO4FwJOShdc",
+      "title": "Introduction to Variables",
+      "duration": 504
+    },
+    {
+      "id": "Rl9w0hVxuRw",
+      "title": "Variable Naming Conventions",
+      "duration": 261
+    },
+    {
+      "id": "VXol2-SoUy8",
+      "title": "Basic Output Function – printf",
+      "duration": 374
+    },
+    {
+      "id": "_9bAlgRzlkc",
+      "title": "Fundamental Data Types − Integer (Part 1)",
+      "duration": 460
+    },
+    {
+      "id": "bUryucFPC6I",
+      "title": "Fundamental Data Types − Integer (Part 2)",
+      "duration": 440
+    },
+    {
+      "id": "nwfoxcXgs8o",
+      "title": "Exceeding The Valid Range of Data Types",
+      "duration": 467
+    },
+    {
+      "id": "QncEuobXjvw",
+      "title": "Fundamental Data Types − Character",
+      "duration": 745
+    },
+    {
+      "id": "vNeOx1rQ25E",
+      "title": "Fundamental Data Types − Float, Double & Long Double",
+      "duration": 786
+    },
+    {
+      "id": "IY79fWYkiPQ",
+      "title": "C Programming (Important Questions Set 1)",
+      "duration": 822
+    },
+    {
+      "id": "elMQ5YtZPxA",
+      "title": "Scope of Variables - Local vs Global",
+      "duration": 672
+    },
+    {
+      "id": "1Dkfmf4PmvQ",
+      "title": "Variable Modifiers − Auto & Extern",
+      "duration": 772
+    },
+    {
+      "id": "qHZ7qf6-rhc",
+      "title": "Variable Modifiers − Register",
+      "duration": 242
+    },
+    {
+      "id": "CRhF8a9-pzc",
+      "title": "Variable Modifiers − Static",
+      "duration": 1142
+    },
+    {
+      "id": "BVnNg20AuYU",
+      "title": "Constants in C (Part 1)",
+      "duration": 523
+    },
+    {
+      "id": "I1i0WgiRVXo",
+      "title": "Constants in C (Part 2)",
+      "duration": 245
+    },
+    {
+      "id": "hTUvEURkNeA",
+      "title": "C Programming (Important Questions Set 2)",
+      "duration": 370
+    },
+    {
+      "id": "ZSZwDARaQYI",
+      "title": "Basic Input Function – scanf",
+      "duration": 308
+    },
+    {
+      "id": "gegaS_gX3TY",
+      "title": "C Programming (Important Questions Set 3)",
+      "duration": 1279
+    },
+    {
+      "id": "50Pb27JoUrw",
+      "title": "Introduction to Operators in C",
+      "duration": 333
+    },
+    {
+      "id": "5JXcX0IqRUo",
+      "title": "Arithmetic Operators in C",
+      "duration": 482
+    },
+    {
+      "id": "Lpo1QYsuAmM",
+      "title": "Increment and Decrement Operators in C (Part 1)",
+      "duration": 655
+    },
+    {
+      "id": "3uRoSITqXRI",
+      "title": "Increment and Decrement Operators in C (Part 2)",
+      "duration": 939
+    },
+    {
+      "id": "1oKRTjw0yuY",
+      "title": "Relational Operators in C",
+      "duration": 216
+    },
+    {
+      "id": "WGQRInmOBM8",
+      "title": "Logical Operators in C",
+      "duration": 729
+    },
+    {
+      "id": "jlQmeyce65Q",
+      "title": "Bitwise Operators in C (Part 1)",
+      "duration": 472
+    },
+    {
+      "id": "8aFik6lPPaA",
+      "title": "Bitwise Operators in C (Part 2)",
+      "duration": 299
+    },
+    {
+      "id": "GhhJP6vpEA8",
+      "title": "Bitwise Operators in C (Part 3)",
+      "duration": 241
+    },
+    {
+      "id": "kYR5biY4OHw",
+      "title": "Bitwise Operators in C (Part 4)",
+      "duration": 274
+    },
+    {
+      "id": "zv73Qv1GdwY",
+      "title": "Assignment Operators in C",
+      "duration": 288
+    },
+    {
+      "id": "rULDbIbrXis",
+      "title": "Conditional Operator in C",
+      "duration": 341
+    },
+    {
+      "id": "mhmnb80ZDBM",
+      "title": "Comma Operator in C",
+      "duration": 510
+    },
+    {
+      "id": "8H9G621pQq0",
+      "title": "Precedence and Associativity of Operators",
+      "duration": 987
+    },
+    {
+      "id": "HAKAhma7MQg",
+      "title": "Operators in C (Solved Problem 1)",
+      "duration": 354
+    },
+    {
+      "id": "-QXh0y__tYY",
+      "title": "Operators in C (Solved Problem 2)",
+      "duration": 387
+    },
+    {
+      "id": "5sOZ7l2it2I",
+      "title": "C Programming (Rapid Fire Quiz-1)",
+      "duration": 352
+    },
+    {
+      "id": "Led5aHdLoT4",
+      "title": "Conditionals (if-else, Nested if and else if)",
+      "duration": 490
+    },
+    {
+      "id": "-JMSaLRqsgo",
+      "title": "Conditionals (Switch)",
+      "duration": 444
+    },
+    {
+      "id": "qUPXsPtWGoY",
+      "title": "for and while Loops",
+      "duration": 409
+    },
+    {
+      "id": "TjkJQly2YCw",
+      "title": "do-while Loop",
+      "duration": 303
+    },
+    {
+      "id": "obJcPlAtGVM",
+      "title": "Loop Control Statements − break and continue",
+      "duration": 459
+    },
+    {
+      "id": "SQCPZYAXoZs",
+      "title": "Conditionals and Loops (Solved Problem 1)",
+      "duration": 390
+    },
+    {
+      "id": "1HeVryTa8s0",
+      "title": "Conditionals and Loops (Solved Problem 2)",
+      "duration": 318
+    },
+    {
+      "id": "0wLZbI3NpRo",
+      "title": "Conditionals and Loops (Solved Problem 3)",
+      "duration": 307
+    },
+    {
+      "id": "nKb52W0mD1A",
+      "title": "Conditionals and Loops (Solved Problem 4)",
+      "duration": 341
+    },
+    {
+      "id": "O6DAXvDD2x4",
+      "title": "Conditionals and Loops (Solved Problem 5)",
+      "duration": 198
+    },
+    {
+      "id": "KdM6OrvcjPI",
+      "title": "Special Programs in C − Pyramid of Stars",
+      "duration": 666
+    },
+    {
+      "id": "LJ0m-8zGRB4",
+      "title": "Special Programs in C − Check If The Number Is Palindrome Number",
+      "duration": 494
+    },
+    {
+      "id": "2qcUcon5Ux0",
+      "title": "Special Programs in C− Check If The Number Is Armstrong Number",
+      "duration": 736
+    },
+    {
+      "id": "rZtc68o-He8",
+      "title": "Special Programs in C− Check If The Number Is Strong Number",
+      "duration": 618
+    },
+    {
+      "id": "XWAy-1MoTGw",
+      "title": "Special Programs in C − Check If The Number Is Prime Number",
+      "duration": 626
+    },
+    {
+      "id": "9_exJ-JFW6Y",
+      "title": "Special Programs in C − Adding Two Numbers Without Using The Plus Operator",
+      "duration": 265
+    },
+    {
+      "id": "QFq5vbSlXHU",
+      "title": "Special Programs in C − Adding Two Numbers Without Using The Plus Operator (Half Adder Method)",
+      "duration": 856
+    },
+    {
+      "id": "D59HhCkcmNA",
+      "title": "Special Programs in C − Fibonacci Series",
+      "duration": 430
+    },
+    {
+      "id": "0jZPdInhhco",
+      "title": "Special Programs in C − Floyd's Triangle",
+      "duration": 309
+    },
+    {
+      "id": "9dPMb_znOwk",
+      "title": "Special Programs in C − Binary to Decimal Conversion",
+      "duration": 460
+    },
+    {
+      "id": "2tBRwPYxxhc",
+      "title": "Special Programs in C − Calculating Power of an Integer",
+      "duration": 625
+    },
+    {
+      "id": "rkR_04FIr7U",
+      "title": "Special Programs in C − Check Leap Year",
+      "duration": 272
+    },
+    {
+      "id": "wy-4p_VC88A",
+      "title": "Special Programs in C − Check If The Number Is Perfect Number",
+      "duration": 371
+    },
+    {
+      "id": "3lqgdqoY83o",
+      "title": "Introduction to Functions in C",
+      "duration": 322
+    },
+    {
+      "id": "5wAf9nzX2R8",
+      "title": "Function Declaration in C",
+      "duration": 411
+    },
+    {
+      "id": "gF7wjwM9Jjs",
+      "title": "Function Definition in C",
+      "duration": 364
+    },
+    {
+      "id": "HEiPxjVR8CU",
+      "title": "Call By Value & Call By Reference in C",
+      "duration": 514
+    },
+    {
+      "id": "WYneiMbS6qo",
+      "title": "Functions (Solved Question 1)",
+      "duration": 296
+    },
+    {
+      "id": "sQ8MBVuGk8k",
+      "title": "Functions (Solved Question 2)",
+      "duration": 423
+    },
+    {
+      "id": "GE-236hkYF0",
+      "title": "Functions (Solved Question 3)",
+      "duration": 369
+    },
+    {
+      "id": "mwmvfNVhIA4",
+      "title": "Static Functions in C",
+      "duration": 281
+    },
+    {
+      "id": "L53nqHCSSFY",
+      "title": "Static and Dynamic Scoping (Part-1)",
+      "duration": 694
+    },
+    {
+      "id": "DeGfInd5BPY",
+      "title": "Static and Dynamic Scoping (Part-2)",
+      "duration": 509
+    },
+    {
+      "id": "-7Hz3iriV6w",
+      "title": "Static and Dynamic Scoping (Part-3)",
+      "duration": 305
+    },
+    {
+      "id": "kqWP26CdhB8",
+      "title": "Static and Dynamic Scoping (Part-4)",
+      "duration": 360
+    },
+    {
+      "id": "EKf0Jslyr4Q",
+      "title": "Static and Dynamic Scoping (Solved Question 1)",
+      "duration": 192
+    },
+    {
+      "id": "H68DUS--mUY",
+      "title": "Static and Dynamic Scoping (Solved Question 2)",
+      "duration": 327
+    },
+    {
+      "id": "kepBmgvWNDw",
+      "title": "Recursion in C",
+      "duration": 672
+    },
+    {
+      "id": "ggk7HbcnLG8",
+      "title": "How to write Recursive Functions",
+      "duration": 543
+    },
+    {
+      "id": "t9whckmAEq0",
+      "title": "Types of Recursion (Part 1) | Direct & Indirect Recursion",
+      "duration": 585
+    },
+    {
+      "id": "HIt_GPuD7wk",
+      "title": "Types of Recursion (Part 2) | Tail & Non-tail Recursion",
+      "duration": 793
+    },
+    {
+      "id": "_-wrCUN4z24",
+      "title": "Advantage and Disadvantage of Recursion",
+      "duration": 301
+    },
+    {
+      "id": "IVLUGb_gDDE",
+      "title": "Recursion (Solved Problem 1)",
+      "duration": 409
+    },
+    {
+      "id": "4JqbrwlvreY",
+      "title": "Recursion (Solved Problem 2)",
+      "duration": 393
+    },
+    {
+      "id": "DmIBX7Jjm38",
+      "title": "Recursion (Solved Problem 3)",
+      "duration": 271
+    },
+    {
+      "id": "GL_gJbc7f-Q",
+      "title": "Recursion (Solved Problem 4)",
+      "duration": 637
+    },
+    {
+      "id": "Ou1ZlN3FDP8",
+      "title": "Recursion (Solved Problem 5)",
+      "duration": 389
+    },
+    {
+      "id": "h4mgqQKHBMc",
+      "title": "C Programming (Rapid Fire Quiz-2)",
+      "duration": 331
+    },
+    {
+      "id": "55l-aZ7_F24",
+      "title": "Definition of Array",
+      "duration": 324
+    },
+    {
+      "id": "Bqud0_ozgcc",
+      "title": "Declaration of Array",
+      "duration": 283
+    },
+    {
+      "id": "g0ClJ28-8LE",
+      "title": "Accessing Array Elements",
+      "duration": 319
+    },
+    {
+      "id": "GtcRReso9Xk",
+      "title": "Initializing an Array",
+      "duration": 392
+    },
+    {
+      "id": "Sr21AdNJPKg",
+      "title": "Designated Initialization of Arrays",
+      "duration": 382
+    },
+    {
+      "id": "hsmSDBBsifo",
+      "title": "Arrays in C (Solved Problem 1)",
+      "duration": 248
+    },
+    {
+      "id": "C57wwOOF6ys",
+      "title": "Arrays in C (Solved Problem 2)",
+      "duration": 603
+    },
+    {
+      "id": "iBFzKvCzXsw",
+      "title": "Counting Array Elements using sizeof() Operator",
+      "duration": 245
+    },
+    {
+      "id": "36z4qgN3GWw",
+      "title": "Introduction to Multidimensional Arrays",
+      "duration": 183
+    },
+    {
+      "id": "J1aQ9JN4vZY",
+      "title": "Introduction to Two-Dimensional (2D) Arrays",
+      "duration": 620
+    },
+    {
+      "id": "bbkdiUbou74",
+      "title": "Introduction to Three-Dimensional (3D) Arrays",
+      "duration": 479
+    },
+    {
+      "id": "UbBCg0-xjkU",
+      "title": "Multidimensional Arrays (Solved Problem)",
+      "duration": 321
+    },
+    {
+      "id": "aAFP5wsmH2k",
+      "title": "C Program for Matrix Multiplication (Part 1)",
+      "duration": 389
+    },
+    {
+      "id": "jzdQqoG1tZs",
+      "title": "C Program for Matrix Multiplication (Part 2)",
+      "duration": 499
+    },
+    {
+      "id": "yK9AFU7fzEA",
+      "title": "Constant Arrays in C",
+      "duration": 128
+    },
+    {
+      "id": "JW3Vg0xpJLY",
+      "title": "Variable Length Arrays in C",
+      "duration": 237
+    },
+    {
+      "id": "f2i0CnUOniA",
+      "title": "Introduction to Pointers in C",
+      "duration": 172
+    },
+    {
+      "id": "b3G9RjG4l2s",
+      "title": "Declaring & Initializing Pointers in C",
+      "duration": 248
+    },
+    {
+      "id": "xlt_bEqfnxg",
+      "title": "Value of Operator in Pointers",
+      "duration": 344
+    },
+    {
+      "id": "qG01z8unrU4",
+      "title": "Pointer Assignment",
+      "duration": 240
+    },
+    {
+      "id": "qxUd5av1OYI",
+      "title": "Pointer Application (Finding the Largest & Smallest Elements in an Array)",
+      "duration": 426
+    },
+    {
+      "id": "NVH4K-0O39E",
+      "title": "Returning Pointers",
+      "duration": 320
+    },
+    {
+      "id": "cEphEIMaqms",
+      "title": "Pointers (Important Questions)",
+      "duration": 671
+    },
+    {
+      "id": "FmptkK2XZ0w",
+      "title": "Pointer Arithmetic (Addition)",
+      "duration": 430
+    },
+    {
+      "id": "MgsPbqOKF-c",
+      "title": "Pointer Arithmetic (Subtraction)",
+      "duration": 479
+    },
+    {
+      "id": "gwqbYnxQGR8",
+      "title": "Pointer Arithmetic (Increment & Decrement)",
+      "duration": 247
+    },
+    {
+      "id": "nYHA3eZuhzc",
+      "title": "Pointer Arithmetic (Comparing the Pointers)",
+      "duration": 198
+    },
+    {
+      "id": "04x7hKdyJAQ",
+      "title": "Pointers (Program 1) | Sum of Array Elements using Pointers",
+      "duration": 185
+    },
+    {
+      "id": "gv-y9hIhvq4",
+      "title": "Using Array Name as a Pointer",
+      "duration": 414
+    },
+    {
+      "id": "D4QmCQePRko",
+      "title": "Pointers (Program 2) | Reversing a Series of Numbers using Pointers",
+      "duration": 207
+    },
+    {
+      "id": "gNlmJ2WrZSY",
+      "title": "Passing Array as an Argument to a Function",
+      "duration": 194
+    },
+    {
+      "id": "lCDGo7rK3ms",
+      "title": "Using Pointers to Print 2D Arrays",
+      "duration": 251
+    },
+    {
+      "id": "3fOPOUnkcdQ",
+      "title": "Processing the Multidimensional Array Elements (or) Address Arithmetic of Multidimensional Arrays",
+      "duration": 871
+    },
+    {
+      "id": "ZiA6HB7JbxE",
+      "title": "Pointers (Program 3)",
+      "duration": 655
+    },
+    {
+      "id": "kI9BV7D4OZM",
+      "title": "Pointers (Program 4)",
+      "duration": 334
+    },
+    {
+      "id": "ibj_AKOxpHo",
+      "title": "Pointer Pointing to an Entire Array",
+      "duration": 322
+    },
+    {
+      "id": "zt2Z8U_1kmw",
+      "title": "Pointer Pointing to an Entire Array (Solved Problem)",
+      "duration": 380
+    },
+    {
+      "id": "I95ebG2tifA",
+      "title": "Pointers (Program 5)",
+      "duration": 154
+    },
+    {
+      "id": "U8Ps0XSQdJw",
+      "title": "Pointers (Program 6)",
+      "duration": 461
+    },
+    {
+      "id": "alEjARaJ-Fo",
+      "title": "Pointers (Program 7)",
+      "duration": 330
+    },
+    {
+      "id": "ze2lBQwugDw",
+      "title": "Pointers (Program 8)",
+      "duration": 672
+    },
+    {
+      "id": "Mgygikl0Ym8",
+      "title": "Pointers (Program 9)",
+      "duration": 413
+    },
+    {
+      "id": "IlqiTmcK1Eg",
+      "title": "Basics of String Literals",
+      "duration": 245
+    },
+    {
+      "id": "zNCgj3mfixw",
+      "title": "Storing the String Literals",
+      "duration": 205
+    },
+    {
+      "id": "hiO_j137K48",
+      "title": "Performing Operations on String Literals",
+      "duration": 247
+    },
+    {
+      "id": "GJ9w9eYPq5E",
+      "title": "String Literal vs. Character Constant",
+      "duration": 144
+    },
+    {
+      "id": "cnfRyvo41Bs",
+      "title": "Declaring and Initializing String Variables",
+      "duration": 542
+    },
+    {
+      "id": "wW7u_WrkY6Q",
+      "title": "Writing Strings using printf and puts Functions",
+      "duration": 260
+    },
+    {
+      "id": "2HasEQe5VR0",
+      "title": "Reading Strings using scanf and gets Functions",
+      "duration": 319
+    },
+    {
+      "id": "jGRI7Au7f2c",
+      "title": "Designing The Input Function using getchar()",
+      "duration": 596
+    },
+    {
+      "id": "RxgfedYdJMk",
+      "title": "putchar() Function in C",
+      "duration": 300
+    },
+    {
+      "id": "0gkOH0Ft6bk",
+      "title": "Strings (Solved Problem 1)",
+      "duration": 165
+    },
+    {
+      "id": "DOPs6c0f4Ek",
+      "title": "C String Library and String Copy Function - strcpy()",
+      "duration": 540
+    },
+    {
+      "id": "1ogEw57L4Gw",
+      "title": "String Length Function - strlen()",
+      "duration": 237
+    },
+    {
+      "id": "beq14396XMk",
+      "title": "String Concatenate Functions - strcat() & strncat()",
+      "duration": 364
+    },
+    {
+      "id": "1h0dsVlowwM",
+      "title": "String Comparison Function - strcmp()",
+      "duration": 364
+    },
+    {
+      "id": "AefKSoNpZtQ",
+      "title": "Array of Strings",
+      "duration": 284
+    },
+    {
+      "id": "RtfFs16nVXY",
+      "title": "Strings (Solved Problem 2)",
+      "duration": 217
+    },
+    {
+      "id": "LcPaeVIv6PU",
+      "title": "Strings (Solved Problem 3)",
+      "duration": 275
+    },
+    {
+      "id": "ngTC-e8ECPc",
+      "title": "Strings (Solved Problem 4)",
+      "duration": 403
+    },
+    {
+      "id": "c5epkyTH7ZE",
+      "title": "Strings (Solved Problem 5)",
+      "duration": 402
+    },
+    {
+      "id": "123MCNF7dH4",
+      "title": "Strings (Solved Problem 6)",
+      "duration": 256
+    },
+    {
+      "id": "BRsv3ZXoHto",
+      "title": "Function Pointers in C",
+      "duration": 367
+    },
+    {
+      "id": "wQ-gWwKKeP4",
+      "title": "Application of Function Pointers in C",
+      "duration": 431
+    },
+    {
+      "id": "zmRxC7gYw-g",
+      "title": "Introduction to Structures in C",
+      "duration": 234
+    },
+    {
+      "id": "3pFSbSVIwKU",
+      "title": "Declaring Structure Variables",
+      "duration": 254
+    },
+    {
+      "id": "IPLPISOXvF0",
+      "title": "Structure Types (Using Structure Tags)",
+      "duration": 399
+    },
+    {
+      "id": "Bw3sUC6Txus",
+      "title": "Structure Types (Using typedef)",
+      "duration": 143
+    },
+    {
+      "id": "2DidKZmwNMo",
+      "title": "Initializing & Accessing the Structure Members",
+      "duration": 179
+    },
+    {
+      "id": "WUbp4gHR6_8",
+      "title": "Designated Initialization in Structures",
+      "duration": 127
+    },
+    {
+      "id": "EGeIsvx4Wns",
+      "title": "Declaring an Array of Structure",
+      "duration": 202
+    },
+    {
+      "id": "VsnXsfNstVw",
+      "title": "Pointer to Structure Variable",
+      "duration": 154
+    },
+    {
+      "id": "aROgtACPjjg",
+      "title": "Structure Padding in C",
+      "duration": 522
+    },
+    {
+      "id": "VZBLCpQYchs",
+      "title": "Structure Packing in C",
+      "duration": 147
+    },
+    {
+      "id": "KChOkB7aTS4",
+      "title": "Structures in C (Solved Problem 1)",
+      "duration": 88
+    },
+    {
+      "id": "H-19ff0wW6s",
+      "title": "Structures in C (Solved Problem 2)",
+      "duration": 331
+    },
+    {
+      "id": "nYZBCtlMd-k",
+      "title": "Structures in C (Solved Problem 3)",
+      "duration": 157
+    },
+    {
+      "id": "oySsPUDr35U",
+      "title": "Introduction to Unions in C",
+      "duration": 418
+    },
+    {
+      "id": "5CVYtRh5S7E",
+      "title": "Unions in C (Solved Problem 1)",
+      "duration": 177
+    },
+    {
+      "id": "QOFjQMdtoRA",
+      "title": "Application of Unions (Part 1)",
+      "duration": 464
+    },
+    {
+      "id": "7eHRoAjFepU",
+      "title": "Application of Unions (Part 2)",
+      "duration": 274
+    },
+    {
+      "id": "9QdJExC2AVg",
+      "title": "Enumerations in C",
+      "duration": 406
+    },
+    {
+      "id": "vwqDTWZE8_E",
+      "title": "Program to Find Area of Rectangle Using Structures",
+      "duration": 533
+    },
+    {
+      "id": "gSYFHluoeHs",
+      "title": "Structures & Unions in C (Solved Problem)",
+      "duration": 228
+    },
+    {
+      "id": "Wslbb1UQUSc",
+      "title": "File Handling | Chapter-14 | C Programming | nesoacademy.org",
+      "duration": 51
+    }
+  ]
+}

@@ -1,0 +1,900 @@
+{
+  "courseId": "linux-command-line-tutorial-for-beginners-6b9597",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:51.064Z",
+  "title": "Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "YHFzr-akOas",
+      "title": "Linux Command Line Tutorial For Beginners 1 - Introduction",
+      "duration": 478
+    },
+    {
+      "id": "dQ8JgDUS8DA",
+      "title": "Linux Command Line Tutorial For Beginners 2 - ls command in Linux",
+      "duration": 1035
+    },
+    {
+      "id": "FTTr2bjI2UM",
+      "title": "Linux Command Line Tutorial For Beginners 3 - cd command in Linux",
+      "duration": 687
+    },
+    {
+      "id": "E01hskdRmUg",
+      "title": "Linux Command Line Tutorial For Beginners 4 - cat command in Linux",
+      "duration": 555
+    },
+    {
+      "id": "B7nHENGa7pc",
+      "title": "Linux Command Line Tutorial For Beginners 5 - I/O Redirection",
+      "duration": 531
+    },
+    {
+      "id": "qixSaXSUs-U",
+      "title": "Linux Command Line Tutorial For Beginners 6 -  mkdir Command",
+      "duration": 375
+    },
+    {
+      "id": "yrw6Uxs-yJk",
+      "title": "Linux Command Line Tutorial For Beginners 7 -  rm and rmdir commands for linux",
+      "duration": 750
+    },
+    {
+      "id": "Bnx_GAHM0wo",
+      "title": "Linux Command Line Tutorial For Beginners 8 - cp command",
+      "duration": 710
+    },
+    {
+      "id": "nTLWfSl5nuQ",
+      "title": "Linux Command Line Tutorial For Beginners 9 - mv command",
+      "duration": 694
+    },
+    {
+      "id": "06GsFVeuWNk",
+      "title": "Linux Command Line Tutorial For Beginners 10 - less command",
+      "duration": 435
+    },
+    {
+      "id": "frSbkNV1pc8",
+      "title": "Linux Command Line Tutorial For Beginners 11 -  touch command",
+      "duration": 304
+    },
+    {
+      "id": "ak8c9SfHGWI",
+      "title": "Linux Command Line Tutorial For Beginners 12 -  nano command",
+      "duration": 414
+    },
+    {
+      "id": "NV55X0MvVEo",
+      "title": "Linux Command Line Tutorial For Beginners 13 - sudo command",
+      "duration": 486
+    },
+    {
+      "id": "M4kM0JleVDs",
+      "title": "Linux Command Line Tutorial For Beginners 14 -  top command",
+      "duration": 485
+    },
+    {
+      "id": "fT-h45L9RAY",
+      "title": "Linux Command Line Tutorial For Beginners 15 -  kill command",
+      "duration": 528
+    },
+    {
+      "id": "tYmFsyH7VJY",
+      "title": "Linux Command Line Tutorial For Beginners 16 - echo command",
+      "duration": 471
+    },
+    {
+      "id": "82vriGF3b1U",
+      "title": "Linux Command Line Tutorial For Beginners 17 - file permissions, symbolic permissions and chmod",
+      "duration": 748
+    },
+    {
+      "id": "VwOapNGpILI",
+      "title": "Linux Command Line Tutorial For Beginners 18 - directory permissions and chmod",
+      "duration": 437
+    },
+    {
+      "id": "LFNwRp-rwMs",
+      "title": "Linux Command Line Tutorial For Beginners 19 - Octal and Numerical permissions (chmod)",
+      "duration": 574
+    },
+    {
+      "id": "-GNxBGja9xw",
+      "title": "Linux Command Line Tutorial For Beginners 20 - Introduction to Bash Scripting",
+      "duration": 595
+    },
+    {
+      "id": "nAuTUbGG61s",
+      "title": "Linux Command Line Tutorial For Beginners 21 -  which and whatis command",
+      "duration": 318
+    },
+    {
+      "id": "O1ZAiqpfAnc",
+      "title": "Linux Command Line Tutorial For Beginners 22 -  useradd command (Creating Users)",
+      "duration": 423
+    },
+    {
+      "id": "HOzWrh70aBw",
+      "title": "Linux Command Line Tutorial For Beginners 23 - userdel command (Removing Users)",
+      "duration": 301
+    },
+    {
+      "id": "z-F3yjnuQU0",
+      "title": "Linux Command Line Tutorial For Beginners 24 - Basic Group Management (groups, groupadd, groupdel)",
+      "duration": 395
+    },
+    {
+      "id": "pYL0iKIyik4",
+      "title": "Linux Command Line Tutorial For Beginners 25 - .bashrc File",
+      "duration": 434
+    },
+    {
+      "id": "0utcg3ztzuI",
+      "title": "Linux Command Line Tutorial For Beginners 26 - Viewing Resources (du , df, free command)",
+      "duration": 592
+    },
+    {
+      "id": "psruEx7gkEw",
+      "title": "Linux Command Line Tutorial For Beginners 27 -  watch command",
+      "duration": 223
+    },
+    {
+      "id": "ad4omyYRMTg",
+      "title": "Linux Command Line Tutorial For Beginners 28 -  Head and Tail Commands",
+      "duration": 410
+    },
+    {
+      "id": "tDPx6yeQFXU",
+      "title": "Linux Command Line Tutorial For Beginners 29 - find command",
+      "duration": 435
+    },
+    {
+      "id": "30CimEkI7UY",
+      "title": "Linux Command Line Tutorial For Beginners 30 -  wc command",
+      "duration": 261
+    },
+    {
+      "id": "dKEEoGUjlpA",
+      "title": "Linux Command Line Tutorial For Beginners 31 -  cal command",
+      "duration": 230
+    },
+    {
+      "id": "xKnCCXPiNYM",
+      "title": "Linux Command Line Tutorial For Beginners 32 -  date command",
+      "duration": 355
+    },
+    {
+      "id": "MQlPKWAlTQQ",
+      "title": "Linux Command Line Tutorial For Beginners 33 -  How to Run multiple Terminal Commands",
+      "duration": 556
+    },
+    {
+      "id": "VTMP1lZCkXs",
+      "title": "Linux Command Line Tutorial For Beginners 34 -  apt-get command to Install Software",
+      "duration": 749
+    },
+    {
+      "id": "waCYu4QGsYc",
+      "title": "Linux Command Line Tutorial For Beginners 35 -  ifconfig command",
+      "duration": 510
+    },
+    {
+      "id": "MlElVQffEts",
+      "title": "Linux Command Line Tutorial For Beginners 36 - tar command to Compress and Extract Files",
+      "duration": 355
+    },
+    {
+      "id": "_SxRZ4HMIBE",
+      "title": "Linux Command Line Tutorial For Beginners 37 - grep command",
+      "duration": 651
+    },
+    {
+      "id": "zGNcvBaN5wE",
+      "title": "Linux Command Line Tutorial For Beginners 38 - netstat command",
+      "duration": 754
+    },
+    {
+      "id": "JZ7h5FxlTVg",
+      "title": "How to Enable SSH in Ubuntu 18.04 LTS / Ubuntu 20.04  (Install openssh-server)",
+      "duration": 305
+    },
+    {
+      "id": "fmMg6cyww14",
+      "title": "scp command - SCP to Securely Transfer Files/Folders in Linux",
+      "duration": 615
+    },
+    {
+      "id": "Dk1y06JCa7o",
+      "title": "How to install Atom editor in Ubuntu Linux",
+      "duration": 440
+    },
+    {
+      "id": "WVmAC37BfVA",
+      "title": "How to Install Fedora Linux on VirtualBox in Windows 8 / Windows 10",
+      "duration": 923
+    },
+    {
+      "id": "Rc0JxFEcnBs",
+      "title": "How to Install Ubuntu 16.04 LTS on VMware in Windows 8 / Windows 10",
+      "duration": 840
+    },
+    {
+      "id": "-LwI4HMR_Eg",
+      "title": "How to Install and  configuration PostgreSQL on Ubuntu Linux",
+      "duration": 920
+    },
+    {
+      "id": "GFGImSdJNWk",
+      "title": "Linux Command Line Tutorial | Learn the Bash Command Line | Linux Terminal Tutorial",
+      "duration": 19016
+    },
+    {
+      "id": "cQepf9fY6cE",
+      "title": "Shell Scripting Tutorial for Beginners 1 -  Introduction",
+      "duration": 706
+    },
+    {
+      "id": "vQv4W-JfrmQ",
+      "title": "Shell Scripting Tutorial for Beginners 2 - using Variables and Comments",
+      "duration": 617
+    },
+    {
+      "id": "AcSkkNAsGCY",
+      "title": "Shell Scripting Tutorial for Beginners 3 - Read User Input",
+      "duration": 691
+    },
+    {
+      "id": "BjBBfmDRakg",
+      "title": "Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script",
+      "duration": 515
+    },
+    {
+      "id": "OO2Avn1g5Tw",
+      "title": "Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else)",
+      "duration": 798
+    },
+    {
+      "id": "uVi5o38NGi0",
+      "title": "Shell Scripting Tutorial for Beginners 6 - File test operators",
+      "duration": 630
+    },
+    {
+      "id": "0Z72-LpvwjU",
+      "title": "Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file",
+      "duration": 647
+    },
+    {
+      "id": "m4G3MLK8l4s",
+      "title": "Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator",
+      "duration": 395
+    },
+    {
+      "id": "RtbeGJfssGQ",
+      "title": "Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator",
+      "duration": 346
+    },
+    {
+      "id": "kr3WP_-bu8A",
+      "title": "Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations",
+      "duration": 441
+    },
+    {
+      "id": "yqpY-Wk-i9k",
+      "title": "Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash | bc Command",
+      "duration": 742
+    },
+    {
+      "id": "dW3oYQbNFyI",
+      "title": "Shell Scripting Tutorial for Beginners 12 - The case statement",
+      "duration": 472
+    },
+    {
+      "id": "dqaMU4v6KvQ",
+      "title": "Shell Scripting Tutorial for Beginners 13 - The case statement Example",
+      "duration": 519
+    },
+    {
+      "id": "p4ZHbf4_6IU",
+      "title": "Shell Scripting Tutorial for Beginners 14 - Array variables",
+      "duration": 630
+    },
+    {
+      "id": "iwEteYwKDfE",
+      "title": "Shell Scripting Tutorial for Beginners 15 - WHILE Loops",
+      "duration": 381
+    },
+    {
+      "id": "L2eaBxAoMfQ",
+      "title": "Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops",
+      "duration": 296
+    },
+    {
+      "id": "A-rBp1OJSH4",
+      "title": "Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash",
+      "duration": 441
+    },
+    {
+      "id": "PgVIvWIi89I",
+      "title": "Shell Scripting Tutorial for Beginners 18 - UNTIL loop",
+      "duration": 262
+    },
+    {
+      "id": "mhhAbETJpag",
+      "title": "Shell Scripting Tutorial for Beginners 19 - FOR loop",
+      "duration": 520
+    },
+    {
+      "id": "qnmlnu-J3_g",
+      "title": "Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands",
+      "duration": 406
+    },
+    {
+      "id": "k3yTt0V01Mo",
+      "title": "Shell Scripting Tutorial for Beginners 21 - Select loop",
+      "duration": 422
+    },
+    {
+      "id": "OOG076Z5SU8",
+      "title": "Shell Scripting Tutorial for Beginners 22 - Break and continue",
+      "duration": 403
+    },
+    {
+      "id": "kvQpx0q3qhY",
+      "title": "Shell Scripting Tutorial for Beginners 23 - Functions",
+      "duration": 583
+    },
+    {
+      "id": "16T4e4DME8I",
+      "title": "Shell Scripting Tutorial for Beginners 24 - Local variables",
+      "duration": 524
+    },
+    {
+      "id": "x8Zbspqm_x4",
+      "title": "Shell Scripting Tutorial for Beginners 25 - Function Example",
+      "duration": 718
+    },
+    {
+      "id": "EcldWxfoEmw",
+      "title": "Shell Scripting Tutorial for Beginners 26 - Readonly command",
+      "duration": 438
+    },
+    {
+      "id": "tF0Qau7zcsw",
+      "title": "Shell Scripting Tutorial for Beginners 27 - Signals and Traps",
+      "duration": 1305
+    },
+    {
+      "id": "yrIlmyRST8c",
+      "title": "Shell Scripting Tutorial for Beginners 28 - How to debug a bash script",
+      "duration": 443
+    },
+    {
+      "id": "GGorVpzZQwA",
+      "title": "How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8 / Windows 10",
+      "duration": 1160
+    },
+    {
+      "id": "QbmRXJJKsvs",
+      "title": "How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10 / Windows 8",
+      "duration": 760
+    },
+    {
+      "id": "qNecdUsuTPw",
+      "title": "How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest / virtual machine",
+      "duration": 217
+    },
+    {
+      "id": "4RJ60fqeTN4",
+      "title": "How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux)",
+      "duration": 209
+    },
+    {
+      "id": "cPDNnpsdteU",
+      "title": "How to Install Linux Mint 19 Cinnamon on VirtualBox",
+      "duration": 583
+    },
+    {
+      "id": "6M1DivpQSdo",
+      "title": "How to Install Debian Linux on VirtualBox",
+      "duration": 794
+    },
+    {
+      "id": "zWVV31NYi1U",
+      "title": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming",
+      "duration": 15032
+    },
+    {
+      "id": "M9C-_s3HQl8",
+      "title": "How to be a Good Software Developer / Coder / Programmer",
+      "duration": 1121
+    },
+    {
+      "id": "AmTD9BaL6zY",
+      "title": "Which Programming Language Should You Learn First",
+      "duration": 635
+    },
+    {
+      "id": "LIpQGLdll7A",
+      "title": "Docker Tutorial for Beginners | Learn Docker in 2 Hours (Full Course) | DevOps Training",
+      "duration": 7781
+    },
+    {
+      "id": "f_CWdtoTMKg",
+      "title": "How To Test 200+ Linux Distributions Without Installing them",
+      "duration": 806
+    },
+    {
+      "id": "yPaZp-BAr_Q",
+      "title": "How to Install Parrot Security OS on VirtualBox",
+      "duration": 849
+    },
+    {
+      "id": "1ap3hL-UR9I",
+      "title": "How to Run Linux/Bash on Windows 10 | Windows 10 Bash & Linux Subsystem Setup",
+      "duration": 723
+    },
+    {
+      "id": "x5MhydijWmc",
+      "title": "How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10",
+      "duration": 1245
+    },
+    {
+      "id": "Wx8NbZEAPNM",
+      "title": "Install Wine on Ubuntu Linux | Running Windows Programs on Linux",
+      "duration": 606
+    },
+    {
+      "id": "x3nVHXv3oyw",
+      "title": "How to Install Android Studio on Ubuntu (Linux)",
+      "duration": 783
+    },
+    {
+      "id": "wDnFjDjxW_0",
+      "title": "Top Websites for Coding Interview Preparation",
+      "duration": 737
+    },
+    {
+      "id": "v1JVqd8M3Yc",
+      "title": "How to Install Ubuntu 22.04 LTS on VirtualBox in Windows 11",
+      "duration": 1194
+    },
+    {
+      "id": "sUsTQTJFmjs",
+      "title": "How to Run Linux/Bash on Windows 11 | Windows 11 Bash & Linux Subsystem Setup",
+      "duration": 794
+    },
+    {
+      "id": "l7R7CZOLWFE",
+      "title": "Linux Command Line Basics Tutorials - Installing Ubuntu Linux on VirtualBox in Windows",
+      "duration": 1481
+    },
+    {
+      "id": "KazNUD-8dns",
+      "title": "Linux Command Line Basics Tutorials - Ls Command in Linux",
+      "duration": 805
+    },
+    {
+      "id": "kZYmTmJhOUk",
+      "title": "Linux Command Line Basics Tutorials - cd Command in Linux",
+      "duration": 494
+    },
+    {
+      "id": "qYOPRK_xokg",
+      "title": "Linux Command Line Basics Tutorials - mkdir Command in Linux",
+      "duration": 1005
+    },
+    {
+      "id": "3PvuOQqvoLQ",
+      "title": "Linux Command Line Basics Tutorials - rmdir Command in Linux",
+      "duration": 582
+    },
+    {
+      "id": "T66blTjngfY",
+      "title": "Linux Command Line Basics Tutorials - touch Command in Linux",
+      "duration": 486
+    },
+    {
+      "id": "xvjpwxGZlx0",
+      "title": "Linux Command Line Basics Tutorials - cat Command in Linux",
+      "duration": 588
+    },
+    {
+      "id": "lZ9NX_raZ8w",
+      "title": "Linux Command Line Basics Tutorials - rm Command in Linux",
+      "duration": 579
+    },
+    {
+      "id": "5KT-YOPUNKQ",
+      "title": "Linux Command Line Basics Tutorials - cp Command in Linux",
+      "duration": 664
+    },
+    {
+      "id": "ASKcLRWg9_Y",
+      "title": "Linux Command Line Basics Tutorials - mv Command in Linux",
+      "duration": 583
+    },
+    {
+      "id": "9yd0w1VLHoY",
+      "title": "Linux Command Line Basics Tutorials - test exercise",
+      "duration": 37
+    },
+    {
+      "id": "wupxfWnlurM",
+      "title": "Linux Command Line Basics Tutorials - unzip Command in Linux",
+      "duration": 508
+    },
+    {
+      "id": "_6cZZU3aY_U",
+      "title": "Linux Command Line Basics Tutorials - zip Command in Linux",
+      "duration": 526
+    },
+    {
+      "id": "5UZ76TCaHr4",
+      "title": "Linux Command Line Basics Tutorials - File Permissions in Linux. How to Read, Write & Change",
+      "duration": 953
+    },
+    {
+      "id": "g-CWhzcryVo",
+      "title": "Linux Command Line Basics Tutorials - How to Use the chmod Command on Linux",
+      "duration": 1167
+    },
+    {
+      "id": "MJkTugwpMJ0",
+      "title": "Linux Command Line Basics Tutorials - How to Add Users and Create Users with useradd",
+      "duration": 1841
+    },
+    {
+      "id": "8Z332faZsNU",
+      "title": "Linux Command Line Basics Tutorials - groupadd command in Linux with examples",
+      "duration": 593
+    },
+    {
+      "id": "nmqGGGdb5iA",
+      "title": "Linux Command Line Basics Tutorials - Usermod Command in Linux",
+      "duration": 986
+    },
+    {
+      "id": "gzNXittvyZ4",
+      "title": "Linux Command Line Basics Tutorials - usermod command in Linux with Examples",
+      "duration": 665
+    },
+    {
+      "id": "kwZouIn6IbU",
+      "title": "Linux Command Line Basics Tutorials - Head command in Linux with examples",
+      "duration": 324
+    },
+    {
+      "id": "7Y6Ho9JUxTE",
+      "title": "Linux Command Line Basics Tutorials - Tail command in Linux with examples",
+      "duration": 387
+    },
+    {
+      "id": "U-vPg-xGXi4",
+      "title": "Linux Command Line Basics Tutorials - Chown Command in Linux",
+      "duration": 539
+    },
+    {
+      "id": "uPd62czAf1U",
+      "title": "Linux Command Line Basics Tutorials - chgrp command in Linux with Examples",
+      "duration": 582
+    },
+    {
+      "id": "Z0hdlJP5zYs",
+      "title": "Linux Command Line Basics Tutorials - Ping Command in Linux",
+      "duration": 368
+    },
+    {
+      "id": "HMFfXqR8Ir4",
+      "title": "Linux Command Line Basics Tutorials - traceroute command in Linux with Examples",
+      "duration": 1146
+    },
+    {
+      "id": "7nfoxkRmGrQ",
+      "title": "Linux Command Line Basics Tutorials - MTR command in Linux",
+      "duration": 725
+    },
+    {
+      "id": "dOu9nPMd_wo",
+      "title": "host Command In Linux With Examples | Linux Command Line Basics Tutorials",
+      "duration": 802
+    },
+    {
+      "id": "UadCuDLyqlY",
+      "title": "ifconfig command in Linux | Linux Command Line Basics Tutorials",
+      "duration": 215
+    },
+    {
+      "id": "40_HLC0J8DE",
+      "title": "Linux Command Line Basics Tutorials - ip command in Linux",
+      "duration": 245
+    },
+    {
+      "id": "2HyYx3hlAHw",
+      "title": "Linux Command Line Basics Tutorials - whois command in Linux",
+      "duration": 387
+    },
+    {
+      "id": "gKJgnpngevE",
+      "title": "Linux Command Line Basics Tutorials - nslookup command in Linux",
+      "duration": 445
+    },
+    {
+      "id": "uLA1ielCU1k",
+      "title": "Linux Command Line Basics Tutorials - Wget command in Linux",
+      "duration": 1230
+    },
+    {
+      "id": "PZlbmV20gOw",
+      "title": "How to Mirror a Website Using wget command",
+      "duration": 734
+    },
+    {
+      "id": "1jfqkVk-I6A",
+      "title": "ssh command in Linux with Examples",
+      "duration": 814
+    },
+    {
+      "id": "a1eLHscKN2k",
+      "title": "scp command - SCP to Securely Transfer Files/Folders in Linux",
+      "duration": 938
+    },
+    {
+      "id": "slf7GAuzIQ4",
+      "title": "Uptime command in Linux with Examples - How to Check Uptime in Linux Command Line",
+      "duration": 150
+    },
+    {
+      "id": "0QuON6k2z0g",
+      "title": "Processes in Linux/Unix",
+      "duration": 441
+    },
+    {
+      "id": "WqrRKfJWqqM",
+      "title": "nl command in Linux with Examples",
+      "duration": 139
+    },
+    {
+      "id": "k6XmE77pnmY",
+      "title": "chage command in Linux with examples | How to Use Linux Chage Command",
+      "duration": 410
+    },
+    {
+      "id": "5jZFjy5Lk4U",
+      "title": "passwd command in Linux with examples | How to Use Linux passwd Command",
+      "duration": 936
+    },
+    {
+      "id": "UsnG_Y-lFBk",
+      "title": "hostname command in Linux with examples | How to Use Linux hostname Command",
+      "duration": 276
+    },
+    {
+      "id": "KWY2oXgyMCU",
+      "title": "uname command in Linux with examples | How to Use Linux uname Command",
+      "duration": 329
+    },
+    {
+      "id": "P3YVqX_9ti0",
+      "title": "ps command in Linux with examples | How to Use Linux ps Command",
+      "duration": 719
+    },
+    {
+      "id": "hLvjxfJAFxw",
+      "title": "Top command in Linux with examples | How to Use Linux Top Command",
+      "duration": 581
+    },
+    {
+      "id": "-Lqai0oSpNU",
+      "title": "Kill command in Linux with examples | How to Use Linux Kill Command",
+      "duration": 286
+    },
+    {
+      "id": "RvYKa5S6BRY",
+      "title": "Introduction to Shell Scripting | Shell Scripting Tutorial for Beginners",
+      "duration": 393
+    },
+    {
+      "id": "O9YMUWLzCo0",
+      "title": "How to Install Visual Studio Code on Linux | Shell Scripting Tutorial for Beginners",
+      "duration": 263
+    },
+    {
+      "id": "Klu6iIO8PYY",
+      "title": "How to Use Variables in Shell Scripting | Shell Scripting Tutorial for Beginners",
+      "duration": 742
+    },
+    {
+      "id": "Sc2v6Dj3Z4M",
+      "title": "How do I read user input into a variable in Bash | Shell Scripting Tutorial for Beginners",
+      "duration": 516
+    },
+    {
+      "id": "8-zmlcwFAfE",
+      "title": "Shell Scripting - Command Substitution",
+      "duration": 350
+    },
+    {
+      "id": "Gexu9M7p5aU",
+      "title": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners",
+      "duration": 370
+    },
+    {
+      "id": "ptnP5zJrPmU",
+      "title": "Shell Scripting Tutorial for Beginners - Practice Exercise 1",
+      "duration": 180
+    },
+    {
+      "id": "5AAkZ1wR03c",
+      "title": "Shell Scripting Tutorial for Beginners - Practice Exercise 2",
+      "duration": 260
+    },
+    {
+      "id": "7y1JXCFUAkY",
+      "title": "Basic Operators in Shell Scripting | Shell Scripting Tutorial for Beginners",
+      "duration": 629
+    },
+    {
+      "id": "0Mk2i_sBXzg",
+      "title": "How to Use if-else in Shell Scripts | Shell Scripting Tutorial for Beginners",
+      "duration": 355
+    },
+    {
+      "id": "yUsESzGQgbQ",
+      "title": "How to Use Case Statements in Bash Scripts | Shell Scripting Tutorial for Beginners",
+      "duration": 227
+    },
+    {
+      "id": "nCbqIVvGuU0",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "xb_FdtzyORQ",
+      "title": "Array Basics in Shell Scripting | Shell Scripting Tutorial for Beginners",
+      "duration": 397
+    },
+    {
+      "id": "S5QHs4yGw-4",
+      "title": "Bash For Loop Examples | Shell Scripting Tutorial for Beginners",
+      "duration": 996
+    },
+    {
+      "id": "SKdfKCxzuMA",
+      "title": "Shell Scripting While Loop | Shell Scripting Tutorial for Beginners",
+      "duration": 426
+    },
+    {
+      "id": "GjQJisueiHY",
+      "title": "Until Loop in Shell Scripting - Syntax and Examples",
+      "duration": 514
+    },
+    {
+      "id": "wJjyZTPgwek",
+      "title": "Linux Tutorial - Master The Command Line",
+      "duration": 28670
+    },
+    {
+      "id": "rMpa-VgJ_UQ",
+      "title": "Bash Shell Scripting Tutorial | Full Course",
+      "duration": 12311
+    },
+    {
+      "id": "XKKwBATvLXQ",
+      "title": "How To Create Users Using Shell Script In Linux",
+      "duration": 343
+    },
+    {
+      "id": "VTz34jItae4",
+      "title": "Using test Command in Shell Scripts In Linux",
+      "duration": 851
+    },
+    {
+      "id": "Oor0ft3Z-84",
+      "title": "How To Use Functions Within A Shell Scripts In Linux",
+      "duration": 756
+    },
+    {
+      "id": "m3fYH9GuTfg",
+      "title": "How to Use Break and Continue Statements in Shell Scripts",
+      "duration": 459
+    },
+    {
+      "id": "fowG6TmS3B8",
+      "title": "Nested Functions Shell Scripts In Linux",
+      "duration": 311
+    },
+    {
+      "id": "zrkmw0XecDQ",
+      "title": "Global Variable in Shell Scripts In Linux",
+      "duration": 300
+    },
+    {
+      "id": "btM1u3hhaq8",
+      "title": "How to Delete a User using Shell Scripts in Linux",
+      "duration": 340
+    },
+    {
+      "id": "Kawn6HK47Ag",
+      "title": "How to Check file integrity using Shell Scripts in Linux",
+      "duration": 645
+    },
+    {
+      "id": "MKS6EaZxgLo",
+      "title": "How to Cloning GitHub repo using using Shell Scripts in Linux",
+      "duration": 205
+    },
+    {
+      "id": "pd6FtTmVG6E",
+      "title": "How to Use Nmap Script Engine (NSE) Shell Scripts in Linux",
+      "duration": 1103
+    },
+    {
+      "id": "EuSVD7kVCUY",
+      "title": "How To Install and Use Docker on Ubuntu Linux",
+      "duration": 378
+    },
+    {
+      "id": "5_EA3rBCXmU",
+      "title": "How to Install Docker Desktop on Ubuntu Linux",
+      "duration": 426
+    },
+    {
+      "id": "yCxBUy7S4Ks",
+      "title": "Install Wine on Ubuntu Linux | Running Windows Programs on Linux",
+      "duration": 526
+    },
+    {
+      "id": "zRfI79BHf3k",
+      "title": "How To Install MySQL on Ubuntu (Linux)",
+      "duration": 770
+    },
+    {
+      "id": "F1_fkOYgu8g",
+      "title": "How to Enable SSH in Ubuntu Linux  | Install openssh-server",
+      "duration": 642
+    },
+    {
+      "id": "2VNLewtNk1A",
+      "title": "How to Install Linux Mint on VirtualBox on Windows 11",
+      "duration": 990
+    },
+    {
+      "id": "Rusk2FofQPo",
+      "title": "How to Install Debian Linux on VirtualBox on Windows 11",
+      "duration": 1178
+    },
+    {
+      "id": "Hj9GcXhRCZQ",
+      "title": "How to Install Ngrok on Ubuntu Linux |  Expose your localhost to everyone | NGROK SETUP",
+      "duration": 625
+    },
+    {
+      "id": "SjQmo5tJB4c",
+      "title": "Linux Command Line Full Course | Beginners To Experts | Bash Command Line Tutorials",
+      "duration": 28670
+    },
+    {
+      "id": "mSQM8Xo78Wc",
+      "title": "Bash Scripting Tutorial for Beginners | Bash Scripting Full Course 3 Hours",
+      "duration": 12311
+    },
+    {
+      "id": "AWiYCc9WQqg",
+      "title": "How to Install Linux Mint on VirtualBox on Windows 11",
+      "duration": 607
+    },
+    {
+      "id": "XGBsmrUdwkk",
+      "title": "How to Run Linux/Bash on Windows 11 | Windows 11 Bash & Linux Subsystem Setup (2026)",
+      "duration": 900
+    },
+    {
+      "id": "--l9VbtYAmg",
+      "title": "How to Install Linux Mint on VirtualBox on Windows 11 (2026)",
+      "duration": 640
+    }
+  ]
+}

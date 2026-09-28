@@ -1,0 +1,630 @@
+{
+  "courseId": "python-for-beginners-full-course-97c43d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:46.678Z",
+  "title": "Python for Beginners (Full Course) | Programming Tutorial",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "QXeEoD0pB3E",
+      "title": "#0 Python for Beginners | Programming Tutorial",
+      "duration": 66
+    },
+    {
+      "id": "hEgO047GxaQ",
+      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
+      "duration": 253
+    },
+    {
+      "id": "CScxy0294SE",
+      "title": "#2 Python Tutorial for Beginners | Python Installation | PyCharm",
+      "duration": 573
+    },
+    {
+      "id": "DWgzHbglNIo",
+      "title": "#3 Python Tutorial for Beginners | Getting Started with Python",
+      "duration": 889
+    },
+    {
+      "id": "TqPzwenhMj0",
+      "title": "#4 Python Tutorial for Beginners | Variables in Python",
+      "duration": 622
+    },
+    {
+      "id": "Eaz5e6M8tL4",
+      "title": "#5 Python Tutorial for Beginners | List in Python",
+      "duration": 642
+    },
+    {
+      "id": "Mf7eFtbVxFM",
+      "title": "#6 Python Tutorial for Beginners | Tuple | Set in Python",
+      "duration": 401
+    },
+    {
+      "id": "2IsF7DEtVjg",
+      "title": "Dictionary in Python",
+      "duration": 744
+    },
+    {
+      "id": "4V14G5_CNGg",
+      "title": "#7 Python Tutorial for Beginners | Python Set Path in Windows and Help",
+      "duration": 353
+    },
+    {
+      "id": "1U8TI16AR4s",
+      "title": "#8 Python Tutorial for Beginners | Python Editor | Sublime Text",
+      "duration": 191
+    },
+    {
+      "id": "_OZIAHg5i7M",
+      "title": "#9 Python Tutorial for Beginners | More on Variables in Python",
+      "duration": 553
+    },
+    {
+      "id": "gCCVsvgR2KU",
+      "title": "#10 Python Tutorial for Beginners | Data Types in Python",
+      "duration": 875
+    },
+    {
+      "id": "v5MR5JnKcZI",
+      "title": "#11 Python Tutorial for Beginners | Operators in Python",
+      "duration": 667
+    },
+    {
+      "id": "AWAjbtWBzGs",
+      "title": "#12 Python Tutorial for Beginners | Number System Conversion in Python",
+      "duration": 496
+    },
+    {
+      "id": "ifu2UlqIoYM",
+      "title": "Premium Java and spring boot Courses",
+      "duration": 51
+    },
+    {
+      "id": "UAMMEmga0WI",
+      "title": "#13 Python Tutorial for Beginners | IDLE Previous Command | Clear Screen?",
+      "duration": 179
+    },
+    {
+      "id": "PyfKCvHALj8",
+      "title": "#14 Python Tutorial for Beginners | Python BitWise Operators",
+      "duration": 762
+    },
+    {
+      "id": "EkYrfV7M1ks",
+      "title": "#15 Python Tutorial for Beginners | Import Math Functions in Python",
+      "duration": 459
+    },
+    {
+      "id": "akcEaEH91gI",
+      "title": "#16 Python Tutorial for Beginners | Working with PyCharm | Run | Debug | Trace | py file",
+      "duration": 626
+    },
+    {
+      "id": "3dpJrMtxYeo",
+      "title": "#17 Python Tutorial for Beginners | Swap 2 Variables in Python",
+      "duration": 292
+    },
+    {
+      "id": "4OX49nLNPEE",
+      "title": "#18 Python Tutorial for Beginners | User input in Python | Command Line Input",
+      "duration": 719
+    },
+    {
+      "id": "PqFKRqpHrjw",
+      "title": "#19 Python Tutorial for Beginners | If Elif Else Statement in Python",
+      "duration": 938
+    },
+    {
+      "id": "HZARImviDxg",
+      "title": "#20 Python Tutorial for Beginners | While Loop in Python",
+      "duration": 763
+    },
+    {
+      "id": "0ZvaDa8eT5s",
+      "title": "#21 Python Tutorial for Beginners | For Loop in Python",
+      "duration": 447
+    },
+    {
+      "id": "yCZBnjF4_tU",
+      "title": "#22 Python Tutorial for Beginners | Break Continue Pass in Python",
+      "duration": 620
+    },
+    {
+      "id": "JCRpVwtVL4I",
+      "title": "#22.1 Python Tutorial for Beginners | Break vs Continue vs Pass in Python part 2",
+      "duration": 269
+    },
+    {
+      "id": "k8SXsT5TLxQ",
+      "title": "#23 Python Tutorial for Beginners | Printing Patterns in Python",
+      "duration": 476
+    },
+    {
+      "id": "38svC3U7hVo",
+      "title": "#24 Python Tutorial for Beginners | For Else in Python",
+      "duration": 312
+    },
+    {
+      "id": "SpTAxH_Geow",
+      "title": "#25 Python Tutorial for Beginners | Prime Number in Python",
+      "duration": 251
+    },
+    {
+      "id": "6a39OjkCN5I",
+      "title": "#26 Python Tutorial for Beginners | Array in Python",
+      "duration": 957
+    },
+    {
+      "id": "9c9qhIcB3NA",
+      "title": "#27 Python Tutorial for Beginners | Array values from User in Python | Search in Array",
+      "duration": 602
+    },
+    {
+      "id": "8LlXhtfNZEQ",
+      "title": "#28 Python Tutorial for Beginners | Why Numpy? Installing Numpy in Pycharm",
+      "duration": 418
+    },
+    {
+      "id": "NYPKbmE0H6E",
+      "title": "#29 Python Tutorial for Beginners | Ways of Creating Arrays in Numpy",
+      "duration": 607
+    },
+    {
+      "id": "8sF85TyunQA",
+      "title": "#30 Python Tutorial for Beginners | Copying an Array in Python",
+      "duration": 591
+    },
+    {
+      "id": "Blzp9iuhZqo",
+      "title": "#31 Python Tutorial for Beginners | Working with Matrix in Python",
+      "duration": 715
+    },
+    {
+      "id": "BVfCWuca9nw",
+      "title": "#32 Python Tutorial for Beginners | Functions in Python",
+      "duration": 673
+    },
+    {
+      "id": "ijXMGpoMkhQ",
+      "title": "#33 Python Tutorial for Beginners | Function Arguments in Python",
+      "duration": 472
+    },
+    {
+      "id": "eci9iU_s6Ag",
+      "title": "#34 Python Tutorial for Beginners | Types of Arguments in Python",
+      "duration": 595
+    },
+    {
+      "id": "kB829ciAXo4",
+      "title": "#35 Python Tutorial for Beginners | Keyworded Variable Length Arguments in Python | **kwargs",
+      "duration": 292
+    },
+    {
+      "id": "QYUbLevwgDQ",
+      "title": "#36 Python Tutorial for Beginners | Global Keyword in Python | Global vs Local Variable",
+      "duration": 501
+    },
+    {
+      "id": "fsAzeNZXvkE",
+      "title": "#37 Python Tutorial for Beginners | Pass List to a Function in Python",
+      "duration": 259
+    },
+    {
+      "id": "7Sv4NmvdHcw",
+      "title": "#38 Python Tutorial for Beginners | Fibonacci Sequence",
+      "duration": 481
+    },
+    {
+      "id": "gfhtaP5Wq7M",
+      "title": "#39 Python Tutorial for Beginners | Factorial",
+      "duration": 311
+    },
+    {
+      "id": "XkL3SUioNvo",
+      "title": "#40 Python Tutorial for Beginners | Recursion",
+      "duration": 343
+    },
+    {
+      "id": "TqqQld6m6A0",
+      "title": "#41 Python Tutorial for Beginners | Factorial using Recursion",
+      "duration": 297
+    },
+    {
+      "id": "hYzwCsKGRrg",
+      "title": "#42 Python Tutorial for Beginners | Anonymous Functions | Lambda",
+      "duration": 278
+    },
+    {
+      "id": "kj850Y8y8FI",
+      "title": "#43 Python Tutorial for Beginners | Filter Map Reduce",
+      "duration": 694
+    },
+    {
+      "id": "yNzxXZfkLUA",
+      "title": "#44 Python Tutorial for Beginners | Decorators",
+      "duration": 453
+    },
+    {
+      "id": "1RuMJ53CKds",
+      "title": "#45 Python Tutorial for Beginners | Modules",
+      "duration": 440
+    },
+    {
+      "id": "pzNISmtmzcY",
+      "title": "#46 Python Tutorial for Beginners | Special Variable __name__",
+      "duration": 343
+    },
+    {
+      "id": "7hjgRn-vfVQ",
+      "title": "#47 Python Tutorial for Beginners | Special Variable __name__ part 2",
+      "duration": 428
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "gZwPdqC2Os0",
+      "title": "#48 Python Tutorial for Beginners | Object Oriented Programming | Introduction",
+      "duration": 422
+    },
+    {
+      "id": "8O5kX73OkIY",
+      "title": "#49 Python Tutorial for Beginners | Class and Object",
+      "duration": 661
+    },
+    {
+      "id": "WIP3-woodlU",
+      "title": "#50 Python Tutorial for Beginners | __init__ method",
+      "duration": 406
+    },
+    {
+      "id": "ic6wdPxcHc0",
+      "title": "#51 Python Tutorial for Beginners | Constructor, Self and Comparing Objects",
+      "duration": 664
+    },
+    {
+      "id": "RSQjxL5WRNM",
+      "title": "#52 Python Tutorial for Beginners | Types of Variables",
+      "duration": 296
+    },
+    {
+      "id": "lVfGQOzzRCM",
+      "title": "#53 Python Tutorial for Beginners | Types of Methods",
+      "duration": 698
+    },
+    {
+      "id": "b7JzgybKvys",
+      "title": "#54 Python Tutorial for Beginners | Inner class",
+      "duration": 444
+    },
+    {
+      "id": "Cn7AkDb4pIU",
+      "title": "#55 Python Tutorial for Beginners | Inheritance",
+      "duration": 411
+    },
+    {
+      "id": "6P-P879BcHQ",
+      "title": "#56 Python Tutorial for Beginners | Constructor in Inheritance",
+      "duration": 508
+    },
+    {
+      "id": "P1vH3Pfw6BI",
+      "title": "#57 Python Tutorial for Beginners | Introduction to Polymorphism",
+      "duration": 106
+    },
+    {
+      "id": "CuK0g8OFzwo",
+      "title": "#58 Python Tutorial for Beginners | Duck Typing",
+      "duration": 377
+    },
+    {
+      "id": "9wd50TKv_OQ",
+      "title": "#59 Python Tutorial for Beginners | Operator Overloading | Polymorphism",
+      "duration": 869
+    },
+    {
+      "id": "CcTzTuIsoFk",
+      "title": "#60 Python Tutorial for Beginners | Method Overloading and Method Overriding",
+      "duration": 617
+    },
+    {
+      "id": "UDmJGvM-OUw",
+      "title": "Abstract Class and Abstract Method in Python",
+      "duration": 749
+    },
+    {
+      "id": "Dyu08G2l71c",
+      "title": "#61 Python Tutorial for Beginners | Iterator",
+      "duration": 648
+    },
+    {
+      "id": "mziIj4M_uwk",
+      "title": "#62 Python Tutorial for Beginners | Generators",
+      "duration": 371
+    },
+    {
+      "id": "6SPDvPK38tw",
+      "title": "#63 Python Tutorial for Beginners | Exception Handling",
+      "duration": 959
+    },
+    {
+      "id": "GqHLztqy0PU",
+      "title": "#64 Python Tutorial for Beginners | MultiThreading",
+      "duration": 885
+    },
+    {
+      "id": "aequTxAvQq4",
+      "title": "#65 Python Tutorial for Beginners | File handling",
+      "duration": 734
+    },
+    {
+      "id": "ECxZtt6n90E",
+      "title": "#66 Python Tutorial for Beginners | Comments",
+      "duration": 223
+    },
+    {
+      "id": "0BhSWyDEDC4",
+      "title": "#67 Python Tutorial for Beginners | is Python Compiled or Interpreted Language?",
+      "duration": 408
+    },
+    {
+      "id": "UldZOLylez4",
+      "title": "Linear Search using Python | Python Tutorial for Beginners 68",
+      "duration": 437
+    },
+    {
+      "id": "DE-ye0t0oxE",
+      "title": "#69 Python Tutorial for Beginners | Binary Search Using Python",
+      "duration": 562
+    },
+    {
+      "id": "Vca808JTbI8",
+      "title": "#70 Python Tutorial for Beginners | Bubble Sort in python | List Sort",
+      "duration": 441
+    },
+    {
+      "id": "5KjapFQNxUo",
+      "title": "#71 Python Tutorial for Beginners | Selection Sort using Python",
+      "duration": 455
+    },
+    {
+      "id": "WDEyt2VHpj4",
+      "title": "#72 MySQL Workbench Setup | Python Database Connection",
+      "duration": 481
+    },
+    {
+      "id": "vR5utJvN4JY",
+      "title": "#73 Python Database Connection | MySQL",
+      "duration": 462
+    },
+    {
+      "id": "UBLONzkmReE",
+      "title": "#74 Python | Git | PyCharm | GitHub",
+      "duration": 653
+    },
+    {
+      "id": "udO6gSLXujU",
+      "title": "#75 Python Tutorial for Beginners |  Python GitHub Code Contribution",
+      "duration": 557
+    },
+    {
+      "id": "qj-V2Ep4coY",
+      "title": "Zip Function in Python",
+      "duration": 231
+    },
+    {
+      "id": "u4kr7EFxAKk",
+      "title": "Socket Programming Using Python",
+      "duration": 1027
+    },
+    {
+      "id": "kU_ZtZhmmEU",
+      "title": "#76 Python Tutorial for Beginners |  Anaconda Setup",
+      "duration": 451
+    },
+    {
+      "id": "5NU6w5VhmMc",
+      "title": "#77 Python Tutorial for Beginners |  Jupyter Notebook Setup",
+      "duration": 439
+    },
+    {
+      "id": "6-F7nP1DwJs",
+      "title": "What after Python?",
+      "duration": 341
+    },
+    {
+      "id": "02dzgC_Ba70",
+      "title": "#1 FastAPI - Python Web Framework",
+      "duration": 415
+    },
+    {
+      "id": "Rf9jbnzt2UU",
+      "title": "#2 FastAPI Setup in VS Code",
+      "duration": 782
+    },
+    {
+      "id": "Fmw1i1cBYq4",
+      "title": "#3 FastAPI : Building the Server and Get API",
+      "duration": 874
+    },
+    {
+      "id": "M-DzoNzmJI0",
+      "title": "#4 FastAPI - Pydantic and Fetching all products",
+      "duration": 734
+    },
+    {
+      "id": "2NfTEi1CyYs",
+      "title": "#5 FastAPI : Fetch by ID and Post Request",
+      "duration": 522
+    },
+    {
+      "id": "XMoK33jsgcs",
+      "title": "#6 FastAPI - Update and Delete Data",
+      "duration": 585
+    },
+    {
+      "id": "uy4TPngK-8c",
+      "title": "#7  FastAPI - SQLAlchemy",
+      "duration": 499
+    },
+    {
+      "id": "WCOOFySgmnQ",
+      "title": "#8 FastAPI-Database Config",
+      "duration": 542
+    },
+    {
+      "id": "V0FUealWanc",
+      "title": "#9 FastAPI - SQLAlchemy Model Creation",
+      "duration": 417
+    },
+    {
+      "id": "lm0uRxLMwb8",
+      "title": "#10 FastAPI-Initialize Data",
+      "duration": 400
+    },
+    {
+      "id": "TzXQwHBDEPc",
+      "title": "#11 FastAPI-Dependency Injection and Fetch from DB",
+      "duration": 451
+    },
+    {
+      "id": "FN_BvbOwur0",
+      "title": "#12 FastAPI – Create, Update and  Delete with Database",
+      "duration": 624
+    },
+    {
+      "id": "IR_EqMAlJZE",
+      "title": "#13 FastAPI-Running Full Stack Web App",
+      "duration": 582
+    },
+    {
+      "id": "SIyxjRJ8VNY",
+      "title": "#1 Django tutorials | What is Django? | Python Web Framework",
+      "duration": 313
+    },
+    {
+      "id": "VuETrwKYLTM",
+      "title": "#2 Django tutorials | Setup",
+      "duration": 676
+    },
+    {
+      "id": "ykpuyNy5oUM",
+      "title": "#3 Django tutorials | First App in Django - part 1",
+      "duration": 505
+    },
+    {
+      "id": "4UMs7DxWn_Q",
+      "title": "#4 Django tutorials | First App Django - part 2",
+      "duration": 474
+    },
+    {
+      "id": "GNlIe5zvBeQ",
+      "title": "#5 Django tutorials | Django Template Language | DTL",
+      "duration": 525
+    },
+    {
+      "id": "Kz-G6GnumsI",
+      "title": "#6 Django tutorials | Django Template Language - part 2",
+      "duration": 240
+    },
+    {
+      "id": "_xBMAoDfydg",
+      "title": "#7 Django tutorials | Addition of Two Numbers in Django",
+      "duration": 502
+    },
+    {
+      "id": "QD4GlXtf-WU",
+      "title": "#8 Django tutorials | GET vs POST | HTTP Methods",
+      "duration": 367
+    },
+    {
+      "id": "GGkFg52Ot5o",
+      "title": "#9 Django tutorials | Model View Template in Django | MVT",
+      "duration": 354
+    },
+    {
+      "id": "K8Uem148uOU",
+      "title": "#10 Django tutorials | Static Files - 1",
+      "duration": 451
+    },
+    {
+      "id": "Tt3mgy2ECug",
+      "title": "#11 Django tutorials | Static Files - 2",
+      "duration": 602
+    },
+    {
+      "id": "Huk9tIRD_rQ",
+      "title": "#12 Django tutorials | Passing Dynamic Data in Html part 1",
+      "duration": 656
+    },
+    {
+      "id": "cHBn87eRFwo",
+      "title": "#13 Django tutorials | Passing Dynamic Data in Html - part 2",
+      "duration": 596
+    },
+    {
+      "id": "nuW0o4-dSpo",
+      "title": "#14 Django tutorials | If Statement",
+      "duration": 330
+    },
+    {
+      "id": "7E1M1W9o7PA",
+      "title": "#15 Django tutorials | ORM | Object Relational Mapper | Theory",
+      "duration": 281
+    },
+    {
+      "id": "d--mEqEUybA",
+      "title": "#16 Django tutorials | Postgres and PgAdmin Setup",
+      "duration": 306
+    },
+    {
+      "id": "69YkZqZgz9s",
+      "title": "#17 Django tutorials | Models and Migrations",
+      "duration": 733
+    },
+    {
+      "id": "sU7_reASCAw",
+      "title": "#18 Django tutorials | Re-Migration",
+      "duration": 177
+    },
+    {
+      "id": "iLhcV7t3zug",
+      "title": "#19 Django tutorials | Admin Panel",
+      "duration": 386
+    },
+    {
+      "id": "ExTaxRmDnP8",
+      "title": "#20 Django tutorials | Add and Fetch data from Database",
+      "duration": 553
+    },
+    {
+      "id": "6Q5OVCKufBU",
+      "title": "#21 Django tutorials | User Registration - 1",
+      "duration": 825
+    },
+    {
+      "id": "JXBCw_4gwc0",
+      "title": "#22 Django tutorials | User Registration - 2",
+      "duration": 620
+    },
+    {
+      "id": "Mf_97YaUKag",
+      "title": "#23 Django tutorials | Passing Messages",
+      "duration": 405
+    },
+    {
+      "id": "teaeVbcT9BI",
+      "title": "#24 Django tutorials | User login",
+      "duration": 493
+    },
+    {
+      "id": "iT15mk4y1iw",
+      "title": "#25 Django Tutorials | User Logout",
+      "duration": 326
+    }
+  ]
+}

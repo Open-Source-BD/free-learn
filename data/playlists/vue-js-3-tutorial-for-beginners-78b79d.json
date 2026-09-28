@@ -1,0 +1,340 @@
+{
+  "courseId": "vue-js-3-tutorial-for-beginners-78b79d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:02.615Z",
+  "title": "Vue JS 3 Tutorial for Beginners",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "ccsz9FRy-nk",
+      "title": "Vue JS 3 Tutorial - 1 - Introduction",
+      "duration": 373
+    },
+    {
+      "id": "5uX80VI0xLE",
+      "title": "Vue JS 3 Tutorial - 2 - Hello World",
+      "duration": 541
+    },
+    {
+      "id": "B1e7grp2svY",
+      "title": "Vue JS 3 Tutorial - 3 - Project Structure",
+      "duration": 481
+    },
+    {
+      "id": "JKp76k_MmZc",
+      "title": "Vue JS 3 Tutorial - 4 - Single File Components",
+      "duration": 416
+    },
+    {
+      "id": "EUPYYBXjIts",
+      "title": "Vue JS 3 Tutorial - 5 - Binding Text",
+      "duration": 409
+    },
+    {
+      "id": "XUzxq_5ClnQ",
+      "title": "Vue JS 3 Tutorial - 6 - Binding HTML",
+      "duration": 226
+    },
+    {
+      "id": "fOZHp-vBzIE",
+      "title": "Vue JS 3 Tutorial - 7 - Binding to Attributes",
+      "duration": 211
+    },
+    {
+      "id": "_CdLj6ExjX0",
+      "title": "Vue JS 3 Tutorial - 8 - Binding Classes",
+      "duration": 679
+    },
+    {
+      "id": "R1iVc3eGpKY",
+      "title": "Vue JS 3 Tutorial - 9 - Binding Styles",
+      "duration": 511
+    },
+    {
+      "id": "QMVzdIa9KQs",
+      "title": "Vue JS 3 Tutorial - 10 - v-bind Shorthand",
+      "duration": 101
+    },
+    {
+      "id": "6fIFXjpmWl8",
+      "title": "Vue JS 3 Tutorial - 11 - Conditional Rendering (Part 1)",
+      "duration": 470
+    },
+    {
+      "id": "5OoyjkQ8YA4",
+      "title": "Vue JS 3 Tutorial - 12 - Conditional Rendering (Part 2)",
+      "duration": 265
+    },
+    {
+      "id": "pudi6M9eIng",
+      "title": "Vue JS 3 Tutorial - 13 - List Rendering",
+      "duration": 804
+    },
+    {
+      "id": "yaRKuxIHag4",
+      "title": "Vue JS 3 Tutorial - 14 - Lists and Keys",
+      "duration": 353
+    },
+    {
+      "id": "OcA4wWJIMTY",
+      "title": "Vue JS 3 Tutorial - 15 - Conditional List Rendering",
+      "duration": 228
+    },
+    {
+      "id": "baIgAZohSnI",
+      "title": "Vue JS 3 Tutorial - 16 - Methods",
+      "duration": 421
+    },
+    {
+      "id": "jw1O5XvEKpE",
+      "title": "Vue JS 3 Tutorial - 17 - Event Handling (Part 1)",
+      "duration": 427
+    },
+    {
+      "id": "5KowlsPQksc",
+      "title": "Vue JS 3 Tutorial - 18 - Event Handling (Part 2)",
+      "duration": 372
+    },
+    {
+      "id": "T-AE-GtSlN4",
+      "title": "Vue JS 3 Tutorial - 19 - Form Handling (Part 1)",
+      "duration": 835
+    },
+    {
+      "id": "p16i0tjhdqQ",
+      "title": "Vue JS 3 Tutorial - 20 - Form Handling (Part 2)",
+      "duration": 652
+    },
+    {
+      "id": "t_W9frR6hno",
+      "title": "Vue JS 3 Tutorial - 21 - Modifiers",
+      "duration": 546
+    },
+    {
+      "id": "CWbkdAVZg0E",
+      "title": "Vue JS 3 Tutorial - 22 - Bonus Directives",
+      "duration": 221
+    },
+    {
+      "id": "lLIwx145O_A",
+      "title": "Vue JS 3 Tutoial - 23 - Computed Properties",
+      "duration": 509
+    },
+    {
+      "id": "9SM-eeD_wlM",
+      "title": "Vue JS 3 Tutorial - 24 - Computed Properties vs Methods",
+      "duration": 300
+    },
+    {
+      "id": "dXFriqD9odk",
+      "title": "Vue JS 3 Tutorial - 25 - Computed Properties and v-for",
+      "duration": 263
+    },
+    {
+      "id": "OxbF86BwhYA",
+      "title": "Vue JS 3 Tutorial - 26 - Computed Setter",
+      "duration": 274
+    },
+    {
+      "id": "afacrmHQtUw",
+      "title": "Vue JS 3 Tutorial - 27 - Watchers",
+      "duration": 531
+    },
+    {
+      "id": "x0lOF5tjXXU",
+      "title": "Vue JS 3 Tutorial - 28 - Immediate and Deep Watchers",
+      "duration": 547
+    },
+    {
+      "id": "jIB1bE57JQg",
+      "title": "Vue JS 3 Tutorial - 29 - Components",
+      "duration": 511
+    },
+    {
+      "id": "te-lFidcrcM",
+      "title": "Vue JS 3 Tutorial - 30 - Component Props",
+      "duration": 426
+    },
+    {
+      "id": "gmgmRx6KsWA",
+      "title": "Vue JS 3 Tutorial - 31 - Prop Types and Validations",
+      "duration": 541
+    },
+    {
+      "id": "x8cWpwsHa8A",
+      "title": "Vue JS 3 Tutorial - 32 - Non Prop Attributes",
+      "duration": 311
+    },
+    {
+      "id": "1oy8dn9xAQE",
+      "title": "Vue JS 3 Tutorial - 33 - Provide and Inject",
+      "duration": 533
+    },
+    {
+      "id": "bbQnHpIpjgY",
+      "title": "Vue JS 3 Tutorial - 34 - Component Events",
+      "duration": 535
+    },
+    {
+      "id": "S6RQOQVMYO0",
+      "title": "Vue JS 3 Tutorial - 35 - Validating Emitted Events",
+      "duration": 286
+    },
+    {
+      "id": "CALrQCw41dI",
+      "title": "Vue JS 3 Tutorial - 36 - Components and v-model",
+      "duration": 421
+    },
+    {
+      "id": "g_5jvUz7q80",
+      "title": "Vue JS 3 Tutorial - 37 - Slots",
+      "duration": 405
+    },
+    {
+      "id": "WovdX7ZK8F0",
+      "title": "Vue JS 3 Tutorial - 38 - Named Slots",
+      "duration": 349
+    },
+    {
+      "id": "emi436qg9mg",
+      "title": "Vue JS 3 Tutorial - 39 - Slots Props",
+      "duration": 482
+    },
+    {
+      "id": "T0yVKIcBkK0",
+      "title": "Vue JS 3 Tutorial - 40 - Component Styles",
+      "duration": 507
+    },
+    {
+      "id": "2NXCytskC2s",
+      "title": "Vue JS 3 Tutorial - 41 - Dynamic Components",
+      "duration": 421
+    },
+    {
+      "id": "IemUfH_-G3s",
+      "title": "Vue JS 3 Tutorial - 42 - Keeping Dynamic Components Alive",
+      "duration": 193
+    },
+    {
+      "id": "KOmQ8a2EOFA",
+      "title": "Vue JS 3 Tutorial - 43 - Teleport Component",
+      "duration": 579
+    },
+    {
+      "id": "72d7fx4nTSg",
+      "title": "Vue JS 3 Tutorial - 44 - HTTP and Vue",
+      "duration": 193
+    },
+    {
+      "id": "NHfyF0B4y8E",
+      "title": "Vue JS 3 Tutorial - 45 - HTTP GET Request",
+      "duration": 505
+    },
+    {
+      "id": "cfYCP6ZiTuI",
+      "title": "Vue JS 3 Tutorial - 46 - HTTP POST Request",
+      "duration": 431
+    },
+    {
+      "id": "hk6OktYj8Fs",
+      "title": "Vue JS 3 Tutorial - 47 - Lifecycle Hooks",
+      "duration": 699
+    },
+    {
+      "id": "nSFT7nZTR8o",
+      "title": "Vue JS 3 Tutorial - 48 - GET Request on Page Load",
+      "duration": 148
+    },
+    {
+      "id": "6Uimqh0uslw",
+      "title": "Vue JS 3 Tutorial - 49 - Template Refs",
+      "duration": 336
+    },
+    {
+      "id": "LyG_l5UoeHI",
+      "title": "Vue JS 3 Tutorial - 50 - Reusability with Mixins",
+      "duration": 530
+    },
+    {
+      "id": "wJJC9pI5tYo",
+      "title": "Vue JS 3 Tutorial - 51 - Composition API",
+      "duration": 263
+    },
+    {
+      "id": "2xwpGSWfllo",
+      "title": "Vue JS 3 Tutorial - 52 - Replacing data with ref",
+      "duration": 401
+    },
+    {
+      "id": "Zr3Bds_niLo",
+      "title": "Vue JS 3 Tutorial - 53 - Replacing data with reactive",
+      "duration": 483
+    },
+    {
+      "id": "8XlLqrP8RCE",
+      "title": "Vue JS 3 Tutorial - 54 - Reactivity and toRefs",
+      "duration": 539
+    },
+    {
+      "id": "ncjKLPGlLW0",
+      "title": "Vue JS 3 Tutorial - 55 - Replacing methods",
+      "duration": 376
+    },
+    {
+      "id": "z6Xyhe71x-s",
+      "title": "Vue JS 3 Tutorial - 56 - v-model and Composition API",
+      "duration": 288
+    },
+    {
+      "id": "Dj4NBWr4S2Q",
+      "title": "Vue JS 3 Tutorial - 57 - Replacing Computed Properties",
+      "duration": 421
+    },
+    {
+      "id": "iyzqdV0S8ww",
+      "title": "Vue JS 3 Tutorial - 58 - Replacing Watchers (Part 1)",
+      "duration": 467
+    },
+    {
+      "id": "II26fwRXNBs",
+      "title": "Vue JS 3 Tutorial - 59 - Replacing Watchers (Part 2)",
+      "duration": 571
+    },
+    {
+      "id": "VS7Qy0TYtN0",
+      "title": "Vue JS 3 Tutorial - 60 - Replacing Provide/Inject",
+      "duration": 647
+    },
+    {
+      "id": "68PsFIU9EdE",
+      "title": "Vue JS 3 Tutorial - 61 - Replacing Lifecycle Hooks",
+      "duration": 202
+    },
+    {
+      "id": "sVFBgPIP8L4",
+      "title": "Vue JS 3 Tutorial - 62 - Template Refs and Composition API",
+      "duration": 216
+    },
+    {
+      "id": "oQ6akOQKFtI",
+      "title": "Vue JS 3 Tutorial - 63 - Props and Composition API",
+      "duration": 330
+    },
+    {
+      "id": "1qvURjvZ12w",
+      "title": "Vue JS 3 Tutorial - 64 - Custom Events and Composition API",
+      "duration": 324
+    },
+    {
+      "id": "NPWuMokJrIY",
+      "title": "Vue JS 3 Tutorial - 65 - Reusability with Composition API",
+      "duration": 551
+    },
+    {
+      "id": "qduayAPJK9A",
+      "title": "Vue JS 3 Tutorial - 66 - Deploying Vue Applications",
+      "duration": 231
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "courseId": "jupyter-tutorials-4bd930",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:01.560Z",
+  "title": "Jupyter Tutorial",
+  "channel": "Emyrrich",
+  "videos": [
+    {
+      "id": "Rc4JQWowG5I",
+      "title": "1. Introduction - Jupyter Tutorial (IPython 3)",
+      "duration": 834
+    },
+    {
+      "id": "EEEZX_0FMEc",
+      "title": "Jupyter Notebook Tutorial / Ipython Notebook Tutorial",
+      "duration": 1448
+    },
+    {
+      "id": "-F4WS8o-G2A",
+      "title": "2. Markdown & LaTeX - Jupyter Tutorial (IPython 3)",
+      "duration": 1207
+    },
+    {
+      "id": "1I2Bz0qbMsc",
+      "title": "3. Python 3 - Jupyter Tutorial (IPython 3)",
+      "duration": 1662
+    },
+    {
+      "id": "ZABbRR0tfuc",
+      "title": "Numpy - Jupyter #4",
+      "duration": 1373
+    },
+    {
+      "id": "kHPEz1wZZWc",
+      "title": "5. Plotting Charts with Matplotlib - IPython Notebook Tutorial",
+      "duration": 912
+    },
+    {
+      "id": "wxVx54ax47s",
+      "title": "6. IPython Widgets - IPython Notebook Tutorial",
+      "duration": 604
+    },
+    {
+      "id": "04zBNE2ZHSI",
+      "title": "7. Pandas - IPython Notebook Tutorial",
+      "duration": 1315
+    },
+    {
+      "id": "cvHyaE_bs8s",
+      "title": "8. SymPy - IPython Notebook Tutorial",
+      "duration": 1350
+    },
+    {
+      "id": "Uyeu3m3BSXw",
+      "title": "What is Anaconda, Jupyter Notebook and Spyder in Python",
+      "duration": 378
+    },
+    {
+      "id": "q1vVedHbkAY",
+      "title": "Setting up and using Jupyter (IPython) Notebooks on AWS",
+      "duration": 263
+    }
+  ]
+}

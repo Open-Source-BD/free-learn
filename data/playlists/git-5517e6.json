@@ -1,0 +1,25 @@
+{
+  "courseId": "git-5517e6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:20.347Z",
+  "title": "Git",
+  "channel": "Faraday Academy",
+  "videos": [
+    {
+      "id": "-9Tb76tBoFU",
+      "title": "Intro to Git & Github | Learn version control from the web & the command line",
+      "duration": 1829
+    },
+    {
+      "id": "deEYHVpE1c8",
+      "title": "Git Forking & Fetch: How to Keep your Fork in Sync with an Upstream Repository",
+      "duration": 619
+    },
+    {
+      "id": "M9oVfdL6ihk",
+      "title": "Streamlining Code Reviews with Graphite: An Interview with the Founder",
+      "duration": 3699
+    }
+  ]
+}

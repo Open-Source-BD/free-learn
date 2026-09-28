@@ -1,0 +1,215 @@
+{
+  "courseId": "image-processing-using-matlab-50e188",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:58.374Z",
+  "title": "IMAGE PROCESSING USING MATLAB",
+  "channel": "Learn Computer Science with Prof. Rashi",
+  "videos": [
+    {
+      "id": "-cSVGwAwZZ4",
+      "title": "Introduction tutorial to Matlab",
+      "duration": 864
+    },
+    {
+      "id": "sRjN7Rllgrk",
+      "title": "Introduction to Image processing toolbox of Matlab",
+      "duration": 578
+    },
+    {
+      "id": "W9gsIOgFFo0",
+      "title": "USING MATLAB TO READ RGB & INDEXED IMAGES",
+      "duration": 290
+    },
+    {
+      "id": "f_9rgyS-Cws",
+      "title": "Conversions of images from one format to other using MATLAB",
+      "duration": 135
+    },
+    {
+      "id": "IIgVKIVrlPo",
+      "title": "Extraction of bit planes in a grayscale image using MATLAB",
+      "duration": 466
+    },
+    {
+      "id": "It7g2DDIkDY",
+      "title": "Resizing images by inbuilt commands and our own matlab program",
+      "duration": 427
+    },
+    {
+      "id": "_oz3nMyoaJ0",
+      "title": "Point tranformations in Matlab-Part1",
+      "duration": 281
+    },
+    {
+      "id": "O93jrVAa-84",
+      "title": "Point Transforms- Part2: Log and power transformations in images using matlab programs",
+      "duration": 378
+    },
+    {
+      "id": "w9mzbiDjGYY",
+      "title": "Histogram equalization and contrast stretching in Matlab",
+      "duration": 224
+    },
+    {
+      "id": "LFlJnarQs9A",
+      "title": "Low pass filters for images using Matlab",
+      "duration": 285
+    },
+    {
+      "id": "LxCnWp08JUU",
+      "title": "Histogram specification using Matlab",
+      "duration": 430
+    },
+    {
+      "id": "q6fn-i16h20",
+      "title": "Gaussian noise and Gaussian filter implementation using Matlab",
+      "duration": 294
+    },
+    {
+      "id": "DkYjL68LSrI",
+      "title": "Median filter to remove Salt & Pepper noise",
+      "duration": 332
+    },
+    {
+      "id": "0wpg3RXdOOQ",
+      "title": "Implement Histogram Equalisation without Histeq( )",
+      "duration": 410
+    },
+    {
+      "id": "yBmR2DmjPS0",
+      "title": "Implementation of High pass first order filter in Matlab",
+      "duration": 361
+    },
+    {
+      "id": "kJKgCwUzkmc",
+      "title": "The theory of Laplacian filter and implementation in MATLB",
+      "duration": 532
+    },
+    {
+      "id": "Too4CRqsbgA",
+      "title": "Fourier Transformations (Part 1)",
+      "duration": 285
+    },
+    {
+      "id": "StHgmMPx7gs",
+      "title": "INTRODUCTION TO FOURIER TRANSFORMATIONS -PART II",
+      "duration": 331
+    },
+    {
+      "id": "GPWlcTwNubI",
+      "title": "INTRODUCTION TO FOURIER TRANSFORMATIONS -PART III",
+      "duration": 242
+    },
+    {
+      "id": "H1spd9L0wRc",
+      "title": "Fourier Transformation of a circle to show the ringing effect",
+      "duration": 166
+    },
+    {
+      "id": "0lTSERUFuQQ",
+      "title": "Low Pass Filter in Fourier Domain Using MATLAB",
+      "duration": 261
+    },
+    {
+      "id": "z_dkB7vtDL0",
+      "title": "High Pass Filtering in Frequency Domain",
+      "duration": 124
+    },
+    {
+      "id": "HZDsS3aXLI4",
+      "title": "High Pass Butterworth Filter in Frequency Domain",
+      "duration": 253
+    },
+    {
+      "id": "rTrRDpBzrto",
+      "title": "Low Pass Butterworth Filter in Frequency Domain using MATLAB",
+      "duration": 134
+    },
+    {
+      "id": "ZSvJHHZ-HDI",
+      "title": "Low pass Gaussian Filter in the Frequency Domain using MATLAB",
+      "duration": 239
+    },
+    {
+      "id": "Q2_PD6MGOoM",
+      "title": "Homomorphic Filter using Matlab",
+      "duration": 203
+    },
+    {
+      "id": "Ekl21W7by_k",
+      "title": "Image acquisition using webcam in Matlab",
+      "duration": 164
+    },
+    {
+      "id": "dSi9mLaa-WE",
+      "title": "The Theory of Wavelet Transform and its implementation using Matlab",
+      "duration": 528
+    },
+    {
+      "id": "bHr1BL7dw8o",
+      "title": "Implementation of Watermarking using Discrete Cosine Transform in Matlab",
+      "duration": 400
+    },
+    {
+      "id": "UU0tLHsMaOA",
+      "title": "Image Compressing using Discrete Cosine Transform in Matlab- Part 1",
+      "duration": 323
+    },
+    {
+      "id": "ZWQ8TbePN2U",
+      "title": "Matlab codes for Image compression ( part 4)",
+      "duration": 484
+    },
+    {
+      "id": "sDa4LtEAN7c",
+      "title": "Image compression part 3 (JPEG algorithm) using MATLAB",
+      "duration": 408
+    },
+    {
+      "id": "3hEvcyCJNRc",
+      "title": "Image segmentation using nearest neighbor classifier in Matlab",
+      "duration": 491
+    },
+    {
+      "id": "i1wAoIDar48",
+      "title": "Segmentation using Threshold value- Adaptive and Otsu's Method",
+      "duration": 305
+    },
+    {
+      "id": "DUMb0n6UhSA",
+      "title": "Image Segmentation using Polynomial Curve Fitting in Matlab",
+      "duration": 434
+    },
+    {
+      "id": "K5P5rjDiZzk",
+      "title": "Segmentation using Watershed Algorithm in Matlab",
+      "duration": 469
+    },
+    {
+      "id": "XrC1r80-p-k",
+      "title": "Labeling of objects in an image using segmentation in Matlab",
+      "duration": 262
+    },
+    {
+      "id": "uun_zdoniz8",
+      "title": "Theory of Image Processing",
+      "duration": 525
+    },
+    {
+      "id": "nX7GAJULn60",
+      "title": "Principal Component Analysis- Part II",
+      "duration": 538
+    },
+    {
+      "id": "KNE12MwrLTc",
+      "title": "Digital Image Processing using Google Colabs (python): Lecture 1",
+      "duration": 2975
+    },
+    {
+      "id": "oe0Z3BQflC4",
+      "title": "Class 3 Digital Image Processing using Google Colab",
+      "duration": 3628
+    }
+  ]
+}

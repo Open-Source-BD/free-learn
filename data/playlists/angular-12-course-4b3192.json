@@ -1,0 +1,155 @@
+{
+  "courseId": "angular-12-course-4b3192",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:01.967Z",
+  "title": "Full Angular Course",
+  "channel": "Code with Sloba",
+  "videos": [
+    {
+      "id": "9IufyZ0G0qg",
+      "title": "Angular video series - #1 Components",
+      "duration": 233
+    },
+    {
+      "id": "wcwaWAHmvso",
+      "title": "Angular video series - #2 Lifecycle hooks explained",
+      "duration": 161
+    },
+    {
+      "id": "MpfxHnRfrVo",
+      "title": "Angular video series - #3 Text interpolation",
+      "duration": 147
+    },
+    {
+      "id": "wiDRGPWgQ6s",
+      "title": "Angular video series - #4 Component communication",
+      "duration": 347
+    },
+    {
+      "id": "bOYtRf3Zdcg",
+      "title": "Angular video series - #5 Component styling",
+      "duration": 292
+    },
+    {
+      "id": "-ochryJWdFM",
+      "title": "Angular video series - #6 ng-content",
+      "duration": 193
+    },
+    {
+      "id": "oMHxTyRERzw",
+      "title": "Angular video series - #7 Template statements",
+      "duration": 157
+    },
+    {
+      "id": "_hdlbP7cHqI",
+      "title": "Angular video series - #8 Pipe use",
+      "duration": 228
+    },
+    {
+      "id": "G9WPU6cvHp8",
+      "title": "Angular Video Series Part 9 || Property Binding in Angular Tutorial With Examples",
+      "duration": 169
+    },
+    {
+      "id": "-WT3yzT2pHg",
+      "title": "Angular Video Series Part 10 || Attribute, Class & Style Binding In The Angular Tutorial",
+      "duration": 281
+    },
+    {
+      "id": "IaPkbBXrT6c",
+      "title": "Angular Video Series Part 11 || Event Binding in Angular Tutorial For Beginners",
+      "duration": 163
+    },
+    {
+      "id": "oLQxdiKHIlI",
+      "title": "Angular Video Series Part 12 || Angular Two-Way Binding Tutorial 2021",
+      "duration": 240
+    },
+    {
+      "id": "Ut5yDrBasl4",
+      "title": "Angular Video Series Part 13 || Template Variables Tutorial 2021",
+      "duration": 190
+    },
+    {
+      "id": "6X4D7gxUOok",
+      "title": "Angular Video Series Part 14 || Directives In Angular Tutorial 2021",
+      "duration": 319
+    },
+    {
+      "id": "fII4ScHwG1k",
+      "title": "Angular Video Series Part 15 || Attribute Directives In Angular Tutorial 2021",
+      "duration": 238
+    },
+    {
+      "id": "8dpddnjhfAY",
+      "title": "Angular Video Series Part 16 || Structural Directives Angular Tutorial 2021",
+      "duration": 307
+    },
+    {
+      "id": "1Z2vZEzngco",
+      "title": "Angular Video Series Part 17 || Dependency Injection In Angular Tutorial 2021",
+      "duration": 198
+    },
+    {
+      "id": "vOkPAhiT-WQ",
+      "title": "Angular Video Series Part 18 || Routing in Angular",
+      "duration": 564
+    },
+    {
+      "id": "-olT6Sh0NFQ",
+      "title": "Angular Video Series Part 19 || Template-Driven Forms",
+      "duration": 441
+    },
+    {
+      "id": "j51iL2uAYA0",
+      "title": "Angular Video Series Part 20 || Reactive Forms in Angular",
+      "duration": 355
+    },
+    {
+      "id": "0qdmY7pVsB8",
+      "title": "Angular Video Series Part 21 || Form Validation",
+      "duration": 305
+    },
+    {
+      "id": "61zXz7bjEwg",
+      "title": "Angular Video Series Part 22 || HTTP Client",
+      "duration": 307
+    },
+    {
+      "id": "V_b1JgWcbG8",
+      "title": "Angular Video Series Part 23 || HTTP interceptors",
+      "duration": 182
+    },
+    {
+      "id": "qT-N0lWhR4U",
+      "title": "Angular Video Series Part 24 | Angular Animations | Code with Sloba",
+      "duration": 332
+    },
+    {
+      "id": "D0beewKgSmk",
+      "title": "Angular Video Series Part 25 | How to localize your app in Angular",
+      "duration": 341
+    },
+    {
+      "id": "mIZQQK27WGY",
+      "title": "Angular Responsive Design | Angular Video Series Part 26",
+      "duration": 237
+    },
+    {
+      "id": "VwsXwzzTb_g",
+      "title": "Web workers in Angular  | Angular Video Series Part 27",
+      "duration": 331
+    },
+    {
+      "id": "VwOQ1sCI6xo",
+      "title": "Angular standalone components  | Angular Video Series Part 28",
+      "duration": 246
+    },
+    {
+      "id": "3WOokZnVZCU",
+      "title": "Custom form controls in Angular | Angular Video Series Part 29",
+      "duration": 423
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "scala-at-light-speed-33f5fe",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:14.413Z",
+  "title": "Scala at Light Speed [Full Course]",
+  "channel": "Rock the JVM",
+  "videos": [
+    {
+      "id": "-8V6bMjThNo",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 1: Getting Started",
+      "duration": 480
+    },
+    {
+      "id": "F90hJltCPEI",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 2: Basics",
+      "duration": 1011
+    },
+    {
+      "id": "sby4rxdmabI",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 3: Object-Oriented Programming",
+      "duration": 2081
+    },
+    {
+      "id": "74Ia6lvVMyc",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 4: Functional Programming",
+      "duration": 1892
+    },
+    {
+      "id": "ttpWoj98-aQ",
+      "title": "Scala Tutorial Scala at Light Speed, Part 5: Pattern Matching",
+      "duration": 745
+    },
+    {
+      "id": "In_ey5yyIXo",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 6: Advanced",
+      "duration": 1154
+    },
+    {
+      "id": "snz7WHjD-xs",
+      "title": "Scala Tutorial - Scala at Light Speed, Part 7: Contextual Abstractions (Scala 3 only)",
+      "duration": 1483
+    }
+  ]
+}

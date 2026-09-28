@@ -1,0 +1,60 @@
+{
+  "courseId": "machine-learning-recipes-with-josh-gordon-6edd87",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:35.048Z",
+  "title": "Machine Learning Recipes with Josh Gordon",
+  "channel": "Google for Developers",
+  "videos": [
+    {
+      "id": "cKxRvEZd3Mw",
+      "title": "Hello World - Machine Learning Recipes #1",
+      "duration": 413
+    },
+    {
+      "id": "tNa99PG8hR8",
+      "title": "Visualizing a Decision Tree - Machine Learning Recipes #2",
+      "duration": 402
+    },
+    {
+      "id": "N9fDIAflCMY",
+      "title": "What Makes a Good Feature? - Machine Learning Recipes #3",
+      "duration": 341
+    },
+    {
+      "id": "84gqSbLcBFE",
+      "title": "Let’s Write a Pipeline - Machine Learning Recipes #4",
+      "duration": 474
+    },
+    {
+      "id": "AoeEHqVSNOw",
+      "title": "Writing Our First Classifier - Machine Learning Recipes #5",
+      "duration": 524
+    },
+    {
+      "id": "cSKfRcEDGUs",
+      "title": "How to train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6",
+      "duration": 427
+    },
+    {
+      "id": "Gj0iyo265bc",
+      "title": "Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7",
+      "duration": 421
+    },
+    {
+      "id": "LDRbO9a6XPU",
+      "title": "Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8",
+      "duration": 593
+    },
+    {
+      "id": "d12ra3b_M-0",
+      "title": "Intro to Feature Engineering with TensorFlow - Machine Learning Recipes #9",
+      "duration": 458
+    },
+    {
+      "id": "TF1yh5PKaqI",
+      "title": "Getting Started with Weka - Machine Learning Recipes #10",
+      "duration": 564
+    }
+  ]
+}

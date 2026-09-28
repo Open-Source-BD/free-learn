@@ -1,0 +1,200 @@
+{
+  "courseId": "advanced-data-structures-b289e9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:38:59.736Z",
+  "title": "Advanced Data Structures",
+  "channel": "Uzair Javed Akhtar",
+  "videos": [
+    {
+      "id": "WIabUqbOFP0",
+      "title": "1.1 Amortized Analysis | Introduction with Examples | Advanced Data Structures | Algorithms",
+      "duration": 789
+    },
+    {
+      "id": "56jy_c6X9uA",
+      "title": "1.2 Aggregate Method | Amortized Analysis | Advanced Data Structures | Algorithm | DAA",
+      "duration": 686
+    },
+    {
+      "id": "8h80p_rYv1Y",
+      "title": "Advanced Data Structures | Introduction and Syllabus | Design & Analysis of Algorithms",
+      "duration": 851
+    },
+    {
+      "id": "MIDJ3q3I8BQ",
+      "title": "7.1 Fibonacci Heap | Properties | Introduction | Advanced Data Structures",
+      "duration": 860
+    },
+    {
+      "id": "--bHJvg2Jgc",
+      "title": "1.3 Accounting Method in Amortized Analysis | Examples of Augmented Stack and Dynamic Tables | DAA",
+      "duration": 520
+    },
+    {
+      "id": "1jQc9bfSiwg",
+      "title": "13. Flow Networks | Ford Fulkerson Algorithm | Max Flow Theorem | Residual Graph",
+      "duration": 2614
+    },
+    {
+      "id": "FMYKVdWywcg",
+      "title": "11.1 Skip List | Complete Introduction | All Operations with Examples | Advanced Data Structures",
+      "duration": 2842
+    },
+    {
+      "id": "dgMuWmm-aVA",
+      "title": "5.1 Leftist Trees | Leftist Heaps| Advanced Data Structures| Complete Introduction & Properties",
+      "duration": 1604
+    },
+    {
+      "id": "FtMzl6cmjkc",
+      "title": "6.2 Binomial Heap | Properties | Introduction | Structure Of Node | Advanced Data Structures",
+      "duration": 722
+    },
+    {
+      "id": "-xO9TkpMlhs",
+      "title": "1.4 Potential Method in Amortized Analysis | With Examples| Advanced Data Structures | Algorithms",
+      "duration": 1058
+    },
+    {
+      "id": "Yt0t_Diqp1o",
+      "title": "8.3 Suffix Trees | Advantage with Proof | Examples | Tries | Range Queries",
+      "duration": 779
+    },
+    {
+      "id": "6keisGJpUXM",
+      "title": "7.2 Fibonacci Heap | Different Operations | Insertion | Union Operation | Advanced Data Structures",
+      "duration": 1019
+    },
+    {
+      "id": "zJ2yyRfIkXo",
+      "title": "5.2 Leftist Heaps Merge Operation | Leftist Heaps| Code, Steps & Example",
+      "duration": 2041
+    },
+    {
+      "id": "-82Wd64fxtw",
+      "title": "6.3 Merge Operation in Binomial Heaps | Advanced Data Structures",
+      "duration": 1399
+    },
+    {
+      "id": "ZN2Z2EITFC4",
+      "title": "6.4 All Operations in Binomial Heaps | Advanced Data Structures",
+      "duration": 1036
+    },
+    {
+      "id": "UqvGHUNd9Uw",
+      "title": "6.1 Binomial Trees | Properties with Proof | Introduction | Advanced Data Structures",
+      "duration": 1361
+    },
+    {
+      "id": "tgLN7HzB9C8",
+      "title": "7.3 Fibonacci Heap | Extract Minimum operation | Delete Minimum | with Time Complexity",
+      "duration": 1332
+    },
+    {
+      "id": "xy3f0GhPoOw",
+      "title": "7.4 Fibonacci Heap | Decrease Key operation | Delete operation | with Time Complexity",
+      "duration": 1196
+    },
+    {
+      "id": "PgO_Xj7DC1A",
+      "title": "3.5 Deletion in Red Black Tree | Solved Example | Advanced Data Structures",
+      "duration": 1183
+    },
+    {
+      "id": "4KDovab_OS8",
+      "title": "3.4 Red Black Trees Deletion | all cases and examples | Advanced Data Structures",
+      "duration": 2299
+    },
+    {
+      "id": "KJVQeyLQKbc",
+      "title": "8.1 Trie Data Structure | Complete Introduction | Tries | All Operations with Examples",
+      "duration": 1967
+    },
+    {
+      "id": "s0IQ0RDxJ1o",
+      "title": "4.1 What are Splay Trees? | Introduction | Zig | Zig-Zig | Zig-Zag| Advanced Data Structures",
+      "duration": 2240
+    },
+    {
+      "id": "ZNtC4oUaQ8A",
+      "title": "10. Treaps | Complete Introduction | Search, Insert & Delete Operations with Examples",
+      "duration": 2643
+    },
+    {
+      "id": "B68miYOVcW0",
+      "title": "5.3 Leftist Heaps Insert & Delete Operation | Leftist Trees | Advanced Data Structures",
+      "duration": 932
+    },
+    {
+      "id": "9rkYRjonAG4",
+      "title": "2.1 What is Optimal Binary Search Tree? Complete Explanation & Examples | Advanced Data Structures",
+      "duration": 1284
+    },
+    {
+      "id": "ASWUw5EeMdo",
+      "title": "8.2 Compressed Tries | Advantage with Proof | Examples | Tries | Range Queries",
+      "duration": 1177
+    },
+    {
+      "id": "JDmWPWFKliE",
+      "title": "3.3 Red Black Trees Insertion | With Examples | Advanced Data Structures",
+      "duration": 1349
+    },
+    {
+      "id": "mJEooLJdDZw",
+      "title": "3.1 What are Red Black Trees? | Advanced Data Structures| Complete Introduction & Properties",
+      "duration": 2045
+    },
+    {
+      "id": "RigE4QjdNks",
+      "title": "11.2 Skip List | Time and Space Complexity Computation | Part 2 | Probability Analysis",
+      "duration": 1694
+    },
+    {
+      "id": "7O6nW1Mcz-c",
+      "title": "4.2 Splay Trees Insertion | with Example |  Advanced Data Structures",
+      "duration": 1182
+    },
+    {
+      "id": "KSdSRkL3IJI",
+      "title": "12. Augmenting Data Structures | Augmenting Red Black Trees | Augmented Stack",
+      "duration": 2781
+    },
+    {
+      "id": "9kBzv64pesc",
+      "title": "4.3 Splay Trees Deletion | Bottom Up Splaying | Advanced Data Structures",
+      "duration": 914
+    },
+    {
+      "id": "rFAlRTqdu5g",
+      "title": "3.2 Types Of Imbalances | Red Black Trees | Types Of Rotations | with Examples",
+      "duration": 1011
+    },
+    {
+      "id": "q19Skx_WiT4",
+      "title": "4.4 Splay Trees Deletion | Top Down Splaying | Advanced Data Structures",
+      "duration": 920
+    },
+    {
+      "id": "0P2mkqkrfck",
+      "title": "9.1 Bloom Filters | Complete Introduction | All Operations with Examples",
+      "duration": 1665
+    },
+    {
+      "id": "67Y_Ww_-Jaw",
+      "title": "2.3 Optimal BST | Solved example using DP | Advanced Data Structures",
+      "duration": 1688
+    },
+    {
+      "id": "JCrEjmvlFJM",
+      "title": "2.2 Why DP is used for Optimal Binary Search Trees? | with example and intuition",
+      "duration": 1185
+    },
+    {
+      "id": "t5OKOG1W5N0",
+      "title": "9.2 Bloom Filters | False Positives with Proof | Applications in Google, Facebook and Quora",
+      "duration": 2509
+    }
+  ]
+}

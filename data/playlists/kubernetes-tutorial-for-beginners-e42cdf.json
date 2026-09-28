@@ -1,0 +1,125 @@
+{
+  "courseId": "kubernetes-tutorial-for-beginners-e42cdf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:39.411Z",
+  "title": "Complete Kubernetes Tutorial for Beginners",
+  "channel": "TechWorld with Nana",
+  "videos": [
+    {
+      "id": "VnvRFRk_51k",
+      "title": "What is Kubernetes | Kubernetes explained in 15 mins",
+      "duration": 853
+    },
+    {
+      "id": "Krpb44XR0bk",
+      "title": "Kubernetes Components explained! Pods, Services, Secrets, ConfigMap | Kubernetes Tutorial 14",
+      "duration": 1092
+    },
+    {
+      "id": "umXEmn3cMWY",
+      "title": "Kubernetes Architecture explained | Kubernetes Tutorial 15",
+      "duration": 788
+    },
+    {
+      "id": "g8Sf-6EsgZM",
+      "title": "Benefits of Kubernetes | Scalability, High Availability, Disaster Recovery | Kubernetes Tutorial 16",
+      "duration": 532
+    },
+    {
+      "id": "E2pP1MOfo3g",
+      "title": "Minikube and Kubectl explained | Setup for Beginners | Kubernetes Tutorial 17",
+      "duration": 699
+    },
+    {
+      "id": "azuwXALfyRg",
+      "title": "Kubectl Basic Commands - Create and Debug Pod in a Minikube cluster | Kubernetes Tutorial 18",
+      "duration": 1057
+    },
+    {
+      "id": "qmDzcu5uY1I",
+      "title": "Kubernetes YAML File Explained - Deployment and Service | Kubernetes Tutorial 19",
+      "duration": 877
+    },
+    {
+      "id": "EQNO_kM96Mo",
+      "title": "Complete Application Deployment using Kubernetes Components | Kubernetes Tutorial 20",
+      "duration": 1827
+    },
+    {
+      "id": "K3jNo4z5Jx8",
+      "title": "Kubernetes Namespaces Explained in 15 mins | Kubernetes Tutorial 21",
+      "duration": 961
+    },
+    {
+      "id": "80Ew_fsV4rM",
+      "title": "Kubernetes Ingress Tutorial for Beginners | simply explained  | Kubernetes Tutorial 22",
+      "duration": 1390
+    },
+    {
+      "id": "-ykwb1d0DXU",
+      "title": "What is Helm in Kubernetes? Helm and Helm Charts explained  | Kubernetes Tutorial 23",
+      "duration": 856
+    },
+    {
+      "id": "5cNrTU6o3Fw",
+      "title": "Pods and Containers - Kubernetes Networking | Container Communication inside the Pod",
+      "duration": 820
+    },
+    {
+      "id": "0swOh5C3OVM",
+      "title": "Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class",
+      "duration": 1274
+    },
+    {
+      "id": "FAnQTgr04mU",
+      "title": "Kubernetes ConfigMap and Secret as Kubernetes Volumes | Demo",
+      "duration": 1014
+    },
+    {
+      "id": "asIS4KIs40M",
+      "title": "Pull Image from Private Docker Registry in Kubernetes cluster | Demo",
+      "duration": 1304
+    },
+    {
+      "id": "pPQKAR1pA9U",
+      "title": "Kubernetes StatefulSet simply explained | Deployment vs StatefulSet",
+      "duration": 960
+    },
+    {
+      "id": "QoDqxm7ybLc",
+      "title": "Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator | Part 1",
+      "duration": 1542
+    },
+    {
+      "id": "k-V3_zxRasM",
+      "title": "Managed Kubernetes Cluster explained | Kubernetes on Cloud (1/2)",
+      "duration": 1115
+    },
+    {
+      "id": "JGtJj_nAA2s",
+      "title": "Step by Step Application Deployment on LKE using Helm | Kubernetes on Cloud (2/2)",
+      "duration": 1832
+    },
+    {
+      "id": "ha3LjlD6g7g",
+      "title": "Kubernetes Operator simply explained in 10 mins",
+      "duration": 609
+    },
+    {
+      "id": "mLPg49b33sA",
+      "title": "Prometheus Monitoring - Steps to monitor third-party apps using Prometheus Exporter | Part 2",
+      "duration": 1385
+    },
+    {
+      "id": "T4Z7visMM4E",
+      "title": "Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service",
+      "duration": 1453
+    },
+    {
+      "id": "oBf5lrmquYI",
+      "title": "Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!",
+      "duration": 1781
+    }
+  ]
+}

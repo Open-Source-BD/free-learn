@@ -1,0 +1,125 @@
+{
+  "courseId": "godot-action-rpg-series-e584d0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:50.969Z",
+  "title": "Godot 3 Action RPG",
+  "channel": "Heartbeast",
+  "videos": [
+    {
+      "id": "mAbG8Oi-SvQ",
+      "title": "Make an Action RPG in Godot 3.2",
+      "duration": 2047
+    },
+    {
+      "id": "EQA9MJ5_TxU",
+      "title": "Make an Action RPG in Godot 3.2 (P2 | delta + smooth movement)",
+      "duration": 1063
+    },
+    {
+      "id": "TQKXU7iSWUU",
+      "title": "Make an Action RPG in Godot 3.2 (P3 | collisions + move_and_slide)",
+      "duration": 1094
+    },
+    {
+      "id": "UfKMgHbaGow",
+      "title": "Make an Action RPG in Godot 3.2 (P4 | scenes + ysort node)",
+      "duration": 1048
+    },
+    {
+      "id": "wX145eoLFSM",
+      "title": "Make an Action RPG in Godot 3.2 (P5 | AnimationPlayer)",
+      "duration": 1065
+    },
+    {
+      "id": "Z9aR9IiiHT8",
+      "title": "Make an Action RPG in Godot 3.2 (P6 | Animation in all directions with an AnimationTree)",
+      "duration": 1492
+    },
+    {
+      "id": "v75IMavnRUs",
+      "title": "Make an Action RPG in Godot 3.2 (P7 | Background Grass and Dirt Path Autotile)",
+      "duration": 1362
+    },
+    {
+      "id": "RPgTlxb7Bno",
+      "title": "Make an Action RPG in Godot 3.2 (P8 | Collisions with Autotiles)",
+      "duration": 859
+    },
+    {
+      "id": "0nd1zNiy0C4",
+      "title": "Make an Action RPG in Godot 3.2 (P9 | Attacking Animation + State Machines)",
+      "duration": 1545
+    },
+    {
+      "id": "1mI04gPhd3E",
+      "title": "Make an Action RPG in Godot 3.2 (P10 | Signals + Instancing Scenes in Code)",
+      "duration": 1735
+    },
+    {
+      "id": "vDbEfmPcv-Q",
+      "title": "Make an Action RPG in Godot 3.2 (P11 | Melee attacks with Hurtboxes and Hitboxes)",
+      "duration": 1776
+    },
+    {
+      "id": "GWBt1LV9An0",
+      "title": "Make an Action RPG in Godot 3.2 (P12 | Roll State)",
+      "duration": 1171
+    },
+    {
+      "id": "mm4D1ETclAc",
+      "title": "Make an Action RPG in Godot 3.2 (P13 | Knockback and Enemy Bat)",
+      "duration": 1272
+    },
+    {
+      "id": "srQz4Ix8rZM",
+      "title": "Make an Action RPG in Godot 3.2 (P14 | Enemy Stats + Export Variables + Setget)",
+      "duration": 1396
+    },
+    {
+      "id": "HIPUqqUEbfA",
+      "title": "Make an Action RPG in Godot 3.2 (P15 | Enemy Death Effect + Bug Fixes)",
+      "duration": 869
+    },
+    {
+      "id": "R0XvL3_t840",
+      "title": "Make an Action RPG in Godot 3.2 (P16 | Bat AI Start)",
+      "duration": 1659
+    },
+    {
+      "id": "1MO8DtnxSQs",
+      "title": "Make an Action RPG in Godot 3.2 (P17 | Player Stats + Enemy Attack)",
+      "duration": 1322
+    },
+    {
+      "id": "7A4EPIr-6Sc",
+      "title": "Make an Action RPG in Godot 3.2 (P18 | Player Hearts UI)",
+      "duration": 2143
+    },
+    {
+      "id": "ffXx0dPejWY",
+      "title": "Make an Action RPG in Godot 3.2 (P19 | Enemy Soft Collisions + Profiling)",
+      "duration": 1016
+    },
+    {
+      "id": "MA7jSbXfS34",
+      "title": "Make an Action RPG in Godot 3.2 (P20 | Player Camera)",
+      "duration": 467
+    },
+    {
+      "id": "GAEeE_tVQEI",
+      "title": "Make an Action RPG in Godot 3.2 (P21 | Bat Wander State)",
+      "duration": 1786
+    },
+    {
+      "id": "Ot9M0TlxApU",
+      "title": "Make an Action RPG in Godot 3.2 (P22 | Sounds + Hit Flash Effect)",
+      "duration": 2222
+    },
+    {
+      "id": "3Z7oV0X5vE8",
+      "title": "Make an Action RPG in Godot 3.2 (BONUS | Camera Limits + Hurtbox Bug Fix)",
+      "duration": 816
+    }
+  ]
+}

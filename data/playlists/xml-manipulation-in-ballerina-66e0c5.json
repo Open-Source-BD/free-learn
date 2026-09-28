@@ -1,0 +1,45 @@
+{
+  "courseId": "xml-manipulation-in-ballerina-66e0c5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0JxniVXOwROaeFRlDvGd6nj",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:21.976Z",
+  "title": "XML Manipulation with Ballerina",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "rs_bFeRGfhg",
+      "title": "Introduction to XML Manipulation | Ballerina Programming Language",
+      "duration": 137
+    },
+    {
+      "id": "yiBqA1pk4dI",
+      "title": "Using XML data standard library in the Ballerina Programming Language",
+      "duration": 867
+    },
+    {
+      "id": "P8x68mc0bJQ",
+      "title": "XML Navigation Expressions in Ballerina",
+      "duration": 607
+    },
+    {
+      "id": "4jIFI0oU0EA",
+      "title": "XML Template Expression in Ballerina",
+      "duration": 789
+    },
+    {
+      "id": "6nD0M4awpOs",
+      "title": "Conversion Between XML and Ballerina Collections - Part 1",
+      "duration": 678
+    },
+    {
+      "id": "acVfT6fMXYs",
+      "title": "Conversion between XML and Ballerina Collections - Part 2",
+      "duration": 621
+    },
+    {
+      "id": "yv0o8a9l4PQ",
+      "title": "XML Manipulation Training Series Wrap Up",
+      "duration": 92
+    }
+  ]
+}

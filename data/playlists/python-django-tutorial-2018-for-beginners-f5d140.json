@@ -1,0 +1,40 @@
+{
+  "courseId": "python-django-tutorial-2018-for-beginners-f5d140",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:33.753Z",
+  "title": "Python Django Tutorial 2018 for Beginners",
+  "channel": "Clever Programmer",
+  "videos": [
+    {
+      "id": "I7WtoFivrS0",
+      "title": "Python Django Tutorial 2018 for Beginners Part 1 - How to Create a Project",
+      "duration": 1671
+    },
+    {
+      "id": "lllckjqRJOg",
+      "title": "Python Django Tutorial 2018 for Beginners Part 2 - How to Create Models and Use Django Admin",
+      "duration": 2590
+    },
+    {
+      "id": "3F0uqHb5EdI",
+      "title": "Python Django Tutorial 2018 for Beginners Part 3 - How to Create Views in Django + Templates",
+      "duration": 2389
+    },
+    {
+      "id": "3YXqA9BPs10",
+      "title": "Python Django Tutorial 2018 for Beginners Part 4 - Generic Forms & Views",
+      "duration": 2556
+    },
+    {
+      "id": "DKCTMrNExAw",
+      "title": "Python Django Tutorial 2018 for Beginners Part 5 - Automated Testing",
+      "duration": 3227
+    },
+    {
+      "id": "c0evTd_QXYY",
+      "title": "Python Django Tutorial 2018 for Beginners Part 6 - Static Files",
+      "duration": 1015
+    }
+  ]
+}

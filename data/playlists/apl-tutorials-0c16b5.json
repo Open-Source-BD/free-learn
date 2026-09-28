@@ -1,0 +1,50 @@
+{
+  "courseId": "apl-tutorials-0c16b5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1955671BD6E21548",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:11.644Z",
+  "title": "APL tutorials",
+  "channel": "Jimin Park",
+  "videos": [
+    {
+      "id": "D1keX9cXmN4",
+      "title": "APL101 - Introduction to APL",
+      "duration": 436
+    },
+    {
+      "id": "ZJgv0zi_bEc",
+      "title": "APL102 - Useful notions",
+      "duration": 402
+    },
+    {
+      "id": "Z6XnGIHrZYU",
+      "title": "APL103 - More useful notions",
+      "duration": 443
+    },
+    {
+      "id": "6InHm3QJ9uY",
+      "title": "APL104 - More notions",
+      "duration": 388
+    },
+    {
+      "id": "SVlHrA8WGOE",
+      "title": "APL105 - more advanced notions",
+      "duration": 399
+    },
+    {
+      "id": "U6G-PViAQW4",
+      "title": "APL106 - monadic functions",
+      "duration": 298
+    },
+    {
+      "id": "VBVGlfwUhF4",
+      "title": "APL107 - User function definitions",
+      "duration": 408
+    },
+    {
+      "id": "PQ772Vl58kg",
+      "title": "APL108 - Selection Functions",
+      "duration": 489
+    }
+  ]
+}

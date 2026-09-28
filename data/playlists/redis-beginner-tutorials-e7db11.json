@@ -1,0 +1,45 @@
+{
+  "courseId": "redis-beginner-tutorials-e7db11",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:10.295Z",
+  "title": "Redis Beginner Tutorials",
+  "channel": "Automation Step by Step",
+  "videos": [
+    {
+      "id": "HNDtcXVo5ow",
+      "title": "Redis Beginner Tutorial 1 - What is REDIS",
+      "duration": 241
+    },
+    {
+      "id": "kUmrYQO51uA",
+      "title": "Redis Beginner Tutorial 2 - Why to use REDIS",
+      "duration": 300
+    },
+    {
+      "id": "ncFhlv-gBXQ",
+      "title": "Redis Beginner Tutorial 3 - How to install REDIS on windows (step-by-step)",
+      "duration": 500
+    },
+    {
+      "id": "vPcFJvvJgVA",
+      "title": "Redis Beginner Tutorial 4 - How to install REDIS on Mac (step-by-step)",
+      "duration": 362
+    },
+    {
+      "id": "2xYeIhUlg7Y",
+      "title": "Redis Beginner Tutorial 5 - How to install REDIS on Linux (step-by-step)",
+      "duration": 417
+    },
+    {
+      "id": "csifoYtJ7pM",
+      "title": "Redis Beginner Tutorial 6 - How to use Redis Desktop Manager",
+      "duration": 391
+    },
+    {
+      "id": "h2OlLxe5x8M",
+      "title": "Redis Beginner Tutorial 7 - Redis GUI Clients",
+      "duration": 148
+    }
+  ]
+}

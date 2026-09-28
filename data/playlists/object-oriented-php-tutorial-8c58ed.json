@@ -1,0 +1,80 @@
+{
+  "courseId": "object-oriented-php-tutorial-8c58ed",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:53.621Z",
+  "title": "Object Oriented PHP Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "LuWxwLk8StM",
+      "title": "Object Oriented PHP #1 - Introduction & Setup",
+      "duration": 270
+    },
+    {
+      "id": "M38rgWRCVtY",
+      "title": "Object Oriented PHP #2 - Intro to Classes",
+      "duration": 458
+    },
+    {
+      "id": "0OOAdIdQvX4",
+      "title": "Object Oriented PHP #3 - Properties & Methods",
+      "duration": 733
+    },
+    {
+      "id": "Dh9ETygs-pA",
+      "title": "Object Oriented PHP #4 - Constructors",
+      "duration": 316
+    },
+    {
+      "id": "NGYX-v5oDQs",
+      "title": "Object Oriented PHP #5 - Access Modifiers",
+      "duration": 325
+    },
+    {
+      "id": "W-exQ5qAEmQ",
+      "title": "Object Oriented PHP #6 - Getters & Setters",
+      "duration": 400
+    },
+    {
+      "id": "mRMFQP_98oo",
+      "title": "Object Oriented PHP #7 - Inheritance",
+      "duration": 679
+    },
+    {
+      "id": "kIaZv4j9M00",
+      "title": "Object Oriented PHP #8 - Overriding Properties & Methods",
+      "duration": 299
+    },
+    {
+      "id": "wmc9cF3w0xg",
+      "title": "Object Oriented PHP #9 - Protected Modifier",
+      "duration": 257
+    },
+    {
+      "id": "5O_EP5op7k8",
+      "title": "Object Oriented PHP #10 - Clone & Destruct",
+      "duration": 456
+    },
+    {
+      "id": "5zw1VjQIbNQ",
+      "title": "Object Oriented PHP #11 - Static Properties",
+      "duration": 527
+    },
+    {
+      "id": "Hs5m2jLw7_A",
+      "title": "Object Oriented PHP #12 - Validation Class (part 1)",
+      "duration": 471
+    },
+    {
+      "id": "wsjmvlQm9hU",
+      "title": "Object Oriented PHP #13 - Validation Class (part 2)",
+      "duration": 1037
+    },
+    {
+      "id": "QB81W7ibiHE",
+      "title": "Object Oriented PHP #14 - Validation Class (part 3)",
+      "duration": 573
+    }
+  ]
+}

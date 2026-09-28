@@ -1,0 +1,155 @@
+{
+  "courseId": "nestjs-full-course-2024-c5bf1c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:01.002Z",
+  "title": "NestJS Full Course 2024",
+  "channel": "Sakura Dev",
+  "videos": [
+    {
+      "id": "JDJ0zQLvpOA",
+      "title": "NestJS Full Course",
+      "duration": 1449
+    },
+    {
+      "id": "D46R2cykFt0",
+      "title": "NestJs Full Course 2024  -2:  Validation In NestJs (ZOD Included)",
+      "duration": 2031
+    },
+    {
+      "id": "NlQFSgvTaFw",
+      "title": "NestJs Full Course -3: Headers Access and Validation",
+      "duration": 671
+    },
+    {
+      "id": "JLHnJoWLjXI",
+      "title": "NestJS Full Course -4: Dependency Injection",
+      "duration": 850
+    },
+    {
+      "id": "paG4rx4CB4s",
+      "title": "NestJS Full Course 2024 -5: TypeORM",
+      "duration": 853
+    },
+    {
+      "id": "GZhOpYvHk8g",
+      "title": "NestJS Full Course -6: CRUD",
+      "duration": 1064
+    },
+    {
+      "id": "7jBt3VA0Htw",
+      "title": "NestJs Full Course -7: One To One Relations",
+      "duration": 782
+    },
+    {
+      "id": "qR0AXUTuYsk",
+      "title": "NestJs Full Course -8: One To Many Relationship in Type ORM",
+      "duration": 714
+    },
+    {
+      "id": "kwXoV_WpQr8",
+      "title": "NestJs Full Course -9: Many To Many Relationships with Type ORM",
+      "duration": 556
+    },
+    {
+      "id": "ku6444hgXLQ",
+      "title": "NestJs Full Course -10: TypeORM Seeding",
+      "duration": 1585
+    },
+    {
+      "id": "K-3Qr3a4eOA",
+      "title": "NestJs Full Course -11: Pagination",
+      "duration": 377
+    },
+    {
+      "id": "ZF9jV6xdcv0",
+      "title": "🌍 Manage Environment Variables in NestJS (Best Practices + Config Module)",
+      "duration": 916
+    },
+    {
+      "id": "xrSJlDcp6Hk",
+      "title": "NestJS Full Course -13: Hashing",
+      "duration": 841
+    },
+    {
+      "id": "ZS45e1PTP8I",
+      "title": "NestJS Authentication With Local Strategy",
+      "duration": 1212
+    },
+    {
+      "id": "BfDHPOiHlqU",
+      "title": "🔐 NestJS JWT Authentication – Secure Your API Like a Pro!",
+      "duration": 1622
+    },
+    {
+      "id": "Fe0hWZ_mjy8",
+      "title": "NestJS Refresh Token: Step By Step Guide With Passport.JS",
+      "duration": 1110
+    },
+    {
+      "id": "dUTKVYkDtx0",
+      "title": "How To Revoke JWT Tokens In NestJS : Easy Step-by-Step Guide",
+      "duration": 1651
+    },
+    {
+      "id": "ttLIQPQmLKc",
+      "title": "🔒 Master Role-Based Authorization in NestJS (Full Guide)",
+      "duration": 1618
+    },
+    {
+      "id": "Z6Ee_tiG2EE",
+      "title": "A Trick For Enabling Global Auth In NestJS",
+      "duration": 797
+    },
+    {
+      "id": "-pbT0uKRWX8",
+      "title": "🚀 NestJS Google OAuth Authentication + React App | Full Guide",
+      "duration": 1684
+    },
+    {
+      "id": "xCjA88zNBx8",
+      "title": "🚀 Drizzle ORM Crash Course in NestJS – Full Guide (With PostgreSQL & NEON)",
+      "duration": 3762
+    },
+    {
+      "id": "BSrd_rU0Ioo",
+      "title": "🚀 Master Monorepos with NestJS, NextJS & Turborepo",
+      "duration": 519
+    },
+    {
+      "id": "Y9KNU2MnO-o",
+      "title": "🚀 Full-Stack Authentication with Next.js & NestJS in a Monorepo",
+      "duration": 15358
+    },
+    {
+      "id": "dP_QfmnghnQ",
+      "title": "🚀 GraphQL with NestJS Crash Course – Build Powerful APIs!",
+      "duration": 3693
+    },
+    {
+      "id": "j4h43YJv4Og",
+      "title": "🔒 GraphQL Authentication & Role-Based Authorization in NestJS 🚀",
+      "duration": 3893
+    },
+    {
+      "id": "rsRglxTKbR0",
+      "title": "🚀 Full-Stack Blog App with NestJS, NextJS & Turborepo – 10-Hour Ultimate Guide",
+      "duration": 36366
+    },
+    {
+      "id": "OQHIHZm90FE",
+      "title": "🚀 File Upload in Turborepo ( NestJS + NextJS ) | Zod Validation & Tailwind",
+      "duration": 1849
+    },
+    {
+      "id": "xXtPHQynz60",
+      "title": "Master NestJS Middleware: Boost API Security & Performance Like a Pro! 🚀",
+      "duration": 978
+    },
+    {
+      "id": "RnEitUhOcX0",
+      "title": "Master NestJS Interceptors: Transform Responses, Handle Errors & Boost Performance! 🚀",
+      "duration": 1685
+    }
+  ]
+}

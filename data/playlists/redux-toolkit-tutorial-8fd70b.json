@@ -1,0 +1,170 @@
+{
+  "courseId": "redux-toolkit-tutorial-8fd70b",
+  "sourceUrl": "https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:26.538Z",
+  "title": "Redux Toolkit Tutorial",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "0awA5Uw6SJE",
+      "title": "Redux Toolkit Tutorial - 1 - Intro feat. React",
+      "duration": 905
+    },
+    {
+      "id": "ZySFOgejw0k",
+      "title": "Redux Toolkit Tutorial - 2 - Getting Started",
+      "duration": 132
+    },
+    {
+      "id": "7cREd9mesMg",
+      "title": "Redux Toolkit Tutorial - 3 - Three Core Concepts",
+      "duration": 286
+    },
+    {
+      "id": "6oAU5Kn9SBY",
+      "title": "Redux Toolkit Tutorial - 4 - Three Principles",
+      "duration": 399
+    },
+    {
+      "id": "ir0F2PeJugo",
+      "title": "Redux Toolkit Tutorial - 5 - Actions",
+      "duration": 250
+    },
+    {
+      "id": "fy2FHo-iXDE",
+      "title": "Redux Toolkit Tutorial - 6 - Reducers",
+      "duration": 346
+    },
+    {
+      "id": "WDJ2eidE-b0",
+      "title": "Redux Toolkit Tutorial - 7 - Store",
+      "duration": 744
+    },
+    {
+      "id": "kQuMTqmyn04",
+      "title": "Redux Toolkit Tutorial - 8 - Restocking Cakes",
+      "duration": 307
+    },
+    {
+      "id": "1Hp8ATFL_fc",
+      "title": "Redux Toolkit Tutorial - 9 - Bind Action Creators",
+      "duration": 176
+    },
+    {
+      "id": "7-7jHX63-ok",
+      "title": "Redux Toolkit Tutorial - 10 - Cakes and Ice Creams",
+      "duration": 186
+    },
+    {
+      "id": "AUYUE3x3sUY",
+      "title": "Redux Toolkit Tutorial - 11 - Multiple Reducers",
+      "duration": 494
+    },
+    {
+      "id": "-1I-HpvUiBQ",
+      "title": "Redux Toolkit Tutorial - 12 - Combine Reducers",
+      "duration": 232
+    },
+    {
+      "id": "kgCjXjJkZ-Y",
+      "title": "Redux Toolkit Tutorial - 13 - Immer",
+      "duration": 400
+    },
+    {
+      "id": "rRtM82jBQJo",
+      "title": "Redux Toolkit Tutorial - 14 - Middleware",
+      "duration": 334
+    },
+    {
+      "id": "uN-gpihDQRE",
+      "title": "Redux Toolkit Tutorial - 15 - Async Actions",
+      "duration": 514
+    },
+    {
+      "id": "SA47gYlL2oQ",
+      "title": "Redux Toolkit Tutorial - 16 - Redux Thunk Middleware",
+      "duration": 528
+    },
+    {
+      "id": "edkBAL27Y9k",
+      "title": "Redux Toolkit Tutorial - 17 - Redux Toolkit Intro",
+      "duration": 197
+    },
+    {
+      "id": "fG0Y7JbYSfY",
+      "title": "Redux Toolkit Tutorial - 18 - Project Setup",
+      "duration": 189
+    },
+    {
+      "id": "1ej7DjJO_Bk",
+      "title": "Redux Toolkit Tutorial - 19 - Cake Slice",
+      "duration": 421
+    },
+    {
+      "id": "5EMyvYGzv0o",
+      "title": "Redux Toolkit Tutorial - 20 - Configuring Store",
+      "duration": 351
+    },
+    {
+      "id": "Q-KZCLu5cbI",
+      "title": "Redux Toolkit Tutorial - 21 - Ice Cream Feature",
+      "duration": 320
+    },
+    {
+      "id": "dUVXHMHJio0",
+      "title": "Redux Toolkit Tutorial - 22 - Logger Middleware",
+      "duration": 294
+    },
+    {
+      "id": "NBbvaF3GK9U",
+      "title": "Redux Toolkit Tutorial - 23 - Extra Reducers",
+      "duration": 518
+    },
+    {
+      "id": "Tay06Rk881Y",
+      "title": "Redux Toolkit Tutorial - 24 - Async Thunks",
+      "duration": 819
+    },
+    {
+      "id": "VfRGyfw7kGY",
+      "title": "Redux Toolkit Tutorial - 25 - React Project Setup",
+      "duration": 569
+    },
+    {
+      "id": "mqcz_G5-5aQ",
+      "title": "Redux Toolkit Tutorial - 26 - Provider",
+      "duration": 194
+    },
+    {
+      "id": "8PjwMqDMjxI",
+      "title": "Redux Toolkit Tutorial - 27 - useSelector",
+      "duration": 225
+    },
+    {
+      "id": "af4N8xJN3iU",
+      "title": "Redux Toolkit Tutorial - 28 - useDispatch",
+      "duration": 333
+    },
+    {
+      "id": "iECBiELxrNE",
+      "title": "Redux Toolkit Tutorial - 29 - Redux Devtools",
+      "duration": 327
+    },
+    {
+      "id": "I2aM7YcOXDY",
+      "title": "Redux Toolkit Tutorial - 30 - Fetching Data",
+      "duration": 457
+    },
+    {
+      "id": "SM3uwYgGxNE",
+      "title": "Redux Toolkit Tutorial - 31 - TypeScript Support",
+      "duration": 822
+    },
+    {
+      "id": "VUN8crQ8U6g",
+      "title": "How To Build a $5,000 React website with AI",
+      "duration": 728
+    }
+  ]
+}

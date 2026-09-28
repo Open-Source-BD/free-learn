@@ -1,0 +1,45 @@
+{
+  "courseId": "d3-101-810435",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:32.084Z",
+  "title": "D3 101",
+  "channel": "Curran Kelleher",
+  "videos": [
+    {
+      "id": "iuA-gmvJ5n0",
+      "title": "D3 101.01 - Parsing Data",
+      "duration": 2270
+    },
+    {
+      "id": "9E9qtNg5V2I",
+      "title": "D3 101.02 - Fetching Data with AJAX",
+      "duration": 763
+    },
+    {
+      "id": "UdCjacdrvi4",
+      "title": "D3 101.03 - Bar Chart Rundown - Full Resolution",
+      "duration": 220
+    },
+    {
+      "id": "8jvoTV54nXw",
+      "title": "Introduction to D3",
+      "duration": 5897
+    },
+    {
+      "id": "itNlukt5x18",
+      "title": "Introduction to Data Visualization",
+      "duration": 4406
+    },
+    {
+      "id": "GzH7qUVIkE8",
+      "title": "Splitting Charts (Part 5) - Multi-Line Charts",
+      "duration": 850
+    },
+    {
+      "id": "46xbB0gBwl4",
+      "title": "Creating a Bar Chart",
+      "duration": 812
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "hacker-skills-osint-information-gathering-d91b89",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:22.581Z",
+  "title": "Hacker Skills // OSINT (Information Gathering)",
+  "channel": "NetworkChuck",
+  "videos": [
+    {
+      "id": "SvO_FDa8AIs",
+      "title": "Twitter OSiNT (Ethical Hacking)",
+      "duration": 859
+    },
+    {
+      "id": "NWyqSbnsvGU",
+      "title": "Instagram OSiNT",
+      "duration": 585
+    },
+    {
+      "id": "4t4kBkMsDbQ",
+      "title": "Nmap Tutorial to find Network Vulnerabilities",
+      "duration": 1029
+    },
+    {
+      "id": "6CnDdXVTxhU",
+      "title": "find info on phone numbers with PhoneInfoga",
+      "duration": 528
+    },
+    {
+      "id": "KdZvxxLsN3E",
+      "title": "find social media accounts with Sherlock (in 5 MIN)",
+      "duration": 301
+    },
+    {
+      "id": "qsA8zREbt6g",
+      "title": "learning hacking? DON'T make this mistake!! (hide yourself with Kali Linux and ProxyChains)",
+      "duration": 769
+    },
+    {
+      "id": "hrVa_dhD-iA",
+      "title": "Google HACKING (use google search to HACK!)",
+      "duration": 1016
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "courseId": "lua-for-beginners-0705ac",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9URkxPt-PndpZlw8m_NHh0vUBU5J-BRF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:02.776Z",
+  "title": "Lua for Beginners",
+  "channel": "AlgoRythm",
+  "videos": [
+    {
+      "id": "HDAE9OR28gY",
+      "title": "[1]: Setup - Programming in Lua for Absolute Beginners",
+      "duration": 652
+    },
+    {
+      "id": "Ymuz1IYaLrE",
+      "title": "[2]: Variables and Types - Programming in Lua for Absolute Beginners",
+      "duration": 377
+    },
+    {
+      "id": "mpk_e5IV9ac",
+      "title": "[3]: Functions - Programming in Lua for Absolute Beginners",
+      "duration": 466
+    },
+    {
+      "id": "y6xoOY352Z4",
+      "title": "[4]: Arguments - Programming in Lua for Absolute Beginners",
+      "duration": 596
+    },
+    {
+      "id": "zSWixkdTtuY",
+      "title": "[5]: Basic Math - Programming in Lua for Absolute Beginners",
+      "duration": 306
+    },
+    {
+      "id": "GKrbUxixMvQ",
+      "title": "[6]: Decisions - Programming in Lua for Absolute Beginners",
+      "duration": 729
+    },
+    {
+      "id": "Mr5xJYJZ6k0",
+      "title": "[7]: Boolean Math - Programming in Lua for Absolute Beginners",
+      "duration": 530
+    },
+    {
+      "id": "ZG8yKoLnF0Q",
+      "title": "[8]: Loops - Programming in Lua for Absolute Beginners",
+      "duration": 865
+    }
+  ]
+}

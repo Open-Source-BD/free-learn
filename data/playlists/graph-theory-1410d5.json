@@ -1,0 +1,850 @@
+{
+  "courseId": "graph-theory-1410d5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:52.598Z",
+  "title": "Graph Theory",
+  "channel": "Wrath of Math",
+  "videos": [
+    {
+      "id": "ZQY4IfEcGvM",
+      "title": "What is a Graph? | Graph Theory",
+      "duration": 686
+    },
+    {
+      "id": "dxhFQyivdUs",
+      "title": "What are Adjacent Vertices? | Graph Theory",
+      "duration": 211
+    },
+    {
+      "id": "lXF26hvMIrg",
+      "title": "What is the Order of a Graph? | Graph Theory",
+      "duration": 151
+    },
+    {
+      "id": "Cn9O7odK4bc",
+      "title": "What is the Size of a Graph? | Graph Theory",
+      "duration": 169
+    },
+    {
+      "id": "QqR98Ajks2Y",
+      "title": "Order and Size of a Graph | Graph Theory",
+      "duration": 200
+    },
+    {
+      "id": "gQh_EB1SKoQ",
+      "title": "Empty Graph, Trivial Graph, and the Null Graph | Graph Theory",
+      "duration": 259
+    },
+    {
+      "id": "i4yoI84gwgc",
+      "title": "What are Adjacent Edges? | Graph Theory",
+      "duration": 294
+    },
+    {
+      "id": "rKnKwGhRObE",
+      "title": "What is a Subgraph? | Graph Theory",
+      "duration": 410
+    },
+    {
+      "id": "Kh9LiX2farU",
+      "title": "What is a Spanning Subgraph? | Graph Theory",
+      "duration": 243
+    },
+    {
+      "id": "ektwvSqL0Vw",
+      "title": "Proper and Improper Subgraphs | Graph Theory",
+      "duration": 566
+    },
+    {
+      "id": "1HXbz09Bipw",
+      "title": "What is a Vertex Induced Subgraph? | Graph Theory",
+      "duration": 410
+    },
+    {
+      "id": "bk08JzEWeC4",
+      "title": "What is an Edge-Induced Subgraph? | Graph Theory",
+      "duration": 438
+    },
+    {
+      "id": "YlJ8plSab6g",
+      "title": "What is a Walk? | Graph Theory",
+      "duration": 343
+    },
+    {
+      "id": "2ZgfZgmC9rA",
+      "title": "What is a Trail? | Graph Theory",
+      "duration": 311
+    },
+    {
+      "id": "RfC8sLCHSGE",
+      "title": "What is a Path? | Graph Theory",
+      "duration": 367
+    },
+    {
+      "id": "728bZWwTbf8",
+      "title": "Proof: If There is a u-v Walk then there is a u-v Path | Every Walk Contains a Path, Graph Theory",
+      "duration": 462
+    },
+    {
+      "id": "_YvlvSO7RBQ",
+      "title": "What is a Circuit? | Graph Theory",
+      "duration": 256
+    },
+    {
+      "id": "Cte3zFJ59Nk",
+      "title": "What is a Graph Cycle? | Graph Theory, Cycles, Cyclic Graphs, Simple Cycles",
+      "duration": 435
+    },
+    {
+      "id": "iytLv007ptU",
+      "title": "Connected and Disconnected Graphs | Graph Theory",
+      "duration": 952
+    },
+    {
+      "id": "iwTUQp23298",
+      "title": "What are Connected Vertices? | Graph Theory",
+      "duration": 189
+    },
+    {
+      "id": "z9cTXaLG1kk",
+      "title": "What are Connected Graphs? | Graph Theory",
+      "duration": 336
+    },
+    {
+      "id": "I4RZyRxEA50",
+      "title": "Connection as an Equivalence Relation | Graph Theory",
+      "duration": 279
+    },
+    {
+      "id": "q6pKCP1W0dk",
+      "title": "What is a Component of a Graph? | Connected Components, Graph Theory",
+      "duration": 317
+    },
+    {
+      "id": "xzESVEAPICM",
+      "title": "Explaining Components of Graphs | Graph Theory",
+      "duration": 485
+    },
+    {
+      "id": "-6CQSOUZoAk",
+      "title": "Graphs Have at Least n-m Components | Graph Theory",
+      "duration": 340
+    },
+    {
+      "id": "u-YBtV6l5yk",
+      "title": "Size and Degree from Vertex Deleted Subgraphs | Graph Theory",
+      "duration": 305
+    },
+    {
+      "id": "lLisTt6TObM",
+      "title": "Distance, Diameter, and Geodesics | Graph Theory",
+      "duration": 823
+    },
+    {
+      "id": "ZmakwnZv-qo",
+      "title": "Distance Between Two Vertices in Graphs | Graph Theory",
+      "duration": 560
+    },
+    {
+      "id": "-C1IhqXb3Ug",
+      "title": "What are Geodesics? | Graph Theory",
+      "duration": 262
+    },
+    {
+      "id": "CwMCWQtNhtY",
+      "title": "Diameter of a Graph | Graph Theory",
+      "duration": 480
+    },
+    {
+      "id": "9DYMIX_wGsU",
+      "title": "Proof: Connected Graph Contains Two Non-Cut Vertices | Graph Theory, Connected Graphs",
+      "duration": 679
+    },
+    {
+      "id": "HBgnk8A4VHI",
+      "title": "What is a Path Graph? | Graph Theory",
+      "duration": 337
+    },
+    {
+      "id": "tcCoQySN7Xs",
+      "title": "What are Cycle Graphs? | Graph Theory, Graph Cycles, Cyclic Graphs",
+      "duration": 292
+    },
+    {
+      "id": "egz_cP6vbIc",
+      "title": "What is a Complete Graph? | Graph Theory",
+      "duration": 234
+    },
+    {
+      "id": "x1J08x9OeZ8",
+      "title": "Number of Edges in a Complete Graph (Using Combinations) | Graph Theory, Combinatorics",
+      "duration": 471
+    },
+    {
+      "id": "JDNRIDv6yTE",
+      "title": "How Many Graphs on n Vertices? | Graph Theory",
+      "duration": 334
+    },
+    {
+      "id": "1HNVZ6nNw8w",
+      "title": "What is the Complement of a Graph? | Graph Theory, Graph Complements, Self Complementary Graphs",
+      "duration": 374
+    },
+    {
+      "id": "ocGOL9QScS4",
+      "title": "Proof: A Graph or its Complement Must be Connected | Graph Theory, Graph Complements",
+      "duration": 404
+    },
+    {
+      "id": "HqlUbSA9cEY",
+      "title": "What is a Bipartite Graph? | Graph Theory",
+      "duration": 317
+    },
+    {
+      "id": "KRDDuntLiHU",
+      "title": "Proof: Closed Odd Walk contains Odd Cycle | Graph Theory",
+      "duration": 500
+    },
+    {
+      "id": "xQcCXSFVSks",
+      "title": "Proof: Bipartite Graphs have no Odd Cycles | Graph Theory, Bipartite Theorem, Proofs",
+      "duration": 418
+    },
+    {
+      "id": "_TIqhvDR8DQ",
+      "title": "Proof: If a Graph has no Odd Cycles then it is Bipartite | Graph Theory, Bipartite Theorem",
+      "duration": 1205
+    },
+    {
+      "id": "bZBmN7I7GNQ",
+      "title": "How to Tell if Graph is Bipartite (by hand) | Graph Theory",
+      "duration": 535
+    },
+    {
+      "id": "iKeA1c-bdXM",
+      "title": "What are Complete Bipartite Graphs? | Graph Theory, Bipartite Graphs",
+      "duration": 475
+    },
+    {
+      "id": "5CA_RliXe5M",
+      "title": "Intro to Hypercube Graphs (n-cube or k-cube graphs) | Graph Theory, Hypercube Graph",
+      "duration": 522
+    },
+    {
+      "id": "-k-MeT_9ido",
+      "title": "Overview of Loops in Graph Theory | Graph Loop, Multigraphs, Pseudographs",
+      "duration": 397
+    },
+    {
+      "id": "mXoiHgH4mEE",
+      "title": "Intro to Directed Graphs | Digraph Theory",
+      "duration": 822
+    },
+    {
+      "id": "Vyw_x_cgSH0",
+      "title": "Parallel Edges in Multigraphs and Digraphs | Graph Theory, Multiple Edges, Multisets",
+      "duration": 1033
+    },
+    {
+      "id": "C4s5j2-Hos4",
+      "title": "What is the Degree of a Vertex? | Graph Theory",
+      "duration": 386
+    },
+    {
+      "id": "4Kc2EqdLO4w",
+      "title": "Neighborhood of a Vertex | Open and Closed Neighborhoods, Graph Theory",
+      "duration": 517
+    },
+    {
+      "id": "cZPy65LX_Mo",
+      "title": "The First Theorem of Graph Theory | Graph Theory",
+      "duration": 324
+    },
+    {
+      "id": "M9rM0FADP-Q",
+      "title": "Proof: Every Graph has an Even Number of Odd Degree Vertices | Graph Theory",
+      "duration": 412
+    },
+    {
+      "id": "tXtRez34JIc",
+      "title": "Proof: Degree Sum Condition for Connected Graphs | Connected Graphs, Nonadjacent Vertices",
+      "duration": 374
+    },
+    {
+      "id": "1tH8VKKmxc0",
+      "title": "Proof: Minimum Degree Condition for Connected Graphs | Graph Theory",
+      "duration": 446
+    },
+    {
+      "id": "qHLXZCxoUdE",
+      "title": "What are Regular Graphs? | Graph Theory",
+      "duration": 292
+    },
+    {
+      "id": "O79Lp48XLR0",
+      "title": "What are Cubic Graphs? | Graph Theory",
+      "duration": 188
+    },
+    {
+      "id": "qMNzScawX44",
+      "title": "Simple Definition of Petersen Graph | Graph Theory",
+      "duration": 662
+    },
+    {
+      "id": "h5zclOOuqsE",
+      "title": "Degree Sequence of a Graph | Graph Theory, Graphical Sequences",
+      "duration": 526
+    },
+    {
+      "id": "DSA8EwrNk54",
+      "title": "Which Sequences are Graphical? (Degree Sequences and Havel-Hakimi algorithm) | Graph Theory",
+      "duration": 765
+    },
+    {
+      "id": "YOTOgVF--gc",
+      "title": "What are Irregular Graphs? (and why they are boring) | Graph Theory",
+      "duration": 478
+    },
+    {
+      "id": "EwV4Puk2coU",
+      "title": "What are Isomorphic Graphs? | Graph Isomorphism, Graph Theory",
+      "duration": 741
+    },
+    {
+      "id": "b7HHyhBboKk",
+      "title": "Isomorphic Graphs Have the Same Degree Sequence | Graph Theory",
+      "duration": 494
+    },
+    {
+      "id": "gJmVClaIeUI",
+      "title": "Graph Automorphisms and Vertex Transitive Graphs | Graph Theory",
+      "duration": 999
+    },
+    {
+      "id": "NwDbWcye-aQ",
+      "title": "Edge Subtraction and Bridges in Graphs | Graph Theory, Edge Deletion",
+      "duration": 343
+    },
+    {
+      "id": "zj_aFVuUATM",
+      "title": "What are Bridges of Graphs? | Graph Theory, Edge Deletion",
+      "duration": 479
+    },
+    {
+      "id": "lST8mLny9pk",
+      "title": "Proof: An Edge is a Bridge iff it Lies on No Cycles | Graph Theory",
+      "duration": 739
+    },
+    {
+      "id": "tVuEZakQxhQ",
+      "title": "Intro to Tree Graphs | Trees in Graph Theory, Equivalent Definitions",
+      "duration": 638
+    },
+    {
+      "id": "mULsT4CMwYc",
+      "title": "Proof: Graph is a Tree iff Unique Paths for Each Vertex Pair | Graph Theory, Tree Graphs",
+      "duration": 560
+    },
+    {
+      "id": "ahxThTOi8Jw",
+      "title": "Proof: Tree Graphs Have at Least Two End Vertices | Graph Theory",
+      "duration": 512
+    },
+    {
+      "id": "_Hbq_dV8enw",
+      "title": "Proof: Tree Graph of Order n Has Size n-1 | Graph Theory",
+      "duration": 399
+    },
+    {
+      "id": "VOxgZGyK-jY",
+      "title": "Proof: Forest Graphs have n-k Edges | Graph Theory",
+      "duration": 369
+    },
+    {
+      "id": "vmrUr2fCsN0",
+      "title": "Proof: Connected Graph of Order n Has at least n-1 Edges | Graph Theory",
+      "duration": 523
+    },
+    {
+      "id": "-Ca_uP_wRp4",
+      "title": "Proof: Every Connected Graph has a Spanning Tree | Graph Theory",
+      "duration": 567
+    },
+    {
+      "id": "XFhW6vhvC64",
+      "title": "Kruskal's Algorithm for Minimum Spanning Trees (MST) | Graph Theory",
+      "duration": 350
+    },
+    {
+      "id": "AoV7ml-WzIY",
+      "title": "Prim's Algorithm for Minimum Spanning Trees (MST) | Graph Theory",
+      "duration": 692
+    },
+    {
+      "id": "S85cj409aeY",
+      "title": "Proof on Cut Vertices Incident with Bridges | Graph Theory",
+      "duration": 662
+    },
+    {
+      "id": "ONOw83i0nj4",
+      "title": "Important Theorem about Cut Vertices | Graph Theory",
+      "duration": 383
+    },
+    {
+      "id": "MWeNJBSk9GU",
+      "title": "Proof of a Characterization of Cut Vertices | Graph Theory",
+      "duration": 625
+    },
+    {
+      "id": "7Xk8vTdmSss",
+      "title": "Proof: A Furthest Vertex is not a Cut Vertex | Graph Theory, Connected Graphs",
+      "duration": 623
+    },
+    {
+      "id": "RoKg4w2BO9A",
+      "title": "What are Non-Separable Graphs? | Graph Theory",
+      "duration": 646
+    },
+    {
+      "id": "sTKGMX6bEJM",
+      "title": "Vertex Cuts in Graphs (and a bit on Connectivity) | Graph Theory",
+      "duration": 484
+    },
+    {
+      "id": "rK0zHB1WnQE",
+      "title": "Vertex Connectivity of a Graph | Graph Theory",
+      "duration": 532
+    },
+    {
+      "id": "JUrO0sAGSYg",
+      "title": "Simple Bounds on Vertex Connectivity | Graph Theory",
+      "duration": 486
+    },
+    {
+      "id": "jW-6DMjea3A",
+      "title": "Vertex Connectivity of the Petersen Graph | Graph Theory",
+      "duration": 594
+    },
+    {
+      "id": "grAiuM6tZuA",
+      "title": "Edge Cuts and Edge Connectivity | Graph Theory",
+      "duration": 576
+    },
+    {
+      "id": "BY07RH2xN-s",
+      "title": "Edge Connectivity of Complete Graphs | Graph Theory",
+      "duration": 736
+    },
+    {
+      "id": "h1_a60V51y0",
+      "title": "What are Vertex Separating Sets? | Graph Theory",
+      "duration": 552
+    },
+    {
+      "id": "kwWN4FIEyz8",
+      "title": "What are Vertex Disjoint Paths? | Graph Theory",
+      "duration": 744
+    },
+    {
+      "id": "u1BiIP0zw-c",
+      "title": "Intro to Menger's Theorem | Graph Theory, Connectivity",
+      "duration": 644
+    },
+    {
+      "id": "2rbbq-Mk-YE",
+      "title": "Proof: Menger's Theorem | Graph Theory, Connectivity",
+      "duration": 1878
+    },
+    {
+      "id": "sw79Z34v0dQ",
+      "title": "Eulerian Circuits and Eulerian Graphs | Graph Theory",
+      "duration": 463
+    },
+    {
+      "id": "qushD7bGThg",
+      "title": "Unicursal Graphs and Unicursal Lines | Semi-Eulerian Trails, Graph Theory",
+      "duration": 569
+    },
+    {
+      "id": "wC99T3aVDKQ",
+      "title": "Proof: Graph is Eulerian iff All Vertices have Even Degree | Euler Circuits, Graph Theory",
+      "duration": 1163
+    },
+    {
+      "id": "2UczS2hQLsI",
+      "title": "Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory",
+      "duration": 714
+    },
+    {
+      "id": "r0IHSXkSSGE",
+      "title": "Proof: Ore's Theorem for Hamiltonian Graphs | Sufficient Condition for Hamilton Graphs, Graph Theory",
+      "duration": 876
+    },
+    {
+      "id": "ajLFYU--hFE",
+      "title": "Proof: Necessary Component Condition for Graphs with Hamiltonian Paths | Graph Theory",
+      "duration": 1273
+    },
+    {
+      "id": "5J0aGToKucc",
+      "title": "Proof: Necessary Component Condition for Hamiltonian Graphs | Graph Theory",
+      "duration": 514
+    },
+    {
+      "id": "S7bORlkfwsA",
+      "title": "Proof: Dirac's Theorem for Hamiltonian Graphs | Hamiltonian Cycles, Graph Theory",
+      "duration": 965
+    },
+    {
+      "id": "1X5WCgYXdcU",
+      "title": "Indegree and Outdegree in Directed Graphs | Graph Theory",
+      "duration": 500
+    },
+    {
+      "id": "-hV2xORVoug",
+      "title": "In-Neighborhoods and Out-Neighborhoods in Digraphs | Graph Theory",
+      "duration": 322
+    },
+    {
+      "id": "F7H1clscmJQ",
+      "title": "Orientations of Graphs | Directed Graphs, Digraph Theory",
+      "duration": 349
+    },
+    {
+      "id": "bAI-522cgs4",
+      "title": "What are Symmetric Digraphs? | Graph Theory",
+      "duration": 292
+    },
+    {
+      "id": "hM9vvaPE4Aw",
+      "title": "First Theorem of Directed Graphs | Digraph Theory",
+      "duration": 433
+    },
+    {
+      "id": "Gf3e4TaUmyo",
+      "title": "Underlying Graphs of Digraphs | Directed Graphs, Graph Theory",
+      "duration": 438
+    },
+    {
+      "id": "GClx-saGzx0",
+      "title": "Weakly Connected Directed Graphs | Digraph Theory",
+      "duration": 322
+    },
+    {
+      "id": "2fzSEMNEXhU",
+      "title": "Strongly Connected Directed Graphs | Graph Theory",
+      "duration": 398
+    },
+    {
+      "id": "LOFAR1SIqno",
+      "title": "Intro to Tournament Graphs | Graph Theory",
+      "duration": 593
+    },
+    {
+      "id": "HsJ_qiSJH7Q",
+      "title": "Transitive Tournaments (Directed Graphs) | Graph Theory",
+      "duration": 693
+    },
+    {
+      "id": "qxyQoR-lHTU",
+      "title": "Proof: Tournament is Transitive iff it has No Cycles | Graph Theory",
+      "duration": 640
+    },
+    {
+      "id": "MyjmIGP0duY",
+      "title": "Proof for Distances from Tournament's Maximum Outdegree Vertex | Graph Theory",
+      "duration": 517
+    },
+    {
+      "id": "3J9XmZx_kfM",
+      "title": "Proof: Every Tournament has Hamiltonian Path | Graph Theory",
+      "duration": 479
+    },
+    {
+      "id": "JoaF7zUoo-4",
+      "title": "Proof: Vertices of Strong Tournament Lie on Triangles | Graph Theory",
+      "duration": 452
+    },
+    {
+      "id": "chdr2aj4FUc",
+      "title": "Matchings, Perfect Matchings, Maximum Matchings, and More! | Graph Theory",
+      "duration": 1081
+    },
+    {
+      "id": "9dUwJQ2CGSY",
+      "title": "Perfect Matchings on Complete Graphs | Graph Theory",
+      "duration": 416
+    },
+    {
+      "id": "Ihr6gMx7b9c",
+      "title": "Hall's Theorem and Condition for Bipartite Matchings | Graph Theory",
+      "duration": 925
+    },
+    {
+      "id": "4tu-H4ES0fk",
+      "title": "Proof: Hall's Marriage Theorem for Bipartite Matchings | Graph Theory",
+      "duration": 2353
+    },
+    {
+      "id": "73u0OQCR2rs",
+      "title": "Proof: Regular Bipartite Graph is Balanced | Graph Theory",
+      "duration": 343
+    },
+    {
+      "id": "f9VTbSCBq0Y",
+      "title": "Proof: Regular Bipartite Graph has a Perfect Matching | Graph Theory",
+      "duration": 444
+    },
+    {
+      "id": "7HiUndJKfEQ",
+      "title": "Edge Covers and Edge Covering Numbers of Graphs | Graph Theory",
+      "duration": 465
+    },
+    {
+      "id": "0stavxEccvE",
+      "title": "Independent Vertex Sets and Independence Numbers | Graph Theory",
+      "duration": 420
+    },
+    {
+      "id": "1KkT7y8nxH0",
+      "title": "Vertex Covers and Vertex Covering Numbers | Graph Theory",
+      "duration": 933
+    },
+    {
+      "id": "Sl85juLEHBE",
+      "title": "Complement of Vertex Cover is Independent Vertex Set | Graph Theory",
+      "duration": 309
+    },
+    {
+      "id": "e0nls0SLwjE",
+      "title": "Complement of Independent Set is Vertex Cover | Graph Theory",
+      "duration": 515
+    },
+    {
+      "id": "BiLjdZYj_RI",
+      "title": "What are Graph Decompositions? | Graph Decomposition, Graph Theory",
+      "duration": 403
+    },
+    {
+      "id": "LSkB6jR44aE",
+      "title": "What are Planar Graphs? | Graph Theory",
+      "duration": 1043
+    },
+    {
+      "id": "KSbF0jtBNSw",
+      "title": "Proof: Euler's Formula for Plane Graphs | Graph Theory",
+      "duration": 955
+    },
+    {
+      "id": "3LYb3k-Huoo",
+      "title": "Proof: Upper Bound for the Size of Planar Graphs | Graph Theory",
+      "duration": 975
+    },
+    {
+      "id": "sYOxBNyd9Ok",
+      "title": "Every Planar Graph has a Vertex of Degree 5 or Less | Graph Theory",
+      "duration": 357
+    },
+    {
+      "id": "9XpCvQWQbOs",
+      "title": "Which Complete Graphs are Planar? | Graph Theory",
+      "duration": 449
+    },
+    {
+      "id": "S9ShVhM09ew",
+      "title": "Edges that Lie on One Boundary of a Region in a Plane Graph | Graph Theory",
+      "duration": 514
+    },
+    {
+      "id": "bz7FlH_H37I",
+      "title": "Degree of a Face in a Plane Graph | Graph Theory",
+      "duration": 671
+    },
+    {
+      "id": "3VeQhNF5-rE",
+      "title": "Vertex Colorings and the Chromatic Number of Graphs | Graph Theory",
+      "duration": 803
+    },
+    {
+      "id": "XT_K_dAox5Q",
+      "title": "Chromatic Number of Bipartite Graphs | Graph Theory",
+      "duration": 440
+    },
+    {
+      "id": "QUCRzz7Pows",
+      "title": "Chromatic Number of Complete Graphs | Graph Theory",
+      "duration": 425
+    },
+    {
+      "id": "nBrFC0STApo",
+      "title": "What is a Clique? | Graph Theory, Cliques",
+      "duration": 443
+    },
+    {
+      "id": "asfhdFJaGQQ",
+      "title": "Does Chromatic Number n Imply Clique on n Vertices? | Graph Theory",
+      "duration": 643
+    },
+    {
+      "id": "X2B_J1ajsIY",
+      "title": "Edge Colorings and Chromatic Index of Graphs | Graph Theory",
+      "duration": 898
+    },
+    {
+      "id": "8Je5E8D1itA",
+      "title": "Subtracting a Vertex from a Graph (Vertex Deletion) | Graph Theory",
+      "duration": 313
+    },
+    {
+      "id": "dYJcfVCGft8",
+      "title": "What are Star Graphs? | Graph Theory",
+      "duration": 300
+    },
+    {
+      "id": "OeoZtch878w",
+      "title": "What is a Highly Irregular Graph? | Locally Irregular Graph, Graph Theory",
+      "duration": 440
+    },
+    {
+      "id": "7AhHGp7EzZ8",
+      "title": "Graph Representation with an Adjacency Matrix | Graph Theory, Adjaceny Matrices",
+      "duration": 298
+    },
+    {
+      "id": "gjRcTH2p65c",
+      "title": "What is a Maximal Clique? | Graph Theory, Cliques, Maximal Cliques",
+      "duration": 438
+    },
+    {
+      "id": "s9JoNrPzN9Q",
+      "title": "A Proof on Hamiltonian Complete Bipartite Graphs | Graph Theory, Hamiltonian Graphs",
+      "duration": 575
+    },
+    {
+      "id": "RJvy8lId6nw",
+      "title": "Maximum and Maximal Cliques | Graph Theory, Clique Number",
+      "duration": 567
+    },
+    {
+      "id": "eps92JzPpEw",
+      "title": "Proof: Non-Regular Graph has Adjacent Vertices with Distinct Degrees | Connected Graphs",
+      "duration": 531
+    },
+    {
+      "id": "Tw-oInUejrA",
+      "title": "Proof: Two Longest Paths Have a Common Vertex | Graph Theory, Connected Graphs",
+      "duration": 1030
+    },
+    {
+      "id": "YwrLc0FP1rg",
+      "title": "Proof: A Graph or its Complement is not Bipartite | Graph Theory, Bipartite Graphs",
+      "duration": 593
+    },
+    {
+      "id": "vnbBofLN3FA",
+      "title": "Proof: Graph with all Even Degree Vertices has no Bridges | Graph Theory",
+      "duration": 358
+    },
+    {
+      "id": "9jDQGhWjwgo",
+      "title": "Proof: Complement of Regular Non-Eulerian Graph is Eulerian | Graph Theory, Euler Graphs",
+      "duration": 490
+    },
+    {
+      "id": "oendoBf4fQM",
+      "title": "Minimum and Maximum Degree Vertices in Complement Graphs | Graph Complements, Graph Theory",
+      "duration": 508
+    },
+    {
+      "id": "Nfy8jaSY4lg",
+      "title": "Bound on the Sum of Minimum Degrees of Graphs and their Complements | Graph Theory Proofs",
+      "duration": 386
+    },
+    {
+      "id": "B0f9mw2UwJc",
+      "title": "Proof: Connected Graph with a Bridge must have a Cut Vertex | Graph Theory",
+      "duration": 335
+    },
+    {
+      "id": "MIB1RxbjvnM",
+      "title": "Proof: Cut Vertex is not a Cut Vertex of the Complement Graph | Graph Theory",
+      "duration": 544
+    },
+    {
+      "id": "ESgQnbHTj7c",
+      "title": "Resolving Sets and Metric Dimension of Graphs | Graph Theory",
+      "duration": 1092
+    },
+    {
+      "id": "WTzpaSxHAys",
+      "title": "What are the Maximum and Maximal Cliques of this Graph? | Graph Theory",
+      "duration": 676
+    },
+    {
+      "id": "Zk7yRKJ60XE",
+      "title": "Bipartite Graphs with Isolated Vertices | Graph Theory, Complete Bipartite Graphs",
+      "duration": 572
+    },
+    {
+      "id": "D1ZQAKnzXa4",
+      "title": "Proof: Graph with n Vertices and n-1 Edges is a Tree | Graph Theory",
+      "duration": 704
+    },
+    {
+      "id": "02zeMA3Ss8w",
+      "title": "Proof: A Bridge is the Unique Path connecting its End Vertices | Graph Theory",
+      "duration": 665
+    },
+    {
+      "id": "CZ1tsR2u81g",
+      "title": "Proof: Every Edge of a Tree is a Bridge | Graph Theory",
+      "duration": 419
+    },
+    {
+      "id": "7bBTpSVa9tc",
+      "title": "Proof: Every Graph Contains Minimum Degree Length Path | Graph Theory",
+      "duration": 322
+    },
+    {
+      "id": "-8QRcpbI6J8",
+      "title": "Proof: Graph has a Cycle Longer than its Minimum Degree | Graph Theory",
+      "duration": 593
+    },
+    {
+      "id": "hpqvQ9rnYZU",
+      "title": "Graphs are Metric Spaces | Graph Theory",
+      "duration": 389
+    },
+    {
+      "id": "SumKq0Jx1L0",
+      "title": "Eccentricity of a Vertex | Graph Theory",
+      "duration": 344
+    },
+    {
+      "id": "CTuCMcJ7xT4",
+      "title": "Diameter and Radius of Graphs | Graph Theory",
+      "duration": 570
+    },
+    {
+      "id": "7Qd484yl7UI",
+      "title": "Graph Diameter is Bounded by Radius | Graph Theory",
+      "duration": 305
+    },
+    {
+      "id": "04x5aGu6Oew",
+      "title": "Diameter and Radius of Tree Graphs | Graph Theory",
+      "duration": 521
+    },
+    {
+      "id": "VhvnWIUMxCY",
+      "title": "Eccentricities of Adjacent Vertices Differ by at Most 1 | Graph Theory",
+      "duration": 409
+    },
+    {
+      "id": "Lg2t1xY6Cbo",
+      "title": "Dominating Sets and Domination Number of Graphs | Graph Theory",
+      "duration": 491
+    }
+  ]
+}

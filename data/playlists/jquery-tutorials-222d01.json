@@ -1,0 +1,70 @@
+{
+  "courseId": "jquery-tutorials-222d01",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0eyrZgxdwhy7byLHsVkuhtRV_IpoJU7n",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:49.324Z",
+  "title": "jQuery Tutorials",
+  "channel": "Dani Krossing",
+  "videos": [
+    {
+      "id": "BaIgTKj1iCQ",
+      "title": "1: How to Get Started With | jQuery Tutorial | Learn jQuery | jQuery Tutorial For Beginners",
+      "duration": 239
+    },
+    {
+      "id": "EwUOsRlDTLQ",
+      "title": "2: How to add jQuery to your website | Learn jQuery | jQuery tutorial",
+      "duration": 278
+    },
+    {
+      "id": "9TwYaSnb2GI",
+      "title": "3: jQuery syntax and differences from JavaScript - Learn jQuery front-end programming",
+      "duration": 555
+    },
+    {
+      "id": "9bCrSoSNp_w",
+      "title": "4: How to use events in jQuery - Learn jQuery front-end programming",
+      "duration": 292
+    },
+    {
+      "id": "6HWaZIfUZVg",
+      "title": "5: How to make elements appear and disappear in jQuery - Learn jQuery front-end programming",
+      "duration": 749
+    },
+    {
+      "id": "EjAp2uC8JXE",
+      "title": "6: How to make slide effects in jQuery - Learn jQuery front-end programming",
+      "duration": 346
+    },
+    {
+      "id": "fW7rwCpD0FY",
+      "title": "7: How to animate elements using jQuery - Learn jQuery front-end programming",
+      "duration": 651
+    },
+    {
+      "id": "J44Hik3q5zg",
+      "title": "8: How to stop effects in jQuery - Learn jQuery front-end programming",
+      "duration": 331
+    },
+    {
+      "id": "iYpAEthzjtw",
+      "title": "9: Animated scroll to a section on page load - Learn jQuery front-end programming",
+      "duration": 894
+    },
+    {
+      "id": "p7bOGJ-UdOk",
+      "title": "10: How to Show Password In Input Using jQuery | jQuery Tutorial | Learn jQuery | jQuery Library",
+      "duration": 428
+    },
+    {
+      "id": "TERbWf4V2K0",
+      "title": "11: Get and set DOM using jQuery | jQuery Tutorial | Learn jQuery | jQuery Library",
+      "duration": 518
+    },
+    {
+      "id": "EWIbOK6ymKE",
+      "title": "12: Append Content Using jQuery | jQuery Tutorial | Learn jQuery | jQuery Library | jQuery Append",
+      "duration": 373
+    }
+  ]
+}

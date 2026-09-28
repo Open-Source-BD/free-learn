@@ -1,0 +1,75 @@
+{
+  "courseId": "terraform-zero-to-hero-404f6b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:34.304Z",
+  "title": "Terraform Zero to Hero",
+  "channel": "Abhishek.Veeramalla",
+  "videos": [
+    {
+      "id": "fgp-t5SqQmM",
+      "title": "Day-1 | Terraform Zero to Hero | Getting Started with Terraform | #abhishekveeramalla #terraform",
+      "duration": 3598
+    },
+    {
+      "id": "w-iMDg5fh20",
+      "title": "Day-2 | Providers, Multi Region, Multi Cloud, Variables & Conditions #terraform #abhishekveeramalla",
+      "duration": 2504
+    },
+    {
+      "id": "xBWmBPVTums",
+      "title": "Day-3 | Terraform Modules | Write your First Module | #terraform #abhishekveeramalla",
+      "duration": 2990
+    },
+    {
+      "id": "UhNpn7lVRBY",
+      "title": "Day-4 | Terraform State DeepDive | Remote Backend | State Locking #abhishekveeramalla #terraform",
+      "duration": 3031
+    },
+    {
+      "id": "JEDp4orr_K8",
+      "title": "Day-5 | Most Common Terraform Task Used in Real-Time | #devops  #abhishekveeramalla #terraform",
+      "duration": 2383
+    },
+    {
+      "id": "5NJfIsMldA8",
+      "title": "Day-6 | Terraform Workspaces Demo | Dev - QA - Stage | #terraform #abhishekveeramalla #terraform",
+      "duration": 2543
+    },
+    {
+      "id": "sIkRK33AY50",
+      "title": "Day-7 | Terraform Vault Integration | Secrets Management | #terraform #abhishekveeramalla",
+      "duration": 2568
+    },
+    {
+      "id": "-4IMy5ihiiU",
+      "title": "Day-8 | Most Asked Interview Scenarios | #terraform #abhishekveeramalla",
+      "duration": 1367
+    },
+    {
+      "id": "Koabqyopqns",
+      "title": "Day-24 | TERRAFORM WITH AWS PROJECT  | @cloudchamp  | AWS REAL TIME PROJECT #aws",
+      "duration": 5243
+    },
+    {
+      "id": "_BTpd2oYafM",
+      "title": "Create EKS Cluster with VPC using Terraform | Real Time Terraform Modules Implementation",
+      "duration": 2972
+    },
+    {
+      "id": "dX-sbUs9Sk0",
+      "title": "Terraform in 1 video | Learn every concept with Demo | Notes in GitHub | #abhishekveeramalla",
+      "duration": 19634
+    },
+    {
+      "id": "DQUUi87AEtM",
+      "title": "Terraform + Ansible End to End Demo | Best way to use Terraform + Ansible in Realtime",
+      "duration": 2304
+    },
+    {
+      "id": "zvyrbcufd6M",
+      "title": "How to choose the best IaC platform for your organisation ?",
+      "duration": 1072
+    }
+  ]
+}

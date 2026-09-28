@@ -1,0 +1,40 @@
+{
+  "courseId": "kotlin-tutorial-kotlin-at-light-speed-ad43f2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmtsMNDRU0BwGCBDIKKQNLYycRTnQzMfp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:33.734Z",
+  "title": "Kotlin Tutorial - Kotlin at Light Speed",
+  "channel": "Rock the JVM",
+  "videos": [
+    {
+      "id": "7aLlv87l2O4",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 1: Getting started",
+      "duration": 437
+    },
+    {
+      "id": "hsQgITdGI7A",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 2: Syntax, Expressions, Control Flow",
+      "duration": 1395
+    },
+    {
+      "id": "mpkDYV3WbJI",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 3 - Object-Oriented Programming in Kotlin",
+      "duration": 1873
+    },
+    {
+      "id": "NI8z1W9qgoE",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 4 - Collections Standard Library",
+      "duration": 916
+    },
+    {
+      "id": "OdaBlaIpkIw",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 5 - Functional Programming in Kotlin",
+      "duration": 991
+    },
+    {
+      "id": "iciZcJr2v2Q",
+      "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 6 - Nullables, Special Methods, Extensions",
+      "duration": 916
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "courseId": "try-django-3-2-python-web-development-tutorial-series-b3f8fa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:39.965Z",
+  "title": "Try Django 3.2 - Python Web Development Tutorial Series",
+  "channel": "CodingEntrepreneurs",
+  "videos": [
+    {
+      "id": "SlHBNXW1rTk",
+      "title": "1 - Welcome to Try Django 3.2 - Python & Django 3.2 Tutorial Series",
+      "duration": 193
+    },
+    {
+      "id": "zf1sDqym8ik",
+      "title": "2 - Demo after 73 Parts - Python & Django 3.2 Tutorial Series",
+      "duration": 457
+    },
+    {
+      "id": "GsIGdRaUjck",
+      "title": "3 - Requirements - Python & Django 3.2 Tutorial Series",
+      "duration": 198
+    },
+    {
+      "id": "PS903MeNDJk",
+      "title": "4 - Python & Python Virtual Environment Setup on macOS - Python & Django 3.2 Tutorial Series",
+      "duration": 1173
+    },
+    {
+      "id": "5agh7ucYKB4",
+      "title": "5 - Python & Python Virtual Environments Setup on Windows - Python & Django 3.2 Tutorial Series",
+      "duration": 1237
+    },
+    {
+      "id": "BAoDdYNKlAw",
+      "title": "6 - Setup a Django Project- Python & Django 3.2 Tutorial Series",
+      "duration": 975
+    },
+    {
+      "id": "Wfu5dPbiyKA",
+      "title": "7 - Setup Django on VS Code - Python & Django 3.2 Tutorial Series",
+      "duration": 643
+    },
+    {
+      "id": "NsvlsLOgXlY",
+      "title": "8 - Databases & Web Pages - Python & Django 3.2 Tutorial Series",
+      "duration": 256
+    },
+    {
+      "id": "zgQ4WFGMgRM",
+      "title": "9 - Open, Activate, & Run Dev Server - Python & Django 3.2 Tutorial Series",
+      "duration": 432
+    },
+    {
+      "id": "znbdYZU-zRE",
+      "title": "10 - Your first web page - Python & Django 3.2 Tutorial Series",
+      "duration": 390
+    },
+    {
+      "id": "kd_c99cU0SM",
+      "title": "11 - Handling a url route - Python & Django 3.2 Tutorial Series",
+      "duration": 350
+    },
+    {
+      "id": "IhbTOlGWT_0",
+      "title": "12 - Enriching a View with Data - Python & Django 3.2 Tutorial Series",
+      "duration": 253
+    },
+    {
+      "id": "nuwa-9Uuw3E",
+      "title": "13 - Our first database model - Python & Django 3.2 Tutorial Series",
+      "duration": 426
+    },
+    {
+      "id": "D5OKz6aYWr4",
+      "title": "14 - INSTALLED_APPS & Migrations - Python & Django 3.2 Tutorial Series",
+      "duration": 522
+    },
+    {
+      "id": "YrzMigmLFD8",
+      "title": "15 - Writing & Reading data in Python Shell - Python & Django 3.2 Tutorial Series",
+      "duration": 469
+    },
+    {
+      "id": "CLpUSFKrXw0",
+      "title": "16 - Rendering Data from our Database in a View - Python & Django 3.2 Tutorial Series",
+      "duration": 269
+    },
+    {
+      "id": "4uNeO5Hw9FE",
+      "title": "17 - Django Templates Basics - Python & Django 3.2 Tutorial Series",
+      "duration": 1057
+    },
+    {
+      "id": "YSlCrUZGnN0",
+      "title": "18 - Listing Data in Views & Templates - Python & Django 3.2 Tutorial Series",
+      "duration": 769
+    },
+    {
+      "id": "SZgcwhLTK_k",
+      "title": "19 - Dynamic URL Routing - Python & Django 3.2 Tutorial Series",
+      "duration": 970
+    },
+    {
+      "id": "Y2oDKZ7tqn4",
+      "title": "20 - Super Users, Staff Users & the Django Admin - Python & Django 3.2 Tutorial Series",
+      "duration": 344
+    },
+    {
+      "id": "d1kU_rXX-pA",
+      "title": "21 - Register Model in the Admin - Python & Django 3.2 Tutorial Series",
+      "duration": 197
+    },
+    {
+      "id": "Nz5F60OxOKI",
+      "title": "22 - Search Form & Request Data - Python & Django 3.2 Tutorial Series",
+      "duration": 1044
+    },
+    {
+      "id": "I1XHYphBLKg",
+      "title": "23 - Basic HTML Form in Django - Python & Django 3.2 Tutorial Series",
+      "duration": 992
+    },
+    {
+      "id": "Pc4SF7bSkMs",
+      "title": "24 - Create a Login View to Authenticate Users - Python & Django 3.2 Tutorial Series",
+      "duration": 949
+    },
+    {
+      "id": "66abhpAxMgQ",
+      "title": "25 - Django Logout View - Python & Django 3.2 Tutorial Series",
+      "duration": 380
+    },
+    {
+      "id": "ws811svYIKo",
+      "title": "26 - Creating a User Required - Python & Django 3.2 Tutorial Series",
+      "duration": 350
+    },
+    {
+      "id": "QEhmd_hnjKU",
+      "title": "27 - Basic Django Forms - Python & Django 3.2 Tutorial Series",
+      "duration": 1254
+    },
+    {
+      "id": "rKXVuG4axTg",
+      "title": "28 - Model Form for Article Model - Python & Django 3.2 Tutorial Series",
+      "duration": 688
+    },
+    {
+      "id": "j5ejoA5eenQ",
+      "title": "29 - Register a User via built in Model Form - Python & Django 3.2 Tutorial Series",
+      "duration": 355
+    },
+    {
+      "id": "FBkeVk6km3U",
+      "title": "30 - Login via Django AuthenticationForm - Python & Django 3.2 Tutorial Series",
+      "duration": 332
+    },
+    {
+      "id": "rKiLd40HIjc",
+      "title": "31 - Environment Variables & dotenv - Python & Django 3.2 Tutorial Series",
+      "duration": 898
+    },
+    {
+      "id": "M9aCNYM_4vQ",
+      "title": "32 - Prepare Django for DigitalOcean App Platform - Python & Django 3.2 Tutorial Series",
+      "duration": 506
+    },
+    {
+      "id": "o7mwGmPq51Y",
+      "title": "33 - Managing Code with Git & Github - Python & Django 3.2 Tutorial Series",
+      "duration": 1969
+    },
+    {
+      "id": "FjWbMNw6Wk0",
+      "title": "34 - Deploy Django to Digital Ocean App Platform - Python & Django 3.2 Tutorial Series",
+      "duration": 2969
+    },
+    {
+      "id": "6I_haJimhPY",
+      "title": "35 - Automated Test Basics - Python & Django 3.2 Tutorial Series",
+      "duration": 988
+    },
+    {
+      "id": "Iw7xG92YDZA",
+      "title": "36 - Making Changes to Models & Fields - Python & Django 3.2 Tutorial Series",
+      "duration": 1149
+    },
+    {
+      "id": "fHImRsDaP0M",
+      "title": "37 - SlugField & Override Save Method - Python & Django 3.2 Tutorial Series",
+      "duration": 450
+    },
+    {
+      "id": "yD33eKfAOg8",
+      "title": "38 - Django pre save & post save signals - Python & Django 3.2 Tutorial Series",
+      "duration": 450
+    },
+    {
+      "id": "W1Kp7GP0950",
+      "title": "39 - Django QuerySets & Lookups - Python & Django 3.2 Tutorial Series",
+      "duration": 737
+    },
+    {
+      "id": "iWie_2I1_9M",
+      "title": "40 - Auto Generate Slugs with Recursion - Python & Django 3.2 Tutorial Series",
+      "duration": 718
+    },
+    {
+      "id": "tI8E_26y5kY",
+      "title": "41 - Testing Article Model Part 1 - Python & Django 3.2 Tutorial Series",
+      "duration": 640
+    },
+    {
+      "id": "tQrGR7a-lMU",
+      "title": "42 - Testing Article Model Part 2 - Python & Django 3.2 Tutorial Series",
+      "duration": 567
+    },
+    {
+      "id": "Nlq5GQkNWUs",
+      "title": "43 - Slugs in Dynamic Urls - Python & Django 3.2 Tutorial Series",
+      "duration": 342
+    },
+    {
+      "id": "b42B-xli-vQ",
+      "title": "44 - get absolute url - Python & Django 3.2 Tutorial Series",
+      "duration": 161
+    },
+    {
+      "id": "rm2YTMc2s10",
+      "title": "45 - Django URLs Reverse - Python & Django 3.2 Tutorial Series",
+      "duration": 412
+    },
+    {
+      "id": "H_EWDGvo99s",
+      "title": "46 - Complex Search using Django Q Lookups - Python & Django 3.2 Tutorial Series",
+      "duration": 506
+    },
+    {
+      "id": "3qViDQ6SUC8",
+      "title": "47 - Model Managers & Custom QuerySets for Search - Python & Django 3.2 Tutorial Series",
+      "duration": 474
+    },
+    {
+      "id": "zhBWSmlaXf0",
+      "title": "48 - Test Article Search Manager - Python & Django 3.2 Tutorial Series",
+      "duration": 136
+    },
+    {
+      "id": "3VTeia-AoLo",
+      "title": "49 - Basic Data Connection with Foreign Keys - Python & Django 3.2 Tutorial Series",
+      "duration": 431
+    },
+    {
+      "id": "dxbv_S12QLY",
+      "title": "50 - User Generated Content & The Recipes App - Python & Django 3.2 Tutorial Series",
+      "duration": 829
+    },
+    {
+      "id": "hpo18rVZhG4",
+      "title": "51 - Admin Inlines for Foreign Keys - Python & Django 3.2 Tutorial Series",
+      "duration": 702
+    },
+    {
+      "id": "c48rGz1EfFk",
+      "title": "52 - Understanding Relationships between Models via Tests - Python & Django 3.2 Tutorial Series",
+      "duration": 1023
+    },
+    {
+      "id": "HC3a7wfQdXo",
+      "title": "53 - Custom Validation for Unit Measurements - Python & Django 3.2 Tutorial Series",
+      "duration": 559
+    },
+    {
+      "id": "HvTvw4EudpY",
+      "title": "54 - Test Custom Model Validation Exception - Python & Django 3.2 Tutorial Series",
+      "duration": 380
+    },
+    {
+      "id": "cP5b7PSALcs",
+      "title": "55 - Auto Set Quantity as a Float - Python & Django 3.2 Tutorial Series",
+      "duration": 704
+    },
+    {
+      "id": "jIKPt5g9k_k",
+      "title": "56 - Use Python Pint to Convert Units - Python & Django 3.2 Tutorial Series",
+      "duration": 631
+    },
+    {
+      "id": "ncjUOq7ohrs",
+      "title": "57 - CRUD Views for Recipe Model - Python & Django 3.2 Tutorial Series",
+      "duration": 662
+    },
+    {
+      "id": "icVke1tJ6aI",
+      "title": "58 - Django urls, includes, and app name - Python & Django 3.2 Tutorial Series",
+      "duration": 595
+    },
+    {
+      "id": "aStLddXMJrk",
+      "title": "59 - CRUD Templates for the Recipes App - Python & Django 3.2 Tutorial Series",
+      "duration": 853
+    },
+    {
+      "id": "PICYTJqj__o",
+      "title": "60 - Django 2 Forms, 1 View - Python & Django 3.2 Tutorial Series",
+      "duration": 472
+    },
+    {
+      "id": "6wHx-X1tEiY",
+      "title": "61 - Manage QuerySets with Django Formsets + modelformset factory - Python & Django Tutorial Series",
+      "duration": 678
+    },
+    {
+      "id": "quJzUzCs6Q0",
+      "title": "62 - Customizing Form Fields, Widgets, Placeholders, & CSS - Python & Django 3.2 Tutorial Series",
+      "duration": 737
+    },
+    {
+      "id": "824JTxCZ3FU",
+      "title": "63 - Rendering Form Fields & More in Templates - Python & Django 3.2 Tutorial Series",
+      "duration": 676
+    },
+    {
+      "id": "s3T-w2jhDHE",
+      "title": "64 - Dynamic New Forms in a Django Formset via JavaScript - Python & Django 3.2 Tutorial Series",
+      "duration": 1707
+    },
+    {
+      "id": "h9sxlkdMTeA",
+      "title": "65 - Dynamic New Forms in Django Formset via HTMX - Python & Django 3.2 Tutorial Series",
+      "duration": 750
+    },
+    {
+      "id": "0Vh_g-iDCcA",
+      "title": "66 - HTMX, JavaScript & Django Fixtures - Python & Django 3.2 Tutorial Series",
+      "duration": 742
+    },
+    {
+      "id": "AzO7oWspZw4",
+      "title": "67 - HMTX & JavaScript Working Together - Python & Django 3.2 Tutorial Series",
+      "duration": 467
+    },
+    {
+      "id": "slg1WGOO0u0",
+      "title": "68 - The HTMX Approach to Editing QuerySets - Python & Django 3.2 Tutorial Series",
+      "duration": 1629
+    },
+    {
+      "id": "orUuVcKUPqE",
+      "title": "69 - Auto Save with HTMX & Django - Python & Django 3.2 Tutorial Series",
+      "duration": 409
+    },
+    {
+      "id": "tkQfZnt2mV8",
+      "title": "70 - HTMX Response Header - Python & Django 3.2 Tutorial Series",
+      "duration": 516
+    },
+    {
+      "id": "ggo4Vt1lbgA",
+      "title": "71 - HTMX Typeahead & Search in Django - Python & Django 3.2 Tutorial Series",
+      "duration": 1516
+    },
+    {
+      "id": "j_kG8dE4VSk",
+      "title": "72 - Model Object Delete View in Django - Python & Django 3.2 Tutorial Series",
+      "duration": 697
+    },
+    {
+      "id": "rHE4369JXEg",
+      "title": "73 - Deleting Objects with HTMX - Python & Django 3.2 Tutorial Series",
+      "duration": 891
+    },
+    {
+      "id": "QTb5fK1SiFU",
+      "title": "74 - Static Files in Development - Python & Django 3.2 Tutorial Series",
+      "duration": 998
+    },
+    {
+      "id": "AeCZvXZn5dg",
+      "title": "75 - Django Static Files in Production on DigitalOcean Spaces - Python & Django 3.2 Tutorial Series",
+      "duration": 1135
+    },
+    {
+      "id": "psOQBoAmMhA",
+      "title": "76 - Upload Images in Django Models - Python & Django 3.2 Tutorial Series",
+      "duration": 1094
+    },
+    {
+      "id": "kccMxm2pRp4",
+      "title": "77 - View for Handling File or Image Uploads - Python & Django 3.2 Tutorial Series",
+      "duration": 518
+    },
+    {
+      "id": "-8n32KdxL28",
+      "title": "78 - Uploading Files with Django & HTMX - Python & Django 3.2 Tutorial Series",
+      "duration": 491
+    },
+    {
+      "id": "SRNkJKdDJAM",
+      "title": "79 - Microservice API for Text Extraction from Uploaded Images - Python & Django 3.2 Tutorial Series",
+      "duration": 1158
+    },
+    {
+      "id": "bHN5p43zk-w",
+      "title": "80 - Deploy Django to Do App Platform via doctl CLI - Python & Django 3.2 Tutorial Series",
+      "duration": 1155
+    },
+    {
+      "id": "fxAIta6qdys",
+      "title": "81- CI & CD For Django + Github + DigitalOcean - Python & Django 3.2 Tutorial Series",
+      "duration": 1514
+    },
+    {
+      "id": "R1qzC65NLFk",
+      "title": "82 - Automating Collectstatic with Github Actions - Python & Django 3.2 Tutorial Series",
+      "duration": 1016
+    },
+    {
+      "id": "hvV1PHYN1yM",
+      "title": "83 - Parsing OCR Microservice Results - Python & Django 3.2 Tutorial Series",
+      "duration": 1105
+    },
+    {
+      "id": "ORKqTwCsNeM",
+      "title": "84 - Microservice to Database - Python & Django 3.2 Tutorial Series",
+      "duration": 1375
+    },
+    {
+      "id": "jxIHCednMO0",
+      "title": "85 - Adding Bootstrap & the tip of the Bootstrap Iceberg - Python & Django 3.2 Tutorial Series",
+      "duration": 1062
+    },
+    {
+      "id": "CqFRh2T2nfg",
+      "title": "86 - Creating the Meal Queue - Python & Django 3.2 Tutorial Series",
+      "duration": 725
+    },
+    {
+      "id": "OfjEx28ukgY",
+      "title": "87 - Toggle Recipes into Meal Queue & Test - Python & Django 3.2 Tutorial Series",
+      "duration": 878
+    },
+    {
+      "id": "alIPGkEur2c",
+      "title": "88 - Meal Queue Toggle View - Python & Django 3.2 Tutorial Series",
+      "duration": 882
+    },
+    {
+      "id": "U5cLDWtRudY",
+      "title": "89 - Calculate Meal Queue Ingredient Totals - Python & Django 3.2 Tutorial Series",
+      "duration": 621
+    },
+    {
+      "id": "TxOX_p1EWJQ",
+      "title": "90 - Calculation Function & Custom Signals - Python & Django 3.2 Tutorial Series",
+      "duration": 891
+    },
+    {
+      "id": "ZBWPz1Il-xI",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

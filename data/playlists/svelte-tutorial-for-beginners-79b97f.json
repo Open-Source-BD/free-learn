@@ -1,0 +1,180 @@
+{
+  "courseId": "svelte-tutorial-for-beginners-79b97f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:34.498Z",
+  "title": "Svelte Tutorial for Beginners",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "yG2UlXr9k9Q",
+      "title": "Svelte Tutorial - 1 - Introduction",
+      "duration": 286
+    },
+    {
+      "id": "SYWcuf-Z3mk",
+      "title": "Svelte Tutorial - 2 - Hello World",
+      "duration": 306
+    },
+    {
+      "id": "4hidc6fG2is",
+      "title": "Svelte Tutorial - 3 - Project Structure",
+      "duration": 518
+    },
+    {
+      "id": "76M2Ck0kq3Y",
+      "title": "Svelte Tutorial - 4 - Svelte Files",
+      "duration": 312
+    },
+    {
+      "id": "Ox_xoN4DFDw",
+      "title": "Svelte Tutorials - 5 - Binding Text",
+      "duration": 221
+    },
+    {
+      "id": "ak2uU5IBzPc",
+      "title": "Svelte Tutorial - 6 - Binding HTML",
+      "duration": 233
+    },
+    {
+      "id": "7OepJLrzmsc",
+      "title": "Svelte Tutorial - 7 - Binding to Attributes",
+      "duration": 224
+    },
+    {
+      "id": "VszqMLHkVRg",
+      "title": "Svelte Tutorial - 8 - Binding Classes",
+      "duration": 403
+    },
+    {
+      "id": "QqvxWXrtV2w",
+      "title": "Svelte Tutorial - 9 - Conditional Rendering",
+      "duration": 352
+    },
+    {
+      "id": "LwuSqc0u2Dc",
+      "title": "Svelte Tutorial - 10 - List Rendering",
+      "duration": 347
+    },
+    {
+      "id": "xUcbipS0rR0",
+      "title": "Svelte Tutorial - 11 - Lists and Keys",
+      "duration": 299
+    },
+    {
+      "id": "3dyQ4F41ZrQ",
+      "title": "Svelte Tutorial - 12 - Event Handling",
+      "duration": 410
+    },
+    {
+      "id": "Gl7GdAPjBcE",
+      "title": "Svelte Tutorial - 13 - Form Handling (Part 1)",
+      "duration": 701
+    },
+    {
+      "id": "v-GG4idwp8w",
+      "title": "Svelte Tutorial - 14 - Form Handling (Part 2)",
+      "duration": 610
+    },
+    {
+      "id": "3QrKr1m8U8A",
+      "title": "Svelte Tutorial - 15 - Reactive Declarations",
+      "duration": 474
+    },
+    {
+      "id": "d0FGnW6koOI",
+      "title": "Svelte Tutorial - 16 - Reactive Statements",
+      "duration": 341
+    },
+    {
+      "id": "xEPq5H8CmeY",
+      "title": "Svelte Tutorial - 17 - Components",
+      "duration": 331
+    },
+    {
+      "id": "v943IElHCeY",
+      "title": "Svelte Tutorial - 18 - Component Props",
+      "duration": 481
+    },
+    {
+      "id": "yEWplhwD6Sk",
+      "title": "Svelte Tutorial - 19 - Context API",
+      "duration": 477
+    },
+    {
+      "id": "PSk7GBTABs4",
+      "title": "Svelte Tutorial - 20 - Component Events",
+      "duration": 520
+    },
+    {
+      "id": "FfudVXYjtec",
+      "title": "Svelte Tutorial - 21 - Event Forwarding",
+      "duration": 369
+    },
+    {
+      "id": "tGsAhjVKj_c",
+      "title": "Svelte Tutorial - 22 - Slots",
+      "duration": 388
+    },
+    {
+      "id": "SOb9SXOj6eg",
+      "title": "Svelte Tutorial - 23 - Named Slots",
+      "duration": 436
+    },
+    {
+      "id": "owHPbxhgJrQ",
+      "title": "Svelte Tutorial - 24 - Slot Props",
+      "duration": 413
+    },
+    {
+      "id": "-LKBSSVc3j8",
+      "title": "Svelte Tutorial - 25 - Component Styles",
+      "duration": 264
+    },
+    {
+      "id": "3ITICCcNxOE",
+      "title": "Svelte Tutorial - 26 - Lifecycle Hooks",
+      "duration": 207
+    },
+    {
+      "id": "ynO8X0lhGdE",
+      "title": "Svelte Tutorial - 27 - HTTP Request",
+      "duration": 435
+    },
+    {
+      "id": "3_IbFiT0OaU",
+      "title": "Svelte Tutorial - 28 - this Binding",
+      "duration": 207
+    },
+    {
+      "id": "j5BSmW9SkM8",
+      "title": "Svelte Tutorial - 29 - Dynamic Components",
+      "duration": 509
+    },
+    {
+      "id": "nfv6wqm70jw",
+      "title": "Svelte Tutorial - 30 - Module Context",
+      "duration": 439
+    },
+    {
+      "id": "XQm1YEtvXao",
+      "title": "Svelte Tutorial - 31 - Stores",
+      "duration": 250
+    },
+    {
+      "id": "wo-WCsg_5tU",
+      "title": "Svelte Tutorial - 32 - Writable Stores",
+      "duration": 688
+    },
+    {
+      "id": "jZeQBRdynsE",
+      "title": "Svelte Tutorial - 33 - Readable and Derived Stores",
+      "duration": 398
+    },
+    {
+      "id": "9phWUxdBuSM",
+      "title": "Svelte Tutorial - 34 - Custom Stores",
+      "duration": 402
+    }
+  ]
+}

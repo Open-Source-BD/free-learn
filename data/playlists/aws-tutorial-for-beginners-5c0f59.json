@@ -1,0 +1,530 @@
+{
+  "courseId": "aws-tutorial-for-beginners-5c0f59",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:24.443Z",
+  "title": "Amazon AWS [2026 Updated] | AWS Tutorial Videos For Beginners | AWS Cloud Computing For Beginners | AWS Training Videos | Simplilearn",
+  "channel": "Simplilearn",
+  "videos": [
+    {
+      "id": "3XFODda6YXo",
+      "title": "AWS In 5 Minutes | What Is AWS? | AWS Tutorial For Beginners | AWS Training | Simplilearn",
+      "duration": 330
+    },
+    {
+      "id": "r4YIdn2eTm4",
+      "title": "AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Cloud Computing For Beginners | Simplilearn",
+      "duration": 552
+    },
+    {
+      "id": "EUFOW6a-_24",
+      "title": "What is AWS | What is Amazon Web Services | AWS Tutorial for Beginners | AWS Training | Simplilearn",
+      "duration": 603
+    },
+    {
+      "id": "RLd_XTyt-w8",
+      "title": "AWS Tutorial For Beginners | AWS Full Course🔥 | AWS Solutions Architect Certification | Simplilearn",
+      "duration": 21430
+    },
+    {
+      "id": "RWgW-CgdIk0",
+      "title": "Cloud Computing For Beginners | What is Cloud Computing | Cloud Computing Explained | Simplilearn",
+      "duration": 1478
+    },
+    {
+      "id": "rIk19Cn50-A",
+      "title": "AWS Tutorial for Beginners | AWS Certified Solutions Architect Tutorial | AWS Tutorial | Simplilearn",
+      "duration": 1398
+    },
+    {
+      "id": "8TlukLu11Yo",
+      "title": "AWS EC2 Tutorial For Beginners | What Is AWS EC2? | AWS EC2 Tutorial | AWS Training | Simplilearn",
+      "duration": 1337
+    },
+    {
+      "id": "Uh3bMXSLXCM",
+      "title": "Top 10 Reasons to Choose AWS | Why AWS? | AWS Services | AWS Tutorial for Beginners | Simplilearn",
+      "duration": 322
+    },
+    {
+      "id": "WRV_GIAGSQ0",
+      "title": "AWS Certification In 10 Minutes | Choosing The Right AWS Certification | AWS Training | Simplilearn",
+      "duration": 551
+    },
+    {
+      "id": "XGcoeEyt2UM",
+      "title": "AWS S3 Tutorial For Beginners | AWS S3 Bucket Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 2712
+    },
+    {
+      "id": "97q30JjEq9Y",
+      "title": "AWS Lambda Tutorial For Beginners | What is AWS Lambda? | AWS  Lambda For Beginners | Simplilearn",
+      "duration": 1061
+    },
+    {
+      "id": "fpxDGU2KdkA",
+      "title": "Amazon Virtual Private Cloud (VPC) | AWS Tutorial For Beginners | AWS Training Video | Simplilearn",
+      "duration": 3357
+    },
+    {
+      "id": "t97jZch4lMY",
+      "title": "AWS CloudFormation Tutorial | AWS CloudFormation Demo | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 2511
+    },
+    {
+      "id": "GjVFf83dcE8",
+      "title": "AWS IAM Tutorial | AWS Identity And Access Management | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 2611
+    },
+    {
+      "id": "SOV5L90oSBs",
+      "title": "AWS vs Azure - The Battle Of The Titans | AWS vs Azure Comparison | Azure vs AWS | Simplilearn",
+      "duration": 142
+    },
+    {
+      "id": "xCabPpcq8Ac",
+      "title": "AWS vs Azure | AWS vs Azure Comparison | Difference Between AWS And Azure | Simplilearn",
+      "duration": 496
+    },
+    {
+      "id": "8CzFVa4UcVI",
+      "title": "AWS vs Google Cloud | Difference Between AWS And Google Cloud | Cloud Computing | Simplilearn",
+      "duration": 518
+    },
+    {
+      "id": "nrqmYvjHHJg",
+      "title": "AWS Vs Azure Vs GCP | Amazon Web Services Vs Microsoft Azure Vs Google Cloud Platform | Simplilearn",
+      "duration": 845
+    },
+    {
+      "id": "zoypdfvcR-0",
+      "title": "Kubernetes On AWS | Kubernetes On AWS On AWS EC2 | Kubernetes Architecture | Kubernetes |Simplilearn",
+      "duration": 2391
+    },
+    {
+      "id": "x1hvK80kMmo",
+      "title": "How To Become An AWS Solutions Architect | Getting Started With AWS | How To Learn AWS | Simplilearn",
+      "duration": 617
+    },
+    {
+      "id": "3t0AP1kO0do",
+      "title": "AWS Interview Questions Part - 1 | AWS Interview Questions And Answers Part - 1 | Simplilearn",
+      "duration": 5476
+    },
+    {
+      "id": "g2Sqzp-Xlk8",
+      "title": "AWS Interview Questions Part - 2 | AWS Interview Questions And Answers Part - 2 | Simplilearn",
+      "duration": 3716
+    },
+    {
+      "id": "-2s9GzIFfTI",
+      "title": "AWS Training Video | AWS Certified Solutions Architect Training | AWS Tutorial | Simplilearn",
+      "duration": 1491
+    },
+    {
+      "id": "jnMUp2c9AzA",
+      "title": "AWS Elastic Beanstalk Tutorial | What Is AWS Elastic Beanstalk? | AWS Tutorial | Simplilearn",
+      "duration": 1737
+    },
+    {
+      "id": "46mFdtpy3NQ",
+      "title": "AWS ECS Tutorial | Amazon Elastic Container Service | AWS ECS Tutorial For Beginners | Simplilearn",
+      "duration": 2266
+    },
+    {
+      "id": "BtiS0QyiTK8",
+      "title": "AWS Route 53 | AWS Route 53 Tutorial | What Is AWS Route 53? | AWS Tutorial | Simplilearn",
+      "duration": 1607
+    },
+    {
+      "id": "xqwyBObISKI",
+      "title": "How To Become AWS Certified Cloud Practitioner | AWS Cloud Practitioner Certification | Simplilearn",
+      "duration": 631
+    },
+    {
+      "id": "ueqOKuREDsw",
+      "title": "AWS Solution Architect Certification | Success Story Of Vinooth | Simplilearn Reviews",
+      "duration": 197
+    },
+    {
+      "id": "7bfOllAyxlg",
+      "title": "Amazon Redshift Tutorial | Amazon Redshift Architecture | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 1358
+    },
+    {
+      "id": "YH4CfwK6LhM",
+      "title": "What is Cloud Computing? | Cloud Computing Tutorial for Beginners | Cloud Computing | Simplilearn",
+      "duration": 761
+    },
+    {
+      "id": "98ya1LiEU00",
+      "title": "Introduction To Amazon Web Services | AWS Tutorial For Beginners | AWS Training Video | Simplilearn",
+      "duration": 2381
+    },
+    {
+      "id": "VnIbNfau1uc",
+      "title": "AWS Tutorial For Beginners - 1 | AWS Tutorial | AWS Training Videos | AWS Services | Simplilearn",
+      "duration": 8425
+    },
+    {
+      "id": "LfBn5Y1X0vE",
+      "title": "AWS S3 Tutorial For Beginners | Amazon S3 Tutorial | Amazon Simple Storage Service | Simplilearn",
+      "duration": 1273
+    },
+    {
+      "id": "KpWxbU7FaN4",
+      "title": "AWS Lambda Tutorial | Amazon Lambda Tutorial | AWS Tutorial | AWS Training Video | Simplilearn",
+      "duration": 503
+    },
+    {
+      "id": "PAXJcpo8XGA",
+      "title": "What is AWS? | AWS Tutorial For Beginners | Introduction to Amazon Web Services | Simplilearn",
+      "duration": 545
+    },
+    {
+      "id": "2mVR_Qgx_RU",
+      "title": "AWS DynamoDB Tutorial | AWS Services | AWS Tutorial For Beginners | AWS Training Video | Simplilearn",
+      "duration": 545
+    },
+    {
+      "id": "bMgzLENgZy8",
+      "title": "AWS CloudFormation Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 340
+    },
+    {
+      "id": "LuPdrgnYyU4",
+      "title": "AWS VPC Tutorial | Amazon Virtual Private Cloud | AWS Training Videos | Simplilearn",
+      "duration": 786
+    },
+    {
+      "id": "6Rq8i_Sb1Ag",
+      "title": "AWS EC2 Tutorial | Amazon EC2 Tutorial For Beginners | AWS Services | AWS Tutorial | Simplilearn",
+      "duration": 818
+    },
+    {
+      "id": "3A5hRIT8zdo",
+      "title": "AWS IAM Tutorial | AWS Identity And Access Management | AWS Tutorial | AWS Training | Simplilearn",
+      "duration": 2396
+    },
+    {
+      "id": "M5O8oglyqWs",
+      "title": "AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn",
+      "duration": 172
+    },
+    {
+      "id": "yHozoqgEhFM",
+      "title": "Why You Should Choose Simplilearn's AWS Solution Architect Associate Training | Simplilearn",
+      "duration": 130
+    },
+    {
+      "id": "ISLeMRUUL5g",
+      "title": "Amazon S3 Tutorial For Beginners | AWS S3 Bucket Tutorial |AWS Tutorial For Beginners | Simplilearn",
+      "duration": 466
+    },
+    {
+      "id": "xoy5ur-V9Ms",
+      "title": "AWS Tutorial For Beginners - 2 | AWS Certified Solutions Architect Associate Tutorial | Simplilearn",
+      "duration": 12515
+    },
+    {
+      "id": "CtxNhuGlsNg",
+      "title": "AWS Tutorial For Beginners - 4 | AWS VPC Tutorial | AWS Services | AWS Training Video | Simplilearn",
+      "duration": 10180
+    },
+    {
+      "id": "pw3H6xvXAEw",
+      "title": "AWS IAM Tutorial | Identity And Access Management | AWS Training Videos | Simplilearn",
+      "duration": 145
+    },
+    {
+      "id": "6n0NrTfkIQI",
+      "title": "Why AWS? | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 540
+    },
+    {
+      "id": "-93SO8fHvr8",
+      "title": "What Is AWS? | AWS Tutorial For Beginners | AWS Basics For Beginners | Simplilearn",
+      "duration": 632
+    },
+    {
+      "id": "NqGjklBovaI",
+      "title": "Planning And Designing Cloud Infrastructure | AWS Training Videos | Simplilearn",
+      "duration": 4356
+    },
+    {
+      "id": "BCjJQgScL3Y",
+      "title": "AWS Best Practices | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 901
+    },
+    {
+      "id": "wpELpfFXKgc",
+      "title": "AWS Certified Solutions architect associate Level | Simplilearn",
+      "duration": 233
+    },
+    {
+      "id": "xhuAfiqm8eI",
+      "title": "AWS Tutorial For Beginners - 3 | AWS IAM Tutorial | AWS Services | AWS Training Video | Simplilearn",
+      "duration": 11988
+    },
+    {
+      "id": "WJnbMMDe2TU",
+      "title": "Introduction To AWS Technical Essentials Certification Training | Simplilearn",
+      "duration": 707
+    },
+    {
+      "id": "KLWc0Rcpgz8",
+      "title": "Amazon Glacier Tutorial | AWS Glacier Tutorial | AWS Tutorial | AWS Services | Simplilearn",
+      "duration": 419
+    },
+    {
+      "id": "PcDV3CQCV18",
+      "title": "AWS Tutorial | Storage and Content Delivery | AWS Training Video | Simplilearn",
+      "duration": 1572
+    },
+    {
+      "id": "f8rOXI4VZQA",
+      "title": "History And Evolution Of AWS | AWS Training Videos | Simplilearn",
+      "duration": 2005
+    },
+    {
+      "id": "EcEB6Di_Mq8",
+      "title": "AWS Redshift Tutorial For Beginners | Amazon Redshift Tutorial | AWS Training Video | Simplilearn",
+      "duration": 218
+    },
+    {
+      "id": "l8AJra5Igaw",
+      "title": "AWS Elastic Beanstalk | Elastic Beanstalk Tutorial | AWS EBS Tutorial For Beginners | Simplilearn",
+      "duration": 639
+    },
+    {
+      "id": "_Tqce6pGb44",
+      "title": "AWS CloudWatch Tutorial | What is AWS CloudWatch | AWS Tutorial | AWS Training Videos | Simplilearn",
+      "duration": 472
+    },
+    {
+      "id": "pDOvdyOfg7A",
+      "title": "How To Create AWS Account | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 280
+    },
+    {
+      "id": "YO4L_9poF3g",
+      "title": "AWS ELB Tutorial | Elastic Load Balancer Tutorial | AWS Tutorial | AWS Training Video | Simplilearn",
+      "duration": 719
+    },
+    {
+      "id": "JEDqh1jHe9M",
+      "title": "Introduction To AWS SysOps Associate Certification Training | Simplilearn",
+      "duration": 278
+    },
+    {
+      "id": "Y-tM-EfzpvE",
+      "title": "Introduction To AWS Developer Associate Certification | Simplilearn",
+      "duration": 271
+    },
+    {
+      "id": "1zSnstmebbI",
+      "title": "AWS Foundation Services: Networking | AWS Tutorial | Simplilearn",
+      "duration": 220
+    },
+    {
+      "id": "DS1nF1WBGKk",
+      "title": "AWS EBS Tutorial | Amazon Elastic Block Store | Simplilearn",
+      "duration": 466
+    },
+    {
+      "id": "kogSnxk-5t0",
+      "title": "AWS Foundation Services: Compute | AWS Tutorial | Simplilearn",
+      "duration": 999
+    },
+    {
+      "id": "YVe9amljgaw",
+      "title": "AWS Foundation Services: Databases | AWS Tutorial | Simplilearn",
+      "duration": 369
+    },
+    {
+      "id": "nC0Hio8OUvw",
+      "title": "AWS Foundation Services: Storage | AWS Tutorial | Simplilearn",
+      "duration": 689
+    },
+    {
+      "id": "B8n-Ob-2Gr4",
+      "title": "AWS Marketplace Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 139
+    },
+    {
+      "id": "QbipcgIdSJc",
+      "title": "AWS Architecture Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 3551
+    },
+    {
+      "id": "HOw9pDdMkQk",
+      "title": "AWS Configuration Management Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 1763
+    },
+    {
+      "id": "6DSyFTDHCcY",
+      "title": "A Look at Cloud Computing Landscape|What is AWS?| Cloud Video Tutorials | Simplilearn",
+      "duration": 181
+    },
+    {
+      "id": "lkksqUDlwJE",
+      "title": "AWS Security Tutorial | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 497
+    },
+    {
+      "id": "sfuRITElems",
+      "title": "Introduction to AWS Database Migration Service Course | Simplilearn",
+      "duration": 257
+    },
+    {
+      "id": "XJbCgYeTs40",
+      "title": "Introduction To AWS Lambda Training | Simplilearn",
+      "duration": 298
+    },
+    {
+      "id": "A6g_rgXPVmI",
+      "title": "Introduction to Advanced Cloud Computing with AWS Certification Training | Simplilearn",
+      "duration": 208
+    },
+    {
+      "id": "GaJXdOmshIk",
+      "title": "AWS Cloud Economics | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 377
+    },
+    {
+      "id": "setHlNDpUxg",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "4EOaAkY4pNE",
+      "title": "AWS Autoscaling | AWS Autoscaling And Load Balancing | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 1114
+    },
+    {
+      "id": "Vr4N_ZA-uGo",
+      "title": "AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn",
+      "duration": 917
+    },
+    {
+      "id": "DAvByidEb0c",
+      "title": "AWS Certification | AWS Career Opportunities | AWS Job Roles And Responsibilities | Simplilearn",
+      "duration": 558
+    },
+    {
+      "id": "YzVTy3IOjYI",
+      "title": "Post Graduate Program In Cloud Computing By Simplilearn | Next Cohort Starting Soon! | Simplilearn",
+      "duration": 187
+    },
+    {
+      "id": "Qv46QeDVGrA",
+      "title": "AWS vs Azure In 2026 [Updated]🔥| Difference Between AWS And Azure | Cloud Computing | Simplilearn",
+      "duration": 700
+    },
+    {
+      "id": "aQMYb38XDOI",
+      "title": "How Cloud Computing Will Continue To Change The World | Future Of Cloud Computing 2026 | Simplilearn",
+      "duration": 926
+    },
+    {
+      "id": "9Kvf12FOVW4",
+      "title": "AWS Full Course | AWS Tutorial For Beginners | AWS Cloud Computing | AWS Tutorial | Simplilearn",
+      "duration": 42352
+    },
+    {
+      "id": "h8fhcmLHsEI",
+      "title": "AWS vs Azure vs Google Cloud 2026: What Should You Learn In 2026? | AWS vs Azure vs GCP |Simplilearn",
+      "duration": 805
+    },
+    {
+      "id": "oaZ3R4NCRu8",
+      "title": "AWS S3 Tutorial | AWS S3 Bucket Tutorial | AWS S3 Tutorial For Beginners | AWS Tutorial |Simplilearn",
+      "duration": 4690
+    },
+    {
+      "id": "o0p04B7-NFY",
+      "title": "AWS IAM Tutorial 2026 | AWS Identity And Access Management (IAM) | AWS Tutorial | Simplilearn",
+      "duration": 3729
+    },
+    {
+      "id": "PpX7TuR6DCY",
+      "title": "Cloud Computing Services Explained | Cloud Computing Services - IaaS, PaaS & SaaS | Simplilearn",
+      "duration": 1161
+    },
+    {
+      "id": "rTBIX8Su_Z4",
+      "title": "Top 10 Reasons To Choose AWS In 2026 | Why AWS? | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 524
+    },
+    {
+      "id": "hekG3zWJdLw",
+      "title": "How To Become AWS Certified Cloud Practitioner | AWS Certification Path 2026 | Simplilearn",
+      "duration": 1119
+    },
+    {
+      "id": "Yx9I-zlxuAc",
+      "title": "🔥 AWS Bootcamp 2026 | AWS Solutions Architect Training 2026 | AWS for Beginners | Simplilearn",
+      "duration": 41257
+    },
+    {
+      "id": "Y_ijwr6fqF8",
+      "title": "🔥 AWS Full Course 2026 | Compelete AWS Course in 8 Hours | AWS Tutorial for Beginners | Simplilearn",
+      "duration": 26766
+    },
+    {
+      "id": "63Km5tq7x9U",
+      "title": "🔥 AWS Full Course 2026 Part 2 | AWS Course in 8 Hours | AWS Tutorial for Beginners | Simplilearn",
+      "duration": 28879
+    },
+    {
+      "id": "cUm0OJUogFw",
+      "title": "AWS Cloud Practitioner Certification Course | Advantages of AWS Cloud Certification | Simplilearn",
+      "duration": 528
+    },
+    {
+      "id": "kNm0z_hRJlw",
+      "title": "Introduction To AWS | AWS Database Explained | Types Of AWS Databases |  Simplilearn",
+      "duration": 791
+    },
+    {
+      "id": "QrZfeRl_0vc",
+      "title": "AWS Fundamentals For Beginners | AWS Course For Beginners | AWS Tutorial For Beginners | Simplilearn",
+      "duration": 15869
+    },
+    {
+      "id": "-9qo_7P_sXM",
+      "title": "How To Become a Cloud Engineer | Step by Step Roadmap To Become Cloud Engineer In 2026 | Simplilearn",
+      "duration": 702
+    },
+    {
+      "id": "DWBSM47aLY8",
+      "title": "Database Vs Data Warehouse Vs Data Lake : What Is the Difference | Simplilearn",
+      "duration": 767
+    },
+    {
+      "id": "Qt9lhzFhW_c",
+      "title": "What Is Cloud Security? | Cloud Security Fundamentals | Cloud Computing Tutorial | Simplilearn",
+      "duration": 599
+    },
+    {
+      "id": "hxbuz12ZVpc",
+      "title": "How To Become Cloud Engineer In 2026 | Cloud Computing Roadmap | Cloud Computing | Simplilearn",
+      "duration": 636
+    },
+    {
+      "id": "qgD6JrO09hU",
+      "title": "AWS Developer Associate Full Course | AWS Developer Associate Training | AWS Tutorial | Simplilearn",
+      "duration": 30908
+    },
+    {
+      "id": "1vHMVndbSMM",
+      "title": "AWS Tutorial For Beginners | AWS Full Course 2026 | AWS Cloud Computing For Beginners | Simplilearn",
+      "duration": 18652
+    },
+    {
+      "id": "Vrkqucq19IY",
+      "title": "Cloud Computing Full Course 2026 [FREE] | Cloud Computing Tutorial For Beginners | Simplilearn",
+      "duration": 85838
+    }
+  ]
+}

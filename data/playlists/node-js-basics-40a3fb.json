@@ -1,0 +1,90 @@
+{
+  "courseId": "node-js-basics-40a3fb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:34.024Z",
+  "title": "NodeJS Basics",
+  "channel": "Java Brains",
+  "videos": [
+    {
+      "id": "hQd4TCGB_nE",
+      "title": "Course intro - Node.js Basics [01] - Java Brains",
+      "duration": 204
+    },
+    {
+      "id": "_RSL3S3Anxg",
+      "title": "What is Node.js - Node.js Basics [02] - Java Brains",
+      "duration": 708
+    },
+    {
+      "id": "A2QZmTPai0o",
+      "title": "Installing NodeJS for development - Node.js Basics [03] - Java Brains",
+      "duration": 489
+    },
+    {
+      "id": "4NUR6kIoZkA",
+      "title": "Using nvm - Node.js Basics [04] - Java Brains",
+      "duration": 395
+    },
+    {
+      "id": "FLwt4e53_6c",
+      "title": "Using the Node REPL - Node.js Basics [05] - Java Brains",
+      "duration": 397
+    },
+    {
+      "id": "UCd6LorxpkY",
+      "title": "When and when not to use Node.js - Node.js Basics [06] - Java Brains",
+      "duration": 1055
+    },
+    {
+      "id": "vIfL1tEfzbk",
+      "title": "Running a single Node.js file - Node.js Basics [07] - Java Brains",
+      "duration": 232
+    },
+    {
+      "id": "qU0fTp_H8y4",
+      "title": "Node modules intro - Node.js Basics [08] - Java Brains",
+      "duration": 539
+    },
+    {
+      "id": "hyYbs3SANRo",
+      "title": "Module exports in Node.js explained - Node.js Basics [09] - Java Brains",
+      "duration": 807
+    },
+    {
+      "id": "HHilfLuFofw",
+      "title": "Require with node apis - Node.js Basics [10] - Java Brains",
+      "duration": 483
+    },
+    {
+      "id": "DcNcqLkdpQs",
+      "title": "Writing user input to file - Node.js Basics [11] - Java Brains",
+      "duration": 702
+    },
+    {
+      "id": "FU42Q2nF9VE",
+      "title": "What is npm - Node.js Basics [12] - Java Brains",
+      "duration": 508
+    },
+    {
+      "id": "4kZ-zgX4Xe8",
+      "title": "Starting a new project using npm - Node.js Basics [13] - Java Brains",
+      "duration": 719
+    },
+    {
+      "id": "WtbU1sI7fnw",
+      "title": "Installing and using libraries with npm - Node.js Basics [14] - Java Brains",
+      "duration": 582
+    },
+    {
+      "id": "B047pkqRCak",
+      "title": "Writing command line script in Node.js from scratch - Node.js Basics [15] - Java Brains",
+      "duration": 799
+    },
+    {
+      "id": "KYktOkdzAHw",
+      "title": "Understanding callbacks using Node.js - Node.js Basics [16] - Java Brains",
+      "duration": 895
+    }
+  ]
+}

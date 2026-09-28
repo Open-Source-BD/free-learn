@@ -1,0 +1,275 @@
+{
+  "courseId": "python-programming-tutorial-518cf1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:59.059Z",
+  "title": "Python Programming Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "GE3IHS1wAZI",
+      "title": "Python Programming Tutorial - 1: Installing Python",
+      "duration": 367
+    },
+    {
+      "id": "enG7xaK7PfA",
+      "title": "Python Programming Tutorial - 2: Running Code in Python",
+      "duration": 447
+    },
+    {
+      "id": "Uu7C99-hG60",
+      "title": "Python Programming Tutorial - 3: Comments in Python",
+      "duration": 528
+    },
+    {
+      "id": "YLn8apoZa1k",
+      "title": "Python Programming Tutorial - 4: Variables in Python",
+      "duration": 259
+    },
+    {
+      "id": "cZyUNFGtUsk",
+      "title": "Python Programming Tutorial - 5: Numbers & Strings",
+      "duration": 484
+    },
+    {
+      "id": "hmBT-uWHO1A",
+      "title": "Python Programming Tutorial - 6: Lists & Tuples",
+      "duration": 450
+    },
+    {
+      "id": "QyMXean6WC4",
+      "title": "Python Programming Tutorial - 7: Dictionaries",
+      "duration": 382
+    },
+    {
+      "id": "bkN0HAPR0O0",
+      "title": "Python Programming Tutorial - 8: Data Type Conversion",
+      "duration": 412
+    },
+    {
+      "id": "ZEkNvq_DHZU",
+      "title": "Python Programming Tutorial - 9: Arithmetic & Comparison Operators",
+      "duration": 323
+    },
+    {
+      "id": "LK4kIPuEgUU",
+      "title": "Python Programming Tutorial - 10: Bitwise & Logical Operators",
+      "duration": 420
+    },
+    {
+      "id": "aaBYOzR9uZo",
+      "title": "Python Programming Tutorial - 11: Membership & Identity Operators",
+      "duration": 341
+    },
+    {
+      "id": "CfVqGxT19wQ",
+      "title": "Python Programming Tutorial - 12: Operator Precedence",
+      "duration": 217
+    },
+    {
+      "id": "kMx4saqLuE8",
+      "title": "Python Programming Tutorial - 13: The IF statement",
+      "duration": 327
+    },
+    {
+      "id": "20HbYZz3Qv4",
+      "title": "Python Programming Tutorial - 14: The ELSE Statement",
+      "duration": 204
+    },
+    {
+      "id": "EdkfjHbfekw",
+      "title": "Python Programming Tutorial - 15: The ELIF Statement",
+      "duration": 350
+    },
+    {
+      "id": "cE2Q1_8UOKc",
+      "title": "Python Programming Tutorial - 16: Nested IF-ELSE Statement",
+      "duration": 463
+    },
+    {
+      "id": "xCaa4ig2lhU",
+      "title": "Python Programming Tutorial - 17: The WHILE Loop",
+      "duration": 306
+    },
+    {
+      "id": "I5_UxvF_svw",
+      "title": "Python Programming Tutorial - 18: The FOR Loop",
+      "duration": 329
+    },
+    {
+      "id": "DiLyUU735Es",
+      "title": "Python Programming Tutorial - 19: The Break Statement",
+      "duration": 215
+    },
+    {
+      "id": "eXSB1YOBZ6s",
+      "title": "Python Programming Tutorial - 20: Application of Break Statement",
+      "duration": 367
+    },
+    {
+      "id": "HfzCpDilEVM",
+      "title": "Python Programming Tutorial - 21: Nested Loops",
+      "duration": 392
+    },
+    {
+      "id": "ScMd9kuKuoQ",
+      "title": "Python Programming Tutorial - 22: The Continue Statement",
+      "duration": 319
+    },
+    {
+      "id": "hgDjtQLTTM0",
+      "title": "Python Programming Tutorial - 23: Numeric Functions (Part-1)",
+      "duration": 386
+    },
+    {
+      "id": "FtW6hnCOGgw",
+      "title": "Python Programming Tutorial - 24: Numeric Functions (Part-2)",
+      "duration": 257
+    },
+    {
+      "id": "Za_GRt2-rT8",
+      "title": "Python Programming Tutorial - 25: Numeric Functions (Part-3)",
+      "duration": 267
+    },
+    {
+      "id": "yjRkEX4OTyc",
+      "title": "Python Programming Tutorial - 26: String Functions (Part-1)",
+      "duration": 456
+    },
+    {
+      "id": "DSn3ea6Zi0c",
+      "title": "Python Programming Tutorial - 27: String Functions (Part-2)",
+      "duration": 330
+    },
+    {
+      "id": "psSl7XM1oPo",
+      "title": "Python Programming Tutorial - 28: String Functions (Part-3)",
+      "duration": 383
+    },
+    {
+      "id": "eQGVCvfBLUk",
+      "title": "Python Programming Tutorial - 29: List Functions (Part-1)",
+      "duration": 217
+    },
+    {
+      "id": "XoI0IJ9RY4M",
+      "title": "Python Programming Tutorial - 30: List Functions (Part-2)",
+      "duration": 240
+    },
+    {
+      "id": "v1hvsx2wKcs",
+      "title": "Python Programming Tutorial - 31: Tuple Functions",
+      "duration": 162
+    },
+    {
+      "id": "EqX1VWOJCTo",
+      "title": "Python Programming Tutorial - 32: Dictionary Functions",
+      "duration": 346
+    },
+    {
+      "id": "S6gVq_uNUWE",
+      "title": "Python Programming Tutorial - 33: Date & Time Functions (Part-1)",
+      "duration": 374
+    },
+    {
+      "id": "A_kJ-LkkGlQ",
+      "title": "Python Programming Tutorial - 34: Date & Time functions (Part-2)",
+      "duration": 319
+    },
+    {
+      "id": "zE5OgFqPlpk",
+      "title": "Python Programming Tutorial - 35: User Defined Functions",
+      "duration": 570
+    },
+    {
+      "id": "aCDrcaYRU0I",
+      "title": "Python Programming Tutorial - 36: Pass by Reference vs Value",
+      "duration": 322
+    },
+    {
+      "id": "K9mforcHkLs",
+      "title": "Python Programming Tutorial - 37: Variable Length Arguments",
+      "duration": 200
+    },
+    {
+      "id": "fRiIugqHmKQ",
+      "title": "Python Programming Tutorial - 38: Anonymous Functions",
+      "duration": 161
+    },
+    {
+      "id": "qpOQHhVTH4M",
+      "title": "Python Programming Tutorial - 39: Global & Local Variables",
+      "duration": 252
+    },
+    {
+      "id": "NQWRdv5b7T8",
+      "title": "Python Programming Tutorial - 40: Updating Global Variables",
+      "duration": 162
+    },
+    {
+      "id": "AWAvG_P8Tyw",
+      "title": "Python Programming Tutorial - 41: Modules",
+      "duration": 320
+    },
+    {
+      "id": "ZmHsa-7yw9k",
+      "title": "Python Programming Tutorial - 42: Handling Files",
+      "duration": 455
+    },
+    {
+      "id": "AX3SmD-TI9E",
+      "title": "Python Programming Tutorial - 43: Renaming & Deleting Files",
+      "duration": 184
+    },
+    {
+      "id": "mRvqHJFEBCE",
+      "title": "Python Programming Tutorial - 44: Managing Directories",
+      "duration": 279
+    },
+    {
+      "id": "Gb5oxaY1Sr0",
+      "title": "Python Programming Tutorial - 45: Exception Handling",
+      "duration": 262
+    },
+    {
+      "id": "4YU3j5yq24A",
+      "title": "Python Programming Tutorial - 46: Object Oriented Programming (Part-1)",
+      "duration": 879
+    },
+    {
+      "id": "sCUDcYMj_m0",
+      "title": "Python Programming Tutorial - 47: Object Oriented Programming (Part-2)",
+      "duration": 657
+    },
+    {
+      "id": "xgyVilYfJEo",
+      "title": "Python Programming Tutorial - 48: Install MySql Connector for Python",
+      "duration": 524
+    },
+    {
+      "id": "M4ZHPIwwMkM",
+      "title": "Python Programming Tutorial - 49: Create MySql Table Using Python",
+      "duration": 360
+    },
+    {
+      "id": "UsyTSSDMzcI",
+      "title": "Python Programming Tutorial - 50: Insert Data Into Tables",
+      "duration": 461
+    },
+    {
+      "id": "V2Bkdt7SiO8",
+      "title": "Python Programming Tutorial - 51: Update MySql Tables",
+      "duration": 198
+    },
+    {
+      "id": "I82GJrzeaIs",
+      "title": "Python Programming Tutorial - 52: Sending Email",
+      "duration": 259
+    },
+    {
+      "id": "M3Yx_CGxRIU",
+      "title": "Python Programming Tutorial - 53: Conclusion",
+      "duration": 111
+    }
+  ]
+}

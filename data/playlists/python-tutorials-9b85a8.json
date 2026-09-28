@@ -1,0 +1,800 @@
+{
+  "courseId": "python-tutorials-9b85a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:11.253Z",
+  "title": "Python Tutorials",
+  "channel": "Corey Schafer",
+  "videos": [
+    {
+      "id": "YYXdXT2l-Gg",
+      "title": "Python Tutorial for Beginners 1: Install and Setup for Mac and Windows",
+      "duration": 929
+    },
+    {
+      "id": "k9TUPpGqYTo",
+      "title": "Python Tutorial for Beginners 2: Strings - Working with Textual Data",
+      "duration": 1272
+    },
+    {
+      "id": "khKv-8q7YmY",
+      "title": "Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data",
+      "duration": 715
+    },
+    {
+      "id": "W8KRzm-HUcc",
+      "title": "Python Tutorial for Beginners 4: Lists, Tuples, and Sets",
+      "duration": 1745
+    },
+    {
+      "id": "daefaLgNkw0",
+      "title": "Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs",
+      "duration": 599
+    },
+    {
+      "id": "DZwmZ8Usvnk",
+      "title": "Python Tutorial for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements",
+      "duration": 988
+    },
+    {
+      "id": "6iF8Xb7Z3wQ",
+      "title": "Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops",
+      "duration": 614
+    },
+    {
+      "id": "9Os0o3wzS_I",
+      "title": "Python Tutorial for Beginners 8: Functions",
+      "duration": 1308
+    },
+    {
+      "id": "CqvZ3vGoGs0",
+      "title": "Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library",
+      "duration": 1317
+    },
+    {
+      "id": "xFciV6Ew5r4",
+      "title": "Setting up a Python Development Environment in Sublime Text",
+      "duration": 1563
+    },
+    {
+      "id": "DjEuROpsvp4",
+      "title": "Setting up a Python Development Environment in Atom",
+      "duration": 1381
+    },
+    {
+      "id": "NDFbXIiqT4o",
+      "title": "Setting up a Python Development Environment in Eclipse",
+      "duration": 995
+    },
+    {
+      "id": "U2ZN104hIcc",
+      "title": "Python Tutorial: pip - An in-depth look at the package management system",
+      "duration": 546
+    },
+    {
+      "id": "N5vscPTWKOk",
+      "title": "Python Tutorial: virtualenv and why you should use virtual environments",
+      "duration": 586
+    },
+    {
+      "id": "YJC6ldI3hWk",
+      "title": "Python Tutorial: Anaconda - Installation and Using Conda",
+      "duration": 685
+    },
+    {
+      "id": "cY2NXB_Tqq0",
+      "title": "Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables",
+      "duration": 1249
+    },
+    {
+      "id": "HW29067qVWk",
+      "title": "Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough",
+      "duration": 1821
+    },
+    {
+      "id": "QVdf0LgmICw",
+      "title": "Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements",
+      "duration": 1259
+    },
+    {
+      "id": "ajrtAuDg3yw",
+      "title": "Python Tutorial: Slicing Lists and Strings",
+      "duration": 644
+    },
+    {
+      "id": "3dt4OGnU5sM",
+      "title": "Python Tutorial: Comprehensions - How they work and why you should be using them",
+      "duration": 1109
+    },
+    {
+      "id": "D3JvDWO-BY4",
+      "title": "Python Tutorial: Sorting Lists, Tuples, and Objects",
+      "duration": 728
+    },
+    {
+      "id": "vTX3IwquFkc",
+      "title": "Python Tutorial: String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates",
+      "duration": 833
+    },
+    {
+      "id": "tJxcKyFMTGo",
+      "title": "Python Tutorial: OS Module - Use Underlying Operating System Functionality",
+      "duration": 1154
+    },
+    {
+      "id": "eirjjyP2qcQ",
+      "title": "Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones",
+      "duration": 1669
+    },
+    {
+      "id": "Uh2ebFW8OYM",
+      "title": "Python Tutorial: File Objects - Reading and Writing to Files",
+      "duration": 1473
+    },
+    {
+      "id": "ve2pmm5JqmI",
+      "title": "Python Tutorial: Automate Parsing and Renaming of Multiple Files",
+      "duration": 754
+    },
+    {
+      "id": "KzqSDvzOFNA",
+      "title": "Python Tutorial: Generate Random Numbers and Data Using the random Module",
+      "duration": 817
+    },
+    {
+      "id": "q5uM4VKywbA",
+      "title": "Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files",
+      "duration": 972
+    },
+    {
+      "id": "bkpLhQd6YQM",
+      "title": "Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List",
+      "duration": 1128
+    },
+    {
+      "id": "K8L6KVGG-7o",
+      "title": "Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)",
+      "duration": 3198
+    },
+    {
+      "id": "NIWwJbo-9_8",
+      "title": "Python Tutorial: Using Try/Except Blocks for Error Handling",
+      "duration": 634
+    },
+    {
+      "id": "x3v9zMX1s4s",
+      "title": "Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)",
+      "duration": 923
+    },
+    {
+      "id": "OdIHeg4jj2c",
+      "title": "Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Windows)",
+      "duration": 1457
+    },
+    {
+      "id": "PUIE7CPANfo",
+      "title": "Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Mac & Linux)",
+      "duration": 1844
+    },
+    {
+      "id": "nghuHvKLhJA",
+      "title": "Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting",
+      "duration": 823
+    },
+    {
+      "id": "bD05uGo_sVI",
+      "title": "Python Tutorial: Generators - How to use them and the benefits you receive",
+      "duration": 674
+    },
+    {
+      "id": "FsAPt_9Bf3U",
+      "title": "Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions",
+      "duration": 1828
+    },
+    {
+      "id": "KlBPCzcQNU8",
+      "title": "Python Tutorial: Decorators With Arguments",
+      "duration": 373
+    },
+    {
+      "id": "GfxJYp9_nJA",
+      "title": "Python Tutorial: Namedtuple - When and why should you use namedtuples?",
+      "duration": 441
+    },
+    {
+      "id": "ZDa-Z5JzLYM",
+      "title": "Python OOP Tutorial 1: Classes and Instances",
+      "duration": 924
+    },
+    {
+      "id": "BJ-VvGyQxho",
+      "title": "Python OOP Tutorial 2: Class Variables",
+      "duration": 701
+    },
+    {
+      "id": "rq8cL2XMM5M",
+      "title": "Python OOP Tutorial 3: classmethods and staticmethods",
+      "duration": 920
+    },
+    {
+      "id": "RSl87lqOXDE",
+      "title": "Python OOP Tutorial 4: Inheritance - Creating Subclasses",
+      "duration": 1180
+    },
+    {
+      "id": "3ohzBxoFHAY",
+      "title": "Python OOP Tutorial 5: Special (Magic/Dunder) Methods",
+      "duration": 830
+    },
+    {
+      "id": "jCzT9XFZ5bw",
+      "title": "Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters",
+      "duration": 573
+    },
+    {
+      "id": "ng2o98k983k",
+      "title": "Python Tutorial: Web Scraping with BeautifulSoup and Requests",
+      "duration": 2748
+    },
+    {
+      "id": "9N6a-VLBa2I",
+      "title": "Python Tutorial: Working with JSON Data using the json Module",
+      "duration": 1234
+    },
+    {
+      "id": "k8asfUbWbI4",
+      "title": "Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals",
+      "duration": 1507
+    },
+    {
+      "id": "-aKFBoZpiqA",
+      "title": "Python Tutorial: Context Managers - Efficiently Managing Resources",
+      "duration": 1237
+    },
+    {
+      "id": "5cvM-crlDvg",
+      "title": "Python Tutorial: str() vs repr()",
+      "duration": 465
+    },
+    {
+      "id": "pd-0G0MigUA",
+      "title": "Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries",
+      "duration": 1789
+    },
+    {
+      "id": "-ARI4Cz-awo",
+      "title": "Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting",
+      "duration": 865
+    },
+    {
+      "id": "jxmzY9soFXg",
+      "title": "Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters",
+      "duration": 1187
+    },
+    {
+      "id": "5iWhQWVXosU",
+      "title": "Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux)",
+      "duration": 272
+    },
+    {
+      "id": "IolxqkL7cD8",
+      "title": "Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows)",
+      "duration": 278
+    },
+    {
+      "id": "sugvnHA7ElY",
+      "title": "Python Tutorial: if __name__ == '__main__'",
+      "duration": 523
+    },
+    {
+      "id": "6tNS--WetLI",
+      "title": "Python Tutorial: Unit Testing Your Code with the unittest Module",
+      "duration": 2353
+    },
+    {
+      "id": "zDYL22QNiWk",
+      "title": "Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments",
+      "duration": 1949
+    },
+    {
+      "id": "DEwgZNC-KyE",
+      "title": "Preparing for a Python Interview: 10 Things You Should Know",
+      "duration": 1375
+    },
+    {
+      "id": "Dh-0lAyc3Bc",
+      "title": "Python Tutorial: Else Clauses on Loops",
+      "duration": 424
+    },
+    {
+      "id": "6Qs3wObeWwc",
+      "title": "Python Tutorial: Image Manipulation with Pillow",
+      "duration": 948
+    },
+    {
+      "id": "xqcTfplzr7c",
+      "title": "Python Tutorial: Custom Sublime Text Build Systems",
+      "duration": 476
+    },
+    {
+      "id": "mJokZMWnyGY",
+      "title": "Python: Ex Machina Easter Egg - Hidden Message within the Code",
+      "duration": 123
+    },
+    {
+      "id": "MwZwr5Tvyxo",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started",
+      "duration": 1029
+    },
+    {
+      "id": "QnDWIZuWYW0",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 2 - Templates",
+      "duration": 1902
+    },
+    {
+      "id": "UIJKdCIEXUQ",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input",
+      "duration": 2896
+    },
+    {
+      "id": "cYWiDiIUxQc",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy",
+      "duration": 1798
+    },
+    {
+      "id": "44PvX0Yv368",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure",
+      "duration": 1238
+    },
+    {
+      "id": "CSHx6eCkmv0",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication",
+      "duration": 2835
+    },
+    {
+      "id": "803Ei2Sq-Zs",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture",
+      "duration": 2535
+    },
+    {
+      "id": "u0oDDZrDz9U",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts",
+      "duration": 2893
+    },
+    {
+      "id": "PSWf2TjTGNY",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination",
+      "duration": 1882
+    },
+    {
+      "id": "vutyTx7IaAI",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset",
+      "duration": 2532
+    },
+    {
+      "id": "Wfx4YBzg16s",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration",
+      "duration": 2563
+    },
+    {
+      "id": "uVNfQDohYNI",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages",
+      "duration": 765
+    },
+    {
+      "id": "r3R3h5ly_8g",
+      "title": "Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems",
+      "duration": 1114
+    },
+    {
+      "id": "UmljXZIypDc",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started",
+      "duration": 932
+    },
+    {
+      "id": "a48xeeo5Vnk",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes",
+      "duration": 1227
+    },
+    {
+      "id": "qDwdMDQ8oX4",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 3 - Templates",
+      "duration": 2745
+    },
+    {
+      "id": "1PkNiYlkkjo",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page",
+      "duration": 540
+    },
+    {
+      "id": "aHC3uTkT9r8",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations",
+      "duration": 2327
+    },
+    {
+      "id": "q4jPR-M0TAQ",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 6 - User Registration",
+      "duration": 2756
+    },
+    {
+      "id": "3aVqWaLjqS4",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System",
+      "duration": 1877
+    },
+    {
+      "id": "FdVuKt_iuSI",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture",
+      "duration": 2141
+    },
+    {
+      "id": "CQ90L5jfldw",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile",
+      "duration": 1567
+    },
+    {
+      "id": "-s7e_Fy6NRU",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",
+      "duration": 3195
+    },
+    {
+      "id": "acOktTcTVEQ",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 11 - Pagination",
+      "duration": 2221
+    },
+    {
+      "id": "-tyBEsHSv7w",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset",
+      "duration": 1504
+    },
+    {
+      "id": "Sa_kQheCnds",
+      "title": "Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+      "duration": 4921
+    },
+    {
+      "id": "jTYiNjvnHZY",
+      "title": "Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?",
+      "duration": 1388
+    },
+    {
+      "id": "C3Z9lJXI6Qw",
+      "title": "Python Coding Problem: Creating Your Own Iterators",
+      "duration": 827
+    },
+    {
+      "id": "Qu3dThVy6KQ",
+      "title": "Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping",
+      "duration": 2749
+    },
+    {
+      "id": "goToXTC96Co",
+      "title": "Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+      "duration": 4500
+    },
+    {
+      "id": "LUFn-QVcmB8",
+      "title": "Python Flask Tutorial: How to Use a Custom Domain Name for Our Application",
+      "duration": 1440
+    },
+    {
+      "id": "D2lwk1Ukgz0",
+      "title": "Python Django Tutorial: How to Use a Custom Domain Name for Our Application",
+      "duration": 1638
+    },
+    {
+      "id": "Gdys9qPjuKs",
+      "title": "Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt",
+      "duration": 1034
+    },
+    {
+      "id": "NhidVhNHfeU",
+      "title": "Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt",
+      "duration": 1247
+    },
+    {
+      "id": "kt3ZtW9MXhw",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads",
+      "duration": 1595
+    },
+    {
+      "id": "6DI_7Zja8Zc",
+      "title": "Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku",
+      "duration": 3211
+    },
+    {
+      "id": "tb8gHvYlCFs",
+      "title": "Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More",
+      "duration": 1501
+    },
+    {
+      "id": "yqm6MBt-yfY",
+      "title": "Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers",
+      "duration": 2759
+    },
+    {
+      "id": "a6fIbtFB46g",
+      "title": "Python Tutorial: Web Scraping with Requests-HTML",
+      "duration": 3387
+    },
+    {
+      "id": "JRCJ6RtE3xU",
+      "title": "How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More",
+      "duration": 1917
+    },
+    {
+      "id": "C-gEQdGVXbk",
+      "title": "10 Python Tips and Tricks For Writing Better Code",
+      "duration": 2361
+    },
+    {
+      "id": "Kg1Yvry_Ydk",
+      "title": "Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module",
+      "duration": 858
+    },
+    {
+      "id": "APOPm01BVrk",
+      "title": "Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module",
+      "duration": 1030
+    },
+    {
+      "id": "1lxrb_ezP-g",
+      "title": "How to Write Python Scripts to Analyze JSON APIs and Sort Results",
+      "duration": 2923
+    },
+    {
+      "id": "zdJEYhA2AZQ",
+      "title": "5 Common Python Mistakes and How to Fix Them",
+      "duration": 1759
+    },
+    {
+      "id": "_JGmemuINww",
+      "title": "Python Tutorial: Clarifying the Issues with Mutable Default Arguments",
+      "duration": 964
+    },
+    {
+      "id": "06I63_p-2A4",
+      "title": "Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview",
+      "duration": 4544
+    },
+    {
+      "id": "-nh9rCzPJ20",
+      "title": "Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview",
+      "duration": 4517
+    },
+    {
+      "id": "UO98lJQ3QGI",
+      "title": "Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots",
+      "duration": 2101
+    },
+    {
+      "id": "nKxLfUrkLE8",
+      "title": "Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs",
+      "duration": 2066
+    },
+    {
+      "id": "MPiz50TsyF0",
+      "title": "Matplotlib Tutorial (Part 3): Pie Charts",
+      "duration": 1022
+    },
+    {
+      "id": "xN-Supd4H38",
+      "title": "Matplotlib Tutorial (Part 4): Stack Plots",
+      "duration": 889
+    },
+    {
+      "id": "x0Uguu7gqgk",
+      "title": "Matplotlib Tutorial (Part 5): Filling Area on Line Plots",
+      "duration": 918
+    },
+    {
+      "id": "XDv6T4a0RNc",
+      "title": "Matplotlib Tutorial (Part 6): Histograms",
+      "duration": 996
+    },
+    {
+      "id": "zZZ_RCwp49g",
+      "title": "Matplotlib Tutorial (Part 7): Scatter Plots",
+      "duration": 1284
+    },
+    {
+      "id": "_LWjaAiKaf8",
+      "title": "Matplotlib Tutorial (Part 8): Plotting Time Series Data",
+      "duration": 1029
+    },
+    {
+      "id": "Ercd-Ip5PfQ",
+      "title": "Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time",
+      "duration": 1234
+    },
+    {
+      "id": "XFZRVnP-MTU",
+      "title": "Matplotlib Tutorial (Part 10): Subplots",
+      "duration": 1282
+    },
+    {
+      "id": "2Fp1N6dof0Y",
+      "title": "Python Tutorial: Calling External Commands Using the Subprocess Module",
+      "duration": 1141
+    },
+    {
+      "id": "mO_dS3rXDIs",
+      "title": "Python Quick Tip: The Difference Between \"==\" and \"is\" (Equality vs Identity)",
+      "duration": 531
+    },
+    {
+      "id": "IEEhzQoKtQU",
+      "title": "Python Threading Tutorial: Run Code Concurrently Using the Threading Module",
+      "duration": 2165
+    },
+    {
+      "id": "fKl2JW_qrso",
+      "title": "Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module",
+      "duration": 2655
+    },
+    {
+      "id": "_P7X8tMplsw",
+      "title": "Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey",
+      "duration": 3088
+    },
+    {
+      "id": "z0gguhEmWiY",
+      "title": "Python Tutorial: Zip Files - Creating and Extracting Zip Archives",
+      "duration": 1630
+    },
+    {
+      "id": "ZyhVh-qRZPA",
+      "title": "Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data",
+      "duration": 1381
+    },
+    {
+      "id": "zmdjNSmRXF4",
+      "title": "Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns",
+      "duration": 2015
+    },
+    {
+      "id": "W9XjRYFkkyw",
+      "title": "Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes",
+      "duration": 1047
+    },
+    {
+      "id": "Lw2rlcxScZY",
+      "title": "Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns",
+      "duration": 1384
+    },
+    {
+      "id": "DCDe29sIKcE",
+      "title": "Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames",
+      "duration": 2403
+    },
+    {
+      "id": "HQ6XO9eT-fc",
+      "title": "Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames",
+      "duration": 1015
+    },
+    {
+      "id": "T11QYVfZoD0",
+      "title": "Python Pandas Tutorial (Part 7): Sorting Data",
+      "duration": 940
+    },
+    {
+      "id": "txMdrV1Ut64",
+      "title": "Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data",
+      "duration": 2946
+    },
+    {
+      "id": "KdmPHEnPJPs",
+      "title": "Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values",
+      "duration": 1914
+    },
+    {
+      "id": "UFuo7EHI8zc",
+      "title": "Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data",
+      "duration": 2141
+    },
+    {
+      "id": "N6hyN6BW6ao",
+      "title": "Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",
+      "duration": 1965
+    },
+    {
+      "id": "RO6JxDOVwLQ",
+      "title": "Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation",
+      "duration": 3153
+    },
+    {
+      "id": "th5_9woFJmk",
+      "title": "Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API",
+      "duration": 1249
+    },
+    {
+      "id": "coZbOM6E47I",
+      "title": "Python YouTube API Tutorial: Calculating the Duration of a Playlist",
+      "duration": 2258
+    },
+    {
+      "id": "1KO_HZtHOWI",
+      "title": "Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos",
+      "duration": 1328
+    },
+    {
+      "id": "vQQEaSnQ_bs",
+      "title": "Python YouTube API Tutorial: Using OAuth to Access User Accounts",
+      "duration": 2601
+    },
+    {
+      "id": "HZ8uXq5VG2w",
+      "title": "Python Tutorial: Simulate the Powerball Lottery Using Python",
+      "duration": 2336
+    },
+    {
+      "id": "jRAAaDll34Q",
+      "title": "How to Use ChatGPT as a Powerful Tool for Programming",
+      "duration": 1868
+    },
+    {
+      "id": "PYuTzLswn_Y",
+      "title": "Python Tutorial: Securely Manage Passwords and API Keys with DotEnv",
+      "duration": 1018
+    },
+    {
+      "id": "jNoTEiI2cVU",
+      "title": "Automating My Bill Payments with Python and Selenium",
+      "duration": 4710
+    },
+    {
+      "id": "epDKamC-V-8",
+      "title": "Python Tkinter Tutorial (Part 1): Getting Started, Elements, Layouts, and Events",
+      "duration": 2468
+    },
+    {
+      "id": "yxa-DJuuTBI",
+      "title": "Python Tutorial: Pathlib - The Modern Way to Handle File Paths",
+      "duration": 2091
+    },
+    {
+      "id": "ECt0TAl41Zk",
+      "title": "Python Tutorial: Generate a Web Portfolio and Resume from One JSON File",
+      "duration": 1450
+    },
+    {
+      "id": "4TFQD0ok5Ao",
+      "title": "I Let Python Pick My March Madness Bracket - Bracket Simulation Tutorial",
+      "duration": 1445
+    },
+    {
+      "id": "AMdG7IjgSPM",
+      "title": "Python Tutorial: UV - A Faster, All-in-One Package Manager to Replace Pip and Venv",
+      "duration": 1622
+    },
+    {
+      "id": "828S-DMQog8",
+      "title": "Python Tutorial: Ruff - A Fast Linter & Formatter to Replace Multiple Tools and Improve Code Quality",
+      "duration": 2147
+    },
+    {
+      "id": "fM4O9bModsE",
+      "title": "Python Tutorial: Type Hinting vs Type Checking vs Data Validation - What’s the Difference?",
+      "duration": 1096
+    },
+    {
+      "id": "RwH2UzC2rIo",
+      "title": "Python Tutorial: Type Hints - From Basic Annotations to Advanced Generics",
+      "duration": 2459
+    },
+    {
+      "id": "oAkLSJNr5zY",
+      "title": "Python Tutorial: AsyncIO - Complete Guide to Asynchronous Programming with Animations",
+      "duration": 6161
+    },
+    {
+      "id": "M81pfi64eeM",
+      "title": "Python Pydantic Tutorial: Complete Data Validation Course (Used by FastAPI)",
+      "duration": 5365
+    },
+    {
+      "id": "iukOehU5aF4",
+      "title": "Python FastAPI Tutorial: Full Course for Beginners - Build a Full-Stack Web App",
+      "duration": 51817
+    }
+  ]
+}

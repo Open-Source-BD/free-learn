@@ -1,0 +1,420 @@
+{
+  "courseId": "most-asked-core-java-frequently-asked-questions-0bf22b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:50.394Z",
+  "title": "Core Java frequently asked Interview Questions and Answers",
+  "channel": "Code Decode",
+  "videos": [
+    {
+      "id": "PwiuAebCruY",
+      "title": "Top Core Java Interview Questions || Core Java Interview Questions and Answers [MOST ASKED]",
+      "duration": 948
+    },
+    {
+      "id": "KfoNYoVUBJI",
+      "title": "Java collections framework interview questions and Answers | MOST ASKED | Core Java | Code Decode",
+      "duration": 1617
+    },
+    {
+      "id": "w4sGl3HxgZw",
+      "title": "Java is pass/call by value or pass/call by reference [MOST IMP. JAVA INTERVIEW QUESTION]| ode Decode",
+      "duration": 503
+    },
+    {
+      "id": "-MQieYxw2nc",
+      "title": "Why comparable and comparator is needed || Need of Comparable and Comparator in Java",
+      "duration": 204
+    },
+    {
+      "id": "b-KccmQYvlM",
+      "title": "Comparable and Comparator Implementation in Java with Example [Interview Question]",
+      "duration": 458
+    },
+    {
+      "id": "Qn0uk50gMUM",
+      "title": "Comparable VS Comparator || Comparable and Comparator [Most Asked Interview Question]",
+      "duration": 270
+    },
+    {
+      "id": "4X5Kgi2VltI",
+      "title": "Equals and Hashcode Contract in Java [Important Java Interview Question] | Code Decode",
+      "duration": 781
+    },
+    {
+      "id": "jdKK6p3gvPg",
+      "title": "Can we restrict visibility of derived method in Java ? ||  visibility control in java",
+      "duration": 213
+    },
+    {
+      "id": "8JTqOnVyQyY",
+      "title": "Shadowing variable in Java | Common Core Java Interview Question | Data shadowing | Code Decode",
+      "duration": 294
+    },
+    {
+      "id": "wbvW3w47QRw",
+      "title": "Association(HAS-A) Aggregation And Composition in Java [MOST COMMONLY ASKED INTERVIEW QUESTION]",
+      "duration": 323
+    },
+    {
+      "id": "wFvvCG0foxw",
+      "title": "Covariant return types in Java [ MOST TRICKY CORE JAVA INTERVIEW QUESTION ] | Code Decode",
+      "duration": 311
+    },
+    {
+      "id": "gXctfxRV-gY",
+      "title": "Exception Handling Interview questions and answers in Java | Part -1 | Code Decode",
+      "duration": 1395
+    },
+    {
+      "id": "mrh9jBYsEpU",
+      "title": "Type promotions in Java || Method overloading with type promotion [IMP Interview Concept]",
+      "duration": 340
+    },
+    {
+      "id": "oUdENE7ljjw",
+      "title": "Java 8 new features || Java 8 Interview Questions and Answers ( Live Demo with Examples )",
+      "duration": 1234
+    },
+    {
+      "id": "bxtNFqldAuk",
+      "title": "Java 8 New Features Interview Questions And Answers( Live Demo) Part 2 | Code Decode",
+      "duration": 1361
+    },
+    {
+      "id": "3b8I4rzqF0c",
+      "title": "Java 8 Predicate, Function, Chaining, Predicate Joining interview questions (Live Demo) Code Decode",
+      "duration": 1456
+    },
+    {
+      "id": "7-ALyd6OAaQ",
+      "title": "Java 8 Interview Questions And Answers | Consumer || BiConsumer || Supplier || Chaining  (Live Demo)",
+      "duration": 1050
+    },
+    {
+      "id": "J-RTlluJv7E",
+      "title": "Top Java 8 Streams API Interview Questions and Answers | Parallel Stream | Code Decode",
+      "duration": 1194
+    },
+    {
+      "id": "n5NZkN74vns",
+      "title": "Java 8 new feature -  Default methods | Code Decode",
+      "duration": 225
+    },
+    {
+      "id": "G6U0h7MvR-k",
+      "title": "Static Method in Interface Java 8 | Code Decode [MOST IMPORTANT CORE JAVA INTERVIEW QUESTION]",
+      "duration": 346
+    },
+    {
+      "id": "Xa6oGWOyF3I",
+      "title": "Can we implement dynamic polymorphism with instance variables or data members | Code Decode",
+      "duration": 523
+    },
+    {
+      "id": "XhNeSRx0lH4",
+      "title": "Why default method in Java 8 || Default method || (Most Asked  Interview Question) | Code Decode",
+      "duration": 292
+    },
+    {
+      "id": "0pCyqDAGafY",
+      "title": "Diamond/Ambiguity problem of multiple inheritance due to Default methods in Java 8 [ SOLVED !! ]",
+      "duration": 293
+    },
+    {
+      "id": "JFvSCobD7JU",
+      "title": "Java Design Pattern Interview Questions and Answers [ MOST ASKED DESIGN PATTERN INTERVIEW QUESTIONS]",
+      "duration": 2433
+    },
+    {
+      "id": "QfnZGam76kE",
+      "title": "Java Design Pattern Interview Questions & Answers || Proxy & Flyweight Design Pattern [Live Demo]",
+      "duration": 1518
+    },
+    {
+      "id": "1vg1Qg6cugc",
+      "title": "Spring Boot Interview Questions and Answer | Most asked / Tricky Interview Questions | Code Decode",
+      "duration": 2344
+    },
+    {
+      "id": "RZNV9hi7a8w",
+      "title": "Spring Boot Interview Questions And Answer | Spring Boot Interview Question Part 2 | Code Decode",
+      "duration": 2394
+    },
+    {
+      "id": "7Ven3G_-GqI",
+      "title": "Project Lombok tutorial in Spring Boot with example | Java | Spring MVC | [Live Demo] | Code Decode",
+      "duration": 501
+    },
+    {
+      "id": "EeRFOVMf7rE",
+      "title": "Garbage Collection Interview Questions and Answers in Java | With Live Demo | Code Decode",
+      "duration": 1502
+    },
+    {
+      "id": "bu12JCTeWOo",
+      "title": "Garbage Collection Interview Questions and Answers in Java - Part 2 | Fresher + Exp (With Live Demo)",
+      "duration": 1314
+    },
+    {
+      "id": "B-Z-urB01NE",
+      "title": "Hibernate Interview Questions and Answers in Java with examples PART -1[ MOST ASKED] Code Decode",
+      "duration": 1967
+    },
+    {
+      "id": "b3drcKdA2zg",
+      "title": "Hibernate Interview Questions and Answers in Java PART 2 [ MOST ASKED WITH LIVE CODE DEMO]",
+      "duration": 2182
+    },
+    {
+      "id": "bHU4gDsDHLA",
+      "title": "Most Asked Multithreading Interview Questions and Answers in Java | Code Decode",
+      "duration": 1587
+    },
+    {
+      "id": "Sh9FhCZJAoU",
+      "title": "Best time to buy and sell Stock in Java || Java coding Interview Question with solution [MOST ASKED]",
+      "duration": 837
+    },
+    {
+      "id": "Nz6g92KerSo",
+      "title": "Two Sum with Hash Map || Most asked Java Coding Interview Questions and Answers",
+      "duration": 754
+    },
+    {
+      "id": "sZhIlkGX6T8",
+      "title": "Two Sum Leetcode Interview Question part -1 | Most asked Java Coding Interview Questions and Answers",
+      "duration": 644
+    },
+    {
+      "id": "cqQN8g4oR98",
+      "title": "Parallel Streams intro || Stream processing Interview Questions and Answers Java 8 | Code Decode",
+      "duration": 1814
+    },
+    {
+      "id": "MVMEdF_d6S4",
+      "title": "Spring Boot CRUD Example  ||  Hibernate(JPA) + MySql || Spring Boot Interview Questions (Live Demo)",
+      "duration": 2284
+    },
+    {
+      "id": "w9c4vz-QprI",
+      "title": "Spring Boot CRUD best practice with Annotations || Hibernate + MySQL || Live Demo",
+      "duration": 2374
+    },
+    {
+      "id": "WH_d9Tw4CPs",
+      "title": "Custom Exception Handling in Spring Boot | Spring Boot Interview Questions | Code Decode | Live Demo",
+      "duration": 2179
+    },
+    {
+      "id": "tLF1wYZs4Bk",
+      "title": "Java Multithreading Interview Questions and Answers || Daemon Thread in java || Part 2 (Live Demo)",
+      "duration": 1461
+    },
+    {
+      "id": "wpFtPQLG9Vs",
+      "title": "Java Interview Questions and Answers for Fresher and Experienced [MOST ASKED ] Code Decode",
+      "duration": 945
+    },
+    {
+      "id": "PSAT-ORaQ-s",
+      "title": "Top Tricky Java Interview Questions and Answers | Java Interview Questions and Answers | Code Decode",
+      "duration": 1456
+    },
+    {
+      "id": "3F5kq-4jxPI",
+      "title": "Stack and Queue Implementation in Java | Java Interview Question and Answers | DS & Algo series EP-1",
+      "duration": 1244
+    },
+    {
+      "id": "rxYCRxKCZSY",
+      "title": "Binary Tree and its Types using Recursion | Data Structure | Inorder Preorder Postorder Levelorder",
+      "duration": 1493
+    },
+    {
+      "id": "YAOFbdDbjNY",
+      "title": "Most Asked Tricky Core Java Interview Questions and Answers for Fresher and Experienced |Code Decode",
+      "duration": 1385
+    },
+    {
+      "id": "dQV6BeAlBvI",
+      "title": "How to Break Singleton Design pattern in Java || Java Interview Questions and Answers | Code Decode",
+      "duration": 1114
+    },
+    {
+      "id": "TU_TEoYCpPs",
+      "title": "Java CODING Interview Questions and Answers for freshers and experienced | Part 1 | Code Decode",
+      "duration": 878
+    },
+    {
+      "id": "ZI6Et1bVen0",
+      "title": "Tricky Core Java Interview Questions and Answers for freshers and experienced | Code Decode",
+      "duration": 1242
+    },
+    {
+      "id": "bJT634zMbAM",
+      "title": "Concurrent Collection Interview questions and Answers for experienced and freshers | Code Decode",
+      "duration": 1265
+    },
+    {
+      "id": "uQLAToNIlNE",
+      "title": "Java Tricky Concurrent Collection Interview Questions and Answers | Part 2 | Code Decode",
+      "duration": 880
+    },
+    {
+      "id": "FJdryrcDD2s",
+      "title": "Most Asked SQL interview questions and answers for Java Developers with examples | Code Decode",
+      "duration": 994
+    },
+    {
+      "id": "7k0VYHuUF6g",
+      "title": "Internal Working and implementation of hashmap and hashset | Java Interview Questions | Code Decode",
+      "duration": 1377
+    },
+    {
+      "id": "P6WaVsP9cqs",
+      "title": "Parking Lot System Design Interview Question and Answer in Java| Object Oriented Design| Code Decode",
+      "duration": 1634
+    },
+    {
+      "id": "66RR_-NOZEk",
+      "title": "Most Common Core Java String Coding Interview Question | Leetcode| String Rotation |Code Decode",
+      "duration": 1039
+    },
+    {
+      "id": "FePI2qUjI6Y",
+      "title": "Java Interview Questions and Answers for 3 to 10 years of  Experienced Developers|Part-1|Code Decode",
+      "duration": 880
+    },
+    {
+      "id": "VUXvBxtuTT8",
+      "title": "Program to Find Duplicate character in a String Coding Interview Question and Answer | Code Decode",
+      "duration": 1167
+    },
+    {
+      "id": "i-OZbcvneqo",
+      "title": "Java String interview Questions and Answers with example| Immutable | Most Asked | Code Decode",
+      "duration": 1219
+    },
+    {
+      "id": "PMhrMDHFFW4",
+      "title": "Java 8 Stream Collectors groupingBy Example | Java 8 coding Interview Questions & Answer|Code Decode",
+      "duration": 938
+    },
+    {
+      "id": "b4Atxh-a97M",
+      "title": "Java 8 Coding Interview Questions and Answers| Min Max Average & Sum | Most Important | Code Decode",
+      "duration": 684
+    },
+    {
+      "id": "aaokKp87Hoc",
+      "title": "Find Duplicate Elements from list using Java 8 | Java 8 coding Interview Questions | Code Decode",
+      "duration": 969
+    },
+    {
+      "id": "S0hOCaF6_3k",
+      "title": "Java 8 Interview Questions and Answers | Scenario Based | Code Decode | Programs for Experienced",
+      "duration": 978
+    },
+    {
+      "id": "3BSrJDI-nLQ",
+      "title": "Master Java 8 Optional with Examples : Top Interview Questions & Answers | Part 1 | Code Decode",
+      "duration": 954
+    },
+    {
+      "id": "FR1oQzBIKJ4",
+      "title": "Java 8 Programming/Coding interview Question and Answers with Sort Limit and Skip | Code Decode",
+      "duration": 601
+    },
+    {
+      "id": "ZnGToO5fL20",
+      "title": "Java 8 Short Circuit operation Stream with Demo| Coding Interview Questions and Answers |Code Decode",
+      "duration": 1249
+    },
+    {
+      "id": "NIv6hqPMnFA",
+      "title": "Differences between Arraylist vs Linkedlist Java Interview Questions | Vector vs Array | Code Decode",
+      "duration": 1025
+    },
+    {
+      "id": "HFQAPW8SMBM",
+      "title": "Java Coding Interview Questions and Answers | Sorting using comparator | Code Decode | [Most Common]",
+      "duration": 878
+    },
+    {
+      "id": "QnDqtsU2VXY",
+      "title": "Linked List Coding Interview Questions in Java | Cycle Detection | Find Middle node | Code Decode",
+      "duration": 1046
+    },
+    {
+      "id": "RS8oyAJHl2M",
+      "title": "Exception handling Interview Questions and Answers in Java | Code Decode | Live Demo | Part 2",
+      "duration": 1075
+    },
+    {
+      "id": "nUFoDfGl1II",
+      "title": "Serialization Deserialization & Externalization | Java Interview Questions and Answer | Code Decode",
+      "duration": 1714
+    },
+    {
+      "id": "Eo3mtkiB2-0",
+      "title": "Serialization VS Externalization | Serialization vulnerabilities | Code Decode",
+      "duration": 793
+    },
+    {
+      "id": "kTb2FyX40oM",
+      "title": "Mockito Junit Interview Question and Answer for fresher and experienced with example | Code Decode",
+      "duration": 1446
+    },
+    {
+      "id": "_KWqM3HcCHE",
+      "title": "Master Strategy Design Pattern in Spring Boot | Interview-Ready Guide with Answers | Code Decode",
+      "duration": 1386
+    },
+    {
+      "id": "WzLE1XWtNTc",
+      "title": "Accenture Real Java Interview Questions and Answers in Oct-2022 | Candidate Selected | Code Decode",
+      "duration": 1244
+    },
+    {
+      "id": "cD7-SXpZDOU",
+      "title": "Checked Vs unchecked Exceptions with example in Java Interview Questions and Answers | Code Decode",
+      "duration": 530
+    },
+    {
+      "id": "Q1FWyk6q5Fg",
+      "title": "Most Asked Java Collection Framework Interview Questions and Answers | Code Decode | Part 2",
+      "duration": 1496
+    },
+    {
+      "id": "y6uCk_Kwe74",
+      "title": "How to Reverse a LinkedList in Java | Data Structure and algorithm | Leetcode 206 | Code Decode",
+      "duration": 996
+    },
+    {
+      "id": "a_Z9Wio_lyM",
+      "title": "Most Asked Java, Spring Boot, M's Interview question for 5+ years experienced in 2023 | Code Decode",
+      "duration": 1862
+    },
+    {
+      "id": "qhIkqUC1tXQ",
+      "title": "Java 23 features | What's new in Java 23 |Interview Questions and Answers | Code Decode",
+      "duration": 1963
+    },
+    {
+      "id": "Z3h6T8-iQxk",
+      "title": "Top Java Lead Developer Interview Questions and Answers You must know ! | Code Decode",
+      "duration": 1591
+    },
+    {
+      "id": "7NJzfdYi8Is",
+      "title": "All About Java 8+ Date Time API in 2025 | Interview Question & Answer for Experienced | Code Decode",
+      "duration": 1182
+    },
+    {
+      "id": "LpOx5EE_IJM",
+      "title": "All about Singleton design pattern Java | 5 Pattern | 15 Interview Questions & Answer | Code Decode",
+      "duration": 1930
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "courseId": "golang-gin-http-framework-75ce2b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:40.699Z",
+  "title": "Golang Tutorial | Gin HTTP Framework",
+  "channel": "Pragmatic Reviews",
+  "videos": [
+    {
+      "id": "qR0WnWL2o1Q",
+      "title": "Golang / Go Gin Framework Crash Course 01 | Getting Started",
+      "duration": 1106
+    },
+    {
+      "id": "Ypwv1mFZ5vU",
+      "title": "Golang / Go Gin Framework Crash Course 02 |  Middlewares 101: Authorization, Logging and Debugging",
+      "duration": 832
+    },
+    {
+      "id": "lZsbPtGfGIs",
+      "title": "Golang Gin Framework Crash Course 03 | Data Binding and Validation",
+      "duration": 1091
+    },
+    {
+      "id": "sDJLQMZzzM4",
+      "title": "Golang / Go Gin Framework Crash Course 04 | HTML, Templates and Multi-Route Grouping",
+      "duration": 801
+    },
+    {
+      "id": "5GINgmS93Mc",
+      "title": "Golang Gin Framework Crash Course 05 | Deployment on AWS with Elastic Beanstalk (bonus: IAM setup)",
+      "duration": 818
+    },
+    {
+      "id": "OUimJ0y8lzI",
+      "title": "Golang / Go Gin Framework Crash Course 06 | Deployment on AWS with Elastic Beanstalk using Docker",
+      "duration": 632
+    },
+    {
+      "id": "JgW-i2QjgHQ",
+      "title": "Golang / Go Gin Framework Crash Course 07 | Deployment on Heroku in 2 minutes or less with the CLI",
+      "duration": 454
+    },
+    {
+      "id": "ganw5GJAeRE",
+      "title": "Golang / Go Gin Framework Crash Course 08 | Setting up a CI/CD pipeline with GitLab CI and Heroku",
+      "duration": 756
+    },
+    {
+      "id": "p3maH9G_DLM",
+      "title": "Golang Gin Framework Crash Course 09 | Setting up a JSON Web Token (JWT) Authorization Middleware",
+      "duration": 587
+    },
+    {
+      "id": "s9AE6np1mFk",
+      "title": "Golang Gin Framework Crash Course 10 | Getting Started with GORM  (Golang's ORM library)",
+      "duration": 1622
+    },
+    {
+      "id": "fehHaHPjrs8",
+      "title": "Golang / Go Gin Framework Crash Course 11 | REST API Documentation and Test with Swagger (OpenAPI)",
+      "duration": 907
+    },
+    {
+      "id": "t4MBGpEFHyk",
+      "title": "Golang Gin Framework Crash Course 12 | BDD Testing with Ginkgo and Gomega",
+      "duration": 421
+    },
+    {
+      "id": "n9l7Unz6BtU",
+      "title": "Mastering Golang: Create a GraphQL Server with Gin!",
+      "duration": 590
+    },
+    {
+      "id": "LX1Ny1zWGEs",
+      "title": "Conquer JWT Authorization in Your Golang GraphQL Server",
+      "duration": 357
+    },
+    {
+      "id": "LmKE0E9XzrY",
+      "title": "Master GIN HTTP Framework Basics in Just 5 Minutes!",
+      "duration": 287
+    },
+    {
+      "id": "lPZ9XiMfyA8",
+      "title": "What's the Secret to Mastering Gin Framework Basics?",
+      "duration": 60
+    }
+  ]
+}

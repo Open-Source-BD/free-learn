@@ -1,0 +1,230 @@
+{
+  "courseId": "the-rust-lang-book-a36410",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:08.766Z",
+  "title": "The Rust Lang Book",
+  "channel": "Let's Get Rusty",
+  "videos": [
+    {
+      "id": "OX9HJsJUDxA",
+      "title": "ULTIMATE Rust Lang Tutorial! - Getting Started",
+      "duration": 430
+    },
+    {
+      "id": "H0xBSbnQYds",
+      "title": "Programming a Guessing Game in Rust!",
+      "duration": 802
+    },
+    {
+      "id": "2V0JaMVjzws",
+      "title": "Common Programming Concepts in Rust",
+      "duration": 873
+    },
+    {
+      "id": "VFIOSWy93H0",
+      "title": "Understanding Ownership in Rust",
+      "duration": 1530
+    },
+    {
+      "id": "n3bPhdiJm9I",
+      "title": "Structs in Rust",
+      "duration": 1042
+    },
+    {
+      "id": "DSZqIJhkNCM",
+      "title": "Enums and Pattern Matching in Rust",
+      "duration": 754
+    },
+    {
+      "id": "5RPXgDQrjio",
+      "title": "Rust's Module System Explained!",
+      "duration": 1346
+    },
+    {
+      "id": "Zs-pS-egQSs",
+      "title": "Common Collections in Rust",
+      "duration": 1495
+    },
+    {
+      "id": "wM6o70NAWUI",
+      "title": "Error Handling in Rust",
+      "duration": 980
+    },
+    {
+      "id": "6rcTSxPJ6Bw",
+      "title": "Generic Types in Rust",
+      "duration": 918
+    },
+    {
+      "id": "T0Xfltu4h3A",
+      "title": "Traits in Rust",
+      "duration": 704
+    },
+    {
+      "id": "juIINGuZyBc",
+      "title": "Rust Lifetimes Finally Explained!",
+      "duration": 1150
+    },
+    {
+      "id": "18-7NoNPO30",
+      "title": "Testing in Rust",
+      "duration": 915
+    },
+    {
+      "id": "-L4nKAlmH3M",
+      "title": "Testing in Rust - Part 2",
+      "duration": 850
+    },
+    {
+      "id": "XYkiwsplDTg",
+      "title": "Writing a CLI App in Rust! - Part 1",
+      "duration": 1064
+    },
+    {
+      "id": "AABHxixn6Cw",
+      "title": "Writing a CLI App in Rust! - Part 2",
+      "duration": 1001
+    },
+    {
+      "id": "kZXJvLfjUS4",
+      "title": "Closures in Rust",
+      "duration": 1193
+    },
+    {
+      "id": "4GcKrj4By8k",
+      "title": "Iterators in Rust",
+      "duration": 805
+    },
+    {
+      "id": "rb63xJEjaZU",
+      "title": "Iterators in Practice",
+      "duration": 420
+    },
+    {
+      "id": "4TI153PIEDQ",
+      "title": "Publishing a Rust Crate!",
+      "duration": 842
+    },
+    {
+      "id": "70_9IIsQfjs",
+      "title": "Cargo Workspaces",
+      "duration": 713
+    },
+    {
+      "id": "m76sRj2VgGo",
+      "title": "The Box Smart Pointer in Rust",
+      "duration": 738
+    },
+    {
+      "id": "dYEC6NElVOg",
+      "title": "Smart Pointers in Rust - The Deref Trait",
+      "duration": 601
+    },
+    {
+      "id": "RPWZcTYBS4k",
+      "title": "Smart Pointers in Rust - The Drop Trait",
+      "duration": 307
+    },
+    {
+      "id": "M9Owp3iLigg",
+      "title": "Smart Pointers in Rust - Reference Counting",
+      "duration": 521
+    },
+    {
+      "id": "77aRH6YBKyY",
+      "title": "Smart Pointers in Rust - Interior Mutability",
+      "duration": 1024
+    },
+    {
+      "id": "pIVZRDFAUyc",
+      "title": "Smart Pointers in Rust - Reference Cycles",
+      "duration": 938
+    },
+    {
+      "id": "06WcsNPUNC8",
+      "title": "Concurrency in Rust - Creating Threads",
+      "duration": 641
+    },
+    {
+      "id": "FE1BkKqYCGU",
+      "title": "Concurrency in Rust - Message Passing",
+      "duration": 566
+    },
+    {
+      "id": "mupwF9jbVZ4",
+      "title": "Concurrency in Rust - Sharing State",
+      "duration": 552
+    },
+    {
+      "id": "UGDa0P2PXrY",
+      "title": "Object Oriented Programming in Rust",
+      "duration": 430
+    },
+    {
+      "id": "ReBmm0eJg6g",
+      "title": "Using Trait Objects in Rust",
+      "duration": 812
+    },
+    {
+      "id": "VFmPwvhubow",
+      "title": "State Design Pattern in Rust",
+      "duration": 1221
+    },
+    {
+      "id": "NzeQbiiqhgo",
+      "title": "Patterns and Matching",
+      "duration": 602
+    },
+    {
+      "id": "8_HPKGZGM5I",
+      "title": "Pattern Syntax in Rust",
+      "duration": 924
+    },
+    {
+      "id": "9E2v8pCUc48",
+      "title": "Writing Unsafe Rust",
+      "duration": 926
+    },
+    {
+      "id": "RDxz94tuxqM",
+      "title": "Advanced Traits in Rust",
+      "duration": 815
+    },
+    {
+      "id": "aI1oIFqh44Y",
+      "title": "Advanced Types in Rust",
+      "duration": 516
+    },
+    {
+      "id": "rnxutl7t1hI",
+      "title": "Advanced Function and Closures in Rust",
+      "duration": 475
+    },
+    {
+      "id": "KsJHlqULpO4",
+      "title": "Declarative Macros in Rust",
+      "duration": 416
+    },
+    {
+      "id": "crWfcA064is",
+      "title": "Procedural Macros in Rust",
+      "duration": 693
+    },
+    {
+      "id": "BHxmWTVFWxQ",
+      "title": "Building a Web Server in Rust - Part 1",
+      "duration": 979
+    },
+    {
+      "id": "1AamFJGAE8E",
+      "title": "Building a Web Server in Rust - Part 2",
+      "duration": 1251
+    },
+    {
+      "id": "qjx8vutWaUQ",
+      "title": "Building a Web Server in Rust - Part 3",
+      "duration": 499
+    }
+  ]
+}

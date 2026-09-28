@@ -1,0 +1,660 @@
+{
+  "courseId": "java-programming-c44fc7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:38.013Z",
+  "title": "Java Programming",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "VHbSopMyc4M",
+      "title": "Why take this Java Course?",
+      "duration": 269
+    },
+    {
+      "id": "-C88r0niLQQ",
+      "title": "Programs and Programming Languages",
+      "duration": 483
+    },
+    {
+      "id": "mG4NLNZ37y4",
+      "title": "Introduction to Java Programming",
+      "duration": 364
+    },
+    {
+      "id": "vsxYucdzimA",
+      "title": "Anatomy of Java Program",
+      "duration": 760
+    },
+    {
+      "id": "ifirpBZLeCk",
+      "title": "Displaying Messages in Java",
+      "duration": 518
+    },
+    {
+      "id": "UFMqdnUh4nI",
+      "title": "Displaying Numbers in Java",
+      "duration": 171
+    },
+    {
+      "id": "FjGMYpXS9iE",
+      "title": "Configuring our Java Development Environment",
+      "duration": 247
+    },
+    {
+      "id": "gHXzyAkbUhk",
+      "title": "Creating, Compiling, and Executing a Java Program",
+      "duration": 625
+    },
+    {
+      "id": "AVpLMoTnwM8",
+      "title": "Our First Java Project",
+      "duration": 530
+    },
+    {
+      "id": "mgixJYEZ1Fk",
+      "title": "Java Packages, Classes, and Methods",
+      "duration": 551
+    },
+    {
+      "id": "SITEc4DWwsQ",
+      "title": "public, private, and static in Java",
+      "duration": 321
+    },
+    {
+      "id": "14Cfx3fpH-w",
+      "title": "The void Return Type in Java",
+      "duration": 314
+    },
+    {
+      "id": "Up17-azeuyE",
+      "title": "Command Line Arguments in Java",
+      "duration": 381
+    },
+    {
+      "id": "OXYT01qrDrc",
+      "title": "Programming Styles",
+      "duration": 184
+    },
+    {
+      "id": "dPQaQWyqYoc",
+      "title": "Programming Errors",
+      "duration": 331
+    },
+    {
+      "id": "N2m2pm1rMPE",
+      "title": "Type Faster in IntelliJ",
+      "duration": 355
+    },
+    {
+      "id": "-94U78VoufQ",
+      "title": "Java Exercise - Creating Classes & Methods",
+      "duration": 415
+    },
+    {
+      "id": "doxwM_gVc90",
+      "title": "Java Basics - An Overview",
+      "duration": 283
+    },
+    {
+      "id": "N8LDSryePuc",
+      "title": "Introduction to Variables in Java",
+      "duration": 533
+    },
+    {
+      "id": "Ls14YnfR7Hg",
+      "title": "Variables in Java - Practice",
+      "duration": 427
+    },
+    {
+      "id": "Ccc-Sk8qMAQ",
+      "title": "Constants in Java",
+      "duration": 325
+    },
+    {
+      "id": "1C9f4mqDDlY",
+      "title": "Identifiers in Java",
+      "duration": 255
+    },
+    {
+      "id": "UwpXXiGdlOE",
+      "title": "Introduction to Data Types in Java",
+      "duration": 234
+    },
+    {
+      "id": "o4Ha6wMOemQ",
+      "title": "The int Data Type in Java",
+      "duration": 249
+    },
+    {
+      "id": "fGta43iNjNM",
+      "title": "The byte, short, and long Data Types in Java",
+      "duration": 413
+    },
+    {
+      "id": "sgShaqAI1L8",
+      "title": "Integers Data Types in Java - Practice",
+      "duration": 290
+    },
+    {
+      "id": "ilgo8h4cYnU",
+      "title": "Bytes and Values in Java",
+      "duration": 279
+    },
+    {
+      "id": "shHBfb71UJo",
+      "title": "The double and float Data Types in Java",
+      "duration": 349
+    },
+    {
+      "id": "jB5F-GkOhDo",
+      "title": "The char Data Type in Java",
+      "duration": 415
+    },
+    {
+      "id": "Jlv_fdB4cTY",
+      "title": "The boolean Data Type in Java",
+      "duration": 293
+    },
+    {
+      "id": "VElPtzsDEWU",
+      "title": "The String Data Type in Java",
+      "duration": 302
+    },
+    {
+      "id": "Ml08Trm5a58",
+      "title": "Calling String Methods in Java",
+      "duration": 634
+    },
+    {
+      "id": "xD7scpUWcOg",
+      "title": "Concatenating Strings in Java",
+      "duration": 375
+    },
+    {
+      "id": "OmcFVHpb0v0",
+      "title": "Primitive Types and Reference Types in Java",
+      "duration": 388
+    },
+    {
+      "id": "V4yLuptZq40",
+      "title": "Instantiating a String Object",
+      "duration": 323
+    },
+    {
+      "id": "MQcWw_A_pr0",
+      "title": "Strings are Immutable in Java",
+      "duration": 301
+    },
+    {
+      "id": "huZ1neRqNho",
+      "title": "The Scanner Class in Java",
+      "duration": 393
+    },
+    {
+      "id": "mEw96VszaYE",
+      "title": "Reading Input From the Keyboard in Java",
+      "duration": 344
+    },
+    {
+      "id": "Az1SasgFzyo",
+      "title": "Java Exercise – Favorite Number",
+      "duration": 278
+    },
+    {
+      "id": "WLueH0XFOPc",
+      "title": "Java Exercise – Name and Age",
+      "duration": 275
+    },
+    {
+      "id": "va3xGHeYD9E",
+      "title": "Literals in Java",
+      "duration": 79
+    },
+    {
+      "id": "QSsjB1tMPhA",
+      "title": "The Assignment Operator in Java",
+      "duration": 455
+    },
+    {
+      "id": "_XZ6i7cjdH8",
+      "title": "Arithmetic Operators in Java",
+      "duration": 365
+    },
+    {
+      "id": "BuMbVAN0_-8",
+      "title": "Increment and Decrement Operators in Java",
+      "duration": 314
+    },
+    {
+      "id": "9ATVKpRZaPg",
+      "title": "Casting in Java",
+      "duration": 487
+    },
+    {
+      "id": "PJDEuQK7rE8",
+      "title": "The Division Operator in Java",
+      "duration": 321
+    },
+    {
+      "id": "AMwQvOR9sxA",
+      "title": "The Division Operator (Examples)",
+      "duration": 363
+    },
+    {
+      "id": "EDepDr70dqg",
+      "title": "Relational Operators in Java",
+      "duration": 350
+    },
+    {
+      "id": "aGvuQanOfRQ",
+      "title": "Logical Operators in Java",
+      "duration": 379
+    },
+    {
+      "id": "Kgp2N7qmk1s",
+      "title": "Conditional Operator in Java",
+      "duration": 313
+    },
+    {
+      "id": "DOlg2dBrErc",
+      "title": "if Statement in Java",
+      "duration": 394
+    },
+    {
+      "id": "d22sjIO4wQM",
+      "title": "if Statement – Exercise",
+      "duration": 197
+    },
+    {
+      "id": "-VeUElwL27I",
+      "title": "if-else Statement in Java",
+      "duration": 217
+    },
+    {
+      "id": "6sYZDA8JPhk",
+      "title": "Nested if-else Statements in Java",
+      "duration": 326
+    },
+    {
+      "id": "wcwWlasmLWs",
+      "title": "switch Statement in Java",
+      "duration": 279
+    },
+    {
+      "id": "44VPxJYgtkw",
+      "title": "switch vs. if-else in Java",
+      "duration": 285
+    },
+    {
+      "id": "BhFXlOE2agg",
+      "title": "if-else Statement (Exercise 1)",
+      "duration": 449
+    },
+    {
+      "id": "zk7VuMPE-ww",
+      "title": "if-else Statement (Exercise 2)",
+      "duration": 400
+    },
+    {
+      "id": "g8GcFboF2rM",
+      "title": "The While Loop in Java",
+      "duration": 474
+    },
+    {
+      "id": "dw-4mDaxPu8",
+      "title": "While Loop – Exercise",
+      "duration": 360
+    },
+    {
+      "id": "2E-UgePiOoo",
+      "title": "The Do While Loop in Java",
+      "duration": 414
+    },
+    {
+      "id": "GwcisLY5avc",
+      "title": "The For Loop in Java",
+      "duration": 509
+    },
+    {
+      "id": "CwjSpUIFi7w",
+      "title": "Nested Loops in Java",
+      "duration": 609
+    },
+    {
+      "id": "aITdnsUTeek",
+      "title": "Break and Continue Keywords in Java",
+      "duration": 360
+    },
+    {
+      "id": "cxhf69OL_oM",
+      "title": "Loops in Java (Exercise 1)",
+      "duration": 365
+    },
+    {
+      "id": "WFBEV-j0jZM",
+      "title": "Loops in Java (Exercise 2)",
+      "duration": 355
+    },
+    {
+      "id": "ws0jAnMn7AM",
+      "title": "Loops in Java (Exercise 3)",
+      "duration": 394
+    },
+    {
+      "id": "XYmPN55q-as",
+      "title": "Loops in Java (Exercise 4)",
+      "duration": 435
+    },
+    {
+      "id": "w3TPqnwxVyg",
+      "title": "Loops in Java (Exercise 5)",
+      "duration": 572
+    },
+    {
+      "id": "hFRgjAusrhA",
+      "title": "Loops in Java (Exercise 6)",
+      "duration": 288
+    },
+    {
+      "id": "e49tD9XaCWQ",
+      "title": "Loops in Java (Exercise 7)",
+      "duration": 588
+    },
+    {
+      "id": "xhFlv0I1Uak",
+      "title": "Loops in Java (Exercise 8)",
+      "duration": 159
+    },
+    {
+      "id": "WZv8momDIAY",
+      "title": "Loops in Java (Exercise 9)",
+      "duration": 227
+    },
+    {
+      "id": "JsOVfu4qQvw",
+      "title": "Loops in Java (Exercise 10)",
+      "duration": 527
+    },
+    {
+      "id": "YjyT0t58p90",
+      "title": "Loops in Java (Exercise 11)",
+      "duration": 259
+    },
+    {
+      "id": "26cu_jyik10",
+      "title": "Loops in Java (Exercise 12)",
+      "duration": 428
+    },
+    {
+      "id": "j2xmaxUCbz0",
+      "title": "Loops in Java (Exercise 13)",
+      "duration": 316
+    },
+    {
+      "id": "kFd_HuYUwkU",
+      "title": "Loops in Java (Exercise 14)",
+      "duration": 328
+    },
+    {
+      "id": "2nTjUAeD5WE",
+      "title": "Scope and Local Variables in Java",
+      "duration": 581
+    },
+    {
+      "id": "r0SewFmbCUI",
+      "title": "Methods in Java",
+      "duration": 556
+    },
+    {
+      "id": "H71vRa86AGg",
+      "title": "Passing Arguments by Value in Java",
+      "duration": 187
+    },
+    {
+      "id": "q_q-6KuP91c",
+      "title": "Passing Arguments by Reference in Java",
+      "duration": 216
+    },
+    {
+      "id": "km8xnlSRtWg",
+      "title": "Method Overloading in Java",
+      "duration": 247
+    },
+    {
+      "id": "Dw-wDvLHitY",
+      "title": "Methods (Exercise 1)",
+      "duration": 232
+    },
+    {
+      "id": "swj8_rUCyFk",
+      "title": "Methods (Exercise 2)",
+      "duration": 346
+    },
+    {
+      "id": "kWJHzambtNo",
+      "title": "Single-Dimensional Arrays in Java (Part 1)",
+      "duration": 555
+    },
+    {
+      "id": "LDxIl9La5nk",
+      "title": "Single-Dimensional Arrays in Java (Part 2)",
+      "duration": 528
+    },
+    {
+      "id": "ZJx3T3XL6CM",
+      "title": "The Arrays Class in Java (Part 1)",
+      "duration": 696
+    },
+    {
+      "id": "-VShg6LaWgc",
+      "title": "The Arrays Class in Java (Part 2)",
+      "duration": 472
+    },
+    {
+      "id": "hCB3TWpwMMM",
+      "title": "The Arrays Class in Java (Part 3)",
+      "duration": 310
+    },
+    {
+      "id": "4ROrd09dhHM",
+      "title": "Variable-Length Argument Lists in Java",
+      "duration": 302
+    },
+    {
+      "id": "gIqnW7ACL9o",
+      "title": "Arrays in Java (Exercise 1)",
+      "duration": 482
+    },
+    {
+      "id": "1GRLdNtPpQI",
+      "title": "Arrays in Java (Exercise 2)",
+      "duration": 195
+    },
+    {
+      "id": "HHsHydWBwJE",
+      "title": "Arrays in Java (Exercise 3)",
+      "duration": 258
+    },
+    {
+      "id": "G04TZ7sbMUM",
+      "title": "Arrays in Java (Exercise 4)",
+      "duration": 172
+    },
+    {
+      "id": "LVNTVxeavBw",
+      "title": "Arrays in Java (Exercise 5)",
+      "duration": 520
+    },
+    {
+      "id": "Gbz3Ao2xq_4",
+      "title": "Two-Dimensional Arrays in Java (Part 1)",
+      "duration": 447
+    },
+    {
+      "id": "fij_LIvdJzY",
+      "title": "Two-Dimensional Arrays in Java (Part 2)",
+      "duration": 509
+    },
+    {
+      "id": "dGsO6Npqs1E",
+      "title": "Two-Dimensional Arrays in Java (Part 3)",
+      "duration": 377
+    },
+    {
+      "id": "778UYhztFAE",
+      "title": "Two-Dimensional Arrays in Java (Exercise 1)",
+      "duration": 310
+    },
+    {
+      "id": "8uxGSiCiqZA",
+      "title": "Two-Dimensional Arrays in Java (Exercise 2)",
+      "duration": 326
+    },
+    {
+      "id": "WCIpkigdOv4",
+      "title": "ArrayLists in Java (Part 1)",
+      "duration": 659
+    },
+    {
+      "id": "IkkndXpmCYs",
+      "title": "ArrayLists in Java (Part 2)",
+      "duration": 175
+    },
+    {
+      "id": "6SweFjpcYOI",
+      "title": "For Each Loop in Java",
+      "duration": 353
+    },
+    {
+      "id": "YgkRoY3-ng8",
+      "title": "ArrayLists (Exercise 1)",
+      "duration": 350
+    },
+    {
+      "id": "Dcgl-KfLmfA",
+      "title": "ArrayLists (Exercise 2)",
+      "duration": 523
+    },
+    {
+      "id": "W-D71ZeMixQ",
+      "title": "Introduction to Classes and Objects (Part 1)",
+      "duration": 351
+    },
+    {
+      "id": "Kk6dlF59yGg",
+      "title": "Introduction to Classes and Objects (Part 2)",
+      "duration": 357
+    },
+    {
+      "id": "EplETikbJis",
+      "title": "Creating a Class in Java",
+      "duration": 367
+    },
+    {
+      "id": "Z-Y-7jND_Dc",
+      "title": "Instantiating Objects in Java",
+      "duration": 340
+    },
+    {
+      "id": "HbQ2ASDc0Lw",
+      "title": "Constructors in Java",
+      "duration": 378
+    },
+    {
+      "id": "dDL4gpuQyzA",
+      "title": "Creating a Class in Java - Practice",
+      "duration": 439
+    },
+    {
+      "id": "3LtIk7wFGi0",
+      "title": "Static Variables and Static Methods in Java",
+      "duration": 571
+    },
+    {
+      "id": "vS0gnXzg--g",
+      "title": "Visibility Modifiers in Java",
+      "duration": 470
+    },
+    {
+      "id": "JYPMgbeQVvs",
+      "title": "Data Field Encapsulation in Java",
+      "duration": 406
+    },
+    {
+      "id": "nx4Jl5tdqkk",
+      "title": "Visibility Modifiers and Encapsulation - Practice",
+      "duration": 247
+    },
+    {
+      "id": "qbNMAJvv7qI",
+      "title": "Immutable Classes and Objects in Java",
+      "duration": 306
+    },
+    {
+      "id": "6gVch3hxu_o",
+      "title": "The this Keyword in Java",
+      "duration": 381
+    },
+    {
+      "id": "zg1pijw6AM4",
+      "title": "Inner Classes in Java",
+      "duration": 634
+    },
+    {
+      "id": "ksvwF2sUjHM",
+      "title": "UML Class Diagram",
+      "duration": 414
+    },
+    {
+      "id": "LMCFb4m5WWE",
+      "title": "Classes and Objects (Exercise 1)",
+      "duration": 605
+    },
+    {
+      "id": "Lvg2-Gai_4Y",
+      "title": "Classes and Objects (Exercise 2) - Part 1",
+      "duration": 434
+    },
+    {
+      "id": "pDIZ79J1hnw",
+      "title": "Classes and Objects (Exercise 2) - Part 2",
+      "duration": 296
+    },
+    {
+      "id": "BSzkBvPV1No",
+      "title": "Classes and Objects (Exercise 3)",
+      "duration": 635
+    },
+    {
+      "id": "hXsxrup9MdU",
+      "title": "Classes and Objects (Exercise 4)",
+      "duration": 543
+    },
+    {
+      "id": "Lir3_nKxQ2Q",
+      "title": "Classes and Objects (Exercise 5)",
+      "duration": 400
+    },
+    {
+      "id": "sdoKsz2aAsA",
+      "title": "Classes and Objects (Exercise 6)",
+      "duration": 480
+    },
+    {
+      "id": "mVdapUEaSuA",
+      "title": "Inheritance & Polymorphism | Chapter-8 | Java Programming | nesoacademy.org",
+      "duration": 51
+    },
+    {
+      "id": "O8Gl4RYgg0k",
+      "title": "Abstract Classes & Interfaces | Chapter-9 | Java Programming | nesoacademy.org",
+      "duration": 25
+    },
+    {
+      "id": "FRzPQFWBrXY",
+      "title": "Exception Handling in Java | Chapter-9 | Java Programming | nesoacademy.org",
+      "duration": 24
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "rust-basics-7ff37b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:48.873Z",
+  "title": "Rust Videos",
+  "channel": "Engineer Man",
+  "videos": [
+    {
+      "id": "DqepPOaD5Ts",
+      "title": "Let's Learn Rust: Installation, Cargo, Project Structure, and Primer",
+      "duration": 327
+    },
+    {
+      "id": "l_2hn-Tp6NI",
+      "title": "Let's Learn Rust: Compiler, Variables, Functions, Strings",
+      "duration": 932
+    },
+    {
+      "id": "L63zcHPJrM0",
+      "title": "Let's Learn Rust: Enums and Simple Matching",
+      "duration": 451
+    },
+    {
+      "id": "fL-elBR_IiI",
+      "title": "Let's Learn Rust: Control Flow",
+      "duration": 391
+    },
+    {
+      "id": "LKYSl7kM5q8",
+      "title": "Let's Learn Rust: Structs and Traits",
+      "duration": 698
+    },
+    {
+      "id": "RYTMn_kLItw",
+      "title": "Let's Learn Rust: Checkpoint, Create a Calculator App",
+      "duration": 655
+    },
+    {
+      "id": "ic9WEuto-gE",
+      "title": "Let's Learn Rust: Vectors and Hash Maps",
+      "duration": 618
+    }
+  ]
+}

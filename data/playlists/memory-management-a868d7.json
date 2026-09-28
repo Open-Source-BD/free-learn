@@ -1,0 +1,30 @@
+{
+  "courseId": "memory-management-a868d7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:44.623Z",
+  "title": "Memory Management",
+  "channel": "Let's Get Rusty",
+  "videos": [
+    {
+      "id": "NnLdGKoz1ls",
+      "title": "Stack, Heap, and Static Memory",
+      "duration": 579
+    },
+    {
+      "id": "GUZ_2gGWuPo",
+      "title": "Memory Management Strategies",
+      "duration": 286
+    },
+    {
+      "id": "AnFaf-L_DfE",
+      "title": "C++ RAII vs Rust OBRM - Part 1",
+      "duration": 712
+    },
+    {
+      "id": "7EcNkr6KFy0",
+      "title": "C++ RAII vs Rust OBRM - Part 2",
+      "duration": 380
+    }
+  ]
+}

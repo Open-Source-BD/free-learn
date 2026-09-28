@@ -1,0 +1,75 @@
+{
+  "courseId": "perl-tutorial-basics-to-advanced-3b1d7a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:37.909Z",
+  "title": "Perl Tutorial: Basics to Advanced",
+  "channel": "VLSI Academy",
+  "videos": [
+    {
+      "id": "b0XZPrP0S5Y",
+      "title": "Perl Scripting: Introduction to Perl | Download Info | Features and First Program",
+      "duration": 162
+    },
+    {
+      "id": "ItV7AEHcETU",
+      "title": "perl lec1 : defining variables in perl| scalars, arrays and hashes in perl",
+      "duration": 280
+    },
+    {
+      "id": "mYtYjGQOFQI",
+      "title": "perl lec2 : string operations in perl",
+      "duration": 241
+    },
+    {
+      "id": "lDyWuvGTDSM",
+      "title": "perl lec3 : lists in perl : Part - 1",
+      "duration": 159
+    },
+    {
+      "id": "PJ3F7XduDcY",
+      "title": "perl lec4 : lists in perl : Part - 2 | sort | join | split lists explained",
+      "duration": 370
+    },
+    {
+      "id": "LzgJ8fHf-IY",
+      "title": "perl lec5 : conditional statements : if else | unless | switch case : explained",
+      "duration": 233
+    },
+    {
+      "id": "93m6YA-ZVZM",
+      "title": "perl lec6: loops (While, for, foreach and Until loop explained with example)",
+      "duration": 311
+    },
+    {
+      "id": "yKGDvQpWD8I",
+      "title": "perl lec7: file handling, loops, hashes and arrays explained",
+      "duration": 408
+    },
+    {
+      "id": "S9rvo_SsrK0",
+      "title": "perl lec8: functions in perl | subroutines in perl | subtitles included",
+      "duration": 307
+    },
+    {
+      "id": "RaXRCZ6__y4",
+      "title": "perl lec9: Hashes | Thoroughly explained with examples | subtitles included",
+      "duration": 386
+    },
+    {
+      "id": "ElVSVtahNBU",
+      "title": "perl lec10: regular expression using grep command",
+      "duration": 248
+    },
+    {
+      "id": "E3CBlKoiaOQ",
+      "title": "perl lecture11: pattern matching and regular expression with examples",
+      "duration": 362
+    },
+    {
+      "id": "l3HVJFVQTpU",
+      "title": "perl lecture12: data extraction using regular expression | regex | pattern matching",
+      "duration": 424
+    }
+  ]
+}

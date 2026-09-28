@@ -1,0 +1,600 @@
+{
+  "courseId": "vue-js-3-complete-course-tutorial-01b261",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_euSNU_eLbedoBv-RllKj_f2Yh--91nZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:59.744Z",
+  "title": "VUE JS 3 Complete Course Tutorial",
+  "channel": "Leela Web Dev",
+  "videos": [
+    {
+      "id": "x0uc670hw_8",
+      "title": "1. Introduction to VueJS 3.0. New Features and Breaking Changes added in the Vue 3.0.",
+      "duration": 855
+    },
+    {
+      "id": "OdqYrR1P-Q4",
+      "title": "2. Breaking Changes need to know while migrating code from Vue2 to Vue 3.",
+      "duration": 508
+    },
+    {
+      "id": "nnyNlj91YjE",
+      "title": "3. Create Vue App Instance & connect to the element. Implement Data binding  & Interpolation - Vue 3",
+      "duration": 615
+    },
+    {
+      "id": "Cwq376AwYhk",
+      "title": "4. Binding the html element attributes with v-bind Directive in Vue 3",
+      "duration": 304
+    },
+    {
+      "id": "Qkhgnc4fpjM",
+      "title": "5. Implement Methods, use Data Properties inside methods, understand v-html directive in Vuejs.",
+      "duration": 441
+    },
+    {
+      "id": "4GK9zDWKyjg",
+      "title": "6. Understanding Vuejs Click Event Binding using v-on Directive - Vue3 | Vue.js",
+      "duration": 563
+    },
+    {
+      "id": "kolVTQhm71o",
+      "title": "7. Access the Native Event Object $event in the event handling Methods in Vue3 | Vue js",
+      "duration": 455
+    },
+    {
+      "id": "_9zfVfM1wLU",
+      "title": "8. Use of Event Modifiers like mouse right-click, Prevent default & stop Propagation - Vue3 | Vue js",
+      "duration": 427
+    },
+    {
+      "id": "qBVzxbxhwHA",
+      "title": "9.use of Key Event Modifiers (enter, esc, ctrl, shift keys) and v-once directive in Vue3 | Vue js",
+      "duration": 389
+    },
+    {
+      "id": "RA5RDvSzJL0",
+      "title": "10. v-model Directive for achieving Two way data binding in Vuejs - Vue3",
+      "duration": 547
+    },
+    {
+      "id": "r9fJrX-amWE",
+      "title": "11. Computed Properties in Vue 3 - Vue js",
+      "duration": 395
+    },
+    {
+      "id": "kNwZr-DgY-E",
+      "title": "12. Understanding Watchers in Vuejs | Vue3",
+      "duration": 558
+    },
+    {
+      "id": "HITR6m2lGPA",
+      "title": "13. Apply Dynamic styling with inline Styles in Vuejs | Vue 3.",
+      "duration": 558
+    },
+    {
+      "id": "ZBb3Y8k6cJ0",
+      "title": "14. Adding CSS Classes dynamically in Vuejs - Vue 3",
+      "duration": 362
+    },
+    {
+      "id": "EukZKT5JpZQ",
+      "title": "15. Use Computed properties for dynamic classes. Array Syntax for dynamic Classes in Vue js | Vue3",
+      "duration": 307
+    },
+    {
+      "id": "j5Pgaij5T5Y",
+      "title": "16. Rendering Content Conditionally using V-if directive in Vuejs | Vue3",
+      "duration": 508
+    },
+    {
+      "id": "SVWSbTfPiAU",
+      "title": "17. Using v-if, v-else, v-else-if directives. Difference on v-if and v-show directive - Vuejs | Vue3",
+      "duration": 410
+    },
+    {
+      "id": "9gKSbW1MBfY",
+      "title": "18. Using v-for directive to render the list. Loop Arrays, Objects & number range in Vue js | Vue3",
+      "duration": 633
+    },
+    {
+      "id": "f5kCNWwHRi8",
+      "title": "19. Importance of Key attribute usage in the v-for directive in Vue js | Vue3",
+      "duration": 726
+    },
+    {
+      "id": "TBNkUPo6nLA",
+      "title": "20. One App vs Multiple App instances. Sharing data between two Vue app instances - Vue js | Vue3",
+      "duration": 707
+    },
+    {
+      "id": "A11bXgo4A6Y",
+      "title": "21. Using $Refs & ref attribute to access DOM nodes for referencing Html Elements  in Vue js | Vue 3",
+      "duration": 617
+    },
+    {
+      "id": "Oieiv2ehYUg",
+      "title": "22. Life Cycle Hooks Events explanation in Vue js | Vue 3.",
+      "duration": 302
+    },
+    {
+      "id": "9u3HrnZ0hLo",
+      "title": "23. Practice Life Cycle Hooks like created, mounted, updated and unmounted events in Vue js | Vue 3",
+      "duration": 715
+    },
+    {
+      "id": "VYurEqwi6xw",
+      "title": "24. Why we need to use components in Vue js. Basic introduction to Components in Vue js | Vue 3",
+      "duration": 606
+    },
+    {
+      "id": "DP1JG_4VUFc",
+      "title": "25. Different ways of registering components. Name Casing components in Pascal Case in Vue js | Vue3",
+      "duration": 362
+    },
+    {
+      "id": "Uh03kV12C8A",
+      "title": "26. Introduction to Vue CLI. Create a Vue project using the Vue CLI approach in Vue js | Vue 3",
+      "duration": 471
+    },
+    {
+      "id": "QxBgewJL0XI",
+      "title": "27. Exploring Project Structure created by Vue CLI. Understand \".vue\" file Contents - Vue js | Vue 3",
+      "duration": 670
+    },
+    {
+      "id": "QXCIw4SkDzA",
+      "title": "28. Create basic \".vue\" component and register it both Locally and globally in Vue js | Vue 3",
+      "duration": 518
+    },
+    {
+      "id": "Zhc4fN_dNHU",
+      "title": "29. Perform Parent to Child Communication using this Props in Vuejs | Vue 3",
+      "duration": 769
+    },
+    {
+      "id": "jFllzvALKYY",
+      "title": "30. Prop Validation with Type Checks and Prop Casing (Camel Case) in Vue js | Vue 3",
+      "duration": 724
+    },
+    {
+      "id": "zd4xkOo0hhU",
+      "title": "31. Non Prop Attributes and Attribute Inheritance. Disable inheritance, $attrs variable in Vue js 3.",
+      "duration": 600
+    },
+    {
+      "id": "kCo0re40Aao",
+      "title": "32. Child - Parent Communication using the $emit to send the Custom Events - Vue js | Vue 3",
+      "duration": 623
+    },
+    {
+      "id": "b4M2tqv03UM",
+      "title": "33. Apply Validation for the emitted custom events in Vue js | Vue 3.",
+      "duration": 576
+    },
+    {
+      "id": "Yxq4iynZfP4",
+      "title": "34. Provide / Inject for parent-child communication. Apply reactivity for provide values - Vue 3",
+      "duration": 813
+    },
+    {
+      "id": "zLFuysdGLjY",
+      "title": "35. Apply Provide - Inject for the Custom Event Methods. Props Vs Provide in Vue js | Vue 3",
+      "duration": 403
+    },
+    {
+      "id": "ekDD94x2sgc",
+      "title": "36. Component based Scoped CSS Styles in Vue js | Vue 3",
+      "duration": 355
+    },
+    {
+      "id": "l3ng1asbIjI",
+      "title": "37. Introduction to Slots. Difference between Slots Vs Props and when to use in Vue js | Vue 3",
+      "duration": 654
+    },
+    {
+      "id": "8lbo7olMzVA",
+      "title": "38. Named Slots in Vue js. Define multiple slots with names in Vue 3",
+      "duration": 590
+    },
+    {
+      "id": "OtZXNOVdF3M",
+      "title": "39. Fallback Content in Slots. Use of $slots variable and Named Slots Shorthand in Vue js | Vue 3",
+      "duration": 366
+    },
+    {
+      "id": "i0E9miwWInY",
+      "title": "40. Scoped Slots in Vue js. Pass Data from slots as props and access in the components in Vue 3.",
+      "duration": 868
+    },
+    {
+      "id": "2iSr3T2EHVM",
+      "title": "41. Dynamic Components in Vue js. Keep the components alive by using keep-alive in Vue js | Vue 3",
+      "duration": 714
+    },
+    {
+      "id": "jVhp0qWj19w",
+      "title": "42. Async Components in Vue js . Assign Name for the chunks using webpackchunkname in Vuejs | Vue 3",
+      "duration": 423
+    },
+    {
+      "id": "tbhY20gvLTM",
+      "title": "43. Teleport in Vue 3. Using Teleport for Modal and Notifications in Vue js | Vue 3",
+      "duration": 545
+    },
+    {
+      "id": "w2jgVhDbb1w",
+      "title": "44. Send Http Post Request using axios in Vue js | Vue 3.",
+      "duration": 662
+    },
+    {
+      "id": "f1pb1WL_3eM",
+      "title": "45. Send HTTP Get Request using Axios in Vue js | Vue 3",
+      "duration": 853
+    },
+    {
+      "id": "2tOULNyUVcE",
+      "title": "46. Apply Global Axios Default Config like baseURL, headers for sending HTTP Requests - Vue 3",
+      "duration": 585
+    },
+    {
+      "id": "XiTlrl_MpVA",
+      "title": "47. Axios Interceptors for request & response. Create custom axios instance in Vue js | Vue 3.",
+      "duration": 597
+    },
+    {
+      "id": "IhJUd9kkPnQ",
+      "title": "48. Implement Vuejs Routing setup using Vue Router in Vue js | Vue 3",
+      "duration": 803
+    },
+    {
+      "id": "Nf8qlfgtfbY",
+      "title": "49. Navigate with router-link. styling the active links. Changing to custom class in Vue js | Vue 3",
+      "duration": 373
+    },
+    {
+      "id": "DruswN6YZpo",
+      "title": "50. Programmatic navigation between pages using $router with push, replace and go in Vue js | Vue 3",
+      "duration": 513
+    },
+    {
+      "id": "cQs-UGYpVvI",
+      "title": "51. Create Posts and List the Posts data using axios in the Vue router - Vue js | Vue 3.",
+      "duration": 643
+    },
+    {
+      "id": "n-uQFFj7b4A",
+      "title": "52. Pass Data with Route Params for Navigation using $route.params in Vue js | Vue 3.",
+      "duration": 595
+    },
+    {
+      "id": "CF_T8xjzmg4",
+      "title": "53. React to Route Param Changes on the same page using watchers, $watch, and props - Vue js | Vue 3",
+      "duration": 511
+    },
+    {
+      "id": "E5f5ZuhdUEk",
+      "title": "54. Redirect & alias routing differences. Catch-All / 404 Not Found Route in Vue js | Vue 3.",
+      "duration": 402
+    },
+    {
+      "id": "T7oZZi5tRV0",
+      "title": "55. Implement Nested Routes using Children Option. Add Default children route in Vue js | Vue 3.",
+      "duration": 381
+    },
+    {
+      "id": "vg5_paDfjno",
+      "title": "56. Benefits of Named Routes in Routing. Accessing Query Parameters using $route in Vue js | Vue 3.",
+      "duration": 566
+    },
+    {
+      "id": "FSM8Iuu-NA0",
+      "title": "57. Multiple Router based Named Views for router-view in Vue js | Vue 3.",
+      "duration": 486
+    },
+    {
+      "id": "ED4Ky89MJWg",
+      "title": "58. Global router before Each Navigation Guard in Vue js | Vue 3.",
+      "duration": 459
+    },
+    {
+      "id": "UHDcPKx5XXo",
+      "title": "59. Router & Component Based Navigation Guards. beforeEnter, beforeRouteLeave - Vue 3 | Vue js",
+      "duration": 478
+    },
+    {
+      "id": "V0Gzfa571DQ",
+      "title": "60. beforeRouteUpdate Guard. Use Component instance \"this\" inside beforeRouteEnter Vue js | Vue 3",
+      "duration": 317
+    },
+    {
+      "id": "ZyRCXg8COW8",
+      "title": "61. Implement Class based Animations and Transitions in Vue js | Vue 3.",
+      "duration": 651
+    },
+    {
+      "id": "VAdkO4uZIyY",
+      "title": "62. Enter & Leave Transitions for dynamically inserted component using transition component - Vue 3",
+      "duration": 785
+    },
+    {
+      "id": "wh82j9LYnsM",
+      "title": "63. Apply Key-frames animations for the Transition Wrapper component in Vue 3 | Vue js.",
+      "duration": 522
+    },
+    {
+      "id": "_glYanhtX9Y",
+      "title": "64. Apply Animation for Dialog Modal Component on opening & Closing with Transition - Vue js | Vue 3",
+      "duration": 1000
+    },
+    {
+      "id": "R-4U04503-A",
+      "title": "65. Transition Modes out-in and in-out for applying animations in Vue js | Vue 3",
+      "duration": 769
+    },
+    {
+      "id": "Z-ZGO5fDnmo",
+      "title": "66. Implement Javascript Hooks / Events for the Transitions of leave and enter in Vue js | Vue 3.",
+      "duration": 527
+    },
+    {
+      "id": "1dBdSwYbzq0",
+      "title": "67. Practical Implementation of Javascript Events / Hooks for Transitions in Vue js | Vue 3.",
+      "duration": 1136
+    },
+    {
+      "id": "KZpJbbnUV14",
+      "title": "68. Apply Transition to the Lists of data for dynamic adding and removing elements - Vue js | Vue 3.",
+      "duration": 626
+    },
+    {
+      "id": "SYZdPzvjBvk",
+      "title": "69. Implement transition-group for the lists of data and the tag attribute in the Vue js | Vue 3.",
+      "duration": 532
+    },
+    {
+      "id": "z4saTpTfnzY",
+      "title": "70. Understand List move class in the transition group for the list of data in Vue js | Vue 3.",
+      "duration": 371
+    },
+    {
+      "id": "Q0WCvfACdPs",
+      "title": "71. Implement the Route based Transitions when navigating from one page to another - Vue js | Vue 3.",
+      "duration": 620
+    },
+    {
+      "id": "sBa2iswusJk",
+      "title": "72. Introduction to Vuex state management. Install vuex and create store in Vue js | Vue 3.",
+      "duration": 622
+    },
+    {
+      "id": "4XV-VlO8nL4",
+      "title": "73.Get the store data using computed properties. Update the state in store in Vuex - Vue js | Vue 3",
+      "duration": 334
+    },
+    {
+      "id": "uD52zHygvjk",
+      "title": "74. Implement Mutations to set state in Vuex store. Access mutations with commit - Vue js | Vue 3.",
+      "duration": 647
+    },
+    {
+      "id": "LxrxeCL9HBw",
+      "title": "75. Introduction to Getters to get the state data in Vuex store - Vue js | Vue 3.",
+      "duration": 676
+    },
+    {
+      "id": "n8Pi1dGi45U",
+      "title": "76. Calling Getters inside another Getter Methods. Pass arguments to getters, Vuex - Vue js | Vue3.",
+      "duration": 532
+    },
+    {
+      "id": "rVVDEGheEpw",
+      "title": "77. Use Actions to run Asynchronous code in Vuex. Role of context in Actions, Vuex - Vue js | Vue 3.",
+      "duration": 570
+    },
+    {
+      "id": "u51jW775M1g",
+      "title": "78. Dispatching Actions within another actions in Vuex - Vue js | Vue 3.",
+      "duration": 435
+    },
+    {
+      "id": "rAJYy7hawDA",
+      "title": "79. Understand mapGetters, mapState, mapMutations and mapActions for Vuex Store - Vue js | Vue 3.",
+      "duration": 516
+    },
+    {
+      "id": "UPTd9ICELvA",
+      "title": "80. Dividing the State into different modules and add it in Vuex store - Vue js | Vue 3.",
+      "duration": 641
+    },
+    {
+      "id": "5qgGTLkGJTU",
+      "title": "81. Namespacing Modules for the state in the Vuex store - Vue js | Vue3.",
+      "duration": 483
+    },
+    {
+      "id": "PAsm49oP8XM",
+      "title": "82. Managing the Vuex store code in different files and import to single file - Vue js | Vue 3.",
+      "duration": 416
+    },
+    {
+      "id": "LrLKSXXAVIg",
+      "title": "83. Declare constants for naming the mutations, actions, and getters in Vuex store - Vue js | Vue 3.",
+      "duration": 521
+    },
+    {
+      "id": "D02w84N1LoM",
+      "title": "84. Design the Login & Signup Page for implementing the Vue authentication - Vue js | Vue3.",
+      "duration": 779
+    },
+    {
+      "id": "a8s7Vx0oMmI",
+      "title": "85. Setup the Vuex state management in the authentication project in Vue js | Vue 3.",
+      "duration": 522
+    },
+    {
+      "id": "fbB3Kf1r2X8",
+      "title": "86. Add Validations for the Login and Signup Page in Vue Authentication - Vue js | Vue 3.",
+      "duration": 763
+    },
+    {
+      "id": "bQhsrRTkXys",
+      "title": "87. Make Http Request in the vuex actions using axios to get token details - Vue js | Vue 3.",
+      "duration": 653
+    },
+    {
+      "id": "Rq3we_RdFpc",
+      "title": "88. Save the response data from signup into the vuex store state with mutations in Vue js - Vue 3.",
+      "duration": 484
+    },
+    {
+      "id": "FIyF-uURGCM",
+      "title": "89. Accessing the store state data in the router Navigation Guards in Vue router - Vue js 3 | Vue 3.",
+      "duration": 490
+    },
+    {
+      "id": "MuYxsr-WEIo",
+      "title": "90. Catch the errors from the server and show the error message in signup page - Vue js 3 | Vue 3.",
+      "duration": 619
+    },
+    {
+      "id": "pGKSBO9tAUo",
+      "title": "91. Add the Loading Spinner Component and use it with the help of store - Vue js 3 | Vue 3.",
+      "duration": 1015
+    },
+    {
+      "id": "xMWLELY4krM",
+      "title": "92. Add the Login Functionality for authentication and saving token in Vuex store - Vuejs 3 | Vue 3.",
+      "duration": 570
+    },
+    {
+      "id": "lxj9KsAHYFM",
+      "title": "93. Attach the token for the outgoing HTTP Requests with axios in Vue js 3 | Vue 3.",
+      "duration": 868
+    },
+    {
+      "id": "wu89VWLnOV8",
+      "title": "94. Adding the auth token with Axios request interceptors from Vuex state - Vue js 3 | Vue 3.",
+      "duration": 609
+    },
+    {
+      "id": "65rQKrLDkV4",
+      "title": "95. Adding the authenticate condition to show links in webpage from Vuex state - Vue js 3 | Vue 3",
+      "duration": 444
+    },
+    {
+      "id": "OAMEegb11CM",
+      "title": "96. Add Logout Functionality by making the auth token empty in the Vuex state - Vue js 3 | Vue 3.",
+      "duration": 376
+    },
+    {
+      "id": "P3PW-PbG-ns",
+      "title": "97. Apply Navigation Guards for authentication and Routing page in Vue js 3 | Vue 3",
+      "duration": 600
+    },
+    {
+      "id": "taoZp7lJLUY",
+      "title": "98. Implement AutoLogin Feature by using local storage to save the token - Vue js 3 | Vue 3",
+      "duration": 662
+    },
+    {
+      "id": "AgeeRQKpatw",
+      "title": "99. Implement Auto-Logout functionality when the token expires in Vue js 3 | Vue 3.",
+      "duration": 1095
+    },
+    {
+      "id": "D9XrszxIKbc",
+      "title": "100. Optimize Routes by Lazy Loading Components and steps for deploying Project - Vuejs 3 | Vue 3.",
+      "duration": 538
+    },
+    {
+      "id": "TCPz5aZugCc",
+      "title": "101. Introduction to Composition API & Options API and why we need to use it in Vue js 3 | Vue 3.",
+      "duration": 582
+    },
+    {
+      "id": "H0w7N8FdoUY",
+      "title": "102. Implement reactive variables with Ref in Composition API in Vue js 3 | Vue 3.",
+      "duration": 596
+    },
+    {
+      "id": "8nSpC09gR6A",
+      "title": "103. Use of Ref and Reactive in composition api. Apply reactive for the objects in Vuejs 3 | Vue 3.",
+      "duration": 364
+    },
+    {
+      "id": "Vq0RoeR4DdA",
+      "title": "104. isRef, isReactive & toRefs to check reactivity of variable in composition API - Vuejs 3| Vue 3",
+      "duration": 445
+    },
+    {
+      "id": "yrCbKeqq9oQ",
+      "title": "105. Create methods in the composition API - Vuejs 3 | Vue 3.",
+      "duration": 354
+    },
+    {
+      "id": "mYKv-NZh03Q",
+      "title": "106. Create Computed Property methods in the Composition API in Vue js 3 | Vue 3.",
+      "duration": 521
+    },
+    {
+      "id": "0mqD-fPEocE",
+      "title": "107. Implement Two-way Binding with v-model and watch method in composition API - Vue js 3 | Vue 3.",
+      "duration": 509
+    },
+    {
+      "id": "XrPU07exyHY",
+      "title": "108. Send Props to the components and use the Props in Composition API in Vue js 3 | Vue 3.",
+      "duration": 506
+    },
+    {
+      "id": "6qM4E3lFDqM",
+      "title": "109. Understand Template Ref & Reactive ref in the Composition API in Vue js 3 | Vue 3.",
+      "duration": 425
+    },
+    {
+      "id": "5m7arq7A9VA",
+      "title": "110. Emit, Slot & attrs property in context in setup method - Composition API - Vue js 3 | Vue 3.",
+      "duration": 454
+    },
+    {
+      "id": "tsi5tU43bKs",
+      "title": "111. Life Cycle Hooks usage in the Vue Composition API - Vue js 3 | Vue 3.",
+      "duration": 739
+    },
+    {
+      "id": "DOdGWuC-dVQ",
+      "title": "112. useRouter for navigating to other page in vue router - Composition API - Vue js 3 | Vue 3.",
+      "duration": 518
+    },
+    {
+      "id": "biFudyMB7PE",
+      "title": "113. Get route params into the component by useRoute and props in Composition API - Vuejs | Vue 3.",
+      "duration": 543
+    },
+    {
+      "id": "1B-aM61hF-k",
+      "title": "114. Access store data in the composition API with useStore in Vuex state Management - Vuejs | Vue 3",
+      "duration": 556
+    },
+    {
+      "id": "zmYFEzgCMCo",
+      "title": "115. Extract reusable functionalities with Mixins in Vue js 3 | Vue 3.",
+      "duration": 449
+    },
+    {
+      "id": "vzxeDrtv3cU",
+      "title": "116. Data Options Merging in Mixin. Implementing Global Mixin in Vue js 3 | Vue 3.",
+      "duration": 636
+    },
+    {
+      "id": "DZMVEwcZka8",
+      "title": "117. Reuse Common functionality code using hooks in the composition API - Vue js 3 | Vue 3.",
+      "duration": 501
+    },
+    {
+      "id": "aiQzhQEMSwI",
+      "title": "118. Completing Vue js course. Next Steps to learn after Vue course - Vue js 3 | Vue 3.",
+      "duration": 362
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "courseId": "beginner-s-series-to-javascript-1a3574",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:05.240Z",
+  "title": "JavaScript for Beginners",
+  "channel": "Microsoft Developer",
+  "videos": [
+    {
+      "id": "_EDM5aPVLmo",
+      "title": "Beginning the Beginner's series [1 of 51] | JavaScript for Beginners",
+      "duration": 168
+    },
+    {
+      "id": "Q_CRM2lXXBg",
+      "title": "What Is JavaScript [2 of 51] | JavaScript for Beginners",
+      "duration": 213
+    },
+    {
+      "id": "tGOxIKstXiA",
+      "title": "Running JavaScript: browser or server [3 of 51] | JavaScript for Beginners",
+      "duration": 219
+    },
+    {
+      "id": "69WJeXGBdxg",
+      "title": "Building your toolbox [4 of 51] | JavaScript for Beginners",
+      "duration": 188
+    },
+    {
+      "id": "9nKTxtv6D1w",
+      "title": "Demo: Building your toolbox [5 of 51] | JavaScript for Beginners",
+      "duration": 193
+    },
+    {
+      "id": "nQu2bbh4Vyc",
+      "title": "Creating your first application [6 of 51] | JavaScript for Beginners",
+      "duration": 260
+    },
+    {
+      "id": "Wm89TVXGflk",
+      "title": "Comments [7 of 51] | JavaScript for Beginners",
+      "duration": 252
+    },
+    {
+      "id": "h3HyK2k3cZ4",
+      "title": "Demo: Comments [8 of 51] | JavaScript for Beginners",
+      "duration": 296
+    },
+    {
+      "id": "JNIXfGiDWM8",
+      "title": "Declaring variables [9 of 51] | JavaScript for Beginners",
+      "duration": 233
+    },
+    {
+      "id": "EQMPAaAo6Fc",
+      "title": "Demo: Declaring variables [10 of 51] | JavaScript for Beginners",
+      "duration": 415
+    },
+    {
+      "id": "dP1Er2BfVmo",
+      "title": "Working with strings [11 of 51] | JavaScript for Beginners",
+      "duration": 199
+    },
+    {
+      "id": "UQvhavAA-QU",
+      "title": "Demo: Working with strings [12 of 51] | JavaScript for Beginners",
+      "duration": 167
+    },
+    {
+      "id": "mFOxd-opPbA",
+      "title": "Using template literals to format strings [13 of 51] | JavaScript for Beginners",
+      "duration": 113
+    },
+    {
+      "id": "tmE7e4DlsJA",
+      "title": "Demo: Using template literals to format strings [14 of 51] | JavaScript for Beginners",
+      "duration": 190
+    },
+    {
+      "id": "AWfA95eLdq8",
+      "title": "Data types in JavaScript [15 of 51] | JavaScript for Beginners",
+      "duration": 341
+    },
+    {
+      "id": "rEHV3fFMfn0",
+      "title": "Demo: Data types in JavaScript [16 of 51] | JavaScript for Beginners",
+      "duration": 345
+    },
+    {
+      "id": "sHxqJna0Ub0",
+      "title": "Math in JavaScript [17 of 51] | JavaScript for Beginners",
+      "duration": 66
+    },
+    {
+      "id": "-0mJTXVNdvA",
+      "title": "Demo: Math in JavaScript [18 of 51] | JavaScript for Beginners",
+      "duration": 131
+    },
+    {
+      "id": "xHXr9Uv2HXM",
+      "title": "Converting strings to numbers [19 of 51] | JavaScript for Beginners",
+      "duration": 133
+    },
+    {
+      "id": "E_wMk9SwQ10",
+      "title": "Demo: Converting strings to numbers [20 of 51] | JavaScript for Beginners",
+      "duration": 277
+    },
+    {
+      "id": "gdbAiMxbap4",
+      "title": "Handling errors with try/catch/finally [21 of 51] | JavaScript for Beginners",
+      "duration": 198
+    },
+    {
+      "id": "_L00IiNVcVk",
+      "title": "Demo: Handling errors with try/catch/finally [22 of 51] | JavaScript for Beginners",
+      "duration": 214
+    },
+    {
+      "id": "GROdz4Y7RLw",
+      "title": "Dates [23 of 51] | JavaScript for Beginners",
+      "duration": 351
+    },
+    {
+      "id": "kjGzomLyF7A",
+      "title": "Demo: Dates [24 of 51] | JavaScript for Beginners",
+      "duration": 346
+    },
+    {
+      "id": "SxTp8j-fMMY",
+      "title": "Boolean logic with if statements [25 of 51] | JavaScript for Beginners",
+      "duration": 339
+    },
+    {
+      "id": "C3Q-NRHWNAE",
+      "title": "Demo: Boolean logic with if statements [26 of 51] | JavaScript for Beginners",
+      "duration": 448
+    },
+    {
+      "id": "-u260xZ9e4M",
+      "title": "Boolean logic with switch and other syntax [27 of 51] | JavaScript for Beginners",
+      "duration": 428
+    },
+    {
+      "id": "biBkUvMNJCE",
+      "title": "Demo: Boolean logic with switch and other syntax [28 of 51] | JavaScript for Beginners",
+      "duration": 544
+    },
+    {
+      "id": "1U4qTyq02Xw",
+      "title": "Creating arrays [29 of 51] | JavaScript for Beginners",
+      "duration": 90
+    },
+    {
+      "id": "p_o7fYUaT6k",
+      "title": "Demo: Creating arrays [30 of 51] | JavaScript for Beginners",
+      "duration": 106
+    },
+    {
+      "id": "ZARmjyg7Lik",
+      "title": "Populating arrays [31 of 51] | JavaScript for Beginners",
+      "duration": 212
+    },
+    {
+      "id": "KzwE2hfke50",
+      "title": "Demo: Populating arrays [32 of 51] | JavaScript for Beginners",
+      "duration": 152
+    },
+    {
+      "id": "9ORixWHwPZM",
+      "title": "Array methods [33 of 51] | JavaScript for Beginners",
+      "duration": 120
+    },
+    {
+      "id": "HOc49cbm-68",
+      "title": "Demo: Array methods [34 of 51] | JavaScript for Beginners",
+      "duration": 158
+    },
+    {
+      "id": "Eeh7pxtTZ3k",
+      "title": "Loops [35 of 51] | JavaScript for Beginners",
+      "duration": 444
+    },
+    {
+      "id": "zH54MNiMgSg",
+      "title": "Demo: Loops [36 of 51] | JavaScript for Beginners",
+      "duration": 437
+    },
+    {
+      "id": "XgKsD6Zwvlc",
+      "title": "Functions [37 of 51] | JavaScript for Beginners",
+      "duration": 574
+    },
+    {
+      "id": "5GBk8HGJiEc",
+      "title": "Demo: Functions [38 of 51] | JavaScript for Beginners",
+      "duration": 482
+    },
+    {
+      "id": "OP6eEbOj2sc",
+      "title": "Arrow and anonymous functions [39 of 51] | JavaScript for Beginners",
+      "duration": 316
+    },
+    {
+      "id": "Td2IrY6QBpc",
+      "title": "Demo: Arrow and anonymous functions [40 of 51] | JavaScript for Beginners",
+      "duration": 243
+    },
+    {
+      "id": "OEqHC1kbrbg",
+      "title": "JavaScript Object Notation (JSON) [41 of 51] | JavaScript for Beginners",
+      "duration": 269
+    },
+    {
+      "id": "hxQmx2R1zJw",
+      "title": "Demo: JavaScript Object Notation (JSON) [42 of 51] | JavaScript for Beginners",
+      "duration": 391
+    },
+    {
+      "id": "SKsbH-IcsFs",
+      "title": "Objects in JavaScript [43 of 51] | JavaScript for Beginners",
+      "duration": 643
+    },
+    {
+      "id": "PilGRzUwwwc",
+      "title": "Demo: Objects in JavaScript [44 of 51] | JavaScript for Beginners",
+      "duration": 995
+    },
+    {
+      "id": "DIXPd8Ig3vc",
+      "title": "Promises for long running operations [45 of 51] | JavaScript for Beginners",
+      "duration": 392
+    },
+    {
+      "id": "ZNgYrFIxT50",
+      "title": "Demo: Promises for long running operations [46 of 51] | JavaScript for Beginners",
+      "duration": 361
+    },
+    {
+      "id": "YwmlRkrxvkk",
+      "title": "Async/await for managing promises [47 of 51] | JavaScript for Beginners",
+      "duration": 307
+    },
+    {
+      "id": "XLxIqq3HlL8",
+      "title": "Demo: async/await for managing promises [48 of 51] | JavaScript for Beginners",
+      "duration": 455
+    },
+    {
+      "id": "sDRSkrfaSZo",
+      "title": "Package management [49 of 51] | JavaScript for Beginners",
+      "duration": 306
+    },
+    {
+      "id": "-EWsEotH6zQ",
+      "title": "Demo: Package management [50 of 51] | JavaScript for Beginners",
+      "duration": 414
+    },
+    {
+      "id": "H8u_lC7NbZU",
+      "title": "Next steps [51 of 51] | JavaScript for Beginners",
+      "duration": 95
+    }
+  ]
+}

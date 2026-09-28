@@ -1,0 +1,45 @@
+{
+  "courseId": "deno-jump-start-tutorial-8a51ec",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gnaJdxuGvEGYQ9iHb8mxsh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:35.015Z",
+  "title": "Deno Jump-start Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "2iLeRzHvc10",
+      "title": "Deno Tutorial #1 - Introduction",
+      "duration": 704
+    },
+    {
+      "id": "CpC5MTKAuwI",
+      "title": "Deno Tutorial #2 - Files, Fetch & Permissions",
+      "duration": 734
+    },
+    {
+      "id": "5_uf9cbtIyE",
+      "title": "Deno Tutorial #3 - Standard Library & Servers",
+      "duration": 889
+    },
+    {
+      "id": "yv1Nl9N5ur4",
+      "title": "Deno Tutorial #4 - 3rd Party Modules",
+      "duration": 418
+    },
+    {
+      "id": "XJ9PUWJYQp0",
+      "title": "Deno Tutorial #5 - API build (part 1)",
+      "duration": 607
+    },
+    {
+      "id": "zkFuAZsEEUc",
+      "title": "Deno Tutorial #6 - API Build (part 2)",
+      "duration": 1299
+    },
+    {
+      "id": "SNLH6hUSir4",
+      "title": "Deno Tutorial #7 - Testing the API",
+      "duration": 367
+    }
+  ]
+}

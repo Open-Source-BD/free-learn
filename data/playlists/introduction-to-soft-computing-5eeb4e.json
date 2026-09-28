@@ -1,0 +1,210 @@
+{
+  "courseId": "introduction-to-soft-computing-5eeb4e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:30.829Z",
+  "title": "Introduction To Soft Computing",
+  "channel": "Computer Science and Engineering",
+  "videos": [
+    {
+      "id": "K9gjuXjJeEM",
+      "title": "Lecture 1 Introduction to soft computing",
+      "duration": 1494
+    },
+    {
+      "id": "-U-QCX2C8T8",
+      "title": "Lecture 2 : Introduction to Fuzzy Logic",
+      "duration": 1848
+    },
+    {
+      "id": "whIR88tAANE",
+      "title": "Lecture 3 : Fuzzy membership functions (Contd.) and Defining Membership functions",
+      "duration": 1837
+    },
+    {
+      "id": "LZ6t6JShtKw",
+      "title": "Lecture 4 : Fuzzy operations",
+      "duration": 1728
+    },
+    {
+      "id": "ToaI2MEC5x0",
+      "title": "Lecture 5 : Fuzzy relations",
+      "duration": 1833
+    },
+    {
+      "id": "n3E4oVdJtO4",
+      "title": "Lecture 6 : Fuzzy Relations (contd.) & Fuzzy propositions",
+      "duration": 1713
+    },
+    {
+      "id": "n9MTaa-rZr4",
+      "title": "Lecture 7 : Fuzzy implications",
+      "duration": 1776
+    },
+    {
+      "id": "uTYepvHqdrA",
+      "title": "Lecture 8 : Fuzzy Inferences",
+      "duration": 1351
+    },
+    {
+      "id": "xwJDnnhl4RQ",
+      "title": "Lecture 9 : Defuzzification techniques (Part-I)",
+      "duration": 1569
+    },
+    {
+      "id": "WebTnQacBYs",
+      "title": "Lecture 10 : Defuzzification Techniques (Part-I) (contd.)",
+      "duration": 1979
+    },
+    {
+      "id": "OnJRw2EP3_g",
+      "title": "Lecture 11 : Fuzzy logic controller",
+      "duration": 1829
+    },
+    {
+      "id": "TSH2wm8xFKY",
+      "title": "Lecture 12 : Fuzzy Logic Controller (Contd.)",
+      "duration": 1893
+    },
+    {
+      "id": "9ycFAAfZ75s",
+      "title": "Lecture 13 : Fuzzy logic controller (Cond.)",
+      "duration": 1657
+    },
+    {
+      "id": "Fs5ZIjp1hUk",
+      "title": "Lecture 14 : Concept of Genetic Algorithm",
+      "duration": 1787
+    },
+    {
+      "id": "-G0qHu7cHNo",
+      "title": "Lecture 15 : Concept of Genetic Algorithm (Contd.) and GA Strategies",
+      "duration": 2013
+    },
+    {
+      "id": "1BIXfoLzvxE",
+      "title": "Lecture 16 : GA Operator : Encoding schemes",
+      "duration": 1937
+    },
+    {
+      "id": "DjulSsaGRgc",
+      "title": "Lecture 17 : GA operator : encoding scheme (contd.)",
+      "duration": 1539
+    },
+    {
+      "id": "0Rn-sZ-D55g",
+      "title": "Lecture 18 : GA Operator : Selection",
+      "duration": 1706
+    },
+    {
+      "id": "1jGeHqnUA-A",
+      "title": "Lecture 19 : GA Operator Selection (Contd.)",
+      "duration": 1858
+    },
+    {
+      "id": "ZhfXXf7bnYE",
+      "title": "Lecture 20 : GA Operator: Crossover techniques",
+      "duration": 1942
+    },
+    {
+      "id": "d_LVq6Ubxbw",
+      "title": "Lecture 21 : GA Operator : Crossover (Contd.)",
+      "duration": 1709
+    },
+    {
+      "id": "nqiKA-O4AXw",
+      "title": "Lecture 22 : GA Operator : Crossover (Contd.)",
+      "duration": 1860
+    },
+    {
+      "id": "PBbA_9e-fSA",
+      "title": "Lecture 23 : GA Operator : Mutation and others",
+      "duration": 1933
+    },
+    {
+      "id": "fsO2AsnyHOo",
+      "title": "Lecture 24 : Multi-objective optimization problem solving",
+      "duration": 1990
+    },
+    {
+      "id": "PjuwmOQQG1Q",
+      "title": "Lecture 25 : Multi-objective optimization problem solving (Contd.)",
+      "duration": 1946
+    },
+    {
+      "id": "7qFp6ybgF0o",
+      "title": "Lecture 26 : Concept of domination",
+      "duration": 1356
+    },
+    {
+      "id": "FKmlyeDJfhQ",
+      "title": "Lecture 27 : Non-Pareto based approaches to solve MOOPs",
+      "duration": 2073
+    },
+    {
+      "id": "hYeOtYoqCtQ",
+      "title": "Lecture 28 : Non-Pareto based approaches to solve MOOPs (Contd.)",
+      "duration": 1561
+    },
+    {
+      "id": "1NymQ1R03cI",
+      "title": "Lecture 29 : Pareto-Based approaches to solve MOOPs",
+      "duration": 1489
+    },
+    {
+      "id": "0lbUs9IFD8o",
+      "title": "Lecture 30 : Pareto-based approaches to solve MOOPs (contd..)",
+      "duration": 1791
+    },
+    {
+      "id": "LkILnXW5Ndw",
+      "title": "Lecture 31 : Pareto-based approach to solve MOOPs",
+      "duration": 1807
+    },
+    {
+      "id": "yixb7DZZnA0",
+      "title": "Lecture 32 : Pareto-based approach to solve MOOPs (contd.)",
+      "duration": 1397
+    },
+    {
+      "id": "Jx30YKcvE1M",
+      "title": "Lecture 33 : Pareto-based approach to solve MOOPs (contd)",
+      "duration": 1602
+    },
+    {
+      "id": "IOa_AYWa5no",
+      "title": "Lecture 34 : Introduction to Artificial Neural Network",
+      "duration": 1737
+    },
+    {
+      "id": "rVfTx5zdkL8",
+      "title": "Lecture 35 : ANN Architectures",
+      "duration": 1930
+    },
+    {
+      "id": "R1B1--Z8BSY",
+      "title": "Lecture 36 : Training ANNs",
+      "duration": 1575
+    },
+    {
+      "id": "ljQUQ5FbcIo",
+      "title": "Lecture 37 : Training ANNs (Contd..)",
+      "duration": 1769
+    },
+    {
+      "id": "OWl1ncIjgdk",
+      "title": "Lecture 38 : Training ANNs (Contd..)",
+      "duration": 1639
+    },
+    {
+      "id": "I3tZS_L8_E8",
+      "title": "Lecture 39 : Training ANNs (Contd..)",
+      "duration": 1559
+    },
+    {
+      "id": "hGCmOUfHUv4",
+      "title": "Lecture 40 : Soft computing tools",
+      "duration": 1785
+    }
+  ]
+}

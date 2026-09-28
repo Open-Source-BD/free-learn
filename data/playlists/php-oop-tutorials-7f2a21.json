@@ -1,0 +1,105 @@
+{
+  "courseId": "php-oop-tutorials-7f2a21",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:05.211Z",
+  "title": "Object Oriented PHP Tutorials",
+  "channel": "Dani Krossing",
+  "videos": [
+    {
+      "id": "Anz0ArcQ5kI",
+      "title": "1: Introduction To OOP PHP | Object Oriented PHP Tutorial For Beginners | PHP Tutorial | mmtuts",
+      "duration": 520
+    },
+    {
+      "id": "3OKOe7CraGY",
+      "title": "2: What Is The MVC Model | MVC Model Explained | Object Oriented PHP Tutorial For Beginners | mmtuts",
+      "duration": 717
+    },
+    {
+      "id": "iEGUOE9RKqM",
+      "title": "3: Create Classes In OOP PHP | PHP Classes | Object Oriented PHP Tutorial For Beginners | mmtuts",
+      "duration": 386
+    },
+    {
+      "id": "X6xY4Ouydas",
+      "title": "4: Visibility And Inheritance In OOP PHP | OOP Scopes | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 728
+    },
+    {
+      "id": "U-SIguEOk0o",
+      "title": "5: Properties And Methods In OOP PHP | Object Oriented PHP Tutorial For Beginners | mmtuts",
+      "duration": 850
+    },
+    {
+      "id": "ToomaGjgqBw",
+      "title": "6: Constructors and Destructors in OOP PHP | Object Oriented PHP Tutorial For Beginners | mmtuts",
+      "duration": 757
+    },
+    {
+      "id": "xeKc5VGUkPM",
+      "title": "7: Delete Objects In OOP PHP | Object Oriented PHP Tutorial For Beginners | PHP Tutorial | mmtuts",
+      "duration": 145
+    },
+    {
+      "id": "L9jLxuLAAIY",
+      "title": "8: Static Properties And Methods In OOP PHP | Object Oriented PHP Tutorial | PHP Tutorial | mmtuts",
+      "duration": 624
+    },
+    {
+      "id": "z3pZdmJ64jo",
+      "title": "9: Load Classes Automatically In OOP PHP | Object Oriented PHP Tutorial | PHP Tutorial | mmtuts",
+      "duration": 947
+    },
+    {
+      "id": "0MYqGSplVQs",
+      "title": "10: Type Declarations In OOP PHP | Type Hinting In PHP | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 456
+    },
+    {
+      "id": "zWOjI3HPHS8",
+      "title": "11: First exercise in OOP PHP | OOP PHP Exercise | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 1442
+    },
+    {
+      "id": "rzew3ZgDMPA",
+      "title": "12: Scope Resolution Operators in OOP PHP | Object Oriented PHP Tutorial | PHP Tutorial | mmtuts",
+      "duration": 516
+    },
+    {
+      "id": "jHjjsgRNFVE",
+      "title": "13: Interfaces in OOP PHP | Interfaces Explained | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 1180
+    },
+    {
+      "id": "Eu7l8utquGY",
+      "title": "14: Abstract Classes in OOP PHP | Abstract Explained | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 682
+    },
+    {
+      "id": "_PTTcxC25Lk",
+      "title": "15: Anonymous Classes In OOP PHP | Anonymous Explained | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 299
+    },
+    {
+      "id": "rcNYXc-hG_I",
+      "title": "16: Connect To A Database Using OOP PHP | PDO Tutorial | Object Oriented PHP Tutorial | PHP Tutorial",
+      "duration": 837
+    },
+    {
+      "id": "T41SMNgyRrc",
+      "title": "17: Query A Database Using OOP PHP | Prepared Statements Using PDO | Object Oriented PHP Tutorial",
+      "duration": 1199
+    },
+    {
+      "id": "Fg0CP-ri87U",
+      "title": "18: Apply The MVC Model Using OOP PHP | MVC Model Tutorial | Object Oriented PHP Tutorial",
+      "duration": 1457
+    },
+    {
+      "id": "BaEm2Qv14oU",
+      "title": "How To Create A OOP PHP Login System For Beginners | OOP PHP & PDO | OOP PHP Tutorial",
+      "duration": 4198
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "courseId": "data-structures-and-algorithms-in-java-full-course-d284a7",
+  "sourceUrl": "https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:46.306Z",
+  "title": "Data Structures and Algorithms in Java",
+  "channel": "Dinesh Varyani",
+  "videos": [
+    {
+      "id": "6iCHf7OZn6c",
+      "title": "Data Structures and Algorithms with Visualizations – Full Course (Java)",
+      "duration": 193
+    },
+    {
+      "id": "Mkph4zbA-MI",
+      "title": "Congratulations to the AlgoSteps Team on an Incredible Launch! 🚀",
+      "duration": 326
+    },
+    {
+      "id": "JmokslMaKJc",
+      "title": "Before Your Next Coding Interview… Download These DSA Animations!",
+      "duration": 248
+    },
+    {
+      "id": "kE_HweAyfyw",
+      "title": "Cracking The Google, Apple, Meta, Amazon, Microsoft Technical Interviews Book",
+      "duration": 945
+    },
+    {
+      "id": "PsGbbhEMeWU",
+      "title": "Introduction to Data Structures | Data Structures and Algorithms in Java",
+      "duration": 304
+    },
+    {
+      "id": "42Evr3YyR88",
+      "title": "Introduction to Algorithms | Data Structures and Algorithms in Java",
+      "duration": 246
+    },
+    {
+      "id": "RctntWQjazw",
+      "title": "Introduction to Algorithm Analysis",
+      "duration": 409
+    },
+    {
+      "id": "6CWVNRAIAEY",
+      "title": "Time Complexity of an Algorithm",
+      "duration": 323
+    },
+    {
+      "id": "31vNxClrWvA",
+      "title": "Space Complexity of an Algorithm",
+      "duration": 129
+    },
+    {
+      "id": "zwI0GWYe5jY",
+      "title": "Asymptotic Analysis of an Algorithm",
+      "duration": 150
+    },
+    {
+      "id": "64drwA620Uk",
+      "title": "Asymptotic Notations | Omega, Theta and Big O Notations",
+      "duration": 198
+    },
+    {
+      "id": "JTyy0bZ352M",
+      "title": "Types of Asymptotic Notations",
+      "duration": 365
+    },
+    {
+      "id": "wl5VrRNP0zM",
+      "title": "Analysis and Rules to calculate Big O notation",
+      "duration": 328
+    },
+    {
+      "id": "tydym0S6PfE",
+      "title": "Calculating Time complexity of Constant Algorithm (Big O)",
+      "duration": 277
+    },
+    {
+      "id": "kf2xZiYRds0",
+      "title": "Calculating Time complexity of a Linear Algorithm  (Big O)",
+      "duration": 480
+    },
+    {
+      "id": "V8undz_8y2o",
+      "title": "Calculating Time complexity of a Polynomial Algorithm (Big O)",
+      "duration": 547
+    },
+    {
+      "id": "CysMrYVgyGU",
+      "title": "Introduction to One-Dimensional Array",
+      "duration": 300
+    },
+    {
+      "id": "lTyEeOhB0Fs",
+      "title": "Declaration and Initialization of a One-Dimensional Array",
+      "duration": 375
+    },
+    {
+      "id": "6I872_ey23E",
+      "title": "Adding or Updating elements in a One-Dimensional Array | Animation",
+      "duration": 371
+    },
+    {
+      "id": "Sdj9-lY3Flg",
+      "title": "Adding or Updating elements in a One-Dimensional Array | Implementation",
+      "duration": 539
+    },
+    {
+      "id": "1My6kUF_mxI",
+      "title": "How to print elements of an Array in Java? | Animation",
+      "duration": 390
+    },
+    {
+      "id": "bbdrmbmSaW0",
+      "title": "How to print elements of an Array in Java? | Implementation",
+      "duration": 321
+    },
+    {
+      "id": "5rWEio2KoZM",
+      "title": "Remove Even Integers from an Array | Animation | Coding Interview Question",
+      "duration": 742
+    },
+    {
+      "id": "lMUcwvVOnnA",
+      "title": "Remove Even Integers from an Array | Implementation | Coding Interview Question",
+      "duration": 424
+    },
+    {
+      "id": "PkrEpxfhSao",
+      "title": "How to Reverse an Array in Java - Animation",
+      "duration": 527
+    },
+    {
+      "id": "YrTJFPa9CpM",
+      "title": "How to reverse an array in Java ? | Implementation",
+      "duration": 209
+    },
+    {
+      "id": "cgQi0YPBcD0",
+      "title": "How to find Minimum value in an Array ? | Animation",
+      "duration": 379
+    },
+    {
+      "id": "ouM9-iLAvHE",
+      "title": "How to find Minimum value in an Array ? | Implementation",
+      "duration": 346
+    },
+    {
+      "id": "UULE-HyfERc",
+      "title": "Find Second Maximum value in an Array | Animation",
+      "duration": 771
+    },
+    {
+      "id": "wvz5Jz_PW_8",
+      "title": "How to move Zeroes to end of an Array? | Animation",
+      "duration": 885
+    },
+    {
+      "id": "FjU-6e881Uk",
+      "title": "How to move Zeroes to end of an Array? | Implementation",
+      "duration": 359
+    },
+    {
+      "id": "7IV3DRYaZxI",
+      "title": "How to resize an Array in Java ? | Animation",
+      "duration": 546
+    },
+    {
+      "id": "CCLPUWyVg2A",
+      "title": "How to resize an Array in Java ? | Implementation",
+      "duration": 547
+    },
+    {
+      "id": "PaQA-9mHMRY",
+      "title": "Find the Missing Number in an Array | Animation | Coding Interview Question",
+      "duration": 586
+    },
+    {
+      "id": "Zh8RcXFOKVo",
+      "title": "Find the Missing Number in an Array | Implementation | Coding Interview Question",
+      "duration": 266
+    },
+    {
+      "id": "Q485CWk_QWk",
+      "title": "How to check if a given String is a Palindrome ? | String Algorithms | Animation",
+      "duration": 736
+    },
+    {
+      "id": "HLui6CzK-bI",
+      "title": "How to check if a given String is a Palindrome | String Algorithms | Implementation",
+      "duration": 388
+    },
+    {
+      "id": "WI1qQavJIRo",
+      "title": "Represent a Singly Linked List in Java",
+      "duration": 170
+    },
+    {
+      "id": "k9r80o_DeK4",
+      "title": "How to Implement a Singly Linked List in Java | Data Structures and Algorithms",
+      "duration": 144
+    },
+    {
+      "id": "Fg4VIjTdHx4",
+      "title": "Create a Singly Linked List in Java (Animation)",
+      "duration": 343
+    },
+    {
+      "id": "ZovnBKd6O7g",
+      "title": "Create a Singly Linked List in Java (Implementation)",
+      "duration": 265
+    },
+    {
+      "id": "GsRbIYiOJaE",
+      "title": "Print elements of a Singly Linked List in Java (Animation)",
+      "duration": 399
+    },
+    {
+      "id": "Ry6SoDiYykc",
+      "title": "Print elements of a Singly Linked List in Java (Implementation)",
+      "duration": 215
+    },
+    {
+      "id": "q99_b1z715M",
+      "title": "Find length of a Singly Linked List in Java (Animation)",
+      "duration": 345
+    },
+    {
+      "id": "MGs4rxFQmfE",
+      "title": "Find length of a Singly Linked List in Java (Implementation)",
+      "duration": 237
+    },
+    {
+      "id": "Xxk_j0fBXws",
+      "title": "Insert node at the beginning of a Singly Linked List in Java (Animation)",
+      "duration": 390
+    },
+    {
+      "id": "LRUdf9VpO0w",
+      "title": "Insert node at the beginning of a Singly Linked List in Java (Implementation)",
+      "duration": 178
+    },
+    {
+      "id": "xX9-pYkL1dY",
+      "title": "Insert node at the end of a Singly Linked List in Java (Animation)",
+      "duration": 597
+    },
+    {
+      "id": "WLNJoiMcRaY",
+      "title": "Insert node at the end of a Singly Linked List in Java (Implementation)",
+      "duration": 319
+    },
+    {
+      "id": "D0sFHueV30U",
+      "title": "Insert a node in a Singly Linked List at a given position (Animation)",
+      "duration": 933
+    },
+    {
+      "id": "o8h8EC9vefc",
+      "title": "Insert a node in a Singly Linked List at a given position (Implementation)",
+      "duration": 814
+    },
+    {
+      "id": "z0SOY9UlUPE",
+      "title": "Delete first node of a Singly Linked List in Java (Animation)",
+      "duration": 467
+    },
+    {
+      "id": "g_ux4dYcea0",
+      "title": "Delete first node of a Singly Linked List in Java (Implementation)",
+      "duration": 306
+    },
+    {
+      "id": "eQEDXsIOuxk",
+      "title": "Delete last node of a Singly Linked List in Java (Animation)",
+      "duration": 655
+    },
+    {
+      "id": "FLyQjRxbbbM",
+      "title": "Delete last node of a Singly Linked List in Java (Implementation)",
+      "duration": 453
+    },
+    {
+      "id": "0k2Gy50CSAE",
+      "title": "Delete a node from a Singly Linked List at a given position (Animation)",
+      "duration": 826
+    },
+    {
+      "id": "3wWkyemipYs",
+      "title": "Delete a node from a Singly Linked List at a given position (Implementation)",
+      "duration": 622
+    },
+    {
+      "id": "feLNtgVg1xI",
+      "title": "How to search an element in a Singly Linked List in Java ?",
+      "duration": 637
+    },
+    {
+      "id": "jY-EUKXYT20",
+      "title": "Reverse a Singly Linked List in Java | Leetcode #206 | Data Structures & Algorithms",
+      "duration": 645
+    },
+    {
+      "id": "DYpEpZzNmiA",
+      "title": "How to find middle node in a Singly Linked List in Java? | Data Structures and Algorithms",
+      "duration": 725
+    },
+    {
+      "id": "adS-s2Stg_A",
+      "title": "How to find nth node from the end of a Singly Linked List in Java?",
+      "duration": 797
+    },
+    {
+      "id": "0Hn18rUkZKY",
+      "title": "How to remove duplicate from sorted Singy Linked List in Java?",
+      "duration": 669
+    },
+    {
+      "id": "u9igWutVc4o",
+      "title": "How to insert a node in a sorted Singly Linked List in Java ?",
+      "duration": 707
+    },
+    {
+      "id": "8SoncjEIW4c",
+      "title": "How to remove a given key from Singly Linked List in Java?",
+      "duration": 634
+    },
+    {
+      "id": "rOpnLs0lXy0",
+      "title": "How to detect a loop in a Singly Linked List in Java? (Animation)",
+      "duration": 574
+    },
+    {
+      "id": "5czD98BU28o",
+      "title": "Detect a loop in a Singly Linked List in Java | Implementation",
+      "duration": 436
+    },
+    {
+      "id": "yKNOZ8bPdRQ",
+      "title": "How to find start of a loop in a Singly Linked List? (Animation)",
+      "duration": 765
+    },
+    {
+      "id": "e4JbuvkhrpI",
+      "title": "How to find start of a loop in a Singly Linked List? (Implementation)",
+      "duration": 491
+    },
+    {
+      "id": "HXNJSkh5kFo",
+      "title": "Why Floyd's Cycle Detection algorithm works?",
+      "duration": 1170
+    },
+    {
+      "id": "LWDVM_kgvdE",
+      "title": "How to remove loop from a Singly Linked List? | Floyd Cycle Detection Algorithm | (Animation)",
+      "duration": 612
+    },
+    {
+      "id": "sNsBwXU-8Co",
+      "title": "How to remove loop from a Singly Linked List? | Floyd Cycle Detection Algorithm | (Implementation)",
+      "duration": 602
+    },
+    {
+      "id": "IMWiPqoneT4",
+      "title": "Merge Two Sorted Lists | Animation | Leetcode #21 | Coding Interview Question",
+      "duration": 1798
+    },
+    {
+      "id": "IdBENG4jRWY",
+      "title": "Merge Two Sorted Lists | Implementation | Leetcode #21 | Coding Interview Question",
+      "duration": 861
+    },
+    {
+      "id": "qE9KOe3Fu7Q",
+      "title": "LeetCode #2: Add Two Numbers | Animation | Google Coding Interview | LeetCode Add Two Numbers Java",
+      "duration": 1199
+    },
+    {
+      "id": "FsFV_yGgTBA",
+      "title": "How to represent a Doubly Linked List in Java ?",
+      "duration": 253
+    },
+    {
+      "id": "sUcVDPDHFJg",
+      "title": "How to implement Doubly Linked List in Java ? | Data Structures and Algorithms",
+      "duration": 381
+    },
+    {
+      "id": "MRIBUvW_KT4",
+      "title": "How to print elements of a Doubly Linked List in Java ?",
+      "duration": 764
+    },
+    {
+      "id": "jircscEJnWI",
+      "title": "How to insert node at the beginning of a Doubly Linked List in Java ?",
+      "duration": 616
+    },
+    {
+      "id": "E-v7WYdzuuw",
+      "title": "Insert node at the end of a Doubly Linked List in Java",
+      "duration": 626
+    },
+    {
+      "id": "WtoyZk6fgJ0",
+      "title": "How to delete first node in a Doubly Linked List in Java ?",
+      "duration": 918
+    },
+    {
+      "id": "tRdkJH34Yrg",
+      "title": "How to delete last node in a Doubly Linked List in Java ?",
+      "duration": 881
+    },
+    {
+      "id": "YgfaeRol4e0",
+      "title": "Doubly Linked List concepts in one complete video | Animations and Implementations",
+      "duration": 4290
+    },
+    {
+      "id": "lALu11HfN6g",
+      "title": "How to represent a Circular Singly Linked List in Java ?",
+      "duration": 477
+    },
+    {
+      "id": "0ODSrJcMT54",
+      "title": "How to implement a Circular Singly Linked List in Java ?",
+      "duration": 454
+    },
+    {
+      "id": "xwvZYAsvY1A",
+      "title": "How to traverse and print a Circular Singly Linked List in Java ?",
+      "duration": 695
+    },
+    {
+      "id": "uKsMwAl8Yi8",
+      "title": "How to insert node at the start of a Circular Singly Linked List in Java ?",
+      "duration": 894
+    },
+    {
+      "id": "PGvXsUew2IM",
+      "title": "How to insert node at the end of a Circular Singly Linked List in Java ?",
+      "duration": 845
+    },
+    {
+      "id": "XtkXUcn8IH8",
+      "title": "How to remove first node from a Circular Singly Linked List in Java ?",
+      "duration": 1125
+    },
+    {
+      "id": "30U3WhstyDA",
+      "title": "Circular Singly Linked List in One Video | Animations and Implementations",
+      "duration": 4362
+    },
+    {
+      "id": "Hxvn3IkE5SM",
+      "title": "How to represent a Stack in Java ?",
+      "duration": 247
+    },
+    {
+      "id": "Us4N22SEbM0",
+      "title": "How to implement a Stack using a Linked List in Java ? | Stack Data Structure",
+      "duration": 1184
+    },
+    {
+      "id": "XcJ16QUeJr0",
+      "title": "Implement a Stack using an Array | Stack Data Structure | Animations",
+      "duration": 1388
+    },
+    {
+      "id": "giDCeIR8mWQ",
+      "title": "Implement a Stack Datastructure (one video) | Animations and Implementations",
+      "duration": 1349
+    },
+    {
+      "id": "HFgyvNpBF4Q",
+      "title": "How to reverse a String using a Stack in Java ? | Animation",
+      "duration": 373
+    },
+    {
+      "id": "tUHqeysS2Gw",
+      "title": "Implementation - How to reverse a String using a Stack in Java ?",
+      "duration": 276
+    },
+    {
+      "id": "JUDNrDg-LhQ",
+      "title": "Next Greater Element | Animation | Coding Interview",
+      "duration": 1283
+    },
+    {
+      "id": "9TVrlVAtpv8",
+      "title": "Valid Parentheses problem (Balanced Brackets) | Animation | Coding Interview Question",
+      "duration": 987
+    },
+    {
+      "id": "enADmGHZuiY",
+      "title": "How to represent a Queue in Java ?",
+      "duration": 401
+    },
+    {
+      "id": "NkrlOf14GdM",
+      "title": "How to implement a Queue in Java ? | Part 1",
+      "duration": 311
+    },
+    {
+      "id": "ipMDGKu9uNs",
+      "title": "Part 2 - How to implement a Queue in Java - Enqueue Operation",
+      "duration": 1033
+    },
+    {
+      "id": "27yOGyZow6U",
+      "title": "Part 3 - How to implement a Queue in Java - Dequeue Operation",
+      "duration": 1005
+    },
+    {
+      "id": "sn8BPJGRA8U",
+      "title": "Implement a Queue Datastructure (one video) | Animations and Implementations",
+      "duration": 2412
+    },
+    {
+      "id": "osF7tb10cUA",
+      "title": "Generate Binary numbers from 1 to n using a Queue | Animation",
+      "duration": 1118
+    },
+    {
+      "id": "mQk6Y5B_0Mk",
+      "title": "How to represent a Binary Tree in Java ?",
+      "duration": 500
+    },
+    {
+      "id": "wL7JOLxbMI4",
+      "title": "How to Implement a Binary Tree in Java | Binary Tree Data Structure",
+      "duration": 467
+    },
+    {
+      "id": "R4V4n-waxn4",
+      "title": "Recursive PreOrder traversal of a Binary Tree in Java",
+      "duration": 1566
+    },
+    {
+      "id": "VaIaJMeNWtU",
+      "title": "Iterative Preorder traversal of a Binary Tree in Java",
+      "duration": 994
+    },
+    {
+      "id": "vpXcceCmSbg",
+      "title": "Recursive Inorder traversal of Binary Tree in Java",
+      "duration": 1617
+    },
+    {
+      "id": "uMTrIjP_0Gw",
+      "title": "Iterative Inorder traversal of a Binary Tree in Java",
+      "duration": 1723
+    },
+    {
+      "id": "xDMFBKjxZNc",
+      "title": "Recursive Postorder traversal of a Binary Tree in Java",
+      "duration": 1607
+    },
+    {
+      "id": "uigaktgcQWU",
+      "title": "Iterative Postorder Traversal of a Binary Tree | Animation",
+      "duration": 1676
+    },
+    {
+      "id": "m4Wb3kXk_iA",
+      "title": "Iterative Postorder Traversal of a Binary Tree | Implementation",
+      "duration": 874
+    },
+    {
+      "id": "hXAqTO7VqUQ",
+      "title": "Level order traversal of a Binary Tree in Java",
+      "duration": 1116
+    },
+    {
+      "id": "XZZbTtLUGiM",
+      "title": "How to find Maximum value in a Binary Tree? (Recursive) | Animation",
+      "duration": 1580
+    },
+    {
+      "id": "XptQUEqKYTc",
+      "title": "How to find Maximum value in a Binary Tree? (Recursive) | Implementation",
+      "duration": 564
+    },
+    {
+      "id": "B1Mau6NCHx0",
+      "title": "How to represent Binary Search Tree in Java? | Animation",
+      "duration": 607
+    },
+    {
+      "id": "_JcH9H9TVcY",
+      "title": "How to represent Binary Search Tree in Java? | Implementation",
+      "duration": 185
+    },
+    {
+      "id": "B2g1shI0pbk",
+      "title": "How to insert a value in a Binary Search Tree in Java  (Recursive) | Animation",
+      "duration": 1187
+    },
+    {
+      "id": "ZHLAiHiYgeI",
+      "title": "How to insert a value in a Binary Search Tree (Recursive) | Implementation",
+      "duration": 443
+    },
+    {
+      "id": "n1fnwWfgcvY",
+      "title": "How to search a given key in a Binary Search Tree (Recursive) | Animation",
+      "duration": 1110
+    },
+    {
+      "id": "wL1oxXrEgr4",
+      "title": "How to search a given key in a Binary Search Tree (Recursive) | Implementation",
+      "duration": 400
+    },
+    {
+      "id": "ACoLBU0nPAw",
+      "title": "Validate Binary Search Tree | Animation | Leetcode #98 | Coding Interview question",
+      "duration": 2037
+    },
+    {
+      "id": "4lATqBxapmc",
+      "title": "Search in a row and column wise sorted matrix | Animation",
+      "duration": 940
+    },
+    {
+      "id": "og-ab_WgWBc",
+      "title": "Search in a row and column wise sorted matrix | Implementation",
+      "duration": 351
+    },
+    {
+      "id": "dm25MsWHYuk",
+      "title": "Print a given matrix in Spiral form | Animation | Coding Interview Question",
+      "duration": 2066
+    },
+    {
+      "id": "tyd2r6IvNd0",
+      "title": "Introduction to Priority Queue and Binary Heap in Java",
+      "duration": 486
+    },
+    {
+      "id": "nC8SYpmA2Ms",
+      "title": "How to represent a Binary Heap in Java? | Animation",
+      "duration": 702
+    },
+    {
+      "id": "dmXvrAz8knQ",
+      "title": "How to implement Max Heap in Java? | Animation",
+      "duration": 465
+    },
+    {
+      "id": "K46eo8td4Z4",
+      "title": "Initial Implementation - How to implement Max Heap in Java?",
+      "duration": 299
+    },
+    {
+      "id": "58A0tHxXS6g",
+      "title": "Bottom - Up Reheapify (Swim) in Max Heap | Animation | Priority Queue",
+      "duration": 786
+    },
+    {
+      "id": "xIk0gEIVoZY",
+      "title": "How to insert in a Max Heap in Java ? | Animation",
+      "duration": 1489
+    },
+    {
+      "id": "KmtpWB8Y_DA",
+      "title": "How to insert in a Max Heap in Java ? | Implementation",
+      "duration": 676
+    },
+    {
+      "id": "w-rZONjVI0c",
+      "title": "Top - Down Reheapify (Sink) in Max Heap | Animation | Priority Queue",
+      "duration": 1003
+    },
+    {
+      "id": "VRehtixv1S8",
+      "title": "How to delete max element in a Max Heap in Java ? | Animation",
+      "duration": 1421
+    },
+    {
+      "id": "dOynDPicyiI",
+      "title": "Priority Queue and Binary Heap in One Video | Animation & Implementations",
+      "duration": 7250
+    },
+    {
+      "id": "xSbScg7ONw8",
+      "title": "Linear Search in Java | Searching Algorithm | Animation",
+      "duration": 345
+    },
+    {
+      "id": "aWFrL3qBRF4",
+      "title": "Linear Search in Java | Searching Algorithm | Implementation",
+      "duration": 246
+    },
+    {
+      "id": "KPQTOH_adT0",
+      "title": "Binary Search in Java",
+      "duration": 951
+    },
+    {
+      "id": "O282KYvGkyc",
+      "title": "Search Insert Position in a Sorted Array | Animation | Leetcode #35 | Coding Interview Question",
+      "duration": 1304
+    },
+    {
+      "id": "eFreSZFj1bI",
+      "title": "Bubble Sort in Java - Part 1 | Animation",
+      "duration": 518
+    },
+    {
+      "id": "pYyl9QAtRdk",
+      "title": "Bubble Sort in Java - Part 2 | Animation",
+      "duration": 1260
+    },
+    {
+      "id": "fF1aJL-4Yzk",
+      "title": "Bubble Sort in Java | Implementation",
+      "duration": 511
+    },
+    {
+      "id": "W3TklBfIK9U",
+      "title": "Insertion Sort in Java -  Part 1 | Animation | Sorting Algorithms",
+      "duration": 806
+    },
+    {
+      "id": "TKIAVBsCLqk",
+      "title": "Insertion Sort algorithm in Java (Part 2) | Animation | Sorting Algorithm",
+      "duration": 1221
+    },
+    {
+      "id": "GDNUL4lv8Nc",
+      "title": "Insertion Sort in Java | Sorting Algorithm | Implementation",
+      "duration": 522
+    },
+    {
+      "id": "u8moN7j6P8w",
+      "title": "Selection Sort Algorithm in Java (Part 1) | Animation | Data Structure and Algorithm",
+      "duration": 786
+    },
+    {
+      "id": "ezwtvaqiZH8",
+      "title": "Selection Sort Algorithm in Java (Part 2) | Animation | Data Structures and Algorithm",
+      "duration": 1282
+    },
+    {
+      "id": "vQ5S6rESu8w",
+      "title": "Selection Sort Algorithm in Java (Part 3) | Implementation | Data Structures and Algorithms",
+      "duration": 463
+    },
+    {
+      "id": "QK6I45kC2VQ",
+      "title": "How to merge two sorted arrays in Java? | Animation | Part 1",
+      "duration": 554
+    },
+    {
+      "id": "tSrUFzSn-P0",
+      "title": "How to merge two sorted arrays in Java? | Animation | Part 2",
+      "duration": 918
+    },
+    {
+      "id": "7ynKGC1_cVk",
+      "title": "How to merge two sorted arrays in Java? | Implementation",
+      "duration": 744
+    },
+    {
+      "id": "oSNFxMazbkg",
+      "title": "Merge Sort in Java -  Part 1 | Animation | Conceptual Overview | Sorting Algorithms",
+      "duration": 775
+    },
+    {
+      "id": "fUaNL5FUG0c",
+      "title": "Merge Sort in Java -  Part 2 | Merge Method Animation | Conceptual Overview | Sorting Algorithms",
+      "duration": 844
+    },
+    {
+      "id": "ThWBE8Y83bw",
+      "title": "Merge Sort in Java -  Part 3 | Animation | Sorting Algorithms",
+      "duration": 3512
+    },
+    {
+      "id": "rsZv8VW__ko",
+      "title": "Merge Sort in Java -  Part 4 | Implementation | Sorting Algorithms",
+      "duration": 895
+    },
+    {
+      "id": "MZM63AvAs7s",
+      "title": "Merge Sort in One video | Animations and Implementations",
+      "duration": 5931
+    },
+    {
+      "id": "19p9d9PCDkA",
+      "title": "Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 1 | Animation",
+      "duration": 1227
+    },
+    {
+      "id": "srRqxjRA9dQ",
+      "title": "Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 2 | Animation",
+      "duration": 759
+    },
+    {
+      "id": "O1VG37bKmFs",
+      "title": "Quick Sort Algorithm in Java -  Part 1 | Animation | Conceptual Overview | Sorting Algorithms",
+      "duration": 670
+    },
+    {
+      "id": "0ijh_0h35wc",
+      "title": "Quick Sort Algorithm in Java -  Part 2 | Partition Method Animation | Sorting Algorithms",
+      "duration": 1517
+    },
+    {
+      "id": "ppZaAsb15Ug",
+      "title": "Quick Sort Algorithm in Java -  Part 3 | Recursion Animation | Sorting Algorithms",
+      "duration": 1189
+    },
+    {
+      "id": "9qVESt5bBfQ",
+      "title": "Quick Sort Algorithm in Java -  Part 4 | Animation | Conceptual Overview | Sorting Algorithms",
+      "duration": 2414
+    },
+    {
+      "id": "Ic4K6pz0rRo",
+      "title": "Quick Sort in One video | Animations and Implementations",
+      "duration": 5732
+    },
+    {
+      "id": "npKnie2kjiM",
+      "title": "Squares of a Sorted Array | Animation | Coding Interview Question",
+      "duration": 886
+    },
+    {
+      "id": "vr0jRG5wuMQ",
+      "title": "Squares of a Sorted Array | Implementation | Coding Interview Question",
+      "duration": 560
+    },
+    {
+      "id": "zjSn7r569I4",
+      "title": "Rearrange Sorted Array in Max/Min form | Animation | Coding interview question",
+      "duration": 1859
+    },
+    {
+      "id": "T2HMp69s8jw",
+      "title": "Introduction to Graphs | Graph Data Structure and Algorithms",
+      "duration": 209
+    },
+    {
+      "id": "9qFLiiNPDEI",
+      "title": "Adjacency Matrix Representation of Graph in Java",
+      "duration": 266
+    },
+    {
+      "id": "zqXDwFhfPtI",
+      "title": "Adjacency Matrix Representation of an Undirected Graph in Java | Animation",
+      "duration": 470
+    },
+    {
+      "id": "X1LdtRW88c0",
+      "title": "Adjacency Matrix Representation of an Undirected Graph in Java | Implementation",
+      "duration": 465
+    },
+    {
+      "id": "Kd__dmFHoZo",
+      "title": "Adjacency List Representation of Graph in Java",
+      "duration": 169
+    },
+    {
+      "id": "nt8uN6pQrnw",
+      "title": "Adjacency List Representation of an Undirected Graph in Java | Animation",
+      "duration": 444
+    },
+    {
+      "id": "6rDKLqFLfh0",
+      "title": "Adjacency List Representation of an Undirected Graph in Java | Implementation",
+      "duration": 584
+    },
+    {
+      "id": "-X6ji6sjxD4",
+      "title": "Breadth First Search (BFS) traversal of an Undirected Graph | Animation",
+      "duration": 943
+    },
+    {
+      "id": "grewOnmAd0k",
+      "title": "Breadth First Search (BFS) traversal of an Undirected Graph | Implementation",
+      "duration": 365
+    },
+    {
+      "id": "WxM-EENBY-w",
+      "title": "Iterative Depth First Search (DFS) traversal of an Undirected Graph | Animation",
+      "duration": 1065
+    },
+    {
+      "id": "Wzk6BBEBlYE",
+      "title": "Iterative Depth First Search (DFS) traversal of an Undirected Graph | Implementation",
+      "duration": 389
+    },
+    {
+      "id": "MmIeokeCdjY",
+      "title": "Recursive Depth First Search (DFS) traversal of an Undirected Graph | Animation",
+      "duration": 1157
+    },
+    {
+      "id": "NWl-LtrWU-o",
+      "title": "Connected Components in an Undirected Graph | Graph Data Structure | Animation",
+      "duration": 1755
+    },
+    {
+      "id": "iz0T9z3V84g",
+      "title": "Number of Islands | Leetcode #200 | Animation | Amazon Interview Question",
+      "duration": 2881
+    },
+    {
+      "id": "44A_jk4_Rx8",
+      "title": "Introduction to Hashing | Data Structures and Algorithms",
+      "duration": 862
+    },
+    {
+      "id": "dj7MYmhrebE",
+      "title": "What are Hash Functions? | Hashing Data Structure",
+      "duration": 638
+    },
+    {
+      "id": "hEPciOcibZs",
+      "title": "Introduction to Hash Table | Hashing Data Structure",
+      "duration": 517
+    },
+    {
+      "id": "JHrVYnK9smU",
+      "title": "Separate Chaining | Collision Resolution Technique | Hashing Data Structure",
+      "duration": 414
+    },
+    {
+      "id": "4jW9Gn1ffLg",
+      "title": "Represent a HashNode in a HashTable | Separate Chaining Collision Resolution Strategy",
+      "duration": 202
+    },
+    {
+      "id": "NGd08g328i4",
+      "title": "Implement a HashTable | Separate Chaining Collision Resolution Technique | Part 1 | Animation",
+      "duration": 601
+    },
+    {
+      "id": "dIew1UascBo",
+      "title": "Implement a HashTable | Separate Chaining Collision Resolution Technique | Part 2 | Implementation",
+      "duration": 543
+    },
+    {
+      "id": "cz9BrdMsSdY",
+      "title": "How to Put a Key-Value pair in a HashTable? | Part 1 | Separate Chaining Collision Resolution",
+      "duration": 831
+    },
+    {
+      "id": "bLubQgn1wpU",
+      "title": "How to Put a Key-Value pair in a HashTable? | Part 2 | Separate Chaining Collision Resolution",
+      "duration": 1019
+    },
+    {
+      "id": "1qr1tZWPCRE",
+      "title": "How to Put a Key-Value pair in a HashTable? | Part 3 | Separate Chaining Collision Resolution",
+      "duration": 780
+    },
+    {
+      "id": "ZKPWMOSIh7Q",
+      "title": "How to get a value by key in a HashTable? | Part 1 | Separate Chaining Collision Resolution",
+      "duration": 409
+    },
+    {
+      "id": "Qp_M6rW9A2U",
+      "title": "How to get a value by key in a HashTable? | Part 2 | Separate Chaining Collision Resolution",
+      "duration": 424
+    },
+    {
+      "id": "8TQ2Dy4EAvg",
+      "title": "How to get a value by key in a HashTable? | Part 3 | Separate Chaining Collision Resolution",
+      "duration": 418
+    },
+    {
+      "id": "29Zta0yUBMk",
+      "title": "How to remove a key from a HashTable? | Part 1 | Separate Chaining Collision Resolution",
+      "duration": 722
+    },
+    {
+      "id": "e2fI711EWLc",
+      "title": "How to remove a key from a HashTable? | Part 2 | Separate Chaining Collision Resolution",
+      "duration": 815
+    },
+    {
+      "id": "XUMXWPxU4bw",
+      "title": "How to remove a key from a HashTable? | Part 3 | Separate Chaining Collision Resolution",
+      "duration": 978
+    },
+    {
+      "id": "niA9e-K58c8",
+      "title": "Contains Duplicate | Leetcode 217 | Animation | Coding Interview Problem",
+      "duration": 719
+    },
+    {
+      "id": "Vk3EjoMn-1c",
+      "title": "Introduction to Intervals and Overlapping Intervals | Coding Interview Pattern",
+      "duration": 501
+    },
+    {
+      "id": "uO1Pe5MCGAc",
+      "title": "Merge Intervals | Leetcode 56 | Animation | Coding Interview Problem",
+      "duration": 1334
+    },
+    {
+      "id": "nALxbxZnzks",
+      "title": "Insert Interval | Leetcode 57 | Animation | Coding Interview Problem",
+      "duration": 1449
+    },
+    {
+      "id": "15D_fS0seGs",
+      "title": "Complete Guide to Coding Pattern: Overlapping Intervals (Animation) | Data Structures and Algorithms",
+      "duration": 3244
+    },
+    {
+      "id": "2qsSy7aHi44",
+      "title": "Introduction to Trie Data Structures",
+      "duration": 240
+    },
+    {
+      "id": "uw0z_KaeVvw",
+      "title": "How to represent a TrieNode in Java?",
+      "duration": 482
+    },
+    {
+      "id": "TnKfIlImSKI",
+      "title": "How to implement Trie in Java? | Animation",
+      "duration": 459
+    },
+    {
+      "id": "c1lX6ntrj64",
+      "title": "How to implement Trie in Java ? | Implementation",
+      "duration": 252
+    },
+    {
+      "id": "I6i4AyDsMQA",
+      "title": "How to insert a word in Trie - Part 1 | Animation",
+      "duration": 821
+    },
+    {
+      "id": "oFf4oTE7GgY",
+      "title": "How to insert a word in Trie - Part 2 | Animation",
+      "duration": 1381
+    },
+    {
+      "id": "ucJfhsLCBw0",
+      "title": "Implementation - How to insert a word in Trie ?",
+      "duration": 444
+    },
+    {
+      "id": "qWFKDj41eVw",
+      "title": "Introduction to Dynamic Programming",
+      "duration": 371
+    },
+    {
+      "id": "MWV5I3W-0JU",
+      "title": "Recursion and Dynamic Programming - Part 1",
+      "duration": 330
+    },
+    {
+      "id": "m8ERwzH7JOI",
+      "title": "Recursion and Dynamic Programming - Part 2",
+      "duration": 1185
+    },
+    {
+      "id": "dxNTArjcas8",
+      "title": "Optimal Substructure property in Dynamic Programming",
+      "duration": 266
+    },
+    {
+      "id": "jT3dwqvPA8g",
+      "title": "Overlapping Subproblems property in Dynamic Programming",
+      "duration": 395
+    },
+    {
+      "id": "8Upn_Z_VjQw",
+      "title": "Bottom Up Approach - Fibonacci Number in Dynamic Programming | Animation",
+      "duration": 784
+    },
+    {
+      "id": "I6AJxmyQ9dA",
+      "title": "Bottom Up Approach - Fibonacci Number in Dynamic Programming | Implementation",
+      "duration": 454
+    },
+    {
+      "id": "-WgPTuBYSCE",
+      "title": "Top Down Approach - Fibonacci Number in Dynamic Programming | Animation",
+      "duration": 1522
+    },
+    {
+      "id": "gX36VvycDnY",
+      "title": "Top Down Approach - Fibonacci Number in Dynamic Programming | Implementation",
+      "duration": 580
+    },
+    {
+      "id": "y3zb6paCCy8",
+      "title": "Kadane's Algorithm for Maximum Sum Subarray - 1 | Dynamic Programming | Conceptual Overview",
+      "duration": 1152
+    },
+    {
+      "id": "ZD12jyrrUGI",
+      "title": "Kadane's Algorithm for Maximum Sum Subarray - 2 | Dynamic Programming |  Animation",
+      "duration": 1254
+    },
+    {
+      "id": "f35VqXSsP6Y",
+      "title": "Kadane's Algorithm for Maximum Sum Subarray - 3 | Dynamic Programming | Implementation",
+      "duration": 393
+    },
+    {
+      "id": "_0sLV_H9gIY",
+      "title": "LeetCode #1: Two Sum I | Facebook Coding Interview | LeetCode Two Sum Java",
+      "duration": 989
+    },
+    {
+      "id": "mS8SgO_Ux4s",
+      "title": "LeetCode #1: Two Sum II Animation | Facebook Coding Interview | LeetCode Two Sum Java",
+      "duration": 934
+    },
+    {
+      "id": "j5j6_45nxP0",
+      "title": "LeetCode #1: Two Sum II Implementation | Facebook Coding Interview | LeetCode Two Sum Java",
+      "duration": 585
+    },
+    {
+      "id": "bgWX-auJpI0",
+      "title": "Is Valid Subsequence problem (animation) in Java | Coding Interview Question",
+      "duration": 1141
+    },
+    {
+      "id": "9eAMIKZ3edI",
+      "title": "Is Valid Subsequence problem (Implementation) in Java | Coding Interview Question",
+      "duration": 537
+    },
+    {
+      "id": "QRsl3eAyUSk",
+      "title": "First Non-Repeating Character in a String | Animation | Coding Interview Question",
+      "duration": 1101
+    },
+    {
+      "id": "Sj0CsTYYiX8",
+      "title": "First Non-Repeating Character in a String | Implementation | Coding Interview Question",
+      "duration": 483
+    },
+    {
+      "id": "ZywpTXIktrk",
+      "title": "Remove Vowels from a String | Animation | Coding Interview Question",
+      "duration": 570
+    },
+    {
+      "id": "fQKzTodd0A8",
+      "title": "Remove Vowels from a String | Implementation | Coding Interview Question",
+      "duration": 356
+    },
+    {
+      "id": "aInhXAUOJoY",
+      "title": "How to Reverse an Integer in Java? | Coding Interview Question | Animation",
+      "duration": 1144
+    },
+    {
+      "id": "yAt_P1x6LuU",
+      "title": "Remove Element | Leetcode 27 | Animation | Coding Interview Problem",
+      "duration": 1061
+    },
+    {
+      "id": "ss0j3BuPNTk",
+      "title": "Remove Duplicates from Sorted Array | Leetcode 26 | Animation | Coding Interview Problem",
+      "duration": 1084
+    },
+    {
+      "id": "bZrgAfkrs9M",
+      "title": "Three Sum problem Animation in Java | Coding Interview Question",
+      "duration": 1421
+    },
+    {
+      "id": "w-qeVOijccg",
+      "title": "Product of an Array except self | Animation | Coding Interview",
+      "duration": 1345
+    },
+    {
+      "id": "HihXfX24GO4",
+      "title": "Sliding Window Maximum (Maximum of all subarrays of size k) | Leetcode #239 | Animation",
+      "duration": 2828
+    },
+    {
+      "id": "e5y26DAMWXM",
+      "title": "Maximum Sum Subarray of Size K | Animation | Coding Interview Question",
+      "duration": 1657
+    },
+    {
+      "id": "zKrEIlwbF5A",
+      "title": "LeetCode #3: Longest Substring Without Repeating Characters | Animation | Google Coding Interview",
+      "duration": 1470
+    },
+    {
+      "id": "lStz4y5Cq4c",
+      "title": "LeetCode #101: Symmetric Tree | Animation | Amazon Interview Question",
+      "duration": 1322
+    }
+  ]
+}

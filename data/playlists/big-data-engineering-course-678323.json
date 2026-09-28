@@ -1,0 +1,390 @@
+{
+  "courseId": "big-data-engineering-course-678323",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:39.112Z",
+  "title": "Big Data Engineering Course",
+  "channel": "Data Engineering",
+  "videos": [
+    {
+      "id": "rsOSrEbK7sU",
+      "title": "All about [What is Big Data] ?",
+      "duration": 2366
+    },
+    {
+      "id": "YHiS441Bk1E",
+      "title": "Big Data Engineering Road Map",
+      "duration": 1140
+    },
+    {
+      "id": "JTdDpgiRRAQ",
+      "title": "List of Big Data Service Providers",
+      "duration": 54
+    },
+    {
+      "id": "_bLdc-HJab0",
+      "title": "BigData System Configuration",
+      "duration": 194
+    },
+    {
+      "id": "jEzeHUcOF-0",
+      "title": "Unboxing [Hadoop Framework]",
+      "duration": 1375
+    },
+    {
+      "id": "N6TmDNexxGI",
+      "title": "Hadoop Distributed File System (HDFS)",
+      "duration": 4944
+    },
+    {
+      "id": "DlOIzUTrc7U",
+      "title": "HDFS Quotas , Use Cases",
+      "duration": 774
+    },
+    {
+      "id": "98UCknD8_qA",
+      "title": "Hadoop Single Node Setup",
+      "duration": 2242
+    },
+    {
+      "id": "ULtOZqlZnCw",
+      "title": "MapReduce Complete Video",
+      "duration": 7456
+    },
+    {
+      "id": "taTfW2kXSoE",
+      "title": "Apache Hive Introduction & Architecture",
+      "duration": 1060
+    },
+    {
+      "id": "COBDBw5GKjw",
+      "title": "Installation [ Apache Hive 2 with MySQL ]",
+      "duration": 854
+    },
+    {
+      "id": "AXvGkP20CDs",
+      "title": "Hive SQL [Create| Load| Insert | Show]",
+      "duration": 1168
+    },
+    {
+      "id": "4b4v3685JuU",
+      "title": "Hive Internal Vs External Table",
+      "duration": 433
+    },
+    {
+      "id": "RFS4JJFlzGc",
+      "title": "Hive Partition [ Static Vs Dynamic]",
+      "duration": 1114
+    },
+    {
+      "id": "YetRD4nncas",
+      "title": "Hive Bucket End to End Explained",
+      "duration": 1195
+    },
+    {
+      "id": "pHvyhfWK43s",
+      "title": "How to Decide [Bucket Count] in Hive #hive #apachehive",
+      "duration": 706
+    },
+    {
+      "id": "u7DxFJOt4bE",
+      "title": "Hive Partition with Bucket Explained",
+      "duration": 433
+    },
+    {
+      "id": "Mw5GynxCWoQ",
+      "title": "Hive ORC File Format with Demo",
+      "duration": 485
+    },
+    {
+      "id": "RPCAzf7Ycj0",
+      "title": "Hive ACID Table",
+      "duration": 445
+    },
+    {
+      "id": "VmLVwjUUfNo",
+      "title": "Hive UDF",
+      "duration": 791
+    },
+    {
+      "id": "OgS0noWVPJ4",
+      "title": "Apache Spark Introduction",
+      "duration": 2934
+    },
+    {
+      "id": "uUawCJY86Hk",
+      "title": "Apache Spark Installation",
+      "duration": 1110
+    },
+    {
+      "id": "PQHDCaN3jOU",
+      "title": "Apache Spark Scala Wordcount Program (REPL)",
+      "duration": 846
+    },
+    {
+      "id": "wZZFS10ziHg",
+      "title": "Spark Standalone Architecture",
+      "duration": 1584
+    },
+    {
+      "id": "kmdjyKohcD0",
+      "title": "Unboxing Spark RDD",
+      "duration": 697
+    },
+    {
+      "id": "ub435o7899s",
+      "title": "Different Ways to Create [Spark RDD]",
+      "duration": 276
+    },
+    {
+      "id": "Joz_RHojpqw",
+      "title": "Spark Transformation Types and Actions",
+      "duration": 845
+    },
+    {
+      "id": "PP7r_L-HB50",
+      "title": "Spark Executor Core & Memory Explained",
+      "duration": 512
+    },
+    {
+      "id": "WCO_r_lgrJU",
+      "title": "Spark [Executor & Driver] Memory Calculation",
+      "duration": 410
+    },
+    {
+      "id": "3c62-F6bu5k",
+      "title": "Spark Submit Cluster [YARN] Mode",
+      "duration": 791
+    },
+    {
+      "id": "CgKp_Z3B65w",
+      "title": "Spark Lens Integration [Spark Application]",
+      "duration": 655
+    },
+    {
+      "id": "KbaLrFgGbNw",
+      "title": "Spark [Hash Partition] Explained",
+      "duration": 1057
+    },
+    {
+      "id": "KQtgwB6Djqs",
+      "title": "Spark [Custom Partition] Implementation",
+      "duration": 459
+    },
+    {
+      "id": "IWR5Ui4uItY",
+      "title": "Spark With JDBC (MYSQL/ORACLE)",
+      "duration": 837
+    },
+    {
+      "id": "LRliGjk7NnY",
+      "title": "Apache Spark UDF",
+      "duration": 560
+    },
+    {
+      "id": "ijD5zuEV8U8",
+      "title": "Spark  - Repartition Or  Coalesce",
+      "duration": 602
+    },
+    {
+      "id": "eXDRx2c-VP4",
+      "title": "Apache Spark SQL With Apache Hive",
+      "duration": 535
+    },
+    {
+      "id": "tBWCeeRJEy4",
+      "title": "Spark reduceByKey Or groupByKey",
+      "duration": 726
+    },
+    {
+      "id": "aA5y0ttRlQ0",
+      "title": "Spark Dedup With Use Cases",
+      "duration": 542
+    },
+    {
+      "id": "KnnvR6dzzE4",
+      "title": "Is PySpark UDF is Slow? Why ?",
+      "duration": 354
+    },
+    {
+      "id": "r-lTbwcaKT4",
+      "title": "Spark - Calculate Moving Average",
+      "duration": 547
+    },
+    {
+      "id": "nSazHMCYawM",
+      "title": "Spark Market Basket Algorithm Part - 1",
+      "duration": 504
+    },
+    {
+      "id": "BlV54vmY63Y",
+      "title": "PySpark Calculate Frequency Table",
+      "duration": 272
+    },
+    {
+      "id": "OldxxlL-U9I",
+      "title": "PySpark Types of Drop Null Records",
+      "duration": 294
+    },
+    {
+      "id": "VVgt6wyit6A",
+      "title": "Print Spark Data Lineage",
+      "duration": 334
+    },
+    {
+      "id": "GSaZu0XgB1E",
+      "title": "Spark Logical & Physical Plan",
+      "duration": 504
+    },
+    {
+      "id": "_iP2Em-5Abw",
+      "title": "Hadoop Multi Node Cluster Setup",
+      "duration": 1803
+    },
+    {
+      "id": "XCOIp-CqGkg",
+      "title": "Apache Kafka Installation and Use Case",
+      "duration": 684
+    },
+    {
+      "id": "wNnTNTVdglM",
+      "title": "Spark Kafka Cassandra | End to End Streaming Project",
+      "duration": 1851
+    },
+    {
+      "id": "x9M2Gz65wzA",
+      "title": "Do Data Engineers Need Cloud Computing ?",
+      "duration": 535
+    },
+    {
+      "id": "Rqo6JaBCbDQ",
+      "title": "Big Data - On Premise Or Cloud ?",
+      "duration": 613
+    },
+    {
+      "id": "7pzqXqcKU2s",
+      "title": "Big Data On Cloud AWS EMR",
+      "duration": 1085
+    },
+    {
+      "id": "gT6lXKLOgj8",
+      "title": "Google Dataproc BigData Managed Service",
+      "duration": 960
+    },
+    {
+      "id": "U0o0vT_82sE",
+      "title": "Google Dataproc and BigQuey Project",
+      "duration": 709
+    },
+    {
+      "id": "0Ov5uf303x4",
+      "title": "NoSql: CAP Theorem- Part 1",
+      "duration": 642
+    },
+    {
+      "id": "olhzveSnJbs",
+      "title": "NoSql Support all CAP Rules Part-2",
+      "duration": 555
+    },
+    {
+      "id": "SGb6kYO_ZrM",
+      "title": "Types of NOSQL Data Store",
+      "duration": 339
+    },
+    {
+      "id": "KHrZpv0sjcw",
+      "title": "HBase Installation",
+      "duration": 577
+    },
+    {
+      "id": "oPe7Qryv35c",
+      "title": "Why I Use [HBase NQSQL] #hbase #nosql #bigdata",
+      "duration": 323
+    },
+    {
+      "id": "HAM1jHbpd64",
+      "title": "Apache SQOOP Data Migration POC",
+      "duration": 1569
+    },
+    {
+      "id": "7JgwF7CzK0s",
+      "title": "10 Big Data Interview Question That I Ask - Part 1",
+      "duration": 975
+    },
+    {
+      "id": "xE5Hqu2RGCI",
+      "title": "Top 10 Points to Explain Big Data Project In Interview",
+      "duration": 811
+    },
+    {
+      "id": "CG51YQHH9C0",
+      "title": "Top 10 Interview Answers Explained - Part 2",
+      "duration": 1062
+    },
+    {
+      "id": "h4cFnYa7DjM",
+      "title": "Big Data Engineering Resume Preparation",
+      "duration": 1370
+    },
+    {
+      "id": "qJ8Qvbm8wwY",
+      "title": "Big Data Project Explained  -1",
+      "duration": 1215
+    },
+    {
+      "id": "tImiX6o-YWY",
+      "title": "Big Data Project Deployment Explained",
+      "duration": 810
+    },
+    {
+      "id": "MCubM0IBNW4",
+      "title": "Write Your 1st BigData Blog",
+      "duration": 279
+    },
+    {
+      "id": "I6IzVUg4uVU",
+      "title": "Data Engineering Job opening #visa",
+      "duration": 139
+    },
+    {
+      "id": "gP71BXQnRUI",
+      "title": "Data Engineering Job Description Reviews",
+      "duration": 976
+    },
+    {
+      "id": "Sq2rb9V-qKo",
+      "title": "Data Engineer Salary 2021",
+      "duration": 25
+    },
+    {
+      "id": "u2xqo7TEhck",
+      "title": "4 Ways For Data Engineers To Make Extra Income",
+      "duration": 303
+    },
+    {
+      "id": "MIWHNlJfR-E",
+      "title": "How to get Latest Data Engineering News",
+      "duration": 393
+    },
+    {
+      "id": "VpzpzpFMYRA",
+      "title": "Canva Data Platform Architecture",
+      "duration": 909
+    },
+    {
+      "id": "tfZV12IrBrI",
+      "title": "Netflix Data Engineering Tools #shorts",
+      "duration": 51
+    },
+    {
+      "id": "q0vTLtbOsLk",
+      "title": "Data Scientist Salary 2023",
+      "duration": 89
+    },
+    {
+      "id": "VGjJy_-xbmg",
+      "title": "Different types of Data Layers and it's use",
+      "duration": 788
+    }
+  ]
+}

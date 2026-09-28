@@ -1,0 +1,135 @@
+{
+  "courseId": "basics-of-system-design-582cdc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:01.071Z",
+  "title": "Basics of System Design",
+  "channel": "Coding Simplified",
+  "videos": [
+    {
+      "id": "vge7qwCR1dA",
+      "title": "System Design - Load Balancers",
+      "duration": 625
+    },
+    {
+      "id": "_F1U6Rh0wfo",
+      "title": "System Design - Cache | Caching | Cache Invalidation | Cache Eviction",
+      "duration": 1107
+    },
+    {
+      "id": "yNrVexoEnFM",
+      "title": "System Design - Sharding | Data Partitioning",
+      "duration": 682
+    },
+    {
+      "id": "p36JPdxpmXg",
+      "title": "System Design - Indexes | Indexing | Index benefits",
+      "duration": 232
+    },
+    {
+      "id": "XhNQbuf-NTk",
+      "title": "System Design - Proxy Server",
+      "duration": 301
+    },
+    {
+      "id": "j9HxM4H9AfA",
+      "title": "System Design - Messaging Queue | Message Queue | Kafka",
+      "duration": 305
+    },
+    {
+      "id": "R5adYE8s0Zs",
+      "title": "System Design: Choosing Database b/w SQL vs NoSQL",
+      "duration": 499
+    },
+    {
+      "id": "srXdCa89H04",
+      "title": "System Design - Monolithic vs MicroServices Architecture",
+      "duration": 312
+    },
+    {
+      "id": "AY9DPjxtCe4",
+      "title": "REST APIs - System Design | What is REST APIs",
+      "duration": 547
+    },
+    {
+      "id": "tQM-dhWMrgI",
+      "title": "Hashing - System Design | How Hashing Works",
+      "duration": 1011
+    },
+    {
+      "id": "juxlRh4ZhoI",
+      "title": "Consistent Hashing - System Design | What is Consistent Hashing",
+      "duration": 429
+    },
+    {
+      "id": "oXZeQ7Fg2D8",
+      "title": "Kafka - System Design | What is Kafka | Kafka Components",
+      "duration": 565
+    },
+    {
+      "id": "52A8_TSe1_I",
+      "title": "LRU Cache - System Design | How LRU works",
+      "duration": 428
+    },
+    {
+      "id": "NLeWaH6O-TE",
+      "title": "Apache Hadoop - System Design | Hadoop Components | How Hadoop Works",
+      "duration": 807
+    },
+    {
+      "id": "kQlMksqe3TI",
+      "title": "HDFS - System Design | What is HDFS | HDFS Architecture",
+      "duration": 435
+    },
+    {
+      "id": "7yRPql2gsUE",
+      "title": "HBase - System Design | What is HBase",
+      "duration": 467
+    },
+    {
+      "id": "0wAvm7kSkfE",
+      "title": "Zookeeper - System Design | What is Zookeeper",
+      "duration": 319
+    },
+    {
+      "id": "0tH36OfNwNw",
+      "title": "Solr - System Design | What is Solr",
+      "duration": 541
+    },
+    {
+      "id": "y9wgnS-5Qxg",
+      "title": "Cassandra - System design | What is Cassandra",
+      "duration": 264
+    },
+    {
+      "id": "4hDaQNWqSHA",
+      "title": "System Design - How to design a system",
+      "duration": 1430
+    },
+    {
+      "id": "hqDFjrZpoTU",
+      "title": "URL Shortener - System Design of URL Shortener",
+      "duration": 1275
+    },
+    {
+      "id": "j1CZ5vSU3CQ",
+      "title": "System Design of Pastebin like Services",
+      "duration": 1199
+    },
+    {
+      "id": "8HaXU4aNTSg",
+      "title": "Design Dropbox | OneDrive like Services",
+      "duration": 1247
+    },
+    {
+      "id": "1my_YM1ZMkQ",
+      "title": "Http vs Https - System Design",
+      "duration": 533
+    },
+    {
+      "id": "prUs7I-TIMw",
+      "title": "CAP Theorem - System design",
+      "duration": 830
+    }
+  ]
+}

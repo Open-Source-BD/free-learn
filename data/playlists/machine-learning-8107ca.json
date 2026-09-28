@@ -1,0 +1,540 @@
+{
+  "courseId": "machine-learning-8107ca",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:25.582Z",
+  "title": "Machine Learning",
+  "channel": "StatQuest with Josh Starmer",
+  "videos": [
+    {
+      "id": "Gv9_4yMHFhI",
+      "title": "A Gentle Introduction to Machine Learning",
+      "duration": 765
+    },
+    {
+      "id": "fSytzGwwBVw",
+      "title": "Machine Learning Fundamentals: Cross Validation",
+      "duration": 365
+    },
+    {
+      "id": "Kdsp6soqA7o",
+      "title": "Machine Learning Fundamentals: The Confusion Matrix",
+      "duration": 433
+    },
+    {
+      "id": "vP06aMoz4v8",
+      "title": "Machine Learning Fundamentals: Sensitivity and Specificity",
+      "duration": 707
+    },
+    {
+      "id": "PWvfrTgaPBI",
+      "title": "The Sensitivity, Specificity, Precision, Recall Sing-a-Long!!!",
+      "duration": 42
+    },
+    {
+      "id": "EuBBz3bI-aA",
+      "title": "Machine Learning Fundamentals: Bias and Variance",
+      "duration": 396
+    },
+    {
+      "id": "YtebGVx-Fxw",
+      "title": "Entropy (for data science) Clearly Explained!!!",
+      "duration": 995
+    },
+    {
+      "id": "eJIp_mgVLwE",
+      "title": "Mutual Information, Clearly Explained!!!",
+      "duration": 974
+    },
+    {
+      "id": "PaFPbb66DxQ",
+      "title": "The Main Ideas of Fitting a Line to Data (The Main Ideas of Least Squares and Linear Regression.)",
+      "duration": 562
+    },
+    {
+      "id": "7ArmBVF2dCs",
+      "title": "Linear Regression, Clearly Explained!!!",
+      "duration": 1647
+    },
+    {
+      "id": "zITIFTsivN8",
+      "title": "Multiple Regression, Clearly Explained!!!",
+      "duration": 325
+    },
+    {
+      "id": "NF5_btOaCig",
+      "title": "Using Linear Models for t-tests and ANOVA, Clearly Explained!!!",
+      "duration": 698
+    },
+    {
+      "id": "CqLGvwi-5Pc",
+      "title": "Design Matrices For Linear Models, Clearly Explained!!!",
+      "duration": 880
+    },
+    {
+      "id": "ARfXDSkQf1Y",
+      "title": "Odds and Log(Odds), Clearly Explained!!!",
+      "duration": 691
+    },
+    {
+      "id": "8nm0G-1uJzA",
+      "title": "Odds Ratios and Log(Odds Ratios), Clearly Explained!!!",
+      "duration": 980
+    },
+    {
+      "id": "yIYKR4sgzI8",
+      "title": "StatQuest: Logistic Regression",
+      "duration": 528
+    },
+    {
+      "id": "vN5cNN2-HWE",
+      "title": "Logistic Regression Details Pt1: Coefficients",
+      "duration": 1142
+    },
+    {
+      "id": "BfKanl1aSG0",
+      "title": "Logistic Regression Details Pt 2: Maximum Likelihood",
+      "duration": 623
+    },
+    {
+      "id": "xxFYro8QuXA",
+      "title": "Logistic Regression Details Pt 3: R-squared and p-value",
+      "duration": 925
+    },
+    {
+      "id": "9T0wlKdew6I",
+      "title": "Saturated Models and Deviance",
+      "duration": 1120
+    },
+    {
+      "id": "C4N3_XJJ-jU",
+      "title": "Logistic Regression in R, Clearly Explained!!!!",
+      "duration": 1035
+    },
+    {
+      "id": "JC56jS2gVUE",
+      "title": "Deviance Residuals",
+      "duration": 378
+    },
+    {
+      "id": "4jRBRDbJemM",
+      "title": "ROC and AUC, Clearly Explained!",
+      "duration": 977
+    },
+    {
+      "id": "qcvAqAH60Yw",
+      "title": "ROC and AUC in R",
+      "duration": 913
+    },
+    {
+      "id": "Q81RR3yKn30",
+      "title": "Regularization Part 1: Ridge (L2) Regression",
+      "duration": 1227
+    },
+    {
+      "id": "NGf0voTMlcs",
+      "title": "Regularization Part 2: Lasso (L1) Regression",
+      "duration": 499
+    },
+    {
+      "id": "Xm2C_gTAl8c",
+      "title": "Ridge vs Lasso Regression, Visualized!!!",
+      "duration": 546
+    },
+    {
+      "id": "1dKRdX9bfIo",
+      "title": "Regularization Part 3: Elastic Net Regression",
+      "duration": 319
+    },
+    {
+      "id": "ctmNq7FgbvI",
+      "title": "Ridge, Lasso and Elastic-Net Regression in R",
+      "duration": 1071
+    },
+    {
+      "id": "FgakZw6K1QQ",
+      "title": "StatQuest: Principal Component Analysis (PCA), Step-by-Step",
+      "duration": 1318
+    },
+    {
+      "id": "HMOI_lkzW08",
+      "title": "StatQuest: PCA main ideas in only 5 minutes!!!",
+      "duration": 365
+    },
+    {
+      "id": "oRvgq966yZg",
+      "title": "StatQuest: PCA - Practical Tips",
+      "duration": 500
+    },
+    {
+      "id": "0Jp4gsfOLMs",
+      "title": "StatQuest: PCA in R",
+      "duration": 537
+    },
+    {
+      "id": "Lsue2gEM9D0",
+      "title": "StatQuest: PCA in Python",
+      "duration": 697
+    },
+    {
+      "id": "azXCzI57Yfc",
+      "title": "StatQuest: Linear Discriminant Analysis (LDA) clearly explained.",
+      "duration": 912
+    },
+    {
+      "id": "i4iUvjsGCMc",
+      "title": "Bam!!! Clearly Explained!!!",
+      "duration": 169
+    },
+    {
+      "id": "GEn-_dAyYME",
+      "title": "StatQuest: MDS and PCoA",
+      "duration": 498
+    },
+    {
+      "id": "pGAUHhLYp5Q",
+      "title": "StatQuest: MDS and PCoA in R",
+      "duration": 465
+    },
+    {
+      "id": "NEaUSP4YerM",
+      "title": "StatQuest: t-SNE, Clearly Explained",
+      "duration": 708
+    },
+    {
+      "id": "7xHsRkOdVwo",
+      "title": "StatQuest: Hierarchical Clustering",
+      "duration": 679
+    },
+    {
+      "id": "4b5d3muPQmA",
+      "title": "StatQuest: K-means clustering",
+      "duration": 510
+    },
+    {
+      "id": "RDZUdRSDOok",
+      "title": "Clustering with DBSCAN, Clearly Explained!!!",
+      "duration": 570
+    },
+    {
+      "id": "HVXime0nQeI",
+      "title": "StatQuest: K-nearest neighbors, Clearly Explained",
+      "duration": 330
+    },
+    {
+      "id": "O2L2Uv9pdDA",
+      "title": "Naive Bayes, Clearly Explained!!!",
+      "duration": 912
+    },
+    {
+      "id": "H3EjCKtlVog",
+      "title": "Gaussian Naive Bayes, Clearly Explained!!!",
+      "duration": 566
+    },
+    {
+      "id": "_L39rN6gz7Y",
+      "title": "Decision and Classification Trees, Clearly Explained!!!",
+      "duration": 1088
+    },
+    {
+      "id": "wpNl-JwwplA",
+      "title": "StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data",
+      "duration": 316
+    },
+    {
+      "id": "g9c66TUylZ4",
+      "title": "Regression Trees, Clearly Explained!!!",
+      "duration": 1353
+    },
+    {
+      "id": "D0efHEJsfHo",
+      "title": "How to Prune Regression Trees, Clearly Explained!!!",
+      "duration": 975
+    },
+    {
+      "id": "589nCGeWG1w",
+      "title": "One-Hot, Label, Target and K-Fold Target Encoding, Clearly Explained!!!",
+      "duration": 923
+    },
+    {
+      "id": "q90UDEgYqeI",
+      "title": "Classification Trees in Python from Start to Finish",
+      "duration": 3984
+    },
+    {
+      "id": "J4Wdy0Wc_xQ",
+      "title": "StatQuest: Random Forests Part 1 - Building, Using and Evaluating",
+      "duration": 594
+    },
+    {
+      "id": "mIlw5j3WyVk",
+      "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
+      "duration": 648
+    },
+    {
+      "id": "6EXPYzbfLCE",
+      "title": "StatQuest: Random Forests in R",
+      "duration": 910
+    },
+    {
+      "id": "wl1myxrtQHQ",
+      "title": "The Chain Rule, Clearly Explained!!!",
+      "duration": 1104
+    },
+    {
+      "id": "sDv4f4s2SB8",
+      "title": "Gradient Descent, Step-by-Step",
+      "duration": 1434
+    },
+    {
+      "id": "vMh0zPT0tLI",
+      "title": "Stochastic Gradient Descent, Clearly Explained!!!",
+      "duration": 653
+    },
+    {
+      "id": "LsK-xG1cLYA",
+      "title": "AdaBoost, Clearly Explained",
+      "duration": 1254
+    },
+    {
+      "id": "3CC4N4z3GJc",
+      "title": "Gradient Boost Part 1 (of 4): Regression Main Ideas",
+      "duration": 952
+    },
+    {
+      "id": "2xudPOBz-vs",
+      "title": "Gradient Boost Part 2 (of 4): Regression Details",
+      "duration": 1606
+    },
+    {
+      "id": "jxuNLH5dXCs",
+      "title": "Gradient Boost Part 3 (of 4): Classification",
+      "duration": 1023
+    },
+    {
+      "id": "StWY5QWMXCw",
+      "title": "Gradient Boost Part 4 (of 4): Classification Details",
+      "duration": 2220
+    },
+    {
+      "id": "W4sYsXGeCls",
+      "title": "Troll 2, Clearly Explained!!!",
+      "duration": 306
+    },
+    {
+      "id": "OtD8wVaFm6E",
+      "title": "XGBoost Part 1 (of 4): Regression",
+      "duration": 1546
+    },
+    {
+      "id": "8b1JEDvenQU",
+      "title": "XGBoost Part 2 (of 4): Classification",
+      "duration": 1518
+    },
+    {
+      "id": "ZVFeW798-2I",
+      "title": "XGBoost Part 3 (of 4): Mathematical Details",
+      "duration": 1644
+    },
+    {
+      "id": "oRrKeUCEbq8",
+      "title": "XGBoost Part 4 (of 4): Crazy Cool Optimizations",
+      "duration": 1467
+    },
+    {
+      "id": "GrJP9FLV3FE",
+      "title": "XGBoost in Python from Start to Finish",
+      "duration": 3403
+    },
+    {
+      "id": "KXOTSkPL2X4",
+      "title": "CatBoost Part 1: Ordered Target Encoding",
+      "duration": 512
+    },
+    {
+      "id": "3Bg2XRFOTzg",
+      "title": "CatBoost Part 2: Building and Using Trees",
+      "duration": 976
+    },
+    {
+      "id": "e9U0QAFbfLI",
+      "title": "Cosine Similarity, Clearly Explained!!!",
+      "duration": 614
+    },
+    {
+      "id": "efR1C6CvhmE",
+      "title": "Support Vector Machines Part 1 (of 3): Main Ideas!!!",
+      "duration": 1232
+    },
+    {
+      "id": "Toet3EiSFcM",
+      "title": "Support Vector Machines Part 2: The Polynomial Kernel (Part 2 of 3)",
+      "duration": 435
+    },
+    {
+      "id": "Qc5IyLW_hns",
+      "title": "Support Vector Machines Part 3: The Radial (RBF) Kernel (Part 3 of 3)",
+      "duration": 952
+    },
+    {
+      "id": "8A7L0GsBiLQ",
+      "title": "Support Vector Machines in Python from Start to Finish.",
+      "duration": 2689
+    },
+    {
+      "id": "CqOfi41LfDw",
+      "title": "The Essential Main Ideas of Neural Networks",
+      "duration": 1134
+    },
+    {
+      "id": "IN2XmBhILt4",
+      "title": "Neural Networks Pt. 2: Backpropagation Main Ideas",
+      "duration": 1054
+    },
+    {
+      "id": "iyn2zdALii8",
+      "title": "Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.",
+      "duration": 1112
+    },
+    {
+      "id": "GKZoOHXGcLo",
+      "title": "Backpropagation Details Pt. 2: Going bonkers with The Chain Rule",
+      "duration": 789
+    },
+    {
+      "id": "68BZ5f7P94E",
+      "title": "Neural Networks Pt. 3: ReLU In Action!!!",
+      "duration": 538
+    },
+    {
+      "id": "83LYR-1IcjA",
+      "title": "Neural Networks Pt. 4: Multiple Inputs and Outputs",
+      "duration": 830
+    },
+    {
+      "id": "KpKog-L9veg",
+      "title": "Neural Networks Part 5: ArgMax and SoftMax",
+      "duration": 843
+    },
+    {
+      "id": "M59JElEPgIg",
+      "title": "The SoftMax Derivative, Step-by-Step!!!",
+      "duration": 433
+    },
+    {
+      "id": "6ArSys5qHAU",
+      "title": "Neural Networks Part 6: Cross Entropy",
+      "duration": 571
+    },
+    {
+      "id": "xBEh66V9gZo",
+      "title": "Neural Networks Part 7: Cross Entropy Derivatives and Backpropagation",
+      "duration": 1328
+    },
+    {
+      "id": "HGwBXDKFk9I",
+      "title": "Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)",
+      "duration": 924
+    },
+    {
+      "id": "AsNTP8Kwu80",
+      "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+      "duration": 997
+    },
+    {
+      "id": "YCzL96nL7j0",
+      "title": "Long Short-Term Memory (LSTM), Clearly Explained",
+      "duration": 1245
+    },
+    {
+      "id": "viZrOnJclY0",
+      "title": "Word Embedding and Word2Vec, Clearly Explained!!!",
+      "duration": 972
+    },
+    {
+      "id": "L8HKweZIOmg",
+      "title": "Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!",
+      "duration": 1010
+    },
+    {
+      "id": "PSs6nxngL6k",
+      "title": "Attention for Neural Networks, Clearly Explained!!!",
+      "duration": 951
+    },
+    {
+      "id": "zxQyTK8quyY",
+      "title": "Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!",
+      "duration": 2175
+    },
+    {
+      "id": "bQ5BoolX9Ag",
+      "title": "Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!",
+      "duration": 2205
+    },
+    {
+      "id": "GDN649X_acE",
+      "title": "Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!",
+      "duration": 1132
+    },
+    {
+      "id": "L35fFDpwIM4",
+      "title": "Tensors for Neural Networks, Clearly Explained!!!",
+      "duration": 580
+    },
+    {
+      "id": "ZTt9gsGcdDo",
+      "title": "Essential Matrix Algebra for Neural Networks, Clearly Explained!!!",
+      "duration": 1801
+    },
+    {
+      "id": "KphmOJnLAdI",
+      "title": "The matrix math behind transformer neural networks, one step at a time!!!",
+      "duration": 1423
+    },
+    {
+      "id": "FHdlXe1bSe4",
+      "title": "The StatQuest Introduction to PyTorch",
+      "duration": 1402
+    },
+    {
+      "id": "khMzi6xPbuM",
+      "title": "Introduction to Coding Neural Networks with PyTorch and Lightning",
+      "duration": 1243
+    },
+    {
+      "id": "RHGiXPuo_pI",
+      "title": "Long Short-Term Memory with PyTorch + Lightning",
+      "duration": 2004
+    },
+    {
+      "id": "Qf06XDYXCXI",
+      "title": "Word Embedding in PyTorch + Lightning",
+      "duration": 1922
+    },
+    {
+      "id": "C9QSpl5nmrY",
+      "title": "Coding a ChatGPT Like Transformer From Scratch in PyTorch",
+      "duration": 1871
+    },
+    {
+      "id": "Z-T0iJEXiwM",
+      "title": "Reinforcement Learning: Essential Concepts",
+      "duration": 1093
+    },
+    {
+      "id": "9hbQieQh7-o",
+      "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
+      "duration": 1440
+    },
+    {
+      "id": "DVGmsnxB2UQ",
+      "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
+      "duration": 1501
+    },
+    {
+      "id": "qPN_XZcJf_s",
+      "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
+      "duration": 1082
+    }
+  ]
+}

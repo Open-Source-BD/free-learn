@@ -1,0 +1,185 @@
+{
+  "courseId": "rust-for-beginners-ab203a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:54.744Z",
+  "title": "Rust for Beginners",
+  "channel": "Microsoft Developer",
+  "videos": [
+    {
+      "id": "PpWR6zungUk",
+      "title": "Introduction to the series [1 of 35] | Rust for Beginners",
+      "duration": 180
+    },
+    {
+      "id": "1DJkU8H-uDc",
+      "title": "What is Rust and why should you learn it [2 of 35] | Rust for Beginners",
+      "duration": 204
+    },
+    {
+      "id": "XMntMXLC870",
+      "title": "Learn about the Rust community [3 of 35] | Rust for Beginners",
+      "duration": 162
+    },
+    {
+      "id": "x2u2G1MS4gY",
+      "title": "Install the tools to develop with Rust [4 of 35] | Rust for Beginners",
+      "duration": 275
+    },
+    {
+      "id": "OmQ_cXa9uLw",
+      "title": "Create your first application [5 of 35] | Rust for Beginners",
+      "duration": 284
+    },
+    {
+      "id": "ivJHL8P7VL4",
+      "title": "What is Cargo? [6 of 35] | Rust for Beginners",
+      "duration": 163
+    },
+    {
+      "id": "S3F1yVMFDSk",
+      "title": "Learn about variables [7 of 35] | Rust for Beginners",
+      "duration": 242
+    },
+    {
+      "id": "VISz8j8D2xk",
+      "title": "Demo: Declare and use variables [8 of 35] | Rust for Beginners",
+      "duration": 353
+    },
+    {
+      "id": "VXYWzDjzF5I",
+      "title": "Learn about scalar data types [9 of 35] | Rust for Beginners",
+      "duration": 209
+    },
+    {
+      "id": "XqGTVe8OWrw",
+      "title": "Demo: Create and use scalar data types [10 of 35] | Rust for Beginners",
+      "duration": 326
+    },
+    {
+      "id": "7IKzzprOWRA",
+      "title": "Learn about compound data types [11 of 35] | Rust for Beginners",
+      "duration": 171
+    },
+    {
+      "id": "as_yzzRTMoM",
+      "title": "Demo: Create and use compound data types [12 of 35] | Rust for Beginners",
+      "duration": 227
+    },
+    {
+      "id": "43Wpixau-Cg",
+      "title": "Functions [13 of 35] | Rust for Beginners",
+      "duration": 112
+    },
+    {
+      "id": "dw36imIMBow",
+      "title": "Demo: Functions [14 of 35] | Rust for Beginners",
+      "duration": 137
+    },
+    {
+      "id": "kuQMk8cRI4Q",
+      "title": "Structs [15 of 35] | Rust for Beginners",
+      "duration": 173
+    },
+    {
+      "id": "lc5zvjsQH_E",
+      "title": "Demo: Structs [16 of 35] | Rust for Beginners",
+      "duration": 350
+    },
+    {
+      "id": "aP4mfIzboyI",
+      "title": "Enums [17 of 35] | Rust for Beginners",
+      "duration": 183
+    },
+    {
+      "id": "di_wKwlC-PI",
+      "title": "Demo: Enums [18 of 35] | Rust for Beginners",
+      "duration": 248
+    },
+    {
+      "id": "srkHP8IwcX0",
+      "title": "If/else and match [19 of 35] | Rust for Beginners",
+      "duration": 211
+    },
+    {
+      "id": "Me3eo_n4MZM",
+      "title": "Demo: If/else and match [20 of 35] | Rust for Beginners",
+      "duration": 255
+    },
+    {
+      "id": "iEUW4Qcfjkw",
+      "title": "Loops [21 of 35] | Rust for Beginners",
+      "duration": 184
+    },
+    {
+      "id": "UyoLTNrbaEE",
+      "title": "Demo: Loops [22 of 35] | Rust for Beginners",
+      "duration": 242
+    },
+    {
+      "id": "72Lw-fOaG4E",
+      "title": "Error handling [23 of 35] | Rust for Beginners",
+      "duration": 313
+    },
+    {
+      "id": "sd36CgC-w3I",
+      "title": "Demo: Error handling [24 of 35] | Rust for Beginners",
+      "duration": 432
+    },
+    {
+      "id": "2H-O43Hl94c",
+      "title": "Ownership [25 of 35] | Rust for Beginners",
+      "duration": 522
+    },
+    {
+      "id": "Tw5Xr68GUSk",
+      "title": "Demo: Ownership [26 of 35] | Rust for Beginners",
+      "duration": 109
+    },
+    {
+      "id": "6eCV-Q-kjX4",
+      "title": "Borrowing [27 of 35] | Rust for Beginners",
+      "duration": 207
+    },
+    {
+      "id": "k_WmestbBYw",
+      "title": "Demo: Borrowing [28 of 35] | Rust for Beginners",
+      "duration": 267
+    },
+    {
+      "id": "jcj-1ocHiEQ",
+      "title": "Learn about strings [29 of 35] | Rust for Beginners",
+      "duration": 276
+    },
+    {
+      "id": "4YjdTjv4234",
+      "title": "Demo: Create and use strings [30 of 35] | Rust for Beginners",
+      "duration": 261
+    },
+    {
+      "id": "tTUFl8c_Z0w",
+      "title": "Collections [31 of 35] | Rust for Beginners",
+      "duration": 229
+    },
+    {
+      "id": "yAw3cpqIXtg",
+      "title": "Demo: Collections [32 of 35] | Rust for Beginners",
+      "duration": 315
+    },
+    {
+      "id": "JKK2TqCFx8Y",
+      "title": "Traits [33 of 35] | Rust for Beginners",
+      "duration": 224
+    },
+    {
+      "id": "ajvipmDMwAg",
+      "title": "Demo: Traits [34 of 35] | Rust for Beginners",
+      "duration": 321
+    },
+    {
+      "id": "pfKZeFGt7YM",
+      "title": "Next steps [35 of 35] | Rust for Beginners",
+      "duration": 97
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "courseId": "learning-motion-control-and-io-with-beckhoff-twincdat-plcs-98fcf6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:16.479Z",
+  "title": "Learning Motion Control and IO with Beckhoff TwinCAT PLCs",
+  "channel": "SquishyBrained",
+  "videos": [
+    {
+      "id": "1yxabULUFSw",
+      "title": "Motion Control and IO with PLCs - EP1 - Series Intro",
+      "duration": 159
+    },
+    {
+      "id": "d64TWerx4Ug",
+      "title": "Motion Control and IO with PLCs - EP2 - Tour of the Test Bench",
+      "duration": 367
+    },
+    {
+      "id": "AQmIWVyjJGo",
+      "title": "Motion Control and IO with PLCs - EP3 - PLC Networking",
+      "duration": 478
+    },
+    {
+      "id": "eHfJ3C5lhKA",
+      "title": "Motion Control and IO with PLCs - EP4 - Beckhoff TwinCAT IO",
+      "duration": 736
+    },
+    {
+      "id": "5ZedOeUvtz8",
+      "title": "Motion Control and IO with PLCs - EP5 - EtherCAT",
+      "duration": 645
+    },
+    {
+      "id": "X7t6Dv94RwQ",
+      "title": "Motion Control and IO with PLCs - EP6 - Numeric Control",
+      "duration": 687
+    },
+    {
+      "id": "Unmt36GRaKs",
+      "title": "Motion Control and IO with PLCs - EP7 - PLCopen",
+      "duration": 517
+    },
+    {
+      "id": "BhoTz7z92ho",
+      "title": "Motion Control and IO with PLCs - EP8 - On to PLC",
+      "duration": 513
+    },
+    {
+      "id": "LnJW75OikRg",
+      "title": "EP9  Motion Control and IO with PLCs - EP9 - MC_Velocity",
+      "duration": 710
+    },
+    {
+      "id": "bV_oa09C2cw",
+      "title": "Motion Control and IO with PLCs - EP10 - Encoder Scaling",
+      "duration": 783
+    },
+    {
+      "id": "qXJzDHNymuI",
+      "title": "Motion Control and IO with PLCs - EP11- Axis Homing",
+      "duration": 756
+    },
+    {
+      "id": "MyCHR7pDEYQ",
+      "title": "Motion Control and IO with PLCs - EP12- MC_Absolute and MC_Relative",
+      "duration": 858
+    },
+    {
+      "id": "phwl3J8G7QY",
+      "title": "Motion Control and IO with PLCs - EP13 - Scope View",
+      "duration": 630
+    },
+    {
+      "id": "XxmGxR3G5nw",
+      "title": "Motion Control and IO with PLCs - EP14 - Twincat NC-I, CNC, PTP",
+      "duration": 712
+    },
+    {
+      "id": "mXQ1IAxP74w",
+      "title": "Motion Control and IO with PLCs - EP15 - Bonus Input!",
+      "duration": 522
+    },
+    {
+      "id": "1kIiwtCM_2U",
+      "title": "Motion Control and IO with PLCs - EP16 - Wrap Up",
+      "duration": 210
+    }
+  ]
+}

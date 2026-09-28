@@ -1,0 +1,230 @@
+{
+  "courseId": "compiler-design-fcba24",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:42.783Z",
+  "title": "Compiler Design",
+  "channel": "Lalit Vashishtha",
+  "videos": [
+    {
+      "id": "uAVkjTbB7Yc",
+      "title": "Parsing",
+      "duration": 975
+    },
+    {
+      "id": "BZUO0FYZu38",
+      "title": "TOP DOWN PARSING",
+      "duration": 705
+    },
+    {
+      "id": "qiPbtXcEYTE",
+      "title": "Applying left factoring to convert the grammar into Deterministic grammar",
+      "duration": 631
+    },
+    {
+      "id": "4h3Z8vxUEm0",
+      "title": "FIRST AND FOLLOW SETS OF THE GRAMMAR",
+      "duration": 744
+    },
+    {
+      "id": "y7E0YiPpjuA",
+      "title": "FIRST AND FOLLOW SETS OF THE GRAMMAR 2",
+      "duration": 853
+    },
+    {
+      "id": "83EMeg88a_I",
+      "title": "Eliminating left recursion from artificial grammar",
+      "duration": 864
+    },
+    {
+      "id": "Wxq9Rb-45qc",
+      "title": "PREDICTIVE PARSING TABLE -1",
+      "duration": 995
+    },
+    {
+      "id": "ql02_Pusy6w",
+      "title": "PREDICTIVE PARSING TABLE- 2.1",
+      "duration": 370
+    },
+    {
+      "id": "06PR9i1MrPg",
+      "title": "PREDICTIVE PARSING TABLE 2.2",
+      "duration": 819
+    },
+    {
+      "id": "7O0kYPV2ceg",
+      "title": "PREDICTIVE PARSING TABLE 3",
+      "duration": 589
+    },
+    {
+      "id": "J57Syc_VuUE",
+      "title": "RECURSIVE DESCENT PARSER",
+      "duration": 793
+    },
+    {
+      "id": "ogwgpSYpLWc",
+      "title": "Finding tokens/lexemes",
+      "duration": 896
+    },
+    {
+      "id": "ZkCDJtUJ84w",
+      "title": "Panic mode error recovery in LL(1)/Non recursive descent parser",
+      "duration": 1810
+    },
+    {
+      "id": "2S3VT5V7wZ4",
+      "title": "Handle Pruning",
+      "duration": 929
+    },
+    {
+      "id": "sg-9HW-KvZ8",
+      "title": "Shift reduce parser",
+      "duration": 937
+    },
+    {
+      "id": "BhL-dzawikU",
+      "title": "LR(0) PARSER",
+      "duration": 1585
+    },
+    {
+      "id": "QvxeAhgfabs",
+      "title": "LR(0) PARSER EXAMPLE",
+      "duration": 440
+    },
+    {
+      "id": "3yVBv8GAH3s",
+      "title": "Kernel and Non Kernel items and LR(0) Parser",
+      "duration": 794
+    },
+    {
+      "id": "XDZBLQsan_U",
+      "title": "Shift Reduce/ Reduce Reduce Conflict",
+      "duration": 624
+    },
+    {
+      "id": "VTmKXcUn3Bk",
+      "title": "SLR(1)Parser",
+      "duration": 741
+    },
+    {
+      "id": "aulakgyKvtU",
+      "title": "SLR(1)PARSING EXAMPLE",
+      "duration": 648
+    },
+    {
+      "id": "GyvpUVGrR8A",
+      "title": "CLR(1) PARSING",
+      "duration": 916
+    },
+    {
+      "id": "DYe1RyDBRMw",
+      "title": "LALR(1) PARSING",
+      "duration": 520
+    },
+    {
+      "id": "vE4pUR0Py-0",
+      "title": "EXAMPLE ON SLR(1) PARSING AND CLR(1) PARSING",
+      "duration": 753
+    },
+    {
+      "id": "X8QI_epuFzA",
+      "title": "EXAMPLE ON LALR (1) PARSING AND SLR(1) PARSING",
+      "duration": 1334
+    },
+    {
+      "id": "wBj6zEnzUA8",
+      "title": "EXAMPLE ON CLR(1) PARSING AND LALR(1) PARSING",
+      "duration": 893
+    },
+    {
+      "id": "cNCarK7gqF0",
+      "title": "VIABLE PREFIXES",
+      "duration": 576
+    },
+    {
+      "id": "KmEEpxDMDLs",
+      "title": "VIABLE PREFIXES 2",
+      "duration": 597
+    },
+    {
+      "id": "ZNGpDRo8AOg",
+      "title": "SYNTAX DIRECTED DEFINITIONS",
+      "duration": 630
+    },
+    {
+      "id": "AUcg3xa91tQ",
+      "title": "SYNTAX DIRECTED TRANSLATION",
+      "duration": 464
+    },
+    {
+      "id": "f4D17NxedkI",
+      "title": "SYNTAX DIRECTED TRANSLATION 2",
+      "duration": 376
+    },
+    {
+      "id": "LF6L6pbWJ5U",
+      "title": "THREE ADDRESS CODES QUADRUPLES, TRIPLES & INDIRECT TRIPLES",
+      "duration": 595
+    },
+    {
+      "id": "TBZW9A43_z4",
+      "title": "INTERMEDIATE CODE GENERATION (DAG )1",
+      "duration": 709
+    },
+    {
+      "id": "auAGCBpj2DU",
+      "title": "Directed Acyclic Graph (DAG) 2",
+      "duration": 687
+    },
+    {
+      "id": "4c84TOGmVXM",
+      "title": "Directed Acyclic Graph(DAG)3",
+      "duration": 559
+    },
+    {
+      "id": "4OxMAeNsTUY",
+      "title": "3 ADDRESS CODE REPRESENTATION OF C CODE SEGMENTS",
+      "duration": 784
+    },
+    {
+      "id": "m-_nawUWaAY",
+      "title": "3 ADDRESS CODE FOR C CODE SEGMENT 2",
+      "duration": 688
+    },
+    {
+      "id": "QrbwD08MFP0",
+      "title": "3 ADDRESS CODE REPRESENTATION FOR C CODE SEGMENT 3",
+      "duration": 803
+    },
+    {
+      "id": "wfbGH-0rsf0",
+      "title": "3 ADDRESS CODE REPRESENTATION FOR C CODE SEGMENT 4(Interchange line no 2 and 3 in 3-address code)",
+      "duration": 709
+    },
+    {
+      "id": "h1C5mGYOtd8",
+      "title": "3 ADDRESS CODE FOR C CODE SEGMENT 5",
+      "duration": 606
+    },
+    {
+      "id": "v0Sw2TWKMEM",
+      "title": "BASIC BLOCKS AND FLOW OF GRAPHS",
+      "duration": 797
+    },
+    {
+      "id": "GHFCMOTfLfY",
+      "title": "OPTIMIZATION OF BASIC BLOCKS",
+      "duration": 877
+    },
+    {
+      "id": "mXRVdxXfnLg",
+      "title": "Optimization: Code Motion Or Frequency Reduction and Loop Unrolling",
+      "duration": 870
+    },
+    {
+      "id": "V7jrYM8Q6QQ",
+      "title": "Optimization: Loop Jamming, Constant Folding and Strength Reduction",
+      "duration": 704
+    }
+  ]
+}

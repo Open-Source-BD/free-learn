@@ -1,0 +1,80 @@
+{
+  "courseId": "fastapi-complete-course-for-python-api-development-26d938",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-2EBeDYMIbQghmnb865lpdmYyWU3I5F1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:42.638Z",
+  "title": "FastAPI - Complete Course for Python API Development",
+  "channel": "BugBytes",
+  "videos": [
+    {
+      "id": "Lw-zLopB3o0",
+      "title": "FastAPI #1  Installation / API Routes / Swagger Docs",
+      "duration": 662
+    },
+    {
+      "id": "q6E3xoKIBnY",
+      "title": "FastAPI #2 - Path Parameters / Data Validation with Type-Hints & Enums",
+      "duration": 949
+    },
+    {
+      "id": "ID9b4diFZN8",
+      "title": "FastAPI and Pydantic - Model Classes and Nested Models",
+      "duration": 885
+    },
+    {
+      "id": "Dnp07ZKfdVU",
+      "title": "FastAPI and Pydantic - URL Query Parameters for Filtering",
+      "duration": 857
+    },
+    {
+      "id": "zq0_g3BKltE",
+      "title": "FastAPI - Request Body and POST requests | Pydantic pre-validators",
+      "duration": 1085
+    },
+    {
+      "id": "9Hc-mql6Gv4",
+      "title": "Python & FastAPI - Annotated Type for Data Validation + Metadata!",
+      "duration": 1422
+    },
+    {
+      "id": "pRYzMF04fLw",
+      "title": "FastAPI & SQLModel - Database Interaction in FastAPI apps with SQLModel",
+      "duration": 1461
+    },
+    {
+      "id": "zTSmvUVbk8M",
+      "title": "FastAPI & Alembic - Database Migrations in FastAPI apps",
+      "duration": 1113
+    },
+    {
+      "id": "M1RMHhHJeNU",
+      "title": "FastAPI Middleware - writing custom middleware functions!",
+      "duration": 523
+    },
+    {
+      "id": "iYUaK1KOz54",
+      "title": "Zod, React, FastAPI & Pydantic - Data Validation on Client and Server",
+      "duration": 1545
+    },
+    {
+      "id": "zXP7r8BFXDU",
+      "title": "FastAPI Cloud - Deploy FastAPI apps with one command!",
+      "duration": 449
+    },
+    {
+      "id": "uSGR6FviCiY",
+      "title": "FastAPI and GraphQL overview - with Strawberry!",
+      "duration": 1313
+    },
+    {
+      "id": "X4dOwIV4Vrw",
+      "title": "FastCRUD - easy CRUD endpoints with FastAPI & SQLAlchemy!",
+      "duration": 749
+    },
+    {
+      "id": "_-pjpclxWL8",
+      "title": "FastCRUD - nested Pydantic models & API responses with FastAPI!",
+      "duration": 478
+    }
+  ]
+}

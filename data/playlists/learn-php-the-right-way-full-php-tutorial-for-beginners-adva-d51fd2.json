@@ -1,0 +1,705 @@
+{
+  "courseId": "learn-php-the-right-way-full-php-tutorial-for-beginners-adva-d51fd2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:48.088Z",
+  "title": "Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced",
+  "channel": "Program With Gio",
+  "videos": [
+    {
+      "id": "sVbEyFZKgqk",
+      "title": "Full PHP 8 Tutorial - Learn PHP The Right Way",
+      "duration": 420
+    },
+    {
+      "id": "KgUp3FomMoc",
+      "title": "How To Install PHP & What Are Web Servers - PHP 8 Tutorial",
+      "duration": 509
+    },
+    {
+      "id": "HrtS-FkPBqk",
+      "title": "Basic PHP Syntax - PHP 8 Tutorial",
+      "duration": 752
+    },
+    {
+      "id": "6JtP8xk1U_k",
+      "title": "What Are Constants & Variable Variables In PHP - Full PHP 8 Tutorial",
+      "duration": 487
+    },
+    {
+      "id": "KH4MmQsCDuw",
+      "title": "PHP Data Types - Typecasting Overview & How It Works - Full PHP 8 Tutorial",
+      "duration": 712
+    },
+    {
+      "id": "1kO_g_ucYCQ",
+      "title": "PHP Boolean Data Type - Full PHP 8 Tutorial",
+      "duration": 285
+    },
+    {
+      "id": "rjEP_GUdg6o",
+      "title": "PHP Integer Data type - Full PHP 8 Tutorial",
+      "duration": 291
+    },
+    {
+      "id": "d3c_OOD4Jzs",
+      "title": "PHP Float Data Type - Full PHP 8 Tutorial",
+      "duration": 471
+    },
+    {
+      "id": "97LnEncGx2c",
+      "title": "PHP String Data Type - Heredoc & Nowdoc Syntax - Full PHP 8 Tutorial",
+      "duration": 441
+    },
+    {
+      "id": "XspbsepnhQ4",
+      "title": "PHP Null Data Type - Full PHP 8 Tutorial",
+      "duration": 209
+    },
+    {
+      "id": "C8ZFLq24g_A",
+      "title": "PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays - Full PHP 8 Tutorial",
+      "duration": 1012
+    },
+    {
+      "id": "bPntels5hw8",
+      "title": "What Are Expressions In PHP & How They Are Evaluated - Full PHP 8 Tutorial",
+      "duration": 158
+    },
+    {
+      "id": "t8U2FGjjqM8",
+      "title": "PHP Operators Part 1 - Full PHP 8 Tutorial",
+      "duration": 867
+    },
+    {
+      "id": "gCVlQdbddXY",
+      "title": "PHP Operators Part 2 - Full PHP 8 Tutorial",
+      "duration": 973
+    },
+    {
+      "id": "pmX_-x3LX-k",
+      "title": "PHP Operator Precedence & Associativity - Full PHP 8 Tutorial",
+      "duration": 327
+    },
+    {
+      "id": "PUWrc6vzRMw",
+      "title": "Control Structures in PHP - Conditional Statements - if/else - Full PHP 8 Tutorial",
+      "duration": 313
+    },
+    {
+      "id": "NhXvpHB_PMQ",
+      "title": "PHP Loops Tutorial - Break & Continue Statements - Full PHP 8 Tutorial",
+      "duration": 744
+    },
+    {
+      "id": "egDgLO8kvtI",
+      "title": "PHP Switch Statement - Switch vs if/else statement - Full PHP 8 Tutorial",
+      "duration": 490
+    },
+    {
+      "id": "jCUyvHUKSmE",
+      "title": "PHP Match Expression - Match vs Switch - Full PHP 8 Tutorial",
+      "duration": 308
+    },
+    {
+      "id": "6cPc_SEfgSw",
+      "title": "PHP Return, Declare & Tickable Statements - Full PHP 8 Tutorial",
+      "duration": 358
+    },
+    {
+      "id": "pQLO6l5lp-Y",
+      "title": "How To Include Files In PHP - Include and Require - Full PHP 8 Tutorial",
+      "duration": 492
+    },
+    {
+      "id": "ba1rulfNhLk",
+      "title": "How To Create Functions In PHP - Functions Tutorial - Full PHP 8 Tutorial",
+      "duration": 482
+    },
+    {
+      "id": "I9XkWyets9w",
+      "title": "PHP Function Parameters - Named Arguments - Variadic Functions & Unpacking - Full PHP 8 Tutorial",
+      "duration": 725
+    },
+    {
+      "id": "et1aVZWMvVE",
+      "title": "PHP Variable Scopes - Static Variables - Full PHP 8 Tutorial",
+      "duration": 341
+    },
+    {
+      "id": "7_FOIxYLF-s",
+      "title": "Variable, Anonymous, Callable, Closure & Arrow Functions In PHP - Full PHP 8 Tutorial",
+      "duration": 518
+    },
+    {
+      "id": "Zf9MWSUKpVM",
+      "title": "How To Work With Dates & Time Zones - Full PHP 8 Tutorial",
+      "duration": 369
+    },
+    {
+      "id": "E4FUeWa3WQk",
+      "title": "How To Work With Arrays In PHP - Full PHP 8 Tutorial",
+      "duration": 909
+    },
+    {
+      "id": "LVEhccXXnOo",
+      "title": "How To Work With PHPs Configuration File - PHP.INI - Full PHP 8 Tutorial",
+      "duration": 446
+    },
+    {
+      "id": "rQntgj7yink",
+      "title": "PHP Error Handling & Error Handlers - Full PHP 8 Tutorial",
+      "duration": 450
+    },
+    {
+      "id": "ytVPiYILz80",
+      "title": "Basic Apache Webserver Configuration & Virtual Hosts - Full PHP 8 Tutorial",
+      "duration": 859
+    },
+    {
+      "id": "p7F2GgVxHc0",
+      "title": "Working With File System In PHP - Full PHP 8 Tutorial",
+      "duration": 592
+    },
+    {
+      "id": "oXcX4ucj32M",
+      "title": "Mini Exercise Project Overview - Full PHP 8 Tutorial",
+      "duration": 191
+    },
+    {
+      "id": "MOsolLaVnsI",
+      "title": "Building Small Part Of The App With Procedural PHP - Full PHP 8 Tutorial",
+      "duration": 1173
+    },
+    {
+      "id": "1SujQeVK4MU",
+      "title": "PHP OOP Tutorial Section 2 - Intro to Object Oriented Programming - Full PHP 8 Tutorial",
+      "duration": 259
+    },
+    {
+      "id": "I_9-xWmkh28",
+      "title": "PHP Docker Tutorial - Nginx - PHPFPM VS Apache - Full PHP 8 Tutorial",
+      "duration": 879
+    },
+    {
+      "id": "6FW72q5fIx8",
+      "title": "PHP Classes & Objects - Typed Properties - Constructors & Destructors - Full PHP 8 Tutorial",
+      "duration": 1275
+    },
+    {
+      "id": "T1PbFz-o6kw",
+      "title": "Constructor Property Promotion - Nullsafe Operator - Full PHP 8 Tutorial",
+      "duration": 573
+    },
+    {
+      "id": "Jni9c0-NjrY",
+      "title": "PHP Namespace Tutorial - Full PHP 8 Tutorial",
+      "duration": 1215
+    },
+    {
+      "id": "rqzYdHdyMH0",
+      "title": "PHP Coding Standards, Autoloading (PSR-4) & Composer - Full PHP 8 Tutorial",
+      "duration": 1310
+    },
+    {
+      "id": "bEGNvUxYf2o",
+      "title": "Object Oriented PHP - Class Constants - Full PHP 8 Tutorial",
+      "duration": 565
+    },
+    {
+      "id": "6VVN-2SCx7Q",
+      "title": "Static Properties & Methods In Object Oriented PHP -  Full PHP 8 Tutorial",
+      "duration": 778
+    },
+    {
+      "id": "kA9BTNPFObo",
+      "title": "PHP - Encapsulation & Abstraction -  Full PHP 8 Tutorial",
+      "duration": 923
+    },
+    {
+      "id": "LyyzeYOoH5s",
+      "title": "PHP - Inheritance Explained - Is Inheritance Good? -  Full PHP 8 Tutorial",
+      "duration": 1509
+    },
+    {
+      "id": "UnwaW13xJuw",
+      "title": "PHP Abstract Classes & Methods - Full PHP 8 Tutorial",
+      "duration": 576
+    },
+    {
+      "id": "-AJic0FjuAA",
+      "title": "PHP Interfaces & Polymorphism - Interfaces Explained - Full PHP 8 Tutorial",
+      "duration": 1083
+    },
+    {
+      "id": "nCxnzj83poQ",
+      "title": "What Are PHP Magic Methods & How They Work - Full PHP 8 Tutorial",
+      "duration": 1015
+    },
+    {
+      "id": "4W5t8g3Rp_0",
+      "title": "What Is Late Static Binding & How It Works In PHP - Full PHP 8 Tutorial",
+      "duration": 598
+    },
+    {
+      "id": "PMruqUC4Qpc",
+      "title": "PHP Traits - How They Work & Drawbacks - Full PHP 8 Tutorial",
+      "duration": 1901
+    },
+    {
+      "id": "zQ4Znj3RT3E",
+      "title": "PHP Anonymous Classes - Full PHP 8 Tutorial",
+      "duration": 437
+    },
+    {
+      "id": "zCGmZb3z-r8",
+      "title": "PHP Variable Storage & Object Comparison - Zend Value (zval) - Full PHP 8 Tutorial",
+      "duration": 680
+    },
+    {
+      "id": "hdDD0SNJ-pk",
+      "title": "PHP DocBlock - Adding Comments to Classes & Methods - Full PHP 8 Tutorial",
+      "duration": 546
+    },
+    {
+      "id": "vLmIoy6Bnog",
+      "title": "PHP - Object Cloning & Clone Magic Method - Full PHP 8 Tutorial",
+      "duration": 283
+    },
+    {
+      "id": "Jnm2m_Iw5CI",
+      "title": "PHP Serialize Objects & Serialize Magic Methods - Full PHP 8 Tutorial",
+      "duration": 707
+    },
+    {
+      "id": "XQ5Pd-6Hnjk",
+      "title": "OOP Error Handling In PHP - Exceptions & Try Catch Finally Blocks - Full PHP 8 Tutorial",
+      "duration": 1278
+    },
+    {
+      "id": "hkTQkaFzEEo",
+      "title": "PHP - DateTime Object - Full PHP 8 Tutorial",
+      "duration": 1530
+    },
+    {
+      "id": "QFPP9B-Q3zM",
+      "title": "PHP Iterators & Iterable Type - Iterate Over Objects - Full PHP 8 Tutorial",
+      "duration": 733
+    },
+    {
+      "id": "CF7Yy5cPFVM",
+      "title": "PHP Superglobals - Basic Routing Using The Server Info - Full PHP 8 Tutorial",
+      "duration": 775
+    },
+    {
+      "id": "JdrvETQCAGw",
+      "title": "Get & Post Superglobals In PHP - Forms - Post Routes - Full PHP 8 Tutorial",
+      "duration": 666
+    },
+    {
+      "id": "6vM-9ou1ARo",
+      "title": "PHP Sessions & Cookies - Output Buffering - Headers Already Sent Warning - Full PHP 8 Tutorial",
+      "duration": 895
+    },
+    {
+      "id": "5PWGAC-mafU",
+      "title": "PHP File Uploads - Full PHP 8 Tutorial",
+      "duration": 512
+    },
+    {
+      "id": "QiO0uUwOiBg",
+      "title": "PHP MVC Pattern - View Parameters Exploit - Full PHP 8 Tutorial",
+      "duration": 1337
+    },
+    {
+      "id": "W7tj0Qlk3rE",
+      "title": "HTTP Headers In PHP - Request & Response Headers - Full PHP 8 Tutorial",
+      "duration": 719
+    },
+    {
+      "id": "mSnte-Ovm10",
+      "title": "Intro To MySQL For PHP - Full PHP 8 Tutorial",
+      "duration": 1547
+    },
+    {
+      "id": "wcD5HlEHrnc",
+      "title": "PHP PDO Tutorial Part 1 - Prepared Statements - SQL Injection - Full PHP 8 Tutorial",
+      "duration": 1519
+    },
+    {
+      "id": "e6yLUvpcOZo",
+      "title": "PHP PDO Tutorial Part 2 - Transactions - Env Variables & PHPDotEnv - Full PHP 8 Tutorial",
+      "duration": 1022
+    },
+    {
+      "id": "iCKzIIE4w5E",
+      "title": "PHP PDO Tutorial Part 3 - Models & Refactoring - Full PHP 8 Tutorial",
+      "duration": 1369
+    },
+    {
+      "id": "D1EshhwNt48",
+      "title": "Section 2 review & exercise project - Full PHP 8 Tutorial",
+      "duration": 277
+    },
+    {
+      "id": "hTACGV_LdqE",
+      "title": "PHP OOP Tutorial Section 3 - Intro to Testing - Full PHP 8 Tutorial",
+      "duration": 352
+    },
+    {
+      "id": "9-X_b_fxmRM",
+      "title": "PHP Unit Testing - PHPUnit Tutorial - Full PHP 8 Tutorial",
+      "duration": 1864
+    },
+    {
+      "id": "EhkeoV8nfCQ",
+      "title": "PHPUnit Tutorial Part 2 - Mocking - Full PHP 8 Tutorial",
+      "duration": 981
+    },
+    {
+      "id": "igx3bIl1T_c",
+      "title": "Dependency Injection & DI Containers - Full PHP 8 Tutorial",
+      "duration": 402
+    },
+    {
+      "id": "78Vpg97rQwE",
+      "title": "Dependency Injection Container With & Without Reflection API Autowiring - Full PHP 8 Tutorial",
+      "duration": 1785
+    },
+    {
+      "id": "0YDRQbgHBO8",
+      "title": "DI Container With Interface Support - Full PHP 8 Tutorial",
+      "duration": 733
+    },
+    {
+      "id": "xH3snMmgDWg",
+      "title": "PHP Generators Explained - Full PHP 8 Tutorial",
+      "duration": 1547
+    },
+    {
+      "id": "zDKnI_YKCDc",
+      "title": "PHP WeakMap Explained - Full PHP 8 Tutorial",
+      "duration": 609
+    },
+    {
+      "id": "cO6i_4n2iwA",
+      "title": "What's New In PHP 8.1 - Deprecations & Backward Incompatible Changes - Full PHP 8 Tutorial",
+      "duration": 1802
+    },
+    {
+      "id": "AgSrOI7N-fU",
+      "title": "Covariance & Contravariance in PHP - Full PHP 8 Tutorial",
+      "duration": 977
+    },
+    {
+      "id": "I7WJa-he5oM",
+      "title": "PHP Attributes - Simple Router With Attributes - Full PHP 8 Tutorial",
+      "duration": 1379
+    },
+    {
+      "id": "5Cgio2OfOYk",
+      "title": "PHP Enums With Practical Examples - Full PHP 8 Tutorial",
+      "duration": 1693
+    },
+    {
+      "id": "djd9zdlzyuA",
+      "title": "Composition vs Inheritance in PHP With Practical Examples - Full PHP 8 Tutorial",
+      "duration": 1151
+    },
+    {
+      "id": "pHJCgkzVGXk",
+      "title": "How to Send Email in PHP - Symfony Mailer - Email Protocols - Mailhog Setup - Full PHP 8 Tutorial",
+      "duration": 1003
+    },
+    {
+      "id": "9q1Nt6lHXq8",
+      "title": "How to Schedule Emails in PHP - Run Automated Scripts Using CRON - Full PHP 8 Tutorial",
+      "duration": 964
+    },
+    {
+      "id": "bfTIVQvS5JI",
+      "title": "Intro to Doctrine PHP - DataBase Abstraction Layer - Query Builder - Full PHP 8 Tutorial",
+      "duration": 1067
+    },
+    {
+      "id": "P2PYrZGqhLU",
+      "title": "Doctrine ORM - PHP Entities & Data Mapper Pattern - Full PHP 8 Tutorial",
+      "duration": 1578
+    },
+    {
+      "id": "awrtwSdwXHA",
+      "title": "Doctrine ORM Query Builder - Full PHP 8 Tutorial",
+      "duration": 1188
+    },
+    {
+      "id": "peXlH04Hecc",
+      "title": "What Are Database Migrations & How To Use Doctrine Migrations - Full PHP 8 Tutorial",
+      "duration": 761
+    },
+    {
+      "id": "ZRdgVuIppYQ",
+      "title": "What is active record pattern & how Laravel implements it with Eloquent - Full PHP 8 Tutorial",
+      "duration": 2189
+    },
+    {
+      "id": "aPXkO-ffkA8",
+      "title": "Refactor to use Eloquent instead of Doctrine DBAL - Full PHP 8 Tutorial",
+      "duration": 718
+    },
+    {
+      "id": "cbpWykgjGTI",
+      "title": "PHP cURL API Tutorial - Emailable API Integration - Full PHP 8 Tutorial",
+      "duration": 1076
+    },
+    {
+      "id": "c2ZP2FxD5I0",
+      "title": "Refactor cURL to Guzzle With Retry Logic - Multiple API Integrations - Full PHP 8 Tutorial",
+      "duration": 1573
+    },
+    {
+      "id": "35QmeoPLPOQ",
+      "title": "Data Transfer Objects - What Are DTOs - Full PHP 8 Tutorial",
+      "duration": 783
+    },
+    {
+      "id": "agIL1EUozhQ",
+      "title": "Value Objects Practical Example - What is a Value Object? - Full PHP 8 Tutorial",
+      "duration": 1296
+    },
+    {
+      "id": "MSH32ri-kBg",
+      "title": "Intro to Templating Engines - Blade & Twig - Full PHP 8 Tutorial",
+      "duration": 809
+    },
+    {
+      "id": "7YuYxbYd3P0",
+      "title": "How To Install Xdebug 3 with Docker & PhpStorm - Full PHP 8 Tutorial",
+      "duration": 687
+    },
+    {
+      "id": "78U5jLTLBbM",
+      "title": "How To Deploy Vanilla PHP To Cloudways - Full PHP 8 Tutorial",
+      "duration": 1077
+    },
+    {
+      "id": "wCZUD6LBdRg",
+      "title": "Intro to Slim PHP Framework - Full PHP 8 Tutorial",
+      "duration": 852
+    },
+    {
+      "id": "pgYDzlXOYD4",
+      "title": "Slim Framework With PHP-DI & Doctrine ORM - Full PHP 8 Tutorial",
+      "duration": 570
+    },
+    {
+      "id": "Pn-Kz6GXCKg",
+      "title": "Little Refactoring Never Hurt Nobody - Full PHP 8 Tutorial",
+      "duration": 744
+    },
+    {
+      "id": "_62MNEOo1Fs",
+      "title": "How To Create CLI App & Commands - Full PHP 8 Tutorial",
+      "duration": 1284
+    },
+    {
+      "id": "AtxZKob8IVQ",
+      "title": "100th Video In This PHP Series - Project Overview - Full PHP 8 Tutorial",
+      "duration": 448
+    },
+    {
+      "id": "RMpV5R8wNgw",
+      "title": "Set Up Expennies Project Locally - Build Expense Tracker App With PHP 8",
+      "duration": 1186
+    },
+    {
+      "id": "pKXojbZ64c4",
+      "title": "Let's Do Some Data Modeling & Create Entities - Build Expense Tracker App With PHP 8",
+      "duration": 1283
+    },
+    {
+      "id": "TqXMaj2Z-GQ",
+      "title": "User Registration & Password Hashing - Build Expense Tracker App With PHP 8",
+      "duration": 799
+    },
+    {
+      "id": "eJxIqV9UBC4",
+      "title": "Add Form Validation To User Registration - Build Expense Tracker App With PHP 8",
+      "duration": 1063
+    },
+    {
+      "id": "y4sCssjSFIA",
+      "title": "Display Validation Errors & Keep Form Filled - Build Expense Tracker App With PHP 8",
+      "duration": 1017
+    },
+    {
+      "id": "nJWmoetWP0k",
+      "title": "Session Based Authentication - Session Hijacking & Fixation - Build Expense Tracker App With PHP 8",
+      "duration": 1057
+    },
+    {
+      "id": "NhrbENvDlmQ",
+      "title": "How to Pass Authenticated User to the Request - Build Expense Tracker App With PHP 8",
+      "duration": 1152
+    },
+    {
+      "id": "l7JvyOk6Rl4",
+      "title": "Implement Session Interface - Build Expense Tracker App With PHP 8",
+      "duration": 1095
+    },
+    {
+      "id": "cNm9J72_iAk",
+      "title": "Sessions & Referrer URL Refactor - Build Expense Tracker App With PHP 8",
+      "duration": 786
+    },
+    {
+      "id": "GkL_w-MXrp8",
+      "title": "Request Validation - Factory Design Pattern - Build Expense Tracker App With PHP 8",
+      "duration": 1081
+    },
+    {
+      "id": "8WzOx3knSCU",
+      "title": "CSRF Explained - What Is Cross Site Request Forgery - Build Expense Tracker App With PHP 8",
+      "duration": 1229
+    },
+    {
+      "id": "gPU_jyKDYx0",
+      "title": "XSS Explained - What Is Cross Site Scripting - Build Expense Tracker App With PHP 8",
+      "duration": 993
+    },
+    {
+      "id": "kITCm6nTepU",
+      "title": "Let's Build CRUD Actions For Categories - Build Expense Tracker App With PHP 8",
+      "duration": 1394
+    },
+    {
+      "id": "fDC9b9tDmNo",
+      "title": "First Ajax Request - Build Expense Tracker App With PHP 8",
+      "duration": 809
+    },
+    {
+      "id": "BsM3KQpr40w",
+      "title": "POST Ajax Requests With CSRF Fields - Build Expense Tracker App With PHP 8",
+      "duration": 1071
+    },
+    {
+      "id": "Cb_AhMWkAJo",
+      "title": "Ajax Request Validation - Build Expense Tracker App With PHP 8",
+      "duration": 970
+    },
+    {
+      "id": "wFrd9g2kilY",
+      "title": "Display Errors Using JavaScript & Bootstrap - Build Expense Tracker App With PHP 8",
+      "duration": 1197
+    },
+    {
+      "id": "KadKI3jQwzI",
+      "title": "DataTables & Pagination - Build Expense Tracker App With PHP 8",
+      "duration": 1137
+    },
+    {
+      "id": "LqygRNhemRw",
+      "title": "How To Securely Implement Sorting & Filtering - Build Expense Tracker App With PHP 8",
+      "duration": 980
+    },
+    {
+      "id": "Kd8OO0VTYu0",
+      "title": "Transactions CRUD Exercise Overview - Build Expense Tracker App With PHP 8",
+      "duration": 935
+    },
+    {
+      "id": "PgNZ_l5oAZA",
+      "title": "Upload Transaction Receipts With Proper File Validation - Build Expense Tracker App With PHP 8",
+      "duration": 2427
+    },
+    {
+      "id": "ZDxGP-zkLd4",
+      "title": "Open Transaction Receipt Files - Build Expense Tracker App With PHP 8",
+      "duration": 891
+    },
+    {
+      "id": "S2tWD9vhOgA",
+      "title": "Import Transactions Exercise Solution Overview - Build Expense Tracker App With PHP 8",
+      "duration": 426
+    },
+    {
+      "id": "LyK7fy-DR-w",
+      "title": "Profiling for N+1 Queries - Build Expense Tracker App With PHP 8",
+      "duration": 987
+    },
+    {
+      "id": "V0lFoOK6Vus",
+      "title": "Reduce Memory Consumption & Speed Up Imports - Build Expense Tracker App With PHP 8",
+      "duration": 1090
+    },
+    {
+      "id": "lCdUXcY8-hY",
+      "title": "Toggle Transaction Review Status - Minor Refactoring - Build Expense Tracker App With PHP 8",
+      "duration": 921
+    },
+    {
+      "id": "I3TNs4uyOpQ",
+      "title": "Decorating Entity Manager to Avoid Inheritance - Build Expense Tracker App With PHP 8",
+      "duration": 667
+    },
+    {
+      "id": "k5yIm9WxZ-U",
+      "title": "Implement Route Model Binding With Slim - Build Expense Tracker App With PHP 8",
+      "duration": 1197
+    },
+    {
+      "id": "DHi3HFp3f54",
+      "title": "Implement Authorization Using Doctrine Filters - Build Expense Tracker App With PHP 8",
+      "duration": 902
+    },
+    {
+      "id": "D1Ab-iP8Ra0",
+      "title": "Set Up Email Verification For New Users - Build Expense Tracker App With PHP 8",
+      "duration": 911
+    },
+    {
+      "id": "65VvTORx_nA",
+      "title": "Secure User Verification Using Signed URLs - Build Expense Tracker App With PHP 8",
+      "duration": 1460
+    },
+    {
+      "id": "g8uGnIMe_rM",
+      "title": "Send Two-Factor Auth Code Via Email - Build Expense Tracker App With PHP 8",
+      "duration": 633
+    },
+    {
+      "id": "LVS6D-a0-hE",
+      "title": "Implement Two-Factor Authentication Via Email - Build Expense Tracker App With PHP 8",
+      "duration": 641
+    },
+    {
+      "id": "sSvJOV4zNMc",
+      "title": "Implement Forgot Password Functionality - Build Expense Tracker App With PHP 8",
+      "duration": 1418
+    },
+    {
+      "id": "UE6IJH1ZJ6Y",
+      "title": "Implementing Caching with Redis - Build Expense Tracker App With PHP 8",
+      "duration": 1343
+    },
+    {
+      "id": "AK7zMkrLZEI",
+      "title": "Implementing Rate Limiting - Build Expense Tracker App With PHP 8",
+      "duration": 1066
+    },
+    {
+      "id": "wcAPyNVzpYk",
+      "title": "Uploading Files to S3 Bucket - Build Expense Tracker App With PHP 8",
+      "duration": 482
+    },
+    {
+      "id": "hokcG036GYY",
+      "title": "Final Exercise - Building Back-End For Dashboard - Build Expense Tracker App With PHP 8",
+      "duration": 683
+    },
+    {
+      "id": "TXf5sn-29Mo",
+      "title": "Deploy Expennies To Production Using Laravel Forge - Build Expense Tracker App With PHP 8",
+      "duration": 1350
+    }
+  ]
+}

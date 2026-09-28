@@ -1,0 +1,75 @@
+{
+  "courseId": "complete-django-tutorial-2724e3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:19.032Z",
+  "title": "Complete Django Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "3EzKBFc9_MQ",
+      "title": "Django Tutorial #1 - Introduction",
+      "duration": 436
+    },
+    {
+      "id": "aAACOgAHg90",
+      "title": "Django Tutorial #2 - Setup & Installation",
+      "duration": 732
+    },
+    {
+      "id": "6Ctsv9VB8L8",
+      "title": "Django Tutorial #3 - Django Basics",
+      "duration": 949
+    },
+    {
+      "id": "DZVFgMSyRXI",
+      "title": "Django Tutorial #4 - Database Setup",
+      "duration": 652
+    },
+    {
+      "id": "qQPKqClSDbg",
+      "title": "Django Tutorial #5 - Adding Database Records",
+      "duration": 768
+    },
+    {
+      "id": "RozHfswVZYE",
+      "title": "Django Tutorial #6 - Displaying Records",
+      "duration": 648
+    },
+    {
+      "id": "xc363xZGxXI",
+      "title": "Django Tutorial #7 - Admin Dashboard",
+      "duration": 684
+    },
+    {
+      "id": "kJJx77PYMFA",
+      "title": "Django Tutorial #8 - Static Assets",
+      "duration": 1300
+    },
+    {
+      "id": "WQISlkg_IZk",
+      "title": "Django Tutorial #9 - Forms",
+      "duration": 2531
+    },
+    {
+      "id": "0gAFW4UxsZg",
+      "title": "Django Tutorial #10 - Authentication",
+      "duration": 3255
+    },
+    {
+      "id": "wQPaXedytlg",
+      "title": "Django Tutorial #11 - App Build (Part1)",
+      "duration": 1028
+    },
+    {
+      "id": "jyjytSjqII4",
+      "title": "Django Tutorial #12 - App Build (Part 2)",
+      "duration": 1230
+    },
+    {
+      "id": "ZpKl3U-arN8",
+      "title": "Django Tutorial #13 - App Build (Part 3)",
+      "duration": 1993
+    }
+  ]
+}

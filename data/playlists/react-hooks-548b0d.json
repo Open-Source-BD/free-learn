@@ -1,0 +1,110 @@
+{
+  "courseId": "react-hooks-548b0d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:56.465Z",
+  "title": "React Hooks",
+  "channel": "Web Dev Simplified",
+  "videos": [
+    {
+      "id": "O6P86uwfdR0",
+      "title": "Learn useState In 15 Minutes - React Hooks Explained",
+      "duration": 945
+    },
+    {
+      "id": "0ZJgIjIuY7U",
+      "title": "Learn useEffect In 13 Minutes",
+      "duration": 818
+    },
+    {
+      "id": "THL1OPn72vo",
+      "title": "Learn useMemo In 10 Minutes",
+      "duration": 642
+    },
+    {
+      "id": "t2ypzz6gJm0",
+      "title": "Learn useRef in 11 Minutes",
+      "duration": 620
+    },
+    {
+      "id": "5LrDIWkK_Bc",
+      "title": "Learn useContext In 13 Minutes",
+      "duration": 788
+    },
+    {
+      "id": "kK_Wqx3RnHk",
+      "title": "Learn useReducer In 20 Minutes",
+      "duration": 1212
+    },
+    {
+      "id": "_AyFP5s69N4",
+      "title": "Learn useCallback In 8 Minutes",
+      "duration": 470
+    },
+    {
+      "id": "6ThXsUwLWvc",
+      "title": "Learn Custom Hooks In 10 Minutes",
+      "duration": 578
+    },
+    {
+      "id": "wU57kvYOxT4",
+      "title": "Learn useLayoutEffect In 5 Minutes",
+      "duration": 287
+    },
+    {
+      "id": "N5R6NL3UE7I",
+      "title": "React 18 useTransition Hook Crash Course",
+      "duration": 470
+    },
+    {
+      "id": "jCGMedd6IWA",
+      "title": "React 18 useDeferredValue Hook Crash Course",
+      "duration": 472
+    },
+    {
+      "id": "zpEyAOkytkU",
+      "title": "Learn useImperativeHandle In 10 Minutes",
+      "duration": 574
+    },
+    {
+      "id": "pTF86K8JZBQ",
+      "title": "The Perfect Hook For Debugging Custom React Hooks",
+      "duration": 487
+    },
+    {
+      "id": "_vwCKV7f_eA",
+      "title": "The Easiest React Hook",
+      "duration": 401
+    },
+    {
+      "id": "NZJUEzn10FI",
+      "title": "New React useEffectEvent Hook Crash Course",
+      "duration": 516
+    },
+    {
+      "id": "zdNF9FJWJ8o",
+      "title": "This New React Hook Breaks All The Rules And I Love It",
+      "duration": 476
+    },
+    {
+      "id": "_tUdtt6H5CE",
+      "title": "This New React Hook Changes How You Use Forms",
+      "duration": 514
+    },
+    {
+      "id": "M3mGY0pgFk0",
+      "title": "I Cannot Believe React Made A Hook For This",
+      "duration": 525
+    },
+    {
+      "id": "-aBKrvK5Vn8",
+      "title": "Learn useActionState In 8 Minutes - React Hooks Simplified",
+      "duration": 524
+    },
+    {
+      "id": "NBjycPpPHQQ",
+      "title": "Why Does No One Use The Right React Hook",
+      "duration": 910
+    }
+  ]
+}

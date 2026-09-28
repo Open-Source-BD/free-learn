@@ -1,0 +1,330 @@
+{
+  "courseId": "learn-rust-52d60d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLO5VPQH6OWdXR8NlZt0jRbC39W_IyzS-v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:41.733Z",
+  "title": "Learn Rust",
+  "channel": "Smart Contract Programmer",
+  "videos": [
+    {
+      "id": "wq56EAYZqGg",
+      "title": "Hello Rust | Learn Rust part 1",
+      "duration": 147
+    },
+    {
+      "id": "zlK4f7gjXhk",
+      "title": "Print | Learn Rust part 2",
+      "duration": 330
+    },
+    {
+      "id": "b4GbXzB7PYo",
+      "title": "Variables | Learn Rust part 3",
+      "duration": 245
+    },
+    {
+      "id": "hXUZt9Yj3EM",
+      "title": "Scalar Types | Learn Rust part 4",
+      "duration": 523
+    },
+    {
+      "id": "WbZdyDN_SE4",
+      "title": "Tuples | Learn Rust part 5",
+      "duration": 300
+    },
+    {
+      "id": "1Nn5ivjXocE",
+      "title": "Arrays | Learn Rust part 6",
+      "duration": 332
+    },
+    {
+      "id": "dFtPqMPnYVo",
+      "title": "String and &str | Learn Rust part 7",
+      "duration": 516
+    },
+    {
+      "id": "Jog-tS7o3XI",
+      "title": "Enum | Learn Rust part 8",
+      "duration": 484
+    },
+    {
+      "id": "eBtiBbxs3Ek",
+      "title": "Struct | Learn Rust part 9",
+      "duration": 452
+    },
+    {
+      "id": "5QxHV_LuBSY",
+      "title": "Struct method | Learn Rust part 10",
+      "duration": 240
+    },
+    {
+      "id": "3wrUIVO9jyM",
+      "title": "Operators | Learn Rust part 11",
+      "duration": 393
+    },
+    {
+      "id": "go8MaJvWlkw",
+      "title": "If Else Statement | Learn Rust part 12",
+      "duration": 127
+    },
+    {
+      "id": "xG4Y0LeG1Qc",
+      "title": "Loop | Learn Rust part 13",
+      "duration": 444
+    },
+    {
+      "id": "oR-nA3w9z_Q",
+      "title": "Match statement | Learn Rust part 14",
+      "duration": 352
+    },
+    {
+      "id": "J-GGfq9itkY",
+      "title": "If let statement | Learn Rust part 15",
+      "duration": 165
+    },
+    {
+      "id": "4abbRARt4gY",
+      "title": "Function | Learn Rust part 16",
+      "duration": 182
+    },
+    {
+      "id": "wdBHAi7C-hg",
+      "title": "Module | Learn Rust part 17",
+      "duration": 588
+    },
+    {
+      "id": "cMK8jZ8RZjI",
+      "title": "Handle Error | Learn Rust part 18",
+      "duration": 318
+    },
+    {
+      "id": "uCJSzzEXeNg",
+      "title": "Unwrap | Learn Rust part 19",
+      "duration": 252
+    },
+    {
+      "id": "DMNVHYyGuGU",
+      "title": "Question operator | Learn Rust part 20",
+      "duration": 567
+    },
+    {
+      "id": "7vVfvq7NnMU",
+      "title": "Return different error types from a Result | Learn Rust part 21",
+      "duration": 469
+    },
+    {
+      "id": "O2-5gG_BfCk",
+      "title": "Ownership rules | Learn Rust part 22",
+      "duration": 463
+    },
+    {
+      "id": "UfI4ghTndf0",
+      "title": "Borrow rules | Learn Rust part 23",
+      "duration": 490
+    },
+    {
+      "id": "rfJ6RWqzHHQ",
+      "title": "How borrow rules apply to functions | Learn Rust part 24",
+      "duration": 399
+    },
+    {
+      "id": "UsYi75l1efg",
+      "title": "Examples of borrow rules with slices | Learn Rust part 25",
+      "duration": 221
+    },
+    {
+      "id": "GrIudQW_i_U",
+      "title": "When to use String and &str? | Learn Rust part 26",
+      "duration": 518
+    },
+    {
+      "id": "zmLYb6snSmY",
+      "title": "Dereference | Learn Rust part 27",
+      "duration": 204
+    },
+    {
+      "id": "sVm6uq74O00",
+      "title": "Vector | Learn Rust part 28",
+      "duration": 372
+    },
+    {
+      "id": "UjN0TShhrNc",
+      "title": "Hash map | Learn Rust part 29",
+      "duration": 323
+    },
+    {
+      "id": "a3gVBpCvRp4",
+      "title": "Hash set | Learn Rust part 30",
+      "duration": 234
+    },
+    {
+      "id": "B1qrV7lSlN8",
+      "title": "Trait | Learn Rust part 31",
+      "duration": 404
+    },
+    {
+      "id": "QZahsEBPt28",
+      "title": "Trait as function input and output | Learn Rust part 32",
+      "duration": 541
+    },
+    {
+      "id": "QPzBmqY3Zuk",
+      "title": "Super trait | Learn Rust part 33",
+      "duration": 248
+    },
+    {
+      "id": "NQzgo88Vyuo",
+      "title": "Fully qualified syntax | Learn Rust part 34",
+      "duration": 142
+    },
+    {
+      "id": "JdRMpDvQ4_s",
+      "title": "Generic data type | Learn Rust part 35",
+      "duration": 296
+    },
+    {
+      "id": "ujXcfjJfOB0",
+      "title": "Generic function | Learn Rust part 36",
+      "duration": 327
+    },
+    {
+      "id": "l1bhlqPe9x8",
+      "title": "How is generics compiled? Monomorphization | Learn Rust part 37",
+      "duration": 249
+    },
+    {
+      "id": "h_CH2vIa5UA",
+      "title": "Generic methods | Learn Rust part 38",
+      "duration": 126
+    },
+    {
+      "id": "1UWFXoygS-o",
+      "title": "Generic trait | Learn Rust part 39",
+      "duration": 337
+    },
+    {
+      "id": "6OLaIMLqUF8",
+      "title": "From and Into traits | Learn Rust part 40",
+      "duration": 231
+    },
+    {
+      "id": "4TjBJJb4sRg",
+      "title": "Trait bounds | Learn Rust part 41",
+      "duration": 384
+    },
+    {
+      "id": "NOri0y7L7-4",
+      "title": "Sized and ?Sized | Learn Rust part 42",
+      "duration": 371
+    },
+    {
+      "id": "sNepnTIawZQ",
+      "title": "Static and dynamic dispatch | Learn Rust part 43",
+      "duration": 466
+    },
+    {
+      "id": "Fo-6IHkVpME",
+      "title": "Associated types | Learn Rust part 44",
+      "duration": 362
+    },
+    {
+      "id": "R4_eVtElKtI",
+      "title": "Operator overload | Learn Rust part 45",
+      "duration": 291
+    },
+    {
+      "id": "g2NOUos4ExE",
+      "title": "Difference between iter, into_iter and iter_mut | Learn Rust part 46",
+      "duration": 352
+    },
+    {
+      "id": "yeHRSdy7zes",
+      "title": "Iterator adaptors map, filter, collect, zip and fold | Learn Rust part 47",
+      "duration": 685
+    },
+    {
+      "id": "0ggxtV8fLGI",
+      "title": "Lifetimes | Learn Rust part 48",
+      "duration": 211
+    },
+    {
+      "id": "BF7cPfBV06U",
+      "title": "Function pointer | Learn Rust part 49",
+      "duration": 278
+    },
+    {
+      "id": "dJqTJhrZchs",
+      "title": "Closure | Learn Rust part 50",
+      "duration": 411
+    },
+    {
+      "id": "wj-S781SpB4",
+      "title": "Closure, ownership and move | Learn Rust part 51",
+      "duration": 295
+    },
+    {
+      "id": "VsA6DXBP9qM",
+      "title": "Fn, FnMut and FnOnce | Learn Rust part 52",
+      "duration": 542
+    },
+    {
+      "id": "jNnsWPo1wq4",
+      "title": "Return closure as function output | Learn Rust part 53",
+      "duration": 513
+    },
+    {
+      "id": "K9iGagZ8css",
+      "title": "Box | Learn Rust part 54",
+      "duration": 368
+    },
+    {
+      "id": "_7O1qYMdGGA",
+      "title": "Rc | Learn Rust part 55",
+      "duration": 685
+    },
+    {
+      "id": "CnRuVUTgy7E",
+      "title": "RefCell | Learn Rust part 56",
+      "duration": 441
+    },
+    {
+      "id": "GBuO_OXvY8c",
+      "title": "Weak reference | Learn Rust part 57",
+      "duration": 736
+    },
+    {
+      "id": "X5Nq1-hyxBc",
+      "title": "Thread | Learn Rust part 58",
+      "duration": 395
+    },
+    {
+      "id": "H-TZ2pL_41s",
+      "title": "Scoped thread | Learn Rust part 59",
+      "duration": 248
+    },
+    {
+      "id": "2Zp-CaDoy6E",
+      "title": "Channel | Learn Rust part 60",
+      "duration": 668
+    },
+    {
+      "id": "9POBiWPesfA",
+      "title": "Mutex | Learn Rust part 61",
+      "duration": 413
+    },
+    {
+      "id": "qXCsNHpV4Q8",
+      "title": "Arc | Learn Rust part 62",
+      "duration": 252
+    },
+    {
+      "id": "6w2PwzsGoZk",
+      "title": "Async / Await | Learn Rust part 63",
+      "duration": 531
+    },
+    {
+      "id": "k8uteFnZY_Y",
+      "title": "Async or native thread? | Learn Rust part 64",
+      "duration": 459
+    }
+  ]
+}

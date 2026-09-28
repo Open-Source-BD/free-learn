@@ -1,0 +1,80 @@
+{
+  "courseId": "flutter-state-management-course-e3c4ab",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:03.960Z",
+  "title": "Flutter State Management Course 💙",
+  "channel": "Vandad Nahavandipoor",
+  "videos": [
+    {
+      "id": "uXmOKTPsxOk",
+      "title": "Intro - Flutter State Management Course 💙",
+      "duration": 518
+    },
+    {
+      "id": "0PkBIpMW54o",
+      "title": "Chapter 1 - State Management Basics - Flutter State Management Course 💙",
+      "duration": 3720
+    },
+    {
+      "id": "sYhOf0HF3RQ",
+      "title": "Chapter 2 - InheritedWidget - Flutter State Management Course 💙",
+      "duration": 2591
+    },
+    {
+      "id": "0vl35jtpsfs",
+      "title": "Chapter 3 - InheritedModel - Flutter State Management Course 💙",
+      "duration": 2896
+    },
+    {
+      "id": "5ipfM0vOHH8",
+      "title": "Chapter 4 - InheritedNotifier and ChangeNotifier - Flutter State Management Course 💙",
+      "duration": 1907
+    },
+    {
+      "id": "MIbctCfdgRQ",
+      "title": "Chapter 5 - Provider - Flutter State Management Course 💙",
+      "duration": 8158
+    },
+    {
+      "id": "XsbxM1Aztpo",
+      "title": "Chapter 6 - Flutter Hooks - Flutter State Management Course 💙",
+      "duration": 7101
+    },
+    {
+      "id": "7zee9vaA27c",
+      "title": "Chapter 7 - Redux - Flutter State Management Course 💙",
+      "duration": 10338
+    },
+    {
+      "id": "Mn254cnduOY",
+      "title": "Bloc State Management for Flutter Developers - From Beginner to Advanced in 11 Hours",
+      "duration": 41379
+    },
+    {
+      "id": "7Od55PBxYkI",
+      "title": "MobX for Flutter Developers - Learn MobX Reactive State Management in 7 Hours",
+      "duration": 27681
+    },
+    {
+      "id": "xBFWMYmm9ro",
+      "title": "RxDart for Flutter Developers - Learn Reactive Programming in Flutter in 9 Hours",
+      "duration": 34896
+    },
+    {
+      "id": "vtGCteFYs4M",
+      "title": "Riverpod 2.x Course for Flutter Developers - Go From Beginner to Advanced in 17 Hours",
+      "duration": 63358
+    },
+    {
+      "id": "mYCGdogbuH8",
+      "title": "Riverpod 2.x Code Generator for Flutter Developers - Create Your Providers Without Hassle",
+      "duration": 1860
+    },
+    {
+      "id": "qsXCSVQC6-I",
+      "title": "Stay Tuned - Flutter State Management Course 💙",
+      "duration": 29
+    }
+  ]
+}

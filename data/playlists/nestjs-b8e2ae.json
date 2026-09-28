@@ -1,0 +1,140 @@
+{
+  "courseId": "nestjs-b8e2ae",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:58.070Z",
+  "title": "NestJS",
+  "channel": "Marius Espejo",
+  "videos": [
+    {
+      "id": "2n3xS89TJMI",
+      "title": "NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2023",
+      "duration": 3923
+    },
+    {
+      "id": "sNosL578ECo",
+      "title": "TypeORM Tutorial: Migrations, queries, and more! | NestJS",
+      "duration": 2738
+    },
+    {
+      "id": "rKgZLVgdvAY",
+      "title": "TypeORM Relations Tutorial - FULL details!",
+      "duration": 2942
+    },
+    {
+      "id": "_L225zpUK0M",
+      "title": "NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial",
+      "duration": 3971
+    },
+    {
+      "id": "WZtHM4Ph-K8",
+      "title": "Fastest Way to Create APIs? | NestJS Tutorial",
+      "duration": 1669
+    },
+    {
+      "id": "p29wLfPlxqo",
+      "title": "Nest.js vs Express.js | Part 1",
+      "duration": 2052
+    },
+    {
+      "id": "dXOfOgFFKuY",
+      "title": "NestJS Testing Tutorial | Unit and Integration Testing",
+      "duration": 2696
+    },
+    {
+      "id": "geYvdbpo3cA",
+      "title": "Best way to create GraphQL API ?? | NestJS GraphQL Tutorial",
+      "duration": 3214
+    },
+    {
+      "id": "YHJEoW8NOFs",
+      "title": "NestJS 8: What's NEW?! Serverless, versioning, and more!",
+      "duration": 525
+    },
+    {
+      "id": "BqLPiDSjBYE",
+      "title": "API Versioning with NestJS 8 Tutorial",
+      "duration": 970
+    },
+    {
+      "id": "Aq1U_Ku8Jig",
+      "title": "Prisma 2 Impressions with NestJS | Next-gen Node.JS ORM?!",
+      "duration": 3286
+    },
+    {
+      "id": "ULB6o6XZNTY",
+      "title": "Prisma Auto Generate GraphQL Inputs with Validation from class-validator | NestJS Tutorial",
+      "duration": 443
+    },
+    {
+      "id": "wdsp7BNmJRc",
+      "title": "NestJS Authorization: RBAC, ABAC,  claims-based, and more! | NestJS Guards Tutorial",
+      "duration": 1582
+    },
+    {
+      "id": "lddaR8Y-gko",
+      "title": "I cloned TeamSeas.org using GraphQL, Prisma, NestJS, React, and more! #TeamSeas",
+      "duration": 9686
+    },
+    {
+      "id": "XPSSgAPjTb4",
+      "title": "GraphQL Authentication: JWT, login, signup, and more! | NestJS PassportJS Tutorial",
+      "duration": 3199
+    },
+    {
+      "id": "1pPjCX0FHco",
+      "title": "How to Manage User Access in NestJS | Authorization with CASL",
+      "duration": 2780
+    },
+    {
+      "id": "atbdpX4CViM",
+      "title": "Easiest way to build real-time web apps? WEBSOCKETS with NestJS",
+      "duration": 2304
+    },
+    {
+      "id": "ylFrG4m7FjU",
+      "title": "Server-Sent Events with NestJS",
+      "duration": 594
+    },
+    {
+      "id": "5G81_VIjaO8",
+      "title": "TypeORM v0.3.x Migrations, queries, with NestJS!",
+      "duration": 1717
+    },
+    {
+      "id": "nY0R7pslbCI",
+      "title": "Can we combine a NestJS app with React?",
+      "duration": 1243
+    },
+    {
+      "id": "69QmlAXNgHk",
+      "title": "You don't need passwords anymore! NestJS passwordless magic link authentication",
+      "duration": 2155
+    },
+    {
+      "id": "-MlXwb42nKo",
+      "title": "Decouple your NestJS code with this technique!",
+      "duration": 697
+    },
+    {
+      "id": "CfS-9GqorqQ",
+      "title": "You should upgrade! NestJS v10",
+      "duration": 337
+    },
+    {
+      "id": "tjfEkaPiKQQ",
+      "title": "I Never Want to Create APIs Any Other Way",
+      "duration": 1052
+    },
+    {
+      "id": "3_jJK5NMGzs",
+      "title": "How I manage multiple NestJS applications",
+      "duration": 764
+    },
+    {
+      "id": "aEedYLW-GLM",
+      "title": "This setup has the best developer experience",
+      "duration": 3229
+    }
+  ]
+}

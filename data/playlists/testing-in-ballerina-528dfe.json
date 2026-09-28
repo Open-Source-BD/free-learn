@@ -1,0 +1,65 @@
+{
+  "courseId": "testing-in-ballerina-528dfe",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0ISsKnSaDjv0IIID-ztuu43",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:19.437Z",
+  "title": "Testing in Ballerina",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "13J_WnJooAA",
+      "title": "Introduction to Testing in Ballerina",
+      "duration": 83
+    },
+    {
+      "id": "4E_aErK8RGg",
+      "title": "Basics of Testing in the Ballerina Programming Language",
+      "duration": 225
+    },
+    {
+      "id": "beJXNOFfy2c",
+      "title": "Writing Tests in the Ballerina Programming Language",
+      "duration": 489
+    },
+    {
+      "id": "qQ6axLCzkWY",
+      "title": "Test Execution with Code Coverage and Reporting in the Ballerina Programming Language",
+      "duration": 463
+    },
+    {
+      "id": "FaUpmpCBnOE",
+      "title": "Setup and Tear Down Instructions in Ballerina Testing",
+      "duration": 250
+    },
+    {
+      "id": "qBYsACzv54A",
+      "title": "Data Driven Tests in the Ballerina Programming Language",
+      "duration": 235
+    },
+    {
+      "id": "IpFvBY0pNMI",
+      "title": "Test Specific Configurables in the Ballerina Programming Language",
+      "duration": 233
+    },
+    {
+      "id": "1oRePMqYqoU",
+      "title": "Mocking a Final Client in Ballerina",
+      "duration": 240
+    },
+    {
+      "id": "ytVKGd34HSA",
+      "title": "Mocking Clients with Stubbing in the Ballerina Programming Language",
+      "duration": 294
+    },
+    {
+      "id": "xjkEaG5jyT8",
+      "title": "Mocking a Function in Ballerina",
+      "duration": 181
+    },
+    {
+      "id": "OpFrWpd8-uo",
+      "title": "Wrap Up - Testing in Ballerina",
+      "duration": 71
+    }
+  ]
+}

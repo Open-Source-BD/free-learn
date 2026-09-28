@@ -1,0 +1,395 @@
+{
+  "courseId": "operating-system-77aef9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:26.407Z",
+  "title": "Operating System",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "vBURTt97EkA",
+      "title": "Introduction to Operating Systems",
+      "duration": 1005
+    },
+    {
+      "id": "VjPgYcQqqN0",
+      "title": "Basics of OS (Computer System Operation)",
+      "duration": 1089
+    },
+    {
+      "id": "YcRd3WMbXnE",
+      "title": "Basics of OS (Storage Structure)",
+      "duration": 603
+    },
+    {
+      "id": "F18RiREDkwE",
+      "title": "Basics of OS (I/O Structure)",
+      "duration": 765
+    },
+    {
+      "id": "So9SR3qpWsM",
+      "title": "Computer System Architecture",
+      "duration": 834
+    },
+    {
+      "id": "fvN98a_7AT4",
+      "title": "Operating System Structure",
+      "duration": 737
+    },
+    {
+      "id": "TQWERtMoKbI",
+      "title": "Operating System Services",
+      "duration": 797
+    },
+    {
+      "id": "psDpbWscPuE",
+      "title": "User Operating System Interface",
+      "duration": 814
+    },
+    {
+      "id": "lhToWeuWWfw",
+      "title": "System Calls",
+      "duration": 759
+    },
+    {
+      "id": "EavqupVh8ls",
+      "title": "Types of System Calls",
+      "duration": 683
+    },
+    {
+      "id": "UWDzhz8MVqc",
+      "title": "System Programs",
+      "duration": 731
+    },
+    {
+      "id": "t_McsJ1RGQg",
+      "title": "Operating System Design & Implementation",
+      "duration": 796
+    },
+    {
+      "id": "XXPBl20J22w",
+      "title": "Structures of Operating System",
+      "duration": 1167
+    },
+    {
+      "id": "daDbY2iDmU0",
+      "title": "Virtual Machines",
+      "duration": 683
+    },
+    {
+      "id": "wD0PrF3fGSY",
+      "title": "Operating System Generation and System Boot",
+      "duration": 731
+    },
+    {
+      "id": "OrM7nZcxXZU",
+      "title": "Process Management (Processes and Threads)",
+      "duration": 452
+    },
+    {
+      "id": "jZ_6PXoaoxo",
+      "title": "Process State",
+      "duration": 533
+    },
+    {
+      "id": "4s2MKuVYKV8",
+      "title": "Process Control Block",
+      "duration": 422
+    },
+    {
+      "id": "2h3eWaPx8SA",
+      "title": "Process Scheduling",
+      "duration": 679
+    },
+    {
+      "id": "vTgccrbYHYs",
+      "title": "Context Switch",
+      "duration": 634
+    },
+    {
+      "id": "pSW9d3Oaie8",
+      "title": "Operation on Processes – Process Creation",
+      "duration": 735
+    },
+    {
+      "id": "SFc3jt8t5rU",
+      "title": "Operation on Processes – Process Termination",
+      "duration": 556
+    },
+    {
+      "id": "dJuYKfR8vec",
+      "title": "Interprocess Communication",
+      "duration": 769
+    },
+    {
+      "id": "uHtzOFwgD74",
+      "title": "Shared Memory Systems",
+      "duration": 870
+    },
+    {
+      "id": "LuuSXWkDJOo",
+      "title": "Message Passing Systems (Part 1)",
+      "duration": 640
+    },
+    {
+      "id": "S3mS8MR7bUY",
+      "title": "Message Passing Systems (Part 2)",
+      "duration": 1380
+    },
+    {
+      "id": "fViAyFLOYxU",
+      "title": "Message Passing Systems (Part 3)",
+      "duration": 840
+    },
+    {
+      "id": "uagKTbohimU",
+      "title": "Sockets in Operating System",
+      "duration": 691
+    },
+    {
+      "id": "QmhTjsOOrlw",
+      "title": "Remote Procedure Calls (RPC)",
+      "duration": 872
+    },
+    {
+      "id": "jH3RezOHROU",
+      "title": "Issues in RPC & How They're Resolved",
+      "duration": 1129
+    },
+    {
+      "id": "LOfGJcVnvAk",
+      "title": "Introduction to Threads",
+      "duration": 846
+    },
+    {
+      "id": "HW2Wcx-ktsc",
+      "title": "Multithreading Models & Hyperthreading",
+      "duration": 1077
+    },
+    {
+      "id": "IFEFVXvjiHY",
+      "title": "fork() and exec() System Calls",
+      "duration": 1234
+    },
+    {
+      "id": "o2Sf0GHWpmk",
+      "title": "Threading Issues [fork() & exec() System Calls]",
+      "duration": 601
+    },
+    {
+      "id": "wNns0kIDC68",
+      "title": "Threading Issues (Thread Cancellation)",
+      "duration": 633
+    },
+    {
+      "id": "EWkQl0n0w5M",
+      "title": "Introduction to CPU Scheduling",
+      "duration": 614
+    },
+    {
+      "id": "pVzb3TUcDLo",
+      "title": "CPU and I/O Burst Cycles",
+      "duration": 496
+    },
+    {
+      "id": "4DhFmL-6SDA",
+      "title": "Preemptive and Non-Preemptive Scheduling",
+      "duration": 1137
+    },
+    {
+      "id": "bWHFY8-rL5I",
+      "title": "Scheduling Criteria",
+      "duration": 815
+    },
+    {
+      "id": "7DoP1L9nAAs",
+      "title": "Scheduling Algorithms - First Come First Served (FCFS)",
+      "duration": 1020
+    },
+    {
+      "id": "VSMAjMfJ6KQ",
+      "title": "First Come First Served Scheduling (Solved Problem 1)",
+      "duration": 1130
+    },
+    {
+      "id": "8-BUGte27sk",
+      "title": "First Come First Served Scheduling (Solved Problem 2)",
+      "duration": 598
+    },
+    {
+      "id": "t0g9b3SJECg",
+      "title": "Scheduling Algorithms - Shortest Job First (SJF)",
+      "duration": 1727
+    },
+    {
+      "id": "lpM14aWgl3Q",
+      "title": "Shortest Job First Scheduling (Solved Problem 1)",
+      "duration": 719
+    },
+    {
+      "id": "ypOnf9mnFYg",
+      "title": "Shortest Job First Scheduling (Solved Problem 2)",
+      "duration": 698
+    },
+    {
+      "id": "yKD3pcFvGmY",
+      "title": "Scheduling Algorithms - Priority Scheduling",
+      "duration": 1031
+    },
+    {
+      "id": "Z2KsfhEJOFA",
+      "title": "Priority Scheduling (Solved Problem 1)",
+      "duration": 958
+    },
+    {
+      "id": "gHKSmz-W0x0",
+      "title": "Priority Scheduling (Solved Problem 2)",
+      "duration": 837
+    },
+    {
+      "id": "YzBBJYfwdi8",
+      "title": "Scheduling Algorithms - Round Robin Scheduling",
+      "duration": 916
+    },
+    {
+      "id": "7TpxxTNrcTg",
+      "title": "Round Robin Scheduling (Turnaround Time & Waiting Time)",
+      "duration": 1168
+    },
+    {
+      "id": "QlCmgBOMjlI",
+      "title": "Round Robin Scheduling - Solved Problem (Part 1)",
+      "duration": 1194
+    },
+    {
+      "id": "wioTortHb_g",
+      "title": "Round Robin Scheduling - Solved Problem (Part 2)",
+      "duration": 411
+    },
+    {
+      "id": "fvkSXMZaBNY",
+      "title": "Multilevel Queue Scheduling Algorithm",
+      "duration": 876
+    },
+    {
+      "id": "1KLuC0knvs8",
+      "title": "Multilevel Feedback-Queue Scheduling Algorithm",
+      "duration": 853
+    },
+    {
+      "id": "g6QjVDyGgSE",
+      "title": "Scheduling Algorithms – Solved Problems",
+      "duration": 1319
+    },
+    {
+      "id": "ph2awKa8r5Y",
+      "title": "Process Synchronization",
+      "duration": 1286
+    },
+    {
+      "id": "UtEORPakw5Y",
+      "title": "The Critical-Section Problem",
+      "duration": 830
+    },
+    {
+      "id": "gYCiTtgGR5Q",
+      "title": "Peterson’s Solution",
+      "duration": 1291
+    },
+    {
+      "id": "5oZYS5dTrmk",
+      "title": "Test and Set Lock",
+      "duration": 1141
+    },
+    {
+      "id": "XDIOC2EY5JE",
+      "title": "Semaphores",
+      "duration": 1371
+    },
+    {
+      "id": "2cGo2HdA0dM",
+      "title": "Disadvantages of Semaphores",
+      "duration": 665
+    },
+    {
+      "id": "Qx3P2wazwI0",
+      "title": "The Bounded Buffer Problem",
+      "duration": 948
+    },
+    {
+      "id": "p2XDhW5INOo",
+      "title": "The Readers Writers Problem",
+      "duration": 932
+    },
+    {
+      "id": "FYUi-u7UWgw",
+      "title": "The Dining Philosophers Problem",
+      "duration": 1216
+    },
+    {
+      "id": "ufdQ0GR855M",
+      "title": "Monitors",
+      "duration": 826
+    },
+    {
+      "id": "K52NiClfvyE",
+      "title": "Dining Philosophers Solution using Monitors",
+      "duration": 904
+    },
+    {
+      "id": "WIj06NCxkWE",
+      "title": "Process Synchronization - Problem 1",
+      "duration": 597
+    },
+    {
+      "id": "_yl0qAnsa_8",
+      "title": "Process Synchronization - Problem 2",
+      "duration": 808
+    },
+    {
+      "id": "A41_0uRnb2A",
+      "title": "Process Synchronization - Problem 3",
+      "duration": 498
+    },
+    {
+      "id": "fWL8HAIrgMw",
+      "title": "Process Synchronization - Problem 4",
+      "duration": 559
+    },
+    {
+      "id": "LlnBI2yjvlg",
+      "title": "Process Synchronization - Problem 5",
+      "duration": 243
+    },
+    {
+      "id": "7bnpFpYZtVk",
+      "title": "Deadlocks | Chapter-7 | Operating System | nesoacademy.org",
+      "duration": 61
+    },
+    {
+      "id": "d9WyerblWQc",
+      "title": "Main Memory | Chapter-8 | Operating System | nesoacademy.org",
+      "duration": 70
+    },
+    {
+      "id": "puobwv1xjqc",
+      "title": "Virtual Memory | Chapter-9 | Operating System | nesoacademy.org",
+      "duration": 79
+    },
+    {
+      "id": "pQ2coSLQvX4",
+      "title": "File Systems | Chapter-10 | Operating System | nesoacademy.org",
+      "duration": 51
+    },
+    {
+      "id": "-yNgx1pAa64",
+      "title": "File System Implementation | Chapter-11 | Operating System | nesoacademy.org",
+      "duration": 41
+    },
+    {
+      "id": "syq56cLrWdI",
+      "title": "Mass Storage Structure | Chapter-12 | Operating System | nesoacademy.org",
+      "duration": 79
+    }
+  ]
+}

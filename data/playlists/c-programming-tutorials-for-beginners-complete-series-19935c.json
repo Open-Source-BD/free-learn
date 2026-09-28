@@ -1,0 +1,410 @@
+{
+  "courseId": "c-programming-tutorials-for-beginners-complete-series-19935c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:06.203Z",
+  "title": "C Programming Tutorials for Beginners (Complete Series)",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "CCZE4zuOwZM",
+      "title": "C Programming for Beginners 1 - Installing CodeBlocks and Getting Started (For Absolute Beginners)",
+      "duration": 615
+    },
+    {
+      "id": "o4ALYD3beW0",
+      "title": "C Programming for Beginners 2 - First C Program and Understanding C Program Structure",
+      "duration": 998
+    },
+    {
+      "id": "_i2xt5HlhXY",
+      "title": "C Programming for Beginners 3 - Simple input and output (printf , scanf , placeholder )",
+      "duration": 927
+    },
+    {
+      "id": "FOpDfqQP5TU",
+      "title": "C Programming for Beginners 4 - Comments",
+      "duration": 210
+    },
+    {
+      "id": "Qt5qI_dIsno",
+      "title": "C Programming for Beginners 5 - Variables and Basic Datatypes",
+      "duration": 492
+    },
+    {
+      "id": "jop-btLDWw0",
+      "title": "C Programming for Beginners 6 - Simple Math and and operators",
+      "duration": 505
+    },
+    {
+      "id": "BXSMF410IsQ",
+      "title": "C Programming for Beginners 7 - If Statements in C",
+      "duration": 518
+    },
+    {
+      "id": "oz4dhs9Pym8",
+      "title": "C Programming for Beginners 8 -   if...else and Nested if...else statements in C",
+      "duration": 668
+    },
+    {
+      "id": "IDdN8OlHmfo",
+      "title": "C Programming for Beginners 9 - The ternary (conditional) operator in C",
+      "duration": 512
+    },
+    {
+      "id": "ZJaHACQRNxE",
+      "title": "C Programming for Beginners 10 - Switch Statement in C",
+      "duration": 881
+    },
+    {
+      "id": "QSA4k0QtYOQ",
+      "title": "C Programming for Beginners 11 - While loop in C",
+      "duration": 538
+    },
+    {
+      "id": "gc890OfJO4c",
+      "title": "C Programming for Beginners 12 - do...while loop in C",
+      "duration": 525
+    },
+    {
+      "id": "f5TxxBe2UYk",
+      "title": "C Programming for Beginners 13 -  for loop",
+      "duration": 629
+    },
+    {
+      "id": "d5vNMsMJuFQ",
+      "title": "C Programming for Beginners 14 - Functions in C",
+      "duration": 696
+    },
+    {
+      "id": "PQ_pHQDPWaA",
+      "title": "C Programming for Beginners 15 - Passing Parameters and Arguments in Function",
+      "duration": 530
+    },
+    {
+      "id": "MHdE5CGX028",
+      "title": "C Programming for Beginners 16 - Return Values in Functions",
+      "duration": 584
+    },
+    {
+      "id": "bSX9ls0yE1I",
+      "title": "C Programming for Beginners 17 - Scope rules in C",
+      "duration": 593
+    },
+    {
+      "id": "e6CLz9mxBpQ",
+      "title": "C Programming for Beginners 18 - Arrays in C",
+      "duration": 689
+    },
+    {
+      "id": "MZLNML-RfsQ",
+      "title": "C Programming for Beginners 19 - Multi-dimensional Arrays in C",
+      "duration": 610
+    },
+    {
+      "id": "EMDkPDxjDv4",
+      "title": "C Programming for Beginners 20 - Passing Arrays as Function Arguments in C",
+      "duration": 750
+    },
+    {
+      "id": "YjiMT7Pr3-8",
+      "title": "C Programming for Beginners 21 - Pointers in C",
+      "duration": 656
+    },
+    {
+      "id": "id2-DOKxL9o",
+      "title": "C Programming for Beginners 22 - Array of pointers",
+      "duration": 480
+    },
+    {
+      "id": "AS3oqdKBFXU",
+      "title": "C Programming for Beginners 23 - Passing Pointers as Function Arguments",
+      "duration": 852
+    },
+    {
+      "id": "Eql9FpZX2XY",
+      "title": "C Programming for Beginners 24 - Strings in C",
+      "duration": 881
+    },
+    {
+      "id": "tf-qp4t-0_M",
+      "title": "C Programming for Beginners 25 - (struct) Structures in C",
+      "duration": 897
+    },
+    {
+      "id": "TXbuATMlVNY",
+      "title": "How to Install and Setup Eclipse IDE for C/C++ Development on Windows",
+      "duration": 1128
+    },
+    {
+      "id": "rwurs1fz-WA",
+      "title": "C Programming for Beginners 26 - Unions in C",
+      "duration": 700
+    },
+    {
+      "id": "-CpG3oATGIs",
+      "title": "C Programming Tutorial | Learn C programming | C language",
+      "duration": 16733
+    },
+    {
+      "id": "KwOLqfyQ7TU",
+      "title": "How to Install Qt Creator IDE on Windows 8.1 / Windows 10 (Open Source Version)",
+      "duration": 524
+    },
+    {
+      "id": "3SIj6zL6mmA",
+      "title": "How To Create First Qt GUI Widget Application in C++ Using Qt Creator",
+      "duration": 932
+    },
+    {
+      "id": "KdweixONFyA",
+      "title": "What Is JSON ? JSON Crash Course",
+      "duration": 1012
+    },
+    {
+      "id": "C893qy0c5do",
+      "title": "Introduction to Linked Lists - Linked List Implementation in C/C++ - Data Structure Tutorial",
+      "duration": 1299
+    },
+    {
+      "id": "6e23Xh3vrsE",
+      "title": "C Programming Interview Questions",
+      "duration": 811
+    },
+    {
+      "id": "W-oqv3uezlY",
+      "title": "Visualization of Sorting Algorithms | 11 Sorting Algorithms in 7 Minutes",
+      "duration": 441
+    },
+    {
+      "id": "x1g0KMBuEQQ",
+      "title": "C Programming Interview Questions  - PART 2",
+      "duration": 965
+    },
+    {
+      "id": "NFJtdwx8aOI",
+      "title": "C Programming Interview Questions  - PART 3",
+      "duration": 558
+    },
+    {
+      "id": "QvPVHMoFn4A",
+      "title": "C Programming Interview Questions  - PART 4",
+      "duration": 699
+    },
+    {
+      "id": "bPp_Nr71GxY",
+      "title": "C Programming Tutorial for Beginners 1 - Introduction to the C programming",
+      "duration": 666
+    },
+    {
+      "id": "Cs_6T5My2yw",
+      "title": "C Programming Tutorial for Beginners 2 - First C Program | C Hello World! Example",
+      "duration": 623
+    },
+    {
+      "id": "i02GtDMlWfs",
+      "title": "C Programming Tutorial for Beginners 3 - Placeholders for Input and Output",
+      "duration": 633
+    },
+    {
+      "id": "UO9WiDJFxMw",
+      "title": "C Programming Tutorial for Beginners 4 -  Variables in C Programming",
+      "duration": 829
+    },
+    {
+      "id": "HbDpvKMGY7A",
+      "title": "C Programming Tutorial for Beginners 5 -  Data Types in C",
+      "duration": 887
+    },
+    {
+      "id": "MUZ_PLr1p7g",
+      "title": "C Programming Tutorial for Beginners 6 -  C Variable Scope | Scope rules in C",
+      "duration": 618
+    },
+    {
+      "id": "hgYnQW5znjE",
+      "title": "C Programming Tutorial for Beginners 7 - C Input/Output: printf() and scanf()",
+      "duration": 827
+    },
+    {
+      "id": "9XMynnH4kzU",
+      "title": "C Programming Tutorial for Beginners 8 - Relational Operators in C + Increment and Decrement",
+      "duration": 638
+    },
+    {
+      "id": "bZkAn8K0Usg",
+      "title": "C Programming Tutorial for Beginners 9 -  Logical Operators in C + Assignment Operators in C",
+      "duration": 772
+    },
+    {
+      "id": "zjFpslO0Yv0",
+      "title": "C Programming Tutorial for Beginners 10 - If statement in C programming with example",
+      "duration": 636
+    },
+    {
+      "id": "qRWjFwgShRI",
+      "title": "C Programming Tutorial for Beginners 11 - If Else and Nested If Else with example",
+      "duration": 771
+    },
+    {
+      "id": "5DVOcOjvYAY",
+      "title": "C Programming Tutorial for Beginners 12 - Ternary Operator in C - ?:",
+      "duration": 603
+    },
+    {
+      "id": "D-OpEdfuxX8",
+      "title": "C Programming Tutorial for Beginners 13 - goto statement in C",
+      "duration": 754
+    },
+    {
+      "id": "B3tTqJba3QQ",
+      "title": "C Programming Tutorial for Beginners 14 -  while loop in C",
+      "duration": 658
+    },
+    {
+      "id": "MrB5ozVTSgI",
+      "title": "C Programming Tutorial for Beginners 15 -  do...while loop in C",
+      "duration": 601
+    },
+    {
+      "id": "k8eavMhdahQ",
+      "title": "C Programming Tutorial for Beginners 16 -  for loop in C",
+      "duration": 762
+    },
+    {
+      "id": "8d6NOuHAl_A",
+      "title": "C Programming Tutorial for Beginners 17 -  Switch Statement in C",
+      "duration": 671
+    },
+    {
+      "id": "jrSLANMB_-g",
+      "title": "C Programming Tutorial for Beginners 18 -  Functions in C",
+      "duration": 810
+    },
+    {
+      "id": "GJyQ-Nkn_WQ",
+      "title": "C Programming Tutorial for Beginners 19 - C Function Arguments",
+      "duration": 722
+    },
+    {
+      "id": "PRTlp5CJAVM",
+      "title": "C Programming Tutorial for Beginners 20 - One dimensional array in C",
+      "duration": 785
+    },
+    {
+      "id": "a3Lgg_mWiTo",
+      "title": "C Programming Tutorial for Beginners 21 - Multidimensional Array in C",
+      "duration": 817
+    },
+    {
+      "id": "zzot5xCFbH8",
+      "title": "C Programming Tutorial for Beginners 22 - Passing Arrays as Function Arguments in C",
+      "duration": 750
+    },
+    {
+      "id": "wMF3cibwvak",
+      "title": "C Programming Tutorial for Beginners 23 - Pointer in C programming | C Pointers (With Examples)",
+      "duration": 811
+    },
+    {
+      "id": "LxfQ3UbfJcI",
+      "title": "C Programming Tutorial for Beginners 24 - Strings in C (With Examples)",
+      "duration": 936
+    },
+    {
+      "id": "C1l71RBApTA",
+      "title": "C Programming Tutorial for Beginners 25 - Structures in C  (With Examples)",
+      "duration": 762
+    },
+    {
+      "id": "sFZ0z3-NG6U",
+      "title": "C Programming Tutorial for Beginners 26 - Union in C Programming",
+      "duration": 685
+    },
+    {
+      "id": "capVFW4v9JY",
+      "title": "C Programming Tutorial for Beginners 27 - typedef in C Programming | Learn typedef in C",
+      "duration": 801
+    },
+    {
+      "id": "e-srF6c3TJ8",
+      "title": "C Programming Tutorial for Beginners 28 - C File I/O: Create, Open, Write and Close a File",
+      "duration": 827
+    },
+    {
+      "id": "gqlAmSqq6Tw",
+      "title": "C Programming Tutorial for Beginners 29 - C File I/O: Read Files",
+      "duration": 650
+    },
+    {
+      "id": "OWlbuyQ2eig",
+      "title": "C Programming Tutorial for Beginners 30 -  Enumeration in C | Enum in C | How to use enums in C",
+      "duration": 793
+    },
+    {
+      "id": "Ix578mIRZv4",
+      "title": "Learn Functions in C Programming with examples",
+      "duration": 1498
+    },
+    {
+      "id": "_IIiqGdWG9s",
+      "title": "How to Create, Read and Write to a File in C Programming",
+      "duration": 1447
+    },
+    {
+      "id": "8TZE6FedtTw",
+      "title": "C Loops - For, While, Do While, Looping Statements with Example",
+      "duration": 1948
+    },
+    {
+      "id": "EZ3IZg3Jeys",
+      "title": "C programming Tutorial | Conditional Statement: IF, IF Else, Nested IF Else and Ternary Operator",
+      "duration": 2715
+    },
+    {
+      "id": "Y3lSoqb9Dog",
+      "title": "Arrays in C programming with examples",
+      "duration": 1571
+    },
+    {
+      "id": "tTV3RRxdqT0",
+      "title": "C Programming Tutorial for Beginners|  Learn C programming | C language [Full Course]",
+      "duration": 21349
+    },
+    {
+      "id": "wDnFjDjxW_0",
+      "title": "Top Websites for Coding Interview Preparation",
+      "duration": 737
+    },
+    {
+      "id": "ZNlIwXRf50w",
+      "title": "C Programming Tutorial | Learn C | C Language Sikhe In Hindi - सम्पूर्ण ज्ञान अब हिंदी भाषा में",
+      "duration": 23419
+    },
+    {
+      "id": "7MYx4Fx_eXI",
+      "title": "C Programming Tutorial - Full Course",
+      "duration": 21349
+    },
+    {
+      "id": "4-_3obNgNKM",
+      "title": "How to Run C in Visual Studio Code on Windows 11",
+      "duration": 1316
+    },
+    {
+      "id": "pcaByFmyP-s",
+      "title": "How to Fix Error: GCC/G++ No Such File Or Directory",
+      "duration": 395
+    },
+    {
+      "id": "NJYcRcqPyOw",
+      "title": "Debugging C Program with Visual Studio Code (VSCode)",
+      "duration": 678
+    },
+    {
+      "id": "hAzTp1Ojw88",
+      "title": "C Programming Tutorial | Learn C programming | C language [Full Course]",
+      "duration": 21355
+    }
+  ]
+}

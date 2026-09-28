@@ -1,0 +1,715 @@
+{
+  "courseId": "html-css-crash-course-tutorial-for-beginners-b06a1b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLr6-GrHUlVf_HUfo4LyFepGmj23nwqNdk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:21.160Z",
+  "title": "HTML & CSS Crash Course Tutorial For Beginners",
+  "channel": "EJ Media",
+  "videos": [
+    {
+      "id": "dD2EISBDjWM",
+      "title": "HTML Tutorial for Beginners - 00 - Introduction to HTML",
+      "duration": 212
+    },
+    {
+      "id": "-USAeFpVf_A",
+      "title": "HTML Tutorial for Beginners - 01 - Creating the first web page",
+      "duration": 610
+    },
+    {
+      "id": "i3GE-toQg-o",
+      "title": "HTML Tutorial for Beginners - 02 - Line breaks, spacing, and comments",
+      "duration": 390
+    },
+    {
+      "id": "09oErCBjVns",
+      "title": "HTML Tutorial for Beginners - 03 - Ordered and Unordered lists",
+      "duration": 245
+    },
+    {
+      "id": "wvR40su_XBM",
+      "title": "HTML Tutorial for Beginners - 04 - Creating a table",
+      "duration": 252
+    },
+    {
+      "id": "U4UHoiK6Oo4",
+      "title": "HTML Tutorial for Beginners - 05 - Creating a web link",
+      "duration": 195
+    },
+    {
+      "id": "bCt2FnyY7AE",
+      "title": "HTML Tutorial for Beginners - 06 - Creating links within same web page",
+      "duration": 255
+    },
+    {
+      "id": "Zy4KJeVN7Gk",
+      "title": "HTML Tutorial for Beginners - 07 - Adding a image to a web page",
+      "duration": 102
+    },
+    {
+      "id": "dM12ctixdT4",
+      "title": "HTML Tutorial for Beginners - 08 - Resizing and sizing images",
+      "duration": 193
+    },
+    {
+      "id": "rO6_MZLIzCg",
+      "title": "HTML Tutorial for Beginners - 09 - Nested elements",
+      "duration": 84
+    },
+    {
+      "id": "wvU1mmJn_UI",
+      "title": "HTML Tutorial for Beginners - 10 - One-line text box",
+      "duration": 227
+    },
+    {
+      "id": "f9QXNFVlsls",
+      "title": "HTML Tutorial for Beginners - 11 - Add label to text box",
+      "duration": 173
+    },
+    {
+      "id": "onKF88kRK3Q",
+      "title": "HTML Tutorial for Beginners - 12 - Multi-line text box",
+      "duration": 150
+    },
+    {
+      "id": "NDAa6EaKce8",
+      "title": "HTML Tutorial for Beginners - 13 - Radio buttons",
+      "duration": 146
+    },
+    {
+      "id": "g4UAV1lIHyA",
+      "title": "HTML Tutorial for Beginners - 14 - Checkbox",
+      "duration": 88
+    },
+    {
+      "id": "NPfy-hKOGfk",
+      "title": "HTML Tutorial for Beginners - 15 - Number input box",
+      "duration": 97
+    },
+    {
+      "id": "yWuAsqUnNsA",
+      "title": "HTML Tutorial for Beginners - 16 - Drop-down list",
+      "duration": 147
+    },
+    {
+      "id": "H6BSr5UOg2Y",
+      "title": "HTML Tutorial for Beginners - 17 - Date and number box",
+      "duration": 159
+    },
+    {
+      "id": "x13Uxl6_dyw",
+      "title": "HTML Tutorial for Beginners - 18 - Fieldbox and Legend elements",
+      "duration": 113
+    },
+    {
+      "id": "iWWTtYGZ4YA",
+      "title": "HTML Tutorial for Beginners - 19 - Attributes",
+      "duration": 194
+    },
+    {
+      "id": "sx4kaeyzQzw",
+      "title": "HTML Tutorial for Beginners - 20 - The meta element",
+      "duration": 245
+    },
+    {
+      "id": "s3h5FLBon88",
+      "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+      "duration": 123
+    },
+    {
+      "id": "X_OROia6aPo",
+      "title": "HTML Tutorial for Beginners - 22 - Bold and italic elements",
+      "duration": 165
+    },
+    {
+      "id": "7PORMYx30xE",
+      "title": "HTML Tutorial for Beginners - 23 - iframe element",
+      "duration": 308
+    },
+    {
+      "id": "iG703SLOJ-Q",
+      "title": "HTML Tutorial for Beginners - 24 - sup and sub elements",
+      "duration": 102
+    },
+    {
+      "id": "kA5pqPA5eZE",
+      "title": "HTML Tutorial for Beginners - 25 - Title and alt attributes",
+      "duration": 146
+    },
+    {
+      "id": "7tWBcT83hek",
+      "title": "HTML Tutorial for Beginners - 26 - Audio element",
+      "duration": 170
+    },
+    {
+      "id": "2aenvVrYWjg",
+      "title": "HTML Tutorial for Beginners - 27 - Audio element attributes",
+      "duration": 136
+    },
+    {
+      "id": "iIgFqkDs4tY",
+      "title": "HTML Tutorial for Beginners - 28 - Video element",
+      "duration": 109
+    },
+    {
+      "id": "c625P4B0OY0",
+      "title": "HTML Tutorial for Beginners - 29 - doctype",
+      "duration": 144
+    },
+    {
+      "id": "qKoajPPWpmo",
+      "title": "CSS Tutorial for Beginners - 01 - Introduction to CSS",
+      "duration": 394
+    },
+    {
+      "id": "UO0ZPL8yMpU",
+      "title": "CSS Tutorial for Beginners - 02 - Changing font type, color, and size",
+      "duration": 246
+    },
+    {
+      "id": "JT0gyzbpD2U",
+      "title": "CSS Tutorial for Beginners - 03 - Multiple selectors and writing rule for more than one element",
+      "duration": 113
+    },
+    {
+      "id": "hCoMjvtsyPA",
+      "title": "CSS Tutorial for Beginners - 04 - Add a line to header and border property",
+      "duration": 97
+    },
+    {
+      "id": "Bj2ZCfDPP2A",
+      "title": "CSS Tutorial for Beginners - 05 - Inheritance and overriding",
+      "duration": 268
+    },
+    {
+      "id": "u4dLB9NP3IA",
+      "title": "CSS Tutorial for Beginners - 06 - Using Classes in CSS",
+      "duration": 250
+    },
+    {
+      "id": "KULYFC545qY",
+      "title": "CSS Tutorial for Beginners - 07 - More on Classes in CSS",
+      "duration": 209
+    },
+    {
+      "id": "bWDtPnNkutw",
+      "title": "CSS Tutorial for Beginners - 08 - Font Family",
+      "duration": 196
+    },
+    {
+      "id": "DFgXjen2JS0",
+      "title": "CSS Tutorial for Beginners - 09 - The Font Weight Property",
+      "duration": 128
+    },
+    {
+      "id": "QT_lIti-8Zk",
+      "title": "CSS Tutorial for Beginners - 10 - Using an external style sheet",
+      "duration": 303
+    },
+    {
+      "id": "kp9CWRRLjAM",
+      "title": "CSS Tutorial for Beginners - 11 - Text-decoration property",
+      "duration": 117
+    },
+    {
+      "id": "XtgrFq5_QQM",
+      "title": "CSS Tutorial for Beginners - 12 - Italic fonts",
+      "duration": 215
+    },
+    {
+      "id": "sbtD9AP9W70",
+      "title": "CSS Tutorial for Beginners - 13 - Web Colors",
+      "duration": 315
+    },
+    {
+      "id": "bHxGUfgbrY8",
+      "title": "CSS Tutorial for Beginners - 14 - Using inline style",
+      "duration": 168
+    },
+    {
+      "id": "GbqmpIfPL6c",
+      "title": "CSS Tutorial for Beginners - 15 - More on Font sizes",
+      "duration": 327
+    },
+    {
+      "id": "reRKJa7gyF0",
+      "title": "CSS Tutorial for Beginners - 16 - Line height property",
+      "duration": 114
+    },
+    {
+      "id": "3n9UbOvMZ30",
+      "title": "CSS Tutorial for Beginners - 17 - CSS Box Model Part 1",
+      "duration": 351
+    },
+    {
+      "id": "l3Cu_s61zaU",
+      "title": "CSS Tutorial for Beginners - 18 - CSS Box Model Part 2",
+      "duration": 379
+    },
+    {
+      "id": "b-A7LiWySHE",
+      "title": "CSS Tutorial for Beginners - 19 - CSS Box Model Part 3",
+      "duration": 326
+    },
+    {
+      "id": "4GZqsfPSJB0",
+      "title": "CSS Tutorial for Beginners - 20 - CSS Box Model Part 4",
+      "duration": 286
+    },
+    {
+      "id": "9vo8nTQ7s5A",
+      "title": "CSS Tutorial for Beginners - 21 - Background image property",
+      "duration": 122
+    },
+    {
+      "id": "ZuuEdXXzG7I",
+      "title": "CSS Tutorial for Beginners - 22 - The ID Attribute",
+      "duration": 280
+    },
+    {
+      "id": "tEucu932gg8",
+      "title": "CSS Tutorial for Beginners - 23 - The text align property",
+      "duration": 71
+    },
+    {
+      "id": "7J1fGcLggc4",
+      "title": "CSS Tutorial for Beginners - 24 - Border Property Part 1",
+      "duration": 156
+    },
+    {
+      "id": "qhUDC4eQFuc",
+      "title": "CSS Tutorial for Beginners - 25 - Border Property Part 2",
+      "duration": 229
+    },
+    {
+      "id": "xZOeC1D61mI",
+      "title": "CSS Tutorial for Beginners - 26 - The DIV element",
+      "duration": 375
+    },
+    {
+      "id": "XeA2wdj74O4",
+      "title": "CSS Tutorial for Beginners - 27 - The SPAN element",
+      "duration": 230
+    },
+    {
+      "id": "5enJfW3weCQ",
+      "title": "CSS Tutorial for Beginners - 28 - Add content page and reuse some of our CSS classes",
+      "duration": 304
+    },
+    {
+      "id": "01GUwH6kn2U",
+      "title": "CSS Tutorial for Beginners - 29 - Special effects",
+      "duration": 323
+    },
+    {
+      "id": "IaOggxOFjTk",
+      "title": "CSS Tutorial for Beginners - 30 - Block and Inline elements",
+      "duration": 558
+    },
+    {
+      "id": "RzWDDOwFPCA",
+      "title": "CSS Tutorial for Beginners - 31 - Block and Inline elements Part 2",
+      "duration": 249
+    },
+    {
+      "id": "0LN4iCdb8To",
+      "title": "CSS Tutorial for Beginners - 32 - Block and Inline elements Part 3",
+      "duration": 149
+    },
+    {
+      "id": "YjJfViBul94",
+      "title": "CSS Tutorial for Beginners - 33 - Floating an element",
+      "duration": 286
+    },
+    {
+      "id": "s_GBRa9wva4",
+      "title": "CSS Tutorial for Beginners - 34 - Absolute position for an element",
+      "duration": 175
+    },
+    {
+      "id": "TqgLBBqWRqk",
+      "title": "CSS Tutorial for Beginners - 35 - Fixed position for an element",
+      "duration": 145
+    },
+    {
+      "id": "1aT81-e3viA",
+      "title": "CSS Tutorial for Beginners - 36 - The overflow property",
+      "duration": 129
+    },
+    {
+      "id": "wky2u_WbFGs",
+      "title": "CSS Tutorial for Beginners - 37 - The cursor property",
+      "duration": 129
+    },
+    {
+      "id": "WyFI1T_-hqs",
+      "title": "CSS Tutorial for Beginners - 38 - Custom cursor",
+      "duration": 114
+    },
+    {
+      "id": "Hx3SU5a-kSQ",
+      "title": "CSS Tutorial for Beginners - 39 - Text and images",
+      "duration": 284
+    },
+    {
+      "id": "yuUZcN-jZ2o",
+      "title": "CSS Tutorial for Beginners - 40 - Relative positioning",
+      "duration": 600
+    },
+    {
+      "id": "2FuSeUkHfVo",
+      "title": "CSS Tutorial for Beginners - 41 - Vertical menu",
+      "duration": 431
+    },
+    {
+      "id": "byyoTbrY8sc",
+      "title": "CSS Tutorial for Beginners - 42 - Vertical menu Part 2",
+      "duration": 128
+    },
+    {
+      "id": "dZYy72ObKf0",
+      "title": "CSS Tutorial for Beginners - 43 - Horizontal menu",
+      "duration": 331
+    },
+    {
+      "id": "GnF1gGUP-jo",
+      "title": "CSS Tutorial for Beginners - 44 - A nice button",
+      "duration": 299
+    },
+    {
+      "id": "GPuhnX8uhWw",
+      "title": "CSS Tutorial for Beginners - 45 - The inline-block",
+      "duration": 196
+    },
+    {
+      "id": "aUDxjDrJL0o",
+      "title": "CSS Tutorial for Beginners - 46 - Web Forms Part 1",
+      "duration": 308
+    },
+    {
+      "id": "Rfdj57trRq4",
+      "title": "CSS Tutorial for Beginners - 47 - Web Forms Part 2",
+      "duration": 411
+    },
+    {
+      "id": "QbpUgzOHRQo",
+      "title": "CSS Tutorial for Beginners - 48 - Review and descendant selector - Selectors Part 1",
+      "duration": 263
+    },
+    {
+      "id": "kaYQ9n8aRkg",
+      "title": "CSS Tutorial for Beginners - 49 - Child selectors - Selectors Part 2",
+      "duration": 223
+    },
+    {
+      "id": "lLj1CfhEXws",
+      "title": "CSS Tutorial for Beginners - 50 - Strategies - Selectors Part 3",
+      "duration": 210
+    },
+    {
+      "id": "kb8YNwUYPGc",
+      "title": "CSS Tutorial for Beginners - 51 - Sibling selector - Selectors Part 4",
+      "duration": 193
+    },
+    {
+      "id": "LKzc60DMy4A",
+      "title": "CSS Tutorial for Beginners - 52 - Attribute Selector - Selectors Part 5",
+      "duration": 276
+    },
+    {
+      "id": "8ltqU8rBM8Y",
+      "title": "CSS Tutorial for Beginners - 53 - nth child Selector - Selectors Part 6",
+      "duration": 196
+    },
+    {
+      "id": "WT46ES9ZDC4",
+      "title": "CSS Tutorial for Beginners - 54 - not Selector - Selectors Part 7",
+      "duration": 173
+    },
+    {
+      "id": "osDhqRznpVo",
+      "title": "CSS Tutorial for Beginners - 55 - first Selector - Selectors Part 8",
+      "duration": 127
+    },
+    {
+      "id": "KPfak1k4Mgo",
+      "title": "CSS Tutorial for Beginners - 56 - Opacity property Part 1 - Working against a DIV",
+      "duration": 201
+    },
+    {
+      "id": "n-pFwN16dr8",
+      "title": "CSS Tutorial for Beginners - 57 - Linear gradients",
+      "duration": 362
+    },
+    {
+      "id": "2AJEQDBJxNE",
+      "title": "CSS Tutorial for Beginners - 58 - Lets combine opacity and gradient",
+      "duration": 243
+    },
+    {
+      "id": "CYHvB1p38FU",
+      "title": "CSS Tutorial for Beginners - 59 - text shadow",
+      "duration": 287
+    },
+    {
+      "id": "6kxNaKhn0Oc",
+      "title": "CSS Tutorial for Beginners - 60 - box shadow",
+      "duration": 178
+    },
+    {
+      "id": "zO4DFCjgdx0",
+      "title": "CSS Layout Tutorial - 01 - Introduction",
+      "duration": 156
+    },
+    {
+      "id": "u_fTLMswhZw",
+      "title": "CSS Layout Tutorial - 02 - Styling the body",
+      "duration": 333
+    },
+    {
+      "id": "cqTNHMipvhM",
+      "title": "CSS Layout Tutorial - 03 - Adding header and navigation section",
+      "duration": 326
+    },
+    {
+      "id": "gG2_M3JGEf0",
+      "title": "CSS Layout Tutorial - 04 - Adding the main content section",
+      "duration": 338
+    },
+    {
+      "id": "qmqD4aTv18Q",
+      "title": "CSS Layout Tutorial - 05 - Adding the sidebar",
+      "duration": 527
+    },
+    {
+      "id": "1GNGtLbRyI4",
+      "title": "CSS Layout Tutorial - 06 - Adding additional content panels",
+      "duration": 243
+    },
+    {
+      "id": "w4x3tRr5cx4",
+      "title": "CSS Layout Tutorial - 07 - Image sidebar",
+      "duration": 196
+    },
+    {
+      "id": "cIMydJw0xxw",
+      "title": "CSS Layout Tutorial - 08 - Add effects to the Image sidebar",
+      "duration": 196
+    },
+    {
+      "id": "1t6BP_u52Ik",
+      "title": "CSS Layout Tutorial - 09 - Adding the footer",
+      "duration": 234
+    },
+    {
+      "id": "ZiOO-e76ToA",
+      "title": "CSS Layout Tutorial - 10 - Organizing the stylesheet",
+      "duration": 253
+    },
+    {
+      "id": "SO19MuWuxfU",
+      "title": "CSS Layout Tutorial - 11 - Navigation bar and buttons",
+      "duration": 290
+    },
+    {
+      "id": "552fTCIzOyc",
+      "title": "CSS Layout Tutorial - 12 - Finishing the buttons",
+      "duration": 228
+    },
+    {
+      "id": "S7-DaHRsLG8",
+      "title": "CSS Layout Tutorial - 13 - Working in the header",
+      "duration": 213
+    },
+    {
+      "id": "kpq9M3Nnwb0",
+      "title": "CSS Layout Tutorial - 14 - Working in the footer",
+      "duration": 328
+    },
+    {
+      "id": "wpuwU7MwKVI",
+      "title": "CSS Layout Tutorial - 15 - Source control",
+      "duration": 196
+    },
+    {
+      "id": "-6YZD0aai0U",
+      "title": "CSS Layout Tutorial - 16 - The Fixed Layout",
+      "duration": 236
+    },
+    {
+      "id": "Yt6tMzQIGGA",
+      "title": "CSS Layout Tutorial - 17 - The Fixed Layout Part 2",
+      "duration": 224
+    },
+    {
+      "id": "bP3nckT2Muc",
+      "title": "CSS Layout Tutorial - 18 - The Fixed Layout Part 3",
+      "duration": 430
+    },
+    {
+      "id": "Wa_QmxwpFC8",
+      "title": "CSS Layout Tutorial - 19 - Adding a logo to the layout",
+      "duration": 340
+    },
+    {
+      "id": "3SFRSrPDwiw",
+      "title": "CSS Layout Tutorial - 20 - Media queries",
+      "duration": 297
+    },
+    {
+      "id": "1DtH6icymR8",
+      "title": "CSS Layout Tutorial - 21 - Media queries Part 2",
+      "duration": 214
+    },
+    {
+      "id": "xEyerXP2UF8",
+      "title": "CSS Layout Tutorial - 22 - Media queries Part 3",
+      "duration": 303
+    },
+    {
+      "id": "9_ffVe4d6e4",
+      "title": "CSS Layout Tutorial - 23 - Media queries Part 4",
+      "duration": 215
+    },
+    {
+      "id": "MaDGbjuLH4I",
+      "title": "CSS Layout Tutorial - 24 - The next step",
+      "duration": 40
+    },
+    {
+      "id": "byeB0aQAEhQ",
+      "title": "CSS Grid Tutorial - 1 - First setup",
+      "duration": 546
+    },
+    {
+      "id": "rrr5k8z6UUI",
+      "title": "CSS Grid Tutorial - 2 - Add first section",
+      "duration": 319
+    },
+    {
+      "id": "VE4zu5AmoN0",
+      "title": "CSS Grid Tutorial - 3 - Add more sections",
+      "duration": 173
+    },
+    {
+      "id": "93t0FxRwv2Q",
+      "title": "CSS Grid Tutorial - 4 - Adding a stop line",
+      "duration": 158
+    },
+    {
+      "id": "qtlEFzYd_-I",
+      "title": "CSS Grid Tutorial - 5 - Automatically add rows",
+      "duration": 143
+    },
+    {
+      "id": "TLV4IQ3dzww",
+      "title": "CSS Grid Tutorial - 6 - Column shortcut",
+      "duration": 194
+    },
+    {
+      "id": "ySoU3wOuAKM",
+      "title": "CSS Grid Tutorial - 7 - Nesting grids",
+      "duration": 269
+    },
+    {
+      "id": "cthpebQZtmA",
+      "title": "CSS Grid Tutorial - 8 - Nesting with images",
+      "duration": 92
+    },
+    {
+      "id": "L5TxMwvKB38",
+      "title": "CSS Flexbox Tutorial - 1 - Setting up the layout",
+      "duration": 272
+    },
+    {
+      "id": "hIwQGVdk34g",
+      "title": "CSS Flexbox Tutorial - 2 - Flex direction property",
+      "duration": 144
+    },
+    {
+      "id": "ft5Dy9DfyRM",
+      "title": "CSS Flexbox Tutorial - 3 - Order property",
+      "duration": 164
+    },
+    {
+      "id": "_VgAoF_6uaI",
+      "title": "CSS Flexbox Tutorial - 4 - Flex grow property",
+      "duration": 165
+    },
+    {
+      "id": "xxhZiYVMDGE",
+      "title": "CSS Flexbox Tutorial - 5 - Justify content and align self",
+      "duration": 217
+    },
+    {
+      "id": "z64sD4A-pLA",
+      "title": "CSS Flexbox Tutorial - 6 - Wrapping",
+      "duration": 129
+    },
+    {
+      "id": "6hvjuPOJ3Ow",
+      "title": "CSS Flexbox Tutorial - 7 - Flex Shrink",
+      "duration": 136
+    },
+    {
+      "id": "YHA_pH_m8PE",
+      "title": "CSS Flexbox Tutorial - 8 - Flex Basis",
+      "duration": 206
+    },
+    {
+      "id": "Z-RrvFqUSSI",
+      "title": "CSS Flexbox Tutorial - 9 - Layout Part 1",
+      "duration": 282
+    },
+    {
+      "id": "OL-bzcD__xs",
+      "title": "CSS Flexbox Tutorial - 10 - Layout Part 2 - Adding a line break",
+      "duration": 168
+    },
+    {
+      "id": "pXifuAVNZRk",
+      "title": "CSS Flexbox Tutorial - 11 - Layout Part 3",
+      "duration": 329
+    },
+    {
+      "id": "ULehK4BRKUI",
+      "title": "CSS Flexbox Tutorial - 12 - Layout Part 4",
+      "duration": 371
+    },
+    {
+      "id": "gbCB_toJH0o",
+      "title": "CSS Tutorial for Beginners - !important rule",
+      "duration": 209
+    },
+    {
+      "id": "2SxlXE-x7RY",
+      "title": "CSS Tutorial for Beginners - max-width property",
+      "duration": 144
+    },
+    {
+      "id": "_qEPQEnH2Jk",
+      "title": "CSS Tutorial for Beginners - Difference between hidden and none",
+      "duration": 156
+    },
+    {
+      "id": "HtXPPbXJBds",
+      "title": "CSS Tutorial for Beginners - Clear property",
+      "duration": 206
+    },
+    {
+      "id": "Cu9Csqlr0oA",
+      "title": "CSS ROOT pseudo-class selector",
+      "duration": 210
+    },
+    {
+      "id": "UEWmOuwdyJ0",
+      "title": "CSS Variables Tutorial",
+      "duration": 313
+    },
+    {
+      "id": "PXRePMGhUeU",
+      "title": "CSS Animation Tutorial",
+      "duration": 320
+    }
+  ]
+}

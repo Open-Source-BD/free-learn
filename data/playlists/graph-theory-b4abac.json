@@ -1,0 +1,205 @@
+{
+  "courseId": "graph-theory-b4abac",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZ6w_oR8t_Pw4P3t5be9WMhj1ISH7yFWI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:48.888Z",
+  "title": "Graph Theory",
+  "channel": "Graph Theory",
+  "videos": [
+    {
+      "id": "HvFyVSSwF14",
+      "title": "Eulerian and Hamiltonian Graph",
+      "duration": 2176
+    },
+    {
+      "id": "H8aPbP86WyE",
+      "title": "Eulerian and Hamiltonian Graph 1",
+      "duration": 1523
+    },
+    {
+      "id": "bywhe9rSLsw",
+      "title": "Basic Concepts 1",
+      "duration": 2117
+    },
+    {
+      "id": "E40r8DWgG40",
+      "title": "Basic Concepts",
+      "duration": 1930
+    },
+    {
+      "id": "kKoIABvlmfY",
+      "title": "Bipartite Graph",
+      "duration": 1786
+    },
+    {
+      "id": "ryzPoDr2KPs",
+      "title": "Bipartite Graph (Contd)",
+      "duration": 2036
+    },
+    {
+      "id": "A68kxz0-Smo",
+      "title": "Diameter of a graph; Isomorphic graphs",
+      "duration": 2127
+    },
+    {
+      "id": "5m2UWlqy6ww",
+      "title": "Diameter of a graph; Isomorphic graphs (Contd)",
+      "duration": 1668
+    },
+    {
+      "id": "aZLEdFGCzNI",
+      "title": "Minimum Spanning Tree",
+      "duration": 1776
+    },
+    {
+      "id": "6h71scZGIRo",
+      "title": "Minimum Spanning Trees (Cont.)",
+      "duration": 1877
+    },
+    {
+      "id": "ujkLHcu4NKU",
+      "title": "Minimum Spanning Trees (Cont 1)",
+      "duration": 1868
+    },
+    {
+      "id": "p19F-wrsC1M",
+      "title": "Minimum Spanning Trees (Cont 2)",
+      "duration": 1813
+    },
+    {
+      "id": "DVq5Vju9Cd0",
+      "title": "Maximum Matching in Bipartite Graph",
+      "duration": 2312
+    },
+    {
+      "id": "L5zUCfYSudI",
+      "title": "Maximum Matching in Bipartite Graph 1",
+      "duration": 1257
+    },
+    {
+      "id": "ezmES9Gy_GU",
+      "title": "Hall's Theorem and Konig's Theorem",
+      "duration": 1945
+    },
+    {
+      "id": "q5Uw2247hwg",
+      "title": "Hall's Theorem and Konig's Theorem 1",
+      "duration": 1906
+    },
+    {
+      "id": "8kV2vNw2E5w",
+      "title": "Independent Set and Edge Cover",
+      "duration": 1553
+    },
+    {
+      "id": "NPY8GundW8w",
+      "title": "Independent Set and Edge Cover 1",
+      "duration": 2124
+    },
+    {
+      "id": "YpCgr_rRrZ0",
+      "title": "Matching in General Graphs",
+      "duration": 2177
+    },
+    {
+      "id": "bxpAtN26j5Q",
+      "title": "Proof of Halls Theorem",
+      "duration": 1923
+    },
+    {
+      "id": "suVFCfORwEY",
+      "title": "Stable Matching",
+      "duration": 1872
+    },
+    {
+      "id": "cUN_ayW0DYw",
+      "title": "Gale-Shapley Algorithm",
+      "duration": 2083
+    },
+    {
+      "id": "gx8YqmRCmMY",
+      "title": "Graph Connectivity",
+      "duration": 2270
+    },
+    {
+      "id": "7pdDE5REps4",
+      "title": "Graph Connectivity 1",
+      "duration": 1721
+    },
+    {
+      "id": "tJTPRHJ_AxI",
+      "title": "2-Connected Graphs",
+      "duration": 1909
+    },
+    {
+      "id": "OLIIa3uHwIA",
+      "title": "2-Connected Graphs 1",
+      "duration": 1853
+    },
+    {
+      "id": "4Ih2oud8lYc",
+      "title": "Subdivision of an edge; 2-edge-connected graphs",
+      "duration": 1958
+    },
+    {
+      "id": "vxGSRCPRlYo",
+      "title": "Problems Related to Graphs Connectivity",
+      "duration": 2052
+    },
+    {
+      "id": "g4EjcsU5m1U",
+      "title": "Flow Network",
+      "duration": 1862
+    },
+    {
+      "id": "ofx8Z4vrMAU",
+      "title": "Residual Network and Augmenting Path",
+      "duration": 1944
+    },
+    {
+      "id": "GZ2zvbPsiuw",
+      "title": "Augmenting Path Algorithm",
+      "duration": 1716
+    },
+    {
+      "id": "w5NHklNhvww",
+      "title": "Max-Flow and Min-Cut",
+      "duration": 1815
+    },
+    {
+      "id": "slH775rSZlQ",
+      "title": "Max-Flow and Min-Cut Theorem",
+      "duration": 3089
+    },
+    {
+      "id": "juNN_GK6jGU",
+      "title": "Vertex Colouring",
+      "duration": 2045
+    },
+    {
+      "id": "13XYExNAhQ8",
+      "title": "Chromatic Number and Max. Degree",
+      "duration": 1967
+    },
+    {
+      "id": "YSSGmJwQSq0",
+      "title": "Edge Colouring",
+      "duration": 1720
+    },
+    {
+      "id": "K9OkOIykld0",
+      "title": "Planar Graphs & Euler's Formula",
+      "duration": 1898
+    },
+    {
+      "id": "KbSC2RuQMmc",
+      "title": "Characterization Of Planar Graphs",
+      "duration": 1914
+    },
+    {
+      "id": "sC7XFUArWVs",
+      "title": "Colouring of Planar Graphs",
+      "duration": 1777
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "courseId": "essential-nextjs-typescript-tailwind-stack-306d50",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:57.910Z",
+  "title": "Essential NextJs Typescript Tailwind",
+  "channel": "Abui",
+  "videos": [
+    {
+      "id": "zQnBQ4tB3ZA",
+      "title": "TypeScript in 100 Seconds",
+      "duration": 145
+    },
+    {
+      "id": "Sklc_fQBmcs",
+      "title": "Next.js in 100 Seconds // Plus Full Beginner's Tutorial",
+      "duration": 712
+    },
+    {
+      "id": "mr15Xzb1Ook",
+      "title": "Tailwind in 100 Seconds",
+      "duration": 141
+    },
+    {
+      "id": "Tn6-PIqc4UM",
+      "title": "React in 100 Seconds",
+      "duration": 128
+    },
+    {
+      "id": "BCg4U1FzODs",
+      "title": "TypeScript Crash Course",
+      "duration": 3147
+    },
+    {
+      "id": "Z5iWr6Srsj8",
+      "title": "React Typescript Tutorial",
+      "duration": 1413
+    }
+  ]
+}

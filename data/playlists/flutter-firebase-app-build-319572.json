@@ -1,0 +1,150 @@
+{
+  "courseId": "flutter-firebase-app-build-319572",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:01.335Z",
+  "title": "Flutter & Firebase App Build",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "sfA3NWDBPZ4",
+      "title": "Flutter & Firebase App Tutorial #1 - Introduction",
+      "duration": 511
+    },
+    {
+      "id": "Wa0rdbb53I8",
+      "title": "Flutter & Firebase App Tutorial #2 - Firebase Setup",
+      "duration": 550
+    },
+    {
+      "id": "z05m8nlPRxk",
+      "title": "Flutter & Firebase App Tutorial #3 - Basic App Structure",
+      "duration": 562
+    },
+    {
+      "id": "mZYuuGAIwe4",
+      "title": "Flutter & Firebase App Tutorial #4 - Firebase Auth",
+      "duration": 654
+    },
+    {
+      "id": "LBJoY4VjECo",
+      "title": "Flutter & Firebase App Tutorial #5 - Anonymous Sign In",
+      "duration": 562
+    },
+    {
+      "id": "PS0b2gJ04Bs",
+      "title": "Flutter & Firebase App Tutorial #6 - Custom User Model",
+      "duration": 443
+    },
+    {
+      "id": "LkpPEYuqbIY",
+      "title": "Flutter & Firebase App Tutorial #7 - Streams",
+      "duration": 469
+    },
+    {
+      "id": "j_SJ7XmT2MM",
+      "title": "Flutter & Firebase App Tutorial #8 - Provider Package",
+      "duration": 476
+    },
+    {
+      "id": "v3sY3RWciNw",
+      "title": "Flutter & Firebase App Tutorial #9 - Signing Out",
+      "duration": 543
+    },
+    {
+      "id": "_SHssHJJhAI",
+      "title": "Flutter & Firebase App Tutorial #10- Sign In & Register Forms",
+      "duration": 698
+    },
+    {
+      "id": "E-DRnRUXcBY",
+      "title": "Flutter & Firebase App Tutorial #11 - Toggle Between Forms",
+      "duration": 577
+    },
+    {
+      "id": "jl5E0UfAGVs",
+      "title": "Flutter & Firebase App Tutorial #12 - Register With Email & Password",
+      "duration": 1080
+    },
+    {
+      "id": "Jy82t4IKJSQ",
+      "title": "Flutter & Firebase App Tutorial #13 - Sign in With Email & Password",
+      "duration": 534
+    },
+    {
+      "id": "sCPS5_ZpJe0",
+      "title": "Flutter & Firebase App Tutorial #14 - Text Input Decoration",
+      "duration": 567
+    },
+    {
+      "id": "Vr_ahm78h_g",
+      "title": "Flutter & Firebase App Tutorial #15 - Loading Widget",
+      "duration": 615
+    },
+    {
+      "id": "mtNA1neFNVo",
+      "title": "Flutter & Firebase App Tutorial #16 - Firestore Database Setup",
+      "duration": 381
+    },
+    {
+      "id": "EA7973HI93E",
+      "title": "Flutter & Firebase App Tutorial #17 - Firestore User Records",
+      "duration": 788
+    },
+    {
+      "id": "10PcEkQsF9Y",
+      "title": "Flutter & Firebase App Tutorial #18 - Firestore Streams",
+      "duration": 731
+    },
+    {
+      "id": "ggYTQn4WVuw",
+      "title": "Flutter & Firebase App Tutorial #19 - Brew Model",
+      "duration": 660
+    },
+    {
+      "id": "TKM6_MTNGsI",
+      "title": "Flutter & Firebase App Tutorial #20 - Listing Brew Data",
+      "duration": 633
+    },
+    {
+      "id": "4QpzUDc-c7A",
+      "title": "Flutter & Firebase App Tutorial #21- Bottom Sheets",
+      "duration": 337
+    },
+    {
+      "id": "hyJ82FH3D5U",
+      "title": "Flutter & Firebase App Tutorial #22 - Drop-downs",
+      "duration": 814
+    },
+    {
+      "id": "9gWYe8xCD5I",
+      "title": "Flutter & Firebase App Tutorial #23 - Sliders",
+      "duration": 457
+    },
+    {
+      "id": "eelKWYwUm5w",
+      "title": "Flutter & Firebase App Tutorial #24 - User Data Model",
+      "duration": 548
+    },
+    {
+      "id": "PT3v28eyOqg",
+      "title": "Flutter & Firebase App Tutorial #25 - Using a Stream Builder",
+      "duration": 555
+    },
+    {
+      "id": "7q22Ydtzoeg",
+      "title": "Flutter & Firebase App Tutorial #26 - Updating User Data",
+      "duration": 602
+    },
+    {
+      "id": "9U1OS_ZNJ5M",
+      "title": "Flutter & Firebase App Tutorial #27 - Finishing Touches",
+      "duration": 332
+    },
+    {
+      "id": "VgvhVRQ_6lQ",
+      "title": "Flutter & Firebase App Tutorial #28 - Testing & Wrap Up",
+      "duration": 288
+    }
+  ]
+}

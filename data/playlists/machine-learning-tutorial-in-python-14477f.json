@@ -1,0 +1,540 @@
+{
+  "courseId": "machine-learning-tutorial-in-python-14477f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:38.571Z",
+  "title": "Machine Learning Tutorial in Python | Edureka",
+  "channel": "edureka!",
+  "videos": [
+    {
+      "id": "GwIo3gDZCVQ",
+      "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
+      "duration": 34712
+    },
+    {
+      "id": "Pj0neYUp9Tc",
+      "title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
+      "duration": 1041
+    },
+    {
+      "id": "AdBKfuYbqu4",
+      "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
+      "duration": 546
+    },
+    {
+      "id": "ahRcGObyEZo",
+      "title": "Top 10 Applications of Machine Learning in 2024 | Machine Learning Application Examples | Edureka",
+      "duration": 839
+    },
+    {
+      "id": "YcUPVziBsMA",
+      "title": "Machine Learning Tutorial | Machine Learning Algorithm | Machine Learning Engineer Program | Edureka",
+      "duration": 2293
+    },
+    {
+      "id": "WSbgixdC9g8",
+      "title": "AI vs Machine Learning vs Deep Learning | AI vs ML vs DL - Differences Explained | Edureka",
+      "duration": 890
+    },
+    {
+      "id": "cA_94ewJloI",
+      "title": "Machine Learning Engineer Career Path in 2021 | Machine Learning Tutorial | Edureka",
+      "duration": 1544
+    },
+    {
+      "id": "Dml0gMJxwWI",
+      "title": "10 Must Have Machine Learning Engineer Skills That Will Get You Hired | ML Engineer Skills | Edureka",
+      "duration": 581
+    },
+    {
+      "id": "uMxQI2tJtKQ",
+      "title": "Machine Learning Engineer Jobs, Resume & Salary | Machine Learning Engineer Salary Report | Edureka",
+      "duration": 1060
+    },
+    {
+      "id": "kHlkRfThMmk",
+      "title": "How to Become a Machine Learning Engineer | Machine Learning Roadmap 2021 | Edureka",
+      "duration": 691
+    },
+    {
+      "id": "n7npKX5zIWI",
+      "title": "Principal Component Analysis in Python | Basics of Principle Component Analysis Explained | Edureka",
+      "duration": 1752
+    },
+    {
+      "id": "N0lxfilGfak",
+      "title": "Python Tutorial for Beginners | Python Programming Language Tutorial | Python Training | Edureka",
+      "duration": 6370
+    },
+    {
+      "id": "0D-PCtUJInE",
+      "title": "Machine Learning with Python Full Course in 6 Hours | Python for Machine Learning Tutorial | Edureka",
+      "duration": 20667
+    },
+    {
+      "id": "onFobjvGgZI",
+      "title": "How Netflix uses Python | Netflix and Python | Python Applications | Edureka",
+      "duration": 527
+    },
+    {
+      "id": "TLdXM0A7SR8",
+      "title": "Python Seaborn Tutorial | Data Visualization in Python Using Seaborn | Edureka",
+      "duration": 1241
+    },
+    {
+      "id": "bwZ3Qiuj3i8",
+      "title": "Scikit Learn Tutorial | Machine Learning with Python | Python for Data Science Training | Edureka",
+      "duration": 2228
+    },
+    {
+      "id": "dVr7r7QgLrk",
+      "title": "Top 10 Python Libraries | Python Certification Training for Data Science | Edureka",
+      "duration": 1910
+    },
+    {
+      "id": "qOraDpY3Ta0",
+      "title": "Top 10 Reasons to Learn Data Science in 2024 | Why Data Science? | Data Science Training | Edureka",
+      "duration": 862
+    },
+    {
+      "id": "1XqG0kaJVHY",
+      "title": "K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Edureka",
+      "duration": 1625
+    },
+    {
+      "id": "VCJdg7YBbAQ",
+      "title": "Logistic Regression in Python | Logistic Regression Example | Machine Learning Algorithms | Edureka",
+      "duration": 3221
+    },
+    {
+      "id": "E5RjzSK0fvY",
+      "title": "Linear Regression Algorithm | Linear Regression in Python | Machine Learning Algorithm | Edureka",
+      "duration": 1716
+    },
+    {
+      "id": "OCwZyYH14uw",
+      "title": "Linear Regression vs Logistic Regression | Data Science Training | Edureka",
+      "duration": 1227
+    },
+    {
+      "id": "e8Yw4alG16Q",
+      "title": "Time Series Analysis in Python | Time Series Forecasting | Data Science with Python | Edureka",
+      "duration": 2300
+    },
+    {
+      "id": "qDcl-FRnwSU",
+      "title": "Decision Tree Algorithm | Decision Tree in Python | Machine Learning Algorithms | Edureka",
+      "duration": 2798
+    },
+    {
+      "id": "NKVOjPHfiSA",
+      "title": "Python Projects For Beginners | Python Projects Examples | Python Tutorial | Edureka",
+      "duration": 1636
+    },
+    {
+      "id": "rwuXmw5hxOU",
+      "title": "Python Certification | Data Science with Python Certification | Python Tutorial | Edureka",
+      "duration": 1386
+    },
+    {
+      "id": "t6gOpFLt-Ks",
+      "title": "Machine Learning Interview Questions and Answers | Machine Learning Interview Preparation | Edureka",
+      "duration": 6264
+    },
+    {
+      "id": "6kZ-OPLNcgE",
+      "title": "KNN Algorithm using Python | How KNN Algorithm works | Python Data Science Training | Edureka",
+      "duration": 1192
+    },
+    {
+      "id": "vz_xuxYS2PM",
+      "title": "Naive Bayes Classifier in Python | Naive Bayes Algorithm | Machine Learning Algorithm | Edureka",
+      "duration": 1819
+    },
+    {
+      "id": "O_B7XLfx0ic",
+      "title": "A Quick Guide To Sentiment Analysis | Sentiment Analysis In Python Using Textblob  |  Edureka",
+      "duration": 460
+    },
+    {
+      "id": "LzaWrmKL1Z4",
+      "title": "Reinforcement Learning Tutorial | Reinforcement Learning Example Using Python | Edureka",
+      "duration": 2773
+    },
+    {
+      "id": "sn4eOEfaYRo",
+      "title": "Python Programming Language: Interesting Facts You Need To Know | Python Training | Edureka",
+      "duration": 126
+    },
+    {
+      "id": "27P268Q7pE0",
+      "title": "Twitter Sentiment Analysis | Sentiment Analysis In Python Using Tweepy and Textblob | Edureka",
+      "duration": 219
+    },
+    {
+      "id": "fplSLR6dSiE",
+      "title": "Machine Learning With Python | Machine Learning Myth Busted | Python Training | Edureka",
+      "duration": 1709
+    },
+    {
+      "id": "GRN_9YkfN5w",
+      "title": "Python Tutorial For Beginners | Python Full Course | Python Programming Tutorial | Edureka",
+      "duration": 4361
+    },
+    {
+      "id": "Mn1AACvK-YI",
+      "title": "PyTorch vs TensorFlow: The Force Is Strong With Which One? | Which One You Should Learn? | Edureka",
+      "duration": 622
+    },
+    {
+      "id": "nNHSlpJMOJs",
+      "title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
+      "duration": 2184
+    },
+    {
+      "id": "tTijEvJqTzI",
+      "title": "Machine Learning Projects | Machine Learning Project Ideas For Beginners | Edureka",
+      "duration": 1738
+    },
+    {
+      "id": "p1ccbR2P_xA",
+      "title": "Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka",
+      "duration": 765
+    },
+    {
+      "id": "xtOg44r6dsE",
+      "title": "Supervised vs Unsupervised vs Reinforcement Learning | Data Science Certification Training | Edureka",
+      "duration": 1165
+    },
+    {
+      "id": "0cSFjaXMHpM",
+      "title": "Data Science vs Machine Learning – What’s The Difference? | Data Science Course | Edureka",
+      "duration": 969
+    },
+    {
+      "id": "gpKzZiUDjxM",
+      "title": "Probabilistic Graphical Models (PGMs) In Python | Graphical Models Tutorial | Edureka",
+      "duration": 1977
+    },
+    {
+      "id": "guVvtZ7ZClw",
+      "title": "Apriori Algorithm Explained | Association Rule Mining | Finding Frequent Itemset | Edureka",
+      "duration": 1107
+    },
+    {
+      "id": "kho6oANGu_A",
+      "title": "Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka",
+      "duration": 1278
+    },
+    {
+      "id": "vaysJAMDaZw",
+      "title": "Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka",
+      "duration": 26014
+    },
+    {
+      "id": "aGu0fbkHhek",
+      "title": "Data Science Full Course | Learn Data Science in 3 Hours | Data Science for Beginners | Edureka",
+      "duration": 10385
+    },
+    {
+      "id": "JMUxmLyrhSk",
+      "title": "Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka",
+      "duration": 17571
+    },
+    {
+      "id": "fiQTb7-rCPo",
+      "title": "Jupyter Notebook Tutorial | Introduction to Jupyter Notebook | Python Training | Edureka",
+      "duration": 1337
+    },
+    {
+      "id": "A6UVS9lcJOY",
+      "title": "Python Developer | How to become Python Developer | Python Tutorial | Edureka",
+      "duration": 1952
+    },
+    {
+      "id": "hjh1ikznScg",
+      "title": "Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Edureka",
+      "duration": 854
+    },
+    {
+      "id": "Zgye7yORtBY",
+      "title": "E & ICT Academy NIT Warangal Partners with edureka! | Post-Graduate Program in AI & Machine Learning",
+      "duration": 76
+    },
+    {
+      "id": "oV74Najm6Nc",
+      "title": "What Is Artificial Intelligence? | Artificial Intelligence (AI) In 10 Minutes | Edureka",
+      "duration": 676
+    },
+    {
+      "id": "WZVAfLreIwM",
+      "title": "Artificial Intelligence Tutorial for Beginners | Artificial Intelligence Explained | Edureka",
+      "duration": 1865
+    },
+    {
+      "id": "DhdUlDIAG7Y",
+      "title": "Q Learning Explained | Reinforcement Learning Using Python | Q Learning in AI | Edureka",
+      "duration": 1753
+    },
+    {
+      "id": "jgPChUZP57I",
+      "title": "Data Science and Machine Learning for Non Programmers | Data Science for Beginners | Edureka",
+      "duration": 2301
+    },
+    {
+      "id": "v0uVu5__JGg",
+      "title": "Top Machine Learning Tools and Frameworks for Beginners | Machine Learning Tutorial | Edureka",
+      "duration": 723
+    },
+    {
+      "id": "LepMvJdr2-w",
+      "title": "Best Python Libraries For Data Science & Machine Learning | Data Science Python Libraries | Edureka",
+      "duration": 2470
+    },
+    {
+      "id": "pXdum128xww",
+      "title": "Classification in Machine Learning  | Machine Learning Tutorial | Python Training | Edureka",
+      "duration": 2004
+    },
+    {
+      "id": "_ThdIOA9Lbk",
+      "title": "Hill Climbing Algorithm | Hill Climbing in Artificial Intelligence | Data Science Tutorial | Edureka",
+      "duration": 1052
+    },
+    {
+      "id": "ncOirIPHTOw",
+      "title": "Find-S Algorithm in Machine Learning | Machine Learning Algorithms | Edureka",
+      "duration": 830
+    },
+    {
+      "id": "QupMZFeyETM",
+      "title": "Cross-Validation In Machine Learning | ML Fundamentals | Machine Learning Tutorial | Edureka",
+      "duration": 810
+    },
+    {
+      "id": "DIADjJXrgps",
+      "title": "EM Algorithm In Machine Learning | Expectation-Maximization | Machine Learning Tutorial | Edureka",
+      "duration": 889
+    },
+    {
+      "id": "1VSZtNYMntM",
+      "title": "Mathematics for Machine Learning [Full Course] | Essential Math for Machine Learning | Edureka",
+      "duration": 6370
+    },
+    {
+      "id": "Yl8vbEcWxOc",
+      "title": "Bias-Variance In Machine Learning | Bias Variance Trade Off | Machine Learning Training | Edureka",
+      "duration": 551
+    },
+    {
+      "id": "hqY0fTUChuc",
+      "title": "Python for Data Science | How to use Data Science with Python | Data Science using Python | Edureka",
+      "duration": 3698
+    },
+    {
+      "id": "5g1eXmQtl0E",
+      "title": "What Are GANs? | Generative Adversarial Networks Explained | Deep Learning With Python | Edureka",
+      "duration": 853
+    },
+    {
+      "id": "b2q5OFtxm6A",
+      "title": "Machine Learning Crash Course-2 Hours | Learn Machine Learning | Machine Learning Tutorial | Edureka",
+      "duration": 7093
+    },
+    {
+      "id": "m6YjI_nG7VM",
+      "title": "What's New in Pandas 1.0.0 | Python Pandas New Features | Python Training | Edureka",
+      "duration": 928
+    },
+    {
+      "id": "JFB_751d2uc",
+      "title": "Future of AI/ML | Rise Of Artificial Intelligence & Machine Learning | AI and ML Training | Edureka",
+      "duration": 981
+    },
+    {
+      "id": "_Hi6_JQesSQ",
+      "title": "COVID - 19 Outbreak Prediction using Machine Learning | Machine Learning Training | Edureka",
+      "duration": 3666
+    },
+    {
+      "id": "l2AbVQ4GPQ4",
+      "title": "PUBG Data Science Tutorial - Part 2 | PUBG Data Analysis | Data Science Training | Edureka",
+      "duration": 2808
+    },
+    {
+      "id": "N-E2_Lq4Yzs",
+      "title": "PUBG Data Science Tutorial - Part 1 | PUBG Data Analysis | Data Science Training | Edureka",
+      "duration": 3431
+    },
+    {
+      "id": "lncoLfue_Y4",
+      "title": "Stock Prediction using Machine Learning and Python | Machine Learning Training | Edureka",
+      "duration": 1685
+    },
+    {
+      "id": "1xw915rbyG4",
+      "title": "How to Select the Correct Predictive Modeling Technique | Machine Learning Training | Edureka",
+      "duration": 847
+    },
+    {
+      "id": "o81CjXX9Hpw",
+      "title": "Top 10 Machine Learning Trends | Machine Learning in 2020 | Machine Learning Training | Edureka",
+      "duration": 1228
+    },
+    {
+      "id": "nJKxWbQ1jaw",
+      "title": "Machine Learning Python | Machine Learning Algorithms | Python Tutorial | Edureka",
+      "duration": 1392
+    },
+    {
+      "id": "QDH7cwDlixQ",
+      "title": "AIML Facemask Detector | Mask Detection Using OpenCV Python | Data Science Training | Edureka",
+      "duration": 1559
+    },
+    {
+      "id": "4jv1pUrG0Zk",
+      "title": "Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka",
+      "duration": 2802
+    },
+    {
+      "id": "hTS9MhGDlfU",
+      "title": "Fake Job Listing Detection Tutorial | Python Projects | Data Science Training |  Edureka",
+      "duration": 2120
+    },
+    {
+      "id": "ilw2AnNsbIc",
+      "title": "Climate Change Prediction Using Time Series Analysis | Python Projects | Python Training | Edureka",
+      "duration": 1802
+    },
+    {
+      "id": "bZwpXEgG0to",
+      "title": "AI Roadmap For 2021 | Learn AI | Artificial Intelligence Careers | Data Science Training | Edureka",
+      "duration": 1121
+    },
+    {
+      "id": "pMIwu5FwJ78",
+      "title": "ML Model Deployment With Flask On Heroku | How To Deploy Machine Learning Model With Flask | Edureka",
+      "duration": 2344
+    },
+    {
+      "id": "CC8V9cN9TuU",
+      "title": "Machine Learning Road Map | Machine Learning Careers | Machine Learning Training | Edureka",
+      "duration": 910
+    },
+    {
+      "id": "3ZacJ9zRVOU",
+      "title": "Analyzing Recent COVID-19 Trends Using Python | COVID-19 Data Analysis | Python Training | Edureka",
+      "duration": 3857
+    },
+    {
+      "id": "B9bDNp2Zv5k",
+      "title": "Machine Learning Steps | What Is Machine Learning | Machine Learning Training | Edureka",
+      "duration": 1660
+    },
+    {
+      "id": "sfheWK72L74",
+      "title": "Image Processing Tutorial Using Python | Python OpenCV Tutorial | Python Training | Edureka",
+      "duration": 2761
+    },
+    {
+      "id": "7MceDfpnP8k",
+      "title": "Cancer Detection Using Deep Learning | Deep Learning Projects | Deep Learning Training | Edureka",
+      "duration": 5433
+    },
+    {
+      "id": "amt9ZmGofJk",
+      "title": "Plant Leaf Disease Detection GUI | Machine Learning Projects 1 | Machine Learning Training | Edureka",
+      "duration": 1865
+    },
+    {
+      "id": "UQAKwWUYnuI",
+      "title": "House Price Prediction using ML | Machine Learning Projects 2 | Machine Learning Training | Edureka",
+      "duration": 3176
+    },
+    {
+      "id": "Obo-7dvmTQI",
+      "title": "Emoji Prediction using LSTM | Machine Learning Projects 3 | Machine Learning Training | Edureka",
+      "duration": 2034
+    },
+    {
+      "id": "lLy0sRmxVvo",
+      "title": "Color Old Photographs Using Autoencoders | Machine Learning Projects - 4 | ML Training | Edureka",
+      "duration": 2146
+    },
+    {
+      "id": "wZzz9xS5J4k",
+      "title": "Building Document Scanner Using OpenCV | Machine Learning Project 7 | ML Training | Edureka",
+      "duration": 1583
+    },
+    {
+      "id": "ejkRh9obVjk",
+      "title": "Image Classification using CNN | Deep Learning Tutorial | Machine Learning Project 9 | Edureka",
+      "duration": 2642
+    },
+    {
+      "id": "2xqvGZS7NCw",
+      "title": "Cartoon Effect on Image using OpenCV | Machine Learning Project 8 | ML Training | Edureka",
+      "duration": 1348
+    },
+    {
+      "id": "qgfBJjqXudA",
+      "title": "Machine Learning Roadmap | How to become a Machine Learning Engineer  | ML Engineer | Edureka",
+      "duration": 1502
+    },
+    {
+      "id": "7Syfdi6z-d8",
+      "title": "Clustering Algorithms | Data Science Algorithms | Edureka | ML Rewind - 3",
+      "duration": 2127
+    },
+    {
+      "id": "bV3f84Hfh58",
+      "title": "Deploy Machine Learning Model using Amazon SageMaker | Edureka | ML Rewind - 4",
+      "duration": 1948
+    },
+    {
+      "id": "AeRe8YlxPZU",
+      "title": "Mathematics for ML | Edureka | ML Rewind - 5",
+      "duration": 2009
+    },
+    {
+      "id": "134Wp2jzSfc",
+      "title": "Python for Machine Learning |  Data Exploration - Visualization | Edureka | ML Rewind - 3",
+      "duration": 1476
+    },
+    {
+      "id": "vVAd6emOljk",
+      "title": "Data Exploration Vizualisation | Machine Learning Tutorial | | Edureka | ML Rewind - 4",
+      "duration": 1023
+    },
+    {
+      "id": "NWqL3ZccBBM",
+      "title": "Data Cleaning in Machine Learning | Machine Learning Tutorial | | Edureka | ML Rewind - 5",
+      "duration": 1149
+    },
+    {
+      "id": "3M1wUK2zCKY",
+      "title": "Hierarchical Clustering | Agglomerative and Divisive Hierarchical Clustering Explained | Edureka",
+      "duration": 1534
+    },
+    {
+      "id": "N5fSpaaxoZc",
+      "title": "Machine Learning Full Course - 12 Hours | Machine Learning Roadmap [2024] | Edureka",
+      "duration": 42900
+    },
+    {
+      "id": "LzUiKco33E4",
+      "title": "Naive Bayes Classifier Explained | Naive Bayes Algorithm | Edureka | Machine Learning Rewind",
+      "duration": 2810
+    },
+    {
+      "id": "IwPxWmx8lDI",
+      "title": "Machine Learning Engineer Full Course - 12 Hours | Machine Learning Roadmap [2024] | Edureka",
+      "duration": 38694
+    },
+    {
+      "id": "QE4umG6PzT4",
+      "title": "What is MLOps? | MLOps Explained in 15 Minutes | MLOps Tutorial | MLOps Training | Edureka",
+      "duration": 925
+    }
+  ]
+}

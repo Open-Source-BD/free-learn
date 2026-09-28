@@ -1,0 +1,135 @@
+{
+  "courseId": "nptel-cloudcomputing-a76879",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:14.578Z",
+  "title": "NPTEL-CloudComputing",
+  "channel": "Manish Narula",
+  "videos": [
+    {
+      "id": "NzZXz3fJf6o",
+      "title": "Cloud Computing - Overview",
+      "duration": 1499
+    },
+    {
+      "id": "SqG-b5E9vHs",
+      "title": "Cloud Computing - Overview (contd..)",
+      "duration": 1910
+    },
+    {
+      "id": "lOh2x-UACaU",
+      "title": "Cloud Computing - Introduction",
+      "duration": 1847
+    },
+    {
+      "id": "fZ3D6HQrWzs",
+      "title": "Cloud Computing Architecture",
+      "duration": 1816
+    },
+    {
+      "id": "4xrYN2Ecmas",
+      "title": "Cloud Computing Architecture - Deployment Models",
+      "duration": 1786
+    },
+    {
+      "id": "R4spydpBbYk",
+      "title": "Cloud Computing Virtualization",
+      "duration": 1855
+    },
+    {
+      "id": "u6q_hD73qwM",
+      "title": "Cloud Computing XML Basics",
+      "duration": 1897
+    },
+    {
+      "id": "S6REPwyWoxE",
+      "title": "Cloud Computing XML Basics II",
+      "duration": 1517
+    },
+    {
+      "id": "GtJGB1WxRW8",
+      "title": "Cloud Computing Web Services, Service Oriented Architecture",
+      "duration": 1944
+    },
+    {
+      "id": "9Btb72NZwg4",
+      "title": "Service Level Agreement",
+      "duration": 1827
+    },
+    {
+      "id": "HmQhz0DPF9g",
+      "title": "Cloud Economics",
+      "duration": 1925
+    },
+    {
+      "id": "Dr6MSqRFaZQ",
+      "title": "Managing Data",
+      "duration": 2120
+    },
+    {
+      "id": "XWNEhv-b2PM",
+      "title": "Introduction to MapReduce",
+      "duration": 2078
+    },
+    {
+      "id": "R4CUs7I9Irs",
+      "title": "Open Stack",
+      "duration": 1959
+    },
+    {
+      "id": "ATFu-VUrogE",
+      "title": "Cloud Computing Opensource Cloud-Openstack Demo",
+      "duration": 1250
+    },
+    {
+      "id": "TOOSVsxEIpo",
+      "title": "Cloud Computing Opensource Cloud-Openstack Demo",
+      "duration": 1248
+    },
+    {
+      "id": "Mkuf4pTqIdU",
+      "title": "Cloud Computing Case Study with a Commercial Cloud-Microsoft Azure",
+      "duration": 1292
+    },
+    {
+      "id": "jOhZ80XbymI",
+      "title": "Cloud Computing Demo - Microsoft Azure",
+      "duration": 1074
+    },
+    {
+      "id": "FYjXsXdbZTo",
+      "title": "Cloud Computing Case Study - Google Cloud Platform (GCP)",
+      "duration": 1056
+    },
+    {
+      "id": "XTW3ujxnndo",
+      "title": "Cloud Computing Demo - Google Cloud Platform (GCP)",
+      "duration": 1176
+    },
+    {
+      "id": "AvL3bY9tUwI",
+      "title": "Lecture 21: SLA-Tutorial",
+      "duration": 2160
+    },
+    {
+      "id": "JiNgg2dfBhU",
+      "title": "Lecture 22: Economics Tutorial",
+      "duration": 1998
+    },
+    {
+      "id": "ENYSofxVJ1U",
+      "title": "Lecture 23: MapReduce-Tutorial",
+      "duration": 2355
+    },
+    {
+      "id": "Imj8L-po4kw",
+      "title": "Lecture 24: Resource Management - I",
+      "duration": 1903
+    },
+    {
+      "id": "M38DDZvr-YI",
+      "title": "Lecture 25: Resource Management-II",
+      "duration": 1930
+    }
+  ]
+}

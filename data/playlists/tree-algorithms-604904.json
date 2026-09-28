@@ -1,0 +1,50 @@
+{
+  "courseId": "tree-algorithms-604904",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:25.309Z",
+  "title": "Tree Algorithms",
+  "channel": "WilliamFiset",
+  "videos": [
+    {
+      "id": "1XC3p2zBK34",
+      "title": "Introduction to tree algorithms | Graph Theory",
+      "duration": 622
+    },
+    {
+      "id": "0qgaIMqOEVs",
+      "title": "Beginner tree algorithms | Graph Theory",
+      "duration": 594
+    },
+    {
+      "id": "2FFq2_je7Lg",
+      "title": "Rooting a tree | Graph Theory",
+      "duration": 319
+    },
+    {
+      "id": "nzF_9bjDzdc",
+      "title": "Tree center(s) | Graph Theory",
+      "duration": 368
+    },
+    {
+      "id": "OCKvEMF0Xac",
+      "title": "Identifying Isomorphic Trees | Graph Theory",
+      "duration": 673
+    },
+    {
+      "id": "40Jx-at2P5k",
+      "title": "Identifying Isomorphic Trees | Source Code | Graph Theory",
+      "duration": 603
+    },
+    {
+      "id": "sD1IoalFomA",
+      "title": "Lowest Common Ancestor (LCA) Problem | Eulerian path method",
+      "duration": 1022
+    },
+    {
+      "id": "rA7JJG7x9vs",
+      "title": "Lowest Common Ancestor (LCA) Problem |  Source Code",
+      "duration": 413
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "courseId": "php-tutorials-3c3fcc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:10.861Z",
+  "title": "PHP Tutorials",
+  "channel": "Dani Krossing",
+  "videos": [
+    {
+      "id": "qVU3V0A05k8",
+      "title": "1: Introduction to PHP Programming | PHP Tutorial | PHP For Beginners | Learn PHP Programming",
+      "duration": 330
+    },
+    {
+      "id": "mXdpCRgR-xE",
+      "title": "2: Installing A Local Server for PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 498
+    },
+    {
+      "id": "zlCwveRcyKQ",
+      "title": "3: Output In Browser Using PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 408
+    },
+    {
+      "id": "CoorcqbkpI0",
+      "title": "4: How to Create PHP Variables | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 445
+    },
+    {
+      "id": "pHxBA2ZbHis",
+      "title": "5: How to Write Comments in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 126
+    },
+    {
+      "id": "kByr0ifju4k",
+      "title": "6: What Are Internal Functions in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 369
+    },
+    {
+      "id": "ZPM8M9jzjjc",
+      "title": "7: Different Data Types in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 401
+    },
+    {
+      "id": "-nQHIE0LIDE",
+      "title": "8: What Are Arithmetic Operators in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 135
+    },
+    {
+      "id": "RcgUQ6U_HTI",
+      "title": "9: What Are Assignment Operators in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 122
+    },
+    {
+      "id": "wO5b8hcBTLM",
+      "title": "10: What Are Comparison Operators in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 361
+    },
+    {
+      "id": "QqADjSVYcnk",
+      "title": "11: What Are Increment and Decrement Operators in PHP | PHP Tutorial | Learn PHP Programming",
+      "duration": 182
+    },
+    {
+      "id": "mx-1opTTnlk",
+      "title": "12: What Are Logical Operators in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 243
+    },
+    {
+      "id": "K2GYoa1ds7E",
+      "title": "13: Various Conditional Statements in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 282
+    },
+    {
+      "id": "91nge6hHAq8",
+      "title": "14: Switch Statements in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 282
+    },
+    {
+      "id": "d6dnCQS8DCk",
+      "title": "15: Exercise Using PHP | Let's Build a Calculator | PHP Tutorial | Learn PHP Programming",
+      "duration": 861
+    },
+    {
+      "id": "ZFEAwdxH5xM",
+      "title": "16: Exercise Using PHP | Scheduled Message Programming | PHP Tutorial | Learn PHP Programming",
+      "duration": 484
+    },
+    {
+      "id": "Fe0d7BzZOmI",
+      "title": "17: What Is a While Loop in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 290
+    },
+    {
+      "id": "BpHf4MqsoUg",
+      "title": "18: What Is a Do While Loop in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 145
+    },
+    {
+      "id": "A2l7D6i5bRY",
+      "title": "19: How to Create a For Loop in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 221
+    },
+    {
+      "id": "9gfrJfY5IFw",
+      "title": "20: How to Create a Foreach Loop in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 264
+    },
+    {
+      "id": "QCwL0_wSSp4",
+      "title": "21: Using Arrays in PHP to Store Data | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 189
+    },
+    {
+      "id": "uOLGQ9ZoOSc",
+      "title": "22: How to Create Your Own Function in PHP | PHP Tutorial | Learn PHP Programming | PHP Lesson",
+      "duration": 519
+    },
+    {
+      "id": "fMTvi3Rys-o",
+      "title": "23: How to Include Documents in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 421
+    },
+    {
+      "id": "sBfSLbMnId0",
+      "title": "24: Local and Global Scope in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 93
+    },
+    {
+      "id": "MsgJc2Uy-BY",
+      "title": "25: Different Superglobals in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 270
+    },
+    {
+      "id": "pkxqlfLioCk",
+      "title": "26: POST and GET Superglobals in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 299
+    },
+    {
+      "id": "jort8_4U-88",
+      "title": "27: Session and Cookies in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 393
+    },
+    {
+      "id": "3CS-eQdcMLU",
+      "title": "28: How to Start a Session in PHP | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 486
+    },
+    {
+      "id": "u10xZgNpfCQ",
+      "title": "29: How to Create a MySQL Database for PHP | PHP Tutorial | Learn PHP Programming | PHP Lesson",
+      "duration": 337
+    },
+    {
+      "id": "9f_iSpieX6c",
+      "title": "30: Create a MySQL Table in Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 723
+    },
+    {
+      "id": "IQy8SenpdfM",
+      "title": "31: MySQL Insert Into Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 379
+    },
+    {
+      "id": "9MSdCu3Axdo",
+      "title": "32: Select Data From MySQL Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 346
+    },
+    {
+      "id": "5wGDu-aigZs",
+      "title": "33: Update Data From MySQL Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 242
+    },
+    {
+      "id": "uDfO7-ywnL8",
+      "title": "34: Delete Data From MySQL Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 138
+    },
+    {
+      "id": "_yG_RZpWJuI",
+      "title": "35: Set Data Order From MySQL Database | PHP Tutorial | Learn PHP Programming | PHP for Beginners",
+      "duration": 237
+    },
+    {
+      "id": "ILyf16MEvHM",
+      "title": "36: How to connect to a database in PHP | PHP tutorial | Learn PHP programming",
+      "duration": 507
+    },
+    {
+      "id": "0YLJ0uO6n8I",
+      "title": "37: How to show database data on a website using MySQLi | PHP tutorial | Learn PHP programming",
+      "duration": 679
+    },
+    {
+      "id": "XhLAB1wwzNk",
+      "title": "38: Insert data from a website into a database using MySQLi | PHP tutorial | Learn PHP programming",
+      "duration": 848
+    },
+    {
+      "id": "nTgFPcYRkys",
+      "title": "39: Protect your database against SQL injection using MySQLi | PHP tutorial | Learn PHP programming",
+      "duration": 328
+    },
+    {
+      "id": "I4JYwRIjX6c",
+      "title": "40: What are Prepared Statements and how to use them | PHP tutorial | Learn PHP programming",
+      "duration": 1092
+    },
+    {
+      "id": "ZW9HavbryB4",
+      "title": "41: What Are Error Handlers in PHP | PHP Tutorial | Learn PHP Programming",
+      "duration": 820
+    },
+    {
+      "id": "HLx-zbl6siM",
+      "title": "42: How to Display Error Messages Using PHP | PHP Tutorial | Learn PHP Programming",
+      "duration": 1459
+    },
+    {
+      "id": "Qq96ZgiY1dY",
+      "title": "43: Hashing and de-hashing data using PHP | PHP tutorial | Learn PHP programming",
+      "duration": 466
+    },
+    {
+      "id": "LC9GaXkdxF8",
+      "title": "44: (UPDATED VIDEO IN DESC) How To Create A Login System In PHP For Beginners | PHP Tutorial",
+      "duration": 6576
+    },
+    {
+      "id": "vjgafdm4inY",
+      "title": "45: What are arrays used for in PHP - PHP tutorial",
+      "duration": 223
+    },
+    {
+      "id": "MoCJXlOqENk",
+      "title": "46: Insert data into array in PHP - PHP tutorial",
+      "duration": 290
+    },
+    {
+      "id": "gnkI7hIC2RU",
+      "title": "47: Inserting database results into array in PHP - PHP tutorial",
+      "duration": 601
+    },
+    {
+      "id": "GIK28C10GAc",
+      "title": "48: Different types of array in PHP - PHP tutorial",
+      "duration": 154
+    },
+    {
+      "id": "IdB2z5yVVNI",
+      "title": "49: What are associative arrays in PHP - PHP tutorial",
+      "duration": 312
+    },
+    {
+      "id": "YZk0BajPkwM",
+      "title": "50: What are multidimensional arrays in PHP - PHP tutorial",
+      "duration": 278
+    },
+    {
+      "id": "JaRq73y5MJk",
+      "title": "51: Upload Files and Images to Website in PHP | PHP Tutorial | Learn PHP Programming | Image Upload",
+      "duration": 1388
+    },
+    {
+      "id": "y4GxrIa7MiE",
+      "title": "52: How to upload profile images to users using PHP - PHP tutorial",
+      "duration": 3062
+    },
+    {
+      "id": "6KFXlEiNg6M",
+      "title": "53: Delete profile image using PHP - PHP tutorial",
+      "duration": 1357
+    },
+    {
+      "id": "UNAQAHtWDdc",
+      "title": "54: How to delete files from folder - PHP tutorial",
+      "duration": 262
+    },
+    {
+      "id": "q6l7KnRJQJU",
+      "title": "55: Delete more than one file or image in PHP - PHP tutorial",
+      "duration": 916
+    },
+    {
+      "id": "xFS7vbN3CbY",
+      "title": "56: Search for full file name in PHP tutorial - PHP tutorial",
+      "duration": 303
+    },
+    {
+      "id": "lwgG_uIJYQM",
+      "title": "57: How to create a search field with PHP and MySQLi | PHP tutorial | Learn PHP programming",
+      "duration": 2775
+    },
+    {
+      "id": "4q0gYjAVonI",
+      "title": "58: How to Create A PHP Contact Form | PHP Tutorial | Learn PHP Programming | HTML Contact Form",
+      "duration": 883
+    },
+    {
+      "id": "In5NBIRfMrQ",
+      "title": "59: Functions Using Regular Expressions | PHP Tutorial | Learn PHP Programming",
+      "duration": 514
+    },
+    {
+      "id": "DTQDMKx4Rks",
+      "title": "60: Search Patterns Using Regular Expressions | PHP Tutorial | Learn PHP Programming",
+      "duration": 1263
+    },
+    {
+      "id": "Wcp1VAv6IiI",
+      "title": "61: How to Create a Unique String in PHP | Generate a Key | PHP Tutorial | Learn PHP Programming",
+      "duration": 1436
+    },
+    {
+      "id": "zJxCq6D14eM",
+      "title": "62: How to Remove the File Extension and Variables From the URL | Remove .php in URL | PHP Tutorial",
+      "duration": 1195
+    },
+    {
+      "id": "msO37iodcw8",
+      "title": "63: How to Create a PHP Gallery Part 1 | HTML Markup Setup | Upload Image to Website | PHP Tutorial",
+      "duration": 1418
+    },
+    {
+      "id": "sURoBCwk4T4",
+      "title": "64: How to Create a PHP Gallery Part 2 | Database & PHP | Upload Image to Website | PHP Tutorial",
+      "duration": 1658
+    },
+    {
+      "id": "H6GI0IV_bEU",
+      "title": "65: How to Create a PHP Gallery Part 3 | Upload & Display Image on Website Using PHP | PHP Tutorial",
+      "duration": 2044
+    }
+  ]
+}

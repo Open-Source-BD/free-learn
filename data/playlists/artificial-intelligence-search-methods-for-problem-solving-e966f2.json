@@ -1,0 +1,250 @@
+{
+  "courseId": "artificial-intelligence-search-methods-for-problem-solving-e966f2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:24.796Z",
+  "title": "Artificial Intelligence Search Methods For Problem Solving",
+  "channel": "nptelhrd",
+  "videos": [
+    {
+      "id": "XCPZBD9lbVo",
+      "title": "Artificial Intelligence: Introduction",
+      "duration": 3363
+    },
+    {
+      "id": "iF1tOCEXLXY",
+      "title": "Introduction to AI",
+      "duration": 3115
+    },
+    {
+      "id": "ExoluwBk4Xc",
+      "title": "AI Introduction: Philosophy",
+      "duration": 2652
+    },
+    {
+      "id": "zx_oMonGdK4",
+      "title": "AI Introduction",
+      "duration": 3199
+    },
+    {
+      "id": "uUnaBP-9zVI",
+      "title": "Introduction: Philosophy",
+      "duration": 2112
+    },
+    {
+      "id": "52nI2IPyOu8",
+      "title": "State Space Search - Introduction",
+      "duration": 3243
+    },
+    {
+      "id": "TMLyKcBtHuo",
+      "title": "Search - DFS and BFS",
+      "duration": 3251
+    },
+    {
+      "id": "xIEe0yK1VL4",
+      "title": "Search DFID",
+      "duration": 3070
+    },
+    {
+      "id": "dtGRmhZ6Cuo",
+      "title": "Heuristic Search",
+      "duration": 3349
+    },
+    {
+      "id": "ZOvRZ7UJMjk",
+      "title": "Hill climbing",
+      "duration": 2668
+    },
+    {
+      "id": "Fioj-Zx-PHA",
+      "title": "Solution Space Search,Beam Search",
+      "duration": 2560
+    },
+    {
+      "id": "Bk1GmENOvrQ",
+      "title": "TSP Greedy Methods",
+      "duration": 3146
+    },
+    {
+      "id": "wrkMM6a4S-U",
+      "title": "Tabu Search",
+      "duration": 2298
+    },
+    {
+      "id": "dg5zUxdAE_E",
+      "title": "Optimization - I (Simulated Annealing)",
+      "duration": 2893
+    },
+    {
+      "id": "THSNf9mPsmA",
+      "title": "Optimization II (Genetic Algorithms)",
+      "duration": 3219
+    },
+    {
+      "id": "ra13Sv7XZ3M",
+      "title": "Population based methods for Optimization",
+      "duration": 3067
+    },
+    {
+      "id": "V-Yipf9GuH0",
+      "title": "Population Based Methods II",
+      "duration": 3505
+    },
+    {
+      "id": "TWCWuTfOrSo",
+      "title": "Branch and Bound, Dijkstra's Algorithm",
+      "duration": 3367
+    },
+    {
+      "id": "yMcZvZayJUA",
+      "title": "A* Algorithm",
+      "duration": 2972
+    },
+    {
+      "id": "v_No7NEGIKE",
+      "title": "Admissibility of A*",
+      "duration": 3083
+    },
+    {
+      "id": "aqdkuGLXlnI",
+      "title": "A* Monotone Property, Iterative Deeping A*",
+      "duration": 2791
+    },
+    {
+      "id": "EvvSYeI6BaQ",
+      "title": "Recursive Best First Search, Sequence Allignment",
+      "duration": 2986
+    },
+    {
+      "id": "wZQqE-N-VeA",
+      "title": "Pruning the Open and Closed lists",
+      "duration": 3024
+    },
+    {
+      "id": "TYHOvqkm5Zk",
+      "title": "Problem Decomposition with Goal Trees",
+      "duration": 2891
+    },
+    {
+      "id": "6CoX9GmDRhU",
+      "title": "AO* Algorithm",
+      "duration": 2823
+    },
+    {
+      "id": "RuWFxh9aRmc",
+      "title": "Game Playing",
+      "duration": 2647
+    },
+    {
+      "id": "a2tqR2eUlek",
+      "title": "Game Playing- Minimax Search",
+      "duration": 2759
+    },
+    {
+      "id": "0oqhN5tvLgA",
+      "title": "Game Playing - AlphaBeta",
+      "duration": 2866
+    },
+    {
+      "id": "2I9eR3IO6zM",
+      "title": "Game Playing-SSS *",
+      "duration": 3013
+    },
+    {
+      "id": "6kRYg1QVcWo",
+      "title": "Rule Based Systems",
+      "duration": 2852
+    },
+    {
+      "id": "HIA0nevQqoc",
+      "title": "Inference Engines",
+      "duration": 2469
+    },
+    {
+      "id": "XG1sxRcdQZY",
+      "title": "Rete Algorithm",
+      "duration": 2967
+    },
+    {
+      "id": "7lvthOTND_I",
+      "title": "Planning",
+      "duration": 3023
+    },
+    {
+      "id": "UMiO831onfo",
+      "title": "Planning FSSP, BSSP",
+      "duration": 3210
+    },
+    {
+      "id": "nvRmeHykltA",
+      "title": "Goal Stack Planning Sussman's Anomaly",
+      "duration": 3010
+    },
+    {
+      "id": "wt2iN_XrNkk",
+      "title": "Non-linear planning",
+      "duration": 2754
+    },
+    {
+      "id": "3nFFmKtoWYM",
+      "title": "Plan Space Planning",
+      "duration": 3050
+    },
+    {
+      "id": "Ru5c6LamlYM",
+      "title": "GraphPlan",
+      "duration": 2870
+    },
+    {
+      "id": "il20Q5tXp-A",
+      "title": "Mod-01 Lec-39 Constraint Satisfaction Problems",
+      "duration": 3120
+    },
+    {
+      "id": "Y-Abw8Jz4zs",
+      "title": "Mod-01 Lec-40 CSP Continued",
+      "duration": 2964
+    },
+    {
+      "id": "vmCSX4iUB_4",
+      "title": "Mod-01 Lec-41 Knowlege Based Systems",
+      "duration": 3201
+    },
+    {
+      "id": "u1qrVIwijbw",
+      "title": "Mod-01 Lec-42 Knowledge Based Systems PL",
+      "duration": 2979
+    },
+    {
+      "id": "5fZ_RnhvGMQ",
+      "title": "Mod-01 Lec-43 Propositional Logic",
+      "duration": 2936
+    },
+    {
+      "id": "zf1WkHq0k2o",
+      "title": "Mod-01 Lec- 44 Resolution Refutation for PL",
+      "duration": 2459
+    },
+    {
+      "id": "A8OiEf7DxKY",
+      "title": "Mod-01 Lec-45 First Order Logic (FOL)",
+      "duration": 3165
+    },
+    {
+      "id": "RIG4_j4zs2E",
+      "title": "Mod-01 Lec-46 Reasoning in FOL",
+      "duration": 2958
+    },
+    {
+      "id": "i3L4G1ZO7_E",
+      "title": "Mod-01 Lec-47 Backward Chaining",
+      "duration": 3190
+    },
+    {
+      "id": "9rKwn3dI97M",
+      "title": "Mod-01 Lec-48 Resolution for FOL",
+      "duration": 2766
+    }
+  ]
+}

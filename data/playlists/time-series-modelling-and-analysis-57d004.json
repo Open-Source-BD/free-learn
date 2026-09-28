@@ -1,0 +1,170 @@
+{
+  "courseId": "time-series-modelling-and-analysis-57d004",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:56.513Z",
+  "title": "Time Series Modelling and Analysis",
+  "channel": "AIEngineering",
+  "videos": [
+    {
+      "id": "-r7wB9DJtiU",
+      "title": "Time Series Modelling Overview",
+      "duration": 772
+    },
+    {
+      "id": "3sH1kisAK9s",
+      "title": "Time Series Data Analysis and Exploratory Analysis  - A Deep Dive",
+      "duration": 2520
+    },
+    {
+      "id": "GEytNZVjZNU",
+      "title": "Handling Missing Value in Time Series Data using Python",
+      "duration": 1955
+    },
+    {
+      "id": "r71hWIUscV4",
+      "title": "Moving Averages Explained - Time Series Data",
+      "duration": 1794
+    },
+    {
+      "id": "pLHm4cvoZiY",
+      "title": "Time series decomposition and analysis Using Python",
+      "duration": 978
+    },
+    {
+      "id": "rBkqkpl21v8",
+      "title": "Python Functions for Time Series Modeling and Analysis",
+      "duration": 1393
+    },
+    {
+      "id": "2bNeV-6-tWE",
+      "title": "Python Time Series Functions",
+      "duration": 406
+    },
+    {
+      "id": "YNm0h-qZo9g",
+      "title": "Time Series Non Stationary Statistical Test  - KPSS and ADF",
+      "duration": 674
+    },
+    {
+      "id": "MngVV_4l9Po",
+      "title": "End to End Time Series Modeling using Auto ARIMA",
+      "duration": 1665
+    },
+    {
+      "id": "D8CFPyi4ai4",
+      "title": "Time Series Modeling using Facebook Prophet",
+      "duration": 1250
+    },
+    {
+      "id": "XZhPO043lqU",
+      "title": "Multivariate Time Series Modeling using Facebook Prophet",
+      "duration": 1615
+    },
+    {
+      "id": "i4vGKgbtf1U",
+      "title": "Time Series Data Preparation for Deep Learning (LSTM, RNN) models",
+      "duration": 1319
+    },
+    {
+      "id": "4FmVIpcwl4k",
+      "title": "End to End Multivariate Time Series Modeling using LSTM",
+      "duration": 1529
+    },
+    {
+      "id": "xcbj0RE3kfI",
+      "title": "Time Series Forecasting using DeepAR and GluonTS",
+      "duration": 1260
+    },
+    {
+      "id": "iuwcHhGNb8A",
+      "title": "Facebook Prophet - Time Series with Trend and Holiday Modeling",
+      "duration": 1031
+    },
+    {
+      "id": "UhxCsweuKE4",
+      "title": "Multiple Time Series Modeling using Facebook Prophet",
+      "duration": 1247
+    },
+    {
+      "id": "0wfOOl5XtcU",
+      "title": "Anomaly Detection model on Time Series data in Python",
+      "duration": 1648
+    },
+    {
+      "id": "hkXPdkPfgoo",
+      "title": "Anomaly Detection using Isolation Forest - Time Series",
+      "duration": 1304
+    },
+    {
+      "id": "AO8pCAQ0sPw",
+      "title": "Multiple Time Series modeling using Apache Spark and Facebook Prophet",
+      "duration": 1574
+    },
+    {
+      "id": "TpQtD7ONfxQ",
+      "title": "Multivariate Time series using Vector Autoregression (VAR)",
+      "duration": 2082
+    },
+    {
+      "id": "q222maQaPYo",
+      "title": "Autoencoder Explained - Deep Neural Networks",
+      "duration": 600
+    },
+    {
+      "id": "S31E-ftRfQI",
+      "title": "Anomaly Detection with AutoEncoders using Tensorflow",
+      "duration": 1953
+    },
+    {
+      "id": "B_a0K2Uj85Q",
+      "title": "Multiple Time Series using DeepAR and Python",
+      "duration": 1559
+    },
+    {
+      "id": "URUiVD37fns",
+      "title": "Time Series modeling using Auto Time Series",
+      "duration": 1192
+    },
+    {
+      "id": "51Yy11Vy_4Y",
+      "title": "Granger Causality Statistical Test for Time Series",
+      "duration": 1045
+    },
+    {
+      "id": "hJ6sY17a-rI",
+      "title": "Time Series - Handling Data with Regular Gaps using Facebook Prophet",
+      "duration": 1649
+    },
+    {
+      "id": "RhLxLhZ9DsE",
+      "title": "Introduction to Time Series Concepts and Modeling - Webinar",
+      "duration": 4775
+    },
+    {
+      "id": "7WBDi4MvRKY",
+      "title": "Stationarity and Differencing in Time Series",
+      "duration": 1075
+    },
+    {
+      "id": "sr6wmRioQAg",
+      "title": "Timeseries Modelling using AutoML",
+      "duration": 1095
+    },
+    {
+      "id": "5l4Qb6Fy3E0",
+      "title": "Data Analysis and Machine Learning using SQL and Google Data Studio",
+      "duration": 5825
+    },
+    {
+      "id": "XCF-kqCB_vA",
+      "title": "Anomaly detection using Isolation Forest - Contextual Anomalies",
+      "duration": 1872
+    },
+    {
+      "id": "F_gHV-Zq158",
+      "title": "Time Series Data Analysis using SQL",
+      "duration": 1769
+    }
+  ]
+}

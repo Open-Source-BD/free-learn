@@ -1,0 +1,140 @@
+{
+  "courseId": "system-design-d0d0db",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:10.400Z",
+  "title": "System Design Playlist",
+  "channel": "Gaurav Sen",
+  "videos": [
+    {
+      "id": "SqcXvc3ZmRU",
+      "title": "System Design Primer ⭐️: How to start with distributed systems?",
+      "duration": 562
+    },
+    {
+      "id": "xpDnVSmNFX0",
+      "title": "System Design BASICS: Horizontal vs. Vertical Scaling",
+      "duration": 476
+    },
+    {
+      "id": "K0Ta65OqQkY",
+      "title": "What is LOAD BALANCING? ⚖️",
+      "duration": 830
+    },
+    {
+      "id": "zaRkONvyGr8",
+      "title": "What is CONSISTENT HASHING and Where is it used?",
+      "duration": 650
+    },
+    {
+      "id": "oUJbuFMyBDk",
+      "title": "What is a MESSAGE QUEUE and Where is it used?",
+      "duration": 599
+    },
+    {
+      "id": "qYhRvH9tJKw",
+      "title": "What is a MICROSERVICE ARCHITECTURE and what are its advantages?",
+      "duration": 499
+    },
+    {
+      "id": "5faMjKuB9bc",
+      "title": "What is DATABASE SHARDING?",
+      "duration": 536
+    },
+    {
+      "id": "zw7VwIlkPPc",
+      "title": "Caching in distributed systems: A friendly introduction",
+      "duration": 685
+    },
+    {
+      "id": "-BOysyYErLY",
+      "title": "How to avoid a single point of failure in distributed systems ✅",
+      "duration": 394
+    },
+    {
+      "id": "b4_6thkYZXs",
+      "title": "What is a CDN (Content Delivery Network)?",
+      "duration": 343
+    },
+    {
+      "id": "FMhbR_kQeHw",
+      "title": "What is the Publisher Subscriber Model?",
+      "duration": 685
+    },
+    {
+      "id": "rJHTK2TfZ1I",
+      "title": "What's an Event Driven System?",
+      "duration": 899
+    },
+    {
+      "id": "xQnIN9bW0og",
+      "title": "Introduction to NoSQL databases",
+      "duration": 1578
+    },
+    {
+      "id": "_YlYuNMTCc8",
+      "title": "What is an API and how do you design it? 🗒️✅",
+      "duration": 926
+    },
+    {
+      "id": "tndzLznxq40",
+      "title": "System Design: TINDER as a microservice architecture",
+      "duration": 2201
+    },
+    {
+      "id": "QmX2NPkJTKg",
+      "title": "Designing INSTAGRAM: System Design of News Feed",
+      "duration": 1469
+    },
+    {
+      "id": "vvhC64hQZMk",
+      "title": "WHATSAPP System Design: Chat Messaging Systems for Interviews",
+      "duration": 1515
+    },
+    {
+      "id": "x9Hrn0oNmJM",
+      "title": "How NETFLIX onboards new content: Video Processing at scale 🎥",
+      "duration": 644
+    },
+    {
+      "id": "0myM0k1mjZw",
+      "title": "Capacity Planning and Estimation: How much data does YouTube store daily?",
+      "duration": 792
+    },
+    {
+      "id": "_5vrfuwhvlQ",
+      "title": "How databases scale writes: The power of the log ✍️🗒️",
+      "duration": 1042
+    },
+    {
+      "id": "GeGxgmPTe4c",
+      "title": "Distributed Consensus and Data Replication strategies on the server",
+      "duration": 948
+    },
+    {
+      "id": "OcUKFIjhKu0",
+      "title": "Designing a location database: QuadTrees and Hilbert Curves",
+      "duration": 1342
+    },
+    {
+      "id": "m4q7VkgDWrM",
+      "title": "Data Consistency and Tradeoffs in Distributed Systems",
+      "duration": 1542
+    },
+    {
+      "id": "07BVxmVFDGY",
+      "title": "System Design Interview: TikTok architecture with @sudoCODE",
+      "duration": 2735
+    },
+    {
+      "id": "CtmBGH8MkX4",
+      "title": "5 Tips for System Design Interviews",
+      "duration": 499
+    },
+    {
+      "id": "CC-AxHIgBSM",
+      "title": "System Design Walkthrough at InterviewReady - Designed for SDE 1 to SDE 3 Interview Preparation",
+      "duration": 295
+    }
+  ]
+}

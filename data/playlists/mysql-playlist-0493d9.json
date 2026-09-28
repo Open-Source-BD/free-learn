@@ -1,0 +1,65 @@
+{
+  "courseId": "mysql-playlist-0493d9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:25.104Z",
+  "title": "MySQL Playlist",
+  "channel": "Krish Naik",
+  "videos": [
+    {
+      "id": "us1XyayQ6fU",
+      "title": "Tutorial 1- MySQL With Python And Data Science- MySQL Installation Steps",
+      "duration": 822
+    },
+    {
+      "id": "9DwlJSlwvqY",
+      "title": "Tutorial 2-Create and Drop Database and Table-Complete MySQL Tutorial-",
+      "duration": 1373
+    },
+    {
+      "id": "7s0kdfiTLRE",
+      "title": "Tutorial 3-MYSQL NULL Values, UPDATE,DELETE,ALTER Query-Complete MySQL Tutorial",
+      "duration": 938
+    },
+    {
+      "id": "cKNQRAMoQHw",
+      "title": "Tutorial 4- SQL Constraints Part1 - My SQL Complete Playlist",
+      "duration": 1305
+    },
+    {
+      "id": "z-Zg39LzcW8",
+      "title": "Tutorial 5- Primary Key, Foreign Key, Check And Default Constraints-MySQL Complete Playlist",
+      "duration": 1424
+    },
+    {
+      "id": "xDDlB51dX5E",
+      "title": "Tutorial 6- Indexing In MySQL-MySQL Complete Playlist",
+      "duration": 655
+    },
+    {
+      "id": "p7pYiynUNAo",
+      "title": "Tutorial 7- Interview Preparation MySql Views-MySQL Complete Playlist",
+      "duration": 970
+    },
+    {
+      "id": "_OfQeKAUFtA",
+      "title": "Tutorial 8- Discussing All Types Of Joins -MySQL Complete Playlist",
+      "duration": 784
+    },
+    {
+      "id": "vFZ5rtf71WU",
+      "title": "Tutorial 9- MYSQL Stored Procedures -MySQL Complete Playlist",
+      "duration": 601
+    },
+    {
+      "id": "KTdItTJVvFQ",
+      "title": "Interview 1-MySQL Interview Question With Solutions- Solving Queries- Part 2",
+      "duration": 1409
+    },
+    {
+      "id": "nEYdSiKygCI",
+      "title": "Interview 1-MySQL Interview Question With Solutions- Part 1",
+      "duration": 1264
+    }
+  ]
+}

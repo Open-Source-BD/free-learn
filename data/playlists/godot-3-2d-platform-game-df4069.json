@@ -1,0 +1,45 @@
+{
+  "courseId": "godot-3-2d-platform-game-df4069",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:43.276Z",
+  "title": "Godot 3 2D Platformer",
+  "channel": "Heartbeast",
+  "videos": [
+    {
+      "id": "wETY5_9kFtA",
+      "title": "Godot Engine 3 - Platform Game Tutorial",
+      "duration": 1626
+    },
+    {
+      "id": "BfQGXtlmE7k",
+      "title": "Godot Engine 3 - Platformer Game Tutorial P2 - Tiles and Animated Sprites",
+      "duration": 1516
+    },
+    {
+      "id": "ZsP7JDrRTJY",
+      "title": "Godot Engine 3 - Platformer Game Tutorial P3 - Smooth Character Movement",
+      "duration": 962
+    },
+    {
+      "id": "KzLfi0r4Muw",
+      "title": "Godot Engine 3 - Platformer Game Tutorial P4 - Moving Between Levels",
+      "duration": 1158
+    },
+    {
+      "id": "uV5WKocIycY",
+      "title": "Godot Engine 3 - Platformer Game Tutorial P5 - Autotiles",
+      "duration": 1234
+    },
+    {
+      "id": "K-eM2ZLI1q8",
+      "title": "Godot Engine 3 - Platformer Game Tutorial P6 - Parallax Background",
+      "duration": 453
+    },
+    {
+      "id": "sBuJRHvk5sY",
+      "title": "Godot 3 Engine - Platformer Game Tutorial P7 - Menu UI and Signals",
+      "duration": 1243
+    }
+  ]
+}

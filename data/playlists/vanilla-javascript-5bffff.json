@@ -1,0 +1,310 @@
+{
+  "courseId": "vanilla-javascript-5bffff",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:53.701Z",
+  "title": "Vanilla JavaScript",
+  "channel": "Traversy Media",
+  "videos": [
+    {
+      "id": "hdI2bqOjy3c",
+      "title": "JavaScript Crash Course For Beginners",
+      "duration": 6030
+    },
+    {
+      "id": "0ik6X4DJKCc",
+      "title": "JavaScript DOM Crash Course - Part 1",
+      "duration": 2341
+    },
+    {
+      "id": "mPd2aJXCZ2g",
+      "title": "JavaScript DOM Crash Course - Part 2",
+      "duration": 1281
+    },
+    {
+      "id": "wK2cBMcDTss",
+      "title": "JavaScript DOM Crash Course - Part 3",
+      "duration": 2025
+    },
+    {
+      "id": "i37KVt_IcXw",
+      "title": "JavaScript DOM Crash Course - Part 4 [Final Project]",
+      "duration": 1328
+    },
+    {
+      "id": "JaMCxVWtW58",
+      "title": "JavaScript BookList App | No Frameworks",
+      "duration": 3105
+    },
+    {
+      "id": "G1eW3Oi6uoc",
+      "title": "Build A Filterable List With Vanilla JavaScript",
+      "duration": 1066
+    },
+    {
+      "id": "7l-ZAuU8TXc",
+      "title": "Simple Weight Converter App With JavaScript & Bootstrap 4",
+      "duration": 1017
+    },
+    {
+      "id": "rRgD1yVwIvE",
+      "title": "JavaScript Higher Order Functions & Arrays",
+      "duration": 2096
+    },
+    {
+      "id": "vDJpGenyHaA",
+      "title": "JavaScript OOP Crash Course (ES5 & ES6)",
+      "duration": 2421
+    },
+    {
+      "id": "PoRJizFvM7s",
+      "title": "Async JS Crash Course - Callbacks, Promises, Async Await",
+      "duration": 1471
+    },
+    {
+      "id": "82hnvUYY6QA",
+      "title": "AJAX Crash Course (Vanilla JavaScript)",
+      "duration": 4183
+    },
+    {
+      "id": "Oive66jrwBs",
+      "title": "Fetch API Introduction",
+      "duration": 1854
+    },
+    {
+      "id": "ydCSSgwZjzs",
+      "title": "Create a Custom PDF Viewer With JavaScript",
+      "duration": 1707
+    },
+    {
+      "id": "1iysNUrI3lw",
+      "title": "Quick Autocomplete App With JS & JSON",
+      "duration": 1169
+    },
+    {
+      "id": "DIVfDZZeGxM",
+      "title": "Learn JavaScript By Building A Bookmarker Application",
+      "duration": 2730
+    },
+    {
+      "id": "POX3dT-pB4E",
+      "title": "Pure JavaScript Type Writer Effect",
+      "duration": 2185
+    },
+    {
+      "id": "pRiQeo17u6c",
+      "title": "Google Geocode API & JavaScript Tutorial",
+      "duration": 1967
+    },
+    {
+      "id": "Zxf1mnP5zcw",
+      "title": "Google Maps JavaScript API Tutorial",
+      "duration": 1647
+    },
+    {
+      "id": "6ophW7Ask_0",
+      "title": "Create a Modal With HTML, CSS & JavaScript",
+      "duration": 1887
+    },
+    {
+      "id": "wWWNrANNO1k",
+      "title": "Full Screen Responsive Image Slider | No Libraries",
+      "duration": 1915
+    },
+    {
+      "id": "tUE2Nic21BA",
+      "title": "Vanilla JS Number Facts App - Ajax & Fetch",
+      "duration": 1552
+    },
+    {
+      "id": "ZORXxxP49G8",
+      "title": "Text To Speech & Synthesis App - JavaScript & Web Speech API",
+      "duration": 2648
+    },
+    {
+      "id": "K3GfUH7AZKs",
+      "title": "JavaScript Zipcode App Using Fetch & Bulma CSS",
+      "duration": 2100
+    },
+    {
+      "id": "gXux8b3wcYw",
+      "title": "Facebook Login & Graph API | JavaScript SDK",
+      "duration": 2468
+    },
+    {
+      "id": "4YQ4svkETS0",
+      "title": "Simple JavaScript Slideshow In 5 Minutes",
+      "duration": 298
+    },
+    {
+      "id": "7ZO2RTMNSAY",
+      "title": "Full Screen Image Slider With HTML, CSS & JS",
+      "duration": 1646
+    },
+    {
+      "id": "iWUR04B42Hc",
+      "title": "Use Babel & Webpack To Compile ES2015 - ES2017",
+      "duration": 1794
+    },
+    {
+      "id": "afoxd5b0bJo",
+      "title": "Modern Image Gallery With ES6 Vanilla JavaScript",
+      "duration": 1356
+    },
+    {
+      "id": "XP-MRCUPZao",
+      "title": "Animate Your Font Awesome Icons With JavaScript",
+      "duration": 1132
+    },
+    {
+      "id": "VITzIZB-bXU",
+      "title": "Build a Reddit Search App With ES6, Fetch & Parcel",
+      "duration": 2753
+    },
+    {
+      "id": "u3rylF3y3og",
+      "title": "Star Ratings With JavaScript & Font Awesome",
+      "duration": 2039
+    },
+    {
+      "id": "NNpwqrvPyyU",
+      "title": "Responsive Coming Soon Landing Page With Countdown",
+      "duration": 2305
+    },
+    {
+      "id": "C22hQKE_32c",
+      "title": "Drag & Drop With Vanilla JS",
+      "duration": 1140
+    },
+    {
+      "id": "AiTdhLc8JCo",
+      "title": "Fancy Form UI From Scratch -  HTML, CSS3, JS & Sass",
+      "duration": 4223
+    },
+    {
+      "id": "XH7ha_MNnXc",
+      "title": "Build A Pet Find App | JS, Parcel, Babel, Fetch-JSONP",
+      "duration": 2999
+    },
+    {
+      "id": "r-yxNNO1EI8",
+      "title": "YouTube API Project With Authentication",
+      "duration": 3504
+    },
+    {
+      "id": "Yw-SYSG-028",
+      "title": "Build A Speed Typing Game In JavaScript",
+      "duration": 1957
+    },
+    {
+      "id": "fSTQzlprGLI",
+      "title": "Dynamic Landing Page | JavaScript",
+      "duration": 2111
+    },
+    {
+      "id": "WR_pWXJZiRY",
+      "title": "Rock Paper Scissors Game - UI & JavaScript",
+      "duration": 2823
+    },
+    {
+      "id": "duNmhKgtcsI",
+      "title": "JavaScript Password Generator",
+      "duration": 2131
+    },
+    {
+      "id": "a6XIMIKmj9k",
+      "title": "Animated Counter With JavaScript (HTML, CSS)",
+      "duration": 1095
+    },
+    {
+      "id": "PCWaFLy3VUo",
+      "title": "Web Components Crash Course",
+      "duration": 1734
+    },
+    {
+      "id": "8rD9amRSOQY",
+      "title": "Easy Frontend JS Workflow With No Framework",
+      "duration": 1346
+    },
+    {
+      "id": "l-1ZrU6avzI",
+      "title": "Breathe & Relax App - JavaScript & CSS Animations",
+      "duration": 1363
+    },
+    {
+      "id": "W0No1JDc6vE",
+      "title": "Build Minesweeper with JavaScript",
+      "duration": 2886
+    },
+    {
+      "id": "ppcBIHv_ZPs",
+      "title": "Multiplayer Snake Game | JavaScript & Socket.io",
+      "duration": 4685
+    },
+    {
+      "id": "YBtzzVwrTeE",
+      "title": "Build Pac-Man Game With JavaScript",
+      "duration": 6155
+    },
+    {
+      "id": "Dk6Wopar10k",
+      "title": "Vanilla JavaScript Search App | Wikipedia API",
+      "duration": 7991
+    },
+    {
+      "id": "5bxFSOA5JYo",
+      "title": "Build a Touch Slider with HTML, CSS & JavaScript",
+      "duration": 2089
+    },
+    {
+      "id": "QTHRWGn_sJw",
+      "title": "Build a Music Player | Vanilla JavaScript",
+      "duration": 2646
+    },
+    {
+      "id": "JkeyKeK3V24",
+      "title": "Build 5 Projects With HTML, CSS & JavaScript",
+      "duration": 6660
+    },
+    {
+      "id": "wv7pvH1O5Ho",
+      "title": "JavaScript Drag & Drop Sortable List Project",
+      "duration": 3103
+    },
+    {
+      "id": "MO4vEAu3hKE",
+      "title": "Build a Website Accessibility Tester With JavaScript & Pa11y",
+      "duration": 1899
+    },
+    {
+      "id": "qNiUlml9MDk",
+      "title": "Create A Simple JavaScript App to Generate QR Codes",
+      "duration": 2233
+    },
+    {
+      "id": "BI1o2H9z9fo",
+      "title": "Modern JavaScript From The Beginning | First 12 Hours",
+      "duration": 42840
+    },
+    {
+      "id": "Hwyyk1Ueoig",
+      "title": "Tailwind & JavaScript Project - Products Filtering UI",
+      "duration": 2721
+    },
+    {
+      "id": "ui0PmJtKGhQ",
+      "title": "Build A Tesla Car Configurator | Tailwind & Vanilla JavaScript",
+      "duration": 5435
+    },
+    {
+      "id": "V0P3Opf-zUs",
+      "title": "TTS & Translate App | Serverless Functions, Google Translate & Web Speech API",
+      "duration": 2722
+    },
+    {
+      "id": "e-hGCPaRZYk",
+      "title": "Ambient Sound Mixer - JavaScript OOP Project - 3.5+ Hours",
+      "duration": 13213
+    }
+  ]
+}

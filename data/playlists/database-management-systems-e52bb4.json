@@ -1,0 +1,415 @@
+{
+  "courseId": "database-management-systems-e52bb4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:08.212Z",
+  "title": "Database Management Systems",
+  "channel": "IIT Madras - B.S. Degree Programme",
+  "videos": [
+    {
+      "id": "OMHbGm9SQuE",
+      "title": "L1: Course overview with applications prerequisites & structure of database management systems",
+      "duration": 1540
+    },
+    {
+      "id": "BS0-7KJdopY",
+      "title": "L2: Why DBMS? /1 | evolution, importance, & modern applications",
+      "duration": 1738
+    },
+    {
+      "id": "9SrBrnIoCjc",
+      "title": "L3:Why DBMS? /2 | file based data management vs sql databases",
+      "duration": 1743
+    },
+    {
+      "id": "s1Jb-NJNpT4",
+      "title": "L4: Introduction to DBMS/1: data abstraction, schema vs instance & models",
+      "duration": 1468
+    },
+    {
+      "id": "MDQxqYVXiVU",
+      "title": "L5: Introduction to DBMS/2 | data models, architecture & design principles",
+      "duration": 1753
+    },
+    {
+      "id": "B3cCQagcoao",
+      "title": "L6: Introduction to relational model/1 attributes schemas keys",
+      "duration": 1905
+    },
+    {
+      "id": "D8e1-apWxo8",
+      "title": "L7: Introduction to relational model/2 with relational algebra",
+      "duration": 1790
+    },
+    {
+      "id": "Wv6vM5rGCw0",
+      "title": "L8: Introduction to sql/1 | basics of data definition language & data manipulation language",
+      "duration": 1826
+    },
+    {
+      "id": "hEgb_76wz1s",
+      "title": "L9: Introduction to SQL/2 | understanding query structure in DBMS",
+      "duration": 1905
+    },
+    {
+      "id": "AaKMO4-g_zw",
+      "title": "L10: Introduction to sql/3 | advanced sql concepts, set operations",
+      "duration": 1919
+    },
+    {
+      "id": "7yzUtikAvsk",
+      "title": "L11: Binary numbers & character encoding part 1 | basics of binary",
+      "duration": 1448
+    },
+    {
+      "id": "9vD-GAyfmv8",
+      "title": "L12: Binary numbers & character encoding part 2 | ASCII unicode boolean operations",
+      "duration": 771
+    },
+    {
+      "id": "UTvCO2YaPxA",
+      "title": "L13: Running SQL commands in PostgreSQL | beginner guide to psql shell",
+      "duration": 1028
+    },
+    {
+      "id": "j6v3lL5xbao",
+      "title": "L14: SQL examples made easy | introduction to query building",
+      "duration": 1707
+    },
+    {
+      "id": "Pk1j1UE3JLI",
+      "title": "L15: Intermediate sql/1 | data manipulation & nested subqueries",
+      "duration": 1986
+    },
+    {
+      "id": "_-JZS7mqo6k",
+      "title": "L16: Intermediate sql/2 | mastering joins & views",
+      "duration": 1919
+    },
+    {
+      "id": "JtCk6DurR8k",
+      "title": "L17: Intermediate sql/3 | transactions, constraints, data types & authorization",
+      "duration": 1846
+    },
+    {
+      "id": "f0hK7aMloI0",
+      "title": "L18: Advanced sql | functions, procedures & triggers explained",
+      "duration": 1997
+    },
+    {
+      "id": "Y4iDP3E7JxI",
+      "title": "L19: Database triggers explained with case studies | functionality vs performance",
+      "duration": 1111
+    },
+    {
+      "id": "VfQcP-2VdLc",
+      "title": "L20: Formal relational query languages/1: introduction to relational algebra",
+      "duration": 1685
+    },
+    {
+      "id": "WjlbMfEqom8",
+      "title": "L21: Formal relational query languages/2 | tuple relational calculus",
+      "duration": 1840
+    },
+    {
+      "id": "EGAQdgim3IA",
+      "title": "L22: Entity-relationship model/1 | fundamentals of database design & e-r concepts",
+      "duration": 1899
+    },
+    {
+      "id": "Gfcm-A-MpO4",
+      "title": "L23: Entity-relationship model/2 | advanced E-R diagrams & relational schema",
+      "duration": 1754
+    },
+    {
+      "id": "WOWKszMjmgE",
+      "title": "L24: Entity-relationship model/3 | ternary relationships, specialization, and aggregation",
+      "duration": 1920
+    },
+    {
+      "id": "DMiZPUjRls0",
+      "title": "L25: Division operation in SQL with examples",
+      "duration": 920
+    },
+    {
+      "id": "Am4ZVa1Filk",
+      "title": "L26: Relational database design/1 | principles, normalization & first normal form",
+      "duration": 1900
+    },
+    {
+      "id": "iW5C0g8fhx4",
+      "title": "L27: Relational database design/2 | understanding functional dependencies and keys",
+      "duration": 1437
+    },
+    {
+      "id": "gFJuNh63MGw",
+      "title": "L28: Relational database design/3 | functional dependency theory and database normalization",
+      "duration": 2123
+    },
+    {
+      "id": "6AZlp7EcmiQ",
+      "title": "L29: Relational database design/4 | functional dependencies, attribute",
+      "duration": 1836
+    },
+    {
+      "id": "WWI4ACyTneI",
+      "title": "L30: Relational database design/5 | dependency preservation algorithms in relational database",
+      "duration": 1915
+    },
+    {
+      "id": "BQex0zbsMwg",
+      "title": "L31: Relational database design/6 | normal forms in database normalization",
+      "duration": 2071
+    },
+    {
+      "id": "4Vn2-tcg21c",
+      "title": "L32: Relational database design/7 | higher-level normal forms explained",
+      "duration": 1937
+    },
+    {
+      "id": "uOxY9Hn8yz4",
+      "title": "L33: Relational database design/8 | case study in database normalization",
+      "duration": 1887
+    },
+    {
+      "id": "pf7ws6WgklU",
+      "title": "L34: Relational database design/9 | multivalued dependencies (MVD) and Fourth Normal Form (4NF)",
+      "duration": 1920
+    },
+    {
+      "id": "4iOin7ls0Uk",
+      "title": "L35: Relational database design/10 | database design summary and handling temporal data",
+      "duration": 1779
+    },
+    {
+      "id": "yh6yhQj4Ncg",
+      "title": "L36: Application design & development/1 | application architecture and design principles",
+      "duration": 1881
+    },
+    {
+      "id": "Uk8x3XvG3dA",
+      "title": "L37: Application design & development/2 | web applications and database integration",
+      "duration": 1912
+    },
+    {
+      "id": "ElkvZWTN9J8",
+      "title": "L38: Application design & development/3 | sql and native language database connectivity",
+      "duration": 2019
+    },
+    {
+      "id": "uLbMLfUuAxQ",
+      "title": "L39: Application design & development/4| building database applications with python and PostgreSQL",
+      "duration": 1955
+    },
+    {
+      "id": "KgK3Kz8BlmA",
+      "title": "L40: Application design & development/5 | rapid application development and mobile app design",
+      "duration": 1914
+    },
+    {
+      "id": "uqpA6wySe8o",
+      "title": "L41: Algorithms & data structures/1 | algorithms basics & complexity analysis",
+      "duration": 2052
+    },
+    {
+      "id": "vY6MnadNvUk",
+      "title": "L42: Algorithms & data structures/2 | data structures | arrays,queues",
+      "duration": 1791
+    },
+    {
+      "id": "OgXyMwjD6Nk",
+      "title": "L43: Algorithms & data structures/3 | data structures and search techniques",
+      "duration": 1943
+    },
+    {
+      "id": "tbCDTfpOC6Q",
+      "title": "L44: Storage & file structure/1 | physical storage media in database systems",
+      "duration": 1883
+    },
+    {
+      "id": "7Y3z_iqTYbg",
+      "title": "L45: Storage & file structure/2 | file structure | records, slotted pages",
+      "duration": 1900
+    },
+    {
+      "id": "fY-EC1dknnQ",
+      "title": "L46: Indexing & hashing/1 | introduction to indexing in databases",
+      "duration": 1923
+    },
+    {
+      "id": "pZ9aUJUzFhg",
+      "title": "L47: Indexing & hashing/2 | indexing/2 | balanced trees, 2-3-4 trees",
+      "duration": 1972
+    },
+    {
+      "id": "7fhN_zacwK0",
+      "title": "L48: Indexing & hashing/3 | indexing Part 3 | b plus trees, search & insert",
+      "duration": 1924
+    },
+    {
+      "id": "yXK6yYwNJFw",
+      "title": "L49: Indexing & hashing/4 | static hashing, dynamic hashing, and bitmap indices",
+      "duration": 2249
+    },
+    {
+      "id": "oZetRAwYmrw",
+      "title": "L50: Indexing & hashing/5 | index design | locks",
+      "duration": 2037
+    },
+    {
+      "id": "MwdAkFhR_I8",
+      "title": "L51: Transactions/1 | acid & concurrency",
+      "duration": 1589
+    },
+    {
+      "id": "MNXTL69Ud9A",
+      "title": "L52: Transactions/2 | serializability | conflict serializability",
+      "duration": 1828
+    },
+    {
+      "id": "tlnEqRcVB5s",
+      "title": "L53: Transactions/3 | recoverability | tcl, conflict checks",
+      "duration": 1910
+    },
+    {
+      "id": "VcYdCPbyWX0",
+      "title": "L54: Concurrency control/1 | lock-based protocols",
+      "duration": 1839
+    },
+    {
+      "id": "OYbfDSxrEKI",
+      "title": "L55: Concurrency control/2 | techniques & protocols",
+      "duration": 1782
+    },
+    {
+      "id": "7oNFney4vhc",
+      "title": "L56: Backup & recovery/1 | backup/1",
+      "duration": 1733
+    },
+    {
+      "id": "2BkGxLntkBc",
+      "title": "L57: Backup & recovery/2 | recovery/1",
+      "duration": 2281
+    },
+    {
+      "id": "41cWyckqqRc",
+      "title": "L58: Backup & recovery/3 | recovery techniques with logging",
+      "duration": 2023
+    },
+    {
+      "id": "zliL6LlKiNs",
+      "title": "L59: Backup & recovery/4 | logical lndo & early lock release",
+      "duration": 1832
+    },
+    {
+      "id": "YYl4onLINRY",
+      "title": "L60: Backup & recovery/5 | backup/2 | redundant array of independent disks",
+      "duration": 1977
+    },
+    {
+      "id": "VQrqJafvnzY",
+      "title": "L61: Query processing & optimization/1 | processing",
+      "duration": 1963
+    },
+    {
+      "id": "pAonkbv10ak",
+      "title": "L62: Query processing & optimization/2 | query optimization strategies",
+      "duration": 1883
+    },
+    {
+      "id": "MGJaOVjdHvs",
+      "title": "L63: Relational database systems performance & architecture",
+      "duration": 1856
+    },
+    {
+      "id": "sLapLg_dZ9c",
+      "title": "L64: Non-relational database management systems | nosql & cap theorem",
+      "duration": 1956
+    },
+    {
+      "id": "lgiN8paqhjw",
+      "title": "L65: Widely used database management systems & course summarization",
+      "duration": 2042
+    },
+    {
+      "id": "Gd9ZEFy3H-k",
+      "title": "L66: Case study on entity relationship diagram:pharmacy database building design",
+      "duration": 1401
+    },
+    {
+      "id": "w_7Q_P8ODNk",
+      "title": "L67: Translation of entity relation diagram into relational schema",
+      "duration": 2539
+    },
+    {
+      "id": "In_PYLgZvKo",
+      "title": "L68: Entity-relationship model/2 | schema translation",
+      "duration": 1752
+    },
+    {
+      "id": "ZiO7YhTHuyQ",
+      "title": "L69: Application design & development/4 | apps with python & postgresql",
+      "duration": 1955
+    },
+    {
+      "id": "P0SxHRCjlV8",
+      "title": "L70: Algorithms & data structures/2 | data structures",
+      "duration": 1782
+    },
+    {
+      "id": "0B6Yd7RhBX4",
+      "title": "L71: Lossless join decomposition | examples & conditions",
+      "duration": 1154
+    },
+    {
+      "id": "h-SO2pc9_0k",
+      "title": "L72: Dependency presevation",
+      "duration": 1470
+    },
+    {
+      "id": "VC9WPXylUq4",
+      "title": "L73: Closure of attributes | superkeys & functional dependencies",
+      "duration": 634
+    },
+    {
+      "id": "3hCfuG-E0jk",
+      "title": "L74: Super keys & candidate keys",
+      "duration": 914
+    },
+    {
+      "id": "bIUCShynysk",
+      "title": "L75: Indexing & hashing/3 | indexing/3 | b-tree index files",
+      "duration": 1922
+    },
+    {
+      "id": "K8ngtaPkpFU",
+      "title": "L76: DBMS summary tutorial | quick revision tutorial",
+      "duration": 7534
+    },
+    {
+      "id": "CkL5StNIla8",
+      "title": "L77: Tuple relational calculus | non-procedural queries",
+      "duration": 841
+    },
+    {
+      "id": "hEsWAya9PHM",
+      "title": "L78: Canonical cover | simplifying functional dependencies",
+      "duration": 1174
+    },
+    {
+      "id": "cS1hL-TjyA0",
+      "title": "L79: comprehensive case study on entity-relationship (ER) diagrams",
+      "duration": 1394
+    },
+    {
+      "id": "2RyQBcD6kIs",
+      "title": "L80: Multivalued dependency & fourth normal form",
+      "duration": 1622
+    },
+    {
+      "id": "ODqghQdR4KY",
+      "title": "L81: Normalization techniques & problem solving on relational schema",
+      "duration": 530
+    }
+  ]
+}

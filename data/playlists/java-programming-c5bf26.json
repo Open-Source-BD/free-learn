@@ -1,0 +1,515 @@
+{
+  "courseId": "java-programming-c5bf26",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:41.274Z",
+  "title": "Java Complete Tutorial",
+  "channel": "Kody Simpson",
+  "videos": [
+    {
+      "id": "2XE7OWv4Tdg",
+      "title": "Java Tutorial Introduction Video",
+      "duration": 567
+    },
+    {
+      "id": "rrEK9Io97dQ",
+      "title": "Java Tutorial Ep. 0 - Setting Up | Installing Java & IDE",
+      "duration": 985
+    },
+    {
+      "id": "kW5F6qewN_o",
+      "title": "Java Tutorial Ep. 1 - Hello World! | Compiling & Running Java Programs",
+      "duration": 939
+    },
+    {
+      "id": "uQNpfgQf9Eg",
+      "title": "Java Tutorial Ep. 2 - Declaring Variables, Reassigning Variables, Comments, and Naming Conventions",
+      "duration": 1382
+    },
+    {
+      "id": "t9LP9Nt9Nco",
+      "title": "Java Tutorial Ep. 3 - Data Types",
+      "duration": 1298
+    },
+    {
+      "id": "0XMgQG3uUHw",
+      "title": "Java Tutorial Ep. 4 - Strings",
+      "duration": 290
+    },
+    {
+      "id": "EllEZODsdPM",
+      "title": "Java Tutorial Ep. 5 - Type Conversion",
+      "duration": 511
+    },
+    {
+      "id": "H3rmaO01eFU",
+      "title": "Java Tutorial Ep. 6 - Arrays",
+      "duration": 639
+    },
+    {
+      "id": "ipTreKv5MSw",
+      "title": "Java Tutorial Ep. 7 - Arithmetic Operators",
+      "duration": 796
+    },
+    {
+      "id": "qS622HyFXR4",
+      "title": "Java Tutorial Ep. 8 - Boolean Logical Operators",
+      "duration": 453
+    },
+    {
+      "id": "BZbPSpgPsVs",
+      "title": "Java Tutorial Ep. 9 - If Statements | Branching Code",
+      "duration": 1288
+    },
+    {
+      "id": "1VyhV9JdOjE",
+      "title": "Java Complete Tutorial Ep. 10 - Relational Operators",
+      "duration": 395
+    },
+    {
+      "id": "093QFkdyUPs",
+      "title": "Java Complete Tutorial Ep. 11 - Switch Statements",
+      "duration": 724
+    },
+    {
+      "id": "Sri1xJ_Rwkk",
+      "title": "Java Tutorial Ep. 12 - While Loops",
+      "duration": 939
+    },
+    {
+      "id": "NhMm0V7y7G8",
+      "title": "Java Complete Tutorial Ep. 13 - For Loops",
+      "duration": 512
+    },
+    {
+      "id": "al3YWobalqo",
+      "title": "Java Complete Tutorial Ep. 14 - Do-While Loops",
+      "duration": 621
+    },
+    {
+      "id": "VbLvS2Tnnvk",
+      "title": "Java Complete Tutorial Ep. 15 - Multidimensional Arrays",
+      "duration": 832
+    },
+    {
+      "id": "Gh7lqYXqtH8",
+      "title": "Java Complete Tutorial Ep. 16 - Searching an Array",
+      "duration": 409
+    },
+    {
+      "id": "Bpd11CGRXgA",
+      "title": "Java Complete Tutorial Ep. 17 - Classes & Declaring Objects",
+      "duration": 666
+    },
+    {
+      "id": "W7GKpQY_75Y",
+      "title": "Java Complete Tutorial Ep. 18 - Methods",
+      "duration": 878
+    },
+    {
+      "id": "FTOnbtltZbI",
+      "title": "Java Complete Tutorial Ep. 19 - Constructors / Parameterized Constructors",
+      "duration": 693
+    },
+    {
+      "id": "cR_u_u8xfSc",
+      "title": "Java Complete Tutorial Ep. 20 - Getters & Setters + Bank Account",
+      "duration": 818
+    },
+    {
+      "id": "yWOyQ8X2P4w",
+      "title": "Java Complete Tutorial Ep. 21 - Overloading Methods",
+      "duration": 482
+    },
+    {
+      "id": "-SOAfDRRd48",
+      "title": "Java Complete Tutorial Ep. 22 - Using Objects as Parameters",
+      "duration": 699
+    },
+    {
+      "id": "JymFyBSTco0",
+      "title": "Java Complete Tutorial Ep. 23 - Returning Objects",
+      "duration": 385
+    },
+    {
+      "id": "LVq1hHzhV2w",
+      "title": "Java Complete Tutorial Ep. 24 - Inheritance",
+      "duration": 925
+    },
+    {
+      "id": "VZ8_KWXF5NA",
+      "title": "Java Complete Tutorial Ep. 25 - super keyword",
+      "duration": 764
+    },
+    {
+      "id": "laj9p9jBZAc",
+      "title": "Java Complete Tutorial Ep. 26 - Encapsulation",
+      "duration": 417
+    },
+    {
+      "id": "-EZQLpVFDro",
+      "title": "Java Complete Tutorial Ep. 27 - Static & Final keywords",
+      "duration": 631
+    },
+    {
+      "id": "47O7kYtzE6w",
+      "title": "Java Complete Tutorial Ep. 28 - Overriding Methods",
+      "duration": 410
+    },
+    {
+      "id": "GObqHqB2GdU",
+      "title": "Java Complete Tutorial Ep. 29 - Abstract Classes & Methods",
+      "duration": 457
+    },
+    {
+      "id": "LPGS98zQpF8",
+      "title": "Java Complete Tutorial Ep. 30 - Packages",
+      "duration": 1044
+    },
+    {
+      "id": "aB1y2FoDce8",
+      "title": "Java Complete Tutorial Ep. 31 - Interfaces",
+      "duration": 1134
+    },
+    {
+      "id": "Uo74nQN-8NE",
+      "title": "Java Complete Tutorial Ep. 32 - Default Methods (JDK 8+)",
+      "duration": 351
+    },
+    {
+      "id": "LOqbHhMIshI",
+      "title": "Java Complete Tutorial Ep. 33 - Static & Private Interface Methods",
+      "duration": 387
+    },
+    {
+      "id": "hyG1LgThroI",
+      "title": "Java Complete Tutorial Ep. 34 - Exceptions",
+      "duration": 415
+    },
+    {
+      "id": "moJSLSGdodg",
+      "title": "Java Complete Tutorial Ep. 35 - Try and Catch",
+      "duration": 660
+    },
+    {
+      "id": "Vh0JK5cJMFc",
+      "title": "Java Complete Tutorial Ep. 36 - Throw Keyword",
+      "duration": 708
+    },
+    {
+      "id": "PVPwR5FhxVM",
+      "title": "Java Complete Tutorial Ep. 37 - Throws Keyword",
+      "duration": 255
+    },
+    {
+      "id": "ddiVqBalePs",
+      "title": "Java Complete Tutorial Ep. 38 - Finally Keyword",
+      "duration": 209
+    },
+    {
+      "id": "mGcNuThq0bM",
+      "title": "Java Complete Tutorial Ep. 39 - Multithreaded Programming",
+      "duration": 388
+    },
+    {
+      "id": "eBbw-l-OGo4",
+      "title": "Java Complete Tutorial Ep. 40 - Main Thread",
+      "duration": 377
+    },
+    {
+      "id": "lFtLufVOnmo",
+      "title": "Java Complete Tutorial Ep. 41 - Creating Threads",
+      "duration": 788
+    },
+    {
+      "id": "uLoVcZXsoX0",
+      "title": "Java Complete Tutorial Ep. 42 - Creating Multiple Threads",
+      "duration": 378
+    },
+    {
+      "id": "wuSz7w3SjXU",
+      "title": "Java Complete Tutorial Ep. 43 - isAlive() and join()",
+      "duration": 552
+    },
+    {
+      "id": "W6OOoPbEe-0",
+      "title": "Java Complete Tutorial Ep. 44 - Synchronized Methods",
+      "duration": 662
+    },
+    {
+      "id": "GVHSx83HjSk",
+      "title": "Java Complete Tutorial Ep. 45 - Synchronized Statements",
+      "duration": 164
+    },
+    {
+      "id": "O2q8UEkWIuU",
+      "title": "Java Complete Tutorial Ep. 46 - Interthread Communication",
+      "duration": 1114
+    },
+    {
+      "id": "2138NR4csC4",
+      "title": "Java Complete Tutorial Ep. 47 - Suspending Threads",
+      "duration": 700
+    },
+    {
+      "id": "FJXMEh301HI",
+      "title": "Java Complete Tutorial Ep. 48 - Enumerations",
+      "duration": 692
+    },
+    {
+      "id": "NKtMt_HIwVI",
+      "title": "Java Complete Tutorial Ep. 49 - Enumerations as Classes",
+      "duration": 680
+    },
+    {
+      "id": "gAu7pUJsIL8",
+      "title": "Java Complete Tutorial Ep. 50 - Type Wrappers",
+      "duration": 559
+    },
+    {
+      "id": "2Zm69aqPn7A",
+      "title": "Java Complete Tutorial Ep. 51 - Autoboxing (JDK 9+)",
+      "duration": 758
+    },
+    {
+      "id": "WAWlFlQgbT0",
+      "title": "Java Complete Tutorial Ep. 52 - Reading Input(BufferedReader)",
+      "duration": 1029
+    },
+    {
+      "id": "_CAbm7Gma7Y",
+      "title": "Java Complete Tutorial Ep. 53 - Reading Lines of Input",
+      "duration": 808
+    },
+    {
+      "id": "2Ya1Db9P2cE",
+      "title": "Java Complete Tutorial Ep. 54 - Reading Input from Files(FileInputStream)",
+      "duration": 1076
+    },
+    {
+      "id": "tJHV5kZiPR0",
+      "title": "Java Complete Tutorial Ep. 55 - Writing Output to Files(FileOutputStream)",
+      "duration": 1143
+    },
+    {
+      "id": "-y7DWd08cX8",
+      "title": "Java Complete Tutorial Ep. 56 - Automatically Closing File Streams (Try-With-Resources)",
+      "duration": 468
+    },
+    {
+      "id": "ruJWwP8cUrI",
+      "title": "Java Complete Tutorial Ep. 57 - Generics Introduction",
+      "duration": 1199
+    },
+    {
+      "id": "ewDKIj5fZ7U",
+      "title": "Java Complete Tutorial Ep. 58 - Multiple-Parameter Generic Classes",
+      "duration": 403
+    },
+    {
+      "id": "D2vK1T1bw90",
+      "title": "Java Complete Tutorial Ep. 59 - Bounded Type Parameters",
+      "duration": 587
+    },
+    {
+      "id": "UFv4PcwzcsI",
+      "title": "Java Complete Tutorial Ep. 60 - Generic Methods & Constructors",
+      "duration": 853
+    },
+    {
+      "id": "tv7WcVqJ8X0",
+      "title": "Java Complete Tutorial Ep. 61 - Lambda Expressions",
+      "duration": 821
+    },
+    {
+      "id": "hovBaeOIuVY",
+      "title": "Java Complete Tutorial Ep. 62 - Lambda Block Expressions",
+      "duration": 547
+    },
+    {
+      "id": "wf2ZM2uA9xE",
+      "title": "Java Complete Tutorial Ep. 63 - Generic Functional Interfaces & Lambdas",
+      "duration": 564
+    },
+    {
+      "id": "47QO3BAyh9o",
+      "title": "Java Complete Tutorial Ep. 64 - Using Lambdas as Parameters",
+      "duration": 793
+    },
+    {
+      "id": "LLuMW6d9z6I",
+      "title": "Java Complete Tutorial Ep. 65 - Lambdas with Exceptions",
+      "duration": 430
+    },
+    {
+      "id": "um8GVlfmTH8",
+      "title": "Java Complete Tutorial Ep. 66 - Variable Capture(Effectively Final)",
+      "duration": 282
+    },
+    {
+      "id": "ZUq_fHzsVqg",
+      "title": "Java Library [#1] - Creating String Objects",
+      "duration": 1061
+    },
+    {
+      "id": "z3Cm2seAoMY",
+      "title": "Java Library [#2] - Character Extraction from Strings",
+      "duration": 657
+    },
+    {
+      "id": "A3bXDqMLiMc",
+      "title": "Java Library [#3] - String Comparison & Search Methods",
+      "duration": 1577
+    },
+    {
+      "id": "2fKJ826FHfY",
+      "title": "Java Library [#4] - More String Methods",
+      "duration": 880
+    },
+    {
+      "id": "OmuP5HDmgnY",
+      "title": "Java Library [#5] - StringBuffer & StringBuilder",
+      "duration": 1111
+    },
+    {
+      "id": "l6KCXCj6Vq4",
+      "title": "Java Library [#6] - ArrayLists",
+      "duration": 777
+    },
+    {
+      "id": "YXCdFpamRdA",
+      "title": "Java Library [#7] - LinkedLists",
+      "duration": 442
+    },
+    {
+      "id": "iRrNeZ_chHU",
+      "title": "Java Library [#8] - the Date Object",
+      "duration": 576
+    },
+    {
+      "id": "DDdtd7aE9IY",
+      "title": "Java Library [#9] - Calendar and Gregorian Calendar",
+      "duration": 997
+    },
+    {
+      "id": "JGZ29kQF9QM",
+      "title": "Java Library [#10] - Random Class",
+      "duration": 604
+    },
+    {
+      "id": "tKSe8DAkrYk",
+      "title": "Java Library [#11] - Scheduling Tasks (Timer & TimerTask)",
+      "duration": 666
+    },
+    {
+      "id": "LxpR9sNIhl4",
+      "title": "Java Library [#12] - HashMaps",
+      "duration": 547
+    },
+    {
+      "id": "jHKhA9wsBdk",
+      "title": "Java Library [#13] - Iterator and ListIterator",
+      "duration": 626
+    },
+    {
+      "id": "wQoEzpj1fO0",
+      "title": "How to Use JSON in Java with the mJson Library",
+      "duration": 1929
+    },
+    {
+      "id": "LndUiAhnpN8",
+      "title": "Java 8 - Lambda Expressions",
+      "duration": 2089
+    },
+    {
+      "id": "4nyab6nq61g",
+      "title": "Java 14 - Switch Expressions",
+      "duration": 1416
+    },
+    {
+      "id": "cU7tlKx1GtY",
+      "title": "Java Tutorial - Records | JDK 16",
+      "duration": 1259
+    },
+    {
+      "id": "EsyVCgKEXzY",
+      "title": "Java Tutorial - The Difference Between == and equals()",
+      "duration": 1454
+    },
+    {
+      "id": "FIACGmzibAM",
+      "title": "Java Tutorial - Reflection Basics",
+      "duration": 1682
+    },
+    {
+      "id": "mojY9r2DRiA",
+      "title": "Java Tutorial - Reflection - Constructor and Method Invocation & Field Setting",
+      "duration": 1106
+    },
+    {
+      "id": "Y_m_py28Qzw",
+      "title": "Java Tutorial - Reflection - Wiring Class Fields with the Reflections Library & Annotations",
+      "duration": 1503
+    },
+    {
+      "id": "YlPTaBuNP2M",
+      "title": "Java Tutorial - Annotation Basics",
+      "duration": 585
+    },
+    {
+      "id": "vrq6oR5Og8Y",
+      "title": "Java Tutorial - Collection Looping with forEach() and stream().forEach()",
+      "duration": 820
+    },
+    {
+      "id": "-482r4hA2mA",
+      "title": "Java Tutorial - Okay, but what ARE Streams?",
+      "duration": 1353
+    },
+    {
+      "id": "qTfD540K2ao",
+      "title": "Java Tutorial - Filtering Streams",
+      "duration": 900
+    },
+    {
+      "id": "F_iZ1osTmVI",
+      "title": "Java Tutorial - Transforming Objects by Mapping | Stream API",
+      "duration": 1385
+    },
+    {
+      "id": "P1O6tACWuyo",
+      "title": "Java Tutorial - Packaging a Java Application into a JAR File using IntelliJ IDEA",
+      "duration": 287
+    },
+    {
+      "id": "gx5OUQpwGw8",
+      "title": "Java Tutorial - instanceof Pattern Matching | JDK 16",
+      "duration": 939
+    },
+    {
+      "id": "sZhw6fRlQEQ",
+      "title": "Java Tutorial - Sealed Classes and Interfaces | JDK 17 (Face Reveal)",
+      "duration": 1313
+    },
+    {
+      "id": "bDtVUndO2j8",
+      "title": "Java Tutorial - Text Blocks | JDK 15",
+      "duration": 1024
+    },
+    {
+      "id": "5PKG4rcT3oQ",
+      "title": "Java Tutorial - Ternary Operator",
+      "duration": 636
+    },
+    {
+      "id": "jmVsDDGOlvM",
+      "title": "Java Tutorial - Record Patterns | Java 21 Feature",
+      "duration": 570
+    },
+    {
+      "id": "sOQtZNMfcKU",
+      "title": "Java Tutorial - Unnamed Variables & Records | Java 22 Feature",
+      "duration": 884
+    }
+  ]
+}

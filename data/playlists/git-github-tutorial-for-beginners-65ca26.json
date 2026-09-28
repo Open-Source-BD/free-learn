@@ -1,0 +1,70 @@
+{
+  "courseId": "git-github-tutorial-for-beginners-65ca26",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:25.818Z",
+  "title": "Git & GitHub Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "3RjQznt-8kE",
+      "title": "Git & GitHub Tutorial for Beginners #1 - Why Use Git?",
+      "duration": 346
+    },
+    {
+      "id": "MFtsLRphqDM",
+      "title": "Git & GitHub Tutorial for Beginners #2 - Installing Git",
+      "duration": 331
+    },
+    {
+      "id": "iNP_KmOFqXs",
+      "title": "Git & GitHub Tutorial for Beginners #3 - How Git Works",
+      "duration": 368
+    },
+    {
+      "id": "v0Ch3yWQ-Zc",
+      "title": "Git & GitHub Tutorial for Beginners #4 - Creating a Repository",
+      "duration": 265
+    },
+    {
+      "id": "KngvG8WzYLU",
+      "title": "Git & GitHub Tutorial for Beginners #5 - Staging files",
+      "duration": 365
+    },
+    {
+      "id": "Fhgga2s_RmM",
+      "title": "Git & GitHub Tutorial for Beginners #6 - Making Commits",
+      "duration": 408
+    },
+    {
+      "id": "RIYrfkZjWmA",
+      "title": "Git & GitHub Tutorial for Beginners #7 - Undoing Things",
+      "duration": 630
+    },
+    {
+      "id": "QV0kVNvkMxc",
+      "title": "Git & GitHub Tutorial for Beginners #8 - Branches",
+      "duration": 607
+    },
+    {
+      "id": "XX-Kct0PfFc",
+      "title": "Git & GitHub Tutorial for Beginners #9 - Merging Branches (& conflicts)",
+      "duration": 501
+    },
+    {
+      "id": "fQLK8Ib_SKk",
+      "title": "Git & GitHub Tutorial for Beginners #10 - Introduction to GitHub",
+      "duration": 909
+    },
+    {
+      "id": "MnUd31TvBoU",
+      "title": "Git & GitHub Tutorial for Beginners #11 - Collaborating on GitHub",
+      "duration": 732
+    },
+    {
+      "id": "HbSjyU2vf6Y",
+      "title": "Git & GitHub Tutorial for Beginners #12 - Forking (& Contributing)",
+      "duration": 507
+    }
+  ]
+}

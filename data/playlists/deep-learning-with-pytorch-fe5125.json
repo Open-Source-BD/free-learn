@@ -1,0 +1,40 @@
+{
+  "courseId": "deep-learning-with-pytorch-fe5125",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:36.770Z",
+  "title": "Deep Learning with PyTorch Live Course",
+  "channel": "freeCodeCamp.org",
+  "videos": [
+    {
+      "id": "vo_fUOk-IKk",
+      "title": "Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)",
+      "duration": 7524
+    },
+    {
+      "id": "4ZZrP68yXCI",
+      "title": "Deep Learning with PyTorch Live Course - Working with Images & Logistic Regression (Part 2 of 6)",
+      "duration": 7531
+    },
+    {
+      "id": "9suSsTVhYuw",
+      "title": "Deep Learning with PyTorch Live Course - Training Deep Neural Networks on GPUs (Part 3 of 6)",
+      "duration": 6316
+    },
+    {
+      "id": "TN9fMYQxw4E",
+      "title": "Deep Learning with PyTorch Live Course - Image Classification with CNNs (Part 4 of 6)",
+      "duration": 7471
+    },
+    {
+      "id": "sJF6PiAjE1M",
+      "title": "Deep Learning with PyTorch Live Course - ResNet, Regularization and Data Augmentation (Part 5 of 6)",
+      "duration": 7491
+    },
+    {
+      "id": "ABaZ_tecZ3U",
+      "title": "Deep Learning with PyTorch Live Course - GANs for Image Generation (Part 6 of 6)",
+      "duration": 7194
+    }
+  ]
+}

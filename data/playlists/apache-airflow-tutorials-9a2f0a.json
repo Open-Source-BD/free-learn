@@ -1,0 +1,45 @@
+{
+  "courseId": "apache-airflow-tutorials-9a2f0a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:35.796Z",
+  "title": "Apache Airflow Tutorials",
+  "channel": "Tuan Vu",
+  "videos": [
+    {
+      "id": "AHMm1wfGuHE",
+      "title": "Airflow tutorial 1: Introduction to Apache Airflow",
+      "duration": 984
+    },
+    {
+      "id": "vvr_WNzEXBE",
+      "title": "Airflow tutorial 2: Set up airflow environment with docker",
+      "duration": 889
+    },
+    {
+      "id": "ld6JO3MiuPQ",
+      "title": "Airflow tutorial 3: Set up airflow environment using Google Cloud Composer",
+      "duration": 642
+    },
+    {
+      "id": "43wHwwZhJMo",
+      "title": "Airflow tutorial 4: Writing your first pipeline",
+      "duration": 1036
+    },
+    {
+      "id": "4rQSa2zEWfw",
+      "title": "Airflow tutorial 5: Airflow concept",
+      "duration": 1121
+    },
+    {
+      "id": "wAyu5BN3VpY",
+      "title": "Airflow tutorial 6: Build a data pipeline using Google Bigquery",
+      "duration": 4472
+    },
+    {
+      "id": "bHQ7nzn0j6k",
+      "title": "Airflow tutorial 7: Airflow variables",
+      "duration": 1002
+    }
+  ]
+}

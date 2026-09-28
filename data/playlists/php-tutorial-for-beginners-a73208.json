@@ -1,0 +1,150 @@
+{
+  "courseId": "php-tutorial-for-beginners-a73208",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOO6bGTY9jbLOyF_x6tgwcuB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:07.904Z",
+  "title": "PHP tutorial for beginners 🐘",
+  "channel": "Bro Code",
+  "videos": [
+    {
+      "id": "SI69DXbYHXU",
+      "title": "PHP tutorial for beginners 🐘",
+      "duration": 839
+    },
+    {
+      "id": "przRGJtl0HY",
+      "title": "PHP variables and data types",
+      "duration": 844
+    },
+    {
+      "id": "P5MDvSHT-F4",
+      "title": "PHP arithmetic explained",
+      "duration": 397
+    },
+    {
+      "id": "6AzAYU8AOhQ",
+      "title": "PHP $_GET and $_POST explained",
+      "duration": 703
+    },
+    {
+      "id": "nT5f5brN4xI",
+      "title": "PHP useful math functions you should know",
+      "duration": 847
+    },
+    {
+      "id": "Kp35Sa2Qay0",
+      "title": "PHP if statements explained",
+      "duration": 623
+    },
+    {
+      "id": "Q5NoBVswShE",
+      "title": "PHP logical operators explained",
+      "duration": 616
+    },
+    {
+      "id": "f7Ejo1WgUtA",
+      "title": "PHP switches explained",
+      "duration": 524
+    },
+    {
+      "id": "HAs7YXPduZI",
+      "title": "PHP for loops explained",
+      "duration": 417
+    },
+    {
+      "id": "Jkd1YYpA6uw",
+      "title": "PHP while loops explained",
+      "duration": 303
+    },
+    {
+      "id": "CuOZ8d7gWeU",
+      "title": "PHP arrays explained",
+      "duration": 483
+    },
+    {
+      "id": "1Rh61mwOMrA",
+      "title": "PHP associative arrays explained",
+      "duration": 681
+    },
+    {
+      "id": "pEhp4Ytzyyw",
+      "title": "PHP isset() & empty() are really useful!",
+      "duration": 629
+    },
+    {
+      "id": "TMnID98HmZE",
+      "title": "PHP radio buttons explained",
+      "duration": 564
+    },
+    {
+      "id": "gymVxUOyick",
+      "title": "PHP checkboxes explained",
+      "duration": 399
+    },
+    {
+      "id": "SBFO5bIDYHQ",
+      "title": "PHP functions explained",
+      "duration": 529
+    },
+    {
+      "id": "B-neQLCsORM",
+      "title": "PHP string functions are awesome",
+      "duration": 482
+    },
+    {
+      "id": "HblQ-B0NXik",
+      "title": "PHP how to sanitize/validate input",
+      "duration": 483
+    },
+    {
+      "id": "aU0Tqxgtid8",
+      "title": "PHP include() function explained",
+      "duration": 411
+    },
+    {
+      "id": "EgDQ7Z13FQc",
+      "title": "PHP $_COOKIE explained",
+      "duration": 334
+    },
+    {
+      "id": "JXKQmIpjRTk",
+      "title": "PHP $_SESSION explained",
+      "duration": 711
+    },
+    {
+      "id": "M1r8fCgkLyc",
+      "title": "PHP $_SERVER explained",
+      "duration": 342
+    },
+    {
+      "id": "b6MpUm8CbZo",
+      "title": "PHP password hashing explained",
+      "duration": 220
+    },
+    {
+      "id": "-1DTYAQ25bY",
+      "title": "PHP how to connect to MySQL database",
+      "duration": 530
+    },
+    {
+      "id": "BO6XOcfTyhU",
+      "title": "PHPMyAdmin create a table easy",
+      "duration": 251
+    },
+    {
+      "id": "tq0ghtZsHJ0",
+      "title": "PHP how to insert into MySQL database",
+      "duration": 353
+    },
+    {
+      "id": "om_GHl6BrdM",
+      "title": "PHP how to query MySQL database",
+      "duration": 278
+    },
+    {
+      "id": "Sme8lbrksCs",
+      "title": "PHP registration form project",
+      "duration": 563
+    }
+  ]
+}

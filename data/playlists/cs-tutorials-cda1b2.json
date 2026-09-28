@@ -1,0 +1,250 @@
+{
+  "courseId": "cs-tutorials-cda1b2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:16.631Z",
+  "title": "CS Tutorials // Michael Sambol",
+  "channel": "Michael Sambol",
+  "videos": [
+    {
+      "id": "cplfcGZmX7I",
+      "title": "Prim's algorithm in 2 minutes",
+      "duration": 137
+    },
+    {
+      "id": "71UQH7Pr9kU",
+      "title": "Kruskal's algorithm in 2 minutes",
+      "duration": 109
+    },
+    {
+      "id": "_lHSawdgXpI",
+      "title": "Dijkstra's algorithm in 3 minutes",
+      "duration": 166
+    },
+    {
+      "id": "9PHkk0UavIM",
+      "title": "Bellman-Ford in 4 minutes — Theory",
+      "duration": 237
+    },
+    {
+      "id": "obWXjtg0L64",
+      "title": "Bellman-Ford in 5 minutes — Step by step example",
+      "duration": 310
+    },
+    {
+      "id": "4OQeCuLYj-4",
+      "title": "Floyd–Warshall algorithm in 4 minutes",
+      "duration": 273
+    },
+    {
+      "id": "Tl90tNtKvxs",
+      "title": "Ford-Fulkerson in 5 minutes",
+      "duration": 315
+    },
+    {
+      "id": "2_Ud0TESsa0",
+      "title": "Analyzing algorithms in 6 minutes — Intro",
+      "duration": 389
+    },
+    {
+      "id": "u8AprTUkJjM",
+      "title": "Analyzing algorithms in 7 minutes — Asymptotic Notation",
+      "duration": 430
+    },
+    {
+      "id": "__vX2sjlpXU",
+      "title": "Big-O notation in 5 minutes",
+      "duration": 313
+    },
+    {
+      "id": "fDKIpRe8GW4",
+      "title": "Binary search in 4 minutes",
+      "duration": 240
+    },
+    {
+      "id": "HZ5YTanv5QE",
+      "title": "Breadth-first search in 4 minutes",
+      "duration": 239
+    },
+    {
+      "id": "Urx87-NMm6c",
+      "title": "Depth-first search in 4 minutes",
+      "duration": 241
+    },
+    {
+      "id": "1WxLM2hwL-U",
+      "title": "Pre-order tree traversal in 3 minutes",
+      "duration": 166
+    },
+    {
+      "id": "5dySuyZf9Qg",
+      "title": "In-order tree traversal in 3 minutes",
+      "duration": 175
+    },
+    {
+      "id": "4zVdfkpcT6U",
+      "title": "Post-order tree traversal in 2 minutes",
+      "duration": 139
+    },
+    {
+      "id": "IozGo2kwRYE",
+      "title": "Level-order tree traversal in 3 minutes",
+      "duration": 200
+    },
+    {
+      "id": "F8AbOfQwl1c",
+      "title": "Linked lists in 4 minutes",
+      "duration": 262
+    },
+    {
+      "id": "KcT3aVgrrpU",
+      "title": "Stacks in 3 minutes",
+      "duration": 179
+    },
+    {
+      "id": "D6gu-_tmEpQ",
+      "title": "Queues in 3 minutes",
+      "duration": 190
+    },
+    {
+      "id": "knV86FlSXJ8",
+      "title": "Hash tables in 4 minutes",
+      "duration": 232
+    },
+    {
+      "id": "0wPlzMU-k00",
+      "title": "Heaps in 3 minutes — Intro",
+      "duration": 209
+    },
+    {
+      "id": "pAU21g-jBiE",
+      "title": "Heaps in 6 minutes — Methods",
+      "duration": 356
+    },
+    {
+      "id": "2DmK_H7IdTo",
+      "title": "Heap sort in 4 minutes",
+      "duration": 253
+    },
+    {
+      "id": "4VqmGXwpLqc",
+      "title": "Merge sort in 3 minutes",
+      "duration": 183
+    },
+    {
+      "id": "Hoixgm4-P4M",
+      "title": "Quick sort in 4 minutes",
+      "duration": 264
+    },
+    {
+      "id": "xli_FI7CuzA",
+      "title": "Bubble sort in 2 minutes",
+      "duration": 130
+    },
+    {
+      "id": "JU767SDMDvA",
+      "title": "Insertion sort in 2 minutes",
+      "duration": 139
+    },
+    {
+      "id": "g-PGLbMth_g",
+      "title": "Selection sort in 3 minutes",
+      "duration": 163
+    },
+    {
+      "id": "qvZGUFHWChY",
+      "title": "Red-black trees in 4 minutes — Intro",
+      "duration": 234
+    },
+    {
+      "id": "95s3ndZRGbk",
+      "title": "Red-black trees in 3 minutes — Rotations",
+      "duration": 185
+    },
+    {
+      "id": "5IBxA-bZZH8",
+      "title": "Red-black trees in 5 minutes — Insertions (strategy)",
+      "duration": 338
+    },
+    {
+      "id": "A3JZinzkMpk",
+      "title": "Red-black trees in 5 minutes — Insertions (examples)",
+      "duration": 310
+    },
+    {
+      "id": "lU99loSvD8s",
+      "title": "Red-black trees in 8 minutes — Deletions",
+      "duration": 493
+    },
+    {
+      "id": "iw8N1_keEWA",
+      "title": "Red-black trees in 6 minutes — Delete Fixes",
+      "duration": 349
+    },
+    {
+      "id": "DB1HFCEdLxA",
+      "title": "AVL trees in 5 minutes — Intro & Search",
+      "duration": 300
+    },
+    {
+      "id": "JPI-DPizQYk",
+      "title": "AVL trees in 9 minutes — Insertions",
+      "duration": 540
+    },
+    {
+      "id": "PBkXmhiCP1M",
+      "title": "AVL trees in 5 minutes — Deletions",
+      "duration": 320
+    },
+    {
+      "id": "FgWbADOG44s",
+      "title": "B-trees in 4 minutes — Intro",
+      "duration": 237
+    },
+    {
+      "id": "fAfuZiFDpRo",
+      "title": "B-trees in 6 minutes — Properties",
+      "duration": 338
+    },
+    {
+      "id": "jLEhJqNVauc",
+      "title": "B-trees in 4 minutes — Search",
+      "duration": 247
+    },
+    {
+      "id": "tT2DT9Z4H-0",
+      "title": "B-trees in 6 minutes — Insertions",
+      "duration": 396
+    },
+    {
+      "id": "pN4C8cLVc7I",
+      "title": "B-trees in 6 minutes — Deletions",
+      "duration": 360
+    },
+    {
+      "id": "0vsX3ZQFREM",
+      "title": "Fibonacci heaps in 6 minutes — Intro",
+      "duration": 397
+    },
+    {
+      "id": "lJFi5akwsTM",
+      "title": "Fibonacci heaps in 6 minutes — Insert & Union",
+      "duration": 377
+    },
+    {
+      "id": "OF8yv18xS3I",
+      "title": "Fibonacci heaps in 8 minutes — Extract Min",
+      "duration": 485
+    },
+    {
+      "id": "z_3wye57yxs",
+      "title": "Fibonacci heaps in 9 minutes — Decrease Key",
+      "duration": 554
+    },
+    {
+      "id": "XjNjyCQ_hTc",
+      "title": "Fibonacci heaps in 3 minutes — Delete",
+      "duration": 190
+    }
+  ]
+}

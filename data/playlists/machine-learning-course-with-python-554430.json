@@ -1,0 +1,750 @@
+{
+  "courseId": "machine-learning-course-with-python-554430",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:28.924Z",
+  "title": "Machine Learning Course With Python",
+  "channel": "Siddhardhan",
+  "videos": [
+    {
+      "id": "bY__YW-xknU",
+      "title": "Machine Learning Course curriculum |  Machine Learning - Roadmap",
+      "duration": 564
+    },
+    {
+      "id": "dMWd-jX1Gag",
+      "title": "1.1 AI vs Machine Learning vs Deep Learning | AI vs ML vs DL | Machine Learning Training with Python",
+      "duration": 335
+    },
+    {
+      "id": "Atg-Sl32vOo",
+      "title": "1.2. Supervised vs Unsupervised vs Reinforcement Learning | Types of Machine Learning",
+      "duration": 424
+    },
+    {
+      "id": "lTWB3qqA2mE",
+      "title": "1.3. Supervised Learning | Types of Supervised Learning | Machine Learning Tutorial",
+      "duration": 373
+    },
+    {
+      "id": "d9qf0qPPhsc",
+      "title": "1.4. Unsupervised Learning | Clustering and Association Algorithms in Machine Learning",
+      "duration": 483
+    },
+    {
+      "id": "LJykKHtxRDU",
+      "title": "1.5. What is Deep Learning | Deep Learning Tutorial | Deep Learning Simplified",
+      "duration": 520
+    },
+    {
+      "id": "Df7AxwzUOJk",
+      "title": "2.1. Google Colaboratory for Python | Getting started with Google Colaboratory | Google Colab basics",
+      "duration": 617
+    },
+    {
+      "id": "Ud7zeYNy1Zw",
+      "title": "2.2. Python Basics | Python Tutorial For Beginners | Learn Python Programming from Scratch",
+      "duration": 1384
+    },
+    {
+      "id": "ozZijGQCLgw",
+      "title": "2.3. Python Basic Data Types | Python Tutorial | int float string complex boolean",
+      "duration": 1240
+    },
+    {
+      "id": "lT2GfuCKJ4c",
+      "title": "2.4. Python Special data types | List Tuple Set Dictionary | Python Tutorial",
+      "duration": 1624
+    },
+    {
+      "id": "arRpX2d9ACU",
+      "title": "2.5. Operators in Python | Python Tutorial |Arithmetic Assignment Comparison Logical Identity Member",
+      "duration": 1169
+    },
+    {
+      "id": "BeUyDioT_gk",
+      "title": "2.6. if else statement in Python | if else | if elif else | nested if statement | Python Tutorial",
+      "duration": 839
+    },
+    {
+      "id": "cq8DBiaErAI",
+      "title": "2.7. Loops in Python | For Loop in Python | While Loop in Python | Python Tutorial",
+      "duration": 950
+    },
+    {
+      "id": "LSedCocyJVg",
+      "title": "2.8. Functions in Python | Python Tutorial for Beginners",
+      "duration": 912
+    },
+    {
+      "id": "qAgyemeRhTw",
+      "title": "3.1. Complete Numpy Tutorial in Python | Numpy Arrays",
+      "duration": 2752
+    },
+    {
+      "id": "gQJIGgw6ZCw",
+      "title": "3.2. Complete Pandas Tutorial in Python | Pandas Dataframe Tutorial",
+      "duration": 2824
+    },
+    {
+      "id": "sDgwspj8aBk",
+      "title": "3.3. Matplotlib Tutorial in Python | Machine Learning Course with Python",
+      "duration": 1854
+    },
+    {
+      "id": "FUzM6Fy1oIw",
+      "title": "3.4. Seaborn Tutorial in Python | Machine Learning Course",
+      "duration": 2156
+    },
+    {
+      "id": "4ub10unSjro",
+      "title": "4.1. Where to Collect Data For Machine Learning? | Data Collection",
+      "duration": 806
+    },
+    {
+      "id": "EWp1LM9KVRs",
+      "title": "4.2. Importing Datasets through Kaggle API",
+      "duration": 869
+    },
+    {
+      "id": "GzZmfe030PU",
+      "title": "4.3. Handling Missing Values in Machine Learning | Imputation | Dropping",
+      "duration": 1319
+    },
+    {
+      "id": "0Z_DqrPHT2A",
+      "title": "4.4. Data Standardization | Data Preprocessing | Machine Learning Course",
+      "duration": 1214
+    },
+    {
+      "id": "lsAqyzln-5g",
+      "title": "4.5. Label Encoding | Data Pre-Processing | Machine Learning Course",
+      "duration": 1158
+    },
+    {
+      "id": "-KYiefj2wuw",
+      "title": "4.6. Train Test Split | Splitting the dataset to Training and Testing data | Machine Learning Course",
+      "duration": 752
+    },
+    {
+      "id": "tUNAuf8JdEE",
+      "title": "4.7. How to Handle imbalanced Dataset | Data Pre-Processing | Machine Learning Course",
+      "duration": 1150
+    },
+    {
+      "id": "Yo327cc818g",
+      "title": "4.8. Feature extraction of Text data using Tfidf Vectorizer | Data Preprocessing | Machine Learning",
+      "duration": 718
+    },
+    {
+      "id": "ppGwGO7OgvU",
+      "title": "4.9. Numerical Dataset Pre-Processing  - Use Case | Machine Learning Course with Python",
+      "duration": 1235
+    },
+    {
+      "id": "w3XpAi8fAok",
+      "title": "4.10. Text Dataset Pre-Processing  - Use Case | Machine Learning Course | Data Pre Processing",
+      "duration": 2181
+    },
+    {
+      "id": "fiz1ORTBGpY",
+      "title": "Project 1 : SONAR Rock vs Mine Prediction with Python | End To End Python Machine Learning Project",
+      "duration": 2973
+    },
+    {
+      "id": "xUE7SjVx9bQ",
+      "title": "Project 2: Diabetes Prediction using Machine Learning with Python  | End To End Python ML Project",
+      "duration": 3491
+    },
+    {
+      "id": "fw5rkjq4Tfo",
+      "title": "Project 3. House Price Prediction using Machine Learning with Python | Machine Learning Project",
+      "duration": 3388
+    },
+    {
+      "id": "nacLBdyG6jE",
+      "title": "Project 4. Fake News Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 4310
+    },
+    {
+      "id": "XckM1pFgZmg",
+      "title": "Project 5. Loan Status Prediction using Machine Learning with Python | Machine Learning Project",
+      "duration": 4135
+    },
+    {
+      "id": "CBxJuwrGrc4",
+      "title": "Project 6. Wine Quality Prediction using Machine Learning with Python | Machine Learning Project",
+      "duration": 3489
+    },
+    {
+      "id": "L3OtLaCbJC8",
+      "title": "Project 7. Car Price Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 2873
+    },
+    {
+      "id": "9ffkBvh8PTQ",
+      "title": "Project 8. Gold Price Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 2455
+    },
+    {
+      "id": "qmqCYC-MBQo",
+      "title": "Project 9. Heart Disease Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 2575
+    },
+    {
+      "id": "NCgjcHLFNDg",
+      "title": "Project 10. Credit Card Fraud Detection using Machine Learning in Python | Machine Learning Projects",
+      "duration": 2975
+    },
+    {
+      "id": "ntBa7YKc9XM",
+      "title": "Project 11. Medical Insurance Cost Prediction using Machine Learning with Python | ML Projects",
+      "duration": 3909
+    },
+    {
+      "id": "epI9W3MZ3Ts",
+      "title": "Project 12. Big Mart Sales Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 4631
+    },
+    {
+      "id": "SrY0sTJchHE",
+      "title": "Project 13. Customer Segmentation using K-Means Clustering with Python | Machine Learning Projects",
+      "duration": 2987
+    },
+    {
+      "id": "HbyN_ey-JVc",
+      "title": "Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project",
+      "duration": 4198
+    },
+    {
+      "id": "Lgp14y9-U74",
+      "title": "Project 15. Titanic Survival Prediction using Machine Learning in Python | Machine Learning Project",
+      "duration": 4392
+    },
+    {
+      "id": "ZD27QTvSbTY",
+      "title": "Project 16. Calories Burnt Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 4352
+    },
+    {
+      "id": "VCF8kiLtBzU",
+      "title": "5.0. Mathematics for Machine Learning - Introduction | Machine Learning Course",
+      "duration": 365
+    },
+    {
+      "id": "-RlJyf43zFA",
+      "title": "5.1.1. Linear Algebra - Vectors | Mathematics for Machine Learning",
+      "duration": 619
+    },
+    {
+      "id": "sNXzMW8-XUk",
+      "title": "5.1.2. Vector Operations - Part 1 | Mathematics for Machine Learning | Linear Algebra",
+      "duration": 823
+    },
+    {
+      "id": "ULK4UlXyAGA",
+      "title": "5.1.3. Vector Operations - in Python - Part 1 | Math for Machine Learning | Linear Algebra",
+      "duration": 1193
+    },
+    {
+      "id": "jq4IMDj7yuk",
+      "title": "5.1.4. Vector Operations - Part 2 | Dot Product | Cross Product | Projection of vector | Math for ML",
+      "duration": 624
+    },
+    {
+      "id": "af7osGzIoxs",
+      "title": "5.1.5. Vector Operations - in Python - Part 2 | Dot Product | Cross Product | Projection of vector",
+      "duration": 1139
+    },
+    {
+      "id": "GHhdy2AKpCg",
+      "title": "5.1.6. Matrix - Basics | Math for Machine Learning | Linear Algebra",
+      "duration": 898
+    },
+    {
+      "id": "0QG7wzcj-U8",
+      "title": "5.1.7. Working with Matrix in Python | Mathematics for Machine Learning | Linear Algebra",
+      "duration": 1168
+    },
+    {
+      "id": "cw222tHtb9M",
+      "title": "5.1.8. Matrix Operations - Addition, Subtraction, Multiplication | Mathematics for Machine Learning",
+      "duration": 1196
+    },
+    {
+      "id": "b2oDNSmykgc",
+      "title": "5.1.9. Matrix Operations in Python | Mathematics for Machine Learning | Linear Algebra",
+      "duration": 1945
+    },
+    {
+      "id": "CrCsolJZL84",
+      "title": "5.2.1. Statistics for Machine Learning | Machine Learning course",
+      "duration": 538
+    },
+    {
+      "id": "YvjiK0VDJ0M",
+      "title": "5.2.2. Basics of Statistics | Types of Data in Statistics | Statistics for Machine Learning",
+      "duration": 820
+    },
+    {
+      "id": "4Q4A42mCr0A",
+      "title": "5.2.3. Types of Statistics | Descriptive and Inferential Statistics | Machine Learning Course",
+      "duration": 845
+    },
+    {
+      "id": "ps2o_yBCA1c",
+      "title": "5.2.4. Types of statistical studies | Statistics for Machine Learning | Machine Learning course",
+      "duration": 744
+    },
+    {
+      "id": "RACQgif4a30",
+      "title": "5.2.5. Population and Sample | Sampling techniques | Statistics for Machine Learning",
+      "duration": 1418
+    },
+    {
+      "id": "tbVeThdZNz4",
+      "title": "5.2.6. Measure of Central Tendencies - Mean, Median, Mode | Statistics for Machine Learning",
+      "duration": 992
+    },
+    {
+      "id": "OOJa27TbArc",
+      "title": "5.2.7. Measure of Variability - Range, Variance, Standard Deviation | Math for Machine Learning",
+      "duration": 774
+    },
+    {
+      "id": "p5W3nf9P0gk",
+      "title": "5.2.8. Percentiles and Quantiles | Statistics for Machine Learning | Machine Learning Course",
+      "duration": 536
+    },
+    {
+      "id": "RSExZenpyC4",
+      "title": "5.2.9. Correlation and Causation | Statistics for machine learning | Machine Learning Course",
+      "duration": 823
+    },
+    {
+      "id": "5FW5YdbpXmg",
+      "title": "5.2.10. Hypothesis Testing | Null Hypothesis and Alternative Hypothesis | Math For Machine Learning",
+      "duration": 612
+    },
+    {
+      "id": "Ws-11M9rh44",
+      "title": "5.3.1. Probability for Machine Learning | Machine Learning Course",
+      "duration": 507
+    },
+    {
+      "id": "0TVpukzIdxw",
+      "title": "5.3.2. Basics of Probability | Probability for Machine Learning | Machine Learning Course",
+      "duration": 613
+    },
+    {
+      "id": "PwUvkwIRcZg",
+      "title": "5.3.3. Random Variables and its types | Discrete Random Variables | Continuous Random Variables",
+      "duration": 581
+    },
+    {
+      "id": "4eJcotW-b7Y",
+      "title": "5.3.4. Probability Distribution for Random Variable | Machine Learning Course",
+      "duration": 607
+    },
+    {
+      "id": "8C04WqbSUFI",
+      "title": "5.3.5. Normal Distribution or Gaussian Distribution | Skewness | Probability for Machine Learning",
+      "duration": 587
+    },
+    {
+      "id": "06J-F1Bgo4w",
+      "title": "5.3.6. Poisson Distribution | Probability for Machine Learning",
+      "duration": 638
+    },
+    {
+      "id": "m8kw6lxeGHI",
+      "title": "6.1. What is a Machine Learning Model?",
+      "duration": 1267
+    },
+    {
+      "id": "5Z3HpQLFLkk",
+      "title": "6.2. Supervised Learning Models | Supervised Learning",
+      "duration": 490
+    },
+    {
+      "id": "JeyECZpo-OY",
+      "title": "6.3. Unsupervised Learning Models | Unsupervised Learning",
+      "duration": 414
+    },
+    {
+      "id": "SF0YdBXjr_A",
+      "title": "6.4. How to choose the right Machine Learning Model | Model Selection | Cross Validation",
+      "duration": 863
+    },
+    {
+      "id": "gy8kXdd6K-o",
+      "title": "6.5. Overfitting in Machine Learning | Causes for Overfitting and its Prevention",
+      "duration": 854
+    },
+    {
+      "id": "VszjECyEOYc",
+      "title": "6.6. Underfitting in Machine Learning | Causes for Underfitting and its Prevention",
+      "duration": 527
+    },
+    {
+      "id": "8HEV5sQ-FuQ",
+      "title": "6.7. Bias Variance Tradeoff | Machine Learning",
+      "duration": 1129
+    },
+    {
+      "id": "4MWySASGGe0",
+      "title": "6.8. Loss Function in Machine Learning",
+      "duration": 859
+    },
+    {
+      "id": "qS78U0ErvN8",
+      "title": "6.9. Model Evaluation in Machine Learning | Accuracy score | Mean Squared Error",
+      "duration": 948
+    },
+    {
+      "id": "pELCMSvxHA4",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "2uTRcoEJQQg",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "RaMTqsiDR-I",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "npbajEWEH0I",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "fn2BPbsHLpc",
+      "title": "6.10. Model Parameters and Hyperparameters | Weights & Bias | Learning Rate & Epochs",
+      "duration": 1963
+    },
+    {
+      "id": "gSaatcLqbsQ",
+      "title": "6.11. Gradient Descent in Machine Learning",
+      "duration": 1576
+    },
+    {
+      "id": "AZ32LbLcPV0",
+      "title": "7.1.1. Linear Regression - Intuition | Machine Learning Models",
+      "duration": 1764
+    },
+    {
+      "id": "kEVk_t2KnlE",
+      "title": "7.1.2. Linear Regression - Mathematical Understanding",
+      "duration": 1250
+    },
+    {
+      "id": "eO8eoNCS3mo",
+      "title": "7.1.3. Gradient Descent for Linear Regression",
+      "duration": 1146
+    },
+    {
+      "id": "3t_dTUm7088",
+      "title": "7.1.4. Building Linear Regression from scratch in Python",
+      "duration": 2988
+    },
+    {
+      "id": "xfzMwzqcWJc",
+      "title": "7.1.5. Implementing Linear Regression from scratch in Python",
+      "duration": 3849
+    },
+    {
+      "id": "d0woPPu6n6g",
+      "title": "7.2.1. Logistic Regression - Intuition | Machine Learning Course",
+      "duration": 1351
+    },
+    {
+      "id": "obbalnq94rA",
+      "title": "7.2.2. Math behind Logistic Regression | Machine Learning Models",
+      "duration": 1051
+    },
+    {
+      "id": "uzcH8vnjPuQ",
+      "title": "7.2.3. Loss Function and Cost Function for Logistic Regression",
+      "duration": 1753
+    },
+    {
+      "id": "N-TTUvirIXM",
+      "title": "7.2.4. Gradient Descent for Logistic Regression",
+      "duration": 1192
+    },
+    {
+      "id": "HDr6ONzE9uM",
+      "title": "7.2.5. Building Logistic Regression from scratch in Python",
+      "duration": 3918
+    },
+    {
+      "id": "DeUAvYyB0Os",
+      "title": "7.2.6. Implementing Logistic Regression from scratch in Python",
+      "duration": 1756
+    },
+    {
+      "id": "vs4aFU3DiXY",
+      "title": "Machine Learning  Interview Questions and Answers | Machine Learning Interview Preparation",
+      "duration": 2335
+    },
+    {
+      "id": "rxkGItX5gGE",
+      "title": "Project 17. Spam Mail Prediction using Machine Learning with Python | Machine Learning Projects",
+      "duration": 3774
+    },
+    {
+      "id": "7rEagFH9tQg",
+      "title": "Project 18. Movie Recommendation System using Machine Learning with Python",
+      "duration": 4503
+    },
+    {
+      "id": "pCQQaeC9WRE",
+      "title": "7.3.1. Support Vector Machine Classifier - Intuition",
+      "duration": 952
+    },
+    {
+      "id": "y0_Qq6fXzCs",
+      "title": "7.3.2. Math behind Support Vector Machine Classifier",
+      "duration": 1915
+    },
+    {
+      "id": "WLYFhROVM18",
+      "title": "7.3.3. Support Vector Machine - Kernels",
+      "duration": 1192
+    },
+    {
+      "id": "CL2pUVLB7eI",
+      "title": "7.3.4. Loss Function for Support Vector Machine Classifier - Hinge Loss",
+      "duration": 1338
+    },
+    {
+      "id": "dAxxUfmvG2I",
+      "title": "7.3.5. Gradient Descent for Support Vector Machine Classifier",
+      "duration": 1108
+    },
+    {
+      "id": "WdXapAG6TYo",
+      "title": "7.3.6. Building Support Vector Machine Classifier from scratch in Python",
+      "duration": 3903
+    },
+    {
+      "id": "5egiXYde6PY",
+      "title": "7.3.7. Implementing Support Vector Machine Classifier from Scratch in Python",
+      "duration": 3501
+    },
+    {
+      "id": "p_EoCGMpK6Q",
+      "title": "Machine Learning - Interview Questions and Answers - Part 2",
+      "duration": 2415
+    },
+    {
+      "id": "bFh1umUDaGc",
+      "title": "Project 19. Breast Cancer Classification using Machine Learning | Machine Learning Projects",
+      "duration": 3535
+    },
+    {
+      "id": "dkvgzL3gJVY",
+      "title": "Anaconda and Streamlit installation for Machine Learning Model Deployment",
+      "duration": 844
+    },
+    {
+      "id": "WLwjvWq0GWA",
+      "title": "Deploy Machine Learning Model using Streamlit in Python | ML model Deployment",
+      "duration": 2424
+    },
+    {
+      "id": "rsu3Rz4FiAc",
+      "title": "7.4.1. Lasso Regression - Intuition",
+      "duration": 1265
+    },
+    {
+      "id": "RV0oSmt2L54",
+      "title": "7.4.2. Math Behind Lasso Regression",
+      "duration": 1335
+    },
+    {
+      "id": "m4qBofkMPOE",
+      "title": "7.4.3. Gradient Descent for Lasso Regression",
+      "duration": 1120
+    },
+    {
+      "id": "V0yi-sBRI1A",
+      "title": "7.4.4. Building Lasso Regression from Scratch in Python",
+      "duration": 3222
+    },
+    {
+      "id": "PAwSpQAJLEs",
+      "title": "7.5.1. K-Nearest Neighbors (KNN) - intuition",
+      "duration": 1062
+    },
+    {
+      "id": "bN7Ibb6Mipk",
+      "title": "7.5.2. Math behind K-Nearest Neighbors (KNN)",
+      "duration": 888
+    },
+    {
+      "id": "CURkpMxK6hE",
+      "title": "7.5.3. Calculating Euclidean and Manhattan distance in Python",
+      "duration": 1389
+    },
+    {
+      "id": "atErwG9lCa8",
+      "title": "7.5.4. K-Nearest Neighbors Classifier from Scratch in Python | KNN Classifier",
+      "duration": 3015
+    },
+    {
+      "id": "JcOYd870RWM",
+      "title": "7.5.5. Implementing K-Nearest Neighbors Classifier from Scratch in Python | KNN Classifier",
+      "duration": 1728
+    },
+    {
+      "id": "AhHJJZzctws",
+      "title": "7.6.1. Decision tree - intuition",
+      "duration": 1036
+    },
+    {
+      "id": "jnV4W3RvVCE",
+      "title": "7.6.2. Entropy, Information Gain & Gini Impurity - Decision Tree",
+      "duration": 1103
+    },
+    {
+      "id": "dkd1eeaXbJA",
+      "title": "K Fold Cross Validation | Cross Validation in Machine Learning",
+      "duration": 1026
+    },
+    {
+      "id": "GVZ_zPxr8D4",
+      "title": "8.2. Cross Validation - Python implementation | cross_val_score | Cross Validation in Sklearn",
+      "duration": 2840
+    },
+    {
+      "id": "DTcfH5W6o08",
+      "title": "8.3. Hyperparameter Tuning - GridSearchCV and RandomizedSearchCV",
+      "duration": 816
+    },
+    {
+      "id": "aijB8qbEOQ4",
+      "title": "8.4. GridSearchCV and RandomizedSearchCV - Python implementation | Hyperparameter Tuning",
+      "duration": 2409
+    },
+    {
+      "id": "WGNI-k20GNo",
+      "title": "DL Project 1. Breast Cancer Classification with Neural Network | Deep Learning Projects in Python",
+      "duration": 4867
+    },
+    {
+      "id": "tHzJMATAL0U",
+      "title": "Processing Image data in Python for Deep Learning Applications | Image Processing with Python",
+      "duration": 2463
+    },
+    {
+      "id": "Vlc-iBQoNMw",
+      "title": "DL Project 2. MNIST Digit Classification with Neural Network | Deep Learning Projects in Python",
+      "duration": 5445
+    },
+    {
+      "id": "iUUSamG4P80",
+      "title": "8.5. Model Selection in Machine Learning | How to choose the right Machine Learning model",
+      "duration": 935
+    },
+    {
+      "id": "zU88wcLbBF8",
+      "title": "8.6. Model Selection in Machine Learning with Python | Choosing the right Machine Learning model",
+      "duration": 3908
+    },
+    {
+      "id": "rajHoAF4GEw",
+      "title": "8.7. Accuracy Score and Confusion Matrix - Concept & Python implementation | Model Evaluation in ML",
+      "duration": 1921
+    },
+    {
+      "id": "OgW4DiStePI",
+      "title": "8.8. Precision, Recall, F1 score | Model Evaluation",
+      "duration": 1932
+    },
+    {
+      "id": "3MGYg7pfDSo",
+      "title": "8.9. Precision, Recall, F1 Score - Python Implementation | Model Evaluation in Machine Learning",
+      "duration": 1593
+    },
+    {
+      "id": "ZTz26f6XXrQ",
+      "title": "How to Deploy Machine Learning Model as an API in Python - FastAPI",
+      "duration": 2605
+    },
+    {
+      "id": "EUWLdW_i0EQ",
+      "title": "Deploying ML model as Public API using FastAPI and Ngrok in Google Colaboratory",
+      "duration": 1262
+    },
+    {
+      "id": "VEjgGI3vU-k",
+      "title": "Deploying Machine Learning model as API on Heroku | FastAPI | Heroku | Python | ML",
+      "duration": 1486
+    },
+    {
+      "id": "10k_tC3Nzp0",
+      "title": "Deploying a Machine Learning web app using Streamlit on Heroku",
+      "duration": 1101
+    },
+    {
+      "id": "pHq29zi4Gr0",
+      "title": "DL Project 3. Dog vs Cat Classification using Transfer Learning | Deep Learning Projects in Python",
+      "duration": 5307
+    },
+    {
+      "id": "B-1qwKvJI64",
+      "title": "DL Project 4. CIFAR - 10 Object Recognition using ResNet50 | Deep Learning Projects in Python",
+      "duration": 5745
+    },
+    {
+      "id": "-6K6-qQrIWc",
+      "title": "DL Project 5. Face Mask Detection using Convolutional Neural Network (CNN) - Deep Learning Projects",
+      "duration": 4881
+    },
+    {
+      "id": "Pn5NTfeKJzY",
+      "title": "Project 20.  Rainfall Prediction Using Machine Learning | Complete ML Project Walkthrough",
+      "duration": 6030
+    },
+    {
+      "id": "xwaUuAR-W1A",
+      "title": "Project 21.  Autism Prediction Using Machine Learning | Complete ML Project Walkthrough 🚀",
+      "duration": 8305
+    },
+    {
+      "id": "qNglJgNOb7A",
+      "title": "Project 22. Customer Churn Prediction Using Machine Learning | Complete ML Project Walkthrough 🚀",
+      "duration": 6785
+    },
+    {
+      "id": "ic1tlRD0VoE",
+      "title": "Project 23: Build a Music Recommendation App using Python | AI Project for Beginners",
+      "duration": 3448
+    },
+    {
+      "id": "Zc4CcUkYKJk",
+      "title": "Project 24: Build a Movie Recommendation App using Python | AI Project for Beginners",
+      "duration": 3059
+    },
+    {
+      "id": "I0-xdYWLLKQ",
+      "title": "House Price Prediction Using Machine Learning | Step-by-Step | ML Projects",
+      "duration": 8260
+    },
+    {
+      "id": "3Ti-Z82lslM",
+      "title": "Clustering Models Explained with Intuition (Handwritten) | K-Means, DBSCAN, Hierarchical",
+      "duration": 2724
+    },
+    {
+      "id": "6hWP3A9-GSM",
+      "title": "Deep Learning Bootcamp: PyTorch, TensorFlow & Deployment | DL Projects",
+      "duration": 314
+    }
+  ]
+}

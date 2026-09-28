@@ -1,0 +1,40 @@
+{
+  "courseId": "geostats-jl-tutorials-477c31",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:19.388Z",
+  "title": "GeoStats.jl Tutorials",
+  "channel": "Júlio Hoffimann",
+  "videos": [
+    {
+      "id": "yDIK9onnZVw",
+      "title": "GeoStats.jl - Tutorial 00 - Introduction",
+      "duration": 1778
+    },
+    {
+      "id": "U9B1wx76m3M",
+      "title": "GeoStats.jl - Tutorial 01- Installation",
+      "duration": 2140
+    },
+    {
+      "id": "zAP-36Yh5sg",
+      "title": "GeoStats jl - Tutorial 02 - Declustering",
+      "duration": 1329
+    },
+    {
+      "id": "Ee8K2Dxp-2k",
+      "title": "GeoStats jl - Tutorial 03 - Two-point statistics",
+      "duration": 1700
+    },
+    {
+      "id": "z8tZ6qIt9Fc",
+      "title": "GeoStats jl - Tutorial 04 - Variography game",
+      "duration": 1872
+    },
+    {
+      "id": "aQSlPDzqGPY",
+      "title": "GeoStats jl - Tutorial 05 - Hilbert-Kriging",
+      "duration": 938
+    }
+  ]
+}

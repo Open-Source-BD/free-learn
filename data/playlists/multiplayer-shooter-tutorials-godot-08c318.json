@@ -1,0 +1,55 @@
+{
+  "courseId": "multiplayer-shooter-tutorials-godot-08c318",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:02.190Z",
+  "title": "Multiplayer Shooter Tutorials",
+  "channel": "PlugWorld",
+  "videos": [
+    {
+      "id": "lpkaMKE081M",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #1 - Initial Multiplayer Connection",
+      "duration": 380
+    },
+    {
+      "id": "fE6GNBkeey8",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #2 - Setting up Players",
+      "duration": 1007
+    },
+    {
+      "id": "c6RtXZaK_LY",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #3 - Server Browser UI",
+      "duration": 348
+    },
+    {
+      "id": "9WwKs3q-ebo",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #4 - Programming Server Browser",
+      "duration": 1496
+    },
+    {
+      "id": "hQ9RpRzNpk8",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #5 - Shooting",
+      "duration": 1188
+    },
+    {
+      "id": "q5FHyd8WNbA",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #6 - Damaging Players",
+      "duration": 586
+    },
+    {
+      "id": "zKgaEAinvMU",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #7 - Usernames",
+      "duration": 431
+    },
+    {
+      "id": "_i_rC2jeY0s",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #8 - Camera + Spawn Locations",
+      "duration": 668
+    },
+    {
+      "id": "h0X459kpV-A",
+      "title": "Godot 3 Networked Multiplayer Shooter Tutorial #9 - Finale",
+      "duration": 1334
+    }
+  ]
+}

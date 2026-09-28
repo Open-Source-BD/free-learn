@@ -1,0 +1,60 @@
+{
+  "courseId": "android-development-tutorials-2ac12c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:45.084Z",
+  "title": "Android Development Tutorials",
+  "channel": "GeeksforGeeks",
+  "videos": [
+    {
+      "id": "5kxD6ADWhJw",
+      "title": "Android Development Tutorials | Setting up the Android Studio | GeeksforGeeks",
+      "duration": 699
+    },
+    {
+      "id": "yVY68rQjUGY",
+      "title": "Android Development Tutorials | Creating your first App | GeeksforGeeks",
+      "duration": 812
+    },
+    {
+      "id": "BWUWJEaI0aE",
+      "title": "Android Development Tutorials | Designing UI with XML in Android | GeeksforGeeks",
+      "duration": 1915
+    },
+    {
+      "id": "FRIQ6XyZQ4U",
+      "title": "Android Development Tutorials | Introduction to Java for Android Development | GeeksforGeeks",
+      "duration": 1104
+    },
+    {
+      "id": "YrPDbxkfXoI",
+      "title": "Android Development Tutorial | Creating a Voter App | GeeksforGeeks",
+      "duration": 1826
+    },
+    {
+      "id": "LCMOVfIWFYQ",
+      "title": "Android Development Tutorial | Passing data b/w Activities by Intent Basic Example | GeeksforGeeks",
+      "duration": 1484
+    },
+    {
+      "id": "Tj4KdVulI_E",
+      "title": "Android Development Tutorial | The Activity Lifecycle | GeeksforGeeks",
+      "duration": 1294
+    },
+    {
+      "id": "wNY5wdwqR_U",
+      "title": "Android Development Tutorial | Working with RecyclerView in Android | GeeksforGeeks",
+      "duration": 1970
+    },
+    {
+      "id": "4mDp47rRK8M",
+      "title": "Android Development Tutorial | Saving data using Shared Preferences | GeeksforGeeks",
+      "duration": 1326
+    },
+    {
+      "id": "iS6Koeh-IS0",
+      "title": "Android Development Tutorial | SQLite Introduction - Part 1 | GeeksforGeeks",
+      "duration": 1587
+    }
+  ]
+}

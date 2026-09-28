@@ -1,0 +1,30 @@
+{
+  "courseId": "git-tutorial-learn-command-line-git-github-be745a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:31.249Z",
+  "title": "Git Tutorial - Learn Command-line Git & GitHub",
+  "channel": "LearnWebCode",
+  "videos": [
+    {
+      "id": "9GKpbI1siow",
+      "title": "Git Tutorial Part 1: What is Version Control?",
+      "duration": 576
+    },
+    {
+      "id": "n-p1RUmdl9M",
+      "title": "Git Tutorial Part 2: Vocab (Repo, Staging, Commit, Push, Pull)",
+      "duration": 917
+    },
+    {
+      "id": "UFEby2zo-9E",
+      "title": "Git Tutorial Part 3: Installation, Command-line & Clone",
+      "duration": 876
+    },
+    {
+      "id": "ol_UCWox9kc",
+      "title": "Git Tutorial Part 4: GitHub (Pushing to a Server)",
+      "duration": 885
+    }
+  ]
+}

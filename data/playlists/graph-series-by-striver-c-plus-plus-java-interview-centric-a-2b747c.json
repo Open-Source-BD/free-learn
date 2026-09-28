@@ -1,0 +1,290 @@
+{
+  "courseId": "graph-series-by-striver-c-plus-plus-java-interview-centric-a-2b747c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:58.273Z",
+  "title": "Graph Series by Striver | C++ | Java | Interview Centric | Algorithms | Problems",
+  "channel": "take U forward",
+  "videos": [
+    {
+      "id": "M3_pLsDdeuU",
+      "title": "G-1. Introduction to Graph | Types | Different Conventions Used",
+      "duration": 823
+    },
+    {
+      "id": "3oI-34aPMWM",
+      "title": "G-2. Graph Representation in C++ | Two Ways to Represent",
+      "duration": 964
+    },
+    {
+      "id": "OsNklbh9gYI",
+      "title": "G-3. Graph Representation in Java | Two Ways to Represent",
+      "duration": 793
+    },
+    {
+      "id": "lea-Wl_uWXY",
+      "title": "G-4. What are Connected Components ?",
+      "duration": 427
+    },
+    {
+      "id": "-tgVpUgsQ5k",
+      "title": "G-5. Breadth-First Search (BFS) | C++ and Java | Traversal Technique in Graphs",
+      "duration": 1179
+    },
+    {
+      "id": "Qzf1a--rhp8",
+      "title": "G-6. Depth-First Search (DFS) | C++ and Java | Traversal Technique in Graphs",
+      "duration": 1216
+    },
+    {
+      "id": "ACzkVtewUYA",
+      "title": "G-7. Number of Provinces | C++ | Java | Connected Components",
+      "duration": 929
+    },
+    {
+      "id": "muncqlKJrH0",
+      "title": "G-8. Number of Islands | Number of Connected Components in Matrix | C++ | Java",
+      "duration": 1504
+    },
+    {
+      "id": "C-2_uSRli8o",
+      "title": "G-9. Flood Fill Algorithm | C++ | Java",
+      "duration": 1234
+    },
+    {
+      "id": "yf3oUhkvqA0",
+      "title": "G-10. Rotten Oranges | C++ | Java",
+      "duration": 1350
+    },
+    {
+      "id": "BPlrALf1LDU",
+      "title": "G-11. Detect a Cycle in an Undirected Graph using BFS | C++ | Java",
+      "duration": 1219
+    },
+    {
+      "id": "zQ3zgFypzX4",
+      "title": "G-12. Detect a Cycle in an Undirected Graph using DFS | C++ | Java",
+      "duration": 1150
+    },
+    {
+      "id": "edXdVwkYHF8",
+      "title": "G-13. Distance of nearest cell having 1 | 0/1 Matrix | C++ | Java",
+      "duration": 1221
+    },
+    {
+      "id": "BtdgAys4yMk",
+      "title": "G-14. Surrounded Regions | Replace O's with X's | C++ | Java",
+      "duration": 1397
+    },
+    {
+      "id": "rxKcepXQgU4",
+      "title": "G-15. Number of Enclaves | Multi-source BFS | C++ | Java",
+      "duration": 934
+    },
+    {
+      "id": "7zmgQSJghpo",
+      "title": "G-16. Number of Distinct Islands | Constructive Thinking + DFS | C++ | Java",
+      "duration": 1082
+    },
+    {
+      "id": "-vu34sct1g8",
+      "title": "G-17. Bipartite Graph | BFS | C++ | Java",
+      "duration": 1109
+    },
+    {
+      "id": "KG5YFfR0j8A",
+      "title": "G-18. Bipartite Graph | DFS | C++ | Java",
+      "duration": 894
+    },
+    {
+      "id": "9twcmtQj4DU",
+      "title": "G-19. Detect cycle in a directed graph using DFS | Java | C++",
+      "duration": 1042
+    },
+    {
+      "id": "uRbJ1OF9aYM",
+      "title": "G-20. Find Eventual Safe States - DFS",
+      "duration": 1423
+    },
+    {
+      "id": "5lZ0iJMrUMk",
+      "title": "G-21. Topological Sort Algorithm | DFS",
+      "duration": 810
+    },
+    {
+      "id": "73sneFXuTEg",
+      "title": "G-22. Kahn's Algorithm | Topological Sort Algorithm | BFS",
+      "duration": 830
+    },
+    {
+      "id": "iTBaI90lpDQ",
+      "title": "G-23. Detect a Cycle in Directed Graph | Topological Sort | Kahn's Algorithm | BFS",
+      "duration": 377
+    },
+    {
+      "id": "WAOfKpxYHR8",
+      "title": "G-24. Course Schedule I and II | Pre-requisite Tasks | Topological Sort",
+      "duration": 692
+    },
+    {
+      "id": "2gtg3VsDGyc",
+      "title": "G-25. Find Eventual Safe States - BFS - Topological Sort",
+      "duration": 1017
+    },
+    {
+      "id": "U3N_je7tWAs",
+      "title": "G-26. Alien Dictionary - Topological Sort",
+      "duration": 1254
+    },
+    {
+      "id": "ZUFQfFaU-8U",
+      "title": "G-27. Shortest Path in Directed Acyclic Graph - Topological Sort",
+      "duration": 1596
+    },
+    {
+      "id": "C4gxoTaI71U",
+      "title": "G-28. Shortest Path in Undirected Graph with Unit Weights",
+      "duration": 992
+    },
+    {
+      "id": "tRPda0rcf8E",
+      "title": "G-29. Word Ladder - I | Shortest Paths",
+      "duration": 1687
+    },
+    {
+      "id": "DREutrv2XD0",
+      "title": "G-30. Word Ladder - 2 | Shortest Paths",
+      "duration": 1542
+    },
+    {
+      "id": "AD4SFl7tu7I",
+      "title": "G-31. Word Ladder - 2 | Optimised Approach for Leetcode",
+      "duration": 1420
+    },
+    {
+      "id": "V6H1qAeB-l4",
+      "title": "G-32. Dijkstra's Algorithm - Using Priority Queue - C++ and Java - Part 1",
+      "duration": 1362
+    },
+    {
+      "id": "PATgNiuTP20",
+      "title": "G-33. Dijkstra's Algorithm - Using Set - Part 2",
+      "duration": 749
+    },
+    {
+      "id": "3dINsjyfooY",
+      "title": "G-34. Dijkstra's Algorithm - Why PQ and not Q, Intuition, Time Complexity Derivation - Part 3",
+      "duration": 870
+    },
+    {
+      "id": "rp1SMw7HSO8",
+      "title": "G-35. Print Shortest Path - Dijkstra's Algorithm",
+      "duration": 1160
+    },
+    {
+      "id": "U5Mw4eyUmw4",
+      "title": "G-36. Shortest Distance in a Binary Maze",
+      "duration": 1422
+    },
+    {
+      "id": "0ytpZyiZFhA",
+      "title": "G-37. Path With Minimum Effort",
+      "duration": 1470
+    },
+    {
+      "id": "9XybHVqTHcQ",
+      "title": "G-38. Cheapest Flights Within K Stops",
+      "duration": 1436
+    },
+    {
+      "id": "_BvEJ3VIDWw",
+      "title": "G-39. Minimum Multiplications to Reach End",
+      "duration": 1171
+    },
+    {
+      "id": "_-0mx0SmYxA",
+      "title": "G-40. Number of Ways to Arrive at Destination",
+      "duration": 1446
+    },
+    {
+      "id": "0vVofAhAYjc",
+      "title": "G-41. Bellman Ford Algorithm",
+      "duration": 1663
+    },
+    {
+      "id": "YbY8cVwWAvw",
+      "title": "G-42. Floyd Warshall Algorithm",
+      "duration": 1813
+    },
+    {
+      "id": "PwMVNSJ5SLI",
+      "title": "G-43. Find the City With the Smallest Number of Neighbours at a Threshold Distance",
+      "duration": 776
+    },
+    {
+      "id": "ZSPjZuZWCME",
+      "title": "G-44. Minimum Spanning Tree - Theory",
+      "duration": 479
+    },
+    {
+      "id": "mJcZjjKzeqk",
+      "title": "G-45. Prim's Algorithm - Minimum Spanning Tree - C++ and Java",
+      "duration": 1150
+    },
+    {
+      "id": "aBxjDBC4M1U",
+      "title": "G-46. Disjoint Set | Union by Rank | Union by Size | Path Compression",
+      "duration": 2535
+    },
+    {
+      "id": "DMnDM_sxVig",
+      "title": "G-47. Kruskal's Algorithm - Minimum Spanning Tree - C++ and Java",
+      "duration": 791
+    },
+    {
+      "id": "ZGr5nX-Gi6Y",
+      "title": "G-48. Number of Provinces - Disjoint Set",
+      "duration": 483
+    },
+    {
+      "id": "FYrl7iz9_ZU",
+      "title": "G-49. Number of Operations to Make Network Connected - DSU",
+      "duration": 888
+    },
+    {
+      "id": "FMwpt_aQOGw",
+      "title": "G-50. Accounts Merge - DSU",
+      "duration": 1321
+    },
+    {
+      "id": "Rn6B-Q4SNyA",
+      "title": "G-51. Number of Islands - II - Online Queries - DSU",
+      "duration": 1532
+    },
+    {
+      "id": "lgiz0Oup6gM",
+      "title": "G-52. Making a Large Island - DSU",
+      "duration": 1576
+    },
+    {
+      "id": "OwMNX8SPavM",
+      "title": "G-53. Most Stones Removed with Same Row or Column - DSU",
+      "duration": 1431
+    },
+    {
+      "id": "R6uoSjZ2imo",
+      "title": "G-54. Strongly Connected Components - Kosaraju's Algorithm",
+      "duration": 1364
+    },
+    {
+      "id": "qrAub5z8FeA",
+      "title": "G-55. Bridges in Graph - Using Tarjan's Algorithm of time in and low time",
+      "duration": 1405
+    },
+    {
+      "id": "j1QDfU21iZk",
+      "title": "G-56. Articulation Point in Graph",
+      "duration": 1320
+    }
+  ]
+}

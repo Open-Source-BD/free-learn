@@ -1,0 +1,65 @@
+{
+  "courseId": "learning-plcs-with-structured-text-42fe83",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:19.103Z",
+  "title": "Learning PLCs with Structured Text",
+  "channel": "SquishyBrained",
+  "videos": [
+    {
+      "id": "WiYZ5ZmsWX0",
+      "title": "Learning PLCs with Structured Text - EP1 - Intro to IEC 61131-3",
+      "duration": 467
+    },
+    {
+      "id": "mHq9QihUDUU",
+      "title": "Learning PLCs with Structured Text - EP2 - Programming Environment (Beckhoff TwinCAT 3)",
+      "duration": 724
+    },
+    {
+      "id": "srTISZQgH5I",
+      "title": "Learning PLCs with Structured Text - EP3 - The PLC Task and Scan Times",
+      "duration": 603
+    },
+    {
+      "id": "_hxGLBJyKxQ",
+      "title": "Learning PLCs with Structured Text - EP4 - Operators and Data Types",
+      "duration": 1138
+    },
+    {
+      "id": "JRS0ISB2WLU",
+      "title": "Learning PLCs with Structured Text - EP5 - Timers and Triggers",
+      "duration": 795
+    },
+    {
+      "id": "mITqmCvBARQ",
+      "title": "Learning PLCs with Structured Text - EP6 - Debug Visualizations in TwinCAT 3",
+      "duration": 588
+    },
+    {
+      "id": "XmcXRZXPRWs",
+      "title": "Learning PLCs with Structured Text - EP7 - State Machines",
+      "duration": 1248
+    },
+    {
+      "id": "teTDU6kxSk4",
+      "title": "Learning PLCs with Structured Text - EP8 - Functions and Function Blocks",
+      "duration": 914
+    },
+    {
+      "id": "MG5Qbwhf-JI",
+      "title": "Learning PLCs with Structured Text - EP9 - Arrays, Structures, Enumerations",
+      "duration": 1138
+    },
+    {
+      "id": "h5dQ8tfF2dM",
+      "title": "Learning PLCs with Structured Text - EP10 - Pointers and Memory Manipulation",
+      "duration": 1294
+    },
+    {
+      "id": "BMrVOQJJhkg",
+      "title": "Learning PLCs with Structured Text - EP11 - Time Math and Wrap Up",
+      "duration": 1000
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "courseId": "python-built-in-functions-a-to-z-tutorial-and-examples-35f1cc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:40.750Z",
+  "title": "Python Built in Functions A to Z Tutorial and Examples | Python Tutorial for Beginners | Python Full Course | Python Programming Full Course",
+  "channel": "Brainy Things",
+  "videos": [
+    {
+      "id": "GMNIZ36LxdM",
+      "title": "abs | all | any | ascii | Python Builtin Functions",
+      "duration": 1008
+    },
+    {
+      "id": "p-X5dXW98CM",
+      "title": "bin | bool | breakpoint | bytearray | bytes | Python Builtin Functions",
+      "duration": 720
+    },
+    {
+      "id": "wWtxrbw5nMo",
+      "title": "callable | chr | classmethod | compile | complex | Python Builtin Functions",
+      "duration": 782
+    },
+    {
+      "id": "FTsqZ6ZC-hQ",
+      "title": "delattr | dict | dir | divmod | Python Builtin Functions",
+      "duration": 786
+    },
+    {
+      "id": "vC1ChQ8NklE",
+      "title": "enumerate | eval | exec | Python Builtin Functions",
+      "duration": 507
+    },
+    {
+      "id": "YvfyRTUQJuY",
+      "title": "filter | float | format | f-strings | frozenset | Python Builtin Functions",
+      "duration": 1513
+    },
+    {
+      "id": "Zjf28vgeblo",
+      "title": "getattr | globals | Python Builtin Functions",
+      "duration": 300
+    },
+    {
+      "id": "wV55h9qiy0c",
+      "title": "hasattr | hash | help | hex | Python Builtin Functions",
+      "duration": 527
+    },
+    {
+      "id": "5J4-oFeLmvA",
+      "title": "id | input | int | isinstance | issubclass | iter | Python Built in in Functions",
+      "duration": 1347
+    },
+    {
+      "id": "FtHZ1kxsKlg",
+      "title": "len | list | list comprehension | locals | Python Built in Functions",
+      "duration": 888
+    },
+    {
+      "id": "c454xmsuE2o",
+      "title": "map | max | memoryview | min | Python Built in Functions",
+      "duration": 1015
+    },
+    {
+      "id": "l2uC5EdVv9c",
+      "title": "next | Python Builtin Functions",
+      "duration": 324
+    },
+    {
+      "id": "hmsw8yDGq-g",
+      "title": "object | oct | open | ord | Python Built in Functions",
+      "duration": 838
+    },
+    {
+      "id": "_KvUN-nKRn8",
+      "title": "pow | print | property | Python Built in Functions",
+      "duration": 948
+    },
+    {
+      "id": "uZ2yDgrIBsQ",
+      "title": "range | repr | reversed | round | Python Builtin Functions",
+      "duration": 658
+    },
+    {
+      "id": "Jrn6DabJzI4",
+      "title": "set | setattr | slice | sorted | staticmethod | str | sum | super | Python Built in Functions",
+      "duration": 1361
+    },
+    {
+      "id": "Y9w62awlEk0",
+      "title": "tuple | type | Python Built in Functions",
+      "duration": 324
+    },
+    {
+      "id": "FqJUu650Idw",
+      "title": "vars | Python Built in Functions",
+      "duration": 160
+    },
+    {
+      "id": "mGj6_jz2Q8w",
+      "title": "zip | Python Built in Functions",
+      "duration": 369
+    }
+  ]
+}
