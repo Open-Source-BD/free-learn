@@ -59,3 +59,51 @@ export interface FetchReport {
   empty: string[];
   failed: { courseId: string; url: string; error: string }[];
 }
+
+export type CourseKind = 'video' | 'playlist' | 'channel' | 'unknown';
+
+export interface Course {
+  id: string;
+  title: string;
+  url: string;
+  authors: string[];
+  notes: string[];
+  lang: LangCode;
+  categoryName: string;
+  categorySlug: string;
+  group: CategoryGroup;
+  kind: CourseKind;
+  listId: string | null;
+  videoCount: number;
+  firstVideoId: string | null;
+  thumbVideoId: string | null;
+}
+
+export interface CategoryNode {
+  group: CategoryGroup;
+  items: { name: string; slug: string; count: number }[];
+}
+
+export interface Catalog {
+  courses: Course[];
+  categories: CategoryNode[];
+  videosFor(courseId: string): PlaylistVideo[];
+}
+
+export type CourseCardData = Pick<Course, 'id' | 'title' | 'url' | 'authors' | 'lang' | 'kind' | 'videoCount' | 'thumbVideoId'>;
+
+export type WatchCourse = Pick<
+  Course,
+  'id' | 'title' | 'url' | 'authors' | 'lang' | 'categoryName' | 'categorySlug' | 'kind' | 'listId'
+>;
+
+export interface SearchEntry {
+  id: string;
+  t: string;
+  a: string;
+  c: string;
+  l: LangCode;
+  v: string | null;
+  n: number;
+  h: string;
+}
