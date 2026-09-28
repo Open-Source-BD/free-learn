@@ -1,0 +1,510 @@
+{
+  "courseId": "dsa-one-course-the-complete-data-structure-and-algorithms-co-5cbda2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:04.122Z",
+  "title": "DSA-One Course - The Complete Data Structures and Algorithms Course",
+  "channel": "Anuj Kumar Sharma",
+  "videos": [
+    {
+      "id": "N89PN_uyelU",
+      "title": "Time Complexity & Big O notation | Analysis and Calculation | Java C++ Anuj Bhaiya ✅DSAOne Course #1",
+      "duration": 1025
+    },
+    {
+      "id": "Db8OmMfzwl8",
+      "title": "Bit Manipulation Algorithms Part 1 | Interview Questions Java C++ | Anuj Bhaiya ✅| DSAOne Course #2",
+      "duration": 1839
+    },
+    {
+      "id": "h7meukyY_bQ",
+      "title": "Bit Masking - Important Bit Manipulation Algorithms Part 2 | Java C++ | Anuj Bhaiya✅DSAOne Course #3",
+      "duration": 1164
+    },
+    {
+      "id": "bTauscvOymA",
+      "title": "XOR Problems in Bit Manipulation | Advanced Bit Manipulation Techniques✅ Java C++ | DSAOne Course #4",
+      "duration": 1121
+    },
+    {
+      "id": "69jsFIMINpI",
+      "title": "Mathematics & Number Theory Algorithms | Part - 1 | DSA-One Course",
+      "duration": 971
+    },
+    {
+      "id": "dyrRM8dTEus",
+      "title": "Euclid GCD, Prime Numbers & Sieve of Eratosthenes | Mathematics Part - 2 | DSA-One Course #6",
+      "duration": 1028
+    },
+    {
+      "id": "CnPreli2F-E",
+      "title": "Modulo Arithmetics | Compute answer modulo 1000000007 | Mathematics Part 3 | DSA-One Course #7",
+      "duration": 929
+    },
+    {
+      "id": "Mr9MVpSoTGk",
+      "title": "Recursion in 3 steps | Recursion Algorithms Basics - Part 1 | DSA-One Course #8",
+      "duration": 797
+    },
+    {
+      "id": "46zD5d9y9b4",
+      "title": "Josephus Problem,  Matrix Paths | Recursive Solution Java and C++ | Anuj Bhaiya ✅| DSA-One Course #9",
+      "duration": 1266
+    },
+    {
+      "id": "mEBEw_xScsE",
+      "title": "Permutations of a String | Recursion Algorithms on Strings | Power Set of String ✅ DSAOne Course #10",
+      "duration": 1383
+    },
+    {
+      "id": "MHXR4PCY8c0",
+      "title": "Backtracking | N-Queen Problem & Sudoku Solver | Java and C++ | Anuj Bhaiya ✅| DSAOne Course #11",
+      "duration": 1419
+    },
+    {
+      "id": "X0G5jEcvroo",
+      "title": "Majority Elements in an Array | Moore's Voting Algorithm | Java C++ | Anuj Bhaiya ✅DSAOne Course #12",
+      "duration": 1502
+    },
+    {
+      "id": "HCL4_bOd3-4",
+      "title": "Kadane's Algorithm | Largest Sum Contiguous Subarray | Java and C++ | Anuj Bhaiya ✅DSAOne Course #13",
+      "duration": 842
+    },
+    {
+      "id": "34WE6kwq49U",
+      "title": "Best time to buy and sell stock to Maximise Profit Leetcode - 121 | Java and C++ | DSAOne Course #14",
+      "duration": 811
+    },
+    {
+      "id": "Q7v239y-Tik",
+      "title": "Best time to Buy and Sell Stock ii || Leetcode - 122 | Stock Buy and Sell || DSA-One Course #15",
+      "duration": 436
+    },
+    {
+      "id": "UZG3-vZlFM4",
+      "title": "Trapping Rainwater Problem | Leetcode | Rain water trapping problem | DSA-One Course #16",
+      "duration": 657
+    },
+    {
+      "id": "bBQkErahU9c",
+      "title": "Bubble Sort Algorithm | C++ / Java | Complete explanation for Beginners and Code | DSAOne Course #17",
+      "duration": 862
+    },
+    {
+      "id": "wWhAhp6PIuQ",
+      "title": "Insertion Sort Algorithm | C++ / Java Complete explanation for Beginners and Code | DSAOne Course 18",
+      "duration": 1044
+    },
+    {
+      "id": "B-nqY6IYqVw",
+      "title": "Selection Sort Algorithm | C++ / Java Complete explanation for Beginners and Code | DSAOne Course 19",
+      "duration": 643
+    },
+    {
+      "id": "UA_Rmjfj4bw",
+      "title": "Quick Sort Algorithm | C++ / Java complete explanation for Beginners and Code | DSA-One Course #20",
+      "duration": 1612
+    },
+    {
+      "id": "aDX3MFL0tYs",
+      "title": "Merge Sort Algorithm | C++ / Java Complete explanation for Beginners and Code | DSA-One Course #21",
+      "duration": 1191
+    },
+    {
+      "id": "ApvI7QUqGzI",
+      "title": "Binary Search in C++ and Java | Recursively and Iteratively | DSA-One Course #22 | Anuj Bhaiya",
+      "duration": 1075
+    },
+    {
+      "id": "awMDD7sGWVU",
+      "title": "Search an element in an Infinite Sorted array | Binary Search, Part 2 | DSA-One Course #23",
+      "duration": 778
+    },
+    {
+      "id": "Le8bc8aHgBA",
+      "title": "Search an element in a Sorted & Rotated Array | Binary Search, Part 3 | DSA-One Course #24",
+      "duration": 761
+    },
+    {
+      "id": "BSihvQCh9-I",
+      "title": "Books Allocation - Google Interview Question | Binary Search, Part 4 | DSA-One Course #25",
+      "duration": 1110
+    },
+    {
+      "id": "K7BTtcU0n-Q",
+      "title": "Introduction to Hashing | HashSet in Java & unordered_set in C++ | DSA-One Course #26",
+      "duration": 641
+    },
+    {
+      "id": "FEQSlOQa5po",
+      "title": "Hashing Challenge | Count Distinct Elements | Union & Intersection of Two Arrays| DSA-One Course #27",
+      "duration": 744
+    },
+    {
+      "id": "XzwUBIkR9pA",
+      "title": "Find Subarray with the given sum k 🔥| Hashmap in Java | DSA-One Course #28",
+      "duration": 993
+    },
+    {
+      "id": "j48e8ac7r20",
+      "title": "Count Distinct Elements in every Window of size k | HashMap Interview Problems | DSA-One Course #29",
+      "duration": 657
+    },
+    {
+      "id": "wZLn2BN1TvY",
+      "title": "Hashmap in Java | Internal Working of Hashmap in Java | Hashmap Implementation | DSA-One Course #30",
+      "duration": 999
+    },
+    {
+      "id": "ywx-Onrdx4U",
+      "title": "Heap Data Structure | MaxHeap Insertion and Deletion | DSA-One Course #31",
+      "duration": 1297
+    },
+    {
+      "id": "UVW0NfG_YWA",
+      "title": "HeapSort | Heapify method to build a MaxHeap in O(n) | DSA-One Course #32",
+      "duration": 1447
+    },
+    {
+      "id": "yAs3tONaf3s",
+      "title": "Find Kth Largest/Smallest Element in an Array | PriorityQueue in Java & C++ | DSA-One Course #33",
+      "duration": 795
+    },
+    {
+      "id": "Eb1A6nm_Nic",
+      "title": "Connect N Ropes with minimum cost | Amazon Interview Question | PriorityQueue | DSA-One Course #34",
+      "duration": 658
+    },
+    {
+      "id": "Yv2jzDzYlp8",
+      "title": "Heap - Find Median of Running stream of Integers | Google Interview Question | DSA-One Course #35",
+      "duration": 935
+    },
+    {
+      "id": "4tU7d0TTiZQ",
+      "title": "Linked List Data Structure | Insert, Traverse and Delete Nodes in a Linked List | DSA-One Course #36",
+      "duration": 1727
+    },
+    {
+      "id": "ugQ2DVJJroc",
+      "title": "Reverse a Linked List | Iteratively & Recursively | DSA-One Course #37",
+      "duration": 1072
+    },
+    {
+      "id": "ee-DuKtRNGw",
+      "title": "Palindrome Linked List & Find the middle of a Given Linked List | DSA-One Course #38",
+      "duration": 732
+    },
+    {
+      "id": "jcZtMh_jov0",
+      "title": "Detect & Remove Cycle in a Linked List | Floyd's Cycle Detection Algorithm | DSA-One Course #39",
+      "duration": 945
+    },
+    {
+      "id": "4apaOcK586U",
+      "title": "Clone a Linked List with Next and Random Pointer | Important Interview Question | DSA-One Course #40",
+      "duration": 704
+    },
+    {
+      "id": "EKlU8A5zYFs",
+      "title": "Stack Data Structure | Stack using Arrays & LinkedList | Stack in C++ & Java | DSA-One Course #41",
+      "duration": 979
+    },
+    {
+      "id": "_RtghJnM1Qo",
+      "title": "Nearest Smaller Element on Left & Right side of an Array | Stack | DSA-One Course #42",
+      "duration": 1083
+    },
+    {
+      "id": "aKTGpBeOeZg",
+      "title": "Parenthesis Checker | Valid Parentheses Leetcode | Balanced Parentheses Hackerrank | DSAOne #43",
+      "duration": 606
+    },
+    {
+      "id": "vhUxKxiconE",
+      "title": "Largest Rectangular in Histogram | Maximum Rectangular Area in a Histogram | DSA-One Course #44",
+      "duration": 829
+    },
+    {
+      "id": "oaN9ibZKMpA",
+      "title": "Max rectangle | Maximal Rectangle | Maximum Size Rectangle in Binary Matrix | DSA-One Course #45",
+      "duration": 654
+    },
+    {
+      "id": "_PU5t-gk_B4",
+      "title": "Infix to Postfix Conversion Using Stack | Infix Postfix and Prefix Expressions | DSA-One Course #46",
+      "duration": 917
+    },
+    {
+      "id": "m7SGekhd1mQ",
+      "title": "Infix to Postfix Conversion Using Stack | Postfix Evaluation using Stack | DSA-One Course #47",
+      "duration": 904
+    },
+    {
+      "id": "BXhEMOuPmmU",
+      "title": "Queue Data Structure | Queue in Java | Implement Queue using LinkedList | DSA-One Course #48",
+      "duration": 567
+    },
+    {
+      "id": "lPL-pmBm04Q",
+      "title": "Circular Queue Implementation using Array | Queue in Data Structure | DSA-One Course #49",
+      "duration": 1255
+    },
+    {
+      "id": "OJEYA5nlpEU",
+      "title": "Queue in Java and C++ | Queue Data Structure | Queue Implementation Java | DSA-One Course #50",
+      "duration": 343
+    },
+    {
+      "id": "mDcP7tLuBhc",
+      "title": "Implement Queue using two Stack & Implement Stack using two Queue | DSA-One Course #51",
+      "duration": 537
+    },
+    {
+      "id": "kvCYxPKpPGg",
+      "title": "Flattening a Linked List | Flatten a Multilevel Doubly Linked List | DSA-One Course #52",
+      "duration": 988
+    },
+    {
+      "id": "-vlXbnzEgng",
+      "title": "Deque in Data Structure | Double ended queue Data Structure | Stack & Queue using Deque | DSAOne #53",
+      "duration": 519
+    },
+    {
+      "id": "MCvGwtkqJS0",
+      "title": "Sliding Window Maximum | Sliding Window Algorithm | Deque Data Structure | DSA-One Course #54",
+      "duration": 1092
+    },
+    {
+      "id": "QhIM-G7FAow",
+      "title": "Binary Tree Data Structure | Implementation of a Binary Tree | Java C++ | DSA-One Course #55",
+      "duration": 1256
+    },
+    {
+      "id": "cFRRgwPIk2s",
+      "title": "Binary Tree Traversals 🔥 | InOrder, PreOrder and PostOrder Traversals | DSA-One Course #56",
+      "duration": 778
+    },
+    {
+      "id": "hyAqgckHUiA",
+      "title": "Height of Binary Tree | Height of a Binary Tree | Binary Tree Data Structure | DSA-One Course #57",
+      "duration": 516
+    },
+    {
+      "id": "Nq_slyv_xtc",
+      "title": "Size of a Binary Tree & Max/Min in a Binary Tree | Binary Tree Data Structure | DSA-One Course #58",
+      "duration": 528
+    },
+    {
+      "id": "ICpp88mcB-k",
+      "title": "Level Order Traversal Binary Tree | Binary Tree Level Order Traversal | DSAOne Course #59",
+      "duration": 1003
+    },
+    {
+      "id": "Lcre2oZh5YM",
+      "title": "Left view of Binary Tree | Right view of Binary Tree | Left view of Tree | DSA-One Course #60",
+      "duration": 659
+    },
+    {
+      "id": "wTloJwckQTU",
+      "title": "Top view of Binary Tree | Bottom view of Binary Tree | Binary Tree Data Structures Java | DSAOne #61",
+      "duration": 1012
+    },
+    {
+      "id": "nGNoTdav5bQ",
+      "title": "Binary Tree to DLL | Flatten Binary Tree to Doubly Linked List | DSA-One Course #62",
+      "duration": 573
+    },
+    {
+      "id": "Toe0UQMWhjM",
+      "title": "Diameter of a Binary Tree | Diameter of a Tree | Maximum width of Binary Tree | DSA-One Course #63",
+      "duration": 695
+    },
+    {
+      "id": "cOjLyASDJcc",
+      "title": "Lowest Common Ancestor in a Binary Tree | LCA of a Binary Tree | DSA-One Course #64",
+      "duration": 660
+    },
+    {
+      "id": "gvH2RACiR4Y",
+      "title": "Burn a Tree | Minimum Time To Burn A Binary Tree Starting From The Leaf Node | DSA-One Course #65",
+      "duration": 823
+    },
+    {
+      "id": "b8hE6t14NDs",
+      "title": "Binary Search Tree Data Structure | BST Introduction | Searching, Implementation | DSAOne Course #66",
+      "duration": 744
+    },
+    {
+      "id": "jQS5IC9Gmm0",
+      "title": "Insertion in Binary Search Tree | Insertion in BST | Iteratively & Recursively | DSA-One Course #67",
+      "duration": 838
+    },
+    {
+      "id": "petKaikRiIA",
+      "title": "Delete a Node in BST | Deletion in BST | Delete a Node in Binary Search Tree | DSA-One Course #68",
+      "duration": 797
+    },
+    {
+      "id": "9btwHI_84DM",
+      "title": "Check for BST | Validate Binary Search Tree | Validate BST | Check BST | DSA-One Course #69",
+      "duration": 879
+    },
+    {
+      "id": "Sgz3SF_0wOw",
+      "title": "Find the Floor & Ceil Value in a BST | Ceil in BST | Floor in BST | Binary search tree | DSAOne #70",
+      "duration": 885
+    },
+    {
+      "id": "SVBZW18Ei_o",
+      "title": "Two Sum in BST | Pair Sum in BST | Two sum Problem in Binary Search Tree | DSA-One Course #71",
+      "duration": 448
+    },
+    {
+      "id": "h7xALnzllec",
+      "title": "Vertical Order Traversal of Binary Tree | Vertical Traversal of a Binary Tree | DSA-One Course #72",
+      "duration": 914
+    },
+    {
+      "id": "bBIhFbvavLk",
+      "title": "AVL Tree in Data Structure | AVL Tree Insertion , Implementation, Rotation | Java C++ Code } | #73",
+      "duration": 1496
+    },
+    {
+      "id": "MEpBQ4YghAM",
+      "title": "Graph Data Structure | Adjacency Matrix and Adjacency List Graph | Graph DSA Java C++ | DSAOne #74",
+      "duration": 736
+    },
+    {
+      "id": "dCvnjapI6ik",
+      "title": "BFS Algorithm | Breadth First Search in Graph | BFS Traversal | BFS Graph | DSA-One Course #75",
+      "duration": 790
+    },
+    {
+      "id": "0ql7lZS2qt0",
+      "title": "DFS Algorithm | Depth First Search Traversal in Graph | DFS Graph | DSA-One Course #76",
+      "duration": 819
+    },
+    {
+      "id": "UPfUFoWjk5w",
+      "title": "Detect Cycle in Undirected Graph | Using DFS | Cycle detection in Graph | DSA-One Course #77",
+      "duration": 737
+    },
+    {
+      "id": "GLxfoaZlRqs",
+      "title": "Detect cycle in a Directed Graph | Using DFS | Graph Data Structure | DSA-One Course #78",
+      "duration": 672
+    },
+    {
+      "id": "Zbbe9FYVnM4",
+      "title": "Topological Sort using DFS | Graph Data Structure | Topological Sort Algorithm | DSAOne #79",
+      "duration": 533
+    },
+    {
+      "id": "XMiIk1B0v-w",
+      "title": "Kahn's Algorithm | Topological Sort using BFS | Graph Data Structure | Kahn Algorithm | DSAOne #80",
+      "duration": 734
+    },
+    {
+      "id": "kXiqvMykeJA",
+      "title": "Prim's Algorithm | Minimum Spanning Tree | Graph Data Structure | Java C++ Code | DSAOne #81",
+      "duration": 990
+    },
+    {
+      "id": "wjxCG6dOwcY",
+      "title": "Dijkstra's Algorithm | Single Source Shortest Path Algorithm in Graph | Dijkstra algorithm Java #82",
+      "duration": 720
+    },
+    {
+      "id": "RiWE52X5wdQ",
+      "title": "Bellman Ford Algorithm | Negative Weight Cycle Detection | Shortest Path | DSA-One Course #83",
+      "duration": 982
+    },
+    {
+      "id": "Kptz-NVA2RE",
+      "title": "Union Find Algorithm | Disjoint Set | Union By Rank & Path Compression | DSA-One Course #84",
+      "duration": 1128
+    },
+    {
+      "id": "TbzANA0ErDo",
+      "title": "Kruskal's Algorithm to find Minimum Spanning Tree in a Graph | DSA-One Course #85",
+      "duration": 945
+    },
+    {
+      "id": "-NTaXJ7BBXs",
+      "title": "Dynamic Programming 🔥| Coin Change Problem Leetcode | C++ | Java | DSA-One Course #86",
+      "duration": 1830
+    },
+    {
+      "id": "y6kpGJBI7t0",
+      "title": "0/1 Knapsack Problem using Dynamic Programming | DSA-One Course #87",
+      "duration": 1434
+    },
+    {
+      "id": "0yvOxPwe3Dg",
+      "title": "Longest Common Subsequence (LCS) using Dynamic Programming (DP) DSA-One Course #88",
+      "duration": 1543
+    },
+    {
+      "id": "p09b1IzQa_A",
+      "title": "Longest Common Subsequence LCS using Tabulation Method | Dynamic Programming | DSA-One Course #89",
+      "duration": 804
+    },
+    {
+      "id": "9xCpskXPRNQ",
+      "title": "5 Problems on Variations of Longest Common Subsequence | DP | Java DSA Placement Course #90",
+      "duration": 567
+    },
+    {
+      "id": "eMnyEDYGobA",
+      "title": "Minimum Edit Distance Problem | DP | Dynamic Programming | DSA-One Course #91",
+      "duration": 822
+    },
+    {
+      "id": "KvAsKDtEiPk",
+      "title": "Rod Cutting Problem | Easy Explanation & Code | Dynamic Programming | DSA-One Course #92",
+      "duration": 782
+    },
+    {
+      "id": "mKluyW4YFvs",
+      "title": "Maximum Sum Rectangle | Extended Kadane's Algorithm | Dynamic Programming | DSA-One Course #93",
+      "duration": 643
+    },
+    {
+      "id": "-UPo_dzBw1c",
+      "title": "Matrix Chain Multiplication Problem | DP Dynamic Programming | DSA-One Course #94",
+      "duration": 1200
+    },
+    {
+      "id": "Oi6a4O00n4U",
+      "title": "Palindromic Partitioning Problem (Minimum cuts required to make Palindromes) DP | DSA-One Course #95",
+      "duration": 659
+    },
+    {
+      "id": "U4UoR9vq238",
+      "title": "Activity Selection Problem using Greedy Method | Maximum Disjoint Intervals | DSA-One Course #96",
+      "duration": 792
+    },
+    {
+      "id": "ggLUc8HHFvQ",
+      "title": "Wine Buying and Selling Problem | Greedy Algorithm | DSA-One Course #97",
+      "duration": 439
+    },
+    {
+      "id": "Ls_AYoz1IX0",
+      "title": "Minimum Platforms Problem | Greedy Algorithm | DSA-One Course #98",
+      "duration": 430
+    },
+    {
+      "id": "soJgGe1CQHw",
+      "title": "Trie Data Structure | Insertion, Deletion & Searching in a Trie | DSA-One Course #99",
+      "duration": 1090
+    },
+    {
+      "id": "Bf2opsBpens",
+      "title": "Maximum XOR of Two Numbers in an Array | using Trie Data Structure | DSA-One Course #100 🎉",
+      "duration": 1139
+    }
+  ]
+}

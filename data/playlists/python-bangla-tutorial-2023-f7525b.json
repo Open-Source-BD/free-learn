@@ -1,0 +1,465 @@
+{
+  "courseId": "python-bangla-tutorial-2023-f7525b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:14.754Z",
+  "title": "Python Bangla Tutorial 2023",
+  "channel": "Hablu Programmer",
+  "videos": [
+    {
+      "id": "Ri1Lgdew8Ds",
+      "title": "Python Full Course Bangla Tutorial for beginners Outline [20 Projects]  @StudyMart",
+      "duration": 1107
+    },
+    {
+      "id": "31QmsNeiDKI",
+      "title": "#1 Python Environment Setup Bangla Tutorial 2023",
+      "duration": 640
+    },
+    {
+      "id": "eol9EzchLbA",
+      "title": "#2 Python First Program And Syntax Bangla Tutorial 2023",
+      "duration": 533
+    },
+    {
+      "id": "lV7czwQsCk0",
+      "title": "#3 Python Comment Bangla Tutorial 2023",
+      "duration": 393
+    },
+    {
+      "id": "3TR2mkNCS9U",
+      "title": "#4 Python Module And Pip Bangla Tutorial 2023",
+      "duration": 502
+    },
+    {
+      "id": "rvnp9F9dB1U",
+      "title": "#5 Python Variable Bangla Tutorial 2023",
+      "duration": 558
+    },
+    {
+      "id": "AcFt3D6HTt0",
+      "title": "#6 Python Data Type Bangla Tutorial 2023",
+      "duration": 626
+    },
+    {
+      "id": "dZ535ITvzbY",
+      "title": "#7 Python Number Type Data Bangla Tutorial 2023",
+      "duration": 576
+    },
+    {
+      "id": "TEW97cJZ3ec",
+      "title": "#8 Python String Type Data Bangla Ttutorial 2023",
+      "duration": 396
+    },
+    {
+      "id": "YqQZ_oSmqAw",
+      "title": "#9 Python Boolean Type Data In Bangla Tutorial 2023",
+      "duration": 457
+    },
+    {
+      "id": "4rNixJcsC1k",
+      "title": "#9.1 Python String Formatting Bangla Tutorial 2023",
+      "duration": 328
+    },
+    {
+      "id": "DEI0UIZ_SFI",
+      "title": "#10 Binary Type Data Python Bangla Tutorial 2023 @StudyMart",
+      "duration": 813
+    },
+    {
+      "id": "D5xc2QrPXQI",
+      "title": "#11 Python None Type Data Bangla Tutorial 2023",
+      "duration": 262
+    },
+    {
+      "id": "KXARdcss8dE",
+      "title": "#12 Sequence Type Data In Python Bangla Tutorial",
+      "duration": 943
+    },
+    {
+      "id": "6QOH6auuAUs",
+      "title": "#13 Python Operator Bangla Tutorial 2023",
+      "duration": 700
+    },
+    {
+      "id": "nfmHxs57c0o",
+      "title": "#14 Python Assignment Operator Bangla Tutorial",
+      "duration": 821
+    },
+    {
+      "id": "2p_A46X048w",
+      "title": "#15 Python Swapping Bangla Tutorial 2023",
+      "duration": 290
+    },
+    {
+      "id": "KtozLrR_0X8",
+      "title": "#16 Python User Input Bangla Tutorial 2023",
+      "duration": 393
+    },
+    {
+      "id": "jxkXQb4DtoQ",
+      "title": "#17 Python Type Casting Bangla Tutorial 2023",
+      "duration": 486
+    },
+    {
+      "id": "A_wI1sAjRxU",
+      "title": "#18 Python List Data Type Bangla Tutorial 2023",
+      "duration": 674
+    },
+    {
+      "id": "s3KtSPunz5g",
+      "title": "#19 Python Change List Item Bangla Tutorial",
+      "duration": 310
+    },
+    {
+      "id": "RAVdO-2Zyz8",
+      "title": "#20 Python Add List Item Bangla Tutorial 2023 @StudyMart",
+      "duration": 429
+    },
+    {
+      "id": "jH8SNizYQRs",
+      "title": "#21 Python Remove List Item Bangla Tutorial 2023",
+      "duration": 933
+    },
+    {
+      "id": "9XWFgI0UPAk",
+      "title": "#22 Python Loop List Bangla Tutorial 2023",
+      "duration": 1147
+    },
+    {
+      "id": "_QDm3XpKu-s",
+      "title": "#23 Python List Comprehension Bangla Tutorial 2023",
+      "duration": 675
+    },
+    {
+      "id": "a46WoRNX_0Q",
+      "title": "#24 Python Sort List Bangla Tutorial 2023",
+      "duration": 454
+    },
+    {
+      "id": "PUiwi5Xd23s",
+      "title": "#25 Python Copy A List Bangla Tutorial 2023",
+      "duration": 317
+    },
+    {
+      "id": "2HDJyyY95IE",
+      "title": "#26 Python Join Two List  Bangla Tutorial 2023",
+      "duration": 359
+    },
+    {
+      "id": "CAEAHAjEvTo",
+      "title": "#27 Python List All Methods Bangla Tutorial 2023",
+      "duration": 279
+    },
+    {
+      "id": "BFUUk0RdXaQ",
+      "title": "#28 Python List Exercise Bangla Tutorial 2023",
+      "duration": 365
+    },
+    {
+      "id": "UQbL2jAUSEQ",
+      "title": "#29 Python Matrix Bangla Tutorial 2023",
+      "duration": 355
+    },
+    {
+      "id": "KEwQ1wJKsS8",
+      "title": "#30 Python Tuple Data Type Bangla Tutorial 2023 @StudyMart",
+      "duration": 996
+    },
+    {
+      "id": "7nPDjeAR0rs",
+      "title": "#31 Python Update Tuple Bangla Tutorial 2023",
+      "duration": 677
+    },
+    {
+      "id": "fgJWvoBWXVc",
+      "title": "#32 Python Unpack Tuple Bangla Tutorial 2023",
+      "duration": 728
+    },
+    {
+      "id": "JmAqFiZA-Cg",
+      "title": "#33 Python loop Tuple Bangla Tutorial 2023",
+      "duration": 551
+    },
+    {
+      "id": "LIYl5ov-AwE",
+      "title": "#34 Python Join Tuple Bangla Tutorial  2023",
+      "duration": 404
+    },
+    {
+      "id": "JkC1GfRQSzg",
+      "title": "#35 Python Tuple Method Bangla Tutorial 2023",
+      "duration": 346
+    },
+    {
+      "id": "l83uuKGSD8U",
+      "title": "#36 Python Tuple Exercise  Bangla Tutorial  2023",
+      "duration": 191
+    },
+    {
+      "id": "JU7v7qUszgs",
+      "title": "#37 Python Set Bangla Tutorial 2023",
+      "duration": 533
+    },
+    {
+      "id": "iG5cmA-04rQ",
+      "title": "#38 Python Access Set Item Bangla Tutorial 2023",
+      "duration": 286
+    },
+    {
+      "id": "xcUj1smKYFM",
+      "title": "#39 Python Add Set Item Bangla Tutorial 2023",
+      "duration": 539
+    },
+    {
+      "id": "BHH1VzVo0_k",
+      "title": "#40 Python Remove Set Item Bangla Tutorial 2023 @StudyMart",
+      "duration": 502
+    },
+    {
+      "id": "XTTEX-APcXQ",
+      "title": "#41 Python Loop Set Item Bangla Tutorial 2023",
+      "duration": 142
+    },
+    {
+      "id": "oL0Vn5rAxAM",
+      "title": "#42 Python Join Set Item Bangla Tutorial 2023",
+      "duration": 290
+    },
+    {
+      "id": "vQ3w8NhooGc",
+      "title": "#42.2 Python Set Item Exercise Bangla Tutorial 2023",
+      "duration": 339
+    },
+    {
+      "id": "bv3F4ZactVg",
+      "title": "#43 Python Dictionaries Bangla Tutorial 2023",
+      "duration": 937
+    },
+    {
+      "id": "NRx6xet911I",
+      "title": "#44 Python Dictionaries Access Bangla Tutorial 2023",
+      "duration": 628
+    },
+    {
+      "id": "uduxP0gLLYE",
+      "title": "#45  Python Dictionaries Change Item Bangla Tutorial 2023",
+      "duration": 452
+    },
+    {
+      "id": "1EDT2zyXUUA",
+      "title": "#46  Python Dictionaries Add Item Bangla Tutorial 2023",
+      "duration": 316
+    },
+    {
+      "id": "jQEIlSE9xrw",
+      "title": "#47 Python Loop Dictionary Bangla Tutorial",
+      "duration": 572
+    },
+    {
+      "id": "6ASesYwZmIc",
+      "title": "#47.2 Python Copy Dictionary Bangla Tutorial",
+      "duration": 271
+    },
+    {
+      "id": "reloHECv8go",
+      "title": "#48 Python Dictionary Exercises Bangla Tutorial",
+      "duration": 393
+    },
+    {
+      "id": "WJ8bgm3Bzhk",
+      "title": "#49 Python IF Else Condition Bangla Tutorial",
+      "duration": 1087
+    },
+    {
+      "id": "OWVkkN4CSAU",
+      "title": "#50 Python Loops Bangla Tutorial @StudyMart",
+      "duration": 536
+    },
+    {
+      "id": "e4CuHlW2_KU",
+      "title": "#51 Python Function Bangla Tutorial",
+      "duration": 972
+    },
+    {
+      "id": "Sj-alL8vReM",
+      "title": "#52 Python Break & Continue Keyword Bangla Tutorial",
+      "duration": 579
+    },
+    {
+      "id": "tliKfH_o3mE",
+      "title": "#53 Python Recursion Bangla Tutorial",
+      "duration": 452
+    },
+    {
+      "id": "ADWEn2w0kuE",
+      "title": "#54 Python Zip Function Bangla Tutorial",
+      "duration": 330
+    },
+    {
+      "id": "_afZQ5Azdt0",
+      "title": "#55 Python Debugging  Bangla Tutorial",
+      "duration": 360
+    },
+    {
+      "id": "jIwlxqbb-lw",
+      "title": "#56 Python  Lambda Functions Bangla Tutorial",
+      "duration": 550
+    },
+    {
+      "id": "wJV6tZ7d2Rg",
+      "title": "#57 Python Array Bangla Tutorial 2023",
+      "duration": 452
+    },
+    {
+      "id": "1MKsgYCwe_g",
+      "title": "#58 Python Class & Object Bangla Tutorial",
+      "duration": 889
+    },
+    {
+      "id": "KcNXn1_owqI",
+      "title": "#59 Python Inheritance Bangla Tutorial",
+      "duration": 514
+    },
+    {
+      "id": "NcCd2jHuLiw",
+      "title": "#60 Python Multiple Inheritance Bangla Tutorial @StudyMart",
+      "duration": 331
+    },
+    {
+      "id": "m2GXZMSKIL0",
+      "title": "#61 Python Multilevel Inheritance Bangla Tutorial",
+      "duration": 395
+    },
+    {
+      "id": "KskLMYvIuU4",
+      "title": "#62 Python Hybrid And Hierarchical Inheritance Bangla Tutorial",
+      "duration": 372
+    },
+    {
+      "id": "L9y9i3ofmZw",
+      "title": "#63 Python Iterator Bangla Tutorial",
+      "duration": 366
+    },
+    {
+      "id": "YzF4b-k324c",
+      "title": "#64 Python Scope Bangla Tutorial",
+      "duration": 493
+    },
+    {
+      "id": "8rF9tNi-NvI",
+      "title": "#65 Python DateTime Bangla Tutorial",
+      "duration": 414
+    },
+    {
+      "id": "qr-nzk4snIk",
+      "title": "#66 Python Math Functions Bangla Tutorial",
+      "duration": 449
+    },
+    {
+      "id": "rlXJMyRrVG8",
+      "title": "#67 Python Regular Expression  Bangla Tutorial",
+      "duration": 957
+    },
+    {
+      "id": "j3IQQdohFis",
+      "title": "#68 Python Try And Except Bangla Tutorial",
+      "duration": 400
+    },
+    {
+      "id": "cE5O7qQqYh4",
+      "title": "#69 Python File Open Bangla Tutorial",
+      "duration": 260
+    },
+    {
+      "id": "l_f_wMipoMI",
+      "title": "#70 Python File Write Bangla Tutorial @StudyMart",
+      "duration": 692
+    },
+    {
+      "id": "Zbg-0mcrkWI",
+      "title": "#71 Python Delete File Bangla Tutorial 2023",
+      "duration": 412
+    },
+    {
+      "id": "1TTE-cpbzAA",
+      "title": "#72 Python Create Own Module Bangla Tutorial 2023",
+      "duration": 624
+    },
+    {
+      "id": "h98M42BcR7k",
+      "title": "#73 Python Object-Oriented Programming (OOP) Bangla Explained Easily",
+      "duration": 496
+    },
+    {
+      "id": "5G-CxQB-GgM",
+      "title": "#74 Python Constructor Bangla Tutorial 2023 (OOP)",
+      "duration": 676
+    },
+    {
+      "id": "N4GdHnX_iGc",
+      "title": "#75 Python Introducing All About Method Bangla Tutorial",
+      "duration": 719
+    },
+    {
+      "id": "Cto4Bfp4ybQ",
+      "title": "#76 Python Abstraction Bangla Tutorial (OOP)",
+      "duration": 294
+    },
+    {
+      "id": "I4dc6QI9mPo",
+      "title": "#77 Python Polymorphism Bangla Tutorial (OOP)",
+      "duration": 725
+    },
+    {
+      "id": "1H1mrmDqEt8",
+      "title": "#78 Python Encapsulation Bangla Tutorial (OOP) Last Part",
+      "duration": 607
+    },
+    {
+      "id": "1mLmW0sTzjw",
+      "title": "Python Tutorial - Python Full Course For Beginners 2023 [Bangla]",
+      "duration": 40024
+    },
+    {
+      "id": "6wTAtX4OEpY",
+      "title": "#1 Python Marge The PDF Project Bangla Tutorial",
+      "duration": 469
+    },
+    {
+      "id": "qZjmvfqMoY0",
+      "title": "#2 Python  Mad Libs Game Bangla Project @STUDY MART",
+      "duration": 437
+    },
+    {
+      "id": "Q7rVls29ICA",
+      "title": "#3 Python Number Guessing Game Bangla Project",
+      "duration": 596
+    },
+    {
+      "id": "0hBZ2bJlpk0",
+      "title": "#4 Python Text Based Adventure Game Project Bangla",
+      "duration": 854
+    },
+    {
+      "id": "PiNHWzHH6_E",
+      "title": "#5 Python Dice Rolling Simulator Game Bangla Project",
+      "duration": 340
+    },
+    {
+      "id": "vVvQZXlndPs",
+      "title": "#6 Python Hangman Game Bangla Project",
+      "duration": 833
+    },
+    {
+      "id": "jp_UINWeKJg",
+      "title": "#7 Python Project- Contact Book App Using Python Bangla Tutorial",
+      "duration": 1494
+    },
+    {
+      "id": "J3Crbvuq8w0",
+      "title": "#8 Python  Desktop Notifier Project Bangla Tutorial",
+      "duration": 276
+    }
+  ]
+}

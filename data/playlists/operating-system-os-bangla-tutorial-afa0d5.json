@@ -1,0 +1,720 @@
+{
+  "courseId": "operating-system-os-bangla-tutorial-afa0d5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:29.388Z",
+  "title": "🎓 Complete অপারেটিং সিস্টেম (OS) বাংলা টিউটোরিয়াল",
+  "channel": "Lecturelia - CSE বাংলা টিউটোরিয়াল ",
+  "videos": [
+    {
+      "id": "tZTOOzDnw24",
+      "title": "🎯 Part-1.1 | Introduction to Operation System (OS) | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 803
+    },
+    {
+      "id": "ZPPHDYNfdD8",
+      "title": "🎯 Part-1.2 | Goals of Operating System (OS) | Bengali Tutorial | Lecturelia",
+      "duration": 668
+    },
+    {
+      "id": "2gIcc_ISB94",
+      "title": "🎯 Part-1.3 | Functions of Operating System (OS) | Bangla Tutorial | Lecturelia",
+      "duration": 398
+    },
+    {
+      "id": "aC-pZzIg6MI",
+      "title": "🎯 Part-1.4 | Types of Operating System (OS) | Bangla Tutorial | Lecturelia",
+      "duration": 624
+    },
+    {
+      "id": "BtNLlUdbBo8",
+      "title": "🎯 Part-1.5 | Batch Operating System (OS) | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 724
+    },
+    {
+      "id": "Z9UYksBBIrU",
+      "title": "🎯 Part-1.6 | Multiprogramming Operating System (OS) | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 799
+    },
+    {
+      "id": "YsHgM1ZhKuQ",
+      "title": "🎯 Part-1.7 | Multitasking/Time-Sharing Operating System (OS) | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 714
+    },
+    {
+      "id": "ZMosas_u6cQ",
+      "title": "🎯 Part-1.8 | Multiprocessing Operating System (OS) | Bengali Tutorial | Lecturelia",
+      "duration": 348
+    },
+    {
+      "id": "5PoHCgkosiA",
+      "title": "🎯 Part-1.9 | Distributed Operating System (OS) | Bengali Tutorial | Lecturelia",
+      "duration": 499
+    },
+    {
+      "id": "KLBs5pCh174",
+      "title": "🎯 Part-1.10 | Embedded Operating System (OS) | Bangla Tutorial | Lecturelia",
+      "duration": 338
+    },
+    {
+      "id": "usx9HCQilxc",
+      "title": "🎯 Part-1.11 | Real-Time Operating System (OS) | Bengali Tutorial | Lecturelia",
+      "duration": 393
+    },
+    {
+      "id": "w1cCnUdSXek",
+      "title": "🎯 Part-1.12 | Process in Operating System (OS) | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 299
+    },
+    {
+      "id": "eCHR9PB_9rQ",
+      "title": "🎯 Part-1.13 | States of a Process | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 514
+    },
+    {
+      "id": "bFfSIAliNYU",
+      "title": "🎯 Part-1.14 | States of a Process | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 400
+    },
+    {
+      "id": "uEGU421TcJ0",
+      "title": "🎯 Part-1.15 | Long, Short, and Medium Term Scheduler | Part 1 | Operating System | Tutorial in Be...",
+      "duration": 424
+    },
+    {
+      "id": "XGsURm29qqw",
+      "title": "🎯 Part-1.16 | Long, Short, and Medium Term Scheduler | Part 2 | Operating System | Bangla Tutorial",
+      "duration": 367
+    },
+    {
+      "id": "Cm28QayeGGc",
+      "title": "🎯 Part-1.17 | Long, Short, and Medium Term Scheduler | Part 3 | Operating System | Bangla Tutorial",
+      "duration": 420
+    },
+    {
+      "id": "4TW4U_1Ukyk",
+      "title": "🎯 Part 1.18 | Kernel Mode and User Mode | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 563
+    },
+    {
+      "id": "96Nhn0hrGZA",
+      "title": "🎯 Part-1.19 | Kernel Mode and User Mode | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 555
+    },
+    {
+      "id": "BPokOCnrJws",
+      "title": "🎯 Part-1.20 | Types of System Calls | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 595
+    },
+    {
+      "id": "6duJfhc51_k",
+      "title": "🎯 Part-1.21 | Fork System Call | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 469
+    },
+    {
+      "id": "laRMhVWk6rA",
+      "title": "🎯 Part-1.22 | Fork System Call | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 438
+    },
+    {
+      "id": "tbzte0G3CwE",
+      "title": "🎯 Part-1.23 | Fork System Call | Part 3 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 328
+    },
+    {
+      "id": "pICNLxNZUew",
+      "title": "🎯 Part-1.24 | Fork System Call | Part 4 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 543
+    },
+    {
+      "id": "LeMCPeotSD8",
+      "title": "🎯 Part-1.25 | Fork System Call | Part 5 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 363
+    },
+    {
+      "id": "8vBHrFdK0Vw",
+      "title": "🎯 Part-1.26 | Fork System Call | Part 6 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 554
+    },
+    {
+      "id": "nWD0IcUwVOc",
+      "title": "🎯 Part-1.27 | Fork System Call | Part 7 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 385
+    },
+    {
+      "id": "CGIPuj1AjqE",
+      "title": "🎯 Part-1.28 | Process vs Thread | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 705
+    },
+    {
+      "id": "BYvRzEP5g0o",
+      "title": "🎯 Part-1.29 | User Level thread vs Kernel Level thread | Operating System | Bengali Tutorial",
+      "duration": 345
+    },
+    {
+      "id": "FY2XrJk0I9M",
+      "title": "🎯 Part-2.1 | CPU Scheduling (Preemptive VS Non-preemptive) | Operating System | Bangla Tutorial",
+      "duration": 392
+    },
+    {
+      "id": "ZPQGnEYxP74",
+      "title": "🎯 Part-2.2 | CPU Scheduling Algorithms | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 456
+    },
+    {
+      "id": "7aAS1MrsMrA",
+      "title": "🎯 Part-2.3 | Arrival Time, Response Time and Burst Time | OS | Bengali Tutorial | Lecturelia",
+      "duration": 436
+    },
+    {
+      "id": "bw_g0-GU24g",
+      "title": "🎯 Part-2.4 | Completion Time, Turn Around Time and Waiting Time | OS | Bangla Tutorial | Lecturelia",
+      "duration": 476
+    },
+    {
+      "id": "mG7g9amoJg4",
+      "title": "🎯 Part-2.5 | First Come First Serve | CPU Scheduling Algorithm | OS | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 803
+    },
+    {
+      "id": "9BsFCuHf9XQ",
+      "title": "🎯 Part-2.6 | First Come First Serve | CPU Scheduling Algorithm | OS | Bangla Tutorial | Lecturelia",
+      "duration": 495
+    },
+    {
+      "id": "oqm7fYVQsvs",
+      "title": "🎯 Part-2.7 | Shortest Job First | CPU Scheduling Algorithm | OS | Bengali Tutorial | Lecturelia",
+      "duration": 619
+    },
+    {
+      "id": "QjjDJd7Nw6g",
+      "title": "🎯 Part-2.8 | Shortest Job First | CPU Scheduling Algorithm | OS | Bengali Tutorial | Lecturelia",
+      "duration": 512
+    },
+    {
+      "id": "bGrS-klNQ24",
+      "title": "🎯 Part-2.9 | Shortest Remaining Time First | CPU Scheduling Algorithm | OS | Bangla Tutorial",
+      "duration": 618
+    },
+    {
+      "id": "HGOcv0ecQ7Q",
+      "title": "🎯 Part-2.10 | Shortest Remaining Time First | CPU Scheduling Algorithm | OS | Bangla Tutorial",
+      "duration": 638
+    },
+    {
+      "id": "klgHNQInqi4",
+      "title": "🎯 Part-2.11 | Shortest Remaining Time First with CPU & IO Time | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 909
+    },
+    {
+      "id": "AwgLAjooQTQ",
+      "title": "🎯 Part-2.12 | Shortest Remaining Time First with CPU & IO Time | Operating System | Bengali Tutorial",
+      "duration": 672
+    },
+    {
+      "id": "kBQnFoUZUYg",
+      "title": "🎯 Part-2.13 | Longest Job First | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 614
+    },
+    {
+      "id": "k_wSWvnq6nM",
+      "title": "🎯 Part-2.14 | Longest Remaining Time First | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 751
+    },
+    {
+      "id": "XyccLnmaKEc",
+      "title": "🎯 Part-2.15 | Round Robin Algorithm | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 892
+    },
+    {
+      "id": "vo4Cb-RELR0",
+      "title": "🎯 Part-2.16 | Round Robin Algorithm | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 588
+    },
+    {
+      "id": "HSayYbhNlok",
+      "title": "🎯 Part-2.17 | Non-Preemptive Priority Scheduling Algorithm | Operating System | Bengali Tutorial",
+      "duration": 704
+    },
+    {
+      "id": "Ml6Vtxwyeik",
+      "title": "🎯 Part-2.18 | Non-Preemptive Priority Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 574
+    },
+    {
+      "id": "Z5cskmBxCJ0",
+      "title": "🎯 Part-2.19 | Preemptive Priority Scheduling Algorithm | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 581
+    },
+    {
+      "id": "WmHJWk-XQlA",
+      "title": "🎯 Part-2.20 | Preemptive Priority Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 865
+    },
+    {
+      "id": "d9Fk4nWpBD8",
+      "title": "🎯 Part-2.21 | Highest Response Ratio Next | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 903
+    },
+    {
+      "id": "jZg-Q9mlPq4",
+      "title": "🎯 Part-2.22 | Highest Response Ratio Next | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 605
+    },
+    {
+      "id": "UHLsKAs7D9g",
+      "title": "🎯 Part-2.23 | Multi Level Queue Scheduling | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 610
+    },
+    {
+      "id": "lLOBoJadlZ8",
+      "title": "🎯 Part-2.24 | Multilevel Feedback Queue Scheduling | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 483
+    },
+    {
+      "id": "GfO9dJldIhY",
+      "title": "🎯 Part-3.1 | Process Synchronization | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 489
+    },
+    {
+      "id": "o6FtWtrIDAA",
+      "title": "🎯 Part-3.2 | Process Synchronization | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 548
+    },
+    {
+      "id": "Hxou4H17Hks",
+      "title": "🎯 Part-3.3 | Producer Consumer Problem | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 491
+    },
+    {
+      "id": "IWWE4wLfHZM",
+      "title": "🎯 Part-3.4 | Producer Consumer Problem | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 504
+    },
+    {
+      "id": "sER4IqhSXxI",
+      "title": "🎯 Part-3.5 | Producer Consumer Problem | Part 3 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 751
+    },
+    {
+      "id": "1u21CSyYY2M",
+      "title": "🎯 Part-3.6 | Printer Spooler Problem | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 465
+    },
+    {
+      "id": "R1JkraSdSns",
+      "title": "🎯 Part-3.7 | Printer Spooler Problem | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 460
+    },
+    {
+      "id": "EeKUASHUHgw",
+      "title": "🎯 Part-3.8 | Critical Section Problem | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 492
+    },
+    {
+      "id": "2xyz5hNbM90",
+      "title": "🎯 Part-3.9 | Critical Section Problem | Part 2 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 501
+    },
+    {
+      "id": "G3P6lPbWguY",
+      "title": "🎯 Part-3.10 | Critical Section Problem | Part 3 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 566
+    },
+    {
+      "id": "QCu0r6-UcLc",
+      "title": "🎯 Part-3.11 | Lock Variable Mechanism | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 496
+    },
+    {
+      "id": "asKFEwwwnMg",
+      "title": "🎯 Part 3.12 | Lock Variable Mechanism | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 485
+    },
+    {
+      "id": "jd5oBVMANeE",
+      "title": "🎯 Part-3.13 | Test Set Lock Mechanism | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 633
+    },
+    {
+      "id": "M2iyj8c9Pn8",
+      "title": "🎯 Part-3.14 | Test Set Lock Mechanism | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 657
+    },
+    {
+      "id": "ef5NEcLpu2I",
+      "title": "🎯 Part-3.15 | Strict Alternation Approach | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 685
+    },
+    {
+      "id": "Zc_6TnPLpVk",
+      "title": "🎯 Part-3.16 | Interest Variable Mechanism | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 833
+    },
+    {
+      "id": "2tpCmrROU8s",
+      "title": "🎯 Part-3.17 | Peterson Solution | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 491
+    },
+    {
+      "id": "GeTYMi9x31M",
+      "title": "🎯 Part-3.18 | Peterson Solution | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 474
+    },
+    {
+      "id": "GUAJBbKdA0I",
+      "title": "🎯 Part-3.19 | Semaphores | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 496
+    },
+    {
+      "id": "K_a1qegUXYU",
+      "title": "🎯 Part-3.20 | Counting Semaphore | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 543
+    },
+    {
+      "id": "JE6-5vNFSsA",
+      "title": "🎯 Part-3.21 | Counting Semaphore | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 578
+    },
+    {
+      "id": "eoEa0EeqKhs",
+      "title": "🎯 Part-3.22 | Binary Semaphore | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 473
+    },
+    {
+      "id": "vJCoZcrhUcU",
+      "title": "🎯 Part-3.23 | Binary Semaphore | Part 2 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 367
+    },
+    {
+      "id": "c-cv2rzMCWg",
+      "title": "🎯 Part-3.24 | Producer Consumer Problem Solution | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 838
+    },
+    {
+      "id": "F5kmHL1qaR4",
+      "title": "🎯 Part-3.25 | Reader-Writer Problem | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 489
+    },
+    {
+      "id": "2-PR-COQeaQ",
+      "title": "🎯 Part-3.26 | Reader-Writer Problem | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 514
+    },
+    {
+      "id": "NtwDJtNZh-Q",
+      "title": "🎯 Part-3.27 | Dining Philosophers Problem | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 473
+    },
+    {
+      "id": "9Q7RM3eS5lI",
+      "title": "🎯 Part-3.28 | Dining Philosophers Problem | Part 2 | Operating System | Bengali Tutorial | Lectur...",
+      "duration": 452
+    },
+    {
+      "id": "ehbGn3Q88AE",
+      "title": "🎯 Part-3.29 | Dining Philosophers Problem | Part 3 | Operating System | Bengali Tutorial | Lectur...",
+      "duration": 430
+    },
+    {
+      "id": "I_O9IfDqfWQ",
+      "title": "🎯 Part-4.1 | Deadlock | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 654
+    },
+    {
+      "id": "DGgtUCiKXiM",
+      "title": "🎯 Part-4.2 | Resource Allocation Graph | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 646
+    },
+    {
+      "id": "KD4IjxgEfTA",
+      "title": "🎯 Part-4.3 | Resource Allocation Graph | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 585
+    },
+    {
+      "id": "IIOQHphKmZQ",
+      "title": "🎯 Part-4.4 | Multi Instance Resource Allocation Graph | Part 1 | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 416
+    },
+    {
+      "id": "xnzQ6aE-crI",
+      "title": "🎯 Part-4.5 | Multi-Instance Resource Allocation Graph | Part 2 | Operating System | Bangla Tutorial",
+      "duration": 560
+    },
+    {
+      "id": "LX1KnVxW3v8",
+      "title": "🎯 Part-4.6 | Various Methods to Handle Deadlock | Part 1 | Operating System | Bengali Tutorial",
+      "duration": 783
+    },
+    {
+      "id": "1k2ViZpdElM",
+      "title": "🎯 Part-4.7 | Various Methods to Handle Deadlock | Part 2 | Operating System | Bangla Tutorial",
+      "duration": 332
+    },
+    {
+      "id": "5GC9qEC_C5I",
+      "title": "🎯 Part-4.8 | Banker's Algorithm | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 511
+    },
+    {
+      "id": "DlbZiXDb45U",
+      "title": "🎯 Part-4.9 | Banker's Algorithm | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 582
+    },
+    {
+      "id": "YDNBiAXtoJM",
+      "title": "🎯 Part-4.10 | Banker's Algorithm | Part 3 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 810
+    },
+    {
+      "id": "OFRHk1S-YlE",
+      "title": "🎯 Part-4.11 | Deadlock BCS, Bank & Varsity Practice Question | OS | Bengali Tutorial | Lecturelia",
+      "duration": 441
+    },
+    {
+      "id": "9mEFdBnE2tU",
+      "title": "🎯 Part-4.12 | Deadlock BCS, Bank & Varsity Practice Question | OS | Bengali Tutorial | Lecturelia",
+      "duration": 497
+    },
+    {
+      "id": "U8ooqd2j2Ag",
+      "title": "🎯 Part-4.13 | Deadlock BCS, Bank & Varsity Practice Question | OS | Bengali Tutorial | Lecturelia",
+      "duration": 448
+    },
+    {
+      "id": "zuKm-2Zy3fk",
+      "title": "🎯 Part-4.14 | Deadlock BCS, Bank & Varsity Practice Question | OS | Bengali Tutorial | Lecturelia",
+      "duration": 446
+    },
+    {
+      "id": "Y-FA0WqkkEo",
+      "title": "🎯 Part-5.1 | Memory Management | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 391
+    },
+    {
+      "id": "RTHjxXaocTk",
+      "title": "🎯 Part-5.2 | Degree of Multiprogramming | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 590
+    },
+    {
+      "id": "79BqzSSVq0U",
+      "title": "🎯 Part-5.3 | Memory Management Techniques | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 636
+    },
+    {
+      "id": "PcVNhsMhzns",
+      "title": "🎯 Part-5.4 | Fixed Partitioning | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 481
+    },
+    {
+      "id": "ubNv4Y-VvBo",
+      "title": "🎯 Part-5.5 | Fixed Partitioning | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 456
+    },
+    {
+      "id": "WPgKKMHmCk0",
+      "title": "🎯 Part-5.6 | Variable Partitioning | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 473
+    },
+    {
+      "id": "k5rxv47_OKo",
+      "title": "🎯 Part-5.7 | Variable Partitioning | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 567
+    },
+    {
+      "id": "0YasPq6Odec",
+      "title": "🎯 Part-5.8 | First Fit, Next Fit, Best Fit & Worst Fit | Part 1 | OS | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 772
+    },
+    {
+      "id": "viyQMBZz7xY",
+      "title": "🎯 Part-5.9 | First Fit, Next Fit, Best Fit & Worst Fit | Part 2 | OS | Bengali Tutorial | Lecturelia",
+      "duration": 716
+    },
+    {
+      "id": "AHuYc0XuhKQ",
+      "title": "🎯 Part-5.10 | Contiguous Memory Management | Part 1 | OS | Bengali Tutorial | Lecturelia",
+      "duration": 485
+    },
+    {
+      "id": "Dm9Wk9SSCFY",
+      "title": "🎯 Part-5.11 | Contiguous Memory Management | Part 2 | OS | Bangla Tutorial | Lecturelia",
+      "duration": 497
+    },
+    {
+      "id": "L0vtHROPq4I",
+      "title": "🎯 Part-5.12 | Non-Contiguous Memory Allocation | Part 1 | OS | Bangla Tutorial | Lecturelia",
+      "duration": 563
+    },
+    {
+      "id": "4BawSViOaXs",
+      "title": "🎯 Part-5.13 | Non-Contiguous Memory Allocation | Part 2 | OS | Bangla Tutorial | Lecturelia",
+      "duration": 531
+    },
+    {
+      "id": "c9QAhkRyOQY",
+      "title": "🎯 Part-5.14 | Paging | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 493
+    },
+    {
+      "id": "owgrOcaMfCk",
+      "title": "🎯 Part-5.15 | Paging | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 494
+    },
+    {
+      "id": "6SXwyoOjlis",
+      "title": "🎯 Part-5.16 | Paging | Part 3 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 292
+    },
+    {
+      "id": "rXgtnXvfTqo",
+      "title": "🎯 Part-5.17 | Logical Address & Physical Address | Part 1 | OS | Bengali Tutorial | Lecturelia",
+      "duration": 717
+    },
+    {
+      "id": "Mm2PtP8_Yr4",
+      "title": "🎯 Part-5.18 | Logical Address & Physical Address | Part 2 | OS | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 534
+    },
+    {
+      "id": "icW52AJXFcc",
+      "title": "🎯 Part-5.19 | Page Table Entry | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 672
+    },
+    {
+      "id": "q9blqRexvR8",
+      "title": "🎯 Part-5.20 | 2 Level Paging | Part 1 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 602
+    },
+    {
+      "id": "xWHy8tt4B4Y",
+      "title": "🎯 Part-5.21 | 2 Level Paging | Part 2 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 613
+    },
+    {
+      "id": "3g4nLsWbLSM",
+      "title": "🎯 Part-5.22 | Inverted Paging | Part 1 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 696
+    },
+    {
+      "id": "l3eMwdnJQbU",
+      "title": "🎯 Part-5.23 | Inverted Paging | Part 2 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 539
+    },
+    {
+      "id": "sRRUDOZ_l04",
+      "title": "🎯 Part-5.24 | Thrashing | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 553
+    },
+    {
+      "id": "2oqrfomWicg",
+      "title": "🎯 Part-5.25 | Segmentation | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 517
+    },
+    {
+      "id": "mhFMxCwQNjg",
+      "title": "🎯 Part-5.26 | Segmentation | Part 2 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 525
+    },
+    {
+      "id": "Ashxn_tJ-AY",
+      "title": "🎯 Part-5.27 | Overlays | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 616
+    },
+    {
+      "id": "rH7cI3IXI_s",
+      "title": "🎯 Part-5.28 | Overlays | Part 2 | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 555
+    },
+    {
+      "id": "LSComX9pcms",
+      "title": "🎯 Part-5.29 | Virtual Memory | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 806
+    },
+    {
+      "id": "LinG-k-2PRQ",
+      "title": "🎯 Part-5.30 | Translation Lookaside Buffer (TLB) | Part 1 | OS | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 763
+    },
+    {
+      "id": "lpOdsnhlAWk",
+      "title": "🎯 Part-5.31 | Translation Lookaside Buffer (TLB) | Part 2 | OS | Bengali Tutorial | Lecturelia",
+      "duration": 364
+    },
+    {
+      "id": "HT_HGL2-y7M",
+      "title": "🎯 Part-5.32 | FIFO (First In First Out) Page Replacement Algorithm | OS | Bangla Tutorial",
+      "duration": 931
+    },
+    {
+      "id": "iJ-EWITtk9o",
+      "title": "🎯 Part-5.33 | Belady's Anomaly | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 605
+    },
+    {
+      "id": "5PUo86Rt0Xo",
+      "title": "🎯 Part-5.34 | Optimal Page Replacement Algorithm | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 553
+    },
+    {
+      "id": "BG37lXwfAbE",
+      "title": "🎯 Part-5.35 | Least Recently Used (LRU) Page Replacement Algorithm | OS | বাংলা টিউটোরিয়াল",
+      "duration": 474
+    },
+    {
+      "id": "RtP05VoQkvc",
+      "title": "🎯 Part-6.1 | Hard Disk Structure | Part 1 | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 502
+    },
+    {
+      "id": "UanFnDQfCz0",
+      "title": "🎯 Part-6.2 | Hard Disk Structure | Part 2 | Operating System | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 393
+    },
+    {
+      "id": "mz9SqXWb0ZI",
+      "title": "🎯 Part-6.3 | Disk Access Time | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 636
+    },
+    {
+      "id": "ZGcdZggtaRE",
+      "title": "🎯 Part-6.4 | Disk Scheduling Algorithms | Operating System | Bengali Tutorial | Lecturelia",
+      "duration": 640
+    },
+    {
+      "id": "x-vgoYnK4PA",
+      "title": "🎯 Part-6.5 | First Come First Serve Disk Scheduling Algorithm | Part 1 | OS | বাংলা টিউটোরিয়াল",
+      "duration": 588
+    },
+    {
+      "id": "Ym4xhydAB3Q",
+      "title": "🎯 Part-6.6 | First Come First Serve Disk Scheduling Algorithm | Part 2 | OS | বাংলা টিউটোরিয়াল",
+      "duration": 494
+    },
+    {
+      "id": "6hGYp9DdiNs",
+      "title": "🎯 Part-6.7 | Shortest Seek Time First Disk Scheduling Algorithm | OS | Bengali Tutorial | Lecturelia",
+      "duration": 653
+    },
+    {
+      "id": "27fJMB4R7ZI",
+      "title": "🎯 Part-6.8 | SCAN (Elevator) Disk Scheduling Algorithm | OS | বাংলা টিউটোরিয়াল | Lecturelia",
+      "duration": 728
+    },
+    {
+      "id": "aZcEcwwr5Ns",
+      "title": "🎯 Part-6.9 | LOOK Disk Scheduling Algorithm | Operating System | Bangla Tutorial | Lecturelia",
+      "duration": 478
+    },
+    {
+      "id": "XRxPrrNbcvI",
+      "title": "🎯 Part-6.10 | C-SCAN (Circular SCAN) Disk Scheduling Algorithm | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 573
+    },
+    {
+      "id": "BBHaX5fgrtY",
+      "title": "🎯 Part-6.11 | C-LOOK (Circular LOOK) Disk Scheduling Algorithm | Operating System | বাংলা টিউটোরিয়াল",
+      "duration": 554
+    }
+  ]
+}

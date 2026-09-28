@@ -1,0 +1,260 @@
+{
+  "courseId": "dynamic-programming-playlist-coding-interview-questions-tuto-f15f0e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:22.118Z",
+  "title": "Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm",
+  "channel": "Aditya Verma",
+  "videos": [
+    {
+      "id": "nqowUJzG-iM",
+      "title": "Dynamic Programming | Introduction",
+      "duration": 837
+    },
+    {
+      "id": "l02UxPYRmCQ",
+      "title": "2 Types of knapsack",
+      "duration": 830
+    },
+    {
+      "id": "kvyShbFVaY8",
+      "title": "3 01 Knapsack Recursive",
+      "duration": 1264
+    },
+    {
+      "id": "fJbIuhs24zQ",
+      "title": "4 01Knapsack Memoization",
+      "duration": 833
+    },
+    {
+      "id": "ntCGbPMeqgg",
+      "title": "5 01 Knapsack Top Down DP",
+      "duration": 2468
+    },
+    {
+      "id": "iBnWHZmlIyY",
+      "title": "6 Identification of Knapsack Problems and Introduction",
+      "duration": 378
+    },
+    {
+      "id": "_gPcYovP7wc",
+      "title": "7 Subset Sum Problem",
+      "duration": 1633
+    },
+    {
+      "id": "UmMh7xp07kY",
+      "title": "Equal Sum Partition Problem",
+      "duration": 1081
+    },
+    {
+      "id": "F7wqWbqYn9g",
+      "title": "9 Count of Subsets Sum with a Given Sum",
+      "duration": 1249
+    },
+    {
+      "id": "-GtpxG6l_Mc",
+      "title": "10 Minimum Subset Sum Difference",
+      "duration": 2801
+    },
+    {
+      "id": "ot_XBHyqpFc",
+      "title": "11 Count the number of subset with a given difference",
+      "duration": 1012
+    },
+    {
+      "id": "Hw6Ygp3JBYw",
+      "title": "12 Target sum",
+      "duration": 519
+    },
+    {
+      "id": "aycn9KO8_Ls",
+      "title": "13 Unbounded Knapsack",
+      "duration": 1019
+    },
+    {
+      "id": "SZqAQLjDsag",
+      "title": "14  Rod Cutting Problem",
+      "duration": 1133
+    },
+    {
+      "id": "I4UR2T6Ro3w",
+      "title": "15  Coin change problem: Maximum number of ways",
+      "duration": 1276
+    },
+    {
+      "id": "I-l6PBeERuc",
+      "title": "16  Coin change problem: Minimum number of coins",
+      "duration": 1554
+    },
+    {
+      "id": "rMfOgY07TFs",
+      "title": "17 Coin change problem Contd.",
+      "duration": 50
+    },
+    {
+      "id": "4dMlCZTONj8",
+      "title": "18  Longest common subsequence Introduction",
+      "duration": 308
+    },
+    {
+      "id": "4Urd0a0BNng",
+      "title": "19  Longest common subsequence Recursive",
+      "duration": 1662
+    },
+    {
+      "id": "g_hIx4yn9zg",
+      "title": "20  Longest common subsequence Memoization",
+      "duration": 1879
+    },
+    {
+      "id": "hR3s9rGlMTU",
+      "title": "21  Longest common subsequence Top down DP",
+      "duration": 1535
+    },
+    {
+      "id": "HrybPYpOvz0",
+      "title": "22  Longest Common Substring",
+      "duration": 780
+    },
+    {
+      "id": "x5hQvnUcjiM",
+      "title": "23  Printing Longest common subsequence",
+      "duration": 1605
+    },
+    {
+      "id": "823Grn4_dCQ",
+      "title": "24 Shortest Common SuperSequence",
+      "duration": 1379
+    },
+    {
+      "id": "-fx6aDxcWyg",
+      "title": "25 Minimum Number of Insertion and Deletion to convert String a to String b",
+      "duration": 902
+    },
+    {
+      "id": "wuOOOATz_IA",
+      "title": "26  Longest Palindromic Subsequence",
+      "duration": 766
+    },
+    {
+      "id": "skBfifaWwlk",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "CFwCCNbRuLY",
+      "title": "28 Minimum number of deletion in a string to make it a palindrome",
+      "duration": 704
+    },
+    {
+      "id": "VDhRg-ZJTuc",
+      "title": "29  Print shortest common Supersequence",
+      "duration": 1389
+    },
+    {
+      "id": "hbTaCmQGqLg",
+      "title": "30  Longest repeating subsequence",
+      "duration": 778
+    },
+    {
+      "id": "QVntmksK2es",
+      "title": "31  Sequence Pattern Matching",
+      "duration": 626
+    },
+    {
+      "id": "AEcRW4ylm_c",
+      "title": "32  Minimum number of insertion in a string to make it a palindrome",
+      "duration": 793
+    },
+    {
+      "id": "D7AFvtnDeMU",
+      "title": "33  Matrix chain multiplication Introduction Identification and General Format",
+      "duration": 1330
+    },
+    {
+      "id": "kMK148J9qEE",
+      "title": "34  Matrix Chain Multiplication Recursive",
+      "duration": 2447
+    },
+    {
+      "id": "9uUVFNOT3_Y",
+      "title": "35  Matrix chain multiplication Memoization",
+      "duration": 989
+    },
+    {
+      "id": "szKVpQtBHh8",
+      "title": "36  Palindrome Partitioning Recursive",
+      "duration": 1595
+    },
+    {
+      "id": "fOUlNlawdAU",
+      "title": "37  Palindrome Partitioning Memoization",
+      "duration": 1134
+    },
+    {
+      "id": "9h10fqkI7Nk",
+      "title": "38  Palindrome Partitioning Memoized Optimisation",
+      "duration": 616
+    },
+    {
+      "id": "pGVguAcWX4g",
+      "title": "39  Evaluate Expression to True  Boolean Parenthesization Recursive",
+      "duration": 2400
+    },
+    {
+      "id": "bzXM1Zond9U",
+      "title": "40 Evaluate Expression To True Boolean Parenthesization Memoized",
+      "duration": 1692
+    },
+    {
+      "id": "SqA0o-DGmEw",
+      "title": "41 Scrambled String Recursive",
+      "duration": 2748
+    },
+    {
+      "id": "VyHEglhbm-A",
+      "title": "42 Scrambled String Memoized",
+      "duration": 1167
+    },
+    {
+      "id": "S49zeUjeUL0",
+      "title": "43 Egg Dropping Problem Recursive",
+      "duration": 1810
+    },
+    {
+      "id": "gr2NtY-2QUY",
+      "title": "44 Egg Dropping Problem Memoization",
+      "duration": 943
+    },
+    {
+      "id": "jkygQmOiCCI",
+      "title": "45 Egg Dropping Problem Memoization Optimization",
+      "duration": 478
+    },
+    {
+      "id": "qZ5zayHSH2g",
+      "title": "46 Dynamic programming on Trees Introduction and Identification",
+      "duration": 513
+    },
+    {
+      "id": "d1u2t018Kjg",
+      "title": "47 Dynamic Programming on Tree General Syntax",
+      "duration": 941
+    },
+    {
+      "id": "zmPj_Ee3B8c",
+      "title": "48 Diameter of a Binary Tree",
+      "duration": 913
+    },
+    {
+      "id": "Osz-Vwer6rw",
+      "title": "49 Maximum Path Sum | From any node to any node",
+      "duration": 736
+    },
+    {
+      "id": "ArNyupe-XH0",
+      "title": "50 Maximum Path sum | From leaf node to leaf node",
+      "duration": 695
+    }
+  ]
+}

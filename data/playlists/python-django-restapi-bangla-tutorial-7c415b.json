@@ -1,0 +1,330 @@
+{
+  "courseId": "python-django-restapi-bangla-tutorial-7c415b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:37.756Z",
+  "title": "Python Django & RestAPI Bangla Tutorial (Basic to Advanced) Django Full Course for Web Development | Python Django",
+  "channel": "STUDY MART",
+  "videos": [
+    {
+      "id": "IZs2S0h0_Ow",
+      "title": "Stop Learning Randomly! Follow This Django & Backend API Roadmap 🧠",
+      "duration": 871
+    },
+    {
+      "id": "Y741po--fy0",
+      "title": "Django & Backend API Development with Python কোর্সে 10+ Projects নিশ্চিত!",
+      "duration": 710
+    },
+    {
+      "id": "NDKFOD1sLZE",
+      "title": "01. Django Bangla Tutorial (বাংলায় এডভান্সড জ্যাঙ্গো ) Why Should Learn Django | Django Full Course",
+      "duration": 1257
+    },
+    {
+      "id": "S0oGk0GiZRk",
+      "title": "02. Django Bangla Tutorial | Environment Setup for Django | Django Basic to Advance Course -জ্যাঙ্গো",
+      "duration": 974
+    },
+    {
+      "id": "PtnWN3xffC4",
+      "title": "03. Python Bangla Tutorial | Django Course Prerequisites | Python Django Basic to Advanced -জ্যাঙ্গো",
+      "duration": 447
+    },
+    {
+      "id": "MAHuvEv-jqc",
+      "title": "04. Django Basic to Advance | Django MVT (Model View Template) MVT Pattern in Python Django-জ্যাঙ্গো",
+      "duration": 722
+    },
+    {
+      "id": "wlTygG8HjRA",
+      "title": "05. Django Bangla Tutorial | Installation Django | Creating Project, App, Runserver | Python Django",
+      "duration": 1579
+    },
+    {
+      "id": "G6dk8x1migU",
+      "title": "06. Django Bangla Tutorial | Django Project and App Structure | Basic to Advanced Python Django",
+      "duration": 860
+    },
+    {
+      "id": "kxaNC9hZZok",
+      "title": "07. Django Bangla Tutorials (Advanced) How to Create Virtual Environment & Install Django Inside VE",
+      "duration": 1114
+    },
+    {
+      "id": "pZqlF7UftqY",
+      "title": "08. Django Bangla Tutorial (Basic to Advanced) | Views (Function Based) and URLs | Python Django",
+      "duration": 1066
+    },
+    {
+      "id": "IcaWuTnUKjE",
+      "title": "09. Django Bangla Tutorials | Views (Function Based) & URLs for multiple Apps in Django | @aiquest",
+      "duration": 1659
+    },
+    {
+      "id": "lhTRajvxkzw",
+      "title": "10. Django Bangla Tutorials | Creating URL Pattern of Multiple Apps Using Include Function@aiquest",
+      "duration": 1246
+    },
+    {
+      "id": "D-nvmNiB9DE",
+      "title": "11. Django Bangla Tutorials | Create Template Folder and Rendering Template Files | Django for Web",
+      "duration": 1894
+    },
+    {
+      "id": "rjsa5Y5PVkA",
+      "title": "12. Django Bangla Tutorials | How to Create Folder Inside Template Folder for App in Python Django",
+      "duration": 1390
+    },
+    {
+      "id": "kSMX0KgtNLo",
+      "title": "13. Django Bangla Tutorials | How Django Template Language (DTL) Works with Variable | Python Django",
+      "duration": 1512
+    },
+    {
+      "id": "GJDX512wicU",
+      "title": "14. Django Bangla Tutorial | How Django Template Language Work with Filters and Tags | Python Django",
+      "duration": 1643
+    },
+    {
+      "id": "xRlORdiEzt8",
+      "title": "15. Django Bangla Tutorials | How to Create Static Folder & Works Static Files | Learn Python Django",
+      "duration": 1378
+    },
+    {
+      "id": "x8AxCUQ20FQ",
+      "title": "16. Django Bangla Tutorial | How to Work with HTML Inside Template Folder in Django | Python Django",
+      "duration": 4014
+    },
+    {
+      "id": "Roz5Or1Slgk",
+      "title": "17. Django Bangla Tutorials | How to Work With Static CSS File in Django | Advanced Course @aiquest",
+      "duration": 4365
+    },
+    {
+      "id": "DxVFE2PCMbw",
+      "title": "18. Django Bangla Tutorial | Django with Bootstrap | Bootstrap in Django | Django Basic to Advanced",
+      "duration": 3294
+    },
+    {
+      "id": "E9cbSuycApM",
+      "title": "19. Django Bangla Tutorials | How to Create & Works Template Inheritance in Django | Python Django",
+      "duration": 2178
+    },
+    {
+      "id": "eeNOwFokWNg",
+      "title": "20. Django Bangla Tutorial | How to Create and Work Hyperlink Using URL Tag / URL in Django@aiquest",
+      "duration": 1214
+    },
+    {
+      "id": "s1DIXL9_f2c",
+      "title": "21. Django Bangla Tutorials | What is ORM & Model? How MakeMigrations & Migrate Works? Learn Django!",
+      "duration": 1834
+    },
+    {
+      "id": "QuR0IFVh1mc",
+      "title": "22. Django Bangla Tutorials | How to Show Database Table Data to User | Learn Django Advanced Course",
+      "duration": 1544
+    },
+    {
+      "id": "nETV8P5Ewmo",
+      "title": "23. Django Bangla Tutorials | How to Create Superuser & Register Model Class or Class | @aiquest",
+      "duration": 1393
+    },
+    {
+      "id": "5uC3gY-S-wE",
+      "title": "24. Django Bangla Tutorials | How to Create Django Form and Ordering Field | Learn Python Django",
+      "duration": 1371
+    },
+    {
+      "id": "3XFK9ev7ORI",
+      "title": "25. Django Bangla Tutorials | How Label, Field Argument, & Widgets Works | Learn Full Python Django",
+      "duration": 1121
+    },
+    {
+      "id": "9juWYIZUWi0",
+      "title": "26. Django Bangla Tutorials | How to work with GET, POST method & Cross-Site Request Forgery (CSRF)",
+      "duration": 1366
+    },
+    {
+      "id": "eaupPaxpDMs",
+      "title": "27. Django Bangla Tutorial | How to Style in Form, Match Password & RePassword | Learn Python Django",
+      "duration": 1058
+    },
+    {
+      "id": "_745Nv3cMxI",
+      "title": "28. Django Bangla Tutorials | How Authentication and Authorization Works | Learn Python Full Course",
+      "duration": 913
+    },
+    {
+      "id": "3B_AymQdDIA",
+      "title": "29. Django Bangla Tutorials | How to Create Registration Form Using UserCreationForm and Save Data",
+      "duration": 1051
+    },
+    {
+      "id": "DyqUzZUuLQ8",
+      "title": "30. Django Bangla Tutorials | How to Create Class Based View and it Works | Learn Django @aiquest",
+      "duration": 717
+    },
+    {
+      "id": "G9eYvarKNXs",
+      "title": "31. Django Bangla Tutorials | How to Reset Superuser Password for Admin Panel in Django",
+      "duration": 434
+    },
+    {
+      "id": "G0EZ8DMzRqg",
+      "title": "32. Django Bangla Tutorials | CSS Missing of Admin Panel after Host Django Project in PythonAnywhere",
+      "duration": 516
+    },
+    {
+      "id": "TyqV75Lo78I",
+      "title": "Project Review: Complete E-commerce Website using Python Django | Bangla Django Course | LIVE ✅✅",
+      "duration": 1140
+    },
+    {
+      "id": "S5j85Vtd40k",
+      "title": "Python Django-Based Full eCommerce Project | Django Batch-2 Student Assignment | Django for Web & AI",
+      "duration": 2048
+    },
+    {
+      "id": "IUIQBGbkLHo",
+      "title": "01. Python Django REST Framework (Bangla) | What is Django REST Framework? @ANBasar",
+      "duration": 700
+    },
+    {
+      "id": "b-Q2XJWPhlI",
+      "title": "02. Python Django REST Framework (Bangla) | How to Setup Environment for Django REST Framework",
+      "duration": 815
+    },
+    {
+      "id": "lk6zwkKczpA",
+      "title": "03. Python Django REST Framework (Bangla) Tutorials | What is Serializer and How it Work (Part - 01)",
+      "duration": 555
+    },
+    {
+      "id": "0iiN-LXzx4E",
+      "title": "04. Django RestAPI Tutorials for Begineers | How Serializer Works in Django REST Framework [Part-02]",
+      "duration": 851
+    },
+    {
+      "id": "HQB2XejHmlA",
+      "title": "05. Django RestAPI Bangla Tutorial | How to Serializer Work in Django REST Framework Coding (Part-2)",
+      "duration": 963
+    },
+    {
+      "id": "dVVoqT_OtHM",
+      "title": "06. Python RestAPI Bangla Tutorial | How to Access Data in Django REST API | Using Third Party Apps",
+      "duration": 759
+    },
+    {
+      "id": "FM8283B351Y",
+      "title": "07. Django RestAPI Bangla Tutorials | What is DeSerializer and How it Work (Theory)",
+      "duration": 357
+    },
+    {
+      "id": "dWrp47CPG08",
+      "title": "08. Django Bangla Tutorials for Begineers | How DeSerializer Works in Django Rest API (Coding - 01)",
+      "duration": 1105
+    },
+    {
+      "id": "JDm0FW8Lg1I",
+      "title": "09. Python RestAPI Bangla Tutorial | How DeSerializer Works in Django Rest API (Coding Part 2)",
+      "duration": 875
+    },
+    {
+      "id": "UAvuFfICiTA",
+      "title": "10. Python RestAPI Bangla Tutorial | How to Update Data in Django REST API -Python RestAPI Bangla",
+      "duration": 1188
+    },
+    {
+      "id": "9T59AwXlLqg",
+      "title": "11. Django RestAPI Bangla Tutorial | How to Delete Data in Django REST API | Python Djnago Rest API",
+      "duration": 769
+    },
+    {
+      "id": "BHcMSnoCsGc",
+      "title": "12. Python Django RestAPI Bangla Tutorial | How to Create Model Serializer in Django REST API",
+      "duration": 676
+    },
+    {
+      "id": "GUAgpdUJXxM",
+      "title": "13. Django Rest API Bangla Course | How to Create GET Method using API View | Python REST API",
+      "duration": 989
+    },
+    {
+      "id": "Yr8hz199IO4",
+      "title": "14. Django Rest API Bangla Tutorial | How to Create POST Method using API View | REST Framework",
+      "duration": 662
+    },
+    {
+      "id": "K0XLciW16F0",
+      "title": "15. Django RestAPI Bangla Tutorial | How to Create PUT , PATCH Method using API View",
+      "duration": 736
+    },
+    {
+      "id": "TB01AFRCSlw",
+      "title": "16. Python Django RestAPI Bangla Tutorial | How to Create DELETE Method using API View",
+      "duration": 402
+    },
+    {
+      "id": "U9hKXKrxXwg",
+      "title": "17. Python Django Bangla Tutorial | How to Create Class Based View APIView | Python Django @ANBasar",
+      "duration": 1005
+    },
+    {
+      "id": "jWHEvC4XJFU",
+      "title": "18. Python Django RestAPI Bangla Course | How to create ListModelMixin in Rest Framework @ANBasar",
+      "duration": 565
+    },
+    {
+      "id": "930YsM74dL8",
+      "title": "19. Python Django RestAPI Bangla Course | How to create 'CreateModelMixin' in Django Rest Framework",
+      "duration": 461
+    },
+    {
+      "id": "RZfwcxQagcM",
+      "title": "20. Django REST API Bangla Tutorial | How to Create RetrieveModelMixin in Django Rest Framework",
+      "duration": 502
+    },
+    {
+      "id": "qEcA-1ApJ94",
+      "title": "21. Django RestAPI Bangla Course | How to create UpdateModelMixin in Django Rest Framework",
+      "duration": 414
+    },
+    {
+      "id": "8wVBWKkH_rg",
+      "title": "22. Django RestAPI Bangla Course | How to create DestroyModelMixin in Django Rest Framework",
+      "duration": 441
+    },
+    {
+      "id": "ucbN1e8mzeQ",
+      "title": "23. Django RestAPI Bangla Tutorials | How to Create CRUP operation using ModelMixin",
+      "duration": 678
+    },
+    {
+      "id": "ZJO-92qENSE",
+      "title": "24. Django RestAPI Bangla Tutorials | How to Create Concrete View class CRUD | Django Rest Framework",
+      "duration": 774
+    },
+    {
+      "id": "b-uzHdgo5VQ",
+      "title": "25. Django RestAPI Bangla Course | How to Create Model View Set in Django Rest Framework | @ANBasar",
+      "duration": 988
+    },
+    {
+      "id": "ZL9xpWkLeAI",
+      "title": "26. Django RestAPI Bangla Course | How to create Basic Authentication in Django REST Framework",
+      "duration": 1127
+    },
+    {
+      "id": "PSCcwcAwhv4",
+      "title": "27. Django RestAPI Bangla Course | How to Create Seassion Authentication in Django REST Framework",
+      "duration": 651
+    },
+    {
+      "id": "A5yuFTMYA_Y",
+      "title": "Python ডেভেলপারদের জন্য Django কেন জরুরি?",
+      "duration": 753
+    }
+  ]
+}

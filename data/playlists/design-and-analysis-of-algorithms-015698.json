@@ -1,0 +1,585 @@
+{
+  "courseId": "design-and-analysis-of-algorithms-015698",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:18.989Z",
+  "title": "Design and Analysis of Algorithms",
+  "channel": "THE GATEHUB",
+  "videos": [
+    {
+      "id": "B6L7hh_H1wo",
+      "title": "Introduction to Algorithm and Properties | GATECSE | DAA",
+      "duration": 706
+    },
+    {
+      "id": "LPN6P_xkpK4",
+      "title": "Analysis of Algorithms || Time Complexity Analysis || DAA",
+      "duration": 845
+    },
+    {
+      "id": "O7a3inPOd34",
+      "title": "Comparing of various functions to analyze time complexity | DAA",
+      "duration": 1999
+    },
+    {
+      "id": "P5338HzZX7E",
+      "title": "Big O Notation | Asymptotic Notation | GATECSE | DAA",
+      "duration": 941
+    },
+    {
+      "id": "GKJ1XTJVOaA",
+      "title": "Big Omega Notation | Asymptotic Notation | GATECSE | DAA",
+      "duration": 625
+    },
+    {
+      "id": "eR6zxKsK82I",
+      "title": "Theta Notation | Asymptotic Notation |  GATECSE | DAA",
+      "duration": 512
+    },
+    {
+      "id": "zG_aHVouvN0",
+      "title": "Small o Notation | Asymptotic Notation | GATECSE | DAA",
+      "duration": 694
+    },
+    {
+      "id": "mefodP9SQC0",
+      "title": "Small omega notation | Asymptotic Notation | GATECSE | DAA",
+      "duration": 519
+    },
+    {
+      "id": "cN51oLeEGJs",
+      "title": "Upper Bound Lower Bound and Average Bound in Asymptotic Notation | GATECSE | DAA",
+      "duration": 894
+    },
+    {
+      "id": "HTFG0Lv7-Js",
+      "title": "Asymptotic Notation Solved Examples | Part-1 | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 691
+    },
+    {
+      "id": "SS0a-5VuyD4",
+      "title": "Asymptotic Notation Solved Examples | Part-2 | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 692
+    },
+    {
+      "id": "CvDdvVblFZ8",
+      "title": "Properties of Asymptotic Notations || GATECSE || DAA",
+      "duration": 814
+    },
+    {
+      "id": "El1YxUdvgp8",
+      "title": "Asymptotic Notation Solved Examples | Part-3 | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 832
+    },
+    {
+      "id": "K3IJYs6QAg4",
+      "title": "Asymptotic Notation Solved Examples | Part-4  | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 828
+    },
+    {
+      "id": "oL1gbCnwTj8",
+      "title": "Asymptotic Notation Solved Examples | Part-5  | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 668
+    },
+    {
+      "id": "4Y47BF8FPZo",
+      "title": "Asymptotic Notation Solved Examples | Part-5 | Big O | Big Ω | Big Θ | GATECSE | DAA",
+      "duration": 776
+    },
+    {
+      "id": "e8XT0FW225I",
+      "title": "Best Case, Average Case and Worst Case Time Complexity of an Algorithm | GATECSE | DAA",
+      "duration": 734
+    },
+    {
+      "id": "3abFQRxhbac",
+      "title": "Time complexity Analysis of Iterative Algorithms | Part-1 | GATECSE | DAA",
+      "duration": 914
+    },
+    {
+      "id": "XlUU1t6u0jk",
+      "title": "Time complexity Analysis of Iterative Algorithms | Part-2 | GATECSE | DAA",
+      "duration": 489
+    },
+    {
+      "id": "7zOnak0_GPA",
+      "title": "Time complexity Analysis of Iterative Algorithms | Part-3 | GATECSE | DAA",
+      "duration": 795
+    },
+    {
+      "id": "22ti_R7RbEA",
+      "title": "Time complexity Analysis of Iterative Algorithms | Part-4 | GATECSE | DAA",
+      "duration": 671
+    },
+    {
+      "id": "B3vAdARJ8LE",
+      "title": "Time complexity Analysis of Iterative Algorithms | Part-5 | GATECSE | DAA",
+      "duration": 751
+    },
+    {
+      "id": "H56yafngK1Y",
+      "title": "Recurrence Relation T(n)=T(n/2) + C || Substitution Method || GATECSE || DAA",
+      "duration": 910
+    },
+    {
+      "id": "hUsi6JiD4s4",
+      "title": "Recurrence Relation T(n) = T(n-1) + C | Substitution Method | Finding Factorial | GATECSE | DAA",
+      "duration": 453
+    },
+    {
+      "id": "eQUdL3nkZF4",
+      "title": "Recurrence Relation T(n)=2T(n/2)+n | Substitution Method | GATECSE | DAA",
+      "duration": 324
+    },
+    {
+      "id": "VS8x5ES3WYs",
+      "title": "Recurrence Relation T(n)=8T(n/2)+n^2 | Substitution Method | GATECSE | DAA",
+      "duration": 729
+    },
+    {
+      "id": "Tr6EFzijaWg",
+      "title": "Recurrence Relation T(n)=2T(n/2)+nlogn | Substitution Method | GATECSE | DAA",
+      "duration": 852
+    },
+    {
+      "id": "PJc9S7FtBLA",
+      "title": "Recurrence Relation T(n)=2T(n/2)+n/logn | Substitution Method | GATECSE | DAA",
+      "duration": 680
+    },
+    {
+      "id": "6hduWZYUhFE",
+      "title": "Recurrence Relation T(n)=2T(√n)+C | Substitution Method | GATECSE | DAA",
+      "duration": 583
+    },
+    {
+      "id": "ArnGuSZjwrc",
+      "title": "Recurrence Relation T(n)=2T(√n)+log n | Substitution Method | GATECSE | DAA",
+      "duration": 573
+    },
+    {
+      "id": "iwZfgdN-DkI",
+      "title": "Recurrence Relation T(n)=√2T(n/2)+√n | Substitution Method | GATECSE | DAA",
+      "duration": 327
+    },
+    {
+      "id": "ClMf3Qq4Fl4",
+      "title": "Master's Theorem || Solving Recurrences || The Master's Methods || GATECSE || DAA",
+      "duration": 849
+    },
+    {
+      "id": "578oMqokVJg",
+      "title": "Recurrence Relations T(n)=T(√n)+logn Using Master's Theorem || GATECSE || DAA",
+      "duration": 416
+    },
+    {
+      "id": "VEtQODGjrMc",
+      "title": "Divide and Conquer in Algorithms || GATECSE || DAA",
+      "duration": 447
+    },
+    {
+      "id": "LJYC1zfkyGw",
+      "title": "Recurrence Relation T(n)= 2T(n/2) +n | Recursive Tree Method | GATECSE | DAA",
+      "duration": 427
+    },
+    {
+      "id": "dnYPCth8paU",
+      "title": "Recurrence Relation T(n)= 5T(n/5) +n | Recursive Tree Method | GATECSE | DAA",
+      "duration": 478
+    },
+    {
+      "id": "CqQ81h5n4Lc",
+      "title": "Recurrence Relation T(n)= 3T(n/4) +n^2 | Recursive Tree Method | GATECSE | DAA",
+      "duration": 680
+    },
+    {
+      "id": "Eqn1cjl09e4",
+      "title": "Recurrence Relation T(n)= T(n/3) + T(2n/3) + cn | Recursive Tree Method | GATECSE | DAA",
+      "duration": 562
+    },
+    {
+      "id": "tl87EJby2cs",
+      "title": "Recurrence Relation T(n)= T(n/10) + T(9n/10) + cn | Recursive Tree Method | GATECSE | DAA",
+      "duration": 450
+    },
+    {
+      "id": "GVFXYrMRqFw",
+      "title": "Finding Maximum and Minimum element using Divide and Conquer | GATECSE | DAA",
+      "duration": 934
+    },
+    {
+      "id": "DS_4My7CGEA",
+      "title": "Mergesort Algorithm (Part-1) | Merging  | Merge Procedure  | Sorting Algorithm | GATECSE | DAA",
+      "duration": 912
+    },
+    {
+      "id": "3cCOvAdW7DY",
+      "title": "Mergesort Algorithm (Part-2) |  | Divide and Conquer | Sorting Algorithm | GATECSE | DAA",
+      "duration": 914
+    },
+    {
+      "id": "rUHT_Lp3-lg",
+      "title": "Mergesort Algorithm (Part-3) | Time and Space Complexity | Sorting Algorithm | GATECSE | DAA",
+      "duration": 938
+    },
+    {
+      "id": "LTZY2x1UY8w",
+      "title": "Mergesort Solved Example (Part-1) | GATE Solved Examples | GATECSE | DAA",
+      "duration": 482
+    },
+    {
+      "id": "6vf8oTjpu_s",
+      "title": "Quick Sort Algorithm | Divide and Conquer | GATECSE | DAA",
+      "duration": 1204
+    },
+    {
+      "id": "uUMdTyQ_hP8",
+      "title": "Quicksort Time and Space Complexity | Quicksort Analysis | Best Case | Worst Case | GATECSE | DAA",
+      "duration": 600
+    },
+    {
+      "id": "aBf9hMEV1DU",
+      "title": "Quicksort Solved Example (Part-1) | GATE Solved Examples | GATECSE | DAA",
+      "duration": 602
+    },
+    {
+      "id": "F5SDvnJ_xwA",
+      "title": "Quicksort Solved Example (Part-2) | GATE Solved Examples | GATECSE | DAA",
+      "duration": 346
+    },
+    {
+      "id": "WnG5czuOQOo",
+      "title": "Quicksort Solved Example (Part-3) | GATE Solved Examples | GATECSE | DAA",
+      "duration": 693
+    },
+    {
+      "id": "nUlEfx-HgII",
+      "title": "Randomized Quicksort Algorithm | Divide and Conquer | GATECSE | DAA",
+      "duration": 753
+    },
+    {
+      "id": "vStua4YTkQY",
+      "title": "Strassen’s Matrix Multiplication | GATECSE | DAA",
+      "duration": 994
+    },
+    {
+      "id": "wAiNNuf9wA0",
+      "title": "Introduction to Heap || Heap Tree with examples || Heapsort || GATECSE || DAA",
+      "duration": 661
+    },
+    {
+      "id": "oW8e5eBOoeE",
+      "title": "Max Heap and Min Heap || Heapsort || GATECSE || DAA",
+      "duration": 697
+    },
+    {
+      "id": "lCLcQe1Wgkg",
+      "title": "Heapify Algorithm || Time Complexity of Heapify Algorithm || GATECSE || DAA",
+      "duration": 805
+    },
+    {
+      "id": "_OrrPKLdFM8",
+      "title": "Build Max Heap || Build Max Heap Time Complexity || Heapsort || GATECSE || DAA",
+      "duration": 956
+    },
+    {
+      "id": "iC5HtRAbN2w",
+      "title": "Max Heap Operations ||  Insertion || Deletion || Increase Key Operations || GATECSE || DAA",
+      "duration": 757
+    },
+    {
+      "id": "fke7-fEEf6U",
+      "title": "Heapsort Algorithm | Heapsort Time Complexity Analysis | Sorting Algorithm | GATECSE | DAA",
+      "duration": 803
+    },
+    {
+      "id": "JgW5rSq9cWg",
+      "title": "Heapsort Solved Examples (Part 1) | Practice Problems | Heapsort | GATECSE | DAA",
+      "duration": 492
+    },
+    {
+      "id": "Z5B3HJKqzq0",
+      "title": "Heapsort Solved Examples (Part 2)  Practice Problems  Heapsort  GATECSE  DAA",
+      "duration": 579
+    },
+    {
+      "id": "KmSpVxuVNFc",
+      "title": "Heapsort Solved Examples (Part 3) | Practice Problems | Heapsort | GATECSE | DAA",
+      "duration": 635
+    },
+    {
+      "id": "7UTNf3CFJDc",
+      "title": "Heapsort Solved Examples (Part 4) | Practice Problems | Heapsort | GATECSE | DAA",
+      "duration": 901
+    },
+    {
+      "id": "4qW7glZAP5c",
+      "title": "3 ary Max Heap || K-ary Heap || Heapsort || GATECSE || DAA",
+      "duration": 501
+    },
+    {
+      "id": "gU1M4I-gp8c",
+      "title": "Priority Queue | Insertion and Deletion in Priority Queue | GATECSE | DAA",
+      "duration": 604
+    },
+    {
+      "id": "k468PClXhs8",
+      "title": "Binomial Heap and Binomial Tree | Properties of Binomial Tree | DAA",
+      "duration": 768
+    },
+    {
+      "id": "Sx4z9bDTNZ8",
+      "title": "Properties of Binomial Heap || Structure of Binomial Heap || DAA",
+      "duration": 982
+    },
+    {
+      "id": "Ty7r9t-USEs",
+      "title": "Binomial Heap Union Operation || DAA",
+      "duration": 1020
+    },
+    {
+      "id": "skBDWOxSDl8",
+      "title": "Binomial Heap Insertion Operation || DAA",
+      "duration": 553
+    },
+    {
+      "id": "x9rGGunSkC0",
+      "title": "Extract Minimum from Binomial Heap || Delete Minimum element from Binomial Heap || DAA",
+      "duration": 418
+    },
+    {
+      "id": "zBGVdKJucBw",
+      "title": "Binomial Heap Deletion Operation | Deleting a node from Binomial | DAA",
+      "duration": 587
+    },
+    {
+      "id": "C-kr17luY2g",
+      "title": "Fibonacci Heap || Properties || Memory Representation || DAA",
+      "duration": 786
+    },
+    {
+      "id": "2uRDQR2GsGI",
+      "title": "Fibonacci Heap Operations || Create || Insert || Find Min || Union || DAA",
+      "duration": 326
+    },
+    {
+      "id": "NGOjWoYsL9c",
+      "title": "Extract min in Fibonacci heap || Delete min in Fibonacci heap || DAA",
+      "duration": 562
+    },
+    {
+      "id": "XUAJFwCR4yI",
+      "title": "Fibonacci Heap Deletion Operation || Deleting a node from Fibonacci Heap || DAA",
+      "duration": 450
+    },
+    {
+      "id": "zvSVlceW8RY",
+      "title": "Introduction to Greedy Method | Greedy Algorithms | GATECSE | DAA",
+      "duration": 476
+    },
+    {
+      "id": "pJrtMkftNfM",
+      "title": "Knapsack Problem using Greedy Method || Example-1 || GATECSE || DAA",
+      "duration": 630
+    },
+    {
+      "id": "UxoQdSbMkDc",
+      "title": "Knapsack Problem using Greedy Method || Example-2 || GATECSE || DAA",
+      "duration": 549
+    },
+    {
+      "id": "oekAdRwG1B8",
+      "title": "Job Sequencing with Deadline Using Greedy Method | GATECSE | DAA",
+      "duration": 680
+    },
+    {
+      "id": "NSi75SCWzPs",
+      "title": "Huffman Coding Algorithm with Example 1 || Greedy Techniques || GATECSE || DAA",
+      "duration": 665
+    },
+    {
+      "id": "FhQOmzANbao",
+      "title": "Huffman Coding Algorithm with Example 2 || Greedy Techniques || GATECSE || DAA",
+      "duration": 929
+    },
+    {
+      "id": "3qndrg5IIcQ",
+      "title": "Huffman Coding Algorithm with Example 3 || Greedy Techniques || GATECSE || DAA",
+      "duration": 1027
+    },
+    {
+      "id": "vgIwrm8KjNQ",
+      "title": "Optimal Merge Pattern || Greedy Method || GATECSE || DAA",
+      "duration": 407
+    },
+    {
+      "id": "J_x3wcC8ZE0",
+      "title": "Spanning Tree || Minimum Spanning Tree || GATECSE || DAA",
+      "duration": 618
+    },
+    {
+      "id": "6dGk2mq-Mhg",
+      "title": "Kruskal Algorithm for Minimum Spanning Tree || GATECSE || DAA",
+      "duration": 526
+    },
+    {
+      "id": "WTe1y7I9fsg",
+      "title": "Prim's Algorithm for minimum spanning trees || GATECSE || DAA",
+      "duration": 451
+    },
+    {
+      "id": "GyTHWZB9kSw",
+      "title": "Prims Algorithm Time Complexity || GATECSE || DAA",
+      "duration": 1113
+    },
+    {
+      "id": "y1Am4Fje62E",
+      "title": "Prims And Kruskal Solved Examples (Part-1) | Minimum Cost Spanning Tree | GATECSE | DAA",
+      "duration": 865
+    },
+    {
+      "id": "yr6tvUWqa8g",
+      "title": "Prims And Kruskal Solved Examples (Part-2) | Minimum Cost Spanning Tree | GATECSE | DAA",
+      "duration": 528
+    },
+    {
+      "id": "VirnHKUD8Oc",
+      "title": "Prims And Kruskal Solved Examples (Part-3) | Minimum Cost Spanning Tree | GATECSE | DAA",
+      "duration": 711
+    },
+    {
+      "id": "JDjJXQ7CTj4",
+      "title": "Prims And Kruskal Solved Examples (Part-4) | Minimum Cost Spanning Tree | GATECSE | DAA",
+      "duration": 690
+    },
+    {
+      "id": "gN_VfRd5wU4",
+      "title": "Dijkstra Algorithm || Single Source Shortest Path || Greedy Method || GATECSE || DAA",
+      "duration": 660
+    },
+    {
+      "id": "FAfw7hY3NKw",
+      "title": "Why does Dijkstra's fail on Negative weights? || GATECSE || DAA",
+      "duration": 867
+    },
+    {
+      "id": "OAd6-WCOUfE",
+      "title": "Dijkstra's Algorithm Time Complexity | Dijkstra's Algorithm Analysis | GATECSE | DAA",
+      "duration": 804
+    },
+    {
+      "id": "yPrz7Bhi46M",
+      "title": "Dijkstra's Algorithm Solved Examples | Practice Problem |  Greedy Method | GATECSE | DAA",
+      "duration": 581
+    },
+    {
+      "id": "Z62R0cZ--tY",
+      "title": "Bellman Ford Algorithm | bellman ford algorithm shortest path | GATECSE | DAA",
+      "duration": 954
+    },
+    {
+      "id": "QEmmVXHmQiw",
+      "title": "Bellman Ford Algorithm Solved Example | bellman ford algorithm shortest path | GATECSE | DAA",
+      "duration": 598
+    },
+    {
+      "id": "6wPKLTY9rSg",
+      "title": "Bellman Ford Algorithm Time Complexity | GATECSE | DAA",
+      "duration": 552
+    },
+    {
+      "id": "8ed2CYaXpws",
+      "title": "Introduction to Dynamic Programming || GATECSE || DAA",
+      "duration": 998
+    },
+    {
+      "id": "7Gq47HPAOGQ",
+      "title": "Why 0/1 Knapsack failed using Greedy algorithm || GATECSE || DAA",
+      "duration": 586
+    },
+    {
+      "id": "aSlbh61T40Q",
+      "title": "0/1 Knapsack Problem using Dynamic Programming || GATECSE || DAA",
+      "duration": 1332
+    },
+    {
+      "id": "MtpVNaptvLc",
+      "title": "Introduction to All pair Shortest Path || Floyd-Warshall Algorithm || Dynamic Programming || DAA",
+      "duration": 334
+    },
+    {
+      "id": "CK-j1pVi8t8",
+      "title": "All Pair Shortest Path || Floyd-Warshall Algorithm || Dynamic Programming || GATECSE || DAA",
+      "duration": 1115
+    },
+    {
+      "id": "Q1fppFYkP_g",
+      "title": "Floyd-Warshall Algorithm Time Complexity || All Pair Shortest Path || Dynamic Programming || DAA",
+      "duration": 520
+    },
+    {
+      "id": "9DLRbTh5KF8",
+      "title": "Multistage Graph using Dynamic Programming || GATECSE || DAA",
+      "duration": 1221
+    },
+    {
+      "id": "-UoE0M2FSdU",
+      "title": "Longest Common Subsequence Using Dynamic Programming || GATECSE || DAA",
+      "duration": 1295
+    },
+    {
+      "id": "5emt2p3hSNI",
+      "title": "Longest Common Sequence Solved Example || Dynamic Programming || GATECSE || DAA",
+      "duration": 625
+    },
+    {
+      "id": "ct-gX3gIM7I",
+      "title": "Travelling Salesman Problem using Dynamic Programming || GATECSE || DAA",
+      "duration": 1185
+    },
+    {
+      "id": "Nq5owM1RXSY",
+      "title": "Sum of Subset Problem using Dynamic Programming | GATECSE | DAA",
+      "duration": 1240
+    },
+    {
+      "id": "OnuQ_7I6Ik0",
+      "title": "Matrix Chain Multiplication using Dynamic Programming || GATECSE || DAA",
+      "duration": 1610
+    },
+    {
+      "id": "bbeFPu67gG0",
+      "title": "Matrix Chain Multiplication Example | Dynamic Programming || GATECSE || DAA",
+      "duration": 490
+    },
+    {
+      "id": "aeO-UYsWW_0",
+      "title": "Introduction to Backtracking || Backtracking  Algorithm || DAA",
+      "duration": 575
+    },
+    {
+      "id": "jIoBUts-BLw",
+      "title": "N Queen Problem Using Backtracking || N Queen Problem || Backtracking Algorithm",
+      "duration": 572
+    },
+    {
+      "id": "a3Wuqq53QyM",
+      "title": "Sum of Subset Problem Using Backtracking || Backtracking Algorithm || DAA",
+      "duration": 457
+    },
+    {
+      "id": "FunWLjE9Plw",
+      "title": "Graph Coloring Problem Using Backtracking || Backtracking Algorithm || DAA",
+      "duration": 780
+    },
+    {
+      "id": "9AIUTe4IkD0",
+      "title": "Hamiltonian Cycle Using Backtracking || Backtracking Algorithm || DAA",
+      "duration": 583
+    },
+    {
+      "id": "38p8vyDggrY",
+      "title": "0/1 Knapsack Problem Using Backtracking || Backtracking Algorithm || DAA",
+      "duration": 642
+    }
+  ]
+}

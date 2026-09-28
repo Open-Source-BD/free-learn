@@ -1,0 +1,470 @@
+{
+  "courseId": "data-structures-and-algorithms-course-in-hindi-ba8915",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:51.986Z",
+  "title": "Data Structures and Algorithms Course in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "5_5oE5lgrhw",
+      "title": "Introduction to Data Structures & Algorithms",
+      "duration": 1903
+    },
+    {
+      "id": "vgSKOMsjLbc",
+      "title": "Time Complexity and Big O Notation (with notes)",
+      "duration": 1972
+    },
+    {
+      "id": "1OTX-WXQHCQ",
+      "title": "Asymptotic Notations: Big O, Big Omega and Big Theta Explained (With Notes)",
+      "duration": 2022
+    },
+    {
+      "id": "5g7K86jYto8",
+      "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+      "duration": 2388
+    },
+    {
+      "id": "STL8ESuETmM",
+      "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+      "duration": 2777
+    },
+    {
+      "id": "bR0NYdmMg94",
+      "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+      "duration": 1525
+    },
+    {
+      "id": "-sktNalfrE0",
+      "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+      "duration": 1315
+    },
+    {
+      "id": "JqvobBKLHwU",
+      "title": "Implementing Array as an Abstract Data Type in C Language",
+      "duration": 2173
+    },
+    {
+      "id": "p5TDnxAYAZY",
+      "title": "Operations on Arrays in Data Structures: Traversal, Insertion, Deletion and Searching",
+      "duration": 1725
+    },
+    {
+      "id": "o9WevKSnHL4",
+      "title": "Coding Insertion Operation in Array in Data Structures in C language",
+      "duration": 994
+    },
+    {
+      "id": "2jVcRw1jP9I",
+      "title": "Coding Deletion Operation in Array Using C Language (With Notes)",
+      "duration": 1055
+    },
+    {
+      "id": "ZHCP9vFOJiU",
+      "title": "Linear Vs Binary Search + Code in C Language (With Notes)",
+      "duration": 2112
+    },
+    {
+      "id": "TWMCMvfEAv4",
+      "title": "Introduction to Linked List in Data Structures (With Notes)",
+      "duration": 1501
+    },
+    {
+      "id": "BHphhqL9EOE",
+      "title": "Linked List Data Structure: Creation and Traversal in C Language",
+      "duration": 1427
+    },
+    {
+      "id": "ewCc7O2K5SM",
+      "title": "Insertion of a Node in a Linked List Data Structure",
+      "duration": 1121
+    },
+    {
+      "id": "_PuIzVqJJbA",
+      "title": "Insertion in a Linked List in C Language",
+      "duration": 1465
+    },
+    {
+      "id": "R_7qJzAWrMg",
+      "title": "Deletion in a Linked List | Deleting a node from Linked List Data Structure",
+      "duration": 1038
+    },
+    {
+      "id": "UQIJNobtzVY",
+      "title": "Delete a Node from Linked List (C Code For Deletion From Beginning, End, Specified Position & Key)",
+      "duration": 1431
+    },
+    {
+      "id": "41lXYJID3OQ",
+      "title": "Circular Linked List and Operations in Data Structures (With Notes)",
+      "duration": 1001
+    },
+    {
+      "id": "UclZxvnOQZc",
+      "title": "Circular Linked Lists: Operations in C Language",
+      "duration": 1237
+    },
+    {
+      "id": "63HJ2-jV6Mk",
+      "title": "Doubly Linked Lists Explained With Code in C Language",
+      "duration": 792
+    },
+    {
+      "id": "-n2rVJE4vto",
+      "title": "Introduction to Stack in Data Structures",
+      "duration": 1195
+    },
+    {
+      "id": "MD3mFgFwqBE",
+      "title": "Implementing Stack Using Array in Data Structures",
+      "duration": 1303
+    },
+    {
+      "id": "r2yHEW8HmBE",
+      "title": "C Code For Implementing Stack Using Array in Data Structures",
+      "duration": 985
+    },
+    {
+      "id": "sN1oUrR7foM",
+      "title": "Push, Pop and Other Operations in Stack Implemented Using an Array",
+      "duration": 1458
+    },
+    {
+      "id": "JhHJf93Ft8M",
+      "title": "Coding Push(), Pop(), isEmpty() and isFull() Operations in Stack Using an Array| C Code For Stack",
+      "duration": 1564
+    },
+    {
+      "id": "UM_UcLNFc_o",
+      "title": "Peek Operation in Stack Using Arrays (With C Code & Explanation)",
+      "duration": 1282
+    },
+    {
+      "id": "AW09Wnmz4-4",
+      "title": "stackTop, stackBottom & Time Complexity of Operations in Stack Using Arrays",
+      "duration": 776
+    },
+    {
+      "id": "b749wwxlQmA",
+      "title": "How to Implement Stack Using Linked List?",
+      "duration": 721
+    },
+    {
+      "id": "0BTDISr-8xU",
+      "title": "Implementing all the Stack Operations using Linked List (With Code in C)",
+      "duration": 1842
+    },
+    {
+      "id": "xKJkqzKCxmY",
+      "title": "peek(), stackTop() and Other Operations on Stack Using Linked List (with C Code)",
+      "duration": 905
+    },
+    {
+      "id": "D3M3PEcgdV4",
+      "title": "Parenthesis Matching Problem Using Stack Data Structure (Applications of Stack)",
+      "duration": 1117
+    },
+    {
+      "id": "Wj_Xtj6so3U",
+      "title": "Parenthesis Checking Using Stack in C Language",
+      "duration": 1229
+    },
+    {
+      "id": "QURbEGE-F_Y",
+      "title": "Multiple Parenthesis Matching Using Stack with C Code",
+      "duration": 1225
+    },
+    {
+      "id": "422Q_yx2yA8",
+      "title": "Infix, Prefix and Postfix Expressions",
+      "duration": 1614
+    },
+    {
+      "id": "_abDDg0Jw94",
+      "title": "Infix To Postfix Using Stack",
+      "duration": 995
+    },
+    {
+      "id": "6RmrX2uqllY",
+      "title": "Coding Infix to Postfix in C using Stack",
+      "duration": 1683
+    },
+    {
+      "id": "UbAEP7P0vfk",
+      "title": "Queue Data Structure in Hindi",
+      "duration": 652
+    },
+    {
+      "id": "EyxBMLZdgvc",
+      "title": "Queue Implementation: Array Implementation of Queue in Data Structure",
+      "duration": 1100
+    },
+    {
+      "id": "JlZX7xIBjl0",
+      "title": "Array implementation of Queue and its Operations in Data Structure",
+      "duration": 1004
+    },
+    {
+      "id": "FuQdtKry3ss",
+      "title": "C Code For Queue and its Operations Using Arrays in Data Structure",
+      "duration": 859
+    },
+    {
+      "id": "KqTJ5MAUj80",
+      "title": "Introduction to Circular Queue in Data Structures",
+      "duration": 1465
+    },
+    {
+      "id": "rtxjrVpWVmI",
+      "title": "enqueue(), dequeue() & other Operations on Circular Queue",
+      "duration": 886
+    },
+    {
+      "id": "lQBRjdPFF4w",
+      "title": "C Code For Circular Queue & Operations on Circular Queue in Hindi",
+      "duration": 1250
+    },
+    {
+      "id": "LwYQo8mVPBs",
+      "title": "Queue Using Linked Lists",
+      "duration": 1590
+    },
+    {
+      "id": "iXpPL80-MGs",
+      "title": "Implementing Queue Using Linked List in C Language (With Code)",
+      "duration": 964
+    },
+    {
+      "id": "OnlgK0gjtB8",
+      "title": "Double-Ended Queue in Data Structure (DE-Queue Explained)🔥",
+      "duration": 898
+    },
+    {
+      "id": "ByLlEk7zmyw",
+      "title": "Introduction to Sorting Algorithms",
+      "duration": 589
+    },
+    {
+      "id": "tBiSx0PrB4g",
+      "title": "Criteria For Analysis of Sorting Algorithms",
+      "duration": 1150
+    },
+    {
+      "id": "BJkpnxf5cfY",
+      "title": "Bubble Sort Algorithm in Hindi",
+      "duration": 1942
+    },
+    {
+      "id": "CkXjf6_8DLU",
+      "title": "Bubble Sort Program in C",
+      "duration": 1363
+    },
+    {
+      "id": "8l3dH_XyCik",
+      "title": "Insertion Sort Algorithm in Hindi",
+      "duration": 1937
+    },
+    {
+      "id": "XBfH1Qy1JGY",
+      "title": "Insertion Sort in C Language (With Explanation)",
+      "duration": 1785
+    },
+    {
+      "id": "Jb8AYaYMxq4",
+      "title": "Selection Sort Algorithm",
+      "duration": 1495
+    },
+    {
+      "id": "slXyQKww0-E",
+      "title": "Selection Sort Program in C",
+      "duration": 927
+    },
+    {
+      "id": "SN4x87ZdhGg",
+      "title": "QuickSort Algorithm in Hindi (With Code in C)",
+      "duration": 3149
+    },
+    {
+      "id": "xqdTr7xs8QU",
+      "title": "Analysis of QuickSort Sorting Algorithm",
+      "duration": 1214
+    },
+    {
+      "id": "6Aqxv29RGPc",
+      "title": "MergeSort Sorting Algorithm in Hindi",
+      "duration": 2134
+    },
+    {
+      "id": "ytK4Biw-CW4",
+      "title": "MergeSort Source Code in C (Helpful Explanation)",
+      "duration": 1355
+    },
+    {
+      "id": "HkvChUv9dDg",
+      "title": "Count Sort Algorithm",
+      "duration": 1625
+    },
+    {
+      "id": "oI0QhFzBSRo",
+      "title": "Introduction to Trees",
+      "duration": 1030
+    },
+    {
+      "id": "j8b4ZnZefBo",
+      "title": "What is a Binary Tree?",
+      "duration": 606
+    },
+    {
+      "id": "SCjfVE3bFik",
+      "title": "Types of Binary Trees",
+      "duration": 1226
+    },
+    {
+      "id": "Albe808b8FE",
+      "title": "Representation of a Binary Tree",
+      "duration": 1208
+    },
+    {
+      "id": "P892nBTmpDQ",
+      "title": "Linked Representation Of Binary Tree in C",
+      "duration": 1034
+    },
+    {
+      "id": "UbwkQmCWcDM",
+      "title": "Traversal in Binary Tree (InOrder, PostOrder and PreOrder Traversals)",
+      "duration": 807
+    },
+    {
+      "id": "VNegW_7OLS4",
+      "title": "Preorder Traversal in a Binary Tree (With C Code)",
+      "duration": 684
+    },
+    {
+      "id": "PulGSuAmFJM",
+      "title": "PostOrder Traversal in a Binary Tree (With C Code)",
+      "duration": 654
+    },
+    {
+      "id": "X1_0wQb8lDM",
+      "title": "InOrder Traversal in a Binary Tree (With C Code)",
+      "duration": 821
+    },
+    {
+      "id": "IqVCDZlciDU",
+      "title": "*Best* Trick To Find PreOrder, InOrder & PostOrder Traversal",
+      "duration": 818
+    },
+    {
+      "id": "XQJJhNiGlL0",
+      "title": "Binary Search Trees: Introduction & Properties",
+      "duration": 868
+    },
+    {
+      "id": "hE2EWEqqIKk",
+      "title": "Checking if a binary tree is a binary search tree or not!",
+      "duration": 985
+    },
+    {
+      "id": "OKXI2woGoeg",
+      "title": "Searching in a Binary Search Trees (Search Operation)",
+      "duration": 1015
+    },
+    {
+      "id": "ZFdmR-MJVkc",
+      "title": "C Code For Searching in a BST",
+      "duration": 459
+    },
+    {
+      "id": "47sNttolDNE",
+      "title": "Iterative Search in a Binary Search Tree",
+      "duration": 434
+    },
+    {
+      "id": "ZxPePWp0n3Y",
+      "title": "Insertion in a Binary Search Tree",
+      "duration": 1062
+    },
+    {
+      "id": "VXnlt8qChPQ",
+      "title": "Deletion in a Binary Search Tree",
+      "duration": 1362
+    },
+    {
+      "id": "qqzaCS3s3Ac",
+      "title": "C Code For Deletion in a Binary Search Tree",
+      "duration": 1351
+    },
+    {
+      "id": "npnAlIbyknI",
+      "title": "AVL Trees - Introduction",
+      "duration": 686
+    },
+    {
+      "id": "CYTjKQ7ektU",
+      "title": "Insertion and Rotation in AVL Tree",
+      "duration": 1106
+    },
+    {
+      "id": "MNGIzdNPQl4",
+      "title": "AVL Trees - LL LR RL and RR rotations",
+      "duration": 1366
+    },
+    {
+      "id": "Wdy36bumttg",
+      "title": "C Code For AVL Tree Insertion & Rotation (LL, RR, LR & RL Rotation)",
+      "duration": 1889
+    },
+    {
+      "id": "TwdjOQMTaQ4",
+      "title": "Introduction to Graphs | Graph Data Structure",
+      "duration": 1081
+    },
+    {
+      "id": "SwUNIiV6ePg",
+      "title": "Representation of Graphs - Adjacency List, Adjacency Matrix & Other Representations",
+      "duration": 1245
+    },
+    {
+      "id": "IF3BSU70EZo",
+      "title": "Graph traversal & Graph traversal algorithms",
+      "duration": 619
+    },
+    {
+      "id": "6dWUABpUky4",
+      "title": "Breadth First Search (BFS) Graph Traversal in Data Structures",
+      "duration": 1140
+    },
+    {
+      "id": "_G3zzPOz61A",
+      "title": "BFS Implementation in C | C Code For Breadth First Search",
+      "duration": 723
+    },
+    {
+      "id": "4M1u4-eGlxU",
+      "title": "Depth First Search (DFS) Graph Traversal in Data Structures",
+      "duration": 652
+    },
+    {
+      "id": "jQmlXAwUvZ4",
+      "title": "DFS Implementation in C | C Code For Depth First Search",
+      "duration": 367
+    },
+    {
+      "id": "91Q3GlQugwc",
+      "title": "Spanning Trees & maximum no of possible spanning trees for complete graphs",
+      "duration": 1069
+    },
+    {
+      "id": "luZNlCDJInM",
+      "title": "Calculating Spanning tree Cost & Minimum Spanning Tree",
+      "duration": 952
+    },
+    {
+      "id": "-_SzHb_ntHc",
+      "title": "Prims Minimum Spanning Tree Algorithm (Step by Step with examples)",
+      "duration": 1180
+    }
+  ]
+}

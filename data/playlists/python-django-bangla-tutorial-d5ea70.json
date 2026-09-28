@@ -1,0 +1,400 @@
+{
+  "courseId": "python-django-bangla-tutorial-d5ea70",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:40.919Z",
+  "title": "Python DJango Bangla (বাংলা) tutorial",
+  "channel": "Tech Solutions In Bangla",
+  "videos": [
+    {
+      "id": "EcxpGTI-oaM",
+      "title": "Why should we learn django?  Benefits and features of Django| |Python DJango Bangla (বাংলা) tutorial",
+      "duration": 549
+    },
+    {
+      "id": "OYh7YycLtMk",
+      "title": "Parts of this series(Updated) - Course Announcement |Python DJango Bangla (বাংলা) tutorial",
+      "duration": 920
+    },
+    {
+      "id": "lCZd2UapgNM",
+      "title": "Part 01. Basic Installations to run django project | Django setup |Python DJango Bangla tutorial",
+      "duration": 448
+    },
+    {
+      "id": "RPTQAkA5Nlg",
+      "title": "Part 02  Hello World Project | First Project Creation |Python DJango Bangla (বাংলা) tutorial",
+      "duration": 501
+    },
+    {
+      "id": "O99CrjJGIlw",
+      "title": "Part 03.File Structure Of DJango Project | Django Structure | |Python DJango Bangla (বাংলা) tutorial",
+      "duration": 291
+    },
+    {
+      "id": "CC6_0eeR5zM",
+      "title": "Part 04. Template Rendering| Add pages to django |Python DJango Bangla (বাংলা) tutorial",
+      "duration": 232
+    },
+    {
+      "id": "tT--_O6GPXE",
+      "title": "Part 05. Create Django App | Create Posts App | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 211
+    },
+    {
+      "id": "adE2G8rnxsI",
+      "title": "Part 06. Function Based Views |Python DJango Bangla (বাংলা) tutorial |  ফাংশন বেসড ভিউ",
+      "duration": 345
+    },
+    {
+      "id": "0QJlXvAMRnU",
+      "title": "Part 07. Basic Template Extend | Python DJango Bangla (বাংলা) tutorial |  ব্যাসিক টেমপ্লেট এক্সটেন্ড",
+      "duration": 600
+    },
+    {
+      "id": "9mcR7JPXKoc",
+      "title": "Part 08. Get method |Python DJango Bangla (বাংলা) tutorial |  গেট মেথড",
+      "duration": 320
+    },
+    {
+      "id": "CggjAtKGbp0",
+      "title": "Part 09. Post method |Python DJango Bangla (বাংলা) tutorial |  পোষ্ট মেথড",
+      "duration": 849
+    },
+    {
+      "id": "h4Fz3623yDY",
+      "title": "Part 10. Database or DJango models |Python DJango Bangla (বাংলা) tutorial |  ডাটাবেজ বা জ্যাংগো মডেল",
+      "duration": 1014
+    },
+    {
+      "id": "gIF110ydTUk",
+      "title": "Part 11. Django Forms |Python DJango Bangla (বাংলা) tutorial |  জ্যাংগো ফর্মস",
+      "duration": 965
+    },
+    {
+      "id": "cw7VlEWSX6w",
+      "title": "Part 12. DJango ModelForm |Python DJango Bangla (বাংলা) tutorial | জ্যাংগো মডেলফর্ম",
+      "duration": 319
+    },
+    {
+      "id": "euqLkfsVQZI",
+      "title": "Part 13. DJango Crispy forms |Python DJango Bangla (বাংলা) tutorial |   জ্যাংগো ক্রিস্পি ফর্মস",
+      "duration": 242
+    },
+    {
+      "id": "MzN8SwBiBRU",
+      "title": "Part 14. Django Model Fields | Python DJango Bangla (বাংলা) tutorial | জ্যাংগো মডেল ফিল্ডস",
+      "duration": 931
+    },
+    {
+      "id": "9Ojp7484V2A",
+      "title": "Part 15. Image Field and save  Converted   | Python DJango Bangla (বাংলা) tutorial | ইমেজ ফিল্ড",
+      "duration": 1293
+    },
+    {
+      "id": "9qZYKsxOG78",
+      "title": "Part 16. Multiselect field or MultiChoiceField  | Python DJango (বাংলা) tutorial | মাল্টিচয়েস ফিল্ড",
+      "duration": 668
+    },
+    {
+      "id": "06ob2AUbnfg",
+      "title": "Part 17. Model Relations  | Python DJango Bangla (বাংলা) tutorial | মডেল রিলেশন",
+      "duration": 714
+    },
+    {
+      "id": "H0Xq_NVlTaI",
+      "title": "Part 18. Many to Many relationship  | Python DJango Bangla (বাংলা) tutorial | মেনি টু মেনি রিলেশনশিপ",
+      "duration": 1164
+    },
+    {
+      "id": "fkT44ijr94U",
+      "title": "Part 19. Related Name Attribute  | Python DJango Bangla (বাংলা) tutorial | রিলেটেড নেম",
+      "duration": 1160
+    },
+    {
+      "id": "LmxcfGwvLEg",
+      "title": "part 20&21 class based view and simple view | Python DJango Bangla (বাংলা) tutorial | ক্লাস বেসড ভিউ",
+      "duration": 790
+    },
+    {
+      "id": "iCtP5ZOLWo0",
+      "title": "Part 22.TemplateView| Class Based View-Generic View-  টেমপ্লেট ভিউ",
+      "duration": 403
+    },
+    {
+      "id": "JYhVeT8haZQ",
+      "title": "Part 23. Form View - Class Based View-Generic View-  ফর্ম ভিউ",
+      "duration": 407
+    },
+    {
+      "id": "ua1Xxbbp6i4",
+      "title": "Part 24. - CreateView - Class Based View-Generic View | ক্রিয়েট ভিউ",
+      "duration": 661
+    },
+    {
+      "id": "u1w5o6jlCVo",
+      "title": "Part 25. List View-  Class Based View-Generic View-লিস্ট ভিউ",
+      "duration": 718
+    },
+    {
+      "id": "SxXRP6b0Vy4",
+      "title": "Part 26. Detail View- Class Based View-Generic View- ডিটেইল ভিউ",
+      "duration": 515
+    },
+    {
+      "id": "benMFsifcfQ",
+      "title": "Part Extra  Design our project  | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 1340
+    },
+    {
+      "id": "IeAQyqV34j8",
+      "title": "Part 27. UpdateView | Django-Generic-View| Class Based View  আপডেটভীউ",
+      "duration": 574
+    },
+    {
+      "id": "zjrhzKhRYzs",
+      "title": "Part 28. DeleteView | Django-Generic-View| Class Based View  ডিলিটভীউ",
+      "duration": 369
+    },
+    {
+      "id": "uSP-P6fJck4",
+      "title": "Part 29. Form Design | All Tasks With Form | Python DJango Bangla (বাংলা) tutorial |  ফর্ম ডিজাইন",
+      "duration": 910
+    },
+    {
+      "id": "cBxF3Ut2kIY",
+      "title": "Part 30. Initiate Form Field Value Form Methods   | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 690
+    },
+    {
+      "id": "4-FZ0KQ0XSI",
+      "title": "Part 31. Message Framework  | Python DJango Bangla (বাংলা) tutorial | Messages",
+      "duration": 353
+    },
+    {
+      "id": "nNWQvk9fx_A",
+      "title": "Part 32. Show Realtime  | Date Show | Naturaltime Show  | Python DJango Bangla tutorial | সময় তারিখ",
+      "duration": 392
+    },
+    {
+      "id": "s3EmdxrC5LU",
+      "title": "Part 33. Search from django model  | Python DJango Bangla (বাংলা) tutorial | সার্চ",
+      "duration": 756
+    },
+    {
+      "id": "6HX1ZQmRo_A",
+      "title": "Part 34. Advance Search | Filter Data by users option | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 1339
+    },
+    {
+      "id": "MU2cB9j86_8",
+      "title": "Part 35. Authentication (Login) | Python DJango Bangla (বাংলা) tutorial | লগিন",
+      "duration": 1104
+    },
+    {
+      "id": "EHFEd9VfyqU",
+      "title": "Part 36. Authentication (Logout) | Python DJango Bangla (বাংলা) tutorial | লগআউট",
+      "duration": 376
+    },
+    {
+      "id": "6Sqxpa1-1RU",
+      "title": "Part 37. Authentication (Registration) | Python DJango Bangla (বাংলা) tutorial | রেজিস্টার ইউজার",
+      "duration": 593
+    },
+    {
+      "id": "2V1jB4P83vk",
+      "title": "Part 38. Authentication (Change Password) | Python DJango Bangla (বাংলা) tutorial | চেঞ্জ পাসওয়ার্ড",
+      "duration": 580
+    },
+    {
+      "id": "vG5YcNiWLlE",
+      "title": "Part 39. Send Email from DJango | Python DJango Bangla (বাংলা) tutorial | ইমেইল পাঠাও",
+      "duration": 709
+    },
+    {
+      "id": "huXhPIyERpo",
+      "title": "Part 40. Authentication (Reset Password) | Python DJango Bangla (বাংলা) tutorial | রিসেট পাসওয়ার্ড",
+      "duration": 940
+    },
+    {
+      "id": "GUCc4TLU1q0",
+      "title": "Part 41. Email Verification | | Python DJango Bangla (বাংলা) tutorial | Verify User EMail",
+      "duration": 1200
+    },
+    {
+      "id": "vbAsqGsnr40",
+      "title": "Part 42. Make User Profile with Profile Photo| | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1541
+    },
+    {
+      "id": "CsUhXTi-tE8",
+      "title": "Part 43. Model Queries -Built In Model Queries| Python DJango Bangla (বাংলা) tutorial| Model Methods",
+      "duration": 1338
+    },
+    {
+      "id": "g6HYaRWYyh4",
+      "title": "Part 44. Custom Model Methods | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 967
+    },
+    {
+      "id": "APlvGK8mXig",
+      "title": "Part 45. Custom Admin Panel | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 1065
+    },
+    {
+      "id": "XOiG0MbcG1w",
+      "title": "Part 46. Custom Model Manager | Python DJango Bangla (বাংলা) tutorial |",
+      "duration": 563
+    },
+    {
+      "id": "3WC_ifZrxX8",
+      "title": "Part 47. API Integrations | Python DJango Bangla (বাংলা) tutorial | Integrate 3rd  Party API",
+      "duration": 676
+    },
+    {
+      "id": "VKQt5FLWYrY",
+      "title": "Part 48. Facebook Gateway Integrations | Python DJango Bangla (বাংলা) tutorial | Like Comment share",
+      "duration": 475
+    },
+    {
+      "id": "Iywqq4KaSTA",
+      "title": "Part 49.Like Unlike Button | Views Count | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 771
+    },
+    {
+      "id": "xItT2qs-ENY",
+      "title": "Part 50. Add Comment option and reply to comment | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1564
+    },
+    {
+      "id": "B8mshs0Nf0s",
+      "title": "Part 51. Show reply | Custom template Tag or Filter | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 543
+    },
+    {
+      "id": "tvTl1s4AN2A",
+      "title": "Part 52. Virtual environment | Setup | Need | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 723
+    },
+    {
+      "id": "HE8umvogRyA",
+      "title": "Part 53. Model Inlines | TabularInline | Show Submodel | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 214
+    },
+    {
+      "id": "LPhqwUhwdaE",
+      "title": "Part 54. Multiple image Upload | Variable Image Upload | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1053
+    },
+    {
+      "id": "apWLTa-aGHE",
+      "title": "Part 55. Select With Free text | Select or Type Texts| Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1229
+    },
+    {
+      "id": "eOPI8nl72UM",
+      "title": "Part 56. Realtime Notifications | Python DJango Bangla (বাংলা) tutorial | Push Notifications",
+      "duration": 1513
+    },
+    {
+      "id": "dSCTQfbP4N8",
+      "title": "Part 57. Convert Html To Pdf | Python DJango Bangla (বাংলা) tutorial | Force Download",
+      "duration": 894
+    },
+    {
+      "id": "TgXVsU5yAWk",
+      "title": "Part 58. Work With Static files Python DJango Bangla (বাংলা) tutorial | Static file problems",
+      "duration": 330
+    },
+    {
+      "id": "nHNxM8E55bA",
+      "title": "Part 59.Complete Project | Make Tuition Profile| Python DJango Bangla (বাংলা) tutorial |Create Alert",
+      "duration": 973
+    },
+    {
+      "id": "GKyYP6jXLLg",
+      "title": "What is ORM? What is DJango ORM? Interview Question . Object Relational Mapper In Bangla (বাংলা)",
+      "duration": 246
+    },
+    {
+      "id": "7WHBPqQXmJg",
+      "title": "Part 60.Complete Project | View Other users profile| Python DJango Bangla (বাংলা) tutorial",
+      "duration": 787
+    },
+    {
+      "id": "ye8n4MIqzVY",
+      "title": "Part 61.Complete Project | Give Notification to Teacher| Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1144
+    },
+    {
+      "id": "O2rrovtty6c",
+      "title": "Part 62.Complete Project | Design Homepage | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 1096
+    },
+    {
+      "id": "ecBwBRP2XY4",
+      "title": "Part 63.Complete Project | Apply for Tuition | Minor designs | Python DJango Bangla (বাংলা) tutorial",
+      "duration": 826
+    },
+    {
+      "id": "EoDLIpYXDMc",
+      "title": "Part 64.Host Project on Heroku | Live your Django Project| Python DJango Bangla (বাংলা) tutorial",
+      "duration": 932
+    },
+    {
+      "id": "fyvAvUTiUts",
+      "title": "Part 65. 3rd Party POST API Integration | Python Django Bangla (বাংলা) | Django Rest Framework",
+      "duration": 819
+    },
+    {
+      "id": "wcGIgct4uYg",
+      "title": "Part 66. Work with Vue.js in Django Template File | Use Vue.js with HTML file in Django project.",
+      "duration": 389
+    },
+    {
+      "id": "CA6wYCqFZ5U",
+      "title": "Part 67. Pass JSON data to Javascript, work with JSON data and Pass again to backend. Django Project",
+      "duration": 755
+    },
+    {
+      "id": "r0Qyw0q671U",
+      "title": "Part 68. Django Model JSON field",
+      "duration": 372
+    },
+    {
+      "id": "tTIwpD3GJEE",
+      "title": "Part 69. Custom Context Processors in django | Access  from all django template",
+      "duration": 352
+    },
+    {
+      "id": "Q-b22D_sFOk",
+      "title": "Part 70. Easiest Way to host django react boilerplate on heroku | Boilerplate Hosting | 100% working",
+      "duration": 2189
+    },
+    {
+      "id": "fKZJ8uEI6jU",
+      "title": "User Location Access Through API | DJango Advance Topic | location access | Get User IP by ipware",
+      "duration": 553
+    },
+    {
+      "id": "PElQmxa7Od4",
+      "title": "Use multiple DataBase in single project | Django Advance Topic | Use Two Database In Single Project",
+      "duration": 1038
+    },
+    {
+      "id": "sqGECXnClt4",
+      "title": "Challenge! How Class Based View Works | Code structure of Generic APIView | Django Advance Topic |",
+      "duration": 1891
+    },
+    {
+      "id": "DatZY6CQrt8",
+      "title": "Chained Dependent DropDown with DJango and VueJS. Easiest way to make Dependent dropdown",
+      "duration": 1795
+    },
+    {
+      "id": "KAySsGQF1oc",
+      "title": "Chained Dependent Dropdown on Django Admin Panel |  Django Advance Course | Multi Level Dropdown",
+      "duration": 1990
+    }
+  ]
+}

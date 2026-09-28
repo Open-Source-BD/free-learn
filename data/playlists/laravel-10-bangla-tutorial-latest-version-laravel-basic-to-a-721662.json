@@ -1,0 +1,535 @@
+{
+  "courseId": "laravel-10-bangla-tutorial-latest-version-laravel-basic-to-a-721662",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:48.134Z",
+  "title": "laravel 10 bangla tutorial latest version |laravel bangla tutorial |  laravel basic to advanced from laravel official documentation",
+  "channel": "Learn Hunter",
+  "videos": [
+    {
+      "id": "oPbRN-syDfA",
+      "title": "01 laravel bangla tutorial basic to advanced | laravel programming | laravel development",
+      "duration": 245
+    },
+    {
+      "id": "UZl2r6_epzM",
+      "title": "laravel advanced ecommerce tutorial | laravel latest version complete ecommerce tutorial bangla.",
+      "duration": 920
+    },
+    {
+      "id": "bgutqlqC2O4",
+      "title": "02 laravel bangla tutorial | what is framework ? | laravel web development | laravel Programming",
+      "duration": 280
+    },
+    {
+      "id": "sc7ezJiQqxw",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "hXCTrBjc44E",
+      "title": "04  laravel bangla tutorial latest version | Namespace in php oop | laravel web development",
+      "duration": 446
+    },
+    {
+      "id": "klI25a0Ho_g",
+      "title": "05 laravel bangla tutorial latest version | Trait in php | what is trait | laravel web development",
+      "duration": 366
+    },
+    {
+      "id": "9w2n22K5wmA",
+      "title": "06 laravel bangla tutorial| what is composer? why we need composer? | laravel web development",
+      "duration": 611
+    },
+    {
+      "id": "nVGfr05LUeA",
+      "title": "07 laravel bangla tutorial | Installing a laravel fresh project | laravel web development",
+      "duration": 579
+    },
+    {
+      "id": "qIKqrFR2o_o",
+      "title": "08 laravel bangla tutorial | Configuration | laravel web development",
+      "duration": 756
+    },
+    {
+      "id": "pE9QlNLVRoo",
+      "title": "09 laravel bangla tutorial | Directory Structure | laravel web development",
+      "duration": 728
+    },
+    {
+      "id": "-63Onnf61dg",
+      "title": "10 laravel bangla tutorial | starterkits | laravel web development",
+      "duration": 746
+    },
+    {
+      "id": "00lZskr03jE",
+      "title": "11 laravel bangla tutorial |Deployment  | Based on laravel official documentation",
+      "duration": 401
+    },
+    {
+      "id": "gA0hewgMmzE",
+      "title": "12 laravel bangla tutorial | what is MVC Pattern ?  | Based on laravel official documentation",
+      "duration": 512
+    },
+    {
+      "id": "ljJJdbjGRLY",
+      "title": "13 laravel bangla tutorial | Request lifecycle part-1  | Based on laravel official documentation",
+      "duration": 926
+    },
+    {
+      "id": "FysqiGbQqKo",
+      "title": "14 laravel bangla tutorial | Request lifecycle part-2  | Based on laravel official documentation",
+      "duration": 567
+    },
+    {
+      "id": "Il0oQabgAn8",
+      "title": "15 laravel service container bangla tutorial | based on laravel official documentation",
+      "duration": 878
+    },
+    {
+      "id": "O4B7LIaHhas",
+      "title": "16 laravel service provider bangla tutorial | based on laravel official documentation",
+      "duration": 955
+    },
+    {
+      "id": "CwyDcv-Z7hw",
+      "title": "17 laravel Facade bangla tutorial | based on laravel official documentation",
+      "duration": 1183
+    },
+    {
+      "id": "cr8CsI3uPH0",
+      "title": "18 routing laravel bangla tutorial first part | based on laravel official documentation",
+      "duration": 1172
+    },
+    {
+      "id": "MtABvAZ4pfE",
+      "title": "19 Route parameter & named route | laravel bangla tutorial , based on laravel official documentation",
+      "duration": 807
+    },
+    {
+      "id": "4XCZuE6BuIg",
+      "title": "20 what is middleware in laravel | laravel bangla tutorial , based on laravel official documentation",
+      "duration": 767
+    },
+    {
+      "id": "gD4JQLVfVww",
+      "title": "21 what is CSRF Protection in laravel| laravel bangla tutorial based on official documentation",
+      "duration": 569
+    },
+    {
+      "id": "IA9j07qAPYQ",
+      "title": "22 what is laravel controller and how its work?  laravel bangla tutorial based on documentation",
+      "duration": 1128
+    },
+    {
+      "id": "ptWWWV_Bozk",
+      "title": "23 invoke method laravel controller | laravel bangla tutorial based on official documentation",
+      "duration": 889
+    },
+    {
+      "id": "SiEAYPBF8aQ",
+      "title": "24 why we use @csrf token on laravel | laravel bangla tutorial based on official documentation",
+      "duration": 551
+    },
+    {
+      "id": "FlXXEE-vQwE",
+      "title": "25 Why we use ( Request $requst ) in  Laravel | laravel bangla tutorial based on documentation",
+      "duration": 817
+    },
+    {
+      "id": "JyfKXabVH7M",
+      "title": "26 Response in laravel | laravel bangla tutorial based on documentation",
+      "duration": 944
+    },
+    {
+      "id": "z0_E6uimKNw",
+      "title": "27 let's discuss with view in laravel  | laravel bangla tutorial based on documentation",
+      "duration": 814
+    },
+    {
+      "id": "JuAA6PfZcqY",
+      "title": "28 blade template in laravel | laravel bangla tutorial based on documentation",
+      "duration": 559
+    },
+    {
+      "id": "CFT_6xcMp6I",
+      "title": "29 URL Generation in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 312
+    },
+    {
+      "id": "psaUIbpq9PY",
+      "title": "30 session in laravel | laravel bangla tutorial based on documentation",
+      "duration": 787
+    },
+    {
+      "id": "Wn8nrgLpyL0",
+      "title": "31 form validation in laravel |  laravel bangla tutorial based on documentation",
+      "duration": 1050
+    },
+    {
+      "id": "ENRqsjKGlzo",
+      "title": "32 Error Handling in laravel |  laravel bangla tutorial | based on official documentation",
+      "duration": 679
+    },
+    {
+      "id": "RhnDmMnok64",
+      "title": "33 logging and custom logging record in laravel | laravel bangla tutorial | based on documentation",
+      "duration": 1155
+    },
+    {
+      "id": "ARtyayG-OPQ",
+      "title": "34 laravel Authentication with Breeze | laravel bangla tutorial | based on official documentation",
+      "duration": 1704
+    },
+    {
+      "id": "Vc1YXytyDuk",
+      "title": "35 laravel fortify custome authentication part 1 |  laravel bangla tutorial | based on documentation",
+      "duration": 1429
+    },
+    {
+      "id": "2QKn8FMlkqs",
+      "title": "36 laravel fortify custome authentication part 2  laravel bangla tutorial | based on documentation",
+      "duration": 537
+    },
+    {
+      "id": "S54rI0W1Nt8",
+      "title": "37 laravel authentication ui package | laravel bangla tutorial based on official documentation",
+      "duration": 1020
+    },
+    {
+      "id": "18cHsjdtYzA",
+      "title": "38 Email verification in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 1284
+    },
+    {
+      "id": "Fh6t_zf8N50",
+      "title": "39 Encryption & Decryption in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 607
+    },
+    {
+      "id": "ehXJ3hIY7Bc",
+      "title": "40 Hashing in laravel security | laravel bangla tutorial based on official documentation",
+      "duration": 384
+    },
+    {
+      "id": "FVq6QQBlO_Y",
+      "title": "41 Password reset in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 473
+    },
+    {
+      "id": "FKOa7QR5REU",
+      "title": "42 Password Change system laravel  | laravel bangla tutorial based on official documentation",
+      "duration": 1235
+    },
+    {
+      "id": "b4_E6wCHxLc",
+      "title": "43 Database Getting started laravel | laravel bangla tutorial based on official documentation",
+      "duration": 358
+    },
+    {
+      "id": "hksZ1XGhwxI",
+      "title": "44 what is  migration in laravel ?  laravel bangla tutorial based on official documentation",
+      "duration": 1338
+    },
+    {
+      "id": "QTvABxRMvPs",
+      "title": "45 Query Builder Data read from database | laravel bangla tutorial based on official documentation",
+      "duration": 929
+    },
+    {
+      "id": "S-SUYS2MEIA",
+      "title": "46 yield in laravel |  laravel bangla tutorial based on official documentation",
+      "duration": 346
+    },
+    {
+      "id": "p9g5fMJj5UM",
+      "title": "47 Create and store data |  laravel bangla tutorial based on official documentation",
+      "duration": 750
+    },
+    {
+      "id": "VZzEhIAdPnI",
+      "title": "48 delete data laravel | laravel bangla tutorial based on official documentation",
+      "duration": 349
+    },
+    {
+      "id": "c3YM2As7Acs",
+      "title": "49 data edit update | laravel latest version  bangla tutorial based on official documentation",
+      "duration": 117
+    },
+    {
+      "id": "p6szZKTCYFg",
+      "title": "50 resource controller read data | laravel latest version  bangla tutorial based on documentation",
+      "duration": 908
+    },
+    {
+      "id": "_0uN32nA12E",
+      "title": "51 resource route create and store data | laravel latest version  bangla tutorial",
+      "duration": 719
+    },
+    {
+      "id": "_orzJyTsnxg",
+      "title": "52 resource controller delete data | laravel latest version  bangla tutorial",
+      "duration": 464
+    },
+    {
+      "id": "pdkTNVKjl1g",
+      "title": "53 resource controller edit update show |  laravel latest version  bangla tutorial",
+      "duration": 625
+    },
+    {
+      "id": "PmKb0kdsonk",
+      "title": "54 laravel bangla tutorial | Directory path change for project run",
+      "duration": 263
+    },
+    {
+      "id": "Eo4TyHouXCU",
+      "title": "55 laravel bangla tutorial | laravel query builder more important function",
+      "duration": 1306
+    },
+    {
+      "id": "oofBnoZW1UM",
+      "title": "56 laravel bangla tutorial | laravel query builder joining, leftjoin,rightjoin,crossjoin,union",
+      "duration": 752
+    },
+    {
+      "id": "YUSC7LVqDAo",
+      "title": "57 pagination in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 604
+    },
+    {
+      "id": "kL_b3g4XeAY",
+      "title": "58 laravel seeder | laravel bangla tutorial based on official documentation",
+      "duration": 818
+    },
+    {
+      "id": "YTFT_0fZf5g",
+      "title": "59 factory , faker in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 672
+    },
+    {
+      "id": "wlpziN2ke9o",
+      "title": "60 redis in laravel | laravel bangla tutorial |laravel latest version bangla tutorial",
+      "duration": 344
+    },
+    {
+      "id": "3dSqBRERLhg",
+      "title": "61 Model in laravel, how and why model use | laravel bangla tutorial | laravel latest version bangla",
+      "duration": 767
+    },
+    {
+      "id": "020UjL0qTi0",
+      "title": "62 Data read through Model ORM | laravel bangla tutorial | laravel latest version bangla tutorial",
+      "duration": 898
+    },
+    {
+      "id": "RJDuPqc5l7Q",
+      "title": "63 Data insert by save method | laravel bangla tutorial latest version",
+      "duration": 800
+    },
+    {
+      "id": "v6XtGQH9lWE",
+      "title": "64 data insert by insert method eloquent ORM | laravel bangla tutorial",
+      "duration": 287
+    },
+    {
+      "id": "Wl2HsWo9kYA",
+      "title": "65 data edit by eloquent orm |  laravel bangla tutorial latest version",
+      "duration": 337
+    },
+    {
+      "id": "a3j-uBbF40U",
+      "title": "66 data update by model orm save & update method | laravel bangla tutorial latest version",
+      "duration": 342
+    },
+    {
+      "id": "eRkdQT9mwfo",
+      "title": "67 delete data by destroy method & delete method | laravel bangla tutorial latest version",
+      "duration": 350
+    },
+    {
+      "id": "6WoDF6NOO84",
+      "title": "68 laravel bangla tutorial  template mastering asset files | laravel bangla tutorial latest version",
+      "duration": 693
+    },
+    {
+      "id": "kktjgsCrI5E",
+      "title": "69 laravel bangla tutorial | laravel auth customization| template mastering partial your common file",
+      "duration": 684
+    },
+    {
+      "id": "LXIArFVJvSU",
+      "title": "70 login page customization with custom theme template | laravel bangla tutorial for beginners",
+      "duration": 413
+    },
+    {
+      "id": "kfprOYPV0Gk",
+      "title": "71 registration page customization | laravel bangla tutorial latest version",
+      "duration": 577
+    },
+    {
+      "id": "ID7Sub4wU-g",
+      "title": "72 forget password template customization in laravel | laravel bangla tutorial",
+      "duration": 574
+    },
+    {
+      "id": "DjnYzMhIgDI",
+      "title": "73 Category list convert on admin template | data read by laravel | laravel bangla tutorial",
+      "duration": 592
+    },
+    {
+      "id": "xPfPy6af728",
+      "title": "74 Data Insert | laravel bangla tutorial latest version",
+      "duration": 245
+    },
+    {
+      "id": "zcwO2Iq2WZo",
+      "title": "75 notification alert show after data insert | laravel bangla tutorial latest version",
+      "duration": 447
+    },
+    {
+      "id": "f-1LQWMdSqY",
+      "title": "76 push stack in laravel | laravel bangla tutorial latest version",
+      "duration": 421
+    },
+    {
+      "id": "EnMbBebHpIg",
+      "title": "77 Data edit & update | laravel latest version bangla tutorial | laravel 9 bangla tutorial",
+      "duration": 316
+    },
+    {
+      "id": "g2rR56Mh8aM",
+      "title": "78 unsigned key , foreign key with new schema | laravel bangla tutorial",
+      "duration": 1068
+    },
+    {
+      "id": "_y9_Bsn7fxE",
+      "title": "79 Eloquent ORM One To One joining | laravel bangla tutorial",
+      "duration": 773
+    },
+    {
+      "id": "EA5KN8qk_xo",
+      "title": "80 subcategory crud done with all eloquent relationship | laravel bangla tutorial latest version",
+      "duration": 461
+    },
+    {
+      "id": "gIGz8wQDVYU",
+      "title": "81 collections of laravel | laravel bangla tutorial based on official documentation",
+      "duration": 740
+    },
+    {
+      "id": "b5a7xcvjY8Y",
+      "title": "82 Accessors & Mutators - cast | laravel bangla tutorial latest version based on documentation",
+      "duration": 701
+    },
+    {
+      "id": "_tkx-t1y7aw",
+      "title": "83 laravel Tinker  - how why and when | laravel bangla tutorial latest version | Tinker in laravel",
+      "duration": 580
+    },
+    {
+      "id": "mmwejo4d4Fc",
+      "title": "84 Create custom command |  laravel custom command |laravel bangla tutorial latest version",
+      "duration": 517
+    },
+    {
+      "id": "vcakSjw4hfs",
+      "title": "85 Post table create join 3 tables in model | laravel new version bangla tutorial",
+      "duration": 982
+    },
+    {
+      "id": "6_zqc5wrg1c",
+      "title": "86 laravel debugbar package installation and details | laravel bangla tutorial new version",
+      "duration": 559
+    },
+    {
+      "id": "-nzzXJ6bXxM",
+      "title": "87 Image Intervention Package in laravel | laravel Bangla tutorial latest version",
+      "duration": 501
+    },
+    {
+      "id": "4LnZUPO4PyA",
+      "title": "88 Post Create Page Category with subcategory | laravel bangla tutorial",
+      "duration": 1027
+    },
+    {
+      "id": "gD1Cv2818kE",
+      "title": "89 Image Intervention Post Insert  with  category dropdown | Laravel CRUD Create & Store",
+      "duration": 995
+    },
+    {
+      "id": "DOqbZJX5TFs",
+      "title": "90 Manage Post Join 3 tables | laravel CRUD bangla tutorial |laravel programming",
+      "duration": 588
+    },
+    {
+      "id": "TLQk2SDfNHc",
+      "title": "91  New column add on existing table by migration laravel | laravel programming",
+      "duration": 376
+    },
+    {
+      "id": "8-H7X1UiIOA",
+      "title": "92 Post delete with storage image | laravel bangla tutorial | laravel programming",
+      "duration": 502
+    },
+    {
+      "id": "aXY3_7adB3g",
+      "title": "93 post edit and update with delete previous image | laravel web development | laravel programming",
+      "duration": 762
+    },
+    {
+      "id": "2PNHsF7I4Ug",
+      "title": "how to make laravel multi authentication | laravel 8 multiauthentication | laravel easy multiauth",
+      "duration": 1356
+    },
+    {
+      "id": "2wjiKWmiMiA",
+      "title": "94 Custome route file generate for large project | laravel bangla tutorial",
+      "duration": 268
+    },
+    {
+      "id": "v6jc6A8WD3Y",
+      "title": "95 Event and listeners in laravel | laravel bangla tutorial based on official documentation",
+      "duration": 1275
+    },
+    {
+      "id": "9c-FfZg6izI",
+      "title": "96 Laravel Queue run and implements with event listeners | laravel bangla tutorial",
+      "duration": 322
+    },
+    {
+      "id": "uyDg88MFgLQ",
+      "title": "97 Shortest way to use models and facades | laravel bangla tutorial",
+      "duration": 270
+    },
+    {
+      "id": "yIvyLB62bnU",
+      "title": "98 laravel caching implements with Redis, Dynamodb ,Memcached | laravel bangla tutorial",
+      "duration": 519
+    },
+    {
+      "id": "w_3kGthHhPI",
+      "title": "99 let's know about laravel default cache driver File | laravel bangla tutorial",
+      "duration": 746
+    },
+    {
+      "id": "2dhgWa5AiXo",
+      "title": "100 data cache on database cache table | laravel bangla tutorial",
+      "duration": 463
+    },
+    {
+      "id": "-f4PaEFQc8U",
+      "title": "101 how to add captcha code in laravel | Captcha code in laravel",
+      "duration": 527
+    },
+    {
+      "id": "SqF6SVA-kGo",
+      "title": "102. laravel localization , multi language bangla tutorial | How to use multi language in laravel",
+      "duration": 1249
+    },
+    {
+      "id": "NLAUKe286_U",
+      "title": "103 laravel helpers in depth | let's talk about laravel helper function in bangla",
+      "duration": 963
+    }
+  ]
+}

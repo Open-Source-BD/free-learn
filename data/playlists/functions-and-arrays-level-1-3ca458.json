@@ -1,0 +1,225 @@
+{
+  "courseId": "functions-and-arrays-level-1-3ca458",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:06.957Z",
+  "title": "Functions and Arrays - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "tXbgyBCLteM",
+      "title": "Introduction to Functions",
+      "duration": 1168
+    },
+    {
+      "id": "U3VZNsMJpD4",
+      "title": "Digits Frequency | Solution",
+      "duration": 229
+    },
+    {
+      "id": "TJvWrEMuO5k",
+      "title": "Digits Frequency | Question",
+      "duration": 28
+    },
+    {
+      "id": "JadYRRWY8Go",
+      "title": "Introduction to Number System",
+      "duration": 718
+    },
+    {
+      "id": "N6TpoQemKF4",
+      "title": "Decimal to any Base | Question",
+      "duration": 48
+    },
+    {
+      "id": "lOsmPMihcTM",
+      "title": "Decimal to any Base | Solution",
+      "duration": 754
+    },
+    {
+      "id": "FybIe62OI6M",
+      "title": "Any base to decimal | Question",
+      "duration": 61
+    },
+    {
+      "id": "F0aTGc2vS5s",
+      "title": "Any base to Decimal | Solution",
+      "duration": 368
+    },
+    {
+      "id": "2-d3DcBFzug",
+      "title": "Any base to any base | Question",
+      "duration": 37
+    },
+    {
+      "id": "LJ697zHLL0M",
+      "title": "Any base to any base | Solution",
+      "duration": 213
+    },
+    {
+      "id": "LmQeZ74pT_c",
+      "title": "Any base addition | Question",
+      "duration": 212
+    },
+    {
+      "id": "YVpTjZRShqo",
+      "title": "Any base Addition | Solution",
+      "duration": 791
+    },
+    {
+      "id": "J4mKYhm5r-A",
+      "title": "Any base subtraction | Question",
+      "duration": 114
+    },
+    {
+      "id": "TJtXba11yNU",
+      "title": "Any base subtraction | Solution",
+      "duration": 582
+    },
+    {
+      "id": "gB7H8BQ1s1w",
+      "title": "Any base multiplication | Question",
+      "duration": 170
+    },
+    {
+      "id": "_jcwos0_pSg",
+      "title": "Any base multiplication | Solution",
+      "duration": 537
+    },
+    {
+      "id": "RdcvXoM3ZYM",
+      "title": "Introduction to Arrays",
+      "duration": 381
+    },
+    {
+      "id": "QolHb2UaFJc",
+      "title": "Arrays - Memory",
+      "duration": 908
+    },
+    {
+      "id": "8erugyv3WDA",
+      "title": "Span of an Array | Question",
+      "duration": 57
+    },
+    {
+      "id": "1SsXm5TI8W4",
+      "title": "Span of an Array | Solution",
+      "duration": 345
+    },
+    {
+      "id": "awuSQW2F0AM",
+      "title": "Find Element in Array | Question",
+      "duration": 69
+    },
+    {
+      "id": "3AcyounXhfg",
+      "title": "Find element in an Array | Solution",
+      "duration": 233
+    },
+    {
+      "id": "85gIj4eBdBA",
+      "title": "Bar Chart | Question",
+      "duration": 54
+    },
+    {
+      "id": "L-0IxqvYQKs",
+      "title": "Bar Chart | Solution",
+      "duration": 456
+    },
+    {
+      "id": "aSb29e8OoZs",
+      "title": "Sum of two arrays | Question",
+      "duration": 78
+    },
+    {
+      "id": "BzJK1zNXwcU",
+      "title": "Sum of two arrays | Solution",
+      "duration": 683
+    },
+    {
+      "id": "LQom9iFG1F0",
+      "title": "Difference of two arrays | Question",
+      "duration": 84
+    },
+    {
+      "id": "jKyuWD8XKjw",
+      "title": "Difference of two arrays | Solution",
+      "duration": 956
+    },
+    {
+      "id": "RJITdlWR1-g",
+      "title": "Reverse an Array - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 69
+    },
+    {
+      "id": "CuvSfyO5iRU",
+      "title": "Reverse an Array - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 161
+    },
+    {
+      "id": "ZictKDbUWak",
+      "title": "Rotate an Array - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 200
+    },
+    {
+      "id": "8RErc0VXAo8",
+      "title": "Rotate an Array - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 564
+    },
+    {
+      "id": "TCDPgRgCNr0",
+      "title": "Inverse of an Array - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 66
+    },
+    {
+      "id": "1NvhnN56NKc",
+      "title": "Inverse of an Array - Solution | Functions and Array | Data Structures and Algorithms in JAVA",
+      "duration": 167
+    },
+    {
+      "id": "YrE8E1J_rp4",
+      "title": "Subarrays of an Array - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 104
+    },
+    {
+      "id": "lUdWGkCUD54",
+      "title": "Subarrays of an Array - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 237
+    },
+    {
+      "id": "vk8sfizNtsY",
+      "title": "Subsets of an Array - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 95
+    },
+    {
+      "id": "iKSI_9NHR1M",
+      "title": "Subsets of an Array - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 632
+    },
+    {
+      "id": "j6BgMBIOCLQ",
+      "title": "Binary Search Algorithm | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 583
+    },
+    {
+      "id": "kQx7nvN_8e4",
+      "title": "Ceil and Floor - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 60
+    },
+    {
+      "id": "qaQRRWXgFIQ",
+      "title": "Ceil and Floor - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 409
+    },
+    {
+      "id": "PFaoQ72ziNk",
+      "title": "First and Last Index - Question | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 73
+    },
+    {
+      "id": "9NXZccIWNqU",
+      "title": "First and Last Index - Solution | Functions and Arrays | Data Structures and Algorithms in JAVA",
+      "duration": 631
+    }
+  ]
+}

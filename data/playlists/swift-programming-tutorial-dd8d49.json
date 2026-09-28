@@ -1,0 +1,40 @@
+{
+  "courseId": "swift-programming-tutorial-dd8d49",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:18.034Z",
+  "title": "Swift Programming Tutorial",
+  "channel": "FHT Bangla",
+  "videos": [
+    {
+      "id": "LMXDjUf5pVs",
+      "title": "Swift Tutorial for beginner in Bangla || সুইফট বাংলা টিউটোরিয়াল || Variable, Constant, Optionals",
+      "duration": 578
+    },
+    {
+      "id": "l4S782uV3ps",
+      "title": "Swift Tutorial for beginner in Bangla(Part 02) || Optionals and Array || সুইফট বাংলা টিউটোরিয়াল",
+      "duration": 854
+    },
+    {
+      "id": "ztMvGXKoiF0",
+      "title": "Structures and Classes in Swift || Swift Tutorial in Bangla(Part-03) || সুইফট বাংলা টিউটোরিয়াল",
+      "duration": 565
+    },
+    {
+      "id": "hxWmMOGeV98",
+      "title": "for loop in swift || Swift Tutorial for beginner in Bangla || সুইফট বাংলা টিউটোরিয়াল",
+      "duration": 267
+    },
+    {
+      "id": "ux133ReuihY",
+      "title": "for loop in swift (advanced) || Swift Tutorial for beginner in Bangla || সুইফট বাংলা টিউটোরিয়াল",
+      "duration": 554
+    },
+    {
+      "id": "1Wg5riG9WvA",
+      "title": "Array, Set and Dictionary in Swift || Collection types in swift || সুইফট বাংলা টিউটোরিয়াল",
+      "duration": 817
+    }
+  ]
+}

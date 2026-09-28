@@ -1,0 +1,85 @@
+{
+  "courseId": "typescript-bangla-tutorial-series-072f19",
+  "sourceUrl": "https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:23.788Z",
+  "title": "TypeScript Bangla ( বাংলা ) Tutorial Series",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "CHnTTzD1pAQ",
+      "title": "Lesson 1 - Introduction & Installation - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 530
+    },
+    {
+      "id": "47PASjEF5fo",
+      "title": "Lesson 2 - Editor Setup & Compilation - TypeScript Tutorial Series",
+      "duration": 643
+    },
+    {
+      "id": "zPxvFjNQN20",
+      "title": "Lesson 3 - Type Basics - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 757
+    },
+    {
+      "id": "fIQQNQ7DaV8",
+      "title": "Lesson 4 - Explicit & Union Types - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 563
+    },
+    {
+      "id": "Styuf2Bv92I",
+      "title": "Lesson 5 - Dynamic Type - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 240
+    },
+    {
+      "id": "mlrcRxhbN_4",
+      "title": "Lesson 6 - How to use Functions - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 637
+    },
+    {
+      "id": "BrhciRc2F4g",
+      "title": "Lesson 7 - Type Aliases - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 197
+    },
+    {
+      "id": "mZ-bn4IvlPE",
+      "title": "Lesson 8 - Function Signatures - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 575
+    },
+    {
+      "id": "hzR6VM_D_G8",
+      "title": "Lesson 9 - Classes - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 491
+    },
+    {
+      "id": "ZBqaso6wBUY",
+      "title": "Lesson 10 - Access Modifiers - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 362
+    },
+    {
+      "id": "lnup-9bBCUQ",
+      "title": "Lesson 11 - Module System - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 472
+    },
+    {
+      "id": "VqJ6Bjvq1GA",
+      "title": "Lesson 12 - Interfaces - TypeScript Tutorial Series",
+      "duration": 1058
+    },
+    {
+      "id": "juYRCp97o-I",
+      "title": "Lesson 13 - Generics - TypeScript Bangla ( বাংলা ) Tutorial Series",
+      "duration": 785
+    },
+    {
+      "id": "axNr9zCgbLc",
+      "title": "Lesson 14 - Enum Types - TypeScript Tutorial Series",
+      "duration": 283
+    },
+    {
+      "id": "Vrzn-QRhasU",
+      "title": "Lesson 15 - Tuples - TypeScript Tutorial Series",
+      "duration": 350
+    }
+  ]
+}

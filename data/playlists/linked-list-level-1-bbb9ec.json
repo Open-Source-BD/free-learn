@@ -1,0 +1,280 @@
+{
+  "courseId": "linked-list-level-1-bbb9ec",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:26.355Z",
+  "title": "Linked Lists - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "GVwbTCnZ5kk",
+      "title": "Linked Lists | Introduction",
+      "duration": 322
+    },
+    {
+      "id": "EFgLdaBSpSw",
+      "title": "Data Members of a Linked List",
+      "duration": 190
+    },
+    {
+      "id": "r9FxRiIZhK4",
+      "title": "Add Last in Linked List | Question",
+      "duration": 107
+    },
+    {
+      "id": "fjjORH3nWy4",
+      "title": "Add Last in Linked List | Solution",
+      "duration": 276
+    },
+    {
+      "id": "6gR9_lA8uW8",
+      "title": "Display and Size of Linked List | Question",
+      "duration": 40
+    },
+    {
+      "id": "3yK7SkmdZrE",
+      "title": "Display and Size of Linked List | Solution",
+      "duration": 170
+    },
+    {
+      "id": "3za9tOwFyCY",
+      "title": "Remove First from Linked List | Question",
+      "duration": 32
+    },
+    {
+      "id": "QyfG6meLJBQ",
+      "title": "Remove First in Linked List | Solution",
+      "duration": 206
+    },
+    {
+      "id": "t99GFv9vKZ0",
+      "title": "Get Value in Linked List | Question",
+      "duration": 85
+    },
+    {
+      "id": "MGwnkGap5s8",
+      "title": "Get Value in Linked List | Solution",
+      "duration": 183
+    },
+    {
+      "id": "qsz2QlQpFg4",
+      "title": "Add First in Linked List | Question",
+      "duration": 43
+    },
+    {
+      "id": "DfP-tb68t20",
+      "title": "Add First in Linked List | Solution",
+      "duration": 207
+    },
+    {
+      "id": "ObCDzE-eAgA",
+      "title": "Add at Index in Linked List | Question",
+      "duration": 97
+    },
+    {
+      "id": "n9E27Z4zjpk",
+      "title": "Add at Index in Linked List | Solution",
+      "duration": 307
+    },
+    {
+      "id": "67s3iHctemA",
+      "title": "Remove Last in Linked List | Question",
+      "duration": 78
+    },
+    {
+      "id": "WTG87ZABrtY",
+      "title": "Remove Last in Linked List | Solution",
+      "duration": 143
+    },
+    {
+      "id": "CPSwsBabT-A",
+      "title": "Reverse a Linked List - Data Iterative | Question",
+      "duration": 73
+    },
+    {
+      "id": "yRKvWfbSNM8",
+      "title": "Reverse a Linked List - Data Iterative | Solution",
+      "duration": 152
+    },
+    {
+      "id": "iAEvqhaeD88",
+      "title": "Reverse a Linked List - Pointer Iterative | Question",
+      "duration": 102
+    },
+    {
+      "id": "71NqKy7287g",
+      "title": "Reverse a Linked List - Pointer Iterative | Solution",
+      "duration": 503
+    },
+    {
+      "id": "yQSgxX50kHs",
+      "title": "Remove at Index in Linked List | Question",
+      "duration": 43
+    },
+    {
+      "id": "tYKLCwlx4Lk",
+      "title": "Remove at Index in Linked List | Solution",
+      "duration": 210
+    },
+    {
+      "id": "cOspdnSyOms",
+      "title": "Linked List to Stack Adapter | Question",
+      "duration": 45
+    },
+    {
+      "id": "9x2Xbl4Y04U",
+      "title": "Linked List to Stack Adapter | Solution",
+      "duration": 410
+    },
+    {
+      "id": "BzeEZZTsNKA",
+      "title": "Linked List to Queue Adapter | Question",
+      "duration": 52
+    },
+    {
+      "id": "0XIbegDY_8k",
+      "title": "Linked List to Queue Adapter | Solution",
+      "duration": 196
+    },
+    {
+      "id": "cEJoiG9Gn_k",
+      "title": "Kth element from the end in Linked List | Question",
+      "duration": 68
+    },
+    {
+      "id": "ZVtJu3DpZHU",
+      "title": "Kth element from the end in Linked List | Solution",
+      "duration": 153
+    },
+    {
+      "id": "zj94Y_wjAWs",
+      "title": "Middle of Linked List | Question",
+      "duration": 53
+    },
+    {
+      "id": "jEfzUFcgGkk",
+      "title": "Middle of a Linked List | Solution",
+      "duration": 143
+    },
+    {
+      "id": "Svex7W3CYpQ",
+      "title": "Merge two sorted Linked List | Question",
+      "duration": 74
+    },
+    {
+      "id": "6vFEuO1pfJA",
+      "title": "Merge two sorted Linked List | Solution",
+      "duration": 228
+    },
+    {
+      "id": "DEvWhHgBjL0",
+      "title": "Merge Sort a Linked List | Question",
+      "duration": 285
+    },
+    {
+      "id": "ClLO6kFF6gs",
+      "title": "Merge Sort a Linked List | Solution",
+      "duration": 572
+    },
+    {
+      "id": "T4Od7rqE2BM",
+      "title": "Remove duplicates in a sorted Linked List | Question",
+      "duration": 33
+    },
+    {
+      "id": "ErSDF5IM1fo",
+      "title": "Remove duplicates from a sorted Linked List | Solution",
+      "duration": 382
+    },
+    {
+      "id": "58o1--_XGC4",
+      "title": "Odd Even List | Question",
+      "duration": 53
+    },
+    {
+      "id": "calrG6RJ9qI",
+      "title": "Odd Even List | Solution",
+      "duration": 420
+    },
+    {
+      "id": "Ko3DktYG4zs",
+      "title": "K Reverse in Linked List | Question",
+      "duration": 53
+    },
+    {
+      "id": "jhm2pYGFIos",
+      "title": "K Reverse in Linked List| Solution",
+      "duration": 399
+    },
+    {
+      "id": "TsqoueS_zWE",
+      "title": "Display Reverse Linked List - Recursive | Question",
+      "duration": 56
+    },
+    {
+      "id": "kgmHuB6w0PM",
+      "title": "Display Reverse Linked List - Recursive | Solution",
+      "duration": 181
+    },
+    {
+      "id": "Gj2y4GDLGf4",
+      "title": "Reverse Linked List using Pointer - Recursive | Question",
+      "duration": 109
+    },
+    {
+      "id": "q9PE0PjVHIo",
+      "title": "Reverse a Linked List using Pointers - Recursive | Solution",
+      "duration": 291
+    },
+    {
+      "id": "KxPm5kb6D2c",
+      "title": "Reverse a Linked List - Data Recursive | Question",
+      "duration": 64
+    },
+    {
+      "id": "aL3l2-S9koY",
+      "title": "Reverse a Linked List - Data Recursive | Solution",
+      "duration": 1013
+    },
+    {
+      "id": "JkC0dl0TrPI",
+      "title": "Is a Linked List Palindrome | Question",
+      "duration": 60
+    },
+    {
+      "id": "p-g75-QgTI0",
+      "title": "Is a Linked List Palindrome | Solution",
+      "duration": 809
+    },
+    {
+      "id": "qMFOU84GGW4",
+      "title": "Fold a Linked List | Question",
+      "duration": 60
+    },
+    {
+      "id": "U4M9O8UxB6I",
+      "title": "Fold a Linked List | Solution",
+      "duration": 1125
+    },
+    {
+      "id": "EmlJIS1K7tk",
+      "title": "Add two Linked Lists | Question",
+      "duration": 124
+    },
+    {
+      "id": "tK4eez3syAQ",
+      "title": "Add two Linked Lists | Solution",
+      "duration": 946
+    },
+    {
+      "id": "ZpMQ-Zn6yLc",
+      "title": "Intersection point of Linked List | Question",
+      "duration": 58
+    },
+    {
+      "id": "B4aqNarb0QQ",
+      "title": "Intersection point of Linked List | Solution",
+      "duration": 182
+    }
+  ]
+}

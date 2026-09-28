@@ -1,0 +1,495 @@
+{
+  "courseId": "operating-system-8a8f35",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:26.027Z",
+  "title": "Operating System",
+  "channel": "Farhan Hossan",
+  "videos": [
+    {
+      "id": "ukLxQXj89Lg",
+      "title": "Introduction to Operating System | Bangla Tutorial",
+      "duration": 552
+    },
+    {
+      "id": "beeB7AOYpmE",
+      "title": "Batch Operating System | Types of operating system | Bangla Tutorial",
+      "duration": 366
+    },
+    {
+      "id": "Yj2ymGIoL7A",
+      "title": "Multiprogramming and Multitasking / Time Sharing | Types of operating system | Bangla Tutorial",
+      "duration": 399
+    },
+    {
+      "id": "Iwi63Z0YOkA",
+      "title": "Multiprocessing Operating System | Types of operating system | Bangla Tutorial",
+      "duration": 250
+    },
+    {
+      "id": "2QCx-jPoF-U",
+      "title": "Real Time Operating System | Types of operating system | Bangla Tutorial",
+      "duration": 288
+    },
+    {
+      "id": "bOnhQQe8OLA",
+      "title": "Kernel and System Call | Operating system | Bangla Tutorial",
+      "duration": 240
+    },
+    {
+      "id": "ONXfCwq03Pk",
+      "title": "User mode and Kernel mode | operating system | Bangla Tutorial",
+      "duration": 209
+    },
+    {
+      "id": "oIH9KAiyV6g",
+      "title": "fork() system call | operating system | Bangla Tutorial",
+      "duration": 900
+    },
+    {
+      "id": "AbkjgFn57j8",
+      "title": "fork() system call example using OR operator | operating system | Bangla Tutorial",
+      "duration": 933
+    },
+    {
+      "id": "hs5MrQZEz5o",
+      "title": "fork() system call example using AND operator | operating system | Bangla Tutorial",
+      "duration": 1107
+    },
+    {
+      "id": "JVcaDpTt4SE",
+      "title": "fork() system call example using AND OR operator | operating system | Bangla Tutorial",
+      "duration": 644
+    },
+    {
+      "id": "2v0Vzng2wCk",
+      "title": "What is Process? | operating system | Bangla Tutorial",
+      "duration": 315
+    },
+    {
+      "id": "6NiK5inkMYw",
+      "title": "Process state transition | operating system | Bangla Tutorial",
+      "duration": 775
+    },
+    {
+      "id": "2-KGdKp_aSc",
+      "title": "Process Control Block (PCB) | operating system | Bangla Tutorial",
+      "duration": 540
+    },
+    {
+      "id": "oy0v-gcjFkc",
+      "title": "Types of scheduler | operating system | Bangla Tutorial",
+      "duration": 214
+    },
+    {
+      "id": "cqkejtfRgbc",
+      "title": "Context Switching | operating system | Bangla Tutorial",
+      "duration": 444
+    },
+    {
+      "id": "qlfTNLnxCkU",
+      "title": "Threads | Single threaded process | Multi threaded process |  Bangla Tutorial",
+      "duration": 567
+    },
+    {
+      "id": "x68wMU-BXZ8",
+      "title": "CPU Scheduling Algorithms | operating system | Bangla Tutorial",
+      "duration": 275
+    },
+    {
+      "id": "s3SGHs3PKCk",
+      "title": "CPU Scheduling Criteria | operating system | Bangla Tutorial",
+      "duration": 214
+    },
+    {
+      "id": "weac23W0QLo",
+      "title": "Times of CPU Scheduling Algorithms | operating system | Bangla Tutorial",
+      "duration": 515
+    },
+    {
+      "id": "DoQAzEBcIBI",
+      "title": "First Come First Serve (FCFS)  | with arrival time|Non Preemptive|operating system | Bangla Tutorial",
+      "duration": 927
+    },
+    {
+      "id": "p4D01y18lTc",
+      "title": "First Come First Serve (FCFS)|without arrival time |Non preemptive|operating system| Bangla Tutorial",
+      "duration": 225
+    },
+    {
+      "id": "o2jGbOLJFLc",
+      "title": "Shortest Job First (SJF) |with arrival time | Non Preemptive | operating system | Bangla Tutorial",
+      "duration": 631
+    },
+    {
+      "id": "J17w40jM-hY",
+      "title": "Shortest Job First (SJF) |without arrival time | Non Preemptive | operating system | Bangla Tutorial",
+      "duration": 286
+    },
+    {
+      "id": "u3JTFCMzEao",
+      "title": "Priority Scheduling Algorithm | Non Preemptive | operating system | Bangla Tutorial",
+      "duration": 743
+    },
+    {
+      "id": "13Xth_M7isQ",
+      "title": "SJF / SRTF (shortest remaining time first) | Preemptive | operating system | Bangla Tutorial",
+      "duration": 822
+    },
+    {
+      "id": "hfwGU3VMR14",
+      "title": "Round Robin with arrival time | Preemptive | operating system | Bangla Tutorial",
+      "duration": 933
+    },
+    {
+      "id": "imIeHP5rHUE",
+      "title": "Round Robin without arrival time | Preemptive | operating system | Bangla Tutorial",
+      "duration": 598
+    },
+    {
+      "id": "wKShN111ybE",
+      "title": "Preemptive priority scheduling algorithm | operating system | Bangla Tutorial",
+      "duration": 746
+    },
+    {
+      "id": "_Fif6EBxTwE",
+      "title": "Multilevel Queues | Multilevel Feedback Queues | operating system | Bangla Tutorial",
+      "duration": 528
+    },
+    {
+      "id": "wUvDBpp3_rA",
+      "title": "Process Synchronization | Race Condition | operating system | Bangla Tutorial",
+      "duration": 621
+    },
+    {
+      "id": "PnDeJvJKt_Q",
+      "title": "Critical Section Problem | operating system | Bangla Tutorial",
+      "duration": 403
+    },
+    {
+      "id": "WEJxrebIqjM",
+      "title": "Semaphore | Process Synchronization | Operating system | Bangla Tutorial",
+      "duration": 532
+    },
+    {
+      "id": "F966B8_9ws8",
+      "title": "Producer Consumer Problem | Process Synchronization | operating system | Bangla Tutorial",
+      "duration": 516
+    },
+    {
+      "id": "cIdz7cJDHDs",
+      "title": "Producer Consumer Problem Using Semaphore | Operating System | Bangla Tutorial",
+      "duration": 857
+    },
+    {
+      "id": "0DsdhkYQPdU",
+      "title": "Reader Writer Problem Using Semaphore|Process Synchronization|operating system|Bangla Tutorial",
+      "duration": 966
+    },
+    {
+      "id": "9ktkKTYZyl0",
+      "title": "Dining Philosopher Problem Using Semaphore| Process Synchronization|Operating System|Bangla Tutorial",
+      "duration": 1214
+    },
+    {
+      "id": "0OnxLL1zfLs",
+      "title": "Deadlock | Operating System | Bangla Tutorial",
+      "duration": 405
+    },
+    {
+      "id": "xgkUd9rWx5U",
+      "title": "Deadlock | Necessary Conditions for Deadlock | Operating System | Bangla Tutorial",
+      "duration": 303
+    },
+    {
+      "id": "XHf9Zo12gGs",
+      "title": "Resource Allocation Graph | Deadlock | Operating System | Bangla Tutorial",
+      "duration": 624
+    },
+    {
+      "id": "r3QDA3v7_iA",
+      "title": "Deadlock Handling Methods | Operating System | Bangla Tutorial",
+      "duration": 355
+    },
+    {
+      "id": "e3B-fJIDmD8",
+      "title": "Deadlock Prevention | Operating System | Bangla Tutorial",
+      "duration": 591
+    },
+    {
+      "id": "irGYBUgAlZw",
+      "title": "Safe and Unsafe State | Deadlock Avoidance | Deadlock | Operating System | Bangla Tutorial",
+      "duration": 737
+    },
+    {
+      "id": "0KA-0AwX1bc",
+      "title": "Resource Allocation Graph | Deadlock Avoidance | Deadlock | Operating System | Bangla Tutorial",
+      "duration": 353
+    },
+    {
+      "id": "cMaxXISWWHo",
+      "title": "Banker's Algorithm | Deadlock Avoidance | Deadlock | Operating System | Bangla Tutorial",
+      "duration": 798
+    },
+    {
+      "id": "A4bEMnzJlv4",
+      "title": "Deadlock Detection | Deadlock Detection & Recovery | Operating System | Bangla Tutorial",
+      "duration": 889
+    },
+    {
+      "id": "kFrvHwimvXc",
+      "title": "Deadlock Recovery | Deadlock Detection & Recovery | Operating System | Bangla Tutorial",
+      "duration": 237
+    },
+    {
+      "id": "yrgkHVxKvP4",
+      "title": "Memory management in operating system |Operating System | Bangla Tutorial",
+      "duration": 362
+    },
+    {
+      "id": "wWWt3dWyCYs",
+      "title": "Functions and goals of memory management | Operating System | Bangla Tutorial",
+      "duration": 263
+    },
+    {
+      "id": "DTERbo5odtk",
+      "title": "Swapping | Memory Management | Operating System | Bangla Tutorial",
+      "duration": 355
+    },
+    {
+      "id": "eHzUtmPGfJw",
+      "title": "Contiguous and Non Contiguous | Memory Allocation|Operating System|Bangla Tutorial",
+      "duration": 286
+    },
+    {
+      "id": "4bi7ZnPzz8o",
+      "title": "Fixed Size Partition | Contiguous Memory Allocation | Operating System | Bangla Tutorial",
+      "duration": 489
+    },
+    {
+      "id": "opm6mqRmvwk",
+      "title": "Internal & External Fragmentation| Operating System | Bangla Tutorial",
+      "duration": 321
+    },
+    {
+      "id": "tveiTWKP0ns",
+      "title": "First Fit,Next Fit,Best Fit,Worst Fit|Memory Allocation Algorithm |Operating System|Bangla Tutorial",
+      "duration": 910
+    },
+    {
+      "id": "ZYPh4-7cItk",
+      "title": "Variable Size Partition | Contiguous Memory Allocation |Operating System| Bangla Tutorial",
+      "duration": 497
+    },
+    {
+      "id": "XmjG7E_x6pM",
+      "title": "First Fit, Next Fit, Best Fit, Worst Fit | Variable Size Partition|Operating System|Bangla Tutorial",
+      "duration": 863
+    },
+    {
+      "id": "kKHj5EMNcAU",
+      "title": "Logical Address to Physical Address |Contiguous Memory Allocation |Operating System|Bangla Tutorial",
+      "duration": 678
+    },
+    {
+      "id": "Puq4ypH7q2o",
+      "title": "Paging| Non Contiguous Memory Allocation |Operating System |Bangla Tutorial",
+      "duration": 876
+    },
+    {
+      "id": "ZqEqM_UJlS8",
+      "title": "Paging Architecture | Operating System | Bangla Tutorial",
+      "duration": 728
+    },
+    {
+      "id": "l5STN1qmrwE",
+      "title": "Logical Address to Physical Address | Paging | Non Contiguous Memory Allocation  | Operating System",
+      "duration": 573
+    },
+    {
+      "id": "JYWfG_JjN6c",
+      "title": "Logical Address to Logical Address Space Conversion | Paging | Operating System | Bangla Tutorial",
+      "duration": 516
+    },
+    {
+      "id": "8wQUIHZty4M",
+      "title": "Physical Address to Physical Address Space Conversion | Paging | Operating System | Bangla Tutorial",
+      "duration": 507
+    },
+    {
+      "id": "CAB_PTPYgEw",
+      "title": "Calculate no of Page & no of Frame | Part-1| Paging | Operating System | Bangla Tutorial",
+      "duration": 802
+    },
+    {
+      "id": "PToGts3olYI",
+      "title": "Calculate no of Page & no of Frame | Part-2| Paging | Operating System | Bangla Tutorial",
+      "duration": 383
+    },
+    {
+      "id": "aCX5Bv3O6mk",
+      "title": "Calculate Size of the Page Table | Paging | Operating System | Bangla Tutorial",
+      "duration": 687
+    },
+    {
+      "id": "Bj7jSo8SLts",
+      "title": "Page Table Entries | Paging |Operating System | Bangla Tutorial",
+      "duration": 291
+    },
+    {
+      "id": "-QiSIOvtlsY",
+      "title": "Translation Lookaside Buffer (TLB)| Paging |Operating System|Bangla Tutorial",
+      "duration": 741
+    },
+    {
+      "id": "Tg814SgbfY4",
+      "title": "Translation Lookaside Buffer (TLB)| Math Solution | Paging |Operating System| Bangla Tutorial",
+      "duration": 621
+    },
+    {
+      "id": "ocphN-QjFG8",
+      "title": "Translation Lookaside Buffer TLB with Page Fault | Paging |Operating System | Bangla Tutorial",
+      "duration": 727
+    },
+    {
+      "id": "bR4vghiFzSs",
+      "title": "Multilevel Paging | Operating System |Bangla Tutorial",
+      "duration": 1329
+    },
+    {
+      "id": "HRQY729Gtow",
+      "title": "Inverted Paging | Paging vs Inverted Paging | Operating System | Bangla Tutorial",
+      "duration": 394
+    },
+    {
+      "id": "vcWa5DekIas",
+      "title": "Calculate size of the Page Table for Inverted Paging | Operating System | Bangla Tutorial",
+      "duration": 331
+    },
+    {
+      "id": "AjunUkCa5cU",
+      "title": "Difference between Paging and Segmentation | Operating System | Bangla Tutorial",
+      "duration": 382
+    },
+    {
+      "id": "qHPL_J714Tw",
+      "title": "Segmentation | Operating System | Bangla Tutorial",
+      "duration": 293
+    },
+    {
+      "id": "Gxm3lVuW5HA",
+      "title": "Segmentation | Hardware Architecture | Operating System | Bangla Tutorial",
+      "duration": 492
+    },
+    {
+      "id": "-fSssbUL2pE",
+      "title": "Logical Address to Physical Address | Segmentation | Operating System | Bangla Tutorial",
+      "duration": 330
+    },
+    {
+      "id": "hGbhKT6OKRo",
+      "title": "Disadvantages of Segmentation | Segmentation | Operating System | Bangla Tutorial",
+      "duration": 365
+    },
+    {
+      "id": "nKsKgQ1MmOo",
+      "title": "Paging with Segmentation | Operating System | Bangla Tutorial",
+      "duration": 393
+    },
+    {
+      "id": "apgLCvWdSHA",
+      "title": "Paging with segmentation | Hardware Architecture | Operating System | Bangla Tutorial",
+      "duration": 885
+    },
+    {
+      "id": "scuICzAj42Q",
+      "title": "Virtual Memory | Operating System | Bangla Tutorial",
+      "duration": 393
+    },
+    {
+      "id": "ttXdvNPaG3s",
+      "title": "Demand Paging | Page Fault | Operating System | Bangla Tutorial",
+      "duration": 470
+    },
+    {
+      "id": "PU_rEvBIOk4",
+      "title": "FIFO | Page Replacement Algorithm | Operating System | Bangla Tutorial",
+      "duration": 910
+    },
+    {
+      "id": "bieIKyCqE3Q",
+      "title": "Belady's Anomaly | FIFO Page Replacement Algorithm | Operating System | Bangla Tutorial",
+      "duration": 619
+    },
+    {
+      "id": "qM2TRp486oI",
+      "title": "Optimal Page Replacement Algorithm | Operating System | Bangla Tutorial",
+      "duration": 388
+    },
+    {
+      "id": "IDXHgjlYKn8",
+      "title": "LRU Page Replacement Algorithm | Operating System | Bangla Tutorial",
+      "duration": 400
+    },
+    {
+      "id": "pusmUKqqfrk",
+      "title": "Second Chance / Clock Page Replacement Algorithm | Operating System | Bangla Tutorial",
+      "duration": 1023
+    },
+    {
+      "id": "19M3-GVOi_g",
+      "title": "Thrashing | Operating System | Bangla Tutorial",
+      "duration": 648
+    },
+    {
+      "id": "V9_5IudOtP0",
+      "title": "Disk Architecture | Operating System | Bangla Tutorial",
+      "duration": 659
+    },
+    {
+      "id": "P0RFNvEWjXI",
+      "title": "Disk Access Time | Operating System | Bangla Tutorial",
+      "duration": 845
+    },
+    {
+      "id": "YDhwYvIuYjU",
+      "title": "Disk Scheduling Algorithms | Operating System | Bangla Tutorial",
+      "duration": 428
+    },
+    {
+      "id": "B4SM3EOGl4I",
+      "title": "FCFS | First Come First Serve | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 619
+    },
+    {
+      "id": "mop1XXxasL8",
+      "title": "SSTF | Shortest Seek Time First | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 625
+    },
+    {
+      "id": "FkE5a0N4wwM",
+      "title": "SCAN | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 478
+    },
+    {
+      "id": "CPGBx2Q9ZuY",
+      "title": "Look | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 431
+    },
+    {
+      "id": "hpJYBdZ2k28",
+      "title": "C-SCAN | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 315
+    },
+    {
+      "id": "tGSooEAbelg",
+      "title": "C-LOOK | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 272
+    },
+    {
+      "id": "vU6nFaLaJec",
+      "title": "Important Notes | Disk Scheduling Algorithm | Operating System | Bangla Tutorial",
+      "duration": 229
+    }
+  ]
+}

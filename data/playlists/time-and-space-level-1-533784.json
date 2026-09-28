@@ -1,0 +1,85 @@
+{
+  "courseId": "time-and-space-level-1-533784",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:40.608Z",
+  "title": "Time and Space - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "Jv-eGC2xmtU",
+      "title": "Bubble Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 630
+    },
+    {
+      "id": "EU9FIt1t-Is",
+      "title": "Selection Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 941
+    },
+    {
+      "id": "MMt2x6an_i8",
+      "title": "Insertion Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 799
+    },
+    {
+      "id": "WMxNhIBA92I",
+      "title": "Merge Two Sorted Arrays | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 347
+    },
+    {
+      "id": "aiUHB-3EOg8",
+      "title": "Merge sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 374
+    },
+    {
+      "id": "if40LxQ8_Xo",
+      "title": "Partioning an Array | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 1362
+    },
+    {
+      "id": "kdO5Q0nmPjU",
+      "title": "Quick Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 712
+    },
+    {
+      "id": "fnbImb8lo88",
+      "title": "Quick Select | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 498
+    },
+    {
+      "id": "p-OyKUgIrx4",
+      "title": "Count Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 2202
+    },
+    {
+      "id": "a5e7RgCdel0",
+      "title": "Radix Sort | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 777
+    },
+    {
+      "id": "YdzCuP6LwVg",
+      "title": "Sort Dates | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 1159
+    },
+    {
+      "id": "jFrUwjx4eoA",
+      "title": "Sort 01 | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 462
+    },
+    {
+      "id": "MbV26HWqxrs",
+      "title": "Sort 012 | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 1177
+    },
+    {
+      "id": "4t9jv9AkVdE",
+      "title": "Target Sum Pair | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 540
+    },
+    {
+      "id": "vF7gk4iaklA",
+      "title": "Pivot of Sorted Rotated Array | Time and Space | Data Structure and Algorithms in JAVA",
+      "duration": 719
+    }
+  ]
+}

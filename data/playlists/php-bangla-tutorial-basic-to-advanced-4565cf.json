@@ -1,0 +1,215 @@
+{
+  "courseId": "php-bangla-tutorial-basic-to-advanced-4565cf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:34.642Z",
+  "title": "PHP Bangla Tutorial - Basic to Advanced",
+  "channel": "JS Bangladesh",
+  "videos": [
+    {
+      "id": "Fre99th2ao4",
+      "title": "1.1 Introduction to PHP | PHP The !DYING Language",
+      "duration": 572
+    },
+    {
+      "id": "bnkBGZXa7RU",
+      "title": "1.2 History of PHP | PHP The !DYING Language",
+      "duration": 483
+    },
+    {
+      "id": "8vzM5BTSZRo",
+      "title": "1.3 PHP Present and Future | PHP The !DYING Language",
+      "duration": 368
+    },
+    {
+      "id": "K_lH8lBuvB0",
+      "title": "1.4 PHP Opportunities | PHP The !DYING Language",
+      "duration": 195
+    },
+    {
+      "id": "Lv4nCIfrSkw",
+      "title": "1.5 Drawbacks of PHP | PHP The !DYING Language",
+      "duration": 274
+    },
+    {
+      "id": "09Z_fJXEgmg",
+      "title": "2.1 Install PHP on Local Machine | PHP The !DYING Language",
+      "duration": 258
+    },
+    {
+      "id": "p5iWZDk-jrg",
+      "title": "2.2 Choosing Code Editor for PHP | PHP The !DYING Language",
+      "duration": 215
+    },
+    {
+      "id": "73JXaw0toaQ",
+      "title": "2.3 Customize Working Environment | PHP The !DYING Language",
+      "duration": 362
+    },
+    {
+      "id": "dtUJ5tW8Eck",
+      "title": "3.1 Hello World in PHP | PHP The !DYING Language",
+      "duration": 117
+    },
+    {
+      "id": "W8GrcMZ1Xbk",
+      "title": "3.2 Basic Calculation | PHP The !DYING Language",
+      "duration": 206
+    },
+    {
+      "id": "NxHKuD5GMug",
+      "title": "3.3 Print vs Echo | PHP The !DYING Language",
+      "duration": 506
+    },
+    {
+      "id": "cH4pQz-PYoo",
+      "title": "3.4 PHP Comments | PHP The !Dying Language",
+      "duration": 264
+    },
+    {
+      "id": "D-zMcIQNolc",
+      "title": "4.1 What is Variable in General | PHP The !DYING Language",
+      "duration": 444
+    },
+    {
+      "id": "pGlZwcZ1aNI",
+      "title": "4.2 Variables in PHP | PHP The !DYING Language",
+      "duration": 718
+    },
+    {
+      "id": "JT2Bu3pg5GY",
+      "title": "4.3 Constants in PHP | PHP The !DYING Language",
+      "duration": 578
+    },
+    {
+      "id": "g7W_kWjZLHM",
+      "title": "4.4 Understanding Data Types | PHP The !DYING Language",
+      "duration": 184
+    },
+    {
+      "id": "O7nKB-by7eM",
+      "title": "4.5 Data Types in PHP | PHP The !DYING Language",
+      "duration": 128
+    },
+    {
+      "id": "qgrTnBYZKq4",
+      "title": "4.6 Common Primitive Data Types | PHP The !DYING Language",
+      "duration": 879
+    },
+    {
+      "id": "XIBXkGcsOOQ",
+      "title": "4.7 Magic Constants in PHP | PHP The !DYING Language",
+      "duration": 480
+    },
+    {
+      "id": "75mG1lqS3xo",
+      "title": "5.1 What is Operator | PHP The !DYING Language",
+      "duration": 300
+    },
+    {
+      "id": "5bKc_CxrwTo",
+      "title": "5.2 Type of Operators in PHP | PHP The !DYING Language",
+      "duration": 316
+    },
+    {
+      "id": "Hza9bSVI33Y",
+      "title": "5.3 Arithmetic & Assignment Operator | PHP The !DYING Language",
+      "duration": 896
+    },
+    {
+      "id": "7uZAZKMkaQw",
+      "title": "5.4 Relational or Comparison Operator | PHP The !DYING Language",
+      "duration": 849
+    },
+    {
+      "id": "EzmMK0iIf1w",
+      "title": "5.5 Logical Operators | PHP The !DYING Language",
+      "duration": 782
+    },
+    {
+      "id": "gL7VqHnmW2I",
+      "title": "5.6 Increment Decrement Operators | PHP The !DYING Language",
+      "duration": 374
+    },
+    {
+      "id": "ZLCHnQSlDMU",
+      "title": "5.7 Get Type | PHP The !DYING Language",
+      "duration": 101
+    },
+    {
+      "id": "TDI-6JzIcZk",
+      "title": "5.8 Execution Operator | PHP The !DYING Language",
+      "duration": 107
+    },
+    {
+      "id": "hsvCBQjQWd0",
+      "title": "6.1 Understanding Control Structures | PHP The !DYING Language",
+      "duration": 422
+    },
+    {
+      "id": "fQn_EBw5g40",
+      "title": "6.2 If Statements | PHP The !DYING Language",
+      "duration": 380
+    },
+    {
+      "id": "s1hZ1KlfRWg",
+      "title": "6.3 Else Statements | PHP The !DYING Language",
+      "duration": 238
+    },
+    {
+      "id": "cYlJpAhGedE",
+      "title": "6.4 Elseif Statements | PHP The !DYING Language",
+      "duration": 435
+    },
+    {
+      "id": "_5yyDv8tmXU",
+      "title": "6.5 Nested Conditions | PHP The !DYING Language",
+      "duration": 789
+    },
+    {
+      "id": "e2m7ex5B2Ls",
+      "title": "6.6 Alternative Syntax for Conditions | PHP The !DYING Language",
+      "duration": 634
+    },
+    {
+      "id": "Qzilrd58vKQ",
+      "title": "6.7 Understanding Loop | PHP The !DYING Language",
+      "duration": 593
+    },
+    {
+      "id": "_KgAL6Ied44",
+      "title": "6.8 While Loop | PHP The !DYING Language",
+      "duration": 375
+    },
+    {
+      "id": "iiIhs0nIxqk",
+      "title": "6.9 Do While Loop | PHP The !DYING Language",
+      "duration": 254
+    },
+    {
+      "id": "1tzK1_VEm7w",
+      "title": "6.10 For Loop | PHP The !DYING Language",
+      "duration": 289
+    },
+    {
+      "id": "OJltxgpNy7I",
+      "title": "6.11 For Each Loop | PHP The !DYING Language",
+      "duration": 445
+    },
+    {
+      "id": "R-oZLPvAFUU",
+      "title": "6.12 Nested Loops | PHP The !DYING Language",
+      "duration": 280
+    },
+    {
+      "id": "DQxDOz3gHqs",
+      "title": "6.13 Break and Continue in PHP | PHP The !DYING Language",
+      "duration": 396
+    },
+    {
+      "id": "aLO5KdurfiU",
+      "title": "6.14 Switch Statements | PHP The !DYING Language",
+      "duration": 348
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "binary-trees-by-lovebabbar-9cd243",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:42.497Z",
+  "title": "Binary Trees - by Love Babbar",
+  "channel": "CodeHelp - by Babbar",
+  "videos": [
+    {
+      "id": "5NiXlPrLslg",
+      "title": "Lecture 62: Binary Trees & its Representation || Different types of Traversals",
+      "duration": 3306
+    },
+    {
+      "id": "nHMQ33LZ6oA",
+      "title": "Lecture 63: Binary Tree FAANG Interview Questions || Part-1",
+      "duration": 3665
+    },
+    {
+      "id": "s1d8UGDCCN8",
+      "title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+      "duration": 4291
+    },
+    {
+      "id": "QG0hE0R_ng4",
+      "title": "Lecture 65: Binary Tree FAANG Interview Questions || Part-3",
+      "duration": 3555
+    },
+    {
+      "id": "ffE1xj51EBQ",
+      "title": "Lecture 66: Construct a Binary Tree from InOrder/PreOrder/PostOrder Traversal",
+      "duration": 2195
+    },
+    {
+      "id": "XLdpy0_6MR4",
+      "title": "Lecture 67: Minimum Time to BURN the Entire Binary Tree || C++ Placement Series",
+      "duration": 1708
+    },
+    {
+      "id": "2BdY9fixMrM",
+      "title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+      "duration": 1914
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "courseId": "microservices-in-bangla-what-are-the-building-blocks-of-a-go-7d32dd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:00.039Z",
+  "title": "বাংলায় মাইক্রোসার্ভিস / Microservices in Bangla - What are the building blocks of a good Microservices System",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "4SBvcoe7-b0",
+      "title": "Microservices in Bangla - Microservices Architecture 01: Introduction",
+      "duration": 333
+    },
+    {
+      "id": "FedPd-gM_Hw",
+      "title": "বাংলায় মাইক্রোসার্ভিস Microservices Architecture 02 : What is it",
+      "duration": 585
+    },
+    {
+      "id": "AeuxzPKlztE",
+      "title": "বাংলায় মাইক্রোসার্ভিস - Microservices Architecture in Bangla 03 : Characteristics of microservices",
+      "duration": 417
+    },
+    {
+      "id": "NQPB8KUKC-0",
+      "title": "Microservices Architecture in Bangla 04: Why we need microservices now",
+      "duration": 478
+    },
+    {
+      "id": "N5g1iZT4H5o",
+      "title": "Microservices Architecture in Bangla 05: Design a single service properly",
+      "duration": 382
+    },
+    {
+      "id": "_NIDPzNV5r8",
+      "title": "Microservices Architecture in Bangla 06: Building blocks of Microservices",
+      "duration": 345
+    },
+    {
+      "id": "VH42mDxxpt0",
+      "title": "Microservices in Bangla - Microservices Architecture in Bangla 07: Service to service communication",
+      "duration": 407
+    },
+    {
+      "id": "zvz-_yeuwJE",
+      "title": "বাংলায় মাইক্রোসার্ভিস - Microservices Architecture in Bangla 08 : Client to service communication",
+      "duration": 233
+    },
+    {
+      "id": "8JKpDErAtDw",
+      "title": "Microservices Architecture in Bangla 09: Service discovery among containers",
+      "duration": 302
+    },
+    {
+      "id": "sU6S5gcmlYA",
+      "title": "বাংলায় মাইক্রোসার্ভিস - Microservices Architecture in Bangla 10 : Service security",
+      "duration": 236
+    },
+    {
+      "id": "kx3zZTNjJV8",
+      "title": "বাংলায় মাইক্রোসার্ভিস - Microservices Architecture in Bangla 11 : Service monitoring & health check",
+      "duration": 261
+    },
+    {
+      "id": "JxNe0gKJqS4",
+      "title": "Microservices Architecture in Bangla 12: Containerization & Orchestration",
+      "duration": 580
+    },
+    {
+      "id": "ETL7po5x6qA",
+      "title": "বাংলায় মাইক্রোসার্ভিস - Microservices Architecture in Bangla 13 : What should we do next? Build one",
+      "duration": 232
+    },
+    {
+      "id": "JMP675Hks8Q",
+      "title": "(Bangla) Implement a basic polyglot microservice : 01 Introduction",
+      "duration": 382
+    },
+    {
+      "id": "yxkqJ6LK-2M",
+      "title": "(Bangla) Implement a basic polyglot microservice : 02 high level domain isolation",
+      "duration": 417
+    },
+    {
+      "id": "YUBPRbwewqc",
+      "title": "(Bangla) Implement a basic polyglot microservice : 03 use case and basic service",
+      "duration": 322
+    },
+    {
+      "id": "GKLx2jZx5uQ",
+      "title": "(Bangla) Implement a basic polyglot microservice : 04 service to service communication in detail",
+      "duration": 701
+    },
+    {
+      "id": "SR1J32cLTmk",
+      "title": "(Bangla) Implement a basic polyglot microservice : 05 service technical stack",
+      "duration": 509
+    },
+    {
+      "id": "TXP1JWHAfpU",
+      "title": "(Bangla) Implement a basic polyglot microservice : 06 common services",
+      "duration": 506
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "courseId": "linux-shell-scripting-tutorial-968ae2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:54.528Z",
+  "title": "Linux Shell Scripting Tutorials (Bangla)",
+  "channel": "Atiq Hasan Zubu",
+  "videos": [
+    {
+      "id": "pqAG75b46qY",
+      "title": "Linux Shell Scripting Tutorial Part 0 Introduction",
+      "duration": 190
+    },
+    {
+      "id": "ML24Fk_i0fE",
+      "title": "Linux Shell Scripting Tutorial part-1 || System Date, Calendar",
+      "duration": 456
+    },
+    {
+      "id": "StAeIKLBUxg",
+      "title": "Linux Shell Scripting Tutorial part 2 Create Files & Directories",
+      "duration": 456
+    },
+    {
+      "id": "6iR124cvlbA",
+      "title": "Linux Shell Scripting Tutorial Part 3 Rename & Delete Files & Directories",
+      "duration": 288
+    },
+    {
+      "id": "aJox8YGzG2U",
+      "title": "Linux Shell Scripting Tutorial Part 4 Text Files Create, Merge & View",
+      "duration": 165
+    },
+    {
+      "id": "ad9pV2WMUnU",
+      "title": "Linux Shell Scripting Tutorial Part 5 Create Copies, Links to Files & Directories",
+      "duration": 217
+    },
+    {
+      "id": "WxjdcmrzScM",
+      "title": "Linux Shell Scripting Tutorial Part 6 Count Lines, Words & Characters Using wc",
+      "duration": 339
+    },
+    {
+      "id": "k6x9-g8GQrw",
+      "title": "Linux Shell Scripting Tutorial Part 7  Sort",
+      "duration": 290
+    },
+    {
+      "id": "sDozvehWCps",
+      "title": "Linux Shell Scripting Tutorial Part 8  Cut Through Your Files",
+      "duration": 258
+    },
+    {
+      "id": "gxu7KEDOcZ8",
+      "title": "Shell Scripting Tutorial Part 9  Search Patterns Using  grep",
+      "duration": 362
+    },
+    {
+      "id": "lD5gnTumHDk",
+      "title": "Shell Scripting Tutorial Part 10 View Fancy Text & Reduce File Size",
+      "duration": 333
+    },
+    {
+      "id": "Ok5BZW0Dqik",
+      "title": "Shell Scripting Tutorial Part 11 Create gzip, Zip, tar and  tgz file mp4",
+      "duration": 387
+    },
+    {
+      "id": "96OOTJ7MMKw",
+      "title": "Linux Shell Scripting Tutorial Part 12 Adding & Removing UsersBengali",
+      "duration": 416
+    },
+    {
+      "id": "AZ2wdpcMvnc",
+      "title": "Linux Shell Scripting Tutorial Part 13 Communicate with other users using write command",
+      "duration": 268
+    },
+    {
+      "id": "r19ji6IRf-0",
+      "title": "Linux Shell Scripting and Command Tutorial Hello World Part 14",
+      "duration": 226
+    },
+    {
+      "id": "n3hT8C9MQIg",
+      "title": "Linux Shell Scripting and Shell Command Tutorial User Input Using read  Part 15",
+      "duration": 444
+    },
+    {
+      "id": "U6NWNeLDCTc",
+      "title": "Linux Shell Scripting and Shell Command Tutorial Arithmetic Operations Part 16",
+      "duration": 357
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "courseId": "mysql-database-bangla-tutorials-hsc-student-anyone-5a2a80",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:22.623Z",
+  "title": "MySQL Database Bangla Tutorials Updated for 2023",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "1IQbPxFkoiQ",
+      "title": "Bangla Database Tutorial 1 : কোর্স পরিচিতি | Introduction to course",
+      "duration": 262
+    },
+    {
+      "id": "8fKPGcdw7_c",
+      "title": "Bangla Database Tutorial 2 : Introduction to Database",
+      "duration": 596
+    },
+    {
+      "id": "Yc8EtDyeCN0",
+      "title": "Bangla Database Tutorial 3 :  ডেটাবেজের প্রকারভেদ । Types of Database",
+      "duration": 367
+    },
+    {
+      "id": "G2mjGWXMhpk",
+      "title": "Bangla Database Tutorial 4 :  চাবি |  Types of Key",
+      "duration": 525
+    },
+    {
+      "id": "YhxtRfWPSA4",
+      "title": "Bangla Database Tutorial 5 : Database Management System",
+      "duration": 384
+    },
+    {
+      "id": "Z7nFM-Ed5ok",
+      "title": "Bangla Database Tutorial 6 : Relational Database Management System",
+      "duration": 189
+    },
+    {
+      "id": "9KD2LFrbn4k",
+      "title": "Bangla Database Tutorial 7 : Database Relation । ডাটাবেজ রিলেশন এর প্রকারভেদ",
+      "duration": 381
+    },
+    {
+      "id": "Lbi_Ov3MPHY",
+      "title": "Bangla Database Tutorial 8 : Sorting and Indexing | সর্টিং ও ইন্ডেক্সিং",
+      "duration": 436
+    },
+    {
+      "id": "0kSwY48KYPQ",
+      "title": "Bangla Database Tutorial 9 : Database Security | ডেটাবেজ সিকিউরিটি",
+      "duration": 427
+    },
+    {
+      "id": "ULXupjN_B2Q",
+      "title": "Bangla Database Tutorial 10 : Query Languages | SQL",
+      "duration": 360
+    },
+    {
+      "id": "yVlJU8e6Hu8",
+      "title": "Bangla Database Tutorial 11 : Structured Query Language | SQL",
+      "duration": 369
+    },
+    {
+      "id": "BU9npjYGuPo",
+      "title": "Bangla Database Tutorial 12 : How to Download And Install XAMPP",
+      "duration": 251
+    },
+    {
+      "id": "V4gmEW445X4",
+      "title": "Bangla Database Tutorial 13 : SHOW, CREATE AND DROP DATABASE",
+      "duration": 386
+    },
+    {
+      "id": "l20gpdb4kXs",
+      "title": "Bangla Database Tutorial 14 : Data Type",
+      "duration": 280
+    },
+    {
+      "id": "lIv9qSd0xcE",
+      "title": "Bangla Database Tutorial 15 : CREATE,RENAME and DROP a table",
+      "duration": 613
+    },
+    {
+      "id": "g-z_Ekg_1lA",
+      "title": "Bangla Database Tutorial 16 : Inserting records into table (part-1)",
+      "duration": 676
+    },
+    {
+      "id": "TwZIlkrCL3E",
+      "title": "Bangla Database Tutorial 17 : Inserting records into table (part-2)",
+      "duration": 273
+    },
+    {
+      "id": "RLiExVgqa8A",
+      "title": "Bangla Database Tutorial 18 : SELECT Statement",
+      "duration": 430
+    },
+    {
+      "id": "poCkqbr1XTw",
+      "title": "Bangla Database Tutorial 19 : DISTINCT, LIMIT Keyword",
+      "duration": 305
+    },
+    {
+      "id": "2nypoGWWKlw",
+      "title": "Bangla Database Tutorial 20 : Sorting records with ORDER BY clause",
+      "duration": 365
+    },
+    {
+      "id": "vfONlsW6kZA",
+      "title": "Bangla Database Tutorial 21 : Arithmetic Operator in SQL",
+      "duration": 140
+    },
+    {
+      "id": "najz4ZhoNgU",
+      "title": "Bangla Database Tutorial 22 :  WHERE | find records conditionally",
+      "duration": 384
+    },
+    {
+      "id": "epyDdoof-fA",
+      "title": "Bangla Database Tutorial 23 : Relational Operator",
+      "duration": 171
+    },
+    {
+      "id": "eZfFBWg8-GA",
+      "title": "Bangla Database Tutorial 24 :  AND, OR  | Logical Operator in SQL",
+      "duration": 431
+    },
+    {
+      "id": "J_C_pCHA3fs",
+      "title": "Bangla Database Tutorial 25 : IN, NOT IN  | Logical Operator",
+      "duration": 295
+    },
+    {
+      "id": "fjwWRtXnDTw",
+      "title": "Bangla Database Tutorial 26 : LIKE | Logical Operator",
+      "duration": 312
+    },
+    {
+      "id": "8l6WDgJ1uBo",
+      "title": "Bangla Database Tutorial 27 : AS Keyword for custom name",
+      "duration": 103
+    },
+    {
+      "id": "kG82hzDp7-k",
+      "title": "Bangla Database Tutorial 28 : Constraint, AUTO_INCREMENT SQL commands",
+      "duration": 721
+    },
+    {
+      "id": "m0m0O6srC1A",
+      "title": "Bangla Database Tutorial 29 : UPDATE Statement",
+      "duration": 417
+    },
+    {
+      "id": "9TOnTp5hCTo",
+      "title": "Bangla Database Tutorial 30 : DELETE Statement in SQL",
+      "duration": 290
+    },
+    {
+      "id": "95wBGq9PJZQ",
+      "title": "Bangla Database Tutorial 31 : UPPER and LOWER Function",
+      "duration": 237
+    },
+    {
+      "id": "hn6P4tBRaIE",
+      "title": "Bangla Database Tutorial 32 : Functions",
+      "duration": 573
+    },
+    {
+      "id": "dO2h-s8tv2g",
+      "title": "Bangla Database Tutorial 33 : Aggregate Functions in SQL",
+      "duration": 452
+    },
+    {
+      "id": "IywyMD4ocEY",
+      "title": "Bangla Database Tutorial 34 : Sub Query in SQL",
+      "duration": 340
+    },
+    {
+      "id": "Kf2orlr1NxA",
+      "title": "Bangla Database Tutorial 35 : ALTER statement in SQL.",
+      "duration": 488
+    },
+    {
+      "id": "ABkjCtajDJ8",
+      "title": "Bangla Database Tutorial 36 : UPDATE Statement (Review)",
+      "duration": 166
+    },
+    {
+      "id": "4fPs4RuPLa0",
+      "title": "Bangla Database Tutorial 37 : GROUP BY clause",
+      "duration": 322
+    },
+    {
+      "id": "Ya9ip7EC-dg",
+      "title": "Bangla Database Tutorial 38 : TRUNCATE TABLE Command in SQL",
+      "duration": 182
+    },
+    {
+      "id": "yLv1-Io935M",
+      "title": "Bangla Database Tutorial 39 : Joining Tables",
+      "duration": 730
+    },
+    {
+      "id": "b0_Uvd0kfAI",
+      "title": "Bangla Database Tutorial 40 : JOIN Clause in SQL",
+      "duration": 413
+    },
+    {
+      "id": "B3VPijBN3bs",
+      "title": "Bangla Database Tutorial 41 : INNER JOIN in SQL",
+      "duration": 391
+    },
+    {
+      "id": "c8WKouaeu_M",
+      "title": "Bangla Database Tutorial 42 : LEFT JOIN, RIGHT JOIN in SQL",
+      "duration": 250
+    },
+    {
+      "id": "xoh40fhWyFg",
+      "title": "Bangla Database Tutorial 43 : UNION, UNION ALL in SQL",
+      "duration": 312
+    },
+    {
+      "id": "zgEs_jzZJHM",
+      "title": "Bangla Database Tutorial 44 : VIEW in SQL (part-1)",
+      "duration": 354
+    },
+    {
+      "id": "_-fS4OLPXO8",
+      "title": "Bangla Database Tutorial 45 : VIEW in SQL (part-2)",
+      "duration": 278
+    },
+    {
+      "id": "Ph9CdxfFQyI",
+      "title": "Bangla Database Tutorial 46 : Date And Time in SQL (part-1)",
+      "duration": 245
+    },
+    {
+      "id": "JhjH59hYAt8",
+      "title": "Bangla Database Tutorial 47 : Date And Time in SQL (part-2)",
+      "duration": 398
+    }
+  ]
+}

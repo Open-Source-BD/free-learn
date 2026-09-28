@@ -1,0 +1,70 @@
+{
+  "courseId": "mastering-mongodb-41b386",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:03.938Z",
+  "title": "(Bangla) Mastering MongoDB",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "OyktS0ktXYw",
+      "title": "(Bangla) Mongodb 001 : Installation in ubuntu server",
+      "duration": 769
+    },
+    {
+      "id": "cukES-NxB6U",
+      "title": "(Bangla) Mongodb 002 : Connect to mongodb ubuntu server instance from host pc via MongoDB Compass",
+      "duration": 734
+    },
+    {
+      "id": "ujzg72LHa5M",
+      "title": "(Bangla) Mongodb 003 : SSH to remote ubuntu server and execute CRUD commands via mongosh terminal",
+      "duration": 1027
+    },
+    {
+      "id": "9ygDt5cjVxM",
+      "title": "(Bangla) Mongodb 004 : Insert / seed massive data in mongodb using node fastify and autocannon",
+      "duration": 1229
+    },
+    {
+      "id": "ED8ebO3NRDM",
+      "title": "(Bangla) Mongodb 005 : Setup ubuntu server and run code behind nginx then perform autocannon load",
+      "duration": 1298
+    },
+    {
+      "id": "Uu3y9zoyTgg",
+      "title": "(Bangla) Mongodb 006 : Filter, explain query, full text search, run $and operator and aggregate data",
+      "duration": 1579
+    },
+    {
+      "id": "uWIG9SUWzBQ",
+      "title": "[DEMO] Mongodb 007: Filtering sorting paging on 2+ millions of docs under 50ms from antd react table",
+      "duration": 308
+    },
+    {
+      "id": "s2mZJD6isgs",
+      "title": "(Bangla) Mongodb 008 : MongoDB blocks, source code, filter explain in mongosh and compass",
+      "duration": 1646
+    },
+    {
+      "id": "Ns6o-ILw-5g",
+      "title": "(Bangla) Mongodb 009 : mongodb filtering on string columns and analyze the explain result in compass",
+      "duration": 724
+    },
+    {
+      "id": "k1r4SwQQ1Y0",
+      "title": "(Bangla) Mongodb 010 : Execute query profiler and use 'fs' node module in mongosh to export data",
+      "duration": 1535
+    },
+    {
+      "id": "uOjVmBIpNkA",
+      "title": "(Bangla) MongoDB 011 : intro to aggregation and measure performance  in profiler in mongosh pt 1",
+      "duration": 962
+    },
+    {
+      "id": "X_dfUJisSZ4",
+      "title": "(Bangla) MongoDB 012 : intro to aggregation and measure performance in profiler in mongosh pt 2",
+      "duration": 980
+    }
+  ]
+}

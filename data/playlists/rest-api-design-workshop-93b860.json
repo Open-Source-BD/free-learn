@@ -1,0 +1,25 @@
+{
+  "courseId": "rest-api-design-workshop-93b860",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:11.007Z",
+  "title": "REST API Design Workshop",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "EbHf2aCuPVM",
+      "title": "Day 1: REST API From Concepts to Constraints | REST API Design Workshop | Stack Learner",
+      "duration": 9775
+    },
+    {
+      "id": "orn9N90dcVY",
+      "title": "Day 2: REST API Partial Responses, Error Handling, Caching, and Version Control | REST API Design",
+      "duration": 9294
+    },
+    {
+      "id": "c_VvDiFgwhk",
+      "title": "Day 3: OpenAPI Specification, REST API Security, and Management | REST API Design | Stack Learner",
+      "duration": 11580
+    }
+  ]
+}
