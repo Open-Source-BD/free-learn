@@ -1,0 +1,65 @@
+{
+  "courseId": "redux-toolkit-tutorial-in-hindi-eda1b7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:20.964Z",
+  "title": "Redux Toolkit Tutorial  in Hindi",
+  "channel": "Thapa Technical",
+  "videos": [
+    {
+      "id": "DXlnr7rDDR0",
+      "title": "Redux Toolkit Tutorial in Hindi #1:  A Game-Changer for Managing State in React with Redux Toolkit",
+      "duration": 882
+    },
+    {
+      "id": "2qlij2qkHZc",
+      "title": "Mastering Redux Toolkit in Hindi #2: Folder Structure, Prerequisites, and Homepage Design",
+      "duration": 833
+    },
+    {
+      "id": "jSuB8elMLJA",
+      "title": "Redux Toolkit #3: CreateSlice Method to Organize Your State",
+      "duration": 707
+    },
+    {
+      "id": "y_kxf-ia6FE",
+      "title": "Redux Toolkit #4: Create Store, Understanding the Flow & Redux Dev tools",
+      "duration": 650
+    },
+    {
+      "id": "PMqszsM7QJQ",
+      "title": "Redux Toolkit #5: let's Connect React with Redux Toolkit to Access Store Data🔥",
+      "duration": 271
+    },
+    {
+      "id": "0LePYfbkvXk",
+      "title": "Redux Toolkit #6: Access the state data with useDispatch & action creators ❤️‍🔥",
+      "duration": 1037
+    },
+    {
+      "id": "J7CWhxppDqM",
+      "title": "Redux Toolkit #7: Access and Display User Data using useSelector() & Action Creators 🔥",
+      "duration": 460
+    },
+    {
+      "id": "uKCo-LpVwY8",
+      "title": "Redux Toolkit #8: Deleting a Single User from State",
+      "duration": 639
+    },
+    {
+      "id": "RHfu9TV8U1Q",
+      "title": "Redux Toolkit #9: Delete All Users in One Click",
+      "duration": 614
+    },
+    {
+      "id": "jV2VjK2d0Ho",
+      "title": "Redux Toolkit #10: Delete All Users using ExtraReducers in Redux Toolkit",
+      "duration": 694
+    },
+    {
+      "id": "h6SgvxnizEE",
+      "title": "Redux Toolkit #11: Maximizing Code Reuse with Redux Toolkit's createAction Function",
+      "duration": 487
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "courseId": "spring-boot-tutorial-in-hindi-603ba3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:36.944Z",
+  "title": "Spring Boot Tutorial in Hindi",
+  "channel": "Learn Code With Durgesh",
+  "videos": [
+    {
+      "id": "729Pd-ZQ4uA",
+      "title": "Introduction to Spring Boot | What is Spring Boot | Spring Boot Tutorial in Hindi",
+      "duration": 1163
+    },
+    {
+      "id": "rVOmSrCSdGE",
+      "title": "How Spring Boot Auto Configuration Magic works | Spring boot Tutorial [HIndi]",
+      "duration": 762
+    },
+    {
+      "id": "GT3Doklq0RY",
+      "title": "How to start with spring boot project | Ways to create spring boot project in Hindi",
+      "duration": 533
+    },
+    {
+      "id": "xKuerkzUIF4",
+      "title": "Creating Spring Boot Project using spring initializr | Best way to create spring boot project",
+      "duration": 1240
+    },
+    {
+      "id": "6ve91bQgBp4",
+      "title": "Download and Install Spring Tool Suite [STS] | Create Spring Boot Project Step by Step",
+      "duration": 926
+    },
+    {
+      "id": "UR5fe2H-jIY",
+      "title": "Spring boot project in VS Code | How to use VS Code for Spring Boot Project | Spring Boot Tutorial",
+      "duration": 1198
+    },
+    {
+      "id": "nUzVr6VkO98",
+      "title": "Spring Boot on Eclipse | How to install Spring Tools Plugin [STS] in Eclipse | Spring Boot Tutorial",
+      "duration": 358
+    },
+    {
+      "id": "o4qT-OfOYBM",
+      "title": "JSP View in Spring Boot in 2 steps | Spring Boot Tutorial in Hindi",
+      "duration": 794
+    },
+    {
+      "id": "rGmIJ_o90oQ",
+      "title": "What is the use of application.properties file in Spring Boot] | Spring Boot Tutorial",
+      "duration": 653
+    },
+    {
+      "id": "agTUJ4aVJSQ",
+      "title": "JPA with Spring Boot Complete Explanation Video | Spring Boot Tutorial in Hindi",
+      "duration": 926
+    },
+    {
+      "id": "1uVACJuZ7CA",
+      "title": "jpa spring boot practical create project create entity create repository",
+      "duration": 827
+    },
+    {
+      "id": "SkftTBxUUG0",
+      "title": "Db configuration in application.properies file | JPA with Spring Boot | Spring boot tutorial",
+      "duration": 647
+    },
+    {
+      "id": "uQWYAA7hpVU",
+      "title": "CRUD Operation using JPA and Spring Boot | CREATE | READ | UPDATE | DELETE in one video [HINDI]",
+      "duration": 1496
+    },
+    {
+      "id": "QeRCW28jhFY",
+      "title": "Custom Finder methods | Derived Query methods in Spring data JPA in hindi",
+      "duration": 1330
+    },
+    {
+      "id": "6bxxsoCqll4",
+      "title": "Executing JPQL and Native  Queries with Spring Data JPA | @Query @Param Annotations | Spring boot",
+      "duration": 921
+    },
+    {
+      "id": "uFI1_u8vCrI",
+      "title": "Introduction to API/WEB SERVICES | What is REST API |  Understand REST API with Example |Spring Boot",
+      "duration": 1526
+    },
+    {
+      "id": "1xZfemw_9hk",
+      "title": "Magic of Spring Boot DevTools | Spring Boot Tutorial",
+      "duration": 1369
+    },
+    {
+      "id": "JnKOmazIGy0",
+      "title": "Creating REST API using Spring Boot  | Creating GET functionality | Full Project setup and Code",
+      "duration": 2570
+    },
+    {
+      "id": "Zc_erOduLx4",
+      "title": "@PostMapping | Creating Resource REST API | REST API using  Spring Boot | Spring Boot Tutorial",
+      "duration": 756
+    },
+    {
+      "id": "oBThdhW-mZo",
+      "title": "@DeleteMapping |  Deleting Resource REST API | REST API using Spring Boot | Spring Boot Tutorial",
+      "duration": 941
+    },
+    {
+      "id": "2IQsjvZoOkg",
+      "title": "@PutMapping | Updating the Resource creating api using spring boot | Spring boot tutorial",
+      "duration": 979
+    },
+    {
+      "id": "OQN99DCsbvo",
+      "title": "ResponseEntity | Handling HttpStatus while creating REST API using Spring Boot | Spring Boot[Hindi]",
+      "duration": 1378
+    },
+    {
+      "id": "D1dYsIyPTYM",
+      "title": "Connecting with Database using JPA | Spring Boot Rest API tutorial | Spring boot tutorial",
+      "duration": 1550
+    },
+    {
+      "id": "ogcSkMhZVJg",
+      "title": "Nesting Custom Type in spring Boot Rest Api | Using ONE TO ONE Mapping with Spring Boot Rest API",
+      "duration": 1621
+    },
+    {
+      "id": "Tvvt9coRlF4",
+      "title": "Jackson – Bidirectional Relationships |  @JsonManagedReference, @JsonBackReference | Spring Boot",
+      "duration": 827
+    },
+    {
+      "id": "Sntm1cNLIFk",
+      "title": "File Uploading in very simple steps | Spring boot REST API | Spring boot Tutorial [HINDI]",
+      "duration": 2360
+    },
+    {
+      "id": "36WoQ1anwM0",
+      "title": "Image Uploading to dynamic path | Serving image file | Spring boot tutorial in hindi",
+      "duration": 884
+    },
+    {
+      "id": "rqQ602S3cdc",
+      "title": "Complete Introduction to Thymeleaf Template Engine | Spring Boot Tutorial in HINDI",
+      "duration": 828
+    },
+    {
+      "id": "CjGZNyR-ME0",
+      "title": "Starting with Thymeleaf | Installing Thymeleaf Plugin | Emmet Plugin | All about Variables in Hindi",
+      "duration": 2465
+    },
+    {
+      "id": "zZrTUsgchpY",
+      "title": "Iteration in Thymeleaf | how to loop in thymeleaf | Spring boot Tutorial in HIndi",
+      "duration": 1290
+    },
+    {
+      "id": "pjvCiSFpuas",
+      "title": "Conditional Statement in Thymeleaf | Elvis | If Unless | Switch | Spring Boot Tutorial [Hindi]",
+      "duration": 1299
+    },
+    {
+      "id": "H4vWZhPlR70",
+      "title": "Including Thymeleaf Templates | Include | insert | replace | Spring boot tutorial in hindi",
+      "duration": 1166
+    },
+    {
+      "id": "BgzLz3nI3yI",
+      "title": "thymeleaf passing dynamic value to template while including | Spring boot Tutorial",
+      "duration": 683
+    },
+    {
+      "id": "yAl0dchn7NI",
+      "title": "Inheriting Thymeleaf Templare | This thing used in project | Spring boot Tutorial [Hindi]",
+      "duration": 1470
+    },
+    {
+      "id": "7VSW5Ijz9CQ",
+      "title": "Server Side Form Validation | Spring MVC | Spring Boot Tutorial",
+      "duration": 3109
+    },
+    {
+      "id": "UN2e4yHFx2c",
+      "title": "How to add CSS , Javascript and Image in Spring Boot Project Thymeleaf | Spring Boot Tutorial",
+      "duration": 976
+    },
+    {
+      "id": "2iBWcVYw6-c",
+      "title": "Project Overview | Smart Contact Manager  #1 | Spring Boot Tutorial",
+      "duration": 1034
+    },
+    {
+      "id": "9QnFvv1JZd4",
+      "title": "Project Setup | Adding Dependencies required  for Smart Contact Manager # 2 | Spring Boot Tutorial",
+      "duration": 1100
+    },
+    {
+      "id": "GiEh1JTD6G4",
+      "title": "Database Setup and Creating E-R Diagram Smart Contact Manager#3 | Spring Boot Tutorial",
+      "duration": 1779
+    },
+    {
+      "id": "z7jUVcaoQIs",
+      "title": "Creating Entities and Tables Smart Contact Manager #4 | Spring Boot Tutorial",
+      "duration": 1901
+    },
+    {
+      "id": "MGGV9PfKihI",
+      "title": "Setting up Bootstrap and Templates | Smart Contact Manager #5 | Spring Boot Tutorial",
+      "duration": 1276
+    },
+    {
+      "id": "Ts4hTWVJgy0",
+      "title": "Designing Home Page with Beautiful Banner | Smart Contact Manager #6 | Spring Boot Tutorial",
+      "duration": 1068
+    },
+    {
+      "id": "vjZrEZSVRGg",
+      "title": "Designing Classic Registration Form | Smart Contact Manager #7 | Spring Boot Tutorial",
+      "duration": 1375
+    },
+    {
+      "id": "0FgKdAdNoSU",
+      "title": "User Registration Process with Message | Smart Contact Manager #8 | Spring boot tutorial",
+      "duration": 1982
+    },
+    {
+      "id": "VBCgUJ7PZlk",
+      "title": "Applying Server Side Validation on Registration | Smart Contact Manager #9 | Spring Boot Tutorial",
+      "duration": 1066
+    },
+    {
+      "id": "nWbG6r7kSJ0",
+      "title": "Login System with Spring Security | Overview | Smart Contact Manager #10 | Spring Boot Tutorial",
+      "duration": 1204
+    },
+    {
+      "id": "yiE2hq6x_fk",
+      "title": "3 Steps for Role Based Authorization Spring Security | Smart Contact Manager #11 | Spring boot",
+      "duration": 1084
+    },
+    {
+      "id": "eUuNPXG4EOw",
+      "title": "Spring Security Login System | Implementing WebSecurityconfigureradapter |  BCryptPasswordEncoder",
+      "duration": 1405
+    },
+    {
+      "id": "rgBY2rfsWNQ",
+      "title": "Customizing Login Form Spring Security | Smart Contact Manager #13 | Spring Boot Tutorial [HINDI]",
+      "duration": 1397
+    },
+    {
+      "id": "MiVe-bT7kbQ",
+      "title": "Methods to configure the behavior of Login Page Spring Security | Smart Contact Manager #14",
+      "duration": 807
+    },
+    {
+      "id": "gDF-pTBBvkI",
+      "title": "Working on User Dashboard | Smart Contact Manager #15 | Spring Boot Tutorial [HINDI]",
+      "duration": 959
+    },
+    {
+      "id": "b5a0LmKc2Zc",
+      "title": "Creating Responsive Sidebar for Smart Contact Manager [Project] | Spring Boot Tutorial [HINDI]",
+      "duration": 1767
+    },
+    {
+      "id": "-vugFFRNeoA",
+      "title": "Designing Classic Add Contact Form | Smart Contact Manager #17 | Spring Boot Tutorial [Hindi]",
+      "duration": 2347
+    },
+    {
+      "id": "0OoergxuF2Q",
+      "title": "How to process contact form in very simple boot using Spring Boot| Smart Contact Manager #18 | SB",
+      "duration": 1387
+    },
+    {
+      "id": "Pu8zMLSbhIc",
+      "title": "Uploading Image with Contact Details in very simple steps | Smart Contact Manager #19 | SB",
+      "duration": 1451
+    },
+    {
+      "id": "3J9l1j5VxQ0",
+      "title": "Adding Proper Message after successful adding contact | Smart Contact Manager #20 | Spring Boot",
+      "duration": 1178
+    },
+    {
+      "id": "8SEUJya9gKg",
+      "title": "🔥Session probem in Thymeleaf 3.1 | how to solved | Spring Boot thymeleaf",
+      "duration": 1237
+    },
+    {
+      "id": "95gvhg0D_IM",
+      "title": "Integrating TinyMCE in project | Smart Contact Manager #21 | Spring Boot Tutorial",
+      "duration": 989
+    },
+    {
+      "id": "tScSQdHO69I",
+      "title": "Showing All Contacts in very Effective Manner| Pagination | Smart Contact Manager #22",
+      "duration": 2283
+    },
+    {
+      "id": "IwNPHoXZCWA",
+      "title": "How to Implement Pagination in Spring Boot | Smart Contact Manager #23 | Spring Boot Tutorial",
+      "duration": 1769
+    },
+    {
+      "id": "ZvoTj8jM028",
+      "title": "Working on Image | Working on Single Contact | Smart Contact Manager #24",
+      "duration": 1973
+    },
+    {
+      "id": "n4_wHajcJlQ",
+      "title": "Solving Security Bug Smart Contact Manager #25",
+      "duration": 774
+    },
+    {
+      "id": "kGlHdT-PhZE",
+      "title": "Deleting Specific Contact in Smart Contact Manager #26 | Spring Boot Tutorial",
+      "duration": 1307
+    },
+    {
+      "id": "nh2n9_FL430",
+      "title": "Updating Contact in Spring Boot Project | Smart Contact Manager#27 | Spring Tutorial",
+      "duration": 1308
+    },
+    {
+      "id": "CNhDoFOfXS4",
+      "title": "Processing Update Form with Image | Smart Contact Manager #28 | Spring Boot Tutorial",
+      "duration": 1914
+    },
+    {
+      "id": "vbchswJAPrI",
+      "title": "[Delete Contact]Solving Important Bugs in Smart Contact Manager #29 | Spring Boot Tutorial",
+      "duration": 635
+    },
+    {
+      "id": "tkSSWdPGUYM",
+      "title": "Completing Profile Page and Dashboard Page | Smart Contact Manager #30 | Spring Boot Tutorial",
+      "duration": 1263
+    },
+    {
+      "id": "ivUKnRxrRLA",
+      "title": "How to create Email Web API  using Spring Boot | Spring Boot Tutorial",
+      "duration": 2317
+    },
+    {
+      "id": "9TG6nOPJJ3Y",
+      "title": "Angular with Project in one video | Angular Materiel | HINDI",
+      "duration": 6661
+    },
+    {
+      "id": "5CJlG-RHmw8",
+      "title": "Creating Search Functionality | Smart Contact Manager #31 | Spring Boot Tutorial |HINDI",
+      "duration": 2328
+    },
+    {
+      "id": "NMIEJZfNG-8",
+      "title": "JWT Authentication Best Explanation | Spring Boot Tutorial in HINDI",
+      "duration": 1573
+    },
+    {
+      "id": "7IcoMnNkCbY",
+      "title": "creating Spring Boot Project directly in IntelliJ IDEA Community | Spring Boot Tutorial [HINDI]",
+      "duration": 901
+    },
+    {
+      "id": "MU2e6-CC3Pc",
+      "title": "Implementing JWT Authentication using Spring Boot Step by Step | Spring boot tutorial in HINDI",
+      "duration": 3762
+    },
+    {
+      "id": "0hzZpryrmaw",
+      "title": "Sending Proper 401 Unauthorized Response | JWT authentication | Spring boot tutorial [Hindi]",
+      "duration": 545
+    },
+    {
+      "id": "BxYRSa-rpbE",
+      "title": "Perfect Login Application using Angular |  Angular Material | JWT | Spring boot | Spring Boot Tut",
+      "duration": 6145
+    },
+    {
+      "id": "72ksqHThniE",
+      "title": "Connecting Angular LoginApp with Database  | Spring Boot | JWT authentication | Spring boot tutorial",
+      "duration": 2339
+    },
+    {
+      "id": "l3laeda5D1I",
+      "title": "Making Things for Mobile | Working on Active links | Smart Contact Manager #32 |Spring Boot Tutorial",
+      "duration": 1440
+    },
+    {
+      "id": "EDB54asAyeM",
+      "title": "Making Change Password Module | Smart Contact Manager #33 | Spring Boot Tutorial in HINDI",
+      "duration": 821
+    },
+    {
+      "id": "m1cECfqNk3I",
+      "title": "Changing Password after matching old password | ByCryptPasswordEncoder  Smart Contact Manager #34",
+      "duration": 1234
+    },
+    {
+      "id": "-RYnvzQjgf4",
+      "title": "How to make Forgot Password  Module Full Logic Explained | Smart Contact Manager #35 | Spring Boot",
+      "duration": 818
+    },
+    {
+      "id": "r4H-8SpG24s",
+      "title": "Verifying  Email while Registration | Complete Login Explained | Smart Contact Manager #36",
+      "duration": 882
+    },
+    {
+      "id": "9MM2VddGQ1c",
+      "title": "Implementing Forgot Password using Spring boot | Smart Contact Manager #37 | Boot Tutorial HINDI",
+      "duration": 1567
+    },
+    {
+      "id": "zR19O4imql0",
+      "title": "How to send OTP to email using  |  Forgot Password Module | Smart Contact Manager #38",
+      "duration": 1162
+    },
+    {
+      "id": "Gk_z5hZJ6wE",
+      "title": "Verify OTP and User Email while changing password | Smart Contact Manager #39 | Spring Boot Tutorial",
+      "duration": 1589
+    },
+    {
+      "id": "K-foxB_Jusw",
+      "title": "Save New Password | Forgot Password Module | Smart Contact manager #40",
+      "duration": 714
+    },
+    {
+      "id": "lEHJXOXaoww",
+      "title": "Taking Viewers Questions 🙏 | Why I haven't followed Design Pattern? | How to use JSP in Spring Boot",
+      "duration": 816
+    },
+    {
+      "id": "-Ke6JYqTM_s",
+      "title": "Complete 🔥Payment Integration🔥 in our website/Web Application step by step guide in Hindi",
+      "duration": 5014
+    },
+    {
+      "id": "eYQFCGskHpw",
+      "title": "🔥Payment Integration 🔥|  Handling Payment Data on Server in very simple way | Payment Integration",
+      "duration": 2242
+    },
+    {
+      "id": "yjK54rUSrJo",
+      "title": "🔥  Spring Boot JDBC Tutorial 🔥   Spring Boot With Spring JDBC Tutorial | No Hibernate",
+      "duration": 2389
+    },
+    {
+      "id": "p_xrBVxOmq8",
+      "title": "🌎 Spring Boot with 🗑️ PostgreSQL Database Tutorial",
+      "duration": 1680
+    },
+    {
+      "id": "YsQu0Gz2ZYQ",
+      "title": "How to use NetBeans IDE for Spring Boot Project | NB Spring Boot Project",
+      "duration": 822
+    },
+    {
+      "id": "hL4vRV9hm_o",
+      "title": "Spring  Data Rest Tutorial |  Creating Automatic API without controllers | SB Tutorial Hindi",
+      "duration": 1901
+    },
+    {
+      "id": "QT0LpYCpIFk",
+      "title": "👊🏻Top 12 Spring Boot Annotations [Hindi]",
+      "duration": 3588
+    },
+    {
+      "id": "po6wM4O1Yxw",
+      "title": "🔥Dumping data from CSV to MYSQL using Spring Boot Batch |Spring batch Tutorial step by step in Hindi",
+      "duration": 2785
+    },
+    {
+      "id": "mStYBY5-ddQ",
+      "title": "🔥Top Spring Boot Interview Questions [Hindi]",
+      "duration": 1562
+    },
+    {
+      "id": "sATuxP_qC-4",
+      "title": "🔥Spring Boot Actuator Practical Session | Spring Boot Tutorial",
+      "duration": 1788
+    },
+    {
+      "id": "uDR9QoyCWQs",
+      "title": "🔥Debugging Java Application | Debugging Spring Boot Application [Hindi]",
+      "duration": 1517
+    },
+    {
+      "id": "qpK1AoFWY8k",
+      "title": "🔥🔥Unit Testing in Spring Boot Project in one video ||  Crash Course",
+      "duration": 3498
+    },
+    {
+      "id": "qflq2xxweUw",
+      "title": "Creating API for Dumping Excel data to MYSQL using Spring Boot ||  Hindi",
+      "duration": 2588
+    },
+    {
+      "id": "FTZnJaP3xxY",
+      "title": "🔴Uploading Excel File using Angular | Hindi",
+      "duration": 1439
+    },
+    {
+      "id": "TX6KSTbTviw",
+      "title": "🔥Spring Boot with MongoDB in Hindi ||  Wow its very easy",
+      "duration": 1353
+    },
+    {
+      "id": "UXiLLnUz2PA",
+      "title": "Managing multiple configuration file in Spring Boot in Hindi",
+      "duration": 525
+    },
+    {
+      "id": "dQn3VxcTYCM",
+      "title": "📷Rest API to upload image | Simplest way to uploading files in Spring Boot | Without any confusion",
+      "duration": 1749
+    },
+    {
+      "id": "PsB52IYL-40",
+      "title": "🔥One of the simplest way to serve images in Spring Boot Project | Serving Files",
+      "duration": 912
+    },
+    {
+      "id": "H8QILN7WWGo",
+      "title": "☁️Free Deploying Spring boot application on Heroku | Very simple steps | Hindi",
+      "duration": 895
+    },
+    {
+      "id": "IDqH1B7aiYU",
+      "title": "🌐 Spring Boot with Database on Heroku in HIndi",
+      "duration": 885
+    },
+    {
+      "id": "F31lvNRil10",
+      "title": "🔥Spring Security without the WebSecurityConfigurerAdapter | New way of configuration Spring Security",
+      "duration": 899
+    },
+    {
+      "id": "V_QO6fAsv4U",
+      "title": "🔥 Adding Support for XML with JSON in 5 lines | Spring boot | Hindi",
+      "duration": 624
+    },
+    {
+      "id": "3fUE0rQcaPU",
+      "title": "🔥 File and JSON in Single API using Spring Boot in Hindi",
+      "duration": 1200
+    },
+    {
+      "id": "rWwVXoLpZo8",
+      "title": "🔥 Sending File and JSON together using Angular in Hindi | Important video",
+      "duration": 1368
+    },
+    {
+      "id": "CoY3vKhUYi0",
+      "title": "🔥 Upload  N  number of files together in single api in spring boot in Hindi",
+      "duration": 556
+    },
+    {
+      "id": "qzbSzmbLuVE",
+      "title": "🔥 Simplest way to generate PDF using Spring Boot in Hindi",
+      "duration": 1637
+    },
+    {
+      "id": "H__ELR1y3FQ",
+      "title": "🔥Spring Data JPA Mappings in one Shot | Detail Video | OneToOne | OneToMany | ManyToMany Mapping",
+      "duration": 5096
+    },
+    {
+      "id": "jwpWcq9Sv_0",
+      "title": "🔥 How to create custom logic for bean validator | Spring Boot bean validation | Custom Validator",
+      "duration": 667
+    },
+    {
+      "id": "bAS_WcH6NeQ",
+      "title": "🔥 Spring Boot 3.0 | Configuring Spring Security in Spring Boot 3.0 | New way to configure Security",
+      "duration": 2192
+    },
+    {
+      "id": "M6y5J-qar5A",
+      "title": "🔥 Spring Boot With Multiple Databases in Hindi",
+      "duration": 3032
+    },
+    {
+      "id": "9fwHA9s3QGs",
+      "title": "🔥 Creating Excel file from database using Spring Boot | Creating API to download excel from DB",
+      "duration": 2075
+    },
+    {
+      "id": "UNyqdAHcqIA",
+      "title": "🔥 What is Refresh Token in Hindi",
+      "duration": 693
+    },
+    {
+      "id": "q2l91Ffc_8U",
+      "title": "🔥Complete Jwt Authentication with Spring Boot 3.1  in one video  | Hindi",
+      "duration": 5407
+    },
+    {
+      "id": "U5wQn5SVC08",
+      "title": "🔥JWT Authentication with  Spring Boot 3.1  storing in Database in Hindi",
+      "duration": 2021
+    },
+    {
+      "id": "gjOmfoG7YO4",
+      "title": "🔥Alternative to Heroku Cloud  for Spring Boot | Deploying Spring Boot for free | Hindi",
+      "duration": 1928
+    },
+    {
+      "id": "-HKjLlj74cg",
+      "title": "🔥 Refresh  Token Implementation Step by Step Tutorial in one video | Spring Boot",
+      "duration": 3046
+    },
+    {
+      "id": "1lGNdM6gCSM",
+      "title": "🔥Easiest way to upload image |  Cloudinary | Spring Boot Tutorial in Hindi",
+      "duration": 1899
+    },
+    {
+      "id": "Dw5pMInJjhs",
+      "title": "🔥Deploy Spring Boot on External Tomcat Server",
+      "duration": 1618
+    }
+  ]
+}

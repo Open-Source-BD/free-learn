@@ -1,0 +1,265 @@
+{
+  "courseId": "vue-js-tutorial-in-hindi-7934b2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:29.362Z",
+  "title": "Vue js tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "aQtRuyvY6EQ",
+      "title": "Vue js tutorial in Hindi #1 Introduction",
+      "duration": 331
+    },
+    {
+      "id": "mcthqwCQAGQ",
+      "title": "Vue js tutorial in Hindi #2 installation",
+      "duration": 373
+    },
+    {
+      "id": "tzqGcm61Qt4",
+      "title": "Vue js tutorial in Hindi #3 folder and file structure",
+      "duration": 314
+    },
+    {
+      "id": "5RgiKA0xOOY",
+      "title": "Vue js tutorial in Hindi #4 Make component",
+      "duration": 570
+    },
+    {
+      "id": "70hnBm1UWyU",
+      "title": "Vue js tutorial in Hindi #5 event | how to use click event",
+      "duration": 272
+    },
+    {
+      "id": "huCmyh58GO0",
+      "title": "Vue js tutorial in Hindi #6 conditional render | if condition",
+      "duration": 281
+    },
+    {
+      "id": "AsJ-UFMzhas",
+      "title": "Vue js tutorial in hindi #7 for loop",
+      "duration": 325
+    },
+    {
+      "id": "oMEMPGZXq4E",
+      "title": "Vue js tutorial in hindi #8 composing with component",
+      "duration": 668
+    },
+    {
+      "id": "wS4f9cFzMhI",
+      "title": "Vue js tutorial in hindi #9 template with example",
+      "duration": 512
+    },
+    {
+      "id": "JqcVuya6cN4",
+      "title": "Vue js tutorial in Hindi #10 Class and Style Bindings",
+      "duration": 589
+    },
+    {
+      "id": "pkGmMn7VY-g",
+      "title": "Vue js tutorial in Hindi #11 Class and Style Bindings",
+      "duration": 334
+    },
+    {
+      "id": "YdQArrf3zLY",
+      "title": "Vue js tutorial in Hindi #12 props in vue js",
+      "duration": 565
+    },
+    {
+      "id": "-_Nzq2GXSaY",
+      "title": "Vue js tutorial in Hindi #13 props child to parent component",
+      "duration": 490
+    },
+    {
+      "id": "KIynt0WKIgY",
+      "title": "Vue js tutorial in Hindi #14 life cycle methods (Hooks)",
+      "duration": 434
+    },
+    {
+      "id": "SuwNhWzD0Kc",
+      "title": "Vue js tutorial in Hindi #15 form with checkbox and radio button",
+      "duration": 756
+    },
+    {
+      "id": "fHQe0PVgJlw",
+      "title": "Vue js tutorial in Hindi #16 Make a form and get data",
+      "duration": 522
+    },
+    {
+      "id": "d-i8o05CMiI",
+      "title": "Vue js tutorial in Hindi #17 form validation",
+      "duration": 753
+    },
+    {
+      "id": "9bZDkuWXM-w",
+      "title": "Vue js tutorial in Hindi #18 filters",
+      "duration": 287
+    },
+    {
+      "id": "0GZT3wv3ats",
+      "title": "Vue js tutorial in Hindi #19 beforecreate and created life cycle methods",
+      "duration": 341
+    },
+    {
+      "id": "gMhGKeKSlkA",
+      "title": "Vue js tutorial in Hindi #20 beforeMount and Mounted life cycle methods",
+      "duration": 296
+    },
+    {
+      "id": "MQZ4PQGw-sc",
+      "title": "Vue js tutorial in Hindi #21 beforeDestroy and destroyed life cycle methods",
+      "duration": 400
+    },
+    {
+      "id": "i3TktIsq47U",
+      "title": "Vue js tutorial  in hindi #22 fetch data from API | axios",
+      "duration": 594
+    },
+    {
+      "id": "eY4AxAXdqUs",
+      "title": "Vue js tutorial in Hindi #23 add bootstrap",
+      "duration": 390
+    },
+    {
+      "id": "Bnvs1kr0giI",
+      "title": "Vue js tutorial in Hindi #24 Post API with form data",
+      "duration": 796
+    },
+    {
+      "id": "Bc49gVoM0Wg",
+      "title": "Vue js tutorial in Hindi #25 Delete data with API | delete method",
+      "duration": 626
+    },
+    {
+      "id": "txx-_8GGn3g",
+      "title": "Vue js tutorial in hindi #26 Basic Routing | Vue router part 1",
+      "duration": 447
+    },
+    {
+      "id": "4V3gvP2jP10",
+      "title": "Vue js tutorial in Hindi #27 Add Routing Link |  vue router part 2",
+      "duration": 317
+    },
+    {
+      "id": "LhOVYnyCzdU",
+      "title": "Vue js tutorial in Hindi #28 Pass data in routing params |  Vue router part 3",
+      "duration": 352
+    },
+    {
+      "id": "-BgGftMzEcQ",
+      "title": "Vue js tutorial in hindi #29 page not found | 404 page |  Vue router part 4",
+      "duration": 253
+    },
+    {
+      "id": "lL7b5sFbRtA",
+      "title": "Vue js tutorial in hindi #30 dynamic component",
+      "duration": 525
+    },
+    {
+      "id": "LeN6-LzFpqU",
+      "title": "Vue js tutorial in Hindi #31 make custom directive",
+      "duration": 418
+    },
+    {
+      "id": "-RuYSF_c_ps",
+      "title": "Vue JS 3 tutorial in Hindi #26 Non-Props Data",
+      "duration": 588
+    },
+    {
+      "id": "dTefGX3SSYE",
+      "title": "Vue JS 3 tutorial in Hindi #27 Computed Property",
+      "duration": 523
+    },
+    {
+      "id": "2AfulHI5Lyk",
+      "title": "Vue JS 3 tutorial in Hindi #28 Watchers with example",
+      "duration": 476
+    },
+    {
+      "id": "Sr7d4hQh7D8",
+      "title": "Vue JS 3 tutorial in Hindi #29 Slots with example",
+      "duration": 585
+    },
+    {
+      "id": "-8j5Q1NQp2Q",
+      "title": "Vue JS 3 tutorial in Hindi #30 Multiple slot with Name Slots",
+      "duration": 626
+    },
+    {
+      "id": "qZPww-JWcik",
+      "title": "Vue JS 3 tutorial in Hindi #31 Dynamic Component",
+      "duration": 549
+    },
+    {
+      "id": "S17ew-FlcO4",
+      "title": "Vue JS 3 tutorial in Hindi #32 Teleport component with example",
+      "duration": 656
+    },
+    {
+      "id": "kNVdjAXIBUE",
+      "title": "Vue JS 3 tutorial in Hindi #34 beforeCreate and Created life cycle method",
+      "duration": 474
+    },
+    {
+      "id": "FP6L6B58iqA",
+      "title": "Vue JS 3 tutorial in Hindi #36 beforeUpdate and updated",
+      "duration": 325
+    },
+    {
+      "id": "mgnzxhFdCzY",
+      "title": "Vue JS 3 tutorial in Hindi #38 Routing",
+      "duration": 759
+    },
+    {
+      "id": "avjZ9UmhnCY",
+      "title": "Vue JS 3 tutorial in Hindi  #39 Dynamic Routing",
+      "duration": 689
+    },
+    {
+      "id": "T-y_T3zzHKc",
+      "title": "Vue js project in Hindi #12 Add and Update Page",
+      "duration": 466
+    },
+    {
+      "id": "4qb4uh-UKZc",
+      "title": "Vue js project in Hindi #14 Make API for restaurant List with json server",
+      "duration": 363
+    },
+    {
+      "id": "5fIxSoXI074",
+      "title": "Vue js project in Hindi #15 List of restaurant with API",
+      "duration": 516
+    },
+    {
+      "id": "rBDhP_FY7tg",
+      "title": "Vue js project in Hindi #16  Form for Add Restaurant",
+      "duration": 427
+    },
+    {
+      "id": "Hy8XPME19e0",
+      "title": "Vue js project in Hindi #17 Call API  for Add Restaurant",
+      "duration": 427
+    },
+    {
+      "id": "_xpm1HwWdXo",
+      "title": "Vue js project in Hindi #18 Update Restaurant | Update Route",
+      "duration": 410
+    },
+    {
+      "id": "rgA9GLNeDfI",
+      "title": "Vue js project in Hindi #19 Prefill Update Restaurant Form",
+      "duration": 439
+    },
+    {
+      "id": "snKAfzMhdv8",
+      "title": "Vue js project in Hindi #20 Prefill Update Restaurant Form",
+      "duration": 372
+    },
+    {
+      "id": "Wo4rHeO8aPg",
+      "title": "Vue js project in Hindi #21 Delete Restaurant",
+      "duration": 341
+    }
+  ]
+}

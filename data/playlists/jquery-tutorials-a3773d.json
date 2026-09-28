@@ -1,0 +1,120 @@
+{
+  "courseId": "jquery-tutorials-a3773d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLp_RsiLZjwQQEtvmHTJRkK-lEuSn0kg7p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:32.309Z",
+  "title": "jQuery Tutorials",
+  "channel": "Programentor",
+  "videos": [
+    {
+      "id": "DziGkyZtvY8",
+      "title": "01 | Introduction To jQuery | jQuery Tutorials | jQuery Latest Tutorials | Learn jQuery (Hindi/Urdu)",
+      "duration": 1721
+    },
+    {
+      "id": "ptxH4Zn4DzI",
+      "title": "02 | Introduction To jQuery | jQuery Tutorials | jQuery Latest Tutorials | Learn jQuery (Hindi/Urdu)",
+      "duration": 1559
+    },
+    {
+      "id": "7aYIlBVoR9g",
+      "title": "03 | jQuery Syntax & Basic Selectors | Syntax jQuery | Selectors In jQuery | jQuery (Hindi/Urdu)",
+      "duration": 1097
+    },
+    {
+      "id": "1u5HZJrvGSQ",
+      "title": "04 | jQuery Advance Selectors | Advance Selectors In jQuery | jQuery Selectors | jQuery (Hindi/Urdu)",
+      "duration": 1339
+    },
+    {
+      "id": "hh3zfCqrW7g",
+      "title": "05 | Hide Show & Toggle Methods jQuery | jQuery Hide And Show Methods | Learn jQuery (Hindi/Urdu)",
+      "duration": 1069
+    },
+    {
+      "id": "aP7kpHqqwrI",
+      "title": "06 | jQuery Events | Mouse Events In jQuery | Events In jQuery | Learn jQuery (Hindi/Urdu)",
+      "duration": 1511
+    },
+    {
+      "id": "8uXBTcNR9IM",
+      "title": "07 | Val And Text Methods In jQuery | jQuery Val | jQuery Text Function | Learn jQuery (Hindi/Urdu)",
+      "duration": 1136
+    },
+    {
+      "id": "HNoeN6Zfgxg",
+      "title": "08 | FadeIn, FadeOut, FadeToggle, FadeTo | Fading Effects In jQuery | Learn jQuery (Hindi/Urdu)",
+      "duration": 1402
+    },
+    {
+      "id": "Mx23KI_xcc0",
+      "title": "09 | Get Content Using text() html() val() attr() methods In jQuery | jQuery Tutorial (Hindi/Urdu)",
+      "duration": 1501
+    },
+    {
+      "id": "GO1Zf4UCFgU",
+      "title": "10 | Set Content Using text() html() val() attr() methods In jQuery | jQuery Tutorial (Hindi/Urdu)",
+      "duration": 1142
+    },
+    {
+      "id": "YfIf6J2rXFg",
+      "title": "11 | AddClass RemoveClass ToggleClass Methods In jQuery | jQuery Tutorial | jQuery (Hindi/Urdu)",
+      "duration": 1378
+    },
+    {
+      "id": "UNPY3znU2hI",
+      "title": "12 | CSS Method jQuery | jQuery CSS Method | jQuery CSS | CSS Function In jQuery (Hindi/Urdu)",
+      "duration": 345
+    },
+    {
+      "id": "a43WdW2IZYw",
+      "title": "13 | Append And Prepend In jQuery | jQuery Append | jQuery Prepend | Learn jQuery (Hindi/Urdu)",
+      "duration": 732
+    },
+    {
+      "id": "h53Yi7d-gC4",
+      "title": "14 | Before And After Methods In jQuery | jQuery After | jQuery Before | Learn jQuery (Hindi/Urdu)",
+      "duration": 336
+    },
+    {
+      "id": "aWRDTi8AZkA",
+      "title": "15 | Select Change & Submit Methods In jQuery | jQuery Change | jQuery Submit | Select (Hindi/Urdu)",
+      "duration": 1749
+    },
+    {
+      "id": "B9qNhtgyQF4",
+      "title": "16 | Empty And Remove Methods jQuery | jQuery Empty | jQuery Remove | Learn jQuery | JS (Hindi/Urdu)",
+      "duration": 754
+    },
+    {
+      "id": "zavhSeFgkjI",
+      "title": "17 | Clone Method In jQuery | jQuery Clone Function | Creating Copy Using jQuery (Hindi/Urdu)",
+      "duration": 797
+    },
+    {
+      "id": "FgZgI4T1ErQ",
+      "title": "18 | ReplaceWith & ReplaceAll Methods jQuery | jQuery ReplaceWith | jQuery ReplaceAll (Hindi/Urdu)",
+      "duration": 914
+    },
+    {
+      "id": "oAhcPCwT3Cw",
+      "title": "19 | wrap, wrapAll, wrapInner And unWrap In jQuery | Wrap Methods jQuery | jQuery (Hindi/Urdu)",
+      "duration": 1418
+    },
+    {
+      "id": "u6if9tpffNc",
+      "title": "20 | jQuery Each Method | Each Method jQuery | Each Function jQuery | Learn jQuery (Hindi/Urdu)",
+      "duration": 847
+    },
+    {
+      "id": "ltHlORMzrZQ",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "aLzyFYtn5kw",
+      "title": "21 | How To Get Value Of Checkboxes And Radio Buttons In jQuery | jQuery Tutorial | JS (Hindi/Urdu)",
+      "duration": 1069
+    }
+  ]
+}

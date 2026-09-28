@@ -1,0 +1,220 @@
+{
+  "courseId": "react-native-hindi-tutorial-d8755b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:05.910Z",
+  "title": "React Native hindi tutorial",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "MpqNQw2-2tA",
+      "title": "React-Native Hindi tutorial #1 introduction | getting started",
+      "duration": 221
+    },
+    {
+      "id": "Deyq31RzxSM",
+      "title": "React-Native Hindi tutorial #2 installation",
+      "duration": 491
+    },
+    {
+      "id": "hj1Ra7UYeoE",
+      "title": "React-Native Hindi tutorial #3 file structure",
+      "duration": 251
+    },
+    {
+      "id": "MX2Jw_nw-x8",
+      "title": "React-Native Hindi tutorial #4 First change with Hello World",
+      "duration": 201
+    },
+    {
+      "id": "wPOnGFqNVlg",
+      "title": "React-Native Hindi tutorial #5 Make First Component",
+      "duration": 502
+    },
+    {
+      "id": "9R0bEhbNfbk",
+      "title": "React-Native Hindi tutorial #6 Component Type",
+      "duration": 167
+    },
+    {
+      "id": "tgMYvbcKjM8",
+      "title": "React-Native Hindi tutorial #7 functional component",
+      "duration": 217
+    },
+    {
+      "id": "7CitmypMmm4",
+      "title": "React-Native Hindi tutorial #8 class component",
+      "duration": 291
+    },
+    {
+      "id": "vZXks7hrEQM",
+      "title": "React-Native Hindi tutorial #9 Props",
+      "duration": 332
+    },
+    {
+      "id": "ycnd96-ITXE",
+      "title": "React-Native Hindi tutorial #10 State",
+      "duration": 346
+    },
+    {
+      "id": "hi-Ydyu_YB0",
+      "title": "React-Native Hindi tutorial #11 Style",
+      "duration": 515
+    },
+    {
+      "id": "Eqr-05qv_P4",
+      "title": "React-Native Hindi tutorial #12 handle textinput",
+      "duration": 495
+    },
+    {
+      "id": "4rk4YC1n86k",
+      "title": "React-Native Hindi tutorial #13 simple form",
+      "duration": 589
+    },
+    {
+      "id": "NBXumuiB2qQ",
+      "title": "React-Native Hindi tutorial #14 flex box basic",
+      "duration": 537
+    },
+    {
+      "id": "i_DTWjb8XtA",
+      "title": "React-Native Hindi tutorial #15 getting start with react-navigation",
+      "duration": 653
+    },
+    {
+      "id": "NaLloDhJA6U",
+      "title": "React-Native Hindi tutorial #16 stack navigation",
+      "duration": 632
+    },
+    {
+      "id": "Z5lyUJD1k0U",
+      "title": "React-Native Hindi tutorial #17 tab navigation",
+      "duration": 427
+    },
+    {
+      "id": "Vp-X8YZcIxI",
+      "title": "React-Native Hindi tutorial #18 Drawer navigation",
+      "duration": 683
+    },
+    {
+      "id": "R1c-s7hmwYw",
+      "title": "React-Native Hindi tutorial #19 ScrollView",
+      "duration": 284
+    },
+    {
+      "id": "LGC_Zt0Gfm4",
+      "title": "React-Native Hindi tutorial # useState (Hooks) | state in functional component",
+      "duration": 241
+    },
+    {
+      "id": "dN9sweyoVQc",
+      "title": "React-Native Hindi tutorial # Life cycle Method",
+      "duration": 247
+    },
+    {
+      "id": "Vm2u-mm5-5w",
+      "title": "React-Native Hindi tutorial # componentDidMount | life cycle method",
+      "duration": 336
+    },
+    {
+      "id": "E-DrJQww-CI",
+      "title": "React-Native Hindi tutorial # FlatList",
+      "duration": 272
+    },
+    {
+      "id": "lWRpUmPzxvU",
+      "title": "React-Native Hindi tutorial # call api",
+      "duration": 504
+    },
+    {
+      "id": "GPz5EIS7KbY",
+      "title": "React-Native Hindi tutorial # Form Validation",
+      "duration": 789
+    },
+    {
+      "id": "3d5mf7m730w",
+      "title": "React-Native Hindi tutorial # Debug app with chrome",
+      "duration": 298
+    },
+    {
+      "id": "KoZK-gJzg-0",
+      "title": "React-Native Hindi tutorial # Share data in screens with navigation",
+      "duration": 739
+    },
+    {
+      "id": "cNNQdS4UxKU",
+      "title": "React-Native Hindi tutorial # Loader (ActivityIndicator)",
+      "duration": 270
+    },
+    {
+      "id": "geytfLfU4gY",
+      "title": "React-Native Hindi tutorial # useEffect hook",
+      "duration": 699
+    },
+    {
+      "id": "_y7ipAnbsDA",
+      "title": "React-Native Hindi tutorial # Modal (popup)",
+      "duration": 499
+    },
+    {
+      "id": "7ZFUCfLizZo",
+      "title": "React-Native Hindi tutorial # use icons",
+      "duration": 608
+    },
+    {
+      "id": "H_MATSGy3FA",
+      "title": "React-Native Hindi tutorial #2 fetch get api with Axios",
+      "duration": 463
+    },
+    {
+      "id": "kPD08dyP_rQ",
+      "title": "React-Native Hindi tutorial # get current latitude longitude | geolocation",
+      "duration": 502
+    },
+    {
+      "id": "yfYTOQBCnsc",
+      "title": "React-Native Hindi tutorial # build apk or  aab file",
+      "duration": 536
+    },
+    {
+      "id": "RH28QTxXzu8",
+      "title": "React-native app Project in Hindi # Setup and introduction",
+      "duration": 740
+    },
+    {
+      "id": "nHd5psDNRUU",
+      "title": "React Navigation 5 tutorial in Hindi #1 Installation",
+      "duration": 314
+    },
+    {
+      "id": "5xm8UtxLTww",
+      "title": "React Navigation 5 tutorial in Hindi #2 Setup",
+      "duration": 446
+    },
+    {
+      "id": "6Caq8r_J8Ww",
+      "title": "React Navigation 5 tutorial in Hindi #3 pass data between screens",
+      "duration": 287
+    },
+    {
+      "id": "QiWL4KPO6BM",
+      "title": "React Navigation 5 tutorial in Hindi #5 Button in Header with Event",
+      "duration": 407
+    },
+    {
+      "id": "pJP5k81xHZk",
+      "title": "React Navigation 5 tutorial in Hindi #4 Header style and Config",
+      "duration": 596
+    },
+    {
+      "id": "7GVMI5bY1pU",
+      "title": "React Navigation 5 tutorial in Hindi #6 Tab navigation",
+      "duration": 630
+    },
+    {
+      "id": "_8omS8rye2A",
+      "title": "React Navigation 5 tutorial in Hindi #7 Drawer Navigation",
+      "duration": 415
+    }
+  ]
+}

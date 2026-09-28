@@ -1,0 +1,405 @@
+{
+  "courseId": "react-native-tutorial-in-hindi-e04b1e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:09.100Z",
+  "title": "React Native Tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "z1qG80Jkzi8",
+      "title": "React native tutorial in Hindi #1 Introduction | what is React-Native",
+      "duration": 366
+    },
+    {
+      "id": "3LVwTukzFu8",
+      "title": "React native tutorial in Hindi #2 React-Native Setup in Windows | Android environment",
+      "duration": 1380
+    },
+    {
+      "id": "TQnThietOgk",
+      "title": "React native tutorial in Hindi #3 Make First Program",
+      "duration": 523
+    },
+    {
+      "id": "usmvrBShCCU",
+      "title": "React Native 0.71 version | Big Update | TypeScript by default",
+      "duration": 813
+    },
+    {
+      "id": "GZhDoxYWaTI",
+      "title": "React native tutorial in Hindi #4 React-Native App File Structure",
+      "duration": 845
+    },
+    {
+      "id": "wnuK2fR4mdA",
+      "title": "React native tutorial in Hindi #5 Basics of View, Text and Button UI",
+      "duration": 604
+    },
+    {
+      "id": "2HS5F0TN4KQ",
+      "title": "React native tutorial in Hindi #6 What is JSX",
+      "duration": 715
+    },
+    {
+      "id": "aYZpxT9eHHg",
+      "title": "React Native tutorial in Hindi #7 What is component",
+      "duration": 869
+    },
+    {
+      "id": "dCvZ2U_C5fk",
+      "title": "React Native tutorial in Hindi #8 Button and onPress event in react-native",
+      "duration": 566
+    },
+    {
+      "id": "4LlVxjQZ3EE",
+      "title": "React Native tutorial in Hindi #9 State in react native  | State vs Variables",
+      "duration": 664
+    },
+    {
+      "id": "4XMvlHzbjHw",
+      "title": "React Native tutorial in Hindi #10 Props in react native",
+      "duration": 663
+    },
+    {
+      "id": "-9bJaTHnE64",
+      "title": "React Native tutorial in Hindi #11 Style in React Native | style Type",
+      "duration": 817
+    },
+    {
+      "id": "PwK-3LDUwgA",
+      "title": "React Native tutorial in Hindi #12 Get Text Input Value | Handling Text Input",
+      "duration": 651
+    },
+    {
+      "id": "CT6vdYOrD7s",
+      "title": "React Native tutorial in Hindi #13 Basic Form in React-Native | form with state",
+      "duration": 948
+    },
+    {
+      "id": "DLaky7sOKX4",
+      "title": "React Native tutorial in Hindi #14 FlatList | Make list in React native",
+      "duration": 615
+    },
+    {
+      "id": "eP_7a8vYMLk",
+      "title": "React Native tutorial in Hindi #15  List with map function | without flatlist",
+      "duration": 579
+    },
+    {
+      "id": "XaVzKwkxotc",
+      "title": "React Native tutorial in Hindi #16 How to make Grid",
+      "duration": 641
+    },
+    {
+      "id": "C73l7G9ztG0",
+      "title": "React Native tutorial in Hindi #17 Component in Loop with Flatlist",
+      "duration": 780
+    },
+    {
+      "id": "CBpltLegoXo",
+      "title": "React Native tutorial in Hindi #18 Section List with example",
+      "duration": 533
+    },
+    {
+      "id": "6ytuDvAO74k",
+      "title": "React Native tutorial in Hindi #19 Class Component",
+      "duration": 490
+    },
+    {
+      "id": "UvUDN1IDQs8",
+      "title": "React Native tutorial in Hindi #20 State and Props in Class Component",
+      "duration": 526
+    },
+    {
+      "id": "hSEmHCXGt-A",
+      "title": "React Native tutorial in Hindi #21 Life cycle phases and methods",
+      "duration": 530
+    },
+    {
+      "id": "oSyByQpmz_8",
+      "title": "React Native tutorial in Hindi #22 Hooks in React Native",
+      "duration": 352
+    },
+    {
+      "id": "2VHLxyBfl-A",
+      "title": "React Native tutorial in Hindi #23 useEffect hook as life cycle method in functional component",
+      "duration": 690
+    },
+    {
+      "id": "tJO8gmEXhSY",
+      "title": "React Native tutorial in Hindi #24 useEffect hook as ComponentDidUpdate life cycle method",
+      "duration": 1027
+    },
+    {
+      "id": "zLRVMUXdknU",
+      "title": "React Native tutorial in Hindi #25 Toggle, Show and Hide components",
+      "duration": 415
+    },
+    {
+      "id": "9a8IvwUQKXo",
+      "title": "React Native tutorial in Hindi #26 useEffect as ComponentDidUnmount | Life Cycle Method",
+      "duration": 601
+    },
+    {
+      "id": "zj_yDg8Q9p8",
+      "title": "React Native tutorial in Hindi #27 Responsive Layout with Flexbox",
+      "duration": 1045
+    },
+    {
+      "id": "wYahuXR7Mak",
+      "title": "React Native tutorial in Hindi #28 TouchableHighlight |  Style with Button",
+      "duration": 661
+    },
+    {
+      "id": "8NlQkGyYhlc",
+      "title": "React Native tutorial in Hindi #29 Make radio button in react-native",
+      "duration": 963
+    },
+    {
+      "id": "JM9HURAoXi0",
+      "title": "React Native tutorial in Hindi #30 Dynamic radio button",
+      "duration": 472
+    },
+    {
+      "id": "w4w-SMBXzP0",
+      "title": "React Native tutorial in Hindi #31 Activity Indicator | Loader in React Native",
+      "duration": 693
+    },
+    {
+      "id": "mxoUqGSv_dk",
+      "title": "React Native tutorial in Hindi #32 Modal | Dialog Box in react-native",
+      "duration": 915
+    },
+    {
+      "id": "7elyd46VPag",
+      "title": "React Native tutorial in Hindi #33 Pressable | Long press",
+      "duration": 638
+    },
+    {
+      "id": "0IBdiVwD_Nw",
+      "title": "React Native tutorial in Hindi #34 Status Bar",
+      "duration": 600
+    },
+    {
+      "id": "YY-B87TNpZM",
+      "title": "React Native tutorial in Hindi #35 Platform | Check OS in React Native | Operating System",
+      "duration": 595
+    },
+    {
+      "id": "4vVf18LXlOo",
+      "title": "React Native tutorial in Hindi #36 How to install npm package",
+      "duration": 451
+    },
+    {
+      "id": "-ZGGypkz3YQ",
+      "title": "React Native tutorial in Hindi #37 Make Custom Modal Dialog box",
+      "duration": 554
+    },
+    {
+      "id": "A1cz6_Mr6Ng",
+      "title": "React Native tutorial in Hindi #38 React native navigation | v6",
+      "duration": 379
+    },
+    {
+      "id": "uIUKlYi3HRw",
+      "title": "React Native tutorial in Hindi #39 Stack Navigation | React Navigation version 6",
+      "duration": 902
+    },
+    {
+      "id": "zjh6Xr6HfQ4",
+      "title": "React Native tutorial in Hindi #40  Style in Stack Navigation | React Navigation v6",
+      "duration": 488
+    },
+    {
+      "id": "-Kv_TVxAZ1A",
+      "title": "React Native tutorial in Hindi #41 Button and component in Stack Navigation | React Navigation v6",
+      "duration": 714
+    },
+    {
+      "id": "OdaeokRiwCk",
+      "title": "React Native tutorial in Hindi #43 Pass data between Screens in Stack Navigation | React Navigation",
+      "duration": 661
+    },
+    {
+      "id": "nJzK3x6AGsY",
+      "title": "React Native tutorial in Hindi #44 Tab Navigation | React Navigation",
+      "duration": 591
+    },
+    {
+      "id": "A2f_WAoxjIc",
+      "title": "React Native tutorial in Hindi #45 Top Tab Navigation | React Navigation",
+      "duration": 340
+    },
+    {
+      "id": "vn3TO3_F8ag",
+      "title": "React Native tutorial in Hindi #46 API Call | Fetch Rest API",
+      "duration": 817
+    },
+    {
+      "id": "2M1Yk1dDY78",
+      "title": "React Native tutorial in Hindi #47 List with API Data | Get List with API",
+      "duration": 606
+    },
+    {
+      "id": "iha4atzt7lA",
+      "title": "React Native tutorial in Hindi #48 FlatList with API Data | use flat list with API",
+      "duration": 601
+    },
+    {
+      "id": "aFSFYy5qxAI",
+      "title": "Make API for Angular, React, React-Native etc | json-server tutorials",
+      "duration": 675
+    },
+    {
+      "id": "LiPVzPLr-RA",
+      "title": "React Native tutorial in Hindi #50 Test API with Postman",
+      "duration": 746
+    },
+    {
+      "id": "_U-XZOkmEPE",
+      "title": "React Native tutorial in Hindi #51 Fetch data from JSON server API",
+      "duration": 643
+    },
+    {
+      "id": "a-zH-0GlpoQ",
+      "title": "React Native tutorial in Hindi #52 Post api in React-native",
+      "duration": 557
+    },
+    {
+      "id": "1brCMB1XaMs",
+      "title": "React Native tutorial in Hindi #53 Post API with Input fields and form data",
+      "duration": 709
+    },
+    {
+      "id": "hHId0z0DkTU",
+      "title": "React Native tutorial in Hindi #54 Simple Form validations",
+      "duration": 730
+    },
+    {
+      "id": "eLSdwJLi0qE",
+      "title": "React Native tutorial in Hindi #55 List with API data",
+      "duration": 928
+    },
+    {
+      "id": "QS3XTswB23w",
+      "title": "React Native tutorial in Hindi #56 Delete API Method",
+      "duration": 516
+    },
+    {
+      "id": "qHFC9P-jweU",
+      "title": "React Native tutorial in Hindi #57 Pass Data to Modal",
+      "duration": 939
+    },
+    {
+      "id": "6Rlj6URLYso",
+      "title": "React Native tutorial in Hindi #58 Populate Data in Input field",
+      "duration": 576
+    },
+    {
+      "id": "jfvWo6V9aZs",
+      "title": "React Native tutorial in Hindi #59 API Put Method | Update with rest API",
+      "duration": 908
+    },
+    {
+      "id": "VdU0UTcLJ1w",
+      "title": "React Native tutorial in Hindi #60 Search with API",
+      "duration": 815
+    },
+    {
+      "id": "0bjiKg3kFK8",
+      "title": "React Native tutorial in Hindi #61 Ref with example",
+      "duration": 556
+    },
+    {
+      "id": "mUFnr9uIlHs",
+      "title": "React Native tutorial in Hindi #62 Change app icon for android app",
+      "duration": 379
+    },
+    {
+      "id": "V_QBKYROB6w",
+      "title": "React Native tutorial in Hindi #63 Change IOS App icon",
+      "duration": 295
+    },
+    {
+      "id": "pY-UvlALKhw",
+      "title": "React Native tutorial in Hindi #64 async storage",
+      "duration": 836
+    },
+    {
+      "id": "TvmsMijfpDQ",
+      "title": "React Native tutorial in Hindi #65 Element Inspector",
+      "duration": 438
+    },
+    {
+      "id": "px5dfmvlAds",
+      "title": "React native redux tutorial in Hindi #1 Why redux need with React-Native",
+      "duration": 607
+    },
+    {
+      "id": "4b8kdAWT4kY",
+      "title": "React native redux tutorial in Hindi #2 Redux Architecture",
+      "duration": 688
+    },
+    {
+      "id": "uom3OE0aSzs",
+      "title": "React native redux tutorial in Hindi #3 Installation and File Structure",
+      "duration": 391
+    },
+    {
+      "id": "roBtuSV20Nk",
+      "title": "React native redux tutorial in Hindi #4 Make add to cart UI",
+      "duration": 839
+    },
+    {
+      "id": "ukA1GbmfSyw",
+      "title": "React native redux tutorial in Hindi #5 Make Action",
+      "duration": 741
+    },
+    {
+      "id": "zsmtHEOVWRI",
+      "title": "React native redux tutorial in Hindi #6 Reducer",
+      "duration": 679
+    },
+    {
+      "id": "KImsDVdUojA",
+      "title": "React native redux tutorial in Hindi #7 Store and Provider",
+      "duration": 481
+    },
+    {
+      "id": "Z1r8SzXtX8U",
+      "title": "React native redux tutorial in Hindi #8 Get Data From Redux Store",
+      "duration": 824
+    },
+    {
+      "id": "adfu4A0Uhrk",
+      "title": "React native redux tutorial in Hindi #9 Remove to Cart UI",
+      "duration": 459
+    },
+    {
+      "id": "fXh6WkyMlIE",
+      "title": "React native redux tutorial in Hindi #10 Remove Cart Items from Redux",
+      "duration": 800
+    },
+    {
+      "id": "fPl4tk407tY",
+      "title": "React native redux tutorial in Hindi #11 React Navigation with redux",
+      "duration": 831
+    },
+    {
+      "id": "lepOPx2oDvI",
+      "title": "React native redux tutorial in Hindi #12 Setup and configure saga",
+      "duration": 581
+    },
+    {
+      "id": "_ZovqEPa6_s",
+      "title": "React native redux tutorial in Hindi #13 Call API with saga",
+      "duration": 493
+    },
+    {
+      "id": "7jUC4CRGAhQ",
+      "title": "React native redux tutorial in Hindi #13 render data from redux saga",
+      "duration": 201
+    }
+  ]
+}

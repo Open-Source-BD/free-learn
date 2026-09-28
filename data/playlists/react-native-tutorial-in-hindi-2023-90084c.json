@@ -1,0 +1,260 @@
+{
+  "courseId": "react-native-tutorial-in-hindi-2023-90084c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:12.028Z",
+  "title": "React Native Tutorial In Hindi - 2023",
+  "channel": "Code Diggers",
+  "videos": [
+    {
+      "id": "Gwi96pfsIRM",
+      "title": "Introduction To React Native | React Native Tutorial for Beginners|React Native Tutorial In Hindi #1",
+      "duration": 211
+    },
+    {
+      "id": "FnBGAj7G5ao",
+      "title": "Setup React Native Project Environment | React Native Installation|React Native Tutorial In Hindi #2",
+      "duration": 1104
+    },
+    {
+      "id": "fFBFtS0aQS0",
+      "title": "Setup React Native Android Without Android Studio | Install React Native Without Android Studio #2.1",
+      "duration": 939
+    },
+    {
+      "id": "z6VNRe0lDmM",
+      "title": "Solve Errors If You Had Ever Face | Could Not Reserve Enogh Space For Object Heap | Requires Java11",
+      "duration": 500
+    },
+    {
+      "id": "3IoG1jUP_XY",
+      "title": "Let's Create New Project In React Native | React Native Tutorial In Hindi #3.0",
+      "duration": 450
+    },
+    {
+      "id": "_AEm7NolyHg",
+      "title": "Sample Project Run In Expo Snack For Low End Pc User | React Native Tutorial In Hindi #3",
+      "duration": 206
+    },
+    {
+      "id": "Z2wSbv9E2Go",
+      "title": "Project Structure, View, Text & Flexbox View Example | React Native Tutorial In Hindi #4",
+      "duration": 705
+    },
+    {
+      "id": "8t80nnSMhqA",
+      "title": "Stylesheet In React Native | External Style Sheet | Global Style | React Native Tutorial In Hindi #5",
+      "duration": 572
+    },
+    {
+      "id": "BJZALxAo5pk",
+      "title": "Use State In React Native | Use State Hooks | State Management | React Native Tutorial In Hindi #6",
+      "duration": 796
+    },
+    {
+      "id": "63NQDFpfprM",
+      "title": "Text Input In React Native | Keyboard Input With A Text Input  | React Native Tutorial In Hindi #7",
+      "duration": 589
+    },
+    {
+      "id": "a_AsGvx_Doo",
+      "title": "Array To List In React Native| Array Listing With Map Function | React Native Tutorial In Hindi #8",
+      "duration": 524
+    },
+    {
+      "id": "g0nhWCWbz_s",
+      "title": "Flat List In React Native | FlatList Card Components | React Native Tutorial In Hindi #9",
+      "duration": 421
+    },
+    {
+      "id": "EYfLWKIdwAM",
+      "title": "Touchable Components In React Native | TouchableOpacity | React Native Tutorial In Hindi #10",
+      "duration": 421
+    },
+    {
+      "id": "ScWO_OYvyII",
+      "title": "Fetch Api Data In React Native | TouchableOpacity | React Native Tutorial In Hindi #11",
+      "duration": 1104
+    },
+    {
+      "id": "xr8vb0OI9fc",
+      "title": "part1 - React Navigation v6 In React Native | React Navigation | React Native Tutorial In Hindi #12",
+      "duration": 901
+    },
+    {
+      "id": "707zYT8Mvh4",
+      "title": "part2 - React Navigation v6 Passing Data Between Screens | React Native Tutorial In Hindi #13",
+      "duration": 895
+    },
+    {
+      "id": "camQZX35IZs",
+      "title": "part3 - React Navigation v6 Use Hooks | React Navigation Hooks | React Native Tutorial In Hindi #14",
+      "duration": 531
+    },
+    {
+      "id": "-m3NzAth9_4",
+      "title": "part4 - React Navigation v6 Bottom Tab Navigator | React Native Tutorial In Hindi #15",
+      "duration": 992
+    },
+    {
+      "id": "tnVMX_gPsSM",
+      "title": "part5 - React Navigation v6 Drawer Navigator | React Native Tutorial In Hindi #16",
+      "duration": 570
+    },
+    {
+      "id": "v6rmVdvDbbY",
+      "title": "part6 - React Navigation v6 Material Navigator | React Native Tutorial In Hindi #17",
+      "duration": 452
+    },
+    {
+      "id": "qpA3YgWW4i0",
+      "title": "part7 - React Navigation v6 Splash Screen In App | Splash Screen| React Native Tutorial In Hindi #18",
+      "duration": 767
+    },
+    {
+      "id": "hSWEZk7YS4Q",
+      "title": "part8 - Nested React Navigation v6 | Nested Navigation | React Native Tutorial In Hindi #19",
+      "duration": 1178
+    },
+    {
+      "id": "1cvXiQB8-II",
+      "title": "What Is Web View In React Native | Web View In React Native | React Native Tutorial In Hindi #20",
+      "duration": 1577
+    },
+    {
+      "id": "Y29QCLYDfUg",
+      "title": "Generating The Signed Release APK Of React Native In Hindi | React Native Tutorial In Hindi #21",
+      "duration": 928
+    },
+    {
+      "id": "DTzrIpTAk0k",
+      "title": "How To Use Custom Fonts React Native|Custom Fonts in React Native|React Native Tutorial In Hindi #22",
+      "duration": 567
+    },
+    {
+      "id": "d-tDxWK6cPU",
+      "title": "Async Storage In React Native | Local Storage In React Native | React Native Tutorial In Hindi #23",
+      "duration": 965
+    },
+    {
+      "id": "XMhkqymZ6fw",
+      "title": "Store Array Or JSON Data In Async Storage React Native | React Native Tutorial In Hindi #24",
+      "duration": 709
+    },
+    {
+      "id": "POTXelFCGOw",
+      "title": "Responsive UI In React Native | All About Flex Box In Style | React Native Tutorial In Hindi #25",
+      "duration": 1479
+    },
+    {
+      "id": "BxlDrVDc0Rc",
+      "title": "Customize TextInput With Icons In React Native | Add Icons  | React Native Tutorial In Hindi #26",
+      "duration": 1126
+    },
+    {
+      "id": "je7sXavZp0c",
+      "title": "Design Custom Login UI In React Native | Dribble UI Clone  | React Native Tutorial In Hindi #27",
+      "duration": 2390
+    },
+    {
+      "id": "kJvF4J30XFs",
+      "title": "Login & Signup With Backend (PHP) API In React Native | React Native Tutorial In Hindi #28",
+      "duration": 2417
+    },
+    {
+      "id": "GM8_kFPV-r0",
+      "title": "Manage User Auth State In React Native | State In Local Storage | React Native Tutorial In Hindi #29",
+      "duration": 1115
+    },
+    {
+      "id": "vvktUWWxKR0",
+      "title": "Check User Auth Without Backend API (Locally) In React Native | React Native Tutorial In Hindi #30",
+      "duration": 808
+    },
+    {
+      "id": "utQlAXfeEhk",
+      "title": "Toast Android Message In React Native | Toast Message | React Native Tutorial In Hindi #31",
+      "duration": 572
+    },
+    {
+      "id": "o4ms0EfSw6g",
+      "title": "Implement Swipe Down To Refresh In React Native |Pull-to-Refresh| React Native Tutorial In Hindi #32",
+      "duration": 1097
+    },
+    {
+      "id": "SDYmkakjBzc",
+      "title": "Document Picker In React Native | File Picker | Image Picker | React Native Tutorial In Hindi #33",
+      "duration": 1042
+    },
+    {
+      "id": "td3ykZVu9Gc",
+      "title": "Bottom Sheet In React Native | Reanimated Bottom Sheet | React Native Tutorial In Hindi #34",
+      "duration": 1539
+    },
+    {
+      "id": "RoeQ57moSqQ",
+      "title": "Check Netinfo State In React Native | Check No Internet Wifi | React Native Tutorial In Hindi #35",
+      "duration": 1267
+    },
+    {
+      "id": "EQ_DRUgN0z4",
+      "title": "Create Calculator In React Native | Internship Task | UI Clone | React Native Tutorial In Hindi #36",
+      "duration": 2406
+    },
+    {
+      "id": "rq1ieDPcC3M",
+      "title": "Play Video In React Native | React Native Video | Video Player | React Native Tutorial In Hindi #37",
+      "duration": 656
+    },
+    {
+      "id": "Zq8WYknD3Vs",
+      "title": "Add Video Controller In React Native | React Native Video Player| React Native Tutorial In Hindi #38",
+      "duration": 680
+    },
+    {
+      "id": "PaPrfvxK_Hk",
+      "title": "Custom Video Controller In React Native | Custom Video Player | React Native Tutorial In Hindi #39",
+      "duration": 2568
+    },
+    {
+      "id": "TQmXh7AKZqQ",
+      "title": "Use Vibration In React Native | React Native Vibration | React Native Tutorial In Hindi #40",
+      "duration": 530
+    },
+    {
+      "id": "psvkwdD-5OM",
+      "title": "Generate Qr Code With Custom Text In React Native | React Native Tutorial In Hindi #41",
+      "duration": 761
+    },
+    {
+      "id": "OS9VFHKl2nc",
+      "title": "Scan Qr Code In React Native | Qr Code With React Native | React Native Tutorial In Hindi #42",
+      "duration": 1455
+    },
+    {
+      "id": "p1s9r86rX_8",
+      "title": "Download & Save Qr Code Using File System In React Native | React Native Tutorial In Hindi #43",
+      "duration": 1097
+    },
+    {
+      "id": "DcyLs24k5wU",
+      "title": "Preventing Screenshot In React Native | Screenshot React Native | React Native Tutorial In Hindi #44",
+      "duration": 286
+    },
+    {
+      "id": "4w8ktU1INIc",
+      "title": "Video Calling App In React Native | Basic App Just In 5 Minutes | React Native Tutorial In Hindi #45",
+      "duration": 5166
+    },
+    {
+      "id": "j3Iecx96DHE",
+      "title": "Skeleton Elements In React Native | Skeleton Loading | React Native Tutorial In Hindi #45",
+      "duration": 638
+    },
+    {
+      "id": "b-5ie4Su_c0",
+      "title": "Clipboard In React Native | Copy Paste Text In App | React Native Tutorial In Hindi #46",
+      "duration": 1001
+    }
+  ]
+}

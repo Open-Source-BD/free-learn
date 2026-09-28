@@ -1,0 +1,110 @@
+{
+  "courseId": "node-js-tutorial-in-hindi-ca1669",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:15.315Z",
+  "title": "Node.js Tutorial in Hindi",
+  "channel": "truecodex",
+  "videos": [
+    {
+      "id": "u2lP7u5d8uw",
+      "title": "Node Js Tutorial #1 Getting Started with Node.js | Node.js Tutorial for Beginners | What is Node.js",
+      "duration": 260
+    },
+    {
+      "id": "E9ECq9qDwMo",
+      "title": "Node Js Tutorial #2 How to Install Node.js | Node.js Setup and Installation",
+      "duration": 214
+    },
+    {
+      "id": "f4NV9hKyKcw",
+      "title": "Node Js Tutorial #3 Create First Node.js Application | Build Your First Node.js App",
+      "duration": 542
+    },
+    {
+      "id": "E-rujF5icEk",
+      "title": "Node Js Tutorial #4 What is a Module in Node.js | Creating Custom Modules in Node.js",
+      "duration": 950
+    },
+    {
+      "id": "r95jTXNxkcI",
+      "title": "Node Js Tutorial #5 Node.js Events and EventEmitter | Creating Custom Events in Node.js",
+      "duration": 877
+    },
+    {
+      "id": "-O8wpYYKstE",
+      "title": "Node Js Tutorial #6 Node.js Buffers and Streams | Working with Buffers and Streams in Node.js",
+      "duration": 824
+    },
+    {
+      "id": "dzc_cC0_Nyc",
+      "title": "Node Js Tutorial #7 Node.js Readable and Writable Streams | Node.js Stream Handling with Piping",
+      "duration": 1078
+    },
+    {
+      "id": "sQeykJx7v3Y",
+      "title": "Node Js Tutorial #8 File Handling in Node.js | Working with Files in Node.js",
+      "duration": 528
+    },
+    {
+      "id": "IVZecQzqxIo",
+      "title": "Node Js Tutorial #9 Render HTML in Node.js | Rendering HTML with Node.js",
+      "duration": 237
+    },
+    {
+      "id": "LtB4A3TEiPU",
+      "title": "Node Js Tutorial #10 Node.js Return JSON Data | Send JSON Response in Node.js",
+      "duration": 423
+    },
+    {
+      "id": "pCi1lSXcPj4",
+      "title": "Node Js Tutorial #11 How to Implement Routing in Node.js | Creating Routes in Node.js",
+      "duration": 872
+    },
+    {
+      "id": "OFrbyiFuI0w",
+      "title": "Node Js Tutorial #12 What is Express.js? Getting Started with Express.js | How to Install Express.js",
+      "duration": 408
+    },
+    {
+      "id": "8w4tYlSMmSc",
+      "title": "Node Js Tutorial #13 Create First Project with Express.js | Getting Started with Express.js",
+      "duration": 1382
+    },
+    {
+      "id": "JVCPTxkTzzc",
+      "title": "Node Js Tutorial #14 How to Change Template Engine in Express.js | Change Template Engine in Node.js",
+      "duration": 565
+    },
+    {
+      "id": "8hPvBN7hXzg",
+      "title": "Node Js Tutorial #15 Express.js GET and POST Requests | Node.js Express GET POST Request Tutorial",
+      "duration": 936
+    },
+    {
+      "id": "nHgnrANk5Is",
+      "title": "Node Js Tutorial #16 Node.js MySQL Database Connection | Connect Node.js to MySQL",
+      "duration": 1333
+    },
+    {
+      "id": "Kez-PXG4jCE",
+      "title": "Node Js Tutorial #17 Node.js CRUD Operations Tutorial | Node.js CRUD Example | Node.js CRUD API",
+      "duration": 1597
+    },
+    {
+      "id": "1ZlwkITToS4",
+      "title": "Node Js Tutorial #18 File Upload in Node.js | Node.js File Upload with Express",
+      "duration": 1206
+    },
+    {
+      "id": "IPQoMiu6zTI",
+      "title": "Node Js Tutorial #19 Node.js Express RESTful API | Building RESTful API with Node.js and Express",
+      "duration": 2262
+    },
+    {
+      "id": "UExhqZBEPQg",
+      "title": "Node Js Tutorial #20 JWT Authentication with Passport in Node.js",
+      "duration": 2364
+    }
+  ]
+}

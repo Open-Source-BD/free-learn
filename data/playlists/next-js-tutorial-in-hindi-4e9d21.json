@@ -1,0 +1,390 @@
+{
+  "courseId": "next-js-tutorial-in-hindi-4e9d21",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:47.494Z",
+  "title": "Next js tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "YIqLzP0sVdc",
+      "title": "Next JS tutorial in Hindi #1 What is Next.js | Introduction",
+      "duration": 402
+    },
+    {
+      "id": "-Y36chnRFxU",
+      "title": "React, Node, Angular, Gen-AI live classes | The Coding Skills",
+      "duration": 67
+    },
+    {
+      "id": "y0ecd_bGKb4",
+      "title": "Next JS tutorial in Hindi #2 Install and Setup Next.js 13.4",
+      "duration": 803
+    },
+    {
+      "id": "IEBTUhvRTwE",
+      "title": "Next JS tutorial in Hindi #3 First Program | Component | Hello World",
+      "duration": 716
+    },
+    {
+      "id": "JYLyxpNyMmw",
+      "title": "Next JS tutorial in Hindi #4 Events | Functions | state in next.Js",
+      "duration": 915
+    },
+    {
+      "id": "ZrAjBtodMpA",
+      "title": "Next JS tutorial in Hindi #5 File and folder | Project structure",
+      "duration": 790
+    },
+    {
+      "id": "LVOwLzqfrkw",
+      "title": "Next JS tutorial in Hindi #6  Component Type | server component | Client component",
+      "duration": 611
+    },
+    {
+      "id": "8t37HK-ZQEc",
+      "title": "Next JS tutorial in Hindi #7 Basic Routing | Create new Page in next.js",
+      "duration": 569
+    },
+    {
+      "id": "skwq0Ymwya0",
+      "title": "Next JS tutorial in Hindi #8 Link and Navigation in next.js 13.4",
+      "duration": 759
+    },
+    {
+      "id": "2avQ3hVLQl8",
+      "title": "Next JS tutorial in Hindi #9 Nested Routing in next.js 13.4",
+      "duration": 975
+    },
+    {
+      "id": "d8-tQj1FUdk",
+      "title": "Next JS tutorial in Hindi #10 Common Layout in next.js 13",
+      "duration": 823
+    },
+    {
+      "id": "TyIazu2lGGI",
+      "title": "Next JS tutorial in Hindi #11 Conditional Layout in next.js 13",
+      "duration": 524
+    },
+    {
+      "id": "Pobz2vLWXMw",
+      "title": "Next JS tutorial in Hindi #12 Dynamic Routing in next.js 13",
+      "duration": 701
+    },
+    {
+      "id": "nCu9q9-r2uE",
+      "title": "Next JS tutorial in Hindi #13 Catch-all Segments of Route in Next.js",
+      "duration": 631
+    },
+    {
+      "id": "T9fvMhgyRKg",
+      "title": "Next JS tutorial in Hindi #14 |  404 page not found in next.js 13.4",
+      "duration": 560
+    },
+    {
+      "id": "Oa0A-v_zkbk",
+      "title": "Next JS tutorial in Hindi #15 |  Middleware in next.js",
+      "duration": 812
+    },
+    {
+      "id": "ZdvEOW7D8eM",
+      "title": "Next JS tutorial in Hindi #16 |  Rendering in next.js 13.4",
+      "duration": 467
+    },
+    {
+      "id": "m6_dnce29sE",
+      "title": "Next JS tutorial in Hindi #17 |  Client Side vs PreRendering  in next.js 13.4",
+      "duration": 691
+    },
+    {
+      "id": "OgWerS5ntEw",
+      "title": "Next JS tutorial in Hindi #18 | fetch API data in Client component in next.js 13.4",
+      "duration": 644
+    },
+    {
+      "id": "vTF0g6W8tCk",
+      "title": "Next JS tutorial in Hindi #19 | Call API in Server  component in next.js 13.4",
+      "duration": 616
+    },
+    {
+      "id": "wBSNIVd1_20",
+      "title": "Next JS tutorial in Hindi #20 | Use client component with server component in next.js 13.4",
+      "duration": 657
+    },
+    {
+      "id": "RC4jnIxx6BA",
+      "title": "Next JS tutorial in Hindi #21 | Style with next.js 13.4",
+      "duration": 801
+    },
+    {
+      "id": "_29jIw4hS38",
+      "title": "Next JS tutorial in Hindi #22 CSS Modules with Next.js 13.4",
+      "duration": 709
+    },
+    {
+      "id": "fDd-onYJ0CY",
+      "title": "Next JS tutorial in Hindi #23 Conditional style and CSS IN next.js 13.4",
+      "duration": 592
+    },
+    {
+      "id": "AnSftXHwBFw",
+      "title": "Next JS tutorial in Hindi #24 Image Optimization in next.js 13.4",
+      "duration": 813
+    },
+    {
+      "id": "gDDf8L7jsUw",
+      "title": "Next JS tutorial in Hindi #25 Font Optimization in next.js 13.4",
+      "duration": 424
+    },
+    {
+      "id": "VEEqXSeJnFU",
+      "title": "Next JS tutorial in Hindi #26 generateMetadata for Dynamic meta data in next.js 13.4",
+      "duration": 643
+    },
+    {
+      "id": "H97LBQOnlIQ",
+      "title": "Next JS tutorial in Hindi #27 Script component in next.js 13.4",
+      "duration": 481
+    },
+    {
+      "id": "QZFN91QRc4Y",
+      "title": "Next JS tutorial in Hindi #28 Loading Feature | Loader with API data in Next.js 13.4",
+      "duration": 692
+    },
+    {
+      "id": "AD2eR0_HkhY",
+      "title": "Next JS tutorial in Hindi #29 Static Assets in next.js 13.4",
+      "duration": 440
+    },
+    {
+      "id": "bBQPGuDjdmY",
+      "title": "Next JS tutorial in Hindi #30 How to make Production Build in next.js 13.4",
+      "duration": 445
+    },
+    {
+      "id": "eQdHCgB4Yj8",
+      "title": "Next JS tutorial in Hindi #31 Export Static HTML Page with Build in Next.js 13.4",
+      "duration": 465
+    },
+    {
+      "id": "6ZgVLb8AF0A",
+      "title": "Next JS tutorial in Hindi #32 Static Site Generation (SSG) in Next.js 13.4",
+      "duration": 1205
+    },
+    {
+      "id": "grWR39vF9-M",
+      "title": "Next JS tutorial in Hindi #33 Redirect | Redirection in Next.js 13.4",
+      "duration": 579
+    },
+    {
+      "id": "EWl7rV6OTV0",
+      "title": "Next JS tutorial in Hindi #34 Environment variables in Next.js 13.4",
+      "duration": 895
+    },
+    {
+      "id": "oxLMq1RmvVg",
+      "title": "Next JS tutorial in Hindi #35 API Routes in Next.js 13.4",
+      "duration": 841
+    },
+    {
+      "id": "cuHSMXG05tA",
+      "title": "Next JS tutorial in Hindi #36 GET API with Static Data in API Routes in Next.js 13.4",
+      "duration": 918
+    },
+    {
+      "id": "3dqJXtHUVKw",
+      "title": "Next JS tutorial in Hindi #37 Call Next js API  which create in API routes",
+      "duration": 1026
+    },
+    {
+      "id": "SAWBpemiLyg",
+      "title": "Next JS tutorial in Hindi #38 Make API with Post Method Next js 13.4 | API Routes",
+      "duration": 688
+    },
+    {
+      "id": "d2QDT-kDtgw",
+      "title": "Next JS tutorial in Hindi #39 Integrate Post API Next js 13.4 | API Routes",
+      "duration": 795
+    },
+    {
+      "id": "7ZZ-ErPA_Ak",
+      "title": "Next JS tutorial in Hindi #40 Make PUT  API Next js 13.4 | API Routes",
+      "duration": 683
+    },
+    {
+      "id": "23U0XQFX-9U",
+      "title": "Next JS tutorial in Hindi #41 Integrate  PUT  API Next js 13.4 | API Routes",
+      "duration": 1358
+    },
+    {
+      "id": "Ar_Xn-ZExgs",
+      "title": "Next JS tutorial in Hindi #42 Make DELETE  API Next js 13.4 | API Routes",
+      "duration": 347
+    },
+    {
+      "id": "B6qzauTJUB4",
+      "title": "Next JS tutorial in Hindi #43 Integrate Delete API  Next js 13.4 | API Routes",
+      "duration": 616
+    },
+    {
+      "id": "FcFQH5GyA20",
+      "title": "Next JS tutorial in Hindi #44 Catch all api routes | Next js 13.4 | API Routes",
+      "duration": 486
+    },
+    {
+      "id": "Hv1hlsmCh-8",
+      "title": "Next JS tutorial in Hindi #45 How to use MongoDB atlas | Next.js 13.4",
+      "duration": 579
+    },
+    {
+      "id": "gkAVCFOjZfA",
+      "title": "Next JS tutorial in Hindi #46 Connect MongoDB and Next.js 13.4",
+      "duration": 1230
+    },
+    {
+      "id": "bvkppo7Z1oc",
+      "title": "Next JS tutorial in Hindi #47 POST API with MongoDB in  Next.js 13.4",
+      "duration": 586
+    },
+    {
+      "id": "BFVJtsw2Dkc",
+      "title": "Next JS tutorial in Hindi #48 Integrated POST API  with mongoDB in Next.js 13.4",
+      "duration": 918
+    },
+    {
+      "id": "WXyfQhl_u0U",
+      "title": "Next JS tutorial in Hindi #49 Get API with MongoDB in Next.js 13.4",
+      "duration": 961
+    },
+    {
+      "id": "-NshnQEEtT0",
+      "title": "Next JS tutorial in Hindi #50 PUT API with MongoDB in Next.js 13.4",
+      "duration": 891
+    },
+    {
+      "id": "Qd75PGnijkQ",
+      "title": "Next JS tutorial in Hindi #51 Populate Form data with MongoDB API in Next.js 13.4",
+      "duration": 963
+    },
+    {
+      "id": "lVPGcnJUsfc",
+      "title": "Next JS tutorial in Hindi #52 PUT API  with MongoDB  in Next.js 13.4",
+      "duration": 430
+    },
+    {
+      "id": "sITcQb8Loyg",
+      "title": "Next JS tutorial in Hindi #53 DELETE API and  UI MongoDB  in Next.js 13.4",
+      "duration": 987
+    },
+    {
+      "id": "ll3sFMysOQA",
+      "title": "Next js vs React js in Hindi | different between react and next.js",
+      "duration": 639
+    },
+    {
+      "id": "d_N0_i1IvCI",
+      "title": "Next JS tutorial in Hindi # Upload Image in next js 13.4",
+      "duration": 1041
+    },
+    {
+      "id": "IGk6923Qgjo",
+      "title": "Next JS tutorial in Hindi # Deploy next.js project on Vercel",
+      "duration": 509
+    },
+    {
+      "id": "06nnhcffCrA",
+      "title": "Next js interview questions in Hindi | Important questions of Next.js 13",
+      "duration": 505
+    },
+    {
+      "id": "5b3EeDJ_lus",
+      "title": "Next Js 13 with Redux Toolkit  #1 Introduction | what is redux ToolKit",
+      "duration": 433
+    },
+    {
+      "id": "xXeQbpR-tFc",
+      "title": "Next Js 13 with Redux Toolkit  #2 Redux Toolkit Architecture",
+      "duration": 369
+    },
+    {
+      "id": "cjuMtb_5uJw",
+      "title": "Next Js 13 with Redux Toolkit  tutorial #3 Install",
+      "duration": 356
+    },
+    {
+      "id": "6zVyRdCt8RE",
+      "title": "Next Js 13 with Redux Toolkit  tutorial #4 Folder Structure, Store & Provider",
+      "duration": 696
+    },
+    {
+      "id": "l6nKp9DCajo",
+      "title": "Next Js 13 with Redux Toolkit #5 Component for Redux",
+      "duration": 593
+    },
+    {
+      "id": "niXPa6QRLc0",
+      "title": "Next Js 13 with Redux Toolkit #6 Slice in Redux Tool Kit",
+      "duration": 603
+    },
+    {
+      "id": "7Ul8xuWVsoU",
+      "title": "Next Js 13 with Redux Toolkit #7 Store data in Redux",
+      "duration": 571
+    },
+    {
+      "id": "swGeojrKRAo",
+      "title": "Next Js 13 with Redux Toolkit #8 Redux dev tools",
+      "duration": 550
+    },
+    {
+      "id": "hwCnYnZU-ag",
+      "title": "Next Js 13 with Redux Toolkit #9 Get Data From Redux Store",
+      "duration": 473
+    },
+    {
+      "id": "-rJwa9UOn3E",
+      "title": "Next Js 13 with Redux Toolkit #10 Remove Data From Redux Store",
+      "duration": 566
+    },
+    {
+      "id": "92wVnuYAaFE",
+      "title": "Next Js 13 with Redux Toolkit #11 Pass Redux data between Pages",
+      "duration": 637
+    },
+    {
+      "id": "FaHetnuzBdM",
+      "title": "Next Js 13 with Redux Toolkit #12 Redux store with Local Storage",
+      "duration": 637
+    },
+    {
+      "id": "7lN91jE5Pf8",
+      "title": "Next Js 13 with Redux Toolkit #13 Multiple Slice in Redux-toolkit",
+      "duration": 536
+    },
+    {
+      "id": "a4Dzre1DtuM",
+      "title": "Next Js 13 with Redux Toolkit #14 get redux data in same component",
+      "duration": 831
+    },
+    {
+      "id": "AxnsCLDf3wc",
+      "title": "Next Js 13 with Redux Toolkit #15 API call with redux tool kit",
+      "duration": 1003
+    },
+    {
+      "id": "ttv5KX0aknU",
+      "title": "Next Js 13 with Redux Toolkit in Hindi #16 Redux and RTK Interview questions",
+      "duration": 668
+    },
+    {
+      "id": "cASEJpkbeyU",
+      "title": "Next Js 13 with Redux Toolkit in Hindi #17 Task Solution and Bug Fixes",
+      "duration": 342
+    },
+    {
+      "id": "NOnv4Evud7M",
+      "title": "Next Js 13 with Redux Toolkit in Hindi #18 Project code on github",
+      "duration": 308
+    }
+  ]
+}

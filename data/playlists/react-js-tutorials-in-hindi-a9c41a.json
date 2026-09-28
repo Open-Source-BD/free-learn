@@ -1,0 +1,400 @@
+{
+  "courseId": "react-js-tutorials-in-hindi-a9c41a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:50.930Z",
+  "title": "React Js Tutorials in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "-mJFZp84TIY",
+      "title": "Introduction to React Js + Installation | Complete React Course in Hindi #1",
+      "duration": 1011
+    },
+    {
+      "id": "hnVOvvbQrwA",
+      "title": "Creating our first react app using create-react-app | Complete React Course in Hindi #2",
+      "duration": 1267
+    },
+    {
+      "id": "kFe-RRaOy48",
+      "title": "JavaScript Refresher | Complete React Course in Hindi #3",
+      "duration": 1643
+    },
+    {
+      "id": "JvC7aA24m4Q",
+      "title": "Understanding JSX | Complete React Course in Hindi #4",
+      "duration": 1596
+    },
+    {
+      "id": "wa0IVAIqbo0",
+      "title": "Project 1: Setup + Adding Bootstrap to React | Complete React Course in Hindi #5",
+      "duration": 1118
+    },
+    {
+      "id": "xvm3X1oyTL8",
+      "title": "Understanding Props and PropTypes in React | Complete React Course in Hindi #6",
+      "duration": 1563
+    },
+    {
+      "id": "leBpCqU8wdg",
+      "title": "Understanding State & Handling Events in React | Complete React Course in Hindi #7",
+      "duration": 1521
+    },
+    {
+      "id": "7BsjAdjx2Z0",
+      "title": "Adding more Logic to TextUtils | Complete React Course in Hindi #8",
+      "duration": 778
+    },
+    {
+      "id": "KislX1yzZOQ",
+      "title": "Exercise 1: Enhancing TextUtils | Complete React Course in Hindi #9",
+      "duration": 344
+    },
+    {
+      "id": "Sx2y4TjRZ9g",
+      "title": "Creating \"Enable Dark Mode\" Button Using useState Hook  | Complete React Course in Hindi #10",
+      "duration": 1159
+    },
+    {
+      "id": "9pqQZqcgkeg",
+      "title": "Exercise 1: Solutions + Shoutouts | Complete React Course in Hindi #11",
+      "duration": 383
+    },
+    {
+      "id": "vEzt66n2LZY",
+      "title": "Improving Dark Mode & Refactoring App Component | Complete React Course in Hindi #12",
+      "duration": 1322
+    },
+    {
+      "id": "n_KtBVxBTb4",
+      "title": "Adding + Auto Dismissing Alert Messages | Complete React Course in Hindi #13",
+      "duration": 1051
+    },
+    {
+      "id": "hWo5-vkJsj0",
+      "title": "Exercise 2: Adding Custom Color Theme to TextUtils | Complete React Course in Hindi #14",
+      "duration": 208
+    },
+    {
+      "id": "8eSQ1o6zir0",
+      "title": "Changing title dynamically & adding favicons to TextUtils | Complete React Course in Hindi #15",
+      "duration": 616
+    },
+    {
+      "id": "WNU1BEZIjxg",
+      "title": "React Router Setup + Usage | Complete React Course in Hindi #16",
+      "duration": 822
+    },
+    {
+      "id": "Fi75tq9JikI",
+      "title": "[Free] Building + Hosting React App For free on Github Pages | Complete React Course in Hindi #17",
+      "duration": 854
+    },
+    {
+      "id": "YYVY1bPHaWE",
+      "title": "Purchasing a Domain + Hosting TextUtils on a VPS | Complete React Course in Hindi #18",
+      "duration": 913
+    },
+    {
+      "id": "kEvfVw5Sq5c",
+      "title": "Fixing Issues & Wrapping up TextUtils | Complete React Course in Hindi #19",
+      "duration": 2182
+    },
+    {
+      "id": "Ghp1Mi43dxQ",
+      "title": "Exercise 2: Solutions + Shoutouts | Complete React Course in Hindi #20",
+      "duration": 868
+    },
+    {
+      "id": "tBaCrmZ_e80",
+      "title": "Fixing few more Textutils Issues | Complete React Course in Hindi #21",
+      "duration": 515
+    },
+    {
+      "id": "x9p-4QGh-OI",
+      "title": "Project 2 Setup + Introduction to Class based components | Complete React Course in Hindi #22",
+      "duration": 658
+    },
+    {
+      "id": "9xjuIe4KM-4",
+      "title": "Component Structure of our NewsMonkey React App | Complete React Course in Hindi #23",
+      "duration": 970
+    },
+    {
+      "id": "fSFlvm56JwM",
+      "title": "Fetching API Key from News API | Complete React Course in Hindi #24",
+      "duration": 863
+    },
+    {
+      "id": "OmoRSF1Ta6A",
+      "title": "Understanding state in class based components  | Complete React Course in Hindi #25",
+      "duration": 789
+    },
+    {
+      "id": "ANKGfdi8Ki4",
+      "title": "Looping through an array in JSX to display NewsItems from state | Complete React Course in Hindi #26",
+      "duration": 800
+    },
+    {
+      "id": "cIqgQn-XBIQ",
+      "title": "Using Fetch API in React to populate NewsItems | Complete React Course in Hindi #27",
+      "duration": 844
+    },
+    {
+      "id": "FOjrXXdiCMs",
+      "title": "Adding Previous & Next Buttons to populate NewsItems | Complete React Course in Hindi #28",
+      "duration": 965
+    },
+    {
+      "id": "sUGwamqnJnY",
+      "title": "Adding loading spinner & variable pageSize to NewsMonkey | Complete React Course in Hindi #29",
+      "duration": 1049
+    },
+    {
+      "id": "L3zCEwGpK9I",
+      "title": "Adding Categories & propTypes to NewsMonkey React App | Complete React Course in Hindi #30",
+      "duration": 814
+    },
+    {
+      "id": "y9ns0Cpp2do",
+      "title": "Fetching News category wise in NewsMonkey React App | Complete React Course in Hindi #31",
+      "duration": 900
+    },
+    {
+      "id": "tEm62tTwZE0",
+      "title": "Adding time, author and news source to News React App | Complete React Course in Hindi #32",
+      "duration": 806
+    },
+    {
+      "id": "ZJMd2mN0sbs",
+      "title": "Refactoring News component to use the same function  | Complete React Course in Hindi #33",
+      "duration": 670
+    },
+    {
+      "id": "abjeWy4sZiU",
+      "title": "React Component Lifecycle & Lifecycle methods  | Complete React Course in Hindi #34",
+      "duration": 957
+    },
+    {
+      "id": "yLox5lhwaEU",
+      "title": "Adding Infinite Scroll to NewsMonkey | Complete React Course in Hindi #35",
+      "duration": 944
+    },
+    {
+      "id": "j_Gk58cOB2A",
+      "title": "Adding a top loading bar to NewsMonkey | Complete React Course in Hindi #36",
+      "duration": 894
+    },
+    {
+      "id": "fg_Rc5cBAK8",
+      "title": "Hiding API Key by Adding Custom Environment Variables | Complete React Course in Hindi #37",
+      "duration": 435
+    },
+    {
+      "id": "esrFnNV5Btc",
+      "title": "Introduction to React Hooks | Complete React Course in Hindi #38",
+      "duration": 556
+    },
+    {
+      "id": "aSSVGdVk6fo",
+      "title": "Changing Class based NewsMonkey components to Functional based | Complete React Course in Hindi #39",
+      "duration": 1001
+    },
+    {
+      "id": "7lrneLoa72s",
+      "title": "Sticky Navbar & NewsMonkey bug fixes | Complete React Course in Hindi #40",
+      "duration": 599
+    },
+    {
+      "id": "YhJ-lPiCfyc",
+      "title": "Introduction to MERN stack | Complete React Course in Hindi #41",
+      "duration": 487
+    },
+    {
+      "id": "kZbaAVJHdZw",
+      "title": "Project 3: iNotebook backend and React frontend setup | Complete React Course in Hindi #42",
+      "duration": 693
+    },
+    {
+      "id": "jWIeK3ueOm8",
+      "title": "iNotebook db & Express Server Setup | Complete React Course in Hindi #43",
+      "duration": 802
+    },
+    {
+      "id": "HpszyPglBtQ",
+      "title": "Creating Routes & Schema for Storing Notes & Users | Complete React Course in Hindi #44",
+      "duration": 1298
+    },
+    {
+      "id": "weIrv6WbIec",
+      "title": "Storing Data into the Database Using Mongoose Model | Complete React Course in Hindi #45",
+      "duration": 722
+    },
+    {
+      "id": "N4GHLaCSXUg",
+      "title": "Adding Data Validation Using express-validator | Complete React Course in Hindi #46",
+      "duration": 722
+    },
+    {
+      "id": "vqCirjK61HI",
+      "title": "Creating ThunderClient Collections to Manage Requests | Complete React Course in Hindi #47",
+      "duration": 940
+    },
+    {
+      "id": "inEhzp3nD0M",
+      "title": "Understanding Password Hashing, Salt & Pepper | Complete React Course in Hindi #48",
+      "duration": 1056
+    },
+    {
+      "id": "nSIo0kHZcic",
+      "title": "Hashing Passwords using bcryptjs in NodeJs | Complete React Course in Hindi #49",
+      "duration": 876
+    },
+    {
+      "id": "j9fcNuNx-DA",
+      "title": "Creating Login Endpoint & sending auth token| Complete React Course in Hindi #50",
+      "duration": 695
+    },
+    {
+      "id": "qY0PZ-z61EQ",
+      "title": "Creating a middleware to decode user from a JWT | Complete React Course in Hindi #51",
+      "duration": 884
+    },
+    {
+      "id": "nXKUJipczn0",
+      "title": "Fetching all notes & Adding a Note | Complete React Course in Hindi #52",
+      "duration": 1004
+    },
+    {
+      "id": "2rwfG4H2FCk",
+      "title": "Updating an existing Note | Complete React Course in Hindi #53",
+      "duration": 916
+    },
+    {
+      "id": "vdfCuvV9WaE",
+      "title": "Endpoint for deleting a Note | Complete React Course in Hindi #54",
+      "duration": 592
+    },
+    {
+      "id": "hfjQLssL0hs",
+      "title": "iNotebook React Project Setup | Complete React Course in Hindi #55",
+      "duration": 680
+    },
+    {
+      "id": "x1Zs1kPqyxQ",
+      "title": "Creating Navbar and Routes | Complete React Course in Hindi #56",
+      "duration": 659
+    },
+    {
+      "id": "3u9GZQN7ZUQ",
+      "title": "Introduction to React Context API | Complete React Course in Hindi #57",
+      "duration": 629
+    },
+    {
+      "id": "coM0JK6o3mo",
+      "title": "useContext hook: Using React Context API | Complete React Course in Hindi #58",
+      "duration": 1148
+    },
+    {
+      "id": "fqIZnugmDhY",
+      "title": "useLocation Hook in React | Complete React Course in Hindi #59",
+      "duration": 648
+    },
+    {
+      "id": "94BdnDVHrP0",
+      "title": "iNotebook: Fetching Notes from Context | Complete React Course in Hindi #60",
+      "duration": 380
+    },
+    {
+      "id": "GsVXwTeMn4o",
+      "title": "iNotebook: Adding NoteItem in a Separate Note component | Complete React Course in Hindi #61",
+      "duration": 419
+    },
+    {
+      "id": "pH37pK7kalA",
+      "title": "Adding font awesome icons to iNotebook | Complete React Course in Hindi #62",
+      "duration": 701
+    },
+    {
+      "id": "EseqvMqulAQ",
+      "title": "Adding AddNote component to iNotebook | Complete React Course in Hindi #63",
+      "duration": 951
+    },
+    {
+      "id": "MQpI6pc6J6s",
+      "title": "Adding \"delete note\" functionality to iNotebook | Complete React Course in Hindi #64",
+      "duration": 405
+    },
+    {
+      "id": "x-mYMGf7P6M",
+      "title": "Adding \"fetch notes\" functionality to iNotebook | Complete React Course in Hindi #65",
+      "duration": 852
+    },
+    {
+      "id": "J5hGX5_XZDk",
+      "title": "Adding a Modal for Editing Notes | Complete React Course in Hindi #66",
+      "duration": 1037
+    },
+    {
+      "id": "lcJXF2Svo-c",
+      "title": "Updating Notes on edit in the UI using React | Complete React Course in Hindi #67",
+      "duration": 752
+    },
+    {
+      "id": "W8SmVTL-ToY",
+      "title": "Adding Frontend Validation + Few Fixes in iNotebook | Complete React Course in Hindi #68",
+      "duration": 783
+    },
+    {
+      "id": "S0nmMn2n82k",
+      "title": "Adding Login Component to iNotebook | Complete React Course in Hindi #69",
+      "duration": 1225
+    },
+    {
+      "id": "rw5NZB4P_0Q",
+      "title": "Adding SignUp Component to iNotebook | Complete React Course in Hindi #70",
+      "duration": 759
+    },
+    {
+      "id": "1mH7SPeFwbg",
+      "title": "Adding Alerts to Login, Signup & Notes Component of iNotebook | Complete React Course in Hindi #71",
+      "duration": 658
+    },
+    {
+      "id": "MP-_pkakBao",
+      "title": "Fetching User Specific Notes in iNotebook | Complete React Course in Hindi #72",
+      "duration": 698
+    },
+    {
+      "id": "JZQWKYjfZlQ",
+      "title": "Introduction to Redux | Complete React Course in Hindi #73",
+      "duration": 529
+    },
+    {
+      "id": "hFyLMMj8Ncg",
+      "title": "Setting up a React Application for Redux | Complete React Course in Hindi #74",
+      "duration": 587
+    },
+    {
+      "id": "jGCW8ZUrcqE",
+      "title": "Creating a Reducer & Action Creator in Redux | Complete React Course in Hindi #75",
+      "duration": 798
+    },
+    {
+      "id": "-uqTWF0GfxA",
+      "title": "Creating a Redux Store | Complete React Course in Hindi #76",
+      "duration": 594
+    },
+    {
+      "id": "TQGmTwrp_60",
+      "title": "Accessing State in Redux | Complete React Course in Hindi #77",
+      "duration": 344
+    },
+    {
+      "id": "UX6Kf48qCvs",
+      "title": "Updating state from a different component in Redux | Complete React Course in Hindi #78",
+      "duration": 671
+    }
+  ]
+}

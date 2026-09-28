@@ -1,0 +1,220 @@
+{
+  "courseId": "vue-js-tutorials-in-hindi-022950",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:34.772Z",
+  "title": "Vue JS",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "Cb7w_Wk56IE",
+      "title": "Introduction to Vue JS (Hindi)",
+      "duration": 635
+    },
+    {
+      "id": "jMmgvzHKXgw",
+      "title": "Visual Studio Code Crash Course (Hindi)",
+      "duration": 3559
+    },
+    {
+      "id": "xD3V3Uf9HPI",
+      "title": "NPM Crash Course (Hindi)",
+      "duration": 2981
+    },
+    {
+      "id": "gyG4qEjjDHk",
+      "title": "Create Vue JS Project using Vue Vite or Vue CLI (Hindi)",
+      "duration": 1909
+    },
+    {
+      "id": "c-K1ke6naaI",
+      "title": "Download Vue JS Study Material (Hindi)",
+      "duration": 558
+    },
+    {
+      "id": "UtZArb71gmI",
+      "title": "Vue JS Project Directory Structure (Hindi)",
+      "duration": 1385
+    },
+    {
+      "id": "kAwOW-4ISRU",
+      "title": "Options API and Composition API in Vue JS (Hindi)",
+      "duration": 737
+    },
+    {
+      "id": "wwZHUawKB7Q",
+      "title": "Component and Single File Component in Vue JS (Hindi)",
+      "duration": 2689
+    },
+    {
+      "id": "iVWoEm1X760",
+      "title": "Text Interpolation in Vue JS (Hindi)",
+      "duration": 742
+    },
+    {
+      "id": "a2E95XhxiuY",
+      "title": "Attribute Binding v-bind (Hindi)",
+      "duration": 1503
+    },
+    {
+      "id": "dJKH8n3PhbQ",
+      "title": "Reactivity using reactive and ref in Vue JS (Hindi)",
+      "duration": 4047
+    },
+    {
+      "id": "XXc10z16k6U",
+      "title": "Reactivity Utilities isRef isReactive unref toRef toRefs in Vue Js (Hindi)",
+      "duration": 1445
+    },
+    {
+      "id": "OsDK8wbSk8s",
+      "title": "Method and Computed Property in Vue Js (Hindi)",
+      "duration": 2329
+    },
+    {
+      "id": "gzupwzMCtNU",
+      "title": "Binding Inline CSS Style using Style Binding in Vue Js (Hindi)",
+      "duration": 1533
+    },
+    {
+      "id": "FfjjWIGxduo",
+      "title": "HTML class Attribute Binding in Vue Js (Hindi)",
+      "duration": 2580
+    },
+    {
+      "id": "wgNnGjjHzR8",
+      "title": "How to use CSS in Vue Js (Hindi)",
+      "duration": 2769
+    },
+    {
+      "id": "YfV3AIoIvUY",
+      "title": "Conditional Rendering in Vue Js (Hindi)",
+      "duration": 2089
+    },
+    {
+      "id": "C68pyWuTuZI",
+      "title": "List Rendering v for in Vue Js (Hindi)",
+      "duration": 4800
+    },
+    {
+      "id": "L980_Atgz08",
+      "title": "Event Handling in Vue Js (Hindi)",
+      "duration": 3037
+    },
+    {
+      "id": "0x9ad6HSaqU",
+      "title": "Form in Vue Js (Hindi)",
+      "duration": 2887
+    },
+    {
+      "id": "xFFewMKeVhs",
+      "title": "Props and Prop Validation in Vue Js (Hindi)",
+      "duration": 5029
+    },
+    {
+      "id": "BdZFZO_mQXU",
+      "title": "Component Event in Vue Js (Hindi)",
+      "duration": 3933
+    },
+    {
+      "id": "4Ca5XoGON4U",
+      "title": "Slot and Named Slot in Vue Js (Hindi)",
+      "duration": 3284
+    },
+    {
+      "id": "MPZt2ZpUgzE",
+      "title": "Fallthrough Attribute in Vue Js (Hindi)",
+      "duration": 2776
+    },
+    {
+      "id": "5PidaOFeEz4",
+      "title": "Provide and Inject in Vue Js (Hindi)",
+      "duration": 4442
+    },
+    {
+      "id": "9Q35mssPNJY",
+      "title": "Lifecyle Hooks in Vue Js (Hindi)",
+      "duration": 1403
+    },
+    {
+      "id": "SvFtXoTuVJE",
+      "title": "Watchers in Vue Js (Hindi)",
+      "duration": 4397
+    },
+    {
+      "id": "TCPiMKMXESs",
+      "title": "Template ref in Vue Js (Hindi)",
+      "duration": 2322
+    },
+    {
+      "id": "7o9EDcPbFFY",
+      "title": "Async Component in Vue Js (Hindi)",
+      "duration": 1951
+    },
+    {
+      "id": "9SCE_HAxQRE",
+      "title": "Composables in Vue Js (Hindi)",
+      "duration": 3128
+    },
+    {
+      "id": "56XDOho9RVQ",
+      "title": "Custom Directive in Vue Js (Hindi)",
+      "duration": 3077
+    },
+    {
+      "id": "lWTJZ6ODfgs",
+      "title": "Custom Plugin in Vue Js (Hindi)",
+      "duration": 1588
+    },
+    {
+      "id": "FoHbYOOVg8Y",
+      "title": "Transition and Animation in Vue Js (Hindi)",
+      "duration": 2475
+    },
+    {
+      "id": "HFzTJJP8qYM",
+      "title": "Dynamic Component in Vue Js (Hindi)",
+      "duration": 1136
+    },
+    {
+      "id": "RgLnRASAcFQ",
+      "title": "Cache Component using KeepAlive in Vue Js (Hindi)",
+      "duration": 1709
+    },
+    {
+      "id": "LluRGLb5fJk",
+      "title": "Teleport in Vue Js (Hindi)",
+      "duration": 1052
+    },
+    {
+      "id": "MuniA3-TKjI",
+      "title": "Suspense in Vue Js (Hindi)",
+      "duration": 852
+    },
+    {
+      "id": "iF1lkzQzgZc",
+      "title": "How to use Images in Vue Js (Hindi)",
+      "duration": 501
+    },
+    {
+      "id": "jc1J8sNUZNM",
+      "title": "How to use URL or Links in Vue Js (Hindi)",
+      "duration": 427
+    },
+    {
+      "id": "6OvtRSORI3g",
+      "title": "How to Make API Call in Vue Js (Hindi)",
+      "duration": 2740
+    },
+    {
+      "id": "mPzXryOCGYg",
+      "title": "How to Build Production Code in Vue (Hindi)",
+      "duration": 397
+    },
+    {
+      "id": "M-aLTb4xkJc",
+      "title": "What you should do after learning Vue Js (Hindi)",
+      "duration": 597
+    }
+  ]
+}

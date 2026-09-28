@@ -1,0 +1,340 @@
+{
+  "courseId": "javascript-tutorials-in-hindi-a4ede8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:04.365Z",
+  "title": "JavaScript Tutorials In Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "cvvwkgp4HBg",
+      "title": "Installing VS Code, Extensions & Setup | JavaScript Tutorial In Hindi #1",
+      "duration": 1154
+    },
+    {
+      "id": "n5Xm6us5-yU",
+      "title": "Console Logs, Errors, Warnings & More | JavaScript Tutorial In Hindi #2",
+      "duration": 1081
+    },
+    {
+      "id": "YKvoSoA9CPw",
+      "title": "Variables: let, const & var in JavaScript | JavaScript Tutorial In Hindi #3",
+      "duration": 1391
+    },
+    {
+      "id": "oKuUSBqv4rg",
+      "title": "Data Types in JavaScript (Primitive & Reference Types) | JavaScript Tutorial In Hindi #4",
+      "duration": 1037
+    },
+    {
+      "id": "XYFg6_V-c9Q",
+      "title": "JavaScript Type Conversion & Coercion | JavaScript Tutorial In Hindi #5",
+      "duration": 960
+    },
+    {
+      "id": "5H_RSfSfaRs",
+      "title": "Strings: Properties, Methods & Template Literals in JavaScript | JavaScript Tutorial In Hindi #6",
+      "duration": 1285
+    },
+    {
+      "id": "nlRtAF8Gu0A",
+      "title": "Arrays and Objects In JavaScript | JavaScript Tutorial In Hindi #7",
+      "duration": 923
+    },
+    {
+      "id": "vaZpDYOuprA",
+      "title": "If Else Conditionals & Switches in JavaScript | JavaScript Tutorial In Hindi #8",
+      "duration": 1037
+    },
+    {
+      "id": "SluQIaQD4Ug",
+      "title": "For, While & Do while Loops in JavaScript | JavaScript Tutorial In Hindi #9",
+      "duration": 1195
+    },
+    {
+      "id": "dsV07zIGfc4",
+      "title": "Functions in JavaScript | JavaScript Tutorial In Hindi #10",
+      "duration": 1032
+    },
+    {
+      "id": "36hwHnUdVAA",
+      "title": "Manipulating Websites Using JS Window Object | JavaScript Tutorial In Hindi #11",
+      "duration": 807
+    },
+    {
+      "id": "vzuOQnfOk2I",
+      "title": "Understanding DOM & Creating a Website Layout | JavaScript Tutorial In Hindi #12",
+      "duration": 966
+    },
+    {
+      "id": "fXWd_DxeW9s",
+      "title": "WebPage Crawler In JavaScript - Exercise 1 | JavaScript Tutorial In Hindi #13",
+      "duration": 191
+    },
+    {
+      "id": "p9V44AYNfQE",
+      "title": "HTML Element Selectors In JavaScript | JavaScript Tutorial In Hindi #14",
+      "duration": 993
+    },
+    {
+      "id": "087OGOITaKU",
+      "title": "Children, Parent & Traversing the DOM | JavaScript Tutorial In Hindi #15",
+      "duration": 1323
+    },
+    {
+      "id": "MeCPwvMQZ9o",
+      "title": "Creating, Removing & Replacing Elements | JavaScript Tutorial In Hindi #16",
+      "duration": 1013
+    },
+    {
+      "id": "rxPw8kJUPQ0",
+      "title": "Events & Event Object In JavaScript | JavaScript Tutorial In Hindi #17",
+      "duration": 663
+    },
+    {
+      "id": "XFKvwSxWDN0",
+      "title": "More on JavaScript Events | JavaScript Tutorial In Hindi #18",
+      "duration": 767
+    },
+    {
+      "id": "vDdQ6s_yeiA",
+      "title": "Smart Page Crawler In JS Exercise1: Solution | JavaScript Tutorial In Hindi #19",
+      "duration": 967
+    },
+    {
+      "id": "xSv-9Yod83Q",
+      "title": "Local & Session storage in JavaScript | JavaScript Tutorial In Hindi #20",
+      "duration": 1051
+    },
+    {
+      "id": "cPtIm7m4Gkg",
+      "title": "Creating Editable Div Using JavaScript: Exercise 2 | JavaScript Tutorial In Hindi #21",
+      "duration": 350
+    },
+    {
+      "id": "kwgNsNhYcHo",
+      "title": "Project 1: Build a Notes Taking Website Using Pure JavaScript | JavaScript Tutorial In Hindi #22",
+      "duration": 3478
+    },
+    {
+      "id": "IhARNbBrYrs",
+      "title": "Math Object In JavaScript | JavaScript Tutorial In Hindi #23",
+      "duration": 1042
+    },
+    {
+      "id": "7QaZ4lehCfk",
+      "title": "Date Object: Date & Time In JavaScript | JavaScript Tutorial In Hindi #24",
+      "duration": 712
+    },
+    {
+      "id": "kk6T2-xeW5A",
+      "title": "Creating an Editable Div Exercise 2: Solution | JavaScript Tutorial In Hindi #25",
+      "duration": 1201
+    },
+    {
+      "id": "eiJwqMpF3Wg",
+      "title": "Improving Magic Notes Website Exercise 3 | JavaScript Tutorial In Hindi #26",
+      "duration": 209
+    },
+    {
+      "id": "4cuJKHNHQ-s",
+      "title": "Object Literals, Constructors and Object Oriented JavaScript | JavaScript Tutorial In Hindi #27",
+      "duration": 925
+    },
+    {
+      "id": "nBs7t0j3x3c",
+      "title": "Object Prototype In javascript | JavaScript Tutorial In Hindi #28",
+      "duration": 759
+    },
+    {
+      "id": "AoeFRS3cRxQ",
+      "title": "Notes App with Title - Exercise 3: Solution | JavaScript Tutorial In Hindi #29",
+      "duration": 774
+    },
+    {
+      "id": "azTgmrQaYl0",
+      "title": "Prototype Inheritance In JavaScript | JavaScript Tutorial In Hindi #30",
+      "duration": 1292
+    },
+    {
+      "id": "YBBg6bp9ojA",
+      "title": "ES6 Classes and Inheritance | JavaScript Tutorial In Hindi #31",
+      "duration": 1442
+    },
+    {
+      "id": "_h8-WFuGnNo",
+      "title": "Implementing a library class - Exercise 4 | JavaScript Tutorial In Hindi #32",
+      "duration": 313
+    },
+    {
+      "id": "l6i8RDrhcqM",
+      "title": "Project 2: Building a College Library Website | JavaScript Tutorial In Hindi #33",
+      "duration": 3689
+    },
+    {
+      "id": "SWWl1o0LT1I",
+      "title": "What is Asynchronous Programming? | JavaScript Tutorial In Hindi #34",
+      "duration": 1053
+    },
+    {
+      "id": "FJZEVmF3eDg",
+      "title": "Ajax tutorial in hindi | JavaScript Tutorial In Hindi #35",
+      "duration": 2911
+    },
+    {
+      "id": "1fSEMGubXuc",
+      "title": "Library Class Implementation Exercise 4: Solution | JavaScript Tutorial In Hindi #36",
+      "duration": 968
+    },
+    {
+      "id": "zrvpCtlsRpk",
+      "title": "Callback functions in javascript | JavaScript Tutorial In Hindi #37",
+      "duration": 1069
+    },
+    {
+      "id": "VkBUSzawCKU",
+      "title": "Using a Dictionary API Exercise 5 | JavaScript Tutorial In Hindi #38",
+      "duration": 371
+    },
+    {
+      "id": "2IPw-mWe10U",
+      "title": "Promises Basics, Promise.then() & Promise.catch() | JavaScript Tutorial In Hindi #39",
+      "duration": 1328
+    },
+    {
+      "id": "w9bVm7VLqTI",
+      "title": "Project 3: Creating a News Website | JavaScript Tutorial In Hindi #40",
+      "duration": 2522
+    },
+    {
+      "id": "RwlL5pXPhfs",
+      "title": "Arrow functions in Javascript | JavaScript Tutorial In Hindi #41",
+      "duration": 628
+    },
+    {
+      "id": "38uPRscJXfo",
+      "title": "Fetch api in Javascript | JavaScript Tutorial In Hindi #42",
+      "duration": 1321
+    },
+    {
+      "id": "AyJq1RRaY_k",
+      "title": "Async/Await in Javascript | JavaScript Tutorial In Hindi #43",
+      "duration": 830
+    },
+    {
+      "id": "BcAYvnsbmMQ",
+      "title": "Error Handling & Try Catch in Javascript | JavaScript Tutorial In Hindi #44",
+      "duration": 880
+    },
+    {
+      "id": "z_VJvc0XZL0",
+      "title": "Using JavaScript Objects Exercise 5: Solution | JavaScript Tutorial In Hindi #45",
+      "duration": 1193
+    },
+    {
+      "id": "3IhQF4-HQdo",
+      "title": "JavaScript Regular Expressions & related functions | JavaScript Tutorial In Hindi #46",
+      "duration": 1738
+    },
+    {
+      "id": "4qnhPqdPpSo",
+      "title": "Regular Expressions - Metacharacters in JavaScript | JavaScript Tutorial In Hindi #47",
+      "duration": 1039
+    },
+    {
+      "id": "Fapp4FH2llM",
+      "title": "Regular Expressions - Character sets | JavaScript Tutorial In Hindi #48",
+      "duration": 1316
+    },
+    {
+      "id": "vyMlFKRfrNk",
+      "title": "Shorthand character classes (Regular Expressions) | JavaScript Tutorial In Hindi #49",
+      "duration": 1316
+    },
+    {
+      "id": "WD4fSUwY5zY",
+      "title": "Project 4: Form Validation using Regular Expressions | JavaScript Tutorial In Hindi #50",
+      "duration": 3451
+    },
+    {
+      "id": "2MNbH7sQK-I",
+      "title": "Iterators in JavaScript | JavaScript Tutorial In Hindi #51",
+      "duration": 900
+    },
+    {
+      "id": "6xSRk0vk1jg",
+      "title": "Creating an Alarm App: Exercise 6 | JavaScript Tutorial In Hindi #52",
+      "duration": 375
+    },
+    {
+      "id": "RN5FRD-yrz4",
+      "title": "Generators in Javascript | JavaScript Tutorial In Hindi #53",
+      "duration": 620
+    },
+    {
+      "id": "p5o_cApVATE",
+      "title": "Alarm Clock In JavaScript | JavaScript Tutorial In Hindi #54",
+      "duration": 1371
+    },
+    {
+      "id": "LJHqsSvF4_M",
+      "title": "Project 5: Creating a CV Screener In JavaScript | JavaScript Tutorial In Hindi #55",
+      "duration": 1909
+    },
+    {
+      "id": "Hxd-JjgHZQ4",
+      "title": "For.. of Loop vs For.. in Loop (When to use which?) | JavaScript Tutorial In Hindi #56",
+      "duration": 1177
+    },
+    {
+      "id": "Cv9gvXEyPdE",
+      "title": "JavaScript Maps | JavaScript Tutorial In Hindi #57",
+      "duration": 1287
+    },
+    {
+      "id": "nwgH8IOqRMA",
+      "title": "JavaScript Sets | JavaScript Tutorial In Hindi #58",
+      "duration": 1103
+    },
+    {
+      "id": "5ftatbD3MAI",
+      "title": "JavaScript Symbols | JavaScript Tutorial In Hindi #59",
+      "duration": 826
+    },
+    {
+      "id": "eIl7WcrmY1c",
+      "title": "JavaScript Destructuring | JavaScript Tutorial In Hindi #60",
+      "duration": 682
+    },
+    {
+      "id": "WIp6fi2h6dE",
+      "title": "JavaScript Wall Clock: Exercise 6 | JavaScript Tutorial In Hindi #61",
+      "duration": 249
+    },
+    {
+      "id": "ZB1gNlUreu4",
+      "title": "Creating a Clock: Exercise 6 Solution | JavaScript Tutorial In Hindi #62",
+      "duration": 959
+    },
+    {
+      "id": "g0gLojpleAg",
+      "title": "Project 6: PostMan Clone - Creating a Get/Post Request Website | JavaScript Tutorial In Hindi #63",
+      "duration": 5524
+    },
+    {
+      "id": "mp0PHdpEC7A",
+      "title": "Drag & Drop Elements with JavaScript and HTML | JavaScript Tutorial In Hindi #64",
+      "duration": 2301
+    },
+    {
+      "id": "yIdA6HvUi_Q",
+      "title": "Project 7: Creating a Calculator using HTML, CSS & JS | JavaScript Tutorial In Hindi #65",
+      "duration": 1933
+    },
+    {
+      "id": "hKB-YGF14SY",
+      "title": "JavaScript Tutorial In Hindi",
+      "duration": 13457
+    }
+  ]
+}

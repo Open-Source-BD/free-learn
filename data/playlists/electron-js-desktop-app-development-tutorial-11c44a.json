@@ -1,0 +1,55 @@
+{
+  "courseId": "electron-js-desktop-app-development-tutorial-11c44a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:12.905Z",
+  "title": "electron js desktop app development tutorial",
+  "channel": "Wap Institute",
+  "videos": [
+    {
+      "id": "BeOIUIejDLs",
+      "title": "Ch-1 Electron js - how to make desktop application by using html css and javascript in hindi",
+      "duration": 519
+    },
+    {
+      "id": "3Wtbqpaf0GA",
+      "title": "Ch-2 Electron js - browser window | remove app frame | hide menu bar | disable close button | hindi",
+      "duration": 669
+    },
+    {
+      "id": "Uqb95MQZwOY",
+      "title": "Ch-3 Electron js - convert website into desktop application | loadFile and loadURL in hindi",
+      "duration": 658
+    },
+    {
+      "id": "HSa5kaUVedc",
+      "title": "Ch-4 Electron js - how to minimize maximize and close app on button click | require is not defined",
+      "duration": 961
+    },
+    {
+      "id": "D1XlLvVzEYQ",
+      "title": "Ch-5 Electron js - send data from main process to renderer process | open a window on button click",
+      "duration": 688
+    },
+    {
+      "id": "_2JiUeFYqZ0",
+      "title": "Ch-6 Electron js - webview tag not working | $ is not defined | jquery not working | bootstrap setup",
+      "duration": 712
+    },
+    {
+      "id": "OKbhguSZQsc",
+      "title": "Ch-7 Electron js - project download manager part 1 in hindi",
+      "duration": 1292
+    },
+    {
+      "id": "vVMxgM-uG1Y",
+      "title": "Ch-8 Electron js - how to use php laravel python nodejs asp.net in electronjs hindi",
+      "duration": 717
+    },
+    {
+      "id": "kFGQI5gZt-k",
+      "title": "Ch-9 Electron js - how to package application in exe | electron-packager | electron-builder in hindi",
+      "duration": 525
+    }
+  ]
+}

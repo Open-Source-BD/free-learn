@@ -1,0 +1,40 @@
+{
+  "courseId": "10-hour-react-tutorial-2023-zero-to-advanced-learn-react-js-5333b5",
+  "sourceUrl": "https://www.youtube.com/watch?v=6l8RWV8D-Yo&list=PL2PkZdv6p7ZnS2QIz8WAPmqeqUUccPNQY",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:30.774Z",
+  "title": "Full Course in One Video",
+  "channel": "Coder Dost",
+  "videos": [
+    {
+      "id": "lGmRnu--iU8",
+      "title": "Complete JavaScript Course + Notes for Beginners in Hindi",
+      "duration": 37511
+    },
+    {
+      "id": "6l8RWV8D-Yo",
+      "title": "10-Hour React Tutorial 2023 - Zero to Advanced | Learn React JS in Hindi",
+      "duration": 35696
+    },
+    {
+      "id": "ChVE-JbtYbM",
+      "title": "12-Hour NodeJS Express MongoDB Tutorial 2023 | MERN stack in Hindi",
+      "duration": 43197
+    },
+    {
+      "id": "1zCNdVhdvHE",
+      "title": "7-Hour Redux and Redux Toolkit Tutorial in Hindi",
+      "duration": 24894
+    },
+    {
+      "id": "gUUCmRJjVvo",
+      "title": "JavaScript Interview Questions in One Video | JavaScript in Hindi",
+      "duration": 29567
+    },
+    {
+      "id": "LH-S5v-D3hA",
+      "title": "MERN E-Commerce - Admin Panel, Redux Toolkit, Payment Gateway, Cloud Deployment, Emails (Hindi)",
+      "duration": 43196
+    }
+  ]
+}

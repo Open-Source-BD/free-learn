@@ -1,0 +1,90 @@
+{
+  "courseId": "vue-js-tutorial-in-hindi-learning-from-documentation-cff2c4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWxTHN2c_6cZpCJBULGoubyWsbfI0gDGW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:32.103Z",
+  "title": "Vue JS Tutorial in Hindi (Learning from documentation)",
+  "channel": "Touseef Jamal",
+  "videos": [
+    {
+      "id": "bB_oouUqhn0",
+      "title": "Vue JS 3 in Hindi  #1 Introduction, features, project setup & code flow",
+      "duration": 3732
+    },
+    {
+      "id": "dQhRJTrD1W0",
+      "title": "Vue JS 3 in Hindi  #2 Components, data binding, text interpolation & directives",
+      "duration": 2040
+    },
+    {
+      "id": "BxQYixE3hi4",
+      "title": "Vue JS 3 in Hindi  #3 Class & style binding using v-bind, reactivity fundamentals & methods",
+      "duration": 2235
+    },
+    {
+      "id": "X43XCnJkkzs",
+      "title": "Vue JS 3 in Hindi  #4 Computed, methods vs computed, computed best practices",
+      "duration": 1511
+    },
+    {
+      "id": "RsXS2pFZglA",
+      "title": "Vue JS 3 in Hindi  #5 Conditional rendering, v-if, v-else, e-else-if and v-show",
+      "duration": 2500
+    },
+    {
+      "id": "VbjRfGWkJFw",
+      "title": "Vue JS 3 in Hindi  #6 List rendering and v-for directive",
+      "duration": 2241
+    },
+    {
+      "id": "o9ChBgiYaT0",
+      "title": "Vue JS 3 in Hindi  #7 Event handling, v-on directive & event modifiers",
+      "duration": 1571
+    },
+    {
+      "id": "eWw97qT5GAc",
+      "title": "Vue JS 3 in Hindi  #8 Form handling & v-model directive",
+      "duration": 2227
+    },
+    {
+      "id": "yrdJH56chT8",
+      "title": "Vue JS 3 in Hindi  #9 Watchers, deep watchers & computed vs watchers",
+      "duration": 2475
+    },
+    {
+      "id": "XfORuBY5uQ0",
+      "title": "Vue JS 3 in Hindi  #10 Lifecycle hooks & Template ref",
+      "duration": 2163
+    },
+    {
+      "id": "OWeWCbnTxEQ",
+      "title": "Vue JS 3 in Hindi  #11 Component & props",
+      "duration": 2894
+    },
+    {
+      "id": "pt8LA8AmSp8",
+      "title": "Vue JS 3 in Hindi #12 Events and emit | Todo list in vue js",
+      "duration": 2247
+    },
+    {
+      "id": "XN9qhmq2xQE",
+      "title": "Vue JS 3 in Hindi #13 Slots and Dynamic Component",
+      "duration": 2703
+    },
+    {
+      "id": "sAJqOHA8FE4",
+      "title": "Vue JS 3 in Hindi #14 v-model on Component, fall through attributes & provide & inject",
+      "duration": 2056
+    },
+    {
+      "id": "U5qdlv5L1mM",
+      "title": "Vue JS 3 in Hindi #15 Routing & Vue Router v4",
+      "duration": 2950
+    },
+    {
+      "id": "xbCPuRWisq8",
+      "title": "Vue JS 3 in Hindi #16 Vue Router v4 (in-depth), dynamic routing, nested routing, navigation guard...",
+      "duration": 5378
+    }
+  ]
+}

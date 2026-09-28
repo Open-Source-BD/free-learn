@@ -1,0 +1,460 @@
+{
+  "courseId": "java-tutorial-in-hindi-for-beginners-344a37",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV466xs0qGUvLGAXy6xLyEcQy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:10.198Z",
+  "title": "Java tutorial in Hindi for beginners",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "Iskzda0zpuU",
+      "title": "Java tutorial in Hindi for beginners #1 Introduction of course",
+      "duration": 404
+    },
+    {
+      "id": "-Y36chnRFxU",
+      "title": "React, Node, Angular, Gen-AI live classes | The Coding Skills",
+      "duration": 67
+    },
+    {
+      "id": "yGPIydkNz0s",
+      "title": "Java tutorial in Hindi for beginners #2 What is Java ?",
+      "duration": 588
+    },
+    {
+      "id": "lITsZKidY1s",
+      "title": "Java tutorial in Hindi for beginners #3 Install Java in Windows | java 19",
+      "duration": 671
+    },
+    {
+      "id": "Xq1zPeEXvQw",
+      "title": "Java tutorial in Hindi for beginners #4 install intellij idea for Java",
+      "duration": 586
+    },
+    {
+      "id": "zIKqVxABNVM",
+      "title": "Java tutorial in Hindi for beginners #5 Install Eclipse for Java in windows",
+      "duration": 787
+    },
+    {
+      "id": "t60YeZxEVDY",
+      "title": "Java tutorial in Hindi for beginners #6 Java with VS code editor | run java code in Visual studio",
+      "duration": 550
+    },
+    {
+      "id": "9hesE4O8Was",
+      "title": "Java tutorial in Hindi for beginners #7 First Program in java  | Hello World in java",
+      "duration": 1110
+    },
+    {
+      "id": "AsW84fA4Nb8",
+      "title": "Java tutorial in Hindi for beginners #8 what is variable and data type in java",
+      "duration": 992
+    },
+    {
+      "id": "WhfeDv7UKXo",
+      "title": "Java tutorial in Hindi for beginners #9 what are Data types in detail | java data type in hindi",
+      "duration": 1267
+    },
+    {
+      "id": "2eiVPH3GLtY",
+      "title": "Java tutorial in Hindi for beginners #10  Data type and variable example | All data types in java",
+      "duration": 935
+    },
+    {
+      "id": "CKYVaX_DnyM",
+      "title": "Java tutorial in Hindi for beginners #11  Literals in java in Hindi | Literals  types in JAVA",
+      "duration": 748
+    },
+    {
+      "id": "rCqkxUAuhtg",
+      "title": "Java tutorial in Hindi for beginners #12 Arithmetic Operator | Operators in JAVA",
+      "duration": 464
+    },
+    {
+      "id": "DYc9vwNYkX8",
+      "title": "Java tutorial in Hindi for beginners #13 Unary Operator | Unary Operators in JAVA",
+      "duration": 571
+    },
+    {
+      "id": "LCpWswTCFUQ",
+      "title": "Java tutorial in Hindi for beginners #14 Comparison Operators | Comparison Operators in JAVA",
+      "duration": 525
+    },
+    {
+      "id": "uJP9XTL0GSc",
+      "title": "Java tutorial in Hindi for beginners #15 Assignment Operators | Assignment Operators in JAVA",
+      "duration": 391
+    },
+    {
+      "id": "htuJ9qaeMJA",
+      "title": "Java tutorial in Hindi for beginners #16 Logical Operators | Logical Operators in JAVA",
+      "duration": 562
+    },
+    {
+      "id": "G0PUSWmpTwI",
+      "title": "Java tutorial in Hindi for beginners #17 Get input from the user in Java | Scanner class in JAVA",
+      "duration": 710
+    },
+    {
+      "id": "J3Q-QQfUkOY",
+      "title": "Java tutorial in Hindi for beginners #18 If else statement in java | Conditions in Java",
+      "duration": 623
+    },
+    {
+      "id": "lkceQupdFOE",
+      "title": "Java tutorial in Hindi for beginners #19 Nested If else statement in java | Nested Conditions Java",
+      "duration": 482
+    },
+    {
+      "id": "3DeddDGmtv0",
+      "title": "Java tutorial in Hindi for beginners #20 Control statement with user input in java",
+      "duration": 360
+    },
+    {
+      "id": "mlpGp-Lo2-Y",
+      "title": "Java tutorial in Hindi for beginners #21 How to make function in Java | function in Java",
+      "duration": 650
+    },
+    {
+      "id": "S6xSDI43pfY",
+      "title": "Java tutorial in Hindi for beginners #22 Parameterized Function in Java | Function arguments",
+      "duration": 685
+    },
+    {
+      "id": "VmeNMj4jwro",
+      "title": "Java tutorial in Hindi for beginners #23 Return VS  Println in Java | what is return in Java",
+      "duration": 458
+    },
+    {
+      "id": "0m57t0Dl6zw",
+      "title": "Java - Call function from same class in JAVA in Hindi",
+      "duration": 999
+    },
+    {
+      "id": "JVawZmQBaP4",
+      "title": "Java tutorial in Hindi for beginners #24 What is class in Java | Class and Object in Java",
+      "duration": 839
+    },
+    {
+      "id": "qfIlZmGw3Mc",
+      "title": "Java tutorial in Hindi for beginners #25 What is Object in java | JAVA Object in Hindi",
+      "duration": 692
+    },
+    {
+      "id": "9P5NovhiUz4",
+      "title": "Java tutorial in Hindi for beginners #26 For Loop in Java | JAVA for loop in Hindi | loops",
+      "duration": 634
+    },
+    {
+      "id": "7azau3JVZ1U",
+      "title": "Java tutorial in Hindi for beginners #27 Nested For Loop in Java | JAVA nested for loop",
+      "duration": 580
+    },
+    {
+      "id": "dDSdFcZ1bKs",
+      "title": "Java tutorial in Hindi for beginners #28 While Loop in Java | java while loop",
+      "duration": 497
+    },
+    {
+      "id": "Bi0n7UgMuoc",
+      "title": "Java tutorial in Hindi for beginners #29 Do While Loop in Java | java do-while loop",
+      "duration": 424
+    },
+    {
+      "id": "Gos62oCsesA",
+      "title": "Java tutorial in Hindi for beginners #30 Break and continue in Java  | java break vs continue",
+      "duration": 472
+    },
+    {
+      "id": "-kXHlXLmr2s",
+      "title": "Java tutorial in Hindi for beginners #31 Switch Case in Java  | Java Switch in Hindi",
+      "duration": 476
+    },
+    {
+      "id": "HVwB0WxGr_4",
+      "title": "Java tutorial in Hindi for beginners #32 Array in Java  | Java Array in Hindi",
+      "duration": 835
+    },
+    {
+      "id": "xaha-r8L4XA",
+      "title": "Java tutorial in Hindi for beginners #33 Array with input in Java  | Java Array with user input",
+      "duration": 540
+    },
+    {
+      "id": "rKm5vTVwLls",
+      "title": "Java tutorial in Hindi for beginners #34 Two Dimensional Array in Java  | 2 D Array in Hindi",
+      "duration": 1014
+    },
+    {
+      "id": "ElxkWWBKck4",
+      "title": "Java tutorial in Hindi for beginners #35 Two Dimensional Array with Input in Java",
+      "duration": 464
+    },
+    {
+      "id": "kCUptPemDYY",
+      "title": "Java tutorial in Hindi for beginners #36 Strings in Java | Important Methods of Java String in Hindi",
+      "duration": 611
+    },
+    {
+      "id": "GUbDMA71sac",
+      "title": "Java tutorial in Hindi for beginners #37 Object Oriented Programming Java in  Hindi | OOPS in Hindi",
+      "duration": 505
+    },
+    {
+      "id": "BII2-EI9lDM",
+      "title": "Java tutorial in Hindi for beginners #38 Java class and Object in Hindi",
+      "duration": 388
+    },
+    {
+      "id": "ofV2kYz-f-Y",
+      "title": "Java tutorial in Hindi for beginners #39 java constructor in Hindi",
+      "duration": 566
+    },
+    {
+      "id": "i16LhFeY7II",
+      "title": "Java tutorial in Hindi for beginners #40 java Static variable in Hindi",
+      "duration": 703
+    },
+    {
+      "id": "alQ7aCNWVO4",
+      "title": "Java tutorial in Hindi for beginners #41 java Static Methods in Hindi",
+      "duration": 302
+    },
+    {
+      "id": "66B2b11yJ4I",
+      "title": "Java tutorial in Hindi for beginners #42 java Nested class in Hindi | Nested Classes",
+      "duration": 461
+    },
+    {
+      "id": "8IxrqeNf5to",
+      "title": "Java tutorial in Hindi for beginners #43 java static class in Hindi | Static class",
+      "duration": 492
+    },
+    {
+      "id": "6xmrko16Ywo",
+      "title": "Java tutorial in Hindi for beginners #44 Two Constructors in java | Multiple Constructors",
+      "duration": 366
+    },
+    {
+      "id": "puHNuMZOPOI",
+      "title": "Java tutorial in Hindi for beginners #45 This in java | this keyword in java | Java this in hindi",
+      "duration": 516
+    },
+    {
+      "id": "VZTNsHkN2GE",
+      "title": "Java tutorial in Hindi for beginners #46 java inheritance in Hindi | Inheritance  in JAVA",
+      "duration": 399
+    },
+    {
+      "id": "na_4tGCB-Xo",
+      "title": "Java tutorial in Hindi for beginners #47 Single inheritance in Hindi | single inheritance in JAVA",
+      "duration": 823
+    },
+    {
+      "id": "F6SE_5h7InY",
+      "title": "Java tutorial in Hindi for beginners #48 Multilevel Inheritance in Hindi | multi-level inheritance",
+      "duration": 552
+    },
+    {
+      "id": "o8bEJ60lWns",
+      "title": "Java tutorial in Hindi for beginners #48 Hierarchical Inheritance in Hindi",
+      "duration": 534
+    },
+    {
+      "id": "go4c9seTlY8",
+      "title": "Java tutorial in Hindi for beginners #50 Interface in Hindi | Java Interface in hindi",
+      "duration": 700
+    },
+    {
+      "id": "36ATxsCHdrg",
+      "title": "Java tutorial in Hindi for beginners #51 Multiple Inheritance in Hindi | Java Multiple Inheritance",
+      "duration": 614
+    },
+    {
+      "id": "7gc7YqtwCdc",
+      "title": "Java tutorial in Hindi for beginners #52 Java Hybrid inheritance in Hindi | Hybrid Inheritance Java",
+      "duration": 835
+    },
+    {
+      "id": "_mArYbqBWOE",
+      "title": "Java tutorial in Hindi for beginners #53 Java Abstract class in Hindi | Abstract class Java",
+      "duration": 651
+    },
+    {
+      "id": "v_Ol85_zMxg",
+      "title": "Java tutorial in Hindi for beginners #54 Interface vs Abstract Class in Hindi",
+      "duration": 510
+    },
+    {
+      "id": "-brASIG8HQM",
+      "title": "Java tutorial in Hindi for beginners #55 Aggregation Java in Hindi",
+      "duration": 849
+    },
+    {
+      "id": "omlGa93Ui2o",
+      "title": "Java tutorial in Hindi for beginners #56 JAVA Method Overloading in Hindi",
+      "duration": 567
+    },
+    {
+      "id": "XG-MzzWFwEc",
+      "title": "Java tutorial in Hindi for beginners #57 Method overriding in Hindi | java Method Overriding",
+      "duration": 468
+    },
+    {
+      "id": "4VhtnpIsass",
+      "title": "Java tutorial in Hindi for beginners #58 Method Overloading with inheritance in Hindi",
+      "duration": 421
+    },
+    {
+      "id": "RF22vm2IoCs",
+      "title": "Java tutorial in Hindi for beginners #59 Java Super keyword in hindi  | super in java",
+      "duration": 363
+    },
+    {
+      "id": "hs9WzN5NNxo",
+      "title": "Java tutorial in Hindi for beginners #60 Java Covariant in hindi | covariant in Java",
+      "duration": 373
+    },
+    {
+      "id": "A7lYfo9H_6E",
+      "title": "Java tutorial in Hindi for beginners #61 try catch java in Hindi | exception handling",
+      "duration": 458
+    },
+    {
+      "id": "X6lgoGOSyQY",
+      "title": "Java tutorial in Hindi for beginners #62 Java throw and throws | different in Throw and Throws",
+      "duration": 511
+    },
+    {
+      "id": "ALQquxG--dU",
+      "title": "Java tutorial in Hindi for beginners #63 Create file and write file in java in Hindi | File System",
+      "duration": 557
+    },
+    {
+      "id": "3uI36meKwvs",
+      "title": "Java tutorial in Hindi for beginners #64 Java Read file in Hindi | read file in Java",
+      "duration": 529
+    },
+    {
+      "id": "tCJ0RqVzn5c",
+      "title": "Java tutorial in Hindi for beginners #65 Java Get file info in Hindi | get file details  in Java",
+      "duration": 557
+    },
+    {
+      "id": "D_zAtxi_-p0",
+      "title": "Java tutorial in Hindi for beginners #66 Create Multiple file in java in Hindi",
+      "duration": 556
+    },
+    {
+      "id": "nTPhQPtAPqU",
+      "title": "Java tutorial in Hindi for beginners #67 Java Delete File in hindi",
+      "duration": 296
+    },
+    {
+      "id": "KZM0mLNhSdg",
+      "title": "Java tutorial in Hindi for beginners #68 Install MySQL and Workbench in Hindi",
+      "duration": 868
+    },
+    {
+      "id": "rcxz9otHiak",
+      "title": "Java tutorial in Hindi for beginners #69 why need database with Java in Hindi",
+      "duration": 461
+    },
+    {
+      "id": "KipCKAuQ5Fw",
+      "title": "Java tutorial in Hindi for beginners #70 java JDBC connection to MySQL in Hindi | intellij idea",
+      "duration": 1277
+    },
+    {
+      "id": "QOhN6wBV1vE",
+      "title": "Java tutorial in Hindi for beginners #71Get data from Table JDBC connection to MySQL |  intellij",
+      "duration": 745
+    },
+    {
+      "id": "-PiTweZF6uw",
+      "title": "Java tutorial in Hindi for beginners #72 Insert Data Java to MySQL | JDBC | MySQL | IntelliJ",
+      "duration": 548
+    },
+    {
+      "id": "SeoB5BeyAc4",
+      "title": "Java tutorial in Hindi for beginners #73 Delete record from MySQL Database | JDBC | MySQL | IntelliJ",
+      "duration": 361
+    },
+    {
+      "id": "KOBi7MVLdag",
+      "title": "Java tutorial in Hindi for beginners #74 Update record from MySQL Database | JDBC | MySQL | IntelliJ",
+      "duration": 426
+    },
+    {
+      "id": "biLrWCCAIqw",
+      "title": "Java tutorial in Hindi for beginners #75 Java Get record with input from MySQL Database",
+      "duration": 470
+    },
+    {
+      "id": "yFid5nxaTDE",
+      "title": "Java tutorial in Hindi for beginners #77 uninstall  java from Mac OS | mac book | m1",
+      "duration": 331
+    },
+    {
+      "id": "aiN_ctvmGOg",
+      "title": "Java tutorial in Hindi for beginners #76 install java in Mac OS | mac book | m1",
+      "duration": 780
+    },
+    {
+      "id": "cNOSwaTtBW0",
+      "title": "Java tutorial in Hindi for beginners #78 Final keyword in Java",
+      "duration": 358
+    },
+    {
+      "id": "nKK-a8vfNm4",
+      "title": "Java interview question and answers #1 output and tricky questions #javaquestions #javaquiz",
+      "duration": 190
+    },
+    {
+      "id": "F6MCpFTUjyc",
+      "title": "Java interview question and answers #2 output and tricky questions #javaquestions #javaquiz",
+      "duration": 96
+    },
+    {
+      "id": "VHUxSO8fzLQ",
+      "title": "Java interview question and answers #3 comparison operator | space | Output and Tricky questions",
+      "duration": 132
+    },
+    {
+      "id": "vQ3_eEriTRw",
+      "title": "Java interview question and answers #4 Logical Question | Swap Variable Values",
+      "duration": 135
+    },
+    {
+      "id": "_Glm3Zdrdhg",
+      "title": "Java interview question and answers #5 Static Property",
+      "duration": 143
+    },
+    {
+      "id": "IzchlSjW7tA",
+      "title": "Java interview question and answers #5 JAVA asynchronous or synchronous #javaquestions",
+      "duration": 131
+    },
+    {
+      "id": "9SN47a5ztIs",
+      "title": "Java interview question and answers #7 JAVA is Client side or Server Side scripting Language",
+      "duration": 78
+    },
+    {
+      "id": "3CXrUA6VWeg",
+      "title": "Java interview question and answers #9 JAVA output bases interview question",
+      "duration": 72
+    },
+    {
+      "id": "0YsQT2Tw0SE",
+      "title": "Java interview question and answers # Nested Class in Java",
+      "duration": 63
+    },
+    {
+      "id": "f4O796dgdW0",
+      "title": "Java interview question and answers #10 Nested Class in Java",
+      "duration": 133
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "courseId": "nodejs-in-hindi-734c34",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:22.098Z",
+  "title": "Node js in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "zaLfOjNEOaQ",
+      "title": "Node JS  in Hindi #1 what is Node | Introduction",
+      "duration": 736
+    },
+    {
+      "id": "2UUYNJRhy-8",
+      "title": "Node JS  in Hindi #2 Basic Point Before Start with Code",
+      "duration": 353
+    },
+    {
+      "id": "PToSHV6fSNU",
+      "title": "Node JS in Hindi #3 Install node , NPM",
+      "duration": 414
+    },
+    {
+      "id": "ZX6XEAdChe4",
+      "title": "Node JS in Hindi #4 Make First Program",
+      "duration": 582
+    },
+    {
+      "id": "UE2tYTsJ-Zc",
+      "title": "Node JS in Hindi #5 JavaScript Fundamentals in Node",
+      "duration": 908
+    },
+    {
+      "id": "XsGZhbGFUnI",
+      "title": "Node JS in Hindi #6 Core Modules",
+      "duration": 597
+    },
+    {
+      "id": "s7pbkArwS4E",
+      "title": "Node JS in Hindi #7 Create Server",
+      "duration": 634
+    },
+    {
+      "id": "49ZV-veYRyk",
+      "title": "Node JS in Hindi #8 All About Package.json file",
+      "duration": 836
+    },
+    {
+      "id": "MwqxLxsIDxs",
+      "title": "Node JS in Hindi #9 A challenge and 2 important interview question",
+      "duration": 414
+    },
+    {
+      "id": "koqeBGT1-VM",
+      "title": "Node JS in Hindi # 10 All About Nodemon package",
+      "duration": 501
+    },
+    {
+      "id": "Rwvv3wkOB1c",
+      "title": "Node JS in Hindi # 11 Simple and basic API",
+      "duration": 653
+    },
+    {
+      "id": "N4JzPYB4TqE",
+      "title": "Node JS in Hindi # 12 Getting input from command line",
+      "duration": 719
+    },
+    {
+      "id": "OfLCRkxFPCc",
+      "title": "Node JS in Hindi # 13 Display file list from folder",
+      "duration": 944
+    },
+    {
+      "id": "2AT2a9x2SKw",
+      "title": "Node JS in Hindi # 14 Asynchronous Programming Language",
+      "duration": 561
+    },
+    {
+      "id": "GVbZrBYkX1g",
+      "title": "Node JS in Hindi # 15 Asynchronous Programming Language",
+      "duration": 580
+    },
+    {
+      "id": "c7UHh04AFbc",
+      "title": "Node JS in Hindi # 16 Handle Asynchronous Data",
+      "duration": 442
+    },
+    {
+      "id": "mGVFltBxLKU",
+      "title": "Node JS in Hindi # 17 How Node js Works",
+      "duration": 916
+    },
+    {
+      "id": "KW0qyqY8y48",
+      "title": "Node JS in Hindi # 18 Express js Introduction",
+      "duration": 691
+    },
+    {
+      "id": "exO_AupvPL0",
+      "title": "Node JS in Hindi # 19 Routing Params - Request and Response",
+      "duration": 392
+    },
+    {
+      "id": "JOLxMq1OOcA",
+      "title": "Node JS in Hindi # 20 Render HTML and JSON",
+      "duration": 402
+    },
+    {
+      "id": "XReqL-YJJw0",
+      "title": "Node JS in Hindi # 21 Make HTML page",
+      "duration": 537
+    },
+    {
+      "id": "Y1tpbTMLPF8",
+      "title": "Node JS in Hindi # 22 Remove extension from URL and 404 Page",
+      "duration": 461
+    },
+    {
+      "id": "AhSIde-hTJg",
+      "title": "Node JS in Hindi # 23 EJS Template Engine",
+      "duration": 489
+    },
+    {
+      "id": "IimRcGYN3gA",
+      "title": "Node JS in Hindi # 24 Dynamic Page with ejs",
+      "duration": 583
+    },
+    {
+      "id": "6Spfry-_fAY",
+      "title": "Node JS in Hindi # 25 Express js Middleware",
+      "duration": 622
+    },
+    {
+      "id": "2e2E5cvLw0g",
+      "title": "Node JS in Hindi # 26 Route level Middleware express js",
+      "duration": 666
+    },
+    {
+      "id": "aypuKm_1kng",
+      "title": "Node JS in Hindi # 27 Install MongoDB",
+      "duration": 773
+    },
+    {
+      "id": "I93L6yeJhtw",
+      "title": "Node JS in Hindi # 28 MongoDB Basic - 1",
+      "duration": 906
+    },
+    {
+      "id": "TjZiwSLrS5U",
+      "title": "Node JS in Hindi # 29 MongoDB Curd Operation",
+      "duration": 847
+    },
+    {
+      "id": "_5kf2l5vVvM",
+      "title": "Node JS in Hindi # 30 Connect MongoDB with Node js",
+      "duration": 771
+    },
+    {
+      "id": "L-Ugvseg24o",
+      "title": "Node JS in Hindi # 31 Read Data from MongoDB",
+      "duration": 925
+    },
+    {
+      "id": "79Ze6Pe6lKg",
+      "title": "Node JS in Hindi #32 Insert Data in MongoDB",
+      "duration": 566
+    },
+    {
+      "id": "QDgb9oA28Zk",
+      "title": "Node JS in Hindi #33 Update Data in MongoDB",
+      "duration": 453
+    },
+    {
+      "id": "VMoFn7-iZfE",
+      "title": "Node JS in Hindi #34 Delete Record in MongoDB",
+      "duration": 483
+    },
+    {
+      "id": "uDcLa97F_zg",
+      "title": "Node JS in Hindi #35 Basic GET API with MongoDB",
+      "duration": 769
+    },
+    {
+      "id": "Ewzrmb_vpxk",
+      "title": "Node JS in Hindi #36 Post API | insert data in MongoDB",
+      "duration": 786
+    },
+    {
+      "id": "irAmu7bXhiA",
+      "title": "Node JS in Hindi #37 PUT API | Update data in MongoDB",
+      "duration": 711
+    },
+    {
+      "id": "lmNAejUdomI",
+      "title": "Node JS in Hindi #38 Delete API | delete data from MongoDB",
+      "duration": 374
+    },
+    {
+      "id": "TKbqzoeYKmo",
+      "title": "Node JS in Hindi #39 Mongoose with node",
+      "duration": 836
+    },
+    {
+      "id": "PkoV-nUYhM4",
+      "title": "Node JS in Hindi #40 CRUD with Mongoose",
+      "duration": 797
+    },
+    {
+      "id": "usnMaVgtk7M",
+      "title": "Node JS in Hindi #41 Post API with mongoose , How to make post API in Node js",
+      "duration": 949
+    },
+    {
+      "id": "PiPIda-NxcU",
+      "title": "Node JS in Hindi #42 GET, DELETE and PUT api method with mongoose",
+      "duration": 779
+    },
+    {
+      "id": "T6S1-TuPBzg",
+      "title": "Node JS in Hindi #43 Search API with multiple filed",
+      "duration": 487
+    },
+    {
+      "id": "7BnTHapJmD0",
+      "title": "Node JS in Hindi #44 Upload File",
+      "duration": 562
+    },
+    {
+      "id": "26cO5o6APf0",
+      "title": "Node JS in Hindi #45 OS module",
+      "duration": 307
+    },
+    {
+      "id": "7QBb6n-Wj3A",
+      "title": "Node JS in Hindi #46 Events and  Event Emitter",
+      "duration": 605
+    },
+    {
+      "id": "OWoHVv16ThY",
+      "title": "Node JS in Hindi #47 REPL -  Read-Eval-Print-Loop",
+      "duration": 287
+    },
+    {
+      "id": "veCDcGmMPQg",
+      "title": "Node JS in Hindi #48 connect with mysql",
+      "duration": 414
+    },
+    {
+      "id": "lmO02UGwvRs",
+      "title": "Node JS in Hindi #49 GET API with MySQL",
+      "duration": 505
+    },
+    {
+      "id": "1x3P_XcgiyE",
+      "title": "Node JS in Hindi #50 POST API with MySQL",
+      "duration": 515
+    },
+    {
+      "id": "t7qGD_2wyEY",
+      "title": "Node JS in Hindi #51 PUT API with MySQL",
+      "duration": 682
+    },
+    {
+      "id": "I8PXqGre5zY",
+      "title": "Node JS in Hindi #52 DELETE API with MySQL",
+      "duration": 366
+    },
+    {
+      "id": "KJzos7yLD40",
+      "title": "PHP vs Node js in Hindi",
+      "duration": 1348
+    },
+    {
+      "id": "JDJ-tkxFpJI",
+      "title": "JavaScript vs PHP Hindi - Salary, Job, future, Competition",
+      "duration": 934
+    },
+    {
+      "id": "EAkLuk-4KuI",
+      "title": "React and node js project in Hindi # 1 Introduction - MERN stack",
+      "duration": 522
+    },
+    {
+      "id": "LLlQs5SFxSU",
+      "title": "React and node js project in Hindi # 2 Setup- MERN stack",
+      "duration": 447
+    },
+    {
+      "id": "1mrRhelwXsA",
+      "title": "React and node js project in Hindi # 3 Frontend Setup (react.js )",
+      "duration": 280
+    },
+    {
+      "id": "GSpIpbG9zDA",
+      "title": "React and node js project in Hindi #4 Routing add in react.js",
+      "duration": 835
+    },
+    {
+      "id": "_10oHfCLgpc",
+      "title": "React and node js project in Hindi #5 Header and Footer",
+      "duration": 610
+    },
+    {
+      "id": "4Gqp_ieq6WQ",
+      "title": "React and node js project in Hindi #6 SignUp page Layout",
+      "duration": 1059
+    },
+    {
+      "id": "p08c0kPHD7E",
+      "title": "React and node js project in Hindi #7 install MongoDB",
+      "duration": 333
+    },
+    {
+      "id": "mSJViSApT0U",
+      "title": "React and node js project in Hindi #8 Node js connect with  MongoDB",
+      "duration": 650
+    },
+    {
+      "id": "6VVtvyN1yOo",
+      "title": "React and node JS project in Hindi #9 Signup API",
+      "duration": 1087
+    },
+    {
+      "id": "5kLEB_rVgvM",
+      "title": "React and node JS project in Hindi #10 Cors issue in Node js",
+      "duration": 270
+    },
+    {
+      "id": "NaszZ20dHYQ",
+      "title": "React and node JS project in Hindi #11 Integrate SignUp API in React",
+      "duration": 721
+    },
+    {
+      "id": "AUMp1eZOyXE",
+      "title": "React and node JS project in Hindi #12 Complete Signup Flow",
+      "duration": 1217
+    },
+    {
+      "id": "8wlUDNPKVEs",
+      "title": "React and node JS project in Hindi #13 Logout tutorial",
+      "duration": 354
+    },
+    {
+      "id": "NG83kMAyCXM",
+      "title": "React and node JS project in Hindi #14 Login API in NodeJs",
+      "duration": 677
+    },
+    {
+      "id": "X5gTGVnktCs",
+      "title": "React and node JS project in Hindi #15 Login Component UI",
+      "duration": 680
+    },
+    {
+      "id": "PDeczuiZXdE",
+      "title": "React and node JS project in Hindi #16 Login API integration",
+      "duration": 707
+    },
+    {
+      "id": "gGjg5SsQSeY",
+      "title": "React and node JS project in Hindi #17 React js Navbar Update",
+      "duration": 614
+    },
+    {
+      "id": "vxHWEXuTYmM",
+      "title": "React and node JS project in Hindi #18 Add Product API",
+      "duration": 645
+    },
+    {
+      "id": "aCEF4RB-J5w",
+      "title": "React and node JS project in Hindi #19 Add Product Component UI",
+      "duration": 767
+    },
+    {
+      "id": "MyigTtw66t0",
+      "title": "React and node JS project in Hindi #20 Call Add Product API",
+      "duration": 486
+    },
+    {
+      "id": "OHaWMiXDyz0",
+      "title": "React and node JS project in Hindi #21 React js Form validation",
+      "duration": 606
+    },
+    {
+      "id": "uJ18g6jwCek",
+      "title": "React and node JS project in Hindi #22 Product List API",
+      "duration": 294
+    },
+    {
+      "id": "gGHB9GSdxm0",
+      "title": "React and node JS project in Hindi #23 Integrate Product List API",
+      "duration": 897
+    },
+    {
+      "id": "D_rFoBHTbao",
+      "title": "React and node JS project in Hindi #24 Delete Product API",
+      "duration": 393
+    },
+    {
+      "id": "5wmC85diTsg",
+      "title": "React and node JS project in Hindi #25 Integrate Delete Product API",
+      "duration": 475
+    },
+    {
+      "id": "uoVqaDAnZwk",
+      "title": "React and node JS project in Hindi #26 Update Product Component UI",
+      "duration": 579
+    },
+    {
+      "id": "Ad_0FOhuHiM",
+      "title": "React and node JS project in Hindi #27 API for get single product",
+      "duration": 411
+    },
+    {
+      "id": "FFPQFkpEuj4",
+      "title": "React and node JS project in Hindi #28 Prefill update form",
+      "duration": 427
+    },
+    {
+      "id": "cLJEim3KnsU",
+      "title": "React and node JS project in Hindi #29 Update Product API",
+      "duration": 405
+    },
+    {
+      "id": "dwkC6-i7tMk",
+      "title": "React and node JS project in Hindi #30 Update Product API",
+      "duration": 447
+    },
+    {
+      "id": "oN7SYPK6q3w",
+      "title": "React and node JS project in Hindi #31 Search API for Product",
+      "duration": 398
+    },
+    {
+      "id": "bIwws_E6qHA",
+      "title": "React and node JS project in Hindi #32 Search API for Product",
+      "duration": 638
+    },
+    {
+      "id": "fO7DjUAzLb8",
+      "title": "React and node JS project in Hindi #33  JWT token  Authentication",
+      "duration": 708
+    },
+    {
+      "id": "aSKN0OE4Qsc",
+      "title": "React and node JS project in Hindi #34 Handle Auth Token in React js",
+      "duration": 409
+    },
+    {
+      "id": "ojYpuPSIDYw",
+      "title": "React and node JS project in Hindi #35 Verify Jwt Auth Token in Node js",
+      "duration": 994
+    },
+    {
+      "id": "zLJA6faNYOc",
+      "title": "React and node JS project in Hindi #36 Send Auth Token from React js",
+      "duration": 438
+    },
+    {
+      "id": "VrQgmNY96wo",
+      "title": "Node js complete tutorial in Hindi -  Full Node course in one video",
+      "duration": 32255
+    },
+    {
+      "id": "sWvCNF3_D64",
+      "title": "Node js interview questions in Hindi #1 #shorts #node-js #interview",
+      "duration": 30
+    },
+    {
+      "id": "KBrtxhyuDZk",
+      "title": "Node js interview questions in Hindi #2  Server side scripting language #shorts #node-js #interview",
+      "duration": 37
+    },
+    {
+      "id": "fzZ3GYfmQK8",
+      "title": "Node js interview questions in Hindi #3  Node js Engine Name #shorts #coding  #interview #node",
+      "duration": 56
+    },
+    {
+      "id": "50kaEIZqe68",
+      "title": "Node js interview questions in Hindi #4  What is REPL #shorts #coding  #interview #node",
+      "duration": 53
+    },
+    {
+      "id": "S20PCL9e_ks",
+      "title": "Node JS and JWT Token Authentication | how to use json web token in Node js | Hindi",
+      "duration": 1521
+    },
+    {
+      "id": "Jsnwp5nFSv0",
+      "title": "Async vs Sync in JavaScript & Node.js | Interview Question in Hindi #Shorts",
+      "duration": 176
+    },
+    {
+      "id": "XXwNv9YdpXc",
+      "title": "What is \"CommonJS\" in package.json? | Node.js Interview Question",
+      "duration": 137
+    },
+    {
+      "id": "AvHLcDCXpxg",
+      "title": "Node.js Interview questions in Hindi : Application vs Route Middleware in Express.js 🔥",
+      "duration": 165
+    }
+  ]
+}

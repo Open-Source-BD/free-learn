@@ -1,0 +1,95 @@
+{
+  "courseId": "nextjs-chai-aur-full-stack-5164a7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:55.608Z",
+  "title": "Chai aur full stack NextJS",
+  "channel": "Chai aur Code",
+  "videos": [
+    {
+      "id": "OgS1ZWZItno",
+      "title": "Complete full stack freelance ready course",
+      "duration": 737
+    },
+    {
+      "id": "g1iqZpXklnY",
+      "title": "Mastering ZOD for validation in Nextjs",
+      "duration": 2474
+    },
+    {
+      "id": "ORqN_j8iqqw",
+      "title": "How to connect Database in NextJS",
+      "duration": 813
+    },
+    {
+      "id": "eubuhK_1NN0",
+      "title": "Setup Resend email with NextJS",
+      "duration": 1942
+    },
+    {
+      "id": "XMcepHVSBms",
+      "title": "Signup user and custom OTP in NextJS",
+      "duration": 1189
+    },
+    {
+      "id": "sijpPYDWBg4",
+      "title": "Crash course on Next Auth or Authjs",
+      "duration": 4313
+    },
+    {
+      "id": "VQTFxPxr9HY",
+      "title": "OTP verification and unique username check in Nextjs",
+      "duration": 2274
+    },
+    {
+      "id": "MKNA_-wzxMk",
+      "title": "Message API with aggregation pipeline",
+      "duration": 2538
+    },
+    {
+      "id": "7pV_TCCK3Hw",
+      "title": "Integrating AI features in NextJS project",
+      "duration": 881
+    },
+    {
+      "id": "SqygydTsu18",
+      "title": "React hook form, shadcn and debouncing",
+      "duration": 4596
+    },
+    {
+      "id": "shRfvzxU38U",
+      "title": "OTP verification in NextJS",
+      "duration": 1027
+    },
+    {
+      "id": "R6XalQhBgfE",
+      "title": "Handling signin with AuthJS",
+      "duration": 1233
+    },
+    {
+      "id": "G9SKBXx_P-M",
+      "title": "Navbar and message card with bug fixes in Nextjs",
+      "duration": 1822
+    },
+    {
+      "id": "28-fJmm_ONQ",
+      "title": "Building User Dashboard",
+      "duration": 2457
+    },
+    {
+      "id": "KtUfVPZIVHQ",
+      "title": "Struggle with Carousel shadcn in NextJS",
+      "duration": 1171
+    },
+    {
+      "id": "DwJA67_zLKU",
+      "title": "A big assignment for real learners",
+      "duration": 452
+    },
+    {
+      "id": "YjsFhkxdUCg",
+      "title": "We forgot delete Route backend",
+      "duration": 644
+    }
+  ]
+}
