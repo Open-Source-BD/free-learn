@@ -1,0 +1,430 @@
+{
+  "courseId": "complete-web-dev-using-mern-stack-love-babbar-a48cb2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:23:16.897Z",
+  "title": "Complete Web Dev using MERN stack || Love Babbar",
+  "channel": "CodeHelp - by Babbar",
+  "videos": [
+    {
+      "id": "Vi9bxu-M-ag",
+      "title": "Let's learn Full Stack Web Development using MERN Stack || Episode-1",
+      "duration": 2357
+    },
+    {
+      "id": "aRUhd1Wd3Sw",
+      "title": "Understanding Internet, Networks, Web and more || Episode - 2",
+      "duration": 1889
+    },
+    {
+      "id": "ofHYRdWQESo",
+      "title": "How the INTERNET Works - A Simple Explanation || Episode - 3",
+      "duration": 2086
+    },
+    {
+      "id": "0gU-qrq3gjU",
+      "title": "Code your first HTML Program || Complete HTML Series || Episode - 4",
+      "duration": 1955
+    },
+    {
+      "id": "KdWPGqT5GwE",
+      "title": "Mastering HTML Tags for Web Development || Episode - 5",
+      "duration": 2865
+    },
+    {
+      "id": "e1X3WPoETsk",
+      "title": "Efficient Coding Techniques with MERN Stack | Emmet, Div Tag, Lists and Anchor Tag Variations | Ep-6",
+      "duration": 2554
+    },
+    {
+      "id": "VjCHupej12U",
+      "title": "HTML Tables: Rows, Columns, and Advanced Attributes | MERN Stack Web Development || Episode - 7",
+      "duration": 2391
+    },
+    {
+      "id": "dYrwawDa92U",
+      "title": "Forms in HTML || Complete Web Dev Series 2023 || Episode - 8",
+      "duration": 3384
+    },
+    {
+      "id": "GmHC1oaK9Ts",
+      "title": "HTML Forms: From Beginner to Pro || Episode - 9",
+      "duration": 2173
+    },
+    {
+      "id": "uNcMKFkAKuw",
+      "title": "Project 1: HTML Resume Project || Complete Web Development Series 2023 || Episode - 10",
+      "duration": 2037
+    },
+    {
+      "id": "fb4rgYbi84c",
+      "title": "Project 2: HTML Media Project || Media tags, Modern HTML and iframes || Episode - 11",
+      "duration": 2252
+    },
+    {
+      "id": "0ZGAKHoVFs0",
+      "title": "SEO && Head tag in HTML || Favicon, Title, Meta tags || Episode - 12",
+      "duration": 1217
+    },
+    {
+      "id": "tU4xz1r_aE8",
+      "title": "Mastering CSS: Inline, Internal, and External Stylesheets || Episode - 13",
+      "duration": 2051
+    },
+    {
+      "id": "XLLluxLg_Xc",
+      "title": "CSS Typography: Fonts, Colors && Developer tools || Episode - 14",
+      "duration": 2017
+    },
+    {
+      "id": "xN8DPjcybpM",
+      "title": "CSS \"Box Model\" in 40 minutes || Complete Web Dev Course || Episode - 15",
+      "duration": 2402
+    },
+    {
+      "id": "YjWktudqGN4",
+      "title": "CSS Display Property in Depth: Understanding Inline, Block, and Inline-Block || Episode - 16",
+      "duration": 1677
+    },
+    {
+      "id": "9BlNJFIMUrY",
+      "title": "Mastering CSS Position Property: Static, Relative, Absolute, Fixed, and Sticky || Episode - 17",
+      "duration": 1794
+    },
+    {
+      "id": "APhPNDikwRE",
+      "title": "CSS Size Units in Depth: Unlocking the Power of px, %, vw, vh, em, and rem",
+      "duration": 1581
+    },
+    {
+      "id": "eMrjjsnQUDw",
+      "title": "Mastering CSS Float, Clear, and Overflow in 20 Minutes || Episode - 19",
+      "duration": 1276
+    },
+    {
+      "id": "tN12g5QUIqg",
+      "title": "Complete FLEXBOX in 1 Video || Episode - 20",
+      "duration": 3500
+    },
+    {
+      "id": "tcgXPI6Nxsw",
+      "title": "CSS Media Queries and Custom Variables Explained || Episode - 21",
+      "duration": 1899
+    },
+    {
+      "id": "D0vA_R8lVLw",
+      "title": "CSS Shadow Effects - Box Shadow && Text Shadow || Episode - 22",
+      "duration": 1313
+    },
+    {
+      "id": "n8cTHW_VxBw",
+      "title": "Create Engaging Websites with CSS Animations || Episode - 23",
+      "duration": 2121
+    },
+    {
+      "id": "1Yfn7lH_8uA",
+      "title": "Transition Effects in CSS || Episode - 24",
+      "duration": 1157
+    },
+    {
+      "id": "remZuJHeI7s",
+      "title": "Mastering 2D Transforms in CSS || Episode - 25",
+      "duration": 905
+    },
+    {
+      "id": "ILxYkSVU9-k",
+      "title": "Creating a Recipe Website Project using CSS || Episode - 26",
+      "duration": 3208
+    },
+    {
+      "id": "koEnfJfRr6g",
+      "title": "Creating a Cards Website Project using CSS || Episode - 27",
+      "duration": 2314
+    },
+    {
+      "id": "byCsxHUuOrk",
+      "title": "Everything about CSS GRID in ONE Video || Episode - 28",
+      "duration": 3197
+    },
+    {
+      "id": "mGw_BvyovgE",
+      "title": "Creating a Blogs Website Project using CSS [Part 1]  || Episode - 29",
+      "duration": 1289
+    },
+    {
+      "id": "Bq58-o8mji0",
+      "title": "Creating a Blog Project using CSS [Part 2]  || Episode - 30",
+      "duration": 2889
+    },
+    {
+      "id": "VETRVLw7vz8",
+      "title": "Grid: Auto-Fit, MinMax, Template Areas Explained || Episode - 31",
+      "duration": 1634
+    },
+    {
+      "id": "DrWjRwC1kYw",
+      "title": "Mastering CSS 3D Transforms || Episode - 32",
+      "duration": 926
+    },
+    {
+      "id": "wn-dseKsdQw",
+      "title": "StudySync Project: Creating a Navigation Bar || Episode - 33",
+      "duration": 2266
+    },
+    {
+      "id": "8TUMa9PPdP0",
+      "title": "StudySync Project: Creating a HERO Section || Episode - 34",
+      "duration": 3191
+    },
+    {
+      "id": "29Mg76KoW8U",
+      "title": "StudySync Project: Creating a CARDs Section || Episode - 35",
+      "duration": 2282
+    },
+    {
+      "id": "qvbtM03bx70",
+      "title": "StudySync Project: Creating a TESTIMONIAL Section || Episode - 36",
+      "duration": 1863
+    },
+    {
+      "id": "BPftiMM8mgI",
+      "title": "StudySync Project: Creating a NEWSLETTER Section || Episode - 37",
+      "duration": 2403
+    },
+    {
+      "id": "_zoJ34wPIJA",
+      "title": "StudySync Project: Creating a FOOTER Section || Episode - 38",
+      "duration": 3042
+    },
+    {
+      "id": "1dFqthtouqU",
+      "title": "Starting JavaScript Series 2024 || Intro to JavaScript || Episode- 39",
+      "duration": 1398
+    },
+    {
+      "id": "u3v2H5mwixY",
+      "title": "Variables and DataTypes in JS  || JavaScript Series 2024",
+      "duration": 2196
+    },
+    {
+      "id": "7k6oEConqLA",
+      "title": "Operators & Conditionals in JavaScript || JavaScript Series 2024",
+      "duration": 3764
+    },
+    {
+      "id": "UXxwO_U_gXI",
+      "title": "Loops and String in JavaScript || JavaScript Series 2024",
+      "duration": 4231
+    },
+    {
+      "id": "nqC-UlGTssg",
+      "title": "Plain and Arrow Functions in JS || JavaScript Series 2024",
+      "duration": 1863
+    },
+    {
+      "id": "XK8loB2jYDE",
+      "title": "Reference Types: Objects && Arrays in JS || JavaScript Series 2024",
+      "duration": 2965
+    },
+    {
+      "id": "eK4gqHb7P7w",
+      "title": "Variable/Function Hoisting && Function Calls in JS || JavaScript Series 2024",
+      "duration": 2105
+    },
+    {
+      "id": "7NA3hX3IfVg",
+      "title": "Temporal Dead Zone in JS || JavaScript Series 2024",
+      "duration": 857
+    },
+    {
+      "id": "SslpdF_HlFc",
+      "title": "Classes && Default Parameters in Functions || JavaScript Series 2024",
+      "duration": 1768
+    },
+    {
+      "id": "cmgpJxt1q6k",
+      "title": "Common In-Built Objects in JS || JavaScript Series 2024",
+      "duration": 845
+    },
+    {
+      "id": "9KBadAcKVrU",
+      "title": "Object Cloning && Garbage Collector in JS || JavaScript Series 2024",
+      "duration": 1073
+    },
+    {
+      "id": "u2xLcx3sC_k",
+      "title": "Error Handling in JS || JavaScript Series 2024",
+      "duration": 1267
+    },
+    {
+      "id": "uoII7VSDF3k",
+      "title": "JS DOM Manipulation - Access/Insert/Update/Delete elements || JavaScript Series 2024",
+      "duration": 3280
+    },
+    {
+      "id": "5Udw0F6DIhA",
+      "title": "JS DOM Manipulation - styling elements || JavaScript Series 2024",
+      "duration": 1535
+    },
+    {
+      "id": "x2gl4KwUIV8",
+      "title": "All about Events & Listeners in JS || JavaScript Series 2024",
+      "duration": 2956
+    },
+    {
+      "id": "kqFauVbe-1M",
+      "title": "Performance: Reflow && Repaint in JS || JavaScript Series 2024",
+      "duration": 1342
+    },
+    {
+      "id": "FqaCRrxiS_A",
+      "title": "Learn EVENT LOOP in 1 Shot || Complete Web development Series 2024",
+      "duration": 1529
+    },
+    {
+      "id": "Bgf2bXr6psI",
+      "title": "JavaScript Promises in 1 Video || Complete Web Development Course",
+      "duration": 1505
+    },
+    {
+      "id": "EL3PKEHggrE",
+      "title": "Async-await and Fetch API in JavaScript || Complete Web Development Course",
+      "duration": 2351
+    },
+    {
+      "id": "ThJOl1gqIjs",
+      "title": "Closures in JavaScript || Complete Web Development Series 2024",
+      "duration": 1165
+    },
+    {
+      "id": "5dDkw_yCSgw",
+      "title": "LeetCode Metrics App using JavaScript || Complete Web Development Series 2024",
+      "duration": 4906
+    },
+    {
+      "id": "kRwmnQDiRWk",
+      "title": "Create your FIRST React App 2024",
+      "duration": 2171
+    },
+    {
+      "id": "HKX__TQ9ff0",
+      "title": "Learning Components/Props/JSX in React 2024",
+      "duration": 1993
+    },
+    {
+      "id": "Aib88vl6gDA",
+      "title": "Learn \"useState\" Hook in React 2024",
+      "duration": 1235
+    },
+    {
+      "id": "6a8CNTk9yo4",
+      "title": "Learn Tailwind CSS in 1 SHOT",
+      "duration": 38835
+    },
+    {
+      "id": "BBgSB2bLy60",
+      "title": "Passing PROPS as Children and Functions || React Series 2024",
+      "duration": 909
+    },
+    {
+      "id": "Z4hN0WZbASk",
+      "title": "State Lifting in React 2024 || Episode #65",
+      "duration": 1065
+    },
+    {
+      "id": "OjF-OwLOKYE",
+      "title": "Conditional Rendering in React || React Series 2024",
+      "duration": 676
+    },
+    {
+      "id": "xWYjtDbfkXA",
+      "title": "Event Handling in React 2024",
+      "duration": 1447
+    },
+    {
+      "id": "_NZ5kb68IpA",
+      "title": "Learn useEffect HOOK in depth || Complete Web Development Course",
+      "duration": 2618
+    },
+    {
+      "id": "Z7VSgQ_y0dg",
+      "title": "Learn useContext Hook in depth",
+      "duration": 1818
+    },
+    {
+      "id": "VeWdk4D_xYs",
+      "title": "All about Routing in React 2024",
+      "duration": 2509
+    },
+    {
+      "id": "wB3Jf7yyvfU",
+      "title": "React Hook Form in 1 Video",
+      "duration": 1824
+    },
+    {
+      "id": "DnRY5yG67u8",
+      "title": "Learn Redux Toolkit in 1 Video",
+      "duration": 3214
+    },
+    {
+      "id": "gtHKKZJ9W-Q",
+      "title": "When to use \"useRef\" React Hook",
+      "duration": 1768
+    },
+    {
+      "id": "MXs2qqWcGHo",
+      "title": "Learn useMemo React Hook in 1 Video",
+      "duration": 1261
+    },
+    {
+      "id": "pZjm9rX5GdU",
+      "title": "Learn useCallback hook with Code Examples",
+      "duration": 2010
+    },
+    {
+      "id": "SPkDA2lWtWE",
+      "title": "Creating PASTE - A Code/Notes Saver React App",
+      "duration": 5679
+    },
+    {
+      "id": "b2bIdtSwDhc",
+      "title": "Deploy Your Front-End Web Application on VERCEL 2024",
+      "duration": 1103
+    },
+    {
+      "id": "fn9oKI9-TEs",
+      "title": "Introduction to Backend Development, NodeJS and ExpressJS",
+      "duration": 1332
+    },
+    {
+      "id": "y4MOo-9fNyk",
+      "title": "Request / Response / Testing / Routing in ExpressJS",
+      "duration": 1907
+    },
+    {
+      "id": "he5PnMFwVSE",
+      "title": "Code your FIRST BACKEND App 2024",
+      "duration": 779
+    },
+    {
+      "id": "gHyZnLZDnWI",
+      "title": "All about MIDDLEWAREs in ExpressJS || Backend Series 2024",
+      "duration": 2709
+    },
+    {
+      "id": "TtjqEe-ktHY",
+      "title": "Setting up Mongo DB on local Machine && on Cloud Instance",
+      "duration": 2034
+    },
+    {
+      "id": "wnoC68eTCtw",
+      "title": "Connecting with MongoDB using Mongoose || Backend Series 2024",
+      "duration": 2969
+    },
+    {
+      "id": "3MCOhN--bfM",
+      "title": "MVC Pattern in a MERN Backend Project || Backend Series 2024",
+      "duration": 3096
+    }
+  ]
+}

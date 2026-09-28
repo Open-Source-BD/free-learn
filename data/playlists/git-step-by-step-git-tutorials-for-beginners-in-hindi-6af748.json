@@ -1,0 +1,175 @@
+{
+  "courseId": "git-step-by-step-git-tutorials-for-beginners-in-hindi-6af748",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6XT0grm_TfjgDZ_shvnNvxHu0SGeR2ge",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:44.203Z",
+  "title": "Git Step-by-Step: Git Tutorials For Beginners",
+  "channel": "Gaurav Sharma",
+  "videos": [
+    {
+      "id": "AujtCFY5LR8",
+      "title": "Git Course Introduction | Who Should Learn & What You’ll Learn in This Playlist",
+      "duration": 617
+    },
+    {
+      "id": "ZoJ-CzLHfdE",
+      "title": "Introduction to Git – Why Developers Need It",
+      "duration": 645
+    },
+    {
+      "id": "02k_JuByTl4",
+      "title": "Git Working Directory, Staging Area & Local Repository Explained in Hindi | How Git Track Your Files",
+      "duration": 556
+    },
+    {
+      "id": "71TcHe2uHac",
+      "title": "How to Install Git in Linux / Ubuntu / Windows",
+      "duration": 316
+    },
+    {
+      "id": "r4rhj6X-qM4",
+      "title": "Create Your First Git Repository | Git Init Command | How to create first First Git Repo",
+      "duration": 244
+    },
+    {
+      "id": "IqbOQeGrqn8",
+      "title": "How to Add a File to Git Staging Area | Git add Command | Git ls-files Command",
+      "duration": 166
+    },
+    {
+      "id": "YBlfEv3yXe4",
+      "title": "Git Add and Status With Regex | Git add Command with Regular Expression | Git add with Regex",
+      "duration": 383
+    },
+    {
+      "id": "BFFvNxZ9PhQ",
+      "title": "Managing Files with .gitignore in Git | GitIgnore Exclude unwanted Files | what is .gitignore file ?",
+      "duration": 324
+    },
+    {
+      "id": "Kk3F7wpjyQY",
+      "title": "Advanced GitIgnore Usage – Ignore and Exclude Specific Files | What is ! in .gitignore file ?",
+      "duration": 537
+    },
+    {
+      "id": "dWDVp-X1ltE",
+      "title": "Managing Large Repositories with Multiple .gitignore Files | How to Handle multiple .gitignore Files",
+      "duration": 456
+    },
+    {
+      "id": "7yrc4PeoArE",
+      "title": "How to Remove Files from Git Staging Area and Working Directory | Git rm Command",
+      "duration": 297
+    },
+    {
+      "id": "kjgWteeqLq4",
+      "title": "How to Restore Deleted Files from Git Staging Area",
+      "duration": 133
+    },
+    {
+      "id": "RWuX1m6vHqY",
+      "title": "How to Rename or Move Files in Git with git mv | How to rename a file using git mv command",
+      "duration": 183
+    },
+    {
+      "id": "le_Umwd95cw",
+      "title": "Git Commit Command Explained with Examples",
+      "duration": 397
+    },
+    {
+      "id": "04fhaZ574VM",
+      "title": "Git Amend and Log Commands Explained | Modify last Commit Again | Git Amend and Git Log Command",
+      "duration": 356
+    },
+    {
+      "id": "MqhmIzZ0p_c",
+      "title": "Git Commit -a Explained and Best Practices | What is git commit -a  | how and When  to use it",
+      "duration": 373
+    },
+    {
+      "id": "jZTe-v-3a6o",
+      "title": "Advanced Git Log Options Explained | Git Log Command Part 2 | Git Log More Options state, grep",
+      "duration": 292
+    },
+    {
+      "id": "gaSCt7RzznE",
+      "title": "Git Diff Command and Advanced Git Log Options | Advance Option for Git Log and Diff Command in hindi",
+      "duration": 536
+    },
+    {
+      "id": "QEem1YE7Wro",
+      "title": "Introduction to Git Branches | What is branches in Git | How to create Branches in Git | Git Branch",
+      "duration": 830
+    },
+    {
+      "id": "hINRnbf-GPg",
+      "title": "Switching, Renaming, and Deleting Branches in Git | How to Rename and Delete a branch in GIT",
+      "duration": 289
+    },
+    {
+      "id": "HBasPpBeKCc",
+      "title": "Create, Switch, and Delete Git Branches | How to Create Switch and Delete Git branch | Git in Hindi",
+      "duration": 293
+    },
+    {
+      "id": "uD-3HWXJC2E",
+      "title": "Git Diff Between Branches and Commits | Compare Branches and Commits with git diff | Git In Hindi",
+      "duration": 322
+    },
+    {
+      "id": "aW-dH58dLvM",
+      "title": "Pause Work with Git Stash and Get It Back Safely | Git Stash | What is Stash in Git | Git in Hindi",
+      "duration": 274
+    },
+    {
+      "id": "g3DLGCeCzFU",
+      "title": "Git Stash Drop, Clear, and Untracked Files | Git Stash Tutorial | Git Hindi | Git By Gaurav Sharma",
+      "duration": 300
+    },
+    {
+      "id": "_OMFM81f0OE",
+      "title": "Fast Forward Merge in Git Explained with Examples",
+      "duration": 375
+    },
+    {
+      "id": "8yLmyIA4BxY",
+      "title": "Three-Way Merge in Git Explained with Diagrams",
+      "duration": 495
+    },
+    {
+      "id": "cJltuggvGP0",
+      "title": "Squash and Merge in Git Explained with Examples",
+      "duration": 413
+    },
+    {
+      "id": "SGEhSq6wfZ8",
+      "title": "Resolving Merge Conflicts in Git from the Command Line",
+      "duration": 375
+    },
+    {
+      "id": "0ZQ4bXR0jNo",
+      "title": "Undoing a Merge in Git with git merge --abort",
+      "duration": 181
+    },
+    {
+      "id": "6AjxzqLzd8E",
+      "title": "Finalizing a Merge with git merge --continue",
+      "duration": 118
+    },
+    {
+      "id": "5uQx-72Dr5I",
+      "title": "Understanding Git Rebase with Examples and Diagrams",
+      "duration": 292
+    },
+    {
+      "id": "21PtsYpOGEw",
+      "title": "Handling Conflicts During Git Rebase | Git in Hindi | Git by Gaurav | Git tutorials in Hindi",
+      "duration": 326
+    },
+    {
+      "id": "_h1cLWzyQiE",
+      "title": "Analyzing Commit History with Git Shortlog | Git Step by Step tutorials | Git tutorials in Hindi",
+      "duration": 155
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "courseId": "complete-git-github-tutorials-in-hindi-2021-dced64",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoxQvXKPyCeX9__PPTu2M2oeY2QJt-3JB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:36.116Z",
+  "title": "Complete Git/GitHub Tutorials In Hindi 2021",
+  "channel": "Vashishth Muni Singh",
+  "videos": [
+    {
+      "id": "foXVkg7BISg",
+      "title": "Git Tutorials: Installing Git and Initial Setup, Creating GitHub Account | part 1",
+      "duration": 1516
+    },
+    {
+      "id": "_d0RJgSsXQ0",
+      "title": "Git Tutorials: Introduction to Git, Need of Git, The Distributed Version Control System | part 2",
+      "duration": 1491
+    },
+    {
+      "id": "ddjYSIzTQCA",
+      "title": "Git Tutorials:  Working With Remote Repositories | part 3",
+      "duration": 2120
+    },
+    {
+      "id": "10xN4GKILbY",
+      "title": "Git Tutorials:  More On Working With Remote Repositories | part 4",
+      "duration": 783
+    },
+    {
+      "id": "mOALCewkTCA",
+      "title": "Git Tutorials:  Understanding Three Stage Architecture | part 5",
+      "duration": 1393
+    },
+    {
+      "id": "uPvq7SKjWIs",
+      "title": "Git Tutorials: Deep Understanding of Working Directory, Staging Area And Local Repositories | part 6",
+      "duration": 954
+    },
+    {
+      "id": "DFIEe41OqDI",
+      "title": "Git Tutorials: Git Log & Branching Strategy, Understanding Hash Value Of Each Commit | part 7",
+      "duration": 1418
+    },
+    {
+      "id": "masEDNsM2vI",
+      "title": "Git Tutorials:  Understanding Git Branching And When To Create Branch | part 8",
+      "duration": 1143
+    },
+    {
+      "id": "AsmfWwcRV84",
+      "title": "Git Tutorials: Creating Branches, Pushing them to Remote and Merging them with Master | part 9",
+      "duration": 2680
+    },
+    {
+      "id": "mfyyoMvHcq0",
+      "title": "Git Tutorials: Merging side branches, deleting branches from local and remote repository | part 10",
+      "duration": 804
+    },
+    {
+      "id": "UEyxLvY5ZkM",
+      "title": "Git Tutorials: Conflict In Git, Understanding Conflict In Git | part 11",
+      "duration": 1102
+    },
+    {
+      "id": "rCvAc8xMaf4",
+      "title": "Git Tutorials: Resolving Conflict, How to resolve Git Conflict | part 12",
+      "duration": 2035
+    },
+    {
+      "id": "oWf_uJat0Wc",
+      "title": "Git Tutorials: Understanding the need of stashing, Stash Command  in Git | part 13",
+      "duration": 622
+    },
+    {
+      "id": "g_RIHLXL8zk",
+      "title": "Git Tutorials: deep diving into stashing concept, Why Stashing  | part 14",
+      "duration": 797
+    },
+    {
+      "id": "LcZtEZK7Caw",
+      "title": "Git Tutorials: Stashing In Git, All About Stash Command In Git | part 15",
+      "duration": 2051
+    },
+    {
+      "id": "I9I1cylMqI8",
+      "title": "Git Tutorials: .gitignore , Ignoring files in Git | part 16",
+      "duration": 886
+    },
+    {
+      "id": "L8iHR6ojxvo",
+      "title": "Git Tutorials: Skipping the Staging Area and more on Git Staging | part 17",
+      "duration": 790
+    },
+    {
+      "id": "psvp1ZHxEpM",
+      "title": "Git Tutorials: Git Diff Command, Showing Changes between WD & SA, WD & LR and SA & LR | part 18",
+      "duration": 931
+    },
+    {
+      "id": "ciWGo53u0dU",
+      "title": "Git Tutorials: Renaming and Removing files in Git | part 19",
+      "duration": 1187
+    },
+    {
+      "id": "yA3iwOzYFSg",
+      "title": "Git Tutorials: UnStaging and UnModifying Files Changes In Git  | part 20",
+      "duration": 823
+    },
+    {
+      "id": "rYbtERTIXqU",
+      "title": "Git Tutorials: Proof Of UnStaging Files Changes In Git  | part 21",
+      "duration": 512
+    },
+    {
+      "id": "gILncopVkdw",
+      "title": "Git Tutorials: UnDoing Git Commit, All about Git Reset --hard,--soft and --mixed  | part 22",
+      "duration": 2078
+    },
+    {
+      "id": "2xMwTtkfjO4",
+      "title": "Git Tutorials: Git Revert Command, UnDoing Changes In Git | part 23",
+      "duration": 1585
+    },
+    {
+      "id": "BY_4lNVfAQ8",
+      "title": "Git Tutorials: Git Cherry-Pick Command, All About Cherry-Pick Command In Git | part 24",
+      "duration": 924
+    },
+    {
+      "id": "A_EA3wS1gyw",
+      "title": "Git Tutorials: Branch Management In Git | part 25",
+      "duration": 617
+    },
+    {
+      "id": "YwFcrB9UbGw",
+      "title": "git: Updates were rejected because the remote contains work that you do not have locally | part 26",
+      "duration": 316
+    },
+    {
+      "id": "VtBjJVZukvc",
+      "title": "Git Tutorials: Cloning the Git Repository, how to clone a git repository | part 27",
+      "duration": 828
+    },
+    {
+      "id": "6St3K232FUo",
+      "title": "Git Tutorials: Forking And Pull Request In Git | part 28",
+      "duration": 1419
+    },
+    {
+      "id": "d8jtLCv6eQA",
+      "title": "Git Tutorials: Understanding the need of Forking And Pull Request In Git | part 29",
+      "duration": 387
+    },
+    {
+      "id": "FqHNGVBomew",
+      "title": "Git Tutorials: Deleting Untracked files, directory and ignored files, Git Clean Command | part 30",
+      "duration": 1300
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "courseId": "git-github-fundamentals-in-6-hours-7a37c9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfEr2kn3s-brBO7d9irTRvClcjiNhzczH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:38.882Z",
+  "title": "Git and GitHub Fundamentals in 6 Hours",
+  "channel": "Anurag Singh ProCodrr",
+  "videos": [
+    {
+      "id": "3WQu7iWHAhI",
+      "title": "An Introduction to Terminal and CLI | Git and GitHub Fundamentals | Ep.01",
+      "duration": 1567
+    },
+    {
+      "id": "LdeNFQMI42o",
+      "title": "Git and Version Control | Git and GitHub Fundamentals | Hindi | Ep.02",
+      "duration": 3190
+    },
+    {
+      "id": "BjjZfx5Wq-U",
+      "title": "Best VS Code Extensions to Supercharge Your Git Workflow | Git and GitHub Fundamentals | Ep.03",
+      "duration": 688
+    },
+    {
+      "id": "UlckC6wLudI",
+      "title": "How to Create & Merge Branches? | Git and GitHub Fundamentals | Ep.04",
+      "duration": 2926
+    },
+    {
+      "id": "5aslveqHw-4",
+      "title": "Complete GitHub Tutorial in One Video | Git and GitHub Fundamentals | Ep.05",
+      "duration": 3310
+    },
+    {
+      "id": "qF8CHHnWqXE",
+      "title": "Revert and Reset Commits Like a Pro | Git and GitHub Fundamentals | Ep.06",
+      "duration": 3331
+    },
+    {
+      "id": "8J0aZCwqqwU",
+      "title": "How to Resolve Conflict in Git? | Git and GitHub Fundamentals | Ep.07",
+      "duration": 1317
+    },
+    {
+      "id": "0WUyhzqGjKU",
+      "title": "What is Stashing in Git? | Git and GitHub Fundamentals | Ep.08",
+      "duration": 897
+    },
+    {
+      "id": "XmrpeP_s7p8",
+      "title": "How to Cherry Pick a Commit in Git? | Git and GitHub Fundamentals | Ep.09",
+      "duration": 500
+    },
+    {
+      "id": "npI6t1uZt_o",
+      "title": "What is .gitignore file? | Git and GitHub Fundamentals | Ep.10",
+      "duration": 941
+    },
+    {
+      "id": "1akLzbfK0XU",
+      "title": "Pull Requests in Git | Git and GitHub Fundamentals | Ep.11",
+      "duration": 641
+    },
+    {
+      "id": "D2Exr7rm2tI",
+      "title": "What is Open Source? How to Contribute to Open Source? | Git and GitHub Fundamentals | Ep.12",
+      "duration": 2266
+    },
+    {
+      "id": "puOzngZUc8I",
+      "title": "Some Useful Tips for Git | Git and GitHub Fundamentals | Ep.13",
+      "duration": 1038
+    }
+  ]
+}

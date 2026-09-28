@@ -1,0 +1,90 @@
+{
+  "courseId": "tailwind-css-tutorials-in-hindi-4b39f5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:24.584Z",
+  "title": "Tailwind CSS Tutorials in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "L4_jarMnB0c",
+      "title": "Introduction to Tailwind CSS & Utility first Workflow: Tailwind Tutorial #1",
+      "duration": 1080
+    },
+    {
+      "id": "p0Q8SQSCoZg",
+      "title": "Our First Tailwind CSS Website: Tailwind Tutorial #2",
+      "duration": 1682
+    },
+    {
+      "id": "aUunolbb1xU",
+      "title": "Why use Tailwind CSS? : Tailwind Tutorial #3",
+      "duration": 850
+    },
+    {
+      "id": "YmkKCdCDpwM",
+      "title": "Fonts & Sizing : Tailwind Tutorial #4",
+      "duration": 910
+    },
+    {
+      "id": "OYdkBxbJFks",
+      "title": "Margins, Borders & Padding in Tailwind CSS : Tailwind Tutorial #5",
+      "duration": 738
+    },
+    {
+      "id": "-cBzSOAyfd8",
+      "title": "Square Bracket Notation in Tailwind CSS : Tailwind Tutorial #6",
+      "duration": 526
+    },
+    {
+      "id": "WGsiW_-2rZg",
+      "title": "Creating Responsive Designs in Tailwind CSS : Tailwind Tutorial #7",
+      "duration": 1022
+    },
+    {
+      "id": "R6d5pRFulIk",
+      "title": "Hover, Focus & Other States in Tailwind CSS : Tailwind Tutorial #8",
+      "duration": 805
+    },
+    {
+      "id": "VDJXpKaYzcg",
+      "title": "@apply directive in Tailwind CSS: Tailwind Tutorial #9",
+      "duration": 809
+    },
+    {
+      "id": "MjQ5vzWvWXE",
+      "title": "@layer Directive in Tailwind: Tailwind Tutorial #10",
+      "duration": 587
+    },
+    {
+      "id": "fCHxFM6r9jI",
+      "title": "When to use @apply and @layer directive?: Tailwind Tutorial #11",
+      "duration": 485
+    },
+    {
+      "id": "Baiqc3uba64",
+      "title": "Customizing Tailwind CSS using tailwind.config.js file: Tailwind Tutorial #12",
+      "duration": 916
+    },
+    {
+      "id": "3eXWiQDYfIs",
+      "title": "Deploying a Tailwind Website to Production : Tailwind Tutorial #13",
+      "duration": 379
+    },
+    {
+      "id": "UeM-wAodKlM",
+      "title": "Project 1: Facebook Clone in Tailwind CSS: Tailwind Tutorial #14",
+      "duration": 1910
+    },
+    {
+      "id": "CJ3TNK4lkDU",
+      "title": "Project 2: Microsoft Clone (Responsive) in Tailwind CSS: Tailwind Tutorial #15",
+      "duration": 5612
+    },
+    {
+      "id": "oEI1DubanW4",
+      "title": "Tailwind CSS Course Conclusion, Wrap-up & where to go from here",
+      "duration": 328
+    }
+  ]
+}

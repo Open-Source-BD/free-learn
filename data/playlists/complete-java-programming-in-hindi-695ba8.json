@@ -1,0 +1,615 @@
+{
+  "courseId": "complete-java-programming-in-hindi-695ba8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:39.271Z",
+  "title": "Java Tutorials For Beginners In Hindi",
+  "channel": "codeitup",
+  "videos": [
+    {
+      "id": "xwga58I1S94",
+      "title": "Introduction to Java - In Hindi",
+      "duration": 678
+    },
+    {
+      "id": "npwSm4gGqw4",
+      "title": "How to Install Java JDK on Windows 10 - In Hindi",
+      "duration": 573
+    },
+    {
+      "id": "67-p24Wr4WY",
+      "title": "Features of Java - In Hindi",
+      "duration": 749
+    },
+    {
+      "id": "AB1e9_7TwF4",
+      "title": "Difference Between C++ & Java - In Hindi",
+      "duration": 526
+    },
+    {
+      "id": "FuzS1JGebyA",
+      "title": "What is the Difference Between JDK, JRE & JVM - In Hindi",
+      "duration": 529
+    },
+    {
+      "id": "16QWkAo1o3A",
+      "title": "Token, Keyword & Identifier In Java - In Hindi",
+      "duration": 546
+    },
+    {
+      "id": "QJVYXDqnKao",
+      "title": "Datatypes in Java - In Hindi",
+      "duration": 401
+    },
+    {
+      "id": "u6aI0BP8gew",
+      "title": "Increment Decrement Operator in Java - In Hindi",
+      "duration": 672
+    },
+    {
+      "id": "YlNcnDkQXOc",
+      "title": "AND OR NOT Logical Operators In Java - In Hindi",
+      "duration": 546
+    },
+    {
+      "id": "MPrYYUkkB-8",
+      "title": "Basic Structure of Java Program - In Hindi",
+      "duration": 745
+    },
+    {
+      "id": "yS0gE5ziwsE",
+      "title": "Writing Compiling Executing First Java Program - In Hindi",
+      "duration": 692
+    },
+    {
+      "id": "Ab2WawLDIqc",
+      "title": "Why & How to Set Java Path - In Hindi",
+      "duration": 663
+    },
+    {
+      "id": "Q5M2H94Csco",
+      "title": "System.out.println() in Java - In Hindi",
+      "duration": 702
+    },
+    {
+      "id": "N3H60u4f9VI",
+      "title": "Taking Input in Java Using BufferedReader Class",
+      "duration": 1061
+    },
+    {
+      "id": "gnkeUAKi2lM",
+      "title": "Taking Input through Scanner Class  in Java - In Hindi",
+      "duration": 740
+    },
+    {
+      "id": "cGE5VCNab7k",
+      "title": "Simple Java Program Example For Beginners - In Hindi",
+      "duration": 550
+    },
+    {
+      "id": "dG39Y5pZR4Y",
+      "title": "If Control Statement In Java - In Hindi",
+      "duration": 691
+    },
+    {
+      "id": "iCEgx8W1uUQ",
+      "title": "Find Max Between Two / Three Numbers in Java - In Hindi",
+      "duration": 950
+    },
+    {
+      "id": "76RAFG5aaJA",
+      "title": "Java Program to Check Odd or Even | Positive, Negative or Zero",
+      "duration": 661
+    },
+    {
+      "id": "j9Sm9r74gQ8",
+      "title": "Simple Calculator Program In Java - In Hindi",
+      "duration": 730
+    },
+    {
+      "id": "ApASlL_yhXI",
+      "title": "Java Revision from Tutorial 1 to 20 - In Hindi",
+      "duration": 2476
+    },
+    {
+      "id": "Lp785iHyax4",
+      "title": "Java Netbeans IDE Installation - In Hindi",
+      "duration": 857
+    },
+    {
+      "id": "97CGA0yJduw",
+      "title": "How to Install BlueJ on Windows - In Hindi",
+      "duration": 500
+    },
+    {
+      "id": "sPw-B7JzjDY",
+      "title": "How to Install Eclipse IDE on Windows 10 (2020) - In Hindi",
+      "duration": 578
+    },
+    {
+      "id": "WRKMJc-wFww",
+      "title": "Switch Statement In Java - In Hindi",
+      "duration": 1126
+    },
+    {
+      "id": "8xFr72STY9E",
+      "title": "Introduction to Loops In Java - In Hindi",
+      "duration": 591
+    },
+    {
+      "id": "ev8IH25IdZc",
+      "title": "Program to Print First N Natural Numbers In Java - In Hindi",
+      "duration": 756
+    },
+    {
+      "id": "quG-pmiSZZI",
+      "title": "Java Program to Find Sum of First N Natural Numbers - In Hindi",
+      "duration": 699
+    },
+    {
+      "id": "JRYgJFd-m10",
+      "title": "Do While Loop in Java - In Hindi",
+      "duration": 548
+    },
+    {
+      "id": "CPUY17YPFNU",
+      "title": "Java Program to Find Reverse of a Number - In Hindi",
+      "duration": 519
+    },
+    {
+      "id": "jn3T4QwhdLs",
+      "title": "Java Program to Find Sum of Digits of a Number - In Hindi",
+      "duration": 682
+    },
+    {
+      "id": "KkerX4zG_Xw",
+      "title": "Java Program to Find Sum of Even & Product of Odd Digits of a Number - In Hindi",
+      "duration": 796
+    },
+    {
+      "id": "IkSBVj9zySg",
+      "title": "Palindrome Number Program in Java - In Hindi",
+      "duration": 632
+    },
+    {
+      "id": "7VyJzpHqEWU",
+      "title": "Java Program to Find Product of Digits - In Hindi",
+      "duration": 602
+    },
+    {
+      "id": "v1_XlrbsJKY",
+      "title": "Java Program to Check a Number is Prime or Not - In Hindi",
+      "duration": 621
+    },
+    {
+      "id": "5JbGCPyWZ2s",
+      "title": "Java Program to Find Factorial of a Number - In Hindi",
+      "duration": 606
+    },
+    {
+      "id": "o34HJJtPnAs",
+      "title": "Prime Number Between 1 to 100 in Java - In Hindi",
+      "duration": 927
+    },
+    {
+      "id": "lgBXGJSHaQk",
+      "title": "Table of a Given Number in Java - In Hindi",
+      "duration": 700
+    },
+    {
+      "id": "kDd6_-6HEsA",
+      "title": "Fibonacci Series in Java - In Hindi",
+      "duration": 816
+    },
+    {
+      "id": "k-BnQA86JUk",
+      "title": "Armstrong Number in Java - In Hindi",
+      "duration": 1358
+    },
+    {
+      "id": "TvojdbIIKvU",
+      "title": "Java Program to Find X Raised to the Power Y - In Hindi",
+      "duration": 661
+    },
+    {
+      "id": "shr3Y7ndDu8",
+      "title": "Break & Continue in Java - In Hindi",
+      "duration": 929
+    },
+    {
+      "id": "cvjiagGLjSM",
+      "title": "Top 10 Java Loop Programs|Reverse|Palindrome|Prime|Armstrong|Fibonacci Series|Table|Factorial & More",
+      "duration": 3169
+    },
+    {
+      "id": "v2_KBe1pD_w",
+      "title": "Nested Loop in Java - In Hindi",
+      "duration": 531
+    },
+    {
+      "id": "F7kQlAjnjIE",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 1 | In Hindi",
+      "duration": 943
+    },
+    {
+      "id": "fWA_Mr1JwO0",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 2 | In Hindi",
+      "duration": 1023
+    },
+    {
+      "id": "RlHz1V6RIIM",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 3 | In Hindi",
+      "duration": 1075
+    },
+    {
+      "id": "1j1uPaMtq1w",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 4 | In Hindi",
+      "duration": 1246
+    },
+    {
+      "id": "Wo0469uCSXA",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 5 | In Hindi",
+      "duration": 1208
+    },
+    {
+      "id": "dgwCNcbWvbQ",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 6 | In Hindi",
+      "duration": 1061
+    },
+    {
+      "id": "VqhsVoMLmPA",
+      "title": "Star Printing | Shape Printing | Pyramid Printing | In Java | Part 7 | In Hindi",
+      "duration": 1453
+    },
+    {
+      "id": "kiLWaEiObgw",
+      "title": "Class & Object | Java Programming | In Hindi",
+      "duration": 1263
+    },
+    {
+      "id": "itgBgmIelUo",
+      "title": "Class & Object | Argument Passing | Taking Return | Reverse of a Number Program | In Hindi",
+      "duration": 866
+    },
+    {
+      "id": "0lFisrJ6Jo4",
+      "title": "Java Prime Number Program | Class & Object | In Hindi",
+      "duration": 877
+    },
+    {
+      "id": "Li8Nklrx6ZU",
+      "title": "Static Data Members | Java Programming | In Hindi",
+      "duration": 960
+    },
+    {
+      "id": "v_GyyygdfFk",
+      "title": "Static Member Function | Java Programming | In Hindi",
+      "duration": 821
+    },
+    {
+      "id": "C8lyPu3oy3g",
+      "title": "Constructors in Java | In Hindi",
+      "duration": 813
+    },
+    {
+      "id": "4IZiNq-s2gE",
+      "title": "Parameterized Constructor in Java | In Hindi",
+      "duration": 1438
+    },
+    {
+      "id": "HB2d06wIrOE",
+      "title": "Introduction to Inheritance | Types of Inheritance | in Java | In Hindi",
+      "duration": 950
+    },
+    {
+      "id": "_lEy4Ra6f2I",
+      "title": "Single Inheritance in Java | Program Implementation | In Hindi",
+      "duration": 1085
+    },
+    {
+      "id": "LPmQf-xGLfg",
+      "title": "Multilevel Inheritance in Java | With Program Implementation | In Hindi",
+      "duration": 854
+    },
+    {
+      "id": "Fp5GdjRAbVI",
+      "title": "Hierarchical Inheritance in Java | With Program | In Hindi",
+      "duration": 1000
+    },
+    {
+      "id": "TneoCHCRmmc",
+      "title": "Method Overriding in Java | In Hindi",
+      "duration": 706
+    },
+    {
+      "id": "D0ytcoe7Euo",
+      "title": "Final Variable | Final Method | Final Class | In Java | In Hindi",
+      "duration": 784
+    },
+    {
+      "id": "q7nKVbxW5cY",
+      "title": "Introduction to Array | In Java | In Hindi",
+      "duration": 940
+    },
+    {
+      "id": "xCW9wTxRsAQ",
+      "title": "Sum of Array Element | Product of Array Elements | in Java | In Hindi",
+      "duration": 805
+    },
+    {
+      "id": "YPNUoVaNz-c",
+      "title": "Linear Search in Java | In Hindi",
+      "duration": 1008
+    },
+    {
+      "id": "-G8qZn_0KF0",
+      "title": "Binary Search in Java | Java Programming | In Hindi",
+      "duration": 1305
+    },
+    {
+      "id": "oWRFyUxRI44",
+      "title": "Frequency of a Number in Array | Java Programming | In Hindi",
+      "duration": 764
+    },
+    {
+      "id": "ZoQ3qzz_UUs",
+      "title": "Selection Sort in Java | Java Programming | Searching and Sorting | In Hindi",
+      "duration": 1054
+    },
+    {
+      "id": "VBHOV1ffVaQ",
+      "title": "Bubble Sort in Java | Java Programming | In Hindi",
+      "duration": 1162
+    },
+    {
+      "id": "1QQISCPk9Ao",
+      "title": "Insertion Sort in Java | Java Programming | In Hindi",
+      "duration": 1417
+    },
+    {
+      "id": "-Tq4QRlIdlA",
+      "title": "Introduction to 2D Array in Java | Program Implementation | In Hindi",
+      "duration": 1591
+    },
+    {
+      "id": "GLNI3wNRzq4",
+      "title": "Addition Subtraction of Matrix in Java | Java Programming | In Hindi",
+      "duration": 697
+    },
+    {
+      "id": "BdjsHieikyc",
+      "title": "Multiplication of Two Matrix in Java | In Hindi",
+      "duration": 1606
+    },
+    {
+      "id": "nxFdyonhe2E",
+      "title": "Sum of Each Row | Sum of Each Column | 2D Array | Java Programming | In Hindi",
+      "duration": 1079
+    },
+    {
+      "id": "FCcMk6Lmq00",
+      "title": "Transpose of Matrix in Java | One Program Three Logic | Java Programming |  In Hindi",
+      "duration": 2034
+    },
+    {
+      "id": "AdF5vWEyZcY",
+      "title": "Introduction to String in Java | Java String | Java Programming | In Hindi",
+      "duration": 860
+    },
+    {
+      "id": "a2R5slNrnOM",
+      "title": "String Function in Java | Length Function | CharAt Function | In Hindi",
+      "duration": 1003
+    },
+    {
+      "id": "v5NWf-q4hpk",
+      "title": "Java Program to Count Total Vowel and Consonant in a String | Java Programming | In Hindi",
+      "duration": 907
+    },
+    {
+      "id": "g-48SZwnX30",
+      "title": "Java Program to Count Total Number of Words in a String | In Hindi",
+      "duration": 747
+    },
+    {
+      "id": "vHRqqSn-W4Y",
+      "title": "Linear Search | Binary Search | Selection Sort | Bubble Sort | Insertion Sort | In Java | In Hindi",
+      "duration": 489
+    },
+    {
+      "id": "PRSsbZL7YPU",
+      "title": "Palindrome String Program In Java | In Hindi",
+      "duration": 884
+    },
+    {
+      "id": "3gSk0Yi8LXQ",
+      "title": "Equality of Two Strings in Java | Equals | EqualsIgnoreCase | In Hindi",
+      "duration": 680
+    },
+    {
+      "id": "duQicwfbBLk",
+      "title": "CompareTo Function in Java | Java String Programming | In Hindi",
+      "duration": 762
+    },
+    {
+      "id": "r3637dsssp8",
+      "title": "Convert a String into Lowercase / UpperCase in Java | toLowerCase | toUpperCase | In Hindi",
+      "duration": 957
+    },
+    {
+      "id": "_Quf0jBbNww",
+      "title": "String Functions in Java | Java String Programming | In Hindi",
+      "duration": 1080
+    },
+    {
+      "id": "M0ga_Iw5NgU",
+      "title": "Print Short Names in Java | Java String Programming | In Hindi",
+      "duration": 1045
+    },
+    {
+      "id": "C3Fh3_MCCco",
+      "title": "Reverse Each Word of String | Java String Programming | In Hindi",
+      "duration": 1209
+    },
+    {
+      "id": "wPZqVdb1dlU",
+      "title": "Introduction to StringBuffer in Java | Java Programming | In Hindi",
+      "duration": 1138
+    },
+    {
+      "id": "F4jdtv0S0ZI",
+      "title": "Introduction to Vector | Java Programming | In Hindi",
+      "duration": 886
+    },
+    {
+      "id": "tYZl-qrOAWk",
+      "title": "Vector Functions in Java | In Hindi",
+      "duration": 857
+    },
+    {
+      "id": "xohm86slhmw",
+      "title": "Introduction to Interface in Java | Java Interface | In Hindi",
+      "duration": 1305
+    },
+    {
+      "id": "mhfc-rc5ppY",
+      "title": "Implementing Multiple Inheritance in Java | Java Interface | In Hindi",
+      "duration": 798
+    },
+    {
+      "id": "wPWtEtI5Ou0",
+      "title": "Introduction to Package in Java | Java API Packages | In Hindi",
+      "duration": 800
+    },
+    {
+      "id": "LCgUrANJbQk",
+      "title": "Creating User Defined Package in Java | In Hindi",
+      "duration": 719
+    },
+    {
+      "id": "LEsvDyqPzPM",
+      "title": "Introduction to Multithreading in Java | Java Multithreading | In Hindi",
+      "duration": 1394
+    },
+    {
+      "id": "oE4p6kaqE0I",
+      "title": "Thread Life Cycle | Multithreading in Java | In Hindi",
+      "duration": 1064
+    },
+    {
+      "id": "rYMNig1FkVI",
+      "title": "Thread Methods in Java | Yield Method | Sleep Method | Stop Method | Multithreading in Java",
+      "duration": 729
+    },
+    {
+      "id": "zmyliVBCLyI",
+      "title": "Java Multithreading Methods | GetPriority() | SetPriority() | In Hindi",
+      "duration": 724
+    },
+    {
+      "id": "Vff3REZWcPs",
+      "title": "Multithreading Methods | getPriority() |  setPriority() | getId() | currentThread() | In Hindi",
+      "duration": 797
+    },
+    {
+      "id": "i_jQltvQ3Ao",
+      "title": "String Vs StringBuffer in Java | Java Programming | In Hindi",
+      "duration": 441
+    },
+    {
+      "id": "nUcBVhNCCfc",
+      "title": "Synchronization in Java | Java Programming | One Shot Video | In Hindi",
+      "duration": 1078
+    },
+    {
+      "id": "7xdhGMSE9DI",
+      "title": "Runnable Interface in Java | Java Programming | In Hindi",
+      "duration": 568
+    },
+    {
+      "id": "gVk9Fgpwh-I",
+      "title": "Introduction to Exception Handling | Java Programming | In Hindi",
+      "duration": 777
+    },
+    {
+      "id": "MmpZRTiGCiI",
+      "title": "Types of Exception Exception Handling | Java Programming | In Hindi",
+      "duration": 641
+    },
+    {
+      "id": "Ex7M8kmq8tI",
+      "title": "Exception Handling | Arithmetic Exception | Code Implementation | Java Programming | In Hindi",
+      "duration": 602
+    },
+    {
+      "id": "xNPlClmeI1I",
+      "title": "Command Line Argument in Java | Java Programming | In Hindi",
+      "duration": 1247
+    },
+    {
+      "id": "ER0ROkrqXqc",
+      "title": "Catching Invalid Command Line Argument | Exception Handling | Java Programming | In Hindi",
+      "duration": 858
+    },
+    {
+      "id": "CHWzM9kCFFQ",
+      "title": "Introduction to Applet | Java Programming | In Hindi",
+      "duration": 883
+    },
+    {
+      "id": "xirpOlFSgW8",
+      "title": "Applet Life Cycle | Java Programming | In Hindi",
+      "duration": 1028
+    },
+    {
+      "id": "KuzbpblfCek",
+      "title": "Writing Applet Code | Java Applet | Java Programming",
+      "duration": 1086
+    },
+    {
+      "id": "RjkR26RhCpY",
+      "title": "Add Two Numbers Using Java Applet | GUI Programming | In Hindi",
+      "duration": 1368
+    },
+    {
+      "id": "uKG7Fr2rrRg",
+      "title": "Java Applet | GUI Programming | Check a Number is Odd or Even|  In Hindi",
+      "duration": 935
+    },
+    {
+      "id": "I2YfqpplAQI",
+      "title": "Java Applet | GUI Programming | Check a Number is Prime or Not | In Hindi",
+      "duration": 950
+    },
+    {
+      "id": "sIKlfb7bb-A",
+      "title": "Executing Java Applets using Appletviewer Tool | Resolving Appletviewer Issue",
+      "duration": 261
+    },
+    {
+      "id": "U4fQY-Frhz8",
+      "title": "Introduction to File Handling in Java | In Hindi",
+      "duration": 946
+    },
+    {
+      "id": "CRNWC-5SeP0",
+      "title": "Java File Handling | Writing Data to File | In Hindi",
+      "duration": 1043
+    },
+    {
+      "id": "vLjbNUinstM",
+      "title": "Java File Handling | Creating a File and Writing Data to File | In Hindi",
+      "duration": 747
+    },
+    {
+      "id": "J5fE8rzJSnM",
+      "title": "Introduction to Flow Chart | One Shot | Complete Flow Chart in One Video | With Example",
+      "duration": 3076
+    },
+    {
+      "id": "LAWnN42iV1A",
+      "title": "Pseudocode | One Shot | With Examples",
+      "duration": 3849
+    }
+  ]
+}

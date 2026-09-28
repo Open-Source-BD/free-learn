@@ -1,0 +1,175 @@
+{
+  "courseId": "hibernate-tutorial-basic-to-advance-in-hindi-28b4dd",
+  "sourceUrl": "https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:49.180Z",
+  "title": "Hibernate Tutorial for beginners in hindi",
+  "channel": "Learn Code With Durgesh",
+  "videos": [
+    {
+      "id": "KqzLEKHtLlw",
+      "title": "#0. Hibernate Tutorial  | Course Overview | Prerequisite of hibernate course | hindi",
+      "duration": 440
+    },
+    {
+      "id": "ScirB_AxbZo",
+      "title": "#1.  What is hibernate Framework | ORM Tool |  Hibernate is ORM Tool",
+      "duration": 1045
+    },
+    {
+      "id": "LCfiK4uMGNk",
+      "title": "#2. Creating MAVEN Project for hibernate and Adding dependencies in  HINDI",
+      "duration": 610
+    },
+    {
+      "id": "JJpKykMDkZY",
+      "title": "#3. Simple Java Project with hibernate dependencies in hindi",
+      "duration": 389
+    },
+    {
+      "id": "BU_UhmtRXdY",
+      "title": "#4. Configuring Hibernate in our project | hibernate configuration | hibernate.cfg.xml",
+      "duration": 1273
+    },
+    {
+      "id": "P7CxhuLuWyQ",
+      "title": "#5. First Hibernate Program using Annotations | how to save data using hibernate in hindi",
+      "duration": 1611
+    },
+    {
+      "id": "jDXNzNbiU4k",
+      "title": "#6. Basics Commonly used Hibernate Annotations in Hindi",
+      "duration": 788
+    },
+    {
+      "id": "Hvtoclau7Ts",
+      "title": "#7. Saving Image and other type value with hibernate | PRACTICAL SESSION ANNOTATIONS in HINDI",
+      "duration": 1439
+    },
+    {
+      "id": "yft9_cc81yM",
+      "title": "#8.  Fetching Object | get() method | load() method | Hibernate in hindi",
+      "duration": 1501
+    },
+    {
+      "id": "niSfoMlQafk",
+      "title": "#9.  Embedding Objects | Hibernate Tutorial | hindi",
+      "duration": 1076
+    },
+    {
+      "id": "Jp26SBMeifY",
+      "title": "#10. OneToOne Mapping  | Hibernate Mapping | Hibernate Tutorial in hindi",
+      "duration": 2092
+    },
+    {
+      "id": "XDnHKdWs8rI",
+      "title": "#11. OneToMany Relationship | ManyToOne Relationship Hibernate",
+      "duration": 1425
+    },
+    {
+      "id": "4Btx7ssOjA0",
+      "title": "#12. ManyToMany mapping hibernate tutorial | Theory",
+      "duration": 506
+    },
+    {
+      "id": "YSVjAr3DqOc",
+      "title": "#13. Many To Many Mapping | Practical Session",
+      "duration": 1159
+    },
+    {
+      "id": "OpYjBJjuwUI",
+      "title": "#14 . Fetch Technique Theory | Lazy Loading | Eager Loading | Hibernate Tutorial in hindi",
+      "duration": 496
+    },
+    {
+      "id": "BVafoYqL_z0",
+      "title": "#15. Fetch Technique Practical Session | Program of Lazy and Eager Loading",
+      "duration": 558
+    },
+    {
+      "id": "opOX3Acd0o0",
+      "title": "#16. Hibernate Objects States | Persistent Life Cycle in hindi",
+      "duration": 753
+    },
+    {
+      "id": "GZOiqn53qAA",
+      "title": "#17. Hibernate Objects States Practical Session",
+      "duration": 864
+    },
+    {
+      "id": "0nuGm8HBjWk",
+      "title": "#18. Complete Java Web Application 🔥🔥| NoteTaker | Hibernate | Servlet | JSP |  Hindi",
+      "duration": 6678
+    },
+    {
+      "id": "mf9lbY39aVQ",
+      "title": "#19.  What is HQL ? | Why to use HQL ? |  Hibernate Query Language |  Hibernate Tutorial in hindi",
+      "duration": 693
+    },
+    {
+      "id": "y_3qtSvPlH8",
+      "title": "#20.  How to execute HQL Queries |  Hibernate tutorial in hindi",
+      "duration": 903
+    },
+    {
+      "id": "CY1l2xeLdyg",
+      "title": "#21. Some more HQL Complex Queries | Delete | Update | Join Queries | Hibernate Tutorial in hindi",
+      "duration": 1140
+    },
+    {
+      "id": "qmlicGrH_AY",
+      "title": "#22. Implementing Pagination using Hibernate HQL Queries in hindi",
+      "duration": 1029
+    },
+    {
+      "id": "c0Qwsb2FN_8",
+      "title": "#23. Executing Native SQL Queries using Hibernate in hindi",
+      "duration": 696
+    },
+    {
+      "id": "ZHupUUBQUgQ",
+      "title": "#24. Hibernate Cascading",
+      "duration": 719
+    },
+    {
+      "id": "zxgvN-Qs4DU",
+      "title": "#25. Hibernate Caching in hindi",
+      "duration": 674
+    },
+    {
+      "id": "61n2CLjXaEI",
+      "title": "#26. First Level Cache Hibernate Tutorial in hindi",
+      "duration": 429
+    },
+    {
+      "id": "-vKFxm9u68o",
+      "title": "#27. Second Level Cache Hibernate Tutorial",
+      "duration": 710
+    },
+    {
+      "id": "2IibiNUjuHo",
+      "title": "Todo Project Part 2 : Hibernate Integration with Spring MVC in hindi",
+      "duration": 2486
+    },
+    {
+      "id": "V-I-R-iI_-g",
+      "title": "#29.  Hibernate Mapping using XML file : Thoery",
+      "duration": 345
+    },
+    {
+      "id": "qwv_Pia7CnA",
+      "title": "#30. How to map class in hibernate using XML file : Practical",
+      "duration": 797
+    },
+    {
+      "id": "SvswgkNQ1MY",
+      "title": "#31. Hibernate Criteria API | Criteria Restrictions| Hibernate Tutorial in hindi",
+      "duration": 852
+    },
+    {
+      "id": "H__ELR1y3FQ",
+      "title": "🔥Spring Data JPA Mappings in one Shot | Detail Video | OneToOne | OneToMany | ManyToMany Mapping",
+      "duration": 5096
+    }
+  ]
+}

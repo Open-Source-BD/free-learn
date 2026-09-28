@@ -1,0 +1,180 @@
+{
+  "courseId": "core-java-in-hindi-61dedf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLVlQHNRLflP8kPvCvEM7ZopbRB93joJXy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:42.081Z",
+  "title": "Core Java in Hindi",
+  "channel": "Naresh i Technologies",
+  "videos": [
+    {
+      "id": "GvBTu50qSDQ",
+      "title": "Core Java in Hindi Tutorials | NareshIT",
+      "duration": 131
+    },
+    {
+      "id": "TA1Kpn-0vCY",
+      "title": "Core Java in Hindi | Object Oriented Programming (OOPs) in Java | Session-1",
+      "duration": 1000
+    },
+    {
+      "id": "ylcJJR8EdmY",
+      "title": "Core Java in Hindi | Object Oriented Programming (OOPs) in Java | Session-2",
+      "duration": 1297
+    },
+    {
+      "id": "BLR5GdxUYx4",
+      "title": "Core Java in Hindi | Object Oriented Programming (OOPs) in Java | Session-3",
+      "duration": 1357
+    },
+    {
+      "id": "lc0SwYI1rX4",
+      "title": "Core Java in Hindi | Default constructor added by the compiler | Session-4",
+      "duration": 1315
+    },
+    {
+      "id": "7SNJamxhCZk",
+      "title": "Core Java in Hindi | How to provide own user defined values for the instance variables | Session-5",
+      "duration": 799
+    },
+    {
+      "id": "dqc1X4ipNWk",
+      "title": "Core Java in Hindi | Parameter to a method | Session-6",
+      "duration": 724
+    },
+    {
+      "id": "P2wSM6XO8o8",
+      "title": "Core Java in Hindi | How to write BLC | Session-7",
+      "duration": 1305
+    },
+    {
+      "id": "2jb12csx96s",
+      "title": "Core Java in Hindi | Role of instance variables at object creation | Session-8",
+      "duration": 818
+    },
+    {
+      "id": "sXaK4-oVWco",
+      "title": "Core Java in Hindi | This keyword | Session-9",
+      "duration": 1269
+    },
+    {
+      "id": "KytEgER4KvI",
+      "title": "Core Java in Hindi | Data hiding | Session-10",
+      "duration": 1197
+    },
+    {
+      "id": "B9Wr1o50ns0",
+      "title": "Core Java in Hindi | Abstraction | Session-11",
+      "duration": 494
+    },
+    {
+      "id": "t63hATmSgmo",
+      "title": "Core Java in Hindi | Encapsulation | Session-12",
+      "duration": 1009
+    },
+    {
+      "id": "OzFqYtXoVoA",
+      "title": "Core Java in Hindi | Advantage of writing constructor in our class | Session-13",
+      "duration": 1446
+    },
+    {
+      "id": "fv48CwNoNcc",
+      "title": "Core Java in Hindi | Constructor | Session-14",
+      "duration": 760
+    },
+    {
+      "id": "lbTC4l_oiZk",
+      "title": "Core Java in Hindi |No argument constructor| Session-15",
+      "duration": 745
+    },
+    {
+      "id": "vgX8L0E1Trk",
+      "title": "Core Java in Hindi |Parameterised Constructor| Session-16",
+      "duration": 937
+    },
+    {
+      "id": "jssIzqmkSW8",
+      "title": "Core Java in Hindi |HAS-A Relation| Session-17",
+      "duration": 1274
+    },
+    {
+      "id": "H9tVm3fxpNQ",
+      "title": "Core Java in Hindi |Passing object reference to a parameterised constructor| Session-18",
+      "duration": 1135
+    },
+    {
+      "id": "JGbI0YCoj0U",
+      "title": "Core Java in Hindi | Relationship between the classes | Session-19",
+      "duration": 884
+    },
+    {
+      "id": "vcoRAWGEQpQ",
+      "title": "Core Java in Hindi | Inheritance | Session-20",
+      "duration": 958
+    },
+    {
+      "id": "ynI8NkE_H1s",
+      "title": "Core Java in Hindi | Program on inheritance | Session-21",
+      "duration": 1196
+    },
+    {
+      "id": "1yIOfQr0LAY",
+      "title": "Core Java in Hindi | Super Key Word in Java | Session-22",
+      "duration": 808
+    },
+    {
+      "id": "ZodeOYF5iM0",
+      "title": "Core Java in Hindi | Calling Superclass Constructor | Session-23",
+      "duration": 1295
+    },
+    {
+      "id": "JbfISWxOOuc",
+      "title": "Core Java in Hindi | Program to call super class constructor | Session-24",
+      "duration": 802
+    },
+    {
+      "id": "nwtWIeIzyl8",
+      "title": "Core Java in Hindi | Program to call super class constructor | Session-25",
+      "duration": 759
+    },
+    {
+      "id": "MJ2CVSJQG3s",
+      "title": "Core Java in Hindi | Polymorphism| Session-26",
+      "duration": 596
+    },
+    {
+      "id": "JXyAw_CZ-P4",
+      "title": "Core Java in Hindi | Dynamic Polymorphism | Session-28",
+      "duration": 345
+    },
+    {
+      "id": "Si9CC1u0KZE",
+      "title": "Core Java in Hindi | Method Overriding | Session-29",
+      "duration": 760
+    },
+    {
+      "id": "6ntFkaSyEOg",
+      "title": "Core Java in Hindi | Advantage Of Method Overriding | Session-30",
+      "duration": 707
+    },
+    {
+      "id": "gcppNX8USV0",
+      "title": "Core Java in Hindi | @Override Annotation | Session-31",
+      "duration": 830
+    },
+    {
+      "id": "H18JGYc95e8",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "HMzB3zGEuqE",
+      "title": "Core Java in Hindi | Co -Variant Return Type | Session-33",
+      "duration": 721
+    },
+    {
+      "id": "Lly6Hxg_1kk",
+      "title": "Core Java in Hindi | Role Of Access Modifier While Overriding a Method  | Session-32",
+      "duration": 804
+    }
+  ]
+}

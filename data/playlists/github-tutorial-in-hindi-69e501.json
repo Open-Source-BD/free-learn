@@ -1,0 +1,50 @@
+{
+  "courseId": "github-tutorial-in-hindi-69e501",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:46.879Z",
+  "title": "GitHub Tutorial in Hindi",
+  "channel": "Be a Programmer",
+  "videos": [
+    {
+      "id": "xYQ9Q_appcA",
+      "title": "#01 Introduction to Git and GitHub",
+      "duration": 660
+    },
+    {
+      "id": "zSCF5Zt_Vdc",
+      "title": "#02 How to create GitHub account?",
+      "duration": 334
+    },
+    {
+      "id": "5xVBJBwl3Jw",
+      "title": "#03 How to create repository in GitHub?",
+      "duration": 526
+    },
+    {
+      "id": "hRxAn3qgc2c",
+      "title": "#04 How to Create Branch in GitHub",
+      "duration": 380
+    },
+    {
+      "id": "MM-QT6h_Pfs",
+      "title": "#05 How to Start Contributing to Open Source || Forking in GitHub",
+      "duration": 458
+    },
+    {
+      "id": "xpFk2Qk9PoI",
+      "title": "#06 How to Upload project to GitHub || Push code to GitHub",
+      "duration": 246
+    },
+    {
+      "id": "AwyTM7MLW_U",
+      "title": "GIT commands with examples in Hindi | Git commands for Beginners",
+      "duration": 3550
+    },
+    {
+      "id": "w2dN94hd-DY",
+      "title": "MOST IMPORTANT GIT COMMANDS IN ONE SHOT | FULL PRACTICAL VIDEO | GIT FOR EVERYONE WITH EXAMPLE",
+      "duration": 1150
+    }
+  ]
+}

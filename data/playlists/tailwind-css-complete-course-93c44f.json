@@ -1,0 +1,35 @@
+{
+  "courseId": "tailwind-css-complete-course-93c44f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfEr2kn3s-br05lTglbEi25A1X07cvihy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:16.052Z",
+  "title": "Tailwind CSS Complete Course in Hindi | 6 Hours",
+  "channel": "Anurag Singh ProCodrr",
+  "videos": [
+    {
+      "id": "KX6R9hQ6LvI",
+      "title": "Getting Started with Tailwind CSS | Tailwind CSS Complete Course in Hindi | Ep.01",
+      "duration": 3466
+    },
+    {
+      "id": "U_WJMlKuMf4",
+      "title": "The Shoe Company l Tailwind CSS Responsive Project | Tailwind CSS Complete Course | Hindi | Ep.02",
+      "duration": 13624
+    },
+    {
+      "id": "GocAESuWs3M",
+      "title": "Dynamic Styling using Tailwind | Tailwind CSS Complete Course | Hindi | Ep.03",
+      "duration": 1158
+    },
+    {
+      "id": "NHQ4WpiyY6E",
+      "title": "Automatically Sort Tailwind  Class with Prettier  | Tailwind CSS Complete Course | Hindi | Ep.04",
+      "duration": 839
+    },
+    {
+      "id": "zb7gDMGrhdY",
+      "title": "Carousel Using SwiperJS and Tailwind | Tailwind CSS Complete Course | Hindi | Ep.05",
+      "duration": 1839
+    }
+  ]
+}
