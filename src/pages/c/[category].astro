@@ -1,0 +1,23 @@
+---
+import BrowseView from '@/components/browse/BrowseView';
+import AppShell from '@/layouts/AppShell.astro';
+import { toCardData } from '@/lib/catalog';
+import { loadCatalog } from '@/lib/load-catalog';
+
+export function getStaticPaths() {
+  const { categories, courses } = loadCatalog();
+  return categories
+    .flatMap((g) => g.items)
+    .map((item) => ({
+      params: { category: item.slug },
+      props: { name: item.name, courses: courses.filter((c) => c.categorySlug === item.slug).map(toCardData) },
+    }));
+}
+
+const { name, courses } = Astro.props;
+const { category } = Astro.params;
+---
+
+<AppShell title={`${name} courses`} activeSlug={category} description={`Free ${name} courses from YouTube.`}>
+  <BrowseView client:load courses={courses} heading={name} />
+</AppShell>
