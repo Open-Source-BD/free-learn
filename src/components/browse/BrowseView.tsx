@@ -24,8 +24,9 @@ export default function BrowseView({ courses, heading, showContinue = false }: P
   const visible = useMemo(() => applyFilter(courses, filter), [courses, filter]);
 
   return (
-    <div className="space-y-5">
+    <>
       <ChipBar value={filter} onChange={update} />
+      <div className="space-y-5">
       {heading && (
         <h1 className="px-1 text-2xl font-semibold">
           {heading} <span className="text-base font-normal text-white/50">· {visible.length} courses</span>
@@ -33,6 +34,7 @@ export default function BrowseView({ courses, heading, showContinue = false }: P
       )}
       {showContinue && <ContinueWatching />}
       <CourseGrid courses={visible} />
-    </div>
+      </div>
+    </>
   );
 }

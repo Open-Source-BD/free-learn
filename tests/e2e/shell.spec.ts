@@ -9,9 +9,28 @@ test('rail group opens with the keyboard, Esc closes and returns focus', async (
     await expect(page.locator('#rail-popover')).toBeVisible({ timeout: 500 });
   }).toPass();
   await expect(btn).toHaveAttribute('aria-expanded', 'true');
+  await expect(page.locator('#rail-popover a').first()).toBeFocused();
   await page.keyboard.press('Escape');
   await expect(page.locator('#rail-popover')).toHaveCount(0);
   await expect(btn).toBeFocused();
+});
+
+test('rail popover closes when keyboard focus leaves the rail', async ({ page }) => {
+  await page.goto('/');
+  const btn = page.getByRole('navigation', { name: 'Categories' }).getByRole('button', { name: 'Languages' });
+  await expect(async () => {
+    await btn.focus();
+    await page.keyboard.press('Enter');
+    await expect(page.locator('#rail-popover')).toBeVisible({ timeout: 500 });
+  }).toPass();
+  for (let i = 0; i < 40; i++) {
+    const outside = await page.evaluate(
+      () => !document.activeElement?.closest('#rail-popover') && !document.activeElement?.closest('nav[aria-label="Categories"]'),
+    );
+    if (outside) break;
+    await page.keyboard.press('Tab');
+  }
+  await expect(page.locator('#rail-popover')).toHaveCount(0);
 });
 
 test('content starts below the language pill and right of the rail', async ({ page }) => {

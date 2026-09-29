@@ -24,7 +24,7 @@ export default function WatchApp({ course, videos, children }: Props) {
   const [error, setError] = useState<PlayerErrorAction | null>(null);
   const [reloadKey, setReloadKey] = useState(0);
   const [playing, setPlaying] = useState(false);
-  const [playlistOpen, setPlaylistOpen] = useState(true);
+  const [playlistOpen, setPlaylistOpen] = useState<boolean | null>(null);
   const playerRef = useRef<PlayerHandle>(null);
   const isList = videos.length > 1;
 
@@ -105,7 +105,7 @@ export default function WatchApp({ course, videos, children }: Props) {
   const video = videos.find((v) => v.id === current);
   const hasNext = !!nextVideoId(videos, current, unavailable);
   const hasPrev = !!prevVideoId(videos, current, unavailable);
-  const showList = isList && playlistOpen;
+  const showList = isList && playlistOpen !== false;
 
   return (
     <>
@@ -150,7 +150,7 @@ export default function WatchApp({ course, videos, children }: Props) {
           {current && <PlayerMeta course={course} videoTitle={video?.title ?? course.title} />}
         </div>
         {showList && (
-          <div className="lg:col-start-2 lg:row-span-2 lg:row-start-1">
+          <div className={`lg:col-start-2 lg:row-span-2 lg:row-start-1 ${playlistOpen === null ? 'hidden lg:block' : ''}`}>
             <PlaylistPanel
               title={course.title}
               videos={videos}
@@ -171,7 +171,7 @@ export default function WatchApp({ course, videos, children }: Props) {
           playing={playing}
           isWatched={watched.has(current)}
           autoplay={autoplay}
-          playlistOpen={playlistOpen}
+          playlistOpen={playlistOpen === true}
           youtubeUrl={youtubeWatchUrl(current, course.listId)}
           onPrev={goPrev}
           onNext={() => goNext()}
@@ -181,7 +181,7 @@ export default function WatchApp({ course, videos, children }: Props) {
             setAutoplay(v);
             store.setPrefs({ autoplay: v });
           }}
-          onTogglePlaylist={() => setPlaylistOpen((o) => !o)}
+          onTogglePlaylist={() => setPlaylistOpen((o) => !(o ?? false))}
         />
       )}
     </>

@@ -15,6 +15,7 @@ const hoverCapable = () => window.matchMedia('(pointer: fine)').matches;
 
 export default function IconRail({ categories, activeSlug }: Props) {
   const [open, setOpen] = useState<CategoryGroup | null>(null);
+  const focusFirst = useRef(false);
   const root = useRef<HTMLDivElement>(null);
   const buttons = useRef(new Map<CategoryGroup, HTMLButtonElement>());
   const closeTimer = useRef<number | undefined>(undefined);
@@ -46,6 +47,13 @@ export default function IconRail({ categories, activeSlug }: Props) {
 
   useEffect(() => cancelClose, []);
 
+  useEffect(() => {
+    if (open && focusFirst.current) {
+      focusFirst.current = false;
+      root.current?.querySelector<HTMLAnchorElement>('#rail-popover a')?.focus();
+    }
+  }, [open]);
+
   const openNode = categories.find((g) => g.group === open);
 
   return (
@@ -54,10 +62,22 @@ export default function IconRail({ categories, activeSlug }: Props) {
       className="fixed top-[80px] left-3 z-40 hidden md:block"
       onPointerEnter={cancelClose}
       onPointerLeave={() => hoverCapable() && scheduleClose()}
+      onBlur={(e) => {
+        const next = e.relatedTarget as Node | null;
+        if (next) {
+          if (!root.current?.contains(next)) setOpen(null);
+          return;
+        }
+        // Focus moved to nothing (e.g. tabbed past the last link to <body>): re-check once it settles
+        // (a plain window blur leaves activeElement inside the rail, so it does not close).
+        window.setTimeout(() => {
+          if (!root.current?.contains(document.activeElement)) setOpen(null);
+        }, 0);
+      }}
     >
       <nav aria-label="Categories">
         <LiquidGlass borderRadius={28}>
-          <ul className="flex w-10 flex-col items-center gap-2 py-1">
+          <ul className="max-h-[calc(100dvh-92px)] overflow-y-auto flex w-10 flex-col items-center gap-2 py-1">
             <li>
               <a
                 href="/"
@@ -81,7 +101,7 @@ export default function IconRail({ categories, activeSlug }: Props) {
                     type="button"
                     aria-label={g.group}
                     aria-expanded={open === g.group}
-                    aria-controls="rail-popover"
+                    aria-controls={open === g.group ? 'rail-popover' : undefined}
                     className={`glass-btn glass-icon size-9 rounded-xl ${highlighted ? 'ring-2 ring-white/70' : ''}`}
                     style={{ background: `linear-gradient(135deg, ${c1}, ${c2})`, boxShadow: `inset 0 1px 0 rgba(255,255,255,.45)` }}
                     onPointerEnter={() => {
@@ -89,7 +109,10 @@ export default function IconRail({ categories, activeSlug }: Props) {
                       cancelClose();
                       setOpen(g.group);
                     }}
-                    onClick={() => setOpen((o) => (o === g.group && !hoverCapable() ? null : g.group))}
+                    onClick={(e) => {
+                      if (e.detail === 0) focusFirst.current = true;
+                      setOpen((o) => (o === g.group && !hoverCapable() ? null : g.group));
+                    }}
                   >
                     <Icon className="size-4" />
                   </button>

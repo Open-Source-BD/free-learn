@@ -32,15 +32,23 @@ export default function LiquidGlass({ children, className = '', borderRadius = 1
   useEffect(() => {
     const el = box.current;
     if (!el || !enabled) return;
-    const measure = () => {
+    let frame = 0;
+    const doMeasure = () => {
       const w = Math.round(el.offsetWidth);
       const h = Math.round(el.offsetHeight);
       setSize((s) => (s && s.w === w && s.h === h ? s : { w, h }));
     };
-    measure();
+    const measure = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(doMeasure);
+    };
+    doMeasure();
     const ro = new ResizeObserver(measure);
     ro.observe(el);
-    return () => ro.disconnect();
+    return () => {
+      cancelAnimationFrame(frame);
+      ro.disconnect();
+    };
   }, [enabled]);
 
   const markup = useMemo(() => {

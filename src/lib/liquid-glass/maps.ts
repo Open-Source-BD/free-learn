@@ -58,13 +58,18 @@ export function computeMaps(W: number, H: number, radius: number) {
   return { disp, spec, max: prof.max };
 }
 
+const CACHE_MAX = 24;
 const cache = new Map<string, GlassMaps>();
 
 /** Encodes computeMaps() as PNG data URLs (browser only). Memoised by size + radius. */
 export function buildMaps(W: number, H: number, radius: number): GlassMaps {
   const key = `${W}x${H}x${radius}`;
   const hit = cache.get(key);
-  if (hit) return hit;
+  if (hit) {
+    cache.delete(key);
+    cache.set(key, hit);
+    return hit;
+  }
   const raw = computeMaps(W, H, radius);
   const canvas = document.createElement('canvas');
   canvas.width = W;
@@ -77,5 +82,6 @@ export function buildMaps(W: number, H: number, radius: number): GlassMaps {
   };
   const maps = { map: png(raw.disp), spec: png(raw.spec), max: raw.max };
   cache.set(key, maps);
+  if (cache.size > CACHE_MAX) cache.delete(cache.keys().next().value as string);
   return maps;
 }

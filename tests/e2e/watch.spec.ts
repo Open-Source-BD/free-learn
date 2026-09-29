@@ -106,3 +106,19 @@ test('the last "More" card ends above the control bar', async ({ page }) => {
   const barBox = await bar.boundingBox();
   expect(card!.y + card!.height).toBeLessThanOrEqual(barBox!.y);
 });
+
+test('control bar fits at phone width', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await openFirstPlaylist(page);
+  const bar = page.getByTestId('control-bar');
+  await expect(bar).toBeVisible();
+  const buttons = bar.locator('button:visible');
+  const n = await buttons.count();
+  expect(n).toBeGreaterThan(0);
+  for (let i = 0; i < n; i++) {
+    const box = await buttons.nth(i).boundingBox();
+    expect(box!.width).toBeGreaterThanOrEqual(36);
+  }
+  const b = await bar.boundingBox();
+  expect(b!.x + b!.width).toBeLessThanOrEqual(390);
+});
