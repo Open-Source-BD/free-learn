@@ -24,7 +24,12 @@ test('filter state survives reload from the URL', async ({ page }) => {
 
 test('category page shows only that category', async ({ page }) => {
   await page.goto('/');
-  const link = page.getByRole('navigation', { name: 'Categories' }).locator('a[href^="/c/"]').first();
+  const rail = page.getByRole('navigation', { name: 'Categories' });
+  await expect(async () => {
+    await rail.getByRole('button', { name: 'Languages' }).click();
+    await expect(page.locator('#rail-popover')).toBeVisible({ timeout: 500 });
+  }).toPass();
+  const link = page.locator('#rail-popover a[href^="/c/"]').first();
   const name = (await link.locator('span').first().textContent())!.trim();
   await link.click();
   await expect(page).toHaveURL(/\/c\//);
