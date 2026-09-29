@@ -68,8 +68,17 @@ body {
 
 @layer components {
   /* keep icons/labels readable on liquid glass: tight dark edge + small drop + soft halo */
+  /* text follows the letters (never the chip/button box); icons get a tight glyph shadow */
   .glass-icon {
-    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.85)) drop-shadow(0 1px 2px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 8px rgba(0, 0, 0, 0.45));
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7), 0 0 4px rgba(0, 0, 0, 0.45);
+  }
+  svg.glass-icon,
+  .glass-icon svg {
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 3px rgba(0, 0, 0, 0.3));
+  }
+  .chip.glass-icon[data-state='on'],
+  .chip.glass-icon[aria-pressed='true'] {
+    text-shadow: none;
   }
   .glass-btn {
     display: inline-grid;
