@@ -19,6 +19,7 @@ export default function SearchDialog({ open, onOpenChange }: Props) {
 
   useEffect(() => {
     if (!open || ms) return;
+    setFailed(false);
     fetch('/search-index.json')
       .then((r) => {
         if (!r.ok) throw new Error(String(r.status));

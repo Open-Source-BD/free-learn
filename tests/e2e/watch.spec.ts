@@ -9,6 +9,11 @@ async function openFirstPlaylist(page: import('@playwright/test').Page) {
   await expect(page).toHaveURL(/\/watch\//);
 }
 
+test('opening a playlist course puts ?v= in the URL', async ({ page }) => {
+  await openFirstPlaylist(page);
+  await expect(page).toHaveURL(/\?v=[A-Za-z0-9_-]{11}/);
+});
+
 test('playlist watch page: player, list, switching videos, back button', async ({ page }) => {
   await openFirstPlaylist(page);
   await expect(page.locator('iframe[src*="youtube"]')).toBeVisible({ timeout: 20_000 });
@@ -35,6 +40,7 @@ test('unknown ?v= falls back to a real video', async ({ page }) => {
   url.searchParams.set('v', 'zzzzzzzzzzz');
   await page.goto(url.toString());
   await expect(page.locator('[data-testid="playlist"] button[aria-current="true"]')).toHaveCount(1);
+  await expect(page).not.toHaveURL(/zzzzzzzzzzz/);
 });
 
 test('mark watched shows a tick and the course appears in Continue watching', async ({ page }) => {

@@ -28,6 +28,7 @@ export default function WatchApp({ course, videos, children }: Props) {
     const saved = store.get(course.id);
     const requested = new URLSearchParams(window.location.search).get('v');
     const id = resolveStartVideo(videos, requested, saved?.lastVideo ?? null);
+    if (id && requested !== id) history.replaceState(null, '', `?v=${id}`);
     setCurrent(id);
     setStartAt(id && saved && id === saved.lastVideo ? saved.t : 0);
     setWatched(new Set(saved?.watched ?? []));

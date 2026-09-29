@@ -42,5 +42,5 @@ test('search opens with the keyboard and navigates to a course', async ({ page }
   }).toPass();
   await input.fill('python');
   await page.getByRole('option').first().click();
-  await expect(page).toHaveURL(/\/watch\/|youtube\.com/);
+  await expect(page).toHaveURL(/\/watch\/[a-z0-9-]+-[0-9a-f]{6}|youtube\.com/);
 });

@@ -26,7 +26,7 @@ export default function ContinueWatching() {
         {items.map((i) => (
           <a key={i.id} href={i.href} className="glass lift block p-2" data-testid="continue-card">
             <div className="relative aspect-video overflow-hidden rounded-[10px] bg-white/5">
-              <img src={thumbUrl(i.videoId)} alt="" loading="lazy" className="size-full object-cover" />
+              <img src={thumbUrl(i.videoId)} alt="" loading="lazy" className="size-full object-cover" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <span className="absolute inset-x-0 bottom-0 h-1 bg-white/20">
                 <span className="block h-full bg-red-500" style={{ width: `${i.total ? (i.watchedCount / i.total) * 100 : 0}%` }} />
               </span>
