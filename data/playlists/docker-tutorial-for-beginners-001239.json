@@ -1,0 +1,75 @@
+{
+  "courseId": "docker-tutorial-for-beginners-001239",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:52.814Z",
+  "title": "Docker Tutorials",
+  "channel": "thenewboston",
+  "videos": [
+    {
+      "id": "gFjxB0Jn8Wo",
+      "title": "Docker - Tutorial 1 - Introduction (Download and Install)",
+      "duration": 488
+    },
+    {
+      "id": "vhxnpsGHV30",
+      "title": "Docker - Tutorial 2 - Images, Containers, and Docker Server (Daemon)",
+      "duration": 442
+    },
+    {
+      "id": "yKUuCtSLwEM",
+      "title": "Docker - Tutorial 3 - Default Commands",
+      "duration": 419
+    },
+    {
+      "id": "kCjsgOfNRc0",
+      "title": "Docker - Tutorial 4 - List, Create, and Start Containers",
+      "duration": 557
+    },
+    {
+      "id": "lQDVVd3Mq_A",
+      "title": "Docker - Tutorial 5 - Logs, Stop, and Kill Containers",
+      "duration": 452
+    },
+    {
+      "id": "iYwRamunM6k",
+      "title": "Docker - Tutorial 6 - Remove and Inspect Containers",
+      "duration": 238
+    },
+    {
+      "id": "QITUevjFtj0",
+      "title": "Docker - Tutorial 7 - Run a Command in a Running Container with exec",
+      "duration": 294
+    },
+    {
+      "id": "QFKcgN1BApA",
+      "title": "Docker - Tutorial 8 - Creating Custom Images",
+      "duration": 480
+    },
+    {
+      "id": "ydHdgf6KfPA",
+      "title": "Docker - Tutorial 9 - Create an Image from a Dockerfile",
+      "duration": 479
+    },
+    {
+      "id": "mZQzzrWZSTU",
+      "title": "Docker - Tutorial 10 - COPY and ADD",
+      "duration": 507
+    },
+    {
+      "id": "BG3f0E_4HiE",
+      "title": "Docker - Tutorial 11 - Creating a Realistic Project",
+      "duration": 595
+    },
+    {
+      "id": "V9N4K-Pt4w4",
+      "title": "Docker - Tutorial 12 - Debugging and Running Our Project",
+      "duration": 682
+    },
+    {
+      "id": "u5ccLaeL0iI",
+      "title": "Docker - Tutorial 13 - Unnecessary Rebuilds and dockerignore File",
+      "duration": 1005
+    }
+  ]
+}

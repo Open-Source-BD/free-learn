@@ -1,0 +1,30 @@
+{
+  "courseId": "ballerina-programming-language-basics-a7ff33",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0L4CCqT3awXQUgf6Djl-Oxg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:11.835Z",
+  "title": "Ballerina Programming Language Basics",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "2eR27NSOncs",
+      "title": "Ballerina Language Array Data Type - Part 1",
+      "duration": 630
+    },
+    {
+      "id": "VlduWj6DMgA",
+      "title": "Ballerina Language Array Data Type - Part 2",
+      "duration": 476
+    },
+    {
+      "id": "hZlW_ZHvaxY",
+      "title": "Ballerina Language Tuple Data Type",
+      "duration": 489
+    },
+    {
+      "id": "0Exi8OpzN-M",
+      "title": "Ballerina Language Stream Data Type",
+      "duration": 884
+    }
+  ]
+}

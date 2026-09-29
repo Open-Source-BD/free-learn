@@ -1,0 +1,185 @@
+{
+  "courseId": "learn-codeigniter-4-framework-tutorials-hindi-cd27f7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:32.062Z",
+  "title": "Learn CodeIgniter 4 Framework Tutorials (Hindi)",
+  "channel": "Online Web Tutor Academy",
+  "videos": [
+    {
+      "id": "nZi_07qf6S8",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #1 Download & Setup Application | Manual + Composer Method",
+      "duration": 749
+    },
+    {
+      "id": "nJ0SUUVWGmk",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #2 Understand Folder Structure of Application",
+      "duration": 969
+    },
+    {
+      "id": "nitae6moLHU",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #3 Create Controllers & Configure Routes",
+      "duration": 668
+    },
+    {
+      "id": "LlQcFVlBP2U",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #4 Load View Files | Single & Multiple",
+      "duration": 589
+    },
+    {
+      "id": "qOvyJAJ64Eo",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #5 - Pass Dynamic Parameters from Controller to Views",
+      "duration": 604
+    },
+    {
+      "id": "wkEffq6d628",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #6 - Concept of Master Layout for View Files",
+      "duration": 827
+    },
+    {
+      "id": "9WBM1QsASBI",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #7 - How can we include Partial Files in CodeIgniter 4",
+      "duration": 375
+    },
+    {
+      "id": "Yf86rZJJmu0",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #8 - Including Assets(CSS/JS) to Template Files",
+      "duration": 563
+    },
+    {
+      "id": "weH7l6-6CgY",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #9 -  About Closure Routes in CodeIgniter",
+      "duration": 369
+    },
+    {
+      "id": "SsyM_6uFa_8",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #10 -  Parametrized Routing | URI Routing",
+      "duration": 660
+    },
+    {
+      "id": "29RmOqX4Ue8",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #11 -  Handle Query String Parameters",
+      "duration": 393
+    },
+    {
+      "id": "Z4JT6gQwaH4",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #12 -  Application Database Connection",
+      "duration": 431
+    },
+    {
+      "id": "Vrfd_KbOCtg",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #13 -  Executing Raw Queries #1 in CodeIgniter 4",
+      "duration": 767
+    },
+    {
+      "id": "Mm_8s6r-DVU",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #14 - Executing Raw Queries #2 - Select Query",
+      "duration": 427
+    },
+    {
+      "id": "vUkWJqnQhNg",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #15 - Query Builder Class in CodeIgniter 4 #1",
+      "duration": 599
+    },
+    {
+      "id": "RQDk1iNTUR4",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #16 - Query Builder Class #2 - Where, Insert & InserrtBatch",
+      "duration": 722
+    },
+    {
+      "id": "ay7AmwB-0tU",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #17 - Query Builder Class #3 - Update & Delete Methods",
+      "duration": 703
+    },
+    {
+      "id": "RDOM7by9Vjo",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #18 - About CodeIgniter 4 Model & It's Configurations",
+      "duration": 870
+    },
+    {
+      "id": "YJC0_kMb8Ms",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #19 - CodeIgniter 4 Model - Insert, Update & Delete Methods",
+      "duration": 803
+    },
+    {
+      "id": "_aulL1oS5sc",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #20 - CodeIgniter 4 Model - Select - Find Data Methods",
+      "duration": 694
+    },
+    {
+      "id": "j-RcFJU6TKw",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #21 - About Form Helper in CodeIgniter 4",
+      "duration": 847
+    },
+    {
+      "id": "eTfWm4hEiGo",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #22 - Save Form Data To Database Table",
+      "duration": 780
+    },
+    {
+      "id": "bMMHNbk1-_U",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #23 - Flash Helper in CodeIgniter 4",
+      "duration": 510
+    },
+    {
+      "id": "gwFdN2RT_-I",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #24 - User Defined Helper in CodeIgniter 4",
+      "duration": 763
+    },
+    {
+      "id": "jOseXdb7HFA",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #25 - Pager Service | Pagination in CodeIgniter 4",
+      "duration": 833
+    },
+    {
+      "id": "iK1zIi7Cde8",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #26 - Session Service in CodeIgniter 4",
+      "duration": 836
+    },
+    {
+      "id": "up1Z857mW4o",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #27 - File Upload in CodeIgniter 4",
+      "duration": 767
+    },
+    {
+      "id": "uXqOAZngGiY",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #28 - File Upload Validation in CodeIgniter 4",
+      "duration": 721
+    },
+    {
+      "id": "oWTLmuEDrRA",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #29 - Remove \"public\" from URL",
+      "duration": 625
+    },
+    {
+      "id": "Er0fQ9mo-Bc",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #30 - Validation Service/Library in CodeIgniter 4",
+      "duration": 955
+    },
+    {
+      "id": "JuvAij0A1tQ",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #31 - Handle Custom Messages in Validation CodeIgniter 4",
+      "duration": 661
+    },
+    {
+      "id": "Zc8gPfFfuFM",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #32 - Work with Ajax Request in Codeigniter 4",
+      "duration": 947
+    },
+    {
+      "id": "PBUJAcOZDVo",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #33 - File Validation Rules in Codeigniter 4",
+      "duration": 870
+    },
+    {
+      "id": "gDt_QAja7rA",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #34 - CSRF Token in CodeIgniter 4",
+      "duration": 1014
+    },
+    {
+      "id": "E37jt8nAN3w",
+      "title": "Learn CodeIgniter 4 Tutorials in Hindi - #35 - Exclude URLs from CSRF Token in CodeIgniter 4",
+      "duration": 453
+    }
+  ]
+}

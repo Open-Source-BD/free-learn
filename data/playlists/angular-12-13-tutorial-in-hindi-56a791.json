@@ -1,0 +1,275 @@
+{
+  "courseId": "angular-12-13-tutorial-in-hindi-56a791",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:20.774Z",
+  "title": "Angular Tutorial in Hindi - 2026",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "XVCAaV-hSe4",
+      "title": "Angular 21 Tutorial in Hindi #1 Full Course Introduction | Why Learn Angular Today?",
+      "duration": 439
+    },
+    {
+      "id": "4nOfYpYTlDA",
+      "title": "Angular 21 Tutorial in Hindi #  Setup | Complete Installation Guide for macOS & Windows",
+      "duration": 1222
+    },
+    {
+      "id": "-BSKcnK2ZBQ",
+      "title": "Angular 21 Tutorial in Hindi #3 Hello World in Angular | Make First Change in Code #angular21",
+      "duration": 696
+    },
+    {
+      "id": "k2_huXzDidE",
+      "title": "Angular 21 Tutorial in Hindi #4 File & Folder Structure | Entry Points, Config Files #angular21",
+      "duration": 1207
+    },
+    {
+      "id": "Hz9oiIAVwSQ",
+      "title": "Angular 21 Tutorial in Hindi #5 Interpolation Explained with Examples | One Way Data Binding",
+      "duration": 690
+    },
+    {
+      "id": "bzF_Xco6fQE",
+      "title": "Angular 21 Tutorial in Hindi #6 Angular CLI | Command line interface tool",
+      "duration": 569
+    },
+    {
+      "id": "Eo7x8BmX_og",
+      "title": "Angular 19 Tutorial in Hindi #7 Component",
+      "duration": 739
+    },
+    {
+      "id": "nRzFNvwLGX8",
+      "title": "Angular 19 Tutorial in Hindi #8 Custom Component",
+      "duration": 611
+    },
+    {
+      "id": "_4cEzaDukFw",
+      "title": "Angular 19 Tutorial in Hindi #9 Function call on Button Click",
+      "duration": 372
+    },
+    {
+      "id": "HPgSA3vVKBU",
+      "title": "Angular 19 Tutorial in Hindi #10 Define data Type in Angular",
+      "duration": 730
+    },
+    {
+      "id": "RhqhB5lSPng",
+      "title": "Angular 19 Tutorial in Hindi #11 Make Counter App",
+      "duration": 704
+    },
+    {
+      "id": "xtOt_bagQo4",
+      "title": "Angular 19 Tutorial in Hindi #12 Click, Input, mouse, focus, and blue events",
+      "duration": 765
+    },
+    {
+      "id": "foOkGCaqVGU",
+      "title": "Angular 19 Tutorial in Hindi #13 Get and Set Input field Value",
+      "duration": 798
+    },
+    {
+      "id": "Z4O1OK-FbcU",
+      "title": "Angular 19 Tutorial in Hindi #14 Style Option and Rules",
+      "duration": 800
+    },
+    {
+      "id": "5Db8DMW52p4",
+      "title": "Angular 19 tutorial in Hindi #15 If Else in Angular | control flow statement  | Hide-Show | Toggle",
+      "duration": 702
+    },
+    {
+      "id": "dcZsall-DM4",
+      "title": "Angular 19 tutorial in Hindi #16 ElseIf Conditions Angular | control flow statement  | @elseif",
+      "duration": 613
+    },
+    {
+      "id": "ZabGB2ckOlw",
+      "title": "Angular 19 tutorial in Hindi #17 Switch Statement",
+      "duration": 551
+    },
+    {
+      "id": "gTqATaCcCC4",
+      "title": "Angular 19 tutorial in Hindi #18 @For Loop in Template",
+      "duration": 507
+    },
+    {
+      "id": "v47E_Z6lrGk",
+      "title": "Angular 19 Tutorial in Hindi #19 Signals in angular",
+      "duration": 748
+    },
+    {
+      "id": "9f4YoN3v_5Y",
+      "title": "Angular 19 Tutorial in Hindi #20 Data Type with Signals",
+      "duration": 450
+    },
+    {
+      "id": "2EuQGcHoZwk",
+      "title": "Angular 19 Tutorial in Hind #21 Computed Signals",
+      "duration": 562
+    },
+    {
+      "id": "zROncdcnwKQ",
+      "title": "Angular 19 Tutorial in Hind #22 Effect",
+      "duration": 513
+    },
+    {
+      "id": "6pHJYhqCkWQ",
+      "title": "Angular 19 Tutorial Hindi #23 For Loop contextual Variables | $last $first $odd $even $index $count",
+      "duration": 704
+    },
+    {
+      "id": "6Cn0T6tYKr4",
+      "title": "Angular 19 Tutorial in Hindi #24 Two way binding",
+      "duration": 432
+    },
+    {
+      "id": "IWwtu8FJ9ec",
+      "title": "Angular 19 Tutorial in Hindi #25 todo List",
+      "duration": 753
+    },
+    {
+      "id": "DuCZD5i4XVQ",
+      "title": "Angular 19 Tutorial in Hindi #26 Dynamic Styling",
+      "duration": 612
+    },
+    {
+      "id": "bKTGZAHUpgE",
+      "title": "Angular 19 Tutorial in Hindi #27 what are Directives ,type and example",
+      "duration": 440
+    },
+    {
+      "id": "-HvOE9KBY0w",
+      "title": "Angular 19 Tutorial in Hindi #28 ngFor directive  | Structural Directives",
+      "duration": 461
+    },
+    {
+      "id": "JRegynHQ58w",
+      "title": "Angular 19 Tutorial in Hindi #29 ngIf directive",
+      "duration": 459
+    },
+    {
+      "id": "jnFNM9YC8rc",
+      "title": "Angular 19 Tutorial in Hindi #30 ngSwitch directive",
+      "duration": 504
+    },
+    {
+      "id": "LbDCbj2MJw4",
+      "title": "Angular 19 Tutorial in Hindi #31 Basic Routing",
+      "duration": 499
+    },
+    {
+      "id": "YtBSKKoda5Q",
+      "title": "Angular 19 Tutorial in Hindi #32 header with routing",
+      "duration": 725
+    },
+    {
+      "id": "CwnIhwlBG_0",
+      "title": "Angular 19 Tutorial in Hindi #33 404 Page | Page Not Found | Wild Routing",
+      "duration": 445
+    },
+    {
+      "id": "-I1YndV_yzQ",
+      "title": "Angular 19 Tutorial in Hindi #34 Pass Data between Pages in Angular",
+      "duration": 976
+    },
+    {
+      "id": "z0cDgmT0pq8",
+      "title": "Angular tutorials in Hindi #35 Build Dynamic Routes",
+      "duration": 745
+    },
+    {
+      "id": "6qmM5jnfIEA",
+      "title": "Angular tutorials in Hindi #36 Driven vs. Reactive Forms",
+      "duration": 266
+    },
+    {
+      "id": "ELM-3gGWmMM",
+      "title": "Angular 19 Tutorial in Hindi #37 Easy Angular Reactive Forms Tutorial",
+      "duration": 607
+    },
+    {
+      "id": "nP9vvSHZR70",
+      "title": "Angular 19 Tutorial in Hindi #38 Reactive Forms Group Explained",
+      "duration": 681
+    },
+    {
+      "id": "y2ZGNSNvsIA",
+      "title": "Angular 19 Tutorial in Hindi #39 Reactive Forms: Validation Made Easy!",
+      "duration": 837
+    },
+    {
+      "id": "WWLXIF0SNa8",
+      "title": "Angular 19 Tutorial in Hindi #40 Angular Template Forms -A Beginner's Guide",
+      "duration": 595
+    },
+    {
+      "id": "6okOAVdGk5E",
+      "title": "Angular 19 Tutorial in Hindi #41 Template Driven Forms: Validation Made Easy!",
+      "duration": 877
+    },
+    {
+      "id": "19xkHdhAUCU",
+      "title": "Angular 19 Tutorial in Hindi #42 Passing Data from Parent to Child Component #angular19",
+      "duration": 658
+    },
+    {
+      "id": "e0t3HzilWCE",
+      "title": "Angular 19 Tutorial Hindi #43 Reuse Components with Pass Data to Child Components Easily #angular19",
+      "duration": 411
+    },
+    {
+      "id": "aU7SPrpaRlE",
+      "title": "Angular 19 Tutorial Hindi #44 Data from Child to Parent Component Like a Pro! #angular19",
+      "duration": 541
+    },
+    {
+      "id": "8pY6X29pbKA",
+      "title": "Angular 19 Tutorial Hindi #45  Mastering  Angular Pipes: From Basic to Advanced #angular19",
+      "duration": 443
+    },
+    {
+      "id": "6DmdnfmG6kA",
+      "title": "Angular 19 Tutorial Hindi #46 Master Angular Custom Pipes in Minutes",
+      "duration": 497
+    },
+    {
+      "id": "YsVu1qA8t1s",
+      "title": "TypeScript Magic Type Inference | Angular, Typescript and react js Interview Ready #typescript",
+      "duration": 180
+    },
+    {
+      "id": "qD-CDaegCjs",
+      "title": "Angular vs react in Hindi",
+      "duration": 1984
+    },
+    {
+      "id": "dvvU-yIdrok",
+      "title": "Angular interview questions in Hindi #1 Change Root Component",
+      "duration": 173
+    },
+    {
+      "id": "i7Rds-fKWoA",
+      "title": "Angular interview questions in Hindi #2 Load 2 css files in Component",
+      "duration": 220
+    },
+    {
+      "id": "2S1kahY7ERQ",
+      "title": "Angular interview questions in Hindi #3 What is directives and Types of directives in Angular 19",
+      "duration": 107
+    },
+    {
+      "id": "0h5n_qmYlBQ",
+      "title": "Angular MCP Server Setup in VS Code | Use Angular CLI MCP with GitHub Copilot",
+      "duration": 568
+    },
+    {
+      "id": "adDk_xn7QTM",
+      "title": "Angular 22 New Features Explained in Hindi | Signal Forms, MCP, Aria & httpResource",
+      "duration": 2377
+    }
+  ]
+}

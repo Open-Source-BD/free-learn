@@ -1,0 +1,20 @@
+{
+  "courseId": "nyu-deep-learning-sp22-3be6c8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:54.094Z",
+  "title": "NYU Deep Learning SP22",
+  "channel": "Alfredo Canziani (冷在)",
+  "videos": [
+    {
+      "id": "5VjEBHWuYs8",
+      "title": "09P – Contrastive joint embedding methods (JEMs) for self-supervised learning (SSL)",
+      "duration": 3412
+    },
+    {
+      "id": "EBrbaD2zyuo",
+      "title": "10P – Non-contrastive joint embedding methods (JEMs) for self-supervised learning (SSL)",
+      "duration": 3928
+    }
+  ]
+}

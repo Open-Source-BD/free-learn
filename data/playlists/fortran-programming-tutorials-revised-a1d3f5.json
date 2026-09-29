@@ -1,0 +1,215 @@
+{
+  "courseId": "fortran-programming-tutorials-revised-a1d3f5",
+  "sourceUrl": "https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:15.794Z",
+  "title": "Fortran Programming Tutorials (Revised)",
+  "channel": "Fluidic Colours",
+  "videos": [
+    {
+      "id": "ProXdx6xJb8",
+      "title": "Fortran Programming Tutorials (Revised) : 001 : Introduction, Installing gfortran and Geany",
+      "duration": 845
+    },
+    {
+      "id": "ovecW1BzQf4",
+      "title": "Fortran Programming Tutorials (Revised) : 002 : More on other Compilers + Hello World Program",
+      "duration": 693
+    },
+    {
+      "id": "MyPgcSe1JWE",
+      "title": "Fortran Programming Tutorials (Revised) : 003 : Implicit None + Simple Data types",
+      "duration": 752
+    },
+    {
+      "id": "3suTRSHP04Y",
+      "title": "Fortran Programming Tutorials (Revised) : 004 : Online Resources",
+      "duration": 451
+    },
+    {
+      "id": "d7Iy7ovWWFI",
+      "title": "Fortran Programming Tutorials (Revised) : 005 : Area of a triangle + Basic operators",
+      "duration": 586
+    },
+    {
+      "id": "CDQuFO5wQlA",
+      "title": "Fortran Programming Tutorials (Revised) : 006 : Fortran Operators and Operator Precedence",
+      "duration": 464
+    },
+    {
+      "id": "qWOJLc9T7Ps",
+      "title": "Fortran Programming Tutorials (Revised) : 007 : Type casting + Case Insensitivity",
+      "duration": 778
+    },
+    {
+      "id": "sYt2EHLAmHI",
+      "title": "Fortran Programming Tutorials (Revised) : 008 : Explicit type casting + read statement",
+      "duration": 543
+    },
+    {
+      "id": "k-k8BDWHdFU",
+      "title": "Fortran Programming Tutorials (Revised) : 009 : Geany Features + Parameter keyword",
+      "duration": 622
+    },
+    {
+      "id": "jFpcs8IZLp4",
+      "title": "Fortran Programming Tutorials (Revised) : 010 : Intrinsic functions + Parameter + Execution",
+      "duration": 551
+    },
+    {
+      "id": "7v7V36birTU",
+      "title": "Fortran Programming Tutorials (Revised) : 011 : If statement and Relational Operators",
+      "duration": 641
+    },
+    {
+      "id": "1kpUUuYN2Gk",
+      "title": "Fortran Programming Tutorials (Revised) : 012 : Relational and Logical Operators",
+      "duration": 1107
+    },
+    {
+      "id": "4T_JicTJQHo",
+      "title": "Fortran Programming Tutorials (Revised) : 013 : Operator Precedence + Do loop",
+      "duration": 760
+    },
+    {
+      "id": "SRabZr0dk84",
+      "title": "Fortran Programming Tutorials (Revised) : 014 : Kind Attribute, Limit on Integers",
+      "duration": 848
+    },
+    {
+      "id": "Z1UsxvOwT6g",
+      "title": "Fortran Programming Tutorials (Revised) : 015 : Characters, Strings, String Arrays",
+      "duration": 817
+    },
+    {
+      "id": "hnS1Wcig9HI",
+      "title": "Fortran Programming Tutorials (Revised) : 016 : Printing Strings and Quote Mixing",
+      "duration": 492
+    },
+    {
+      "id": "nf6U0mgfegY",
+      "title": "Fortran Programming Tutorials (Revised) : 017 : Modulus Operation",
+      "duration": 499
+    },
+    {
+      "id": "4j_LEP0c7VA",
+      "title": "Fortran Programming Tutorials (Revised) : 018 : Successive Factorial + Do loop",
+      "duration": 569
+    },
+    {
+      "id": "zI_KND2i4gk",
+      "title": "Fortran Programming Tutorials (Revised) : 019 : Nested do loops, labels",
+      "duration": 507
+    },
+    {
+      "id": "8DmjvtbjKog",
+      "title": "Fortran Programming Tutorials (Revised) : 020 : Cautions in do loops, Labels",
+      "duration": 578
+    },
+    {
+      "id": "DTBymHCWlZ0",
+      "title": "Fortran Programming Tutorials (Revised) : 021 : Executing from terminal and link for programs",
+      "duration": 887
+    },
+    {
+      "id": "oxLWNttGHkA",
+      "title": "Fortran Programming Tutorials (Revised): 022 : Select case and Calendar Trick",
+      "duration": 1607
+    },
+    {
+      "id": "9bGjiteyKj4",
+      "title": "Fortran Programming Tutorials (Revised) : 023 : Format Specifications for read and print",
+      "duration": 1484
+    },
+    {
+      "id": "AKbi5jRm7Xg",
+      "title": "Fortran Programming Tutorials (Revised) : 024 : Formats, Arrays, allocate, limits of int",
+      "duration": 2691
+    },
+    {
+      "id": "eJZaZrPBLQs",
+      "title": "Fortran Programming Tutorials (Revised) : 025 : Reading and Writing to files - Simple",
+      "duration": 843
+    },
+    {
+      "id": "8Fg3iGBgW3w",
+      "title": "Fortran Programming Tutorials (Revised) : 026 : Array operations, Changing Index",
+      "duration": 1141
+    },
+    {
+      "id": "Qxhd9mS65m4",
+      "title": "Fortran Programming Tutorials (Revised) : 027 : Trigonometric Identities, Intro to GNUplot",
+      "duration": 1299
+    },
+    {
+      "id": "fEd23RR_S4M",
+      "title": "Fortran Programming Tutorials (Revised ) : 028 : Finishing the program, Links to GNUplots, Programs",
+      "duration": 1256
+    },
+    {
+      "id": "K3ErNDSOc5M",
+      "title": "Fortran Programming Tutorials (Revised) : 029 : Cycle, Exit, More on Do loop",
+      "duration": 731
+    },
+    {
+      "id": "7FBIAu3FfxQ",
+      "title": "Fortran Programming Tutorials (Revised) : 030 : More on Select Case, nested if",
+      "duration": 1027
+    },
+    {
+      "id": "YlNhqfBIs7E",
+      "title": "Fortran Programming Tutorials (Revised) : 031 : Intro to Functions",
+      "duration": 1473
+    },
+    {
+      "id": "L95THaF41zQ",
+      "title": "Fortran Programming Tutorials (Revised) : 032 : More on functions, using shell scripts",
+      "duration": 741
+    },
+    {
+      "id": "xYhsxEwGT5A",
+      "title": "Fortran Programming Tutorials (Revised) : 033 : Recursive and Multi-function calls",
+      "duration": 1566
+    },
+    {
+      "id": "AN-gXaY4q2A",
+      "title": "Fortran Programming Tutorials (Revised) : 034 : Problems with calling functions defined in a program",
+      "duration": 498
+    },
+    {
+      "id": "FnsTttIaLAE",
+      "title": "Fortran Programming Tutorials (Revised) : 035 : Introduction to subroutines and procedures",
+      "duration": 1106
+    },
+    {
+      "id": "Gx1VtQQ-5I4",
+      "title": "Fortran Programming Tutorials (Revised) : 036 : 2D arrays, Reshape, Pack, Masking",
+      "duration": 660
+    },
+    {
+      "id": "HWd9ACcuAQY",
+      "title": "Fortran Programming Tutorials (Revised) : 037 : Fortran Array Indexing, Printing arrays",
+      "duration": 1048
+    },
+    {
+      "id": "QeQp7-S7IZU",
+      "title": "Fortran Programming Tutorials (Revised) : 038 : Determinant Using Subroutines and Functions",
+      "duration": 1063
+    },
+    {
+      "id": "Z8OtFoC4KlE",
+      "title": "Fortran Programming Tutorials (Revised) : 039 : Cramer's rule",
+      "duration": 1275
+    },
+    {
+      "id": "eQ5AnX1CD7w",
+      "title": "Fortran Programming Tutorials (Revised) : 040 : Modules + Array Valued Functions",
+      "duration": 1691
+    },
+    {
+      "id": "dqptdHry0GM",
+      "title": "Fortran Programming Tutorials (Revised) : 041 : Beyond Fortran ...",
+      "duration": 1690
+    }
+  ]
+}

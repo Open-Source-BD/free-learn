@@ -1,0 +1,70 @@
+{
+  "courseId": "introduction-to-rtos-801fdf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:32.344Z",
+  "title": "Introduction to RTOS",
+  "channel": "DigiKey",
+  "videos": [
+    {
+      "id": "F321087yYy4",
+      "title": "Introduction to RTOS Part 1 - What is a Real-Time Operating System (RTOS)? | Digi-Key Electronics",
+      "duration": 694
+    },
+    {
+      "id": "JIr7Xm_riRs",
+      "title": "Introduction to RTOS Part 2 - Getting Started with FreeRTOS | Digi-Key Electronics",
+      "duration": 706
+    },
+    {
+      "id": "95yUbClyf3E",
+      "title": "Introduction to RTOS Part 3 - Task Scheduling | Digi-Key Electronics",
+      "duration": 659
+    },
+    {
+      "id": "Qske3yZRW5I",
+      "title": "Introduction to RTOS Part 4 - Memory Management | Digi-Key Electronics",
+      "duration": 640
+    },
+    {
+      "id": "pHJ3lxOoWeI",
+      "title": "Introduction to RTOS Part 5 - Queue | Digi-Key Electronics",
+      "duration": 721
+    },
+    {
+      "id": "I55auRpbiTs",
+      "title": "Introduction to RTOS Part 6 - Mutex | Digi-Key Electronics",
+      "duration": 824
+    },
+    {
+      "id": "5JcMtbA9QEE",
+      "title": "Introduction to RTOS Part 7 - Semaphore | Digi-Key Electronics",
+      "duration": 727
+    },
+    {
+      "id": "b1f1Iex0Tso",
+      "title": "Introduction to RTOS Part 8 - Software Timer | Digi-Key Electronics",
+      "duration": 779
+    },
+    {
+      "id": "qsflCf6ahXU",
+      "title": "Introduction to RTOS Part 9 - Hardware Interrupts | Digi-Key Electronics",
+      "duration": 910
+    },
+    {
+      "id": "hRsWi4HIENc",
+      "title": "Introduction to RTOS Part 10 - Deadlock and Starvation | Digi-Key Electronics",
+      "duration": 738
+    },
+    {
+      "id": "C2xKhxROmhA",
+      "title": "Introduction to RTOS Part 11 - Priority Inversion | Digi-Key Electronics",
+      "duration": 755
+    },
+    {
+      "id": "LPSHUcH5aQc",
+      "title": "Introduction to RTOS Part 12 - Multicore Systems | Digi-Key Electronics",
+      "duration": 987
+    }
+  ]
+}

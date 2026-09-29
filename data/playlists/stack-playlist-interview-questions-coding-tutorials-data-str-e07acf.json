@@ -1,0 +1,65 @@
+{
+  "courseId": "stack-playlist-interview-questions-coding-tutorials-data-str-e07acf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:37.975Z",
+  "title": "Stack Playlist | Interview Questions | Coding | Tutorials | Data Structures",
+  "channel": "Aditya Verma",
+  "videos": [
+    {
+      "id": "P1bAPZg5uaE",
+      "title": "1 Stack Introduction And Identification",
+      "duration": 969
+    },
+    {
+      "id": "NXOOYYwpbg4",
+      "title": "2 NGR | Nearest Greater to right | Next Largest Element",
+      "duration": 1871
+    },
+    {
+      "id": "T5s96ynzArg",
+      "title": "3 NGL | Nearest Greater to left",
+      "duration": 639
+    },
+    {
+      "id": "85LWui3FlVk",
+      "title": "4 NSL | NEAREST SMALLER TO LEFT",
+      "duration": 694
+    },
+    {
+      "id": "nc1AYFyvOR4",
+      "title": "5 NSR | Nearest Smaller to Right",
+      "duration": 567
+    },
+    {
+      "id": "p9T-fE1g1pU",
+      "title": "6 Stock Span Problem",
+      "duration": 1682
+    },
+    {
+      "id": "J2X70jj_I1o",
+      "title": "7 Maximum Area Histogram | MAH",
+      "duration": 2100
+    },
+    {
+      "id": "St0Jf_VmG_g",
+      "title": "8 Max Area Rectangle in binary matrix",
+      "duration": 1779
+    },
+    {
+      "id": "FbGG2qpNp4U",
+      "title": "9 Rain Water Trapping",
+      "duration": 1854
+    },
+    {
+      "id": "asf9P2Rcopo",
+      "title": "10 Minimum Element in Stack with Extra space",
+      "duration": 1088
+    },
+    {
+      "id": "ZvaRHYYI0-4",
+      "title": "11 Minimum Element in Stack in O(1) Space",
+      "duration": 1618
+    }
+  ]
+}

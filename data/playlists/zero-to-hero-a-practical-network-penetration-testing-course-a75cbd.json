@@ -1,0 +1,65 @@
+{
+  "courseId": "zero-to-hero-a-practical-network-penetration-testing-course-a75cbd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:28.016Z",
+  "title": "Zero to Hero: A Practical Network Penetration Testing Course",
+  "channel": "The Cyber Mentors",
+  "videos": [
+    {
+      "id": "qlK174d_uu8",
+      "title": "Zero to Hero Pentesting: Episode 1 - Course Introduction, Notekeeping, Introductory Linux, and AMA",
+      "duration": 14928
+    },
+    {
+      "id": "egg-GoT5iVk",
+      "title": "Zero to Hero Pentesting: Episode 2 - Python 101",
+      "duration": 10158
+    },
+    {
+      "id": "3GriwyvJzio",
+      "title": "Zero to Hero Pentesting: Episode 3 - Python 102, Building a Terrible Port Scanner, and a Giveaway",
+      "duration": 9247
+    },
+    {
+      "id": "ChdUC32lsYQ",
+      "title": "Zero to Hero Pentesting: Episode 4 - Five Phases of Hacking + Passive OSINT",
+      "duration": 11050
+    },
+    {
+      "id": "t9aAhuG0LkE",
+      "title": "Zero to Hero Pentesting: Episode 5 - Scanning Tools (Nmap, Nessus, BurpSuite, etc.) & Tactics",
+      "duration": 11263
+    },
+    {
+      "id": "BWE51iudbPo",
+      "title": "Zero to Hero Pentesting: Episode 6 - Enumeration (Kioptrix & Hack The Box)",
+      "duration": 10114
+    },
+    {
+      "id": "gGNjDwnXgsg",
+      "title": "Zero to Hero Pentesting: Episode 7 - Exploitation, Shells, and Some Credential Stuffing",
+      "duration": 10070
+    },
+    {
+      "id": "_OseTyfXr3Q",
+      "title": "Zero to Hero: Week 8 - Building an AD Lab, LLMNR Poisoning, and NTLMv2 Cracking with Hashcat",
+      "duration": 8205
+    },
+    {
+      "id": "QvMeLoyS944",
+      "title": "Zero to Hero: Week 9 - NTLM Relay, Token Impersonation, Pass the Hash, PsExec, and more",
+      "duration": 7697
+    },
+    {
+      "id": "6rZddmB0fug",
+      "title": "Zero to Hero: Episode 10 - MS17-010/EternalBlue, GPP/cPasswords, and Kerberoasting",
+      "duration": 5575
+    },
+    {
+      "id": "MxjIDoGsGCQ",
+      "title": "Zero to Hero: Week 11 - File Transfers, Pivoting, and Reporting Writing",
+      "duration": 5147
+    }
+  ]
+}

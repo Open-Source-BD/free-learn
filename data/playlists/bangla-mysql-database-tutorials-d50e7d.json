@@ -1,0 +1,235 @@
+{
+  "courseId": "bangla-mysql-database-tutorials-d50e7d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:12.874Z",
+  "title": "Bangla MySQL Database Tutorials",
+  "channel": "Training with Live Project",
+  "videos": [
+    {
+      "id": "mhDJYm4cLzU",
+      "title": "SQL Queries With PhpMyAdmin (What you will learn)-Part:01",
+      "duration": 378
+    },
+    {
+      "id": "o_J9OX4E2Og",
+      "title": "SQL Queries With PhpMyAdmin (Create & Drop Database)-Part:02",
+      "duration": 244
+    },
+    {
+      "id": "-wlHpZEgGR4",
+      "title": "SQL Queries With PhpMyAdmin (Create Table)-Part:03",
+      "duration": 317
+    },
+    {
+      "id": "xiBfzem1CCA",
+      "title": "SQL Queries With PhpMyAdmin (Insert Data)-Part:04",
+      "duration": 251
+    },
+    {
+      "id": "Y-RRlHlZU0U",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "tkvVJBkO_CA",
+      "title": "SQL Queries With PhpMyAdmin (Delete Data)-Part:06",
+      "duration": 149
+    },
+    {
+      "id": "BHJtaJC6s_U",
+      "title": "SQL Queries With PhpMyAdmin (Alter Table)-Part:07",
+      "duration": 285
+    },
+    {
+      "id": "42fNfYuT2tM",
+      "title": "SQL Queries With PhpMyAdmin (Select Data)-Part:08",
+      "duration": 423
+    },
+    {
+      "id": "TGUBSO4cRTk",
+      "title": "SQL Queries With PhpMyAdmin (Operators Overview)-Part:09",
+      "duration": 206
+    },
+    {
+      "id": "z3gFgQ99RKs",
+      "title": "SQL Queries With PhpMyAdmin (Between Operator)-Part:10",
+      "duration": 212
+    },
+    {
+      "id": "MkPziE2q-oU",
+      "title": "SQL Queries With PhpMyAdmin (Like Operator)-Part:11",
+      "duration": 344
+    },
+    {
+      "id": "B3gmGqU9-SY",
+      "title": "SQL Queries With PhpMyAdmin (IN Operator)-Part:12",
+      "duration": 190
+    },
+    {
+      "id": "QNlsJ7W5avY",
+      "title": "SQL Queries With PhpMyAdmin (Indexes)-Part:13",
+      "duration": 312
+    },
+    {
+      "id": "gLIZ_PnRXn0",
+      "title": "SQL Queries With PhpMyAdmin (Relationships & Foreign Keys)-Part:14",
+      "duration": 465
+    },
+    {
+      "id": "iBQ413rLOSA",
+      "title": "SQL Queries With PhpMyAdmin (Joins)-Part:15",
+      "duration": 337
+    },
+    {
+      "id": "Y6G1MXZuna4",
+      "title": "SQL Queries With PhpMyAdmin (Inner Join)-Part:16",
+      "duration": 406
+    },
+    {
+      "id": "5TWIKiTIvA4",
+      "title": "SQL Queries With PhpMyAdmin (Left Join)-Part:17",
+      "duration": 324
+    },
+    {
+      "id": "psQJWsHwgSQ",
+      "title": "SQL Queries With PhpMyAdmin (Right Join)-Part:18",
+      "duration": 213
+    },
+    {
+      "id": "drhSDaZrH-M",
+      "title": "SQL Queries With PhpMyAdmin (Union Operator)-Part:19",
+      "duration": 238
+    },
+    {
+      "id": "6hBPSHCEs6M",
+      "title": "SQL Queries With PhpMyAdmin (Union All)-Part:20",
+      "duration": 242
+    },
+    {
+      "id": "uOZzuzA__lw",
+      "title": "SQL Queries With PhpMyAdmin (Join Multiple Tables)-Part:21",
+      "duration": 325
+    },
+    {
+      "id": "uYyMgJ0Q2MA",
+      "title": "SQL Queries With PhpMyAdmin (Subquery IN SELECT)-Part:22",
+      "duration": 190
+    },
+    {
+      "id": "l_8ZpjLDOgc",
+      "title": "SQL Queries With PhpMyAdmin (Subquery with INSERT)-Part:23",
+      "duration": 268
+    },
+    {
+      "id": "s6Zhu45gWkI",
+      "title": "SQL Queries With PhpMyAdmin (Subquery with Update & Delete)-Part:24",
+      "duration": 429
+    },
+    {
+      "id": "Rt-hr_hyZUg",
+      "title": "SQL Queries With PhpMyAdmin (TRUNCATE TABLE)-Part:25",
+      "duration": 178
+    },
+    {
+      "id": "JddJYmCUznc",
+      "title": "SQL Queries With PhpMyAdmin (Wildcard Operators)-Part:26",
+      "duration": 221
+    },
+    {
+      "id": "2_T7AuWT-_A",
+      "title": "SQL Queries With PhpMyAdmin (Aliases for Column)-Part:27",
+      "duration": 412
+    },
+    {
+      "id": "bjQhOIft5BE",
+      "title": "SQL Queries With PhpMyAdmin (Aliases for Table)-Part:28",
+      "duration": 240
+    },
+    {
+      "id": "1q0UDIZ-6cE",
+      "title": "SQL Queries With PhpMyAdmin (Aggregate Functions)-Part:29",
+      "duration": 190
+    },
+    {
+      "id": "38Na1fIsyVE",
+      "title": "SQL Queries With PhpMyAdmin (GROUP BY Statement)-Part:30",
+      "duration": 171
+    },
+    {
+      "id": "p5IEthNPx5k",
+      "title": "SQL Queries With PhpMyAdmin (HAVING Clause)-Part:31",
+      "duration": 178
+    },
+    {
+      "id": "Y8ALmHDBMVA",
+      "title": "SQL Queries With PhpMyAdmin (CREATE VIEW)-Part:32",
+      "duration": 227
+    },
+    {
+      "id": "pKOkldTIpc0",
+      "title": "SQL Queries With PhpMyAdmin (Insert Data into a VIEW)-Part:33",
+      "duration": 237
+    },
+    {
+      "id": "2VYEoQLFT5E",
+      "title": "SQL Queries With PhpMyAdmin (WITH CHECK OPTION)-Part:34",
+      "duration": 247
+    },
+    {
+      "id": "Y8Ivm3vjkno",
+      "title": "SQL Queries With PhpMyAdmin (UPDATE, DELETE, DROP VIEW)-Part:35",
+      "duration": 270
+    },
+    {
+      "id": "h_R0hQ-aqtM",
+      "title": "SQL Queries With PhpMyAdmin (UCASE & LCASE Functions)-Part:36",
+      "duration": 196
+    },
+    {
+      "id": "dqPt5htve3E",
+      "title": "SQL Queries With PhpMyAdmin (MID, LENGTH, ROUND Functions)-Part:37",
+      "duration": 262
+    },
+    {
+      "id": "5fEqJU5KdVI",
+      "title": "SQL Queries With PhpMyAdmin (NOW Function)-Part:38",
+      "duration": 144
+    },
+    {
+      "id": "A0yKhIo4xMg",
+      "title": "SQL Queries With PhpMyAdmin (GUI Mode Operation)-Part:39",
+      "duration": 292
+    },
+    {
+      "id": "k3LfOqowqnM",
+      "title": "SQL Queries With PhpMyAdmin (DATABASE Backup)-Part:40",
+      "duration": 213
+    },
+    {
+      "id": "f9-umZmFnFQ",
+      "title": "PHP OOP and MySQLi CRUD Bangla Tutorial (Part-01)",
+      "duration": 975
+    },
+    {
+      "id": "qqwE8l-nrqQ",
+      "title": "PHP OOP and MySQLi CRUD Bangla Tutorial (Part-02)",
+      "duration": 1068
+    },
+    {
+      "id": "pk624i5mTBk",
+      "title": "PHP OOP and MySQLi CRUD Bangla Tutorial (Part-03)",
+      "duration": 1412
+    },
+    {
+      "id": "j4Yb50kxNDg",
+      "title": "Bangla PHP OOP and MySQLi CRUD Tutorial (Part-04)",
+      "duration": 712
+    },
+    {
+      "id": "CA6XGQV1wXI",
+      "title": "Bangla PHP OOP and MySQLi CRUD Tutorial (Part-05)",
+      "duration": 560
+    }
+  ]
+}

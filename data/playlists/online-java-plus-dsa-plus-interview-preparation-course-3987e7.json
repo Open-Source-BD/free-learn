@@ -1,0 +1,355 @@
+{
+  "courseId": "online-java-plus-dsa-plus-interview-preparation-course-3987e7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:07.688Z",
+  "title": "Java + DSA + Interview Preparation Course",
+  "channel": "Kunal Kushwaha",
+  "videos": [
+    {
+      "id": "rZ41y93P2Qo",
+      "title": "Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!",
+      "duration": 980
+    },
+    {
+      "id": "Nckx9qMy_kw",
+      "title": "Java vs C++ for Data Structures & Algorithms",
+      "duration": 675
+    },
+    {
+      "id": "waGfV-IoOt8",
+      "title": "How I Cleared My Google Interviews - Use LeetCode Effectively!",
+      "duration": 944
+    },
+    {
+      "id": "apGV9Kg7ics",
+      "title": "Complete Git and GitHub Tutorial",
+      "duration": 4360
+    },
+    {
+      "id": "wn49bJOYAZM",
+      "title": "Introduction to Programming - Types of Languages, Memory Management",
+      "duration": 2342
+    },
+    {
+      "id": "lhELGQAV4gg",
+      "title": "Flow of Program - Flowcharts & Pseudocode",
+      "duration": 1622
+    },
+    {
+      "id": "4EP8YzcN0hQ",
+      "title": "Introduction to Java - Architecture & Installation",
+      "duration": 1706
+    },
+    {
+      "id": "TAtrPoaJ7gc",
+      "title": "First Java Program - Input/Output, Debugging and Datatypes",
+      "duration": 5543
+    },
+    {
+      "id": "ldYLYRNaucM",
+      "title": "Conditionals and Loops + Calculator Program",
+      "duration": 3755
+    },
+    {
+      "id": "mA23x39DjbI",
+      "title": "Switch Statements + Nested Case in Java",
+      "duration": 1571
+    },
+    {
+      "id": "vvanI8NRlSI",
+      "title": "Functions / Methods in Java",
+      "duration": 5431
+    },
+    {
+      "id": "n60Dn0UsbEk",
+      "title": "Introduction to Arrays and ArrayList in Java",
+      "duration": 6353
+    },
+    {
+      "id": "_HRA37X8N_Q",
+      "title": "Linear Search Algorithm - Theory + Code + Questions",
+      "duration": 4544
+    },
+    {
+      "id": "f6UU7V3szVw",
+      "title": "Binary Search Algorithm - Theory + Code",
+      "duration": 3496
+    },
+    {
+      "id": "W9QJ8HaRvJQ",
+      "title": "Binary Search Interview Questions - Google, Facebook, Amazon",
+      "duration": 14506
+    },
+    {
+      "id": "enI_KyGLYPo",
+      "title": "Binary Search in 2D Arrays",
+      "duration": 3537
+    },
+    {
+      "id": "F5MZyqRp_IM",
+      "title": "Bubble Sort Algorithm - Theory + Code",
+      "duration": 2797
+    },
+    {
+      "id": "Nd4SCCIHFWk",
+      "title": "Selection Sort Algorithm - Theory + Code",
+      "duration": 1129
+    },
+    {
+      "id": "By_5-RRqVeE",
+      "title": "Insertion Sort Algorithm - Theory + Code",
+      "duration": 1840
+    },
+    {
+      "id": "JfinxytTYFQ",
+      "title": "Cycle Sort - Amazon, Google, Microsoft Interview Questions",
+      "duration": 5732
+    },
+    {
+      "id": "zL1DPZ0Ovlo",
+      "title": "Strings and StringBuilder in Java",
+      "duration": 5249
+    },
+    {
+      "id": "lsOOs5J8ycw",
+      "title": "Solve Any Pattern Question With This Trick!",
+      "duration": 3440
+    },
+    {
+      "id": "M2uO2nMT0Bk",
+      "title": "Introduction to Recursion - Learn In The Best Way",
+      "duration": 6949
+    },
+    {
+      "id": "mV3wrLBbuuE",
+      "title": "Time and Space Complexity COMPLETE Tutorial - What is Big O?",
+      "duration": 8904
+    },
+    {
+      "id": "fzip9Aml6og",
+      "title": "Bitwise Operators + Number Systems - Maths for DSA",
+      "duration": 8229
+    },
+    {
+      "id": "lmSpZ0bjCyQ",
+      "title": "Maths for Data Structures & Algorithms",
+      "duration": 6894
+    },
+    {
+      "id": "JxILxTwHukM",
+      "title": "Recursion - Level 1 Questions (Theory + Code + Tips)",
+      "duration": 4402
+    },
+    {
+      "id": "sTdiMLom00U",
+      "title": "Recursion - Array Questions (Theory + Code + Tips)",
+      "duration": 4728
+    },
+    {
+      "id": "ymgnIIclCF0",
+      "title": "Recursion - Pattern Questions + Bubble Sort + Selection Sort",
+      "duration": 2075
+    },
+    {
+      "id": "iKGAgWdgoRk",
+      "title": "Merge Sort Using Recursion (Theory + Complexity + Code)",
+      "duration": 2987
+    },
+    {
+      "id": "Z8svOqamag8",
+      "title": "Quick Sort Using Recursion (Theory + Complexity + Code)",
+      "duration": 2534
+    },
+    {
+      "id": "gdifkIwCJyg",
+      "title": "Recursion Subset, Subsequence, String Questions",
+      "duration": 5036
+    },
+    {
+      "id": "gDGw0cvFXPQ",
+      "title": "Recursion - Permutations (Theory + Code + Tips)",
+      "duration": 1522
+    },
+    {
+      "id": "9ByWqPzfXDU",
+      "title": "Recursion Google, Amazon Questions: Dice Throw & Letter Combinations of a Phone Number",
+      "duration": 2316
+    },
+    {
+      "id": "zg5v2rlV1tM",
+      "title": "Backtracking Introduction + Maze Problems - Theory + Code + Tips",
+      "duration": 5290
+    },
+    {
+      "id": "nC1rbW2YSz0",
+      "title": "N-Queens, N-Knights, Sudoku Solver (LeetCode) - Backtracking Questions",
+      "duration": 4766
+    },
+    {
+      "id": "BSVKUk58K6U",
+      "title": "OOP 1 | Introduction & Concepts - Classes, Objects, Constructors, Keywords",
+      "duration": 6147
+    },
+    {
+      "id": "_Ya6CN13t8k",
+      "title": "OOP 2 | Packages, Static, Singleton Class, In-built Methods",
+      "duration": 4753
+    },
+    {
+      "id": "46T2wD3IuhM",
+      "title": "OOP 3 | Principles - Inheritance, Polymorphism, Encapsulation, Abstraction",
+      "duration": 7971
+    },
+    {
+      "id": "W145DXs8fFg",
+      "title": "OOP 4 | Access Control, In-built Packages, Object Class",
+      "duration": 3045
+    },
+    {
+      "id": "rgHZa7-Dibg",
+      "title": "OOP 5 | Abstract Classes, Interfaces, Annotations",
+      "duration": 4242
+    },
+    {
+      "id": "OY2lPr8h93U",
+      "title": "OOP 6 | Generics, Custom ArrayList, Lambda Expressions, Exception Handling, Object Cloning",
+      "duration": 5513
+    },
+    {
+      "id": "9ogGan-R1pc",
+      "title": "OOP 7 | Collections Framework, Vector Class, Enums in Java",
+      "duration": 1600
+    },
+    {
+      "id": "58YbpRDc4yw",
+      "title": "Linked List Tutorial - Singly + Doubly + Circular (Theory + Code + Implementation)",
+      "duration": 6957
+    },
+    {
+      "id": "70tx7KcMROc",
+      "title": "Linked List Interview Questions - Google, Facebook, Amazon, Microsoft",
+      "duration": 11291
+    },
+    {
+      "id": "rHQI4mrJ3cg",
+      "title": "Stacks and Queues Complete Tutorial - Theory + Implementation + Types (Dynamic, Circular)",
+      "duration": 5447
+    },
+    {
+      "id": "S9LUYztYLu4",
+      "title": "Stacks and Queues Interview Questions - Google, Facebook, Amazon, Microsoft",
+      "duration": 8661
+    },
+    {
+      "id": "jlLNXmi4Nmw",
+      "title": "Tic Tac Toe Java Game in Under 15 Minutes",
+      "duration": 1036
+    },
+    {
+      "id": "4s1Tcvm00pA",
+      "title": "Binary Trees Tutorial - Introduction + Traversals + Code | Binary Search Trees (BST)",
+      "duration": 10363
+    },
+    {
+      "id": "CVA85JuJEn0",
+      "title": "AVL Trees Tutorial | Self Balancing Binary Search Trees",
+      "duration": 3974
+    },
+    {
+      "id": "ciHThtTVNto",
+      "title": "Segment Trees Tutorial | Range Queries | Interview Questions",
+      "duration": 4403
+    },
+    {
+      "id": "YFZai3fPUQI",
+      "title": "StringBuffer in Java | Data Formatting | Working With Large Data",
+      "duration": 2181
+    },
+    {
+      "id": "lHtoypC-4Ps",
+      "title": "BigInteger & BigDecimal - Handling Large Numbers in Java",
+      "duration": 2097
+    },
+    {
+      "id": "b35mlSPOlJg",
+      "title": "File Handling in Java Complete Course",
+      "duration": 3664
+    },
+    {
+      "id": "9D-vP-jcc-Y",
+      "title": "Binary Tree Questions for Technical Interviews - Google, Facebook, Amazon, Microsoft",
+      "duration": 18111
+    },
+    {
+      "id": "Qf-TDPr0nYw",
+      "title": "Introduction to Heap Data Structure + Priority Queue + Heapsort Tutorial",
+      "duration": 4267
+    },
+    {
+      "id": "XLbvmMz8Fr8",
+      "title": "Introduction to HashMap & HashTable in Java",
+      "duration": 5986
+    },
+    {
+      "id": "swciWFPq3NE",
+      "title": "Karp-Rabin String Matching Algorithm | Substring Search Pattern",
+      "duration": 1441
+    },
+    {
+      "id": "FOo820lJV1Y",
+      "title": "Count Sort Algorithm - Theory + Code",
+      "duration": 1244
+    },
+    {
+      "id": "mLi6VQDqAOs",
+      "title": "Radix Sort Algorithm - Theory + Code",
+      "duration": 1882
+    },
+    {
+      "id": "XLfgeaYHinM",
+      "title": "Huffman Coding Greedy Algorithm | Text Compression",
+      "duration": 2966
+    },
+    {
+      "id": "U4YmISZViSs",
+      "title": "Easily Solve Range Query Interview Problems with Square Root Decomposition/Mo's Algorithm",
+      "duration": 2357
+    },
+    {
+      "id": "LFGBTFxHJII",
+      "title": "Binary Tree from Preorder & Inorder Traversal - Advance Tree Questions",
+      "duration": 1692
+    },
+    {
+      "id": "Qdr3ohMSxBo",
+      "title": "Vertical Order Traversal of a Binary Tree - Google Interview Question",
+      "duration": 1349
+    },
+    {
+      "id": "2odLxQWYDi0",
+      "title": "Word Ladder - LeetCode Hard - Google Phone Screen Interview Question",
+      "duration": 1065
+    },
+    {
+      "id": "oB1EIXIDS8s",
+      "title": "Two Sum IV - Google, Amazon, Facebook Interview Question",
+      "duration": 518
+    },
+    {
+      "id": "guzgnCSafg4",
+      "title": "Kth Smallest Element in a BST - Google, Amazon, Facebook Interview Question",
+      "duration": 862
+    },
+    {
+      "id": "kNZ5VIkqReU",
+      "title": "Convert Binary Tree to Doubly Linked List - FAANG Interview Question",
+      "duration": 636
+    },
+    {
+      "id": "CxNRKTp6_9s",
+      "title": "Correct Binary Tree That Has Two Nodes Swapped - FAANG Interview Question",
+      "duration": 632
+    }
+  ]
+}

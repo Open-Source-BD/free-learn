@@ -1,0 +1,710 @@
+{
+  "courseId": "dbms-database-management-system-complete-playlist-5b44b5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:08.279Z",
+  "title": "DBMS (Database Management system) Complete Playlist",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "kBdlM6hNDAE",
+      "title": "Lec-1: DBMS Syllabus for GATE, UGCNET, NIELIT, DSSSB etc.| Full DBMS for College/University Students",
+      "duration": 1084
+    },
+    {
+      "id": "3EJlovevfcA",
+      "title": "Lec-2: Introduction to DBMS (Database Management System) With Real life examples | What is DBMS",
+      "duration": 720
+    },
+    {
+      "id": "ZtVw2iuFI2w",
+      "title": "Lec-3: File  System vs DBMS | Disadvantages of File System | DBMS Advantages",
+      "duration": 780
+    },
+    {
+      "id": "VyvTabQHevw",
+      "title": "Lec-4: 2 tier and 3 tier Architecture with real life examples | Database Management System",
+      "duration": 777
+    },
+    {
+      "id": "pDX4NR4eY3A",
+      "title": "Lec-5: What is Schema | How to define Schema | Database management system in Hindi",
+      "duration": 274
+    },
+    {
+      "id": "5fs1ldO6B5c",
+      "title": "Lec-6: Three Schema Architecture | Three Level of Abstraction | Database Management System",
+      "duration": 925
+    },
+    {
+      "id": "upUSGUSK5k0",
+      "title": "Lec-7: What is Data Independence | Logical vs. Physical Independence | DBMS",
+      "duration": 622
+    },
+    {
+      "id": "YTJdBA9wZro",
+      "title": "Lec-8: Integrity Constraints in Database with Examples",
+      "duration": 434
+    },
+    {
+      "id": "mMxjKFiIKxs",
+      "title": "Lec-9: What is CANDIDATE KEY  and PRIMARY key | Full Concept |  Most suitable examples | DBMS",
+      "duration": 312
+    },
+    {
+      "id": "Tp37HXfekNo",
+      "title": "Lec-10: What is Primary Key in DBMS | Primary Key with Examples in Hindi",
+      "duration": 691
+    },
+    {
+      "id": "UyqpQ3D2yCw",
+      "title": "Lec-11: Foreign Key in DBMS | Full Concept with examples | DBMS in Hindi",
+      "duration": 523
+    },
+    {
+      "id": "DM2lAomoDrg",
+      "title": "Lec-12: Insert, Update & Delete from Foreign Key table | Referential Integrity",
+      "duration": 1099
+    },
+    {
+      "id": "KknAgz0xGSU",
+      "title": "Lec-13: Question on Foreign Key | ये Question Competition Exams में अक्सर पूछा गया है",
+      "duration": 524
+    },
+    {
+      "id": "Br2FInlVKcs",
+      "title": "Lec-14: Foreign Key🔑 with On Delete Cascade with Execution",
+      "duration": 334
+    },
+    {
+      "id": "QQqGfScdlzA",
+      "title": "Lec-15: Super key in DBMS in HINDI | ये Question Competition Exams में अक्सर पूछा गया है",
+      "duration": 582
+    },
+    {
+      "id": "gbVev8RuZLg",
+      "title": "Lec-16: Introduction to ER model | ER Model क्या है",
+      "duration": 512
+    },
+    {
+      "id": "WEo3g6Ir-vA",
+      "title": "Lec-17: Types of Attributes in ER Model | Full Concept | DBMS in Hindi",
+      "duration": 842
+    },
+    {
+      "id": "s6MH7f3SnsY",
+      "title": "Lec-18: One to One relationship in DBMS in Hindi",
+      "duration": 1004
+    },
+    {
+      "id": "rZxETdO_KUQ",
+      "title": "Lec-19: One to Many Relationship in DBMS in Hindi | 1-M Relationship",
+      "duration": 839
+    },
+    {
+      "id": "onR_sLhbZ4w",
+      "title": "Lec-20: Many to Many Relationship in DBMS | M-N Relationship",
+      "duration": 647
+    },
+    {
+      "id": "QP1w30bgcH0",
+      "title": "Lec-21:Introduction to Weak Entity Set with Example |  Database Management System",
+      "duration": 707
+    },
+    {
+      "id": "Nxdq8RZ7Ayg",
+      "title": "Lec-22:Question on Minimize tables in ER Model | ये Question Competition Exams में अक्सर पूछा गया है",
+      "duration": 338
+    },
+    {
+      "id": "ibRwG8Pm-vI",
+      "title": "Lec-23: Important Question explanation on ER Model | DBMS",
+      "duration": 524
+    },
+    {
+      "id": "5GDTIUVlHB8",
+      "title": "Lec-24: Introduction to Normalization | Insertion, Deletion & Updation Anomaly",
+      "duration": 771
+    },
+    {
+      "id": "NlgZy30Dv9A",
+      "title": "Lec-25: First Normal form in DBMS in HINDI | 1st Normal form क्या होती है ?",
+      "duration": 509
+    },
+    {
+      "id": "bSdvM_0hzgc",
+      "title": "Lec-26: Finding Closure of Functional dependency in DBMS | Easiest & Simplest way",
+      "duration": 1066
+    },
+    {
+      "id": "qn5neFBpU40",
+      "title": "Lec-27: Functional Dependency & its properties in DBMS in HINDI",
+      "duration": 1029
+    },
+    {
+      "id": "tkbAA--wKOc",
+      "title": "Lec-28: Second Normal Form | 2NF | Database Management System",
+      "duration": 1080
+    },
+    {
+      "id": "IeSai2JVm78",
+      "title": "Lec-29: Third Normal Form in dbms with examples in Hindi | Normalization",
+      "duration": 986
+    },
+    {
+      "id": "mf_PbWPo7VM",
+      "title": "Lec-30: Boyce Codd Normal Form #BCNF #DBMS #Normalization with best examples",
+      "duration": 408
+    },
+    {
+      "id": "qwI0oe3-g9g",
+      "title": "Lec-31: BCNF Always Ensures Dependency Preserving Decomposition?? Normalization Examples",
+      "duration": 604
+    },
+    {
+      "id": "Sabwow_e2-M",
+      "title": "Lec-32: Lossless and Lossy Decomposition| Fifth (5th) Normal Form  | Database Management System",
+      "duration": 1337
+    },
+    {
+      "id": "EGEwkad_llA",
+      "title": "Lec-33: All Normal Forms with Real life examples | 1NF 2NF 3NF BCNF 4NF 5NF | All in One",
+      "duration": 675
+    },
+    {
+      "id": "sS-LJMTVVj8",
+      "title": "Lec-34: Minimal Cover in DBMS With Example | Canonical cover",
+      "duration": 549
+    },
+    {
+      "id": "4h8VoRnRvnE",
+      "title": "Lec-35: Practice Question on Normalization | Database Management System",
+      "duration": 1208
+    },
+    {
+      "id": "wTJjpH2RUcQ",
+      "title": "Lec-36: How to find out the Normal form of a Relation | DBMS",
+      "duration": 1443
+    },
+    {
+      "id": "1yUkun2r0N4",
+      "title": "Lec-37: How to Solve Normalization Questions | DBMS",
+      "duration": 561
+    },
+    {
+      "id": "EFdvRm5nse0",
+      "title": "Lec-38: Important Question Explanation on Normalization",
+      "duration": 1168
+    },
+    {
+      "id": "vYsVVM4TOLk",
+      "title": "Lec-39: Important Question on Normalization (Schemas) Explanation | DBMS",
+      "duration": 413
+    },
+    {
+      "id": "eIXC6NfKno4",
+      "title": "Lec-40: Cover and Equivalence of Functional Dependencies | Database Management System",
+      "duration": 804
+    },
+    {
+      "id": "0oeap0QDslY",
+      "title": "Lec-41: Dependency Preserving Decomposition in DBMS with Examples in Hindi | DBMS",
+      "duration": 651
+    },
+    {
+      "id": "jxENwUU9j7w",
+      "title": "Lec-42: Dependency Preserving Decomposition in DBMS | Example 2 in Hindi",
+      "duration": 440
+    },
+    {
+      "id": "zYH-e6tUYbw",
+      "title": "Lec-43: Introduction to Joins and its types | Need of Joins with example | DBMS",
+      "duration": 641
+    },
+    {
+      "id": "jRxEjmjIIFs",
+      "title": "Lec-44: Natural Join operation with Example | Database Management System",
+      "duration": 971
+    },
+    {
+      "id": "6DQpvfdj6EE",
+      "title": "Lec-45: Self Join operation with Example | Database Management System",
+      "duration": 877
+    },
+    {
+      "id": "lUiPjkOQG9w",
+      "title": "Lec-46: Equi Join operation with Example | Database Management System",
+      "duration": 855
+    },
+    {
+      "id": "unxn0KnzBzk",
+      "title": "Lec-47: Left Outer Join operation with Example | Database Management System",
+      "duration": 468
+    },
+    {
+      "id": "t7J__TGqoQs",
+      "title": "Lec-48: Right Outer Join operation with Example | Database Management System",
+      "duration": 512
+    },
+    {
+      "id": "Cu9-mNbXkww",
+      "title": "Lec-49: Question on Inner, Left, Right & Full Outer Joins Explanation | DBMS",
+      "duration": 243
+    },
+    {
+      "id": "4YilEjkNPrQ",
+      "title": "Lec-50: Introduction to Relational Algebra | Database Management System",
+      "duration": 264
+    },
+    {
+      "id": "G9ixeTIyg8s",
+      "title": "Lec-51: Projection in Relational Algebra | Database Management System",
+      "duration": 379
+    },
+    {
+      "id": "2hUVf17DHVs",
+      "title": "Lec-52: Selection in Relational Algebra | Database Management System",
+      "duration": 393
+    },
+    {
+      "id": "F6MBz_h3Uj8",
+      "title": "Lec-53: Cross/Cartesian Product in  Relational Algebra | Database Management System",
+      "duration": 378
+    },
+    {
+      "id": "evDqDiJpw5k",
+      "title": "Lec-54: Set Difference in Relational Algebra | Database Management System",
+      "duration": 363
+    },
+    {
+      "id": "b0zitqncxP8",
+      "title": "Lec-55: Union Operation in Relational Algebra | Database Management System",
+      "duration": 440
+    },
+    {
+      "id": "lbvCaETL2FI",
+      "title": "Lec-56: Division Operation in Relational Algebra | Database Management System",
+      "duration": 883
+    },
+    {
+      "id": "2Q3B2mrrpAw",
+      "title": "Lec-57: Rename Operator in Relational Algebra | Database Management System (DBMS)",
+      "duration": 801
+    },
+    {
+      "id": "SnsrohgiPo0",
+      "title": "Lec-58: Tuple Calculus in DBMS with examples",
+      "duration": 969
+    },
+    {
+      "id": "323H_mOOWQ4",
+      "title": "Lec-59: Introduction to Structured Query Language | All Points regarding its Features and Syllabus",
+      "duration": 730
+    },
+    {
+      "id": "vUj-kUEC_oA",
+      "title": "Lec-60: All Types of SQL Commands with Example | DDL, DML, DCL, TCL and CONSTRAINTS | DBMS",
+      "duration": 632
+    },
+    {
+      "id": "R6Ps7aUNPE4",
+      "title": "Lec-61: Create table in SQL with execution | SQL for Beginners | Oracle LIVE",
+      "duration": 445
+    },
+    {
+      "id": "Nsv0MX3IDJE",
+      "title": "Lec-62: CREATE Command (DDL) in SQL with Implementation on ORACLE",
+      "duration": 657
+    },
+    {
+      "id": "NA3b8JRUmww",
+      "title": "Lec-63: ALTER Command (DDL) in SQL with Implementation on ORACLE",
+      "duration": 789
+    },
+    {
+      "id": "x56CHpL4GBE",
+      "title": "Lec-64: Difference between Alter and Update in SQL with examples in Hindi | DBMS",
+      "duration": 481
+    },
+    {
+      "id": "_m1aJdD-oD8",
+      "title": "Lec-65: Difference between Delete, Drop & Truncate in SQL | DBMS",
+      "duration": 619
+    },
+    {
+      "id": "PcMr6xoundk",
+      "title": "Lec-66: Constraints in SQL in Hindi | DBMS",
+      "duration": 721
+    },
+    {
+      "id": "_yog7h4BokQ",
+      "title": "Lec-67: SQL Queries and Subqueries (part-1) | Database Management System",
+      "duration": 538
+    },
+    {
+      "id": "9lLpe_detTY",
+      "title": "Lec-68: SQL Queries and Subqueries (part-2) | 2nd Highest Salary | Nested Queries | DBMS",
+      "duration": 747
+    },
+    {
+      "id": "apNmMWgFFRg",
+      "title": "Lec-69: SQL Queries and Subqueries (part-3) | Group By clause  | Database Management System",
+      "duration": 552
+    },
+    {
+      "id": "0vpzgsIS5Lg",
+      "title": "Lec-70: WITH Clause in SQL | SQL CTE (Common Table Expression) | DBMS",
+      "duration": 581
+    },
+    {
+      "id": "iPEmGpI3OGU",
+      "title": "Lec-71: SQL Queries and Subqueries (part-4) | Having clause | Database Management System",
+      "duration": 662
+    },
+    {
+      "id": "4uOwq0ASCtc",
+      "title": "Lec-72: SQL Queries and Subqueries (part-5)  | Database Management System",
+      "duration": 690
+    },
+    {
+      "id": "jEqi2tpI4eE",
+      "title": "Lec-73: SQL Queries and Subqueries (part-6)| use of IN and Not IN | Database Management System",
+      "duration": 554
+    },
+    {
+      "id": "JNCHZlRqZUU",
+      "title": "Lec-74: SQL Queries and Subqueries (part-7)| use of  IN and Not IN  in Subquery | DBMS",
+      "duration": 580
+    },
+    {
+      "id": "wA9GJZcB618",
+      "title": "Lec-75: EXIST and NOT EXIST Subqueries(part-8) | Database Management System",
+      "duration": 849
+    },
+    {
+      "id": "iug2vvLQ9B8",
+      "title": "Lec-76: Like Command in SQL with example in Hindi | Learn SQL in Easiest Way| DBMS",
+      "duration": 642
+    },
+    {
+      "id": "EDZMYBNj7wM",
+      "title": "Lec-77: SEQUENCE in SQL with Syntax & Examples",
+      "duration": 425
+    },
+    {
+      "id": "wP2giPPgwqI",
+      "title": "Lec-78: How SQL Query executes?? Order of SQL Query Execution⏳🔄",
+      "duration": 425
+    },
+    {
+      "id": "Yr4pHPZCshA",
+      "title": "Lec-79: SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions | DBMS",
+      "duration": 681
+    },
+    {
+      "id": "pn9OI3sSKFE",
+      "title": "Lec-80: How Aggregate Functions work on NULL Values | SQL | DBMS",
+      "duration": 443
+    },
+    {
+      "id": "0d419Vo2Po4",
+      "title": "Lec-81: Correlated Subquery in SQL with Example | Imp for Placements, GATE, NET & SQL certification",
+      "duration": 704
+    },
+    {
+      "id": "kexRg0O2ir4",
+      "title": "Lec-82: Non Correlated Subquery in SQL  | Imp for Placements, GATE, NET & SQL certification",
+      "duration": 1087
+    },
+    {
+      "id": "bonJEipf3VU",
+      "title": "Lec-83: Difference between Joins, Nested Subquery and Correlated Subquery | Most Imp Concept of SQL",
+      "duration": 957
+    },
+    {
+      "id": "fh4yBn0oTaM",
+      "title": "Lec-84: Find Nth(1st,2nd,3rd....N) Highest Salary in SQL | Imp for Competitive & Placement exam",
+      "duration": 774
+    },
+    {
+      "id": "BKQcn0sLZGM",
+      "title": "Lec-85: 3 Imp Questions on SQL basic Concepts | DBMS",
+      "duration": 578
+    },
+    {
+      "id": "iyJxCc9XRxU",
+      "title": "Lec-86: Introduction to PL-SQL in DBMS",
+      "duration": 385
+    },
+    {
+      "id": "t5hsV9lC1rU",
+      "title": "Lec-87: Introduction to Transaction Concurrency in HINDI | Database Management System",
+      "duration": 762
+    },
+    {
+      "id": "-GS0OxFJsYQ",
+      "title": "Lec-88: ACID Properties of a Transaction | Database Management System",
+      "duration": 838
+    },
+    {
+      "id": "ObwYFVLB_VI",
+      "title": "Lec-89: Transaction States | Database Management System",
+      "duration": 717
+    },
+    {
+      "id": "1cbmhsSJRWc",
+      "title": "Lec-90: What is Schedule | Serial Vs Parallel Schedule  | Database Management System",
+      "duration": 646
+    },
+    {
+      "id": "oP8yLMjmszE",
+      "title": "Lec-91: All Concurrency Problems | Dirty Read | Incorrect Summary | Lost Update | Phantom Read",
+      "duration": 297
+    },
+    {
+      "id": "r_oI0jLqlVY",
+      "title": "Lec-92: Write-Read Conflict or Dirty Read Problem | Database Management System",
+      "duration": 504
+    },
+    {
+      "id": "vwIeKYGXmjI",
+      "title": "Lec-93: Read-Write Conflict or Unrepeatable Read Problem  | Database Management System",
+      "duration": 464
+    },
+    {
+      "id": "g2gZKA8E1yA",
+      "title": "Lec-94: Irrecoverable Vs Recoverable Schedules in Transactions | DBMS",
+      "duration": 369
+    },
+    {
+      "id": "Fxt1pk5LEBU",
+      "title": "Lec-95: Cascading vs Cascadeless Schedule with Example | Recoverability | DBMS",
+      "duration": 693
+    },
+    {
+      "id": "s8QlJoL1G6w",
+      "title": "Lec-96: Introduction to Serializability | Transactions Concurrency and Control | DBMS",
+      "duration": 557
+    },
+    {
+      "id": "ckqDozxECp0",
+      "title": "Lec-97: Conflict Equivalent Schedules with Example | Transaction concurrency and Control | DBMS",
+      "duration": 440
+    },
+    {
+      "id": "zv0ba0Iok1Y",
+      "title": "Lec-98: Conflict Serializability | Precedence Graph | Transaction | DBMS",
+      "duration": 738
+    },
+    {
+      "id": "8LKM_RWeroM",
+      "title": "Lec-99: Why View Serializability is Used | Introduction to View Serializability | DBMS",
+      "duration": 684
+    },
+    {
+      "id": "94C0V7f2zm4",
+      "title": "Lec-100:Shared Exclusive Locking Protocol with Example | Concurrency Control | DBMS | Part-1",
+      "duration": 404
+    },
+    {
+      "id": "UsqtDD1VriY",
+      "title": "Lec-101: Drawbacks in Shared/Exclusive Locking Protocol with Example | Concurrency Control Part-2",
+      "duration": 659
+    },
+    {
+      "id": "1pUaEDNLWi4",
+      "title": "Lec-102: 2 Phase Locking(2PL) Protocol in Transaction Concurrency Control | DBMS",
+      "duration": 593
+    },
+    {
+      "id": "pZExswIjVsk",
+      "title": "Lec-103: Drawbacks in 2 Phase Locking(2PL) Protocol with examples | Concurrency Control | DBMS",
+      "duration": 648
+    },
+    {
+      "id": "z8Yqn91akV8",
+      "title": "Lec-104: Strict 2PL, Rigorous 2PL and Conservative 2PLSchedule | 2 Phase Locking in DBMS",
+      "duration": 690
+    },
+    {
+      "id": "27NtGV1vNoY",
+      "title": "Lec-105: Basic Timestamp Ordering Protocol with Example in Hindi | Concurrency Control | DBMS",
+      "duration": 911
+    },
+    {
+      "id": "h60vaqrXHO8",
+      "title": "Lec-106: How to Solve Question on Timestamp Ordering Protocol | Concurrency Control | DBMS",
+      "duration": 758
+    },
+    {
+      "id": "E--yzX05_k8",
+      "title": "Lec-107: Why Indexing is used | Indexing Beginning | DBMS",
+      "duration": 620
+    },
+    {
+      "id": "P24LAhp-ap8",
+      "title": "Lec-108: Numerical Example on I/O Cost in Indexing | Part-1 | DBMS",
+      "duration": 747
+    },
+    {
+      "id": "s_S_MpLoDEM",
+      "title": "Lec-109: Numerical Example on I/O Cost in Indexing | Part 2 | DBMS",
+      "duration": 705
+    },
+    {
+      "id": "vjrHiaIfOl8",
+      "title": "Lec-110: Types Of Indexes | Most Important Video on Indexing",
+      "duration": 278
+    },
+    {
+      "id": "4E-MGnjMhRw",
+      "title": "Lec-111: Primary Index With Example | GATE, PSU and UGC NET | DBMS",
+      "duration": 476
+    },
+    {
+      "id": "UpJ9ICmzaAM",
+      "title": "Lec-112: Clustered Index in Database with Example",
+      "duration": 406
+    },
+    {
+      "id": "Ua08uVgsk4k",
+      "title": "Lec-113: Secondary Index in Database with Example | Multilevel Indexing",
+      "duration": 784
+    },
+    {
+      "id": "KcApkM5WYGw",
+      "title": "Lec-114: Introduction to B-Tree and its Structure | Block Pointer, Record Pointer, Key",
+      "duration": 613
+    },
+    {
+      "id": "YUtUNlLNB5c",
+      "title": "Lec-115: Insertion in B-Tree with example in Hindi",
+      "duration": 768
+    },
+    {
+      "id": "yGSHbjA4w0o",
+      "title": "Lec-116: How to find Order of B-Tree | Imp Question on B-Tree",
+      "duration": 675
+    },
+    {
+      "id": "BwUvgG29fPc",
+      "title": "Lec-117: Difference b/w B-Tree & B+Tree  in Hindi with examples",
+      "duration": 898
+    },
+    {
+      "id": "V-ayKf1CWQE",
+      "title": "Lec-118: Order of B+ Tree | Order of Leaf Node & Non Leaf Node in B+Tree",
+      "duration": 602
+    },
+    {
+      "id": "47LvbDGD4cc",
+      "title": "Lec-119: Immediate Database Modification in DBMS | Log Based Recovery Methods",
+      "duration": 379
+    },
+    {
+      "id": "0YhOYqPeq0g",
+      "title": "Lec-120: Deferred Database Modification in DBMS | Log Based Recovery | Imp for UGC NET and KVS",
+      "duration": 630
+    },
+    {
+      "id": "2_1IgbDjqoQ",
+      "title": "Lec-121: Basic PL-SQL Programming With Execution | Part-1",
+      "duration": 485
+    },
+    {
+      "id": "yFA_ZzMynv0",
+      "title": "Lec-122: Basic PL-SQL Programming(While, For Loop) With Execution | Part-2",
+      "duration": 372
+    },
+    {
+      "id": "-uVzU8dX_-M",
+      "title": "Lec-123: Single row and Multi row functions in SQL",
+      "duration": 344
+    },
+    {
+      "id": "NgTITZuT77Q",
+      "title": "Lec-124: Character functions in SQL with execution | Oracle LIVE",
+      "duration": 630
+    },
+    {
+      "id": "QngqhdLd1SE",
+      "title": "Lec-125: View in Database | Oracle, SQL Server Views | Types of Views",
+      "duration": 838
+    },
+    {
+      "id": "-6sA9nHlZDc",
+      "title": "Lec-126: What is RAID? RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, Nested RAID 10 Explained",
+      "duration": 875
+    },
+    {
+      "id": "dCRMG-qDaHM",
+      "title": "Lec-127: Various objects in Database | Oracle, SQL Server",
+      "duration": 365
+    },
+    {
+      "id": "PJK3OWg5Ji0",
+      "title": "Lec-128: Very Imp. Questions on DBMS basic concepts and Data Modelling | DBMS",
+      "duration": 656
+    },
+    {
+      "id": "skplnGHCbqY",
+      "title": "Lec-129: 4 Imp Questions on Advance DBMS | BIG Data and Data Warehouse | DBMS",
+      "duration": 617
+    },
+    {
+      "id": "AIaGnc2E5xc",
+      "title": "Lec-130: Important Question on Relational Algebra | DBMS",
+      "duration": 536
+    },
+    {
+      "id": "CNdKfDDwqQI",
+      "title": "Lec-131: Codd’s 12 Rules of RDBMS with examples",
+      "duration": 822
+    },
+    {
+      "id": "0xg4X79yHW4",
+      "title": "Lec-132: Top 15 SQL Interview Questions Answers | Most Important Questions for Job Interview",
+      "duration": 919
+    },
+    {
+      "id": "g_x4D2V1MP4",
+      "title": "Lec-133: Introduction to Hadoop🐘| What is Hadoop🐘| Hadoop Framework🖥",
+      "duration": 568
+    },
+    {
+      "id": "LOuAOZWJ9RA",
+      "title": "Lec-134: Introduction to BIG Data in Hindi | Small Data Vs BIG Data | Real Life Examples",
+      "duration": 765
+    },
+    {
+      "id": "XI1rk1Uaf7U",
+      "title": "Lec-135: Simple vs Complex vs Materialized Views with examples | DBMS",
+      "duration": 477
+    },
+    {
+      "id": "v-XBdh7Xupc",
+      "title": "Lec-136: Procedures in PL-SQL | Local Procedure vs Stored Procedure",
+      "duration": 438
+    },
+    {
+      "id": "ba0gZ2RYLfs",
+      "title": "Lec-137: How to Fetch Data from Database using Procedures | PL-SQL Procedure",
+      "duration": 422
+    },
+    {
+      "id": "2ege5FiH6Go",
+      "title": "Lec-138: What is Cursor in PL-SQL with example",
+      "duration": 735
+    },
+    {
+      "id": "Et7qpdC7Iag",
+      "title": "Lec-139: %TYPE & %ROWTYPE in PL-SQL with Examples",
+      "duration": 515
+    },
+    {
+      "id": "JAkLCSGMRgE",
+      "title": "Lec-140: Data Cleaning using SQL Functions with examples",
+      "duration": 439
+    }
+  ]
+}

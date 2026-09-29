@@ -1,0 +1,45 @@
+{
+  "courseId": "vim-as-your-editor-99ab55",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:14.587Z",
+  "title": "Vim As Your Editor",
+  "channel": "ThePrimeagen",
+  "videos": [
+    {
+      "id": "X6AR2RMB5tE",
+      "title": "Vim As Your Editor - Introduction",
+      "duration": 744
+    },
+    {
+      "id": "5JGVtttuDQA",
+      "title": "Vim As Your Editor - Horizontal",
+      "duration": 636
+    },
+    {
+      "id": "KfENDDEpCsI",
+      "title": "Vim As Your Editor - Vertical Movements",
+      "duration": 566
+    },
+    {
+      "id": "qZO9A5F6BZs",
+      "title": "Vim As You Editor - Advanced Motions P1",
+      "duration": 584
+    },
+    {
+      "id": "uL9oOZStezw",
+      "title": "Vim as your editor - Advanced Motions P2",
+      "duration": 768
+    },
+    {
+      "id": "w7i4amO_zaE",
+      "title": "0 to LSP : Neovim RC From Scratch",
+      "duration": 1847
+    },
+    {
+      "id": "FrMRyXtiJkc",
+      "title": "How to Vim in 2023: Tips and Tricks",
+      "duration": 953
+    }
+  ]
+}

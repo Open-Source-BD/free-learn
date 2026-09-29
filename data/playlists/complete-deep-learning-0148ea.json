@@ -1,0 +1,450 @@
+{
+  "courseId": "complete-deep-learning-0148ea",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:34.047Z",
+  "title": "Complete Deep Learning",
+  "channel": "Krish Naik",
+  "videos": [
+    {
+      "id": "YFNKnUhm_-s",
+      "title": "Why Deep Learning Is Becoming So Popular?🔥🔥🔥🔥🔥🔥",
+      "duration": 843
+    },
+    {
+      "id": "9jA0KjS7V_c",
+      "title": "Complete Road Map To Prepare For Deep Learning🔥🔥🔥🔥",
+      "duration": 983
+    },
+    {
+      "id": "J3nFOPoVnPw",
+      "title": "Introduction To Machine Learning And Deep Learning For Starters",
+      "duration": 3028
+    },
+    {
+      "id": "DKSZHN7jftI",
+      "title": "Tutorial 1- Introduction to Neural Network and Deep Learning",
+      "duration": 487
+    },
+    {
+      "id": "JkeiEYkLEvM",
+      "title": "Tutorial 2- How does Neural Network Work",
+      "duration": 444
+    },
+    {
+      "id": "SXrXUqDjICA",
+      "title": "Tutorial 3-Activation Functions Part-1",
+      "duration": 356
+    },
+    {
+      "id": "mH9GBJ6og5A",
+      "title": "Tutorial 4: How to train Neural Network with BackPropogation",
+      "duration": 562
+    },
+    {
+      "id": "cxPAvoIbsIk",
+      "title": "Tutorial 5- How to train MultiLayer Neural Network and Gradient Descent",
+      "duration": 856
+    },
+    {
+      "id": "CRB266Eyjkg",
+      "title": "Tutorial 6-Chain Rule of Differentiation with BackPropagation",
+      "duration": 823
+    },
+    {
+      "id": "JIWXbzRXk1I",
+      "title": "Tutorial 7- Vanishing Gradient Problem",
+      "duration": 870
+    },
+    {
+      "id": "IJ9atfxFjOQ",
+      "title": "Tutorial 8- Exploding Gradient Problem in Neural Network",
+      "duration": 671
+    },
+    {
+      "id": "XmLYl17DbbA",
+      "title": "Tutorial 9- Drop Out Layers in Multi Neural Network",
+      "duration": 691
+    },
+    {
+      "id": "DDBk3ZFNtJc",
+      "title": "Tutorial 10- Activation Functions Rectified Linear Unit(relu) and Leaky Relu Part 2",
+      "duration": 738
+    },
+    {
+      "id": "qVLQ9Cqm-ec",
+      "title": "Deep Learning-Activation Functions-Elu, PRelu,Softmax,Swish And Softplus",
+      "duration": 2328
+    },
+    {
+      "id": "tMjdQLylyGI",
+      "title": "Tutorial 11- Various Weight Initialization Techniques in Neural Network",
+      "duration": 776
+    },
+    {
+      "id": "FpDsDn-fBKA",
+      "title": "Tutorial 12- Stochastic Gradient Descent vs Gradient Descent",
+      "duration": 737
+    },
+    {
+      "id": "JLk0ee_zuOM",
+      "title": "Tutorial 13- Global Minima and Local Minima in Depth Understanding",
+      "duration": 843
+    },
+    {
+      "id": "CKLwvuKWQjo",
+      "title": "Tutorial 14- Stochastic Gradient Descent with Momentum",
+      "duration": 790
+    },
+    {
+      "id": "GSmW59dM0-o",
+      "title": "Tutorial 15- Adagrad Optimizers in Neural Network",
+      "duration": 797
+    },
+    {
+      "id": "9wFBbAQixBM",
+      "title": "Tutorial 16- AdaDelta and RMSprop optimizer",
+      "duration": 566
+    },
+    {
+      "id": "TudQZtgpoHk",
+      "title": "Deep Learning-All Optimizers In One Video-SGD with Momentum,Adagrad,Adadelta,RMSprop,Adam Optimizers",
+      "duration": 6115
+    },
+    {
+      "id": "e59u5YyuEfQ",
+      "title": "Session On Different Types Of Loss Function In Deep Learning",
+      "duration": 6152
+    },
+    {
+      "id": "OTTOglLJxLU",
+      "title": "Tutorial 17- Create Artificial Neural Network using Weight Initialization Tricks",
+      "duration": 1486
+    },
+    {
+      "id": "Lx16T9cl5ng",
+      "title": "Keras Tuner Hyperparameter Tuning-How To Select Hidden Layers And Number of Hidden Neurons In ANN",
+      "duration": 1164
+    },
+    {
+      "id": "OSJOBH2-a9Y",
+      "title": "Tutorial 18- Hyper parameter Tuning To Decide Number of Hidden Layers in Neural Network",
+      "duration": 639
+    },
+    {
+      "id": "41JItgtYGDo",
+      "title": "Tutorial 19- Training Artificial Neural Network using Google Colab GPU",
+      "duration": 1165
+    },
+    {
+      "id": "cleLMnmNMpY",
+      "title": "Tutorial 20- Convolution Neural Network vs Human Brain",
+      "duration": 397
+    },
+    {
+      "id": "Etksi-F5ug8",
+      "title": "Tutorial 21- What is Convolution operation in CNN?",
+      "duration": 658
+    },
+    {
+      "id": "PGBop7Ka9AU",
+      "title": "Tutorial 22- Padding in Convolutional Neural Network",
+      "duration": 470
+    },
+    {
+      "id": "aLjpU-ahEhA",
+      "title": "Tutorial 23- Operation Of CNN(CNN vs ANN)",
+      "duration": 670
+    },
+    {
+      "id": "VpSLtKiPhLM",
+      "title": "Tutorial 24- Max Pooling Layer In CNN",
+      "duration": 397
+    },
+    {
+      "id": "UGiLdf3fzAI",
+      "title": "Tutorial 25- Data Augmentation In CNN-Deep Learning",
+      "duration": 459
+    },
+    {
+      "id": "hxLU32zhze0",
+      "title": "Tutorial 26- Create Image Dataset using Data Augmentation using Keras-Deep Learning-Data Science",
+      "duration": 424
+    },
+    {
+      "id": "OzLAdpqm35E",
+      "title": "Tutorial 27- Create CNN Model and Optimize using Keras Tuner- Deep Learning",
+      "duration": 1660
+    },
+    {
+      "id": "zBOavqh3kWU",
+      "title": "Tutorial 28- Create CNN Model Using Transfer Learning using Vgg 16, Resnet",
+      "duration": 899
+    },
+    {
+      "id": "CPl9XdIFbYA",
+      "title": "Tutorial 29- Why Use Recurrent Neural Network and Its Application",
+      "duration": 613
+    },
+    {
+      "id": "u8utlK_c5C8",
+      "title": "Tutorial 30- Recurrent Neural Network Forward Propogation With Time",
+      "duration": 654
+    },
+    {
+      "id": "6EXP2-d_xQA",
+      "title": "Tutorial 31- Back Propagation In Recurrent Neural Network",
+      "duration": 450
+    },
+    {
+      "id": "mDaEfPgwtgo",
+      "title": "Tutorial 32- Problems In Simple Recurrent Neural Network",
+      "duration": 343
+    },
+    {
+      "id": "StH5YNrY0mE",
+      "title": "Tutorial 33-  Installing Cuda Toolkit And cuDNN For Deep Learning",
+      "duration": 1170
+    },
+    {
+      "id": "rdkIOM78ZPk",
+      "title": "Tutorial 34- LSTM Recurrent Neural Network In Depth Intuition",
+      "duration": 1408
+    },
+    {
+      "id": "pO_6Jk0QtKw",
+      "title": "Word Embedding - Natural  Language Processing| Deep Learning",
+      "duration": 910
+    },
+    {
+      "id": "TsXR7_vtusQ",
+      "title": "Implementing Word Embedding Using Keras- NLP | Deep Learning",
+      "duration": 1085
+    },
+    {
+      "id": "g4Rm13hWIPc",
+      "title": "Develop your Neural Network Like A Google Deep Learning Developer",
+      "duration": 865
+    },
+    {
+      "id": "MXPh_lMRwAI",
+      "title": "Kaggle Faker News Classifier Using LSTM- Deep LEarning| Natural Language Processing",
+      "duration": 1312
+    },
+    {
+      "id": "H6du_pfuznE",
+      "title": "Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning",
+      "duration": 2193
+    },
+    {
+      "id": "D-a6dwXzJ6s",
+      "title": "Bidirectional RNN Indepth Intuition- Deep Learning Tutorial",
+      "duration": 474
+    },
+    {
+      "id": "RpTmnRGJvRQ",
+      "title": "Implement Kaggle Fake News Classifier Using Bidirectional LSTM RNN",
+      "duration": 1081
+    },
+    {
+      "id": "jCrgzJlxTKg",
+      "title": "Sequence To Sequence Learning With Neural Networks| Encoder And Decoder In-depth Intuition",
+      "duration": 802
+    },
+    {
+      "id": "UeydWKkjwwE",
+      "title": "Develop Your First Deep Learning End To End Project As A Beginner In Data Science in 30 minutes",
+      "duration": 1831
+    },
+    {
+      "id": "f-JCCOHwx1c",
+      "title": "Encoder And Decoder- Neural Machine Learning Language Translation Tutorial With Keras- Deep Learning",
+      "duration": 1156
+    },
+    {
+      "id": "tHf4CmTH1QE",
+      "title": "Problems With Encoders And Decoders- Indepth Intuition",
+      "duration": 669
+    },
+    {
+      "id": "fdhojC37_Co",
+      "title": "Live Session- Understanding Attention Models Architecture And Maths Intuition- Deep Learning",
+      "duration": 3825
+    },
+    {
+      "id": "bHfXYQgn0Cc",
+      "title": "Live Session- Encoder Decoder,Attention Models, Transformers, Bert Part 1",
+      "duration": 5850
+    },
+    {
+      "id": "ZU12u6-ewP0",
+      "title": "Live- Attention Models, Transformers  In depth Intuition Deep Learning- Part 2",
+      "duration": 5747
+    },
+    {
+      "id": "SMZQrJ_L1vo",
+      "title": "Live -Transformers Indepth Architecture Understanding- Attention Is All You Need",
+      "duration": 4764
+    },
+    {
+      "id": "chQNuV9B-Rw",
+      "title": "How To Train Deep Learning Models In Google Colab- Must For Everyone",
+      "duration": 1466
+    },
+    {
+      "id": "7LQSdPjWjdA",
+      "title": "Alexnet Architecture In-depth-Discussion Along With Code-Deep Learning Advanced CNN",
+      "duration": 1397
+    },
+    {
+      "id": "mRVTKrbRYi0",
+      "title": "VGGNET Architecture In-depth Discussion Along With Code -Deep Learning Advanced CNN",
+      "duration": 1419
+    },
+    {
+      "id": "67AoEK5PFKk",
+      "title": "Hummingbird-Run Traditional Machine Learning model on Deep Neural Network frameworks-Data Science",
+      "duration": 858
+    },
+    {
+      "id": "UbvkhuqVqUI",
+      "title": "Lets Implement LSTM RNN Models For Univariate Time Series Forecasting- Deep Learning",
+      "duration": 1298
+    },
+    {
+      "id": "JmWQs1uFxy8",
+      "title": "TensorDash- How To Monitor Your Deep Learning Model Metrics, Loss, Accuracy Using Mobile App",
+      "duration": 777
+    },
+    {
+      "id": "y8zqS7cfi6o",
+      "title": "Handling Imbalanced Dataset Using Cost Sensitive Neural Networks- Credit Card Fraud Detection",
+      "duration": 936
+    },
+    {
+      "id": "y7k-zCvOYxc",
+      "title": "500+ Machine Learning And Deep Learning Projects All At One Place",
+      "duration": 469
+    },
+    {
+      "id": "dmg5kZBCYck",
+      "title": "Google Colab Pro Vs Colab Free- Benefits Of Using Colab Pro- How To Access From India",
+      "duration": 788
+    },
+    {
+      "id": "upo34AT1Cys",
+      "title": "How To Implement Image Classification Using SVM In Convolution Neural Network",
+      "duration": 984
+    },
+    {
+      "id": "zqrtH_IIHuY",
+      "title": "Object Localization Vs Object Detection Deep Learning",
+      "duration": 948
+    },
+    {
+      "id": "tpHs8ROqMMs",
+      "title": "3000+ Research Datasets For Machine Learning Researchers By Papers With Code",
+      "duration": 398
+    },
+    {
+      "id": "CGHDf3EU1Bo",
+      "title": "PerceptiLabs-The Best Machine Learning Visual Modeling Tool-Train Deep Learning Neural Network",
+      "duration": 1680
+    },
+    {
+      "id": "uwJltCOrpEI",
+      "title": "Face Recognition Attendance Based Project In Machine Learning",
+      "duration": 600
+    },
+    {
+      "id": "OpGM0Zzf9jw",
+      "title": "Colab Pro Now Available In India, Brazil, France, Thailand,Japan,UK- BOON FOR Data Science Aspirants",
+      "duration": 330
+    },
+    {
+      "id": "mHPpCXqQd7Y",
+      "title": "Part 1-EDA-Audio Classification Project Using Deep Learning",
+      "duration": 1530
+    },
+    {
+      "id": "4F-cwOkMdTE",
+      "title": "Part 2-Data Preprocessing-Audio Classification Project Using Deep Learning",
+      "duration": 1095
+    },
+    {
+      "id": "uTFU7qThylE",
+      "title": "Part 3-Model Creation-Audio Classification Project Using Deep Learning",
+      "duration": 612
+    },
+    {
+      "id": "cqndT517NcQ",
+      "title": "Part 4-Testing ANN Model-Audio Classification Project Using Deep Learning",
+      "duration": 510
+    },
+    {
+      "id": "wruyZWre2sM",
+      "title": "Gradio Library-Interfaces for your Machine Learning Models",
+      "duration": 528
+    },
+    {
+      "id": "zoEJQr1VJ3Q",
+      "title": "Comparing Transfer Learning Models Using Gradio",
+      "duration": 504
+    },
+    {
+      "id": "XoMiveY_1Z4",
+      "title": "TFOD 2.0 Custom Object Detection Step By Step Tutorial",
+      "duration": 2828
+    },
+    {
+      "id": "nscku-jLjSQ",
+      "title": "Text Generation with Transformers (GPT-2) In 10 Lines Of Code",
+      "duration": 474
+    },
+    {
+      "id": "FO-tjmtw5J4",
+      "title": "Image Segmentation And Object Detection Using 5 Lines Of Code Using PixelLib",
+      "duration": 549
+    },
+    {
+      "id": "xL_0sscWllM",
+      "title": "Real Time Image Segmentation And Object Detection From Live Video Stream Using PixelLib",
+      "duration": 518
+    },
+    {
+      "id": "VDCdWwldlx4",
+      "title": "Face Detection, Face Mesh, OpenPose, Holisitic, Hand Detection Using MediaPipe On Live Stream Video",
+      "duration": 649
+    },
+    {
+      "id": "nq1p3lMenbU",
+      "title": "GauGAN AI Art Tool By Nvidia- Convert Imagination Into Real Picture- Application Of GAN",
+      "duration": 375
+    },
+    {
+      "id": "lRcNvNduD2M",
+      "title": "Implementation Of Perceptron In Deep Learning Using Python From Scratch- Part 1- Ft: Sunny",
+      "duration": 901
+    },
+    {
+      "id": "UEezYzbraXg",
+      "title": "Complete Implementation Of Perceptron In Deep Learning Using Python From Scratch",
+      "duration": 3771
+    },
+    {
+      "id": "fWq6ZLRqTZc",
+      "title": "How to Install Ubuntu in Windows 10 with WSL2-Windows Subsystem for Linux",
+      "duration": 726
+    },
+    {
+      "id": "FKEJ2_T9swo",
+      "title": "Tutorial on Automated Machine Learning using MLBox",
+      "duration": 663
+    },
+    {
+      "id": "ScfwTFV7Aoc",
+      "title": "Monte Carlo DropOut Layers In  Deep Learning",
+      "duration": 539
+    }
+  ]
+}

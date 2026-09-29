@@ -1,0 +1,65 @@
+{
+  "courseId": "recurrent-neural-network-dccbe1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:57.022Z",
+  "title": "Recurrent Neural Network",
+  "channel": "Learn With Jay",
+  "videos": [
+    {
+      "id": "lWPkNkShNbo",
+      "title": "What is Recurrent Neural Network in Deep Learning? | RNN",
+      "duration": 429
+    },
+    {
+      "id": "R2ZhLI2-vHI",
+      "title": "Types of Recurrent Neural Networks (RNNs)",
+      "duration": 335
+    },
+    {
+      "id": "7ZQgK_MV_t0",
+      "title": "RNN Model Details | Recurrent Neural Networks | Deep Learning",
+      "duration": 513
+    },
+    {
+      "id": "VJHWOO2Ix_8",
+      "title": "LSTM Recurrent Neural Network (RNN) | Explained in Detail",
+      "duration": 1172
+    },
+    {
+      "id": "Wu9BsMSKqyk",
+      "title": "Backpropagation in RNN | Backpropagation through time",
+      "duration": 530
+    },
+    {
+      "id": "pFOKxJO4gu8",
+      "title": "Word Embedding Python | RNN | Detailed Explanation",
+      "duration": 609
+    },
+    {
+      "id": "MYjQV5jwqCY",
+      "title": "Part 1 | Training Word Embeddings | Word2Vec",
+      "duration": 578
+    },
+    {
+      "id": "39w4WSxvRQM",
+      "title": "Part 2 | Python | Training Word Embeddings | Word2Vec |",
+      "duration": 1468
+    },
+    {
+      "id": "PZOIelrkj7I",
+      "title": "Emoji Prediction | LSTM in Tensorflow | Implementation",
+      "duration": 1671
+    },
+    {
+      "id": "IBs8D8PWMc8",
+      "title": "Gated Recurrent Unit | GRU | Explained in detail",
+      "duration": 899
+    },
+    {
+      "id": "f6DwK5Kuv3E",
+      "title": "Bidirectional RNN | Deep Learning | In-depth Explanation & Equations",
+      "duration": 453
+    }
+  ]
+}

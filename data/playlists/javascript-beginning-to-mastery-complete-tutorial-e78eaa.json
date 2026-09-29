@@ -1,0 +1,35 @@
+{
+  "courseId": "javascript-beginning-to-mastery-complete-tutorial-e78eaa",
+  "sourceUrl": "https://www.youtube.com/watch?v=chx9Rs41W6g&list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:47.474Z",
+  "title": "Javascript Beginning To Mastery Complete Course 2021 (In Hindi)",
+  "channel": "Harshit vashisth",
+  "videos": [
+    {
+      "id": "chx9Rs41W6g",
+      "title": "JavaScript |  Beginning to Mastery Complete Tutorial (Part 1)",
+      "duration": 40113
+    },
+    {
+      "id": "Llsq1y-HWs4",
+      "title": "JavaScript Beginning To Mastery Complete Tutorial (Part 2)",
+      "duration": 29613
+    },
+    {
+      "id": "pAl_uGXKXq8",
+      "title": "JavaScript | Beginning to Mastery Complete Course (Part 3)",
+      "duration": 13767
+    },
+    {
+      "id": "KwYd3I4aQt4",
+      "title": "Toggle Theme Using JavaScript in One Click | Use CSS Variables & HSL Color Models",
+      "duration": 1858
+    },
+    {
+      "id": "sHcQjypNfmw",
+      "title": "Debouncing in JavaScript | Frontend Interview Question | Hindi | Different Input Events | Decorator",
+      "duration": 3215
+    }
+  ]
+}

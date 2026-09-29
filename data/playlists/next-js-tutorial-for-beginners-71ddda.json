@@ -1,0 +1,405 @@
+{
+  "courseId": "next-js-tutorial-for-beginners-71ddda",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:16.400Z",
+  "title": "Next.js Tutorial for Beginners",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "9P8mASSREYM",
+      "title": "Next.js Tutorial - 1 - Introduction",
+      "duration": 406
+    },
+    {
+      "id": "RY6B7JSBRRg",
+      "title": "Next.js Tutorial - 2 - Hello World",
+      "duration": 209
+    },
+    {
+      "id": "e-3UPyuOCq0",
+      "title": "Next.js Tutorial - 3 - Project Structure",
+      "duration": 642
+    },
+    {
+      "id": "fUG8h5XopnU",
+      "title": "Next.js Tutorial - 4 - Routing Section Intro",
+      "duration": 154
+    },
+    {
+      "id": "hvYKrqnY8LM",
+      "title": "Next.js Tutorial - 5 - Routing with Pages",
+      "duration": 361
+    },
+    {
+      "id": "f-6GAntaum4",
+      "title": "Next.js Tutorial - 6 - Nested Routes",
+      "duration": 318
+    },
+    {
+      "id": "Ql5kyJaYbls",
+      "title": "Next.js Tutorial - 7 - Dynamic Routes",
+      "duration": 621
+    },
+    {
+      "id": "nfAxNTmme64",
+      "title": "Next.js Tutorial - 8 - Nested Dynamic Routes",
+      "duration": 308
+    },
+    {
+      "id": "ZHn726VDoIY",
+      "title": "Next.js Tutorial - 9 - Catch All Routes",
+      "duration": 676
+    },
+    {
+      "id": "sigcnKAPddM",
+      "title": "Next.js Tutorial - 10 - Link Component Navigation",
+      "duration": 543
+    },
+    {
+      "id": "8jhLvnm7fmE",
+      "title": "Next.js Tutorial - 11 - Navigating Programmatically",
+      "duration": 245
+    },
+    {
+      "id": "vpSDQawRpEk",
+      "title": "Next.js Tutorial - 12 - Custom 404 Page",
+      "duration": 157
+    },
+    {
+      "id": "TaDGyvh2Ud0",
+      "title": "Next.js Tutorial - 13 - Routing Summary",
+      "duration": 117
+    },
+    {
+      "id": "GOdu5C8JzL8",
+      "title": "Next.js Tutorial - 14 - Pre-rendering and Data Fetching Section Intro",
+      "duration": 121
+    },
+    {
+      "id": "BeXbCgRxifs",
+      "title": "Next.js Tutorial - 15 - Pre-rendering",
+      "duration": 497
+    },
+    {
+      "id": "keP1PygtJ8c",
+      "title": "Next.js Tutorial - 16 - Static Generation",
+      "duration": 366
+    },
+    {
+      "id": "7UouvxZ6OaM",
+      "title": "Next.js Tutorial - 17 - Static Generation with getStaticProps",
+      "duration": 513
+    },
+    {
+      "id": "OYzrF4wuDKs",
+      "title": "Next.js Tutorial - 18 - Pages vs Components",
+      "duration": 241
+    },
+    {
+      "id": "yoEHWwEVvzY",
+      "title": "Next.js Tutorial - 19 - More on getStaticProps",
+      "duration": 224
+    },
+    {
+      "id": "AWbYJgsXHQ4",
+      "title": "Next.js Tutorial - 20 - Inspecting Static Generation Builds",
+      "duration": 646
+    },
+    {
+      "id": "QcUU89xKu70",
+      "title": "Next.js Tutorial - 21 - Running Static Generation Builds",
+      "duration": 589
+    },
+    {
+      "id": "1XEe-ng57GA",
+      "title": "Next.js Tutorial - 22 - SSG with Dynamic Parameters",
+      "duration": 766
+    },
+    {
+      "id": "TOIRxWQPgi0",
+      "title": "Next.js Tutorial - 23 - SSG with getStaticPaths",
+      "duration": 361
+    },
+    {
+      "id": "Isrmm6XhAdA",
+      "title": "Next.js Tutorial - 24 - Inspecting getStaticPaths Builds",
+      "duration": 384
+    },
+    {
+      "id": "NaYs1Gdg4AE",
+      "title": "Next.js Tutorial - 25 - Fetching Paths for getStaticPaths",
+      "duration": 377
+    },
+    {
+      "id": "ssVYQLGUHiI",
+      "title": "Next.js Tutorial - 26 - getStaticPaths fallback false",
+      "duration": 405
+    },
+    {
+      "id": "j4nAZaPQzwc",
+      "title": "Next.js Tutorial - 27 - getStaticPaths fallback true",
+      "duration": 1176
+    },
+    {
+      "id": "5-qPviQG0AQ",
+      "title": "Next.js Tutorial - 28 - getStaticPaths fallback blocking",
+      "duration": 388
+    },
+    {
+      "id": "d5unMDna5ng",
+      "title": "Next.js Tutorial - 29 - Incremental Static Regeneration",
+      "duration": 1077
+    },
+    {
+      "id": "FZTaD32ueE8",
+      "title": "Next.js Tutorial - 30 - Inspecting ISR Builds",
+      "duration": 1006
+    },
+    {
+      "id": "3eUZeuGXo_U",
+      "title": "Next.js Tutorial - 31 - Server-side Rendering",
+      "duration": 384
+    },
+    {
+      "id": "cPqG8-NoxM0",
+      "title": "Next.js Tutorial - 32 - SSR with getServerSideProps",
+      "duration": 579
+    },
+    {
+      "id": "UP8s2_8jxIQ",
+      "title": "Next.js Tutorial - 33 - SSR with Dynamic Parameters",
+      "duration": 407
+    },
+    {
+      "id": "DgLb5E6omTg",
+      "title": "Next.js Tutorial - 34 - getServerSideProps context",
+      "duration": 331
+    },
+    {
+      "id": "IbA9z9iMEJs",
+      "title": "Next.js Tutorial - 35 - Inspecting SSR Builds",
+      "duration": 217
+    },
+    {
+      "id": "k9b_tIhnkls",
+      "title": "Next.js Tutorial - 36 - Client-side Data Fetching",
+      "duration": 481
+    },
+    {
+      "id": "CQ5yHU1wYOo",
+      "title": "Next.js Tutorial - 37 - SWR for Client-side Data Fetching",
+      "duration": 347
+    },
+    {
+      "id": "yFvLLPBubfw",
+      "title": "Next.js Tutorial - 38 - Pre rendering + Client side Data Fetching",
+      "duration": 955
+    },
+    {
+      "id": "cBWzJlVWuR0",
+      "title": "Next.js Tutorial - 39 - Pre-rendering & Data Fetching Summary",
+      "duration": 220
+    },
+    {
+      "id": "5QDrrirlgmI",
+      "title": "Next.js Tutorial - 40 - API Routes Section Intro",
+      "duration": 77
+    },
+    {
+      "id": "aZkZUduCauo",
+      "title": "Next.js Tutorial - 41 - API Routes",
+      "duration": 481
+    },
+    {
+      "id": "GgzWFxIiwK4",
+      "title": "Next.js Tutorial - 42 - API GET Request",
+      "duration": 389
+    },
+    {
+      "id": "wqHGLjuXuHo",
+      "title": "Next.js Tutorial - 43 - API POST Request",
+      "duration": 451
+    },
+    {
+      "id": "tuxk_VbocBk",
+      "title": "Next.js Tutorial - 44 - Dynamic API Routes",
+      "duration": 301
+    },
+    {
+      "id": "je8jPi8KOY4",
+      "title": "Next.js Tutorial - 45 - API DELETE Request",
+      "duration": 323
+    },
+    {
+      "id": "Y8HJCfWRMTE",
+      "title": "Next.js Tutorial - 46 - Catch All API Routes",
+      "duration": 285
+    },
+    {
+      "id": "lmB340ym6SE",
+      "title": "Next.js Tutorial - 47 - APIs and Pre-rendering",
+      "duration": 409
+    },
+    {
+      "id": "_v_irwUqBUM",
+      "title": "Next.js Tutorial - 48 - API Routes Summary",
+      "duration": 109
+    },
+    {
+      "id": "V2SJpj2Jrx4",
+      "title": "Next.js Tutorial - 49 - Styling Section Intro",
+      "duration": 54
+    },
+    {
+      "id": "k0UTW9dwfbk",
+      "title": "Next.js Tutorial - 50 - Global Styles",
+      "duration": 288
+    },
+    {
+      "id": "NHr1HduGz08",
+      "title": "Next.js Tutorial - 51 - Component Level Styles",
+      "duration": 294
+    },
+    {
+      "id": "_14sPRuHcYw",
+      "title": "Next.js Tutorial - 52 - SASS Support",
+      "duration": 241
+    },
+    {
+      "id": "Tj22PRt2hiU",
+      "title": "Next.js Tutorial - 53 - CSS in JS",
+      "duration": 261
+    },
+    {
+      "id": "c0RnUgZSIDs",
+      "title": "Next.js Tutorial - 54 - Styling Summary",
+      "duration": 113
+    },
+    {
+      "id": "xm108xB0LT0",
+      "title": "Next.js Tutorial - 55 - Miscellaneous Section Intro",
+      "duration": 96
+    },
+    {
+      "id": "9g_3Zsoj17I",
+      "title": "Next.js Tutorial - 56 - App Layout",
+      "duration": 429
+    },
+    {
+      "id": "vWWd5ezQTic",
+      "title": "Next.js Tutorial - 57 - Head Component",
+      "duration": 380
+    },
+    {
+      "id": "ZRZngn_GdXY",
+      "title": "Next.js Tutorial - 58 - Image Component",
+      "duration": 606
+    },
+    {
+      "id": "V-ntY44UvhM",
+      "title": "Next.js Tutorial - 59 - Absolute Imports & Module Paths",
+      "duration": 224
+    },
+    {
+      "id": "T2Z6JVzz854",
+      "title": "Next.js Tutorial - 60 - Static HTML Export",
+      "duration": 406
+    },
+    {
+      "id": "2SLLvO9OK10",
+      "title": "Next.js Tutorial - 61 - TypeScript Support",
+      "duration": 287
+    },
+    {
+      "id": "BYvH0G02uuI",
+      "title": "Next.js Tutorial - 62 - Preview Mode",
+      "duration": 863
+    },
+    {
+      "id": "NNxkIOlMBDc",
+      "title": "Next.js Tutorial - 63 - Redirects",
+      "duration": 301
+    },
+    {
+      "id": "vS86x_e0zBk",
+      "title": "Next.js Tutorial - 64 - Environment Variables",
+      "duration": 351
+    },
+    {
+      "id": "BxdXXnL0xLw",
+      "title": "Next.js Tutorial - 65 - Miscellaneous Summary",
+      "duration": 130
+    },
+    {
+      "id": "d3cfV2Y0_p0",
+      "title": "Next.js Tutorial - 66 - Authentication Section Intro",
+      "duration": 75
+    },
+    {
+      "id": "Lfgdc8r8CRE",
+      "title": "Next.js Tutorial - 67 - Authentication in Next.js",
+      "duration": 186
+    },
+    {
+      "id": "Aiqzfmy9A_4",
+      "title": "Next.js Tutorial - 68 - NextAuth Setup",
+      "duration": 504
+    },
+    {
+      "id": "K08z-qiySZg",
+      "title": "Next.js Tutorial - 69 - Sign In and Sign Out",
+      "duration": 251
+    },
+    {
+      "id": "B5wyB5QiseU",
+      "title": "Next.js Tutorial - 70 - Client-side Authentication",
+      "duration": 336
+    },
+    {
+      "id": "vCpqiRabmDk",
+      "title": "Next.js Tutorial - 71 - Securing Pages Client-side",
+      "duration": 411
+    },
+    {
+      "id": "dhLo-GhOPRw",
+      "title": "Next.js Tutorial - 72 - NextAuth Provider",
+      "duration": 436
+    },
+    {
+      "id": "ae8lxOOhOtY",
+      "title": "Next.js Tutorial - 73 - Server-side Authentication",
+      "duration": 527
+    },
+    {
+      "id": "jbcChDTnPuU",
+      "title": "Next.js Tutorial - 74 - Securing Pages Server-side",
+      "duration": 192
+    },
+    {
+      "id": "ODL0Dlh7ZFE",
+      "title": "Next.js Tutorial - 75 - Securing API Routes",
+      "duration": 251
+    },
+    {
+      "id": "H4ptrFimcSM",
+      "title": "Next.js Tutorial - 76 - Connecting to a Database",
+      "duration": 666
+    },
+    {
+      "id": "TcnRPXPM68Q",
+      "title": "Next.js Tutorial - 77 - Callbacks",
+      "duration": 274
+    },
+    {
+      "id": "9wjWM0ZpDuU",
+      "title": "Next.js Tutorial - 78 - Authentication Summary",
+      "duration": 135
+    },
+    {
+      "id": "KmxAH7ng8Qw",
+      "title": "Next.js Tutorial - 79 - Deploying Next.js Apps to Vercel",
+      "duration": 259
+    }
+  ]
+}

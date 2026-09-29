@@ -1,0 +1,120 @@
+{
+  "courseId": "electron-js-tutorial-in-hindi-bbcab3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:15.580Z",
+  "title": "Electron js tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "4k9jkbq8gOM",
+      "title": "Electron js tutorial in Hindi # Introduction",
+      "duration": 237
+    },
+    {
+      "id": "rQQeVEM2mFc",
+      "title": "Electron js tutorial in Hindi  #2 installation and setup with  window",
+      "duration": 362
+    },
+    {
+      "id": "DJpleAMQygY",
+      "title": "Electron js tutorial in Hindi  #2.1 Setup and Hello world in Ubuntu",
+      "duration": 439
+    },
+    {
+      "id": "537K64plZhM",
+      "title": "Electron js tutorial in Hindi #3 Hello world Program",
+      "duration": 287
+    },
+    {
+      "id": "tu3TqW47Gck",
+      "title": "Electron js tutorial in hindi #4 Dev Tool",
+      "duration": 159
+    },
+    {
+      "id": "4mQr8g3EX6Y",
+      "title": "Electron js tutorial in Hindi #5 Main and Render Process",
+      "duration": 221
+    },
+    {
+      "id": "YZrSS3by3Ww",
+      "title": "Electron js tutorial in hindi #6 Browser Window Properties",
+      "duration": 429
+    },
+    {
+      "id": "7AefAdt-aAs",
+      "title": "Electron js tutorial in Hindi #7 Child Window",
+      "duration": 261
+    },
+    {
+      "id": "sEzW0oDM2T8",
+      "title": "Electron js tutorial in hindi #8 Auto reload Main Process",
+      "duration": 393
+    },
+    {
+      "id": "CZsYx53CQmI",
+      "title": "Electron js tutorial in Hindi # Important  App life cycle event",
+      "duration": 727
+    },
+    {
+      "id": "7JW3ZykXsAM",
+      "title": "Electron js tutorial in Hindi # Frame less App",
+      "duration": 259
+    },
+    {
+      "id": "DLl3BKbaXoo",
+      "title": "Electron js tutorial in Hindi # Window State",
+      "duration": 400
+    },
+    {
+      "id": "YYsK5PWER9M",
+      "title": "Electron js tutorial in Hindi # Web content",
+      "duration": 486
+    },
+    {
+      "id": "QCgC8qsu3bA",
+      "title": "Electron js tutorial in Hindi # Global Shortcut",
+      "duration": 366
+    },
+    {
+      "id": "cHqcYFtwFgw",
+      "title": "Electron js tutorial in Hindi # Dialog Box",
+      "duration": 402
+    },
+    {
+      "id": "ziYYVc3c5UA",
+      "title": "Electron js tutorial in Hindi # Tray",
+      "duration": 401
+    },
+    {
+      "id": "wYB-iI4ZBSo",
+      "title": "Electron js tutorial in Hindi # Menu and menuItem",
+      "duration": 631
+    },
+    {
+      "id": "zMsXbuy3eSs",
+      "title": "Electron js tutorial in Hindi # Webframe",
+      "duration": 345
+    },
+    {
+      "id": "4GcXgUg4xsA",
+      "title": "Electron js tutorial in Hindi # Context Menu",
+      "duration": 226
+    },
+    {
+      "id": "KPFnPGj7eAk",
+      "title": "Electron js tutorial in Hindi #6 IPC Render and Main render | share data",
+      "duration": 425
+    },
+    {
+      "id": "o5tPt12nE3s",
+      "title": "Electron js tutorial in Hindi #7 make build",
+      "duration": 381
+    },
+    {
+      "id": "2gmUR9TN--U",
+      "title": "Electron js tutorial in Hindi # Process | Shared API",
+      "duration": 447
+    }
+  ]
+}

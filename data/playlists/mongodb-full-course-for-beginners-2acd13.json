@@ -1,0 +1,245 @@
+{
+  "courseId": "mongodb-full-course-for-beginners-2acd13",
+  "sourceUrl": "https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:01.993Z",
+  "title": "MongoDB Tutorial in Hindi in 2020",
+  "channel": "Thapa Technical",
+  "videos": [
+    {
+      "id": "XeDM28c5kO4",
+      "title": "🔴 MongoDB Tutorial in Hindi #1: Introduction to MongoDB in Hindi in 2020",
+      "duration": 991
+    },
+    {
+      "id": "yiz5bmLVVhs",
+      "title": "🔴 #2: Complete Installation of MongoDB | Setting Environment Path of MongoDB in Hindi in 2020",
+      "duration": 979
+    },
+    {
+      "id": "0rUL454t9WI",
+      "title": "🔴 #3: Create Database, Collections, and Documents in MongoDB in Hindi in 2020",
+      "duration": 803
+    },
+    {
+      "id": "vQMjjZa102U",
+      "title": "#4: MongoDB CRUD Operation 👉 Create or Insert Documents into Collections in Hindi in 2020",
+      "duration": 636
+    },
+    {
+      "id": "eOJeZ4CllNI",
+      "title": "🔴 #5: MongoDB CRUD Operation 👉 Read or Queries the Documents into Collections in Hindi in 2020",
+      "duration": 1119
+    },
+    {
+      "id": "9MiuZHPgP0E",
+      "title": "🔴 #6: MongoDB CRUD Operation 👉 How to Update the Documents into Collections in Hindi in 2020",
+      "duration": 678
+    },
+    {
+      "id": "WG3f0WiVizY",
+      "title": "🔴 #7: MongoDB CRUD 👉 Delete the Documents into Collections | DeleteMany vs Remove | in Hindi in 2020",
+      "duration": 477
+    },
+    {
+      "id": "88346ndtMOo",
+      "title": "😍 #8: Install MongoDB GUI Compass in Hindi in 2020",
+      "duration": 499
+    },
+    {
+      "id": "sER4t-w9C-w",
+      "title": "#9: MongoDB CRUD Operations in 1MINUTE Only😲 using MongoDB Compass in Hindi",
+      "duration": 362
+    },
+    {
+      "id": "3UT9O0BU_38",
+      "title": "🔴 #1: Introduction to Mongoose | Connect NodeJS, Express to MongoDB using Mongoose in Hindi in 2020",
+      "duration": 1153
+    },
+    {
+      "id": "UeE0o2_WQIc",
+      "title": "#3: Create and Insert the Document using Express in MongoDB using  Mongoose in Hindi in 2020",
+      "duration": 813
+    },
+    {
+      "id": "VNMSkyLudVg",
+      "title": "🔴 #2: Mongoose Schema and Models Explained | Create Collections using Mongoose in Hindi in 2020",
+      "duration": 809
+    },
+    {
+      "id": "361D7y0lSoM",
+      "title": "#4: How to Insert Multiple Documents using One Line in Mongoose in Hindi in 2020",
+      "duration": 476
+    },
+    {
+      "id": "cLkf_ypQOTE",
+      "title": "#5: How to Read or Querying the Documents using Mongoose in Express App in Hindi in 2020",
+      "duration": 498
+    },
+    {
+      "id": "mmhaxXtj1uk",
+      "title": "🔴 #15: MongoDB Comparison Query Operators using Mongoose and Node(Express JS) in Hindi in 2020",
+      "duration": 760
+    },
+    {
+      "id": "YTm0ZYCkO48",
+      "title": "🔴 #16: MongoDB Logical Query Operators using Mongoose and Node(Express JS) in Hindi in 2020",
+      "duration": 520
+    },
+    {
+      "id": "jnzqh6jz-tM",
+      "title": "🔴 #17: MongoDB Sorting and Count Query Methods using Mongoose and Node(Express JS) in Hindi in 2020",
+      "duration": 537
+    },
+    {
+      "id": "aq37bRZjII8",
+      "title": "🔴 #18: MongoDB Update the Documents using Mongoose in Express App in Hindi in 2020",
+      "duration": 1049
+    },
+    {
+      "id": "8Wnsej93ACE",
+      "title": "🔴 #19: MongoDB Delete the Documents using Mongoose in Express App in Hindi in 2020",
+      "duration": 629
+    },
+    {
+      "id": "SorjuKKAMmI",
+      "title": "🔴 #20: Mongoose Built-In Validation using MongoDB in (NodeJS) Express App in Hindi in 2020",
+      "duration": 1127
+    },
+    {
+      "id": "1t1WO0zCymE",
+      "title": "🔴 #21: Create Your Own Custom Validation using MongoDB in (NodeJS) Express App in Hindi in 2020",
+      "duration": 801
+    },
+    {
+      "id": "hgZciHNRibw",
+      "title": "🔴 #22: Using NPM Validator Package for Validation using MongoDB in (NodeJS) Express App in Hindi",
+      "duration": 775
+    },
+    {
+      "id": "KglJP8QMwmk",
+      "title": "😍 REST API POSTMAN Tutorial in One Video in Hindi in 2020",
+      "duration": 920
+    },
+    {
+      "id": "ALrOcDPimWE",
+      "title": "🔴 What is REST API in Hindi? Introduction To RESTFul API Tutorial with Live Examples in Hindi 2020",
+      "duration": 1544
+    },
+    {
+      "id": "1MTBuP1nfLg",
+      "title": "Create Your Own RESTFul API in Hindi ✌ Handling POST Request in REST API using NodeJS & MongoDB 2020",
+      "duration": 3579
+    },
+    {
+      "id": "OOVRZzg2fgo",
+      "title": "Challenge 1: Build Your Own REST API using Async-Await with Nodejs Express and MongoDB in Hindi ✌",
+      "duration": 701
+    },
+    {
+      "id": "ZU_WNVpmM5Y",
+      "title": "#3: Build RESTFul API ✌ Handling Get Request in REST API using NodeJS & MongoDB in Hindi 2020",
+      "duration": 1529
+    },
+    {
+      "id": "AYyihiBevQ8",
+      "title": "#5: Build RESTFul API ✌ Handling DELETE Request in REST API using NodeJS & MongoDB in Hindi 2020",
+      "duration": 672
+    },
+    {
+      "id": "sY1J76lj05M",
+      "title": "#4: Build RESTFul API ✌ Handling PUT❓ PATCH Request in REST API using NodeJS & MongoDB in Hindi 2020",
+      "duration": 935
+    },
+    {
+      "id": "URUwGA75QaE",
+      "title": "🔴 #6: Adding Express Router in RESTful API in Hindi in 2020",
+      "duration": 858
+    },
+    {
+      "id": "f4oPDjYMdF4",
+      "title": "🔴Build Complete RESTful API with NodeJS, Express, MongoDB, Mongoose & Postman in One Video Hindi",
+      "duration": 3503
+    },
+    {
+      "id": "XZiFBlfluZk",
+      "title": "🔴 Complete Registration Form using HTML, CSS, Node JS, Express, and MongoDB in Hindi in 2022",
+      "duration": 4138
+    },
+    {
+      "id": "gX5vsKUO7QE",
+      "title": "🔴 Signin Form || Login Form using HTML, CSS, Node JS, Express, & MongoDB in Hindi in 2020 #2",
+      "duration": 1333
+    },
+    {
+      "id": "8imz7zRHkSM",
+      "title": "🔴 Encryption vs Hashing ||  Secure Password using BcryptJS in Nodejs and MongoDB in Hindi in 2020",
+      "duration": 1135
+    },
+    {
+      "id": "ggQhhE22N14",
+      "title": "🔴 Secure Registration System Password with BcryptJS || Middleware in NodeJS & MongoDB in Hindi 2020",
+      "duration": 1233
+    },
+    {
+      "id": "DdsLXh-z_uc",
+      "title": "🔴 Complete Login Form with Validation and BcryptJS using NodeJS & MongoDB in Hindi in 2020",
+      "duration": 934
+    },
+    {
+      "id": "OV8nPN4ym24",
+      "title": "🔴  Node JS Authentication & Cookies | JSONWebToken (JWT) with Nodejs & MongoDB in Hindi in 2020",
+      "duration": 1420
+    },
+    {
+      "id": "XeXGH5Y1YFo",
+      "title": "🔴 Registration Form Signing Up User with JWT OAuth Token using NodeJS & MongoDB in Hindi in 2020",
+      "duration": 1671
+    },
+    {
+      "id": "AkL3-GHyuho",
+      "title": "🔴 Login Form Signing In User with JWT OAuth Token using NodeJS & MongoDB in Hindi in 2020",
+      "duration": 517
+    },
+    {
+      "id": "zoqW6qSjSfI",
+      "title": "Manage Secrets & Configs using .DOTENV in NodeJS and MongoDB |  Add Securely in GITHUB in Hindi",
+      "duration": 1099
+    },
+    {
+      "id": "VBBJ-1QLZwY",
+      "title": "🔴 Secure JWT Authentication | Store JWT Tokens in HTTPOnly Cookie using NodeJS & MongoDB in Hindi",
+      "duration": 1009
+    },
+    {
+      "id": "HYAInM89WWY",
+      "title": "🔴NodeJS MongoDB Challenge #1👉 Sending JWT Tokens with Cookie using NodeJS & MongoDB in Hindi in 2020",
+      "duration": 403
+    },
+    {
+      "id": "0g1NQiln2XE",
+      "title": "🔴 How to Get Cookie Value (JWT Token) using Cookie-Parser in Node, ExpressJS & MongoDB in Hindi 2020",
+      "duration": 889
+    },
+    {
+      "id": "jJVwNdeS4Ms",
+      "title": "🔴 Complete User Authentication & Authorization with JWT in NodeJS, Express & MongoDB in Hindi 2020",
+      "duration": 1319
+    },
+    {
+      "id": "Z0MnltqC8T8",
+      "title": "🔴How to Logout User & Delete Cookie (JWT Token) in Nodejs & MongoDB App in Hindi in 2020",
+      "duration": 1418
+    },
+    {
+      "id": "whHpTvtMcss",
+      "title": "😍 Sign Out User from all Devices Like Netflix using One Line of Code with Nodejs & MongoDB in 2020",
+      "duration": 366
+    },
+    {
+      "id": "aHEYzt8stHg",
+      "title": "🔴Complete Responsive Dynamic Website using HTML, B5, NodeJS, ExpressJS, MongoDB & Mongoose in Hindi",
+      "duration": 6209
+    }
+  ]
+}

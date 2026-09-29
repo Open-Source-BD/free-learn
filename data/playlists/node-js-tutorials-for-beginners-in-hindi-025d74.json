@@ -1,0 +1,455 @@
+{
+  "courseId": "node-js-tutorials-for-beginners-in-hindi-025d74",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:18.537Z",
+  "title": "Node.js Tutorials for Beginners in Hindi",
+  "channel": "Tutorials Website",
+  "videos": [
+    {
+      "id": "Qwow9xWCHc4",
+      "title": "Node.js Tutorials for beginners in hindi | Basic Introduction | Part-1",
+      "duration": 824
+    },
+    {
+      "id": "OrE3JtL0gak",
+      "title": "Node.js Tutorials for beginners in hindi | Setup Environment to run node js code | Part-2",
+      "duration": 999
+    },
+    {
+      "id": "zPUsoxvMwac",
+      "title": "Node.js Tutorials for beginners in hindi | Object, Anonymous and Arrow Function | Part-3",
+      "duration": 848
+    },
+    {
+      "id": "dCC_SBoewVg",
+      "title": "Node.js Tutorials for beginners in hindi | Global Objects in node js| Part-4",
+      "duration": 781
+    },
+    {
+      "id": "vR-svD-VxDI",
+      "title": "Node.js Tutorials for beginners in hindi | What is ECMAScript 2015 or ES6| Part-5",
+      "duration": 1224
+    },
+    {
+      "id": "nLvdEe2uSq4",
+      "title": "Node.js Tutorials for beginners in hindi | Prototype | Part-6",
+      "duration": 738
+    },
+    {
+      "id": "uyIWCAnfuzM",
+      "title": "Node.js Tutorials for beginners in hindi | Module in node.js | Part-7",
+      "duration": 920
+    },
+    {
+      "id": "dh8N7PRmoc8",
+      "title": "Node.js Tutorials for beginners in hindi | node.js http module | Part-8",
+      "duration": 916
+    },
+    {
+      "id": "G26q9_PE60Y",
+      "title": "Node.js Tutorials for beginners in hindi | Nodemon Installation | Part-9",
+      "duration": 747
+    },
+    {
+      "id": "XzxU2AG3exY",
+      "title": "Node.js Tutorials for beginners in hindi | File System Module in node.js | Part-10",
+      "duration": 935
+    },
+    {
+      "id": "mfl9Q9R0Q9U",
+      "title": "Node.js Tutorials for beginners in hindi | Sync and Async function in file system | Part-11",
+      "duration": 736
+    },
+    {
+      "id": "xlkjEOfy-WQ",
+      "title": "Node.js Tutorials for beginners in hindi | Create and Trigger Custom Event in Node.js | Part-12",
+      "duration": 836
+    },
+    {
+      "id": "TX_JhPu6qcI",
+      "title": "Node.js Tutorials for beginners in hindi | Create and Trigger Custom Event-2 in Node.js | Part-13",
+      "duration": 427
+    },
+    {
+      "id": "g1aE9u6sXWk",
+      "title": "Node.js Tutorials for beginners in hindi | What is express js? | How to install express?  | Part-14",
+      "duration": 1103
+    },
+    {
+      "id": "rNcKArJzsWo",
+      "title": "Node.js Tutorials for beginners in hindi | Express Template Engine Basic Introduction  | Part-15",
+      "duration": 434
+    },
+    {
+      "id": "RC2M3okYmsU",
+      "title": "Node.js Tutorials for beginners in hindi | Express Application Generator  | Part-16",
+      "duration": 1035
+    },
+    {
+      "id": "OI3TuTPtIrA",
+      "title": "Node.js Tutorials for beginners in hindi | Basic Routing in express and node.js  | Part-17",
+      "duration": 438
+    },
+    {
+      "id": "a26XARTbUkg",
+      "title": "Node.js Tutorials for beginners in hindi | How to use Static Files in Express  | Part-18",
+      "duration": 976
+    },
+    {
+      "id": "XqswNrL-StI",
+      "title": "Node.js Tutorials for beginners in hindi | Create Route with Parameters using Express js | Part-19",
+      "duration": 1110
+    },
+    {
+      "id": "0rWdVUTBnHY",
+      "title": "Node.js Tutorials for beginners in hindi | Use Route Parameter with Slash Character | Part-20",
+      "duration": 858
+    },
+    {
+      "id": "_km_9k8tCpY",
+      "title": "Node.js Tutorials for beginners in hindi | Write Custom Middleware and use in nodejs | Part-21",
+      "duration": 1351
+    },
+    {
+      "id": "htwTSYo0lW0",
+      "title": "Node.js Tutorials for beginners in hindi | Use of Different Template Engine  in node.js |  Part-22",
+      "duration": 969
+    },
+    {
+      "id": "1lVZi1GQKvI",
+      "title": "How to handle get and parse post request in express.js | body parsing middleware |  Part-23",
+      "duration": 1099
+    },
+    {
+      "id": "oiuzVGCCWGs",
+      "title": "Form validation using express validator in express.js | use of express-validator package |  Part-24",
+      "duration": 2253
+    },
+    {
+      "id": "tvDfSQs1QZE",
+      "title": "Mongodb tutorials for beginners in hindi | mongoose Introduction | How to use mongoose with node.js",
+      "duration": 1300
+    },
+    {
+      "id": "RPyW_AQj6go",
+      "title": "Mongodb Tutorials for beginners in Hindi | How to install mongodb local in MAC OS X",
+      "duration": 1436
+    },
+    {
+      "id": "n92NilCHMh4",
+      "title": "Mongodb Tutorials for beginners in Hindi | CRUD Operation in Mongodb using Shell Command",
+      "duration": 1765
+    },
+    {
+      "id": "b48fr8Pnqdw",
+      "title": "Mongodb Tutorials for beginners in Hindi | Aggregation functions on documents in MongoDB collections",
+      "duration": 1321
+    },
+    {
+      "id": "MPrL9zMWoNg",
+      "title": "Mongodb Tutorials for beginners in Hindi | Projection (project) and Lookup in MongoDB collections",
+      "duration": 1201
+    },
+    {
+      "id": "Yu1khX0d6VU",
+      "title": "Mongodb Tutorials for beginners in Hindi | sort, skip and  limit records in MongoDB collections",
+      "duration": 818
+    },
+    {
+      "id": "ZnjUOhdowC0",
+      "title": "Mongodb Tutorials for beginners in Hindi | create indexes in MongoDB collections",
+      "duration": 422
+    },
+    {
+      "id": "a-Yh5O0WTrM",
+      "title": "Mongodb Tutorials for beginners in Hindi | Data Models & Schema Validation in MongoDB collections",
+      "duration": 989
+    },
+    {
+      "id": "HtOd547XZYc",
+      "title": "Mongodb Tutorials for beginners in Hindi |  Create & Restore MongoDB Database Backup",
+      "duration": 449
+    },
+    {
+      "id": "Bjtbz8YZ9Is",
+      "title": "Mongodb Tutorials for beginners in Hindi |  Mongoose Insert Document Tutorial in node js",
+      "duration": 947
+    },
+    {
+      "id": "yV8ZnEQv3Hs",
+      "title": "Mongodb Tutorials for beginners in Hindi |  Mongodb CURD operations using express js and mongoose js",
+      "duration": 1308
+    },
+    {
+      "id": "9c4Z2jW-TUo",
+      "title": "Mongodb Tutorials for beginners in Hindi |  How to connect MLab Database with Mongodb Compass",
+      "duration": 458
+    },
+    {
+      "id": "wUP5kjmzgrQ",
+      "title": "How to connect to MongoDB Atlas using Mongoose and NodeJS | MongoDB Atlas",
+      "duration": 696
+    },
+    {
+      "id": "71K_OfpB5rY",
+      "title": "Node js Tutorials for beginners in Hindi |  Display Database Records using EJS View Engine",
+      "duration": 1638
+    },
+    {
+      "id": "NBOzO9bMEhQ",
+      "title": "Node js Tutorials for beginners in Hindi |  Insert Records into Mongodb Database Using HTML Form",
+      "duration": 1225
+    },
+    {
+      "id": "WrxeY7uFFKo",
+      "title": "Node js Tutorials for beginners in Hindi |  Filter Records from Database Using HTML Filter Form",
+      "duration": 1394
+    },
+    {
+      "id": "LZjcowGz3GA",
+      "title": "Node js Tutorials for beginners in Hindi | Update & Delete Record using express js and Mongoose js",
+      "duration": 1722
+    },
+    {
+      "id": "DgY7eDkKXd0",
+      "title": "Display success alert message after CURD operation using express js and Mongoose js",
+      "duration": 631
+    },
+    {
+      "id": "MW0HQS1c6-A",
+      "title": "Node js tutorials for beginners in hindi | Upload Image or File using Express js and Multer",
+      "duration": 1227
+    },
+    {
+      "id": "5BaRCInKqkg",
+      "title": "Save and Display Uploaded Image or File using Express js, Mongoose and Multer",
+      "duration": 869
+    },
+    {
+      "id": "KCDwmO-RXis",
+      "title": "Stateless Authentication With JSON Web Tokens, Node-localstorage and Express",
+      "duration": 1580
+    },
+    {
+      "id": "Zzs2CzovhEI",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Project Introduction",
+      "duration": 451
+    },
+    {
+      "id": "zXB_1MAOpoc",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Project Part-2",
+      "duration": 2556
+    },
+    {
+      "id": "Qd_9d9bg-lQ",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-3",
+      "duration": 2025
+    },
+    {
+      "id": "QBeOOZ2-_js",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-4",
+      "duration": 2216
+    },
+    {
+      "id": "TY4JfLkXs-o",
+      "title": "Callback vs Promise | Difference B/W Callback and Promise in node js",
+      "duration": 1095
+    },
+    {
+      "id": "YZAHCaBpifA",
+      "title": "Callback vs Callback Hell | Handling callbacks hell using Promises",
+      "duration": 1386
+    },
+    {
+      "id": "NkOS6QuO0Fw",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-5",
+      "duration": 570
+    },
+    {
+      "id": "xsSMeokjEYI",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-6",
+      "duration": 2504
+    },
+    {
+      "id": "4iWZ8UEvuyY",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-7",
+      "duration": 1386
+    },
+    {
+      "id": "r9SefJC504s",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-8",
+      "duration": 1042
+    },
+    {
+      "id": "0nmPrR9MXng",
+      "title": "How to change express js or node.js default port 3000 with custom port like: 4000 ,89 etc",
+      "duration": 301
+    },
+    {
+      "id": "yXNzLXX1SDM",
+      "title": "Mini Project for Beginners using Node js, Express js and Mongoose in Hindi | Mini Project Part-9",
+      "duration": 2198
+    },
+    {
+      "id": "_y4YVw7hTHc",
+      "title": "How to create and include a common Header or Footer in EJS engine in Hindi | Mini Project Part-10",
+      "duration": 794
+    },
+    {
+      "id": "HKiYJX3BxMc",
+      "title": "Mini Project for Beginners using Express and Mongoose in Hindi | Pagination | Mini Project Part-11",
+      "duration": 1839
+    },
+    {
+      "id": "hXjy5dWJTNc",
+      "title": "Mini Project for Beginners using Express and Mongoose in Hindi | Pagination | Mini Project Part-12",
+      "duration": 1559
+    },
+    {
+      "id": "XPc6kx-2mek",
+      "title": "Mini Project for Beginners using Express and Mongoose in Hindi | Lookup | Mini Project Part-13",
+      "duration": 1045
+    },
+    {
+      "id": "1Y_Y4eUH5v8",
+      "title": "How to Deploy Node js Code on Live Server | Now Project is Live | FInally Mini Project Live",
+      "duration": 776
+    },
+    {
+      "id": "4tFG6yojSN8",
+      "title": "How to use mysql database with node js or express | CURD Operation using mysql and express",
+      "duration": 2703
+    },
+    {
+      "id": "LQFoCn2iwQM",
+      "title": "NPM Crash Course in Hindi",
+      "duration": 2432
+    },
+    {
+      "id": "7oiJj5FcyTQ",
+      "title": "Upload User Profile Image with User Details Using Express js, Mongoose and Multer",
+      "duration": 965
+    },
+    {
+      "id": "zyHkexA4ZBw",
+      "title": "Update User Profile Image with User Details Using Express js, Mongoose and Multer",
+      "duration": 622
+    },
+    {
+      "id": "HQRU8NZZNCQ",
+      "title": "Autocomplete search suggestion using Nodejs and Mongoose | Autocomplete search on textbox in nodejs",
+      "duration": 1848
+    },
+    {
+      "id": "CZu7b6_5mvA",
+      "title": "How to use Bootstrap 4 DataTable jQuery in Nodejs | DataTable using Bootstrap & JQuery",
+      "duration": 489
+    },
+    {
+      "id": "zhY3K70sOa8",
+      "title": "Edit Records with onclick event on entire row or column using Nodejs and MongoDB",
+      "duration": 467
+    },
+    {
+      "id": "1PBcSzTbbjw",
+      "title": "How to Deploy Node js Code on AWS Instance| deploying nodejs app on amazon aws server",
+      "duration": 1926
+    },
+    {
+      "id": "j6G_Y8QlgyE",
+      "title": "Session in Express and Node.js | Session Authentication in Express | Session with node.js in hindi",
+      "duration": 1263
+    },
+    {
+      "id": "9tn82yBrX90",
+      "title": "MERN STACK Tutorials for Beginners in Hindi | Basic Introduction",
+      "duration": 531
+    },
+    {
+      "id": "63wlDlX334w",
+      "title": "Build RESTful API using Node.js Tutorials in Hindi | Basic Introduction | Part-1",
+      "duration": 1171
+    },
+    {
+      "id": "48JVJLKW8fM",
+      "title": "Build RESTful API using Node.js Tutorials in Hindi | Create Node.Js API | Part-2",
+      "duration": 1334
+    },
+    {
+      "id": "pF-1dnCHnWY",
+      "title": "POST & GET Requests to Insert & Fetch Data in MongoDB | Build Node.js RESTful API  in Hindi | Part-3",
+      "duration": 827
+    },
+    {
+      "id": "gwmLXTXtV-4",
+      "title": "Handling PUT / PATCH Requests  | Build Node.js RESTful API  in Hindi | Part-4",
+      "duration": 1166
+    },
+    {
+      "id": "9S97oJNE9cA",
+      "title": "Handling DELETE  Requests  | Build Node.js RESTful API  in Hindi | Part-5",
+      "duration": 401
+    },
+    {
+      "id": "2VLUCp_UIfg",
+      "title": "Handling Error, Status & API Response Improvement  | Build Node.js RESTful API  in Hindi | Part-6",
+      "duration": 1012
+    },
+    {
+      "id": "2s3R-kyb8Ks",
+      "title": "MongoDB Validation | Rest API Error Handling | Build Node.js RESTful API  in Hindi | Part-7",
+      "duration": 1347
+    },
+    {
+      "id": "2U2JCaawzww",
+      "title": "Select & Populate Queries with Mongoose in node js | Build Node.js RESTful API  in Hindi | Part-8",
+      "duration": 1483
+    },
+    {
+      "id": "iwdu1S_qCGA",
+      "title": "File Upload with Node.js API Using Multer Middleware | Build Node.js RESTful API  in Hindi | Part-9",
+      "duration": 1480
+    },
+    {
+      "id": "ON0NnDs3W9o",
+      "title": "User Registration / Signup | Email Validation | bcrypt | Build Node.js REST API  in Hindi | Part-10",
+      "duration": 1677
+    },
+    {
+      "id": "h4xY96KpdL0",
+      "title": "User Login | JWT Signing | Json Web Token | bcrypt | Build Node.js REST API  in Hindi | Part-11",
+      "duration": 1487
+    },
+    {
+      "id": "J_flNk_GKdw",
+      "title": "JWT Token Verification | Route Protection | Build Node.js REST API  in Hindi | Part-12",
+      "duration": 1846
+    },
+    {
+      "id": "BhwNca4RUCw",
+      "title": "How to create Controllers in Node js | Build Node.js REST API  in Hindi | Part-13 #StayHome",
+      "duration": 1401
+    },
+    {
+      "id": "d-REDo3H_-A",
+      "title": "Expire JWT token on logout in Node js | #StayHome | Build Node.js REST API  in Hindi | Part-14",
+      "duration": 750
+    },
+    {
+      "id": "d9Zlad1o5uw",
+      "title": "How to use Environment Variables in Node js | #StayHome | Build Node.js REST API  in Hindi | Part-15",
+      "duration": 766
+    },
+    {
+      "id": "c2iElkoITgo",
+      "title": "How to Zip and Download files using NodeJS in Hindi | #stayHome | Learn node js zip multiple files",
+      "duration": 1122
+    },
+    {
+      "id": "bfMjtYmsOUI",
+      "title": "How to Send Emails with Node.js | Bonus Lecture | #20 MERN STACK Tutorials in Hindi",
+      "duration": 983
+    }
+  ]
+}

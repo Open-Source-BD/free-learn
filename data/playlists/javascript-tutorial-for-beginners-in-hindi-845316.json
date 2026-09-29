@@ -1,0 +1,545 @@
+{
+  "courseId": "javascript-tutorial-for-beginners-in-hindi-845316",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:54.428Z",
+  "title": "JavaScript Tutorials for beginners in Hindi 2022",
+  "channel": "Thapa Technical",
+  "videos": [
+    {
+      "id": "uGRZ2CzkFUo",
+      "title": "JavaScript Tutorials in Hindi Part 1: Introduction to JavaScript in Hindi",
+      "duration": 1093
+    },
+    {
+      "id": "1qrHzBF5pWI",
+      "title": "JavaScript Tutorials in Hindi Part 2: Variable in JavaScript & Identifiers in JavaScript in Hindi",
+      "duration": 644
+    },
+    {
+      "id": "8fozBN2OMqM",
+      "title": "JavaScript Tutorials in Hindi Part 3: Data Types in JavaScript in Hindi | Null vs Undefined in JS",
+      "duration": 821
+    },
+    {
+      "id": "q3S8zKnTY0Q",
+      "title": "JavaScript Tutorials in Hindi Part 4: Operators in JavaScript in Hindi | JavaScript operators",
+      "duration": 858
+    },
+    {
+      "id": "qMWkqrF1i7c",
+      "title": "JavaScript Tutorials in Hindi Part 5: if else statement in JavaScript | conditional statements in JS",
+      "duration": 653
+    },
+    {
+      "id": "CRhM5P4UrK8",
+      "title": "JavaScript Tutorials in Hindi Part 6: Assignment operator & Comparison operators in javascript Hindi",
+      "duration": 701
+    },
+    {
+      "id": "UW7oxAkrDOw",
+      "title": "JavaScript Tutorial in Hindi Part 7: Switch Statement in JavaScript in Hindi | Switch Case in JS",
+      "duration": 981
+    },
+    {
+      "id": "2SqIfjae5jo",
+      "title": "JavaScript Tutorials in Hindi Part 8: While Loop in JavaScript in Hindi | While Statement in JS",
+      "duration": 874
+    },
+    {
+      "id": "-eXWxlpvkZE",
+      "title": "JavaScript Tutorials in Hindi Part 9: do while loop in JavaScript in Hindi",
+      "duration": 502
+    },
+    {
+      "id": "use_eNupUQE",
+      "title": "JavaScript Tutorials in Hindi Part 10: For Loop in JavaScript in Hindi",
+      "duration": 546
+    },
+    {
+      "id": "IcfMtNyWpig",
+      "title": "JavaScript Tutorial in Hindi part 11: Function in JavaScript in Hindi | JavaScript Functions",
+      "duration": 712
+    },
+    {
+      "id": "zGlxOx_xSaY",
+      "title": "JavaScript Tutorial in Hindi #12: Array in JavaScript in Hindi",
+      "duration": 519
+    },
+    {
+      "id": "k7zUnd7RaEM",
+      "title": "JavaScript Tutorial in Hindi Part 13: Array Methods in JavaScript in Hindi",
+      "duration": 805
+    },
+    {
+      "id": "aGbC8-pFW9E",
+      "title": "JavaScript Tutorial in Hindi part 14: Prompt Box in JavaScript in Hindi | Prompt Dialogue box",
+      "duration": 453
+    },
+    {
+      "id": "HqcpsXoXUVg",
+      "title": "JavaScript Tutorial in Hindi Part 15: Confirm Box in JavaScript with yes no option in Hindi",
+      "duration": 542
+    },
+    {
+      "id": "WoC79m7y8n4",
+      "title": "JavaScript Tutorial in Hindi part 16: JavaScript String Object in Hindi | String Object in Hindi",
+      "duration": 697
+    },
+    {
+      "id": "Ev7WYdzqGQU",
+      "title": "JavaScript Tutorials in Hindi Part 17: String Methods in JavaScript in Hindi",
+      "duration": 806
+    },
+    {
+      "id": "gh7GRSkIkLM",
+      "title": "JavaScript in Hindi #18:  Document Object Model in JavaScript in Hindi | DOM in JavaScript in Hindi",
+      "duration": 1225
+    },
+    {
+      "id": "SXzFoSSMOgY",
+      "title": "JavaScript DOM Tutorial in Hindi Part 19: Accessing DOM Elements in JavaScript in Hindi",
+      "duration": 1097
+    },
+    {
+      "id": "JE8rNnct7V0",
+      "title": "JavaScript DOM Tutorial in Hindi Part 20: JavaScript Parent Child Sibling | DOM Traversal",
+      "duration": 1148
+    },
+    {
+      "id": "PPlivt8O0TM",
+      "title": "JavaScript DOM Tutorial in Hindi #21: JavaScript DOM CSS | Set Multiple CSS Styles in JavaScript",
+      "duration": 584
+    },
+    {
+      "id": "ecWxI0_UfAA",
+      "title": "JavaScript Tutorial in Hindi #22: JavaScript Window Location | Page Redirection in JavaScript",
+      "duration": 708
+    },
+    {
+      "id": "Io2ynTz7eqs",
+      "title": "JavaScript Tutorial in Hindi #23: Print the Page using JavaScript | Print Particular Page Div only",
+      "duration": 885
+    },
+    {
+      "id": "ocmJ-b0Hjb4",
+      "title": "JavaScript Tutorial in Hindi #24: Events in JavaScript in Hindi | JavaScript Events Tutorial",
+      "duration": 1042
+    },
+    {
+      "id": "aiyRUf_kJOA",
+      "title": "JavaScript Tutorial in Hindi #25 :  Date in JavaScript in Hindi | JavaScript Date Object in Hindi",
+      "duration": 1060
+    },
+    {
+      "id": "Kt7z256Qbpg",
+      "title": "JavaScript Tutorial in Hindi #26: Time in JavaScript in Hindi",
+      "duration": 570
+    },
+    {
+      "id": "0lk_E4dYemE",
+      "title": "JavaScript Tutorial in Hindi #27: Dynamic Clock in JavaScript | setInterval JavaScript in Hindi",
+      "duration": 775
+    },
+    {
+      "id": "7ZzZsx6qonk",
+      "title": "JavaScript Tutorial in Hindi #28: setTimeout Function in JavaScript in Hindi",
+      "duration": 419
+    },
+    {
+      "id": "aa40-y-f1dI",
+      "title": "JavaScript Tutorial in Hindi #29: Eval() Function in JavaScript Hindi | Create Calculator in JS",
+      "duration": 425
+    },
+    {
+      "id": "NUfvwYLe8GI",
+      "title": "JavaScript Tutorial in Hindi #30: Math Object in Javascript in Hindi | All JavaScript Math functions",
+      "duration": 812
+    },
+    {
+      "id": "nh9Bs4VboVo",
+      "title": "JavaScript Tutorial in Hindi #31: Generate Random Number in JavaScript for Games in Hindi",
+      "duration": 514
+    },
+    {
+      "id": "psi-V0ijedg",
+      "title": "Animate a div when we scroll to its position | Scroll Effect using JavaScript + Jquery",
+      "duration": 1381
+    },
+    {
+      "id": "_bXeU7EJKlk",
+      "title": "JavaScript Advanced Tutorial in Hindi #33: Scope Chain in JavaScript in Hindi | Execution Context",
+      "duration": 1267
+    },
+    {
+      "id": "Je_ovqO9-dE",
+      "title": "🔴 JavaScript To Master The Mouse Movement Tracking on Websites",
+      "duration": 1261
+    },
+    {
+      "id": "mXZz0SHl7dI",
+      "title": "JavaScript Tutorial in Hindi #34: JavaScript Objects Explained in Hindi",
+      "duration": 859
+    },
+    {
+      "id": "xmuG4sxUEG4",
+      "title": "Advance JavaScript in Hindi#36: Reverse a String in JavaScript in RealTime without Reverse Function",
+      "duration": 930
+    },
+    {
+      "id": "ns6kKTf33tU",
+      "title": "Love Calculator Using JavaScript HTML and CSS With Code to Find Love Percentage",
+      "duration": 1416
+    },
+    {
+      "id": "Z4TI8hTG5_U",
+      "title": "Love Calculator Using JavaScript with Validation [UPDATED]",
+      "duration": 876
+    },
+    {
+      "id": "OU1INv5o7sE",
+      "title": "[Basic Project] BMI Calculator in JavaScript HTML and CSS | Body Mass Index",
+      "duration": 1449
+    },
+    {
+      "id": "ts3Th8KadHc",
+      "title": "JavaScript Interview Questions 2019: Welcome Guest Problem Using Array in JavaScript",
+      "duration": 988
+    },
+    {
+      "id": "AMjjSKnvlwg",
+      "title": "[Asked In Google, Microsoft, HackerRank] FizzBuzz Program Solved in JavaScript",
+      "duration": 1254
+    },
+    {
+      "id": "Mjr4WJLGlfg",
+      "title": "Advanced JavaScript Tutorial in Hindi #5:  Reference Data Type vs Primitive Type in JavaScript",
+      "duration": 659
+    },
+    {
+      "id": "nAeBwsZptC8",
+      "title": "Advanced JavaScript Tutorial #6: Fat Arrow Function in JavaScript in Hindi | ES6 in Hindi",
+      "duration": 800
+    },
+    {
+      "id": "_tlncjn1JpU",
+      "title": "JavaScript Game in Hindi | Create a Ludo Game In JavaScript HTML and CSS in Hindi 2019",
+      "duration": 1924
+    },
+    {
+      "id": "HeU72UJzZy8",
+      "title": "Build Facebook using JavaScript Only [Functionality]",
+      "duration": 1412
+    },
+    {
+      "id": "VaBP6_pBOgM",
+      "title": "How JavaScript Works in Hindi | JavaScript Executed Parser & JS Engine in Hindi | 2020",
+      "duration": 656
+    },
+    {
+      "id": "_QXn0tW2gSY",
+      "title": "Execution Context and Execution Stack in JavaScript in Hindi | Advanced JavaScript in Hindi",
+      "duration": 942
+    },
+    {
+      "id": "HDCi0royjkM",
+      "title": "Call Stack & Execution Context Explained With Live Example | Advanced JavaScript in Hindi #3",
+      "duration": 888
+    },
+    {
+      "id": "mufERmTL5qs",
+      "title": "Creation Phase & Execution Phase & Hoisting in JavaScript in Hindi | Advanced JavaScript in Hindi #4",
+      "duration": 562
+    },
+    {
+      "id": "9DDS5aXx9y8",
+      "title": "Hoisting in JavaScript in Hindi | Function Hoisting in JavaScript in Hindi",
+      "duration": 957
+    },
+    {
+      "id": "R0cU7JsNPcY",
+      "title": "Variable Hoisting in JavaScript in Hindi 2019 | Advanced JavaScript in Hindi #6",
+      "duration": 817
+    },
+    {
+      "id": "yQD2tKhoW0k",
+      "title": "#1 Exercise on Advanced JavaScript Tutorial in Hindi",
+      "duration": 717
+    },
+    {
+      "id": "Qist9lND9PQ",
+      "title": "Scope Chain & Lexical Scoping in JavaScript in Hindi | Advanced JavaScript in Hindi #8",
+      "duration": 1072
+    },
+    {
+      "id": "OoPad8dbPb0",
+      "title": "JavaScript is Weird 😱 What is Use Strict Mode in Advanced JavaScript in Hindi ❤️",
+      "duration": 558
+    },
+    {
+      "id": "RwLVyats1qY",
+      "title": "This keyword in JavaScript in Hindi 🙏",
+      "duration": 975
+    },
+    {
+      "id": "V8IDLLHktYI",
+      "title": "#2 Exercise on Advanced JavaScript in Hindi | This Keyword Exercise in Advanced JavaScript",
+      "duration": 704
+    },
+    {
+      "id": "PzHs6cj4WPg",
+      "title": "Everything is an Object in JavaScript Lets's Prove It | Types & Object in Advanced JavaScript Hindi",
+      "duration": 1098
+    },
+    {
+      "id": "-YKgJ9GYY08",
+      "title": "Array is an Object Let's prove it | Array.isArray() Method in Advanced JavaScript in Hindi",
+      "duration": 426
+    },
+    {
+      "id": "HgTAD-6lt1k",
+      "title": "Pass by Value vs Pass by Reference in JavaScript in Hindi",
+      "duration": 709
+    },
+    {
+      "id": "32cFG-044HA",
+      "title": "Very Important Exercise #3 Advanced JavaScript in Hindi",
+      "duration": 587
+    },
+    {
+      "id": "LgkmgleybeI",
+      "title": "Project 1: Create Your Own Typing Speed Test Website using HTML CSS & JavaScript in Hindi",
+      "duration": 2488
+    },
+    {
+      "id": "YYYXOv7xHUg",
+      "title": "🔥 Dynamic Dependent Select Option Box using AJAX, JavaScript, and PHP in Hindi",
+      "duration": 1592
+    },
+    {
+      "id": "TScmRTAWi5Q",
+      "title": "Classes, Object & Inheritance in JavaScript OOP in Hindi",
+      "duration": 2163
+    },
+    {
+      "id": "tBmeblr67U0",
+      "title": "Synchronous vs Asynchronous Programming in JavaScript in Hindi",
+      "duration": 1085
+    },
+    {
+      "id": "fuTWE0Mupzk",
+      "title": "The Event Loop in JavaScript in Hindi 🔥",
+      "duration": 729
+    },
+    {
+      "id": "fr67u98nckk",
+      "title": "Callback Hell in JavaScript | Asynchronous JavaScript with Callbacks in Hindi",
+      "duration": 1075
+    },
+    {
+      "id": "xGBhmi4wwMI",
+      "title": "Master The Promises in JavaScript in Hindi in 2022",
+      "duration": 1752
+    },
+    {
+      "id": "hFLXE5-JCcs",
+      "title": "Async Await in JavaScript in Hindi | ES8 Async/Await Functions in Hindi",
+      "duration": 1106
+    },
+    {
+      "id": "A_ZwHY8xNNI",
+      "title": "Error Handling in JavaScript in Hindi | Try Catch in Promise Async/Await In JavaScript in Hindi",
+      "duration": 431
+    },
+    {
+      "id": "TojSXOuGUW4",
+      "title": "Fetch API in JavaScript | Load JSON File [API] with AJAX Call using Fetch API in JavaScript in Hindi",
+      "duration": 1044
+    },
+    {
+      "id": "MmmNGagRqcU",
+      "title": "Make Multiple AJAX Call using Function with Fetch API in Promises in JavaScript in Hindi",
+      "duration": 609
+    },
+    {
+      "id": "XaImobROZAY",
+      "title": "India Coronavirus App Tracker using Fetch API with Async-Await in JavaSript in Hindi",
+      "duration": 746
+    },
+    {
+      "id": "wwD8D8wzWRg",
+      "title": "Error Handling in Async Await Fetch CoronaVirus API in JavaScript in Hindi",
+      "duration": 366
+    },
+    {
+      "id": "lYkqD8sifmk",
+      "title": "Implement DRY(Do not repeat yourself) Concept using Function during Fetch API in JavaScript in Hindi",
+      "duration": 287
+    },
+    {
+      "id": "YgHP_h8EyT4",
+      "title": "Responsive E-Commerce Shopping Cart Page in JavaScript & Bootstrap 5 in Hindi in 2020",
+      "duration": 5177
+    },
+    {
+      "id": "Gku9iMSMbWg",
+      "title": "🔴 Complete JavaScript Form Validation in Hindi in 2020 | Registration, Login, Logout Forms",
+      "duration": 4845
+    },
+    {
+      "id": "50ojCnR_qkk",
+      "title": "🔴 JavaScript Music Player App V.2 with Progress Bar 🎵 in Hindi in 2020",
+      "duration": 3868
+    },
+    {
+      "id": "NB1zvl2RQzs",
+      "title": "🔴 Responsive Netflix Website Horizontal Slider Effects using API, HTML, CSS, & JavaScript in Hindi",
+      "duration": 1747
+    },
+    {
+      "id": "AGDrk3bfKjg",
+      "title": "🔴 Complete Git SSH Setup | Add MERN Project in GitHub Using SSH Key | Free Source Code #OpenSource 🙌",
+      "duration": 1749
+    },
+    {
+      "id": "9t45rQwJ37Y",
+      "title": "👉 3 Proper Ways to Share Codes of Node Projects (MERN, MEAN) to GitHub, Friends, and Clients 👬",
+      "duration": 1005
+    },
+    {
+      "id": "QyS2rIf3Bv0",
+      "title": "🔴 JS Interview #3: How to Search and Filter Out Falsy Elements (Values) in an Array of an Object",
+      "duration": 693
+    },
+    {
+      "id": "e7y7zvnVZfE",
+      "title": "🔴 5 Interview Questions on NULL vs UNDEFINED in JavaScript in Hindi in 2021",
+      "duration": 883
+    },
+    {
+      "id": "10UwL1udid4",
+      "title": "🔴JS #5: What is beN? What will be Output of Exponential 175e-2 in JavaScript 🤯 Bonus Included 😍",
+      "duration": 694
+    },
+    {
+      "id": "yMINfwer8FE",
+      "title": "🔴 JS Interview #6: Array Traversal | FOR vs FOR IN vs FOR OF Loops in JavaScript  Hindi",
+      "duration": 555
+    },
+    {
+      "id": "c94Aryh8I-U",
+      "title": "🔴 JS #7: Mistakes That Beginners Do & How to Correct It with \" USE STRICT \" IN JAVASCRIPT in Hindi",
+      "duration": 718
+    },
+    {
+      "id": "7vJy9asG-J8",
+      "title": "🔴 JS Interview #8: Find the Output of sum(5)(10)(7)(3)❓ Function CURRYING in JavaScript in Hindi",
+      "duration": 997
+    },
+    {
+      "id": "pytoOy6XGXI",
+      "title": "🔴 JS Interview #9: Is SemiColon Optional in JavaScript? Rules For ASI? What is ASI in JavaScript?",
+      "duration": 910
+    },
+    {
+      "id": "zsYBSsIkmKA",
+      "title": "🔴 JS #10: How to Disabled Copy Paste Functionality on Website with JavaScript in Hindi in 2021",
+      "duration": 628
+    },
+    {
+      "id": "ZTHuza0QwSo",
+      "title": "🔴 JS #11: How to Enable or Disable Right Click Functionality on Website using JavaScript in Hindi",
+      "duration": 530
+    },
+    {
+      "id": "YEPlZnBWdxo",
+      "title": "🔴 JS #12: Write a Program to Swap Two Numbers in JavaScript",
+      "duration": 386
+    },
+    {
+      "id": "uoAOqFTPMa0",
+      "title": "🔴 JS #13: Write a Program to Swap Two Numbers without using third Variable in JavaScript",
+      "duration": 302
+    },
+    {
+      "id": "fzyJKOl-OPs",
+      "title": "🔴 JS #14: Timing Events 👉 setTimeout, setInterval & clearInterval in JavaScript in Hindi",
+      "duration": 1066
+    },
+    {
+      "id": "b9zgRt4p9Zo",
+      "title": "🔴 JS #15: Array Reduce Method in JavaScript in Hindi with Examples",
+      "duration": 815
+    },
+    {
+      "id": "60eFraqGEv4",
+      "title": "🔴 JS #16: Find an Average of an Array using Reduce Method in JavaScript in Hindi",
+      "duration": 631
+    },
+    {
+      "id": "lZdaLjgmwOU",
+      "title": "🔴 JS #17: Difference Between Callback Function VS Higher-Order Functions in JavaScript in Hindi",
+      "duration": 687
+    },
+    {
+      "id": "cwWWpi0sHqE",
+      "title": "🔴 JS #18: Convert 2 Dimensional or 3D Array To 1 Dimensional Array in JavaScript",
+      "duration": 472
+    },
+    {
+      "id": "5kg2nqWK5ro",
+      "title": "🔴 JS #19: ECMAScript 2020 New Features 🤩 Convert 2D, 3D, 4D Array To 1D Array in JavaScript",
+      "duration": 541
+    },
+    {
+      "id": "m0-0kBMmsPk",
+      "title": "🔴 JS #20: What is Event Propagation? Event Bubbling in JavaScript in Hindi?",
+      "duration": 821
+    },
+    {
+      "id": "eQOLcKZIPzA",
+      "title": "🔴 JS #21: What is Event Capturing in JavaScript in Hindi",
+      "duration": 748
+    },
+    {
+      "id": "61GwjBj1GDM",
+      "title": "TRAILER :  JAVASCRIPT 15HRS+ COURSE 2021😍",
+      "duration": 497
+    },
+    {
+      "id": "KGkiIBTq0y0",
+      "title": "JavaScript Complete Tutorial in Hindi 🚀 Free Notes + Codes",
+      "duration": 58860
+    },
+    {
+      "id": "i_juCR65PBM",
+      "title": "🔴 Complete Array Search and Filter Section From JavaScript 16Hours+ Course in Hindi",
+      "duration": 2105
+    },
+    {
+      "id": "HxRhM5h--ro",
+      "title": "🔴 Create Netflix Profile Page using HTML, CSS & JavaScript in Hindi in 2021 | Version 1",
+      "duration": 3328
+    },
+    {
+      "id": "-vQ6hVrXNw8",
+      "title": "🔴 Create an Instagram Double Tab Like Functionality using JavaScript, HTML & CSS in Hindi",
+      "duration": 1394
+    },
+    {
+      "id": "rGhH70KUTuk",
+      "title": "🔴 Build A Quiz App With JavaScript in Hindi | Quiz Website using HTML CSS & JavaScript in Hindi 2021",
+      "duration": 3193
+    },
+    {
+      "id": "s7bwmM5AA5Q",
+      "title": "🔴 Infinite Scroll with JavaScript Like Facebook, Instagram in Hindi",
+      "duration": 2693
+    },
+    {
+      "id": "3b50hGpxeEE",
+      "title": "🔴 Build Temperature Converter Website in JavaScript in Hindi 2021",
+      "duration": 1650
+    }
+  ]
+}

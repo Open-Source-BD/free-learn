@@ -1,0 +1,75 @@
+{
+  "courseId": "godot-space-sidescroller-tutorial-series-83a203",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6bQeQE-ybqAzXZlZCiRKCtu6RbkXLgmh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:53.600Z",
+  "title": "Godot Space Sidescroller Tutorial Series",
+  "channel": "PlugWorld",
+  "videos": [
+    {
+      "id": "qZOOruWMRT8",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 1 - Adding the Player",
+      "duration": 1298
+    },
+    {
+      "id": "z4_3lKTmqqA",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 2 - Adding Ability to Shoot",
+      "duration": 1216
+    },
+    {
+      "id": "KDJyGSmacPY",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 3 - Adding Enemies",
+      "duration": 1117
+    },
+    {
+      "id": "CSUEue3zeCg",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 4 - Destroying Enemies and Optimization",
+      "duration": 1875
+    },
+    {
+      "id": "Cesd2JfoRYE",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 5 - Reloading and Destroying the Player",
+      "duration": 1472
+    },
+    {
+      "id": "5uCeBH5JnyY",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 6 - Organizing the Project",
+      "duration": 1143
+    },
+    {
+      "id": "H9sCn8dH2Ws",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 7 - Adding Health",
+      "duration": 1086
+    },
+    {
+      "id": "OJxoTM_cnfQ",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 8 - Adding Sounds",
+      "duration": 1263
+    },
+    {
+      "id": "3O7ea8AJYgk",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 9 - Scoring",
+      "duration": 1264
+    },
+    {
+      "id": "GsUe_DApy1E",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 10 - Parallax Backgrounds",
+      "duration": 978
+    },
+    {
+      "id": "G4kby-R-3GU",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 11 - Adding More Enemies",
+      "duration": 1191
+    },
+    {
+      "id": "WPY5ZikgWi8",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 12 - Title Screen",
+      "duration": 683
+    },
+    {
+      "id": "9PVFdIynXT8",
+      "title": "Godot 3 Beginners Tutorial - Space Sidescroller - Part 13 - Custom Theme",
+      "duration": 1330
+    }
+  ]
+}

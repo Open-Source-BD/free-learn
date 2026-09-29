@@ -1,0 +1,405 @@
+{
+  "courseId": "next-js-tutorials-for-beginners-in-hindi-75152c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:53.057Z",
+  "title": "Next.js Tutorials for Beginners in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "DZKOunP-WLQ",
+      "title": "Introduction to Next.js | NextJs Tutorial for Beginners #1",
+      "duration": 511
+    },
+    {
+      "id": "ne_h515wcv4",
+      "title": "Our first Next.js website | NextJs Tutorial for Beginners #2",
+      "duration": 1264
+    },
+    {
+      "id": "zSxopWQF4cg",
+      "title": "File Based Routing in Next.js | NextJs Tutorial for Beginners #3",
+      "duration": 969
+    },
+    {
+      "id": "5Dd6JHmyLEc",
+      "title": "JavaScript and React Refresher for Next.js | NextJs Tutorial for Beginners #4",
+      "duration": 592
+    },
+    {
+      "id": "9C5FS4bw4mM",
+      "title": "Project 1: Hunting Coder - A Coder's Blog | NextJs Tutorial for Beginners #5",
+      "duration": 619
+    },
+    {
+      "id": "0oRZFuVZV3E",
+      "title": "Head and Script Component in Next.js | NextJs Tutorial for Beginners #6",
+      "duration": 729
+    },
+    {
+      "id": "yvA5vQ6-B7w",
+      "title": "Image Component in Next.js | NextJs Tutorial for Beginners #7",
+      "duration": 1034
+    },
+    {
+      "id": "32KkgR2xSLw",
+      "title": "Creating Multiple Pages in Next.js | NextJs Tutorial for Beginners #8",
+      "duration": 701
+    },
+    {
+      "id": "_wpd1k3gN08",
+      "title": "Link component in Next.js -  Understanding next/link | NextJs Tutorial for Beginners #9",
+      "duration": 509
+    },
+    {
+      "id": "_fEf0J10gs4",
+      "title": "Component Level CSS in Next.js | NextJs Tutorial for Beginners #10",
+      "duration": 657
+    },
+    {
+      "id": "dT4OExlRasA",
+      "title": "Adding Global Styles in Next.js | NextJs Tutorial for Beginners #11",
+      "duration": 515
+    },
+    {
+      "id": "pwHf-3stDeE",
+      "title": "Styled jsx in Next.js | NextJs Tutorial for Beginners #12",
+      "duration": 585
+    },
+    {
+      "id": "eLhlh2RZKRk",
+      "title": "Basic Cleanup of Hunting Coder Blog | NextJs Tutorial for Beginners #13",
+      "duration": 899
+    },
+    {
+      "id": "40AkRpYSV04",
+      "title": "Displaying Navbar on all pages | NextJs Tutorial for Beginners #14",
+      "duration": 475
+    },
+    {
+      "id": "ccgK9ZCRU8w",
+      "title": "Creating Blog and Blogpost page | NextJs Tutorial for Beginners #15",
+      "duration": 774
+    },
+    {
+      "id": "XkFiZyYdJMo",
+      "title": "Adding blog jsons as data | NextJs Tutorial for Beginners #16",
+      "duration": 698
+    },
+    {
+      "id": "gCssfulsemc",
+      "title": "Introduction to API Routes in Next.js | NextJs Tutorial for Beginners #17",
+      "duration": 571
+    },
+    {
+      "id": "dDRDJfG2EAY",
+      "title": "Creating endpoints to get one/all blogposts | NextJs Tutorial for Beginners #18",
+      "duration": 881
+    },
+    {
+      "id": "T_aH6sRlj6A",
+      "title": "Using the API Endpoints | NextJs Tutorial for Beginners #19",
+      "duration": 1350
+    },
+    {
+      "id": "a0V9B9EsQY0",
+      "title": "Fetching BlogPost using /getblog Endpoint | NextJs Tutorial for Beginners #20",
+      "duration": 843
+    },
+    {
+      "id": "rabU9vZBoTg",
+      "title": "Prerendering Strategies in Next.js | NextJs Tutorial for Beginners #21",
+      "duration": 929
+    },
+    {
+      "id": "ZvGoW9p9at0",
+      "title": "Server Side Rendering - getServerSideProps() in Next.js | NextJs Tutorial for Beginners #22",
+      "duration": 797
+    },
+    {
+      "id": "ZvitCMlb9-0",
+      "title": "Static site generation, getStaticProps() & getStaticPaths | NextJs Tutorial for Beginners #23",
+      "duration": 1477
+    },
+    {
+      "id": "3nFlaIPs2PY",
+      "title": "Rendering HTML text using dangerouslySetInnerHTML in Next.js | NextJs Tutorial for Beginners #24",
+      "duration": 593
+    },
+    {
+      "id": "nPsrKMmRlCE",
+      "title": "Creating an API to save Contact Data | NextJs Tutorial for Beginners #25",
+      "duration": 1008
+    },
+    {
+      "id": "jp2lI31UUtw",
+      "title": "Designing the /contact FrontEnd Page | NextJs Tutorial for Beginners #26",
+      "duration": 1407
+    },
+    {
+      "id": "Rd8gCtJ5aLo",
+      "title": "Designing the About Page | NextJs Tutorial for Beginners #27",
+      "duration": 403
+    },
+    {
+      "id": "k_UvCSj8A4k",
+      "title": "Styling Fixes in our Hunting coder Blog | NextJs Tutorial for Beginners #28",
+      "duration": 1571
+    },
+    {
+      "id": "GRUmg3SujN4",
+      "title": "Adding Infinite Scroll to Hunting Coder | NextJs Tutorial for Beginners #29",
+      "duration": 1298
+    },
+    {
+      "id": "E2dlagIvE6g",
+      "title": "Adding Responsive Design to Hunting Coder | NextJs Tutorial for Beginners #30",
+      "duration": 903
+    },
+    {
+      "id": "uBt7_-RIJjM",
+      "title": "Deploying Hunting Coder | NextJs Tutorial for Beginners #31",
+      "duration": 1237
+    },
+    {
+      "id": "6cxxSgNF6-I",
+      "title": "Adding huntingcoder.com Domain and  Search Console | NextJs Tutorial for Beginners #32",
+      "duration": 437
+    },
+    {
+      "id": "NYXxqmUvRec",
+      "title": "Project 2: Codeswear.com - A Next.js powered E-Commerce Store | NextJs Tutorial for Beginners #33",
+      "duration": 403
+    },
+    {
+      "id": "A_iHEF82ULg",
+      "title": "Codeswear.com - Project Setup using Tailwind CSS | NextJs Tutorial for Beginners #34",
+      "duration": 548
+    },
+    {
+      "id": "kcwInHtJOkU",
+      "title": "Creating Pages for Codeswear.com | NextJs Tutorial for Beginners #35",
+      "duration": 486
+    },
+    {
+      "id": "Fpqz4VPXlN8",
+      "title": "Creating NavBar, Footer & HomePage for Codeswear.com | NextJs Tutorial for Beginners #36",
+      "duration": 1599
+    },
+    {
+      "id": "1sPWvaiSbkM",
+      "title": "Designing the Tshirts Page for Codeswear.com | NextJs Tutorial for Beginners #37",
+      "duration": 1337
+    },
+    {
+      "id": "LxmXE7-Lh7w",
+      "title": "Designing Mugs, Sticker & Hoodies page for Codeswear.com | NextJs Tutorial for Beginners #38",
+      "duration": 569
+    },
+    {
+      "id": "u9_ePWVESU0",
+      "title": "Designing the Cart Sidebar for Codeswear.com | NextJs Tutorial for Beginners #39",
+      "duration": 1913
+    },
+    {
+      "id": "ALF4Tzlm9YQ",
+      "title": "Designing Product Page for Codeswear.com | NextJs Tutorial for Beginners #40",
+      "duration": 670
+    },
+    {
+      "id": "SzExD4Sn-xM",
+      "title": "Adding Pincode Serviceability Check on Codeswear.com | NextJs Tutorial for Beginners #41",
+      "duration": 1431
+    },
+    {
+      "id": "sS-GyagLhJg",
+      "title": "Creating Cart State for Codeswear.com | NextJs Tutorial for Beginners #42",
+      "duration": 2497
+    },
+    {
+      "id": "4_FkvAoC_zw",
+      "title": "Improving Sidebar & Checkout Page for Codeswear.com | NextJs Tutorial for Beginners #43",
+      "duration": 2244
+    },
+    {
+      "id": "9EAALKzzaz0",
+      "title": "Creating Orders Page for Codeswear.com | NextJs Tutorial for Beginners #44",
+      "duration": 802
+    },
+    {
+      "id": "pc2F7ECVc14",
+      "title": "Creating Login & Signup Page Design for Codeswear.com | NextJs Tutorial for Beginners #45",
+      "duration": 880
+    },
+    {
+      "id": "Z6FzMFXHaq4",
+      "title": "Adding MongoDB Database to Codeswear.com | NextJs Tutorial for Beginners #46",
+      "duration": 827
+    },
+    {
+      "id": "2TdzZcVR_4g",
+      "title": "Creating APIs for Codeswear.com | NextJs Tutorial for Beginners #47",
+      "duration": 1571
+    },
+    {
+      "id": "bufV6bW96Bc",
+      "title": "Displaying Tshirts on Codeswear.com | NextJs Tutorial for Beginners #48",
+      "duration": 991
+    },
+    {
+      "id": "iLd7e2RcFFs",
+      "title": "Displaying Tshirt Variants on product page | NextJs Tutorial for Beginners #49",
+      "duration": 3165
+    },
+    {
+      "id": "H6lhnl-1GqY",
+      "title": "Replacing Dummy Text on Codeswear.com | NextJs Tutorial for Beginners #50",
+      "duration": 986
+    },
+    {
+      "id": "QHFlaFG8udo",
+      "title": "Making the \"Buy Now\" button for Codeswear.com | NextJs Tutorial for Beginners #51",
+      "duration": 769
+    },
+    {
+      "id": "fAgMyd05A60",
+      "title": "Adding React Toastify to Codeswear.com | NextJs Tutorial for Beginners #52",
+      "duration": 700
+    },
+    {
+      "id": "L_QiA3ka9HA",
+      "title": "Customizing Hoodies, Mugs & Stickers Page for Codeswear.com | NextJs Tutorial for Beginners #53",
+      "duration": 814
+    },
+    {
+      "id": "OHlwNYFryuw",
+      "title": "Creating Signup Page for Codeswear.com | NextJs Tutorial for Beginners #54",
+      "duration": 1297
+    },
+    {
+      "id": "DikbWjymyPE",
+      "title": "Creating Login Page for Codeswear.com | NextJs Tutorial for Beginners #55",
+      "duration": 1129
+    },
+    {
+      "id": "12C1nBvTxl4",
+      "title": "Adding Encryption to login and signup for Codeswear.com | NextJs Tutorial for Beginners #56",
+      "duration": 926
+    },
+    {
+      "id": "tJ5Yfw183pI",
+      "title": "Introduction to JWT | NextJs Tutorial for Beginners #57",
+      "duration": 666
+    },
+    {
+      "id": "aDvpxiHOd1E",
+      "title": "Adding Login and Logout buttons to Codeswear.com | NextJs Tutorial for Beginners #58",
+      "duration": 1782
+    },
+    {
+      "id": "nIjJBDvCbc8",
+      "title": "Adding React top loading bar to Codeswear.com | NextJs Tutorial for Beginners #59",
+      "duration": 802
+    },
+    {
+      "id": "YyNiq8s6LzU",
+      "title": "Creating Orders Page for Codeswear.com | NextJs Tutorial for Beginners #60",
+      "duration": 1069
+    },
+    {
+      "id": "j2p4OwS5JwU",
+      "title": "Adding Environment Variables to Codeswear.com | NextJs Tutorial for Beginners #61",
+      "duration": 812
+    },
+    {
+      "id": "7VwmgpcDs9Y",
+      "title": "Adding Payment Gateway to Codeswear.com | NextJs Tutorial for Beginners #62",
+      "duration": 2371
+    },
+    {
+      "id": "5VE82TqOaiM",
+      "title": "Initiating Order and Redirecting to Order Page | NextJs Tutorial for Beginners #63",
+      "duration": 3221
+    },
+    {
+      "id": "9irZtvl5yjg",
+      "title": "Creating Order and Orders Page for the user | NextJs Tutorial for Beginners #64",
+      "duration": 2294
+    },
+    {
+      "id": "PUqDmrzFv_0",
+      "title": "Pincode to city & state | NextJs Tutorial for Beginners #65",
+      "duration": 1906
+    },
+    {
+      "id": "5JHcQIV-Elo",
+      "title": "Out of stock check in CodesWear.com | NextJs Tutorial for Beginners #66",
+      "duration": 2667
+    },
+    {
+      "id": "2r45xXlv2cM",
+      "title": "Fixing Checkout Issues | NextJs Tutorial for Beginners #67",
+      "duration": 1205
+    },
+    {
+      "id": "yS07_L8Ze5M",
+      "title": "Showing Sidebar only for few pages | NextJs Tutorial for Beginners #68",
+      "duration": 1652
+    },
+    {
+      "id": "M3lEFTouYMM",
+      "title": "PayTM checksum Tampering check | NextJs Tutorial for Beginners #69",
+      "duration": 1726
+    },
+    {
+      "id": "uicIKWuuueE",
+      "title": "Displaying out of stock items | NextJs Tutorial for Beginners #70",
+      "duration": 811
+    },
+    {
+      "id": "aQRDHGCuzJs",
+      "title": "PinCodes json + avoiding non serviceable Locations | NextJs Tutorial for Beginners #71",
+      "duration": 1722
+    },
+    {
+      "id": "2M-ppGLItCE",
+      "title": "Creating MyAccount Section for CodesWear | NextJs Tutorial for Beginners #72",
+      "duration": 3995
+    },
+    {
+      "id": "RCdG2frnyxw",
+      "title": "Creating Forgot Password Page | NextJs Tutorial for Beginners #73",
+      "duration": 2754
+    },
+    {
+      "id": "G_9U6PPJNiE",
+      "title": "Deploying Codeswear.com to DigitalOcean | NextJs Tutorial for Beginners #74",
+      "duration": 1051
+    },
+    {
+      "id": "eV7j6B-IFoA",
+      "title": "Creating Dashboard for Codeswear.com | NextJs Tutorial for Beginners #75",
+      "duration": 1319
+    },
+    {
+      "id": "0pxed8jZtEQ",
+      "title": "Creating Pages for the Dashboard | NextJs Tutorial for Beginners #76",
+      "duration": 1114
+    },
+    {
+      "id": "1Jk4U1zKh2M",
+      "title": "Populating pages with pages from the template| NextJs Tutorial for Beginners #77",
+      "duration": 1142
+    },
+    {
+      "id": "NkGhs_n1PCg",
+      "title": "Creating a Form for Adding Product | NextJs Tutorial for Beginners #78",
+      "duration": 950
+    },
+    {
+      "id": "BN8Phb1O6xo",
+      "title": "Displaying All products in a Material UI Table | NextJs Tutorial for Beginners #79",
+      "duration": 954
+    }
+  ]
+}

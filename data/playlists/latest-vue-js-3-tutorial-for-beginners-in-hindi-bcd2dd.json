@@ -1,0 +1,120 @@
+{
+  "courseId": "latest-vue-js-3-tutorial-for-beginners-in-hindi-bcd2dd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:26.444Z",
+  "title": "latest vue js 3 tutorial for begineers in hindi",
+  "channel": "Wap Institute",
+  "videos": [
+    {
+      "id": "RJ_V4yxw-_g",
+      "title": "Ch-1 Vue js - what is vue js | how to install vue js cli | how to create vue js project using hindi",
+      "duration": 874
+    },
+    {
+      "id": "xoTENYEJpAU",
+      "title": "Ch-2 Vue js - what is component in vue js | how to install and setup bootstrap in vue js 3 hindi",
+      "duration": 861
+    },
+    {
+      "id": "hcHYdNywSwc",
+      "title": "Ch-3 Vue js - events and methods or functions in vue js | @click | @mouseover | @mouseout",
+      "duration": 497
+    },
+    {
+      "id": "0VpQRBTDvdc",
+      "title": "Ch-4 Vue js - directives in vue js | conditions or if else in vue js | show hide toggle in vue js",
+      "duration": 1097
+    },
+    {
+      "id": "vuvSvsVO0Ho",
+      "title": "Ch-5 Vue js - loop in vue js | v-for directive in vue js | loop error v-bind:key in vue js in hindi",
+      "duration": 789
+    },
+    {
+      "id": "3XtJR01GhYE",
+      "title": "Ch-6 Vue js - render a table using loop in vue js | delete row from table in vue js angular or react",
+      "duration": 877
+    },
+    {
+      "id": "dWJ3N2_QZpI",
+      "title": "Ch-7 Vue js - routing in vue js 3 | vue-router tutorial in hindi | routing not working in vue js",
+      "duration": 899
+    },
+    {
+      "id": "HxmoHl-hzFM",
+      "title": "Ch-8 Vue js - routing animation or transition in vue js 3 | vue-router transition or animation",
+      "duration": 501
+    },
+    {
+      "id": "tZXRGiXBpdI",
+      "title": "Ch-9 Vue js - form handling in vue js 3 | get form data on submit | get data from object proxy",
+      "duration": 840
+    },
+    {
+      "id": "qUTAz5JJ9xY",
+      "title": "Ch-10 Vue js - required form validation in vue js 3 in hindi",
+      "duration": 714
+    },
+    {
+      "id": "ZhVLHH7j3_Y",
+      "title": "Ch-11 Vue js - email | minLength | maxLength | mobile | select | textarea validation in vue js hindi",
+      "duration": 938
+    },
+    {
+      "id": "CcPwJQcsN1Y",
+      "title": "Ch-12 Vue js - radio | checkbox | submit button | form validation in vue js 3 in hindi",
+      "duration": 883
+    },
+    {
+      "id": "x1YXVDqOAc4",
+      "title": "Ch-13 Vue js - http or ajax request in vue js 3 | axios in vue js 3 | get request in vue js 3 hindi",
+      "duration": 639
+    },
+    {
+      "id": "DCoaXmxCKE8",
+      "title": "Ch-14 Vue js - async await in java script | try catch in java script | promise in javascript hindi",
+      "duration": 471
+    },
+    {
+      "id": "RYh7h5ITw8w",
+      "title": "Ch-15 Vue js - http post request in axios or vue js | show loader beforeSend in axios or vue js",
+      "duration": 1460
+    },
+    {
+      "id": "BeY5v5kHmms",
+      "title": "Ch-16 Vue js - http delete request in axios or vue js in hindi",
+      "duration": 660
+    },
+    {
+      "id": "jhFlJnSLus4",
+      "title": "Ch-17 Vue js - http put or patch request in axios or vue js | call multiple function on single event",
+      "duration": 1127
+    },
+    {
+      "id": "bWBN_fqokDc",
+      "title": "Ch-18 Vue js - formkit form, input, radio, checkbox, textarea, select, options in vue js 3 hindi",
+      "duration": 596
+    },
+    {
+      "id": "uov48wzFqRU",
+      "title": "Ch-19 Vue js - formkit form validation in vue js 3 | required | email | match regular expression",
+      "duration": 354
+    },
+    {
+      "id": "_EZMk6Z_8Ps",
+      "title": "Ch-20 Vue js - get form value or form data in formkit in vue js 3 | convert proxy in json object",
+      "duration": 241
+    },
+    {
+      "id": "2cC0DXgL_1c",
+      "title": "Ch-21 Vue js - ref and methods in composition api | composition api tutorial in vue js in hindi",
+      "duration": 535
+    },
+    {
+      "id": "6YpmbyE7VY0",
+      "title": "Ch-22 Vue js - generate random colors in composition api hindi | Math.random | Math.floor",
+      "duration": 643
+    }
+  ]
+}

@@ -1,0 +1,1140 @@
+{
+  "courseId": "dive-into-nodejs-f36852",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:05.211Z",
+  "title": "Dive Into NodeJS - NodeJS Bangla Course",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "PNDZQ7NojEg",
+      "title": "Important - Twinkle Cats Prime Bangla Course Platform | Clear Your Confusion | Twinkle Cats",
+      "duration": 723
+    },
+    {
+      "id": "zA-X0fgzplc",
+      "title": "1.1 Introduction and What We Are Going to Learn and Build | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 961
+    },
+    {
+      "id": "7ddSu7QGEt0",
+      "title": "1.2 What is NodeJS and Why We Use It | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 377
+    },
+    {
+      "id": "XJT0m2ipmrA",
+      "title": "1.3 What is The Requirements of This Course | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 122
+    },
+    {
+      "id": "LibmvocltAc",
+      "title": "1.4 Installing NodeJS to Our Local Machine | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 194
+    },
+    {
+      "id": "SERL1lZdsbY",
+      "title": "2.1 Introduction to NodeJS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 400
+    },
+    {
+      "id": "TVBepggA-hQ",
+      "title": "2.2 What is Global Object | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 564
+    },
+    {
+      "id": "FKLCXLaivT4",
+      "title": "2.3 What is Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 308
+    },
+    {
+      "id": "JZvS1Ig0jqU",
+      "title": "2.4 Creating Our First Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 461
+    },
+    {
+      "id": "egUGnGjmzKE",
+      "title": "2.5 Import Our Created Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 480
+    },
+    {
+      "id": "TA4tsS4XD68",
+      "title": "2.6 NodeJS Path Module Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 737
+    },
+    {
+      "id": "9O07IRXaSxk",
+      "title": "2.7 NodeJS OS Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 242
+    },
+    {
+      "id": "EM-YStOW0dw",
+      "title": "2.8 File Module - Write File Async | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 413
+    },
+    {
+      "id": "qzvzsTa-k68",
+      "title": "2.9 File Module - Read File Async | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 223
+    },
+    {
+      "id": "ILyvATXmvo4",
+      "title": "2.10 NodeJS HTTP Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 464
+    },
+    {
+      "id": "ZJx-GKJN9E8",
+      "title": "2.11 NodeJS File + HTTP Module Fun | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 492
+    },
+    {
+      "id": "d5WgYUqUdmE",
+      "title": "3.1 What is NPM - Node Package Manager | NodeJS Tutorial | Stack Learner",
+      "duration": 319
+    },
+    {
+      "id": "POBhWFjPUdI",
+      "title": "3.2 How to Enable NPM in Project | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 461
+    },
+    {
+      "id": "hWh7BaG4SCc",
+      "title": "3.3 What is Package.JSON | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 141
+    },
+    {
+      "id": "fyOtIi0dcWw",
+      "title": "3.4 How to Install Node Packages | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 311
+    },
+    {
+      "id": "yafWih5VOuY",
+      "title": "3.5 What is Dependency in NPM | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 132
+    },
+    {
+      "id": "xCRdS647dkU",
+      "title": "3.6 What is Dev Dependency in NPM | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 285
+    },
+    {
+      "id": "n8NRH7NI5TA",
+      "title": "3.7 Install Global Packages | NodeJS Bangla Tutorial | Preview",
+      "duration": 153
+    },
+    {
+      "id": "BONN1U2lkl4",
+      "title": "3.8 Install Packages Via Package.JSON | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 143
+    },
+    {
+      "id": "0HB_CsG-MfU",
+      "title": "3.9 Write Custom Scripts | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 175
+    },
+    {
+      "id": "wUP2K8ky500",
+      "title": "3.10 How to Uninstall Packages | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 127
+    },
+    {
+      "id": "jxQdFmW69GA",
+      "title": "4.1 Intro to This Chapter | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 41
+    },
+    {
+      "id": "_WHlekR9pIo",
+      "title": "4.2 What is Frameworks | NodeJS Bangla Tutorial | Preview",
+      "duration": 171
+    },
+    {
+      "id": "YFM4PgUQgQk",
+      "title": "4.3 Best NodeJS Frameworks | NodeJS Bangla Tutorial | Preview",
+      "duration": 265
+    },
+    {
+      "id": "o9pHItPRNeM",
+      "title": "4.4 What is ExpressJS | NodeJS Bangla Tutorial | Preview",
+      "duration": 261
+    },
+    {
+      "id": "fGA6tyxW4w8",
+      "title": "4.5 Installing Express JS in Our App | NodeJS Bangla Tutorial | Preview",
+      "duration": 256
+    },
+    {
+      "id": "1GoDDmyDqk8",
+      "title": "4.6 Create First Express Server | NodeJS Bangla Tutorial | Preview",
+      "duration": 328
+    },
+    {
+      "id": "i_KB6ryiTSA",
+      "title": "4.7 Handle Our First Route | NodeJS Bangla Tutorial | Preview",
+      "duration": 328
+    },
+    {
+      "id": "iRfi_yNUbsE",
+      "title": "4.8 Create Multiple Routes | NodeJS Bangla Tutorial | Preview",
+      "duration": 361
+    },
+    {
+      "id": "qV-_nZKhNHk",
+      "title": "4.9 Understanding Request Object | NodeJS Bangla Tutorial | Preview",
+      "duration": 362
+    },
+    {
+      "id": "tjWN49g1g8E",
+      "title": "4.10 Understanding Response Object | NodeJS Tutorial | Preview",
+      "duration": 253
+    },
+    {
+      "id": "8w0lcdmwnNg",
+      "title": "4.11 Understanding HTTP Methods | NodeJS Bangla Tutorial | Preview",
+      "duration": 215
+    },
+    {
+      "id": "Q-N6ovQ-4dM",
+      "title": "4.12 Installing Nodemon | NodeJS Bangla Tutorial | Preview",
+      "duration": 183
+    },
+    {
+      "id": "2MQts37vU1E",
+      "title": "5.1 What is Middleware | NodeJS Bangla Tutorial | Preview",
+      "duration": 242
+    },
+    {
+      "id": "alp9fvmZsL0",
+      "title": "5.2 Using Third Party Middleware | NodeJS Bangla Tutorial | Preview",
+      "duration": 248
+    },
+    {
+      "id": "c14sQweruEU",
+      "title": "5.3 Using Middleware to Specific Routes | NodeJS Bangla Tutorial | Preview",
+      "duration": 186
+    },
+    {
+      "id": "8QvJem6H3Vo",
+      "title": "5.4 Create Our First Custom Middleware | NodeJS Bangla Tutorial | Preview",
+      "duration": 410
+    },
+    {
+      "id": "2tIhqF1geK0",
+      "title": "5.5 Tiny Logger Middleware | NodeJS Bangla Tutorial | Preview",
+      "duration": 231
+    },
+    {
+      "id": "GFapI_E_Vyc",
+      "title": "5.6 Express Middlewares | NodeJS Bangla Tutorial | Preview",
+      "duration": 173
+    },
+    {
+      "id": "EjxTigT5tLI",
+      "title": "6.1 Introduction to Express Routes | NodeJS Bangla Tutorial | Preview",
+      "duration": 263
+    },
+    {
+      "id": "BlkdvI2h4ak",
+      "title": "6.2 How to Create Express Routes | NodeJS Bangla Tutorial | Preview",
+      "duration": 546
+    },
+    {
+      "id": "m_aFpDsx_S8",
+      "title": "6.3 Separate Route Files | NodeJS Bangla Tutorial | Preview",
+      "duration": 297
+    },
+    {
+      "id": "9pQlI66TSQw",
+      "title": "6.4 Express Routes and HTTP Methods | NodeJS Bangla Tutorial | Preview",
+      "duration": 355
+    },
+    {
+      "id": "C-T1ILcn7q4",
+      "title": "6.5 Express Routes and URL Parameters | NodeJS Bangla Tutorial | Preview",
+      "duration": 296
+    },
+    {
+      "id": "mHowtG999aE",
+      "title": "6.6 Extract Route Parameters | NodeJS Bangla Tutorial | Preview",
+      "duration": 295
+    },
+    {
+      "id": "0Uf7sZV1bxQ",
+      "title": "6.7 Route Parameter for Posts | NodeJS Bangla Tutorial | Preview",
+      "duration": 246
+    },
+    {
+      "id": "71_QxWgceMQ",
+      "title": "6.8 Extract Query String from Route | NodeJS Bangla Tutorial | Preview",
+      "duration": 343
+    },
+    {
+      "id": "Zfw0lB5FOsc",
+      "title": "6.9 Create Separate File for Controllers | NodeJS Bangla Tutorial | Preview",
+      "duration": 387
+    },
+    {
+      "id": "jsBvVMIUAbk",
+      "title": "7.1 Intro to Project  | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 229
+    },
+    {
+      "id": "4dfFS-GY9nw",
+      "title": "7.2 Project Setup| NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 233
+    },
+    {
+      "id": "loOBb5XHVao",
+      "title": "7.3 Contact Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 572
+    },
+    {
+      "id": "iGbhCSy1DK0",
+      "title": "7.4 Create Routes | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 199
+    },
+    {
+      "id": "ndQ0sDIPJcM",
+      "title": "7.5 Create and Get Contacts | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 679
+    },
+    {
+      "id": "TSy3kf-5emk",
+      "title": "7.6 Update And Delete contant | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 381
+    },
+    {
+      "id": "4pLelOtLoAs",
+      "title": "7.7 Test Our Project | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 329
+    },
+    {
+      "id": "gmEj0ZQF7c8",
+      "title": "8.1 What is Template Engine | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 359
+    },
+    {
+      "id": "YZT1QuERPGU",
+      "title": "8.2 Template Engines Supported By Express | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 154
+    },
+    {
+      "id": "AiLmXB6AkZY",
+      "title": "8.3 EJS First Look | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 287
+    },
+    {
+      "id": "gjij83pwLZc",
+      "title": "8.4 Setup EJS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 393
+    },
+    {
+      "id": "1g1eMmmrEcM",
+      "title": "8.5 Render Some Dynamic Data | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 292
+    },
+    {
+      "id": "7HkrII9No-I",
+      "title": "8.6 Condition in EJS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 423
+    },
+    {
+      "id": "xROBcUuA92g",
+      "title": "8.7 Loops in EJS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 227
+    },
+    {
+      "id": "59HcEc-cFyg",
+      "title": "8.8 Create Multiple Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 291
+    },
+    {
+      "id": "TWeL8GN_KaI",
+      "title": "8.9 Partials | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 274
+    },
+    {
+      "id": "kd5BTl_n6Sc",
+      "title": "8.10 Header Footer | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 456
+    },
+    {
+      "id": "YHRVaWPeiXI",
+      "title": "9.1 Introduction to Database | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 594
+    },
+    {
+      "id": "qQFG7jl414s",
+      "title": "9.2 What is MongoDB | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 279
+    },
+    {
+      "id": "gpH1SevIKNw",
+      "title": "9.3 Download and Install MongoDB | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 374
+    },
+    {
+      "id": "vqf8p8ZEUwo",
+      "title": "9.4 Introduction to Mlab | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 333
+    },
+    {
+      "id": "53yZnpTkwug",
+      "title": "9.5 Intro to Mongoose | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 243
+    },
+    {
+      "id": "qbiKccEGS_E",
+      "title": "9.6 Connect Database Using Mongoose | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 365
+    },
+    {
+      "id": "Z2C5C02qVt8",
+      "title": "9.7 First Data Saved to MongoDB | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 534
+    },
+    {
+      "id": "-RomBeHQ4OM",
+      "title": "9.8 Design Contact Schema | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 598
+    },
+    {
+      "id": "GrjS-YmFiXM",
+      "title": "9.9 Create Contact Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 260
+    },
+    {
+      "id": "-QQqF6NnIQI",
+      "title": "9.10 Router and Controller for Contacts | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 237
+    },
+    {
+      "id": "Y8VrB7aOZ1k",
+      "title": "9.11 Create New Contact | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 369
+    },
+    {
+      "id": "H_cnm1FafTs",
+      "title": "9.12 Query Contacts | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 338
+    },
+    {
+      "id": "c2EnpaPHfAY",
+      "title": "9.13 Update And Delete Contact | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 604
+    },
+    {
+      "id": "1wTFMHGodxI",
+      "title": "9.14 Finishing Touch | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 221
+    },
+    {
+      "id": "F0qSMalk0-A",
+      "title": "10.1 Project Intro | NodeJS Bengali Tutorial | Stack Learner",
+      "duration": 872
+    },
+    {
+      "id": "SOR1vkSX4_s",
+      "title": "10.2 Form Validation | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 662
+    },
+    {
+      "id": "TY69ocKm6JQ",
+      "title": "10.3 Create New Contact | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 198
+    },
+    {
+      "id": "OTnkXl2IHiA",
+      "title": "10.4 Delete Contact | NodeJS Tutorial | Stack Learner",
+      "duration": 145
+    },
+    {
+      "id": "1a5TDHW9adU",
+      "title": "10.5 Edit Contact Front End | NodeJS English Tutorial | Stack Learner",
+      "duration": 539
+    },
+    {
+      "id": "943n2U2mQ6w",
+      "title": "10.6 Edit Contact Backend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 303
+    },
+    {
+      "id": "BjtGZrmwqaw",
+      "title": "11.1  What is MVC | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 188
+    },
+    {
+      "id": "VvI1nl0Cp-U",
+      "title": "11.2 Why MVC is important | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 171
+    },
+    {
+      "id": "gcN9K2WaHXE",
+      "title": "11.3 What we are going to build | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 318
+    },
+    {
+      "id": "lzezTcdUWmc",
+      "title": "11.4 Create Project Structures | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 459
+    },
+    {
+      "id": "yGqki_n_NII",
+      "title": "12.1  Finding Model at begining is important | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 166
+    },
+    {
+      "id": "d8-ZtvHOCYI",
+      "title": "12.2 Models in Our Project | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 118
+    },
+    {
+      "id": "9zHVNlSpYME",
+      "title": "12.3 Relationship between our models | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 223
+    },
+    {
+      "id": "JzUHVCY5ves",
+      "title": "12.4 User Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 409
+    },
+    {
+      "id": "rvSL32804_Q",
+      "title": "12.5 Profile Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 407
+    },
+    {
+      "id": "DxB4b9bqZS8",
+      "title": "12.6 Post Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 363
+    },
+    {
+      "id": "1xAy_-v0TfM",
+      "title": "12.7 Comment Model | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 315
+    },
+    {
+      "id": "r8wEZpq9DE8",
+      "title": "12.8 Tweak Models | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 325
+    },
+    {
+      "id": "qrwckfYIJIY",
+      "title": "13.1 Intro to this Chapter | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 513
+    },
+    {
+      "id": "YsZR8uaaxlY",
+      "title": "13.2 Setup App For EJS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 315
+    },
+    {
+      "id": "q2J8bIOVz14",
+      "title": "13.3 Setup Partials | NodeJS Tutorial | Stack Learner",
+      "duration": 1258
+    },
+    {
+      "id": "Lr8YN15k4PU",
+      "title": "13.4 Create Signup View | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 510
+    },
+    {
+      "id": "6SZQ0jWiM0I",
+      "title": "13.5 Signup Controller | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 884
+    },
+    {
+      "id": "Z-GGp1wcJjo",
+      "title": "13.6 Connect Database and Create User | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 210
+    },
+    {
+      "id": "hgUTey7UdcM",
+      "title": "13.7 Hash Password | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 390
+    },
+    {
+      "id": "9uHd1iyjdVM",
+      "title": "13.8 Create Login Page View | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 364
+    },
+    {
+      "id": "YLO-kYOxg24",
+      "title": "13.9 Login Controller | NodeJS Bengali Tutorial | Stack Learner",
+      "duration": 663
+    },
+    {
+      "id": "gnC1IBCCZrI",
+      "title": "13.10 Conclusion | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 101
+    },
+    {
+      "id": "uT5M43AdxCE",
+      "title": "14.1 what is validation | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 189
+    },
+    {
+      "id": "1zq9NlW1qCU",
+      "title": "14.2 Validation Techniques | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 196
+    },
+    {
+      "id": "8knqR7L61-A",
+      "title": "14.3 Express Validator | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 169
+    },
+    {
+      "id": "yYC2HP65sl0",
+      "title": "14.4 Create Playground for Validator | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 347
+    },
+    {
+      "id": "BXMpethG89A",
+      "title": "14.5 Validation Check with Error Message | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 520
+    },
+    {
+      "id": "cvm75nomSkg",
+      "title": "14.6 Error Message with Formatter | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 327
+    },
+    {
+      "id": "NI9y9Q_zO1U",
+      "title": "14.7 Custom validation | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 346
+    },
+    {
+      "id": "V9_AhmvVW90",
+      "title": "14.8 Sanitization | NodeJS Tutorial in Bangla | Stack Learner",
+      "duration": 212
+    },
+    {
+      "id": "s7WJ6cZjhPg",
+      "title": "14.9 Signup Validator | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 603
+    },
+    {
+      "id": "Ezg7wnhcFqc",
+      "title": "14.10 Get Error Message From Signup Form | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 362
+    },
+    {
+      "id": "SLYHYLCflMg",
+      "title": "14.11 Show Error Message to User | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 419
+    },
+    {
+      "id": "sTHUMw91RYo",
+      "title": "14.12 Render Submitted Data Back | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 247
+    },
+    {
+      "id": "z_4VTu031tM",
+      "title": "14.13 Separte Validator | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 188
+    },
+    {
+      "id": "GRcCOjS2vIc",
+      "title": "14.14 Login Validator | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 452
+    },
+    {
+      "id": "ibJXEI1v7p8",
+      "title": "15.1 How Authentication Works | NodeJS Bengali Tutorial | Stack Learner",
+      "duration": 175
+    },
+    {
+      "id": "t1dmd4s9VKQ",
+      "title": "15.2 What is Cookie | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 173
+    },
+    {
+      "id": "y_tiQ2DsZ3Y",
+      "title": "15.3 Creating and Using Cookies | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 600
+    },
+    {
+      "id": "rx5oFiCFBYo",
+      "title": "15.4 Config Cookies | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 100
+    },
+    {
+      "id": "VKhwW43dX8o",
+      "title": "15.5 What is Session | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 189
+    },
+    {
+      "id": "1yde6T9x4Ro",
+      "title": "15.6 Create And Configure Session | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 639
+    },
+    {
+      "id": "fkYR8mcC38U",
+      "title": "15.7 Connect Mlab Databse with Compass | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 114
+    },
+    {
+      "id": "aNVPVt2Jjgc",
+      "title": "15.8 Session Store | NodeJS Tutorial | Stack Learner",
+      "duration": 339
+    },
+    {
+      "id": "acM5aJST9h4",
+      "title": "15.9 Bind User with Request Middleware | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 297
+    },
+    {
+      "id": "79zPXV-cb4I",
+      "title": "15.10 SetLocals Middleware | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 194
+    },
+    {
+      "id": "FSsmolNLZCE",
+      "title": "15.11 Create Dashboard Page | NodeJS English Tutorial | Stack Learner",
+      "duration": 395
+    },
+    {
+      "id": "wUf50VuePt0",
+      "title": "15.12 IsAuthenticated Middleware  | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 210
+    },
+    {
+      "id": "WyU1CjzPPkM",
+      "title": "15.13 Logout | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 516
+    },
+    {
+      "id": "8-TUNigheSM",
+      "title": "15.14 Unauthenticated Middleware | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 300
+    },
+    {
+      "id": "Jt7sr1WwtkM",
+      "title": "16.1 Intro  | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 121
+    },
+    {
+      "id": "6Q2lIP7vgXA",
+      "title": "16.2 Setup Connect Flash | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 503
+    },
+    {
+      "id": "YQaUtcRZJ_E",
+      "title": "16.3 Create Flash Class | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 417
+    },
+    {
+      "id": "CyqIkDclvBQ",
+      "title": "16.4 Using Flash in Our Project | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 817
+    },
+    {
+      "id": "ZCGeOSjV_Gk",
+      "title": "16.5 Test Flash Message | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 211
+    },
+    {
+      "id": "7RUG-zAHJLo",
+      "title": "16.6 Checking Environment | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 397
+    },
+    {
+      "id": "61-NVv1wBI8",
+      "title": "16.7 Using Environment Variables | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 248
+    },
+    {
+      "id": "84o50eRVZsE",
+      "title": "16.8 Using Dotenv | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 356
+    },
+    {
+      "id": "oHTGuXLF4GA",
+      "title": "16.9 Setup Configuration File | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 302
+    },
+    {
+      "id": "CekB-8-rNC4",
+      "title": "16.10 Using Config Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 407
+    },
+    {
+      "id": "X3sFZTwjEpY",
+      "title": "16.11 Custom Environment Variables | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 244
+    },
+    {
+      "id": "Y8sOeyhk31k",
+      "title": "16.12 Conclusion | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 28
+    },
+    {
+      "id": "LmW3fIL__AM",
+      "title": "17.1 Intro | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 104
+    },
+    {
+      "id": "uPXzHOCUNUg",
+      "title": "17.2 Different Type of Errors | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 239
+    },
+    {
+      "id": "jOZTnaBElRk",
+      "title": "17.3 Debugging vs Error Handling | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 97
+    },
+    {
+      "id": "llVUI6u5F1I",
+      "title": "17.4 Debuggin and Error Handling Action | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 559
+    },
+    {
+      "id": "uRdQC7AEUm8",
+      "title": "17.5 Debug Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 282
+    },
+    {
+      "id": "V1udBWxz4Ic",
+      "title": "17.6 Chalk Module | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 179
+    },
+    {
+      "id": "R5QMYC7Jm0o",
+      "title": "17.7 Node Debugger | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 359
+    },
+    {
+      "id": "X8WkruE_jU0",
+      "title": "17.8 Chrome Debug Tolls | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 173
+    },
+    {
+      "id": "hHW209e-JS8",
+      "title": "17.9 Separate Route and Middleware File | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 859
+    },
+    {
+      "id": "kMV6u6xFkRE",
+      "title": "17.10 404 Not Found | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 508
+    },
+    {
+      "id": "PJt73OZ0w60",
+      "title": "17.11 500 Internal Server Error | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 658
+    },
+    {
+      "id": "qTl_qD4c-bQ",
+      "title": "18.1 Intro | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 238
+    },
+    {
+      "id": "GdOCUWMCvbY",
+      "title": "18.2 What is Multer | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 244
+    },
+    {
+      "id": "FrU2iV4jdjo",
+      "title": "18.3 Setup Playground | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 345
+    },
+    {
+      "id": "fPJoWuGXGoc",
+      "title": "18.4 Setup Storage | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 374
+    },
+    {
+      "id": "I_PiIH5O4o4",
+      "title": "18.5 Upload Middleware | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 337
+    },
+    {
+      "id": "kpxezXrt7JM",
+      "title": "18.6 Handle Uploads | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 301
+    },
+    {
+      "id": "N1Mg4DPOpf8",
+      "title": "19.1 Conditionally Render Dashboard or Profile | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 606
+    },
+    {
+      "id": "Qc0-o7xLe9o",
+      "title": "19.2 Create Profile Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1195
+    },
+    {
+      "id": "6wirkC5Olmg",
+      "title": "19.3 Upload Controller and Routes | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 768
+    },
+    {
+      "id": "x0mcrts8Jy4",
+      "title": "19.4 Setup Croppie JS | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 689
+    },
+    {
+      "id": "NIT-Zj_CtiU",
+      "title": "19.5 Upload Profile Pics | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 593
+    },
+    {
+      "id": "iNUFLavcgKM",
+      "title": "19.6 Remove Profile Pics | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1024
+    },
+    {
+      "id": "1BjbunE-rD8",
+      "title": "19.7 Validate Profile | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1097
+    },
+    {
+      "id": "YzHgeLoyT-g",
+      "title": "19.8 Handle Error to Create Profile Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 316
+    },
+    {
+      "id": "r5JvaQjOQRE",
+      "title": "19.9 Save Profile Data | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 997
+    },
+    {
+      "id": "-0fQWwUqTRg",
+      "title": "19.10 Edit Profile Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 537
+    },
+    {
+      "id": "SZicDPDVcYE",
+      "title": "19.11 Edit Profile Controller | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 512
+    },
+    {
+      "id": "wm3QXhNWwtE",
+      "title": "19.12 Bug Fixing | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 359
+    },
+    {
+      "id": "cDDaDaZDxgQ",
+      "title": "20.1 Intro | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 166
+    },
+    {
+      "id": "r8K3tvsnMd4",
+      "title": "20.2 Create Post Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1149
+    },
+    {
+      "id": "dInU_9n2CFc",
+      "title": "20.3 Tiny MCE Front End Setup | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 929
+    },
+    {
+      "id": "biylaIPWAR0",
+      "title": "20.4 Tiny MCE Bachend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 505
+    },
+    {
+      "id": "wvwqqiSSj8Q",
+      "title": "20.5 Post Validation | NodeJS Tutorial | Stack Learner",
+      "duration": 866
+    },
+    {
+      "id": "gf-EiUQxzXE",
+      "title": "20.6 Error Handling | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 397
+    },
+    {
+      "id": "m1yFehZmksc",
+      "title": "20.7 Create Post Controller | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 679
+    },
+    {
+      "id": "uZqAuBbPGVk",
+      "title": "20.8 Post Create Testing | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 338
+    },
+    {
+      "id": "g6H6b1_mYbQ",
+      "title": "20.9 Edit Post Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 656
+    },
+    {
+      "id": "RpQBnpp5XrM",
+      "title": "20.10 Update Post | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 546
+    },
+    {
+      "id": "njHq5zbsDeA",
+      "title": "20.11 Test Our Edit Functionality | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 775
+    },
+    {
+      "id": "6ZjBNsuIWVk",
+      "title": "20.12 Delete Post | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 540
+    },
+    {
+      "id": "jkvzziPYuG4",
+      "title": "20.13 Get All My Posts | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 944
+    },
+    {
+      "id": "fHNl8c_yevI",
+      "title": "20.14 Creating Side Bar | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 572
+    },
+    {
+      "id": "LoE4LjFITU8",
+      "title": "21.1 Intro | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 386
+    },
+    {
+      "id": "TlHwGcpxiQI",
+      "title": "21.2 Create Comment API | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 899
+    },
+    {
+      "id": "eXgS-B8vF1Y",
+      "title": "21.3 Create Reply Controller API | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 417
+    },
+    {
+      "id": "1cW6i-7alio",
+      "title": "21.4 Create Like API | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 648
+    },
+    {
+      "id": "PDbujKEkK0w",
+      "title": "21.5 Create Dislike Controller API | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 287
+    },
+    {
+      "id": "zFKwe-RxbXA",
+      "title": "21.6 Create Bookmarks Controller API | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 622
+    },
+    {
+      "id": "BObkCc_a01M",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "SNTEA-WcG48",
+      "title": "22.2 Explorer Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 922
+    },
+    {
+      "id": "0OLNjXjX6fk",
+      "title": "22.3 Create Filter Functionalities | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 790
+    },
+    {
+      "id": "MNoViUXc48w",
+      "title": "22.4 Create Pagination Functionalities | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 957
+    },
+    {
+      "id": "-vSRlFLyYzw",
+      "title": "22.5 Add Bookmarks | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1147
+    },
+    {
+      "id": "rJX52wP9m0o",
+      "title": "22.6 Single Post Page Template | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1225
+    },
+    {
+      "id": "IF8_mgD-exg",
+      "title": "22.7 Single Page Controller | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 832
+    },
+    {
+      "id": "bTOIvGYQWYw",
+      "title": "22.8 Like Functionalities Frontend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1235
+    },
+    {
+      "id": "OK63dImWkSQ",
+      "title": "22.9 Handle Comments From Frontend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1067
+    },
+    {
+      "id": "REPQ0fJQbac",
+      "title": "22.10 Reply Comment from Frontend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 780
+    },
+    {
+      "id": "QmWM0yi8mpQ",
+      "title": "22.11 Create Search Backend | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 665
+    },
+    {
+      "id": "1ONHGzkR9Gk",
+      "title": "22.12 Create Search Result Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 807
+    },
+    {
+      "id": "JdIc1y-5VHY",
+      "title": "22.13 Debugg And Conclusion | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 355
+    },
+    {
+      "id": "DhKgck1EdBw",
+      "title": "22.14 Author Page Template | NodeJS Tutorial | Stack Learner",
+      "duration": 852
+    },
+    {
+      "id": "f0Jw0jEKy2Y",
+      "title": "22.15 Author Controller | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 538
+    },
+    {
+      "id": "28Jsz-m12qA",
+      "title": "23.1 Intro of Dashboard | Nodejs Bangla Tutorial | Stack Learner",
+      "duration": 192
+    },
+    {
+      "id": "n51fpdfF2bg",
+      "title": "23.2 Bookmarks Dashboard Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 899
+    },
+    {
+      "id": "Xt2J5fQQiZE",
+      "title": "23.3 Comment Dashboard Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 1007
+    },
+    {
+      "id": "Z9DjdyZtYBU",
+      "title": "23.4 Change Password Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 959
+    },
+    {
+      "id": "9z-10kwKUis",
+      "title": "23.5 Dashboard Final Page | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 742
+    },
+    {
+      "id": "PmFFPLeBs_s",
+      "title": "23.6 Navigation and Finishing Touch | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 703
+    },
+    {
+      "id": "PIh_Xd5flxA",
+      "title": "24.1 How to Deploy NodeJS App | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 409
+    },
+    {
+      "id": "_cqk25rBiKA",
+      "title": "24.2  Initialize Git and Github | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 329
+    },
+    {
+      "id": "uDh3rauWyx8",
+      "title": "24.3 Deploy to Heroku | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 431
+    },
+    {
+      "id": "g4XYqhW2plU",
+      "title": "24.4 Conclusion | NodeJS Bangla Tutorial | Stack Learner",
+      "duration": 341
+    }
+  ]
+}

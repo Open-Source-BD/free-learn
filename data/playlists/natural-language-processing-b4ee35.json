@@ -1,0 +1,50 @@
+{
+  "courseId": "natural-language-processing-b4ee35",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:15.974Z",
+  "title": "Natural Language Processing(NLP)",
+  "channel": "CampusX",
+  "videos": [
+    {
+      "id": "zlUpTlaxAKI",
+      "title": "Introduction to NLP | NLP Lecture 1 | End to End NLP Course",
+      "duration": 2869
+    },
+    {
+      "id": "29qyNyNkLHs",
+      "title": "End to End NLP Pipeline | NLP Pipeline | Lecture 2 NLP Course",
+      "duration": 4732
+    },
+    {
+      "id": "6C0sLtw5ctc",
+      "title": "Text Preprocessing | NLP Course Lecture 3",
+      "duration": 4068
+    },
+    {
+      "id": "vo6gQz5lYRI",
+      "title": "Text Representation | NLP Lecture 4 | Bag of Words | Tf-Idf | N-grams, Bi-grams and Uni-grams",
+      "duration": 6278
+    },
+    {
+      "id": "DDfLc5AHoJI",
+      "title": "Word2vec Complete Tutorial | CBOW and Skip-gram | Game of Thrones Word2vec",
+      "duration": 4561
+    },
+    {
+      "id": "Qbd7U9F0QQ8",
+      "title": "Text Classification | NLP Lecture 6 | End to End | Average Word2Vec",
+      "duration": 3131
+    },
+    {
+      "id": "269IGagoJfs",
+      "title": "POS Tagging | Part of Speech Tagging in NLP | Hidden Markov Models in NLP | Viterbi Algorithm in NLP",
+      "duration": 3701
+    },
+    {
+      "id": "1fvQU5yPjFs",
+      "title": "Duplicate Question Pairs | Quora Question Pairs | NLP Projects | End to End NLP Project | Heroku",
+      "duration": 5104
+    }
+  ]
+}

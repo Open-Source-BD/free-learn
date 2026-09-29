@@ -1,0 +1,225 @@
+{
+  "courseId": "graph-theory-playlist-6eb3f7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:01.144Z",
+  "title": "Graph Theory Playlist",
+  "channel": "WilliamFiset",
+  "videos": [
+    {
+      "id": "DgXR2OWQnLc",
+      "title": "Graph Theory Algorithms",
+      "duration": 191
+    },
+    {
+      "id": "eQA-m22wjTQ",
+      "title": "Graph Theory Introduction",
+      "duration": 848
+    },
+    {
+      "id": "87X57ldq1ok",
+      "title": "Overview of algorithms in Graph Theory",
+      "duration": 587
+    },
+    {
+      "id": "7fujbpJ0LB4",
+      "title": "Depth First Search Algorithm | Graph Theory",
+      "duration": 620
+    },
+    {
+      "id": "oDqjPvD54Ss",
+      "title": "Breadth First Search Algorithm | Shortest Path | Graph Theory",
+      "duration": 443
+    },
+    {
+      "id": "KiCBXu4P-2Y",
+      "title": "Breadth First Search grid shortest path | Graph Theory",
+      "duration": 1011
+    },
+    {
+      "id": "1XC3p2zBK34",
+      "title": "Introduction to tree algorithms | Graph Theory",
+      "duration": 622
+    },
+    {
+      "id": "0qgaIMqOEVs",
+      "title": "Beginner tree algorithms | Graph Theory",
+      "duration": 594
+    },
+    {
+      "id": "2FFq2_je7Lg",
+      "title": "Rooting a tree | Graph Theory",
+      "duration": 319
+    },
+    {
+      "id": "nzF_9bjDzdc",
+      "title": "Tree center(s) | Graph Theory",
+      "duration": 368
+    },
+    {
+      "id": "OCKvEMF0Xac",
+      "title": "Identifying Isomorphic Trees | Graph Theory",
+      "duration": 673
+    },
+    {
+      "id": "40Jx-at2P5k",
+      "title": "Identifying Isomorphic Trees | Source Code | Graph Theory",
+      "duration": 603
+    },
+    {
+      "id": "sD1IoalFomA",
+      "title": "Lowest Common Ancestor (LCA) Problem | Eulerian path method",
+      "duration": 1022
+    },
+    {
+      "id": "rA7JJG7x9vs",
+      "title": "Lowest Common Ancestor (LCA) Problem |  Source Code",
+      "duration": 413
+    },
+    {
+      "id": "eL-KzMXSXXI",
+      "title": "Topological Sort Algorithm | Graph Theory",
+      "duration": 849
+    },
+    {
+      "id": "cIBFEhD77b4",
+      "title": "Topological Sort | Kahn's Algorithm | Graph Theory",
+      "duration": 812
+    },
+    {
+      "id": "TXkDpqjDMHA",
+      "title": "Shortest/Longest path on a Directed Acyclic Graph (DAG)  | Graph Theory",
+      "duration": 597
+    },
+    {
+      "id": "pSqmAO-m7Lk",
+      "title": "Dijkstra's Shortest Path Algorithm | Graph Theory",
+      "duration": 1487
+    },
+    {
+      "id": "mbLzxKUeLJ4",
+      "title": "Dijkstra's Shortest Path Algorithm | Source Code | Graph Theory",
+      "duration": 557
+    },
+    {
+      "id": "lyw4FaxrwHg",
+      "title": "Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory",
+      "duration": 901
+    },
+    {
+      "id": "4NQ3HnhyNfQ",
+      "title": "Floyd Warshall All Pairs Shortest Path Algorithm | Graph Theory | Dynamic Programming",
+      "duration": 953
+    },
+    {
+      "id": "0dTrKG5UK9k",
+      "title": "Floyd Warshall All Pairs Shortest Path Algorithm | Graph Theory | Dynamic Programming | Source Code",
+      "duration": 556
+    },
+    {
+      "id": "wUgWX0nc4NY",
+      "title": "Tarjan's Strongly Connected Component (SCC) Algorithm (UPDATED) | Graph Theory",
+      "duration": 1062
+    },
+    {
+      "id": "hKhLj7bfDKk",
+      "title": "Tarjans Strongly Connected Components algorithm source code | Graph Theory",
+      "duration": 411
+    },
+    {
+      "id": "cY4HiiFHO1o",
+      "title": "Traveling Salesman Problem | Dynamic Programming | Graph Theory",
+      "duration": 1228
+    },
+    {
+      "id": "udEe7Cv3DqU",
+      "title": "Travelling Salesman Problem source code | Dynamic Programming | Graph Theory",
+      "duration": 800
+    },
+    {
+      "id": "xR4sGgwtR2I",
+      "title": "Existence of Eulerian Paths and Circuits | Graph Theory",
+      "duration": 581
+    },
+    {
+      "id": "8MpoO2zA2l4",
+      "title": "Eulerian Path/Circuit algorithm (Hierholzer's algorithm) | Graph Theory",
+      "duration": 934
+    },
+    {
+      "id": "QQ3jO1dKjYQ",
+      "title": "Eulerian Path Algorithm | Graph Theory | Source Code",
+      "duration": 505
+    },
+    {
+      "id": "jsmMtJpPnhU",
+      "title": "Prim's Minimum Spanning Tree Algorithm | Graph Theory",
+      "duration": 893
+    },
+    {
+      "id": "xq3ABa-px_g",
+      "title": "Eager Prim's Minimum Spanning Tree Algorithm | Graph Theory",
+      "duration": 873
+    },
+    {
+      "id": "CI5Fvk-dGVs",
+      "title": "Eager Prim's Minimum Spanning Tree Algorithm | Source Code",
+      "duration": 498
+    },
+    {
+      "id": "LdOnanfc5TM",
+      "title": "Max Flow Ford Fulkerson | Network Flow | Graph Theory",
+      "duration": 805
+    },
+    {
+      "id": "Xu8jjJnwvxE",
+      "title": "Max Flow Ford Fulkerson | Source Code",
+      "duration": 1049
+    },
+    {
+      "id": "GhjwOiJ4SqU",
+      "title": "Unweighted Bipartite Matching | Network Flow | Graph Theory",
+      "duration": 684
+    },
+    {
+      "id": "ar6x7dHfGHA",
+      "title": "Bipartite Matching | Mice and Owls problem | Network Flow | Graph Theory",
+      "duration": 508
+    },
+    {
+      "id": "zrGnYstL4ss",
+      "title": "Bipartite Matching | Elementary Math problem | Network Flow | Graph Theory",
+      "duration": 641
+    },
+    {
+      "id": "RppuJYwlcI8",
+      "title": "Edmonds Karp Algorithm | Network Flow | Graph Theory",
+      "duration": 575
+    },
+    {
+      "id": "OViaWp9Q-Oc",
+      "title": "Edmonds Karp Algorithm | Source Code",
+      "duration": 347
+    },
+    {
+      "id": "1ewLrXUz4kk",
+      "title": "Capacity Scaling | Network Flow | Graph Theory",
+      "duration": 615
+    },
+    {
+      "id": "hZqiLIaIEFg",
+      "title": "Capacity Scaling | Network Flow | Source Code",
+      "duration": 387
+    },
+    {
+      "id": "M6cm8UeeziI",
+      "title": "Dinic's Algorithm | Network Flow | Graph Theory",
+      "duration": 709
+    },
+    {
+      "id": "_SdF4KK_dyM",
+      "title": "Dinic's Algorithm | Network Flow | Source Code",
+      "duration": 572
+    }
+  ]
+}

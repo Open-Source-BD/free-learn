@@ -1,0 +1,95 @@
+{
+  "courseId": "django-tutorials-d6f70e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:28.178Z",
+  "title": "Django Tutorials",
+  "channel": "Corey Schafer",
+  "videos": [
+    {
+      "id": "UmljXZIypDc",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started",
+      "duration": 932
+    },
+    {
+      "id": "a48xeeo5Vnk",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes",
+      "duration": 1227
+    },
+    {
+      "id": "qDwdMDQ8oX4",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 3 - Templates",
+      "duration": 2745
+    },
+    {
+      "id": "1PkNiYlkkjo",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page",
+      "duration": 540
+    },
+    {
+      "id": "aHC3uTkT9r8",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations",
+      "duration": 2327
+    },
+    {
+      "id": "q4jPR-M0TAQ",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 6 - User Registration",
+      "duration": 2756
+    },
+    {
+      "id": "3aVqWaLjqS4",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System",
+      "duration": 1877
+    },
+    {
+      "id": "FdVuKt_iuSI",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture",
+      "duration": 2141
+    },
+    {
+      "id": "CQ90L5jfldw",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile",
+      "duration": 1567
+    },
+    {
+      "id": "-s7e_Fy6NRU",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",
+      "duration": 3195
+    },
+    {
+      "id": "acOktTcTVEQ",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 11 - Pagination",
+      "duration": 2221
+    },
+    {
+      "id": "-tyBEsHSv7w",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset",
+      "duration": 1504
+    },
+    {
+      "id": "Sa_kQheCnds",
+      "title": "Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+      "duration": 4921
+    },
+    {
+      "id": "D2lwk1Ukgz0",
+      "title": "Python Django Tutorial: How to Use a Custom Domain Name for Our Application",
+      "duration": 1638
+    },
+    {
+      "id": "NhidVhNHfeU",
+      "title": "Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt",
+      "duration": 1247
+    },
+    {
+      "id": "kt3ZtW9MXhw",
+      "title": "Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads",
+      "duration": 1595
+    },
+    {
+      "id": "6DI_7Zja8Zc",
+      "title": "Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku",
+      "duration": 3211
+    }
+  ]
+}

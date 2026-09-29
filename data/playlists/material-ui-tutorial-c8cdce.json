@@ -1,0 +1,185 @@
+{
+  "courseId": "material-ui-tutorial-c8cdce",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlR2O33QQkfXnZMMZC0y22gLayBbB1UQd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:02.067Z",
+  "title": "Material UI Tutorial",
+  "channel": "Indian Coders",
+  "videos": [
+    {
+      "id": "DOjp0Ce9nzo",
+      "title": "Material UI Introduction and Uses | Material UI Tutorial | Material UI 5 | What is Material UI |",
+      "duration": 287
+    },
+    {
+      "id": "WiAbIH-x-VM",
+      "title": "Material UI Creating React Application | Material UI 5 Tutorial | Creating A New React App #2",
+      "duration": 210
+    },
+    {
+      "id": "59Opy--kafA",
+      "title": "Material UI Installation | Material UI Tutorial | Material UI 5 | How to install Material UI #3",
+      "duration": 71
+    },
+    {
+      "id": "TGGBUd_qRog",
+      "title": "Material UI Typography Component | Material UI 5 Tutorial | Typography in Material UI #4",
+      "duration": 441
+    },
+    {
+      "id": "-LKJlrNB07k",
+      "title": "Material UI Button Component | Material UI Tutorial | Material UI 5 | Buttons in Material UI #5",
+      "duration": 506
+    },
+    {
+      "id": "daZKtg-UUeU",
+      "title": "Material UI TextField Component | Material UI Tutorial | Material UI 5 | TextField in Material UI #6",
+      "duration": 339
+    },
+    {
+      "id": "GjsxNvNAPi4",
+      "title": "Material UI Form Handling With React | Material UI 5 Tutorial |  Form Handling With Material UI #7",
+      "duration": 417
+    },
+    {
+      "id": "8dBbaAt0YYs",
+      "title": "Material UI Checkbox Component | Material UI 5 Tutorial | Checkbox in Material UI #8",
+      "duration": 302
+    },
+    {
+      "id": "1d6yNyFjYME",
+      "title": "Material UI Select Component | Material UI 5 Tutorial | Select Dropdown in Material UI #9",
+      "duration": 292
+    },
+    {
+      "id": "rK2Bnfz-5VI",
+      "title": "Material UI Header With AppBar & Toolbar | Material UI 5 Tutorial | Material UI AppBar Toolbar #10",
+      "duration": 343
+    },
+    {
+      "id": "Aye-4CyNTLQ",
+      "title": "Material UI Menu & MenuItem Component | Material UI 5 Tutorial | Material UI Menu & MenuItem #11",
+      "duration": 479
+    },
+    {
+      "id": "H3C5OY9gnFY",
+      "title": "Material UI Tabs Component | Material UI 5 Tutorial | Material UI Tabs | Build Navigation Bar #11",
+      "duration": 528
+    },
+    {
+      "id": "Yx2iAhPqIYk",
+      "title": "Material UI Cards Component | Material UI 5 Tutorial | Material UI Cards | Modern UI UX Cards | #12",
+      "duration": 394
+    },
+    {
+      "id": "WNUuzCaheww",
+      "title": "Material UI Dialog Component | Material UI 5 Tutorial | Material UI Dialog | React Dialog Box #14",
+      "duration": 456
+    },
+    {
+      "id": "tLOAtnRQ1f4",
+      "title": "Material UI Modal Component | Material UI 5 Tutorial | Material UI Modals | React Modal #15",
+      "duration": 339
+    },
+    {
+      "id": "XaxBdLNdaao",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "9FHfPlrFm50",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "qzny3iZ66eY",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "ZAscEw0xtJY",
+      "title": "Material UI List and Nested Lists | Material UI 5 Tutorial | Material UI Collapse Nested List | #19",
+      "duration": 574
+    },
+    {
+      "id": "1fYo2XAY9ro",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "5mQgOybe6jw",
+      "title": "Material UI Autocomplete List | Material UI Tutorial | Material UI Search Autocompletion | #21",
+      "duration": 289
+    },
+    {
+      "id": "eYGIIc2FOVI",
+      "title": "Material UI Grid System - Responsive Cards Layout | Material UI Grid Tutorial | Material UI Cards |",
+      "duration": 751
+    },
+    {
+      "id": "e6dBopZtnlw",
+      "title": "Create Responsive Navigation Bar With Material UI Grid System | MaterialUI 5 | React Navbar",
+      "duration": 2779
+    },
+    {
+      "id": "UeaT61TfC9M",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "R_c6EmK--XY",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "xn6murxJeN0",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "OigrYfhdCiI",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "LH5vMbZMzIo",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "zCfZ_v5A7vU",
+      "title": "Material UI Image List | Material UI Tutorial | Create Gallery in React with ImageList | #27",
+      "duration": 505
+    },
+    {
+      "id": "hzIYhdFRCG4",
+      "title": "Material UI Data Grid | Material UI Tutorial | Material UI Data Table | #28",
+      "duration": 790
+    },
+    {
+      "id": "6wi-R0XmEeY",
+      "title": "Material UI Icons | Material UI Tutorial | How to use Material UI Icons #29",
+      "duration": 406
+    },
+    {
+      "id": "KebZ0Zy12sk",
+      "title": "Material UI Theme Provider| Material UI Tutorial | How to Create Material UI Custom Theme #30",
+      "duration": 517
+    },
+    {
+      "id": "ZHlkWXMOfZU",
+      "title": "Material UI Styled Component | Material UI Tutorial | How to Styled Component in Material UI #31",
+      "duration": 371
+    },
+    {
+      "id": "VxvttBMsRFM",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "ZSBZ4QrfETM",
+      "title": "Design Modern Responsive Login & Signup Form With Material UI And React | Material UI Project",
+      "duration": 1882
+    }
+  ]
+}

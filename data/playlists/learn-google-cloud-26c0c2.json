@@ -1,0 +1,290 @@
+{
+  "courseId": "learn-google-cloud-26c0c2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:36.157Z",
+  "title": "Learn Google Cloud",
+  "channel": "Cloud Advocate",
+  "videos": [
+    {
+      "id": "PUid9-TIdIQ",
+      "title": "How to pass Google Associate Cloud Engineer",
+      "duration": 835
+    },
+    {
+      "id": "dNEzrcBLHqo",
+      "title": "Google Associate Cloud Engineer Practice Exam and Tips",
+      "duration": 2273
+    },
+    {
+      "id": "-BdjzlVpV-o",
+      "title": "gcloud for Google Associate Cloud Engineer (Important!)",
+      "duration": 868
+    },
+    {
+      "id": "NtdkxnJ39-o",
+      "title": "How to create a VM in Google Cloud",
+      "duration": 647
+    },
+    {
+      "id": "rbfrKxN686I",
+      "title": "Google Cloud OS Login - For User account and Service Account | GCP OS Login",
+      "duration": 1138
+    },
+    {
+      "id": "lSumUuZT_B8",
+      "title": "Custom Images in Google Cloud using Packer",
+      "duration": 1187
+    },
+    {
+      "id": "IJS7iHFLZfw",
+      "title": "Google App Engine for Google Associate Cloud Engineer - Part I",
+      "duration": 551
+    },
+    {
+      "id": "Ed5vJiWvzGI",
+      "title": "GCP App Engine - Deploy and Split traffic (Part 2)",
+      "duration": 1645
+    },
+    {
+      "id": "-S0UyhCiJq0",
+      "title": "Securing Google Cloud App Engine application using Identity-Aware Proxy",
+      "duration": 660
+    },
+    {
+      "id": "dURd1aTdJqg",
+      "title": "Connect to Cloud SQL from App Engine in Google Cloud",
+      "duration": 950
+    },
+    {
+      "id": "BejWo40P3HY",
+      "title": "Google Cloud Functions - Serverless in GCP",
+      "duration": 1072
+    },
+    {
+      "id": "t7e0dNSCmzI",
+      "title": "Google Cloud Scheduler - Calling Cloud Function",
+      "duration": 796
+    },
+    {
+      "id": "vMnw0SggpiA",
+      "title": "Google Cloud Scheduler - Calling Pub/Sub",
+      "duration": 376
+    },
+    {
+      "id": "KRzdAD7DljE",
+      "title": "Google Cloud IAM - Strictly for associate exam!!",
+      "duration": 565
+    },
+    {
+      "id": "SJZk2b1cnP4",
+      "title": "How to connect to Google cloud from onprem using Service accounts",
+      "duration": 468
+    },
+    {
+      "id": "qXuw--126Bk",
+      "title": "Service Accounts in Google Cloud - IAM in GCP.",
+      "duration": 1129
+    },
+    {
+      "id": "YVWjrfEYgK4",
+      "title": "Google Cloud VPC Basics for Associate Cloud Engineer - Part 1",
+      "duration": 388
+    },
+    {
+      "id": "xqDwWJzAYCs",
+      "title": "Google Cloud VPC Basics for Associate Cloud Engineer - Part 2",
+      "duration": 814
+    },
+    {
+      "id": "htrm4xchvxs",
+      "title": "VPC Peering in Google Cloud | Networking in GCP",
+      "duration": 1082
+    },
+    {
+      "id": "iT_FVR2Dz2o",
+      "title": "Connect App Engine to Cloud SQL via Private IP - Google Cloud Serverless VPC Access",
+      "duration": 1021
+    },
+    {
+      "id": "mMnRqLMK6NQ",
+      "title": "Free Google Cloud Courses for a month | COVID -19",
+      "duration": 184
+    },
+    {
+      "id": "LcJjZs4ve4A",
+      "title": "Free Associate Cloud Engineer Udemy course - By Dan Sullivan - Expired",
+      "duration": 121
+    },
+    {
+      "id": "Mt7oKY3gpM8",
+      "title": "Ansible on Google Cloud",
+      "duration": 1440
+    },
+    {
+      "id": "nqlNk9M3C-Y",
+      "title": "Host your static website for FREE (almost) using Google Cloud Storage",
+      "duration": 538
+    },
+    {
+      "id": "jmeFcwtsTao",
+      "title": "SRE for Google Cloud DevOps Engineer",
+      "duration": 1185
+    },
+    {
+      "id": "qVKp7W1bfrE",
+      "title": "Google Cloud Deployment Manager - Getting Started",
+      "duration": 1111
+    },
+    {
+      "id": "TeguiTFprFo",
+      "title": "Deploying Cloud Function using Google Cloud Build",
+      "duration": 1517
+    },
+    {
+      "id": "jlNIDLbSvcY",
+      "title": "Securing Cloud Function using Google Cloud API Gateway",
+      "duration": 1308
+    },
+    {
+      "id": "MYuuF_t6Nas",
+      "title": "TerramEarth Case Study - Professional Cloud Architect | Google Cloud Exam",
+      "duration": 669
+    },
+    {
+      "id": "WNA9SJ-x-kc",
+      "title": "Analytical Dashboard using Data Studio and BigQuery - Stackdriver/cloud logging",
+      "duration": 871
+    },
+    {
+      "id": "tvgTGJjRNA8",
+      "title": "HashiCorp Vault GCP Secrets Engine - Integration with packer",
+      "duration": 1445
+    },
+    {
+      "id": "8pqwoZflqPo",
+      "title": "VPC firewall rules in Google Cloud Platform",
+      "duration": 1048
+    },
+    {
+      "id": "jvZXbJv6qJ4",
+      "title": "Connect to Cloud SQL from Cloud Run in Google Cloud",
+      "duration": 1037
+    },
+    {
+      "id": "qLgE40F5HwM",
+      "title": "Bigtable Vs BigQuery - Professional Cloud Architect | Google Cloud Exam",
+      "duration": 578
+    },
+    {
+      "id": "BSsl-c1NEbc",
+      "title": "How to Setup Monitoring Agent in Google Cloud - Operations Suite (Formerly Stackdriver)",
+      "duration": 969
+    },
+    {
+      "id": "nsrADMrp4BI",
+      "title": "Google Cloud Secret Manager | Professional Architect Exam Essentials",
+      "duration": 920
+    },
+    {
+      "id": "Wz991mrexx8",
+      "title": "WordPress on Google Cloud App Engine Standard (Demo and Pros/Cons)",
+      "duration": 1042
+    },
+    {
+      "id": "96Odvu27k78",
+      "title": "Ansible Dynamic Inventory using Google Cloud",
+      "duration": 727
+    },
+    {
+      "id": "YoRhkVmOiOw",
+      "title": "Google Cloud Certified Cloud Digital Leader - My Experience",
+      "duration": 288
+    },
+    {
+      "id": "7Em4M57YnNo",
+      "title": "Cloud Digital Leader Practice Exam - Honest attempt!",
+      "duration": 748
+    },
+    {
+      "id": "wgzuLEdHcO0",
+      "title": "AWS to GCP sans service account keys!! - Workload Identity Federation",
+      "duration": 896
+    },
+    {
+      "id": "gDhQjJvew0c",
+      "title": "Learn Google Cloud for FREE - Exclusive early access!!",
+      "duration": 174
+    },
+    {
+      "id": "9_joEtNHTqU",
+      "title": "Learn Google Cloud for FREE - Data Engineering - Early access!! #shorts",
+      "duration": 59
+    },
+    {
+      "id": "wlnrXBodkB4",
+      "title": "GKE Private Cluster Demo with Authorized Networks Enabled",
+      "duration": 655
+    },
+    {
+      "id": "xaZgY4Spvbw",
+      "title": "How did I Fail GCP DevOps Pro exam: 9 key concepts you need to know",
+      "duration": 459
+    },
+    {
+      "id": "mJcZl185nJI",
+      "title": "Important Concepts to pass Professional Cloud DevOps Engineer #shorts",
+      "duration": 59
+    },
+    {
+      "id": "zRF5uTWXV8Y",
+      "title": "Access Google Cloud from GitHub Action Sans Keys - Workload Identity Federation",
+      "duration": 618
+    },
+    {
+      "id": "v8p5LjDFs6s",
+      "title": "Associate Cloud Engineer New Format is fantastic!!",
+      "duration": 382
+    },
+    {
+      "id": "QM611eyKw7E",
+      "title": "Google Cloud infrastructure Manager - Managed Terraform Service",
+      "duration": 960
+    },
+    {
+      "id": "OYoDzjXbvlA",
+      "title": "RBAC in Google Kubernetes Engine",
+      "duration": 785
+    },
+    {
+      "id": "oJ7LBaeElLE",
+      "title": "Learn Google Cloud Fundamentals for Free with Labs!!! #cloudengineer #cloudengineering #devops",
+      "duration": 44
+    },
+    {
+      "id": "Rqq3HMRve80",
+      "title": "Use GenAI to perform DevOps automation in Google Cloud",
+      "duration": 570
+    },
+    {
+      "id": "sTWIlsfcUME",
+      "title": "Ace Your GCP Architect Exam with This Mountkirk Case Study Breakdown!",
+      "duration": 1139
+    },
+    {
+      "id": "jNb2CFsHjsY",
+      "title": "Stop Struggling—The Easiest Way to Get Secure GCP Access from GitHub! | Workload Identity Federation",
+      "duration": 731
+    },
+    {
+      "id": "JL0vRjY2xeY",
+      "title": "How I Passed the GCP Cloud Architect Beta Exam: AI Use Cases & Study Tips",
+      "duration": 339
+    },
+    {
+      "id": "i_1FY4c-zDU",
+      "title": "Control Google Compute Engine with MCP Server (Hands-On Demo)",
+      "duration": 530
+    }
+  ]
+}

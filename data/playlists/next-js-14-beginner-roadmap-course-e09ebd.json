@@ -1,0 +1,40 @@
+{
+  "courseId": "next-js-14-beginner-roadmap-course-e09ebd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuBH7pax5p75JDNblo8rpl00",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:13.053Z",
+  "title": "Next.js 15 Beginner Roadmap & Course 🔥",
+  "channel": "Coding in Flow",
+  "videos": [
+    {
+      "id": "siTUv1L9ymM",
+      "title": "React Beginner Course 2025 (Vite, Tailwind CSS, TypeScript)",
+      "duration": 6259
+    },
+    {
+      "id": "fqfer6xMp2A",
+      "title": "The Most Efficient Next.JS 14 Beginner Tutorial (TypeScript, App Router, React Server Components)",
+      "duration": 10381
+    },
+    {
+      "id": "wTGVHLyV09M",
+      "title": "SEO in Next.js - The Ultimate Guide (Metadata, Sitemap, Robots, Google Search Console, Caching)",
+      "duration": 3734
+    },
+    {
+      "id": "XD5FpbVpWzk",
+      "title": "Learn Next.js 14 Server Actions With This One Project (UseFormStatus, UseFormState, Error Handling)",
+      "duration": 22763
+    },
+    {
+      "id": "bMYZSi_LZ2w",
+      "title": "Next-Auth V5 Tutorial (OAuth, Email, Server Actions, Server-Side Auth, Client-Side Auth, Roles)",
+      "duration": 6329
+    },
+    {
+      "id": "ffdtaIMCuE0",
+      "title": "Get My Full-Stack NextJS with ExpressJS and TypeScript Course",
+      "duration": 2064
+    }
+  ]
+}

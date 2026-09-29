@@ -1,0 +1,345 @@
+{
+  "courseId": "laravel-9-tutorial-in-hindi-c31443",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV44dF7G_uPK_9ZHCQon15flp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:44.400Z",
+  "title": "Laravel 9 tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "DV-gPtVD5pE",
+      "title": "laravel 9 tutorial in Hindi #1 what is Laravel",
+      "duration": 660
+    },
+    {
+      "id": "dJo7zVycSF8",
+      "title": "Laravel 9 tutorial in Hindi #2 Prerequisites | Important points before start with Laravel",
+      "duration": 656
+    },
+    {
+      "id": "YdQ0oCZsH0Y",
+      "title": "Laravel 9 tutorial in Hindi #3 What is MVC in laravel",
+      "duration": 357
+    },
+    {
+      "id": "kNjuSxeF6Rc",
+      "title": "Laravel 9 tutorial in Hindi #4 install Xampp | download PHP and MySql",
+      "duration": 339
+    },
+    {
+      "id": "7qvVQdAsCfk",
+      "title": "Laravel 9 tutorial in Hindi #5 laravel composer install | What is Composer",
+      "duration": 523
+    },
+    {
+      "id": "azfcW8wI1v0",
+      "title": "Laravel 9 tutorial in Hindi #6 Install Laravel  | Create Laravel Application",
+      "duration": 389
+    },
+    {
+      "id": "1nIWPEuHEvo",
+      "title": "Laravel 8 tutorial in Hindi # Folder and file structure",
+      "duration": 516
+    },
+    {
+      "id": "Jbq-2SjR7JY",
+      "title": "Laravel 8 tutorial in hindi # Make first file",
+      "duration": 310
+    },
+    {
+      "id": "_QUEEJNzRaw",
+      "title": "Laravel 8 tutorial in Hindi # Routing with example",
+      "duration": 673
+    },
+    {
+      "id": "M_XM0XxdVS4",
+      "title": "Laravel 8 tutorial in Hindi - Controller",
+      "duration": 430
+    },
+    {
+      "id": "a-fF0FeIfnw",
+      "title": "Laravel 8 tutorial in Hindi # Component",
+      "duration": 632
+    },
+    {
+      "id": "acAwfifo978",
+      "title": "Laravel 8 tutorial in Hindi # View",
+      "duration": 626
+    },
+    {
+      "id": "_Wz3fxQMFkE",
+      "title": "Laravel 9 tutorial in Hindi # URL generation in laravel",
+      "duration": 787
+    },
+    {
+      "id": "0xfwHXTL0SM",
+      "title": "Laravel 8 tutorial in Hindi # Blade Template",
+      "duration": 840
+    },
+    {
+      "id": "trA41EWqfEc",
+      "title": "Laravel 8 tutorial in Hindi -  Blade Template | part 2",
+      "duration": 439
+    },
+    {
+      "id": "M6WKqBvhENo",
+      "title": "Laravel 8 tutorial in Hindi - Make Html form and Get Value",
+      "duration": 636
+    },
+    {
+      "id": "m0HGQApVpMg",
+      "title": "Laravel 9 tutorial in Hindi # Add bootstrap in Laravel  #laravel9",
+      "duration": 559
+    },
+    {
+      "id": "VY2Zu-wrTys",
+      "title": "Laravel 8 tutorial in Hindi - What is middleware",
+      "duration": 629
+    },
+    {
+      "id": "jHsexRpZb88",
+      "title": "Laravel 8 tutorial in Hindi - Group middleware",
+      "duration": 460
+    },
+    {
+      "id": "pF3wTQ31jM8",
+      "title": "Laravel 8 tutorial in Hindi - Route middleware",
+      "duration": 389
+    },
+    {
+      "id": "NOnvA1wV6wM",
+      "title": "Laravel 8 tutorial in Hindi - connect with Database",
+      "duration": 486
+    },
+    {
+      "id": "Km85U-rXBCY",
+      "title": "Laravel 8 tutorial in Hindi - Model",
+      "duration": 572
+    },
+    {
+      "id": "-hjnpS0dLik",
+      "title": "Laravel 8 tutorial in Hindi - Http Client",
+      "duration": 679
+    },
+    {
+      "id": "hmhD-owh14o",
+      "title": "Laravel 8 tutorial in Hindi - Http Request Methods | Post | Put | Patch",
+      "duration": 946
+    },
+    {
+      "id": "1d75lUv8I7Y",
+      "title": "Laravel 8 tutorial in Hindi - Flash Session | Example",
+      "duration": 710
+    },
+    {
+      "id": "HOZfVe3AtxU",
+      "title": "Laravel 8 tutorial in Hindi - Session | with login example",
+      "duration": 767
+    },
+    {
+      "id": "g06fHahADj0",
+      "title": "Laravel 8 tutorial in Hindi - File Upload",
+      "duration": 452
+    },
+    {
+      "id": "ytuQ8oezLDw",
+      "title": "Laravel 8 tutorial - Localization | locale",
+      "duration": 790
+    },
+    {
+      "id": "H2dB6Hw23jI",
+      "title": "Laravel 8 tutorial in Hindi - Show List from Database Table",
+      "duration": 597
+    },
+    {
+      "id": "D4eSS7pOEBU",
+      "title": "Laravel 8 tutorial in Hindi - Pagination with Database",
+      "duration": 516
+    },
+    {
+      "id": "68ORnUuQBPQ",
+      "title": "Laravel 8 tutorial in Hindi - Save Data in Database",
+      "duration": 625
+    },
+    {
+      "id": "YVoNn8i84XU",
+      "title": "Laravel 8 tutorial in Hindi - Delete Data in Database",
+      "duration": 698
+    },
+    {
+      "id": "2m-Qm1W3lhc",
+      "title": "Laravel 8 tutorial in Hindi - Update Data in Database",
+      "duration": 709
+    },
+    {
+      "id": "KGAX0oshsB4",
+      "title": "Laravel 8 tutorial in Hindi - Query Builder",
+      "duration": 715
+    },
+    {
+      "id": "UkzxwGw39Us",
+      "title": "Laravel 8 tutorial in Hindi - Aggregate methods | sum,avg,min,max etc",
+      "duration": 373
+    },
+    {
+      "id": "XNJM-GD6anU",
+      "title": "Laravel 8 tutorial in Hindi - Joins",
+      "duration": 640
+    },
+    {
+      "id": "vBrKZeWmqPU",
+      "title": "Laravel 11 tutorial in Hindi - Migration",
+      "duration": 393
+    },
+    {
+      "id": "_AEN9An_lNs",
+      "title": "Laravel 11 tutorial in Hindi - Important Migration command for interview",
+      "duration": 545
+    },
+    {
+      "id": "kQwTVqXDBFw",
+      "title": "Laravel 8 tutorial in Hindi # jetstrem tutorial",
+      "duration": 592
+    },
+    {
+      "id": "HczIzzgSMLY",
+      "title": "Laravel 8 tutorial in Hindi - Accessors",
+      "duration": 381
+    },
+    {
+      "id": "M36rNcX8hJ4",
+      "title": "Laravel 8 tutorial in Hindi - Mutator",
+      "duration": 577
+    },
+    {
+      "id": "QOdSoK9gL7E",
+      "title": "Laravel 8 tutorial in Hindi - One to One Relation",
+      "duration": 691
+    },
+    {
+      "id": "VPS5gl_EIkI",
+      "title": "Laravel 8 tutorial in Hindi - One to Many Relation",
+      "duration": 490
+    },
+    {
+      "id": "H_IuQUtbWdg",
+      "title": "Laravel 11 tutorial in Hindi #65 Fluent Strings",
+      "duration": 411
+    },
+    {
+      "id": "NPWSH7YuNI8",
+      "title": "Laravel 11 tutorial in Hindi #66 Route Model Binding",
+      "duration": 406
+    },
+    {
+      "id": "cNJN8D-aBAk",
+      "title": "Laravel 8 tutorial in Hindi - What is API | introduction",
+      "duration": 333
+    },
+    {
+      "id": "k23eKfz5YqI",
+      "title": "Laravel 8 tutorial in Hindi - Make First API",
+      "duration": 478
+    },
+    {
+      "id": "jGCgMj15L04",
+      "title": "Laravel 8 tutorial in hindi - get data with API | get method",
+      "duration": 351
+    },
+    {
+      "id": "Nk3z_uBmCh0",
+      "title": "Laravel 8 tutorial in Hindi - get API with params",
+      "duration": 261
+    },
+    {
+      "id": "KXBSbA19mIs",
+      "title": "Laravel 8 tutorial in Hindi -  Post method API",
+      "duration": 598
+    },
+    {
+      "id": "-JAhw9gVsfM",
+      "title": "Laravel 8 tutorial in Hindi -  Put method API",
+      "duration": 525
+    },
+    {
+      "id": "sfLKzlQD47c",
+      "title": "Laravel 8 tutorial in Hindi -  Delete method API",
+      "duration": 448
+    },
+    {
+      "id": "hJpDRA18-9A",
+      "title": "Laravel 8 tutorial in Hindi -  Search API",
+      "duration": 350
+    },
+    {
+      "id": "9z_j08ww3as",
+      "title": "Laravel 8 tutorial in Hindi -  API Validation",
+      "duration": 662
+    },
+    {
+      "id": "WQEoeAqkeEM",
+      "title": "Laravel 8 tutorial in Hindi -  API with Resource",
+      "duration": 470
+    },
+    {
+      "id": "_2-8LaT4inA",
+      "title": "Laravel 8 tutorial in Hindi -  API authentication with Sanctum",
+      "duration": 956
+    },
+    {
+      "id": "RM7vopsVLUg",
+      "title": "Laravel 8 tutorial in Hindi - Make Custom Command",
+      "duration": 449
+    },
+    {
+      "id": "4gNBD44UFxw",
+      "title": "Laravel 8 tutorial in Hindi - Multiple Database Connection",
+      "duration": 643
+    },
+    {
+      "id": "kYvsJZOVNFE",
+      "title": "Laravel 8 tutorial -  Upload file with API",
+      "duration": 382
+    },
+    {
+      "id": "T4xzqlvSHAE",
+      "title": "Laravel 8 Interview Questions in Hindi",
+      "duration": 529
+    },
+    {
+      "id": "HlhXC1LOblY",
+      "title": "Laravel tutorial - Deploy or upload project on CPanel  in hindi",
+      "duration": 342
+    },
+    {
+      "id": "xY6swlpCMjA",
+      "title": "Laravel 9 tutorial # New Features in Hindi",
+      "duration": 992
+    },
+    {
+      "id": "gwoYTZQITyI",
+      "title": "Laravel 9 tutorial in Hindi # what is Slots | example | slots update in laravel 9",
+      "duration": 829
+    },
+    {
+      "id": "C7jZfGn5xI0",
+      "title": "Laravel 9 tutorial in Hindi # Controller Route Groups | new feature",
+      "duration": 607
+    },
+    {
+      "id": "DchH7kJ_voY",
+      "title": "Laravel 9 tutorial in Hindi # Inline Blade template | laravel new feature",
+      "duration": 477
+    },
+    {
+      "id": "KfVE5ZKv7Tk",
+      "title": "Laravel 8 - 7 tutorial in Hindi- Markdown Mail Template",
+      "duration": 305
+    },
+    {
+      "id": "MFS-a-ZSydw",
+      "title": "What's the Difference Between action=\"/path\" and action=\"path\" in HTML Forms?",
+      "duration": 106
+    }
+  ]
+}

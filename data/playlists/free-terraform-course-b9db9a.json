@@ -1,0 +1,40 @@
+{
+  "courseId": "free-terraform-course-b9db9a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlfy9GnSVerQzwhT644uP14iqZa0ZC4pn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:29.941Z",
+  "title": "Free Terraform Course",
+  "channel": "TrainWithShubham",
+  "videos": [
+    {
+      "id": "rnNkRwD2yEc",
+      "title": "FREE Terraform Course for our DevOps Engineers Community (Hindi)",
+      "duration": 200
+    },
+    {
+      "id": "965CaSveIEI",
+      "title": "Terraform For Devops Engineers Day 1 [hindi]",
+      "duration": 6567
+    },
+    {
+      "id": "kqJIKjkJ1Lo",
+      "title": "Terraform States and Variables Explained - Day 2 [Hindi]",
+      "duration": 5117
+    },
+    {
+      "id": "VyB_vETjvT0",
+      "title": "Terraform se AWS EC2 instance bana diya // Terraform course Day-3 (Hindi)",
+      "duration": 4723
+    },
+    {
+      "id": "Gpawyi4xO6c",
+      "title": "Terraform for_each and count with Live AWS Demo (hindi)",
+      "duration": 5481
+    },
+    {
+      "id": "2ZwkX5Kl7vs",
+      "title": "Terraform Remote Backends and State File Locking Tutorial for DevOps (Hindi)",
+      "duration": 1317
+    }
+  ]
+}

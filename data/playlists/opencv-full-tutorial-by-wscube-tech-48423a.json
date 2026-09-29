@@ -1,0 +1,60 @@
+{
+  "courseId": "opencv-full-tutorial-by-wscube-tech-48423a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGelmHXLZ0ukHdb-jjvG6rRm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:22.870Z",
+  "title": "OpenCV Full Tutorial by WsCube Tech",
+  "channel": "WsCube Tech",
+  "videos": [
+    {
+      "id": "MVkny_XLK_U",
+      "title": "OpenCV Python Course for Beginners | Image Processing Using Python Full Tutorial",
+      "duration": 51352
+    },
+    {
+      "id": "a3F9SNQKyiQ",
+      "title": "Advanced Computer Vision with Python Tutorial 😮🔥",
+      "duration": 575
+    },
+    {
+      "id": "ur8IHlbs3oM",
+      "title": "What is OpenCV with Python🐍 | Complete Tutorial [Hindi]🔥",
+      "duration": 627
+    },
+    {
+      "id": "FwCUViqu6LA",
+      "title": "How to Read and Show an Image using OpenCV? | Python Project 🐍",
+      "duration": 792
+    },
+    {
+      "id": "6t0RWqAyX_o",
+      "title": "Show Multiple Images and Slide Shows using OpenCV 😮 | Computer Visions | OpenCV with Python Tutorial",
+      "duration": 1676
+    },
+    {
+      "id": "7WhqH-Z6DqI",
+      "title": "Put Text Over an Image using Open CV | Python Advanced Project 😮🔥",
+      "duration": 927
+    },
+    {
+      "id": "-Fq8L7NTDyU",
+      "title": "Drawing Lines and Rectangles Over Image - OpenCV Python Tutorial🔥",
+      "duration": 1108
+    },
+    {
+      "id": "IqcHNjhvb9w",
+      "title": "How to Draw Circles and Ellipses on Image - OpenCV Python Tutorial😮",
+      "duration": 1147
+    },
+    {
+      "id": "hlLQghHGn1c",
+      "title": "How to Draw POLYGON on Image - OpenCV Python Tutorial😮",
+      "duration": 557
+    },
+    {
+      "id": "JZZr0PjZsIk",
+      "title": "Face Recognition Python Project | Face Detection Using OpenCV Python - Complete Tutorial",
+      "duration": 1159
+    }
+  ]
+}

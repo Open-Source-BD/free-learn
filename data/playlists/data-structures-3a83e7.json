@@ -1,0 +1,455 @@
+{
+  "courseId": "data-structures-3a83e7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:29.705Z",
+  "title": "Data Structures",
+  "channel": "RobEdwards",
+  "videos": [
+    {
+      "id": "zgCnMvvw6Oo",
+      "title": "Welcome to Data Structures",
+      "duration": 30
+    },
+    {
+      "id": "IgeJmTKQlKs",
+      "title": "Complexity 1 Introduction to complexity",
+      "duration": 758
+    },
+    {
+      "id": "vsgrJrphEHo",
+      "title": "Complexity 2 Big Oh Notation",
+      "duration": 334
+    },
+    {
+      "id": "66ovUEE0bQI",
+      "title": "Complexity 3 Some examples of big-Oh notation",
+      "duration": 495
+    },
+    {
+      "id": "Bc3UUHocxt0",
+      "title": "Java 1 ObjectOrientedProgramming",
+      "duration": 798
+    },
+    {
+      "id": "HtahYOYb7zM",
+      "title": "Java 2 ComparableGenerics",
+      "duration": 796
+    },
+    {
+      "id": "_dy9JnEXekU",
+      "title": "Java 3 Introduction to Generic Programming",
+      "duration": 673
+    },
+    {
+      "id": "DjJRWroA168",
+      "title": "Java 4 Parameterized Types",
+      "duration": 672
+    },
+    {
+      "id": "PN-E2QkgY84",
+      "title": "Java 5 Autoboxing",
+      "duration": 141
+    },
+    {
+      "id": "i59ZamvhmaU",
+      "title": "Java 6 Exceptions",
+      "duration": 397
+    },
+    {
+      "id": "-EDUhPg6930",
+      "title": "LinkedList 1 Introduction",
+      "duration": 493
+    },
+    {
+      "id": "Dfu7PeZ3v2Q",
+      "title": "LinkedList 2 Nodes and Size",
+      "duration": 531
+    },
+    {
+      "id": "rxpUg4M_jWo",
+      "title": "LinkedList 3 Boundary Conditions",
+      "duration": 206
+    },
+    {
+      "id": "yMoHuOZzMpk",
+      "title": "LinkedList 4 addFirst()",
+      "duration": 624
+    },
+    {
+      "id": "Pka_xr87Krg",
+      "title": "LinkedList 5 addLast()",
+      "duration": 1137
+    },
+    {
+      "id": "BlUFXfGzm0Y",
+      "title": "LinkedList 6 removeFirst()",
+      "duration": 685
+    },
+    {
+      "id": "VGlcF3VQ-Pg",
+      "title": "LinkedList 7 removeLast()",
+      "duration": 718
+    },
+    {
+      "id": "xo9_PkC5Ml0",
+      "title": "LinkedList 8 remove and find",
+      "duration": 1373
+    },
+    {
+      "id": "GIE2XiztuXg",
+      "title": "LinkedList 9 peek()",
+      "duration": 365
+    },
+    {
+      "id": "XUiRmbBn71w",
+      "title": "LinkedList 10 Testing the list",
+      "duration": 416
+    },
+    {
+      "id": "bx0ebSGUKto",
+      "title": "LinkedList 11 Iterators",
+      "duration": 1236
+    },
+    {
+      "id": "v8xyoI11PsU",
+      "title": "LinkedList 12 Double Linked Lists",
+      "duration": 731
+    },
+    {
+      "id": "7ELt4-z4YeI",
+      "title": "LinkedList 13 Circular Linked Lists",
+      "duration": 454
+    },
+    {
+      "id": "sHgHZdZEjz4",
+      "title": "Stacks and Queues 3 Using arrays to write stacks and queues",
+      "duration": 1049
+    },
+    {
+      "id": "uW8-HkmNq4Q",
+      "title": "Hashes 1 Introduction",
+      "duration": 936
+    },
+    {
+      "id": "XYmI-T-JJso",
+      "title": "Hashes 2  Hash Functions",
+      "duration": 418
+    },
+    {
+      "id": "YIoZQwWJIDA",
+      "title": "Hashes 3 Collisions",
+      "duration": 304
+    },
+    {
+      "id": "jtMwp0FqEcg",
+      "title": "Hashes 4  Hash Functions for Strings",
+      "duration": 676
+    },
+    {
+      "id": "-ftpXclGT4c",
+      "title": "Hashes 5  Compressing numbers to fit the size of the array",
+      "duration": 216
+    },
+    {
+      "id": "1JZMb3D75PY",
+      "title": "Hashes 6  Make an integer positive",
+      "duration": 612
+    },
+    {
+      "id": "pMKUrv1NksA",
+      "title": "Hashes 7 LoadFactor()",
+      "duration": 160
+    },
+    {
+      "id": "yA8bDfWj0UU",
+      "title": "Hashes 8 Open Addressing",
+      "duration": 646
+    },
+    {
+      "id": "nVu_OnyGk6U",
+      "title": "Hashes 9  Chaining",
+      "duration": 581
+    },
+    {
+      "id": "7PuZOsxe-mo",
+      "title": "Hashes 10   Rehashing",
+      "duration": 604
+    },
+    {
+      "id": "fJfzmZ6eKjY",
+      "title": "Hashes 11 the hash class",
+      "duration": 803
+    },
+    {
+      "id": "NVqY9oDz7RU",
+      "title": "Hashes 12 Review of the hash element inner class",
+      "duration": 426
+    },
+    {
+      "id": "VtU1EQPIS0w",
+      "title": "Hashes 13  Constructor for a chained hash.",
+      "duration": 640
+    },
+    {
+      "id": "CQPy29vNa1M",
+      "title": "Hashes 14 Review of constructors",
+      "duration": 433
+    },
+    {
+      "id": "wyxej4siMyI",
+      "title": "Hashes 15 add() and remove() methods",
+      "duration": 578
+    },
+    {
+      "id": "jygDV6dwL74",
+      "title": "Hashes 16  getValue()",
+      "duration": 298
+    },
+    {
+      "id": "AA0KuKV3ARU",
+      "title": "Hashes 17   resize",
+      "duration": 615
+    },
+    {
+      "id": "2LuVyqAC0ZA",
+      "title": "Hashes 18   KeyIterator",
+      "duration": 701
+    },
+    {
+      "id": "lhTCSGRAlXI",
+      "title": "Trees  and heaps 1 Introduction",
+      "duration": 253
+    },
+    {
+      "id": "BzQGPA_v-vc",
+      "title": "Heaps 1 Introduction and Tree levels",
+      "duration": 344
+    },
+    {
+      "id": "7KhYwHfx40U",
+      "title": "Heaps 2 Add Remove",
+      "duration": 357
+    },
+    {
+      "id": "6i15PI_VP-E",
+      "title": "Heaps 3 TrickleUp",
+      "duration": 805
+    },
+    {
+      "id": "jHZu1GV27tI",
+      "title": "Heaps 4 TrickleDown",
+      "duration": 659
+    },
+    {
+      "id": "LbB357_RwlY",
+      "title": "Heaps 5 HeapSort",
+      "duration": 523
+    },
+    {
+      "id": "Lta807sEOQY",
+      "title": "Trees   2 Complete and Full",
+      "duration": 112
+    },
+    {
+      "id": "F2SksNIg0os",
+      "title": "Trees  3 Traversal",
+      "duration": 536
+    },
+    {
+      "id": "V9oTubnyb0Y",
+      "title": "Trees 4 Expression Trees",
+      "duration": 215
+    },
+    {
+      "id": "MDERPc4eU-M",
+      "title": "Trees  5 Node Class",
+      "duration": 338
+    },
+    {
+      "id": "eg7wGS9ySYs",
+      "title": "Trees   6 recursive add",
+      "duration": 816
+    },
+    {
+      "id": "TNsfoKv8xvA",
+      "title": "Trees 7 Contains",
+      "duration": 317
+    },
+    {
+      "id": "YeSPhuU-QtE",
+      "title": "Trees 8 Remove",
+      "duration": 677
+    },
+    {
+      "id": "M0Y3kDuyUCU",
+      "title": "Trees 9 Introduction to rotations",
+      "duration": 512
+    },
+    {
+      "id": "NczBLeco6XA",
+      "title": "Trees 10 Rotations",
+      "duration": 494
+    },
+    {
+      "id": "Y-nmgO8ALjM",
+      "title": "Trees 11 Coding Rotations",
+      "duration": 752
+    },
+    {
+      "id": "-9sHvAnLN_w",
+      "title": "AVL 1 Introduction",
+      "duration": 674
+    },
+    {
+      "id": "91aebuLdWok",
+      "title": "AVL Tree 2 Nodes",
+      "duration": 184
+    },
+    {
+      "id": "uTLiAbHH8xI",
+      "title": "AVL Tree 3 Adding a node",
+      "duration": 215
+    },
+    {
+      "id": "vYkgmdzhBoI",
+      "title": "AVL Tree 4 recursive add for an AVL tree",
+      "duration": 329
+    },
+    {
+      "id": "iNy6c4Q9Umw",
+      "title": "AVL Tree 5 checking balance in an AVL tree",
+      "duration": 254
+    },
+    {
+      "id": "wn1tc5SAGZk",
+      "title": "AVL Tree 6 Rebalancing AVL trees",
+      "duration": 333
+    },
+    {
+      "id": "7m94k2Qhg68",
+      "title": "AVL Tree 7 complete example of adding data to an AVL tree.",
+      "duration": 1247
+    },
+    {
+      "id": "nMExd4DthdA",
+      "title": "Red Black Tree 1 The  Rules",
+      "duration": 490
+    },
+    {
+      "id": "v6eDztNiJwo",
+      "title": "Red Black Trees 2 Example of building a tree",
+      "duration": 1065
+    },
+    {
+      "id": "-qjrcxVmf2Q",
+      "title": "Red Black Tree 3 - Classes",
+      "duration": 396
+    },
+    {
+      "id": "p8TSYkDz0eI",
+      "title": "Red Black Tree 4 - Add methods",
+      "duration": 628
+    },
+    {
+      "id": "pJWAi6u7Nq4",
+      "title": "Red Black Tree 5 checking violations in the tree",
+      "duration": 822
+    },
+    {
+      "id": "IuG3WSaDumc",
+      "title": "Red Black Tree 6 The Rotate method",
+      "duration": 480
+    },
+    {
+      "id": "fpESZSHrsp0",
+      "title": "Red Black Tree 7 left rotate",
+      "duration": 810
+    },
+    {
+      "id": "4I_vnGpS-Io",
+      "title": "Red Black Tree 8 leftRightRotate",
+      "duration": 192
+    },
+    {
+      "id": "FOTgPZYYDyQ",
+      "title": "Red Black Tree 9 height",
+      "duration": 245
+    },
+    {
+      "id": "ikvNJkKJr_o",
+      "title": "Red Black Tree 10 number of black nodes",
+      "duration": 203
+    },
+    {
+      "id": "H3FCoYQMKvI",
+      "title": "Sorts 1 Introduction to sorts",
+      "duration": 509
+    },
+    {
+      "id": "fgYlVyrt1vE",
+      "title": "Sorts 2 Selection Sort",
+      "duration": 246
+    },
+    {
+      "id": "eTvQIbB-AuE",
+      "title": "Sorts 3 Insertion Sort",
+      "duration": 323
+    },
+    {
+      "id": "3U2vTqaL7uE",
+      "title": "Sorts 4 Insertion Sort Code",
+      "duration": 210
+    },
+    {
+      "id": "ddeLSDsYVp8",
+      "title": "Sorts 5 Shell Sort",
+      "duration": 413
+    },
+    {
+      "id": "qdv3i6X0PiQ",
+      "title": "Sorts 6 Merge Sort",
+      "duration": 408
+    },
+    {
+      "id": "jr10xrAFSEg",
+      "title": "Sorts 7 Merge Sort Code",
+      "duration": 557
+    },
+    {
+      "id": "ZHVk2blR45Q",
+      "title": "Sorts 8 Quick Sort",
+      "duration": 552
+    },
+    {
+      "id": "auclbmnm4iA",
+      "title": "Sorts 9 Quick Sort Worst Case",
+      "duration": 165
+    },
+    {
+      "id": "4IE3wIXFVPc",
+      "title": "Sorts 10 Quick Sort Code",
+      "duration": 407
+    },
+    {
+      "id": "Uey0-GOMtT8",
+      "title": "Sorts 11 Radix Sort",
+      "duration": 317
+    },
+    {
+      "id": "tgVitpkdkUo",
+      "title": "Sorts 12 Sort Summary",
+      "duration": 374
+    },
+    {
+      "id": "heEDL9usFgs",
+      "title": "Bloom Filters",
+      "duration": 666
+    },
+    {
+      "id": "8XJ8r_n7POY",
+      "title": "k-mer algorithms: Compare and Swap",
+      "duration": 315
+    }
+  ]
+}

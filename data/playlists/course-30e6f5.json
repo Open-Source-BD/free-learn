@@ -1,0 +1,55 @@
+{
+  "courseId": "course-30e6f5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:02.634Z",
+  "title": "গিট পরিচিতি",
+  "channel": "Learn with Hasin Hayder",
+  "videos": [
+    {
+      "id": "M2a7OQX8te4",
+      "title": "Introduction to Git Part 01: What is Git and why?",
+      "duration": 270
+    },
+    {
+      "id": "CaSsu-zpk_U",
+      "title": "Git Introduction Part 02: Initialize, Commit, Diff, and Log",
+      "duration": 643
+    },
+    {
+      "id": "SVaV6beHZE8",
+      "title": "গিট পরিচিতি ০৩: আগের কমিটে ফেরত যাওয়া, রিসেট এবং অ্যামেন্ড করা",
+      "duration": 872
+    },
+    {
+      "id": "xTVwhu8khfQ",
+      "title": "গিট পরিচিতি পর্ব ০৪: গিট স্ট্যাশ এবং ক্লিন",
+      "duration": 580
+    },
+    {
+      "id": "E58vincOmYo",
+      "title": "গিট পরিচিতি পর্ব ০৫: গিট রিমোট, পুশ  এবং পুল",
+      "duration": 547
+    },
+    {
+      "id": "CPnnQ32LYg0",
+      "title": "গিট পরিচিতি ০৬: গিটইগনোর ফাইল",
+      "duration": 256
+    },
+    {
+      "id": "ffegKkgY8dQ",
+      "title": "গিট পরিচিতি ০৭: কনফ্লিক্ট ফিক্স করা",
+      "duration": 494
+    },
+    {
+      "id": "wGZ63KZgwRs",
+      "title": "গিট পরিচিতি ০৮: গিট কমান্ডের অ্যালিয়াস তৈরী করা",
+      "duration": 396
+    },
+    {
+      "id": "lYq_3FP0hCw",
+      "title": "Keeping your forked repository up to date on GitHub",
+      "duration": 372
+    }
+  ]
+}

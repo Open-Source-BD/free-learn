@@ -1,0 +1,60 @@
+{
+  "courseId": "express-js-crash-course-in-bangla-cb225b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:49.273Z",
+  "title": "Express Js Crash Course in Bangla",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "rqgarmA2rqk",
+      "title": "1/10 Express JS Crash Course Intro in Bangla | NodeJS | Twinkle Cats",
+      "duration": 422
+    },
+    {
+      "id": "1JYJVHZdfwI",
+      "title": "2/10 ExpressJS CC - Setup Our Application  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 702
+    },
+    {
+      "id": "bMlyJ7TTD2U",
+      "title": "3/10 ExpressJS CC - Using Template Engine  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 336
+    },
+    {
+      "id": "cgExa3D8fHc",
+      "title": "4/10 ExpressJS CC - Create Poll Model  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 193
+    },
+    {
+      "id": "RaJ6aAHO270",
+      "title": "5/10 ExpressJS CC - Create Poll Form  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 752
+    },
+    {
+      "id": "gthqlRX1jH8",
+      "title": "6/10 ExpressJS CC - Create Poll Controller  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 734
+    },
+    {
+      "id": "QFDgaiMvshw",
+      "title": "7/10 ExpressJS CC - Show List of Polls  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 344
+    },
+    {
+      "id": "pke083VKUws",
+      "title": "8/10 ExpressJS CC - Single Poll Template  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 618
+    },
+    {
+      "id": "1kot2I5t9Ik",
+      "title": "9/10 ExpressJS CC - Create Opinion Controller  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 498
+    },
+    {
+      "id": "aR9THp5stFI",
+      "title": "10/10 ExpressJS CC - Generate Result  | NodeJS | Twinkle Cats | Bangla Tutorial",
+      "duration": 453
+    }
+  ]
+}

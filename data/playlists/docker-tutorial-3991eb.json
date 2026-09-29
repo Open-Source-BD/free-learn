@@ -1,0 +1,20 @@
+{
+  "courseId": "docker-tutorial-3991eb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:39.985Z",
+  "title": "Docker Tutorial",
+  "channel": "Ali Hossain",
+  "videos": [
+    {
+      "id": "urisGIi_pmE",
+      "title": "Ultimate Docker Crash Course |  Docker Tutorial for Beginners",
+      "duration": 3579
+    },
+    {
+      "id": "pT08xKClJP0",
+      "title": "Docker with WordPress  | A practical guide for beginners",
+      "duration": 2324
+    }
+  ]
+}

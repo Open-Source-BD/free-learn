@@ -1,0 +1,300 @@
+{
+  "courseId": "terraform-tutorials-for-beginners-in-hindi-d1fcb8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:38.307Z",
+  "title": "Terraform Tutorials For Beginners In Hindi - Gaurav Sharma",
+  "channel": "Gaurav Sharma",
+  "videos": [
+    {
+      "id": "5FJE9HPS85c",
+      "title": "1. Terraform (In Hindi) - Introduction to Playlist",
+      "duration": 240
+    },
+    {
+      "id": "-9h2NZ6WHi4",
+      "title": "2. Terraform (In Hindi) - What/Why Terraform - Ansible Vs Terraform",
+      "duration": 591
+    },
+    {
+      "id": "bFgymnZk9O4",
+      "title": "3. Terraform (In Hindi) - How to Install Terraform in Windows",
+      "duration": 294
+    },
+    {
+      "id": "1lbMFxSPcr0",
+      "title": "4. Terraform (In Hindi) - How to Install Terraform in Linux",
+      "duration": 318
+    },
+    {
+      "id": "GE8U_l8EeUA",
+      "title": "5. Terraform (In Hindi) - Hello World Terraform Configurations in Windows",
+      "duration": 339
+    },
+    {
+      "id": "DCJwRiNOvCk",
+      "title": "6. Terraform (In Hindi) - Hello World Terraform Configurations in Linux",
+      "duration": 162
+    },
+    {
+      "id": "JLMoke2TksM",
+      "title": "7. Terraform (In Hindi) - Hello World Terraform Configurations in JSON Format",
+      "duration": 226
+    },
+    {
+      "id": "s8JRZ7k2Ihs",
+      "title": "8. Terraform (In Hindi) - Multiple Block in Single Terraform File",
+      "duration": 232
+    },
+    {
+      "id": "asRd3uctpiE",
+      "title": "9. Terraform (In Hindi) - Multiple Terraform file in Same Directory",
+      "duration": 291
+    },
+    {
+      "id": "xtepwIm1h80",
+      "title": "10. Terraform (In Hindi) - Variable",
+      "duration": 303
+    },
+    {
+      "id": "npQjdyzdzqA",
+      "title": "11. Terraform (In Hindi) - Pass variable value from command",
+      "duration": 135
+    },
+    {
+      "id": "u3MS8pc0H1Y",
+      "title": "12. Terraform (In Hindi) - Multiple variable",
+      "duration": 183
+    },
+    {
+      "id": "0pzLRCpbuiY",
+      "title": "13. Terraform (In Hindi) - Variable Types",
+      "duration": 178
+    },
+    {
+      "id": "gHk2BznmH50",
+      "title": "14. Terraform (In Hindi) - List Variable",
+      "duration": 174
+    },
+    {
+      "id": "eV2PjxAwXHk",
+      "title": "15. Terraform (In Hindi) - Functions",
+      "duration": 543
+    },
+    {
+      "id": "yKkYIRC-Lso",
+      "title": "16. Terraform (In Hindi) - Map Variable",
+      "duration": 238
+    },
+    {
+      "id": "Vw2QLxxxgRQ",
+      "title": "17. Terraform (In Hindi) - How to use map variable Dynamically",
+      "duration": 193
+    },
+    {
+      "id": "htVGiIBtY58",
+      "title": "18. Terraform (In Hindi) - TFVARs Files in terraform",
+      "duration": 278
+    },
+    {
+      "id": "Jyilxmlxi-4",
+      "title": "19. Terraform (In Hindi) - TFVARs Files With Different Name ( custom TFVARs Files )",
+      "duration": 216
+    },
+    {
+      "id": "c0woivHFOPg",
+      "title": "20. Terraform (In Hindi): Read Environment Variable in Terraform Configurations",
+      "duration": 234
+    },
+    {
+      "id": "Ynh3CprdmC8",
+      "title": "21. Terraform (In Hindi): Terraform Core and Terraform Plugin",
+      "duration": 428
+    },
+    {
+      "id": "hTEaiC4rDCs",
+      "title": "22. Terraform (In Hindi): Creating first Terraform Resource - (GitHub Repository)",
+      "duration": 812
+    },
+    {
+      "id": "dbQHjnAOzrs",
+      "title": "23. Terraform (In Hindi): Terraform Apply",
+      "duration": 151
+    },
+    {
+      "id": "kAMYCJneCAw",
+      "title": "24. Terraform (In Hindi): Terraform .tfstate file and destroy Command",
+      "duration": 409
+    },
+    {
+      "id": "QXpkPTFMN1Y",
+      "title": "25. Terraform (In Hindi): Terraform Destroy",
+      "duration": 273
+    },
+    {
+      "id": "l05Be4vcZvQ",
+      "title": "26. Terraform (In Hindi): Terraform Validate Command",
+      "duration": 280
+    },
+    {
+      "id": "6TNgdClJ0c8",
+      "title": "27. Terraform (In Hindi): Terraform Refresh",
+      "duration": 458
+    },
+    {
+      "id": "XpDWD-W2wM4",
+      "title": "28. Terraform (In Hindi): Terraform Output",
+      "duration": 243
+    },
+    {
+      "id": "sZOvmDAyTqU",
+      "title": "29. Terraform (In Hindi):  Terraform Console",
+      "duration": 149
+    },
+    {
+      "id": "b2e0LXwdE5o",
+      "title": "30. Terraform (In Hindi): Terraform fmt",
+      "duration": 131
+    },
+    {
+      "id": "7esO8pkq2Wo",
+      "title": "31. Terraform (In Hindi): Create First Resource (Manual Steps) on AWS (Create EC2 Instance On AWS)",
+      "duration": 449
+    },
+    {
+      "id": "9-z_fSYWQNo",
+      "title": "32. Terraform (In Hindi): Create First Resource on AWS using Terraform (Create EC2 Instance On AWS)",
+      "duration": 942
+    },
+    {
+      "id": "xtgkFeOV7TE",
+      "title": "33. Terraform (In Hindi):  How to Create AWS SSH Key and How to Read A File in Terraform",
+      "duration": 835
+    },
+    {
+      "id": "HD62JsBoM_k",
+      "title": "34. Terraform (In Hindi): How to Assign Key to EC2 Instance in Terraform",
+      "duration": 500
+    },
+    {
+      "id": "gv7p64J1-PM",
+      "title": "35. Terraform (In Hindi): Create a Security Group in AWS Using Terraform",
+      "duration": 357
+    },
+    {
+      "id": "VwCVP5AYUuM",
+      "title": "36. Terraform (In Hindi): Dynamic Block in Terraform",
+      "duration": 525
+    },
+    {
+      "id": "0YEfXu8ZhHw",
+      "title": "37. Terraform (In Hindi): Assign a Security to EC2 Instance using Terraform",
+      "duration": 946
+    },
+    {
+      "id": "k8R2URs3oQ4",
+      "title": "38. Terraform (In Hindi): Structure Project",
+      "duration": 559
+    },
+    {
+      "id": "-quEGkCluI0",
+      "title": "39. Terraform (In Hindi): Terraform Taint Command",
+      "duration": 625
+    },
+    {
+      "id": "FlUvHIglVD0",
+      "title": "40. Terraform (In Hindi): AWS userData using terraform ( Installing NGINX )",
+      "duration": 911
+    },
+    {
+      "id": "mmdwTz_98yA",
+      "title": "41. Terraform (In Hindi) - File Provisioner",
+      "duration": 764
+    },
+    {
+      "id": "-C_GJQRD_zU",
+      "title": "42. Terraform (In Hindi) - Connection File Provisioner",
+      "duration": 273
+    },
+    {
+      "id": "A1jjOGakQDM",
+      "title": "43. Terraform (In Hindi) - Local-Exec Provisioner",
+      "duration": 729
+    },
+    {
+      "id": "slxbSNTb5AQ",
+      "title": "44. Terraform (In Hindi) -  When in provisioners   (Local-Exec)",
+      "duration": 509
+    },
+    {
+      "id": "1HlAupz3We4",
+      "title": "45. Terraform (In Hindi) - Remote-exec Provisioner",
+      "duration": 615
+    },
+    {
+      "id": "FsMEGNxAYgE",
+      "title": "46. Terraform (In Hindi) - Datasource in Terraform",
+      "duration": 739
+    },
+    {
+      "id": "7bgjMwkV4Wk",
+      "title": "47. Terraform (In Hindi) - Use Datasource in Terraform",
+      "duration": 294
+    },
+    {
+      "id": "nwf9wxZVKrI",
+      "title": "48. Terraform (In Hindi) - Terraform Configurations",
+      "duration": 382
+    },
+    {
+      "id": "uaWvvo8Gmy0",
+      "title": "49. Terraform (In Hindi) - Terraform Graph",
+      "duration": 214
+    },
+    {
+      "id": "k1wyHezlkt4",
+      "title": "50. Terraform (In Hindi) - Terraform Workspace",
+      "duration": 349
+    },
+    {
+      "id": "I4oJoPlM-8w",
+      "title": "51. Terraform (In Hindi) - Workspace in Terraform",
+      "duration": 332
+    },
+    {
+      "id": "2E2O0X9Bcy4",
+      "title": "52. Terraform (In Hindi) - Terraform Module",
+      "duration": 587
+    },
+    {
+      "id": "OQ55XAkKzek",
+      "title": "53. Terraform (In Hindi) - Terraform Modules",
+      "duration": 638
+    },
+    {
+      "id": "qntnXhBbxAc",
+      "title": "54. Terraform (In Hindi) - Terraform Modules return Output",
+      "duration": 251
+    },
+    {
+      "id": "e4GYQxwzC7o",
+      "title": "55. Terraform (In Hindi) - Terraform Backends - Terraform s3 backend",
+      "duration": 962
+    },
+    {
+      "id": "zaKFEYtEFrE",
+      "title": "56. Terraform (In Hindi) - Terraform Migrate Backend",
+      "duration": 228
+    },
+    {
+      "id": "sjRZWK4ZSs8",
+      "title": "57. Terraform (In Hindi) - Remote Backend State Locking using S3 and DynamoDB",
+      "duration": 530
+    },
+    {
+      "id": "ubhMdGM_iwo",
+      "title": "Enroll in My Terraform Professional Course:  Introducing My Professional Course",
+      "duration": 207
+    }
+  ]
+}

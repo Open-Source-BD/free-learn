@@ -1,0 +1,100 @@
+{
+  "courseId": "astro-blog-course-59a0aa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:29.340Z",
+  "title": "Astro Blog Course",
+  "channel": "Coding in Public",
+  "videos": [
+    {
+      "id": "F2pw1C9eKXw",
+      "title": "Astro Blog Course #1 - Intro and Installation",
+      "duration": 648
+    },
+    {
+      "id": "JFHmIp58YOU",
+      "title": "Astro Blog Course #2 - Astro Basics",
+      "duration": 628
+    },
+    {
+      "id": "rK-rNRPyET0",
+      "title": "Astro Blog Course #3 - Layouts",
+      "duration": 599
+    },
+    {
+      "id": "KNtax5dHPfI",
+      "title": "Astro Blog Course #4 - CSS & styling",
+      "duration": 734
+    },
+    {
+      "id": "-d7L2n6y5PU",
+      "title": "Astro Blog Course #5 - Astro Components",
+      "duration": 1297
+    },
+    {
+      "id": "TnZ8MkddAUA",
+      "title": "Astro Blog Course #6 - Routing basics",
+      "duration": 627
+    },
+    {
+      "id": "39qi3YxyiX8",
+      "title": "Astro Blog Course #7 - Markdown layouts",
+      "duration": 1186
+    },
+    {
+      "id": "cH4SdQfoFPU",
+      "title": "Astro Blog Course #8 - Card component",
+      "duration": 855
+    },
+    {
+      "id": "Eq0j71oLsFs",
+      "title": "Astro Blog Course #9 - Filter/sort posts",
+      "duration": 880
+    },
+    {
+      "id": "qEo4NSObLwg",
+      "title": "Astro Blog Course #10 - Dynamic routes",
+      "duration": 929
+    },
+    {
+      "id": "j_kWnI8rdLA",
+      "title": "Astro Blog Course #11 - Pagination",
+      "duration": 547
+    },
+    {
+      "id": "AP2UD0wetAI",
+      "title": "Astro Blog Course #12 - Tag cloud",
+      "duration": 627
+    },
+    {
+      "id": "S3cX_zJ8_Kw",
+      "title": "Astro Blog Course #13 - Related posts",
+      "duration": 473
+    },
+    {
+      "id": "8-qm9A24U9s",
+      "title": "Astro Blog Course #14 - Build a sitemap",
+      "duration": 222
+    },
+    {
+      "id": "1Ep0gtED2wk",
+      "title": "Astro Blog Course #15 - Build an RSS feed",
+      "duration": 442
+    },
+    {
+      "id": "fPifaHiKzz4",
+      "title": "Astro Blog Course #16 - SEO basics",
+      "duration": 891
+    },
+    {
+      "id": "VzU_yqmIuPM",
+      "title": "Astro Blog Course #17 - Integrations (React, Tailwind, CMS, and more)",
+      "duration": 711
+    },
+    {
+      "id": "TIlghu35niY",
+      "title": "Astro Blog Course #18 - Build, deploy, and update",
+      "duration": 307
+    }
+  ]
+}

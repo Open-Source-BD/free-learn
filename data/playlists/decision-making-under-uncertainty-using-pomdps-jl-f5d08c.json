@@ -1,0 +1,50 @@
+{
+  "courseId": "decision-making-under-uncertainty-using-pomdps-jl-f5d08c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLP8iPy9hna6QPqk4N8eBk0oXzLrLbOtTA",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:16.535Z",
+  "title": "Decision Making Under Uncertainty using POMDPs.jl",
+  "channel": "The Julia Programming Language",
+  "videos": [
+    {
+      "id": "yrC2O7T7aKU",
+      "title": "Introduction to Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 512
+    },
+    {
+      "id": "uHEjez97BvE",
+      "title": "MDPs: Markov Decision Processes | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 2960
+    },
+    {
+      "id": "KDFzObtE6cs",
+      "title": "POMDPs: Partially Observable Markov Decision Processes | Decision Making Under Uncertainty POMDPs.jl",
+      "duration": 1320
+    },
+    {
+      "id": "CRNYgxT39bQ",
+      "title": "State Estimation using Particle Filtering | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 368
+    },
+    {
+      "id": "hv2Vc8cU2YY",
+      "title": "Approximate Methods | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 758
+    },
+    {
+      "id": "V1Py5AgTL7g",
+      "title": "Deep Reinforcement Learning | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 709
+    },
+    {
+      "id": "0On85IIuXTA",
+      "title": "Imitation Learning | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 370
+    },
+    {
+      "id": "Q_38-vw5Pww",
+      "title": "Black-Box Validation | Decision Making Under Uncertainty using POMDPs.jl",
+      "duration": 646
+    }
+  ]
+}

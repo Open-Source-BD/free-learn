@@ -1,0 +1,100 @@
+{
+  "courseId": "getting-started-with-ansible-b414a2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:17.068Z",
+  "title": "Getting started with Ansible",
+  "channel": "Learn Linux TV",
+  "videos": [
+    {
+      "id": "3RiVKs8GHYQ",
+      "title": "Getting started with Ansible 01 - Introduction",
+      "duration": 462
+    },
+    {
+      "id": "-Q4T9wLsvOQ",
+      "title": "Getting started with Ansible 02 - SSH Overview & Setup",
+      "duration": 1731
+    },
+    {
+      "id": "FFaMqxpphjo",
+      "title": "Getting started with Ansible 03 - Setting up the Git Repository",
+      "duration": 953
+    },
+    {
+      "id": "4REljLsOnXk",
+      "title": "Getting started with Ansible 04 - Running ad-hoc Commands",
+      "duration": 1109
+    },
+    {
+      "id": "FPU9_KDTa8A",
+      "title": "Getting started with Ansible 05 - Running elevated ad-hoc Commands",
+      "duration": 1043
+    },
+    {
+      "id": "VANub3AhZpI",
+      "title": "Getting started with Ansible 06 - Writing our first Playbook",
+      "duration": 1254
+    },
+    {
+      "id": "BF7vIk9no14",
+      "title": "Getting started with Ansible 07 - The 'when' Conditional",
+      "duration": 1257
+    },
+    {
+      "id": "JJ-aoyydfVU",
+      "title": "Getting Started with Ansible 08 - Improving your Playbook",
+      "duration": 793
+    },
+    {
+      "id": "EraC1AuWEF8",
+      "title": "Getting started with Ansible 09 - Targeting Specific Nodes",
+      "duration": 1310
+    },
+    {
+      "id": "gH_A-0zYLyw",
+      "title": "Getting started with Ansible 10 - Tags",
+      "duration": 583
+    },
+    {
+      "id": "teEhLgHpGgo",
+      "title": "Getting started with Ansible 11 - Managing Files",
+      "duration": 1249
+    },
+    {
+      "id": "soeBHGAMkoQ",
+      "title": "Getting started with Ansible 12 - Managing Services",
+      "duration": 1274
+    },
+    {
+      "id": "P5iKWANifrU",
+      "title": "Getting started with Ansible 13 - Adding Users & Bootstrapping",
+      "duration": 1475
+    },
+    {
+      "id": "tq9sCeQNVYc",
+      "title": "Getting started with Ansible 14 - Roles",
+      "duration": 1178
+    },
+    {
+      "id": "shBlQQZLU9M",
+      "title": "Getting started with Ansible 15 - Host Variables and Handlers",
+      "duration": 1018
+    },
+    {
+      "id": "s8F_YWGHeDM",
+      "title": "Getting started with Ansible 16 (Series Finale) - Templates",
+      "duration": 872
+    },
+    {
+      "id": "CltoVfeRdoM",
+      "title": "Complete Ansible Semaphore Tutorial: From Installation to Automation",
+      "duration": 2887
+    },
+    {
+      "id": "NuuZ4CmiFQQ",
+      "title": "An Inside Look at my Powerful Ansible Automation Solution",
+      "duration": 2562
+    }
+  ]
+}

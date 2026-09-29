@@ -1,0 +1,60 @@
+{
+  "courseId": "stanford-cs230-deep-learning-e09ecf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:02.506Z",
+  "title": "Stanford CS230: Deep Learning | Autumn 2018",
+  "channel": "Stanford Online",
+  "videos": [
+    {
+      "id": "PySo_6S4ZAg",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng",
+      "duration": 4072
+    },
+    {
+      "id": "AwQHqWyHRpU",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition",
+      "duration": 4967
+    },
+    {
+      "id": "JUJNGv_sb4Y",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 3 - Full-Cycle Deep Learning Projects",
+      "duration": 4697
+    },
+    {
+      "id": "ANszao6YQuM",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 4 - Adversarial Attacks / GANs",
+      "duration": 4980
+    },
+    {
+      "id": "IM9ANAbufYM",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 5 - AI + Healthcare",
+      "duration": 5178
+    },
+    {
+      "id": "G5FNYxbW_Qw",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 6 - Deep Learning Project Strategy",
+      "duration": 3024
+    },
+    {
+      "id": "gCJCgQW_LKc",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 7 - Interpretability of Neural Network",
+      "duration": 5698
+    },
+    {
+      "id": "733m6qBH-jI",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers",
+      "duration": 3888
+    },
+    {
+      "id": "NP2XqpgTJyo",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning",
+      "duration": 4820
+    },
+    {
+      "id": "IFLstgCNOA4",
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 10 - Chatbots / Closing Remarks",
+      "duration": 3292
+    }
+  ]
+}

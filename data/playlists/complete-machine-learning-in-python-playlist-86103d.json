@@ -1,0 +1,775 @@
+{
+  "courseId": "complete-machine-learning-in-python-playlist-86103d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:12.951Z",
+  "title": "Complete Machine Learning playlist",
+  "channel": "Krish Naik",
+  "videos": [
+    {
+      "id": "bPrmA1SEN2k",
+      "title": "Complete Road Map To Be Expert In Python- Follow My Way",
+      "duration": 1751
+    },
+    {
+      "id": "VOpETRQGXy0",
+      "title": "Complete Roadmap To Follow To  Prepare Machine Learning With All Videos And Materials",
+      "duration": 1136
+    },
+    {
+      "id": "7S865QCGL74",
+      "title": "Tutorial 1- Anaconda Installation and Python Basics",
+      "duration": 1145
+    },
+    {
+      "id": "JSJJ-qOOAXI",
+      "title": "Why Python is the Best Programming Language For Machine Learning?",
+      "duration": 315
+    },
+    {
+      "id": "GA0u6WM7_Eo",
+      "title": "Tutorial 2 - Python List  and Boolean Variables",
+      "duration": 1309
+    },
+    {
+      "id": "wlS_fWxIPyQ",
+      "title": "Tutorial 3- Python Sets, Dictionaries and Tuples",
+      "duration": 965
+    },
+    {
+      "id": "vh525RjO6C0",
+      "title": "Tutorial 4 - Numpy and Inbuilt Functions Tutorial",
+      "duration": 1602
+    },
+    {
+      "id": "QUClKFFn1Vk",
+      "title": "Tutorial 5- Pandas, Data Frame and Data Series Part-1",
+      "duration": 1009
+    },
+    {
+      "id": "tW1BWtQRZ2M",
+      "title": "Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2",
+      "duration": 1772
+    },
+    {
+      "id": "xx4Vkc5RrWY",
+      "title": "Tutorial 7- Pandas-Reading JSON,Reading HTML, Read PICKLE, Read EXCEL Files- Part 3",
+      "duration": 1171
+    },
+    {
+      "id": "czQO1_GEEos",
+      "title": "Tutorial 8- Matplotlib (Simple Visualization Library)",
+      "duration": 1555
+    },
+    {
+      "id": "UsglokDLa2o",
+      "title": "Tutorial 9- Seaborn Tutorial- Distplot, Joinplot, Pairplot  Part 1",
+      "duration": 1303
+    },
+    {
+      "id": "XezfbWlEVwE",
+      "title": "Tutorial 10- Seaborn- Countplot(), Violinplot(), Boxplot()- Part2",
+      "duration": 654
+    },
+    {
+      "id": "dP170R-wO-8",
+      "title": "How To Become Expertise in Exploratory Data Analysis",
+      "duration": 605
+    },
+    {
+      "id": "Ea_KAcdv1vs",
+      "title": "Tutorial 11-Exploratory Data Analysis(EDA) of Titanic dataset",
+      "duration": 1905
+    },
+    {
+      "id": "Vah_RQrlM_k",
+      "title": "Tutorial 12- Python Functions, Positional and Keywords Arguments",
+      "duration": 819
+    },
+    {
+      "id": "j1lTvjmOJbQ",
+      "title": "Tutorial 15- Map Functions using Python",
+      "duration": 286
+    },
+    {
+      "id": "NNlrQp5de98",
+      "title": "Tutorial 13- Python Lambda Functions",
+      "duration": 363
+    },
+    {
+      "id": "VrHcTFAkkak",
+      "title": "Tutorial 16- Filter Functions In Python",
+      "duration": 238
+    },
+    {
+      "id": "iiDDZtzvMC8",
+      "title": "Tutorial 17- Python List Comprehension",
+      "duration": 487
+    },
+    {
+      "id": "9LtA-YbmGOg",
+      "title": "Tutorial 18- Python Advanced String Formatting",
+      "duration": 625
+    },
+    {
+      "id": "t5iO4LzVeLU",
+      "title": "Tutorial 19-  Python Iterables vs Iterators",
+      "duration": 722
+    },
+    {
+      "id": "ubtIYcx4_Gw",
+      "title": "Tutorial 20- How To Import All Important Python Data Science Libraries Using Pyforest",
+      "duration": 301
+    },
+    {
+      "id": "P4zmS8zm2m4",
+      "title": "Tutorial 21- Python OOPS Tutorial- Classes, Variables, Methods and Objects",
+      "duration": 868
+    },
+    {
+      "id": "06HauGzxc9s",
+      "title": "Advanced Python- Exception Handling Detailed Explanation In Python",
+      "duration": 1229
+    },
+    {
+      "id": "UXV_o2W_UUA",
+      "title": "Advanced Python Series- Custom Exception Handling In Python",
+      "duration": 538
+    },
+    {
+      "id": "_yaGV-u18qI",
+      "title": "Advance Python Series- Public Private And Protected Access Modifiers",
+      "duration": 896
+    },
+    {
+      "id": "FA3ODPdBW10",
+      "title": "Advance Python Series- Inheritance In Python",
+      "duration": 699
+    },
+    {
+      "id": "JG8GRlMjp3c",
+      "title": "Tutorial 22-Univariate, Bivariate and Multivariate Analysis- Part1 (EDA)-Data Science",
+      "duration": 791
+    },
+    {
+      "id": "IkvwXPEBlNo",
+      "title": "Tutorial 23-Univariate, Bivariate and Multivariate Analysis- Part2 (EDA)-Data Science",
+      "duration": 953
+    },
+    {
+      "id": "ZdgCZ0GY-HU",
+      "title": "Tutorial 24- Histogram in EDA- Data Science",
+      "duration": 282
+    },
+    {
+      "id": "4Fta6KQ1QHQ",
+      "title": "Tutorial 24-Z Score Statistics Data Science",
+      "duration": 719
+    },
+    {
+      "id": "PYIjkw0HN1Q",
+      "title": "Tutorial 25- Probability Density function and CDF- EDA-Data Science",
+      "duration": 472
+    },
+    {
+      "id": "1-OGRohmH2s",
+      "title": "Tutorial 26- Linear Regression Indepth Maths Intuition- Data Science",
+      "duration": 1455
+    },
+    {
+      "id": "9lRv01HDU0s",
+      "title": "Tutorial 27- Ridge and Lasso Regression Indepth Intuition- Data Science",
+      "duration": 1217
+    },
+    {
+      "id": "0yI0-r3Ly40",
+      "title": "Tutorial 28- Ridge and Lasso Regression using Python and Sklearn",
+      "duration": 591
+    },
+    {
+      "id": "5rvnlZWzox8",
+      "title": "Multiple Linear Regression using python and sklearn",
+      "duration": 1191
+    },
+    {
+      "id": "NAPhUDjgG_s",
+      "title": "Tutorial 28-MultiCollinearity In Linear Regression- Part 2",
+      "duration": 960
+    },
+    {
+      "id": "BqzgUnrNhFM",
+      "title": "Machine Learning-Bias And Variance In Depth Intuition| Overfitting Underfitting",
+      "duration": 1013
+    },
+    {
+      "id": "WuuyD3Yr-js",
+      "title": "Tutorial 29-R square and Adjusted R square Clearly Explained| Machine Learning",
+      "duration": 1036
+    },
+    {
+      "id": "Y3QzLIBp64M",
+      "title": "Tutorial 31- Hypothesis Test, Type 1 Error, Type 2 Error",
+      "duration": 705
+    },
+    {
+      "id": "zII6KLR4Lb4",
+      "title": "What Is P Value In Statistics In Simple Language?",
+      "duration": 678
+    },
+    {
+      "id": "YrhlQB3mQFI",
+      "title": "Tutorial 32- All About P Value,T test,Chi Square Test, Anova Test  and When  to Use What?",
+      "duration": 721
+    },
+    {
+      "id": "4-rxTA_5_xA",
+      "title": "Tutorial 33- P Value,T test, Correlation Implementation with Python- Hypothesis Testing",
+      "duration": 1202
+    },
+    {
+      "id": "w5iKu1IrTJQ",
+      "title": "Tutorial 33- Chi Square Test Implementation with Python- Hypothesis Testing- Part 2",
+      "duration": 849
+    },
+    {
+      "id": "aWAnNHXIKww",
+      "title": "Tutorial 34- Performance Metrics For Classification Problem In Machine Learning- Part1",
+      "duration": 1452
+    },
+    {
+      "id": "L_xBe7MbPwk",
+      "title": "Tutorial 35- Logistic Regression Indepth Intuition- Part 1| Data Science",
+      "duration": 760
+    },
+    {
+      "id": "uFfsSgQgerw",
+      "title": "Tutorial 36- Logistic Regression Indepth Intuition- Part 2| Data Science",
+      "duration": 1697
+    },
+    {
+      "id": "V8fS0T_ktn4",
+      "title": "Tutorial 36- Logistic Regression Mutliclass Classification(OneVsRest)- Part 3| Data Science",
+      "duration": 399
+    },
+    {
+      "id": "1IQOtJ4NI_0",
+      "title": "Tutorial 37: Entropy In Decision Tree Intuition",
+      "duration": 538
+    },
+    {
+      "id": "FuTRucXB9rA",
+      "title": "Tutorial 38- Decision Tree Information Gain",
+      "duration": 760
+    },
+    {
+      "id": "5aIFgrrTqOw",
+      "title": "Tutorial 39- Gini Impurity Intuition In Depth In Decision Tree",
+      "duration": 673
+    },
+    {
+      "id": "5O8HvA9pMew",
+      "title": "Tutorial 40- Decision Tree Split For Numerical Feature",
+      "duration": 371
+    },
+    {
+      "id": "ioN1jcWxbv8",
+      "title": "Advance House Price Prediction- Exploratory Data Analysis- Part 1",
+      "duration": 1409
+    },
+    {
+      "id": "wR4Xfwjr-3Y",
+      "title": "Advance House Price Prediction- Exploratory Data Analysis- Part 2",
+      "duration": 1188
+    },
+    {
+      "id": "VgZZP8rAS-c",
+      "title": "Advance House Price Prediction-Feature Engineering Part 1",
+      "duration": 852
+    },
+    {
+      "id": "0fT-bqvHD2w",
+      "title": "Advance House Price Prediction-Feature Engineering Part 2",
+      "duration": 834
+    },
+    {
+      "id": "1JXrxCJoHuw",
+      "title": "Advance House Price Prediction-Feature Selection",
+      "duration": 483
+    },
+    {
+      "id": "A_ZKMsZ3f3o",
+      "title": "Tutorial 41-Performance Metrics(ROC,AUC Curve) For Classification Problem In Machine Learning Part 2",
+      "duration": 589
+    },
+    {
+      "id": "tYZ6cpatw-w",
+      "title": "Performance Metrics On MultiClass Classification Problems",
+      "duration": 362
+    },
+    {
+      "id": "otolSnbanQk",
+      "title": "K Nearest Neighbor classification with Intuition and practical solution",
+      "duration": 1206
+    },
+    {
+      "id": "wTF6vzS9fy4",
+      "title": "K Nearest Neighbour Easily Explained with Implementation",
+      "duration": 1082
+    },
+    {
+      "id": "KIOeZ5cFZ50",
+      "title": "Tutorial 42 - Ensemble: What is Bagging (Bootstrap Aggregation)?",
+      "duration": 387
+    },
+    {
+      "id": "nxFG5xdpDto",
+      "title": "Tutorial 43-Random Forest Classifier and Regressor",
+      "duration": 618
+    },
+    {
+      "id": "YMPMZmlH5Bo",
+      "title": "Tutorial 45-Handling imbalanced Dataset  using python- Part 1",
+      "duration": 781
+    },
+    {
+      "id": "OJedgzdipC0",
+      "title": "Tutorial 46-Handling imbalanced Dataset using python- Part 2",
+      "duration": 659
+    },
+    {
+      "id": "9HomdnM12o4",
+      "title": "Hyperparameter Optimization for Xgboost",
+      "duration": 895
+    },
+    {
+      "id": "NLRO1-jp5F8",
+      "title": "What is AdaBoost (BOOSTING TECHNIQUES)",
+      "duration": 846
+    },
+    {
+      "id": "oqz6BX6xHtU",
+      "title": "Visibility Climate Prediction- You Can Add This In Your Resume",
+      "duration": 1043
+    },
+    {
+      "id": "p3HbBlcXDTE",
+      "title": "Euclidean Distance and Manhattan Distance",
+      "duration": 519
+    },
+    {
+      "id": "AWKCCK5YHsE",
+      "title": "K Means Clustering Intuition",
+      "duration": 876
+    },
+    {
+      "id": "0jPGHniVVNc",
+      "title": "Hierarchical Clustering intuition",
+      "duration": 372
+    },
+    {
+      "id": "C3r7tGRe2eI",
+      "title": "DBSCAN Clustering Easily Explained with Implementation",
+      "duration": 1112
+    },
+    {
+      "id": "DpRPd274-0E",
+      "title": "Silhouette (clustering)- Validating Clustering Models- Unsupervised Machine Learning",
+      "duration": 1207
+    },
+    {
+      "id": "_4DaqzLyT08",
+      "title": "Curse of Dimensionality Easily explained| Machine Learning",
+      "duration": 457
+    },
+    {
+      "id": "OFyyWcw2cyM",
+      "title": "Dimensional Reduction| Principal Component Analysis",
+      "duration": 1146
+    },
+    {
+      "id": "QdBy02ExhGI",
+      "title": "Principle Component Analysis (PCA) using sklearn and python",
+      "duration": 750
+    },
+    {
+      "id": "7062skdX05Y",
+      "title": "What is Cross Validation and its types?",
+      "duration": 1095
+    },
+    {
+      "id": "_AjhdXuXEDE",
+      "title": "Tutorial 42-How To Find Optimal Threshold For Binary Classification - Data Science",
+      "duration": 910
+    },
+    {
+      "id": "71oNiqPoKD8",
+      "title": "Tutorial 47- Bayes' Theorem| Conditional Probability- Machine Learning",
+      "duration": 662
+    },
+    {
+      "id": "jS1CKhALUBQ",
+      "title": "Tutorial 48- Naive Bayes' Classifier Indepth Intuition-  Machine Learning",
+      "duration": 955
+    },
+    {
+      "id": "temQ8mHpe3k",
+      "title": "Tutorial 49- How To Apply Naive Bayes' Classifier On Text Data (NLP)- Machine Learning",
+      "duration": 790
+    },
+    {
+      "id": "H9yACitf-KM",
+      "title": "Support Vector Machine (SVM) Basic Intuition- Part 1| Machine Learning",
+      "duration": 770
+    },
+    {
+      "id": "Js3GLb1xPhc",
+      "title": "Maths Intuition Behind Support Vector Machine Part 2 | Machine Learning Data Science",
+      "duration": 1407
+    },
+    {
+      "id": "8bFKyb77vp0",
+      "title": "SVM Kernels In-depth Intuition- Polynomial Kernels Part 3 | Machine Learning Data Science",
+      "duration": 1241
+    },
+    {
+      "id": "dl_ZsuHSIFE",
+      "title": "SVM Kernal- Polynomial And RBF Implementation Using Sklearn- Machine Learning",
+      "duration": 880
+    },
+    {
+      "id": "Nol1hVtLOSg",
+      "title": "Gradient Boosting In Depth Intuition- Part 1 Machine Learning",
+      "duration": 680
+    },
+    {
+      "id": "Oo9q6YtGzvc",
+      "title": "Gradient Boosting Complete Maths Indepth Intuiton Explained| Machine Learning- Part2",
+      "duration": 1067
+    },
+    {
+      "id": "gPciUPwWJQQ",
+      "title": "Xgboost Classification Indepth Maths Intuition- Machine Learning Algorithms🔥🔥🔥🔥",
+      "duration": 1439
+    },
+    {
+      "id": "w-_vmVfpssg",
+      "title": "Xgboost Regression In-Depth Intuition Explained- Machine Learning Algorithms 🔥🔥🔥🔥",
+      "duration": 1170
+    },
+    {
+      "id": "SGlU53rg6rE",
+      "title": "Data Science In Medical-Live Tracking Of CO--VID Cases In India using Python",
+      "duration": 939
+    },
+    {
+      "id": "D4fHn4lHCmI",
+      "title": "Perform EDA In Seconds With Visualization Using SweetViz Library",
+      "duration": 1040
+    },
+    {
+      "id": "sg2zLIor6QU",
+      "title": "4 End To End Projects Till Deployment For Beginners In Data Science| All You Have To Do Is Learn",
+      "duration": 649
+    },
+    {
+      "id": "5XnHlluw-Eo",
+      "title": "Deploy Machine Learning Models Using StreamLit Library- Data Science",
+      "duration": 776
+    },
+    {
+      "id": "AYalukmWroY",
+      "title": "Perform Exploratory Data Analysis In Minutes- Data Science| Machine Learning",
+      "duration": 1114
+    },
+    {
+      "id": "hLDDt_XUeMA",
+      "title": "Pandas Visual Analysis- Perform Exploratory Data Analysis In A Single Line Of Code🔥🔥🔥🔥",
+      "duration": 792
+    },
+    {
+      "id": "myM5nkM_mYg",
+      "title": "How To Read And Process Huge Datasets in Seconds Using Vaex Library| Data Science| Machine Learning",
+      "duration": 1171
+    },
+    {
+      "id": "xSXGcuiEzUc",
+      "title": "D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code🔥🔥🔥🔥",
+      "duration": 774
+    },
+    {
+      "id": "eYRBWM9Mvuc",
+      "title": "Interview Prep Day3-How To Prepare Support Vector Machines Important Questions In Interviews🔥🔥",
+      "duration": 825
+    },
+    {
+      "id": "mWQjx_lbWjg",
+      "title": "Google Datasets Search Engine- Search All Datasets From One Place For Data Science,Machine Learning",
+      "duration": 711
+    },
+    {
+      "id": "h6skw_h7Wg8",
+      "title": "How To Run Flask In Google Colab",
+      "duration": 459
+    },
+    {
+      "id": "VtItg-J6-CI",
+      "title": "Time Series Forecasting Using Facebook FbProphet",
+      "duration": 1017
+    },
+    {
+      "id": "BIbzt8qcMA4",
+      "title": "Performance Metrics Interview Questions- Data Science",
+      "duration": 274
+    },
+    {
+      "id": "SLOyyFHbiqo",
+      "title": "How To Perform Post Pruning In Decision Tree? Prevent Overfitting- Data Science",
+      "duration": 984
+    },
+    {
+      "id": "c0H5n6WbEmI",
+      "title": "How To Train Machine Learning Model Using  CPU Multi Cores",
+      "duration": 881
+    },
+    {
+      "id": "qPIaYD96sXU",
+      "title": "Step By Step Process To Learn Machine Learning Algorithm Efficiently",
+      "duration": 848
+    },
+    {
+      "id": "FWETqH9MhRg",
+      "title": "Data Science Is Just Not About Model Building",
+      "duration": 479
+    },
+    {
+      "id": "sgJOOcvT04w",
+      "title": "How To Interpret The ML  Model? Is Your Model Black Box? Lime Library",
+      "duration": 687
+    },
+    {
+      "id": "xw8QQz5m47s",
+      "title": "6 Healthcare End To End Machine Learning Projects- Credits Devansh and Bedanta",
+      "duration": 468
+    },
+    {
+      "id": "n_nyz8_Lsgw",
+      "title": "Overfitting, Underfitting And Data Leakage Explanation With Simple Example",
+      "duration": 852
+    },
+    {
+      "id": "tJwtx_9KuAY",
+      "title": "What Is API? Application Programming Interface And Why It Is Important-Data Science",
+      "duration": 505
+    },
+    {
+      "id": "y7k-zCvOYxc",
+      "title": "500+ Machine Learning And Deep Learning Projects All At One Place",
+      "duration": 469
+    },
+    {
+      "id": "dmg5kZBCYck",
+      "title": "Google Colab Pro Vs Colab Free- Benefits Of Using Colab Pro- How To Access From India",
+      "duration": 788
+    },
+    {
+      "id": "g0wmOM0NS7w",
+      "title": "Advance Python Series-Magic Methods In Classes",
+      "duration": 607
+    },
+    {
+      "id": "WGfosDXSjZ0",
+      "title": "Advanced Python Series- Assert Statement In Python",
+      "duration": 365
+    },
+    {
+      "id": "eTU6cif1ySQ",
+      "title": "How To Speed Up Pandas By 4X Times- Modin Pandas Library",
+      "duration": 728
+    },
+    {
+      "id": "DedS74YKhs4",
+      "title": "TextBlob Library In Python For Natural Language Processing",
+      "duration": 533
+    },
+    {
+      "id": "tpHs8ROqMMs",
+      "title": "3000+ Research Datasets For Machine Learning Researchers By Papers With Code",
+      "duration": 398
+    },
+    {
+      "id": "VokAGy8C6K4",
+      "title": "Introduction To MLflow-An Open Source Platform for the Machine Learning Lifecycle",
+      "duration": 733
+    },
+    {
+      "id": "zJcSod-L-Ps",
+      "title": "Amazing Data Science End To End Project From Starters In ML and Deep Learning- Agriculture Domain",
+      "duration": 496
+    },
+    {
+      "id": "NedCgZQZcwM",
+      "title": "Lux - Python Library for Intelligent Visual Discovery",
+      "duration": 611
+    },
+    {
+      "id": "G9S1UEe2FH0",
+      "title": "Texthero-Text Preprocessing, Representation And Visualization From Zero to Hero.",
+      "duration": 958
+    },
+    {
+      "id": "OpGM0Zzf9jw",
+      "title": "Colab Pro Now Available In India, Brazil, France, Thailand,Japan,UK- BOON FOR Data Science Aspirants",
+      "duration": 330
+    },
+    {
+      "id": "uHGOnDdKpK4",
+      "title": "Rainfall Prediction- Converting A Kaggle Project to End To End Machine Learning Project",
+      "duration": 410
+    },
+    {
+      "id": "vp1ZNapAy6Y",
+      "title": "PyWebIO- Creating WebAPP Using Python Without Using HTML And JS",
+      "duration": 1038
+    },
+    {
+      "id": "E0uLJKQ38Os",
+      "title": "Creating BMI Calculator Web APP Using Python And PyWebIO",
+      "duration": 731
+    },
+    {
+      "id": "2wjFQXNYLMI",
+      "title": "Deployment Of ML Models Using PyWebIO And Flask",
+      "duration": 748
+    },
+    {
+      "id": "-66Wt3IHb9U",
+      "title": "Shapash- Python Library To Make Machine Learning Interpretable",
+      "duration": 963
+    },
+    {
+      "id": "BotYLBQfd5M",
+      "title": "Difference Between fit(), transform(), fit_transform() and predict() methods in Scikit-Learn",
+      "duration": 1563
+    },
+    {
+      "id": "uuYEQqrExBQ",
+      "title": "EvalML AutoML Library To Automate Feature Engineering, Feature Selection,Model Creation And Tuning",
+      "duration": 1408
+    },
+    {
+      "id": "IUUpPL5JRUU",
+      "title": "Lazy Predict Python- Understanding Which Models Works Well Without Any Tuning",
+      "duration": 545
+    },
+    {
+      "id": "UF8BMeyW3Sc",
+      "title": "How To Automate NLP Tasks Using EvalML Library",
+      "duration": 928
+    },
+    {
+      "id": "wruyZWre2sM",
+      "title": "Gradio Library-Interfaces for your Machine Learning Models",
+      "duration": 528
+    },
+    {
+      "id": "zoEJQr1VJ3Q",
+      "title": "Comparing Transfer Learning Models Using Gradio",
+      "duration": 504
+    },
+    {
+      "id": "J3nFOPoVnPw",
+      "title": "Introduction To Machine Learning And Deep Learning For Starters",
+      "duration": 3028
+    },
+    {
+      "id": "3O-Pvnrbsu0",
+      "title": "Numba Library- Let's Make Python Faster",
+      "duration": 405
+    },
+    {
+      "id": "sqR154NkwZk",
+      "title": "Deployment Of ML Models Using PyWebIO And Flask In Heroku",
+      "duration": 453
+    },
+    {
+      "id": "BoKLMehRahw",
+      "title": "All Automated EDA Libraries All At One Place",
+      "duration": 879
+    },
+    {
+      "id": "3gfhbXt9TcQ",
+      "title": "Discussing All The Types Of Feature Transformation In Machine Learning",
+      "duration": 1344
+    },
+    {
+      "id": "9BQ353Yu1D0",
+      "title": "Automating Web Scrapping Using AutoScraper Library",
+      "duration": 933
+    },
+    {
+      "id": "zHjnc2ZwbGA",
+      "title": "Automating WebScraping Amazon Ecommerce Website Using AutoScrapper",
+      "duration": 854
+    },
+    {
+      "id": "IXVasEAT_5w",
+      "title": "AutoScraper and Flask: Create an API From Amazon Website in Less Than 10 Minutes",
+      "duration": 853
+    },
+    {
+      "id": "3r73eCNQGAM",
+      "title": "Autoviz-Automatically Visualize Any Dataset With Single Line Of Code",
+      "duration": 370
+    },
+    {
+      "id": "IEhTa-BcJRc",
+      "title": "AutoScraper- Scrap Images From Amazon Ecommerce- End To End Web Scraping Application",
+      "duration": 415
+    },
+    {
+      "id": "3fzYdnuvEfk",
+      "title": "All Type Of Cross Validation With Python All In 1 Video",
+      "duration": 923
+    },
+    {
+      "id": "5iWoOMgo5I0",
+      "title": "DataPrep Library- Perform Faster EDA Within No Time",
+      "duration": 522
+    },
+    {
+      "id": "sXNXI2mE8DU",
+      "title": "Time Series Forecasting Made Easy Using Dart Library - Perform Multivariate Forecasting In No Time",
+      "duration": 697
+    },
+    {
+      "id": "kaEtrkDknTA",
+      "title": "FLAML - Fast and Lightweight AutoML Library By Microsoft",
+      "duration": 452
+    },
+    {
+      "id": "FKEJ2_T9swo",
+      "title": "Tutorial on Automated Machine Learning using MLBox",
+      "duration": 663
+    },
+    {
+      "id": "BLkBXPN7IXU",
+      "title": "Definition Of Bias And Variance In Machine Learning- Interview Question",
+      "duration": 498
+    },
+    {
+      "id": "2IAfQdAPdLY",
+      "title": "Elasticnet Regression Machine Learning Algorithm Explained In Depth",
+      "duration": 664
+    },
+    {
+      "id": "fXfs_6o_hOs",
+      "title": "Out Of Bag Evaluation(OOB) And OOB Score Or Error In Random Forest",
+      "duration": 431
+    },
+    {
+      "id": "H99JRtDDnvk",
+      "title": "PCA Indepth Geometric And Mathematical InDepth Intuition ML Algorithms",
+      "duration": 5311
+    }
+  ]
+}

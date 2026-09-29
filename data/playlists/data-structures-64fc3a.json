@@ -1,0 +1,220 @@
+{
+  "courseId": "data-structures-64fc3a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:22.674Z",
+  "title": "Data structures",
+  "channel": "mycodeschool",
+  "videos": [
+    {
+      "id": "92S4zgXN17o",
+      "title": "Introduction to data structures",
+      "duration": 393
+    },
+    {
+      "id": "HdFG8L1sajw",
+      "title": "Data Structures: List as abstract data type",
+      "duration": 788
+    },
+    {
+      "id": "NobHlGUjV3g",
+      "title": "Introduction to linked list",
+      "duration": 1033
+    },
+    {
+      "id": "lC-yYCOnN8Q",
+      "title": "Data Structures: Arrays vs Linked Lists",
+      "duration": 736
+    },
+    {
+      "id": "vcQIFT79_50",
+      "title": "Linked List - Implementation in C/C++",
+      "duration": 838
+    },
+    {
+      "id": "cAZ8CyDY56s",
+      "title": "Linked List in C/C++ - Inserting a node at beginning",
+      "duration": 770
+    },
+    {
+      "id": "IbvsNF22Ud0",
+      "title": "Linked List in C/C++ - Insert a node at nth position",
+      "duration": 915
+    },
+    {
+      "id": "Y0n86K43GO4",
+      "title": "Linked List in C/C++ - Delete a node at nth position",
+      "duration": 750
+    },
+    {
+      "id": "sYcOK51hl-A",
+      "title": "Reverse a linked list - Iterative method",
+      "duration": 830
+    },
+    {
+      "id": "K7J3nCeRC80",
+      "title": "Print elements of a linked list in forward and reverse order using recursion",
+      "duration": 864
+    },
+    {
+      "id": "KYH83T4q6Vs",
+      "title": "Reverse a linked list using recursion",
+      "duration": 535
+    },
+    {
+      "id": "JdQeNxWCguQ",
+      "title": "Data structures: Introduction to Doubly Linked List",
+      "duration": 433
+    },
+    {
+      "id": "VOQNf1VxU3Q",
+      "title": "Doubly Linked List - Implementation in C/C++",
+      "duration": 921
+    },
+    {
+      "id": "F1F2imiOJfk",
+      "title": "Data structures: Introduction to stack",
+      "duration": 506
+    },
+    {
+      "id": "sFVxsglODoo",
+      "title": "Data structures: Array implementation of stacks",
+      "duration": 789
+    },
+    {
+      "id": "MuwxQ2IB8lQ",
+      "title": "Data Structures: Linked List implementation of stacks",
+      "duration": 658
+    },
+    {
+      "id": "hNP72JdOIgY",
+      "title": "Reverse a string or linked list using stack.",
+      "duration": 985
+    },
+    {
+      "id": "QZOLb0xHB_Q",
+      "title": "Check for balanced parentheses using stack",
+      "duration": 853
+    },
+    {
+      "id": "jos1Flt21is",
+      "title": "Infix, Prefix and Postfix",
+      "duration": 818
+    },
+    {
+      "id": "MeRb_1bddWg",
+      "title": "Evaluation of Prefix and Postfix expressions using stack",
+      "duration": 850
+    },
+    {
+      "id": "vq-nUF0G4fI",
+      "title": "Infix to Postfix using stack",
+      "duration": 1100
+    },
+    {
+      "id": "XuCbpw6Bj1U",
+      "title": "Data structures: Introduction to Queues",
+      "duration": 559
+    },
+    {
+      "id": "okr-XE8yTO8",
+      "title": "Data structures: Array implementation of Queue",
+      "duration": 899
+    },
+    {
+      "id": "A5_XdiK4J8A",
+      "title": "Data structures: Linked List implementation of Queue",
+      "duration": 857
+    },
+    {
+      "id": "qH6yxkw0u78",
+      "title": "Data structures: Introduction to Trees",
+      "duration": 950
+    },
+    {
+      "id": "H5JubkIy_p8",
+      "title": "Data structures: Binary Tree",
+      "duration": 977
+    },
+    {
+      "id": "pYT9F8_LFTM",
+      "title": "Data structures: Binary Search Tree",
+      "duration": 1168
+    },
+    {
+      "id": "COZK7NATh4k",
+      "title": "Binary search tree - Implementation in C/C++",
+      "duration": 1116
+    },
+    {
+      "id": "hWokyBoo0aI",
+      "title": "BST implementation -  memory allocation in stack and heap",
+      "duration": 784
+    },
+    {
+      "id": "Ut90klNN264",
+      "title": "Find min and max element in a binary search tree",
+      "duration": 348
+    },
+    {
+      "id": "_pnqMz5nrRs",
+      "title": "Find height of a binary tree",
+      "duration": 429
+    },
+    {
+      "id": "9RHO6jU--GU",
+      "title": "Binary tree traversal - breadth-first and depth-first strategies",
+      "duration": 714
+    },
+    {
+      "id": "86g8jAQug04",
+      "title": "Binary tree: Level Order Traversal",
+      "duration": 683
+    },
+    {
+      "id": "gm8DUJJhmY4",
+      "title": "Binary tree traversal: Preorder, Inorder, Postorder",
+      "duration": 869
+    },
+    {
+      "id": "yEwSGhSsT0U",
+      "title": "Check if a binary tree is binary search tree or not",
+      "duration": 990
+    },
+    {
+      "id": "gcULXE7ViZw",
+      "title": "Delete a node from Binary Search Tree",
+      "duration": 1107
+    },
+    {
+      "id": "5cPbNCrdotA",
+      "title": "Inorder Successor in a binary search tree",
+      "duration": 1078
+    },
+    {
+      "id": "gXgEDyodOJU",
+      "title": "Data structures: Introduction to graphs",
+      "duration": 1003
+    },
+    {
+      "id": "AfYqN3fGapc",
+      "title": "Data structures: Properties of Graphs",
+      "duration": 916
+    },
+    {
+      "id": "ZdY1Fp9dKzs",
+      "title": "Graph Representation part 01 - Edge List",
+      "duration": 825
+    },
+    {
+      "id": "9C2cpQZVRBA",
+      "title": "Graph Representation part 02 - Adjacency Matrix",
+      "duration": 885
+    },
+    {
+      "id": "k1wraWzqtvQ",
+      "title": "Graph Representation part 03 - Adjacency List",
+      "duration": 1670
+    }
+  ]
+}

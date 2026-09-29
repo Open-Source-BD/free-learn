@@ -1,0 +1,355 @@
+{
+  "courseId": "computer-graphics-3473f9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:17.671Z",
+  "title": "Computer Graphics",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "uTBKa1PSyf8",
+      "title": "Introduction To Computer Graphics Explained in Hindi l Computer Graphics Course",
+      "duration": 545
+    },
+    {
+      "id": "B0sksFkAMyk",
+      "title": "Cathode Ray Tube (CRT) Explained in Hindi l Computer Graphics Course",
+      "duration": 518
+    },
+    {
+      "id": "l5N6dv-qBzE",
+      "title": "Vector Scan Display Explained in Hindi l Computer Graphics Course",
+      "duration": 577
+    },
+    {
+      "id": "31nXNF14q9E",
+      "title": "Raster Scan Display Explained in Hindi l Computer Graphics Course",
+      "duration": 539
+    },
+    {
+      "id": "N7HtCUSWKXc",
+      "title": "Digital Differential Analyzer(DDA) Line drawing algorithm Part-1 in Hindi with Solved Example",
+      "duration": 469
+    },
+    {
+      "id": "ua6lGnqtL0Q",
+      "title": "Digital Differential Analyzer (DDA) Line drawing algorithm Part-2 in Hindi with Solved Example",
+      "duration": 479
+    },
+    {
+      "id": "EoBESJA3OYk",
+      "title": "Bresenham Line Drawing Algorithm Part-1 Explained with Solved Example in Hindi l Computer Graphics",
+      "duration": 408
+    },
+    {
+      "id": "BePico-97tg",
+      "title": "Bresenham Line Drawing Algorithm Part-2 Explained with Solved Example in Hindi l Computer Graphics",
+      "duration": 406
+    },
+    {
+      "id": "_WI3hBR2HwE",
+      "title": "Bresenham Line Drawing Algorithm Part-3 Explained with Solved Example in Hindi l Computer Graphics",
+      "duration": 395
+    },
+    {
+      "id": "aGsoLaqq5s4",
+      "title": "Bresenham Circle Drawing Algorithm Part-1 Explained with Solved Example in Hindi l Computer Graphics",
+      "duration": 585
+    },
+    {
+      "id": "MYGEJvL11Wg",
+      "title": "Bresenham Circle Drawing Algorithm Part-2 Explained in Hindi Solved with Example l Computer Graphics",
+      "duration": 573
+    },
+    {
+      "id": "7ZwAn79axmI",
+      "title": "Polygon and it's Types Explained in Hindi l Computer Graphics Course",
+      "duration": 564
+    },
+    {
+      "id": "X2Mn4ozMtbQ",
+      "title": "Polygon Inside Test - Odd Even Test Explained in Hindi l Computer Graphics Course",
+      "duration": 573
+    },
+    {
+      "id": "fL5WZgLvl88",
+      "title": "Polygon Filling Algorithm - Boundary Fill Algorithm Part-1 Explained in Hindi l Computer Graphics",
+      "duration": 393
+    },
+    {
+      "id": "ALgC7ptPS5g",
+      "title": "Polygon Filling Algorithm - Boundary Fill Algorithm Part-2 Explained in Hindi l Computer Graphics",
+      "duration": 403
+    },
+    {
+      "id": "zWqxSvkn9qk",
+      "title": "Polygon Filling Algorithm - Flood Fill Algorithm Explained in Hindi l Computer Graphics Course",
+      "duration": 439
+    },
+    {
+      "id": "n85QQy03_gI",
+      "title": "What is 2D Translation Explained in Hindi l Computer Graphics Course",
+      "duration": 451
+    },
+    {
+      "id": "mzX6K0ATJRs",
+      "title": "2D Translation Numerical Explained in Hindi l Computer Graphics Course",
+      "duration": 288
+    },
+    {
+      "id": "eLmBR2HyLPo",
+      "title": "What is 2D Scaling Explained in Hindi l Computer Graphics Course",
+      "duration": 495
+    },
+    {
+      "id": "C2NaUGG_tns",
+      "title": "2D Scaling Numerical Explained in Hindi l Computer Graphics Course",
+      "duration": 306
+    },
+    {
+      "id": "fXyrffB69gI",
+      "title": "What is 2D Rotation Part-1 Explained in Hindi l Computer Graphics Course",
+      "duration": 519
+    },
+    {
+      "id": "y8MNTRyn8pI",
+      "title": "What is 2D Rotation Part-2 Explained in Hindi l Computer Graphics",
+      "duration": 364
+    },
+    {
+      "id": "p_iN8I6dM7Y",
+      "title": "2D Rotation Numerical Explained in Hindi l Computer Graphics",
+      "duration": 416
+    },
+    {
+      "id": "rZUw02zBoDI",
+      "title": "Homogeneous Coordinate Explained in Hindi l Computer Graphics",
+      "duration": 564
+    },
+    {
+      "id": "ojteOGAqdmA",
+      "title": "What is 2D Reflection Explained in Hindi l Computer Graphics",
+      "duration": 590
+    },
+    {
+      "id": "F6YfTc3f-mQ",
+      "title": "2D Reflection Numerical Explained in Hindi l Computer Graphics",
+      "duration": 238
+    },
+    {
+      "id": "VnRtEtnruBw",
+      "title": "What is 2D Shearing Explained in Hindi l Computer Graphics",
+      "duration": 611
+    },
+    {
+      "id": "uBPHATW5KEk",
+      "title": "2D Shearing Numerical Explained in Hindi l Computer Graphics",
+      "duration": 455
+    },
+    {
+      "id": "8T6J4eKDe40",
+      "title": "What is 3D Translation Explained in Hindi l Computer Graphics",
+      "duration": 602
+    },
+    {
+      "id": "IqAoD5gaD6s",
+      "title": "3D Translation Numerical Explained in Hindi l Computer Graphics",
+      "duration": 285
+    },
+    {
+      "id": "XIL0XyvQOyo",
+      "title": "What is 3D Scaling Explained in Hindi l Computer Graphics",
+      "duration": 525
+    },
+    {
+      "id": "KdOfWTyYNOc",
+      "title": "3D Scaling Numerical Explained in Hindi l Computer Graphics",
+      "duration": 188
+    },
+    {
+      "id": "J7OS_nI4W7Y",
+      "title": "Point Clipping Explained in Hindi l Computer Graphics",
+      "duration": 661
+    },
+    {
+      "id": "MkMK8LvLOjs",
+      "title": "Cohen Sutherland Line Clipping Algorithm Part-1 Explained in Hindi l Computer Graphics",
+      "duration": 692
+    },
+    {
+      "id": "HdrN5veEYcw",
+      "title": "Cohen Sutherland Line Clipping Algorithm Part-2 Explained in Hindi l Computer Graphics",
+      "duration": 670
+    },
+    {
+      "id": "bd9Vd79Q8zA",
+      "title": "Cohen Sutherland Line Clipping Algorithm Numerical Explained in Hindi l Computer Graphics",
+      "duration": 412
+    },
+    {
+      "id": "2Egy6PFehtU",
+      "title": "Sutherland Hodgeman Polygon Clipping Algorithm Part-1 Explained in Hindi l Computer Graphics",
+      "duration": 487
+    },
+    {
+      "id": "pXZvHQgmp-E",
+      "title": "Sutherland Hodgeman Polygon Clipping Algorithm Part-2 Explained in Hindi",
+      "duration": 396
+    },
+    {
+      "id": "P6gAIbfRtd0",
+      "title": "Text Clipping Explained in Hindi Computer Graphics",
+      "duration": 501
+    },
+    {
+      "id": "mkMeHesq9w8",
+      "title": "Curve and its Representation in Computer Graphics Explained in Hindi",
+      "duration": 573
+    },
+    {
+      "id": "5PMkHqlaP88",
+      "title": "Parametric Curve in Computer Graphics Explained in Hindi",
+      "duration": 624
+    },
+    {
+      "id": "w8RchOqr39A",
+      "title": "Parametric Continuity Explained in Hindi l Computer Graphics",
+      "duration": 471
+    },
+    {
+      "id": "oSPEFrJm8CU",
+      "title": "Spline Curve Explained in Hindi l Computer Graphics",
+      "duration": 401
+    },
+    {
+      "id": "vd0UtJpWhM4",
+      "title": "Cyrus Beck Line Clipping Algorithms Part-1 Explained in Hindi l Computer Graphics Course",
+      "duration": 502
+    },
+    {
+      "id": "7fmnGql3xnI",
+      "title": "Cyrus Beck Line Clipping Algorithm Part-2 Explained in Hindi l Computer Graphics Course",
+      "duration": 492
+    },
+    {
+      "id": "hKUea0sRnhw",
+      "title": "Cyrus Beck Line Clipping Algorithm Numerical Part-1 Explained in Hindi l Computer Graphics Series",
+      "duration": 403
+    },
+    {
+      "id": "udkMTlItPJg",
+      "title": "Cyrus Beck Line Clipping Algorithm Numerical Part-2 Explained in Hindi l Computer Graphics Series",
+      "duration": 380
+    },
+    {
+      "id": "VC_EokVZW-g",
+      "title": "Liang Barsky Line Clipping Algorithm Explained in Hindi l Computer Graphics Series",
+      "duration": 708
+    },
+    {
+      "id": "KPvMJNSQi7A",
+      "title": "Liang Barsky Line Clipping Algorithm Numerical 1 Explained in Hindi l Computer Graphics Series",
+      "duration": 541
+    },
+    {
+      "id": "NXX9tO1MnvE",
+      "title": "Liang Barsky Line Clipping Algorithm Numerical 2 Explained in Hindi l Computer Graphics Series",
+      "duration": 445
+    },
+    {
+      "id": "yC7xSgAuDjg",
+      "title": "Liang Barsky Line Clipping Algorithm Numerical 3 Explained in Hindi l Computer Graphics Series",
+      "duration": 358
+    },
+    {
+      "id": "Z3VHeNJw9t8",
+      "title": "Mid Point Circle Drawing Algorithm Part-1 Explained in Hindi l Computer Graphics Series",
+      "duration": 510
+    },
+    {
+      "id": "_zE7fGeqN2I",
+      "title": "Mid Point Circle Drawing Algorithm Part-2 Explained in Hindi l Computer Graphics Series",
+      "duration": 357
+    },
+    {
+      "id": "00zhJvHuLcY",
+      "title": "Mid Point Circle Drawing Algorithm Numerical 1 Explained in Hindi l Computer Graphics Series",
+      "duration": 540
+    },
+    {
+      "id": "G4voTeR_m04",
+      "title": "Mid Point Circle Drawing Algorithm Numerical 2 Explained in Hindi l Computer Graphics Series",
+      "duration": 329
+    },
+    {
+      "id": "U8_t_1hPotI",
+      "title": "What is Data Compression Explained in Hindi l Lossy and Lossless l Computer Graphics",
+      "duration": 658
+    },
+    {
+      "id": "P-2OrgVZ3wA",
+      "title": "Properties of Light | Color Models | Explained in Hindi | Computer Graphics Course",
+      "duration": 618
+    },
+    {
+      "id": "1me7aoL91Nk",
+      "title": "RGB Color Model Explained in Hindi | Computer Graphics Course",
+      "duration": 644
+    },
+    {
+      "id": "3JllSWjVdJo",
+      "title": "HSV (Hue, Saturation, Value) Color Model Explained in Hindi | Computer Graphics Course",
+      "duration": 533
+    },
+    {
+      "id": "tfzToTSuzf8",
+      "title": "CMY Color Model Explained in Hindi | Computer Graphics Course",
+      "duration": 663
+    },
+    {
+      "id": "CAZXaffAclg",
+      "title": "Illumination Models Part-1 Explained in Hindi | Computer Graphics Course",
+      "duration": 488
+    },
+    {
+      "id": "KqLHzlXOY44",
+      "title": "Illumination Models Part-2 Explained in Hindi | Computer Graphics Course",
+      "duration": 582
+    },
+    {
+      "id": "nAZ1SzoI64o",
+      "title": "Shading Models : Flat and Gouraud Shading Explained in Hindi | Computer Graphics Course",
+      "duration": 738
+    },
+    {
+      "id": "QN53_7GBRK0",
+      "title": "Phong Shading Explained in Hindi | Computer Graphics Course",
+      "duration": 425
+    },
+    {
+      "id": "_sbFebRrKAU",
+      "title": "3D Projection Introduction Video | Parallel and Perspective Projection Explained with Example Hindi",
+      "duration": 406
+    },
+    {
+      "id": "OwrdNTMqO5I",
+      "title": "Perspective Projection Vs Parallel Projection in Computer Graphics Explained with Example in Hindi ",
+      "duration": 472
+    },
+    {
+      "id": "F4MS36K3RJg",
+      "title": "Parallel Projection Types : Orthographic and Oblique Projections Explained with Example in Hindi ",
+      "duration": 704
+    },
+    {
+      "id": "KjtHOUbXmKw",
+      "title": "Perspective Projection & Types : One point, Two point & Three point perspectives Explained in Hindi",
+      "duration": 483
+    },
+    {
+      "id": "Ad2Ht4Ewm54",
+      "title": "Perspective Projection Solved Numericals Explained in Hindi | Computer Graphics ",
+      "duration": 240
+    }
+  ]
+}

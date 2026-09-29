@@ -1,0 +1,285 @@
+{
+  "courseId": "laravel-9-tutorial-ca5a61",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:43.638Z",
+  "title": "Laravel 9 tutorial",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "aE23W1Tf_ZU",
+      "title": "laravel 9 tutorial #1 what is Laravel",
+      "duration": 601
+    },
+    {
+      "id": "9fC5zmvbDwU",
+      "title": "Laravel 9 tutorial #2 Prerequisites | Important points before start with Laravel",
+      "duration": 618
+    },
+    {
+      "id": "k6cPFf0i0Cc",
+      "title": "Laravel 9 tutorial #3 What is MVC in laravel",
+      "duration": 290
+    },
+    {
+      "id": "z9iY_Tw8Ul0",
+      "title": "Laravel 9 tutorial #4 install Xampp | download PHP and MySql",
+      "duration": 293
+    },
+    {
+      "id": "0qZF6lW9Fto",
+      "title": "Laravel 9 tutorial #5 laravel composer install | What is Composer",
+      "duration": 548
+    },
+    {
+      "id": "GKA-2P9lXlA",
+      "title": "Laravel 9 tutorial #6 Install Laravel  | Create Laravel Application",
+      "duration": 358
+    },
+    {
+      "id": "Y2dyLlYHyzg",
+      "title": "Laravel 8 tutorial # Folder and file structure",
+      "duration": 485
+    },
+    {
+      "id": "54WJepj8siE",
+      "title": "Laravel 8 tutorial # Make first file",
+      "duration": 353
+    },
+    {
+      "id": "dxHTkqSpz-w",
+      "title": "Laravel 8 tutorial # Routing with example",
+      "duration": 788
+    },
+    {
+      "id": "X0yYnGb9RtM",
+      "title": "Laravel 8 tutorial # controller",
+      "duration": 510
+    },
+    {
+      "id": "79fjVrH7Ph8",
+      "title": "Laravel 8 tutorial # View",
+      "duration": 666
+    },
+    {
+      "id": "lqtqEsk1Jl0",
+      "title": "Laravel 9 tutorial # URL generation in laravel #laravel9",
+      "duration": 596
+    },
+    {
+      "id": "jJBs2dlj75Y",
+      "title": "Laravel 8 tutorial # Component",
+      "duration": 558
+    },
+    {
+      "id": "qCK7exhFZLs",
+      "title": "Laravel 8 tutorial # Blade Template",
+      "duration": 784
+    },
+    {
+      "id": "j7PQYHpFQJs",
+      "title": "Laravel 8 tutorial -  Blade Template | Header | Footer",
+      "duration": 546
+    },
+    {
+      "id": "8DCF4Im8tKM",
+      "title": "Laravel 9 tutorial # Inline Blade template | laravel new feature",
+      "duration": 417
+    },
+    {
+      "id": "A-PCuzCTLWU",
+      "title": "Laravel 8 tutorial - Submit HTML form",
+      "duration": 490
+    },
+    {
+      "id": "-u-xcYC7TKg",
+      "title": "Laravel 8 tutorial - Form Validation",
+      "duration": 624
+    },
+    {
+      "id": "O0r7eQRZO3I",
+      "title": "Laravel 8 tutorial - What is middleware",
+      "duration": 568
+    },
+    {
+      "id": "cvTR7sL3T50",
+      "title": "Laravel 8 tutorial - Group middleware",
+      "duration": 459
+    },
+    {
+      "id": "UNFCw9nf8_Q",
+      "title": "Laravel 8 tutorial - Route middleware",
+      "duration": 408
+    },
+    {
+      "id": "Y-hM4nepJ8o",
+      "title": "Laravel 8 tutorial - Database configuration and Fetch Data",
+      "duration": 387
+    },
+    {
+      "id": "TCpNMofO3iA",
+      "title": "Laravel 8 tutorial - Model",
+      "duration": 699
+    },
+    {
+      "id": "L-PCVFvhDZ0",
+      "title": "Laravel 8 tutorial - Http Client",
+      "duration": 692
+    },
+    {
+      "id": "56rfoQoOaF4",
+      "title": "Laravel 8 tutorial - Http Request Methods",
+      "duration": 883
+    },
+    {
+      "id": "idw3k9EvmcE",
+      "title": "Laravel 8 tutorial - Session | with login example",
+      "duration": 757
+    },
+    {
+      "id": "Pmk53CLXm-g",
+      "title": "Laravel 8 tutorial - Flash Session | Example",
+      "duration": 704
+    },
+    {
+      "id": "OOGmH-tTilA",
+      "title": "Laravel 8 tutorial - File Upload",
+      "duration": 438
+    },
+    {
+      "id": "ytuQ8oezLDw",
+      "title": "Laravel 8 tutorial - Localization | locale",
+      "duration": 790
+    },
+    {
+      "id": "y3p10h_00A8",
+      "title": "Laravel 8 tutorial - Show List from Database Table",
+      "duration": 595
+    },
+    {
+      "id": "vvf8e-1X4os",
+      "title": "Laravel 8 tutorial - Pagination with Database",
+      "duration": 567
+    },
+    {
+      "id": "xaMhrkr2Okw",
+      "title": "Laravel 8 tutorial - Save Data in Database",
+      "duration": 742
+    },
+    {
+      "id": "6PdI4hHGq4Q",
+      "title": "Laravel 8 tutorial - Delete Data in Database",
+      "duration": 608
+    },
+    {
+      "id": "i8P3Et1Q-K8",
+      "title": "Laravel 8 tutorial - Update Data in Database",
+      "duration": 642
+    },
+    {
+      "id": "mSseJJoePZg",
+      "title": "Laravel 8 tutorial - Query Builder",
+      "duration": 688
+    },
+    {
+      "id": "gbj8KX3pcGo",
+      "title": "Laravel 8 tutorial -  Aggregate methods | sum,avg,min,max etc",
+      "duration": 378
+    },
+    {
+      "id": "wkNkgkFePTg",
+      "title": "Laravel 8 tutorial - Joins",
+      "duration": 532
+    },
+    {
+      "id": "8USJR_D8pIk",
+      "title": "Laravel 11 tutorial - Migration",
+      "duration": 432
+    },
+    {
+      "id": "Uo0OJvXeknI",
+      "title": "Laravel 8 tutorial - Important Migration command for interview",
+      "duration": 630
+    },
+    {
+      "id": "SLEWYV43Jxo",
+      "title": "Laravel 11 tutorial - Seeding",
+      "duration": 390
+    },
+    {
+      "id": "B7bVaWL6BPU",
+      "title": "Laravel 8 tutorial - Accessors",
+      "duration": 418
+    },
+    {
+      "id": "uckmICzusv0",
+      "title": "Laravel 8 tutorial - Mutator",
+      "duration": 562
+    },
+    {
+      "id": "OSiio-7UkZw",
+      "title": "Laravel 8 tutorial - One to One Relation",
+      "duration": 581
+    },
+    {
+      "id": "zZRvuvrFBB0",
+      "title": "Laravel 8 tutorial - One to Many Relation",
+      "duration": 553
+    },
+    {
+      "id": "8am2rMlukm8",
+      "title": "Laravel 11 tutorial - Stub",
+      "duration": 390
+    },
+    {
+      "id": "aloKRHa8yuM",
+      "title": "Laravel 8 tutorial - Fluent Strings",
+      "duration": 389
+    },
+    {
+      "id": "EjVT_0Iqq3E",
+      "title": "Laravel 8 tutorial - Route Model Binding",
+      "duration": 411
+    },
+    {
+      "id": "4qyfHX_zLj0",
+      "title": "Laravel 8 - 7 tutorial - Markdown Mail Template",
+      "duration": 280
+    },
+    {
+      "id": "rbzoQ9e60Co",
+      "title": "Laravel 8 tutorial - Make Custom Command",
+      "duration": 376
+    },
+    {
+      "id": "0nJwYGvmX5M",
+      "title": "Laravel 8 tutorial - Multiple Database Connection",
+      "duration": 650
+    },
+    {
+      "id": "Jg5BMeEMBFw",
+      "title": "Laravel 8 tutorial - What is API | introduction",
+      "duration": 320
+    },
+    {
+      "id": "SLaNFCaUDLk",
+      "title": "Laravel 9 tutorial # New Features",
+      "duration": 847
+    },
+    {
+      "id": "El_KmcUYAkw",
+      "title": "Laravel 9 tutorial # Controller Route Groups | new feature",
+      "duration": 600
+    },
+    {
+      "id": "B-DTsHGbbTk",
+      "title": "Laravel 9 tutorial # what is Slot | example of slots | slots update in laravel 9",
+      "duration": 754
+    },
+    {
+      "id": "scNH2X8FJGo",
+      "title": "Laravel 9 tutorial # Add bootstrap in Laravel  #laravel9",
+      "duration": 439
+    }
+  ]
+}

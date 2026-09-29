@@ -1,0 +1,780 @@
+{
+  "courseId": "c-programming-bangla-tutorial-for-beginners-2023-full-course-3016a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrDxN3bRTRn0MuyOVcJi016T7i1LTOPRm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:48.262Z",
+  "title": "C Programming Bangla Tutorial for Beginners 2023 - Full Course for Free  | সি প্রোগ্রামিং টিউটোরিয়াল ফ্রি কোর্স",
+  "channel": "TechDev Point",
+  "videos": [
+    {
+      "id": "0GOb8ZfEZVg",
+      "title": "সি 1: C Programming Bangla Tutorial |  Course Curriculum | C programming for beginners",
+      "duration": 403
+    },
+    {
+      "id": "rMg_ZNHxbD4",
+      "title": "সি 2:  Environment Setup for C programming Language |Compiler | IDE | Code blocks| Eclipse",
+      "duration": 417
+    },
+    {
+      "id": "XPF8_sHxOFI",
+      "title": "সি 3:  How To Create C Projects in Code Blocks | Build & Run C Project | C programming in Bangla",
+      "duration": 335
+    },
+    {
+      "id": "5pJuKQtZz38",
+      "title": "সি 4: How To Create C Projects in Eclipse | Build & Run C Project | C Programming Bangla Tutorial",
+      "duration": 207
+    },
+    {
+      "id": "8HljC2RPTxY",
+      "title": "Understanding First C Program and its Structure | C programming Tutorial | সি প্রোগ্রামিং | Bangla",
+      "duration": 962
+    },
+    {
+      "id": "glB8XS_v1Aw",
+      "title": "Comments and Best practices to write comments in C program | Comment | সি প্রোগ্রামিং | Bangla",
+      "duration": 1163
+    },
+    {
+      "id": "lv3EaSF4zbE",
+      "title": "C Compilation Process | How does C Compilation Work? | সি প্রোগ্রামিং | Bangla",
+      "duration": 513
+    },
+    {
+      "id": "PnClEMxkXU0",
+      "title": "প্রি-প্রসেসর | Preprocessor in C Programming Language |   সি প্রোগ্রামিং | Bangla",
+      "duration": 787
+    },
+    {
+      "id": "UBFJNhbaLMA",
+      "title": "ক্যারেক্টার সেট ও টোকেন | সি প্রোগ্রামিং | Character Set & Token in C Programming Language | Bangla",
+      "duration": 536
+    },
+    {
+      "id": "t0XLcnwkkbo",
+      "title": "কীওয়ার্ডস ও  আইডেন্টিফায়ার | সি প্রোগ্রামিং |Keywords & Identifiers | C programming Language|Bangla",
+      "duration": 695
+    },
+    {
+      "id": "IXs8tfU4xAo",
+      "title": "ভ্যারিয়েবল |  সি প্রোগ্রামিং | Variable in C programming Language | Concept and How it Works |Bangla",
+      "duration": 698
+    },
+    {
+      "id": "IoPbKlT-FxI",
+      "title": "ডেটা টাইপ - পার্ট ১ | প্রাইমারি ডেটা টাইপ | Primary Data Types | C Programming | সি প্রোগ্রামিং",
+      "duration": 659
+    },
+    {
+      "id": "orQxiYcUj40",
+      "title": "ডেটা টাইপ - পার্ট 2 | int এবং float এর  কিছু কনসেপ্ট  | Type Casting | C Programming |সি প্রোগ্রামিং",
+      "duration": 412
+    },
+    {
+      "id": "nGbnt3vDPpw",
+      "title": "ডেটা টাইপ - পার্ট ৩ | float এবং double এর মধ্যে পার্থক্য | float vs double | সি প্রোগ্রামিং",
+      "duration": 1216
+    },
+    {
+      "id": "JHXrtVFS5Ak",
+      "title": "ডেটা টাইপ মডিফায়ার - পার্ট ১  | Data Types Modifier |sign, unsinged, short, long | C Programming",
+      "duration": 349
+    },
+    {
+      "id": "APXCz3G2_R4",
+      "title": "ডেটা টাইপ মডিফায়ার - পার্ট 2 | Data Types Modifiers for Integer Type| C Programming |সি প্রোগ্রামিং",
+      "duration": 622
+    },
+    {
+      "id": "wgOb-3csatw",
+      "title": "How are positive integers stored in memory?",
+      "duration": 200
+    },
+    {
+      "id": "yWUg81xFSUs",
+      "title": "নেগেটিভ ইন্টিজার নাম্বার কিভাবে মেমোরিতে স্টোর হয়ে থাকে|How negative integers are stored in memory",
+      "duration": 302
+    },
+    {
+      "id": "TdinJNvqa1w",
+      "title": "scanf() - Basic Input Function | C Programming | scanf() ফাংশন দিয়ে ইউজার ইনপুট সি প্রোগ্রামিং",
+      "duration": 724
+    },
+    {
+      "id": "0rO_jhXAlcI",
+      "title": "Swap two numbers using a Third Variable | Problem Solving in C | C Programming |সি প্রোগ্রামিং",
+      "duration": 510
+    },
+    {
+      "id": "KNplK3FHDfI",
+      "title": "Swap two numbers without using a Third Variable | Problem Solving in C | সি প্রোগ্রামিং",
+      "duration": 670
+    },
+    {
+      "id": "edGLLhLl58s",
+      "title": "Concept of Character Data Types | ক্যারেক্টার ডেটা টাইপের কিছু গুরুত্বপূর্ণ  কনসেপ্ট |C Programming",
+      "duration": 387
+    },
+    {
+      "id": "a7Lrb62R1UE",
+      "title": "Convert ASCII to Character and Character to ASCII | Problem Solving | C Programming | সি প্রোগ্রামিং",
+      "duration": 364
+    },
+    {
+      "id": "E2QAQP6s9XQ",
+      "title": "Signed VS Unsigned Character | Singed এবং Unsigned ক্যারেক্টারের  মধ্যে পার্থক্য | C Programming",
+      "duration": 664
+    },
+    {
+      "id": "NI_8LU1VtS8",
+      "title": "Convert Uppercase letter to Lowercase Letter and Vice Versa | C Programming |সি প্রোগ্রামিং",
+      "duration": 499
+    },
+    {
+      "id": "jJFTkwTWmPE",
+      "title": "Operators in C |অপারেটরস, অপারেন্ড ও এক্সপ্রেশন | বিভিন্ন অপারেটর ও তাদের ব্যবহার | C Programming",
+      "duration": 479
+    },
+    {
+      "id": "hi9QQa_BaxA",
+      "title": "Arithmetic Operators in C | C Programming | সি প্রোগ্রামিং",
+      "duration": 480
+    },
+    {
+      "id": "FRi7x4h3YMo",
+      "title": "C Program to Find Sum & Average of Three Integer Numbers | তিনটি পূর্ণ সংখ্যার যোগফল ও গড় নির্ণয়",
+      "duration": 403
+    },
+    {
+      "id": "vTPDxd-1ook",
+      "title": "How to Find Area of a Triangle |  ত্রিভুজের ক্ষেত্রফল নির্ণয় | C Programming |সি প্রোগ্রামিং",
+      "duration": 290
+    },
+    {
+      "id": "WrxlYq1s24g",
+      "title": "Precedence and Associativity of Operators in C | C Programming Tutorial |সি প্রোগ্রামিং",
+      "duration": 872
+    },
+    {
+      "id": "UXn4J5FhO1k",
+      "title": "Concept of Increment & Decrement Operators - Part 1| ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর|C Programming",
+      "duration": 513
+    },
+    {
+      "id": "m13GfxsiFhQ",
+      "title": "Increment & Decrement Operators - Part 2| Debugging and Program | ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর",
+      "duration": 457
+    },
+    {
+      "id": "F-uIQekGjtI",
+      "title": "Increment & Decrement Operators - Part 3| Execution inside printf() function | C Programming",
+      "duration": 904
+    },
+    {
+      "id": "kBdt_7RfbCs",
+      "title": "Assignment Operators in C | এসাইনমেন্ট অপারেটর | C Programming | সি প্রোগ্রামিং",
+      "duration": 675
+    },
+    {
+      "id": "ZxNEzlOK8RE",
+      "title": "Relational Operators in C | Relational Operators | C Programming | C Programming",
+      "duration": 829
+    },
+    {
+      "id": "9bqnKKA5U3g",
+      "title": "Logical Operators in C | লজিক্যাল অপারেটরস | C Programming | সি প্রোগ্রামিং",
+      "duration": 997
+    },
+    {
+      "id": "TzMEWuQAfsM",
+      "title": "Bitwise Operators in C - Part 1 | বিটওয়াইজ অপারেটরস | C Programming |সি প্রোগ্রামিং",
+      "duration": 420
+    },
+    {
+      "id": "1qXnN0INano",
+      "title": "Bitwise Operator  Part 2 - Bitwise NOT, Right Shift, Left Shift | C Programming | সি প্রোগ্রামিং",
+      "duration": 1003
+    },
+    {
+      "id": "ftrc7L9Av1c",
+      "title": "Comma Operator in C | C Programming | সি প্রোগ্রামিং | #techdevpoint",
+      "duration": 866
+    },
+    {
+      "id": "J0csfcKbLZ4",
+      "title": "Formatted Input Functions in C | scanf() and sscanf() | C Programming |সি প্রোগ্রামিং",
+      "duration": 1323
+    },
+    {
+      "id": "bG_LHzCe36Y",
+      "title": "Unformatted Input Functions| getch(), getche(), getchar(), gets() | C Programming | সি প্রোগ্রামিং",
+      "duration": 732
+    },
+    {
+      "id": "uQiHqfZgVvw",
+      "title": "Unformatted Output Functions| putch(), putchar(), puts() | C Programming | সি প্রোগ্রামিং",
+      "duration": 410
+    },
+    {
+      "id": "q54rT8sGeyg",
+      "title": "Lec 43: Algorithm & Pseudocode? অ্যালগরিদম ও সিউডোকোড? C Programming | সি প্রোগ্রামিং|@techdevpoint",
+      "duration": 629
+    },
+    {
+      "id": "2nUnrvFZvh0",
+      "title": "Lec 44: What is Flowchart? How to design a Program Flowchart? C Programming Bangla Tutorial",
+      "duration": 468
+    },
+    {
+      "id": "35DxYFvMfm8",
+      "title": "Lec 45: if statement in C | Conditional Control Statement | C Programming Bangla Tutorial",
+      "duration": 721
+    },
+    {
+      "id": "53gBQG4M-MU",
+      "title": "Lec 46: if-else statement in C| Conditional Control Statement | C Programming Bangla Tutorial",
+      "duration": 369
+    },
+    {
+      "id": "vOaR5zyVPRc",
+      "title": "Lec 47: Check Whether an Integer Number is Even or Odd | C Programming Bangla Tutorial",
+      "duration": 271
+    },
+    {
+      "id": "djcciUfi9js",
+      "title": "Lec 48: nested-if statement | Flowchart | C Programming Bangla tutorial | সি প্রোগ্রামিং",
+      "duration": 403
+    },
+    {
+      "id": "ygjKFNEptAk",
+      "title": "Lec 49: Find the largest of three integer numbers | C Programming Bangla tutorial | সি প্রোগ্রামিং",
+      "duration": 565
+    },
+    {
+      "id": "QsR-zzASIfg",
+      "title": "Lec 50: if-else Ladder | Flowchart and Example | C Programming Tutorial",
+      "duration": 683
+    },
+    {
+      "id": "yUz0sxf4ZiA",
+      "title": "Lec 51: Student Grading System | if-else ladder | C Programming Bangla Tutorial |সি প্রোগ্রামিং",
+      "duration": 594
+    },
+    {
+      "id": "jjOjMploqYQ",
+      "title": "Lec 52: Part 1- Convert Celsius to Fahrenheit & Vice Versa | Pseudocode |  C Programming Bangla",
+      "duration": 382
+    },
+    {
+      "id": "BKkMgjuRFXA",
+      "title": "Lec 53: Part 2 - Convert Celsius to Fahrenheit & Vice Versa | C Program |  C Programming Bangla",
+      "duration": 383
+    },
+    {
+      "id": "-u_mV5mu8BU",
+      "title": "Lec 54: switch Statement | Full concept with examples | C Programming Bangla Tutorial|সি প্রোগ্রামিং",
+      "duration": 1197
+    },
+    {
+      "id": "vcmfyENtL1o",
+      "title": "Lec 55: Simple Calculator Program in C | Switch Statement | C Programming Bangla Tutorial",
+      "duration": 1080
+    },
+    {
+      "id": "swnhXoTj5pg",
+      "title": "Lec 56: Check Whether a Character is Vowel or Consonant | Switch | C Programming Bangla Tutorial",
+      "duration": 807
+    },
+    {
+      "id": "4qGUr8xeOvk",
+      "title": "Lec: 57 if-else vs switch statement | difference between if-else & switch |C Programming Bangla",
+      "duration": 826
+    },
+    {
+      "id": "VOJKyNPyiYs",
+      "title": "Lec 58: Introduction to Loops in C Programming | C programming Bangla Tutorial | Use of Loops in C",
+      "duration": 509
+    },
+    {
+      "id": "5jRKkdxxhrU",
+      "title": "Lec 59: C Programming for Loops Basic (part 1) | C Programming Bangla Tutorial",
+      "duration": 625
+    },
+    {
+      "id": "MFJiUhPOLIk",
+      "title": "Lec 60: for Loop Variations (part2) | Initialization Variations | C Programming Bangla Tutorial",
+      "duration": 708
+    },
+    {
+      "id": "0uoxYNrPcM8",
+      "title": "Lec 61: for Loop Variations (part3) | Loop Update Variations | C Programming Bangla Tutorial",
+      "duration": 411
+    },
+    {
+      "id": "Qw_IdyY8eeQ",
+      "title": "Lec 62: for Loop Variations (part4) | Loop Condition Variations | C Programming Bangla Tutorial",
+      "duration": 666
+    },
+    {
+      "id": "8iuSzLTPTB0",
+      "title": "Lec 63: for Loop Variations (part5) | Infinite For Loop  | C Programming Bangla Tutorial",
+      "duration": 433
+    },
+    {
+      "id": "rwRS9HAmJI0",
+      "title": "Lec 64: for Loop Variations (last part)| Empty For Loop | Loop without body |C Programming Bangla",
+      "duration": 530
+    },
+    {
+      "id": "MASdg0CUlWM",
+      "title": "Lec 65: Print Multiplication Table using for Loop | C Programming Tutorial Bangla | সি প্রোগ্রামিং",
+      "duration": 445
+    },
+    {
+      "id": "hl_YC6TOBOs",
+      "title": "Lec 66: while loop Basics | How to code while loop |  C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 427
+    },
+    {
+      "id": "v9ws67qXRHI",
+      "title": "Lec 67: Print all Even Numbers from 1 to N | Problem Solving |  C Programming |সি প্রোগ্রামিং",
+      "duration": 624
+    },
+    {
+      "id": "ivFsqz4zaHo",
+      "title": "Lec 68: Sum of all digits of an Integer Number | C Programming Bangla Tutorial | Problem Solving",
+      "duration": 702
+    },
+    {
+      "id": "izHWKUD3UDc",
+      "title": "Lec 69: do while loop  | while loop vs do while loop | C Programming Tutorial Bangla |সি প্রোগ্রামিং",
+      "duration": 481
+    },
+    {
+      "id": "5R3XGtePiA0",
+      "title": "Lec 70: Nested Loop |  Nested for Loop in C | Star Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 636
+    },
+    {
+      "id": "_TpsY__Tv68",
+      "title": "Lec 71: Nested while Loop | Star Pattern in C | Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 656
+    },
+    {
+      "id": "bVtknYkypmk",
+      "title": "Lec 72: Star Pattern -1 | Half Pyramid | Patterns in C | C Programming Bangla Tutorial | সি",
+      "duration": 401
+    },
+    {
+      "id": "VHxbYGoOcck",
+      "title": "Lec 73: Star Pattern -2 | Inverted Half Pyramid | Patterns in C | C Programming Bangla Tutorial | সি",
+      "duration": 677
+    },
+    {
+      "id": "FaaXZAwKW7s",
+      "title": "Lec 74: Star Pattern -3 | Full Pyramid Star Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 601
+    },
+    {
+      "id": "zebXyjNQBW0",
+      "title": "Lec 75: Star Pattern -4 | Inverted Pyramid Star Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 700
+    },
+    {
+      "id": "YCcgPigdi-U",
+      "title": "Lec 76: Star Pattern -5 | Diamond Star Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 518
+    },
+    {
+      "id": "BDF7cBwyORc",
+      "title": "Lec 77: Star Pattern -6 | Half Diamond Star Pattern in C | C Programming Bangla Tutorial | সি",
+      "duration": 473
+    },
+    {
+      "id": "BZ8MiTmrqWE",
+      "title": "Lec 78: Star Pattern -7 | Hollow Right Triangle Star Pattern in C | C Programming Bangla Tutorial",
+      "duration": 506
+    },
+    {
+      "id": "1Q_NwHWFmaU",
+      "title": "Lec 79: Star Pattern -8 | Hollow Pyramid Star Pattern in C | C Programming Bangla Tutorial",
+      "duration": 547
+    },
+    {
+      "id": "Ca8cDWHKGFc",
+      "title": "সি প্রোগ্রামিং 80: Star Pattern -9 | Hollow Diamond Star Pattern in C | Pattern in C Bangla Tutorial",
+      "duration": 646
+    },
+    {
+      "id": "J9hvph-Yk6E",
+      "title": "সি প্রোগ্রামিং 81: Number Pattern -1 | Cross Number Pattern in C | Pattern in C Bangla",
+      "duration": 528
+    },
+    {
+      "id": "Zh3W0CtqFXc",
+      "title": "সি প্রোগ্রামিং 82: Number Pattern -2 |  Pattern in C Bangla | C Programming Bangla Tutorial",
+      "duration": 582
+    },
+    {
+      "id": "SbOQnnjbruM",
+      "title": "সি প্রোগ্রামিং 83: Number Pattern -3 | Pattern in C Bangla | C Programming Bangla Tutorial",
+      "duration": 404
+    },
+    {
+      "id": "ccguqtmB5so",
+      "title": "সি প্রোগ্রামিং: 84# Alphabet Pattern -1 |  Pattern in C Bangla | C Programming Bangla Tutorial",
+      "duration": 624
+    },
+    {
+      "id": "L5pUX9HtxnM",
+      "title": "সি প্রোগ্রামিং: 85# Alphabet Pattern -2 |  Pattern in C Bangla | C Programming Bangla Tutorial",
+      "duration": 999
+    },
+    {
+      "id": "ScKtrtTInjw",
+      "title": "সি প্রোগ্রামিং: 86# break & continue Statement in C | C Programming Bangla Tutorial",
+      "duration": 912
+    },
+    {
+      "id": "cxYbe2Y8u_o",
+      "title": "সি প্রোগ্রামিং # 87 Understanding Arrays in C: Declaration, Memory Layout, and Element Access",
+      "duration": 750
+    },
+    {
+      "id": "XodUQXQpCtI",
+      "title": "সি প্রোগ্রামিং 88# Different ways to initialize arrays in C | Programming Bangla Tutorial",
+      "duration": 937
+    },
+    {
+      "id": "yQFPcOnIfC8",
+      "title": "সি প্রোগ্রামিং 89# Initializing Array using User Input | Calculate the Sum & Avg |  Input Validity",
+      "duration": 905
+    },
+    {
+      "id": "WuWDMlvzDgw",
+      "title": "সি প্রোগ্রামিং 90: Calculate GPA Using Array in C with Input Validity Check -  Bangla Tutorial",
+      "duration": 1193
+    },
+    {
+      "id": "38BRgjCsq9c",
+      "title": "সি প্রোগ্রামিং 91: How to Declare and Initialize 2D Arrays in C | C Programming Bangla Tutorial",
+      "duration": 1071
+    },
+    {
+      "id": "OeZs4-LkMhY",
+      "title": "সি প্রোগ্রামিং 92: How to Assign Value and Print a 2D Arrays in C | C Programming Bangla Tutorial",
+      "duration": 699
+    },
+    {
+      "id": "EEOanw7jMZQ",
+      "title": "সি প্রোগ্রামিং 93:  Matrix Addition Using 2D Array | C Programming Bangla Tutorial | Problem Solving",
+      "duration": 727
+    },
+    {
+      "id": "3QjrgWTMejc",
+      "title": "সি প্রোগ্রামিং 94: Matrix Multiplication: Essential Concepts |2D Array|C Programming Bangla Tutorial",
+      "duration": 559
+    },
+    {
+      "id": "DMTQisK5KgM",
+      "title": "সি প্রোগ্রামিং 95: Matrix Multiplication: Algorithm & Program|2D Array|C Programming Bangla Tutorial",
+      "duration": 979
+    },
+    {
+      "id": "ftL6-haZFCc",
+      "title": "সি প্রোগ্রামিং 96: String in C| Basic Concept | C Programming Bangla Tutorial | for Beginners",
+      "duration": 496
+    },
+    {
+      "id": "ib44kFtq6rA",
+      "title": "সি প্রোগ্রামিং 97: Get a String as a User Input in C | Four Methods | C Programming Bangla Tutorial",
+      "duration": 1047
+    },
+    {
+      "id": "LdOGATGKnGk",
+      "title": "সি প্রোগ্রামিং 98: C Program to Count Alphabets, Digits & Special characters from a String | Bangla",
+      "duration": 682
+    },
+    {
+      "id": "L2hf-Cw0_NY",
+      "title": "সি প্রোগ্রামিং 99: Find the length of a String in C | with and without strlen()|C Programming Bangla",
+      "duration": 446
+    },
+    {
+      "id": "sKXf3ZqyO-4",
+      "title": "সি প্রোগ্রামিং 100: String Concatenation in C: strcat() & strncat() | C Programming Bangla Tutorial",
+      "duration": 457
+    },
+    {
+      "id": "AT7ziQjOyYY",
+      "title": "সি প্রোগ্রামিং 101: Compare Two Strings in C | strcmp() and strncmp()| C Programming Bangla Tutorial",
+      "duration": 628
+    },
+    {
+      "id": "oR4hJHaeSH0",
+      "title": "সি প্রোগ্রামিং102: Compare two strings without strcmp() function in C |C Programming Bangla Tutorial",
+      "duration": 472
+    },
+    {
+      "id": "zLupA6ql2Ec",
+      "title": "সি প্রোগ্রামিং 103: Formatted Input Output Functions | sscanf() and sprintf() functions | Bangla",
+      "duration": 626
+    },
+    {
+      "id": "M-wx8DW1UAU",
+      "title": "সি 104: String Case Conversion in C: strlwr(), strupr(), tolower(), toupper()  | C Bangla Tutorial",
+      "duration": 486
+    },
+    {
+      "id": "pPtHNGsIWwE",
+      "title": "সি 105: Reverse a String in C | With and Without strrev() function | C Programming Bangla Tutorial",
+      "duration": 597
+    },
+    {
+      "id": "LWwwi-KltsQ",
+      "title": "সি 106: Efficient String Reversal in C: Two-Pointer Approach | C Programming Bangla Tutorial",
+      "duration": 511
+    },
+    {
+      "id": "Xj1aop7hApY",
+      "title": "সি 107: Copy String in C | strcpy() and strncpy() function | C Programming Bangla Tutorial",
+      "duration": 400
+    },
+    {
+      "id": "wpWK4FNqNdU",
+      "title": "সি 108: Swap Two Strings using strcpy() function | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 325
+    },
+    {
+      "id": "4rzxlSf13RQ",
+      "title": "সি 109: Array of Strings in C | How to work with multiple strings | C Programming Bangla Tutorial",
+      "duration": 806
+    },
+    {
+      "id": "xDsAEvfiKLo",
+      "title": "সি প্রোগ্রামিং শেখার গাইডলাইন | Guideline to learn C programming from this Channel | C Programming",
+      "duration": 630
+    },
+    {
+      "id": "F4IQZyc1pns",
+      "title": "সি 110: Introduction to Functions | Importance of Function in C | C Programming Bangla Tutorial",
+      "duration": 687
+    },
+    {
+      "id": "IFoMQ65OOnY",
+      "title": "সি 111: Function Definition, Declaration and Call | Stack Frame | C Programming Bangla Tutorial",
+      "duration": 777
+    },
+    {
+      "id": "BoziGAsA6EU",
+      "title": "সি 112: Function Categories based on Arguments & Return Value | C Programming Bangla Tutorial",
+      "duration": 641
+    },
+    {
+      "id": "B0joRXyDyyw",
+      "title": "সি 113: Find Prime Numbers using Function in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 651
+    },
+    {
+      "id": "629rrWM_m4U",
+      "title": "সি 114: Find Prime Numbers using Function in C | Efficient Approach | C Programming Bangla Tutorial",
+      "duration": 1226
+    },
+    {
+      "id": "SaBJ1wWpTbU",
+      "title": "সি 115: Introduction to Pointers | Basic Concept of Pointers in C | C Programming Bangla Tutorial",
+      "duration": 845
+    },
+    {
+      "id": "HUmhnGwoXaY",
+      "title": "Pointer arithmetic in c | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 329
+    },
+    {
+      "id": "wVxdZcCQ7Nk",
+      "title": "সি 117: Pointer and Array in C| important concept of pointer & Array | C Programming Bangla Tutorial",
+      "duration": 652
+    },
+    {
+      "id": "mAhhZm6VMFk",
+      "title": "সি 118: Pointer and String in C | Array String vs Pointer String | Programming Bangla Tutorial",
+      "duration": 964
+    },
+    {
+      "id": "5glmXVpuK9g",
+      "title": "সি 119: Call by Value and Call by Reference in C | C Programming Bangla Tutorial| Function Call in C",
+      "duration": 683
+    },
+    {
+      "id": "E4qxrWDvm18",
+      "title": "সি 120: Learn how to pass arrays to functions in C programming | C Programming Bangla Tutorial",
+      "duration": 647
+    },
+    {
+      "id": "XYYjFf124lA",
+      "title": "সি 121: Passing Strings to Functions in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 471
+    },
+    {
+      "id": "z4hzp1-XkVc",
+      "title": "সি 112: Return Pointer from a Function in C | C Programming Bangla Tutorial |  সি প্রোগ্রামিং",
+      "duration": 476
+    },
+    {
+      "id": "U3MRH4ha-C4",
+      "title": "সি 123: Pointer to Pointer | Double Pointer in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 555
+    },
+    {
+      "id": "s5kvOpDkQzI",
+      "title": "সি 124: Void Pointers in C |  C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 489
+    },
+    {
+      "id": "qzRkIAQCmfY",
+      "title": "সি 125: Recursion in C | Recursive Function | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 895
+    },
+    {
+      "id": "0Cj_xSDPsbE",
+      "title": "সি 126: Fibonacci Series using Recursive Function | Recursion in C | C Programming Bangla Tutorial",
+      "duration": 759
+    },
+    {
+      "id": "Mjr7747P-Ks",
+      "title": "সি 127: Find Factorial of a Number in C using Recursive Function | C Programming Bangla Tutorial",
+      "duration": 616
+    },
+    {
+      "id": "YdigCWKYmZw",
+      "title": "সি 128: Tail & Non-Tail Recursion | Types of Recursion in C | C Programming Bangla Tutorial",
+      "duration": 865
+    },
+    {
+      "id": "LC1YlOCZR6E",
+      "title": "সি 129: Direct & Indirect Recursion | Types of Recursion in C | C Programming Bangla Tutorial",
+      "duration": 370
+    },
+    {
+      "id": "JbyPjCzM50U",
+      "title": "কন্ডিশনাল কন্ট্রোল স্টেটমেন্ট | Conditional Control Statements | C Programming Bangla Tutorial",
+      "duration": 6445
+    },
+    {
+      "id": "kH5bP4n6rkQ",
+      "title": "সি  130: Introduction to Structure in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 343
+    },
+    {
+      "id": "daqBlCFPE_0",
+      "title": "সি 131: Declaring Structure Variables & Accessing Structure Members | C Programming Bangla Tutorial",
+      "duration": 632
+    },
+    {
+      "id": "x1tB4pYVQC8",
+      "title": "সি 132: Initialization of Structure in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 384
+    },
+    {
+      "id": "aYvG2b9kaUs",
+      "title": "সি 133: Array of Structure in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 512
+    },
+    {
+      "id": "FfoGizFTlpg",
+      "title": "সি 134: User Input to Array of Structure in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 1009
+    },
+    {
+      "id": "ODquF7EfMr8",
+      "title": "সি 135: Scope of Variables in C | Global, Local & Block Scope |  Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 1057
+    },
+    {
+      "id": "3I-Lt15sH9U",
+      "title": "সি 136: Global & Local Scope of Structure in C Programming | Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 496
+    },
+    {
+      "id": "COqISYVxFGA",
+      "title": "C 137: Pointer to Structure Variable | C Programming Bangla Tutorial | C Programming",
+      "duration": 231
+    },
+    {
+      "id": "K6uPxIWJDak",
+      "title": "সি 138: Passing Structure Members &  Variable  to Function as Arguments in C | Bangla Tutorial",
+      "duration": 356
+    },
+    {
+      "id": "tdAJcqFKWbM",
+      "title": "সি 139: Passing Structure Pointer to Function | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 562
+    },
+    {
+      "id": "ZZij5QURXbs",
+      "title": "সি 140: Passing Structure Array to Function | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 331
+    },
+    {
+      "id": "pLvjlGufT-k",
+      "title": "সি 141: Return Structure Variable From Function | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 547
+    },
+    {
+      "id": "dMPM03E2lRk",
+      "title": "সি 142: Structure using typdef in C | typdef Basics | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 446
+    },
+    {
+      "id": "ZjUDL8Vd9QQ",
+      "title": "সি 143: Structure Padding in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 374
+    },
+    {
+      "id": "nTTR7mc68io",
+      "title": "সি 144: Structure Packing in C | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 318
+    },
+    {
+      "id": "tVBirCGkaEo",
+      "title": "সি 145: File Handling in C - Introduction  | C Programming Bangla Tutorial | সি প্রোগ্রামিং",
+      "duration": 219
+    },
+    {
+      "id": "tQ7TM4Xn8xA",
+      "title": "সি 146: File Handling in C | fopen() & fclose() function in C| C Programming Bangla Tutorial",
+      "duration": 694
+    },
+    {
+      "id": "ZSUim8guG6U",
+      "title": "সি 147: File Handling in C | Writing in a File in C - Part 1 | C Programming Bangla Tutorial",
+      "duration": 698
+    },
+    {
+      "id": "NuaQO69O2dA",
+      "title": "সি  148: File Handling in C | File Writing using Structure - Part 2 | C Programming Bangla Tutorial",
+      "duration": 1009
+    },
+    {
+      "id": "AVvtIsC2mtY",
+      "title": "সি  149: File Handling in C | Read a File - fgetc, fgets, ftell, rewind, feof Functions in C| Bangla",
+      "duration": 1161
+    },
+    {
+      "id": "eE3_BrSPos0",
+      "title": "সি  150: File Handling in C | Read Formatted Data from a File in C | fscanf() function | Bangla",
+      "duration": 633
+    },
+    {
+      "id": "PPcXNucIbk0",
+      "title": "সি 152: Static vs Dynamic Memory Allocation | Compile Time Vs Run Time | C Programming Bangla",
+      "duration": 417
+    },
+    {
+      "id": "edktGPddD1M",
+      "title": "সি 153: Dynamic Memory Allocation using Functions - malloc(), calloc(), realloc() and free() in C",
+      "duration": 1884
+    }
+  ]
+}

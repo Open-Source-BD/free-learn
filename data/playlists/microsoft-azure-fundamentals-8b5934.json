@@ -1,0 +1,210 @@
+{
+  "courseId": "microsoft-azure-fundamentals-8b5934",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:30.152Z",
+  "title": "Microsoft Azure Fundamentals (AZ-900) Full Course",
+  "channel": "Adam Marczak - Azure for Everyone",
+  "videos": [
+    {
+      "id": "NPEsD6n9A_I",
+      "title": "AZ-900 | Microsoft Azure Fundamentals Full Course, Free Practice Tests, Website and Study Guides",
+      "duration": 410
+    },
+    {
+      "id": "Pt9LelJ0fL0",
+      "title": "AZ-900 Episode 1 | Cloud Computing and Vocabulary | Microsoft Azure Fundamentals Full Course",
+      "duration": 580
+    },
+    {
+      "id": "TMynEWIE3SM",
+      "title": "AZ-900 Episode 2 | Principle of economies of scale | Microsoft Azure Fundamentals Full Course",
+      "duration": 262
+    },
+    {
+      "id": "7KEygnLtRyE",
+      "title": "AZ-900 Episode 3 | CapEx vs OpEx and their differences | Microsoft Azure Fundamentals Full Course",
+      "duration": 314
+    },
+    {
+      "id": "NdqncsMtryY",
+      "title": "AZ-900 Episode 4 | Consumption-based Model | Microsoft Azure Fundamentals Course",
+      "duration": 366
+    },
+    {
+      "id": "9CVBohl6w0Q",
+      "title": "AZ-900 Episode 5 | IaaS vs PaaS vs SaaS cloud service models | Microsoft Azure Fundamentals Course",
+      "duration": 479
+    },
+    {
+      "id": "XlNR7myQydI",
+      "title": "AZ-900 Episode 6 | Public, Private & Hybrid cloud deployment models | Azure Fundamentals Course",
+      "duration": 317
+    },
+    {
+      "id": "C-nNw1mGwzE",
+      "title": "AZ-900 Episode 7 | Geographies, Regions & Availability Zones | Microsoft Azure Fundamentals Course",
+      "duration": 891
+    },
+    {
+      "id": "gIhf-S7BCdo",
+      "title": "AZ-900 Episode 8 | Resources, Resource Groups & Resource Manager | Azure Fundamentals Course",
+      "duration": 811
+    },
+    {
+      "id": "inaXkN2UrFE",
+      "title": "AZ-900 Episode 9 | Compute Services | VMs, VM Scale Set, App Service, Functions, ACI, AKS | Azure",
+      "duration": 1542
+    },
+    {
+      "id": "5NMcM4zJPM4",
+      "title": "AZ-900 Episode 10 | Networking Services | Virtual Network, VPN Gateway, CDN, Load Balancer, App GW",
+      "duration": 1034
+    },
+    {
+      "id": "_Qlkvd4ZQuo",
+      "title": "AZ-900 Episode 11 | Azure Storage Services | Blob, Queue, Table, Files, Disk and Storage Tiers",
+      "duration": 1165
+    },
+    {
+      "id": "RqD4nMyBazU",
+      "title": "AZ-900 Episode 12 | Database Services | Cosmos DB, SQL Database, Db for MySQL & PostgreSQL",
+      "duration": 804
+    },
+    {
+      "id": "ersOL_o_lzc",
+      "title": "AZ-900 Episode 13 | Azure Marketplace",
+      "duration": 358
+    },
+    {
+      "id": "RHkqFxJWhr8",
+      "title": "AZ-900 Episode 14 | Azure IoT Services | IoT Hub, IoT Central, Azure Sphere",
+      "duration": 594
+    },
+    {
+      "id": "JUQXx0R0RfE",
+      "title": "AZ-900 Episode 15 | Azure Big Data & Analytics Services | Synapse, HDInsight, Databricks",
+      "duration": 624
+    },
+    {
+      "id": "8aMzR8iaB9s",
+      "title": "AZ-900 Episode 16 | Azure Artificial Intelligence (AI) Services | Machine Learning Studio & Service",
+      "duration": 490
+    },
+    {
+      "id": "ansa4M7iTmg",
+      "title": "AZ-900 Episode 17 | Azure Serverless Computing Services | Functions, Logic Apps, Event Grid",
+      "duration": 594
+    },
+    {
+      "id": "8M4DN9hjAeY",
+      "title": "AZ-900 Episode 18 | Azure DevOps Solutions | Azure DevOps, DevTest Labs",
+      "duration": 626
+    },
+    {
+      "id": "8JHY0xPssb8",
+      "title": "AZ-900 Episode 19 | Azure Tools | Azure Portal, CLI, PowerShell & Cloud Shell",
+      "duration": 629
+    },
+    {
+      "id": "58_6MkB2znI",
+      "title": "AZ-900 Episode 20 | Azure Advisor",
+      "duration": 378
+    },
+    {
+      "id": "w8H5fWBHddA",
+      "title": "AZ-900 Episode 21 | Azure Security Groups | Network and Application Security Groups (NSG, ASG)",
+      "duration": 523
+    },
+    {
+      "id": "BUH9kVTrM-8",
+      "title": "AZ-900 Episode 22 | User-defined Routes (UDR) with Route Tables",
+      "duration": 375
+    },
+    {
+      "id": "VIEaz869njk",
+      "title": "AZ-900 Episode 23 | Azure Firewall",
+      "duration": 329
+    },
+    {
+      "id": "MUVFMF9DgM0",
+      "title": "AZ-900 Episode 24 | Azure DDoS Protection | Distributed Denial of Service",
+      "duration": 301
+    },
+    {
+      "id": "b_WIjY-burU",
+      "title": "AZ-900 Episode 25 | Azure Identity Services | Authentication, Authorization & Active Directory (AD)",
+      "duration": 701
+    },
+    {
+      "id": "tyztKP9rszU",
+      "title": "AZ-900 Episode 26 | Azure Security Center",
+      "duration": 672
+    },
+    {
+      "id": "AA3yYg9Zq9w",
+      "title": "AZ-900 Episode 27 | Azure Key Vault | Secret, Key and Certificate Management",
+      "duration": 552
+    },
+    {
+      "id": "4v7ffXxOnwU",
+      "title": "AZ-900 Episode 28 | Azure Role-based Access Control (RBAC)",
+      "duration": 822
+    },
+    {
+      "id": "eDH20Ve0eI0",
+      "title": "AZ-900 Episode 29 | Azure Resource Locks",
+      "duration": 478
+    },
+    {
+      "id": "J40eJR4qQ0w",
+      "title": "AZ-900 Episode 30 | Azure Resource Tags",
+      "duration": 754
+    },
+    {
+      "id": "9WO4EBgUJXk",
+      "title": "AZ-900 Episode 31 | Azure Policy",
+      "duration": 875
+    },
+    {
+      "id": "3rSCnAZPNfo",
+      "title": "AZ-900 Episode 32 | Azure Blueprints",
+      "duration": 625
+    },
+    {
+      "id": "d6usiB4MKq8",
+      "title": "AZ-900 Episode 33 | Cloud Adoption Framework for Azure",
+      "duration": 1372
+    },
+    {
+      "id": "zBzsDYZw98M",
+      "title": "AZ-900 Episode 34 | Core tenets of Security, Privacy, Compliance (Trust Center, DPA, OST, and more.)",
+      "duration": 937
+    },
+    {
+      "id": "Z8wvj_oe97M",
+      "title": "AZ-900 Episode 35 | Cost Affecting Factors",
+      "duration": 668
+    },
+    {
+      "id": "ZV2bfoqFpZ8",
+      "title": "AZ-900 Episode 36 | Cost Reduction Methods, Reservations, Hybrid benefit, Spot VM, Pricing & TCO",
+      "duration": 940
+    },
+    {
+      "id": "7w88KBVesPI",
+      "title": "AZ-900 Episode 37 | Azure Cost Management",
+      "duration": 615
+    },
+    {
+      "id": "WuzpcMZ1UxI",
+      "title": "AZ-900 Episode 38 | SLA and Composite SLA in Azure",
+      "duration": 880
+    },
+    {
+      "id": "J4HzsmuClV0",
+      "title": "AZ-900 Episode 39 | Service Lifecycle in Azure | Public Preview and General Availability",
+      "duration": 422
+    }
+  ]
+}

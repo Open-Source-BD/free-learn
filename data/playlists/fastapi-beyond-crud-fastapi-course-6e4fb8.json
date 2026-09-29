@@ -1,0 +1,140 @@
+{
+  "courseId": "fastapi-beyond-crud-fastapi-course-6e4fb8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:45.721Z",
+  "title": "FastAPI Beyond CRUD FastAPI Course (Book Review REST API Project)",
+  "channel": "Ssali Jonathan",
+  "videos": [
+    {
+      "id": "Uw4FPr-dD7Q",
+      "title": "Introduction And Project Set Up - FastAPI Beyond CRUD (Part 1)",
+      "duration": 490
+    },
+    {
+      "id": "7DQEQPlBNVM",
+      "title": "Web Server Basics (Path & Query Params, Request Body, Headers) - FastAPI Beyond CRUD (Part 2)",
+      "duration": 2573
+    },
+    {
+      "id": "W8D-crU5-Fc",
+      "title": "Build a CRUD REST API (Response Models, Validation, And Exceptions) - FastAPI Beyond CRUD (Part 3)",
+      "duration": 2059
+    },
+    {
+      "id": "_kNyYIFSOFU",
+      "title": "Modular Project Structure With FastAPI Routers - FastAPI Beyond CRUD (Part 4)",
+      "duration": 935
+    },
+    {
+      "id": "vTLpK5JNoWA",
+      "title": "Databases With SQLModel (Connection, Lifespan Events, And Models) - FastAPI Beyond CRUD (Part 5)",
+      "duration": 2977
+    },
+    {
+      "id": "AtHEX76Wysw",
+      "title": "CRUD With Async  SQLModel (An Introduction to Dependency Injection) - FastAPI Beyond CRUD (Part 6)",
+      "duration": 4048
+    },
+    {
+      "id": "jPTJ0i1JM3I",
+      "title": "Create a User Authentication Model (Database Migrations With Alembic) - FastAPI Beyond CRUD (Part 7)",
+      "duration": 1592
+    },
+    {
+      "id": "iIwKWNGWtyk",
+      "title": "User Account Creation (Email & Password) - FastAPI Beyond CRUD (Part 8)",
+      "duration": 2610
+    },
+    {
+      "id": "NJu0tmwb3n0",
+      "title": "JWT Authentication (Create Access And Refresh Tokens) - FastAPI Beyond CRUD (Part 9)",
+      "duration": 1881
+    },
+    {
+      "id": "9mx6LojqNCQ",
+      "title": "JWT Authentication (Protect Endpoints with HTTP Bearer Auth) - FastAPI Beyond CRUD (Part 10)",
+      "duration": 1178
+    },
+    {
+      "id": "JitVZm8rfks",
+      "title": "JWT Authentication (Renew User Access Using Refresh Tokens) - FastAPI Beyond CRUD (Part 11)",
+      "duration": 1034
+    },
+    {
+      "id": "e954e-i5DgQ",
+      "title": "JWT Authentication (Revoke  Access Tokens Using Redis) - FastAPI Beyond CRUD (Part 12)",
+      "duration": 1074
+    },
+    {
+      "id": "_k2M-LpxId8",
+      "title": "Role-Based Access Control Using Dependency Injection (User Roles) - FastAPI Beyond CRUD (Part 13)",
+      "duration": 1947
+    },
+    {
+      "id": "H-7NNblkzrg",
+      "title": "Model And Schema Relationships (One To Many SQLModel) - FastAPI Beyond CRUD (Part 14)",
+      "duration": 1608
+    },
+    {
+      "id": "HFsvl515eKM",
+      "title": "More Database And Schema Relationships - FastAPI Beyond CRUD (Part 15)",
+      "duration": 3279
+    },
+    {
+      "id": "jYbNq6QAQNI",
+      "title": "Error Handling (How to create Custom Error Handlers and Exceptions) - FastAPI Beyond CRUD (Part 16)",
+      "duration": 2054
+    },
+    {
+      "id": "7ndnHhxcL-Q",
+      "title": "Middleware, Setting Up Custom Logging And CORS - FastAPI Beyond CRUD (Part 17)",
+      "duration": 1973
+    },
+    {
+      "id": "nodSaVS4BMY",
+      "title": "User Account Verification Via Email - FastAPI Beyond CRUD (Part 18)",
+      "duration": 4365
+    },
+    {
+      "id": "xFMgLIOkSHs",
+      "title": "Handling Password Resets - FastAPI Beyond CRUD (Part 19)",
+      "duration": 1994
+    },
+    {
+      "id": "eAHAKowv6hk",
+      "title": "Background Tasks with FastAPI Background Tasks and Celery + Redis - FastAPI Beyond CRUD (Part 20)",
+      "duration": 2702
+    },
+    {
+      "id": "7eCdONqaHDc",
+      "title": "API Documentation With Swagger And Redoc - FastAPI Beyond CRUD (Part 21)",
+      "duration": 727
+    },
+    {
+      "id": "56whiv57T9I",
+      "title": "API Testing With Unittest Mock, Pytest & Schemathesis - FastAPI Beyond CRUD (Part 22)",
+      "duration": 2046
+    },
+    {
+      "id": "nGhcHvuMzpI",
+      "title": "Deploying FastAPI, PostgreSQL, Celery & Redis on Render - FastAPI Beyond CRUD (Part 23)",
+      "duration": 2668
+    },
+    {
+      "id": "gop9Or2V_80",
+      "title": "Testing A FastAPI App With Pytest",
+      "duration": 4310
+    },
+    {
+      "id": "JWQEostzy60",
+      "title": "Setting Up a Dev Environment for FastAPI, PostgreSQL, SQLAlchemy & Alembic with Docker",
+      "duration": 3985
+    },
+    {
+      "id": "ufNKc4gZN1I",
+      "title": "Running FastAPI on Linux Using Uvicorn And Nginx",
+      "duration": 3389
+    }
+  ]
+}

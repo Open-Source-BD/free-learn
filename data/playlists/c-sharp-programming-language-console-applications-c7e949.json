@@ -1,0 +1,220 @@
+{
+  "courseId": "c-sharp-programming-language-console-applications-c7e949",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:21.535Z",
+  "title": "C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)",
+  "channel": "Learning Never Ends",
+  "videos": [
+    {
+      "id": "QxJaNIo1DUo",
+      "title": "INTRODUCTION TO C# (C SHARP) PROGRAMMING LANGUAGE (URDU / HINDI)",
+      "duration": 1565
+    },
+    {
+      "id": "3L7YdSgxvTk",
+      "title": "WHAT IS CLR (COMMON LANGUAGE RUNTIME) IN DOTNET FRAMEWORK (URDU / HINDI)",
+      "duration": 725
+    },
+    {
+      "id": "QwqH3beKdks",
+      "title": "NAMESPACE AND MAIN METHOD IN C# PROGRAMMING (URDU / HINDI)",
+      "duration": 842
+    },
+    {
+      "id": "qxGwvA0t0C8",
+      "title": "READING AND WRITING TO THE CONSOLE IN C# PROGRAMMING (URDU / HINDI)",
+      "duration": 767
+    },
+    {
+      "id": "hss3o66NxwU",
+      "title": "DESTRUCTORS IN C# PROGRAMMING (URDU / HINDI)",
+      "duration": 892
+    },
+    {
+      "id": "UKVY9ob4TkQ",
+      "title": "( PART-1 ) HASH-TABLE COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1453
+    },
+    {
+      "id": "DpSnTTQ2bQw",
+      "title": "( PART-2 ) HASH-TABLE COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1436
+    },
+    {
+      "id": "t1evr7g_H-U",
+      "title": "STACK ( NON-GENERIC COLLECTION) IN C# ( URDU / HINDI )",
+      "duration": 2154
+    },
+    {
+      "id": "fp_p4rjl71Q",
+      "title": "QUEUE ( NON-GENERIC COLLECTION) IN C# ( URDU / HINDI )",
+      "duration": 1850
+    },
+    {
+      "id": "K2H_0rwU75w",
+      "title": "DIFFERENCE BETWEEN NON-GENERIC AND GENERIC COLLECTIONS IN C# ( URDU / HINDI )",
+      "duration": 1872
+    },
+    {
+      "id": "5qx3xB9kVlc",
+      "title": "( PART-1 ) LIST GENERIC COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1539
+    },
+    {
+      "id": "girZXi9qWSM",
+      "title": "( PART-2 ) LIST GENERIC COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1665
+    },
+    {
+      "id": "dFCGElXkL6s",
+      "title": "( PART-3 ) LIST GENERIC COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1762
+    },
+    {
+      "id": "PhcyCBhF-Kw",
+      "title": "( PART-1 ) DICTIONARY GENERIC COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1512
+    },
+    {
+      "id": "1bP868zzqcc",
+      "title": "( PART-2 ) DICTIONARY GENERIC COLLECTION IN C# ( URDU / HINDI )",
+      "duration": 1933
+    },
+    {
+      "id": "yWhpHATfq_E",
+      "title": "Partial Class In C# - Partial Class - C# Partial Class - What is Partial Class ( URDU / HINDI )",
+      "duration": 1703
+    },
+    {
+      "id": "P5Q6YXxBSeQ",
+      "title": "RULES FOR CREATING PARTIAL CLASS IN C#  - PARTIAL CLASS IN C# - C# PARTIAL CLASS( URDU / HINDI )",
+      "duration": 1345
+    },
+    {
+      "id": "IXm6qCuy4tw",
+      "title": "( PART-1 ) MULTI THREADING IN C# ( URDU / HINDI )",
+      "duration": 1595
+    },
+    {
+      "id": "N2O-W2UDJuo",
+      "title": "( PART-2 ) MULTI THREADING IN C# ( URDU / HINDI )",
+      "duration": 1655
+    },
+    {
+      "id": "_Ln5gwBQJ5c",
+      "title": "( PART-1 ) EXTENSION METHODS IN C# - EXTENSION METHOD - C# EXTENSION METHOD ( URDU / HINDI )",
+      "duration": 1463
+    },
+    {
+      "id": "YnOwWFoZeHY",
+      "title": "( PART-2 ) EXTENSION METHODS IN C# - EXTENSION METHOD - C# EXTENSION METHODS ( URDU / HINDI )",
+      "duration": 1491
+    },
+    {
+      "id": "WAvhybViw10",
+      "title": "( PART-1 ) WHAT IS STRUCTURE AND DIFFERENCE BETWEEN STRUCTURES AND CLASSES IN C# ( URDU / HINDI )",
+      "duration": 1460
+    },
+    {
+      "id": "dgSkSL9DhM8",
+      "title": "( PART-2 ) WHAT IS STRUCTURE AND DIFFERENCE BETWEEN STRUCTURES AND CLASSES IN C# ( URDU / HINDI )",
+      "duration": 1437
+    },
+    {
+      "id": "ejRTRtMKmHI",
+      "title": "READING DATA FROM TEXT FILE IN C# FILE HANDLING ( URDU / HINDI )",
+      "duration": 427
+    },
+    {
+      "id": "sY1dNtJtwyI",
+      "title": "HOW TO CREATE A COPY OF TEXT FILE IN C# FILE HANDLING ( URDU / HINDI )",
+      "duration": 830
+    },
+    {
+      "id": "YqkTnAHbSdo",
+      "title": "DIRECTORY INFO CLASS - FILE HANDLING IN C# ( URDU / HINDI )",
+      "duration": 1995
+    },
+    {
+      "id": "E7CMGGTS7jk",
+      "title": "( PART-1 ) FILE STREAM CLASS - FILE HANDLING IN C# ( URDU / HINDI )",
+      "duration": 1301
+    },
+    {
+      "id": "2h2yKtPfwGQ",
+      "title": "( PART-2 ) FILE STREAM CLASS - FILE HANDLING IN C# ( URDU / HINDI )",
+      "duration": 1341
+    },
+    {
+      "id": "Hv0MdDsVnzo",
+      "title": "STREAM WRITER CLASS - WRITING DATA TO FILE - FILE HANDLING IN C# ( URDU / HINDI )",
+      "duration": 1535
+    },
+    {
+      "id": "HbgVuvIpEWQ",
+      "title": "STREAM READER CLASS - READING DATA FROM TEXT FILE - FILE HANDLING IN C# ( URDU / HINDI )",
+      "duration": 1407
+    },
+    {
+      "id": "fY4Uw8-Hu9w",
+      "title": "GUID In C# - Globally Unique Identifier In C# - C# GUID - What Is GUID In C# - C# ( Hindi/Urdu )",
+      "duration": 823
+    },
+    {
+      "id": "rbg7tJf54ls",
+      "title": "is VS as Operator In C# - Difference between is and as in c# - C# Tutorials - C# - ( Hindi / Urdu )",
+      "duration": 1116
+    },
+    {
+      "id": "sspl8uiL-Ls",
+      "title": "Null Coalesce Operator In C# - Coalescing In C# - Null Coalescing Operator C# - C# ( Hindi / Urdu )",
+      "duration": 711
+    },
+    {
+      "id": "jGul9ESJEEk",
+      "title": "Serialization In C#.NET | C# Serialization | Binary Serialization | Serializable C# (Hindi/Urdu)",
+      "duration": 1927
+    },
+    {
+      "id": "y7BovwE5zCw",
+      "title": "Deserialization In C#.NET | C# Deserialization | Serialization And Deserialization C# (Hindi/Urdu)",
+      "duration": 870
+    },
+    {
+      "id": "0eocygf8WSk",
+      "title": "What Is Concrete Class In C# - C# Concrete Class - C# Interview Questions And Answers (Hindi/Urdu)",
+      "duration": 507
+    },
+    {
+      "id": "cvAU2OrFbAk",
+      "title": "Dependency Injection (Di) In C# - C# Dependency Injection - Design Pattern - Types (Hindi/Urdu)",
+      "duration": 1713
+    },
+    {
+      "id": "POxEaDIT5ic",
+      "title": "Constructor Injection - Dependency Injection (Di) In C# - Practical Example - Learn C# (Hindi/Urdu)",
+      "duration": 1805
+    },
+    {
+      "id": "_nMbrjo3tdY",
+      "title": "Property Injection - Dependency Injection (Di) In C# - Practical Example - Learn C# (Hindi/Urdu)",
+      "duration": 903
+    },
+    {
+      "id": "NNU5XrgVcKc",
+      "title": "Method Injection - Dependency Injection (Di) In C# - Practical Example - Learn C# (Hindi/Urdu)",
+      "duration": 873
+    },
+    {
+      "id": "n74B8h07XUk",
+      "title": "Enum In C# | C# Enumeration | C# Enum | Enum Conversion | Enum With Switch C# (Part-1) (Hindi/Urdu)",
+      "duration": 1725
+    },
+    {
+      "id": "QCuCdhXkK48",
+      "title": "Enum In C# | C# Enumeration | C# Enum | Enum Conversion | Enum With Switch C# (Part-2) (Hindi/Urdu)",
+      "duration": 938
+    }
+  ]
+}

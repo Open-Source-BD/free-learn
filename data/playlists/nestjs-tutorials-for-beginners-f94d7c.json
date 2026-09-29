@@ -1,0 +1,45 @@
+{
+  "courseId": "nestjs-tutorials-for-beginners-f94d7c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:03.744Z",
+  "title": "NestJS Tutorials for Beginners",
+  "channel": "Dave Gray",
+  "videos": [
+    {
+      "id": "juNVinepwKA",
+      "title": "Nest.js Tutorial for Beginners",
+      "duration": 941
+    },
+    {
+      "id": "otw0zQ0NSa4",
+      "title": "Nest.js Controllers Tutorial",
+      "duration": 1316
+    },
+    {
+      "id": "ECEkU5WreVU",
+      "title": "NestJS Fundamentals - Providers tutorial",
+      "duration": 1656
+    },
+    {
+      "id": "ZLp92Iw0rkI",
+      "title": "NestJS DTO Schemas, Validation & Pipes Tutorial",
+      "duration": 1788
+    },
+    {
+      "id": "6He5Gyuuvxk",
+      "title": "Nest.js REST API with Prisma ORM, Neon Postgres",
+      "duration": 2368
+    },
+    {
+      "id": "hQTtioSw4Zo",
+      "title": "Nest.js REST API with CORS, Rate Limits, Server Logs, & Exception Filters",
+      "duration": 2985
+    },
+    {
+      "id": "8_X0nSrzrCw",
+      "title": "Nest.js Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+      "duration": 10754
+    }
+  ]
+}

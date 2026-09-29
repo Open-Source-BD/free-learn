@@ -1,0 +1,80 @@
+{
+  "courseId": "swift-programming-for-beginners-in-hindi-892fe1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:46.557Z",
+  "title": "Swift Programming For Beginners In Hindi",
+  "channel": "BuildWithShubham",
+  "videos": [
+    {
+      "id": "oNGrEOzGpRU",
+      "title": "Installing Xcode and Hello World In Swift | Swift In Hindi",
+      "duration": 375
+    },
+    {
+      "id": "rKxZvYZQoCk",
+      "title": "Variables In Swift | Learn Swift In Hindi",
+      "duration": 557
+    },
+    {
+      "id": "J_krcJW07iw",
+      "title": "Constants In Swift | Learn Swift In Hindi",
+      "duration": 340
+    },
+    {
+      "id": "3aAxfQI22ck",
+      "title": "Data Types and Comments In Swift | Learn Swift Programming In Hindi",
+      "duration": 466
+    },
+    {
+      "id": "T9nc1KjZXhk",
+      "title": "String Data Type In Swift | Learn Swift Programming In Hindi",
+      "duration": 465
+    },
+    {
+      "id": "2jLvKHO9sb4",
+      "title": "String Interpolation In Swift | Learn Swift Programming In Hindi",
+      "duration": 288
+    },
+    {
+      "id": "Ri1FqHK6SIk",
+      "title": "Implicit And Explicit Declaration In Swift | Learn Swift Programming In Hindi",
+      "duration": 479
+    },
+    {
+      "id": "sOBGxG-Un4I",
+      "title": "If-Else Statement In Swift | Learn Swift Programming In Swift",
+      "duration": 406
+    },
+    {
+      "id": "AE82nQJx3YQ",
+      "title": "Comparison Operators In Swift | Learn Swift Programming In Hindi",
+      "duration": 671
+    },
+    {
+      "id": "sATXEq5IiGM",
+      "title": "Logical Operators In Swift | Learn Swift Programming In Hindi",
+      "duration": 487
+    },
+    {
+      "id": "pZztq0icjUo",
+      "title": "Else If Statement In Swift | Learn Swift Programming In Hindi",
+      "duration": 427
+    },
+    {
+      "id": "hZbXQ_Hg8t8",
+      "title": "Array In Swift | Learn Swift Programming In HIndi",
+      "duration": 629
+    },
+    {
+      "id": "jdOT7knGbxQ",
+      "title": "Set In Swift | Learn Swift Programming In Hindi",
+      "duration": 440
+    },
+    {
+      "id": "xx-uzUhbSdc",
+      "title": "Tuple In Swift | Learn Swift Programming In Hindi",
+      "duration": 304
+    }
+  ]
+}

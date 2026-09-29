@@ -1,0 +1,35 @@
+{
+  "courseId": "unit-testing-in-ios-b36e43",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZLLvLwuW8AP3n-A3nsRn9P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:09.514Z",
+  "title": "Unit Testing in iOS",
+  "channel": "CodeWithChris",
+  "videos": [
+    {
+      "id": "GBNHGOVi5fg",
+      "title": "Getting Started with Unit Testing in iOS (Unit Testing Part 1)",
+      "duration": 529
+    },
+    {
+      "id": "v0A9ztyVyUA",
+      "title": "Writing a Simple Unit Test (Unit Testing Part 2)",
+      "duration": 1382
+    },
+    {
+      "id": "A627xU_94kE",
+      "title": "Mocking a Network Request (Unit Testing Part 3)",
+      "duration": 2263
+    },
+    {
+      "id": "3npGyjFzGu8",
+      "title": "Writing the Unit Test (Unit Testing Part 4)",
+      "duration": 1462
+    },
+    {
+      "id": "dvRSM2uXuBI",
+      "title": "Test Driven Development (Unit Testing Part 5)",
+      "duration": 1021
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "courseId": "graph-theory-part-1-f80a5c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:58.202Z",
+  "title": "Graph Theory part-1",
+  "channel": "Sarada Herke",
+  "videos": [
+    {
+      "id": "eIb1cz06UwI",
+      "title": "Graph Theory: 01. Seven Bridges of Konigsberg",
+      "duration": 748
+    },
+    {
+      "id": "S1Zwhz-MhCs",
+      "title": "Graph Theory: 02. Definition of a Graph",
+      "duration": 500
+    },
+    {
+      "id": "lLOvB1qFE1E",
+      "title": "Graph Theory: 03. Examples of Graphs",
+      "duration": 331
+    },
+    {
+      "id": "71XbdtoG7P8",
+      "title": "Graph Theory: 04. Families of Graphs",
+      "duration": 555
+    },
+    {
+      "id": "BEyuUXQs5ko",
+      "title": "Graph Theory: 05. Connected and Regular Graphs",
+      "duration": 510
+    },
+    {
+      "id": "YoRhmz_OSBY",
+      "title": "Graph Theory: 06 Sum of Degrees is ALWAYS Twice the Number of Edges",
+      "duration": 212
+    },
+    {
+      "id": "LUDNz2bIjWI",
+      "title": "Graph Theory: 07 Adjacency Matrix and Incidence Matrix",
+      "duration": 568
+    },
+    {
+      "id": "Qe9e-XcEvlo",
+      "title": "Graph Theory: 08-a Basic Problem Set (part 1/2)",
+      "duration": 336
+    },
+    {
+      "id": "t0UzHk53HjM",
+      "title": "Graph Theory: 08-b Basic Problem Set (part 2/2)",
+      "duration": 689
+    }
+  ]
+}

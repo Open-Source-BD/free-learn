@@ -1,0 +1,210 @@
+{
+  "courseId": "r-tutorial-for-beginners-a158a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:32.405Z",
+  "title": "R Tutorial for Beginners",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "dgmCiZvdI_4",
+      "title": "How to install R and RStudio in Windows Explained in Hindi l R Tutorial for Beginners",
+      "duration": 449
+    },
+    {
+      "id": "zeI2cz1ali8",
+      "title": "How to Print a String in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 226
+    },
+    {
+      "id": "bhJu1aAwhm8",
+      "title": "Comments in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 212
+    },
+    {
+      "id": "J0-73qwy9ow",
+      "title": "Variables in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 668
+    },
+    {
+      "id": "1wl87-EWpAM",
+      "title": "Data Types in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 282
+    },
+    {
+      "id": "bTICDYa4zTQ",
+      "title": "Numbers and Strings in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 710
+    },
+    {
+      "id": "5tyd_UFCJqo",
+      "title": "Arithmetic Operators in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 342
+    },
+    {
+      "id": "rDG3Qw_8G0k",
+      "title": "Assignment Operators in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 176
+    },
+    {
+      "id": "iL12Sl7Ck-0",
+      "title": "Comparison Operators in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 226
+    },
+    {
+      "id": "0chby0HT66k",
+      "title": "Logical Operators in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 547
+    },
+    {
+      "id": "mX2wM4P4_nw",
+      "title": "If else in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 638
+    },
+    {
+      "id": "GcWf6tCWakU",
+      "title": "While Loop in R Language Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 367
+    },
+    {
+      "id": "KMIr9HLFo2E",
+      "title": "While Loop in R Language Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 367
+    },
+    {
+      "id": "wTC8Lsiryks",
+      "title": "For Loop in R Language Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 376
+    },
+    {
+      "id": "NZrnQ-3IF2k",
+      "title": "For Loop in R Language Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 379
+    },
+    {
+      "id": "gsFTq141OM0",
+      "title": "Function in R Language Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 504
+    },
+    {
+      "id": "BmuSD9MRLzE",
+      "title": "Function in R Language Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 492
+    },
+    {
+      "id": "L4yKGgXTB-c",
+      "title": "Recursion in R Language Explained in Hindi l R Tutorial for Beginners",
+      "duration": 370
+    },
+    {
+      "id": "NO0HMyqH5Q8",
+      "title": "R Data Structures : Vector Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 377
+    },
+    {
+      "id": "uv34Yh1p-mE",
+      "title": "R Data Structures : Vector Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 369
+    },
+    {
+      "id": "1ZvywNmaVkI",
+      "title": "R Data Structures : List Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 462
+    },
+    {
+      "id": "f1XCvx9Kwz0",
+      "title": "R Data Structures : List Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 471
+    },
+    {
+      "id": "MuKxOv1eWOE",
+      "title": "R Data Structures : Matrix Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 486
+    },
+    {
+      "id": "aZcNB5rv91w",
+      "title": "R Data Structures : Matrix Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 478
+    },
+    {
+      "id": "GKpme-ayvQE",
+      "title": "R Data Structures : Matrix Part-3 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 489
+    },
+    {
+      "id": "zrnI00dE8Io",
+      "title": "R Data Structures : Data Frame Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 495
+    },
+    {
+      "id": "87_ZYT-wNNQ",
+      "title": "R Data Structures : Data Frame Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 512
+    },
+    {
+      "id": "KZmbRyLE4nY",
+      "title": "R Data Structures : Data Frame Part-3 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 579
+    },
+    {
+      "id": "ERzy92cEq_E",
+      "title": "R Data Structures : Factor Explained in Hindi l R Tutorial for Beginners",
+      "duration": 688
+    },
+    {
+      "id": "7m3w8lbuvT4",
+      "title": "R Graphics : Point and Line Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 526
+    },
+    {
+      "id": "BZYhJ4lTYLA",
+      "title": "R Graphics : Point and Line Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 533
+    },
+    {
+      "id": "URGUwBZbNqI",
+      "title": "R Graphics : Point and Line Part-3 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 527
+    },
+    {
+      "id": "r2-tqGNO4cw",
+      "title": "R Graphics : Pie Chart Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 403
+    },
+    {
+      "id": "SN7tksxrh2Q",
+      "title": "R Graphics : Pie Chart Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 408
+    },
+    {
+      "id": "BqFgmEfI11U",
+      "title": "R Graphics : Bar Chart Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 388
+    },
+    {
+      "id": "xbzdc041ZOM",
+      "title": "R Graphics : Bar Chart Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 388
+    },
+    {
+      "id": "D5HbosMcU6M",
+      "title": "R Statistics : Data Sets Part-1 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 366
+    },
+    {
+      "id": "bkJNxjH0Iec",
+      "title": "R Statistics : Data Sets Part-2 Explained in Hindi l R Tutorial for Beginners",
+      "duration": 365
+    },
+    {
+      "id": "lFlqZ1shiog",
+      "title": "R Statistics : Min and Max Explained in Hindi l R Tutorial for Beginners",
+      "duration": 434
+    },
+    {
+      "id": "SUSZ_nfCHws",
+      "title": "R Statistics : Mean, Mode and Median Explained in Hindi l R Tutorial for Beginners",
+      "duration": 580
+    }
+  ]
+}

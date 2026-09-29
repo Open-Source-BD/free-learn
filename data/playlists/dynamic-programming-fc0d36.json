@@ -1,0 +1,75 @@
+{
+  "courseId": "dynamic-programming-fc0d36",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:48.987Z",
+  "title": "Dynamic Programming",
+  "channel": "Gaurav Sen",
+  "videos": [
+    {
+      "id": "BCO8JKA2_N8",
+      "title": "What is Dynamic Programming and how is it done?",
+      "duration": 187
+    },
+    {
+      "id": "PttgNGRyYQg",
+      "title": "Understanding Dynamic Programming",
+      "duration": 448
+    },
+    {
+      "id": "EEb6JP3NXBI",
+      "title": "Solving the Fibonacci Sequence with Matrix Exponentiation",
+      "duration": 1220
+    },
+    {
+      "id": "ctZ7fjMbPWE",
+      "title": "Least Common Ancestor - Dynamic Programming on Graphs",
+      "duration": 790
+    },
+    {
+      "id": "GqScJ6_CiG0",
+      "title": "Codechef DEC17 - Total Diamonds - Dynamic Programming",
+      "duration": 736
+    },
+    {
+      "id": "3Jsw9_6lFSk",
+      "title": "Codechef - OCT17 - Magic Arrays",
+      "duration": 1127
+    },
+    {
+      "id": "qB51btVY0Xw",
+      "title": "CodeChef Long Challenge - FEB17 - INTERVAL",
+      "duration": 1545
+    },
+    {
+      "id": "rBvFMJLYAbs",
+      "title": "HackerEarth - WAYS",
+      "duration": 527
+    },
+    {
+      "id": "bjucBkxrMBs",
+      "title": "Dynamic Programming with Bitmasks",
+      "duration": 1003
+    },
+    {
+      "id": "sCwokuCoQB8",
+      "title": "Digit dynamic programming with a SPOJ example",
+      "duration": 801
+    },
+    {
+      "id": "XJ6e4BQYJ24",
+      "title": "Edit Distance of two strings - Real world application",
+      "duration": 1010
+    },
+    {
+      "id": "7GCSA4u5ynw",
+      "title": "Ukkonen's algorithm for approximate string matching",
+      "duration": 1315
+    },
+    {
+      "id": "FGD18j0FAFg",
+      "title": "Floyd Warshall: All Pairs Shortest Paths Graph algorithm explained",
+      "duration": 905
+    }
+  ]
+}

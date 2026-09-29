@@ -1,0 +1,530 @@
+{
+  "courseId": "javascript-tutorial-for-beginners-b95fcd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:08.195Z",
+  "title": "Javascript Tutorial For Beginners",
+  "channel": "Hablu Programmer",
+  "videos": [
+    {
+      "id": "f9UVOEs6s30",
+      "title": "01. JavaScript Tutorial For Beginners Part 1 || What Is JavaScript Bangla",
+      "duration": 460
+    },
+    {
+      "id": "K1IlVrL2sxk",
+      "title": "02. First JavaScript Program Part 2 ||  Setting up the JavaScript Environment",
+      "duration": 581
+    },
+    {
+      "id": "2_hA3j7ovco",
+      "title": "03. JavaScript Variables || How To Declare A Variable In Javascript Bangla",
+      "duration": 463
+    },
+    {
+      "id": "4m_RQsYpCo4",
+      "title": "04.JavaScript Data Types | JavaScript String Type Variable || what is javascript string",
+      "duration": 227
+    },
+    {
+      "id": "loWt5dGmFAk",
+      "title": "05. JavaScript Data Types | JavaScript Numbers Types Variable Bangla",
+      "duration": 389
+    },
+    {
+      "id": "sXv2bH3MN5M",
+      "title": "06. JavaScript Data Types | JavaScript Boolean Types Variable Bangla",
+      "duration": 308
+    },
+    {
+      "id": "9fuvpgcW-oQ",
+      "title": "07. JavaScript Reserved Words |  javascript bangla tutorial",
+      "duration": 316
+    },
+    {
+      "id": "sq9VFIrSg5M",
+      "title": "08. JavaScript toUpperCase() and toLowerCase() Method | toUpperCase() and toLowerCase() JS",
+      "duration": 356
+    },
+    {
+      "id": "FNgI6i4lkc0",
+      "title": "09. JavaScript IndexOf() & Split() Method || JavaScript For Web Development",
+      "duration": 669
+    },
+    {
+      "id": "mWLD5TQlozo",
+      "title": "10.  parseFloat() & parseInt() || JavaScript For Web Development || Javascript Tutorial Bangla",
+      "duration": 744
+    },
+    {
+      "id": "WekIrh4fI-w",
+      "title": "11. JavaScript Operators || JavaScript Tutorial in Bangla",
+      "duration": 602
+    },
+    {
+      "id": "rd6v7V5B0PA",
+      "title": "12. JavaScript Predefined Function || JavaScript Bangla Tutorial  || JavaScript For Web Dev",
+      "duration": 1025
+    },
+    {
+      "id": "etw50Aara2U",
+      "title": "13. JavaScript For Web Development || JavaScript 1st Assignment || JavaScript Bangla Tutorial",
+      "duration": 249
+    },
+    {
+      "id": "yDd5DoyLK8E",
+      "title": "14. JavaScript Conditional Statements  || javascript logical and condition",
+      "duration": 444
+    },
+    {
+      "id": "fSxtyJjWm4E",
+      "title": "15.  JavaScript If Statement || JavaScript For Web Development",
+      "duration": 397
+    },
+    {
+      "id": "B6Oso-hhO2A",
+      "title": "16. JavaScript Bangla Tutorial  ||  else Statement In JavaScript",
+      "duration": 570
+    },
+    {
+      "id": "QsDiZUifqpg",
+      "title": "17. JavaScript Else If Statement  || JavaScript Bangla Tutorial",
+      "duration": 416
+    },
+    {
+      "id": "VsVY7lSOqDU",
+      "title": "18. JavaScript Switch Statement ||  JavaScript Tutorial For Beginners",
+      "duration": 570
+    },
+    {
+      "id": "Aay6XJucHkU",
+      "title": "19. JavaScript Date Objects || JavaScript Tutorial Bangla",
+      "duration": 550
+    },
+    {
+      "id": "dp-4gJg6_0A",
+      "title": "20. JavaScript Array ||  JavaScript Tutorial For Beginners",
+      "duration": 526
+    },
+    {
+      "id": "j4gJnmtpLOg",
+      "title": "21. JavaScript Array Push() pop() shift() unshift() Method  ||  JavaScript Tutorial Bangla",
+      "duration": 773
+    },
+    {
+      "id": "17yCByWk0hg",
+      "title": "22. JavaScript slice() and splice()  Method ||  JavaScript Tutorial Bangla",
+      "duration": 850
+    },
+    {
+      "id": "2b1-mlK8ev0",
+      "title": "23. JavaScript Loops || JavaScript For Loop Bangla",
+      "duration": 701
+    },
+    {
+      "id": "2Hy3r778kxs",
+      "title": "24. JavaScript While Loop  || JavaScript Tutorial For Beginners",
+      "duration": 239
+    },
+    {
+      "id": "VmunXMiFCLw",
+      "title": "25. JavaScript Function || Javascript Function Bangla Tutorial",
+      "duration": 908
+    },
+    {
+      "id": "o0ytsRiRFxk",
+      "title": "26. JavaScript Object || JavaScript Object Bangla",
+      "duration": 1318
+    },
+    {
+      "id": "e3Fg4FMe7RA",
+      "title": "27. JavaScript Comment || Javascript Bangla tutorial For Beginners",
+      "duration": 142
+    },
+    {
+      "id": "TayS46a4hfA",
+      "title": "28. JavaScript Ternary Operator  ||  JavaScript Bangla Tutorial",
+      "duration": 357
+    },
+    {
+      "id": "inhGs2_kGTA",
+      "title": "29. Javascript continue statement Javascript break statement || Javascript  Bangla Tutorial",
+      "duration": 393
+    },
+    {
+      "id": "b1bLgaPdSuY",
+      "title": "30. Differences Between Var, Let, and Const In Javascript- আর নয় Confusion",
+      "duration": 737
+    },
+    {
+      "id": "R9K_-dW8aEU",
+      "title": "31. Javascript Scope In Bangla",
+      "duration": 594
+    },
+    {
+      "id": "rsIInabhd2E",
+      "title": "32. JavaScript Hoisting Explained Bangla",
+      "duration": 573
+    },
+    {
+      "id": "8llCBZ3ymwg",
+      "title": "33. Function Expression In Javascript Bangla",
+      "duration": 405
+    },
+    {
+      "id": "GvX7hhyLhvo",
+      "title": "34. Inner Function In Javascript Bangla",
+      "duration": 483
+    },
+    {
+      "id": "HyODBevBzRs",
+      "title": "35. Simple Project Javascript Bangla Tutorial  || Learn Javascript Simple Way",
+      "duration": 1640
+    },
+    {
+      "id": "xTDCThaWqX0",
+      "title": "Es6 শিখুন মাতৃভাষায় | Modern Javascript Bangla Tutorial",
+      "duration": 401
+    },
+    {
+      "id": "znY_TZXqmCo",
+      "title": "1. Differences Between Var, Let, and Const ES6 Bangla Tutorial",
+      "duration": 817
+    },
+    {
+      "id": "y-AZQhvA5Wk",
+      "title": "2. Default Function Parameters ES6 Bangla Tutorial",
+      "duration": 341
+    },
+    {
+      "id": "LlTUJpBvzLM",
+      "title": "3. Rest Parameters in ES6 -JavaScript Bangla Tutorial",
+      "duration": 270
+    },
+    {
+      "id": "2H_3-lxP7-s",
+      "title": "4. Spread Operator Modern JavaScript Syntaxes in Bangla Tutorial",
+      "duration": 157
+    },
+    {
+      "id": "R8CB2XFB0mA",
+      "title": "5. Advance JavaScript Object Literals Bangla Tutorial",
+      "duration": 159
+    },
+    {
+      "id": "8ZTq78ggLZk",
+      "title": "6. ES6 For of Loop &  For in Loop Bangla Tutorial",
+      "duration": 334
+    },
+    {
+      "id": "gnIaxr_Dixk",
+      "title": "7. ES6 Template literals (Template strings) in ES6 JavaScript Bangla Tutorial",
+      "duration": 430
+    },
+    {
+      "id": "ep3IrPvtYes",
+      "title": "8. ES6 Array Destructuring ES6 in JavaScript  Bangla Tutorial",
+      "duration": 236
+    },
+    {
+      "id": "eKezCc5lczg",
+      "title": "9. ES6 Object Destructuring JavaScript In Bangla Tutorial",
+      "duration": 248
+    },
+    {
+      "id": "n_YPb0f7yF0",
+      "title": "10. JavaScript ES6 Modules Bangla Tutorial",
+      "duration": 274
+    },
+    {
+      "id": "VECvy45rW3Y",
+      "title": "11. ES6 Class Constructor Bangla Tutorial",
+      "duration": 185
+    },
+    {
+      "id": "VpyNZFn644k",
+      "title": "12. ES6 Class Expression Bangla Tutorial",
+      "duration": 180
+    },
+    {
+      "id": "K34J8KMRLUY",
+      "title": "13. JavaScript ES6  Static Methods Bangla Tutorial",
+      "duration": 208
+    },
+    {
+      "id": "pYtLFLdC-C8",
+      "title": "14. ES6 Inheritance & Super Bangla Tutorial",
+      "duration": 338
+    },
+    {
+      "id": "ZnxxORB2py0",
+      "title": "15. JavaScript ES6 Arrow Functions Bangla Tutorial",
+      "duration": 378
+    },
+    {
+      "id": "R8gjmw2gvSQ",
+      "title": "16. ES6 Symbols Bangla Tutorial || The Complete Guide To JS Symbols",
+      "duration": 384
+    },
+    {
+      "id": "RKDalCILMlE",
+      "title": "17. ES6 Iterators Bangla Tutorial || JavaScript Iterators Bangla",
+      "duration": 367
+    },
+    {
+      "id": "9qlBEpToaWE",
+      "title": "18. Strict Mode Bangla Tutorial || \"use strict\"  Uses In JavaScript",
+      "duration": 183
+    },
+    {
+      "id": "2uQs6FLCS3w",
+      "title": "19. JavaScript Bangla Tutorial | ES6 ForEach Tutorial Bangla",
+      "duration": 317
+    },
+    {
+      "id": "0cwdtrTyF_I",
+      "title": "20. Es6 Map Function Bangla Tutorial | Javascript Bangla Tutorial",
+      "duration": 306
+    },
+    {
+      "id": "a5rviwu3e-g",
+      "title": "21. Array Functions filter() Bangla Tutorial || Es6 Tutorial For Beginners",
+      "duration": 174
+    },
+    {
+      "id": "gir2fiEqb-o",
+      "title": "22. Javascript Es6 Asynchronous Vs Synchronous Programming Bangla Tutorial",
+      "duration": 466
+    },
+    {
+      "id": "_SyxgU17lsY",
+      "title": "23.  ES6 Callback and Higher Order Function Bangla Tutorial",
+      "duration": 246
+    },
+    {
+      "id": "JCFkbLbwdII",
+      "title": "24. ES6 Bangla Tutorial | Try Catch Throw Finally In ES6 Error Handling",
+      "duration": 523
+    },
+    {
+      "id": "THa1BQCprZw",
+      "title": "25. Es6 Bangla Tutorial | Es6 Promise Tutorial | Promise Explain In Bangla",
+      "duration": 455
+    },
+    {
+      "id": "fIy6ypRCWXA",
+      "title": "26. ES6 Async Await Bangla Tutorial | Es6 Bangla Tutorial",
+      "duration": 493
+    },
+    {
+      "id": "bMP_Sls5AIU",
+      "title": "JavaScript HTML DOM কি ? JavaScript DOM Bangla Tutorial Introduction | Dom Course Outline",
+      "duration": 175
+    },
+    {
+      "id": "piKhV80X03I",
+      "title": "1. JavaScript HTML DOM  Bangla Tutorial | Document Object Model | Select Html Elements",
+      "duration": 1823
+    },
+    {
+      "id": "hmmarNvNlOE",
+      "title": "2. JavaScript HTML DOM Bangla Tutorial | Onclick Event In Javascript Dom",
+      "duration": 329
+    },
+    {
+      "id": "4rEJPRkLTV8",
+      "title": "3.Javascript HTML DOM Bangla Tutorial | Traversing DOM Elements Using Javascript Html DOM",
+      "duration": 250
+    },
+    {
+      "id": "AoH20HaQnfE",
+      "title": "4. JavaScript Dom Traversing Elements Bangla Tutorial | Dom Bangla Tutorial",
+      "duration": 803
+    },
+    {
+      "id": "yTJnOSvLiyA",
+      "title": "5. JavaScript Dom Bangla Tutorial |  Dom Sibling Element",
+      "duration": 252
+    },
+    {
+      "id": "tpnr7d7-g-s",
+      "title": "6. JavaScript Dom Bangla Tutorial | DOM Manipulation | Create A New Element.",
+      "duration": 1067
+    },
+    {
+      "id": "_ZwQAj6TcMw",
+      "title": "7. JavaScript HTML DOM Bangla Tutorial | Manipulating elements  | JavaScript appendChild",
+      "duration": 450
+    },
+    {
+      "id": "t901AwWdIVA",
+      "title": "8. Dom Bangla Tutorial | DOM Manipulating Elements | Text Content",
+      "duration": 321
+    },
+    {
+      "id": "otLcyShFIx0",
+      "title": "9. JavaScript DOM Bangla Tutorial | DOM InnerHTML Bangla Tutorial | Manipulating Element",
+      "duration": 219
+    },
+    {
+      "id": "FIOOhWyR024",
+      "title": "10. JavaScript DOM Bangla Tutorial |  DOM Manipulating | innerHTML vs createElement",
+      "duration": 374
+    },
+    {
+      "id": "YCejT2N4-wg",
+      "title": "11. JavaScript DOM Bangla Tutorial | DOM DocumentFragment Bangla Tutorial",
+      "duration": 374
+    },
+    {
+      "id": "nLzIU9W0gzo",
+      "title": "12. JavaScript DOM insertBefore Bangla Tutorial | Dom Full Course",
+      "duration": 295
+    },
+    {
+      "id": "h4AanH-WVZQ",
+      "title": "13. Dom Tutorial Append & Prepend Method | DOM Bangla Tutorial",
+      "duration": 395
+    },
+    {
+      "id": "1kJrzcpDr4E",
+      "title": "14. Dom Insert Adjacent HTML Method Bangla Tutorial",
+      "duration": 430
+    },
+    {
+      "id": "XYihlS32ovk",
+      "title": "15. DOM Bangla Tutorial | Replace, Clone, Remove Child In JavaScript Dom",
+      "duration": 423
+    },
+    {
+      "id": "WkMFTjKzaU0",
+      "title": "16. DOM Bangla Tutorial | JS Dom Working With Attribute Bangla Tutorial",
+      "duration": 859
+    },
+    {
+      "id": "gPgoA5A9W9o",
+      "title": "17. DOM Bangla Tutorial  |JavaScript Dom Style Property Bangla Tutorial",
+      "duration": 531
+    },
+    {
+      "id": "JjHtIhQg1F4",
+      "title": "18.DOM Bangla Tutorial | Dom Get Computed Style Method Bangla Tutorial",
+      "duration": 325
+    },
+    {
+      "id": "d9VY1vgCooQ",
+      "title": "19.Dom Bangla Tutorial  | JavaScript Dom ClassName Property Bangla Tutorial",
+      "duration": 164
+    },
+    {
+      "id": "b-xMSOkR_6E",
+      "title": "20.Dom Bangla Tutorial | Dom Class List Property Bangla Tutorial",
+      "duration": 349
+    },
+    {
+      "id": "TlWG6mO6nNQ",
+      "title": "21. Javascript Get The Width & Height Of An Element Using DOM Bangla Tutorial",
+      "duration": 319
+    },
+    {
+      "id": "vJ9eFRGQvgg",
+      "title": "22. JavaScript Event Bangla Tutorial",
+      "duration": 384
+    },
+    {
+      "id": "qU3V1CjjNaI",
+      "title": "23. Handling Events in JavaScript DOM Bangla Tutorial | Dom Tutorial",
+      "duration": 674
+    },
+    {
+      "id": "yJlJNgJ1XRU",
+      "title": "24. JavaScript Page Load Event Bangla Tutorial |  JavaScript HTML DOM  Event",
+      "duration": 438
+    },
+    {
+      "id": "_fTKvUqAYrg",
+      "title": "25. JavaScript Mouse Event Bangla Tutorial | Mouse Event Full Tutorial",
+      "duration": 693
+    },
+    {
+      "id": "uOA1atKLzGc",
+      "title": "26. JavaScript DOM Keyboard Event Bangla Tutorial | DOM Tutorial",
+      "duration": 421
+    },
+    {
+      "id": "ypxsB3mcsIE",
+      "title": "27. JavaScript Html Dom Scroll Event Bangla Tutorial",
+      "duration": 438
+    },
+    {
+      "id": "CqEGtmnkdDI",
+      "title": "28. JavaScript Html Dom Focus & Blur Event Bangla Tutorial",
+      "duration": 375
+    },
+    {
+      "id": "tVv9A6mSxbE",
+      "title": "29. JavaScript Dom Web Form Creating & Validation Bangla Tutorial",
+      "duration": 2077
+    },
+    {
+      "id": "bI8KQVHE2xc",
+      "title": "30. JavaScript Dom Radio Button Bangla Tutorial",
+      "duration": 827
+    },
+    {
+      "id": "C1p_9RvbZ1I",
+      "title": "31. JavaScript DOM Checkbox Bangla Tutorial",
+      "duration": 544
+    },
+    {
+      "id": "3Hww8zXAZ3w",
+      "title": "32. JS DOM Selected Box Bangla Tutorial |",
+      "duration": 598
+    },
+    {
+      "id": "uILUHlrw5_w",
+      "title": "33. JS DOM Add & Remove Element Bangla Tutorial",
+      "duration": 784
+    },
+    {
+      "id": "_aaBOyIF5uE",
+      "title": "34. JS DOM Handling Change Event Bangla Tutorial  |",
+      "duration": 272
+    },
+    {
+      "id": "L0Z3ALx7D4U",
+      "title": "35. JS DOM Last Video Input Event Bangla Tutorial",
+      "duration": 217
+    },
+    {
+      "id": "x2CLILWcXOE",
+      "title": "JS DOM Toggle Password Visibility Bangla Project",
+      "duration": 695
+    },
+    {
+      "id": "ZMB90X-hGlM",
+      "title": "Custom Cursor Under 60 Seconds || Only Javascript Custom Cursor For Website",
+      "duration": 138
+    },
+    {
+      "id": "6Ep0L_L2V6w",
+      "title": "JavaScript Digital Clock Full Project || Javascript Bangla Project",
+      "duration": 1594
+    },
+    {
+      "id": "gB5g2Xq3dLM",
+      "title": "Build A Calculator With JavaScript Tutorial + JavaScript Bangla Project",
+      "duration": 2303
+    },
+    {
+      "id": "2mwmj08PTsQ",
+      "title": "Drag And Drop Image Uploader Using JavaScript",
+      "duration": 3020
+    },
+    {
+      "id": "ao2IRH23aRg",
+      "title": "Javascript Project Bangla || Quiz App Development || Stack Learner",
+      "duration": 11126
+    }
+  ]
+}

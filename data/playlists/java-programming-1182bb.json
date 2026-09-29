@@ -1,0 +1,40 @@
+{
+  "courseId": "java-programming-1182bb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKoOSTnq72gar56u7XspkCfe",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:34.548Z",
+  "title": "Java Programming",
+  "channel": "Abdul Bari",
+  "videos": [
+    {
+      "id": "-JYLuv7mmxM",
+      "title": "1. Why One should Learn Java - Introduction to Java",
+      "duration": 867
+    },
+    {
+      "id": "1xz7OxASXUc",
+      "title": "2. Why and How Java is platform independent",
+      "duration": 1144
+    },
+    {
+      "id": "OnbpCg96w0I",
+      "title": "3. Why to Set Path ? JAVA",
+      "duration": 842
+    },
+    {
+      "id": "On9mzziI2pU",
+      "title": "4. Why public static void main(String args[ ]) ? JAVA",
+      "duration": 798
+    },
+    {
+      "id": "MuALK4KcNMc",
+      "title": "5. Everything about JAVA Data Types",
+      "duration": 1674
+    },
+    {
+      "id": "h1Sq8p2GL2g",
+      "title": "6. Everything about Variables in JAVA",
+      "duration": 1745
+    }
+  ]
+}

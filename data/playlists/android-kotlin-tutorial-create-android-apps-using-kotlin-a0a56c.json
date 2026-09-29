@@ -1,0 +1,155 @@
+{
+  "courseId": "android-kotlin-tutorial-create-android-apps-using-kotlin-a0a56c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:25.068Z",
+  "title": "Android Kotlin Tutorial: Create Android Apps using Kotlin",
+  "channel": "Smartherd",
+  "videos": [
+    {
+      "id": "e7WIPwRd2s8",
+      "title": "Android Application Development using Kotlin: Beginners Tutorials [ FREE COURSE ] Overview",
+      "duration": 294
+    },
+    {
+      "id": "CsxpHOQKk8c",
+      "title": "Android: Introduction to Kotlin Language. Is Java Dead? Android Tutorial using Kotlin #1.1",
+      "duration": 467
+    },
+    {
+      "id": "k4AfStT5dk8",
+      "title": "Install Android Studio and JDK on Mac, Windows and Linux ( Ubuntu ) #1.2",
+      "duration": 440
+    },
+    {
+      "id": "rKnx_zdPyzM",
+      "title": "Android with Kotlin Tutorial: First Android App using Kotlin in Android Studio #1.3",
+      "duration": 667
+    },
+    {
+      "id": "JCXYtOtRRSs",
+      "title": "Android Kotlin Tutorial: How to run Android app in Emulator [ AVD ] #1.4",
+      "duration": 766
+    },
+    {
+      "id": "Y6JJ4qZhhAI",
+      "title": "Kotlin Android Tutorial for Beginners: Explore Android Project Structure and Directories #1.5",
+      "duration": 568
+    },
+    {
+      "id": "RpHXPIm9j6s",
+      "title": "Kotlin Android Tutorial: Explore Activity, User Interface and Views #2.1",
+      "duration": 511
+    },
+    {
+      "id": "fcGZAZ30XNk",
+      "title": "Kotlin Android Tutorial: Designing Layouts ( User Interface ) and Handle button click events #2.2",
+      "duration": 576
+    },
+    {
+      "id": "zYrncPzx2tE",
+      "title": "Kotlin Android: Use Explicit Intent to Navigate between Activities and Explore Toast Message #2.3",
+      "duration": 645
+    },
+    {
+      "id": "rLTrM7Lgq4s",
+      "title": "Kotlin Android Tutorial: Share Data between Activities using Explicit Intent #2.4",
+      "duration": 603
+    },
+    {
+      "id": "CC79Qz6n22c",
+      "title": "Android Kotlin Tutorial: Share Data using Implicit Intent to Facebook, Instagram, WhatsApp #2.5",
+      "duration": 561
+    },
+    {
+      "id": "lLQWJS-WPo4",
+      "title": "Android RecyclerView Tutorial and CardView Tutorial using Kotlin #3.1",
+      "duration": 447
+    },
+    {
+      "id": "iepWnIHP7t8",
+      "title": "Android Integrate RecyclerView and CardView Dependency in Gradle. Android Kotlin Tutorial #3.2",
+      "duration": 280
+    },
+    {
+      "id": "bfPBa8cLqqg",
+      "title": "Android Model Class using Data Class of Kotlin. Android Kotlin Tutorial #3.3",
+      "duration": 204
+    },
+    {
+      "id": "E3x6pCZutLA",
+      "title": "Android Custom RecyclerView Adapter example. Android Kotlin Tutorial. #3.4",
+      "duration": 491
+    },
+    {
+      "id": "HXz6618Zzn8",
+      "title": "Android Kotlin Tutorial: Link RecyclerView with Custom RecyclerView.Adapter #3.5",
+      "duration": 587
+    },
+    {
+      "id": "2C_OmcDorJI",
+      "title": "Android Kotlin Tutorial: Implement various Kotlin Features in Android App #4.1",
+      "duration": 414
+    },
+    {
+      "id": "K1u8S2e41LA",
+      "title": "Android: Implementing Extension Function. Android Kotlin Tutorial #4.2",
+      "duration": 315
+    },
+    {
+      "id": "BRqfjvEVuuc",
+      "title": "Android Kotlin Tutorial: Use Default Parameters in Android #4.3",
+      "duration": 216
+    },
+    {
+      "id": "7JqvW898M1w",
+      "title": "Android Kotlin Tutorial: Use Null Safety Operators to make code robust #4.4",
+      "duration": 306
+    },
+    {
+      "id": "buhk5TRX_rw",
+      "title": "Android Kotlin Tutorial: Companion Object and Object Declarations. Static in Kotlin #4.5",
+      "duration": 582
+    },
+    {
+      "id": "XNFz97zqN-E",
+      "title": "Android String Localization using Kotlin: Support different Languages and Culture #5.1",
+      "duration": 859
+    },
+    {
+      "id": "6wPa8nQOKi4",
+      "title": "Android Create Launcher Icons using Image Asset Studio Manager in Kotlin #5.2",
+      "duration": 401
+    },
+    {
+      "id": "DGk3ELTSA-g",
+      "title": "Kotlin Android Tutorial: Apply Material Design Colors to your App. #5.3",
+      "duration": 476
+    },
+    {
+      "id": "oShPHVG3c9o",
+      "title": "Android Kotlin Tutorial: Apply Material Design Themes to your App #5.4",
+      "duration": 271
+    },
+    {
+      "id": "N4LjIy86J2Q",
+      "title": "Android Create Developer Account. Signup for Google Play Developer Console #6.1",
+      "duration": 134
+    },
+    {
+      "id": "nSBUPuxctzA",
+      "title": "Android Export Signed APK in Android Studio. Android Kotlin Tutorial #6.2",
+      "duration": 341
+    },
+    {
+      "id": "JG0GJ7k7Tlk",
+      "title": "Android Publish your Android App to Google Play store using Developer Console #6.3",
+      "duration": 765
+    },
+    {
+      "id": "_g4EfLq5ACI",
+      "title": "Android Application Development using Kotlin: Beginners Tutorials [ FREE COURSE ] Summary",
+      "duration": 78
+    }
+  ]
+}

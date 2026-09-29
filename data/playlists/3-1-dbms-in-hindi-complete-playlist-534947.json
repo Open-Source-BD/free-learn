@@ -1,0 +1,575 @@
+{
+  "courseId": "3-1-dbms-in-hindi-complete-playlist-534947",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:58.414Z",
+  "title": "1.1 DBMS In Hindi (Complete Playlist)",
+  "channel": "KnowledgeGATE by Sanchit Sir",
+  "videos": [
+    {
+      "id": "YRnjGeQbsHQ",
+      "title": "Complete DBMS Data Base Management System in one shot | Semester Exam | Hindi",
+      "duration": 20011
+    },
+    {
+      "id": "FchQ6wZVqsA",
+      "title": "Data Base Management System | DBMS in one shot | Complete GATE Course | Hindi #withsanchitsir",
+      "duration": 41864
+    },
+    {
+      "id": "ebDJJKb_zDo",
+      "title": "GATE 2026 CSE Batch Lauch | 2 Feb, 2025 | 8:00pm | #knowledgegate #withsanchitsir",
+      "duration": 1108
+    },
+    {
+      "id": "eTiP-H9GQ30",
+      "title": "1.0 What is DBMS with Syllabus | Database Management System in Hindi",
+      "duration": 739
+    },
+    {
+      "id": "cKRnbP6dZwc",
+      "title": "1.1 Difference between Data, Information, DB and DBMS",
+      "duration": 965
+    },
+    {
+      "id": "CqI0X8fNn2I",
+      "title": "1.2 Disadvantages Of File Processing System",
+      "duration": 746
+    },
+    {
+      "id": "kFQRrgHeiOo",
+      "title": "1.3 OLAP Vs OLTP",
+      "duration": 716
+    },
+    {
+      "id": "iUApyIf2h-A",
+      "title": "2.1 ER Diagram",
+      "duration": 527
+    },
+    {
+      "id": "jbl5rWNP5hU",
+      "title": "2.2 Entity, Types of Entity and Entity Sets",
+      "duration": 746
+    },
+    {
+      "id": "7mi_3zi66C8",
+      "title": "2.3 Types of Attributes-Simple Composite Single Valued MultiValued Stored Derived",
+      "duration": 737
+    },
+    {
+      "id": "YvQtgE6R_q0",
+      "title": "2.4 Relationship in an ER Diagram",
+      "duration": 600
+    },
+    {
+      "id": "JGOvqCFrldU",
+      "title": "2.5 Degree of a Relationship in a ER Diagram",
+      "duration": 410
+    },
+    {
+      "id": "XUokY6sA3UE",
+      "title": "2.6 Mapping Cardinalities and Cardinality Ratio in ER diagram",
+      "duration": 965
+    },
+    {
+      "id": "sWZw69Wf5SQ",
+      "title": "2.7 Participation Constraints in ER Diagram",
+      "duration": 724
+    },
+    {
+      "id": "wez3fXrjBAE",
+      "title": "3.1 Functional Dependency in DBMS | Functional Dependency explained",
+      "duration": 903
+    },
+    {
+      "id": "y8XuGhEdslM",
+      "title": "3.2 Functional Dependency Questions Part-1",
+      "duration": 580
+    },
+    {
+      "id": "d37Ct1gHmsU",
+      "title": "3.3 Functional Dependency Questions Part-2",
+      "duration": 721
+    },
+    {
+      "id": "vs65S6Nku5g",
+      "title": "3.4 Armstrong's Axioms and Inference Rules in Functional Dependency",
+      "duration": 1259
+    },
+    {
+      "id": "fT0QMtgqPrU",
+      "title": "3.5 Closure Set Of Attributes With Examples",
+      "duration": 1076
+    },
+    {
+      "id": "NeITRksKLzs",
+      "title": "3.6 Equivalence Of Functional Dependencies",
+      "duration": 478
+    },
+    {
+      "id": "0XmHRycmrp0",
+      "title": "3.7 Equivalence Of Functional Dependencies Examples",
+      "duration": 987
+    },
+    {
+      "id": "o0GQQFu-5C0",
+      "title": "3.8 Minimal Cover or Canonical Cover or Irreducible set of Functional Dependencies",
+      "duration": 873
+    },
+    {
+      "id": "_-F6QfdheEk",
+      "title": "3.9 Practice questions on Minimal Cover or Canonical Cover or Irreducible set",
+      "duration": 1309
+    },
+    {
+      "id": "8N2Z2WPQFcU",
+      "title": "3.10 Keys In DBMS",
+      "duration": 998
+    },
+    {
+      "id": "MhvAcuNvvNk",
+      "title": "3.11 Super Key, Candidate Key and Primary Key",
+      "duration": 1309
+    },
+    {
+      "id": "x_inLVXPlSU",
+      "title": "3.12 Finding Number Of Candidate Key",
+      "duration": 1482
+    },
+    {
+      "id": "33ek39nWkVA",
+      "title": "3.13 Finding Number Of Candidate Key Examples",
+      "duration": 795
+    },
+    {
+      "id": "K5P-2-oWXqs",
+      "title": "4.1 Insertion Deletion and Updation Anomalies, Data Redundancy Inconsistency in DBMS",
+      "duration": 892
+    },
+    {
+      "id": "oylHRgBDfNc",
+      "title": "4.2 Basic Concept of Normalization",
+      "duration": 814
+    },
+    {
+      "id": "px7HV91fx2I",
+      "title": "4.3 Normalization in DBMS",
+      "duration": 500
+    },
+    {
+      "id": "CedOasDoe-w",
+      "title": "4.4 First Normal Form",
+      "duration": 424
+    },
+    {
+      "id": "80CcB9_HSxU",
+      "title": "4.5 Second Normal Form 2NF",
+      "duration": 759
+    },
+    {
+      "id": "Wx5CzybyLXA",
+      "title": "4.6 Reason For Second Normal Form 2NF",
+      "duration": 587
+    },
+    {
+      "id": "yIN6k57OB3U",
+      "title": "4.7 How to Decompose a relation into 2NF",
+      "duration": 947
+    },
+    {
+      "id": "9qWpfTW_c5Y",
+      "title": "4.8 Third Normal Form  3 NF",
+      "duration": 711
+    },
+    {
+      "id": "aOZ5z7z9y-g",
+      "title": "4.9 3NF Third Normal Form",
+      "duration": 745
+    },
+    {
+      "id": "9H4aJqYyd9s",
+      "title": "4.10 Decomposition into 3NF Third Normal Form",
+      "duration": 1306
+    },
+    {
+      "id": "cm1DYCQhFZw",
+      "title": "4.11 BCNF Boyce Codd Normal Form",
+      "duration": 621
+    },
+    {
+      "id": "iuJtkzoNtbg",
+      "title": "4.12 How To Identify BCNF Boyce Codd Normal Form",
+      "duration": 713
+    },
+    {
+      "id": "mzxnbsmIRNw",
+      "title": "4.13 How to Identify Normal Form Practice Question Part-1",
+      "duration": 1833
+    },
+    {
+      "id": "oeWSmSH5YeI",
+      "title": "4.14 How to Identify Normal Form Practice Question Part-2",
+      "duration": 747
+    },
+    {
+      "id": "hL9-RDzvO-0",
+      "title": "4.15 How to Identify Normal Form Practice Question Part-3",
+      "duration": 1854
+    },
+    {
+      "id": "M5OClnF_mlA",
+      "title": "4.16 Lossless Join Decomposition in DBMS in HINDI Part-1",
+      "duration": 989
+    },
+    {
+      "id": "3aQ0dnZHaRQ",
+      "title": "4.17 Example Practice Problem of Lossless Join Decomposition Part-2",
+      "duration": 752
+    },
+    {
+      "id": "isOLwsdB4Ns",
+      "title": "4.18 Dependency Preserving Decomposition in DBMS in Hindi",
+      "duration": 948
+    },
+    {
+      "id": "I3Zwz4lKmDU",
+      "title": "4.19 How to normalize a relation table | DBMS |",
+      "duration": 543
+    },
+    {
+      "id": "RgYU5r9A5TU",
+      "title": "5.1 Introduction to File Structure in DBMS",
+      "duration": 342
+    },
+    {
+      "id": "D7pmQDnjcV4",
+      "title": "5.2 Sorted Unsorted File Structure Spanned Unspanned Mapping in DBMS",
+      "duration": 1361
+    },
+    {
+      "id": "SxHX1T53n_A",
+      "title": "5.3 Introduction to Indexing in DBMS",
+      "duration": 1231
+    },
+    {
+      "id": "O-Mbn6VI1zc",
+      "title": "5.4 Types of Indexing in DBMS | Primary | Clustered | Secondary | Sparse | Dense",
+      "duration": 544
+    },
+    {
+      "id": "L-THExvsv0s",
+      "title": "5.5 Primary Indexing In DBMS In HINDI Part-1",
+      "duration": 519
+    },
+    {
+      "id": "mbjE4WsWYCA",
+      "title": "5.6 Numerical on Primary Indexing In DBMS In HINDI Part-2",
+      "duration": 669
+    },
+    {
+      "id": "54gUz7QqE4o",
+      "title": "5.7 Clustering Index in DBMS in HINDI",
+      "duration": 673
+    },
+    {
+      "id": "SoYYwKXtCC0",
+      "title": "5.8 Secondary Index in DBMS in HINDI",
+      "duration": 914
+    },
+    {
+      "id": "Tmbv15xiIPo",
+      "title": "5.9 Numerical on Secondary Index in DBMS HINDI",
+      "duration": 449
+    },
+    {
+      "id": "6_94Fm_yNAM",
+      "title": "5.10 Primary Vs Secondary Index in DBMS HINDI",
+      "duration": 616
+    },
+    {
+      "id": "uZogMFWBGSg",
+      "title": "6.1 Query language Procedural Vs Non-Procedural in DBMS",
+      "duration": 919
+    },
+    {
+      "id": "AepLj_C4ywM",
+      "title": "6.2 Introduction To Relational Algebra in DBMS in Hindi",
+      "duration": 605
+    },
+    {
+      "id": "z0dzM7Dadi8",
+      "title": "6.3 Select (Sigma) Operation in DBMS in hindi Part-1",
+      "duration": 637
+    },
+    {
+      "id": "PJkHEdG8E-A",
+      "title": "6.4 Select (Sigma) Operation in DBMS in hindi Part-2",
+      "duration": 650
+    },
+    {
+      "id": "Cob3hPUdrJk",
+      "title": "6.5 Project operation in DBMS in hindi",
+      "duration": 491
+    },
+    {
+      "id": "iOJlmwXzDB4",
+      "title": "6.6 select and project operation in relational algebra examples in hindi",
+      "duration": 484
+    },
+    {
+      "id": "c-FqvuGIi-8",
+      "title": "6.7 Union Intersection and Set Difference Operator Relational Algebra in DBMS",
+      "duration": 754
+    },
+    {
+      "id": "VJp27dmRxXs",
+      "title": "6.8 Cartesian Product or Cross Product Operator in Relational Algebra in DBMS in HINDI",
+      "duration": 863
+    },
+    {
+      "id": "CHwLkUlq-vE",
+      "title": "6.9 Practice problems on Cartesian Product or Cross Product Operator in DBMS in HINDI",
+      "duration": 695
+    },
+    {
+      "id": "CE1fhHgnC30",
+      "title": "7.1 Introductionto to SQL in DBMS",
+      "duration": 670
+    },
+    {
+      "id": "cc1fsb-PJOg",
+      "title": "7.2 Basics Structure of SQL Query",
+      "duration": 573
+    },
+    {
+      "id": "mTeJRLzqd1o",
+      "title": "7.3 Select Operation in SQL Query in hindi",
+      "duration": 755
+    },
+    {
+      "id": "09nUeZFhmZw",
+      "title": "7.4 Select clause with where clause in sql in hindi select from where in sql in hindi",
+      "duration": 584
+    },
+    {
+      "id": "oZtIKe6sfmU",
+      "title": "7.5 Set Operation in SQL Query Union Intersection Except Minus Set Difference in hindi",
+      "duration": 597
+    },
+    {
+      "id": "s0WGy_IWBxk",
+      "title": "7.6 Cartersian Product in SQL Query in DBMS",
+      "duration": 944
+    },
+    {
+      "id": "PHPHkqHAu9Y",
+      "title": "7.7 Natural Join in SQL in DBMS in HINDI",
+      "duration": 736
+    },
+    {
+      "id": "lJv614Y0lFA",
+      "title": "7.8 Join or Inner Join in SQL in HINDI With Example Part-1",
+      "duration": 556
+    },
+    {
+      "id": "z996Uv9MNaQ",
+      "title": "7.9 Join or Inner Join in SQL in HINDI With Example Part-2",
+      "duration": 448
+    },
+    {
+      "id": "ldos7yYMjs8",
+      "title": "7.10 Outer Join Full Outer Join Left Outer Join Right Outer Join Complete Outer Join in SQL",
+      "duration": 361
+    },
+    {
+      "id": "Ro6fIhAgKsA",
+      "title": "7.11 Rename Operation in SQL in HINDI With Example",
+      "duration": 924
+    },
+    {
+      "id": "3d4f6HNKj-8",
+      "title": "7.12 String Operation in SQL in Hindi With Example",
+      "duration": 701
+    },
+    {
+      "id": "BHgdb9XS0Bk",
+      "title": "7.13 Ordering of Tuples in SQL In HINDI With Example",
+      "duration": 382
+    },
+    {
+      "id": "a6KIAX5Aubg",
+      "title": "8.1 Introduction To Transaction and Concurrency Control in DBMS",
+      "duration": 615
+    },
+    {
+      "id": "quz6gV7oDFI",
+      "title": "8.2 Basic Idea of Transaction in DBMS",
+      "duration": 614
+    },
+    {
+      "id": "qMBQCDTVROc",
+      "title": "8.3 ACID Properties Of Transaction In DBMS",
+      "duration": 900
+    },
+    {
+      "id": "914rYy0Djrg",
+      "title": "8.4 Transaction States In DBMS",
+      "duration": 740
+    },
+    {
+      "id": "XrHzsxLbLh4",
+      "title": "8.5 Advantage of Concurrency in Transaction DBMS",
+      "duration": 541
+    },
+    {
+      "id": "CPOfYF0Ya6E",
+      "title": "8.6 Dirty Read Problem in Transaction In DBMS",
+      "duration": 643
+    },
+    {
+      "id": "l0177OcTTdk",
+      "title": "8.7 Unrepeatable Read Problem in Transaction DBMS Part-1",
+      "duration": 394
+    },
+    {
+      "id": "-FyMthiA1kU",
+      "title": "8.8 Phantom Read Problem in Transaction in DBMS",
+      "duration": 331
+    },
+    {
+      "id": "o7RUUgHS3ck",
+      "title": "8.9 Lost Update Problem Write Write Conflict In Transaction DBMS",
+      "duration": 297
+    },
+    {
+      "id": "XCLA0cjk0o8",
+      "title": "8.10 Serial Schedule and Non Serial Schedule in Transaction DBMS",
+      "duration": 871
+    },
+    {
+      "id": "vBo0UZl_VUM",
+      "title": "8.11 Conflict Serializable Schedule With Precedence Graph",
+      "duration": 1105
+    },
+    {
+      "id": "N7N-TdqNVRc",
+      "title": "8.12 Lost Update Problem Write Write Conflict In Transaction DBMS Part-2",
+      "duration": 265
+    },
+    {
+      "id": "QkROSmKbVFQ",
+      "title": "8.13 Practice Questions on Conflict Serializability Part-1",
+      "duration": 688
+    },
+    {
+      "id": "6feqtT3e-vA",
+      "title": "8.14 Practice Questions on Conflict Serializability Part-2",
+      "duration": 820
+    },
+    {
+      "id": "Ewzmv2jBlmM",
+      "title": "8.15 View Serializability in DBMS",
+      "duration": 727
+    },
+    {
+      "id": "FJteasXARxg",
+      "title": "8.16 Practice Problem on View Serializability",
+      "duration": 1114
+    },
+    {
+      "id": "fCuEd3N9Nrs",
+      "title": "8.17 Recoverable Schedule in DBMS",
+      "duration": 898
+    },
+    {
+      "id": "qH2iYtuJEwQ",
+      "title": "8.18 Cascadeless Schedule in DBMS",
+      "duration": 702
+    },
+    {
+      "id": "MvLHkPCjCtk",
+      "title": "8.19 Strict Schedule in DBMS",
+      "duration": 561
+    },
+    {
+      "id": "fTRF3cr10RQ",
+      "title": "8.20 Concurrency Control In DBMS",
+      "duration": 648
+    },
+    {
+      "id": "k0Tuf2weFyA",
+      "title": "8.21 Time Stamping Protocol in DBMS Part-1",
+      "duration": 871
+    },
+    {
+      "id": "PYgebFyWZwI",
+      "title": "8.22 Time Stamping Protocol in DBMS Part-2",
+      "duration": 864
+    },
+    {
+      "id": "LyTjtXtfBlM",
+      "title": "8.23 Properties Of Time Stamping Protocol in DBMS Part-3",
+      "duration": 454
+    },
+    {
+      "id": "uLcEOs24Q3s",
+      "title": "8.24 Thomas Write Rule in Time Stamping Protocol in DBMS Part-4",
+      "duration": 752
+    },
+    {
+      "id": "44Uc6ohuOAk",
+      "title": "8.25 Lock Based Protocol in DBMS Concurrency Control Part-1",
+      "duration": 630
+    },
+    {
+      "id": "9aHA73fyt2g",
+      "title": "8.26 Properties of Lock Based Protocols in Concurrency Control Part-2",
+      "duration": 462
+    },
+    {
+      "id": "7gW5vi1fNq4",
+      "title": "8.27 2 Phase Locking Protocol 2PL Part-3",
+      "duration": 672
+    },
+    {
+      "id": "VwZ58AvwYb0",
+      "title": "8.28 Conservative 2 Phase Locking 2PL Part-4",
+      "duration": 697
+    },
+    {
+      "id": "SR18TdBE2n4",
+      "title": "8.29 Rigorous 2-Phase Locking 2pl Part-5",
+      "duration": 442
+    },
+    {
+      "id": "V4RouV433_Y",
+      "title": "8.30 Strict 2 Phase Locking 2PL Part-6",
+      "duration": 382
+    },
+    {
+      "id": "ESsb6gqoIdc",
+      "title": "8.31 Graph Based Protocol Concurrency Control Part-1",
+      "duration": 619
+    },
+    {
+      "id": "uQrJbA9_WNU",
+      "title": "8.32 Tree-Graph Based Protocol Concurrency Control Part-2",
+      "duration": 518
+    },
+    {
+      "id": "Nk291GYi_t4",
+      "title": "8.33 Properties Of Tree Based Protocol In DBMS Part-3",
+      "duration": 474
+    },
+    {
+      "id": "Iz66t1uyYIM",
+      "title": "8.34 Deadlock Handling in Transaction and Concurrency Concurrency Part-1",
+      "duration": 655
+    },
+    {
+      "id": "-r734q6sSa0",
+      "title": "8.35 Dead Lock Prevention in Transaction and Concurrency Control in DBMS Part-2",
+      "duration": 834
+    }
+  ]
+}

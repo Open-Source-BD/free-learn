@@ -1,0 +1,335 @@
+{
+  "courseId": "laravel-hindi-e045bd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:34.867Z",
+  "title": "Laravel 8 (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "sccLfQ4_u10",
+      "title": "What is Framework (Hindi)",
+      "duration": 568
+    },
+    {
+      "id": "_yinh8m3M78",
+      "title": "What is Web Framework (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "jMmgvzHKXgw",
+      "title": "Visual Studio Code Crash Course (Hindi)",
+      "duration": 3559
+    },
+    {
+      "id": "yPTeQnh4hY4",
+      "title": "How to Install XAMPP (Hindi)",
+      "duration": 497
+    },
+    {
+      "id": "m-UbyoOC8IQ",
+      "title": "How to Fix PHP Fatal Error while running Laravel Project (Hindi)",
+      "duration": 206
+    },
+    {
+      "id": "MC8GwH7sFso",
+      "title": "Composer A Dependency Manager for PHP Complete Course (Hindi)",
+      "duration": 10807
+    },
+    {
+      "id": "duosD4EB4qY",
+      "title": "What is MVC Model View Controller and Why use MVC (Hindi)",
+      "duration": 985
+    },
+    {
+      "id": "_HVFhXHXhUk",
+      "title": "Download and Run Laravel Study Material (Hindi)",
+      "duration": 462
+    },
+    {
+      "id": "DfslJ-kaZXA",
+      "title": "Introduction to Laravel (Hindi)",
+      "duration": 318
+    },
+    {
+      "id": "osP5aZX-xIA",
+      "title": "Requirements for Learning Laravel (Hindi)",
+      "duration": 165
+    },
+    {
+      "id": "pocadHKSXwI",
+      "title": "How to Install Laravel and Create Laravel Project (Hindi)",
+      "duration": 621
+    },
+    {
+      "id": "ENoS4A0PpnQ",
+      "title": "Laravel Directory Structure (Hindi)",
+      "duration": 1255
+    },
+    {
+      "id": "FhFpWznepUo",
+      "title": "Routes in Laravel (Hindi)",
+      "duration": 3466
+    },
+    {
+      "id": "LqaTv3X2ze8",
+      "title": "View in Laravel (Hindi)",
+      "duration": 4074
+    },
+    {
+      "id": "hwfBEjGYA3A",
+      "title": "Controllers in Laravel (Hindi)",
+      "duration": 3270
+    },
+    {
+      "id": "14fN9rSjXV8",
+      "title": "Blade Template Crash Course (Hindi)",
+      "duration": 3599
+    },
+    {
+      "id": "LdXj1Tkh5dA",
+      "title": "Include subview inside view in Laravel (Hindi)",
+      "duration": 2319
+    },
+    {
+      "id": "ogzNiJ1215g",
+      "title": "Write Plain PHP Code in Laravel Blade Template (Hindi)",
+      "duration": 142
+    },
+    {
+      "id": "CIahT5Dpzuo",
+      "title": "Component and Class Based Component in Laravel (Hindi)",
+      "duration": 2859
+    },
+    {
+      "id": "tirPOL3o5rM",
+      "title": "Anonymous Component in Laravel (Hindi)",
+      "duration": 260
+    },
+    {
+      "id": "iXe_b6QPdh0",
+      "title": "Slot and Named Slot in Laravel (Hindi)",
+      "duration": 619
+    },
+    {
+      "id": "MxlzFseXDp8",
+      "title": "Create Layout using Component in Laravel (Hindi)",
+      "duration": 1159
+    },
+    {
+      "id": "A_uKGqbo3pE",
+      "title": "Create Layout using Template Inheritance in Laravel (Hindi)",
+      "duration": 1348
+    },
+    {
+      "id": "90cM_xBerDw",
+      "title": "How to add CSS and JavaScript in Laravel Project (Hindi)",
+      "duration": 2412
+    },
+    {
+      "id": "W6mKNzkB1zs",
+      "title": "How to add images in Laravel Project (Hindi)",
+      "duration": 350
+    },
+    {
+      "id": "HRIjE-R_9Fo",
+      "title": "How to Add Bootstrap in Laravel Project (Hindi)",
+      "duration": 2613
+    },
+    {
+      "id": "55p5CvDPe3A",
+      "title": "Named Routes in Laravel (Hindi)",
+      "duration": 1703
+    },
+    {
+      "id": "a0ueOAzubF0",
+      "title": "Resume Laravel Project using Component Layout and Template Inheritance (Hindi)",
+      "duration": 3670
+    },
+    {
+      "id": "Av-8onSuVVU",
+      "title": "Middleware in Laravel (Hindi)",
+      "duration": 2741
+    },
+    {
+      "id": "7YTBGpoMjtU",
+      "title": "Form in Laravel (Hindi)",
+      "duration": 3180
+    },
+    {
+      "id": "WdcuJyFlUmo",
+      "title": "Form Validation using validate method in Laravel (Hindi)",
+      "duration": 1545
+    },
+    {
+      "id": "vQaWpCUu32g",
+      "title": "Displaying Validation errors and Custom errors in Laravel (Hindi)",
+      "duration": 2230
+    },
+    {
+      "id": "3ehhjhcidss",
+      "title": "Custom Validation Rules in Laravel (Hindi)",
+      "duration": 1540
+    },
+    {
+      "id": "8oMLIWJsCoE",
+      "title": "Form Validation using FormRequest in Laravel (Hindi)",
+      "duration": 1118
+    },
+    {
+      "id": "TAJhL5Hyvo4",
+      "title": "How to Run SQL Queries in Laravel (Hindi)",
+      "duration": 3010
+    },
+    {
+      "id": "t9UeRc7tKKY",
+      "title": "Query Builder in Laravel (Hindi)",
+      "duration": 4876
+    },
+    {
+      "id": "rBUPbekq7o0",
+      "title": "Pagination using Query Builder in Laravel (Hindi)",
+      "duration": 1601
+    },
+    {
+      "id": "x7PKrBYyuW0",
+      "title": "Migrations and Creating Table Foreign Key in Laravel (Hindi)",
+      "duration": 6563
+    },
+    {
+      "id": "_da5sDdj2Sc",
+      "title": "CRUD using Query Builder in Laravel (Hindi)",
+      "duration": 2194
+    },
+    {
+      "id": "JX6hNUpoPyk",
+      "title": "Seeding and Faker Package in Laravel (Hindi)",
+      "duration": 1596
+    },
+    {
+      "id": "nNDBBkAR6BY",
+      "title": "Eloquent ORM and Model in Laravel (Hindi)",
+      "duration": 4264
+    },
+    {
+      "id": "AdXiUnuQbQM",
+      "title": "CRUD using Eloquent ORM in Laravel (Hindi)",
+      "duration": 1892
+    },
+    {
+      "id": "mQT8BLEZaWA",
+      "title": "One to One Relationship in Laravel (Hindi)",
+      "duration": 2776
+    },
+    {
+      "id": "64nqnh3NIzU",
+      "title": "One to Many Relationship in Laravel (Hindi)",
+      "duration": 2765
+    },
+    {
+      "id": "-sKKHqDsUe8",
+      "title": "Has One Through Relationship in Laravel (Hindi)",
+      "duration": 1561
+    },
+    {
+      "id": "UEwfItWxmgY",
+      "title": "Has Many Through Relationship in Laravel (Hindi)",
+      "duration": 1511
+    },
+    {
+      "id": "CElad6CWsJ0",
+      "title": "Many to Many Relationship in Laravel (Hindi)",
+      "duration": 2026
+    },
+    {
+      "id": "9ipBfNP3ff0",
+      "title": "Accessor and Mutator in Laravel (Hindi)",
+      "duration": 1098
+    },
+    {
+      "id": "1yU1QSK_MwQ",
+      "title": "Eloquent Pagination in Laravel (Hindi)",
+      "duration": 763
+    },
+    {
+      "id": "GoG3cdXVVYQ",
+      "title": "What is Authentication and Authorization (Hindi)",
+      "duration": 173
+    },
+    {
+      "id": "aqLMNzdo5CI",
+      "title": "Authentication and Breeze in Laravel (Hindi)",
+      "duration": 2843
+    },
+    {
+      "id": "2DnlUlxsJ_8",
+      "title": "Mini Blog Laravel Project (Hindi)",
+      "duration": 4349
+    },
+    {
+      "id": "2zV0c7a1VNQ",
+      "title": "Gates Authorization in Laravel (Hindi)",
+      "duration": 2011
+    },
+    {
+      "id": "rHIXSggC654",
+      "title": "Policies Authorization in Laravel (Hindi)",
+      "duration": 2370
+    },
+    {
+      "id": "ov8JVT7PfLM",
+      "title": "Session and Flash Session in Laravel (Hindi)",
+      "duration": 3039
+    },
+    {
+      "id": "ZyQbss1E_hE",
+      "title": "Cache in Laravel (Hindi)",
+      "duration": 3204
+    },
+    {
+      "id": "A-hPbDLlnrI",
+      "title": "Collection in Laravel (Hindi)",
+      "duration": 613
+    },
+    {
+      "id": "gC0so9JLsZU",
+      "title": "Localization in Laravel (Hindi)",
+      "duration": 1111
+    },
+    {
+      "id": "yzNj8pnSx8g",
+      "title": "Request in Laravel (Hindi)",
+      "duration": 1413
+    },
+    {
+      "id": "wwaBDEeb3IM",
+      "title": "Response in Laravel (Hindi)",
+      "duration": 368
+    },
+    {
+      "id": "5R3TU5dJYd8",
+      "title": "Redirect in Laravel (Hindi)",
+      "duration": 653
+    },
+    {
+      "id": "g_Ccyu0uoP0",
+      "title": "Making Request to API using HTTP Client in Laravel (Hindi)",
+      "duration": 2194
+    },
+    {
+      "id": "ApTOKeGCikA",
+      "title": "What to do after Learning Laravel (Hindi)",
+      "duration": 451
+    },
+    {
+      "id": "t63VUeYDiAs",
+      "title": "How to Upgrade Project from Laravel 8 to Laravel 9 Version (Hindi)",
+      "duration": 492
+    },
+    {
+      "id": "HmpsezTahDI",
+      "title": "Upcoming Series on Django Laravel Node Express Project Deployment",
+      "duration": 58
+    }
+  ]
+}

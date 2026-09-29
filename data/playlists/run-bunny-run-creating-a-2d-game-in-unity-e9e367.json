@@ -1,0 +1,90 @@
+{
+  "courseId": "run-bunny-run-creating-a-2d-game-in-unity-e9e367",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:12.020Z",
+  "title": "Run Bunny, Run! Creating a 2D game in Unity",
+  "channel": "Rabidgremlin",
+  "videos": [
+    {
+      "id": "3Vpf6vFOXTQ",
+      "title": "Creating a 2D game in Unity - Series Introduction [RNDBITS-003][RBR01]",
+      "duration": 127
+    },
+    {
+      "id": "yC8Txy0QKtQ",
+      "title": "An introduction to Unity [RNDBITS-004][RBR02]",
+      "duration": 1770
+    },
+    {
+      "id": "7t37XGYEw2M",
+      "title": "Making the Bunny jump [RNDBITS-005][RBR03]",
+      "duration": 1359
+    },
+    {
+      "id": "LOKDmjcpBtk",
+      "title": "Setting up source control for our game [RNDBITS-006][RBR04]",
+      "duration": 1227
+    },
+    {
+      "id": "RWZ1DunY4yk",
+      "title": "Animating our bunny [RNDBITS-007][RBR05]",
+      "duration": 919
+    },
+    {
+      "id": "bIVzB3B-joE",
+      "title": "Adding prickly obstacles [RNDBITS-008][RBR06]",
+      "duration": 1963
+    },
+    {
+      "id": "6aPYA3ZcB4I",
+      "title": "A better bunny death and scoring [RNDBITS-009][RBR07]",
+      "duration": 1797
+    },
+    {
+      "id": "l6pV5xFHpbo",
+      "title": "Tweaking our game play [RNDBITS-010][RBR08]",
+      "duration": 2201
+    },
+    {
+      "id": "AkjLY816TGg",
+      "title": "Adding parallax scrolling [RNDBITS-011][RBR09]",
+      "duration": 2140
+    },
+    {
+      "id": "CQE97piz2JM",
+      "title": "Adding sound effects & music [RNDBITS-012][RBR10]",
+      "duration": 652
+    },
+    {
+      "id": "dSEuzpglcOo",
+      "title": "Adding a title screen [RNDBITS-013][RBR11]",
+      "duration": 967
+    },
+    {
+      "id": "gj20I2323LQ",
+      "title": "Adding custom fonts and UI [RNDBITS-014][RBR12]",
+      "duration": 2205
+    },
+    {
+      "id": "EpVxpXb-tTo",
+      "title": "Testing our game on a mobile device [RNDBITS-015][RBR13]",
+      "duration": 1050
+    },
+    {
+      "id": "ABqmWhD5Ny8",
+      "title": "Some final tweaks for mobile & a mute button [RNDBITS-016][RBR14]",
+      "duration": 1348
+    },
+    {
+      "id": "gHDCFpF5R1o",
+      "title": "Publishing our game for the web [RNDBITS-017][RBR15]",
+      "duration": 1028
+    },
+    {
+      "id": "JuQGmc7GwxU",
+      "title": "Adding a high score [RNDBITS-020][RBR16]",
+      "duration": 942
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "courseId": "web-development-using-flask-and-python-b9f2c7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:18.179Z",
+  "title": "[Hindi] Web Development Using Flask and Python",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "DD3ou9sa3Z8",
+      "title": "[Hindi] How Websites Work - Web Development Using Flask and Python #1",
+      "duration": 538
+    },
+    {
+      "id": "m7UQyy0Q5Uk",
+      "title": "[Hindi] Creating Our First Flask App - Web Development Using Flask and Python #2",
+      "duration": 585
+    },
+    {
+      "id": "jNiSALNBQv0",
+      "title": "[Hindi] Static and Templates folder - Web Development Using Flask and Python #3",
+      "duration": 715
+    },
+    {
+      "id": "kQK0ha8FNCw",
+      "title": "[Hindi] Simple Bootstrap Site - Web Development Using Flask and Python #4",
+      "duration": 466
+    },
+    {
+      "id": "SRUUe33nwXM",
+      "title": "[Hindi] Jinja Templating Basics - Web Development Using Flask and Python #5",
+      "duration": 518
+    },
+    {
+      "id": "xcySR77dOTc",
+      "title": "[Hindi] Creating A Tech Blog - Web Development Using Flask and Python #6",
+      "duration": 881
+    },
+    {
+      "id": "RnAT9lbigFw",
+      "title": "[Hindi] Template Inheritance In Jinja2 - Web Development Using Flask and Python #7",
+      "duration": 896
+    },
+    {
+      "id": "7mJ1_DKmFyY",
+      "title": "[Hindi] Connecting to the Database - Web Development Using Flask and Python #8",
+      "duration": 1316
+    },
+    {
+      "id": "9CQp7aoc1IU",
+      "title": "[Hindi] Flask SQLAlchemy Tutorial In Hindi - Web Development Using Flask and Python #9",
+      "duration": 1478
+    },
+    {
+      "id": "yrLjPFa7uis",
+      "title": "[Hindi] Making Parameters Configurable - Web Development Using Flask and Python #10",
+      "duration": 1056
+    },
+    {
+      "id": "O-IM9wr0F6M",
+      "title": "[Hindi] Sending Emails Using Flask - Web Development Using Flask and Python #11",
+      "duration": 773
+    },
+    {
+      "id": "OTs0VUa6p-8",
+      "title": "[Hindi] Creating Our First Flask Post In Hindi - Web Development Using Flask and Python #12",
+      "duration": 1275
+    },
+    {
+      "id": "8Zn8frwlOek",
+      "title": "[Hindi] Designing The Blog's Homepage - Web Development Using Flask and Python #13",
+      "duration": 1066
+    },
+    {
+      "id": "Cq8DAbr_wb4",
+      "title": "[Hindi] Creating Admin Dashboard - Web Development Using Flask and Python #14",
+      "duration": 1260
+    },
+    {
+      "id": "FtIux7tirSs",
+      "title": "[Hindi] Edit, Delete and File Upload - Web Development Using Flask and Python #15",
+      "duration": 1327
+    },
+    {
+      "id": "mzYYkPLrc_Y",
+      "title": "[Hindi] Adding New Posts To Flask Blog - Web Development Using Flask and Python #16",
+      "duration": 1757
+    },
+    {
+      "id": "Ha1_0lQbJ-w",
+      "title": "[Hindi] Uploading Files In Flask - Web Development Using Flask and Python #17",
+      "duration": 890
+    },
+    {
+      "id": "OOktihNo2Zg",
+      "title": "[Hindi] Deleting BlogPosts In Flask - Web Development Using Flask and Python #18",
+      "duration": 352
+    },
+    {
+      "id": "JqS6BcgeUMw",
+      "title": "[Hindi] Creating Pagination In Flask - Web Development Using Flask and Python #19",
+      "duration": 1245
+    },
+    {
+      "id": "YH0s7PBDBko",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "S2fAWz_rWXo",
+      "title": "[Hindi] Purchasing A Domain Name From Godaddy- Web Development Using Flask and Python #21",
+      "duration": 398
+    },
+    {
+      "id": "qL6xsNFCoVM",
+      "title": "[Hindi] Hosting The Blog On A Server - Web Development Using Flask and Python #22",
+      "duration": 1395
+    },
+    {
+      "id": "4kHrtrjLRG8",
+      "title": "[Hindi] Fixing The Add Post Bug - Web Development Using Flask and Python #23",
+      "duration": 428
+    },
+    {
+      "id": "gEWkHHIEOK0",
+      "title": "[Hindi] Hosting Flask App On Ubuntu Production Server WSGI - Web Development Using Flask & Python#24",
+      "duration": 2608
+    },
+    {
+      "id": "MxvUs83FZvA",
+      "title": "[Hindi] Message Flashing And Other Python Flask Resources | Web Development Using Flask & Python #25",
+      "duration": 1452
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "courseId": "arduino-project-in-hindi-e66414",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLpp1gWWec-Fj93mz9kfflp_ovplKCpR4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:38.934Z",
+  "title": "Arduino project in hindi",
+  "channel": "Praveen Innovation Lab",
+  "videos": [
+    {
+      "id": "gbZ8DF7GpU8",
+      "title": "Start Arduino projects in hindi : Tutorial 34",
+      "duration": 661
+    },
+    {
+      "id": "oRbrioEDuv4",
+      "title": "How To Install Arduino Software : Tutorial 35",
+      "duration": 219
+    },
+    {
+      "id": "K_CpGEVyCgI",
+      "title": "Start Basic Arduino Programming : Tutorial 36",
+      "duration": 508
+    },
+    {
+      "id": "Y6RlMNfDgac",
+      "title": "How Microcontrollers Works : Tutorial 37",
+      "duration": 234
+    },
+    {
+      "id": "uIuHjkwcXkk",
+      "title": "LED pattern with Arduino uno : Tutorial 38",
+      "duration": 569
+    },
+    {
+      "id": "Pc67yjvntIA",
+      "title": "How To Use 7 Segment Display With Arduino : Tutorial 39",
+      "duration": 380
+    },
+    {
+      "id": "YnBld6zMK-w",
+      "title": "Control a LED with a Button : Tutorial 40",
+      "duration": 375
+    },
+    {
+      "id": "0BHdPmjteU4",
+      "title": "LED pattern with button control on Arduino : Tutorial 41",
+      "duration": 326
+    },
+    {
+      "id": "J3tCUPlrG8s",
+      "title": "Push button Counter using Arduino : Tutorial 42",
+      "duration": 180
+    },
+    {
+      "id": "qc9Yw5kgTTM",
+      "title": "Object counter using ir sensor with Arduino : Tutorial 43",
+      "duration": 145
+    },
+    {
+      "id": "FRAb9w9V_UE",
+      "title": "Analog Read and Serial Port Communications : Tutorial 44",
+      "duration": 464
+    },
+    {
+      "id": "jKdrN_LFK8k",
+      "title": "Analog input & Digital Output using Arduino : Tutorial 45",
+      "duration": 345
+    },
+    {
+      "id": "FgiSbwKplmU",
+      "title": "Arduino IR sensor Analog Input : Tutorial 46",
+      "duration": 341
+    },
+    {
+      "id": "X9Nf-vroAfM",
+      "title": "IR Sensor based Security System using Arduino : Tutorial 47",
+      "duration": 199
+    },
+    {
+      "id": "Mx1daneaJ9w",
+      "title": "Arduino Controlled Night Light : Tutorial 48",
+      "duration": 213
+    },
+    {
+      "id": "UTP5AGA1M4Y",
+      "title": "Analog input & Analog Output using arduino : Tutorial 49",
+      "duration": 252
+    },
+    {
+      "id": "S5pZB9z-rc0",
+      "title": "Arduino & LM35 temperature sensor : Tutorial 50",
+      "duration": 304
+    },
+    {
+      "id": "9b_JeQJswiY",
+      "title": "Fire Alarm Using Arduino : Tutorial 51",
+      "duration": 237
+    },
+    {
+      "id": "Z4O0CaRZ1AU",
+      "title": "How to use 16x2 LCD with Arduino : Tutorial 54",
+      "duration": 606
+    },
+    {
+      "id": "htM4H6Gnw2A",
+      "title": "Custom Characters On 16x2 LCD With Arduino : Tutorial 55",
+      "duration": 302
+    },
+    {
+      "id": "3Hyp8nx-iFU",
+      "title": "16x2 LCD Display with moving animation using Arduino : Tutorial 56",
+      "duration": 117
+    },
+    {
+      "id": "PxHtwvdM1yM",
+      "title": "Arduino thermometer using LM35 with LCD display : Tutorial 58",
+      "duration": 238
+    },
+    {
+      "id": "47ZlY3xJCo0",
+      "title": "12 Channel Wireless  Using RF Module & Arduino : Tutorial 60",
+      "duration": 601
+    },
+    {
+      "id": "tdxfI3iadus",
+      "title": "Wireless Fire Fighter Robot : Tutorial 61",
+      "duration": 326
+    },
+    {
+      "id": "YrmxGkxmSdU",
+      "title": "Ultrasonic distance measurement : Tutorial 62",
+      "duration": 231
+    },
+    {
+      "id": "TSqPHzt_w38",
+      "title": "Servo Motor Control with Arduino : Tutorial 63",
+      "duration": 446
+    },
+    {
+      "id": "q-CqWfEWzKo",
+      "title": "Servo Motor Control with Potentiometer : Tutorial 64",
+      "duration": 251
+    },
+    {
+      "id": "r7Qyv9-w3Lo",
+      "title": "Adaptive Steering System using Arduino : Tutorial 65",
+      "duration": 245
+    },
+    {
+      "id": "EsegARhfp5s",
+      "title": "Arduino Joystick Servo Motor Control : Tutorial 66",
+      "duration": 387
+    },
+    {
+      "id": "bYISNiiuy5c",
+      "title": "Conveyor Colour Sorter : Tutorial 68",
+      "duration": 619
+    },
+    {
+      "id": "EK2r_sofmFE",
+      "title": "IR Remote Control For Home Appliances Using Arduino Multiple Channel : Tutorial 71.1",
+      "duration": 327
+    },
+    {
+      "id": "pS1ly8Ensm8",
+      "title": "IR Remote Control For Home Appliances Using Arduino Multiple Channel : Tutorial 71.2",
+      "duration": 438
+    },
+    {
+      "id": "GRdjLOYCLlc",
+      "title": "Remote Controlled AC Fan Regulator using Arduino (Tutorial :72 in हिंदी  )",
+      "duration": 463
+    },
+    {
+      "id": "Wlt_jioQ_No",
+      "title": "Arduino IR remote servo control (Tutorial :73  in हिंदी  )",
+      "duration": 372
+    },
+    {
+      "id": "Z2I0H6_esfw",
+      "title": "IR Remote Control Robot Car Using Arduino (Tutorial : 74 in हिंदी )",
+      "duration": 528
+    },
+    {
+      "id": "KxlME4CMVwo",
+      "title": "Arduino Obstacle Avoiding Robot using Ultrasonic Sensors (Tutorial :75 in हिंदी)",
+      "duration": 532
+    },
+    {
+      "id": "YjbqMeSF_XY",
+      "title": "Arduino Bluetooth control with Android (Tutorial : 76 in हिंदी)",
+      "duration": 532
+    },
+    {
+      "id": "2GBte6EpiY4",
+      "title": "Bluetooth Control For Home Appliances Using Android and Arduino (Tutorial :77 in हिंदी)",
+      "duration": 359
+    },
+    {
+      "id": "XTakUBycVac",
+      "title": "Smartphone Controlled Robot Car (Tutorial :78 in हिंदी)",
+      "duration": 475
+    },
+    {
+      "id": "214o6lLI07E",
+      "title": "How to use Optocoupler and Triac to control AC Load (Tutorial :80 in हिंदी)",
+      "duration": 426
+    },
+    {
+      "id": "xTMr3sYMOGc",
+      "title": "How to make (Volume Unit) VU Meter With LM3915 (Tutorial:83 in हिंदी)",
+      "duration": 365
+    },
+    {
+      "id": "hdRVwNWmQxg",
+      "title": "Mini Audio Amplifier using LM386 (Tutorial:84 in हिंदी)",
+      "duration": 282
+    },
+    {
+      "id": "kfuqdi4XAvU",
+      "title": "How to use a Nokia 5110 LCD display (Tutorial : 86 in हिंदी)",
+      "duration": 323
+    },
+    {
+      "id": "MtxpDU1Qw-E",
+      "title": "Arduino Loading Bitmap Image to the Nokia 5110 LCD (Tutorial : 87 in हिंदी)",
+      "duration": 377
+    },
+    {
+      "id": "J2UE19rCg-c",
+      "title": "Pong Game with Arduino & Nokia 5110 LCD (Tutorial : 88 in हिंदी)",
+      "duration": 201
+    },
+    {
+      "id": "5Etfs_pRCY0",
+      "title": "Racing Game using Arduino & Nokia 5110 LCD (Tutorial : 89 in हिंदी)",
+      "duration": 194
+    },
+    {
+      "id": "4R8IUFEqZ40",
+      "title": "Arduino Based Radar System Using Ultrasonic Sensor & 5110 LCD (Tutorial : 90  in हिंदी )",
+      "duration": 329
+    },
+    {
+      "id": "TNpaePxo_fI",
+      "title": "Hand Gesture Controlled wheelchair using Arduino & adxl345 (Tutorial : 91 in हिंदी )",
+      "duration": 679
+    },
+    {
+      "id": "JVbstRQexZk",
+      "title": "How to control RGB LED ( WS2811 ) with Arduino (Tutorial : 92 in हिंदी)",
+      "duration": 591
+    },
+    {
+      "id": "oJ6Mu_NmX4s",
+      "title": "Text scroll on ws2811 led with Arduino (Tutorial:93 in हिंदी )",
+      "duration": 442
+    },
+    {
+      "id": "F1AeoVvRVWM",
+      "title": "Control RGB Led Using Android smartphone (Tutorial : 94 in हिंदी)",
+      "duration": 309
+    },
+    {
+      "id": "km8XKfekvMo",
+      "title": "SPIDER-MAN: FAR FROM HOME Official Trailer (2019) Tom Holland Marvel Superhero Movie HD",
+      "duration": 171
+    },
+    {
+      "id": "fsLGJhklg5Y",
+      "title": "Audio Effect Using Arduino With Micro SD Card (Tutorial:97 in hindi-हिन्दी)",
+      "duration": 738
+    },
+    {
+      "id": "cK7YnJQg4L4",
+      "title": "Using EEPROM with Arduino (Tutorial 98:in hindi -हिंदी)",
+      "duration": 636
+    },
+    {
+      "id": "nwChc6Mm1eM",
+      "title": "IR Remote Control For Home Appliances Using EEPROM in Arduino (Tutorial:99 in hindi)",
+      "duration": 439
+    },
+    {
+      "id": "JXXVzo0-lCc",
+      "title": "Weighing Machine using Arduino, Load Cell & TM1637 :Tutorial 100 in (हिन्दी)",
+      "duration": 362
+    },
+    {
+      "id": "MJjEO94vD2Y",
+      "title": "PS2 wireless  with Arduino rover car :Tutorial 101 in (हिन्दी)",
+      "duration": 651
+    },
+    {
+      "id": "4MCnfeazJOY",
+      "title": "New Season Start ,On the project idea mentioned by you.",
+      "duration": 98
+    },
+    {
+      "id": "n1FZ9XK7JFY",
+      "title": "Setup in system and Arduino software for ESP32 in (हिन्दी)",
+      "duration": 410
+    },
+    {
+      "id": "guNmULuFgPo",
+      "title": "Home Automation with ESP 32 & Blynk IoT App in (हिन्दी)",
+      "duration": 685
+    },
+    {
+      "id": "iZKJlxKOy10",
+      "title": "How the STX-SRX 882 (433 MHz) RF module works, and Interfacing with Arduino in (हिन्दी)",
+      "duration": 645
+    },
+    {
+      "id": "OypxJIyFA7M",
+      "title": "How the STX-SRX 882 (433 MHz) RF module works, and Interfacing with Arduino.",
+      "duration": 20
+    },
+    {
+      "id": "A9nlEACtwTM",
+      "title": "How to hack other RF remotes with SRX882 & Arduino in(हिन्दी)",
+      "duration": 204
+    },
+    {
+      "id": "HKgII3A6A6w",
+      "title": "How to convert a TM1637 4-digit 7-segment display(1cm) to a larger display (1fit) in(हिन्दी)",
+      "duration": 691
+    },
+    {
+      "id": "HrOh5Xtz-P8",
+      "title": "How to convert a TM1637 4-digit display(1cm) to a larger  4-digit display (1feet) in(हिन्दी)",
+      "duration": 315
+    },
+    {
+      "id": "MIQA7ZsUYWU",
+      "title": "How to Make a Electromechanical valve: Tutorial 109 in हिंदी",
+      "duration": 453
+    },
+    {
+      "id": "-5aErWRJnLo",
+      "title": "How to Make Bluetooth Controlled RGB Scrolling Text Display tutorial :110",
+      "duration": 458
+    },
+    {
+      "id": "J2890qK9GbE",
+      "title": "Analog style Digital Clock using ws2812b, Ds3231 & Arduino ; Tutorial 111",
+      "duration": 471
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "courseId": "webpack-tutorials-for-beginners-df3ccb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:13.611Z",
+  "title": "Webpack Tutorials for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "ytRnPV0kRN0",
+      "title": "Webpack Tutorial for Beginners #1 - Course Files & Introduction",
+      "duration": 438
+    },
+    {
+      "id": "SixxPgIrrQk",
+      "title": "Webpack Tutorial for Beginners #2 - Installing Webpack & Bundling JS Files",
+      "duration": 501
+    },
+    {
+      "id": "sdoG5cCA5c4",
+      "title": "Webpack Tutorial for Beginners #3 - The webpack.config File",
+      "duration": 274
+    },
+    {
+      "id": "H_QACBSqRBE",
+      "title": "Webpack Tutorial for Beginners #4 - Babel Loaders",
+      "duration": 443
+    },
+    {
+      "id": "L1QMrPsPV5w",
+      "title": "Webpack Tutorial for Beginners #5 - CSS Loaders",
+      "duration": 432
+    },
+    {
+      "id": "gAJuZtvXvpk",
+      "title": "Webpack Tutorial for Beginners #6 - SASS Loaders",
+      "duration": 278
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "courseId": "rust-programming-language-d9b374",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:04.153Z",
+  "title": "Rust Programming Language",
+  "channel": "Piyush Garg",
+  "videos": [
+    {
+      "id": "unRhxbFULII",
+      "title": "Getting Started with Rust | Rust Book",
+      "duration": 2185
+    },
+    {
+      "id": "aFdQj43a-dE",
+      "title": "Programming a Guessing Game | Rust Book",
+      "duration": 4302
+    },
+    {
+      "id": "bfEMiPjEUVk",
+      "title": "Variables and Mutability | Rust Book",
+      "duration": 2724
+    },
+    {
+      "id": "Qp0NwXoppGI",
+      "title": "Data Types in Rust | Rust Book",
+      "duration": 3558
+    },
+    {
+      "id": "lvwa9yV5oSM",
+      "title": "Functions in Rust | Rust Book",
+      "duration": 1858
+    },
+    {
+      "id": "i4kkNYom9VM",
+      "title": "Control Flow in Rust | Rust Book",
+      "duration": 1955
+    },
+    {
+      "id": "K682q8p-YHg",
+      "title": "Ownership in Rust | Rust Book",
+      "duration": 3821
+    },
+    {
+      "id": "qIhoi-74IXc",
+      "title": "References and Borrowing | Rust Book",
+      "duration": 1993
+    },
+    {
+      "id": "DtG1gqORZC4",
+      "title": "The Slice Type | Rust Book",
+      "duration": 1359
+    },
+    {
+      "id": "7dFN0tYPcNE",
+      "title": "Structs | Rust Book",
+      "duration": 1901
+    },
+    {
+      "id": "OZ93b2PH7nU",
+      "title": "Defining and Instantiating Structs | Rust Book",
+      "duration": 1068
+    },
+    {
+      "id": "-PIjo-ebX-o",
+      "title": "Method Syntax | Rust Book",
+      "duration": 1165
+    },
+    {
+      "id": "bW3WcL2P848",
+      "title": "The Enum and Match Types | Rust Book",
+      "duration": 2189
+    },
+    {
+      "id": "1q76SlnFgKc",
+      "title": "The match Control Flow Operator | Rust Book",
+      "duration": 1354
+    },
+    {
+      "id": "tRJEnuDAf10",
+      "title": "if let Concise Control Flow | Rust Book",
+      "duration": 385
+    },
+    {
+      "id": "SMcQ3kceDTo",
+      "title": "Packages and Crates | Rust Book",
+      "duration": 2380
+    },
+    {
+      "id": "-CkD-mNVVws",
+      "title": "Defining Modules to Control Scope and Privacy | Rust Book",
+      "duration": 2162
+    },
+    {
+      "id": "UK0LHN39ops",
+      "title": "Storing Lists of Values with Vectors | Rust Book",
+      "duration": 1796
+    },
+    {
+      "id": "oKGD7JmLOEI",
+      "title": "Storing UTF-8 Encoded Text with Strings | Rust Book",
+      "duration": 1093
+    },
+    {
+      "id": "WTrp4OoAX6M",
+      "title": "Storing Keys with Associated Values in Hash Maps | Rust Book",
+      "duration": 841
+    },
+    {
+      "id": "z-gg_q6MsF0",
+      "title": "Unrecoverable Errors with panic! | Rust Book",
+      "duration": 551
+    },
+    {
+      "id": "0DjRNEQmUls",
+      "title": "Recoverable Errors with Result | Rust Book",
+      "duration": 1326
+    },
+    {
+      "id": "9g33keb3_lY",
+      "title": "Syntax of Generic Types, Traits, and Lifetimes | Rust Book",
+      "duration": 1699
+    },
+    {
+      "id": "WDFAOyGmyE0",
+      "title": "Traits: Defining Shared Behavior | Rust Book",
+      "duration": 1892
+    },
+    {
+      "id": "wBqDrY-eOk8",
+      "title": "Validating References with Lifetimes | Rust Book",
+      "duration": 1850
+    }
+  ]
+}

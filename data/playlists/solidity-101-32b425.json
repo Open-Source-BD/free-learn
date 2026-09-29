@@ -1,0 +1,35 @@
+{
+  "courseId": "solidity-101-32b425",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:46.672Z",
+  "title": "Solidity 101",
+  "channel": "Secureum",
+  "videos": [
+    {
+      "id": "5eLqFac5Tkg",
+      "title": "Solidity 101 (Block 1)",
+      "duration": 1983
+    },
+    {
+      "id": "TCl1IcGl_3I",
+      "title": "Solidity 101 (Block 2)",
+      "duration": 1923
+    },
+    {
+      "id": "6VIJpze1jbU",
+      "title": "Solidity 101 (Block 3)",
+      "duration": 2310
+    },
+    {
+      "id": "WgU7KKKomMk",
+      "title": "Solidity 101 (Block 4)",
+      "duration": 1955
+    },
+    {
+      "id": "_oN7XuyhoZA",
+      "title": "Solidity 101 (Block 5)",
+      "duration": 1990
+    }
+  ]
+}

@@ -1,0 +1,950 @@
+{
+  "courseId": "laravel-9-course-in-hindi-urdu-7acea7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDc9bt_00KcLME8wcKFNCF-9nP21L2nB2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:41.374Z",
+  "title": "Laravel 9 Advance Course in Hindi",
+  "channel": "CDL Software House",
+  "videos": [
+    {
+      "id": "-8NLjW9eCBo",
+      "title": "(01) Laravel 9 full Course in Hindi | Laravel 9 full Course in Urdu | Laravel 9 Tutorial in Hindi",
+      "duration": 516
+    },
+    {
+      "id": "ioYbiOQ9jY0",
+      "title": "(02) Setup Laravel Environment | Laravel Full Course in Urdu | Laravel 9 Series in Urdu/Hindi",
+      "duration": 400
+    },
+    {
+      "id": "qMmTalVZgPA",
+      "title": "(03) Create Our First Laravel App | Install Laravel project in Urdu | Laravel series in Urdu",
+      "duration": 416
+    },
+    {
+      "id": "3e_QeYdcM9c",
+      "title": "(04) Understand the Laravel Project Structure | Laravel project structure explanation",
+      "duration": 412
+    },
+    {
+      "id": "kU-eaBsbWGA",
+      "title": "(05) What is Routing | Understand the Basics of Laravel Routing | Laravel Routing",
+      "duration": 287
+    },
+    {
+      "id": "p-pZ1j8KGrk",
+      "title": "(06) Routing in Laravel | Create Routes in Laravel | How Routing works in Laravel",
+      "duration": 331
+    },
+    {
+      "id": "dFtRPxKI2Tg",
+      "title": "(07) Parameterized Route in Laravel | How to Parameterized Route Works | Laravel Routing Parameters",
+      "duration": 408
+    },
+    {
+      "id": "VUgnHmIYORo",
+      "title": "(08) Route Constraints in Laravel | How to Apply Route Constraints",
+      "duration": 455
+    },
+    {
+      "id": "DsIpv-6nrEs",
+      "title": "(09) How to Automatically Redirect from One Route to Another | redirect() property in Route",
+      "duration": 308
+    },
+    {
+      "id": "6H9W1aom4cc",
+      "title": "(10) Open Route List in Console | View route list using in Laravel | Ignore vendor package from list",
+      "duration": 453
+    },
+    {
+      "id": "RWe_RIQD7q4",
+      "title": "(11) Redirect from One Route to Another Route using href button",
+      "duration": 247
+    },
+    {
+      "id": "iCYGL3JhoWE",
+      "title": "(12) What is Blade in Laravel | How to Create Blade in Laravel | Why we use blade",
+      "duration": 461
+    },
+    {
+      "id": "FF2p6Ut81e4",
+      "title": "(13) Pass Dynamic data to Laravel Blade | Pass variable in laravel blade",
+      "duration": 289
+    },
+    {
+      "id": "rqx8VBsIC78",
+      "title": "(14) Nested Blade Template | How to Open Nested Blade files in Laravel",
+      "duration": 358
+    },
+    {
+      "id": "sq12gL3Ni1A",
+      "title": "(15) How to Clear View Cache | How to Clear Blade Cache in Laravel | How to Route Cache in Laravel",
+      "duration": 201
+    },
+    {
+      "id": "kRJxIpazxUE",
+      "title": "(16) Part-1 Master Layout in Laravel Blade | How to Create Main Layout for all files in blade",
+      "duration": 349
+    },
+    {
+      "id": "JBarkqWmVaU",
+      "title": "(17) Part-2 Master Layout in Laravel Blade | How to Create Main Layout for all files in blade",
+      "duration": 473
+    },
+    {
+      "id": "0H6MJNtNeXY",
+      "title": "(18) Render Dashboard Template as Master Blade in Laravel",
+      "duration": 590
+    },
+    {
+      "id": "sdHMkjOEip8",
+      "title": "(19) Part-1 Blade Directives in Laravel | How to use Blade directive l | How to use logic in blade",
+      "duration": 404
+    },
+    {
+      "id": "1kkq65HxtAM",
+      "title": "(20) Part-2 Blade Directives in Laravel | How to use Blade directive in Laravel",
+      "duration": 419
+    },
+    {
+      "id": "W-KNbPGAV6w",
+      "title": "(21) What is Controller | Why we use Controller in Laravel | How to Create Controller in Laravel",
+      "duration": 365
+    },
+    {
+      "id": "-Lygb2epTNU",
+      "title": "(22) Open Blade from Controller in Laravel | Open Blade Template from Controller in Laravel",
+      "duration": 429
+    },
+    {
+      "id": "75QFNPdx4h8",
+      "title": "(23) Open Parameterized Method in Controller | Open Parametrized Route using Controller in Laravel",
+      "duration": 253
+    },
+    {
+      "id": "OSPxCcDgjUQ",
+      "title": "(24) Resource Controller in Laravel | What is Resource Controller | Why we use Resource Controller",
+      "duration": 506
+    },
+    {
+      "id": "0sXl6vFvVow",
+      "title": "(25) Connect our Laravel App with Database | How to Connect Laravel App with Database",
+      "duration": 354
+    },
+    {
+      "id": "1vNq8_nnR5U",
+      "title": "(26) How to check Laravel App is connected with Database | Check the DB connection of Laravel App",
+      "duration": 278
+    },
+    {
+      "id": "d7d0KR1HaPc",
+      "title": "(27) What is Migrations in Laravel | Why we use Migrations in Laravel | How to Create them",
+      "duration": 279
+    },
+    {
+      "id": "3qVqu4aZ7mc",
+      "title": "(28) Create Migration in Laravel | Create Migration Using Command Line",
+      "duration": 524
+    },
+    {
+      "id": "sdsMrDr62Mc",
+      "title": "(29) Add Column Into Existing Migration in Laravel | Alter Existing Table in Laravel Migration",
+      "duration": 239
+    },
+    {
+      "id": "bfLyZDHB77w",
+      "title": "(30) Add Column Into Existing Migration Using New Migration | Add Column in table with New Migration",
+      "duration": 497
+    },
+    {
+      "id": "WxA3qXLZqEg",
+      "title": "(31) Rollback Migrations in Laravel | How to Rollback Laravel Migrations in Laravel",
+      "duration": 449
+    },
+    {
+      "id": "SV1gyIauMl8",
+      "title": "(32) What are the Migrations helpers | Migration helper data types | Migration helper Data Type",
+      "duration": 394
+    },
+    {
+      "id": "QRY9XRA_gS4",
+      "title": "(33) Create Foreign Key Constraint in Laravel | How to Create Foreign Key Using Migration in Laravel",
+      "duration": 473
+    },
+    {
+      "id": "aKayzSk-zdk",
+      "title": "(34) Truncate Table in Laravel | How to Truncate Table in Laravel | Truncate Table in Laravel",
+      "duration": 245
+    },
+    {
+      "id": "sd_kh012wVE",
+      "title": "(35) How to Check Migration Status in Laravel",
+      "duration": 408
+    },
+    {
+      "id": "UFGbRRxQVDg",
+      "title": "(36) What is Object Relational Mapping (ORM) in Laravel | What is Eloquent | Laravel Models",
+      "duration": 449
+    },
+    {
+      "id": "A1zXrpww7NA",
+      "title": "(37) Explore Laravel Model Properties",
+      "duration": 170
+    },
+    {
+      "id": "_WBUWEQTNcc",
+      "title": "(38) How to Insert data into Database using Laravel Eloquent | Insert Data using ORM",
+      "duration": 352
+    },
+    {
+      "id": "TJaeVclzq4o",
+      "title": "(39) What is Mass Fillable Assignment in Laravel | How to Solve Mass Fillable Assignment error",
+      "duration": 288
+    },
+    {
+      "id": "bV9i31UnQJU",
+      "title": "(40) Fetch data from Database in Laravel | Fecth data from database using laravel models",
+      "duration": 567
+    },
+    {
+      "id": "L6tjO6aS8uQ",
+      "title": "(41) Search Record in Database Laravel | Find Record using Laravel Model",
+      "duration": 383
+    },
+    {
+      "id": "rqfHjp8sUVE",
+      "title": "(42) Delete Record in Laravel | Delete Record in Laravel using Laravel Eloquent",
+      "duration": 301
+    },
+    {
+      "id": "7y__K6k4YjY",
+      "title": "(43) Move Login to Controller | Laravel 9 Course in Hindi",
+      "duration": 431
+    },
+    {
+      "id": "pJ6eIX3MQ0k",
+      "title": "(44) Part-2 Move Controller Logic to Controller",
+      "duration": 272
+    },
+    {
+      "id": "jyAfc2YRH74",
+      "title": "(45) Prepare Controller and Routes for Posts | Laravel Course in Hindi",
+      "duration": 472
+    },
+    {
+      "id": "lWiAZD4TYJQ",
+      "title": "(46) Create Post in Laravel using Model | Laravel 9 course in Hindi",
+      "duration": 800
+    },
+    {
+      "id": "dTh-MM7Ud3E",
+      "title": "(47) url() vs route() | What is the difference b/w url and route | what are the Benefits",
+      "duration": 758
+    },
+    {
+      "id": "vG7-aRKYKfE",
+      "title": "(48) What is CSRF Token in Laravel | Why we use csrf token | Csrf stand for",
+      "duration": 508
+    },
+    {
+      "id": "62THNCZUvO8",
+      "title": "(49) Print Form Input Values in Web browser | Laravel Course in Hindi",
+      "duration": 242
+    },
+    {
+      "id": "AyvkJPHFScw",
+      "title": "(50) Apply Html Validation on Form in Laravel | Laravel 9 Course in Hindi Language",
+      "duration": 210
+    },
+    {
+      "id": "QpHpbR23kTQ",
+      "title": "(51) Parsley js Validations in Laravel",
+      "duration": 889
+    },
+    {
+      "id": "Ya9gD5QTeWQ",
+      "title": "(52) Part-1 Server Side Validations in Laravel | How to Validate user from Server side in Laravel",
+      "duration": 514
+    },
+    {
+      "id": "uTjHZBnz0jc",
+      "title": "(53) Part-2 Server Side Validation in Laravel | Laravel Cours in Hindi",
+      "duration": 851
+    },
+    {
+      "id": "QV1qwtHG_bA",
+      "title": "(54) Selected Blade Directive in Laravel 9 | How to make drop down fillable in Laravel 9",
+      "duration": 643
+    },
+    {
+      "id": "iD9qQUYKzl8",
+      "title": "(55) Insert data using Form in Database | Laravel Course in Hindi",
+      "duration": 564
+    },
+    {
+      "id": "SE8D4S1fSkc",
+      "title": "(56) How to Create Sessions in Laravel | How to Forget Session in Laravel",
+      "duration": 640
+    },
+    {
+      "id": "6uPNRfiFUY0",
+      "title": "(57) Create Flash Session in Laravel | How to use Flash Session in Laravel",
+      "duration": 483
+    },
+    {
+      "id": "SyDRLxROLkA",
+      "title": "(58) Redirect user After Successfull Post Creation | Laravel course",
+      "duration": 743
+    },
+    {
+      "id": "93f1es409UM",
+      "title": "(59) How to redirect in Laravel 9 | Redirect to_route method in Laravel 9",
+      "duration": 522
+    },
+    {
+      "id": "KS1JFSBNyxM",
+      "title": "(60) Laravel 9 Course in Hindi | Open Posts in table",
+      "duration": 755
+    },
+    {
+      "id": "vWlRhW_wD7U",
+      "title": "(61) Paginate Results on Laravel Blade | Paginate posts on index page",
+      "duration": 1069
+    },
+    {
+      "id": "H9GkMCPm0J0",
+      "title": "(62) How to show Pagination in Number | Show Pagination in Number Format",
+      "duration": 515
+    },
+    {
+      "id": "OF_wcUz1PJc",
+      "title": "(63) Align Buttons in One Css | Align Inline Button in Css",
+      "duration": 307
+    },
+    {
+      "id": "Ij9o1CUr5iQ",
+      "title": "(64) Laravel 9 Course in Hindi Language | Open Single post in new page",
+      "duration": 709
+    },
+    {
+      "id": "xULefSJUyys",
+      "title": "(65) How to use Str::limit in Laravel Blade",
+      "duration": 238
+    },
+    {
+      "id": "dcKXkkq5BkI",
+      "title": "(66) Laravel 9 Tutorials in Hindi | Edit Post in form",
+      "duration": 564
+    },
+    {
+      "id": "MhRadKcH5sE",
+      "title": "(67) Laravel Lectures in Hindi Language | Laravel 9 Course in Hindi",
+      "duration": 810
+    },
+    {
+      "id": "hw0JBIunWKM",
+      "title": "(68) Learn Laravel in Hindi | Delete Post in Laravel | Destroy Post in Laravel",
+      "duration": 430
+    },
+    {
+      "id": "rYQEp5Vtqac",
+      "title": "(69) Display jQuery Toaster in Laravel | Display Toast when Session is set",
+      "duration": 690
+    },
+    {
+      "id": "3HE94NLTvf8",
+      "title": "(70) What is Solid Principle | Why we use Solid Principle | Benefits of Solid",
+      "duration": 477
+    },
+    {
+      "id": "1ZtC9VUsqxs",
+      "title": "(71) Create Form in Laravel | Laravel Course in Hindi",
+      "duration": 672
+    },
+    {
+      "id": "da-xN93Gu3Y",
+      "title": "(72) Part-1 Soft Deletes in Laravel | How to Implement Soft Deletes in Laravel",
+      "duration": 598
+    },
+    {
+      "id": "vdxRArkV240",
+      "title": "(73) Part-2 Soft Deletes in Laravel | How to Implement Soft Deletes in Laravel",
+      "duration": 751
+    },
+    {
+      "id": "SABcp9n1T64",
+      "title": "(74) Part-3 Display Undo Button for Trashed Posts",
+      "duration": 158
+    },
+    {
+      "id": "zsfqeZ37FnE",
+      "title": "(75) What is Query Builder in Laravel | How to use Query Builder in Laravel",
+      "duration": 740
+    },
+    {
+      "id": "ptRP_mFxpEg",
+      "title": "(76) Laravel Eloquent vs Query Builder | Where should we use Query builder | where to use Eloquent",
+      "duration": 445
+    },
+    {
+      "id": "yrGIYxKNoV4",
+      "title": "(77) How to run Raw SQL queries in Laravel | How to use Custom Queries in Laravel",
+      "duration": 510
+    },
+    {
+      "id": "Wh_ziZtF1tk",
+      "title": "(78) What are the Relationship in Laravel | Why we use relations | One to one Relationship",
+      "duration": 839
+    },
+    {
+      "id": "A4nLWGsLJEw",
+      "title": "(79) One to one Inverse Relationship in Laravel | One to one inverse Relation in Laravel",
+      "duration": 658
+    },
+    {
+      "id": "YjQ6RHs9GkY",
+      "title": "(80) One to Many Relationship in Laravel | One to Many Relation in Laravel",
+      "duration": 343
+    },
+    {
+      "id": "8aJhuHt9CLg",
+      "title": "(81) One to Many Inverse Relationship in Laravel | One to Many Inverse  Relation in Laravel",
+      "duration": 294
+    },
+    {
+      "id": "gM1ZHptfo5U",
+      "title": "(82) Default Relationship in Laravel | withDefault method in Laravel Relation",
+      "duration": 418
+    },
+    {
+      "id": "lUD98oHFFxM",
+      "title": "(83) hasOneThrough Relationship in laravel | Has One Through relation in laravel hindi language",
+      "duration": 703
+    },
+    {
+      "id": "tFBUE8pfXOo",
+      "title": "(84) hasManyThrough Relationship in laravel | Has ManyThrough relation in laravel hindi language",
+      "duration": 282
+    },
+    {
+      "id": "q7Zvoig8EKY",
+      "title": "(85) Part-1 Many to Many Relationship in laravel | Many to Many relation in laravel Hindi language",
+      "duration": 572
+    },
+    {
+      "id": "679lv2H73Ac",
+      "title": "(86) Part-2 Many to Many Relationship in laravel | Mant to Many relation in laravel Hindi language",
+      "duration": 590
+    },
+    {
+      "id": "PPTfBUNIqp0",
+      "title": "(87) How to use Sync Method | Attach array using attach Method in Many to Many relationship",
+      "duration": 585
+    },
+    {
+      "id": "TMKUt5md9cQ",
+      "title": "(88) Part-1 One to One Polymorphic Relationship in laravel | Laravel 9 Course in Hindi",
+      "duration": 685
+    },
+    {
+      "id": "invkM3aAxWM",
+      "title": "(89) Part-2 One to One Polymorphic Relationship in laravel | Laravel 9 Course in Hindi",
+      "duration": 611
+    },
+    {
+      "id": "Q_fNoao7K3U",
+      "title": "(90) One to Many Polymorphic Relationship in Laravel",
+      "duration": 539
+    },
+    {
+      "id": "yw6aJ5yhzfA",
+      "title": "(91)  Many to Many Polymorphic Relationship in laravel | Laravel 9 Course in Hindi",
+      "duration": 824
+    },
+    {
+      "id": "f7MJWQadDiQ",
+      "title": "(92)  Push Laravel Code to GitHub | Laravel 9 Course in Hindi",
+      "duration": 538
+    },
+    {
+      "id": "K3eZzbJUfuE",
+      "title": "(93)  Pull Laravel Code from GitHub Repository | Laravel 9 Course in Hindi",
+      "duration": 502
+    },
+    {
+      "id": "QwN18RboQdQ",
+      "title": "(94) Part-1 What is Artisan Tinker | Why we use Tinker | How to use Artisan Tinker in Laravel",
+      "duration": 686
+    },
+    {
+      "id": "fexa8ya4HUg",
+      "title": "(95) Part-2 Artisan Tinker in Laravel How to use Artisan tinker in Laravel",
+      "duration": 832
+    },
+    {
+      "id": "vid42Fjj9vk",
+      "title": "(96) What are the Factories in Laravel | How to use the Factories in Laravel App",
+      "duration": 369
+    },
+    {
+      "id": "fx8bl9wnxCw",
+      "title": "(97) Part-2 How to use Model factories in Laravel to Generate the fake data in Database",
+      "duration": 656
+    },
+    {
+      "id": "YQ8RPXBStYQ",
+      "title": "(98)  Part-3 How to use Model factories in Laravel | How to pass Dynamic Data in Factories",
+      "duration": 929
+    },
+    {
+      "id": "AJ29P6t1x-s",
+      "title": "(99) Part-4 How to use Model factories in Laravel | Truncate Table in Laravel",
+      "duration": 653
+    },
+    {
+      "id": "kaod4Am1Ods",
+      "title": "(100) Part-5 Factories | Seed Fake Data using hasMany relationship in Laravel",
+      "duration": 650
+    },
+    {
+      "id": "NTDLNwZEQtE",
+      "title": "(101) Part-5 Generate Fake data with Many to Many Relationship in Laravel | Laravel Factories",
+      "duration": 842
+    },
+    {
+      "id": "irshR2cRciI",
+      "title": "(102) Part-6 Factories | Seed Many to Many Polymorphic Relation Data into Laravel App",
+      "duration": 770
+    },
+    {
+      "id": "SbCfNYcUV1k",
+      "title": "(103) Part-1 What is Laravel Seeder and How to use seeder in Laravel?",
+      "duration": 247
+    },
+    {
+      "id": "6QPPQk-348I",
+      "title": "(104) Part-2 What is Laravel Seeder and How to use seeder in Laravel?",
+      "duration": 633
+    },
+    {
+      "id": "e83FynDmqlg",
+      "title": "(105) Run Seeders and Factories at Once in Laravel | Execute Laravel seeders and factories",
+      "duration": 890
+    },
+    {
+      "id": "YMCTJ63ttIA",
+      "title": "(106) Accessers and Mutators in Laravel | Why we accesser and mutator in Laravel",
+      "duration": 210
+    },
+    {
+      "id": "PSgHYSHNUiA",
+      "title": "(107) What is Accessor | Why we use Accessor | How to use Accessor in Laravel",
+      "duration": 597
+    },
+    {
+      "id": "CoCmXG8wMv4",
+      "title": "(108) What are the Mutators in Laravel | Why we use Mutator | How to use Mutator in Laravel 9",
+      "duration": 599
+    },
+    {
+      "id": "58dBOT5Sf_s",
+      "title": "(109) Attribute Casting in Laravel | Laravel Tutorial | Php laravel tutorial",
+      "duration": 451
+    },
+    {
+      "id": "-_EKmY3MtaU",
+      "title": "(110) What are the Query Scopes in Laravel | What is Global query scope in laravel",
+      "duration": 643
+    },
+    {
+      "id": "btuKf7ABQBo",
+      "title": "(111) Remove Global Scope from query in Laravel | Laravel Tutorial",
+      "duration": 656
+    },
+    {
+      "id": "HGU5BzRSsAc",
+      "title": "(112) Local Scope in Laravel | Why we use Local Scope in Laravel | Laravel Course in Hindi",
+      "duration": 469
+    },
+    {
+      "id": "bwN7BgMrE-A",
+      "title": "(113) Part-1 File Uploads | Validate user Image in Laravel Server Side Validation",
+      "duration": 810
+    },
+    {
+      "id": "VxbCtdEvoOc",
+      "title": "(114) Part-2 File Uploads | Move Image into Laravel Project | Web development in Laravel",
+      "duration": 763
+    },
+    {
+      "id": "Y0oXGbghiPg",
+      "title": "(115) Part-3 File Upload in Laravel | Create Gallery Table in Laravel",
+      "duration": 1132
+    },
+    {
+      "id": "9QvDC8_5KTo",
+      "title": "(116) Part-4 File Uploads in Laravel | Load Image in Html table",
+      "duration": 1220
+    },
+    {
+      "id": "584_T3jkaaM",
+      "title": "(117) Part-5 File Uploads in Laravel | Load Image path using Accessor in Laravel",
+      "duration": 683
+    },
+    {
+      "id": "gfYNwljHx9E",
+      "title": "(118) Part-6 File Uploads | Upload Image using Storage Disk | Upload files using filesystem",
+      "duration": 1416
+    },
+    {
+      "id": "Z2TCWszY9KY",
+      "title": "(119) Part-7 File Uploads | Create your Own File System in Laravel | Create new file system in lara",
+      "duration": 471
+    },
+    {
+      "id": "-W0Nx90EfsY",
+      "title": "(120) Delete Image in Laravel | Unlink Image in Laravel Application",
+      "duration": 1082
+    },
+    {
+      "id": "7sK2Zm5pFEc",
+      "title": "(121) What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 377
+    },
+    {
+      "id": "0_X30w2Hk9U",
+      "title": "(122) What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 480
+    },
+    {
+      "id": "-SSPwdLUTcI",
+      "title": "(123) What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 660
+    },
+    {
+      "id": "ZSWtzyH5DDU",
+      "title": "(124) What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 788
+    },
+    {
+      "id": "SYJOwqjCKs4",
+      "title": "(125) What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 522
+    },
+    {
+      "id": "Vcsgva0c3B0",
+      "title": "(126) Part-6 What is slug | How to Create Slug in Laravel | How to generate pretty url in Laravel",
+      "duration": 775
+    },
+    {
+      "id": "AOb3G3uokIo",
+      "title": "(127) Part-1 Compile Assets in Laravel | How to Generate minified Files in Laravel in Hindi",
+      "duration": 755
+    },
+    {
+      "id": "zAIEO8HdUik",
+      "title": "(128) Part-2 Compile Assets in Laravel | How to Generate minified Files in Laravel in Hindi",
+      "duration": 593
+    },
+    {
+      "id": "p_2ljMc_Xwg",
+      "title": "(129) Part-3 Compile Assets in Laravel | How to Generate minified Files in Laravel in Hindi",
+      "duration": 984
+    },
+    {
+      "id": "tTrPLlzDUtc",
+      "title": "(130) Part-1 Exception Handling in Laravel | How to handle Exceptions in Laravel Application",
+      "duration": 714
+    },
+    {
+      "id": "j7Ww-rZ82zk",
+      "title": "(131) Part-2 Exception Handling in Laravel | How to handle Exceptions in Laravel Application",
+      "duration": 586
+    },
+    {
+      "id": "RjCOuNoGnMI",
+      "title": "(132) Part-3 Exception Handling in Laravel | How to handle Exceptions in Laravel Application",
+      "duration": 867
+    },
+    {
+      "id": "e-q_9w1ANUo",
+      "title": "(133) Part-4 Exception Handling in Laravel | How to handle Exceptions in Laravel Application",
+      "duration": 440
+    },
+    {
+      "id": "SmqBV_3Eyko",
+      "title": "(134) Part-1 Components in Laravel | Laravel Beginners to Advance Course in Urdu",
+      "duration": 570
+    },
+    {
+      "id": "vyrlx8MvShc",
+      "title": "(135) Part-2 Components in Laravel | Laravel Beginners to Advance Course in Urdu",
+      "duration": 410
+    },
+    {
+      "id": "umtudDYNXkw",
+      "title": "(136) Part-3 Components in Laravel | Laravel Beginners to Advance Course in Urdu",
+      "duration": 598
+    },
+    {
+      "id": "GhIGJTRGIw0",
+      "title": "(137) Part-4 Components in Laravel | Laravel Beginners to Advance Course in Urdu",
+      "duration": 515
+    },
+    {
+      "id": "bLSaKfu1Q80",
+      "title": "(138) Slots in Laravel | How to use Slots in Laravel | Benefits of Slot",
+      "duration": 600
+    },
+    {
+      "id": "oo4daZU2Drw",
+      "title": "(139) Laravel Course in Urdu | Learn Laravel in 2022",
+      "duration": 882
+    },
+    {
+      "id": "6Vm4H3d0zOo",
+      "title": "(01) Build a Blog System in PHP Laravel | Develop a Blog System",
+      "duration": 586
+    },
+    {
+      "id": "RIuX3jvSdHg",
+      "title": "(02) Build Blog System in PHP Laravel | Develop Blog System in English | Create Blog System",
+      "duration": 829
+    },
+    {
+      "id": "vTUZosvEVpc",
+      "title": "(03) Build Blog System in Php Laravel | Develop Blog System in Hindi | Create Blog System",
+      "duration": 652
+    },
+    {
+      "id": "pG7g28_2xcI",
+      "title": "(04) Build Blog System in Php Laravel | Develop Blog System in Hindi | Create Blog System",
+      "duration": 895
+    },
+    {
+      "id": "WpjWhW35b0k",
+      "title": "(05) Build Blog System in PHP Laravel | Connect App with DB | Develop Blog System",
+      "duration": 595
+    },
+    {
+      "id": "pZgOUxwRPf0",
+      "title": "(06) Laravel Blog System | Part - 2 Create Migration in Laravel App",
+      "duration": 1011
+    },
+    {
+      "id": "FAxwRRoJwCs",
+      "title": "(08) (01) Integrate Dashboard in Project |  Laravel Blog System",
+      "duration": 1554
+    },
+    {
+      "id": "kD0fL-Jqo38",
+      "title": "(09) Laravel Blog System | Integrate Dashboard in Project",
+      "duration": 1376
+    },
+    {
+      "id": "aEwbSvWFnh4",
+      "title": "(10) (03) Integrate Dashboard in Laravel Project |  Laravel Blog System",
+      "duration": 1158
+    },
+    {
+      "id": "MFIK_rdIQiA",
+      "title": "(11) Create Categories and Tags | Build Blog System in Laravel",
+      "duration": 1245
+    },
+    {
+      "id": "2UvWwPgyM_w",
+      "title": "(13) (02) Create Posts in Blog | Build Blog System in Php Laravel",
+      "duration": 1286
+    },
+    {
+      "id": "HVbndiWHGSA",
+      "title": "(12) (01) Create Posts in Blog | Build Blog System in Php Laravel | Learn Web Development",
+      "duration": 1275
+    },
+    {
+      "id": "HYscqcjqxyw",
+      "title": "(14) Create Post Page | Build Blog System in Php Laravel",
+      "duration": 1370
+    },
+    {
+      "id": "2RZKSp1SCzM",
+      "title": "(15) Create multi-select dropdown in PHP Laravel | Laravel Blog System",
+      "duration": 1292
+    },
+    {
+      "id": "azKDvlCkBho",
+      "title": "(16) Apply validation on post form Laravel | Laravel blog System",
+      "duration": 1376
+    },
+    {
+      "id": "oXbg3NTH7so",
+      "title": "(17) Link Tags with Posts | Laravel Blog System in Hindi",
+      "duration": 1484
+    },
+    {
+      "id": "UTlb0PhlcTk",
+      "title": "18 Create Dependent Records in Laravel Using Database | Laravel Blog System in Hindi",
+      "duration": 1170
+    },
+    {
+      "id": "5SmfNt0JjnU",
+      "title": "(19) Show Dynamic Posts in Table | Laravel Blog System in Hindi",
+      "duration": 1122
+    },
+    {
+      "id": "FX117DNTT7Q",
+      "title": "(20) Apply Datatable on Post | Laravel Blog System in Hindi",
+      "duration": 1566
+    },
+    {
+      "id": "-Y6TfV2ZB1U",
+      "title": "(21) Edit Posts in Form | Laravel Blog System in Hindi",
+      "duration": 1547
+    },
+    {
+      "id": "228wwcaEvug",
+      "title": "(22) Update Post in Blog System | Laravel Blog System in Hindi",
+      "duration": 1304
+    },
+    {
+      "id": "sv0B8PzVd3Y",
+      "title": "23 Delete Post in Blog System",
+      "duration": 1177
+    },
+    {
+      "id": "hOKoRQVifhk",
+      "title": "24 Show Post and Delete Post | Develop Laravel Blog System in Hindi",
+      "duration": 826
+    },
+    {
+      "id": "CqFQoCff94s",
+      "title": "(25) Display Dynamic Data in Dashboard | Laravel Blog System",
+      "duration": 1107
+    },
+    {
+      "id": "rHWlc46_1Ig",
+      "title": "(26) Display Categories and Tags | Build Blog System in Hindi",
+      "duration": 1306
+    },
+    {
+      "id": "Sfsl4Re4jU4",
+      "title": "(27) Display Icon in Dashboard | Build Blog System in Laravel",
+      "duration": 1228
+    },
+    {
+      "id": "6TUO0iAAEmU",
+      "title": "(28) Upload Post Image | Build Blog System in Laravel",
+      "duration": 1395
+    },
+    {
+      "id": "ajcU265bnB4",
+      "title": "(29) Part-2 Upload Post Image | Build Blog System in Laravel",
+      "duration": 1362
+    },
+    {
+      "id": "xA0RTpzHvqY",
+      "title": "(30) Unlink Image In Blog System | Laravel blog system",
+      "duration": 739
+    },
+    {
+      "id": "qb2qZcff3tI",
+      "title": "(31) Update Blog Image | Build Blog System in Laravel",
+      "duration": 1252
+    },
+    {
+      "id": "Q0XlZgUi0n8",
+      "title": "(32) Part-1 Integrate Website Theme | Build Blog System in Laravel",
+      "duration": 1003
+    },
+    {
+      "id": "0hRmJXxxyLw",
+      "title": "(33) Part-2 Integrate Website Theme | Build Blog System in Laravel",
+      "duration": 1093
+    },
+    {
+      "id": "P23YOWJynCg",
+      "title": "(34) Setup Single Blog Page | Build Blog System in Laravel",
+      "duration": 1383
+    },
+    {
+      "id": "cHFWTo4EwNU",
+      "title": "(35) Display Dynamic Post On Website | Build Blog System in Laravel",
+      "duration": 1303
+    },
+    {
+      "id": "xoUPXrx8YDU",
+      "title": "(36) Send Comment on Post | Laravel Blog System",
+      "duration": 840
+    },
+    {
+      "id": "0_s80Fcs6z4",
+      "title": "(37) Add Comment into Database | Laravel Blog System",
+      "duration": 920
+    },
+    {
+      "id": "tHVkXvUK56w",
+      "title": "(38) Part-2 Add Comment into Database  | Laravel Blog System",
+      "duration": 1601
+    },
+    {
+      "id": "vLuhMD8aYvo",
+      "title": "(39) Display Comments on Post Page | Laravel Blog System",
+      "duration": 1302
+    },
+    {
+      "id": "AA0qQ_eBPR8",
+      "title": "(40) Add Comments Reply section | Laravel Blog System",
+      "duration": 999
+    },
+    {
+      "id": "z2KVO9sdlrw",
+      "title": "(41) Display Latest Posts on Blog Page | Laravel Blog System",
+      "duration": 1402
+    },
+    {
+      "id": "GHRy8K8HG_0",
+      "title": "(42) Improve Blog Page | Laravel Blog System",
+      "duration": 1118
+    },
+    {
+      "id": "8z6xYKpiuUg",
+      "title": "(43)part-2 Improve Blog page | Laravel Blog System",
+      "duration": 1103
+    },
+    {
+      "id": "0RYHOpA1vx4",
+      "title": "(44) Reply on Comment | Blog System in Hindi",
+      "duration": 1293
+    },
+    {
+      "id": "rvupRb0jPmA",
+      "title": "(45) Display Comments Replies | Blog System in Hindi",
+      "duration": 942
+    },
+    {
+      "id": "tPK9HvIG330",
+      "title": "(46) Part-2 Display Comments Replies | Blog System in Hind|",
+      "duration": 1145
+    },
+    {
+      "id": "IfY6EmMtpIA",
+      "title": "(47) Display Dynamic Data on Homepage  | Blog System in Hindi",
+      "duration": 1270
+    },
+    {
+      "id": "GyrtMgJbPDE",
+      "title": "(48) paginate post comments | Blog System in Hindi",
+      "duration": 1250
+    },
+    {
+      "id": "jT-DB1iP4-4",
+      "title": "(49) Paginate Comments in Blog | Blog System in Hindi",
+      "duration": 1206
+    },
+    {
+      "id": "NZqHzbXXI8M",
+      "title": "(50) Update User Profile | Blog System in Hindi",
+      "duration": 1315
+    }
+  ]
+}

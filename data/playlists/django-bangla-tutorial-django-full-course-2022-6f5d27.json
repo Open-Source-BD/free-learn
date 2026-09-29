@@ -1,0 +1,80 @@
+{
+  "courseId": "django-bangla-tutorial-django-full-course-2022-6f5d27",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:34.772Z",
+  "title": "Django Bangla Tutorial | পাইথন জ্যাঙ্গো বাংলা | Django full course | 2022",
+  "channel": "Alpha Hi-Tech",
+  "videos": [
+    {
+      "id": "LyVflB7EXto",
+      "title": "#1 Django Bangla Tutorial Python Django Tutorial Bangla Python Django django full course",
+      "duration": 167
+    },
+    {
+      "id": "sd8aebmU4BU",
+      "title": "#2 Django Bangla Tutorial | How to  download and install Django Bangla | How to Setup Django Bangla",
+      "duration": 1333
+    },
+    {
+      "id": "MSKGOK-T3Dg",
+      "title": "#3 Django Bangla Tutorial  What is URL Mapping in Django  Create Django first app  views, url",
+      "duration": 1765
+    },
+    {
+      "id": "ZkJ5uv8CsuQ",
+      "title": "#4 Django Bangla Tutorial |  What is MVT Architecture in Django Bangla | Django Documentation Bangla",
+      "duration": 736
+    },
+    {
+      "id": "zhGVBa0V8vg",
+      "title": "#5 Django Bangla Tutorial  What is Django Template language (DTL) Bangla | What is jinja2 in Django",
+      "duration": 934
+    },
+    {
+      "id": "Ox919N6JPx8",
+      "title": "#6 Django Bangla Tutorial  Django | Template Language (DTL)  | How to connect multiple html files",
+      "duration": 342
+    },
+    {
+      "id": "x-42TddqbM0",
+      "title": "#7 Django Bangla Tutorial | How to add two Addition number | GET POST Method Http Protocol in Django",
+      "duration": 1340
+    },
+    {
+      "id": "6ifnuvHWDmQ",
+      "title": "#8 Django Bangla Tutorial | How to create portfolio website with Django Bangla |Build Django website",
+      "duration": 1266
+    },
+    {
+      "id": "eaKMZU_i89w",
+      "title": "#9 Django Bangla Tutorial | How to Create Static Files and Static Dir in Django | add img, video etc",
+      "duration": 1389
+    },
+    {
+      "id": "lo1kC-ypYxc",
+      "title": "#10 Django Bangla Tutorial | How to Create about page in Django | Add footer, alert button, team etc",
+      "duration": 921
+    },
+    {
+      "id": "xutWwHsP9F0",
+      "title": "#11 Django Bangla Tutorial | How to Create Django Admin panel and Django Database, Model [Bangla]",
+      "duration": 1271
+    },
+    {
+      "id": "bFb-76TPcg0",
+      "title": "#12 Django Bangla Tutorial | How to Create and Design Blog Page in Django [Bangla]",
+      "duration": 934
+    },
+    {
+      "id": "raT1FGkbslg",
+      "title": "#13 How to Connect PostgreSQL Database with Django Project Bangla  | PostgreSQL Download and Install",
+      "duration": 1180
+    },
+    {
+      "id": "bDDoj2C5dqs",
+      "title": "How To Deploy  Django Project To Heroku Server Bangla | Django Postgres | free domain hosting Bangla",
+      "duration": 1437
+    }
+  ]
+}

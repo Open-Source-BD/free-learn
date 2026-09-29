@@ -1,0 +1,200 @@
+{
+  "courseId": "machine-learning-playlist-b06f7a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:20.737Z",
+  "title": "Machine Learning Playlist",
+  "channel": "Krish Naik Hindi",
+  "videos": [
+    {
+      "id": "7uwa9aPbBRU",
+      "title": "Introduction To Machine Learning Algorithms In Hindi",
+      "duration": 1140
+    },
+    {
+      "id": "jerPVDaHbEA",
+      "title": "Simple Linear Regression Algorithm Indepth Maths Intuition With Notes In Hindi",
+      "duration": 3140
+    },
+    {
+      "id": "bRl2IXIjuqE",
+      "title": "Linear Regression Practical Implementation In Hindi",
+      "duration": 1410
+    },
+    {
+      "id": "KUrm-F8mXJQ",
+      "title": "Mean Sqaured Error, Mean Absolute Error And RMSE In Hindi- Linear Regression | Krish Naik Hindi",
+      "duration": 700
+    },
+    {
+      "id": "KapPZCurdsQ",
+      "title": "Ridge And Lasso Regression Indepth Maths Intuition In hindi",
+      "duration": 1067
+    },
+    {
+      "id": "J_ESMRGpl74",
+      "title": "Ridge And Lasso Practical Implementation In Hindi",
+      "duration": 907
+    },
+    {
+      "id": "PbK8Hm13Baw",
+      "title": "ElasticNet Regression Machine Learning Algorithm Explained In Hindi",
+      "duration": 1115
+    },
+    {
+      "id": "_nvQKN8L1ZE",
+      "title": "Logistic Regression Indepth Maths Intuition In Hindi",
+      "duration": 1772
+    },
+    {
+      "id": "n40hS9tQmcY",
+      "title": "Logistic Regression Practical Implementation In Python|Krish Naik|Hindi",
+      "duration": 1187
+    },
+    {
+      "id": "7zpEuCTcdKk",
+      "title": "Hindi-Naive Baye's Machine Learning Algorithm Indepth Inution- Part 1",
+      "duration": 865
+    },
+    {
+      "id": "VIj6xS937E4",
+      "title": "Hindi-Naive Baye's Machine Learning Algorithm Indepth Inution- Part 2",
+      "duration": 1476
+    },
+    {
+      "id": "gU6KTNbk0hk",
+      "title": "Hindi-K Nearest Neighbour Indepth Intuition- Classification And Regression",
+      "duration": 1002
+    },
+    {
+      "id": "m5E6QxKFYlM",
+      "title": "Hindi- Overfitting, Underfitting,Bias And Variance Explained In Hindi| Machine Learning",
+      "duration": 738
+    },
+    {
+      "id": "5vqk6HnITko",
+      "title": "Performance Metrics, Accuracy,Precision,Recall And F-Beta Score Explained In Hindi|Machine Learning",
+      "duration": 1415
+    },
+    {
+      "id": "9iD8DMF6odw",
+      "title": "Support Vector Machine Classifier Indepth Intution In Hindi| Krish Naik",
+      "duration": 1524
+    },
+    {
+      "id": "SBDO31GjNjg",
+      "title": "Support Vector Regression Indepth Maths Intuition In Hindi",
+      "duration": 662
+    },
+    {
+      "id": "sRdquT--KO8",
+      "title": "How SVM Kernels Work? |Krish Naik Hindi",
+      "duration": 624
+    },
+    {
+      "id": "ynTCUngbFHA",
+      "title": "Part 1-Decision Tree Classifier Indepth Intuition In Hindi| Krish Naik",
+      "duration": 2057
+    },
+    {
+      "id": "gcF4wppbDuA",
+      "title": "Part 2-Post Prunning And Pre Prunning In Decision Tree Classifier In Hindi| Krish Naik",
+      "duration": 587
+    },
+    {
+      "id": "OMFQvcBx-Fc",
+      "title": "Part 3- Decision Tree And Post Prunning Practical Implementation In Hindi | Krish Naik",
+      "duration": 946
+    },
+    {
+      "id": "mXcPVtbB9pU",
+      "title": "Part 4-Hindi- Decision Tree And Pre Prunning Practical Implementation|Krish Naik",
+      "duration": 868
+    },
+    {
+      "id": "uHq0I_MDVZU",
+      "title": "Part 5-Hindi- Decision Tree Regression Indepth Intuition With Variance Reduction|Krish Naik",
+      "duration": 1420
+    },
+    {
+      "id": "XCYlRBf18YI",
+      "title": "Training Data Vs Test Data Vs Validation Data| Krish Naik",
+      "duration": 881
+    },
+    {
+      "id": "ATnZmBxIvmQ",
+      "title": "Hindi-Cross Validation Using Python In Machine Learning|Krish Naik",
+      "duration": 769
+    },
+    {
+      "id": "bq4LytNAjjM",
+      "title": "Hindi-Types Of Cross Validation In Machine Learning|Krish Naik",
+      "duration": 1135
+    },
+    {
+      "id": "5TOSlFQnnPU",
+      "title": "Hindi- Ensemble Techniques-Bagging Vs Boosting|Krish Naik",
+      "duration": 715
+    },
+    {
+      "id": "WjLjjx8wSz0",
+      "title": "Random Forest Regression And Classification Indepth Intuition In Hindi",
+      "duration": 975
+    },
+    {
+      "id": "TDtP4K_2CWg",
+      "title": "Out Of Bag(OOB) Evaluation And Error In Random Forest Indepth Intuition In Hindi",
+      "duration": 411
+    },
+    {
+      "id": "ba_8kfpWrHU",
+      "title": "Automated EDA Using Pandas Profiling- @Krish Naik Hindi",
+      "duration": 418
+    },
+    {
+      "id": "OjHXJKTK14s",
+      "title": "Automated EDA Using Autoviz Library With 3 Lines Of Code|Krish Naik Hindi",
+      "duration": 543
+    },
+    {
+      "id": "qxmUe9LOhdQ",
+      "title": "In-depth EDA Using SweetViz Library In 2 Lines Of Code- Krish Naik Hindi",
+      "duration": 414
+    },
+    {
+      "id": "LAgR52f7Fz8",
+      "title": "Complete Automated EDA Using Dtale Library Ussing 3 Lines Of Code|Krish Naik Hindi",
+      "duration": 628
+    },
+    {
+      "id": "sk2HUh7gpZs",
+      "title": "R sqaured And Adjusted R squared Machine Learning In Hindi|Krish Naik Hindi",
+      "duration": 740
+    },
+    {
+      "id": "-7mILjsok34",
+      "title": "What Is Boosting Technique In Machine Learning- Krish Naik Hindi",
+      "duration": 776
+    },
+    {
+      "id": "UgxHn8W4usI",
+      "title": "Adaboost ML Algorithm Indepth Intuition- Krish Naik Hindi",
+      "duration": 2106
+    },
+    {
+      "id": "eEtEPdw2dck",
+      "title": "Gradient Boosting Algorithms Indepth Intuition- Krish Naik Hindi",
+      "duration": 1087
+    },
+    {
+      "id": "Aa4MACKaDC0",
+      "title": "Complete Unsupervised Machine Learning Tutorials In Hindi- K Means,DBSCAN, Hierarchical Clustering",
+      "duration": 5629
+    },
+    {
+      "id": "93DwLV0TkNs",
+      "title": "Complete Anomaly Detection Machine Learning Algorithms- Isolation Forest,DBSCAN,Local Factor Outlier",
+      "duration": 1922
+    }
+  ]
+}

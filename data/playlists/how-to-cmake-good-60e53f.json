@@ -1,0 +1,75 @@
+{
+  "courseId": "how-to-cmake-good-60e53f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:24.570Z",
+  "title": "How to CMake Good - Recommended Order",
+  "channel": "vector-of-bool",
+  "videos": [
+    {
+      "id": "_yFPO1ofyF0",
+      "title": "How to CMake Good - 0a - Installing on Linux",
+      "duration": 536
+    },
+    {
+      "id": "lI2nwZSMvlE",
+      "title": "How to CMake Good - 0b - Running CMake",
+      "duration": 340
+    },
+    {
+      "id": "V1YP7eJHDJE",
+      "title": "How to CMake Good - 1a - A \"Hello, world\" executable",
+      "duration": 304
+    },
+    {
+      "id": "abuCXC3t6eQ",
+      "title": "How to CMake Good - 1b - Adding a Library",
+      "duration": 404
+    },
+    {
+      "id": "6aiV7Z9NRhk",
+      "title": "How to CMake Good - 0c - Using Visual Studio",
+      "duration": 450
+    },
+    {
+      "id": "nGnKmEkNBkw",
+      "title": "How to CMake Good - 0d - Visual C++ without Visual Studio",
+      "duration": 726
+    },
+    {
+      "id": "wP4cwAtU-g8",
+      "title": "How to CMake Good - 0e - CMake in Visual Studio Code",
+      "duration": 268
+    },
+    {
+      "id": "SYgESCQeGJY",
+      "title": "How to CMake Good - 1c - Subdirectories and Target Interface Properties",
+      "duration": 559
+    },
+    {
+      "id": "rKBdoMzY3cA",
+      "title": "How to CMake Good - 2a - Scripting Basics",
+      "duration": 325
+    },
+    {
+      "id": "J23ZW-b9s9c",
+      "title": "How to CMake Good - 2b - Control Flow and Auto-dereferencing",
+      "duration": 472
+    },
+    {
+      "id": "cOQy8l68Yyk",
+      "title": "How to CMake Good - 2c - Functions, Scopes, Arguments, and List Expansion",
+      "duration": 920
+    },
+    {
+      "id": "mBjRjZcRTA0",
+      "title": "How to CMake Good - 2d - Advanced Functions and cmake_parse_arguments() by Example",
+      "duration": 1271
+    },
+    {
+      "id": "vyHp2YNUmSQ",
+      "title": "How to CMake Good - 2e - Source/Binary Directories and add_subdirectory()",
+      "duration": 732
+    }
+  ]
+}

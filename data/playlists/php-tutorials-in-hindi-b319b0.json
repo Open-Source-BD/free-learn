@@ -1,0 +1,420 @@
+{
+  "courseId": "php-tutorials-in-hindi-b319b0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:13.460Z",
+  "title": "PHP Tutorials in Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "at19OmH2Bg4",
+      "title": "Installing XAMPP, VS Code + Environment Setup | PHP Tutorial #1",
+      "duration": 1242
+    },
+    {
+      "id": "PaDgry5QAt4",
+      "title": "Creating Our First PHP Website | PHP Tutorial #2",
+      "duration": 966
+    },
+    {
+      "id": "4kFg2EqEIv8",
+      "title": "Web Development 101: How HTML, CSS, JavaScript & PHP Work Together | PHP Tutorial #3",
+      "duration": 890
+    },
+    {
+      "id": "c1vbmGZLy9Y",
+      "title": "Php Comments & Using Php with Bootstrap | PHP Tutorial #4",
+      "duration": 1029
+    },
+    {
+      "id": "et5jScMSNXc",
+      "title": "Php Variables | PHP Tutorial #5",
+      "duration": 814
+    },
+    {
+      "id": "Wr6R3nQfPts",
+      "title": "Rules for Creating Variables in Php | PHP Tutorial #6",
+      "duration": 700
+    },
+    {
+      "id": "OxkPmOuxMyw",
+      "title": "Data Types in Php | PHP Tutorial #7",
+      "duration": 1031
+    },
+    {
+      "id": "mYnGMQS_fUg",
+      "title": "String Functions in Php | PHP Tutorial #8",
+      "duration": 841
+    },
+    {
+      "id": "xLc70TTz88Q",
+      "title": "Operators in Php | PHP Tutorial #9",
+      "duration": 1225
+    },
+    {
+      "id": "EBrUfyRO3Y0",
+      "title": "If Else Conditionals in Php | PHP Tutorial #10",
+      "duration": 735
+    },
+    {
+      "id": "tiOvat39AI8",
+      "title": "Switch Case Statements in php | PHP Tutorial #11",
+      "duration": 448
+    },
+    {
+      "id": "86tJIr6qpNQ",
+      "title": "While Loops in php | PHP Tutorial #12",
+      "duration": 698
+    },
+    {
+      "id": "GVGolpfz-ms",
+      "title": "For Loops in php | PHP Tutorial #13",
+      "duration": 494
+    },
+    {
+      "id": "LMhQAErF8J0",
+      "title": "do-While Loops in php | PHP Tutorial #14",
+      "duration": 712
+    },
+    {
+      "id": "sFjRRRJ-j8Y",
+      "title": "foreach Loops in php | PHP Tutorial #15",
+      "duration": 438
+    },
+    {
+      "id": "8Bfnmeer18M",
+      "title": "Functions in Php | PHP Tutorial #16",
+      "duration": 797
+    },
+    {
+      "id": "rCsAqa1N0kc",
+      "title": "Date Function: Handling Dates in Php | PHP Tutorial #17",
+      "duration": 790
+    },
+    {
+      "id": "yJNeEGvskpw",
+      "title": "Associative Arrays in Php | PHP Tutorial #18",
+      "duration": 700
+    },
+    {
+      "id": "hV0UZPrl2Hc",
+      "title": "Multi-Dimensional Arrays in Php | PHP Tutorial #19",
+      "duration": 1027
+    },
+    {
+      "id": "WpWyXzqCHMM",
+      "title": "Scope, Local & Global Variables in Php | PHP Tutorial #20",
+      "duration": 619
+    },
+    {
+      "id": "PTVECOCyr40",
+      "title": "PHP Forms Tutorial: GET & POST Requests in php | PHP Tutorial #21",
+      "duration": 1096
+    },
+    {
+      "id": "T9tsXhC9rS4",
+      "title": "Using RDBMS & SQL With php | PHP Tutorial #22",
+      "duration": 1202
+    },
+    {
+      "id": "Ufb8KMikNF8",
+      "title": "phpMyAdmin Tutorial: Creating Database & Tables | PHP Tutorial #23",
+      "duration": 877
+    },
+    {
+      "id": "R1djM9B0ay0",
+      "title": "Connecting to MySQL Database from Php Script | PHP Tutorial #24",
+      "duration": 822
+    },
+    {
+      "id": "zmrny6DRt04",
+      "title": "Creating a MySQL Database using php | PHP Tutorial #25",
+      "duration": 666
+    },
+    {
+      "id": "WNK1unCzpds",
+      "title": "Creating a Table in MySQL using php | PHP Tutorial #26",
+      "duration": 817
+    },
+    {
+      "id": "IGeF1TgzDbo",
+      "title": "Insert Data Into MySQL Using MySQLi using php | PHP Tutorial #27",
+      "duration": 743
+    },
+    {
+      "id": "jlDFPCGyglo",
+      "title": "Creating a Bootstrap Form and Saving Data Into MySQL DataBase Using MySQLi  | PHP Tutorial #28",
+      "duration": 1172
+    },
+    {
+      "id": "gbnkDGtlkyo",
+      "title": "Selecting and Displaying Data From MySQL Using MySQLi in Hindi | PHP Tutorial #29",
+      "duration": 815
+    },
+    {
+      "id": "8laei7Zev4Q",
+      "title": "Updating Records in PHP & Where Clause in Hindi | PHP Tutorial #30",
+      "duration": 939
+    },
+    {
+      "id": "czB4Nd2BjSU",
+      "title": "Deleting Records in PHP & Limit Clause in Hindi | PHP Tutorial #31",
+      "duration": 704
+    },
+    {
+      "id": "ydGH0cz14LE",
+      "title": "Php CRUD Operations Tutorial Using MySQLi in Hindi - Select, Insert, Update, Delete|PHP Tutorial #32",
+      "duration": 5510
+    },
+    {
+      "id": "mBmArtb4rCY",
+      "title": "Include and Require in PHP in Hindi | PHP Tutorial #33",
+      "duration": 627
+    },
+    {
+      "id": "_aoZuad97Ws",
+      "title": "Working with Files: File I/O in PHP in Hindi | PHP Tutorial #34",
+      "duration": 748
+    },
+    {
+      "id": "GBp810rwN-c",
+      "title": "fopen(), fread() & fclose() in PHP in Hindi | PHP Tutorial #35",
+      "duration": 951
+    },
+    {
+      "id": "iZmBYO6tfxE",
+      "title": "fgetc(), & fgets() in PHP in Hindi | PHP Tutorial #36",
+      "duration": 717
+    },
+    {
+      "id": "5CYb7v-rqR8",
+      "title": "Writing and Appending to Files in PHP in Hindi | PHP Tutorial #37",
+      "duration": 699
+    },
+    {
+      "id": "SbAfPJj0H4g",
+      "title": "Setting Cookies & $_COOKIE super global in PHP in Hindi | PHP Tutorial #38",
+      "duration": 970
+    },
+    {
+      "id": "VXC6LbWMjuI",
+      "title": "PHP Sessions: $_SESSION & Starting a Session in PHP | PHP Tutorial #39",
+      "duration": 827
+    },
+    {
+      "id": "zcojC6PWNOQ",
+      "title": "PHP Login System Tutorial: Creating a Login + Registration System in PHP | PHP Tutorial #40",
+      "duration": 1106
+    },
+    {
+      "id": "Yi47Nrbd_2o",
+      "title": "PHP Login System Tutorial: Creating Tables and SignUp Form | PHP Tutorial #41",
+      "duration": 1430
+    },
+    {
+      "id": "DNxvyMT81mE",
+      "title": "PHP Login System Tutorial: Creating Login Page & Script in PHP | PHP Tutorial #42",
+      "duration": 861
+    },
+    {
+      "id": "PnqppM2t_hk",
+      "title": "PHP Login System Tutorial: Adding UNIQUE constraint to username | PHP Tutorial #43",
+      "duration": 1002
+    },
+    {
+      "id": "PBd4QmkFkPo",
+      "title": "PHP Login System Tutorial: Adding Logout Functionality | PHP Tutorial #44",
+      "duration": 961
+    },
+    {
+      "id": "Dbp9c4rl7GY",
+      "title": "PHP Login System Tutorial: Password Hashing | PHP Tutorial #45",
+      "duration": 1008
+    },
+    {
+      "id": "tLXbTE4Mleg",
+      "title": "PHP Login System Tutorial: password_hash() and password_verify() in php | PHP Tutorial #46",
+      "duration": 787
+    },
+    {
+      "id": "4UuzguJzEx0",
+      "title": "PHP Project:Creating An Online Forum In php From Scratch | PHP Tutorial #47",
+      "duration": 1302
+    },
+    {
+      "id": "okem-1i5ICQ",
+      "title": "PHP Forum Project: Creating Category Table & Designing Layout | PHP Tutorial #48",
+      "duration": 1335
+    },
+    {
+      "id": "gBtIH9OGyUU",
+      "title": "PHP Forum Project: Adding Login Modals, About & Contact Pages | PHP Tutorial #49",
+      "duration": 1190
+    },
+    {
+      "id": "7Ri4VY7TYS4",
+      "title": "PHP Forum Project: Pulling Categories From the Database | PHP Tutorial #50",
+      "duration": 1362
+    },
+    {
+      "id": "pYsWlIRavxk",
+      "title": "PHP Forum Project: Creating a Page For Listing Threads From A Category | PHP Tutorial #51",
+      "duration": 910
+    },
+    {
+      "id": "-bC2xyf_CJU",
+      "title": "PHP Forum Project: Listing Threads from Each Category | PHP Tutorial #52",
+      "duration": 919
+    },
+    {
+      "id": "9JgpHJvDq9M",
+      "title": "PHP Forum Project: Creating A Table To Store Forum Threads | PHP Tutorial #53",
+      "duration": 866
+    },
+    {
+      "id": "UA2ylH6BHy4",
+      "title": "PHP Forum Project: Creating a Page for Forum Threads & Comments | PHP Tutorial #54",
+      "duration": 926
+    },
+    {
+      "id": "5rKKPHtdrmA",
+      "title": "Creating a Form for Forum Threads & Comments | PHP Tutorial #55",
+      "duration": 1088
+    },
+    {
+      "id": "enqRrFlUUtk",
+      "title": "Adding Questions to Our iDiscuss Forum Database | PHP Tutorial #56",
+      "duration": 1005
+    },
+    {
+      "id": "wwatekIpsio",
+      "title": "Creating a Database to Store Comments | PHP Tutorial #57",
+      "duration": 680
+    },
+    {
+      "id": "FbCMLKCTGlI",
+      "title": "Adding Comments to Threads Using HTML Form | PHP Tutorial #58",
+      "duration": 814
+    },
+    {
+      "id": "a6U-TAkiky4",
+      "title": "Creating Users Table and Signup Form For User Login | PHP Tutorial #59",
+      "duration": 1714
+    },
+    {
+      "id": "7bss7ih3dJA",
+      "title": "Creating Login Handler & Header for Logged in User | PHP Tutorial #60",
+      "duration": 1275
+    },
+    {
+      "id": "mVYVGfRlsHc",
+      "title": "Creating Logout Functionality + Other Header Fixes | PHP Tutorial #61",
+      "duration": 785
+    },
+    {
+      "id": "JGsY_ggURFk",
+      "title": "Restricting Posting and Commenting Activities to Logged in Users Only | PHP Tutorial #62",
+      "duration": 944
+    },
+    {
+      "id": "aIiRaNpRuXc",
+      "title": "Adding User Email with Comments and Posts | PHP Tutorial #63",
+      "duration": 1714
+    },
+    {
+      "id": "kYfX5y08VGc",
+      "title": "Saving PHP Website From a Potential XSS Attack | PHP Tutorial #64",
+      "duration": 1731
+    },
+    {
+      "id": "l7t2BHLZklI",
+      "title": "Displaying Header Categories Dynamically from the Database | PHP Tutorial #65",
+      "duration": 1064
+    },
+    {
+      "id": "V5ChXF2Ps9o",
+      "title": "Creating a Template for Displaying Search Results | PHP Tutorial #66",
+      "duration": 1012
+    },
+    {
+      "id": "9QrUoukbbsw",
+      "title": "Creating Logic for Pulling Search Results From the Database | PHP Tutorial #67",
+      "duration": 1092
+    },
+    {
+      "id": "h8l4G5wPif8",
+      "title": "Further Modifications to iDiscuss Forum Project | PHP Tutorial #68",
+      "duration": 727
+    },
+    {
+      "id": "2PUk0NjlsBU",
+      "title": "Hosting our PHP Website on a Server | PHP Tutorial #69",
+      "duration": 1267
+    },
+    {
+      "id": "mh8GP7WpyA0",
+      "title": "Managing Multiple Virtual Private Servers for PHP Hosting | PHP Tutorial #70",
+      "duration": 1004
+    },
+    {
+      "id": "vldChU89uMs",
+      "title": "Installing Apache2 & MySQL on Ubuntu for PHP Hosting | PHP Tutorial #71",
+      "duration": 1214
+    },
+    {
+      "id": "DG8ecYJ6TnY",
+      "title": "Installing phpMyAdmin for Setting Up Database on a Remote Server | PHP Tutorial #72",
+      "duration": 758
+    },
+    {
+      "id": "_9NWIkrMIp4",
+      "title": "Installing Filezilla FTP Client for Transferring Files to the server | PHP Tutorial #73",
+      "duration": 851
+    },
+    {
+      "id": "AwyKH5LO1Jc",
+      "title": "Automating Filezilla FTP Client login | PHP Tutorial #74",
+      "duration": 809
+    },
+    {
+      "id": "jGhpsFBiXy0",
+      "title": "Hosting Multiple php Websites on a Single 5$ Server | PHP Tutorial #75",
+      "duration": 1766
+    },
+    {
+      "id": "jqoKr0983DE",
+      "title": "Introduction to Object Oriented Programming in PHP | PHP Tutorial #76",
+      "duration": 1347
+    },
+    {
+      "id": "jd55b-T6cHs",
+      "title": "Understanding Classes and Objects Using GTA Vice City and PubG | PHP Tutorial #77",
+      "duration": 1206
+    },
+    {
+      "id": "UZyePWgnEpY",
+      "title": "PHP Constructor: Understanding __construct() function in Php | PHP Tutorial #78",
+      "duration": 1339
+    },
+    {
+      "id": "4fZPRZXZI4I",
+      "title": "__destruct() function in Php | PHP Tutorial #79",
+      "duration": 825
+    },
+    {
+      "id": "_8qEx_L0xVE",
+      "title": "Access Modifiers in Php | PHP Tutorial #80",
+      "duration": 1093
+    },
+    {
+      "id": "aQNQdemoB6w",
+      "title": "Inheritance in PHP: A Helpful & Illustrative Guide | PHP Tutorial #81",
+      "duration": 1246
+    },
+    {
+      "id": "cZP7b5HEyog",
+      "title": "Using protected Access Modifier in PHP Inheritance | PHP Tutorial #82",
+      "duration": 729
+    }
+  ]
+}

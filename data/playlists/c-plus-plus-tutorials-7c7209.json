@@ -1,0 +1,520 @@
+{
+  "courseId": "c-plus-plus-tutorials-7c7209",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:55.572Z",
+  "title": "C++ Tutorials",
+  "channel": "Caleb Curry",
+  "videos": [
+    {
+      "id": "_bYFu9mBnr4",
+      "title": "C++ Programming All-in-One Tutorial Series (10 HOURS!)",
+      "duration": 37695
+    },
+    {
+      "id": "jcYaWFhV8oY",
+      "title": "Introduction to C++ Programming",
+      "duration": 334
+    },
+    {
+      "id": "OTroAxvRNbw",
+      "title": "C++ Programming Tutorial 1 - Intro to C++",
+      "duration": 573
+    },
+    {
+      "id": "aVqZ3lZD8Qk",
+      "title": "C++ Programming Tutorial 2 - Installing g++ and Getting Started",
+      "duration": 387
+    },
+    {
+      "id": "i0B_0b3EKFs",
+      "title": "C++ Programming Tutorial 3 - C++ Concepts Explained",
+      "duration": 469
+    },
+    {
+      "id": "9F3wgbaoTxs",
+      "title": "C++ Programming Tutorial 4 - More C++ Concepts",
+      "duration": 573
+    },
+    {
+      "id": "0UdALJ348zc",
+      "title": "C++ Programming Tutorial 5 - Using Directive and Declaration",
+      "duration": 425
+    },
+    {
+      "id": "vSTesJdgRCU",
+      "title": "C++ Programming Tutorial 6 - Variable Declaration and Initialization",
+      "duration": 232
+    },
+    {
+      "id": "CEZhVC_rd1g",
+      "title": "C++ Programming Tutorial 7 - Using Variables with cout",
+      "duration": 310
+    },
+    {
+      "id": "qhnARpYSqAA",
+      "title": "C++ Programming Tutorial 8 - User Input with cin",
+      "duration": 255
+    },
+    {
+      "id": "yxGLX-rm1F8",
+      "title": "C++ Programming Tutorial 9 - Conventions and Style Guides",
+      "duration": 571
+    },
+    {
+      "id": "VZYMp7SY0W4",
+      "title": "C++ Programming Tutorial 10 - Intro to Functions",
+      "duration": 390
+    },
+    {
+      "id": "facq51FQqpo",
+      "title": "C++ Programming Tutorial 11 - Intro to Creating Custom Functions",
+      "duration": 463
+    },
+    {
+      "id": "RITI64lyKZc",
+      "title": "C++ Programming Tutorial 12 - Using Functions (pow function)",
+      "duration": 304
+    },
+    {
+      "id": "G4v8MkLTEwQ",
+      "title": "C++ Programming Tutorial 13 - Creating Custom Functions",
+      "duration": 569
+    },
+    {
+      "id": "lA9mbgOo2MY",
+      "title": "C++ Programming Tutorial 14 - Creating Void Functions",
+      "duration": 476
+    },
+    {
+      "id": "k2vrTIAIhRo",
+      "title": "C++ Programming Tutorial 15 - Intro to C++ Data Types",
+      "duration": 572
+    },
+    {
+      "id": "YrVT09OS7VM",
+      "title": "C++ Programming Tutorial 16 - Integral Data Types and Signed vs Unsigned",
+      "duration": 520
+    },
+    {
+      "id": "4f4BghijE1c",
+      "title": "C++ Programming Tutorial 17 - Integral Data Types, sizeof, climit",
+      "duration": 360
+    },
+    {
+      "id": "ozhU26jnToQ",
+      "title": "C++ Programming Tutorial 18 - char Data Type",
+      "duration": 503
+    },
+    {
+      "id": "M8XGnqAVyYM",
+      "title": "C++ Programming Tutorial 19 - Escape Sequences",
+      "duration": 378
+    },
+    {
+      "id": "3h5wt2rUZHw",
+      "title": "C++ Programming Tutorial 20 - bool Data Type",
+      "duration": 332
+    },
+    {
+      "id": "QsICXFKs9uo",
+      "title": "C++ Programming Tutorial 21 - Floating Point Numbers",
+      "duration": 571
+    },
+    {
+      "id": "QICx5aZV7sY",
+      "title": "C++ Programming Tutorial 22 - Constants const, macro, and enum",
+      "duration": 428
+    },
+    {
+      "id": "LFu4Qi8OSr0",
+      "title": "C++ Programming Tutorial 23 - Numeric Functions",
+      "duration": 516
+    },
+    {
+      "id": "-t07hCkdHjI",
+      "title": "C++ Programming Tutorial 24 - String Class and C Strings",
+      "duration": 603
+    },
+    {
+      "id": "5ZX6-ZzTZ98",
+      "title": "C++ Programming Tutorial 25 - getline for Strings",
+      "duration": 238
+    },
+    {
+      "id": "mp7Um7k-G4I",
+      "title": "C++ Programming Tutorial 26 - String Modifier Methods",
+      "duration": 489
+    },
+    {
+      "id": "gWWslxWx5QQ",
+      "title": "C++ Programming Tutorial 27 - String Operation Methods",
+      "duration": 460
+    },
+    {
+      "id": "F27KllsR7Io",
+      "title": "C++ Programming Tutorial 28 - Literals",
+      "duration": 370
+    },
+    {
+      "id": "6uC5u-S4Mmw",
+      "title": "C++ Programming Tutorial 29 - Hex and Octal",
+      "duration": 330
+    },
+    {
+      "id": "THiWb_5N73g",
+      "title": "C++ Programming Tutorial 30 - Operator Precedence and Associativity",
+      "duration": 528
+    },
+    {
+      "id": "_AdHvIZ3M1E",
+      "title": "C++ Programming Tutorial 31 - Reviewing Key Concepts",
+      "duration": 426
+    },
+    {
+      "id": "s3oGPdFqvNw",
+      "title": "C++ Programming Tutorial 32 - Control Flow",
+      "duration": 651
+    },
+    {
+      "id": "Zfm-138maOE",
+      "title": "C++ Programming Tutorial 33 - If Statement Practice",
+      "duration": 363
+    },
+    {
+      "id": "MiLkaEt9qOE",
+      "title": "C++ Programming Tutorial 34 - Logical and Comparison Operators",
+      "duration": 652
+    },
+    {
+      "id": "GSja2w-HN20",
+      "title": "C++ Programming Tutorial 35 - Switch Statement and Enum",
+      "duration": 532
+    },
+    {
+      "id": "M3o7Y0juEP0",
+      "title": "C++ Programming Tutorial 36 - Intro to Loops",
+      "duration": 483
+    },
+    {
+      "id": "M7wOciv50fY",
+      "title": "C++ Programming Tutorial 37 - For Loops (How to Calculate Factorial)",
+      "duration": 486
+    },
+    {
+      "id": "E-Vuvo4cUbM",
+      "title": "C++ Programming Tutorial 38 - While Loop and Factorial Calculator",
+      "duration": 460
+    },
+    {
+      "id": "DSUuGn7S_oM",
+      "title": "C++ Programming Tutorial 39 - Do While Loop",
+      "duration": 515
+    },
+    {
+      "id": "oYSYfSDMK-U",
+      "title": "C++ Programming Tutorial 40 - Break and Continue",
+      "duration": 374
+    },
+    {
+      "id": "WSy25XB7Eak",
+      "title": "C++ Programming Tutorial 41 - Conditional Operator (Ternary Operator)",
+      "duration": 294
+    },
+    {
+      "id": "IJXm0FSI0YA",
+      "title": "C++ Programming Tutorial 42 - Intro To Our App",
+      "duration": 293
+    },
+    {
+      "id": "3bBiQ1G7BOU",
+      "title": "C++ Programming Tutorial 43 - Creating a Menu",
+      "duration": 371
+    },
+    {
+      "id": "GW3LO_ZByXY",
+      "title": "C++ Programming Tutorial 44 - Creating a Guessing Game",
+      "duration": 446
+    },
+    {
+      "id": "6WGK0Tfl9oU",
+      "title": "C++ Programming Tutorial 45 - Intro to Arrays and Vectors",
+      "duration": 587
+    },
+    {
+      "id": "HpBel7_2k0k",
+      "title": "C++ Programming Tutorial 46 - Working with Arrays",
+      "duration": 621
+    },
+    {
+      "id": "_afeydHJ9Fs",
+      "title": "C++ Programming Tutorial 47 - Passing Arrays to Functions and sizeof Operator",
+      "duration": 426
+    },
+    {
+      "id": "5NdWaGzSNes",
+      "title": "C++ Programming Tutorial 48 - Fill Array from Input",
+      "duration": 630
+    },
+    {
+      "id": "aAMIig6zg0A",
+      "title": "C++ Programming Tutorial 49 - Using an Array to Keep Track of Guesses",
+      "duration": 372
+    },
+    {
+      "id": "YErKhAYBj2A",
+      "title": "C++ Programming Tutorial 50 - Intro to Vectors",
+      "duration": 428
+    },
+    {
+      "id": "Fm9otubOsqQ",
+      "title": "C++ Programming Tutorial 51 - Creating a Vector",
+      "duration": 238
+    },
+    {
+      "id": "aUhYCyU2Meo",
+      "title": "C++ Programming Tutorial 52 - Passing Vectors to Functions",
+      "duration": 212
+    },
+    {
+      "id": "LXd9W5F58Cs",
+      "title": "C++ Programming Tutorial 53 - Refactor Guessing Game to Use Vectors",
+      "duration": 295
+    },
+    {
+      "id": "8PQH5NUvZuc",
+      "title": "C++ Programming Tutorial 54 - STL Array",
+      "duration": 299
+    },
+    {
+      "id": "7deP9hMwA60",
+      "title": "C++ Programming Tutorial 55 - STL Arrays in Practice",
+      "duration": 297
+    },
+    {
+      "id": "gZKw7iX7Vj4",
+      "title": "C++ Programming Tutorial 56 - Refactor Guessing Game to Use Templatized Array",
+      "duration": 268
+    },
+    {
+      "id": "VW8eDxB0c-s",
+      "title": "C++ Programming Tutorial 57 - Array Vs Vector Vs STL Array",
+      "duration": 457
+    },
+    {
+      "id": "8qrZYjL2jBg",
+      "title": "C++ Programming Tutorial 58 - Range Based For Loop",
+      "duration": 373
+    },
+    {
+      "id": "io3rL-Ni7DE",
+      "title": "C++ Programming Tutorial 59 - Intro to IO Streams",
+      "duration": 581
+    },
+    {
+      "id": "XJhIJ6J5obY",
+      "title": "C++ Programming Tutorial 60 - Writing to Files with ofstream",
+      "duration": 597
+    },
+    {
+      "id": "ruf_pj2hGpw",
+      "title": "C++ Programming Tutorial 61 - Reading from Files with ifstream",
+      "duration": 449
+    },
+    {
+      "id": "c4YSBHZ2gS4",
+      "title": "C++ Programming Tutorial 62 - Saving High Scores to File",
+      "duration": 521
+    },
+    {
+      "id": "pfBlTlgZ5po",
+      "title": "C++ Programming Tutorial 63 - Functions and Constructors",
+      "duration": 547
+    },
+    {
+      "id": "c37b4R24-CM",
+      "title": "C++ Programming Tutorial 64 - Refactoring IO to Function Call and Testing",
+      "duration": 456
+    },
+    {
+      "id": "2XLat-7zBsg",
+      "title": "C++ Programming Tutorial 65 - Multidimensional Arrays and Nested Vectors",
+      "duration": 317
+    },
+    {
+      "id": "4FKxT1Nc_Os",
+      "title": "C++ Programming Tutorial 66 - Const Modifier",
+      "duration": 365
+    },
+    {
+      "id": "FXzpFn8LJUI",
+      "title": "C++ Programming Tutorial 67 - Pass By Reference and Pass By Value",
+      "duration": 488
+    },
+    {
+      "id": "aeV9HUDSuu4",
+      "title": "C++ Programming Tutorial 68 - Swap Function with Pass by Reference",
+      "duration": 187
+    },
+    {
+      "id": "HNiNmhSPJ9U",
+      "title": "C++ Programming Tutorial 69 - Intro to Function Overloading",
+      "duration": 373
+    },
+    {
+      "id": "SIp4EWxjr0w",
+      "title": "C++ Programming Tutorial 70 - Function Overloading Examples",
+      "duration": 468
+    },
+    {
+      "id": "TsTa__aC0wU",
+      "title": "C++ Programming Tutorial 71 - Default Arguments",
+      "duration": 485
+    },
+    {
+      "id": "F6BGrhKGmcU",
+      "title": "C++ Programming Tutorial 72 - Intro To Multifile Compilation",
+      "duration": 510
+    },
+    {
+      "id": "f-NrGNommfg",
+      "title": "C++ Programming Tutorial 73 - Multifile Compilation",
+      "duration": 501
+    },
+    {
+      "id": "NLhy05sdFQI",
+      "title": "C++ Programming Tutorial 74 - Makefiles",
+      "duration": 450
+    },
+    {
+      "id": "6Gw1rNyTJWA",
+      "title": "C++ Programming Tutorial 75 - Creating a Simple Makefile",
+      "duration": 468
+    },
+    {
+      "id": "tFOrHop3tDU",
+      "title": "C++ Programming Tutorial 76 - Intro To Namespaces",
+      "duration": 304
+    },
+    {
+      "id": "Jf53MErcZVY",
+      "title": "C++ Programming Tutorial 77 - Creating a Namespace",
+      "duration": 351
+    },
+    {
+      "id": "DHBli-deOSE",
+      "title": "C++ Programming Tutorial 78 - Intro To Function Templates",
+      "duration": 362
+    },
+    {
+      "id": "-PDAONh7A4c",
+      "title": "C++ Programming Tutorial 79 - Creating a Function Template",
+      "duration": 255
+    },
+    {
+      "id": "7-iUQXMSrc4",
+      "title": "C++ Programming Tutorial 80 - Overloading Function Templates",
+      "duration": 340
+    },
+    {
+      "id": "LBvRj5xq9Z0",
+      "title": "C++ Programming Tutorial 81 - Intro To Object Oriented Programming",
+      "duration": 506
+    },
+    {
+      "id": "vJ9ezXY7efw",
+      "title": "C++ Programming Tutorial 82 - Intro To Structs",
+      "duration": 378
+    },
+    {
+      "id": "E_aVsBLlvpQ",
+      "title": "C++ Programming Tutorial 83 - Creating a Struct",
+      "duration": 408
+    },
+    {
+      "id": "JaSy-Z1u7AY",
+      "title": "C++ Programming Tutorial 84 - Classes And Objects",
+      "duration": 551
+    },
+    {
+      "id": "fA_nq_mMfig",
+      "title": "C++ Programming Tutorial 85 - Creating a Class",
+      "duration": 226
+    },
+    {
+      "id": "cjpIPUaEbRM",
+      "title": "C++ Programming Tutorial 86 - Working with Objects",
+      "duration": 456
+    },
+    {
+      "id": "b6HEYgZg0Ss",
+      "title": "C++ Programming Tutorial 87 - Intro To Constructors",
+      "duration": 320
+    },
+    {
+      "id": "wyVAajK7QzQ",
+      "title": "C++ Programming Tutorial 88 - Constructors and Destructors",
+      "duration": 334
+    },
+    {
+      "id": "SkSrey-nFLg",
+      "title": "C++ Programming Tutorial 89 - Encapsulation",
+      "duration": 409
+    },
+    {
+      "id": "6Q0zrL6ys6U",
+      "title": "C++ Programming Tutorial 90 - Getters and Setters",
+      "duration": 486
+    },
+    {
+      "id": "hvN8HTN9byE",
+      "title": "C++ Programming Tutorial 91 - Static Data Members",
+      "duration": 490
+    },
+    {
+      "id": "bnHD61kQAIc",
+      "title": "C++ Programming Tutorial 92 - Intro To Operator Overloading",
+      "duration": 307
+    },
+    {
+      "id": "ZcmQ5y7QyTc",
+      "title": "C++ Programming Tutorial 93 - Operator Overloading == and +",
+      "duration": 480
+    },
+    {
+      "id": "RQnYiiLtt38",
+      "title": "C++ Programming Tutorial 94 - Overloading Insertion and Extraction Operators",
+      "duration": 533
+    },
+    {
+      "id": "o-qRv9WjGdE",
+      "title": "C++ Programming Tutorial 95 - Friend Functions and Operator Overloading",
+      "duration": 430
+    },
+    {
+      "id": "nbd7o8iKh9Q",
+      "title": "C++ Programming Tutorial 96 - Class Across Files - Multifile Compilation",
+      "duration": 496
+    },
+    {
+      "id": "wrkkAOMp3Sw",
+      "title": "C++ Programming Tutorial 97 - Inheritance And Polymorphism",
+      "duration": 333
+    },
+    {
+      "id": "_rzEUwv2-eQ",
+      "title": "C++ Programming Tutorial 98 - Base Classes and Subclasses Inheritance",
+      "duration": 546
+    },
+    {
+      "id": "qANX-BYrXoE",
+      "title": "C++ Programming Tutorial 99 - Polymorphism",
+      "duration": 441
+    },
+    {
+      "id": "04M3_eHDTI0",
+      "title": "C++ Programming Tutorial 100 - Conclusion",
+      "duration": 380
+    }
+  ]
+}

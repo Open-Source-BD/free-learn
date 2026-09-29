@@ -1,0 +1,275 @@
+{
+  "courseId": "spring-boot-tutorials-b20ade",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:59.312Z",
+  "title": "Spring Boot Tutorials",
+  "channel": "Daily Code Buffer",
+  "videos": [
+    {
+      "id": "yOlUKEN7oxA",
+      "title": "🔥🔥 BIG ANNOUNCEMENT 🔥🔥 - Spring Boot 3 and Spring Framework 6 Course",
+      "duration": 305
+    },
+    {
+      "id": "5qG9Yi3bHd8",
+      "title": "From Prompts to Reality: Exploring Multimodal AI with Spring AI & DALL-E",
+      "duration": 2027
+    },
+    {
+      "id": "yLEEyErPQ2g",
+      "title": "Handle 1,000,000 Threads with Java and Spring Boot !!!",
+      "duration": 1310
+    },
+    {
+      "id": "UVznC3yI4w4",
+      "title": "Building AI Application with Spring boot | Spring AI and Prompts",
+      "duration": 770
+    },
+    {
+      "id": "DNA6BftfsoM",
+      "title": "Introduction to Spring AI | Spring Ai Framework",
+      "duration": 565
+    },
+    {
+      "id": "9K4dOMYQ02I",
+      "title": "Testing Graphql Layer with Spring Boot | Graphql Integration Testing",
+      "duration": 1539
+    },
+    {
+      "id": "eD-1KTK7fGc",
+      "title": "Master Graphql with Spring Boot 🔥🔥",
+      "duration": 2037
+    },
+    {
+      "id": "oMuaRejdSlI",
+      "title": "Test Driven Development (TDD) in Spring Boot | Full Tutorial",
+      "duration": 944
+    },
+    {
+      "id": "tU_37niRh4U",
+      "title": "Apache KAFKA Tutorial | KAFKA Crash Course | Spring Boot",
+      "duration": 3409
+    },
+    {
+      "id": "vKs17-QDi4w",
+      "title": "How Spring Boot Works Internally? - Complete Working",
+      "duration": 563
+    },
+    {
+      "id": "xdl1b97GANk",
+      "title": "Aspect Oriented Programming (AOP) with Spring Tutorial | Spring AOP",
+      "duration": 1780
+    },
+    {
+      "id": "XolV-pKjVyA",
+      "title": "Event Driven Microservices using Spring Boot | Full In-depth Course",
+      "duration": 12234
+    },
+    {
+      "id": "pUFGOngzJig",
+      "title": "Implement SAGA Design Pattern using Spring Boot",
+      "duration": 8448
+    },
+    {
+      "id": "sthMcMrspCM",
+      "title": "Implement CQRS Design Pattern with SpringBoot",
+      "duration": 3817
+    },
+    {
+      "id": "O26jhgk682Q",
+      "title": "Reactive Programming in JAVA | Project Reactor Full Tutorial",
+      "duration": 9823
+    },
+    {
+      "id": "OEcE-ow5csc",
+      "title": "What is Springboot? — Introduction",
+      "duration": 296
+    },
+    {
+      "id": "XszpXoII9Sg",
+      "title": "Spring Data JPA Tutorial | Full In-depth Course",
+      "duration": 8414
+    },
+    {
+      "id": "c3gKseNAs9w",
+      "title": "Spring Boot Tutorial | Full In-depth Course",
+      "duration": 11478
+    },
+    {
+      "id": "Y3JxNzBSOp0",
+      "title": "Highly Available Eureka Service Registry | Spring Cloud | Microservice Architecture",
+      "duration": 741
+    },
+    {
+      "id": "VAmntTPebKE",
+      "title": "Deploy Springboot Microservices to Kubernetes Cluster | Full Example",
+      "duration": 3764
+    },
+    {
+      "id": "n6ZqOwreFTA",
+      "title": "Implementing Web Sockets with Spring Boot Application",
+      "duration": 982
+    },
+    {
+      "id": "5kxLeR_YuIk",
+      "title": "Implementing RabbitMQ in SpringBoot - Producer/Consumer",
+      "duration": 1384
+    },
+    {
+      "id": "G_BhoEGFWWg",
+      "title": "Dekorate: Generating Kubernetes Manifests in Spring Boot",
+      "duration": 831
+    },
+    {
+      "id": "tDZPdovCH4I",
+      "title": "Spring Security Tutorial with Login Example (Spring Boot + Spring Security + MySQL)",
+      "duration": 1616
+    },
+    {
+      "id": "CAMjijWhGIg",
+      "title": "Spring Cloud Functions Tutorial | Spring Boot - Serverless Functions",
+      "duration": 1168
+    },
+    {
+      "id": "raWaxW_clqo",
+      "title": "Spring Transactions Tutorial | Spring Boot - Daily Code Buffer",
+      "duration": 1235
+    },
+    {
+      "id": "kyL0m9y1n0A",
+      "title": "Send Email from Spring Boot Application",
+      "duration": 979
+    },
+    {
+      "id": "ZXlxQ3z4zDE",
+      "title": "How to Schedule Tasks/Jobs in Springboot using @Scheduled annotation",
+      "duration": 718
+    },
+    {
+      "id": "lA18U8dGKF8",
+      "title": "Implementing JWT (JSON Web Tokens) with Spring Security in Springboot App",
+      "duration": 2185
+    },
+    {
+      "id": "BnknNTN8icw",
+      "title": "Microservices using SpringBoot | Full Example",
+      "duration": 4899
+    },
+    {
+      "id": "3ay92ZdCgwQ",
+      "title": "Spring Boot CRUD Example using AWS DynamoDB",
+      "duration": 1600
+    },
+    {
+      "id": "qsioDgfs7jc",
+      "title": "MySQL Integration with Spring Boot Application | Daily Code Buffer",
+      "duration": 614
+    },
+    {
+      "id": "PpkPTviLTLs",
+      "title": "How to implement Redis in Spring Boot using Spring Data Redis & Jedis",
+      "duration": 1710
+    },
+    {
+      "id": "iaVBleTf88U",
+      "title": "SpringDoc - An Open API 3.0 based Documentation Library in Spring Boot",
+      "duration": 511
+    },
+    {
+      "id": "QWsWx4SS05I",
+      "title": "OAuth2 Spring Security using Facebook in Spring Boot",
+      "duration": 660
+    },
+    {
+      "id": "vmbhFZJUTR0",
+      "title": "How to Deploy Spring Boot Application with Docker into AWS EC2",
+      "duration": 590
+    },
+    {
+      "id": "F9o21ydf6Wk",
+      "title": "How to Deploy SpringBoot Application to AWS Elastic Beanstalk",
+      "duration": 775
+    },
+    {
+      "id": "w7zDItQBo4c",
+      "title": "Deploy Spring Boot App in AWS EC2 instance using S3",
+      "duration": 627
+    },
+    {
+      "id": "F_g44rliu6M",
+      "title": "Dockerize Spring Boot App using Maven Plugin",
+      "duration": 522
+    },
+    {
+      "id": "pIei1m323KU",
+      "title": "Create Docker Image without Dockerfile in Spring Boot",
+      "duration": 424
+    },
+    {
+      "id": "n9GWbw8f1yA",
+      "title": "Configuring Spring Boot Exit Codes",
+      "duration": 476
+    },
+    {
+      "id": "quYMvDSmb40",
+      "title": "How to use Multiple MAIN Class in Spring Boot",
+      "duration": 333
+    },
+    {
+      "id": "UZWOb9ce6go",
+      "title": "JaCoCo Code Coverage Tutorial with Spring Boot",
+      "duration": 675
+    },
+    {
+      "id": "AioHZDaL4Jw",
+      "title": "Spring Boot with Kotlin Tutorial",
+      "duration": 906
+    },
+    {
+      "id": "H748CPfNTqg",
+      "title": "Project Lombok |  Say NO to Boiler Plate Code",
+      "duration": 845
+    },
+    {
+      "id": "5a65m_8n3q8",
+      "title": "How to implement Logging in SPRING BOOT",
+      "duration": 686
+    },
+    {
+      "id": "HUB_KQcEHnA",
+      "title": "How to implement Mustache with Spring boot",
+      "duration": 834
+    },
+    {
+      "id": "a_RuKsn51WI",
+      "title": "Spring Boot Series - 2020  |  Part 3",
+      "duration": 514
+    },
+    {
+      "id": "XAZRskmVFFA",
+      "title": "Spring Boot Series - 2020  |  Part 2",
+      "duration": 461
+    },
+    {
+      "id": "Mb0Snq0UI9Q",
+      "title": "Spring Boot Series - 2020  |  Part 1",
+      "duration": 625
+    },
+    {
+      "id": "4LaJQgB2Fk0",
+      "title": "Running a Spring Boot App using Terminal",
+      "duration": 187
+    },
+    {
+      "id": "TqpCpQMHhL8",
+      "title": "Spring Initializr Tutorial",
+      "duration": 418
+    },
+    {
+      "id": "_E-xz22qN44",
+      "title": "How to create a Spring Boot project with IntelliJ IDEA",
+      "duration": 406
+    }
+  ]
+}

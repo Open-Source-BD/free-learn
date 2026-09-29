@@ -1,0 +1,60 @@
+{
+  "courseId": "machine-learning-foundations-6487d4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:32.500Z",
+  "title": "Machine Learning Foundations",
+  "channel": "Google for Developers",
+  "videos": [
+    {
+      "id": "_Z9TRANg4c0",
+      "title": "Machine Learning Foundations: Ep #1 - What is ML?",
+      "duration": 934
+    },
+    {
+      "id": "j-35y1M9rRU",
+      "title": "Computer vision by building a neural network with TensorFlow | Machine Learning Foundations",
+      "duration": 1018
+    },
+    {
+      "id": "PCgLmzkRM38",
+      "title": "Machine Learning Foundations: Ep #3 - Convolutions and pooling",
+      "duration": 697
+    },
+    {
+      "id": "dd8H4fiL9Yc",
+      "title": "Machine Learning Foundations: Ep #4 - Coding with Convolutional Neural Networks",
+      "duration": 426
+    },
+    {
+      "id": "0kYIZE8Gl90",
+      "title": "Real-world image classification using convolutional neural networks | Machine Learning Foundations",
+      "duration": 1054
+    },
+    {
+      "id": "nq7_ZYJPWf0",
+      "title": "Machine Learning Foundations: Ep #6 - Convolutional cats and dogs",
+      "duration": 725
+    },
+    {
+      "id": "QWdYWwW6OAE",
+      "title": "Machine Learning Foundations: Ep #7 - Image augmentation and overfitting",
+      "duration": 745
+    },
+    {
+      "id": "f5YJA5mQD5c",
+      "title": "Machine Learning Foundations: Ep #8 - Tokenization for Natural Language Processing",
+      "duration": 538
+    },
+    {
+      "id": "L3suP4g8p7U",
+      "title": "Natural Language Processing: Using sequencing APIs in TensorFlow | Machine Learning Foundations",
+      "duration": 682
+    },
+    {
+      "id": "-8XmD2zsFBI",
+      "title": "Build a sarcasm classifier using NLP and TensorFlow | Machine Learning Foundations",
+      "duration": 1068
+    }
+  ]
+}

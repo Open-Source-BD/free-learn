@@ -1,0 +1,115 @@
+{
+  "courseId": "docker-tutorial-course-45e681",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:43.029Z",
+  "title": "(Bangla) Docker tutorial : Build a microservice system from scratch",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "6A4VZlyAfe0",
+      "title": "[In Bangla] What is Docker (ডোকর) Virtualization (঵ির্তুয়ালিসাজানা) & Containers (কেটানর)?",
+      "duration": 1770
+    },
+    {
+      "id": "8gHurUoPh7A",
+      "title": "(Bangla) Docker tutorial 001: Introduction to Linux in Bangla",
+      "duration": 510
+    },
+    {
+      "id": "c_Z-r6ceKhc",
+      "title": "(Bangla) Docker tutorial 002: Connect WSL2, edit and run a nodejs project in VS Code from Windows 10",
+      "duration": 513
+    },
+    {
+      "id": "HDuTLPAYyOo",
+      "title": "(Bangla) Docker tutorial 003 : Install Docker Desktop and run hello world container",
+      "duration": 628
+    },
+    {
+      "id": "3Fh7VcW4Jk0",
+      "title": "(Bangla) Docker tutorial 004: Image vs container and analyzing our first docker container",
+      "duration": 696
+    },
+    {
+      "id": "8TGXRH40Y7o",
+      "title": "(Bangla) Docker tutorial 005: Pull node image from docker hub and run it from docker desktop GUI",
+      "duration": 424
+    },
+    {
+      "id": "-H10laH9hSc",
+      "title": "(Bangla) Docker tutorial 006 : What is docker image and how does it work",
+      "duration": 648
+    },
+    {
+      "id": "NbMF-FO5o80",
+      "title": "(Bangla) Docker tutorial 007 : How docker image build layer over layer - Analyze scratch to aspnet",
+      "duration": 971
+    },
+    {
+      "id": "zoulQ0slD8w",
+      "title": "(Bangla) Docker tutorial 008 : How docker image build layer over layer - Analyze debian to node",
+      "duration": 520
+    },
+    {
+      "id": "TE8vqUNmc-M",
+      "title": "(Bangla) Docker tutorial 009 : How router, network, subnet and IP works in PC and Virtual Machine",
+      "duration": 1204
+    },
+    {
+      "id": "tmm-w3UeS7U",
+      "title": "(Bangla) Docker tutorial 010: Networking between docker containers & connect mongo container from VS",
+      "duration": 1240
+    },
+    {
+      "id": "wRI0_nDQa7o",
+      "title": "(Bangla) Docker tutorial 011: Run mongo container through terminal & add network, volume, port, name",
+      "duration": 713
+    },
+    {
+      "id": "206426Z4zGA",
+      "title": "(Bangla) Docker tutorial 012: Checking persistent volume through vscode mongo extension",
+      "duration": 686
+    },
+    {
+      "id": "CJOHhUQ2ASM",
+      "title": "(Bangla) Docker tutorial 013: Run and verify ElasticSearch docker container through terminal",
+      "duration": 724
+    },
+    {
+      "id": "rhpcNYQyBnA",
+      "title": "(Bangla) Docker tutorial 014: Dockerize node app - configure localhost from environmental variables",
+      "duration": 586
+    },
+    {
+      "id": "G94hZllPmcY",
+      "title": "(Bangla) Docker tutorial 015: Dockerize node app - Create Dockerfile and build Docker image",
+      "duration": 821
+    },
+    {
+      "id": "yjchovtmLtY",
+      "title": "(Bangla) Docker tutorial 016: Dockerize node app - Run docker container and connect with databases",
+      "duration": 614
+    },
+    {
+      "id": "so0INKTmn5g",
+      "title": "(Bangla) Docker tutorial 017: Dockerize node app - Debug express app running inside a container",
+      "duration": 1082
+    },
+    {
+      "id": "fs_5-8F3Lqk",
+      "title": "(Bangla) Docker tutorial 018: Configure and run containers in a single \"docker-compose up\" command",
+      "duration": 846
+    },
+    {
+      "id": "paf_xijfLNQ",
+      "title": "(Bangla) Docker tutorial 019: Shutdown containers by single \"docker-compose down\" command",
+      "duration": 317
+    },
+    {
+      "id": "FywtH-8eZTE",
+      "title": "(Bangla) Learn MERN like a pro - Lecture 125: Dockerize a MERN project - mount src into container",
+      "duration": 416
+    }
+  ]
+}

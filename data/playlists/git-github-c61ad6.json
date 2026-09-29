@@ -1,0 +1,85 @@
+{
+  "courseId": "git-github-c61ad6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:23.115Z",
+  "title": "Git and GitHub",
+  "channel": "Automation Step by Step",
+  "videos": [
+    {
+      "id": "-U-eUHI6euM",
+      "title": "Git and GitHub Beginner Tutorial 1 - Introduction",
+      "duration": 786
+    },
+    {
+      "id": "0Icla6TVNNo",
+      "title": "Git and GitHub Beginner Tutorial 2 - Getting started - Install Git (mac)",
+      "duration": 1133
+    },
+    {
+      "id": "sBTAkHOxvOk",
+      "title": "Git and GitHub Beginner Tutorial 3 - Getting started - Install Git windows",
+      "duration": 1166
+    },
+    {
+      "id": "VI07ouVS5FE",
+      "title": "Git and GitHub Beginner Tutorial 4 - Enable git commands autocomplete and colors on Mac",
+      "duration": 442
+    },
+    {
+      "id": "GZILYABgAoo",
+      "title": "Git and GitHub Beginner Tutorial 5 - Branching and Merging",
+      "duration": 657
+    },
+    {
+      "id": "Ft2LXlaSEfs",
+      "title": "Git and GitHub Beginner Tutorial 6 - How to send email from GitHub",
+      "duration": 231
+    },
+    {
+      "id": "govmXpDGLpo",
+      "title": "Git and GitHub Beginner Tutorial 7 - Git Tags - what, why, when and how",
+      "duration": 642
+    },
+    {
+      "id": "KWAZl2QHC44",
+      "title": "Git Merge vs Git Rebase for Beginners",
+      "duration": 1344
+    },
+    {
+      "id": "B8NurikxEo8",
+      "title": "Git and GitHub Hands-On Training for Beginners | Raghav Pal",
+      "duration": 1975
+    },
+    {
+      "id": "DqtZUvmPmo4",
+      "title": "Why to use GIT (version control system)",
+      "duration": 297
+    },
+    {
+      "id": "LPT7v69guVY",
+      "title": "How To Add Eclipse Project To GitHub | How to Commit, Push, Pull from Eclipse to GitHub",
+      "duration": 697
+    },
+    {
+      "id": "ylEy4eLdhFs",
+      "title": "GitHub Actions Step by Step DEMO for Beginners",
+      "duration": 1397
+    },
+    {
+      "id": "nVmSpECAxG4",
+      "title": "Learn Git and Git Bash with Hands-On Demo | Raghav Pal",
+      "duration": 3010
+    },
+    {
+      "id": "Sxs6qEGcp7Y",
+      "title": "Git Tutorial for Beginners | Complete Hands-on Git Course (Step-by-Step)",
+      "duration": 5043
+    },
+    {
+      "id": "P_-E5nFkolw",
+      "title": "Git Advanced HandsOn | Step-by-Step Demo by Raghav Pal",
+      "duration": 8174
+    }
+  ]
+}

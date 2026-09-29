@@ -1,0 +1,260 @@
+{
+  "courseId": "c-plus-plus-programming-da51a8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:35.940Z",
+  "title": "C++ Programming",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "s0g4ty29Xgg",
+      "title": "Introduction to C++ Programming",
+      "duration": 632
+    },
+    {
+      "id": "imNlJohlLPk",
+      "title": "Writing a Simple C++ Program",
+      "duration": 659
+    },
+    {
+      "id": "cnMziyeusQk",
+      "title": "Installing Source Code Editor and Compiler",
+      "duration": 875
+    },
+    {
+      "id": "BdnpFbODLc0",
+      "title": "Compiling & Executing C++ Programs (Windows CMD)",
+      "duration": 738
+    },
+    {
+      "id": "m2FtsEvlmCA",
+      "title": "Compiling & Executing C++ Programs (VS Code)",
+      "duration": 822
+    },
+    {
+      "id": "1Wrc91mp980",
+      "title": "Input and Output in C++",
+      "duration": 1089
+    },
+    {
+      "id": "ZZWTh142s4w",
+      "title": "Namespaces in C++",
+      "duration": 757
+    },
+    {
+      "id": "1-OKPH1y4EA",
+      "title": "Comments in C++",
+      "duration": 702
+    },
+    {
+      "id": "O4gH4OWEaKU",
+      "title": "Comments in C++ (Exercise)",
+      "duration": 619
+    },
+    {
+      "id": "iF4i423144E",
+      "title": "The 'while' Statement in C++",
+      "duration": 918
+    },
+    {
+      "id": "yS8DUrQy_ow",
+      "title": "The 'for' Statement in C++",
+      "duration": 709
+    },
+    {
+      "id": "h44PrRlG8p4",
+      "title": "Reading an Unknown Number of Inputs in C++",
+      "duration": 779
+    },
+    {
+      "id": "9-BjXs1vMSc",
+      "title": "The 'if-else' Statement in C++",
+      "duration": 619
+    },
+    {
+      "id": "cec5DV42wjI",
+      "title": "The 'else-if' Statement in C++",
+      "duration": 688
+    },
+    {
+      "id": "a5TPJXyFu4c",
+      "title": "C++ Program to Count Number of Consecutive Inputs",
+      "duration": 741
+    },
+    {
+      "id": "ruwWpt_fMSs",
+      "title": "Indentation and Formatting of C++ Programs",
+      "duration": 724
+    },
+    {
+      "id": "fXakvKtBd-M",
+      "title": "Primitive Built-in Types in C++",
+      "duration": 897
+    },
+    {
+      "id": "ycd0w28-4Uk",
+      "title": "Signed and Unsigned Types in C++",
+      "duration": 886
+    },
+    {
+      "id": "PP4_f-cXoOg",
+      "title": "Machine-Level Representation of Built-in Types in C++",
+      "duration": 846
+    },
+    {
+      "id": "uI10H1jzw00",
+      "title": "Type Conversions in C++",
+      "duration": 904
+    },
+    {
+      "id": "g1ntDgsLFAY",
+      "title": "Literals in C++",
+      "duration": 920
+    },
+    {
+      "id": "zpQ3PPM2SdI",
+      "title": "Escape Sequences in C++",
+      "duration": 733
+    },
+    {
+      "id": "fZbSl58orNs",
+      "title": "Variables in C++",
+      "duration": 692
+    },
+    {
+      "id": "_80lLRCKgGo",
+      "title": "Identifiers in C++",
+      "duration": 680
+    },
+    {
+      "id": "H5nsqGPRkmU",
+      "title": "Scope of a Name in C++",
+      "duration": 1005
+    },
+    {
+      "id": "kecbsrH3m2s",
+      "title": "Nested Scopes in C++",
+      "duration": 666
+    },
+    {
+      "id": "GIQkZfBtb9Y",
+      "title": "Compound Types in C++ (References)",
+      "duration": 1166
+    },
+    {
+      "id": "o-ET7t9MgJI",
+      "title": "Compound Types in C++ (Pointers)",
+      "duration": 1197
+    },
+    {
+      "id": "ruNFTpEebrU",
+      "title": "const Qualifier in C++",
+      "duration": 718
+    },
+    {
+      "id": "-dDxZwyLX7A",
+      "title": "References to const in C++",
+      "duration": 793
+    },
+    {
+      "id": "Xtq6JXfFwgc",
+      "title": "Pointers and const in C++",
+      "duration": 958
+    },
+    {
+      "id": "UGYotTNzgUA",
+      "title": "Top-Level and Low-Level const in C++",
+      "duration": 1168
+    },
+    {
+      "id": "UfG7QlEMNsE",
+      "title": "Constant Expressions",
+      "duration": 710
+    },
+    {
+      "id": "djEp-dGuDLo",
+      "title": "Pointers and constexpr in C++",
+      "duration": 654
+    },
+    {
+      "id": "6ieRHv3XgeY",
+      "title": "Type Aliases in C++",
+      "duration": 508
+    },
+    {
+      "id": "odK0oeZBnVc",
+      "title": "Pointers, const, and Type Aliases in C++",
+      "duration": 512
+    },
+    {
+      "id": "n_Bc1Fb0y78",
+      "title": "The auto Type Specifier in C++",
+      "duration": 503
+    },
+    {
+      "id": "OVhwGJUKoxs",
+      "title": "The decltype Type Specifier in C++",
+      "duration": 548
+    },
+    {
+      "id": "OavjyHbxAok",
+      "title": "decltype and References in C++",
+      "duration": 671
+    },
+    {
+      "id": "04-dOWYTi-0",
+      "title": "The string Data Type in C++",
+      "duration": 634
+    },
+    {
+      "id": "JkbbzIZpBD4",
+      "title": "Operations on Strings (Part 1)",
+      "duration": 685
+    },
+    {
+      "id": "gB6w_iu8Quk",
+      "title": "Operations on Strings (Part 2)",
+      "duration": 765
+    },
+    {
+      "id": "k6nU0WmA-vY",
+      "title": "Operations on Strings (Part 3)",
+      "duration": 519
+    },
+    {
+      "id": "sb0EE68Yk0I",
+      "title": "Dealing with Characters in a String",
+      "duration": 410
+    },
+    {
+      "id": "IEiiR5xUauI",
+      "title": "Processing Every Character in a String",
+      "duration": 620
+    },
+    {
+      "id": "Rg6Q5MnYbRc",
+      "title": "Processing Some Characters in a String",
+      "duration": 842
+    },
+    {
+      "id": "H1cK1QXw6Zs",
+      "title": "The Vector Type in C++",
+      "duration": 393
+    },
+    {
+      "id": "CoETsc36Q5U",
+      "title": "Defining and Initializing Vectors in C++",
+      "duration": 839
+    },
+    {
+      "id": "8MWMDFA2QQc",
+      "title": "Adding Elements to a Vector in C++",
+      "duration": 529
+    },
+    {
+      "id": "Mhj-JkEHQ4E",
+      "title": "Some more Vector Operations in C++",
+      "duration": 704
+    }
+  ]
+}

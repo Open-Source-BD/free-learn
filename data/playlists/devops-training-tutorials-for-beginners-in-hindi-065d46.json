@@ -1,0 +1,85 @@
+{
+  "courseId": "devops-training-tutorials-for-beginners-in-hindi-065d46",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:21.970Z",
+  "title": "DevOps Training Tutorials For Beginners in Hindi",
+  "channel": "Linux Wale Guruji",
+  "videos": [
+    {
+      "id": "hVeLIPaqHrk",
+      "title": "DevOps Carrier Guidance ||  DevOps Profile RoadMap || Devops Track Part-1 ||DevOps Training in Hindi",
+      "duration": 734
+    },
+    {
+      "id": "UWsQiiQFEeY",
+      "title": "DevOps Carrier Guidance Part-2 || DevOps RoadMap-2 ||Define About DevOps Profiles || DevOps Training",
+      "duration": 704
+    },
+    {
+      "id": "kFF1WDsknRQ",
+      "title": "Lecture-0 Kubernetes Full Course Content Explain in Details || CKA Course Content and Certification",
+      "duration": 470
+    },
+    {
+      "id": "YFC5yj3XEC0",
+      "title": "Difference between Stateless and Stateful Application ?",
+      "duration": 739
+    },
+    {
+      "id": "3jmN6v3Nytk",
+      "title": "How we can start learning Ansible Automation Platform - A Complete Roadmap",
+      "duration": 1679
+    },
+    {
+      "id": "6zS5-wns5M8",
+      "title": "How DevOps Tools Work Together: From Development to Production | CI/CD Latest Online Batch",
+      "duration": 5283
+    },
+    {
+      "id": "14g6GZQtpzA",
+      "title": "Understanding Containers & How They Work on OpenShift Technology | Red Hat OpenShift Live Class",
+      "duration": 5669
+    },
+    {
+      "id": "HFopnLopeLI",
+      "title": "Building Container Fundamentals through Podman & Kubernetes in Red Hat OpenShift | DO280 Day-02",
+      "duration": 5696
+    },
+    {
+      "id": "vjNDU38EDys",
+      "title": "Docker & Containerization Architecture Explained | DevOps Engineering  Latest Live Classes",
+      "duration": 2413
+    },
+    {
+      "id": "0W6bArzzJYI",
+      "title": "VMware Virtualization Explained: From Fundamentals to Cloud Infrastructure | VCP-DCV Training",
+      "duration": 11028
+    },
+    {
+      "id": "-hqD-MpAWYk",
+      "title": "Learn Terraform with AWS and Understand How It Works in DevOps Tools | Terraform Live Classes",
+      "duration": 4758
+    },
+    {
+      "id": "z_A5yh8hqSc",
+      "title": "Microsoft Azure Cloud Infrastructure: Core Concepts & Fundamentals | Azure Live Classes",
+      "duration": 6907
+    },
+    {
+      "id": "C22wP4GTEho",
+      "title": "How to Get Started with Google Cloud & Prepare for Your GCP ACE Journey | GCP Live Classes",
+      "duration": 3150
+    },
+    {
+      "id": "vGpcZSFWxyA",
+      "title": "Understanding OpenShift Virtualization and KubeVirt: How Virtual Machines Run on Kubernetes | Day 2",
+      "duration": 5201
+    },
+    {
+      "id": "U-InMtkUUlE",
+      "title": "Learn How Istio Manages Microservices Communication, Kubernetes Traffic & Application Resilience",
+      "duration": 4416
+    }
+  ]
+}

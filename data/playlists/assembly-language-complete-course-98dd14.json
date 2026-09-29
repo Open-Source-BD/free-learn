@@ -1,0 +1,90 @@
+{
+  "courseId": "assembly-language-complete-course-98dd14",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMa5a9Dh6SlhJq4wCH_CLSdfRaAbuJTzb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:44.075Z",
+  "title": "Assembly Language complete course",
+  "channel": "Digital Infinite",
+  "videos": [
+    {
+      "id": "84k99MX5R28",
+      "title": "Introduction to Assembly Course | Assembly Language Programming Tutorial in MASM Part 1/16",
+      "duration": 139
+    },
+    {
+      "id": "-IJA4lIeLcc",
+      "title": "Install Masm and Dosbox  | MASM Installation | how to install masm in windows 10  Part 2/16",
+      "duration": 585
+    },
+    {
+      "id": "wARM-W3Xlxs",
+      "title": "Types of Registers In Assembly Language | Assembly Language Programming Tutorial in MASM Part 3/16",
+      "duration": 586
+    },
+    {
+      "id": "IKfINHS8p8Y",
+      "title": "Sections Of The Assembly Program | first assembly program | | Assembly Language in MASM Part 4/16",
+      "duration": 788
+    },
+    {
+      "id": "XEx3Up_aMmg",
+      "title": "Mov Instructions in Assembly Language | mov instruction example| Assembly Language course Part 5/16",
+      "duration": 1267
+    },
+    {
+      "id": "fkRUymaBSDw",
+      "title": "Add numbers in assembly language | Assembly Language Programming Tutorial in MASM Part 6/16",
+      "duration": 513
+    },
+    {
+      "id": "y8BaZ8xB5ig",
+      "title": "Addition of two numbers in assembly language | Assembly Language Programming Tutorial Part 7/16",
+      "duration": 755
+    },
+    {
+      "id": "OFTcNk6SXXw",
+      "title": "Capital To Small letter program in Assembly Language Programming Tutorial in MASM Part 8/16",
+      "duration": 692
+    },
+    {
+      "id": "ZovgW2_XQ-U",
+      "title": "Loop In Assembly Language | Assembly Language Programming Tutorial in MASM Part 9/16",
+      "duration": 613
+    },
+    {
+      "id": "fNeV2q0T0Sc",
+      "title": "Print Ascci Table in assembly language Using Loop | Loop program in assembly Part 10/16",
+      "duration": 489
+    },
+    {
+      "id": "toHI6ntqjo8",
+      "title": "Jump condition in assembly language | Jump Program in assembly language course Part 11/16",
+      "duration": 747
+    },
+    {
+      "id": "VgKovoEoElQ",
+      "title": "Arrays in assembly language | Adding array elements in assembly language course Part 12/16",
+      "duration": 1179
+    },
+    {
+      "id": "CTY7aFGV0D8",
+      "title": "Procedure And Macros In Assembly Program | How to make procedure in assembly language Part 13/16",
+      "duration": 495
+    },
+    {
+      "id": "ZAYCYrXchQQ",
+      "title": "How to copy one array to another in Assembly Language | Strings in assembly language Part 14/16",
+      "duration": 762
+    },
+    {
+      "id": "dgnzvcU0rjU",
+      "title": "Search in assembly language | Search a character in assembly | Search Program in assembly Part 15/16",
+      "duration": 737
+    },
+    {
+      "id": "3iDzuokWu3k",
+      "title": "String comparison in assembly | How to compare two strings in assembly Part 16/16",
+      "duration": 910
+    }
+  ]
+}

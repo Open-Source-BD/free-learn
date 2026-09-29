@@ -1,0 +1,140 @@
+{
+  "courseId": "cmu-intro-to-database-systems-84d536",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:02.352Z",
+  "title": "CMU Intro to Database Systems (15-445/645 - Fall 2022)",
+  "channel": "CMU Database Group",
+  "videos": [
+    {
+      "id": "uikbtpVZS2s",
+      "title": "01 - Relational Model & Relational Algebra (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4779
+    },
+    {
+      "id": "II5qNuxfSoo",
+      "title": "02 - Modern SQL (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5254
+    },
+    {
+      "id": "df-l2PxUidI",
+      "title": "03 - Database Storage 1 (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5008
+    },
+    {
+      "id": "2HtfGdsrwqA",
+      "title": "04 - Database Storage 2 (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4461
+    },
+    {
+      "id": "q4W5r3GR0OU",
+      "title": "05 - Columnar Databases & Compression (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4950
+    },
+    {
+      "id": "Y9H2HaRKOIw",
+      "title": "06 - Memory Management + Buffer Cache (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4841
+    },
+    {
+      "id": "9yUlSabzVwQ",
+      "title": "07 - Hash Tables (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4986
+    },
+    {
+      "id": "9QPr8Ufzt5M",
+      "title": "08 - B+Tree Indexes (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4967
+    },
+    {
+      "id": "5KClozM1jjw",
+      "title": "09 - Concurrent Indexes (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4925
+    },
+    {
+      "id": "CMzf9Az1vl4",
+      "title": "10 - Sorting & Aggregation Algorithms (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4583
+    },
+    {
+      "id": "yFk_GfaY2Hk",
+      "title": "11 - Join Algorithms (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5042
+    },
+    {
+      "id": "I0QdCSu06_o",
+      "title": "12 - Query Execution 1 (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4900
+    },
+    {
+      "id": "FG_wr-0QYg4",
+      "title": "13 - Parallel Query Execution (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 3860
+    },
+    {
+      "id": "2c8YwZhXJEw",
+      "title": "14 - Query Planning & Optimization (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4992
+    },
+    {
+      "id": "W5FFiI5ALTc",
+      "title": "15 - Concurrency Control Theory (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5059
+    },
+    {
+      "id": "-818Ch1F6tI",
+      "title": "16 - Two-Phase Locking in Databases (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4920
+    },
+    {
+      "id": "am_GBPToN5w",
+      "title": "17 - Timestamp-Ordering Concurrency Control (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4847
+    },
+    {
+      "id": "ht8Tx6DWn_E",
+      "title": "18 - Multi-Version Concurrency Control MVCC (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4736
+    },
+    {
+      "id": "5blTGTwKZPI",
+      "title": "19 - Database Logging & Shadow Paging (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4940
+    },
+    {
+      "id": "xoZmZGKxRYM",
+      "title": "20 - Database Recovery with ARIES (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5066
+    },
+    {
+      "id": "BUOSup1APPw",
+      "title": "21 - Introduction to Distributed Databases (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4518
+    },
+    {
+      "id": "yu2TZF7S1Mg",
+      "title": "22 - Distributed Transactional Database Systems (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4987
+    },
+    {
+      "id": "qdLXIWIUI6E",
+      "title": "23 - Distributed Analytical Database Systems (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4881
+    },
+    {
+      "id": "mf-YS1ZDQxw",
+      "title": "24 - Embedded Database Logic (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 5170
+    },
+    {
+      "id": "xnuv6vr8USE",
+      "title": "25 - Snowflake Database Architecture Overview (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4613
+    },
+    {
+      "id": "MxOKUt6LeeU",
+      "title": "26 - Live Call-in Q&A Lecture (CMU Intro to Database Systems / Fall 2022)",
+      "duration": 4756
+    }
+  ]
+}

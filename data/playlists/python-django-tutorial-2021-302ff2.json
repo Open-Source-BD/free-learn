@@ -1,0 +1,30 @@
+{
+  "courseId": "python-django-tutorial-2021-302ff2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:36.535Z",
+  "title": "Python Django 2021 Course Sessions",
+  "channel": "Dennis Ivy",
+  "videos": [
+    {
+      "id": "-qUoCBExAvY",
+      "title": "Django 2021 Course Session #1 | Views, URLs &  Templates",
+      "duration": 5300
+    },
+    {
+      "id": "2fPppUQrI_Y",
+      "title": "Django 2021 Course Session #2 | Admin Panel, Models & Database Queries",
+      "duration": 6088
+    },
+    {
+      "id": "nBiNPlgKoBI",
+      "title": "Django 2021 Course Session #3 | Models Forms & CRUD",
+      "duration": 2713
+    },
+    {
+      "id": "kOBFiuJh5K8",
+      "title": "Django 2021 Course Session #4 | Static Files & Theme Installation",
+      "duration": 5563
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "courseId": "webpack-5-ff216d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:10.910Z",
+  "title": "Webpack 5",
+  "channel": "Swashbuckling with Code",
+  "videos": [
+    {
+      "id": "X1nxTjVDYdQ",
+      "title": "Creating and Understanding a Basic Webpack 5 Setup",
+      "duration": 2509
+    },
+    {
+      "id": "SH6Y_MQzFVw",
+      "title": "Webpack 5 CSS Walkthrough: Sass, PostCSS and more!",
+      "duration": 2246
+    },
+    {
+      "id": "YXtQms2msZQ",
+      "title": "How to get polyfills with Babel 7 and Webpack",
+      "duration": 1557
+    },
+    {
+      "id": "oAgHZ9zlmaY",
+      "title": "Know your Webpack bundle better with visualization",
+      "duration": 2157
+    },
+    {
+      "id": "4lpmVZdj12g",
+      "title": "Webpack 5 and Typescript Project Setup Walkthrough",
+      "duration": 1396
+    },
+    {
+      "id": "TOb1c39m64A",
+      "title": "Webpack 5 Full Project Setup",
+      "duration": 7140
+    },
+    {
+      "id": "lNkVndKCum8",
+      "title": "Solution for Webpack 5 Dev Server Not Live Reloading",
+      "duration": 410
+    },
+    {
+      "id": "t9okUDkRUDc",
+      "title": "Windows development: Fixing the \"NODE_ENV is not recognized...\" error",
+      "duration": 206
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "courseId": "react-context-hooks-tutorial-fc6dd6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:53.684Z",
+  "title": "React Context & Hooks Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "6RhOzQciVwI",
+      "title": "React Context & Hooks Tutorial #1 - Introduction",
+      "duration": 711
+    },
+    {
+      "id": "XkBB3pPY3t8",
+      "title": "React Context & Hooks Tutorial #2 - What is the Context API?",
+      "duration": 320
+    },
+    {
+      "id": "CGRpfIUURE0",
+      "title": "React Context & Hooks Tutorial #3 - Adding a Context & Provider",
+      "duration": 533
+    },
+    {
+      "id": "WkBXRQfpifc",
+      "title": "React Context & Hooks Tutorial #4 - Accessing Context (part 1)",
+      "duration": 544
+    },
+    {
+      "id": "1bsvh_0HRwA",
+      "title": "React Context & Hooks Tutorial #5 - Accessing Context (part 2)",
+      "duration": 225
+    },
+    {
+      "id": "bJXAHHpyVes",
+      "title": "React Context & Hooks Tutorial #6 - Updating Context Data",
+      "duration": 307
+    },
+    {
+      "id": "Yps_QrUvluQ",
+      "title": "React Context & Hooks Tutorial #7 - Creating Multiple Contexts",
+      "duration": 341
+    },
+    {
+      "id": "hLFl4Io0mww",
+      "title": "React Context & Hooks Tutorial #8 - Consuming Multiple Contexts",
+      "duration": 331
+    },
+    {
+      "id": "JgYRBCRHfHE",
+      "title": "React Context & Hooks Tutorial #9 - Intro to Hooks",
+      "duration": 305
+    },
+    {
+      "id": "i3n1bkrkUww",
+      "title": "React Context & Hooks Tutorial #10 - useState Hook",
+      "duration": 542
+    },
+    {
+      "id": "R7T5GQLxRD4",
+      "title": "React Context & Hooks Tutorial #11 - useState with Forms",
+      "duration": 495
+    },
+    {
+      "id": "rDVe6pmeAjo",
+      "title": "React Context & Hooks Tutorial #12 - useEffect Hook",
+      "duration": 445
+    },
+    {
+      "id": "7LIGIN6_R_s",
+      "title": "React Context & Hooks Tutorial #13 - Hooks with Context",
+      "duration": 292
+    },
+    {
+      "id": "54i4-03cMnE",
+      "title": "React Context & Hooks Tutorial #14 - Multiple Contexts using Hooks",
+      "duration": 337
+    },
+    {
+      "id": "GS6aVjHxcgM",
+      "title": "React Context & Hooks Tutorial #15 - Creating Context with Functional Components",
+      "duration": 351
+    },
+    {
+      "id": "v1s_rbZbqQI",
+      "title": "React Context & Hooks Tutorial #16 - Reading List Project (part 1)",
+      "duration": 699
+    },
+    {
+      "id": "TiPMmgp9vcc",
+      "title": "React Context & Hooks Tutorial #17 - Reading List App (part 2)",
+      "duration": 586
+    },
+    {
+      "id": "1I-vfkOVAXU",
+      "title": "React Context & Hooks Tutorial #18 - Reading List App (part 3)",
+      "duration": 461
+    },
+    {
+      "id": "uXWycyeTeCs",
+      "title": "React Context & Hooks Tutorial #19 - Reducers, Actions & State",
+      "duration": 575
+    },
+    {
+      "id": "zIOWnK5RcOU",
+      "title": "React Context & Hooks Tutorial #20 - Adding a Reducer",
+      "duration": 540
+    },
+    {
+      "id": "SOnMln3W0U8",
+      "title": "React Context & Hooks Tutorial #21 - Adding Local Storage",
+      "duration": 640
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "courseId": "cryptography-network-security-c4f9a0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:10.333Z",
+  "title": "Cryptography & Network Security",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "JoeiLuFNBc4",
+      "title": "Introduction to Cryptography and Network Security",
+      "duration": 617
+    },
+    {
+      "id": "gx0vlRpdFnc",
+      "title": "CIA Triad",
+      "duration": 968
+    },
+    {
+      "id": "UG26SS9pjwE",
+      "title": "The OSI Security Architecture",
+      "duration": 521
+    },
+    {
+      "id": "yIm0Ol9Dg4Y",
+      "title": "Security Attacks",
+      "duration": 954
+    },
+    {
+      "id": "bRgL_Dry7uw",
+      "title": "Security Services",
+      "duration": 536
+    },
+    {
+      "id": "H5ifNVeDXkg",
+      "title": "Security Mechanisms",
+      "duration": 719
+    },
+    {
+      "id": "zd0U1zNBYNk",
+      "title": "Network Security Model",
+      "duration": 707
+    },
+    {
+      "id": "6_Cxj5WKpIw",
+      "title": "Cryptography",
+      "duration": 814
+    },
+    {
+      "id": "Xb4_VT4y9kQ",
+      "title": "Cryptography – Key Terms",
+      "duration": 579
+    },
+    {
+      "id": "Kejs-saINOo",
+      "title": "Cryptanalysis",
+      "duration": 692
+    },
+    {
+      "id": "DoBqnt7Bf24",
+      "title": "Brute Force Attack",
+      "duration": 526
+    },
+    {
+      "id": "UJiLgUtddlM",
+      "title": "Classical Encryption Techniques",
+      "duration": 512
+    },
+    {
+      "id": "JtbKh_12ctg",
+      "title": "Caesar Cipher (Part 1)",
+      "duration": 803
+    },
+    {
+      "id": "na5rapg1XsI",
+      "title": "Caesar Cipher (Part 2)",
+      "duration": 585
+    },
+    {
+      "id": "J-utjSeUq_c",
+      "title": "Monoalphabetic Cipher",
+      "duration": 959
+    },
+    {
+      "id": "UURjVI5cw4g",
+      "title": "Playfair Cipher (Part 1)",
+      "duration": 769
+    },
+    {
+      "id": "whEJfas9MAI",
+      "title": "Playfair Cipher (Part 2)",
+      "duration": 686
+    },
+    {
+      "id": "hHsUJxikM3g",
+      "title": "Playfair Cipher (Solved Question)",
+      "duration": 730
+    },
+    {
+      "id": "-EQ8UomTrAQ",
+      "title": "Hill Cipher (Encryption)",
+      "duration": 1059
+    },
+    {
+      "id": "JK3ur6W4rvw",
+      "title": "Hill Cipher (Decryption)",
+      "duration": 1803
+    },
+    {
+      "id": "Ic4BzVggNY8",
+      "title": "Polyalphabetic Cipher (Vigenère Cipher)",
+      "duration": 836
+    },
+    {
+      "id": "Qojvtgf7SQw",
+      "title": "Polyalphabetic Cipher (Vernam Cipher)",
+      "duration": 475
+    },
+    {
+      "id": "6iYqHn3q8sY",
+      "title": "One Time Pad",
+      "duration": 458
+    },
+    {
+      "id": "knE4G8DGLoY",
+      "title": "Rail Fence Technique",
+      "duration": 406
+    },
+    {
+      "id": "cPQXaYUMOjQ",
+      "title": "Row Column Transposition Ciphering Technique",
+      "duration": 495
+    },
+    {
+      "id": "Te8Cao2Smsk",
+      "title": "Steganography",
+      "duration": 400
+    },
+    {
+      "id": "yNo58UiIMKU",
+      "title": "LSB Steganography - Demo",
+      "duration": 778
+    },
+    {
+      "id": "3rT09fUVick",
+      "title": "Cryptography (Solved Questions)",
+      "duration": 652
+    },
+    {
+      "id": "5PY2RvI_JnA",
+      "title": "Abstract Algebra and Number Theory",
+      "duration": 482
+    },
+    {
+      "id": "5J3l894CiMI",
+      "title": "Prime Numbers in Cryptography",
+      "duration": 620
+    },
+    {
+      "id": "M42uDLGRSpI",
+      "title": "Modular Arithmetic (Part 1)",
+      "duration": 657
+    },
+    {
+      "id": "P7P03gg3msE",
+      "title": "Modular Arithmetic (Part 2)",
+      "duration": 699
+    },
+    {
+      "id": "_gYUlvcnjs0",
+      "title": "Modular Exponentiation (Part 1)",
+      "duration": 620
+    },
+    {
+      "id": "bg0P_3UiG5I",
+      "title": "Modular Exponentiation (Part 2)",
+      "duration": 1178
+    },
+    {
+      "id": "yHwneN6zJmU",
+      "title": "GCD - Euclidean Algorithm (Method 1)",
+      "duration": 878
+    },
+    {
+      "id": "svBx8u5bMEg",
+      "title": "GCD - Euclidean Algorithm (Method 2)",
+      "duration": 600
+    },
+    {
+      "id": "csIL-mWTQss",
+      "title": "Relatively Prime (Co-Prime) Numbers",
+      "duration": 586
+    },
+    {
+      "id": "DwQ7-k9LkJ4",
+      "title": "Euler’s Totient Function (Phi Function)",
+      "duration": 520
+    },
+    {
+      "id": "osge0_lZTaY",
+      "title": "Euler’s Totient Function (Solved Examples)",
+      "duration": 773
+    },
+    {
+      "id": "3Cb0ys-jppU",
+      "title": "Fermat's Little Theorem",
+      "duration": 451
+    },
+    {
+      "id": "DyOv20d4c70",
+      "title": "Euler's Theorem",
+      "duration": 494
+    },
+    {
+      "id": "DKy98FWHwdg",
+      "title": "Primitive Roots",
+      "duration": 557
+    },
+    {
+      "id": "YwaQ4m1eHQo",
+      "title": "Multiplicative Inverse",
+      "duration": 603
+    },
+    {
+      "id": "lq285DDdmtw",
+      "title": "Extended Euclidean Algorithm (Solved Example 1)",
+      "duration": 616
+    },
+    {
+      "id": "6AUkmf1BYJ0",
+      "title": "Extended Euclidean Algorithm (Solved Example 2)",
+      "duration": 343
+    },
+    {
+      "id": "0cUV_x0do2c",
+      "title": "Extended Euclidean Algorithm (Solved Example 3)",
+      "duration": 414
+    },
+    {
+      "id": "e8DtzQkjOMQ",
+      "title": "The Chinese Remainder Theorem (Solved Example 1)",
+      "duration": 862
+    },
+    {
+      "id": "zd1_iY0FSEo",
+      "title": "The Chinese Remainder Theorem (Solved Example 2)",
+      "duration": 726
+    },
+    {
+      "id": "za9azzh4v9A",
+      "title": "The Discrete Logarithm Problem",
+      "duration": 499
+    },
+    {
+      "id": "yKNTfeqSEhc",
+      "title": "The Discrete Logarithm Problem (Solved Example)",
+      "duration": 281
+    },
+    {
+      "id": "tKTNVmnW_4w",
+      "title": "Prime Factorization (Fermat's Factoring Method)",
+      "duration": 536
+    },
+    {
+      "id": "sDrXeCs3ghQ",
+      "title": "Testing for Primality (Fermat's Test)",
+      "duration": 503
+    },
+    {
+      "id": "8i0UnX7Snkc",
+      "title": "Testing for Primality (Miller-Rabin Test)",
+      "duration": 620
+    },
+    {
+      "id": "8TjYHK804mU",
+      "title": "Group and Abelian Group",
+      "duration": 644
+    },
+    {
+      "id": "OGCRccWi4OE",
+      "title": "Cyclic Group",
+      "duration": 747
+    },
+    {
+      "id": "oBL-Cb5GxA0",
+      "title": "Rings, Fields and Finite Fields",
+      "duration": 784
+    },
+    {
+      "id": "3adBPqIB4Tw",
+      "title": "Stream Cipher vs. Block Cipher",
+      "duration": 586
+    },
+    {
+      "id": "8l9xAvuGJFo",
+      "title": "Feistel Cipher Structure",
+      "duration": 853
+    },
+    {
+      "id": "j53iXhTSi_s",
+      "title": "Introduction to Data Encryption Standard (DES)",
+      "duration": 498
+    },
+    {
+      "id": "nynAQ593HdU",
+      "title": "Single Round of DES Algorithm",
+      "duration": 814
+    },
+    {
+      "id": "OePPcJR--F4",
+      "title": "The F Function of DES (Mangler Function)",
+      "duration": 629
+    },
+    {
+      "id": "S-vLA7d1ORI",
+      "title": "Key Scheduling and Decryption in DES",
+      "duration": 588
+    },
+    {
+      "id": "kF_h9gl-vyw",
+      "title": "Avalanche Effect and the Strength of DES",
+      "duration": 634
+    },
+    {
+      "id": "WQf43AKWBbY",
+      "title": "Data Encryption Standard (DES) - Solved Questions",
+      "duration": 423
+    },
+    {
+      "id": "3MPkc-PFSRI",
+      "title": "Introduction to Advanced Encryption Standard (AES)",
+      "duration": 667
+    },
+    {
+      "id": "4KiwoeDJFiA",
+      "title": "AES Encryption and Decryption",
+      "duration": 805
+    },
+    {
+      "id": "IpuvKyeCrvU",
+      "title": "AES Round Transformation",
+      "duration": 664
+    },
+    {
+      "id": "0RxLUf4fxs8",
+      "title": "AES Key Expansion",
+      "duration": 896
+    },
+    {
+      "id": "oQuBvLAKUM8",
+      "title": "AES Security and Implementation Aspects",
+      "duration": 534
+    },
+    {
+      "id": "4R_kocR1roM",
+      "title": "Multiple Encryption and Triple DES",
+      "duration": 1254
+    },
+    {
+      "id": "VmNk-6GTqRE",
+      "title": "Block Cipher Modes of Operation",
+      "duration": 419
+    },
+    {
+      "id": "jDnenb9EHQk",
+      "title": "Electronic Codebook (ECB)",
+      "duration": 690
+    },
+    {
+      "id": "nnQONZ_DRyk",
+      "title": "Cipher Block Chaining (CBC)",
+      "duration": 518
+    },
+    {
+      "id": "c_9MABuOVJI",
+      "title": "Cipher Feedback (CFB)",
+      "duration": 826
+    },
+    {
+      "id": "OGdBTfouuao",
+      "title": "Output Feedback (OFB)",
+      "duration": 604
+    },
+    {
+      "id": "zX0PZtqerCI",
+      "title": "Counter Mode (CTR)",
+      "duration": 545
+    },
+    {
+      "id": "tVmEFI_R4bA",
+      "title": "Block Cipher Modes of Operation (Solved Question)",
+      "duration": 417
+    },
+    {
+      "id": "q2XVhTWJ-Oo",
+      "title": "Pseudorandom Number Generator (PRNG)",
+      "duration": 697
+    },
+    {
+      "id": "6agTBs3c89o",
+      "title": "Golomb’s Randomness Postulates",
+      "duration": 863
+    },
+    {
+      "id": "LaZ3It6pbWE",
+      "title": "Public Key Cryptography | Chapter-4 | Cryptography & Network Security | nesoacademy.org",
+      "duration": 100
+    },
+    {
+      "id": "8dWQvVphDKQ",
+      "title": "Hash Functions & Digital Signatures | Chapter-5 | Cryptography & Network Security | nesoacademy.org",
+      "duration": 65
+    },
+    {
+      "id": "iZZu7Sp1RPA",
+      "title": "System Practices & System Security | Chapter-6 | Cryptography & Network Security | nesoacademy.org",
+      "duration": 100
+    },
+    {
+      "id": "n4Odg8HUZTo",
+      "title": "Web, Email, & IP Security | Chapter-7 | Cryptography & Network Security | nesoacademy.org",
+      "duration": 89
+    }
+  ]
+}

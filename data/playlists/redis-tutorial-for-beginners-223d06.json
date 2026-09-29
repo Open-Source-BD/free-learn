@@ -1,0 +1,85 @@
+{
+  "courseId": "redis-tutorial-for-beginners-223d06",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:25.216Z",
+  "title": "Redis Tutorial for Beginners",
+  "channel": "ProgrammingKnowledge",
+  "videos": [
+    {
+      "id": "64VG179N4no",
+      "title": "Redis Tutorial for Beginners 1 - Introduction",
+      "duration": 265
+    },
+    {
+      "id": "pdkmHa9n2SI",
+      "title": "Redis Tutorial for Beginners 2 - How To Install Redis On Windows",
+      "duration": 887
+    },
+    {
+      "id": "r2zYjT4ILm0",
+      "title": "Redis Tutorial for Beginners 3 - How To Install Redis On Ubuntu Linux",
+      "duration": 764
+    },
+    {
+      "id": "A0Nlz-L9ezo",
+      "title": "Redis Tutorial for Beginners 4 - How To Install Redis On Mac OS X",
+      "duration": 698
+    },
+    {
+      "id": "2WQO3PvtAAw",
+      "title": "Redis Tutorial for Beginners 5 - Redis strings commands",
+      "duration": 517
+    },
+    {
+      "id": "M4Q4jUlhAYc",
+      "title": "Redis Tutorial for Beginners 6 - more commands (SETEX, SETNX, INCR, DECR, MSET...)",
+      "duration": 755
+    },
+    {
+      "id": "1IN0-SlmNxs",
+      "title": "Redis Tutorial for Beginners 7 - Redis Hashes",
+      "duration": 869
+    },
+    {
+      "id": "petG-Djk4NQ",
+      "title": "Redis Tutorial for Beginners 8 - Redis Lists",
+      "duration": 1011
+    },
+    {
+      "id": "88TbU8eTl2g",
+      "title": "Redis Tutorial for Beginners 9 - Redis Sets",
+      "duration": 789
+    },
+    {
+      "id": "1GRJJC33igU",
+      "title": "Redis Tutorial for Beginners 10 - Redis Sorted Sets",
+      "duration": 755
+    },
+    {
+      "id": "33N1mgiRYK0",
+      "title": "Redis Tutorial for Beginners 11 -  Redis Publish Subscribe",
+      "duration": 461
+    },
+    {
+      "id": "OCOWjTPu9DI",
+      "title": "Redis Crash Course | Redis Tutorial",
+      "duration": 7721
+    },
+    {
+      "id": "mXT3d3ZRVYs",
+      "title": "Top 7 Programming Languages To Learn | Best Programming Languages",
+      "duration": 626
+    },
+    {
+      "id": "Qu5gX2uOaL8",
+      "title": "Redis Tutorial for Beginners",
+      "duration": 7718
+    },
+    {
+      "id": "01ayoMa_19o",
+      "title": "Redis Tutorial for Beginners | Learn Redis in 90 minutes",
+      "duration": 5862
+    }
+  ]
+}

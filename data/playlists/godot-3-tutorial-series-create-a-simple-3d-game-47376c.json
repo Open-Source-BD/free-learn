@@ -1,0 +1,185 @@
+{
+  "courseId": "godot-3-tutorial-series-create-a-simple-3d-game-47376c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:46.525Z",
+  "title": "Godot 3 Tutorial Series",
+  "channel": "BornCG",
+  "videos": [
+    {
+      "id": "VeCrE-ge8xM",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 1 (Intro, Nodes & 3D Physics) #GodotEngine",
+      "duration": 2696
+    },
+    {
+      "id": "WpzI2ytz5MA",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 2 (Programming 101: Character Movement) #GodotEngine",
+      "duration": 3196
+    },
+    {
+      "id": "VWy4ErYd630",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 3 (Importing from Blender, Rolling & Keys) #GodotEngine",
+      "duration": 1870
+    },
+    {
+      "id": "j2wBsb-W3Ls",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 4 (Camera Follow, Lighting & Environment) #GodotEngine",
+      "duration": 1469
+    },
+    {
+      "id": "XMfiojwtuKo",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 5 (Texture Mapping, Painting Walls, AO) #GodotEngine",
+      "duration": 2302
+    },
+    {
+      "id": "S9EUIfjfgEY",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 6 (Menu Screens, Text, Buttons, Signals) #GodotEngine",
+      "duration": 1739
+    },
+    {
+      "id": "R_dQdKQyF_U",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 7 (Enemies, Animation, Collision, Game Over) #GodotEngine",
+      "duration": 2293
+    },
+    {
+      "id": "rS-PcTTiGtA",
+      "title": "Godot 3.1: Creating a Simple 3D Game: Part 8 (Collecting Coins, HUD, Counter, Timers) #GodotEngine",
+      "duration": 3365
+    },
+    {
+      "id": "HvPTSZl2WCc",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 1 #godotengine",
+      "duration": 1551
+    },
+    {
+      "id": "UdoSB8ONv_w",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 2 #godotengine",
+      "duration": 2814
+    },
+    {
+      "id": "TrX6WCu5VNc",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 3 (Jumping & Gravity) #godotengine",
+      "duration": 1583
+    },
+    {
+      "id": "oAb_Ju33fqU",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 4 (Poses, Walking, Flipping) #godotengine",
+      "duration": 1100
+    },
+    {
+      "id": "6i7CBU9MsvI",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 5 (TileMaps & TileSets) #godotengine",
+      "duration": 1170
+    },
+    {
+      "id": "z--IEsXl5zc",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 6 (Camera-Follow & Game Resolution) #godotengine",
+      "duration": 1216
+    },
+    {
+      "id": "16Ou7QxAA3U",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 7 (One-Way Platforms) #godotengine",
+      "duration": 1127
+    },
+    {
+      "id": "dC6G7Y9qRbQ",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 8 (Parallax Backgrounds) #godotengine",
+      "duration": 1733
+    },
+    {
+      "id": "DyykbWp-y0s",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 9 (Fall Zone, Area2Ds, Signals, Changing Scenes)",
+      "duration": 858
+    },
+    {
+      "id": "AyzMkCWaB1c",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 10 (Coins! + Collision Layers & Masks)",
+      "duration": 1773
+    },
+    {
+      "id": "PykL50_fz74",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 11 (Coin BOUNCE Animation! + Counting Coins to Win)",
+      "duration": 1758
+    },
+    {
+      "id": "XITNApxoIes",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 12 (Coin HUD, Custom Signals & Fixing Double-Collect)",
+      "duration": 2419
+    },
+    {
+      "id": "ROYG4widsXc",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 13 (Creating Enemies + RayCast2D's!)",
+      "duration": 3163
+    },
+    {
+      "id": "eyRNGKVbWm0",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 14 (Enemy Collisions, Getting Hurt, Enemy Colors!)",
+      "duration": 3565
+    },
+    {
+      "id": "YT4-Qw4VTsU",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 15 (Menu Screens, Buttons, Default Scene)",
+      "duration": 1905
+    },
+    {
+      "id": "DFWrMNMg_FA",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 16 (Sound Effects & Music!)",
+      "duration": 1302
+    },
+    {
+      "id": "eMGxxwOA-6g",
+      "title": "Godot 3.2: Let's Build a 2D Platformer!: Part 17 (Exporting to HTML 5 and itch.io!)",
+      "duration": 1534
+    },
+    {
+      "id": "A60dT7RJfO8",
+      "title": "Godot 3.2: Let's Build Memory! (Part 1) New Year's Special! 🥳",
+      "duration": 5579
+    },
+    {
+      "id": "sJ-icrkrM2s",
+      "title": "Godot 3.2: Let's Build Memory! (Part 2)",
+      "duration": 6496
+    },
+    {
+      "id": "HMvnMmwJ0sk",
+      "title": "Godot 3.4: Let's Build a 2D Platformer!: Part 18 (Running & Finite State Machines)",
+      "duration": 2991
+    },
+    {
+      "id": "WyOhERmD5NA",
+      "title": "Godot 3.4: Let's Build a 2D Platformer!: Part 19 (Shooting Bouncing Fireballs)",
+      "duration": 3720
+    },
+    {
+      "id": "CStyW2aTBSo",
+      "title": "Godot 3.4: Let's Build a 2D Platformer!: Part 20 (Wall Jumps!)",
+      "duration": 3146
+    },
+    {
+      "id": "YOO_Ifcza6I",
+      "title": "Godot 3.5: Let's Build a 2D Platformer!: Part 21 (Ladders & Trapdoors!)",
+      "duration": 5350
+    },
+    {
+      "id": "U7Y8zak-LrA",
+      "title": "Godot 3.5: Let's Build a 2D Platformer!: Part 22 (Hearts Counter, Lives, & Singletons)",
+      "duration": 2287
+    },
+    {
+      "id": "Xx-KyrDQQTs",
+      "title": "Godot 3.5: Let's Build a 2D Platformer!: Part 23 (Blinking & Getting Hurt)",
+      "duration": 1393
+    },
+    {
+      "id": "vULTXJz5Nm4",
+      "title": "Godot 3.5: Let's Build a 2D Platformer!: Part 24 (Jump on a Button to Reveal Blocks!)",
+      "duration": 3580
+    },
+    {
+      "id": "RIJeoJ8qi1w",
+      "title": "Godot 3.5: Let's Build a 2D Platformer!: Part 25 (Keys & Doors!)",
+      "duration": 5766
+    }
+  ]
+}

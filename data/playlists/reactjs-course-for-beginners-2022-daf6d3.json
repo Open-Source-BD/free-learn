@@ -1,0 +1,105 @@
+{
+  "courseId": "reactjs-course-for-beginners-2022-daf6d3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:11.264Z",
+  "title": "ReactJS Course For Beginners 2023",
+  "channel": "PedroTech",
+  "videos": [
+    {
+      "id": "U2Wltnv-doo",
+      "title": "ReactJS Course [1] - What is React? How to setup a React App?",
+      "duration": 1207
+    },
+    {
+      "id": "J0yxuHQhpJU",
+      "title": "ReactJS Course [2] - JSX, Components, Props...",
+      "duration": 1284
+    },
+    {
+      "id": "N6E9ZsiWUyQ",
+      "title": "ReactJS Course [3] - Ternary Operators, Lists in React, Css in React",
+      "duration": 1692
+    },
+    {
+      "id": "iBfr6eOcCMg",
+      "title": "ReactJS Course [4] - UseState Hook | States in React Tutorial",
+      "duration": 1642
+    },
+    {
+      "id": "omphzcP6wf4",
+      "title": "ReactJS Course [5] - CRUD In React | TodoList Tutorial",
+      "duration": 2478
+    },
+    {
+      "id": "yHdX4dCl5CY",
+      "title": "ReactJS Course [6] - Component Lifecycle | UseEffect Tutorial",
+      "duration": 1164
+    },
+    {
+      "id": "je3FTTunyp4",
+      "title": "ReactJS Course [7] - How To Fetch Data From an API in React",
+      "duration": 1820
+    },
+    {
+      "id": "ehvS1Hp90KU",
+      "title": "ReactJS Course [8] - React Router Dom | Routes in React",
+      "duration": 1038
+    },
+    {
+      "id": "FzBGqvxdxv0",
+      "title": "ReactJS Course [9] - UseContext Hook | State Management",
+      "duration": 1270
+    },
+    {
+      "id": "SYXvHXOJzwc",
+      "title": "ReactJS Course [10] - React-Query Tutorial | How to Properly Fetch Data in React",
+      "duration": 1340
+    },
+    {
+      "id": "wlltgs5jmZw",
+      "title": "ReactJS Course [11] - React-Hook-Form and YUP Tutorial | How to do Forms The Right Way",
+      "duration": 1724
+    },
+    {
+      "id": "aeMJfoGfWT4",
+      "title": "ReactJS Course [12] - Custom Hooks Tutorial",
+      "duration": 1374
+    },
+    {
+      "id": "DhmPNpWPNSg",
+      "title": "ReactJS Course [13] - Typescript | React Type Safety",
+      "duration": 1637
+    },
+    {
+      "id": "yZqBVLcWSn8",
+      "title": "ReactJS Course [14] - Redux Toolkit Tutorial",
+      "duration": 1827
+    },
+    {
+      "id": "jUBc7K9XCcU",
+      "title": "ReactJS Course [15] - Firebase Social Media Project (Part. 1) | Authentication",
+      "duration": 2322
+    },
+    {
+      "id": "qzea8B4uwbg",
+      "title": "ReactJS Course [16] - Firebase Social Media Project (Part. 2) | CRUD",
+      "duration": 2520
+    },
+    {
+      "id": "skstYc-K6ws",
+      "title": "ReactJS Course [17] - Firebase Social Media Project (Part. 3) | Like System",
+      "duration": 3437
+    },
+    {
+      "id": "nAgOUzr7LHk",
+      "title": "ReactJS Course [18] - Deploying A Firebase React App",
+      "duration": 786
+    },
+    {
+      "id": "f55qeKGgB_M",
+      "title": "React Course For Beginners - Learn React in 8 Hours",
+      "duration": 28508
+    }
+  ]
+}

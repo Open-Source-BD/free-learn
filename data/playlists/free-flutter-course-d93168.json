@@ -1,0 +1,275 @@
+{
+  "courseId": "free-flutter-course-d93168",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:12.836Z",
+  "title": "Free Flutter Course (Full Flutter Course for Beginners)",
+  "channel": "Vandad Nahavandipoor",
+  "videos": [
+    {
+      "id": "IfUjHNODRoM",
+      "title": "Intro - Free Flutter Course 💙",
+      "duration": 1890
+    },
+    {
+      "id": "9cTNabpKtCE",
+      "title": "Chapter 1 - Developer Accounts - Free Flutter Course 💙",
+      "duration": 2175
+    },
+    {
+      "id": "RAL2RW3sSY4",
+      "title": "Chapter 2 - Setup - Free Flutter Course 💙",
+      "duration": 2131
+    },
+    {
+      "id": "niAmg31m0aE",
+      "title": "Chapter 3 - Introduction to Dart - Free Flutter Course 💙",
+      "duration": 2804
+    },
+    {
+      "id": "6b_ydHCJ974",
+      "title": "Chapter 4 - Dart Control Statements and Collections - Free Flutter Course 💙",
+      "duration": 2719
+    },
+    {
+      "id": "llM3tcpaD5k",
+      "title": "Chapter 5 - Sound Null safety in Dart - Free Flutter Course 💙",
+      "duration": 2428
+    },
+    {
+      "id": "zlo8ZqpQ36k",
+      "title": "Chapter 6 - Dart Enumerations, Classes and Objects - Free Flutter Course 💙",
+      "duration": 3085
+    },
+    {
+      "id": "hnNJXOXiURo",
+      "title": "Chapter 7 - Advanced Dart - Free Flutter Course 💙",
+      "duration": 2525
+    },
+    {
+      "id": "wFn-m-OgKPU",
+      "title": "Chapter 8 - Project Setup - Free Flutter Course 💙",
+      "duration": 2869
+    },
+    {
+      "id": "dNgwveLMGlc",
+      "title": "Chapter 9 - iOS App Setup - Free Flutter Course 💙",
+      "duration": 4263
+    },
+    {
+      "id": "gOQeEXVa2Wo",
+      "title": "Chapter 10 - Android App Setup - Free Flutter Course 💙",
+      "duration": 1919
+    },
+    {
+      "id": "KDzkbcBNdVo",
+      "title": "Chapter 11 - Firebase Backend Setup - Free Flutter Course 💙",
+      "duration": 1789
+    },
+    {
+      "id": "C7gVB6-ixPI",
+      "title": "Chapter 12 - Basic Registration Screen - Free Flutter Course 💙",
+      "duration": 3814
+    },
+    {
+      "id": "1ngzX3a3N2w",
+      "title": "Chapter 13 - Login View - Free Flutter Course 💙",
+      "duration": 2897
+    },
+    {
+      "id": "HOh808ELdlI",
+      "title": "Chapter 14 - Separating App Initialization from Login and Register Screens - Free Flutter Course 💙",
+      "duration": 1598
+    },
+    {
+      "id": "rPL_pKNT-XI",
+      "title": "Chapter 15 - Setting up Git and GitHub - Free Flutter Course 💙",
+      "duration": 3047
+    },
+    {
+      "id": "68xDTVB36Hw",
+      "title": "Chapter 16 - Email Verification View - Free Flutter Course 💙",
+      "duration": 2052
+    },
+    {
+      "id": "xVIV0LTchFs",
+      "title": "Chapter 17 - Link Between Login and Register Views - Free Flutter Course 💙",
+      "duration": 1997
+    },
+    {
+      "id": "B0MSM0YHIXk",
+      "title": "Chapter 18 - Logout View - Free Flutter Course 💙",
+      "duration": 3346
+    },
+    {
+      "id": "o4YtKPMOEj0",
+      "title": "Chapter 19 - Go From Login to Notes View - Free Flutter Course 💙",
+      "duration": 1378
+    },
+    {
+      "id": "aVKtGrk5V7U",
+      "title": "Chapter 20 - Cleaning Up our Routes - Free Flutter Course 💙",
+      "duration": 874
+    },
+    {
+      "id": "nkiCyCzodW8",
+      "title": "Chapter 21 - Error Handling in Login View - Free Flutter Course 💙",
+      "duration": 1505
+    },
+    {
+      "id": "qtXQxtZvFFo",
+      "title": "Chapter 22 - Error Handling in Register View, Next Screen After Registration - Free Flutter Course 💙",
+      "duration": 1705
+    },
+    {
+      "id": "CXhHZ6SBkF4",
+      "title": "Chapter 23 - Confirming Identity Before Going to Main UI - Free Flutter Course 💙",
+      "duration": 456
+    },
+    {
+      "id": "D6OxB6w465M",
+      "title": "Chapter 24 - Auth Service - Free Flutter Course 💙",
+      "duration": 3781
+    },
+    {
+      "id": "TWVschYUU5U",
+      "title": "Chapter 25 - Migrating to Auth Service - Free Flutter Course 💙",
+      "duration": 2300
+    },
+    {
+      "id": "nbUAZfJIQec",
+      "title": "Chapter 26 - Unit Testing our AuthService - Free Flutter Course 💙",
+      "duration": 4201
+    },
+    {
+      "id": "IXNjoByIX5Y",
+      "title": "Chapter 27 - CRUD Local Storage - Free Flutter Course 💙",
+      "duration": 6436
+    },
+    {
+      "id": "yhd-7zXR2uY",
+      "title": "Chapter 28 - Working with Streams in Notes Service - Free Flutter Course 💙",
+      "duration": 2016
+    },
+    {
+      "id": "zbbq1RK4vrk",
+      "title": "Chapter 29 - Preparing Notes View to Read All Notes - Free Flutter Course 💙",
+      "duration": 2089
+    },
+    {
+      "id": "jGAyhxZHJR4",
+      "title": "Chapter 30 - Preparing to Create New Notes - Free Flutter Course 💙",
+      "duration": 1255
+    },
+    {
+      "id": "M0dWWXE1SVE",
+      "title": "Chapter 31 - Creating New Notes - Free Flutter Course 💙",
+      "duration": 2127
+    },
+    {
+      "id": "mXA0ve4S7Sk",
+      "title": "Chapter 32 - Displaying Notes in Notes View - Free Flutter Course 💙",
+      "duration": 1223
+    },
+    {
+      "id": "XVWE3mJxOZA",
+      "title": "Chapter 33 - Deleting Existing Notes in Notes View - Free Flutter Course 💙",
+      "duration": 2683
+    },
+    {
+      "id": "2OI4UDLVm1s",
+      "title": "Chapter 34 - Updating Existing Notes - Free Flutter Course 💙",
+      "duration": 2006
+    },
+    {
+      "id": "tW4DcAtHrZo",
+      "title": "Chapter 35 - Protecting NotesService with Current User - Free Flutter Course 💙",
+      "duration": 1592
+    },
+    {
+      "id": "nOACJPY8TSY",
+      "title": "Chapter 36 - Writing Notes to Cloud Firestore - Free Flutter Course 💙",
+      "duration": 4644
+    },
+    {
+      "id": "-35IgI8YcCo",
+      "title": "Chapter 37 - Migrating to our Firestore Service - Free Flutter Course 💙",
+      "duration": 1468
+    },
+    {
+      "id": "MnBphAjcRH0",
+      "title": "Chapter 38 - Sharing Notes - Free Flutter Course 💙",
+      "duration": 908
+    },
+    {
+      "id": "QYZL_RDB0B4",
+      "title": "Chapter 39 - Introduction to Bloc - Free Flutter Course 💙",
+      "duration": 2808
+    },
+    {
+      "id": "XiyipLGUcBk",
+      "title": "Chapter 40 - Converting our Auth Process to Bloc - Free Flutter Course 💙",
+      "duration": 4007
+    },
+    {
+      "id": "mpwCnmzwIfg",
+      "title": "Chapter 41 - Handling Auth Bloc Exceptions During Login - Free Flutter Course 💙",
+      "duration": 1288
+    },
+    {
+      "id": "-295pTuiADg",
+      "title": "Chapter 42 - Moving to Bloc for Routing and Dialogs - Free Flutter Course 💙",
+      "duration": 3939
+    },
+    {
+      "id": "piPI0_mHoFk",
+      "title": "Chapter 43 - Loading Screens - Free Flutter Course 💙",
+      "duration": 3009
+    },
+    {
+      "id": "NHAiPakiefA",
+      "title": "Chapter 44 - Final Touches Before App Release - Free Flutter Course 💙",
+      "duration": 3272
+    },
+    {
+      "id": "YxvEbb783T0",
+      "title": "Chapter 45 - App Icons and App Name - Free Flutter Course 💙",
+      "duration": 1412
+    },
+    {
+      "id": "YtnKCzfTd0I",
+      "title": "Chapter 46 - Splash Screen - Free Flutter Course 💙",
+      "duration": 3024
+    },
+    {
+      "id": "DSge2TP1dyc",
+      "title": "Chapter 47 - Sending our iOS app to App Store Connect - Free Flutter Course 💙",
+      "duration": 3526
+    },
+    {
+      "id": "nV1x5-vLPoY",
+      "title": "Chapter 48 - Releasing our iOS App - Free Flutter Course 💙",
+      "duration": 1488
+    },
+    {
+      "id": "7-OxsKmZ28k",
+      "title": "Chapter 49 - Fixing Firebase Security Rules and Resubmitting the iOS App - Free Flutter Course 💙",
+      "duration": 1776
+    },
+    {
+      "id": "8loXUWLBsF0",
+      "title": "Chapter 50 - Releasing our Android App - Free Flutter Course 💙",
+      "duration": 3912
+    },
+    {
+      "id": "EA5HH8Dmo8o",
+      "title": "Chapter 51 - Localization in Flutter - Free Flutter Course 💙",
+      "duration": 5919
+    },
+    {
+      "id": "yK_m344Mi-o",
+      "title": "Outro - Free Flutter Course 💙",
+      "duration": 325
+    }
+  ]
+}

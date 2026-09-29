@@ -1,0 +1,65 @@
+{
+  "courseId": "c-plus-plus-tutorial-9fdc5a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:48.735Z",
+  "title": "C++ Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "1rUH6a4pck8",
+      "title": "C++ Tutorial - 1: Introduction",
+      "duration": 672
+    },
+    {
+      "id": "iUIhpwxU9nQ",
+      "title": "C++ Tutorial - 2: C++ Program Structure",
+      "duration": 456
+    },
+    {
+      "id": "bCRF9xkOQ44",
+      "title": "C++ Tutorial - 3: Comments, Whitespace, Identifiers & More",
+      "duration": 593
+    },
+    {
+      "id": "gBLGkWZQYl8",
+      "title": "C++ Tutorial - 4: Newline in Output",
+      "duration": 207
+    },
+    {
+      "id": "ZwK68SW5_hA",
+      "title": "C++ Tutorial - 5: Data Types",
+      "duration": 361
+    },
+    {
+      "id": "v2RsKCb_GUU",
+      "title": "C++ Tutorial - 6: Scope of Variables",
+      "duration": 243
+    },
+    {
+      "id": "SYO6gqmdZAk",
+      "title": "C++ Tutorial - 7: Constants",
+      "duration": 326
+    },
+    {
+      "id": "VQyUVBodIDM",
+      "title": "C++ Tutorial - 8: Escape Sequences",
+      "duration": 183
+    },
+    {
+      "id": "n7EfA1swUMU",
+      "title": "C++ Tutorial - 9: Arithmetic Operators",
+      "duration": 149
+    },
+    {
+      "id": "uWcxJqxUdY8",
+      "title": "C++ Tutorial - 10: Logical Operators",
+      "duration": 175
+    },
+    {
+      "id": "PxTuorfxJTA",
+      "title": "'Third Degree' Interview With Gurmeet Ram Rahim Singh",
+      "duration": 769
+    }
+  ]
+}

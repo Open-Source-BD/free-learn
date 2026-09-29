@@ -1,0 +1,75 @@
+{
+  "courseId": "sliding-window-algorithm-face-to-face-interviews-221721",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:33.068Z",
+  "title": "Sliding Window Algorithm | Face to Face Interviews",
+  "channel": "Aditya Verma",
+  "videos": [
+    {
+      "id": "EHCGAZBbB88",
+      "title": "Sliding Window Introduction Identification And Types",
+      "duration": 1404
+    },
+    {
+      "id": "cQmopmHlchE",
+      "title": "Sliding Window Problems",
+      "duration": 277
+    },
+    {
+      "id": "KtpqeN0Goro",
+      "title": "Maximum Sum Subarray of size K | Sliding Window",
+      "duration": 1422
+    },
+    {
+      "id": "uUXXEgK2Jh8",
+      "title": "First Negative Number in every Window of Size K | Sliding Window",
+      "duration": 1937
+    },
+    {
+      "id": "MW4lJ8Y0xXk",
+      "title": "Count Occurrences Of Anagrams | Sliding Window",
+      "duration": 2396
+    },
+    {
+      "id": "xFJXtB5vSmM",
+      "title": "Maximum of all subarrays of size k | Sliding Window",
+      "duration": 2279
+    },
+    {
+      "id": "cyu_nuW5utA",
+      "title": "Variable Size Sliding Window | Largest Subarray of sum K | Part1",
+      "duration": 1505
+    },
+    {
+      "id": "TfQPoaRDeMQ",
+      "title": "Largest Subarray of sum K | Part2",
+      "duration": 1260
+    },
+    {
+      "id": "LV-BgyeH8yo",
+      "title": "Variable Size Sliding Window General Format",
+      "duration": 938
+    },
+    {
+      "id": "Lav6St0W_pQ",
+      "title": "Longest Substring With K Unique Characters | Variable Size Sliding Window",
+      "duration": 1808
+    },
+    {
+      "id": "L6cffskouPQ",
+      "title": "Longest Substring With Without Repeating Characters | Variable Size Sliding Window",
+      "duration": 1685
+    },
+    {
+      "id": "seOKHXB_w74",
+      "title": "Pick Toys |  An Interesting Sliding Window Problem",
+      "duration": 1417
+    },
+    {
+      "id": "iwv1llyN6mo",
+      "title": "Minimum Window Substring | Variable Size Sliding Window",
+      "duration": 2435
+    }
+  ]
+}

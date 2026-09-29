@@ -1,0 +1,730 @@
+{
+  "courseId": "complete-c-plus-plus-dsa-course-data-structures-algorithms-p-255248",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:45.086Z",
+  "title": "Complete C++ DSA Course | Data Structures & Algorithms Playlist",
+  "channel": "Apna College",
+  "videos": [
+    {
+      "id": "VTLCoHnyACE",
+      "title": "Lecture 1 : Flowchart & Pseudocode + Installation | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 5152
+    },
+    {
+      "id": "Dxu7GKtdbnA",
+      "title": "Lecture 2 : Variable, Data Types & Operators | DSA Series by Shradha Ma'am | C++",
+      "duration": 4604
+    },
+    {
+      "id": "qR9U6bKxJ7g",
+      "title": "Lecture 3: Conditional Statements & Loops | DSA Series by Shradha Ma'am | C++",
+      "duration": 5679
+    },
+    {
+      "id": "rga_q2N7vU8",
+      "title": "Lecture 4: Patterns | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 5467
+    },
+    {
+      "id": "P08Z_NC8GuY",
+      "title": "Lecture 5: Functions | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2953
+    },
+    {
+      "id": "xpy5NXiBFvA",
+      "title": "Binary Number System | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2240
+    },
+    {
+      "id": "r-u4uh3QvsQ",
+      "title": "Bitwise Operators, Data Type Modifiers & more | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2313
+    },
+    {
+      "id": "8wmn7k1TTcI",
+      "title": "Array Data Structure - Part1 | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 3247
+    },
+    {
+      "id": "NWg38xWYzEg",
+      "title": "Vectors in C++ | Arrays Part 2 | DSA Series by Shradha Ma'am | Lecture 9",
+      "duration": 2406
+    },
+    {
+      "id": "9IZYqostl2M",
+      "title": "Kadane's Algorithm | Maximum Subarray Sum | DSA Series by Shradha Ma'am",
+      "duration": 1409
+    },
+    {
+      "id": "_xqIp2rj8bo",
+      "title": "Majority Element | Brute- Better-Best Approach | Moore's Voting Algorithm | & Pair Sum",
+      "duration": 2350
+    },
+    {
+      "id": "PwKv8fOcriM",
+      "title": "Time & Space Complexity - DSA Series by Shradha Ma'am",
+      "duration": 5141
+    },
+    {
+      "id": "WBzZCm46mFo",
+      "title": "Buy and Sell Stock Problem and Pow(X,N) Power exponential Problem - Leetcode | DSA Series",
+      "duration": 1750
+    },
+    {
+      "id": "EbkMABpP52U",
+      "title": "Container with Most Water Problem | Brute & Optimal Solution | Two Pointer Approach - Leetcode 11",
+      "duration": 1920
+    },
+    {
+      "id": "TW2m8m_FNJE",
+      "title": "Product of Array Except Self | Brute to Optimal Solution | Leetcode 238",
+      "duration": 1770
+    },
+    {
+      "id": "qYEjR6M0wSk",
+      "title": "Pointers in C++ | In Detail | DSA Series by Shradha Ma'am",
+      "duration": 2768
+    },
+    {
+      "id": "TbbSJrY5GqQ",
+      "title": "Binary Search Algorithm - Iterative and Recursive Method | [Theory + Code] with Example",
+      "duration": 2656
+    },
+    {
+      "id": "6WNZQBHWQJs",
+      "title": "Search in Rotated Sorted Array | Binary Search | Leetcode 33",
+      "duration": 1170
+    },
+    {
+      "id": "RjxD6UXGlhc",
+      "title": "Peak Index in Mountain Array | Binary Search | Leetcode 852",
+      "duration": 1414
+    },
+    {
+      "id": "qsbCBduIs40",
+      "title": "Single Element in Sorted Array | Binary Search | DSA Series Lecture 20",
+      "duration": 1653
+    },
+    {
+      "id": "JRAByolWqhw",
+      "title": "Book Allocation or Allocate Books Problem | DSA Series - Binary Search",
+      "duration": 1979
+    },
+    {
+      "id": "srsFN5OHBgw",
+      "title": "Painter's Partition Problem | DSA Placement Series - Binary Search | Lecture 22",
+      "duration": 1664
+    },
+    {
+      "id": "7wOzDqsfXy0",
+      "title": "Aggressive Cows Problem | DSA Placement Series - Binary Search | Lecture 23",
+      "duration": 1812
+    },
+    {
+      "id": "1jCFUv-Xlqo",
+      "title": "Sorting Algorithms | Bubble Sort, Selection Sort & Insertion Sort | DSA Series by Shradha Ma'am",
+      "duration": 2073
+    },
+    {
+      "id": "J48aGjfjYTI",
+      "title": "Sort an Array of 0s, 1s & 2s | DNF Sorting Algorithm | Leetcode 75",
+      "duration": 2019
+    },
+    {
+      "id": "-1cLK6PaLsQ",
+      "title": "Merge Sorted Arrays Problem and Next Permutation Problem | DSA Series",
+      "duration": 2629
+    },
+    {
+      "id": "okhdtEk1iKk",
+      "title": "C++ STL Complete Tutorial | Standard Template Library - One Shot",
+      "duration": 5240
+    },
+    {
+      "id": "varXreLWPRo",
+      "title": "How to setup C++ compiler on Mac ? | Software Installation for Mac users",
+      "duration": 100
+    },
+    {
+      "id": "MOSjYaVymcU",
+      "title": "Strings & Character Arrays in C++  -  Part 1 | DSA Placement Series",
+      "duration": 1803
+    },
+    {
+      "id": "dSRFgEs3a6A",
+      "title": "Valid Palindrome & Remove all Occurrences | Strings Part 2 | DSA Placement Series",
+      "duration": 1442
+    },
+    {
+      "id": "VXewy91P0S4",
+      "title": "Strings - Part 3 | Permutation in String | DSA Placement Series",
+      "duration": 1301
+    },
+    {
+      "id": "RitppzIdMCo",
+      "title": "Strings - Part 4 | Reverse Words in String | DSA Placement Series",
+      "duration": 882
+    },
+    {
+      "id": "cAB15h6-sWA",
+      "title": "String Compression problem - Lecture 32 | Leetcode 443",
+      "duration": 1169
+    },
+    {
+      "id": "Y4KdgqV1IqA",
+      "title": "Maths for DSA - One Shot | Euclid's Algorithm | Sieve of Eratosthenes | Modular Arithmetics",
+      "duration": 3348
+    },
+    {
+      "id": "lBL8327gq8I",
+      "title": "2D Arrays in C++ | Part 1 | DSA Series by Shradha Ma'am",
+      "duration": 2251
+    },
+    {
+      "id": "LEFFjgt5i6w",
+      "title": "Search a 2D Matrix - Variation I & II | 2D Arrays - Part 2 | DSA Series by Shradha Ma'am",
+      "duration": 2263
+    },
+    {
+      "id": "XMpdvwUObho",
+      "title": "Spiral Matrix | 2D Arrays - Part 3 | Leetcode 54 | DSA Series by Shradha Ma'am",
+      "duration": 1473
+    },
+    {
+      "id": "0Fxc_jKj2vo",
+      "title": "Two Sum | Find Duplicate | Find Repeating & Missing Values | Hashing Problems",
+      "duration": 3210
+    },
+    {
+      "id": "K-RsltkN63w",
+      "title": "3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15",
+      "duration": 2623
+    },
+    {
+      "id": "X6sL8JTROLY",
+      "title": "4 Sum Problem | Optimal Approach | DSA Series by Shradha Ma'am",
+      "duration": 1382
+    },
+    {
+      "id": "KDH4mhFVvHw",
+      "title": "Subarray Sum Equals K | Brute-Better-Optimal approach",
+      "duration": 2085
+    },
+    {
+      "id": "9OsMG4fI4OY",
+      "title": "Recursion Tutorial - Basics to Advanced | Part 1",
+      "duration": 2782
+    },
+    {
+      "id": "4iT-GhvSKzc",
+      "title": "Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem",
+      "duration": 2490
+    },
+    {
+      "id": "pNzljlzDCiI",
+      "title": "Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II",
+      "duration": 2540
+    },
+    {
+      "id": "N4gJDGdhpLw",
+      "title": "Permutations of an Array/String | Recursion & Backtracking",
+      "duration": 1375
+    },
+    {
+      "id": "BdSJnIdR-4s",
+      "title": "N-Queens Problem | using Backtracking | Leetcode Hard",
+      "duration": 1466
+    },
+    {
+      "id": "70cP3qtJp-s",
+      "title": "Sudoku Solver Problem | using Backtracking | Leetcode Hard",
+      "duration": 1618
+    },
+    {
+      "id": "D8Yze9CDDAw",
+      "title": "Rat in a Maze Problem | Backtracking",
+      "duration": 1965
+    },
+    {
+      "id": "jkgZw2WEaqA",
+      "title": "Combination Sum Problem | Recursion & Backtracking",
+      "duration": 1415
+    },
+    {
+      "id": "aZ0B1eWkSVU",
+      "title": "Palindrome Partitioning Problem | Recursion & Backtracking",
+      "duration": 1244
+    },
+    {
+      "id": "cQDtOBTy7_Y",
+      "title": "Merge Sort Algorithm | Recursion & Backtracking",
+      "duration": 1924
+    },
+    {
+      "id": "SBQfXK7q5K4",
+      "title": "One Major update & reaching 1000M views",
+      "duration": 230
+    },
+    {
+      "id": "8MNB0Mba_Dc",
+      "title": "Quick Sort Algorithm - Lecture 51 of Complete DSA Placement Series",
+      "duration": 1583
+    },
+    {
+      "id": "ynnWDBTdVi0",
+      "title": "Count Inversions Problem | Brute and Optimal",
+      "duration": 1473
+    },
+    {
+      "id": "Sp1jzttFVdE",
+      "title": "KNIGHTS TOUR Problem - Backtracking | Leetcode 2596",
+      "duration": 1352
+    },
+    {
+      "id": "mlIUKyZIUUU",
+      "title": "OOPs Tutorial in One Shot | Object Oriented Programming | in C++ Language | for Placement Interviews",
+      "duration": 7463
+    },
+    {
+      "id": "LyuuqCVkP5I",
+      "title": "Introduction to Linked List | Data Structures & Algorithms",
+      "duration": 3043
+    },
+    {
+      "id": "R-CKBYnOv1U",
+      "title": "Reverse a Linked List | DSA Series by @shradhaKD",
+      "duration": 629
+    },
+    {
+      "id": "nzaHG0dme4g",
+      "title": "Middle of a Linked List | DSA Series by @shradhaKD",
+      "duration": 632
+    },
+    {
+      "id": "-1E8ZMS0gSs",
+      "title": "Detect & Remove Cycle in Linked List | DSA Series by @shradhaKD",
+      "duration": 1824
+    },
+    {
+      "id": "f8RPIb-0DDE",
+      "title": "Merge Two Sorted Lists | DSA Series by @shradhaKD",
+      "duration": 761
+    },
+    {
+      "id": "8ze7Zopdsaw",
+      "title": "Copy List with Random Pointer | DSA Series by @shradhaKD",
+      "duration": 1252
+    },
+    {
+      "id": "bO5DasTsaRQ",
+      "title": "Doubly Linked List Tutorial",
+      "duration": 1936
+    },
+    {
+      "id": "e6lZY5Yha8U",
+      "title": "Circular Linked List in Data Structures",
+      "duration": 2036
+    },
+    {
+      "id": "I8b0rff5F9M",
+      "title": "Flatten a Doubly Linked List | Leetcode 430 | DSA Series by @shradhaKD",
+      "duration": 1487
+    },
+    {
+      "id": "-swgIiMIlJo",
+      "title": "Reverse Nodes in K-Group | Linked List",
+      "duration": 1239
+    },
+    {
+      "id": "wwbTMNVlFHQ",
+      "title": "Swap Nodes in Pairs | Linked List",
+      "duration": 1206
+    },
+    {
+      "id": "0X-fV-1ir9c",
+      "title": "Introduction to STACKS | Data Structures & Algorithms | Lecture 66",
+      "duration": 1331
+    },
+    {
+      "id": "NlHupEeDXzY",
+      "title": "Valid Parentheses | Stack | Lecture 67",
+      "duration": 985
+    },
+    {
+      "id": "01vBuZyMfqk",
+      "title": "Stock Span Problem | Optimal Solution",
+      "duration": 1589
+    },
+    {
+      "id": "NKbExYwvjb0",
+      "title": "Next Greater Element | Optimal Solution & Code",
+      "duration": 1412
+    },
+    {
+      "id": "WnjUfBn9nZM",
+      "title": "Previous Smaller Element | Optimal Solution & Code",
+      "duration": 564
+    },
+    {
+      "id": "wHDm-N2m2XY",
+      "title": "Design a Min Stack | Optimal Solution & Code",
+      "duration": 1474
+    },
+    {
+      "id": "ysy1o-QEj3k",
+      "title": "Largest Rectangle in Histogram | Best Solution & Code",
+      "duration": 1976
+    },
+    {
+      "id": "If--3pm9K3U",
+      "title": "L73. Next Greater Element - II | Stack & Queue",
+      "duration": 1204
+    },
+    {
+      "id": "UHHp8USwx4M",
+      "title": "L74. Trapping Rainwater Problem | Optimal Solution & Code",
+      "duration": 1850
+    },
+    {
+      "id": "OZPmEA_8FM8",
+      "title": "L75. The Celebrity Problem | Stack & Queue",
+      "duration": 911
+    },
+    {
+      "id": "GsY6y0iPaHw",
+      "title": "L76. Implement LRU Cache | Linked List",
+      "duration": 2134
+    },
+    {
+      "id": "Khf9v67Ya30",
+      "title": "New Chapter : Queue Data Structure",
+      "duration": 1135
+    },
+    {
+      "id": "4mKKolshFD0",
+      "title": "L78. Circular Queue in Data Strucuture",
+      "duration": 1117
+    },
+    {
+      "id": "sFvP5Ois0CE",
+      "title": "L79. Implement Queue using Stack & Stack using Queue",
+      "duration": 947
+    },
+    {
+      "id": "sqyCBvEQN9c",
+      "title": "L80. First Unique Character in String | Easy - Leetcode387",
+      "duration": 803
+    },
+    {
+      "id": "XwG5cozqfaM",
+      "title": "L81. Sliding Window Maximum | Queue",
+      "duration": 1882
+    },
+    {
+      "id": "SmTow5Ht4iU",
+      "title": "L82. Gas Station | Greedy Approach | Leetcode 134",
+      "duration": 1336
+    },
+    {
+      "id": "eKJrXBCRuNQ",
+      "title": "Binary Trees in Data Structures | Tree Traversal | DSA Placement Series",
+      "duration": 4455
+    },
+    {
+      "id": "7tzHzN_Ehus",
+      "title": "L.84 Height of a Binary Tree | Count of Nodes in a Binary Tree",
+      "duration": 1389
+    },
+    {
+      "id": "tumW7jsjv68",
+      "title": "L.85 Identical Tree (same tree) | Subtree of another Tree",
+      "duration": 1408
+    },
+    {
+      "id": "aPyDPImR5UM",
+      "title": "L.86 Diameter of Binary Tree",
+      "duration": 1169
+    },
+    {
+      "id": "FGr-syrhvOA",
+      "title": "Top View of a Binary Tree | DSA Series : L.87",
+      "duration": 1179
+    },
+    {
+      "id": "ze4JO_ODl3w",
+      "title": "Kth Level of a Binary Tree | DSA Series : L.88",
+      "duration": 479
+    },
+    {
+      "id": "oX5D0uKOMck",
+      "title": "Lowest Common Ancestor in Binary Tree | DSA Series : L.89",
+      "duration": 1100
+    },
+    {
+      "id": "33b1M980cCA",
+      "title": "Build Tree from Preorder & Inorder | DSA Series : L.90",
+      "duration": 1259
+    },
+    {
+      "id": "TY6kEejJEM0",
+      "title": "Transform to Sum Tree | DSA Series : L.91",
+      "duration": 521
+    },
+    {
+      "id": "AWJD__CfM6A",
+      "title": "Binary Tree Paths | DSA Series : L.92",
+      "duration": 601
+    },
+    {
+      "id": "rhz-csskg_A",
+      "title": "Maximum Width of Binary Tree | DSA Series : L.93",
+      "duration": 1269
+    },
+    {
+      "id": "PUfADhkq1LI",
+      "title": "Morris Inorder Traversal | DSA Series : L.94",
+      "duration": 1072
+    },
+    {
+      "id": "dU2Z5HWSGM0",
+      "title": "Flatten Binary Tree to Linked List | DSA Series : L.95",
+      "duration": 943
+    },
+    {
+      "id": "RuF7dPfj27Q",
+      "title": "Binary Search Trees (BSTs) | DSA Series : L.96",
+      "duration": 2596
+    },
+    {
+      "id": "0s6sCjs_4g0",
+      "title": "Sorted Array to Balanced BST | DSA Series : L.97",
+      "duration": 524
+    },
+    {
+      "id": "dSBcCynP1nA",
+      "title": "Validate Binary Search Tree | DSA Series : L.98",
+      "duration": 761
+    },
+    {
+      "id": "WZmjRXF_Zi4",
+      "title": "Min Distance between BST Nodes | DSA Series : L.99",
+      "duration": 856
+    },
+    {
+      "id": "Kq4BbvIhj44",
+      "title": "Kth Smallest in BST | DSA Series : L.100",
+      "duration": 763
+    },
+    {
+      "id": "ORxkZ12FrU4",
+      "title": "Lowest Common Ancestor in BST | DSA Series : L.101",
+      "duration": 749
+    },
+    {
+      "id": "-n5Ur1wE5Jc",
+      "title": "Construct BST from Preorder | DSA Series : L.102",
+      "duration": 1150
+    },
+    {
+      "id": "AiKZjCuy2k4",
+      "title": "Merge Two Binary Search Trees | DSA Series : L.103",
+      "duration": 999
+    },
+    {
+      "id": "0KGzfij_SCk",
+      "title": "Recover BST | DSA Series : L.104",
+      "duration": 1443
+    },
+    {
+      "id": "Pr-HFxp7npk",
+      "title": "Largest BST in Binary Tree | DSA Series : L.105",
+      "duration": 1496
+    },
+    {
+      "id": "a8VKpW1DsD8",
+      "title": "Populate Next Right Pointers in Each Node | DSA Series : L.106",
+      "duration": 672
+    },
+    {
+      "id": "dS1bKglre3A",
+      "title": "BST Iterator | DSA Series : L.107",
+      "duration": 1036
+    },
+    {
+      "id": "IHNkql1tAnk",
+      "title": "Inorder Predecessor & Successor in BST | DSA Series : L.108",
+      "duration": 1190
+    },
+    {
+      "id": "RpgyCJBbl5E",
+      "title": "Introduction to Graphs | Data Structure & Algorithms",
+      "duration": 1568
+    },
+    {
+      "id": "scQITTLgFJo",
+      "title": "BFS Traversal in Graphs | Data Structure & Algorithms",
+      "duration": 1111
+    },
+    {
+      "id": "3czYbhac160",
+      "title": "DFS Traversal in Graphs | Data Structure & Algorithms",
+      "duration": 843
+    },
+    {
+      "id": "OZClCpPQDR4",
+      "title": "Detect a Cycle in Undirected Graph using DFS | Data Structure & Algorithms",
+      "duration": 1185
+    },
+    {
+      "id": "MIjOkApZ39g",
+      "title": "Detect a Cycle in Undirected Graph using BFS | Data Structure & Algorithms",
+      "duration": 1103
+    },
+    {
+      "id": "AME6baBpswY",
+      "title": "Number of Islands | Connected Components in Matrix | Leetcode 200",
+      "duration": 1025
+    },
+    {
+      "id": "RmXo5SWkhCs",
+      "title": "Rotting Oranges | Multi-source BFS | Leetcode 994",
+      "duration": 1582
+    },
+    {
+      "id": "AcppN5XFt24",
+      "title": "Detect a Cycle in Directed Graph using DFS | Lecture 116",
+      "duration": 959
+    },
+    {
+      "id": "0WIINUY12Yg",
+      "title": "Topological Sorting in Graph | using DFS | Lecture 117",
+      "duration": 958
+    },
+    {
+      "id": "37cJ38HadM4",
+      "title": "Course Schedule Problem | using Graph & Topological Sort",
+      "duration": 1074
+    },
+    {
+      "id": "rZsgWxodGmM",
+      "title": "Course Schedule II Problem | using Graph & Topological Sort",
+      "duration": 1173
+    },
+    {
+      "id": "JI_e2RzARbM",
+      "title": "Flood Fill Algorithm | Graph Problem",
+      "duration": 910
+    },
+    {
+      "id": "BnQpaTZg6Sc",
+      "title": "Topological Sorting using Kahn's Algorithm | Graph  - DSA Lecture 121",
+      "duration": 1127
+    },
+    {
+      "id": "8gYBHjtjWBI",
+      "title": "Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method",
+      "duration": 2120
+    },
+    {
+      "id": "3rFHlbJ7qKc",
+      "title": "Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming",
+      "duration": 1418
+    },
+    {
+      "id": "YlmU4gBgePA",
+      "title": "DSA Series Quick Update - 125 lectures | New DSA Sheet | DP, Heaps, Tries etc",
+      "duration": 384
+    },
+    {
+      "id": "Sflh1z6cIMk",
+      "title": "Prim's Algorithm - Minimum Spanning Tree in Graph",
+      "duration": 1567
+    },
+    {
+      "id": "nnrjWxWMo3E",
+      "title": "Disjoint Set Union | With Rank/Size & Path Compression | Union Find",
+      "duration": 2044
+    },
+    {
+      "id": "inoM6jwj1CA",
+      "title": "Kruskal's Algorithm - Minimum Spanning Tree in Graph",
+      "duration": 1747
+    },
+    {
+      "id": "J1yCPIP-K8s",
+      "title": "Number of Provinces | Graph Problem",
+      "duration": 755
+    },
+    {
+      "id": "mEx8JJQJUs8",
+      "title": "Min Cost to Connect All Points | Graph Problem",
+      "duration": 1276
+    },
+    {
+      "id": "CLmykzpeCCs",
+      "title": "Cheapest Flights Within K Stops | Graph Problem",
+      "duration": 1829
+    },
+    {
+      "id": "6h1SucBNxgc",
+      "title": "Bridge in Graph using Tarjan's Algorithm | Critical Connections",
+      "duration": 1956
+    },
+    {
+      "id": "cn7pov3BEmg",
+      "title": "Articulation Point in Graph using Tarjan's Algorithm | Critical Points",
+      "duration": 2213
+    },
+    {
+      "id": "lqY8TE0P1S8",
+      "title": "Strongly Connected Components - Kosaraju's Algorithm | Graphs",
+      "duration": 1586
+    },
+    {
+      "id": "iZBXd-vjHUA",
+      "title": "Floyd Warshall Algorithm | All Pairs Shortest Path in Graph",
+      "duration": 1656
+    },
+    {
+      "id": "uBA8DkCBdco",
+      "title": "Complete Dynamic Programming | DP Series - Lecture 1",
+      "duration": 2493
+    },
+    {
+      "id": "3GzA0mz6wp0",
+      "title": "DP 2. Climbing Stairs | 1D Dynamic Programming",
+      "duration": 1586
+    },
+    {
+      "id": "BRmLlJA6ncI",
+      "title": "DP 3. House Robber | 1D Dynamic Programming",
+      "duration": 1543
+    },
+    {
+      "id": "hSMJj9AdNBo",
+      "title": "DP 4. House Robber II | 1D Dynamic Programming",
+      "duration": 1350
+    },
+    {
+      "id": "AKqlgskrZwI",
+      "title": "DP 5. Frog Jump | 1D Dynamic Programming",
+      "duration": 1769
+    },
+    {
+      "id": "KwItlcfF9vE",
+      "title": "DP 6. Min Cost Climbing Stairs | 1D Dynamic Programming",
+      "duration": 1568
+    },
+    {
+      "id": "yggezlvUN2w",
+      "title": "Fractional Knapsack Algorithm | Greedy Method",
+      "duration": 993
+    },
+    {
+      "id": "tEW-zDckvFw",
+      "title": "DP 8. 0/1 Knapsack | Recursion to DP Solution | Space Optimized",
+      "duration": 2703
+    }
+  ]
+}

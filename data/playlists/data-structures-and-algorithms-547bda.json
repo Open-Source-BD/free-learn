@@ -1,0 +1,620 @@
+{
+  "courseId": "data-structures-and-algorithms-547bda",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:39.124Z",
+  "title": "Data Structures and Algorithms",
+  "channel": "Jenny's Lectures CS IT",
+  "videos": [
+    {
+      "id": "AT14lCXuMKI",
+      "title": "1.1 Arrays in Data Structure | Declaration, Initialization, Memory representation",
+      "duration": 1358
+    },
+    {
+      "id": "Bnjbun-hiBk",
+      "title": "1.2 Array Operations - Traversal, Insertion | Explanation with C Program | DSA Course",
+      "duration": 1731
+    },
+    {
+      "id": "CMbpZK_xqoc",
+      "title": "1.3 Array Operations | Deletion from Array | Explanation with Code | Data Structure",
+      "duration": 899
+    },
+    {
+      "id": "4Rll-_e9-0M",
+      "title": "1.4 Pointers and Arrays | Data structure Tutorials",
+      "duration": 1505
+    },
+    {
+      "id": "KDQXUysHLL8",
+      "title": "1.5 Introduction to Two Dimensional (2D) Arrays | Implementation of 2D Arrays |Memory representation",
+      "duration": 2264
+    },
+    {
+      "id": "tw-qWGG8y5g",
+      "title": "1.6 Pointers and 2-D Arrays | Two dimensional Array | Data Structures & Algorithm Tutorials",
+      "duration": 1489
+    },
+    {
+      "id": "dmb1i4oN5oE",
+      "title": "2.1 Introduction to Linked List | Need of Linked List | DSA Tutorials",
+      "duration": 1331
+    },
+    {
+      "id": "DWpVGpNfDmM",
+      "title": "2.2 Types of Linked List in Data Structures | DSA Full Course",
+      "duration": 795
+    },
+    {
+      "id": "qauEA64G1Ds",
+      "title": "2.3 Arrays vs Linked List | Data structures",
+      "duration": 1280
+    },
+    {
+      "id": "6wXZ_m3SbEs",
+      "title": "2.4 Linked List Implementation in C/C++ | Creation and Display | DSA Tutorials",
+      "duration": 1741
+    },
+    {
+      "id": "dq3F3e9o2DM",
+      "title": "2.5 Insertion of a Node in Linked List(at Beginning,End,Specified Position)with Code | DSA Tutorials",
+      "duration": 1627
+    },
+    {
+      "id": "ClvYytk5Rlg",
+      "title": "2.6 Deletion of a node from Linked List (from beginning, end, specified position) | DSA Tutorials",
+      "duration": 1554
+    },
+    {
+      "id": "SbGRuk38MvI",
+      "title": "2.7 Find length of Linked List- Iterative approach | DSA Tutorials",
+      "duration": 356
+    },
+    {
+      "id": "Tk_fi5l8cag",
+      "title": "2.8 Reverse a Linked List - Iterative Method | Data Structure Tutorials",
+      "duration": 1124
+    },
+    {
+      "id": "nquQ_fYGGA4",
+      "title": "2.9 Introduction to Doubly Linked List in Data structures | DSA Tutorials",
+      "duration": 534
+    },
+    {
+      "id": "H8-IuKKiQeo",
+      "title": "2.10 Implementation of Doubly Linked List - Data Structures",
+      "duration": 1274
+    },
+    {
+      "id": "v4szCPs9yEY",
+      "title": "2.11 Insertion in Doubly Linked List(beginning, end, specific position) |  Data Structures",
+      "duration": 2115
+    },
+    {
+      "id": "7yNUXcOcHwE",
+      "title": "2.12 Deletion from Doubly Linked List (beginning,end,specific position) | Data Structures Tutorials",
+      "duration": 1325
+    },
+    {
+      "id": "_6JI9XdO8nM",
+      "title": "2.13 Reverse a Doubly Linked List | Data Structures & Algorithm Tutorials",
+      "duration": 1174
+    },
+    {
+      "id": "fmfx1C4TTxw",
+      "title": "2.14 Circular Linked List in Data Structure | Creation and Display | DSA Course",
+      "duration": 1290
+    },
+    {
+      "id": "jsTybZ5qSNE",
+      "title": "2.15 Implementation of Circular linked list in C | Data Structure Tutorials",
+      "duration": 1669
+    },
+    {
+      "id": "ReGglEXEH08",
+      "title": "2.16 Insertion in Circular Linked List | Data Structure Tutorials",
+      "duration": 1185
+    },
+    {
+      "id": "EkE6RHuMx3I",
+      "title": "2.17 Deletion of a Node from Circular Linked List(beginning, end, given position) | DSA Tutorials",
+      "duration": 1438
+    },
+    {
+      "id": "xvAoleV706Q",
+      "title": "2.18 Reverse a Circular Linked List | Data Structure Tutorials",
+      "duration": 1052
+    },
+    {
+      "id": "eBCTtS_sptM",
+      "title": "2.19 Implementation of Doubly Circular Linked List|  Creation and Display | Data Structures",
+      "duration": 1227
+    },
+    {
+      "id": "Fa958fGdgx0",
+      "title": "2.20 Insertion in Doubly Circular Linked List | Data Structure & Algorithm Tutorials",
+      "duration": 1549
+    },
+    {
+      "id": "ElQxT6hDeNE",
+      "title": "2.21 Deletion from Doubly Circular Linked List | Data Structure & Algorithm Course",
+      "duration": 1277
+    },
+    {
+      "id": "bxRVz8zklWM",
+      "title": "3.1 Stack in Data Structure | Introduction to Stack | Data Structures Tutorials",
+      "duration": 1060
+    },
+    {
+      "id": "VmsTAVpz0xo",
+      "title": "3.2 Implementation of Stack using Array | Data Structure and Algorithm Tutorials",
+      "duration": 1047
+    },
+    {
+      "id": "T_UXDTy23DQ",
+      "title": "3.3 Stack implementation using Linked List | Data Structures and Algorithm Tutorials",
+      "duration": 1621
+    },
+    {
+      "id": "RY4GkLahbCI",
+      "title": "3.4 Infix Prefix and Postfix expressions | Data Structures Tutorials",
+      "duration": 854
+    },
+    {
+      "id": "TB7qzDgX-pI",
+      "title": "3.5 Infix to Postfix Conversion Rules using Stack | Data structures Tutorials",
+      "duration": 753
+    },
+    {
+      "id": "PAceaOSnxQs",
+      "title": "3.6 Infix to Postfix using Stack | Data Structure and Algorithm",
+      "duration": 1210
+    },
+    {
+      "id": "YHSj87pgjF8",
+      "title": "3.7 Infix to Postfix conversion using Stack | Data structures and algorithms",
+      "duration": 957
+    },
+    {
+      "id": "8QxlrRws9OI",
+      "title": "3.8 Infix to Prefix using Stack | Data Structures Tutorials",
+      "duration": 1445
+    },
+    {
+      "id": "o6vj5l_W2h8",
+      "title": "3.9 Evaluation of Prefix and Postfix expressions using Stack | Data Structures",
+      "duration": 1263
+    },
+    {
+      "id": "u3paQa8KXu0",
+      "title": "3.10 Postfix Expression Evaluation using Stack | Data Structures and Algorithms",
+      "duration": 662
+    },
+    {
+      "id": "1zqgyoZzda4",
+      "title": "3.11 Prefix to Infix Conversion | Postfix to Infix Conversion | Data structure Tutorials",
+      "duration": 627
+    },
+    {
+      "id": "2Z6g3kNymd0",
+      "title": "3.12 Expression Trees | Binary Expression Tree | Data Structures Tutorials",
+      "duration": 797
+    },
+    {
+      "id": "WHs-wSo33MM",
+      "title": "3.13 Expression Tree from Postfix | Data Structures Tutorials",
+      "duration": 605
+    },
+    {
+      "id": "zp6pBNbUB2U",
+      "title": "4.1 Queue in Data Structure | Introduction to Queue | Data Structures Tutorials",
+      "duration": 1219
+    },
+    {
+      "id": "YqrFeU90Coo",
+      "title": "4.2 Implementation of Queue using Arrays | Data Structures & Algorithm Tutorials",
+      "duration": 1386
+    },
+    {
+      "id": "RN1wzY_tnYU",
+      "title": "4.3 Queue Implementation using Linked List in C | Data Structure Tutorials",
+      "duration": 1187
+    },
+    {
+      "id": "dn01XST9-bI",
+      "title": "4.4 Circular Queue in Data Structure | Circular Queue using Arrays in C | DSA Tutorials",
+      "duration": 1459
+    },
+    {
+      "id": "40Ttkii9NPA",
+      "title": "4.5 Circular Queue in Data Structure | Circular Queue using Linked List | DSA Tutorials",
+      "duration": 1736
+    },
+    {
+      "id": "EFO7bbFcOMw",
+      "title": "4.6 Implement Queue using Stack in C| Data Structures Tutorials",
+      "duration": 1746
+    },
+    {
+      "id": "pqg0SOPRlJ4",
+      "title": "4.7 DEQUE in Data Structure | Introduction to DEQue - Double Ended Queue",
+      "duration": 765
+    },
+    {
+      "id": "WJres9mgiAk",
+      "title": "4.8 Implementation of DEQUE using Circular Array | Data Structures Tutorials",
+      "duration": 2197
+    },
+    {
+      "id": "YAdLFsTG70w",
+      "title": "5.1 Tree in Data Structure | Introduction to Trees | Data Structures Tutorials",
+      "duration": 1757
+    },
+    {
+      "id": "vvey2QCs98o",
+      "title": "5.2 Binary Tree in Data Structure| Types of Binary Tree| Data Structures Tutorials",
+      "duration": 1451
+    },
+    {
+      "id": "6vt3PFRC11E",
+      "title": "5.3 Binary Tree Implementation in C Program | Data Structures Tutorials",
+      "duration": 1477
+    },
+    {
+      "id": "zDlTxrEwxvg",
+      "title": "5.4 Binary Tree Representation |Array representation of Binary Tree | Data Structure",
+      "duration": 1070
+    },
+    {
+      "id": "-b2lciNd2L4",
+      "title": "5.5 Binary Tree Traversals (Inorder, Preorder and Postorder) | Data structures and algorithms",
+      "duration": 667
+    },
+    {
+      "id": "e_Wv_pH4Se8",
+      "title": "5.6 Binary Tree traversal | Preorder, Inorder, Postorder | Data Structures Tutorials",
+      "duration": 1213
+    },
+    {
+      "id": "PoBGyrIWisE",
+      "title": "5.7 Construct Binary Tree from Preorder and Inorder Traversal | Example | Data Structures Tutorials",
+      "duration": 585
+    },
+    {
+      "id": "s5XRtcud35E",
+      "title": "5.8 Construct Binary Tree from Postorder and Inorder with example | Data structures Course",
+      "duration": 454
+    },
+    {
+      "id": "5lWJpTEnyow",
+      "title": "5.9 Construct Binary Tree from Preorder and Postorder traversal | Data Structure Tutorials",
+      "duration": 1140
+    },
+    {
+      "id": "cySVml6e_Fc",
+      "title": "5.10 Binary Search Trees (BST) - Insertion and Deletion | DSA Full Course",
+      "duration": 1001
+    },
+    {
+      "id": "GW63gMgfeS8",
+      "title": "5.11 Construct Binary Search Tree(BST) from Preorder example |Data Structures & Algorithm",
+      "duration": 538
+    },
+    {
+      "id": "RttBwUVWfV8",
+      "title": "5.12 Construct Binary Search Tree(BST) from Postorder Traversal | Data structures",
+      "duration": 687
+    },
+    {
+      "id": "YWqla0UX-38",
+      "title": "5.13 AVL Tree - Insertion, Rotations(LL, RR, LR, RL) with Example | Data Structure Tutorials",
+      "duration": 1470
+    },
+    {
+      "id": "_8qqlVH5NC0",
+      "title": "5.14 AVL Tree Insertion | with Solved Example | Data Structures & Algorithm Tutorials",
+      "duration": 1585
+    },
+    {
+      "id": "LXdi_4kSd1o",
+      "title": "5.15 AVL Tree Deletion in Data structures | with Example | DSA Tutorials",
+      "duration": 902
+    },
+    {
+      "id": "3RQtq7PDHog",
+      "title": "5.16 Red Black tree | Introduction to Red Black trees | DSA Tutorials",
+      "duration": 1980
+    },
+    {
+      "id": "qA02XWRTBdw",
+      "title": "5.17 Red Black Tree Insertion | Insertion Algorithm | Data Structure Tutorials",
+      "duration": 1661
+    },
+    {
+      "id": "w5cvkTXY0vQ",
+      "title": "5.18 Red Black Tree Deletion | DSA Tutorials for Beginners",
+      "duration": 3785
+    },
+    {
+      "id": "qMmqOHr75b8",
+      "title": "5.19 Splay Tree Introduction | Data structure & Algorithm",
+      "duration": 1712
+    },
+    {
+      "id": "1HeIZNP3w4A",
+      "title": "5.20 Splay Tree Insertion | Data structure",
+      "duration": 2066
+    },
+    {
+      "id": "ewRSYHStdSA",
+      "title": "5.21 Splay Trees Deletion | Bottom-up Splaying | Data Structure & Algorithm",
+      "duration": 804
+    },
+    {
+      "id": "MumJoiP84J0",
+      "title": "5.22 Splay Tree Deletion | Top Down Splaying | Data Structure & Algorithm",
+      "duration": 1244
+    },
+    {
+      "id": "94ErZ5K8XZg",
+      "title": "5.23 Introduction to B-Trees | Data Structures & Algorithm Tutorials",
+      "duration": 583
+    },
+    {
+      "id": "Ay2AbTk_QEg",
+      "title": "5.24 Insertion in B-tree of Order 3 | B-Tree Example | Data structures and algorithms",
+      "duration": 591
+    },
+    {
+      "id": "c7hXEFs69Jw",
+      "title": "5.25 Insertion in B-Tree of Order 5 | Data structures and algorithms Tutorials",
+      "duration": 957
+    },
+    {
+      "id": "asRbo5HWpxc",
+      "title": "5.26 Insertion in B-Tree of Order 5 with Given Alphabets | Data structures and algorithms",
+      "duration": 1060
+    },
+    {
+      "id": "aNU9XYYCHu8",
+      "title": "5.27 Insertion in B-Tree of Order 4 (Data Structure)",
+      "duration": 923
+    },
+    {
+      "id": "GKa_t7fF8o0",
+      "title": "5.28 B-Tree Deletion in Data Structures | DSA Tutorials",
+      "duration": 1684
+    },
+    {
+      "id": "DqcZLulVJ0M",
+      "title": "5.29 B+ Tree Insertion | B+ Tree Creation example | Data Structure Tutorials",
+      "duration": 1117
+    },
+    {
+      "id": "pGOdeCpuwpI",
+      "title": "5.30 B+ Tree Deletion| with example |Data structure & Algorithm Tutorials",
+      "duration": 976
+    },
+    {
+      "id": "bJnoBLL8AAg",
+      "title": "5.31 B+ Tree Insertion | Create B+ Tree of Order 5 | Data Structures Tutorials",
+      "duration": 716
+    },
+    {
+      "id": "5hPfm_uqXmw",
+      "title": "6.1 Graph Representation in Data Structure(Graph Theory)|Adjacency Matrix and Adjacency List",
+      "duration": 732
+    },
+    {
+      "id": "vf-cxgUXcMk",
+      "title": "6.2 BFS and DFS Graph Traversals| Breadth First Search and Depth First Search | Data structures",
+      "duration": 1227
+    },
+    {
+      "id": "wm6qRWGjvkA",
+      "title": "6.3 Types of Edges in DFS | Edge Classification | Data Structures and Algorithms",
+      "duration": 1553
+    },
+    {
+      "id": "vNhvBrc02G4",
+      "title": "6.4 Minimum Spanning Tree | Properties of MST | Data Structures Tutorials",
+      "duration": 958
+    },
+    {
+      "id": "ZtZaR7EcI5Y",
+      "title": "6.5 Prim's Algorithm for Minimum Spanning Tree | Data Structures Tutorials",
+      "duration": 622
+    },
+    {
+      "id": "EjVHtpWkIho",
+      "title": "6.6 Kruskals Algorithm for Minimum Spanning Tree- Greedy method | Data structures",
+      "duration": 551
+    },
+    {
+      "id": "71SJL5lOOzY",
+      "title": "6.7 Minimum spanning Tree(MST) | UGC NET(Computer Science) Practice Question with Solution",
+      "duration": 453
+    },
+    {
+      "id": "AK7BuT5MgU0",
+      "title": "6.8 Cycle detection in Directed Graph |Data Structures and Algorithms Tutorials",
+      "duration": 636
+    },
+    {
+      "id": "vXrv3kruvwE",
+      "title": "6.9 Detect Cycle in Undirected Graph | Data Structures and Algorithms",
+      "duration": 395
+    },
+    {
+      "id": "dis_c84ejhQ",
+      "title": "6.10 Topological Sorting (with Examples) | How to find all Topological Orderings of a Graph",
+      "duration": 858
+    },
+    {
+      "id": "9esCn0awd5k",
+      "title": "6.11 Connected Components |How to find Connected Components in Graph | Graph Theory",
+      "duration": 1237
+    },
+    {
+      "id": "CsGP_s_3GWg",
+      "title": "6.12 Bridges(Cut Edge) in a Graph | Find All Bridges in a Graph | Graph Theory",
+      "duration": 1254
+    },
+    {
+      "id": "smHnz2RHJBY",
+      "title": "6.13 Dijkstra Algorithm | Single Source Shortest Path| Greedy Method",
+      "duration": 2076
+    },
+    {
+      "id": "KudAWAMiQog",
+      "title": "6.14 Bellman Ford Algorithm-Single Source Shortest Path | Dynamic Programming",
+      "duration": 943
+    },
+    {
+      "id": "Gc4mWrmJBsw",
+      "title": "6.15 Floyd Warshall Algorithm All Pair Shortest Path algorithm | Data Structures and Algorithms",
+      "duration": 1883
+    },
+    {
+      "id": "C46QfTjVCNU",
+      "title": "7.1 Linear Search Algorithm | Linear Search in C | Data Structures Tutorials",
+      "duration": 909
+    },
+    {
+      "id": "V_T5NuccwRA",
+      "title": "7.2 What is Binary Search | Binary Search Algorithm with example | Data Structures Tutorials",
+      "duration": 1410
+    },
+    {
+      "id": "RpPJi1_FRNc",
+      "title": "Introduction to Sorting Algorithms",
+      "duration": 1727
+    },
+    {
+      "id": "o4bAoo_gFBU",
+      "title": "7.3 Bubble Sort Algorithm| Data Structures Tutorials",
+      "duration": 2136
+    },
+    {
+      "id": "yCxV0kBpA6M",
+      "title": "7.4 Insertion Sort Algorithm |Explanation with C Program| Data Structure Tutorials",
+      "duration": 1693
+    },
+    {
+      "id": "9oWd4VJOwr0",
+      "title": "7.5 Selection Sort in Data Structure | Selection Sort Algorithm with C Program",
+      "duration": 1069
+    },
+    {
+      "id": "QN9hnmAgmOc",
+      "title": "7.6 Quick Sort in Data Structure | Sorting Algorithm | DSA Full Course",
+      "duration": 1483
+    },
+    {
+      "id": "jlHkDBEumP0",
+      "title": "7.7 Merge Sort in Data Structure | Sorting Algorithms| DSA Full Course",
+      "duration": 2128
+    },
+    {
+      "id": "NEtwJASLU8Q",
+      "title": "7.8 Max Heap Insertion and Deletion | Heap Tree Insertion and Deletion with example| Data Structure",
+      "duration": 2068
+    },
+    {
+      "id": "Q_eia3jC9Ts",
+      "title": "7.9 Heap Sort | Heapify Method | Build Max Heap Algorithm | Sorting Algorithms",
+      "duration": 2763
+    },
+    {
+      "id": "JMlYkE8hGJM",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "9crZRd8GPWM",
+      "title": "7.11 Shell Sort | Sorting Algorithms | Full explanation with Code | DSA Course",
+      "duration": 2047
+    },
+    {
+      "id": "pEJiGC-ObQE",
+      "title": "7.12 Counting Sort (Analysis and Code) | Easiest Explanation | Data Structure Tutorials",
+      "duration": 1900
+    },
+    {
+      "id": "Il45xNUHGp0",
+      "title": "7.13 Radix Sort - Easiest explanation with Code | Sorting Algorithms | Data Structures Tutorials",
+      "duration": 2053
+    },
+    {
+      "id": "zeMa9sg-VJM",
+      "title": "8.1 Hashing Techniques to Resolve Collision| Separate Chaining and Linear Probing | Data structure",
+      "duration": 1551
+    },
+    {
+      "id": "dxrLtf-Fybk",
+      "title": "8.2 Hashing - Quadratic Probing | Collision Resolution Technique | Data structures and algorithms",
+      "duration": 958
+    },
+    {
+      "id": "AYcsTOeFVas",
+      "title": "8.3 Double Hashing | Collision Resolution Technique | Data Structures and algorithms",
+      "duration": 1612
+    },
+    {
+      "id": "saofdNsZiYY",
+      "title": "9.1 Huffman Coding  -Greedy Method |Data Structures Tutorials",
+      "duration": 2045
+    },
+    {
+      "id": "u_yLtJCjzb0",
+      "title": "9.2 Huffman Coding with Probabilities | UGC NET Previous Year Question",
+      "duration": 923
+    },
+    {
+      "id": "IwuAjXyatow",
+      "title": "Complete DSA and Java Course for Placement | Early Bird Offer Inside  #coding #java #dsa",
+      "duration": 61
+    },
+    {
+      "id": "0eK-K-feNzM",
+      "title": "Exclusive | Only 3 Days are left !!",
+      "duration": 412
+    },
+    {
+      "id": "zxEJrDB8Gcg",
+      "title": "Introduction to Dynamic Programming | Greedy vs DP",
+      "duration": 1760
+    },
+    {
+      "id": "CCso7BRt3Nw",
+      "title": "Dynamic Programming Introduction| Memoization | Tabulation | Space Optimization",
+      "duration": 2771
+    },
+    {
+      "id": "WRoz58oOO7o",
+      "title": "Fibonacci Number | Recursion + Memoization | Tabulation | DP Series | LeetCode 509",
+      "duration": 855
+    },
+    {
+      "id": "Yb6E6HAujEw",
+      "title": "LEETCODE 70 - Climbing Stairs | 4 Approaches | DP Series",
+      "duration": 2174
+    },
+    {
+      "id": "MXiG4Y86Bqo",
+      "title": "LEETCODE 746 - Min Cost Climbing Stairs | Recursive| Memoization | Tabulation | Space Optimization",
+      "duration": 3377
+    },
+    {
+      "id": "j_8aaBO9eA8",
+      "title": "Recursion vs Dynamic Programming | DP Series #Lec6",
+      "duration": 733
+    },
+    {
+      "id": "hI-orzRUQcI",
+      "title": "Types of Knapsack | Dynamic Programming | #7",
+      "duration": 381
+    }
+  ]
+}

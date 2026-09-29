@@ -1,0 +1,1640 @@
+{
+  "courseId": "core-java-programming-hindi-469159",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:46.437Z",
+  "title": "Core Java Programming (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "VAvsYDtBe78",
+      "title": "1. Introduction to Java Programming (Hindi)",
+      "duration": 198
+    },
+    {
+      "id": "MQsDtY_fcWo",
+      "title": "2. Features of Java Programming (Hindi)",
+      "duration": 416
+    },
+    {
+      "id": "820q9lPNMx8",
+      "title": "3. Java Virtual Machine  (Hindi)",
+      "duration": 369
+    },
+    {
+      "id": "NzzXfV6G7hI",
+      "title": "4. Some important Points in Java Programming (Hindi)",
+      "duration": 96
+    },
+    {
+      "id": "pdv7uYgKI6c",
+      "title": "5. Separators in Java Programming (Hindi)",
+      "duration": 222
+    },
+    {
+      "id": "kBLSAVINr6w",
+      "title": "6. Classification of Java Programming (Hindi)",
+      "duration": 117
+    },
+    {
+      "id": "W5sEh4-7DDM",
+      "title": "7. How to Download Java Development Kit (Hindi)",
+      "duration": 229
+    },
+    {
+      "id": "syWVNZitMlw",
+      "title": "8. How to Install JDK (Hindi)",
+      "duration": 152
+    },
+    {
+      "id": "vHI148SyMIE",
+      "title": "9. How to set path for Java Development Kit (Hindi)",
+      "duration": 277
+    },
+    {
+      "id": "98NFFImtXzk",
+      "title": "10. A Basic Structure of Java Program (Hindi)",
+      "duration": 1009
+    },
+    {
+      "id": "IDz5w4ka3gU",
+      "title": "11. How to run Java Program (Hindi)",
+      "duration": 644
+    },
+    {
+      "id": "ZS0ycM2FsNk",
+      "title": "12. How to Download Eclipse for Java Programming (Hindi)",
+      "duration": 226
+    },
+    {
+      "id": "JT9yLGdnz0I",
+      "title": "13. How to install Eclipse for Java Programming (Hindi)",
+      "duration": 237
+    },
+    {
+      "id": "HKfK3gI7Hlc",
+      "title": "14. How to Start Eclipse for Java Programming (Hindi)",
+      "duration": 130
+    },
+    {
+      "id": "5puUGBgMq0k",
+      "title": "15. How to Create Project in Eclipse for Java Programming (Hindi)",
+      "duration": 225
+    },
+    {
+      "id": "OiM8HNEZyRI",
+      "title": "16. How to Run Java Program in Eclipse (Hindi)",
+      "duration": 175
+    },
+    {
+      "id": "gzhavuBnlIw",
+      "title": "17. How to Enable Line Number in Eclipse (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "szTYQ7SFFF4",
+      "title": "18. How to Increase font size in Eclipse (Hindi)",
+      "duration": 138
+    },
+    {
+      "id": "qWzWKaJcVIs",
+      "title": "19. How to Turn Off Tooltip in Eclipse (Hindi)",
+      "duration": 177
+    },
+    {
+      "id": "OYCpyp7MrJs",
+      "title": "20. Data Types in Java Programming (Hindi)",
+      "duration": 606
+    },
+    {
+      "id": "VjNjAdisT0g",
+      "title": "21. Declaration and Initialization of variables in Java Programming (Hindi)",
+      "duration": 661
+    },
+    {
+      "id": "7HB_f4FCK3Y",
+      "title": "22. Reserve Keywords in Java Programming (Hindi)",
+      "duration": 122
+    },
+    {
+      "id": "i0ovP0HvPtU",
+      "title": "23. Literals and Identifiers in Java Programming (Hindi)",
+      "duration": 97
+    },
+    {
+      "id": "HVEDqu8sekk",
+      "title": "24. How to Print in Java Programming (Hindi)",
+      "duration": 343
+    },
+    {
+      "id": "F2XDboeGdkQ",
+      "title": "25. Class in Java Programming (Hindi)",
+      "duration": 512
+    },
+    {
+      "id": "-zCQAskXkvg",
+      "title": "26. Object in Java Programming (Hindi)",
+      "duration": 502
+    },
+    {
+      "id": "g8sYRD8kocY",
+      "title": "27. Multiple class in Java Programming (Hindi)",
+      "duration": 396
+    },
+    {
+      "id": "86QQOYST2Vk",
+      "title": "28. Getting Input from User in Java Programming (Hindi)",
+      "duration": 535
+    },
+    {
+      "id": "ZOrkSGpZ5U4",
+      "title": "29. Difference between nextLine and next in Java Programming (Hindi)",
+      "duration": 114
+    },
+    {
+      "id": "7-Y7XY2Z8hk",
+      "title": "30. Arithmetic Operators in Java Programming (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "vfiyc-1M4Cc",
+      "title": "31. Relational Operator in Java Programming (Hindi)",
+      "duration": 312
+    },
+    {
+      "id": "sqUOik-Wg2c",
+      "title": "32. Logical Operators in Java Programming (Hindi)",
+      "duration": 551
+    },
+    {
+      "id": "61BjIIT_0vw",
+      "title": "33. All other operators in Java Programming (Hindi)",
+      "duration": 272
+    },
+    {
+      "id": "oPkNpUqWRZs",
+      "title": "34. If Statement in Java Programming (Hindi)",
+      "duration": 319
+    },
+    {
+      "id": "L2Mbnsk8h_c",
+      "title": "35. Nested If Statement in Java Programming (Hindi)",
+      "duration": 493
+    },
+    {
+      "id": "lID1GK97ngQ",
+      "title": "36. If else Statement in Java Programming (Hindi)",
+      "duration": 218
+    },
+    {
+      "id": "L_0W_qSAMF0",
+      "title": "37. Nested if else Statement in Java Programming (Hindi)",
+      "duration": 504
+    },
+    {
+      "id": "XcZU2YGNlvA",
+      "title": "38. Else if Statement in Java Programming (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "Pr4Wzmio3-0",
+      "title": "39. Switch Statement in Java Programming (Hindi)",
+      "duration": 192
+    },
+    {
+      "id": "Q7HgUvSHxaQ",
+      "title": "40. Download and Install NetBeans Java IDE (Hindi)",
+      "duration": 238
+    },
+    {
+      "id": "GVF0za0vhKA",
+      "title": "41. Create Java Project in NetBeans (Hindi)",
+      "duration": 278
+    },
+    {
+      "id": "ycCxYw9weu4",
+      "title": "42. Run Java Program in NetBeans (Hindi)",
+      "duration": 190
+    },
+    {
+      "id": "1AxeMcyjtEQ",
+      "title": "43. Increase or Decrease Font Size in NetBeans (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "VOkhDMFghCY",
+      "title": "44. Escape Sequence in Java Programming (Hindi)",
+      "duration": 238
+    },
+    {
+      "id": "xGgQY9BT9vc",
+      "title": "45. Iterative Statement in Java Programming (Hindi)",
+      "duration": 140
+    },
+    {
+      "id": "ukfscblxgRA",
+      "title": "46. while loop in Java Programming (Hindi)",
+      "duration": 808
+    },
+    {
+      "id": "G2eDj6kIVvs",
+      "title": "47. While loop Example in Java Programming (Hindi)",
+      "duration": 593
+    },
+    {
+      "id": "JW1_fjZsK88",
+      "title": "48. Do While loop in Java Programming (Hindi)",
+      "duration": 463
+    },
+    {
+      "id": "9jD1lq3cqnY",
+      "title": "49. for loop in Java Programming (Hindi)",
+      "duration": 323
+    },
+    {
+      "id": "wI8bu2zGoHM",
+      "title": "50. Nested for loop in Java Programming (Hindi)",
+      "duration": 604
+    },
+    {
+      "id": "jiMZZ2lEePk",
+      "title": "51. Continue and Break Statement in Java Programming (Hindi)",
+      "duration": 307
+    },
+    {
+      "id": "k7sHiq-ch1I",
+      "title": "52. Instance Variable in Java Programming (Hindi)",
+      "duration": 876
+    },
+    {
+      "id": "3gYr83ni388",
+      "title": "53. Static Variable or Class variable in Java Programming (Hindi)",
+      "duration": 596
+    },
+    {
+      "id": "yQaxhvlyUi8",
+      "title": "54. Local Variable in Java Programming (Hindi)",
+      "duration": 296
+    },
+    {
+      "id": "gCS3ED0bqp0",
+      "title": "55. What is Method in Java Programming (Hindi)",
+      "duration": 118
+    },
+    {
+      "id": "Rcujf2nNbGA",
+      "title": "56. Instance Method without Parameter in Java Programming (Hindi)",
+      "duration": 728
+    },
+    {
+      "id": "mDm3EiFFM5Y",
+      "title": "57. Instance Method with Parameter in Java Programming (Hindi)",
+      "duration": 482
+    },
+    {
+      "id": "5Csk8lxovdk",
+      "title": "58. Instance Method in another class in Java Programming (Hindi)",
+      "duration": 312
+    },
+    {
+      "id": "JHYlj5rnQl0",
+      "title": "59. Instance Method returning value in Java Programming (Hindi)",
+      "duration": 534
+    },
+    {
+      "id": "DTv7nyKRkxE",
+      "title": "60. Method Returning String in Java Programming (Hindi)",
+      "duration": 373
+    },
+    {
+      "id": "oNemho4aGL0",
+      "title": "61. Nesting of Instance Method in Java Programming (Hindi)",
+      "duration": 820
+    },
+    {
+      "id": "njlffluIv1A",
+      "title": "62. Method overloading in terms of type of parameter in Java Programming (Hindi)",
+      "duration": 791
+    },
+    {
+      "id": "wIKc-fxUkf0",
+      "title": "63. Method overloading in terms of number of parameter in Java Programming (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "lzWGqwajN68",
+      "title": "64. Calling Static method in static method in Java Programming (Hindi)",
+      "duration": 591
+    },
+    {
+      "id": "ra0N02wSoUs",
+      "title": "65. Calling Static method in Instance Method in Java Programming (Hindi)",
+      "duration": 510
+    },
+    {
+      "id": "C6vmT261-8Y",
+      "title": "66. Static method can not use non static data member in Java Programming (Hindi)",
+      "duration": 305
+    },
+    {
+      "id": "r-rOCmkfu9w",
+      "title": "67. One Dimensional Array in Java Programming (Hindi)",
+      "duration": 761
+    },
+    {
+      "id": "k1cdmzYcJCI",
+      "title": "68. One Dimensional Array Example in Java Programming (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "mb1Vs3yH2wA",
+      "title": "69. Getting input from user in one D Array Java Programming (Hindi)",
+      "duration": 661
+    },
+    {
+      "id": "c3zj-o5xk10",
+      "title": "70. Initialization an Array with an Array in Java Programming (Hindi)",
+      "duration": 260
+    },
+    {
+      "id": "5vRx3WaphSg",
+      "title": "71. Calculation with Array in Java Programming (Hindi)",
+      "duration": 329
+    },
+    {
+      "id": "EnhYoH_yBns",
+      "title": "72. One Dimensional Array length in Java Programming (Hindi)",
+      "duration": 313
+    },
+    {
+      "id": "5F1tUMTBYxU",
+      "title": "73. Dynamic Memory Allocation in One Dimensional Array Java Programming (Hindi)",
+      "duration": 371
+    },
+    {
+      "id": "NBvgMaQ5-SM",
+      "title": "74. Two Dimensional Array in Java Programming (Hindi)",
+      "duration": 802
+    },
+    {
+      "id": "3vJNR_Ubj1M",
+      "title": "75. Two Dimensional Array Example in Java Programming (Hindi)",
+      "duration": 611
+    },
+    {
+      "id": "F1QS_ZcpOek",
+      "title": "76. Getting input from user in Two Dimensional Array in Java Programming (Hindi)",
+      "duration": 1268
+    },
+    {
+      "id": "dyk4STMfbmE",
+      "title": "77. Initialization of a 2D Array with a 2D Array in Java Programming (Hindi)",
+      "duration": 135
+    },
+    {
+      "id": "8C80C2myc-Y",
+      "title": "78. Calculation with 2D Array in Java Programming (Hindi)",
+      "duration": 207
+    },
+    {
+      "id": "HqmjbWyEOcc",
+      "title": "79. Two Dimensional Array length in Java Programming (Hindi)",
+      "duration": 446
+    },
+    {
+      "id": "g5Ql054Berk",
+      "title": "80. Dynamic Memory Allocation in Two Dimensional Array Java Programming (Hindi)",
+      "duration": 475
+    },
+    {
+      "id": "QrLq8zW1ijA",
+      "title": "81. Jagged Array in Java Programming (Hindi)",
+      "duration": 381
+    },
+    {
+      "id": "yyokftvzvW8",
+      "title": "82. Jagged Array length in Java Programming (Hindi)",
+      "duration": 482
+    },
+    {
+      "id": "GurJSLme-6s",
+      "title": "83. Jagged Array Example in Java Programming (Hindi)",
+      "duration": 794
+    },
+    {
+      "id": "uoP2LJJp6vg",
+      "title": "84. Getting input from user in Jagged Array in Java Programming (Hindi)",
+      "duration": 593
+    },
+    {
+      "id": "4Yb7v--iGSA",
+      "title": "85. Dynamic Memory Allocation in Jagged Array Java Programming (Hindi)",
+      "duration": 563
+    },
+    {
+      "id": "wE39rJGsLOk",
+      "title": "86. Unlabeled and Labeled break Statement in Java Programming (Hindi)",
+      "duration": 628
+    },
+    {
+      "id": "9lHSIjX2P54",
+      "title": "87. Unlabeled and Labeled continue Statement in Java Programming (Hindi)",
+      "duration": 605
+    },
+    {
+      "id": "TwRYjQ305B8",
+      "title": "88. What is Enhanced for loop or for each in Java Programming (Hindi)",
+      "duration": 198
+    },
+    {
+      "id": "pemer0HdrHc",
+      "title": "89. Enhanced for loop with One Dimensional Array in Java Programming (Hindi)",
+      "duration": 393
+    },
+    {
+      "id": "3VE0MkKo70s",
+      "title": "90. Enhanced for loop with Two Dimensional Array in Java Programming (Hindi)",
+      "duration": 270
+    },
+    {
+      "id": "_GzSslkwTW0",
+      "title": "91. What is Constructor in Java Programming (Hindi)",
+      "duration": 314
+    },
+    {
+      "id": "4Vxz6wK4wFI",
+      "title": "92. Default Constructor in Java Programming (Hindi)",
+      "duration": 381
+    },
+    {
+      "id": "GSzdRt_NpeI",
+      "title": "93. Parameterized Constructor in Java Programming (Hindi)",
+      "duration": 253
+    },
+    {
+      "id": "SS3W4rnHKqo",
+      "title": "94. There is no Copy Constructor in Java Programming (Hindi)",
+      "duration": 94
+    },
+    {
+      "id": "s1qkmObcvvI",
+      "title": "95. Constructor Overloading in Java Programming (Hindi)",
+      "duration": 643
+    },
+    {
+      "id": "YgBWp-XlnAM",
+      "title": "96. There is no Destructor in Java Programming (Hindi)",
+      "duration": 70
+    },
+    {
+      "id": "H2WmTexXI18",
+      "title": "101. What is Inheritance in Java Programming (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "ASuHommHCZM",
+      "title": "102. Why do we need inheritance in Java Programming (Hindi)",
+      "duration": 217
+    },
+    {
+      "id": "XcAqQw-egn8",
+      "title": "103. Declaration of SubClass in Java Programming (Hindi)",
+      "duration": 148
+    },
+    {
+      "id": "vBBhxHRtACU",
+      "title": "104. Type of Inheritance in Java Programming (Hindi)",
+      "duration": 72
+    },
+    {
+      "id": "SSJVCIAa91E",
+      "title": "105. Single Inheritance in Java Programming (Hindi)",
+      "duration": 673
+    },
+    {
+      "id": "aV-GN7Dx4Qs",
+      "title": "106. There is no Multiple Inheritance in Java Programming (Hindi)",
+      "duration": 78
+    },
+    {
+      "id": "nif95oQKwVE",
+      "title": "107. Multi Level Inheritance in Java Programming (Hindi)",
+      "duration": 711
+    },
+    {
+      "id": "YiNtXsUD2NE",
+      "title": "108. Hierarchical Inheritance in Java Programming (Hindi)",
+      "duration": 637
+    },
+    {
+      "id": "XKAxTp-UDkg",
+      "title": "109. Method Overriding in Java Programming (Hindi)",
+      "duration": 895
+    },
+    {
+      "id": "kWLVmCgUEh8",
+      "title": "110. Abstract Class and Abstract Method in Java Programming (Hindi)",
+      "duration": 725
+    },
+    {
+      "id": "vYewMLEyUWg",
+      "title": "111. Example of Abstract Class and Abstract Method in Java Programming (Hindi)",
+      "duration": 333
+    },
+    {
+      "id": "-MDq5XQkYmQ",
+      "title": "112. Final with Instance variable in Java Programming (Hindi)",
+      "duration": 605
+    },
+    {
+      "id": "Z9Io4wxCZMc",
+      "title": "113. Final with Static variable in Java Programming (Hindi)",
+      "duration": 175
+    },
+    {
+      "id": "Stkj_TWQxPk",
+      "title": "114. Final with Local Variable in Java Programming (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "w0G3MH9CQbo",
+      "title": "115. Final with Parameter in Java Programming (Hindi)",
+      "duration": 162
+    },
+    {
+      "id": "t2o0SLrObUQ",
+      "title": "116. Final Method in Java Programming (Hindi)",
+      "duration": 429
+    },
+    {
+      "id": "IX9c9lda878",
+      "title": "117. Final Class in Java Programming (Hindi)",
+      "duration": 201
+    },
+    {
+      "id": "U1_51RzC-CY",
+      "title": "118. What is Interface in Java Programming (Hindi)",
+      "duration": 644
+    },
+    {
+      "id": "tVnPoP8H-So",
+      "title": "119. Defining Interface in Java Programming (Hindi)",
+      "duration": 306
+    },
+    {
+      "id": "yoy77LgASDQ",
+      "title": "120. One Interface extending one interface in Java Programming (Hindi)",
+      "duration": 204
+    },
+    {
+      "id": "Xtgf_tEugUk",
+      "title": "121. One interface extended by more than one interface in Java Programming (Hindi)",
+      "duration": 178
+    },
+    {
+      "id": "5BzyxwTN-DI",
+      "title": "122. One class implements one interface in Java Programming (Hindi)",
+      "duration": 541
+    },
+    {
+      "id": "FrhQg7nk4s8",
+      "title": "123. One class implements more than one interface in Java Programming (Hindi)",
+      "duration": 200
+    },
+    {
+      "id": "eXO_07QnAgI",
+      "title": "124. Example of Defining Interface in Java Programming (Hindi)",
+      "duration": 362
+    },
+    {
+      "id": "t-vhKuuhzqY",
+      "title": "125. Example of One Interface extending one Interface in Java Programming (Hindi)",
+      "duration": 270
+    },
+    {
+      "id": "1Y_YrHtKg2M",
+      "title": "126. Example of One interface extended by more than one interface in Java Programming (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "PmoM478gvwI",
+      "title": "127. Example of One class implements one interface in Java Programming (Hindi)",
+      "duration": 558
+    },
+    {
+      "id": "B5T1tpIBq1I",
+      "title": "128. Example of One class implements more than one interface in Java Programming (Hindi)",
+      "duration": 387
+    },
+    {
+      "id": "I-0KDptHYxA",
+      "title": "129. Accessing Interface Variables in Java Programming (Hindi)",
+      "duration": 255
+    },
+    {
+      "id": "eZFKfhOiLnY",
+      "title": "130. Extends Class and Implements Interface together in Java Programming (Hindi)",
+      "duration": 411
+    },
+    {
+      "id": "CeiKnZEMSB8",
+      "title": "131. Multiple Inheritance using Interface in Java Programming (Hindi)",
+      "duration": 407
+    },
+    {
+      "id": "xqMIX0KL5VE",
+      "title": "132. Hybrid Inheritance in Java Programming (Hindi)",
+      "duration": 715
+    },
+    {
+      "id": "-UNcvosHNdI",
+      "title": "133. Difference between Interface and Abstract Class in Java Programming (Hindi)",
+      "duration": 314
+    },
+    {
+      "id": "Hawdu6qcUjM",
+      "title": "134. Various form of Interface in Java Programming (Hindi)",
+      "duration": 231
+    },
+    {
+      "id": "Be5uW2mmp3U",
+      "title": "135. How a Subclass can hide variable of super class in Java Programming (Hindi)",
+      "duration": 228
+    },
+    {
+      "id": "xYjxZUL-FqM",
+      "title": "136. super with Instance Variable in Java Programming (Hindi)",
+      "duration": 333
+    },
+    {
+      "id": "40OuQzdIJvc",
+      "title": "137. How a Subclass can hide method of super class in Java Programming (Hindi)",
+      "duration": 235
+    },
+    {
+      "id": "7MR9be6Sqbw",
+      "title": "138. super with method in Java Programming (Hindi)",
+      "duration": 224
+    },
+    {
+      "id": "HLiZDVemyRc",
+      "title": "139. super with default constructor in Java Programming (Hindi)",
+      "duration": 429
+    },
+    {
+      "id": "MP7d99MdqNo",
+      "title": "140. super with parameterized constructor in Java Programming (Hindi)",
+      "duration": 601
+    },
+    {
+      "id": "MkIggMwWUOE",
+      "title": "141. What is Package in Java Programming (Hindi)",
+      "duration": 382
+    },
+    {
+      "id": "Cg_OPIgznZc",
+      "title": "142. Built in Package in Java Programming (Hindi)",
+      "duration": 255
+    },
+    {
+      "id": "saClM6McmhI",
+      "title": "143. User Defined Package in Java Programming (Hindi)",
+      "duration": 437
+    },
+    {
+      "id": "73DZO-4ZDHI",
+      "title": "144. Example of Rules for User Defined Package in Java Programming (Hindi)",
+      "duration": 397
+    },
+    {
+      "id": "uj-_UR0RTuc",
+      "title": "145. Accessing or importing Package in Java Programming (Hindi)",
+      "duration": 548
+    },
+    {
+      "id": "IhhSE3JpSrU",
+      "title": "146. Example of Accessing or importing User Defined Package in Java Programming (Hindi)",
+      "duration": 487
+    },
+    {
+      "id": "UZ2CalQYgpo",
+      "title": "147. How to access or import built in package in Java Programming (Hindi)",
+      "duration": 462
+    },
+    {
+      "id": "in8oVJbJkh0",
+      "title": "148. Create and Save Package for notepad user in Java Programming (Hindi)",
+      "duration": 594
+    },
+    {
+      "id": "Tz8Nbm5lluw",
+      "title": "149. Create and Save package for Netbeans User in Java Programming (Hindi)",
+      "duration": 397
+    },
+    {
+      "id": "pLRl5VAPjV4",
+      "title": "150. Better Understanding of Package in Java Programming (Hindi)",
+      "duration": 743
+    },
+    {
+      "id": "3GfBaQBL3Sw",
+      "title": "151. Why should we use Package in Java Programming (Hindi)",
+      "duration": 652
+    },
+    {
+      "id": "hMyBvgOK2Eo",
+      "title": "152. Access Modifier in Java Programming (Hindi)",
+      "duration": 2312
+    },
+    {
+      "id": "tpk4WYSeINI",
+      "title": "153. Class and Interface with Access Modifier in Java Programming (Hindi)",
+      "duration": 1014
+    },
+    {
+      "id": "8NdA3vTTuLk",
+      "title": "154. Access Modifiers with Inheritance in Java Programming (Hindi)",
+      "duration": 575
+    },
+    {
+      "id": "I5eQ2QcYxqk",
+      "title": "156. Public Access Modifier with Package in Java Programming (Hindi)",
+      "duration": 921
+    },
+    {
+      "id": "jPShiFRA0Ek",
+      "title": "157. Private Access Modifier with Package in Java Programming (Hindi)",
+      "duration": 516
+    },
+    {
+      "id": "NlmKAJXJNro",
+      "title": "158. Protected Access Modifier with Package in Java Programming (Hindi)",
+      "duration": 383
+    },
+    {
+      "id": "cyAwLXuVqmk",
+      "title": "159. Default Access Modifier with Package in Java Programming (Hindi)",
+      "duration": 300
+    },
+    {
+      "id": "z8qJdUsnRr8",
+      "title": "160. No longer support private protected modifier in Java Programming (Hindi)",
+      "duration": 154
+    },
+    {
+      "id": "e7Gtpj72Ai0",
+      "title": "161. Example of Package in Java Programming (Hindi)",
+      "duration": 612
+    },
+    {
+      "id": "ipC0NXdBHZ4",
+      "title": "162. Resolve Name conflicts in Packages Java Programming (Hindi)",
+      "duration": 459
+    },
+    {
+      "id": "k189zYBXe-I",
+      "title": "163. Package Hierarchy in Java Programming (Hindi)",
+      "duration": 1167
+    },
+    {
+      "id": "F12W4wtPb7Q",
+      "title": "164. Creating Package Hierarchy for Netbeans Users in Java Programming (Hindi)",
+      "duration": 521
+    },
+    {
+      "id": "IHcXebxHfzw",
+      "title": "165. Accessing Package Hierarchy in Java Programming (Hindi)",
+      "duration": 1047
+    },
+    {
+      "id": "idoHcr6jlR0",
+      "title": "166. Creating Package Hierarchy for Notepad Users in Java Programming (Hindi)",
+      "duration": 649
+    },
+    {
+      "id": "8a0rMcucsj4",
+      "title": "167. Example of Package Hierarchy in Java Programming (Hindi)",
+      "duration": 437
+    },
+    {
+      "id": "QWAdaJFz6cM",
+      "title": "168. How to Set CLASSPATH in Java Programming (Hindi)",
+      "duration": 654
+    },
+    {
+      "id": "_4mSRLo5Jaw",
+      "title": "169. Solve  error Could not find or load main class in Java Programming (Hindi)",
+      "duration": 214
+    },
+    {
+      "id": "NEWR7mwHI7E",
+      "title": "170. Why and How to Append PATH and CLASSPATH value in Java Programming (Hindi)",
+      "duration": 340
+    },
+    {
+      "id": "FHd7w7SU5vU",
+      "title": "171. Difference between PATH and CLASSPATH in Java Programming (Hindi)",
+      "duration": 781
+    },
+    {
+      "id": "GYEuuaybfFk",
+      "title": "172. What is Exception in Java Programming (Hindi)",
+      "duration": 231
+    },
+    {
+      "id": "9CDo4ddL4VI",
+      "title": "173. Why Exceptions Occurs in Java Programming (Hindi)",
+      "duration": 157
+    },
+    {
+      "id": "Cj32mE4eWYg",
+      "title": "174. What we can do when Exception Occur in Java Programming (Hindi)",
+      "duration": 184
+    },
+    {
+      "id": "lDNpj26ise4",
+      "title": "175. Example of Exception in Java Programming (Hindi)",
+      "duration": 316
+    },
+    {
+      "id": "dVW9KAtcU2Q",
+      "title": "176. What is Exception Handling in Java Programming (Hindi)",
+      "duration": 75
+    },
+    {
+      "id": "24-kOoheJQ4",
+      "title": "177. Advantage of Exception Handling in Java Programming (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "pBJc58vbD1I",
+      "title": "178. Type of Exceptions in Java Programming (Hindi)",
+      "duration": 33
+    },
+    {
+      "id": "5XKeJcculIQ",
+      "title": "179. What is Checked Exceptions in Java Programming (Hindi)",
+      "duration": 77
+    },
+    {
+      "id": "Qa8QlLmutf0",
+      "title": "180. What is Unchecked Exceptions in Java Programming (Hindi)",
+      "duration": 228
+    },
+    {
+      "id": "sDGGr4JMC-Q",
+      "title": "181. Difference between Checked Exceptions and Unchecked Exceptions in Java Programming (Hindi)",
+      "duration": 1389
+    },
+    {
+      "id": "9X_f808ufdo",
+      "title": "182. Example of Checked Exception and Unchecked Exception in Java Programming (Hindi)",
+      "duration": 388
+    },
+    {
+      "id": "SDEBWzj9jiU",
+      "title": "183. Throwable Class Hierarchy in Java Programming (Hindi)",
+      "duration": 105
+    },
+    {
+      "id": "ovgXGlDZntk",
+      "title": "184. Common Exceptions and Their Meanings in Java Programming (Hindi)",
+      "duration": 241
+    },
+    {
+      "id": "Ehxhk70-E6U",
+      "title": "185. How to Handle Exception in Java Programming (Hindi)",
+      "duration": 71
+    },
+    {
+      "id": "vmofQp9IQyA",
+      "title": "186. try and catch in Java Programming (Hindi)",
+      "duration": 272
+    },
+    {
+      "id": "vWU5ePEEel8",
+      "title": "187. Example of try and catch in Java Programming (Hindi)",
+      "duration": 1035
+    },
+    {
+      "id": "f1VHred3Si4",
+      "title": "188. Catching Multiple Exceptions or Multiple Catch in Java Programming (Hindi)",
+      "duration": 1037
+    },
+    {
+      "id": "mjnBaMaozXE",
+      "title": "189. Example 1 Multiple Catch in Java Programming (Hindi)",
+      "duration": 761
+    },
+    {
+      "id": "tPiAEUvMrSs",
+      "title": "190. Example 2 Multiple Catch in Java Programming (Hindi)",
+      "duration": 342
+    },
+    {
+      "id": "tysR4M_u4r8",
+      "title": "191. Most Specific to Most general in Multiple Catch Java Programming (Hindi)",
+      "duration": 544
+    },
+    {
+      "id": "9FXX3EYEbvs",
+      "title": "192. Multi catch in Java Programming Java 1.7 New feature (Hindi)",
+      "duration": 419
+    },
+    {
+      "id": "jZ1BkC7I-7E",
+      "title": "193. Parent Child not allowed in Multi Catch Java 1.7 (Hindi)",
+      "duration": 351
+    },
+    {
+      "id": "lPCuIrHn6-s",
+      "title": "194. Nested try in Java Programming (Hindi)",
+      "duration": 80
+    },
+    {
+      "id": "f9gUnvqJaNw",
+      "title": "196. finally in Java Programming (Hindi)",
+      "duration": 490
+    },
+    {
+      "id": "5UgvF-0sxrA",
+      "title": "197. Example of finally in Java Programming (Hindi)",
+      "duration": 1029
+    },
+    {
+      "id": "0gGVWsAS_Ec",
+      "title": "198. Exception Propagation in Java Programming (Hindi)",
+      "duration": 258
+    },
+    {
+      "id": "13qc7XJKoJY",
+      "title": "199. Example of Exception Propagation in Java Programming (Hindi)",
+      "duration": 492
+    },
+    {
+      "id": "vGYPHLiw_AQ",
+      "title": "200. throw in Java Programming (Hindi)",
+      "duration": 338
+    },
+    {
+      "id": "Yrl-snkI7-k",
+      "title": "201. Example of throw in Java Programming (Hindi)",
+      "duration": 1211
+    },
+    {
+      "id": "gKGn7lUmqck",
+      "title": "202. throws in Java Programming (Hindi)",
+      "duration": 931
+    },
+    {
+      "id": "Eiyj1Nu9ORA",
+      "title": "203. Example of throws in Java Programming (Hindi)",
+      "duration": 653
+    },
+    {
+      "id": "HMwiCbdTAJY",
+      "title": "204. More about throws in Java Programming (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "yKyBigt6YBo",
+      "title": "205. try with resources in Java Programming (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "K1pCbI-PxWg",
+      "title": "207. try with multiple resources in Java Programming (Hindi)",
+      "duration": 258
+    },
+    {
+      "id": "vkN2v3LsoEo",
+      "title": "209. User Defined Exceptions or Custom Exception in Java Programming (Hindi)",
+      "duration": 170
+    },
+    {
+      "id": "93ZAcXFbe3U",
+      "title": "210. Custom Exceptions are Checked or Unchecked Exception in Java Programming (Hindi)",
+      "duration": 177
+    },
+    {
+      "id": "BT3pysDazEg",
+      "title": "211. User Defined Checked Exception in Java Programming (Hindi)",
+      "duration": 1180
+    },
+    {
+      "id": "kbWbJREzc-Q",
+      "title": "212. User Defined Unchecked Exception in Java Programming (Hindi)",
+      "duration": 454
+    },
+    {
+      "id": "Ejl6BcJkInA",
+      "title": "213. Rethrowing Exceptions in Java Programming (Hindi)",
+      "duration": 95
+    },
+    {
+      "id": "hJgld26yzHc",
+      "title": "214. Example of Re throwing Exception in Java Programming (Hindi)",
+      "duration": 416
+    },
+    {
+      "id": "v5BkWwU65SM",
+      "title": "215. Convert one type of exception to another in Java Programming (Hindi)",
+      "duration": 411
+    },
+    {
+      "id": "KnEI3fyeX00",
+      "title": "216. Difference between Exceptions and errors in Java Programming (Hindi)",
+      "duration": 398
+    },
+    {
+      "id": "uuGVSKybHO4",
+      "title": "217. Difference between throw and throws in Java Programming (Hindi)",
+      "duration": 112
+    },
+    {
+      "id": "w_xMK1ygPjo",
+      "title": "219. Stack and Heap in Java Programming (Hindi)",
+      "duration": 685
+    },
+    {
+      "id": "Sh_Vy_Rih0w",
+      "title": "220. Declaring and Initializing char in Java Programming (Hindi)",
+      "duration": 578
+    },
+    {
+      "id": "WOTO58am6eA",
+      "title": "221. char one D Array in Java Programming (Hindi)",
+      "duration": 681
+    },
+    {
+      "id": "YYaw7TvnMj8",
+      "title": "222. char Two D Array in Java Programming (Hindi)",
+      "duration": 608
+    },
+    {
+      "id": "qLFmh4HSiYQ",
+      "title": "223. Getting input from user in char Java Programming (Hindi)",
+      "duration": 475
+    },
+    {
+      "id": "9sB7cYH4MoY",
+      "title": "224. Getting input from user in char array Java Programming (Hindi)",
+      "duration": 569
+    },
+    {
+      "id": "uCKKJi2FUE0",
+      "title": "225. isLetter Method in Java Programming (Hindi)",
+      "duration": 253
+    },
+    {
+      "id": "zBfnUFxXqPM",
+      "title": "226. isWhitespace Method in Java Programming (Hindi)",
+      "duration": 160
+    },
+    {
+      "id": "p8AWsJ7IZUI",
+      "title": "227. toString Method in Java Programming (Hindi)",
+      "duration": 100
+    },
+    {
+      "id": "Db6Gj8yebT4",
+      "title": "228. isUpperCase Method in Java Programming (Hindi)",
+      "duration": 151
+    },
+    {
+      "id": "WaNI0lMFPxg",
+      "title": "229. isLowerCase Method in Java Programming (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "uOFj35hXRh0",
+      "title": "230. toUpperCase Method in Java Programming (Hindi)",
+      "duration": 116
+    },
+    {
+      "id": "5QJe3bAZmGI",
+      "title": "231. toLowerCase Method in Java Programming (Hindi)",
+      "duration": 93
+    },
+    {
+      "id": "FDvruDjZAZ8",
+      "title": "232. isDigit Method in Java Programming (Hindi)",
+      "duration": 274
+    },
+    {
+      "id": "VCqpv3btx1c",
+      "title": "233. Character Constructor in Java Programming (Hindi)",
+      "duration": 53
+    },
+    {
+      "id": "mg4J3AC_Dvg",
+      "title": "234. Immutable and Mutable in Java Programming (Hindi)",
+      "duration": 55
+    },
+    {
+      "id": "cTbWCxzp_ZM",
+      "title": "235. String in Java Programming (Hindi)",
+      "duration": 228
+    },
+    {
+      "id": "kDwrjhmelpw",
+      "title": "236. String Buffer in Java Programming (Hindi)",
+      "duration": 75
+    },
+    {
+      "id": "TMLDegFUu3s",
+      "title": "237. Declaration and Initialization of String in Java Programming (Hindi)",
+      "duration": 125
+    },
+    {
+      "id": "td8Ul12sqWc",
+      "title": "238. Example of Declaration and Initialization of String in Java Programming (Hindi)",
+      "duration": 73
+    },
+    {
+      "id": "PGZEkGc6i3s",
+      "title": "239. Difference between new String and String in Java Programming (Hindi)",
+      "duration": 1037
+    },
+    {
+      "id": "PdKcYxTpHlw",
+      "title": "240. Declaration and Initialization of String Buffer in Java Programming (Hindi)",
+      "duration": 111
+    },
+    {
+      "id": "DYQylgmiMWc",
+      "title": "241. String Objects are Immutable in Java Programming (Hindi)",
+      "duration": 619
+    },
+    {
+      "id": "AKSRE8gv8eM",
+      "title": "242. String Buffer objects are mutable in Java Programming (Hindi)",
+      "duration": 219
+    },
+    {
+      "id": "K_aeUH-JgTE",
+      "title": "243. String one D Array in Java Programming (Hindi)",
+      "duration": 706
+    },
+    {
+      "id": "GCgSpNcXr20",
+      "title": "244. How to find String Length in Java Programming (Hindi)",
+      "duration": 252
+    },
+    {
+      "id": "NrRU7U1fmBQ",
+      "title": "245. How to find String one D Array Length in Java Programming (Hindi)",
+      "duration": 167
+    },
+    {
+      "id": "fYGXZqIkemg",
+      "title": "246. String 2D Array in Java Programming (Hindi)",
+      "duration": 486
+    },
+    {
+      "id": "ZUHgaoEb9mg",
+      "title": "247. How to find String Two D Array Length in Java Programming (Hindi)",
+      "duration": 187
+    },
+    {
+      "id": "MnhAPCjlo70",
+      "title": "248. Getting String input from user in Java Programming (Hindi)",
+      "duration": 156
+    },
+    {
+      "id": "o3kUSXM3CgU",
+      "title": "249. Getting String 1D Array input from user in Java Programming (Hindi)",
+      "duration": 374
+    },
+    {
+      "id": "9y30WXs80Ug",
+      "title": "250. Getting String 2D Array input from user in Java Programming (Hindi)",
+      "duration": 304
+    },
+    {
+      "id": "7rqlO3nhVJI",
+      "title": "251. String Constructor in Java Programming (Hindi)",
+      "duration": 597
+    },
+    {
+      "id": "apYU6VQ_YhA",
+      "title": "252. charAt method in Java Programming (Hindi)",
+      "duration": 314
+    },
+    {
+      "id": "Ynk4vEmHAnc",
+      "title": "253. concat Method in Java Programming (Hindi)",
+      "duration": 324
+    },
+    {
+      "id": "nBkBIp0beRQ",
+      "title": "254. equals Method in Java Programming (Hindi)",
+      "duration": 328
+    },
+    {
+      "id": "0xg0_e_xszw",
+      "title": "255. equalsIgnoreCase Method in Java Programming (Hindi)",
+      "duration": 278
+    },
+    {
+      "id": "HNl84ZrFVKE",
+      "title": "256. toLowerCase and toUpperCase Method in Java Programming (Hindi)",
+      "duration": 188
+    },
+    {
+      "id": "jC7QctPRmls",
+      "title": "257. trim Method in Java Programming (Hindi)",
+      "duration": 238
+    },
+    {
+      "id": "XR6InWftKm4",
+      "title": "258. substring Method in Java Programming (Hindi)",
+      "duration": 195
+    },
+    {
+      "id": "2Q1mJyDIVnM",
+      "title": "259. length Method in Java Programming (Hindi)",
+      "duration": 106
+    },
+    {
+      "id": "24ZwibjHRcw",
+      "title": "260. replace Method in Java Programming (Hindi)",
+      "duration": 113
+    },
+    {
+      "id": "-6I51VPJ3-s",
+      "title": "261. indexOf and lastIndexOf Method in Java Programming (Hindi)",
+      "duration": 303
+    },
+    {
+      "id": "0-k0V3eg6WY",
+      "title": "262. startsWith and endsWith Method in Java Programming (Hindi)",
+      "duration": 158
+    },
+    {
+      "id": "DcfF9L3ngco",
+      "title": "263. compareTo Method in Java Programming (Hindi)",
+      "duration": 679
+    },
+    {
+      "id": "DdrwH438zTE",
+      "title": "264. What is String Constant Pool in Java Programming (Hindi)",
+      "duration": 528
+    },
+    {
+      "id": "dF4bz-8QTiw",
+      "title": "265.  == operator in Java Programming (Hindi)",
+      "duration": 198
+    },
+    {
+      "id": "0C22iocsYu0",
+      "title": "266. String Memory Management at runtime operation in Java Programming (Hindi)",
+      "duration": 295
+    },
+    {
+      "id": "3BLN2-Eo1CY",
+      "title": "267. Memory Management in String Java Programming (Hindi)",
+      "duration": 1092
+    },
+    {
+      "id": "C7gCsB597s0",
+      "title": "268. Why Separate Memory for String in Java Programming (Hindi)",
+      "duration": 646
+    },
+    {
+      "id": "jd9tHNAObJ8",
+      "title": "271. intern method in Java Programming (Hindi)",
+      "duration": 271
+    },
+    {
+      "id": "fsbXPpFLtOI",
+      "title": "272. Concept of StringBuffer in Java Programming (Hindi)",
+      "duration": 338
+    },
+    {
+      "id": "Lv4ZCcQEs6A",
+      "title": "273. StringBuffer Constructor empty object in Java Programming (Hindi)",
+      "duration": 854
+    },
+    {
+      "id": "hkll-EJgdFk",
+      "title": "274. String Buffer Constructor empty object with specified capacity in Java Programming (Hindi)",
+      "duration": 205
+    },
+    {
+      "id": "dBlOxPdCJ24",
+      "title": "275. String Buffer Constructor String in Java Programming (Hindi)",
+      "duration": 138
+    },
+    {
+      "id": "bQY6IgMxIh0",
+      "title": "276. String Buffer Constructor CharSequence in Java Programming (Hindi)",
+      "duration": 249
+    },
+    {
+      "id": "8XXhPCilzWg",
+      "title": "277. capacity Method in Java Programming (Hindi)",
+      "duration": 288
+    },
+    {
+      "id": "Y5U1BDa1XwQ",
+      "title": "278. append Method in Java Programming (Hindi)",
+      "duration": 199
+    },
+    {
+      "id": "AlS41-H5G_g",
+      "title": "279. insert Method in Java Programming (Hindi)",
+      "duration": 307
+    },
+    {
+      "id": "BXRBpxyte2E",
+      "title": "280. Difference between Append and Insert in Java Programming (Hindi)",
+      "duration": 131
+    },
+    {
+      "id": "O9obUe5fybI",
+      "title": "281. replace Method in Java Programming (Hindi)",
+      "duration": 129
+    },
+    {
+      "id": "ZKtJV7MVM64",
+      "title": "282. delete Method in Java Programming (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "YXJCphqpd54",
+      "title": "283. delete Method with Specified Index in Java Programming (Hindi)",
+      "duration": 89
+    },
+    {
+      "id": "4u54b3MNE6Y",
+      "title": "284. reverse Method in Java Programming (Hindi)",
+      "duration": 80
+    },
+    {
+      "id": "vcE30sIdvBk",
+      "title": "285. setLength Method in Java Programming (Hindi)",
+      "duration": 128
+    },
+    {
+      "id": "Lb0m0E0T8cg",
+      "title": "286. ensureCapacity Method in Java Programming (Hindi)",
+      "duration": 122
+    },
+    {
+      "id": "2blifn23Sd8",
+      "title": "287. trimToSize Method in Java Programming (Hindi)",
+      "duration": 141
+    },
+    {
+      "id": "w8tR0au930I",
+      "title": "288. String Builder in Java Programming (Hindi)",
+      "duration": 280
+    },
+    {
+      "id": "pWvb7-e3mHg",
+      "title": "289. Difference between StringBuffer and StringBuilder in Java Programming (Hindi)",
+      "duration": 244
+    },
+    {
+      "id": "GZ2FU7TXCfY",
+      "title": "290. When we should use String or StringBuffer or StringBuilder in Java Programming (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "WRrqBzBLqdc",
+      "title": "291. Method Chain in Java Programming (Hindi)",
+      "duration": 334
+    },
+    {
+      "id": "FR_2mnas0ME",
+      "title": "292. What is Multitasking in Java Programming (Hindi)",
+      "duration": 146
+    },
+    {
+      "id": "7WYhBEFbC8U",
+      "title": "293. Type of Multitasking in Java Programming (Hindi)",
+      "duration": 47
+    },
+    {
+      "id": "QEB9nKn-DWw",
+      "title": "294. Process based multitasking in Java Programming (Hindi)",
+      "duration": 114
+    },
+    {
+      "id": "50p5sIMINmU",
+      "title": "295. Thread based multitasking in Java Programming (Hindi)",
+      "duration": 197
+    },
+    {
+      "id": "o9d7ITtUbzk",
+      "title": "296. Thread in Java Programming (Hindi)",
+      "duration": 180
+    },
+    {
+      "id": "Oi-tkD3tSH0",
+      "title": "297. MultiThreading and Its Application area in Java Programming (Hindi)",
+      "duration": 217
+    },
+    {
+      "id": "e4GHf7r8D-Y",
+      "title": "298. Defining a Thread in Java Programming (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "AD1lRHt0y8k",
+      "title": "299. Main Thread in Java Programming (Hindi)",
+      "duration": 157
+    },
+    {
+      "id": "mIcBFj8p0vQ",
+      "title": "300. Creating Thread by extending Thread class in Java Programming (Hindi)",
+      "duration": 146
+    },
+    {
+      "id": "9PtOcoELOnk",
+      "title": "301. How to Start Thread in Java Programming (Hindi)",
+      "duration": 228
+    },
+    {
+      "id": "5y5GVL0zSes",
+      "title": "302. Thread Scheduler in Java Programming (Hindi)",
+      "duration": 366
+    },
+    {
+      "id": "nzyYwpCVl7s",
+      "title": "303. Example of Creating Thread by extending Thread Class in Java Programming (Hindi)",
+      "duration": 520
+    },
+    {
+      "id": "WCEuXkm96aE",
+      "title": "304. Calling run method directly in Java Programming (Hindi)",
+      "duration": 231
+    },
+    {
+      "id": "y3fVuHpBhZg",
+      "title": "305. Why invoke start method in Java Programming (Hindi)",
+      "duration": 75
+    },
+    {
+      "id": "IV0K8oqhqwE",
+      "title": "306. Overloading run Method in Java Programming (Hindi)",
+      "duration": 282
+    },
+    {
+      "id": "1UuT0WBXXM0",
+      "title": "307. Not overriding run  Method in Java Programming (Hindi)",
+      "duration": 241
+    },
+    {
+      "id": "qthgHeTLM6U",
+      "title": "308. Overriding start  Method in Java Programming (Hindi)",
+      "duration": 340
+    },
+    {
+      "id": "dho-mWLbD3c",
+      "title": "309. Overriding start  Method with super in Java Programming (Hindi)",
+      "duration": 409
+    },
+    {
+      "id": "U99E_avrwTc",
+      "title": "310. Restarting same Thread again in Java Programming (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "0teTxpeR6fg",
+      "title": "311. Creating Thread by implementing Runnable Interface in Java Programming (Hindi)",
+      "duration": 482
+    },
+    {
+      "id": "VSbi-AfIfZU",
+      "title": "312. Example of Creating Thread by implementing Runnable Interface in Java Programming (Hindi)",
+      "duration": 680
+    },
+    {
+      "id": "5isNFc1R7no",
+      "title": "313. By extending Thread class vs By implementing Runnable interface in Java Programming (Hindi)",
+      "duration": 319
+    },
+    {
+      "id": "o-kAyQwTBdU",
+      "title": "314. Thread Class Constructors in Java Programming (Hindi)",
+      "duration": 602
+    },
+    {
+      "id": "-Hl_EY6zk_8",
+      "title": "315. start ( ) Method in Java Programming (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "h_1XkxyHqjk",
+      "title": "316. currentThread ( ) Method in Java Programming (Hindi)",
+      "duration": 357
+    },
+    {
+      "id": "dmZsqYRNB78",
+      "title": "317. getName ( ) Method in Java Programming (Hindi)",
+      "duration": 202
+    },
+    {
+      "id": "D-O2gHuRhlM",
+      "title": "318. setName ( ) Method in Java Programming (Hindi)",
+      "duration": 381
+    },
+    {
+      "id": "ZWf885vF_T0",
+      "title": "319. Thread Priority in Java Programming (Hindi)",
+      "duration": 259
+    },
+    {
+      "id": "EPQF8apyE5M",
+      "title": "320. Constant Priorities in Java Programming (Hindi)",
+      "duration": 78
+    },
+    {
+      "id": "RsaOJnWcuL0",
+      "title": "321. getPriority  and setPriority  Method in Java Programming (Hindi)",
+      "duration": 224
+    },
+    {
+      "id": "rmOwh3Nt_GE",
+      "title": "322. Default Priority in Java Programming (Hindi)",
+      "duration": 381
+    },
+    {
+      "id": "NKSQu2JT2PM",
+      "title": "323. Example of Thread priority in Java Programming (Hindi)",
+      "duration": 484
+    },
+    {
+      "id": "lG3tHwdxO2I",
+      "title": "324. Yield Method in Java Programming (Hindi)",
+      "duration": 562
+    },
+    {
+      "id": "_Va6AuElXxU",
+      "title": "325. Example of yield Method in Java Programming (Hindi)",
+      "duration": 270
+    },
+    {
+      "id": "EqR5FrCUHqQ",
+      "title": "Join Method in Java Programming (Hindi)",
+      "duration": 735
+    },
+    {
+      "id": "Wl8HdcQnhlU",
+      "title": "Example of Join ( ) Method in Java Programming (Hindi)",
+      "duration": 462
+    },
+    {
+      "id": "nw2On1sqZRA",
+      "title": "Call Join ( ) Method in Child Thread Java Programming (Hindi)",
+      "duration": 534
+    },
+    {
+      "id": "WvEmExPu4PY",
+      "title": "Main Thread and Child Thread waiting for eachother in Java Programming (Hindi)",
+      "duration": 122
+    },
+    {
+      "id": "7CGpFaJ-0LI",
+      "title": "Main Thread waiting for Main Thread in Java Programming (Hindi)",
+      "duration": 95
+    },
+    {
+      "id": "C1CNr4Pmb04",
+      "title": "sleep ( ) Method in Java Programming (Hindi)",
+      "duration": 447
+    },
+    {
+      "id": "vjhk_Xs-tgk",
+      "title": "How a Thread can interrupt another Thread in Java Programming (Hindi)",
+      "duration": 1319
+    },
+    {
+      "id": "LAhFeXt-E6I",
+      "title": "When we should use Yield Method in Java Programming (Hindi)",
+      "duration": 52
+    },
+    {
+      "id": "n7GMvMQIbdM",
+      "title": "When we should use join Method in Java Programming (Hindi)",
+      "duration": 51
+    },
+    {
+      "id": "a-LRzqgniVk",
+      "title": "When we should use sleep Method in Java Programming (Hindi)",
+      "duration": 40
+    },
+    {
+      "id": "XMg-GQ0LKKY",
+      "title": "Difference between yield join and sleep Method in Java Programming (Hindi)",
+      "duration": 216
+    },
+    {
+      "id": "m4phikMH19c",
+      "title": "How to Install JDK and Netbeans then Your First Java Project (Hindi)",
+      "duration": 688
+    }
+  ]
+}

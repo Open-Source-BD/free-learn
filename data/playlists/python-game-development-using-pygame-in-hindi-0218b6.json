@@ -1,0 +1,115 @@
+{
+  "courseId": "python-game-development-using-pygame-in-hindi-0218b6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:21.718Z",
+  "title": "Python Game Development Using Pygame In Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "_JWUPnq2g-8",
+      "title": "Flappy Bird Game In Python - Python Game Development Using Pygame In Hindi #1",
+      "duration": 258
+    },
+    {
+      "id": "sBp4FP_bPFw",
+      "title": "Pygame Installation and Tips - Python Game Development Using Pygame In Hindi #2",
+      "duration": 301
+    },
+    {
+      "id": "hHZCtzJnI2Q",
+      "title": "Creating The Game Window - Python Game Development Using Pygame In Hindi #3",
+      "duration": 348
+    },
+    {
+      "id": "mi9BpS1zEiw",
+      "title": "Game Specific Variables In Pygame - Python Game Development Using Pygame In Hindi #4",
+      "duration": 326
+    },
+    {
+      "id": "GfIpQCBWMRA",
+      "title": "Creating The Game Loop In Pygame - Python Game Development Using Pygame In Hindi #5",
+      "duration": 380
+    },
+    {
+      "id": "5MBKemDQuUs",
+      "title": "Handling Events In Pygame - Python Game Development Using Pygame In Hindi #6",
+      "duration": 478
+    },
+    {
+      "id": "J6EaoohannA",
+      "title": "Event Types and Key Press Handling In Pygame - Python Game Development Using Pygame In Hindi #7",
+      "duration": 449
+    },
+    {
+      "id": "nRt8yUePVbU",
+      "title": "Coding Our First Game In Pygame - Python Game Development Using Pygame In Hindi #8",
+      "duration": 367
+    },
+    {
+      "id": "QZ4LFCS80EY",
+      "title": "Creating Ground For Our Snakes Game - Python Game Development Using Pygame In Hindi #9",
+      "duration": 456
+    },
+    {
+      "id": "0wTV6Hh7F9I",
+      "title": "Creating The Head Of Our Snake - Python Game Development Using Pygame In Hindi #10",
+      "duration": 270
+    },
+    {
+      "id": "o9_Vks3vr-k",
+      "title": "Moving Our Snake And Setting Game FPS - Python Game Development Using Pygame In Hindi #11",
+      "duration": 255
+    },
+    {
+      "id": "XB29FJ1HmDY",
+      "title": "Making Snake Move In All Directions - Python Game Development Using Pygame In Hindi #12",
+      "duration": 272
+    },
+    {
+      "id": "v8tN4FUXpeY",
+      "title": "Giving Speed To Our Snake In X and Y directions - Python Game Development Using Pygame In Hindi #13",
+      "duration": 236
+    },
+    {
+      "id": "mf43M8RxBRs",
+      "title": "Making Snake Move On Arrow Key Press - Python Game Development Using Pygame In Hindi #14",
+      "duration": 366
+    },
+    {
+      "id": "KYbgp2Hr1bc",
+      "title": "Creating Food For Snake To Eat - Python Game Development Using Pygame In Hindi #15",
+      "duration": 359
+    },
+    {
+      "id": "ByT_i6zvQx8",
+      "title": "Adding Score, Replotting Food & Changing Size - Python Game Development Using Pygame In Hindi #16",
+      "duration": 671
+    },
+    {
+      "id": "mkGJb0W03DM",
+      "title": "Snakes Game: Length Increment Logic - Python Game Development Using Pygame In Hindi #17",
+      "duration": 1438
+    },
+    {
+      "id": "Yj_oRwhNQgo",
+      "title": "Handling Game Over and Collision In Pygame - Python Game Development Using Pygame In Hindi #18",
+      "duration": 1160
+    },
+    {
+      "id": "XJSnaeOcnVs",
+      "title": "Snakes Game: Creating High Score & Displaying It - Python Game Development Using Pygame In Hindi #19",
+      "duration": 592
+    },
+    {
+      "id": "SbC6ODKPEbA",
+      "title": "Cheat Codes & Home Screen In Pygame - Python Game Development Using Pygame In Hindi #20",
+      "duration": 1083
+    },
+    {
+      "id": "HiprI1qFyLE",
+      "title": "Adding Music and Background Image In Pygame - Python Game Development Using Pygame In Hindi #21",
+      "duration": 996
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "courseId": "advanced-computer-architecture-d55bcf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:54.954Z",
+  "title": "Advanced Computer Architecture",
+  "channel": "Smruti R. Sarangi",
+  "videos": [
+    {
+      "id": "f2WuXJEFi4A",
+      "title": "Link to the Homepage of Advanced Computer Architecture",
+      "duration": 47
+    },
+    {
+      "id": "N9rbSzW9CRE",
+      "title": "Computer Architecture: Past, Present, and Future",
+      "duration": 3852
+    },
+    {
+      "id": "Vq149w01DBA",
+      "title": "Chapter 1: Introduction",
+      "duration": 1452
+    },
+    {
+      "id": "N5T7nEY2xUg",
+      "title": "Chapter 2: Out-of-order Pipelines: Part I/III (Overview)",
+      "duration": 3494
+    },
+    {
+      "id": "9Vdd6OUjEPs",
+      "title": "Chapter 2: Out-of-order Pipelines: Part II/ III  (Performance Models)",
+      "duration": 4087
+    },
+    {
+      "id": "H0EFrtfeLwQ",
+      "title": "Chapter 2: Out-of-order Pipelines: Part III/III (Hazards and Exceptions)",
+      "duration": 3121
+    },
+    {
+      "id": "i93Bzm3Kn50",
+      "title": "Chapter 3: The Fetch and Decode Stages - Part I/III (fetch logic)",
+      "duration": 2556
+    },
+    {
+      "id": "vJbQtWp5jsQ",
+      "title": "Chapter 3: The Fetch and Decode Stages: Part II / III (Branch prediction)",
+      "duration": 4844
+    },
+    {
+      "id": "wo75h1_zQgE",
+      "title": "Chapter 3: The fetch and decode stages: Part III/III (Decode time optimizations)",
+      "duration": 2704
+    },
+    {
+      "id": "DdEI0VWMeVE",
+      "title": "Chapter 4:  The Issue, Execute, and Commit Stages - Part 1/4 (Instruction renaming)",
+      "duration": 3263
+    },
+    {
+      "id": "UyUceTpZgqc",
+      "title": "Chapter 4: The Issue, Execute and Commit Stages - Part 2/4 (Wakeup, Select, and Broadcast)",
+      "duration": 3700
+    },
+    {
+      "id": "rRkaJeaKXik",
+      "title": "Chapter 4: The Issue, Execute, and Commit Stages - Part 3/4 (double broadcast, the load-store queue)",
+      "duration": 3689
+    },
+    {
+      "id": "6Cgtw8PpjPo",
+      "title": "Chapter 4: The issue, execute, and commit stages - part 4/4 (Instruction commit)",
+      "duration": 4603
+    },
+    {
+      "id": "doBCdbOPYS8",
+      "title": "Chapter 5: Alternative Approaches to Issue and Commit - Part I (Aggressive Speculation)",
+      "duration": 3363
+    },
+    {
+      "id": "0eX2glBZFzE",
+      "title": "Chapter 5: Alternative Approaches to Issue and Commit (Part II) (Instruction Replay)",
+      "duration": 4463
+    },
+    {
+      "id": "G47Y3qrtR-Y",
+      "title": "Chapter 5: Alternative Approaches to Issue and Commit (Part III) -- Compiler Techniques",
+      "duration": 5446
+    },
+    {
+      "id": "nwEhnLQMJ0Q",
+      "title": "Chapter 5: Alternative Approaches to Issue and Commit (Part IV) --  VLIW and EPIC Processors",
+      "duration": 3566
+    },
+    {
+      "id": "aBuFoEEgA1Y",
+      "title": "Chapter 6: GPUs (Part I) -- Traditional Graphics Pipeline",
+      "duration": 3380
+    },
+    {
+      "id": "Tw4AoqwsbqU",
+      "title": "Chapter 6: GPUs (Part II) -- CUDA Programming Language",
+      "duration": 3331
+    },
+    {
+      "id": "2fIwBDTWPzE",
+      "title": "Chapter 6: GPUs (Part III) -- Design of GPGPUs",
+      "duration": 3108
+    },
+    {
+      "id": "sag_NG3Wp1k",
+      "title": "Chapter 7: Caches (Part I) --  Cache design",
+      "duration": 3685
+    },
+    {
+      "id": "we6_luWjkCs",
+      "title": "Chapter 7: Caches (Part II) - Optimizations and Virtual Memory",
+      "duration": 3058
+    },
+    {
+      "id": "dAKOSj3HI-I",
+      "title": "Chapter 7: Caches (Part III) -- SRAM and CAM arrays",
+      "duration": 2765
+    },
+    {
+      "id": "Y9gcr3PLXGw",
+      "title": "Chapter 7: Caches (Part IV) -- Cacti, Cache Design, Elmore Delay",
+      "duration": 4538
+    },
+    {
+      "id": "nfBGV_NKleY",
+      "title": "Chapter 7: Caches (Part V) -- Advanced Cache Optimizations",
+      "duration": 3360
+    },
+    {
+      "id": "QwxZZdlNp2Y",
+      "title": "Chapter 7: Caches (Part VI/VI) -- Trace caches, instruction and data prefetching",
+      "duration": 4249
+    },
+    {
+      "id": "ZUJB5Xu3VRQ",
+      "title": "Chapter 8: The On-chip Network (Part I/V) -- Network Topologies and Basic Concepts",
+      "duration": 3589
+    },
+    {
+      "id": "pvh9qzXNosU",
+      "title": "Chapter 8: The On-chip Network (Part II/V) -- Flow Control and Flit/Packet Level Switching",
+      "duration": 3834
+    },
+    {
+      "id": "y74y_KVujdA",
+      "title": "Chapter 8: The On-chip Network (Part III/V) -- Routing Algorithms and 5-Stage Router Pipeline",
+      "duration": 4069
+    },
+    {
+      "id": "m-Yj8uNkdvQ",
+      "title": "Chapter 8: The On-chip Network (Part IV/V) -- Arbiters and Allocators, Pipeline Optimizations",
+      "duration": 3820
+    },
+    {
+      "id": "BGIbKaIW7k0",
+      "title": "Chapter 8: The On-chip Network (Part V/V) -- Non-Uniform Caches, Synthetic Traffic",
+      "duration": 2308
+    },
+    {
+      "id": "rTjt7oghY64",
+      "title": "Chapter 9:  Multicore Systems(Part I) -- Parallel Programming, Hardware Threads",
+      "duration": 4692
+    },
+    {
+      "id": "vdVzpZWF8Pk",
+      "title": "Chapter 9: Multicore Systems (Part II) -- Overview of coherence and consistency",
+      "duration": 4430
+    },
+    {
+      "id": "-XoyoA4xUhE",
+      "title": "Chapter 9: Multicore Systems (Part III) -- Sequential consistency, PLSC, Coherence",
+      "duration": 4315
+    },
+    {
+      "id": "qH1FX9rnpHM",
+      "title": "Chapter 9: Multicore Systems (Part IV) -- Execution Witnesses",
+      "duration": 3690
+    },
+    {
+      "id": "4WLSYe4JjWI",
+      "title": "Chapter 9: Multicore Systems (Part V) -- Coherence protocols, Snoopy and Directory based schemes",
+      "duration": 3928
+    },
+    {
+      "id": "jPf_jnLhMyQ",
+      "title": "Chapter 9: Multicore Systems (Part VI) -- Optimized directories and atomic instructions",
+      "duration": 3595
+    },
+    {
+      "id": "wMWBUufVUiM",
+      "title": "Chapter 9: Multicore Systems (Part VII) -- Memory Models and Data Races",
+      "duration": 4597
+    },
+    {
+      "id": "L3SYObGH2Do",
+      "title": "Chapter 9: Multicore Systems (Part VIII) -- Data Race Detection Algorithms",
+      "duration": 2797
+    },
+    {
+      "id": "-ueUOPT6k_s",
+      "title": "Chapter 9: Multicore Systems (Part IX) -- Transactional Memory",
+      "duration": 4914
+    },
+    {
+      "id": "3rpLiMEtD6Y",
+      "title": "Chapter 10: Main Memory (DRAM devices, arrays and architectures) -- Part I",
+      "duration": 3710
+    },
+    {
+      "id": "RtBgGqv80ik",
+      "title": "Chapter 10: Main Memory (asynchronous, synchronous and buffered communication) -- Part II",
+      "duration": 3375
+    },
+    {
+      "id": "_vDPP67wKx4",
+      "title": "Chapter 10: Main Memory (DDR4 timing and the memory controller) -- Part III",
+      "duration": 4078
+    },
+    {
+      "id": "lwz7HGxNnfU",
+      "title": "Chapter 10: Main Memory (Flash and FeRAM) -- Part IV",
+      "duration": 3476
+    },
+    {
+      "id": "owoh5ywd2to",
+      "title": "Chapter 10: Main Memory (MRAMs, PCM, ReRAM, Roofline model) -- Part V",
+      "duration": 2556
+    },
+    {
+      "id": "q0WWvEQqGqc",
+      "title": "Chapter 11:  Power and Temperature (dynamic and leakage power) --- Part I/III",
+      "duration": 2860
+    },
+    {
+      "id": "nfjLCEEF_Hg",
+      "title": "Chapter 11:  Power and Temperature (temperature modeling) --- Part II/III",
+      "duration": 3120
+    },
+    {
+      "id": "Fpsqksjhj7Y",
+      "title": "Chapter 11:  Power and Temperature (power and temperature management) --- Part III/III",
+      "duration": 2543
+    },
+    {
+      "id": "pdxsPncWoGY",
+      "title": "Chapter 12: Reliability (Soft errors and inductive noise) -- Part I/III",
+      "duration": 3670
+    },
+    {
+      "id": "TDN2pPDl_uk",
+      "title": "Chapter 12: Reliability (non-determinism and design faults) -- Part II/III",
+      "duration": 2608
+    },
+    {
+      "id": "xb79K4m4xOk",
+      "title": "Chapter 12: Reliability (Variation and Hard Errors) -- Part III/III",
+      "duration": 4713
+    },
+    {
+      "id": "dqYwEWOLWF0",
+      "title": "Chapter 13:  Secure Processor Architectures (Part I) -- Cryptographic Fundamentals and Encryption",
+      "duration": 4214
+    },
+    {
+      "id": "NnEbHmxM4yk",
+      "title": "Chapter 13: Security (Part II/III) -- Secure Processors",
+      "duration": 5093
+    },
+    {
+      "id": "fjC3CIGWQeU",
+      "title": "Chapter 13: Secure Processor Architectures (Side channel attacks and ORAM) -- Part III/III",
+      "duration": 4046
+    },
+    {
+      "id": "fGvAS-nZcf8",
+      "title": "Chapter 14: Architectures for Machine Learning (Part I) -- Basic ML Concepts",
+      "duration": 4477
+    },
+    {
+      "id": "NpLPPWCbp_o",
+      "title": "Chapter 14: Architectures for Machine Learning (Part II) -- Mathematical representations",
+      "duration": 3982
+    },
+    {
+      "id": "SRppzt2W8RE",
+      "title": "Chapter 14: Architectures for Machine Learning (Part III) -- Hardware Architectures",
+      "duration": 4004
+    },
+    {
+      "id": "m3_I3BIZa9Y",
+      "title": "Chapter 14: Architectures for Machine Learning (Part IV) -- Optimizations and Memory Systems",
+      "duration": 2334
+    }
+  ]
+}

@@ -1,0 +1,1020 @@
+{
+  "courseId": "digital-electronics-d4b260",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:34.712Z",
+  "title": "Digital Electronics",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "M0mx8S05v60",
+      "title": "What is Signal?",
+      "duration": 536
+    },
+    {
+      "id": "F5h3z8p9dPg",
+      "title": "What is an Analog Signal?",
+      "duration": 551
+    },
+    {
+      "id": "jRL9ag3riJY",
+      "title": "What is Digital Signal?",
+      "duration": 528
+    },
+    {
+      "id": "izBaDRyqnBk",
+      "title": "Need of Digital Signals",
+      "duration": 313
+    },
+    {
+      "id": "2xXErGeeb_Q",
+      "title": "Introduction to Digital Electronics",
+      "duration": 398
+    },
+    {
+      "id": "RF9I6UzI4Rc",
+      "title": "Switch and Bits Intuition",
+      "duration": 575
+    },
+    {
+      "id": "WW-NPtIzHwk",
+      "title": "Introduction to Boolean Algebra (Part 1)",
+      "duration": 1091
+    },
+    {
+      "id": "OjWmVCG8PLA",
+      "title": "Introduction to Boolean Algebra (Part 2)",
+      "duration": 601
+    },
+    {
+      "id": "k04ksfLBuak",
+      "title": "Boolean Algebra Examples (Part 1)",
+      "duration": 468
+    },
+    {
+      "id": "uPBYaCarXDM",
+      "title": "Boolean Algebra Examples (Part 2)",
+      "duration": 353
+    },
+    {
+      "id": "3pbH9IhxwOg",
+      "title": "Redundancy Theorem (Boolean Algebra Trick)",
+      "duration": 452
+    },
+    {
+      "id": "xnLBbOYYnHM",
+      "title": "Sum of Products (Part 1) | SOP Form",
+      "duration": 750
+    },
+    {
+      "id": "NGgNoa0_zns",
+      "title": "Sum of Products (Part 2) | SOP Form",
+      "duration": 480
+    },
+    {
+      "id": "nXsiLPJfDZ4",
+      "title": "Product of Sums (Part 1) | POS Form",
+      "duration": 666
+    },
+    {
+      "id": "ihTH1C6qCYI",
+      "title": "Product of Sums (Part 2) | POS Form",
+      "duration": 347
+    },
+    {
+      "id": "K2cpJex0o_A",
+      "title": "SOP and POS Form Examples",
+      "duration": 758
+    },
+    {
+      "id": "Km5pTz67uGc",
+      "title": "Minimal to Canonical Form Conversion (Part 1)",
+      "duration": 519
+    },
+    {
+      "id": "f0trF1LtYZ4",
+      "title": "Minimal to Canonical Form Conversion (Part 2)",
+      "duration": 329
+    },
+    {
+      "id": "KBlYNYpFtIs",
+      "title": "Examples & Tricks (SOP and POS Forms)",
+      "duration": 728
+    },
+    {
+      "id": "gtucOKD1pHA",
+      "title": "Positive and Negative Logic",
+      "duration": 323
+    },
+    {
+      "id": "ZEOeN8rGlXU",
+      "title": "Dual Form",
+      "duration": 606
+    },
+    {
+      "id": "37XqJqt0Jl4",
+      "title": "Self Dual",
+      "duration": 572
+    },
+    {
+      "id": "bY8o35iCyGQ",
+      "title": "Complement Meaning and Examples",
+      "duration": 421
+    },
+    {
+      "id": "xsG3J7cxloM",
+      "title": "Venn Diagram",
+      "duration": 346
+    },
+    {
+      "id": "9RLEt0r0SCs",
+      "title": "Switching Circuits (Part 1)",
+      "duration": 687
+    },
+    {
+      "id": "IcTCjbq9otk",
+      "title": "Switching Circuits (Part 2)",
+      "duration": 737
+    },
+    {
+      "id": "jQW2yxxodqw",
+      "title": "Statement Problems in Boolean Algebra (Part 1)",
+      "duration": 218
+    },
+    {
+      "id": "Pp1mzhN1AaU",
+      "title": "Statement Problems in Boolean Algebra (Part 2)",
+      "duration": 396
+    },
+    {
+      "id": "crSGS1uBSNQ",
+      "title": "Introduction to Number Systems",
+      "duration": 555
+    },
+    {
+      "id": "w7ZLvYAi6pY",
+      "title": "Binary Number System",
+      "duration": 505
+    },
+    {
+      "id": "2U9b76JRz7s",
+      "title": "Decimal to Binary Conversion",
+      "duration": 593
+    },
+    {
+      "id": "1J89-aWI-5Y",
+      "title": "Decimal to Octal Conversion",
+      "duration": 284
+    },
+    {
+      "id": "uVpQ9pPskNI",
+      "title": "Decimal to Hexadecimal Conversion",
+      "duration": 371
+    },
+    {
+      "id": "6Tt-RA6KD30",
+      "title": "Binary to Decimal Conversion",
+      "duration": 336
+    },
+    {
+      "id": "6WGTf0fg4zA",
+      "title": "Octal to Decimal Conversion",
+      "duration": 334
+    },
+    {
+      "id": "1tHgs0mrZ5I",
+      "title": "Hexadecimal to Decimal Conversion",
+      "duration": 277
+    },
+    {
+      "id": "urasJ3jx08I",
+      "title": "Octal to Binary & Binary to Octal Conversion",
+      "duration": 374
+    },
+    {
+      "id": "WI6Uvci2p7E",
+      "title": "Hexadecimal to Binary & Binary to Hexadecimal Conversion",
+      "duration": 409
+    },
+    {
+      "id": "s9kwJ03uzmE",
+      "title": "Hexadecimal to Octal & Octal to Hexadecimal Conversion",
+      "duration": 311
+    },
+    {
+      "id": "Ri0VhKhw7dY",
+      "title": "Binary Addition",
+      "duration": 482
+    },
+    {
+      "id": "31N9tjaWZbs",
+      "title": "Binary Subtraction",
+      "duration": 304
+    },
+    {
+      "id": "_kwXcIV7dyo",
+      "title": "Binary Multiplication",
+      "duration": 494
+    },
+    {
+      "id": "VKemv9u40gc",
+      "title": "Binary Division",
+      "duration": 333
+    },
+    {
+      "id": "Qq-4h4tlKAQ",
+      "title": "Octal Addition",
+      "duration": 367
+    },
+    {
+      "id": "ynvcRidq--0",
+      "title": "Octal Subtraction",
+      "duration": 180
+    },
+    {
+      "id": "Cvk7FyepPXQ",
+      "title": "Octal Multiplication",
+      "duration": 279
+    },
+    {
+      "id": "y0B6tuC6niE",
+      "title": "Hexadecimal Addition",
+      "duration": 353
+    },
+    {
+      "id": "3mV7q3_OAGM",
+      "title": "Hexadecimal Subtraction",
+      "duration": 232
+    },
+    {
+      "id": "66sIxqnXUvI",
+      "title": "Hexadecimal Multiplication",
+      "duration": 364
+    },
+    {
+      "id": "ldFofOqKcPs",
+      "title": "r's Complement",
+      "duration": 381
+    },
+    {
+      "id": "iS8i6RyZ2TE",
+      "title": "(r-1)'s Complement",
+      "duration": 482
+    },
+    {
+      "id": "S_fPMrrIA30",
+      "title": "1's and 2's Complement",
+      "duration": 281
+    },
+    {
+      "id": "V-e9Q9YWC6U",
+      "title": "Shortcut for 2's Complement",
+      "duration": 201
+    },
+    {
+      "id": "1k71RxUtgUY",
+      "title": "Data Representation using Signed Magnitude",
+      "duration": 359
+    },
+    {
+      "id": "pWORlDyPxs8",
+      "title": "Data Representation using 1's Complement",
+      "duration": 206
+    },
+    {
+      "id": "kxcL0Vb5bEQ",
+      "title": "Data Representation using 2's Complement",
+      "duration": 466
+    },
+    {
+      "id": "kx8DFNf6pQU",
+      "title": "Binary Subtraction using 1's Complement",
+      "duration": 724
+    },
+    {
+      "id": "L_m7jBvtzpQ",
+      "title": "Binary Subtraction using 2's Complement",
+      "duration": 793
+    },
+    {
+      "id": "hCmbZ0bWPfE",
+      "title": "Classification of Codes",
+      "duration": 499
+    },
+    {
+      "id": "0rLiYpy2CqQ",
+      "title": "Binary Coded Decimal (BCD) Code",
+      "duration": 1006
+    },
+    {
+      "id": "yPu57aSj9kA",
+      "title": "BCD Addition",
+      "duration": 817
+    },
+    {
+      "id": "IBgiB7KXfEY",
+      "title": "Shift Add 3 Method | Simple method for Binary to BCD conversion",
+      "duration": 272
+    },
+    {
+      "id": "X0YZY2yqQJA",
+      "title": "2421 Code",
+      "duration": 518
+    },
+    {
+      "id": "LHw8TVk9iOY",
+      "title": "Excess-3 Code (XS-3 Code)",
+      "duration": 710
+    },
+    {
+      "id": "CXn4lxBlO2U",
+      "title": "Excess-3 Code Addition",
+      "duration": 582
+    },
+    {
+      "id": "0dPN4gh0CKI",
+      "title": "Introduction to Gray Code",
+      "duration": 365
+    },
+    {
+      "id": "cF-Q5j7RUEw",
+      "title": "Binary to Gray Code Conversion",
+      "duration": 449
+    },
+    {
+      "id": "-qMm9hhvp9Y",
+      "title": "Gray Code to Binary Conversion",
+      "duration": 337
+    },
+    {
+      "id": "DdMcAUlxh1M",
+      "title": "What is Parity?",
+      "duration": 512
+    },
+    {
+      "id": "1A_NcXxdoCc",
+      "title": "Hamming Code | Error Detection",
+      "duration": 740
+    },
+    {
+      "id": "wbH2VxzmoZk",
+      "title": "Hamming Code | Error Correction",
+      "duration": 332
+    },
+    {
+      "id": "xDARFvArIpc",
+      "title": "Logic Gates (Part 1)",
+      "duration": 986
+    },
+    {
+      "id": "iogRGu7nbJw",
+      "title": "Logic Gates (Part 2)",
+      "duration": 854
+    },
+    {
+      "id": "TbV2lVIdfEM",
+      "title": "Logic Gates (Part 3)",
+      "duration": 760
+    },
+    {
+      "id": "1kLbY1-f4rs",
+      "title": "Logic Gates (Part 4)",
+      "duration": 651
+    },
+    {
+      "id": "9VKHu3V4wEE",
+      "title": "Logic Gates (Part 5) | Important!",
+      "duration": 1175
+    },
+    {
+      "id": "bd16TkFCDjM",
+      "title": "Logic Gates (Part 6) | Important!",
+      "duration": 853
+    },
+    {
+      "id": "ChtmE09BSy0",
+      "title": "NAND Gate as Universal Gate (Part 1)",
+      "duration": 536
+    },
+    {
+      "id": "MZ_Pd40F4MU",
+      "title": "NAND Gate as Universal Gate (Part 2)",
+      "duration": 742
+    },
+    {
+      "id": "Z6Nds10n7rs",
+      "title": "NOR Gate as Universal Gate",
+      "duration": 862
+    },
+    {
+      "id": "FPrcIhqNPVo",
+      "title": "Karnaugh Map (K' Map) - Part 1",
+      "duration": 1545
+    },
+    {
+      "id": "uWjKzsWXAF4",
+      "title": "Karnaugh Map (K' Map) - Part 2",
+      "duration": 861
+    },
+    {
+      "id": "p7ittaZrZ1g",
+      "title": "Karnaugh Map (K' Map) - Part 3",
+      "duration": 631
+    },
+    {
+      "id": "J_t_7npo0CE",
+      "title": "K' Map and Implicants",
+      "duration": 548
+    },
+    {
+      "id": "k_gavfON5uA",
+      "title": "4 Variable Karnaugh Map (Part 1)",
+      "duration": 677
+    },
+    {
+      "id": "a89jQWIGrY4",
+      "title": "4 Variable Karnaugh Map (Part 2)",
+      "duration": 501
+    },
+    {
+      "id": "nIxpTuR0E0s",
+      "title": "4 Variable Karnaugh Map (Part 3)",
+      "duration": 336
+    },
+    {
+      "id": "_F9nAb6m4U4",
+      "title": "Don't Care in Karnaugh Map (K' Map)",
+      "duration": 605
+    },
+    {
+      "id": "WUEmPO13iAI",
+      "title": "Don't Care in K' Map (Response to Doubt)",
+      "duration": 379
+    },
+    {
+      "id": "iBSMoDLhxB4",
+      "title": "K' Map using Max Terms (Part 1)",
+      "duration": 478
+    },
+    {
+      "id": "lPT9Ltjij1s",
+      "title": "K' Map using Max Terms (Part 2)",
+      "duration": 687
+    },
+    {
+      "id": "1_cxX2pxf10",
+      "title": "5 variables K' Map",
+      "duration": 646
+    },
+    {
+      "id": "l1jgq0R5EwQ",
+      "title": "Quine-McCluskey Minimization Technique (Tabular Method)",
+      "duration": 1423
+    },
+    {
+      "id": "i6SjOZSxMH8",
+      "title": "Digital Electronics Previous Year Solution of DRDO & ISRO (Part 2)",
+      "duration": 473
+    },
+    {
+      "id": "vMrWwGz0kb0",
+      "title": "Digital Electronics Previous Year Solution of DRDO & ISRO (Part 3)",
+      "duration": 425
+    },
+    {
+      "id": "RfTGvpY2Z5Y",
+      "title": "4-Bit Even Parity Generator",
+      "duration": 619
+    },
+    {
+      "id": "smeUN1Bxj3M",
+      "title": "Seven Segment Display Decoder",
+      "duration": 418
+    },
+    {
+      "id": "_qGFpgpqf7s",
+      "title": "Seven Segment Display Decoder (Part 2)",
+      "duration": 516
+    },
+    {
+      "id": "vZKRs_1jPeI",
+      "title": "Seven Segment Display Decoder (Part 3)",
+      "duration": 477
+    },
+    {
+      "id": "SzV4l0_1MCQ",
+      "title": "Comparison between Combinational and Sequential Circuits",
+      "duration": 376
+    },
+    {
+      "id": "aLUY-s7LSns",
+      "title": "Half Adder",
+      "duration": 310
+    },
+    {
+      "id": "RK3P9L2ZXk4",
+      "title": "Full Adder",
+      "duration": 818
+    },
+    {
+      "id": "Z_DYRgtAXfw",
+      "title": "Full Adder using Half Adder",
+      "duration": 439
+    },
+    {
+      "id": "NO7Gt8IDSGA",
+      "title": "4 Bit Parallel Adder using Full Adders",
+      "duration": 627
+    },
+    {
+      "id": "SV4VTYWxKV4",
+      "title": "Half Subtractor",
+      "duration": 416
+    },
+    {
+      "id": "dBXGGWbtt6U",
+      "title": "Full Subtractor | Easy Explanation",
+      "duration": 462
+    },
+    {
+      "id": "S91WnV2wCbA",
+      "title": "Realizing Half Adder using NAND Gates only",
+      "duration": 376
+    },
+    {
+      "id": "P_UW41wMvpM",
+      "title": "Realizing Half Adder using NOR Gates only",
+      "duration": 302
+    },
+    {
+      "id": "ulIRZPFd3Nc",
+      "title": "Realizing Full Adder using NAND Gates only",
+      "duration": 372
+    },
+    {
+      "id": "TWhRqp8eVhU",
+      "title": "Realizing Half Subtractor using NAND Gates only",
+      "duration": 412
+    },
+    {
+      "id": "1K6f05yuAr8",
+      "title": "Realizing Half Subtractor using NOR Gates only",
+      "duration": 285
+    },
+    {
+      "id": "7Ell1saTBM4",
+      "title": "Realizing Full Subtractor using NAND Gates only (Part 1)",
+      "duration": 568
+    },
+    {
+      "id": "YHVenkuydzw",
+      "title": "Realizing Full Subtractor using NAND Gates only (Part 2)",
+      "duration": 345
+    },
+    {
+      "id": "7Bz9IgFNhDo",
+      "title": "2-Bit Multiplier Using Half Adders",
+      "duration": 589
+    },
+    {
+      "id": "6Z1WikEWxH0",
+      "title": "Carry Lookahead Adder (Part 1) | CLA Generator",
+      "duration": 385
+    },
+    {
+      "id": "9lyqSVKbyz8",
+      "title": "Carry Lookahead Adder (Part 2) | CLA Adder",
+      "duration": 679
+    },
+    {
+      "id": "9O7OJi7RCLQ",
+      "title": "BCD Adder | Simple Explanation",
+      "duration": 927
+    },
+    {
+      "id": "FKvnmxte98A",
+      "title": "Introduction to Multiplexers | MUX Basic",
+      "duration": 747
+    },
+    {
+      "id": "g1Lfz1XgrH8",
+      "title": "4X1 Multiplexer",
+      "duration": 352
+    },
+    {
+      "id": "b0z7YKKCCyY",
+      "title": "8X1 Multiplexer",
+      "duration": 351
+    },
+    {
+      "id": "_nd77x1ooGQ",
+      "title": "MUX Tree Basic | 4X1 MUX using 2X1 MUX | Easy Explanation",
+      "duration": 435
+    },
+    {
+      "id": "uoBZZ53Okvo",
+      "title": "Implementing 8X1 MUX using 2X1 MUX",
+      "duration": 326
+    },
+    {
+      "id": "neXhD9qyQmo",
+      "title": "Implementing 8X1 MUX using 4X1 MUX (Special Case)",
+      "duration": 427
+    },
+    {
+      "id": "XdhygaTrwCo",
+      "title": "32X1 MUX using 8X1 MUX",
+      "duration": 898
+    },
+    {
+      "id": "vOFeSu6Zr94",
+      "title": "Implementation of Boolean Function using Multiplexers",
+      "duration": 514
+    },
+    {
+      "id": "ai8FpkD5gGo",
+      "title": "1-Bit Full Adder using Multiplexer",
+      "duration": 517
+    },
+    {
+      "id": "HEluMErB3-s",
+      "title": "Logical Expression from Multiplexer",
+      "duration": 346
+    },
+    {
+      "id": "t3Ed13z9uz8",
+      "title": "Introduction to Demultiplexer | 1:2 DEMUX",
+      "duration": 599
+    },
+    {
+      "id": "4kgPMT9k3bg",
+      "title": "1:4 Demultiplexer",
+      "duration": 381
+    },
+    {
+      "id": "-9s3xBlcBVM",
+      "title": "Full Subtractor using 1:8 Demultiplexer",
+      "duration": 500
+    },
+    {
+      "id": "vMvvggyriCc",
+      "title": "Demultiplexer as Decoder",
+      "duration": 345
+    },
+    {
+      "id": "BhUUmbz76P0",
+      "title": "2-Bit Comparator",
+      "duration": 331
+    },
+    {
+      "id": "feBvhLFQEDk",
+      "title": "Introduction to Encoders and Decoders",
+      "duration": 412
+    },
+    {
+      "id": "kEj-m3YuGa4",
+      "title": "Priority Encoder",
+      "duration": 650
+    },
+    {
+      "id": "I_-3HN1ueNk",
+      "title": "Decimal to BCD Encoder",
+      "duration": 205
+    },
+    {
+      "id": "IgaTy_Tm2_M",
+      "title": "Octal to Binary Encoder",
+      "duration": 296
+    },
+    {
+      "id": "6R-ZC8rLqm8",
+      "title": "Hexadecimal to Binary Encoder",
+      "duration": 267
+    },
+    {
+      "id": "u863cwgdlnA",
+      "title": "Full Adder Implementation using Decoder",
+      "duration": 350
+    },
+    {
+      "id": "sE695XvWFSY",
+      "title": "Practice Problems on Combinational Circuits (Part 1)",
+      "duration": 699
+    },
+    {
+      "id": "S9olXqYBHic",
+      "title": "Practice Problems on Combinational Circuits (Part 2)",
+      "duration": 598
+    },
+    {
+      "id": "o22PeIImcKc",
+      "title": "Practice Problems on Combinational Circuits (Part 3)",
+      "duration": 664
+    },
+    {
+      "id": "SBDahvbKGfc",
+      "title": "Practice Problems on Combinational Circuits (Part 4)",
+      "duration": 553
+    },
+    {
+      "id": "AaN72s5WfOM",
+      "title": "Introduction to Sequential Circuits | Important",
+      "duration": 505
+    },
+    {
+      "id": "kt8d3CYWGH4",
+      "title": "SR Latch | NOR and NAND SR Latch",
+      "duration": 1002
+    },
+    {
+      "id": "wx0NyUfpm48",
+      "title": "What is a Clock?",
+      "duration": 351
+    },
+    {
+      "id": "Pi_MHyMoenA",
+      "title": "Triggering Methods in Flip Flops",
+      "duration": 279
+    },
+    {
+      "id": "GIMahA35dUE",
+      "title": "How to get Edge Triggering | Simulation using Multisim",
+      "duration": 662
+    },
+    {
+      "id": "m1QBxTeVaNs",
+      "title": "Difference between Latch and Flip Flop",
+      "duration": 333
+    },
+    {
+      "id": "HZg7fNu-l24",
+      "title": "Introduction to SR Flip Flop",
+      "duration": 503
+    },
+    {
+      "id": "uiKKRPZbuXA",
+      "title": "Truth Table, Characteristic Table and Excitation Table for SR Flip Flop",
+      "duration": 536
+    },
+    {
+      "id": "dnfXXpW7tIw",
+      "title": "Introduction to D flip flop",
+      "duration": 275
+    },
+    {
+      "id": "4c6z9RKrC8Q",
+      "title": "Truth Table, Characteristic Table and Excitation Table for D Flip Flop",
+      "duration": 250
+    },
+    {
+      "id": "j6krFp511HA",
+      "title": "Introduction to JK flip flop",
+      "duration": 466
+    },
+    {
+      "id": "lnQD2_M9uDI",
+      "title": "Truth Table, Characteristic Table and Excitation Table for JK flip flop",
+      "duration": 596
+    },
+    {
+      "id": "trPGhO7MPnw",
+      "title": "Race Around Condition or Racing in JK Flip Flop",
+      "duration": 538
+    },
+    {
+      "id": "t2LZtaNck_g",
+      "title": "Master Slave JK Flip Flop",
+      "duration": 548
+    },
+    {
+      "id": "5ykewHgHYBI",
+      "title": "Behaviour of Master Slave D Flip Flop",
+      "duration": 708
+    },
+    {
+      "id": "wcfnEla_Y78",
+      "title": "Introduction to T flip flop",
+      "duration": 201
+    },
+    {
+      "id": "9mh-2QwxmF4",
+      "title": "Truth Table, Characteristic Table and Excitation Table for T flip flop",
+      "duration": 325
+    },
+    {
+      "id": "ApJ972OYyXQ",
+      "title": "5 Steps for Flip Flop Conversions | JK to D Flip Flop Conversion",
+      "duration": 418
+    },
+    {
+      "id": "JGl7dV1UgMI",
+      "title": "T Flip Flop to D Flip Flop Conversion",
+      "duration": 240
+    },
+    {
+      "id": "NytpDrESCV8",
+      "title": "SR Flip Flop to JK Flip Flop Conversion",
+      "duration": 473
+    },
+    {
+      "id": "B9eUdgCKEkg",
+      "title": "SR Flip Flop to T Flip Flop Conversion",
+      "duration": 389
+    },
+    {
+      "id": "mXoQ4WAQ0qk",
+      "title": "Preset and Clear Inputs in Flip Flop",
+      "duration": 332
+    },
+    {
+      "id": "NNOSWnTHakY",
+      "title": "Introduction to State Table, State Diagram & State Equation",
+      "duration": 634
+    },
+    {
+      "id": "NbON135lf60",
+      "title": "Design Procedure for Clocked Sequential Circuits",
+      "duration": 1146
+    },
+    {
+      "id": "0_OZKWdCixw",
+      "title": "Mealy and Moore State Machines (Part 1)",
+      "duration": 579
+    },
+    {
+      "id": "vdZKehWMJSM",
+      "title": "Mealy and Moore State Machines (Part 2)",
+      "duration": 261
+    },
+    {
+      "id": "ntiv1g7G_C4",
+      "title": "Analysis of Clocked Sequential Circuits (with D Flip Flop)",
+      "duration": 810
+    },
+    {
+      "id": "6jteVyUcAQU",
+      "title": "Analysis of Clocked Sequential Circuits (with JK Flip Flop)",
+      "duration": 770
+    },
+    {
+      "id": "eu16cf1RFu0",
+      "title": "Analysis of Clocked Sequential Circuits (with T Flip Flop)",
+      "duration": 515
+    },
+    {
+      "id": "XNAK-L7NlOM",
+      "title": "Sequence or Pattern Detector",
+      "duration": 542
+    },
+    {
+      "id": "HXG_YPVNIsM",
+      "title": "Sequence Detector (Example)",
+      "duration": 939
+    },
+    {
+      "id": "IXORIs1dHs0",
+      "title": "State Reduction and Assignment",
+      "duration": 425
+    },
+    {
+      "id": "HjD5mVbbBK4",
+      "title": "ASM Chart",
+      "duration": 386
+    },
+    {
+      "id": "kNG0l2vAGjw",
+      "title": "ASM Chart for Moore State Machine",
+      "duration": 401
+    },
+    {
+      "id": "L80k-alK58g",
+      "title": "Difference between Synchronous and Asynchronous Sequential Circuits",
+      "duration": 176
+    },
+    {
+      "id": "iaIu5SYmWVM",
+      "title": "Introduction to Counters | Important",
+      "duration": 700
+    },
+    {
+      "id": "yqg1sqhZG3M",
+      "title": "Types of Counters | Comparison between Ripple and Synchronous counters",
+      "duration": 427
+    },
+    {
+      "id": "s1DSZEaCX_g",
+      "title": "3 Bit Asynchronous Up Counter",
+      "duration": 708
+    },
+    {
+      "id": "eEeBh8jfDjg",
+      "title": "4 Bit Asynchronous Up Counter",
+      "duration": 572
+    },
+    {
+      "id": "noUcCs2zNaI",
+      "title": "3 bit & 4 bit Asynchronous Down Counter",
+      "duration": 622
+    },
+    {
+      "id": "5Um3NDvsYjQ",
+      "title": "3 Bit & 4 Bit UP/DOWN Ripple Counter",
+      "duration": 620
+    },
+    {
+      "id": "l20xHDJPHBM",
+      "title": "Modulus of the Counter & Counting up to Particular Value",
+      "duration": 810
+    },
+    {
+      "id": "mq0rLKpkjAQ",
+      "title": "State Diagram of a Counter",
+      "duration": 438
+    },
+    {
+      "id": "fKVZpupyP_o",
+      "title": "Decade (BCD) Ripple Counter",
+      "duration": 560
+    },
+    {
+      "id": "5vkWccb7uO4",
+      "title": "How to Design Synchronous Counters | 2-Bit Synchronous Up Counter",
+      "duration": 777
+    },
+    {
+      "id": "6e8oV2blkGs",
+      "title": "3-Bit Synchronous Up Counter",
+      "duration": 746
+    },
+    {
+      "id": "svFUEJkoeVY",
+      "title": "3-Bit & 4-bit Up/Down Synchronous Counter",
+      "duration": 1184
+    },
+    {
+      "id": "yOW-JsJL1Ks",
+      "title": "Ring Counter",
+      "duration": 861
+    },
+    {
+      "id": "X4mx7J1ckyU",
+      "title": "Johnson's Counter (Twisted/Switch Tail Ring Counter)",
+      "duration": 459
+    },
+    {
+      "id": "-paFaxtTCkI",
+      "title": "Introduction to Registers",
+      "duration": 435
+    },
+    {
+      "id": "b43_I4r1R2c",
+      "title": "Data Formats and Classification of Registers",
+      "duration": 447
+    },
+    {
+      "id": "unorn9n-UpE",
+      "title": "Shift Register (SISO Mode)",
+      "duration": 690
+    },
+    {
+      "id": "HGFGQ3D3iJ8",
+      "title": "Shift Register (SIPO & PIPO Mode)",
+      "duration": 713
+    },
+    {
+      "id": "7LmBcGiiYwk",
+      "title": "Shift Register (PISO Mode)",
+      "duration": 446
+    },
+    {
+      "id": "zoEeQgQkPLA",
+      "title": "Bidirectional Shift Register",
+      "duration": 477
+    },
+    {
+      "id": "AEGzpMlOsvc",
+      "title": "Universal Shift Register",
+      "duration": 938
+    },
+    {
+      "id": "bMHJ1qldiaE",
+      "title": "Practice Problems on Sequential Circuits (Part 2)",
+      "duration": 437
+    },
+    {
+      "id": "XXmW7nY4EjY",
+      "title": "Practice Problems on Sequential Circuits (Part 3)",
+      "duration": 353
+    },
+    {
+      "id": "jrQ1YYgiOTo",
+      "title": "Programmable Logic Array (PLA) | Easy Explanation",
+      "duration": 641
+    },
+    {
+      "id": "qlq4NHk5Y_w",
+      "title": "Programmable Array Logic (PAL)",
+      "duration": 574
+    }
+  ]
+}

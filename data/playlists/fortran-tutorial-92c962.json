@@ -1,0 +1,125 @@
+{
+  "courseId": "fortran-tutorial-92c962",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:18.488Z",
+  "title": "Fortran Tutorial",
+  "channel": "Any Learn Nepal",
+  "videos": [
+    {
+      "id": "OE01hgDfrnA",
+      "title": "Learn Fortran | Your first program | fortran Tutorial 1",
+      "duration": 792
+    },
+    {
+      "id": "9_8gKomtybU",
+      "title": "Learn Fortran Variables and Data types | Fortran Tutorial 2",
+      "duration": 636
+    },
+    {
+      "id": "ER42XkgudBw",
+      "title": "Learn Fortran Comments, Range, Precision, Variable Update | Fortran Tutorial 3",
+      "duration": 828
+    },
+    {
+      "id": "KFqGzWewY9c",
+      "title": "Learn Fortran Math and Relational operators | Fortran Tutorial 4",
+      "duration": 688
+    },
+    {
+      "id": "piCfcwyV30w",
+      "title": "Learn Fortran | Problem Solving | Fortran Tutorial 5",
+      "duration": 896
+    },
+    {
+      "id": "fOTzs2dPm8s",
+      "title": "Learn Fortran If else statment | Decision Control | If statement | Fortran Tutorial 6",
+      "duration": 671
+    },
+    {
+      "id": "02_v_TBc4Og",
+      "title": "Learn Fortran else if statment | Decision Control | nested if | Fortran Tutorial 7",
+      "duration": 824
+    },
+    {
+      "id": "BeLo4Ei6kDs",
+      "title": "Learn Fortran Decision Control Using Logical Operator | Fortran Tutorial 8",
+      "duration": 541
+    },
+    {
+      "id": "KpbvE1VTwZc",
+      "title": "Learn Fortran Select Case Statement | Fortran Tutorial 9",
+      "duration": 948
+    },
+    {
+      "id": "IYHAuOLyJtI",
+      "title": "Learn Fortran Problem Solving 2 | Fortran Tutorial 10",
+      "duration": 852
+    },
+    {
+      "id": "vCsE-j81ya4",
+      "title": "Learn Fortran  Do loop | Loop Control | Fortran Tutorial 11",
+      "duration": 788
+    },
+    {
+      "id": "w4UIgQeVDDA",
+      "title": "Learn Fortran Do while loop | Loop Control | Fortran  CYCLE and EXIT | Fortran Tutorial 12",
+      "duration": 899
+    },
+    {
+      "id": "_VACr7gFkis",
+      "title": "Learn Fortran Problem Solving 3 | Fortran Tutorial 13",
+      "duration": 654
+    },
+    {
+      "id": "ni_CXjVM72o",
+      "title": "Learn Fortran Problem Solving 4 | Fortran Tutorial 14",
+      "duration": 732
+    },
+    {
+      "id": "n_zn0UqmLF8",
+      "title": "Learn Fortran ARRAY  | 1 D array |  Tutorial 15",
+      "duration": 636
+    },
+    {
+      "id": "eps4SJfp2CA",
+      "title": "Learn Fortran  ARRAY | 2D array | matrix | Fortran Tutorial 16",
+      "duration": 799
+    },
+    {
+      "id": "hziHNm1IqGI",
+      "title": "Learn Fortran  dynamic ARRAY | data & where statement | Fortran Tutorial 17",
+      "duration": 869
+    },
+    {
+      "id": "4KIrJBxxgyk",
+      "title": "Learn Fortran  array functions, vector dot product and matrix multiplication | Fortran Tutorial 18",
+      "duration": 994
+    },
+    {
+      "id": "nHgZy91XtPg",
+      "title": "Learn  Fortran Problem Solving - 5 | Fortran Tutorial 19",
+      "duration": 957
+    },
+    {
+      "id": "-i1Vy5Vns_0",
+      "title": "Learn Fortran functions | Fortran Tutorial 20",
+      "duration": 999
+    },
+    {
+      "id": "8RrPRlz7nVA",
+      "title": "Learn Fortran Subroutine | Fortran Tutorial 21",
+      "duration": 833
+    },
+    {
+      "id": "4yBK5vq28-k",
+      "title": "Learn Fortran Input, Output and Formatting | Fortran Tutorial 22",
+      "duration": 1635
+    },
+    {
+      "id": "H7cIU39pyT0",
+      "title": "Learn Fortran Write and Read in Files | Open Close Statment | Fortran Tutorial 23",
+      "duration": 999
+    }
+  ]
+}

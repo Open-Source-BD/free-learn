@@ -1,0 +1,410 @@
+{
+  "courseId": "php-mysql-tutorial-in-hindi-backend-development-in-hindi-in-17c726",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:00.920Z",
+  "title": "PHP MYSQL Tutorial In Hindi | Backend Development in Hindi in 2020",
+  "channel": "Thapa Technical",
+  "videos": [
+    {
+      "id": "gHE9lCxid0k",
+      "title": "PHP & MYSQL Tutorial In Hindi in 2020 | Backend Web Development Tutorial In Hindi #1",
+      "duration": 338
+    },
+    {
+      "id": "pSlctooj_DE",
+      "title": "What is BackEnd Development in Hindi in 2020 | PHP MYSQL Tutorial in Hindi #2",
+      "duration": 796
+    },
+    {
+      "id": "piyJF2fXuVs",
+      "title": "What Should You Learn Before Learning PHP In 2020? | PHP MySQL in Hindi #3",
+      "duration": 463
+    },
+    {
+      "id": "VKayKMDrxIA",
+      "title": "What is PHP in Hindi | Introduction To PHP in Hindi in 2020 | PHP Tutorial in Hindi #4",
+      "duration": 1350
+    },
+    {
+      "id": "_d0uSICeQZY",
+      "title": "How PHP Works in Hindi with Live Example | PHP MySQL Tutorial in Hindi in 2020 #5",
+      "duration": 626
+    },
+    {
+      "id": "NSFbBGyI9l4",
+      "title": "How to Install the Apache Web Server on a Windows 10, Mac & Linux For PHP and MYSQL in Hindi in 2020",
+      "duration": 591
+    },
+    {
+      "id": "hJdTGJM_22k",
+      "title": "How To Run First PHP Program in XAMPP Server In Hindi | PHP MySQL Tutorial in Hindi in 2020",
+      "duration": 676
+    },
+    {
+      "id": "xMC0Pxo1p6w",
+      "title": "PHP Syntax Rules | PHP Structure in Hindi |  PHP Tutorial in Hindi in 2020 #8",
+      "duration": 529
+    },
+    {
+      "id": "a7zWuM8Oa8E",
+      "title": "PHP Comments in Hindi | PHP Tutorial In Hindi In 2020 #9",
+      "duration": 453
+    },
+    {
+      "id": "RVbAsF2JSV4",
+      "title": "PHP Variables | How to declare Variable in PHP in Hindi | PHP Tutorial in Hindi 2020",
+      "duration": 451
+    },
+    {
+      "id": "nB0gTv2P6No",
+      "title": "PHP Interview Question #1: Why PHP is called Loosely Typed Language? PHP Tutorial in Hindi 2020 #11",
+      "duration": 419
+    },
+    {
+      "id": "ZkvpYKuhkVk",
+      "title": "How to assign values to a variable in PHP | PHP tutorial in Hindi 2020 #12",
+      "duration": 407
+    },
+    {
+      "id": "WpnfTa2Ir4Y",
+      "title": "Expression in PHP | Operands vs Operators in PHP | PHP Tutorial in Hindi in 2020 #14",
+      "duration": 423
+    },
+    {
+      "id": "2LLKYjTP-0o",
+      "title": "PHP Data Types In Hindi | PHP Tutorial for Beginners in Hindi 2020",
+      "duration": 941
+    },
+    {
+      "id": "KRcLhCSUcoY",
+      "title": "PHP Arithmetic Operators in Hindi | PHP Tutorial in Hindi 2020 #15",
+      "duration": 509
+    },
+    {
+      "id": "7U75XloMJb0",
+      "title": "PHP Modulus Operator | Find Remainder of a Number | PHP Tutorial in Hindi in 2020 #16",
+      "duration": 251
+    },
+    {
+      "id": "4HSU-1LAE5A",
+      "title": "PHP Task 1: Program to Find Power of any Number in PHP",
+      "duration": 376
+    },
+    {
+      "id": "FhL2I6xS9Qw",
+      "title": "PHP Task #2: Program to Find the Area of Square, Rectangle, Circle, Triangle in PHP in Hindi #18",
+      "duration": 569
+    },
+    {
+      "id": "ShRDo9DcvUs",
+      "title": "PHP Interview Question #2: Difference between Single Quotes and Double Quotes in PHP in Hindi #19",
+      "duration": 625
+    },
+    {
+      "id": "5tc2CNsQyTc",
+      "title": "If Else Statement in PHP in Hindi | PHP Conditional Statement in Hindi | PHP Tutorial in Hindi 2020",
+      "duration": 576
+    },
+    {
+      "id": "MCa8WSAPf8U",
+      "title": "if elseif else Statements in PHP in Hindi | PHP Turorial in HIndi in 2020 #21",
+      "duration": 636
+    },
+    {
+      "id": "RRTLCuwIN2k",
+      "title": "PHP Concatenation Operators | PHP concatenate string and variable | PHP Tutorial in Hindi 2020",
+      "duration": 513
+    },
+    {
+      "id": "Wezz9BuKy2c",
+      "title": "PHP Comparison Operators in Hindi | PHP Tutorial in Hindi 2020 #23",
+      "duration": 529
+    },
+    {
+      "id": "ixdIEaTPnVI",
+      "title": "PHP Logical Operators in Hindi | PHP Tutorial in Hindi 2020 #24",
+      "duration": 507
+    },
+    {
+      "id": "dUN6snjQT54",
+      "title": "Ternary Operator in PHP in Hindi | PHP Tutorial in Hindi in 2020",
+      "duration": 360
+    },
+    {
+      "id": "AuaizvrML5Y",
+      "title": "PHP Increment and Decrement Operators in Hindi | PHP Tutorial in Hindi 2020 #26",
+      "duration": 877
+    },
+    {
+      "id": "QedwCYabHSA",
+      "title": "PHP Switch Case Statement in Hindi | PHP Tutorial in Hindi in 2020  #27",
+      "duration": 674
+    },
+    {
+      "id": "PGPQAr7rZng",
+      "title": "Run PHP Inside HTML | Generating dyanamic HTML content using PHP 🔥 | PHP Tutorial in Hindi 2020 #28",
+      "duration": 769
+    },
+    {
+      "id": "t5_XMaEGsDg",
+      "title": "PHP Project #1: Build Simple Calculator using PHP in Hindi in 2020 #29",
+      "duration": 1246
+    },
+    {
+      "id": "0cIZrGJO57g",
+      "title": "Iterative Statements in PHP in Hindi | While Loop in PHP in Hindi | PHP Tutorial in Hindi 2020",
+      "duration": 785
+    },
+    {
+      "id": "kt6vVDHUrRw",
+      "title": "Do While Loop in PHP in Hindi | PHP Tutorial in hindi 2020 #31",
+      "duration": 433
+    },
+    {
+      "id": "4oYOlTOEwyw",
+      "title": "For Loop In PHP in Hindi | PHP Tutorial in Hindi in 2020 #32",
+      "duration": 592
+    },
+    {
+      "id": "89CsAKoH6m8",
+      "title": "PHP Interview Question #3: Difference between == vs === in PHP in Hindi in 2020 #33",
+      "duration": 398
+    },
+    {
+      "id": "J45IjjGkKG4",
+      "title": "How to Generate Random Number in PHP | PHP Tutorial in Hindi 2020 #33",
+      "duration": 215
+    },
+    {
+      "id": "Zcbhhj3m5sY",
+      "title": "PHP Challenge #3: Code FIZZBUZZ Program in PHP | PHP Tutorial in Hindi in 2020 #35",
+      "duration": 813
+    },
+    {
+      "id": "0P3nKLmrM-0",
+      "title": "PHP Challenge #4:   HEADS, I WIN!   TAILS YOU WIN!   Program in PHP",
+      "duration": 1084
+    },
+    {
+      "id": "r-YZkX5mFOI",
+      "title": "How to find the length of words or sentences in PHP? String Function in PHP Hindi #37",
+      "duration": 391
+    },
+    {
+      "id": "H-vvpEj2TSw",
+      "title": "How to count the number of words in a string in PHP | PHP String Function in Hindi #38",
+      "duration": 355
+    },
+    {
+      "id": "BQDGK95LH-Q",
+      "title": "How to Replace Characters/Words in a String in PHP? String Function in PHP in Hindi in 2020 #39",
+      "duration": 517
+    },
+    {
+      "id": "gmDaWPxJNVU",
+      "title": "PHP Challenge #4 | PHP TEMPERATURE CONVERSION APP | PHP Tutorial in Hindi #40",
+      "duration": 1591
+    },
+    {
+      "id": "R0xFMwkfU7E",
+      "title": "PHP Functions in Hindi | Define and Calling Function In PHP | PHP Tutorial in Hindi 2020 #40",
+      "duration": 473
+    },
+    {
+      "id": "_uvXgNo82LE",
+      "title": "Passing Function Parameters & Function Arguments values in PHP | PHP Tutorial in Hindi in 2020 #42",
+      "duration": 395
+    },
+    {
+      "id": "NhjraytcQ4M",
+      "title": "PHP Function Default Arguments | Function Default Parameters in PHP | PHP Tutorial in Hindi #43",
+      "duration": 359
+    },
+    {
+      "id": "PBdtK7cx5VE",
+      "title": "PHP Functions Returning Value Explained in Hindi | PHP Tutorial in Hindi in 2020 #44",
+      "duration": 473
+    },
+    {
+      "id": "xDD3UgXDTcE",
+      "title": "PHP Arrays in Hindi | Types of Arrays in PHP in Hindi | Indexed Array in PHP in Hindi #44",
+      "duration": 995
+    },
+    {
+      "id": "ygkYBoWWz94",
+      "title": "PHP ForEach Loop in Hindi | How to Loop Through an Array in PHP | PHP Tutorial in Hindi 2020 #46",
+      "duration": 497
+    },
+    {
+      "id": "rAabTVjLENI",
+      "title": "How to Sort & Reverse Data in an Array in PHP in Hindi | Array Functions in PHP in Hindi in 2020 #47",
+      "duration": 255
+    },
+    {
+      "id": "wgz7bDXL9pc",
+      "title": "PHP Array Push Pop Shift UnShift Functions Explained in Hindi | PHP Array Tutorial in Hindi 2020 #48",
+      "duration": 606
+    },
+    {
+      "id": "Z6kFMTFep5Q",
+      "title": "PHP Implode and Explode Function in Hindi | PHP Tutorial in Hindi 2020 #49",
+      "duration": 604
+    },
+    {
+      "id": "7p0F8R1ge9c",
+      "title": "PHP University Question #1: PHP Script to combine two Arrays then remove duplicates from an Array?",
+      "duration": 479
+    },
+    {
+      "id": "YcWhJi-ybiQ",
+      "title": "PHP Date and Time Function in Hindi | Find Current date & time in PHP | PHP Tutorial in Hindi #51",
+      "duration": 805
+    },
+    {
+      "id": "URNFujNUW58",
+      "title": "How to Create Database and Tables in PHP MySQL using PHPMyAdmin XAMPP in Hindi #52",
+      "duration": 850
+    },
+    {
+      "id": "7ePaIc6zT7I",
+      "title": "How to Create Connection with Database in PHP MySQL in Hindi | PHP MySQLi Tutorial in Hindi #53",
+      "duration": 1399
+    },
+    {
+      "id": "R-IJvaAvDZE",
+      "title": "How to Insert Data in Database using PHP MySQL in Hindi | PHP MySQLi Tutorial in Hindi #54",
+      "duration": 1281
+    },
+    {
+      "id": "OQEBBXSTRfk",
+      "title": "How to Select Data from Database in PHP & Display in Table Format | PHP MySQLI Tutorial in Hindi #56",
+      "duration": 1602
+    },
+    {
+      "id": "jU_KvKFwxJI",
+      "title": "How to Update Database Table Data with PHP MySQLi | Update data in Database using PHP in Hindi #56",
+      "duration": 1582
+    },
+    {
+      "id": "DnK_Fk6wIiU",
+      "title": "How to Delete a Row Data from Database in One Click using PHP MySQLi in Hindi #6",
+      "duration": 850
+    },
+    {
+      "id": "z02D_d5_TAM",
+      "title": "How to Secure Password in PHP | PHP Hashing & De-Hashing Algorithm in Hindi #58",
+      "duration": 1161
+    },
+    {
+      "id": "7ED6yU11L6E",
+      "title": "Make Your Password More Secure Adding COST and SALT on Hashing Algorithm in PHP #59",
+      "duration": 823
+    },
+    {
+      "id": "wwasPLJ6Qbc",
+      "title": "Insert Select Update Delete in PHP MySQLi in Hindi | CRUD Operation in PHP MySQL in Hindi in 2020",
+      "duration": 2921
+    },
+    {
+      "id": "qEm2bZZdMsE",
+      "title": "User Registration Form (Sign up) with Validation using PHP with MySQL Database in Hindi in 2020",
+      "duration": 2171
+    },
+    {
+      "id": "F65zrW7Jbus",
+      "title": "User Login and Logout system with Session in PHP and database using MySQLi in Hindi in 2020",
+      "duration": 1702
+    },
+    {
+      "id": "dNTZ8X9Xk_Q",
+      "title": "How to send mail in PHP from localhost using XAMPP server with Source Code in 2020",
+      "duration": 1062
+    },
+    {
+      "id": "pQRBnetE9N4",
+      "title": "Programming Challenge For You - How to Create a Chessboard using PHP",
+      "duration": 924
+    },
+    {
+      "id": "a7zvRX-6qjo",
+      "title": "Create a Palindrome String Checker Website in PHP",
+      "duration": 566
+    },
+    {
+      "id": "cVAUaLgAwSE",
+      "title": "What are Cookies Explained in Hindi | Create, Read, Update & Delete Website Cookies in PHP in Hindi",
+      "duration": 1246
+    },
+    {
+      "id": "dUmEyY8BsA0",
+      "title": "PHP Sessions Explained in Hindi | Create, Read, Update, Delete Sessions in PHP in Hindi",
+      "duration": 1350
+    },
+    {
+      "id": "aCrGIFspU4A",
+      "title": "User Account Activation by Email Verification Link with Login & Logout Page in PHP and MySQLi Hindi",
+      "duration": 3390
+    },
+    {
+      "id": "CK_7mBMVps4",
+      "title": "Adding Remember Me Functionality in Login Page using PHP & MySQLi in Hindi",
+      "duration": 1165
+    },
+    {
+      "id": "mPr3ExTYyhk",
+      "title": "Forgot Password Recovery By Email in Login System using PHP and MySQLi in Hindi",
+      "duration": 2229
+    },
+    {
+      "id": "-IumvY4Oyp8",
+      "title": "Challenge For You On BROWSER COOKIES 🔥 Can You Solve It?",
+      "duration": 991
+    },
+    {
+      "id": "QND1z0KyiWU",
+      "title": "Login with Google Account Using PHP Source Code in 2020",
+      "duration": 1679
+    },
+    {
+      "id": "KFgha79S8cI",
+      "title": "Upload and Display Multiple Images using PHP MySQLi in Hindi",
+      "duration": 2421
+    },
+    {
+      "id": "CwbjPlBDanc",
+      "title": "Image Upload Validation in PHP",
+      "duration": 958
+    },
+    {
+      "id": "o6-eO9k4SuY",
+      "title": "Create a Website to Upload, View and Download PDF files using PHP & HTML",
+      "duration": 737
+    },
+    {
+      "id": "DVyyq2rrEXY",
+      "title": "PHP Data Objects (PDO) Tutorial in One Video in Hindi 🔥",
+      "duration": 3716
+    },
+    {
+      "id": "YYYXOv7xHUg",
+      "title": "🔥 Dynamic Dependent Select Option Box using AJAX, JavaScript, and PHP in Hindi",
+      "duration": 1592
+    },
+    {
+      "id": "jNiaboOBJJM",
+      "title": "Build COVID-19 Live Stats Tracker Website using an API in Hindi 🔥",
+      "duration": 1502
+    },
+    {
+      "id": "SoAyBsj9i90",
+      "title": "🔥 Build App to Display Coronavirus Live Cases in India State Wise with API in Hindi",
+      "duration": 1428
+    },
+    {
+      "id": "Z_OkXAd_ePs",
+      "title": "App to Track India Day-wise CoronaVirus Cases using an API in Hindi",
+      "duration": 1029
+    }
+  ]
+}

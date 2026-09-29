@@ -1,0 +1,55 @@
+{
+  "courseId": "statistics-and-machine-learning-in-r-73b5b1",
+  "sourceUrl": "https://youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:55.119Z",
+  "title": "Statistics and Machine Learning in R",
+  "channel": "StatQuest with Josh Starmer",
+  "videos": [
+    {
+      "id": "0Jp4gsfOLMs",
+      "title": "StatQuest: PCA in R",
+      "duration": 537
+    },
+    {
+      "id": "pGAUHhLYp5Q",
+      "title": "StatQuest: MDS and PCoA in R",
+      "duration": 465
+    },
+    {
+      "id": "6EXPYzbfLCE",
+      "title": "StatQuest: Random Forests in R",
+      "duration": 910
+    },
+    {
+      "id": "u1cc1r_Y7M0",
+      "title": "Linear Regression in R, Step-by-Step",
+      "duration": 301
+    },
+    {
+      "id": "hokALdIst8k",
+      "title": "Multiple Regression in R, Step-by-Step!!!",
+      "duration": 463
+    },
+    {
+      "id": "Hrr2anyK_5s",
+      "title": "Design Matrix Examples in R, Clearly Explained!!!",
+      "duration": 500
+    },
+    {
+      "id": "C4N3_XJJ-jU",
+      "title": "Logistic Regression in R, Clearly Explained!!!!",
+      "duration": 1035
+    },
+    {
+      "id": "ctmNq7FgbvI",
+      "title": "Ridge, Lasso and Elastic-Net Regression in R",
+      "duration": 1071
+    },
+    {
+      "id": "qcvAqAH60Yw",
+      "title": "ROC and AUC in R",
+      "duration": 913
+    }
+  ]
+}

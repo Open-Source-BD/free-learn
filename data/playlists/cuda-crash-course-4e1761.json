@@ -1,0 +1,160 @@
+{
+  "courseId": "cuda-crash-course-4e1761",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:20.839Z",
+  "title": "CUDA Crash Course",
+  "channel": "Nick",
+  "videos": [
+    {
+      "id": "2NgpYFdsduY",
+      "title": "CUDA Crash Course: Vector Addition",
+      "duration": 815
+    },
+    {
+      "id": "84iwCupHW14",
+      "title": "CUDA Crash Course: Unified Memory Vector Add",
+      "duration": 601
+    },
+    {
+      "id": "XEOc4HCf_pQ",
+      "title": "CUDA Crash Course: Matrix Multiplication",
+      "duration": 916
+    },
+    {
+      "id": "3xfyiWhtvZw",
+      "title": "CUDA Crash Course: Cache Tiled Matrix Multiplication",
+      "duration": 1182
+    },
+    {
+      "id": "_qSP455IekE",
+      "title": "CUDA Crash Course: Why Coalescing Matters",
+      "duration": 507
+    },
+    {
+      "id": "2_wZBq544gA",
+      "title": "CUDA Crash Course: cuBLAS Vector Add",
+      "duration": 402
+    },
+    {
+      "id": "MVutNZaNTkM",
+      "title": "CUDA Crash Course: cuBLAS Matrix Multiplication",
+      "duration": 675
+    },
+    {
+      "id": "bpbit8SPMxU",
+      "title": "CUDA Crash Course: Sum Reduction Part 1",
+      "duration": 686
+    },
+    {
+      "id": "JmnPaOXxWLg",
+      "title": "CUDA Crash Course: Sum Reduction Part 2",
+      "duration": 690
+    },
+    {
+      "id": "iHeze1VdxYA",
+      "title": "CUDA Crash Course: Sum Reduction Part 3",
+      "duration": 1014
+    },
+    {
+      "id": "xXiA3dzl2UE",
+      "title": "CUDA Crash Course: Sum Reduction Part 4",
+      "duration": 970
+    },
+    {
+      "id": "Qpx227w6idA",
+      "title": "CUDA Crash Course: Sum Reduction Part 5",
+      "duration": 935
+    },
+    {
+      "id": "3usDbpnn7E8",
+      "title": "CUDA Crash Course: Visual Studio 2017 Environment Setup",
+      "duration": 874
+    },
+    {
+      "id": "AA7RIRxesD4",
+      "title": "CUDA Crash Course: Programming in Linux",
+      "duration": 603
+    },
+    {
+      "id": "ZNaEyWYqiJ8",
+      "title": "CUDA Crash Course: Video Corrections",
+      "duration": 675
+    },
+    {
+      "id": "dL6N0cdiMoU",
+      "title": "CUDA Crash Course: Sum Reduction Part 6",
+      "duration": 1245
+    },
+    {
+      "id": "OlLquh9Lnbc",
+      "title": "CUDA Crash Course: Naive 1-D Convolution",
+      "duration": 736
+    },
+    {
+      "id": "n7vtr2hCzoc",
+      "title": "CUDA Crash Course: 1-D Convolution with Constant Memory",
+      "duration": 492
+    },
+    {
+      "id": "pBB8mZRM91A",
+      "title": "CUDA Crash Course: Tiled 1-D Convolution",
+      "duration": 1120
+    },
+    {
+      "id": "miNGeE9ox20",
+      "title": "CUDA Crash Course: 1-D Convolution Cache Simplification",
+      "duration": 802
+    },
+    {
+      "id": "qxcfco89wvs",
+      "title": "CUDA Crash Course: 2-D Convolution",
+      "duration": 932
+    },
+    {
+      "id": "Qzu0QHMOD70",
+      "title": "CUDA Crash Course: Thinking Spatially",
+      "duration": 1708
+    },
+    {
+      "id": "v4DGiuU53h8",
+      "title": "CUDA Crash Course: Optimizing Histogram Kernels",
+      "duration": 1021
+    },
+    {
+      "id": "aTsVBf1XuoQ",
+      "title": "CUDA Crash Course: Comparing Matrix Multiplication Implementations",
+      "duration": 425
+    },
+    {
+      "id": "QkpVHljIEos",
+      "title": "CUDA Crash Course: Comparing Sum Reduction Implementations",
+      "duration": 393
+    },
+    {
+      "id": "0pedVFJF6fQ",
+      "title": "CUDA Crash Course: Handling Non-Perfect Input Sizes",
+      "duration": 1664
+    },
+    {
+      "id": "WUIKrLnn-hg",
+      "title": "CUDA Crash Course: OpenACC Matrix Multiplication",
+      "duration": 668
+    },
+    {
+      "id": "fXpwi-Oawoo",
+      "title": "CUDA Crash Course: Device Properties",
+      "duration": 613
+    },
+    {
+      "id": "gp7D8pEd3rc",
+      "title": "CUDA Crash Course: Profiling with clock()",
+      "duration": 417
+    },
+    {
+      "id": "b8ESCws3_1s",
+      "title": "CUDA Crash Course: GPU Performance Optimizations Part 1",
+      "duration": 1343
+    }
+  ]
+}

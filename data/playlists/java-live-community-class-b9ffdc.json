@@ -1,0 +1,80 @@
+{
+  "courseId": "java-live-community-class-b9ffdc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:00.854Z",
+  "title": "Java Live Community Class",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "nEPF0MLQdak",
+      "title": "Java Live Session | Introduction to Java",
+      "duration": 3675
+    },
+    {
+      "id": "GYZa4FQsIn0",
+      "title": "Java Live Session | Variables, Data-Types and Operators | Quiz with prizes",
+      "duration": 5146
+    },
+    {
+      "id": "Q6C7DTsrpms",
+      "title": "Java Live Session | If-Else | Quiz with prizes",
+      "duration": 5080
+    },
+    {
+      "id": "oG7FlzKjjtw",
+      "title": "Java Live Session | Loops | Quiz with prizes",
+      "duration": 4586
+    },
+    {
+      "id": "Sli95TS3jTI",
+      "title": "Java Live Session | Array | Quiz with prizes",
+      "duration": 3885
+    },
+    {
+      "id": "BkvfDYJlPQM",
+      "title": "Java Live Session | Class, Object and String | Quiz with prizes",
+      "duration": 4282
+    },
+    {
+      "id": "s72FvmjrTw4",
+      "title": "Java Live Session | Constructor and Encapsulation",
+      "duration": 4532
+    },
+    {
+      "id": "ziWA3MLlook",
+      "title": "Java Live Session | Static Keyword and Inheritance",
+      "duration": 2485
+    },
+    {
+      "id": "og3AyqD5J_g",
+      "title": "Java Live Session | Inheritance and Polymorphism",
+      "duration": 3875
+    },
+    {
+      "id": "Bo3M0QXirSY",
+      "title": "Java Live Session | Method Overloading, Final",
+      "duration": 2646
+    },
+    {
+      "id": "jA2Hyi2VLME",
+      "title": "Java Live Session | Interface and Packages",
+      "duration": 3244
+    },
+    {
+      "id": "I_DXRghJNrI",
+      "title": "Java Live Session | Interface and Packages part 2",
+      "duration": 3359
+    },
+    {
+      "id": "89YsDUb7SEk",
+      "title": "Java Live Session | Anonymous Class and Lambda Expression",
+      "duration": 2862
+    },
+    {
+      "id": "Im-pBDFgJcA",
+      "title": "Java Live Session | this, super Keywords",
+      "duration": 4291
+    }
+  ]
+}

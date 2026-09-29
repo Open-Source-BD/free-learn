@@ -1,0 +1,125 @@
+{
+  "courseId": "jenkins-08a441",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:25.445Z",
+  "title": "Jenkins",
+  "channel": "Automation Step by Step",
+  "videos": [
+    {
+      "id": "89yWXXIOisk",
+      "title": "Jenkins Beginner Tutorial 1 - Introduction and Getting Started",
+      "duration": 887
+    },
+    {
+      "id": "Fi9pgrMlQZY",
+      "title": "Jenkins Beginner Tutorial 2 - How to setup Jenkins on Tomcat",
+      "duration": 938
+    },
+    {
+      "id": "m47MWSXNslg",
+      "title": "Jenkins Beginner Tutorial 3 - How to change Home Directory",
+      "duration": 797
+    },
+    {
+      "id": "ooA8RS3hC6k",
+      "title": "Jenkins Beginner Tutorial 4 - How to use CLI (command line interface)",
+      "duration": 684
+    },
+    {
+      "id": "QvFungzXI5s",
+      "title": "Jenkins Beginner Tutorial 5 - How to create Users + Manage + Assign Roles",
+      "duration": 1078
+    },
+    {
+      "id": "Cr8XSljgEPI",
+      "title": "Jenkins Beginner Tutorial 6 - Basic Configurations",
+      "duration": 1023
+    },
+    {
+      "id": "63HEKFh8T2c",
+      "title": "Jenkins Beginner Tutorial 7 - Getting started with JOBS",
+      "duration": 1072
+    },
+    {
+      "id": "bGqS0f4Utn4",
+      "title": "Jenkins Beginner Tutorial 8 - Jenkins integration with GIT (SCM)",
+      "duration": 965
+    },
+    {
+      "id": "mGXGIOpKAos",
+      "title": "Jenkins Beginner Tutorial 9 - How to add GitHub Credentials",
+      "duration": 377
+    },
+    {
+      "id": "yC5w-CVXak8",
+      "title": "Jenkins Beginner Tutorial 10 - How to use CATLIGHT (Jenkins Build Monitor)",
+      "duration": 421
+    },
+    {
+      "id": "HkLXbFDlMtU",
+      "title": "Jenkins Beginner Tutorial 11 - What is Automated Deployment (Step by Step)",
+      "duration": 245
+    },
+    {
+      "id": "j5D8SLxn6YA",
+      "title": "Jenkins Beginner Tutorial 12 - How to do Automated Deployment (Step by Step)",
+      "duration": 711
+    },
+    {
+      "id": "DULs4Wq4xMg",
+      "title": "Jenkins Beginner Tutorial 13 - Notifications - How to send Email from Jenkins",
+      "duration": 261
+    },
+    {
+      "id": "DTRfG_gMLeU",
+      "title": "Jenkins Beginner Tutorial 14 - What is Pipeline in Jenkins (DevOps)",
+      "duration": 193
+    },
+    {
+      "id": "ndLbn24OwQg",
+      "title": "Jenkins Beginner Tutorial 15 - How to setup DELIVERY PIPELINE in Jenkins (Step by Step)",
+      "duration": 703
+    },
+    {
+      "id": "zf6ogW0HKLY",
+      "title": "Jenkins Beginner Tutorial 16 - How to setup BUILD PIPELINE in Jenkins (Step by Step)",
+      "duration": 346
+    },
+    {
+      "id": "Di1DjW8Qxb0",
+      "title": "Jenkins Beginner Tutorial 17 - What is BLUE OCEAN (How to get started)",
+      "duration": 342
+    },
+    {
+      "id": "DWlAQe57uz8",
+      "title": "Jenkins Beginner Tutorial - How to Trigger Job with Email | Poll Mailbox Trigger Plugin",
+      "duration": 668
+    },
+    {
+      "id": "WnQK6-puXSM",
+      "title": "Jenkins Beginner Tutorial - How to create Build Monitor View",
+      "duration": 247
+    },
+    {
+      "id": "jmm8DsosBqw",
+      "title": "How to install Jenkins on Amazon AWS EC2 Linux | 8 Steps",
+      "duration": 629
+    },
+    {
+      "id": "RsD2nzPY0is",
+      "title": "Jenkinsfile Beginner Tutorial 1 | What is Jenkinsfile | How to create jenkinsfile | Step by Step",
+      "duration": 743
+    },
+    {
+      "id": "8IWH1cYVZt4",
+      "title": "Jenkinsfile Beginner Tutorial 2 | How to get Jenkinsfile from Git SCM",
+      "duration": 447
+    },
+    {
+      "id": "r5nfUWVlGH4",
+      "title": "Jenkinsfile Beginner Tutorial 3 | Jenkins Pipeline | How to clone a git repo using Jenkinsfile |",
+      "duration": 228
+    }
+  ]
+}

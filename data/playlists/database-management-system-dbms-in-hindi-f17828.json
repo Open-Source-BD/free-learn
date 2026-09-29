@@ -1,0 +1,535 @@
+{
+  "courseId": "database-management-system-dbms-in-hindi-f17828",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:05.067Z",
+  "title": "Database Management System (DBMS) Tutorial in Hindi with Notes",
+  "channel": "The Crazy Programmer",
+  "videos": [
+    {
+      "id": "xy138_iUfaI",
+      "title": "Database Management System (DBMS) Introduction in Hindi - Lecture #1",
+      "duration": 673
+    },
+    {
+      "id": "5FgVmxIouss",
+      "title": "File System in DBMS in Hindi | Advantages & Disadvantages - Lecture #2",
+      "duration": 629
+    },
+    {
+      "id": "0-05iqYqYA4",
+      "title": "Hierarchical Data Model in DBMS in Hindi | Advantages & Disadvantages - Lecture #3",
+      "duration": 525
+    },
+    {
+      "id": "qehOeSjbxwg",
+      "title": "Network Data Model in DBMS in Hindi | Advantages & Disadvantages - Lecture #4",
+      "duration": 580
+    },
+    {
+      "id": "NsCAP-Gtvw4",
+      "title": "Relational Data Model in DBMS in Hindi | Advantages & Disadvantages - Lecture #5",
+      "duration": 772
+    },
+    {
+      "id": "ZI5ETxJhWxk",
+      "title": "Object Oriented Data Model in DBMS in Hindi | Advantages & Disadvantages - Lecture #6",
+      "duration": 1111
+    },
+    {
+      "id": "lN6nyjFucZ8",
+      "title": "History of DBMS in Hindi - Lecture #7",
+      "duration": 1109
+    },
+    {
+      "id": "q5vD03F_0Cs",
+      "title": "File System vs DBMS in Hindi - Lecture #8",
+      "duration": 1121
+    },
+    {
+      "id": "FKFFbtLHVSQ",
+      "title": "What is Database in Hindi | Features, Functions & Applications - Lecture #9",
+      "duration": 1139
+    },
+    {
+      "id": "pvb9EFCc3H4",
+      "title": "Data Abstraction in DBMS in Hindi - Lecture #10",
+      "duration": 592
+    },
+    {
+      "id": "ZR_YL_3nJ4U",
+      "title": "Instance and Schema in DBMS in Hindi - Lecture #11",
+      "duration": 1135
+    },
+    {
+      "id": "0mSTsrEyJJ4",
+      "title": "Data Independence in DBMS in Hindi - Lecture #12",
+      "duration": 397
+    },
+    {
+      "id": "ZP8nSrbaQ4Y",
+      "title": "Keys in DBMS (Hindi) | Relational Database Intro | Primary, Foreign, Candidate, Super - Lecture #13",
+      "duration": 1969
+    },
+    {
+      "id": "RJ_Oy5zVLjI",
+      "title": "Entity Relationship (ER) Model & Types of Attributes (Hindi) - Lecture #14",
+      "duration": 1737
+    },
+    {
+      "id": "ypQeHSdTlps",
+      "title": "How to Draw ER Diagram in DBMS (Hindi) - Lecture #15",
+      "duration": 1589
+    },
+    {
+      "id": "BCR7EgGb4go",
+      "title": "Convert ER Diagram to Relational Table with Example (Hindi) - Lecture #16",
+      "duration": 1076
+    },
+    {
+      "id": "tWDRPgOu0QA",
+      "title": "Types of Database Systems (Hindi) - Lecture #17",
+      "duration": 617
+    },
+    {
+      "id": "aaOFfw2gUsE",
+      "title": "Centralized Database System (Hindi) | Advantages & Disadvantages - Lecture #18",
+      "duration": 817
+    },
+    {
+      "id": "2cYt7u2ZoNQ",
+      "title": "Distributed Database System (Hindi) | Advantages & Disadvantages - Lecture #19",
+      "duration": 1335
+    },
+    {
+      "id": "FZHawcS1_RY",
+      "title": "Parallel Database System (Hindi) | Advantages & Disadvantages - Lecture 20",
+      "duration": 1708
+    },
+    {
+      "id": "xEX65Z_eVn0",
+      "title": "Client Server Architecture in DBMS (Hindi) | Advantages & Disadvantages - Lecture #21",
+      "duration": 1256
+    },
+    {
+      "id": "QIp7pBO6Ow4",
+      "title": "Database Languages (Hindi) | DDL, DML, DCL, DQL - Lecture #22",
+      "duration": 1745
+    },
+    {
+      "id": "YyCxW47Bdl0",
+      "title": "Types of DBMS Interfaces (Hindi) - Lecture #23",
+      "duration": 784
+    },
+    {
+      "id": "1c66YzLRKGs",
+      "title": "Different Types of Database Users in DBMS (Hindi) - Lecture #24",
+      "duration": 1104
+    },
+    {
+      "id": "ohsufu8PeyI",
+      "title": "Functional Components of DBMS (Hindi) | Storage Manager, Query Processor - Lecture #25",
+      "duration": 1236
+    },
+    {
+      "id": "hmK5Ewtc7TE",
+      "title": "Overall Structure of DBMS (Hindi) - Lecture #26",
+      "duration": 1348
+    },
+    {
+      "id": "KxBMibgN67E",
+      "title": "Fourth Generation Language (4GL) in Hindi - Lecture #27",
+      "duration": 1010
+    },
+    {
+      "id": "RlxODAH49as",
+      "title": "What is Metadata in DBMS (Hindi)? - Lecture #28",
+      "duration": 1099
+    },
+    {
+      "id": "_JWFNSngvus",
+      "title": "Mapping & Participation Constraints in DBMS (Hindi) - Lecture #29",
+      "duration": 705
+    },
+    {
+      "id": "ultYklS6RZk",
+      "title": "Existence Dependency, Weak Entity, Strong Entity in DBMS (Hindi) - Lecture #30",
+      "duration": 716
+    },
+    {
+      "id": "lh-0VE4IqYg",
+      "title": "Generalization, Specialization, Aggregation, Association, Abstraction, Composition in DBMS (Hindi)",
+      "duration": 1170
+    },
+    {
+      "id": "qG2hY2PwMew",
+      "title": "Degree of Relationship in DBMS (Hindi) | Unary, Binary, Ternary, N-ary - Lecture #32",
+      "duration": 693
+    },
+    {
+      "id": "gl-Zyt6rWOI",
+      "title": "Cardinality Ratio in DBMS (Hindi) - Lecture #33",
+      "duration": 1042
+    },
+    {
+      "id": "_R1xDjm8MX8",
+      "title": "Integrity Constraints in DBMS | Domain, Entity, Referential, Key - Lecture #34",
+      "duration": 1554
+    },
+    {
+      "id": "5eGcsZTKlik",
+      "title": "Data Types in DBMS SQL (Hindi) - Lecture #35",
+      "duration": 994
+    },
+    {
+      "id": "x2BnmVbMH2o",
+      "title": "How to Install and Run MySQL on Mac (Hindi) - Lecture #36",
+      "duration": 775
+    },
+    {
+      "id": "KcRoZf5SzPk",
+      "title": "Create, Delete Database and Table in SQL (Hindi) - Lecture #37",
+      "duration": 643
+    },
+    {
+      "id": "c8lPZxcL8Ig",
+      "title": "Insert and Select Command in SQL (Hindi) - Lecture #38",
+      "duration": 1107
+    },
+    {
+      "id": "E2U2EWtTRcg",
+      "title": "Alter and Update Command in SQL (Hindi) - Lecture #39",
+      "duration": 1597
+    },
+    {
+      "id": "SyHAPP-obm8",
+      "title": "Where Clause in SQL (Hindi) - Lecture #40",
+      "duration": 1079
+    },
+    {
+      "id": "DfytQLcsGUQ",
+      "title": "Delete, Drop and Truncate in SQL (Hindi) - Lecture #41",
+      "duration": 985
+    },
+    {
+      "id": "aL9_k0zHSIA",
+      "title": "Not Null Constraint in SQL (Hindi) - Lecture #42",
+      "duration": 1111
+    },
+    {
+      "id": "V517OV726sw",
+      "title": "Unique Constraint in SQL (Hindi) | Unique Key - Lecture #43",
+      "duration": 2037
+    },
+    {
+      "id": "huvfTb_3_I0",
+      "title": "Primary Key in SQL (Hindi) - Lecture #44",
+      "duration": 1799
+    },
+    {
+      "id": "NXzqxXHBFnA",
+      "title": "Foreign Key in SQL (Hindi) - Lecture #45",
+      "duration": 2126
+    },
+    {
+      "id": "8In_peQn0ZE",
+      "title": "Order by Clause and Auto Increment in SQL (Hindi) - Lecture #46",
+      "duration": 2221
+    },
+    {
+      "id": "sDvviMj0f4E",
+      "title": "SQL Index Command (Hindi) - Lecture #47",
+      "duration": 1343
+    },
+    {
+      "id": "bpc4C4rbLmI",
+      "title": "AND, OR, NOT Operators in SQL (Hindi) - Lecture #48",
+      "duration": 1082
+    },
+    {
+      "id": "H1zkuia4vhA",
+      "title": "SQL Limit Clause, Min & Max Function (Hindi) - Lecture #49",
+      "duration": 1226
+    },
+    {
+      "id": "E1d4o-rPQn4",
+      "title": "Count, Sum & Avg Function in SQL (Hindi) - Lecture #50",
+      "duration": 763
+    },
+    {
+      "id": "YpMZ_BSpH7I",
+      "title": "SQL In, Between Operator (Hindi) - Lecture #51",
+      "duration": 1007
+    },
+    {
+      "id": "iogtby2n-Do",
+      "title": "Like Operator in SQL (Hindi) - Lecture #52",
+      "duration": 1575
+    },
+    {
+      "id": "vSueuU1oDq0",
+      "title": "Alias and Group By Clause in SQL (Hindi) - Lecture #53",
+      "duration": 1692
+    },
+    {
+      "id": "Xlc0LN2fAqA",
+      "title": "All, Any and Some Operators in SQL (Hindi) - Lecture #54",
+      "duration": 1088
+    },
+    {
+      "id": "Gs-bV3auQKU",
+      "title": "Case Statement in SQL (Hindi) - Lecture #55",
+      "duration": 1117
+    },
+    {
+      "id": "iR3w94qDEMU",
+      "title": "Insert Into Select Statement in SQL | Copy Data From One Table to Another - Lecture #56",
+      "duration": 791
+    },
+    {
+      "id": "kbXkWjsit_o",
+      "title": "SQL View Statement & Create Table from Another Table (Hindi) - Lecture #57",
+      "duration": 1971
+    },
+    {
+      "id": "wrorZvaf2mk",
+      "title": "Having Clause in SQL (Hindi) - Lecture #58",
+      "duration": 1388
+    },
+    {
+      "id": "A4AFbCkGx_4",
+      "title": "Exists Clause in SQL (Hindi) - Lecture #59",
+      "duration": 734
+    },
+    {
+      "id": "c_zB-VoQbiM",
+      "title": "Join in SQL | Types of Joins | Inner Join [Hindi] - Lecture #60",
+      "duration": 1451
+    },
+    {
+      "id": "fY0cdCydVuw",
+      "title": "Left Join, Right Join & Full Outer Join in SQL [Hindi] - Lecture #61",
+      "duration": 1939
+    },
+    {
+      "id": "UlUTw8zpwTM",
+      "title": "Natural Join and Cross Join in SQL [Hindi] - Lecture #62",
+      "duration": 1206
+    },
+    {
+      "id": "BM4JOsJbWos",
+      "title": "Self Join in SQL [Hindi] - Lecture #63",
+      "duration": 1056
+    },
+    {
+      "id": "VtyUFoM6_8A",
+      "title": "Join Three Tables in SQL [Hindi] - Lecture #64",
+      "duration": 1155
+    },
+    {
+      "id": "7exzWp8dL8c",
+      "title": "Union and Union All in SQL [Hindi] - Lecture #65",
+      "duration": 1722
+    },
+    {
+      "id": "3QjXsZt4kM4",
+      "title": "Relational Algebra in DBMS [Hindi] | Types of Operations - Lecture #66",
+      "duration": 1158
+    },
+    {
+      "id": "LDnta1UUzMg",
+      "title": "Select Operation in Relational Algebra [Hindi] | DBMS - Lecture #67",
+      "duration": 962
+    },
+    {
+      "id": "r8_Qb_0WLoo",
+      "title": "Project Operation in Relational Algebra [Hindi] | DBMS - Lecture #68",
+      "duration": 764
+    },
+    {
+      "id": "Nc7FYC4fw3o",
+      "title": "Rename Operation in Relational Algebra [Hindi] | DBMS - Lecture #69",
+      "duration": 821
+    },
+    {
+      "id": "J-I1Y5Ssxyk",
+      "title": "Union Operation in Relational Algebra [Hindi] | DBMS - Lecture #70",
+      "duration": 1040
+    },
+    {
+      "id": "8_JUTddsFkU",
+      "title": "Set Difference Operation in Relational Algebra [Hindi] | DBMS - Lecture #71",
+      "duration": 816
+    },
+    {
+      "id": "0Dz7WEL42Y0",
+      "title": "Cartesian Product in Relational Algebra [Hindi] | DBMS - Lecture #72",
+      "duration": 821
+    },
+    {
+      "id": "lrDQNHIB1TE",
+      "title": "Division Operation in Relational Algebra [Hindi] | DBMS - Lecture #73",
+      "duration": 1066
+    },
+    {
+      "id": "TX6-KhLERYY",
+      "title": "Intersection Operation in Relational Algebra [Hindi] | DBMS - Lecture #74",
+      "duration": 348
+    },
+    {
+      "id": "ryvxSer8k3Y",
+      "title": "Inner Join in Relational Algebra [Hindi] | Theta, Equi & Natural Joins in DBMS - Lecture #75",
+      "duration": 1572
+    },
+    {
+      "id": "FmL8Ixn6m78",
+      "title": "Outer Join in Relational Algebra [Hindi] | Left, Right, Full Outer Joins - Lecture #76",
+      "duration": 1103
+    },
+    {
+      "id": "mc9S1UXWpFU",
+      "title": "Tuple Relational Calculus in DBMS [Hindi] - Lecture #77",
+      "duration": 1978
+    },
+    {
+      "id": "FKDO42fj5HA",
+      "title": "Domain Relational Calculus in DBMS [Hindi] - Lecture #78",
+      "duration": 867
+    },
+    {
+      "id": "l5X0o7pIo0Q",
+      "title": "Difference between Tuple and Domain Relational Calculus [Hindi] - Lecture #79",
+      "duration": 682
+    },
+    {
+      "id": "btBcn6JwWnk",
+      "title": "Triggers in SQL [Hindi] | Advantages, Disadvantages & Types - Lecture #80",
+      "duration": 1433
+    },
+    {
+      "id": "Hl1atckjk5U",
+      "title": "Anomalies in DBMS [Hindi] | Redundancy, Update, Insert and Delete Anomalies - Lecture #81",
+      "duration": 1186
+    },
+    {
+      "id": "WOWLrVQKjWo",
+      "title": "What is Normalization in DBMS [Hindi] | Introduction & Types - Lecture #82",
+      "duration": 616
+    },
+    {
+      "id": "ilKp9ps8UEU",
+      "title": "Decomposition in DBMS [Hindi] | Lossless and Lossy - Lecture #83",
+      "duration": 1231
+    },
+    {
+      "id": "fC6bqr8uEwo",
+      "title": "Functional Dependency in DBMS [Hindi] | Types of FD | Multivalued & Trivial - Lecture #84",
+      "duration": 1401
+    },
+    {
+      "id": "oc7cGNpDock",
+      "title": "Non-Trivial, Transitive, Partial, and Full Functional Dependency [Hindi] - Lecture #85",
+      "duration": 900
+    },
+    {
+      "id": "j8Ss-WyjGIU",
+      "title": "First Normal Form (1NF) in DBMS [Hindi] - Lecture #86",
+      "duration": 601
+    },
+    {
+      "id": "QOnvICP4mBo",
+      "title": "Second Normal Form (2NF) in DBMS [Hindi] - Lecture #87",
+      "duration": 966
+    },
+    {
+      "id": "1Vpv83SZRNU",
+      "title": "Third Normal Form (3NF) in DBMS [Hindi] - Lecture #88",
+      "duration": 1235
+    },
+    {
+      "id": "3KFWj_9aE3c",
+      "title": "Boyce-Codd Normal Form (BCNF) in DBMS | 3.5NF - Lecture #89",
+      "duration": 882
+    },
+    {
+      "id": "9TT0DqY_SFY",
+      "title": "Fourth Normal Form (4NF) in DBMS [Hindi] - Lecture #90",
+      "duration": 609
+    },
+    {
+      "id": "9b8fd0eXN3Y",
+      "title": "Fifth Normal Form (5NF) in DBMS [Hindi] | PJNF - Lecture #91",
+      "duration": 1283
+    },
+    {
+      "id": "w4u77psHn5I",
+      "title": "Normalization 1NF, 2NF, 3NF, BCNF, 4NF, 5NF & 6NF with Example [Hindi] - Lecture #92",
+      "duration": 2268
+    },
+    {
+      "id": "w3iVTJQAKlo",
+      "title": "Conclusion of Normalization [Hindi] - Lecture #93",
+      "duration": 1666
+    },
+    {
+      "id": "C94gAzQistk",
+      "title": "6NF, DKNF, ETNF, EKNF in DBMS [Hindi] - Lecture #94",
+      "duration": 1256
+    },
+    {
+      "id": "FjAykmYHgxA",
+      "title": "Prime and Non-Prime Attributes, Armstrong's Axioms in DBMS [Hindi] - Lecture #95",
+      "duration": 846
+    },
+    {
+      "id": "RZRMUqicv3w",
+      "title": "Closure of a Set of Functional Dependencies in DBMS [Hindi] - Lecture #96",
+      "duration": 1265
+    },
+    {
+      "id": "-4J2GTOM3fo",
+      "title": "Canonical Cover and Minimal Cover in DBMS [Hindi] - Lecture #97",
+      "duration": 1069
+    },
+    {
+      "id": "y8107U4MvUg",
+      "title": "Transaction Concept in DBMS [Hindi] - Lecture #98",
+      "duration": 939
+    },
+    {
+      "id": "XMMpNqk8dOY",
+      "title": "ACID Properties in DBMS [Hindi] | Atomicity, Consistency, Isolation, Durability - Lecture #99",
+      "duration": 1033
+    },
+    {
+      "id": "ksjKFofUUEE",
+      "title": "Transaction States in DBMS [Hindi] - Lecture #100",
+      "duration": 684
+    },
+    {
+      "id": "D-z97N9Z7LE",
+      "title": "Serial and Parallel Execution of Transaction in DBMS [Hindi] - Lecture #101",
+      "duration": 783
+    },
+    {
+      "id": "0NXGT3ofSmU",
+      "title": "Concurrent Execution of Transaction in DBMS [Hindi] - #102",
+      "duration": 665
+    },
+    {
+      "id": "TIi-RASgzSU",
+      "title": "Transaction Schedules in DBMS [Hindi] | Serial, Non-Serial & Serializable - Lecture #103",
+      "duration": 605
+    },
+    {
+      "id": "biRcAaMhQLY",
+      "title": "Serializability in DBMS [Hindi] | Conflict & View Serializability - Lecture 104",
+      "duration": 629
+    },
+    {
+      "id": "n5k2AyD-hW8",
+      "title": "Deadlock in DBMS [Hindi] - Lecture #105",
+      "duration": 664
+    }
+  ]
+}

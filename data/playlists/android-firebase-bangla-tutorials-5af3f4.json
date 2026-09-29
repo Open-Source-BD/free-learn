@@ -1,0 +1,70 @@
+{
+  "courseId": "android-firebase-bangla-tutorials-5af3f4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:21.117Z",
+  "title": "Android Firebase Bangla Tutorial",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "K_cfIVdceHY",
+      "title": "Introdcution to Firebase Bangla Tutorial",
+      "duration": 423
+    },
+    {
+      "id": "E3KbPoSofpw",
+      "title": "Firebase Authentication part 1 : How to sign up a user",
+      "duration": 1240
+    },
+    {
+      "id": "q9JQZAk6Z1g",
+      "title": "Firebase Authentication part 2 : How to sign in",
+      "duration": 798
+    },
+    {
+      "id": "rbsfuh6vtzo",
+      "title": "Firebase Authentication part 3 : How to sign out",
+      "duration": 330
+    },
+    {
+      "id": "mn6M2cKRZ7c",
+      "title": "Firebase RealTime DataBase part 1 - How to store data",
+      "duration": 920
+    },
+    {
+      "id": "2NinkAloIxQ",
+      "title": "Firebase RealTime DataBase part 2 : How to Retrieve data",
+      "duration": 1077
+    },
+    {
+      "id": "i1Sjc1uSDCo",
+      "title": "Firebase Storage part 1 : store, retrieve and delete image",
+      "duration": 795
+    },
+    {
+      "id": "8V3iNEMWnwc",
+      "title": "Firebase Storage part 2 : store, retrieve and delete image",
+      "duration": 924
+    },
+    {
+      "id": "R23JdgfFSD4",
+      "title": "Firebase Storage part 3 : store, retrieve and delete image",
+      "duration": 647
+    },
+    {
+      "id": "vmx2qm9KRjY",
+      "title": "Firebase Storage part 4 : store, retrieve and delete image",
+      "duration": 602
+    },
+    {
+      "id": "lBHq5XwhBT4",
+      "title": "Firebase Storage part 5 : store, retrieve and delete image",
+      "duration": 784
+    },
+    {
+      "id": "wsgG5vgn4PM",
+      "title": "Firebase Storage part 6 : store, retrieve and delete image",
+      "duration": 384
+    }
+  ]
+}

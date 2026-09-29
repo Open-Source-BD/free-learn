@@ -1,0 +1,120 @@
+{
+  "courseId": "learning-chef-a4f5ab",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:22.727Z",
+  "title": "Learning Chef",
+  "channel": "Nathen Harvey",
+  "videos": [
+    {
+      "id": "l7-nAHdplD4",
+      "title": "Introduction",
+      "duration": 196
+    },
+    {
+      "id": "2BCNpHNZzy8",
+      "title": "Overview of Chef",
+      "duration": 236
+    },
+    {
+      "id": "7n_mwo9-pIA",
+      "title": "Register for Hosted Chef",
+      "duration": 75
+    },
+    {
+      "id": "5pwVYvetEW4",
+      "title": "Invite Another User to Your Chef Organization",
+      "duration": 177
+    },
+    {
+      "id": "KdoquSLbZOI",
+      "title": "Initialize a git Repository",
+      "duration": 297
+    },
+    {
+      "id": "6UoRTvpUIZ0",
+      "title": "Configure Knife",
+      "duration": 505
+    },
+    {
+      "id": "o9HtZ1nDoTI",
+      "title": "Initialize Vagrant",
+      "duration": 456
+    },
+    {
+      "id": "ui72v8Dh8Dk",
+      "title": "First Converge",
+      "duration": 597
+    },
+    {
+      "id": "qgPvedOKD1I",
+      "title": "Checkpoint",
+      "duration": 608
+    },
+    {
+      "id": "E4ibkS1LbPk",
+      "title": "Review of the First Tutorial Session",
+      "duration": 294
+    },
+    {
+      "id": "QwiPbEXhe24",
+      "title": "Chef Solo",
+      "duration": 99
+    },
+    {
+      "id": "d1npGSBgyrs",
+      "title": "Download a Cookbook",
+      "duration": 512
+    },
+    {
+      "id": "wyLtF261a6A",
+      "title": "Get the MongoDB Cookbook",
+      "duration": 258
+    },
+    {
+      "id": "Q0BgCLSqJJU",
+      "title": "Update Run List - In Chef Management Console",
+      "duration": 369
+    },
+    {
+      "id": "5xU3A-SvdJc",
+      "title": "Add MongoDB to the Run List",
+      "duration": 304
+    },
+    {
+      "id": "0-Bid-eiJHY",
+      "title": "Add the passenger_apache2 Cookbook",
+      "duration": 505
+    },
+    {
+      "id": "ag0w_IqkgBI",
+      "title": "Add Port Forwarding to Vagrant",
+      "duration": 153
+    },
+    {
+      "id": "7Cxfv40w7wQ",
+      "title": "Summary of Learning Chef - Part 2",
+      "duration": 191
+    },
+    {
+      "id": "3cA1IL8DV8I",
+      "title": "Learning Chef - Part 3",
+      "duration": 3206
+    },
+    {
+      "id": "fb4DJJmhUt8",
+      "title": "Learning Chef - Part 4 - Roles",
+      "duration": 2421
+    },
+    {
+      "id": "zHaGaCrqwUE",
+      "title": "Learn Chef - Part 5 - Multi-node Vagrant",
+      "duration": 3924
+    },
+    {
+      "id": "wCG7mlLX-zc",
+      "title": "Learning Chef - Part 6",
+      "duration": 2988
+    }
+  ]
+}

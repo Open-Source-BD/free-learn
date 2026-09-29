@@ -1,0 +1,110 @@
+{
+  "courseId": "autoit-scripting-tutorial-71bbdb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:52.985Z",
+  "title": "AutoIt Tutorials. Your quick and effective way to learn the language.",
+  "channel": "TutsTeach",
+  "videos": [
+    {
+      "id": "74pCTtPRV9U",
+      "title": "AutoIt Scripting Tutorial 0 Introduction",
+      "duration": 234
+    },
+    {
+      "id": "8YpW3ffIxYE",
+      "title": "AutoIt Scripting Tutorial 1 Download and install",
+      "duration": 179
+    },
+    {
+      "id": "8LzTm0PRNSg",
+      "title": "AutoIt Scripting Tutorial 2 How to use functions and use the helpfile",
+      "duration": 629
+    },
+    {
+      "id": "bcJ-wpQ-XmE",
+      "title": "AutoIt Scripting Tutorial 3 Variables",
+      "duration": 487
+    },
+    {
+      "id": "ffQsYJJeItM",
+      "title": "AutoIt Scripting Tutorial 4 Conditional IF_THEN and Function return values",
+      "duration": 686
+    },
+    {
+      "id": "nJXfjMRDNTg",
+      "title": "AutoIt Scripting Tutorial 5 Operators (eg simple math)",
+      "duration": 1116
+    },
+    {
+      "id": "BW-WdVqAyoE",
+      "title": "AutoIt Scripting Tutorial 6 Loops (Do, While, For)",
+      "duration": 892
+    },
+    {
+      "id": "lcp8f39UmTk",
+      "title": "AutoIt Scripting Tutorial 7 Arrays and a new For loop",
+      "duration": 1311
+    },
+    {
+      "id": "Y2AL84ZDjyg",
+      "title": "AutoIt Scripting Tutorial 8 Setting and using hotkeys",
+      "duration": 450
+    },
+    {
+      "id": "24hcQasn_7Y",
+      "title": "AutoIt Scripting Tutorial 9 Automating Installers & Programs Part 1",
+      "duration": 1033
+    },
+    {
+      "id": "MD7zwwZAPdc",
+      "title": "AutoIt Scripting Tutorial 10A Automating Installers & Programs Part 2",
+      "duration": 1014
+    },
+    {
+      "id": "515-BzaQxkA",
+      "title": "AutoIt Scripting Tutorial 10B Automating Installers & Programs Part 2",
+      "duration": 212
+    },
+    {
+      "id": "j7g1nHjTL2U",
+      "title": "AutoIt Scripting Tutorial 11.1 The GUI _ Create visual menus with buttons",
+      "duration": 642
+    },
+    {
+      "id": "WkDPqUBQomA",
+      "title": "AutoIt Scripting Tutorial 11.2 The GUI _ Take user text input & manually set text",
+      "duration": 753
+    },
+    {
+      "id": "Tm5CY9Ade9k",
+      "title": "AutoIt Scripting Tutorial 11.3 The GUI _ Radio buttons & Check boxes to make choices",
+      "duration": 1120
+    },
+    {
+      "id": "AAkZ3COL0_w",
+      "title": "AutoIt Scripting Tutorial 11.4 The GUI _ Koda productivity tips and tricks",
+      "duration": 857
+    },
+    {
+      "id": "GZbp7GwZEVA",
+      "title": "Autoit Scripting Tutorial 11.5 The GUI _ Creating Standard Menu Bars",
+      "duration": 590
+    },
+    {
+      "id": "BIsU9UZHWNE",
+      "title": "Autoit Scripting Tutorial 11.6 The GUI _ Creating Tabs To Organize & Tidy Your Interface",
+      "duration": 248
+    },
+    {
+      "id": "oq8CVjP1Axg",
+      "title": "Autoit Scripting Tutorial 12.1 Settings _ Basic Setting & Retrieving of Known Settings (ini Files)",
+      "duration": 501
+    },
+    {
+      "id": "ibSV-yITk1M",
+      "title": "Autoit Scripting Tutorial 12.2 Settings _ Retrieving unknown setting parameters (ini files)",
+      "duration": 1179
+    }
+  ]
+}

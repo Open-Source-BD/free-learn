@@ -1,0 +1,95 @@
+{
+  "courseId": "bangla-cloud-computing-tutorial-series-learn-and-enjoy-aws-a-1c9194",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:17.034Z",
+  "title": "(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "9Gbe3PLZb_o",
+      "title": "(Bangla) Cloud computing 01 : (ক্লাউড কম্পিউটিং) Introduction to cloud computing and cloud services",
+      "duration": 1532
+    },
+    {
+      "id": "M4o6pmnWlPw",
+      "title": "(Bangla) Cloud computing 02 : What is a virtual machine and how can we create it locally in Hyper-V",
+      "duration": 965
+    },
+    {
+      "id": "hwTpFST6ln8",
+      "title": "(Bangla) Cloud computing 03 : How can we create a Linux AWS Lightsail virtual machine in Console",
+      "duration": 905
+    },
+    {
+      "id": "71PsIC8Gr44",
+      "title": "(Bangla) Cloud computing 04 : How can we create a Linux AWS EC2 virtual machine instance in Console",
+      "duration": 867
+    },
+    {
+      "id": "99B7SkoRrCM",
+      "title": "(Bangla) Cloud computing 05 : How can we create a Linux Azure virtual machine in portal and connect",
+      "duration": 937
+    },
+    {
+      "id": "631cxW_eJAs",
+      "title": "(Bangla) Cloud computing 06 : How to calculate EC2 instance price in AWS Calculator advanced mode",
+      "duration": 1115
+    },
+    {
+      "id": "jsqAD_aE8_k",
+      "title": "(Bangla) Cloud computing 07 : How to calculate Azure Virtual Machine price in pricing calculator",
+      "duration": 899
+    },
+    {
+      "id": "CUiV2Vp8Wrk",
+      "title": "(Bangla) Cloud computing 08 : What is Infrastructure as Code and DevOps",
+      "duration": 701
+    },
+    {
+      "id": "VrRErnpk8dc",
+      "title": "(Bangla) Cloud computing 09 : Building blocks of Infrastructure as Code and ways to provisioning",
+      "duration": 952
+    },
+    {
+      "id": "fx9uRSyHkjg",
+      "title": "(Bangla) Cloud computing 10 : How to become better DevOps Engineer by learning Infra as Code tools",
+      "duration": 722
+    },
+    {
+      "id": "7WCt8kqMoNY",
+      "title": "(Bangla) Cloud computing 11 : Infrastructure as Code example codes in Hyper-V AWS and Azure clouds",
+      "duration": 716
+    },
+    {
+      "id": "zRi5N-Iv6UU",
+      "title": "(Bangla) Cloud computing 12 : Raw server vs Configured server vs Managed Service offerings of cloud",
+      "duration": 898
+    },
+    {
+      "id": "akm0T_sQi04",
+      "title": "(Bangla) Cloud computing13 : Management systems for web servers and setup Plesk in AWS LightSail",
+      "duration": 937
+    },
+    {
+      "id": "a5nN7akVyH4",
+      "title": "(Bangla) Cloud computing 14 : Platform as a service demo for AWS Beanstalk and Azure App Service",
+      "duration": 1161
+    },
+    {
+      "id": "jWjmdjRKE80",
+      "title": "(Bangla) Cloud computing 15 : What is Serverless computing, Function as a service and pricing",
+      "duration": 2003
+    },
+    {
+      "id": "hvNUtXKIuwU",
+      "title": "(Bangla) Cloud computing 16 : AWS Lambda in Bangla - Write function and execute in AWS Console demo",
+      "duration": 1677
+    },
+    {
+      "id": "WVuDWTi7GWc",
+      "title": "(Bangla) Cloud computing 17 : Microsoft Azure serverless offering - Azure Function overview & demo",
+      "duration": 1040
+    }
+  ]
+}

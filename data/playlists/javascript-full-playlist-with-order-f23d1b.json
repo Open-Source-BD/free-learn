@@ -1,0 +1,310 @@
+{
+  "courseId": "javascript-full-playlist-with-order-f23d1b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:05.040Z",
+  "title": "Javascript Full Playlist with Order",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "qe9k1se3bSQ",
+      "title": "Explore JavaScript Secrets  | #Javascript_Crash_Course for Absolute Beginners in Bangla",
+      "duration": 5329
+    },
+    {
+      "id": "0Shv-exwsQw",
+      "title": "NPM (Node Package Manager) Crash Course কমপ্লিট বাংলা টিউটোরিয়াল",
+      "duration": 3060
+    },
+    {
+      "id": "wmSC1PIHPdw",
+      "title": "1. Introduction to Functional Programming in Javascript | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 1302
+    },
+    {
+      "id": "JpcM_zCWKWA",
+      "title": "2. Javascript First Class Function in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 1514
+    },
+    {
+      "id": "EgPowWszXYY",
+      "title": "3. Javascript Inner Function in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 814
+    },
+    {
+      "id": "f-MQPgIRQp8",
+      "title": "4. Javascript Return Statement in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 737
+    },
+    {
+      "id": "q9e4wZmRJac",
+      "title": "5. Javascript Higher Order Function in  Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 624
+    },
+    {
+      "id": "hp9bZY0OqAQ",
+      "title": "6. Javascript Callback Function Postmortem in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 1833
+    },
+    {
+      "id": "40r4c99d5dY",
+      "title": "7. Javascript Return a Function from Another Function in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 805
+    },
+    {
+      "id": "9L1-PhISpLo",
+      "title": "8. Javascript Postmortem of Closure in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 1151
+    },
+    {
+      "id": "Bu1dKziekRM",
+      "title": "9. Javascript Sort Array of Object in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 632
+    },
+    {
+      "id": "yUIeFC2qCaM",
+      "title": "10. Javascript Foreach Function Implementation Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 678
+    },
+    {
+      "id": "cdNy5NfhGi0",
+      "title": "11. Javascript Filter Function Implementation in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 629
+    },
+    {
+      "id": "pqJm9_s-HSk",
+      "title": "12. Javascript Map Function Implementation in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 717
+    },
+    {
+      "id": "IJKZEb7lWrg",
+      "title": "13. Javascript Reduce Function in Bangla | ফাংশনাল জাভাস্ক্রিপ্ট টিউটোরিয়াল",
+      "duration": 375
+    },
+    {
+      "id": "bl6OFe-UrSA",
+      "title": "1. Javascript Basic Object Creation in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 2145
+    },
+    {
+      "id": "imi3OtsBpqg",
+      "title": "2. Javascript Constructor Pattern in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 1522
+    },
+    {
+      "id": "BqDePv6fX2w",
+      "title": "3. Javascript This Keyword and Bind Method in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 2347
+    },
+    {
+      "id": "h9LoAA6cZ0A",
+      "title": "4. Javascript Prototype in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 1278
+    },
+    {
+      "id": "8hPfVtbtCdQ",
+      "title": "5. Javascript Bind Call and Apply Method in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 781
+    },
+    {
+      "id": "JWM1Ecg4sY0",
+      "title": "6. Javascript Inheritance with Prototype in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 1093
+    },
+    {
+      "id": "Sxe6SBC54G4",
+      "title": "7. Javascript New Keyword in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 594
+    },
+    {
+      "id": "alTd7i_pENU",
+      "title": "8. Javascript __protoo__ vs Prototype in Bangla | অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট",
+      "duration": 716
+    },
+    {
+      "id": "PgyEngBXgNg",
+      "title": "1. Javascript Behind The Scene Intro & Javascript Engine Details in Bangla",
+      "duration": 567
+    },
+    {
+      "id": "bE0p2BL6tv4",
+      "title": "2. Javascript Behind The Scene Execution Context Basics in Bangla",
+      "duration": 610
+    },
+    {
+      "id": "UOZIwRLBQ7E",
+      "title": "3. Javascript Behind The Scene Execution Context Details | Creation of Execution Context in Bangla",
+      "duration": 550
+    },
+    {
+      "id": "tCWrfCBoDdg",
+      "title": "4. Javascript Behind The Scene Hoisting and Variable Object Creation in Bangla",
+      "duration": 613
+    },
+    {
+      "id": "wIdI5rhlnLs",
+      "title": "5. Javascript Behind The Scene Function Expression vs Declaration Details in Bangla",
+      "duration": 393
+    },
+    {
+      "id": "LPB6oT_pvu4",
+      "title": "6. Javascript Behind The Scene Scope Chain and Lexical Scope in Bangla",
+      "duration": 547
+    },
+    {
+      "id": "R6jwFfJqR14",
+      "title": "7. Javascript Behind The Scene Execution Stack Vs Scope Chain in Bangla",
+      "duration": 544
+    },
+    {
+      "id": "llHbVLDwPtg",
+      "title": "8. Javascript Behind The Scene This keyword Initialization in Bangla",
+      "duration": 489
+    },
+    {
+      "id": "l3Uc-7dxZUM",
+      "title": "1. What is ES6, ES7, ES8, ES2015, ES2016, ES2017, ESNext in Bangla",
+      "duration": 872
+    },
+    {
+      "id": "cTDjc_G-GhA",
+      "title": "2. ES6 - Setup Working Environment with Babel and Webpack in Bangla - Check Description",
+      "duration": 879
+    },
+    {
+      "id": "SYumeeC0XpU",
+      "title": "3. ES6 - Let vs Const vs Var Keywords in JavaScript",
+      "duration": 763
+    },
+    {
+      "id": "_5yH4Vop3Mk",
+      "title": "4. ES6 - Template String And Multi line String in Bangla",
+      "duration": 457
+    },
+    {
+      "id": "RJN6abYiwtE",
+      "title": "5. ES6 - Setup Webpack Dev Server in Bangla",
+      "duration": 386
+    },
+    {
+      "id": "zmFd4i8CC0w",
+      "title": "6. ES6 - Arrow Function in Details in Bangla",
+      "duration": 462
+    },
+    {
+      "id": "Y7FXTao8BAQ",
+      "title": "7. ES6 - Lexical This | Problem with This Keyword Solved in Bangla",
+      "duration": 337
+    },
+    {
+      "id": "B4I41scLNBQ",
+      "title": "8. ES6 - Enhance Object | New Object Syntax in Bangla",
+      "duration": 226
+    },
+    {
+      "id": "qXcNaqKmYCU",
+      "title": "9. ES6 - Destructuring Array And Object Details  in Bangla",
+      "duration": 573
+    },
+    {
+      "id": "bAvdccHtorM",
+      "title": "10. ES6 - Default Parameter, Rest And Spread Operator Details in Bangla",
+      "duration": 911
+    },
+    {
+      "id": "r_81XxncdH8",
+      "title": "11. ES6 - Module System in Details in Bangla",
+      "duration": 504
+    },
+    {
+      "id": "NgiIuVVBQfA",
+      "title": "12. ES6 - Classes in Details in Bangla",
+      "duration": 596
+    },
+    {
+      "id": "QSjs5eAiUQ8",
+      "title": "13 ES6 - Classes And Inheritance in Details in Bangla",
+      "duration": 415
+    },
+    {
+      "id": "LTdRYWVL3Rc",
+      "title": "14. ES6 - Promise All You Need to Know in Bangla",
+      "duration": 1878
+    },
+    {
+      "id": "EQu3bepzgVk",
+      "title": "1. Chrome Dev Tools Change HTML and CSS in Bangla | ক্রোম ডেভ টুলস",
+      "duration": 1468
+    },
+    {
+      "id": "BJ3w4HlOZEk",
+      "title": "2. Chrome Dev Tools Console in Bangla | ক্রোম ডেভ টুলস",
+      "duration": 1607
+    },
+    {
+      "id": "IqHPFkGP4y4",
+      "title": "3. Chrome Dev Tools Source in Bangla | ক্রোম ডেভ টুলস",
+      "duration": 562
+    },
+    {
+      "id": "dpk_PuzLvV8",
+      "title": "4. Chrome Dev Tools Network in Bangla | ক্রোম ডেভ টুলস",
+      "duration": 496
+    },
+    {
+      "id": "7ewKk32hy-g",
+      "title": "5. Chrome Dev Tools Application and Audit in Bangla | ক্রোম ডেভ টুলস",
+      "duration": 591
+    },
+    {
+      "id": "EErhhC5-Uz4",
+      "title": "1. DOM: Client Side Javascript Intro | DOM বাংলা টিউটোরিয়াল",
+      "duration": 1096
+    },
+    {
+      "id": "ppE4WBd9vdU",
+      "title": "2. DOM: What is DOM & How it Works | DOM বাংলা টিউটোরিয়াল",
+      "duration": 832
+    },
+    {
+      "id": "W4i6rQjkNtQ",
+      "title": "3. DOM: What is Window & Document Object | DOM বাংলা টিউটোরিয়াল",
+      "duration": 859
+    },
+    {
+      "id": "EGgJCWtQg_I",
+      "title": "4. DOM: Basic Selectors | DOM বাংলা টিউটোরিয়াল",
+      "duration": 1276
+    },
+    {
+      "id": "6fQTHcngaGU",
+      "title": "5. DOM: Query Selector & Query Selector All | DOM Bangla Tutorial",
+      "duration": 603
+    },
+    {
+      "id": "xFRAv2zwFoQ",
+      "title": "6. DOM: Style Your Document | DOM বাংলা টিউটোরিয়াল",
+      "duration": 745
+    },
+    {
+      "id": "49PZWwYBO_8",
+      "title": "7. DOM: Working with Events | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 804
+    },
+    {
+      "id": "N35Ct8bN2UU",
+      "title": "8. DOM: Creating & Deleting DOM Element | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 1829
+    },
+    {
+      "id": "Rgz3KriJfAo",
+      "title": "No More Mistakes with Ajax | Explore The Secret Behind AJAX | #AJAX_Crash_Course in Bangla",
+      "duration": 6122
+    },
+    {
+      "id": "_lohuu9KUWk",
+      "title": "9. DOM: Simple Project Using Vanilla Javascript | #DOM বাংলা টিউটোরিয়াল",
+      "duration": 4428
+    }
+  ]
+}

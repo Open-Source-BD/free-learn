@@ -1,0 +1,1025 @@
+{
+  "courseId": "ocaml-programming-correct-plus-efficient-plus-beautiful-6bfe3b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:20.642Z",
+  "title": "OCaml Programming: Correct + Efficient + Beautiful",
+  "channel": "Michael Ryan Clarkson",
+  "videos": [
+    {
+      "id": "MUcka_SvhLw",
+      "title": "Introduction | OCaml Programming | Chapter 1 Video 1",
+      "duration": 146
+    },
+    {
+      "id": "JTEwC3HihFc",
+      "title": "Functional Programming - What | OCaml Programming | Chapter 1 Video 2",
+      "duration": 442
+    },
+    {
+      "id": "SKr3ItChPSI",
+      "title": "Functional Programming - Why Part 1 | OCaml Programming | Chapter 1 Video 3",
+      "duration": 494
+    },
+    {
+      "id": "eNLm5Xbgmd0",
+      "title": "Functional Programming - Why Part 2 | OCaml Programming | Chapter 1 Video 4",
+      "duration": 465
+    },
+    {
+      "id": "T-DIW1dhYzo",
+      "title": "OCaml | OCaml Programming | Chapter 1 Video 5",
+      "duration": 354
+    },
+    {
+      "id": "A5IHFZtRfBs",
+      "title": "Five Aspects of Learning a Programming Language | OCaml Programming | Chapter 2 Video 1",
+      "duration": 406
+    },
+    {
+      "id": "3fzrFY-2ZQ8",
+      "title": "Expressions | OCaml Programming | Chapter 2 Video 2",
+      "duration": 641
+    },
+    {
+      "id": "XJ6QPtlPD7s",
+      "title": "If Expressions | OCaml Programming | Chapter 2 Video 3",
+      "duration": 411
+    },
+    {
+      "id": "eRnG4gwOTlI",
+      "title": "Let Definitions | OCaml Programming | Chapter 2 Video 4",
+      "duration": 358
+    },
+    {
+      "id": "ug3L97FXC6A",
+      "title": "Let Expressions | OCaml Programming | Chapter 2 Video 5",
+      "duration": 220
+    },
+    {
+      "id": "_TpTC6eo34M",
+      "title": "Variable Expressions and Scope | OCaml Programming | Chapter 2 Video 6",
+      "duration": 433
+    },
+    {
+      "id": "4SqMkUwakEA",
+      "title": "Scope and the Toplevel | OCaml Programming | Chapter 2 Video 7",
+      "duration": 160
+    },
+    {
+      "id": "JwoIIrj0bcM",
+      "title": "Anonymous Functions | OCaml Programming | Chapter 2 Video 8",
+      "duration": 322
+    },
+    {
+      "id": "zHHCD7MOjmw",
+      "title": "Lambdas | OCaml Programming | Chapter 2 Video 9",
+      "duration": 284
+    },
+    {
+      "id": "fgCTDhXAYnQ",
+      "title": "Function Application | OCaml Programming | Chapter 2 Video 10",
+      "duration": 292
+    },
+    {
+      "id": "vCxIlagS7kA",
+      "title": "Named Functions | OCaml Programming | Chapter 2 Video 11",
+      "duration": 433
+    },
+    {
+      "id": "_x82qitu2R8",
+      "title": "Recursive Functions | OCaml Programming | Chapter 2 Video 12",
+      "duration": 154
+    },
+    {
+      "id": "W0rO84YXIXo",
+      "title": "Function Types | OCaml Programming | Chapter 2 Video 13",
+      "duration": 307
+    },
+    {
+      "id": "85xVK0wmDTw",
+      "title": "Partial Application | OCaml Programming | Chapter 2 Video 14",
+      "duration": 248
+    },
+    {
+      "id": "UWmxYBEKzN8",
+      "title": "Polymorphic Functions | OCaml Programming | Chapter 2 Video 15",
+      "duration": 179
+    },
+    {
+      "id": "OVKOx8UiwxM",
+      "title": "Operators As Functions | OCaml Programming | Chapter 2 Video 16",
+      "duration": 268
+    },
+    {
+      "id": "arS9kEqCFEU",
+      "title": "Application Operators | OCaml Programming | Chapter 2 Video 17",
+      "duration": 292
+    },
+    {
+      "id": "x8oLIEtSRBs",
+      "title": "Lists | OCaml Programming | Chapter 3 Video 1",
+      "duration": 229
+    },
+    {
+      "id": "I9u4kFPM7YI",
+      "title": "List Syntax and Semantics | OCaml Programming | Chapter 3 Video 2",
+      "duration": 262
+    },
+    {
+      "id": "E3d1IFMU558",
+      "title": "Records and Tuples | OCaml Programming | Chapter 3 Video 3",
+      "duration": 450
+    },
+    {
+      "id": "9kyOH1kpmjk",
+      "title": "Comparison of Data Types | OCaml Programming | Chapter 3 Video 4",
+      "duration": 81
+    },
+    {
+      "id": "gXlWHvEoIvg",
+      "title": "Record Syntax and Semantics | OCaml Programming | Chapter 3 Video 5",
+      "duration": 352
+    },
+    {
+      "id": "4QNzC2KZ5I4",
+      "title": "Tuple Syntax and Semantics | OCaml Programming | Chapter 3 Video 6",
+      "duration": 113
+    },
+    {
+      "id": "AkrlDpHN_zE",
+      "title": "Pattern Matching | OCaml Programming | Chapter 3 Video 7",
+      "duration": 631
+    },
+    {
+      "id": "sO9wxUxajS4",
+      "title": "Pattern Matching with Lists | OCaml Programming | Chapter 3 Video 8",
+      "duration": 582
+    },
+    {
+      "id": "VgVP8Tin6yY",
+      "title": "The Function Keyword | OCaml Programming | Chapter 3 Video 9",
+      "duration": 140
+    },
+    {
+      "id": "VDRTatjSl0E",
+      "title": "Cons vs Append | OCaml Programming | Chapter 3 Video 10",
+      "duration": 125
+    },
+    {
+      "id": "sz72NP4u4DQ",
+      "title": "Pattern Matching Syntax and Semantics | OCaml Programming | Chapter 3 Video 11",
+      "duration": 315
+    },
+    {
+      "id": "aLQJpk9vXD4",
+      "title": "Static Checking of Pattern Matching | OCaml Programming | Chapter 3 Video 12",
+      "duration": 514
+    },
+    {
+      "id": "u6P5XdRta04",
+      "title": "Variants | OCaml Programming | Chapter 3 Video 13",
+      "duration": 308
+    },
+    {
+      "id": "K_eA-8LhlVY",
+      "title": "Pattern Matching with Variants Part 1 | OCaml Programming | Chapter 3 Video 14",
+      "duration": 371
+    },
+    {
+      "id": "SpuQfO_597E",
+      "title": "Pattern Matching with Variants Part 2 | OCaml Programming | Chapter 3 Video 15",
+      "duration": 269
+    },
+    {
+      "id": "3A_PNz5njt0",
+      "title": "Variant Syntax and Semantics | OCaml Programming | Chapter 3 Video 16",
+      "duration": 208
+    },
+    {
+      "id": "oMOO-cWrHuw",
+      "title": "Algebraic Data Types | OCaml Programming | Chapter 3 Video 17",
+      "duration": 385
+    },
+    {
+      "id": "3ExRHHqfWm4",
+      "title": "An ADT for Pokemon | OCaml Programming | Chapter 3 Video 18",
+      "duration": 459
+    },
+    {
+      "id": "gDh217oAfnY",
+      "title": "Recursive Parameterized Variants | OCaml Programming | Chapter 3 Video 19",
+      "duration": 425
+    },
+    {
+      "id": "lByoIw5wpao",
+      "title": "Options | OCaml Programming | Chapter 3 Video 20",
+      "duration": 571
+    },
+    {
+      "id": "0zZNEJvcZqg",
+      "title": "Exceptions | OCaml Programming | Chapter 3 Video 21",
+      "duration": 304
+    },
+    {
+      "id": "XTdT1zdF2IY",
+      "title": "Handling Exceptions | OCaml Programming | Chapter 3 Video 22",
+      "duration": 195
+    },
+    {
+      "id": "WV9DGpRTAE0",
+      "title": "Binary Trees | OCaml Programming | Chapter 3 Video 23",
+      "duration": 170
+    },
+    {
+      "id": "rTbinjZ9-oc",
+      "title": "Higher-Order Functions | OCaml Programming | Chapter 4 Video 1",
+      "duration": 407
+    },
+    {
+      "id": "qz7kn2pIl3M",
+      "title": "Map | OCaml Programming | Chapter 4 Video 2",
+      "duration": 186
+    },
+    {
+      "id": "hynjCGMpcFk",
+      "title": "Implementing Map | OCaml Programming | Chapter 4 Video 3",
+      "duration": 390
+    },
+    {
+      "id": "uYJVwW2BFPg",
+      "title": "Combine | OCaml Programming | Chapter 4 Video 4",
+      "duration": 231
+    },
+    {
+      "id": "WKKkIGncRn8",
+      "title": "Fold | OCaml Programming | Chapter 4 Video 5",
+      "duration": 471
+    },
+    {
+      "id": "FaWtD-LRdpU",
+      "title": "Filter | OCaml Programming | Chapter 4 Video 6",
+      "duration": 411
+    },
+    {
+      "id": "5Yyk-l-cUNI",
+      "title": "Trees with Map and Fold | OCaml Programming | Chapter 4 Video 7",
+      "duration": 203
+    },
+    {
+      "id": "PRvrkOy1ihY",
+      "title": "Modular Programming | OCaml Programming | Chapter 5 Video 1",
+      "duration": 353
+    },
+    {
+      "id": "hIUSrPxCdHc",
+      "title": "Modules and Structures | OCaml Programming | Chapter 5 Video 2",
+      "duration": 244
+    },
+    {
+      "id": "8Q-2b7iGvXE",
+      "title": "Functional Stacks | OCaml Programming | Chapter 5 Video 3",
+      "duration": 384
+    },
+    {
+      "id": "CLeXXZDkkCI",
+      "title": "Functional Data Structures | OCaml Programming | Chapter 5 Video 4",
+      "duration": 172
+    },
+    {
+      "id": "EUJXBpra0oY",
+      "title": "Module and Structure Syntax and Semantics | OCaml Programming | Chapter 5 Video 5",
+      "duration": 200
+    },
+    {
+      "id": "GjlKfsY2nY8",
+      "title": "Scope and Opening | OCaml Programming | Chapter 5 Video 6",
+      "duration": 212
+    },
+    {
+      "id": "rCiBfZO67A4",
+      "title": "Functional Queues | OCaml Programming | Chapter 5 Video 7",
+      "duration": 475
+    },
+    {
+      "id": "tbMU_pv0p9o",
+      "title": "Exceptions vs Options and More Application Operators | OCaml Programming | Chapter 5 Video 8",
+      "duration": 369
+    },
+    {
+      "id": "4Uew8GEegyg",
+      "title": "Module Types and Signatures | OCaml Programming | Chapter 5 Video 9",
+      "duration": 305
+    },
+    {
+      "id": "LWmGzSCpvVY",
+      "title": "Module Types for Stacks and Queues | OCaml Programming | Chapter 5 Video 10",
+      "duration": 315
+    },
+    {
+      "id": "VprvFk7KKWk",
+      "title": "Module Type Syntax and Semantics | OCaml Programming | Chapter 5 Video 11",
+      "duration": 238
+    },
+    {
+      "id": "vuKBUhMpr-c",
+      "title": "Abstract Types | OCaml Programming | Chapter 5 Video 12",
+      "duration": 330
+    },
+    {
+      "id": "hjZ8FvMUw2k",
+      "title": "Compilation Units | OCaml Programming | Chapter 5 Video 13",
+      "duration": 289
+    },
+    {
+      "id": "4yo-04VVzIw",
+      "title": "Utop with Modules | OCaml Programming | Chapter 5 Video 14",
+      "duration": 351
+    },
+    {
+      "id": "SmG3ChuOLpQ",
+      "title": "Includes | OCaml Programming | Chapter 5 Video 15",
+      "duration": 343
+    },
+    {
+      "id": "P1-gLiagAK4",
+      "title": "Include vs Open | OCaml Programming | Chapter 5 Video 16",
+      "duration": 104
+    },
+    {
+      "id": "CLi5RmgQ9Mg",
+      "title": "Functors | OCaml Programming | Chapter 5 Video 17",
+      "duration": 363
+    },
+    {
+      "id": "sCbUwQvNYJA",
+      "title": "Standard Library Map | OCaml Programming | Chapter 5 Video 18",
+      "duration": 406
+    },
+    {
+      "id": "ehe96Xnkjys",
+      "title": "Abstraction and Specification | OCaml Programming | Chapter 6 Video 1",
+      "duration": 470
+    },
+    {
+      "id": "ggm5rjAyjhw",
+      "title": "Function Specifications | OCaml Programming | Chapter 6 Video 2",
+      "duration": 219
+    },
+    {
+      "id": "p5OTwjNTQIs",
+      "title": "Parts of a Function Specification | OCaml Programming | Chapter 6 Video 3",
+      "duration": 428
+    },
+    {
+      "id": "4OTspWNefn4",
+      "title": "Data Abstractions | OCaml Programming | Chapter 6 Video 4",
+      "duration": 196
+    },
+    {
+      "id": "abtrrowewaw",
+      "title": "Implementing Sets as Lists | OCaml Programming | Chapter 6 Video 5",
+      "duration": 280
+    },
+    {
+      "id": "n8irzSGGVao",
+      "title": "Another Implementation of Sets | OCaml Programming | Chapter 6 Video 6",
+      "duration": 241
+    },
+    {
+      "id": "ZYYa66804Q4",
+      "title": "Abstraction Functions | OCaml Programming | Chapter 6 Video 7",
+      "duration": 480
+    },
+    {
+      "id": "ebcnwXuWPI0",
+      "title": "Implementing Abstraction Functions | OCaml Programming | Chapter 6 Video 8",
+      "duration": 399
+    },
+    {
+      "id": "mEtR4YGMRPY",
+      "title": "Representation Invariants | OCaml Programming | Chapter 6 Video 9",
+      "duration": 268
+    },
+    {
+      "id": "4bfh_aONcRc",
+      "title": "Implementing Representation Invariants | OCaml Programming | Chapter 6 Video 10",
+      "duration": 340
+    },
+    {
+      "id": "PKAgq97NBdg",
+      "title": "Abstraction Functions and Commutative Diagrams | OCaml Programming | Chapter 6 Video 11",
+      "duration": 195
+    },
+    {
+      "id": "Rgo-T6gF9cA",
+      "title": "Testing and Validation | OCaml Programming | Chapter 6 Video 12",
+      "duration": 329
+    },
+    {
+      "id": "zF3updL6EkM",
+      "title": "Bugs | OCaml Programming | Chapter 6 Video 13",
+      "duration": 153
+    },
+    {
+      "id": "W8FEhZIpYCg",
+      "title": "Approaches to Testing | OCaml Programming | Chapter 6 Video 14",
+      "duration": 393
+    },
+    {
+      "id": "PmfQ9xS2YhQ",
+      "title": "Black Box vs Glass Box Testing | OCaml Programming | Chapter 6 Video 15",
+      "duration": 89
+    },
+    {
+      "id": "2GjVqe9IKEk",
+      "title": "Black Box Testing | OCaml Programming | Chapter 6 Video 16",
+      "duration": 574
+    },
+    {
+      "id": "128hYUobA_g",
+      "title": "Glass Box Testing | OCaml Programming | Chapter 6 Video 17",
+      "duration": 414
+    },
+    {
+      "id": "efAvB6KuHLY",
+      "title": "Bisect | OCaml Programming | Chapter 6 Video 18",
+      "duration": 225
+    },
+    {
+      "id": "62SYeSlSCNM",
+      "title": "Randomized Testing and QCheck | OCaml Programming | Chapter 6 Video 19",
+      "duration": 449
+    },
+    {
+      "id": "4dp6ODe4MH4",
+      "title": "Debugging | OCaml Programming | Chapter 6 Video 20",
+      "duration": 288
+    },
+    {
+      "id": "48GBq4koKPs",
+      "title": "Formal Verification | OCaml Programming | Chapter 6 Video 21",
+      "duration": 416
+    },
+    {
+      "id": "zjDUrMdVC5U",
+      "title": "Equality of Expressions | OCaml Programming | Chapter 6 Video 22",
+      "duration": 287
+    },
+    {
+      "id": "MjpZJA1jIqU",
+      "title": "Equational Reasoning | OCaml Programming | Chapter 6 Video 23",
+      "duration": 397
+    },
+    {
+      "id": "By4VSmpzuHw",
+      "title": "Inductive Proofs about Recursive Functions | OCaml Programming | Chapter 6 Video 24",
+      "duration": 469
+    },
+    {
+      "id": "JRNxlQYOLyw",
+      "title": "Example Proof: Summation | OCaml Programming | Chapter 6 Video 25",
+      "duration": 238
+    },
+    {
+      "id": "htMNllWnLzg",
+      "title": "Example Proof: Iterative Factorial | OCaml Programming | Chapter 6 Video 26",
+      "duration": 717
+    },
+    {
+      "id": "Lkb-eTUrHTs",
+      "title": "Induction on an ADT for Natural Numbers | OCaml Programming | Chapter 6 Video 27",
+      "duration": 382
+    },
+    {
+      "id": "Xo3rW_dTqEg",
+      "title": "Induction on Lists | OCaml Programming | Chapter 6 Video 28",
+      "duration": 331
+    },
+    {
+      "id": "4B2jF2zHSCs",
+      "title": "Example Proof: List Length and Append | OCaml Programming | Chapter 6 Video 29",
+      "duration": 279
+    },
+    {
+      "id": "UJyE8ylHFA0",
+      "title": "Induction on Trees | OCaml Programming | Chapter 6 Video 30",
+      "duration": 385
+    },
+    {
+      "id": "aiJDQeWL2G0",
+      "title": "Example Proof: Preorder and Length | OCaml Programming | Chapter 6 Video 31",
+      "duration": 372
+    },
+    {
+      "id": "J-x9hcNqRhY",
+      "title": "Induction and Recursion | OCaml Programming | Chapter 6 Video 32",
+      "duration": 430
+    },
+    {
+      "id": "Xy7GTfEfIK4",
+      "title": "Total Correctness | OCaml Programming | Chapter 6 Video 33",
+      "duration": 335
+    },
+    {
+      "id": "Pyz2xEzD2cY",
+      "title": "Equational Specification of Stacks | OCaml Programming | Chapter 6 Video 34",
+      "duration": 345
+    },
+    {
+      "id": "lAJz6ZnsbNI",
+      "title": "Equational Specification of Queues | OCaml Programming | Chapter 6 Video 35",
+      "duration": 554
+    },
+    {
+      "id": "8uJmKmsiF2I",
+      "title": "Design of Equations | OCaml Programming | Chapter 6 Video 36",
+      "duration": 515
+    },
+    {
+      "id": "R0tGac0jaEQ",
+      "title": "Refs | OCaml Programming | Chapter 7 Video 1",
+      "duration": 262
+    },
+    {
+      "id": "ByV1N3hDgSw",
+      "title": "Syntax and Semantics of Refs | OCaml Programming | Chapter 7 Video 2",
+      "duration": 305
+    },
+    {
+      "id": "aj0bpOyv7Gs",
+      "title": "Semicolon | OCaml Programming | Chapter 7 Video 3",
+      "duration": 278
+    },
+    {
+      "id": "pt06BxGhjDQ",
+      "title": "Aliasing | OCaml Programming | Chapter 7 Video 4",
+      "duration": 215
+    },
+    {
+      "id": "o5wFQvCRJsc",
+      "title": "Implementing a Counter | OCaml Programming | Chapter 7 Video 5",
+      "duration": 445
+    },
+    {
+      "id": "9RNeX5t4_xA",
+      "title": "Mutable Fields | OCaml Programming | Chapter 7 Video 6",
+      "duration": 185
+    },
+    {
+      "id": "dLi6Vo_Yp34",
+      "title": "Mutable Singly Linked Lists Part 1 | OCaml Programming | Chapter 7 Video 7",
+      "duration": 299
+    },
+    {
+      "id": "EEXa3bY4ZwI",
+      "title": "Mutable Singly Linked Lists Part 2 | OCaml Programming | Chapter 7 Video 8",
+      "duration": 390
+    },
+    {
+      "id": "-k4rM1viJH4",
+      "title": "Arrays Part 1 | OCaml Programming | Chapter 7 Video 9",
+      "duration": 339
+    },
+    {
+      "id": "GkIgGhqHI7M",
+      "title": "Arrays Part 2 | OCaml Programming | Chapter 7 Video 10",
+      "duration": 353
+    },
+    {
+      "id": "hr8SmQK8ld8",
+      "title": "Map ADT: Insert, Find, Remove | OCaml Programming | Chapter 8 Video 1",
+      "duration": 348
+    },
+    {
+      "id": "I5E_BPkE_fE",
+      "title": "Map ADT: Bindings, Of List | OCaml Programming | Chapter 8 Video 2",
+      "duration": 301
+    },
+    {
+      "id": "6JUcwUgAHl8",
+      "title": "Association Lists: Rep Type | OCaml Programming | Chapter 8 Video 3",
+      "duration": 267
+    },
+    {
+      "id": "yZkQhcIM0OA",
+      "title": "Association Lists: Bindings | OCaml Programming | Chapter 8 Video 4",
+      "duration": 303
+    },
+    {
+      "id": "5aZNbVTXmtE",
+      "title": "Association Lists: Of List | OCaml Programming | Chapter 8 Video 5",
+      "duration": 288
+    },
+    {
+      "id": "bKFfD3oHKTE",
+      "title": "Association Lists: Improving Tests, and TDD | OCaml Programming | Chapter 8 Video 6",
+      "duration": 309
+    },
+    {
+      "id": "ek2Obhfx064",
+      "title": "Association Lists: Insert, Find, Remove | OCaml Programming | Chapter 8 Video 7",
+      "duration": 187
+    },
+    {
+      "id": "cUEN8sFVkS4",
+      "title": "Direct Address Map ADT | OCaml Programming | Chapter 8 Video 8",
+      "duration": 232
+    },
+    {
+      "id": "eDd9i-imDYo",
+      "title": "Array Map: Rep Type, and Create | OCaml Programming | Chapter 8 Video 9",
+      "duration": 416
+    },
+    {
+      "id": "mrpti_Guevs",
+      "title": "Array Map: Remaining Operations | OCaml Programming | Chapter 8 Video 10",
+      "duration": 351
+    },
+    {
+      "id": "NyZ07rpq7tk",
+      "title": "Association Lists vs Arrays | OCaml Programming | Chapter 8 Video 11",
+      "duration": 91
+    },
+    {
+      "id": "LOWAC3WOl6Q",
+      "title": "Hash Table Rep Type v1 | OCaml Programming | Chapter 8 Video 12",
+      "duration": 396
+    },
+    {
+      "id": "mn2pDfusFyY",
+      "title": "Hash Table Rep Type v2 | OCaml Programming | Chapter 8 Video 13",
+      "duration": 465
+    },
+    {
+      "id": "BzusuFH1tNw",
+      "title": "Rehashing | OCaml Programming | Chapter 8 Video 14",
+      "duration": 192
+    },
+    {
+      "id": "8IJpySZ5iLM",
+      "title": "Hash Table Interface | OCaml Programming | Chapter 8 Video 15",
+      "duration": 184
+    },
+    {
+      "id": "FN-YyNaSkz8",
+      "title": "Hash Table Insert Implementation | OCaml Programming | Chapter 8 Video 16",
+      "duration": 620
+    },
+    {
+      "id": "Du4SxDJzS6g",
+      "title": "Hash Table Resize Implementation | OCaml Programming | Chapter 8 Video 17",
+      "duration": 455
+    },
+    {
+      "id": "GKtcy5AfPgc",
+      "title": "Hash Table Find and Remove Implementation | OCaml Programming | Chapter 8 Video 18",
+      "duration": 172
+    },
+    {
+      "id": "YQUHqv-RXI8",
+      "title": "Hash Tables vs Other Data Structures for Maps | OCaml Programming | Chapter 8 Video 19",
+      "duration": 90
+    },
+    {
+      "id": "tGktnJWmCy0",
+      "title": "Hash Functions | OCaml Programming | Chapter 8 Video 20",
+      "duration": 514
+    },
+    {
+      "id": "1fPx0hcXlRg",
+      "title": "Efficiency Analysis of Rehashing | OCaml Programming | Chapter 8 Video 21",
+      "duration": 326
+    },
+    {
+      "id": "eKzgddLniSw",
+      "title": "Amortized Analysis of Hash Tables | OCaml Programming | Chapter 8 Video 22",
+      "duration": 419
+    },
+    {
+      "id": "GwnYcPmn8PQ",
+      "title": "The Idea of Amortized Analysis | OCaml Programming | Chapter 8 Video 23",
+      "duration": 92
+    },
+    {
+      "id": "7OV9iKT0Huw",
+      "title": "Amortized Analysis of Two-list Queues | OCaml Programming | Chapter 8 Video 24",
+      "duration": 272
+    },
+    {
+      "id": "-846PptyO7Q",
+      "title": "Theory of Amortized Analysis | OCaml Programming | Chapter 8 Video 25",
+      "duration": 265
+    },
+    {
+      "id": "ICT_TfQUa8w",
+      "title": "Bankers and Physicists Methods | OCaml Programming | Chapter 8 Video 26",
+      "duration": 443
+    },
+    {
+      "id": "uOKHuYloCsI",
+      "title": "Functional Maps and Sets | OCaml Programming | Chapter 8 Video 27",
+      "duration": 243
+    },
+    {
+      "id": "Xx9V5vrkjJA",
+      "title": "Binary Search Trees | OCaml Programming | Chapter 8 Video 28",
+      "duration": 360
+    },
+    {
+      "id": "pFUJgaYUH6o",
+      "title": "Binary Search Tree Efficiency | OCaml Programming | Chapter 8 Video 29",
+      "duration": 458
+    },
+    {
+      "id": "BGkipOJdH3U",
+      "title": "Balanced Trees | OCaml Programming | Chapter 8 Video 30",
+      "duration": 147
+    },
+    {
+      "id": "JzhG0jDxGqg",
+      "title": "Red-Black Trees | OCaml Programming | Chapter 8 Video 31",
+      "duration": 432
+    },
+    {
+      "id": "gDTCRj2-bCU",
+      "title": "Red-Black Tree Implementation: Rep Type, Empty, Mem | OCaml Programming | Chapter 8 Video 32",
+      "duration": 99
+    },
+    {
+      "id": "dCBAhbIEoYM",
+      "title": "Okasaki's Algorithm for Red-Black Tree Insertion | OCaml Programming | Chapter 8 Video 33",
+      "duration": 180
+    },
+    {
+      "id": "igUOhpGICgA",
+      "title": "Red-Black Tree Rotations | OCaml Programming | Chapter 8 Video 34",
+      "duration": 549
+    },
+    {
+      "id": "D4FJMJUIMSw",
+      "title": "Red-Black Tree Insert Implementation | OCaml Programming | Chapter 8 Video 35",
+      "duration": 159
+    },
+    {
+      "id": "giSzhfuTMMA",
+      "title": "Red-Black Set Performance | OCaml Programming | Chapter 8 Video 36",
+      "duration": 113
+    },
+    {
+      "id": "B_e8Qr4nl4A",
+      "title": "Implementing Maps with Red-Black Trees | OCaml Programming | Chapter 8 Video 37",
+      "duration": 311
+    },
+    {
+      "id": "OKcCiMV2dQA",
+      "title": "Compilers and Interpreters | OCaml Programming | Chapter 9 Video 1",
+      "duration": 188
+    },
+    {
+      "id": "ei5hwusIV-8",
+      "title": "Compiler Architecture | OCaml Programming | Chapter 9 Video 2",
+      "duration": 448
+    },
+    {
+      "id": "yySh6WLCn7A",
+      "title": "Calculator: Intro | OCaml Programming | Chapter 9 Video 3",
+      "duration": 144
+    },
+    {
+      "id": "bUJg1vEJXDc",
+      "title": "Calculator: Parse Integers | OCaml Programming | Chapter 9 Video 4",
+      "duration": 528
+    },
+    {
+      "id": "VzefPP4769w",
+      "title": "Calculator: Evaluate Integers | OCaml Programming | Chapter 9 Video 5",
+      "duration": 244
+    },
+    {
+      "id": "BPJQgWCHJyU",
+      "title": "Calculator: Addition | OCaml Programming | Chapter 9 Video 6",
+      "duration": 444
+    },
+    {
+      "id": "H6ctVn-DpP4",
+      "title": "Calculator: Multiplication | OCaml Programming | Chapter 9 Video 7",
+      "duration": 73
+    },
+    {
+      "id": "73c6fmcaJ0w",
+      "title": "Calculator: Precedence and Associativity | OCaml Programming | Chapter 9 Video 8",
+      "duration": 287
+    },
+    {
+      "id": "n5okhQHguU0",
+      "title": "Calculator: Whitespace and Parentheses | OCaml Programming | Chapter 9 Video 9",
+      "duration": 126
+    },
+    {
+      "id": "duTIBuK_fdw",
+      "title": "Tokens and AST | OCaml Programming | Chapter 9 Video 10",
+      "duration": 146
+    },
+    {
+      "id": "-BBbgVhj66s",
+      "title": "Menhir and Ocamllex | OCaml Programming | Chapter 9 Video 11",
+      "duration": 431
+    },
+    {
+      "id": "NQacOvZbbX4",
+      "title": "Grammars and BNF | OCaml Programming | Chapter 9 Video 12",
+      "duration": 425
+    },
+    {
+      "id": "J-DkHQ37kaM",
+      "title": "Small-Step Evaluation | OCaml Programming | Chapter 9 Video 13",
+      "duration": 76
+    },
+    {
+      "id": "P456qGgeoYs",
+      "title": "Evaluation Relations | OCaml Programming | Chapter 9 Video 14",
+      "duration": 352
+    },
+    {
+      "id": "c_11LeMoPtk",
+      "title": "Let Semantics | OCaml Programming | Chapter 9 Video 15",
+      "duration": 168
+    },
+    {
+      "id": "4eywIvwhTfs",
+      "title": "Substitution Examples | OCaml Programming | Chapter 9 Video 16",
+      "duration": 274
+    },
+    {
+      "id": "lBqdzVTSdCc",
+      "title": "Definition of Substitution | OCaml Programming | Chapter 9 Video 17",
+      "duration": 134
+    },
+    {
+      "id": "gttjeAd5IS0",
+      "title": "Implementing Let in the Calculator | OCaml Programming | Chapter 9 Video 18",
+      "duration": 512
+    },
+    {
+      "id": "348PIgywcss",
+      "title": "SimPL Small Step | OCaml Programming | Chapter 9 Video 19",
+      "duration": 444
+    },
+    {
+      "id": "Y2hiUqlfW8U",
+      "title": "SimPL Big Step | OCaml Programming | Chapter 9 Video 20",
+      "duration": 362
+    },
+    {
+      "id": "ozocssmPMFY",
+      "title": "Core OCaml Small Step | OCaml Programming | Chapter 9 Video 21",
+      "duration": 212
+    },
+    {
+      "id": "WrHrKnbRc1w",
+      "title": "Substitution in Functions | OCaml Programming | Chapter 9 Video 22",
+      "duration": 447
+    },
+    {
+      "id": "cYnSVZIczJE",
+      "title": "Environment Model of SimPL | OCaml Programming | Chapter 9 Video 23",
+      "duration": 420
+    },
+    {
+      "id": "93CN7gV_G2w",
+      "title": "Environment Model Example | OCaml Programming | Chapter 9 Video 24",
+      "duration": 222
+    },
+    {
+      "id": "YZO-vQohBYA",
+      "title": "SimPL Environment Model Interpreter | OCaml Programming | Chapter 9 Video 25",
+      "duration": 268
+    },
+    {
+      "id": "l0Db3KW5X_U",
+      "title": "Function Semantics in the Environment Model | OCaml Programming | Chapter 9 Video 26",
+      "duration": 399
+    },
+    {
+      "id": "Y0V_92x5J-Q",
+      "title": "Closures | OCaml Programming | Chapter 9 Video 27",
+      "duration": 480
+    },
+    {
+      "id": "s9kiXx0cSb4",
+      "title": "Lexical vs Dynamic Scope | OCaml Programming | Chapter 9 Video 28",
+      "duration": 145
+    },
+    {
+      "id": "z2ktAgYTCRw",
+      "title": "Remaining Core OCaml Environment Model | OCaml Programming | Chapter 9 Video 29",
+      "duration": 140
+    },
+    {
+      "id": "VZTrEYb6PPk",
+      "title": "Recap of All Models | OCaml Programming | Chapter 9 Video 30",
+      "duration": 237
+    },
+    {
+      "id": "_whuqDIWiO0",
+      "title": "Type Checking | OCaml Programming | Chapter 9 Video 31",
+      "duration": 353
+    },
+    {
+      "id": "9Lxz8qS3uQ8",
+      "title": "SimPL Type System | OCaml Programming | Chapter 9 Video 32",
+      "duration": 231
+    },
+    {
+      "id": "BN_nIMgFZ_o",
+      "title": "Adding Types to SimPL Interpreter | OCaml Programming | Chapter 9 Video 33",
+      "duration": 182
+    },
+    {
+      "id": "m3bt3BYB0vQ",
+      "title": "SimPL Type Checker Part 1 | OCaml Programming | Chapter 9 Video 34",
+      "duration": 581
+    },
+    {
+      "id": "TiKPU5rYeF8",
+      "title": "SimPL Type Checker Part 2 | OCaml Programming | Chapter 9 Video 35",
+      "duration": 391
+    },
+    {
+      "id": "MrmEIbDOfnk",
+      "title": "Type Safety | OCaml Programming | Chapter 9 Video 36",
+      "duration": 357
+    },
+    {
+      "id": "_yDo9Q9EOHY",
+      "title": "Hindley-Milner Type Inference | OCaml Programming | Chapter 9 Video 37",
+      "duration": 458
+    },
+    {
+      "id": "hrl9Q68dIfQ",
+      "title": "Type Inference Relation | OCaml Programming | Chapter 9 Video 38",
+      "duration": 160
+    },
+    {
+      "id": "NkAt9eApGSw",
+      "title": "Inference of Constants and Names | OCaml Programming | Chapter 9 Video 39",
+      "duration": 197
+    },
+    {
+      "id": "0EHUTbWnYWw",
+      "title": "Inference of Ifs | OCaml Programming | Chapter 9 Video 40",
+      "duration": 412
+    },
+    {
+      "id": "y2Y2aRnxncE",
+      "title": "Inference of Functions | OCaml Programming | Chapter 9 Video 41",
+      "duration": 299
+    },
+    {
+      "id": "2HRcvmQBWIM",
+      "title": "Inference of Applications | OCaml Programming | Chapter 9 Video 42",
+      "duration": 308
+    },
+    {
+      "id": "o1wT8FC9hpE",
+      "title": "Intuition for Unification | OCaml Programming | Chapter 9 Video 43",
+      "duration": 436
+    },
+    {
+      "id": "cNqPY5MSutM",
+      "title": "Unification Algorithm | OCaml Programming | Chapter 9 Video 44",
+      "duration": 363
+    },
+    {
+      "id": "trmq3wYcUxU",
+      "title": "A Worked Example of Type Inference | OCaml Programming | Chapter 9 Video 45",
+      "duration": 794
+    },
+    {
+      "id": "1jjGyPA9o1g",
+      "title": "Finishing Type Inference | OCaml Programming | Chapter 9 Video 46",
+      "duration": 188
+    },
+    {
+      "id": "tB8sDHFT54I",
+      "title": "Naive Inference of Let | OCaml Programming | Chapter 9 Video 47",
+      "duration": 449
+    },
+    {
+      "id": "me-Ll7mjNh8",
+      "title": "Let Polymorphism | OCaml Programming | Chapter 9 Video 48",
+      "duration": 330
+    },
+    {
+      "id": "6tj9WrRqPeU",
+      "title": "The Value Restriction | OCaml Programming | Chapter 9 Video 49",
+      "duration": 622
+    },
+    {
+      "id": "GdcOy6zVFC4",
+      "title": "The Curry-Howard Correspondence",
+      "duration": 2733
+    }
+  ]
+}

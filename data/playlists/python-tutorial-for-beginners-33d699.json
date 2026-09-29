@@ -1,0 +1,180 @@
+{
+  "courseId": "python-tutorial-for-beginners-33d699",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:04.885Z",
+  "title": "Python tutorials for beginners",
+  "channel": "ProgrammingWithHarry",
+  "videos": [
+    {
+      "id": "ks6wF_ooYqo",
+      "title": "Installing VS Code, Python & writing hello world Python code | Python Tutorial #1",
+      "duration": 1031
+    },
+    {
+      "id": "lOHF1WfpDaY",
+      "title": "Variables & Comments in Python | Python Tutorial #2",
+      "duration": 907
+    },
+    {
+      "id": "a5xyuIw96ww",
+      "title": "Numbers & Typecasting in python | Python Tutorial #3",
+      "duration": 671
+    },
+    {
+      "id": "maIAaMbf7ag",
+      "title": "Operators in Python | Python Tutorial #4",
+      "duration": 787
+    },
+    {
+      "id": "UcgCOpXTDjs",
+      "title": "Python strings and built in string methods | Python Tutorial #5",
+      "duration": 913
+    },
+    {
+      "id": "thZregq8x9I",
+      "title": "Exercise 1: Capitalize my name & String concatenation | Python Tutorial #6",
+      "duration": 374
+    },
+    {
+      "id": "cKNNr1kqj-k",
+      "title": "F-strings in Python | Python Tutorial #7",
+      "duration": 572
+    },
+    {
+      "id": "qyXbDxMHhs4",
+      "title": "Taking user input in Python  | Python Tutorial #8",
+      "duration": 714
+    },
+    {
+      "id": "_oWVDNRkRKs",
+      "title": "Lists in Python | Python Tutorial #9",
+      "duration": 868
+    },
+    {
+      "id": "aVHNlC-cAjw",
+      "title": "Tuple in Python | Python Tutorial #10",
+      "duration": 556
+    },
+    {
+      "id": "tT7iiYkeCPk",
+      "title": "Dictionary and related methods in Python | Python Tutorial #11",
+      "duration": 755
+    },
+    {
+      "id": "Avg_Gjsm7BI",
+      "title": "Sets in Python | Python Tutorial #12",
+      "duration": 553
+    },
+    {
+      "id": "gQYMlDdahMY",
+      "title": "If else conditionals in Python | Python Tutorial #13",
+      "duration": 847
+    },
+    {
+      "id": "4A6FCmUfjyY",
+      "title": "For Loops in python | Python Tutorial #14",
+      "duration": 664
+    },
+    {
+      "id": "8Baiw_bwTwI",
+      "title": "While Loops in python | Python Tutorial #15",
+      "duration": 422
+    },
+    {
+      "id": "0YMl1MqMHOw",
+      "title": "Exercise 1: Solution + Shoutouts | Python Tutorial #16",
+      "duration": 383
+    },
+    {
+      "id": "PfvQjwYg798",
+      "title": "Functions in Python | Python Tutorial #17",
+      "duration": 734
+    },
+    {
+      "id": "ZZmCcASvYAs",
+      "title": "Exercise 2: Twinkle Twinkle Little Star | Python Tutorial #18",
+      "duration": 283
+    },
+    {
+      "id": "QPvkogmM3jA",
+      "title": "Recursions in Python | Python Tutorial #19",
+      "duration": 719
+    },
+    {
+      "id": "8mM-oY2OD0k",
+      "title": "Modules & pip in Python | Python Tutorial #20",
+      "duration": 771
+    },
+    {
+      "id": "GRLKc5YdqMg",
+      "title": "For else in Python | Python Tutorial #21",
+      "duration": 459
+    },
+    {
+      "id": "P--ajCoYFiM",
+      "title": "Try except and Error handling in Python | Python Tutorial #22",
+      "duration": 833
+    },
+    {
+      "id": "wNXjVjRT8Ec",
+      "title": "Exercise 2: Solution + Shoutouts | Python Tutorial #23",
+      "duration": 651
+    },
+    {
+      "id": "4vsW0LimYh8",
+      "title": "Short Hand If - Else Notation in Python | Python Tutorial #24",
+      "duration": 332
+    },
+    {
+      "id": "7g6mQnpOxgE",
+      "title": "Escape sequence characters in Python | Python Tutorial #25",
+      "duration": 317
+    },
+    {
+      "id": "63oykCokNak",
+      "title": "File Handling in Python | Python Tutorial #26",
+      "duration": 852
+    },
+    {
+      "id": "jBR5HnKfqCU",
+      "title": "f.read(), f.readline() & f.readlines() in Python | Python Tutorial #27",
+      "duration": 380
+    },
+    {
+      "id": "x4Rt-6lg1d0",
+      "title": "Guess the number: Python Exercise 3 | Python Tutorial #28",
+      "duration": 218
+    },
+    {
+      "id": "TXDWEwffQNw",
+      "title": "Number Guessing Game: Python Exercise 3 Solution | Python Tutorial #29",
+      "duration": 389
+    },
+    {
+      "id": "ADcuPqLLFWk",
+      "title": "List Comprehensions In Python | Python Tutorial #30",
+      "duration": 514
+    },
+    {
+      "id": "YFsN4Y0Q7FI",
+      "title": "Iterators, Iterables & Generators In Python | Python Tutorial #31",
+      "duration": 967
+    },
+    {
+      "id": "wwXFXuRETdY",
+      "title": "Lambda Functions In Python | Python Tutorial #32",
+      "duration": 425
+    },
+    {
+      "id": "4k9CphTdnWE",
+      "title": "Project 1: Jarvis - Python AI Virtual Desktop Assistant | Python Tutorial #33",
+      "duration": 3309
+    },
+    {
+      "id": "m53EEP5H6Sg",
+      "title": "Object Oriented Programming - Classes & Objects in Python | Python Tutorial #34",
+      "duration": 594
+    }
+  ]
+}

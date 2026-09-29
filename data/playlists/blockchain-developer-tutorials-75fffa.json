@@ -1,0 +1,480 @@
+{
+  "courseId": "blockchain-developer-tutorials-75fffa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:34.343Z",
+  "title": "Blockchain Developer Tutorials",
+  "channel": "Dapp University",
+  "videos": [
+    {
+      "id": "3681ZYbDSSk",
+      "title": "How to Build Ethereum Dapp (Decentralized Application Development Tutorial)",
+      "duration": 7092
+    },
+    {
+      "id": "W5nk4X3O7VM",
+      "title": "Ultimate Ethereum Dapp for 2019",
+      "duration": 638
+    },
+    {
+      "id": "MfCU0G4ao9Q",
+      "title": "Build a Dapp Without Coding",
+      "duration": 925
+    },
+    {
+      "id": "VdiPIS5JFMo",
+      "title": "Solidity Crash Course - Smart Contract Developer Tutorial #3",
+      "duration": 872
+    },
+    {
+      "id": "BHdPZWRjtgc",
+      "title": "Solidity Step By Step - Smart Contract Developer Tutorial #4",
+      "duration": 903
+    },
+    {
+      "id": "on3SZ-BAFw8",
+      "title": "Solidity Made Easy - Smart Contract Developer Tutorial #5",
+      "duration": 1108
+    },
+    {
+      "id": "jLfs8_ZwMtg",
+      "title": "Solidity Simplified - Smart Contract Developer Tutorial #6",
+      "duration": 715
+    },
+    {
+      "id": "hO62lD_Ulys",
+      "title": "Solidity for Beginners - Smart Contract Developer Tutorial #2",
+      "duration": 1314
+    },
+    {
+      "id": "MnSmc7Hto2k",
+      "title": "Intro to Solidity Programming Language - Ethereum Blockchain Developer Tutorial for Beginners",
+      "duration": 793
+    },
+    {
+      "id": "qQt5aQQ-_DQ",
+      "title": "Build a Dapp in 1 Minute",
+      "duration": 863
+    },
+    {
+      "id": "R0ytzC_iwqo",
+      "title": "How To Sign Messages on Ethereum with Web3.js - Pt 1",
+      "duration": 882
+    },
+    {
+      "id": "KRfWh0vpUis",
+      "title": "How to Verify Signed Messages on Ethereum with Solidity Smart Contracts - Pt 2",
+      "duration": 623
+    },
+    {
+      "id": "UXdUlWIxgqo",
+      "title": "Inside Crypto Currency Exchange Smart Contract",
+      "duration": 1349
+    },
+    {
+      "id": "NFaheriE19w",
+      "title": "Build a Cryptocurrency Exchange With Loopring ($LRC, @loopringorg)",
+      "duration": 1850
+    },
+    {
+      "id": "2IqsgSyA8BQ",
+      "title": "Build a Real World ICO - #1 Real World ICO on Ethereum",
+      "duration": 1505
+    },
+    {
+      "id": "ir-IRmMTG4Q",
+      "title": "Build a Mintable Token - #2 Real World ICO on Ethereum",
+      "duration": 1207
+    },
+    {
+      "id": "wfzTtbZEJP8",
+      "title": "Build a Crowdsale Smart Contract - #3 Real World ICO on Ethereum",
+      "duration": 1586
+    },
+    {
+      "id": "tb6YPyeRObg",
+      "title": "Build a Minted Crowdsael  with Smart Contacts - #4 Real World ICO on Ethereum",
+      "duration": 1271
+    },
+    {
+      "id": "w8UwS2VwBTQ",
+      "title": "Build a Capped Crowdsale  with Smart Contacts - #5 Real World ICO on Ethereum",
+      "duration": 1860
+    },
+    {
+      "id": "-CIw7vnVrAA",
+      "title": "Build a Timed Crowdsale with Smart Contacts - #6 Real World ICO on Ethereum",
+      "duration": 780
+    },
+    {
+      "id": "4yUxgOJKYOM",
+      "title": "Build a Whitelisted Crowdsale with Smart Contacts - #7 Real World ICO on Ethereum",
+      "duration": 572
+    },
+    {
+      "id": "5otDOi86y3I",
+      "title": "Build a Refundable Crowdsale with Smart Contacts - #8 Real World ICO on Ethereum",
+      "duration": 790
+    },
+    {
+      "id": "uPeRwDvkuCs",
+      "title": "Create an ICO Presale with Smart Contracts - #9 Real World ICO on Ethereum",
+      "duration": 1317
+    },
+    {
+      "id": "ofK45m1FDE0",
+      "title": "Finalize a Crowdsale - #10 Real World ICO on Ethereum",
+      "duration": 1315
+    },
+    {
+      "id": "k10F8n-jRE4",
+      "title": "Create Token Distribution with Smart Contracts - #11 Real World ICO on Ethereum",
+      "duration": 719
+    },
+    {
+      "id": "NxzJiGPyyLw",
+      "title": "Create Token Vesting with Smart Contracts - #12 Real World ICO on Ethereum",
+      "duration": 1301
+    },
+    {
+      "id": "MYrX3DtKwak",
+      "title": "Deploy Crowdsale Smart Contracts - #13 Real World ICO on Ethereum",
+      "duration": 1161
+    },
+    {
+      "id": "0r24KRMvHG0",
+      "title": "Debug Ethereum Smart Contracts with Truffle",
+      "duration": 681
+    },
+    {
+      "id": "v90hvMEjf_Q",
+      "title": "Testing ERC-20 Tokens With OpenZeppelin Solidity and Truffle - PT 2",
+      "duration": 1649
+    },
+    {
+      "id": "_ikc4Ct7wvk",
+      "title": "Create ERC-20 Token Fast With OpenZeppelin Solidity and Truffle - PT 1",
+      "duration": 1158
+    },
+    {
+      "id": "H52Z0R1M_n0",
+      "title": "Connect to Ethereum Blockchain with Truffle HD Wallet & Infura",
+      "duration": 923
+    },
+    {
+      "id": "WyDrj8jrEjQ",
+      "title": "Deploy Smart Contracts to Public Blockchain with Truffle HD Wallet & Infura - Ethereum",
+      "duration": 1401
+    },
+    {
+      "id": "YORY5H4CK78",
+      "title": "How to Send Ether to Smart Contract in Solidity in Crowdsale (ICO) - Ethereum Programming",
+      "duration": 849
+    },
+    {
+      "id": "6HlHwCaAZKQ",
+      "title": "Writing Smart Contracts · Web3.js · #5 Ethereum Blockchain Development Crash Course",
+      "duration": 1404
+    },
+    {
+      "id": "C5Kv77_AUFE",
+      "title": "Web3.js Utilities · Web3.js · #8 Ethereum Blockchain Development Crash Course",
+      "duration": 832
+    },
+    {
+      "id": "DFCCcgr9dAQ",
+      "title": "Inspecting Blocks · Web3.js · #7 Ethereum Blockchain Development Crash Course",
+      "duration": 937
+    },
+    {
+      "id": "CX2QOE0FcEo",
+      "title": "Smart Contract Events · Web3.js · #6 Ethereum Blockchain Development Crash Course",
+      "duration": 1179
+    },
+    {
+      "id": "uFdjZ-B3GCM",
+      "title": "Inside Ethereum Transactions · Web3.js · #3 Ethereum Blockchain Development Crash Course",
+      "duration": 2313
+    },
+    {
+      "id": "msT3tpwnyv8",
+      "title": "Deploying Smart Contracts · Web3.js · #4 Ethereum Blockchain Development Crash Course",
+      "duration": 1351
+    },
+    {
+      "id": "t3wM5903ty0",
+      "title": "Web3.js Intro · Web3.js · #1 Ethereum Blockchain Developer Crash Course",
+      "duration": 1324
+    },
+    {
+      "id": "tu92jcqdn6s",
+      "title": "Learn Smart Contracts · Web3.js · #2 Ethereum Blockchain Development Crash Course",
+      "duration": 1266
+    },
+    {
+      "id": "oD5d8LD5BjU",
+      "title": "Upload Files to Ethereum Blockchain with React JS · #3 IPFS Image Storage DApp Tutorial",
+      "duration": 1810
+    },
+    {
+      "id": "KkjAktAA4M4",
+      "title": "Upload Images to IPFS With React JS · #2 IPFS Image Storage DApp Tutorial",
+      "duration": 1727
+    },
+    {
+      "id": "SkMH0WeRYtg",
+      "title": "IPFS File Uploads With Ethereum Smart Contracts · #1 IPFS Image Storage DApp Tutorial",
+      "duration": 1691
+    },
+    {
+      "id": "ycRwfHM1RBk",
+      "title": "Coding a Crowd Sale Smart Contract · #8 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1904
+    },
+    {
+      "id": "Y-vsaoyuoww",
+      "title": "Deploying an ERC-20 Crowd Sale Website · #15 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1317
+    },
+    {
+      "id": "uTCAjtluS-A",
+      "title": "Deploying Smart Contracts with Geth · #14 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 3294
+    },
+    {
+      "id": "PP7JNXdrToU",
+      "title": "Buying ERC-20 Tokens in a Crowd Sale · #13 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 2898
+    },
+    {
+      "id": "cxgvsPCDhRY",
+      "title": "Building out an ERC-20 Crowd Sale Website · #12 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 2341
+    },
+    {
+      "id": "XeH6z-IEyg0",
+      "title": "Coding a Crowd Sale Website · #11 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1767
+    },
+    {
+      "id": "x_gYUeaUoZs",
+      "title": "Ending a Crowd Sale With a Smart Contract · #10 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1090
+    },
+    {
+      "id": "xlHldvMNK8Q",
+      "title": "Buying ERC-20 Tokens With a Smart Contract · #9 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 2940
+    },
+    {
+      "id": "0oOnVrb8OyA",
+      "title": "Smart Contracts in the Console · #7 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1075
+    },
+    {
+      "id": "ftKWYnu6xz8",
+      "title": "Prepping Your ERC-20 Token for Exchanges · #6 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 2004
+    },
+    {
+      "id": "KT5PdaFpuvY",
+      "title": "An Exchange-Ready ERC-20 Token · #5 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1868
+    },
+    {
+      "id": "uVUMyyiqFAI",
+      "title": "Sending ERC-20 Tokens · #4 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1641
+    },
+    {
+      "id": "jfFgecLL8UA",
+      "title": "Creating an ERC-20 Token Smart Contract · #3 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 1640
+    },
+    {
+      "id": "044h0ZI-fDI",
+      "title": "Writing Your First Smart Contract · #2 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 2146
+    },
+    {
+      "id": "W0Lomo8CdTM",
+      "title": "Introduction to ERC-20 Tokens · #1 Code Your Own Cryptocurrency on Ethereum",
+      "duration": 901
+    },
+    {
+      "id": "KkZ6iYnSDRw",
+      "title": "Build a Dapp in 20 Minutes",
+      "duration": 1347
+    },
+    {
+      "id": "qlJ3cs7o2DE",
+      "title": "Ethereum Dapp with React JS, Webpack, Web3 & Truffle",
+      "duration": 1925
+    },
+    {
+      "id": "_rumMSlrmiI",
+      "title": "2. Deploy Smart Contracts - Geth, Rinkeby & Truffle Tutorial",
+      "duration": 1728
+    },
+    {
+      "id": "pdJttvcAV1c",
+      "title": "1. Deploy Smart Contracts Remix + Ropsten Ethereum Network",
+      "duration": 791
+    },
+    {
+      "id": "y17hd7Tcdzc",
+      "title": "How to Automate Blockchain Applications (Dapps)",
+      "duration": 804
+    },
+    {
+      "id": "iuQ93LE11FM",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "w67HLRxFd9k",
+      "title": "How To Build Blockchain Apps With React.js + Redux",
+      "duration": 834
+    },
+    {
+      "id": "Imiw7zTeors",
+      "title": "Create An ICO Easy With Simbachain!",
+      "duration": 694
+    },
+    {
+      "id": "gU64BZW5lQQ",
+      "title": "How To Build An Escrow Smart Contract With Ethereum & Solidity",
+      "duration": 995
+    },
+    {
+      "id": "po3eK0pGJ7U",
+      "title": "How to Build A Dapp Without Metamask With Python",
+      "duration": 758
+    },
+    {
+      "id": "xexCCBbnLQc",
+      "title": "How to Build An Ethereum Wallet With JavaScript",
+      "duration": 778
+    },
+    {
+      "id": "xrY2aGpe9Xo",
+      "title": "How To Build A Blockchain App (Etherum, Web3.js & Solidity Smart Contracts) - PT1",
+      "duration": 538
+    },
+    {
+      "id": "_4AM3JWREcA",
+      "title": "Getting Started: How To Build A Blockchain App - PT 2",
+      "duration": 1510
+    },
+    {
+      "id": "qQexh4sqCio",
+      "title": "Sell Products: How To Build A Blockchain App - PT3",
+      "duration": 1741
+    },
+    {
+      "id": "eQ4ME442GdE",
+      "title": "Buy Products: How To How To Build A Blockchain App - PT4",
+      "duration": 1556
+    },
+    {
+      "id": "YRkf0v3aF7s",
+      "title": "How To Build A Blockchain Website: How To How To Build A Blockchain App - PT5",
+      "duration": 1650
+    },
+    {
+      "id": "_c2H8p_TjsA",
+      "title": "Sell Products (Front End): How To How To Build A Blockchain App - PT6",
+      "duration": 1164
+    },
+    {
+      "id": "lBV5A2ZDSVM",
+      "title": "Buy Products: How To How To Build A Blockchain App - PT7",
+      "duration": 1186
+    },
+    {
+      "id": "TMnjVgZO7B4",
+      "title": "Deploy Project: How To How To Build A Blockchain App - PT8",
+      "duration": 648
+    },
+    {
+      "id": "HyaoW1wDtfU",
+      "title": "🤯 Learn The Power Of Blockchain Programming!",
+      "duration": 1264
+    },
+    {
+      "id": "pTZVoqBUjvI",
+      "title": "How to Build Ethereum Dapp With IPFS - Blockchain Programming Tutorial",
+      "duration": 7202
+    },
+    {
+      "id": "itUrxH-rksc",
+      "title": "Intro To Ethereum Programming [FULL COURSE]",
+      "duration": 36822
+    },
+    {
+      "id": "D4ywk5qIWEU",
+      "title": "Master Blockchain Programming with Solidity",
+      "duration": 8182
+    },
+    {
+      "id": "kDo_MdyNJzI",
+      "title": "Master Blockchain Programming With JavaScript - Web3.js",
+      "duration": 8571
+    },
+    {
+      "id": "pZSegEXtgAE",
+      "title": "Blockchain Python programming tutorial [FULL COURSE] Web3.py",
+      "duration": 4174
+    },
+    {
+      "id": "ooN6kZ9vqNQ",
+      "title": "How To Code Your First Ethereum Smart Contract",
+      "duration": 1158
+    },
+    {
+      "id": "_ATi4A5Bl1s",
+      "title": "Learn Web3.js for Ethereum Development",
+      "duration": 1751
+    },
+    {
+      "id": "PyMMemaURU4",
+      "title": "Facebook Libra Blockchain Programming Tutorial",
+      "duration": 1043
+    },
+    {
+      "id": "puiS6unu-GE",
+      "title": "Intro to Drizzle for Ethereum Dapp Development (Truffle)",
+      "duration": 1585
+    },
+    {
+      "id": "-RHTgegox8I",
+      "title": "Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)",
+      "duration": 999
+    },
+    {
+      "id": "m7WFbZxXIhw",
+      "title": "Everything You Need to Master Blockchain Development",
+      "duration": 807
+    },
+    {
+      "id": "XKxt6y_86lk",
+      "title": "The ULTIMATE Blockchain Website Tutorial",
+      "duration": 1896
+    },
+    {
+      "id": "wSTbBIK8qrY",
+      "title": "How to Code a Blockchain Wallet Step-by-Step",
+      "duration": 3176
+    },
+    {
+      "id": "r7zOcgYul8k",
+      "title": "How to build a dApp with ZERO gas fees (Gas Station Network Tutorial)",
+      "duration": 1771
+    },
+    {
+      "id": "pYHTCmhK734",
+      "title": "The EASIEST way to deploy a dApp",
+      "duration": 735
+    }
+  ]
+}

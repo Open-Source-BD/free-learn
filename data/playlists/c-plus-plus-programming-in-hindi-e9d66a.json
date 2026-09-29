@@ -1,0 +1,490 @@
+{
+  "courseId": "c-plus-plus-programming-in-hindi-e9d66a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:48.531Z",
+  "title": "C++ Programming in Hindi",
+  "channel": "Edutainment 1.0",
+  "videos": [
+    {
+      "id": "yQsiBC7-fN0",
+      "title": "Introduction to C++ Programming | C++ Programming in Hindi",
+      "duration": 309
+    },
+    {
+      "id": "X8S2FtUJpsw",
+      "title": "C++ Character Set | C++ Programming",
+      "duration": 210
+    },
+    {
+      "id": "krnaEPYV0q0",
+      "title": "C++ Programming - Tokens, keywords, Identifiers and Literals",
+      "duration": 256
+    },
+    {
+      "id": "c8Om2yoKBHQ",
+      "title": "Operators in C++ | Arithmetic | Assignment Operator | Unary and Binary Operator",
+      "duration": 417
+    },
+    {
+      "id": "LoJv4r9t2ME",
+      "title": "Operators in C++ Relational and Logical | Increment / Decrement",
+      "duration": 432
+    },
+    {
+      "id": "HqpfGgUwZRA",
+      "title": "First Program in C++ | C++ Programming",
+      "duration": 576
+    },
+    {
+      "id": "c7_8wNB5CNA",
+      "title": "Function in C++ | Clrscr() | Getch()",
+      "duration": 262
+    },
+    {
+      "id": "D6p6uBGPjkI",
+      "title": "Comments in C++ | Single line Comment | Multi line Comment",
+      "duration": 255
+    },
+    {
+      "id": "R8b1KT3FA7M",
+      "title": "cout and cin objects | Input - Output in C++",
+      "duration": 375
+    },
+    {
+      "id": "fDCINRHnIaI",
+      "title": "Variables in C++ | Declaration of Variables",
+      "duration": 367
+    },
+    {
+      "id": "C25HCQFye9s",
+      "title": "Datatype in C++ | Datatype declaration",
+      "duration": 400
+    },
+    {
+      "id": "aTYHlJSUKf4",
+      "title": "Swapping of Variables | Swapping without using third variable",
+      "duration": 345
+    },
+    {
+      "id": "33-JF6Dc-qw",
+      "title": "Multiple Programs in C++ | Mathematical Calculations",
+      "duration": 447
+    },
+    {
+      "id": "iNvYb8toNBQ",
+      "title": "Global and Local variable in C++ | Scope Resolution Operator | Variable Scope",
+      "duration": 309
+    },
+    {
+      "id": "iWbecQpLi8E",
+      "title": "Errors in C++ | Syntax Error | Logical Error",
+      "duration": 553
+    },
+    {
+      "id": "-iU4sSWkLKI",
+      "title": "Flow of Control | If else statements | Loops in C++ | Iteration Statements | Selection Statements",
+      "duration": 250
+    },
+    {
+      "id": "YTpCD2nntOA",
+      "title": "If else statement in C++ | C++ Selection Statement | C++ Statements",
+      "duration": 509
+    },
+    {
+      "id": "G69zcnTRUsA",
+      "title": "If else if ladder | If else in c++ | Conditional Statements",
+      "duration": 325
+    },
+    {
+      "id": "PgjfasxdrQs",
+      "title": "Nested if else in C++ | Nested if else | Conditional Statements",
+      "duration": 321
+    },
+    {
+      "id": "Mb3EI7ndwS4",
+      "title": "Simple Calculator in C++ | C++ Calculator | Simple Calculator",
+      "duration": 337
+    },
+    {
+      "id": "g5V4tL4MD6E",
+      "title": "Conditional Operator | Conditional Operator in C++ | Alternative for if else",
+      "duration": 220
+    },
+    {
+      "id": "qgIu_WdMCW0",
+      "title": "If else statement in C++| Selection Statement",
+      "duration": 253
+    },
+    {
+      "id": "SXUYLlKjh_0",
+      "title": "Switch Statement in C++ | C++ programming in Hindi",
+      "duration": 571
+    },
+    {
+      "id": "NCFUzyUa91U",
+      "title": "Switch Statement (Questions) | Conditional Statement in C++",
+      "duration": 454
+    },
+    {
+      "id": "bGegwqp6WmY",
+      "title": "Loops in C++ in hindi | C++ programming in hindi",
+      "duration": 628
+    },
+    {
+      "id": "U66txzvkmq8",
+      "title": "While Loop in C++ | C++ Programming in Hindi",
+      "duration": 534
+    },
+    {
+      "id": "HORG2UCwMx8",
+      "title": "Do While Loop in C++ | C++ programming in Hindi",
+      "duration": 353
+    },
+    {
+      "id": "hcFDijyZlUY",
+      "title": "For Loop in C++ (Questions on for loop) | C++ programming in Hindi",
+      "duration": 350
+    },
+    {
+      "id": "UI-6UW-Q06w",
+      "title": "Examples of Looping | Questions on Looping | Loop Questions",
+      "duration": 638
+    },
+    {
+      "id": "YYHlciaY5ks",
+      "title": "Even and Odd | Sum of Natural Numbers | C++ Programming",
+      "duration": 432
+    },
+    {
+      "id": "VcQe9d4yBBE",
+      "title": "LCM (LEAST COMMON MULTIPLE) | LCM in C++ | C++ PROGRAMMING",
+      "duration": 328
+    },
+    {
+      "id": "z8AAw_H0hq0",
+      "title": "HCF/GCF IN C++ | C++ programming in Hindi",
+      "duration": 352
+    },
+    {
+      "id": "yZgqbha-2lo",
+      "title": "Prime Numbers in C++ |  C++ Programming in Hindi",
+      "duration": 298
+    },
+    {
+      "id": "gd4O9Q0MzYo",
+      "title": "C++ Patterns | 6 Patterns using one logic | C++ Programming in Hindi",
+      "duration": 911
+    },
+    {
+      "id": "FB8l9z4VVsg",
+      "title": "3 Patterns (Using ASCII Code) | C++ Patterns | C++ Patterns",
+      "duration": 524
+    },
+    {
+      "id": "NG0bOp45nzw",
+      "title": "3 Patterns | Right Angle Triangle Pattern | C++ Pattern",
+      "duration": 419
+    },
+    {
+      "id": "aCpm9CXPeDI",
+      "title": "1 Logic 4 Patterns | C++ Patterns | C++ Programming",
+      "duration": 489
+    },
+    {
+      "id": "_a-tsfjNF54",
+      "title": "Pyramid Pattern in C++ Programming | C++ Programming in Hindi",
+      "duration": 376
+    },
+    {
+      "id": "cWndUxxW43g",
+      "title": "C++ Pattern Simple Trick | C++ Pattern | C++ Programming",
+      "duration": 369
+    },
+    {
+      "id": "U8bcOs9piEc",
+      "title": "Introduction to Array in C++ Programming | C++ Programming in Hindi",
+      "duration": 1255
+    },
+    {
+      "id": "qh-Y_BgeYFs",
+      "title": "Sum of 10 Number using Array | C++ Programming",
+      "duration": 557
+    },
+    {
+      "id": "ZC0Q1OoHg80",
+      "title": "Inserting Element in Array on Users Choice| C++ Programming",
+      "duration": 494
+    },
+    {
+      "id": "rjLOLuv1EDc",
+      "title": "Inserting element at Specific Position in Array | C++ Programming",
+      "duration": 416
+    },
+    {
+      "id": "aF91nxcAM-E",
+      "title": "Deleting Element from a Specific Position | C++ Programming",
+      "duration": 301
+    },
+    {
+      "id": "UqGro1N71pI",
+      "title": "Finding Maximum/Minimum in Array in C++ | C++ Program in hindi",
+      "duration": 261
+    },
+    {
+      "id": "RTjt1jUQhus",
+      "title": "Linear Search in C++ in Hindi",
+      "duration": 256
+    },
+    {
+      "id": "WgXYpHRaNGc",
+      "title": "Binary Search in C++ (Hindi)",
+      "duration": 556
+    },
+    {
+      "id": "hsdINaMFgWc",
+      "title": "Selection Sort in C++ (Hindi)",
+      "duration": 735
+    },
+    {
+      "id": "Dqjx50imDIs",
+      "title": "Insertion Sort in C++ (Hindi)",
+      "duration": 1009
+    },
+    {
+      "id": "JlYAKSpPIDw",
+      "title": "Bubble Sort in C++ (Hindi)",
+      "duration": 899
+    },
+    {
+      "id": "LL_9l3cZkKU",
+      "title": "Function in C++ (Hindi)",
+      "duration": 336
+    },
+    {
+      "id": "YC1BBf4GJYg",
+      "title": "User Defined Function in C++ | C++ Programming in Hindi",
+      "duration": 480
+    },
+    {
+      "id": "cO8MMKRBi0Q",
+      "title": "function Prototype and Function Definition in C++",
+      "duration": 170
+    },
+    {
+      "id": "2oQvYHmH44c",
+      "title": "Returning Multiple values from function in C++",
+      "duration": 248
+    },
+    {
+      "id": "P0Z0r9ACj0U",
+      "title": "Function Argument  (Actual, Formal, Default) C++ Programming",
+      "duration": 249
+    },
+    {
+      "id": "LCCyrdaHuRc",
+      "title": "Global Variable in Function (C++ Programming)",
+      "duration": 303
+    },
+    {
+      "id": "k-SA1Rz3DOs",
+      "title": "Function Styles in C++ | C++ programming in hindi",
+      "duration": 180
+    },
+    {
+      "id": "yF8XrfHX6CY",
+      "title": "Call by Value in C++ Programming",
+      "duration": 275
+    },
+    {
+      "id": "uorJAViHnvA",
+      "title": "Call by Reference in C++ Programming",
+      "duration": 331
+    },
+    {
+      "id": "FnG2TpkG0h4",
+      "title": "Call by Pointer in C++ Programming",
+      "duration": 424
+    },
+    {
+      "id": "3oNaHTCMthE",
+      "title": "Array as function Argument | C++ Programming",
+      "duration": 387
+    },
+    {
+      "id": "ET7ClelVlwI",
+      "title": "String as Function Argument | Passing String to a Function in C++ Programming",
+      "duration": 295
+    },
+    {
+      "id": "dJ0CkBkBmaY",
+      "title": "Function Overloading in C++ | C++ Programming in Hindi",
+      "duration": 267
+    },
+    {
+      "id": "pbgWw8SNvyQ",
+      "title": "Recursive Function in C++ | C++ Programming",
+      "duration": 413
+    },
+    {
+      "id": "DXITD3fH1ZU",
+      "title": "Inline Function in C++ | C++ Programming in Hindi",
+      "duration": 216
+    },
+    {
+      "id": "walLexu9PJI",
+      "title": "Structure in C++ | C++ Programming in Hindi",
+      "duration": 522
+    },
+    {
+      "id": "zvrhbv3xLxA",
+      "title": "Struct Program in C++ | C++ Programming in Hindi",
+      "duration": 383
+    },
+    {
+      "id": "03Ft5C4P-QY",
+      "title": "Array of Structure in C++ | C++ Programming in Hindi",
+      "duration": 417
+    },
+    {
+      "id": "Wq0LlXqPWy0",
+      "title": "Pointers in C++ in Hindi | C++ Programming in Hindi",
+      "duration": 751
+    },
+    {
+      "id": "pKm8KA6K2tY",
+      "title": "Pointers and Array in C++  in Hindi",
+      "duration": 721
+    },
+    {
+      "id": "3WCikjHG2MI",
+      "title": "Pointer and String in C++ in Hindi",
+      "duration": 603
+    },
+    {
+      "id": "S5YX7K4jOHQ",
+      "title": "Pointer and Function in C++ in Hindi",
+      "duration": 534
+    },
+    {
+      "id": "_mlPk8BNl1s",
+      "title": "Array of Pointers in C++ in Hindi",
+      "duration": 377
+    },
+    {
+      "id": "LpWGuZHYgkQ",
+      "title": "Returning Address from Function in C++ in Hindi",
+      "duration": 324
+    },
+    {
+      "id": "3xJIAygSqcc",
+      "title": "Dynamic Memory Allocation in C++ (New and Delete Keywords)",
+      "duration": 550
+    },
+    {
+      "id": "_2Rbs5Pvajs",
+      "title": "Pointer and Structure in C++ in Hindi",
+      "duration": 434
+    },
+    {
+      "id": "JY75sb6C37U",
+      "title": "Class and Object in C++ in Hindi",
+      "duration": 814
+    },
+    {
+      "id": "KS1pyv7imLg",
+      "title": "Global and Local Class in C++",
+      "duration": 474
+    },
+    {
+      "id": "OJLEWTa8BLw",
+      "title": "Object as Function Argument and Function returning objects in C++",
+      "duration": 664
+    },
+    {
+      "id": "9hWnyThxDX0",
+      "title": "Constructors in C++ in Hindi",
+      "duration": 880
+    },
+    {
+      "id": "Nc60Ueb7bY8",
+      "title": "Copy Constructor in C++ in Hindi",
+      "duration": 499
+    },
+    {
+      "id": "Eddx8EkKqas",
+      "title": "Constructor Overloading in C++ | C++ Programming in Hindi",
+      "duration": 230
+    },
+    {
+      "id": "uTfw832bt7Q",
+      "title": "Destructor in C++ in Hindi",
+      "duration": 301
+    },
+    {
+      "id": "jukIGBYY5_g",
+      "title": "Inheritance in C++ in Hindi",
+      "duration": 708
+    },
+    {
+      "id": "6wziA6Snqwg",
+      "title": "Access Controller in Inheritance (C++ Programming)",
+      "duration": 603
+    },
+    {
+      "id": "aiXhZFomtEc",
+      "title": "Types of Inheritance in C++",
+      "duration": 381
+    },
+    {
+      "id": "wnINLiz-0Pg",
+      "title": "Interitance with Constructor and Destructor",
+      "duration": 462
+    },
+    {
+      "id": "shLxSpHK6pQ",
+      "title": "File Handling in C++ in Hindi",
+      "duration": 802
+    },
+    {
+      "id": "wZoqVzfTfew",
+      "title": "Working with text files in C++",
+      "duration": 752
+    },
+    {
+      "id": "4l8YQQcz_m0",
+      "title": "Reading from text file in C++ (get(), getline(), read())",
+      "duration": 958
+    },
+    {
+      "id": "D_yER_5MnzI",
+      "title": "Working with multiple text files in C++",
+      "duration": 506
+    },
+    {
+      "id": "EYCVXOhK_J4",
+      "title": "Copying Text file in C++",
+      "duration": 452
+    },
+    {
+      "id": "iZnrqwWTyGw",
+      "title": "File Pointers with text files - seekg, tellg, seekp, tellp",
+      "duration": 1170
+    },
+    {
+      "id": "jT9BC_4waR4",
+      "title": "Binary files in C++| C++ Programming",
+      "duration": 1436
+    },
+    {
+      "id": "0UZDffDu-Aw",
+      "title": "Searching in binary file in C++",
+      "duration": 848
+    },
+    {
+      "id": "ZcIKBg8H8KQ",
+      "title": "Modification and Deletion in binary file in C++",
+      "duration": 1074
+    }
+  ]
+}

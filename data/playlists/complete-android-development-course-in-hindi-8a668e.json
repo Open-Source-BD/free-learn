@@ -1,0 +1,430 @@
+{
+  "courseId": "complete-android-development-course-in-hindi-8a668e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:14.591Z",
+  "title": "Android Development Course (JAVA)",
+  "channel": "Neat Roots",
+  "videos": [
+    {
+      "id": "EplH-amHTtE",
+      "title": "Android App Development Tutorial for Beginners - Hindi",
+      "duration": 7770
+    },
+    {
+      "id": "G6f6lm3ZCTU",
+      "title": "Android Splash Screen (Welcome Screen) in Android - Android Studio Tutorial",
+      "duration": 1036
+    },
+    {
+      "id": "xBRPQCYCHec",
+      "title": "Activity and Activity Life cycle in Android - Explained with Real Time Android App Example | Hindi",
+      "duration": 2010
+    },
+    {
+      "id": "jbw2B1sACxA",
+      "title": "Android Studio Tutorial   OnClickListener for Multiple Views Using All Possible Methods",
+      "duration": 1036
+    },
+    {
+      "id": "L39Suwq55BE",
+      "title": "Toast in Android - All types of Toast in Android App Development",
+      "duration": 1153
+    },
+    {
+      "id": "ouwFB5D3BrQ",
+      "title": "Layouts in Android -  View and View Group in Android - Android Studio Tutorial in Hindi",
+      "duration": 1128
+    },
+    {
+      "id": "ylPHePaZ0K8",
+      "title": "Linear Layout in Android - Android Studio Tutorial",
+      "duration": 1301
+    },
+    {
+      "id": "0nMls_ZU8qU",
+      "title": "Relative Layout in Android Studio",
+      "duration": 1815
+    },
+    {
+      "id": "YlAmfyywifQ",
+      "title": "Constraint Layout Master Class",
+      "duration": 4149
+    },
+    {
+      "id": "RJtph0lAKzA",
+      "title": "Android Studio Tutorial - Eye Detecting Video Player",
+      "duration": 665
+    },
+    {
+      "id": "w4USF9e7b4U",
+      "title": "Android app Development Tutorial in Hindi - Responsive Food App tutorial",
+      "duration": 6250
+    },
+    {
+      "id": "KkhfQi5INiQ",
+      "title": "Android Studio Tutorial - Instagram App Tutorial Including Stories in Hindi",
+      "duration": 8882
+    },
+    {
+      "id": "RTmveMTIgsQ",
+      "title": "How to Add a Custom Toolbar - Android Tutorial in Hindi",
+      "duration": 878
+    },
+    {
+      "id": "iuz6Cg75tIs",
+      "title": "Importance of Animation  - Android Tutorial in Hindi",
+      "duration": 525
+    },
+    {
+      "id": "fDdXADAI7NY",
+      "title": "Android Splash Screen with Animations in Android Studio - Hindi",
+      "duration": 1754
+    },
+    {
+      "id": "8X24O9Kkr6s",
+      "title": "Intents in Android - Explicit and Implicit Intent with Examples",
+      "duration": 1526
+    },
+    {
+      "id": "G-esOG06nnc",
+      "title": "How to send Data from One Activity to Another Activity - Explicit Intent Example",
+      "duration": 1122
+    },
+    {
+      "id": "_Sow5DOjvZM",
+      "title": "Android Studio Tutorial  - Quote app Tutorial  - Implicit Intent Example",
+      "duration": 1917
+    },
+    {
+      "id": "4TtujohPyMw",
+      "title": "Custom font in Android Studio Download any free font",
+      "duration": 1189
+    },
+    {
+      "id": "vYonUE38T_c",
+      "title": "AlertDialog in Android",
+      "duration": 1047
+    },
+    {
+      "id": "dmHlDDI9Oj4",
+      "title": "Custom Alert Dialog - Custom Dialog Box in Android",
+      "duration": 1003
+    },
+    {
+      "id": "r3MC_LysGyk",
+      "title": "Listview in Android - Android Development in Hindi",
+      "duration": 981
+    },
+    {
+      "id": "W_oeLC-grtE",
+      "title": "RecyclerView in Android – RecyclerView Tutorial in Hindi   #1",
+      "duration": 201
+    },
+    {
+      "id": "gVgIhAE6zpo",
+      "title": "Advantages of RecyclerView  - RecyclerView in Android #2",
+      "duration": 451
+    },
+    {
+      "id": "YxZ7Dm2HD-A",
+      "title": "Code Logic of RecyclerView  - RecyclerView in Android #3",
+      "duration": 790
+    },
+    {
+      "id": "MuxRE8sh9mg",
+      "title": "CardView in Android  -  Layout Sample for RecyclerView - #4",
+      "duration": 1426
+    },
+    {
+      "id": "881Gc3-YxBg",
+      "title": "Model Class in RecyclerView - POJO Class - RecyclerView in Android #5",
+      "duration": 353
+    },
+    {
+      "id": "4bLtV66mVuI",
+      "title": "RecyclerView Adapter - RecyclerView Tutorial #6",
+      "duration": 1151
+    },
+    {
+      "id": "BAO_qS3YvtE",
+      "title": "RecyclerView Code in MainActivity - Items insertion in RecyclerView  - #7",
+      "duration": 420
+    },
+    {
+      "id": "SfdlWE6tKs4",
+      "title": "LinearLayoutManager in RecyclerView - RecyclerView in Android #8",
+      "duration": 654
+    },
+    {
+      "id": "TrtELwVsA-U",
+      "title": "GridLayoutManager in RecyclerView - Span Concept in Grid -  #9",
+      "duration": 212
+    },
+    {
+      "id": "f0VahR4Alio",
+      "title": "StaggeredLayoutManager in RecyclerView in Android #10",
+      "duration": 383
+    },
+    {
+      "id": "wZa38uU_cW8",
+      "title": "OnClickListner on Image and Text in RecyclerView -  RecyclerView in Android #11",
+      "duration": 870
+    },
+    {
+      "id": "3YttyHzWg8k",
+      "title": "onItemTouchListner on RecyclerView - #12",
+      "duration": 942
+    },
+    {
+      "id": "S4KYssHsgIQ",
+      "title": "OnLongItemClick in RecyclerView Items - RecyclerView in Android #13",
+      "duration": 412
+    },
+    {
+      "id": "bXzNIUKYHF0",
+      "title": "Android Studio Tutorial - Bottom Sheet in Android hindi",
+      "duration": 827
+    },
+    {
+      "id": "DwWcvumdCNM",
+      "title": "Fragments in Android App Development - Fragment Tutorial in Android #1",
+      "duration": 755
+    },
+    {
+      "id": "S1YPkTn3IlI",
+      "title": "Fragment Usage & Life Cycle of Fragment - Fragment Tutorial in Android #2",
+      "duration": 425
+    },
+    {
+      "id": "RaGaiFzthkA",
+      "title": "How to make fragment in Android – Fragment Tutorial in Android #3",
+      "duration": 305
+    },
+    {
+      "id": "n-5T-Gf27gc",
+      "title": "Fragment Manager - Fragment Transition -Fragment Tutorial in Android #4",
+      "duration": 467
+    },
+    {
+      "id": "UTaAJdv9apA",
+      "title": "Fragment App Logic - Fragment Tutorial in Android #5",
+      "duration": 302
+    },
+    {
+      "id": "DapqUhBcxvM",
+      "title": "Fragments - Fragments App in Java Complete Example - Fragment Tutorial in Android #6",
+      "duration": 1553
+    },
+    {
+      "id": "kc6HDB-K2Pg",
+      "title": "How to use Fragment in XML – Fragment Tutorial in Android #7",
+      "duration": 305
+    },
+    {
+      "id": "FrZ-z-PzDrA",
+      "title": "How to Code in Fragment - GetContext and FindViewById Solution - Fragment Tutorial in Android #8",
+      "duration": 844
+    },
+    {
+      "id": "V4QpwRhmXP0",
+      "title": "Navigation Drawer Android Studio - Navigation Drawer with Navigation Components",
+      "duration": 2100
+    },
+    {
+      "id": "yopybmBGMog",
+      "title": "News App - WebView with WebView Controller",
+      "duration": 890
+    },
+    {
+      "id": "f8GDrrcbN3Q",
+      "title": "How to use Intent in  Navigation Components - Advance Fragment Replacing",
+      "duration": 299
+    },
+    {
+      "id": "NqP98fPsvIc",
+      "title": "Creating Tabs in Android Studio with Tabbed Activity - Android Tutorial in Hindi",
+      "duration": 2054
+    },
+    {
+      "id": "dZD1CZuuqww",
+      "title": "Shared Preferences in Android  - Save Settings using SharedPreferences",
+      "duration": 1401
+    },
+    {
+      "id": "9-DaB1J1IOY",
+      "title": "Add multiple languages in Android app - Android Tutorial in Hindi",
+      "duration": 1707
+    },
+    {
+      "id": "HDFSMwebrD8",
+      "title": "Android Studio Tutorial - Bottom Navigation Bar with Fragment in Hindi",
+      "duration": 1331
+    },
+    {
+      "id": "hC_AjmkuTU4",
+      "title": "View Binding in Android",
+      "duration": 1184
+    },
+    {
+      "id": "Fe3sJ4-PY_M",
+      "title": "Android Studio Tutorial - Masking in Android",
+      "duration": 784
+    },
+    {
+      "id": "ce2bD0JN9UQ",
+      "title": "Android Studio Tutorial - Country Picker in Android",
+      "duration": 794
+    },
+    {
+      "id": "JkblErXt1r4",
+      "title": "Android App Development Tutorial in Hindi  - Food Ordering App using SQlite Database",
+      "duration": 12622
+    },
+    {
+      "id": "S9Y_wjejNp0",
+      "title": "Online image App Tutorial in Android Studio - Android App Development Tutorial in Hindi",
+      "duration": 1845
+    },
+    {
+      "id": "b1bGrWrx5Mo",
+      "title": "Firebase in Android - Firebase in Android Studio - Get started with firebase in Hindi",
+      "duration": 2778
+    },
+    {
+      "id": "aghEsAJVrjQ",
+      "title": "Material Design Login and Register Android Studio – WhatsApp Tutorial #2",
+      "duration": 1974
+    },
+    {
+      "id": "apPKPbpL-ew",
+      "title": "Firebase - Firebase Email Authentication Android - WhatsApp Tutorial #3",
+      "duration": 2080
+    },
+    {
+      "id": "zTURn1glCxQ",
+      "title": "Firebase Auth in  Android - SignIn - WhatsApp Tutorial #4",
+      "duration": 912
+    },
+    {
+      "id": "NztkdoP6rtQ",
+      "title": "Firebase Google Authentication - Android Google Sign in",
+      "duration": 1220
+    },
+    {
+      "id": "d2_bcbUbCtc",
+      "title": "Android  Development Tutorial for Beginners - Complete WhatsApp Chatting App - Chatting app - Hindi",
+      "duration": 22953
+    },
+    {
+      "id": "TqE8Ji_R_Qw",
+      "title": "Social Media App Tutorial in Android Hindi - Android Studio Tutorial for Beginners",
+      "duration": 33530
+    },
+    {
+      "id": "c0bkqJdf4YU",
+      "title": "Push Notification in Android",
+      "duration": 1951
+    },
+    {
+      "id": "kWeeWOlzEKM",
+      "title": "Android Studio Tutorial - Upload Image using Camera - Get Image from Gallery",
+      "duration": 1190
+    },
+    {
+      "id": "35ZzyRY7FlU",
+      "title": "What is an API - Rest API in Android App Development",
+      "duration": 2290
+    },
+    {
+      "id": "ymF3hWFz-Mk",
+      "title": "API Course in Android - API Development using PHP and Implementation in Android App",
+      "duration": 1977
+    },
+    {
+      "id": "tWpJe5t167Q",
+      "title": "APIs for Beginners - Create Add API using PHP - API Testing on Postman",
+      "duration": 1942
+    },
+    {
+      "id": "FrQi-kd7eQc",
+      "title": "API for Beginner - Develop Update API using PHP for Poetry App",
+      "duration": 1089
+    },
+    {
+      "id": "R19B3PHoAJU",
+      "title": "What is an API - Develop Delete API for Poetry App using PHP",
+      "duration": 1593
+    },
+    {
+      "id": "LF6o8ry1d6I",
+      "title": "APIs for Beginner - Develop Read All Data API for Poetry App - Hindi",
+      "duration": 705
+    },
+    {
+      "id": "bTV1URwmaJ0",
+      "title": "API Implementation in Android App - Poetry App using APIs - Part 1",
+      "duration": 4578
+    },
+    {
+      "id": "uKTiAWVEheU",
+      "title": "API Implementation in Android App - Poetry App using API  - Part 2",
+      "duration": 5877
+    },
+    {
+      "id": "mufbi0A6EuI",
+      "title": "OTP Verification Code View in Android Studio - Hindi",
+      "duration": 683
+    },
+    {
+      "id": "kxiexC3EA8s",
+      "title": "How to Implement Google Map in Android Studio - Google Maps in Hindi",
+      "duration": 998
+    },
+    {
+      "id": "g6SkGb1R9w0",
+      "title": "ADs in Android - Google Admob Ads Implementation",
+      "duration": 3363
+    },
+    {
+      "id": "zKLnt_HPDxY",
+      "title": "🏆How to Earn from Mobile App - 5 ways to Learn from Apps",
+      "duration": 143
+    },
+    {
+      "id": "Er41x5Nkl1M",
+      "title": "How to Change Android App Launcher Icon - How to add logo in android studio",
+      "duration": 740
+    },
+    {
+      "id": "Qx5SLI00sKA",
+      "title": "Create App Screenshot Screens for Play Store - Online Screenshots",
+      "duration": 863
+    },
+    {
+      "id": "kBAG5a5HjJo",
+      "title": "How to Publish App on Play Store - Upload Android App on Google Play Store",
+      "duration": 1761
+    },
+    {
+      "id": "Y5j0l4k3tFc",
+      "title": "How to Update App on Play Store - Update app on Google Play Console - Hindi",
+      "duration": 394
+    },
+    {
+      "id": "Nq-jxgZmFJ8",
+      "title": "How to Change App icon in Android Studio - Neat Roots",
+      "duration": 276
+    },
+    {
+      "id": "JZcHvMkpDEU",
+      "title": "How to Share Android Project  - Two ways of Sharing Android Project App",
+      "duration": 305
+    },
+    {
+      "id": "zZRGHVTgjNI",
+      "title": "Build Computer for Android App Develpment 2026",
+      "duration": 1390
+    }
+  ]
+}

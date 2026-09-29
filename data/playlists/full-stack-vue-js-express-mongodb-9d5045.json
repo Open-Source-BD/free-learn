@@ -1,0 +1,25 @@
+{
+  "courseId": "full-stack-vue-js-express-mongodb-9d5045",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:53.962Z",
+  "title": "Full Stack Vue.js, Express & MongoDB",
+  "channel": "Traversy Media",
+  "videos": [
+    {
+      "id": "j55fHUJqtyw",
+      "title": "Full Stack Vue.js, Express & MongoDB [1] - Express API",
+      "duration": 1530
+    },
+    {
+      "id": "X-JZ-QPApUs",
+      "title": "Full Stack Vue.js, Express & MongoDB [2] - Vue Frontend",
+      "duration": 1726
+    },
+    {
+      "id": "W-b9KGwVECs",
+      "title": "Full Stack Vue.js, Express & MongoDB [3] - Prepare & Deploy",
+      "duration": 916
+    }
+  ]
+}

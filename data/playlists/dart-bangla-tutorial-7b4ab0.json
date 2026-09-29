@@ -1,0 +1,250 @@
+{
+  "courseId": "dart-bangla-tutorial-7b4ab0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:28.735Z",
+  "title": "Dart bangla tutorial | Learn dart from scratch | Dart Programming A to Z",
+  "channel": "Learn Hunter",
+  "videos": [
+    {
+      "id": "NVXVh78px3A",
+      "title": "01. Dart bangla tutorial (Overview)",
+      "duration": 301
+    },
+    {
+      "id": "wO6-K7eIDS8",
+      "title": "02. Dart bangla tutorial (Environment Setup)",
+      "duration": 464
+    },
+    {
+      "id": "0y4MbXorNKA",
+      "title": "03. dart bangla tutorial (first program)",
+      "duration": 361
+    },
+    {
+      "id": "Whlo0vHJ--w",
+      "title": "04. Dart bangla tutorial (Comments)",
+      "duration": 310
+    },
+    {
+      "id": "ALpJSCzxZmc",
+      "title": "05. Dart programming bangla tutorial (Data Type)",
+      "duration": 427
+    },
+    {
+      "id": "L5QVqjkC7KM",
+      "title": "06. Dart programming bangla tutorial (Variable)",
+      "duration": 420
+    },
+    {
+      "id": "HereuDZi2rk",
+      "title": "07. Dart programming bangla tutorial (Const , Final)",
+      "duration": 348
+    },
+    {
+      "id": "ACTSW1IS5dI",
+      "title": "08. Dart programming bangla tutorial (Operators)",
+      "duration": 319
+    },
+    {
+      "id": "BnZ0cASbksA",
+      "title": "09. Dart programming bangla tutorial (Arithematic Operator)",
+      "duration": 307
+    },
+    {
+      "id": "3A0IfN57Npk",
+      "title": "10. Dart programming bangla tutorial (Relational Operator)",
+      "duration": 349
+    },
+    {
+      "id": "LVECNQ2Q2Wg",
+      "title": "11. Dart programming bangla tutorial (Tes type Operator)",
+      "duration": 239
+    },
+    {
+      "id": "Ne3I5vhCLZY",
+      "title": "12 Dart programming bangla tutorial (Assignment Operator)",
+      "duration": 405
+    },
+    {
+      "id": "VA1pCD83TnQ",
+      "title": "13. Dart programming bangla tutorial (Logical Operator)",
+      "duration": 329
+    },
+    {
+      "id": "4sk8H5oMs8k",
+      "title": "14. Dart Programming bangla tutorial (Bitwise Operator)",
+      "duration": 267
+    },
+    {
+      "id": "A1VrL2WyEYs",
+      "title": "15. Dart programming bangla tutorial (Conditional Operator)",
+      "duration": 297
+    },
+    {
+      "id": "A3bwiYOPT2s",
+      "title": "16. Dart programming bangla tutorial (Controle Statement)",
+      "duration": 266
+    },
+    {
+      "id": "gVxiRTkOSHs",
+      "title": "17. Dart bangla tutorial (Conditional Statement)",
+      "duration": 363
+    },
+    {
+      "id": "AZykwIcRxaI",
+      "title": "18. Dart bangla tutorial (Switch Case Statement)",
+      "duration": 422
+    },
+    {
+      "id": "cV0wdz0sA3A",
+      "title": "19 Dart bangla tutorial For Loop, For in Loop",
+      "duration": 421
+    },
+    {
+      "id": "3lLVizoa-ZM",
+      "title": "20. Dart bangla tutorial (While , Do While Loop)",
+      "duration": 394
+    },
+    {
+      "id": "Eiq8Uyor_Wg",
+      "title": "21. Dart bangla tutorial ( Lists )",
+      "duration": 523
+    },
+    {
+      "id": "6_S545vcMik",
+      "title": "22. Dart bangla tutorial (Growable and fixed length list)",
+      "duration": 430
+    },
+    {
+      "id": "zlG778ghlHw",
+      "title": "23. Dart bangla tutorial (List Methods Add,addAll ,insert, insertAll)",
+      "duration": 441
+    },
+    {
+      "id": "LZt4qhOfCnQ",
+      "title": "24. Dart bangla tutorial (List remove,replace at update etc)",
+      "duration": 465
+    },
+    {
+      "id": "xVrOsnUB-VA",
+      "title": "25.Dart bangla tutorial (SET) #dart programming",
+      "duration": 391
+    },
+    {
+      "id": "G1pwbEkvTow",
+      "title": "26. Dart bangla tutorial (SET Add,addAll, contains,elementAt etc)",
+      "duration": 429
+    },
+    {
+      "id": "VSPvR7EJzG0",
+      "title": "27. Dart bangla tutorial Set (Iterate,union,intersection,remove,clear)",
+      "duration": 399
+    },
+    {
+      "id": "6p3U6U0SmN0",
+      "title": "28. Dart bangla tutorial (Map)",
+      "duration": 360
+    },
+    {
+      "id": "V1AlSO-DEv0",
+      "title": "29. Dart bangla tutorial (Runes)",
+      "duration": 412
+    },
+    {
+      "id": "llTAGwTF91Y",
+      "title": "30. Dart bangla tutorial (Function) #dart function",
+      "duration": 382
+    },
+    {
+      "id": "zH_kSlDrh3g",
+      "title": "31.Dart bangla tutorial (Function with Parameter)",
+      "duration": 351
+    },
+    {
+      "id": "7WxNgxE_dBA",
+      "title": "32. Dart bangla tutorial (Main Function)",
+      "duration": 247
+    },
+    {
+      "id": "Yt1E-ZtqoVk",
+      "title": "33.Dart bangla tutorial (Anonymous Function)",
+      "duration": 220
+    },
+    {
+      "id": "_o7FYLAyOEc",
+      "title": "34.Dart bangla tutorial (Recursive Function)",
+      "duration": 360
+    },
+    {
+      "id": "l--kmRFpbuI",
+      "title": "35. Dart bangla tutorial OOP (Class,Methods,Property) | #OOP",
+      "duration": 392
+    },
+    {
+      "id": "Xd16mGOlZgg",
+      "title": "36. Dart bangla tutorial OOP ( Object )",
+      "duration": 499
+    },
+    {
+      "id": "dYnFoTcT7ck",
+      "title": "37. Dart bangla tutorial OOP (Constructor) #OOP #constructor",
+      "duration": 471
+    },
+    {
+      "id": "qPzgi9VzJH0",
+      "title": "38. Dart bangla tutorial OOP (Argument, No argument constructor) #oop",
+      "duration": 372
+    },
+    {
+      "id": "iHPjqX1zFBY",
+      "title": "39. Dart bangla tutorial OOP (Inheritence) #OOP #Inheritence",
+      "duration": 614
+    },
+    {
+      "id": "HEZ8ZZdog0U",
+      "title": "40. Dart bangla tutorial OOP This keyword #OOP #this keyword",
+      "duration": 368
+    },
+    {
+      "id": "Nq3764L4AdU",
+      "title": "41. Dart bangla tutorial OOP (static keyword) #OOP #static keyword",
+      "duration": 535
+    },
+    {
+      "id": "4-JtBM59oJc",
+      "title": "42. Dart bangla tutorial OOP (super keyword) #OOP #super keyword",
+      "duration": 364
+    },
+    {
+      "id": "B2OtTWrBEzM",
+      "title": "43. Dart bangla tutorial OOP (Super Constructor)",
+      "duration": 509
+    },
+    {
+      "id": "Qb2L0-eVCVs",
+      "title": "44. Dart bangla tutorial OOP (Static Method)",
+      "duration": 408
+    },
+    {
+      "id": "dLWZf8Da9q0",
+      "title": "45. Dart bangla tutorial (Method Overriding)",
+      "duration": 329
+    },
+    {
+      "id": "jofgVaSSFYc",
+      "title": "46. dart bangla tutorial OOP (Abstract Keyword or Class)",
+      "duration": 564
+    },
+    {
+      "id": "_hVGOC1_rUw",
+      "title": "47. dart bangla tutorial OOP ( Interface )",
+      "duration": 367
+    },
+    {
+      "id": "5hhlglLgKDY",
+      "title": "48. Dart bangla tutorial OOP (Multiple Inheritance By Implements keyword) #implements keyword",
+      "duration": 569
+    }
+  ]
+}

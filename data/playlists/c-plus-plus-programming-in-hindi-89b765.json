@@ -1,0 +1,940 @@
+{
+  "courseId": "c-plus-plus-programming-in-hindi-89b765",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhijXuOfBSdQgK296Y7wUDWLn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:51.998Z",
+  "title": "C++ Programming in Hindi",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "rlO2tQSjRzM",
+      "title": "1. Introduction to C++ (Hindi)",
+      "duration": 1059
+    },
+    {
+      "id": "KI0PPCeKzLw",
+      "title": "2. How to install Code Blocks and How to Create Project in Code Blocks C++ (Hindi)",
+      "duration": 185
+    },
+    {
+      "id": "i4VudUm-Wsw",
+      "title": "3. Why do we use iostream and namespace in C++ Programming (Hindi)",
+      "duration": 396
+    },
+    {
+      "id": "sAMI45bmXJ8",
+      "title": "4. Built in Data Type Int, Float, Char, Double in C++ (Hindi)",
+      "duration": 898
+    },
+    {
+      "id": "NWiZxVoZ2lA",
+      "title": "5. Output Statement - cout in C++ Programming (Hindi)",
+      "duration": 562
+    },
+    {
+      "id": "ms4wPgS3q2s",
+      "title": "6. Input Statement - cin in C++ Programming (Hindi)",
+      "duration": 257
+    },
+    {
+      "id": "c2_08yoUCHg",
+      "title": "7. Arithmetic Operators in C++ (Hindi)",
+      "duration": 310
+    },
+    {
+      "id": "2xw1BE-nKTw",
+      "title": "8. Relational Operators in C++ (Hindi)",
+      "duration": 213
+    },
+    {
+      "id": "JVL6xEzOCrE",
+      "title": "9. Logical Operators in C++ (Hindi)",
+      "duration": 479
+    },
+    {
+      "id": "LMwzjG2Od9A",
+      "title": "10. Bitwise Operators in C++ (Hindi)",
+      "duration": 162
+    },
+    {
+      "id": "VbefM5C18Og",
+      "title": "11. Precedence of Operators in C++ (Hindi)",
+      "duration": 230
+    },
+    {
+      "id": "VFxzCQ1hZMA",
+      "title": "12. Increment and Decrement Operators in C++ (Hindi)",
+      "duration": 352
+    },
+    {
+      "id": "Cf6CmiqD7DY",
+      "title": "13. Assignment Operator in C++ (Hindi)",
+      "duration": 146
+    },
+    {
+      "id": "ccr5bUYhHhk",
+      "title": "14. Sizeof Operator in C++ (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "0vxx3ebRleM",
+      "title": "15. Comma Operator in C++ (Hindi)",
+      "duration": 75
+    },
+    {
+      "id": "4T3KQDnyyRc",
+      "title": "16. Escape Sequence in C++ (Hindi)",
+      "duration": 103
+    },
+    {
+      "id": "4bX9ii4xpTo",
+      "title": "17. How to Write C++ Code in Turbo C++ IDE (Hindi)",
+      "duration": 513
+    },
+    {
+      "id": "AICXRKdsQcM",
+      "title": "18. Implicit and Explicit Conversion in C++ (Hindi)",
+      "duration": 265
+    },
+    {
+      "id": "QHOOyxWCb7c",
+      "title": "19. Punctuators in C++ (Hindi)",
+      "duration": 45
+    },
+    {
+      "id": "HW60FmS22G0",
+      "title": "20. Local and Global Variable in C++ (Hindi)",
+      "duration": 118
+    },
+    {
+      "id": "sSzjDLJvif4",
+      "title": "21. If statement in C++ (Hindi)",
+      "duration": 143
+    },
+    {
+      "id": "25pQ6YIbAz4",
+      "title": "22. Nested if Statement in C++ (Hindi)",
+      "duration": 231
+    },
+    {
+      "id": "7GTNacOlopI",
+      "title": "23. If Else Statement in C++ (Hindi)",
+      "duration": 113
+    },
+    {
+      "id": "q93otS8cN8s",
+      "title": "24. Else if Statement in C++ (Hindi)",
+      "duration": 93
+    },
+    {
+      "id": "jMTW81upgnk",
+      "title": "25. For Loop in C++ (Hindi)",
+      "duration": 247
+    },
+    {
+      "id": "rIn_EASK9sY",
+      "title": "26. Example of For Loop in C++ (Hindi)",
+      "duration": 247
+    },
+    {
+      "id": "ShTO89oO0FI",
+      "title": "27. Nested For Loop in C++ (Hindi)",
+      "duration": 360
+    },
+    {
+      "id": "BavvLk70_o4",
+      "title": "28. While Loop in C++ (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "ovawvAbwF2A",
+      "title": "29. Example of While Loop in C++ (Hindi)",
+      "duration": 451
+    },
+    {
+      "id": "6fffA6qYUzE",
+      "title": "30. Do While Loop in C++ (Hindi)",
+      "duration": 268
+    },
+    {
+      "id": "ig46mAAr7Ss",
+      "title": "31. Break Statement in C++ (Hindi)",
+      "duration": 205
+    },
+    {
+      "id": "ToUHr_E-7rE",
+      "title": "32. Continue Statement in C++ (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "aV52HVlSQnQ",
+      "title": "33. Switch Statement in C++ (Hindi)",
+      "duration": 318
+    },
+    {
+      "id": "OHfdCAWdOHY",
+      "title": "34. Comments in C++ (Hindi)",
+      "duration": 95
+    },
+    {
+      "id": "mLBG3OcVtFg",
+      "title": "36. One D char Array for string in C++ (Hindi)",
+      "duration": 139
+    },
+    {
+      "id": "hPXBY2H62FE",
+      "title": "37. Two D Array in C++ (Hindi)",
+      "duration": 767
+    },
+    {
+      "id": "-EhrD9fCbI4",
+      "title": "38. Two D char Array for String in C++ (Hindi)",
+      "duration": 281
+    },
+    {
+      "id": "8FSLxh2l_U4",
+      "title": "39. Function and Their Three major stuffs in C++ (Hindi)",
+      "duration": 490
+    },
+    {
+      "id": "dEsBMd0SELA",
+      "title": "40. Example of Function and Their Three major stuffs in C++ (Hindi)",
+      "duration": 449
+    },
+    {
+      "id": "wIAKSjacnwI",
+      "title": "41. I am Void in C++ (Hindi)",
+      "duration": 114
+    },
+    {
+      "id": "LqL73RjKByo",
+      "title": "42. Inline Function in C++ (Hindi)",
+      "duration": 373
+    },
+    {
+      "id": "BGdbUGC_D_0",
+      "title": "43. Pointer in C++ (Hindi)",
+      "duration": 300
+    },
+    {
+      "id": "GmZ4QqrVuig",
+      "title": "44. Structure in C++ (Hindi)",
+      "duration": 313
+    },
+    {
+      "id": "MeEpyjdDz_I",
+      "title": "45. Union in C++ (Hindi)",
+      "duration": 403
+    },
+    {
+      "id": "yhQKHUZw_Us",
+      "title": "46. Like it or Hate it but must watch it",
+      "duration": 342
+    },
+    {
+      "id": "lQY94ZB2J_Q",
+      "title": "47. OOP Concept in C++ (Hindi)",
+      "duration": 112
+    },
+    {
+      "id": "gTc-PF0klnU",
+      "title": "48. Class and Defining a Class in C++ (Hindi)",
+      "duration": 654
+    },
+    {
+      "id": "43EUCCRC4_U",
+      "title": "49. Object and Object Declaration in C++ (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "sadgqMnz__s",
+      "title": "50. Data Member and Member Functions in C++ (Hindi)",
+      "duration": 196
+    },
+    {
+      "id": "1atgzCMm_dw",
+      "title": "51. Encapsulation in C++ (Hindi)",
+      "duration": 199
+    },
+    {
+      "id": "5aoE_Jg7UT0",
+      "title": "52. Access Specifiers in C++ (Hindi)",
+      "duration": 140
+    },
+    {
+      "id": "-VFdf5RsFb4",
+      "title": "53. Access Class Member using Objects in C++ (Hindi)",
+      "duration": 212
+    },
+    {
+      "id": "9GpE_bzqHR8",
+      "title": "54. Member Function in C++ (Hindi)",
+      "duration": 497
+    },
+    {
+      "id": "KlxA8WJm_fU",
+      "title": "55. Finally an Example of All above Theories related to Class and Objects in C++ (Hindi)",
+      "duration": 583
+    },
+    {
+      "id": "uel60YxxAPM",
+      "title": "56. Nesting of Member Function in C++ (Hindi)",
+      "duration": 566
+    },
+    {
+      "id": "wNAnuvkU5GU",
+      "title": "57. Pass by Value and Pass by Address in C++ (Hindi)",
+      "duration": 496
+    },
+    {
+      "id": "o8rhkH7oiZU",
+      "title": "58. Reference Variable in C++ (Hindi)",
+      "duration": 306
+    },
+    {
+      "id": "_Dygi6aIgrE",
+      "title": "59. Pass by Reference in C++ (Hindi)",
+      "duration": 417
+    },
+    {
+      "id": "yd3P08EQyNo",
+      "title": "60. Array within Class in C++ (Hindi)",
+      "duration": 577
+    },
+    {
+      "id": "87GCwcQe9Sk",
+      "title": "61. Example of Array within Class in C++ (Hindi)",
+      "duration": 633
+    },
+    {
+      "id": "DvvguDjFF9E",
+      "title": "62. Array of Object in C++ (Hindi)",
+      "duration": 400
+    },
+    {
+      "id": "-YoKPASPiaA",
+      "title": "63. Example 1 Array of Object in C++ (Hindi)",
+      "duration": 436
+    },
+    {
+      "id": "AdHFWadxxYw",
+      "title": "64. Example 2 Array of Object in C++ (Hindi)",
+      "duration": 679
+    },
+    {
+      "id": "4vbIVGXkTR4",
+      "title": "65. Object as function arguments by value in C++ (Hindi)",
+      "duration": 623
+    },
+    {
+      "id": "BjTRZ8R6FZ4",
+      "title": "66. Example 1 Object as function arguments by value in C++ (Hindi)",
+      "duration": 303
+    },
+    {
+      "id": "BK0rW979CEE",
+      "title": "67. Example 2 object as function arguments (by value) in C++ (Hindi)",
+      "duration": 323
+    },
+    {
+      "id": "3HhCJSB93KU",
+      "title": "68. Object as function arguments by reference in C++ (Hindi)",
+      "duration": 270
+    },
+    {
+      "id": "EQlHdHScjjU",
+      "title": "69. Example of Object as function arguments by reference in C++ (Hindi)",
+      "duration": 410
+    },
+    {
+      "id": "jg7osPU_CA8",
+      "title": "70. Returning object and Function definition outside class in C++ (Hindi)",
+      "duration": 384
+    },
+    {
+      "id": "Tg-kDC_OA8U",
+      "title": "71. Example of Returning object and function definition outside class in C++ (Hindi)",
+      "duration": 490
+    },
+    {
+      "id": "d5VIhm9RZoo",
+      "title": "72. Example of  Returning object and function definition inside class in C++ (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "KBKE0CN07-k",
+      "title": "73. Introduction to Friend Function in C++ (Hindi)",
+      "duration": 454
+    },
+    {
+      "id": "J4c3ccV_8gM",
+      "title": "74. Example of Friend Function in C++ (Hindi)",
+      "duration": 565
+    },
+    {
+      "id": "E7P3pezDN4g",
+      "title": "75. Member function of one class can be friend functions of another class in C++ (Hindi)",
+      "duration": 694
+    },
+    {
+      "id": "ETx5O6W3RxY",
+      "title": "76. Operate on Objects of two Different class using friend Function in C++ (Hindi)",
+      "duration": 550
+    },
+    {
+      "id": "_HSHJyb7Bn8",
+      "title": "77. Why do we use friend function in C++ (Hindi)",
+      "duration": 295
+    },
+    {
+      "id": "hKhMHPZp08w",
+      "title": "78. All the member function of one class as the friend of another class in C++ (Hindi)",
+      "duration": 773
+    },
+    {
+      "id": "a10DwWXxEKg",
+      "title": "79. Special Properties Possessed by Friend Function in C++ (Hindi)",
+      "duration": 281
+    },
+    {
+      "id": "pZaw_eG5iJU",
+      "title": "80. Returning Object with friend inside function definition in C++ (Hindi)",
+      "duration": 687
+    },
+    {
+      "id": "HlFKBEnGraA",
+      "title": "81. Returning Object with friend outside function definition in C++ (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "Wx9cp1CSYgQ",
+      "title": "82. Friend function by reference in C++ (Hindi)",
+      "duration": 632
+    },
+    {
+      "id": "-jNHnuLxar4",
+      "title": "83. Constant Variable in C++ (Hindi)",
+      "duration": 496
+    },
+    {
+      "id": "qydHlKgoqYM",
+      "title": "84. Constant Object in C++ (Hindi)",
+      "duration": 207
+    },
+    {
+      "id": "oURyxBdonK8",
+      "title": "85. Static Data Member in C++ Hindi",
+      "duration": 614
+    },
+    {
+      "id": "4rG1AQqqbgQ",
+      "title": "86. Static Member Function in C++ (Hindi)",
+      "duration": 651
+    },
+    {
+      "id": "DPNV7ph3MMA",
+      "title": "87. Parameter and Arguments in C++ (Hindi)",
+      "duration": 140
+    },
+    {
+      "id": "UX3VVcCMXIQ",
+      "title": "88. What is Constructor in C++ (Hindi)",
+      "duration": 357
+    },
+    {
+      "id": "ymm-XHeAy7s",
+      "title": "89. Charateristics and Limitation of Constructor in C++ (Hindi)",
+      "duration": 325
+    },
+    {
+      "id": "Lsz-Cj1gass",
+      "title": "90. Declaration of Constructor Inside and Outside Class in C++ Hindi",
+      "duration": 422
+    },
+    {
+      "id": "Iy85fMzln7g",
+      "title": "91. Deafult Constructor in C++ (Hindi)",
+      "duration": 209
+    },
+    {
+      "id": "IV7aUG2mho8",
+      "title": "92. Parameterized Constructor in C++ (Hindi)",
+      "duration": 407
+    },
+    {
+      "id": "QJdi7m6J8OA",
+      "title": "93. I am unable to create object in C++ Hindi",
+      "duration": 281
+    },
+    {
+      "id": "TxeEpXrF8zs",
+      "title": "94. Copy Constructor in C++ (Hindi)",
+      "duration": 499
+    },
+    {
+      "id": "zdm4bkdC1BE",
+      "title": "95. Constructor Overloading in C++ (Hindi)",
+      "duration": 592
+    },
+    {
+      "id": "usOAPcm9_Og",
+      "title": "96. Destructor and Its Characteristics in C++ (Hindi)",
+      "duration": 309
+    },
+    {
+      "id": "PThCxyCOZ1s",
+      "title": "97. Declaration of Destructor in C++ (Hindi)",
+      "duration": 98
+    },
+    {
+      "id": "EbWyZr9l6TI",
+      "title": "98. Example of Destructor in C++ (Hindi)",
+      "duration": 622
+    },
+    {
+      "id": "XDeg2Ef20e4",
+      "title": "99. Inheritance in C++ (Hindi)",
+      "duration": 310
+    },
+    {
+      "id": "KyPWDWzzZB4",
+      "title": "100. Why do we need Inheritance in C++ (Hindi)",
+      "duration": 412
+    },
+    {
+      "id": "k8DpAXF-DYE",
+      "title": "101. Declaration of Derived Class in C++ (Hindi)",
+      "duration": 217
+    },
+    {
+      "id": "lYg-8SJyGTY",
+      "title": "102. Visibility Mode in C++ (Hindi)",
+      "duration": 811
+    },
+    {
+      "id": "w2SlQnBzkT4",
+      "title": "103. Type of inheritance in C++ (Hindi)",
+      "duration": 28
+    },
+    {
+      "id": "v_LkIRHVSJw",
+      "title": "104. Single Inheritance in C++ (Hindi)",
+      "duration": 187
+    },
+    {
+      "id": "klksKkN0tGg",
+      "title": "105. Example of Single Inheritance Public Mode in C++ (Hindi)",
+      "duration": 532
+    },
+    {
+      "id": "w46gk15leuE",
+      "title": "106. Example of Single Inheritance Private Mode in C++ (Hindi)",
+      "duration": 779
+    },
+    {
+      "id": "fA7BXCAVXss",
+      "title": "107. Multiple Inheritance in C++ (Hindi)",
+      "duration": 98
+    },
+    {
+      "id": "_wmxOiCKkmM",
+      "title": "108. Example of Multiple Inheritance in C++ (Hindi)",
+      "duration": 400
+    },
+    {
+      "id": "ZgV5ZpKehJs",
+      "title": "109. Multi level Inheritance in C++ (Hindi)",
+      "duration": 92
+    },
+    {
+      "id": "i00ejyfb1fM",
+      "title": "110. Example of Multi Level Inheritance in C++ Hindi",
+      "duration": 599
+    },
+    {
+      "id": "WIxSVh5nTdA",
+      "title": "111. Hierarchical Inheritance in C++ (Hindi)",
+      "duration": 65
+    },
+    {
+      "id": "wt4KLV7lpNc",
+      "title": "112. Example of Hierarchical Inheritance in C++ (Hindi)",
+      "duration": 260
+    },
+    {
+      "id": "LnieOGhHiFs",
+      "title": "113. Hybrid Inheritance in C++ (Hindi)",
+      "duration": 176
+    },
+    {
+      "id": "nAKfAAaiIdM",
+      "title": "114. Example of Hybrid Inheritance in C++ (Hindi)",
+      "duration": 529
+    },
+    {
+      "id": "b3qAFGJGxd8",
+      "title": "115. Ambiguity Resolution in Inheritance in C++ (Hindi)",
+      "duration": 325
+    },
+    {
+      "id": "tHSHHf--BNk",
+      "title": "116. Virtual Base Class in C++ (Hindi)",
+      "duration": 511
+    },
+    {
+      "id": "D7gbCRJw-QM",
+      "title": "117. Example of Virtual Base Class in C++ (Hindi)",
+      "duration": 335
+    },
+    {
+      "id": "-32WKREX3Vg",
+      "title": "118. Constructor in Derived Class in C++ (Hindi)",
+      "duration": 115
+    },
+    {
+      "id": "liXrI0FgnJA",
+      "title": "119. Example of Multiple Inheritance's Constructor in Derived Class  in C++ (Hindi)",
+      "duration": 859
+    },
+    {
+      "id": "8u9YSsF5UTU",
+      "title": "120. Order of Execution of Constructors in C++ (Hindi)",
+      "duration": 276
+    },
+    {
+      "id": "TQmi0gZq4MU",
+      "title": "121. Example of Constructor in Derived Class with Virtual Base Class in C++ (Hindi)",
+      "duration": 138
+    },
+    {
+      "id": "eZKjyRYYdio",
+      "title": "122. Example of Constructor in Derived Class with Multilevel Inheritance in C++ (Hindi)",
+      "duration": 373
+    },
+    {
+      "id": "8kAEI_-JhTk",
+      "title": "123. Initialization List in Constructor in C++ (Hindi)",
+      "duration": 587
+    },
+    {
+      "id": "U3BQJvcdJhg",
+      "title": "124. Destructor in Derived Class in C++ (Hindi)",
+      "duration": 344
+    },
+    {
+      "id": "8hQtRPbmtBc",
+      "title": "125. Introduction to Function Overloading in C++ (Hindi)",
+      "duration": 111
+    },
+    {
+      "id": "9TSK_8D5ipM",
+      "title": "126. Function Overloading in terms of type of arguments in C++ (Hindi)",
+      "duration": 564
+    },
+    {
+      "id": "TuZTFlDOFFQ",
+      "title": "127. Function Overloading in terms of number of arguments in C++ (Hindi)",
+      "duration": 251
+    },
+    {
+      "id": "s1E12dpI9AI",
+      "title": "128. Function Overloading Exact Match in C++ (Hindi)",
+      "duration": 267
+    },
+    {
+      "id": "3tKZdU36nng",
+      "title": "129. Function Overloading Match through Promotion in C++ (Hindi)",
+      "duration": 234
+    },
+    {
+      "id": "kzh59WautJM",
+      "title": "130. Function Overloading Match through Standard Conversion in C++ (Hindi)",
+      "duration": 105
+    },
+    {
+      "id": "HZ57Onr14GY",
+      "title": "131. Function overloading Ambiguous in C++ Hindi",
+      "duration": 222
+    },
+    {
+      "id": "XaijrEE_i10",
+      "title": "132. Decimal Number as double or float in C++ (Hindi)",
+      "duration": 154
+    },
+    {
+      "id": "3tX00Q9ie_s",
+      "title": "133 Introduction to Operator overloading in C++ (Hindi)",
+      "duration": 355
+    },
+    {
+      "id": "q9GTL3Mp5nY",
+      "title": "134. Declaration of Operator overloading in C++ (Hindi)",
+      "duration": 274
+    },
+    {
+      "id": "2G2zRiBxea4",
+      "title": "135. Unary Operator overloading in C++ (Hindi)",
+      "duration": 244
+    },
+    {
+      "id": "xTgTuE4beuU",
+      "title": "136. Unary Operator overloading using friend function in C++ (Hindi)",
+      "duration": 256
+    },
+    {
+      "id": "eXl6Ua8N0uE",
+      "title": "137. Binary Operator Overloading in C++ (Hindi)",
+      "duration": 263
+    },
+    {
+      "id": "3K85qhlVKQU",
+      "title": "138. Binary Operator Overloading using friend function in C++ (Hindi)",
+      "duration": 136
+    },
+    {
+      "id": "CiioTkj7Ni8",
+      "title": "139. More about Pointer in C++ (Hindi)",
+      "duration": 897
+    },
+    {
+      "id": "WemTgK7E7Q8",
+      "title": "140. Pointers to Data Member In C++ (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "mgPpo0tD4eM",
+      "title": "141. Pointers to Member Function in C++ (Hindi)",
+      "duration": 371
+    },
+    {
+      "id": "Eix-NopLTb0",
+      "title": "142. Pointers to Objects in C++ (Hindi)",
+      "duration": 493
+    },
+    {
+      "id": "VaL--JFAoyM",
+      "title": "143. Example of Pointers to Object in C++ (Hindi)",
+      "duration": 344
+    },
+    {
+      "id": "4C422VjleYY",
+      "title": "144. this Pointer in C++ (Hindi)",
+      "duration": 451
+    },
+    {
+      "id": "Tu_HXfOzlIU",
+      "title": "145. Where use this pointer in C++ (Hindi)",
+      "duration": 236
+    },
+    {
+      "id": "M1A2mM2qsuk",
+      "title": "146. Returning object using this pointer in C++ (Hindi)",
+      "duration": 510
+    },
+    {
+      "id": "gMry_yO4iPs",
+      "title": "147. Pointer in Derived Class in C++ (Hindi)",
+      "duration": 474
+    },
+    {
+      "id": "jfodcoyUhE8",
+      "title": "148. Example of Pointer in Derived Class in C++ (Hindi)",
+      "duration": 503
+    },
+    {
+      "id": "AiOusjjTKvU",
+      "title": "149. Pointer in Derived Class with same funtion name in C++ (Hindi)",
+      "duration": 165
+    },
+    {
+      "id": "4NYjQVXzvLI",
+      "title": "150. Polymorphism and Type of Polymorphism in C++ (Hindi)",
+      "duration": 133
+    },
+    {
+      "id": "mXhbBlKM3Qk",
+      "title": "151. Compile Time and RunTime Polymorphism in C++ (Hindi)",
+      "duration": 442
+    },
+    {
+      "id": "BnKvXjUro-Q",
+      "title": "152. Virtual Function and Definition in C++ (Hindi)",
+      "duration": 204
+    },
+    {
+      "id": "DZauahsChlM",
+      "title": "153. Rules and Limitation of Virtual Function in C++ (Hindi)",
+      "duration": 221
+    },
+    {
+      "id": "m8xBeeJ-deQ",
+      "title": "154. Example of Virtual Function in C++ (Hindi)",
+      "duration": 527
+    },
+    {
+      "id": "IQ7VOAeRVmw",
+      "title": "155. Pure Virtual Function and Definition in C++ (Hindi)",
+      "duration": 204
+    },
+    {
+      "id": "gWUdyCK8wRU",
+      "title": "156. Characteristics of Pure Virtual Function in C++ (Hindi)",
+      "duration": 106
+    },
+    {
+      "id": "t7TUt6KYR4w",
+      "title": "157. Abstract Base Class in C++ (Hindi)",
+      "duration": 130
+    },
+    {
+      "id": "Ouz_94TleR4",
+      "title": "158. Example of Pure Virtual Function in C++ (Hindi)",
+      "duration": 545
+    },
+    {
+      "id": "ZEuQCR_gfBM",
+      "title": "159. One  D Dynamic Memory Allocation New and Delete in C++ (Hindi)",
+      "duration": 619
+    },
+    {
+      "id": "0t70f53Wk3o",
+      "title": "160. Example of One D Dynamic Memory Allocation (New and Delete Operator) in C++ (Hindi)",
+      "duration": 684
+    },
+    {
+      "id": "yo06asGmFT8",
+      "title": "161. Two D Dynamic Memory Allocation (New and Delete Operator) in C++ (Hindi)",
+      "duration": 281
+    },
+    {
+      "id": "uDnqZPLSXXI",
+      "title": "162. Example of Two D Dynamic Memory Allocation (New and Delete Operator) in C++ (Hindi)",
+      "duration": 469
+    },
+    {
+      "id": "2EtWRrXDZJw",
+      "title": "163. Three D or Multi D Dynamic Memory Allocation in C++ (Hindi)",
+      "duration": 378
+    },
+    {
+      "id": "YbDVpD1U-oY",
+      "title": "164. What is Stream in C++ (Hindi)",
+      "duration": 198
+    },
+    {
+      "id": "AGUxlWPIUOI",
+      "title": "165. Stream Class in C++ (Hindi)",
+      "duration": 503
+    },
+    {
+      "id": "dKAz5I5CvXg",
+      "title": "166. Formatted and Unformatted IO in C++ (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "0aiYOiUH6v8",
+      "title": "167. Get and Put Function in C++ (Hindi)",
+      "duration": 952
+    },
+    {
+      "id": "_mWW2zMWBfI",
+      "title": "168. Getline function in C++ (Hindi)",
+      "duration": 520
+    },
+    {
+      "id": "ff7h53svUg8",
+      "title": "169. Ignore Function in C++ (Hindi)",
+      "duration": 286
+    },
+    {
+      "id": "ZkgAMV13tN0",
+      "title": "170. Formatted IO in C++ (Hindi)",
+      "duration": 80
+    },
+    {
+      "id": "Mek7M-L3FD0",
+      "title": "171. Width Function in C++ (Hindi)",
+      "duration": 536
+    },
+    {
+      "id": "urAQFx3MG4o",
+      "title": "172. Precision Function in C++ (Hindi)",
+      "duration": 412
+    },
+    {
+      "id": "3bwjaMVGDVQ",
+      "title": "173. Width and Precision in C++ (Hindi)",
+      "duration": 220
+    },
+    {
+      "id": "NjFTzW57A9M",
+      "title": "174. Fill Function in C++ (Hindi)",
+      "duration": 180
+    },
+    {
+      "id": "VBusvQDXUUc",
+      "title": "175. Setf Function in C++ (Hindi)",
+      "duration": 430
+    },
+    {
+      "id": "HT01ygvPY9Q",
+      "title": "176. Example of Setf Function in C++ (Hindi)",
+      "duration": 305
+    },
+    {
+      "id": "AWjfXvR7JEE",
+      "title": "177. Example of setf showpoint function in C++ (Hindi)",
+      "duration": 105
+    },
+    {
+      "id": "cuFjtBdXxio",
+      "title": "178. Stream Manipulator in C++ (Hindi)",
+      "duration": 267
+    },
+    {
+      "id": "o9Fu6n7pfQ4",
+      "title": "179. User defined Manipulators in C++ (Hindi)",
+      "duration": 376
+    },
+    {
+      "id": "9e-Rs2DVaOk",
+      "title": "180. File Handling in C++ (Hindi)",
+      "duration": 296
+    },
+    {
+      "id": "UNqyLCVUlZI",
+      "title": "181. fstream header file and its classes in C++ (Hindi)",
+      "duration": 227
+    },
+    {
+      "id": "vfvWR2knx5M",
+      "title": "182. File Opening Methods in C++ (Hindi)",
+      "duration": 177
+    },
+    {
+      "id": "OPGyOb4quYE",
+      "title": "183. File Opening and Closing using Constructor in C++ (Hindi)",
+      "duration": 497
+    },
+    {
+      "id": "dCHIU9wnAs8",
+      "title": "184. Example of Opening file using constructor in C++ (Hindi)",
+      "duration": 497
+    },
+    {
+      "id": "0sR4yuj3-_Y",
+      "title": "185. File Opening and Closing file using Open function in C++ (Hindi)",
+      "duration": 415
+    },
+    {
+      "id": "vaGZ3DVPfIw",
+      "title": "186. Example of opening file using open function in C++ (Hindi)",
+      "duration": 419
+    },
+    {
+      "id": "JEZCwP3Mscc",
+      "title": "187. Write direct into file in C++ (Hindi)",
+      "duration": 540
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "courseId": "jquery-bangla-series-for-beginners-cb84f7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:44.659Z",
+  "title": "jQuery Bangla video series for beginners",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "jJ8jv9jqSUs",
+      "title": "jQuery bangla tutorial 0 : Welcome to jQuery series",
+      "duration": 138
+    },
+    {
+      "id": "Oj3qIv4q_I8",
+      "title": "jQuery bangla tutorial 1 : Introduction to jQuery",
+      "duration": 396
+    },
+    {
+      "id": "A6aqEGFBlCk",
+      "title": "jQuery bangla tutorial 2 : html selector and text manipulation",
+      "duration": 528
+    },
+    {
+      "id": "eosp4QAbu-U",
+      "title": "jQuery bangla tutorial 3 : attribute manipulation",
+      "duration": 270
+    },
+    {
+      "id": "gP1i2ktn5w4",
+      "title": "jQuery bangla tutorial 4 : CSS Style manipulating",
+      "duration": 362
+    },
+    {
+      "id": "4_WFBUAUCGw",
+      "title": "jQuery bangla tutorial 5 : Event Listener",
+      "duration": 523
+    },
+    {
+      "id": "g4pU5hMQav8",
+      "title": "jQuery bangla tutorial 6 : Login demo project",
+      "duration": 380
+    },
+    {
+      "id": "EKIuEjhRufI",
+      "title": "jQuery bangla tutorial 7 : Animation (part-1)",
+      "duration": 688
+    },
+    {
+      "id": "-HxKcwJZk-E",
+      "title": "jQuery bangla tutorial 8 :  Animation (part-2)",
+      "duration": 318
+    },
+    {
+      "id": "_U0M6x1VNH8",
+      "title": "jQuery bangla tutorial 9 : calculator project using HTML, CSS, jQuery",
+      "duration": 1064
+    }
+  ]
+}

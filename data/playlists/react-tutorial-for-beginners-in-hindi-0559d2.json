@@ -1,0 +1,605 @@
+{
+  "courseId": "react-tutorial-for-beginners-in-hindi-0559d2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:54.460Z",
+  "title": "React tutorial for beginners in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "9Tz2tY-ZEwQ",
+      "title": "React tutorial in Hindi  #1 Introduction",
+      "duration": 527
+    },
+    {
+      "id": "xmoiyb05eOQ",
+      "title": "react tutorial in Hindi  #2 React js without NPM | React CDN",
+      "duration": 600
+    },
+    {
+      "id": "CTd7BiaI10o",
+      "title": "React tutorial in Hindi  #3 Environment up with Ubuntu",
+      "duration": 544
+    },
+    {
+      "id": "TUN4JONi6wk",
+      "title": "React tutorial in hindi  #3 Environment up with Windows",
+      "duration": 600
+    },
+    {
+      "id": "mjv07O7FO0E",
+      "title": "React tutorial in Hindi #4 Hello world | Make first file",
+      "duration": 408
+    },
+    {
+      "id": "yPrcIFktnes",
+      "title": "React tutorial in Hindi #5 File and folder structure",
+      "duration": 593
+    },
+    {
+      "id": "V53b6SSBICU",
+      "title": "React tutorial in Hindi #6 Package.json in Details",
+      "duration": 444
+    },
+    {
+      "id": "EAvn81qplUk",
+      "title": "React tutorial in Hindi #7 functional Component | what is component",
+      "duration": 675
+    },
+    {
+      "id": "9WdytUmWNKQ",
+      "title": "React tutorial in Hindi #8 Class Component",
+      "duration": 483
+    },
+    {
+      "id": "cxV9d6u0vfU",
+      "title": "React tutorial in Hindi #9 JSX with Reactjs",
+      "duration": 510
+    },
+    {
+      "id": "tmt7lf2nCBY",
+      "title": "React tutorial in Hindi #10 Click event and function in ReactJs",
+      "duration": 594
+    },
+    {
+      "id": "p7wZ_4sWZ4s",
+      "title": "React tutorial in Hindi #11 State with functional component",
+      "duration": 698
+    },
+    {
+      "id": "VLsccuwbJOQ",
+      "title": "React tutorial in Hindi #12 State with class component",
+      "duration": 481
+    },
+    {
+      "id": "mpK8M4uJi-4",
+      "title": "React tutorial in Hindi #13 Props with functional component",
+      "duration": 834
+    },
+    {
+      "id": "uOvsgmIPFP0",
+      "title": "React tutorial in Hindi #14 Props in class component",
+      "duration": 799
+    },
+    {
+      "id": "1BHaLDRLQUo",
+      "title": "React tutorial in Hindi #15 Get Input box value",
+      "duration": 497
+    },
+    {
+      "id": "fHJVWtBW6No",
+      "title": "React tutorial in Hindi #16 Hide , Show and Toggle in ReactJs",
+      "duration": 373
+    },
+    {
+      "id": "0_mxKjl9Emc",
+      "title": "React tutorial in Hindi #17 Handle Form | checkbox | input field | select",
+      "duration": 694
+    },
+    {
+      "id": "3IWUZAeBzyc",
+      "title": "React tutorial in Hindi #18 Conditional rendering | If Condition",
+      "duration": 491
+    },
+    {
+      "id": "4PFX52Qmqv8",
+      "title": "React tutorial in Hindi #19 Basic Form validation",
+      "duration": 1059
+    },
+    {
+      "id": "7BsYuB-5YXQ",
+      "title": "React tutorial in Hindi  #20 Pass Function as Props",
+      "duration": 488
+    },
+    {
+      "id": "e2IUZyuNfgk",
+      "title": "React tutorial in Hindi  #21 What is life cycle method",
+      "duration": 368
+    },
+    {
+      "id": "RFEEqUrSecQ",
+      "title": "React tutorial in Hindi  #22 Constructor | First life cycle method",
+      "duration": 451
+    },
+    {
+      "id": "eSKDjVc7QQ4",
+      "title": "React tutorial in Hindi #23 Render life cycle method",
+      "duration": 693
+    },
+    {
+      "id": "BCslNEYCRXc",
+      "title": "React tutorial in Hindi #24 componentDidMount life cycle method in ReactJs",
+      "duration": 577
+    },
+    {
+      "id": "xPiph9AYYRw",
+      "title": "React tutorial in Hindi #25 componentDidUpdate life cycle method in ReactJs",
+      "duration": 767
+    },
+    {
+      "id": "E878PZtIZLY",
+      "title": "React tutorial in Hindi #26 shouldComponentUpdate life cycle method",
+      "duration": 543
+    },
+    {
+      "id": "kpqZ8o3kPk8",
+      "title": "React tutorial  in Hindi #27 componentWillUnmount life cycle method",
+      "duration": 562
+    },
+    {
+      "id": "WoUpht1zcG0",
+      "title": "React tutorial in Hindi #28 Hooks in ReactJs",
+      "duration": 388
+    },
+    {
+      "id": "zJeyz5mIXGQ",
+      "title": "React tutorial in Hindi #29 useEffect Hook in ReactJs",
+      "duration": 540
+    },
+    {
+      "id": "80u8D2-Ro3s",
+      "title": "React tutorial in Hindi #30 useEffect with condition | part 2 | like component did mount",
+      "duration": 775
+    },
+    {
+      "id": "m8ZrNPykXes",
+      "title": "React tutorial in Hindi  #31 style in ReactJs",
+      "duration": 364
+    },
+    {
+      "id": "3ER_2uoR52E",
+      "title": "React tutorial in Hindi #32 Install Bootstrap",
+      "duration": 447
+    },
+    {
+      "id": "1MfE8LEYYZA",
+      "title": "React tutorial in Hindi #33 Array Listing with Map function",
+      "duration": 870
+    },
+    {
+      "id": "83b0JvWlfAE",
+      "title": "React tutorial in Hindi #34 List with Bootstrap Table",
+      "duration": 666
+    },
+    {
+      "id": "i5ihJDBp_Bo",
+      "title": "React tutorial in Hindi #35 Nested List in ReactJs",
+      "duration": 726
+    },
+    {
+      "id": "zKsXVhH6XAg",
+      "title": "React tutorial in Hindi #36 Reuse component in loop",
+      "duration": 568
+    },
+    {
+      "id": "ZlqnQvnj2j4",
+      "title": "React tutorial in Hindi  #37 fragment in ReactJs",
+      "duration": 571
+    },
+    {
+      "id": "GStKM1PQkmI",
+      "title": "React tutorial in Hindi #38 Send Data Child to Parent Component",
+      "duration": 564
+    },
+    {
+      "id": "61z36tIx8sc",
+      "title": "React tutorial in Hindi #39 Pure component in ReactJs",
+      "duration": 710
+    },
+    {
+      "id": "yM2q_joUmNQ",
+      "title": "React tutorial in Hindi #40 useMemo Hook",
+      "duration": 531
+    },
+    {
+      "id": "TL-j3kTam0E",
+      "title": "React tutorial in Hindi #41 Ref with Example",
+      "duration": 578
+    },
+    {
+      "id": "86EkZzXyScQ",
+      "title": "React tutorial in Hindi #42 useRef Hook example",
+      "duration": 443
+    },
+    {
+      "id": "xdywAqqHKio",
+      "title": "React tutorial in Hindi #43 forwardRef example",
+      "duration": 491
+    },
+    {
+      "id": "5QkVq4gd8Mk",
+      "title": "React tutorial in Hindi #44 Controlled Component",
+      "duration": 467
+    },
+    {
+      "id": "ajGbN7zpGQY",
+      "title": "React tutorial in Hindi #45 Uncontrolled Component",
+      "duration": 522
+    },
+    {
+      "id": "VtSzJn41LgM",
+      "title": "React tutorial in Hindi #46 Hight order component (HOC)",
+      "duration": 631
+    },
+    {
+      "id": "nuxZ8k4B2Dk",
+      "title": "React Router v6 tutorial in Hindi 1# getting started | installation",
+      "duration": 725
+    },
+    {
+      "id": "9kPwmUlnYVk",
+      "title": "React Router v6 tutorial in Hindi #2 Links, NaBar, anchor Tag",
+      "duration": 575
+    },
+    {
+      "id": "5vkoov53E0k",
+      "title": "React Router v6 tutorial in Hindi #3 404 Page Not Found  and Redirect",
+      "duration": 344
+    },
+    {
+      "id": "XxHv0OD7ea8",
+      "title": "React Router v6 tutorial in Hindi #4 dynamic Routing with params",
+      "duration": 584
+    },
+    {
+      "id": "_umvdsSxKbg",
+      "title": "React Router v6 tutorial in Hindi #5 Link and Nav Link style",
+      "duration": 425
+    },
+    {
+      "id": "JQcP4F8UKBM",
+      "title": "React Router v6 tutorial in Hindi #6 Active Link",
+      "duration": 391
+    },
+    {
+      "id": "8M7d8T8ee3M",
+      "title": "React Router v6 tutorial in Hindi #7 use SearchParams and  setSearchParmas",
+      "duration": 477
+    },
+    {
+      "id": "WUDIUfq-J2c",
+      "title": "React Router v6 tutorial in Hindi #8 Navigation on Click | Navigating programmatically",
+      "duration": 404
+    },
+    {
+      "id": "gMSqIjigmeI",
+      "title": "React Router v6 tutorial in Hindi #9 Nested Routing",
+      "duration": 601
+    },
+    {
+      "id": "GlP2yASKjLM",
+      "title": "React Router v6 tutorial in Hindi #10 useLocation Hooks | use Location",
+      "duration": 451
+    },
+    {
+      "id": "iM9G0lgXsc4",
+      "title": "React Router v6 tutorial in Hindi #11 Protected Route",
+      "duration": 687
+    },
+    {
+      "id": "iUx7hP9JVs0",
+      "title": "React tutorial in Hindi  #47 Routing Setup",
+      "duration": 533
+    },
+    {
+      "id": "UjHH3sropDY",
+      "title": "React tutorial in Hindi  #48 Routing with Example",
+      "duration": 643
+    },
+    {
+      "id": "LToogBKyVIY",
+      "title": "React tutorial in Hindi #49 Page Not Found - 404 Page",
+      "duration": 543
+    },
+    {
+      "id": "NNiBRYQQd8A",
+      "title": "React tutorial in Hindi #50 Dynamic Routing",
+      "duration": 782
+    },
+    {
+      "id": "K7u0aNj_kKQ",
+      "title": "React tutorial in Hindi #51 fetch API | GET method",
+      "duration": 583
+    },
+    {
+      "id": "zuvgOh5TVIY",
+      "title": "React tutorial in Hindi  #52 What is Postman in Hindi",
+      "duration": 582
+    },
+    {
+      "id": "3xhIcYeRgks",
+      "title": "React tutorial in Hindi  #53 POST Method in Rest API",
+      "duration": 1101
+    },
+    {
+      "id": "2i4HqvyTEag",
+      "title": "React tutorial in Hindi #54 Delete Method in React API",
+      "duration": 588
+    },
+    {
+      "id": "KHgWbPSctRE",
+      "title": "React tutorial in Hindi  #55 Pre-filled form Data",
+      "duration": 495
+    },
+    {
+      "id": "ziFeFibUG3c",
+      "title": "React tutorial in Hindi #56 Update Data with API | Put Method",
+      "duration": 642
+    },
+    {
+      "id": "Nki0Nw_tRVU",
+      "title": "React tutorial in Hindi #57 Previous state in functional component",
+      "duration": 749
+    },
+    {
+      "id": "l8Frb4bz03U",
+      "title": "React tutorial in Hindi #58 Previous Props with Hooks",
+      "duration": 609
+    },
+    {
+      "id": "ldsih80bAJw",
+      "title": "React tutorial in Hindi #58 State with Object | Reactjs Hooks",
+      "duration": 431
+    },
+    {
+      "id": "G00UbCJGSWw",
+      "title": "React js Advanced tutorial in Hindi #4 Context API with example",
+      "duration": 1223
+    },
+    {
+      "id": "6_a27O2WFR0",
+      "title": "react redux tutorial in hindi  #1 introduction",
+      "duration": 420
+    },
+    {
+      "id": "eBRneAJckDY",
+      "title": "react redux tutorial in hindi #2 Redux architecture",
+      "duration": 362
+    },
+    {
+      "id": "uBp5GzzBmCI",
+      "title": "react redux tutorial in Hindi #3 Install redux in react-app",
+      "duration": 438
+    },
+    {
+      "id": "5WaJeX_wlww",
+      "title": "React Redux tutorial in Hindi #4 Props revision",
+      "duration": 496
+    },
+    {
+      "id": "Wu4dYYYAc6A",
+      "title": "React Redux tutorial in Hindi #5 filer folder structure",
+      "duration": 454
+    },
+    {
+      "id": "x1_kJcnMSZg",
+      "title": "React Redux tutorial in Hindi #6 Design for add to cart",
+      "duration": 1229
+    },
+    {
+      "id": "eXV6J04CNio",
+      "title": "React Redux tutorial in Hindi #7 action",
+      "duration": 483
+    },
+    {
+      "id": "M7SUyYsSoyM",
+      "title": "React Redux tutorial in Hindi #8 reducer and rootReducer",
+      "duration": 621
+    },
+    {
+      "id": "l18QRTYMz24",
+      "title": "React Redux tutorial in Hindi #9 Container - mapDispatchToProps -  mapStateToProps",
+      "duration": 484
+    },
+    {
+      "id": "OlTxr6EKKS4",
+      "title": "React Redux tutorial in Hindi #10 complete flow",
+      "duration": 750
+    },
+    {
+      "id": "H4DZ03w-0_U",
+      "title": "React Redux tutorial in Hindi #12 Share Data between components",
+      "duration": 357
+    },
+    {
+      "id": "4r1HIXOQsGY",
+      "title": "React Redux tutorial in hindi #13 Remove to cart",
+      "duration": 484
+    },
+    {
+      "id": "kXh1WpaBqPc",
+      "title": "React js project in hindi # Introduction - Ecommerce Dashboard",
+      "duration": 208
+    },
+    {
+      "id": "SbKmieY3NmE",
+      "title": "React js project in Hindi # Project Setup",
+      "duration": 469
+    },
+    {
+      "id": "FvwB-LrhA2w",
+      "title": "React js project in Hindi # Add Routing in Project",
+      "duration": 732
+    },
+    {
+      "id": "RJwZjkkgCnc",
+      "title": "Laravel with React Project in Hindi  # Make sign up API",
+      "duration": 851
+    },
+    {
+      "id": "67P1XVZlvl8",
+      "title": "React js project in Hindi # Sign up API integration",
+      "duration": 1165
+    },
+    {
+      "id": "FF53s2FVb-Y",
+      "title": "React js project in Hindi # Protected Routes",
+      "duration": 989
+    },
+    {
+      "id": "g2_b5JOy9WQ",
+      "title": "React js project in Hindi # Logout feature",
+      "duration": 504
+    },
+    {
+      "id": "mCSCPw2suFc",
+      "title": "React js project in Hindi # Login with API",
+      "duration": 842
+    },
+    {
+      "id": "8NvI-1BfuWQ",
+      "title": "React js project in Hindi # Add Product API with file Upload",
+      "duration": 716
+    },
+    {
+      "id": "EM6ElDVa60E",
+      "title": "React js project in Hindi # Product Listing Router | switch and Root Router",
+      "duration": 316
+    },
+    {
+      "id": "qJbgbOU81rk",
+      "title": "React js project in Hindi # Product Listing API",
+      "duration": 768
+    },
+    {
+      "id": "hAVaIdmpHX8",
+      "title": "React js project in Hindi # Integrate API for Delete Product",
+      "duration": 622
+    },
+    {
+      "id": "ouoY-Gktidw",
+      "title": "React project in Hindi # Prefill data in Form Before Update",
+      "duration": 884
+    },
+    {
+      "id": "rNjnxbwTKP0",
+      "title": "React project in Hindi # Update Product with API",
+      "duration": 763
+    },
+    {
+      "id": "g18OulRHq3Y",
+      "title": "React project in Hindi # Search component",
+      "duration": 399
+    },
+    {
+      "id": "iLD6R1sbloQ",
+      "title": "React project in Hindi # Search Auto Complete",
+      "duration": 668
+    },
+    {
+      "id": "7gxqRdDt6nY",
+      "title": "React js interview questions for freshers in Hindi | Part 1",
+      "duration": 462
+    },
+    {
+      "id": "WSZEQpl63DM",
+      "title": "React js interview questions for freshers in Hindi | Part 2",
+      "duration": 421
+    },
+    {
+      "id": "7yWVCejgM_Q",
+      "title": "React js interview questions in hindi #3 component interview question",
+      "duration": 626
+    },
+    {
+      "id": "5OYQ_LfS3JQ",
+      "title": "React js interview questions in Hindi #4 interview question for Life cycle method",
+      "duration": 1008
+    },
+    {
+      "id": "9y_ClIZkEp8",
+      "title": "React js 18 in Hindi  | what is new in React 18 | new features",
+      "duration": 1026
+    },
+    {
+      "id": "gZFoGMn_3dw",
+      "title": "React tutorial in Hindi #60 Context api with Hooks | useContext",
+      "duration": 1179
+    },
+    {
+      "id": "ZS5W6w59kNc",
+      "title": "React tutorial in Hindi - useMemo vs useEffect  | difference in useEffect and useMemo",
+      "duration": 872
+    },
+    {
+      "id": "0qQk5g4TXmU",
+      "title": "React tutorial for beginners in hindi # Important question for interviews",
+      "duration": 997
+    },
+    {
+      "id": "qD-CDaegCjs",
+      "title": "Angular vs react in Hindi",
+      "duration": 1984
+    },
+    {
+      "id": "M-3DIcdq9Do",
+      "title": "React js Jobs in India | Salary | Fresher",
+      "duration": 1519
+    },
+    {
+      "id": "6_B5U5lE1BM",
+      "title": "React Router v6 tutorial in Hindi #12 Interview Questions",
+      "duration": 492
+    },
+    {
+      "id": "ll3sFMysOQA",
+      "title": "Next js vs React js in Hindi | different between react and next.js",
+      "duration": 639
+    },
+    {
+      "id": "EWaQkBcYSPw",
+      "title": "React Batch State Updates Explained 💡 | React Interview Question #reactinterview #reactjs19",
+      "duration": 176
+    },
+    {
+      "id": "Dn7Fzl6HA78",
+      "title": "React JS Interview Question: Using Spread Operator with Component Props",
+      "duration": 152
+    },
+    {
+      "id": "AGMUSTsBMfI",
+      "title": "React JS Interviewin Hindi \"key\" in map() | React Short in Hindi #reactinterview #reactjs #shorts",
+      "duration": 178
+    },
+    {
+      "id": "C6b88saRxZU",
+      "title": "React Interview Question in Hindi React Map() Trick – Show Only Odd or Even #reactinterview #reactjs",
+      "duration": 167
+    },
+    {
+      "id": "IYCg49zLGJg",
+      "title": "Frontend Developers Must Learn These DevOps Skills in 2026 🚀 | React & Angular",
+      "duration": 164
+    },
+    {
+      "id": "z1GtkubOO4A",
+      "title": "JavaScript Bundle Grew from 500KB to 5MB? How to Diagnose It | Frontend Interview Question | React",
+      "duration": 144
+    },
+    {
+      "id": "siK1RTOVgNI",
+      "title": "React 19.3 New Features Explained in Hindi | ViewTransition, Trusted Types & Server Components",
+      "duration": 918
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "courseId": "complete-git-and-github-tutorials-for-beginners-in-hindi-28a226",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:30.262Z",
+  "title": "Complete Git and GitHub Tutorials For Beginners In Hindi - 2023 | GIT with VS-Code",
+  "channel": "Code House",
+  "videos": [
+    {
+      "id": "C-5xC35GPgQ",
+      "title": "Part-1 Introduction to GIT SCM in Hindi | What is GIT and Why do we need GIT and GitHub in Hindi",
+      "duration": 1601
+    },
+    {
+      "id": "AgHmgENgmT4",
+      "title": "Part-2 Installing & setup GIT and VS code and adding required extension in VS code to work with GIT",
+      "duration": 529
+    },
+    {
+      "id": "db3vgca0ctQ",
+      "title": "Part-3 Understanding Git Repository and Tracking our first Project in Hindi | Best Git tutorial",
+      "duration": 1266
+    },
+    {
+      "id": "yQfvNh6YrRQ",
+      "title": "Part-4.1 Git file status lifecycle and Git three stage architecture in Hindi | Git different stages",
+      "duration": 1036
+    },
+    {
+      "id": "gt3nrVij9Y0",
+      "title": "Part-4.2 Git file status lifecycle and Git three stage architecture in Hindi | Git different stages",
+      "duration": 2585
+    },
+    {
+      "id": "9QtSK3qS9zY",
+      "title": "Part-4.3 Git file status lifecycle and Git three stage architecture in Hindi | Git different stages",
+      "duration": 1539
+    },
+    {
+      "id": "PcfKu-o8Akc",
+      "title": "Part-4.4 Git file status lifecycle and Git three stage architecture in Hindi | Git with Vs Code",
+      "duration": 1023
+    },
+    {
+      "id": "tbG-S3Bo3pQ",
+      "title": "Part-5 .gitignore How to ignore / stop tracking a specific file in Git in Hindi | Untrack files.",
+      "duration": 2038
+    },
+    {
+      "id": "UqhllZ5leYQ",
+      "title": "Part-6 git diff,  How to show files changes between Commit, Staging area and Working directory",
+      "duration": 1431
+    },
+    {
+      "id": "q9xCc1GXCA4",
+      "title": "Part-7 git log, Understanding commits in Git &viewing all the commits and related files in Hindi",
+      "duration": 1191
+    },
+    {
+      "id": "7-0DP9yDeuM",
+      "title": "Part-8.1 git branch, What is branches in Git & Why do we need Git branches (Theory in Deep) in Hindi",
+      "duration": 1538
+    },
+    {
+      "id": "ephe7Zdpigs",
+      "title": "Part-8.2 git branch What is branches in Git & Why do we need Git branch (Practical in Deep) in Hindi",
+      "duration": 1457
+    },
+    {
+      "id": "SKL8qa54m0o",
+      "title": "Part-9.1 git merge | What merge and merge conflict in Git | How to resolve merge conflict in Hindi",
+      "duration": 1849
+    },
+    {
+      "id": "7XHOY0OHCNE",
+      "title": "Part-9.2 git merge | How to resolve merge conflict in Hindi | What merge and merge conflict in Git |",
+      "duration": 2381
+    },
+    {
+      "id": "PH4A4qMJOB0",
+      "title": "Part-10: Working with Git branches, Merging and resolving conflicts with VS code | Git with VS code",
+      "duration": 1585
+    },
+    {
+      "id": "WuenCV6kGAc",
+      "title": "What is Head and Detached Head in Git in Hindi | How to time travel in Git using Head pointer",
+      "duration": 1930
+    },
+    {
+      "id": "kJNCZjTOjBY",
+      "title": "What is Github and How to use github | Creating reporitoy on GitHub and connect to local repository",
+      "duration": 1002
+    },
+    {
+      "id": "dAHJgpl_H_8",
+      "title": "How to Push Git local branch to remote repository | Push local branches to Remote repositoy Github",
+      "duration": 1212
+    },
+    {
+      "id": "MGI03Qxopcc",
+      "title": "How to Clone Remote Git Repository to Local | Cloning a remote Git repositry on local with Git Bash",
+      "duration": 639
+    },
+    {
+      "id": "KXb4jR7tQck",
+      "title": "What is Pull Request in Git / Github ? How to Create | Review | Merge Pull Request",
+      "duration": 1068
+    },
+    {
+      "id": "_NK06WXpwpo",
+      "title": "What is git reset command ⚠️ | How to Undo / Delete Commits in Git | Switching branch in Middle",
+      "duration": 2293
+    },
+    {
+      "id": "KM08D2GWv7U",
+      "title": "Git Stash ❤️ Explained in Simple Words | When to Use Stashing During Branch Switch in Your Project",
+      "duration": 1486
+    },
+    {
+      "id": "HWu6VdKUXDA",
+      "title": "Git - Clearing Confusion: What if we're using a different IDE for development instead of VS Code?",
+      "duration": 370
+    },
+    {
+      "id": "uy_CHWug2Ks",
+      "title": "Git Revert: How to Easily Revert Commits in Git | Revert committed changes in Git",
+      "duration": 1638
+    },
+    {
+      "id": "G8chOXL2Eeo",
+      "title": "Git cherry-pick 🍒 | How to pick a specific commit from another branch in Git | Mastering Git",
+      "duration": 1542
+    },
+    {
+      "id": "3QDOKoivydY",
+      "title": "Git Squash - How to combine multiple commit into single commit | Merge multiple commit in single Git",
+      "duration": 1924
+    },
+    {
+      "id": "45XjLrMKGRc",
+      "title": "Git Rebase - When should we use Git Rebase in Git Project | Git Merge vs Git Rebase Best Explanation",
+      "duration": 2152
+    },
+    {
+      "id": "N_EkVBEN3EY",
+      "title": "Git Reflog - How to get back the lost commits in a branch in Git | Recover Lost Commits/Branches",
+      "duration": 1858
+    },
+    {
+      "id": "EMHy-9oLSJk",
+      "title": "Git Tag 🏷️- What is git tag and How to release software version using git | Lightweight vs Annotated",
+      "duration": 2056
+    },
+    {
+      "id": "8axOCwAhEaM",
+      "title": "!IMPORTANT! Git Tips for Better Productivity 🚀 | Master Version Control with These Pro Hacks 🐱‍💻",
+      "duration": 1177
+    },
+    {
+      "id": "QrPfNSD66t4",
+      "title": "Completing Your Git Journey: The Last Tutorial in the Series | Best Git Playlist in Hindi on Youtube",
+      "duration": 473
+    },
+    {
+      "id": "B5NxIPJMoRU",
+      "title": "Git Fork 🍴 | How to Contribute to Open Source Repositories using Git Fork Step by Step in Hindi",
+      "duration": 1535
+    },
+    {
+      "id": "eti_AMc8gM8",
+      "title": "Git Snapshot | What Does 'Git Snapshot' Mean? | Understanding Git Snapshots: What They Represent",
+      "duration": 899
+    }
+  ]
+}

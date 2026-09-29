@@ -1,0 +1,135 @@
+{
+  "courseId": "complete-rust-course-zero-to-advanced-2023-ca9a19",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLOY5k46NyxirlL6Pk3Py6_5SL1EIdXg5c",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:53.085Z",
+  "title": "Complete Rust Course - Zero To Advanced 2023",
+  "channel": "Upendra Singh",
+  "videos": [
+    {
+      "id": "wXTIPlpvxlg",
+      "title": "What is Rust language  | How  Rust is better than other languages | Rust Tutorial 2023 in Hindi #1",
+      "duration": 902
+    },
+    {
+      "id": "FwbP3mGxWzI",
+      "title": "How to Install Rust lang and Create your First Program | Rust Tutorial 2023 in Hindi #2",
+      "duration": 997
+    },
+    {
+      "id": "G_buP0DyekA",
+      "title": "Rust Guessing Game: A Fun and Challenging Challenge for Beginners  | Rust Tutorial 2023 in Hindi #3",
+      "duration": 685
+    },
+    {
+      "id": "YFLzK24nDr0",
+      "title": "Variables, Constants and Shadowing for Beginners | Rust Tutorial 2023 in Hindi #4",
+      "duration": 872
+    },
+    {
+      "id": "nl0gYqZ1Wug",
+      "title": "Basic Data Types in Rust language for Beginners | Rust Tutorial 2023 in Hindi #5",
+      "duration": 990
+    },
+    {
+      "id": "ejiqW_pUzlE",
+      "title": "Functions in Rust language for Beginners | Rust Tutorial 2023 in Hindi #6",
+      "duration": 700
+    },
+    {
+      "id": "xmnOTr0gWFQ",
+      "title": "Expressions vs. Statements in Rust language for Beginners | Rust Tutorial 2023 in Hindi #7",
+      "duration": 821
+    },
+    {
+      "id": "jBM8cTglP8Y",
+      "title": "Control Flow in Rust language for Beginners | Rust Tutorial 2023 in Hindi #8",
+      "duration": 1276
+    },
+    {
+      "id": "ieMQQJAm2_o",
+      "title": "Understanding Stack, Heap, and Static Memory for Beginners | Rust Tutorial 2023 in Hindi #9",
+      "duration": 2201
+    },
+    {
+      "id": "ZvmTaEAFqAU",
+      "title": "Understanding Ownership in Rust for Beginners | Rust Tutorial 2023 in Hindi #10",
+      "duration": 2391
+    },
+    {
+      "id": "sR__Q7k73qU",
+      "title": "References and Borrowing in Rust for Beginners | Rust Tutorial 2023 in Hindi #11",
+      "duration": 2062
+    },
+    {
+      "id": "_-4a4Yg_lvE",
+      "title": "Strings vs string slices (&str) in Rust for Beginners | Rust Tutorial 2023 in Hindi #12",
+      "duration": 2178
+    },
+    {
+      "id": "n-SahF4Efjo",
+      "title": "Struct : Creating a Custom Data Type in Rust for Beginners Hindi | Rust Tutorial 2023 in Hindi #13",
+      "duration": 3074
+    },
+    {
+      "id": "9IXAPUzfgNQ",
+      "title": "Understanding Structs in  Rust With Simple Example in Hindi  | Rust Tutorial 2023 in Hindi #14",
+      "duration": 1185
+    },
+    {
+      "id": "EKrl8Ugd1Ig",
+      "title": "Methods vs Functions vs Associated Functions in Rust for Beginners | Rust Tutorial 2023 in Hindi #15",
+      "duration": 1808
+    },
+    {
+      "id": "8yvgtbR6mds",
+      "title": "Enums in Rust for Beginners in Hindi | Rust Tutorial 2023 in Hindi #16",
+      "duration": 1116
+    },
+    {
+      "id": "P1rfrhdrOeA",
+      "title": "Enums Vs Structs in Rust Language in Hindi | Rust Tutorial 2023 in Hindi #17",
+      "duration": 1622
+    },
+    {
+      "id": "FNtKMObzKbA",
+      "title": "Option in Rust Language in Hindi | Rust Tutorial 2023 in Hindi #18",
+      "duration": 1004
+    },
+    {
+      "id": "3CFSFfNhg5U",
+      "title": "Patterns and Matching  in Rust Language in Hindi | Rust Tutorial 2023 in Hindi #19",
+      "duration": 1510
+    },
+    {
+      "id": "ZgHhmv3GnZA",
+      "title": "if-let Vs  match  Vs  if -else in Rust Language in Hindi | Rust Tutorial 2023 in Hindi #20",
+      "duration": 1451
+    },
+    {
+      "id": "nmIdO_woaTA",
+      "title": "Error Handling in Rust Language in Hindi | recoverable Vs unrecoverable| Rust Tutorial 2023 in Hindi",
+      "duration": 1695
+    },
+    {
+      "id": "9wF-10TFkls",
+      "title": "Generic Types in Rust Language in Hindi | Rust Tutorial 2023 in Hindi",
+      "duration": 1854
+    },
+    {
+      "id": "n4LgLzPRHk0",
+      "title": "Traits  in Rust Language in Hindi | Rust Tutorial 2023 in Hindi",
+      "duration": 1389
+    },
+    {
+      "id": "pDuwnz0iSdI",
+      "title": "Trait Bounds & where clause in Rust Language in Hindi | Rust Tutorial 2023 in Hindi",
+      "duration": 1143
+    },
+    {
+      "id": "bsAf9OlFJxQ",
+      "title": "Lifetimes in Rust Language in Hindi | Rust Tutorial 2023 in Hindi",
+      "duration": 1557
+    }
+  ]
+}

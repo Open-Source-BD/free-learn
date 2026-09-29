@@ -1,0 +1,275 @@
+{
+  "courseId": "recursion-backtracking-level-1-355cc0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:29.641Z",
+  "title": "Recursion & Backtracking - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "5Q5ed7PWJ8I",
+      "title": "Introduction to Recursion - How Recursion Works | Print Decreasing using Recursion",
+      "duration": 1190
+    },
+    {
+      "id": "Y5IobAWmfjQ",
+      "title": "Recursion Motion - Basics of Recursion | Print Increasing using Recursion",
+      "duration": 628
+    },
+    {
+      "id": "V-WSKmGTWxk",
+      "title": "Basics of Recursion | Print Decreasing Increasing Numbers using Recursion",
+      "duration": 74
+    },
+    {
+      "id": "BWr4zBiRtJY",
+      "title": "Recursion Basics | Print Decreasing Increasing Solution using Recursion",
+      "duration": 426
+    },
+    {
+      "id": "zEwwEQi9FAc",
+      "title": "Factorial - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 34
+    },
+    {
+      "id": "m4rdYPuisKc",
+      "title": "Recursion Basics | Factorial of a number using Recursion in JAVA",
+      "duration": 373
+    },
+    {
+      "id": "KYke5cn9jAk",
+      "title": "Power (Linear) - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 30
+    },
+    {
+      "id": "EohIyWnQYBY",
+      "title": "Calculate Power (x,n) using Recursion - Solution | Recursion in JAVA",
+      "duration": 361
+    },
+    {
+      "id": "O84uumjBOMY",
+      "title": "Calculate Power using Recursion (Logarithmic) | Recursion in JAVA",
+      "duration": 834
+    },
+    {
+      "id": "R7qja_gZrvI",
+      "title": "Print Zig-Zag | Recursion for Beginners | Algorithms in JAVA",
+      "duration": 1800
+    },
+    {
+      "id": "uwrc4H3yaJ4",
+      "title": "Tower of Hanoi - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 233
+    },
+    {
+      "id": "QDBrZFROuA0",
+      "title": "Tower of Hanoi solved using Recursion | Recursion Euler Tree in JAVA",
+      "duration": 1581
+    },
+    {
+      "id": "MOFUK3PyOPw",
+      "title": "Display an Array - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 40
+    },
+    {
+      "id": "SeU9D35MsK8",
+      "title": "Display Array Elements using Recursion | Algorithms in JAVA | Recursion Playlist",
+      "duration": 396
+    },
+    {
+      "id": "_O6geLdoSV4",
+      "title": "Display Array in Reverse - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 24
+    },
+    {
+      "id": "SJrfxaYBEFU",
+      "title": "Display Array in Reverse using Recursion | Algorithms in JAVA | Recursion Playlist",
+      "duration": 358
+    },
+    {
+      "id": "obrreX-sQWo",
+      "title": "Maximum of an Array - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 24
+    },
+    {
+      "id": "XpUiZg9YZQg",
+      "title": "Find Maximum of an Array using Recursion | Algorithms in JAVA",
+      "duration": 577
+    },
+    {
+      "id": "OD39jBFjgdI",
+      "title": "First Index of occurrence - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 51
+    },
+    {
+      "id": "TU0xUG9eO3Y",
+      "title": "First Index of Occurrence in Array using Recursion | Algorithms in JAVA",
+      "duration": 921
+    },
+    {
+      "id": "qr984qKJf4Y",
+      "title": "Last Index of Occurrence - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 49
+    },
+    {
+      "id": "xttMLI4Kb3k",
+      "title": "Last Index of Occurrence - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 874
+    },
+    {
+      "id": "TYIZmI5FesU",
+      "title": "All Indices in Array - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 43
+    },
+    {
+      "id": "bQkwHBaNioE",
+      "title": "All Indices in Array - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 934
+    },
+    {
+      "id": "Sa5PmCFF_zI",
+      "title": "Get Subsequence - Introduction to Arraylists | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1870
+    },
+    {
+      "id": "97mF4juql6g",
+      "title": "Get Keypad Combination - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 183
+    },
+    {
+      "id": "3fjt19bjs3A",
+      "title": "Get Keypad Combination - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1447
+    },
+    {
+      "id": "W6cT68K7Hls",
+      "title": "Get Stairs Path - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 72
+    },
+    {
+      "id": "hMJAlbJIS7E",
+      "title": "Get Stairs Path - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1727
+    },
+    {
+      "id": "ox3TswFFKDI",
+      "title": "Get Maze Paths - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 172
+    },
+    {
+      "id": "7i41gZLXe5k",
+      "title": "Get Maze Paths - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1051
+    },
+    {
+      "id": "F6T3tD8Pw20",
+      "title": "Get Maze Paths with Jump - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 116
+    },
+    {
+      "id": "VaGBRiSdtFI",
+      "title": "Get Maze Paths with Jump - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 809
+    },
+    {
+      "id": "Ke8TPhHdHMw",
+      "title": "Print Subsequence | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1052
+    },
+    {
+      "id": "4yMtvToiJE0",
+      "title": "Print Keypad Combination - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 807
+    },
+    {
+      "id": "JxIoGHzzoW8",
+      "title": "Print Stair Paths - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 77
+    },
+    {
+      "id": "NEuYcztalew",
+      "title": "Print Stair Paths - Solution | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 589
+    },
+    {
+      "id": "TcCyI-eJMmY",
+      "title": "Print Maze Paths - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 69
+    },
+    {
+      "id": "MHtAA5UE-6Y",
+      "title": "Print Maze Paths - Solution | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 652
+    },
+    {
+      "id": "LgFl0hsyWP8",
+      "title": "Print Maze Path with Jumps - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 154
+    },
+    {
+      "id": "zri_tftYphE",
+      "title": "Print Maze Paths with Jumps - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 473
+    },
+    {
+      "id": "K5xJXbnYMBc",
+      "title": "Print Permutations - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 155
+    },
+    {
+      "id": "sPAT_DbvDj0",
+      "title": "Print Permutations - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 437
+    },
+    {
+      "id": "jUo0Qis4FKU",
+      "title": "Print Encodings - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 279
+    },
+    {
+      "id": "2ClSccwnq1Y",
+      "title": "Print Encodings - Solution | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 750
+    },
+    {
+      "id": "FkkgY7qQF_s",
+      "title": "Flood Fill - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 214
+    },
+    {
+      "id": "R1URUB6_y2k",
+      "title": "Flood Fill - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 2484
+    },
+    {
+      "id": "zNxDJJW40_k",
+      "title": "Target Sum Subsets - Question | Recursion | Data Structure and Algorithms in JAVA",
+      "duration": 59
+    },
+    {
+      "id": "HGDmj5NrrjM",
+      "title": "Target Sum Subsets - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 457
+    },
+    {
+      "id": "prZJ0hA43NU",
+      "title": "N Queens - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 162
+    },
+    {
+      "id": "05y82cP3bJo",
+      "title": "N Queens - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 1808
+    },
+    {
+      "id": "EgoKDqfpbMg",
+      "title": "Knights Tour - Question | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 241
+    },
+    {
+      "id": "SP880DBRJ_8",
+      "title": "Knights Tour - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 826
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "courseId": "javascript-array-methods-fe901b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:22.400Z",
+  "title": "JavaScript Array Methods",
+  "channel": "Florin Pop",
+  "videos": [
+    {
+      "id": "SXb5LN_opbA",
+      "title": "forEach Array Method | JavaScript Tutorial",
+      "duration": 303
+    },
+    {
+      "id": "P4RAFdZDn3M",
+      "title": "map Array Method | JavaScript Tutorial",
+      "duration": 409
+    },
+    {
+      "id": "mJGv12UHqXc",
+      "title": "filter Array Method | JavaScript Tutorial",
+      "duration": 297
+    },
+    {
+      "id": "IXp06KekEjM",
+      "title": "reduce Array Method | JavaScript Tutorial",
+      "duration": 498
+    },
+    {
+      "id": "JfZv9QNSpi4",
+      "title": "slice Array Method | JavaScript Tutorial",
+      "duration": 214
+    },
+    {
+      "id": "FFas8cMHVwg",
+      "title": "splice Array Method | JavaScript Tutorial",
+      "duration": 186
+    },
+    {
+      "id": "RsFBsBep-hA",
+      "title": "sort Array Method | JavaScript Tutorial",
+      "duration": 347
+    },
+    {
+      "id": "PHgeshcXtDc",
+      "title": "concat Array Method | JavaScript Tutorial",
+      "duration": 169
+    },
+    {
+      "id": "t6ErSbYzguw",
+      "title": "fill Array Method | JavaScript Tutorial",
+      "duration": 202
+    },
+    {
+      "id": "ZHsPVhkTUDg",
+      "title": "includes Array Method | JavaScript Tutorial",
+      "duration": 120
+    },
+    {
+      "id": "1a2OCwBD-yI",
+      "title": "join Array Method | JavaScript Tutorial",
+      "duration": 140
+    },
+    {
+      "id": "xnjYcyphOoA",
+      "title": "reverse Array Method | JavaScript Tutorial",
+      "duration": 144
+    },
+    {
+      "id": "g1hlKlovok8",
+      "title": "push Array Method | JavaScript Tutorial",
+      "duration": 87
+    },
+    {
+      "id": "Pgdvj6InRKI",
+      "title": "pop Array Method | JavaScript Tutorial",
+      "duration": 65
+    },
+    {
+      "id": "9hin-2yeCWY",
+      "title": "unshift Array Method | JavaScript Tutorial",
+      "duration": 87
+    },
+    {
+      "id": "_zYb4WB1eDo",
+      "title": "shift Array Method | JavaScript Tutorial",
+      "duration": 57
+    },
+    {
+      "id": "VoY6AkDZjZ4",
+      "title": "indexOf and lastIndexOf Array Methods | JavaScript Tutorial",
+      "duration": 193
+    },
+    {
+      "id": "d9WGXz-DLT8",
+      "title": "every Array Method | JavaScript Tutorial",
+      "duration": 258
+    },
+    {
+      "id": "0uDvZSlBOtA",
+      "title": "some Array Method | JavaScript Tutorial",
+      "duration": 239
+    },
+    {
+      "id": "8SkHWeDoTf0",
+      "title": "find Array Method | JavaScript Tutorial",
+      "duration": 204
+    },
+    {
+      "id": "fwpSme-VPp0",
+      "title": "findIndex Array Method | JavaScript Tutorial",
+      "duration": 114
+    },
+    {
+      "id": "qS79OIceQ7k",
+      "title": "from Array Method | JavaScript Tutorial",
+      "duration": 245
+    },
+    {
+      "id": "eQKo-_ftNbE",
+      "title": "isArray Array Method | JavaScript Tutorial",
+      "duration": 76
+    },
+    {
+      "id": "d3TJbWvfSgw",
+      "title": "flat Array Method | JavaScript Tutorial",
+      "duration": 123
+    }
+  ]
+}

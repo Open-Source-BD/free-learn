@@ -1,0 +1,115 @@
+{
+  "courseId": "gentle-introduction-to-git-and-github-3cb2aa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:17.759Z",
+  "title": "Gentle Introduction to Git and GitHub",
+  "channel": "Deborah Kurata",
+  "videos": [
+    {
+      "id": "pICJdbC7j0Q",
+      "title": "Introduction to Git and GitHub (Clip 1): Gentle Introduction to Git and GitHub",
+      "duration": 236
+    },
+    {
+      "id": "hfOeWgWp__E",
+      "title": "Understanding Git (Clip 2): Gentle Introduction to Git and GitHub",
+      "duration": 469
+    },
+    {
+      "id": "HEUhuK-DTNY",
+      "title": "Using Git (Clip 3): Gentle Introduction to Git and GitHub",
+      "duration": 193
+    },
+    {
+      "id": "Uf2LLF7UKMw",
+      "title": "Understanding GitHub (Clip 4): Gentle Introduction to Git and GitHub",
+      "duration": 289
+    },
+    {
+      "id": "7h_tELJY12g",
+      "title": "Initializing a Repository (Clip 5): Gentle Introduction to Git and GitHub",
+      "duration": 455
+    },
+    {
+      "id": "xGt1FWwWkcY",
+      "title": "Committing Changes to Git and Syncing to GitHub (Clip 6): Gentle Introduction to Git and GitHub",
+      "duration": 348
+    },
+    {
+      "id": "ALTqAnNCZtM",
+      "title": "Working with Git Branches (Clip 7): Gentle Introduction to Git and GitHub",
+      "duration": 432
+    },
+    {
+      "id": "GrWL62j3gTU",
+      "title": "Creating a GitHub Account (Clip 8): Gentle Introduction to Git and GitHub",
+      "duration": 263
+    },
+    {
+      "id": "QuCdgrYph98",
+      "title": "Initializing a GitHub Repository (Clip 9): Gentle Introduction to Git and GitHub",
+      "duration": 448
+    },
+    {
+      "id": "n1Sufo9J0kc",
+      "title": "Installing GitHub Desktop (Clip 10): Gentle Introduction to Git and GitHub",
+      "duration": 207
+    },
+    {
+      "id": "GpqIr0y2rvc",
+      "title": "Using GitHub Desktop to Clone a Repository (Clip 11): Gentle Introduction to Git and GitHub",
+      "duration": 225
+    },
+    {
+      "id": "ZD7lC4SznDs",
+      "title": "Using GitHub Desktop to Commit Files (Clip 12): Gentle Introduction to Git and GitHub",
+      "duration": 459
+    },
+    {
+      "id": "9UlmPCMZ4tc",
+      "title": "Creating Great Git Commit Messages (Clip 13): Gentle Introduction to GitHub for Beginners",
+      "duration": 174
+    },
+    {
+      "id": "Xzy-hSdNGOI",
+      "title": "Installing VS Code and Git (Clip 14): Gentle Introduction to Git and GitHub",
+      "duration": 254
+    },
+    {
+      "id": "fZ7fP3mgmuY",
+      "title": "Initializing a Repository using VS Code (Clip 15): Gentle Introduction to Git and GitHub",
+      "duration": 433
+    },
+    {
+      "id": "5vYPLUMP6dg",
+      "title": "Committing and Syncing Files using VS Code (Clip 16): Gentle Introduction to Git and GitHub",
+      "duration": 277
+    },
+    {
+      "id": "_-SjD_k7uIY",
+      "title": "Git Branching using VS Code (Clip 17): Gentle Introduction to Git and GitHub",
+      "duration": 446
+    },
+    {
+      "id": "y_A8O3cpDyM",
+      "title": "Pull Requests and Merging Branches in GitHub (Clip 18): Gentle Introduction to Git and GitHub",
+      "duration": 328
+    },
+    {
+      "id": "-_qRHUIRMcM",
+      "title": "Resolving Merge Conflicts in GitHub (Clip 19): Gentle Introduction to Git and GitHub",
+      "duration": 494
+    },
+    {
+      "id": "S8PYJjQD_Gw",
+      "title": "Using GitHub Pages to Deploy Your Website (Clip 20): Gentle Introduction to Git and GitHub",
+      "duration": 306
+    },
+    {
+      "id": "xR1Np1H_DDY",
+      "title": "Git and GitHub Course Key Points and Next Steps (Clip 21): Gentle Introduction to Git and GitHub",
+      "duration": 405
+    }
+  ]
+}

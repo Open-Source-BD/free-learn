@@ -1,0 +1,180 @@
+{
+  "courseId": "golang-tutorial-a0368e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLXQpH_kZIxTWUe-Ee-DZEX5gfeoo4tHV6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:23:08.471Z",
+  "title": "Golang Tutorial",
+  "channel": "Coder's Gyan",
+  "videos": [
+    {
+      "id": "YmGp5Uzh4ag",
+      "title": "Golang Tutorial - Introduction - 1",
+      "duration": 232
+    },
+    {
+      "id": "DgtkSRPnXgU",
+      "title": "Golang Tutorial - Five Reasons to choose Golang - 2",
+      "duration": 339
+    },
+    {
+      "id": "-0e19SR1U88",
+      "title": "Golang Tutorial - Install Golang - 3",
+      "duration": 111
+    },
+    {
+      "id": "HEIEdW4Yf9M",
+      "title": "Golang Tutorial - Hello World - 4",
+      "duration": 372
+    },
+    {
+      "id": "lf3tOqzvEgU",
+      "title": "Golang Tutorial - Simple Values - 5",
+      "duration": 239
+    },
+    {
+      "id": "ijX6BbGdiKI",
+      "title": "Golang Tutorial - Variables in Golang - 6",
+      "duration": 473
+    },
+    {
+      "id": "CE8XZZi5H5w",
+      "title": "Golang Tutorial - Constants in Golang - 7",
+      "duration": 295
+    },
+    {
+      "id": "5lbIi4N6UKY",
+      "title": "Golang Tutorial - For loop - 8",
+      "duration": 478
+    },
+    {
+      "id": "3ypp_YvsO0k",
+      "title": "Golang Tutorial - If else - 9",
+      "duration": 577
+    },
+    {
+      "id": "yppFwFg2fbA",
+      "title": "Golang Tutorial - Switch Statement - 10",
+      "duration": 643
+    },
+    {
+      "id": "ZQmZmoziWj0",
+      "title": "Golang Tutorial - Arrays - 11",
+      "duration": 714
+    },
+    {
+      "id": "mWXgxfUT5ws",
+      "title": "Golang Tutorial - Slices - 12",
+      "duration": 1542
+    },
+    {
+      "id": "fV4V3nfNBHw",
+      "title": "Golang Tutorial - Maps - 13",
+      "duration": 893
+    },
+    {
+      "id": "i6CblfPvGxk",
+      "title": "Golang Tutorial - Range - 14",
+      "duration": 704
+    },
+    {
+      "id": "tG5qvZIUJx4",
+      "title": "Golang Tutorial - Functions - 15",
+      "duration": 712
+    },
+    {
+      "id": "cAJgxd0HzLs",
+      "title": "Golang Tutorial - Variadic Functions - 16",
+      "duration": 366
+    },
+    {
+      "id": "OmzeMJr73yY",
+      "title": "Golang Tutorial - Closures - 17",
+      "duration": 314
+    },
+    {
+      "id": "9proQ6MJ39A",
+      "title": "Golang Tutorial - Pointers - 18",
+      "duration": 613
+    },
+    {
+      "id": "_I82uza1DKc",
+      "title": "Golang Tutorial - Structs - 19",
+      "duration": 1763
+    },
+    {
+      "id": "8sGg4wnew84",
+      "title": "Golang Tutorial - Struct Embedding - 20",
+      "duration": 387
+    },
+    {
+      "id": "RMpZ0af0RNw",
+      "title": "Golang Tutorial - Interface - 21",
+      "duration": 1665
+    },
+    {
+      "id": "ZWYHdVXu1_U",
+      "title": "Golang Tutorial - Enums - 22",
+      "duration": 697
+    },
+    {
+      "id": "dcCVTTHl9Ew",
+      "title": "Golang Tutorial - Generics - 23",
+      "duration": 892
+    },
+    {
+      "id": "rAhmryWS3Ng",
+      "title": "Golang Tutorial - Goroutines - 24",
+      "duration": 519
+    },
+    {
+      "id": "5ziI6ETtPsE",
+      "title": "Golang Tutorial - WaitGroup In Goroutines - 25",
+      "duration": 395
+    },
+    {
+      "id": "xjymMP73bHI",
+      "title": "Golang Tutorial - Channels - 26",
+      "duration": 2621
+    },
+    {
+      "id": "I4gk1yjqSvk",
+      "title": "Golang Tutorial - Mutex - 27",
+      "duration": 847
+    },
+    {
+      "id": "pBcH6luV6BQ",
+      "title": "Golang Tutorial - Files - 28",
+      "duration": 2493
+    },
+    {
+      "id": "gwimC8T9kok",
+      "title": "Golang Tutorial - Packages - 29",
+      "duration": 1687
+    },
+    {
+      "id": "OGhQhFKvMiM",
+      "title": "Build a Fast & Scalable REST API with GoLang | Full Project Tutorial!",
+      "duration": 10394
+    },
+    {
+      "id": "yZgwW6Yuc_E",
+      "title": "Master Golang in One Video | Complete Go Course + Real-world API Project in Hindi | Coder's Gyan",
+      "duration": 33925
+    },
+    {
+      "id": "nJoFk419SVU",
+      "title": "Build your own Mailchimp in Golang🔥| Email Campaign Tool | Full Project in Hindi | Day 40/100",
+      "duration": 5313
+    },
+    {
+      "id": "pySTZsbaJ0Q",
+      "title": "Build a Note Taking App that Runs in Your Terminal using Golang & Bubble Tea | In Hindi | Day 63/100",
+      "duration": 7871
+    },
+    {
+      "id": "tNPY7tki1HQ",
+      "title": "Master Golang Concurrency Patterns🔥 | Actually Used in Production | In Hindi | Day 64/100",
+      "duration": 2858
+    }
+  ]
+}

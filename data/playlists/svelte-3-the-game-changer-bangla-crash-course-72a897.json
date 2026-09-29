@@ -1,0 +1,70 @@
+{
+  "courseId": "svelte-3-the-game-changer-bangla-crash-course-72a897",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:35.295Z",
+  "title": "Svelte 3: The Game Changer (Bangla Crash Course)",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "HVfRZVk6aOk",
+      "title": "01/12. Svelte 3:  What is SvelteJS in Bangla | Introduction to Svelte Crash Course",
+      "duration": 922
+    },
+    {
+      "id": "DtErVJeOe-k",
+      "title": "02/12. Svelte 3 - Installation and File Structure of Svelte APP in Bangla",
+      "duration": 745
+    },
+    {
+      "id": "LRCZXi0tfp0",
+      "title": "03/12. Svelte 3 - How to Create Components and Send Props in Bangla",
+      "duration": 816
+    },
+    {
+      "id": "lv9AnUiVBpg",
+      "title": "04/12. Svelte 3 - Event Dispatcher and Component Bindings in Bangla",
+      "duration": 674
+    },
+    {
+      "id": "uqbMxPChcGY",
+      "title": "05/12. Svelte 3 - Creating Tasks Component, Only The Views in Bangla",
+      "duration": 783
+    },
+    {
+      "id": "b1ANIkOLNdI",
+      "title": "06/12. Svelte 3 - Creating Tasks Component Functionalities in Bangla",
+      "duration": 768
+    },
+    {
+      "id": "N1jjPBYiwWY",
+      "title": "07/12. Svelte 3 - Store Tasks into An Array and Generate Views in Bangla",
+      "duration": 508
+    },
+    {
+      "id": "HCG1GJxFd8I",
+      "title": "08/12. Svelte 3 - Built in Store Management Functionalities by Svelte in Bangla",
+      "duration": 533
+    },
+    {
+      "id": "Teq_dUlSxS4",
+      "title": "09/12. Svelte 3 - Create TaskList Component to List All of The Tasks in Bangla",
+      "duration": 523
+    },
+    {
+      "id": "JUIGyBSpqP4",
+      "title": "10/12. Svelte 3 - Add Functionalities to the TaskList Component in Bangla",
+      "duration": 730
+    },
+    {
+      "id": "F3ZIjK7zk_Y",
+      "title": "011/12. Svelte 3 - Create and Handle Buttons with Filtering Mechanism in Bangla",
+      "duration": 1164
+    },
+    {
+      "id": "F62AHUYl7Vg",
+      "title": "12/12. Svelte 3 - Add Transitions and Conclude Our Crash Course in Bangla",
+      "duration": 414
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "courseId": "framer-motion-for-react-tutorial-681fd4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:45.320Z",
+  "title": "Framer Motion (for React) Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "2V1WK-3HQNk",
+      "title": "Framer Motion (for React) #1 - Introduction",
+      "duration": 331
+    },
+    {
+      "id": "lfR2X-jsy8A",
+      "title": "Framer Motion (for React) #2 - Project Setup",
+      "duration": 674
+    },
+    {
+      "id": "cRmEbR8kjHQ",
+      "title": "Framer Motion (for React) #3 - Animating Elements",
+      "duration": 428
+    },
+    {
+      "id": "JD6Fn80UBys",
+      "title": "Framer Motion (for React) #4 - Initial Animation State",
+      "duration": 311
+    },
+    {
+      "id": "o7enGcf8x1s",
+      "title": "Framer Motion (for React) #5 - Transition Options",
+      "duration": 451
+    },
+    {
+      "id": "XZZ9DaG4ZvE",
+      "title": "Framer Motion (for React) #6 - Hover Animations",
+      "duration": 348
+    },
+    {
+      "id": "G_y61k-4i6E",
+      "title": "Framer Motion (for React) #7 - Variants (part 1)",
+      "duration": 524
+    },
+    {
+      "id": "lCe0F_0sbeE",
+      "title": "Framer Motion (for React) #8 - Variants (part 2)",
+      "duration": 614
+    },
+    {
+      "id": "lY2TZXEgYUw",
+      "title": "Framer Motion (for React) #9 - Keyframes",
+      "duration": 257
+    },
+    {
+      "id": "qN-tiyUUZAo",
+      "title": "Framer Motion (for React) #10 - Repeating Animations",
+      "duration": 265
+    },
+    {
+      "id": "sClYgoPOpaI",
+      "title": "Framer Motion (for React) #11 - Animate Presence",
+      "duration": 375
+    },
+    {
+      "id": "Imyi2V7WgGU",
+      "title": "Framer Motion (for React) #12 - Animating Routes",
+      "duration": 625
+    },
+    {
+      "id": "RF78mP1AMQ0",
+      "title": "Framer Motion (for React) #13 - Modal Animation (part 1)",
+      "duration": 710
+    },
+    {
+      "id": "N6d0uACGOVY",
+      "title": "Framer Motion (for React) #14 - Modal Animation (part 2)",
+      "duration": 545
+    },
+    {
+      "id": "ILxNdOtKbNQ",
+      "title": "Framer Motion (for React) #15 - Animating SVG's",
+      "duration": 370
+    },
+    {
+      "id": "uxjMjXNZV_4",
+      "title": "Framer Motion (for React) #16 - Creating a Loader",
+      "duration": 416
+    },
+    {
+      "id": "wAwJj-KGb38",
+      "title": "Framer Motion (for React) #17 - UseCycle Hook",
+      "duration": 334
+    },
+    {
+      "id": "iiKOAseIxTw",
+      "title": "Framer Motion (for React) #18 - Dragging Items & Wrap Up",
+      "duration": 357
+    }
+  ]
+}

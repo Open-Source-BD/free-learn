@@ -1,0 +1,165 @@
+{
+  "courseId": "operating-systems-c8b995",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:29.468Z",
+  "title": "Operating Systems",
+  "channel": "Jenny's Lectures CS IT",
+  "videos": [
+    {
+      "id": "RozoeWzT7IM",
+      "title": "Introduction to Operating System and its Functions | Operating System | Lecture 1",
+      "duration": 1436
+    },
+    {
+      "id": "PY6zEUELn8s",
+      "title": "Types of Operating Systems(Batch, Multiprogramming, Time Sharing, Multiprocessing, Real Time)",
+      "duration": 1086
+    },
+    {
+      "id": "-ddfZ0atNAU",
+      "title": "Process State Transition Diagram and various Schedulers | Operating System",
+      "duration": 1000
+    },
+    {
+      "id": "WYo1SpUh9FI",
+      "title": "FCFS(First Come First Serve) CPU Scheduling Algorithm with example | Operating System",
+      "duration": 1070
+    },
+    {
+      "id": "67mS2azcD-A",
+      "title": "Convoy Effect in FCFS(First Come First Serve) Algorithm| Operating System",
+      "duration": 658
+    },
+    {
+      "id": "pYO-FAg-TpQ",
+      "title": "Shortest Job First(SJF) Scheduling Algorithm with example | Operating System",
+      "duration": 778
+    },
+    {
+      "id": "_QcX99B-zbU",
+      "title": "Shortest Remaining Time First(SRTF) Scheduling Algorithm with Example | Operating System",
+      "duration": 916
+    },
+    {
+      "id": "Ey913ZBq_OQ",
+      "title": "Advantage and Disadvantage of Shortest Job First(SJF) Scheduling Algorithm | Operating System",
+      "duration": 1004
+    },
+    {
+      "id": "6Ga42aZzKGw",
+      "title": "SJF with Prediction of Burst Time in OS | with example",
+      "duration": 853
+    },
+    {
+      "id": "0l_BLaA6TcI",
+      "title": "SJF with processes having CPU and IO Time | CPU Scheduling Algorithm in OS",
+      "duration": 1391
+    },
+    {
+      "id": "8wiifW4ZW-g",
+      "title": "FCFS with IO Time - CPU Scheduling Algorithm in OS",
+      "duration": 894
+    },
+    {
+      "id": "-jFGYDfWkXI",
+      "title": "Round Robin(RR) CPU Scheduling Algorithm in OS with example",
+      "duration": 1187
+    },
+    {
+      "id": "chjRXx7WvM0",
+      "title": "Round Robin(RR) Scheduling example with advantages and drawbacks | Operating Systems",
+      "duration": 1383
+    },
+    {
+      "id": "C1VWGYiy8Gw",
+      "title": "GATE Computer Science previous year question on Round Robin(RR) scheduling | Operating Systems",
+      "duration": 366
+    },
+    {
+      "id": "5xYvFN9OrZs",
+      "title": "Non Preemptive Priority Scheduling Algorithm with example | Operating System",
+      "duration": 934
+    },
+    {
+      "id": "23h3lkHNL_s",
+      "title": "Lec 17: Preemptive Priority Scheduling Algorithm in OS with example | Operating System",
+      "duration": 1068
+    },
+    {
+      "id": "01DiVzZbRjY",
+      "title": "Lec18 Starvation and Aging in Priority Scheduling | Operating Systems",
+      "duration": 589
+    },
+    {
+      "id": "x9FF723STvo",
+      "title": "Lec19 Deadlock | Necessary conditions for Deadlock | Operating Systems",
+      "duration": 795
+    },
+    {
+      "id": "qPuf5B5xPCs",
+      "title": "Lec20 Resource Allocation Graph in Deadlock | with example | Operating System",
+      "duration": 1509
+    },
+    {
+      "id": "YeXS1JWIA4Q",
+      "title": "Lec21 Deadlock handling  methods | Deadlock Prevention | Operating System",
+      "duration": 1873
+    },
+    {
+      "id": "nDDytwtIMXE",
+      "title": "Lec22 Deadlock Avoidance with Resource Allocation Graph(with example) | Operating System",
+      "duration": 1000
+    },
+    {
+      "id": "bYFVbzLLxfY",
+      "title": "Lec23 Deadlock Avoidance: Banker's Algorithm with example | Operating System",
+      "duration": 1272
+    },
+    {
+      "id": "Or40J_f2RHo",
+      "title": "Lec24 Deadlock Avoidance: Bankers(Resource Request Algorithm) with example |Operating System",
+      "duration": 1279
+    },
+    {
+      "id": "2-7JGoy52Qo",
+      "title": "Lec25 Deadlock Detection and Recovery : Wait-for Graph and Banker's algorithm | Operating System",
+      "duration": 1147
+    },
+    {
+      "id": "bQBt1IYMscI",
+      "title": "Lec26 Deadlock Recovery in Operating System",
+      "duration": 716
+    },
+    {
+      "id": "tX8Z7Te8DrA",
+      "title": "Lec27 Deadlock | GATE Question Previous Year | Operating System",
+      "duration": 687
+    },
+    {
+      "id": "rFt1hwh-8zU",
+      "title": "CPU Scheduling Criteria in Operating system | Various Times related to Process",
+      "duration": 505
+    },
+    {
+      "id": "FWoMSiMep80",
+      "title": "Lec28 Page replacement Introduction| FIFO page replacement algorithm with example| Operating System",
+      "duration": 1209
+    },
+    {
+      "id": "DXU7SqsYDvg",
+      "title": "Lec29 Page Replacement Algorithms | LRU and optimal | Operating Systems",
+      "duration": 978
+    },
+    {
+      "id": "lfOOkEZLG-w",
+      "title": "Lec30 Belady's Anomaly in FIFO page replacement algorithm with example | Operating System",
+      "duration": 687
+    },
+    {
+      "id": "KfnCimYonD0",
+      "title": "Lec31 Multilevel queues and multilevel feedback queue scheduling | Operating systems",
+      "duration": 832
+    }
+  ]
+}

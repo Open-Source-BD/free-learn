@@ -1,0 +1,425 @@
+{
+  "courseId": "database-management-system-dbms-f30ad8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:01.961Z",
+  "title": "Database Management System ( DBMS )",
+  "channel": "Education 4u",
+  "videos": [
+    {
+      "id": "wjfeGxqAQOY",
+      "title": "DBMS tutorial for beginners | DBMS | Lec-01 | Bhanu Priya",
+      "duration": 552
+    },
+    {
+      "id": "oEJMJuFD204",
+      "title": "What is database | DBMS | Lec-02 | Bhanu Priya",
+      "duration": 338
+    },
+    {
+      "id": "tOohitf2CNE",
+      "title": "Components of data base systems | DBMS | Lec-03 | Bhanu Priya",
+      "duration": 316
+    },
+    {
+      "id": "1Thk90gJF6U",
+      "title": "DBMS | Building Blocks | Applications| | DBMS | Lec-04 | Bhanu Priya",
+      "duration": 862
+    },
+    {
+      "id": "CZfmqC9dMJA",
+      "title": "DBMS architecture | 1 tier | 2 tier | 3 tier |  DBMS | Lec-05 | Bhanu Priya",
+      "duration": 1230
+    },
+    {
+      "id": "W5c8fq80PuU",
+      "title": "DBMS STRUCTURE | DBMS | Lec-06 | Bhanu Priya",
+      "duration": 408
+    },
+    {
+      "id": "c9zR90MU51s",
+      "title": "Database users in dbms with example | administrators | DBMS | Lec-07 | Bhanu Priya",
+      "duration": 535
+    },
+    {
+      "id": "zGBIAOYX9Uk",
+      "title": "Data Independence in dbms | Logical and Physical data | | DBMS | Lec-08 | Bhanu Priya",
+      "duration": 1185
+    },
+    {
+      "id": "nW5l5J19GKw",
+      "title": "Attributes in dbms | DBMS | Lec-09 | Bhanu Priya",
+      "duration": 591
+    },
+    {
+      "id": "coHxp23wTyc",
+      "title": "Type of attributes in dbms | DBMS | Lec-10 | Bhanu Priya",
+      "duration": 758
+    },
+    {
+      "id": "kMJR5gexfs8",
+      "title": "ER diagram in dbms | Components | DBMS | Lec-11 | Bhanu Priya",
+      "duration": 477
+    },
+    {
+      "id": "W9Oo4CjHlXg",
+      "title": "ER model to relational model | DBMS | Lec-12 | Bhanu Priya",
+      "duration": 351
+    },
+    {
+      "id": "0DV8EoKZq1Q",
+      "title": "Mapping relationship in dbms | DBMS | Lec-13 | Bhanu Priya",
+      "duration": 341
+    },
+    {
+      "id": "B-HDLP45VqA",
+      "title": "Mapping wek entity and hierarachy | DBMS | Lec-14 | Bhanu Priya",
+      "duration": 853
+    },
+    {
+      "id": "P8n_rwPzdBc",
+      "title": "Relational model in dbms | DBMS | Lec-15 | Bhanu Priya",
+      "duration": 907
+    },
+    {
+      "id": "qOlhsLIc0lA",
+      "title": "Constraints in dbms | key, domain & referential integrity | | DBMS | Lec-16 | Bhanu Priya",
+      "duration": 827
+    },
+    {
+      "id": "zZPUTJjKpzs",
+      "title": "Keys in dbms | Introduction |  types of keys |  | DBMS | Lec-17 | Bhanu Priya",
+      "duration": 1241
+    },
+    {
+      "id": "MjA_Jx1z6ME",
+      "title": "super key in dbms | DBMS | Lec-18 | Bhanu Priya",
+      "duration": 601
+    },
+    {
+      "id": "GLH22JoqeMw",
+      "title": "Candidate key in dbms | DBMS | Lec-19 | Bhanu Priya",
+      "duration": 583
+    },
+    {
+      "id": "p8iRFHfkI_Q",
+      "title": "Primary key in dbms | keys in DBMS | | DBMS | Lec-20 | Bhanu Priya",
+      "duration": 558
+    },
+    {
+      "id": "fXoJFB5E2-k",
+      "title": "Foreign key in dbms | DBMS | Lec-21 | Bhanu Priya",
+      "duration": 1182
+    },
+    {
+      "id": "PQ7Cc8bKw5k",
+      "title": "Keys in database | Secondary  key | DBMS | Lec-22 | Bhanu Priya",
+      "duration": 335
+    },
+    {
+      "id": "Tqn4guzBYzA",
+      "title": "Keys in database | Composite  key | DBMS | Lec-23 | Bhanu Priya",
+      "duration": 286
+    },
+    {
+      "id": "5bmFEANOivg",
+      "title": "Relational algebra in database management system | introduction | DBMS | Lec-24 | Bhanu Priya",
+      "duration": 570
+    },
+    {
+      "id": "KaIRmVD-v3U",
+      "title": "Relational algebra operations in dbms | DBMS | Lec-25 | Bhanu Priya",
+      "duration": 309
+    },
+    {
+      "id": "PnzdA0Tz-yo",
+      "title": "Relational algebra operations in dbms | select operation |  DBMS | Lec-26 | Bhanu Priya",
+      "duration": 602
+    },
+    {
+      "id": "FOWQRPexb00",
+      "title": "Relational algebra operations in dbms | Projection Operation | DBMS | Lec-27 | Bhanu Priya",
+      "duration": 481
+    },
+    {
+      "id": "t2_IrL5U--o",
+      "title": "Relational algebra operations in dbms | set difference operation | | DBMS | Lec-28 | Bhanu Priya",
+      "duration": 273
+    },
+    {
+      "id": "YdoQdPt_9NI",
+      "title": "Relational algebra operations in dbms | Union Operation | DBMS | Lec-29 | Bhanu Priya",
+      "duration": 330
+    },
+    {
+      "id": "ams5CCN_xqw",
+      "title": "Relational algebra operations in dbms | Cartesian product operation | DBMS | Lec-30 | Bhanu Priya",
+      "duration": 193
+    },
+    {
+      "id": "k5WZ9MJTA_Y",
+      "title": "SQL  introduction tutorial | DBMS | Lec-31 | Bhanu Priya",
+      "duration": 362
+    },
+    {
+      "id": "epUjLxMLbJQ",
+      "title": "SQL joins with examples | Inner join | DBMS | Lec-32 | Bhanu Priya",
+      "duration": 678
+    },
+    {
+      "id": "Gn9l4JIUloc",
+      "title": "Outer joins in sql with examples | DBMS | Lec-33 | Bhanu Priya",
+      "duration": 495
+    },
+    {
+      "id": "KasQpgDpFbE",
+      "title": "Outer join | Left, Right & Full | DBMS  | Lec-34 | Bhanu Priya",
+      "duration": 316
+    },
+    {
+      "id": "I95z0pSOUU0",
+      "title": "Aggregate functions in dbms | DBMS | Lec-35 | Bhanu Priya",
+      "duration": 1131
+    },
+    {
+      "id": "pAB-z0knPpk",
+      "title": "SQL Commands | DDL : CREAT, DROP  | DBMS | Lec-36 | Bhanu Priya",
+      "duration": 814
+    },
+    {
+      "id": "WbT2qv2bmjw",
+      "title": "SQL Commands | DDL : ALTER, RENAME & TRUNCATE  | DBMS | Lec-37 | Bhanu Priya",
+      "duration": 806
+    },
+    {
+      "id": "WvOseanUdk4",
+      "title": "DML in sql with examples | DBMS | Lec-38 | Bhanu Priya",
+      "duration": 1065
+    },
+    {
+      "id": "12ly1opuGTw",
+      "title": "DCL commands in sql with examples | GRANT, REVOKE | DBMS | Lec-39 | Bhanu Priya",
+      "duration": 605
+    },
+    {
+      "id": "bLrL9wbuQvs",
+      "title": "PL sql concepts | DBMS | Lec-40 | Bhanu Priya",
+      "duration": 672
+    },
+    {
+      "id": "DIwk_-8ORjE",
+      "title": "PL SQL example | DBMS | Lec-41 | Bhanu Priya",
+      "duration": 497
+    },
+    {
+      "id": "FttzCZICGpQ",
+      "title": "Triggers in dbms | DBMS | Lec-42 | Bhanu Priya",
+      "duration": 455
+    },
+    {
+      "id": "oUV2sAltyPo",
+      "title": "Triggers in database with example | DBMS | Lec-43 | Bhanu Priya",
+      "duration": 476
+    },
+    {
+      "id": "X3c1phdyjbU",
+      "title": "Functional dependency in dbms | DBMS | Lec-44 | Bhanu Priya",
+      "duration": 465
+    },
+    {
+      "id": "fzfT2vp3kjM",
+      "title": "Fully Functional dependency in dbms | Transitive dependency | DBMS | Lec-45 | Bhanu Priya",
+      "duration": 725
+    },
+    {
+      "id": "H8RI1MM4ucI",
+      "title": "Decomposition in dbms | DBMS | Lec-46 | Bhanu Priya",
+      "duration": 703
+    },
+    {
+      "id": "hs_ubhFPNzo",
+      "title": "Lossless decomposition in dbms | DBMS | Lec-47 | Bhanu Priya",
+      "duration": 504
+    },
+    {
+      "id": "pkp0HKvl0mw",
+      "title": "Normalization in database | DBMS | Lec-48 | Bhanu Priya",
+      "duration": 775
+    },
+    {
+      "id": "Vjz6OohFwUk",
+      "title": "1nf normalization example | Decomposition | DBMS  | Lec-49 | Bhanu Priya",
+      "duration": 667
+    },
+    {
+      "id": "rm0k3hINE64",
+      "title": "2NF normalization example | Decomposition | DBMS | Lec-50 | Bhanu Priya",
+      "duration": 871
+    },
+    {
+      "id": "iz1XZaA3ZpY",
+      "title": "3nf normalization example | DBMS | Lec-51 | Bhanu Priya",
+      "duration": 582
+    },
+    {
+      "id": "b39IhcO7qsA",
+      "title": "BCNF normalization in database with example | DBMS | Lec-52 | Bhanu Priya",
+      "duration": 408
+    },
+    {
+      "id": "pr0UbOClLAQ",
+      "title": "4nf normalization in database with example | DBMS | Lec-53 | Bhanu Priya",
+      "duration": 513
+    },
+    {
+      "id": "2HBwczTIKI8",
+      "title": "Relational calculus in dbms | DBMS | Lec-54 | Bhanu Priya",
+      "duration": 406
+    },
+    {
+      "id": "WGAae0B-3gg",
+      "title": "Tuple Relational Calculus in dbms | TRC | DBMS | Lec-55 | Bhanu Priya",
+      "duration": 751
+    },
+    {
+      "id": "wtAuIBxd3Bw",
+      "title": "Domain relational calculus in dbms | DRC | DBMS | Lec-56 | Bhanu Priya",
+      "duration": 387
+    },
+    {
+      "id": "eYQwKi7P8MM",
+      "title": "transaction management in dbms tutorial | DBMS | Lec-57 | Bhanu Priya",
+      "duration": 578
+    },
+    {
+      "id": "76Ct_opQS9c",
+      "title": "ACID properties database | Part -1/2  | DBMS | Lec-58 | Bhanu Priya",
+      "duration": 589
+    },
+    {
+      "id": "5L43xtVztDQ",
+      "title": "ACID properties databas | Part -2/2 | DBMS | Lec-59 | Bhanu Priya",
+      "duration": 657
+    },
+    {
+      "id": "UkfWH3RHIJk",
+      "title": "Transaction states in database example | DBMS | Lec-60 | Bhanu Priya",
+      "duration": 498
+    },
+    {
+      "id": "2Um-j_TTlZM",
+      "title": "Concurrency Control | conflicts of serializabity of transactions | DBMS | Lec-61 | Bhanu Priya",
+      "duration": 1170
+    },
+    {
+      "id": "s1YEg1L0sH0",
+      "title": "Lock based protocol in database | concurrency control techniques | DBMS | Lec-62 | Bhanu Priya",
+      "duration": 746
+    },
+    {
+      "id": "ee-wg9q29f0",
+      "title": "Deadlock in database | DBMS | Lec-63 | Bhanu Priya",
+      "duration": 895
+    },
+    {
+      "id": "IMseWc4S0ww",
+      "title": "Two phase locking example | DBMS | Lec-64 | Bhanu Priya",
+      "duration": 1004
+    },
+    {
+      "id": "aeykOjWjT5Q",
+      "title": "Time stamping method in database | DBMS | Lec-65 | Bhanu Priya",
+      "duration": 701
+    },
+    {
+      "id": "-p5p85SdycE",
+      "title": "Time stamp ordering protocol in database| DBMS | Lec-66 | Bhanu Priya",
+      "duration": 646
+    },
+    {
+      "id": "HnVo3_iH76w",
+      "title": "database recovery management | DBMS | Lec-67 | Bhanu Priya",
+      "duration": 701
+    },
+    {
+      "id": "blTkMaz3SYM",
+      "title": "Physical storage in database | | DBMS | Lec-68 | Bhanu Priya",
+      "duration": 543
+    },
+    {
+      "id": "S_P2yyQuB8M",
+      "title": "File organization in database | importance | Part -1/2 | DBMS | Lec-69 | Bhanu Priya",
+      "duration": 802
+    },
+    {
+      "id": "80QqOL8vO1o",
+      "title": "file organization in database | Importance | Part-2/2 | DBMS | Lec-70 | Bhanu Priya",
+      "duration": 877
+    },
+    {
+      "id": "uuRf-VEFbco",
+      "title": "Indexing in database example | DBMS | Lec-71 | Bhanu Priya",
+      "duration": 684
+    },
+    {
+      "id": "mXPwAiGYl1w",
+      "title": "classification indexing | DBMS | Lec-72 | Bhanu Priya",
+      "duration": 712
+    },
+    {
+      "id": "29o99zuwwKs",
+      "title": "primary indexing in database | indexing | DBMS | Lec-73 | Bhanu Priya",
+      "duration": 1156
+    },
+    {
+      "id": "u5iHc46KOyo",
+      "title": "secondary indexing in database | indexing | DBMS | Lec-74 | Bhanu Priya",
+      "duration": 558
+    },
+    {
+      "id": "Ph656dyoQVA",
+      "title": "cluster indexing in database| indexing | DBMS | Lec-75 | Bhanu Priya",
+      "duration": 608
+    },
+    {
+      "id": "jpS8BLb8BgI",
+      "title": "B+ tree in database | Introduction & Example | DBMS | Lec-76 | Bhanu Priya",
+      "duration": 640
+    },
+    {
+      "id": "c3CrNZaReNM",
+      "title": "B tree in database | Introduction || DBMS | Lec-77 | Bhanu Priya",
+      "duration": 775
+    },
+    {
+      "id": "KnXohGgIpQU",
+      "title": "B tree in database | Example |  DBMS | Lec-78 | Bhanu Priya",
+      "duration": 450
+    },
+    {
+      "id": "lJvkIgFT3dY",
+      "title": "need of query processing | DBMS | Lec-79 | Bhanu Priya",
+      "duration": 889
+    },
+    {
+      "id": "rKN60UnVsMw",
+      "title": "query cost measures | DBMS | Lec-80 | Bhanu Priya",
+      "duration": 656
+    },
+    {
+      "id": "ZomzrCTxFeQ",
+      "title": "Materialized view in database | DBMS | Lec-81 | Bhanu Priya",
+      "duration": 866
+    },
+    {
+      "id": "Vaosfh0vRfk",
+      "title": "Sorting in database systems | Algorithm | DBMS | Lec-82 | Bhanu Priya",
+      "duration": 656
+    },
+    {
+      "id": "YTpkssYOUGw",
+      "title": "Sorting in data base systems | Example | DBMS | Lec-83 | Bhanu Priya",
+      "duration": 824
+    }
+  ]
+}

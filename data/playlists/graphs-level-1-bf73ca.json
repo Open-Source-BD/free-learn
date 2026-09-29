@@ -1,0 +1,100 @@
+{
+  "courseId": "graphs-level-1-bf73ca",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:15.921Z",
+  "title": "Graphs - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "t0r04fYdT7U",
+      "title": "Introduction to Graphs in Data Structures | Representation of Graphs in JAVA",
+      "duration": 498
+    },
+    {
+      "id": "mlnnJd9k7oE",
+      "title": "How to Find Path in Graphs using Depth First Search | Graphs in Data Structures",
+      "duration": 1658
+    },
+    {
+      "id": "DrQ-eTN2v3A",
+      "title": "How to Find All Paths in Graph using Depth First Search? | Data Structures",
+      "duration": 2629
+    },
+    {
+      "id": "PSy0yJQx050",
+      "title": "Easily Solve Graph Problems with DFS!! | Data Structure and Algorithms",
+      "duration": 1465
+    },
+    {
+      "id": "8UBwFE8H4Mc",
+      "title": "Get Connected Components of Graphs in JAVA | Data Structure and Algorithms",
+      "duration": 893
+    },
+    {
+      "id": "dRqO3s14_2s",
+      "title": "Is Graph Connected | Graphs | Data Structure and Algorithms",
+      "duration": 183
+    },
+    {
+      "id": "ErPZFxugYkI",
+      "title": "Count Number of Islands using Graphs | Data Structure and Algorithms",
+      "duration": 1009
+    },
+    {
+      "id": "_q4hA01ZcVQ",
+      "title": "Perfect Friends Problem using Graphs | Data Structures in JAVA",
+      "duration": 1214
+    },
+    {
+      "id": "nUgp0RG57wQ",
+      "title": "Hamiltonian Path & Cycles in Graphs and Graph Theory",
+      "duration": 1463
+    },
+    {
+      "id": "SP880DBRJ_8",
+      "title": "Knights Tour - Solution | Recursion | Data Structures and Algorithms in JAVA",
+      "duration": 826
+    },
+    {
+      "id": "GHnC5qHexsk",
+      "title": "Introduction to Breadth First Traversal (BFS) in Graphs | Algorithms in JAVA",
+      "duration": 671
+    },
+    {
+      "id": "qbQq-k75bcY",
+      "title": "Is a Graph Cyclic? | Graph Data Structure | Cycles in Graphs in JAVA",
+      "duration": 913
+    },
+    {
+      "id": "ZBhZ1DXGrhA",
+      "title": "Is a Graph Bipartite? | Bipartite Graph Algorithm in JAVA | Graph Algorithms",
+      "duration": 2496
+    },
+    {
+      "id": "3A1XJbRs_6A",
+      "title": "Spread Infection | Graphs | Data Structure and Algorithms",
+      "duration": 622
+    },
+    {
+      "id": "sD0lLYlGCJE",
+      "title": "Dijkstra Algorithm in Graphs | Single Source Shortest Path in Weights | Graphs Algorithms in JAVA",
+      "duration": 832
+    },
+    {
+      "id": "Vw-sktU1zmc",
+      "title": "Prim's Algorithm - Graphs | Minimum Spanning Tree(MST) in Graphs | Code and Implementation",
+      "duration": 1043
+    },
+    {
+      "id": "6Vi5Td_a8B8",
+      "title": "Topological Sort Algorithm with DFS | Course Schedule in JAVA | Code and Implementation",
+      "duration": 2329
+    },
+    {
+      "id": "iUtmQ66IC_0",
+      "title": "Iterative Depth First Traversal | Iterative DFS in Graphs | DFS Code",
+      "duration": 973
+    }
+  ]
+}

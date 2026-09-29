@@ -1,0 +1,365 @@
+{
+  "courseId": "introduction-to-matlab-in-english-faaa8d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:01.512Z",
+  "title": "Introduction to Matlab in English",
+  "channel": "Mohammed Mohammed",
+  "videos": [
+    {
+      "id": "E-o5S15_Dg4",
+      "title": "Introduction to Matlab in English | 01 intro",
+      "duration": 635
+    },
+    {
+      "id": "u22OieQ27L0",
+      "title": "Introduction to Matlab in English | 02 basic matrix operations",
+      "duration": 895
+    },
+    {
+      "id": "kUx9Xit3HrI",
+      "title": "Introduction to Matlab in English | 03 solving a set of linear algebraic equations",
+      "duration": 541
+    },
+    {
+      "id": "_1cT8RQBb10",
+      "title": "Introduction to Matlab in English | 04 Dealing with function handles",
+      "duration": 565
+    },
+    {
+      "id": "Yut6ICYquC8",
+      "title": "Introduction to Matlab in English | 05 Polynomial operatios",
+      "duration": 966
+    },
+    {
+      "id": "aXxeSBVQzIk",
+      "title": "Introduction to Matlab in English | 06 Plotting in Matlab (1)",
+      "duration": 788
+    },
+    {
+      "id": "vV2EUa-75Z0",
+      "title": "Introduction to Matlab in English | 07 Semilog and loglog plotting",
+      "duration": 585
+    },
+    {
+      "id": "GL4G_prvC8s",
+      "title": "Introduction to Matlab in English | 08 Plotting functions fplot",
+      "duration": 324
+    },
+    {
+      "id": "CjuHTBUCEN0",
+      "title": "Introduction to Matlab in English | 09 Subplots",
+      "duration": 490
+    },
+    {
+      "id": "6b_bh3l2JUA",
+      "title": "Introduction to Matlab in English | 10 Using plot tools (plotting interface)",
+      "duration": 746
+    },
+    {
+      "id": "1QjiaSMEqEg",
+      "title": "Introduction to Matlab in English | 11 Saving plots",
+      "duration": 413
+    },
+    {
+      "id": "Pk2j9jUjgbU",
+      "title": "Introduction to Matlab in English | 12 Inserting text and extracting data from plots",
+      "duration": 397
+    },
+    {
+      "id": "vzGq9OdgCf4",
+      "title": "Introduction to Matlab in English | 13 axis formatting English",
+      "duration": 661
+    },
+    {
+      "id": "7IkC4Op7CEE",
+      "title": "Introduction to Matlab in English | 14 Least square curve fitting",
+      "duration": 722
+    },
+    {
+      "id": "Zu0D95yfutw",
+      "title": "Introduction to Matlab in English | 14 a - Data fitting toolbox installation",
+      "duration": 155
+    },
+    {
+      "id": "PZsa9hVITKc",
+      "title": "Introduction to Matlab in English | 14b - Data fitting using \"fit\" function",
+      "duration": 798
+    },
+    {
+      "id": "4mRdubbOt_E",
+      "title": "Introduction to Matlab in English | 15 Data fitting app",
+      "duration": 946
+    },
+    {
+      "id": "_RtWzllAIFc",
+      "title": "Introduction to Matlab in English | 16 Data fitting app options",
+      "duration": 522
+    },
+    {
+      "id": "B_-s68cFLBo",
+      "title": "Introduction to Matlab in English | 17 introducing m-files",
+      "duration": 644
+    },
+    {
+      "id": "bJ4OYTFojxg",
+      "title": "Introduction to Matlab in English | 18 User defined functions",
+      "duration": 665
+    },
+    {
+      "id": "m11MfMa9oaY",
+      "title": "Introduction to Matlab in English | 19 m-file and UDF example - RK EOS",
+      "duration": 1005
+    },
+    {
+      "id": "upYzCjuP1zQ",
+      "title": "Introduction to Matlab in English | 20 string variables",
+      "duration": 596
+    },
+    {
+      "id": "Yannrpx-MqQ",
+      "title": "Introduction to Matlab in English | 21 disp and input functions",
+      "duration": 736
+    },
+    {
+      "id": "j2oovbw2FIU",
+      "title": "Introduction to Matlab in English | 22 fprintf function",
+      "duration": 690
+    },
+    {
+      "id": "O4IZKCJoURU",
+      "title": "Introduction to Matlab in English | 23 Create table using fprintf function",
+      "duration": 575
+    },
+    {
+      "id": "3bnxq0bVjkU",
+      "title": "Introduction to Matlab in English | 24 Solving nonlinear algebraic equations (intro)",
+      "duration": 604
+    },
+    {
+      "id": "pI4N6B64PDc",
+      "title": "Introduction to Matlab in English | 25 solving one non linear algebraic equation",
+      "duration": 837
+    },
+    {
+      "id": "sGBZt2-Zpfs",
+      "title": "Introduction to Matlab in English | 26 solving a set of nonlinear algebraic equations",
+      "duration": 443
+    },
+    {
+      "id": "YVJHOjwtC18",
+      "title": "Introduction to Matlab in English | 27 fsolve exercise - calculating bubble and dew points",
+      "duration": 1160
+    },
+    {
+      "id": "PGxOWWJaA-w",
+      "title": "Introduction to Matlab in English | 28 finding a minimum of a function",
+      "duration": 693
+    },
+    {
+      "id": "NFehQ1fuEAc",
+      "title": "Introduction to Matlab in English | 29 critical radius of insulation",
+      "duration": 864
+    },
+    {
+      "id": "iTTXC09HZCg",
+      "title": "Introduction to Matlab in English | 30 logical and relational operators",
+      "duration": 934
+    },
+    {
+      "id": "0HOAlS0yIRQ",
+      "title": "Introduction to Matlab in English | 31 if conditional",
+      "duration": 891
+    },
+    {
+      "id": "M-KBEi_UFN4",
+      "title": "Introduction to Matlab in English | 32 For loops",
+      "duration": 1177
+    },
+    {
+      "id": "5wX0f2klkv8",
+      "title": "Introduction to Matlab in English | 33 Nested for loops",
+      "duration": 809
+    },
+    {
+      "id": "gXY0Z_I5zIk",
+      "title": "Introduction to Matlab in English | 34 While loops",
+      "duration": 673
+    },
+    {
+      "id": "PpOxwObp7fI",
+      "title": "Introduction to Matlab in English | 35 while loop tutorial - friction factor",
+      "duration": 1023
+    },
+    {
+      "id": "Yv8I3JJKDuA",
+      "title": "Introduction to Matlab in English | 36 | loops tutorial - binary system phase diagram",
+      "duration": 720
+    },
+    {
+      "id": "Q_23D-BDYXw",
+      "title": "Introduction to Matlab in English | 37 McCabe Thiele Diagram (1) - Equilibrium curve and q-line",
+      "duration": 942
+    },
+    {
+      "id": "WhHYxroi9II",
+      "title": "Introduction to Matlab in English | 38 McCabe Thiele diagram (2) - Top and bottom sections lines",
+      "duration": 1063
+    },
+    {
+      "id": "txfHRmxTgdE",
+      "title": "Introduction to Matlab in English | 39 McCabe Thiele diagram (3) - NTS For top section",
+      "duration": 993
+    },
+    {
+      "id": "m7XbIB2zxnY",
+      "title": "Introduction to Matlab in English | 40 McCabe Thiele diagram (4) - NTS For bottom section",
+      "duration": 964
+    },
+    {
+      "id": "Rqjbh8wU70E",
+      "title": "Introduction to Matlab in English | 41 Fitting hard-to-fit data",
+      "duration": 1372
+    },
+    {
+      "id": "ttXqSQptG-U",
+      "title": "Introduction to Matlab in English| 42 McCabe Thiele diagram (5) - Check R_min for non ideal mixtures",
+      "duration": 953
+    },
+    {
+      "id": "JUfN5MIBiH8",
+      "title": "Introduction to Matlab in English | 43 McCabe Thiele diagram (6) - Realcculating R_min",
+      "duration": 474
+    },
+    {
+      "id": "UHvNo8zR0_E",
+      "title": "Introduction to Matalb in English | 44 McCabe Thiele diagram (7) Stages for non ideal systems",
+      "duration": 652
+    },
+    {
+      "id": "F8IuRv3utns",
+      "title": "Introduction to Matlab in English | 45 Using Matlab help",
+      "duration": 389
+    },
+    {
+      "id": "7o1oVVniSy0",
+      "title": "Introduction to Matlab in English | 46 Introduction to Integration",
+      "duration": 943
+    },
+    {
+      "id": "t6qW0_TiqHI",
+      "title": "Introduction to Matlab in English | 47 Analytical integration - \"int\" function",
+      "duration": 943
+    },
+    {
+      "id": "EKkPka58ets",
+      "title": "Introduction to Matlab in English | 48 Analytical integration - \"dsolve\" function",
+      "duration": 856
+    },
+    {
+      "id": "RlvZidfkvNg",
+      "title": "Introduction to Matlab in English | 49 Numerical integration - Trapezoidal integration",
+      "duration": 679
+    },
+    {
+      "id": "yemsy2lhfk0",
+      "title": "Introduction to Matlab in English | 50 Numerical integration - quad and integral functions",
+      "duration": 845
+    },
+    {
+      "id": "UoFKlxKMnJg",
+      "title": "Introduction to Matlab in English | 51 Numerical integraion - ode45 function",
+      "duration": 1058
+    },
+    {
+      "id": "HVGqA9x8tRg",
+      "title": "Introduction to Matlab in English | 52 Flow through orifice in open vs closed tank - ode45 tutorial",
+      "duration": 1270
+    },
+    {
+      "id": "V16-6NYpbqY",
+      "title": "Introduction to Matlab in English | 53 Numerical integration of coupled ODE's",
+      "duration": 979
+    },
+    {
+      "id": "P-SN19le6UI",
+      "title": "Introduction to Matlab in English | 54 Overview of different \"ode\" functions in Matlab",
+      "duration": 796
+    },
+    {
+      "id": "QnYjvivlhJU",
+      "title": "Introduction to Matlab in English | 55 Local functions (1) - Introduction",
+      "duration": 387
+    },
+    {
+      "id": "cjfeCvpi07k",
+      "title": "Introduction to Matlab in English | 56 Local functions (2) - Global variables",
+      "duration": 686
+    },
+    {
+      "id": "fHUMygN30z8",
+      "title": "Introduction to Matlab in English | 57 Local functions (3) - Bubble and dew points revisited",
+      "duration": 663
+    },
+    {
+      "id": "rVq_PWzooG0",
+      "title": "Introduction to Matlab in English | 58 | Matlab PDE Modeler - Intro (1)",
+      "duration": 1219
+    },
+    {
+      "id": "2Cy5qKGTaaQ",
+      "title": "Introduction to Matlab in English | 59 | Matlab PDE Modeler - Intro (2)",
+      "duration": 809
+    },
+    {
+      "id": "bruRnPsnhfs",
+      "title": "Introduction to Matlab in English | 60 | Matlab PDE modeler - Introduction to toolbox interface",
+      "duration": 653
+    },
+    {
+      "id": "dOvxHbbXUO4",
+      "title": "Introduction to Matlab in English | 61 | Matlab PDE modeler - Drawing system geometry 1",
+      "duration": 930
+    },
+    {
+      "id": "XXOOhnUu1fw",
+      "title": "Introduction to Matlab in English | 62 | Matlab PDE modeler - Drawing system geometry 2",
+      "duration": 375
+    },
+    {
+      "id": "AaxmdnBrl-w",
+      "title": "Introduction to Matlab in English | 63 | Matlab PDE modeler - Defining B.C.'s and the PDE",
+      "duration": 567
+    },
+    {
+      "id": "typqFrDbX_Y",
+      "title": "Introduction to Matlab in English | 64 | Matlab PDE modeler - Geometry meshing",
+      "duration": 507
+    },
+    {
+      "id": "yyZboQ2KKAg",
+      "title": "Introduction to Matlab in English | 65 | Matlab PDE Toolbox - Refined mesh for narrow geometries",
+      "duration": 228
+    },
+    {
+      "id": "LvxJy7H755I",
+      "title": "Introduction to Matlab in English | 66 | Matlab PDE modeler - Solving PDE 1",
+      "duration": 575
+    },
+    {
+      "id": "RdxSbfkUYqo",
+      "title": "Introduction to Matlab in English | 67 | Matlab PDE modeler - Solving PDE 2",
+      "duration": 539
+    },
+    {
+      "id": "HBD5ClZQZmQ",
+      "title": "Introduction to Matlab in English | 68 | Matlab PDE modeler - BCs for symmetric geometries",
+      "duration": 337
+    },
+    {
+      "id": "GVuO4pN8_1s",
+      "title": "Introduction to Matlab in English | 69 | Matlab PDE Modeler - Unsteady state PDE",
+      "duration": 878
+    }
+  ]
+}

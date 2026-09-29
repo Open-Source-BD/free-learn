@@ -1,0 +1,55 @@
+{
+  "courseId": "node-js-tutorial-for-beginners-7269b0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:39.401Z",
+  "title": "Node JS Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "yEHCfRWz-EI",
+      "title": "What is Node js? | Simplified Explanation",
+      "duration": 529
+    },
+    {
+      "id": "JINE4D0Syqw",
+      "title": "Node JS Installation",
+      "duration": 491
+    },
+    {
+      "id": "U5h97cFmj8I",
+      "title": "Getting Started with Node JS",
+      "duration": 863
+    },
+    {
+      "id": "YSyFSnisip0",
+      "title": "How Node JS Works?",
+      "duration": 551
+    },
+    {
+      "id": "M8nlgBQBxxo",
+      "title": "What is NPM? | Node JS",
+      "duration": 533
+    },
+    {
+      "id": "zKIV3A_aOkY",
+      "title": "Modules in Node JS",
+      "duration": 687
+    },
+    {
+      "id": "ZySsdm576wE",
+      "title": "fs (File System) Module in Node JS",
+      "duration": 578
+    },
+    {
+      "id": "2ojkb44XObc",
+      "title": "Express in Node js | Web Framework",
+      "duration": 1109
+    },
+    {
+      "id": "vJEO57B05Sg",
+      "title": "Node JS Tutorial | Crash Course",
+      "duration": 5290
+    }
+  ]
+}

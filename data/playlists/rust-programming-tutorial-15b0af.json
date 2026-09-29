@@ -1,0 +1,55 @@
+{
+  "courseId": "rust-programming-tutorial-15b0af",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:00.587Z",
+  "title": "Rust Programming Tutorial",
+  "channel": "Tech With Tim",
+  "videos": [
+    {
+      "id": "T_KrYLW4jw8",
+      "title": "Rust Tutorial #1 - Introduction To Rust Programming",
+      "duration": 909
+    },
+    {
+      "id": "gvgBUY8iNO4",
+      "title": "Rust Tutorial #2 - Using Rust Tools (cargo, rustfmt)",
+      "duration": 554
+    },
+    {
+      "id": "xYgfW8cIbMA",
+      "title": "Rust Tutorial #3 - Variables, Constants and Shadowing",
+      "duration": 910
+    },
+    {
+      "id": "t047Hseyj_k",
+      "title": "Rust Tutorial #4 - Data Types",
+      "duration": 1040
+    },
+    {
+      "id": "PQBX-ev5q2k",
+      "title": "Rust Tutorial #5 - Console Input",
+      "duration": 536
+    },
+    {
+      "id": "Uwa3P9dBHdA",
+      "title": "Rust Tutorial #6 - Arithmetic and Type Casting",
+      "duration": 1150
+    },
+    {
+      "id": "MOa7ulhNYc0",
+      "title": "Rust Tutorial #7 - Conditions and Control Flow (if/else if/else)",
+      "duration": 717
+    },
+    {
+      "id": "APrANyLHCtQ",
+      "title": "Rust Tutorial #8 - Functions, Expressions & Statements",
+      "duration": 993
+    },
+    {
+      "id": "-6cnnNlAvNk",
+      "title": "Rust Tutorial #9 - Memory Management, Heap & Stack",
+      "duration": 1287
+    }
+  ]
+}

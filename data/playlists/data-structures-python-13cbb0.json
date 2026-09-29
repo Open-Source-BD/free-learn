@@ -1,0 +1,555 @@
+{
+  "courseId": "data-structures-python-13cbb0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:33.116Z",
+  "title": "Data Structures | Python",
+  "channel": "Amulya's Academy",
+  "videos": [
+    {
+      "id": "8e_PwxYGZrA",
+      "title": "Introduction To Data Structures | Python Tutorials",
+      "duration": 198
+    },
+    {
+      "id": "hdzxzBRXKJ0",
+      "title": "List And Tuple | Data Structures | Python Tutorials",
+      "duration": 412
+    },
+    {
+      "id": "APY_pYeMRkw",
+      "title": "Set And Dictionary | Data Structures | Python Tutorials",
+      "duration": 638
+    },
+    {
+      "id": "lfNfGR3BZHM",
+      "title": "Master Stacks in Python with Real-World Examples 🔥 | Beginners Guide",
+      "duration": 332
+    },
+    {
+      "id": "AKO9nI4tuhs",
+      "title": "Implement Stack Using List | Python Tutorials | Data Structures",
+      "duration": 493
+    },
+    {
+      "id": "Gg2lj65aNCo",
+      "title": "Implement Stack in Python Using Collections and Queue Modules | Python Tutorial | Data Structures",
+      "duration": 366
+    },
+    {
+      "id": "PyAH9-SgTCI",
+      "title": "Queues Explained: Enqueue, Dequeue & Real-Life Examples! | Data Structure | Python Tutorials",
+      "duration": 257
+    },
+    {
+      "id": "pWnH4Q3eMKI",
+      "title": "Queue Implementation Using List | Data Structure | Python Tutorials",
+      "duration": 550
+    },
+    {
+      "id": "UMggt54FZjU",
+      "title": "Queue Implementation Using Classes | Data Structure | Python Tutorials",
+      "duration": 586
+    },
+    {
+      "id": "wRvOzgt2ygs",
+      "title": "Priority Queue | Data Structure | Python Tutorials",
+      "duration": 487
+    },
+    {
+      "id": "9mHz2Yc6oRo",
+      "title": "Introduction To Linked List | Data Structure",
+      "duration": 596
+    },
+    {
+      "id": "AFKtwTqEwTk",
+      "title": "Singly Linked List | Data Structures",
+      "duration": 845
+    },
+    {
+      "id": "xRTdfZsAz6Y",
+      "title": "Python Tutorials - Singly Linked List | Program | Part 1",
+      "duration": 955
+    },
+    {
+      "id": "B-zO18TJKYQ",
+      "title": "Inserting/Adding Elements At The Beginning Of The Linked List | Python Program",
+      "duration": 747
+    },
+    {
+      "id": "o8tWJCFWEPU",
+      "title": "Inserting/Adding Elements At The End Of The Linked List | Python Program",
+      "duration": 796
+    },
+    {
+      "id": "enRNwavYa9U",
+      "title": "Inserting/Adding Elements After The Given Node in The Linked List | Python Program",
+      "duration": 1180
+    },
+    {
+      "id": "8-liQuPp34A",
+      "title": "Inserting/Adding Elements Before The Given Node in The Linked List | Python Program",
+      "duration": 1309
+    },
+    {
+      "id": "jLLR0W_XeGw",
+      "title": "Inserting/Adding Elements To The Empty Linked List | Python Program",
+      "duration": 307
+    },
+    {
+      "id": "LiWt1PUxBbQ",
+      "title": "Delete The First Node in Linked List | Delete At the Beginning | Python Program",
+      "duration": 565
+    },
+    {
+      "id": "ApqPeIi_gJk",
+      "title": "Delete The Last Node in Linked List | Delete At the End | Python Program",
+      "duration": 910
+    },
+    {
+      "id": "wjW6Zhf-bqw",
+      "title": "Delete Any Node By Value in Linked List | Delete At the End | Python Program",
+      "duration": 1219
+    },
+    {
+      "id": "jDCEOqY_Uuw",
+      "title": "Doubly Linked List | Data Structures",
+      "duration": 1055
+    },
+    {
+      "id": "yZf7XqFYU24",
+      "title": "Doubly Linked List | Program | Traversing Operation | Data Structures",
+      "duration": 989
+    },
+    {
+      "id": "bsVWTyMVRME",
+      "title": "Doubly Linked List | Program | Insertion Operation | Part 1 | Data Structures",
+      "duration": 1084
+    },
+    {
+      "id": "gQmbLw007bI",
+      "title": "Doubly Linked List | Program | Insertion Operation | Part 2 | Data Structures",
+      "duration": 1525
+    },
+    {
+      "id": "50vOpFLB428",
+      "title": "Doubly Linked List | Program | Deletion Operation | Data Structures",
+      "duration": 1859
+    },
+    {
+      "id": "YcAa4JFvkbM",
+      "title": "Circular Linked List | Data Structures",
+      "duration": 789
+    },
+    {
+      "id": "lFmKgjuPuHw",
+      "title": "Linear And Non Linear Data Structure",
+      "duration": 238
+    },
+    {
+      "id": "zrTuiS_gYZo",
+      "title": "Introduction To Tree Data Structure using Python",
+      "duration": 484
+    },
+    {
+      "id": "nj0eoaDJTVY",
+      "title": "Characteristics of Tree | Data Structure",
+      "duration": 620
+    },
+    {
+      "id": "r7EHGSUTv_s",
+      "title": "General Tree And Binary Tree | Data Structure",
+      "duration": 240
+    },
+    {
+      "id": "naG0Fh4EtKk",
+      "title": "Types Of Binary Tree 1 | Full Binary Tree | Complete Binary Tree | Data Structure",
+      "duration": 1031
+    },
+    {
+      "id": "P6yhcenHOSs",
+      "title": "Types Of Binary Tree 2 | Perfect BT | Balanced BT | Pathological Binary Tree | Data Structure",
+      "duration": 942
+    },
+    {
+      "id": "Py5b0f_WFvI",
+      "title": "Binary Search Tree | Data Structures",
+      "duration": 787
+    },
+    {
+      "id": "q2rjlcPBk04",
+      "title": "Binary Search Tree With Duplicate Values | Data Structures",
+      "duration": 566
+    },
+    {
+      "id": "dAaTnqOQZTc",
+      "title": "Operations of Binary Search Tree | Insertion and Search Operation | Data Structures",
+      "duration": 803
+    },
+    {
+      "id": "dfTyAOGe4dE",
+      "title": "Deletion Operation in Binary Search Tree | BST Operations | Data Structures",
+      "duration": 731
+    },
+    {
+      "id": "6E6dIi3B9lg",
+      "title": "Traversal Operation in Binary Search Tree | BST | Pre-order And In-order Traversal | Data Structures",
+      "duration": 785
+    },
+    {
+      "id": "gNZSyxqwyxI",
+      "title": "Traversal Operation in Binary Search Tree | Post-order And Level order Traversal | Data Structures",
+      "duration": 460
+    },
+    {
+      "id": "Q2A5tOis2Qg",
+      "title": "Minimum and Maximum Value in Binary Search Tree | Data Structure",
+      "duration": 358
+    },
+    {
+      "id": "5kaVCwKd3hI",
+      "title": "Python Program To Implement Binary Search Tree | Program 1",
+      "duration": 543
+    },
+    {
+      "id": "18YDhu9IFws",
+      "title": "Python Program To Implement Binary Search Tree | Program 2 | Insertion",
+      "duration": 1108
+    },
+    {
+      "id": "MD5moPUkTHU",
+      "title": "Python Program To Implement Binary Search Tree | Program 2 | Insertion With Example",
+      "duration": 975
+    },
+    {
+      "id": "l0ocgOuETiQ",
+      "title": "Python Program To Implement Binary Search Tree | Program 3 | Search Operation",
+      "duration": 806
+    },
+    {
+      "id": "MV3nPSok0QQ",
+      "title": "Python Program To Implement Binary Search Tree | Program 4 | Pre-Order Traversal Algorithm",
+      "duration": 655
+    },
+    {
+      "id": "fRoAiWP-4Xk",
+      "title": "Python Program To Implement Binary Search Tree | Program 5 | In-Order And Post-Order Algorithm",
+      "duration": 432
+    },
+    {
+      "id": "1x4eMO4ofbY",
+      "title": "Python Program To Implement Binary Search Tree | Program 6 | Deletion{Except Root Node With 1 child}",
+      "duration": 1394
+    },
+    {
+      "id": "kDbqMBgVr9s",
+      "title": "Python Program To Implement Binary Search Tree | Program 6 | Deletion | Example",
+      "duration": 775
+    },
+    {
+      "id": "Z2gWBkiboGY",
+      "title": "How To Delete Root Node In Binary Search Tree | Python Program | Data Structure | Part 2",
+      "duration": 828
+    },
+    {
+      "id": "Zfmp2bpwP70",
+      "title": "Python Program To Implement Binary Search Tree | Program 7 | Min and Max Key",
+      "duration": 725
+    },
+    {
+      "id": "4X6bXXLt1j8",
+      "title": "Introduction to Binary Heap Data Structure | Heap Tree",
+      "duration": 439
+    },
+    {
+      "id": "jqRh0oVdss4",
+      "title": "Binary Heap Operations | Data Structure",
+      "duration": 1188
+    },
+    {
+      "id": "B8nlglpSfRw",
+      "title": "Create/Build Binary Heap {min heap or max heap} From List Of Numbers | data Structure",
+      "duration": 758
+    },
+    {
+      "id": "NCRIwhTThkk",
+      "title": "List Representation of Binary Heap | Python Tutorials",
+      "duration": 347
+    },
+    {
+      "id": "58cYFs_W2_s",
+      "title": "Heapq Module And Priority Queue | Binary Heap | Python Tutorials",
+      "duration": 716
+    },
+    {
+      "id": "KXnJQUzZ9iI",
+      "title": "Introduction To Graphs | Data Structure",
+      "duration": 413
+    },
+    {
+      "id": "3EuMihE4HCU",
+      "title": "Types of Graph | Data Structure",
+      "duration": 351
+    },
+    {
+      "id": "LxN4oUWJNag",
+      "title": "Terminologies of Graph | Data Structure",
+      "duration": 861
+    },
+    {
+      "id": "wP9FBULI9E0",
+      "title": "Graph Representation - Adjacency Matrix | Data Structure | Python Tutorials",
+      "duration": 954
+    },
+    {
+      "id": "04oDTZmMNGk",
+      "title": "Graph Representation - Adjacency List | Data Structures",
+      "duration": 301
+    },
+    {
+      "id": "ZYpKo4FUcds",
+      "title": "Graph Operations - Insertion | Data Structure | Python Tutorials",
+      "duration": 796
+    },
+    {
+      "id": "RS6pKl7hqR4",
+      "title": "Python Program To Implement Graph Insertion Operation | Add Node | Adjacency Matrix | Data Structure",
+      "duration": 809
+    },
+    {
+      "id": "QlHzz_NR3zg",
+      "title": "Python Program To Implement Graph Insertion Operation | Add Edge | Adjacency Matrix | Data Structure",
+      "duration": 724
+    },
+    {
+      "id": "mDSoQbQYuSk",
+      "title": "Python Program To Implement Graph Insertion Operation | Add Node | Adjacency List | Data Structure",
+      "duration": 394
+    },
+    {
+      "id": "9RB-DB3kUm0",
+      "title": "Python Program To Implement Graph Insertion Operation | Add Edge | Adjacency List | Data Structure",
+      "duration": 664
+    },
+    {
+      "id": "96pQDQ11cBo",
+      "title": "Graph Operations - Deletion | Data Structure | Python Tutorials",
+      "duration": 797
+    },
+    {
+      "id": "S8diyK9XsRQ",
+      "title": "Python Program For Graph Deletion Operation | Delete Node | Adjacency Matrix | Data Structure",
+      "duration": 596
+    },
+    {
+      "id": "0JEnNTPjHM0",
+      "title": "Python Program For Graph Deletion Operation | Delete Edge | Adjacency Matrix | Data Structure",
+      "duration": 582
+    },
+    {
+      "id": "Am3g025nqXA",
+      "title": "Python Program For Graph Deletion Operation | Delete Node | Adjacency List | Data Structure",
+      "duration": 812
+    },
+    {
+      "id": "g0P6wBz7Y-I",
+      "title": "Python Program For Graph Deletion Operation | Delete Edge | Adjacency List | Data Structure",
+      "duration": 793
+    },
+    {
+      "id": "ZepvInQ4ESE",
+      "title": "Graphs With Multiple Edges | Data Structure",
+      "duration": 365
+    },
+    {
+      "id": "QUlkiLgFdHU",
+      "title": "Graph Traversal Algorithm | DFS | Data Structure",
+      "duration": 552
+    },
+    {
+      "id": "FwiQs0es1lQ",
+      "title": "Graph Traversal Algorithm | Depth First Search | Data Structure | Part 2",
+      "duration": 396
+    },
+    {
+      "id": "pBasV9jlQ0w",
+      "title": "DFS Implementation Using Stack Data Structure | Graph Traversal Algorithm",
+      "duration": 856
+    },
+    {
+      "id": "Y-I9b3rOo3Q",
+      "title": "Python Program To Implement DFS Using Recursion | Data Structure",
+      "duration": 757
+    },
+    {
+      "id": "SOlUb4eMbMQ",
+      "title": "DFS Recursive Function Working | Python Program | Data Structure",
+      "duration": 893
+    },
+    {
+      "id": "dqnZShCbQiI",
+      "title": "Python Program To Implement DFS Using Iterative Approach | Using Stack | Data Structure",
+      "duration": 820
+    },
+    {
+      "id": "p_BEw_Z8jfk",
+      "title": "Python Program To Check Graph is Connected or Disconnected Using DFS | Data Structure",
+      "duration": 470
+    },
+    {
+      "id": "vnjjMVcO-R4",
+      "title": "How To Traverse Disconnected Graph Using DFS | Python Program | Data Structure",
+      "duration": 245
+    },
+    {
+      "id": "3acMKrHLK-U",
+      "title": "How To Check Whether Given Graph Is Weakly Connected or Strongly Connected Using DFS",
+      "duration": 336
+    },
+    {
+      "id": "nsNFLI9nL3U",
+      "title": "Python Program To Check Graph is Strongly Connected or Weakly Connected Using DFS",
+      "duration": 485
+    },
+    {
+      "id": "bCxD-30gbM8",
+      "title": "Strongly Connected or Weakly Connected Graph | Python Program Example",
+      "duration": 533
+    },
+    {
+      "id": "eCdRXFHONOw",
+      "title": "Python Program To Traverse Weakly Connected Graph Using DFS Function",
+      "duration": 172
+    },
+    {
+      "id": "-2CI8oUbjO8",
+      "title": "Introduction To BFS Algorithm | Graph Data Structure",
+      "duration": 306
+    },
+    {
+      "id": "oOlN-qWJzzA",
+      "title": "BFS And Queue Data Structure | Graph Data Structure",
+      "duration": 323
+    },
+    {
+      "id": "46VmSgebZP4",
+      "title": "Python Program For Graph Traversal Operation Using BFS | Graph Data Structure",
+      "duration": 655
+    },
+    {
+      "id": "BVgrfm8euuA",
+      "title": "Working Of BFS Python Program | Graph Data Structure",
+      "duration": 716
+    },
+    {
+      "id": "_4BF6DCsNdQ",
+      "title": "Python Program To Check Graph Is Connected or Disconnected | BFS | Graph Data Structure",
+      "duration": 428
+    },
+    {
+      "id": "tBc_IvCgXeo",
+      "title": "Python Program To Check Graph Is Strogly Connected or Weakly connected Using BFS | Graph",
+      "duration": 678
+    },
+    {
+      "id": "LDpHcG8rrKs",
+      "title": "Shortest Path Between Two Nodes Using BFS Algorithm | Graph Data Structure",
+      "duration": 436
+    },
+    {
+      "id": "aDEtKZicljU",
+      "title": "Python Program To Find Shortest Path Between Nodes Using BFS Algorithm | Graph Data Structure",
+      "duration": 824
+    },
+    {
+      "id": "IQJjEdF95_o",
+      "title": "Working Of Python Program To Find Shortest Path Using BFS |  Graph Data Structure",
+      "duration": 746
+    },
+    {
+      "id": "rxNm9uAUKFs",
+      "title": "Python Program To Detect Cycle in Undirected graph Using BFS | Graph Data Structure",
+      "duration": 441
+    },
+    {
+      "id": "IWSX_LPRiGA",
+      "title": "Dijkstra's Algorithm Explained | Shortest Path in Weighted Graphs Made Easy | Graph data Structure",
+      "duration": 806
+    },
+    {
+      "id": "u33NM1pZvoM",
+      "title": "Python Program For Dijkstra's Algorithm | Graph Data Structure",
+      "duration": 874
+    },
+    {
+      "id": "-gmsXcSl4zc",
+      "title": "Python Program For Dijkstra Algorithm To Find Shortest Path | Graph Data Structure",
+      "duration": 568
+    },
+    {
+      "id": "COYJ_pjCcF8",
+      "title": "Hash Tables | Data Structure",
+      "duration": 269
+    },
+    {
+      "id": "95DPFqhwOp4",
+      "title": "Hash Table Terminology | Data Structure",
+      "duration": 268
+    },
+    {
+      "id": "a0RijpQwRWE",
+      "title": "Collision In Hash Table | Data Structure",
+      "duration": 312
+    },
+    {
+      "id": "JS5KU8VblWA",
+      "title": "Hash Table And Dictionary in Python | Data Structure",
+      "duration": 156
+    },
+    {
+      "id": "CStrcau4jAA",
+      "title": "Hash Table Insertion Operation | Data Structure",
+      "duration": 233
+    },
+    {
+      "id": "quophQt76Gs",
+      "title": "Delete Operation in Hash Table | Data Structure",
+      "duration": 545
+    },
+    {
+      "id": "fPMLuIUwkXY",
+      "title": "Search Operation in Hash Table | Data Structure",
+      "duration": 383
+    },
+    {
+      "id": "MKlnZbWEnNQ",
+      "title": "Hash Table Update Operation | Data Structure",
+      "duration": 279
+    },
+    {
+      "id": "iD4QV_OUKTg",
+      "title": "Python Hash Table Implementation Using Lists and Chaining | Data Structure",
+      "duration": 423
+    },
+    {
+      "id": "bA7Cqf0uFCI",
+      "title": "Python Program To Implement Hash Table | Search And Delete Operation In Hash Table | Data Structure",
+      "duration": 408
+    },
+    {
+      "id": "_JFxGipcxdE",
+      "title": "Python Program To Implement Hash Tables | Open Addressing | Data Structure",
+      "duration": 643
+    },
+    {
+      "id": "7nYeAkw_Jo8",
+      "title": "Python Program To Implement Hash Tables | Open Addressing | Data Structure",
+      "duration": 590
+    },
+    {
+      "id": "-qwHfMBVwEI",
+      "title": "Python Program To Implement Hash Tables |  Quadratic Probing | Data Structure",
+      "duration": 216
+    }
+  ]
+}

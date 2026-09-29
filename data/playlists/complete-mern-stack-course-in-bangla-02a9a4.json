@@ -1,0 +1,820 @@
+{
+  "courseId": "complete-mern-stack-course-in-bangla-02a9a4",
+  "sourceUrl": "https://www.youtube.com/watch?v=ewBBT6Iph0M&list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:01.454Z",
+  "title": "Full-stack Army - Complete MERN Stack Journey in Bangla",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "dS3dMXflzag",
+      "title": "Full-stack Army Intro - কি আছে আর কারা করতে পারবে? | Full-Stack Army | Stack Learner",
+      "duration": 428
+    },
+    {
+      "id": "ewBBT6Iph0M",
+      "title": "Lecture 0: Advanced Full Stack Army Course Introduction | Full-Stack Army | Stack Learner",
+      "duration": 13872
+    },
+    {
+      "id": "AnD2KuKNsxE",
+      "title": "Lecture 1: Web Application Requirements & Landscape (Development Big Picture) | Full-Stack Army",
+      "duration": 8064
+    },
+    {
+      "id": "9ltapy7kK5w",
+      "title": "Lecture 2: We Need Freedom, We Have to Stop Technology War | Full-Stack Army | Stack Learner",
+      "duration": 7414
+    },
+    {
+      "id": "1LWq-OdB7jY",
+      "title": "Lecture 3: Programming Language Foundation - A Bigger Landscape | Full-Stack Army | Stack Learner",
+      "duration": 10166
+    },
+    {
+      "id": "tAkUXTvm-xo",
+      "title": "Lecture 4: Programming Fundamentals using JavaScript | Full-Stack Army | Stack Learner",
+      "duration": 10632
+    },
+    {
+      "id": "LADJO7KniNY",
+      "title": "Lecture 5: Array Operations - Imperative vs Declarative | Full-Stack Army | Stack Learner",
+      "duration": 10815
+    },
+    {
+      "id": "Mr5rksCjybA",
+      "title": "Lecture 6: JavaScript Array and Object Deep Dive | Full-Stack Army | Stack Learner",
+      "duration": 12633
+    },
+    {
+      "id": "TAa7gSbPVis",
+      "title": "Lecture 7: QNA - Don't Miss The Last Part | Full-Stack Army | Stack Learner",
+      "duration": 9291
+    },
+    {
+      "id": "lctjTl1ftdw",
+      "title": "Lecture 8: Understand JavaScript Functions (Function as a Value) | Full-Stack Army | Stack Learner",
+      "duration": 10298
+    },
+    {
+      "id": "wMy2IZ12mxM",
+      "title": "Lecture 9: Functional Programming in JavaScript | Full-Stack Army | Stack Learner",
+      "duration": 11376
+    },
+    {
+      "id": "OCkxS7W3gwU",
+      "title": "Lecture 10: Asynchronous Programming in JavaScript | Full-Stack Army | Stack Learner",
+      "duration": 8495
+    },
+    {
+      "id": "phzeyHwoIrQ",
+      "title": "Lecture 11: Async Iterator & Generator in JavaScript | Full-Stack Army | Stack Learner",
+      "duration": 7729
+    },
+    {
+      "id": "Gsj7uU_7Um4",
+      "title": "Lecture 12: Attendance System Requirement Analysis | Full-Stack Army | Stack Learner",
+      "duration": 11898
+    },
+    {
+      "id": "BfGOYh9Fdwg",
+      "title": "Lecture 13: Create Models, Write Pseudo Code and Discussion | Full-Stack Army | Stack Learner",
+      "duration": 9523
+    },
+    {
+      "id": "QBTOAGGgehA",
+      "title": "Lecture 14: Backend (Part 1) - Course Planning and Discussion | Full-Stack Army | Stack Learner",
+      "duration": 3185
+    },
+    {
+      "id": "Mc6UEF957hU",
+      "title": "Lecture 15: Backend (Part 2) - Introduction to Backend Development | Full-Stack Army | Stack Learner",
+      "duration": 7123
+    },
+    {
+      "id": "kXeNJJ4mQ7w",
+      "title": "Lecture 16: Backend (Part 3) - Understand Express Middleware | Full-Stack Army | Stack Learner",
+      "duration": 9676
+    },
+    {
+      "id": "4D2DIu8bhqU",
+      "title": "Lecture 17: Backend (Part 4) - Raffle Draw Project | Full-Stack Army | Stack Learner",
+      "duration": 7207
+    },
+    {
+      "id": "SyKO3oZLz00",
+      "title": "Lecture 18: Backend (Part 5) - Understand The Concepts of Database | Full-Stack Army | Stack Learner",
+      "duration": 8092
+    },
+    {
+      "id": "mqq5VgRMIho",
+      "title": "Lecture 19: Backend (Part 6) - Discussion in Random Topics | Full-Stack Army | Stack Learner",
+      "duration": 5570
+    },
+    {
+      "id": "y5Rism0fEqE",
+      "title": "Lecture 20: Backend (Part 7) - Start Working with Mongoose | Full-Stack Army | Stack Learner",
+      "duration": 10432
+    },
+    {
+      "id": "krI6QUCGHY4",
+      "title": "Lecture 21: QNA on Express 101 and Books | Full-Stack Army | Stack Learner",
+      "duration": 7106
+    },
+    {
+      "id": "0gl4grplEcI",
+      "title": "Lecture 22: Authentication System from Pseudo Code to Real Code | Full-Stack Army | Stack Learner",
+      "duration": 10923
+    },
+    {
+      "id": "D5A5BSGQVBU",
+      "title": "Lecture 23: Implement JWT and Refactor The Project Structure | Full-Stack Army | Stack Learner",
+      "duration": 10257
+    },
+    {
+      "id": "xr0sKPvAipQ",
+      "title": "Lecture 24: Implement User CRUD Operations | Full-Stack Army | Stack Learner",
+      "duration": 12406
+    },
+    {
+      "id": "KseSdSmvvuM",
+      "title": "Lecture 25: QNA on 5 Recorded Courses and Motivational Discussion | Full-Stack Army | Stack Learner",
+      "duration": 8127
+    },
+    {
+      "id": "A5S7mWxqs2s",
+      "title": "Lecture 26: Implement Attendance System Main Functionalities | Full-Stack Army | Stack Learner",
+      "duration": 5539
+    },
+    {
+      "id": "0T7YagglhFY",
+      "title": "Lecture 27: Frontend Core Concepts and Communication | Full-Stack Army | Stack Learner",
+      "duration": 9713
+    },
+    {
+      "id": "FppAFtsxICk",
+      "title": "Lecture 28: Frontend (Part 1) - Frontend Course Planning & Discussion | Full-Stack Army",
+      "duration": 4056
+    },
+    {
+      "id": "vmw-sSTFwAk",
+      "title": "Lecture 29: Frontend (Part 2) - Understand React in A Different Way | Full-Stack Army",
+      "duration": 8322
+    },
+    {
+      "id": "KB5Ym33BvPc",
+      "title": "Lecture 30: Frontend (Part 3) - Understand React Functional Component | Full-Stack Army",
+      "duration": 6357
+    },
+    {
+      "id": "ehGPlQzn8Rc",
+      "title": "Lecture 31: Frontend (Part 4) - React Component Tree and State | Full-Stack Army | Stack Learner",
+      "duration": 9606
+    },
+    {
+      "id": "F7zCmo7XM4Q",
+      "title": "Lecture 32: Frontend (Part 5) - React State and Its Lifecycle | Full-Stack Army | Stack Learner",
+      "duration": 9066
+    },
+    {
+      "id": "Vzg78nNw5UI",
+      "title": "Lecture 33: Frontend (Part 6) - Understand The Data From a Different Perspective | Full-Stack Army",
+      "duration": 9558
+    },
+    {
+      "id": "f0Th4QKYQkM",
+      "title": "Lecture 34: Frontend (Part 7) - Discussion in Random Topics | Full-Stack Army | Stack Learner",
+      "duration": 7826
+    },
+    {
+      "id": "rp97rUwOcjs",
+      "title": "Lecture 35: Frontend (Part 8) - JSON to JSX (Importance of Structuring Data) | Full-Stack Army",
+      "duration": 10045
+    },
+    {
+      "id": "4X1GkVnoECY",
+      "title": "Lecture 36: React Functional Component, Props, and State | Full-Stack Army | Stack Learner",
+      "duration": 9618
+    },
+    {
+      "id": "6PyLbaIn0tI",
+      "title": "Lecture 37: Thinking in React | Full-Stack Army | Stack Learner",
+      "duration": 9190
+    },
+    {
+      "id": "3JUvn3uoUBI",
+      "title": "Lecture 38: JSON to JSX to JSON Thinking With a Small Project | Full-Stack Army | Stack Learner",
+      "duration": 12304
+    },
+    {
+      "id": "6Q6CrZQY5go",
+      "title": "Lecture 39: Refactor The Operation and History Project | Full-Stack Army | Stack Learner",
+      "duration": 7409
+    },
+    {
+      "id": "Fyr62IfXd-Q",
+      "title": "Lecture 40: State Lifting and Filtering Techniques | Full-Stack Army | Stack Learner",
+      "duration": 9001
+    },
+    {
+      "id": "AjEC_i3JZ5A",
+      "title": "Lecture 41: Understand The Usage of useEffect Hook | Full-Stack Army | Stack Learner",
+      "duration": 9334
+    },
+    {
+      "id": "OqwJZIk0Oxw",
+      "title": "Lecture 42: React Custom Hooks | Full-Stack Army | Stack Learner",
+      "duration": 6955
+    },
+    {
+      "id": "0jBAGrnLFOo",
+      "title": "Lecture 43: React Styling Options, Styled Component, and Project Structures | Full-Stack Army",
+      "duration": 7993
+    },
+    {
+      "id": "_oyuPun0Gck",
+      "title": "Lecture 44: Building a Custom Form in React (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 7253
+    },
+    {
+      "id": "u9k1wKqb_o0",
+      "title": "Lecture 45: Create a custom form in React (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 8946
+    },
+    {
+      "id": "ybI-tdMuzZQ",
+      "title": "Lecture 46: Discussion - Motivation - Project Requirements (Part 1) | Full-Stack Army| Stack Learner",
+      "duration": 8642
+    },
+    {
+      "id": "HXy-pTfGR-k",
+      "title": "Lecture 47: Discussion - Motivation - Project Requirements (Part 2) | Full-Stack Army| Stack Learner",
+      "duration": 7768
+    },
+    {
+      "id": "zvPeZtmBpQs",
+      "title": "Lecture 48: Track Zone Project Review and Discussion (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 9500
+    },
+    {
+      "id": "UfoxyEYlIVg",
+      "title": "Lecture 49: Track Zone Project Breakdown - Component Tree and Clock Logic (Part 2) | Full-Stack Army",
+      "duration": 5946
+    },
+    {
+      "id": "CF2DndvTjps",
+      "title": "Lecture 50: Track Zone Project Breakdown - Component Tree and Clock Logic (Part 3) | Full-Stack Army",
+      "duration": 4856
+    },
+    {
+      "id": "Pxups_anpyM",
+      "title": "Lecture 51: Track Zone Project - Display and Edit Local Time (Part 4) | Full-Stack Army",
+      "duration": 7932
+    },
+    {
+      "id": "NaXQ4SCh0QQ",
+      "title": "Lecture 52: Track Zone Project - Reusable Clock Form (Part 5) | Full-Stack Army | Stack Learner",
+      "duration": 7470
+    },
+    {
+      "id": "1_QqwTbnC08",
+      "title": "Lecture 53: Track Zone Project - Create, Edit & List Custom Clock (Part 6) | Full-Stack Army",
+      "duration": 7147
+    },
+    {
+      "id": "514YU21dp4c",
+      "title": "Lecture 54: Track Zone Project - Create Events Functionality and useTimer Hook (Part 7)",
+      "duration": 7278
+    },
+    {
+      "id": "RwOzRLOA9kA",
+      "title": "Lecture 55: Introduction to Material UI | Full-Stack Army | Full-Stack Army | Stack Learner",
+      "duration": 7325
+    },
+    {
+      "id": "3QqJUK1zKUM",
+      "title": "Lecture 56: Clean YouTube Project - Custom Hook and API Call (Part 1) | Full-Stack Army",
+      "duration": 7049
+    },
+    {
+      "id": "PUYLPkUz7-8",
+      "title": "Lecture 57: Clean YouTube Project - Display a List of Playlists (Part 2) | Full-Stack Army",
+      "duration": 9270
+    },
+    {
+      "id": "8j30LJ9oViY",
+      "title": "Lecture 58: Clean YouTube Project - React Router Dom and API Bug Fixing (Part 3) | Full-Stack Army",
+      "duration": 7825
+    },
+    {
+      "id": "rSkJ6Hg63ik",
+      "title": "Lecture 59: Understand Application States - Importance of Redux | Full-Stack Army | Stack Learner",
+      "duration": 7545
+    },
+    {
+      "id": "92fktZ-9zm8",
+      "title": "Lecture 60: Random Discussion and React SEO | Full-Stack Army | Stack Learner",
+      "duration": 3901
+    },
+    {
+      "id": "HmIqyTuMYCo",
+      "title": "Lecture 61: Understand Redux, React Redux and EasyPeasy | Full-Stack Army | Stack Learner",
+      "duration": 7389
+    },
+    {
+      "id": "CI1VDQe93mo",
+      "title": "Lecture 62: Introduction to React Hook Form | Full-Stack Army | Stack Learner",
+      "duration": 5370
+    },
+    {
+      "id": "z-LuVF6B2yU",
+      "title": "Lecture 63: Overview of React All Features | Full-Stack Army | Stack Learner",
+      "duration": 8493
+    },
+    {
+      "id": "i2Md8PgI8Ds",
+      "title": "Lecture 64: Clean YouTube Project - Implement The EasyPeasy Store (Part 4)",
+      "duration": 7235
+    },
+    {
+      "id": "KPvnW-5HcxQ",
+      "title": "Lecture 65: Clean YouTube Project - Complete Store - Assignments and Discussion (Part 5)",
+      "duration": 6515
+    },
+    {
+      "id": "JO_yMBcM2_k",
+      "title": "Lecture 66: QNA on Clean YouTube Project (Part 6) | Full-Stack Army | Stack Learner",
+      "duration": 2906
+    },
+    {
+      "id": "4Kabwl0VeJU",
+      "title": "Lecture 67: Introduction to Headless CMS - Strapi First Look | Full-Stack Army | Stack Learner",
+      "duration": 6314
+    },
+    {
+      "id": "8Fuxmt6JDzk",
+      "title": "Lecture 68: Clean YouTube Project Review and Discussion (Part 7) | Full-Stack Army | Stack Learner",
+      "duration": 7007
+    },
+    {
+      "id": "p7-6YWu6qCM",
+      "title": "Lecture 69: E-commerce Storefront Project Introductory Talk (Assignment) | Full-Stack Army",
+      "duration": 5299
+    },
+    {
+      "id": "PXlxUwOgWEY",
+      "title": "Lecture 70: Team Distribution and Discuss on Project | Full-Stack Army | Stack Learner",
+      "duration": 6133
+    },
+    {
+      "id": "CHcD_SrEO4U",
+      "title": "Lecture 71: Project Proposal Presentation (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 11084
+    },
+    {
+      "id": "NImVORjqRjc",
+      "title": "Lecture 72: Project Proposal Presentation (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 10241
+    },
+    {
+      "id": "xpGeLn0xVW4",
+      "title": "Lecture 73: Project Proposal Presentation (Part 3) | Full-Stack Army | Stack Learner",
+      "duration": 6713
+    },
+    {
+      "id": "zIN2aPW7LaY",
+      "title": "Lecture 74: Discussion About Project Problems (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 3734
+    },
+    {
+      "id": "t86E_4UW8_Q",
+      "title": "Lecture 75: Discussion About Project Problems (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 1848
+    },
+    {
+      "id": "jRinfJCku_k",
+      "title": "Lecture 76: Discussion About Project Problems (Part 3) | Full-Stack Army | Stack Learner",
+      "duration": 8873
+    },
+    {
+      "id": "G9iV2fFkE7Y",
+      "title": "Lecture 77: Project Review (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 12946
+    },
+    {
+      "id": "GixXnDSA3kw",
+      "title": "Lecture 78: Project Review (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 8304
+    },
+    {
+      "id": "TyRsFYImuW0",
+      "title": "Lecture 79: Learning Plan for Enterprise Applications | Full-Stack Army | Stack Learner",
+      "duration": 5482
+    },
+    {
+      "id": "bo7lgtzmTSQ",
+      "title": "Lecture 80: Introduction to Design System | Full-Stack Army | Stack Learner",
+      "duration": 5779
+    },
+    {
+      "id": "h8Dk1c8LeVs",
+      "title": "Lecture 81: Implement Design System using SCSS | Full-Stack Army | Stack Learner",
+      "duration": 7521
+    },
+    {
+      "id": "-fbJRtm65Yo",
+      "title": "Lecture 82: Setup Mono Repo with Two Packages | Full-Stack Army | Stack Learner",
+      "duration": 6533
+    },
+    {
+      "id": "rWiNQ4SNwNE",
+      "title": "Lecture 83: Create Atoms and Foundation Package | Full-Stack Army | Stack Learner",
+      "duration": 6189
+    },
+    {
+      "id": "iNGpYYOysbo",
+      "title": "Lecture 84: Create Select Molecules and Margin Atom | Full-Stack Army | Stack Learner",
+      "duration": 7483
+    },
+    {
+      "id": "1e8yqBbDUdA",
+      "title": "Lecture 85: Complete Select Component with Accessibilities | Full-Stack Army | Stack Learner",
+      "duration": 7291
+    },
+    {
+      "id": "0NS-B1QNt3Y",
+      "title": "Lecture 86: QNA, Random Discussion & Project Planning | Full-Stack Army | Stack Learner",
+      "duration": 3783
+    },
+    {
+      "id": "-n3FN7LxBE8",
+      "title": "Lecture 87: Introduction To Storybook | Full-Stack Army | Stack Learner",
+      "duration": 5522
+    },
+    {
+      "id": "5kP5ftNEj6E",
+      "title": "Lecture 88: Integrate Storybook in Our Design System | Full-Stack Army | Stack Learner",
+      "duration": 5022
+    },
+    {
+      "id": "5pVOvcQNSw0",
+      "title": "Lecture 89: Frontend Final Project Idea Approval Session | Full-Stack Army | Stack Learner",
+      "duration": 6256
+    },
+    {
+      "id": "xhxdgsAn6xU",
+      "title": "Lecture 90: Introduction to Test-Driven Development using JEST | Full-Stack Army | Stack Learner",
+      "duration": 5803
+    },
+    {
+      "id": "A5wHysSjOdA",
+      "title": "Lecture 91: Test Driven Development using React Testing Library | Full-Stack Army | Stack Learner",
+      "duration": 6513
+    },
+    {
+      "id": "7v0G4M7Jt8U",
+      "title": "Lecture 92: What is Mock Function Mock Function Concept in Jest | Full-Stack Army | Stack Learner",
+      "duration": 3390
+    },
+    {
+      "id": "QS7OKFzXtKU",
+      "title": "Lecture 93: Jest Mock Function API Test Examples | Full-Stack Army | Stack Learner",
+      "duration": 4361
+    },
+    {
+      "id": "uFP_5LmEZSM",
+      "title": "Lecture 94: Jest Mock Function & Complex Integration Testing | Full-Stack Army | Stack Learner",
+      "duration": 6272
+    },
+    {
+      "id": "rBBYkNIx_7M",
+      "title": "Lecture 95: Frontend Final Project Review and Discussion | Full-Stack Army | Stack Learner",
+      "duration": 7274
+    },
+    {
+      "id": "EfmuDn6zmOc",
+      "title": "Lecture 96: React Performance Optimization Introduction | Full-Stack Army | Stack Learner",
+      "duration": 7999
+    },
+    {
+      "id": "wVbQO29gyHA",
+      "title": "Lecture 97: Hands-on React Performance Optimization | Full-Stack Army | Stack Learner",
+      "duration": 7557
+    },
+    {
+      "id": "dkpwyZ5haU8",
+      "title": "Lecture 98: Career Talk - Discussion about Freelancing, Remote Jobs & Interviews | Full-Stack Army",
+      "duration": 10703
+    },
+    {
+      "id": "Y54zdWnLyQc",
+      "title": "Lecture 99: Advanced Backend Journey Begins - What is Backend Development | Full-Stack Army",
+      "duration": 7543
+    },
+    {
+      "id": "Mtoqdhiy4us",
+      "title": "Lecture 100: What is a Server and How to Create an HTTP Server | Full-Stack Army | Stack Learner",
+      "duration": 8513
+    },
+    {
+      "id": "8xkPQlfeywU",
+      "title": "Lecture 101: Understand REST API | Full-Stack Army | Stack Learner | Stack Learner",
+      "duration": 7274
+    },
+    {
+      "id": "PxGls1n72hM",
+      "title": "Lecture 102: Develop Backend Application - REST API Checklist | Full-Stack Army | Stack Learner",
+      "duration": 7883
+    },
+    {
+      "id": "HW8GywBICus",
+      "title": "Lecture 103: Introduction to API Design | Full-Stack Army | Stack Learner",
+      "duration": 9261
+    },
+    {
+      "id": "tIvcB5Z9N4o",
+      "title": "Lecture 104: API Design Methods, Errors and Response Structures | Full-Stack Army | Stack Learner",
+      "duration": 10378
+    },
+    {
+      "id": "zvk3jaZFDqw",
+      "title": "Lecture 105: API Authentication Methods | Full-Stack Army | Stack Learner",
+      "duration": 8026
+    },
+    {
+      "id": "icD-jzG2-9s",
+      "title": "Lecture 106: QNA and Random Discussion | Full-Stack Army | Stack Learner",
+      "duration": 5886
+    },
+    {
+      "id": "0IAU4tkV0mE",
+      "title": "Lecture 107: REST API Theory Final Summary | Full-Stack Army | Stack Learner",
+      "duration": 5472
+    },
+    {
+      "id": "lQphgKLlOU4",
+      "title": "Lecture 108: API Project SRS, Check List & YAML | Full-Stack Army | Stack Learner",
+      "duration": 7177
+    },
+    {
+      "id": "4dOn2fPaY6E",
+      "title": "Lecture 109: API Project Entity Relationship Diagram | Full-Stack Army | Stack Learner",
+      "duration": 7937
+    },
+    {
+      "id": "0TQKgG0P_3s",
+      "title": "Lecture 110: API Endpoints and Introduction to Swagger | Full-Stack Army | Stack Learner",
+      "duration": 10175
+    },
+    {
+      "id": "22J7AsQ2gA8",
+      "title": "Lecture 111: API Design Practical using Swagger and OAS (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 10122
+    },
+    {
+      "id": "dc9tWtZgnvg",
+      "title": "Lecture 112: API Design Express Server and Swagger (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 8787
+    },
+    {
+      "id": "75ALc9hGEXs",
+      "title": "Lecture 113: API Design Implement Find Articles Controller | Full-Stack Army | Stack Learner",
+      "duration": 11769
+    },
+    {
+      "id": "G2TJipousnY",
+      "title": "Lecture 114: QNA OOP Interface Explained | Full-Stack Army | Stack Learner",
+      "duration": 4079
+    },
+    {
+      "id": "jcT9K9W_rPM",
+      "title": "Lecture 115: API Design The File Structure Responsibility and Post Method | Full-Stack Army",
+      "duration": 10106
+    },
+    {
+      "id": "zU8ighWdDyY",
+      "title": "Lecture 116: MongoDB Atlas, Mongoose, and Models | Full-Stack Army | Stack Learner",
+      "duration": 6653
+    },
+    {
+      "id": "0jRmADVLi5U",
+      "title": "Lecture 117: Extended Lectures on Mongoose Schema | Full-Stack Army | Stack Learner",
+      "duration": 8385
+    },
+    {
+      "id": "7kUcN2RNJl8",
+      "title": "Lecture 118: Mongoose Document, Sub Document and Query | Full-Stack Army | Stack Learner",
+      "duration": 6628
+    },
+    {
+      "id": "hcSvLskhfGw",
+      "title": "Lecture 119: Introduction to Docker with Docker Compose and MongoDB | Full-Stack Army| Stack Learner",
+      "duration": 6128
+    },
+    {
+      "id": "vzaDjNm1Bhw",
+      "title": "Lecture 120: Blog API Find All Articles Pagination Searching and Sorting (Part 1) | Full-Stack Army",
+      "duration": 7809
+    },
+    {
+      "id": "Vfq8B0gebkM",
+      "title": "Lecture 121: Blog API Refactor and Find Single Items Controller (Part 2) | Full-Stack Army",
+      "duration": 6238
+    },
+    {
+      "id": "p_RWJWZZ95k",
+      "title": "Lecture 122: Blog API Implement Put Patch and Delete Methods (Part 3) | Full-Stack Army",
+      "duration": 6415
+    },
+    {
+      "id": "HakwVOUiU9o",
+      "title": "Lecture 123: Blog API JSON Patch Implementation and Authentication Discussion (Part 4)",
+      "duration": 8491
+    },
+    {
+      "id": "cbsifxLxNnE",
+      "title": "Lecture 124: Blog API Implement Authentication and Authorization (Part 5) | Full-Stack Army",
+      "duration": 11388
+    },
+    {
+      "id": "q5dxEjqEnWA",
+      "title": "Lecture 125: Discussion About Refresh Token, Third Party Services and Assignment | Full-Stack Army",
+      "duration": 7168
+    },
+    {
+      "id": "BF_VE2XAuIo",
+      "title": "Lecture 126: Project QNA and Discussion About Testing | Full-Stack Army | Stack Learner",
+      "duration": 6356
+    },
+    {
+      "id": "OI-JmOtdPOI",
+      "title": "Lecture 127: Guideline and Discussion about Project Presentability | Full-Stack Army | Stack Learner",
+      "duration": 5788
+    },
+    {
+      "id": "4Q7x6aBGnlk",
+      "title": "Lecture 128: Software Architect Discussion | Full-Stack Army | Stack Learner",
+      "duration": 6888
+    },
+    {
+      "id": "peT-POsmcFc",
+      "title": "Lecture 129: Assignment Project Presentation | Full-Stack Army | Stack Learner",
+      "duration": 3802
+    },
+    {
+      "id": "qqCYpPPqZiU",
+      "title": "Lecture 130: Project Presentation and Code Review (Part 1) | Full-Stack Army | Stack Learner",
+      "duration": 9807
+    },
+    {
+      "id": "6smFKVcaSpA",
+      "title": "Lecture 131: Project Presentation and Code Review (Part 2) | Full-Stack Army | Stack Learner",
+      "duration": 9015
+    },
+    {
+      "id": "cOiVMg6p2ys",
+      "title": "Lecture 132: Project Presentation and Code Review (Part 3) | Full-Stack Army | Stack Learner",
+      "duration": 7193
+    },
+    {
+      "id": "swwx5GQUOAQ",
+      "title": "Lecture 133: Hands-on Logging using ELK Stack | Full-Stack Army | Stack Learner",
+      "duration": 8500
+    },
+    {
+      "id": "Il3c37lRQDM",
+      "title": "Lecture 134: NodeJS File Uploads | Full-Stack Army | Stack Learner",
+      "duration": 7811
+    },
+    {
+      "id": "LxvGjnJFy1o",
+      "title": "Lecture 135: HTTP Response Caching using Redis | Full-Stack Army | Stack Learner",
+      "duration": 11792
+    },
+    {
+      "id": "X0sxPuxFTUg",
+      "title": "Lecture 136: Socket Programming using Socket IO | Full-Stack Army | Stack Learner",
+      "duration": 7524
+    },
+    {
+      "id": "EXY32AJkiaw",
+      "title": "Lecture 137: Project Setup and Must-Have Development Tools | Full-Stack Army | Stack Learner",
+      "duration": 9225
+    },
+    {
+      "id": "Z3HgBkyU-Ts",
+      "title": "Day 1:Application Architecture | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 9394
+    },
+    {
+      "id": "qUGfEYRpSqU",
+      "title": "Day 2: Application Performance | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 9199
+    },
+    {
+      "id": "eiredWOHn3o",
+      "title": "Day 3.1: Application Scalability | System Design and Application Architecture Workshop",
+      "duration": 9966
+    },
+    {
+      "id": "H-idooje-0g",
+      "title": "Day 3.2: Application Scalability - Replication | System Design and Application Architecture Workshop",
+      "duration": 4947
+    },
+    {
+      "id": "uS78wbh9ScI",
+      "title": "Day 4: Microservice Architecture | System Design and Application Architecture Workshop",
+      "duration": 7540
+    },
+    {
+      "id": "-8m2ZBOt4IE",
+      "title": "Day 5: System Reliability | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 7669
+    },
+    {
+      "id": "pHqcklzmFLE",
+      "title": "Day 6: Application Security | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 7305
+    },
+    {
+      "id": "uL3_LXkLZPo",
+      "title": "Day 7: Technology Stack Discussion | System Design and Application Architecture Workshop",
+      "duration": 6113
+    },
+    {
+      "id": "sQIzIiO3vv0",
+      "title": "Day 8: Case Study-1 : URL Shortner System | System Design Workshop | Full Stack Army",
+      "duration": 8732
+    },
+    {
+      "id": "ZM82ccjHVCQ",
+      "title": "Day 9: Case Study-2 : Twitter Social Media Platform | System Design Workshop | Stack Learner",
+      "duration": 8306
+    },
+    {
+      "id": "GjCCyEwuzmI",
+      "title": "Day 10: Case Study-3 : Netflix | System Design and Application Architecture Workshop",
+      "duration": 6793
+    },
+    {
+      "id": "kicZ0IJxSKE",
+      "title": "Day 1: Building a Robust E-Commerce App with Microservice Architecture | Practical Microservices",
+      "duration": 6492
+    },
+    {
+      "id": "rmW6T72_RAU",
+      "title": "Day 2: Building Microservices with TypeScript | Practical Microservices Workshop | Stack Learner",
+      "duration": 11998
+    },
+    {
+      "id": "T2M4mVdEXsw",
+      "title": "Day 3.1: Implementing User, Auth & Email Services| Practical Microservices Workshop | Stack Learner",
+      "duration": 9734
+    },
+    {
+      "id": "gz_rCSsc6Ns",
+      "title": "Day 3.2: Securing Microservices | Practical Microservices Workshop | Stack Learner",
+      "duration": 3429
+    },
+    {
+      "id": "OCqPptK6EDg",
+      "title": "Day 4: Creating Cart and Order Services with Redis & API Gateway| Practical Microservices Workshop",
+      "duration": 10677
+    },
+    {
+      "id": "L-F5v0M7Z7U",
+      "title": "Day 5: Building Scalable Distributed Systems with RabbitMQ | Practical Microservices Workshop",
+      "duration": 8924
+    },
+    {
+      "id": "JkyQoY8q-Xo",
+      "title": "Day 6: Managing Microservices with KONG API Gateway | Practical Microservices Workshop",
+      "duration": 8525
+    },
+    {
+      "id": "ztrHhyBRZAk",
+      "title": "Day 7: Securing Your Microservices with Keyclock Authentication | Practical Microservices Workshop",
+      "duration": 10035
+    },
+    {
+      "id": "gvtqWrGv9lY",
+      "title": "Day 1: The connection between DevOps and SDLC | DevOps for Developers 1 | Stack Learner",
+      "duration": 7599
+    },
+    {
+      "id": "nYtsxYyUG4c",
+      "title": "Day 2: Docker -  Simplifying Application Deployment | DevOps for Developers 1 | Stack Learner",
+      "duration": 8377
+    },
+    {
+      "id": "3GNBZvr3O_E",
+      "title": "Day 3: Hands on Docker for Microservices | DevOps for Developers 1 | Stack Learner",
+      "duration": 7541
+    },
+    {
+      "id": "JRSIUgaifcE",
+      "title": "Day 4: Automating CI/CD with GitHub Actions | DevOps for Developers 1 | Stack Learner",
+      "duration": 8226
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "courseId": "learning-gsap-in-hindi-060db6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:26:23.488Z",
+  "title": "Learning GSAP in hindi",
+  "channel": "KanavDevs",
+  "videos": [
+    {
+      "id": "m5nlrs6vBIk",
+      "title": "Introduction to GSAP basics in Hindi #gsap #javascript #hindi #tutorial",
+      "duration": 656
+    },
+    {
+      "id": "5VugSAnyhcc",
+      "title": "GSAP timeline() function explained in hindi#gsap #javascript #hindi #tutorial",
+      "duration": 771
+    },
+    {
+      "id": "gYLdYCGNvDg",
+      "title": "GSAP stagger property explained in hindi#gsap #javascript #tutorial #hindi",
+      "duration": 514
+    },
+    {
+      "id": "jZAGJeVorMM",
+      "title": "Introduction to GSAP ScrollTrigger plugin for beginners in hindi#gsap #javascript #webanimation",
+      "duration": 511
+    },
+    {
+      "id": "i41F-uofYiU",
+      "title": "GSAP ScrollTrigger scrub property explained in hindi #hindi #gsap #animation #javascript",
+      "duration": 323
+    },
+    {
+      "id": "U6BQRkoQg1Q",
+      "title": "GSAP ScrollTrigger Pin property explained in hindi#hindi #javascript #tutorial #gsap #gsapanimation",
+      "duration": 521
+    },
+    {
+      "id": "ogyFFzJKhhA",
+      "title": "Easy parallax effect using gsap and scrolltrigger #hindi#javascript #gsap #parallax #parallaxeffect",
+      "duration": 343
+    },
+    {
+      "id": "tHlTvCTR0D8",
+      "title": "awesome text reveal animation on scroll using gsap and scrolltrigger in hindi#gsap #gsapanimation",
+      "duration": 775
+    },
+    {
+      "id": "_7UiMrZxy7U",
+      "title": "Awesome zoom animation using gsap and scrolltrigger in hindi #hindi #gsap #gsapanimation #tutorial",
+      "duration": 541
+    }
+  ]
+}

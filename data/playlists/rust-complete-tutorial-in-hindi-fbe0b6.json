@@ -1,0 +1,240 @@
+{
+  "courseId": "rust-complete-tutorial-in-hindi-fbe0b6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:56.032Z",
+  "title": "Rust Complete Tutorial In Hindi",
+  "channel": "LoopCursive",
+  "videos": [
+    {
+      "id": "zCtROMfofw4",
+      "title": "Rust New Complete Course In Hindi.",
+      "duration": 58
+    },
+    {
+      "id": "mUNlMsEIKGw",
+      "title": "What is Rust | Rust Complete Tutorial In Hindi #1",
+      "duration": 560
+    },
+    {
+      "id": "yfGHvPOHB6w",
+      "title": "How To Install Rust In | VS Code | Windows 11 |  In Hindi | Rust Complete Tutorial In Hindi #2",
+      "duration": 472
+    },
+    {
+      "id": "GklPxABUjrk",
+      "title": "Print Statement And Comments In Rust |Rust Complete Tutorial In Hindi #3",
+      "duration": 657
+    },
+    {
+      "id": "vSceS95mo7U",
+      "title": "Variables In Rust | Rust Complete Tutorial In Hindi | #4",
+      "duration": 422
+    },
+    {
+      "id": "EGcc_aeabPs",
+      "title": "Naming Convention & Keywords In Rust | Rust Complete Tutorial In Hindi | #5",
+      "duration": 1498
+    },
+    {
+      "id": "cJIH5cXXnS4",
+      "title": "Data Types In Rust | Rust Complete Tutorial In Hindi | #6",
+      "duration": 2108
+    },
+    {
+      "id": "_cs9vUy-Rdw",
+      "title": "Mutable and Immutable Variable In Rust | Rust Complete Tutorial In Hindi | #7",
+      "duration": 227
+    },
+    {
+      "id": "sa0AMsKJzLA",
+      "title": "Constants in Rust | Rust Complete Tutorial In Hindi | #8",
+      "duration": 458
+    },
+    {
+      "id": "L7-2HHUVW5U",
+      "title": "Literals & Typecasting In Rust | Rust Complete Tutorial In Hindi | #9",
+      "duration": 1173
+    },
+    {
+      "id": "QRUogHG2zhI",
+      "title": "Operators In Rust | Rust Complete Tutorial In Hindi | #10",
+      "duration": 1036
+    },
+    {
+      "id": "L2Zvve_zetw",
+      "title": "Scope and Shadowing In Rust | Rust Complete Tutorial In Hindi | #11",
+      "duration": 764
+    },
+    {
+      "id": "j-EL2Ant-CU",
+      "title": "Strings In Rust  | Rust Complete Tutorial In Hindi | #12",
+      "duration": 595
+    },
+    {
+      "id": "NqyiskK_UQo",
+      "title": "String Slicing And Concatenation In Rust | Rust Complete Tutorial In Hindi | #13",
+      "duration": 902
+    },
+    {
+      "id": "N055MSEKUBI",
+      "title": "String Methods In Rust | Rust Complete Tutorial In Hindi | #14",
+      "duration": 523
+    },
+    {
+      "id": "ES_i0WiwiKU",
+      "title": "Escape Sequence In Rust | Rust Complete Tutorial In Hindi | #15",
+      "duration": 500
+    },
+    {
+      "id": "BeeG3v1pmIw",
+      "title": "If-else and else-if in rust | Rust Complete Tutorial In Hindi #16",
+      "duration": 720
+    },
+    {
+      "id": "a0dzTnmIqgA",
+      "title": "Match Statement In Rust | Rust Complete Tutorial In Hindi #17",
+      "duration": 636
+    },
+    {
+      "id": "rYcbQWusUC4",
+      "title": "Nested If-Else In Rust | Rust Complete Tutorial In Hindi #18",
+      "duration": 406
+    },
+    {
+      "id": "8Peqw7dBSHk",
+      "title": "While loop in rust | Rust Complete Tutorial In Hindi #19",
+      "duration": 753
+    },
+    {
+      "id": "uOtx-OoYmpc",
+      "title": "For Loop In Rust | Rust Complete Tutorial In Hindi #20",
+      "duration": 310
+    },
+    {
+      "id": "EEs31fpmHWo",
+      "title": "Reverse Iterators In Rust | Rust Complete Tutorial In Hindi #21",
+      "duration": 382
+    },
+    {
+      "id": "r6LtRLIiqRo",
+      "title": "Continue And Break In Rust | Rust Complete Tutorial In Hindi #22",
+      "duration": 599
+    },
+    {
+      "id": "Y02wseIx9FQ",
+      "title": "User-Input In Rust | Rust Complete Tutorial In Hindi #23",
+      "duration": 613
+    },
+    {
+      "id": "faICd7Ve7a8",
+      "title": "User-input Practice In Rust | Rust Complete Tutorial In Hindi #24",
+      "duration": 617
+    },
+    {
+      "id": "15D0oU0TfVc",
+      "title": "Tuple In Rust | Rust Complete Tutorial In Hindi #25",
+      "duration": 343
+    },
+    {
+      "id": "ZzuogVLdjGU",
+      "title": "Array In Rust  | Rust Complete Tutorial In Hindi #26",
+      "duration": 749
+    },
+    {
+      "id": "V_70J6d-0e4",
+      "title": "Multi-Dimension Array In Rust  | Rust Complete Tutorial In Hindi #27",
+      "duration": 565
+    },
+    {
+      "id": "lqWDEDKT7fQ",
+      "title": "Printing Array Using Loop  | Rust Complete Tutorial In Hindi #28",
+      "duration": 278
+    },
+    {
+      "id": "poIKkUMeNa4",
+      "title": "Function In Rust | Rust Complete Tutorial In Hindi #29",
+      "duration": 638
+    },
+    {
+      "id": "vV0iXflnYS8",
+      "title": "Return Statement In Rust | Rust Complete Tutorial In Hindi #30",
+      "duration": 349
+    },
+    {
+      "id": "1K6kkrb9b0I",
+      "title": "Vector In Rust | Rust Complete Tutorial In Hindi #31",
+      "duration": 579
+    },
+    {
+      "id": "tmgcS5yXhMY",
+      "title": "What Is Stack And Heap Memory  | Rust Complete Tutorial In Hindi #32",
+      "duration": 711
+    },
+    {
+      "id": "hp2eEmWi-KA",
+      "title": "Ownership In Rust | Rust Complete Tutorial In Hindi #33",
+      "duration": 761
+    },
+    {
+      "id": "2A6CtTJrV28",
+      "title": "Borrowing In Rust | Rust Complete Tutorial In Hindi #34",
+      "duration": 495
+    },
+    {
+      "id": "FjfIKgm_Jvg",
+      "title": "Structure in rust  | Rust Complete Tutorial In Hindi #35",
+      "duration": 721
+    },
+    {
+      "id": "723l5UmgGGk",
+      "title": "Methods in rust | Rust Complete Tutorial In Hindi #36",
+      "duration": 456
+    },
+    {
+      "id": "ra3_I7tNpx0",
+      "title": "Enum in Rust| Rust Complete Tutorial In Hindi #37",
+      "duration": 624
+    },
+    {
+      "id": "Md4Oz9UGgI8",
+      "title": "Enum : Data Type & Match Statement | Rust Complete Tutorial In Hindi #38",
+      "duration": 603
+    },
+    {
+      "id": "-kpAaBfOpsg",
+      "title": "Closures in rust | Rust Complete Tutorial In Hindi #39",
+      "duration": 334
+    },
+    {
+      "id": "GY74ezA3O_Q",
+      "title": "Rust : Recursion | Rust Complete Tutorial In Hindi #40",
+      "duration": 683
+    },
+    {
+      "id": "a6Ucm05IC8M",
+      "title": "More On Rust Functions | Rust Complete Tutorial In Hindi #41",
+      "duration": 540
+    },
+    {
+      "id": "WlFyZtTv-Qw",
+      "title": "Concurrency In Rust | Rust Complete Tutorial In Hindi #42",
+      "duration": 1216
+    },
+    {
+      "id": "m93y2njkvdw",
+      "title": "Modules In Rust | Rust Complete Tutorial In Hindi #43",
+      "duration": 703
+    },
+    {
+      "id": "yl_vwOK2F0M",
+      "title": "Don't Miss Out on Mastering Rust Async in 20 Minutes",
+      "duration": 1355
+    },
+    {
+      "id": "eX4vFjTW2rE",
+      "title": "Want to Master Rust Box? Watch This 10 Minute Tutorial Now",
+      "duration": 581
+    }
+  ]
+}

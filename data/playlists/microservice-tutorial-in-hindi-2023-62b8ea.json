@@ -1,0 +1,195 @@
+{
+  "courseId": "microservice-tutorial-in-hindi-2023-62b8ea",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:19.420Z",
+  "title": "Microservices Tutorial in Hindi 2023",
+  "channel": "Learn Code With Durgesh",
+  "videos": [
+    {
+      "id": "QrPvGdpcjXo",
+      "title": "🔥 Lets start Microservices Tutorial Series #1",
+      "duration": 542
+    },
+    {
+      "id": "nJU_6-JCr-I",
+      "title": "🔥 Why Microservices | Microservices Tutorial #2",
+      "duration": 785
+    },
+    {
+      "id": "SkAvghGrefk",
+      "title": "🔥 What we are going to build to Master Microservices | Service Registry | Microservices Tutorial #3",
+      "duration": 748
+    },
+    {
+      "id": "XDmDEzHDV8E",
+      "title": "🔥Lets Start Creating User Microservice | Microservice Tutorial in Hindi #4",
+      "duration": 1064
+    },
+    {
+      "id": "MAOdSlAJepA",
+      "title": "🔥 Complete User Microservice in one video | Microservice Tutorial in Hindi",
+      "duration": 1977
+    },
+    {
+      "id": "FT2BrzDvgww",
+      "title": "🔥Creating Full Hotel Microservices with PostgreSQL in one video | Microservice tutorial series #6",
+      "duration": 1691
+    },
+    {
+      "id": "AyHNBBK0VAk",
+      "title": "🔥 Complete Rating Microservice with MongoDB in one shot | Microservice Tutorial in Hindi",
+      "duration": 1923
+    },
+    {
+      "id": "yKZVdkrTBTg",
+      "title": "🔥 Implementing Service Registry using Eureka SERVER | Microservices Tutorial",
+      "duration": 903
+    },
+    {
+      "id": "ABdGhgYIBGc",
+      "title": "🔥 Implementing Service Discovery Client | Microservices Tutorial in Hindi",
+      "duration": 792
+    },
+    {
+      "id": "mckA049o4nw",
+      "title": "🔥Implementing Service Discovery Client in Hotel Microservice | Microservices Tutorial in Hindi",
+      "duration": 414
+    },
+    {
+      "id": "UZbWj9Jmz_k",
+      "title": "🔥 Implementing Discovery Client in Rating Service | Understanding Microservice Communication API",
+      "duration": 644
+    },
+    {
+      "id": "Hp9HaagYlis",
+      "title": "🔥Microservices Communication | How USER SERVICE Communicate to RATING SERVICE | Microservices Series",
+      "duration": 1367
+    },
+    {
+      "id": "zMAKzEuhrcA",
+      "title": "🔥 Calling Two Microservices Together | Microservices Tutorial Series",
+      "duration": 916
+    },
+    {
+      "id": "1fiJ_9XwmL8",
+      "title": "🔥  Removing Host and Port of Microservices |  Microservices Tutorial in Hindi",
+      "duration": 585
+    },
+    {
+      "id": "DACsOJomLI0",
+      "title": "Using Feign Client | Microservices tutorial Series",
+      "duration": 748
+    },
+    {
+      "id": "NlwzrczDU6Q",
+      "title": "🔥 Free Source Code Update | Microservices Tutorial Series in Hindi",
+      "duration": 189
+    },
+    {
+      "id": "x2PZpimiEe8",
+      "title": "🔥 Feign Client POST PUT DELETE Http Calls | Detail video with Practical | Microservice Services",
+      "duration": 940
+    },
+    {
+      "id": "XqIxJxd0AIA",
+      "title": "🔥 Lets understand API GATEWAY with Example | Microservices Tutorial in Hindi",
+      "duration": 818
+    },
+    {
+      "id": "dGDfTyNH-M4",
+      "title": "🔥 Implementing API GATEWAY in Simple ways | Microservices Tutorial Series",
+      "duration": 1549
+    },
+    {
+      "id": "bSAtR6oYJsc",
+      "title": "🔥API Gateway configuring multiple url of microservice | Microservices tutorial series in hindi",
+      "duration": 487
+    },
+    {
+      "id": "VNYWCl7Z-_c",
+      "title": "🔥 Config Server in Microservices | Microservices Tutorial Series in Hindi",
+      "duration": 404
+    },
+    {
+      "id": "kaNHT6_MV-Q",
+      "title": "🔥 Implementing Config Server in Microservices | Microservices Tutorial Series in Hindi",
+      "duration": 1527
+    },
+    {
+      "id": "q1D1TNfsdhA",
+      "title": "🔥 Reading config from github | Implementing config client microservices | Microservices Tutorial",
+      "duration": 999
+    },
+    {
+      "id": "vepD04SRj-4",
+      "title": "🔥 How to handle if microservice is faulty ? | Fault Tolerance and Circuit Breaker | Microservices",
+      "duration": 873
+    },
+    {
+      "id": "Pz7w_JZI148",
+      "title": "🔥 Implementing Circuit Breaker using Resilience4J in one shot | Microservice Tutorial in Hindi",
+      "duration": 2319
+    },
+    {
+      "id": "C8NZpYQtlho",
+      "title": "🔥 RETRY",
+      "duration": 889
+    },
+    {
+      "id": "DQ9VMoVIsTc",
+      "title": "🔥 Rate Limiter in Microservices | What is Rate Limiter with Example ?",
+      "duration": 337
+    },
+    {
+      "id": "jJcvGme5500",
+      "title": "🔥 Implementing Rate Limiter using Resilience4J in microservices | Microservices Tutorial Series",
+      "duration": 713
+    },
+    {
+      "id": "KlgzRHkUKdE",
+      "title": "🔥Securing Microservices with Spring Security  and  OKTA AUTH  | Understanding Workflow | OAuth | JWT",
+      "duration": 930
+    },
+    {
+      "id": "wfgHE5N7AFU",
+      "title": "🔥 OKTA Configurations | Creating Account | Groups | Peoples | Application | Microservices Tutorial",
+      "duration": 898
+    },
+    {
+      "id": "Kmfny9zuLoY",
+      "title": "🔥 Implementing Spring Security at API GATEWAY using OKTA detail video | Microservices Tutorial",
+      "duration": 2474
+    },
+    {
+      "id": "P4Nswz5W0f0",
+      "title": "🔥 Major challenge while implement security in microservices | Microservices Tutorial in Hindi",
+      "duration": 855
+    },
+    {
+      "id": "LGiw5MUgwHs",
+      "title": "🔥 Creating Feign Client Interceptor Step by Step | Microservices Tutorial in Hindi",
+      "duration": 846
+    },
+    {
+      "id": "QLG-odIaigs",
+      "title": "🔥 Creating Rest Template Interceptor | Microservices Tutorial in Hindi",
+      "duration": 548
+    },
+    {
+      "id": "Pu3-LHVXS0I",
+      "title": "🔥Implementing Security in Microservices | Rating Service and Hotel Service | Microservices Tutorial",
+      "duration": 736
+    },
+    {
+      "id": "KikV7cd6wxk",
+      "title": "🔥 Finally Testing Secure Microservices App | Microservices Tutorial in Hindi",
+      "duration": 912
+    },
+    {
+      "id": "Ei6Qi2tvmZQ",
+      "title": "🔥 End of Microservice Series | Where to find Source Code",
+      "duration": 169
+    }
+  ]
+}

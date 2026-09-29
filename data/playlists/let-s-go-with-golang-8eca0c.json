@@ -1,0 +1,295 @@
+{
+  "courseId": "let-s-go-with-golang-8eca0c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:23:11.331Z",
+  "title": "Let's go with golang",
+  "channel": "Hitesh Choudhary",
+  "videos": [
+    {
+      "id": "JoJ8Sw5Yb4c",
+      "title": "Welcome to series on GO programming language",
+      "duration": 299
+    },
+    {
+      "id": "F3klnY_r8FU",
+      "title": "Before you start with golang",
+      "duration": 473
+    },
+    {
+      "id": "62qGe9yhiJI",
+      "title": "Golang installation and hello world",
+      "duration": 704
+    },
+    {
+      "id": "QEZlivtFOZk",
+      "title": "GOPATH and reading go docs",
+      "duration": 430
+    },
+    {
+      "id": "elYPAeX9h1E",
+      "title": "Lexer in golang and Types",
+      "duration": 448
+    },
+    {
+      "id": "9fYqg6uo-UU",
+      "title": "Variables, types and constants",
+      "duration": 1049
+    },
+    {
+      "id": "zYIZtbyUIDY",
+      "title": "Comma ok syntax and packages in golang",
+      "duration": 701
+    },
+    {
+      "id": "3j43y-PFJPI",
+      "title": "Conversions in golang",
+      "duration": 633
+    },
+    {
+      "id": "xsAz24z4Hdg",
+      "title": "Handling time in golang",
+      "duration": 704
+    },
+    {
+      "id": "9vxsO5vMTAw",
+      "title": "Build for windows, linux and mac",
+      "duration": 226
+    },
+    {
+      "id": "G1SP9uDJD0g",
+      "title": "Memory management in golang",
+      "duration": 336
+    },
+    {
+      "id": "-BFJ0dZyxHg",
+      "title": "Pointers in golang",
+      "duration": 651
+    },
+    {
+      "id": "JoUSa8jtadE",
+      "title": "Array in golang",
+      "duration": 412
+    },
+    {
+      "id": "k7hVj8QL9Co",
+      "title": "Slices in golang",
+      "duration": 898
+    },
+    {
+      "id": "931nR5TGCAk",
+      "title": "How to remove a value from slice based on index in golang",
+      "duration": 335
+    },
+    {
+      "id": "_0R6H1m9o78",
+      "title": "Maps in golang",
+      "duration": 516
+    },
+    {
+      "id": "NMTN543WVQY",
+      "title": "Structs in golang",
+      "duration": 491
+    },
+    {
+      "id": "f_xNeRurjZY",
+      "title": "If else in golang",
+      "duration": 518
+    },
+    {
+      "id": "Up4lTPhJBvs",
+      "title": "Switch case in golang and online playground",
+      "duration": 585
+    },
+    {
+      "id": "ZWBA3l818y0",
+      "title": "Loop break continue and goto in golang",
+      "duration": 740
+    },
+    {
+      "id": "rcUST3QvVOQ",
+      "title": "Functions in golang",
+      "duration": 816
+    },
+    {
+      "id": "GhYIKwMxz_Y",
+      "title": "Methods in golang",
+      "duration": 505
+    },
+    {
+      "id": "jiy584-vv38",
+      "title": "Defer in golang",
+      "duration": 627
+    },
+    {
+      "id": "Mdg3tlGUXrE",
+      "title": "Working with files in golang",
+      "duration": 760
+    },
+    {
+      "id": "ru53LpdVHn4",
+      "title": "Handling web request in golang",
+      "duration": 732
+    },
+    {
+      "id": "cl7_ouTMFh0",
+      "title": "Handling URL in golang",
+      "duration": 823
+    },
+    {
+      "id": "xh79JXJy0yY",
+      "title": "Creating server for golang frontend",
+      "duration": 562
+    },
+    {
+      "id": "V-sxFQ0fWlw",
+      "title": "How to make GET request in golang",
+      "duration": 706
+    },
+    {
+      "id": "h5NeKZuzUoc",
+      "title": "How to make POST request with JSON data in golang",
+      "duration": 504
+    },
+    {
+      "id": "U_LjyX4iDbU",
+      "title": "How to send form data in golang",
+      "duration": 348
+    },
+    {
+      "id": "SZ5xZ9OTeEI",
+      "title": "How to create JSON data in golang",
+      "duration": 944
+    },
+    {
+      "id": "a96veXdifys",
+      "title": "How to consume JSON data in golang",
+      "duration": 822
+    },
+    {
+      "id": "O8uUGEobo-Q",
+      "title": "A long video on MOD in golang",
+      "duration": 1636
+    },
+    {
+      "id": "TrouRtr5xWE",
+      "title": "Building API in golang - Models",
+      "duration": 728
+    },
+    {
+      "id": "V3S3hKrIdQo",
+      "title": "Sending a API json response for all courses in golang",
+      "duration": 455
+    },
+    {
+      "id": "1J1sgKriM-o",
+      "title": "Get one course based on request id in golang",
+      "duration": 456
+    },
+    {
+      "id": "vMpBUkIMLzY",
+      "title": "Add a course controller in golang",
+      "duration": 678
+    },
+    {
+      "id": "TQpB_QSgmXU",
+      "title": "Update a course controller in golang",
+      "duration": 595
+    },
+    {
+      "id": "b1nJBaCzkHI",
+      "title": "Delete a course controller in golang",
+      "duration": 302
+    },
+    {
+      "id": "NedcxRgo4DY",
+      "title": "Handling routes and testing routes in golang",
+      "duration": 1225
+    },
+    {
+      "id": "EaZo7pcueBE",
+      "title": "MongoDB setup for API in golang",
+      "duration": 628
+    },
+    {
+      "id": "laeZI6UdDNg",
+      "title": "Defining models for netflix in golang",
+      "duration": 400
+    },
+    {
+      "id": "GszGvj6eBZY",
+      "title": "Making a connection to database in golang",
+      "duration": 693
+    },
+    {
+      "id": "K2nC_WpPVQE",
+      "title": "Insert data in mongodb in golang",
+      "duration": 664
+    },
+    {
+      "id": "00YTOQTxUEc",
+      "title": "Update a record in mongodb in golang",
+      "duration": 487
+    },
+    {
+      "id": "qeZueI6d1Wg",
+      "title": "Delete one and delete many in mongodb in golang",
+      "duration": 541
+    },
+    {
+      "id": "1P5b4McGJQQ",
+      "title": "Get all collection in mongodb in golang",
+      "duration": 616
+    },
+    {
+      "id": "Ycc9sXgDCNQ",
+      "title": "Get all movies from DB in golang",
+      "duration": 307
+    },
+    {
+      "id": "XdYpKfIgIQg",
+      "title": "Mark movie as watched in golang",
+      "duration": 437
+    },
+    {
+      "id": "Qh1H-6Ebz7E",
+      "title": "Delete 1 and all movie in golang",
+      "duration": 261
+    },
+    {
+      "id": "uG2fpX2ktNE",
+      "title": "Creating routes and testing API in golang",
+      "duration": 912
+    },
+    {
+      "id": "V-0ifUKCkBI",
+      "title": "Concurrency and goroutines in golang",
+      "duration": 798
+    },
+    {
+      "id": "FiTbXvc08wE",
+      "title": "Wait groups in golang",
+      "duration": 714
+    },
+    {
+      "id": "v7DKtAluvYA",
+      "title": "Mutex in golang",
+      "duration": 341
+    },
+    {
+      "id": "4TCNUa-5wmI",
+      "title": "Race Condition in golang",
+      "duration": 1126
+    },
+    {
+      "id": "i5HEE5Ikv3w",
+      "title": "Channels and Deadlock in golang",
+      "duration": 1119
+    },
+    {
+      "id": "yPeYZ0QuspU",
+      "title": "Math, crypto and random number in golang",
+      "duration": 798
+    }
+  ]
+}

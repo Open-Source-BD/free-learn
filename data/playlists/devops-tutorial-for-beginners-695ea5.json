@@ -1,0 +1,830 @@
+{
+  "courseId": "devops-tutorial-for-beginners-695ea5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:14.217Z",
+  "title": "DevOps Tutorial for Beginners",
+  "channel": "Intellipaat",
+  "videos": [
+    {
+      "id": "JHoy3lDZOfY",
+      "title": "DevOps Training | DevOps Course | DevOps Tutorial for Beginners | Intellipaat",
+      "duration": 36866
+    },
+    {
+      "id": "r5JfYAKM2zA",
+      "title": "What is DevOps | DevOps Tools | Intellipaat",
+      "duration": 2428
+    },
+    {
+      "id": "_n4Fh_8mnGE",
+      "title": "What is DevOps | DevOps Tutorial for Beginners | Intellipaat",
+      "duration": 1748
+    },
+    {
+      "id": "mkFNZBeCo2g",
+      "title": "Devops Tools | DevOps Training | Intellipaat",
+      "duration": 7544
+    },
+    {
+      "id": "RppfZGuLsmA",
+      "title": "Docker Training | Docker Tutorial for Beginners | What is Docker | Intellipaat",
+      "duration": 8144
+    },
+    {
+      "id": "XiGUu3q2Mwo",
+      "title": "How to Create Dockerfile from Scratch | Dockerfile Commands Explained | Dockerfile Tutorial",
+      "duration": 1061
+    },
+    {
+      "id": "4NMKRbLDwfk",
+      "title": "Top 10 Highest Paying Jobs In 2019 | Highest Paying IT Jobs 2019 | Intellipaat",
+      "duration": 840
+    },
+    {
+      "id": "03M3ogY3Jdk",
+      "title": "Top 10 Highest Paying Jobs in 2019 | Top IT Jobs in 2019 | Intellipaat",
+      "duration": 1063
+    },
+    {
+      "id": "-y5Z2fmnp-o",
+      "title": "Top 10 Technologies To Learn In 2019 | Trending Technologies | Intellipaat",
+      "duration": 800
+    },
+    {
+      "id": "NsDhBEsTTHs",
+      "title": "Kubernetes Tutorial for Beginners | Kubernetes Tutorial | Intellipaat",
+      "duration": 2378
+    },
+    {
+      "id": "YI48bKykx7k",
+      "title": "Ansible Tutorial for Beginners | What is Ansible | Intellipaat",
+      "duration": 1560
+    },
+    {
+      "id": "kHD4KQKKP5Y",
+      "title": "Puppet Tutorial for Beginners | Puppet Tutorial | Intellipaat",
+      "duration": 2979
+    },
+    {
+      "id": "XZm-ENx9l9o",
+      "title": "Jenkins Tutorial for Beginners | Jenkins Tutorial | Intellipaat",
+      "duration": 3405
+    },
+    {
+      "id": "QCXtNrIVdcw",
+      "title": "What is Jenkins | Jenkins Pipeline Tutorial for Beginners | Jenkins Continuous Integration Tutorial",
+      "duration": 3432
+    },
+    {
+      "id": "dnGeRjP8oxw",
+      "title": "Git Tutorial | Github Tutorial | Git Tutorial for Beginners | Intellipaat",
+      "duration": 11079
+    },
+    {
+      "id": "NhAaEM-AsIw",
+      "title": "Nagios Monitoring Tool Tutorial | Server Monitoring with Nagios | DevOps Tools | Intellipaat",
+      "duration": 1649
+    },
+    {
+      "id": "l5A5g6loEYQ",
+      "title": "AWS Certified DevOps Engineer | AWS DevOps | Intellipaat",
+      "duration": 911
+    },
+    {
+      "id": "X-1iLMbu_mw",
+      "title": "AWS vs Azure – What Should I learn in 2022? | Difference Between AWS and Azure | Intellipaat",
+      "duration": 631
+    },
+    {
+      "id": "n24OBVGHufQ",
+      "title": "AWS vs Azure vs GCP | Amazon Web Services vs Microsoft Azure vs Google Cloud Platform | Intellipaat",
+      "duration": 857
+    },
+    {
+      "id": "dp52RmIsWRU",
+      "title": "DevOps Interview Questions and Answers | DevOps Tutorial | DevOps Training | Intellipaat",
+      "duration": 4976
+    },
+    {
+      "id": "LPVKLVQsu7U",
+      "title": "DevOps Introduction | What is DevOps and How it works | DevOps Fundamentals | Intellipaat",
+      "duration": 960
+    },
+    {
+      "id": "4AJoRkjm998",
+      "title": "What is DevOps | DevOps Tools Training | DevOps Tutorial For Beginners | Intellipaat",
+      "duration": 836
+    },
+    {
+      "id": "sRIxHHZFwBA",
+      "title": "Docker Tutorial For Beginners |  What is Docker | Online Devops Training | Intellipaat",
+      "duration": 8252
+    },
+    {
+      "id": "sYr4frA_1d8",
+      "title": "Docker Tutorial For Beginners | How to use Docker | Docker Training | Intellipaat",
+      "duration": 1082
+    },
+    {
+      "id": "nXV6qihj5uw",
+      "title": "Docker Basic Commands | Docker Commands with Examples | Docker Commands Tutorial | Intellipaat",
+      "duration": 801
+    },
+    {
+      "id": "DJLm5myZiLw",
+      "title": "How to Link Docker Containers | Linking Docker Containers | Docker Container Linking Tutorial",
+      "duration": 557
+    },
+    {
+      "id": "wz6tzaOhu58",
+      "title": "Kubernetes Tutorial | Kubernetes Docker | DevOps Tools | DevOps Tutorial | Intellipaat",
+      "duration": 402
+    },
+    {
+      "id": "I-IUPw9yDwU",
+      "title": "What is Kubernetes | Kubernetes Architecture | k8s Kubernetes Tutorial For Beginners | Intellipaat",
+      "duration": 2423
+    },
+    {
+      "id": "2hrJcHdOPBw",
+      "title": "What is Git | Git Lifecycle & How Git Works | Git Tutorial For Beginners | Intellipaat",
+      "duration": 854
+    },
+    {
+      "id": "QJrVe64l7U8",
+      "title": "How to write Puppet Manifests | Puppet Manifests Tutorial | Puppet Code Tutorial | Intellipaat",
+      "duration": 1660
+    },
+    {
+      "id": "EIlXFtMQJ50",
+      "title": "How to create an Automated CI/CD Pipeline in Jenkins | Jenkins Pipeline Tutorial | Intellipaat",
+      "duration": 643
+    },
+    {
+      "id": "4flpat5zYSw",
+      "title": "Ingress Kubernetes Explained For Beginners | Kubernetes Tutorial | Intellipaat",
+      "duration": 1329
+    },
+    {
+      "id": "bZiBENzfFik",
+      "title": "How to Create Monitoring Service in Nagios | Nagios Monitoring Tool Tutorial | Intellipaat",
+      "duration": 869
+    },
+    {
+      "id": "TQV3bFqd4Uc",
+      "title": "DevOps Project | DevOps Tools | Intellipaat",
+      "duration": 1485
+    },
+    {
+      "id": "PXq2OsdxkqU",
+      "title": "CI CD Pipeline Using Jenkins | Continuous Integration and Deployment | Intellipaat",
+      "duration": 4930
+    },
+    {
+      "id": "QmvAYDc4UUw",
+      "title": "Azure DevOps Training | Azure DevOps Tutorial | What is Azure DevOps",
+      "duration": 5051
+    },
+    {
+      "id": "DJRdnmEtKps",
+      "title": "Who Is a DevOps Engineer? | DevOps Engineer Roles | DevOps Career And Skills | Intellipaat",
+      "duration": 1584
+    },
+    {
+      "id": "B6K1IF-489M",
+      "title": "Jenkins Installation on AWS ec2 | How To Install Jenkins on AWS ec2 | Intellipaat",
+      "duration": 330
+    },
+    {
+      "id": "Ho6yp1oTwMo",
+      "title": "DevOps Salary Report | DevOps Jobs & Career | Intellipaat",
+      "duration": 165
+    },
+    {
+      "id": "j0vTENfoHFc",
+      "title": "Docker Installation | How To Install Docker | Docker Installation on Ubuntu 18.04 | Intellipaat",
+      "duration": 324
+    },
+    {
+      "id": "Km3BCQnV6sw",
+      "title": "Ansible Installation & Configuration on AWS | Install & Configure Ansible on EC2 | Intellipaat",
+      "duration": 1101
+    },
+    {
+      "id": "yOWBksyEtXg",
+      "title": "Lean vs Agile vs Waterfall | What is Lean | Difference between Waterfall and Agile | Intellipaat",
+      "duration": 253
+    },
+    {
+      "id": "EPf6TMVSYzw",
+      "title": "Nagios Installation | Nagios Server Installation | How to Install Nagios | Intellipaat",
+      "duration": 384
+    },
+    {
+      "id": "l7gC4SgW7DU",
+      "title": "Install Kubernetes | Setup Kubernetes Step by Step | Kubernetes Training | Intellipaat",
+      "duration": 1212
+    },
+    {
+      "id": "7cPc3yGcrcY",
+      "title": "Puppet Installation | Puppet Installation on AWS | Intellipaat",
+      "duration": 780
+    },
+    {
+      "id": "5LZ_Ts9iSNc",
+      "title": "What is DevOps | Introduction to DevOps | Intellipaat",
+      "duration": 724
+    },
+    {
+      "id": "O6C09XOMr30",
+      "title": "Top 10 DevOps Tools | Learn DevOps Tools | Best DevOps Tools | DevOps Tools Tutorial |  Intellipaat",
+      "duration": 714
+    },
+    {
+      "id": "31igoWxauEQ",
+      "title": "SonarQube Tutorial | Installing and Configuring SonarQube | What is SonarQube | Intellipaat",
+      "duration": 2464
+    },
+    {
+      "id": "JFRZ6p0eVQc",
+      "title": "DevOps vs NoOps | What is NoOps | NoOps Tutorial | Intellipaat",
+      "duration": 1386
+    },
+    {
+      "id": "pAQlZmXAC0M",
+      "title": "DevOps Training | DevOps Certification | Intellipaat",
+      "duration": 147
+    },
+    {
+      "id": "cC4GGJ0JsSE",
+      "title": "Elasticsearch Tutorial | ELK Stack Tutorial | Intellipaat",
+      "duration": 4325
+    },
+    {
+      "id": "1LDrB2v9uMo",
+      "title": "Docker vs Kubernetes | Docker vs Kubernetes Differences | Intellipaat",
+      "duration": 1043
+    },
+    {
+      "id": "GgBRmkx2csg",
+      "title": "Kubernetes Training | Kubernetes Architecture | Intellipaat",
+      "duration": 5267
+    },
+    {
+      "id": "Ka3pciP74Rk",
+      "title": "What Is Docker? | What Is Docker And How It Works? | Intellipaat",
+      "duration": 2199
+    },
+    {
+      "id": "UZaI2WRAVyE",
+      "title": "What is Kubernetes | Kubernetes Introduction | Intellipaat",
+      "duration": 4145
+    },
+    {
+      "id": "74p7csxKN8M",
+      "title": "Docker Swarm Step by Step | What is Docker Swarm | How to create Docker Swarm | Intellipaat",
+      "duration": 3361
+    },
+    {
+      "id": "HDLvwcdF7yY",
+      "title": "DevOps vs Agile | Difference between DevOps and Agile | Intellipaat",
+      "duration": 857
+    },
+    {
+      "id": "aKf0Qkp14qQ",
+      "title": "Agile vs Waterfall Methodology | Difference between Agile and Waterfall | Intellipaat",
+      "duration": 914
+    },
+    {
+      "id": "dMHU_uBhrEA",
+      "title": "Docker Tutorial | Docker Training | Learn Docker | Intellipaat",
+      "duration": 3530
+    },
+    {
+      "id": "6fKn4rgk4jM",
+      "title": "What is Agile Methodology | What is Agile | Intellipaat",
+      "duration": 738
+    },
+    {
+      "id": "LDAIzpUJItg",
+      "title": "What is ELK Stack | ELK Tutorial For Beginners | Elasticsearch Kibana | ELK Training | Intellipaat",
+      "duration": 6861
+    },
+    {
+      "id": "W7hLMxNEEHQ",
+      "title": "kubernetes Tutorial | What is kubernetes | Intellipaat",
+      "duration": 5928
+    },
+    {
+      "id": "knKnOf8xIuM",
+      "title": "How to become a DevOps Engineer | DevOps Engineer Roles and Responsibilities | Intellipaat",
+      "duration": 1336
+    },
+    {
+      "id": "kaZOF4EEPqk",
+      "title": "CodeBuild CodePipeline CodeDeploy CodeCommit in AWS | Intellipaat",
+      "duration": 2664
+    },
+    {
+      "id": "gJ7_661T4I0",
+      "title": "DevOps Course | DevOps Git | DevOps Docker | DevOps Jenkins | DevOps Tools | Intellipaat",
+      "duration": 16299
+    },
+    {
+      "id": "sNOqBAhr90E",
+      "title": "DevOps Project - Setting up CI/CD Pipeline using Docker, Selenium & Ansible | Intellipaat",
+      "duration": 11604
+    },
+    {
+      "id": "oG8I8kds8rI",
+      "title": "DevOps Interview Questions | DevOps Interview Questions and Answers | Intellipaat",
+      "duration": 4959
+    },
+    {
+      "id": "LZ2Uw228fhk",
+      "title": "Docker vs VM | Difference between Container and Virtualization | Intellipaat",
+      "duration": 958
+    },
+    {
+      "id": "feGzQxUwd4Y",
+      "title": "How to Learn GIT | What is GIT and How to use it | GIT Tutorial for Beginners | Intellipaat",
+      "duration": 4710
+    },
+    {
+      "id": "8kHooRLc5Ak",
+      "title": "How to Learn Docker | Docker Basics | Learn Docker | Intellipaat",
+      "duration": 3016
+    },
+    {
+      "id": "lai--fJR-IQ",
+      "title": "DevOps Demo | Learn DevOps | DevOps Learning Path | Intellipaat",
+      "duration": 6315
+    },
+    {
+      "id": "5lGtMGQnl1I",
+      "title": "DevOps for Beginners | DevOps Introduction | DevOps Step by Step Tutorial | Intellipaat",
+      "duration": 3440
+    },
+    {
+      "id": "xEzw0zDFf9s",
+      "title": "Docker Commands With Examples | Docker Tutorial | DevOps Tutorial | Docker Training | Intellipaat",
+      "duration": 2886
+    },
+    {
+      "id": "QMzX6TrihyQ",
+      "title": "Git Merge Conflict Tutorial | Resolving Merge Conflicts In Git | Intellipaat",
+      "duration": 3011
+    },
+    {
+      "id": "cMGRnD43QSY",
+      "title": "DevOps Introduction | What is DevOps | Intellipaat",
+      "duration": 3549
+    },
+    {
+      "id": "XTfinPuVX2Q",
+      "title": "Azure DevOps Tutorial | Learn Azure DevOps | Azure DevOps Training | Intellipaat",
+      "duration": 2546
+    },
+    {
+      "id": "EhlGhLaItYM",
+      "title": "Kubeflow: Machine Learning on Kubernetes | Machine Learning with Kubeflow | Intellipaat",
+      "duration": 2317
+    },
+    {
+      "id": "58JHoe8uQCc",
+      "title": "How to Create Pipeline in Jenkins | Create Jenkins Pipeline | Jenkins Pipeline Tutorial",
+      "duration": 5246
+    },
+    {
+      "id": "3zpVfAbcUmA",
+      "title": "Git Commands Tutorial | Git Commands For Beginners | Git Command with Examples | Intellipaat",
+      "duration": 1581
+    },
+    {
+      "id": "gS-dXk1hrS0",
+      "title": "Learn DevOps | DevOps Basics | Introduction to DevOps | DevOps Tutorial | Intellipaat",
+      "duration": 5541
+    },
+    {
+      "id": "9vBUF3XaB2A",
+      "title": "What is DevSecOps | DevSecOps Tools | DevOps Tutorial | Intellipaat",
+      "duration": 1491
+    },
+    {
+      "id": "ofoHpttTGDU",
+      "title": "GitHub Workflow Tutorial | GitFlow Vs GitHub Flow | What Is Git Workflow | Intellipaat",
+      "duration": 2060
+    },
+    {
+      "id": "hhoO57V_otc",
+      "title": "Linux Commands for DevOps | Linux Commands Tutorial for Beginners | DevOps Training | Intellipaat",
+      "duration": 2260
+    },
+    {
+      "id": "wXhT7FXl8ls",
+      "title": "GitOps | What is GitOps | Why GitOps | Learn Git | DevOps For Beginners | Intellipaat",
+      "duration": 1060
+    },
+    {
+      "id": "dbv-McKMuQY",
+      "title": "Kubectl Basic Commands | Kubernetes for Beginners | Intellipaat",
+      "duration": 1630
+    },
+    {
+      "id": "mdb_wWaKXK8",
+      "title": "Kubernetes Interview Questions | Kubernetes Interview Questions And Answers | Intellipaat",
+      "duration": 2025
+    },
+    {
+      "id": "TAM-DLPX9XA",
+      "title": "Minikube Installation on Windows | Minikube Setup on Windows 10 | Intellipaat",
+      "duration": 638
+    },
+    {
+      "id": "ovAAHEtYzD8",
+      "title": "DevOps Career RoadMap | How to Learn DevOps Step by Step | Learn DevOps | Intellipaat",
+      "duration": 1120
+    },
+    {
+      "id": "LS9SR0_3u_Q",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "MSWVgKN8OmI",
+      "title": "Chef vs Puppet | Difference Between Chef and Puppet | DevOps Tutorial | Intellipaat",
+      "duration": 1263
+    },
+    {
+      "id": "P3-VULjUNR4",
+      "title": "DevOps vs SRE | Difference Between DevOps and SRE | SRE Vs DevOps | Intellipaat",
+      "duration": 1285
+    },
+    {
+      "id": "YzwD02ImKY4",
+      "title": "DevOps Course | DevOps Training | DevOps Tools | Intellipaat",
+      "duration": 40266
+    },
+    {
+      "id": "Z9ayyFY2d1s",
+      "title": "Docker Interview Questions | Docker Interview Questions And Answers | Intellipaat",
+      "duration": 1960
+    },
+    {
+      "id": "MbXY5BAfkOk",
+      "title": "Kubernetes Tutorial for Beginners | Kubernetes Course | Kubernetes Training | Intellipaat",
+      "duration": 16201
+    },
+    {
+      "id": "cI16T7GOPwM",
+      "title": "AWS DevOps | AWS DevOps Tutorial For Beginners | AWS DevOps Training | Intellipaat",
+      "duration": 37931
+    },
+    {
+      "id": "0WlDQakFAwE",
+      "title": "Azure DevOps Tutorial for Beginners | Azure DevOps | Azure DevOps Boards | Intellipaat",
+      "duration": 28724
+    },
+    {
+      "id": "jQvLgHPOVFc",
+      "title": "DevOps Explained | DevOps Lifecycle | Introduction to DevOps | Intellipaat",
+      "duration": 2215
+    },
+    {
+      "id": "Kx4X0R1zh3k",
+      "title": "Introduction to DevOps | Learn DevOps | DevOps Tools Full Course | Intellipaat",
+      "duration": 41360
+    },
+    {
+      "id": "qCXNxEpvCUg",
+      "title": "AWS DevOps Services | DevOps Tools on AWS | AWS CodePipeline | AWS CodeDeploy | AWS CodeBuild",
+      "duration": 23426
+    },
+    {
+      "id": "CwBaVZKoyWc",
+      "title": "Devops Terraform Course | Automate your AWS Cloud Infrastructure | Intellipaat",
+      "duration": 8645
+    },
+    {
+      "id": "NA97CgNvZtA",
+      "title": "Learn DevOps in 1 DAY 🔥 | DevOps Tools Full Course | DevOps Tutorial for Beginners  | Intellipaat",
+      "duration": 41350
+    },
+    {
+      "id": "-99TULM6HbY",
+      "title": "Fleet Management for Kubernetes | Fleet Management | Kubernetes for Beginners | Intellipaat",
+      "duration": 3091
+    },
+    {
+      "id": "0fyz-y2Xkxg",
+      "title": "Maven Tutorial | Maven Tutorial For Beginners | What is Maven | Intellipaat",
+      "duration": 1265
+    },
+    {
+      "id": "a1B1jXXVzPQ",
+      "title": "Jfrog | Jfrog Artifactory | Jfrog Artifactory Tutorial | Artifactory Tutorial | Intellipaat",
+      "duration": 2219
+    },
+    {
+      "id": "x-TfQHNZe3g",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "efHas35j_yg",
+      "title": "What is SonarQube | Introduction SonarQube | SonarQube Tutorial | SonarQube Basics | Intellipaat",
+      "duration": 2425
+    },
+    {
+      "id": "tg_GxFzeAps",
+      "title": "MSBuild | MSBuild Tutorial | DevOps Tools | DevOps Tutorial | Intellipaat",
+      "duration": 1241
+    },
+    {
+      "id": "PmDOw7uOLrw",
+      "title": "Devops Introduction | What is DevOps | Learn DevOps | Intellipaat",
+      "duration": 736
+    },
+    {
+      "id": "-Ffuttr7znM",
+      "title": "DevOps Tools | GIT Tutorial For Beginners | Jenkins Tutorial for Beginners | Intellipaat",
+      "duration": 6135
+    },
+    {
+      "id": "DaKJnFBI6SI",
+      "title": "Docker Training | Docker Tutorial for Beginners | Learn Docker | Intellipaat",
+      "duration": 4835
+    },
+    {
+      "id": "AkY5zITes6I",
+      "title": "Kubernetes for Beginners | Learn Kubernetes | What is Kubernetes | Intellipaat",
+      "duration": 2410
+    },
+    {
+      "id": "QaHxsNW2T7U",
+      "title": "Learn DevOps | DevOps Tools | What is DevOps | Intellipaat",
+      "duration": 41805
+    },
+    {
+      "id": "WZD0x8FjbpA",
+      "title": "Puppet Tutorial For Beginners | What is Puppet | How Puppet Works | Intellipaat",
+      "duration": 3810
+    },
+    {
+      "id": "HrLSZom4wUM",
+      "title": "Ansible Tutorial For Beginners | What is Ansible | Ansible for Beginners | Intellipaat",
+      "duration": 2685
+    },
+    {
+      "id": "-4YXip-drgA",
+      "title": "Nagios Tutorial | Nagios Monitoring Tool Tutorial | DevOps Tool | Intellipaat",
+      "duration": 2026
+    },
+    {
+      "id": "L7KU_d4FLEQ",
+      "title": "NPM | NPM Tutorial | Node Package Manager Tutorial | DevOps Tools | Intellipaat",
+      "duration": 2960
+    },
+    {
+      "id": "Q_oandwGYfk",
+      "title": "TeamCity | TeamCity Tutorial for Beginners | TeamCity Build Steps | DevOps Tools | Intellipaat",
+      "duration": 2081
+    },
+    {
+      "id": "yZFvJEygn_g",
+      "title": "Nexus Repository | Nexus Repository DevOps | DevOps Tool | Intellipaat",
+      "duration": 2406
+    },
+    {
+      "id": "7lazzvm1ljo",
+      "title": "DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat",
+      "duration": 4615
+    },
+    {
+      "id": "XmlLRxewmXQ",
+      "title": "Azure DevOps | Azure DevOps Pipeline Tutorial | Azure DevOps Online Training | Intellipaat",
+      "duration": 28510
+    },
+    {
+      "id": "yf94heUuiGw",
+      "title": "DevOps Tutorial for Beginners | Learn DevOps | DevOps Full Course | Intellipaat",
+      "duration": 42899
+    },
+    {
+      "id": "MSbE7oEWv1o",
+      "title": "How to Learn DevOps Step by Step | Devops Roadmap | DevOps Career | Intellipaat",
+      "duration": 1425
+    },
+    {
+      "id": "bVN35duRS48",
+      "title": "Devops Course | DevOps Full Course | Learn DevOps in 10 Hours | Intellipaat",
+      "duration": 36411
+    },
+    {
+      "id": "n1Sjd5i111U",
+      "title": "Azure DevOps | Azure DevOps Full Course | Azure DevOps Pipeline | Intellipaat",
+      "duration": 20935
+    },
+    {
+      "id": "0a8Ys7IImEw",
+      "title": "DevOps Pipeline | Phases of DevOps Pipeline | DevOps Tutorial | Intellipaat",
+      "duration": 1856
+    },
+    {
+      "id": "QSyoPREqwqo",
+      "title": "How to Become a DevOps Engineer | DevOps Career | DevOps Engineer Tutorial | Intellipaat",
+      "duration": 2641
+    },
+    {
+      "id": "1QPngS6oVYQ",
+      "title": "Easy Way to Learn DevOps | DevOps Basics For Beginners | How To Learn DevOps",
+      "duration": 3351
+    },
+    {
+      "id": "xWmRdSLIvig",
+      "title": "How to Change Career to DevOps | DevOps Career Path | DevOps Career Roadmap | Intellipaat",
+      "duration": 3576
+    },
+    {
+      "id": "-1EYMS1Yewg",
+      "title": "CI CD Pipeline Using Jenkins | CI CD Pipeline Tutorial For Beginners | CI CD Explained | Intellipaat",
+      "duration": 4210
+    },
+    {
+      "id": "79zXZuk6R-Q",
+      "title": "IIT Roorkee EICT - Advanced Certification in Cloud Computing & DevOps Program | Intellipaat",
+      "duration": 65
+    },
+    {
+      "id": "I0gDfGXbrOY",
+      "title": "DevOps For Non Technical | DevOps for Non-Engineers | DevOps Engineer Career Path | Intellipaat",
+      "duration": 2271
+    },
+    {
+      "id": "U5W5HhNEI58",
+      "title": "DevOps Course | DevOps Training | DevOps Tools | Intellipaat",
+      "duration": 39021
+    },
+    {
+      "id": "A_dkG96mveQ",
+      "title": "Future Scope of DevOps | Why to Choose DevOps Career | DevOps Engineer Career Path | Intellipaat",
+      "duration": 940
+    },
+    {
+      "id": "JTeB_SY4EA8",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "kt72N-eMae0",
+      "title": "DevOps Explained | Learn DevOps | DevOps Basics | Intellipaat",
+      "duration": 1811
+    },
+    {
+      "id": "Iv8lDe4bBeA",
+      "title": "DevOps Engineers Roles And Responsibilities | DevOps Engineer Skills | Intellipaat",
+      "duration": 952
+    },
+    {
+      "id": "FpYTIDYmBXg",
+      "title": "How to Learn DevOps Step by Step | How to Become DevOps Engineer | Intellipaat",
+      "duration": 2590
+    },
+    {
+      "id": "q-INRVtT3Rs",
+      "title": "DevOps Course | DevOps Training | DevOps Tutorial For Beginners | Intellipaat",
+      "duration": 40015
+    },
+    {
+      "id": "4I8UctoUjZc",
+      "title": "How To Become a DevOps Engineer | DevOps Engineer Career | DevOps Engineer Skills | Intellipaat",
+      "duration": 2801
+    },
+    {
+      "id": "tjEusTleuUI",
+      "title": "How to Make a Career in AWS DevOps | Why AWS DevOps | DevOps With AWS | Intellipaat",
+      "duration": 1966
+    },
+    {
+      "id": "M_qFmephL0E",
+      "title": "DevOps Course | DevOps Training | DevOps Tools Full Course | Intellipaat",
+      "duration": 40080
+    },
+    {
+      "id": "kvtagr8CwMU",
+      "title": "DevOps in 5 Minutes | What is DevOps | DevOps Explained | Intellipaat",
+      "duration": 266
+    },
+    {
+      "id": "dPBzxuWGc-0",
+      "title": "How to Become a Cloud Engineer in 2022 | Cloud Engineer Roles and Responsibilities | Intellipaat",
+      "duration": 2982
+    },
+    {
+      "id": "KmDtpwAm-II",
+      "title": "DevOps Course | Learn DevOps In 11 Hours | DevOps Tutorial For Beginners | Intellipaat",
+      "duration": 39366
+    },
+    {
+      "id": "Zwkbr9gP-bk",
+      "title": "DevOps Testing Full Course | DevOps Test Automation | DevOps Testing Best Practices | Intellipaat",
+      "duration": 7865
+    },
+    {
+      "id": "cnA6AwUeiHU",
+      "title": "Simple DevOps Project | DevOps Projects for Beginners | DevOps Project from Scratch | Intellipaat",
+      "duration": 11735
+    },
+    {
+      "id": "Evoj5eoSflk",
+      "title": "How to Become DevOps Engineer step by step | DevOps Engineer Career | Intellipaat",
+      "duration": 3955
+    },
+    {
+      "id": "jAdxlABrNdQ",
+      "title": "Grafana DevOps Tutorial | What is Grafana DevOps | Grafana Tutorial For Beginners | Intellipaat",
+      "duration": 765
+    },
+    {
+      "id": "4PQa4O_OqHA",
+      "title": "DevOps vs CloudOps | Difference Between DevOps vs CloudOps | Intellipaat",
+      "duration": 506
+    },
+    {
+      "id": "y1Ukc8rmjvo",
+      "title": "Kubernetes Course | Kubernetes Training | Kubernetes Tutorial | Intellipaat",
+      "duration": 20351
+    },
+    {
+      "id": "xidnvCy_on8",
+      "title": "DevOps For Non IT Professionals | DevOps for Non Programmers | Intellipaat",
+      "duration": 2675
+    },
+    {
+      "id": "XCbDBkIiY2o",
+      "title": "Is Devops a Good Career Choice in 2022 | DevOps Engineer Career Path | Intellipaat",
+      "duration": 3031
+    },
+    {
+      "id": "29TwUCHILhM",
+      "title": "ELK Stack Tutorial For Beginners | Elastic Stack Tutorial | DevOps | Intellipaat",
+      "duration": 13986
+    },
+    {
+      "id": "sKqHI5-2wRQ",
+      "title": "How To Get A Job As DevOps Engineer | DevOps Jobs | DevOps Engineer Job | Intellipaat",
+      "duration": 610
+    },
+    {
+      "id": "o1wuBlgt3pY",
+      "title": "DevOps Series Day 5 : DevOps Containerization | DevOps Virtualization | Intellipaat",
+      "duration": 1040
+    },
+    {
+      "id": "Ct14L5eg73g",
+      "title": "Common DevOps Errors | How to Resolve Errors in DevOps | DevOps Tutorial | Intellipaat",
+      "duration": 1465
+    },
+    {
+      "id": "DbwRe9UnZHM",
+      "title": "What is Docker and How it Works | Docker Explained | Docker For Beginners | Intellipaat",
+      "duration": 860
+    },
+    {
+      "id": "DqDTUB7U_A8",
+      "title": "DevOps Series Day 7: Docker Hub Account | Dockerfile Tutorial | Intellipaat",
+      "duration": 1451
+    },
+    {
+      "id": "2ljQignI8Dk",
+      "title": "DevOps Day 9: What is Ansible | Ansible Explained | How Ansible Works | Intellipaat",
+      "duration": 2380
+    },
+    {
+      "id": "NnCFE1iIL3Q",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "2ptW5Edyj64",
+      "title": "Azure Terraform Full Course | Microsoft Azure Terraform Course | Terraform Course | Intellipaat",
+      "duration": 24070
+    },
+    {
+      "id": "3hp518ijaQA",
+      "title": "AWS Terraform Full Course | AWS Terraform Training | AWS Terraform Tutorial | Intellipaat",
+      "duration": 11610
+    },
+    {
+      "id": "iW0XTzLrpGs",
+      "title": "Docker | What Is Docker | Docker Tutorial For Beginners | Docker In DevOps | Intellipaat",
+      "duration": 152
+    },
+    {
+      "id": "svfOZsgq-SI",
+      "title": "1 Minute Tech - DevOps | What is DevOps | DevOps Explained | How DevOps Work | Intellipaat",
+      "duration": 51
+    }
+  ]
+}

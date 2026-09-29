@@ -1,0 +1,155 @@
+{
+  "courseId": "aws-certified-cloud-practitioner-course-2020-2023-9f6865",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:20.802Z",
+  "title": "AWS Certified Cloud Practitioner",
+  "channel": "Stephane Maarek",
+  "videos": [
+    {
+      "id": "kvP_7jT-ImY",
+      "title": "NEW AWS Certified Cloud Practitioner Course - 10 HOURS of VIDEO",
+      "duration": 57
+    },
+    {
+      "id": "BxHaLBRZWyc",
+      "title": "AWS Cloud Introduction",
+      "duration": 414
+    },
+    {
+      "id": "eo0sp1xzYCY",
+      "title": "Amazon EC2 Basics Introduction",
+      "duration": 258
+    },
+    {
+      "id": "APTSi8pZVdQ",
+      "title": "AWS IAM MFA Introduction",
+      "duration": 274
+    },
+    {
+      "id": "KFtXnCmYx3s",
+      "title": "What is Cloud Computing?",
+      "duration": 488
+    },
+    {
+      "id": "AB7282pigCQ",
+      "title": "The Different Types of Cloud Computing",
+      "duration": 219
+    },
+    {
+      "id": "7DLD443HTM4",
+      "title": "AWS IAM Introduction - Users, Groups, Policies",
+      "duration": 217
+    },
+    {
+      "id": "M92fQXvvIf0",
+      "title": "AWS IAM Introduction - Roles",
+      "duration": 114
+    },
+    {
+      "id": "fvz0cphjHjg",
+      "title": "AWS Budget Setup Tutorial",
+      "duration": 208
+    },
+    {
+      "id": "vQiX170k_jk",
+      "title": "AWS Console & Services Introduction",
+      "duration": 205
+    },
+    {
+      "id": "HlEv_9-VSxM",
+      "title": "AWS Shared Responsibility Model Introduction",
+      "duration": 111
+    },
+    {
+      "id": "9R3v3lhfkTk",
+      "title": "IAM Users & Groups Tutorial",
+      "duration": 379
+    },
+    {
+      "id": "NvogZVWtg5c",
+      "title": "IAM Policies Tutorial",
+      "duration": 339
+    },
+    {
+      "id": "lN14z07twFw",
+      "title": "IAM MFA Tutorial",
+      "duration": 298
+    },
+    {
+      "id": "lAkadozQwdo",
+      "title": "IAM Roles Tutorial",
+      "duration": 124
+    },
+    {
+      "id": "9QGDssApT2w",
+      "title": "Security Groups & Classic Ports Introduction",
+      "duration": 280
+    },
+    {
+      "id": "30IWN2lhpE8",
+      "title": "Traditional Servers & IT Introduction",
+      "duration": 404
+    },
+    {
+      "id": "D9a8rm0a2mI",
+      "title": "Shared Responsibility Model for IAM Explained",
+      "duration": 106
+    },
+    {
+      "id": "zJUG55Oq7x8",
+      "title": "Shared Responsibility Model for EC2 Explained",
+      "duration": 100
+    },
+    {
+      "id": "quvVrmAjxzQ",
+      "title": "IAM Security Tools Tutorial",
+      "duration": 160
+    },
+    {
+      "id": "KJ2Z0akeATM",
+      "title": "IAM Security Tools Introduction",
+      "duration": 69
+    },
+    {
+      "id": "TlCuOjviOhk",
+      "title": "IAM Roles on EC2 Instances Tutorial",
+      "duration": 274
+    },
+    {
+      "id": "WVsgOGdaQwM",
+      "title": "IAM Policies Introduction",
+      "duration": 185
+    },
+    {
+      "id": "BmkVTOsUadE",
+      "title": "IAM Best Practices & Guidelines",
+      "duration": 105
+    },
+    {
+      "id": "lxSNeF7BAII",
+      "title": "EC2 Instance Connect Tutorial",
+      "duration": 164
+    },
+    {
+      "id": "BmJjQE-l4Jc",
+      "title": "AWS CloudShell Tutorial",
+      "duration": 248
+    },
+    {
+      "id": "Rp-A84oh4G8",
+      "title": "AWS CLI Tutorial",
+      "duration": 237
+    },
+    {
+      "id": "tDchQ0nv7Q4",
+      "title": "AWS Access Keys, CLI and SDK Introduction",
+      "duration": 259
+    },
+    {
+      "id": "wNDOErA8WTY",
+      "title": "EC2 Instance Purchasing Options Overview",
+      "duration": 606
+    }
+  ]
+}

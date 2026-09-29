@@ -1,0 +1,250 @@
+{
+  "courseId": "master-nodejs-f2fa84",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:09.282Z",
+  "title": "Master NodeJS",
+  "channel": "Piyush Garg",
+  "videos": [
+    {
+      "id": "ohIAiuHMKMI",
+      "title": "What is NodeJS?",
+      "duration": 465
+    },
+    {
+      "id": "N6PjgN9licA",
+      "title": "Node JS Installation",
+      "duration": 362
+    },
+    {
+      "id": "XhCs5cTYW_8",
+      "title": "Hello World NodeJS",
+      "duration": 585
+    },
+    {
+      "id": "FSRo41TaHFU",
+      "title": "Modules in NodeJS",
+      "duration": 925
+    },
+    {
+      "id": "YazJFb_i4A0",
+      "title": "File Handling in NodeJS",
+      "duration": 1097
+    },
+    {
+      "id": "y0aTs56DJWk",
+      "title": "How NodeJS Works?",
+      "duration": 863
+    },
+    {
+      "id": "ZQsrcayZcSk",
+      "title": "Building HTTP Server in NodeJS",
+      "duration": 1076
+    },
+    {
+      "id": "Nt-AsZh5woE",
+      "title": "Handling URL's in NodeJS",
+      "duration": 1237
+    },
+    {
+      "id": "kREAjKyPbSI",
+      "title": "HTTP METHODS",
+      "duration": 818
+    },
+    {
+      "id": "N2-FyBBxOZA",
+      "title": "Getting Started with Express and NodeJS",
+      "duration": 688
+    },
+    {
+      "id": "ORmB_ABimjM",
+      "title": "How Versioning Works in NodeJS?",
+      "duration": 1270
+    },
+    {
+      "id": "cJAyEOZQUQY",
+      "title": "What is REST API?",
+      "duration": 941
+    },
+    {
+      "id": "uNCrMvkPUAE",
+      "title": "Building REST API's using Node and Express.js",
+      "duration": 1227
+    },
+    {
+      "id": "7OzNVIxPLH0",
+      "title": "Introduction to POSTMAN for REST API's",
+      "duration": 889
+    },
+    {
+      "id": "n2c0mf1sza4",
+      "title": "Express Middleware",
+      "duration": 1190
+    },
+    {
+      "id": "mhg3Vwsb88M",
+      "title": "What are HTTP Headers in API",
+      "duration": 1058
+    },
+    {
+      "id": "fLGw2GK884s",
+      "title": "HTTP Status Codes",
+      "duration": 936
+    },
+    {
+      "id": "oH0VoYiA8_s",
+      "title": "Getting Started with MongoDB",
+      "duration": 481
+    },
+    {
+      "id": "xrglM8U0Zv8",
+      "title": "Connecting NodeJS with MongoDB | Mongoose + Express",
+      "duration": 1158
+    },
+    {
+      "id": "JLtXoru-ipo",
+      "title": "Model View Controller in NodeJS | MVC Pattern",
+      "duration": 1381
+    },
+    {
+      "id": "4WvX9dBjiJo",
+      "title": "Create a Custom URL Shortener using Node.JS and MongoDB",
+      "duration": 1390
+    },
+    {
+      "id": "yy9cbu_e3Xg",
+      "title": "Server Side Rendering with EJS and Node.JS",
+      "duration": 1524
+    },
+    {
+      "id": "OWeruyqhiTo",
+      "title": "Building Node.js Authentication from Scratch",
+      "duration": 2349
+    },
+    {
+      "id": "mGrVmEex6_g",
+      "title": "JWT Authentication in NodeJS",
+      "duration": 870
+    },
+    {
+      "id": "kMErso06vHo",
+      "title": "What are Cookies in NodeJS?",
+      "duration": 1835
+    },
+    {
+      "id": "1uxWtBFOrkk",
+      "title": "Authorization in NodeJS",
+      "duration": 1173
+    },
+    {
+      "id": "5UOMuTWrh6Q",
+      "title": "Creating Discord Bot in NodeJS",
+      "duration": 1305
+    },
+    {
+      "id": "WqJ0P8JnftI",
+      "title": "Uploading Files with NodeJS and Multer",
+      "duration": 851
+    },
+    {
+      "id": "6z6CR29gtds",
+      "title": "Setting Up Project - NodeJS Blogging Application with MongoDB",
+      "duration": 2376
+    },
+    {
+      "id": "X1AGH8Byj9Y",
+      "title": "Setting up Authentication  - NodeJS Blogging Application with MongoDB",
+      "duration": 2301
+    },
+    {
+      "id": "vnWVrjsEeAM",
+      "title": "Complete Blog App - NodeJS, MongoDB and EJS",
+      "duration": 1589
+    },
+    {
+      "id": "_U0pTlpyMGg",
+      "title": "Deploy NodeJS Application on AWS - Amazon Web Services | NodeJS",
+      "duration": 1191
+    },
+    {
+      "id": "UUddpbgPEJM",
+      "title": "WebSocket in NodeJS | Socket.IO - Real Time Messaging",
+      "duration": 1947
+    },
+    {
+      "id": "64LJJhT6Ybo",
+      "title": "NodeJS Streams",
+      "duration": 926
+    },
+    {
+      "id": "JoPZ9gEvpz8",
+      "title": "How to scale NodeJs applications using the cluster module.",
+      "duration": 758
+    },
+    {
+      "id": "b_B1BEShfBc",
+      "title": "What is Nginx?",
+      "duration": 705
+    },
+    {
+      "id": "Qmld1te08Ns",
+      "title": "Install and Setup Nginx",
+      "duration": 796
+    },
+    {
+      "id": "YkuhqIDUi2A",
+      "title": "Serve Static Content with Nginx",
+      "duration": 901
+    },
+    {
+      "id": "ofBFl4M4BFk",
+      "title": "Full Node.js Deployment - NGINX, SSL With Lets Encrypt",
+      "duration": 1885
+    },
+    {
+      "id": "VvYADzRwJK8",
+      "title": "Serverless Framework with NodeJS",
+      "duration": 1246
+    },
+    {
+      "id": "AgOmeANl3ls",
+      "title": "What is Serverless? | Serverless Vs Monolith | AWS Lambda",
+      "duration": 2171
+    },
+    {
+      "id": "WtkKwO1viI8",
+      "title": "GraphQL Crash Course - GraphQL NodeJS",
+      "duration": 2551
+    },
+    {
+      "id": "FbDrEEhG5cM",
+      "title": "Threads App GraphQL Clone | Backend Architecture",
+      "duration": 1134
+    },
+    {
+      "id": "g6YpoVYTd1s",
+      "title": "Setting up Graphql Server | Complete GraphQL Series",
+      "duration": 1501
+    },
+    {
+      "id": "4jiTZGn34_c",
+      "title": "Graphql Prisma Postgresql Setup | Complete GraphQL Series",
+      "duration": 1047
+    },
+    {
+      "id": "MSJImC6cTkY",
+      "title": "Refactoring GraphQL Code | Complete GraphQL Series",
+      "duration": 755
+    },
+    {
+      "id": "0XFoeaYnc20",
+      "title": "Authentication with GraphQL Server | Complete GraphQL Series",
+      "duration": 1300
+    },
+    {
+      "id": "8atiBUsAOcI",
+      "title": "JWT Authentication and Context in GraphQL",
+      "duration": 817
+    }
+  ]
+}

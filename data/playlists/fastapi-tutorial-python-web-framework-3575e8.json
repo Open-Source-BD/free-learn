@@ -1,0 +1,75 @@
+{
+  "courseId": "fastapi-tutorial-python-web-framework-3575e8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:48.469Z",
+  "title": "FastAPI Tutorial | Python Web Framework",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "02dzgC_Ba70",
+      "title": "#1 FastAPI - Python Web Framework",
+      "duration": 415
+    },
+    {
+      "id": "Rf9jbnzt2UU",
+      "title": "#2 FastAPI Setup in VS Code",
+      "duration": 782
+    },
+    {
+      "id": "Fmw1i1cBYq4",
+      "title": "#3 FastAPI : Building the Server and Get API",
+      "duration": 874
+    },
+    {
+      "id": "M-DzoNzmJI0",
+      "title": "#4 FastAPI - Pydantic and Fetching all products",
+      "duration": 734
+    },
+    {
+      "id": "2NfTEi1CyYs",
+      "title": "#5 FastAPI : Fetch by ID and Post Request",
+      "duration": 522
+    },
+    {
+      "id": "XMoK33jsgcs",
+      "title": "#6 FastAPI - Update and Delete Data",
+      "duration": 585
+    },
+    {
+      "id": "uy4TPngK-8c",
+      "title": "#7  FastAPI - SQLAlchemy",
+      "duration": 499
+    },
+    {
+      "id": "WCOOFySgmnQ",
+      "title": "#8 FastAPI-Database Config",
+      "duration": 542
+    },
+    {
+      "id": "V0FUealWanc",
+      "title": "#9 FastAPI - SQLAlchemy Model Creation",
+      "duration": 417
+    },
+    {
+      "id": "lm0uRxLMwb8",
+      "title": "#10 FastAPI-Initialize Data",
+      "duration": 400
+    },
+    {
+      "id": "TzXQwHBDEPc",
+      "title": "#11 FastAPI-Dependency Injection and Fetch from DB",
+      "duration": 451
+    },
+    {
+      "id": "FN_BvbOwur0",
+      "title": "#12 FastAPI – Create, Update and  Delete with Database",
+      "duration": 624
+    },
+    {
+      "id": "IR_EqMAlJZE",
+      "title": "#13 FastAPI-Running Full Stack Web App",
+      "duration": 582
+    }
+  ]
+}

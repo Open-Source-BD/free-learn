@@ -1,0 +1,325 @@
+{
+  "courseId": "html-css-browser-apis-049f9a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:23:28.554Z",
+  "title": "Frontend with HTML CSS  JS & Browser APIs",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "LYRWGWKLfQA",
+      "title": "Course overview | Build real world web apps with  HTML CSS and Browser Apis|Web Dev in Hindi",
+      "duration": 944
+    },
+    {
+      "id": "twfpNnyFvTI",
+      "title": "HTML CSS Overview",
+      "duration": 2536
+    },
+    {
+      "id": "b7S9Rf3BLRE",
+      "title": "CSS Units px, rem, em, vh, vw | Absolute Vs Relative Units | CSS Core concepts | Web Dev In Hindi",
+      "duration": 1277
+    },
+    {
+      "id": "RRZgQr0Nzm4",
+      "title": "CSS Box-model | Content, Padding, Border, Margin | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 1035
+    },
+    {
+      "id": "9GDKY7IDRgI",
+      "title": "CSS Display Property | Block, Inline, Inline-Block | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 826
+    },
+    {
+      "id": "FrZNypfGK28",
+      "title": "Css Positioning | Static, Relative, Absolute, Fixed, Sticky | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 1737
+    },
+    {
+      "id": "V0LcgFrKGMM",
+      "title": "CSS Flexbox (In-depth) | Axis, Justification, Alignment, Space Distribution, | CSS Core Concepts",
+      "duration": 1760
+    },
+    {
+      "id": "LukE3Nhgmn0",
+      "title": "CSS Flexbox Practical (In-depth) | By Playing Game | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 1756
+    },
+    {
+      "id": "01ZF4fLFcuw",
+      "title": "CSS Box-sizing, Default Styling | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 821
+    },
+    {
+      "id": "75C7Y_S1PFw",
+      "title": "CSS Media Queries | Firing External CSS (Responsiveness) | CSS Core Concepts | Web Dev In Hindi",
+      "duration": 875
+    },
+    {
+      "id": "CcSg3rwC-sY",
+      "title": "Browser Event Listeners | Practical Task-1 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 711
+    },
+    {
+      "id": "h--bgmjoXHM",
+      "title": "HTML Collection Vs NodeList Vs Array | Practical Task-2 | DOM Methods & Properties |Web Dev In Hindi",
+      "duration": 632
+    },
+    {
+      "id": "b4gA2EnnHSw",
+      "title": "DOM Methods & Properties | Diff in SetAttribute & classList's add method | Practical Task-3",
+      "duration": 698
+    },
+    {
+      "id": "HP6U-_d0WQI",
+      "title": "CSS Styling via DOM (Style Object) | children Vs childNodes | Practical Task-4 | Web Dev In Hindi",
+      "duration": 1121
+    },
+    {
+      "id": "0ITgVcMES0w",
+      "title": "Difference in Sibling Nodes & Sibling Elements | Practical Task-5 | DOM Methods & Properties",
+      "duration": 814
+    },
+    {
+      "id": "Ij621VQJwPM",
+      "title": "Google & Resolve | Practical Task-6 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 286
+    },
+    {
+      "id": "uEHYy96fh0E",
+      "title": "Browser Events (In-depth) | Bubbling, Capturing, Target | Event Phases  | Web Dev In Hindi",
+      "duration": 2126
+    },
+    {
+      "id": "ZwwZrKvqWYo",
+      "title": "Applying Browser Events Concepts | Practical Task-7 | Web Dev In Hindi",
+      "duration": 206
+    },
+    {
+      "id": "XD0wPKgB_fM",
+      "title": "Understanding Window Sizing & Scrolling | Practical Task-8 | DOM Methods & Props | Web Dev In Hindi",
+      "duration": 1716
+    },
+    {
+      "id": "iwjRNJGvGaE",
+      "title": "Implementing DOM Methods & Properties | Practical Task-9 | Web Dev In Hindi",
+      "duration": 520
+    },
+    {
+      "id": "7GEGKDdnzOs",
+      "title": "Exploring Keyboard Events | Practical Task-10 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 783
+    },
+    {
+      "id": "oVx1qLNl7K8",
+      "title": "Resolve logically via DOM Methods & Properties | Practical Task-11 | Web Dev In Hindi",
+      "duration": 606
+    },
+    {
+      "id": "PRxEmHQSJ_g",
+      "title": "Browser Events Prevent Default | Practical Task-12 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 555
+    },
+    {
+      "id": "9WuxwKCw-7E",
+      "title": "Firing CSS without Media Queries | Practical Task-13 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 352
+    },
+    {
+      "id": "uyrFbQclp_A",
+      "title": "Implement Countdown Timer | Practical Task-14 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 388
+    },
+    {
+      "id": "7k7pieUCQ1A",
+      "title": "Implement Loading Animations | Practical Task-15 | DOM Methods & Properties | Web Dev In Hindi",
+      "duration": 1354
+    },
+    {
+      "id": "Y5TeZB1IPPk",
+      "title": "Teaser Alert!! JIRA Ticket Management Clone Project | Browser Module | Web Development  In Hindi",
+      "duration": 130
+    },
+    {
+      "id": "xWjNqOVGIi8",
+      "title": "JIRA Ticket Management Project | Part-1 | HTML CSS Structuring | Browser Module | Web Dev In Hindi",
+      "duration": 5297
+    },
+    {
+      "id": "ufioIHh5jrA",
+      "title": "JIRA Ticket Project | Part-2 | DOM Implementation & Manipulation | Browser Module | Web Dev In Hindi",
+      "duration": 5137
+    },
+    {
+      "id": "NwXdMKWSEwA",
+      "title": "JIRA Ticket Management Project | Part-3 | Local Storage API | Browser Module | Web Dev In Hindi",
+      "duration": 2206
+    },
+    {
+      "id": "Apa6k9exBLs",
+      "title": "JIRA Ticket Project | Part-4 | Responsive Design | Browser Module | Web Dev In Hindi",
+      "duration": 1689
+    },
+    {
+      "id": "RxNZu0RAXtc",
+      "title": "Teaser Alert!! Excel Project | Browser Module | Web Development In Hindi",
+      "duration": 316
+    },
+    {
+      "id": "W6xIvyv8tPU",
+      "title": "Excel Project | Part-1 | HTML & CSS Structuring | Browser Module | Web Development In Hindi",
+      "duration": 6664
+    },
+    {
+      "id": "CgcSns64PA8",
+      "title": "Excel Project | Part-2 | Cells Properties & Storage (2-way Binding) | Browser Module | Web Dev Hindi",
+      "duration": 6469
+    },
+    {
+      "id": "PHPhnM6YQqo",
+      "title": "Excel Project | Part-4 | Directed Graph Algo For Cycle Detection | Browser Module | Web Dev In Hindi",
+      "duration": 3304
+    },
+    {
+      "id": "GLCv95Nm_go",
+      "title": "Excel Project | Part-5 | Graph Algo Relation In Project | Browser Module | Web Dev In Hindi",
+      "duration": 4313
+    },
+    {
+      "id": "bSgEGi5CRmw",
+      "title": "Excel Project | Part-3 | Formula Evaluation [ Graph relation ] | Browser Module | Web Dev In Hindi",
+      "duration": 4995
+    },
+    {
+      "id": "vEZ87sRmz30",
+      "title": "Excel Project | Part-6 | New Feature!! | Color Tracking with Graph Algo | Browser Module | Web DeV",
+      "duration": 3830
+    },
+    {
+      "id": "DRl2f7UvfAc",
+      "title": "Excel Project | Part-7 | Multiple Sheet Management, Data Storage | Browser Module | Web Dev In Hindi",
+      "duration": 3800
+    },
+    {
+      "id": "jy9CR4ZWQjA",
+      "title": "Excel Project (Endgame!!) | Part-8 | Cut Paste Upload Download | Browser Module | Web Dev In Hindi",
+      "duration": 6410
+    },
+    {
+      "id": "loCSpGdNci4",
+      "title": "Teaser Alert!! Camera-Gallery Project | Browser Module | Web Development In Hindi",
+      "duration": 159
+    },
+    {
+      "id": "F2t5Ji8hsD4",
+      "title": "Camera-Gallery Project | Part-1 | Web APIs - Media Stream API | Browser Module | Web Dev In Hindi",
+      "duration": 4819
+    },
+    {
+      "id": "Wcx4F-s5wro",
+      "title": "Camera-Gallery Project | Part-2 | Web APIs - Canvas API | Browser Module | Web Dev In Hindi",
+      "duration": 3263
+    },
+    {
+      "id": "iUceIhzDRyQ",
+      "title": "Camera-Gallery Project | Part-3 | Web APIs - IndexedDB API | Browser Module | Web Dev In Hindi",
+      "duration": 6661
+    },
+    {
+      "id": "8gevcrOr1NY",
+      "title": "Teaser Alert!! OpenBoard Project | Browser Module | Web Development In Hindi",
+      "duration": 179
+    },
+    {
+      "id": "fWXB4XAbBSE",
+      "title": "OpenBoard Project | Part-1 | Canvas API, UI Structuring [HTML, CSS] | Browser Module | Web Dev",
+      "duration": 6014
+    },
+    {
+      "id": "5doA9_1cX8k",
+      "title": "OpenBoard Project | Part-2 | Canvas API [Drawing Graphics] | Browser Module | Web Dev",
+      "duration": 2881
+    },
+    {
+      "id": "hreAsf9vYXs",
+      "title": "OpenBoard Project | Part-3 | Socket.io [ Realtime Drawing ], Express | Browser Module | Web Dev",
+      "duration": 3281
+    },
+    {
+      "id": "8e_H8ToRdTM",
+      "title": "OpenBoard Project | Part-4 | Heroku Deployment | Realtime Testing | Browser Module | Web Dev",
+      "duration": 1272
+    },
+    {
+      "id": "LoiBolgtGE8",
+      "title": "Debouncing & Throttling | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 3238
+    },
+    {
+      "id": "4-Zy1auSBLk",
+      "title": "DOMContentLoaded Vs Load Events | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 1499
+    },
+    {
+      "id": "ltPQ6eZtqjI",
+      "title": "Defer Vs Async Vs Normal Scripts | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 1135
+    },
+    {
+      "id": "QaMASFEWssQ",
+      "title": "CSS Background Properties | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 735
+    },
+    {
+      "id": "TItwd7bKZ3A",
+      "title": "Cookies and CSRF Attack!! | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 2096
+    },
+    {
+      "id": "e2Qa3xPT1CA",
+      "title": "CORS Error!! (Cross Origin Resource Sharing) | Interview Prep | Browser Module | Web Dev",
+      "duration": 2389
+    },
+    {
+      "id": "jfKN6_70Iuk",
+      "title": "CSS Selectors Specifity | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 825
+    },
+    {
+      "id": "aPKmqOem6Ew",
+      "title": "CSS Pseudo Classes | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 305
+    },
+    {
+      "id": "HHGXiticGNY",
+      "title": "CSS z-index Property | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 394
+    },
+    {
+      "id": "31VTmosUQzw",
+      "title": "HTTP Verbs (Methods, Status codes, Status type) | Interview Prep | Browser Module | Web Dev",
+      "duration": 1076
+    },
+    {
+      "id": "AK2SIv9Izn4",
+      "title": "XMLHttpRequest Vs Fetch Vs Axios [Network Requests] | Interview Prep | Browser Module | Web Dev",
+      "duration": 1876
+    },
+    {
+      "id": "YcnfHLxN9MU",
+      "title": "IndexedDB Storage | Web Storage API | Interview Prep | Browser Module | Web Dev In Hindi",
+      "duration": 3369
+    },
+    {
+      "id": "0C8t5gC4eQY",
+      "title": "Local Storage Vs Session Storage | Web Storage API | Interview Prep | Browser Module | Web Dev",
+      "duration": 986
+    },
+    {
+      "id": "rSkXEIUO9oc",
+      "title": "Browser Events [In-depth] | Bubbling, Capturing, Target, Current Target | Interview Prep | Web Dev",
+      "duration": 2126
+    }
+  ]
+}

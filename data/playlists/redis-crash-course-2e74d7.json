@@ -1,0 +1,50 @@
+{
+  "courseId": "redis-crash-course-2e74d7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoAsubXIl8uKqhvGFeH8g_gzHPwyFoVJQ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:17.255Z",
+  "title": "Redis Crash Course",
+  "channel": "CodeWithTim",
+  "videos": [
+    {
+      "id": "Y9TT_p7rZXs",
+      "title": "Redis Crash Course - What, Why & Install",
+      "duration": 305
+    },
+    {
+      "id": "NuyKmcEVAFc",
+      "title": "Redis Crash Course - Strings",
+      "duration": 305
+    },
+    {
+      "id": "9DbIqTo_9W0",
+      "title": "Redis Crash Course - Lists",
+      "duration": 556
+    },
+    {
+      "id": "dzO9QyIj_rA",
+      "title": "Redis Crash Course - Sets",
+      "duration": 521
+    },
+    {
+      "id": "3pVGeiGQRf4",
+      "title": "Redis Crash Course - Sorted Sets",
+      "duration": 390
+    },
+    {
+      "id": "xVFuj7UOibc",
+      "title": "Redis Crash Course - Hyperloglog",
+      "duration": 222
+    },
+    {
+      "id": "ixQ0amdJfI4",
+      "title": "Redis Crash Course: Hashes",
+      "duration": 248
+    },
+    {
+      "id": "5seIrOGYHPo",
+      "title": "Redis Crash Course - Transactions",
+      "duration": 416
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "courseId": "networking-basics-37f5c9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:39.796Z",
+  "title": "Networking Basics",
+  "channel": "Bitten Tech",
+  "videos": [
+    {
+      "id": "0AcpUwnc12E",
+      "title": "[HINDI] Networking Basics | Part #1 | Introduction to Computer Networks | Types, Working, Topologies",
+      "duration": 1014
+    },
+    {
+      "id": "cPg5dD67GI4",
+      "title": "[HINDI] Networking Basics | Part #2 | History of Internet | Types of Physical Connections",
+      "duration": 682
+    },
+    {
+      "id": "vlF522Qdycs",
+      "title": "[HINDI] Networking Basics | Part #3 | Networking Hardware Devices | Hub, Switch, Router, Bridge",
+      "duration": 852
+    },
+    {
+      "id": "BGeecoLm-YY",
+      "title": "[HINDI] Networking Basics | Part #4 | Physical layer | Transmission Media | Types of Cables",
+      "duration": 768
+    },
+    {
+      "id": "sbopgWeSnZQ",
+      "title": "[HINDI] Networking Basics | Part #5 | Data Link Layer | Switching | Types of Switching",
+      "duration": 1262
+    },
+    {
+      "id": "UvHr0yL-wJg",
+      "title": "[HINDI] Networking Basics | Part #6 | The OSI Model | Open Systems Interconnection",
+      "duration": 1949
+    },
+    {
+      "id": "E5MB9W7xZXo",
+      "title": "[HINDI] Networking Basics | Part #7 | More on OSI Model | Introduction to TCP/IP Model",
+      "duration": 555
+    },
+    {
+      "id": "8xey7-rgLZg",
+      "title": "[HINDI] Networking Basics | Part #8 | TCP/IP v/s OSI | The Difference",
+      "duration": 569
+    },
+    {
+      "id": "elp3fFHahi8",
+      "title": "[HINDI] Networking Basics | Part #9 | TCP/IP Protocol Stack | Introduction to Internet Protocol",
+      "duration": 944
+    },
+    {
+      "id": "zt95uE42gIs",
+      "title": "[HINDI] Networking Basics | Part #10 | Network layer | IPv4 Header Format",
+      "duration": 1267
+    },
+    {
+      "id": "1GbJUAcHfKU",
+      "title": "[HINDI] Networking Basics | Part #11 | Network Layer | Introduction to IPv6",
+      "duration": 490
+    },
+    {
+      "id": "ukEJ3V7iX94",
+      "title": "[HINDI] Networking Basics | Part #12 | Network Layer | IPv6 Header Format",
+      "duration": 831
+    },
+    {
+      "id": "MYYaeu_qiH4",
+      "title": "[HINDI] Networking Basics | Part #13 | Network Layer | IPv4 v/s IPv6",
+      "duration": 523
+    },
+    {
+      "id": "PmuHEVV7s7o",
+      "title": "[HINDI] Networking Basics | Part #14 | The Physical Layer | Functions and Significance",
+      "duration": 752
+    },
+    {
+      "id": "CTIvYLcBLRE",
+      "title": "[HINDI] Networking Basics | Part #15 | The Data Link Layer | Functions and Significance",
+      "duration": 1055
+    },
+    {
+      "id": "9IqmsYkywPQ",
+      "title": "[HINDI] Networking Basics | Part #16 | Data Link Layer | Framing In Data Link Layer",
+      "duration": 748
+    },
+    {
+      "id": "dP4bSIuXzQk",
+      "title": "[HINDI] Networking Basics | Part #17 | Data Link Layer | Ethernet Frame Format",
+      "duration": 883
+    },
+    {
+      "id": "hG1HpY7z3RM",
+      "title": "[HINDI] Networking Basics | Part #18 | Data Link Layer | Sublayers | LLC and MAC",
+      "duration": 691
+    },
+    {
+      "id": "pQSbBvckMmY",
+      "title": "[HINDI] Networking Basics | Part #19 | Data Link Layer | Access Control Methods",
+      "duration": 616
+    },
+    {
+      "id": "9r6L1BlyHUc",
+      "title": "[HINDI] Networking Basics | Part #20 | Data Link Layer | Introduction to Access Control CSMA/CD",
+      "duration": 1203
+    },
+    {
+      "id": "IdKCF4SKUao",
+      "title": "[HINDI] Networking Basics | Part #21 | Data Link Layer | Introduction to ALOHA",
+      "duration": 520
+    },
+    {
+      "id": "CCjADT5U2i8",
+      "title": "[HINDI] Introduction to DNS Zones | Zones Files and Delegation Control",
+      "duration": 512
+    },
+    {
+      "id": "aCinfeNN8qE",
+      "title": "[HINDI] Networking Basics | Part #22 | Data Link Layer | Introduction to MAC Address",
+      "duration": 1018
+    },
+    {
+      "id": "XTW_V59gzgw",
+      "title": "[HINDI] Networking Basics | Part #23 | Data Link Layer | Introduction to ARP | Working and Functions",
+      "duration": 894
+    },
+    {
+      "id": "9aHEWmhlQxw",
+      "title": "[HINDI] Networking Basics | Part #24 | Data Link Layer | Collision and Broadcast Domains",
+      "duration": 670
+    },
+    {
+      "id": "yKf762mXsUM",
+      "title": "[HINDI] Networking Basics | Part #25 | Data Link Layer | Introduction to Virtual LAN",
+      "duration": 851
+    },
+    {
+      "id": "aV8Lx1hrp_4",
+      "title": "[HINDI] Networking Basics | Part #26 | Introduction to Network Layer",
+      "duration": 864
+    },
+    {
+      "id": "COYh5CsFRbU",
+      "title": "[HINDI] Networking Basics | Part #27 | Network layer | Packet Switching Concept and Types",
+      "duration": 1351
+    },
+    {
+      "id": "UDQiC_U-QNc",
+      "title": "[HINDI] Networking Basics | Part #28 | Network Layer | Performance Measures | Bandwidth, Delay",
+      "duration": 1305
+    },
+    {
+      "id": "timqNjKCInA",
+      "title": "[HINDI] Networking Basics | Part #29 | Network layer | Practice Problems on Network Performance",
+      "duration": 927
+    },
+    {
+      "id": "ZWuPjntI5E0",
+      "title": "[HINDI] Networking Basics | Part #30 | Network layer | IPv4 Addresses | Classful Addressing",
+      "duration": 1144
+    },
+    {
+      "id": "gQrguvmkSAA",
+      "title": "[HINDI] Networking Basics | Part #31 | Network layer | IPv4 Addresses | Classless Addressing",
+      "duration": 287
+    },
+    {
+      "id": "WEt6VDRUkn8",
+      "title": "[HINDI] Networking Basics | Part #32 | Network layer | Complete Subnetting Masterclass",
+      "duration": 2432
+    },
+    {
+      "id": "ERICyrV9QiQ",
+      "title": "[HINDI] Networking Basics | Part #33 | Network layer | Variable Length Subnet Mask (VLSM)",
+      "duration": 719
+    },
+    {
+      "id": "fzXpLh9iTSk",
+      "title": "[HINDI] Networking Basics | Part #34 | Network layer | Private IP Addressing",
+      "duration": 543
+    },
+    {
+      "id": "Q4XIoOhNg3o",
+      "title": "[HINDI] Networking Basics | Part #35 | Network layer | IP Fragmentation",
+      "duration": 1057
+    },
+    {
+      "id": "RF_Qafg7PGI",
+      "title": "[HINDI] Networking Basics | Part #36 | Network layer | Internet Control Message Protocol (ICMP)",
+      "duration": 829
+    },
+    {
+      "id": "lmyokIkxHVo",
+      "title": "[HINDI] Networking Basics | Part #37 | Network layer | Introduction to Routing | Types of Routing",
+      "duration": 1181
+    },
+    {
+      "id": "q6N5Qj7cSo4",
+      "title": "[HINDI] Networking Basics | Part #38 | Network layer | Routing Algorithms | Distance Vector Routing",
+      "duration": 1299
+    },
+    {
+      "id": "a8iyvJoSVbs",
+      "title": "[HINDI] Networking Basics | Part #39 | Network layer | Routing Algorithms | LSR and PVR",
+      "duration": 1174
+    },
+    {
+      "id": "A-8fGZrvAi0",
+      "title": "[HINDI] Networking Basics | Part #40 | Network layer | Hierarchical Routing and Autonomous Systems",
+      "duration": 903
+    },
+    {
+      "id": "pQQ5wNgbQw8",
+      "title": "[HINDI] Networking Basics | Part #41 | Network layer | Routing Protocols | RIP",
+      "duration": 1205
+    },
+    {
+      "id": "k5z-H7PwLNk",
+      "title": "[HINDI] Networking Basics | Part #42 | Network layer | Routing Protocols | OSPF",
+      "duration": 1212
+    },
+    {
+      "id": "nePkGSCuhTU",
+      "title": "[HINDI] Networking Basics | Part #43 | Network layer | Routing Protocols | BGP",
+      "duration": 1486
+    },
+    {
+      "id": "76NBYzfgBiE",
+      "title": "[HINDI] Networking Basics | Part #44 | Introduction to Transport Layer",
+      "duration": 1604
+    },
+    {
+      "id": "q-vTjhLZhVo",
+      "title": "[HINDI] Networking Basics | Part #45 | Transport Layer | Connection Services and Port Numbers",
+      "duration": 1530
+    },
+    {
+      "id": "B51huXlgxTc",
+      "title": "[HINDI] Networking Basics | Part #46 | Transport Layer | All About UDP Protocol",
+      "duration": 740
+    },
+    {
+      "id": "Ks0U_xG3j7c",
+      "title": "[HINDI] Networking Basics | Part #47 | Transport Layer | Introduction to TCP and Services",
+      "duration": 872
+    },
+    {
+      "id": "yRA4wCJGogg",
+      "title": "[HINDI] Networking Basics | Part #48 | Transport Layer | TCP Features and Header Format",
+      "duration": 1511
+    },
+    {
+      "id": "XoZM4V4rw2Q",
+      "title": "[HINDI] Networking Basics | Part #49 | Transport Layer | TCP Connections in Brief",
+      "duration": 793
+    },
+    {
+      "id": "s9FDHiCb2nk",
+      "title": "[HINDI] Networking Basics | Part #50 | Transport Layer | TCP Connections in Detail",
+      "duration": 1394
+    },
+    {
+      "id": "qvO_QSmlalo",
+      "title": "[HINDI] Networking Basics | Part #51 | Transport Layer | TCP Error Control",
+      "duration": 634
+    },
+    {
+      "id": "0G0L_EjtWW8",
+      "title": "[HINDI] Networking Basics | Part #52 | Introduction to Application Layer",
+      "duration": 1483
+    },
+    {
+      "id": "eHR8SgG2WCs",
+      "title": "[HINDI] Networking Basics | Part #53 | Application Layer | World Wide Web and HTTP",
+      "duration": 2262
+    },
+    {
+      "id": "zh-S5M_7LXs",
+      "title": "[HINDI] Networking Basics | Part #54 | Application Layer | File Transfer Protocol (FTP)",
+      "duration": 1462
+    },
+    {
+      "id": "_o_ABrasK8U",
+      "title": "[HINDI] Networking Basics | Part #55 | Application Layer | Electronic Mail | SMTP, POP, IMAP",
+      "duration": 1819
+    },
+    {
+      "id": "e0THIrHhAzc",
+      "title": "[HINDI] Networking Basics | Part #56 | Application Layer | Proxy and Proxy Servers",
+      "duration": 729
+    },
+    {
+      "id": "cel0K0HIJ2w",
+      "title": "[HINDI] Networking Basics | Part #57 | Application Layer | Introduction to VPN",
+      "duration": 682
+    },
+    {
+      "id": "A4V3FynrviE",
+      "title": "[HINDI] Networking Basics | Part #58 | Application Layer | Remote Login | Telnet and SSH",
+      "duration": 303
+    }
+  ]
+}

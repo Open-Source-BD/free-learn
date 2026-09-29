@@ -1,0 +1,385 @@
+{
+  "courseId": "java-tutorial-4a83f4",
+  "sourceUrl": "https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:07.053Z",
+  "title": "Java by Saurabh Shukla Sir",
+  "channel": "Java by Saurabh Shukla Sir",
+  "videos": [
+    {
+      "id": "IsLyduxZ9sc",
+      "title": "Lecture 1 Introduction to JAVA Hindi",
+      "duration": 930
+    },
+    {
+      "id": "U_vuESBFEpE",
+      "title": "Lecture 2 Installation of JAVA Hindi",
+      "duration": 823
+    },
+    {
+      "id": "7i8vbPA37y0",
+      "title": "Lecture 3 First Program in Java Hindi",
+      "duration": 1097
+    },
+    {
+      "id": "FB47F-QIk3k",
+      "title": "Lecture 4 Data Types and Keywords in Java Hindi",
+      "duration": 598
+    },
+    {
+      "id": "8qyVcHJ1Et4",
+      "title": "Lecture 5 Type Conversion in JavaHindi",
+      "duration": 416
+    },
+    {
+      "id": "N53Vf8HGd-0",
+      "title": "Lecture 6 Classes and Objects in JavaHindi",
+      "duration": 1126
+    },
+    {
+      "id": "slz2Vc904Qg",
+      "title": "Lecture 7 Static Members in Java Hindi",
+      "duration": 861
+    },
+    {
+      "id": "Q0NVRQP1Z5g",
+      "title": "Lecture 8 Wrapper Classes in Java Hindi",
+      "duration": 813
+    },
+    {
+      "id": "4H34eumdAZY",
+      "title": "Lecture 9 Command Line Arguments in Java Hindi",
+      "duration": 568
+    },
+    {
+      "id": "uIyLyqmhzbM",
+      "title": "Lecture 10 Packages in Java Hindi",
+      "duration": 1182
+    },
+    {
+      "id": "OIIfy0iUWhM",
+      "title": "Lecture 11 Use of import in Java Hindi",
+      "duration": 636
+    },
+    {
+      "id": "lBu02Bf3gFg",
+      "title": "Lecture 12 Access Modifiers in Java Hindi",
+      "duration": 592
+    },
+    {
+      "id": "lBEUbu2M24Q",
+      "title": "Lecture 13 Constructor in Java Hindi",
+      "duration": 888
+    },
+    {
+      "id": "zJZIm8GDUn8",
+      "title": "Lecture 14 Inheritance in Java hindi",
+      "duration": 1386
+    },
+    {
+      "id": "pCHHaUbedXc",
+      "title": "Lecture 15 Initialization block in Java Hindi",
+      "duration": 719
+    },
+    {
+      "id": "QLycTYkF8Q8",
+      "title": "Lecture 16 Overloading and Overriding in Java Hindi",
+      "duration": 888
+    },
+    {
+      "id": "i519HtRLWbY",
+      "title": "Lecture 17 final keyword in Java Hindi",
+      "duration": 937
+    },
+    {
+      "id": "DzHGyfZH6fA",
+      "title": "Lecture 18 this Keyword in Java Hindi",
+      "duration": 887
+    },
+    {
+      "id": "QM0iW8fFSXs",
+      "title": "Lecture 19 super keyword in Java Hindi",
+      "duration": 810
+    },
+    {
+      "id": "kPzea0g8xQg",
+      "title": "Lecture 20 static members in inheritance in Java Hindi",
+      "duration": 566
+    },
+    {
+      "id": "CmffeGETyk4",
+      "title": "Lecture 21 Constructor in inheritance in Java Hindi",
+      "duration": 848
+    },
+    {
+      "id": "jYu91dljs4s",
+      "title": "Lecture 22 Constructor Chaining in Java Hindi",
+      "duration": 680
+    },
+    {
+      "id": "bIQMuFPgKpM",
+      "title": "Lecture 23 Abstract class in Java Hindi",
+      "duration": 518
+    },
+    {
+      "id": "4rkPvf6hlIA",
+      "title": "Lecture 24 Abstract Method in Java Hindi",
+      "duration": 703
+    },
+    {
+      "id": "P1qhuqY2HxE",
+      "title": "Lecture 25 Interface in Java Hindi",
+      "duration": 1492
+    },
+    {
+      "id": "7DYi2YrmGII",
+      "title": "Lecture 26 Difference between Abstract class and Interface in Java Hindi",
+      "duration": 439
+    },
+    {
+      "id": "-2705UzGaFU",
+      "title": "Lecture 27 Taking Input from Keyboard in Java Hindi",
+      "duration": 874
+    },
+    {
+      "id": "7r5ZX0ix5BU",
+      "title": "Lecture 28 Arrays in Java Hindi",
+      "duration": 935
+    },
+    {
+      "id": "WThscbKqTvk",
+      "title": "Lecture 29 Two Dimensional Arrays in Java Hindi",
+      "duration": 1100
+    },
+    {
+      "id": "bBgxuXQmzE0",
+      "title": "Lecture 30 String Class in Java Hindi",
+      "duration": 765
+    },
+    {
+      "id": "NsCrYwEXDQY",
+      "title": "Lecture 31 String methods in Java Hindi",
+      "duration": 1646
+    },
+    {
+      "id": "w-LpMaM0C3I",
+      "title": "Lecture 32 Introduction to Exception Handling in Java Hindi",
+      "duration": 1678
+    },
+    {
+      "id": "tt03PCplGLE",
+      "title": "Lecture 33 Unchecked Exception Handling in Java Hindi",
+      "duration": 1233
+    },
+    {
+      "id": "0smtwnFZgZw",
+      "title": "Lecture 34 Explicit throw an exception in java Hindi",
+      "duration": 792
+    },
+    {
+      "id": "3NJQE3ahngI",
+      "title": "Lecture 35 Use of throws in checked exception in Java Hindi",
+      "duration": 1159
+    },
+    {
+      "id": "uiCZLwabju8",
+      "title": "Lecture 36 Introduction to Threads in Java Hindi",
+      "duration": 808
+    },
+    {
+      "id": "hTEiwIQqlLE",
+      "title": "Lecture 37 Threads using Runnable Interface in JavaHindi",
+      "duration": 1551
+    },
+    {
+      "id": "liOgBTfIXME",
+      "title": "Lecture 38 Threads using Thread Class in Java Hindi",
+      "duration": 636
+    },
+    {
+      "id": "32KcfVP7soM",
+      "title": "Lecture 39 Thread States in Java Hindi",
+      "duration": 708
+    },
+    {
+      "id": "qrp9Qjq-07c",
+      "title": "Lecture 40 Thread Priority in Java Hindi",
+      "duration": 530
+    },
+    {
+      "id": "Gd3OimeT0hA",
+      "title": "Lecture 41 Synchronizing multiple threads in Java Hindi",
+      "duration": 2112
+    },
+    {
+      "id": "18ikKFkVlv4",
+      "title": "Lecture 42 Introduction to file handling in Java Hindi",
+      "duration": 1221
+    },
+    {
+      "id": "wPeiLR2Q3WQ",
+      "title": "Lecture 43 File class in Java Hindi",
+      "duration": 1202
+    },
+    {
+      "id": "0jHYlXfObBQ",
+      "title": "Lecture 44 Writing to file using FileOutputStream in JavaHindi",
+      "duration": 1187
+    },
+    {
+      "id": "aA0NS0NJ8IM",
+      "title": "Lecture 45 Reading from file using FileInputStream in Java Hindi",
+      "duration": 850
+    },
+    {
+      "id": "deiJCWfDv3c",
+      "title": "Lecture 46 Writing to a file using BufferedWriter in Java Hindi",
+      "duration": 762
+    },
+    {
+      "id": "4NFwCQjmoqM",
+      "title": "Lecture 47 Reading from file using BufferedReader in Java Hindi",
+      "duration": 1193
+    },
+    {
+      "id": "eUpSuBudnKY",
+      "title": "Lecture 48 Garbage Collection in Java Hindi",
+      "duration": 1161
+    },
+    {
+      "id": "e5TINddM-GM",
+      "title": "Lecture 49 Finalize method in Java Hindi",
+      "duration": 1444
+    },
+    {
+      "id": "Uda8e0H3Hbs",
+      "title": "Lecture 50 Introduction to GUI in Java Hindi",
+      "duration": 1175
+    },
+    {
+      "id": "hv3vYUmaZP4",
+      "title": "Lecture 51 Introduction to Applet in Java Hindi",
+      "duration": 1562
+    },
+    {
+      "id": "VLeJJ110R04",
+      "title": "Lecture 52 Life Cycle of an Applet in Java Hindi",
+      "duration": 1176
+    },
+    {
+      "id": "TyspQROwLSQ",
+      "title": "Lecture 53 How to set components in an Applet in Java Hindi",
+      "duration": 1637
+    },
+    {
+      "id": "ckxo46zuvl8",
+      "title": "Lecture 54 Event Handling in an Applet in Java Hindi",
+      "duration": 2230
+    },
+    {
+      "id": "CY7pR7MIVDc",
+      "title": "Lecture 55 Parameter passing in an Applet in Java Hindi",
+      "duration": 993
+    },
+    {
+      "id": "GLOUijPxXGc",
+      "title": "Lecture 56 How to display digital clock in an Applet in JavaHindi",
+      "duration": 1001
+    },
+    {
+      "id": "cSTkRs7SYC4",
+      "title": "Lecture 57 Inner class or Nested class in Java Hindi",
+      "duration": 1196
+    },
+    {
+      "id": "bRbt5XR5t7U",
+      "title": "Lecture 58 Anonymous class in Java Hindi",
+      "duration": 1419
+    },
+    {
+      "id": "_CRxUYxlFTo",
+      "title": "Lecture 59 Generic Methods in Java Hindi",
+      "duration": 1687
+    },
+    {
+      "id": "dEOYASL9sD0",
+      "title": "Lecture 60 Generic Class in Java Hindi",
+      "duration": 885
+    },
+    {
+      "id": "2gBvKGdI6QI",
+      "title": "Lecture 61 Introduction to Collection Frameworks in Java Hindi",
+      "duration": 2598
+    },
+    {
+      "id": "LzKlDc-sZho",
+      "title": "Lecture 62 Collection, List and ArrayList in Java Hindi",
+      "duration": 2623
+    },
+    {
+      "id": "ubF0zxAdH2o",
+      "title": "Lecture 63 LinkedList, Vector and Stack in Java hindi",
+      "duration": 1970
+    },
+    {
+      "id": "jYv0VRL9YL0",
+      "title": "Lecture 64 Cursors in Java Hindi",
+      "duration": 2540
+    },
+    {
+      "id": "_0BieAQm8Gg",
+      "title": "Lecture 65 HashSet and LinkedHashSet in Java Hindi",
+      "duration": 1427
+    },
+    {
+      "id": "kh5o-Ed66NQ",
+      "title": "Lecture 66 SortedSet and NavigableSet in Java Hindi",
+      "duration": 2409
+    },
+    {
+      "id": "DJk9IW9JScI",
+      "title": "Lecture 67 TreeSet in Java part 1 of 3 Hindi",
+      "duration": 1494
+    },
+    {
+      "id": "teauNHAIdyk",
+      "title": "Lecture 67 TreeSet in Java part 2 of 3 Hindi",
+      "duration": 1249
+    },
+    {
+      "id": "gQXWooCfcuI",
+      "title": "Lecture 67 TreeSet in Java part 3 of 3 Hindi",
+      "duration": 1625
+    },
+    {
+      "id": "uV3sTkDEZuo",
+      "title": "Lecture 68 Queue and Map in Java Hindi",
+      "duration": 2455
+    },
+    {
+      "id": "jOCkfHQepkM",
+      "title": "Lecture 69 Collections and Arrays in Java Part 1 of 2 Hindi",
+      "duration": 1087
+    },
+    {
+      "id": "Y_Vd_BI5xSU",
+      "title": "Lecture 69 Collections and Arrays in Java Part 2 of 2 Hindi",
+      "duration": 1018
+    },
+    {
+      "id": "JV21SeGAUec",
+      "title": "Lecture 70 Introduction of Swing in Java Hindi",
+      "duration": 1631
+    },
+    {
+      "id": "uzJWgvSL5X8",
+      "title": "Lecture 71 Swing Example Program in Java Hindi",
+      "duration": 1078
+    },
+    {
+      "id": "Q6YjT4qeYIs",
+      "title": "Lecture 72 Event Handling in Swing in Java Hindi",
+      "duration": 1558
+    }
+  ]
+}

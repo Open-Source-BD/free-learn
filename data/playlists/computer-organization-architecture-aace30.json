@@ -1,0 +1,655 @@
+{
+  "courseId": "computer-organization-architecture-aace30",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgwJf8NK-2e7XZXcFujMw--IDZ2nnsXNT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:58.416Z",
+  "title": "Computer Organization & Architecture",
+  "channel": "Engineering Funda",
+  "videos": [
+    {
+      "id": "gcZIy60QSTg",
+      "title": "Computer Architecture and Organization by Engineering Funda",
+      "duration": 211
+    },
+    {
+      "id": "bmbrOg0CbzA",
+      "title": "Computer Organization & Architecture (COA) Course Trailer",
+      "duration": 108
+    },
+    {
+      "id": "rl25EXcL2Sc",
+      "title": "How to Access all the Courses of Engineering Funda?",
+      "duration": 502
+    },
+    {
+      "id": "zlX8cpvOW7U",
+      "title": "Introduction to Computer Organization and Architecture (COA): Key Concepts and Syllabus Guide",
+      "duration": 545
+    },
+    {
+      "id": "bLNaKhYIwPg",
+      "title": "Computer Architecture in COA: Understanding CPU, Memory, IO Devices, and System Bus",
+      "duration": 685
+    },
+    {
+      "id": "3NycCmME87s",
+      "title": "Von Neumann Architecture in Computer Organization and Architecture| Key Aspects of Memory and CPU",
+      "duration": 565
+    },
+    {
+      "id": "VSlUsieKRkE",
+      "title": "Harvard Architecture in Computer Organization and Architecture | Working and Its Components",
+      "duration": 563
+    },
+    {
+      "id": "0eIfAUrJOlI",
+      "title": "Von Neumann vs Harvard Architecture: Key Differences and Parameters",
+      "duration": 540
+    },
+    {
+      "id": "BHD7qhZRoXQ",
+      "title": "Flynn's Classification in Computer Organization and Architecture: SISD, SIMD, MISD, and MIMD",
+      "duration": 874
+    },
+    {
+      "id": "L4Lo1sGEeQA",
+      "title": "RISC vs CISC Architectures: Chip Area and Performance Comparison",
+      "duration": 592
+    },
+    {
+      "id": "qIQNh1WGXLo",
+      "title": "Little Endian vs Big Endian | Byte Ordering | Endianness",
+      "duration": 622
+    },
+    {
+      "id": "mWbdaNLsbYo",
+      "title": "Little Endian vs Big Endian Computers: Examples and Byte Ordering",
+      "duration": 527
+    },
+    {
+      "id": "jq_rErYheEg",
+      "title": "GATE Questions on Computer Organization: Solved Problems and Solutions",
+      "duration": 272
+    },
+    {
+      "id": "wVtFUhqWtUs",
+      "title": "Memory Interfacing Questions in Computer Organization & Architecture: Solved Problems - 1",
+      "duration": 856
+    },
+    {
+      "id": "U2R6ZkAUjyo",
+      "title": "Memory Interfacing Questions in Computer Organization & Architecture: Solved Problems - 2",
+      "duration": 767
+    },
+    {
+      "id": "zVJZ8I2pgog",
+      "title": "Memory Interfacing Questions in Computer Organization & Architecture: Solved Problems - 3",
+      "duration": 648
+    },
+    {
+      "id": "kcBxdhK_DIQ",
+      "title": "Memory Interfacing Questions in Computer Organization & Architecture: Solved Problems - 4",
+      "duration": 543
+    },
+    {
+      "id": "k9dBYvkpWeg",
+      "title": "Registers of Basic Computer in Computer Organization & Architecture | Types of Registers in Computer",
+      "duration": 659
+    },
+    {
+      "id": "POtdRBUWpyU",
+      "title": "Registers Organization in COA: Different Types of Registers in Basic Computer | COA",
+      "duration": 566
+    },
+    {
+      "id": "l4WqAvOaQVs",
+      "title": "Common Bus Access using MUX in Computer | Working inside the Computer | COA",
+      "duration": 509
+    },
+    {
+      "id": "AiohZkw0N2s",
+      "title": "Working of Computer Using Common Bus in COA: Internal Architecture & Operations",
+      "duration": 651
+    },
+    {
+      "id": "VdU0QrctGQ0",
+      "title": "Questions on Registers of Computer: Solved Problems and Explanations | COA",
+      "duration": 575
+    },
+    {
+      "id": "k9sWxty1haU",
+      "title": "Instruction Formats and ALU in Computer Organization & Architecture: Types of ALU and CPU Explained",
+      "duration": 1173
+    },
+    {
+      "id": "q71S0YELD0U",
+      "title": "Examples of Instruction Formats in COA: Examples and Solutions | COA",
+      "duration": 623
+    },
+    {
+      "id": "cO-H3tDqvXM",
+      "title": "Instruction Cycle in Computer Organization & Architecture: Detailed Steps | COA",
+      "duration": 549
+    },
+    {
+      "id": "sVeh61b2LeU",
+      "title": "Timings and Flowchart of Instruction Cycle in Computer Organization & Architecture | COA",
+      "duration": 859
+    },
+    {
+      "id": "qfbG-TA6st4",
+      "title": "Instruction Cycle State Transition Diagram in Computer Organization & Architecture | COA",
+      "duration": 484
+    },
+    {
+      "id": "fXjJjd1kXJQ",
+      "title": "Types of Instructions in Computer Organization & Architecture | Classification of Instructions | COA",
+      "duration": 481
+    },
+    {
+      "id": "bM2PyN-EIS0",
+      "title": "Addressing Modes in Computer Organization & Architecture: Types and Examples | COA",
+      "duration": 1738
+    },
+    {
+      "id": "I9jb1G-GSwM",
+      "title": "Examples of Addressing Modes: Types and Solved Problems in COA -1 | COA",
+      "duration": 727
+    },
+    {
+      "id": "teKWWWFVwNU",
+      "title": "Examples of Addressing Modes: Types and Solved Problems in COA -2 | COA",
+      "duration": 568
+    },
+    {
+      "id": "UC7nnGz89Mg",
+      "title": "Examples of Addressing Modes: Types and Solved Problems in COA -3 | COA",
+      "duration": 546
+    },
+    {
+      "id": "hSyC_LOou40",
+      "title": "Examples of Addressing Modes: Types and Solved Problems in COA - 4 | COA",
+      "duration": 766
+    },
+    {
+      "id": "UvBo2KrANQE",
+      "title": "Examples of Instruction Execution in Computer Organization & Architecture : Solved Problems - 1",
+      "duration": 662
+    },
+    {
+      "id": "HApe-xSxLxk",
+      "title": "Examples of Instruction Execution in Computer Organization & Architecture : Solved Problems - 2",
+      "duration": 599
+    },
+    {
+      "id": "IEAM5cz5SQM",
+      "title": "Examples of Instruction Execution in Computer Organization & Architecture : Solved Problems - 3",
+      "duration": 584
+    },
+    {
+      "id": "nRduHAXu4PM",
+      "title": "Examples of Instruction Format in Computer Organization & Architecture: Solved Problems - 1 | COA",
+      "duration": 698
+    },
+    {
+      "id": "HhAKDp5TmcI",
+      "title": "Examples of Instruction Format in Computer Organization & Architecture: Solved Problems - 2 | COA",
+      "duration": 565
+    },
+    {
+      "id": "UbYQw1KAbR4",
+      "title": "Examples of Instruction Format in Computer Organization & Architecture: Solved Problems - 3 | COA",
+      "duration": 800
+    },
+    {
+      "id": "9tNb1sVF19E",
+      "title": "Examples of Instruction Format in Computer Organization & Architecture: Solved Problems - 4 | COA",
+      "duration": 686
+    },
+    {
+      "id": "5ayaVunXFUY",
+      "title": "CPU Performance Parameters in COA: Average CPI, MIPS, and Execution Time | COA",
+      "duration": 702
+    },
+    {
+      "id": "Ql16VoEdi0w",
+      "title": "Examples of CPU Performance in COA: Solved Problems and Parameters | COA",
+      "duration": 586
+    },
+    {
+      "id": "9IUZuI31QhU",
+      "title": "CPU Performance Parameters in COA: Understanding Speed Up Factor and Performance Example",
+      "duration": 484
+    },
+    {
+      "id": "2dYV_lADfFI",
+      "title": "Amdahl's Law in COA: Basics, Proof, and CPU Performance Explained",
+      "duration": 568
+    },
+    {
+      "id": "ApXOBwVFhKs",
+      "title": "Examples of CPU Performance in COA: Performance Parameters, Execution Time, and Average CPI - 1",
+      "duration": 504
+    },
+    {
+      "id": "e5kZe6GHHLI",
+      "title": "Examples of CPU Performance in COA: Performance Parameters, Execution Time, and Average CPI - 2",
+      "duration": 545
+    },
+    {
+      "id": "wISs7YuE_fo",
+      "title": "Micro Operations of Instruction in Computer Organization & Architecture | COA",
+      "duration": 549
+    },
+    {
+      "id": "BmhCxKRisQA",
+      "title": "Hardwired Control Unit in COA: State Table, Delay Element & Sequence Counter Methods",
+      "duration": 932
+    },
+    {
+      "id": "lRkzKDUafzs",
+      "title": "Wilkes Design for Microprogrammed Control Unit: Basics and Working Explained | COA",
+      "duration": 517
+    },
+    {
+      "id": "5Sk5OpoT66E",
+      "title": "Microprogrammed Control Unit: Structure, Working, and Role in Computer Organization & Architecture",
+      "duration": 551
+    },
+    {
+      "id": "l1vBkZWyELk",
+      "title": "Hardwired Control Unit vs Microprogrammed Control Unit: Key Differences and Comparisons | COA",
+      "duration": 805
+    },
+    {
+      "id": "v1M46g7hZSg",
+      "title": "Horizontal Microinstruction vs Vertical Microinstruction: Key Differences Explained | COA",
+      "duration": 585
+    },
+    {
+      "id": "DmY5XfnwKtg",
+      "title": "Nano Programming in Computer Organization & Architecture | COA",
+      "duration": 546
+    },
+    {
+      "id": "eA6fBonPQaI",
+      "title": "Microinstruction Format: Fields and Structure in Computer Organization & Architecture",
+      "duration": 583
+    },
+    {
+      "id": "-pdoNK8jKpg",
+      "title": "Microinstruction Format: Examples and Solved Problems - 1 | COA",
+      "duration": 529
+    },
+    {
+      "id": "3EZ12sJfwWw",
+      "title": "Microinstruction Format: Examples and Solved Problems - 2 | COA",
+      "duration": 570
+    },
+    {
+      "id": "36oFvJpX1js",
+      "title": "Microinstruction Format: Examples and Solved Problems - 3 | COA",
+      "duration": 484
+    },
+    {
+      "id": "kzjDW35rHP0",
+      "title": "Control Unit in Computer Organization & Architecture: Examples and Solved Problems",
+      "duration": 491
+    },
+    {
+      "id": "puTg85Op3fI",
+      "title": "Registers Organization in RISC Processor: Structure and Details | COA",
+      "duration": 481
+    },
+    {
+      "id": "z7TOTY6uOPA",
+      "title": "Pipelining in COA: Basics and Implementation in INTEL 8086 and ARM7 | COA",
+      "duration": 507
+    },
+    {
+      "id": "_pGXn-TPCgA",
+      "title": "Parameters of Pipelining in COA: Instruction Space and Timing Diagram | COA",
+      "duration": 847
+    },
+    {
+      "id": "Nj_WUF_zBaY",
+      "title": "Structural Hazards in Pipelining: Example and Case Studies | COA",
+      "duration": 508
+    },
+    {
+      "id": "3bkgwvfQSNQ",
+      "title": "Data Hazards in Pipelining: Pipelining Hazards and Case Studies | COA",
+      "duration": 850
+    },
+    {
+      "id": "OTvi_NCQw2Y",
+      "title": "Control Hazards in Pipelining: Pipelining Hazards and Case Studies | COA",
+      "duration": 482
+    },
+    {
+      "id": "4rS0zpNQFFk",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 1 | COA",
+      "duration": 727
+    },
+    {
+      "id": "zyxO6p_eQU4",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 2 | COA",
+      "duration": 480
+    },
+    {
+      "id": "Z_9OjOmH4uA",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 3 | COA",
+      "duration": 924
+    },
+    {
+      "id": "uQY2m8OY_DA",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 4 | COA",
+      "duration": 747
+    },
+    {
+      "id": "kDnzsV03hQg",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 5 | COA",
+      "duration": 1030
+    },
+    {
+      "id": "uEHzWmVDMqo",
+      "title": "Pipelining in COA: Examples, Instruction Pipelining and Solved Problems - 6 | COA",
+      "duration": 760
+    },
+    {
+      "id": "9VEMHK0EqI8",
+      "title": "Non Synchronized Pipeline in COA: Instruction Pipelining and Solved Problems - 1 | COA",
+      "duration": 591
+    },
+    {
+      "id": "qMhe0vKgz5Q",
+      "title": "Non Synchronized Pipeline in COA: Instruction Pipelining and Solved Problems - 2 | COA",
+      "duration": 611
+    },
+    {
+      "id": "vwcqWisWce4",
+      "title": "CPI and Speed Up in Pipelining with Hazards: Pipelining Hazards and Instruction Pipelining | COA",
+      "duration": 632
+    },
+    {
+      "id": "sZ4-0lqzsZw",
+      "title": "Pipelining Hazards in Computer Organization & Architecture: Solved Problems and Examples | COA",
+      "duration": 608
+    },
+    {
+      "id": "72m43GwPBGg",
+      "title": "Why Computers Prefer 2's Complement for Signed Data Representation | Signed Data Representation",
+      "duration": 559
+    },
+    {
+      "id": "2U1grzWLI2U",
+      "title": "Signed Data Representation: Range of Signed Numbers in Computer Systems | COA",
+      "duration": 617
+    },
+    {
+      "id": "dw5DhRHUOzg",
+      "title": "Number Representation: Solved Examples - 1 | COA",
+      "duration": 663
+    },
+    {
+      "id": "fcmB3KaLr7c",
+      "title": "Number Representation: Solved Examples - 2 | COA",
+      "duration": 511
+    },
+    {
+      "id": "T_1d9mYR_Ro",
+      "title": "Normalization of Floating Point Number: Solved Problems | COA",
+      "duration": 508
+    },
+    {
+      "id": "aj-tH2BVEo8",
+      "title": "IEEE 754 Single Precision Floating Point Number Representation: Understanding the 32-bit Format",
+      "duration": 523
+    },
+    {
+      "id": "pyP-rPHOTB0",
+      "title": "IEEE 754 Double Precision Floating Point Number Representation: Understanding the 64-bit Format",
+      "duration": 545
+    },
+    {
+      "id": "qDzfE5JiCkU",
+      "title": "Extreme Cases in IEEE 754 Floating Point Representation | IEEE 754 Format",
+      "duration": 573
+    },
+    {
+      "id": "mvw9a2G99ks",
+      "title": "Floating Point Numbers: Solved Problems - 1 | COA",
+      "duration": 752
+    },
+    {
+      "id": "iZG2N4K62ME",
+      "title": "Floating Point Numbers: Solved Problems - 2 | COA",
+      "duration": 554
+    },
+    {
+      "id": "tXbcopSs-i8",
+      "title": "Floating Point Numbers: Solved Problems - 3 | COA",
+      "duration": 519
+    },
+    {
+      "id": "cG7VMY1u3NA",
+      "title": "Half Adder and Full Adder: Structures and Functions Explained | Computer Organization & Architecture",
+      "duration": 1138
+    },
+    {
+      "id": "P3sFA9FenGc",
+      "title": "Serial Adder (Ripple Carry Adder): Design and Circuit Explained | COA",
+      "duration": 527
+    },
+    {
+      "id": "B7SRkNyaauQ",
+      "title": "Carry Look Ahead Adder (CLA): Parallel Adder Basics and Design | COA",
+      "duration": 1149
+    },
+    {
+      "id": "SLGnMnTbcZA",
+      "title": "Subtractor in Computer Architecture and Organization: Circuit and Working",
+      "duration": 569
+    },
+    {
+      "id": "8w1yDlDCA6Q",
+      "title": "4 bit Adder Subtractor: Circuit Design and Logic Explained Explained",
+      "duration": 503
+    },
+    {
+      "id": "4zFd3zZlguY",
+      "title": "Booth's Algorithm Example: Basics, Steps, and Solved Problem - 1 | COA",
+      "duration": 899
+    },
+    {
+      "id": "BzFIC2jPhKo",
+      "title": "Booth's Algorithm Example: Basics, Steps, and Solved Problem - 2 | COA",
+      "duration": 708
+    },
+    {
+      "id": "ca5ZF_-nv7I",
+      "title": "Booth's Algorithm: Flowchart, Circuit, and Steps Explained | COA",
+      "duration": 649
+    },
+    {
+      "id": "Ek-Ea2NnjeQ",
+      "title": "Restoring Division Algorithm: Flowchart, Circuit & Example Explained | COA",
+      "duration": 825
+    },
+    {
+      "id": "je7RSR6w37c",
+      "title": "Non Restoring Division Algorithm: Flowchart and Example | COA",
+      "duration": 856
+    },
+    {
+      "id": "IFVs-5LA13c",
+      "title": "System Buses in Computer Organization and Architecture: Address Buses, Data Buses, and Control Buses",
+      "duration": 659
+    },
+    {
+      "id": "YSt_47u6rvc",
+      "title": "Daisy Chain, Polling & Independent Request bus contention methods | Bus Contention & Bus Arbitration",
+      "duration": 815
+    },
+    {
+      "id": "Hr7tbmIr0G8",
+      "title": "Input Output Organization: Interfacing I/O in Computer Systems and I/O Transfer Modes | COA",
+      "duration": 359
+    },
+    {
+      "id": "ZC7CedalOYE",
+      "title": "Programmed I/O: Examples, Issues, and IO Transfer Modes | COA",
+      "duration": 323
+    },
+    {
+      "id": "iuOjtZlix4E",
+      "title": "Interrupt Driven I/O: Structure and Data Transfer Process Explained | COA",
+      "duration": 696
+    },
+    {
+      "id": "gTloFC8-nh8",
+      "title": "Direct Memory Access (DMA): Working, IO Transfer Modes, and Timing Explained",
+      "duration": 905
+    },
+    {
+      "id": "2n1__pQN4QU",
+      "title": "Direct Memory Access: Solved Problems and Examples - 1 | Direct Memory Access",
+      "duration": 555
+    },
+    {
+      "id": "UOGwsB4KSTs",
+      "title": "Direct Memory Access: Solved Problems and Examples - 2 | Direct Memory Access",
+      "duration": 799
+    },
+    {
+      "id": "ilwJfedAVO0",
+      "title": "Memory Organization in Computer Systems Explained | COA",
+      "duration": 667
+    },
+    {
+      "id": "BZ8YSCSuCB4",
+      "title": "Locality of Reference: Spatial and Temporal Locality Explained | COA",
+      "duration": 728
+    },
+    {
+      "id": "5Q946PsW2Q4",
+      "title": "Average Access Time of Memory and Access Speed of Memory | COA",
+      "duration": 758
+    },
+    {
+      "id": "DL29_Wo_-pE",
+      "title": "Average Access Time and Access Speed of Memory : Examples | COA",
+      "duration": 431
+    },
+    {
+      "id": "Lk2S85AOvv0",
+      "title": "Cache Memory Organization: Fundamentals and Structure | COA",
+      "duration": 1393
+    },
+    {
+      "id": "qs5QwBiDUIA",
+      "title": "Cache Memory Organization : Examples | COA",
+      "duration": 507
+    },
+    {
+      "id": "FjYxSBVEL0c",
+      "title": "Direct Address Mapping in Cache Memory | COA",
+      "duration": 1094
+    },
+    {
+      "id": "aSxaXdzkdFs",
+      "title": "Direct Address Mapping in Cache Memory: Examples | COA",
+      "duration": 693
+    },
+    {
+      "id": "8pfBchQUPZE",
+      "title": "Fully Associative Address Mapping in Cache Memory | COA",
+      "duration": 743
+    },
+    {
+      "id": "ZVtGlhcMQ9c",
+      "title": "Fully Associative Address Mapping in Cache Memory: Examples | COA",
+      "duration": 653
+    },
+    {
+      "id": "_1tzTWwCz10",
+      "title": "Set Associative Address Mapping in Cache Memory Explained : COA",
+      "duration": 1284
+    },
+    {
+      "id": "LEQXvs6oIEs",
+      "title": "Set Associative Address Mapping in Cache Memory: Examples",
+      "duration": 621
+    },
+    {
+      "id": "kQ813qfaiLw",
+      "title": "Replacement Strategies in Cache Memory | COA",
+      "duration": 1354
+    },
+    {
+      "id": "b-OfRo7AWc8",
+      "title": "Replacement Strategies in Cache Memory: Examples",
+      "duration": 781
+    },
+    {
+      "id": "i8PleKhf1kU",
+      "title": "Updation Techniques in Cache Memory | COA",
+      "duration": 766
+    },
+    {
+      "id": "qOpuKjyu5hw",
+      "title": "Write Through Updation Technique in Cache Memory | COA",
+      "duration": 551
+    },
+    {
+      "id": "-8OUkaFiLd4",
+      "title": "Write Back Updation Technique in Cache Memory | COA",
+      "duration": 721
+    },
+    {
+      "id": "wRJVuyjb3sg",
+      "title": "Multi Level Cache Memory | COA",
+      "duration": 1018
+    },
+    {
+      "id": "q2os4GP6qsQ",
+      "title": "Types of Misses in Cache Memory | COA",
+      "duration": 524
+    },
+    {
+      "id": "ifiQ619NI08",
+      "title": "Mapping of Cache Memory: Examples - 1 | COA",
+      "duration": 781
+    },
+    {
+      "id": "g5kjd7i2kwU",
+      "title": "Mapping of Cache Memory: Examples - 2 | COA",
+      "duration": 888
+    },
+    {
+      "id": "VFcVGcX9u2E",
+      "title": "Multi Level Cache Memory: Examples | COA",
+      "duration": 1131
+    },
+    {
+      "id": "IATPscVFm2Y",
+      "title": "Conflict Misses in Cache Memory: Examples | Cache Memory | COA",
+      "duration": 770
+    },
+    {
+      "id": "7Z0lKuArj3Q",
+      "title": "Cache Memory Examples | Cache Memory | COA",
+      "duration": 1031
+    },
+    {
+      "id": "d7zaBHw4vT0",
+      "title": "Cache Memory Examples | Cache Memory | COA",
+      "duration": 609
+    },
+    {
+      "id": "MWae1Ny4MG0",
+      "title": "Cache Memory Examples | Cache Memory | COA",
+      "duration": 729
+    }
+  ]
+}

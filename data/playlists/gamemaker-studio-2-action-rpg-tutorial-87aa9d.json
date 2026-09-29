@@ -1,0 +1,265 @@
+{
+  "courseId": "gamemaker-studio-2-action-rpg-tutorial-87aa9d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPRT_JORnIuosvhfax2TQTEmN7OYTcSvK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:37.959Z",
+  "title": "GameMaker: Action RPG Tutorial",
+  "channel": "Sara Spalding",
+  "videos": [
+    {
+      "id": "upoXH9hAKUg",
+      "title": "GameMaker: Action RPG Tutorial (Part 1: Moving & Resolution)",
+      "duration": 1923
+    },
+    {
+      "id": "9KxCE5QbK0s",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 2: Animation)",
+      "duration": 1992
+    },
+    {
+      "id": "sfMNRDzKXtc",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 3: Tile Collision)",
+      "duration": 1410
+    },
+    {
+      "id": "5Nd63OBpmog",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 4: State Machines)",
+      "duration": 1839
+    },
+    {
+      "id": "JwWuZXyTzN0",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 5: Initialisation/Pausing)",
+      "duration": 1626
+    },
+    {
+      "id": "0dcfqH4aSBw",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 6: Camera & Screenshake)",
+      "duration": 1525
+    },
+    {
+      "id": "BUxkMDTnxn8",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 7: Text boxes)",
+      "duration": 1835
+    },
+    {
+      "id": "xMYC53fv4FU",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 8: Queuing Text boxes)",
+      "duration": 1175
+    },
+    {
+      "id": "m0WFttEI60w",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 9: Entities)",
+      "duration": 2223
+    },
+    {
+      "id": "7fp__7m9lfQ",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 10: Dialogue Part 1)",
+      "duration": 917
+    },
+    {
+      "id": "Ne_wAq6DsoU",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 11: Responses & Reactions)",
+      "duration": 1887
+    },
+    {
+      "id": "dF61LK8TTSc",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 12: Z-Height and Shadows)",
+      "duration": 1872
+    },
+    {
+      "id": "3wFrQL8WQtA",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 13: Melee Attacks)",
+      "duration": 937
+    },
+    {
+      "id": "XF4aXfFVH98",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 14: Attack collision detection)",
+      "duration": 1498
+    },
+    {
+      "id": "0agN_qOtF6I",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 15: Entity \"On Hit\" Response)",
+      "duration": 2500
+    },
+    {
+      "id": "hQ8Lulkpe98",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 16: Entity Collision)",
+      "duration": 1316
+    },
+    {
+      "id": "eGtLYAvM0Vg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 17: Entity Fragments)",
+      "duration": 1678
+    },
+    {
+      "id": "9pKFv5nHHS4",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 18: Entity Fragments #2)",
+      "duration": 959
+    },
+    {
+      "id": "hJTC9xSSYFg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 19: Room Transitions)",
+      "duration": 1585
+    },
+    {
+      "id": "ZnwCrFwxQIc",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Part 20: Room Transitions #2)",
+      "duration": 1945
+    },
+    {
+      "id": "foi6Bb9IYy4",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 21: Lifting things)",
+      "duration": 1340
+    },
+    {
+      "id": "nrJJTpLEDb8",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 22: Throwing Things)",
+      "duration": 1921
+    },
+    {
+      "id": "BmM0M39FNa8",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 23: Better Interaction)",
+      "duration": 1138
+    },
+    {
+      "id": "1B7RpEw8deI",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 24: Enemy basics)",
+      "duration": 1890
+    },
+    {
+      "id": "YqMVLHBJ7Yo",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 25: Enemy Chase)",
+      "duration": 1046
+    },
+    {
+      "id": "B_AVpAti1Eg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 26: Enemy Attack)",
+      "duration": 1317
+    },
+    {
+      "id": "pkHu4BGM6uM",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 27: Enemy Damage)",
+      "duration": 1845
+    },
+    {
+      "id": "4LBkL7jR_lE",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 28: Destroying Enemies)",
+      "duration": 600
+    },
+    {
+      "id": "e-P8TX_wq-A",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 29: Displaying Health)",
+      "duration": 1158
+    },
+    {
+      "id": "WaWdZ6DW9M4",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 30: Damaging the Player)",
+      "duration": 1022
+    },
+    {
+      "id": "Z0AOCnLXUpc",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 31: Player Death)",
+      "duration": 949
+    },
+    {
+      "id": "937a48uwwFI",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 32: Quests)",
+      "duration": 1698
+    },
+    {
+      "id": "A7osa8NUVmI",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 33: Item Drops #1)",
+      "duration": 1456
+    },
+    {
+      "id": "8xHnvQDwZHo",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 34: Bombs)",
+      "duration": 1454
+    },
+    {
+      "id": "CGld6Xi44fM",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 35: Coins UI)",
+      "duration": 1029
+    },
+    {
+      "id": "cnLl0WWw8WA",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 36: Equipped Item UI)",
+      "duration": 983
+    },
+    {
+      "id": "AetAh5HuPmg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 37: Using equipped items)",
+      "duration": 540
+    },
+    {
+      "id": "u3wXKOUSGvw",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 38: Item drop lists)",
+      "duration": 735
+    },
+    {
+      "id": "0jsbqS90CnQ",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 39: Equipment cycling)",
+      "duration": 646
+    },
+    {
+      "id": "yp4bSAtHcfg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 40: Bow & Arrows)",
+      "duration": 1237
+    },
+    {
+      "id": "tsFWohCOla0",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 41: Grappling Hook)",
+      "duration": 2023
+    },
+    {
+      "id": "z5xT4CJ8RPY",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 42: Grappling Hook Visuals)",
+      "duration": 983
+    },
+    {
+      "id": "j4c5aIUG4Dg",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 43: Bat Enemy)",
+      "duration": 818
+    },
+    {
+      "id": "ebNg-xBbwX8",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 44: Auto tiling)",
+      "duration": 1058
+    },
+    {
+      "id": "iKVk3MYSq0g",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 45: Pots & Rocks)",
+      "duration": 1117
+    },
+    {
+      "id": "0UAhyus2RS0",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 46: Item Shop #1)",
+      "duration": 1276
+    },
+    {
+      "id": "-roKCm-hY7s",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 47: Item Shop #2)",
+      "duration": 1809
+    },
+    {
+      "id": "QO6ERRD95oc",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 48: Saving)",
+      "duration": 1607
+    },
+    {
+      "id": "YpHEY939cXQ",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 49: Loading)",
+      "duration": 1053
+    },
+    {
+      "id": "ASKtlsAhfLw",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Episode 50: Pause menu)",
+      "duration": 1128
+    },
+    {
+      "id": "8KD4_2CHLR0",
+      "title": "GameMaker Studio 2: Action RPG Tutorial (Final Episode)",
+      "duration": 2644
+    }
+  ]
+}

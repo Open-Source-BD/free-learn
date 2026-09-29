@@ -1,0 +1,110 @@
+{
+  "courseId": "aml-2018-ambient-intelligence-39d6ea",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:17.651Z",
+  "title": "AmI-2018 Ambient Intelligence (2017/2018)",
+  "channel": "by Fulvio Corno",
+  "videos": [
+    {
+      "id": "WDtkpbLfchY",
+      "title": "AmI-2018-L01: Course Introduction. Topic of the year.",
+      "duration": 5227
+    },
+    {
+      "id": "zVZaD72R5fk",
+      "title": "AmI-2018-L02: Definitions of Ambient Intelligence",
+      "duration": 4570
+    },
+    {
+      "id": "UKY5kBASjk8",
+      "title": "AmI-2018-L03: Python Basics",
+      "duration": 4667
+    },
+    {
+      "id": "8unDAPuGilo",
+      "title": "AmI-2018-L04: AmI Design Process (part 1)",
+      "duration": 4093
+    },
+    {
+      "id": "jj7oX4t8M8Y",
+      "title": "AmI-2018-L05: Python basics (part II)",
+      "duration": 3668
+    },
+    {
+      "id": "nHm0f5Hl8BU",
+      "title": "AmI-2018-L06: AmI Design Process (part 2)",
+      "duration": 4654
+    },
+    {
+      "id": "qZagzTLmAQU",
+      "title": "AmI-2018-L07: Python intermediate",
+      "duration": 4412
+    },
+    {
+      "id": "eZFcgRYLPLo",
+      "title": "AmI-2018-L09: Building web applications with Flask - basics",
+      "duration": 4807
+    },
+    {
+      "id": "FfARGRqGrqc",
+      "title": "AmI-2018-L10: Building web applications with Flask - sessions and database",
+      "duration": 4777
+    },
+    {
+      "id": "aPAIt6y68zQ",
+      "title": "AmI-2018-L11: CSS and Bootstrap",
+      "duration": 4684
+    },
+    {
+      "id": "1bIsRDEnI34",
+      "title": "AmI-2018-L12: REST API Design",
+      "duration": 4712
+    },
+    {
+      "id": "H5X2Vit1XGI",
+      "title": "AmI-2018-L13: Javascript",
+      "duration": 4783
+    },
+    {
+      "id": "oF0ZJCqFjLM",
+      "title": "AmI-2018-L14: Ajax and jQuery",
+      "duration": 4825
+    },
+    {
+      "id": "fIN1TkW5mjo",
+      "title": "AmI-2018-L15: Components selection and available materials",
+      "duration": 4390
+    },
+    {
+      "id": "e5V8iCCYADQ",
+      "title": "AmI-2018-L16: Guidelines for the architecture design",
+      "duration": 4396
+    },
+    {
+      "id": "Z53NGH1zihQ",
+      "title": "AmI-2018-L17: Interacting with smart devices: Philips Hue and Z-Wave devices",
+      "duration": 4502
+    },
+    {
+      "id": "-_9SqJEGCo4",
+      "title": "AmI-2018-L18: Android hands-on (part 1)",
+      "duration": 4402
+    },
+    {
+      "id": "4kOSrFoYqPc",
+      "title": "AmI-2018-L19: Android hands-on (part 2)",
+      "duration": 3757
+    },
+    {
+      "id": "dZHTaMud8PY",
+      "title": "AmI-2018-L20: Task manager in Android",
+      "duration": 3944
+    },
+    {
+      "id": "UU1moEsKI7c",
+      "title": "AmI-2018-L21: Preparing material for the exam",
+      "duration": 2146
+    }
+  ]
+}

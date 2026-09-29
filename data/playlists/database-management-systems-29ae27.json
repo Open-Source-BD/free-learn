@@ -1,0 +1,295 @@
+{
+  "courseId": "database-management-systems-29ae27",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:11.417Z",
+  "title": "Database Management Systems",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "6Iu45VZGQDk",
+      "title": "Introduction to Database Management Systems",
+      "duration": 663
+    },
+    {
+      "id": "wClEbCyWryI",
+      "title": "DBMS Characteristics",
+      "duration": 766
+    },
+    {
+      "id": "qoAL4MA3P08",
+      "title": "Database Users",
+      "duration": 651
+    },
+    {
+      "id": "YcYF-kxE0Sw",
+      "title": "Advantages & Disadvantages of DBMS",
+      "duration": 950
+    },
+    {
+      "id": "-bMiKvZRzwk",
+      "title": "History of Database Applications",
+      "duration": 501
+    },
+    {
+      "id": "qMAxQh6Xilo",
+      "title": "Fundamentals of Database Systems",
+      "duration": 385
+    },
+    {
+      "id": "vuXnRRG-m5M",
+      "title": "Three-Schema Architecture & Data Independence",
+      "duration": 409
+    },
+    {
+      "id": "DkEMtOFMNQE",
+      "title": "DBMS Languages, Interfaces, and Classification",
+      "duration": 743
+    },
+    {
+      "id": "rqcTHitakDM",
+      "title": "Database System Environment",
+      "duration": 448
+    },
+    {
+      "id": "dftMGbbULhE",
+      "title": "DBMS Architecture",
+      "duration": 481
+    },
+    {
+      "id": "wOD02sezmX8",
+      "title": "Basic Concepts of Entity-Relationship Model",
+      "duration": 529
+    },
+    {
+      "id": "7m6gXeMDaHc",
+      "title": "Database Design Process",
+      "duration": 680
+    },
+    {
+      "id": "n3mHfQft5P8",
+      "title": "Concept of Relationships in ER Diagram",
+      "duration": 906
+    },
+    {
+      "id": "l9BRmq7pgZ8",
+      "title": "Exercises based on ER Model Concepts (Part 1)",
+      "duration": 881
+    },
+    {
+      "id": "BexmtjyRp6I",
+      "title": "Exercises based on ER Model Concepts (Part 2)",
+      "duration": 714
+    },
+    {
+      "id": "Q45sr5p_NmQ",
+      "title": "Introduction to Relational Data Model",
+      "duration": 413
+    },
+    {
+      "id": "J4hZbuTLyhI",
+      "title": "Characteristics of Relations",
+      "duration": 460
+    },
+    {
+      "id": "uPOGPL2C0_8",
+      "title": "Relational Model Constraints",
+      "duration": 769
+    },
+    {
+      "id": "lMthy1iwR3s",
+      "title": "Update Operations/Dealing with Constraint Violations",
+      "duration": 596
+    },
+    {
+      "id": "BZVWPsa08Jw",
+      "title": "Exercises based on Relational Model (Part 1)",
+      "duration": 749
+    },
+    {
+      "id": "xhohP0rZcB0",
+      "title": "Exercises based on Relational Model (Part 2)",
+      "duration": 511
+    },
+    {
+      "id": "8PJGw123zeE",
+      "title": "Relational Algebra Operations - Unary",
+      "duration": 925
+    },
+    {
+      "id": "r6OsT9Zi4Cg",
+      "title": "Relational Algebra Operations - Set Theory",
+      "duration": 709
+    },
+    {
+      "id": "sJtuZq-LEQM",
+      "title": "Relational Algebra Operations - Binary",
+      "duration": 1144
+    },
+    {
+      "id": "4kqoN9-rqiQ",
+      "title": "Additional Relational Algebra Operations",
+      "duration": 1318
+    },
+    {
+      "id": "Dgq01JAWw4Y",
+      "title": "Relational Algebra Queries (Part 1)",
+      "duration": 1299
+    },
+    {
+      "id": "4y4tBfnPlS8",
+      "title": "Relational Algebra Queries (Part 2)",
+      "duration": 696
+    },
+    {
+      "id": "Zqo-qNNMmdA",
+      "title": "Introduction to Structured Query Language (SQL)",
+      "duration": 521
+    },
+    {
+      "id": "CSX0OlOYWps",
+      "title": "Data Definition Language (DDL)",
+      "duration": 360
+    },
+    {
+      "id": "Jtai4ogSsB4",
+      "title": "DDL Commands - CREATE",
+      "duration": 836
+    },
+    {
+      "id": "-8bYtApJNos",
+      "title": "Constraints in SQL",
+      "duration": 444
+    },
+    {
+      "id": "KqBiGOdce74",
+      "title": "Constraints in SQL (Example Queries)",
+      "duration": 590
+    },
+    {
+      "id": "MR0PK0qkCD8",
+      "title": "Primary Key and Foreign Key Constraints in SQL",
+      "duration": 761
+    },
+    {
+      "id": "bp8DsBI6Oik",
+      "title": "DDL Commands - ALTER",
+      "duration": 675
+    },
+    {
+      "id": "ZfDBINXhWXg",
+      "title": "DDL Commands - TRUNCATE, DROP, and RENAME",
+      "duration": 365
+    },
+    {
+      "id": "w27gAgDQr_w",
+      "title": "DML Commands - INSERT and UPDATE",
+      "duration": 685
+    },
+    {
+      "id": "9lTuR0RfKz8",
+      "title": "DML Commands - DELETE and SELECT",
+      "duration": 655
+    },
+    {
+      "id": "QBN8H9CfYzs",
+      "title": "Data Control Language (DCL)",
+      "duration": 631
+    },
+    {
+      "id": "acn8_F98ruk",
+      "title": "Transaction Control Language (TCL)",
+      "duration": 524
+    },
+    {
+      "id": "RGIVS8RGBaI",
+      "title": "Aggregate Functions in SQL",
+      "duration": 701
+    },
+    {
+      "id": "VQf0V6Wwbf4",
+      "title": "GROUP BY and HAVING Clause in SQL",
+      "duration": 477
+    },
+    {
+      "id": "wZ-L8qTTKtk",
+      "title": "ORDER BY in SQL",
+      "duration": 337
+    },
+    {
+      "id": "1ZeiJ1D6NGU",
+      "title": "LIKE in SQL",
+      "duration": 536
+    },
+    {
+      "id": "exR4hp1b30U",
+      "title": "IN in SQL",
+      "duration": 373
+    },
+    {
+      "id": "QbsfjFfYJ8U",
+      "title": "BETWEEN in SQL",
+      "duration": 386
+    },
+    {
+      "id": "VxTI2lbqfhU",
+      "title": "Alias (AS) in SQL",
+      "duration": 606
+    },
+    {
+      "id": "8v-xJuXz6Hc",
+      "title": "TOP, LIMIT, FETCH FIRST, and ROWNUM in SQL",
+      "duration": 423
+    },
+    {
+      "id": "6Twnw3sQChk",
+      "title": "NULL Functions in SQL",
+      "duration": 903
+    },
+    {
+      "id": "Qb_7J_svPyY",
+      "title": "ANY and ALL Operators in SQL",
+      "duration": 667
+    },
+    {
+      "id": "ztfO3Yz7cx4",
+      "title": "CASE Expression in SQL",
+      "duration": 582
+    },
+    {
+      "id": "N7KMNhgV89M",
+      "title": "Comments in SQL",
+      "duration": 696
+    },
+    {
+      "id": "h4EQBAzW3m4",
+      "title": "Joins in SQL",
+      "duration": 1448
+    },
+    {
+      "id": "j0uODdyercM",
+      "title": "SQL - Solved Problem 1",
+      "duration": 535
+    },
+    {
+      "id": "wasjvtqe27w",
+      "title": "SQL - Solved Problem 2",
+      "duration": 449
+    },
+    {
+      "id": "yZzA6OI9Bls",
+      "title": "SQL - Solved Problem 3",
+      "duration": 382
+    },
+    {
+      "id": "zymAOPMKVH8",
+      "title": "SQL (Rapid Fire Quiz)",
+      "duration": 1346
+    },
+    {
+      "id": "zedTLRkfCz0",
+      "title": "MySQL Practicals | Chapter 5 | Database Management Systems (DBMS)",
+      "duration": 99
+    }
+  ]
+}

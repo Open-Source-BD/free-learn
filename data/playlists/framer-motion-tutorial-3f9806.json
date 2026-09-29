@@ -1,0 +1,50 @@
+{
+  "courseId": "framer-motion-tutorial-3f9806",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLnZgHKyxHOEAy7MisX6CSMe4JTzkeodmC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:47.971Z",
+  "title": "Framer Motion Tutorial",
+  "channel": "Code With Yousaf",
+  "videos": [
+    {
+      "id": "J8SFL3Z7zw4",
+      "title": "Framer Motion Tutorial: How to create Awesome text animation with framer-motion",
+      "duration": 459
+    },
+    {
+      "id": "fhSEAH_y82w",
+      "title": "Framer Motion Tutorial: Exit and Enter Animation in React with Framer Motion",
+      "duration": 571
+    },
+    {
+      "id": "7TVu7_ijRBI",
+      "title": "Framer Motion Tutorial: Drag Animation in React with Framer Motion",
+      "duration": 509
+    },
+    {
+      "id": "54AJAH3Y4xE",
+      "title": "Framer Motion Tutorial: Hover and Tap Animations in React JS",
+      "duration": 428
+    },
+    {
+      "id": "bxzk0LEF5OE",
+      "title": "Framer Motion Tutorial: React Scroll Animations with Framer Motion",
+      "duration": 313
+    },
+    {
+      "id": "z6AENkwq1jM",
+      "title": "Scroll Triggered Animation in React with Framer Motion",
+      "duration": 339
+    },
+    {
+      "id": "rCoFjAsuxMY",
+      "title": "Page Transition in React js using Framer Motion",
+      "duration": 622
+    },
+    {
+      "id": "D_iA0gAM6Jc",
+      "title": "Scroll Reveal Animation in React using Framer Motion",
+      "duration": 356
+    }
+  ]
+}

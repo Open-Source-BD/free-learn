@@ -1,0 +1,320 @@
+{
+  "courseId": "shell-scripting-tutorial-c7c718",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:27.743Z",
+  "title": "Shell Scripting Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "nVt3Rst-2H8",
+      "title": "Shell Scripting Tutorial-1: Introduction",
+      "duration": 124
+    },
+    {
+      "id": "Y5mnE64WEDA",
+      "title": "Shell Scripting Tutorial-2: Shell, Kernel, Terminal & More",
+      "duration": 413
+    },
+    {
+      "id": "ThQ6R1EM0e8",
+      "title": "Shell Scripting Tutorial-3: View System Date, Calender",
+      "duration": 341
+    },
+    {
+      "id": "0csDVuBloIQ",
+      "title": "Shell Scripting Tutorial-4: Create Files & Directories",
+      "duration": 327
+    },
+    {
+      "id": "viEmljLt-Fo",
+      "title": "Shell Scripting Tutorial-5: Text Files: Create, Merge & Play",
+      "duration": 259
+    },
+    {
+      "id": "4r2r9HNCm0o",
+      "title": "Shell Scripting Tutorial-6: Rename & Delete Files & Directories",
+      "duration": 277
+    },
+    {
+      "id": "8CEpUQCJKhc",
+      "title": "Shell Scripting Tutorial-7: Create Copies, Links to Files & Directories",
+      "duration": 336
+    },
+    {
+      "id": "jID3dFxuFR8",
+      "title": "Shell Scripting Tutorial-8: File Permissions",
+      "duration": 289
+    },
+    {
+      "id": "bFL05iO9k2M",
+      "title": "Shell Scripting Tutorial-9: See What's In Using 'ls'",
+      "duration": 417
+    },
+    {
+      "id": "QBlENrp2wns",
+      "title": "Shell Scripting Tutorial-10: Change File Permissions Using 'chmod'",
+      "duration": 291
+    },
+    {
+      "id": "Ex-mzjPwrmo",
+      "title": "Shell Scripting Tutorial-11: Count Lines, Words & Characters Using 'wc'",
+      "duration": 360
+    },
+    {
+      "id": "kL08uSQZbHA",
+      "title": "Shell Scripting Tutorial-12: Sort",
+      "duration": 284
+    },
+    {
+      "id": "CA00GqJibZA",
+      "title": "Shell Scripting Tutorial-13: Cut Through Your Files",
+      "duration": 370
+    },
+    {
+      "id": "6N4HyE11UFs",
+      "title": "Shell Scripting Tutorial-14: Convert & Copy Files With 'dd'",
+      "duration": 326
+    },
+    {
+      "id": "R9qkOKZoYWc",
+      "title": "Shell Scripting Tutorial-15: Get Help, View Fancy Text & Reduce File Size",
+      "duration": 459
+    },
+    {
+      "id": "PLzZ0OjeCrE",
+      "title": "Shell Scripting Tutorial-16: Hello World!",
+      "duration": 321
+    },
+    {
+      "id": "Jh9h52BQ5VA",
+      "title": "Shell Scripting Tutorial-17: Use Commands In Your Scripts",
+      "duration": 188
+    },
+    {
+      "id": "x6hRT1VppAc",
+      "title": "Shell Scripting Tutorial-18: Shell Variables, Grab User Input Using 'read'",
+      "duration": 400
+    },
+    {
+      "id": "lADppydI1EA",
+      "title": "Shell Scripting Tutorial-19: Positional Parameters",
+      "duration": 439
+    },
+    {
+      "id": "3JyuX6ncPDs",
+      "title": "Shell Scripting Tutorial-20: More On Positional Parameters",
+      "duration": 330
+    },
+    {
+      "id": "gh0Ms3YRQzM",
+      "title": "Shell Scripting Tutorial-21: Reverse Quotes Or Accent Graves",
+      "duration": 429
+    },
+    {
+      "id": "WtEwpiLVs54",
+      "title": "Shell Scripting Tutorial-22: Count The Number of Command Line Arguments Using $#",
+      "duration": 253
+    },
+    {
+      "id": "dRNcGgAYF5o",
+      "title": "Shell Scripting Tutorial-23: Math On Integers Using 'expr'",
+      "duration": 424
+    },
+    {
+      "id": "nqn2NLwb8cI",
+      "title": "Shell Scripting Tutorial-24: Operator Precedence",
+      "duration": 385
+    },
+    {
+      "id": "qCXjZ0xa-lM",
+      "title": "Shell Scripting Tutorial-25: Math On Real Numbers",
+      "duration": 484
+    },
+    {
+      "id": "M6sPYzHhask",
+      "title": "Shell Scripting Tutorial-26: Escape Sequences",
+      "duration": 568
+    },
+    {
+      "id": "9WisxGxVzgM",
+      "title": "Shell Scripting Tutorial-27: Do Cool Things With 'tput'",
+      "duration": 418
+    },
+    {
+      "id": "elN9wmcIumE",
+      "title": "Shell Scripting Tutorial-28: 'if-then' Statement in Action",
+      "duration": 436
+    },
+    {
+      "id": "1s3r0Cnsy3U",
+      "title": "Shell Scripting Tutorials-29: The 'if-then-else' Statement",
+      "duration": 337
+    },
+    {
+      "id": "YhtHm9gyMxE",
+      "title": "Shell Scripting Tutorial-30: Run Checks on Numbers",
+      "duration": 448
+    },
+    {
+      "id": "LGT3HaKg4lU",
+      "title": "Shell Scripting Tutorial-31: Run Checks On Files",
+      "duration": 451
+    },
+    {
+      "id": "VOAVGwPbwlI",
+      "title": "Shell Scripting Tutorial-32: Append Text to a File Through Shell Script",
+      "duration": 458
+    },
+    {
+      "id": "IIhh1e1fURU",
+      "title": "Shell Scripting Tutorial-33: Run Checks On Strings",
+      "duration": 473
+    },
+    {
+      "id": "t7pJDlAkgy4",
+      "title": "Shell Scripting Tutorial-34: The 'AND' Logical Operator",
+      "duration": 373
+    },
+    {
+      "id": "B0tiwZQYBQA",
+      "title": "Shell Scripting Tutorial-35: Count The Number of Characters in User's Input in Your Script",
+      "duration": 404
+    },
+    {
+      "id": "vP8yT1Ni9JY",
+      "title": "Shell Scripting Tutorial-36: The 'OR' Logical Operator",
+      "duration": 397
+    },
+    {
+      "id": "bVL9pDfvAMc",
+      "title": "Shell Scripting Tutorial-37: The 'case' Statement",
+      "duration": 651
+    },
+    {
+      "id": "pyhzv8XZnww",
+      "title": "Shell Scripting Tutorial-38: Another Date With 'case' Statement",
+      "duration": 644
+    },
+    {
+      "id": "50UH6IPM1KE",
+      "title": "Shell Scripting Tutorial-39: The 'while' Loop",
+      "duration": 336
+    },
+    {
+      "id": "UYjodeCOQRo",
+      "title": "Shell Scripting Tutorial-40: The 'until' Loop",
+      "duration": 278
+    },
+    {
+      "id": "sIYmF32Ic8s",
+      "title": "Shell Scripting Tutorial-41: The 'for' Loop",
+      "duration": 427
+    },
+    {
+      "id": "H-QPEjNri1U",
+      "title": "Shell Scripting Tutorial-42: Rant & Little Work",
+      "duration": 336
+    },
+    {
+      "id": "bQ_yxb25wEk",
+      "title": "Shell Scripting Tutorial-43: Search Patterns Using 'grep'",
+      "duration": 379
+    },
+    {
+      "id": "rVcwqdG7a0s",
+      "title": "Shell Scripting Tutorial-44: The 'passwd' File Explained",
+      "duration": 384
+    },
+    {
+      "id": "zro2K3hay3Y",
+      "title": "Shell Scripting Tutorial-45: The Internal Field Separator",
+      "duration": 343
+    },
+    {
+      "id": "Htv2kkKe-_g",
+      "title": "Shell Scripting Tutorial-46: 'passwd' File Revisited",
+      "duration": 354
+    },
+    {
+      "id": "DJAgtcB9V54",
+      "title": "Shell Scripting Tutorial-47: Reading From a File",
+      "duration": 526
+    },
+    {
+      "id": "jFxLzOVPTBc",
+      "title": "Shell Scripting Tutorial-48: Sleep while you are at work",
+      "duration": 295
+    },
+    {
+      "id": "vliYprapjXY",
+      "title": "Shell Scripting Tutorial-49: Count the number of words & sentences in a text file without using 'wc'",
+      "duration": 440
+    },
+    {
+      "id": "RwDiD9Y4rB0",
+      "title": "Shell Scripting Tutorial-50: Fetch & Redirect Man Pages of commands using 'for loop'",
+      "duration": 346
+    },
+    {
+      "id": "WLoLcl1pTS0",
+      "title": "Shell Scripting Tutorial-51: Nested Loops",
+      "duration": 369
+    },
+    {
+      "id": "60kgR8mLac8",
+      "title": "Shell Scripting Tutorial-52: The 'break' Statement",
+      "duration": 247
+    },
+    {
+      "id": "sx4_7-amjF0",
+      "title": "Shell Scripting Tutorial-53: The 'continue' Statement",
+      "duration": 284
+    },
+    {
+      "id": "moRVYU-fpXw",
+      "title": "Shell Scripting Tutorial-54: More on Metacharacters",
+      "duration": 276
+    },
+    {
+      "id": "kmDCgGk7P7k",
+      "title": "Shell Scripting Tutorial-55: Adding & Removing Users",
+      "duration": 226
+    },
+    {
+      "id": "AfsCD_2HaYo",
+      "title": "Shell Scripting Tutorial-56: Know when users log in Part One",
+      "duration": 617
+    },
+    {
+      "id": "F9aqWi0bON0",
+      "title": "Shell Scripting Tutorials-57: Know when users log in Part Two",
+      "duration": 307
+    },
+    {
+      "id": "v9nZWXQCFcE",
+      "title": "Shell Scripting Tutorial-58: Know when users log in Final Part",
+      "duration": 346
+    },
+    {
+      "id": "BSFUJVHoJ7A",
+      "title": "Shell Scripting Tutorial-59: Communicate with other users using 'write'",
+      "duration": 267
+    },
+    {
+      "id": "Ho0sf54Kbr8",
+      "title": "Shell Scripting Tutorial-60: Create Your Own Commands Using Functions",
+      "duration": 266
+    },
+    {
+      "id": "3dqR9W7FKB4",
+      "title": "Shell Scripting Tutorial-61: Executing Multiple Scripts",
+      "duration": 183
+    },
+    {
+      "id": "NIsrPH5f0D4",
+      "title": "Shell Scripting Tutorial-62: Conclusion",
+      "duration": 177
+    }
+  ]
+}

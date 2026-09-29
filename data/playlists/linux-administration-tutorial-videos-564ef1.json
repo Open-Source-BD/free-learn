@@ -1,0 +1,190 @@
+{
+  "courseId": "linux-administration-tutorial-videos-564ef1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:47.703Z",
+  "title": "Linux Administration Tutorial Videos",
+  "channel": "edureka!",
+  "videos": [
+    {
+      "id": "Wgi-OfbP2Gw",
+      "title": "Linux Full Course In 5 Hours | Linux Tutorial For Beginners | Linux Training | Edureka",
+      "duration": 18911
+    },
+    {
+      "id": "jKN38_6-UWE",
+      "title": "How to install Linux on Windows 10 | Install Ubuntu on Windows 10 using Virtualbox | Edureka",
+      "duration": 410
+    },
+    {
+      "id": "v_1zB2WNN14",
+      "title": "Linux Tutorial For Beginners - 1 | Linux Administration Tutorial | Linux Commands | Edureka",
+      "duration": 9251
+    },
+    {
+      "id": "wtdFPppcup4",
+      "title": "Linux Tutorial For Beginners - 2 | Linux System Administration | Linux Training | Edureka",
+      "duration": 4353
+    },
+    {
+      "id": "JZNFLhCkHrY",
+      "title": "Linux vs Windows | Comparison Between Linux And Windows | Edureka",
+      "duration": 1621
+    },
+    {
+      "id": "G23ef2D-qrY",
+      "title": "Linux Commands | Command Line Basics | Linux Certification Training | Edureka",
+      "duration": 2726
+    },
+    {
+      "id": "aLjFxiWP5uQ",
+      "title": "Different Shells In Linux | Bash vs C Shell vs Korn Shell | Linux Certification Training | Edureka",
+      "duration": 1268
+    },
+    {
+      "id": "3Lg4w__HCI8",
+      "title": "Linux Training For Beginners | Linux Administration Tutorial | Introduction To Linux | Edureka",
+      "duration": 7184
+    },
+    {
+      "id": "0X9em99Vcl0",
+      "title": "Linux Administration Tutorial - Configuring A DNS Server In 10 Simple Steps | Edureka Live",
+      "duration": 2859
+    },
+    {
+      "id": "7L5JMj82vYU",
+      "title": "Unix vs Linux | Difference Between Unix & Linux | Linux Admin Certification Training | Edureka",
+      "duration": 634
+    },
+    {
+      "id": "p3tvtXOg5rg",
+      "title": "Linux Interview Questions And Answers | Linux Administration Tutorial | Linux Training | Edureka",
+      "duration": 4900
+    },
+    {
+      "id": "GtovwKDemnI",
+      "title": "Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka",
+      "duration": 4471
+    },
+    {
+      "id": "6ue2luv2I-Y",
+      "title": "Shell Scripting Interview Questions & Answers | Linux Admin Certification Training | Edureka",
+      "duration": 3559
+    },
+    {
+      "id": "wxZ-R7XWWBs",
+      "title": "How to Install JDK in Ubuntu | Install JDK 12 on Ubuntu 18.04 | Edureka",
+      "duration": 673
+    },
+    {
+      "id": "sw3kmihzJT0",
+      "title": "Linux Administration Training For Beginners | Linux Administration Tutorial Advanced | Edureka Live",
+      "duration": 3448
+    },
+    {
+      "id": "DtU8hB-qSPA",
+      "title": "Linux Administration Tutorial - 1 | Linux Administration Tutorial for Beginners - 1 | Edureka",
+      "duration": 8799
+    },
+    {
+      "id": "jmFOAiAyM1M",
+      "title": "Linux Administration Tutorial - 2 | Linux Administration Training | Edureka",
+      "duration": 4776
+    },
+    {
+      "id": "k9brWgb1qwk",
+      "title": "Linux Installation on CentOS | Linux Installation Tutorial | Edureka",
+      "duration": 3856
+    },
+    {
+      "id": "NAMimTkJipA",
+      "title": "Linux Initialization Tutorial for Beginners | Linux Administration Tutorial | Edureka",
+      "duration": 2274
+    },
+    {
+      "id": "kj1xq9QEwAM",
+      "title": "Linux Commands | Linux Administration Tutorial | Linux Commands Tutorial for Beginners | Edureka",
+      "duration": 3605
+    },
+    {
+      "id": "dA_P2Qy_FyA",
+      "title": "Using Linux YUM Package Manager | Linux Tutorial for Beginners | Edureka",
+      "duration": 1041
+    },
+    {
+      "id": "NbPpfGLQA24",
+      "title": "Linux Package Management with RPM and YUM | Linux Tutorial for Beginners | Edureka",
+      "duration": 3003
+    },
+    {
+      "id": "kf6pRZO1N8Q",
+      "title": "Understanding Boot Management Process | Linux Tutorial for Beginners | Edureka",
+      "duration": 1527
+    },
+    {
+      "id": "CgKfoEwOoxQ",
+      "title": "DNS Configuration in Linux | DNS Configuration | Linux Tutorial for Beginners | Edureka",
+      "duration": 1879
+    },
+    {
+      "id": "ZELBbxXvMY0",
+      "title": "SELinux Tutorial | SELinux Features | Linux Tutorial for Beginners | Edureka",
+      "duration": 2213
+    },
+    {
+      "id": "bFWLI2IgLS0",
+      "title": "Device Management using Udev | Understanding Udev in Linux | Linux Tutorial for Beginners | Edureka",
+      "duration": 1382
+    },
+    {
+      "id": "fVxFrnLsLtU",
+      "title": "kernel Programming Tutorial | Kernel Services in Linux Administration | Linux Tutorial | Edureka",
+      "duration": 5486
+    },
+    {
+      "id": "NKYbOnZNcWQ",
+      "title": "Linux Installation Step by Step | Bash Shell Scripting for Beginners | Linux Tutorial | Edureka",
+      "duration": 1737
+    },
+    {
+      "id": "18JTUgMq4b0",
+      "title": "User Administration in Linux | Linux Tutorial for Beginners | Edureka",
+      "duration": 2708
+    },
+    {
+      "id": "X3axv6SNf3M",
+      "title": "Introduction to Linux Administration | Linux Tutorial | Linux for Beginners | Edureka",
+      "duration": 3993
+    },
+    {
+      "id": "1HeehI6b-tE",
+      "title": "Linux Administration Tutorial-1 | Linux Administration for beginners | Edureka",
+      "duration": 10561
+    },
+    {
+      "id": "vLPdBp9vv9Y",
+      "title": "Introduction to UNIX | UNIX Tutorial for Beginners | UNIX Training | Edureka",
+      "duration": 1160
+    },
+    {
+      "id": "Yo9ZtDeriMc",
+      "title": "UNIX Architecture | Introduction to Architecture of UNIX | UNIX Training | Edureka",
+      "duration": 707
+    },
+    {
+      "id": "E002zp3E25M",
+      "title": "Basic UNIX Commands | UNIX Shell Commands Tutorial for Beginners | UNIX Training | Edureka",
+      "duration": 1148
+    },
+    {
+      "id": "bz0ZCUv5rYo",
+      "title": "Linux Full Course - 11 Hours [2024]  | Linux Tutorial For Beginners | Linux Training | Edureka",
+      "duration": 40707
+    },
+    {
+      "id": "FOoIP3mdpgY",
+      "title": "CMD vs PowerShell | Windows Command Prompt vs Windows PowerShell | Edureka",
+      "duration": 557
+    }
+  ]
+}

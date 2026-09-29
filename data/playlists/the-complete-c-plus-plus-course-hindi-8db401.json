@@ -1,0 +1,380 @@
+{
+  "courseId": "the-complete-c-plus-plus-course-hindi-8db401",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:19.375Z",
+  "title": "C++ by Saurabh Shukla",
+  "channel": "C++ by Saurabh Shukla Sir",
+  "videos": [
+    {
+      "id": "Iuo9PpGE04Y",
+      "title": "Lecture 1 Introduction to C++ Part 1 hindi",
+      "duration": 286
+    },
+    {
+      "id": "52dHKRD7cdg",
+      "title": "Lecture 1 Introduction to C++ Part 2hindi",
+      "duration": 291
+    },
+    {
+      "id": "ipUZeid1kEc",
+      "title": "Lecture 1 Introduction to C++ Part 3 hindi",
+      "duration": 343
+    },
+    {
+      "id": "wTFm58GTC3Q",
+      "title": "Lecture 1 Introduction to C++ Part 4hindi",
+      "duration": 414
+    },
+    {
+      "id": "DpVHFRQXRcQ",
+      "title": "Lecture 1 Introduction to C++ Part 5hindi",
+      "duration": 412
+    },
+    {
+      "id": "Ro7mjdCDKL8",
+      "title": "Lecture 2 Identifiers Part 1 hindi",
+      "duration": 736
+    },
+    {
+      "id": "vQnMuUw5liU",
+      "title": "Lecture 2 Identifiers Part 2 hindi",
+      "duration": 390
+    },
+    {
+      "id": "HujTzAI2vgk",
+      "title": "Lecture 3 Input output Part 1 hindi",
+      "duration": 933
+    },
+    {
+      "id": "Zl-JLUOuyGI",
+      "title": "Lecture 4 Reference Variables in C++ Part 1 hindi",
+      "duration": 508
+    },
+    {
+      "id": "I3aXj4_Zu-E",
+      "title": "Lecture 5 Function in C++ Part 1 hindi",
+      "duration": 1004
+    },
+    {
+      "id": "w1yQFJ5EqhU",
+      "title": "Lecture 5 Function in C++ Part 2 hindi",
+      "duration": 587
+    },
+    {
+      "id": "9fJW67TRuak",
+      "title": "Lecture 5 Function in C++ Part 3 hindi",
+      "duration": 575
+    },
+    {
+      "id": "_VnQCw_FzWs",
+      "title": "Lecture 5 Functions in C++ Part 4 Hindi",
+      "duration": 799
+    },
+    {
+      "id": "gB07c4FBgDI",
+      "title": "Lecture 6 Structure in C++ Part 1 Hindi",
+      "duration": 590
+    },
+    {
+      "id": "s2JrbgbUm_0",
+      "title": "Lecture 6 Structure in C++ Part 2 Hindi",
+      "duration": 588
+    },
+    {
+      "id": "_YL3AVswvFc",
+      "title": "Lecture 6 Structure in C++ Part 3 Hindi",
+      "duration": 522
+    },
+    {
+      "id": "ksMhgamwIes",
+      "title": "Lecture 6 Structure in C++ Part 4 Hindi",
+      "duration": 567
+    },
+    {
+      "id": "JTNlO8qwESw",
+      "title": "Lecture 6 Structure in C++ part 5 Hindi",
+      "duration": 529
+    },
+    {
+      "id": "EHlS220qNwI",
+      "title": "Lecture 7 Classes and Objects in  C++ Part 1 Hindi",
+      "duration": 576
+    },
+    {
+      "id": "4CMKICwgC0M",
+      "title": "Lecture 7 Classes and Objects in C++ Part 2 Hindi",
+      "duration": 494
+    },
+    {
+      "id": "GbysUdjjZ10",
+      "title": "Lecture 7 Classes and Objects in C++ Part 3 Hindi",
+      "duration": 427
+    },
+    {
+      "id": "9EHYiO1p3bs",
+      "title": "Lecture 8 Static Members in C++ Part 1 Hindi",
+      "duration": 482
+    },
+    {
+      "id": "TEEbs6WaC3s",
+      "title": "Lecture 8 Static Members in C++ Part 2 Hindi",
+      "duration": 465
+    },
+    {
+      "id": "Et8rgvXXVBk",
+      "title": "Lecture 9 Constructor in C++ Part 1 Hindi",
+      "duration": 557
+    },
+    {
+      "id": "ivcP0qXizes",
+      "title": "Lecture 9 Constructor in C++ Part 2 Hind",
+      "duration": 873
+    },
+    {
+      "id": "6MZr5e-SUxM",
+      "title": "Lecture 9 Constructor in C++ Part 3 Hindi",
+      "duration": 591
+    },
+    {
+      "id": "_P1YRBOtioE",
+      "title": "Lecture 10 Destructor in C++ Part 1",
+      "duration": 527
+    },
+    {
+      "id": "bxSFAmzH8ps",
+      "title": "Lecture 11 Operator overloading in C++ Part 1 Hindi",
+      "duration": 760
+    },
+    {
+      "id": "HH5olQfQiRM",
+      "title": "Lecture 11 Operator Overloading in C++ Part 2 Hindi",
+      "duration": 503
+    },
+    {
+      "id": "m4diqu_dzHE",
+      "title": "Lecture 11 Operator Overloading in C++ Part 3Hindi",
+      "duration": 833
+    },
+    {
+      "id": "r7TefKf6NWs",
+      "title": "Lecture 12 Friend Function in C++ Part 1Hindi",
+      "duration": 536
+    },
+    {
+      "id": "irNjJ1vB2YE",
+      "title": "Lecture 12 Friend Function in C++ Part 2 Hindi",
+      "duration": 561
+    },
+    {
+      "id": "fgrWYaSG94c",
+      "title": "Lecture 12 Friend Function in C++ Part 3 Hindi",
+      "duration": 578
+    },
+    {
+      "id": "3DVtiY95i5s",
+      "title": "Lecture 12  Friend Function in C++ Part 4 Hindi",
+      "duration": 453
+    },
+    {
+      "id": "n2FwR-gjTWw",
+      "title": "Lecture 12 Friend Function in C++ Part 5 Hindi",
+      "duration": 809
+    },
+    {
+      "id": "RiYZ0VC7rOk",
+      "title": "Lecture 12 Friend Function in C++ Part 6 Hindi",
+      "duration": 432
+    },
+    {
+      "id": "K62XuFHUcOA",
+      "title": "Lecture 13 Inheritance in C++ Part 1 hindi",
+      "duration": 940
+    },
+    {
+      "id": "UO9NyX_MNTU",
+      "title": "Lecture 13 Inheritance in C++ Part 2 Hindi",
+      "duration": 1237
+    },
+    {
+      "id": "g0EGFSzba6k",
+      "title": "Lecture 13 Inheritance in C++ Part 3 Hindi",
+      "duration": 1620
+    },
+    {
+      "id": "r3O9bvuRgX0",
+      "title": "Lecture 14 Constructor and Destructor in Inheritance in C++ Part 1 Hindi",
+      "duration": 1097
+    },
+    {
+      "id": "UPVl-6FrDQA",
+      "title": "Lecture 15 this pointer in C++ Part 1 Hindi",
+      "duration": 1031
+    },
+    {
+      "id": "sRBB_qX4lKY",
+      "title": "Lecture 16 new and delete in C++ Part 1Hindi",
+      "duration": 680
+    },
+    {
+      "id": "qwC8ycPZeAw",
+      "title": "Lecture 17 Method Overriding in C++ Part 1 Hindi",
+      "duration": 838
+    },
+    {
+      "id": "cUCy2ENJjW8",
+      "title": "Lecture 18 Virtual Function in C++ Part 1 Hindi",
+      "duration": 1055
+    },
+    {
+      "id": "Z_FiER8aAqM",
+      "title": "Lecture 18 Virtual Function in C++ Part 2 Hindi",
+      "duration": 1444
+    },
+    {
+      "id": "0IR_D1qZy2g",
+      "title": "Lecture 19 Abstract Class in C++ Part 1 Hindi",
+      "duration": 1120
+    },
+    {
+      "id": "xNBWR_uFqQ8",
+      "title": "Lecture 20 Template in C++ Part 1 Hindi",
+      "duration": 769
+    },
+    {
+      "id": "KvINVoZqXVE",
+      "title": "Lecture 20 Template in C++ Part 2 Hindi",
+      "duration": 1565
+    },
+    {
+      "id": "CpFx-5J7D7s",
+      "title": "Lecture 21 File Handling in C++ Part 1 Hindi",
+      "duration": 1486
+    },
+    {
+      "id": "tc7CjrhdAaY",
+      "title": "Lecture 21 File Handling in C++ Part 2 Hindi",
+      "duration": 790
+    },
+    {
+      "id": "hCkfBhaW6E0",
+      "title": "Lecture 21 File Handling in C++ Part 3 Hindi",
+      "duration": 793
+    },
+    {
+      "id": "m1doZoZyAw0",
+      "title": "tellg and tellp in C++ language Hindi",
+      "duration": 971
+    },
+    {
+      "id": "UZ9BaKkmKME",
+      "title": "seekg and seekp functions in C++ Hindi",
+      "duration": 1133
+    },
+    {
+      "id": "VkgNGUbVi5Y",
+      "title": "Lecture 22 Initializers in C++ Hindi",
+      "duration": 534
+    },
+    {
+      "id": "nCAVr_T4DbM",
+      "title": "Lecture 23 Deep Copy and Shallow Copy in C++ Hindi",
+      "duration": 1453
+    },
+    {
+      "id": "SBcIjz3cy3k",
+      "title": "Lecture 24 Type Conversion Primitive to class type in C++ Hindi",
+      "duration": 1001
+    },
+    {
+      "id": "RPRXbJ5Qjys",
+      "title": "Lecture 25 Type Conversion Class type to primitive type in C++ Hindi",
+      "duration": 816
+    },
+    {
+      "id": "QOQhOUFfv_8",
+      "title": "Lecture 26 Type Conversion one class type to another class type in C++ Hindi",
+      "duration": 1163
+    },
+    {
+      "id": "asekOytwNw4",
+      "title": "Lecture 27 Exception Handling in C++ Hindi",
+      "duration": 1509
+    },
+    {
+      "id": "BLGoojsl34Q",
+      "title": "Lecture 28 Dynamic Constructor in C++ Hindi",
+      "duration": 1088
+    },
+    {
+      "id": "cKYTFmn_5tA",
+      "title": "Lecture 29 namespace in C++ Part 1 of 2 Hindi",
+      "duration": 945
+    },
+    {
+      "id": "xzvp39aLs1Y",
+      "title": "Lecture 29 namespace in C++ Part 2 of 2 Hindi",
+      "duration": 1140
+    },
+    {
+      "id": "JXHJZJXKP64",
+      "title": "Lecture 30 Virtual Destructor in C++ Hindi",
+      "duration": 1664
+    },
+    {
+      "id": "WE01T8okZTA",
+      "title": "Lecture 31 Nested Class in C++ Hindi",
+      "duration": 1730
+    },
+    {
+      "id": "2HiObtJLNFY",
+      "title": "Lecture 32 Introduction to STL in C++ Hindi",
+      "duration": 1177
+    },
+    {
+      "id": "bLlrNx4F6LU",
+      "title": "Lecture 33 STL Containers in C++ Hindi",
+      "duration": 893
+    },
+    {
+      "id": "5XiQ9-fi7v8",
+      "title": "Lecture 34 Array in STL in C++ Hindi",
+      "duration": 1676
+    },
+    {
+      "id": "QSlFfMCOc9I",
+      "title": "Lecture 35 pair in STL in C++ Hindi",
+      "duration": 1071
+    },
+    {
+      "id": "0qXYrvN66yk",
+      "title": "Lecture 36 Tuple in STL in C++ Hindi",
+      "duration": 600
+    },
+    {
+      "id": "L7VFlpbj7Zc",
+      "title": "Lecture 37 Vector Class in STL in C++ Hindi",
+      "duration": 2670
+    },
+    {
+      "id": "pwfeTK2Tlj8",
+      "title": "Lecture 38 List class in STL in C++ Hindi",
+      "duration": 1174
+    },
+    {
+      "id": "9ZbB6OfM7lQ",
+      "title": "Lecture 39 map class in STL in C++ Hindi",
+      "duration": 1848
+    },
+    {
+      "id": "EDnU1Ja3IxQ",
+      "title": "Lecture 40 string class in C++ Part 1 Hindi",
+      "duration": 1654
+    },
+    {
+      "id": "NNt3ymvGgQQ",
+      "title": "Lecture 40 string class in C++ Part 2 Hindi",
+      "duration": 1397
+    }
+  ]
+}

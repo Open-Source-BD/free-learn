@@ -1,0 +1,50 @@
+{
+  "courseId": "c-plus-plus-gui-applications-beginner-to-advanced-25cd71",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:30.258Z",
+  "title": "C++ GUI applications (beginner to advanced)",
+  "channel": "CodeBeauty",
+  "videos": [
+    {
+      "id": "FxQTXyR4mjs",
+      "title": "Build C++ GUI apps FAST! Your first C++ GUI app!",
+      "duration": 1630
+    },
+    {
+      "id": "EGCuStJyuVE",
+      "title": "Your first C++ GUI Game (step by step) Build Game GUI apps in C++",
+      "duration": 2502
+    },
+    {
+      "id": "nxHnnQToy5o",
+      "title": "C++ project - Login and Registration - in-depth explanation",
+      "duration": 3717
+    },
+    {
+      "id": "Pyxxdr9QKmE",
+      "title": "Build C++ Guessing Game for beginners + User Interface (step-by-step)",
+      "duration": 1396
+    },
+    {
+      "id": "pyBzncjm_Gk",
+      "title": "How to make a UI Tic-Tac-Toe game in C++ (Easy game tutorial)",
+      "duration": 1529
+    },
+    {
+      "id": "WuHhhtMkrLw",
+      "title": "Your first C++ CRUD app (DB + UI)",
+      "duration": 2493
+    },
+    {
+      "id": "gzmsV5a_RrM",
+      "title": "C++ simple GUI app - Reminder app in 15 min (Step-by-Step)",
+      "duration": 920
+    },
+    {
+      "id": "KccYKSF4A4g",
+      "title": "Programmer Q&A - Answering your most interesting questions!",
+      "duration": 1171
+    }
+  ]
+}

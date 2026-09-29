@@ -1,0 +1,75 @@
+{
+  "courseId": "ocaml-data-structures-tutorial-507fa9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLea0WJq13cnA1622rtoEhd911spMDRvWh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:13.547Z",
+  "title": "OCAML Data Structures Tutorial",
+  "channel": "Noureddin Sadawi",
+  "videos": [
+    {
+      "id": "_IFEFSTCHYQ",
+      "title": "OCAML Data Structures 1/13: OCAML Lists .. Overview",
+      "duration": 510
+    },
+    {
+      "id": "tHldz6L19Pc",
+      "title": "OCAML Data Structures 2/13: OCAML Lists .. Functions on OCAML Lists",
+      "duration": 718
+    },
+    {
+      "id": "8D-hGzsXZdQ",
+      "title": "OCAML Data Structures 3/13: OCAML Lists .. More Functions on OCAML Lists",
+      "duration": 1055
+    },
+    {
+      "id": "iEIn5Ynh4eM",
+      "title": "OCAML Data Structures 4/13: Storing Functions in OCAML Lists",
+      "duration": 631
+    },
+    {
+      "id": "6-SvuMNfjbc",
+      "title": "OCAML Data Structures 5/13: The List Module",
+      "duration": 939
+    },
+    {
+      "id": "ramiuiK6eZk",
+      "title": "OCAML Data Structures 6/13: OCAML Lists - iter, map, fold_left, fold_right",
+      "duration": 740
+    },
+    {
+      "id": "UXqohcIIwXE",
+      "title": "OCAML Data Structures 7/13: OCAML Lists - find, filter, partition",
+      "duration": 529
+    },
+    {
+      "id": "PkYLLO2NjaQ",
+      "title": "OCAML Data Structures 8/13: OCAML Lists - association & lists of pairs",
+      "duration": 426
+    },
+    {
+      "id": "3-e-Xwdbg4o",
+      "title": "OCAML Data Structures 9/13: OCAML Lists - sorting and merging",
+      "duration": 462
+    },
+    {
+      "id": "MkJ7PSAOGU4",
+      "title": "OCAML Data Structures 10/13: OCAML Hashtables - overview",
+      "duration": 733
+    },
+    {
+      "id": "L0CAD_n7KTQ",
+      "title": "OCAML Data Structures 11/13: OCAML Hashtables - iter & fold",
+      "duration": 670
+    },
+    {
+      "id": "R_GnpKCccBE",
+      "title": "OCAML Data Structures 12/13: OCAML Queue",
+      "duration": 474
+    },
+    {
+      "id": "5ulW4QxqR6s",
+      "title": "OCAML Data Structures 13/13: OCAML Stack",
+      "duration": 460
+    }
+  ]
+}

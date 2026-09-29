@@ -1,0 +1,70 @@
+{
+  "courseId": "vue-js-tutorial-c05962",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:05.285Z",
+  "title": "Vue.js 3 Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "YrxBCBibVo0",
+      "title": "Vue JS 3 Tutorial for Beginners #1 - Introduction",
+      "duration": 820
+    },
+    {
+      "id": "F7PLPJqVotk",
+      "title": "Vue JS 3 Tutorial for Beginners #2 - Vue.js Basics (part 1)",
+      "duration": 1821
+    },
+    {
+      "id": "CYPZBK8zUik",
+      "title": "Vue JS 3 Tutorial for Beginners #3 - Vue.js Basics (part 2)",
+      "duration": 2042
+    },
+    {
+      "id": "GWRvrSqnFbM",
+      "title": "Vue JS 3 Tutorial for Beginners #4 - The Vue CLI & Bigger Projects (part 1)",
+      "duration": 2343
+    },
+    {
+      "id": "KM1U6DqZf8M",
+      "title": "Vue JS 3 Tutorial for Beginners #5 - The Vue CLI & Bigger Projects (part 2)",
+      "duration": 2647
+    },
+    {
+      "id": "bc6czIBLKTg",
+      "title": "Vue JS 3 Tutorial for Beginners #6 - Build a Reaction Timer Game",
+      "duration": 2519
+    },
+    {
+      "id": "ixOcve5PX-Q",
+      "title": "Vue JS 3 Tutorial for Beginners #7 - Forms & Inputs",
+      "duration": 2741
+    },
+    {
+      "id": "juocv4AtrHo",
+      "title": "Vue JS 3 Tutorial for Beginners #8 - The Vue Router",
+      "duration": 2868
+    },
+    {
+      "id": "7iDGJolHFmU",
+      "title": "Vue JS 3 Tutorial for Beginners #9 - Fetching Data",
+      "duration": 1210
+    },
+    {
+      "id": "V-kxBWcPJfo",
+      "title": "Vue JS 3 Tutorial for Beginners #10 - The Composition API (part 1)",
+      "duration": 2681
+    },
+    {
+      "id": "0FwBjPeLqQ8",
+      "title": "Vue JS 3 Tutorial for Beginners #11 - The Composition API (part 2)",
+      "duration": 2581
+    },
+    {
+      "id": "Dj_2j-IKXuo",
+      "title": "Vue JS 3 Tutorial for Beginners #12 - Next Steps",
+      "duration": 102
+    }
+  ]
+}

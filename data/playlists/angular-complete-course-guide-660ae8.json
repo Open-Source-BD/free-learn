@@ -1,0 +1,680 @@
+{
+  "courseId": "angular-complete-course-guide-660ae8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:09.016Z",
+  "title": "Angular - Complete Course Guide",
+  "channel": "Leela Web Dev",
+  "videos": [
+    {
+      "id": "wI18jE_LHME",
+      "title": "1. Angular Introduction. Exploring the different Versions of Angular. AngularJs vs Angular 2.",
+      "duration": 366
+    },
+    {
+      "id": "fDICKFh4o_Q",
+      "title": "2. Create new Angular Project using Angular CLI.",
+      "duration": 458
+    },
+    {
+      "id": "hZrvjUN28To",
+      "title": "3. Exploring the Angular Project Folder Structure.",
+      "duration": 501
+    },
+    {
+      "id": "KREvXMsFeXA",
+      "title": "4. Installing Bootstrap in the Angular Project and include into the angular.json file",
+      "duration": 325
+    },
+    {
+      "id": "GWROv4J-nCE",
+      "title": "5. Checking the angular project execution process how it gets loaded and started.",
+      "duration": 341
+    },
+    {
+      "id": "u66SR1N1GNE",
+      "title": "6. Create New Custom Component in Angular and add it into the App Module in component declarations.",
+      "duration": 583
+    },
+    {
+      "id": "-duLXqM2nlo",
+      "title": "7. Creating New Component with the angular CLI Command Generate Component & Nesting Components.",
+      "duration": 350
+    },
+    {
+      "id": "FCg_secpVBw",
+      "title": "8. Difference between the Template and TemplateUrl in the angular components to write HTML data.",
+      "duration": 293
+    },
+    {
+      "id": "rW9mLxcUQ8Y",
+      "title": "9. Working with styleUrls and styles option in the angular component for styling the HTML templates.",
+      "duration": 480
+    },
+    {
+      "id": "BF2LEfZgQT0",
+      "title": "10. Understanding Different types of Selectors supported for creating components in angular.",
+      "duration": 401
+    },
+    {
+      "id": "9DMOB0bOSvo",
+      "title": "11. Implement Data Binding in the Angular. Understanding String Interpolation in the Html File.",
+      "duration": 462
+    },
+    {
+      "id": "cOQzQssFcu4",
+      "title": "12. Property Binding in the Angular. Bind Property to the attributes in the angular template.",
+      "duration": 435
+    },
+    {
+      "id": "d6Um50X07U8",
+      "title": "13. Event Binding in Angular. Handle Click Events in the Angular Explained.",
+      "duration": 364
+    },
+    {
+      "id": "cw_7WePNhsM",
+      "title": "14. Send Data from the event Binding using $event reserved word in Angular",
+      "duration": 475
+    },
+    {
+      "id": "ElrJmahaag8",
+      "title": "15. Two way Data Binding in the angular. Learn the use of ngModel in the angular",
+      "duration": 375
+    },
+    {
+      "id": "u7bvTslCyAk",
+      "title": "16. Using ngIf Structural Directive to output the data conditionally in the Angular Template.",
+      "duration": 363
+    },
+    {
+      "id": "nIxl89vEmCA",
+      "title": "17. Use ngIf with else condition in the HTML Template for Angular Component.",
+      "duration": 230
+    },
+    {
+      "id": "PCHOIGvfUOU",
+      "title": "18. Styling Dynamically for the Component Templates using ngStyle attribute Directive in angular.",
+      "duration": 414
+    },
+    {
+      "id": "6u0MOZkpDrk",
+      "title": "19. Apply CSS Classes Dynamically with ngClass Attribute Directive in the Angular Template Component",
+      "duration": 305
+    },
+    {
+      "id": "k3QvdwDecnI",
+      "title": "20. Use of *ngFor Structural Directive for outputting the Lists in the Angular Component.",
+      "duration": 350
+    },
+    {
+      "id": "0NZewMvGACo",
+      "title": "21. Debug Angular code in Browser using Source maps and also using Augury extension for Angular Apps",
+      "duration": 438
+    },
+    {
+      "id": "YAJnoyNOQ_I",
+      "title": "22. Send Data from Parent to Child Component using Custom Properties with @Input()  in Angular.",
+      "duration": 807
+    },
+    {
+      "id": "4TpyBpx3haA",
+      "title": "23. Send Data from Child to Parent Component. Binding to Custom Events using @Output in Angular.",
+      "duration": 782
+    },
+    {
+      "id": "bUITojTRMnM",
+      "title": "24. Understand View Encapsulation in Angular. Difference between Emulated, None, and Shadow Dom.",
+      "duration": 604
+    },
+    {
+      "id": "NqqPkV_fHS4",
+      "title": "25. Using Local References in Angular. Access the HTML Element in the Typescript file.",
+      "duration": 281
+    },
+    {
+      "id": "lKBSyvOnMQM",
+      "title": "26. Access HTML Elements in The DOM & Template with @ViewChild and the type ElementRef in Angular.",
+      "duration": 428
+    },
+    {
+      "id": "rZp3s0QIhMU",
+      "title": "27. Projecting the HTML Content written between the component using ng-content in Angular.",
+      "duration": 344
+    },
+    {
+      "id": "b_IN7S0BMVc",
+      "title": "28. Understanding the Component Life cycle methods in the Angular.",
+      "duration": 480
+    },
+    {
+      "id": "75bxhSWhaUw",
+      "title": "29. Check ngOnChanges, ngOnInit, and Constructor of the angular component life cycle with example.",
+      "duration": 523
+    },
+    {
+      "id": "2vaztrjRA7c",
+      "title": "30.Check ngAfterViewInit, ngAfterViewChecked, ngOnDestory, ngDoCheck, ngAfterContentInit in Angular.",
+      "duration": 766
+    },
+    {
+      "id": "jfQfw8-rN9I",
+      "title": "31. Getting access to the ng-content HTML template using @ContentChild in Angular.",
+      "duration": 317
+    },
+    {
+      "id": "CLlL0NW24h8",
+      "title": "32. Create Basic Custom attribute Directive in Angular",
+      "duration": 734
+    },
+    {
+      "id": "N9soNdj_W0w",
+      "title": "33. Using Renderer2 to create the custom attribute directive to maipulate DOM in Angular",
+      "duration": 330
+    },
+    {
+      "id": "-14loFojFsU",
+      "title": "34. Accessing the events for the directive element using HostListener in Angular",
+      "duration": 250
+    },
+    {
+      "id": "Dpnbg1iGNSg",
+      "title": "35. Using HostBinding Decorator to bind the Properties for the Directive element in the Angular.",
+      "duration": 249
+    },
+    {
+      "id": "4ORpRfN-cqo",
+      "title": "36. Sending input data to the Directives as Input properties in the Angular.",
+      "duration": 287
+    },
+    {
+      "id": "_jQZjHjYSGY",
+      "title": "37. Understand the Concept of the Structural Directives how it works behind in the Angular.",
+      "duration": 299
+    },
+    {
+      "id": "kSkQ6J_R81Y",
+      "title": "38. Create Custom Structural Directive in the Angular using TemplateRef and ViewContainerRef",
+      "duration": 806
+    },
+    {
+      "id": "8MQQfxp7YTs",
+      "title": "39. How to use ngSwitch, ngSwitchCase, ngSwitchDefault Directive in the Angular Template.",
+      "duration": 181
+    },
+    {
+      "id": "0yhUIcMyfic",
+      "title": "40. Services Introduction. Create a Simple Service and use the service in Components in Angular.",
+      "duration": 513
+    },
+    {
+      "id": "Osb55NYSt4U",
+      "title": "41. Injecting services into components using Dependency Injection through Providers in the Angular.",
+      "duration": 459
+    },
+    {
+      "id": "xLhoA3NCqag",
+      "title": "42. Create New Service and use the service as Data in Angular. Pass Data from service to Components",
+      "duration": 1153
+    },
+    {
+      "id": "RRsPowCQgS0",
+      "title": "43. Understand the Hierarchical Injection of the Services and sharing of instances in the angular.",
+      "duration": 575
+    },
+    {
+      "id": "f-YziiuI0O0",
+      "title": "44. Injecting Services into another Services. Usage of @Injectable decorator in the angular.",
+      "duration": 387
+    },
+    {
+      "id": "BXxKXIrn1VU",
+      "title": "45. Making the cross component communication using the services by event emitter in the angular.",
+      "duration": 332
+    },
+    {
+      "id": "ik-5twMh2Vc",
+      "title": "46. Introduction to Angular Routing. Set up and load routes with RouterModule in angular.",
+      "duration": 663
+    },
+    {
+      "id": "jNLjOJYJbtI",
+      "title": "47. Navigating Links in the Page using RouterLink in the angular.",
+      "duration": 262
+    },
+    {
+      "id": "5X4bBBpOpw8",
+      "title": "48. Styling the Active Router Link using routerLinkActive and routerLinkActiveOptions in angular.",
+      "duration": 387
+    },
+    {
+      "id": "EruP2Tqu7qI",
+      "title": "49. Navigate between pages using router programmatically in Typescript code in angular",
+      "duration": 272
+    },
+    {
+      "id": "JT3s9HQxc1c",
+      "title": "50. Passing and Fetching Parameters to Routes using ActivatedRoute snapshot in Angular.",
+      "duration": 415
+    },
+    {
+      "id": "MX8JnzNWlgQ",
+      "title": "51. Fetch Route Parameters Reactively using Params Subscribe with ActivatedRoute in angular.",
+      "duration": 376
+    },
+    {
+      "id": "E4bFVTGtyAM",
+      "title": "52. Passing Query Parameters and Fragments to the Url Route with the Template and Program in Angular",
+      "duration": 381
+    },
+    {
+      "id": "dEoBmpUlWms",
+      "title": "53. Retrieving Query Parameters and Fragments from the URL through Typescript Code in the angular",
+      "duration": 243
+    },
+    {
+      "id": "fn3r17C2ukg",
+      "title": "54. Setting up the child or Nested Routes using the children key in routing module in the Angular.",
+      "duration": 403
+    },
+    {
+      "id": "5Rn1urstAVQ",
+      "title": "55. Preserve or merge the query parameters by forwarding with queryparamsHandling in Angular.",
+      "duration": 452
+    },
+    {
+      "id": "yx0dDcmFkMY",
+      "title": "56. Implement Custom 404 Page adding wildcard Route, redirectTo option in the angular routing module",
+      "duration": 362
+    },
+    {
+      "id": "C00JvI2Cz-g",
+      "title": "57. Separate all the Routing configuration code into another file app-routing.module in the angular.",
+      "duration": 349
+    },
+    {
+      "id": "V7sWgsKBf-4",
+      "title": "58. Introduction to Routing Guards. Implementation of canActivate Route Guard in the angular.",
+      "duration": 931
+    },
+    {
+      "id": "tPUbMunU2Uk",
+      "title": "59. Implement canActivateChild Route Guard for the Nested Child Routes in the Angular.",
+      "duration": 480
+    },
+    {
+      "id": "E94hPPfi78k",
+      "title": "60. Controlling Navigation with CanDeactivate Route Guard in the angular",
+      "duration": 798
+    },
+    {
+      "id": "Piey3npfeAg",
+      "title": "61. Implementing CanDeactivate Route Guard in the real-time scenario for the component - Angular.",
+      "duration": 585
+    },
+    {
+      "id": "ILzahZ0IYpE",
+      "title": "62. Passing Static Data to the Route and also Access the static data in the typescript in angular.",
+      "duration": 263
+    },
+    {
+      "id": "_y_If9buKOI",
+      "title": "63. Get Dynamic Data before entering into the component using the Resolve Guard in Angular",
+      "duration": 788
+    },
+    {
+      "id": "nYCSJxdmyNc",
+      "title": "64. How to use Hash Urls as Fragments in the url for the internal pages in the angular routing",
+      "duration": 290
+    },
+    {
+      "id": "3LibP3-Ze0U",
+      "title": "65. Understand the core of the Observables in rxjs. Need of subscribe & unsubscribe in the angular.",
+      "duration": 604
+    },
+    {
+      "id": "iIDHe6iQnGY",
+      "title": "66. Create our own custom Observable in rxjs. How to use observer.next option in the angular.",
+      "duration": 372
+    },
+    {
+      "id": "RYrTE1zeW_c",
+      "title": "67. Catch Errors & Complete in rxjs custom observable using observer.error and complete in angular.",
+      "duration": 425
+    },
+    {
+      "id": "BwqDOzIUECM",
+      "title": "68. Understand rxjs Operators in the observables before sending to the subscribe data in angular.",
+      "duration": 364
+    },
+    {
+      "id": "w6cjySTcsrQ",
+      "title": "69. Apply multiple operators in the rxjs observables. Know more about the operators in rxjs angular.",
+      "duration": 478
+    },
+    {
+      "id": "-7u18-0JnRI",
+      "title": "70. Understand the Subjects in rxjs angular. Implement the Subject for cross-component communication",
+      "duration": 650
+    },
+    {
+      "id": "2PYGUzvUrLw",
+      "title": "71. Template Driven Forms in Angular. Get NgForm Object from the template to code in Angular.",
+      "duration": 791
+    },
+    {
+      "id": "rdp8C-VVVVU",
+      "title": "72. Advantages of using ViewChild in the Template Driven Form to get Form Object in angular.",
+      "duration": 318
+    },
+    {
+      "id": "p1JMCXoj0_I",
+      "title": "73. Explore the Form Object in the Template Driven Forms in the Angular.",
+      "duration": 341
+    },
+    {
+      "id": "XvwIN5nPio8",
+      "title": "74. Validations for the Template Driven Forms. Show Validation Messages for the Form in Angular.",
+      "duration": 720
+    },
+    {
+      "id": "Legf41btQnI",
+      "title": "75. Using ngModel for Two Way & One Way Binding to populate Data in Template Driven Forms - Angular",
+      "duration": 367
+    },
+    {
+      "id": "NHUdakIC4u8",
+      "title": "76. NgModelGroup - Grouping The Form Controls in Template Driven Forms using ngModelGroup in angular",
+      "duration": 278
+    },
+    {
+      "id": "eeAiUKYUkQY",
+      "title": "77. Set Value and Patch Value for populating Form Elements in the Template Driven Forms in Angular.",
+      "duration": 366
+    },
+    {
+      "id": "OFq8nN3WF7M",
+      "title": "78. Get and Reset the Form Data controls in the Template Driven Forms in the Angular",
+      "duration": 385
+    },
+    {
+      "id": "BqpcuabyEFs",
+      "title": "79. Introduction to Reactive Forms Approach. Create FormGroup and FormControl with code in Angular.",
+      "duration": 689
+    },
+    {
+      "id": "Len_Mzxfudk",
+      "title": "80. Attach the HTML File using the FormGroup with FormControlName using Reactive Forms in Angular.",
+      "duration": 337
+    },
+    {
+      "id": "mxNcrmrb2-4",
+      "title": "81. Apply Validations for Reactive Forms and also show messages in the HTML Template - Angular.",
+      "duration": 418
+    },
+    {
+      "id": "4QqxYUOo_d4",
+      "title": "82. Grouping the Controls in the Reactive Forms using FormGroupName in FormGroup - Angular.",
+      "duration": 297
+    },
+    {
+      "id": "D4T6ILpr5bM",
+      "title": "83. Dynamically Add Form Controls with FormArray FormArrayName in the Reactive Forms - Angular.",
+      "duration": 631
+    },
+    {
+      "id": "2vOF7DdCsI8",
+      "title": "84. Create Custom Validations for the reactive Forms in the Angular.",
+      "duration": 644
+    },
+    {
+      "id": "e4Gumn9UpsA",
+      "title": "85. Create a Custom Asynchronous Validator in the Reactive Forms - Angular",
+      "duration": 595
+    },
+    {
+      "id": "OC5lGYr9bZo",
+      "title": "86. Explore StatusChanges, ValueChanges, SetValue, PatchValue, and reset in Reactive Forms - Angular",
+      "duration": 453
+    },
+    {
+      "id": "lRkz2bKAbwY",
+      "title": "87. Pipes in Angular. Chaining Multiple Pipes, parameterized Pipes in the Angular.",
+      "duration": 622
+    },
+    {
+      "id": "Z84KDav_tg4",
+      "title": "88. Create a custom Pipe and pass parameters to the Pipe in Angular using Transform method - Angular",
+      "duration": 502
+    },
+    {
+      "id": "e47clEtxWtA",
+      "title": "89. Creating Filter Pipe in the Angular. Filter the list of data with search string in Angular.",
+      "duration": 457
+    },
+    {
+      "id": "MT_OYwAY19k",
+      "title": "90. Pure and Impure Pipes. Difference between the pure pipe and impure pipe in the Angular.",
+      "duration": 337
+    },
+    {
+      "id": "qD70In7Al7I",
+      "title": "91. Understanding the async (Asynchronous) Pipe. How to use Async Pipe in the Angular.",
+      "duration": 291
+    },
+    {
+      "id": "_FW2Vd9I6f0",
+      "title": "92. Introduction to Http Request. Make a Http Post Request Call through HttpClientModule - Angular.",
+      "duration": 966
+    },
+    {
+      "id": "SGehozs_hU0",
+      "title": "93. Make Http Get Request and use RxJs Operators to transform the response in the Angular.",
+      "duration": 596
+    },
+    {
+      "id": "LJOHzZWL6s0",
+      "title": "94. Define the Types of HttpClient Request Data using the interface and Generic Type in the Angular.",
+      "duration": 369
+    },
+    {
+      "id": "oKi042tMb9g",
+      "title": "95. Using Services for Http request with HttpClient. Communicate Services and Components in Angular.",
+      "duration": 559
+    },
+    {
+      "id": "7mYrjXxhsY4",
+      "title": "96. Implement HTTP Delete Request with HttpClient in Angular.",
+      "duration": 389
+    },
+    {
+      "id": "pmM5qm4n4w0",
+      "title": "97. Error Handling in the Http Request Calls with HTTPClient - Angular",
+      "duration": 442
+    },
+    {
+      "id": "77Cs1KJTZnI",
+      "title": "98. Sending HTTP Headers in the API Request Call with HTTPClient in the angular.",
+      "duration": 345
+    },
+    {
+      "id": "-KK9ode9AOs",
+      "title": "99. Adding Query Params for the Url using HttpParams Object in HttpClient - Angular.",
+      "duration": 319
+    },
+    {
+      "id": "fLSsCSwde1M",
+      "title": "100. Observe different types of response in HttpClient and Changing the Response Body Type - Angular",
+      "duration": 887
+    },
+    {
+      "id": "X1OnalEomfk",
+      "title": "101. Introducing HTTP Interceptors using HTTP_INTERCEPTORS in Angular.",
+      "duration": 675
+    },
+    {
+      "id": "2tJIUtBEkLM",
+      "title": "102. Manipulating Request Objects, headers with Interceptors in the Angular.",
+      "duration": 367
+    },
+    {
+      "id": "5XV6thp7n2E",
+      "title": "103. Accessing Http Response Event Object with Response Interceptors in the Angular.",
+      "duration": 328
+    },
+    {
+      "id": "E0YzU44WDFA",
+      "title": "104. Adding Multiple Interceptors for the HTTP Request. Interceptors executing order in Angular.",
+      "duration": 526
+    },
+    {
+      "id": "MMjXQy5VXVY",
+      "title": "105. Authentication - Design the auth (Login) page in the angular",
+      "duration": 631
+    },
+    {
+      "id": "8vqoy4LgTNI",
+      "title": "106. Apply Template Driven Approach and implement Validations for the authentication form - Angular",
+      "duration": 712
+    },
+    {
+      "id": "5bmEfHSK0to",
+      "title": "107. Authentication - Perform Signup Request and get the token & expiresIn as Response - Angular",
+      "duration": 854
+    },
+    {
+      "id": "Y1udGdj2Tmc",
+      "title": "108. Authentication - Add Loading Spinner and error message in the Signup Request Form - Angular.",
+      "duration": 772
+    },
+    {
+      "id": "par73GWOkvg",
+      "title": "109. Authentication - Improve Error Messages with CatchError and throwError rxjs operators - Angular",
+      "duration": 606
+    },
+    {
+      "id": "PJo3JGTm32Q",
+      "title": "110. Authentication - Send the login request and use Observable for the HTTP in the angular.",
+      "duration": 452
+    },
+    {
+      "id": "LYhN22SaXK8",
+      "title": "111. Authentication - Improve Error Handling for the Login Form in the Angular.",
+      "duration": 481
+    },
+    {
+      "id": "tWlBmFlDcCw",
+      "title": "112. Authentication - Create and Store the User Token Data in the angular.",
+      "duration": 784
+    },
+    {
+      "id": "BlemHY_OYZA",
+      "title": "113. Authentication - Update the UI with Auth Token Data using the Subject in the Angular",
+      "duration": 560
+    },
+    {
+      "id": "UuyXaqy9cMM",
+      "title": "114. Authentication - Send Auth Token to the outgoing HTTP Requests with behavior Subject - Angular.",
+      "duration": 922
+    },
+    {
+      "id": "ZCpZN6FWgBA",
+      "title": "115. Authentication - Add the auth token as parameter using Interceptors - Angular",
+      "duration": 698
+    },
+    {
+      "id": "SjX664uEJek",
+      "title": "116. Authentication - Adding the Logout Functionality by removing the auth token in Angular",
+      "duration": 371
+    },
+    {
+      "id": "MbfGnK7efMY",
+      "title": "117. Authentication - Saving Token in LocalStorage for the autologin feature - Angular",
+      "duration": 748
+    },
+    {
+      "id": "V7RnmhjxTsc",
+      "title": "118. Authentication - Auto-Logout the user when the token expired - Angular.",
+      "duration": 656
+    },
+    {
+      "id": "Mo-dC5ZAdIY",
+      "title": "119. Authentication - Protecting the routes with Auth canActivate Guard using UrlTree - Angular",
+      "duration": 742
+    },
+    {
+      "id": "bKDfZe7v_rQ",
+      "title": "120. Create Alert Modal Component to show Errors in the Angular.",
+      "duration": 833
+    },
+    {
+      "id": "uoqNuecHIR4",
+      "title": "121. Create Component Dynamically using ComponentFactoryResolver and ViewContainerRef in Angular.",
+      "duration": 606
+    },
+    {
+      "id": "s3aDxtgQ0aE",
+      "title": "122. Create Component using ViewContainerRef and deprecation of entry Components from angular 9.",
+      "duration": 494
+    },
+    {
+      "id": "cOmFBDJRTM0",
+      "title": "123. Access the Component properties and methods with ComponentRef instance in Angular.",
+      "duration": 446
+    },
+    {
+      "id": "nb7aVp88sIM",
+      "title": "124. What are Modules. Module Introduction. Analyzing the AppModule  in Angular.",
+      "duration": 465
+    },
+    {
+      "id": "CCvF7RWZm6Q",
+      "title": "125. Creating The Feature Module by splitting the components in the angular.",
+      "duration": 617
+    },
+    {
+      "id": "M5lTJa9HOsY",
+      "title": "126. Difference between the CommonModule and BrowserModule along with Feature Module in the Angular.",
+      "duration": 409
+    },
+    {
+      "id": "9e0zvhEWMTA",
+      "title": "127. Adding Routes to the Feature Module. forChild, forRoot differences in Router Module - Angular",
+      "duration": 681
+    },
+    {
+      "id": "4WVlaDXmkcU",
+      "title": "128. Add more Feature Modules for the project in the angular.",
+      "duration": 741
+    },
+    {
+      "id": "CDHaZYI6Elo",
+      "title": "129. Create Shared Modules. Difference between Feature Module and Shared Module in angular",
+      "duration": 825
+    },
+    {
+      "id": "-IHO6w42tbY",
+      "title": "130. Understand Core Module. Move all services, Interceptors from appModule to CoreModule - Angular",
+      "duration": 417
+    },
+    {
+      "id": "_0Skv4lzrfI",
+      "title": "131. Implement Lazy Loading for Modules in the Angular to increase the performance of the project.",
+      "duration": 587
+    },
+    {
+      "id": "XAXVprdHOFI",
+      "title": "132. Loading Services Differently for instances in the Lazy Loaded Modules and app Modules - Angular",
+      "duration": 753
+    },
+    {
+      "id": "OC3RANimv9Y",
+      "title": "133. Just In Time Compiler (JIT) and Ahead of Time Compiler (AOT) for Production in Angular",
+      "duration": 452
+    },
+    {
+      "id": "ufqjK6sV_8g",
+      "title": "134. Completing Angular. Things to learn more advanced concepts after this course - Angular",
+      "duration": 502
+    }
+  ]
+}

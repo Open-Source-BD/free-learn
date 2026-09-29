@@ -1,0 +1,12 @@
+---
+import BrowseView from '@/components/browse/BrowseView';
+import AppShell from '@/layouts/AppShell.astro';
+import { toCardData } from '@/lib/catalog';
+import { loadCatalog } from '@/lib/load-catalog';
+
+const { courses } = loadCatalog();
+---
+
+<AppShell title="Learn to code for free">
+  <BrowseView client:load courses={courses.map(toCardData)} showContinue />
+</AppShell>

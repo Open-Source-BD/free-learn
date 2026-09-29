@@ -1,0 +1,75 @@
+{
+  "courseId": "mvvm-newsapp-retrofit-room-coroutines-navigation-components-6f8454",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:01.012Z",
+  "title": "MVVM NewsApp, Retrofit, Room, Coroutines, Navigation Components",
+  "channel": "Philipp Lackner",
+  "videos": [
+    {
+      "id": "asuOWE5KuFM",
+      "title": "MVVM News App - Project Setup - Part 1",
+      "duration": 382
+    },
+    {
+      "id": "92kAscO9E8s",
+      "title": "Setting up Navigation - MVVM News App - Part 2",
+      "duration": 918
+    },
+    {
+      "id": "dr-CFz1j_8k",
+      "title": "Retrofit Setup - MVVM News App",
+      "duration": 875
+    },
+    {
+      "id": "hROS736jM6A",
+      "title": "DAO and Article Setup Room - MVVM News App",
+      "duration": 476
+    },
+    {
+      "id": "3LeJR-k1yYs",
+      "title": "Database and Room TypeConverter - MVVM News App",
+      "duration": 583
+    },
+    {
+      "id": "wGDX9zjWQzE",
+      "title": "RecyclerView with DiffUtil - MVVM News App",
+      "duration": 625
+    },
+    {
+      "id": "1FGlU6r5o1w",
+      "title": "Architectural Skeleton - MVVM News App",
+      "duration": 694
+    },
+    {
+      "id": "TqGrjW3RY8o",
+      "title": "Handling Breaking News Response - MVVM News App",
+      "duration": 871
+    },
+    {
+      "id": "CImY032nWws",
+      "title": "Searching News - MVVM News App",
+      "duration": 534
+    },
+    {
+      "id": "SlOTIcDQOqI",
+      "title": "Showing Articles in the WebView - MVVM News App",
+      "duration": 503
+    },
+    {
+      "id": "hMpP6N9LGFA",
+      "title": "Adding and Deleting Articles to our Room Database - MVVM News App",
+      "duration": 667
+    },
+    {
+      "id": "ejSY4WobG58",
+      "title": "Handling Pagination with Retrofit - MVVM News App",
+      "duration": 1265
+    },
+    {
+      "id": "X4c2ZWG_ihU",
+      "title": "No Internet Checking - MVVM News App",
+      "duration": 1022
+    }
+  ]
+}

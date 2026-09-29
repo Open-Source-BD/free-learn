@@ -1,0 +1,90 @@
+{
+  "courseId": "redis-stack-a7f58f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL83Wfqi-zYZFIQyTMUU6X7rPW2kVV-Ppb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:22.481Z",
+  "title": "Redis Stack",
+  "channel": "Redis",
+  "videos": [
+    {
+      "id": "LaiQFZ5bXaM",
+      "title": "Redis Stack Crash Course: How to Build Apps with Superpowers",
+      "duration": 1060
+    },
+    {
+      "id": "ZHPXKrJCYNA",
+      "title": "Redis Stack Introductory Workshop Featuring ASP.NET Core and Redis OM",
+      "duration": 2702
+    },
+    {
+      "id": "YhQX8pHy3hk",
+      "title": "Redis Stack Workshop: How to Use Redis Stack OM Library for Spring",
+      "duration": 4032
+    },
+    {
+      "id": "KUfufrwpBkM",
+      "title": "Redis Stack Workshop: Redis Stack OM Library for Node.js",
+      "duration": 3488
+    },
+    {
+      "id": "MZWzxRMOpps",
+      "title": "The Aggregate Pattern: NoSQL Data Modeling Using Redis Stack",
+      "duration": 294
+    },
+    {
+      "id": "oBBC1hLpWE0",
+      "title": "The Polymorphic Pattern: NoSQL Data Modeling with Redis",
+      "duration": 211
+    },
+    {
+      "id": "SzcpwtLRgyk",
+      "title": "RedisTimeSeries Explained",
+      "duration": 563
+    },
+    {
+      "id": "5m4YgClPKCg",
+      "title": "The Bucket Pattern: NoSQL Data Modeling with Redis Stack",
+      "duration": 419
+    },
+    {
+      "id": "g--XWSwuazk",
+      "title": "The Schema Version Pattern: NoSQL Data Modeling with Redis",
+      "duration": 357
+    },
+    {
+      "id": "pJrpIWU2cRw",
+      "title": "RedisFI Demo:  An Investment Portfolio App Leveraging Redis Enterprise",
+      "duration": 479
+    },
+    {
+      "id": "GbnHKjLMK2g",
+      "title": "The Tree and Graph Pattern: NoSQL Data Modeling with Redis",
+      "duration": 231
+    },
+    {
+      "id": "wO7eeZuf5Ig",
+      "title": "Redis Demo: Building a Real-Time Application Using Redis Enterprise",
+      "duration": 723
+    },
+    {
+      "id": "I-ohlZXXaxs",
+      "title": "Redis and JSON  Explained (Revisited)",
+      "duration": 560
+    },
+    {
+      "id": "8SktyDxUiRo",
+      "title": "Bite-sized Redis: Redis Stack",
+      "duration": 61
+    },
+    {
+      "id": "_7W5vqLevu0",
+      "title": "Four Redis Myths Debunked",
+      "duration": 308
+    },
+    {
+      "id": "HExSvgSQw2c",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

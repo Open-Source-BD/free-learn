@@ -1,0 +1,70 @@
+{
+  "courseId": "dart-bangla-tutorial-e46008",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLg87mxEuu8-68krJBfgF3yjIPAwdgz1T2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:34.800Z",
+  "title": "Dart Bangla Tutorial",
+  "channel": "Techno BD XYZ",
+  "videos": [
+    {
+      "id": "o0mACul18uQ",
+      "title": "Setup Dart | Setup Dart in IntelliJ IDEA | Create Dart Dev Environment | 01 | Dart Bangla Tutorial",
+      "duration": 1688
+    },
+    {
+      "id": "2FqvY8unXU8",
+      "title": "Dart Variables | Introduce All Types of Dart Data Types | 02 | Dart Bangla Tutorial",
+      "duration": 2058
+    },
+    {
+      "id": "LJO0CysW1Lw",
+      "title": "If statements in Dart | If else in dart | 03 | Dart Bangla Tutorial",
+      "duration": 1591
+    },
+    {
+      "id": "fUNMAnjXU5A",
+      "title": "For loop in Dart | 04 | Dart Bangla Tutorial",
+      "duration": 1497
+    },
+    {
+      "id": "AdxYYjmUDfw",
+      "title": "While loop and Do While loop in Dart With Break and Continue | 05 | Dart Bangla Tutorial",
+      "duration": 1265
+    },
+    {
+      "id": "C7dEJmJegHE",
+      "title": "Dart Operators | Introduce all Operators | 06 | Dart Bangla Tutorial",
+      "duration": 3003
+    },
+    {
+      "id": "3sGs-lGK1wI",
+      "title": "Switch  and Case in Dart | 07 | Dart Bangla Tutorial",
+      "duration": 1429
+    },
+    {
+      "id": "iqSW5Vac-ho",
+      "title": "Function in Dart | 08 | Dart Bangla Tutorial",
+      "duration": 1373
+    },
+    {
+      "id": "0X6fLBaGPyI",
+      "title": "Dart Class and Object Part 1 | 09 | Introduction to class and object | Class Anatomy",
+      "duration": 877
+    },
+    {
+      "id": "xbNp7Kc2lz0",
+      "title": "Dart Class and Object Part 2 | 10 | Class Syntax | Defining or Creation Class |  Class Members",
+      "duration": 1153
+    },
+    {
+      "id": "hp_hTQqflRc",
+      "title": "Scope and Life Time Of Variables",
+      "duration": 1025
+    },
+    {
+      "id": "Es_CKUHyCI4",
+      "title": "Dart Class and Object Part 3 | 12 | Constructors | Syntactic Sugar Constructors | Named Constructors",
+      "duration": 1328
+    }
+  ]
+}

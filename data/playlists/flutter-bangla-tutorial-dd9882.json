@@ -1,0 +1,420 @@
+{
+  "courseId": "flutter-bangla-tutorial-dd9882",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:48.736Z",
+  "title": "Flutter Bangla Tutorial",
+  "channel": "Afran Sarkar",
+  "videos": [
+    {
+      "id": "mZu19BieYK0",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "11DGB6njxQE",
+      "title": "Why You Should Learn Flutter in 2023 | Flutter Bangla Tutorials",
+      "duration": 174
+    },
+    {
+      "id": "4gPPpY7pHQo",
+      "title": "flutter & firebase complete e-commerce app  2022",
+      "duration": 16032
+    },
+    {
+      "id": "tl0uqFhFRlg",
+      "title": "1. Flutter Bangla Tutorial Part 1 Why learn flutter? | why flutter | flutter bangla tutorial",
+      "duration": 566
+    },
+    {
+      "id": "qFiNrYzJ0p4",
+      "title": "2. Installing Flutter on Your Machine | How to Install Flutter | Easy Flutter Tutorial",
+      "duration": 207
+    },
+    {
+      "id": "3h8s6TK5Z9c",
+      "title": "3. How to create a new project in Flutter | New Flutter project | Flutter easy explanation",
+      "duration": 539
+    },
+    {
+      "id": "tZVjnvGQa7U",
+      "title": "4. Stateless vs Statefull widget in flutter bangla | stateless vs statefull widget",
+      "duration": 432
+    },
+    {
+      "id": "5T5pnGMyZWM",
+      "title": "5. Appbar and Text widget in flutter (bangla) | flutter bangla tutorials",
+      "duration": 375
+    },
+    {
+      "id": "pX9mSqPk7gk",
+      "title": "6. What is Safearea widget in  flutter (bangla) | flutter bangla tutorial | easy explanation flutter",
+      "duration": 264
+    },
+    {
+      "id": "yDKEryVI1lU",
+      "title": "7. Container widget in flutter | flutter bangla tutorial",
+      "duration": 306
+    },
+    {
+      "id": "ui0x64m1XPk",
+      "title": "8. Column and Row in flutter(bangla)",
+      "duration": 306
+    },
+    {
+      "id": "GZlwNRgUJ04",
+      "title": "9. Singlechildscrollview and listview widget flutter bangla tutorials | flutter bangla",
+      "duration": 188
+    },
+    {
+      "id": "934Nr87gzi4",
+      "title": "10. Mediaquery for responsive design flutter bangla tutorial | easy explanation flutter",
+      "duration": 782
+    },
+    {
+      "id": "jQ-T4tb3hMk",
+      "title": "11. Listtile in flutter | flutter bangla tutorial | easy explanation flutter",
+      "duration": 366
+    },
+    {
+      "id": "cPNgm6e0NA4",
+      "title": "12. What is Stack,Positioned ,Floating action button in flutter |  easy explanation flutter",
+      "duration": 487
+    },
+    {
+      "id": "hDoCEmnaGPI",
+      "title": "13. Image from asset and network in flutter | flutter easy explanation",
+      "duration": 357
+    },
+    {
+      "id": "6EaQeCLayyU",
+      "title": "14. Liquid Swipe in  flutter | liquid animation |flutter bangla tutorial",
+      "duration": 322
+    },
+    {
+      "id": "9xiLXZDSLuU",
+      "title": "15. Card and Gridview in flutter | flutter bangla tutorial",
+      "duration": 489
+    },
+    {
+      "id": "N-GQQUldkfI",
+      "title": "16. Expanded widget flutter | Responsive ui | easy explanation flutter",
+      "duration": 231
+    },
+    {
+      "id": "yc7NI_RT9GU",
+      "title": "17. Pageview in flutter | easy explanation flutter",
+      "duration": 592
+    },
+    {
+      "id": "TTYlLc17Kss",
+      "title": "18. Hero widget in flutter | flutter easy explanation",
+      "duration": 296
+    },
+    {
+      "id": "68VPU1v24XU",
+      "title": "19. Bottom Navigation Bar in flutter easy explanation",
+      "duration": 550
+    },
+    {
+      "id": "4vbdDfDaRnc",
+      "title": "20. TabBar flutter easy way to understand",
+      "duration": 249
+    },
+    {
+      "id": "iMXnmh_myhk",
+      "title": "21. Sliverappbar flutter (Easy Explanation)",
+      "duration": 554
+    },
+    {
+      "id": "l_qePNMk-7c",
+      "title": "22. XD to Flutter with XD plugins | Afran",
+      "duration": 183
+    },
+    {
+      "id": "N8p3pgRmI4g",
+      "title": "23. Gradient color in appbar , container flutter | gradient color flutter | flutter bangla tutorial",
+      "duration": 323
+    },
+    {
+      "id": "RBZvS8cGpII",
+      "title": "24. Provider & Setstate in flutter bangla | Provider | flutter bangla tutorial | State Management |",
+      "duration": 1391
+    },
+    {
+      "id": "0IymZcQrydI",
+      "title": "25. async vs sync in programming  | flutter bangla tutorial | asynchronous  vs synchronous",
+      "duration": 194
+    },
+    {
+      "id": "0V6lmfmPlkc",
+      "title": "26. Flutter : Image Picker | Load image from camera and gallery | flutter bangla tutorial",
+      "duration": 767
+    },
+    {
+      "id": "okxq-w7NY9U",
+      "title": "27. Flutter modal bottom sheet bangla | flutter bangla tutorial",
+      "duration": 227
+    },
+    {
+      "id": "pcsUp3n2ay0",
+      "title": "28. Simple Alert Dialog | flutter bangla tutorial",
+      "duration": 243
+    },
+    {
+      "id": "a_rtkxJgRFs",
+      "title": "29. Curved navigation bar flutter | Flutter Bottom Navigation Bar | flutter bangla tutorial | Afran",
+      "duration": 689
+    },
+    {
+      "id": "oFM53yKaXUA",
+      "title": "30. Custom Dialog in flutter | flutter bangla tutorial",
+      "duration": 875
+    },
+    {
+      "id": "oSr9wumV3t0",
+      "title": "31. stream vs future in flutter bangla | flutter bangla tutorial",
+      "duration": 407
+    },
+    {
+      "id": "1cRIlUCx9e0",
+      "title": "32. Snackbar in flutter | flutter bangla tutorial",
+      "duration": 405
+    },
+    {
+      "id": "Ubwq5D0B1LI",
+      "title": "33. Toast in flutter | flutter toast | flutter bangla tutorial",
+      "duration": 177
+    },
+    {
+      "id": "Oe_kV9bo98k",
+      "title": "34. Slider in flutter | flutter bangla tutorial",
+      "duration": 379
+    },
+    {
+      "id": "xMVDgxZaBL4",
+      "title": "35. RichText in flutter | flutter bangla tutorial | easy explanation flutter",
+      "duration": 298
+    },
+    {
+      "id": "Ea-OLMSH0YQ",
+      "title": "36. Flutter dropdown button | flutter bangla tutorial",
+      "duration": 349
+    },
+    {
+      "id": "kfMhjJaJKVs",
+      "title": "37. Flutter Dismissable | flutter bangla tutorial | Dismissable Widget",
+      "duration": 272
+    },
+    {
+      "id": "XpcnnwMwG20",
+      "title": "38. Flutter CheckBox | flutter bangla tutorial | checkbox in flutter",
+      "duration": 283
+    },
+    {
+      "id": "3h0ZhYixu3w",
+      "title": "39. Animated crossfade flutter | flutter animation | flutter bangla tutorial",
+      "duration": 524
+    },
+    {
+      "id": "hL0YMgTZglM",
+      "title": "40. Switch in flutter | flutter bangla tutorial",
+      "duration": 247
+    },
+    {
+      "id": "MvOh9fc0jtM",
+      "title": "41. Animated Container in flutter | flutter bangla tutorial",
+      "duration": 224
+    },
+    {
+      "id": "tsJxGKXOJKc",
+      "title": "42. ExpansionTile widget in flutter | flutter bangla tutorial | expansiontile in flutter",
+      "duration": 206
+    },
+    {
+      "id": "AfPqv02JXt0",
+      "title": "43. Tooltip widget in flutter | flutter tooltip | flutter bangla tutorial",
+      "duration": 164
+    },
+    {
+      "id": "YaM5b2B7yA4",
+      "title": "44. BackdropFilter in flutter | flutter bangla tutorial | blur in flutter",
+      "duration": 167
+    },
+    {
+      "id": "FSIQDXkOfJ0",
+      "title": "45. DateTime picker in flutter | flutter date picker | flutter bangla tutorial",
+      "duration": 649
+    },
+    {
+      "id": "7mUV71Ddjac",
+      "title": "46. Flutter Transform widget | Transform widget | flutter bangla tutorial",
+      "duration": 195
+    },
+    {
+      "id": "C0FNGCQlqXE",
+      "title": "47. Fetching json data with http request in flutter | fetching json data bangla |",
+      "duration": 819
+    },
+    {
+      "id": "beI5gt-FN80",
+      "title": "48. Adobe XD to flutter code 2020 (latest update)| Flutter code from XD | XD to flutter | Afran",
+      "duration": 261
+    },
+    {
+      "id": "XOZYhqyFrU0",
+      "title": "49. DataTable widget in flutter | flutter bangla tutorial",
+      "duration": 487
+    },
+    {
+      "id": "2P5H6DvczX0",
+      "title": "50. NavigationRail in flutter | flutter bangla tutorial | Flutter new widget",
+      "duration": 730
+    },
+    {
+      "id": "CQiWTAvM7mc",
+      "title": "51. pass data one page to another page | flutter bangla tutorial",
+      "duration": 443
+    },
+    {
+      "id": "8wVgly4tEzg",
+      "title": "52. Animated splash screen with Flare | flutter bangla tutorials | Afran",
+      "duration": 961
+    },
+    {
+      "id": "L2J8IF_mNWc",
+      "title": "53. Firebase-Carousel Slider With Dot Indicator | Flutter Bangla Tutorial | Afran",
+      "duration": 763
+    },
+    {
+      "id": "cdR_rHB2EFw",
+      "title": "54. Onboarding Screen with dot indicator flutter | flutter bangla tutorial",
+      "duration": 577
+    },
+    {
+      "id": "5xdHqPq-ESA",
+      "title": "55. Flutter- Shared Preferences in flutter bangla | flutter bangla tutorial",
+      "duration": 617
+    },
+    {
+      "id": "ZZdLrb_jHDM",
+      "title": "56. Change Flutter-  App Icon And App Name",
+      "duration": 399
+    },
+    {
+      "id": "6E7-0-lU6Ho",
+      "title": "57. TextForm Validation Flutter | Flutter bangla tutorial",
+      "duration": 474
+    },
+    {
+      "id": "SJTbOsHr3YM",
+      "title": "58. Flutter-Drawer in bangla | flutter bangla tutorial",
+      "duration": 409
+    },
+    {
+      "id": "YbhF9TYmf0s",
+      "title": "59. Flutter Admob Bangla | flutter bangla tutorial",
+      "duration": 644
+    },
+    {
+      "id": "ypdktYiomcg",
+      "title": "60. Flutter Url launcher | flutter bangla tutorial",
+      "duration": 192
+    },
+    {
+      "id": "yzCksccyrtE",
+      "title": "61. Flutter- Generate Singed apk | Flutter bangla tutorial | Afran",
+      "duration": 614
+    },
+    {
+      "id": "_1C7jNQJ-t8",
+      "title": "62. Flutter- WebView",
+      "duration": 91
+    },
+    {
+      "id": "SepxxOOAKMg",
+      "title": "63. Responsive Ui with flutter | flutter bangla tutorial | Afran",
+      "duration": 1285
+    },
+    {
+      "id": "o2-3JULZ3Lk",
+      "title": "64. Flutter Navigation | Routes, PushNamed, Push, PushReplacement | flutter bangla tutorials 2021 |",
+      "duration": 706
+    },
+    {
+      "id": "Q1ohLtcmtjk",
+      "title": "65- Flutter Connectivity- Check No Internet, Wi-Fi, Mobile | flutter tutorials #internetconnectivity",
+      "duration": 638
+    },
+    {
+      "id": "iCFyRIwTjWM",
+      "title": "Flutter localization with Getx Bangla- 2022",
+      "duration": 1187
+    },
+    {
+      "id": "oWIdJ3W2BwE",
+      "title": "firebase push notification in flutter latest",
+      "duration": 2400
+    },
+    {
+      "id": "tlhqQbj2w7o",
+      "title": "Flutter payment gateway with stripe Bangla",
+      "duration": 2022
+    },
+    {
+      "id": "SZsV9qKmnzw",
+      "title": "70: Flutter - animated custom drawer with getx || Flutter Bangla tutorial || Afran Sarkar",
+      "duration": 2760
+    },
+    {
+      "id": "FK7GM-qkxQE",
+      "title": "71. Flutter- Close App with AlertDialog || Flutter bangla tutorials",
+      "duration": 538
+    },
+    {
+      "id": "GXMCKBWJ3ho",
+      "title": "Flutter Web Development - Introduction to Flutter Web 2023 | Flutter, Dart Bangla tutorial",
+      "duration": 145
+    },
+    {
+      "id": "lYx4gidKnJQ",
+      "title": "Flutter Bloc/Cubit Pattern | Flutter Bangla Tutorial",
+      "duration": 1223
+    },
+    {
+      "id": "lbWSXNXI5rw",
+      "title": "Inkwell vs GestureDetector Flutter | Flutter Bangla Tutorials",
+      "duration": 292
+    },
+    {
+      "id": "7Wv8U6PCdDg",
+      "title": "Flutter FullStack App Development Roadmap-2023 | Flutter Bangla Tutorial",
+      "duration": 440
+    },
+    {
+      "id": "FnLHJAKcSe8",
+      "title": "Table vs DataTable in Flutter | Flutter Bangla Tutorials",
+      "duration": 213
+    },
+    {
+      "id": "Te1Rk37sSyU",
+      "title": "Streams in Flutter | Single and Broadcast Streams | FutureBuilder vs StreamBuilder | Flutter Bangla",
+      "duration": 791
+    },
+    {
+      "id": "QGmNo4_otlQ",
+      "title": "Flutter Video Player | Flutter Bangla Tutorials",
+      "duration": 615
+    },
+    {
+      "id": "CGiGAYoxXDs",
+      "title": "FlutterFire CLI | Connect Firebase with Flutter Bangla Tutorial | Flutter Bangla Tutorials",
+      "duration": 1001
+    },
+    {
+      "id": "S56V-wFCn-o",
+      "title": "AI is Now Teaching Flutter?! 🤖 | Provider vs BLoC vs GetX Explained!",
+      "duration": 135
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "courseId": "c-plus-plus-programming-tutorial-in-hindi-d71739",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoVVmGDgrrnS5_TiSg193ezTPd-Ukb25k",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:55.722Z",
+  "title": "C++ Programming Tutorial in Hindi",
+  "channel": "Learn TechToTech",
+  "videos": [
+    {
+      "id": "0xx_-NCUs0g",
+      "title": "C++ Programming #1: Introduction to C++ Programming Language",
+      "duration": 387
+    },
+    {
+      "id": "54ClGGGmR2o",
+      "title": "C++ Programming #2: Basic Structure of C++ Program",
+      "duration": 303
+    },
+    {
+      "id": "RmytI5zhBpk",
+      "title": "C++ Programming #3: Single Line and Multi Line Comments in C++ Program",
+      "duration": 203
+    },
+    {
+      "id": "d12klJ-LOSg",
+      "title": "C++ Programming #4: Three Different Input/ Output method in C++ Program",
+      "duration": 368
+    },
+    {
+      "id": "wc77Fxg1Y1Q",
+      "title": "C++ Programming #5: Formating Output(endl,setw(),setfill()) in C++ Program",
+      "duration": 512
+    },
+    {
+      "id": "pBeBz2Ujkb8",
+      "title": "C++ Programming #6: Tokens of C++ Programs",
+      "duration": 301
+    },
+    {
+      "id": "B80FuTfupIo",
+      "title": "C++ Programming #7: Data Types and its Type in C++",
+      "duration": 441
+    },
+    {
+      "id": "0oOj6pBWnRU",
+      "title": "C++ Programming #8: Example program on Variable and Data Types",
+      "duration": 343
+    },
+    {
+      "id": "tRFukdw3VFg",
+      "title": "C++ Programming #9:Storage Classes in C++",
+      "duration": 307
+    },
+    {
+      "id": "PhJs_zE0_nE",
+      "title": "C++ Programming #10: Example Programs(Area of Circle, Simple Interest) of C++",
+      "duration": 351
+    },
+    {
+      "id": "9jbF8EyrT2U",
+      "title": "C++ Programming #11: Decision Making Statements in C++",
+      "duration": 577
+    },
+    {
+      "id": "0krntg4jSD4",
+      "title": "C++ Programming #12: if statement and if...else...statement of C++",
+      "duration": 428
+    },
+    {
+      "id": "w-CUtEzGlQg",
+      "title": "C++ Programming #13: if...else if ladder with example in C++",
+      "duration": 422
+    },
+    {
+      "id": "Go-B7ptezWs",
+      "title": "C++ Programming #14: Switch...Case....Statement with Example",
+      "duration": 401
+    },
+    {
+      "id": "GcrREzlZ6PM",
+      "title": "C++ Programming #15: Looping Statement in C++",
+      "duration": 468
+    },
+    {
+      "id": "vIWAS15Ha7A",
+      "title": "C++ Programming #16: While Loop with Example in C++",
+      "duration": 303
+    },
+    {
+      "id": "npP0YNa1Ces",
+      "title": "C++ Programming #18: for loop statement with example",
+      "duration": 516
+    },
+    {
+      "id": "OzutBA_TgS8",
+      "title": "C++ Programming #17: do....while loop statement with example",
+      "duration": 304
+    },
+    {
+      "id": "Foi4eW8bf8k",
+      "title": "C++ Programming #19: Concept of Array (1D and 2D Array)",
+      "duration": 671
+    },
+    {
+      "id": "LxIwjAzSeq8",
+      "title": "C++ Programming #20: Control Looping Statement(break and continue) with Example",
+      "duration": 583
+    },
+    {
+      "id": "j-w-s_giCp8",
+      "title": "C++ Programming #21: goto Statement with Example Program in C++",
+      "duration": 222
+    },
+    {
+      "id": "XvtnCm_wTrs",
+      "title": "C++ Programming #22: Example Program of One and Two Dimensional Array",
+      "duration": 727
+    },
+    {
+      "id": "AkK1ccetcvg",
+      "title": "C++ Programming #23: program for Linear Search",
+      "duration": 362
+    },
+    {
+      "id": "gQuLovDO0Jw",
+      "title": "C++ Programming #24: Program to Add Two matrices",
+      "duration": 499
+    },
+    {
+      "id": "U2Fn8I5X99k",
+      "title": "C++ Programming #25: Strings with Example Program in C++",
+      "duration": 766
+    },
+    {
+      "id": "E-d4vOI2OQk",
+      "title": "C++ Programming #26: Pointers in C++ with Example Program",
+      "duration": 411
+    },
+    {
+      "id": "YB6V7PW6V1U",
+      "title": "C++ Programming #27: 4 Different Way to Display Array in C++",
+      "duration": 207
+    },
+    {
+      "id": "jSiqq7Kcw8c",
+      "title": "C++ Programming #28: Classes and Objects in C++ with Example Program",
+      "duration": 512
+    },
+    {
+      "id": "jEdEXaCNxvY",
+      "title": "C++ Programming #29: Concept of Constructor and Its Type in C++",
+      "duration": 360
+    },
+    {
+      "id": "ZH7l6hx2cEo",
+      "title": "C++ Programming #30: Example Program of Default Constructor in C++",
+      "duration": 205
+    },
+    {
+      "id": "z0leqFuDaN8",
+      "title": "C++ Programming #32: Example Program of Copy Constructor in C++",
+      "duration": 528
+    },
+    {
+      "id": "Ka95kPbJ1rY",
+      "title": "C++ Programming #31: Example Program of Parameterized Constructor in C++",
+      "duration": 320
+    },
+    {
+      "id": "y8LTAn1tzNw",
+      "title": "C++ Programming #33: Function Overloading with Example Program",
+      "duration": 423
+    },
+    {
+      "id": "s_iPvXtjFm4",
+      "title": "C++ Programming #34: Operator Overloading with Example Program",
+      "duration": 875
+    },
+    {
+      "id": "LyQCNsv3Y4o",
+      "title": "C++ Programming #35: Pattern Display Program in C++",
+      "duration": 404
+    },
+    {
+      "id": "BgfJAceY1-o",
+      "title": "C++ Programming #37: Access Modifier (Public, Private and Protected)",
+      "duration": 396
+    },
+    {
+      "id": "4Nc5xrqSY1Y",
+      "title": "C++ Programming #38: Single Inheritance with Example Program",
+      "duration": 365
+    },
+    {
+      "id": "HccMj_k-tBw",
+      "title": "C Programming #39: Multiple Inheritance with Example Program",
+      "duration": 478
+    },
+    {
+      "id": "IWstLFQV-UA",
+      "title": "C++ Programming #40: Multilevel Inheritance with Example Program",
+      "duration": 514
+    },
+    {
+      "id": "vocnM28HWh4",
+      "title": "C++ Programming #42: concept of friend function with Example Program",
+      "duration": 445
+    },
+    {
+      "id": "iN9Pl86Dvck",
+      "title": "C++ Programming #43: concept of friend class with Example Program",
+      "duration": 281
+    },
+    {
+      "id": "seGadZ2RvJQ",
+      "title": "C++ Programming #44: Concept of Virtual function with example program",
+      "duration": 549
+    },
+    {
+      "id": "uKeJrUQThR0",
+      "title": "C++ Programming #45 : Standard stream cin, cout, cerr and clog with example program",
+      "duration": 469
+    },
+    {
+      "id": "0nYGP_jg7jU",
+      "title": "C++ Programming #46: iostream(Input/Output Stream) and fstream(File Stream)",
+      "duration": 316
+    },
+    {
+      "id": "I-6iObrPSdU",
+      "title": "C++ Programming #47: Example Program of File Handling",
+      "duration": 494
+    },
+    {
+      "id": "DgU6ZeljwxE",
+      "title": "C++ Programming #48: Program to write and read the multiple files using File Handling",
+      "duration": 674
+    },
+    {
+      "id": "QmuFxsixz60",
+      "title": "C++ Programming #49: File Modes for opening files  in File Handling",
+      "duration": 470
+    },
+    {
+      "id": "Smyj9yD-LFU",
+      "title": "C++ Programming #50: Manipulation Functions(seekg,seekp,tellg,tellp) for File Pointers",
+      "duration": 816
+    },
+    {
+      "id": "CsaOl09aWnk",
+      "title": "C++ Programming #51: Use of get(), put() and getline() in File Handlings",
+      "duration": 463
+    },
+    {
+      "id": "jQai7SLiAgs",
+      "title": "C++ Programming #52: Concept of Template, Function Template and Class Template",
+      "duration": 445
+    },
+    {
+      "id": "nKyuO9MPz0k",
+      "title": "C++ Programming #53: Example program of Function Template",
+      "duration": 306
+    },
+    {
+      "id": "YUxqHjt7tNE",
+      "title": "C++ Programming #54: Example Program of Class Template",
+      "duration": 709
+    }
+  ]
+}

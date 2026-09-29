@@ -1,0 +1,305 @@
+{
+  "courseId": "perl-tutorial-a1423a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:35.086Z",
+  "title": "Perl Tutorials",
+  "channel": "The Bad Tutorials",
+  "videos": [
+    {
+      "id": "OVP-CqefrZY",
+      "title": "Perl Tutorial - 1: Introduction, Installation, First Script!",
+      "duration": 471
+    },
+    {
+      "id": "GGZ7H1y6grM",
+      "title": "Perl Tutorial - 3: Escape Sequences",
+      "duration": 403
+    },
+    {
+      "id": "C4zZkcpaAww",
+      "title": "Perl Tutorial - 2: Comments & Quotes",
+      "duration": 367
+    },
+    {
+      "id": "rI8MJv7QMfE",
+      "title": "Perl Tutorial - 4: Scalar Variables",
+      "duration": 321
+    },
+    {
+      "id": "Jivx99MwK3s",
+      "title": "Perl Tutorial - 5: Arrays",
+      "duration": 236
+    },
+    {
+      "id": "7OJN46FcnCY",
+      "title": "Perl Tutorial - 6: Array Operations",
+      "duration": 212
+    },
+    {
+      "id": "-MbHXGiWzkA",
+      "title": "Perl Tutorial - 7: Adding & Removing Array Elements",
+      "duration": 329
+    },
+    {
+      "id": "hcEJsHlnfJI",
+      "title": "Perl Tutorial - 8: Slicing Arrays",
+      "duration": 207
+    },
+    {
+      "id": "s_hiePPkmTw",
+      "title": "Perl Tutorial - 9: Replacing Array Elements",
+      "duration": 227
+    },
+    {
+      "id": "jV1Xl0p-lc0",
+      "title": "Perl Tutorial - 10: Converting Arrays to Strings",
+      "duration": 216
+    },
+    {
+      "id": "0LoyZvcj7Aw",
+      "title": "Perl Tutorial - 11: Converting Strings to Arrays",
+      "duration": 212
+    },
+    {
+      "id": "URnOu-XK7Ho",
+      "title": "Perl Tutorial - 12: Sort & Merge Arrays",
+      "duration": 234
+    },
+    {
+      "id": "dU40dt1ssQ8",
+      "title": "Perl Tutorial - 13: Hashes",
+      "duration": 252
+    },
+    {
+      "id": "nvyL_6Zd6yo",
+      "title": "Perl Tutorial - 14: Slicing Hashes",
+      "duration": 229
+    },
+    {
+      "id": "e2XIfxr5Pl0",
+      "title": "Perl Tutorial - 15: Obtaining Keys & Values from Hashes",
+      "duration": 167
+    },
+    {
+      "id": "gS6LOFzM_X4",
+      "title": "Perl Tutorial - 16: Check Element Existence",
+      "duration": 179
+    },
+    {
+      "id": "Mc_Zi4TJA9g",
+      "title": "Perl Tutorial - 17: Obtaining Size of Hashes",
+      "duration": 115
+    },
+    {
+      "id": "04rOQV9dzp8",
+      "title": "Perl Tutorial - 18: Adding & Removing Hash Elements",
+      "duration": 264
+    },
+    {
+      "id": "Pq4QpbbZSIg",
+      "title": "Perl Tutorial - 19: IF Statement in Perl",
+      "duration": 265
+    },
+    {
+      "id": "3DN0oYLxtcA",
+      "title": "Perl Tutorial - 20: If Else Statement in Perl",
+      "duration": 205
+    },
+    {
+      "id": "KAqqbSJC1PM",
+      "title": "Perl Tutorial - 21: Elseif Statement in Perl",
+      "duration": 240
+    },
+    {
+      "id": "-ZnfyWl5Nus",
+      "title": "Perl Tutorial - 22: Unless Statement in Perl",
+      "duration": 128
+    },
+    {
+      "id": "fgrDCQFQ5HU",
+      "title": "Perl Tutorial - 23: Unless Else Statement in Perl",
+      "duration": 127
+    },
+    {
+      "id": "uIzTafXbKYU",
+      "title": "Perl Tutorial - 24: Conditional Operator",
+      "duration": 216
+    },
+    {
+      "id": "Swj49WL7F7c",
+      "title": "Perl Tutorial - 25: While Loop",
+      "duration": 237
+    },
+    {
+      "id": "wphHnJJZh9Q",
+      "title": "Perl Tutorial - 26: Until Loop",
+      "duration": 148
+    },
+    {
+      "id": "RdqdxdDUkmQ",
+      "title": "Perl Tutorial - 27: For Loop",
+      "duration": 184
+    },
+    {
+      "id": "1N92n7Bx3DA",
+      "title": "Perl Tutorial - 28: Foreach Loop",
+      "duration": 206
+    },
+    {
+      "id": "cD-P_qN-YfM",
+      "title": "Perl Tutorial - 29: Do While Loop",
+      "duration": 213
+    },
+    {
+      "id": "mVG9DrxaaD4",
+      "title": "Perl Tutorial - 30: Nested Loops",
+      "duration": 283
+    },
+    {
+      "id": "ScD02aHmbgc",
+      "title": "Perl Tutorial - 31: Next Statement",
+      "duration": 231
+    },
+    {
+      "id": "CJEI41mSZww",
+      "title": "Perl Tutorial - 32: Last Statement",
+      "duration": 227
+    },
+    {
+      "id": "Fzmx-gevJ3o",
+      "title": "Perl Tutorial - 33: Redo Statement",
+      "duration": 265
+    },
+    {
+      "id": "Nnm_2SHbwxA",
+      "title": "Perl Tutorial - 34: Infinite Loop",
+      "duration": 158
+    },
+    {
+      "id": "dE7dziSsC8k",
+      "title": "Perl Tutorial - 35: Arithmetic Operators",
+      "duration": 245
+    },
+    {
+      "id": "tv-CEQmxRtg",
+      "title": "Perl Tutorial - 36: Comparison Operators (Numbers)",
+      "duration": 283
+    },
+    {
+      "id": "llkSf_L7mjo",
+      "title": "Perl Tutorial - 37: Comparison Operators (Strings)",
+      "duration": 258
+    },
+    {
+      "id": "UusEhIBzVj4",
+      "title": "Perl Tutorial - 38: Assignment Operators",
+      "duration": 246
+    },
+    {
+      "id": "-ABibfHAHbI",
+      "title": "Perl Tutorial - 39: Bitwise Operators",
+      "duration": 314
+    },
+    {
+      "id": "tBv_vEqFXw8",
+      "title": "Perl Tutorial - 40: Logical Operators",
+      "duration": 236
+    },
+    {
+      "id": "43ZRFql4Uo4",
+      "title": "Perl Tutorial - 41: Miscellaneous Operators",
+      "duration": 355
+    },
+    {
+      "id": "ODHiQH50JwM",
+      "title": "Perl Tutorial - 42: Working with Date & Time Values",
+      "duration": 290
+    },
+    {
+      "id": "96A714BHV6E",
+      "title": "Perl Tutorial - 43: Formatting Time",
+      "duration": 213
+    },
+    {
+      "id": "2qMl4YwM4aM",
+      "title": "Perl Tutorial - 44: Subroutines",
+      "duration": 214
+    },
+    {
+      "id": "wc6fnlc9HwE",
+      "title": "Perl Tutorial - 45: Passing Arguments to Subroutines",
+      "duration": 233
+    },
+    {
+      "id": "p3J14aB-Ns4",
+      "title": "Perl Tutorial - 46: Working with Arguments",
+      "duration": 382
+    },
+    {
+      "id": "aF_mVuzOhfQ",
+      "title": "Perl Tutorial - 47: Counting Number of Arguments",
+      "duration": 165
+    },
+    {
+      "id": "M1XhCwvQ3lE",
+      "title": "Perl Tutorial - 48: Passing List to Subroutine",
+      "duration": 151
+    },
+    {
+      "id": "9-D-M374q3Q",
+      "title": "Perl Tutorial - 49: Return Statement in Perl",
+      "duration": 205
+    },
+    {
+      "id": "YtWvP_NikJs",
+      "title": "Perl Tutorial - 50: Private Variables",
+      "duration": 226
+    },
+    {
+      "id": "RQ2EwNUaS9Q",
+      "title": "Perl Tutorial - 51: Reading Text from a File",
+      "duration": 192
+    },
+    {
+      "id": "Z8SyP8CTFbw",
+      "title": "Perl Tutorial - 52: Writing Text to a File",
+      "duration": 227
+    },
+    {
+      "id": "1-jMOyCHHPQ",
+      "title": "Perl Tutorial - 53: Receiving Input from Users",
+      "duration": 160
+    },
+    {
+      "id": "rm_I8vla2uE",
+      "title": "Perl Tutorial - 54: Copying Files",
+      "duration": 204
+    },
+    {
+      "id": "tZmZyXBuICk",
+      "title": "Perl Tutorial - 55: Renaming Files",
+      "duration": 181
+    },
+    {
+      "id": "tJ1eW9H5_y0",
+      "title": "Perl Tutorial - 56: Listing Files in a Folder",
+      "duration": 248
+    },
+    {
+      "id": "QtCkzI6zBKM",
+      "title": "Perl Tutorial - 57: Creating Directories",
+      "duration": 191
+    },
+    {
+      "id": "PxTuorfxJTA",
+      "title": "'Third Degree' Interview With Gurmeet Ram Rahim Singh",
+      "duration": 769
+    },
+    {
+      "id": "Ul8vqaGGnY0",
+      "title": "Smells Like Teen Spirit - Rockin'1000 That's Live Official",
+      "duration": 405
+    }
+  ]
+}

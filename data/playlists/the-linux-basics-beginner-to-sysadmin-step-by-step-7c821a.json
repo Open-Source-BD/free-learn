@@ -1,0 +1,410 @@
+{
+  "courseId": "the-linux-basics-beginner-to-sysadmin-step-by-step-7c821a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:56.698Z",
+  "title": "The Linux Basics Course: Beginner to Sysadmin, Step by Step",
+  "channel": "tutoriaLinux",
+  "videos": [
+    {
+      "id": "bju_FdCo42w",
+      "title": "Linux Sysadmin Basics -- Course Introduction (Updated for 2024)",
+      "duration": 673
+    },
+    {
+      "id": "OLK49ZTbmWM",
+      "title": "Linux Sysadmin Basics 01 -- Setting up a Linux Virtual Machine",
+      "duration": 660
+    },
+    {
+      "id": "id3DGvljhT4",
+      "title": "Linux Command-Line for Beginners: Your First 5 Minutes",
+      "duration": 707
+    },
+    {
+      "id": "cobUn_hkzQI",
+      "title": "5 Things I Wish I Knew Before Starting a Tech Career",
+      "duration": 702
+    },
+    {
+      "id": "Lbh8Bh_SEzU",
+      "title": "Linux Sysadmin Basics 02 -- Basic Commands",
+      "duration": 1621
+    },
+    {
+      "id": "EbOEqycEFeM",
+      "title": "Linux Command-Line for Beginners: What's happening on this machine?",
+      "duration": 587
+    },
+    {
+      "id": "fEGSA68uAR4",
+      "title": "Linux Sysadmin Basics 03 -- Text Editors (and review of basic commands)",
+      "duration": 958
+    },
+    {
+      "id": "-Z5tCri-QlI",
+      "title": "Linux Sysadmin Basics 04 -- Shell Features -- Pipes and Redirection",
+      "duration": 1067
+    },
+    {
+      "id": "nLa6jAbULe8",
+      "title": "Linux Sysadmin Basics 4.1 -- Filtering Output and Finding Things (&&, cut, sort, uniq, wc, grep)",
+      "duration": 509
+    },
+    {
+      "id": "_v1SOxC4AAM",
+      "title": "How I Think About Learning",
+      "duration": 690
+    },
+    {
+      "id": "8P-Vek7Vtgg",
+      "title": "Linux Sysadmin Basics 05 -- Package Management with apt-get",
+      "duration": 713
+    },
+    {
+      "id": "8SkN7UofOww",
+      "title": "Linux Sysadmin Basics -- Linux File Permissions",
+      "duration": 656
+    },
+    {
+      "id": "WhCIuGjhH-0",
+      "title": "Basic Linux Access Control",
+      "duration": 413
+    },
+    {
+      "id": "UN1QB5BIvps",
+      "title": "Linux Sysadmin Basics -- User Account Management",
+      "duration": 939
+    },
+    {
+      "id": "ls5cGi12kGw",
+      "title": "Linux Sysadmin Basics -- 6 -- Processes Overview",
+      "duration": 697
+    },
+    {
+      "id": "lP7xoqkqDZQ",
+      "title": "Linux Sysadmin Basics -- 6.1 Process Signals",
+      "duration": 543
+    },
+    {
+      "id": "vsEJz9aKGKU",
+      "title": "Linux Sysadmin Basics -- 6.2 State, Niceness, and How to Monitor Processes",
+      "duration": 928
+    },
+    {
+      "id": "0XdjODvsRN8",
+      "title": "Linux Sysadmin Basics -- 6.3 The /proc Filesystem",
+      "duration": 597
+    },
+    {
+      "id": "ar37viZGQwk",
+      "title": "Linux Basics -- Filesystem and Absolute/Relative Pathnames Explained",
+      "duration": 474
+    },
+    {
+      "id": "svh8sSuz5BI",
+      "title": "Linux Sysadmin Basics -- 7 -- Filesystem Layout Overview",
+      "duration": 516
+    },
+    {
+      "id": "TG5YJe9camA",
+      "title": "Linux Sysadmin Basics -- 7.1 Filesystem Layout",
+      "duration": 886
+    },
+    {
+      "id": "EDgkcvOoY8A",
+      "title": "Linux Basics -- Linux File Types Explained",
+      "duration": 453
+    },
+    {
+      "id": "8j0SWYNglcw",
+      "title": "Linux Basics -- Scheduling Tasks with Cron",
+      "duration": 506
+    },
+    {
+      "id": "C-AQAJXdoS8",
+      "title": "8 Bash Shortcuts Every Linux User Should Know",
+      "duration": 590
+    },
+    {
+      "id": "kXWZz8RcW4o",
+      "title": "Sysadmin Training: Where to find Answers to Technical Questions",
+      "duration": 714
+    },
+    {
+      "id": "3cE5jIcYwfY",
+      "title": "Sysadmin Book Review: Networking For Systems Administrators",
+      "duration": 424
+    },
+    {
+      "id": "BHhA_ZKjyxo",
+      "title": "Basic tmux Tutorial - Windows, Panes, and Sessions over SSH",
+      "duration": 684
+    },
+    {
+      "id": "norO25P7xHg",
+      "title": "Basic tmux Tutorial, Part 2 -- Shared Sessions",
+      "duration": 375
+    },
+    {
+      "id": "tSRlNwaUgPQ",
+      "title": "Archiving and Compression on Linux - Basic tar Commands",
+      "duration": 971
+    },
+    {
+      "id": "xtS2NiABf54",
+      "title": "Bash Scripting 1 - Why Write Bash Scripts?",
+      "duration": 386
+    },
+    {
+      "id": "4-hw6DPBlsw",
+      "title": "Bash Scripting 2 -- Bash Basics",
+      "duration": 560
+    },
+    {
+      "id": "MYWvVgIL_Ys",
+      "title": "Bash Scripting 3 -- Variables and Quoting",
+      "duration": 587
+    },
+    {
+      "id": "U2_MvxnqLRE",
+      "title": "Bash Scripting 4 -- How Bash Scripts Work",
+      "duration": 720
+    },
+    {
+      "id": "Vbu8rfVaABw",
+      "title": "Bash Scripting 5 -- Arguments",
+      "duration": 471
+    },
+    {
+      "id": "VMZBFjYgjR4",
+      "title": "Bash Scripting 6 -- 'If' and Testing Explained",
+      "duration": 1204
+    },
+    {
+      "id": "9EfN5clA710",
+      "title": "Bash Scripting 7: Functions and Course Review",
+      "duration": 704
+    },
+    {
+      "id": "rJMFxIbDe-g",
+      "title": "Everything You Need to Know About $PATH in Bash",
+      "duration": 571
+    },
+    {
+      "id": "tweyWNr6X18",
+      "title": "The Linux 'script' Command: Record Your Shell Sessions",
+      "duration": 470
+    },
+    {
+      "id": "vz2DGSBBpXg",
+      "title": "Linux Shell Aliases: What You Need to Know",
+      "duration": 617
+    },
+    {
+      "id": "rLgRkjM7amo",
+      "title": "8 Basic lsof Commands Every Sysadmin Needs to Know",
+      "duration": 921
+    },
+    {
+      "id": "wiRt3mY7Rrw",
+      "title": "Monitoring Linux Systems and Services with Monit (Hands-On Linux Course Preview)",
+      "duration": 803
+    },
+    {
+      "id": "ThcaW4MVGLY",
+      "title": "Linux System Monitoring with Monit, part 2: SSH Local Forwarding for our Web Dashboard",
+      "duration": 444
+    },
+    {
+      "id": "JX2lxKJC6yI",
+      "title": "Service Management with systemd (Hands-On Linux Course Preview)",
+      "duration": 337
+    },
+    {
+      "id": "WqirNEFPh5Y",
+      "title": "What Every Sysadmin Needs to Know about Tech Debt",
+      "duration": 816
+    },
+    {
+      "id": "oGLgd1PGe1k",
+      "title": "Resources for Becoming a Linux System Administrator",
+      "duration": 753
+    },
+    {
+      "id": "CFmcWt9YXHk",
+      "title": "Ansible 2 For Beginners: Linux Automation Course Overview",
+      "duration": 263
+    },
+    {
+      "id": "59jnWX_EzTY",
+      "title": "Linux Documentation In 2017",
+      "duration": 1235
+    },
+    {
+      "id": "zIkg3Oo1PVM",
+      "title": "Sublime Text Basics: All the Best Features in One Video",
+      "duration": 1089
+    },
+    {
+      "id": "09v8vDOpdYo",
+      "title": "Linux Command: 'tee' - Watch & Log Command Output",
+      "duration": 360
+    },
+    {
+      "id": "vIIRuDtG1yI",
+      "title": "How to Backup and Restore a MySQL/MariaDB Database",
+      "duration": 618
+    },
+    {
+      "id": "qxPnGlIxYC8",
+      "title": "MySQL/MariaDB Basics (RHCE Certification Study)",
+      "duration": 1148
+    },
+    {
+      "id": "s9XPTay-x8g",
+      "title": "10 Questions You NEED to Ask During Your Tech Job Interview",
+      "duration": 940
+    },
+    {
+      "id": "9VkswePNh80",
+      "title": "VPNs for Privacy - The Basics",
+      "duration": 796
+    },
+    {
+      "id": "ggSyF1SVFr4",
+      "title": "Vim Basics in 8 Minutes",
+      "duration": 537
+    },
+    {
+      "id": "l0QGLMwR-lY",
+      "title": "Top 10 Linux Job Interview Questions",
+      "duration": 964
+    },
+    {
+      "id": "8kayz6Q4FYU",
+      "title": "A Guide to the DevOps Technical Interview",
+      "duration": 466
+    },
+    {
+      "id": "C4a7jxlMTfo",
+      "title": "How to Create a systemd Linux Service",
+      "duration": 700
+    },
+    {
+      "id": "pO-8y_f8YMQ",
+      "title": "DevOps Resume Projects",
+      "duration": 529
+    },
+    {
+      "id": "zKEORJsyR-Q",
+      "title": "The Best Ideas in Tech Right Now (this very second!)",
+      "duration": 926
+    },
+    {
+      "id": "40gguzzXD8U",
+      "title": "How to make an extra $1mil during your tech career",
+      "duration": 230
+    },
+    {
+      "id": "qW1Y4vOcRGc",
+      "title": "3 Concepts to Master for DevOps/SRE Interviews",
+      "duration": 701
+    },
+    {
+      "id": "6KjMlm8hhFA",
+      "title": "Linux inodes Explained",
+      "duration": 533
+    },
+    {
+      "id": "4ItOK4K7Kjg",
+      "title": "The real reason most companies use microservices",
+      "duration": 617
+    },
+    {
+      "id": "JAiPPzbu_OQ",
+      "title": "Project Tour: Hashistack (Terraform, Consul, Nomad on AWS)",
+      "duration": 799
+    },
+    {
+      "id": "6ZhKPIWIZAw",
+      "title": "6 Tips to Start Your Tech Career in 2021",
+      "duration": 486
+    },
+    {
+      "id": "1_OqSMv20Mo",
+      "title": "How to move from Ops to DevOps, Step by Step",
+      "duration": 972
+    },
+    {
+      "id": "AXfboZnKtgg",
+      "title": "How to safely delete Linux System Logs",
+      "duration": 224
+    },
+    {
+      "id": "wIbSnH1pKaE",
+      "title": "How to tail (follow) Linux Service Logs",
+      "duration": 194
+    },
+    {
+      "id": "N1vgvhiyq0E",
+      "title": "systemd on Linux 1: Intro and Unit Files",
+      "duration": 828
+    },
+    {
+      "id": "fzOceeJB5vw",
+      "title": "systemd on Linux 2: systemctl commands",
+      "duration": 548
+    },
+    {
+      "id": "uouVpYQqspo",
+      "title": "Interview with a Software & Infrastructure Engineer",
+      "duration": 3549
+    },
+    {
+      "id": "4xO-_cQaEfA",
+      "title": "systemd on Linux 3: Targets",
+      "duration": 551
+    },
+    {
+      "id": "nh7r9w4ACNU",
+      "title": "systemd Dependencies & Ordering | systemd on Linux 4",
+      "duration": 581
+    },
+    {
+      "id": "aQHAKgcDNPA",
+      "title": "Genius Level Support Engineer Interview",
+      "duration": 3339
+    },
+    {
+      "id": "EFJNxQFXV5s",
+      "title": "Modern Linux Tools: Command-Line Help",
+      "duration": 373
+    },
+    {
+      "id": "Twz6yWuP8iQ",
+      "title": "Easy pairing and shell session sharing with tmate",
+      "duration": 673
+    },
+    {
+      "id": "DixhIrgMy3M",
+      "title": "Introduction to systemd timers",
+      "duration": 788
+    },
+    {
+      "id": "ofdo0fONe8A",
+      "title": "Tech skill planning for the greedy and lazy",
+      "duration": 632
+    },
+    {
+      "id": "rHngMPrewZk",
+      "title": "I made a Packer Course!",
+      "duration": 291
+    },
+    {
+      "id": "fh4rlmunBwU",
+      "title": "I wrote a Linux book!",
+      "duration": 300
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "courseId": "full-stack-web-development-tutorial-course-7b67e5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:04:04.313Z",
+  "title": "Full Stack Web Development Tutorial Course",
+  "channel": "by WB Web Development Solutions",
+  "videos": [
+    {
+      "id": "EceJQ05KTf4",
+      "title": "Introduction to Web Development | Full Stack Web Development Tutorial",
+      "duration": 479
+    },
+    {
+      "id": "qFQN7ytQ-fM",
+      "title": "2. What is an IDE? | Installing an IDE | Full Stack Web Development Tutorial",
+      "duration": 337
+    },
+    {
+      "id": "AHNlZ-35ezM",
+      "title": "3. Building Your First Website | Learn HTML | Full stack web development Tutorial Course",
+      "duration": 768
+    },
+    {
+      "id": "GN9pTFwY7HM",
+      "title": "4. Intro to HTML, HEAD, BODY, and HEADER | Full stack web development Tutorial Course 2022",
+      "duration": 633
+    },
+    {
+      "id": "e7UHiRgnOo8",
+      "title": "5.  Lists, Paragraphs, and Text Styling - Full stack web development Tutorial Course",
+      "duration": 480
+    },
+    {
+      "id": "oLzTpHn29nM",
+      "title": "6.  Displaying Data With Table - Full stack web development Tutorial Course",
+      "duration": 459
+    },
+    {
+      "id": "Gbw8h-I3QGk",
+      "title": "7. Learn HTML Forms, Img and Iframe Tags - Full stack web development Tutorial Course",
+      "duration": 742
+    },
+    {
+      "id": "dLcK76hfCV4",
+      "title": "8. What is CSS ? - Full stack web development Tutorial Course",
+      "duration": 203
+    },
+    {
+      "id": "WBNtQGLU4Vs",
+      "title": "9. How to use Inline, Internal and External CSS - Full stack web development Tutorial Course",
+      "duration": 538
+    },
+    {
+      "id": "5IEfRrRMxXc",
+      "title": "10. Element, ID and Class Selectors - Full stack web development Tutorial Course",
+      "duration": 637
+    },
+    {
+      "id": "EMJYCGaaIUo",
+      "title": "11. CSS Colors and Shadows - Full stack web development Tutorial Course",
+      "duration": 859
+    },
+    {
+      "id": "NEYLnGV5v6M",
+      "title": "12. CSS Backgrounds And Borders - Full stack web development Tutorial Course",
+      "duration": 635
+    },
+    {
+      "id": "WJIqIDm7CoA",
+      "title": "13. Using browser inspector tools - Full stack web development Tutorial Course",
+      "duration": 812
+    },
+    {
+      "id": "BlQo0ZAbELY",
+      "title": "14. Combinators in CSS - Full stack web development Tutorial Course",
+      "duration": 332
+    },
+    {
+      "id": "tBybvRttDQo",
+      "title": "15. Grouping in CSS - Full stack web development Tutorial Course",
+      "duration": 333
+    },
+    {
+      "id": "jnfrnyK2MGI",
+      "title": "16. Specificity in CSS - Full stack web development Tutorial Course",
+      "duration": 917
+    },
+    {
+      "id": "6hCA8vsyyrE",
+      "title": "17. Text Styling And Formatting - Full stack web development Tutorial Course",
+      "duration": 1215
+    },
+    {
+      "id": "0UkBJW8KWhc",
+      "title": "18. Google Fonts API - Full stack web development Tutorial Course",
+      "duration": 496
+    },
+    {
+      "id": "cc6NaiLaTw4",
+      "title": "19. Responsive CSS Images - Full stack web development Tutorial Course",
+      "duration": 590
+    },
+    {
+      "id": "XovykH6gG50",
+      "title": "20. CSS Padding And Margin - Full stack web development Tutorial Course",
+      "duration": 583
+    },
+    {
+      "id": "WJZ-Tr9p8SM",
+      "title": "21. CSS Rows And Columns - Full stack web development Tutorial Course",
+      "duration": 787
+    },
+    {
+      "id": "ohSUKfiuusI",
+      "title": "22. Intro to building your first CSS for website - Full stack web development Tutorial Course",
+      "duration": 76
+    },
+    {
+      "id": "kPPit1B3h6g",
+      "title": "23. Building the Navbar - Full stack web development Tutorial Course",
+      "duration": 1369
+    },
+    {
+      "id": "sLBrE13iAeY",
+      "title": "24. Making the Navbar Mobile Responsive, Part 1 - Full stack web development Tutorial Course",
+      "duration": 661
+    },
+    {
+      "id": "1XuEwQzprQM",
+      "title": "25. Making the Navbar Mobile Responsive Part 2 - Full stack web development Tutorial Course",
+      "duration": 1425
+    },
+    {
+      "id": "yP05jzDamEU",
+      "title": "26. Creating the Form Group - Full stack web development Tutorial Course",
+      "duration": 1848
+    },
+    {
+      "id": "d4Zb4f4rnL4",
+      "title": "27. Working with CSS iframes - Full stack web development Tutorial Course",
+      "duration": 1338
+    },
+    {
+      "id": "dnM5Dg0BwAs",
+      "title": "28. Working with CSS images and box shadows - Full stack web development Tutorial Course",
+      "duration": 2556
+    },
+    {
+      "id": "8YIhE1vu_zY",
+      "title": "29. Working with text and image spacing - Full stack web development Tutorial Course",
+      "duration": 1706
+    },
+    {
+      "id": "RzSIfJ_ezA8",
+      "title": "30. Building the footer using CSS - Full stack web development Tutorial Course",
+      "duration": 1082
+    },
+    {
+      "id": "zeHTGnv3hvk",
+      "title": "31. Introduction to JavaScript Tutorial For Beginners - Full stack web development Tutorial Course",
+      "duration": 531
+    },
+    {
+      "id": "UL89325ISSg",
+      "title": "32. Javascript Quick References for faster learning - Full stack web development Course",
+      "duration": 262
+    },
+    {
+      "id": "GrE94gYyB7c",
+      "title": "33. Javascript Comments And How to Link Scripts - Full stack web development Course",
+      "duration": 465
+    },
+    {
+      "id": "TvoJ2fJpJrw",
+      "title": "34. Javascript Variables And Strings - Full stack web development Course",
+      "duration": 778
+    },
+    {
+      "id": "4voQ4PXF28o",
+      "title": "35. Javascript Numbers and Operators - Full stack web development Course",
+      "duration": 484
+    },
+    {
+      "id": "dPDhkI3KJxI",
+      "title": "36. Javascript comparison operators and conditional operators - Full stack web development Course",
+      "duration": 941
+    },
+    {
+      "id": "TajRfBY67RE",
+      "title": "37. Javascript Logical Operators - Full stack web development Course",
+      "duration": 920
+    },
+    {
+      "id": "1ibRw6EDzNM",
+      "title": "38. Javascript Arrays - Full stack web development Course",
+      "duration": 977
+    },
+    {
+      "id": "D4NPEFki2c0",
+      "title": "39. Javascript Loops (for, while, do while) - Full stack web development Course",
+      "duration": 863
+    },
+    {
+      "id": "bf8Rg6HsBBY",
+      "title": "40. Javascript Functions and methods - Full stack web development Course",
+      "duration": 1340
+    },
+    {
+      "id": "AJ-TdjcHhzY",
+      "title": "41. Javascript Objects - Full stack web development Course",
+      "duration": 1626
+    },
+    {
+      "id": "SsT5e50c_Mo",
+      "title": "42. Javascript Bind - Full stack web development Course",
+      "duration": 511
+    },
+    {
+      "id": "77SCFCYq1vI",
+      "title": "43. Percentage Calculator & Setting Up the Form with JavaScript - Full stack web development Course",
+      "duration": 477
+    },
+    {
+      "id": "vnBHvI4onVI",
+      "title": "44. Percentage Calculator And Grabbing Elements With JavaScript - Full stack web development Course",
+      "duration": 639
+    },
+    {
+      "id": "nWFS0v42uF8",
+      "title": "45. Percentage Calculator using Event Listeners in JavaScript - Full stack web development Course",
+      "duration": 775
+    },
+    {
+      "id": "G02Hd7t0SMI",
+      "title": "46. Percentage Calculator Algorithm And Prevent Default with JS - Full stack web development Course",
+      "duration": 490
+    },
+    {
+      "id": "Lu7EfTIBfZE",
+      "title": "47. How Version Control Works - Full stack web development Course",
+      "duration": 720
+    },
+    {
+      "id": "y0ripLGqfHg",
+      "title": "48. Basic macOS Terminal Commands to learn Git CLI - Full stack web development Course",
+      "duration": 864
+    },
+    {
+      "id": "j0mIPKE1q84",
+      "title": "49. Learn Git Basics and Github CLI Commands  - Full stack web development Course",
+      "duration": 981
+    },
+    {
+      "id": "I35kejU9nj4",
+      "title": "50. Setting up Github on macOS - Full stack web development Course",
+      "duration": 336
+    },
+    {
+      "id": "MnfbJrdbikM",
+      "title": "51. Github vs Bitbucket - Full stack web development Course",
+      "duration": 187
+    },
+    {
+      "id": "nv7O0XqaV6s",
+      "title": "52. Git Local & Remote Repositories - Full stack web development Course",
+      "duration": 1053
+    },
+    {
+      "id": "aP9rtjZeiDQ",
+      "title": "53. Working Through Git Merge Conflicts - Full stack web development Course",
+      "duration": 678
+    },
+    {
+      "id": "d7Aww1g6PkE",
+      "title": "54. What is Bootstrap ? - Full stack web development Tutorial Course",
+      "duration": 193
+    },
+    {
+      "id": "fBw4-7qRyR8",
+      "title": "55. Downloading Bootstrap 4 - Full stack web development Tutorial Course",
+      "duration": 185
+    },
+    {
+      "id": "EfcMsaWcg7A",
+      "title": "56. Bootstrap 4 Project Setup - Full stack web development Tutorial Course",
+      "duration": 436
+    },
+    {
+      "id": "-aVPkEDPt0s",
+      "title": "57. Overview of Bootstrap 4 Components - Full stack web development Tutorial Course",
+      "duration": 358
+    },
+    {
+      "id": "Drr_TAC9XqQ",
+      "title": "58. Understanding Bootstrap 4 Classes - Full stack web development Tutorial Course",
+      "duration": 196
+    },
+    {
+      "id": "KnDhahDkCCU",
+      "title": "59. Using the Grid System in Bootstrap 4 - Full stack web development Tutorial Course",
+      "duration": 1128
+    },
+    {
+      "id": "bNLEvoznZu4",
+      "title": "60. Bootstrap 4 Cards & Creating a Sign-in Portal Box - Full stack web development Tutorial Course",
+      "duration": 1177
+    },
+    {
+      "id": "pmgLSh-ZoNw",
+      "title": "61. Bootstrap 4 Forms | Adding an image & input fields - Full stack web development Tutorial Course",
+      "duration": 999
+    },
+    {
+      "id": "q44t3sA1Cq4",
+      "title": "62. Bootstrap 4 Adding button and labels in login form - Full stack web development Tutorial Course",
+      "duration": 1112
+    },
+    {
+      "id": "lh9ow8ziouY",
+      "title": "63. Bootstrap 4 Grids | Finishing Mobile Compatibility - Full stack web development Tutorial Course",
+      "duration": 510
+    },
+    {
+      "id": "5HRK51QlkwI",
+      "title": "64.  Bootstrap 4 Skate or Die Intro - Full stack web development Tutorial Course",
+      "duration": 77
+    },
+    {
+      "id": "Ya3nfmqQedQ",
+      "title": "65.  Bootstrap 4 Working with Navbars - Full stack web development Tutorial Course",
+      "duration": 633
+    },
+    {
+      "id": "dYVadd2qqOU",
+      "title": "66. Bootstrap 4 Jumbotron and Carousels - Full stack web development Tutorial Course",
+      "duration": 1396
+    },
+    {
+      "id": "lx8XApoZj58",
+      "title": "67. Bootstrap 4 Nesting rows and columns - Full stack web development Tutorial Course",
+      "duration": 1256
+    },
+    {
+      "id": "uOlzIM76usg",
+      "title": "68. Bootstrap 4 Modals and PopUp - Full stack web development Tutorial Course",
+      "duration": 972
+    },
+    {
+      "id": "E8UCCJRumqM",
+      "title": "69. Bootstrap 4 Adding images and buttons - Full stack web development Tutorial Course",
+      "duration": 1139
+    },
+    {
+      "id": "hF0cVwRe8e0",
+      "title": "70. Bootstrap 4 Sizing Modals - Full stack web development Tutorial Course",
+      "duration": 1100
+    },
+    {
+      "id": "BACjnYoVnsc",
+      "title": "71. Bootstrap 4 Building the Footer - Full stack web development Tutorial Course",
+      "duration": 455
+    },
+    {
+      "id": "Z7oJFC-L0Og",
+      "title": "72. Bootstrap 4 Working with Font Awesome Favicons - Full stack web development Tutorial Course",
+      "duration": 934
+    },
+    {
+      "id": "3K9X8uDzp2Q",
+      "title": "73. How to use SCSS in HTML - Intro to Sass - Full stack web development Tutorial Course",
+      "duration": 71
+    },
+    {
+      "id": "APM1mcKbK7o",
+      "title": "74.  What is Sass? - SASS Tutorial - Full stack web development Tutorial Course",
+      "duration": 483
+    },
+    {
+      "id": "IY-y4JnDUZg",
+      "title": "75 . How to install Sass and compile it to CSS - Full stack web development Tutorial Course",
+      "duration": 707
+    },
+    {
+      "id": "K1Yx4W6wDCY",
+      "title": "76.  Your FIRST Sass Website! - Full stack web development Tutorial Course",
+      "duration": 1788
+    },
+    {
+      "id": "4QK58G2Ebds",
+      "title": "77.  Different tools to compile Sass - Full stack web development Tutorial Course",
+      "duration": 405
+    },
+    {
+      "id": "fE7FtT1_Nu4",
+      "title": "78.  How to structure your Sass ? - Full stack web development Tutorial Course",
+      "duration": 885
+    },
+    {
+      "id": "55DHzAQNnrw",
+      "title": "79.  Sass Partials Maintainable Styles Rules - Full stack web development Tutorial Course",
+      "duration": 437
+    },
+    {
+      "id": "xO7HbkpBDTA",
+      "title": "80.  Sass Variables and Imports | Create a clean Scalable Stylesheet -  Full stack web development",
+      "duration": 1254
+    },
+    {
+      "id": "C4IxmMvqxJs",
+      "title": "81. Sass Mixins Save time & recycle styles - Full stack web development Tutorial Course",
+      "duration": 717
+    },
+    {
+      "id": "SWiT7deAOPM",
+      "title": "82.  Sass Extends Share style properties between other selectors -  Full stack web development",
+      "duration": 379
+    },
+    {
+      "id": "9J1tWxlJ6kE",
+      "title": "83.  Final Project Intro to our Landing Page using SASS  -  Full stack web development Tutorial",
+      "duration": 61
+    },
+    {
+      "id": "gWx-zDKITvM",
+      "title": "84 . Final Project Setting up our Variables With Sass - Full stack web development Tutorial Course",
+      "duration": 923
+    },
+    {
+      "id": "-bvvi40oFes",
+      "title": "85.  Final Project Styling our Navbar with Sass - Full stack web development Tutorial Course",
+      "duration": 666
+    },
+    {
+      "id": "NqGFXyCgJ-8",
+      "title": "86.  Final Project Creating the Banner Container - Full stack web development Tutorial Course",
+      "duration": 200
+    },
+    {
+      "id": "6FHRlUj_SJk",
+      "title": "87.  Final Project Adding Content to our Banner Container - Full stack web development Tutorial",
+      "duration": 626
+    },
+    {
+      "id": "yWt9EEszK00",
+      "title": "88.  Final Project Doing some quick cleanup in our Sass files - Full stack web development Tutorial",
+      "duration": 266
+    },
+    {
+      "id": "bW1wr5X__KY",
+      "title": "89.  Final Project Using the Extend method - Full stack web development Tutorial Course",
+      "duration": 304
+    },
+    {
+      "id": "iSFByalOdRU",
+      "title": "90.  Final Project Styling a section splitter with Sass - Full stack web development Tutorial Course",
+      "duration": 303
+    },
+    {
+      "id": "dydPJPnJDhc",
+      "title": "91.  Final Project Using advanced Mixings - Full stack web development Tutorial Course",
+      "duration": 1276
+    },
+    {
+      "id": "sHSSqmuV1rA",
+      "title": "92.  Final Project Styling the next Container with Sass - Full stack web development Tutorial Course",
+      "duration": 351
+    },
+    {
+      "id": "69elAZadMRA",
+      "title": "93.  Final Project Finishing our Landing Page Congrats! - Full stack web development Tutorial Course",
+      "duration": 642
+    },
+    {
+      "id": "HmC0lzW7ENc",
+      "title": "94. Set Up Hosting For Your Web App",
+      "duration": 75
+    },
+    {
+      "id": "QpkzOklfovE",
+      "title": "95. Creating a server",
+      "duration": 328
+    },
+    {
+      "id": "MIor3TkgNtE",
+      "title": "96. Accessing your server",
+      "duration": 133
+    },
+    {
+      "id": "lWRU7ywMh90",
+      "title": "97. Installing Nginx",
+      "duration": 248
+    },
+    {
+      "id": "k1eP3IUjwXM",
+      "title": "98. Creating server SSH Keys",
+      "duration": 243
+    },
+    {
+      "id": "JXFgc6yTcMY",
+      "title": "99. Uploading files to your server",
+      "duration": 152
+    },
+    {
+      "id": "uTRH07Utp2g",
+      "title": "100. Setting up a domain",
+      "duration": 330
+    },
+    {
+      "id": "TEssrBOkn1k",
+      "title": "101. Final Step  Configuring Nginx",
+      "duration": 472
+    },
+    {
+      "id": "tySzYr4e-lI",
+      "title": "102. Understanding Web Requests",
+      "duration": 1034
+    },
+    {
+      "id": "qExGKssXLws",
+      "title": "103. Installing Node on macOS",
+      "duration": 470
+    },
+    {
+      "id": "FP2e5cJQvPg",
+      "title": "104.  Basics of Node",
+      "duration": 641
+    },
+    {
+      "id": "-t7m1h-3ESI",
+      "title": "105.  Node Modules",
+      "duration": 564
+    },
+    {
+      "id": "Zxp7H7LloyY",
+      "title": "106. Building Your First API",
+      "duration": 340
+    },
+    {
+      "id": "tGU6q_1JITI",
+      "title": "107. Postman, GET & POST Requests",
+      "duration": 1020
+    },
+    {
+      "id": "KuX4WRkIjjE",
+      "title": "108. URL Parameters & Delete Requests",
+      "duration": 1165
+    },
+    {
+      "id": "MeV6KPdpBt0",
+      "title": "109. Installing MongoDB on macOS",
+      "duration": 1097
+    },
+    {
+      "id": "fPGTkTkpcJo",
+      "title": "110.  Working With the Mongo Shell",
+      "duration": 343
+    },
+    {
+      "id": "UzrfM0jAUxk",
+      "title": "111. Working on Mongo Shell",
+      "duration": 739
+    },
+    {
+      "id": "aHXvs-pcunw",
+      "title": "112. Searching for Documents",
+      "duration": 486
+    },
+    {
+      "id": "S9dL68fCkDw",
+      "title": "Full stack web development Course | 113. DELETION AND DOCUMENTATION",
+      "duration": 265
+    },
+    {
+      "id": "l8nqTHp0njQ",
+      "title": "Full stack web development Course | 114. SWAG SHOP API: PROJECT CREATION",
+      "duration": 610
+    },
+    {
+      "id": "HttZ8x5VTK0",
+      "title": "Full stack web development Course | 115. SWAG SHOP API: CREATING MODELS",
+      "duration": 883
+    },
+    {
+      "id": "cqiOwXoHczU",
+      "title": "Full stack web development Course | 116. Swag Shop API: Posting Products",
+      "duration": 776
+    },
+    {
+      "id": "voNfV8vJtsw",
+      "title": "Full stack web development Course | 117. Swag Shop API: Fetching Products",
+      "duration": 597
+    },
+    {
+      "id": "vZ40UuXKbbw",
+      "title": "Full stack web development Course | 118. Swag Shop API: Populating Data",
+      "duration": 1162
+    },
+    {
+      "id": "N3OHPVKCJ0k",
+      "title": "Full stack web development Course | 119. Swag Shop: Setting Up React Tooling",
+      "duration": 1139
+    },
+    {
+      "id": "gGlTr_ruiW8",
+      "title": "Full stack web development Course | 120. Swag Shop:  Installing Bootstrap React",
+      "duration": 689
+    },
+    {
+      "id": "fhhz8UelKAc",
+      "title": "Full stack web development Course | 121. Swag Shop: Setting Up the React API",
+      "duration": 387
+    },
+    {
+      "id": "KIC7qqJKEGk",
+      "title": "Full stack web development Course | 122. Swag Shop - Creating a HTTP Service",
+      "duration": 1143
+    },
+    {
+      "id": "yOFLWSsuHaY",
+      "title": "Full stack web development Course | 123. Swag Shop: Promises With ES6 & React",
+      "duration": 741
+    },
+    {
+      "id": "WPG6CKvkLps",
+      "title": "Full stack web development Course | 124. Swag Shop: Components in React - Website Product",
+      "duration": 829
+    },
+    {
+      "id": "MgUA72yZ7lU",
+      "title": "Full stack web development Course | 125. Swag Shop: Props in React",
+      "duration": 662
+    },
+    {
+      "id": "QMuB9lc-xW8",
+      "title": "Full stack web development Course | 126.  Swag Shop: Working With State in React",
+      "duration": 827
+    },
+    {
+      "id": "My85lR_0DKM",
+      "title": "Full stack web development Course | 127. Swag Shop: Creating a WishList Component",
+      "duration": 1491
+    },
+    {
+      "id": "jO7PiCbVAXA",
+      "title": "Full stack web development Course | 128. Swag Shop: Building a Singleton Data Service",
+      "duration": 684
+    },
+    {
+      "id": "22crMW2HcqA",
+      "title": "Full stack web development Course | 129. Swag Shop: Creating a Notification Service",
+      "duration": 790
+    },
+    {
+      "id": "ZB6exFzYpH0",
+      "title": "Full stack web development Course | 130. Swag Shop: Posting Notifications to React Components",
+      "duration": 452
+    },
+    {
+      "id": "kFdkv3AufjM",
+      "title": "Full stack web development Course | 131. Swag Shop: Observing Notifications in React",
+      "duration": 828
+    },
+    {
+      "id": "FQLr4zncn1I",
+      "title": "Full stack web development Course | 132. Swag Shop: Finishing Our Full Stack React App",
+      "duration": 975
+    }
+  ]
+}

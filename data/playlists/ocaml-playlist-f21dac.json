@@ -1,0 +1,105 @@
+{
+  "courseId": "ocaml-playlist-f21dac",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKO_ZowsIOu7o3iQmS3InxLKd0L5-zyqo",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:16.614Z",
+  "title": "OCaml Workshop 2021",
+  "channel": "OCamlWorkshops",
+  "videos": [
+    {
+      "id": "KipRuiLXYEo",
+      "title": "OCaml Workshop 2021 - GopCaml A Structural Editor for OCaml",
+      "duration": 1495
+    },
+    {
+      "id": "ZseAgG9kmMw",
+      "title": "OCaml Workshop 2021 - OCaml and Python Getting the Best of Both Worlds",
+      "duration": 1240
+    },
+    {
+      "id": "MfjMpznU4nM",
+      "title": "OCaml Workshop 2021 - Adapting the OCaml ecosystem for Multicore OCaml",
+      "duration": 1477
+    },
+    {
+      "id": "GZsUoSaIpIs",
+      "title": "OCaml Workshop 2021 - Parafuzz Coverage guided Property Fuzzing for Multicore OCaml programs",
+      "duration": 908
+    },
+    {
+      "id": "3Jpla-vWLR4",
+      "title": "OCaml Workshop 2021 - Wibbily Wobbly Timey Camly",
+      "duration": 912
+    },
+    {
+      "id": "-6fpLF_n7cA",
+      "title": "OCaml Workshop 2021 - Leveraging Formal Specifications to Generate Fuzzing Suites",
+      "duration": 894
+    },
+    {
+      "id": "9OES0qe_OvE",
+      "title": "OCaml Workshop 2021 - Probabilistic resource limits using StatMemprof",
+      "duration": 1335
+    },
+    {
+      "id": "folKaWN7jy4",
+      "title": "OCaml Workshop 2021 - Continuous Benchmarking for OCaml Projects",
+      "duration": 652
+    },
+    {
+      "id": "qUMbbKwagaU",
+      "title": "OCaml Workshop 2021 - A Multiverse of Glorious Documentation",
+      "duration": 864
+    },
+    {
+      "id": "gODavKhyd2I",
+      "title": "OCaml Workshop 2021 -  Digodoc and Docs",
+      "duration": 878
+    },
+    {
+      "id": "PGJdHUqgX7o",
+      "title": "OCaml Workshop 2021 Keynote - Xavier Leroy: 25 years of OCaml",
+      "duration": 2350
+    },
+    {
+      "id": "k3oQwpyXmpo",
+      "title": "OCaml Workshop 2021 - Experiences with Effects",
+      "duration": 1125
+    },
+    {
+      "id": "vadoOkgEs6w",
+      "title": "OCaml Workshop 2021 - opam-bin Binary Packages with Opam",
+      "duration": 1272
+    },
+    {
+      "id": "um55QNwz8o4",
+      "title": "OCaml Workshop 2021 - Love a readable language interpreted by a blockchain",
+      "duration": 975
+    },
+    {
+      "id": "3xRGeJSslPE",
+      "title": "OCaml Workshop 2021 - From 2n+1 to n",
+      "duration": 1050
+    },
+    {
+      "id": "w-dTTlVwVgY",
+      "title": "OCaml Workshop 2021 - Property Based Testing for OCaml through Coq",
+      "duration": 465
+    },
+    {
+      "id": "ckN1YREM3Gk",
+      "title": "OCaml Workshop 2021 - Safe Protocol Updates via Propositional Logic",
+      "duration": 898
+    },
+    {
+      "id": "S9XPI1fHWqM",
+      "title": "OCaml Workshop 2021 - Binary Analysis Platform (BAP)",
+      "duration": 979
+    },
+    {
+      "id": "q7kuvyAOk78",
+      "title": "OCaml Workshop 2021 - Semgrep a fast lightweight polyglot static analysis tool to find bugs",
+      "duration": 884
+    }
+  ]
+}

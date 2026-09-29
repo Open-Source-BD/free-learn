@@ -1,0 +1,330 @@
+{
+  "courseId": "laravel-10-tutorial-course-in-hindi-urdu-3d4ffc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:37.793Z",
+  "title": "Laravel 11 Tutorial Course in Hindi / Urdu",
+  "channel": "YOOBABA",
+  "videos": [
+    {
+      "id": "M9DoUszVCFc",
+      "title": "Laravel Introduction Tutorial in Hindi / Urdu",
+      "duration": 2155
+    },
+    {
+      "id": "1kPEQ-MqlFI",
+      "title": "Laravel Install Xampp & Composer Tutorial in Hindi / Urdu",
+      "duration": 1090
+    },
+    {
+      "id": "Sybx-a83QQo",
+      "title": "Laravel Installing Tutorial in Hindi / Urdu",
+      "duration": 1293
+    },
+    {
+      "id": "g1OE7_KCn4s",
+      "title": "Laravel Folder & File Structure Tutorial in Hindi / Urdu",
+      "duration": 591
+    },
+    {
+      "id": "oCf9Bb-crPc",
+      "title": "Laravel Routing Basics Tutorial in Hindi / Urdu",
+      "duration": 1900
+    },
+    {
+      "id": "jBHd3vJ4s2c",
+      "title": "Laravel Routing Parameters & Constraints Tutorial in Hindi / Urdu",
+      "duration": 1717
+    },
+    {
+      "id": "ZP9JVKiwB18",
+      "title": "Laravel Named Route & Routes Group Tutorial in Hindi / Urdu",
+      "duration": 1578
+    },
+    {
+      "id": "JjQmw73UWaI",
+      "title": "Laravel Blade Template - I Tutorial in Hindi / Urdu",
+      "duration": 1822
+    },
+    {
+      "id": "DW-KkCS6Ynk",
+      "title": "Laravel Blade Template - II Including Subviews Tutorial in Hindi / Urdu",
+      "duration": 1790
+    },
+    {
+      "id": "dENKf4U9y5o",
+      "title": "Laravel Blade Template - III Template Inheritance Tutorial in Hindi / Urdu",
+      "duration": 1685
+    },
+    {
+      "id": "IzcRiipjAPo",
+      "title": "Laravel Blade Template - IV JS in Blade Tutorial in Hindi / Urdu",
+      "duration": 2146
+    },
+    {
+      "id": "p2XbptaYVYM",
+      "title": "Laravel Pass Data Route to View Tutorial in Hindi / Urdu",
+      "duration": 2068
+    },
+    {
+      "id": "fI8Y4rWdpzk",
+      "title": "Laravel Controller Tutorial in Hindi / Urdu",
+      "duration": 2267
+    },
+    {
+      "id": "jUquC1_e9CM",
+      "title": "Laravel 11 New Features Tutorial in Hindi / Urdu",
+      "duration": 1213
+    },
+    {
+      "id": "RSM0sEP_nXc",
+      "title": "Laravel Database Migration Tutorial in Hindi / Urdu",
+      "duration": 2779
+    },
+    {
+      "id": "VHf5alNBLjI",
+      "title": "Laravel : Migration Modifiers & Constraints Tutorial in Hindi / Urdu",
+      "duration": 2524
+    },
+    {
+      "id": "FM70Ssh0bMc",
+      "title": "Laravel : Migration Primary & Foreign key Tutorial in Hindi / Urdu",
+      "duration": 2421
+    },
+    {
+      "id": "-Ip8Q402Q2w",
+      "title": "Laravel Seeders Tutorial in Hindi / Urdu",
+      "duration": 2696
+    },
+    {
+      "id": "_Fp6WY78Tq0",
+      "title": "Laravel Model Factory Tutorial in Hindi / Urdu",
+      "duration": 1758
+    },
+    {
+      "id": "uq4NXqc14v0",
+      "title": "Laravel Query Builder Tutorial in Hindi / Urdu",
+      "duration": 4179
+    },
+    {
+      "id": "YBLni0HJbXI",
+      "title": "Laravel Query Builder - Insert Update Delete Tutorial in Hindi / Urdu",
+      "duration": 3249
+    },
+    {
+      "id": "BR_aUGC9hMI",
+      "title": "Laravel Query Builder with Forms Tutorial in Hindi / Urdu",
+      "duration": 2777
+    },
+    {
+      "id": "6U1mGD2RBWU",
+      "title": "Laravel Query Builder with Pagination Tutorial in Hindi / Urdu",
+      "duration": 2844
+    },
+    {
+      "id": "8Uzkyao9WBs",
+      "title": "Laravel Query Builder with Join Tables Tutorial in Hindi / Urdu",
+      "duration": 2580
+    },
+    {
+      "id": "Qg8-dgYBmKE",
+      "title": "Laravel Query Builder : Union() When() Chunk() Method Tutorial in Hindi / Urdu",
+      "duration": 2406
+    },
+    {
+      "id": "UIhVIwGbX6Y",
+      "title": "Laravel Raw SQL Queries Tutorial in Hindi / Urdu",
+      "duration": 2622
+    },
+    {
+      "id": "180sIYmMM18",
+      "title": "Laravel Form Validation Tutorial in Hindi / Urdu",
+      "duration": 3284
+    },
+    {
+      "id": "tDI0bvLcFNI",
+      "title": "Laravel Form Request Validation Tutorial in Hindi / Urdu",
+      "duration": 2001
+    },
+    {
+      "id": "GgsrzoB6Fc8",
+      "title": "Laravel Custom Validation Rule Tutorial in Hindi / Urdu",
+      "duration": 1279
+    },
+    {
+      "id": "RJqrLhwOIF8",
+      "title": "Laravel Resource controller Tutorial in Hindi / Urdu",
+      "duration": 1851
+    },
+    {
+      "id": "otp-E6FHMnw",
+      "title": "Laravel Eloquent ORM Tutorial in Hindi / Urdu",
+      "duration": 2554
+    },
+    {
+      "id": "ANv0Apc_e2M",
+      "title": "Laravel Eloquent ORM Create Data Tutorial in Hindi / Urdu",
+      "duration": 2241
+    },
+    {
+      "id": "tk6zY7AoA4M",
+      "title": "Laravel Eloquent ORM Update & Delete Data Tutorial in Hindi / Urdu",
+      "duration": 2503
+    },
+    {
+      "id": "wAZmc81HZwI",
+      "title": "Laravel Eloquent Advance Methods  with Tinkerwell Tutorial in Hindi / Urdu",
+      "duration": 2692
+    },
+    {
+      "id": "ojjJv-BOYAk",
+      "title": "Laravel Eloquent Model Conventions Tutorial in Hindi / Urdu",
+      "duration": 1661
+    },
+    {
+      "id": "ijDGDRUAo74",
+      "title": "Laravel Eloquent One To One Relationships Tutorial in Hindi / Urdu",
+      "duration": 2553
+    },
+    {
+      "id": "_DpoMoNKyms",
+      "title": "Laravel Eloquent One To Many Relationships Tutorial in Hindi / Urdu",
+      "duration": 3160
+    },
+    {
+      "id": "1cKl4f3yFeM",
+      "title": "Laravel Eloquent Many To Many Relationship Tutorial in Hindi / Urdu",
+      "duration": 2481
+    },
+    {
+      "id": "madPHRRl7Lk",
+      "title": "Laravel Eloquent Has One Through Tutorial in Hindi / Urdu",
+      "duration": 1690
+    },
+    {
+      "id": "UtLeSP2JRm0",
+      "title": "Laravel Eloquent Has One of Many Tutorial in Hindi / Urdu",
+      "duration": 1919
+    },
+    {
+      "id": "P6TK95_BiRc",
+      "title": "Laravel Eloquent Has Many Through Tutorial in Hindi / Urdu",
+      "duration": 2062
+    },
+    {
+      "id": "IehmQDd5lYg",
+      "title": "Laravel Eloquent One To One Polymorphic Tutorial in Hindi / Urdu",
+      "duration": 2036
+    },
+    {
+      "id": "HZ-0L5_EAOA",
+      "title": "Laravel Eloquent One To Many Polymorphic Tutorial in Hindi / Urdu",
+      "duration": 1951
+    },
+    {
+      "id": "9bGgnVOVDoo",
+      "title": "Laravel Eloquent One Of Many Polymorphic Tutorial in Hindi / Urdu",
+      "duration": 1085
+    },
+    {
+      "id": "5rtegsgbpzo",
+      "title": "Laravel Eloquent Many to Many Polymorphic Tutorial in Hindi / Urdu",
+      "duration": 2534
+    },
+    {
+      "id": "pDoAf171C8I",
+      "title": "Laravel Eloquent with JSON Data Columns Tutorial in Hindi / Urdu",
+      "duration": 2514
+    },
+    {
+      "id": "wlN6h2j1jc4",
+      "title": "Laravel Observers & Model Events Tutorial in Hindi / Urdu",
+      "duration": 3004
+    },
+    {
+      "id": "m9yZRkvO2a0",
+      "title": "Laravel Query Scope Tutorial in Hindi / Urdu",
+      "duration": 3311
+    },
+    {
+      "id": "iIx6Kad5uoE",
+      "title": "Laravel Get Specific Columns Data Tutorial in Hindi / Urdu",
+      "duration": 2791
+    },
+    {
+      "id": "BEnxRNUIyuk",
+      "title": "Laravel Image & File Upload Tutorial in Hindi / Urdu",
+      "duration": 4860
+    },
+    {
+      "id": "QOQQ7Ty4Tfw",
+      "title": "Laravel Accessors & Mutators Tutorial in Hindi / Urdu",
+      "duration": 2459
+    },
+    {
+      "id": "NlgtcAt80Rw",
+      "title": "Laravel Components Tutorial in Hindi / Urdu",
+      "duration": 2717
+    },
+    {
+      "id": "HkDIkN8t4tM",
+      "title": "Laravel Slots & Advance Component Features Tutorial in Hindi / Urdu",
+      "duration": 2756
+    },
+    {
+      "id": "IMCIXHovEVk",
+      "title": "Laravel Blade Template with Components Tutorial in Hindi / Urdu",
+      "duration": 1146
+    },
+    {
+      "id": "wG5cEaGVYXs",
+      "title": "Laravel Authentication Tutorial in hindi Urdu",
+      "duration": 2631
+    },
+    {
+      "id": "0KIRgqdAkrI",
+      "title": "Laravel Middleware Tutorial in Hindi / Urdu",
+      "duration": 3959
+    },
+    {
+      "id": "onrOqkGl78g",
+      "title": "Laravel Session Tutorial in Hindi / Urdu",
+      "duration": 2899
+    },
+    {
+      "id": "HorkYXAHzB8",
+      "title": "Laravel Gates Tutorial in Hindi / Urdu",
+      "duration": 3948
+    },
+    {
+      "id": "gcuOTDLF3hY",
+      "title": "Laravel Policies Tutorial in Hindi / Urdu",
+      "duration": 2471
+    },
+    {
+      "id": "8XvV4QbBWUM",
+      "title": "Laravel Send Email Tutorial in Hindi / Urdu",
+      "duration": 2478
+    },
+    {
+      "id": "gWB_NVSXArs",
+      "title": "Laravel Send Email with Attachment Tutorial in Hindi / Urdu",
+      "duration": 1860
+    },
+    {
+      "id": "zQwgCPsDXJ8",
+      "title": "Laravel API Tutorial in Hindi / Urdu",
+      "duration": 5874
+    },
+    {
+      "id": "k_efo0BydRI",
+      "title": "Laravel Ajax CRUD with API Tutorial in Hindi / Urdu",
+      "duration": 3395
+    },
+    {
+      "id": "SWmRyRbmYGc",
+      "title": "Laravel Ajax CRUD with API II Tutorial in Hindi / Urdu",
+      "duration": 2476
+    }
+  ]
+}

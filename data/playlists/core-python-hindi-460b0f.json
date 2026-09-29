@@ -1,0 +1,1145 @@
+{
+  "courseId": "core-python-hindi-460b0f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:10.618Z",
+  "title": "Core Python (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "URfNAAuZ52w",
+      "title": "Introduction to Python (Hindi)",
+      "duration": 522
+    },
+    {
+      "id": "AZ100fpH5mg",
+      "title": "Download Geeky Shows Core Python Study Material",
+      "duration": 539
+    },
+    {
+      "id": "pZ-6ScRpRQ0",
+      "title": "How Python Work (Hindi)",
+      "duration": 473
+    },
+    {
+      "id": "F2fgA580hBE",
+      "title": "Python Virtual Machine (Hindi)",
+      "duration": 156
+    },
+    {
+      "id": "OxFuzj-ksUg",
+      "title": "How to Install Python in Windows 11",
+      "duration": 104
+    },
+    {
+      "id": "_w-PPOu1uxo",
+      "title": "How to Install Python and PyCharm (Hindi)",
+      "duration": 717
+    },
+    {
+      "id": "2_aXKd0RqdY",
+      "title": "How to run Python Program using Command Line Window (Hindi)",
+      "duration": 263
+    },
+    {
+      "id": "LwKaIS-wYaI",
+      "title": "How to run Python Program using IDLE (Hindi)",
+      "duration": 117
+    },
+    {
+      "id": "wOXbqrX8n5U",
+      "title": "How to run Python Program using Notepad (Hindi)",
+      "duration": 270
+    },
+    {
+      "id": "12CfeOvrIQA",
+      "title": "How to Run Python Program using PyCharm (Hindi)",
+      "duration": 420
+    },
+    {
+      "id": "AWut3It9wt4",
+      "title": "How to Run Python Program using Visual Studio Code (Hindi)",
+      "duration": 392
+    },
+    {
+      "id": "Z6ElIkhtGag",
+      "title": "Identifier in Python (Hindi)",
+      "duration": 261
+    },
+    {
+      "id": "xuzeCjsWCHg",
+      "title": "Reserved words in Python (Hindi)",
+      "duration": 58
+    },
+    {
+      "id": "8JfopkGipRI",
+      "title": "Constant in Python (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "sLF1XLjYD5Y",
+      "title": "Variable in Python (Hindi)",
+      "duration": 1569
+    },
+    {
+      "id": "QHM3RTMctJU",
+      "title": "Data Type in Python (Hindi)",
+      "duration": 268
+    },
+    {
+      "id": "qPfgVC1WknY",
+      "title": "Built in Data Types in Python (Hindi)",
+      "duration": 2190
+    },
+    {
+      "id": "kDCfsPzQJGk",
+      "title": "Declaring and Initializing Variables in Python (Hindi)",
+      "duration": 353
+    },
+    {
+      "id": "dR4QqEBy5yE",
+      "title": "Arithmetic Operators in Python (Hindi)",
+      "duration": 1098
+    },
+    {
+      "id": "0KMwKtOA-Rg",
+      "title": "Relational or Comparison Operator in Python (Hindi)",
+      "duration": 363
+    },
+    {
+      "id": "nJcRgK_jQY4",
+      "title": "Logical Operators in Python (Hindi)",
+      "duration": 1211
+    },
+    {
+      "id": "lJtUpN2_H-g",
+      "title": "Assignment Operators in Python (Hindi)",
+      "duration": 375
+    },
+    {
+      "id": "dNhc5vEd1Oo",
+      "title": "Bitwise Operator in Python (Hindi)",
+      "duration": 1216
+    },
+    {
+      "id": "ABdEQRVFpZ4",
+      "title": "Membership Operators in Python (Hindi)",
+      "duration": 580
+    },
+    {
+      "id": "xBP8fOhRt8A",
+      "title": "Identity Operators in Python (Hindi)",
+      "duration": 505
+    },
+    {
+      "id": "oOCZPf5o820",
+      "title": "Operator Precedence and Associativity in Python (Hindi)",
+      "duration": 351
+    },
+    {
+      "id": "rYqfDvRTIJs",
+      "title": "Implicit and Explicit Type Conversion in Python (Hindi)",
+      "duration": 1643
+    },
+    {
+      "id": "OFdWlq-JJ0g",
+      "title": "Output Statement or Print Function in Python (Hindi)",
+      "duration": 1753
+    },
+    {
+      "id": "j44yTHAVFxA",
+      "title": "Getting input from user or Input Statement or input Function in Python (Hindi)",
+      "duration": 766
+    },
+    {
+      "id": "NsY69dA4FUY",
+      "title": "Escape Sequence in Python (Hindi)",
+      "duration": 361
+    },
+    {
+      "id": "pn3rwZOYxso",
+      "title": "If Statement in Python (Hindi)",
+      "duration": 902
+    },
+    {
+      "id": "0JPfKiuhZxo",
+      "title": "Nested if Statement in Python (Hindi)",
+      "duration": 465
+    },
+    {
+      "id": "cxheI-6o_u4",
+      "title": "if Statement with Logical Operator in Python (Hindi)",
+      "duration": 462
+    },
+    {
+      "id": "igFtmXV_9vE",
+      "title": "Indentation in Python (Hindi)",
+      "duration": 319
+    },
+    {
+      "id": "TTSqgBmFqoA",
+      "title": "if else Statement in Python (Hindi)",
+      "duration": 738
+    },
+    {
+      "id": "wyLfdXXJrQA",
+      "title": "Nested if else Statement in Python (Hindi)",
+      "duration": 557
+    },
+    {
+      "id": "OT0HogTdqd8",
+      "title": "if elif and if elif else Statement in Python (Hindi)",
+      "duration": 915
+    },
+    {
+      "id": "JGga5VUdDE4",
+      "title": "While Loop and Nested while Loop in Python (Hindi)",
+      "duration": 2658
+    },
+    {
+      "id": "M5NYl2jG3SI",
+      "title": "range Function in Python (Hindi)",
+      "duration": 1162
+    },
+    {
+      "id": "0W_SUsunOIc",
+      "title": "for loop and Nested for Loop in Python (Hindi)",
+      "duration": 1637
+    },
+    {
+      "id": "gYvt01_wvWo",
+      "title": "Break Statement and Continue Statement in Python (Hindi)",
+      "duration": 635
+    },
+    {
+      "id": "38Y71X6tq8k",
+      "title": "Pass Statement in Python (Hindi)",
+      "duration": 320
+    },
+    {
+      "id": "dYBdrhqFem4",
+      "title": "Array in Python (Hindi)",
+      "duration": 516
+    },
+    {
+      "id": "W1ewbm_vaK0",
+      "title": "One Dimensional Array using Array Module in Python (Hindi)",
+      "duration": 1543
+    },
+    {
+      "id": "VcEaCwcdpww",
+      "title": "Accessing Array using for Loop Array Module in Python (Hindi)",
+      "duration": 715
+    },
+    {
+      "id": "bmziedjZRIo",
+      "title": "Accessing Array using while Loop Array Module in Python (Hindi)",
+      "duration": 551
+    },
+    {
+      "id": "EHZgfPgDg6A",
+      "title": "append Method in Python (Hindi)",
+      "duration": 342
+    },
+    {
+      "id": "9n-j_CwjK3I",
+      "title": "Getting Array input from user using for Loop in Python (Hindi)",
+      "duration": 600
+    },
+    {
+      "id": "Ebsy7cv42KM",
+      "title": "Getting Array Input from user using while Loop in Python (Hindi)",
+      "duration": 523
+    },
+    {
+      "id": "5BZ9gC74pwY",
+      "title": "insert Method in Python (Hindi)",
+      "duration": 223
+    },
+    {
+      "id": "h36KWsJnmA8",
+      "title": "pop Method in Python (Hindi)",
+      "duration": 311
+    },
+    {
+      "id": "K6VjGCDzMI0",
+      "title": "remove Method in Python (Hindi)",
+      "duration": 125
+    },
+    {
+      "id": "qMm_WSzZmwE",
+      "title": "index Method in Python (Hindi)",
+      "duration": 123
+    },
+    {
+      "id": "_ecpfK5Jv5k",
+      "title": "reverse Method in Python (Hindi)",
+      "duration": 78
+    },
+    {
+      "id": "FtJPi1QNbtg",
+      "title": "extend Method in Python (Hindi)",
+      "duration": 137
+    },
+    {
+      "id": "k9bwAqxwJ08",
+      "title": "Slicing on Arrays in Python (Hindi)",
+      "duration": 970
+    },
+    {
+      "id": "V3_JXih5QMo",
+      "title": "How to install and Uninstall Python Packages (Hindi)",
+      "duration": 602
+    },
+    {
+      "id": "NpG8980kYEM",
+      "title": "How to install numpy in Python (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "enf2jATVslQ",
+      "title": "One Dimensional Numpy Array using array Function (Hindi)",
+      "duration": 2136
+    },
+    {
+      "id": "c6V5ExfH4LY",
+      "title": "Accessing One Dimensional Numpy Array using for Loop in Python (Hindi)",
+      "duration": 778
+    },
+    {
+      "id": "ccUkP8fshiI",
+      "title": "Accessing One Dimensional Numpy Array using while Loop in Python (Hindi)",
+      "duration": 281
+    },
+    {
+      "id": "VYwMLURTMTs",
+      "title": "Numpy One Dimensional Array using linspace Function in Python (Hindi)",
+      "duration": 1140
+    },
+    {
+      "id": "SRmGIe0BICY",
+      "title": "Numpy One Dimensional Array using logspace Function in Python (Hindi)",
+      "duration": 696
+    },
+    {
+      "id": "Fo8VJ8LO2vE",
+      "title": "Numpy One Dimensional Array using arange Function in Python (Hindi)",
+      "duration": 506
+    },
+    {
+      "id": "pOs7b5X8oNo",
+      "title": "Numpy One Dimensional Array using zeros Function in Python (Hindi)",
+      "duration": 296
+    },
+    {
+      "id": "HV0dblneNio",
+      "title": "Numpy One Dimensional Array using ones Function in Python (Hindi)",
+      "duration": 573
+    },
+    {
+      "id": "V2BuuyULxiU",
+      "title": "Math Operations on Arrays using Numpy in Python (Hindi)",
+      "duration": 292
+    },
+    {
+      "id": "RodZcOla2Zs",
+      "title": "Comparing Numpy Arrays in Python (Hindi)",
+      "duration": 356
+    },
+    {
+      "id": "eVBtMpqcyCI",
+      "title": "any and all Functions in Python (Hindi)",
+      "duration": 443
+    },
+    {
+      "id": "aGWbk96BmyA",
+      "title": "where Function in Python (Hindi)",
+      "duration": 302
+    },
+    {
+      "id": "Pf5ujJhxSDw",
+      "title": "nonzero Function in Python (Hindi)",
+      "duration": 202
+    },
+    {
+      "id": "7CQqRUQqIdE",
+      "title": "Aliasing Array in Python (Hindi)",
+      "duration": 211
+    },
+    {
+      "id": "Bp45Pywi6EA",
+      "title": "view Method and copy Method in Python (Hindi)",
+      "duration": 392
+    },
+    {
+      "id": "glsFQqXUZbU",
+      "title": "Getting input from user in Numpy One Dimensional Array using for Loop Python (Hindi)",
+      "duration": 1055
+    },
+    {
+      "id": "ixhfsRWrQtg",
+      "title": "Getting input from user in Numpy One Dimensional Array using while Loop Python (Hindi)",
+      "duration": 691
+    },
+    {
+      "id": "PY8ipk8PYg4",
+      "title": "Two Dimensional Numpy Array using array Function in Python (Hindi)",
+      "duration": 1400
+    },
+    {
+      "id": "WWwLDKKUo-Y",
+      "title": "Accessing Numpy Two Dimensional Array using for Loop in Python (Hindi)",
+      "duration": 1422
+    },
+    {
+      "id": "xOI8eZN5hjA",
+      "title": "Accessing Numpy Two Dimensional Array using while Loop in Python (Hindi)",
+      "duration": 650
+    },
+    {
+      "id": "izVvkMJMAyk",
+      "title": "Numpy Two Dimensional Array using zeros Function in Python (Hindi)",
+      "duration": 1098
+    },
+    {
+      "id": "DLxUiyJWCH4",
+      "title": "Numpy Two Dimensional Array using ones Function in Python (Hindi)",
+      "duration": 394
+    },
+    {
+      "id": "1ry6teaK_hA",
+      "title": "reshape Function and flatten Method in Python (Hindi)",
+      "duration": 423
+    },
+    {
+      "id": "2TrlI-pBqPU",
+      "title": "Input from user in numpy Two Dimensional Array using for Loop in Python (Hindi)",
+      "duration": 1503
+    },
+    {
+      "id": "s4dXc5GHXgo",
+      "title": "Input from User in Numpy Two Dimensional Array using while Loop in Python (Hindi)",
+      "duration": 1547
+    },
+    {
+      "id": "_QL3CNdhosw",
+      "title": "Slicing on Two Dimensional Array in Python (Hindi)",
+      "duration": 835
+    },
+    {
+      "id": "_P5lyWEftp4",
+      "title": "Attributes of Numpy Array in Python (Hindi)",
+      "duration": 309
+    },
+    {
+      "id": "_QRq2EgGXeU",
+      "title": "String in Python (Hindi)",
+      "duration": 1734
+    },
+    {
+      "id": "HXvoj0u9aMw",
+      "title": "How to Find String Length in Python (Hindi)",
+      "duration": 92
+    },
+    {
+      "id": "Zn1uTm_AWsU",
+      "title": "Access String using Loop in Python (Hindi)",
+      "duration": 507
+    },
+    {
+      "id": "m5GTnWi-YdM",
+      "title": "Difference between Mutable and Immutable Object in Python (Hindi)",
+      "duration": 87
+    },
+    {
+      "id": "ItxZCWy-rVg",
+      "title": "Immutable String in Python (Hindi)",
+      "duration": 247
+    },
+    {
+      "id": "EgGILCZL_tc",
+      "title": "Repetition Operator in Python (Hindi)",
+      "duration": 177
+    },
+    {
+      "id": "ivXfxJJvQuY",
+      "title": "Concatenation Operator in Python (Hindi)",
+      "duration": 197
+    },
+    {
+      "id": "x9nNa2g1lf4",
+      "title": "Comparing String in Python (Hindi)",
+      "duration": 321
+    },
+    {
+      "id": "oO4cgrzFAMM",
+      "title": "C Style String Formatting in Python (Hindi)",
+      "duration": 2673
+    },
+    {
+      "id": "kr7PzMGgq68",
+      "title": "format Method in Python (Hindi)",
+      "duration": 4434
+    },
+    {
+      "id": "Yo3Lr1874Ds",
+      "title": "f String or Formatted String Literal in Python (Hindi)",
+      "duration": 3372
+    },
+    {
+      "id": "YrfuH2NN0pw",
+      "title": "upper lower swapcase and title String Functions in Python (Hindi)",
+      "duration": 385
+    },
+    {
+      "id": "aBD8M342giU",
+      "title": "isupper islower and istitle String Functions in Python (Hindi)",
+      "duration": 236
+    },
+    {
+      "id": "Djb3qJ6n3kg",
+      "title": "isdigit isalpha and isalnum String Functions in Python (Hindi)",
+      "duration": 302
+    },
+    {
+      "id": "nPFHJ6ldPww",
+      "title": "isspace String Function in Python (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "lLNfk-Qj5Lg",
+      "title": "lstrip rstrip and strip String Function in Python (Hindi)",
+      "duration": 233
+    },
+    {
+      "id": "qLXwHRtHs4c",
+      "title": "replace split and join String Functions in Python (Hindi)",
+      "duration": 534
+    },
+    {
+      "id": "xctaqvVhAQ8",
+      "title": "startswith and endswith String Functions in Python (Hindi)",
+      "duration": 276
+    },
+    {
+      "id": "24azWGQrg1A",
+      "title": "Function and How Function Work in Python (Hindi)",
+      "duration": 2157
+    },
+    {
+      "id": "6b5oOfxbrmY",
+      "title": "Return Single and Multiple Value and Variable from Function in Python (Hindi)",
+      "duration": 687
+    },
+    {
+      "id": "ZZX9_S9PjXY",
+      "title": "Nested Function in Python (Hindi)",
+      "duration": 658
+    },
+    {
+      "id": "NG1w0XxbjIo",
+      "title": "Passing a Function as Parameter in Python (Hindi)",
+      "duration": 343
+    },
+    {
+      "id": "wFiqV0sr2qA",
+      "title": "Function returning another Function in Python (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "ZxNAX3C4o5Q",
+      "title": "Actual Argument and Formal Argument in Python (Hindi)",
+      "duration": 99
+    },
+    {
+      "id": "B94y1r3RgdY",
+      "title": "Positional Argument in Python (Hindi)",
+      "duration": 351
+    },
+    {
+      "id": "yhHnwi3SUAI",
+      "title": "Keyword Argument in Python (Hindi)",
+      "duration": 374
+    },
+    {
+      "id": "EdrRlw_N6f8",
+      "title": "Default Argument in Python (Hindi)",
+      "duration": 364
+    },
+    {
+      "id": "Jwrgax1SdVI",
+      "title": "Variable Length Argument in Python (Hindi)",
+      "duration": 436
+    },
+    {
+      "id": "CAnY0hoS3TQ",
+      "title": "Keyword Variable Length Argument in Python (Hindi)",
+      "duration": 323
+    },
+    {
+      "id": "KT-dBaKav6k",
+      "title": "Anonymous Function or Lambda Expression in Python (Hindi)",
+      "duration": 833
+    },
+    {
+      "id": "AnsB-q1j5Yo",
+      "title": "Nested Lambda Function in Python (Hindi)",
+      "duration": 250
+    },
+    {
+      "id": "gVACANl51Ao",
+      "title": "Passing Lambda Function to another Function in Python (Hindi)",
+      "duration": 130
+    },
+    {
+      "id": "YL9zNwEzfRY",
+      "title": "Returning Lambda Function from a Function in Python (Hindi)",
+      "duration": 156
+    },
+    {
+      "id": "Kt4Q58yKDjc",
+      "title": "Immediately Invoked Function Expression in Python (Hindi)",
+      "duration": 207
+    },
+    {
+      "id": "B_-ZcPvvOHU",
+      "title": "Local Variable in Python (Hindi)",
+      "duration": 381
+    },
+    {
+      "id": "GEkBOwfkMOE",
+      "title": "Global Variable in Python (Hindi)",
+      "duration": 747
+    },
+    {
+      "id": "V2hF548_vSo",
+      "title": "global Keyword in Python (Hindi)",
+      "duration": 533
+    },
+    {
+      "id": "SJYVAdXAysY",
+      "title": "globals Function in Python (Hindi)",
+      "duration": 298
+    },
+    {
+      "id": "_aYI_wi0MUQ",
+      "title": "Recursion in Python (Hindi)",
+      "duration": 507
+    },
+    {
+      "id": "O1jMTtYhIzk",
+      "title": "Pass or Call by Object Reference in Python (Hindi)",
+      "duration": 1282
+    },
+    {
+      "id": "7WEtwhz-_Bs",
+      "title": "Function Decorator in Python (Hindi)",
+      "duration": 1460
+    },
+    {
+      "id": "Lsf-uvxlbhg",
+      "title": "Passing Array to Function in Python (Hindi)",
+      "duration": 189
+    },
+    {
+      "id": "uidQ3UkZetU",
+      "title": "Returning Array from Function in Python (Hindi)",
+      "duration": 221
+    },
+    {
+      "id": "d9w8n27-w00",
+      "title": "Passing and Returning Numpy Array in Python (Hindi)",
+      "duration": 122
+    },
+    {
+      "id": "FCF830GChHA",
+      "title": "Numpy Built in Math Functions in Python (Hindi)",
+      "duration": 136
+    },
+    {
+      "id": "pz-d7qV7QEY",
+      "title": "Math Functions in Python (Hindi)",
+      "duration": 343
+    },
+    {
+      "id": "N3RKGsTAYto",
+      "title": "List in Python (Hindi)",
+      "duration": 1033
+    },
+    {
+      "id": "exrZK1-beZM",
+      "title": "Accessing List using for Loop in Python (Hindi)",
+      "duration": 829
+    },
+    {
+      "id": "tf_LBGkf_is",
+      "title": "Accessing List using while Loop in Python (Hindi)",
+      "duration": 473
+    },
+    {
+      "id": "C7Xu_XB_njQ",
+      "title": "append Method in Python (Hindi)",
+      "duration": 201
+    },
+    {
+      "id": "cYXGV83r-TU",
+      "title": "Getting List input from user in Python (Hindi)",
+      "duration": 594
+    },
+    {
+      "id": "MdHlZdnM5lM",
+      "title": "insert Method in Python (Hindi)",
+      "duration": 207
+    },
+    {
+      "id": "IyM9h9vX8hc",
+      "title": "pop Method in Python (Hindi)",
+      "duration": 263
+    },
+    {
+      "id": "pMONRYQZI48",
+      "title": "remove Method in Python (Hindi)",
+      "duration": 203
+    },
+    {
+      "id": "rrPq-gAcGmU",
+      "title": "index Method in Python (Hindi)",
+      "duration": 79
+    },
+    {
+      "id": "6lBw2EX8pMg",
+      "title": "reverse Method in Python (Hindi)",
+      "duration": 80
+    },
+    {
+      "id": "TxSZqsLcucQ",
+      "title": "extend Method in Python (Hindi)",
+      "duration": 116
+    },
+    {
+      "id": "37kQ6ctlFhk",
+      "title": "count Method in Python (Hindi)",
+      "duration": 63
+    },
+    {
+      "id": "vcAPXmqjnUQ",
+      "title": "sort Method in Python (Hindi)",
+      "duration": 105
+    },
+    {
+      "id": "S_ZqdrI4e2A",
+      "title": "clear Method in Python (Hindi)",
+      "duration": 73
+    },
+    {
+      "id": "RV8raN92DZw",
+      "title": "Slicing on List in Python (Hindi)",
+      "duration": 908
+    },
+    {
+      "id": "uLqCHL9yOOY",
+      "title": "List Concatenation in Python (Hindi)",
+      "duration": 172
+    },
+    {
+      "id": "8G1MjVxfbho",
+      "title": "Repetition of List in Python (Hindi)",
+      "duration": 104
+    },
+    {
+      "id": "EjOqaZtb4uA",
+      "title": "Aliasing List in Python (Hindi)",
+      "duration": 380
+    },
+    {
+      "id": "anxifxDI5Hk",
+      "title": "Copying and Cloning List in Python (Hindi)",
+      "duration": 429
+    },
+    {
+      "id": "lo-WCO90mG8",
+      "title": "Nested List in Python (Hindi)",
+      "duration": 1491
+    },
+    {
+      "id": "YK5ZzlAiEjM",
+      "title": "Accessing Nested List using for Loop in Python (Hindi)",
+      "duration": 1057
+    },
+    {
+      "id": "M-y2mhZk4IM",
+      "title": "Accessing Nested List using while Loop in Python (Hindi)",
+      "duration": 840
+    },
+    {
+      "id": "8Mym6YeriRw",
+      "title": "Passing List to Function in Python (Hindi)",
+      "duration": 95
+    },
+    {
+      "id": "p6D7-xu_qbs",
+      "title": "Returning List from Function in Python (Hindi)",
+      "duration": 112
+    },
+    {
+      "id": "6qTDNPsTeOc",
+      "title": "list Function in Python (Hindi)",
+      "duration": 188
+    },
+    {
+      "id": "luVRkXBzd2Q",
+      "title": "Slicing Nested List in Python (Hindi)",
+      "duration": 1500
+    },
+    {
+      "id": "fnKg_zeIXrY",
+      "title": "filter Function in Python (Hindi)",
+      "duration": 972
+    },
+    {
+      "id": "h9wfdD9V5x8",
+      "title": "map Function in Python (Hindi)",
+      "duration": 615
+    },
+    {
+      "id": "_5ZctTrqVa8",
+      "title": "reduce Function in Python (Hindi)",
+      "duration": 423
+    },
+    {
+      "id": "D613yh18fQU",
+      "title": "Generator Function Yield Statement and Next Function in Python (Hindi)",
+      "duration": 763
+    },
+    {
+      "id": "6cpdtmab1L8",
+      "title": "Tuple in Python (Hindi)",
+      "duration": 852
+    },
+    {
+      "id": "8iuc4J9lyhg",
+      "title": "Access Tuple using for Loop in Python (Hindi)",
+      "duration": 362
+    },
+    {
+      "id": "MyD2kwnm3BQ",
+      "title": "Access Tuple using while Loop in Python (Hindi)",
+      "duration": 209
+    },
+    {
+      "id": "TKhaaoYI3WY",
+      "title": "Slicing Tuple in Python (Hindi)",
+      "duration": 794
+    },
+    {
+      "id": "I12Vmx0XKNQ",
+      "title": "Tuple Concatenation in Python (Hindi)",
+      "duration": 184
+    },
+    {
+      "id": "qfCgrPNVOCQ",
+      "title": "Modifying Tuple Element in Python (Hindi)",
+      "duration": 612
+    },
+    {
+      "id": "Hc6afBxOKy0",
+      "title": "Deleting Tuple in Python (Hindi)",
+      "duration": 431
+    },
+    {
+      "id": "aDu3KtzFXb8",
+      "title": "Getting Tuple input from user in Python (Hindi)",
+      "duration": 361
+    },
+    {
+      "id": "9ZTubirI0ww",
+      "title": "Repetition of Tuple in Python (Hindi)",
+      "duration": 69
+    },
+    {
+      "id": "VXNZrTEmrDg",
+      "title": "Aliasing Tuple in Python (Hindi)",
+      "duration": 295
+    },
+    {
+      "id": "Bqfq4ffqeV0",
+      "title": "How to Copy Tuple Elements in Python (Hindi)",
+      "duration": 242
+    },
+    {
+      "id": "AHI942bauNE",
+      "title": "Nested Tuple in Python (Hindi)",
+      "duration": 670
+    },
+    {
+      "id": "FHzvbuOso_E",
+      "title": "Accessing Nested Tuple using for Loop in Python (Hindi)",
+      "duration": 868
+    },
+    {
+      "id": "gXqGqj_u5Lc",
+      "title": "Accessing Nested Tuple using while Loop in Python (Hindi)",
+      "duration": 774
+    },
+    {
+      "id": "ysj9oQoHnXY",
+      "title": "Slicing Nested Tuple in Python (Hindi)",
+      "duration": 1256
+    },
+    {
+      "id": "aMl5-1r4JUU",
+      "title": "Passing Tuple to Function in Python (Hindi)",
+      "duration": 145
+    },
+    {
+      "id": "7NaRbFUdKns",
+      "title": "Returning Tuple from Function in Python (Hindi)",
+      "duration": 168
+    },
+    {
+      "id": "bHOGIwhL-PE",
+      "title": "List of Tuples in Python (Hindi)",
+      "duration": 1188
+    },
+    {
+      "id": "wuypTg8Av7U",
+      "title": "Tuple of Lists in Python (Hindi)",
+      "duration": 973
+    },
+    {
+      "id": "2wwGA1uXuAs",
+      "title": "Set Type in Python (Hindi)",
+      "duration": 731
+    },
+    {
+      "id": "etiLqstFE88",
+      "title": "Adding Single and Multiple Set Elements in Python (Hindi)",
+      "duration": 463
+    },
+    {
+      "id": "4IX9ry1PrAg",
+      "title": "Deleting Set Element in Python (Hindi)",
+      "duration": 267
+    },
+    {
+      "id": "koBqSqJvuGw",
+      "title": "Accessing Set Elements using for Loop in Python (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "c1uzCI_K3C8",
+      "title": "Getting Set input from User in Python (Hindi)",
+      "duration": 275
+    },
+    {
+      "id": "WNwHfp2LwHE",
+      "title": "Copying Set Element in Python (Hindi)",
+      "duration": 168
+    },
+    {
+      "id": "ycnx0aMzClw",
+      "title": "Clearing Set All Elements in Python (Hindi)",
+      "duration": 76
+    },
+    {
+      "id": "UsBqWd4Q8Xc",
+      "title": "Some Important Set Methods in Python (Hindi)",
+      "duration": 643
+    },
+    {
+      "id": "Yh64v2yAZGs",
+      "title": "Passing Set to Function in Python (Hindi)",
+      "duration": 101
+    },
+    {
+      "id": "2DQA1FCUDNc",
+      "title": "Returning Set from Function in Python (Hindi)",
+      "duration": 123
+    },
+    {
+      "id": "XHb_ndEGt-k",
+      "title": "Dictionary in Python (Hindi)",
+      "duration": 1118
+    },
+    {
+      "id": "ck-Ls8XjKkc",
+      "title": "Modifying Dictionary in Python (Hindi)",
+      "duration": 288
+    },
+    {
+      "id": "g-BYORhGkuo",
+      "title": "Adding Dictionary Item in Python (Hindi)",
+      "duration": 304
+    },
+    {
+      "id": "OF4zv9orVlw",
+      "title": "Deleting Dictionary Item in Python (Hindi)",
+      "duration": 191
+    },
+    {
+      "id": "PKVZFaJHgWY",
+      "title": "How to Test Dictionary Key exist or not in Python (Hindi)",
+      "duration": 189
+    },
+    {
+      "id": "JUDoSyTv0Og",
+      "title": "How to Remove All Elements from Dictionary in Python (Hindi)",
+      "duration": 68
+    },
+    {
+      "id": "AwSATxIwXZo",
+      "title": "How to Copy Dictionary in Python (Hindi)",
+      "duration": 316
+    },
+    {
+      "id": "a1kBzvNWAik",
+      "title": "Create Dictionary using formkeys Method in Python (Hindi)",
+      "duration": 242
+    },
+    {
+      "id": "VkFl4u6hc9w",
+      "title": "get Method in Python (Hindi)",
+      "duration": 246
+    },
+    {
+      "id": "cR39NJMnQdI",
+      "title": "items Method in Python (Hindi)",
+      "duration": 525
+    },
+    {
+      "id": "MfDHw4dXQxQ",
+      "title": "keys Method in Python (Hindi)",
+      "duration": 306
+    },
+    {
+      "id": "zzqHNlwwTog",
+      "title": "values Method in Python (Hindi)",
+      "duration": 264
+    },
+    {
+      "id": "-bu7sA2bQ7A",
+      "title": "update Method in Python (Hindi)",
+      "duration": 244
+    },
+    {
+      "id": "n9Q7QyXhNUY",
+      "title": "pop Method in Python (Hindi)",
+      "duration": 336
+    },
+    {
+      "id": "DXMAzERK8q0",
+      "title": "popitem Method in Python (Hindi)",
+      "duration": 108
+    },
+    {
+      "id": "7jN7Zuvgyi0",
+      "title": "setdefault Method in Python (Hindi)",
+      "duration": 256
+    },
+    {
+      "id": "auT2elx_Fqc",
+      "title": "Accessing Dictionary using for Loop in Python (Hindi)",
+      "duration": 255
+    },
+    {
+      "id": "5dPcfrqip0I",
+      "title": "Getting Dictionary input from User in Python (Hindi)",
+      "duration": 330
+    },
+    {
+      "id": "YyDlybLYpAI",
+      "title": "Nested Dictionary in Python (Hindi)",
+      "duration": 1197
+    },
+    {
+      "id": "4axhCTVGQJk",
+      "title": "Access Nested Dictionary using for Loop in Python (Hindi)",
+      "duration": 418
+    },
+    {
+      "id": "Vhted9buSKg",
+      "title": "Nested Dictionary in Python (Hindi)",
+      "duration": 918
+    },
+    {
+      "id": "mSZm1QDMW0g",
+      "title": "Access Nested Dictionary using for Loop in Python (Hindi)",
+      "duration": 615
+    },
+    {
+      "id": "ufZr8OPJXnc",
+      "title": "Passing Dictionary to Function in Python (Hindi)",
+      "duration": 116
+    },
+    {
+      "id": "zuiIMzio9Uk",
+      "title": "Returning Dictionary from Function in Python (Hindi)",
+      "duration": 128
+    },
+    {
+      "id": "m3yd3N57nVY",
+      "title": "List Comprehension in Python (Hindi)",
+      "duration": 1905
+    },
+    {
+      "id": "zxqpHRbfWzY",
+      "title": "Nested List Comprehension in Python (Hindi)",
+      "duration": 325
+    },
+    {
+      "id": "AP4GjXSVMYc",
+      "title": "Set Comprehension in Python (Hindi)",
+      "duration": 1475
+    },
+    {
+      "id": "CfIwNrCa8_4",
+      "title": "Nested Set Comprehension in Python (Hindi)",
+      "duration": 215
+    },
+    {
+      "id": "5haRWWIKTro",
+      "title": "Dictionary Comprehension in Python (Hindi)",
+      "duration": 950
+    },
+    {
+      "id": "XUmL0Kodlow",
+      "title": "How to decide when and why use Array List Tuple Set or Dictionary in Python (Hindi)",
+      "duration": 260
+    },
+    {
+      "id": "IGj4WbM894I",
+      "title": "id Function type Function and getsizeof Function in Python (Hindi)",
+      "duration": 499
+    },
+    {
+      "id": "gqFjj8kdfJM",
+      "title": "Some Important Function in Python (Hindi)",
+      "duration": 838
+    },
+    {
+      "id": "SmSbNlwBo4s",
+      "title": "len Function in Python (Hindi)",
+      "duration": 198
+    },
+    {
+      "id": "cWBA_G4A5LY",
+      "title": "min and max Function in Python (Hindi)",
+      "duration": 292
+    },
+    {
+      "id": "y5ev4Sp-Leg",
+      "title": "sorted Function in Python (Hindi)",
+      "duration": 97
+    },
+    {
+      "id": "lytCvBfMniI",
+      "title": "Membership Operator with String List Tuple Set and Dictionary in Python (Hindi)",
+      "duration": 227
+    },
+    {
+      "id": "fkAnQsW_ToM",
+      "title": "What Next After Completing Core Python (Hindi)",
+      "duration": 145
+    }
+  ]
+}

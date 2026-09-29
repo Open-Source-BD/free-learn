@@ -1,0 +1,220 @@
+{
+  "courseId": "spring-boot-tutorials-in-hindi-da822c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:41.899Z",
+  "title": "Spring Boot Tutorials In Hindi",
+  "channel": "KK HindiGyan",
+  "videos": [
+    {
+      "id": "LhC2adRUl0M",
+      "title": "Introduction to Spring Boot | What is Spring Boot? | Spring Boot Tutorial In Hindi",
+      "duration": 578
+    },
+    {
+      "id": "-eAS7n3LFrI",
+      "title": "How to download and Install spring tool suite ? | Download and Install STS IDE on Windows ? | Hindi",
+      "duration": 242
+    },
+    {
+      "id": "23aQQviREzk",
+      "title": "Spring Boot Hello World Example by using STS(Spring Tool Suite) | Spring Boot Tutorial In Hindi",
+      "duration": 830
+    },
+    {
+      "id": "3lFCgj80xAg",
+      "title": "Spring Boot Hello World Example by using Spring Initilizr | Spring Boot Tutorial In Hindi",
+      "duration": 725
+    },
+    {
+      "id": "XMkBjVJhK8g",
+      "title": "What is @SpringBootApplication annotation in Spring Boot | Spring Boot Hindi Tutorial",
+      "duration": 335
+    },
+    {
+      "id": "uLMv9NVjr8Q",
+      "title": "Introduction to Spring Boot Starters | Understanding Spring Boot Starters |Spring Boot  in Hindi",
+      "duration": 536
+    },
+    {
+      "id": "dAf_LuJpnD0",
+      "title": "Overview of Spring Boot Starter Parent | Introduction to Spring Boot Starter Parent | Hindi Tutorial",
+      "duration": 898
+    },
+    {
+      "id": "ruJ4K51swrE",
+      "title": "Deploy a Spring Boot WAR into a Tomcat Server |Deploy the Spring Boot Application on External Tomcat",
+      "duration": 670
+    },
+    {
+      "id": "2-iNKJtY8ZU",
+      "title": "Component Scanning with Spring Boot | |Component scan multiple packages spring boot | Hindi Tutorial",
+      "duration": 565
+    },
+    {
+      "id": "fSvCPHaCJaU",
+      "title": "When and why do we need ApplicationRunner interface in Spring Boot ? | Spring Boot Hindi Tutorial",
+      "duration": 943
+    },
+    {
+      "id": "pNprorYxk-Y",
+      "title": "When and why do we need CommandLineRunner interface in Spring Boot ? | Spring Boot Hindi Tutorial",
+      "duration": 922
+    },
+    {
+      "id": "VwjMT572DnI",
+      "title": "Spring Boot- Application Properties ?|Spring Boot properties file to externalize configuration|Hindi",
+      "duration": 1016
+    },
+    {
+      "id": "DddshZb_rCw",
+      "title": "Spring Boot YAML example ? | Spring Boot Application Configuration with YAML | Tutorial in Hindi",
+      "duration": 712
+    },
+    {
+      "id": "3zhwwTvXLfg",
+      "title": "What is Profiles & How to Use Profiles in Spring Boot? | How to get an active profile in spring boot",
+      "duration": 641
+    },
+    {
+      "id": "0K3eY2VzncE",
+      "title": "Spring Boot  @PropertySource Annotation with Example | Spring Boot Tutorial In Hindi",
+      "duration": 966
+    },
+    {
+      "id": "nvhvfn9lHuM",
+      "title": "Spring Boot with h2 database example? | Spring Boot and H2 in-memory database  | Hindi Tutorial",
+      "duration": 628
+    },
+    {
+      "id": "93wwvxlnQWw",
+      "title": "Spring Boot Data JPA h2 Database Example | Spring Boot JPA + H2 example | Spring Boot Hindi Tutorial",
+      "duration": 1471
+    },
+    {
+      "id": "EoGFS6dYBSs",
+      "title": "Spring Boot CRUD operations Example with h2 Database | Spring Boot CRUD Operations with DB | Hindi",
+      "duration": 1005
+    },
+    {
+      "id": "XsZIIkQmkqU",
+      "title": "Spring Boot CRUD operations Code Refactoring Example with h2 Database| Spring Boot Tutorial in Hindi",
+      "duration": 858
+    },
+    {
+      "id": "x4V40bydkzY",
+      "title": "Spring Boot + JPA + Exception Handling | Spring Data JPA repository Exception Handling | Hindi",
+      "duration": 834
+    },
+    {
+      "id": "SlDkgNVZ6ZA",
+      "title": "Spring Boot Data JPA MySQL CRUD Example | Spring Boot CRUD Example With MySQL Database | Hindi",
+      "duration": 1010
+    },
+    {
+      "id": "b5eN5BXHxqE",
+      "title": "Spring Boot Data JPA Oracle CRUD Example | Spring Boot CRUD Example With Oracle Database | Hindi",
+      "duration": 818
+    },
+    {
+      "id": "O5uEOhOtO3Q",
+      "title": "Spring Boot Rest api CRUD Example with h2 database|REST API CRUD with Spring Data H2 database |Hindi",
+      "duration": 1796
+    },
+    {
+      "id": "ZJ-hbvNgEZk",
+      "title": "Spring Boot Restful CRUD Example with MySQL Database|REST API CRUD example with MYSQL Database|Hindi",
+      "duration": 964
+    },
+    {
+      "id": "8z31kHex0bU",
+      "title": "Spring Boot Restful CRUD Example with Oracle Database | REST API CRUD example with Oracle Database",
+      "duration": 1230
+    },
+    {
+      "id": "zjx0cBjq57g",
+      "title": "How to call Rest API in SOAPUI ? | Testing Your REST API In SoapUI ? | Spring Boot Rest API | Hindi",
+      "duration": 531
+    },
+    {
+      "id": "8ybHKOL7ySc",
+      "title": "Spring Boot Exception Handling for RESTful Services Errors ? | Spring Boot Tutorial in Hindi",
+      "duration": 1648
+    },
+    {
+      "id": "XFO2G0w2N2k",
+      "title": "CrudRepository,PagingAndSortingRepository and JpaRepository in Spring Data JPA | Tutorial in Hindi",
+      "duration": 408
+    },
+    {
+      "id": "kqfdATLg6bM",
+      "title": "Spring Boot Data JPA Sorting Example | Spring Boot Tutorial in Hindi",
+      "duration": 952
+    },
+    {
+      "id": "d4jefxUJ2ss",
+      "title": "Spring Boot Data JPA Pagination Example | Spring Boot Tutorial in Hindi",
+      "duration": 630
+    },
+    {
+      "id": "isPyzppwZiU",
+      "title": "Spring boot change default port of embedded server | Spring boot change port in 6 ways | Hindi",
+      "duration": 706
+    },
+    {
+      "id": "h14c_KAdwgU",
+      "title": "How to Change Context Path in Spring Boot ? | Add context path to Spring Boot application | Hindi",
+      "duration": 762
+    },
+    {
+      "id": "z4CQr7Aklko",
+      "title": "Configure Jetty Server in Spring Boot | How to change embedded server in spring boot | Hindi",
+      "duration": 394
+    },
+    {
+      "id": "fu9qU_AfHQA",
+      "title": "Spring Boot Actuator Example | Monitoring with Spring Boot Actuator | Spring Boot Tutorial in Hindi",
+      "duration": 1166
+    },
+    {
+      "id": "3aud_eN2nrs",
+      "title": "How to configure and enable SSL for Spring Boot application ?|Enable HTTPS/SSL in Spring Boot |Hindi",
+      "duration": 1140
+    },
+    {
+      "id": "MAhgJety2zA",
+      "title": "How to resolve Whitelabel Error Page in Spring Boot? | Spring Boot Whitelabel Error Page ? | Hindi",
+      "duration": 349
+    },
+    {
+      "id": "rXWXeDGwb2U",
+      "title": "Spring Boot XML Configuration Example ? | XML Defined Beans in Spring Boot | Tutorial in Hindi",
+      "duration": 695
+    },
+    {
+      "id": "htcAvJrzm0Y",
+      "title": "Spring Boot JDBC CRUD Example | Spring Boot + Spring JDBC + MySQL CRUD Example | Tutorial in Hindi",
+      "duration": 1236
+    },
+    {
+      "id": "uAYLMvLTVzA",
+      "title": "How to Get All Spring-Managed Beans in Spring Boot? | Print all beans loaded by Spring Boot | Hindi",
+      "duration": 383
+    },
+    {
+      "id": "tCShB_ogoW4",
+      "title": "Configuring a Hikari Connection Pool with Spring Boot | HikariCP in Spring Boot | Tutorial in Hindi",
+      "duration": 997
+    },
+    {
+      "id": "ZN2jXSqgbHM",
+      "title": "Configuring a Tomcat Connection Pool in Spring Boot 2.x ? | Tomcat pool configuration example",
+      "duration": 989
+    },
+    {
+      "id": "cCnzUAwBQQg",
+      "title": "Spring Boot @ConfigurationProperties Example | How to read external properties file in spring boot ?",
+      "duration": 1505
+    }
+  ]
+}

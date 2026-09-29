@@ -1,0 +1,110 @@
+{
+  "courseId": "plc-programming-using-twincat-3-c5ecef",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:21.816Z",
+  "title": "PLC programming using TwinCAT 3",
+  "channel": "Jakob Sagatowski",
+  "videos": [
+    {
+      "id": "WkNOm-hMH3k",
+      "title": "PLC programming using TwinCAT 3 - Introduction (Part 1/18)",
+      "duration": 667
+    },
+    {
+      "id": "0iDn9E0V1iw",
+      "title": "PLC programming using TwinCAT 3 - Basics & installation (Part 2/18)",
+      "duration": 1356
+    },
+    {
+      "id": "P9uUgT8EhUM",
+      "title": "PLC programming using TwinCAT 3 - Tasks, programs & “Hello world” (Part 3/18)",
+      "duration": 3330
+    },
+    {
+      "id": "JSFvSu8uB9U",
+      "title": "PLC programming using TwinCAT 3 -  Data types & arrays (Part 4/18)",
+      "duration": 2356
+    },
+    {
+      "id": "zB_2x0NPMGc",
+      "title": "PLC programming using TwinCAT 3 - Structures & functions (Part 5/18)",
+      "duration": 2081
+    },
+    {
+      "id": "kd3NY7-IHRk",
+      "title": "PLC programming using TwinCAT 3 - Function blocks & interfaces (Part 6a/18)",
+      "duration": 2811
+    },
+    {
+      "id": "phpFd2UIFwo",
+      "title": "PLC programming using TwinCAT 3 - Function blocks & interfaces (Part 6b/18)",
+      "duration": 2084
+    },
+    {
+      "id": "pnLgRNb09qE",
+      "title": "PLC programming using TwinCAT 3 - Instructions (Part 7/18)",
+      "duration": 3564
+    },
+    {
+      "id": "n94JY-5-0jg",
+      "title": "PLC programming using TwinCAT 3 - Tc2_Standard (Part 8/18)",
+      "duration": 1854
+    },
+    {
+      "id": "1s5O8srtDTM",
+      "title": "PLC programming using TwinCAT 3 - TwinCAT utilities (Part 9/18)",
+      "duration": 3330
+    },
+    {
+      "id": "zQwiBeDbDcM",
+      "title": "PLC programming using TwinCAT 3 - IO (Part 10/18)",
+      "duration": 2522
+    },
+    {
+      "id": "rWWPWuUYFbg",
+      "title": "PLC programming using TwinCAT 3 - Libraries (Part 11/18)",
+      "duration": 1320
+    },
+    {
+      "id": "FOC0rUeECDs",
+      "title": "PLC programming using TwinCAT 3 - TwinCAT functions (Part 12/18)",
+      "duration": 2385
+    },
+    {
+      "id": "1g6eYnlzKtA",
+      "title": "PLC programming using TwinCAT 3 - Version control (Part 13/18)",
+      "duration": 3568
+    },
+    {
+      "id": "RxWEi21mDjM",
+      "title": "PLC programming using TwinCAT 3 - Handling of different TwinCAT versions (Part 14/18)",
+      "duration": 1633
+    },
+    {
+      "id": "JZChSdU2LMc",
+      "title": "PLC programming using TwinCAT 3 - ADS (Part 15/18)",
+      "duration": 2955
+    },
+    {
+      "id": "7Z6K7uf6qIY",
+      "title": "PLC programming using TwinCAT 3 - TwinCAT automation interface (Part 16/18)",
+      "duration": 2838
+    },
+    {
+      "id": "FnXY6MA3axw",
+      "title": "PLC programming using TwinCAT 3 - Test driven development (Part 17a/18)",
+      "duration": 3981
+    },
+    {
+      "id": "dcqbbF7Lmbk",
+      "title": "PLC programming using TwinCAT 3 - Test driven development (Part 17b/18)",
+      "duration": 1941
+    },
+    {
+      "id": "gyBf5M5hrCY",
+      "title": "PLC programming using TwinCAT 3 - Final thoughts (Part 18/18)",
+      "duration": 354
+    }
+  ]
+}

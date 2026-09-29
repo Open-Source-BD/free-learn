@@ -1,0 +1,175 @@
+{
+  "courseId": "learn-solidity-9d3242",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:40.994Z",
+  "title": "Solidity",
+  "channel": "Will it Scale",
+  "videos": [
+    {
+      "id": "v_hU0jPtLto",
+      "title": "Learning Solidity : Tutorial 1 The Basics",
+      "duration": 537
+    },
+    {
+      "id": "6hkmLOtIq8A",
+      "title": "Learning Solidity : Tutorial 2 Inheritance",
+      "duration": 799
+    },
+    {
+      "id": "3ObTNzDM3wI",
+      "title": "Learning Solidity : Tutorial 3 Custom Modifiers and Error Handling",
+      "duration": 777
+    },
+    {
+      "id": "0Lyf_3kA3Ms",
+      "title": "Learning Solidity : Tutorial 4 Imports and Libraries",
+      "duration": 668
+    },
+    {
+      "id": "Jlq997yOoRs",
+      "title": "Learning Solidity : Tutorial 5 Event logging and Transaction Information",
+      "duration": 658
+    },
+    {
+      "id": "8UhO3IKApSg",
+      "title": "Learning Solidity : Tutorial 6 Data Types (Array, Mapping, Struct)",
+      "duration": 1215
+    },
+    {
+      "id": "6iiWwT0O2fY",
+      "title": "Learning Solidity : Tutorial 7 Extending String Functionality and Bytes",
+      "duration": 910
+    },
+    {
+      "id": "7z52hP26MFs",
+      "title": "Learning Solidity : Tutorial 8 Debugging Solidity Using Remix",
+      "duration": 635
+    },
+    {
+      "id": "r7XojpIDuhA",
+      "title": "Learning Solidity : Tutorial 9 ERC20 Tokens and Creating your own Crypto Currency",
+      "duration": 1394
+    },
+    {
+      "id": "IWC9-yGoDGs",
+      "title": "Learning Solidity : Tutorial 10 ERC223 Tokens and Creating your own Crypto Currency",
+      "duration": 925
+    },
+    {
+      "id": "WfkPTyvOL_g",
+      "title": "Learning Solidity : Tutorial 11 Deploying Tokens and Creating your own Crypto Currency",
+      "duration": 591
+    },
+    {
+      "id": "nkGN6GwkMzU",
+      "title": "Learning Solidity : Tutorial 12 Functional Assembly",
+      "duration": 1114
+    },
+    {
+      "id": "axZJ2NFMH5Q",
+      "title": "Learning Solidity : Tutorial 13 Instructional Assembly",
+      "duration": 1350
+    },
+    {
+      "id": "ELWSKMcJfI8",
+      "title": "Learning Solidity : Tutorial 14 Transferring Ethereum between contracts",
+      "duration": 627
+    },
+    {
+      "id": "Ii4g38mPPlg",
+      "title": "Learning Solidity : Tutorial 15 Public vs External",
+      "duration": 396
+    },
+    {
+      "id": "HGw-yalqdgs",
+      "title": "Learning Solidity : Tutorial 16 Time Based Events",
+      "duration": 1365
+    },
+    {
+      "id": "l_E5F5qnbtk",
+      "title": "Learning Solidity : Tutorial 17 Polymorphism",
+      "duration": 518
+    },
+    {
+      "id": "3wY5PRliphE",
+      "title": "Learning Solidity : Tutorial 18 Randomness and Gambling",
+      "duration": 2118
+    },
+    {
+      "id": "zkNHRJEuYQg",
+      "title": "Learning Solidity : Tutorial 19 Nested Arrays and Storage",
+      "duration": 2051
+    },
+    {
+      "id": "v3aoiTh-UVQ",
+      "title": "Learning Solidity : Tutorial 20 Parameter Mapping and Multiple Return Values",
+      "duration": 484
+    },
+    {
+      "id": "YcTSilIfih0",
+      "title": "Learning Solidity : Tutorial 21 Truffle, Atom and TestRPC",
+      "duration": 1451
+    },
+    {
+      "id": "Cow_aL7NUGY",
+      "title": "Learning Solidity : Tutorial 22 Developing an ICO/Crowdsale with TDD",
+      "duration": 2459
+    },
+    {
+      "id": "RKos31UueqY",
+      "title": "Learning Solidity : Tutorial 23 State Modifiers (view, pure, constant)",
+      "duration": 436
+    },
+    {
+      "id": "OwavQTuHoM8",
+      "title": "Learning Solidity : Tutorial 24 Multisig Wallet",
+      "duration": 918
+    },
+    {
+      "id": "23YLeX7mpbU",
+      "title": "Learning Solidity : Tutorial 25 Multisig Wallet cont. Multi Authentication",
+      "duration": 2262
+    },
+    {
+      "id": "LGCMZ7S_ITE",
+      "title": "Learning Solidity : Tutorial 26 Auditing, Security and Testing (Long, but important)",
+      "duration": 4275
+    },
+    {
+      "id": "eog2eYrPEu0",
+      "title": "Learning Solidity : Tutorial 27 Getting started with browser development using Metamask",
+      "duration": 1497
+    },
+    {
+      "id": "bvxKICus3bw",
+      "title": "Learning Solidity : Tutorial 28 Address book on the blockchain powered by Angular",
+      "duration": 2151
+    },
+    {
+      "id": "yOfYNUQVjxk",
+      "title": "Learning Solidity : Tutorial 29 What is WEI and how is Ether defined?",
+      "duration": 335
+    },
+    {
+      "id": "sPrYkYk_Beo",
+      "title": "Learning Solidity : Tutorial 30 Gas Explained",
+      "duration": 1139
+    },
+    {
+      "id": "fzUGvU2dXxU",
+      "title": "Learning Solidity : Tutorial 31 Interacting with RPC using Java and web3j",
+      "duration": 971
+    },
+    {
+      "id": "kJ905hVbQ_E",
+      "title": "Learning Solidity : Tutorial 32 Transferring ether with Java using web3j",
+      "duration": 1255
+    },
+    {
+      "id": "ibAh04Csp0M",
+      "title": "Learning Solidity : Tutorial 33 Deploying and using a contract using Java and web3j",
+      "duration": 1619
+    }
+  ]
+}

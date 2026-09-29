@@ -1,0 +1,185 @@
+{
+  "courseId": "system-design-playlist-in-hindi-3138ea",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:35:04.630Z",
+  "title": "System Design Playlist in Hindi",
+  "channel": "Engineering Digest",
+  "videos": [
+    {
+      "id": "43-X22tdxiI",
+      "title": "What is system design process in software engineering ?",
+      "duration": 141
+    },
+    {
+      "id": "z4AUhxIWKSM",
+      "title": "Monolithic Architecture In Hindi  ( Complete Explanation )",
+      "duration": 530
+    },
+    {
+      "id": "MPxr1q8ORuA",
+      "title": "Difference between monolithic and microservices architecture in Hindi",
+      "duration": 317
+    },
+    {
+      "id": "cG3LMd2hIXY",
+      "title": "What is latency in networking in Hindi | How to reduce latency in network | CDN vs Caching",
+      "duration": 320
+    },
+    {
+      "id": "IhemzDuCwgU",
+      "title": "What is throughput in Hindi  ? ( How to improve throughput ? )",
+      "duration": 199
+    },
+    {
+      "id": "Cdh9qAwFNNk",
+      "title": "What is availability ? ( replication vs redundancy)",
+      "duration": 335
+    },
+    {
+      "id": "2GKay0Mwk4U",
+      "title": "What is Consistency in System Design in Hindi ( Strong vs Eventual Consistency )",
+      "duration": 382
+    },
+    {
+      "id": "rb2R5I9S5d8",
+      "title": "What is CAP theorem in Hindi ?",
+      "duration": 612
+    },
+    {
+      "id": "27wYlcIYAO8",
+      "title": "What is Lamport Logical Clock ?",
+      "duration": 188
+    },
+    {
+      "id": "dHjHXis1r24",
+      "title": "Difference between horizontal and vertical scaling in Hindi",
+      "duration": 259
+    },
+    {
+      "id": "d9kA8CW8Cns",
+      "title": "Difference between Redundancy and Replication in Hindi ( Master - Slave Replication )",
+      "duration": 476
+    },
+    {
+      "id": "bIBC_RQtS2E",
+      "title": "What is load balancer and How it works in Hindi ( Load Balancing Algorithms in Hindi)",
+      "duration": 618
+    },
+    {
+      "id": "xBTGln828Ps",
+      "title": "What is Caching in Hindi (Complete Explanation)",
+      "duration": 456
+    },
+    {
+      "id": "IaDU8_KjrpY",
+      "title": "Cache Eviction Techniques in Hindi ( LRU, LFU, MRU, LIFO, FIFO & RR )",
+      "duration": 237
+    },
+    {
+      "id": "ZtpIzSZbuh0",
+      "title": "File based storage system in Hindi ( File Based Database Management System in Hindi )",
+      "duration": 118
+    },
+    {
+      "id": "VOrpRnE24KI",
+      "title": "Can RDBMS scale horizontally in Hindi ? ( Why is it hard to scale relational database ? )",
+      "duration": 443
+    },
+    {
+      "id": "qxFj8X8n6CE",
+      "title": "Types of NoSQL Databases in Hindi ( Which one to use  and where ? )",
+      "duration": 405
+    },
+    {
+      "id": "z7wB95TXB8M",
+      "title": "What is Polyglot Persistence in Hindi ?",
+      "duration": 119
+    },
+    {
+      "id": "o8HgXxqsYBc",
+      "title": "What is denormalization in RDBMS in Hindi",
+      "duration": 283
+    },
+    {
+      "id": "xXtig5uLQS4",
+      "title": "How does indexing work in Databases in Hindi ( How to optimize SQL Queries in Hindi )",
+      "duration": 452
+    },
+    {
+      "id": "W7ppbYgrhwg",
+      "title": "What is Synchronous communication in Hindi",
+      "duration": 283
+    },
+    {
+      "id": "MyiLxH8St0U",
+      "title": "What is synchronous and asynchronous communication in Hindi",
+      "duration": 395
+    },
+    {
+      "id": "6HKwwJOFHOY",
+      "title": "What is message based communication in Hindi ?",
+      "duration": 135
+    },
+    {
+      "id": "1_8a8-__6ts",
+      "title": "What is web server in Hindi",
+      "duration": 317
+    },
+    {
+      "id": "zaArcSrLPa8",
+      "title": "What is communication protocol in computer network in Hindi",
+      "duration": 316
+    },
+    {
+      "id": "SvBnrJKzH8k",
+      "title": "REST API | SOA | Microservices architecture | Tier architecture",
+      "duration": 673
+    },
+    {
+      "id": "B76BhEq1FN8",
+      "title": "Difference between Authentication and Authorization in Hindi",
+      "duration": 123
+    },
+    {
+      "id": "2x1L563nTlU",
+      "title": "Basic Authentication in Hindi",
+      "duration": 65
+    },
+    {
+      "id": "VPnYuwwg0rU",
+      "title": "Token Based Authentication in Hindi",
+      "duration": 76
+    },
+    {
+      "id": "EYQijvnyYp0",
+      "title": "OAuth Authentication in Hindi",
+      "duration": 119
+    },
+    {
+      "id": "dBtpV7aN_20",
+      "title": "Forward proxy and reverse proxy Explained in Hindi",
+      "duration": 201
+    },
+    {
+      "id": "Q5jPD2ECEgM",
+      "title": "Reverse proxy server in Hindi",
+      "duration": 256
+    },
+    {
+      "id": "QcT9-OuNTDI",
+      "title": "Rate Limiting: Fixed window vs Token Bucket Algorithm",
+      "duration": 158
+    },
+    {
+      "id": "9csfoQK2T8g",
+      "title": "URL shortener system design in Hindi | Tinyurl system design in Hindi | Bitly system design in Hindi",
+      "duration": 1026
+    },
+    {
+      "id": "k8AObcX8azM",
+      "title": "Dropbox system design in Hindi | Google drive system design in Hindi",
+      "duration": 709
+    }
+  ]
+}

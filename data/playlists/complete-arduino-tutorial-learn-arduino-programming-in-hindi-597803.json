@@ -1,0 +1,145 @@
+{
+  "courseId": "complete-arduino-tutorial-learn-arduino-programming-in-hindi-597803",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:42.036Z",
+  "title": "Complete Arduino Tutorial Learn Arduino Programming in Hindi",
+  "channel": "Techtalks With Vivek",
+  "videos": [
+    {
+      "id": "jGM5lvcveFA",
+      "title": "Learn Arduino Programming in Hindi| How to learn arduino programming language in Hindi (Lesson 1)",
+      "duration": 1670
+    },
+    {
+      "id": "67cr75U07DY",
+      "title": "How to use Breadboard with Arduino in Hindi (Lesson 2)",
+      "duration": 1382
+    },
+    {
+      "id": "vBWx00sFHck",
+      "title": "Interfacing LEDs with  Arduino in Hindi (Lesson 3)",
+      "duration": 1256
+    },
+    {
+      "id": "IOKwN_OH74c",
+      "title": "How to use Serial Monitor and its Various Functions with Arduino in Hindi (Lesson 4)",
+      "duration": 962
+    },
+    {
+      "id": "_gtxODt5SL8",
+      "title": "How to use Strings With Arduino in Hindi (Lesson 5)",
+      "duration": 643
+    },
+    {
+      "id": "OidTKigoc8E",
+      "title": "How to get Input from User using Serial Monitor in Hindi (Lesson 6)",
+      "duration": 679
+    },
+    {
+      "id": "bO_VbWf7hgU",
+      "title": "How to Input different Datatypes using Serial Monitor in Hindi (Lesson 7)",
+      "duration": 529
+    },
+    {
+      "id": "riDTcdHzIK8",
+      "title": "How to use While Loops with Arduino in Hindi (Lesson 8)",
+      "duration": 707
+    },
+    {
+      "id": "aQ01KTahdc0",
+      "title": "How to Write Analog Values to Arduino using analogWrite ( ) function in Hindi (Lesson 9)",
+      "duration": 1178
+    },
+    {
+      "id": "qB5cOEM6JYg",
+      "title": "How to Read  Analog Values using Arduino - analogRead ( ) function in Hindi (Lesson 10)",
+      "duration": 759
+    },
+    {
+      "id": "T6la4OL5-_8",
+      "title": "How to create a Dimmable Led using Potentiometer with Arduino in Hindi (Lesson 11)",
+      "duration": 1147
+    },
+    {
+      "id": "YVwdhdk3vhg",
+      "title": "How to Interface Servo Motor with Arduino in Hindi (Lesson 12)",
+      "duration": 860
+    },
+    {
+      "id": "ZSVe-ZNupx0",
+      "title": "How to Interface RGB Led with Arduino in Hindi (Lesson 13)",
+      "duration": 1061
+    },
+    {
+      "id": "tYcPNMPGYKk",
+      "title": "How to Control RGB Led using Potentiometer in Hindi (Lesson 14)",
+      "duration": 1260
+    },
+    {
+      "id": "-Ys8zth09qw",
+      "title": "How to Control Servo Motor with Potentiometer (Arduino) in Hindi (Lesson 15)",
+      "duration": 1069
+    },
+    {
+      "id": "P_oQ8vjXIuo",
+      "title": "How to Interface Ultra Sonic Sensor HC SR04 with Arduino in Hindi (Lesson 16)",
+      "duration": 1010
+    },
+    {
+      "id": "9xH1aPlHaIc",
+      "title": "How to Interface Soil Moisture Sensor with Arduino in Hindi (Lesson 17)",
+      "duration": 772
+    },
+    {
+      "id": "EWiv8tUieUA",
+      "title": "Fire Detection Alarm using IR Flame Sensor with Arduino in Hindi (Lesson 18 )",
+      "duration": 591
+    },
+    {
+      "id": "2zLcRTjw2CA",
+      "title": "How to connect and use Analog Joystick with Arduino",
+      "duration": 563
+    },
+    {
+      "id": "i92ccEdtJgk",
+      "title": "Push Button and LED control with Arduino",
+      "duration": 428
+    },
+    {
+      "id": "FXGuMJHzcSg",
+      "title": "#19 Controlling LED with a Push Button Learn Arduino Programming from Scratch in Hindi By Vivek Garg",
+      "duration": 492
+    },
+    {
+      "id": "Tqaxi5-FX_c",
+      "title": "#20 DIY Piano with Arduino| Make your own piano using Push Buttons by Vivek Garg",
+      "duration": 1416
+    },
+    {
+      "id": "4XpyBSbRsns",
+      "title": "#21 Motion Detecting Alarm | Interfacing PIR sensor with Arduino| Vivek Garg | MostlyPrograming",
+      "duration": 685
+    },
+    {
+      "id": "75gDH18s3Is",
+      "title": "#22 Water Level Indicator with Arduino| Learn Arduino in Hindi| Vivek Garg | MostlyPrograming",
+      "duration": 801
+    },
+    {
+      "id": "O315YaolNUY",
+      "title": "#23 16 x 2 LCD with Arduino| Arduino course for beginners in Hindi| Vivek Garg| MostlyPrograming",
+      "duration": 918
+    },
+    {
+      "id": "kaDX4V8HcM8",
+      "title": "#24 Distance measuring device using ultrasonic sensor, LCD with Arduino| Vivek Garg-MostlyPrograming",
+      "duration": 953
+    },
+    {
+      "id": "Pqdnz7Cvo1U",
+      "title": "#25 Automatic Gate Controller using Servo Motor and Ultra Sonic Sensor| MostlyPrograming| Vivek Garg",
+      "duration": 812
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "courseId": "java-beginner-dcd33d",
+  "sourceUrl": "https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:25.930Z",
+  "title": "Java Beginner",
+  "channel": "Coding with John",
+  "videos": [
+    {
+      "id": "6WYJLkd3R9M",
+      "title": "Create Your First Java Program from Scratch in Minutes",
+      "duration": 591
+    },
+    {
+      "id": "drQK8ciCAjY",
+      "title": "Learn Java in One Video - 15-minute Crash Course",
+      "duration": 894
+    },
+    {
+      "id": "pgBk8HC7jbU",
+      "title": "Java Constructors - Full Tutorial",
+      "duration": 458
+    },
+    {
+      "id": "wq9SJb8VeyM",
+      "title": "Java Enums Explained in 6 Minutes",
+      "duration": 358
+    },
+    {
+      "id": "r9CMJZ4T__8",
+      "title": "Final Keyword in Java Full Tutorial - Final Classes, Methods, and Variables",
+      "duration": 597
+    },
+    {
+      "id": "ScUJx4aWRi0",
+      "title": "Java File Input/Output - It's Way Easier Than You Think",
+      "duration": 498
+    },
+    {
+      "id": "j_ax_yT7KW0",
+      "title": "Number Guessing Game in Java Tutorial (Beginning to End)",
+      "duration": 874
+    },
+    {
+      "id": "DyqMglmrido",
+      "title": "Create Rock Paper Scissors in Java in 10 Minutes",
+      "duration": 624
+    },
+    {
+      "id": "AoUVdLWLFQw",
+      "title": ".equals() vs. == in Java - The Real Difference",
+      "duration": 528
+    },
+    {
+      "id": "NbYgm0r7u6o",
+      "title": "Array vs. ArrayList in Java Tutorial - What's The Difference?",
+      "duration": 1056
+    },
+    {
+      "id": "WQ7mvQFSmYc",
+      "title": "Primitives Data Types In Java - All the Primitives And What They Do",
+      "duration": 624
+    },
+    {
+      "id": "P-_Nzi_mCRo",
+      "title": "Java Main Method Explained - What Does All That Stuff Mean?",
+      "duration": 430
+    },
+    {
+      "id": "uA4eQbC3JgA",
+      "title": "How to Run Java Programs With Command Prompt (cmd) and Notepad in Windows",
+      "duration": 343
+    },
+    {
+      "id": "0lOnnd50cGI",
+      "title": "Insertion Sort Algorithm in Java - Full Tutorial With Source",
+      "duration": 617
+    },
+    {
+      "id": "cum3OrpURzc",
+      "title": "Fibonacci Series In Java With Recursion - Full Tutorial (FAST Algorithm)",
+      "duration": 911
+    },
+    {
+      "id": "ZibsO2doQjU",
+      "title": "Java's Hello World Is About To Change Forever",
+      "duration": 622
+    }
+  ]
+}

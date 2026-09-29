@@ -1,0 +1,735 @@
+{
+  "courseId": "data-structures-by-nargish-gupta-7588ee",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:00.826Z",
+  "title": "Data Structures by Nargish Gupta",
+  "channel": "NG Tutorials",
+  "videos": [
+    {
+      "id": "9_lcmRg-OTY",
+      "title": "Data Structures Introduction | Types of Data Structures | PART 1.1",
+      "duration": 484
+    },
+    {
+      "id": "x05pgALKCcA",
+      "title": "Stack Data Structures | Push Algorithm | Pop Algorithm | PART 1.2",
+      "duration": 633
+    },
+    {
+      "id": "s_3p9yPlKME",
+      "title": "Stack Data Structures | Stack Data Structures Application | PART 1.3",
+      "duration": 458
+    },
+    {
+      "id": "fs-8IiKa1cI",
+      "title": "Infix to Postfix Conversion Using Stack Data Structure | PART 1.4",
+      "duration": 396
+    },
+    {
+      "id": "qZ3F3itWTsY",
+      "title": "Infix to Prefix Conversion using Stack Data Structure | PART 1.5",
+      "duration": 358
+    },
+    {
+      "id": "a80VikTnVM8",
+      "title": "Infix to Postfix Conversion Using Stack Data Structure | Table Method | PART 1.6",
+      "duration": 678
+    },
+    {
+      "id": "lAsMHOot8Do",
+      "title": "Evaluation of Postfix Expression Using Stack Data Structure | PART 1.7",
+      "duration": 460
+    },
+    {
+      "id": "48Ojr9yQzpg",
+      "title": "Stack Implementation | Stack Implementation using Array | Program to Implementation stack in C",
+      "duration": 641
+    },
+    {
+      "id": "_LTkon7VdOM",
+      "title": "Stack GATE Questions | GATE Question on Stack | GATE | Data Structure | PART 1.8",
+      "duration": 480
+    },
+    {
+      "id": "waLHzKLpw9Q",
+      "title": "Stack GATE Questions | GATE Question on Stack | Stack | Data Structure | PART 1.9",
+      "duration": 461
+    },
+    {
+      "id": "8o8iCb-iOAo",
+      "title": "Queue in Data Structure | Introduction to Queue | Basics of Queue Data Structure | PART 1.11",
+      "duration": 852
+    },
+    {
+      "id": "fR3L3AER3gQ",
+      "title": "Circular Queue in Data Structure | Circular Queue | Queue by Nargish Gupta | PART 1.12",
+      "duration": 582
+    },
+    {
+      "id": "pLTkk-ZKwuI",
+      "title": "Queue in Data Structures | GATE Questions on Queue Data Structure | PART 1.13",
+      "duration": 677
+    },
+    {
+      "id": "ViVAj37h9CU",
+      "title": "Programming GATE Questions | GATE Questions on Programming-1 | PART 1.14",
+      "duration": 601
+    },
+    {
+      "id": "3PErHzvCMHg",
+      "title": "Programming GATE Questions | GATE Questions on Programming-2 | Data Structures | PART 1.15",
+      "duration": 474
+    },
+    {
+      "id": "jSSlm2FGCCw",
+      "title": "GATE Programming and Data Structures Questions | Questions Based on Programming-3 | PART 1.16",
+      "duration": 523
+    },
+    {
+      "id": "1Xwqm1zag40",
+      "title": "Linked List in Data Structure | Linked List Introduction | Data Structure | PART 1.17",
+      "duration": 524
+    },
+    {
+      "id": "8xCnwJ76r8E",
+      "title": "Linked List in Data Structures | Linked list Traversal in Data Structure | PART 1.18",
+      "duration": 726
+    },
+    {
+      "id": "SzgYfrO57gc",
+      "title": "Linked List Insertion in Data Structures | Algorithm for Inserting a Node at the End | PART 1.19",
+      "duration": 753
+    },
+    {
+      "id": "MCfNQvrql4Y",
+      "title": "Linked List Insertion in Data Structure | Algorithm for Inserting a Node at the Front | PART 1.20",
+      "duration": 660
+    },
+    {
+      "id": "NjFMW3La25g",
+      "title": "Linked List Insertion in Data Structures | Inserting a Node at the Specific Position | PART 1.21",
+      "duration": 791
+    },
+    {
+      "id": "PI5phyUqFN4",
+      "title": "Program to Create a Singly Linked List | Linked List Implementation using C | PART 1",
+      "duration": 2003
+    },
+    {
+      "id": "50yUTWKrFRs",
+      "title": "Linked List Insertion Program C |  Linked List Program to Insert a Node at a Specific Position",
+      "duration": 1216
+    },
+    {
+      "id": "1yT4fB8xsqM",
+      "title": "Linked List Deletion in Data Structures | Deleting a Node at the Specific Position | PART 1.24",
+      "duration": 546
+    },
+    {
+      "id": "7empPbrGlv0",
+      "title": "Linked List Deletion in Data Structures | Algorithm for Deleting a Node at the End | PART 1.22",
+      "duration": 527
+    },
+    {
+      "id": "kz2bSUSvu_k",
+      "title": "Linked List Deletion in Data Structures | Algorithm for Deleting a Node at the Front | PART 1.23",
+      "duration": 323
+    },
+    {
+      "id": "uoiqvjVJ1bA",
+      "title": "Linked List Deletion Program in C | Program to Delete a node at the End and Beginning",
+      "duration": 1294
+    },
+    {
+      "id": "F6jZUgygKg8",
+      "title": "Linked List Project in C | Mini Project on Linked List | C Programming",
+      "duration": 2704
+    },
+    {
+      "id": "6FJYdmJ2PME",
+      "title": "Circular Linked List in Data Structures | Algorithm for Inserting a node at the End  | PART 1.25",
+      "duration": 817
+    },
+    {
+      "id": "B83wjx-_rYE",
+      "title": "Circular Linked List in Data Structures | Algorithm for Inserting a node at the Front | PART 1.26",
+      "duration": 705
+    },
+    {
+      "id": "QT9OxHoOt-0",
+      "title": "Circular Linked List in Data Structures | Inserting a node at the Specific Position | PART 1.27",
+      "duration": 547
+    },
+    {
+      "id": "1bVUveYGoXU",
+      "title": "Circular Linked List in Data Structure | Algorithm for Deleting a node at the end | PART 1.28",
+      "duration": 433
+    },
+    {
+      "id": "nkDLyzsqwDM",
+      "title": "Circular Linked List | Algorithm for Deleting a Node at the Front | PART 1.29",
+      "duration": 429
+    },
+    {
+      "id": "FjzPj1S5HJ8",
+      "title": "Circular Linked List | Algorithm for Deleting a Node at the Specific Position | PART 1.30",
+      "duration": 549
+    },
+    {
+      "id": "FotSliK2w-0",
+      "title": "Linked List Deletion Program in C | Program to Delete a node at a Specified Position",
+      "duration": 878
+    },
+    {
+      "id": "uuTJyxrupoI",
+      "title": "Doubly Linked List in Data Structures | Introduction to Doubly Linked List | PART 1.31",
+      "duration": 508
+    },
+    {
+      "id": "_vw1yhOQnd8",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Inserting a Node at the End | PART 1.32",
+      "duration": 552
+    },
+    {
+      "id": "Z11AlncwjTI",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Inserting a Node at the Front | PART 1.33",
+      "duration": 536
+    },
+    {
+      "id": "1-zVGnEnVk0",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Inserting a Node at the Specific Position | 34",
+      "duration": 731
+    },
+    {
+      "id": "8FxonMv-VvQ",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Deleting a Node at the end  | PART 1.35",
+      "duration": 412
+    },
+    {
+      "id": "aC8s9_uBCKY",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Deleting a Node at the Front | PART 1.36",
+      "duration": 421
+    },
+    {
+      "id": "1p8op3NTF8w",
+      "title": "Doubly Linked List in Data Structures | Algorithm for Deleting a Node at the Specific Position",
+      "duration": 450
+    },
+    {
+      "id": "n2dAYEC22DQ",
+      "title": "Binary Tree Traversal in Data Structure | Tree Traversal Example | Tree | Data Structure | PART 2.1",
+      "duration": 524
+    },
+    {
+      "id": "k8UnkjbeT6g",
+      "title": "Binary Tree Traversal in Data Structure | Binary Tree Traversal Example-1 | Tree | PART 2.2",
+      "duration": 285
+    },
+    {
+      "id": "pyP-wpwRdvE",
+      "title": "Binary Tree Traversal in Data Structure | Binary Tree Traversal Example-2 | Tree | PART 2.3",
+      "duration": 214
+    },
+    {
+      "id": "9TsrKI5N8fQ",
+      "title": "Binary Tree Traversal in data Structure | GATE Question on Binary Tree Traversal-1 | PART 2.4",
+      "duration": 287
+    },
+    {
+      "id": "elrlR4O-R8o",
+      "title": "Binary Tree Traversal in Data Structure | GATE Question on Binary Tree Traversal- 2 | PART 2.5",
+      "duration": 208
+    },
+    {
+      "id": "xaaku_jGyzo",
+      "title": "Binary Search Tree Traversal | GATE Question on Binary Search Tree Traversal-3 | GATE | PART 2.6",
+      "duration": 364
+    },
+    {
+      "id": "Y7RBQNm7l3M",
+      "title": "GATE 2020 | GATE Previous Years Question on Tree Traversal | Inorder, Preorder, Postorder | PART 2.7",
+      "duration": 436
+    },
+    {
+      "id": "ZP1AyESEXKk",
+      "title": "Binary Search Tree Insertion in Data Structure | BST Insertion | Binary Search Tree | PART 3.1",
+      "duration": 392
+    },
+    {
+      "id": "9oJdXGfYjHE",
+      "title": "Binary Search Tree Deletion in Data Structure | BST Deletion | Tree Data Structure | PART 3.2",
+      "duration": 586
+    },
+    {
+      "id": "VaDidxd1Bt8",
+      "title": "Binary Search Tree | GATE Question on Binary Search Tree | BST | GATE | PART 3.3",
+      "duration": 291
+    },
+    {
+      "id": "0X1FbA3oSyA",
+      "title": "AVL Tree Introduction",
+      "duration": 837
+    },
+    {
+      "id": "hpRyD92Lkqg",
+      "title": "AVL Tree Rotations in Data Structures | AVL Tree Insertion | AVL Tree PART 4.1",
+      "duration": 1102
+    },
+    {
+      "id": "Oz8dSj1YR_Y",
+      "title": "AVL Tree in Data Structure | AVL Tree Insertion | Height Balanced Tree Example-1 | PART 4.2",
+      "duration": 777
+    },
+    {
+      "id": "bkyOt0HIloU",
+      "title": "AVL Tree Insertion in Data Structure| AVL Tree  Insertion Example-2 | PART 4.3",
+      "duration": 1381
+    },
+    {
+      "id": "FBp7UCTocv4",
+      "title": "AVL Tree Deletion in Data Structure | AVL Deletion Example-1 | AVL Tree PART 4.4",
+      "duration": 494
+    },
+    {
+      "id": "b3RMuPS2WL8",
+      "title": "AVL Tree Deletion in Data Structure | AVL Tree Deletion Example-2 | PART 4.5",
+      "duration": 862
+    },
+    {
+      "id": "qlU8MbhnDIw",
+      "title": "AVL Tree in Data Structures | GATE Previous Year Questions on AVL Tree | GATE",
+      "duration": 351
+    },
+    {
+      "id": "Sp0BsuEG5s0",
+      "title": "Red Black Tree Properties in Data Structure | Red Black Tree Properties | PART 5.1",
+      "duration": 478
+    },
+    {
+      "id": "U1XnMDGfnr4",
+      "title": "Red Black Tree Insertion Properties | Red Black Tree Insertion | Data Structure | PART 5.2",
+      "duration": 614
+    },
+    {
+      "id": "vQUXO2XYUl8",
+      "title": "Red Black Tree in Data Structure| Red Black Tree Rotations | Red Black tree Insertion | PART 5.3",
+      "duration": 513
+    },
+    {
+      "id": "yqpgSpzaul4",
+      "title": "Red Black Tree in Data Structure | Red Black Tree Insertion Example | PART 5.4",
+      "duration": 532
+    },
+    {
+      "id": "AgM4MP1cCpA",
+      "title": "Red Black Tree | Red Black Tree Insertion | Red Black Tree Example-2 | PART 5.5",
+      "duration": 1064
+    },
+    {
+      "id": "Y3zKXWwbQEc",
+      "title": "Red Black Tree | Red Black Tree Deletion | Red Black Tree Cases-1| PART 5.6",
+      "duration": 930
+    },
+    {
+      "id": "wz7BhCvtplo",
+      "title": "Red Black Tree | Red Black Tree Deletion | Red Black Tree Deletion Cases-2 | PART 5.7",
+      "duration": 1213
+    },
+    {
+      "id": "_UIfIL97E2Y",
+      "title": "Red Black Tree Deletion | Red Black Tree Example-1 | Red Black tree Deletion Cases | PART 5.8",
+      "duration": 1112
+    },
+    {
+      "id": "sRgou2GHOjI",
+      "title": "Red Black Tree in Data Structure | Red Black Tree Deletion | Red Black Tree Examples-2 | PART 5.9",
+      "duration": 1012
+    },
+    {
+      "id": "kr2umJLdO04",
+      "title": "2-3 Tree in Data Structures | 3 order B Tree | 2-3 Tree Insertion",
+      "duration": 844
+    },
+    {
+      "id": "TfyCXEggI8U",
+      "title": "B- Tree in Data Structure | B-TREES Properties | Tree Data Structure | PART 6.1",
+      "duration": 586
+    },
+    {
+      "id": "_BsfxGtJlt0",
+      "title": "B-Tree in Data Structure | B Tree Insertion Example | PART 6.2",
+      "duration": 740
+    },
+    {
+      "id": "cHfuxVhtvEI",
+      "title": "B Tree in Data Structure | B-Tree Insertion Example | PART 6.3",
+      "duration": 622
+    },
+    {
+      "id": "ffVZ02TKeMc",
+      "title": "B-Tree Deletion Example | B Tree Deletion in Data Structure | Tree Data Structure | PART 6.4",
+      "duration": 667
+    },
+    {
+      "id": "1NEqnaEfaGo",
+      "title": "B+ Tree in Data Structure | B+ Tree Basics | B Tree | Tree Data Structure | PART 6.5",
+      "duration": 527
+    },
+    {
+      "id": "9UefzLLLSuQ",
+      "title": "B+ Tree in  Data Structure | B+ Tree Construction | Tree Data Structure | PART 6.6",
+      "duration": 755
+    },
+    {
+      "id": "IetBUAEN2GY",
+      "title": "B+ Tree in Data Structures | GATE Questions on B+ Tree | PART 6.7",
+      "duration": 311
+    },
+    {
+      "id": "T1s6t3hIEno",
+      "title": "B+ Tree in Data Structure | B+ Tree GATE Questions | PART 6.8",
+      "duration": 350
+    },
+    {
+      "id": "96OxXolif7Q",
+      "title": "Comparison Between Binary Tree, BST, AVL, Red -Black, B, B+ Tree | Tree Data Structure | PART 6.9",
+      "duration": 661
+    },
+    {
+      "id": "U9XelrYrLQY",
+      "title": "Heap Tree in Data Structures | Heap Tree Basics | Heap Data Structure | PART 7.1",
+      "duration": 478
+    },
+    {
+      "id": "5uj4pKDba3w",
+      "title": "Heap Sort in Data Structure | Min Heap Insertion | Min Heap Sort | PART  7.2",
+      "duration": 396
+    },
+    {
+      "id": "gQ5ZyLW7YBs",
+      "title": "Heap Sort in Data Structure | Max Heap Insertion | Max Heap Sort | PART 7.3",
+      "duration": 295
+    },
+    {
+      "id": "63oG0Comev0",
+      "title": "Heap Sort in Data Structure | Min Heap Deletion | Min Heap Sort | PART 7.4",
+      "duration": 350
+    },
+    {
+      "id": "OzPXeBOToZE",
+      "title": "Heap Sort in Data Structure | Max Heap Deletion Example | PART 7.5",
+      "duration": 207
+    },
+    {
+      "id": "cjNJHTMTDRk",
+      "title": "Heap Sort in Data Structure | GATE Questions on Heap Sort Algorithm | MIN-MAX Heap | PART 7.6",
+      "duration": 324
+    },
+    {
+      "id": "3hMnhq-Prhc",
+      "title": "Heap Sort in Data Structure | GATE Question-2 | MIN-MAX Heap | PART 7.7",
+      "duration": 330
+    },
+    {
+      "id": "dRQAW9CiYFE",
+      "title": "Binary Search | Binary Search Algorithm | Searching Algorithm in Data Structure | PART 8.1",
+      "duration": 836
+    },
+    {
+      "id": "dOhSt2t5OYg",
+      "title": "Introduction to Sorting Algorithms | Sorting | Parameters of Sorting | Data Structures | PART 8.2",
+      "duration": 583
+    },
+    {
+      "id": "fk2sNEfs__s",
+      "title": "Bubble Sort Algorithm | Bubble Sort Algorithm and Its Analysis  | Data Structure | PART 8.3",
+      "duration": 772
+    },
+    {
+      "id": "eHy0Mqjx4mw",
+      "title": "Bubble Sort Algorithm | Bubble Sort Example | Data Structure | PART 8.4",
+      "duration": 742
+    },
+    {
+      "id": "a5MAQRwmzbs",
+      "title": "Insertion Sort | Insertion Sort Algorithm and Analysis | Data Structures  | PART 8.5",
+      "duration": 943
+    },
+    {
+      "id": "qR0o8CAdlvM",
+      "title": "Insertion Sort Algorithm | Insertion Sort Example | Data Structures | PART 8.6",
+      "duration": 541
+    },
+    {
+      "id": "CkrX5GzJjqc",
+      "title": "Insertion Sort in C | Insertion Sort Program | Implementation of Insertion Sort Algorithm",
+      "duration": 455
+    },
+    {
+      "id": "fma4DPEg20Q",
+      "title": "Selection Sort | Selection Sort Algorithm and Analysis | Data Structure | PART 8.7",
+      "duration": 908
+    },
+    {
+      "id": "KKLTMEF9PsY",
+      "title": "Selection Sort Algorithm | Selection Sort Example | Data Structure | PART 8.8",
+      "duration": 549
+    },
+    {
+      "id": "Pud7DTXufa8",
+      "title": "Quick Sort Algorithm| Divide and Conquer| Quick Sort Algorithm Analysis | PART 3.2",
+      "duration": 967
+    },
+    {
+      "id": "CePinut3-Ns",
+      "title": "Selection Sort in C | Selection Sort Program | Implementation of Selection Sort Algorithm",
+      "duration": 405
+    },
+    {
+      "id": "a-SSk0S_M9M",
+      "title": "Quick Sort Algorithm | Quick Sort Example | Algorithm Design | PART 3.3",
+      "duration": 539
+    },
+    {
+      "id": "lRUWCq12Uro",
+      "title": "Quicksort in C | Quick Sort Program | Implementation of Quick Sort Algorithm",
+      "duration": 692
+    },
+    {
+      "id": "T8qXdfvzAOE",
+      "title": "Merge Sort Algorithm | Divide and Conquer | Merge Sort Algorithm Analysis | PART 3.4",
+      "duration": 736
+    },
+    {
+      "id": "S5z7-EpJwOo",
+      "title": "Merge Sort Algorithm | Merge Sort Example | Algorithm Design | PART 3.5",
+      "duration": 429
+    },
+    {
+      "id": "OfMph4y2giA",
+      "title": "Comparison of Various Sorting Algorithms | Time and Space Complexity | Placement Preparation",
+      "duration": 1512
+    },
+    {
+      "id": "AF5PPEtwTzo",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2020",
+      "duration": 2192
+    },
+    {
+      "id": "ggWnTBvgFw4",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2018",
+      "duration": 857
+    },
+    {
+      "id": "-gkgeKYwMt4",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2017",
+      "duration": 2025
+    },
+    {
+      "id": "jhbYdXccjn8",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2016",
+      "duration": 2197
+    },
+    {
+      "id": "ZuHsL0Q1jhQ",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2015- SET-1",
+      "duration": 1621
+    },
+    {
+      "id": "HEQSqibnS2A",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2015- SET-2",
+      "duration": 1677
+    },
+    {
+      "id": "4q7aoRtlBaA",
+      "title": "GATE Computer Science | Complete Paper Solution | Data Structures and Algorithm | GATE 2015- SET-3",
+      "duration": 707
+    },
+    {
+      "id": "f8-m-zTd6DM",
+      "title": "UGC-NET 2021 Computer Science Paper solution | UGC-NET Data Structures and Algorithm | Part-A",
+      "duration": 1190
+    },
+    {
+      "id": "uqiCTnJdSjI",
+      "title": "UGC-NET 2021 Computer Science Paper solution | UGC-NET Data Structures and Algorithm | Part-B",
+      "duration": 973
+    },
+    {
+      "id": "y4v9HCPw3_A",
+      "title": "UGC-NET-JUN 2019 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 891
+    },
+    {
+      "id": "bsvNqJU5-FM",
+      "title": "UGC-NET-DEC 2019 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1220
+    },
+    {
+      "id": "erQDrKWxuSE",
+      "title": "UGC-NET-JULY 2018 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1469
+    },
+    {
+      "id": "GMeBa4muQsk",
+      "title": "UGC-NET-DEC 2018 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1153
+    },
+    {
+      "id": "hx4_sdNjL8Q",
+      "title": "UGC-NET-JAN 2017 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1476
+    },
+    {
+      "id": "R1_Az0sDefU",
+      "title": "UGC-NET-NOV 2017 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1253
+    },
+    {
+      "id": "X2FHsP6FF_c",
+      "title": "UGC-NET-AUG 2016 | Computer Science Paper Solution | Data Structures and Algorithm",
+      "duration": 1201
+    },
+    {
+      "id": "G0uojt8slMI",
+      "title": "UGC- NET-JULY 2016  Paper Solution | Data Structures and Algorithm",
+      "duration": 1121
+    },
+    {
+      "id": "qkwOJmMdMRw",
+      "title": "UGC- NET JUN-2015  | Data Structure and Algorithm Questions Solutions",
+      "duration": 984
+    },
+    {
+      "id": "s7zOKsRVKqY",
+      "title": "Minimum Cost Spanning Tree | Krushkal's Algorithm Example | Greedy Technique | MST",
+      "duration": 933
+    },
+    {
+      "id": "MQQIKq7_DTE",
+      "title": "Prim's Algorithm | Minimum Cost Spanning Tree | Prim's Algorithm Example | Greedy Technique | MST",
+      "duration": 694
+    },
+    {
+      "id": "LLS9z-pxusU",
+      "title": "GATE | Minimum Cost Spanning Tree | Prim's and Kruskal's Algorithm | GATE CSE Questions | PART- I",
+      "duration": 1809
+    },
+    {
+      "id": "zjKnr01OPFM",
+      "title": "BFS & DFS Graph Traversals Algorithms  Breadth-First Search & Depth First Search Example",
+      "duration": 1498
+    },
+    {
+      "id": "2DJpZvajlTU",
+      "title": "GATE | Minimum Cost Spanning Tree | Prim's and Kruskal's Algorithm | GATE CSE Questions | PART-2",
+      "duration": 1085
+    },
+    {
+      "id": "Ls2LVw8-2Uo",
+      "title": "Hashing | Separate Chaining | Collision Resolving Techniques",
+      "duration": 579
+    },
+    {
+      "id": "zc99YXKuVqY",
+      "title": "Linear Probing in Hashing | Collision Resolving Techniques | Hashing | Example",
+      "duration": 799
+    },
+    {
+      "id": "pkcUnMRRxFg",
+      "title": "Placement Interview Questions | Data Structures Interview Questions | Placement Preparation | Part1",
+      "duration": 1589
+    },
+    {
+      "id": "6Yxww-B1M5w",
+      "title": "Placement Preparation | Data Structures Interview Questions and Answers | PART 2",
+      "duration": 924
+    },
+    {
+      "id": "DmzyrFPJLwo",
+      "title": "Placement Preparation | Data Structures Interview Questions and Answers | Part-3",
+      "duration": 721
+    },
+    {
+      "id": "95fYJCPwr2o",
+      "title": "Implement Queue using Stack | Placement Preparation | Data Structures Interview Questions | Part 4",
+      "duration": 978
+    },
+    {
+      "id": "_JOspbUgeqc",
+      "title": "Implement Stack using Queue | Placement Preparation | Data Structures Interview Questions | Part 5",
+      "duration": 769
+    },
+    {
+      "id": "flel1DKXdY0",
+      "title": "Placement Preparation | Data Structures Interview Questions | Placement Questions | Part 6",
+      "duration": 911
+    },
+    {
+      "id": "Vbprkn_4tA0",
+      "title": "Reverse a Linked List | Linked List Reverse | Placement Question | Placement Preparation",
+      "duration": 462
+    },
+    {
+      "id": "wxPUsZCoZdA",
+      "title": "Remove Duplicates from a Sorted Linked List | Placement Preparation",
+      "duration": 410
+    },
+    {
+      "id": "Ja94ZAuVJus",
+      "title": "Placement Preparation | Data Structures Interview Questions | Placement Questions | Part 10",
+      "duration": 1053
+    },
+    {
+      "id": "0jgcq18Gd2U",
+      "title": "Merge Sort in C | Merge Sort Program | Implementation of Merge Sort Algorithm",
+      "duration": 688
+    },
+    {
+      "id": "ELGWnSQvnw0",
+      "title": "Bubble Sort Program in C | Bubble Sort Algorithm Implementation",
+      "duration": 516
+    },
+    {
+      "id": "7joumurG3Mg",
+      "title": "Implementation of Queue Data Structure | Queue Data Structure in C",
+      "duration": 627
+    },
+    {
+      "id": "yJwo0OjTEYk",
+      "title": "Implementation of Circular Queue Data Structure | Circular Queue Program using C",
+      "duration": 1081
+    },
+    {
+      "id": "xRQnqh3efis",
+      "title": "Randomized Quick Sort Algorithm | Randomized Quicksort Example | Algorithm Design | PART 3.6",
+      "duration": 710
+    },
+    {
+      "id": "m3y31pYaPtA",
+      "title": "GATE 2023 | Data Structure and Algorithm Questions Solution | GATE 2024 Preparation",
+      "duration": 856
+    },
+    {
+      "id": "am62PcSPvGc",
+      "title": "GATE 2022 | Consider the Queues q1 Containing Four Elements | Data Structure GATE Questions",
+      "duration": 424
+    },
+    {
+      "id": "dckoZe9VGHo",
+      "title": "GATE 2022 | Let GV,E be a directed graph, where V = { 1 , 2 , 3 , 4 , 5 } | Data Structure",
+      "duration": 619
+    },
+    {
+      "id": "BiKmiKavNOA",
+      "title": "GATE 2022 | Suppose a Binary Search Tree with 1000 Distinct Elements is Also a Complete Binary Tree",
+      "duration": 555
+    },
+    {
+      "id": "mWnAg-ZqApQ",
+      "title": "AVL Tree Rotations",
+      "duration": 556
+    }
+  ]
+}

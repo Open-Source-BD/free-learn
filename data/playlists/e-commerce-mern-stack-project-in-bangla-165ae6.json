@@ -1,0 +1,470 @@
+{
+  "courseId": "e-commerce-mern-stack-project-in-bangla-165ae6",
+  "sourceUrl": "https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:08.722Z",
+  "title": "E-commerce MERN Stack Project in Bangla",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "HgSzKpQ2XCI",
+      "title": "E-commerce MERN Project Bangla Tutorial 1 : Project Planning",
+      "duration": 409
+    },
+    {
+      "id": "aHuv22vKyfA",
+      "title": "E-commerce MERN Project Bangla Tutorial 2 : Environment setup",
+      "duration": 205
+    },
+    {
+      "id": "s6wYxEfzar0",
+      "title": "E-commerce MERN Project Bangla Tutorial 3 : Create Express server",
+      "duration": 675
+    },
+    {
+      "id": "6mgYlxmExIs",
+      "title": "E-commerce MERN Project Bangla Tutorial 4 : HTTP Request and response",
+      "duration": 785
+    },
+    {
+      "id": "RGN9zGpbWeE",
+      "title": "E-commerce MERN Project Bangla Tutorial 5 : nodemon and morgan package",
+      "duration": 578
+    },
+    {
+      "id": "-8eVSWQQfSE",
+      "title": "E-commerce MERN Project Bangla Tutorial 6 : API Testing using Postman",
+      "duration": 452
+    },
+    {
+      "id": "J8B530IdEjc",
+      "title": "E-commerce MERN Project Bangla Tutorial 7 : Middleware in Express",
+      "duration": 1042
+    },
+    {
+      "id": "vQkbDVH5GzM",
+      "title": "E-commerce MERN Project Bangla Tutorial 8 : Express Error Middleware",
+      "duration": 359
+    },
+    {
+      "id": "MK8GBcTyHh8",
+      "title": "E-commerce MERN Project Bangla Tutorial 9 : Handing HTTP Errors",
+      "duration": 440
+    },
+    {
+      "id": "dqCtM0MCgQs",
+      "title": "E-commerce MERN Project Bangla Tutorial 10 : API Security",
+      "duration": 380
+    },
+    {
+      "id": "iQmXixexwGE",
+      "title": "E-commerce MERN Project Bangla Tutorial 11 : env variable & gitignore",
+      "duration": 426
+    },
+    {
+      "id": "XgFtMOAhDeE",
+      "title": "E-commerce MERN Project Bangla Tutorial 12 : MVC Architecture Setup",
+      "duration": 857
+    },
+    {
+      "id": "XWCh6lFN8hE",
+      "title": "E-commerce MERN Project Bangla Tutorial 13 : Database connection",
+      "duration": 995
+    },
+    {
+      "id": "0VlieFw3t4A",
+      "title": "E-commerce MERN Project Bangla Tutorial 14 : User schema and model",
+      "duration": 1298
+    },
+    {
+      "id": "zviOJid0cBo",
+      "title": "E-commerce MERN Project Bangla Tutorial 15 : Create A Seeding API",
+      "duration": 598
+    },
+    {
+      "id": "JiQ9noA-HJg",
+      "title": "E-commerce MERN Project Bangla Tutorial 16 : GET users | searching, pagination",
+      "duration": 1353
+    },
+    {
+      "id": "ZcYTHUg9hjA",
+      "title": "E-commerce MERN Project Bangla Tutorial 17 : Response Controller",
+      "duration": 578
+    },
+    {
+      "id": "B7BohVEJZHQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 18 : find a single user by id",
+      "duration": 507
+    },
+    {
+      "id": "5LrEuBtCiFc",
+      "title": "E-commerce MERN Project Bangla Tutorial 19 : findUserbyId service",
+      "duration": 441
+    },
+    {
+      "id": "N5yIPXcncEw",
+      "title": "E-commerce MERN Project Bangla Tutorial 20 : delete a user by id",
+      "duration": 600
+    },
+    {
+      "id": "4iXq0_5nRVM",
+      "title": "E-commerce MERN Project Bangla Tutorial 21 : refactoring and dynamic",
+      "duration": 415
+    },
+    {
+      "id": "aWzx8VXe0Hg",
+      "title": "E-commerce MERN Project Bangla Tutorial 22 : delete image helper function",
+      "duration": 446
+    },
+    {
+      "id": "-5BAozwEutU",
+      "title": "E-commerce MERN Project Bangla Tutorial 23 : How to register an user",
+      "duration": 967
+    },
+    {
+      "id": "uNl3_hubaeE",
+      "title": "E-commerce MERN Project Bangla Tutorial 24 : create json web token",
+      "duration": 996
+    },
+    {
+      "id": "loS0s879Vdg",
+      "title": "E-commerce MERN Project Bangla Tutorial 25 : prepare smtp and email",
+      "duration": 777
+    },
+    {
+      "id": "HeQrLC1sLVA",
+      "title": "E-commerce MERN Project Bangla Tutorial 26 : send email with nodemailer",
+      "duration": 1331
+    },
+    {
+      "id": "Mx2oypZtuGQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 27 : verify email & register user",
+      "duration": 746
+    },
+    {
+      "id": "LqU0xViCJDY",
+      "title": "E-commerce MERN Project Bangla Tutorial 28 : how to upload images",
+      "duration": 772
+    },
+    {
+      "id": "zqcNjrJVKnQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 29 : file size & type filtering",
+      "duration": 651
+    },
+    {
+      "id": "D8YTwTTg9Yg",
+      "title": "E-commerce MERN Project Bangla Tutorial 30 : refactoring file uploading",
+      "duration": 343
+    },
+    {
+      "id": "J2E85Zks_j0",
+      "title": "E-commerce MERN Project Bangla Tutorial 31 : input validation",
+      "duration": 1584
+    },
+    {
+      "id": "ZYfe1t78dT4",
+      "title": "E-commerce MERN Project Bangla Tutorial 32 : storing image as buffer",
+      "duration": 763
+    },
+    {
+      "id": "NYxpXq_vYBs",
+      "title": "E-commerce MERN Project Bangla Tutorial 33 : update user by id",
+      "duration": 1690
+    },
+    {
+      "id": "CpkgnOH2TgY",
+      "title": "E-commerce MERN Project Bangla Tutorial 34 : File upload and delete refactoring",
+      "duration": 1533
+    },
+    {
+      "id": "3wGNOX1uLk0",
+      "title": "E-commerce MERN Project Bangla Tutorial 35 : overall review and handling undefined",
+      "duration": 404
+    },
+    {
+      "id": "rF5XxOaOvyw",
+      "title": "E-commerce MERN Project Bangla Tutorial 36 : user login using JWT",
+      "duration": 1634
+    },
+    {
+      "id": "FSp-T9AqvPo",
+      "title": "E-commerce MERN Project Bangla Tutorial 37 : user logout controller",
+      "duration": 214
+    },
+    {
+      "id": "CIgf3OS1WQ4",
+      "title": "E-commerce MERN Project Bangla Tutorial 38 : isLoggedIn middleware",
+      "duration": 842
+    },
+    {
+      "id": "olp87JPOhIo",
+      "title": "E-commerce MERN Project Bangla Tutorial 39 : isLoggedOut middleware",
+      "duration": 298
+    },
+    {
+      "id": "80IDDYGEJ1g",
+      "title": "E-commerce MERN Project Bangla Tutorial 40 : isLoggedOut middleware part-2",
+      "duration": 123
+    },
+    {
+      "id": "kZjpZWwlEsY",
+      "title": "E-commerce MERN Project Bangla Tutorial 41 : isAdmin middleware",
+      "duration": 567
+    },
+    {
+      "id": "HyTaZ6oGVqM",
+      "title": "E-commerce MERN Project Bangla Tutorial 42 : input validation for login",
+      "duration": 593
+    },
+    {
+      "id": "I7X6WTErhiQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 43 : How to ban and unban user",
+      "duration": 909
+    },
+    {
+      "id": "2Z12vZivwHo",
+      "title": "E-commerce MERN Project Bangla Tutorial 44 : ban or unban combined and use service",
+      "duration": 1101
+    },
+    {
+      "id": "sHIezmcp6RA",
+      "title": "E-commerce MERN Project Bangla Tutorial 45 : service for finding all users",
+      "duration": 473
+    },
+    {
+      "id": "_FtHO1wsNe0",
+      "title": "E-commerce MERN Project Bangla Tutorial 46 : service for finding a user",
+      "duration": 244
+    },
+    {
+      "id": "UZLaoko7FgQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 47 : service for delete user by id",
+      "duration": 248
+    },
+    {
+      "id": "3wbXeKV2EuM",
+      "title": "E-commerce MERN Project Bangla Tutorial 48 : service for updating user by id",
+      "duration": 501
+    },
+    {
+      "id": "6TCnDoDudZY",
+      "title": "E-commerce MERN Project Bangla Tutorial 49 : handle Mongoose cast error",
+      "duration": 318
+    },
+    {
+      "id": "oMhZxSfyWfI",
+      "title": "E-commerce MERN Project Bangla Tutorial 50 : update password",
+      "duration": 1205
+    },
+    {
+      "id": "W74k8clG8ZM",
+      "title": "E-commerce MERN Project Bangla Tutorial 51 : service for updating password",
+      "duration": 463
+    },
+    {
+      "id": "suiiB8pD6Rw",
+      "title": "E-commerce MERN Project Bangla Tutorial 52 : forget password controller",
+      "duration": 708
+    },
+    {
+      "id": "noL-EsGX9Ok",
+      "title": "E-commerce MERN Project Bangla Tutorial 53 : service for forget password",
+      "duration": 450
+    },
+    {
+      "id": "KreqFxAtpA0",
+      "title": "E-commerce MERN Project Bangla Tutorial 54 : reset password controller",
+      "duration": 785
+    },
+    {
+      "id": "tQicCTtPifs",
+      "title": "E-commerce MERN Project Bangla Tutorial 55 : service for reset password",
+      "duration": 298
+    },
+    {
+      "id": "BTFuuGRPRpc",
+      "title": "E-commerce MERN Project Bangla Tutorial 56 : refresh token & protected route",
+      "duration": 1430
+    },
+    {
+      "id": "VrjK_C4m3NA",
+      "title": "E-commerce MERN Project Bangla Tutorial 57 : refactoring controllers and routes",
+      "duration": 1034
+    },
+    {
+      "id": "tVV9obT4yGQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 58 : Modularity",
+      "duration": 492
+    },
+    {
+      "id": "Ep4Zqk458vA",
+      "title": "E-commerce MERN Project Bangla Tutorial 59 : winston logger",
+      "duration": 908
+    },
+    {
+      "id": "rqjv9yY8_Wg",
+      "title": "E-commerce MERN Project Bangla Tutorial 60 : category model & validation",
+      "duration": 439
+    },
+    {
+      "id": "az3rP0XGfnc",
+      "title": "E-commerce MERN Project Bangla Tutorial 61 : Create category",
+      "duration": 1309
+    },
+    {
+      "id": "gA69seIhKwQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 62 : Read categories",
+      "duration": 555
+    },
+    {
+      "id": "ixQDaViqyf4",
+      "title": "E-commerce MERN Project Bangla Tutorial 63 : update category",
+      "duration": 769
+    },
+    {
+      "id": "MgEtpcefvVk",
+      "title": "E-commerce MERN Project Bangla Tutorial 64 : delete category",
+      "duration": 306
+    },
+    {
+      "id": "avHdH8RdTbg",
+      "title": "E-commerce MERN Project Bangla Tutorial 65 : Product model",
+      "duration": 802
+    },
+    {
+      "id": "KKWYrBtpPJg",
+      "title": "E-commerce MERN Project Bangla Tutorial 66 : seed products",
+      "duration": 433
+    },
+    {
+      "id": "SAziHXrBYkw",
+      "title": "E-commerce MERN Project Bangla Tutorial 67 : Create product with validation",
+      "duration": 1408
+    },
+    {
+      "id": "uX9BBVP0gJw",
+      "title": "E-commerce MERN Project Bangla Tutorial 68 : create product part-2",
+      "duration": 1275
+    },
+    {
+      "id": "ecHgX7xwPbQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 69 : Read | find all products",
+      "duration": 1212
+    },
+    {
+      "id": "oNp6heIilaI",
+      "title": "E-commerce MERN Project Bangla Tutorial 70 : Read | find single product",
+      "duration": 377
+    },
+    {
+      "id": "jRwNQ3ZST74",
+      "title": "E-commerce MERN Project Bangla Tutorial 71 : Delete a product",
+      "duration": 278
+    },
+    {
+      "id": "oAVFUsBj5J0",
+      "title": "E-commerce MERN Project Bangla Tutorial 72 : delete product part-2",
+      "duration": 286
+    },
+    {
+      "id": "cF0t_V-TugE",
+      "title": "E-commerce MERN Project Bangla Tutorial 73 : Update a product",
+      "duration": 711
+    },
+    {
+      "id": "VZvxJLon4gY",
+      "title": "E-commerce MERN Project Bangla Tutorial 74 : update product part-2",
+      "duration": 843
+    },
+    {
+      "id": "gofruatV5Ww",
+      "title": "E-commerce MERN Project Bangla Tutorial 75 : search products in database",
+      "duration": 196
+    },
+    {
+      "id": "d052YtwWe54",
+      "title": "E-commerce MERN Project Bangla Tutorial 76 : Upload files to Cloudinary",
+      "duration": 959
+    },
+    {
+      "id": "w7zUMzFc4v0",
+      "title": "E-commerce MERN Project Bangla Tutorial 77 : delete files from Cloudinary",
+      "duration": 1374
+    },
+    {
+      "id": "0aOypTn6IjQ",
+      "title": "E-commerce MERN Project Bangla Tutorial 78 : uploading product images to cloudinary",
+      "duration": 204
+    },
+    {
+      "id": "G_D_dKdgAu8",
+      "title": "E-commerce MERN Project Bangla Tutorial 79 : updating files in Cloudinary",
+      "duration": 433
+    },
+    {
+      "id": "O0pQISD4wNg",
+      "title": "E-commerce MERN Project Bangla Tutorial 80 : create react app",
+      "duration": 730
+    },
+    {
+      "id": "ittySX1JsrA",
+      "title": "E-commerce MERN Project Bangla Tutorial 81 : Features of React | JSX",
+      "duration": 562
+    },
+    {
+      "id": "I2tuvPea4ms",
+      "title": "E-commerce MERN Project Bangla Tutorial 82 : basic routing setup",
+      "duration": 885
+    },
+    {
+      "id": "FFn0S3d2t-c",
+      "title": "E-commerce MERN Project Bangla Tutorial 83 : Page Title Setup",
+      "duration": 547
+    },
+    {
+      "id": "dQgR7Aa6QfY",
+      "title": "E-commerce MERN Project Bangla Tutorial 84 : Navigation setup",
+      "duration": 511
+    },
+    {
+      "id": "jNXS2dEKclk",
+      "title": "E-commerce MERN Project Bangla Tutorial 85 : Footer setup",
+      "duration": 825
+    },
+    {
+      "id": "GKljmQWEytk",
+      "title": "E-commerce MERN Project Bangla Tutorial 86 : sidebar & home page setup",
+      "duration": 399
+    },
+    {
+      "id": "k4f274e37Ys",
+      "title": "E-commerce MERN Project Bangla Tutorial 87 : Redux Toolkit setup",
+      "duration": 1540
+    },
+    {
+      "id": "ADFDxhipgiI",
+      "title": "Your Complete Guide to Full Stack Web Development in 2024 (Bangla)",
+      "duration": 2171
+    },
+    {
+      "id": "Hm9eZqRbt24",
+      "title": "VS Code extensions for web developer in Bangla | Part-1",
+      "duration": 1125
+    },
+    {
+      "id": "8o6XSVwA4xw",
+      "title": "VS Code extensions for web developer in Bangla | Part-2",
+      "duration": 1483
+    },
+    {
+      "id": "t27dWDbswfw",
+      "title": "preparing project presentation slides | প্রজেক্ট প্রেজেন্টেশন স্লাইড তৈরির কৌশল",
+      "duration": 661
+    },
+    {
+      "id": "JW9i206NVKI",
+      "title": "Web Development Basics: URL, Front-End, Back-End, API, Database",
+      "duration": 879
+    }
+  ]
+}

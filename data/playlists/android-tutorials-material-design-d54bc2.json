@@ -1,0 +1,35 @@
+{
+  "courseId": "android-tutorials-material-design-d54bc2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:26.537Z",
+  "title": "Android Material Design English Tutorials",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "4t4NIApkm7M",
+      "title": "Android Studio Tutorial : CardView with material design (part-1)",
+      "duration": 1036
+    },
+    {
+      "id": "XethZDYTw4M",
+      "title": "Android Studio Tutorial : CardView with material design (part-2)",
+      "duration": 770
+    },
+    {
+      "id": "2aNNoHXOeJs",
+      "title": "Android Studio Tutorial : NavigationDrawer (part-1)",
+      "duration": 1145
+    },
+    {
+      "id": "mMr3WRH-abs",
+      "title": "Android Studio Tutorial : NavigationDrawer (part-2)",
+      "duration": 386
+    },
+    {
+      "id": "LyMTkftkndw",
+      "title": "How to generate signed apk | Android EnglishTutorial 2019",
+      "duration": 170
+    }
+  ]
+}

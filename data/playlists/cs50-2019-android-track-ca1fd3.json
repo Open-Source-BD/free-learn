@@ -1,0 +1,45 @@
+{
+  "courseId": "cs50-2019-android-track-ca1fd3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:53.132Z",
+  "title": "CS50 2019 - Android Track",
+  "channel": "CS50",
+  "videos": [
+    {
+      "id": "acqZaszVZH4",
+      "title": "CS50 Tracks 2019 - Android - Introduction",
+      "duration": 38
+    },
+    {
+      "id": "oi4U6_-yrCs",
+      "title": "CS50 Tracks 2019 - Android - Lesson 1",
+      "duration": 2758
+    },
+    {
+      "id": "gTy13ioTddg",
+      "title": "CS50 Tracks 2019 - Android - Lesson 2",
+      "duration": 3566
+    },
+    {
+      "id": "OJQ8Cse6-Ss",
+      "title": "CS50 Tracks 2019 - Android - Lesson 3",
+      "duration": 2165
+    },
+    {
+      "id": "pmmKvPlPIDs",
+      "title": "CS50 Tracks 2019 - Android - Lesson 4",
+      "duration": 1858
+    },
+    {
+      "id": "N9xIO_bQFm4",
+      "title": "CS50 Tracks 2019 - Android - Lesson 5",
+      "duration": 3010
+    },
+    {
+      "id": "3WmSmNTs70U",
+      "title": "CS50 Tracks 2019 - Android - Conclusion",
+      "duration": 44
+    }
+  ]
+}

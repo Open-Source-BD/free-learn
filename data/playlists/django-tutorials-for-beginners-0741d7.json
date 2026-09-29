@@ -1,0 +1,180 @@
+{
+  "courseId": "django-tutorials-for-beginners-0741d7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:31.139Z",
+  "title": "Django Tutorials For Beginners",
+  "channel": "ProgrammingWithHarry",
+  "videos": [
+    {
+      "id": "MxF8YOJI0nU",
+      "title": "Installing VS Code, Django & More | Django Tutorial #1",
+      "duration": 1016
+    },
+    {
+      "id": "pHQj9dVw5OA",
+      "title": "How Django Works with HTML, CSS & JavaScript | Django Tutorial #2",
+      "duration": 1130
+    },
+    {
+      "id": "ghyntulVyqA",
+      "title": "Folder Structure of a Django Application | Django Tutorial #3",
+      "duration": 813
+    },
+    {
+      "id": "Ay4P500hZdE",
+      "title": "Apps, Projects and UrlPatterns in Django | Django Tutorial #4",
+      "duration": 1504
+    },
+    {
+      "id": "eBBmnbYontM",
+      "title": "MVT Pattern in Django | Django Tutorial #5",
+      "duration": 1212
+    },
+    {
+      "id": "46QEz7g9esc",
+      "title": "Creating a Developer Portfolio Website Using Django | Django Tutorial #6",
+      "duration": 1018
+    },
+    {
+      "id": "LQLg-Gvioes",
+      "title": "Using Templates & Django Template Engine in Django | Django Tutorial #7",
+      "duration": 920
+    },
+    {
+      "id": "nsF0NLwkSPA",
+      "title": "Portfolio Website: Integrating Bootstrap with Django | Django Tutorial #8",
+      "duration": 1333
+    },
+    {
+      "id": "ESky4QTOVZo",
+      "title": "Adding Further Design to our Developer Portfolio Website | Django Tutorial #9",
+      "duration": 1273
+    },
+    {
+      "id": "To879URvX0c",
+      "title": "Models in Django: Saving Form Data To The Database | Django Tutorial #10",
+      "duration": 1506
+    },
+    {
+      "id": "iC7rc7LQFRc",
+      "title": "Understanding the Django Admin Interface | Django Tutorial #11",
+      "duration": 856
+    },
+    {
+      "id": "nIMYRqwFpVM",
+      "title": "Customizing the Django Admin Interface | Django Tutorial #12",
+      "duration": 956
+    },
+    {
+      "id": "G-kdYhufgDo",
+      "title": "Using Static Files & StaticFiles Dirs in Django | Django Tutorial #13",
+      "duration": 1078
+    },
+    {
+      "id": "gw-hKVt71A8",
+      "title": "Template Inheritance in Django | Django Tutorial #14",
+      "duration": 924
+    },
+    {
+      "id": "bMNdcMSe3pc",
+      "title": "Project 2: ToDos List App in Django | Django Tutorial #15",
+      "duration": 1110
+    },
+    {
+      "id": "CuKsIVwZPXw",
+      "title": "Project 2: Creating Models & Superuser for Our ToDos List Django App | Django Tutorial #16",
+      "duration": 1338
+    },
+    {
+      "id": "DR0Kbx1N1TU",
+      "title": "Project 2: Using Django Template Language in our ToDos List Django App | Django Tutorial #17",
+      "duration": 843
+    },
+    {
+      "id": "KaJBkELJ5n0",
+      "title": "Project 2: Fetching Data from our Models for ToDos List Django App | Django Tutorial #18",
+      "duration": 620
+    },
+    {
+      "id": "GkJgDfI17ec",
+      "title": "Project 2: Finishing Up ToDos List Django App | Django Tutorial #19",
+      "duration": 625
+    },
+    {
+      "id": "79RPkGS7IPs",
+      "title": "Django Authentication and Authorization Tutorial | Django Tutorial #20",
+      "duration": 939
+    },
+    {
+      "id": "ig532b4WkQc",
+      "title": "Django CMS: Creating a Django Blog | Django Tutorial #21",
+      "duration": 951
+    },
+    {
+      "id": "ZzkeHroO56c",
+      "title": "Django CMS: Adding Bootstrap to our Django Blog | Django Tutorial #22",
+      "duration": 952
+    },
+    {
+      "id": "wN9ukxl0Z6A",
+      "title": "Django Blog: Creating Blog Model For our Mountain Coders Blog | Django Tutorial #23",
+      "duration": 808
+    },
+    {
+      "id": "-C3s93LgpJ8",
+      "title": "Django Blog: Designing the Blog Home Page | Django Tutorial #24",
+      "duration": 886
+    },
+    {
+      "id": "dS3loltS_mY",
+      "title": "Django Blog: Rendering the Blog on Blog Page | Django Tutorial #25",
+      "duration": 897
+    },
+    {
+      "id": "_CZ3J7J36kk",
+      "title": "Django Blog: Designing The HomePage | Django Tutorial #26",
+      "duration": 1360
+    },
+    {
+      "id": "IdCs-an5QLA",
+      "title": "Adding Rich Text Editor to the Django Admin | Django Tutorial #27",
+      "duration": 1070
+    },
+    {
+      "id": "kkfXDu8jc9I",
+      "title": "Finishing up Tiny MCE Rich Text Editor | Django Tutorial #28",
+      "duration": 785
+    },
+    {
+      "id": "JO58rTZI3ak",
+      "title": "Customizing Tiny MCE For Better Editing Experience | Django Tutorial #29",
+      "duration": 1105
+    },
+    {
+      "id": "al0tAGjpMO4",
+      "title": "Making Design Improvements in Our Django Blog | Django Tutorial #30",
+      "duration": 552
+    },
+    {
+      "id": "yvyFzj0C60Y",
+      "title": "Designing The Pagination Logic For Our Django Blog | Django Tutorial #31",
+      "duration": 2332
+    },
+    {
+      "id": "VdYnH9z6CeY",
+      "title": "Creating Contact Model + UI for our Django Blog | Django Tutorial #32",
+      "duration": 1232
+    },
+    {
+      "id": "7Z_ZTsop7qQ",
+      "title": "Adding Virtual Environment to our Django Blog | Django Tutorial #33",
+      "duration": 1102
+    },
+    {
+      "id": "zg1PacxR4r8",
+      "title": "Deploying our Django Blog in Ubuntu 18.04 VPS | Django Tutorial #34",
+      "duration": 2149
+    }
+  ]
+}

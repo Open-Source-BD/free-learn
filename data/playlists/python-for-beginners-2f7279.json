@@ -1,0 +1,25 @@
+{
+  "courseId": "python-for-beginners-2f7279",
+  "sourceUrl": "https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:28.735Z",
+  "title": "Python For Beginners",
+  "channel": "Technical Sagar",
+  "videos": [
+    {
+      "id": "XfFkz_ND5jg",
+      "title": "Chapter: 1 - Variables - Learn Python Easily (In Hindi)",
+      "duration": 831
+    },
+    {
+      "id": "gDGEnGCGLNM",
+      "title": "Chapter: 2 - Taking Inputs & Type Conversion - Learn Python Easily (In Hindi)",
+      "duration": 636
+    },
+    {
+      "id": "_rhHhzaIngk",
+      "title": "Chapter: 3 - If Statement - Learn Python Easily (In Hindi)",
+      "duration": 587
+    }
+  ]
+}

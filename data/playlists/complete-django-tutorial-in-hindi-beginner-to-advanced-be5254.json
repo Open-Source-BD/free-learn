@@ -1,0 +1,150 @@
+{
+  "courseId": "complete-django-tutorial-in-hindi-beginner-to-advanced-be5254",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtjl3y2jZEeVEROmLDT7sjziUR4gb4N5G",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:32:54.645Z",
+  "title": "Complete Django Tutorial in Hindi (Beginner to Advanced)",
+  "channel": "Moh Technology",
+  "videos": [
+    {
+      "id": "gPWIkKr-UUY",
+      "title": "Django Day - 01 in Hindi | Creating First Django Project in Hindi | Django Complete Setup",
+      "duration": 773
+    },
+    {
+      "id": "gnrIckZzrQ0",
+      "title": "Django Day - 02 in Hindi | Django Templates Explained in Hindi |Learn How to Use Templates in Django",
+      "duration": 711
+    },
+    {
+      "id": "GejRNRS93uI",
+      "title": "Django Day - 03 | Django Template Inheritance Explained in Hindi |Extends, Include & Template Engine",
+      "duration": 982
+    },
+    {
+      "id": "lBYGejkQfSk",
+      "title": "Django Day - 04 in Hindi | Learn Django Apps: Create and Use Apps in Django Projects (Hindi)",
+      "duration": 929
+    },
+    {
+      "id": "FMCSfZpwWng",
+      "title": "Django Day - 05 | Django Admin Panel Explained in Hindi | Manage Your Django Project Like a Pro",
+      "duration": 736
+    },
+    {
+      "id": "6E0sYjHs_iw",
+      "title": "Django Day - 06 in Hindi | Django Models and Databases in Hindi | Manage Data and Render to HTML",
+      "duration": 1489
+    },
+    {
+      "id": "CuxUzqdxufA",
+      "title": "Django Day - 07 in Hindi | Django CRUD Operations in Hindi | Manage Your Database Through HTML Pages",
+      "duration": 1513
+    },
+    {
+      "id": "NZrl002j8xo",
+      "title": "Django Day - 08 | Django Relationships in DBMS in Hindi | One-to-One, One-to-Many, Many-to-Many",
+      "duration": 1401
+    },
+    {
+      "id": "pzVb-cjYJZQ",
+      "title": "Django Day - 09 in Hindi | Django Forms Explained in Hindi | Handling User Input in Django in Hindi",
+      "duration": 1205
+    },
+    {
+      "id": "8u9AZ5LQe3g",
+      "title": "Django Day - 10 | Django Media Files in Hindi | Store and Render Media Files from Database in Hindi",
+      "duration": 1227
+    },
+    {
+      "id": "ZAaw10omGs4",
+      "title": "Django Day - 11 in Hindi | Users and the User Table in Django | User Management Made Easy in Hindi",
+      "duration": 1517
+    },
+    {
+      "id": "F14UCD4fIws",
+      "title": "Django Day - 12 in Hindi | Django Authentication and Authorization in Hindi | User Login And Logout",
+      "duration": 1594
+    },
+    {
+      "id": "DOnYOsmurrY",
+      "title": "Django Day - 13 | Advanced Django Views in Hindi | FBVs vs. CBVs, Generic Views and Customizing CBVs",
+      "duration": 934
+    },
+    {
+      "id": "3PQ77F22mzE",
+      "title": "Django Day - 14 | Master Django ORM in Hindi | Querying, Filtering, Ordering, and Aggregating Data",
+      "duration": 743
+    },
+    {
+      "id": "2pJOVhAz2Pw",
+      "title": "Django Day - 15 | Django Tailwind CSS in Hindi | Tailwind Setup and Reload Explained in Hindi",
+      "duration": 1049
+    },
+    {
+      "id": "vkcWgvQXwTw",
+      "title": "Django Day - 16 in Hindi | Django Search Queries in Hindi | Build a Search Functionality in Hindi",
+      "duration": 639
+    },
+    {
+      "id": "LbwoW6hGLKs",
+      "title": "Django Day - 17 | Host Your Django Chat App on PythonAnywhere in Hindi | Deploy \"Moh Chat\" in Hindi",
+      "duration": 1057
+    },
+    {
+      "id": "BPY3LykGhMY",
+      "title": "Chained, Nested & Dynamic Dropdown in Hindi | Django Country State City Dropdown Without AJAX",
+      "duration": 3135
+    },
+    {
+      "id": "PFCXGZVea2U",
+      "title": "How to Change Default Database in Django in Hindi | Switch to MySQL, PostgreSQL, SQLite",
+      "duration": 459
+    },
+    {
+      "id": "2-F_W_1AWUk",
+      "title": "How to Host Razorpay Integrated Django Project | Django Deployment with Razorpay in Hindi",
+      "duration": 718
+    },
+    {
+      "id": "cDKpjg_HcNI",
+      "title": "Render Custom Error Pages in Django in Hindi | Handle 404, 500, 403 & More Like a Pro",
+      "duration": 357
+    },
+    {
+      "id": "VkKKMRXJ9r0",
+      "title": "How to Add Google Sign-In in Django in Hindi | Implement Login With Google in Hindi",
+      "duration": 1420
+    },
+    {
+      "id": "uwnUTd3ylmQ",
+      "title": "Django Project - 01 in Hindi | Creating Chat Web Application in Hindi",
+      "duration": 4033
+    },
+    {
+      "id": "GUc4t0EB-BM",
+      "title": "One Time Scannable Entry Pass Generator in Hindi | Django Project - 02 in Hindi",
+      "duration": 4876
+    },
+    {
+      "id": "DsghFYVVBNs",
+      "title": "Build a Blogging Website with Django in Hindi | Django Project - 03 in Hindi",
+      "duration": 3808
+    },
+    {
+      "id": "1-dlL08pSc0",
+      "title": "Build a Car Auction Website with Django in Hindi | Django Project - 04 in Hindi",
+      "duration": 4764
+    },
+    {
+      "id": "X3w2sa0C8vo",
+      "title": "Build a URL Shortener with AI & Django in Hindi | Django Project - 05 in Hindi",
+      "duration": 514
+    },
+    {
+      "id": "glsf-v4wz5U",
+      "title": "Integrate Razorpay in Django in Hindi | Providing Premium To User | Django Project - 06 in Hindi",
+      "duration": 3206
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "courseId": "react-native-tutorials-mobile-app-development-in-hindi-20525c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:18.091Z",
+  "title": "React Native Tutorials  (mobile app development) in hindi",
+  "channel": "CODERS NEVER QUIT",
+  "videos": [
+    {
+      "id": "Z_aQj4MJZM0",
+      "title": "Flutter vs React Native 2021 | Flutter will kill React Native | My views on both in Hindi",
+      "duration": 620
+    },
+    {
+      "id": "xlylE6iOUtw",
+      "title": "JavaScript for React, React Native, Node js, Angular, Vue in one video | JavaScipt Tutorial in Hindi",
+      "duration": 9068
+    },
+    {
+      "id": "4Cc75EC1IlE",
+      "title": "React Native in one video for complete beginners | हिंदी में | React Native tutorials in Hindi",
+      "duration": 7568
+    },
+    {
+      "id": "ntPQ-IPm3AM",
+      "title": "Part 1/2 | OLX Clone using React Native & Firebase | React Native & Firebase for beginners in Hindi",
+      "duration": 12297
+    },
+    {
+      "id": "tKZeFRB_xMk",
+      "title": "Part 2/2 React Native Push Notifications using firebase cloud messaging (fcm) & Admin SDKs",
+      "duration": 2697
+    },
+    {
+      "id": "uc5qaMYzYIc",
+      "title": "#0 - INTRODUCTION TO REACT NATIVE WITH EXPO | REACT NATIVE TUTORIALS IN HINDI",
+      "duration": 605
+    },
+    {
+      "id": "bx_3UEYbisc",
+      "title": "#1- Installing and understanding files | react native tutorials with expo in hindi",
+      "duration": 371
+    },
+    {
+      "id": "XaDlVvfGKO8",
+      "title": "#2 - HELLO WORLD ON REAL DEVICE AND EMULATOR | REACT NATIVE TUTORIALS WITH EXPO IN HINDI",
+      "duration": 394
+    },
+    {
+      "id": "8FJPTNgzOmA",
+      "title": "React Native web | react native with expo tutorials in hindi",
+      "duration": 566
+    },
+    {
+      "id": "qwvfOKykFyk",
+      "title": "#3 - UNDERSTANDING JSX IN REACT NATIVE | REACT NATIVE TUTORIALS IN HINDI",
+      "duration": 744
+    },
+    {
+      "id": "MxROcT8a-4s",
+      "title": "#4 - CUSTOM COMPONENTS IN REACT NATIVE | REACT NATIVE TUTORIALS IN HINDI",
+      "duration": 474
+    },
+    {
+      "id": "lM_UVkhaUeI",
+      "title": "#5 - PROPS IN REACT NATIVE | REACT NATIVE WITH EXPO TUTORIALS IN HINDI",
+      "duration": 499
+    },
+    {
+      "id": "aDkrepLsSmM",
+      "title": "#6 - state and setState in react native | REACT NATIVE WITH EXPO TUTORIALS IN HINDI",
+      "duration": 837
+    },
+    {
+      "id": "y3k2E6_VxZ4",
+      "title": "#7 - Flexbox and Stylesheets in react native for layouts | react native tutorials in hindi",
+      "duration": 1008
+    },
+    {
+      "id": "gk4FMKr41nc",
+      "title": "#8- built in components in react native | react native tutorials with expo in hindi",
+      "duration": 813
+    },
+    {
+      "id": "_0W-g5omCaY",
+      "title": "#9 - fetch data externally in react native | componentDidMount | react native tutorials in hindi",
+      "duration": 435
+    },
+    {
+      "id": "St1QVbq7A0g",
+      "title": "#1 - Love percentage calculator in react native part 1 of 5 | react native tutorials in hindi",
+      "duration": 910
+    },
+    {
+      "id": "Lf5xWQ7e_WI",
+      "title": "#2 - Love percentage calculator in react native part 2 of 5 | react native tutorials in hindi",
+      "duration": 552
+    },
+    {
+      "id": "J8HQc6KG0xg",
+      "title": "#3 - Love percentage calculator in react native part 3 of 5 | react native tutorials in hindi",
+      "duration": 459
+    },
+    {
+      "id": "ii9By7PgZCU",
+      "title": "#4 - Love percentage calculator in react native part 4 of 5 | react native tutorials in hindi",
+      "duration": 646
+    },
+    {
+      "id": "-yyki6ik2Kk",
+      "title": "#5 - Love percentage calculator in react native part 5 of 5 | react native tutorials in hindi",
+      "duration": 424
+    },
+    {
+      "id": "jhMiPQaSQBg",
+      "title": "#0 - update video | React Navigation | react native tutorials in hindi",
+      "duration": 194
+    },
+    {
+      "id": "vWXqJ3_3m9o",
+      "title": "#1 - stack navigator in react native | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 716
+    },
+    {
+      "id": "-L2OuBJvalE",
+      "title": "#2 - customize header in react native | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 913
+    },
+    {
+      "id": "OLIQfWK7vak",
+      "title": "#3  - Passing parameters to routes  | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 356
+    },
+    {
+      "id": "AiE02APb1J0",
+      "title": "#4.1 - Drawer navigation with header | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 803
+    },
+    {
+      "id": "KrMrwhKYcrI",
+      "title": "#4.2 - Drawer navigation with header | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 804
+    },
+    {
+      "id": "9FkId3M0h5U",
+      "title": "#5 - code clean up | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 640
+    },
+    {
+      "id": "Ppwl0P069Rw",
+      "title": "#6 - Tab navigation with icons and header | React Navigation v 3.x | react native tutorials in hindi",
+      "duration": 942
+    },
+    {
+      "id": "WdnX_IWkij8",
+      "title": "#10 - Async Storage in react native | AsyncStorage | react native tutorials in hindi",
+      "duration": 1379
+    },
+    {
+      "id": "WAyjIfew8VU",
+      "title": "#1 - Todo app using async storage in react native | react native tutorials in hindi",
+      "duration": 1477
+    },
+    {
+      "id": "KtoFISHyp-M",
+      "title": "#2 - Todo app using async storage in react native | react native tutorials in hindi",
+      "duration": 1442
+    },
+    {
+      "id": "IvwyiTBYybY",
+      "title": "#1 - complete weather forecasting application in react native | react native tutorials in hindi",
+      "duration": 178
+    },
+    {
+      "id": "KGq6cNiX244",
+      "title": "#2 - complete weather forecasting application in react native | react native tutorials in hindi",
+      "duration": 1526
+    },
+    {
+      "id": "ODipgX2Y640",
+      "title": "#3 - complete weather forecasting application in react native | react native tutorials in hindi",
+      "duration": 869
+    },
+    {
+      "id": "K8HPknI_2bE",
+      "title": "#4 - complete weather forecasting application in react native | react native tutorials in hindi",
+      "duration": 1724
+    },
+    {
+      "id": "XbocpsXlASI",
+      "title": "#5 - complete weather forecasting application in react native | react native tutorials in hindi",
+      "duration": 1168
+    },
+    {
+      "id": "IAPsSp6MQ8I",
+      "title": "#1 - complicated UI (user interfaces) | PSD to react native | react native tutorials in hindi",
+      "duration": 1683
+    },
+    {
+      "id": "jECKJZLmiwc",
+      "title": "#2 - complicated UI (user interfaces) | PSD to react native | react native tutorials in hindi",
+      "duration": 2160
+    },
+    {
+      "id": "3c7tfa1cnuU",
+      "title": "#3 - WhatsApp UI Clone in react native | react native with expo tutorials in hindi",
+      "duration": 1372
+    },
+    {
+      "id": "Of4dcLGG7_Y",
+      "title": "Animation basics | animations in react native | react native tutorial in hindi",
+      "duration": 592
+    },
+    {
+      "id": "RWdwmqG7tXs",
+      "title": "Animation basics | interpolate | animations in react native | react native tutorial in hindi",
+      "duration": 1284
+    },
+    {
+      "id": "gSMvDA88E-Q",
+      "title": "#1 - Tinder animations | creating basic cards UI | react native tutorials in hindi",
+      "duration": 889
+    },
+    {
+      "id": "9b52XA0RmaQ",
+      "title": "#2- Tinder animations | handling gestures | PanResponder in react native | react native in hindi",
+      "duration": 691
+    },
+    {
+      "id": "Cjk28r3mlnM",
+      "title": "#3 - Tinder animations | Translating and Rotating cards | react native in hindi",
+      "duration": 1036
+    },
+    {
+      "id": "L-_SSHUEERE",
+      "title": "#4 - Detecting minimum swipe distance and animating card out of the screen | react native in hindi",
+      "duration": 1004
+    },
+    {
+      "id": "Tv3iZh9-cZU",
+      "title": "#5 - stacking all cards together | tinder animation in react native | react native tutorial in hindi",
+      "duration": 1515
+    },
+    {
+      "id": "GcUbQz-ee7Y",
+      "title": "flatlist in react native with pull to refresh | react native tutorials with expo in hindi",
+      "duration": 910
+    },
+    {
+      "id": "OMioIbXtN2A",
+      "title": "free react native and firebase course | react native tutorials in hindi",
+      "duration": 204
+    },
+    {
+      "id": "4yU6AYCQWYg",
+      "title": "#1 - introduction to firebase and adding it to react native project | react native in hindi",
+      "duration": 536
+    },
+    {
+      "id": "w9SXuslEvQQ",
+      "title": "#2 - creating basic UI using native base | react native tutorials in hindi",
+      "duration": 663
+    },
+    {
+      "id": "Zm6inqxrAPc",
+      "title": "#3 - posting and fetching data from firebase | react native tutorials in hindi",
+      "duration": 877
+    },
+    {
+      "id": "zvlShi5XQHI",
+      "title": "#4 - Displaying result on screen and removing items | react native in hindi",
+      "duration": 1090
+    },
+    {
+      "id": "LQRfs1koXSM",
+      "title": "#1 - Authentication introduction and installing dependencies | react native tutorial in hindi",
+      "duration": 777
+    },
+    {
+      "id": "oJ83hQkdeIA",
+      "title": "#2 - Designing Signup screen UI using native base | react native in hindi",
+      "duration": 1058
+    },
+    {
+      "id": "WdqzF5h7YcA",
+      "title": "#3 - Designing Login , loading and Home Screens using native base | react native in hindi",
+      "duration": 766
+    },
+    {
+      "id": "Qq8TBIyobyg",
+      "title": "#4 - connecting app to firebase backend | react native tutorials in hindi",
+      "duration": 470
+    },
+    {
+      "id": "IDXqQxBrJZ8",
+      "title": "#5 - signing up and logging in user to firebase | react native tutorials in hindi",
+      "duration": 1252
+    },
+    {
+      "id": "zfgIVNfJUtw",
+      "title": "#6 - signing out user in firebase | react native tutorials in hindi",
+      "duration": 392
+    },
+    {
+      "id": "8chqZfx7jwk",
+      "title": "switch Navigator in react navigation | react native tutorials in hindi",
+      "duration": 658
+    },
+    {
+      "id": "2TP0WXbiCms",
+      "title": "#0 - project overview | React native with node js backend",
+      "duration": 311
+    },
+    {
+      "id": "NW6qGg742Qg",
+      "title": "#1 - installing node js dependencies and using postman",
+      "duration": 784
+    },
+    {
+      "id": "RL_P_f8UQ_w",
+      "title": "#2 - setup mongodb on atlas and designing schema | react native with node js in hindi",
+      "duration": 827
+    },
+    {
+      "id": "SQY9TDHgI18",
+      "title": "#3 - saving user to database | react native with node js in hindi",
+      "duration": 1081
+    },
+    {
+      "id": "HS9FUiSw9zY",
+      "title": "#4 - implementing json web token in node js | react native with node js in hindi",
+      "duration": 1682
+    },
+    {
+      "id": "qOhnAoo1PvY",
+      "title": "#5 - salting and hashing password on signup | react native authentication using node js and express",
+      "duration": 770
+    },
+    {
+      "id": "U6pFUmeGFAQ",
+      "title": "#6 - Implementing sign in or login route in node js | react native authentication using node js",
+      "duration": 706
+    },
+    {
+      "id": "NLHMFq64zEc",
+      "title": "#7 - Installing react native and solving errors | authentication in react native using node js",
+      "duration": 1116
+    },
+    {
+      "id": "FavVdUPN3bM",
+      "title": "#8 - signup screen UI design | react native authentication using node js and express in hindi",
+      "duration": 1354
+    },
+    {
+      "id": "VDFl03tUqUs",
+      "title": "#9 loading login/sign in and home screen design | react native authentication with node js in hindi",
+      "duration": 499
+    },
+    {
+      "id": "Ns_uu28rpgg",
+      "title": "#10 - installing react navigation v5 (alpha) | react native authentication using node js in hindi",
+      "duration": 1370
+    },
+    {
+      "id": "wYSuuE9DF4s",
+      "title": "#11 - posting data from react native to node js | react native authentication with node js in hindi",
+      "duration": 1113
+    },
+    {
+      "id": "dxM-7UZV274",
+      "title": "#12 - Saving token in async storage | React native authentication with node js and express in hindi",
+      "duration": 1435
+    },
+    {
+      "id": "iMnfz2xBGds",
+      "title": "#13 - Replacing screens and access protected screen resource | react native tutorial with node js",
+      "duration": 3022
+    },
+    {
+      "id": "wGI34rYuZBA",
+      "title": "selfie app in React native | access camera & flash | photo clicking app in react native in hindi",
+      "duration": 2173
+    }
+  ]
+}

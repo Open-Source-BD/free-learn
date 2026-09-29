@@ -1,0 +1,245 @@
+{
+  "courseId": "django-wednesdays-38f2d0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:35.206Z",
+  "title": "Django Wednesdays",
+  "channel": "John Elder",
+  "videos": [
+    {
+      "id": "HHx3tTQWUx0",
+      "title": "Before You Install Django...Watch This!  Django Wednesdays #1",
+      "duration": 1152
+    },
+    {
+      "id": "4EJlrweJE-M",
+      "title": "How To Add A Calendar To Your Website - Django Wednesdays #2",
+      "duration": 1206
+    },
+    {
+      "id": "NVeV7Y3BkF4",
+      "title": "How To Use Templates and Custom HTML - Django Wednesdays #3",
+      "duration": 1060
+    },
+    {
+      "id": "z5e_8FgKZig",
+      "title": "Using Multiple Database Tables With Django - Django Wednesdays #4",
+      "duration": 1722
+    },
+    {
+      "id": "H3joYTIRqKk",
+      "title": "Fetch Data From a Database And Output To A Webpage - Django Wednesdays #5",
+      "duration": 1122
+    },
+    {
+      "id": "_7Fi9dpw-ew",
+      "title": "How To Modify The Django Admin Area - Django Wednesdays #6",
+      "duration": 1261
+    },
+    {
+      "id": "CVEKe39VFu8",
+      "title": "How To Add Database Forms To A Web Page - Django Wednesdays #7",
+      "duration": 1704
+    },
+    {
+      "id": "JaBPryYdHbc",
+      "title": "How To Query The Database For Venues - Django Wednesdays #8",
+      "duration": 1171
+    },
+    {
+      "id": "AGtae4L5BbI",
+      "title": "Create A Search Bar - Django Wednesdays #9",
+      "duration": 1024
+    },
+    {
+      "id": "jCM-m_3Ysqk",
+      "title": "Update and Edit Venues - Django Wednesdays #10",
+      "duration": 969
+    },
+    {
+      "id": "x99hW1N8Nug",
+      "title": "Create An Add Event Page - Django Wednesdays #11",
+      "duration": 1002
+    },
+    {
+      "id": "vLOPkuAbEAY",
+      "title": "Create An Update Events Page - Django Wednesdays #12",
+      "duration": 554
+    },
+    {
+      "id": "u1j-_kDc6g0",
+      "title": "Delete Items From The Database - Django Wednesdays #13",
+      "duration": 686
+    },
+    {
+      "id": "EMsxxkkVDiI",
+      "title": "How To Order Items From The Database - Django Wednesdays #14",
+      "duration": 478
+    },
+    {
+      "id": "r_6VQozZD8M",
+      "title": "How To Generate Text Files Dynamically With Django - Django Wednesdays #15",
+      "duration": 786
+    },
+    {
+      "id": "ggz8wkjljaM",
+      "title": "How To Generate CSV Spreadsheet Files Dynamically With Django - Django Wednesdays #16",
+      "duration": 641
+    },
+    {
+      "id": "1x_ACMFzGYM",
+      "title": "How To Generate PDF Files Dynamically With Django - Django Wednesdays #17",
+      "duration": 814
+    },
+    {
+      "id": "N-PB-HMFmdo",
+      "title": "Pagination For Django - Django Wednesdays #18",
+      "duration": 1133
+    },
+    {
+      "id": "wY_BNsxCEi4",
+      "title": "Special Hack To Style Pagination With Bootstrap - Django Wednesdays #19",
+      "duration": 916
+    },
+    {
+      "id": "CABh_KlGnrw",
+      "title": "Customize Django Admin Titles - Django Wednesdays #20",
+      "duration": 457
+    },
+    {
+      "id": "CTrVDi3tt8o",
+      "title": "Login With User Authentication - Django Wednesdays #21",
+      "duration": 1285
+    },
+    {
+      "id": "BTq0MAIJEH8",
+      "title": "Log Out With User Authentication - Django Wednesdays #22",
+      "duration": 429
+    },
+    {
+      "id": "E-nxGwGYRXY",
+      "title": "Navbar Dropdown Menus - Django Wednesdays #23",
+      "duration": 649
+    },
+    {
+      "id": "EqjRhO5CK6A",
+      "title": "How To Register Users - Django Wednesdays #24",
+      "duration": 893
+    },
+    {
+      "id": "HdrOcreAXKk",
+      "title": "Add Extra Registration Fields - Django Wednesdays #25",
+      "duration": 702
+    },
+    {
+      "id": "XapMxdIyLM8",
+      "title": "Style Django Registration Forms - Django Wednesdays #26",
+      "duration": 589
+    },
+    {
+      "id": "cb1Pr8-m5YE",
+      "title": "Lock Down Your Django App - Django Wednesdays #27",
+      "duration": 585
+    },
+    {
+      "id": "hHJDbKxw4Lc",
+      "title": "Determine Correct User To Edit Events - Django Wednesdays #28",
+      "duration": 477
+    },
+    {
+      "id": "fXKLLwdryHQ",
+      "title": "Add Venue Owner - Django Wednesdays #29",
+      "duration": 686
+    },
+    {
+      "id": "z8m9MW56hkg",
+      "title": "Use Different Forms For Different Users - Django Wednesdays #30",
+      "duration": 814
+    },
+    {
+      "id": "b7nmrEnurPk",
+      "title": "Only Let Manger Delete Event - Django Wednesdays #31",
+      "duration": 381
+    },
+    {
+      "id": "o3uENVkMcu8",
+      "title": "Access Venue Owner - Django Wednesdays #32",
+      "duration": 416
+    },
+    {
+      "id": "aiMS8Xd_E0M",
+      "title": "Add My_Events Page - Django Wednesdays #33",
+      "duration": 836
+    },
+    {
+      "id": "MDO0GdiHEU4",
+      "title": "Search Events - Django Wednesdays #34",
+      "duration": 581
+    },
+    {
+      "id": "rxF-tNfYUto",
+      "title": "Style Venue Search Results - Django Wednesdays #35",
+      "duration": 324
+    },
+    {
+      "id": "4AnwvUJGJzw",
+      "title": "Query Filter Events By Date - Django Wednesdays #36",
+      "duration": 603
+    },
+    {
+      "id": "bE23wioMGao",
+      "title": "Django 4.0 Release Notes! - Django Wednesdays #37",
+      "duration": 876
+    },
+    {
+      "id": "O5YkEFLXcRg",
+      "title": "Upload Images To Django - Django Wednesdays #38",
+      "duration": 886
+    },
+    {
+      "id": "bNXmU-941iY",
+      "title": "Edit Uploaded Images - Django Wednesdays #39",
+      "duration": 322
+    },
+    {
+      "id": "zPxVW3a-aRs",
+      "title": "How To Add Calculated Fields To Models - Django Wednesdays #40",
+      "duration": 597
+    },
+    {
+      "id": "6YxyKBl0M-g",
+      "title": "Remove Groups From Admin Site - Django Wednesdays #41",
+      "duration": 291
+    },
+    {
+      "id": "pwkAMX1zgOI",
+      "title": "Event Approval - Django Wednesdays #42",
+      "duration": 448
+    },
+    {
+      "id": "FzV_Py68Y_I",
+      "title": "Build An Event Approval Page With Checkboxes - Django Wednesdays #43",
+      "duration": 1312
+    },
+    {
+      "id": "a0hGlrYLqDc",
+      "title": "Count The Number Of Events and Venues - Django Wednesdays #44",
+      "duration": 450
+    },
+    {
+      "id": "hyzM1lpc6Rs",
+      "title": "Show All Events By Venue - Django Wednesdays #45",
+      "duration": 1046
+    },
+    {
+      "id": "ey8EXTjRuag",
+      "title": "Build A Website With Django 4.0! - Django Wednesdays #46",
+      "duration": 1243
+    },
+    {
+      "id": "dtmmwTHSzT0",
+      "title": "List Events On Venue Pages - Django Wednesdays #47",
+      "duration": 350
+    }
+  ]
+}

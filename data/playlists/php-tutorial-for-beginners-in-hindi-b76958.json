@@ -1,0 +1,215 @@
+{
+  "courseId": "php-tutorial-for-beginners-in-hindi-b76958",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:06.581Z",
+  "title": "PHP Tutorial for beginners in Hindi",
+  "channel": "ScoreShala",
+  "videos": [
+    {
+      "id": "1m7a_oMi0gU",
+      "title": "#1 Introduction to PHP Programming Language | PHP Tutorial",
+      "duration": 408
+    },
+    {
+      "id": "Wg5WbptIkuA",
+      "title": "#2 What is server ? | How to install xampp server in windows ?",
+      "duration": 448
+    },
+    {
+      "id": "6iZJHLytzNg",
+      "title": "#3  PHP Syntax | Syntax overview of PHP | How to print srting using PHP ?",
+      "duration": 364
+    },
+    {
+      "id": "AcIy_sK4Ahw",
+      "title": "#4 What is a Variable  | Variable in PHP in Hindi",
+      "duration": 266
+    },
+    {
+      "id": "AabasjNJ_b4",
+      "title": "#5 How to use variables in PHP  | PHP Tutorial for Beginners",
+      "duration": 431
+    },
+    {
+      "id": "FMZCjnSt-zg",
+      "title": "#6 Concatenate in PHP |  How to use concatenation in PHP ?",
+      "duration": 282
+    },
+    {
+      "id": "n9UxsUKaSck",
+      "title": "What are Operators and types in PHP",
+      "duration": 246
+    },
+    {
+      "id": "ZYFaFZVkAKQ",
+      "title": "Arithmetic Operators - Types of operators in PHP",
+      "duration": 509
+    },
+    {
+      "id": "bZTgmCRtPV4",
+      "title": "Comparison Operators - Types of operators in PHP",
+      "duration": 325
+    },
+    {
+      "id": "zwUC3Tsv_k0",
+      "title": "Logical and Ternary Operators -Types of operators in PHP",
+      "duration": 471
+    },
+    {
+      "id": "Vo_ZbGGsEKs",
+      "title": "Assignment Operators in PHP  - Types of operators in PHP",
+      "duration": 292
+    },
+    {
+      "id": "wQt_6ZXbGgU",
+      "title": "Conditional Statements in PHP | PHP  Tutorial for Beginners",
+      "duration": 308
+    },
+    {
+      "id": "sBcDAaPXLuc",
+      "title": "How to use if and if - else statement in PHP ?",
+      "duration": 297
+    },
+    {
+      "id": "HrJoJUDywDo",
+      "title": "How to use if - elseif and nested if - else in PHP ?",
+      "duration": 483
+    },
+    {
+      "id": "iG43TwFm-Dw",
+      "title": "Array in PHP | Different Types of Array in PHP | PHP Tutorial in Hindi",
+      "duration": 312
+    },
+    {
+      "id": "Mstb7wtfQUw",
+      "title": "Array in PHP | Different Types of Array in PHP | PHP Tutorial in Hindi",
+      "duration": 723
+    },
+    {
+      "id": "Nso582b8AWk",
+      "title": "Concept of Functions in PHP | User Defined Function and Pre defined Function  | PHP Tutorial",
+      "duration": 828
+    },
+    {
+      "id": "qdJi05s4Gsg",
+      "title": "PHP Tutorial - List of Array functions in PHP and How to use it ?",
+      "duration": 1239
+    },
+    {
+      "id": "wr6rTuNf5ao",
+      "title": "PHP Tutorial -  How to Define User Defined Function and  Use it ?",
+      "duration": 532
+    },
+    {
+      "id": "CU3bde1ZD-U",
+      "title": "PHP Tutorial -  What are Loops and Types of Loops ?",
+      "duration": 293
+    },
+    {
+      "id": "a0aXCWZRWiY",
+      "title": "While loop in PHP  ?  | How to use while loop in PHP | Learn PHP Programming | PHP for Beginners",
+      "duration": 580
+    },
+    {
+      "id": "hCCPIFnH9Zo",
+      "title": "For loop in PHP ? How to use for loop in PHP |  Learn PHP Programming | PHP for Beginners",
+      "duration": 476
+    },
+    {
+      "id": "ZKU4zyblML0",
+      "title": "Do-while loop in PHP ? How to use for Do-while in PHP |  Learn PHP Programming | PHP for Beginners",
+      "duration": 413
+    },
+    {
+      "id": "IJ4yydp4fpo",
+      "title": "Foreach loop in PHP? How to use for Foreach in PHP |  Learn PHP Programming | PHP for Beginners",
+      "duration": 454
+    },
+    {
+      "id": "kHeivQMTYIQ",
+      "title": "Break statement in PHP | How to use break statement in PHP? | Learn PHP Programming",
+      "duration": 425
+    },
+    {
+      "id": "cXuf1zIAnrk",
+      "title": "Continue statement in PHP | How to use continue statement in PHP? | Learn PHP Programming",
+      "duration": 396
+    },
+    {
+      "id": "iRnTZ35hE7c",
+      "title": "PHP Switch Case Statement | Learn PHP Programming | PHP for Beginners",
+      "duration": 648
+    },
+    {
+      "id": "lMIfTXmI7cI",
+      "title": "Recursion of Function in PHP | Learn PHP Programming | PHP for Beginners",
+      "duration": 580
+    },
+    {
+      "id": "m7oOl7FY4Ig",
+      "title": "Implode and Explode Functions in PHP | Learn PHP Programming | PHP for Beginners",
+      "duration": 620
+    },
+    {
+      "id": "lhUp_t90J6M",
+      "title": "strtoupper(),strtolower(),cfirst(),ucfirst(),ucwords() | Learn PHP Programming | PHP for Beginners",
+      "duration": 356
+    },
+    {
+      "id": "rEhztCQoGh4",
+      "title": "str_replace() function | Replace words in a string using PHP ? | Learn PHP | PHP for Beginners",
+      "duration": 284
+    },
+    {
+      "id": "aS51vWkzGBc",
+      "title": "strrev() function | Reverse a string using PHP ? | Learn PHP | PHP for Beginners",
+      "duration": 146
+    },
+    {
+      "id": "Rz8mI_xMv2A",
+      "title": "substr() function | substr() function in PHP | PHP substring function | PHP Tutorial",
+      "duration": 421
+    },
+    {
+      "id": "-RNVMxnMDio",
+      "title": "PHP Tutorial - rand() function in PHP | PHP math function | OPT using PHP",
+      "duration": 198
+    },
+    {
+      "id": "UqrorIh-Jy4",
+      "title": "PHP Tutorial - str_word_count, strlen, str_repeat function",
+      "duration": 277
+    },
+    {
+      "id": "775l8wd5TJ4",
+      "title": "PHP Tutorial - ceil() and floor() function in PHP | PHP Math Function",
+      "duration": 266
+    },
+    {
+      "id": "gBLrs8S3ib0",
+      "title": "PHP Tutorial - pow() and sqrt() function in PHP | PHP Math  Function",
+      "duration": 320
+    },
+    {
+      "id": "HQvJPDyD1-4",
+      "title": "PHP Tutorial - date_default_timezone_set() and  getDate() | date function in PHP",
+      "duration": 431
+    },
+    {
+      "id": "5c54UB4CwNc",
+      "title": "PHP Tutorial - date() and time() function in PHP",
+      "duration": 1022
+    },
+    {
+      "id": "E9o30JTalqc",
+      "title": "PHP Tutorial  - include() and include_once() in PHP",
+      "duration": 689
+    },
+    {
+      "id": "9KRU3IQGjQQ",
+      "title": "PHP Tutorial - require() and require_once() in PHP",
+      "duration": 421
+    }
+  ]
+}

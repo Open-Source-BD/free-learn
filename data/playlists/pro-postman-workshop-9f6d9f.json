@@ -1,0 +1,25 @@
+{
+  "courseId": "pro-postman-workshop-9f6d9f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:07.786Z",
+  "title": "Pro Postman Workshop",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "GRhVP1-VRrM",
+      "title": "Day 1: Mastering API Testing and Environment Management on Postman",
+      "duration": 11459
+    },
+    {
+      "id": "rzacGYY8Ipw",
+      "title": "Day 2: Mastering Postman: Documentation,Collaboration, Data-Driven Tasks, Monitors,Newman & OAuth2.0",
+      "duration": 10230
+    },
+    {
+      "id": "c0nWlI79JPc",
+      "title": "Day 3: Streamlining API Development with Mock Servers, Newman, and Data Flows",
+      "duration": 11533
+    }
+  ]
+}

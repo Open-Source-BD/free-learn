@@ -1,0 +1,65 @@
+{
+  "courseId": "typescript-advance-course-d46f41",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8aesJ9a6lREDE4lcIA0iHMR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:20.884Z",
+  "title": "TypeScript Bangla (Advanced) : Create project from scratch using TypeScript, Express, Node, MongoDB, React FC, Formik with RBAC Authorization",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "ayW81GSEV5k",
+      "title": "TypeScript Bangla - academy 001 : Introduction to series and server side system architecture plan",
+      "duration": 745
+    },
+    {
+      "id": "jFrgdIdrDAc",
+      "title": "TypeScript Bangla - academy 002 : Initial project setup from scratch using TypeScript node & express",
+      "duration": 746
+    },
+    {
+      "id": "8ihbErFnqqY",
+      "title": "TypeScript Bangla - academy 003 : Express routing and handling HTTP request through handlers",
+      "duration": 517
+    },
+    {
+      "id": "bTvXF3b6TCg",
+      "title": "TypeScript Bangla - academy 004 : Setup routes dynamically loaded from a JSON array",
+      "duration": 881
+    },
+    {
+      "id": "h6fSSGNPdIo",
+      "title": "TypeScript Bangla - academy 005 : Refactor routes array and added StudentController routes",
+      "duration": 855
+    },
+    {
+      "id": "cQhn7jUcH-Y",
+      "title": "TypeScript Bangla - academy 006 : Add common '/api' prefix before every route pathname in routes",
+      "duration": 386
+    },
+    {
+      "id": "DDwhTeyJH7k",
+      "title": "TypeScript Bangla - academy 007 : Started adding StudentService for n-layer architecture system",
+      "duration": 425
+    },
+    {
+      "id": "--ALq2wmfQI",
+      "title": "TypeScript Bangla - academy 008 : Typescript mongoose schema setup and save student method",
+      "duration": 928
+    },
+    {
+      "id": "fY48I-csVgk",
+      "title": "TypeScript Bangla - academy 009 : Express connect with mongodb and test save and find all models",
+      "duration": 825
+    },
+    {
+      "id": "HHBsWluqUGo",
+      "title": "TypeScript Bangla - academy 010 : Implemented generic mongoose save and find operations",
+      "duration": 849
+    },
+    {
+      "id": "QA0yhzN-_TI",
+      "title": "TypeScript Bangla - academy 011 : Implemented generic view model generation from mongoose model",
+      "duration": 767
+    }
+  ]
+}

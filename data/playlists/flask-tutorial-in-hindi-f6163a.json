@@ -1,0 +1,130 @@
+{
+  "courseId": "flask-tutorial-in-hindi-f6163a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:15.399Z",
+  "title": "Flask Tutorial In Hindi",
+  "channel": "Knowledge Gainer",
+  "videos": [
+    {
+      "id": "l2kx2XTgnB0",
+      "title": "#1:- Introduction To Flask In Hindi | Flask Tutorial For Beginners",
+      "duration": 491
+    },
+    {
+      "id": "9E2b06HW85E",
+      "title": "#2:- Install VS Code For Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 215
+    },
+    {
+      "id": "j4CJ41qaYnE",
+      "title": "#3:- Creating App In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 308
+    },
+    {
+      "id": "sfcCskJRaVE",
+      "title": "#4:- Creating URLs In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 358
+    },
+    {
+      "id": "Vr4DObPCr_A",
+      "title": "#5:- Creating HTML Templates In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 426
+    },
+    {
+      "id": "AZ26UGplcMo",
+      "title": "#6:- Template Inheritance In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 426
+    },
+    {
+      "id": "id5L3ntL0z8",
+      "title": "#7:- Creating Registration Form In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 892
+    },
+    {
+      "id": "Ems5_gOeVDY",
+      "title": "#8:- Creating Database In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 464
+    },
+    {
+      "id": "OvTbovZug7Q",
+      "title": "#9:- Models In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 370
+    },
+    {
+      "id": "vgZt-YIMK_o",
+      "title": "#10:- Flask-SQLalchemy Queryset In Hindi | Flask Tutorial In Hindi",
+      "duration": 403
+    },
+    {
+      "id": "PUmusH6pXew",
+      "title": "#11:- User Registration In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 1418
+    },
+    {
+      "id": "A8PFQNdOFbg",
+      "title": "#12:- Messages In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 901
+    },
+    {
+      "id": "qqBUWd0djHY",
+      "title": "#13:- Designing Login Form In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 300
+    },
+    {
+      "id": "z1Divv7M2qs",
+      "title": "14:- User Login In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 1283
+    },
+    {
+      "id": "oXgX7cl4z3w",
+      "title": "15:- Logout User In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 396
+    },
+    {
+      "id": "5J-Ot3d1j9U",
+      "title": "16:- Designing Blog Post Page In Flask In Hindi | Flask In Tutorial In Hindi",
+      "duration": 567
+    },
+    {
+      "id": "VF2v1cwvz78",
+      "title": "17:- Creating Blog Model In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 576
+    },
+    {
+      "id": "OQTO0MO5Ajw",
+      "title": "18:- Display Blog Post On Home Page In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 300
+    },
+    {
+      "id": "djV3P3AAoYw",
+      "title": "19:- Display Blogs Using Bootstrap In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 658
+    },
+    {
+      "id": "QdK3Lg86fow",
+      "title": "20:- Saving Form Data In Database Using Flask In Hindi | Flask In Hindi",
+      "duration": 823
+    },
+    {
+      "id": "-zPxlvUj3LY",
+      "title": "#21:- Display a Particular Post In Separate Page In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 738
+    },
+    {
+      "id": "7kv3RV164ck",
+      "title": "22:- Delete Blog In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 482
+    },
+    {
+      "id": "zqolNxvLgX4",
+      "title": "23:- Edit Blog Post In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 1075
+    },
+    {
+      "id": "SvVG1JEmu7Y",
+      "title": "24:- Static Files In Flask In Hindi | Flask Tutorial In Hindi",
+      "duration": 438
+    }
+  ]
+}

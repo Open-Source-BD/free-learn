@@ -1,0 +1,265 @@
+{
+  "courseId": "chai-aur-javascript-0f2c4f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:44.648Z",
+  "title": "Chai aur Javascript | हिन्दी",
+  "channel": "Chai aur Code",
+  "videos": [
+    {
+      "id": "Hr5iLG7sUa0",
+      "title": "Javascript for beginners | chai aur #javascript",
+      "duration": 305
+    },
+    {
+      "id": "cvoLc3deAdQ",
+      "title": "Setting up environment in local machine for Javascript | chai aur #javascript",
+      "duration": 710
+    },
+    {
+      "id": "-GoKoR6aLcY",
+      "title": "Save and work on Github for Javascript | chai aur #javascript",
+      "duration": 622
+    },
+    {
+      "id": "yY0bKZNYmJs",
+      "title": "Let, const and var ki kahani | chai aur #javascript",
+      "duration": 1001
+    },
+    {
+      "id": "-9knnv97wSc",
+      "title": "Datatypes and ECMA standards | chai aur #javascript",
+      "duration": 1082
+    },
+    {
+      "id": "X7hDBhd_L5U",
+      "title": "Datatype conversion confusion | chai aur #javascript",
+      "duration": 771
+    },
+    {
+      "id": "N9el4APFtAo",
+      "title": "Why string to number conversion is confusing | chai aur #javascript",
+      "duration": 901
+    },
+    {
+      "id": "giP2uXMlv4c",
+      "title": "Comparison of datatypes in javascript | chai aur #javascript",
+      "duration": 533
+    },
+    {
+      "id": "suMvZWjjKbo",
+      "title": "Data types of javascript summary | chai aur #javascript",
+      "duration": 1082
+    },
+    {
+      "id": "7gwc-1czolw",
+      "title": "Stack and Heap memory in javascript",
+      "duration": 595
+    },
+    {
+      "id": "fozwNnFunlo",
+      "title": "Strings in Javascript | chai aur #javascript",
+      "duration": 1364
+    },
+    {
+      "id": "_KqpeDc47Ro",
+      "title": "Number and Maths in Javascript | chai aur #javascript",
+      "duration": 1397
+    },
+    {
+      "id": "tGLCuoumaGY",
+      "title": "Date and time in depth in javascript | chair aur #javascript",
+      "duration": 1093
+    },
+    {
+      "id": "cejBux2gtEE",
+      "title": "Array in Javascript | chai aur #javascript",
+      "duration": 1135
+    },
+    {
+      "id": "m6azhgyCi-k",
+      "title": "Array part 2 in Javascript Hindi | chai aur #javascript",
+      "duration": 942
+    },
+    {
+      "id": "vVYOHmqQDCU",
+      "title": "Objects in depth in javascript in hindi | chai aur #javascript",
+      "duration": 1088
+    },
+    {
+      "id": "4lb2pXWWXJI",
+      "title": "Objects in Javascript part 2 in Hindi | chai aur #javascript",
+      "duration": 1063
+    },
+    {
+      "id": "AViTh83k-IE",
+      "title": "Object de-structure and JSON API intro | chai aur #javascript",
+      "duration": 813
+    },
+    {
+      "id": "Bn56WahG_t0",
+      "title": "Functions and parameter in javascript | Hindi",
+      "duration": 1154
+    },
+    {
+      "id": "t7ZHPhgdA4U",
+      "title": "Functions with objects and array in javascript | chai aur #javascript",
+      "duration": 676
+    },
+    {
+      "id": "cHHU0jXfjKY",
+      "title": "Global and local scope in javascript | chai aur #javascript",
+      "duration": 577
+    },
+    {
+      "id": "eWwge2YpHhc",
+      "title": "Scope level and mini hoisting in javascript | chai aur #javascript",
+      "duration": 897
+    },
+    {
+      "id": "9ksqBa8_txM",
+      "title": "THIS and arrow function in javascript | chai aur #javascript",
+      "duration": 1109
+    },
+    {
+      "id": "GAIbn16Iytc",
+      "title": "Immediately Invoked Function Expressions IIFE | chai aur #javascript",
+      "duration": 438
+    },
+    {
+      "id": "ByhtOgF6uYM",
+      "title": "How does javascript execute code + call stack | chai aur #javascript",
+      "duration": 1572
+    },
+    {
+      "id": "0P_YvC6Gg0c",
+      "title": "Control flow in javascript in 1 shot | chai aur #javascript",
+      "duration": 3170
+    },
+    {
+      "id": "Y1cpFsXrEgY",
+      "title": "For loop with break and continue in javascript | chai aur #javascript",
+      "duration": 1471
+    },
+    {
+      "id": "w3Q55-l47P0",
+      "title": "While and do while loop in Javascript | chai aur #javascript",
+      "duration": 619
+    },
+    {
+      "id": "M0YImBHQsWU",
+      "title": "High Order Array loops | chai aur #javascript",
+      "duration": 2052
+    },
+    {
+      "id": "9MfwYoWKKVE",
+      "title": "Filter map and reduce in javascript | chai aur #javascript",
+      "duration": 2326
+    },
+    {
+      "id": "DcjNkHtDj8A",
+      "title": "DOM introduction in javascript | chai aur #javascript",
+      "duration": 1106
+    },
+    {
+      "id": "Ab6K57WjWTE",
+      "title": "All DOM selectors NodeList and HTMLCollection | chai aur #javascript",
+      "duration": 2494
+    },
+    {
+      "id": "xAvTgCsCHLs",
+      "title": "How to create a new element in DOM | chai aur #javascript",
+      "duration": 1664
+    },
+    {
+      "id": "VQlY-X_eeTE",
+      "title": "Edit and remove elements in DOM | chai aur #javascript",
+      "duration": 1259
+    },
+    {
+      "id": "EGqHVjU-fas",
+      "title": "Lets build 4 javascript projects for beginners | chai aur #javascript",
+      "duration": 5653
+    },
+    {
+      "id": "_ALUMTa8BAE",
+      "title": "Events in Javascript | chai aur #javascript",
+      "duration": 2217
+    },
+    {
+      "id": "zgt5oTD3rRc",
+      "title": "Async Javascript fundamentals | chai aur #javascript",
+      "duration": 1152
+    },
+    {
+      "id": "efrW5-IYoCU",
+      "title": "2 projects with Async JS | chai aur #javascript",
+      "duration": 2467
+    },
+    {
+      "id": "pDPAcYdSse8",
+      "title": "API request and V8 engine | chai aur #javascript",
+      "duration": 1834
+    },
+    {
+      "id": "NJwRQgsu1Q8",
+      "title": "Promise in javascript | chai aur #javascript",
+      "duration": 3021
+    },
+    {
+      "id": "Rive84an6Lc",
+      "title": "Now you know fetch in javascript | chai aur #javascript",
+      "duration": 1117
+    },
+    {
+      "id": "pN-Qmv4zBcI",
+      "title": "Object Oriented in Javascript | chai aur #javascript",
+      "duration": 1923
+    },
+    {
+      "id": "uMI5cNeHTOc",
+      "title": "Magic of Prototype in javascript | chai aur #javascript",
+      "duration": 2888
+    },
+    {
+      "id": "-owpuf4lbyU",
+      "title": "Call and this in javascript | chai aur #javascript",
+      "duration": 786
+    },
+    {
+      "id": "u6mVHkMpoMk",
+      "title": "Class constructor and static | chai aur #javascript",
+      "duration": 1596
+    },
+    {
+      "id": "75dMiOY_4ac",
+      "title": "Bind in javascript | chai aur #javascript",
+      "duration": 699
+    },
+    {
+      "id": "jss2rL9kv6s",
+      "title": "Now you know Objects in Javascript | chai aur #javascript",
+      "duration": 1186
+    },
+    {
+      "id": "t6vLhF-iSxQ",
+      "title": "Getter Setter and Stack Overflow | chai aur #javascript",
+      "duration": 1883
+    },
+    {
+      "id": "VaH09NXQZ58",
+      "title": "Lexical scoping and Closure | chai aur #javascript",
+      "duration": 1608
+    },
+    {
+      "id": "z9PINyinqwo",
+      "title": "Javascript ends with a story | chai aur #javascript",
+      "duration": 428
+    },
+    {
+      "id": "ZRS485LxX0s",
+      "title": "You don't know array in javascript | PACKED vs HOLEY | JSVU | V8-debug",
+      "duration": 2671
+    }
+  ]
+}

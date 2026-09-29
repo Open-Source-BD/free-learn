@@ -1,0 +1,180 @@
+{
+  "courseId": "ocaml-tutorial-70849b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:23.505Z",
+  "title": "OCAML Tutorial",
+  "channel": "Noureddin Sadawi",
+  "videos": [
+    {
+      "id": "Gi58t_pgfJY",
+      "title": "OCAML Tutorial 1/33: Introduction",
+      "duration": 537
+    },
+    {
+      "id": "Q-qNwaBgfCI",
+      "title": "OCAML Tutorial 2/33: Installing OCAML and OPAM on Ubuntu Linux",
+      "duration": 190
+    },
+    {
+      "id": "fBcAQXW2yy4",
+      "title": "OCAML Tutorial 3/33: Basic OCAML Expressions and Operations",
+      "duration": 602
+    },
+    {
+      "id": "yXhmyErtCss",
+      "title": "OCAML Tutorial 4/33: The OCAML Syntax",
+      "duration": 369
+    },
+    {
+      "id": "xgDT7jGqWKo",
+      "title": "OCAML Tutorial 5/33: If Statement (If Expression)",
+      "duration": 602
+    },
+    {
+      "id": "hTowqz6qhrU",
+      "title": "OCAML Tutorial 6/33: For/While Loop - More on Deep/Shallow Equality",
+      "duration": 614
+    },
+    {
+      "id": "zZUxWsGr7zc",
+      "title": "OCAML Tutorial 7/33: Mutable Variables",
+      "duration": 501
+    },
+    {
+      "id": "DyU4lNT2uAU",
+      "title": "OCAML Tutorial 8/33: Functions in OCAML",
+      "duration": 603
+    },
+    {
+      "id": "Le-Satn_zxo",
+      "title": "OCAML Tutorial 9/33: Anonymous and Polymorphic Functions in OCAML",
+      "duration": 458
+    },
+    {
+      "id": "mXFMHHeJkds",
+      "title": "OCAML Tutorial 10/33: Higher Order Functions & Currying in OCAML",
+      "duration": 499
+    },
+    {
+      "id": "pzXRmwoH7gg",
+      "title": "OCAML Tutorial 11/33: Tuples in OCAML",
+      "duration": 786
+    },
+    {
+      "id": "xwpaVmtiaCg",
+      "title": "OCAML Tutorial 12/33: Pattern Matching in OCAML",
+      "duration": 420
+    },
+    {
+      "id": "C8fovNjjXqU",
+      "title": "OCAML Tutorial 13/33: A Word on Recursion and Recursive Functions",
+      "duration": 530
+    },
+    {
+      "id": "L5UrwN8UQ6I",
+      "title": "OCAML Tutorial 14/33: Recursive Functions in OCAML",
+      "duration": 678
+    },
+    {
+      "id": "RADP9VvobfY",
+      "title": "OCAML Tutorial 15/33: Tracing Functions in OCAML Toplevel",
+      "duration": 233
+    },
+    {
+      "id": "Eqz-xCHMLc8",
+      "title": "OCAML Tutorial 16/33: Memoization and Recursive Functions in OCAML Toplevel",
+      "duration": 634
+    },
+    {
+      "id": "3JUyTAtQc4c",
+      "title": "OCAML Tutorial 17/33: The OCAML System",
+      "duration": 699
+    },
+    {
+      "id": "DFcfu3keCKw",
+      "title": "OCAML Tutorial 18/33: The String Module in OCAML",
+      "duration": 889
+    },
+    {
+      "id": "jIn0Q1E7aco",
+      "title": "OCAML Tutorial 19/33: Compiling OCAML Code",
+      "duration": 899
+    },
+    {
+      "id": "M6Vhq4uLW78",
+      "title": "OCAML Tutorial 20/33: Exception Handling in OCAML",
+      "duration": 585
+    },
+    {
+      "id": "N-8_Rzrbi4k",
+      "title": "OCAML Tutorial 21/33: More on Variable Names and Functions",
+      "duration": 581
+    },
+    {
+      "id": "MPFG19Uxi-0",
+      "title": "OCAML Tutorial 22/33: Labelled & Optional Parameters in OCAML Functions",
+      "duration": 651
+    },
+    {
+      "id": "QMYd69AoWQk",
+      "title": "OCAML Tutorial 23/33: File Access in OCAML (File Input/Output in OCAML)",
+      "duration": 724
+    },
+    {
+      "id": "EM_c1BbwjZQ",
+      "title": "OCAML Tutorial 24/33: File Contents in OCAML (File Input/Output in OCAML)",
+      "duration": 732
+    },
+    {
+      "id": "vPBuxIR70j0",
+      "title": "OCAML Tutorial 25/33: Formatted Output with OCAML Printf",
+      "duration": 669
+    },
+    {
+      "id": "jESvMdhXxmE",
+      "title": "OCAML Tutorial 26/33: Debugging OCAML Programs",
+      "duration": 346
+    },
+    {
+      "id": "13tVUCgVI60",
+      "title": "OCAML Tutorial 27/33: OCAML Date and Time",
+      "duration": 799
+    },
+    {
+      "id": "hM0OlXmsivo",
+      "title": "OCAML Tutorial 28/33: Records in OCAML",
+      "duration": 765
+    },
+    {
+      "id": "CrpRkFtAGuA",
+      "title": "OCAML Tutorial 29/33: OCAML Unions",
+      "duration": 446
+    },
+    {
+      "id": "iMg6F99jzBI",
+      "title": "OCAML Tutorial 30/33: OCAML Unions",
+      "duration": 546
+    },
+    {
+      "id": "rvti3grLL1Y",
+      "title": "OCAML Tutorial 31/33: Creating Modules in OCAML",
+      "duration": 579
+    },
+    {
+      "id": "hXiz2_VlwMU",
+      "title": "OCAML Tutorial 32/33: OCAML Scripting (OCAML Shell Scripts)",
+      "duration": 527
+    },
+    {
+      "id": "-jtOAG5IV5w",
+      "title": "OCAML Tutorial 33/33: OCAML File Extensions (OCAML Files and Objects)",
+      "duration": 499
+    },
+    {
+      "id": "7abf2Vyesrs",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

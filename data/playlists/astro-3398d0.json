@@ -1,0 +1,45 @@
+{
+  "courseId": "astro-3398d0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:26.420Z",
+  "title": "Astro",
+  "channel": "Stefan Rows",
+  "videos": [
+    {
+      "id": "HHQzJtgeSC4",
+      "title": "Astro Google Analytics Integration - Quick & Easy",
+      "duration": 778
+    },
+    {
+      "id": "BWfpDEVl70A",
+      "title": "Astro JS Tutorial Series #1 - Getting Started with Astro 🧑‍🚀",
+      "duration": 2196
+    },
+    {
+      "id": "8ZJ5jkwInKo",
+      "title": "Astro JS Tutorial Series #2 - Styling and Components 🧑‍🚀",
+      "duration": 937
+    },
+    {
+      "id": "WabTaFjSy1g",
+      "title": "Astro JS  Tutorial Series #3 - Astro Layouts and Tailwind CSS 🧑‍🚀",
+      "duration": 1608
+    },
+    {
+      "id": "DvWthdUtmhc",
+      "title": "Astro LinkTree Clone Part #1 - Let''s Build! 🧑‍🚀",
+      "duration": 2748
+    },
+    {
+      "id": "tn9vUFJUx9k",
+      "title": "Astro LinkTree Clone Part #2 - Netlify CMS Integration 🧑‍🚀",
+      "duration": 1809
+    },
+    {
+      "id": "iX-mTitP4aE",
+      "title": "Working with APIs in Astro is AMAZING!",
+      "duration": 1024
+    }
+  ]
+}

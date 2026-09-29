@@ -1,0 +1,685 @@
+{
+  "courseId": "computer-networks-ead537",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:33.835Z",
+  "title": "Computer Networks",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "VwN91x5i25g",
+      "title": "Introduction to Computer Networks",
+      "duration": 584
+    },
+    {
+      "id": "m8eNwVel5xI",
+      "title": "Computer Networks - Basic Characteristics",
+      "duration": 537
+    },
+    {
+      "id": "ly8ikWtAY7s",
+      "title": "Network Protocols & Communications (Part 1)",
+      "duration": 746
+    },
+    {
+      "id": "iE_kY2LVBKA",
+      "title": "Network Protocols & Communications (Part 2)",
+      "duration": 632
+    },
+    {
+      "id": "EBTP0mpCGBM",
+      "title": "Components of a Computer Network",
+      "duration": 595
+    },
+    {
+      "id": "9BIN99rHOCQ",
+      "title": "Classification of Computer Networks",
+      "duration": 532
+    },
+    {
+      "id": "uSKdjjw5zow",
+      "title": "Network Topology",
+      "duration": 816
+    },
+    {
+      "id": "qDN6oEUsUko",
+      "title": "Network Topology (Solved Questions)",
+      "duration": 717
+    },
+    {
+      "id": "Kx6i9gwNS3w",
+      "title": "Basics of IP Addressing",
+      "duration": 504
+    },
+    {
+      "id": "FkiTOMn-XGw",
+      "title": "Basics of MAC Addressing",
+      "duration": 439
+    },
+    {
+      "id": "AroUUkB-lsA",
+      "title": "Basics of Port Addressing",
+      "duration": 501
+    },
+    {
+      "id": "-HlJ4psu5aU",
+      "title": "Switching Techniques in Computer Networks",
+      "duration": 755
+    },
+    {
+      "id": "FewtLNsjtRA",
+      "title": "Layering in Computer Networks",
+      "duration": 425
+    },
+    {
+      "id": "qBXmbJZQ5rY",
+      "title": "The OSI Reference Model (Part 1)",
+      "duration": 474
+    },
+    {
+      "id": "xiGgrQioF2E",
+      "title": "The OSI Reference Model (Part 2)",
+      "duration": 706
+    },
+    {
+      "id": "oQzueBVyAM4",
+      "title": "The OSI Reference Model (Part 3)",
+      "duration": 986
+    },
+    {
+      "id": "XI8kMBMMS6o",
+      "title": "The OSI Reference Model (Part 4)",
+      "duration": 554
+    },
+    {
+      "id": "yDTC6sbYFFE",
+      "title": "Addressing in Networking",
+      "duration": 923
+    },
+    {
+      "id": "wvPe4Zb0tUA",
+      "title": "The TCP/IP Protocol Suite",
+      "duration": 609
+    },
+    {
+      "id": "rurs7cdT5cc",
+      "title": "Basic Networking Commands (Part 1)",
+      "duration": 851
+    },
+    {
+      "id": "frUQMHXhnvs",
+      "title": "Basics of Cisco Packet Tracer (Part 1)",
+      "duration": 746
+    },
+    {
+      "id": "FZ8hRDakHvI",
+      "title": "Basics of Cisco Packet Tracer (Part 2) | Hub",
+      "duration": 824
+    },
+    {
+      "id": "eFY6mi3lmRQ",
+      "title": "Basics of Cisco Packet Tracer (Part 3) | Switch",
+      "duration": 718
+    },
+    {
+      "id": "xwaqSZHK8eM",
+      "title": "Basics of Router",
+      "duration": 615
+    },
+    {
+      "id": "FnH1XUQsoD8",
+      "title": "Basics of Cisco Packet Tracer (Part 4) | Router",
+      "duration": 876
+    },
+    {
+      "id": "Ip6H2VmfshY",
+      "title": "Basics of Cisco Packet Tracer (Part 5) | Repeater",
+      "duration": 421
+    },
+    {
+      "id": "NSDAYnixdgc",
+      "title": "Basics of Bridge",
+      "duration": 318
+    },
+    {
+      "id": "0pMm_QxCg3I",
+      "title": "Network Devices",
+      "duration": 287
+    },
+    {
+      "id": "-WhBOnH_jB8",
+      "title": "Network Devices (Solved Questions)",
+      "duration": 503
+    },
+    {
+      "id": "rKzDbdGhcdY",
+      "title": "Physical Layer and Media (Part 1)",
+      "duration": 409
+    },
+    {
+      "id": "JP-wJOVAvXc",
+      "title": "Physical Layer and Media (Part 2)",
+      "duration": 467
+    },
+    {
+      "id": "fEygcbiniHQ",
+      "title": "Physical Layer and Media (Part 3)",
+      "duration": 663
+    },
+    {
+      "id": "eGr2wJzFO9s",
+      "title": "Line Configuration",
+      "duration": 383
+    },
+    {
+      "id": "VBAuzvVzOQU",
+      "title": "Link Layer Services",
+      "duration": 554
+    },
+    {
+      "id": "N1apF49Ih28",
+      "title": "Sub-layers of the Data Link Layer",
+      "duration": 401
+    },
+    {
+      "id": "NhpzBldHOYo",
+      "title": "Framing (Part 1)",
+      "duration": 432
+    },
+    {
+      "id": "ckcRxFxeOs4",
+      "title": "Framing (Part 2)",
+      "duration": 388
+    },
+    {
+      "id": "8sV_fOzJoqI",
+      "title": "Framing (Part 3)",
+      "duration": 256
+    },
+    {
+      "id": "N2tgsPUPEBE",
+      "title": "High-Level Data Link Control (HDLC)",
+      "duration": 376
+    },
+    {
+      "id": "toS0RXNaTaE",
+      "title": "Bit Stuffing",
+      "duration": 274
+    },
+    {
+      "id": "EpVkN6YuDUk",
+      "title": "Binary Synchronous Communications Protocol (BISYNC)",
+      "duration": 360
+    },
+    {
+      "id": "kKCwkRT_U8I",
+      "title": "Point-to-Point Protocol (PPP)",
+      "duration": 372
+    },
+    {
+      "id": "whsTT8hnbJA",
+      "title": "Digital Data Communications Message Protocol (DDCMP)",
+      "duration": 277
+    },
+    {
+      "id": "EMrY-8m8D1E",
+      "title": "Error Detection",
+      "duration": 488
+    },
+    {
+      "id": "UwERCzJv-y8",
+      "title": "Vertical Redundancy Check (VRC)",
+      "duration": 430
+    },
+    {
+      "id": "nNONvBsOtrE",
+      "title": "Longitudinal Redundancy Check (LRC)",
+      "duration": 446
+    },
+    {
+      "id": "AtVWnyDDaDI",
+      "title": "Checksum",
+      "duration": 572
+    },
+    {
+      "id": "A9g6rTMblz4",
+      "title": "Cyclic Redundancy Check (CRC) - Part 1",
+      "duration": 548
+    },
+    {
+      "id": "wQGwfBS3gpk",
+      "title": "Cyclic Redundancy Check (CRC) - Part 2",
+      "duration": 345
+    },
+    {
+      "id": "tEkePtlujSA",
+      "title": "Cyclic Redundancy Check (Solved Problem)",
+      "duration": 537
+    },
+    {
+      "id": "5AVuUgEJu1E",
+      "title": "Network Performance",
+      "duration": 392
+    },
+    {
+      "id": "wo3M5G9ZHo0",
+      "title": "Latency",
+      "duration": 375
+    },
+    {
+      "id": "xr8PdnGt67k",
+      "title": "Latency (Simulation)",
+      "duration": 301
+    },
+    {
+      "id": "vPCKWhXSAEo",
+      "title": "Bandwidth Delay Product",
+      "duration": 323
+    },
+    {
+      "id": "TBD_Bj9PCOw",
+      "title": "Delay (Solved Problem)",
+      "duration": 229
+    },
+    {
+      "id": "nT9F-USjtBg",
+      "title": "Round Trip Time (RTT)",
+      "duration": 213
+    },
+    {
+      "id": "ReQiSK8W3Ag",
+      "title": "Flow Control",
+      "duration": 315
+    },
+    {
+      "id": "n09DfvemnTQ",
+      "title": "Stop-and-Wait Protocol",
+      "duration": 446
+    },
+    {
+      "id": "YdkksvhkQGQ",
+      "title": "Stop-and-Wait ARQ Protocol",
+      "duration": 381
+    },
+    {
+      "id": "LnbvhoxHn8M",
+      "title": "Sliding Window Protocol",
+      "duration": 474
+    },
+    {
+      "id": "QD3oCelHJ20",
+      "title": "Go-Back-N ARQ",
+      "duration": 655
+    },
+    {
+      "id": "cqPWjo2iLgk",
+      "title": "Go-Back-N ARQ (Solved Problem 1)",
+      "duration": 921
+    },
+    {
+      "id": "PHcIuxvLSzc",
+      "title": "Go-Back-N ARQ (Solved Problem 2)",
+      "duration": 489
+    },
+    {
+      "id": "WfIhQ3o2xow",
+      "title": "Selective Repeat ARQ",
+      "duration": 307
+    },
+    {
+      "id": "gG0xzEHH0iU",
+      "title": "Selective Repeat ARQ (Solved Problem 1)",
+      "duration": 319
+    },
+    {
+      "id": "D8-jK_gVzb0",
+      "title": "Selective Repeat ARQ (Solved Problem 2)",
+      "duration": 221
+    },
+    {
+      "id": "_amTFCVhXNw",
+      "title": "Sliding Window Protocol (Solved Problem 1)",
+      "duration": 224
+    },
+    {
+      "id": "CBIsClf9Dpc",
+      "title": "Sliding Window Protocol (Solved Problem 2)",
+      "duration": 223
+    },
+    {
+      "id": "YAjfUc7Tt24",
+      "title": "Multiple Access Protocols",
+      "duration": 458
+    },
+    {
+      "id": "j4-r0e7DjqY",
+      "title": "Pure Aloha",
+      "duration": 730
+    },
+    {
+      "id": "aqWTNk90zRA",
+      "title": "Slotted Aloha",
+      "duration": 564
+    },
+    {
+      "id": "MAZi6VoekYw",
+      "title": "Carrier Sense Multiple Access (CSMA) – Part 1",
+      "duration": 767
+    },
+    {
+      "id": "PyLlYQXuxvs",
+      "title": "Carrier Sense Multiple Access (CSMA) – Part 2",
+      "duration": 781
+    },
+    {
+      "id": "baaPXiQ44vs",
+      "title": "Controlled Access Protocol – Reservation",
+      "duration": 325
+    },
+    {
+      "id": "Zp8UBSEVPdc",
+      "title": "Controlled Access Protocol – Polling",
+      "duration": 457
+    },
+    {
+      "id": "ac5JI20hUjE",
+      "title": "Controlled Access Protocol – Token Passing",
+      "duration": 399
+    },
+    {
+      "id": "KviHyRss-dE",
+      "title": "Channelization Protocols",
+      "duration": 643
+    },
+    {
+      "id": "MzhiVE6OuQA",
+      "title": "Ethernet",
+      "duration": 785
+    },
+    {
+      "id": "FL_Yn8CxMKY",
+      "title": "Ethernet (Solved Questions) - Part 1",
+      "duration": 846
+    },
+    {
+      "id": "xFliq3EFN6I",
+      "title": "Ethernet (Solved Questions) - Part 2",
+      "duration": 484
+    },
+    {
+      "id": "ZXqXEzioRSs",
+      "title": "Ethernet Transmitter Algorithm",
+      "duration": 703
+    },
+    {
+      "id": "KaEPWr0ftvM",
+      "title": "Experience with Ethernet",
+      "duration": 344
+    },
+    {
+      "id": "8i7dyojFOP4",
+      "title": "Ethernet (Solved Question 1)",
+      "duration": 192
+    },
+    {
+      "id": "0--YXSCgaa0",
+      "title": "Ethernet (Solved Question 2)",
+      "duration": 316
+    },
+    {
+      "id": "gtYNSkPbKto",
+      "title": "Ethernet (Solved Question 3)",
+      "duration": 267
+    },
+    {
+      "id": "t3FVP5wuG4g",
+      "title": "IEEE 802.11 Wireless Fidelity (Wi-Fi)",
+      "duration": 674
+    },
+    {
+      "id": "kcqpkl_HZSQ",
+      "title": "IEEE 802.11 Distribution System",
+      "duration": 905
+    },
+    {
+      "id": "jy4kBAzJCKM",
+      "title": "IEEE 802.11 Wi-Fi Frame Format",
+      "duration": 527
+    },
+    {
+      "id": "_oz4WTWRfGs",
+      "title": "Hidden Terminal Problem",
+      "duration": 254
+    },
+    {
+      "id": "mhuXdaRoLzA",
+      "title": "Exposed Terminal Problem",
+      "duration": 230
+    },
+    {
+      "id": "3F4DQINyx3g",
+      "title": "Multiple Access with Collision Avoidance (MACA)",
+      "duration": 593
+    },
+    {
+      "id": "Sn-vvwNlkck",
+      "title": "Wi-Fi (Solved Question)",
+      "duration": 230
+    },
+    {
+      "id": "ixY0Cau4mBM",
+      "title": "IEEE 802.15.1 Bluetooth",
+      "duration": 578
+    },
+    {
+      "id": "eJKkEzeGuuo",
+      "title": "Bluetooth Protocol Stack",
+      "duration": 414
+    },
+    {
+      "id": "ez24W5oTU3U",
+      "title": "Virtual LAN (VLAN)",
+      "duration": 646
+    },
+    {
+      "id": "GSKoQ8ZR8rw",
+      "title": "Spanning Tree Protocol (STP)",
+      "duration": 1195
+    },
+    {
+      "id": "_kJo-Tj9rvg",
+      "title": "Spanning Tree Protocol (Solved Question)",
+      "duration": 554
+    },
+    {
+      "id": "phOlq9SuscM",
+      "title": "IPv4 Address (Part 1)",
+      "duration": 604
+    },
+    {
+      "id": "m_iCPlVzN_o",
+      "title": "IPv4 Address (Part 2)",
+      "duration": 552
+    },
+    {
+      "id": "VkgfyLf1raY",
+      "title": "Classful Addressing (Part 1)",
+      "duration": 605
+    },
+    {
+      "id": "0MJmtjj0qCQ",
+      "title": "Classful Addressing (Part 2)",
+      "duration": 876
+    },
+    {
+      "id": "KILaAaNWd8o",
+      "title": "Classful Addressing (Part 3)",
+      "duration": 389
+    },
+    {
+      "id": "-6bUJZcWgRo",
+      "title": "Classful Addressing (CPT Activity)",
+      "duration": 534
+    },
+    {
+      "id": "aDdArElVJvQ",
+      "title": "IPv4 Unicast, Multicast, and Broadcast",
+      "duration": 429
+    },
+    {
+      "id": "PAJpalzADCM",
+      "title": "Classful Addressing (Solved Question 1)",
+      "duration": 397
+    },
+    {
+      "id": "-ekunwqxkL0",
+      "title": "Classful Addressing (Solved Question 2)",
+      "duration": 304
+    },
+    {
+      "id": "asz81UtliCs",
+      "title": "Classful Addressing (Solved Question 3)",
+      "duration": 406
+    },
+    {
+      "id": "rqc1plzpV-c",
+      "title": "Public and Private IP Addresses",
+      "duration": 736
+    },
+    {
+      "id": "eR9b46Bk0Qg",
+      "title": "Classless Addressing (Part 1)",
+      "duration": 362
+    },
+    {
+      "id": "PGwtar-BZzs",
+      "title": "Classless Addressing (Part 2)",
+      "duration": 617
+    },
+    {
+      "id": "UHRPtNZ_Rz4",
+      "title": "Subnetting",
+      "duration": 614
+    },
+    {
+      "id": "EZTQ61njgKI",
+      "title": "Subnetting (Solved Problem 1)",
+      "duration": 779
+    },
+    {
+      "id": "tO4vvVM0kK4",
+      "title": "Verifying the Subnetting (CPT Activity)",
+      "duration": 467
+    },
+    {
+      "id": "w5bMxHxELaI",
+      "title": "Subnetting (Solved Problem 2)",
+      "duration": 652
+    },
+    {
+      "id": "pGZPXeqbrRs",
+      "title": "Subnetting (Solved Problem 3)",
+      "duration": 798
+    },
+    {
+      "id": "XELcQ3I3PZU",
+      "title": "Subnetting (CPT Activity)",
+      "duration": 591
+    },
+    {
+      "id": "M9URqaAy6jc",
+      "title": "Subnetting (Solved Problem 4)",
+      "duration": 592
+    },
+    {
+      "id": "PG46YejJseA",
+      "title": "Subnetting (Troubleshooting 1)",
+      "duration": 384
+    },
+    {
+      "id": "BkAuRpIU2Y0",
+      "title": "Subnetting (Troubleshooting 2)",
+      "duration": 481
+    },
+    {
+      "id": "fkvLH1ojErM",
+      "title": "Subnetting (Solved Problem 5)",
+      "duration": 467
+    },
+    {
+      "id": "Y4p6rXdp844",
+      "title": "Subnetting (Solved Problem 6)",
+      "duration": 405
+    },
+    {
+      "id": "6S2LIlo0b70",
+      "title": "Subnetting (Solved Problem 7)",
+      "duration": 314
+    },
+    {
+      "id": "qKWb8ExPXpE",
+      "title": "Subnetting (Solved Problem 8)",
+      "duration": 237
+    },
+    {
+      "id": "FYfScxtotLA",
+      "title": "Subnetting (Solved Problem 9)",
+      "duration": 274
+    },
+    {
+      "id": "S8IOs6yyl1s",
+      "title": "Subnetting (Solved Problem 10)",
+      "duration": 532
+    },
+    {
+      "id": "q0PPJbCyRmg",
+      "title": "Subnetting (Solved Problem 11)",
+      "duration": 647
+    },
+    {
+      "id": "wZwNzCIqpvY",
+      "title": "Subnetting (Solved Problem 12)",
+      "duration": 222
+    },
+    {
+      "id": "tJ9yAkEKR1Y",
+      "title": "Fixed Length Subnet Masking (FLSM)",
+      "duration": 652
+    },
+    {
+      "id": "N7BEDtZ7G4g",
+      "title": "Variable Length Subnet Masking (VLSM) - Solved Problem 1",
+      "duration": 766
+    },
+    {
+      "id": "TJDAh_zbePI",
+      "title": "Variable Length Subnet Masking (VLSM) - Solved Problem 2",
+      "duration": 713
+    },
+    {
+      "id": "DbFmnnhf_MA",
+      "title": "Network Layer Protocols | Chapter-4 | Computer Networks | nesoacademy.org",
+      "duration": 70
+    },
+    {
+      "id": "OyBIburQl6s",
+      "title": "Routing Protocols | Chapter-5 | Computer Networks | nesoacademy.org",
+      "duration": 88
+    },
+    {
+      "id": "TF-6G-cFi5E",
+      "title": "NAT & IPv6 | Chapter-6 | Computer Networks | nesoacademy.org",
+      "duration": 32
+    },
+    {
+      "id": "7jUWxFV1VHU",
+      "title": "Transport Layer | Chapter-7 | Computer Networks | nesoacademy.org",
+      "duration": 79
+    },
+    {
+      "id": "18VBVMgjp6w",
+      "title": "Application Layer & Security | Chapter-8 | Computer Networks | nesoacademy.org",
+      "duration": 41
+    }
+  ]
+}

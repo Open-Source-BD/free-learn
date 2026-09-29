@@ -1,0 +1,465 @@
+{
+  "courseId": "digital-electronics-a69326",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLm_MSClsnwm_PSua_nSYYoHhyW6taRoY4&feature=shared",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:38.577Z",
+  "title": "Digital Electronics",
+  "channel": "Ekeeda",
+  "videos": [
+    {
+      "id": "tkdiKcvqEzo",
+      "title": "Introduction to Binary Multiplication | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 362
+    },
+    {
+      "id": "EMUm-Thngrs",
+      "title": "Decimal to Octal Conversion | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 364
+    },
+    {
+      "id": "9P9hEG63ovQ",
+      "title": "Octal to Binary Conversion | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 293
+    },
+    {
+      "id": "jcbc-GQIPzU",
+      "title": "1's Complement and 2's Complement | Number System and Codes | Digital Circuit Design in EXTC",
+      "duration": 428
+    },
+    {
+      "id": "KNbqhsps1RM",
+      "title": "Binary Addition and Binary Subtraction | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 337
+    },
+    {
+      "id": "bLiFod7CEGs",
+      "title": "Examples on 1's and 2's Compliment | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 779
+    },
+    {
+      "id": "fa9ptCqnG64",
+      "title": "Introduction to Codes | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 966
+    },
+    {
+      "id": "J6z9oo3rhGs",
+      "title": "Binary Logic and Logic Levels | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 383
+    },
+    {
+      "id": "mCHu2iEib30",
+      "title": "Half Adder Circuit | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 757
+    },
+    {
+      "id": "ephtMcWa0Lg",
+      "title": "Mastering Full Adder Circuit | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 1131
+    },
+    {
+      "id": "CSbVBpU9XBU",
+      "title": "N-Bit Parallel Adder Circuit | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 335
+    },
+    {
+      "id": "o9OKmnlHmxc",
+      "title": "Introduction to Multiplexers | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 292
+    },
+    {
+      "id": "Txwl0pphTyA",
+      "title": "4X1 Multiplexer | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 656
+    },
+    {
+      "id": "ng-fDa_cSfw",
+      "title": "Implement Full Adder using 8:1 MUX | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 591
+    },
+    {
+      "id": "EY2wO9NsnNY",
+      "title": "Explanation to 1:8 Demultiplexer | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 381
+    },
+    {
+      "id": "LdBJY8Phr2M",
+      "title": "Implement Full Subtractor Using 1:8 DEMUX | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 497
+    },
+    {
+      "id": "0CEDT576-A0",
+      "title": "Implement Full Adder using 1:8 DEMUX | Number System and Code | Digital Circuit Design in EXTC",
+      "duration": 508
+    },
+    {
+      "id": "i1YO-wTqsF0",
+      "title": "Introduction to Encoder | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 227
+    },
+    {
+      "id": "d3F_iPeQVyQ",
+      "title": "Decimal to BCD Encoder | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 578
+    },
+    {
+      "id": "KC0n6WkfBaw",
+      "title": "Octal to Binary Encoder | Number System and Code | Digital Circuit Design in EXTC Engineering",
+      "duration": 450
+    },
+    {
+      "id": "FgrwVanO-xo",
+      "title": "Introduction to Logic Gates | Logic Gates and Combinational Circuit | Digital Circuit Design",
+      "duration": 181
+    },
+    {
+      "id": "l4GC0gorfeU",
+      "title": "Realization of Basic Gates Using NAND Gate | Logic Gates and Combinational Circuit | Digital Circuit",
+      "duration": 513
+    },
+    {
+      "id": "wAGoIaF5qWM",
+      "title": "Realization of Basic Gates Using NOR Gate | Logic Gates & Combinational Circuits | EXTC Engineering",
+      "duration": 435
+    },
+    {
+      "id": "JYecfwHOhb4",
+      "title": "Mastering the Demorgan Theorem | Logic Gates and Combinational Circuit | Digital Circuit Design",
+      "duration": 620
+    },
+    {
+      "id": "ds9uyeHNPsk",
+      "title": "Sum of Product (SOP) and Product of Sum (POS) | Logic Gates and Combinational Circuit | EXTC",
+      "duration": 322
+    },
+    {
+      "id": "Lg2ybaG9gTM",
+      "title": "Standard SOP Form and Standard POS Form | Logic Gates and Combinational Circuit | EXTC Engineering",
+      "duration": 571
+    },
+    {
+      "id": "prrjH0ZtCGE",
+      "title": "Conversion of Logical Expression to Standard SOP Form | Logic Gates and Combinational Circuits",
+      "duration": 442
+    },
+    {
+      "id": "sRl2aC2lkbc",
+      "title": "Conversion of Logical Expression to POS Form | Logic Gates and Combinational Circuits | EXTC",
+      "duration": 518
+    },
+    {
+      "id": "gUmBbMQNyo0",
+      "title": "Introduction to K-Map | Logic Gates and Combinational Circuit | Digital Circuit Design in EXTC",
+      "duration": 505
+    },
+    {
+      "id": "hPtOnJOkwm0",
+      "title": "Mapping of Truth Table to K Map | Logic Gates and Combinational Circuit | Digital Circuit Design",
+      "duration": 432
+    },
+    {
+      "id": "B5VJuPEC9rk",
+      "title": "Characteristics of Logic Families | Logic Gates and Combinational Circuits | Digital Circuit Design",
+      "duration": 268
+    },
+    {
+      "id": "LP4OQCpvHAA",
+      "title": "Classification of Logic Families | Logic Gates and Combinational Circuit | Digital Circuit Design",
+      "duration": 416
+    },
+    {
+      "id": "hCk8_BSnYGs",
+      "title": "Comparison of TTL, CMOS and ECL | Logic Gates and Combinational Circuits | Digital Circuit Design",
+      "duration": 308
+    },
+    {
+      "id": "VM9S7_sAK1U",
+      "title": "Introduction to Analog and Digital Signals | Logic Gates and Combinational Circuit in EXTC",
+      "duration": 164
+    },
+    {
+      "id": "M5WvsyZinb4",
+      "title": "BCD Adder | Logic Gates and Combinational Circuits | Digital Circuit Design in EXTC Engineering",
+      "duration": 223
+    },
+    {
+      "id": "CPE_21OSPfU",
+      "title": "Carry Look Ahead Adder | Logic Gates and Combinational Circuits | Digital Circuit Design",
+      "duration": 166
+    },
+    {
+      "id": "NOEVH789i0M",
+      "title": "Introduction to Sequential Logic Circuit | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 226
+    },
+    {
+      "id": "kXHs_EmM8EM",
+      "title": "Comparison Between Combinational Circuit and Sequential Circuit - Sequential Logic Circuit",
+      "duration": 303
+    },
+    {
+      "id": "oD53bMEigdg",
+      "title": "SR Latch Introduction | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 525
+    },
+    {
+      "id": "VenzPd-hEEw",
+      "title": "What is Clock Signal |  Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 231
+    },
+    {
+      "id": "ARcatV-tBVg",
+      "title": "Introduction to Flipflop | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 213
+    },
+    {
+      "id": "ABG_8zq97o0",
+      "title": "Understanding the concept of SR-FF in Sequential Logic Circuit | Digital Circuit Design | EXTC",
+      "duration": 1123
+    },
+    {
+      "id": "eQXJ2kJ0syU",
+      "title": "Understanding the concept of JK-FF in Sequential Logic Circuit | Digital Circuit Design | EXTC",
+      "duration": 978
+    },
+    {
+      "id": "cgEODcs1TJA",
+      "title": "Conversion of JK FF to D FF | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 548
+    },
+    {
+      "id": "vD0JLdxWOFg",
+      "title": "JK to T Flip Flop Conversion | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 423
+    },
+    {
+      "id": "5CnOL8213kU",
+      "title": "Introduction to Counters | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 260
+    },
+    {
+      "id": "GcAOB-HyK9A",
+      "title": "3 Bit Asynchronous Up Counter |Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 764
+    },
+    {
+      "id": "b4PspJ9J3xU",
+      "title": "4 bit Asynchronous up Counter | Sequential Logic Circuit |Digital Circuit Design in EXTC Engineering",
+      "duration": 880
+    },
+    {
+      "id": "p6g6s2ViypY",
+      "title": "3 Bit Asynchronous Down Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 663
+    },
+    {
+      "id": "R5Uigd1N3FY",
+      "title": "4 Bit Asynchronous Down Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 813
+    },
+    {
+      "id": "qpW8F_KBt0A",
+      "title": "3 Bit Asynchronous Up Down Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 626
+    },
+    {
+      "id": "wsd6yNWNgIY",
+      "title": "Introduction to Modulus of Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 245
+    },
+    {
+      "id": "Aka_1pthirk",
+      "title": "MOD-6 Asynchronous Counter Using JK Flip Flop | Sequential Logic Circuits | Digital Circuit Design",
+      "duration": 540
+    },
+    {
+      "id": "RIHsqm4HkNk",
+      "title": "Design MOD 13 Ripple Counter Using JK FF |  Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 486
+    },
+    {
+      "id": "ZrLhAsBQlhU",
+      "title": "Design 2 Bit Synchronous Up Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 866
+    },
+    {
+      "id": "gaVGCz4Woyc",
+      "title": "Design 3 Bit Synchronous Up Counter Using T-FF | Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 966
+    },
+    {
+      "id": "10DVImrPRvM",
+      "title": "Design 3 Bit Synchronous Up Counter Using JK FF | Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 1287
+    },
+    {
+      "id": "o9R1egALhNs",
+      "title": "Design Synchronous Decade Counter Using T - FF |  Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 2004
+    },
+    {
+      "id": "Rzjm0Rn71j0",
+      "title": "Design Mod 12 Synchronous Counter Using JKFF | Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 2439
+    },
+    {
+      "id": "7gsB_PNEnRg",
+      "title": "Design mod 10 Synchronous Counter using JKFF | Sequential Logic Circuit | Digital Circuit Design",
+      "duration": 2160
+    },
+    {
+      "id": "10IfUlrQtN8",
+      "title": "Synchronous Counter Using T Flip Flop Example 1 | Sequential Logic Circuits | Digital Circuit Design",
+      "duration": 1473
+    },
+    {
+      "id": "n8Xs_70d850",
+      "title": "3 Bit Up Down Synchronous Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 1245
+    },
+    {
+      "id": "tHwDmKzc71s",
+      "title": "Introduction to Registers | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 221
+    },
+    {
+      "id": "YOkDzGtqlJo",
+      "title": "Serial Input Serial Output | Sequential Logic Circuits | Digital Circuit Design in EXTC Engineering",
+      "duration": 545
+    },
+    {
+      "id": "NL2rlxPdFSQ",
+      "title": "Universal Shift Register | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 157
+    },
+    {
+      "id": "Js46KbERHJs",
+      "title": "Application of Shift Registers | Sequential Logic Circuit | Digital Circuit Design in EXTC",
+      "duration": 268
+    },
+    {
+      "id": "XF6Vy1Si6Mc",
+      "title": "Ring Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 404
+    },
+    {
+      "id": "42UOyywlSDs",
+      "title": "Johnson's Counter | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 404
+    },
+    {
+      "id": "HSQUiUiva08",
+      "title": "Design of Serial Adder FSM | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 195
+    },
+    {
+      "id": "NmtiSEJmXGk",
+      "title": "Design of Vending Machine | Sequential Logic Circuit | Digital Circuit Design in EXTC Engineering",
+      "duration": 266
+    },
+    {
+      "id": "_5aRmQ1HrKQ",
+      "title": "Introduction to Programmable Logic Devices | Programmable Logic Devices | Digital Electronics",
+      "duration": 126
+    },
+    {
+      "id": "IhZgZcjclY8",
+      "title": "Introduction to Keyboard Encoder | Programmable Logic Devices | Digital Electronics in EXTC",
+      "duration": 170
+    },
+    {
+      "id": "EjHUQhFPwUA",
+      "title": "Programmable Logic Array (PLA) | Programmable Logic Devices | Digital Electronics inEXTC Engineering",
+      "duration": 183
+    },
+    {
+      "id": "UT41V-ClZ74",
+      "title": "Programmable Array Logic (PAL) | Programmable Logic Devices |Digital Electronics in EXTC Engineering",
+      "duration": 164
+    },
+    {
+      "id": "2W3UybKjcU0",
+      "title": "Complex Programmable Logic Devices | Programmable Logic Devices | Digital Electronics in EXTC",
+      "duration": 305
+    },
+    {
+      "id": "RNLtpp2ZHbE",
+      "title": "Field Programmable Gate Array | Programmable Logic Devices | Digital Electronics in EXTC Engineering",
+      "duration": 238
+    },
+    {
+      "id": "f2Q8vgMDkZk",
+      "title": "Example 1: Based on PLA | Programmable Logic Devices | Digital Electronics in EXTC Engineering",
+      "duration": 356
+    },
+    {
+      "id": "z45jsD85klc",
+      "title": "Comparison Between PLA and PAL | Programmable Logic Devices | Digital Electronics in EXTC",
+      "duration": 216
+    },
+    {
+      "id": "_lgaKFKg3H8",
+      "title": "Difference Between CPLD and FPGA | Programmable Logic Devices | Digital Electronics in EXTC",
+      "duration": 340
+    },
+    {
+      "id": "SF2xew6r6uQ",
+      "title": "Introduction to VHDL | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 105
+    },
+    {
+      "id": "u_HUceukGeM",
+      "title": "Introduction to Identifiers | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 101
+    },
+    {
+      "id": "g3X3yv-bjCk",
+      "title": "Structure of VHDL | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 225
+    },
+    {
+      "id": "0lKmRe6z08s",
+      "title": "Introduction to Package | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 246
+    },
+    {
+      "id": "jIsDYW7C3xg",
+      "title": "Structural Modeling in VHDL | Digital Electronics | Digital Circuit Design in EXTC Engineering",
+      "duration": 318
+    },
+    {
+      "id": "zSNGG0MohyQ",
+      "title": "Dataflow Modeling in VHDL | Digital Electronics | Digital Circuit Design in EXTC Engineering",
+      "duration": 269
+    },
+    {
+      "id": "LV0bJZ2MTU8",
+      "title": "Behavioval Style of Modeling in VHDL | Digital Electronics | Digital Circuit Design in EXTC",
+      "duration": 284
+    },
+    {
+      "id": "0rP_idtkn-g",
+      "title": "VHDL Data Objects | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 180
+    },
+    {
+      "id": "2GZa26T_lvI",
+      "title": "VHDL Data Types | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 221
+    },
+    {
+      "id": "pD6g661kv_s",
+      "title": "VHDL Code to Implement  AND Gate | VHDL | Digital Electronics in EXTC Engineering",
+      "duration": 409
+    },
+    {
+      "id": "zQYfr5yuPE4",
+      "title": "Implementation of Full Adder Using VHDL Code and Considering data Flow Modeling | VHDL in EXTC",
+      "duration": 631
+    },
+    {
+      "id": "D2Tkgjl-iw8",
+      "title": "Units of Memory | Classification and Types of Memory | Digital Electronics in EXTC",
+      "duration": 272
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "java-awt-3191c4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKoYR1H6l19hvF_8SMHGdPvk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:23.296Z",
+  "title": "Java AWT",
+  "channel": "Abdul Bari",
+  "videos": [
+    {
+      "id": "8D80vZHcs0g",
+      "title": "Java AWT - #1",
+      "duration": 1230
+    },
+    {
+      "id": "hxyzF4sp8No",
+      "title": "Java AWT Simple App #2",
+      "duration": 535
+    },
+    {
+      "id": "UaenPz_ERVU",
+      "title": "Java AWT Event Handling #3",
+      "duration": 528
+    },
+    {
+      "id": "CM7fnItrNr0",
+      "title": "Java AWT Event Classes #4",
+      "duration": 666
+    },
+    {
+      "id": "8L92MCmdUHw",
+      "title": "Java AWT Event Listeners #5",
+      "duration": 363
+    },
+    {
+      "id": "O5ykzt7Hgxk",
+      "title": "Java AWT Coding Styles #6",
+      "duration": 480
+    },
+    {
+      "id": "8-h_UVoznwY",
+      "title": "Java AWT Listeners Coding Styles #7",
+      "duration": 1055
+    }
+  ]
+}

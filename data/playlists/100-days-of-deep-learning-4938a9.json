@@ -1,0 +1,430 @@
+{
+  "courseId": "100-days-of-deep-learning-4938a9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:00.720Z",
+  "title": "100 Days of Deep Learning",
+  "channel": "CampusX",
+  "videos": [
+    {
+      "id": "2dH_qjc9mFg",
+      "title": "100 Days of Deep Learning | Course Announcement",
+      "duration": 1112
+    },
+    {
+      "id": "fHF22Wxuyw4",
+      "title": "What is Deep Learning? Deep Learning Vs Machine Learning | Complete Deep Learning Course",
+      "duration": 4018
+    },
+    {
+      "id": "fne_UE7hDn0",
+      "title": "Types of Neural Networks | History of Deep Learning | Applications of Deep Learning",
+      "duration": 1996
+    },
+    {
+      "id": "X7iIKPoZ0Sw",
+      "title": "What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition",
+      "duration": 2314
+    },
+    {
+      "id": "Lu2bruOHN6g",
+      "title": "Perceptron Trick | How to train a Perceptron | Perceptron Part 2 |  Deep Learning Full Course",
+      "duration": 3105
+    },
+    {
+      "id": "2_gCL5RAkHc",
+      "title": "Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function",
+      "duration": 3553
+    },
+    {
+      "id": "Jp44b27VnOg",
+      "title": "Problem with Perceptron",
+      "duration": 459
+    },
+    {
+      "id": "H0_3SJh4Rqs",
+      "title": "MLP Notation",
+      "duration": 804
+    },
+    {
+      "id": "qw7wFGgNCSU",
+      "title": "Multi Layer Perceptron | MLP Intuition",
+      "duration": 2266
+    },
+    {
+      "id": "7MuiScUkboE",
+      "title": "Forward Propagation | How a neural network predicts output?",
+      "duration": 931
+    },
+    {
+      "id": "9wmImImmgcI",
+      "title": "Customer Churn Prediction using ANN | Keras and Tensorflow | Deep Learning Classification",
+      "duration": 2123
+    },
+    {
+      "id": "3xPT2Pk0Jds",
+      "title": "Handwritten Digit Classification using ANN | MNIST Dataset",
+      "duration": 1720
+    },
+    {
+      "id": "RCmiPBiA4qg",
+      "title": "Graduate Admission Prediction using ANN",
+      "duration": 1063
+    },
+    {
+      "id": "gb5nm_3jBIo",
+      "title": "Loss Functions in Deep Learning | Deep Learning | CampusX",
+      "duration": 3596
+    },
+    {
+      "id": "6M1wWQmcUjQ",
+      "title": "Backpropagation in Deep Learning | Part 1 | The What?",
+      "duration": 3259
+    },
+    {
+      "id": "ma6hWrU-LaI",
+      "title": "Backpropagation Part 2 | The How | Complete Deep Learning Playlist",
+      "duration": 3596
+    },
+    {
+      "id": "6xO-x8y0YSY",
+      "title": "Backpropagation Part 3 | The Why | Complete Deep Learning Playlist",
+      "duration": 2421
+    },
+    {
+      "id": "uCrevbBh0zM",
+      "title": "Vanishing Gradient Problem in ANN | Exploding Gradient Problem | Code Example",
+      "duration": 1936
+    },
+    {
+      "id": "rW0eeTXas4k",
+      "title": "MLP Memoization | Complete Deep Learning Playlist",
+      "duration": 1524
+    },
+    {
+      "id": "7z6yXpYk7sw",
+      "title": "Gradient Descent in Neural Networks | Batch vs Stochastics vs Mini Batch Gradient Descent",
+      "duration": 2273
+    },
+    {
+      "id": "Ue_6n1yT_R8",
+      "title": "How to Improve the Performance of a Neural Network",
+      "duration": 1824
+    },
+    {
+      "id": "Ygvskt5HadI",
+      "title": "Early Stopping In Neural Networks | End to End Deep Learning Course",
+      "duration": 720
+    },
+    {
+      "id": "mzRO0cVppQ0",
+      "title": "Data Scaling in Neural Network | Feature Scaling in ANN | End to End Deep Learning Course",
+      "duration": 1015
+    },
+    {
+      "id": "gyTlcHVeBjM",
+      "title": "Dropout Layer in Deep Learning | Dropouts in ANN | End to End Deep Learning",
+      "duration": 1671
+    },
+    {
+      "id": "tgIx04ML7-Y",
+      "title": "Dropout Layers in ANN | Code Example | Regression | Classification",
+      "duration": 1157
+    },
+    {
+      "id": "4xRonrhtkzc",
+      "title": "Regularization in Deep Learning | L2 Regularization in ANN | L1 Regularization | Weight Decay in ANN",
+      "duration": 2157
+    },
+    {
+      "id": "7LcUkgzx3AY",
+      "title": "Activation Functions in Deep Learning | Sigmoid, Tanh and Relu Activation Function",
+      "duration": 2692
+    },
+    {
+      "id": "2OwWs7Hzr9g",
+      "title": "Relu Variants Explained | Leaky Relu | Parametric Relu | Elu | Selu | Activation Functions Part 2",
+      "duration": 2005
+    },
+    {
+      "id": "2MSY0HwH5Ss",
+      "title": "Weight Initialization Techniques | What not to do? | Deep Learning",
+      "duration": 2964
+    },
+    {
+      "id": "nwVOSgcrbQI",
+      "title": "Xavier/Glorat And He Weight Initialization in Deep Learning",
+      "duration": 1267
+    },
+    {
+      "id": "2AscwXePInA",
+      "title": "Batch Normalization in Deep Learning | Batch Learning in Keras",
+      "duration": 2619
+    },
+    {
+      "id": "iCTTnQJn50E",
+      "title": "Optimizers in Deep Learning | Part 1 | Complete Deep Learning Course",
+      "duration": 1354
+    },
+    {
+      "id": "jAqVuYJ8TP8",
+      "title": "Exponentially Weighted Moving Average or Exponential Weighted Average | Deep Learning",
+      "duration": 1131
+    },
+    {
+      "id": "vVS4csXRlcQ",
+      "title": "SGD with Momentum Explained in Detail with Animations | Optimizers in Deep Learning Part 2",
+      "duration": 2305
+    },
+    {
+      "id": "rKG9E6rce1c",
+      "title": "Nesterov Accelerated Gradient (NAG) Explained in Detail | Animations | Optimizers in Deep Learning",
+      "duration": 1670
+    },
+    {
+      "id": "nqL9xYmhEpg",
+      "title": "AdaGrad Explained in Detail with Animations | Optimizers in Deep Learning Part 4",
+      "duration": 1589
+    },
+    {
+      "id": "p0wSmKslWi0",
+      "title": "RMSProp Explained in Detail with Animations | Optimizers in Deep Learning Part 5",
+      "duration": 758
+    },
+    {
+      "id": "N5AynalXD9g",
+      "title": "Adam Optimizer Explained in Detail with Animations | Optimizers in Deep Learning Part 5",
+      "duration": 759
+    },
+    {
+      "id": "oYnyNLj8RMA",
+      "title": "Keras Tuner | Hyperparameter Tuning a Neural Network",
+      "duration": 3934
+    },
+    {
+      "id": "hDVFXf74P-U",
+      "title": "What is Convolutional Neural Network (CNN) | CNN Intution",
+      "duration": 1630
+    },
+    {
+      "id": "aslTGS9ef98",
+      "title": "CNN Vs Visual Cortex | The Famous Cat Experiment | History of CNN",
+      "duration": 902
+    },
+    {
+      "id": "cgJx3GvQ5y8",
+      "title": "CNN Part 3 | Convolution Operation",
+      "duration": 1754
+    },
+    {
+      "id": "btWE6SsdDZA",
+      "title": "Padding & Strides in CNN | CNN Lecture 4 | Deep Learning",
+      "duration": 1466
+    },
+    {
+      "id": "DwmGefkowCU",
+      "title": "Pooling Layer in CNN | MaxPooling in Convolutional Neural Network",
+      "duration": 1674
+    },
+    {
+      "id": "ewsvsJQOuTI",
+      "title": "CNN Architecture | LeNet -5 Architecture",
+      "duration": 1200
+    },
+    {
+      "id": "niE5DRKvD_E",
+      "title": "Comparing CNN Vs ANN  | CampusX",
+      "duration": 1062
+    },
+    {
+      "id": "RvCCFttGFMY",
+      "title": "Backpropagation in CNN | Part 1 | Deep Learning",
+      "duration": 2181
+    },
+    {
+      "id": "OoSDzOodY3Y",
+      "title": "CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers",
+      "duration": 2607
+    },
+    {
+      "id": "0K4J_PTgysc",
+      "title": "Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project",
+      "duration": 1649
+    },
+    {
+      "id": "sM2C-SsREgM",
+      "title": "Data Augmentation in Deep Learning | CNN",
+      "duration": 1609
+    },
+    {
+      "id": "0MVXteg7TB4",
+      "title": "Pretrained models in CNN | ImageNET Dataset | ILSVRC | Keras Code",
+      "duration": 1468
+    },
+    {
+      "id": "WJysB1RK2vM",
+      "title": "What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX",
+      "duration": 783
+    },
+    {
+      "id": "WWcgHjuKVqA",
+      "title": "What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction",
+      "duration": 2033
+    },
+    {
+      "id": "OvQQP1QVru8",
+      "title": "Keras Functional Model | How to build non-linear Neural Networks?",
+      "duration": 1538
+    },
+    {
+      "id": "4KpRP-YUw6c",
+      "title": "Why RNNs are needed | RNNs Vs ANNs | RNN Part 1",
+      "duration": 1819
+    },
+    {
+      "id": "BjWqCcbusMM",
+      "title": "Recurrent Neural Network | Forward Propagation | Architecture",
+      "duration": 2504
+    },
+    {
+      "id": "JgnbwKnHMZQ",
+      "title": "RNN Sentiment Analysis | RNN Code Example in Keras | CampusX",
+      "duration": 2217
+    },
+    {
+      "id": "TkOBxzhIySg",
+      "title": "Types of RNN | Many to Many | One to Many | Many to One RNNs",
+      "duration": 1340
+    },
+    {
+      "id": "OvCz1acvt-k",
+      "title": "How Backpropagation works in RNN | Backpropagation Through Time",
+      "duration": 2038
+    },
+    {
+      "id": "AWHSZzp96kM",
+      "title": "Problems with RNN | 100 Days of Deep Learning",
+      "duration": 1938
+    },
+    {
+      "id": "z7IPBg6MyrU",
+      "title": "LSTM | Long Short Term Memory | Part 1 | The What? | CampusX",
+      "duration": 2538
+    },
+    {
+      "id": "Akv3poqqwI4",
+      "title": "LSTM Architecture | Part 2 | The How? | CampusX",
+      "duration": 4213
+    },
+    {
+      "id": "fiqo6uPCJVI",
+      "title": "LSTM | Part 3 | Next Word Predictor Using | CampusX",
+      "duration": 3605
+    },
+    {
+      "id": "QQfZAoNGQmE",
+      "title": "Gated Recurrent Unit | Deep Learning | GRU | CampusX",
+      "duration": 5182
+    },
+    {
+      "id": "mlDkTrlLaio",
+      "title": "Deep RNNs | Stacked RNNs | Stacked LSTMs | Stacked GRUs | CampusX",
+      "duration": 2708
+    },
+    {
+      "id": "k2NSm3MNdYg",
+      "title": "Bidirectional RNN | BiLSTM | Bidirectional LSTM | Bidirectional GRU",
+      "duration": 1541
+    },
+    {
+      "id": "8fX3rOjTloc",
+      "title": "The Epic History of Large Language Models (LLMs) | From LSTMs to ChatGPT | CampusX",
+      "duration": 5226
+    },
+    {
+      "id": "KiL74WsgxoA",
+      "title": "Encoder Decoder | Sequence-to-Sequence Architecture | Deep Learning | CampusX",
+      "duration": 4422
+    },
+    {
+      "id": "rj5V6q6-XUM",
+      "title": "Attention Mechanism in 1 video | Seq2Seq Networks | Encoder Decoder Architecture",
+      "duration": 2484
+    },
+    {
+      "id": "0hZT4_fHfNQ",
+      "title": "Bahdanau Attention Vs Luong Attention",
+      "duration": 3153
+    },
+    {
+      "id": "BjRVS2wTtcA",
+      "title": "Introduction to Transformers | Transformers Part 1",
+      "duration": 3605
+    },
+    {
+      "id": "XnGGmvpDLA0",
+      "title": "What is Self Attention | Transformers Part 2 | CampusX",
+      "duration": 1401
+    },
+    {
+      "id": "-tCKPl_8Xb8",
+      "title": "Self Attention in Transformers | Deep Learning | Simple Explanation with Code!",
+      "duration": 5004
+    },
+    {
+      "id": "r7mAt0iVqwo",
+      "title": "Scaled Dot Product Attention | Why do we scale Self Attention?",
+      "duration": 3042
+    },
+    {
+      "id": "5ZgGuujZSbs",
+      "title": "Self Attention Geometric Intuition | How to Visualize Self Attention | CampusX",
+      "duration": 1252
+    },
+    {
+      "id": "o4ZVA0TuDRg",
+      "title": "Why is Self Attention called \"Self\"? | Self Attention Vs Luong Attention in Depth Lecture | CampusX",
+      "duration": 1355
+    },
+    {
+      "id": "bX2QwpjsmuA",
+      "title": "What is Multi-head Attention in Transformers | Multi-head Attention v Self Attention | Deep Learning",
+      "duration": 2307
+    },
+    {
+      "id": "GeoQBNNqIbM",
+      "title": "Positional Encoding in Transformers | Deep Learning | CampusX",
+      "duration": 4395
+    },
+    {
+      "id": "qti0QPdaelg",
+      "title": "Layer Normalization in Transformers | Layer Norm Vs Batch Norm",
+      "duration": 2817
+    },
+    {
+      "id": "Vs87qcdm8l0",
+      "title": "Transformer Architecture | Part 1 Encoder Architecture | CampusX",
+      "duration": 3298
+    },
+    {
+      "id": "m6onaKFzF94",
+      "title": "Masked Self Attention | Masked Multi-head Attention in Transformer | Transformer Decoder",
+      "duration": 3654
+    },
+    {
+      "id": "smOnJtCevoU",
+      "title": "Cross Attention in Transformers | 100 Days Of Deep Learning | CampusX",
+      "duration": 2047
+    },
+    {
+      "id": "DI2_hrAulYo",
+      "title": "Transformer Decoder Architecture | Deep Learning | CampusX",
+      "duration": 2906
+    },
+    {
+      "id": "FtsMOzlwxws",
+      "title": "Transformer Inference | How Inference is done in Transformer? | Deep Learning | CampusX",
+      "duration": 2712
+    }
+  ]
+}

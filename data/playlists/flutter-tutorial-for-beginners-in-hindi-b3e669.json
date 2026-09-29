@@ -1,0 +1,165 @@
+{
+  "courseId": "flutter-tutorial-for-beginners-in-hindi-b3e669",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:07.205Z",
+  "title": "Flutter Tutorial For Beginners in Hindi",
+  "channel": "Geeks Rank",
+  "videos": [
+    {
+      "id": "hw33qwrz7qo",
+      "title": "Flutter Tutorial for Beginners #1 -Introduction & Setup [Hindi]",
+      "duration": 900
+    },
+    {
+      "id": "PAicLjIzk8E",
+      "title": "Flutter Tutorial for Beginners #2 - Create an App Using Android Studio [Hindi]",
+      "duration": 487
+    },
+    {
+      "id": "oGL7vHLuPCs",
+      "title": "Flutter Tutorial for Beginners #3 - Create an App Using Visual Studio Code [Hindi]",
+      "duration": 404
+    },
+    {
+      "id": "HGLjUFB7Pqw",
+      "title": "Flutter Tutorial for Beginners #4 - Dart Crash Course [Hindi]",
+      "duration": 4986
+    },
+    {
+      "id": "5bQIlPz3avk",
+      "title": "Flutter Tutorial for Beginners #5 - Flutter Code Overview &  Print Hello World [Hindi]",
+      "duration": 528
+    },
+    {
+      "id": "s1n9VpJZWLA",
+      "title": "Flutter Tutorial for Beginners #6 - MaterialApp Widget [Hindi]",
+      "duration": 521
+    },
+    {
+      "id": "ntmSsQGr1u4",
+      "title": "Flutter Tutorial for Beginners #7 - Text widget & RichText Widget [Hindi]",
+      "duration": 970
+    },
+    {
+      "id": "F3zbY33rHnQ",
+      "title": "Flutter Tutorial for Beginners #8 - Scaffold Widget [Hindi]",
+      "duration": 1052
+    },
+    {
+      "id": "6Ojk6xQRzwU",
+      "title": "Flutter Tutorial for Beginners #9 - Colors & Fonts [Hindi]",
+      "duration": 840
+    },
+    {
+      "id": "3WZXzjGT1nk",
+      "title": "Flutter Tutorial for Beginners #10 - Image Widget & Assets [Hindi]",
+      "duration": 872
+    },
+    {
+      "id": "ET9nIxnP9ow",
+      "title": "Flutter Tutorial for Beginners #11 - Hot Reload, Hot Restart & Full Restart in Flutter  [Hindi]",
+      "duration": 810
+    },
+    {
+      "id": "la6WHfFL5j4",
+      "title": "Flutter Tutorial for Beginners #12 - Stateless & Stateful Widget in Flutter  [Hindi]",
+      "duration": 700
+    },
+    {
+      "id": "JyTbtn1vP68",
+      "title": "Flutter Tutorial for Beginners #13 - Container Widget in Flutter  [Hindi]",
+      "duration": 886
+    },
+    {
+      "id": "p3NDyA-wSXo",
+      "title": "Flutter Tutorial for Beginners #14 - Buttons & Icons in Flutter  [Hindi]",
+      "duration": 957
+    },
+    {
+      "id": "rUgom-F1XZM",
+      "title": "Flutter Tutorial for Beginners #15 - Row Widget in Flutter  [Hindi]",
+      "duration": 818
+    },
+    {
+      "id": "vvaULW6pj3U",
+      "title": "Flutter Tutorial for Beginners #16 - Column Widget in Flutter  [Hindi]",
+      "duration": 703
+    },
+    {
+      "id": "ItNMbk97x28",
+      "title": "Flutter Tutorial for Beginners #17 - Expanded Widget in Flutter  [Hindi]",
+      "duration": 604
+    },
+    {
+      "id": "Ze1p3cwTPpc",
+      "title": "Flutter Tutorial for Beginners #18 - BottomNavigationBar Widget in Flutter  [Hindi]",
+      "duration": 1151
+    },
+    {
+      "id": "_TAdVVfoqMo",
+      "title": "Flutter Tutorial for Beginners #19 -Maps & Routing in Flutter  [Hindi]",
+      "duration": 1142
+    },
+    {
+      "id": "-xCzfFY21fw",
+      "title": "Flutter Tutorial for Beginners #20 -Passing Data Between Routes | Pass Data B/W Screens  [Hindi]",
+      "duration": 822
+    },
+    {
+      "id": "GSzkA6ZiXsM",
+      "title": "Flutter Tutorial for Beginners #21 - TabBar Widget  [Hindi]",
+      "duration": 943
+    },
+    {
+      "id": "5Jmckwyyieo",
+      "title": "Flutter Tutorial for Beginners #22 - Stack Widget  [Hindi]",
+      "duration": 658
+    },
+    {
+      "id": "GaDhqq0A_cY",
+      "title": "Flutter Tutorial for Beginners #23 - Card Widget  [Hindi]",
+      "duration": 551
+    },
+    {
+      "id": "HVEV_32HoNU",
+      "title": "Flutter Tutorial for Beginners #24 - InkWell Widget  [Hindi]",
+      "duration": 298
+    },
+    {
+      "id": "k9NoHCY4of4",
+      "title": "Flutter Tutorial for Beginners #25 - ListTile Widget  [Hindi]",
+      "duration": 463
+    },
+    {
+      "id": "_VsyT_wFq9s",
+      "title": "Flutter Tutorial for Beginners #26 - ListView Widget  [Hindi]",
+      "duration": 566
+    },
+    {
+      "id": "O5Q5T072pvc",
+      "title": "Flutter Tutorial for Beginners #27 - ListView Builder Widget  [Hindi]",
+      "duration": 562
+    },
+    {
+      "id": "INxAUDSk3pE",
+      "title": "Flutter Tutorial for Beginners #28 - Form Widget  [Hindi]",
+      "duration": 1229
+    },
+    {
+      "id": "l7O6-rvzM-Y",
+      "title": "Flutter Tutorial for Beginners #29 - Form Validation Widget  [Hindi]",
+      "duration": 1369
+    },
+    {
+      "id": "OUgH3gVPBO4",
+      "title": "Flutter Tutorial for Beginners #30 - SingleChildScrollView Widget  [Hindi]",
+      "duration": 423
+    },
+    {
+      "id": "46Vd0mwvt0s",
+      "title": "Flutter Tutorial for Beginners #31 - Drawer Widget  [Hindi]",
+      "duration": 877
+    }
+  ]
+}

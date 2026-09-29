@@ -1,0 +1,220 @@
+{
+  "courseId": "php-mysql-tutorial-for-beginners-ba6e26",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:56.474Z",
+  "title": "PHP Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "pWG7ajC_OVo",
+      "title": "PHP Tutorial (& MySQL) #1 - Why Learn PHP?",
+      "duration": 425
+    },
+    {
+      "id": "3B-CnezwEeo",
+      "title": "PHP Tutorial (& MySQL) #2 - Installing PHP (XAMPP)",
+      "duration": 569
+    },
+    {
+      "id": "ABcXbZLm5G8",
+      "title": "PHP Tutorial (& MySQL) #3 - Your First PHP File",
+      "duration": 474
+    },
+    {
+      "id": "2CXme275t9k",
+      "title": "PHP Tutorial (& MySQL) #4 - Variables & Constants",
+      "duration": 438
+    },
+    {
+      "id": "U2EliFC9NrQ",
+      "title": "PHP Tutorial (& MySQL) #5 - Strings",
+      "duration": 717
+    },
+    {
+      "id": "lT2AvQ17F_w",
+      "title": "PHP Tutorial (& MySQL) #6 - Numbers",
+      "duration": 595
+    },
+    {
+      "id": "bWygRxrlD44",
+      "title": "PHP Tutorial (& MySQL) #7 - Arrays",
+      "duration": 1017
+    },
+    {
+      "id": "G1iDSoAXyvM",
+      "title": "PHP Tutorial (& MySQL) #8 - Multidimensional Arrays",
+      "duration": 607
+    },
+    {
+      "id": "TBUgZ84tTgU",
+      "title": "PHP Tutorial (& MySQL) #9 - Loops",
+      "duration": 1175
+    },
+    {
+      "id": "hxYQA-nuIXY",
+      "title": "PHP Tutorial (& MySQL) #10 - Booleans & Comparisons",
+      "duration": 728
+    },
+    {
+      "id": "E1ms4qpfy78",
+      "title": "PHP Tutorial (& MySQL) #11 - Conditional Statements",
+      "duration": 730
+    },
+    {
+      "id": "sEq6riJ0Do8",
+      "title": "PHP Tutorial (& MySQL) #12 - Continue & Break",
+      "duration": 236
+    },
+    {
+      "id": "438PsnpJj5E",
+      "title": "PHP Tutorial (& MySQL) #13 - Functions",
+      "duration": 750
+    },
+    {
+      "id": "YCw3z-yEiwQ",
+      "title": "PHP Tutorial (& MySQL) #14 - Variable Scope",
+      "duration": 538
+    },
+    {
+      "id": "Tf6erFtmN-Q",
+      "title": "PHP Tutorial (& MySQL) #15 - Include & Require",
+      "duration": 327
+    },
+    {
+      "id": "-KUFcX7WLaA",
+      "title": "PHP Tutorial (& MySQL) #16 - Project Header & Footer",
+      "duration": 661
+    },
+    {
+      "id": "Ucq4BA-gMO0",
+      "title": "PHP Tutorial (& MySQL) #17 - Forms in PHP",
+      "duration": 969
+    },
+    {
+      "id": "EhOcAZJp81s",
+      "title": "PHP Tutorial (& MySQL) #18 - XSS Attacks",
+      "duration": 255
+    },
+    {
+      "id": "g7x4JO0YW1s",
+      "title": "PHP Tutorial (& MySQL) #19 - Basic Form Validation (part 1)",
+      "duration": 359
+    },
+    {
+      "id": "wFiCZHrCFOw",
+      "title": "PHP Tutorial (& MySQL) #20 - Filters & More Validation",
+      "duration": 785
+    },
+    {
+      "id": "firSTs1bEEY",
+      "title": "PHP Tutorial (& MySQL) #21 - Showing Errors",
+      "duration": 645
+    },
+    {
+      "id": "GS2sUveQpU4",
+      "title": "PHP Tutorial (& MySQL) #22 - Checking for Errors & Redirecting",
+      "duration": 301
+    },
+    {
+      "id": "N2L9KZo2szY",
+      "title": "PHP Tutorial (& MySQL) #23 - MySQL Introduction",
+      "duration": 325
+    },
+    {
+      "id": "YFlIw4KMpVM",
+      "title": "PHP Tutorial (& MySQL) #24 - Setting Up a MySQL Database",
+      "duration": 474
+    },
+    {
+      "id": "zpTlJ6dtOxA",
+      "title": "PHP Tutorial (& MySQL) #25 - Connecting to a Database",
+      "duration": 354
+    },
+    {
+      "id": "WGuyxGJW9hs",
+      "title": "PHP Tutorial (& MySQL) #26 - Getting Data From a Database",
+      "duration": 436
+    },
+    {
+      "id": "3T8bp9DlypU",
+      "title": "PHP Tutorial (& MySQL) #27 - Rendering Data to the Browser",
+      "duration": 498
+    },
+    {
+      "id": "wT5CVoOdLlE",
+      "title": "PHP Tutorial (& MySQL) #28 - The Explode Function",
+      "duration": 385
+    },
+    {
+      "id": "1Py5GjnnreE",
+      "title": "PHP Tutorial (& MySQL) #29 - Control Flow Alt Syntax",
+      "duration": 240
+    },
+    {
+      "id": "ijHc_3t2arE",
+      "title": "PHP Tutorial (& MySQL) #30 - Saving Data to the Database",
+      "duration": 644
+    },
+    {
+      "id": "G8OYy-y3C9A",
+      "title": "PHP Tutorial (& MySQL) #31 - Getting a Single Record",
+      "duration": 788
+    },
+    {
+      "id": "3lpPfEdU-8A",
+      "title": "PHP Tutorial (& MySQL) #32 - Deleting a Record",
+      "duration": 569
+    },
+    {
+      "id": "vkH5WZ-4ngU",
+      "title": "PHP Tutorial (& MySQL) #33 - Finishing Touches",
+      "duration": 226
+    },
+    {
+      "id": "L-S0rsFR-gQ",
+      "title": "PHP Tutorial (& MySQL) #34 - Ternary Operators",
+      "duration": 310
+    },
+    {
+      "id": "sMhSKNAHXZ8",
+      "title": "PHP Tutorial (& MySQL) #35 - Superglobals",
+      "duration": 308
+    },
+    {
+      "id": "6ZDTUZ1KRUI",
+      "title": "PHP Tutorial (& MySQL) #36 - Sessions",
+      "duration": 545
+    },
+    {
+      "id": "8Bsvrm4gHGs",
+      "title": "PHP Tutorial (& MySQL) #37 - Null Coalescing",
+      "duration": 189
+    },
+    {
+      "id": "GNGf-I5pNrI",
+      "title": "PHP Tutorial (& MySQL) #38 - Cookies",
+      "duration": 351
+    },
+    {
+      "id": "yUzcYBuSgc4",
+      "title": "PHP Tutorial (& MySQL) #39 - File System (part 1)",
+      "duration": 396
+    },
+    {
+      "id": "UT9zKFYr18U",
+      "title": "PHP Tutorial (& MySQL) #40 - File System (part 2)",
+      "duration": 504
+    },
+    {
+      "id": "bt4znmLQCZ8",
+      "title": "PHP Tutorial (& MySQL) #41 - Classes & Objects (part 1)",
+      "duration": 689
+    },
+    {
+      "id": "BUdGWoMMPQs",
+      "title": "PHP Tutorial (& MySQL) #42 - Classes & Objects (part 2)",
+      "duration": 531
+    }
+  ]
+}

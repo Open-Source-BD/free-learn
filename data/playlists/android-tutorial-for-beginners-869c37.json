@@ -1,0 +1,175 @@
+{
+  "courseId": "android-tutorial-for-beginners-869c37",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7p-lZvWabkVJdM_UVURhUh4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:47.836Z",
+  "title": "Android Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "6fGp_Ko-bIQ",
+      "title": "Android Tutorial for Beginners Introduction",
+      "duration": 189
+    },
+    {
+      "id": "21T5VngB6D8",
+      "title": "Prerequisites to learn Android | What you should know?",
+      "duration": 256
+    },
+    {
+      "id": "uiZXZZC5TEw",
+      "title": "Prerequisites to Code Android | Software Requirements",
+      "duration": 219
+    },
+    {
+      "id": "Rk0mmp3otWs",
+      "title": "Software Requirements for Android Programming",
+      "duration": 239
+    },
+    {
+      "id": "qx8BY9cLlg8",
+      "title": "How to use Android Studio",
+      "duration": 678
+    },
+    {
+      "id": "yKM_qAXGk7k",
+      "title": "Terminology in Android Programming",
+      "duration": 622
+    },
+    {
+      "id": "dpOTHN0J7Wk",
+      "title": "Android Tutorial for Beginners | Views in Android",
+      "duration": 403
+    },
+    {
+      "id": "cWSZ2F2GBLk",
+      "title": "Android Tutorial for Beginners | Layouts in Android",
+      "duration": 461
+    },
+    {
+      "id": "aCCpgHrlWwA",
+      "title": "Activity Lifecycle in Android",
+      "duration": 380
+    },
+    {
+      "id": "ygWrE1yHkKw",
+      "title": "Addition of 2 Numbers in Android Part 1",
+      "duration": 85
+    },
+    {
+      "id": "e5RCQi-ZoQo",
+      "title": "Addition of 2 Numbers in Android Part 2",
+      "duration": 451
+    },
+    {
+      "id": "59vw7NT0kOg",
+      "title": "Addition of 2 number in Android Part 3",
+      "duration": 735
+    },
+    {
+      "id": "RfxXXJWJ3yU",
+      "title": "Linear Layout, RadioButton, RadioGroup in Android | Registration Activity",
+      "duration": 1108
+    },
+    {
+      "id": "UpqD-7GpoBI",
+      "title": "Working with RadioButton, Toast in Android",
+      "duration": 1220
+    },
+    {
+      "id": "FH1Ym1KjJNc",
+      "title": "Intent in Android Theory",
+      "duration": 315
+    },
+    {
+      "id": "jgEgMWOwdpU",
+      "title": "Intent in Android | Calling Activity",
+      "duration": 580
+    },
+    {
+      "id": "0mUoomwASZY",
+      "title": "Working with View Visibility in Android",
+      "duration": 472
+    },
+    {
+      "id": "TMQtQKtT52Q",
+      "title": "SeekBar in Android",
+      "duration": 556
+    },
+    {
+      "id": "UbsBH180H34",
+      "title": "RatingBar in Android",
+      "duration": 471
+    },
+    {
+      "id": "hm7rTjM1Sac",
+      "title": "WebView in Android Tutorial",
+      "duration": 506
+    },
+    {
+      "id": "va-nn1JAwj8",
+      "title": "AlertDialog in Android Tutorial",
+      "duration": 823
+    },
+    {
+      "id": "SKMtVSK_Kg0",
+      "title": "Custom AlertDialog-showing Activity in AlertDialog | Android Tutorial for Beginners",
+      "duration": 707
+    },
+    {
+      "id": "2B3Mq3XQV3M",
+      "title": "Menu in Android | Android Tutorial for Beginners",
+      "duration": 616
+    },
+    {
+      "id": "TQ2QXlyy_jo",
+      "title": "ListView in Android Theory | Android Tutorial for Beginners",
+      "duration": 276
+    },
+    {
+      "id": "NiHN9GQ-GFQ",
+      "title": "ListView in Android | Android Tutorial forBeginners",
+      "duration": 777
+    },
+    {
+      "id": "oQtNbk_ounk",
+      "title": "Custom ListView-ListView with Image and Text in Android | Android Tutorial for Beginners",
+      "duration": 1510
+    },
+    {
+      "id": "MG6bx1yC4K8",
+      "title": "ExpandableListView In Android - Theory | Android Tutorial for Beginners",
+      "duration": 495
+    },
+    {
+      "id": "iMoN414EfSQ",
+      "title": "ExpandableListView In Android - Practicle | Android Tutorial for Beginners",
+      "duration": 1897
+    },
+    {
+      "id": "Uv0JRm7Odsw",
+      "title": "SQLite in Android Theory",
+      "duration": 547
+    },
+    {
+      "id": "sreuidkR4yc",
+      "title": "SQLite in Android Studio",
+      "duration": 907
+    },
+    {
+      "id": "zHGgSd1wvxY",
+      "title": "Asynctask in Android -Theory | Android Tutorial for Beginner",
+      "duration": 771
+    },
+    {
+      "id": "EThkglxLxSM",
+      "title": "AsyncTask in Android Practicle | Android Tutorial for beginners",
+      "duration": 1488
+    },
+    {
+      "id": "V4F1jJJHQhQ",
+      "title": "Telusko Android App Demo",
+      "duration": 378
+    }
+  ]
+}

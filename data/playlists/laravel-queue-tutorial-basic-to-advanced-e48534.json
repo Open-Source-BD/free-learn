@@ -1,0 +1,65 @@
+{
+  "courseId": "laravel-queue-tutorial-basic-to-advanced-e48534",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:51.204Z",
+  "title": "Laravel Queue Tutorial | Basic to Advanced | Laravel Tutorial Bangla",
+  "channel": "Programming with CodeSteps",
+  "videos": [
+    {
+      "id": "fYNAi2oZ9y8",
+      "title": "Laravel Queue and its Benefits | Laravel Queue Tutorial- Part - 1 | Laravel Tutorial Bangla",
+      "duration": 814
+    },
+    {
+      "id": "ytR5mBTuVm8",
+      "title": "Laravel Queue Basic Implementation | Laravel Queue Tutorial - Part 2 | Laravel Tutorial Bangla",
+      "duration": 1101
+    },
+    {
+      "id": "PM57bZF9W-E",
+      "title": "Queue Priority | Laravel Queue Tutorial | Basic To Advanced | Part 3 |  Laravel Tutorial Bangla",
+      "duration": 1483
+    },
+    {
+      "id": "o47yLo59NWo",
+      "title": "Queue - Handling Failed Job | Laravel Queue Basic To Advanced - Part 4 |  Laravel Tutorial Bangla",
+      "duration": 648
+    },
+    {
+      "id": "UzdAG3U9snA",
+      "title": "Queue Management With Commands | Laravel Queue Basic To Advanced - Part 5 | Laravel Tutorial Bangla",
+      "duration": 1361
+    },
+    {
+      "id": "76v1jlW1YlQ",
+      "title": "Multiple Queue Worker - Why And When | Laravel Queue Tutorial - Part 6 |  Laravel Tutorial Bangla",
+      "duration": 701
+    },
+    {
+      "id": "iHTVmSMNZqI",
+      "title": "Generate Multiple Queue Worker | Laravel Queue Tutorial - Part 7 | Laravel Tutorial Bangla",
+      "duration": 943
+    },
+    {
+      "id": "SrkTFI2Ivwc",
+      "title": "Generate Queue Job By A Job | Laravel Queue Basic To Advanced - Part 8 | Laravel Tutorial Bangla",
+      "duration": 368
+    },
+    {
+      "id": "Gn_yhygqgmw",
+      "title": "Unique Jobs - When And How | Laravel Queue Basic To Advanced - Part 9 | Laravel Tutorial Bangla",
+      "duration": 966
+    },
+    {
+      "id": "DUhBnbr9QLw",
+      "title": "Job Chaining | Laravel Queue Basic To Advanced | Part 10 |  Laravel Tutorial Bangla",
+      "duration": 802
+    },
+    {
+      "id": "tTQB4hKrbBo",
+      "title": "Queue Job Batching - When And How To Apply  | Laravel Queue Tutorial - Part 11.1 | Laravel in Bangla",
+      "duration": 1122
+    }
+  ]
+}

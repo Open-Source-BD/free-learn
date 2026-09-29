@@ -1,0 +1,45 @@
+{
+  "courseId": "shell-scripting-for-devops-2024-hindi-a95dbb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlfy9GnSVerQu-uL0AdI3O5VzUmIv5pPf",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:17:26.245Z",
+  "title": "Shell Scripting For DevOps 2024 (Hindi)",
+  "channel": "TrainWithShubham",
+  "videos": [
+    {
+      "id": "CSW3Pc8Kx1E",
+      "title": "Shell Scripting For DevOps | Free Course Launch on TrainWithShubham",
+      "duration": 809
+    },
+    {
+      "id": "q8bRZ3rLaJw",
+      "title": "Learn Shell Scripting for DevOps in just 30 Minutes | FREE COURSE (Day 1)",
+      "duration": 1799
+    },
+    {
+      "id": "WXkT6l99I_s",
+      "title": "Master Basics of Shell Scripting for DevOps in 1 Hour | FREE COURSE (Day 2)",
+      "duration": 3327
+    },
+    {
+      "id": "phaaLDDDRbU",
+      "title": "Deploying LIVE Django Project | Error handing | Shell Scripting For DevOps (Day 3)",
+      "duration": 2043
+    },
+    {
+      "id": "ZC95ANpLVA4",
+      "title": "Advanced Shell Scripting with AWS CLI & Live Debugging for DevOps Engineers (Day 4)",
+      "duration": 1867
+    },
+    {
+      "id": "NINgdQSBb1k",
+      "title": "LIVE Project// Shell Scripting vs Makefile For DevOps Engineers",
+      "duration": 1305
+    },
+    {
+      "id": "PZYJ33bMXAw",
+      "title": "Production Backup Rotation | Shell Scripting For DevOps Engineer | Ep 6 (Hindi)",
+      "duration": 1682
+    }
+  ]
+}

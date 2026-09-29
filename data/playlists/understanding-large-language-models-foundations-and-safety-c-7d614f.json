@@ -1,0 +1,50 @@
+{
+  "courseId": "understanding-large-language-models-foundations-and-safety-c-7d614f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:41.281Z",
+  "title": "Understanding Large Language Models: Foundations and Safety",
+  "channel": "UC Berkeley EECS",
+  "videos": [
+    {
+      "id": "8QPVKpzyZdY",
+      "title": "David Bau: Interpretability and model editing",
+      "duration": 5037
+    },
+    {
+      "id": "xN-kBA1JgYM",
+      "title": "Dan Hendrycks: AI safety primer and representation engineering",
+      "duration": 4650
+    },
+    {
+      "id": "4DRkfFIEaLs",
+      "title": "Jacob Steinhardt: Using AI to understand AI",
+      "duration": 4000
+    },
+    {
+      "id": "03YVCOO8-y4",
+      "title": "Bo Li: Benchmarks and evals, safety vs. capabilities, machine ethics",
+      "duration": 4754
+    },
+    {
+      "id": "dXTfY7tgb-o",
+      "title": "Eric Wallace: Memorization in language models",
+      "duration": 3946
+    },
+    {
+      "id": "P_FmwO-wVK8",
+      "title": "Martin Wattenberg: Models within models - how do LLMs represent the world?",
+      "duration": 4502
+    },
+    {
+      "id": "_EbntLk5QTk",
+      "title": "Nicholas Carlini: The security of LLMs",
+      "duration": 4618
+    },
+    {
+      "id": "cdnOFPIINFQ",
+      "title": "Yuandong Tian: Inside-out interpretability: training dynamics in multi-layer transformer",
+      "duration": 4029
+    }
+  ]
+}

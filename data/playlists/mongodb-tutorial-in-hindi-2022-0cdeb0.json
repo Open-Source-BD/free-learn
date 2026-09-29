@@ -1,0 +1,125 @@
+{
+  "courseId": "mongodb-tutorial-in-hindi-2022-0cdeb0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQDioScEMUhkcqbgJ4ap2k4zg3sT_-Bbc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:13.314Z",
+  "title": "MongoDB Tutorial In Hindi",
+  "channel": "Programming Experience",
+  "videos": [
+    {
+      "id": "zYbKnXCxHfM",
+      "title": "MongoDB Tutorial #1 - Introduction to MongoDB Tutorials In Hindi",
+      "duration": 901
+    },
+    {
+      "id": "JPxO49kxn3s",
+      "title": "MongoDB Tutorial #2 - Installation Of MongoDB Tutorials In Hindi",
+      "duration": 557
+    },
+    {
+      "id": "A2KSOiR-8_Q",
+      "title": "MongoDB Tutorial #3 - Create Database, Collections, and Documents In MongoDB In Hindi",
+      "duration": 944
+    },
+    {
+      "id": "jlZ17QnhtL4",
+      "title": "MongoDB Tutorial #4 - CRUD Operations, Create Database, Collection, and Documents in MongoDB",
+      "duration": 361
+    },
+    {
+      "id": "1Gxbszv_dv8",
+      "title": "MongoDB Tutorial #5 - CRUD Operations, Read Database, Collection, and Documents in MongoDB",
+      "duration": 800
+    },
+    {
+      "id": "mQq_H0M63RU",
+      "title": "MongoDB Tutorial #6 - CRUD Operations, Update Documents and Data in MongoDB in Hindi",
+      "duration": 729
+    },
+    {
+      "id": "RorSnmNO8hQ",
+      "title": "MongoDB Tutorial #7 - CRUD Operations, Delete Documents and Data in MongoDB in Hindi",
+      "duration": 441
+    },
+    {
+      "id": "1VFE4Y3zFso",
+      "title": "MongoDB Tutorial #8 - Install MongoDB Compass GUI in Hindi",
+      "duration": 660
+    },
+    {
+      "id": "KYcOzXBxVCE",
+      "title": "MongoDB Tutorial #9 - CRUD Operations In MongoDB Compass GUI in Hindi",
+      "duration": 215
+    },
+    {
+      "id": "n0fkaIeznoM",
+      "title": "MongoDB Tutorial #10 - How To Connect MongoDB To Node JS and Select Data To MongoDB Node JS In Hindi",
+      "duration": 830
+    },
+    {
+      "id": "N5rnfI96W4U",
+      "title": "MongoDB Tutorial #11 - Introduction to Mongoose, Connect NodeJS, Express to MongoDB using Mongoose",
+      "duration": 753
+    },
+    {
+      "id": "2za1U5cL64g",
+      "title": "MongoDB Tutorial #12 - Schema and Model in Mongoose, Create Schema, Model MongoDB in Hindi",
+      "duration": 1112
+    },
+    {
+      "id": "UdXNVKKsQ-o",
+      "title": "MongoDB Tutorial #13 - Create and Insert the Document in MongoDB using Mongoose in Hindi",
+      "duration": 793
+    },
+    {
+      "id": "KQYcPwnV5Iw",
+      "title": "MongoDB Tutorial #14 - How to Insert Multiple Documents using One Line in Mongoose in Hindi",
+      "duration": 365
+    },
+    {
+      "id": "-gnyt867xiE",
+      "title": "MongoDB Tutorial #15 - How to Read or Querying the Documents using Mongoose MongoDB in Hindi",
+      "duration": 417
+    },
+    {
+      "id": "YYArTdE1YRY",
+      "title": "MongoDB Tutorial #16 - MongoDB Comparison Query Operators using Mongoose in MongoDB in Hindi",
+      "duration": 771
+    },
+    {
+      "id": "qWmOLoq5L1k",
+      "title": "MongoDB Tutorial #17 - MongoDB Logical Query Operators using Mongoose in MongoDB in Hindi",
+      "duration": 595
+    },
+    {
+      "id": "bwYVYDDHDlU",
+      "title": "MongoDB Tutorial #18 - MongoDB Sorting and Count Query Methods using Mongoose in MongoDB Hindi",
+      "duration": 498
+    },
+    {
+      "id": "MYvUM_9bEkY",
+      "title": "MongoDB Tutorial #19 - MongoDB Update the Documents using Mongoose in MongoDB in Hindi",
+      "duration": 834
+    },
+    {
+      "id": "raqnSTxX4ok",
+      "title": "MongoDB Tutorial #20 - MongoDB Delete the Documents using Mongoose in MongoDB in Hindi",
+      "duration": 581
+    },
+    {
+      "id": "OQHDKq3eAbc",
+      "title": "MongoDB Tutorial #21 - Mongoose Built-In Validation using MongoDB in Node JS in Hindi",
+      "duration": 871
+    },
+    {
+      "id": "qWJP7jj4HXg",
+      "title": "MongoDB Tutorial #22 - Create Your Own Custom Validation using MongoDB in Node JS in Hindi",
+      "duration": 777
+    },
+    {
+      "id": "xCb-8-BlnyU",
+      "title": "MongoDB Tutorial #23 - Using NPM Validator Package for Validation using MongoDB in NodeJS in Hindi",
+      "duration": 581
+    }
+  ]
+}

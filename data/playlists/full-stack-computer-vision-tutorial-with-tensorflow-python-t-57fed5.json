@@ -1,0 +1,45 @@
+{
+  "courseId": "full-stack-computer-vision-tutorial-with-tensorflow-python-t-57fed5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:43.954Z",
+  "title": "Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS",
+  "channel": "Nicholas Renotte",
+  "videos": [
+    {
+      "id": "dZh_ps8gKgs",
+      "title": "Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning",
+      "duration": 1683
+    },
+    {
+      "id": "IOI0o3Cxv9Q",
+      "title": "Real Time Face Mask Detection with Tensorflow and Python | Custom Object Detection w/ MobileNet SSD",
+      "duration": 3522
+    },
+    {
+      "id": "pDXdlXlaCco",
+      "title": "Real Time Sign Language Detection with Tensorflow Object Detection and Python | Deep Learning SSD",
+      "duration": 1949
+    },
+    {
+      "id": "uTdUUpfA83s",
+      "title": "Building an Object Detection App with Tensorflow.JS and React.JS in 15 Minutes | COCO SSD",
+      "duration": 955
+    },
+    {
+      "id": "ZTSRZt04JkY",
+      "title": "Building a Real Time Sign Language Detection App with React.JS and Tensorflow.JS | Deep Learning",
+      "duration": 2814
+    },
+    {
+      "id": "2dwSXXMFhPY",
+      "title": "Deploy Tensorflow.Js Object Detection Apps in 20 Minutes | Computer Vision React.Js",
+      "duration": 1306
+    },
+    {
+      "id": "-HbCA0WGbBg",
+      "title": "Calculating Tensorflow Object Detection Metrics with Python | Mean Average  Precision (mAP) & Recall",
+      "duration": 900
+    }
+  ]
+}

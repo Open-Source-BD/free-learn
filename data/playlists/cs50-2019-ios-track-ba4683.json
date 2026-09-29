@@ -1,0 +1,45 @@
+{
+  "courseId": "cs50-2019-ios-track-ba4683",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:53.281Z",
+  "title": "CS50 2019 - iOS Track",
+  "channel": "CS50",
+  "videos": [
+    {
+      "id": "fovkicji8KQ",
+      "title": "CS50 Tracks 2019 - iOS - Introduction",
+      "duration": 34
+    },
+    {
+      "id": "7IaM0ZN1i7Q",
+      "title": "CS50 Tracks 2019 - iOS - Lesson 1",
+      "duration": 2304
+    },
+    {
+      "id": "SSjrnG4v90U",
+      "title": "CS50 Tracks 2019 - iOS - Lesson 2",
+      "duration": 3065
+    },
+    {
+      "id": "DfFQ9nManXo",
+      "title": "CS50 Tracks 2019 - iOS - Lesson 3",
+      "duration": 2477
+    },
+    {
+      "id": "fr3s3H6TxRA",
+      "title": "CS50 Tracks 2019 - iOS - Lesson 4",
+      "duration": 1807
+    },
+    {
+      "id": "1l3u_a1TTmc",
+      "title": "CS50 Tracks 2019 - iOS - Lesson 5",
+      "duration": 3012
+    },
+    {
+      "id": "YUGMyzpm5lI",
+      "title": "CS50 Tracks 2019 - iOS - Conclusion",
+      "duration": 53
+    }
+  ]
+}

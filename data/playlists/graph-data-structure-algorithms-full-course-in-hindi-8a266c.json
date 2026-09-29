@@ -1,0 +1,175 @@
+{
+  "courseId": "graph-data-structure-algorithms-full-course-in-hindi-8a266c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:13.118Z",
+  "title": "Graph Data Structure & Algorithms Full Course In Hindi",
+  "channel": "Hello World",
+  "videos": [
+    {
+      "id": "Y_0-AmbC0Ig",
+      "title": "Introduction to Graphs Data Structure | Types of Graphs | Hello World Graph Playlist | Hindi",
+      "duration": 1060
+    },
+    {
+      "id": "9MdpJuYliQM",
+      "title": "Adjacency Matrix in Graphs | Graph Data Structure | Graph Representation | Hello World Graph Play...",
+      "duration": 621
+    },
+    {
+      "id": "Ysh31pZqIQs",
+      "title": "Adjacency List in Graphs | Graph Data Structure | Types of Graphs | Hello World Graph Playlist",
+      "duration": 548
+    },
+    {
+      "id": "MjOwemGFoR8",
+      "title": "How to code graph Data Structure | Adjacency List | Hello World Graph Playlist | Hindi",
+      "duration": 533
+    },
+    {
+      "id": "pQTbrRhuWXI",
+      "title": "Breadth First Search | Important | BFS Graph Traversal Hindi c++ | Hello World Graph Playlist",
+      "duration": 1326
+    },
+    {
+      "id": "QC4bDHEnmLM",
+      "title": "Find If Path Exists in Graph leetcode | BFS Graph Traversal Hindi c++ | Hello World Graph Playlist",
+      "duration": 1017
+    },
+    {
+      "id": "V_MPL5O-hDw",
+      "title": "Find the Town Judge | Graph practice question | Leetcode 997 | Degree of Graph Hello world Playlist",
+      "duration": 867
+    },
+    {
+      "id": "7jDCxMQW1GA",
+      "title": "Depth First Search | DFS Hindi Explained Graph Traversal Hindi c++ | Hello World Graph Playlist",
+      "duration": 977
+    },
+    {
+      "id": "UbzHYtUwKOY",
+      "title": "Number of Islands solution  | Leetcode Graph DFS HIndi | Graph Hello world Playlist #200",
+      "duration": 1249
+    },
+    {
+      "id": "7aikf56h9Gs",
+      "title": "Flood Fill | Leetcode solution Hindi | Hello world Graph Playlist Easy | DFS Algorithms #733",
+      "duration": 1114
+    },
+    {
+      "id": "KPLn9DjwpW4",
+      "title": "Detect cycle in graph | Hello world Graph Playlist Easy | DFS Algorithms | Hindi Explained",
+      "duration": 753
+    },
+    {
+      "id": "X7VdEG51__E",
+      "title": "Topological sort ( Kahn's BFS Based Algorithm ) | Hello world Graph Playlist Easy | Hindi Explained",
+      "duration": 1193
+    },
+    {
+      "id": "tv8yJLKOZ0g",
+      "title": "Topological sort using DFS Algorithm By stack | Hello world Graph Playlist Easy | Hindi Explained",
+      "duration": 795
+    },
+    {
+      "id": "TL9oORCqHe8",
+      "title": "Detect Cycle in a Directed Graph | DFS Algorithm | Hello world Graph Playlist Easy | Hindi Explained",
+      "duration": 1081
+    },
+    {
+      "id": "4ymVOCiQBtw",
+      "title": "Find Eventual Safe States | Detect Cycle in a Directed Graph | DFS | Hello world Graph Playlist Easy",
+      "duration": 978
+    },
+    {
+      "id": "rybxMwv1fw8",
+      "title": "Course Schedule | Detect Cycle in a Directed Graph | DFS | Hello world Graph Solution  #leetcode 207",
+      "duration": 747
+    },
+    {
+      "id": "yysA7ZM2jjA",
+      "title": "Shortest Path in Unweighted Graph | Complete Graph Videos | Hello world Graph Program Solution Hindi",
+      "duration": 748
+    },
+    {
+      "id": "-Oe4PWZ6G6k",
+      "title": "Shortest Path in DAG ( Direct Acyclic Graph ) | Complete Graph Videos | Hello world Graph Program",
+      "duration": 737
+    },
+    {
+      "id": "rUS78Lw3kr8",
+      "title": "Minimum Spanning Tree ( MST ) | Prim's Algorithm | Hello world Graph Explained with Solution Hindi",
+      "duration": 1072
+    },
+    {
+      "id": "eNEnD7K42e8",
+      "title": "How to code Prim's Algorithm | Minimum Spanning Tree (MST) | Code Explained C++ Hindi | Hello world",
+      "duration": 1079
+    },
+    {
+      "id": "X6b02KyeyLU",
+      "title": "All Path From Source To Target 🔥 | Leetcode Graph solution DFS Hindi explained Complete Graph Videos",
+      "duration": 896
+    },
+    {
+      "id": "k08ZeUHjl9A",
+      "title": "Surrounded Regions | Boundary DFS ✅ Graph Explained Hindi Leetcode | Complete Graph Videos",
+      "duration": 1219
+    },
+    {
+      "id": "b27_2vA1EAM",
+      "title": "Max Area of Island Leetcode | DFS ✅ Graph Explained Hindi | Complete Graph Playlist | Code Explained",
+      "duration": 771
+    },
+    {
+      "id": "NumW8x8XzbQ",
+      "title": "Rotting Oranges Leetcode solution | BFS ✅  Graph Explained Hindi | Complete Graph Playlist",
+      "duration": 1594
+    },
+    {
+      "id": "XhYVY6PQSxs",
+      "title": "Steps by Knight GFG Solution | BFS | Leetcode Minimum knight moves Hindi | Complete Graph Playlist",
+      "duration": 1166
+    },
+    {
+      "id": "W3YyfjxKcA0",
+      "title": "Number of Provinces Leetcode solution | DFS Graph Explained Hindi | Graph in Data structure & Algo",
+      "duration": 710
+    },
+    {
+      "id": "saItFowXF4U",
+      "title": "Number of Enclaves Leetcode solution c++ Hindi Explained | Boundary DFS ✅  | Complete Graph Videos",
+      "duration": 694
+    },
+    {
+      "id": "dXTMEtyp6dM",
+      "title": "Dijkstra Algorithm ✅ | Single Source Shortest Path | Greedy | Graph Explained Hindi | Hello world",
+      "duration": 1434
+    },
+    {
+      "id": "0eVEYqark-Y",
+      "title": "Kosaraju’s algorithm | Strongly Connected Components (SCC) | @GeeksforGeeksGraph | Hello world Hindi",
+      "duration": 1511
+    },
+    {
+      "id": "IRZuPwau_M8",
+      "title": "Keys and Rooms | BFS ✅  | Leetcode solution c++ Hindi Explained | Complete Graph in Data structure",
+      "duration": 850
+    },
+    {
+      "id": "JJ5FxoLckMw",
+      "title": "Number of closed Islands Leetcode Hindi Explained c++ DFS graph | Complete Graph in Data structure",
+      "duration": 1154
+    },
+    {
+      "id": "qjDoGPZPIjc",
+      "title": "Time Needed to Inform All Employees ✅  l Leetcode Hindi Explained c++ DFS graph | Graph Hello World",
+      "duration": 1249
+    },
+    {
+      "id": "duBxBNmKFWI",
+      "title": "Minimum Time to Collect All Apples 🍎 in a Tree 🌴 | Leetcode Daily Challenge Solutions Hello World",
+      "duration": 1233
+    }
+  ]
+}

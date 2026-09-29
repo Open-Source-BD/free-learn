@@ -1,0 +1,110 @@
+{
+  "courseId": "mit-6-824-distributed-systems-spring-2020-03eece",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:07.002Z",
+  "title": "MIT 6.824 Distributed Systems (Spring 2020)",
+  "channel": "MIT 6.824: Distributed Systems",
+  "videos": [
+    {
+      "id": "cQP8WApzIQQ",
+      "title": "Lecture 1: Introduction",
+      "duration": 4775
+    },
+    {
+      "id": "gA4YXUJX7t8",
+      "title": "Lecture 2: RPC and Threads",
+      "duration": 4822
+    },
+    {
+      "id": "EpIgvowZr00",
+      "title": "Lecture 3: GFS",
+      "duration": 4942
+    },
+    {
+      "id": "M_teob23ZzY",
+      "title": "Lecture 4: Primary-Backup Replication",
+      "duration": 4760
+    },
+    {
+      "id": "UzzcUS2OHqo",
+      "title": "Lecture 5: Go, Threads, and Raft",
+      "duration": 4948
+    },
+    {
+      "id": "64Zp3tzNbpE",
+      "title": "Lecture 6: Fault Tolerance: Raft (1)",
+      "duration": 4801
+    },
+    {
+      "id": "4r8Mz3MMivY",
+      "title": "Lecture 7: Fault Tolerance: Raft (2)",
+      "duration": 4657
+    },
+    {
+      "id": "pbmyrNjzdDk",
+      "title": "Lecture 8: Zookeeper",
+      "duration": 4832
+    },
+    {
+      "id": "IXHzbCuADt0",
+      "title": "Lecture 9: More Replication, CRAQ",
+      "duration": 4714
+    },
+    {
+      "id": "jJSh54J1s5o",
+      "title": "Lecture 10: Cloud Replicated DB, Aurora",
+      "duration": 4778
+    },
+    {
+      "id": "-pKNCjUhPjQ",
+      "title": "Lecture 11: Cache Consistency: Frangipani",
+      "duration": 4803
+    },
+    {
+      "id": "aDp99WDIM_4",
+      "title": "Lecture 12: Distributed Transactions",
+      "duration": 4644
+    },
+    {
+      "id": "4eW5SWBi7vs",
+      "title": "Lecture 13: Spanner",
+      "duration": 4747
+    },
+    {
+      "id": "Cw6Nj2evjSs",
+      "title": "Lecture 14: Optimistic Concurrency Control",
+      "duration": 4957
+    },
+    {
+      "id": "mzIoSW-cInA",
+      "title": "Lecture 15: Big Data: Spark",
+      "duration": 4093
+    },
+    {
+      "id": "Myp8z0ybdzM",
+      "title": "Lecture 16: Cache Consistency: Memcached at Facebook",
+      "duration": 4681
+    },
+    {
+      "id": "fR_NB714EAI",
+      "title": "Lecture 17: COPS, Causal Consistency",
+      "duration": 5009
+    },
+    {
+      "id": "UKdLJ7-0iFM",
+      "title": "Lecture 18: Fork Consistency, Certificate Transparency",
+      "duration": 4420
+    },
+    {
+      "id": "K_euhRou98Y",
+      "title": "Lecture 19: Bitcoin",
+      "duration": 3414
+    },
+    {
+      "id": "XvXK_vZ0BNw",
+      "title": "Lecture 20: Blockstack",
+      "duration": 4741
+    }
+  ]
+}

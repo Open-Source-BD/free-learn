@@ -1,0 +1,240 @@
+{
+  "courseId": "kotlin-tutorial-ce864b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:31.046Z",
+  "title": "Kotlin Tutorial",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "Org0vh-VSgA",
+      "title": "#0 Kotlin Tutorial | Welcome",
+      "duration": 248
+    },
+    {
+      "id": "0isrdp5meyQ",
+      "title": "#1 Kotlin Tutorial | Introduction",
+      "duration": 283
+    },
+    {
+      "id": "3C-e4dTvrSI",
+      "title": "#2 Kotlin Tutorial | Hello World",
+      "duration": 631
+    },
+    {
+      "id": "glX5Yx63_Vs",
+      "title": "#3 Kotlin Tutorial | IntelliJ | Android Studio 3",
+      "duration": 348
+    },
+    {
+      "id": "NpveMP5869U",
+      "title": "#4 Kotlin Tutorial | Class | Object",
+      "duration": 352
+    },
+    {
+      "id": "4YF_DUMQqFA",
+      "title": "#5 Kotlin Tutorial | Var Val",
+      "duration": 175
+    },
+    {
+      "id": "e-gZc-mZqE8",
+      "title": "#6 Kotlin Tutorial | Kotlin Java together",
+      "duration": 328
+    },
+    {
+      "id": "YuRjPUxvcek",
+      "title": "#7 Kotlin Tutorial | Convert Java Kotlin",
+      "duration": 135
+    },
+    {
+      "id": "8TW9zbgQnKc",
+      "title": "#8 Kotlin Tutorial | Decompile Bytecode",
+      "duration": 362
+    },
+    {
+      "id": "q_XZWtP6KQg",
+      "title": "#9 Kotlin Tutorial | Operators",
+      "duration": 274
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "9XmGh4WgfSg",
+      "title": "#10 Kotlin Tutorial | String Template",
+      "duration": 212
+    },
+    {
+      "id": "qaqKps5mNts",
+      "title": "#11 Kotlin Tutorial | If Else Expression",
+      "duration": 240
+    },
+    {
+      "id": "Fh4chRUL5kE",
+      "title": "#12 Kotlin Tutorial | String Comparison",
+      "duration": 269
+    },
+    {
+      "id": "AWM5cAipEp0",
+      "title": "#13 Kotlin Tutorial | Null Handling",
+      "duration": 306
+    },
+    {
+      "id": "TrUGG0nENMo",
+      "title": "#14 Kotlin Tutorial When Expression",
+      "duration": 463
+    },
+    {
+      "id": "bDmXJLV-HmA",
+      "title": "#15 Kotlin Tutorial Loops and Range",
+      "duration": 776
+    },
+    {
+      "id": "FUqD6srpuPY",
+      "title": "#16 Kotlin Tutorial List and Map",
+      "duration": 492
+    },
+    {
+      "id": "XOIC-aHyOag",
+      "title": "#17 Kotlin Tutorial | Function Expression",
+      "duration": 562
+    },
+    {
+      "id": "n0fdpvOdIbo",
+      "title": "#18 Kotlin Tutorial | Function calling from Java",
+      "duration": 423
+    },
+    {
+      "id": "fr1K_0duf78",
+      "title": "#19 Kotlin Tutorial | Default and Named Parameters",
+      "duration": 741
+    },
+    {
+      "id": "4tlsFbNLrl8",
+      "title": "#20 Kotlin Tutorial | String to Integer",
+      "duration": 284
+    },
+    {
+      "id": "RMe0v0JRuio",
+      "title": "#21 Kotlin Tutorial | Try Expression",
+      "duration": 295
+    },
+    {
+      "id": "JzaKJNt4eXk",
+      "title": "#22 Kotlin Tutorial | Extension Function",
+      "duration": 507
+    },
+    {
+      "id": "vqY58JbLr-U",
+      "title": "#23 Kotlin Tutorial | Infix and Operator Overloading",
+      "duration": 416
+    },
+    {
+      "id": "d39zxt6NWNk",
+      "title": "#24 Kotlin Tutorial  | Recursion",
+      "duration": 473
+    },
+    {
+      "id": "aKYKYOQYjI0",
+      "title": "#25 Kotlin Tutorial | Recursion | Factorial | Part 2",
+      "duration": 417
+    },
+    {
+      "id": "5rFOLyxjmOg",
+      "title": "#26 Kotlin Tutorial | Tail Recursion | Factorial",
+      "duration": 338
+    },
+    {
+      "id": "6RIJrnZI7jk",
+      "title": "#27 Kotlin Tutorial | Constructor",
+      "duration": 413
+    },
+    {
+      "id": "HZLr7XDW7ak",
+      "title": "#28 Kotlin Tutorial | Secondary Constructor",
+      "duration": 358
+    },
+    {
+      "id": "ssAt_qrQpi0",
+      "title": "#29 Kotlin Tutorial | Inheritance",
+      "duration": 664
+    },
+    {
+      "id": "XR3XueD8_yM",
+      "title": "#30 Kotlin Tutorial | Constructor in Inheritance",
+      "duration": 300
+    },
+    {
+      "id": "kvpvem7BLq0",
+      "title": "#31 Kotlin Tutorial | Abstract class",
+      "duration": 361
+    },
+    {
+      "id": "jpp6yAEPB0Y",
+      "title": "#32 Kotlin Tutorial | Interface",
+      "duration": 556
+    },
+    {
+      "id": "dV5P8JVfiIc",
+      "title": "#33 Kotlin Tutorial | Data Class",
+      "duration": 653
+    },
+    {
+      "id": "kH4pSAFSheU",
+      "title": "#34 Kotlin Tutorial | Object Keyword",
+      "duration": 422
+    },
+    {
+      "id": "o1bty2jSHpg",
+      "title": "#35 Kotlin Tutorial |  Anonymous inner class",
+      "duration": 399
+    },
+    {
+      "id": "Xiqfy0OpZnc",
+      "title": "#36 Kotlin Tutorial | Companion Object",
+      "duration": 361
+    },
+    {
+      "id": "HTGj9ZxfiSA",
+      "title": "#37 Kotlin Tutorial | Companion Object | Factory Pattern",
+      "duration": 259
+    },
+    {
+      "id": "akiCZOVkQ_w",
+      "title": "#38 Kotlin Tutorial | Backtick As Escape Character",
+      "duration": 219
+    },
+    {
+      "id": "UTEYWN64m-s",
+      "title": "#39 Kotlin Tutorial | User Input in Kotlin",
+      "duration": 312
+    },
+    {
+      "id": "Mq4AbdNsFVw",
+      "title": "#40 Kotlin Tutorial | Array",
+      "duration": 608
+    },
+    {
+      "id": "N53A_bdbBXE",
+      "title": "#41 Kotlin Tutorial | List",
+      "duration": 499
+    },
+    {
+      "id": "dSsETZv9_8k",
+      "title": "#42 Kotlin Tutorial | List of Objects",
+      "duration": 331
+    },
+    {
+      "id": "ESm5AX1ZbSg",
+      "title": "#43 Kotlin Tutorial | Higher Order Function",
+      "duration": 845
+    },
+    {
+      "id": "MQTTkEsSKbI",
+      "title": "#44 Kotlin Tutorial | Filter and Map",
+      "duration": 328
+    }
+  ]
+}

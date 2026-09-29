@@ -1,0 +1,185 @@
+{
+  "courseId": "go-bangla-tutorials-2022-92e671",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:14.528Z",
+  "title": "Go Bangla Tutorials 2022",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "tIQeuzBz4Fs",
+      "title": "Go Bangla Tutorial 1 : Course plan",
+      "duration": 207
+    },
+    {
+      "id": "zFDU3NdU80E",
+      "title": "Go Bangla Tutorial 2 : Introduction to Go",
+      "duration": 198
+    },
+    {
+      "id": "0o3VTRk_zDI",
+      "title": "Go Bangla Tutorial 3 : Go Program structure",
+      "duration": 356
+    },
+    {
+      "id": "RMzO8eQuT1g",
+      "title": "Go Bangla Tutorial 4 : environment setup",
+      "duration": 196
+    },
+    {
+      "id": "rh5i1rn8ddA",
+      "title": "Go Bangla Tutorial 5 : Running your first go program",
+      "duration": 570
+    },
+    {
+      "id": "M17OrKMLKYg",
+      "title": "Go Bangla Tutorial 6 : escape sequences and comment",
+      "duration": 538
+    },
+    {
+      "id": "Zz_V8PiE_gk",
+      "title": "Go Bangla Tutorial 7 : keywords & data types",
+      "duration": 278
+    },
+    {
+      "id": "xTIRrlXFswA",
+      "title": "Go Bangla Tutorial 8 : variables (part-1)",
+      "duration": 866
+    },
+    {
+      "id": "DS8xLJdOJtM",
+      "title": "Go Bangla Tutorial 9 : variable (part-2)",
+      "duration": 227
+    },
+    {
+      "id": "HHFtKtAdugQ",
+      "title": "Go Bangla Tutorial 10 : formatting output & constant",
+      "duration": 305
+    },
+    {
+      "id": "xBaNRNk5WJE",
+      "title": "Go Bangla Tutorial 11 : getting user input",
+      "duration": 431
+    },
+    {
+      "id": "FLE4etF3UFk",
+      "title": "Go Bangla Tutorial 12 : number and string formatting",
+      "duration": 387
+    },
+    {
+      "id": "Oiv2XH6zEzE",
+      "title": "Go Bangla Tutorial 13 : arithmetic operator",
+      "duration": 787
+    },
+    {
+      "id": "6_vXFGk8L4o",
+      "title": "Go Bangla Tutorial 14 : area of triangle and circle",
+      "duration": 325
+    },
+    {
+      "id": "OaWfAZqZ7iY",
+      "title": "Go Bangla Tutorial 15 : Assignment operators",
+      "duration": 352
+    },
+    {
+      "id": "l65Hm20_b-I",
+      "title": "Go Bangla Tutorial 16 : Unary and Relational operators",
+      "duration": 366
+    },
+    {
+      "id": "iIdiE7E3GMI",
+      "title": "Go Bangla Tutorial 17 : Logical operators",
+      "duration": 263
+    },
+    {
+      "id": "1KUD2iJPqzk",
+      "title": "Go Bangla Tutorial 18 : Bitwise operators",
+      "duration": 473
+    },
+    {
+      "id": "jLtjp1qqrA0",
+      "title": "Go Bangla Tutorial 19 : if, else if, else statement",
+      "duration": 496
+    },
+    {
+      "id": "BRhQ2S8NBOY",
+      "title": "Go Bangla Tutorial 20 : even-odd program",
+      "duration": 177
+    },
+    {
+      "id": "e7k0LGJ_B3I",
+      "title": "Go Bangla Tutorial 21 : find large number between 2 numbers",
+      "duration": 176
+    },
+    {
+      "id": "1RoAmb6XzWo",
+      "title": "Go Bangla Tutorial 22 : find large number among 3 numbers",
+      "duration": 254
+    },
+    {
+      "id": "6tKriA8VGgs",
+      "title": "Go Bangla Tutorial 23 : find large number using logical operators",
+      "duration": 219
+    },
+    {
+      "id": "EoFmLCebo1M",
+      "title": "Go Bangla Tutorial 24 : digit spelling program using if, else",
+      "duration": 237
+    },
+    {
+      "id": "xNVlpBhVJ3M",
+      "title": "Go Bangla Tutorial 25 : switch statement",
+      "duration": 242
+    },
+    {
+      "id": "BOzhopWw9I0",
+      "title": "Go Bangla Tutorial 26 : multiple case in switch statement",
+      "duration": 246
+    },
+    {
+      "id": "S1nl-kqb7bQ",
+      "title": "Go Bangla Tutorial 27 : loop control statement",
+      "duration": 477
+    },
+    {
+      "id": "H84H_sInya8",
+      "title": "Go Bangla Tutorial 28 :  series program | 2 + 4 + 6 + ... + n",
+      "duration": 536
+    },
+    {
+      "id": "OSzkLWxWHzM",
+      "title": "Go Bangla Tutorial 29 : break and continue statement",
+      "duration": 245
+    },
+    {
+      "id": "CW70Kp59_hA",
+      "title": "Go Bangla Tutorial 30 : function",
+      "duration": 840
+    },
+    {
+      "id": "PyqwjLO-_TU",
+      "title": "Go Bangla Tutorial 31 : A calculator using function, switch and for loop",
+      "duration": 671
+    },
+    {
+      "id": "5arfrJdwCfA",
+      "title": "Go Bangla Tutorial 32 : Pointer | Call by Reference",
+      "duration": 704
+    },
+    {
+      "id": "8B4T9F5Vn4Y",
+      "title": "Go Bangla Tutorial 33 : Structure | passing structure in a function",
+      "duration": 1019
+    },
+    {
+      "id": "yrRJpPy1pmE",
+      "title": "Go Bangla Tutorial 34 : Array",
+      "duration": 984
+    },
+    {
+      "id": "hgZRbO-0hK4",
+      "title": "Go Bangla Tutorial 35 : Slice | Dynamic Array",
+      "duration": 570
+    }
+  ]
+}

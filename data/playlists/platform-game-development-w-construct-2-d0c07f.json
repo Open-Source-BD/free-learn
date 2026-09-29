@@ -1,0 +1,95 @@
+{
+  "courseId": "platform-game-development-w-construct-2-d0c07f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:04.787Z",
+  "title": "Platform Game Development w/ Construct 2 Playlist",
+  "channel": "thenewboston",
+  "videos": [
+    {
+      "id": "DBdsmeYb7rY",
+      "title": "Platform Game Development w/ Construct 2 - 1 - Adding the Background",
+      "duration": 615
+    },
+    {
+      "id": "7PhrFDBzfBM",
+      "title": "Platform Game Development w/ Construct 2 - 2 - Importing a Tileset",
+      "duration": 414
+    },
+    {
+      "id": "inM2Ze6Zko4",
+      "title": "Platform Game Development w/ Construct 2 - 3 - Creating the World",
+      "duration": 354
+    },
+    {
+      "id": "gzN1fbZ5n_c",
+      "title": "Platform Game Development w/ Construct 2 - 4 - Adding the Player",
+      "duration": 399
+    },
+    {
+      "id": "IqHdH6ZtdGc",
+      "title": "Platform Game Development w/ Construct 2 - 5 - Behaviors",
+      "duration": 321
+    },
+    {
+      "id": "vz5zwMahcgI",
+      "title": "Platform Game Development w/ Construct 2 - 6 - More on Behaviors",
+      "duration": 317
+    },
+    {
+      "id": "GcqGcsEg6Ys",
+      "title": "Platform Game Development w/ Construct 2 - 7 - PlayerBox Behavior",
+      "duration": 406
+    },
+    {
+      "id": "2yIREPrzDx4",
+      "title": "Platform Game Development w/ Construct 2 - 8 - Looking Left and Right",
+      "duration": 293
+    },
+    {
+      "id": "tmlFN8Sds1U",
+      "title": "Platform Game Development w/ Construct 2 - 9 - Improving the Resolution",
+      "duration": 184
+    },
+    {
+      "id": "DGlDOcy_yzc",
+      "title": "Platform Game Development w/ Construct 2 - 10 - Adding Player Animations",
+      "duration": 449
+    },
+    {
+      "id": "omqlqaG8XrM",
+      "title": "Platform Game Development w/ Construct 2 - 11 - Running Animations",
+      "duration": 307
+    },
+    {
+      "id": "Hamh8966xrg",
+      "title": "Platform Game Development w/ Construct 2 - 12 - Animating Jumping",
+      "duration": 278
+    },
+    {
+      "id": "LahFEuBXvY8",
+      "title": "Platform Game Development w/ Construct 2 - 13 - Fixing the Landing Bug",
+      "duration": 207
+    },
+    {
+      "id": "oDz0jANBZDA",
+      "title": "Platform Game Development w/ Construct 2 - 14 - Creating an Enemy",
+      "duration": 492
+    },
+    {
+      "id": "Q_HVtL1kBL4",
+      "title": "Platform Game Development w/ Construct 2 - 15 - Enemy Properties",
+      "duration": 695
+    },
+    {
+      "id": "_ul6T8QHXto",
+      "title": "Platform Game Development w/ Construct 2 - 16 - Making the Snail Smarter",
+      "duration": 473
+    },
+    {
+      "id": "tcWfBf-V9EM",
+      "title": "Platform Game Development w/ Construct 2 - 17 - Making Platforms You Can Jump Through",
+      "duration": 293
+    }
+  ]
+}

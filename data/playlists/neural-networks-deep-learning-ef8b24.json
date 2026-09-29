@@ -1,0 +1,175 @@
+{
+  "courseId": "neural-networks-deep-learning-ef8b24",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:48.913Z",
+  "title": "Neural Networks / Deep Learning",
+  "channel": "StatQuest with Josh Starmer",
+  "videos": [
+    {
+      "id": "zxagGtF9MeU",
+      "title": "Happy Halloween (Neural Networks Are Not Scary)",
+      "duration": 59
+    },
+    {
+      "id": "CqOfi41LfDw",
+      "title": "The Essential Main Ideas of Neural Networks",
+      "duration": 1134
+    },
+    {
+      "id": "wl1myxrtQHQ",
+      "title": "The Chain Rule, Clearly Explained!!!",
+      "duration": 1104
+    },
+    {
+      "id": "sDv4f4s2SB8",
+      "title": "Gradient Descent, Step-by-Step",
+      "duration": 1434
+    },
+    {
+      "id": "IN2XmBhILt4",
+      "title": "Neural Networks Pt. 2: Backpropagation Main Ideas",
+      "duration": 1054
+    },
+    {
+      "id": "iyn2zdALii8",
+      "title": "Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.",
+      "duration": 1112
+    },
+    {
+      "id": "GKZoOHXGcLo",
+      "title": "Backpropagation Details Pt. 2: Going bonkers with The Chain Rule",
+      "duration": 789
+    },
+    {
+      "id": "68BZ5f7P94E",
+      "title": "Neural Networks Pt. 3: ReLU In Action!!!",
+      "duration": 538
+    },
+    {
+      "id": "83LYR-1IcjA",
+      "title": "Neural Networks Pt. 4: Multiple Inputs and Outputs",
+      "duration": 830
+    },
+    {
+      "id": "KpKog-L9veg",
+      "title": "Neural Networks Part 5: ArgMax and SoftMax",
+      "duration": 843
+    },
+    {
+      "id": "M59JElEPgIg",
+      "title": "The SoftMax Derivative, Step-by-Step!!!",
+      "duration": 433
+    },
+    {
+      "id": "6ArSys5qHAU",
+      "title": "Neural Networks Part 6: Cross Entropy",
+      "duration": 571
+    },
+    {
+      "id": "xBEh66V9gZo",
+      "title": "Neural Networks Part 7: Cross Entropy Derivatives and Backpropagation",
+      "duration": 1328
+    },
+    {
+      "id": "HGwBXDKFk9I",
+      "title": "Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)",
+      "duration": 924
+    },
+    {
+      "id": "AsNTP8Kwu80",
+      "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+      "duration": 997
+    },
+    {
+      "id": "YCzL96nL7j0",
+      "title": "Long Short-Term Memory (LSTM), Clearly Explained",
+      "duration": 1245
+    },
+    {
+      "id": "viZrOnJclY0",
+      "title": "Word Embedding and Word2Vec, Clearly Explained!!!",
+      "duration": 972
+    },
+    {
+      "id": "L8HKweZIOmg",
+      "title": "Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!",
+      "duration": 1010
+    },
+    {
+      "id": "PSs6nxngL6k",
+      "title": "Attention for Neural Networks, Clearly Explained!!!",
+      "duration": 951
+    },
+    {
+      "id": "zxQyTK8quyY",
+      "title": "Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!",
+      "duration": 2175
+    },
+    {
+      "id": "bQ5BoolX9Ag",
+      "title": "Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!",
+      "duration": 2205
+    },
+    {
+      "id": "GDN649X_acE",
+      "title": "Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!",
+      "duration": 1132
+    },
+    {
+      "id": "9hbQieQh7-o",
+      "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
+      "duration": 1440
+    },
+    {
+      "id": "DVGmsnxB2UQ",
+      "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
+      "duration": 1501
+    },
+    {
+      "id": "qPN_XZcJf_s",
+      "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
+      "duration": 1082
+    },
+    {
+      "id": "L35fFDpwIM4",
+      "title": "Tensors for Neural Networks, Clearly Explained!!!",
+      "duration": 580
+    },
+    {
+      "id": "ZTt9gsGcdDo",
+      "title": "Essential Matrix Algebra for Neural Networks, Clearly Explained!!!",
+      "duration": 1801
+    },
+    {
+      "id": "KphmOJnLAdI",
+      "title": "The matrix math behind transformer neural networks, one step at a time!!!",
+      "duration": 1423
+    },
+    {
+      "id": "FHdlXe1bSe4",
+      "title": "The StatQuest Introduction to PyTorch",
+      "duration": 1402
+    },
+    {
+      "id": "khMzi6xPbuM",
+      "title": "Introduction to Coding Neural Networks with PyTorch and Lightning",
+      "duration": 1243
+    },
+    {
+      "id": "RHGiXPuo_pI",
+      "title": "Long Short-Term Memory with PyTorch + Lightning",
+      "duration": 2004
+    },
+    {
+      "id": "Qf06XDYXCXI",
+      "title": "Word Embedding in PyTorch + Lightning",
+      "duration": 1922
+    },
+    {
+      "id": "C9QSpl5nmrY",
+      "title": "Coding a ChatGPT Like Transformer From Scratch in PyTorch",
+      "duration": 1871
+    }
+  ]
+}

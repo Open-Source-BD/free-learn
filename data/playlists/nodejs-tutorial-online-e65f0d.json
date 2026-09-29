@@ -1,0 +1,115 @@
+{
+  "courseId": "nodejs-tutorial-online-e65f0d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:14.455Z",
+  "title": "[Bangla] NodeJS Tutorial Online Training",
+  "channel": "Foyzul Karim",
+  "videos": [
+    {
+      "id": "JboK1j08Zfg",
+      "title": "[Bangla] Online NodeJS - 1.1 introduction of this course",
+      "duration": 409
+    },
+    {
+      "id": "gJltWkjmIAM",
+      "title": "[Bangla] Online NodeJS - 1.2 thread switching",
+      "duration": 1104
+    },
+    {
+      "id": "e-unA9x943I",
+      "title": "[Bangla] Online NodeJS - 1.3 asynchronous things",
+      "duration": 518
+    },
+    {
+      "id": "byQmhagz_WU",
+      "title": "[Bangla] Online NodeJS - 1.4 browser and v8",
+      "duration": 1336
+    },
+    {
+      "id": "Vpr1VeWloMg",
+      "title": "[Bangla] Online NodeJS - 1.5 nodejs and v8",
+      "duration": 989
+    },
+    {
+      "id": "-NpePUhttqA",
+      "title": "[Bangla] Online NodeJS 2.1 - Recap nodejs",
+      "duration": 821
+    },
+    {
+      "id": "CQZqJwpH2iU",
+      "title": "[Bangla] Online NodeJS 2.2 - Where is nodejs going",
+      "duration": 962
+    },
+    {
+      "id": "hyABWdIb8Fg",
+      "title": "[Bangla] Online NodeJS 2.3 - Commands",
+      "duration": 705
+    },
+    {
+      "id": "nHtW3tLqRmI",
+      "title": "[Bangla] Online NodeJS 2.4 - Hello node",
+      "duration": 480
+    },
+    {
+      "id": "SHfskp5pbbU",
+      "title": "[Bangla] Online NodeJS 2.5  - Node practices",
+      "duration": 814
+    },
+    {
+      "id": "4yhIKaiOOTc",
+      "title": "[Bangla] Online NodeJS 2.6 - Wrapping",
+      "duration": 798
+    },
+    {
+      "id": "um-fdMpdEqM",
+      "title": "[Bangla] Online NodeJS 3.1 assignments",
+      "duration": 770
+    },
+    {
+      "id": "dQmVPu_yDzE",
+      "title": "[Bangla] Online NodeJS 3.2 project initialization",
+      "duration": 1161
+    },
+    {
+      "id": "YXbqDIyw7t8",
+      "title": "[Bangla] Online NodeJS 3.3 javascript class",
+      "duration": 1229
+    },
+    {
+      "id": "i6I9Ra0N5iM",
+      "title": "[Bangla] Online NodeJS 3.4 http server nodemon",
+      "duration": 1368
+    },
+    {
+      "id": "CMvv5BYP3XU",
+      "title": "[Bangla] Online NodeJS 4.1 assignment",
+      "duration": 220
+    },
+    {
+      "id": "Qio8YVWo9I0",
+      "title": "[Bangla] Online NodeJS 4.2 assignment",
+      "duration": 460
+    },
+    {
+      "id": "Yz2A10mDps8",
+      "title": "[Bangla] Online NodeJS 4.3 servers",
+      "duration": 775
+    },
+    {
+      "id": "P00k9_cC7gs",
+      "title": "[Bangla] Online NodeJS 4.4 node view engines",
+      "duration": 1224
+    },
+    {
+      "id": "A4Qf3UPravQ",
+      "title": "[Bangla] Online NodeJS 4.5  async programming",
+      "duration": 2446
+    },
+    {
+      "id": "wGFYB2gE9uw",
+      "title": "[Bangla] Online NodeJS 4.6 - body parser",
+      "duration": 337
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "courseId": "redux-tutorial-in-hindi-5d417f",
+  "sourceUrl": "https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:23.626Z",
+  "title": "Redux tutorial in Hindi",
+  "channel": "Code Step By Step",
+  "videos": [
+    {
+      "id": "6_a27O2WFR0",
+      "title": "react redux tutorial in hindi  #1 introduction",
+      "duration": 420
+    },
+    {
+      "id": "eBRneAJckDY",
+      "title": "react redux tutorial in hindi #2 Redux architecture",
+      "duration": 362
+    },
+    {
+      "id": "uBp5GzzBmCI",
+      "title": "react redux tutorial in Hindi #3 Install redux in react-app",
+      "duration": 438
+    },
+    {
+      "id": "5WaJeX_wlww",
+      "title": "React Redux tutorial in Hindi #4 Props revision",
+      "duration": 496
+    },
+    {
+      "id": "Wu4dYYYAc6A",
+      "title": "React Redux tutorial in Hindi #5 filer folder structure",
+      "duration": 454
+    },
+    {
+      "id": "x1_kJcnMSZg",
+      "title": "React Redux tutorial in Hindi #6 Design for add to cart",
+      "duration": 1229
+    },
+    {
+      "id": "eXV6J04CNio",
+      "title": "React Redux tutorial in Hindi #7 action",
+      "duration": 483
+    },
+    {
+      "id": "M7SUyYsSoyM",
+      "title": "React Redux tutorial in Hindi #8 reducer and rootReducer",
+      "duration": 621
+    },
+    {
+      "id": "l18QRTYMz24",
+      "title": "React Redux tutorial in Hindi #9 Container - mapDispatchToProps -  mapStateToProps",
+      "duration": 484
+    },
+    {
+      "id": "OlTxr6EKKS4",
+      "title": "React Redux tutorial in Hindi #10 complete flow",
+      "duration": 750
+    },
+    {
+      "id": "S8CttB5GR00",
+      "title": "React Redux tutorial in Hindi #11 Add item in cart",
+      "duration": 549
+    },
+    {
+      "id": "H4DZ03w-0_U",
+      "title": "React Redux tutorial in Hindi #12 Share Data between components",
+      "duration": 357
+    },
+    {
+      "id": "4r1HIXOQsGY",
+      "title": "React Redux tutorial in hindi #13 Remove to cart",
+      "duration": 484
+    }
+  ]
+}

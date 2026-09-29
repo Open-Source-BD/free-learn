@@ -1,0 +1,330 @@
+{
+  "courseId": "flutter-widgets-in-hindi-e901be",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:10.437Z",
+  "title": "Flutter Widgets in Hindi",
+  "channel": "AhirLog",
+  "videos": [
+    {
+      "id": "7rXDaNAAeak",
+      "title": "What is a Flutter Widget? | Widget Types | Flutter Widgets Explained | #60 | Hindi",
+      "duration": 365
+    },
+    {
+      "id": "462zVL4U0M8",
+      "title": "Difference Between Stateless Widget and Stateful Widget in Flutter | #61 | Hindi",
+      "duration": 156
+    },
+    {
+      "id": "t9NlcAIxMgc",
+      "title": "Text Widget in Flutter | Flutter Tutorials In Hindi | #62",
+      "duration": 280
+    },
+    {
+      "id": "zHXlzIqi2Z4",
+      "title": "Text Widget Properties in Flutter | Flutter Tutorials In Hindi | #63",
+      "duration": 477
+    },
+    {
+      "id": "jGmhUjuNOuI",
+      "title": "Text Widget's Style Property in Flutter | Flutter Tutorials In Hindi | #64",
+      "duration": 669
+    },
+    {
+      "id": "e1UWX6ZNts8",
+      "title": "DefaultTextStyle Widget in Flutter | Flutter Tutorials In Hindi | #66",
+      "duration": 348
+    },
+    {
+      "id": "qnFSM21zh2U",
+      "title": "TextSpan Widget in Flutter | Flutter Tutorials in Hindi  | #67",
+      "duration": 296
+    },
+    {
+      "id": "ZGfWxIyED7o",
+      "title": "RichText Widget in Flutter | Flutter Tutorials in Hindi | #68",
+      "duration": 350
+    },
+    {
+      "id": "cPkMDJRjV20",
+      "title": "Text.rich Widget in Flutter | Flutter Tutorials in Hindi | #69",
+      "duration": 290
+    },
+    {
+      "id": "pcF04Ph8Ds4",
+      "title": "Container Widget in Flutter [Part 1] | Flutter Tutorials in Hindi | #70",
+      "duration": 680
+    },
+    {
+      "id": "M788jy5FSyY",
+      "title": "Container Widget in Flutter [Part 2] | Flutter Tutorials in Hindi | #71",
+      "duration": 513
+    },
+    {
+      "id": "iD8JApHA938",
+      "title": "Column Widget in Flutter | Flutter Tutorials in Hindi | #73",
+      "duration": 402
+    },
+    {
+      "id": "ogGgeD93g8M",
+      "title": "Row Widget in Flutter | Flutter Tutorials in Hindi | #74",
+      "duration": 309
+    },
+    {
+      "id": "kVfuNqROgzQ",
+      "title": "Expanded Widget and Flexible Widget in Flutter | Flutter Tutorials in Hindi | #75",
+      "duration": 444
+    },
+    {
+      "id": "A3YfVEFywHM",
+      "title": "Expanded Widget vs Flexible Widget | fit: FlexFit.loose vs fit: FlexFit.tight | #76 | Hindi",
+      "duration": 390
+    },
+    {
+      "id": "y0W91sQsBz4",
+      "title": "Flex Widget in Flutter | Flutter Tutorials in Hindi | #77",
+      "duration": 248
+    },
+    {
+      "id": "vjx1DBEVYYU",
+      "title": "Center Widget in Flutter | Flutter Tutorials in Hindi | #78",
+      "duration": 261
+    },
+    {
+      "id": "L1muJ-9A_pk",
+      "title": "Align Widget in Flutter | Flutter Tutorials in Hindi | #79",
+      "duration": 263
+    },
+    {
+      "id": "PaOe27uBtBo",
+      "title": "Spacer Widget in Flutter | Flutter Tutorials in Hindi | #80",
+      "duration": 296
+    },
+    {
+      "id": "Bq7aATbrZaw",
+      "title": "Card Widget in Flutter | Flutter Tutorials in Hindi | #81",
+      "duration": 343
+    },
+    {
+      "id": "s91AOOuv0xk",
+      "title": "SizedBox Widget in Flutter | Flutter Tutorials in Hindi | #82",
+      "duration": 442
+    },
+    {
+      "id": "3IVg5vU7i94",
+      "title": "SingleChildScrollView Widget in Flutter | Flutter Tutorials in Hindi | #83",
+      "duration": 567
+    },
+    {
+      "id": "ywkIz_1qfqc",
+      "title": "Padding Widget in Flutter | Flutter Tutorials in Hindi | #84",
+      "duration": 371
+    },
+    {
+      "id": "wq2U_29yj6A",
+      "title": "Placeholder Widget in Flutter | Flutter Tutorials in Hindi | #85",
+      "duration": 337
+    },
+    {
+      "id": "JsmpEaCZV2w",
+      "title": "AppBar Widget in Flutter [Part 1] | Flutter Tutorials in Hindi | #86",
+      "duration": 479
+    },
+    {
+      "id": "7bsChdc19mc",
+      "title": "Customizing the AppBar in Flutter [Part 2] | Flutter Tutorials in Hindi | #87",
+      "duration": 419
+    },
+    {
+      "id": "eEqq9cNrCuc",
+      "title": "TextButton Widget in Flutter | Flutter Tutorials in Hindi | #88",
+      "duration": 752
+    },
+    {
+      "id": "Sgnui_Rqwz0",
+      "title": "Image Widget in Flutter | Flutter Tutorial | #89 | Hindi",
+      "duration": 504
+    },
+    {
+      "id": "R46zJIiqRtA",
+      "title": "ElevatedButton Widget in Flutter | Flutter Tutorial | #90 | Hindi",
+      "duration": 496
+    },
+    {
+      "id": "Puh9VAz4GdA",
+      "title": "Icon Widget in Flutter | Flutter Tutorial | #91 | Hindi",
+      "duration": 153
+    },
+    {
+      "id": "QiYY8LL-eQ0",
+      "title": "IconButton Widget in Flutter | Flutter Tutorial | #92 | Hindi",
+      "duration": 441
+    },
+    {
+      "id": "xY9LtTh_syI",
+      "title": "FloatingActionButton Widget in Flutter | Flutter Tutorial | #93 | Hindi",
+      "duration": 571
+    },
+    {
+      "id": "zwPPy5kgCHo",
+      "title": "FlutterLogo Widget in Flutter | Flutter Tutorial | #94 | Hindi",
+      "duration": 433
+    },
+    {
+      "id": "1EzDLSiy57w",
+      "title": "Stateless Widget and Stateful Widget in Flutter | #99 | Hindi",
+      "duration": 372
+    },
+    {
+      "id": "kEuP2wPjdQ8",
+      "title": "MaterialApp Widget in Flutter | #101 | Hindi",
+      "duration": 218
+    },
+    {
+      "id": "gtxP_ck-jCc",
+      "title": "Scaffold Widget in Flutter | #102 | Hindi",
+      "duration": 381
+    },
+    {
+      "id": "1FtFu4CZ6VE",
+      "title": "ListView Widget in Flutter | #103 | Hindi",
+      "duration": 351
+    },
+    {
+      "id": "vDZW_zxqldw",
+      "title": "ListTile Widget in Flutter | #104 | Hindi",
+      "duration": 542
+    },
+    {
+      "id": "mwBuG4dE-GQ",
+      "title": "ListView Builder Widget in Flutter | #105 | Hindi",
+      "duration": 650
+    },
+    {
+      "id": "LlJDTmgaCW0",
+      "title": "ListView Separated Widget in Flutter | ListView.separated() | #106 | Hindi",
+      "duration": 428
+    },
+    {
+      "id": "8vpC00KxeE4",
+      "title": "ListView Custom Widget in Flutter | ListView.custom() | #107 | Hindi",
+      "duration": 268
+    },
+    {
+      "id": "-TfM47efHs8",
+      "title": "Stack Widget in Flutter | #108 | Hindi",
+      "duration": 557
+    },
+    {
+      "id": "g1g-Y_gPxvs",
+      "title": "Positioned Widget in Flutter | #109 | Hindi",
+      "duration": 281
+    },
+    {
+      "id": "Z9uk7wz7e08",
+      "title": "IndexedStack Widget in Flutter | #110 | Hindi",
+      "duration": 463
+    },
+    {
+      "id": "ilCRaeEa0Uw",
+      "title": "ClipRect Widget in Flutter | #111 | Hindi",
+      "duration": 270
+    },
+    {
+      "id": "Ff6uOWE_yJw",
+      "title": "ClipRRect Widget in Flutter | #112 | Hindi",
+      "duration": 311
+    },
+    {
+      "id": "Eboo5fjVizA",
+      "title": "ClipOval Widget in Flutter | #113 | Hindi",
+      "duration": 464
+    },
+    {
+      "id": "H7iOq6zsNSg",
+      "title": "Drawer Widget in Flutter | #114 | Hindi",
+      "duration": 459
+    },
+    {
+      "id": "EGGVkij2hPU",
+      "title": "ButtonBar Widget in Flutter | #115 | Hindi",
+      "duration": 402
+    },
+    {
+      "id": "TGaVKNeHxug",
+      "title": "SafeArea Widget in Flutter | #116 | Hindi",
+      "duration": 345
+    },
+    {
+      "id": "AxTeJmHzVVA",
+      "title": "CircleAvatar Widget in Flutter | #117 | Hindi",
+      "duration": 417
+    },
+    {
+      "id": "ehvro8AnUpk",
+      "title": "TextField Widget in Flutter | [Part 1] | #119 | Hindi",
+      "duration": 757
+    },
+    {
+      "id": "xqz0aSNBs-c",
+      "title": "TextField Widget in Flutter | [Part 2] | #120 | Hindi",
+      "duration": 604
+    },
+    {
+      "id": "TMVHajsyrMc",
+      "title": "InkWell Widget in Flutter | Flutter Tutorial | Hindi",
+      "duration": 367
+    },
+    {
+      "id": "2QLY8Eur3Ws",
+      "title": "Divider widget in Flutter | Flutter Widgets | Hindi",
+      "duration": 292
+    },
+    {
+      "id": "BTR4n8yGS_A",
+      "title": "VerticalDivider widget in Flutter | Flutter Widgets | Hindi",
+      "duration": 270
+    },
+    {
+      "id": "YjlrPShiaic",
+      "title": "State and State Management in Flutter | Hindi",
+      "duration": 312
+    },
+    {
+      "id": "rQO5iAIjaug",
+      "title": "SnackBar Widget in Flutter | How to add SnackBar in Flutter? | Hindi",
+      "duration": 418
+    },
+    {
+      "id": "bs9ZzbJEha0",
+      "title": "Interactive Viewer Widget in Flutter | InteractiveViewer | Hindi",
+      "duration": 335
+    },
+    {
+      "id": "oV2qrdaftVQ",
+      "title": "FutureBuilder Widget in Flutter | Future Functions | Hindi",
+      "duration": 625
+    },
+    {
+      "id": "8FtydjHoFt8",
+      "title": "GridView Widget in Flutter | Hindi",
+      "duration": 391
+    },
+    {
+      "id": "DMvw3ha39Z0",
+      "title": "GridView.count Widget in Flutter | Hindi",
+      "duration": 250
+    },
+    {
+      "id": "GcZXs_tIqH0",
+      "title": "GridView.builder Widget in Flutter | Hindi",
+      "duration": 356
+    },
+    {
+      "id": "Fh5Txkqx7Yw",
+      "title": "Flutter FittedBox Widget | Responsive UI Text Layout | Responsive Layout Widget | Hindi",
+      "duration": 376
+    }
+  ]
+}

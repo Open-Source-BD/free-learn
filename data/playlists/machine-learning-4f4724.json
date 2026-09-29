@@ -1,0 +1,665 @@
+{
+  "courseId": "machine-learning-4f4724",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:12.540Z",
+  "title": "Machine Learning",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "Y4qO9unerGs",
+      "title": "Introduction To Machine Learning ll Machine Learning Course Explained With RealLife Examples (Hindi)",
+      "duration": 721
+    },
+    {
+      "id": "YHcAQKrh3E4",
+      "title": "Classic Machine And Adaptive Machine ll Machine Learning Course Explained in Hindi",
+      "duration": 418
+    },
+    {
+      "id": "1f61P_TQvbk",
+      "title": "Basics Of Training And Testing Phase ll Machine Learning Course Explained in Hindi",
+      "duration": 604
+    },
+    {
+      "id": "ICCA3-7a5bw",
+      "title": "Overfitting and Underfitting Explained with Examples in Hindi ll Machine Learning Course",
+      "duration": 556
+    },
+    {
+      "id": "vZDDmULsCUU",
+      "title": "Feature Selection Techniques Explained with Examples in Hindi ll Machine Learning Course",
+      "duration": 781
+    },
+    {
+      "id": "6_YvpI-oDIs",
+      "title": "MultiClass Classification Approaches ll One Vs All and One Vs One Classification Explained in Hindi",
+      "duration": 649
+    },
+    {
+      "id": "83x5X66uWK0",
+      "title": "Basics Of Principal Component Analysis Part-1 Explained in Hindi ll Machine Learning Course",
+      "duration": 547
+    },
+    {
+      "id": "o0NNUeWNnL4",
+      "title": "Principal Component Analysis(PCA) Part-2 Explained with Solved Example in Hindi l Machine Learning",
+      "duration": 766
+    },
+    {
+      "id": "_ZkFfrCfIws",
+      "title": "Principal Component Analysis Part-3 Explained with Solved Example in Hindi l Machine Learning",
+      "duration": 533
+    },
+    {
+      "id": "XjjXpRTeStA",
+      "title": "Principal Component Analysis Part-4 Explained with Solved Example in Hindi | Machine Learning Course",
+      "duration": 330
+    },
+    {
+      "id": "nOYW31rrkig",
+      "title": "Regression Analysis l Dependent And Independent Variables (HINDI)",
+      "duration": 331
+    },
+    {
+      "id": "HYE9ruNDESA",
+      "title": "Linear Regression And Logistic Regression Explained in HINDI",
+      "duration": 387
+    },
+    {
+      "id": "AyP85ocS-8Y",
+      "title": "Confusion Matrix ll Accuracy,Error Rate,Precision,Recall Explained with Solved Example in Hindi",
+      "duration": 502
+    },
+    {
+      "id": "SMaa3pnQmbg",
+      "title": "Curse Of Dimensionality Explained with Examples in Hindi ll Machine Learning Course",
+      "duration": 706
+    },
+    {
+      "id": "9agiwBvCpHA",
+      "title": "Managing Missing Features Explained with Examples in Hindi ll Machine Learning Course",
+      "duration": 636
+    },
+    {
+      "id": "LWDhSGQHt2o",
+      "title": "Managing Categorical Data Explained with Examples in Hindi ll Machine Learning Course",
+      "duration": 682
+    },
+    {
+      "id": "lzGKRSvs5HM",
+      "title": "Linear Regression Explained in Hindi ll Machine Learning Course",
+      "duration": 860
+    },
+    {
+      "id": "VImxF-9jk1E",
+      "title": "Logistic Regression Explained in Hindi",
+      "duration": 706
+    },
+    {
+      "id": "Y90NTNG_yJg",
+      "title": "Polynomial Regression Explained in Hindi ll Machine Learning Course",
+      "duration": 614
+    },
+    {
+      "id": "Yj7sIK0VMg0",
+      "title": "Ridge Regression Explained in Hindi ll Machine Learning Course",
+      "duration": 670
+    },
+    {
+      "id": "K8iKkzUDw5I",
+      "title": "Lasso Regression Explained in Hindi ll Machine Learning Course",
+      "duration": 357
+    },
+    {
+      "id": "MqWv4DADJn0",
+      "title": "Elastic Net Regression Explained in Hindi ll Machine Learning Course",
+      "duration": 275
+    },
+    {
+      "id": "ADaxql883-M",
+      "title": "Conditional Probability Explained with Solved Example and Sample Space in Hindi",
+      "duration": 516
+    },
+    {
+      "id": "Fv_LGQKgWi0",
+      "title": "Bayes Theorem Explained with Solved Example in Hindi ll Machine Learning Course",
+      "duration": 668
+    },
+    {
+      "id": "mzPHmNm_NrM",
+      "title": "Naive Bayes Classifier ll Data Mining And Warehousing Explained with Solved Example in Hindi",
+      "duration": 648
+    },
+    {
+      "id": "QZ8ieXZVjuE",
+      "title": "Back Propagation Algorithm /Back Propagation Of Error (Part-1)Explained With Solved Example in Hindi",
+      "duration": 594
+    },
+    {
+      "id": "GiyJytfl1Fo",
+      "title": "Back Propagation Algorithm (Part-2) Explained with Solved Example in Hindi",
+      "duration": 550
+    },
+    {
+      "id": "FGG7u04s7q4",
+      "title": "Back Propagation Algorithm (Part-3) Explained With Solved Example in Hindi",
+      "duration": 509
+    },
+    {
+      "id": "eRmW4zznuWQ",
+      "title": "Back Propagation Algorithm (Part-4) Explained with Solved Example in Hindi",
+      "duration": 314
+    },
+    {
+      "id": "ZxbF0qDe-pw",
+      "title": "Naive Bayes Variants : Bernoulli Naive Bayes l Bernoulli Distribution Explained in Hindi",
+      "duration": 444
+    },
+    {
+      "id": "8vv9julkQEA",
+      "title": "Naive Bayes Variants : Multinomial Naive Bayes l Multinomial Distribution Explained in Hindi",
+      "duration": 522
+    },
+    {
+      "id": "ZDzO0AXkP44",
+      "title": "Naive Bayes Variants : Gaussian Naive Bayes Explained in Hindi",
+      "duration": 324
+    },
+    {
+      "id": "xLkk6MUrvrw",
+      "title": "Support Vector Machine (SVM) Part-1 ll Machine Learning Course Explained in Hindi",
+      "duration": 468
+    },
+    {
+      "id": "0MJTaPoHv-g",
+      "title": "Support Vector Machine (SVM) Part-2 ll Machine Learning Course Explained in Hindi",
+      "duration": 440
+    },
+    {
+      "id": "owsAQ_fiwIw",
+      "title": "Non-Linear Support Vector Machine (SVM) And Kernel Function ll Machine Learning Course in Hindi",
+      "duration": 388
+    },
+    {
+      "id": "RVuy1ezN_qA",
+      "title": "Decision Tree Algorithm Part-1 Explained With Example ll DMW ll ML Easiest Explanation Ever in Hindi",
+      "duration": 529
+    },
+    {
+      "id": "ffZ0ShPi-wg",
+      "title": "Decision Tree Algorithm Part-2 ll Constructing of Decision Tree ll ML ll DMW Explained in Hindi",
+      "duration": 402
+    },
+    {
+      "id": "LNrBcDfUhq0",
+      "title": "Ensemble Learning l Machine Learning Course Easiest Explanation Ever in Hindi",
+      "duration": 432
+    },
+    {
+      "id": "kW4XSvuBtDw",
+      "title": "Ensemble Method : Bagging (Bootstrap Aggregation) l Machine Learning Course in Hindi",
+      "duration": 402
+    },
+    {
+      "id": "CV9PE3iTjPI",
+      "title": "Ensemble Method : Boosting ll Machine Learning Course Explained in Hindi",
+      "duration": 572
+    },
+    {
+      "id": "06aqa-W5YU4",
+      "title": "Voting Classifier : Hard Voting and Soft Voting Explained with Examples in Hindi ll Machine Learning",
+      "duration": 515
+    },
+    {
+      "id": "WkFtIqWmX9o",
+      "title": "Random Forest Step-Wise Explanation ll Machine Learning Course Explained in Hindi",
+      "duration": 687
+    },
+    {
+      "id": "ZkyQ4rNIFvE",
+      "title": "DBSCAN (Density Based Spatial Clustering Of Applications with Noise) ll Machine Learning (Hindi)",
+      "duration": 748
+    },
+    {
+      "id": "CLKW6uWJtTc",
+      "title": "K means Clustering Algorithm Explained With an Example Easiest And Quickest Way Ever In Hindi",
+      "duration": 445
+    },
+    {
+      "id": "7enWesSofhg",
+      "title": "Hierarchical Clustering : Agglomerative Clustering and Divisive Clustering Explained in Hindi",
+      "duration": 431
+    },
+    {
+      "id": "EFhcDnw7RGY",
+      "title": "Agglomerative Clustering (Single Linkage) Part-1 Explained with Solved Example in Hindi",
+      "duration": 681
+    },
+    {
+      "id": "G_Ob1k28ZJo",
+      "title": "Agglomerative Clustering (Single Linkage) Part-2 Explained with Solved Example in Hindi",
+      "duration": 468
+    },
+    {
+      "id": "JeY9P-Vw9hg",
+      "title": "Agglomerative Clustering (Complete Linkage) Explained with Solved Example in Hindi",
+      "duration": 571
+    },
+    {
+      "id": "jhFFOmvPne4",
+      "title": "Recommendation System : Content Based Recommendation and Collaborative Filtering Explained in Hindi",
+      "duration": 503
+    },
+    {
+      "id": "vgwyzNkuiN8",
+      "title": "Data in Machine Learning Explained in Hindi",
+      "duration": 426
+    },
+    {
+      "id": "XxYe57_guBM",
+      "title": "How Much Data Do I Need in Machine learning Explained in Hindi",
+      "duration": 525
+    },
+    {
+      "id": "L8h2CHh5KJ4",
+      "title": "Bias and Variance Explained in Hindi l Machine Learning Course",
+      "duration": 472
+    },
+    {
+      "id": "viV_53s97Nw",
+      "title": "Bias-Variance Trade-Off Explained in Hindi l Machine Learning Course",
+      "duration": 529
+    },
+    {
+      "id": "YwlBCZVdpmI",
+      "title": "Linear Regression Solved Numerical Part-1 Explained in Hindi l Machine Learning Course",
+      "duration": 416
+    },
+    {
+      "id": "vipb11VsOpM",
+      "title": "Linear Regression Solved Numerical Part-2 Explained in Hindi l Machine Learning Course",
+      "duration": 335
+    },
+    {
+      "id": "KdeoNqHF3G0",
+      "title": "Recurrent Neural Network (RNN) Part-1 Explained in Hindi",
+      "duration": 415
+    },
+    {
+      "id": "tn6FUh408q0",
+      "title": "Recurrent Neural Network (RNN) Part-2 Explained in Hindi",
+      "duration": 326
+    },
+    {
+      "id": "wdSnTRt8VgY",
+      "title": "Loading Data Using Pandas Explained in Hindi l Machine Learning Course",
+      "duration": 500
+    },
+    {
+      "id": "9OTCG6ntcHw",
+      "title": "Understanding Data Using Statistics Explained in Hindi l Machine Learning Course",
+      "duration": 395
+    },
+    {
+      "id": "Mlk5opWJ27k",
+      "title": "Visualization of Data Using Matplotlib Part-1 Explained in Hindi l Machine Learning Course",
+      "duration": 717
+    },
+    {
+      "id": "wyuYQI650nc",
+      "title": "Visualization of Data Using Matplotlib Part-2 Explained in Hindi l Machine Learning Course",
+      "duration": 718
+    },
+    {
+      "id": "V9DW7F4Yjq4",
+      "title": "Data Preprocessing Techniques : Normalization Explained with Python in Hindi l Machine Learning",
+      "duration": 238
+    },
+    {
+      "id": "-ZYAff8Tl64",
+      "title": "Data Preprocessing Techniques : Standardization Explained with Python in Hindi l Machine Learning",
+      "duration": 179
+    },
+    {
+      "id": "m4RbSBJX__E",
+      "title": "Data Preprocessing Techniques : Binarization Explained with Python in Hindi l Machine Learning",
+      "duration": 175
+    },
+    {
+      "id": "bTzocAdTlj4",
+      "title": "Training and Testing data Explained in Hindi with Python in Hindi l Machine Learning Course",
+      "duration": 450
+    },
+    {
+      "id": "xoBFaawvYss",
+      "title": "Linear Regression Single Variable Explained with Python in Hindi l Machine Learning Course",
+      "duration": 621
+    },
+    {
+      "id": "iI86e7ggIVk",
+      "title": "Linear Regression Multiple Variables Explained with Python in Hindi l Machine Learning Course",
+      "duration": 545
+    },
+    {
+      "id": "x74JPEneGA8",
+      "title": "Logistic Regression Explained with Python in Hindi l Machine Learning Course",
+      "duration": 533
+    },
+    {
+      "id": "yaYxtm62MU4",
+      "title": "K Means Clustering Implementation with Python Part-1 Explained in Hindi l Machine Learning Course",
+      "duration": 449
+    },
+    {
+      "id": "Q8ep6Uz3AOY",
+      "title": "K Means Clustering Implementation with Python Part-2 Explained in Hindi l Machine Learning Course",
+      "duration": 456
+    },
+    {
+      "id": "GaHX3BTdih4",
+      "title": "Learn Machine Learning From Scratch",
+      "duration": 360
+    },
+    {
+      "id": "StL5tO8zayw",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "lcS0jiNoj6o",
+      "title": "Time Series Kya hota hai l Machine Learning",
+      "duration": 509
+    },
+    {
+      "id": "PB0qtNNeNIM",
+      "title": "What is Statistics and its Types Explained in Hindi",
+      "duration": 377
+    },
+    {
+      "id": "sc0OCzvKCwA",
+      "title": "Mean, Median and Mode Explained with Example in Hindi | Statistics Series",
+      "duration": 456
+    },
+    {
+      "id": "K-A2aZ5XbfI",
+      "title": "What is Feature Engineering Explained in Hindi with Examples | Machine Learning",
+      "duration": 465
+    },
+    {
+      "id": "GLN1ntfpPm0",
+      "title": "Data Science Life Cycle Explained in Hindi",
+      "duration": 458
+    },
+    {
+      "id": "gsC6kR0hovc",
+      "title": "What is Sampling Explained in Hindi | Data Science",
+      "duration": 327
+    },
+    {
+      "id": "y5M2hD6nzeE",
+      "title": "Sampling Techniques : Random, Systematic and Stratified Explained in Hindi | Data Science",
+      "duration": 409
+    },
+    {
+      "id": "57-WL12pN94",
+      "title": "Point Estimate and Interval Estimate Explained in Hindi",
+      "duration": 310
+    },
+    {
+      "id": "0Kmc--WA-Do",
+      "title": "Confidence Interval Explained in Hindi with a Solved Example",
+      "duration": 346
+    },
+    {
+      "id": "d_BlZEZ2h08",
+      "title": "Margin of Error (MOE) Explained in Hindi with Solved Example",
+      "duration": 201
+    },
+    {
+      "id": "kSfB9UDBzSk",
+      "title": "Mean Squared Error (MSE) Explained in Hindi",
+      "duration": 323
+    },
+    {
+      "id": "MDNuFbvc6Vo",
+      "title": "R Squared Explained in Hindi",
+      "duration": 407
+    },
+    {
+      "id": "zgy9QlhiCxw",
+      "title": "R Squared Numerical Example Explained in Hindi",
+      "duration": 293
+    },
+    {
+      "id": "Y1E09DPaCrs",
+      "title": "Random State Explained in Hindi | Machine Learning",
+      "duration": 526
+    },
+    {
+      "id": "vACpiXKjOUI",
+      "title": "Flattening Explained in Hindi l Neural Network",
+      "duration": 295
+    },
+    {
+      "id": "ivFJZPYl2L0",
+      "title": "Elbow method Explained with Example in Hindi",
+      "duration": 529
+    },
+    {
+      "id": "n5pD4CglwPk",
+      "title": "Precision and Recall Explained in Hindi l Machine Learning",
+      "duration": 524
+    },
+    {
+      "id": "yvIuKK-HFxo",
+      "title": "ROC Curve Part-1 Explained in Hindi l Machine Learning Course",
+      "duration": 601
+    },
+    {
+      "id": "7qzZYw0AjHE",
+      "title": "AUC (Area Under the Curve) Explained in Hindi l ROC AUC l Machine Learning Course",
+      "duration": 597
+    },
+    {
+      "id": "01GlhWoZ-Oc",
+      "title": "F1 Score Explained in Hindi l Machine Learning Course",
+      "duration": 373
+    },
+    {
+      "id": "izTprywtmQg",
+      "title": "Accuracy Vs F1 Score Explained with Example in Hindi l Machine Learning Course",
+      "duration": 440
+    },
+    {
+      "id": "TRIEE7oB3ws",
+      "title": "Specificity and Sensitivity Explained with Example in Hindi l Machine Learning Course",
+      "duration": 405
+    },
+    {
+      "id": "Ep0HuvMxnAA",
+      "title": "Univariate, Bivariate and Multivariate Analysis Explained in Hindi l Machine Learning Course",
+      "duration": 752
+    },
+    {
+      "id": "tyoTXLdTpC4",
+      "title": "Hypothesis Testing Explained with Solved Numerical in Hindi l Machine Learning Course",
+      "duration": 836
+    },
+    {
+      "id": "L2tSsLLggQk",
+      "title": "Hypothesis Testing Solved Numerical 2 l Z test l Explained in Hindi l Machine Learning Course",
+      "duration": 463
+    },
+    {
+      "id": "XvzXVxggQGs",
+      "title": "One Tailed Test Vs Two Tailed Test Explained in Hindi l Machine Learning Course",
+      "duration": 635
+    },
+    {
+      "id": "HGcMRc5PX5I",
+      "title": "Hypothesis testing T test l Left tailed test explained with example (Hindi) Machine Learning Course",
+      "duration": 312
+    },
+    {
+      "id": "dvZ65nyUAd0",
+      "title": "Hypothesis Testing T test l Right Tailed Test Explained with Solved Numerical in Hindi",
+      "duration": 319
+    },
+    {
+      "id": "4rs0jJCiyf0",
+      "title": "T test (Two Tailed test) Explained with Example (Hindi) l Hypothesis Testing l Machine Learning",
+      "duration": 350
+    },
+    {
+      "id": "gF2ScNjx-H8",
+      "title": "Accuracy_score and Score Explained in Hindi l Machine Learning",
+      "duration": 692
+    },
+    {
+      "id": "XTyEpR0oRuQ",
+      "title": "Leave P Out and Leave One Out Cross Validation Explained in Hindi l Machine Learning Course",
+      "duration": 434
+    },
+    {
+      "id": "qKHKWnjQlFQ",
+      "title": "K-medoids Clustering Algorithm Explained with Solved Numerical in Hindi l Machine Learning Course",
+      "duration": 652
+    },
+    {
+      "id": "fTn_1wczIyw",
+      "title": "Covariance Explained with Solved Example in Hindi l Machine Learning Course",
+      "duration": 398
+    },
+    {
+      "id": "ahSZYsRF_ZA",
+      "title": "Learning Rate Explained in Hindi l Machine Learning Course",
+      "duration": 471
+    },
+    {
+      "id": "vD9x3of3Gyo",
+      "title": "Chi-Square Test Explained with Solved Numerical in Hindi l Machine Learning Course",
+      "duration": 632
+    },
+    {
+      "id": "T4goNwmkUuo",
+      "title": "One Hot Encoding Vs Label Encoding Explained with Example in Hindi l Machine Learning Course",
+      "duration": 470
+    },
+    {
+      "id": "a7PGatJeGE4",
+      "title": "Outliers Explained in Hindi l Machine Learning Course",
+      "duration": 365
+    },
+    {
+      "id": "XifOXgdl7AI",
+      "title": "Mean Absolute Error(MAR) l Mean Squared Error(MSE) l Root Mean Squared Error (RMSE) in Hindi",
+      "duration": 585
+    },
+    {
+      "id": "Jo4AJcODLv4",
+      "title": "What is Skewness Explained in Hindi l Machine Learning Course l Statistics",
+      "duration": 511
+    },
+    {
+      "id": "RiLIkrM_GSE",
+      "title": "What is Kurtosis Explained in Hindi | Machine Learning Course | Statistics",
+      "duration": 451
+    },
+    {
+      "id": "ZNDXShnZCyk",
+      "title": "Ordinal Encoding Explained with Examples in Hindi | Machine Learning Course",
+      "duration": 322
+    },
+    {
+      "id": "mseLP3AxCRg",
+      "title": "Interquartile Range (IQR) and Outliers Explained in Hindi l Machine Learning Course l Statistics",
+      "duration": 521
+    },
+    {
+      "id": "kvTZ6eHE9og",
+      "title": "Single Linkage Clustering Explained with Solved Numerical in Hindi | Machine Learning Course",
+      "duration": 631
+    },
+    {
+      "id": "sewseyn1fQc",
+      "title": "Complete Linkage Clustering Explained with Solved Numerical in Hindi | Machine Learning Course",
+      "duration": 659
+    },
+    {
+      "id": "CJjSPCslxqQ",
+      "title": "K-Nearest Neighbor Classification ll KNN Classification Explained with Solved Example in Hindi",
+      "duration": 478
+    },
+    {
+      "id": "gfHmi5_y9tg",
+      "title": "K-Nearest Neighbor Regression | KNN Regression Intuition Explained (Hindi) | Machine Learning Course",
+      "duration": 410
+    },
+    {
+      "id": "YRnDkE8xhZM",
+      "title": "K-Nearest Neighbor Regression | KNN Regression Explained with Solved Numerical in Hindi",
+      "duration": 351
+    },
+    {
+      "id": "rbi1ukfBK6E",
+      "title": "How to find the value of K in KNN Algorithm | Explained in Hindi | Machine Learning Course",
+      "duration": 556
+    },
+    {
+      "id": "Ett1tyq1YYk",
+      "title": "Confusion Matrix for Multi-Class Classification Explained in Hindi | Machine Learning Course",
+      "duration": 640
+    },
+    {
+      "id": "P94OpHB-35w",
+      "title": "Kmeans++ Clustering Explained in Hindi | Machine Learning Course",
+      "duration": 560
+    },
+    {
+      "id": "PBPsvUpAggo",
+      "title": "Sum of Squares | SST, SSR, SSE Explained in Hindi | Machine Learning Course",
+      "duration": 578
+    },
+    {
+      "id": "C31LyY__kr0",
+      "title": "Logistic Regression Explained with Detailed Solved Numerical in Hindi | Machine Learning Course",
+      "duration": 622
+    },
+    {
+      "id": "T8gyQxsBTj4",
+      "title": "Multiple Dependent Variables Explained with Detailed Solved Numerical in Hindi | Machine Learning",
+      "duration": 678
+    },
+    {
+      "id": "F96-Zky2LsY",
+      "title": "Multiple Linear Regression Explained with Solved Numerical in Hindi | Machine Learning Course",
+      "duration": 466
+    },
+    {
+      "id": "sbSiAW2Tujg",
+      "title": "Linear Regression using Least Squares Method Explained with Solved Numerical(Hindi) Machine Learning",
+      "duration": 561
+    },
+    {
+      "id": "9sbYn15Y7MI",
+      "title": "Naive Bayes Classifier Algorithm Explained with Solved Numerical in Hindi | Machine Learning Course",
+      "duration": 587
+    },
+    {
+      "id": "XdDNtNkLbhY",
+      "title": "Feature Scaling in Machine Learning Explained in Hindi ",
+      "duration": 490
+    },
+    {
+      "id": "yk0E-QsdzB4",
+      "title": "Model Complexity Vs Error Explained in Hindi | Overfitting & Underfitting ",
+      "duration": 693
+    },
+    {
+      "id": "Qd8bFPWKKOo",
+      "title": "Fine Tuning Vs RAG (Retrieval Augmented Generation) | When to Use What Explained in Hindi ",
+      "duration": 519
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "courseId": "ballerina-code-to-cloud-bb8e1c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0I1YcKwNEyMewhiSvwhM4in",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:06.851Z",
+  "title": "Ballerina Code to Cloud",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "AwK_FnCVT1Y",
+      "title": "Code to Cloud - Ballerina Programming Language | Introduction",
+      "duration": 191
+    },
+    {
+      "id": "qG4xanV0WlY",
+      "title": "What is Code to Cloud? | Ballerina Programming Language",
+      "duration": 203
+    },
+    {
+      "id": "KlATOj9cgG0",
+      "title": "Hello Docker | Ballerina Programming Language",
+      "duration": 540
+    },
+    {
+      "id": "8f8NmviL-Tw",
+      "title": "Hello Kubernetes | Ballerina Programming Language",
+      "duration": 390
+    },
+    {
+      "id": "NIkR833dLpw",
+      "title": "Practical Sample using the Ballerina Programming Language - Part 1 | Writing the Code",
+      "duration": 418
+    },
+    {
+      "id": "VZBd71B70Bs",
+      "title": "Practical Sample using the Ballerina Programming Language - Part 2 |  Configuring the Deployment",
+      "duration": 645
+    },
+    {
+      "id": "Po2Qgu5U6bM",
+      "title": "Practical Sample using the Ballerina Programming Language - Part 3 | Deploying and Running",
+      "duration": 355
+    },
+    {
+      "id": "4uuBErwelUE",
+      "title": "Extending Code to Cloud | Ballerina Programming Language",
+      "duration": 209
+    },
+    {
+      "id": "QoBbSTuZiCo",
+      "title": "Code to Cloud - Wrap Up",
+      "duration": 59
+    }
+  ]
+}

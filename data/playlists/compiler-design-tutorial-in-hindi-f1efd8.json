@@ -1,0 +1,290 @@
+{
+  "courseId": "compiler-design-tutorial-in-hindi-f1efd8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:14.217Z",
+  "title": "Compiler Design Tutorial In Hindi",
+  "channel": "University Academy",
+  "videos": [
+    {
+      "id": "yNZIhF6pxjM",
+      "title": "CD1: Compiler Design |  Syllabus Discussion | Compiler Design Tutorial and Lecture In Hindi | AKTU",
+      "duration": 530
+    },
+    {
+      "id": "XGc-HeXOJnw",
+      "title": "CD2: Compiler Design Tutorial | Importance of Compiler Design | Application of Compiler  in Hindi",
+      "duration": 1539
+    },
+    {
+      "id": "gdk1DWpEXZg",
+      "title": "CD3: Introduction to Compiler Design | Language Processing System in Compiler Design",
+      "duration": 795
+    },
+    {
+      "id": "6x-6ki_MP7w",
+      "title": "CD4: Compiler Phases | Phases of Compiler Design in Hindi | Lexical Analysis in Compiler Design",
+      "duration": 1074
+    },
+    {
+      "id": "Zz4aX_rUsYQ",
+      "title": "CD5: Syntax Analysis in Compiler Disign  | Sementics Analysis  in Compiler Disign with Examples",
+      "duration": 1468
+    },
+    {
+      "id": "devzdsBuXHo",
+      "title": "CD6: Compiler Passes | Single Pass Compiler | Two-Pass  or  Multi-Pass Compiler in Hindi",
+      "duration": 933
+    },
+    {
+      "id": "8kvoYKU1HRs",
+      "title": "CD7: Bootstrapping in Compiler Design | T Diagram Bootstap Method | Compiler Construction",
+      "duration": 1313
+    },
+    {
+      "id": "LKv8FLObLxg",
+      "title": "CD8: Regular Expression in Compiler Design | Finite Automata and Non Deterministic Finite Automata",
+      "duration": 1101
+    },
+    {
+      "id": "eoSS9dtWfB4",
+      "title": "CD9: Regular Expression to NFA | Mcnaughton Yamada Thompson Algorithm | Subset Construction Method",
+      "duration": 1372
+    },
+    {
+      "id": "GkcfmM-TV78",
+      "title": "CD10:Optimization of DFA Based Pattern Matchers in Compiler Design  Hindi",
+      "duration": 1458
+    },
+    {
+      "id": "_C50_b8UwW4",
+      "title": "CD11: Formal Grammar in Compiler Design | Application  of Grammar in  Syntax Analysis | BNF Notation",
+      "duration": 831
+    },
+    {
+      "id": "R6qCd36Vy3Q",
+      "title": "CD12: Chomsky Hierarchy in Compiler Design | Chomsky Classification of Grammars | Noam Chomsky",
+      "duration": 666
+    },
+    {
+      "id": "4oY9m4Czx3M",
+      "title": "CD13: Lex & YACC in Compiler Design | Yet Another Compiler Compiler| lex and yacc Compiler",
+      "duration": 797
+    },
+    {
+      "id": "VavE_xiU7js",
+      "title": "CD14: Context Free Grammar (CFG) |  Derivation Tree |Syntax Tree| Ambiguous and Unambiguous Grammar",
+      "duration": 1625
+    },
+    {
+      "id": "GytjF2FQUJc",
+      "title": "CD15: Introduction to Parsers in Compiler Design | Types of Parser |Top Down and  Bottom Up Parser",
+      "duration": 1032
+    },
+    {
+      "id": "yCvzZlvsj1s",
+      "title": "CD16: Problem with Top-Down Parsing | Left Recursion | Left factoring | Non-Determinism of Grammar",
+      "duration": 1135
+    },
+    {
+      "id": "bGuuquf1Y7o",
+      "title": "CD17: Top-Down Parsing Technique |  Backtracking Parsing with Example in Hindi",
+      "duration": 317
+    },
+    {
+      "id": "WZVenQKv9_g",
+      "title": "CD18: Top-Down Parsing Technique | Recursive Descent Parser with example in Hindi",
+      "duration": 604
+    },
+    {
+      "id": "LQok_ThluyU",
+      "title": "CD19: Top-Down Parsing Technique | Predictive LL(1) Parser  | Construction of LL(1) Parsing Table",
+      "duration": 320
+    },
+    {
+      "id": "lzI5-BJGFXU",
+      "title": "CD20: LL (1) Parser | Construction of Predictive LL(1) Parsing Table with Example  in Hindi",
+      "duration": 1363
+    },
+    {
+      "id": "Rljpuv-tf0Q",
+      "title": "CD21:  First and Follow of a Grammar in Compiler Design | How to Find FIRST and FOLLOW sets Examples",
+      "duration": 933
+    },
+    {
+      "id": "yJmjsg6xtWQ",
+      "title": "CD22: LL(1) parsing table , Construction of Predictive LL(1) Parsing Table Example  in Hindi",
+      "duration": 1433
+    },
+    {
+      "id": "hIOTMy8wFXA",
+      "title": "CD23: Introduction to Bottom-Up Parser | Shift Reduce Parsing in Compiler Design, Handle Pruning",
+      "duration": 1337
+    },
+    {
+      "id": "z71twNQHJ7k",
+      "title": "CD24: Bottom Up Parser | Operator Precedence Parsing in Compiler Design | Handle Pruning in Hindi",
+      "duration": 1094
+    },
+    {
+      "id": "4O-lu71Q3OU",
+      "title": "CD25: Bottom Up Parser | LR(0) Parser |  SLR(1) Parser | Simple LR Parser in Compiler Design",
+      "duration": 1617
+    },
+    {
+      "id": "YL34H2yGkx4",
+      "title": "CD26: SLR(1) Parser Example | Simple LR Parser | SLR Parssing Table Example",
+      "duration": 757
+    },
+    {
+      "id": "NMuhIYCBpuA",
+      "title": "CD27:Compiler Design Tutorial,SLR(1) Parser Full Explained Example,Simple LR Parser,LR Parser Hindi",
+      "duration": 2806
+    },
+    {
+      "id": "ewPe5UywMso",
+      "title": "CD28: LALR parser or Look-Ahead LR parser |  CLR or  Canonical LR parser In Compiler Design",
+      "duration": 1608
+    },
+    {
+      "id": "0kbYYwlYfPg",
+      "title": "CD29: LALR and CLR Parser | | Sift Reduce Conflict| Reduce -Reduce Conflict in Compiler Design",
+      "duration": 422
+    },
+    {
+      "id": "5EnIpz5VXDk",
+      "title": "CD30: Syntax Directed Translation Scheme | SDT  Scheme|Syntax Directed Definition in Compiler Design",
+      "duration": 860
+    },
+    {
+      "id": "d6iMnbPJMvE",
+      "title": "CD31: Syntax Directed Translation Scheme Example | SDT in Compiler  | Compiler Design Lecture",
+      "duration": 328
+    },
+    {
+      "id": "f43tMnYhLo4",
+      "title": "CD32: Syntax Directed Translation Scheme Example| SDT for Desk Calculator|Compiler Lecture in Hindi",
+      "duration": 420
+    },
+    {
+      "id": "U1W4T8Qwzyk",
+      "title": "CD33: Types of SDT | S-Attributed SDT | L- Attributed SDT |Synthesized and Inherited Attribute",
+      "duration": 656
+    },
+    {
+      "id": "4XwgPnDCpqo",
+      "title": "CD34: Intermediate Code Generation in Compiler | Postfix  Notation | Syntax Tree |Three Address Code",
+      "duration": 798
+    },
+    {
+      "id": "3j2Ru3sa0TM",
+      "title": "CD35: Intermediate Code Generation in Compiler Design|  Syntax Tree Solved Example",
+      "duration": 200
+    },
+    {
+      "id": "J1zVZdwgXqY",
+      "title": "CD36: Intermediate Three Address Code | Quadruples Representation|Triples Representation in Compiler",
+      "duration": 952
+    },
+    {
+      "id": "05DhevjADIY",
+      "title": "CD37:Intermediate Code Generation | Three Address Code | Quadruple and Triple Representtion in HIndi",
+      "duration": 361
+    },
+    {
+      "id": "6nRu52BktFU",
+      "title": "CD38: Intermediate Three Address Code | Quadruple and Triple Representation Solved Examples",
+      "duration": 574
+    },
+    {
+      "id": "dlavzTqmf48",
+      "title": "CD39:More About Translation | Array Reference in Arithmatic |One Dimension Array |Three Address Code",
+      "duration": 548
+    },
+    {
+      "id": "0bIx8eWu4c8",
+      "title": "CD40: More About Translation |Two Dimension to Three Address Code | 2-D Array in Intermediate Code",
+      "duration": 968
+    },
+    {
+      "id": "jFLeMZXhdVw",
+      "title": "CD41:More About Translation |  Procedure Call | Switch Case Statement | Three Address Code in HIndi",
+      "duration": 547
+    },
+    {
+      "id": "8LxnXjfOH8c",
+      "title": "CD42: Symbol Table In Compiler Design |Format of Symbol Table | Representation of Symbol Table Hindi",
+      "duration": 658
+    },
+    {
+      "id": "hjY1btZ7UD4",
+      "title": "CD43: Operation on Symbol Table | Insert Lookup Delete and Scope Management In Symbol Table",
+      "duration": 559
+    },
+    {
+      "id": "I90gx0kqTnk",
+      "title": "CD44: Implementation of  Symbol Table | Linear List | Self Organising | Binary Search | Hash Table",
+      "duration": 522
+    },
+    {
+      "id": "R0nPO7niBhE",
+      "title": "CD45: Compiler Design|Run Time Storage Administration| Implementation Simple stack Allocation Scheme",
+      "duration": 878
+    },
+    {
+      "id": "3OXRsBe9E70",
+      "title": "CD46: Compiler Design| Run-Time Storage Administration| Implementation of Block Structured Language",
+      "duration": 517
+    },
+    {
+      "id": "3DwNFvPrrrk",
+      "title": "CD47: Error Detection And Recovery in Compiler Design | Lexical Phase Error and Recovery in Hindi",
+      "duration": 876
+    },
+    {
+      "id": "LAfXBikp2Vo",
+      "title": "CD48: Error Detection And Recovery in Compiler Design|Syntactic Phase Error & Semantic Phase Error",
+      "duration": 842
+    },
+    {
+      "id": "XWT-XEUOViY",
+      "title": "CD49: Code Optimization in Compiler Design | Machine Dependent and Independent Optimization",
+      "duration": 807
+    },
+    {
+      "id": "Cx6x4-EY-Og",
+      "title": "CD50: Code Optimization Technique  in Compiler Design | Basic Blocks | Flow Graph",
+      "duration": 795
+    },
+    {
+      "id": "cqoMZDWTMXk",
+      "title": "CD51: Code Optimization Method|Common sub-expression Elimination|Copy Propagation in Compiler Design",
+      "duration": 725
+    },
+    {
+      "id": "3AWX24pmDe8",
+      "title": "CD52: Loop Optimization in Compiler Design | Motion Code |  Induction Variable | Strength Reduction",
+      "duration": 858
+    },
+    {
+      "id": "GseIt87dxzU",
+      "title": "CD53: Directed Acyclic Graph in Compiler Design | DAG Representation Basics | DAG Application Hindi",
+      "duration": 951
+    },
+    {
+      "id": "UXq574whukg",
+      "title": "CD54: Code Generation in Compiler Design |Properties of Code Generation|Code Generation Design Issue",
+      "duration": 1352
+    },
+    {
+      "id": "sd_LPKj5LKI",
+      "title": "CD55: Peephole Optimization | Code Generation and Optimization in Compiler Design",
+      "duration": 424
+    },
+    {
+      "id": "Yg2zCzM1XBc",
+      "title": "CD56:Compiler Design Important Questions Answer, Question Bank,Assignment",
+      "duration": 585
+    }
+  ]
+}

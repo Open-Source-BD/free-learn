@@ -1,0 +1,295 @@
+{
+  "courseId": "go-lang-tutorials-for-beginners-in-depth-7f137a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8fnAiiuQeFtg3ztGNquEb4Oh-WZxVPUv",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:55.417Z",
+  "title": "Golang Tutorials For Beginners in depth",
+  "channel": "Go Guru",
+  "videos": [
+    {
+      "id": "vL1c5hke18c",
+      "title": "Go Developer Roadmap (IN HINDI)",
+      "duration": 679
+    },
+    {
+      "id": "99QHx_fpox8",
+      "title": "Why Golang? Introduction to Go Language IN HINDI",
+      "duration": 435
+    },
+    {
+      "id": "qRBfOIaZPXA",
+      "title": "How to install golang  to ubuntu (In hindi) step by step | Install golang on ubuntu 20.4",
+      "duration": 287
+    },
+    {
+      "id": "GRPccpvHZ8k",
+      "title": "What workspace is in golang? | Golang commands explanation IN HINDI",
+      "duration": 492
+    },
+    {
+      "id": "laj3zhjM9rw",
+      "title": "Basic Concepts Golang | Print hello world | How to run golang programs",
+      "duration": 402
+    },
+    {
+      "id": "YlP1TVuLoCc",
+      "title": "Keywords in golang | How to use keywords in golang | Introduction to keywords IN HINDI",
+      "duration": 569
+    },
+    {
+      "id": "aJh0tVRGr4c",
+      "title": "Working with conditional statements in golang | Interview questions in golang |  Working with Consts",
+      "duration": 953
+    },
+    {
+      "id": "3QZM7n4J12M",
+      "title": "Pointers in go | Golang pointers | Pointers for beginners in go (In Hindi)",
+      "duration": 642
+    },
+    {
+      "id": "tKn7p8ms3JA",
+      "title": "Strings and String Literals of Golang | Strings in go | String Literals in golang",
+      "duration": 848
+    },
+    {
+      "id": "LJB4EuxfNR0",
+      "title": "Trim String in Golang | Strings package in golang | Trim method in golang IN HINDI",
+      "duration": 448
+    },
+    {
+      "id": "NJy-D_jy-HI",
+      "title": "Split Strings Golang | How to split strings in golang | Strings package in golang HINDI",
+      "duration": 354
+    },
+    {
+      "id": "_szm9xkR-Ws",
+      "title": "Ways to compare Strings Golang | Compare Strings Golang |  Golang strings IN HINDI",
+      "duration": 216
+    },
+    {
+      "id": "NkmneXZ08fo",
+      "title": "Loops in golang | Types of for loops in golang | while loop in golang IN HINDI",
+      "duration": 437
+    },
+    {
+      "id": "RRXyTGZ0uOg",
+      "title": "Functions in golang | What is the use of function | How functions will save time in golang IN HINDI",
+      "duration": 341
+    },
+    {
+      "id": "Z0h5nTbjlQE",
+      "title": "Variadic functions in golang | Anonymous functions in golang | Types of functions in golang IN HINDI",
+      "duration": 302
+    },
+    {
+      "id": "NYG1vW-8RYo",
+      "title": "Init functions in golang | Purpose of init functions | What is main function IN HINDI",
+      "duration": 387
+    },
+    {
+      "id": "1jNQ6MwdCpE",
+      "title": "Blank Identifiers in golang | Purpose of Blank Identifiers | What is Defer keyword IN HINDI",
+      "duration": 375
+    },
+    {
+      "id": "MxEymto6Uuw",
+      "title": "Mastering Closure in Golang: Understanding How They Work and Why They Matter IN HINDI",
+      "duration": 715
+    },
+    {
+      "id": "AAa1ivFM38U",
+      "title": "What is methods in golang | Methods vs functions in golang | Difference between both IN HINDI",
+      "duration": 345
+    },
+    {
+      "id": "Dn41lVMhoTg",
+      "title": "Structs in golang | Ways to use structs | How we can access them| Pointers in struct IN HINDI",
+      "duration": 377
+    },
+    {
+      "id": "9gxxUjAGKDo",
+      "title": "Nested Structs in golang | Ways to use structs | How we can access them IN HINDI",
+      "duration": 354
+    },
+    {
+      "id": "72JokcZ6XrY",
+      "title": "Introduction to arrays | Arrays in golang | Golang Arrays | One dimension array IN HINDI",
+      "duration": 592
+    },
+    {
+      "id": "3WBGU5t1qmU",
+      "title": "Arrays in depth golang | Arrays in golang | Golang Arrays | One dimension array IN HINDI",
+      "duration": 240
+    },
+    {
+      "id": "Wv4JBz_KuP0",
+      "title": "Slices in golang | What are slices in golang | How slices can help to improve your code IN HINDI",
+      "duration": 667
+    },
+    {
+      "id": "lI9CUJlJ5c0",
+      "title": "Slices in golang | Methods of slices in golang | Slices methods in golang IN HINDI",
+      "duration": 308
+    },
+    {
+      "id": "yEWRfjD8jX4",
+      "title": "From Panic to Recovery: Defer in Golang IN HINDI",
+      "duration": 399
+    },
+    {
+      "id": "hN9eDZNZAm4",
+      "title": "Difference between Concurrency and Parallelism | Concurrency vs Parallelism with example IN HINDI",
+      "duration": 316
+    },
+    {
+      "id": "5vzc1N7ei-4",
+      "title": "What is Goroutines? | How to implement goroutines | Advantages of goroutines IN HINDI",
+      "duration": 368
+    },
+    {
+      "id": "iq-oUROs1no",
+      "title": "What are Channels In Golang | How they works | How to access data from channels IN HINDI",
+      "duration": 738
+    },
+    {
+      "id": "8dCfB5zYtc4",
+      "title": "What are Bidirectional & Unidirectional Channels In Golang | How to implement goroutines IN HINDI",
+      "duration": 567
+    },
+    {
+      "id": "8hRVOQW_KS4",
+      "title": "Go channels using waitGroups: Best practices and tips IN HINDI",
+      "duration": 590
+    },
+    {
+      "id": "IqsYQ3Vr9Uc",
+      "title": "Select statement in golang | How select execute with example | Explain select with channels IN HINDI",
+      "duration": 459
+    },
+    {
+      "id": "KkOWm9khbkE",
+      "title": "Mutex in Golang: Synchronization Made Easy IN HINDI",
+      "duration": 491
+    },
+    {
+      "id": "HtBYFDgL_os",
+      "title": "Interfaces in golang? | Polymorphism and Data absraction using Interfaces | ok syntax IN HINDI",
+      "duration": 646
+    },
+    {
+      "id": "n-aO4b_tah8",
+      "title": "Mastering Go Maps: A Comprehensive Guide to Using Maps in Go Programming IN HINDI",
+      "duration": 947
+    },
+    {
+      "id": "zjIisM7nFAY",
+      "title": "Manipulating JSON in Golang: A Beginner's Guide using Maps, Structs, and OK Syntax IN HINDI",
+      "duration": 758
+    },
+    {
+      "id": "9lj1pNcay3E",
+      "title": "Marshaling Data in Golang: A Comprehensive Guide IN HINDI",
+      "duration": 381
+    },
+    {
+      "id": "7iCANz-b8Kk",
+      "title": "How to create Custom Packages in Golang IN HINDI",
+      "duration": 603
+    },
+    {
+      "id": "ElZ96n7qBwk",
+      "title": "Testing in Golang | Why testing is important in development | Testing package in golang IN HINDI",
+      "duration": 646
+    },
+    {
+      "id": "8c-7OosIyMY",
+      "title": "Mastering Benchmarking in Go: Tips, Tricks, and Best Practices IN HINDI",
+      "duration": 381
+    },
+    {
+      "id": "7IaXTG3V4gw",
+      "title": "Go Embed Tutorial: How to Embed Static Files in Your Go Application IN HINDI",
+      "duration": 634
+    },
+    {
+      "id": "1qrtTZOhxI4",
+      "title": "Understand the Basics of Gin Golang: Building Web Applications IN HINDI",
+      "duration": 593
+    },
+    {
+      "id": "q43FrVH_6Bk",
+      "title": "Understanding Context in Gin Golang: A Comprehensive Guide IN HINDI",
+      "duration": 1137
+    },
+    {
+      "id": "QwM4bBTjTNU",
+      "title": "Understanding API and Creating One with Golang Gin IN HINDI",
+      "duration": 660
+    },
+    {
+      "id": "kCJXAavdUuw",
+      "title": "Integrating Third-Party APIs in Golang Gin: A Beginner's Guide IN HINDI",
+      "duration": 631
+    },
+    {
+      "id": "ROctbN__KdI",
+      "title": "How to Connect MongoDB with Context Understanding in Golang IN HINDI",
+      "duration": 895
+    },
+    {
+      "id": "xgp42XRv9lM",
+      "title": "CRUD operations using MongoDB in Golang IN HINDI",
+      "duration": 1250
+    },
+    {
+      "id": "BSMzZxFX2oQ",
+      "title": "Swagger using gin || Golang swagger using gin || Creating swagger docs with  golang IN HINDI",
+      "duration": 460
+    },
+    {
+      "id": "sC2YqbqeNIw",
+      "title": "Best explanation of Go Build vs. Go Install IN HINDI",
+      "duration": 543
+    },
+    {
+      "id": "5kO0UShNIuY",
+      "title": "Understanding File System in Golang: A Beginner's Guide",
+      "duration": 669
+    },
+    {
+      "id": "EC9OxRG5jNk",
+      "title": "Maps in Golang | Interfaces in Golang (In Hindi) | Basics for maps and interfaces in golang | golang",
+      "duration": 825
+    },
+    {
+      "id": "hphuWr4WSK8",
+      "title": "What is JWT? || How to use jwt in golang? IN HINDI EXPLAINED",
+      "duration": 1108
+    },
+    {
+      "id": "iNIilFedp3Q",
+      "title": "Secure Your Golang Code with Govulncheck - A Comprehensive Guide IN HINDI",
+      "duration": 630
+    },
+    {
+      "id": "tusIqi9ojiU",
+      "title": "Building a Secure User Authentication System with JWT and Gin in Golang - Login and Signup IN HINDI",
+      "duration": 860
+    },
+    {
+      "id": "VDa-4gGntsU",
+      "title": "Golang Beyond Basics: Master Dynamic Reflection with Reflect Package! IN HINDI",
+      "duration": 783
+    },
+    {
+      "id": "eUHYmhyvrmc",
+      "title": "Golang | How to implement OAuth using golang | IN Hindi",
+      "duration": 969
+    },
+    {
+      "id": "Iy0hxzltr_8",
+      "title": "Maps in Golang | Interview questions (In Hindi) | Advance for maps in golang | golang",
+      "duration": 1330
+    }
+  ]
+}

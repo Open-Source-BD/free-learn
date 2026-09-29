@@ -1,0 +1,30 @@
+{
+  "courseId": "databases-in-depth-bf2010",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLliXPok7ZonnALnedG5doBOSCXlU14yJF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:13.963Z",
+  "title": "Databases in Depth",
+  "channel": "Keerti Purswani",
+  "videos": [
+    {
+      "id": "8ogJlOIxKVE",
+      "title": "How do Databases work? Understand the internal architecture in simplest way possible!",
+      "duration": 1770
+    },
+    {
+      "id": "mgG0ecyNrfU",
+      "title": "Simplest, Most Detailed Explanation of BTrees | Why do Databases use BTrees not BSTs or Arrays?",
+      "duration": 2432
+    },
+    {
+      "id": "IrzF4r9hqlY",
+      "title": "Open Source Code of SQLite - Most Detailed, Simplest Explanation | Understand Internal Architecture",
+      "duration": 4817
+    },
+    {
+      "id": "hfbZqPpNiSM",
+      "title": "Debugging SQLite Open Source Code - Common SQL Queries | Understand what exactly happens behind CRUD",
+      "duration": 4622
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "courseId": "practical-microservices-workshop-fd739e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:05.285Z",
+  "title": "Practical Microservices Workshop",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "kicZ0IJxSKE",
+      "title": "Day 1: Building a Robust E-Commerce App with Microservice Architecture | Practical Microservices",
+      "duration": 6492
+    },
+    {
+      "id": "rmW6T72_RAU",
+      "title": "Day 2: Building Microservices with TypeScript | Practical Microservices Workshop | Stack Learner",
+      "duration": 11998
+    },
+    {
+      "id": "T2M4mVdEXsw",
+      "title": "Day 3.1: Implementing User, Auth & Email Services| Practical Microservices Workshop | Stack Learner",
+      "duration": 9734
+    },
+    {
+      "id": "gz_rCSsc6Ns",
+      "title": "Day 3.2: Securing Microservices | Practical Microservices Workshop | Stack Learner",
+      "duration": 3429
+    },
+    {
+      "id": "OCqPptK6EDg",
+      "title": "Day 4: Creating Cart and Order Services with Redis & API Gateway| Practical Microservices Workshop",
+      "duration": 10677
+    },
+    {
+      "id": "L-F5v0M7Z7U",
+      "title": "Day 5: Building Scalable Distributed Systems with RabbitMQ | Practical Microservices Workshop",
+      "duration": 8924
+    },
+    {
+      "id": "JkyQoY8q-Xo",
+      "title": "Day 6: Managing Microservices with KONG API Gateway | Practical Microservices Workshop",
+      "duration": 8525
+    },
+    {
+      "id": "ztrHhyBRZAk",
+      "title": "Day 7: Securing Your Microservices with Keyclock Authentication | Practical Microservices Workshop",
+      "duration": 10035
+    }
+  ]
+}

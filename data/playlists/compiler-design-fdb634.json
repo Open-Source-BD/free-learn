@@ -1,0 +1,410 @@
+{
+  "courseId": "compiler-design-fdb634",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLXj4XH7LcRfC9pGMWuM6UWE3V4YZ9TZzM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:48.779Z",
+  "title": "Compiler Design",
+  "channel": "Sudhakar Atchala",
+  "videos": [
+    {
+      "id": "CcnhLKPmPEM",
+      "title": "Language Processing System",
+      "duration": 1322
+    },
+    {
+      "id": "VTFOHSc4Wso",
+      "title": "Phases of a compiler in Compiler Design | Examples | CD",
+      "duration": 2169
+    },
+    {
+      "id": "xx0N5wvp2vM",
+      "title": "Phases of a compiler example1 in Compiler Design | Examples | CD",
+      "duration": 1477
+    },
+    {
+      "id": "aJuBDfBWiVc",
+      "title": "Phases of a compiler example2 in Compiler Design | Examples | CD",
+      "duration": 547
+    },
+    {
+      "id": "ZJ6XH7zBIIE",
+      "title": "Grouping of phases into passes|front end back end of the compiler|Analysis part Synthesis part",
+      "duration": 1054
+    },
+    {
+      "id": "5qiiKLxxYI4",
+      "title": "Lexical Analysis in Compiler Design | Roles, Functions & Counting Tokens with Examples",
+      "duration": 442
+    },
+    {
+      "id": "P5SoUwlDUl8",
+      "title": "Role of lexical Analyzer in Compiler Design | Functions | Lexical Errors | Examples | CD",
+      "duration": 2029
+    },
+    {
+      "id": "2mdAuEL39Ds",
+      "title": "Input Buffering",
+      "duration": 1526
+    },
+    {
+      "id": "e-WJJl1Wzc4",
+      "title": "Specification of Tokens in Compiler Design",
+      "duration": 2725
+    },
+    {
+      "id": "1DGpWJoVTaM",
+      "title": "Recognition of Tokens in Compiler Design",
+      "duration": 1945
+    },
+    {
+      "id": "6XTq5suJcOs",
+      "title": "LEX tool in compiler design",
+      "duration": 1726
+    },
+    {
+      "id": "kNlEqVb8U6Q",
+      "title": "Compiler Construction Tools",
+      "duration": 452
+    },
+    {
+      "id": "ZMgiwh_Aimw",
+      "title": "Bootstrapping in Compiler Design",
+      "duration": 698
+    },
+    {
+      "id": "QGz6tapRckQ",
+      "title": "Role of a parser in compiler design",
+      "duration": 503
+    },
+    {
+      "id": "y7TJswcOQt4",
+      "title": "Derivation Tree (Left & Right Derivation Trees)",
+      "duration": 2112
+    },
+    {
+      "id": "TwcFh6pj4Ys",
+      "title": "Ambiguous Grammar",
+      "duration": 996
+    },
+    {
+      "id": "d5jGBMAkolI",
+      "title": "Elimination of Left Recursion in CFG |  TOC | FLAT | CD | Compiler Design",
+      "duration": 375
+    },
+    {
+      "id": "dUZgxEVNOAo",
+      "title": "Elimination of left recursion || Removal of Ambiguity in Grammar || CFG || TOC || Compiler Design",
+      "duration": 1591
+    },
+    {
+      "id": "zfIVFAICPN0",
+      "title": "Elimination of Left Factoring in CFG | TOC | FLAT | Compiler Design",
+      "duration": 211
+    },
+    {
+      "id": "1uPW96bJByY",
+      "title": "Elimination of left factoring || Removal of Ambiguity in Grammar || CFG || TOC || Compiler Design",
+      "duration": 813
+    },
+    {
+      "id": "u5Ehozx7Gn8",
+      "title": "What is Parsing & Types of Parsers | Top-Down & Bottom-Up Parsers | Compiler Design",
+      "duration": 863
+    },
+    {
+      "id": "odoHgcoombw",
+      "title": "Recursive Descent parser",
+      "duration": 1386
+    },
+    {
+      "id": "uI-9EKWCytY",
+      "title": "Recursive Descent Parser in Compiler Design | Top-Down Parsing | Parse Tree with Example",
+      "duration": 624
+    },
+    {
+      "id": "Zif14iejiyo",
+      "title": "Find FIRST() in Compiler Design | Rules | FIRST() & FOLLOW() Explained with Examples",
+      "duration": 327
+    },
+    {
+      "id": "oowQjZW9Vhs",
+      "title": "Find FOLLOW() in Compiler Design | Rules | FIRST() & FOLLOW() Explained with Examples",
+      "duration": 502
+    },
+    {
+      "id": "DqdK8SKpajM",
+      "title": "First and Follow in compiler design",
+      "duration": 2479
+    },
+    {
+      "id": "QBlnMen9p8A",
+      "title": "LL(1) Parser in Compiler Design | Predictive Parser | Non-Recursive Parsing | Example 1",
+      "duration": 1358
+    },
+    {
+      "id": "uWFrdtflktE",
+      "title": "LL(1) Parser in Compiler Design | Predictive Parser | Non-Recursive Parsing | Example 2",
+      "duration": 920
+    },
+    {
+      "id": "b0eLqJYckzE",
+      "title": "How to Check Whether a Grammar is LL(1) or Not | LL(1) Grammar | Compiler Design",
+      "duration": 341
+    },
+    {
+      "id": "h-BsLsMgqKk",
+      "title": "LL(1) parser|predictive parser|non recursive predictive parsing",
+      "duration": 5246
+    },
+    {
+      "id": "jTIzyB2w6eU",
+      "title": "Backtracking in compiler design",
+      "duration": 494
+    },
+    {
+      "id": "RGyzJUM4V0c",
+      "title": "What is Bottom Up Parsing",
+      "duration": 810
+    },
+    {
+      "id": "MWb18JwEkQo",
+      "title": "Handle and Handle Pruning",
+      "duration": 716
+    },
+    {
+      "id": "Ha6eSb9Dgh0",
+      "title": "Shift-Reduce Parser in Compiler Design with Example | Bottom-Up Parsing | SR Parser",
+      "duration": 605
+    },
+    {
+      "id": "g9Pb5L8aLeI",
+      "title": "Shift reduce parser",
+      "duration": 1324
+    },
+    {
+      "id": "6Wh1Mbup-ac",
+      "title": "Operator Precedence Parser in Compiler Design`",
+      "duration": 878
+    },
+    {
+      "id": "ud-16se-DRM",
+      "title": "Operator Precedence Parser in Compiler Design || Example 1",
+      "duration": 1385
+    },
+    {
+      "id": "qfV5MmqC1B8",
+      "title": "Operator Precedence Parser in Compiler Design || Example 2",
+      "duration": 1120
+    },
+    {
+      "id": "vXIIcRCS7kY",
+      "title": "Leading & Trailing in Operator Precedence Parsing | Compiler Design | Explained with Examples",
+      "duration": 524
+    },
+    {
+      "id": "fGR15Dp6FpM",
+      "title": "LR(0) Parser | LR(0) Parsing Table | Parsing Input String | Step-by-Step | Compiler Design",
+      "duration": 1528
+    },
+    {
+      "id": "uzCxQ41G-4Y",
+      "title": "LR(0) Parser | LR(0) Parsing Table | Input String Parsing | Check Whether Grammar is LR(0) or Not",
+      "duration": 1470
+    },
+    {
+      "id": "SZVmc95ZNRA",
+      "title": "SLR(1) Parser in Compiler Design | SLR(1) Parsing Table | LR(0) Items | Bottom-Up Parser",
+      "duration": 1028
+    },
+    {
+      "id": "f6lw7x33i50",
+      "title": "SLR Parser in compiler design with solved example1",
+      "duration": 3287
+    },
+    {
+      "id": "f0nnuDHhSEg",
+      "title": "SLR Parser in compiler design with solved example2",
+      "duration": 2167
+    },
+    {
+      "id": "wd6P3-4nMoc",
+      "title": "SLR Parser in compiler design with solved example3",
+      "duration": 3171
+    },
+    {
+      "id": "IxFgoE2tuVc",
+      "title": "CLR(1) Parser in Compiler Design | CLR(1) Parsing Table | LR(1) Items | Bottom-Up Parser",
+      "duration": 1078
+    },
+    {
+      "id": "fpPzWswvkJw",
+      "title": "CLR Parser in compiler design with solved example1",
+      "duration": 2012
+    },
+    {
+      "id": "GUDHi-ywWxQ",
+      "title": "CLR Parser in compiler design with solved example2",
+      "duration": 2245
+    },
+    {
+      "id": "-lGU9jCDu3w",
+      "title": "LALR parser in compiler design with solved example2",
+      "duration": 1686
+    },
+    {
+      "id": "XEd4YdlBibM",
+      "title": "LALR Parser In Compiler Design with solved example1",
+      "duration": 2332
+    },
+    {
+      "id": "xHV0yJs2UBc",
+      "title": "LALR(1) Parser in Compiler Design | Parsing Table | Check Whether Grammar is LALR(1) or Not",
+      "duration": 819
+    },
+    {
+      "id": "bnPxdBUkGpc",
+      "title": "YACC tool in compiler design||YACC program to implement desk calculator",
+      "duration": 1059
+    },
+    {
+      "id": "nIMBA0qO684",
+      "title": "Syntax directed definition(SDD) in compier design||Types of attributes||Types of SDD",
+      "duration": 871
+    },
+    {
+      "id": "c7F4NNih3i0",
+      "title": "Syntax directed definition of simple desk calculator||Annotated parse tree for 3*5+4n",
+      "duration": 994
+    },
+    {
+      "id": "lz4HGafNSLA",
+      "title": "Annotated parse tree for int a,b,c||real a,b,c",
+      "duration": 310
+    },
+    {
+      "id": "HBxaCxgOWHg",
+      "title": "Annotated parse tree for 3*5||Inherited attributes",
+      "duration": 448
+    },
+    {
+      "id": "SxU6ypr6m78",
+      "title": "Dependency Graph in Compiler Design",
+      "duration": 436
+    },
+    {
+      "id": "a9pzpMH4C50",
+      "title": "Syntax Directed Translation||Translation scheme to convert infix to postfix expression",
+      "duration": 963
+    },
+    {
+      "id": "M8oQmaAfoJM",
+      "title": "construction of syntax tree in compiler design",
+      "duration": 1561
+    },
+    {
+      "id": "l82PgfuITWA",
+      "title": "Syntax directed translation scheme for infix to postfix",
+      "duration": 528
+    },
+    {
+      "id": "yFVCw0N0nxo",
+      "title": "Forms of intermediate code||Forms of Three-Address instructions",
+      "duration": 1645
+    },
+    {
+      "id": "sv5Qmq8Hjz4",
+      "title": "Construct Quadruples,triples,indirect triples for the statement (a+b)*(c+d)-(a+b+c)",
+      "duration": 479
+    },
+    {
+      "id": "Bqq26obqUoU",
+      "title": "Translation of Boolean Expressions||Generating Three Address Code for Boolean Expressions",
+      "duration": 706
+    },
+    {
+      "id": "75Tme7scP2k",
+      "title": "Intermediate Code for flow of control statements||flow of control statements in compiler design",
+      "duration": 1169
+    },
+    {
+      "id": "33mBEntPc9k",
+      "title": "Backpatching in compiler design",
+      "duration": 1457
+    },
+    {
+      "id": "2LhKod_GlyU",
+      "title": "intermediate code for switch statement||translation of switch statement",
+      "duration": 390
+    },
+    {
+      "id": "gZn1QOHacQg",
+      "title": "intermediate code for procedures",
+      "duration": 302
+    },
+    {
+      "id": "Lh00wocupnk",
+      "title": "Run time environment in compiler design||Run time Storage Management in compiler design",
+      "duration": 719
+    },
+    {
+      "id": "kZJIeZAT_Xc",
+      "title": "Activation Record in Compiler Design",
+      "duration": 312
+    },
+    {
+      "id": "IE4NWYTZA7g",
+      "title": "storage allocation strategies in compiler design||Storage Organization in compiler design",
+      "duration": 821
+    },
+    {
+      "id": "yHZFVz6TVmI",
+      "title": "code optimization techniques in compiler design||principal sources of optimization",
+      "duration": 708
+    },
+    {
+      "id": "id4p10d17KU",
+      "title": "Peephole optimization in compiler design",
+      "duration": 512
+    },
+    {
+      "id": "Hn0iOYV385g",
+      "title": "Loop Optimization in compiler design",
+      "duration": 429
+    },
+    {
+      "id": "OKSlupcFGjc",
+      "title": "Optimization of Basic Blocks in compiler Design",
+      "duration": 607
+    },
+    {
+      "id": "CrdVTw4JaiQ",
+      "title": "Issues in the design of a code generator",
+      "duration": 1212
+    },
+    {
+      "id": "NK1D1hdV374",
+      "title": "basic blocks and flow graphs in compiler design",
+      "duration": 1074
+    },
+    {
+      "id": "fAjIlKmCuUY",
+      "title": "DAG representation of a basic block||construction of dag from basic blocks",
+      "duration": 844
+    },
+    {
+      "id": "xysHDSNnWa0",
+      "title": "Object code forms||A simple target machine model||The target machine",
+      "duration": 856
+    },
+    {
+      "id": "Zz94_c-xFvA",
+      "title": "A simple code generator algorithm in compiler design",
+      "duration": 1085
+    },
+    {
+      "id": "HvIXgmd3DGg",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

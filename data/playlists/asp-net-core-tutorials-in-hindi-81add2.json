@@ -1,0 +1,930 @@
+{
+  "courseId": "asp-net-core-tutorials-in-hindi-81add2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:31.061Z",
+  "title": "ASP.NET CORE TUTORIALS IN HINDI",
+  "channel": "Technology Keeda",
+  "videos": [
+    {
+      "id": "MKZ0zxU1Z8w",
+      "title": "ASP.NET CORE Tutorial For Beginners 1 - Getting Started",
+      "duration": 345
+    },
+    {
+      "id": "iXXlQ6U-rkw",
+      "title": "ASP.NET Core Course almost free",
+      "duration": 541
+    },
+    {
+      "id": "7IxxB7fT2BE",
+      "title": "ASP.NET CORE Tutorial For Beginners 2 - Create Controller, View",
+      "duration": 366
+    },
+    {
+      "id": "xNYkmZRvKpc",
+      "title": "ASP.NET CORE Tutorial For Beginners 3 - Creating Model",
+      "duration": 584
+    },
+    {
+      "id": "m_6vx6wiEeg",
+      "title": "ASP.NET CORE Tutorial For Beginners 4 - Many-to-Many Mapping",
+      "duration": 307
+    },
+    {
+      "id": "5wYAo23H6jc",
+      "title": "ASP.NET CORE Tutorial For Beginners 5 - Data Context, Connection String, Startup File,  Migration",
+      "duration": 536
+    },
+    {
+      "id": "ZpL2UcTIvK4",
+      "title": "ASP.NET CORE Tutorial For Beginners 6 - Change Table name",
+      "duration": 214
+    },
+    {
+      "id": "SsC2EU16-5I",
+      "title": "ASP.NET CORE Tutorial For Beginners 7 - CRUD Operations",
+      "duration": 1050
+    },
+    {
+      "id": "lUj_hHru4DY",
+      "title": "ASP.NET CORE Tutorial For Beginners 8 - CRUD Operations using Scaffolding",
+      "duration": 243
+    },
+    {
+      "id": "qjEyUI5dLfU",
+      "title": "ASP.NET CORE Tutorial For Beginners 9 - CheckBox List , Many to Many Mapping, Get Method of Create",
+      "duration": 726
+    },
+    {
+      "id": "nVwCkVAa1bg",
+      "title": "ASP.NET CORE Tutorial For Beginners 10 - CheckBox List , Many to Many Mapping, Post Method of Create",
+      "duration": 681
+    },
+    {
+      "id": "ykcyXeRR6vM",
+      "title": "ASP.NET CORE Tutorial For Beginners 11 - CheckBox List , Many to Many Mapping, Details Method",
+      "duration": 383
+    },
+    {
+      "id": "75ZcI6nQHYg",
+      "title": "ASP.NET CORE Tutorial For Beginners 12 - CheckBox List , Many to Many Mapping,Edit Get Action Method",
+      "duration": 474
+    },
+    {
+      "id": "j5yXKpZzwWU",
+      "title": "ASP.NET CORE Tutorial For Beginners 13 - CheckBox List , Many to Many Mapping,Edit POST Action",
+      "duration": 745
+    },
+    {
+      "id": "gZCZHhJ0tKQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 14 - Add Identity in Hindi",
+      "duration": 560
+    },
+    {
+      "id": "-NxSu7womow",
+      "title": "ASP.NET CORE Tutorial For Beginners 15 - Identity Customization in Hindi",
+      "duration": 690
+    },
+    {
+      "id": "mve-NVEgFpg",
+      "title": "ASP.NET CORE Tutorial For Beginners 16 - Creating Roles  in Hindi",
+      "duration": 698
+    },
+    {
+      "id": "qlzconlZrNQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 17 - Assigning Roles to User  in Hindi",
+      "duration": 1046
+    },
+    {
+      "id": "gaGoEMfLSWg",
+      "title": "ASP.NET CORE Tutorial For Beginners 18 - Attribute Routing  in Hindi",
+      "duration": 876
+    },
+    {
+      "id": "2PhMSbbTotY",
+      "title": "ASP.NET CORE Tutorial For Beginners 19 - Passing Data to View  in Hindi",
+      "duration": 685
+    },
+    {
+      "id": "5XVQmWeNQxA",
+      "title": "ASP.NET CORE Tutorial For Beginners 20 - Query String  in Hindi",
+      "duration": 719
+    },
+    {
+      "id": "4hfa5sI2sWM",
+      "title": "ASP.NET CORE Tutorial For Beginners 21 - Sorting  in Hindi",
+      "duration": 744
+    },
+    {
+      "id": "2ANEK3MOCxc",
+      "title": "ASP.NET CORE Tutorial For Beginners 23 - Bind Select List or DropdownList in Hindi",
+      "duration": 786
+    },
+    {
+      "id": "Xz3kCh6CKBc",
+      "title": "ASP.NET CORE Tutorial For Beginners 22 - Client-Side Libraries",
+      "duration": 447
+    },
+    {
+      "id": "r72e3EVC7EQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 24 - Upload and Display Image | Save Image in Database in Hindi",
+      "duration": 1427
+    },
+    {
+      "id": "PdtRkKdTxCU",
+      "title": "ASP.NET CORE Tutorial For Beginners 25 - Layout Page in Hindi",
+      "duration": 621
+    },
+    {
+      "id": "n8czwiR-AOQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 26 - Partial View in Hindi",
+      "duration": 375
+    },
+    {
+      "id": "T4t010HeqHk",
+      "title": "ASP.NET CORE Tutorial For Beginners 27 - Validation in Hindi",
+      "duration": 850
+    },
+    {
+      "id": "cCDOT3pgp4Y",
+      "title": "ASP.NET CORE Tutorial For Beginners 28 - Not Found Error Handle in Hindi",
+      "duration": 834
+    },
+    {
+      "id": "CbS0uqzNuIo",
+      "title": "ASP.NET CORE Tutorial For Beginners 29 - Environment Variables",
+      "duration": 512
+    },
+    {
+      "id": "mmg_0dsN4qs",
+      "title": "ASP.NET CORE Tutorial for Beginners 30 - How to Seed Data",
+      "duration": 300
+    },
+    {
+      "id": "3nnESO6I3iE",
+      "title": "ASP.NET CORE Tutorial For Beginners 31 - Dependency Injection (DI)  in Hindi",
+      "duration": 833
+    },
+    {
+      "id": "K4bxBgSQ7z4",
+      "title": "ASP.NET CORE Tutorial For Beginners 32 - Main Method  in Hindi",
+      "duration": 450
+    },
+    {
+      "id": "-nB_9cWXBm8",
+      "title": "ASP.NET CORE Tutorial For Beginners 33 - Cookie  in Hindi",
+      "duration": 669
+    },
+    {
+      "id": "L2O_quCuehk",
+      "title": "ASP.NET CORE Tutorial For Beginners 34 - Tag Helpers",
+      "duration": 557
+    },
+    {
+      "id": "T-vEAxPLhHY",
+      "title": "ASP.NET CORE Tutorial For Beginners 35 - Why Tag Helpers",
+      "duration": 492
+    },
+    {
+      "id": "1BEDolVUqGw",
+      "title": "ASP.NET CORE Tutorial For Beginners 36 - Image Tag Helpers in Hindi",
+      "duration": 814
+    },
+    {
+      "id": "dTUJXrWg58w",
+      "title": "ASP.NET CORE Tutorial For Beginners 37 - Form Tag Helpers in Hindi",
+      "duration": 650
+    },
+    {
+      "id": "T40HQAKQAJg",
+      "title": "ASP.NET CORE Tutorial For Beginners 38 - Select Tag Helpers in Hindi",
+      "duration": 656
+    },
+    {
+      "id": "4v9a5YI8ehk",
+      "title": "ASP.NET Core Tutorial for Beginners 39 - How to Use Areas",
+      "duration": 292
+    },
+    {
+      "id": "xWiBDa9mh_s",
+      "title": "ASP.NET CORE Tutorial For Beginners 40 - EntityFramework Core Migrations",
+      "duration": 764
+    },
+    {
+      "id": "W5wnRNZKB8k",
+      "title": "ASP.NET CORE Tutorial For Beginners 41 - User Registration Page",
+      "duration": 1198
+    },
+    {
+      "id": "XhArae-BH-o",
+      "title": "ASP.NET CORE Tutorial For Beginners 42 - Show or Hide Login and Logout Links based on login status",
+      "duration": 688
+    },
+    {
+      "id": "LNYGAyLWaD0",
+      "title": "ASP.NET CORE Tutorial For Beginners 43 - Identity Password Complexity Increase",
+      "duration": 776
+    },
+    {
+      "id": "dH3IQa_z0fI",
+      "title": "ASP.NET CORE Tutorial For Beginners 44 - Login Functionality",
+      "duration": 558
+    },
+    {
+      "id": "zqznPBbWO68",
+      "title": "ASP.NET CORE Tutorial For Beginners 45 - Get List of Users from Identity",
+      "duration": 454
+    },
+    {
+      "id": "4BjVSoHb9Yo",
+      "title": "ASP.NET CORE Tutorial For Beginners 46 - Edit Identity User | Update Identity User",
+      "duration": 693
+    },
+    {
+      "id": "do-DoBLeHE4",
+      "title": "ASP.NET CORE Tutorial For Beginners 47 - Create Roles | Get List of Roles from Identity",
+      "duration": 1106
+    },
+    {
+      "id": "UcpYfgvGtCw",
+      "title": "ASP.NET CORE Tutorial For Beginners 48 -  Edit and Delete Existing Role from Identity",
+      "duration": 983
+    },
+    {
+      "id": "3xKwr16nd7o",
+      "title": "ASP.NET CORE Tutorial For Beginners 49 -  Confirmation Email Link",
+      "duration": 485
+    },
+    {
+      "id": "Zc-G7iGgEXE",
+      "title": "ASP.NET CORE Tutorial For Beginners 50 -  Manage User Roles",
+      "duration": 416
+    },
+    {
+      "id": "qj816SFzwsk",
+      "title": "ASP.NET CORE Tutorial For Beginners 51 -  Add or Remove Users From Roles  |  Edit UserRole",
+      "duration": 1322
+    },
+    {
+      "id": "uUe99AJlJJk",
+      "title": "ASP.NET CORE Tutorial For Beginners 52 - Create Default Admin for Application | Create Default Roles",
+      "duration": 1544
+    },
+    {
+      "id": "wKqKvCBUmA4",
+      "title": "ASP.NET CORE Tutorial For Beginners 53 - Change Password",
+      "duration": 424
+    },
+    {
+      "id": "4iVkK0xnhhQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 54 - Enable Two Factor Authentication",
+      "duration": 338
+    },
+    {
+      "id": "JHvHAx3wo5Y",
+      "title": "ASP.NET CORE Tutorial For Beginners 55 - Add and Remove User Claims",
+      "duration": 583
+    },
+    {
+      "id": "KV7NrORhjAg",
+      "title": "ASP.NET CORE Tutorial For Beginners 56- ASP.NET CORE PROJECT FILE",
+      "duration": 498
+    },
+    {
+      "id": "Oojt40CkNaw",
+      "title": "ASP.NET CORE Tutorial For Beginners 57 - How to use User Claims",
+      "duration": 507
+    },
+    {
+      "id": "uAwXA1V2hzI",
+      "title": "ASP.NET CORE Tutorial For Beginners 58 - Repository Pattern in Hindi",
+      "duration": 535
+    },
+    {
+      "id": "P9y8ZMy3Fyw",
+      "title": "ASP.NET CORE Tutorial For Beginners 59 - Generic Repository Pattern in Hindi",
+      "duration": 577
+    },
+    {
+      "id": "fxwPYY2b5AE",
+      "title": "ASP.NET CORE Tutorial For Beginners 60 - Searching from Database",
+      "duration": 483
+    },
+    {
+      "id": "EMmd1Y8U62w",
+      "title": "ASP.NET CORE Tutorial For Beginners 61 - Paging",
+      "duration": 765
+    },
+    {
+      "id": "47IGx3DGTSk",
+      "title": "ASP.NET CORE Tutorial For Beginners 62 - Domain Model, ViewModel and Edit View Model Introduction",
+      "duration": 329
+    },
+    {
+      "id": "winOKAz4-kQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 63 - Need of View Models | View Model Example",
+      "duration": 400
+    },
+    {
+      "id": "TRhhfxDtEsY",
+      "title": "ASP.NET CORE Tutorial For Beginners 64 - How to use jQuery",
+      "duration": 262
+    },
+    {
+      "id": "biGlaoOxBIM",
+      "title": "ASP.NET CORE Tutorial For Beginners 65 - Validate Anti Forgery Token",
+      "duration": 670
+    },
+    {
+      "id": "AMNXVIw-BXM",
+      "title": "ASP.NET CORE Tutorial For Beginners 66 - Get related Data",
+      "duration": 509
+    },
+    {
+      "id": "jcPAFWvoy6M",
+      "title": "ASP.NET CORE Tutorial For Beginners 67 - Middleware",
+      "duration": 442
+    },
+    {
+      "id": "1holLS7Kch0",
+      "title": "ASP.NET CORE Tutorial For Beginners 68 - Middleware Request Processing Pipeline",
+      "duration": 565
+    },
+    {
+      "id": "YIf_MIsHPNY",
+      "title": "ASP.NET CORE Tutorial For Beginners 69 - Getting Started with RESTful API Introduction",
+      "duration": 232
+    },
+    {
+      "id": "y4z2we06mIs",
+      "title": "ASP.NET CORE Tutorial For Beginners 70: Create RestFul API Project in Visual Studio",
+      "duration": 381
+    },
+    {
+      "id": "rT0WyK3bw24",
+      "title": "ASP.NET CORE Tutorial For Beginners 71: DbContext | Connection Strings | WebAPI",
+      "duration": 510
+    },
+    {
+      "id": "Y5FUTSCQg04",
+      "title": "ASP.NET CORE Tutorial For Beginners 72: WebAPI Repository Pattern",
+      "duration": 863
+    },
+    {
+      "id": "0s3ax2Q3yCQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 73 : WebAPI Get List of Resources",
+      "duration": 543
+    },
+    {
+      "id": "Y83t2hxakqQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 74 : WebAPI Get Resource by Id",
+      "duration": 389
+    },
+    {
+      "id": "Apb-8Nd3xiU",
+      "title": "ASP.NET CORE Tutorial For Beginners 75 : WebAPI Post Resource",
+      "duration": 565
+    },
+    {
+      "id": "i31rjOI18iE",
+      "title": "ASP.NET CORE Tutorial For Beginners 76 : WebAPI Put Resource",
+      "duration": 601
+    },
+    {
+      "id": "BB2UJqIs5Qs",
+      "title": "ASP.NET CORE Tutorial For Beginners 77 : WebAPI Delete Resource",
+      "duration": 246
+    },
+    {
+      "id": "PJgnrWz4b4M",
+      "title": "ASP.NET CORE Tutorial For Beginners 78 : WebAPI Search Resource",
+      "duration": 576
+    },
+    {
+      "id": "8CxHXdk_Yhw",
+      "title": "ASP.NET CORE Tutorial For Beginners 79 : Consume RestFul Web API Project",
+      "duration": 419
+    },
+    {
+      "id": "uCH_h1zb424",
+      "title": "ASP.NET Core Tutorial for Beginners 80: How to Create a Detail View Consuming a RESTful Web API P...",
+      "duration": 229
+    },
+    {
+      "id": "wk-rFvgzaR8",
+      "title": "ASP.NET CORE Tutorial For Beginners 81 :Create View Consume RestFul Web API Project",
+      "duration": 358
+    },
+    {
+      "id": "jRGtujiy2g0",
+      "title": "ASP.NET CORE Tutorial For Beginners 82 :Delete View  Consume RestFul Web API Project",
+      "duration": 94
+    },
+    {
+      "id": "OQJVGL-E0fs",
+      "title": "ASP.NET CORE Tutorial For Beginners 83 :Update View  Consume RestFul Web API Project",
+      "duration": 465
+    },
+    {
+      "id": "FszgeTHZBuU",
+      "title": "ASP.NET CORE Tutorial For Beginners 84 : Implement Global Exception Handling in Hindi",
+      "duration": 272
+    },
+    {
+      "id": "B6R1o70dLwU",
+      "title": "ASP.NET CORE Tutorial For Beginners 85 : How to create Blog in ASP.NET CORE  PART-1",
+      "duration": 742
+    },
+    {
+      "id": "gj58wyVFHFU",
+      "title": "ASP.NET CORE Tutorial For Beginners 86 : How to create Blog in ASP.NET CORE  PART-2",
+      "duration": 1021
+    },
+    {
+      "id": "WsiC2dK8oso",
+      "title": "ASP.NET CORE Tutorial For Beginners 87 : How to create Blog in ASP.NET CORE  PART-3",
+      "duration": 559
+    },
+    {
+      "id": "-yM1sKKEqWM",
+      "title": "ASP.NET CORE Tutorial For Beginners 88 : How to create Blog in ASP.NET CORE  PART-4",
+      "duration": 803
+    },
+    {
+      "id": "oqRVBoCHRUk",
+      "title": "ASP.NET CORE Tutorial For Beginners 89 : How to create Blog in ASP.NET CORE  PART-5",
+      "duration": 957
+    },
+    {
+      "id": "fEfy77Z6XLw",
+      "title": "ASP.NET CORE Tutorial For Beginners 90 : How to create Blog in ASP.NET CORE  PART-6",
+      "duration": 771
+    },
+    {
+      "id": "YuHdfa4bXMI",
+      "title": "ASP.NET CORE Tutorial For Beginners 91 : How to create Blog in ASP.NET CORE  PART-7",
+      "duration": 623
+    },
+    {
+      "id": "kZ68LtRlt3s",
+      "title": "ASP.NET CORE Tutorial For Beginners 92 : How to create Blog in ASP.NET CORE  PART-8",
+      "duration": 832
+    },
+    {
+      "id": "FtgTyIu0cyQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 93 : ASP,NET CORE 5.0 | Getting Started",
+      "duration": 399
+    },
+    {
+      "id": "c80ynm8BUeQ",
+      "title": "ASP.NET CORE Tutorial For Beginners 94 :  How to create Blog in ASP.NET CORE  PART-9",
+      "duration": 805
+    },
+    {
+      "id": "k5xhIrJy-Ag",
+      "title": "ASP.NET CORE Tutorial For Beginners 95: AddTransient, AddScoped and AddSingleton Services Difference",
+      "duration": 495
+    },
+    {
+      "id": "rm8-LvzovN4",
+      "title": "ASP.NET CORE Tutorial For Beginners 96: Unit Of Work Example in Hindi",
+      "duration": 747
+    },
+    {
+      "id": "QiB9cnoromw",
+      "title": "ASP.NET CORE Tutorial For Beginners 97: Four Layer Design Pattern Example in Hindi",
+      "duration": 353
+    },
+    {
+      "id": "1zx5v10JQmE",
+      "title": "ASP.NET CORE Tutorial For Beginners 98: Deploy ASP.NET Core Application on IIS Server",
+      "duration": 839
+    },
+    {
+      "id": "vv1MsPmRQsk",
+      "title": "ASP.NET CORE Tutorial For Beginners 99: One to many mapping in Detail",
+      "duration": 1274
+    },
+    {
+      "id": "4Zau-kuWywk",
+      "title": "ASP.NET CORE Tutorial For Beginners 100: Caching in Hindi",
+      "duration": 528
+    },
+    {
+      "id": "jSEBapPMUfM",
+      "title": "ASP.NET CORE Tutorial For Beginners 101: Html to PDF Conversion in Hindi",
+      "duration": 464
+    },
+    {
+      "id": "TBPWpjD8hHM",
+      "title": "ASP.NET CORE Tutorial For Beginners 102: Caching Example in Hindi",
+      "duration": 1055
+    },
+    {
+      "id": "4QQjJ1LNDVs",
+      "title": "ASP.NET CORE Tutorial For Beginners 103: Cascading DropDownList logic and Ajax Call  in Hindi",
+      "duration": 645
+    },
+    {
+      "id": "XVHxfsMCs60",
+      "title": "ASP.NET CORE Tutorial For Beginners 104: Cascading SelectList | Country State Example",
+      "duration": 501
+    },
+    {
+      "id": "-wZY6mKRInA",
+      "title": "ASP.NET CORE Tutorial For Beginners 105:  Selected remove from Other SelectList |  Duplicate Remove",
+      "duration": 533
+    },
+    {
+      "id": "zhicHcUpPQc",
+      "title": "ASP.NET CORE Tutorial For Beginners 106:  Ways to get Specific Role users from Identity in Hindi",
+      "duration": 266
+    },
+    {
+      "id": "cbtB2UTd_hU",
+      "title": "ASP.NET CORE Tutorial For Beginners 107:  Generate Bar Code and Qr Code Using Single Line Of Code",
+      "duration": 1304
+    },
+    {
+      "id": "tdZuLXyDaTY",
+      "title": "ASP.NET CORE Tutorial For Beginners 108:  SQLite Connection in Hindi",
+      "duration": 729
+    },
+    {
+      "id": "D-8jOg6LruA",
+      "title": "ASP.NET CORE Tutorial For Beginners 109:  Cultures Why ? in Hindi",
+      "duration": 1019
+    },
+    {
+      "id": "nYfLaU8Ng7k",
+      "title": "ASP.NET CORE Tutorial For Beginners 110: Install EF Core CLI Tool , Create WebAPI With dotnet CLI",
+      "duration": 587
+    },
+    {
+      "id": "7tkgUj6-h4I",
+      "title": "ASP.NET CORE Tutorial For Beginners 111: Getting Started with Minimal API",
+      "duration": 1057
+    },
+    {
+      "id": "4tLLT986Bsg",
+      "title": "C# Dependency Injection , Loosly Coupling, Tightly Coupling, Examples",
+      "duration": 1691
+    },
+    {
+      "id": "1G6eZj9EnFs",
+      "title": "ASP.NET CORE FLUENT API-1 : Getting Started",
+      "duration": 608
+    },
+    {
+      "id": "BmNP8q0vopQ",
+      "title": "ASP.NET CORE FLUENT API-2 : Configure one-to-many relationship with cascade example",
+      "duration": 786
+    },
+    {
+      "id": "VZb4b_2IYrU",
+      "title": "ASP.NET CORE FLUENT API-3 :Configure one-to-many relationship with ON DELETE Set Null, Restrict",
+      "duration": 745
+    },
+    {
+      "id": "xvUiwsezFwY",
+      "title": "ASP.NET CORE Tutorial For Beginners 113: Html Helpers in detailed",
+      "duration": 2519
+    },
+    {
+      "id": "ujQuVYAlwKA",
+      "title": "ASP.NET CORE Tutorial For Beginners 114: AutoMapper in Detailed",
+      "duration": 921
+    },
+    {
+      "id": "rHTp31hrjeE",
+      "title": "ASP.NET CORE Tutorial For Beginners 115: Output Cache in Detailed in Hindi",
+      "duration": 2162
+    },
+    {
+      "id": "8VyRLlxz9IY",
+      "title": "ASP.NET CORE Tutorial For Beginners 116: Create multilingual website | Culture , Localization Hindi",
+      "duration": 1355
+    },
+    {
+      "id": "gRBC50ddQzw",
+      "title": "Modal Popup CRUD Operation in ASP.NET CORE C#",
+      "duration": 795
+    },
+    {
+      "id": "8YQ1OO01sRk",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE",
+      "duration": 3324
+    },
+    {
+      "id": "-Vjdrlke0hI",
+      "title": "How to Use Multiple Layout Page in ASP NET CORE |  Ask By Garima :Subscriber",
+      "duration": 475
+    },
+    {
+      "id": "aNNjP6XBBF8",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE | Day-2",
+      "duration": 1623
+    },
+    {
+      "id": "ppTia2TPeDo",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE | Day-2",
+      "duration": 527
+    },
+    {
+      "id": "vyhyiCankVI",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE | Day-3",
+      "duration": 440
+    },
+    {
+      "id": "jZ_VwjG9YZU",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE | Day-3",
+      "duration": 1493
+    },
+    {
+      "id": "7bxPI1v8NXM",
+      "title": "How to Start New Project With Pattern in ASP.NET CORE | Day-5",
+      "duration": 597
+    },
+    {
+      "id": "wFWOI1BFJlU",
+      "title": "ASP.NET CORE Matrimonial Project [ Scratch Project]",
+      "duration": 226
+    },
+    {
+      "id": "XdTO0onGS0I",
+      "title": "ShoppingCart Project in ASP.NET CORE | Full Scratch Project | Ecommerce Project",
+      "duration": 194
+    },
+    {
+      "id": "ka5_-0V67W0",
+      "title": "WebAPI Cascading Radio Button and Check Box List ASP.NET CORE AJAX CALL",
+      "duration": 502
+    },
+    {
+      "id": "-8FtVt12cNo",
+      "title": "Getting Started With Razor pages | Part-1",
+      "duration": 409
+    },
+    {
+      "id": "6jc93vX7IV8",
+      "title": "Create Model, Connection String , Resister Connection String, Data Context in Razor Pages| Part-2",
+      "duration": 920
+    },
+    {
+      "id": "7PI8UHRLsDg",
+      "title": "Get List Of Categories in Razor Pages| CRUD Operations |  Part-3",
+      "duration": 1129
+    },
+    {
+      "id": "B-wrr-S1FcM",
+      "title": "Post New  Category in Razor Pages| Server Side Validation | Client Side Validation|  Part-4",
+      "duration": 646
+    },
+    {
+      "id": "QJGP6Tp3Dg0",
+      "title": "Install BootsWatch Theme  | Icons | ASP.NET CORE RAZOR Pages | Part-5",
+      "duration": 939
+    },
+    {
+      "id": "N9FiG5pmKn4",
+      "title": "Edit Delete Pages in  Razor Pages Hindi |  Razor Pages ASP.NET CORE Tutorial Part-6",
+      "duration": 848
+    },
+    {
+      "id": "-qIms3Y9mk4",
+      "title": "Temp Data , Toast Alert in Razor Pages Hindi |  Razor Pages ASP.NET CORE Tutorial Part-7",
+      "duration": 871
+    },
+    {
+      "id": "1UiwOW-YHVE",
+      "title": "Partial view in Razor Pages Hindi |  Razor Pages ASP.NET CORE Tutorial Part-8",
+      "duration": 248
+    },
+    {
+      "id": "LBqSop3PU6o",
+      "title": "Signal R in ASP.NET CORE |  Client-Server Application | Part-1",
+      "duration": 903
+    },
+    {
+      "id": "ZIGyGVhMj2o",
+      "title": "Signal R Connected and Disconnected Client Information |  ASP.NET CORE | Part-2",
+      "duration": 597
+    },
+    {
+      "id": "IEhLi8Un5lI",
+      "title": "InMemory Database Example ASP.NET CORE Web API  | DeleteBehavior  ClientSetNULL Example",
+      "duration": 806
+    },
+    {
+      "id": "CVRLgovCsbA",
+      "title": "Star Rating in ASP.NET CORE",
+      "duration": 260
+    },
+    {
+      "id": "ZgylQCF6SAE",
+      "title": "Run and Download Bus Ticket Booking Project in ASP.NET CORE",
+      "duration": 369
+    },
+    {
+      "id": "B85-i1_uVaA",
+      "title": "ASP.NET CORE 6.0 Microservice Example in Hindi",
+      "duration": 1458
+    },
+    {
+      "id": "zAG8VnOFxGA",
+      "title": "Filters in ASP.NET CORE | IActionFilter, IAsyncActionFilter, Custom Filter Example, How to use Hindi",
+      "duration": 1831
+    },
+    {
+      "id": "ZQuXruUlLYY",
+      "title": "Implementing CQRS and Mediatr ASP.NET CORE in Hindi",
+      "duration": 1416
+    },
+    {
+      "id": "8i4TaD0s6cs",
+      "title": "SOLID Principle in Hindi  |  ASP.NET CORE | Java",
+      "duration": 801
+    },
+    {
+      "id": "tJc-5bzlGRA",
+      "title": "Dapper vs EntityFramework | Dapper CRUD Operation in ASP.NET CORE",
+      "duration": 1345
+    },
+    {
+      "id": "g-pXB7AUNG4",
+      "title": "Logging in ASP.NET Core  | Add into Console , File or SQL Server",
+      "duration": 1759
+    },
+    {
+      "id": "sAOwE60OOOg",
+      "title": "JQuery DataTable in ASP.NET CORE | Complete Example",
+      "duration": 2317
+    },
+    {
+      "id": "SZYq2guC16k",
+      "title": "Future Career Scope For Dot Net Developer | Must Watch",
+      "duration": 653
+    },
+    {
+      "id": "C0kTbJXdouA",
+      "title": "How to write Automated Test Cases for .NET Projects |  ASP.NET CORE",
+      "duration": 2002
+    },
+    {
+      "id": "Wzedst8PBqo",
+      "title": "Complete ASP.NET CORE RESTful API Course Content revealed",
+      "duration": 1008
+    },
+    {
+      "id": "5w6hKy-rgH4",
+      "title": "How to create Project in ASP.NET CORE",
+      "duration": 928
+    },
+    {
+      "id": "OijdjhzwYgk",
+      "title": "ASP.NET CORE GitHub OAuth2.0  |  WebAPI Authentication and Authorization",
+      "duration": 983
+    },
+    {
+      "id": "dsqYCDYNAjA",
+      "title": "Global Exception Handling using Custom Middleware ASP.NET CORE",
+      "duration": 1631
+    },
+    {
+      "id": "tYkO4GFWLC0",
+      "title": "Complete ASP.NET CORE ROAD MAP",
+      "duration": 1161
+    },
+    {
+      "id": "vgw_EUygyM0",
+      "title": ".NET Clean Architecture with Example",
+      "duration": 1394
+    },
+    {
+      "id": "rbM6DJQHIVA",
+      "title": "ASP.NET CORE CQRS Pattern  Payslip Project Example",
+      "duration": 575
+    },
+    {
+      "id": "NV-hRuHf30s",
+      "title": "Hangfire Background Service ASP.NET CORE Complete Guide",
+      "duration": 1333
+    },
+    {
+      "id": "1XhzCOGftlg",
+      "title": "ASP.NET CORE Bootstrap Tabs Control Example",
+      "duration": 840
+    },
+    {
+      "id": "cKaPecWycak",
+      "title": "Custom Authentication and Authorization without identity in ASP.NET CORE",
+      "duration": 2141
+    },
+    {
+      "id": "SMNHX5SQx2M",
+      "title": "ASPNET_Environments in Hindi |  Development Staging and Production",
+      "duration": 842
+    },
+    {
+      "id": "YHKB3gOPvHU",
+      "title": "Check Performance ASP.NET CORE IHttpClientFactory vs HttpClient Benchmark Hindi",
+      "duration": 730
+    },
+    {
+      "id": "mRNCxvcrHRg",
+      "title": "Reading and Writting AppSettings.json File in ASP.NET CORE",
+      "duration": 1232
+    },
+    {
+      "id": "a8Ajt-OTkjo",
+      "title": "Dynamically Create Parent Child Menu Items with DB in ASP.NET CORE",
+      "duration": 911
+    },
+    {
+      "id": "SuRqHrLNn38",
+      "title": "ASP.NET CORE Dynamic Role Based Authorization",
+      "duration": 736
+    },
+    {
+      "id": "cq-EHGYvRWs",
+      "title": "Send OTP | SMS to Mobile Phone using Twilio in ASP.NET CORE",
+      "duration": 716
+    },
+    {
+      "id": "YEKY1AVXlcY",
+      "title": "Single Sign-On Feature in ASP.NET CORE",
+      "duration": 664
+    },
+    {
+      "id": "f-Liej1-SQs",
+      "title": "Dynamic role based authorization in ASP.NET CORE",
+      "duration": 1762
+    },
+    {
+      "id": "MpaVrPG8228",
+      "title": "Call Stored Procedure from Entity framework Core in ASP.NET CORE DataBinding",
+      "duration": 773
+    },
+    {
+      "id": "lnEapRo504E",
+      "title": "Dynamic Role Authorization in ASP.NET CORE |  Stop taking Hardcoded  Roles Assignment",
+      "duration": 1505
+    },
+    {
+      "id": "j1VlqPLPJvU",
+      "title": "Send Email From Gmail in ASP.NET CORE | Confirmation Message in Your Original Mail",
+      "duration": 873
+    },
+    {
+      "id": "xJ1qQEBk7Bc",
+      "title": "Getting Started ASP.NET 8  Start with VSCODE",
+      "duration": 1608
+    },
+    {
+      "id": "3xfajCntoF0",
+      "title": "Best practices for validation rules  in ASP.NET CORE",
+      "duration": 524
+    },
+    {
+      "id": "_RhUZbcJd10",
+      "title": "ASP.NET CORE Controller class in library project ? Is it possible",
+      "duration": 1045
+    },
+    {
+      "id": "Oo86K63pcug",
+      "title": "How to Setup ASP.NET CORE Project in Development and Production Environment",
+      "duration": 1265
+    },
+    {
+      "id": "Tuqypu71l1M",
+      "title": "Identity Configuration in ASP.NET CORE",
+      "duration": 423
+    },
+    {
+      "id": "5Zne_rifMTc",
+      "title": "CQRS Pattern without MediaTr in ASP.NET CORE RESTFul API",
+      "duration": 796
+    },
+    {
+      "id": "f9dXOekAq5M",
+      "title": "ASP.NET CORE CQRS with Result Pattern with example",
+      "duration": 718
+    },
+    {
+      "id": "6yFjnhwEOVM",
+      "title": "How to design aggregate roots in Domain Driven Design |  Why we Use it |  Best Example in ASP.NET",
+      "duration": 682
+    },
+    {
+      "id": "2ODpdEKX-ig",
+      "title": "toastr alert and sweet alert in ASP.NET Core | Example",
+      "duration": 696
+    },
+    {
+      "id": "RwPcmAoZqb8",
+      "title": "Authentication very easy with ASP.NET Core Identity in .NET 8",
+      "duration": 1803
+    }
+  ]
+}

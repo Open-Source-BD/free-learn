@@ -1,0 +1,275 @@
+{
+  "courseId": "wordpress-theme-development-tutorial-bangla-581211",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:38.762Z",
+  "title": "WordPress Theme Development Tutorial Bangla",
+  "channel": "Ali Hossain",
+  "videos": [
+    {
+      "id": "sni9ZUIJDhY",
+      "title": "WordPress Theme Development Roadmap",
+      "duration": 562
+    },
+    {
+      "id": "KFy5TMsG09E",
+      "title": "The Beginning | WordPress Theme Development Tutorial Bangla | Part 00",
+      "duration": 910
+    },
+    {
+      "id": "4bexO2zBXWY",
+      "title": "Theme Details | WordPress Theme Development Tutorial Bangla | Part 01",
+      "duration": 607
+    },
+    {
+      "id": "f07Nz5kLqio",
+      "title": "Theme Structure | WordPress Theme Development Tutorial Bangla | Part 02",
+      "duration": 1036
+    },
+    {
+      "id": "4aKn1w6ubnE",
+      "title": "WordPress Enqueue Scripts | WordPress Theme Development Tutorial Bangla | Part 03",
+      "duration": 1380
+    },
+    {
+      "id": "TrIsLwOIi-I",
+      "title": "Customize Register | WordPress Theme Development Tutorial Bangla | Part 04",
+      "duration": 1763
+    },
+    {
+      "id": "ZhaxSZ6RhOU",
+      "title": "Register Menu | WordPress Theme Development Tutorial Bangla | Part 05",
+      "duration": 1209
+    },
+    {
+      "id": "H_Pf13RMSRQ",
+      "title": "Important Resources | WordPress Theme Development Tutorial Bangla | Part 06",
+      "duration": 492
+    },
+    {
+      "id": "QcGGQi0Jn5Y",
+      "title": "Setup Menu Position | WordPress Theme Development Tutorial Bangla | Part 07",
+      "duration": 1220
+    },
+    {
+      "id": "pe4TWipjqo8",
+      "title": "Setup Homepage | WordPress Theme Development Tutorial Bangla | Part 08",
+      "duration": 1138
+    },
+    {
+      "id": "YxlMP4aKXQg",
+      "title": "Create a walker menu | WordPress Theme Development Tutorial Bangla | Part 09",
+      "duration": 880
+    },
+    {
+      "id": "IxMdBDSMYno",
+      "title": "Why learn WordPress Theme Development?",
+      "duration": 205
+    },
+    {
+      "id": "Quoj-DY7GeE",
+      "title": "Footer Area Setup | WordPress Theme Development Tutorial Bangla | Part 10",
+      "duration": 710
+    },
+    {
+      "id": "Q5cf5ig_GxE",
+      "title": "Standard Coding Style | WordPress Theme Development Tutorial Bangla | Part 11",
+      "duration": 351
+    },
+    {
+      "id": "BFT5n8TvB_U",
+      "title": "Template Hierarchy | WordPress Theme Development Tutorial Bangla | Part 12",
+      "duration": 808
+    },
+    {
+      "id": "obpaEk_x4B4",
+      "title": "Theme Slicing | WordPress Theme Development Tutorial Bangla | Part 13",
+      "duration": 1335
+    },
+    {
+      "id": "87kHSsIYjYQ",
+      "title": "Blog Page | WordPress Theme Development Tutorial Bangla | Part 14",
+      "duration": 1121
+    },
+    {
+      "id": "e5J5ZCPqDs8",
+      "title": "the_excerpt | WordPress Theme Development Tutorial Bangla | Part 15",
+      "duration": 435
+    },
+    {
+      "id": "ibbzbce84Mk",
+      "title": "Page Navigation | WordPress Theme Development Tutorial Bangla | Part 16",
+      "duration": 1056
+    },
+    {
+      "id": "YnNG8TAf3SY",
+      "title": "Working with Sidebar | WordPress Theme Development Tutorial Bangla | Part 17",
+      "duration": 941
+    },
+    {
+      "id": "Qz5hvE3jH7Q",
+      "title": "Working with Footer Widget | WordPress Theme Development Tutorial Bangla | Part 18",
+      "duration": 1278
+    },
+    {
+      "id": "m70p6tVVj8o",
+      "title": "Working with WP Post & Page | WordPress Theme Development Tutorial Bangla | Part 19",
+      "duration": 694
+    },
+    {
+      "id": "5CvP71HKfW0",
+      "title": "Working with WP Archive Pages | WordPress Theme Development Tutorial Bangla | Part 20",
+      "duration": 694
+    },
+    {
+      "id": "QUJaH1pzeXk",
+      "title": "Working with WP Search Pages | WordPress Theme Development Tutorial Bangla | Part 21",
+      "duration": 213
+    },
+    {
+      "id": "A1_tXz3zSuw",
+      "title": "Working with WP 404 Pages | WordPress Theme Development Tutorial Bangla | Part 22",
+      "duration": 497
+    },
+    {
+      "id": "8WNadXlIn0M",
+      "title": "Customize Theme Colors | WordPress Theme Development Tutorial Bangla | Part 23",
+      "duration": 1441
+    },
+    {
+      "id": "OhatttkHWIo",
+      "title": "WordPress Custom Post | WordPress Theme Development Tutorial Bangla | Part 24",
+      "duration": 1381
+    },
+    {
+      "id": "RFqXYSaIvHM",
+      "title": "WordPress Custom Post | WordPress Theme Development Tutorial Bangla | Part 25",
+      "duration": 904
+    },
+    {
+      "id": "BgLZZCZ8qdA",
+      "title": "WordPress Shortcode Development | WordPress Theme Development Tutorial Bangla | Part 26",
+      "duration": 937
+    },
+    {
+      "id": "lc8ph8f86s8",
+      "title": "Custom Post Shortcode | WordPress Theme Development Tutorial Bangla | Part 27",
+      "duration": 812
+    },
+    {
+      "id": "zgyuGz78SdA",
+      "title": "WordPress version 5.9 what's new?",
+      "duration": 982
+    },
+    {
+      "id": "iDazAFWI1K0",
+      "title": "How to add jQuery Plugin | WordPress Theme Development Tutorial Bangla | Part 28",
+      "duration": 1687
+    },
+    {
+      "id": "FCaZ0EXMCJw",
+      "title": "What is Child theme? | WordPress Theme Development Tutorial Bangla | Part 29",
+      "duration": 1441
+    },
+    {
+      "id": "TnlvzgztZCs",
+      "title": "Child Theme Tutorial Part 2 | WordPress Theme Development Tutorial Bangla | Part 30",
+      "duration": 317
+    },
+    {
+      "id": "f2gy57CNf6c",
+      "title": "Owl Carousel Plugin in WordPress | WordPress Theme Development Tutorial Bangla | Part 31",
+      "duration": 932
+    },
+    {
+      "id": "ThYIRnkK7dE",
+      "title": "Show Catagory post on the homepage | WordPress Theme Development Tutorial Bangla | Part 32",
+      "duration": 697
+    },
+    {
+      "id": "_cn1upRw2c4",
+      "title": "Add category in custom post | WordPress Theme Development Tutorial Bangla | Part 33",
+      "duration": 477
+    },
+    {
+      "id": "V-On8rQ1sGk",
+      "title": "Format the date and time in WordPress | WordPress Theme Development Tutorial Bangla | Part 34",
+      "duration": 914
+    },
+    {
+      "id": "Lz3KPIkZ7i8",
+      "title": "Working with the comments.php template | WordPress Theme Development Tutorial Bangla | Part 35",
+      "duration": 383
+    },
+    {
+      "id": "dO1-CylHdJw",
+      "title": "the mime type | WordPress Theme Development Tutorial Bangla | Part 36",
+      "duration": 1034
+    },
+    {
+      "id": "u8J5LEYmeMk",
+      "title": "Post Formats | WordPress Theme Development Tutorial Bangla | Part 37",
+      "duration": 1334
+    },
+    {
+      "id": "q777alqFa0Y",
+      "title": "Page Template | WordPress Theme Development Tutorial Bangla | Part 38",
+      "duration": 544
+    },
+    {
+      "id": "pT08xKClJP0",
+      "title": "Docker with WordPress  | A practical guide for beginners",
+      "duration": 2324
+    },
+    {
+      "id": "o6TStempums",
+      "title": "Wordpress Error Handling | WordPress Theme Development Tutorial Bangla | Part 39",
+      "duration": 1021
+    },
+    {
+      "id": "gk9t1wl-SWU",
+      "title": "Responsive Fixing | WordPress Theme Development Tutorial Bangla | Part 40",
+      "duration": 1440
+    },
+    {
+      "id": "y799BVFA-rk",
+      "title": "Custom post custom link | WordPress Theme Development Tutorial Bangla | Part 41",
+      "duration": 796
+    },
+    {
+      "id": "LbZsxErSnKA",
+      "title": "Login page custom design | WordPress Theme Development Tutorial Bangla | Part 42",
+      "duration": 2158
+    },
+    {
+      "id": "4eu_KOliqJM",
+      "title": "Custom Theme Option | WordPress Theme Development Tutorial Bangla | Part 43",
+      "duration": 941
+    },
+    {
+      "id": "h9TkSi_2U08",
+      "title": "Custom Theme Option Sub Menu | WordPress Theme Development Tutorial Bangla | Part 44",
+      "duration": 647
+    },
+    {
+      "id": "mbHcNtkNtA4",
+      "title": "Custom Theme Option | WordPress Theme Development Tutorial Bangla | Part 45",
+      "duration": 2040
+    },
+    {
+      "id": "FruOXZbnyLM",
+      "title": "What's Next? WordPress 🔥",
+      "duration": 393
+    },
+    {
+      "id": "KLNiD6k8gCU",
+      "title": "ভবিষ্যৎ এর WordPress কেমন হবে? Page Builders এর দিন শেষ?",
+      "duration": 1814
+    },
+    {
+      "id": "z0OnMxHRWME",
+      "title": "Headless WordPress + Next.js + Claude দিয়ে Frontend এবং WordPress দিয়ে Backend (Full A to Z)",
+      "duration": 1816
+    }
+  ]
+}

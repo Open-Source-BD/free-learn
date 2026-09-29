@@ -1,0 +1,945 @@
+{
+  "courseId": "java-tutorials-for-beginners-fa81be",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:13.464Z",
+  "title": "Java Tutorials for Beginners || Full Course",
+  "channel": "Smart Programming",
+  "videos": [
+    {
+      "id": "cDd-eUtbm2k",
+      "title": "Data Types in Java by Deepak (Hindi)",
+      "duration": 618
+    },
+    {
+      "id": "aI5zJoiw8nw",
+      "title": "Variables in Java by Deepak (Hindi) - Part 1",
+      "duration": 657
+    },
+    {
+      "id": "YGzXj0sbwrQ",
+      "title": "Variables in Java by Deepak (Hindi) - Part 2",
+      "duration": 865
+    },
+    {
+      "id": "B-_0mW2hAcE",
+      "title": "Operators, Literals & Keywords in Java by Deepak (Hindi)",
+      "duration": 482
+    },
+    {
+      "id": "KGN5erQ4Pio",
+      "title": "Identifiers in Java by Deepak (Hindi)",
+      "duration": 542
+    },
+    {
+      "id": "J1TPKWIPFaE",
+      "title": "Java Introduction (Part 1) What Is Java || History Of Java (Hindi)",
+      "duration": 305
+    },
+    {
+      "id": "AqMSmUGlwVY",
+      "title": "Java Introduction (Part 2) Features of Java || Use Of Java (Hindi)",
+      "duration": 629
+    },
+    {
+      "id": "S6Lr-6iHDLg",
+      "title": "Java Softwares and Installation by Deepak (Hindi)",
+      "duration": 483
+    },
+    {
+      "id": "2quXZvM3i4w",
+      "title": "JDK, JRE and JVM by Deepak (Hindi)",
+      "duration": 379
+    },
+    {
+      "id": "U83tW0yk8Qk",
+      "title": "Explanation of Java Hello World Program by Deepak (Part 1 - Hindi)",
+      "duration": 569
+    },
+    {
+      "id": "iqY2vWyKNjE",
+      "title": "Explanation of Java Hello World Program by Deepak (Part 2- Hindi)",
+      "duration": 559
+    },
+    {
+      "id": "13489xXBIvo",
+      "title": "Compile and Run Java Program in CMD by Deepak (Part 1 - Hindi)",
+      "duration": 966
+    },
+    {
+      "id": "BsuvfoNgo70",
+      "title": "Compile and Run Java Program in CMD by Deepak (Part 2 - Hindi)",
+      "duration": 688
+    },
+    {
+      "id": "sRj11bGYl6w",
+      "title": "How Java Works by Deepak (Hindi)",
+      "duration": 427
+    },
+    {
+      "id": "LxU4KeMqZL0",
+      "title": "JVM Architecture in Java (Hindi) by Deepak (Part 1)",
+      "duration": 614
+    },
+    {
+      "id": "nC-rjZQs3ms",
+      "title": "JVM Architecture in Java (Hindi) by Deepak (Part 2)",
+      "duration": 621
+    },
+    {
+      "id": "YAcq4hDPgLY",
+      "title": "Compile & Run Java Program by bat File (Hindi) by Deepak",
+      "duration": 548
+    },
+    {
+      "id": "OUZkdKFeuK0",
+      "title": "Control Statements in Java by Deepak - Part 1(Hindi)",
+      "duration": 659
+    },
+    {
+      "id": "g74qXQU2HTU",
+      "title": "Control Statements in Java by Deepak - Part 2 (Hindi)",
+      "duration": 492
+    },
+    {
+      "id": "gpt5_PtWck4",
+      "title": "Program to find Greater between Two or Three Numbers in Java by Deepak",
+      "duration": 906
+    },
+    {
+      "id": "AXYL9FyI9No",
+      "title": "Program to Check for Even or Odd Number in Java by Deepak",
+      "duration": 350
+    },
+    {
+      "id": "vtDcyrs4EHk",
+      "title": "Program to Check for Leap Year in Java by Deepak",
+      "duration": 688
+    },
+    {
+      "id": "vlpLfHIsGCk",
+      "title": "Program to Swap Two Numbers With and Without Using Third Variable in Java by Deepak",
+      "duration": 515
+    },
+    {
+      "id": "Iq80Q-Lkers",
+      "title": "Getting User Input in Java (using Scanner class) by Deepak",
+      "duration": 657
+    },
+    {
+      "id": "8rrt_Y0i8Eg",
+      "title": "Program to Create Calculator using switch case in Java by Deepak",
+      "duration": 681
+    },
+    {
+      "id": "xrlsOYcqFEw",
+      "title": "Program to Print Multiplication Table in Java by Deepak",
+      "duration": 479
+    },
+    {
+      "id": "HWCWqZzHUtw",
+      "title": "Program to Find the Factorial of the Number in Java by Deepak",
+      "duration": 503
+    },
+    {
+      "id": "I3dVPjuX9M4",
+      "title": "Program to Find the Factorial of the Number using Recursion in Java by Deepak",
+      "duration": 628
+    },
+    {
+      "id": "xf9z_MszHJ0",
+      "title": "Program to Reverse a Number in Java by Deepak",
+      "duration": 584
+    },
+    {
+      "id": "ElIa5TOiC1U",
+      "title": "Program to Reverse A String in Java by Deepak",
+      "duration": 541
+    },
+    {
+      "id": "u9NT9kjNRys",
+      "title": "Program to Check Whether A Number is Prime or Not in Java by Deepak",
+      "duration": 519
+    },
+    {
+      "id": "wj1QI1tttDc",
+      "title": "Program to Print All Prime Numbers between 1 to 100 in Java by Deepak",
+      "duration": 659
+    },
+    {
+      "id": "GEGqW2qS4Ew",
+      "title": "Program to Print Fibonacci Series in Java by Deepak",
+      "duration": 398
+    },
+    {
+      "id": "8W1DQUyoZzk",
+      "title": "Program to Print Fibonacci Series Using Recursion in Java by Deepak",
+      "duration": 345
+    },
+    {
+      "id": "kbvt6Ikk8no",
+      "title": "Program To Check for Palindrome Number in Java by Deepak",
+      "duration": 430
+    },
+    {
+      "id": "LNScl60_jaI",
+      "title": "Program To Check for Armstrong Number in Java by Deepak",
+      "duration": 971
+    },
+    {
+      "id": "stFbAQUSEnQ",
+      "title": "Star Pattern - 1 Program (Logic) in Java by Deepak",
+      "duration": 925
+    },
+    {
+      "id": "BpYtkArFbnY",
+      "title": "Star Pattern -  2 Program (Logic) in Java by Deepak",
+      "duration": 279
+    },
+    {
+      "id": "--nIJwLDme4",
+      "title": "Star Pattern -  3 Program (Logic) in Java by Deepak",
+      "duration": 648
+    },
+    {
+      "id": "U4gZy3GzxxM",
+      "title": "Star Pattern -  4 Program (Logic) in Java by Deepak",
+      "duration": 671
+    },
+    {
+      "id": "JKJPUkBTaPI",
+      "title": "Star Pattern  - 5 Program (Logic) in Java by Deepak",
+      "duration": 291
+    },
+    {
+      "id": "AXppbti5eqs",
+      "title": "Star Pattern  - 6 Program (Logic) in Java by Deepak",
+      "duration": 1033
+    },
+    {
+      "id": "nnmUz31L3gU",
+      "title": "Star Pattern - 7 Program (Logic) in Java by Deepak",
+      "duration": 1213
+    },
+    {
+      "id": "lymEmGtJhFQ",
+      "title": "Star Pattern - 8 Program (Logic) in Java by Deepak",
+      "duration": 718
+    },
+    {
+      "id": "H9Mc9EpHNds",
+      "title": "Star Pattern - 9 Program (Logic) in Java by Deepak",
+      "duration": 595
+    },
+    {
+      "id": "uCUEgF-yBSk",
+      "title": "Star Pattern - 10 Program (Logic) in Java by Deepak",
+      "duration": 645
+    },
+    {
+      "id": "-QTyaQkhiBc",
+      "title": "Star Pattern - 11 Program (Logic) in Java by Deepak",
+      "duration": 502
+    },
+    {
+      "id": "DjAkZtbEcIk",
+      "title": "Star Pattern - 12 Program (Logic) in Java by Deepak",
+      "duration": 330
+    },
+    {
+      "id": "OmpcF3OR0KQ",
+      "title": "Number Pattern - 1 Program (Logic) in Java by Deepak",
+      "duration": 313
+    },
+    {
+      "id": "X3faZKtB1Oo",
+      "title": "Number Pattern - 2 Program (Logic) in Java by Deepak",
+      "duration": 257
+    },
+    {
+      "id": "R8uvin5mS1I",
+      "title": "Number Pattern - 3 Program (Logic) in Java by Deepak",
+      "duration": 434
+    },
+    {
+      "id": "zJK9kLwJ0BU",
+      "title": "Number Pattern - 4 Program (Logic) in Java by Deepak",
+      "duration": 330
+    },
+    {
+      "id": "P10QkWUlQ3I",
+      "title": "Number Pattern - 5 Program (Logic) in Java by Deepak",
+      "duration": 294
+    },
+    {
+      "id": "wOLnUmhXey8",
+      "title": "Number Pattern - 6 Program (Logic) in Java by Deepak",
+      "duration": 831
+    },
+    {
+      "id": "eqVsCTfVQgI",
+      "title": "Number Pattern - 7 Program (Logic) in Java by Deepak",
+      "duration": 622
+    },
+    {
+      "id": "dRrjjotgniA",
+      "title": "Arrays in Java (Hindi) by Deepak",
+      "duration": 824
+    },
+    {
+      "id": "YPW4KPTcASo",
+      "title": "Arrays In Java - Single Dimensional (One Dimensional) Array by Deepak",
+      "duration": 2402
+    },
+    {
+      "id": "TR25f1wEH8I",
+      "title": "Arrays In Java - 2D Arrays (Multidimensional Arrays) by Deepak (Part 1) || Arrays for Beginners",
+      "duration": 1329
+    },
+    {
+      "id": "yMULvD-tkjA",
+      "title": "Arrays In Java - 2D Arrays (Multidimensional Arrays) by Deepak (Part 2) || Arrays for Beginners",
+      "duration": 1999
+    },
+    {
+      "id": "C30NQ1vHdnY",
+      "title": "Arrays In Java - 3D Arrays (Multidimensional Arrays) by Deepak",
+      "duration": 2004
+    },
+    {
+      "id": "389Zd7aqgGo",
+      "title": "Arrays In Java - Anonymous Arrays by Deepak",
+      "duration": 825
+    },
+    {
+      "id": "uWUnbX2GF1I",
+      "title": "Printing The Elements of Arrays By 4 Different Ways in Java by Deepak",
+      "duration": 1349
+    },
+    {
+      "id": "v6hmmfIiKu4",
+      "title": "Bubble Sort Algorithm With Java Program by Deepak",
+      "duration": 1997
+    },
+    {
+      "id": "GRNOoZeV6xc",
+      "title": "Selection Sort Algorithm With Java Program by Deepak",
+      "duration": 1223
+    },
+    {
+      "id": "f-f50FjS_jA",
+      "title": "Insertion Sort Algorithm With Java Program by Deepak",
+      "duration": 1246
+    },
+    {
+      "id": "e2f942HFh6k",
+      "title": "Merge Sort Algorithm With Java Program by Deepak",
+      "duration": 1706
+    },
+    {
+      "id": "l-YVzkQMLKg",
+      "title": "Quick Sort Algorithm With Java Program by Deepak (Hindi)",
+      "duration": 1774
+    },
+    {
+      "id": "SkeQsjpG_fo",
+      "title": "Heap Sort Algorithm With Java Program by Deepak (Hindi)",
+      "duration": 2374
+    },
+    {
+      "id": "zL74GgFsB0E",
+      "title": "String Sorting in Java by Deepak (Hindi)",
+      "duration": 1387
+    },
+    {
+      "id": "iGnrCiHPOCg",
+      "title": "Linear Search in Java by Deepak (Hindi)",
+      "duration": 1177
+    },
+    {
+      "id": "7iE5xNOJET0",
+      "title": "Binary Search in Java by Deepak (Hindi)",
+      "duration": 1531
+    },
+    {
+      "id": "dJ8Dmwop7Y4",
+      "title": "Find Maximum and Minimum values in an Array in Java (Hindi)",
+      "duration": 858
+    },
+    {
+      "id": "R57n33zxgIw",
+      "title": "Find Second Largest Number in an Array in Java (Hindi)",
+      "duration": 2189
+    },
+    {
+      "id": "x3HDo6H90Y0",
+      "title": "Find kth Largest and Smallest Element in Array Java (Hindi)",
+      "duration": 907
+    },
+    {
+      "id": "Y1xfMU4xyDE",
+      "title": "Find Duplicate Elements in an Array in Java (Hindi) || Using 3 Different Ways",
+      "duration": 3011
+    },
+    {
+      "id": "49IozwyEjE0",
+      "title": "Find First Duplicate Element in an Array in Java (Hindi)",
+      "duration": 1982
+    },
+    {
+      "id": "C8o_CLCxohk",
+      "title": "Find The Element That Appears Once In An Array Where Every Other Element Appears Twice in Java",
+      "duration": 948
+    },
+    {
+      "id": "Lu92GmHBCGY",
+      "title": "Print the Number of Odd and Even Numbers | Sum & Count of Even or Odd Numbers in an Array in Java",
+      "duration": 1388
+    },
+    {
+      "id": "K5vUX8Sc_08",
+      "title": "Find Missing Number In Array In Java (Hindi)",
+      "duration": 1767
+    },
+    {
+      "id": "-1kCKkLkNw0",
+      "title": "How to find common elements from two arrays in Java (Hindi)",
+      "duration": 2059
+    },
+    {
+      "id": "rUPdTNmKa6A",
+      "title": "How to Find Common Elements in Three Sorted Arrays in Java (Hindi)",
+      "duration": 1477
+    },
+    {
+      "id": "HgGDf0Ddu8E",
+      "title": "Longest Consecutive Sequence In An Array in Java (Hindi)",
+      "duration": 1772
+    },
+    {
+      "id": "U4iVyHQQIqA",
+      "title": "Maximum Sum SubArray (Kadane's Algorithm) Largest Sum Contiguous SubArray (Hindi)",
+      "duration": 1455
+    },
+    {
+      "id": "DZM0GyL8Ars",
+      "title": "Insert An Element Into An Array In Java (Data Structure) Hindi",
+      "duration": 966
+    },
+    {
+      "id": "pMe5cEc105w",
+      "title": "How to Delete An Element From An Array In Java (Hindi)",
+      "duration": 1018
+    },
+    {
+      "id": "wW5VKfsIMNw",
+      "title": "Remove Duplicate Elements from Sorted and Unsorted Array in Java (Hindi)",
+      "duration": 2332
+    },
+    {
+      "id": "JeQtPl3nxu4",
+      "title": "Merge Two Arrays in Java By Deepak (Hindi)",
+      "duration": 926
+    },
+    {
+      "id": "7WhnYwoBY24",
+      "title": "Java OOPs Concepts  - Classes, Objects and Methods in Java (Hindi)",
+      "duration": 3653
+    },
+    {
+      "id": "Imy9TEJkKa8",
+      "title": "Constructors in Java | Use of Constructors | Types of Constructors (with example) Hindi",
+      "duration": 2509
+    },
+    {
+      "id": "qG4zIEjYz7I",
+      "title": "Inheritance In Java | Types Of Inheritance by Deepak (Hindi)",
+      "duration": 2373
+    },
+    {
+      "id": "9nRblRcb35Y",
+      "title": "Inheritance (IS-A), Association (HAS-A), Aggregation & Composition -  Relationship in Classes Java",
+      "duration": 1336
+    },
+    {
+      "id": "Zt-ou1EPdlg",
+      "title": "Polymorphism In Java (Part 1) ||  Method Overloading in Java",
+      "duration": 2420
+    },
+    {
+      "id": "KELJ2kD6aeU",
+      "title": "Polymorphism In Java (Part 2) ||  Method Overriding In Java",
+      "duration": 3086
+    },
+    {
+      "id": "iSP60D5UZ8U",
+      "title": "Abstraction in Java || what is abstract class and abstract methods in Java (Hindi)",
+      "duration": 1346
+    },
+    {
+      "id": "OqmM_Gp6seA",
+      "title": "Interface in Java with Example || Multiple Inheritance in Java using Interface (Hindi)",
+      "duration": 1542
+    },
+    {
+      "id": "BgQe7K6NoJc",
+      "title": "Encapsulation in java | Data Hiding in Java | OOPs concepts in Java in Hindi",
+      "duration": 752
+    },
+    {
+      "id": "W7f2vYcVhg0",
+      "title": "this keyword in Java Hindi",
+      "duration": 756
+    },
+    {
+      "id": "luqSba3AGZU",
+      "title": "6 Uses of this keyword | this keyword in java Hindi",
+      "duration": 1027
+    },
+    {
+      "id": "Em5tXsAlxz4",
+      "title": "super keyword in java Hindi",
+      "duration": 694
+    },
+    {
+      "id": "t-eQns5BdAA",
+      "title": "use of super keyword in Java Hindi",
+      "duration": 742
+    },
+    {
+      "id": "gGYNmGK1C2E",
+      "title": "final Keyword in Java with Examples Hindi",
+      "duration": 981
+    },
+    {
+      "id": "uJHlGeEA7Aw",
+      "title": "Static Variables in Java (Hindi) || Static Keyword in Java",
+      "duration": 1906
+    },
+    {
+      "id": "fBIBRJ6DQM0",
+      "title": "Static Methods in Java (Hindi) || Static Keyword in Java",
+      "duration": 1000
+    },
+    {
+      "id": "PvcxHBcqWQg",
+      "title": "static block in java | static keyword (Hindi)",
+      "duration": 1257
+    },
+    {
+      "id": "y-NlcLcxiKY",
+      "title": "Exception Handling in Java by Deepak (Hindi)",
+      "duration": 790
+    },
+    {
+      "id": "UxR52euz2hY",
+      "title": "Difference between Exception and Error in Java | Exception hierarchy in java",
+      "duration": 963
+    },
+    {
+      "id": "XbBC7Tdv10U",
+      "title": "Difference between Checked and Unchecked Exception | Exception Handling in Java by Deepak",
+      "duration": 1440
+    },
+    {
+      "id": "Y9Asz1aWF0c",
+      "title": "try catch Java | Control Flow in try catch | Exception Handling in Java by Deepak (Hindi)",
+      "duration": 1975
+    },
+    {
+      "id": "v4APLGeNcLg",
+      "title": "Methods to Print Exception Information in Java | Exception Handling in Java",
+      "duration": 690
+    },
+    {
+      "id": "yv9XPlELWpo",
+      "title": "Finally Block in Java with Complete Example | Use of finally Block | Exception Handling in Java",
+      "duration": 1255
+    },
+    {
+      "id": "RLInHtq9j2w",
+      "title": "Difference Between final finally and finalize in Java (Hindi)",
+      "duration": 674
+    },
+    {
+      "id": "3GkSNq1z0vE",
+      "title": "Various Possible Combinations of try catch finally in Hindi",
+      "duration": 1030
+    },
+    {
+      "id": "vldtYXFmZSc",
+      "title": "throw Keyword in Java Exception Handling with Example in Hindi",
+      "duration": 2691
+    },
+    {
+      "id": "DOdRZk-kKYc",
+      "title": "Throws Keyword in Java Exception Handling with Example in Hindi",
+      "duration": 1621
+    },
+    {
+      "id": "DfoSkEpCDNU",
+      "title": "Difference Between throw and throws in Java || Exception Handling in Java",
+      "duration": 784
+    },
+    {
+      "id": "ClaFxuHMOSo",
+      "title": "Customized Exception or User Defined Exception in Java || Exception Handling in Java (Hindi)",
+      "duration": 1569
+    },
+    {
+      "id": "-pBlL1lLmlE",
+      "title": "Strings Introduction in Java by Deepak (Hindi)",
+      "duration": 996
+    },
+    {
+      "id": "UBYW08L3QRk",
+      "title": "String Constant Pool in Java || String Object Creation in Java",
+      "duration": 1431
+    },
+    {
+      "id": "4cEsJtuW4YY",
+      "title": "What is String Immutable || Why String Object Is Immutable In Java (Hindi)",
+      "duration": 1056
+    },
+    {
+      "id": "JWBqZDy97fw",
+      "title": "Why String is final in Java || Important Features of String Class (Hindi) (immutable and final)",
+      "duration": 750
+    },
+    {
+      "id": "i7vYjvJOIiw",
+      "title": "Difference Between \"== Operator\" And \"equals() Method\" In Java (Hindi)",
+      "duration": 902
+    },
+    {
+      "id": "Bm7GFNtZuWc",
+      "title": "String Class Constructors in Java || Why char Array is Better to Store Password Than String (Hindi)",
+      "duration": 1103
+    },
+    {
+      "id": "0Z15RrOrRos",
+      "title": "String Class Methods (length(), isEmpty() & trim()) In Java || Check String is Empty Or Not",
+      "duration": 1971
+    },
+    {
+      "id": "aUpfEtK2qRY",
+      "title": "Comparing Two Strings Using equals(), equalsIgnoreCase() & compareTo() compareToIgnoreCase() Methods",
+      "duration": 1737
+    },
+    {
+      "id": "GVivkMR-mqw",
+      "title": "String class Methods in Java || String Concatenation in Java || substring() method in Java (Hindi)",
+      "duration": 1745
+    },
+    {
+      "id": "jHfqXGmuTMA",
+      "title": "Replacing & Removing Characters in Strings (Hindi) || String Class Methods In Java by Deepak",
+      "duration": 814
+    },
+    {
+      "id": "x8bSOPrcG1Q",
+      "title": "Searching Characters in Strings Hindi || String Methods In Java by Deepak",
+      "duration": 876
+    },
+    {
+      "id": "kUc8lShnVVc",
+      "title": "Case Conversion and Type Conversion Methods in Strings Hindi || String Methods In Java by Deepak",
+      "duration": 677
+    },
+    {
+      "id": "G4xQs6Tcsn4",
+      "title": "StringBuffer Class & Methods in Java with Example",
+      "duration": 2306
+    },
+    {
+      "id": "7Eums_vwcPs",
+      "title": "StringBuilder Class & Methods in Java with Example",
+      "duration": 697
+    },
+    {
+      "id": "_m04SPTU4N0",
+      "title": "Difference Between String StringBuffer and StringBuilder in Java by Deepak",
+      "duration": 654
+    },
+    {
+      "id": "z0_Rcl6yBpQ",
+      "title": "Program to Reverse a String || Program to Check String is Palindrome or not in Java by Deepak",
+      "duration": 788
+    },
+    {
+      "id": "iiA6Bag8UUE",
+      "title": "Program to find Maximum Occurring Character in String in Java by Deepak",
+      "duration": 2466
+    },
+    {
+      "id": "DTkw1Jq_1Ts",
+      "title": "Difference between Multitasking, Multiprocessing and Multithreading in Hindi by Deepak",
+      "duration": 1445
+    },
+    {
+      "id": "-6FEjLBBq1Y",
+      "title": "Difference between Process and Thread in Java by Deepak Panwar (Hindi)",
+      "duration": 679
+    },
+    {
+      "id": "EY2uvXojfhg",
+      "title": "Thread Life Cycle in java; How to Create Thread in Java by Extending Thread Class by Deepak in Hindi",
+      "duration": 1193
+    },
+    {
+      "id": "4RKbes2Tlug",
+      "title": "How to Create Thread using Thread class and Runnable interface in java by Deepak",
+      "duration": 1998
+    },
+    {
+      "id": "hJXJgHmso2M",
+      "title": "Multithreading in Java || Different cases of Executing Threads in Java by Deepak (Hindi)",
+      "duration": 2203
+    },
+    {
+      "id": "GX3yZAhf5xE",
+      "title": "Thread class Methods & Constructors || Multithreading in Java by Deepak (Hindi)",
+      "duration": 1444
+    },
+    {
+      "id": "fp_24PHMMJI",
+      "title": "Methods of Thread class (Part 1) | Thread Naming (getName() setName()) | currentThread() & isAlive()",
+      "duration": 1585
+    },
+    {
+      "id": "qfyd0BsqEJ0",
+      "title": "Daemon Thread in Java || Java Multithreading Interview Questions by Deepak",
+      "duration": 1859
+    },
+    {
+      "id": "mP1IuZfTGug",
+      "title": "Thread Priorities in Java - Multithreading || Thread class Methods by Deepak",
+      "duration": 1515
+    },
+    {
+      "id": "LXDqW6rB-AA",
+      "title": "sleep() Method in Java Multithreading by Deepak (Part 1) || Thread class methods",
+      "duration": 1745
+    },
+    {
+      "id": "vHh2ZANn5zQ",
+      "title": "sleep() Method in Java Multithreading || Calling run() Method instead of start() method directly",
+      "duration": 595
+    },
+    {
+      "id": "v-naRczvLOw",
+      "title": "yield() method in Java Multithreading by Deepak || Thread class method (Hindi)",
+      "duration": 1529
+    },
+    {
+      "id": "-mgZZXZYjlM",
+      "title": "join() Method in Java Multithreading by Deepak || Thread class methods",
+      "duration": 2417
+    },
+    {
+      "id": "6AnydGOob7Q",
+      "title": "Difference between sleep(), yield() and join() method in Multithreading by Deepak",
+      "duration": 1125
+    },
+    {
+      "id": "AWCve8Ene-M",
+      "title": "thread interrupt in java multithreading by Deepak || Thread class methods",
+      "duration": 1032
+    },
+    {
+      "id": "ygpBlyMUWXY",
+      "title": "interrupted() and isInterrupted() methods of Thread class Multithreading || Thread Interruption",
+      "duration": 1815
+    },
+    {
+      "id": "KGKp8QaHOOQ",
+      "title": "Synchronization in Java Multithreading by Deepak (Part 1) Hindi",
+      "duration": 2194
+    },
+    {
+      "id": "YMPB94P2tUo",
+      "title": "Synchronized method in Java Multithreading || Synchronization in Java by Deepak (Part 2) Hindi",
+      "duration": 1782
+    },
+    {
+      "id": "zg1CFBAZlQc",
+      "title": "Synchronized Block || Multithreading in Java by Deepak (Hindi)",
+      "duration": 1196
+    },
+    {
+      "id": "i2XO18BTlAo",
+      "title": "Static Synchronization in Java Multithreading by Deepak",
+      "duration": 2150
+    },
+    {
+      "id": "1fy0qaYup5Q",
+      "title": "Multithreading InterThread Communication | wait(), notify() and notifyAll() Method by Deepak",
+      "duration": 1859
+    },
+    {
+      "id": "Od-4hMfBkMI",
+      "title": "Data Structure | Collections Framework in Java by Deepak",
+      "duration": 1159
+    },
+    {
+      "id": "-GBueqxyW4o",
+      "title": "Collections - Difference between Arrays and Collections in Java by Deepak",
+      "duration": 914
+    },
+    {
+      "id": "Md52Y7-vP2E",
+      "title": "Collections Framework in Java by Deepak | Collection & Map Hierarchy",
+      "duration": 1975
+    },
+    {
+      "id": "niSqYDcH7Aw",
+      "title": "Collection Interface in Java | Collection Interface Methods by Deepak",
+      "duration": 2748
+    },
+    {
+      "id": "2Pwo3O-sBMk",
+      "title": "Difference between Set and List in Java Collections by Deepak",
+      "duration": 2315
+    },
+    {
+      "id": "Xe2heS1UP8k",
+      "title": "Iterator and ListIterator in java Collection by deepak",
+      "duration": 2016
+    },
+    {
+      "id": "7FFLSJI6zkk",
+      "title": "Enumeration in Java Collection by Deepak || Cursors in Collections",
+      "duration": 802
+    },
+    {
+      "id": "cXeMxHBbatQ",
+      "title": "ArrayList in Java by Deepak || Collection Framework in Java",
+      "duration": 849
+    },
+    {
+      "id": "3AvuOICYVmU",
+      "title": "ArrayList Constructors & Methods; ArrayList properties practical explanation in Java by Deepak",
+      "duration": 1760
+    },
+    {
+      "id": "xm45ZiBU4RM",
+      "title": "LinkedList in Java Collection by Deepak || Advantages and disadvantages of LinkedList",
+      "duration": 1833
+    },
+    {
+      "id": "mU2WCpK9r4g",
+      "title": "LinkedList Methods & Constructors in Java || LinkedList Properties in Collections by Deepak",
+      "duration": 1310
+    },
+    {
+      "id": "Y4J50z1vCYY",
+      "title": "ArrayList vs LinkedList in Java - Which Should You Use ?",
+      "duration": 542
+    },
+    {
+      "id": "QxezU3Rnmg8",
+      "title": "Legacy Classes in Java || Vector Class in Java Collection",
+      "duration": 2305
+    },
+    {
+      "id": "EdwHigOS8bE",
+      "title": "ArrayList vs Vector in Java || Collection Framework",
+      "duration": 1023
+    },
+    {
+      "id": "hV3dD4iNbug",
+      "title": "Stack Properties & Methods in Java Collections | Stack Data Structure by Deepak",
+      "duration": 1999
+    },
+    {
+      "id": "iXhRP1HMTA0",
+      "title": "HashSet in Java || Collection Framework by Deepak",
+      "duration": 1253
+    },
+    {
+      "id": "PwpjnDu73zU",
+      "title": "HashSet in Java - Practical || Collection Framework by Deepak",
+      "duration": 1126
+    },
+    {
+      "id": "BBHkcOMCXSk",
+      "title": "TreeSet in Java | Working of TreeSet | Collection Framework Data Structure by Deepak",
+      "duration": 1253
+    },
+    {
+      "id": "7GLP-XP8zok",
+      "title": "TreeSet Methods in Java | TreeSet Properties Explanation | Collection framework Data Structure",
+      "duration": 732
+    },
+    {
+      "id": "WtUG_-1Sz_k",
+      "title": "Map in Java || Map Interface Methods || Java Collection Framework",
+      "duration": 1974
+    },
+    {
+      "id": "W_As4PUT5uQ",
+      "title": "HashMap in Java || HashMap Properties Explanation || Collection Framework by Deepak",
+      "duration": 737
+    },
+    {
+      "id": "PArDuViwxH8",
+      "title": "HashMap Methods in Java | HashMap Properties Practical Explanation | Map.Entry Interface",
+      "duration": 1361
+    },
+    {
+      "id": "jr3BGWn7WD4",
+      "title": "TreeMap in Java - Introduction and Properties || Collections Framework by Deepak",
+      "duration": 1155
+    },
+    {
+      "id": "y6NGZR38gog",
+      "title": "TreeMap in Java Methods Practical || Java Collections Framework by Deepak",
+      "duration": 1432
+    },
+    {
+      "id": "YhQJdRnyO7A",
+      "title": "Hashtable in Java || Working of Hashtable || Collections Framework in Java",
+      "duration": 1003
+    },
+    {
+      "id": "alPYhfY0K-k",
+      "title": "Difference between Core Java and Advance Java | Advance Java Syllabus by Deepak",
+      "duration": 3435
+    },
+    {
+      "id": "d_61CjBE2Nw",
+      "title": "Java 25 (LTS) Features Explained | 🔥 Top 5 Updates You Should Know",
+      "duration": 1704
+    },
+    {
+      "id": "iWDav680tKo",
+      "title": "🚀 Core Java Live Classes & Industrial Training 2026 || Job-Oriented Course",
+      "duration": 110
+    },
+    {
+      "id": "kju1hNWca7o",
+      "title": "Core Java Mock Interview for Freshers | Top Questions & Answers (Part 1)",
+      "duration": 3175
+    },
+    {
+      "id": "u1Btx3YNQhY",
+      "title": "🚀 Top 10 Core Java Interview Questions & Answers (2026) | Crack TCS, Infosys, Accenture & More",
+      "duration": 5816
+    },
+    {
+      "id": "2ALMlmzaS9I",
+      "title": "🔥 Top 10 Java OOP Interview Questions & Answers | TCS, Accenture, Cognizant, Infosys, Wipro",
+      "duration": 5089
+    },
+    {
+      "id": "gVr5agnvEkw",
+      "title": "🥇 Top 10 Java Exception Handling Interview Questions & Answers | TCS, Infosys, Amazon, Accenture",
+      "duration": 5514
+    },
+    {
+      "id": "o1W5gGwxmyI",
+      "title": "Free Java + DSA + Git & GitHub Notes 📚 | Live DSA Batch Details",
+      "duration": 319
+    }
+  ]
+}

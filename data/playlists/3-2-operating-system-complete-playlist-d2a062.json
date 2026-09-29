@@ -1,0 +1,420 @@
+{
+  "courseId": "3-2-operating-system-complete-playlist-d2a062",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:45.303Z",
+  "title": "1.2 OPERATING SYSTEM (Complete Playlist)",
+  "channel": "KnowledgeGATE by Sanchit Sir",
+  "videos": [
+    {
+      "id": "009FHqBo87Q",
+      "title": "Operating System | OS in one shot | Complete GATE Course | Hindi #withsanchitsir",
+      "duration": 42994
+    },
+    {
+      "id": "ebDJJKb_zDo",
+      "title": "GATE 2026 CSE Batch Lauch | 2 Feb, 2025 | 8:00pm | #knowledgegate #withsanchitsir",
+      "duration": 1108
+    },
+    {
+      "id": "YwqexcfbucE",
+      "title": "1.1 What Is Operating System?",
+      "duration": 879
+    },
+    {
+      "id": "ENYFsXTaV2Y",
+      "title": "1.2 Goals of Operating System | Functions of Operating System | Introduction to Operating System",
+      "duration": 619
+    },
+    {
+      "id": "VtqPyXDaMr4",
+      "title": "1.3 Batch Operating System | Batch Processing Operating System in Hindi",
+      "duration": 1034
+    },
+    {
+      "id": "OOLy8jnl1hA",
+      "title": "1.4 Multiprogramming Operating System in HINDI | what is Multi programming os",
+      "duration": 896
+    },
+    {
+      "id": "UcXWaeRikSo",
+      "title": "1.5 Multitasking or Time Sharing Operating System in HINDI | Fair share Operating System",
+      "duration": 620
+    },
+    {
+      "id": "b8lRqwTuWZE",
+      "title": "3.1 CPU bound vs input output bound process  CPU scheduling in operating system in hindi",
+      "duration": 467
+    },
+    {
+      "id": "x_UpLHXF9dU",
+      "title": "3.2 Pre-emptive vs Non pre-emptive CPU Scheduling in operating system in Hindi",
+      "duration": 483
+    },
+    {
+      "id": "qO2vg87t6oY",
+      "title": "3.3 Burst time Waiting time Arrival time Exit time Turnaround time Response time Average",
+      "duration": 555
+    },
+    {
+      "id": "cviEfwtdcEE",
+      "title": "3.4 CPU scheduling criteria in operating system hindi average waiting time average turnaround",
+      "duration": 441
+    },
+    {
+      "id": "NzbeU0DQTDo",
+      "title": "3.5 FCFS Scheduling Algorithm | First Come First Serve Scheduling Algorithm in OS in Hindi",
+      "duration": 673
+    },
+    {
+      "id": "9BViaWGniCE",
+      "title": "3.6 CPU Scheduling Algorithm | FCFS | Questions on First Come First Serve",
+      "duration": 712
+    },
+    {
+      "id": "cc-9wfIoMtg",
+      "title": "3.7 Convoy effect advantage disadvantage of FCFS scheduling algorithm first come first serve",
+      "duration": 717
+    },
+    {
+      "id": "U980LhlwZLg",
+      "title": "3.8 shortest job first scheduling algorithm in os with example in hindi non-pre-emptive",
+      "duration": 975
+    },
+    {
+      "id": "n2SzwU8Irhk",
+      "title": "3.9 Advantage and Disadvantage of shortest job first scheduling algorithm in os with example",
+      "duration": 480
+    },
+    {
+      "id": "9YwPLoNr7-A",
+      "title": "3.10 सबसे छोटा काम पहले | CPU शेड्यूलिंग एल्गोरिदम | गेट प्रश्न",
+      "duration": 781
+    },
+    {
+      "id": "gb26CYIUaHk",
+      "title": "3.11 Gate Questions | Shortest Job First | CPU Scheduling Algorithm | Operating System",
+      "duration": 841
+    },
+    {
+      "id": "z1glUJk0WLk",
+      "title": "3.12 गेट पिछले वर्ष के प्रश्न | सबसे छोटा काम पहले | सीपीयू शेड्यूलिंग एल्गोरिदम",
+      "duration": 832
+    },
+    {
+      "id": "Dc24p18vVls",
+      "title": "3.13 सबसे छोटे काम की समस्याएँ पहले | CPU शेड्यूलिंग | ऑपरेटिंग सिस्टम हिंदी में",
+      "duration": 777
+    },
+    {
+      "id": "IiHoLZLM1PQ",
+      "title": "3.14 Previous Year Questions | Shortest Remaining Time First | CPU Scheduling",
+      "duration": 488
+    },
+    {
+      "id": "cjZAhWWbQg4",
+      "title": "3.15 Priority scheduling algorithm in os in hindi with examples preemptive and non preemptive",
+      "duration": 795
+    },
+    {
+      "id": "Z_t9MHn1ogw",
+      "title": "3.16 Advantage and Disadvantage of Priority scheduling algorithm in os in hindi with examples",
+      "duration": 362
+    },
+    {
+      "id": "nEO3JZ48NPQ",
+      "title": "3.17 Round Robin scheduling algorithm in os in hindi with example operating system",
+      "duration": 686
+    },
+    {
+      "id": "cZQ1zYr1LGc",
+      "title": "3.18 Advantage and Disadvantage in Round Robin scheduling algorithm in os in hindi with example",
+      "duration": 321
+    },
+    {
+      "id": "4BInccFSKso",
+      "title": "4.1 Race Condition in Process Synchronization in OS",
+      "duration": 604
+    },
+    {
+      "id": "Tf7WNmxt7RA",
+      "title": "4.2 Practice Problems Questions Solutions on Race Condition in Operating System OS in HINDI",
+      "duration": 388
+    },
+    {
+      "id": "PoPePvh3cnY",
+      "title": "4.3 Critical Section Problem",
+      "duration": 576
+    },
+    {
+      "id": "oW8y-ctaIso",
+      "title": "4.4 Using Turn Variable Two Process Solution for Critical Section problem in os in Hindi",
+      "duration": 541
+    },
+    {
+      "id": "41am-gNWSpA",
+      "title": "4.5 Using Flag Variable Two Process Solution for Critical Section problem in os in Hindi",
+      "duration": 501
+    },
+    {
+      "id": "XAsAAJSotA4",
+      "title": "4.6 Peterson Solution | Dekker's Algorithm | Critical Section Problem in Operating System in Hindi",
+      "duration": 869
+    },
+    {
+      "id": "rY75gHufIuk",
+      "title": "4.7 Practice Problem question on Process Synchronization peterson solution critical section",
+      "duration": 804
+    },
+    {
+      "id": "VcVbUbPNIfw",
+      "title": "4.8 Semaphores in Process Synchronization in OS",
+      "duration": 1168
+    },
+    {
+      "id": "jDUJsCFNI0E",
+      "title": "4.9 Previous year gate questions on Semaphores | Process synchronization | OS",
+      "duration": 791
+    },
+    {
+      "id": "8KCeGWJBdSk",
+      "title": "4.10 Semaphores|Continues | Process Synchronization | OS | Operating System |",
+      "duration": 642
+    },
+    {
+      "id": "6Gv3G0_Nkck",
+      "title": "4.11 Previous year practise questions on Semaphores | Process synchronization | OS |",
+      "duration": 867
+    },
+    {
+      "id": "eOsmrY94JrY",
+      "title": "4.12 Previous Year Gate Questions | Semaphores | OS | Operating System |",
+      "duration": 867
+    },
+    {
+      "id": "hyQz97Jym_w",
+      "title": "4.13 Producer Consumer Problem | Semaphores | Process Synchronization | OS | Operating System |",
+      "duration": 846
+    },
+    {
+      "id": "kn2Okc2cAaQ",
+      "title": "4.14 Reader Writer Problem | Semaphores | Process Synchronization |Operating System |",
+      "duration": 980
+    },
+    {
+      "id": "jBrDswqyDEs",
+      "title": "4.15 डाइनिंग फिलॉसफर्स समस्या | सेमाफोर | ऑपरेटिंग सिस्टम में प्रक्रिया सिंक्रनाइज़ेशन",
+      "duration": 673
+    },
+    {
+      "id": "yBU00rC5dx4",
+      "title": "4.16 डाइनिंग फिलॉसॉफर समस्या | डाइनिंग फिलॉसॉफर समस्या समाधान | सेमाफोर का उपयोग करके समाधान",
+      "duration": 684
+    },
+    {
+      "id": "WmdclZZom8g",
+      "title": "4.17 भोजन दार्शनिक समस्या का समाधान क्रम बदलकर | भोजन दार्शनिक समस्या का समाधान",
+      "duration": 749
+    },
+    {
+      "id": "wOWg6Pjfs3E",
+      "title": "4.18 डाइनिंग फिलॉसफर्स समस्या | GATE प्रश्न | UGCNET प्रश्न",
+      "duration": 282
+    },
+    {
+      "id": "_zOTMOubT1M",
+      "title": "5.1 Deadlock in Operating system in Hindi | Deadlock in OS | Prevention and Avoidance",
+      "duration": 525
+    },
+    {
+      "id": "JABarkXjxpk",
+      "title": "5.2 Four Necessary Conditions for Deadlock | Mutual Exclusion Hold Wait | Deadlock in OS in Hindi",
+      "duration": 661
+    },
+    {
+      "id": "U7zKBXg-YOI",
+      "title": "5.3 #DeadlockHandling #DeadlockPrevention #DeadlockAvoidance Deadlock Detection in Hindi",
+      "duration": 806
+    },
+    {
+      "id": "ok5jgFgUzrs",
+      "title": "5.4 Violation of mutual exclusion condition under deadlock prevention approach operating system",
+      "duration": 419
+    },
+    {
+      "id": "d8FYxikctgM",
+      "title": "5.5 Violation of Hold & Wait under deadlock prevention approach operating system",
+      "duration": 591
+    },
+    {
+      "id": "L3G9lzm-FSQ",
+      "title": "5.6 Violation of No Pre-emption under deadlock prevention approach operating system",
+      "duration": 342
+    },
+    {
+      "id": "RSztuZf8-lY",
+      "title": "5.7 Violation of Circular Wait under deadlock prevention approach operating system",
+      "duration": 596
+    },
+    {
+      "id": "TzzI9O18pSI",
+      "title": "5.8 डेडलॉक रोकथाम | डेडलॉक रोकथाम पर GATE प्रश्न | ऑपरेटिंग सिस्टम में डेडलॉक",
+      "duration": 751
+    },
+    {
+      "id": "6BkHwWLhjZs",
+      "title": "5.9 डेडलॉक रोकथाम | डेडलॉक रोकथाम पर प्रश्न | OS में डेडलॉक",
+      "duration": 629
+    },
+    {
+      "id": "RCmhGeuj0GA",
+      "title": "5.10 डेडलॉक से बचाव | रोकथाम बनाम बचाव | OS में डेडलॉक से बचाव",
+      "duration": 1137
+    },
+    {
+      "id": "j4ApeXruQFc",
+      "title": "5.11 डेडलॉक से बचाव | बैंकर्स एल्गोरिथम | ऑपरेटिंग सिस्टम में डेडलॉक से बचाव",
+      "duration": 710
+    },
+    {
+      "id": "eS_qpUNZINI",
+      "title": "5.12 Numericals on Bankers Algorithm | Bankers Algorithm | Deadlock Avoidance in Operating System",
+      "duration": 764
+    },
+    {
+      "id": "Yrz054LXY4k",
+      "title": "5.13 बैंकर्स एल्गोरिथम गेट प्रश्न | बैंकर्स एल्गो नेट प्रश्न | डेडलॉक अवॉइडेंस",
+      "duration": 693
+    },
+    {
+      "id": "-dNugH5_bNA",
+      "title": "5.14 बैंकर्स एल्गोरिथम पर पिछले वर्ष के GATE प्रश्न | डेडलॉक अवॉइडेंस | OS में बैंकर्स एल्गो",
+      "duration": 693
+    },
+    {
+      "id": "3eyAa--j0Og",
+      "title": "5.15 बैंकर्स एल्गोरिथम पर प्रश्न | डेडलॉक से बचाव में बैंकर्स एल्गो | OS में बैंकर्स एल्गोरिथम",
+      "duration": 1106
+    },
+    {
+      "id": "qRV0xvAKkTk",
+      "title": "5.16 डेडलॉक पर GATE प्रश्न | ऑपरेटिंग सिस्टम में डेडलॉक | डेडलॉक पर प्रश्न",
+      "duration": 526
+    },
+    {
+      "id": "ZWBFFe3ojJg",
+      "title": "5.17 डेडलॉक से बचने के लिए संसाधन आवंटन ग्राफ | संसाधन आवंटन ग्राफ एल्गोरिदम",
+      "duration": 726
+    },
+    {
+      "id": "hVu8Vb9dzPU",
+      "title": "5.18 डेडलॉक डिटेक्शन | डेडलॉक रिकवरी एल्गोरिदम | सक्रिय दृष्टिकोण आलसी दृष्टिकोण",
+      "duration": 522
+    },
+    {
+      "id": "TAk822Wz4x4",
+      "title": "6.1 Introduction to Memory Management",
+      "duration": 1113
+    },
+    {
+      "id": "LLhgnIYpQaI",
+      "title": "6.2 Contiguous vs Non Contiguous Memory Allocation in OS",
+      "duration": 679
+    },
+    {
+      "id": "PuZ_xChlInM",
+      "title": "6.3 Contiguous Memory Allocation | Fixed Size Partitioning | Variable Size Partitioning",
+      "duration": 798
+    },
+    {
+      "id": "EO4MlDEO89U",
+      "title": "6.4 Variable Size Partitioning | FIRST Fit | BEST Fit | WORST Fit | Memory management in OS in Hindi",
+      "duration": 830
+    },
+    {
+      "id": "YcX-awpW9yc",
+      "title": "6.5 Fixed Size Partitioning | First Fit | Best Fit & Worst Fit in Memory Management in OS in Hindi",
+      "duration": 1065
+    },
+    {
+      "id": "8_dDcNzogSg",
+      "title": "6.6 Address Translation | Logical to Physical Address | Contiguous Memory Allocation in OS",
+      "duration": 1158
+    },
+    {
+      "id": "xAvC-MJ_Sz8",
+      "title": "6.7 What is Paging in Operating System",
+      "duration": 1601
+    },
+    {
+      "id": "Jftjc0mMwIg",
+      "title": "6.8 Paging | Memory management | OS | Operating System",
+      "duration": 774
+    },
+    {
+      "id": "RBou-ekL1RI",
+      "title": "6.9 Paging | Memory management | OS | Operating System",
+      "duration": 500
+    },
+    {
+      "id": "GvwU4te4_AY",
+      "title": "6.10 Paging | Calculate number of Pages | Memory Management in Operating System in Hindi",
+      "duration": 914
+    },
+    {
+      "id": "yVBh4IcGvSg",
+      "title": "6.11 Translation Look Aside Buffer | TLB | Disadvantage of Paging",
+      "duration": 805
+    },
+    {
+      "id": "kHhZUphoANI",
+      "title": "6.12 Translation Look Aside Buffer | TLB | Memory management | OS | Operating System",
+      "duration": 737
+    },
+    {
+      "id": "NMtHuK2i2dc",
+      "title": "6.13 Paging | Memory management | OS | Operating System",
+      "duration": 858
+    },
+    {
+      "id": "gRzwXIRG1Dc",
+      "title": "6.14 Paging | Memory management | OS| Operating System",
+      "duration": 799
+    },
+    {
+      "id": "aKmuGwHj3Cw",
+      "title": "8.1 Disk scheduling algorithms in operating system in hindi example track sector seek time",
+      "duration": 702
+    },
+    {
+      "id": "034pt6kFLe8",
+      "title": "8.2 FCFS disk scheduling algorithms in operating system in hindi example od first come serve",
+      "duration": 560
+    },
+    {
+      "id": "0Q-hvtonCfo",
+      "title": "8.3 SSTF disk scheduling algorithms in operating system in HINDI example os shortest seek time",
+      "duration": 655
+    },
+    {
+      "id": "gQqZ7SQ2Yfw",
+      "title": "8.4 SCAN disk scheduling algorithms in operating system in hindi example os csan look clook",
+      "duration": 882
+    },
+    {
+      "id": "Au9BxxLEm5M",
+      "title": "8.5 C SCAN disk scheduling algorithms in operating system OS SCAN LOOK CLOOK EXAMPLES",
+      "duration": 363
+    },
+    {
+      "id": "5hKKzoLk1RY",
+      "title": "8.6 LOOK disk scheduling algorithm in operating system in HINDI example os clook scan cscan",
+      "duration": 398
+    },
+    {
+      "id": "XqE8hka8ayY",
+      "title": "8.7 C look disk scheduling algorithms in operating system example os scan cscan look",
+      "duration": 335
+    }
+  ]
+}

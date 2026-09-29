@@ -1,0 +1,185 @@
+{
+  "courseId": "angular-full-tutorial-series-for-beginners-in-bangla-c1e997",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBcycf_KNrYpgj_yzcNgW9I3_2fpiGXXg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:09:30.817Z",
+  "title": "Angular full tutorial series  for Beginners in Bangla",
+  "channel": "Learn With Rashed",
+  "videos": [
+    {
+      "id": "YsN_KLUunfM",
+      "title": "01 angular Introduction and Installation Angular Bangla Tutorial",
+      "duration": 568
+    },
+    {
+      "id": "wrr03U6O2yQ",
+      "title": "02 Angular file and folder structure Bangla Tutorial",
+      "duration": 580
+    },
+    {
+      "id": "K7qQ2GBzNss",
+      "title": "03 Angular Components  | What is a Component | Bangla Tutorial",
+      "duration": 991
+    },
+    {
+      "id": "YGiOy2iTAoY",
+      "title": "04 Angular  data binding | string interpolation | Bangla Tutorial",
+      "duration": 562
+    },
+    {
+      "id": "7QY3ZTtdA8Q",
+      "title": "05 Angular  event binding Bangla Tutorial",
+      "duration": 612
+    },
+    {
+      "id": "ys81F3v_v3k",
+      "title": "06 Angular  services & Dependency Injection Bangla Tutorial",
+      "duration": 1018
+    },
+    {
+      "id": "s05ZyZcIry0",
+      "title": "07 Angular Data Binding | Property binding | Bangla Tutorial",
+      "duration": 196
+    },
+    {
+      "id": "Z4SRvsUkJMY",
+      "title": "08 Angular Data Binding | Two way data  binding | Bangla Tutorial",
+      "duration": 362
+    },
+    {
+      "id": "M2TqwnKPhNk",
+      "title": "09 Angular  Style Binding | NgClass , NgStyle  | Bangla Tutorial",
+      "duration": 463
+    },
+    {
+      "id": "ZMisuhHAvB8",
+      "title": "Angular CRUD App |  Angular 15  Crud Operation |  in Bangla Tutorial",
+      "duration": 2008
+    },
+    {
+      "id": "vLqfq-RelnQ",
+      "title": "10 Angular Structural directives   |  NgIf  | Bangla Tutorial",
+      "duration": 568
+    },
+    {
+      "id": "fpHp6_x7SnU",
+      "title": "11 Angular Safe Traversal Operator |  Angular Tutorial Series   | Bangla Tutorial",
+      "duration": 407
+    },
+    {
+      "id": "rA5dnVJSnH0",
+      "title": "12 Angular Component to component communication | Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 856
+    },
+    {
+      "id": "DsrkmQTtDH4",
+      "title": "13 Angular @viewChild &  @ViewChildren  | Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 817
+    },
+    {
+      "id": "9Ya0pLu4yyA",
+      "title": "14 Angular Lifecycle Hooks    |  Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 1009
+    },
+    {
+      "id": "U4U_noAZfxM",
+      "title": "15 Angular Pipe    |  Build angular custom pipe | Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 520
+    },
+    {
+      "id": "KLiHYWKFqHI",
+      "title": "16 Angular pure Pipe & Impure Pipe | Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 491
+    },
+    {
+      "id": "WQElNlXIFlM",
+      "title": "17 Angular  custom directives  | Angular Tutorial Series |  Bangla Tutorial",
+      "duration": 744
+    },
+    {
+      "id": "1Slbmhzr6hM",
+      "title": "18 Angular Router  | Lazy Loading | Router Outlet | Angular Tutorial Series |  Bangla",
+      "duration": 1040
+    },
+    {
+      "id": "_5Vzjv57mcg",
+      "title": "19 Angular Router  | Absolute Path | Relative Path | Angular Tutorial Series |  Bangla",
+      "duration": 528
+    },
+    {
+      "id": "2ydfP6JeF7A",
+      "title": "20 Angular Router  | Styling Current navigation link in Angular  | Angular Tutorial Series |  Bangla",
+      "duration": 233
+    },
+    {
+      "id": "DqWqzOi63E8",
+      "title": "21 | Angular Router |  Angular Wildcard Routes and Pathmatch   | Angular Tutorial Series |  Bangla",
+      "duration": 285
+    },
+    {
+      "id": "MdXYUCdfCFI",
+      "title": "22 | Angular Router |  Activated Route and Route Resolver   | Angular Tutorial Series |  Bangla",
+      "duration": 1268
+    },
+    {
+      "id": "EFVOFy2u-o8",
+      "title": "23 | Angular  Route Guards | CanActivate & CanActivateChild | Auth Gurd | Angular Tutorial |  Bangla",
+      "duration": 867
+    },
+    {
+      "id": "5Zfavh5xU6w",
+      "title": "24 | Angular  Route Guard | CanDeactivate | Auth Gurd | Angular Tutorial |  Bangla",
+      "duration": 384
+    },
+    {
+      "id": "DcVdN69Al64",
+      "title": "25 | Angular  Route Guard | CanMatch | AuthGurd | Angular Tutorial |  Bangla",
+      "duration": 476
+    },
+    {
+      "id": "4bHA87bcNkM",
+      "title": "26 | Angular reactive forms |  Angular Tutorial |  Bangla",
+      "duration": 749
+    },
+    {
+      "id": "2MOs-mUd4Z0",
+      "title": "27 | Angular reactive form Validators & error message  |  Angular Tutorial |  Bangla",
+      "duration": 1132
+    },
+    {
+      "id": "8_MdR8nkBm8",
+      "title": "28 | Angular reactive form Custom Validators  |  Angular Tutorial |  Bangla",
+      "duration": 547
+    },
+    {
+      "id": "PLBmU0HOIno",
+      "title": "29 | Angular reactive form Async Validators  |  Angular Tutorial |  Bangla",
+      "duration": 452
+    },
+    {
+      "id": "eZXUyIJkYVo",
+      "title": "30 | Angular material Setup & Installation   |  Angular Tutorial |  Bangla",
+      "duration": 788
+    },
+    {
+      "id": "kaF5uVIBSPk",
+      "title": "31 | Angular material Date picker  |  Angular Tutorial |  Bangla",
+      "duration": 369
+    },
+    {
+      "id": "DetMD06tWYM",
+      "title": "32 | Angular material Data Table  |  Angular Tutorial |  Bangla",
+      "duration": 872
+    },
+    {
+      "id": "iCF_xMorVXc",
+      "title": "33 |  🌈 Angular Material -  Custom theme Colors  |  Angular  |  Bangla Tutorial  🎨",
+      "duration": 613
+    },
+    {
+      "id": "eDBIDdWBL5g",
+      "title": "34 |  🌈 Angular Material -  Dark theme switching with toggling  |  Angular  |  Bangla Tutorial  🎨",
+      "duration": 799
+    }
+  ]
+}

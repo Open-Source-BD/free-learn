@@ -1,0 +1,85 @@
+{
+  "courseId": "sveltekit-tutorial-crash-course-48d2b0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:45.316Z",
+  "title": "SvelteKit Tutorial (Crash Course)",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "9OlLxkaeVvw",
+      "title": "SvelteKit Crash Course Tutorial #1 - What is SvelteKit?",
+      "duration": 392
+    },
+    {
+      "id": "_M-iOKo4FnE",
+      "title": "SvelteKit Crash Course Tutorial #2 - Setting up a SvelteKit App",
+      "duration": 382
+    },
+    {
+      "id": "WK4SN853CqI",
+      "title": "SvelteKit Crash Course Tutorial #3 - Svelte Components (refresh)",
+      "duration": 526
+    },
+    {
+      "id": "ftiTVitDbx0",
+      "title": "SvelteKit Crash Course Tutorial #4 - Pages & Routes",
+      "duration": 627
+    },
+    {
+      "id": "5IajHJULs5I",
+      "title": "SvelteKit Crash Course Tutorial #5 - Reusable Components",
+      "duration": 454
+    },
+    {
+      "id": "shTnwJa4SRA",
+      "title": "SvelteKit Crash Course Tutorial #6 - Layout Components",
+      "duration": 502
+    },
+    {
+      "id": "t7UlyE2Jhx4",
+      "title": "SvelteKit Crash Course Tutorial #7 - Reset Layouts",
+      "duration": 333
+    },
+    {
+      "id": "a5OiuEu1Q6M",
+      "title": "SvelteKit Crash Course Tutorial #8 - Loading Data & SSR",
+      "duration": 592
+    },
+    {
+      "id": "Nzcefm5Izc8",
+      "title": "SvelteKit Crash Course Tutorial #9 - Client-side vs Server-side Code",
+      "duration": 267
+    },
+    {
+      "id": "Y2_bJoFbQQg",
+      "title": "SvelteKit Crash Course Tutorial #10 - Dynamic Routes",
+      "duration": 441
+    },
+    {
+      "id": "KpruqbynhjE",
+      "title": "SvelteKit Crash Course Tutorial #11 - Redirects",
+      "duration": 150
+    },
+    {
+      "id": "YK5Pmcv0BFk",
+      "title": "SvelteKit Crash Course Tutorial #12 - Prefetching Data",
+      "duration": 293
+    },
+    {
+      "id": "MUjgMu5no3A",
+      "title": "SvelteKit Crash Course Tutorial #13 - Error Pages",
+      "duration": 293
+    },
+    {
+      "id": "gUs-Sissb48",
+      "title": "SvelteKit Crash Course Tutorial #14 - Deploying to Vercel",
+      "duration": 199
+    },
+    {
+      "id": "0gor32MSyiA",
+      "title": "SvelteKit Crash Course Tutorial #15 - API Routes",
+      "duration": 445
+    }
+  ]
+}

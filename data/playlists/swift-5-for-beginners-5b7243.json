@@ -1,0 +1,125 @@
+{
+  "courseId": "swift-5-for-beginners-5b7243",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:58.035Z",
+  "title": "Swift 5 for Beginners (2022)",
+  "channel": "iOS Academy",
+  "videos": [
+    {
+      "id": "bjPENR6sHRU",
+      "title": "Swift for Beginners Part 1: Getting Started",
+      "duration": 329
+    },
+    {
+      "id": "xKf6iNilRYI",
+      "title": "Swift for Beginners Part 2: Variables & Constants",
+      "duration": 909
+    },
+    {
+      "id": "48v8FH46mQs",
+      "title": "Swift for Beginners Part 3 - Types",
+      "duration": 595
+    },
+    {
+      "id": "fffG55Ei1Qc",
+      "title": "Swift for Beginners Part 4 - Functions & Parameters",
+      "duration": 750
+    },
+    {
+      "id": "ys3dPSKssgk",
+      "title": "Swift for Beginners Part 5 - Classes & Structs",
+      "duration": 879
+    },
+    {
+      "id": "8Z0mImrIITA",
+      "title": "Swift for Beginners Part 6 - Loops",
+      "duration": 568
+    },
+    {
+      "id": "9K89xEuSiYA",
+      "title": "Swift for Beginners Part 7 - Optionals & Unwrapping",
+      "duration": 757
+    },
+    {
+      "id": "rBotA3jwWkY",
+      "title": "Swift for Beginners Part 8 - If Else Conditionals",
+      "duration": 434
+    },
+    {
+      "id": "DTd7HHSAw-4",
+      "title": "Swift for Beginners Part 9 - Guard Statements",
+      "duration": 473
+    },
+    {
+      "id": "_qxm-MvRw_Y",
+      "title": "Swift for Beginners Part 10 - Enums & Switch Statements",
+      "duration": 796
+    },
+    {
+      "id": "ELRH8vkOlNs",
+      "title": "Swift for Beginners Part 11 - Protocols",
+      "duration": 753
+    },
+    {
+      "id": "I2mu9gMUbF0",
+      "title": "Swift for Beginners Part 12 - Strong vs  Weak Memory",
+      "duration": 475
+    },
+    {
+      "id": "8TpLDqOO6VE",
+      "title": "Swift for Beginners Part 13 - Closures",
+      "duration": 762
+    },
+    {
+      "id": "TqN9Asm0Zvo",
+      "title": "Swift for Beginners Part 14 - Strings tutorial (2020)",
+      "duration": 420
+    },
+    {
+      "id": "-uwSmesQKHE",
+      "title": "Swift for Beginners Part 15 - Arrays & Dictionaries",
+      "duration": 452
+    },
+    {
+      "id": "x2K2z1jSkpo",
+      "title": "Swift for Beginners Part 16 - Ints, Floats, Doubles",
+      "duration": 277
+    },
+    {
+      "id": "3dlUT9Mgl-4",
+      "title": "Swift for Beginners Part 17 - Libraries & Frameworks",
+      "duration": 331
+    },
+    {
+      "id": "GztWJaGwMyA",
+      "title": "Swift for Beginners Part 18 - Naming Conventions",
+      "duration": 215
+    },
+    {
+      "id": "XCrESmTB2U0",
+      "title": "Swift for Beginners Part 19 - Type aliases",
+      "duration": 532
+    },
+    {
+      "id": "LoEbMVozM58",
+      "title": "Swift for Beginners Part 20 - Ternary Operator & Return Statement",
+      "duration": 396
+    },
+    {
+      "id": "NZNGH88-jI0",
+      "title": "Swift for Beginners Part 21 - Math Functions",
+      "duration": 574
+    },
+    {
+      "id": "WvLdCPaHptQ",
+      "title": "Swift for Beginners Part 22 - Searching & Sorting",
+      "duration": 464
+    },
+    {
+      "id": "7E3rSnafSy0",
+      "title": "Swift for Beginners Part 23 - Wrapping Up",
+      "duration": 469
+    }
+  ]
+}

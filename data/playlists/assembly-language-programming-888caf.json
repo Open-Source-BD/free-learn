@@ -1,0 +1,285 @@
+{
+  "courseId": "assembly-language-programming-888caf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:47.113Z",
+  "title": "Assembly Language Programming",
+  "channel": "Rasmurtech",
+  "videos": [
+    {
+      "id": "vtWKlgEi9js",
+      "title": "Introduction to Assembly Language Programming [CLOSED]",
+      "duration": 190
+    },
+    {
+      "id": "mHC4-W3OUTQ",
+      "title": "Assembly Language Programming Tutorial - 1 - Installing MASM32 SDK",
+      "duration": 180
+    },
+    {
+      "id": "FJI52OGese8",
+      "title": "Assembly Language Programming Tutorial - 2 - Integer Constants",
+      "duration": 145
+    },
+    {
+      "id": "Uthq3BztdFA",
+      "title": "Assembly Language Programming Tutorial - 3 - Integer Expressions",
+      "duration": 199
+    },
+    {
+      "id": "bIYWGX-s1sw",
+      "title": "Assembly Language Programming Tutorial - 4 -  Real Number Constants",
+      "duration": 138
+    },
+    {
+      "id": "1FsQHX4eHoA",
+      "title": "Assembly Language Programming Tutorial - 5 -  Character Constants",
+      "duration": 66
+    },
+    {
+      "id": "7fs-opP5iws",
+      "title": "Assembly Language Programming Tutorial - 6 -  String Constants",
+      "duration": 131
+    },
+    {
+      "id": "MOmkQyLEP1E",
+      "title": "Assembly Language Programming Tutorial - 7 -  Reserved Words",
+      "duration": 130
+    },
+    {
+      "id": "A5S27ZTItPU",
+      "title": "Assembly Language Programming Tutorial - 8 -  Identifiers",
+      "duration": 126
+    },
+    {
+      "id": "qj34jjuxGxc",
+      "title": "Assembly Language Programming Tutorial - 9 -  Directives",
+      "duration": 101
+    },
+    {
+      "id": "7HF3Lee9WS8",
+      "title": "Assembly Language Programming Tutorial - 10 -  Directives - Part 2 - Defining Segments",
+      "duration": 84
+    },
+    {
+      "id": "ZrE-f5ijk6g",
+      "title": "Assembly Language Programming Tutorial - 11 -  Instructions - Part 1 - Labels",
+      "duration": 137
+    },
+    {
+      "id": "IrZ4Ap6SG4I",
+      "title": "Assembly Language Programming Tutorial - 12 -  Instructions - Part 2 - Instructions Mnemonic",
+      "duration": 68
+    },
+    {
+      "id": "N3rQANcFCe4",
+      "title": "Assembly Language Programming Tutorial - 13 -  Instructions - Part 3 - Operands",
+      "duration": 97
+    },
+    {
+      "id": "V25cg6rAlKg",
+      "title": "Assembly Language Programming Tutorial - 14 -  Instructions - Part 4 - Comments",
+      "duration": 97
+    },
+    {
+      "id": "OuDCI5pfpds",
+      "title": "Assembly Language Programming Tutorial - 15 - Installing emu8086 and Printing Hello World!",
+      "duration": 248
+    },
+    {
+      "id": "5h3GAPaHxf0",
+      "title": "Assembly Language Programming Tutorial - 16 - Simple Input and Output",
+      "duration": 191
+    },
+    {
+      "id": "OWwC_3L26nE",
+      "title": "Assembly Language Programming Tutorial - 17 - Registers",
+      "duration": 170
+    },
+    {
+      "id": "DBBYFYgvc0Y",
+      "title": "Assembly Language Programming Tutorial - 18 - ASCII Table and Simple Math",
+      "duration": 285
+    },
+    {
+      "id": "pMzjKkj1ldk",
+      "title": "Assembly Language Programming Tutorial - 19 - Defining Data and Variables",
+      "duration": 204
+    },
+    {
+      "id": "RqViXrPTDM8",
+      "title": "Assembly Language Programming Tutorial - 20 - MOV Instruction",
+      "duration": 200
+    },
+    {
+      "id": "7c-juLbvEyo",
+      "title": "Assembly Language Programming Tutorial - 21 - Copying Smaller Values to Larger Ones",
+      "duration": 246
+    },
+    {
+      "id": "AjbnVoupWQc",
+      "title": "Assembly Language Programming Tutorial - 22 - INC and DEC Instructions",
+      "duration": 205
+    },
+    {
+      "id": "PPn-gy-GKfE",
+      "title": "Assembly Language Programming Tutorial - 23 - ADD and SUB Instructions",
+      "duration": 245
+    },
+    {
+      "id": "jjS6j8rKjSw",
+      "title": "Assembly Language Programming Tutorial - 24 - NEG Instruction and Two's Complement",
+      "duration": 320
+    },
+    {
+      "id": "zf1bg3WCFUI",
+      "title": "Assembly Language Programming Tutorial - 25 - CPU Satus Flags",
+      "duration": 484
+    },
+    {
+      "id": "OIODmRFp0IU",
+      "title": "Assembly Language Programming Tutorial - 26 - JMP Instruction",
+      "duration": 298
+    },
+    {
+      "id": "8cGQ0iYoKWE",
+      "title": "Assembly Language Programming Tutorial - 27 - LOOP Instruction",
+      "duration": 256
+    },
+    {
+      "id": "nF_uICPiYro",
+      "title": "Assembly Language Programming Tutorial - 28 - Nested Loops",
+      "duration": 566
+    },
+    {
+      "id": "e58iawzG2aA",
+      "title": "Assembly Language Programming Tutorial - 29 - PUSH and POP Instructions",
+      "duration": 321
+    },
+    {
+      "id": "pgDCEqZQNlU",
+      "title": "Assembly Language Programming Tutorial - 30 - PUSHF, POPF,PUSHFD and POPFD Instruction",
+      "duration": 208
+    },
+    {
+      "id": "eMUqjImJDXo",
+      "title": "Assembly Language Programming Tutorial - 31 - PUSHAD, PUSHA, POPAD and POPA",
+      "duration": 276
+    },
+    {
+      "id": "0dLkvasLSlo",
+      "title": "Assembly Language Programming Tutorial - 32 - Defining and Using Procedures, CALL and RET",
+      "duration": 477
+    },
+    {
+      "id": "hEPKOMoprcg",
+      "title": "Assembly Language Programming Tutorial - 33 - Nested Procedure Calls",
+      "duration": 371
+    },
+    {
+      "id": "vyckKaG4j7U",
+      "title": "Assembly Language Programming Tutorial - 34 - AND Instruction",
+      "duration": 353
+    },
+    {
+      "id": "TaNEqkgFZ7w",
+      "title": "Assembly Language Programming Tutorial - 35 - Or Instruction",
+      "duration": 257
+    },
+    {
+      "id": "eUH-mfp_5BM",
+      "title": "Assembly Language Programming Tutorial - 36 - XOR Instruction",
+      "duration": 375
+    },
+    {
+      "id": "XGTtulrNtl8",
+      "title": "Assembly Language Programming Tutorial - 37 - NOT Instruction",
+      "duration": 176
+    },
+    {
+      "id": "rh6hi1bC68w",
+      "title": "Assembly Language Programming Tutorial - 38 - TEST Instruction",
+      "duration": 244
+    },
+    {
+      "id": "plFpgG1INpM",
+      "title": "Assembly Language Programming Tutorial - 39 - CMP Instruction",
+      "duration": 333
+    },
+    {
+      "id": "CCG1rVRgdJ0",
+      "title": "Assembly Language Programming Tutorial - 40 - Conditional Jumps: Jc, Jnc, Jz and Jnz",
+      "duration": 583
+    },
+    {
+      "id": "O0KYWmubx34",
+      "title": "Assembly Language Programming Tutorial - 41 - Jumps Based on Equality",
+      "duration": 637
+    },
+    {
+      "id": "S2cv2D0VvFs",
+      "title": "Assembly Language Programming Tutorial - 42 - Jumps Based on Unsigned Comparisons",
+      "duration": 964
+    },
+    {
+      "id": "LHlBgs4vROM",
+      "title": "Assembly Language Programming Tutorial - 43 - LOOPZ Instruction",
+      "duration": 300
+    },
+    {
+      "id": "wVhvUfiL6pQ",
+      "title": "Assembly Language Programming Tutorial - 44 - LOOPE Instruction",
+      "duration": 255
+    },
+    {
+      "id": "cmMu5r7dMeU",
+      "title": "Assembly Language Programming Tutorial - 45 - SHL Instruction",
+      "duration": 382
+    },
+    {
+      "id": "mwjNB7A7L-g",
+      "title": "Assembly Language Programming Tutorial - 46 - SHR Instruction",
+      "duration": 252
+    },
+    {
+      "id": "2se_G1DlW7g",
+      "title": "Assembly Language Programming Tutorial - 47 - SAL Instruction",
+      "duration": 218
+    },
+    {
+      "id": "mAckx9SGcqY",
+      "title": "Assembly Language Programming Tutorial - 48 - SAR Instruction",
+      "duration": 229
+    },
+    {
+      "id": "YcRA2DD6-7A",
+      "title": "Assembly Language Programming Tutorial - 49 - MUL Instruction",
+      "duration": 449
+    },
+    {
+      "id": "iHh85azDn3Y",
+      "title": "Assembly Language Programming Tutorial - 50 - DIV Instruction",
+      "duration": 439
+    },
+    {
+      "id": "5nwaFnADYzk",
+      "title": "Assembly Language Programming Tutorial - 51 - Creating a Adding Program",
+      "duration": 813
+    },
+    {
+      "id": "-E66jGJinzw",
+      "title": "Assembly Language Programming Tutorial - 52 - ADC Instruction",
+      "duration": 496
+    },
+    {
+      "id": "iMExnTMcYdY",
+      "title": "Assembly Language Programming Tutorial - 53 - SBB Instruction",
+      "duration": 292
+    },
+    {
+      "id": "1ty75vY5vCo",
+      "title": "Assembly Language Programming Tutorial - 54 - AAA Instruction",
+      "duration": 342
+    }
+  ]
+}

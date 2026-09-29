@@ -1,0 +1,165 @@
+{
+  "courseId": "asp-net-core-2-2-3-rest-api-tutorial-6eedfb",
+  "sourceUrl": "https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:16.032Z",
+  "title": "ASP.NET Core 2.2 & 3 REST API Tutorial",
+  "channel": "Nick Chapsas",
+  "videos": [
+    {
+      "id": "sdlt3-ptt9g",
+      "title": "ASP.NET Core 5 & 3 & 2.2 REST API Tutorial 1 - Setup and Swagger configuration",
+      "duration": 809
+    },
+    {
+      "id": "WFEE5yVJwGU",
+      "title": "Implementing versioning | ASP.NET Core 5 REST API Tutorial 2",
+      "duration": 700
+    },
+    {
+      "id": "ESdvXlrG9zQ",
+      "title": "Dependency injection and clean service registration | ASP.NET 5 REST API Tutorial 3",
+      "duration": 549
+    },
+    {
+      "id": "TbDsAuJLVfg",
+      "title": "Creating resources using POST | ASP.NET 5 REST API Tutorial 4",
+      "duration": 704
+    },
+    {
+      "id": "0CwGTcrGBwI",
+      "title": "Retrieving resources with GET | ASP.NET Core 5 REST API Tutorial 5",
+      "duration": 536
+    },
+    {
+      "id": "8fXgWnzfRm0",
+      "title": "Updating resources with PUT | ASP.NET Core 5 REST API Tutorial 6",
+      "duration": 310
+    },
+    {
+      "id": "pvx0tCaK0Pg",
+      "title": "Deleting resources with DELETE | ASP.NET Core 5 REST API Tutorial 7",
+      "duration": 261
+    },
+    {
+      "id": "qEmxoCOH4Uw",
+      "title": "Storing and managing entities with Entity Framework Core | ASP.NET Core 5 REST API Tutorial 8",
+      "duration": 965
+    },
+    {
+      "id": "bBSQgX0mZ5E",
+      "title": "Storing and managing entities with Azure Cosmos DB | ASP.NET Core 5 REST API Tutorial 8.5",
+      "duration": 955
+    },
+    {
+      "id": "M6AkbBaDGJE",
+      "title": "Setting up JWT support (Authentication) | ASP.NET Core 5 REST API Tutorial 9",
+      "duration": 664
+    },
+    {
+      "id": "ARvsBUBioT0",
+      "title": "User Registration and Controller Auth | ASP.NET Core 5 REST API Tutorial 10",
+      "duration": 1186
+    },
+    {
+      "id": "APLjIrZgxyo",
+      "title": "User Login using JWT (Authentication) | ASP.NET Core 5 REST API Tutorial 11",
+      "duration": 507
+    },
+    {
+      "id": "o8dwfI7X16E",
+      "title": "User specific content with JWT claims | ASP.NET Core 5 REST API Tutorial 12",
+      "duration": 773
+    },
+    {
+      "id": "AU0TIOZhGqs",
+      "title": "Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13",
+      "duration": 1374
+    },
+    {
+      "id": "fAtfVu569CY",
+      "title": "Running in Docker | ASP.NET Core 2.2 REST API Tutorial 14",
+      "duration": 804
+    },
+    {
+      "id": "7roqteWLw4s",
+      "title": "Integration testing | ASP.NET Core 5 REST API Tutorial 15",
+      "duration": 1333
+    },
+    {
+      "id": "gYy5XJRJkOo",
+      "title": "Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16",
+      "duration": 816
+    },
+    {
+      "id": "g_8EHDQO4wI",
+      "title": "Restricting endpoints with Claims | ASP.NET Core 5 REST API Tutorial 17",
+      "duration": 656
+    },
+    {
+      "id": "wPhRFsH8kyU",
+      "title": "Restricting endpoints with Roles | ASP.NET Core 5 REST API Tutorial 18",
+      "duration": 654
+    },
+    {
+      "id": "juYLAFsz26Q",
+      "title": "Restricting endpoints with Authorization handlers | ASP.NET Core 5 REST API Tutorial 19",
+      "duration": 602
+    },
+    {
+      "id": "1Dz5Lfo6mqo",
+      "title": "Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20",
+      "duration": 1034
+    },
+    {
+      "id": "Ut6mRRFT2vM",
+      "title": "Validating requests with FluentValidation | ASP.NET Core 5 REST API Tutorial 21",
+      "duration": 1023
+    },
+    {
+      "id": "BGASedyh16I",
+      "title": "Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22",
+      "duration": 968
+    },
+    {
+      "id": "grBTYaTGLv8",
+      "title": "Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23",
+      "duration": 1212
+    },
+    {
+      "id": "Zo3T_See7iI",
+      "title": "Setting up ApiKey-based Authentication | ASP.NET Core 5 REST API Tutorial 24",
+      "duration": 605
+    },
+    {
+      "id": "KboCpJGa9ag",
+      "title": "Response caching using Redis | ASP.NET Core 5 REST API Tutorial 25",
+      "duration": 1414
+    },
+    {
+      "id": "cKj6U4qDmgQ",
+      "title": "Implementing pagination | ASP.NET Core 5 REST API Tutorial 26",
+      "duration": 1571
+    },
+    {
+      "id": "bdgtYbGYsK0",
+      "title": "Adding Health Checks | ASP.NET Core 5 REST API Tutorial 27",
+      "duration": 808
+    },
+    {
+      "id": "Zc9xyOgl8k4",
+      "title": "Resource filtering | ASP.NET Core 5 REST API Tutorial 28",
+      "duration": 569
+    },
+    {
+      "id": "BO2C5qAyl4w",
+      "title": "Continuous Integration with GitHub Actions (CI) | ASP.NET Core 5 REST API Tutorial 29",
+      "duration": 670
+    },
+    {
+      "id": "I2PChWTwmM8",
+      "title": "Adding Facebook Authentication in a .NET Core API (Login & Register)",
+      "duration": 2008
+    }
+  ]
+}

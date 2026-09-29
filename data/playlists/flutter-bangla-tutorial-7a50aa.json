@@ -1,0 +1,375 @@
+{
+  "courseId": "flutter-bangla-tutorial-7a50aa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:51.681Z",
+  "title": "Flutter Bangla Tutorial - Full Course",
+  "channel": "by Techno BD XYZ",
+  "videos": [
+    {
+      "id": "SgETZMVg-gg",
+      "title": "Flutter Bangla Tutorial | 01 | What is Flutter | Flutter কি ?",
+      "duration": 412
+    },
+    {
+      "id": "i9pkidtlX7c",
+      "title": "Flutter Bangla Tutorial | 02 |  Flutter Architecture | Understanding Flutter Architecture",
+      "duration": 438
+    },
+    {
+      "id": "MPBOxz11uWg",
+      "title": "Flutter Bangla Tutorial | 03 | How is Flutter 'transferred' to a Native App | Native App ট্রান্সফার",
+      "duration": 386
+    },
+    {
+      "id": "AVtBy_ovzkw",
+      "title": "Flutter Bangla Tutorial | 04 | Flutter Mac OS Installation | How to install flutter in Mac OS ?",
+      "duration": 986
+    },
+    {
+      "id": "Yv_KhSqltLo",
+      "title": "Flutter Bangla Tutorial [05] Flutter Plugin Installation | How to install flutter in Android studio?",
+      "duration": 566
+    },
+    {
+      "id": "QcDI0dYFOog",
+      "title": "Flutter Bangla Tutorial | 06 | Flutter Windows Installation | How to install flutter in Windows?",
+      "duration": 1124
+    },
+    {
+      "id": "H2tFB3iXHLc",
+      "title": "Flutter Bangla Tutorial | 07 | VS Code setup | Create an environment for Flutter with VS Code",
+      "duration": 371
+    },
+    {
+      "id": "f_QwnLvFqEE",
+      "title": "Flutter Bangla Tutorial | 08 |  Build Your First App Using Flutter | Create First Flutter Project",
+      "duration": 760
+    },
+    {
+      "id": "IjqhfvPl8mE",
+      "title": "Flutter Bangla Tutorial | 09 | Overview of the Files & Folders Structure | Flutter Files and Folders",
+      "duration": 442
+    },
+    {
+      "id": "SKWZ01pucBY",
+      "title": "Flutter Bangla Tutorial | 10 |  Dart Basics for Flutter App | Dart Introduction",
+      "duration": 926
+    },
+    {
+      "id": "TnldkQIrupg",
+      "title": "Flutter Bangla Tutuorial | 11 | First Flutter Application from scratch",
+      "duration": 452
+    },
+    {
+      "id": "_jWX911M1Yk",
+      "title": "Flutter Bangla Tutorial | 12 | Deep Dive MaterialApp & Scaffold Widgets",
+      "duration": 490
+    },
+    {
+      "id": "YjCESBnS78c",
+      "title": "Flutter Bangla Tutorial | 13 | StateLess Widget | Build UI using Stateless Widget",
+      "duration": 643
+    },
+    {
+      "id": "psUbxypThW8",
+      "title": "Flutter Bangla Tutorial | 14 | Stateful Widget | Build UI using Stateful Widget",
+      "duration": 908
+    },
+    {
+      "id": "s8XfHnhAPnE",
+      "title": "Flutter Bangla Tutorial | 15 | Most Important Widgets.",
+      "duration": 307
+    },
+    {
+      "id": "U0tK3NiBS9w",
+      "title": "Flutter Bangla Tutorial | 16 | Container Widget |Create Basic Container & Understand it's properties",
+      "duration": 550
+    },
+    {
+      "id": "X7TOTNu2z8w",
+      "title": "Flutter Bangla Tutorial | 17 | Column and Row Widget | Understand it's properties",
+      "duration": 370
+    },
+    {
+      "id": "YP_ON67tGMU",
+      "title": "Flutter Bangla Tutorial | 18 | ListView and ListTile Widget | Understand it's properties",
+      "duration": 318
+    },
+    {
+      "id": "kk_st-Xjtko",
+      "title": "Flutter Bangla Tutorial | 19 | ListView.builder and it's properties",
+      "duration": 197
+    },
+    {
+      "id": "B738DDx4uUo",
+      "title": "Flutter Bangla Tutorial | 20 | ListView - Deep Dive",
+      "duration": 448
+    },
+    {
+      "id": "AoQREOYy6dI",
+      "title": "Flutter Bangla Tutorial | 21 | Stack Widget and it's properties",
+      "duration": 555
+    },
+    {
+      "id": "HaJQCgt1yco",
+      "title": "Flutter Bangla Tutorial | 22 | GridView Widget | GridView.count  and it's properties",
+      "duration": 312
+    },
+    {
+      "id": "NrSy5ZTafiE",
+      "title": "Flutter Bangla Tutorial | 23 | GridView Widget | GridView.builder and it's properties",
+      "duration": 221
+    },
+    {
+      "id": "NKBfzPA6hfg",
+      "title": "Flutter Bangla Tutorial | 24 | Card Widget and it's properties",
+      "duration": 227
+    },
+    {
+      "id": "vIyAFrU67xQ",
+      "title": "Flutter Bangla Tutorial | 25 | Text Widget | Text.rich  and it's properties",
+      "duration": 762
+    },
+    {
+      "id": "KKdFFo7bEp4",
+      "title": "Flutter Bangla Tutorial | 26 | Image Widget - Theoretical",
+      "duration": 236
+    },
+    {
+      "id": "1uy6Kf5gH7s",
+      "title": "Flutter Bangla Tutorial | 27 | Image Widget | Load Network Images | Load Asset Images",
+      "duration": 370
+    },
+    {
+      "id": "8_ovwWenYoE",
+      "title": "Flutter Bangla Tutorial | 28 | Image Widget | Load File Image | Load Memory Image | File Permission",
+      "duration": 416
+    },
+    {
+      "id": "_IMiJ5A2_9w",
+      "title": "Flutter Bangla Tutorial | 29 | Image Widget | All in one Video",
+      "duration": 223
+    },
+    {
+      "id": "pF3kG8ZUIAU",
+      "title": "Flutter Bangla Tutorial | 30 | Icon Widget | IconButton Widget | Theoretical",
+      "duration": 142
+    },
+    {
+      "id": "8RCdn0bhsdo",
+      "title": "Flutter Bangla Tutorial | 31 | How to use Icon Widget | How to use IconButton Widget",
+      "duration": 277
+    },
+    {
+      "id": "07q9LmbGmJ0",
+      "title": "Flutter Bangla Tutorial | 32 | TextField - Deep Dive | TextField Properties | How to use TextField",
+      "duration": 690
+    },
+    {
+      "id": "b-b3al8Zs3U",
+      "title": "Flutter Bangla Tutorial | 33 | Button Widgets | Button Widget's Properties | ফ্লাটারের এর যত  বাটন",
+      "duration": 299
+    },
+    {
+      "id": "iT4SzT8HHcU",
+      "title": "Flutter Bangla Tutorial | 34 | InkWell Widget | InkWell Widget's Properties",
+      "duration": 268
+    },
+    {
+      "id": "Os0Wgk53bMk",
+      "title": "Flutter Bangla Tutorial | 35 | GestureDetector Widget | GestureDetector Widget's Properties",
+      "duration": 223
+    },
+    {
+      "id": "ezsydHlHRDY",
+      "title": "Flutter Bangla Tutorial | 36 | AppBar Widget | Deep Dive - AppBar Widget",
+      "duration": 833
+    },
+    {
+      "id": "rZtK_dwzhPI",
+      "title": "Flutter Bangla Tutorial | 37 | TabBar Widget |Deep Dive - TabBar Widget | Top TabBar | Buttom TabBar",
+      "duration": 648
+    },
+    {
+      "id": "EZTrX3aftOc",
+      "title": "Flutter Bangla Tutorial | 38 | Checkbox Widget | Checkbox Widget in Flutter",
+      "duration": 601
+    },
+    {
+      "id": "Wo8WKL49c1I",
+      "title": "Flutter Bangla Tutorial | 39 | CheckboxListTile Widget | Using CheckboxListTile Widget in Flutter",
+      "duration": 652
+    },
+    {
+      "id": "VkBlbhFv0Is",
+      "title": "Flutter Bangla Tutorial | 40 | Radio Button Widget | Use of Radio Button Widget",
+      "duration": 545
+    },
+    {
+      "id": "un8SU4eHjrQ",
+      "title": "Flutter Bangla Tutorial | 41 | RadioListTile Widget | Use of RadioListTile Widget",
+      "duration": 593
+    },
+    {
+      "id": "qMVp1YREaV0",
+      "title": "Flutter Bangla Tutorial | 42 | Slider Widget | Use of Slider Widget",
+      "duration": 406
+    },
+    {
+      "id": "tJsve-5NMNI",
+      "title": "Flutter Bangla Tutorial | 43 | Switch Widget | Use Switch Widget in Flutter Application",
+      "duration": 313
+    },
+    {
+      "id": "7bXgXaTQtwA",
+      "title": "Flutter Bangla Tutorial | 44 | SwitchListTile Widget and Understand it's properties",
+      "duration": 485
+    },
+    {
+      "id": "FKMkK64BLaU",
+      "title": "Flutter Bangla Tutorial | 45 | Add a custom font in Flutter Application",
+      "duration": 231
+    },
+    {
+      "id": "-9dssW_P9FM",
+      "title": "Flutter Bangla Tutorial | 46 | Use Navigation Drawer Widget in Flutter Applications.",
+      "duration": 387
+    },
+    {
+      "id": "rjmEs73Zj7U",
+      "title": "Flutter Bangla Tutorial | 47 | Page Navigation - Drawer Widget Cont.",
+      "duration": 336
+    },
+    {
+      "id": "RH3XQUYCRRg",
+      "title": "Flutter Bangla Tutorial | 48 | Custom Method Widget | Slice a big line of code into method widget",
+      "duration": 496
+    },
+    {
+      "id": "Kr95ysQmIX0",
+      "title": "Flutter Bangla Tutorial | 49 | Custom Class Widget | Slice big line of code into Classes",
+      "duration": 312
+    },
+    {
+      "id": "ltBTF9JTuQc",
+      "title": "Flutter Bangla Tutorial | 50 | Registering a Screen as a Main Screen or Launcher Screen (Page)",
+      "duration": 155
+    },
+    {
+      "id": "QJwFcApovwA",
+      "title": "Flutter Bangla Tutorial | 51 | Navigating to a new page and get Back | Use Push and Pop",
+      "duration": 218
+    },
+    {
+      "id": "iMy8d-NQF78",
+      "title": "Flutter Bangla Tutorial | 52 | Passing Data Page to Page or Screen to Screen via the Constructor",
+      "duration": 276
+    },
+    {
+      "id": "WoRSNIGVai4",
+      "title": "Flutter Bangla Tutorial | 53 | Using Named Routes & Passing Data with Named Routes",
+      "duration": 744
+    },
+    {
+      "id": "fPiXJF8Unok",
+      "title": "Flutter Bangla Tutorial | 54 | Deep Dive Named Routes",
+      "duration": 526
+    },
+    {
+      "id": "-nuS4nxF36g",
+      "title": "Flutter Bangla Tutorial | 55 | Replacing Pages (Instead of Pushing)",
+      "duration": 410
+    },
+    {
+      "id": "qD7PZKmoAjU",
+      "title": "Flutter Bangla Tutorial | 56 | Popping Pages & Passing Data Back",
+      "duration": 483
+    },
+    {
+      "id": "ABreqySxyXU",
+      "title": "Flutter Bangla Tutorial | 57 | What is State and State Management? | Why State Management?",
+      "duration": 490
+    },
+    {
+      "id": "NFZYKBAY6j4",
+      "title": "Flutter Bangla Tutorial | 58 |  Basics of State Management in Flutter",
+      "duration": 365
+    },
+    {
+      "id": "aivxmQ6Y7kc",
+      "title": "Flutter Bangla Tutorial | 59 |  Understanding the Provider State Management in Flutter",
+      "duration": 581
+    },
+    {
+      "id": "KohjWlwNjn8",
+      "title": "Flutter Bangla Tutorial | 60 |  How to use Provider State Management in your flutter project",
+      "duration": 704
+    },
+    {
+      "id": "LbFRcH7IVBQ",
+      "title": "Flutter Bangla Tutorial | 61 | Providing or Listening Data Object in Flutter Application",
+      "duration": 811
+    },
+    {
+      "id": "b_5K2r_pK4s",
+      "title": "Flutter Bangla Tutorial | 62 | Implements vs Inheritance ('extends’) vs Mixins ('with’) In Dart",
+      "duration": 332
+    },
+    {
+      "id": "_KSgqEO3iMs",
+      "title": "Flutter Bangla Tutorial | 63 | Mixins ('with’) in Flutter",
+      "duration": 267
+    },
+    {
+      "id": "vJ8ofIFcBNQ",
+      "title": "Flutter Bangla Tutorial | 64 | Using Nested Provider in Flutter Application.",
+      "duration": 488
+    },
+    {
+      "id": "Eiff30NErYg",
+      "title": "Flutter Bangla Tutorial | 65 | Using Consumer instead of 'Provider.of'",
+      "duration": 468
+    },
+    {
+      "id": "oFHiXcu8GLY",
+      "title": "Flutter Bangla Tutorial | 66 | Use Multiple Provider in Flutter Application",
+      "duration": 701
+    },
+    {
+      "id": "0jRwpLbJ7IE",
+      "title": "Flutter Bangla Tutorial | 67 | Using SnackBar in Flutter Application",
+      "duration": 494
+    },
+    {
+      "id": "pkiGoYNbb84",
+      "title": "Flutter Bangla Tutorial | 68 | Using Dismissible Widget | Show Dialog",
+      "duration": 947
+    },
+    {
+      "id": "UiI4x2q8zC0",
+      "title": "Flutter Bangla Tutorial | 69 | Manage food items in food ordering app",
+      "duration": 721
+    },
+    {
+      "id": "rFtmjTPksvM",
+      "title": "Flutter Bangla Tutorial | 70 | Add a Food Item to the list of Food Ordering App",
+      "duration": 1609
+    },
+    {
+      "id": "dmo8Dv__v_0",
+      "title": "Flutter Bangla Tutorial | 71 | Form Validation in Flutter Application",
+      "duration": 835
+    },
+    {
+      "id": "yfULEKsuzn8",
+      "title": "Flutter Bangla Tutorial | 72 | Edit Form Field in Flutter Application",
+      "duration": 744
+    },
+    {
+      "id": "E78XqXU3DHE",
+      "title": "Flutter Bangla Tutorial | 73 | Remove Item from the List in Flutter Application",
+      "duration": 460
+    }
+  ]
+}

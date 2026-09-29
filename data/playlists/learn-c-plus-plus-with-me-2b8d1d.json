@@ -1,0 +1,110 @@
+{
+  "courseId": "learn-c-plus-plus-with-me-2b8d1d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:01.691Z",
+  "title": "Learn C++ With Me",
+  "channel": "Tech With Tim",
+  "videos": [
+    {
+      "id": "lPd13fsU-CQ",
+      "title": "Learn C++ With Me #1 - How to Compile and Run C++ Code",
+      "duration": 1106
+    },
+    {
+      "id": "ckbfOdMhZls",
+      "title": "Learn C++ With Me #2 - C++ Program Structure",
+      "duration": 1064
+    },
+    {
+      "id": "zgutFVxOlTY",
+      "title": "Learn C++ With Me #3 - Data Types and Variables",
+      "duration": 1197
+    },
+    {
+      "id": "OA28SYILJv8",
+      "title": "Learn C++ With Me #4 - User Input and Constants",
+      "duration": 1415
+    },
+    {
+      "id": "CWtiqVQp8uk",
+      "title": "Learn C++ With Me #5 - Arithmetic Operators",
+      "duration": 947
+    },
+    {
+      "id": "taBgBbXRadc",
+      "title": "Learn C++ With Me #6 - Comparison Operators",
+      "duration": 1052
+    },
+    {
+      "id": "F__aAx-3HOY",
+      "title": "Learn C++ With Me #7 - Logical Operators (And, Or and Not)",
+      "duration": 745
+    },
+    {
+      "id": "Zkr0aAdD1Ww",
+      "title": "Learn C++ With Me #8 - If, Else & Else If",
+      "duration": 1025
+    },
+    {
+      "id": "1FVBeLD_FdE",
+      "title": "Learn C++ With Me #9 - Arrays",
+      "duration": 1295
+    },
+    {
+      "id": "gVmTVsAn6EI",
+      "title": "Learn C++ With Me #10 - For Loops",
+      "duration": 971
+    },
+    {
+      "id": "aOskrzlcBRY",
+      "title": "Learn C++ With Me #11 - While, Do While Loops & Break/Continue",
+      "duration": 1441
+    },
+    {
+      "id": "uOlLs1OYSSI",
+      "title": "Learn C++ With Me #12 - Switch Statement",
+      "duration": 482
+    },
+    {
+      "id": "QtP0PdLEvFk",
+      "title": "Learn C++ With Me #13 - Strings",
+      "duration": 356
+    },
+    {
+      "id": "RGYGiLUAQ3c",
+      "title": "Learn C++ With Me #14 - References (&)",
+      "duration": 749
+    },
+    {
+      "id": "jUbOcBkdMF0",
+      "title": "Learn C++ With Me #15 - Pointers (*)",
+      "duration": 865
+    },
+    {
+      "id": "T9-agjKW4PQ",
+      "title": "Learn C++ With Me #16 - Tuples",
+      "duration": 1078
+    },
+    {
+      "id": "7mwgA9XFIEQ",
+      "title": "Learn C++ With Me #17 - Maps",
+      "duration": 1475
+    },
+    {
+      "id": "RXzzE2wnnlo",
+      "title": "Learn C++ With Me #18 - Vectors",
+      "duration": 785
+    },
+    {
+      "id": "682xT_TcKUg",
+      "title": "Learn C++ With Me #19 - Sets",
+      "duration": 813
+    },
+    {
+      "id": "C83tPpvxIJA",
+      "title": "Learn C++ With Me #20 - Functions",
+      "duration": 1574
+    }
+  ]
+}

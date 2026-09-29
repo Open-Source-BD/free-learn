@@ -1,0 +1,245 @@
+{
+  "courseId": "cloud-computing-0a0549",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:22.301Z",
+  "title": "Cloud Computing",
+  "channel": "5 Minutes Engineering",
+  "videos": [
+    {
+      "id": "6l88XYUjNIs",
+      "title": "Complete Cloud Computing in One Shot 4 Hours | Semester Exam | Hindi",
+      "duration": 15698
+    },
+    {
+      "id": "HhStJ7FDBpc",
+      "title": "Introduction to Cloud Computing ll Cloud Computing Course Explained with Real Life Examples in Hindi",
+      "duration": 740
+    },
+    {
+      "id": "CaHBhnc1e_I",
+      "title": "Cloud Service Models : Infrastructure as a Service (IaaS) ll Cloud Computing Course in Hindi",
+      "duration": 399
+    },
+    {
+      "id": "cj1C7A6pQTQ",
+      "title": "Cloud Service Models : Platform as a Service (Paas) ll Cloud Computing Course",
+      "duration": 350
+    },
+    {
+      "id": "Gphz3lkrSH0",
+      "title": "Cloud Service Models : Software as a Service (SaaS) ll Cloud Computing Course in Hindi",
+      "duration": 299
+    },
+    {
+      "id": "NbQijlAuGMg",
+      "title": "XaaS Everything as a Service Explained with Example in Hindi l Cloud Computing Series",
+      "duration": 682
+    },
+    {
+      "id": "5G0L7XCt6XQ",
+      "title": "Cloud Deployment Models : Public, Private and Hybrid Cloud Explained in Hindi",
+      "duration": 425
+    },
+    {
+      "id": "oFga9Q1nd8M",
+      "title": "Benefits Of Cloud Computing ll Cloud Computing Course Explained with Examples in Hindi",
+      "duration": 369
+    },
+    {
+      "id": "r7HTgHbZ4ko",
+      "title": "Characteristics Of Cloud Computing ll Cloud Computing Course Explained in Hindi",
+      "duration": 372
+    },
+    {
+      "id": "MuW848rnOxs",
+      "title": "Applications Of Cloud Computing ll Cloud Computing Course Explained in Hindi",
+      "duration": 254
+    },
+    {
+      "id": "ByjLuByuK-M",
+      "title": "Hadoop ll Introduction to Hadoop ll Features Explained with Examples in Hindi",
+      "duration": 372
+    },
+    {
+      "id": "YzAAhbmSt_k",
+      "title": "Hadoop Architecture ll Map Reduce,HDFS,YARN Framework, Common Utilities Explained in Hindi",
+      "duration": 339
+    },
+    {
+      "id": "nDdSZzP8SD8",
+      "title": "Map Reduce ll Master Job Tracker and Slave Tracker Explained with Examples in Hindi",
+      "duration": 484
+    },
+    {
+      "id": "LX2vERESOp4",
+      "title": "Hadoop Distributed File System (HDFS) ll Blocks ll Name Node and Data Naode Explained in Hindi",
+      "duration": 395
+    },
+    {
+      "id": "5adOBPARH4E",
+      "title": "What is Hadoop Ecosystem and It's Components Explained in Hindi",
+      "duration": 244
+    },
+    {
+      "id": "ViuLZjC1B0c",
+      "title": "Apache HBase ll Hadoop Ecosystem Component ll Explained with Working Flow in Hindi",
+      "duration": 343
+    },
+    {
+      "id": "7yXlLgZkiJM",
+      "title": "Introduction to Virtualization ll Cloud Computing Course Explained in Hindi",
+      "duration": 576
+    },
+    {
+      "id": "AGnYEHU-zvY",
+      "title": "Introduction To Amazon Web Services (AWS)  and it's Benefits Explained in Hindi",
+      "duration": 420
+    },
+    {
+      "id": "WhSDtjrKmpE",
+      "title": "Amazon Web Services (AWS) Global Infrastructure l Regions l Availability Zones Explained in Hindi",
+      "duration": 343
+    },
+    {
+      "id": "xkXZGvuerRU",
+      "title": "Amazon Web Services (AWS) : Elastic Compute Cloud (EC2) Explained in Hindi",
+      "duration": 378
+    },
+    {
+      "id": "mRWm8Y2sV0E",
+      "title": "Amazon Web Services (AWS) : Simple Storage Service (S3) Explained in Hindi",
+      "duration": 455
+    },
+    {
+      "id": "C9tdKurLFoc",
+      "title": "Amazon Web Services (AWS) : Auto Scaling Explained in Hindi",
+      "duration": 520
+    },
+    {
+      "id": "B79Ux8_ipQs",
+      "title": "Amazon Web Services (AWS)  : Elastic Load Balancing (ELB) Explained with Benefits in Hindi",
+      "duration": 379
+    },
+    {
+      "id": "70VeggbI39U",
+      "title": "Amazon Web Services (AWS) : Virtual Private Cloud (VPC)  Explained in Hindi",
+      "duration": 353
+    },
+    {
+      "id": "GbVFpTYWKHU",
+      "title": "Cloud Ecosystem Explained in Hindi l Cloud Computing Course",
+      "duration": 472
+    },
+    {
+      "id": "TNt0TlSEIRg",
+      "title": "Cloud Computing Architecture Explained in Hindi",
+      "duration": 455
+    },
+    {
+      "id": "HQ_dP6mXrUs",
+      "title": "Amazon EC2 Instance Types : General Purpose Instance Part-1 Explained in Hindi l AWS Tutorial",
+      "duration": 649
+    },
+    {
+      "id": "rWTrqMLyJbg",
+      "title": "Amazon EC2 Instance Types : General Purpose instance Part-2 Explained in Hindi l AWS Tutorial",
+      "duration": 419
+    },
+    {
+      "id": "LUXdW3SlWCI",
+      "title": "Amazon EC2 Instance Types : Compute Optimized Instance Explained in Hindi",
+      "duration": 681
+    },
+    {
+      "id": "OHWGUtSsPUg",
+      "title": "Virtual Machine Explained in Hindi l Cloud Computing",
+      "duration": 372
+    },
+    {
+      "id": "qmPCBBBrc00",
+      "title": "What is Hypervisor Explained in Hindi l Cloud Computing Series",
+      "duration": 259
+    },
+    {
+      "id": "ojpYJTz9SDg",
+      "title": "Type 1 Hypervisor Explained in Hindi l Cloud Computing Series",
+      "duration": 346
+    },
+    {
+      "id": "n0uY8nvOvAM",
+      "title": "Type 2 Hypervisor Explained in Hindi l Cloud Computing Series",
+      "duration": 382
+    },
+    {
+      "id": "eJEk5FKjfUk",
+      "title": "Server Virtualization Explained in Hindi l Cloud Computing Series",
+      "duration": 608
+    },
+    {
+      "id": "OUq-zNNTxBQ",
+      "title": "Storage Virtualization Explained in Hindi l Cloud Computing Series",
+      "duration": 390
+    },
+    {
+      "id": "KXCXbNTqB4c",
+      "title": "Desktop Virtualization Explained in Hindi l Cloud Computing Series",
+      "duration": 280
+    },
+    {
+      "id": "ABrXGwNsFfA",
+      "title": "Network Virtualization Explained in Hindi l Cloud Computing Series",
+      "duration": 437
+    },
+    {
+      "id": "O5NR1wE_-_s",
+      "title": "Application Virtualization Explained in Hindi l Cloud Computing Series",
+      "duration": 274
+    },
+    {
+      "id": "OLxLlGs033g",
+      "title": "Data Virtualization Explained with Example in Hindi l Cloud Computing Series",
+      "duration": 428
+    },
+    {
+      "id": "JJf9dUQFiW8",
+      "title": "DAS : Direct Attached Storage Explained in Hindi l Cloud Computing Series",
+      "duration": 284
+    },
+    {
+      "id": "fm_HysRkmSQ",
+      "title": "NAS : Network Attached Storage Explained in Hindi l Cloud Computing Series",
+      "duration": 272
+    },
+    {
+      "id": "7e2XkrvkboU",
+      "title": "SAN : Storage Area Network Explained in Hindi l Cloud Computing Series",
+      "duration": 292
+    },
+    {
+      "id": "TO3yGao_Vjs",
+      "title": "Load Balancer Explained in Hindi l Cloud Computing Series",
+      "duration": 557
+    },
+    {
+      "id": "USnb3E6mTeA",
+      "title": "Round Robin and Weighted Round Robin Algorithms Explained in Hindi (Load Balancing) Cloud Computing",
+      "duration": 403
+    },
+    {
+      "id": "qtfSe6gco94",
+      "title": "Least Connections, Weighted Least Connections and Least Response Time Algorithms Explained in Hindi",
+      "duration": 395
+    },
+    {
+      "id": "sxbU0I6gu8Y",
+      "title": "Grid Computing Explained in Hindi",
+      "duration": 482
+    },
+    {
+      "id": "hfubBUMoj_A",
+      "title": "Cloud Computing Vs Grid Computing Explained in Hindi",
+      "duration": 265
+    }
+  ]
+}

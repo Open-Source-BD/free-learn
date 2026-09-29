@@ -1,0 +1,65 @@
+{
+  "courseId": "flask-tutorials-a65060",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:58.885Z",
+  "title": "Flask Tutorials",
+  "channel": "Tech With Tim",
+  "videos": [
+    {
+      "id": "mqhxxeeTbu0",
+      "title": "Flask Tutorial #1 - How to Make Websites with Python",
+      "duration": 636
+    },
+    {
+      "id": "xIgPMguqyws",
+      "title": "Flask Tutorial #2 - HTML Templates",
+      "duration": 823
+    },
+    {
+      "id": "4nzI4RKwb5I",
+      "title": "Flask Tutorial #3 - Adding Bootstrap and Template Inheritance",
+      "duration": 731
+    },
+    {
+      "id": "9MHYHgh4jYc",
+      "title": "Flask Tutorial #4 - HTTP Methods (GET/POST) & Retrieving Form Data",
+      "duration": 666
+    },
+    {
+      "id": "iIhAfX4iek0",
+      "title": "Flask Tutorial #5 - Sessions",
+      "duration": 831
+    },
+    {
+      "id": "qbnqNWXf_tU",
+      "title": "Flask Tutorial #6 - Message Flashing",
+      "duration": 567
+    },
+    {
+      "id": "uZnp21fu8TQ",
+      "title": "Flask Tutorial #7 - Using SQLAlchemy Database",
+      "duration": 857
+    },
+    {
+      "id": "1nxzOrLWiic",
+      "title": "Flask Tutorial #8 - Adding, Deleting & Updating Users w/ SQLAlchemy",
+      "duration": 749
+    },
+    {
+      "id": "tXpFERibRaU",
+      "title": "Flask Tutorial #9 - Static Files (Custom CSS, Images & Javascript)",
+      "duration": 647
+    },
+    {
+      "id": "WteIH6J9v64",
+      "title": "Flask Tutorial #10 - Blueprints & Using Multiple Python Files",
+      "duration": 789
+    },
+    {
+      "id": "YFBRVJPhDGY",
+      "title": "How to Deploy a Flask App to a Linux Server",
+      "duration": 1332
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+{
+  "courseId": "data-structures-and-algorithms-for-gate-complete-playlist-b85185",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:59.286Z",
+  "title": "Data Structures and Algorithms for GATE — Complete Playlist",
+  "channel": "GATE CSE LECTURES BY AMIT KHURANA",
+  "videos": [
+    {
+      "id": "dBe1EnUpBaA",
+      "title": "Syllabus of Data Structures and Algorithms | DSA for GATE | GATE 2023",
+      "duration": 1604
+    },
+    {
+      "id": "RGtcScoceho",
+      "title": "Introduction to data structures and algorithms | DSA | Part 1 | GATE 2023",
+      "duration": 2047
+    },
+    {
+      "id": "Di6pK1cGBRg",
+      "title": "Introduction to data structures and algorithms | DSA | Part 2 | GATE 2023",
+      "duration": 2739
+    },
+    {
+      "id": "5qfjzWw3SGY",
+      "title": "How to analyze algorithm | Aposteriori analysis | analysis of algorithm",
+      "duration": 2453
+    },
+    {
+      "id": "k6oVQP6RIZY",
+      "title": "How to analyze algorithm | Apriori analysis | analysis of algorithm",
+      "duration": 2207
+    },
+    {
+      "id": "c4jBPu-XkKk",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 1) | analysis of algorithm",
+      "duration": 2179
+    },
+    {
+      "id": "s8Uqq6TxXHY",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 2) | Big O notation | analysis of algorithm",
+      "duration": 1622
+    },
+    {
+      "id": "ZJ9WS_AFO1w",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 3) | Big O notation | analysis of algorithm",
+      "duration": 1782
+    },
+    {
+      "id": "DluUU8n9kdo",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 4) | Big O notation | analysis of algorithm",
+      "duration": 1910
+    },
+    {
+      "id": "iuWd-HP_Rqk",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 5) | Big omega notation |analysis of algorithm",
+      "duration": 2333
+    },
+    {
+      "id": "InR4Q1MgpqQ",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 6) | Theta notation | analysis of algorithm",
+      "duration": 2864
+    },
+    {
+      "id": "G6Tpbs65ITQ",
+      "title": "How to analyze algorithm | Asymptotic Notations (part 7) | small o and  small omega (ω) notation",
+      "duration": 1755
+    },
+    {
+      "id": "7RT9lMClbbw",
+      "title": "How to analyze algorithm | Properties of Asymptotic Notations (part 1)",
+      "duration": 2207
+    },
+    {
+      "id": "t_47R2Tx8aI",
+      "title": "How to analyze algorithm | Properties of Asymptotic Notations (part 2)",
+      "duration": 1896
+    },
+    {
+      "id": "TeEMF_fWNL8",
+      "title": "How to analyze algorithm | Properties of Asymptotic Notations (part 3)",
+      "duration": 2600
+    },
+    {
+      "id": "51dK_67igKo",
+      "title": "How to Analyze Algorithm | Practice Questions on Asymptotic Notations | Analysis of Algorithm",
+      "duration": 1768
+    },
+    {
+      "id": "vtKaD9IIQls",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #2",
+      "duration": 1614
+    },
+    {
+      "id": "GafZnmDdQvQ",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #3",
+      "duration": 2234
+    },
+    {
+      "id": "rwIf7AJ4xW0",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #4",
+      "duration": 1854
+    },
+    {
+      "id": "0VdhrFWd19g",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #5",
+      "duration": 1871
+    },
+    {
+      "id": "nWnlXL0N5aY",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #6",
+      "duration": 1634
+    },
+    {
+      "id": "QZ0QNlF4Wnc",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #7",
+      "duration": 2805
+    },
+    {
+      "id": "p6LQm8FVDqA",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #8",
+      "duration": 2074
+    },
+    {
+      "id": "bS8aAvc0KoA",
+      "title": "How to Analyze Algorithm | Analysis of Algorithm  Practice Questions on Asymptotic Notations  #9",
+      "duration": 1388
+    },
+    {
+      "id": "jaz95U4oBC0",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 1",
+      "duration": 1670
+    },
+    {
+      "id": "au6G8rBm2OE",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 2",
+      "duration": 2314
+    },
+    {
+      "id": "IsZ7mcv6orU",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 3",
+      "duration": 2264
+    },
+    {
+      "id": "bax9nRzJhxc",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 4",
+      "duration": 1614
+    },
+    {
+      "id": "HKvf2oZzkMs",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 5",
+      "duration": 1805
+    },
+    {
+      "id": "iVu4k3Q5jMo",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 6",
+      "duration": 1539
+    },
+    {
+      "id": "AdYR0qw0jfU",
+      "title": "Finding Time Complexity | Analysis and Calculation | Time Complexity of iterative Algo | part 7",
+      "duration": 2339
+    },
+    {
+      "id": "uR-WrLMmQ4w",
+      "title": "Finding Space Complexity | Analysis and Calculation | Iterative Algorithms",
+      "duration": 1527
+    },
+    {
+      "id": "yTKqJunZpto",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 1",
+      "duration": 1765
+    },
+    {
+      "id": "rBdhZ1SZhe0",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 2",
+      "duration": 2069
+    },
+    {
+      "id": "1fN_ORsDJWk",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 3",
+      "duration": 2078
+    },
+    {
+      "id": "7pAbio_msNE",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 4",
+      "duration": 1860
+    },
+    {
+      "id": "CAs2x_U6jco",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 5",
+      "duration": 1515
+    },
+    {
+      "id": "98MmwkLMLvk",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | Analysis and Calculation | Part 6",
+      "duration": 1534
+    },
+    {
+      "id": "NhGof5MNgYQ",
+      "title": "Finding Space and Time Complexity of Recursive Algorithms | fibonacci series exact complexity |#7",
+      "duration": 2508
+    },
+    {
+      "id": "Mkx8168BgGA",
+      "title": "Tower of Hanoi solved using Recursion | Part 1",
+      "duration": 1738
+    },
+    {
+      "id": "e-ZSzrd98K8",
+      "title": "Tower of Hanoi solved using Recursion | Part 2",
+      "duration": 1735
+    },
+    {
+      "id": "fJr8c0cmw9c",
+      "title": "SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 1",
+      "duration": 1754
+    },
+    {
+      "id": "gjjpvXHToxs",
+      "title": "SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 2",
+      "duration": 2172
+    },
+    {
+      "id": "F4EEVa8ddsA",
+      "title": "SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 3",
+      "duration": 2634
+    },
+    {
+      "id": "Hvwvqp7Dbbg",
+      "title": "SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 4",
+      "duration": 1730
+    },
+    {
+      "id": "4HddBs_19g8",
+      "title": "SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 5",
+      "duration": 1536
+    },
+    {
+      "id": "ynInZhQvjf8",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 1",
+      "duration": 2633
+    },
+    {
+      "id": "wQEVQgF9F_M",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 2",
+      "duration": 1940
+    },
+    {
+      "id": "oo2XsFdHG7o",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 3",
+      "duration": 2017
+    },
+    {
+      "id": "99IVLY4ubG8",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 4",
+      "duration": 2018
+    },
+    {
+      "id": "UUlOqP3CZAA",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 5",
+      "duration": 2320
+    },
+    {
+      "id": "ZEX3PjnsY8I",
+      "title": "TREE  METHOD FOR SOLVING ANY RECURRENCE IN HINDI | part 6",
+      "duration": 2346
+    },
+    {
+      "id": "BAEBK_ggspA",
+      "title": "Master Theorem with Proof part 2",
+      "duration": 1954
+    },
+    {
+      "id": "lig-mro88Fc",
+      "title": "Master Theorem with Proof part 1",
+      "duration": 1708
+    },
+    {
+      "id": "6S3eo6n4rpw",
+      "title": "Master Theorem with Proof part 3",
+      "duration": 2151
+    },
+    {
+      "id": "x1XN31sOG_M",
+      "title": "Master Theorem with Proof part 4",
+      "duration": 957
+    },
+    {
+      "id": "kNOJThh5ct8",
+      "title": "Master Theorem with Proof part 5",
+      "duration": 3067
+    },
+    {
+      "id": "PH1X861lv4M",
+      "title": "Practice Questions on Master Theorem Part 1",
+      "duration": 1712
+    },
+    {
+      "id": "GjUdrgoZgrQ",
+      "title": "Practice Questions on Master Theorem Part 2",
+      "duration": 2295
+    },
+    {
+      "id": "NBRtmgcx_Og",
+      "title": "Practice Questions on Master Theorem Part 3",
+      "duration": 1885
+    },
+    {
+      "id": "rVBNPHsnzxA",
+      "title": "Practice Questions on Master Theorem Part 4",
+      "duration": 2712
+    },
+    {
+      "id": "fzfQM1ioTA8",
+      "title": "Advanced Master Theorem | Extended Master Theorem with intuitive proof",
+      "duration": 2275
+    },
+    {
+      "id": "vM1J_1_CMSY",
+      "title": "Linear Search part 1",
+      "duration": 2551
+    },
+    {
+      "id": "IfB7Ea8rcic",
+      "title": "Linear Search part 2",
+      "duration": 2145
+    },
+    {
+      "id": "sP9zfRCmi6E",
+      "title": "Linear Search part 3",
+      "duration": 1396
+    },
+    {
+      "id": "drChnSfVfiY",
+      "title": "Binary Search part 1",
+      "duration": 2060
+    },
+    {
+      "id": "VwhabYjyDh8",
+      "title": "Binary Search part 2",
+      "duration": 2365
+    },
+    {
+      "id": "tlW58dk6gCA",
+      "title": "Binary Search part 3 (Modified Binary Search)",
+      "duration": 2255
+    },
+    {
+      "id": "jAHCQwzdzc0",
+      "title": "Binary Search part 4 (Average case exact number of comparisons)",
+      "duration": 2052
+    },
+    {
+      "id": "Vs73nVsHR3c",
+      "title": "Binary Search part 5 (Average case analysis of Binary search)",
+      "duration": 1583
+    },
+    {
+      "id": "pquO3T1Prfg",
+      "title": "Binary Search part 6 (Practice Questions)",
+      "duration": 2551
+    },
+    {
+      "id": "lGjSM1NdEBQ",
+      "title": "Binary Search part 7 (Practice Questions) #PROGRAMMING #PLACEMENTS",
+      "duration": 1754
+    },
+    {
+      "id": "e-xV2ipTmJg",
+      "title": "Binary Search part 8 (Practice Questions) #PROGRAMMING #PLACEMENTS",
+      "duration": 2809
+    },
+    {
+      "id": "9U0Uf3B9qjk",
+      "title": "Binary Search part 9 (Practice Questions) #PROGRAMMING #PLACEMENTS",
+      "duration": 1924
+    },
+    {
+      "id": "09oiA43xHfQ",
+      "title": "Binary Search part 10 (Practice Questions) #PROGRAMMING #PLACEMENTS",
+      "duration": 1377
+    },
+    {
+      "id": "9QfM-v3rH9g",
+      "title": "Selection Sort | Time Complexity(Best, Avg & Worst) Analysis #PROGRAMMING #PLACEMENTS",
+      "duration": 2335
+    },
+    {
+      "id": "D2rSrZ-Prfg",
+      "title": "Selection Sort | Stable or Not | In Place or Not | Practice Questions #PROGRAMMING #PLACEMENTS",
+      "duration": 1815
+    },
+    {
+      "id": "ZjubwybPI8k",
+      "title": "Bubble Sort Part 1 | Performance of Bubble Sort | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1944
+    },
+    {
+      "id": "PnWYdCt9vVs",
+      "title": "Bubble Sort Part 2 | Performance of Bubble Sort | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2502
+    },
+    {
+      "id": "kn4Q3jF15J8",
+      "title": "Insertion Sort | Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2170
+    },
+    {
+      "id": "J1DYqlJxmNY",
+      "title": "Insertion Sort (part 2)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2281
+    },
+    {
+      "id": "SeMj4wUGNpk",
+      "title": "Insertion Sort (part 3)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1210
+    },
+    {
+      "id": "Q0mPySpeFHU",
+      "title": "Counting Sort (part 1)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2306
+    },
+    {
+      "id": "GhOTtDY2crc",
+      "title": "Counting Sort (part 2)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1076
+    },
+    {
+      "id": "XyY4fyhxHw4",
+      "title": "Radix Sort (part 1)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2346
+    },
+    {
+      "id": "CmuZGt-qams",
+      "title": "Radix Sort (part 2)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2200
+    },
+    {
+      "id": "x6Qh6dLFCko",
+      "title": "Heap Sort (part 1)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2115
+    },
+    {
+      "id": "e8WwpBHcnMw",
+      "title": "Heap Sort (part 2)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1935
+    },
+    {
+      "id": "sbrRq5hpUac",
+      "title": "Heap Sort (part 3)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2468
+    },
+    {
+      "id": "S1cBkkM1hIE",
+      "title": "Heap Sort (part 4)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2849
+    },
+    {
+      "id": "TfKRwhZaEmg",
+      "title": "Heap Sort (part 5)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 3490
+    },
+    {
+      "id": "bCKhlSJXNzY",
+      "title": "Heap Sort (part 6)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2133
+    },
+    {
+      "id": "xuI3ulyGbec",
+      "title": "Heap Sort (part 7)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1921
+    },
+    {
+      "id": "IHcrGWtbIs0",
+      "title": "Heap Sort (part 8)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2998
+    },
+    {
+      "id": "My9gKAfnKU4",
+      "title": "Heap Sort (part 9)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2518
+    },
+    {
+      "id": "KN06kRHcWiA",
+      "title": "Heap Sort (part 10)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 2349
+    },
+    {
+      "id": "GSozQtjvb2E",
+      "title": "Heap Sort (part 11)| Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1805
+    },
+    {
+      "id": "g7i3s3Q2lCk",
+      "title": "Heap Sort (part 12) Time Complexity Analysis | Algorithm #PROGRAMMING #PLACEMENTS",
+      "duration": 1668
+    },
+    {
+      "id": "jM8L5H3TrU4",
+      "title": "ARRAY IN DATA STRUCTURES PART 1",
+      "duration": 2730
+    },
+    {
+      "id": "iyMQZbua0BM",
+      "title": "ARRAY IN DATA STRUCTURES PART 2",
+      "duration": 2248
+    },
+    {
+      "id": "QCGaFi6hYbA",
+      "title": "ARRAY IN DATA STRUCTURES PART 3",
+      "duration": 2289
+    },
+    {
+      "id": "vKdwMN06d1k",
+      "title": "ARRAY IN DATA STRUCTURES PART 4",
+      "duration": 2694
+    },
+    {
+      "id": "Qls-TMiTqn0",
+      "title": "Introduction to Linked List Part 1",
+      "duration": 2786
+    },
+    {
+      "id": "hORalmchMxw",
+      "title": "Introduction to Linked List Part 2",
+      "duration": 4010
+    },
+    {
+      "id": "lA2F1bhVTLE",
+      "title": "Introduction to Linked List Part 3",
+      "duration": 2534
+    },
+    {
+      "id": "08XQcqstJa0",
+      "title": "Introduction to Linked List Part 4",
+      "duration": 2180
+    },
+    {
+      "id": "3VN5uQr_qIY",
+      "title": "Introduction to Linked List Part 5",
+      "duration": 3240
+    },
+    {
+      "id": "bE8_9V17dQk",
+      "title": "Introduction to Linked List Part 6",
+      "duration": 3004
+    },
+    {
+      "id": "7s8epLhbiUU",
+      "title": "Introduction to Linked List Part 7",
+      "duration": 2768
+    },
+    {
+      "id": "IIDXeXj07mw",
+      "title": "Introduction to Linked List Part 8",
+      "duration": 3218
+    },
+    {
+      "id": "GydCiGHyi5k",
+      "title": "Introduction to Linked List Part 9",
+      "duration": 2666
+    },
+    {
+      "id": "-0Z9Xa58WOQ",
+      "title": "Introduction to Linked List Part 10",
+      "duration": 2502
+    },
+    {
+      "id": "sKIpVfgeXs4",
+      "title": "Introduction to Linked List Part 11",
+      "duration": 2470
+    },
+    {
+      "id": "8u7abEMr7m0",
+      "title": "Introduction to Linked List Part 12",
+      "duration": 2286
+    },
+    {
+      "id": "mzhUuzzFcyg",
+      "title": "Introduction to Linked List Part 13",
+      "duration": 1859
+    },
+    {
+      "id": "1qKGaQNhuGE",
+      "title": "Introduction to Linked List Part 14",
+      "duration": 2162
+    },
+    {
+      "id": "fgNE-a75NbE",
+      "title": "Tree in Data Structure (Part 1)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1558
+    },
+    {
+      "id": "dtwk-jvHBTs",
+      "title": "Tree in Data Structure (Part 2)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 3205
+    },
+    {
+      "id": "ojyPUKfse0k",
+      "title": "Tree in Data Structure (Part 3)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2698
+    },
+    {
+      "id": "-5IJxPbZ4Oc",
+      "title": "Tree in Data Structure (Part 4)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 3131
+    },
+    {
+      "id": "q05L0h1b3-o",
+      "title": "Tree in Data Structure (Part 5)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1774
+    },
+    {
+      "id": "ndAKAf2kXfc",
+      "title": "Tree in Data Structure (Part 6)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2535
+    },
+    {
+      "id": "XocO86JXbvo",
+      "title": "Binary Search Tree in Data Structure (Part 1)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2865
+    },
+    {
+      "id": "47T-ZQdYFnM",
+      "title": "Binary Search Tree in Data Structure (Part 2)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2131
+    },
+    {
+      "id": "rauGmKs-DyM",
+      "title": "Binary Search Tree in Data Structure (Part 3)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2859
+    },
+    {
+      "id": "7DLse0YZvfY",
+      "title": "Binary Search Tree in Data Structure (Part 4)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2407
+    },
+    {
+      "id": "-VzRduWYATg",
+      "title": "Binary Search Tree in Data Structure (Part 5)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 4024
+    },
+    {
+      "id": "CutqM5lHxMQ",
+      "title": "Tree Traversal in Data Structure (Part 1)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2891
+    },
+    {
+      "id": "g0dAEwFko8Y",
+      "title": "Tree Traversal in Data Structure (Part 2)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 3670
+    },
+    {
+      "id": "rqyT_iPyQig",
+      "title": "Tree Traversal in Data Structure (Part 3)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 4230
+    },
+    {
+      "id": "rOKjj29M8kg",
+      "title": "Tree Traversal in Data Structure (Part 4)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2042
+    },
+    {
+      "id": "d_bwUH8BUZw",
+      "title": "Tree Traversal in Data Structure (Part 5)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 3709
+    },
+    {
+      "id": "QpU2JagsrWI",
+      "title": "GATE 2014 question on IN Order traversal | Introduction to Trees | Data Structures Tutorials",
+      "duration": 2758
+    },
+    {
+      "id": "thnW-nfQIT8",
+      "title": "GATE 2014 question on Leftmost child Right Sibling| Introduction to Trees| Data Structures Tutorials",
+      "duration": 1201
+    },
+    {
+      "id": "FZTRDkChmlg",
+      "title": "Counting Trees in Data Structure (Part 1)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2284
+    },
+    {
+      "id": "SZJIOilR2Rk",
+      "title": "Counting Trees in Data Structure (Part 2)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1511
+    },
+    {
+      "id": "g7-GxnHQW7M",
+      "title": "Most important PYQ of TREE | Tree in Data Structure|Introduction to Trees| Data Structures Tutorials",
+      "duration": 2821
+    },
+    {
+      "id": "Xei0u5XlSNo",
+      "title": "AVL Trees in Data Structure (Part 1)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2489
+    },
+    {
+      "id": "5Bz2TMKRFng",
+      "title": "AVL Trees in Data Structure (Part 2)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 3135
+    },
+    {
+      "id": "7D9vbeVE3Ls",
+      "title": "AVL Trees in Data Structure (Part 3)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2177
+    },
+    {
+      "id": "lQYKIAfwsjY",
+      "title": "AVL Trees in Data Structure (Part 4)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1644
+    },
+    {
+      "id": "4MnMafeDzxE",
+      "title": "AVL Trees in Data Structure (Part 5)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 2417
+    },
+    {
+      "id": "g5m1AKCUvPE",
+      "title": "AVL Trees in Data Structure (Part 6)| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1959
+    },
+    {
+      "id": "fPhBRgsooD0",
+      "title": "GATE 2014 question on Sub Trees | Introduction to Trees | Data Structures Tutorials",
+      "duration": 1513
+    },
+    {
+      "id": "Qn5QfqKPzeE",
+      "title": "Expression Trees in Data Structure| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1242
+    },
+    {
+      "id": "nq_xjJwMcFE",
+      "title": "Various representation of Trees| Introduction to Trees | Data Structures Tutorials",
+      "duration": 1474
+    },
+    {
+      "id": "qKkIw8I-ED4",
+      "title": "Graph Representation in Data Structure |Adjacency Matrix and Adjacency List(part 1)",
+      "duration": 2166
+    },
+    {
+      "id": "IzbdTuWa3WE",
+      "title": "Graph Representation in Data Structure |Adjacency Matrix and Adjacency List(part 2) | Universal Sink",
+      "duration": 3012
+    },
+    {
+      "id": "Lh6Xx852PlQ",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 1",
+      "duration": 2169
+    },
+    {
+      "id": "Z7UzQooU8-Q",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 2",
+      "duration": 2237
+    },
+    {
+      "id": "kk9jMmq-5eQ",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 3",
+      "duration": 2505
+    },
+    {
+      "id": "q1wZnfQsEM8",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 4",
+      "duration": 2212
+    },
+    {
+      "id": "R-SrqWnJV4k",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 5",
+      "duration": 2182
+    },
+    {
+      "id": "WJKlTA9dPsY",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA | Part 6",
+      "duration": 2258
+    },
+    {
+      "id": "xw_10Xq5yaQ",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search (Iterative)| Graph Traversing | DAA | Part 7",
+      "duration": 1638
+    },
+    {
+      "id": "PNggn3mcePg",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search (Iterative)| Graph Traversing | DAA | Part 8",
+      "duration": 1662
+    },
+    {
+      "id": "U4EMfps0Luw",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search (Iterative)| Graph Traversing | DAA | Part 9",
+      "duration": 1779
+    },
+    {
+      "id": "UJxuEQPlCvI",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search Discover time and Finish Time | DAA | Part 10",
+      "duration": 1789
+    },
+    {
+      "id": "X9a-3Evx2PM",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search Types of Edges | DAA | Part 11",
+      "duration": 1734
+    },
+    {
+      "id": "zSylwKzw0eA",
+      "title": "BFS & DFS | Breadth First Search | Depth First Search Types of Edges | DAA | Part 12",
+      "duration": 2289
+    },
+    {
+      "id": "ReDdPHnq2ns",
+      "title": "BFS & DFS | Breadth First Search | Breadth First Search Types of Edges | DAA | Part 13",
+      "duration": 1798
+    },
+    {
+      "id": "aWfQ_ZOb2wA",
+      "title": "Parameter Passing Techniques | Call by value | Call by Reference | Part 1",
+      "duration": 1464
+    },
+    {
+      "id": "wT3hH8wCyd0",
+      "title": "Parameter Passing Techniques | Call by value | Call by Reference | Part 2",
+      "duration": 1568
+    },
+    {
+      "id": "XRZsUIH4oh0",
+      "title": "Introduction To Stacks part 1 | GATE 2025",
+      "duration": 1752
+    },
+    {
+      "id": "KZlL2HINdrY",
+      "title": "Introduction To Stacks part 2 | GATE 2025",
+      "duration": 1559
+    },
+    {
+      "id": "Xiwix79cS64",
+      "title": "Introduction To Stacks part 3 | GATE 2025",
+      "duration": 1577
+    },
+    {
+      "id": "LwP9UezZOUk",
+      "title": "Introduction To Stacks part 4 | GATE 2025",
+      "duration": 2296
+    },
+    {
+      "id": "EN7nsdx_CtU",
+      "title": "Introduction To Stacks part 5 | PYQs on Stack | GATE 2025",
+      "duration": 2309
+    },
+    {
+      "id": "hpuuQqve5W8",
+      "title": "Introduction To Stacks part 6 |  Implementing Stack Using LLst| GATE 2025",
+      "duration": 1334
+    },
+    {
+      "id": "T6sex8GSR2c",
+      "title": "Introduction to Queue Data structure | Part 1| Data Structure #queue | GATE 2025",
+      "duration": 2008
+    },
+    {
+      "id": "0Zi5WebYdnU",
+      "title": "Introduction to Queue Data structure | Part 2| Data Structure #queue | GATE 2025",
+      "duration": 2426
+    },
+    {
+      "id": "Gm3_yfNTg0w",
+      "title": "Introduction to Queue Data structure | Part 3| Data Structure #queue | GATE 2025",
+      "duration": 2161
+    },
+    {
+      "id": "rQgnRiVycHw",
+      "title": "Introduction to Queue Data structure | Part 4| Data Structure #queue | GATE 2025",
+      "duration": 2217
+    },
+    {
+      "id": "WaDjNnjSbkA",
+      "title": "Introduction to Queue Data structure | Part 5| Data Structure #queue | GATE 2025",
+      "duration": 1961
+    },
+    {
+      "id": "VssLfF5sKOs",
+      "title": "Introduction to Queue Data structure | Part 6| Data Structure #queue | GATE 2025",
+      "duration": 1892
+    },
+    {
+      "id": "C2qlhjpmqac",
+      "title": "Introduction to Queue Data structure | Part 7| Data Structure #queue | GATE 2025",
+      "duration": 2173
+    },
+    {
+      "id": "oNE7Ia2Q1x4",
+      "title": "Introduction to Queue Data structure | Part 8 | Data Structure #queue | GATE 2006 question",
+      "duration": 1402
+    },
+    {
+      "id": "RoSQ_UvuVlk",
+      "title": "Introduction to Queue Data structure | Part 9 | Data Structure #queue | GATE 2022 question",
+      "duration": 1646
+    },
+    {
+      "id": "nVCTmKkLNDA",
+      "title": "Introduction to Queue Data structure | Part 10 | Data Structure #queue | GATE 2025",
+      "duration": 2124
+    },
+    {
+      "id": "RxViErbNKAQ",
+      "title": "Introduction to Queue Data structure | Part 11 | Data Structure #queue | GATE 2025",
+      "duration": 2020
+    },
+    {
+      "id": "GmkeuL0TBto",
+      "title": "Introduction to Queue Data structure | Part 12 | Data Structure #queue | GATE 2025",
+      "duration": 1658
+    },
+    {
+      "id": "6ZJ_o3n23bM",
+      "title": "Introduction to Priority Queue Data structure | Part 13 | Data Structure #queue | GATE 2025",
+      "duration": 2495
+    },
+    {
+      "id": "DLMJPhRjOwk",
+      "title": "Introduction to Priority Queue Data structure | Part 14 | Data Structure #queue | GATE 2025",
+      "duration": 1339
+    },
+    {
+      "id": "gvHI511a3h4",
+      "title": "Application of Stacks part 1 | Fibonacci Series | GATE 2025",
+      "duration": 2067
+    },
+    {
+      "id": "BZCqfWwcGOU",
+      "title": "Application of Stacks part 2 | Fibonacci Series | GATE 2025",
+      "duration": 1597
+    },
+    {
+      "id": "3XfkXJKlV6E",
+      "title": "Application of Stacks part 3 | Tower of Hanoi | GATE 2025",
+      "duration": 2166
+    },
+    {
+      "id": "u8WDSTUOWIw",
+      "title": "Application of Stacks part 4 | Intro to Prefix ,Infix and Postfix | GATE 2025",
+      "duration": 1676
+    },
+    {
+      "id": "zKAPd1bPLYM",
+      "title": "Application of Stacks part 5 | Intro to Prefix ,Infix and Postfix | GATE 2025",
+      "duration": 1872
+    },
+    {
+      "id": "fooyOX8X_kg",
+      "title": "Application of Stacks part 6 | Infix to  Postfix | GATE 2025",
+      "duration": 2349
+    },
+    {
+      "id": "LhyfUDuIwoY",
+      "title": "Very beautiful question on MST | GATE 2025",
+      "duration": 1554
+    },
+    {
+      "id": "vy0QjBZHAjs",
+      "title": "Application of Stacks part 7 | Postfix evaluation | GATE 2025",
+      "duration": 1811
+    },
+    {
+      "id": "xCJlVyhWXmM",
+      "title": "Application of Stacks part 8 | Infix to prefix and Postfix to prefix using Stack | GATE 2025",
+      "duration": 1583
+    },
+    {
+      "id": "jGOAXTc88xI",
+      "title": "Application of Stacks part 9 | Infix to prefix and Postfix to prefix using Stack | GATE 2025",
+      "duration": 1738
+    },
+    {
+      "id": "NNyl7bk3tNc",
+      "title": "Application of Stacks part 10 | Types of recursion | GATE 2025",
+      "duration": 1408
+    },
+    {
+      "id": "BI0xpj_JI2E",
+      "title": "Application of Stacks part 11 | Types of recursion | GATE 2025",
+      "duration": 2140
+    },
+    {
+      "id": "3OCf5y8kJtE",
+      "title": "Syllabus of Algorithms | GATE 2025",
+      "duration": 1147
+    },
+    {
+      "id": "rieZMKSgPpI",
+      "title": "Min Max Algorithm without Divide & Conquer",
+      "duration": 1973
+    },
+    {
+      "id": "omVEZ1pMLJ4",
+      "title": "Divide and Conquer | Algorithm | Part 1",
+      "duration": 2368
+    },
+    {
+      "id": "q-wChyM0On8",
+      "title": "Divide and Conquer | Algorithm | Part 2",
+      "duration": 1735
+    },
+    {
+      "id": "QvVcK6bsfds",
+      "title": "Divide and Conquer | Algorithm | Part 3",
+      "duration": 1659
+    },
+    {
+      "id": "ynfV4a4mZ1k",
+      "title": "Min Max Algorithm with Divide & Conquer part 1",
+      "duration": 1909
+    },
+    {
+      "id": "Q34K9PHMBG4",
+      "title": "Min Max Algorithm with Divide & Conquer part 2",
+      "duration": 1962
+    },
+    {
+      "id": "HmW_Sa3FA1c",
+      "title": "Min Max Algorithm with Divide & Conquer part 3",
+      "duration": 2199
+    },
+    {
+      "id": "6BFHwUDvqWc",
+      "title": "Min Max Algorithm with Divide & Conquer part 4",
+      "duration": 3918
+    },
+    {
+      "id": "mSWouRdIo48",
+      "title": "Power of element with Divide & Conquer",
+      "duration": 2553
+    },
+    {
+      "id": "VldYb3p-taM",
+      "title": "Binary Search (Application of DAC) Part 1 #PROGRAMMING #PLACEMENTS",
+      "duration": 2075
+    },
+    {
+      "id": "7RZ6h1FvMvM",
+      "title": "Binary Search (Application of DAC) Part 2 #PROGRAMMING #PLACEMENTS",
+      "duration": 4363
+    },
+    {
+      "id": "Uj3pwobEe2I",
+      "title": "Merge sort part 1",
+      "duration": 2321
+    },
+    {
+      "id": "b-6JbuHLJp0",
+      "title": "Merge sort part 2",
+      "duration": 2784
+    },
+    {
+      "id": "sKTenpiXQas",
+      "title": "Merge sort part 3",
+      "duration": 2561
+    },
+    {
+      "id": "caQXyFH_Be8",
+      "title": "Merge sort part 4",
+      "duration": 2424
+    },
+    {
+      "id": "OW4SR9RsFtU",
+      "title": "Merge sort part 5",
+      "duration": 2183
+    },
+    {
+      "id": "_bbfCRwzcSg",
+      "title": "Merge sort part 6( Fibonacci merge sort)",
+      "duration": 2221
+    },
+    {
+      "id": "h3-W5v4kELU",
+      "title": "Merge sort part 7( Finding A U B and A ∩ B) | Union and Intersection using merge algorithm",
+      "duration": 2136
+    },
+    {
+      "id": "Xv1j-m6fl_c",
+      "title": "Merge sort part 8( Finding A U B and A ∩ B) | Union and Intersection using merge algorithm TC",
+      "duration": 1791
+    },
+    {
+      "id": "ERk6VLSOvFc",
+      "title": "Merge sort part 9( Straight 2 way merge sort , k way merging)",
+      "duration": 2387
+    },
+    {
+      "id": "iE-aX0WIDDo",
+      "title": "Merge sort part 10(Counting the number of inversions in an array)",
+      "duration": 1700
+    },
+    {
+      "id": "h4eYSYhsnU0",
+      "title": "Merge sort part 11(Counting the number of inversions in an array)",
+      "duration": 1674
+    },
+    {
+      "id": "69fHdEkojf4",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 1",
+      "duration": 2270
+    },
+    {
+      "id": "rpzq8gyMFu0",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 2",
+      "duration": 1384
+    },
+    {
+      "id": "GGWpjXr-w5I",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 3",
+      "duration": 2355
+    },
+    {
+      "id": "rUHfPYs5wOI",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 4",
+      "duration": 1859
+    },
+    {
+      "id": "4VWoRoL8vVo",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 5",
+      "duration": 2595
+    },
+    {
+      "id": "FHD-9D7s-m4",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 6",
+      "duration": 3117
+    },
+    {
+      "id": "hn_LmxCelRQ",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 7",
+      "duration": 3284
+    },
+    {
+      "id": "wpMXDUNEQhI",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 8",
+      "duration": 2259
+    },
+    {
+      "id": "W0QnlOfFDBI",
+      "title": "How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer | Part 9",
+      "duration": 3054
+    },
+    {
+      "id": "FkzX6La_ugk",
+      "title": "How Randomize Quick Sort Works | Randomize Quick Sort with Example | Divide and Conquer | Part 10",
+      "duration": 2391
+    },
+    {
+      "id": "bDWPJviTUfE",
+      "title": "Selection Procedure | Easy Explanation | Divide & Conquer | Algorithm Gate CS | part 1",
+      "duration": 1826
+    },
+    {
+      "id": "tOl_RIc7-QI",
+      "title": "Selection Procedure | Easy Explanation | Divide & Conquer | Algorithm Gate CS | part 2",
+      "duration": 1534
+    },
+    {
+      "id": "w4sd5DXpIbM",
+      "title": "Strassens Matrix Multiplication part 1",
+      "duration": 2450
+    },
+    {
+      "id": "dtMwnsgopMM",
+      "title": "Strassens Matrix Multiplication part 2",
+      "duration": 2748
+    },
+    {
+      "id": "33Lvgll6Sgw",
+      "title": "Introduction to Greedy Techniques With Example | What are Greedy Techniques",
+      "duration": 1687
+    },
+    {
+      "id": "ush4t6rgjwU",
+      "title": "Job Sequencing Algorithm with Example | Greedy Techniques",
+      "duration": 2082
+    },
+    {
+      "id": "D5dVo2SIAjY",
+      "title": "Job Sequencing Algorithm with Example | Greedy Techniques | part 2",
+      "duration": 2468
+    },
+    {
+      "id": "opo00p2sUfM",
+      "title": "Knapsack Problem With Example| Greedy Techniques| Algorithm | part3",
+      "duration": 1008
+    },
+    {
+      "id": "ZNM5cQ4AqPI",
+      "title": "Knapsack Problem With Example| Greedy Techniques| Algorithm | part2",
+      "duration": 1964
+    },
+    {
+      "id": "IVWWy6WRXAI",
+      "title": "Knapsack Problem With Example| Greedy Techniques| Algorithm",
+      "duration": 2196
+    },
+    {
+      "id": "DdD_R0JPZDY",
+      "title": "Huffman Coding Algorithm in Hindi with Example | Greedy Techniques(Algorithm) | part 1",
+      "duration": 1921
+    },
+    {
+      "id": "YG8QuVHMnvs",
+      "title": "Huffman Coding Algorithm in Hindi with Example | Greedy Techniques(Algorithm) | part 2",
+      "duration": 2006
+    },
+    {
+      "id": "OD5cGshMwX0",
+      "title": "Huffman Coding Algorithm in Hindi with Example | Greedy Techniques(Algorithm) | part 3",
+      "duration": 1165
+    },
+    {
+      "id": "L2wMl45L6Pk",
+      "title": "Optimal Merge Pattern using Greedy Method in Hindi | Algorithm",
+      "duration": 1968
+    },
+    {
+      "id": "JaePvexa9ts",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm",
+      "duration": 1740
+    },
+    {
+      "id": "Idc0Wbsznk4",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 2",
+      "duration": 2873
+    },
+    {
+      "id": "UxWmSbx0zHo",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 3 (Kruskal's algo)",
+      "duration": 2386
+    },
+    {
+      "id": "Qkrg-uYB0P4",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 4 (Prim's algo)",
+      "duration": 2165
+    },
+    {
+      "id": "SXvni8uNDYY",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 5",
+      "duration": 2540
+    },
+    {
+      "id": "9vGyP-AFCqg",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 6",
+      "duration": 2455
+    },
+    {
+      "id": "B35utDy6Yyw",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 7",
+      "duration": 1766
+    },
+    {
+      "id": "-4dZZMnD-AI",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 8",
+      "duration": 1853
+    },
+    {
+      "id": "CtmFitSKDrw",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 9",
+      "duration": 1646
+    },
+    {
+      "id": "Rb-KgqGzr6Q",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 10",
+      "duration": 2088
+    },
+    {
+      "id": "4Uo1sCTIbXI",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 11",
+      "duration": 2168
+    },
+    {
+      "id": "ov-WQWIPekg",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 12",
+      "duration": 2064
+    },
+    {
+      "id": "cqQ6sBNSJVw",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 13",
+      "duration": 2418
+    },
+    {
+      "id": "IW4fZtPYMXA",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 14",
+      "duration": 2431
+    },
+    {
+      "id": "Ui6xrLrM6ao",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 15",
+      "duration": 2210
+    },
+    {
+      "id": "azzdOxCQdyc",
+      "title": "What is Spanning Tree with Examples in Hindi | Algorithm | part 16",
+      "duration": 2055
+    },
+    {
+      "id": "amCXYW9HiIA",
+      "title": "Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method part 1",
+      "duration": 2157
+    },
+    {
+      "id": "hAmjglb2_N0",
+      "title": "Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method part 2",
+      "duration": 2436
+    },
+    {
+      "id": "NcL2DZFxMHw",
+      "title": "Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method part 3.",
+      "duration": 2689
+    },
+    {
+      "id": "pBuTtjhlO6o",
+      "title": "Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method part 4",
+      "duration": 2188
+    },
+    {
+      "id": "D_51h3csTkM",
+      "title": "Bellman Ford Algorithm | Dijkstra's Vs Bellman Ford | Single Source Shortest Path | part 1",
+      "duration": 2151
+    },
+    {
+      "id": "Q5qd-jns-eY",
+      "title": "Bellman Ford Algorithm | Dijkstra's Vs Bellman Ford | Single Source Shortest Path | part 2",
+      "duration": 3297
+    },
+    {
+      "id": "U1WUSLdrtKA",
+      "title": "Topological Sorting with examples | Topological Sorting using DFS and BFS",
+      "duration": 2324
+    },
+    {
+      "id": "qw6K_0NlHHY",
+      "title": "Single Source Shortest Path in DAG(Directed Acyclic Graph)",
+      "duration": 1535
+    },
+    {
+      "id": "eZEY6lgp-yE",
+      "title": "Introduction to Dynamic Programming | Greedy Vs Dynamic Programming | Algorithm(DAA) | Part 1",
+      "duration": 2642
+    },
+    {
+      "id": "X4wMwnDuriE",
+      "title": "Introduction to Dynamic Programming | Greedy Vs Dynamic Programming | Algorithm(DAA) | Part 2",
+      "duration": 2780
+    },
+    {
+      "id": "EDxTu8KU91c",
+      "title": "Introduction to Dynamic Programming | Greedy Vs Dynamic Programming | Algorithm(DAA) | Part 3",
+      "duration": 1397
+    },
+    {
+      "id": "XwzePqXCnsY",
+      "title": "Matrix Chain Multiplication using Dynamic Programming | GATECSE | DAA | part 1",
+      "duration": 2870
+    },
+    {
+      "id": "7CTwTTSlzzc",
+      "title": "Matrix Chain Multiplication using Dynamic Programming | GATECSE | DAA | part 2",
+      "duration": 3067
+    },
+    {
+      "id": "V6GMNGGOnfA",
+      "title": "Matrix Chain Multiplication using Dynamic Programming | GATECSE | DAA | part 3",
+      "duration": 2983
+    },
+    {
+      "id": "9Bkw0yqwuew",
+      "title": "Matrix Chain Multiplication using Dynamic Programming | GATECSE | DAA | PYQs",
+      "duration": 2504
+    },
+    {
+      "id": "UqvrnyrIQUw",
+      "title": "Longest Common Subsequence Using Dynamic Programming | GATECSE | DAA | part 1",
+      "duration": 3136
+    },
+    {
+      "id": "2hwLTbe6-JI",
+      "title": "Longest Common Subsequence Using Dynamic Programming | GATECSE | DAA | part 2",
+      "duration": 3749
+    },
+    {
+      "id": "1GXDU1A3mT4",
+      "title": "Longest Common Subsequence Using Dynamic Programming | GATECSE | DAA | part 3",
+      "duration": 2638
+    },
+    {
+      "id": "DSIRS334hn8",
+      "title": "Longest Common Subsequence Using Dynamic Programming | GATECSE | DAA | part 4",
+      "duration": 3325
+    },
+    {
+      "id": "--m1po1uLNc",
+      "title": "Multistage Graph | Dynamic Programming | part 1",
+      "duration": 2357
+    },
+    {
+      "id": "BXmJIwqhcjg",
+      "title": "Multistage Graph | Dynamic Programming | part 2",
+      "duration": 2630
+    },
+    {
+      "id": "VlvFjFZ3RbU",
+      "title": "0/1 Knapsack Problem using Dynamic Programming || GATECSE || DAA",
+      "duration": 3192
+    },
+    {
+      "id": "BG5-o4qv4mo",
+      "title": "0/1 Knapsack Problem using Dynamic Programming || GATECSE || DAA | part 2",
+      "duration": 2297
+    },
+    {
+      "id": "q3Ss3TS4gAk",
+      "title": "0/1 Knapsack Problem using Dynamic Programming || GATECSE || DAA | part 3",
+      "duration": 4072
+    },
+    {
+      "id": "uB5DbBRXY6E",
+      "title": "Sum of Subsets Problem | Dynamic Programming | part 1",
+      "duration": 2656
+    },
+    {
+      "id": "N4n0Jp87B1k",
+      "title": "Sum of Subsets Problem | Dynamic Programming | part 2",
+      "duration": 2190
+    },
+    {
+      "id": "QQGLMh8NYms",
+      "title": "Traveling Salesman Problem | Dynamic Programming",
+      "duration": 2826
+    },
+    {
+      "id": "D-oOxd4vmDQ",
+      "title": "Floyd Warshall Working with example | All Pair Shortest Path Algorithm | part 1",
+      "duration": 2212
+    },
+    {
+      "id": "ujBgj6iO-Bg",
+      "title": "Floyd Warshall Working with example | All Pair Shortest Path Algorithm | part 2",
+      "duration": 1456
+    },
+    {
+      "id": "BsOg-iXgeDU",
+      "title": "What is hashing with example | Hashing in data structure | part 1",
+      "duration": 1708
+    },
+    {
+      "id": "3_9rwjT1T10",
+      "title": "What is hashing with example | Hashing in data structure | part 2",
+      "duration": 1979
+    },
+    {
+      "id": "S1NoZKrfez8",
+      "title": "What is hashing with example | Hashing in data structure | part 3",
+      "duration": 2137
+    },
+    {
+      "id": "yi0jjR0zAZI",
+      "title": "What is hashing with example | Hashing in data structure | part 4",
+      "duration": 2492
+    },
+    {
+      "id": "DPQGyKGgowU",
+      "title": "What is hashing with example | Hashing in data structure | part 5",
+      "duration": 1981
+    },
+    {
+      "id": "xJsB7RRGonY",
+      "title": "What is hashing with example | Hashing in data structure | part 6",
+      "duration": 2853
+    },
+    {
+      "id": "lIIMe_jV2GI",
+      "title": "What is hashing with example | Hashing in data structure | part 7:",
+      "duration": 1961
+    },
+    {
+      "id": "762Uh2SDxBw",
+      "title": "What is hashing with example | Hashing in data structure | part 8",
+      "duration": 2859
+    },
+    {
+      "id": "5b20rtwZPo4",
+      "title": "What is hashing with example | Hashing in data structure | part 9 (GATE PYQs)",
+      "duration": 2231
+    },
+    {
+      "id": "6S_RLk55tjU",
+      "title": "What is hashing with example | Hashing in data structure | part 10",
+      "duration": 1779
+    },
+    {
+      "id": "t4Tb3-zEcRw",
+      "title": "What is hashing with example | Hashing in data structure | part 11",
+      "duration": 3090
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "courseId": "node-js-crash-course-tutorial-0b71c1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:36.785Z",
+  "title": "Node.js Crash Course Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "zb3Qk8SG5Ms",
+      "title": "Node.js Crash Course Tutorial #1 - Introduction & Setup",
+      "duration": 997
+    },
+    {
+      "id": "OIBIXYLJjsI",
+      "title": "Node.js Crash Course Tutorial #2 - Node.js Basics",
+      "duration": 2564
+    },
+    {
+      "id": "-HPZ1leCV8k",
+      "title": "Node.js Crash Course Tutorial #3 - Clients & Servers",
+      "duration": 822
+    },
+    {
+      "id": "DQD00NAUPNk",
+      "title": "Node.js Crash Course Tutorial #4 - Requests & Responses",
+      "duration": 1614
+    },
+    {
+      "id": "bdHE2wHT-gQ",
+      "title": "Node.js Crash Course Tutorial #5 - NPM",
+      "duration": 1009
+    },
+    {
+      "id": "Lr9WUkeYSA8",
+      "title": "Node.js Crash Course Tutorial #6 - Express Apps",
+      "duration": 1149
+    },
+    {
+      "id": "yXEesONd_54",
+      "title": "Node.js Crash Course Tutorial #7 - View Engines",
+      "duration": 2159
+    },
+    {
+      "id": "_GJKAs7A0_4",
+      "title": "Node.js Crash Course Tutorial #8 - Middleware",
+      "duration": 958
+    },
+    {
+      "id": "bxsemcrY4gQ",
+      "title": "Node.js Crash Course Tutorial #9 - MongoDB",
+      "duration": 2156
+    },
+    {
+      "id": "VVGgacjzc2Y",
+      "title": "Node.js Crash Course Tutorial #10 - Get, Post & Delete Requests",
+      "duration": 2017
+    },
+    {
+      "id": "zW_tZR0Ir3Q",
+      "title": "Node.js Crash Course Tutorial #11 - Express Router & MVC",
+      "duration": 1349
+    },
+    {
+      "id": "nYAyhRAV87A",
+      "title": "Node.js Crash Course Tutorial #12 - Wrap up",
+      "duration": 273
+    }
+  ]
+}

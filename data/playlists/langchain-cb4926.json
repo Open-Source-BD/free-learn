@@ -1,0 +1,40 @@
+{
+  "courseId": "langchain-cb4926",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:58.960Z",
+  "title": "Langchain",
+  "channel": "Krish Naik Hindi",
+  "videos": [
+    {
+      "id": "tEL833CPhqw",
+      "title": "Langchain New Series- Why Langchain And Understanding Langchain Ecosystem- Krish Naik Hindi",
+      "duration": 707
+    },
+    {
+      "id": "qYq5xQ6pE_Q",
+      "title": "Tutorial 1- End To End Q&A Chatbot Using OpenAI And Open Source LLM's using Langchain And Ollama",
+      "duration": 1629
+    },
+    {
+      "id": "XksDaTxSAuE",
+      "title": "Tutorial 2- Deployment Open Source And OpenAI LLM Project As API With Langchain Langserve & FastAPI",
+      "duration": 1368
+    },
+    {
+      "id": "BnsK93aCyTA",
+      "title": "Tutorial 3- Getting Started With Q&A RAG Pipeline Using Langchain- Krish Naik Hindi",
+      "duration": 1463
+    },
+    {
+      "id": "CT3r0Eei9eU",
+      "title": "Tutorial 4-Advanced RAG Q&A Chatbot With Chain And Retrievers Using Langchain- Krish Naik Hindi",
+      "duration": 891
+    },
+    {
+      "id": "XXa82wxzKuA",
+      "title": "Tutorial 5-Building Advanced RAG With Multiple Data Source Using Langchain-Krish Naik Hindi",
+      "duration": 1699
+    }
+  ]
+}

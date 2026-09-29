@@ -1,0 +1,125 @@
+{
+  "courseId": "stanford-cs-224n-natural-language-processing-with-deep-learn-4efa93",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:59.879Z",
+  "title": "Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021",
+  "channel": "Stanford Online",
+  "videos": [
+    {
+      "id": "rmVRLeJRkl4",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors",
+      "duration": 5067
+    },
+    {
+      "id": "gqaHkPEZAew",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers",
+      "duration": 4518
+    },
+    {
+      "id": "X0Jw4kgaFlg",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks",
+      "duration": 4949
+    },
+    {
+      "id": "PSGIodTN3KE",
+      "title": "Stanford CS224N - NLP w/ DL | Winter 2021 | Lecture 4 - Syntactic Structure and Dependency Parsing",
+      "duration": 4882
+    },
+    {
+      "id": "PLryWeHPcBs",
+      "title": "Stanford CS224N -  NLP w/ DL | Winter 2021 | Lecture 5 - Recurrent Neural networks (RNNs)",
+      "duration": 4758
+    },
+    {
+      "id": "0LixFSa7yts",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs",
+      "duration": 4898
+    },
+    {
+      "id": "wzfWHP6SXxY",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention",
+      "duration": 4735
+    },
+    {
+      "id": "gKD7jPAdbpE",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 8 - Final Projects; Practical Tips",
+      "duration": 4858
+    },
+    {
+      "id": "ptuGllU5SQQ",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers",
+      "duration": 4617
+    },
+    {
+      "id": "j9AcEI98C0o",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 10 - Transformers and Pretraining",
+      "duration": 4906
+    },
+    {
+      "id": "NcqfHa0_YmU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Question Answering",
+      "duration": 6713
+    },
+    {
+      "id": "1uMo8olr5ng",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Natural Language Generation",
+      "duration": 4647
+    },
+    {
+      "id": "FFRnDRcbQQU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution",
+      "duration": 4906
+    },
+    {
+      "id": "iHWkLvoSpTg",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 14 - T5 and Large Language Models",
+      "duration": 5714
+    },
+    {
+      "id": "y68RJVfGoto",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models",
+      "duration": 4645
+    },
+    {
+      "id": "-Ldg4qFL6bU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 16 - Social & Ethical Considerations",
+      "duration": 6675
+    },
+    {
+      "id": "f_qmSSBWV_E",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation",
+      "duration": 4631
+    },
+    {
+      "id": "2t7Q9WVUaf8",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning",
+      "duration": 4806
+    },
+    {
+      "id": "mp95Z5yM92c",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation",
+      "duration": 4546
+    },
+    {
+      "id": "knTc-NQSjKA",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models",
+      "duration": 3269
+    },
+    {
+      "id": "iXjtJmUQBZk",
+      "title": "Stanford CS224N I NLP with Deep Learning | Spring 2022 | Socially Intelligent NLP Systems",
+      "duration": 5309
+    },
+    {
+      "id": "4ynrGLIuPv4",
+      "title": "Stanford CS224N NLP with Deep Learning |Spring 2022|Guest Lecture: Building Knowledge Representation",
+      "duration": 4932
+    },
+    {
+      "id": "UFem7xa3Q2Q",
+      "title": "Stanford CS224N NLP with Deep Learning | Spring 2022 | Guest Lecture: Scaling Language Models",
+      "duration": 4490
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "courseId": "machine-learning-in-hindi-794688",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:18.021Z",
+  "title": "Hindi Machine Learning Tutorial",
+  "channel": "codebasics Hindi",
+  "videos": [
+    {
+      "id": "qeJjdOeBS74",
+      "title": "Hindi Machine Learning Tutorial 1 - What is Machine Learning?",
+      "duration": 384
+    },
+    {
+      "id": "bZAHcsIw1wQ",
+      "title": "Hindi Machine Learning Tutorial 2 - Linear Regression Single Variable",
+      "duration": 869
+    },
+    {
+      "id": "QpgJgiB8u7M",
+      "title": "Hindi Machine Learning Tutorial 3 - Linear Regression Multiple Variables",
+      "duration": 787
+    },
+    {
+      "id": "Aym1Gx2wVK4",
+      "title": "Hindi Machine Learning Tutorial 4 - Gradient Descent and Cost Function",
+      "duration": 1722
+    },
+    {
+      "id": "Vh6a6JNdkeQ",
+      "title": "Hindi Machine Learning Tutorial 5 - Save Model Using Joblib And Pickle",
+      "duration": 490
+    },
+    {
+      "id": "7ZrU-FzZI5Y",
+      "title": "Hindi Machine Learning Tutorial 6 - Dummy Variables & One Hot Encoding",
+      "duration": 1293
+    },
+    {
+      "id": "kvoURXXWS1s",
+      "title": "Hindi Machine Learning Tutorial 7 - Training and Testing Data",
+      "duration": 804
+    },
+    {
+      "id": "ZllfSGxdMS0",
+      "title": "Hindi Machine Learning Tutorial 8 - Logistic Regression (Binary Classification)",
+      "duration": 1111
+    },
+    {
+      "id": "PAHui7lchMs",
+      "title": "Hindi Machine Learning Tutorial 9 - Logistic Regression (Multiclass Classification)",
+      "duration": 647
+    },
+    {
+      "id": "_Ft1qDzmX68",
+      "title": "Hindi Machine Learning Tutorial 10 - Decision Tree",
+      "duration": 1091
+    },
+    {
+      "id": "YeY3BPX-6-E",
+      "title": "Hindi Machine Learning Tutorial 11 - Support Vector Machine",
+      "duration": 1472
+    },
+    {
+      "id": "3ii9z8TqIKM",
+      "title": "Hindi Machine Learning Tutorial 12 - Random Forest",
+      "duration": 1180
+    },
+    {
+      "id": "o6QIWNVfbLk",
+      "title": "Hindi Machine Learning Tutorial 13  - K Fold Cross Validation",
+      "duration": 1370
+    },
+    {
+      "id": "YyXP7yCfOIU",
+      "title": "Hindi Machine Learning Tutorial 14 - K Means Clustering",
+      "duration": 1440
+    },
+    {
+      "id": "2iSGWHIpB5k",
+      "title": "Hindi Machine Learning Tutorial 15 - K nearest neighbors classification with python code",
+      "duration": 942
+    },
+    {
+      "id": "HxdUBaCnBdE",
+      "title": "Hindi Machine Learning Tutorial 16 - Principal Component Analysis (PCA) with Python Code",
+      "duration": 1759
+    },
+    {
+      "id": "y9x5vyW66Uo",
+      "title": "Hindi Machine Learning Tutorial 17 - Bias vs Variance In Machine Learning",
+      "duration": 858
+    },
+    {
+      "id": "IQUY0xoPSvo",
+      "title": "Hindi Machine Learning Tutorial 18 Ensemble Learning - Bagging",
+      "duration": 1530
+    }
+  ]
+}

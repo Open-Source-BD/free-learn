@@ -1,0 +1,60 @@
+{
+  "courseId": "jquery-beau-teaches-javascript-e8e994",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:43.347Z",
+  "title": "jQuery - Beau teaches JavaScript",
+  "channel": "freeCodeCamp.org",
+  "videos": [
+    {
+      "id": "KhtEmR2A1Fw",
+      "title": "Getting started with jQuery (tutorial) - Beau teaches JavaScript",
+      "duration": 276
+    },
+    {
+      "id": "IR7Jbkuh824",
+      "title": "jQuery events - Beau teaches JavaScript",
+      "duration": 364
+    },
+    {
+      "id": "nwK0pJQZMPI",
+      "title": "jQuery effects - Beau teaches JavaScript",
+      "duration": 478
+    },
+    {
+      "id": "ALhxxnTl5Co",
+      "title": "animate in jQuery - Beau teaches JavaScript",
+      "duration": 340
+    },
+    {
+      "id": "veL0_Rb97dE",
+      "title": "jQuery: get and set with http, text, val, and attr - Beau teaches JavaScript",
+      "duration": 458
+    },
+    {
+      "id": "0GKgrEJjJDE",
+      "title": "jQuery: add and remove DOM elements - Beau teaches JavaScript",
+      "duration": 263
+    },
+    {
+      "id": "MmtfrjLLjJ0",
+      "title": "jQuery: CSS and classes",
+      "duration": 332
+    },
+    {
+      "id": "Thnv77n2e6Q",
+      "title": "jQuery: Dom Traversal (find parent and child nodes) - Beau teaches JavaScript",
+      "duration": 411
+    },
+    {
+      "id": "Wl-VvvNCk2A",
+      "title": "jQuery: AJAX - Beau teaches JavaScript",
+      "duration": 361
+    },
+    {
+      "id": "X65s7WQLWJY",
+      "title": "jQuery vs vanilla JavaScript - Beau teaches JavaScript",
+      "duration": 309
+    }
+  ]
+}

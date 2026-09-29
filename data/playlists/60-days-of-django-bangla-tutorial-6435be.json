@@ -1,0 +1,300 @@
+{
+  "courseId": "60-days-of-django-bangla-tutorial-6435be",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:29.092Z",
+  "title": "60 Days of Django - Bangla Tutorial",
+  "channel": "Abu Noman Basar",
+  "videos": [
+    {
+      "id": "i8QylCWxYoE",
+      "title": "Day-01 - Why should learn Django?  || Future of Django | Django Bangla Tutorial",
+      "duration": 455
+    },
+    {
+      "id": "cnxPRDwv5QY",
+      "title": "Day-02 - Model View Template (MVT) | Django Bangla Tutorial",
+      "duration": 415
+    },
+    {
+      "id": "-F7DLAFpo98",
+      "title": "Day-03 - Pre-requirement of Django | Django Bangla Tutorial",
+      "duration": 419
+    },
+    {
+      "id": "EwTw5j88OsE",
+      "title": "Day-04 | How To Install Python & IDE (Visual Studio & Pycharm) For Django | Django Bangla Tutorial",
+      "duration": 620
+    },
+    {
+      "id": "hykmLt5RH0Y",
+      "title": "Day-05 | How To Install Visual Studio Code Extensions For Django | Django Bangla Tutorial",
+      "duration": 245
+    },
+    {
+      "id": "Qf6fbPjDZiA",
+      "title": "Day-06 - How to Install Django in Virtual Environment | Django Bangla Tutorial",
+      "duration": 805
+    },
+    {
+      "id": "w2EMgSGQ9Ww",
+      "title": "Day-07 - How to Install Django Globally | Django Bangla Tutorial",
+      "duration": 755
+    },
+    {
+      "id": "KFkvcyUagY0",
+      "title": "Day-08 - Project Structure | Django Bangla Tutorial",
+      "duration": 1160
+    },
+    {
+      "id": "yE8aKU2gMp4",
+      "title": "Day-09 - How to Create Application Using Django | Django Bangla Tutorial",
+      "duration": 743
+    },
+    {
+      "id": "vg3d_2azlus",
+      "title": "Day-10 - App Structure  & Print \"Welcome to Django\" | Django Bangla Tutorial",
+      "duration": 812
+    },
+    {
+      "id": "IfZF3zda7PU",
+      "title": "Day-11 - Function-based views and Urls | Django Bangla Tutorial",
+      "duration": 1271
+    },
+    {
+      "id": "GA-TuuW29dA",
+      "title": "Day-12 - Function-based view of multiple apps inside project | Django Bangla Tutorial",
+      "duration": 968
+    },
+    {
+      "id": "c-LayVfW_n8",
+      "title": "Day-13 - URL pattern inside app & Include ( )  | Django Bangla Tutorial",
+      "duration": 742
+    },
+    {
+      "id": "EB9Cn1U_0gw",
+      "title": "Day-14 - Create Template Folder Inside Project  & render() function | Django Bangla Tutorial",
+      "duration": 923
+    },
+    {
+      "id": "UuP_D8omQ-8",
+      "title": "Day-15 - Creating and rendering templates file for each app separately | Django Bangla Tutorial",
+      "duration": 1242
+    },
+    {
+      "id": "oJmnlfabI3c",
+      "title": "Day-16 - Django with HTML | Django Bangla Tutorial",
+      "duration": 1683
+    },
+    {
+      "id": "iBTR3cjBz6M",
+      "title": "Day-17 - Django Template Language (DTL) & Variable & Filter | Django Bangla Tutorial",
+      "duration": 1182
+    },
+    {
+      "id": "p_tezgSc-Gw",
+      "title": "Day-18 - Template Tags | Django Bangla Tutorial",
+      "duration": 1461
+    },
+    {
+      "id": "2-QGmopEcbI",
+      "title": "Day-19 - Template Inheritance | Django Bangla Tutorial",
+      "duration": 888
+    },
+    {
+      "id": "wnrAquX8ZZs",
+      "title": "Day-20 - Static File & Inheritance | Django Bangla Tutorial",
+      "duration": 937
+    },
+    {
+      "id": "EJ5ffbuEIWw",
+      "title": "Day-21 - Bootstrap With Django | Django Bangla Tutorial",
+      "duration": 584
+    },
+    {
+      "id": "qKrYf2eMP8Y",
+      "title": "Day-22 - Hyperlinks & URL Tag | Django Bangla Tutorial",
+      "duration": 659
+    },
+    {
+      "id": "ghakV-SttUI",
+      "title": "Day-23 - What are Cookies, ORM, and Model? And how works it. | Django Bangla Tutorial",
+      "duration": 1116
+    },
+    {
+      "id": "VYincGQFBdY",
+      "title": "Day-24 - What are makemigrations & migrate and how does it work.",
+      "duration": 1239
+    },
+    {
+      "id": "RORuKlsI3kU",
+      "title": "Day-25 - How to show the Database table's data & works all() method?",
+      "duration": 1375
+    },
+    {
+      "id": "vvYrHtYDY78",
+      "title": "Day-26 - How to create a superuser for the admin app?",
+      "duration": 766
+    },
+    {
+      "id": "vexyHVX5dZk",
+      "title": "Day-27 - How to register Model Class and ModelAdmin Class.",
+      "duration": 712
+    },
+    {
+      "id": "5JoF3kZ_AeE",
+      "title": "Day-28 - How to create Django Form and configure label tag and id attribute.",
+      "duration": 1234
+    },
+    {
+      "id": "tp_2cB9AQsk",
+      "title": "Day-29 - How to order &  render Form Fields manually.",
+      "duration": 872
+    },
+    {
+      "id": "N2OtwGFSHvU",
+      "title": "Day-30 - How to work Form Field Argument and Form widgets.",
+      "duration": 718
+    },
+    {
+      "id": "MgHyir3cxEI",
+      "title": "Day-31 - What are GET and POST methods and CSRF token?  And how do they work?",
+      "duration": 786
+    },
+    {
+      "id": "LSO16-ldiRE",
+      "title": "Day-32 - How to Validate Form Field Data & Cleaned Data.",
+      "duration": 1094
+    },
+    {
+      "id": "Tu7FxjmajAk",
+      "title": "Day-33 - How to work HttpResponseRedirect & different types of Form Field.",
+      "duration": 1390
+    },
+    {
+      "id": "JytZsr6Wrbo",
+      "title": "Day-34 - How to work Form Validation.",
+      "duration": 794
+    },
+    {
+      "id": "NAWRN42hWs0",
+      "title": "Day-35 - How to Match Form Field or Password Field.",
+      "duration": 862
+    },
+    {
+      "id": "tYpevsxI_2M",
+      "title": "Day-36 - How to Styling Django Form Using CSS (static file).",
+      "duration": 1215
+    },
+    {
+      "id": "gzXObZ91hrk",
+      "title": "Day-37 - How to save Form Data to Database.",
+      "duration": 1119
+    },
+    {
+      "id": "MjrIVyLEPxo",
+      "title": "Day-38 -  What is Authentication & Authorization? How works user Authentication.",
+      "duration": 1489
+    },
+    {
+      "id": "xfRuLxMo2Go",
+      "title": "Day-39 -  How to work UserCreationForm.",
+      "duration": 1596
+    },
+    {
+      "id": "KzuVVZdHdWA",
+      "title": "Day-40 -  How to Create Login Form using AuthenticationForm & Logout.",
+      "duration": 1809
+    },
+    {
+      "id": "MgQT_djvE2Q",
+      "title": "Day-41 -   How to work PasswordChangeForm and SetPasswordForm.",
+      "duration": 1645
+    },
+    {
+      "id": "tXfhhwtcvWc",
+      "title": "Day-42 -   How to work UserChangeForm.",
+      "duration": 976
+    },
+    {
+      "id": "3h9-KERgdm0",
+      "title": "Day-43 - How to work Middleware",
+      "duration": 1017
+    },
+    {
+      "id": "RfY2Tf7pcr0",
+      "title": "Day-44 - What is Model Relationship & how does it work?",
+      "duration": 760
+    },
+    {
+      "id": "ZQaJq9mPG5Y",
+      "title": "Day-45 - How to create One To One Relationship & how does it work?",
+      "duration": 985
+    },
+    {
+      "id": "wczN8rUjfcg",
+      "title": "Day-46 - How to create Many To One relationship and how does it work?",
+      "duration": 755
+    },
+    {
+      "id": "QMTMPEutYq8",
+      "title": "Day-47 - How to create Many To Many relationships and how does it work?",
+      "duration": 1117
+    },
+    {
+      "id": "BjgG48VHo2c",
+      "title": "Day-48 - How to work One To One, Many To One, Many To Many relationships.",
+      "duration": 1138
+    },
+    {
+      "id": "bgGRT4F94dM",
+      "title": "Day-49 - Django's Common problems and Solutions.",
+      "duration": 812
+    },
+    {
+      "id": "S_qCPxjOKRk",
+      "title": "Day-50 - Project (Home Work) with the full Roadmap.",
+      "duration": 434
+    },
+    {
+      "id": "eFtXG3KaqcM",
+      "title": "Day-51 - 60 days of Django, Course Reaction.",
+      "duration": 378
+    },
+    {
+      "id": "Eipf_cFt3Qc",
+      "title": "Day-52 - What is Class based view & how to create it?",
+      "duration": 869
+    },
+    {
+      "id": "NJeIOAC9usM",
+      "title": "Day-53 - What is TemplateView and how does it work?",
+      "duration": 551
+    },
+    {
+      "id": "CcAi8DY6Jms",
+      "title": "Day-54 -  What is RedirectView & how it works in Django?",
+      "duration": 902
+    },
+    {
+      "id": "w0cOGFR2XSo",
+      "title": "Day-55 - How to dynamic Reviews and Star ratings in Django?",
+      "duration": 1522
+    },
+    {
+      "id": "n97yz4ZbSP0",
+      "title": "Day-59 - Project ideas of Django.",
+      "duration": 604
+    },
+    {
+      "id": "2mtQZybBwS4",
+      "title": "Day-60 -  Finish the course.  What Next?",
+      "duration": 483
+    },
+    {
+      "id": "Z0PDMD3Smcc",
+      "title": "Django এবং Backend Development | সম্পূর্ণ Roadmap ও প্রজেক্ট",
+      "duration": 602
+    }
+  ]
+}

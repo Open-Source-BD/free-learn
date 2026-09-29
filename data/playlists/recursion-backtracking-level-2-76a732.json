@@ -1,0 +1,205 @@
+{
+  "courseId": "recursion-backtracking-level-2-76a732",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:32.764Z",
+  "title": "Backtracking - Level 2",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "LliQjLnbhx8",
+      "title": "How to Print Abbreviations using Recursion | Backtracking",
+      "duration": 1120
+    },
+    {
+      "id": "yvt0emtFiIE",
+      "title": "N Queens Problem using Backtracking | Branch and Bound Algorithm Explained",
+      "duration": 1688
+    },
+    {
+      "id": "XtmW3a8Q9M4",
+      "title": "How to Solve Maximum Score of Words Problem | Recursion and Backtracking",
+      "duration": 787
+    },
+    {
+      "id": "dzYq5VEMZIg",
+      "title": "Game of Execution - Josephus Problem | Recursion & Backtracking",
+      "duration": 1039
+    },
+    {
+      "id": "gRo86WqFYSE",
+      "title": "How to Print in Lexicographical Order using Recursion?? | Algorithms",
+      "duration": 1148
+    },
+    {
+      "id": "lNwXq3Ki32I",
+      "title": "Gold Mine - II | Path with Maximum Gold | Recursion & Backtracking",
+      "duration": 1872
+    },
+    {
+      "id": "uyetDh-DyDg",
+      "title": "How to Solve Sudoku using Backtracking | Recursion",
+      "duration": 1878
+    },
+    {
+      "id": "fUAZS-sdP2Q",
+      "title": "How to Solve Crossword Puzzle Using Recursion | Backtracking Algorithm",
+      "duration": 2492
+    },
+    {
+      "id": "RG5rWV6in38",
+      "title": "How to Solve Cryptarithmetic Puzzle using Backtracking | Data Structure and Algorithms",
+      "duration": 1062
+    },
+    {
+      "id": "qv_1Pstbm-w",
+      "title": "Friends Pairing using Backtracking | Backtracking Problems in JAVA",
+      "duration": 2763
+    },
+    {
+      "id": "TvvGj1FtHIk",
+      "title": "Partition in K Subsets | Recursion & Backtracking | Code and Implementation",
+      "duration": 1787
+    },
+    {
+      "id": "DwdWafLsGm0",
+      "title": "Palindromic Permutations of a String in JAVA | Recursion and Backtracking Algorithm",
+      "duration": 1330
+    },
+    {
+      "id": "wvaYrOp94k0",
+      "title": "Palindrome Partitioning of a String Recursive | Backtracking Algorithm in JAVA",
+      "duration": 567
+    },
+    {
+      "id": "rszwy53vaP0",
+      "title": "Equal Sum Subsets Partition - Recursive | Subset Sum Problem | Backtracking in JAVA",
+      "duration": 1176
+    },
+    {
+      "id": "aVMyXDuSLNM",
+      "title": "Word Pattern Matching using Backtracking | Leetcode Solutions in JAVA",
+      "duration": 1135
+    },
+    {
+      "id": "LmHWIsBQBU4",
+      "title": "Word Break Problem using Backtracking | Word Break Solution in JAVA",
+      "duration": 460
+    },
+    {
+      "id": "Cbbf5qe5stw",
+      "title": "Remove Invalid Parentheses Explained using Stacks | Leetcode 301 (Valid Parentheses) Code in JAVA",
+      "duration": 1400
+    },
+    {
+      "id": "5crucASFoA4",
+      "title": "Maximum Number after K Swaps | Maximum Swap Explained with Code using Backtracking",
+      "duration": 712
+    },
+    {
+      "id": "Q1fLW_zQr3M",
+      "title": "Minimum Subset Sum Difference Explained | Tug Of War | Recursion and Backtracking in JAVA",
+      "duration": 772
+    },
+    {
+      "id": "QKkHCS5bq0I",
+      "title": "Print Permutations using Backtracking | Backtracking Interview Problems",
+      "duration": 982
+    },
+    {
+      "id": "wOaxJAtJ2Mo",
+      "title": "Combinations in JAVA Recursive | Recursion Interview Problems | Backtracking",
+      "duration": 1076
+    },
+    {
+      "id": "NWFpebVkmTI",
+      "title": "How to Permute in JAVA - Part 2 | Permutations and Combinations Algorithm",
+      "duration": 1640
+    },
+    {
+      "id": "f6cL-VMIfTY",
+      "title": "Combinations Algorithm in JAVA - Part 2 | Permutations and Combination Algorithm Explained",
+      "duration": 1308
+    },
+    {
+      "id": "4-Makzrj5qM",
+      "title": "Permutations of a String Explained with Code | String Permutation Algorithm",
+      "duration": 1186
+    },
+    {
+      "id": "D7kSjpIVQFA",
+      "title": "Permutations of a String - Part 2 | String Permutation Algorithm Explained with Code",
+      "duration": 1172
+    },
+    {
+      "id": "PiwttDa5FMA",
+      "title": "Words K Selection - 1 | Select K Distinct Characters without Repetition using Backtracking",
+      "duration": 617
+    },
+    {
+      "id": "fy5mFaHVuRs",
+      "title": "Words K Selection - 2 | Select K Distinct Characters with Repetition using Backtracking",
+      "duration": 467
+    },
+    {
+      "id": "ZmAoj7wpMvM",
+      "title": "K Length Words - 1 | K Length Words of Distinct Characters | Backtracking Interview Questions",
+      "duration": 792
+    },
+    {
+      "id": "_geihPcxPag",
+      "title": "K Length Words - 2 | K Length Words of Distinct Characters | Backtracking Interview Questions",
+      "duration": 550
+    },
+    {
+      "id": "Ra_fCLyWtr0",
+      "title": "Queens Combinations - 1 | 2d as 2d - Box Chooses | Recursion Interview Question",
+      "duration": 550
+    },
+    {
+      "id": "mkl6KOwtdbk",
+      "title": "Queens Permutation - 1 | 2d as 2d - Queen Chooses | Recursion Interview Questions",
+      "duration": 306
+    },
+    {
+      "id": "5ujm7QQUwhs",
+      "title": "Queens Permutation - 2 | 2d As 2d - Box Chooses | Recursion Interview Questions",
+      "duration": 540
+    },
+    {
+      "id": "zOmrEPnrrJQ",
+      "title": "Queens Combination - 2 - Queen Chooses | Recursion Interview Questions",
+      "duration": 757
+    },
+    {
+      "id": "35JK-scUhpw",
+      "title": "Queens Combination - 3 | 2d As 1d - Queen Chooses | Recursion Interview Questions",
+      "duration": 729
+    },
+    {
+      "id": "U0dg2X14gYc",
+      "title": "N Queens Problem | Combination 2d as 1d - Queen Chooses | Backtracking Solution Explained with Code",
+      "duration": 438
+    },
+    {
+      "id": "BLy1wjhwHU8",
+      "title": "N Queens Problem | Permutations 2d as 1d - Queen Chooses | Backtracking Solution Explained with Code",
+      "duration": 736
+    },
+    {
+      "id": "XSlMg_VUfwk",
+      "title": "N Knights Combinations - Knight Chooses | Recursion Interview Questions",
+      "duration": 527
+    },
+    {
+      "id": "ZiwJdiSGXB4",
+      "title": "Coin Change Problem - Recursion - Part 1 | Coin Change Combination - 1 Explained with Code",
+      "duration": 314
+    },
+    {
+      "id": "onUoUZDtak8",
+      "title": "Coin Change Problem - Recursion - Part 2 | Coin Change Combination - 2 Explained with Code",
+      "duration": 580
+    }
+  ]
+}

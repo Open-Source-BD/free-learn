@@ -1,0 +1,395 @@
+{
+  "courseId": "android-app-development-for-beginners-playlist-56441c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:39.485Z",
+  "title": "Android App Development for Beginners Playlist",
+  "channel": "thenewboston",
+  "videos": [
+    {
+      "id": "QAbQgLGKd3Y",
+      "title": "Android App Development for Beginners - 1 - Introduction",
+      "duration": 590
+    },
+    {
+      "id": "zEsDwzjPJ5c",
+      "title": "Android App Development for Beginners - 2 - Installing Android Studio",
+      "duration": 335
+    },
+    {
+      "id": "r4oIez0sfvY",
+      "title": "Android App Development for Beginners - 3 - Setting up Your Project",
+      "duration": 398
+    },
+    {
+      "id": "qKRWC3Q8wRw",
+      "title": "Android App Development for Beginners - 4 - Running a Simple App",
+      "duration": 648
+    },
+    {
+      "id": "-pdTqBq2TFQ",
+      "title": "Android App Development for Beginners - 5 - Tour of the Interface",
+      "duration": 362
+    },
+    {
+      "id": "OUCjk_n3raM",
+      "title": "Android App Development for Beginners - 6 - Android Studio Tips",
+      "duration": 309
+    },
+    {
+      "id": "XWk5hKmgAmE",
+      "title": "Android App Development for Beginners - 7 - Create a Custom AVD",
+      "duration": 517
+    },
+    {
+      "id": "9l1lfWAiHPg",
+      "title": "Android App Development for Beginners - 8 - Basic Overview of an App",
+      "duration": 697
+    },
+    {
+      "id": "NMDPxN8FgXM",
+      "title": "Android App Development for Beginners - 9 - Activity States",
+      "duration": 380
+    },
+    {
+      "id": "9LbETUPM_sY",
+      "title": "Android App Development for Beginners - 10 - Running the State Changing Example",
+      "duration": 461
+    },
+    {
+      "id": "cOYzJN6A-JM",
+      "title": "Android App Development for Beginners - 11 - Designing the User Interface",
+      "duration": 440
+    },
+    {
+      "id": "72mf0rmjNAA",
+      "title": "Android App Development for Beginners - 12 - More on User Interface",
+      "duration": 625
+    },
+    {
+      "id": "MdOxtws4DsI",
+      "title": "Android App Development for Beginners - 13 - Create an Interface with Java",
+      "duration": 520
+    },
+    {
+      "id": "RLDqbEhUjVk",
+      "title": "Android App Development for Beginners - 14 - Adding Properties to Widgets",
+      "duration": 401
+    },
+    {
+      "id": "cXKsFHRG2_c",
+      "title": "Android App Development for Beginners - 15 - Adding More Widgets",
+      "duration": 530
+    },
+    {
+      "id": "dJPhexlBOiw",
+      "title": "Android App Development for Beginners - 16 - Converting DIP to Pixels",
+      "duration": 375
+    },
+    {
+      "id": "4bXOr5Rk1dk",
+      "title": "Android App Development for Beginners - 17 - GridLayout",
+      "duration": 581
+    },
+    {
+      "id": "oB9gpMqv-fg",
+      "title": "Android App Development for Beginners - 18 - Event Handling",
+      "duration": 471
+    },
+    {
+      "id": "jxoG_Y6dvU8",
+      "title": "Android App Development for Beginners - 19 - Event Listener and Callback Method",
+      "duration": 380
+    },
+    {
+      "id": "bBUeH5oNBxI",
+      "title": "Android App Development for Beginners - 20 - Multiple Event Listeners",
+      "duration": 353
+    },
+    {
+      "id": "zsNpiOihNXU",
+      "title": "Android App Development for Beginners - 21 - Gestures",
+      "duration": 751
+    },
+    {
+      "id": "V_KbEfhf1qc",
+      "title": "Android App Development for Beginners - 22 - Running the Gesture App",
+      "duration": 255
+    },
+    {
+      "id": "dQ6uc__qP-g",
+      "title": "Android App Development for Beginners - 23 - Fragments",
+      "duration": 332
+    },
+    {
+      "id": "PWAlLiy5p2k",
+      "title": "Android App Development for Beginners - 24 - Designing the Top Fragment",
+      "duration": 459
+    },
+    {
+      "id": "yOBQHf5nM2I",
+      "title": "Android App Development for Beginners - 25 - Creating the Fragment Class",
+      "duration": 400
+    },
+    {
+      "id": "dYy9adsIJDQ",
+      "title": "Android App Development for Beginners - 26 - Finishing the Meme Apps Design",
+      "duration": 500
+    },
+    {
+      "id": "vyykjIPNBXY",
+      "title": "Android App Development for Beginners - 27 - Listening for Button Clicks",
+      "duration": 383
+    },
+    {
+      "id": "MHHXxWbSaho",
+      "title": "Android App Development for Beginners - 28 - Communicating with Main Activity",
+      "duration": 432
+    },
+    {
+      "id": "BzCj2-6jZKo",
+      "title": "Android App Development for Beginners - 29 - Changing the Memes Text",
+      "duration": 324
+    },
+    {
+      "id": "sPvCEsGm8us",
+      "title": "Android App Development for Beginners - 30 - Dank Meme Bro",
+      "duration": 115
+    },
+    {
+      "id": "jNoLvbD-O6E",
+      "title": "Android App Development for Beginners - 31 - Master Detail Flow",
+      "duration": 581
+    },
+    {
+      "id": "iNzrUu784dY",
+      "title": "Android App Development for Beginners - 32 - Master Detail Flow Example",
+      "duration": 485
+    },
+    {
+      "id": "iwE1bnRlZw0",
+      "title": "Android App Development for Beginners - 33 - Overflow Menu",
+      "duration": 920
+    },
+    {
+      "id": "n4IyvL-ACbk",
+      "title": "Android App Development for Beginners - 34 - Animations and Transitions",
+      "duration": 872
+    },
+    {
+      "id": "06bcsMx-7QQ",
+      "title": "Android App Development for Beginners - 35 - Intents",
+      "duration": 439
+    },
+    {
+      "id": "mPGCLKRCG-8",
+      "title": "Android App Development for Beginners - 36 - Sending Extra Intent Data",
+      "duration": 688
+    },
+    {
+      "id": "X69q01TY1ic",
+      "title": "Android App Development for Beginners - 37 - Sending Broadcast Intents",
+      "duration": 444
+    },
+    {
+      "id": "htU_Rd-DW2U",
+      "title": "Android App Development for Beginners - 38 - Receiving Broadcast Intents",
+      "duration": 451
+    },
+    {
+      "id": "1TiEQ0WhvSU",
+      "title": "Android App Development for Beginners - 39 - Threads",
+      "duration": 580
+    },
+    {
+      "id": "SCwU-gy3HoM",
+      "title": "Android App Development for Beginners - 40 - Thread Handlers",
+      "duration": 501
+    },
+    {
+      "id": "-sBxmjrSn34",
+      "title": "Android App Development for Beginners - 41 - Intent Service",
+      "duration": 651
+    },
+    {
+      "id": "9YapLOfQ-dY",
+      "title": "Android App Development for Beginners - 42 - Services",
+      "duration": 642
+    },
+    {
+      "id": "0c4jRCm353c",
+      "title": "Android App Development for Beginners - 43 - Bound Services",
+      "duration": 623
+    },
+    {
+      "id": "zCj5Qzzex_A",
+      "title": "Android App Development for Beginners - 44 - Bound Services Example",
+      "duration": 574
+    },
+    {
+      "id": "U_Jvk4G28YE",
+      "title": "Android App Development for Beginners - 45 - ListView",
+      "duration": 457
+    },
+    {
+      "id": "A-_hKWMA7mk",
+      "title": "Android App Development for Beginners - 46 - ListView Example",
+      "duration": 501
+    },
+    {
+      "id": "_sStCBdJkQg",
+      "title": "Android App Development for Beginners - 47 - Custom ListView Row",
+      "duration": 515
+    },
+    {
+      "id": "nOdSARCVYic",
+      "title": "Android App Development for Beginners - 48 - Custom ListView Adapter",
+      "duration": 643
+    },
+    {
+      "id": "_vQaOvPsLko",
+      "title": "Android App Development for Beginners - 49 - Saving Data with SQLite",
+      "duration": 271
+    },
+    {
+      "id": "q3rhteIierY",
+      "title": "Android App Development for Beginners - 50 - SQLite Database Product",
+      "duration": 249
+    },
+    {
+      "id": "Jcmp09LkU-I",
+      "title": "Android App Development for Beginners - 51 - Creating a New SQLite Database",
+      "duration": 672
+    },
+    {
+      "id": "GAyvtK4cWLA",
+      "title": "Android App Development for Beginners - 52 - Adding and Deleting Rows",
+      "duration": 677
+    },
+    {
+      "id": "bTWJ8d1hbvw",
+      "title": "Android App Development for Beginners - 53 - Printing Database Results",
+      "duration": 372
+    },
+    {
+      "id": "PrMhjEh2ySk",
+      "title": "Android App Development for Beginners - 54 - Testing the SQLite App",
+      "duration": 586
+    },
+    {
+      "id": "oF9yZenJtjI",
+      "title": "Android App Development for Beginners - 55 - Playing Video",
+      "duration": 625
+    },
+    {
+      "id": "my8PSy2DBsY",
+      "title": "Android App Development for Beginners - 56 - Image Capture",
+      "duration": 441
+    },
+    {
+      "id": "k1Wc0vmD284",
+      "title": "Android App Development for Beginners - 57 - Taking Photos with the Camera",
+      "duration": 537
+    },
+    {
+      "id": "4x_G2j_0IH0",
+      "title": "Android App Development for Beginners - 58 - Image Effects",
+      "duration": 586
+    },
+    {
+      "id": "bCxTdk4xJpU",
+      "title": "Android App Development for Beginners - 59 - Inverting an Image",
+      "duration": 593
+    },
+    {
+      "id": "hR8Uw9cy50U",
+      "title": "Android App Development for Beginners - 60 - Creating Photo Filters",
+      "duration": 406
+    },
+    {
+      "id": "SWsuijO5NGE",
+      "title": "Android App Development for Beginners - 61 - Notifications",
+      "duration": 516
+    },
+    {
+      "id": "NgQzJ0s0XmM",
+      "title": "Android App Development for Beginners - 62 - Custom Notifications",
+      "duration": 612
+    },
+    {
+      "id": "S2V5jlLjwPU",
+      "title": "Android App Development for Beginners - 63 - Styles",
+      "duration": 558
+    },
+    {
+      "id": "3g-HKRJrtnI",
+      "title": "Android App Development for Beginners - 64 - Themes",
+      "duration": 384
+    },
+    {
+      "id": "hCJkUd7YEXs",
+      "title": "Android App Development for Beginners - 65 - Shared Preferences",
+      "duration": 412
+    },
+    {
+      "id": "xv_JJbjDQ3M",
+      "title": "Android App Development for Beginners - 66 - Shared Preferences Example",
+      "duration": 682
+    },
+    {
+      "id": "vjCrPlEEZBo",
+      "title": "Android App Development for Beginners - 67 - Custom Launcher Icon",
+      "duration": 411
+    },
+    {
+      "id": "ESNum4uyhEI",
+      "title": "Android App Development for Beginners - 68 - Working with GitHub",
+      "duration": 433
+    },
+    {
+      "id": "z8QVkvR2Rck",
+      "title": "Android App Development for Beginners - 69 - Creating an APK File for Distribution",
+      "duration": 377
+    },
+    {
+      "id": "p_hp6vMeewQ",
+      "title": "Android App Development for Beginners - 70 - LibGDX Game Development",
+      "duration": 385
+    },
+    {
+      "id": "wCjbRq8MPVY",
+      "title": "Android App Development for Beginners - 71 - LibGDX Game Project Structure",
+      "duration": 284
+    },
+    {
+      "id": "e2A_9LBxNOg",
+      "title": "Android App Development for Beginners - 72 - LibGDX Displaying Text",
+      "duration": 586
+    },
+    {
+      "id": "iNzdk29Hrmw",
+      "title": "Android App Development for Beginners - 73 - LibGDX Displaying Images",
+      "duration": 356
+    },
+    {
+      "id": "vjgdX95HVrM",
+      "title": "Android App Development for Beginners - 74 - LibGDX Game Animation",
+      "duration": 761
+    },
+    {
+      "id": "N9AqGS_Tlnw",
+      "title": "Android App Development for Beginners - 75 - LibGDX Handling User Input",
+      "duration": 815
+    },
+    {
+      "id": "6IWhrl--Aa4",
+      "title": "Android App Development for Beginners - 76 - LibGDX Camera",
+      "duration": 686
+    },
+    {
+      "id": "t1YhuHHMFd0",
+      "title": "Android App Development for Beginners - 77 - LibGDX Sound Effects and Streaming Music",
+      "duration": 704
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "courseId": "three-js-tutorials-bc0e0b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:48.682Z",
+  "title": "Three.js Tutorials",
+  "channel": "Wael Yasmina",
+  "videos": [
+    {
+      "id": "xJAfLdUgdc4",
+      "title": "Three.js Tutorial For Absolute Beginners",
+      "duration": 3206
+    },
+    {
+      "id": "XXzqSAt3UIw",
+      "title": "How To Make An Object Rotate Around Another Object In Three.js - Create A Solar System",
+      "duration": 789
+    },
+    {
+      "id": "GByT8ActvDk",
+      "title": "How To Export 3D Models With Their Animation From Blender And Import Them Into Your Three.js App",
+      "duration": 634
+    },
+    {
+      "id": "xZM8UJqN1eY",
+      "title": "GLSL & Shaders Tutorial - Understanding The Syntax And The Idea Behind The Vertex & Fragment Shaders",
+      "duration": 1570
+    },
+    {
+      "id": "TPKWohwHrbo",
+      "title": "Cannon.js Tutorial For Beginners - Add Gravity, Collision, And Other Physics Laws To Your 3D Web App",
+      "duration": 918
+    },
+    {
+      "id": "By9qRmcrTzs",
+      "title": "How To Create Objects On Mouse Click In Three.js",
+      "duration": 358
+    },
+    {
+      "id": "mTPDaw2piKg",
+      "title": "How To Create Multi-Colored Bouncing Balls On Mouse Click Using Three.js And Cannon.js",
+      "duration": 531
+    },
+    {
+      "id": "oQbfy8QP8Lc",
+      "title": "How To Subdivide A Plane Into Even Squares In Three.js",
+      "duration": 647
+    },
+    {
+      "id": "H-LZ90pZ3rY",
+      "title": "How To Find The Materials Of A Loaded Model  - Three.js Tutorial",
+      "duration": 429
+    },
+    {
+      "id": "Q3UqOJrdugY",
+      "title": "Cloning And Animating Models Loaded From glTF Files - Three.js Tutorial",
+      "duration": 447
+    },
+    {
+      "id": "6XvqaokjuYU",
+      "title": "How To Create Realistic Scenes In Three.js - Tone Mapping, HDR, Gamma Correction, sRGB Color Space",
+      "duration": 904
+    },
+    {
+      "id": "f1RbD_wkGpc",
+      "title": "How To Import A Model From Sketchfab.com Into Your Three.js Web App",
+      "duration": 489
+    },
+    {
+      "id": "viSLL3-PgDE",
+      "title": "Replacing Models & GLTF Caching In Three.js",
+      "duration": 362
+    },
+    {
+      "id": "zMzuPIiznQ4",
+      "title": "How To Create A Loading Screen For Your Three.js App",
+      "duration": 429
+    },
+    {
+      "id": "O2ouLOL6C4c",
+      "title": "Camera Movement In Three.js Using GSAP",
+      "duration": 658
+    },
+    {
+      "id": "U-ZiSLwicK8",
+      "title": "Create An Immersive Experience With Three.js And GSAP",
+      "duration": 395
+    },
+    {
+      "id": "ohEtw-F1FR8",
+      "title": "Path Following Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 697
+    },
+    {
+      "id": "eTA3VLEekAo",
+      "title": "Create A Self-Driving Car Using Three.js & Yuka - 3D/AI Tutorial",
+      "duration": 258
+    },
+    {
+      "id": "fkdlUCOjyyw",
+      "title": "Seek Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 210
+    },
+    {
+      "id": "JZFAInnWVuM",
+      "title": "Arrive Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 190
+    },
+    {
+      "id": "bPKdiaaLoqM",
+      "title": "Make A Vehicle Go To A Certain Position On Mouse Click - Three.js & Yuka Tutorial",
+      "duration": 501
+    },
+    {
+      "id": "oiRoIImlsEA",
+      "title": "Obstacle Avoidance Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 324
+    },
+    {
+      "id": "apoFCaxUlg8",
+      "title": "Flee Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 225
+    },
+    {
+      "id": "VvJ6Y8uRBs8",
+      "title": "Wander Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 179
+    },
+    {
+      "id": "v0eQ6hibHuY",
+      "title": "Clone And Animate Randomly Moving Fishes Using Three.js & Yuka",
+      "duration": 236
+    },
+    {
+      "id": "PNXpgclCjk0",
+      "title": "Pursuit Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 236
+    },
+    {
+      "id": "YEF9wLzkFiE",
+      "title": "Offset Pursuit Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 200
+    },
+    {
+      "id": "QGSIpLwmlrU",
+      "title": "Flocking Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 231
+    },
+    {
+      "id": "pnHnPBeAvL0",
+      "title": "Interpose Steering Behavior With Yuka - Three.js & AI Tutorial",
+      "duration": 229
+    },
+    {
+      "id": "Nxd9L6X8quo",
+      "title": "Your Guide To The Orbit Controls Module In Three.js",
+      "duration": 497
+    },
+    {
+      "id": "0GPLUJfH1PI",
+      "title": "How To Create A Realistic Sphere Of Glass Using Three.js",
+      "duration": 124
+    },
+    {
+      "id": "ZtK70Tb9uqg",
+      "title": "Unreal Bloom Pass - Three.js Post-Processing Tutorial",
+      "duration": 344
+    },
+    {
+      "id": "dD1MWj0rgvE",
+      "title": "Lock Constraint With Cannon-es | Three.js Physics Tutorial",
+      "duration": 445
+    },
+    {
+      "id": "L3URxWjueyg",
+      "title": "How To Make A Loaded Model Cast Shadow In Three.js",
+      "duration": 112
+    },
+    {
+      "id": "4PAq3aaL8BE",
+      "title": "How To Chain A Model Animations In Three.js",
+      "duration": 201
+    },
+    {
+      "id": "Admy7aU5ya0",
+      "title": "Distance Constraint With Cannon-es - Three.js Physics Tutorial",
+      "duration": 407
+    },
+    {
+      "id": "4OYAY_waAdw",
+      "title": "Make Obstacles And Restricted Areas In A Map Using Navigation Meshes - Three.js & Yuka Tutorial",
+      "duration": 1241
+    },
+    {
+      "id": "PFfV7o6e_c4",
+      "title": "Cloth Simulation Using Distance Constraint - Three.js & Cannon-es Tutorial",
+      "duration": 546
+    },
+    {
+      "id": "JKoNDsl9jc8",
+      "title": "Finite State Machines With Yuka And Three.js - A.I And WebGL Tutorial",
+      "duration": 1019
+    },
+    {
+      "id": "0ZW3xrFhY3w",
+      "title": "How To Add HTML Elements To A Three.js Scene",
+      "duration": 672
+    },
+    {
+      "id": "dKg5H1OtDK8",
+      "title": "Create 100,000+ Objects With Instancing - Three.js Instanced Rendering Tutorial",
+      "duration": 710
+    },
+    {
+      "id": "lhftxg7dppo",
+      "title": ".glb/.gltf Files Compression With Draco Loader - Three.js Models Size Reduction Tutorial",
+      "duration": 187
+    },
+    {
+      "id": "WIZ5kbeVMkM",
+      "title": "Create A 3D Driving Test Quiz Using Three.js, Yuka, and GSAP",
+      "duration": 3560
+    },
+    {
+      "id": "2Ie4wdjQisc",
+      "title": "Create A 3D Card Game Using Three.js And GSAP",
+      "duration": 2583
+    },
+    {
+      "id": "tv_VTWlpE0w",
+      "title": "Object Occlusion In Three.js",
+      "duration": 642
+    },
+    {
+      "id": "ZHIm_RXfYBM",
+      "title": "Smooth Camera Zoom In Three.js",
+      "duration": 122
+    },
+    {
+      "id": "IsRBxh4Jb18",
+      "title": "Better Performance With LOD (Level Of Detail) In Three.js",
+      "duration": 368
+    },
+    {
+      "id": "gyAdWWZRNBY",
+      "title": "How To Host Your Three.js App On Github Pages",
+      "duration": 202
+    },
+    {
+      "id": "9dbt28PAzmo",
+      "title": "Gimbal Lock And Quaternions - Three.js Tutorial",
+      "duration": 553
+    },
+    {
+      "id": "tpxk0vO3WnA",
+      "title": "Layers in Three.js",
+      "duration": 131
+    },
+    {
+      "id": "VTKi70bCVwQ",
+      "title": "Unreal Bloom Selective - Three.js Tutorial",
+      "duration": 711
+    },
+    {
+      "id": "QMzmIV91ajs",
+      "title": "GLSL Snacks - Episode 5.0",
+      "duration": 88
+    },
+    {
+      "id": "tPZ3TyQVM1E",
+      "title": "GLSL Snacks - Episode 7.0",
+      "duration": 78
+    },
+    {
+      "id": "95Xu6_e5O0s",
+      "title": "GLSL Snacks - Episode 8.0",
+      "duration": 100
+    },
+    {
+      "id": "6mVB93NnfqQ",
+      "title": "GLSL Snacks - Episode 9.0",
+      "duration": 111
+    },
+    {
+      "id": "bfqlPHI3TzE",
+      "title": "Cursor Following Camera Animation - Three.js Tutorial",
+      "duration": 141
+    },
+    {
+      "id": "KEMZR3unWTE",
+      "title": "How To Make An Animated Blob Using Vertex Shader And Perlin Noise - Three.js Tutorial",
+      "duration": 175
+    },
+    {
+      "id": "qDIF2z_VtHs",
+      "title": "How To Create A 3D Audio Visualizer Using Three.js",
+      "duration": 607
+    },
+    {
+      "id": "SOaJVCGiSrw",
+      "title": "How To Make Your Shader Material Affected By Light - Extend Three.js Built-in Materials",
+      "duration": 271
+    },
+    {
+      "id": "OvC0jTrx0FU",
+      "title": "How To Use Raycaster In A Non FullScreen Scene In Three.js",
+      "duration": 134
+    },
+    {
+      "id": "tdV-4EICEow",
+      "title": "How To Make A Minimap In Three.js",
+      "duration": 536
+    },
+    {
+      "id": "jwQOPC5Sv5g",
+      "title": "Associate Map Objects With Minimap Symbols - Three.js Tutorial",
+      "duration": 762
+    },
+    {
+      "id": "nwiaqLGAyjo",
+      "title": "How To Make An Object Follow A Path In Three.js",
+      "duration": 126
+    },
+    {
+      "id": "Tgg4sjXPSzo",
+      "title": "Add Moving Objects And Associate Them With Minimap Symbols - Three.js Tutorial",
+      "duration": 368
+    },
+    {
+      "id": "P7Lley9BjGA",
+      "title": "Bones, Skeletons, And SkinnedMeshes In Three.js",
+      "duration": 171
+    },
+    {
+      "id": "017kfUTcAPE",
+      "title": "How To Make A Model's Head Face The Cursor's Position - Three.js Tutorial",
+      "duration": 251
+    },
+    {
+      "id": "5V-qfcllnSU",
+      "title": "Batching in Three js",
+      "duration": 428
+    },
+    {
+      "id": "1qZliMLT52Y",
+      "title": "Animating Lines & Curves in Three.js Using MeshLine",
+      "duration": 271
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "courseId": "flask-web-development-with-python-bangla-e20aad",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:12:43.632Z",
+  "title": "Flask Web Development with python (Bangla)",
+  "channel": "Naimul Hawk",
+  "videos": [
+    {
+      "id": "aONcnOiWSIk",
+      "title": "Flask web development tutorial - 1 (Bangla) - Simple App",
+      "duration": 648
+    },
+    {
+      "id": "XAgRw-hI3lI",
+      "title": "Flask web development tutorial - 2 (Bangla) - Passing parameters using HTTP GET Post",
+      "duration": 343
+    },
+    {
+      "id": "rO8Sqdzav50",
+      "title": "Flask web development tutorial - 3 (Bangla) - HTTP Response",
+      "duration": 264
+    },
+    {
+      "id": "C2IsmRkwyRU",
+      "title": "Flask web development tutorial - 4 (Bangla) - Template",
+      "duration": 476
+    },
+    {
+      "id": "x7HWqsUPiEM",
+      "title": "Flask web development tutorial - 5 (Bangla) - Bootstrap",
+      "duration": 779
+    },
+    {
+      "id": "EDNpd-7vaJ8",
+      "title": "Setting up python development environment for windows - python and pip command (Bangla)",
+      "duration": 224
+    },
+    {
+      "id": "N50cAyCstvs",
+      "title": "Flask web development tutorial - 6 (Bangla) - Cross-Site Request Forgery (CSRF) Protection",
+      "duration": 591
+    },
+    {
+      "id": "aPXnXonvuvI",
+      "title": "Flask web development tutorial - 7 (Bangla) - Creating Forms",
+      "duration": 1395
+    }
+  ]
+}

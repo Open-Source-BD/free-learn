@@ -1,0 +1,175 @@
+{
+  "courseId": "natural-language-processing-with-deep-nlp-from-zero-to-hero-15853a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:18.776Z",
+  "title": "Natural Language Processing (NLP) with Deep NLP from Zero to Hero | A Deep Dive into NLP with Python | Sequence Models | NLP in Hindi/Urdu",
+  "channel": "Fahad Hussain",
+  "videos": [
+    {
+      "id": "4-Tkt96al_A",
+      "title": "Tutorial 01: Natural Language Processing using Python in A.I | Basic of NLP and Types Applications",
+      "duration": 1150
+    },
+    {
+      "id": "mD2__hAuUD0",
+      "title": "Tutorial 02: Natural language Understanding and Generation How NLP Works in Artificial intelligence",
+      "duration": 575
+    },
+    {
+      "id": "okcqWyAzo4k",
+      "title": "Tutorial 03: Tokenization in NLP using Python and Spacy | Word and Sentence Tokenization Explained",
+      "duration": 1609
+    },
+    {
+      "id": "nyz5l3vIOv8",
+      "title": "Tutorial 04: Lemmatization in NLP using Python in Urdu|Tokenization vs lemmatization in NLP in Hindi",
+      "duration": 711
+    },
+    {
+      "id": "cCdgt3WhMSY",
+      "title": "Tutorial 05: Stopwords in Natural Language Processing Hindi/Urdu | How to Add and Remove Stopwords",
+      "duration": 545
+    },
+    {
+      "id": "kHp-pCXMuq0",
+      "title": "Tutorial 06: Vocabulary and Phrase Matching in NLP Python Hindi/Urdu | nlp.vocab Phrasematcher",
+      "duration": 1061
+    },
+    {
+      "id": "B1ldTxppdXs",
+      "title": "Tutorial 07: POS Tagging and Visualizing in NLP Hindi | View token tags | Fine grained tags|POS tags",
+      "duration": 1068
+    },
+    {
+      "id": "4ZIuxhlyofY",
+      "title": "Tutorial 08: Name Entity Recognition in NLP using Spacy | NER Tags Noun-chunk entity annotation NLP",
+      "duration": 1243
+    },
+    {
+      "id": "eWUWV0dbkLw",
+      "title": "Tutorial 09: Sentence Segmentation in NLP with Deep NLP|Sentence Segmentation IN SPACY with own rule",
+      "duration": 988
+    },
+    {
+      "id": "lRXazFTSQpo",
+      "title": "Tutorial 10: Stemming in NLP using Spacy NTLK | Stemming Porter Stemming Snowball Stemming in NLP",
+      "duration": 1109
+    },
+    {
+      "id": "kI0yM3GlIgU",
+      "title": "Tutorial 11: Gentle Introduction of Bag of words in NLP with Deep NLP using Python in Hindi / Urdu",
+      "duration": 1056
+    },
+    {
+      "id": "yTCVFR9IWXo",
+      "title": "Tutorial 12: Feature Extraction in NLP using Document Frequency Inverse Document Frequency, TF-IDF",
+      "duration": 875
+    },
+    {
+      "id": "62v74JmNFZA",
+      "title": "Tutorial 13: Hashing with HashingVectorizer in NLP | What is hashingvectorizer in NLP using python",
+      "duration": 592
+    },
+    {
+      "id": "f9aRzT5jaaM",
+      "title": "Tutorial 14: N-grams in NLP with basic example in Python |bigram unigram trigram in NLP using python",
+      "duration": 566
+    },
+    {
+      "id": "wOZwKr9QV-4",
+      "title": "Tutorial 15: How to Prepare Text Data with KERAS in NLP | Data Cleaning in NLP using KERAS",
+      "duration": 872
+    },
+    {
+      "id": "l8nA65ottco",
+      "title": "Tutorial 16: Part 1 - Text Classification in NLP using Machine Learning (Logistic Regression) Python",
+      "duration": 1286
+    },
+    {
+      "id": "5XhCCc76cIo",
+      "title": "Tutorial 17: Part 2 - Logistic Regression in NLP using countvectorizer, tfidfvectorizer, pipeline",
+      "duration": 685
+    },
+    {
+      "id": "_PM8R5Bnc68",
+      "title": "Tutorial 18: Text Classification using SVM classifier including tfidfvectorizer and pipeline in NLP",
+      "duration": 1212
+    },
+    {
+      "id": "v88Vt-YvdLY",
+      "title": "Tutorial 19: Text classification using K Nearest Neighbors including tfidfvectorizer and pipeline",
+      "duration": 957
+    },
+    {
+      "id": "bKFNJbthp9c",
+      "title": "Tutorial 20: Text classification Naive Bayes Multinomial Classifier tfidfvectorizer and pipeline",
+      "duration": 1045
+    },
+    {
+      "id": "iiYRYBoeJHc",
+      "title": "Tutorial 21: Sentiment/Text Classification for Restaurant Reviews using Machine Learning models",
+      "duration": 1389
+    },
+    {
+      "id": "RJDOHlkh1Y8",
+      "title": "Tutorial 22: Word Embedding using Word2Vec | Word2Vec using Continuous bag-of-words CBOW, Skip Gram",
+      "duration": 856
+    },
+    {
+      "id": "C7kkF6nhKOU",
+      "title": "Tutorial 23: word2vec using Gensim and Spacy with FREE [SOURCE CODE] | word embedding vs word2vec",
+      "duration": 802
+    },
+    {
+      "id": "9p1KYtYAus8",
+      "title": "Tutorial 24: Sentiment Analysis of Amazon Reviews using NLTK VADER MODULE PYTHON with [SOURCE CODE]",
+      "duration": 1415
+    },
+    {
+      "id": "09V-9Km6HLQ",
+      "title": "Tutorial 25: Topic Modeling using Latent Dirichlet Allocation (LDA) Theory | LDA TOPIC MODELING",
+      "duration": 1068
+    },
+    {
+      "id": "uFftNaq1m-o",
+      "title": "Tutorial 26: [PRACTICAL] - Topic Modeling using Latent Dirichlet Allocation | TOPIC MODELING Python",
+      "duration": 1401
+    },
+    {
+      "id": "xqYTvDmt04c",
+      "title": "Tutorial 27: Topic Modeling using NMF using Sklearn 20 Newsgroups |Non-negative matrix factorization",
+      "duration": 915
+    },
+    {
+      "id": "3w_UGxpsrHU",
+      "title": "Tutorial 28:Topic Modeling using non negative matrix factorization NMF NATIONAL PUBLIC RADIO dataset",
+      "duration": 1186
+    },
+    {
+      "id": "l4XX_X-9uoc",
+      "title": "Tutorial 29: NLP Deep Learning | Perceptron | Activation Function | Artificial Neural Network NLP",
+      "duration": 1647
+    },
+    {
+      "id": "6JPUFB3v0YU",
+      "title": "Tutorial 30: Keras Basic for NLP | TensorFlow Keras Classification using IRIS dataset [ANN]",
+      "duration": 1995
+    },
+    {
+      "id": "AfVhsg9jJNA",
+      "title": "Tutorial 31: Stanza NLP Toolkit for Urdu Hindi and English Language | NLP for Urdu/Hindi Language",
+      "duration": 1476
+    },
+    {
+      "id": "fciKiVonudQ",
+      "title": "Tutorial 32: iNLTK -Natural Language Toolkit for Indic Languages| iNLTK with Python Fahad Hussain CS",
+      "duration": 982
+    },
+    {
+      "id": "uHtVuU3FbZU",
+      "title": "Tutorial 33: Text Generation using Recurrent Neural Network Python Keras | RNN vs LSTM vs GRU",
+      "duration": 1806
+    }
+  ]
+}

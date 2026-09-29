@@ -1,0 +1,70 @@
+{
+  "courseId": "python-tutorials-6ecea9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:13.861Z",
+  "title": "Python Tutorials",
+  "channel": "freeCodeCamp.org",
+  "videos": [
+    {
+      "id": "eWRfhZUzrAc",
+      "title": "Python for Beginners – Full Course [Programming Tutorial]",
+      "duration": 16800
+    },
+    {
+      "id": "HGOBQPFzWKo",
+      "title": "Intermediate Python Programming Course",
+      "duration": 21347
+    },
+    {
+      "id": "8DvywoWv6fI",
+      "title": "Python for Everybody - Full University Python Course",
+      "duration": 49210
+    },
+    {
+      "id": "Ej_02ICOIgs",
+      "title": "Object Oriented Programming with Python - Full Course for Beginners",
+      "duration": 7955
+    },
+    {
+      "id": "LHBE6Q9XlzI",
+      "title": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
+      "duration": 44392
+    },
+    {
+      "id": "Qr4QMBUPxWo",
+      "title": "Flask Course - Python Web Application Development",
+      "duration": 22864
+    },
+    {
+      "id": "o0XbHvKxw7Y",
+      "title": "Django For Everybody - Full Python University Course",
+      "duration": 66766
+    },
+    {
+      "id": "WcDaZ67TVRo",
+      "title": "Data Analysis with Python for Excel Users - Full Course",
+      "duration": 14266
+    },
+    {
+      "id": "YXPyB4XeYLA",
+      "title": "Tkinter Course - Create Graphic User Interfaces in Python Tutorial",
+      "duration": 20251
+    },
+    {
+      "id": "0sOvCWFmrtA",
+      "title": "Python API Development - Comprehensive Course for Beginners",
+      "duration": 68427
+    },
+    {
+      "id": "jBzwzrDvZ18",
+      "title": "Python Backend Web Development Course (with Django)",
+      "duration": 36712
+    },
+    {
+      "id": "pkYVOmU3MgA",
+      "title": "Data Structures and Algorithms in Python - Full Course for Beginners",
+      "duration": 45050
+    }
+  ]
+}

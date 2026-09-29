@@ -1,0 +1,105 @@
+{
+  "courseId": "docker-cf64d4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:45.234Z",
+  "title": "Docker",
+  "channel": "Automation Step by Step",
+  "videos": [
+    {
+      "id": "wi-MGFhrad0",
+      "title": "Docker Beginner Tutorial 1 - What is DOCKER (step by step) | Docker Introduction | Docker basics",
+      "duration": 361
+    },
+    {
+      "id": "0e-KiGJIiDc",
+      "title": "Docker Beginner Tutorial 2 - How DOCKER works | Docker Architecture",
+      "duration": 260
+    },
+    {
+      "id": "YCrRy7pBzdc",
+      "title": "Docker Beginner Tutorial 3 - Benefits of DOCKER | Why to use DOCKER | Advantages of DOCKER",
+      "duration": 166
+    },
+    {
+      "id": "zW9Nt27NrWc",
+      "title": "Docker Beginner Tutorial 4 - Play With Docker",
+      "duration": 106
+    },
+    {
+      "id": "KCckWweNSrM",
+      "title": "Docker Beginner Tutorial 5 - How to install DOCKER on LINUX ? Step by Step",
+      "duration": 518
+    },
+    {
+      "id": "ymlWt1MqURY",
+      "title": "Docker Beginner Tutorial 6 - How to install DOCKER on WINDOWS ? Step by Step",
+      "duration": 654
+    },
+    {
+      "id": "MU8HUVlJTEY",
+      "title": "Docker Beginner Tutorial 7 - How to install DOCKER on MAC ? Step by Step | How to Install Docker",
+      "duration": 705
+    },
+    {
+      "id": "HqBMEmoAd1M",
+      "title": "Docker Beginner Tutorial 8 - Basic Commands | Docker FAQ | Docker Interview Questions |",
+      "duration": 1045
+    },
+    {
+      "id": "QBOcKdh-fwQ",
+      "title": "Docker Beginner Tutorial 9 - What are Docker Images | How to run Docker Images |",
+      "duration": 735
+    },
+    {
+      "id": "Rv3DAJbDrS0",
+      "title": "Docker Beginner Tutorial 10 - What are Docker Containers | How to create Docker Containers",
+      "duration": 698
+    },
+    {
+      "id": "iN3he0eVUyw",
+      "title": "How to run Jenkins on Docker container | How to create Jenkins Volumes on Docker | Beginners",
+      "duration": 1001
+    },
+    {
+      "id": "LQjaJINkQXY",
+      "title": "What is Dockerfile | How to create and build Dockerfile | Dockerfile Basic Commands",
+      "duration": 610
+    },
+    {
+      "id": "HUpIoF_conA",
+      "title": "What is Docker Compose | How to create docker compose file | How to use Compose",
+      "duration": 1103
+    },
+    {
+      "id": "VOK06Q4QqvE",
+      "title": "What is Docker Volume | How to create  Volumes | What is Bind Mount | Docker Storage",
+      "duration": 1011
+    },
+    {
+      "id": "bU2NNFJ-UXA",
+      "title": "Docker Swarm| Step by Step | What is Docker Swarm | How to create Docker Swarm",
+      "duration": 1960
+    },
+    {
+      "id": "WvmF-WsmzfQ",
+      "title": "Docker Interview Questions - Part 1",
+      "duration": 735
+    },
+    {
+      "id": "_bWwaXMTdL0",
+      "title": "Docker Interview Questions - Part 2",
+      "duration": 759
+    },
+    {
+      "id": "UgTt8qOsgEU",
+      "title": "How to setup and use Docker on Free AWS Linux | Complete beginners hands-on in 7 Steps",
+      "duration": 1086
+    },
+    {
+      "id": "C-bX86AgyiA",
+      "title": "Dockerfile ＞Docker Image ＞ Docker Container | Beginners Hands-On | Step by Step",
+      "duration": 1078
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "courseId": "data-structure-using-java-464250",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:57.127Z",
+  "title": "Data Structure using Java",
+  "channel": "ForMyScholars",
+  "videos": [
+    {
+      "id": "0KWRVgOgjSc",
+      "title": "Data Structure using Java | Course Curriculum, Duration, Targeting Audience #0",
+      "duration": 139
+    },
+    {
+      "id": "8r4qdMnYsAk",
+      "title": "Introduction to Data Structures | DSA using Java #1 | Crack your Dream Company",
+      "duration": 1213
+    },
+    {
+      "id": "PA-f6uFyR58",
+      "title": "Arrays in Data Structure | 1-D ,2-D Array | Declaration , Initialization | DSA using Java #2",
+      "duration": 1674
+    },
+    {
+      "id": "BENWaBgMpqM",
+      "title": "Array Operations-Creation ,Traversal ,Insertion (Concept + Java Code)  | DSA using Java #3",
+      "duration": 904
+    },
+    {
+      "id": "z9QOOEtlji0",
+      "title": "Delete an Element From Array (Concept + Java Code) | DSA using Java #4",
+      "duration": 449
+    },
+    {
+      "id": "FjdIzuSjENs",
+      "title": "Multidimensional Array in Java | 2D Array Implementation using Java | DSA using Java #5",
+      "duration": 1037
+    },
+    {
+      "id": "TsTw4UwjRpI",
+      "title": "Practice Questions of Array | Advantages, Disadvantages, Applications of Array | DSA using Java #6",
+      "duration": 535
+    },
+    {
+      "id": "w1q7OvsUT3w",
+      "title": "Introduction to LinkList | Array vs. LinkList | DSA using Java #7",
+      "duration": 892
+    },
+    {
+      "id": "YkkEN0djgN0",
+      "title": "Singly Linked List - Creation & Traversal (Concept + Java Code)  | DSA Using Java #8",
+      "duration": 2208
+    },
+    {
+      "id": "WZFYgcalA0k",
+      "title": "Singly Linked List - Insertion(Beginning ,End, Specific Position) with Java Code | DSA using Java#9",
+      "duration": 1506
+    },
+    {
+      "id": "ldVRWeoF1fc",
+      "title": "Singly Linked List - Deletion(Beginning ,End, Specific Position) with Java Code | DSA using Java#10",
+      "duration": 1206
+    },
+    {
+      "id": "eSXljM_sAPI",
+      "title": "Circular Linked List - Creation & Traversal (Concept + Java Code) | DSA Using Java #11",
+      "duration": 1328
+    },
+    {
+      "id": "BOEKC-S5ZQM",
+      "title": "Circular Linked List - Insertion(Beginning ,End, Specific Position) with Java Code #12",
+      "duration": 938
+    },
+    {
+      "id": "aaULI7OIeD8",
+      "title": "Circular Linked List - Deletion(Beginning ,End, Specific Position) with Java Code #13",
+      "duration": 1002
+    },
+    {
+      "id": "9sEg3qtW8zA",
+      "title": "#14 Doubly LinkedList- Creation & Traversal | DSA using Java 2021",
+      "duration": 746
+    },
+    {
+      "id": "6TOLiyEC8vA",
+      "title": "Doubly Linked List - Insertion of a Node ( in Beginning ,End, Given Location) with Java Code #15",
+      "duration": 1162
+    },
+    {
+      "id": "gkDQNDh3q_0",
+      "title": "Doubly Linked List - Deletion of a Node ( from Beginning ,End, Given Location) with Java Code #16",
+      "duration": 904
+    },
+    {
+      "id": "Jm6Jt9yKhH8",
+      "title": "LinkedList Practice Questions with Solution | DSA using Java #17",
+      "duration": 805
+    },
+    {
+      "id": "51xMqsWyDK8",
+      "title": "Introduction to Stack l Stack Operations -Push Pop | Applications of Stack | DSA using Java #18",
+      "duration": 991
+    },
+    {
+      "id": "D0Bi0wxXh-4",
+      "title": "Stack using Array (Concept+ Java Code ) | Time Complexity | DSA using Java #20",
+      "duration": 1319
+    },
+    {
+      "id": "0H_wxGw0LUs",
+      "title": "Stack using LinkedList (Concept+ Java Code ) | Time Complexity | DSA using Java #20",
+      "duration": 1267
+    },
+    {
+      "id": "jyto5YGbXUQ",
+      "title": "Infix to Postfix Conversion using Stack | DSA using Java #21",
+      "duration": 1809
+    },
+    {
+      "id": "_zNmN8X-zBc",
+      "title": "Evaluate Postfix Expression using Stack with Examples | DSA using Java #22",
+      "duration": 487
+    },
+    {
+      "id": "SiaA7dfO6DI",
+      "title": "Introduction to Queue Data Structure | Enqueue, Dequeue | Applications | DSA using Java #23",
+      "duration": 1019
+    },
+    {
+      "id": "UQnbuAXjNtI",
+      "title": "Queue Data Structure using Arrays (Concept + Java code) | Data Structures using Java #24",
+      "duration": 1021
+    },
+    {
+      "id": "Ey_CeVcZi4c",
+      "title": "Queue Data Structure using LinkedList (Concept + Java Code)  | Time Complexity  | DSA using Java #25",
+      "duration": 957
+    },
+    {
+      "id": "XLqyJz7_kVE",
+      "title": "Circular Queue  using Arrays (Concept + Java Code) | Data Structure using Java #26",
+      "duration": 1348
+    },
+    {
+      "id": "0V487trKqKY",
+      "title": "Priority Queue in Data Structures | Placement Preparation Course | DSA using Java #27",
+      "duration": 451
+    },
+    {
+      "id": "YW2mcHBvn4c",
+      "title": "Collections Framework in Java | Part-1 | Data Structures using Java #28",
+      "duration": 1274
+    },
+    {
+      "id": "gC0nghFzLvo",
+      "title": "Collections Framework in Java | Part-2 | Data Structures using Java #29",
+      "duration": 1639
+    },
+    {
+      "id": "8tx4jdXyeBk",
+      "title": "Binary Tree Data Structures | Types of Binary Tree | Data Structures using Java #30",
+      "duration": 1303
+    },
+    {
+      "id": "P40sf8jp-O0",
+      "title": "Binary Tree Practice Questions | Data Structures using Java #31",
+      "duration": 808
+    },
+    {
+      "id": "GHKetq8n4Xo",
+      "title": "Recursion in 1 Shot |  Data Structures using Java #32",
+      "duration": 1987
+    },
+    {
+      "id": "a-0GwpaA2mE",
+      "title": "Binary Tree (Concept + Java Code) | DSA Using Java #33",
+      "duration": 1297
+    },
+    {
+      "id": "xdAzEkkiwFQ",
+      "title": "Binary Tree Traversal : Inorder , Preorder , Postorder | Data Structures using Java #34",
+      "duration": 1145
+    },
+    {
+      "id": "dvMKAjaEHvU",
+      "title": "Construct Binary Tree from Postorder & Inorder , Preorder & Inorder Traversal | DSA using Java #35",
+      "duration": 891
+    },
+    {
+      "id": "Y4hxZwJqrDc",
+      "title": "Binary Tree Traversal (Concept + Java Code) | Postorder ,Inorder , Preorder | DSA using Java #36",
+      "duration": 547
+    },
+    {
+      "id": "rVP5u7Y14rI",
+      "title": "Huffman Coding with Examples | Fixed Length & Variable Length Method | DSA using Java #37",
+      "duration": 947
+    },
+    {
+      "id": "qDRKsysbz0Q",
+      "title": "Introduction to Graphs Data Structure | Types , Terminologies | Data Structures suing Java #38",
+      "duration": 1305
+    },
+    {
+      "id": "lU7cih9BM78",
+      "title": "Graphs Representation in Data Structures | Adjacency Matrix , Adjacency List , Multi List #39",
+      "duration": 770
+    },
+    {
+      "id": "NHTyspS74Bo",
+      "title": "Graph Implementation using Java | Adjacency List Implementation |Data Structures using Java #40",
+      "duration": 771
+    },
+    {
+      "id": "Jg60Lvy_Gu8",
+      "title": "Graph Traversal- BFS (Breadth First Search) [Concept + Java Code ] | Examples | DSA using Java #41",
+      "duration": 1548
+    },
+    {
+      "id": "nsM8_Zpvc8c",
+      "title": "Graph Traversal- DFS (Depth First Search) [Concept + Java Code ] | Examples | DSA using Java #42",
+      "duration": 1154
+    },
+    {
+      "id": "kQ3MbQ0YnHk",
+      "title": "Minimum Spanning Tree | Data Structures using Java #43",
+      "duration": 848
+    },
+    {
+      "id": "GfPc-RFeKe8",
+      "title": "Kruskal Algorithm for Minimum Spanning Tree | Data Structures using Java #44",
+      "duration": 555
+    },
+    {
+      "id": "EoI-yOAlP44",
+      "title": "Prims Algorithm for Minimum Spanning Tree | Data Structures using Java 2021 #45",
+      "duration": 1013
+    },
+    {
+      "id": "o0qOExC-bhs",
+      "title": "Shortest Path Algorithms in Data Structures | Relax() on Edges | Data Structures using Java 2021 #46",
+      "duration": 772
+    },
+    {
+      "id": "IaW4LjMBmyc",
+      "title": "Dijkstra Algorithm with Examples | Single Source Shortest Path - Greedy Method | Data Structures #47",
+      "duration": 1203
+    },
+    {
+      "id": "-xCbgEy3qsM",
+      "title": "Floyd Warshall Algorithm with Examples | All-Pair Shortest Path Algorithm | Data Structures #48",
+      "duration": 1609
+    },
+    {
+      "id": "oZZ8gNP4V1g",
+      "title": "Linear Search Algorithm (Concept +Java Code) | Time Complexity | Data Structures using Java #49",
+      "duration": 817
+    },
+    {
+      "id": "ZgjXzwqjYWM",
+      "title": "Binary Search Algorithm -(Concept +Java Code) | Time Complexity | Data Structures #50",
+      "duration": 1439
+    },
+    {
+      "id": "MnUbF4Tu7Cc",
+      "title": "Bubble Sort Algorithm (Concept +Java Code) | Time Complexity | Data Structures using Java #51",
+      "duration": 1129
+    },
+    {
+      "id": "yyU2MKlfxGg",
+      "title": "Selection Sort  (Concept +Java Code) | Time Complexity | Examples | Data Structures #52",
+      "duration": 672
+    },
+    {
+      "id": "Vrg1-ptCRA4",
+      "title": "Insertion Sort  (Concept +Java Code) | Time Complexity | Examples | Data Structures #53",
+      "duration": 1075
+    },
+    {
+      "id": "t8pWc_6JChg",
+      "title": "Quick Sort Algorithm (Concept + Java Code)  | Time Complexity | Data Structures suing Java #54",
+      "duration": 1738
+    },
+    {
+      "id": "RXGF4-QBYEM",
+      "title": "Merge Sort Algorithm (Concept + Java Code)  | Time Complexity | Data Structures using Java #55",
+      "duration": 1214
+    },
+    {
+      "id": "LdeksxCxtns",
+      "title": "Introduction to Hashing in Data Structure | Hash Table, Hash Function | DSA using Java #56",
+      "duration": 819
+    },
+    {
+      "id": "bgGePSkuwds",
+      "title": "Collision Resolution Techniques in Hashing | Hashing in Data Structures #57",
+      "duration": 1302
+    },
+    {
+      "id": "3PzMhnFLDHY",
+      "title": "Sorting a LinkedList (Explanation +Java Code)  | Data Structures using Java #58",
+      "duration": 639
+    },
+    {
+      "id": "R1XU-iPN5JI",
+      "title": "3 Real-Life Applications of Stack #shorts #formyscholars #datastructures #dsa",
+      "duration": 53
+    },
+    {
+      "id": "-Y6E8DOLDKI",
+      "title": "3 Real-Life Applications of Queue #shorts #formyscholars #datastructures #dsa",
+      "duration": 61
+    },
+    {
+      "id": "i-45l0SUuC0",
+      "title": "3 Real-Life Applications of Graph Data Structure #shorts #formyscholars #datastructures #dsa",
+      "duration": 57
+    },
+    {
+      "id": "Kob5kd4orMs",
+      "title": "3 Real-Life Applications of Binary Tree #shorts #formyscholars #datastructures #dsa",
+      "duration": 51
+    },
+    {
+      "id": "IpcksgY-hEA",
+      "title": "Time Complexity of Array- Insertion Operation #shorts #datastructure #timecomplexity",
+      "duration": 58
+    },
+    {
+      "id": "sFlflw4ESD4",
+      "title": "Time Complexity of Array- Deletion Operation #shorts #datastructure #timecomplexity",
+      "duration": 61
+    },
+    {
+      "id": "Gc5cuxxeiAU",
+      "title": "Time Complexity of Array- Traversal & Access Operation #shorts #datastructure #timecomplexity",
+      "duration": 54
+    },
+    {
+      "id": "2twOl2ZOpuU",
+      "title": "Time Complexity of LinkedList-Insertion ,Deletion ,Traversal #shorts #datastructure #timecomplexity",
+      "duration": 61
+    },
+    {
+      "id": "ZgJc65FLPLc",
+      "title": "Time Complexity of Stack Data Structure #shorts #datastructure #timecomplexity",
+      "duration": 56
+    },
+    {
+      "id": "J3PQkBn66WE",
+      "title": "Time Complexity of Queue Data Structure #shorts #datastructure #timecomplexity",
+      "duration": 56
+    },
+    {
+      "id": "MspkNJCYLPs",
+      "title": "Time Complexity of Binary Search tree Data Structure #shorts #datastructure #timecomplexity",
+      "duration": 61
+    }
+  ]
+}

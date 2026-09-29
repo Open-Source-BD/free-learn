@@ -1,0 +1,150 @@
+{
+  "courseId": "solidity-full-course-for-beginners-in-hindi-64323f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLR0uCBk15bq9a__TgfcZ7oA73MTEZ3NOK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:34:43.706Z",
+  "title": "Solidity full course for beginners in Hindi",
+  "channel": "web3Mantra",
+  "videos": [
+    {
+      "id": "67isRzVR318",
+      "title": "Solidity overview & prerequisite - (Part 1) Solidity Full Course in Hindi",
+      "duration": 444
+    },
+    {
+      "id": "LXoWjyQlzwE",
+      "title": "Remix IDE & Solidity Basic Structure - (Part 2) Solidity Full Course in Hindi",
+      "duration": 1093
+    },
+    {
+      "id": "yUYFjmgUuyI",
+      "title": "Solidity Types & Variables - (Part 3) Solidity Full Course in Hindi",
+      "duration": 1376
+    },
+    {
+      "id": "mFCSwR6cXgc",
+      "title": "Solidity Functions view, pure, returns - (Part 4) Solidity Full Course in Hindi",
+      "duration": 912
+    },
+    {
+      "id": "w4I-0CGGZN4",
+      "title": "Solidity State, Local & Global variable - (Part 5) Solidity Full Course in Hindi",
+      "duration": 1240
+    },
+    {
+      "id": "1UwU1TbP-vw",
+      "title": "Solidity Public, Internal & Private Variable Scopes - (Part 6) Solidity Full Course in Hindi",
+      "duration": 947
+    },
+    {
+      "id": "zUWgF7A5_7c",
+      "title": "Solidity Memory & Storage - (Part 7) Solidity Full Course in Hindi",
+      "duration": 789
+    },
+    {
+      "id": "7SdOFIYy6hs",
+      "title": "Solidity Operators - 1 Arithmetic, Relational & Logical  - (Part 8) Solidity Full Course in Hindi",
+      "duration": 992
+    },
+    {
+      "id": "DL2cfNMhBdI",
+      "title": "Solidity Operators - 2 Bitwise, Assignment & Conditional - (Part 9) Solidity Full Course in Hindi",
+      "duration": 1207
+    },
+    {
+      "id": "OBD7o_PfgEA",
+      "title": "Solidity If-Else Decision Making - (Part 10) Solidity Full Course in Hindi",
+      "duration": 698
+    },
+    {
+      "id": "PJnOwK8cxbk",
+      "title": "Solidity Loops | While, Do-While, For | - (Part 11) Solidity Full Course in Hindi",
+      "duration": 1068
+    },
+    {
+      "id": "fKBPWPnzYfw",
+      "title": "Solidity Arrays | Length, Push & Pop Methods | - (Part 12) Solidity Full Course in Hindi",
+      "duration": 940
+    },
+    {
+      "id": "I8cr_x4FM0c",
+      "title": "Solidity Struct Explained - (Part 13) Solidity Full Course in Hindi",
+      "duration": 658
+    },
+    {
+      "id": "BV8SDUvJ1Cg",
+      "title": "Solidity Enums Explained - (Part 14) Solidity Full Course in Hindi",
+      "duration": 383
+    },
+    {
+      "id": "7j0yotg35Ms",
+      "title": "Solidity Mapping Explained - (Part 15) Solidity Full Course in Hindi",
+      "duration": 350
+    },
+    {
+      "id": "vc2vknSrFek",
+      "title": "Solidity Constructor Explained - (Part 16) Solidity Full Course in Hindi",
+      "duration": 550
+    },
+    {
+      "id": "a5A0Gl7gqSY",
+      "title": "Solidity Events Explained - (Part 17) Solidity Full Course in Hindi",
+      "duration": 612
+    },
+    {
+      "id": "apq8nfaXFKA",
+      "title": "Solidity Payable Explained - (Part 18) Solidity Full Course in Hindi",
+      "duration": 398
+    },
+    {
+      "id": "Jv5pVClvcmQ",
+      "title": "Solidity Error Handling - Require, Assert, Revert  - (Part 19) Solidity Full Course in Hindi",
+      "duration": 898
+    },
+    {
+      "id": "cYra3BRQMhw",
+      "title": "Solidity Function Modifiers Explained  - (Part 20) Solidity Full Course in Hindi",
+      "duration": 368
+    },
+    {
+      "id": "cd_YW0KwZ98",
+      "title": "Units in Solidity  - (Part 21) Solidity Full Course in Hindi",
+      "duration": 732
+    },
+    {
+      "id": "ZI8byW9eKns",
+      "title": "Solidity Cryptographic Hashing functions - (Part 22) Solidity Full Course in Hindi",
+      "duration": 1446
+    },
+    {
+      "id": "-gc8aZRYy1o",
+      "title": "Inheritance in Solidity - (Part 23) Solidity Full Course in Hindi",
+      "duration": 925
+    },
+    {
+      "id": "ryNVFhtPmK8",
+      "title": "Solidity Function Visibility - (Part 24) Solidity Full Course in Hindi",
+      "duration": 601
+    },
+    {
+      "id": "OTK5QQpt7so",
+      "title": "Libraries in Solidity - (Part 25) Solidity Full Course in Hindi",
+      "duration": 609
+    },
+    {
+      "id": "C-ukj5WCKMs",
+      "title": "Virtual & Override Functions in Solidity - (Part 26) Solidity Full Course in Hindi",
+      "duration": 476
+    },
+    {
+      "id": "bKs7pMclbdM",
+      "title": "Solidity Abstract Contract Explained - (Part 27) Solidity Full Course in Hindi",
+      "duration": 575
+    },
+    {
+      "id": "vw_sH-L1XoE",
+      "title": "Interfaces in Solidity - (Part 28) Solidity Full Course in Hindi",
+      "duration": 575
+    }
+  ]
+}

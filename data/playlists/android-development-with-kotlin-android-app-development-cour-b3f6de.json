@@ -1,0 +1,535 @@
+{
+  "courseId": "android-development-with-kotlin-android-app-development-cour-b3f6de",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:16:07.973Z",
+  "title": "Android Development With KOTLIN | Android App Development Course In Hindi",
+  "channel": "Zain Farhan",
+  "videos": [
+    {
+      "id": "bTjOfVePvFw",
+      "title": "Class 1 - Introduction To Android Development With KOTLIN | Android App Development Course In Hindi",
+      "duration": 621
+    },
+    {
+      "id": "QMzFBvJMC94",
+      "title": "Class 2 - Summary of Android Studio Projects | Android App Development Complete Course In Hindi",
+      "duration": 642
+    },
+    {
+      "id": "GyCTpCqbLac",
+      "title": "Class 3 - Layout Inflation And Main Activity |Android App  Development Complete Course In Hindi",
+      "duration": 637
+    },
+    {
+      "id": "0XMEkmDfyFM",
+      "title": "Class 4 - Setting Up Roll Button In Dice Roller | Android App Development Complete Course In Hindi",
+      "duration": 612
+    },
+    {
+      "id": "vbF9KoTRAhE",
+      "title": "Class 5 - Logic For Setting Up Views ID | Android App Development Complete Course In Hindi",
+      "duration": 606
+    },
+    {
+      "id": "Mh78iQ6q5fE",
+      "title": "Class 6 - Setting On Click Listener On Roll Button| Android App Development Complete Course In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "e8-Lk5wJ31Q",
+      "title": "Class 7 - Implementing Random No. Logic Of Dice | Android App Development Complete Course In Hindi",
+      "duration": 601
+    },
+    {
+      "id": "McKXc9s7uHk",
+      "title": "Class 8 - Setting Up Random Dice Images   | Android App Development Complete Course In Hindi",
+      "duration": 681
+    },
+    {
+      "id": "F3nQRnGsoVU",
+      "title": "Class 9 -  Initializing Dice Image In On Create   | Android App Development Complete Course In Hindi",
+      "duration": 675
+    },
+    {
+      "id": "a5Q9uVCgLuY",
+      "title": "Class 10 - Setting Up Empty Dice Image   | Android App Development Complete Course In Hindi",
+      "duration": 626
+    },
+    {
+      "id": "kZ_-T1BnmSQ",
+      "title": "Class 11 - Understanding Gradle And Its Function  | Android App Development Complete Course In Hindi",
+      "duration": 605
+    },
+    {
+      "id": "TOeb_4-6isA",
+      "title": "Class 12 - Understanding Version Compatibility | Android App Development Complete Course In Hindi",
+      "duration": 740
+    },
+    {
+      "id": "PKIKOad0Evc",
+      "title": "Class 13 - Adding Vector Drawable Support  | Android App Development Complete Course In Hindi",
+      "duration": 663
+    },
+    {
+      "id": "g8vX7fD_fJ4",
+      "title": "Class 14 - Starting Lesson 2 Layout Editor   | Android App Development Complete Course In Hindi",
+      "duration": 615
+    },
+    {
+      "id": "n0BvSA7HNWg",
+      "title": "Class 15 - Kotlin Plugin Error Setup   | Android App Development Complete Course In Hindi",
+      "duration": 648
+    },
+    {
+      "id": "jUxteQg00QQ",
+      "title": "Class 16 - Setting Up Styling For Views  | Android App Development Complete Course In Hindi",
+      "duration": 835
+    },
+    {
+      "id": "bLeTliaFsK8",
+      "title": "Class 17 - Images Views And Visual Layout | Android App Development Complete Course In Hindi",
+      "duration": 758
+    },
+    {
+      "id": "jP91iFdnapw",
+      "title": "Class 18 - Setting Up Button In About Me | Android App Development Complete Course In Hindi",
+      "duration": 794
+    },
+    {
+      "id": "S-frE9WJoyQ",
+      "title": "Class 19 - Implementing Logic For Click On Done  | Android App Development Complete Course In Hindi",
+      "duration": 625
+    },
+    {
+      "id": "z8KaEMlEitg",
+      "title": "Class 20- OnClickListener For Click On Done Button |Android App Development Complete Course In Hindi",
+      "duration": 643
+    },
+    {
+      "id": "Sm8eDKkAvAY",
+      "title": "Class 21 - Enabling Data Binding On Views  | Android App Development Complete Course In Hindi",
+      "duration": 604
+    },
+    {
+      "id": "tJRMXdnMsGU",
+      "title": "Class 22 - Finishing Up Add Nick Name Logic | Android App Development Complete Course In Hindi",
+      "duration": 609
+    },
+    {
+      "id": "7AnOo2sCxbw",
+      "title": "Class 23- Understanding Data Binding Class Concept |Android App Development Complete Course In Hindi",
+      "duration": 622
+    },
+    {
+      "id": "VB8g5_-FxRw",
+      "title": "Class 24 - Finishing Up About Me binding Class  |Android App Development Complete Course In Hindi",
+      "duration": 605
+    },
+    {
+      "id": "sxr0PiIQaQQ",
+      "title": "Class 25 - Understanding Constraint Layout | Android App Development Complete Course In Hindi",
+      "duration": 605
+    },
+    {
+      "id": "VU6ph5jv5jo",
+      "title": "Class 26 - Fixing KOTLIN Gradle Sync Error | Android App Development Complete Course In Hindi",
+      "duration": 605
+    },
+    {
+      "id": "NcPQC540ef8",
+      "title": "Class 27 - Creating Box One In Constraint Layout  | Android App Development Complete Course In Hindi",
+      "duration": 613
+    },
+    {
+      "id": "UpI_5Agt8oI",
+      "title": "Class 28 - Styling Up The First Box View | Android App Development Complete Course In Hindi",
+      "duration": 601
+    },
+    {
+      "id": "toWtT1QqUcU",
+      "title": "Class 29 - Fixing SDK Compile Tools Corrupt Error | Android App Development Complete Course In Hindi",
+      "duration": 621
+    },
+    {
+      "id": "H_1Th6deF4Q",
+      "title": "Class 30 - Documentation For Constraint Types | Android App Development Complete Course In Hindi",
+      "duration": 601
+    },
+    {
+      "id": "WLIR9wQEnJU",
+      "title": "Class 31 - Creating Box To For The Layout | Android App Development Complete Course In Hindi",
+      "duration": 644
+    },
+    {
+      "id": "aTjt6NawCBI",
+      "title": "Class 32 - Channing Multiple Views To Box Two | Android App Development Complete Course In Hindi",
+      "duration": 618
+    },
+    {
+      "id": "VOFrXd8lx4M",
+      "title": "Class 33 - Setting Listeners For Clickable Views| Android App Development Complete Course In Hindi",
+      "duration": 649
+    },
+    {
+      "id": "tTk5b8_ljhA",
+      "title": "Class 34 - Setting Up Colors For The Views | Android App Development Complete Course In Hindi",
+      "duration": 616
+    },
+    {
+      "id": "Og-KPxK0PZg",
+      "title": "Class 35 - Aligning Views With Base Line | Android App Development Complete Course In Hindi",
+      "duration": 628
+    },
+    {
+      "id": "Txr1sra7JhI",
+      "title": "Class 36 - Setting Colors For The Buttons | Android App Development Complete Course In Hindi",
+      "duration": 642
+    },
+    {
+      "id": "GQwINA_ro5Q",
+      "title": "Class 37 - Lesson : 3  -Learning App Navigation  | Android App Development Complete Course In Hindi",
+      "duration": 609
+    },
+    {
+      "id": "tv1ypvMKCyM",
+      "title": "Class 38 - Understanding Fragments Working  | Android App Development Complete Course In Hindi",
+      "duration": 655
+    },
+    {
+      "id": "ElZv2Ifee9w",
+      "title": "Class 39 - Fragment Back Stack Working  | Android App Development Complete Course In Hindi",
+      "duration": 814
+    },
+    {
+      "id": "EwLmsG0Zl4s",
+      "title": "Class 40 - Importing Navigation App  | Android App Development Complete Course In Hindi",
+      "duration": 614
+    },
+    {
+      "id": "1cLDjL76RGc",
+      "title": "Class 41 - Finishing Up Code Import   | Android App Development Complete Course In Hindi",
+      "duration": 738
+    },
+    {
+      "id": "8d36X0MxN_Q",
+      "title": "Class 42 - Binding Data For Views   | Android App Development Complete Course In Hindi",
+      "duration": 632
+    },
+    {
+      "id": "wxloy2pf22E",
+      "title": "Class 43 - Adding Title Fragment For Activity   | Android App Development Complete Course In Hindi",
+      "duration": 629
+    },
+    {
+      "id": "hQccmWHjjXk",
+      "title": "Class 44 - Adding And Creating Fragment  | Android App Development Complete Course In Hindi",
+      "duration": 692
+    },
+    {
+      "id": "zHWz6eMFB0E",
+      "title": "Class 45 - Understanding Navigation Principles  | Android App Development Complete Course In Hindi",
+      "duration": 926
+    },
+    {
+      "id": "nOCf5cqusP8",
+      "title": "Class 46 - Principle Of Navigation Components  | Android App Development Complete Course In Hindi",
+      "duration": 634
+    },
+    {
+      "id": "rQHzmzGDd_M",
+      "title": "Class 47 - Adding the Navigation Resource Graph  | Android App Development Complete Course In Hindi",
+      "duration": 668
+    },
+    {
+      "id": "7HptYSyIqJI",
+      "title": "Class 48 -  Adding OnClickListener For Navigation | Android App Development Complete Course In Hindi",
+      "duration": 604
+    },
+    {
+      "id": "Ua8l32SzEcY",
+      "title": "Class 49 - Navigating Though Different Fragment  | Android App Development Complete Course In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "pWQGuO1T_5A",
+      "title": "Class 50 - Implementing Conditional Navigation | Android App Development Complete Course In Hindi",
+      "duration": 675
+    },
+    {
+      "id": "9ihlKVPD0rw",
+      "title": "Class 51 - Implementing Back Stack Navigation | Android App Development Complete Course In Hindi",
+      "duration": 713
+    },
+    {
+      "id": "fWEuuUeLb9U",
+      "title": "Class 52 - Implementing UP Button With NavControl | Android App Development Complete Course In Hindi",
+      "duration": 661
+    },
+    {
+      "id": "ZgLIv2IXAcU",
+      "title": "Class 53- Adding Over Flow Menu For About Fragment| Android App Development Complete Course In Hindi",
+      "duration": 617
+    },
+    {
+      "id": "1iqSAXKuebU",
+      "title": "Class 54 - Understanding Android Bundle Key Value | Android App Development Complete Course In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "pnr3DLQsik0",
+      "title": "Class 55 - Implementing SafeArgs For Arguments | Android App Development Complete Course In Hindi",
+      "duration": 701
+    },
+    {
+      "id": "s4wJaht2QiQ",
+      "title": "Class 56 - Understanding Explicit Implicit Intent | Android App Development Complete Course In Hindi",
+      "duration": 677
+    },
+    {
+      "id": "SF6C-nGrSd4",
+      "title": "Class 57 - Sharing Success With Implicit Intent | Android App Development Complete Course In Hindi",
+      "duration": 661
+    },
+    {
+      "id": "agELamEVeQU",
+      "title": "Class 58 - Handling No Activity Exceptions | Android App Development Complete Course In Hindi",
+      "duration": 860
+    },
+    {
+      "id": "6jh8P3qcwsM",
+      "title": "Class 59 - Adding Navigation Drawer Layout | Android App Development Complete Course In Hindi",
+      "duration": 808
+    },
+    {
+      "id": "2hxY6YZOycY",
+      "title": "Class 60 -Setting Up NavigationUI For Action Bar  | Android App Development Complete Course In Hindi",
+      "duration": 658
+    },
+    {
+      "id": "OZ_kfIoF0uc",
+      "title": "Class 61- Adding Navigation Listeners Drawer Lock | Android App Development Complete Course In Hindi",
+      "duration": 897
+    },
+    {
+      "id": "JXfJiU3-Ml8",
+      "title": "Class 62 - Adding Animations For Navigation  | Android App Development Complete Course In Hindi",
+      "duration": 677
+    },
+    {
+      "id": "lVLmk0N2fiI",
+      "title": "Class 63 - Lesson 4 Activity Life Cycle Call back | Android App Development Complete Course In Hindi",
+      "duration": 612
+    },
+    {
+      "id": "3I2D_kU8Cmg",
+      "title": "Class 64 - Importance Of Activity Life Cycle  | Android App Development Complete Course In Hindi",
+      "duration": 692
+    },
+    {
+      "id": "G9V6rHkOb7w",
+      "title": "Class 65 - Importing Life Cycle Demo App | Android App Development Complete Course In Hindi",
+      "duration": 636
+    },
+    {
+      "id": "UzRL9cw9jCg",
+      "title": "Class 66 - Logging A Call Back Method  | Android App Development Complete Course In Hindi",
+      "duration": 830
+    },
+    {
+      "id": "6swbAsFC_W8",
+      "title": "Class 67 - Using Timber API For Logging | Android App Development Complete Course In Hindi",
+      "duration": 699
+    },
+    {
+      "id": "WQbwlimnbJo",
+      "title": "Class 68 - Understanding Different States | Android App Development Complete Course In Hindi",
+      "duration": 663
+    },
+    {
+      "id": "g8bW_YCpP84",
+      "title": "Class 69 - Setting And Tear Down | Android App Development Complete Course In Hindi",
+      "duration": 647
+    },
+    {
+      "id": "GQR_jPq4FRA",
+      "title": "Class 70 - Using Dessert Timer Class For Activity | Android App Development Complete Course In Hindi",
+      "duration": 613
+    },
+    {
+      "id": "XSyOVpTfQkw",
+      "title": "Class 71- Understanding State Change For Activity | Android App Development Complete Course In Hindi",
+      "duration": 818
+    },
+    {
+      "id": "VlVFPJIT21o",
+      "title": "Class 72 - Understanding Life Cycle Library | Android App Development Complete Course In Hindi",
+      "duration": 817
+    },
+    {
+      "id": "hT1Ot61CHmA",
+      "title": "Class 73 - Implementing Life Cycle Library Class | Android App Development Complete Course In Hindi",
+      "duration": 791
+    },
+    {
+      "id": "P6Ke7c2mH8Y",
+      "title": "Class 74 - Killing Background App Using ADB Shell | Android App Development Complete Course In Hindi",
+      "duration": 856
+    },
+    {
+      "id": "c4reKMJaHeA",
+      "title": "Class 75 - Implementing OnSaveInstantState Bundle | Android App Development Complete Course In Hindi",
+      "duration": 828
+    },
+    {
+      "id": "sqQjqnTUTxc",
+      "title": "Class 76 - Saving Bundle Key And Value Pair | Android App Development Complete Course In Hindi",
+      "duration": 653
+    },
+    {
+      "id": "9WXX2I8bjWY",
+      "title": "Class 77 - Starting Lesson 5 : Architecture  | Android App Development Complete Course In Hindi",
+      "duration": 624
+    },
+    {
+      "id": "NMiAzv_O2BE",
+      "title": "Class 78 - Importing Guess The Word App  | Android App Development Complete Course In Hindi",
+      "duration": 674
+    },
+    {
+      "id": "2rLLGHcYrdU",
+      "title": "Class 79 - Understanding The Code Working | Android App Development Complete Course In Hindi",
+      "duration": 748
+    },
+    {
+      "id": "rxBEX2wW7Vg",
+      "title": "Class 80 - Understanding Architecture Importance | Android App Development Complete Course In Hindi",
+      "duration": 635
+    },
+    {
+      "id": "z49TYd4WuLw",
+      "title": "Class 81 - Understanding MVVM Model  | Android App Development Complete Course In Hindi",
+      "duration": 663
+    },
+    {
+      "id": "fg10VGmexdc",
+      "title": "Class 82 -  Implementing MVVM Model | Android App Development Complete Course In Hindi",
+      "duration": 687
+    },
+    {
+      "id": "ByprePxokeU",
+      "title": "Class 83 - Creating MVVM Model  | Android App Development Complete Course In Hindi",
+      "duration": 653
+    },
+    {
+      "id": "iKu3dgRaR9U",
+      "title": "Class 85 - Populating MVVM With Logic | Android App Development Complete Course In Hindi",
+      "duration": 826
+    },
+    {
+      "id": "6LinJgQVNL8",
+      "title": "Class 84 - Understanding What Can Be Put In MVVM | Android App Development Complete Course In Hindi",
+      "duration": 660
+    },
+    {
+      "id": "0da7GJpozkQ",
+      "title": "Class 86 - Benefits Of Using Architecture | Android App Development Complete Course In Hindi",
+      "duration": 791
+    },
+    {
+      "id": "iu65MV_4xLU",
+      "title": "Class 87 - Implementing Live Data Object Observers| Android App Development Complete Course In Hindi",
+      "duration": 654
+    },
+    {
+      "id": "GtKJkLo0RjU",
+      "title": "Class 88 - Reformatting View model Working Code | Android App Development Complete Course In Hindi",
+      "duration": 818
+    },
+    {
+      "id": "V_ab-QklHbw",
+      "title": "Class 89 - LifeCycle Awareness Of ViewModel | Android App Development Complete Course In Hindi",
+      "duration": 625
+    },
+    {
+      "id": "kXudE3Pp6PQ",
+      "title": "Class 90 -Implementing Encapsulation in ViewModel | Android App Development Complete Course In Hindi",
+      "duration": 612
+    },
+    {
+      "id": "oE3lpsRw3Ug",
+      "title": "Class 91 - Implementing Finishing Game Logic | Android App Development Complete Course In Hindi",
+      "duration": 926
+    },
+    {
+      "id": "DmG4wahaLd4",
+      "title": "Class 92 - Adding Countdown Timer To Finish Game | Android App Development Complete Course In Hindi",
+      "duration": 604
+    },
+    {
+      "id": "uZEp9GmcvWM",
+      "title": "Class 93 -Implementing Count Down Timer  | Android App Development Complete Course In Hindi",
+      "duration": 741
+    },
+    {
+      "id": "U1I0sInQnt0",
+      "title": "Class 94 - Passing Parameter In View Model | Android App Development Complete Course In Hindi",
+      "duration": 619
+    },
+    {
+      "id": "TQLpgtjlkQg",
+      "title": "Class 95 - Implementing View Model Factory  | Android App Development Complete Course In Hindi",
+      "duration": 672
+    },
+    {
+      "id": "jFvmCunKcjk",
+      "title": "Class 96 -  Implementing View Model For Score | Android App Development Complete Course In Hindi",
+      "duration": 737
+    },
+    {
+      "id": "WQPcudS4dDE",
+      "title": "Class 97 - Finishing  Timer Countdown  | Android App Development Complete Course In Hindi",
+      "duration": 613
+    },
+    {
+      "id": "2bE8ilzz5xI",
+      "title": "Class 98 - Implementing Data Binding For Views   | Android App Development Complete Course In Hindi",
+      "duration": 611
+    },
+    {
+      "id": "pNPOpsFqOOk",
+      "title": "Class 99 - Implementing Binding Live Data Views | Android App Development Complete Course In Hindi",
+      "duration": 601
+    },
+    {
+      "id": "Yp_7rvmqPqA",
+      "title": "Class 100 - Using Formatting String For Values  | Android App Development Complete Course In Hindi",
+      "duration": 614
+    },
+    {
+      "id": "dgB05BpcVs8",
+      "title": "Class 101 - Implementing Map Transformation  | Android App Development Complete Course In Hindi",
+      "duration": 679
+    },
+    {
+      "id": "b4NPBjp3SG0",
+      "title": "Class 102- Implementing Buzzing Pattern For Events |Android App Development Complete Course In Hindi",
+      "duration": 631
+    },
+    {
+      "id": "IlphveBS_EU",
+      "title": "Class 103 - Using System Services For Buzzing  | Android App Development Complete Course In Hindi",
+      "duration": 930
+    },
+    {
+      "id": "XWGhSanCWWw",
+      "title": "Class 104 - Room Database Architecture | Android App Development Complete Course In Hindi",
+      "duration": 634
+    },
+    {
+      "id": "mchIhfh4mNI",
+      "title": "Class 105 - Creating Entity For Room | Android App Development Complete Course In Hindi",
+      "duration": 830
+    }
+  ]
+}

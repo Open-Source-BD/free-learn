@@ -1,0 +1,75 @@
+{
+  "courseId": "neo4j-graph-database-tutorial-5eacfa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:19.949Z",
+  "title": "Neo4j - Graph Database - Tutorial",
+  "channel": "Satish C J",
+  "videos": [
+    {
+      "id": "zNUzkvptw8E",
+      "title": "Neo4j - Introduction to Graph Databases - NoSQL Databases #2",
+      "duration": 892
+    },
+    {
+      "id": "xRTsbv42AVw",
+      "title": "Neo4j - Introduction to Neo4j and Cypher Query Language - NoSQL Databases #3",
+      "duration": 2436
+    },
+    {
+      "id": "ai8lHlaYnaw",
+      "title": "Neo4j - IN, AND, OR, Creating, Retrieving and Modifying Relationships - NoSQL Databases #4",
+      "duration": 1477
+    },
+    {
+      "id": "W85Wd1l_0P0",
+      "title": "Neo4j - Creating Relationships, Matching Relationships, Order By - NoSQL Databases #5",
+      "duration": 1661
+    },
+    {
+      "id": "OcVqvlVl3aw",
+      "title": "Neo4j - Skip, Limit, Merge Clause and Aggregate functions - NoSQL Databases #6",
+      "duration": 1310
+    },
+    {
+      "id": "6rBRIJNkNH8",
+      "title": "Neo4j- Establishing Constraints in Neo4j Graph Database - NoSQL Databases #7",
+      "duration": 932
+    },
+    {
+      "id": "HZHC1TerLYE",
+      "title": "Neo4j - String Matching Expression,CASE Expression and Foreach Clause - NoSQL Databases  #8",
+      "duration": 925
+    },
+    {
+      "id": "1YtvxGVXkeE",
+      "title": "Neo4j - Causal Cluster Introduction and Demo - NoSQL Databases #9",
+      "duration": 2094
+    },
+    {
+      "id": "6aE_JRGdxoY",
+      "title": "Neo4j - Variable length Relationships, Shortest Path, All Shortest Paths - NoSQL Databases #10",
+      "duration": 1081
+    },
+    {
+      "id": "YjW6Pmm9c2Y",
+      "title": "Neo4j Indexes and String handling Functions - NoSQL Databases #11",
+      "duration": 666
+    },
+    {
+      "id": "DDNSKY26mmc",
+      "title": "Neo4j - Finding Shortest Path,All Pair Shortest Paths, Minimum Spanning Tree NoSQL Databases #12",
+      "duration": 1542
+    },
+    {
+      "id": "ABrrGAoKuxA",
+      "title": "Neo4j- Importing a CSV file - NoSQL Databases #13",
+      "duration": 195
+    },
+    {
+      "id": "sEoBQ4svc2Y",
+      "title": "PageRank Algorithm, Exercise and Demo using Neo4j NoSQL Databases #14",
+      "duration": 1663
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "courseId": "learning-lua-166b2b",
+  "sourceUrl": "https://youtube.com/playlist?list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:59.958Z",
+  "title": "Learning Lua",
+  "channel": "Burtons Media Group",
+  "videos": [
+    {
+      "id": "-iU1pCgmjx4",
+      "title": "Learning Lua: A Quick Background and Getting Started with Lua Scripting Tools",
+      "duration": 419
+    },
+    {
+      "id": "7sj-qf99RPk",
+      "title": "Learning Lua: Part 2 - Succeeding in Scripting! When and How to use Print and Comments",
+      "duration": 378
+    },
+    {
+      "id": "2qGxUgC-Tmo",
+      "title": "Learning Lua: Creating Variables and Variable Types in Lua",
+      "duration": 546
+    },
+    {
+      "id": "nehEEMT9e88",
+      "title": "Learning Lua: How to use Strings in Lua",
+      "duration": 335
+    },
+    {
+      "id": "9zw9sjdlEkU",
+      "title": "Learning Lua: How to do Math and use the Math Library in Lua to make your life easier",
+      "duration": 372
+    },
+    {
+      "id": "_nyDPEMRaDA",
+      "title": "Learning Lua: Why you need Functions in your scripts and how to pass values to them",
+      "duration": 355
+    },
+    {
+      "id": "ftsJaVL5mj8",
+      "title": "Learning Lua: What is Variable Scope and why is it important?",
+      "duration": 371
+    },
+    {
+      "id": "YRGxjYd8b10",
+      "title": "Learning Lua:  What is the String Library and why would I use it?",
+      "duration": 736
+    },
+    {
+      "id": "yTFIbMgiRcw",
+      "title": "Learning Lua: How to use if - then (and else) in Lua scripting",
+      "duration": 579
+    },
+    {
+      "id": "QVvyrpp9L0E",
+      "title": "Learning Lua: Different types of Loops in scripting and when to use them",
+      "duration": 463
+    },
+    {
+      "id": "t6rt6TVUxJs",
+      "title": "Learning Lua: Using File Input & Output in Lua",
+      "duration": 409
+    },
+    {
+      "id": "foYvA_RDvdA",
+      "title": "Learning Lua: Part 12 - Tables, Table Library, Data Structures, Arrays, Lists, Records, Queues, Sets",
+      "duration": 326
+    },
+    {
+      "id": "iaJOA47qYGE",
+      "title": "Learning Lua: Part 13 - What is the difference between Pairs and iPairs?",
+      "duration": 390
+    },
+    {
+      "id": "YzZV4VGgjXw",
+      "title": "Learning Lua: Part 14 - How and when to use Closure in scripting",
+      "duration": 184
+    },
+    {
+      "id": "90Xuw6WfL4w",
+      "title": "Learning Lua: Part 15 - How to use the Operating System Library in Lua",
+      "duration": 454
+    },
+    {
+      "id": "O2U5tae6Tgw",
+      "title": "Learning Lua: Part 16 Using Modules in Lua",
+      "duration": 328
+    },
+    {
+      "id": "KJKK-CarQks",
+      "title": "Learning Lua Part 17 - Passing Arguments to Parameters",
+      "duration": 530
+    },
+    {
+      "id": "HZjONPbnMOE",
+      "title": "Learning Lua: Part 18 - Creating Recursion in Lua",
+      "duration": 198
+    },
+    {
+      "id": "Rr3xN-ioyx8",
+      "title": "Learning Lua: Part 19 Using Objects in Lua",
+      "duration": 252
+    },
+    {
+      "id": "xGGR-tB1JXQ",
+      "title": "Learning Lua: Part 20-Metatables & Metamethods in Lua to Simulate OOP.",
+      "duration": 394
+    },
+    {
+      "id": "DpWnXoewpcc",
+      "title": "Learning Lua: Part 21 Using Metatables & Metamethods to simulate OOP in Lua: Matrix Addiction",
+      "duration": 530
+    },
+    {
+      "id": "LAU6UXJNe14",
+      "title": "Learning Lua Part 22 Lua Rocks   Adding a Module Repository",
+      "duration": 222
+    },
+    {
+      "id": "XdsGoBbRp1M",
+      "title": "Create VR Magic: Introducing LOVR for Lua Game Development",
+      "duration": 491
+    },
+    {
+      "id": "7yFW9x4Cg5g",
+      "title": "Learning Lua - Part 23: Using the Select Command in Lua",
+      "duration": 530
+    },
+    {
+      "id": "ylpRBsuXQaY",
+      "title": "Mastering Lua: Track Player Preferences Like a Pro",
+      "duration": 629
+    },
+    {
+      "id": "KJrfNvaDxHM",
+      "title": "How to use ChatGPT AI to Create a Mobile Game or App - Step by Step",
+      "duration": 436
+    },
+    {
+      "id": "D95gkY3kjHU",
+      "title": "Is Lua difficult to learn? #shorts",
+      "duration": 53
+    },
+    {
+      "id": "pLBeDooOuUU",
+      "title": "Do I need Lua to make games in Roblox? #shorts",
+      "duration": 59
+    },
+    {
+      "id": "efmVrkwEZNU",
+      "title": "Can I learn to make apps and games in one week?",
+      "duration": 85
+    },
+    {
+      "id": "ienbSwLzi8M",
+      "title": "Creating an Immersive and Exciting Metaverse with Lua and Unity #shorts",
+      "duration": 46
+    },
+    {
+      "id": "KK7ksPW1CBw",
+      "title": "Mastering Lua Easy Commenting Tips for Efficient Coding #Shorts",
+      "duration": 24
+    },
+    {
+      "id": "Vf3hLkfI8LE",
+      "title": "The Power of Lua Tables #shorts",
+      "duration": 23
+    },
+    {
+      "id": "Ovp3XZwJoUo",
+      "title": "Mastering Tables in Lua Using Concatenate for Powerful Data Manipulation #shorts",
+      "duration": 22
+    },
+    {
+      "id": "WHUqOk4yp8w",
+      "title": "Master the Power of Lua Tables and Dominate the Coding World #shorts",
+      "duration": 40
+    },
+    {
+      "id": "xEQPGiWQjGU",
+      "title": "Unleash the Power of Lua Tables for Organization and Access",
+      "duration": 50
+    },
+    {
+      "id": "-lmo-pkyu84",
+      "title": "Saving Player Selections with Global Variables in Lua and Solar2D",
+      "duration": 501
+    }
+  ]
+}

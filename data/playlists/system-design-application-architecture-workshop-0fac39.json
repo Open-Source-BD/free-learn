@@ -1,0 +1,65 @@
+{
+  "courseId": "system-design-application-architecture-workshop-0fac39",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:13:15.333Z",
+  "title": "System Design & Application Architecture Workshop",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "Z3HgBkyU-Ts",
+      "title": "Day 1:Application Architecture | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 9394
+    },
+    {
+      "id": "qUGfEYRpSqU",
+      "title": "Day 2: Application Performance | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 9199
+    },
+    {
+      "id": "eiredWOHn3o",
+      "title": "Day 3.1: Application Scalability | System Design and Application Architecture Workshop",
+      "duration": 9966
+    },
+    {
+      "id": "H-idooje-0g",
+      "title": "Day 3.2: Application Scalability - Replication | System Design and Application Architecture Workshop",
+      "duration": 4947
+    },
+    {
+      "id": "uS78wbh9ScI",
+      "title": "Day 4: Microservice Architecture | System Design and Application Architecture Workshop",
+      "duration": 7540
+    },
+    {
+      "id": "-8m2ZBOt4IE",
+      "title": "Day 5: System Reliability | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 7669
+    },
+    {
+      "id": "pHqcklzmFLE",
+      "title": "Day 6: Application Security | System Design and Application Architecture Workshop | Stack Learner",
+      "duration": 7305
+    },
+    {
+      "id": "uL3_LXkLZPo",
+      "title": "Day 7: Technology Stack Discussion | System Design and Application Architecture Workshop",
+      "duration": 6113
+    },
+    {
+      "id": "sQIzIiO3vv0",
+      "title": "Day 8: Case Study-1 : URL Shortner System | System Design Workshop | Full Stack Army",
+      "duration": 8732
+    },
+    {
+      "id": "ZM82ccjHVCQ",
+      "title": "Day 9: Case Study-2 : Twitter Social Media Platform | System Design Workshop | Stack Learner",
+      "duration": 8306
+    },
+    {
+      "id": "GjCCyEwuzmI",
+      "title": "Day 10: Case Study-3 : Netflix | System Design and Application Architecture Workshop",
+      "duration": 6793
+    }
+  ]
+}

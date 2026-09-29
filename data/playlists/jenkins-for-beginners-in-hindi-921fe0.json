@@ -1,0 +1,250 @@
+{
+  "courseId": "jenkins-for-beginners-in-hindi-921fe0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:32.815Z",
+  "title": "Jenkins For Beginners In Hindi - Gaurav Sharma",
+  "channel": "Gaurav Sharma",
+  "videos": [
+    {
+      "id": "EzOyHf2KwWI",
+      "title": "1. Jenkins for Beginners - Introduction to Playlist",
+      "duration": 210
+    },
+    {
+      "id": "Q4TVfivY3rc",
+      "title": "2. Jenkins for Beginners - What/Why Jenkins",
+      "duration": 470
+    },
+    {
+      "id": "F82vcQdMAlQ",
+      "title": "3. Jenkins for Beginners - Installation of Jenkins",
+      "duration": 475
+    },
+    {
+      "id": "_U-vTgTVLiY",
+      "title": "4. Jenkins for Beginners - Dashboard Overview",
+      "duration": 232
+    },
+    {
+      "id": "Cpl3FXtzz4Y",
+      "title": "5. Jenkins for Beginners - Create First Jenkins Job ( behind the seen )",
+      "duration": 556
+    },
+    {
+      "id": "XCpIQlqIyd0",
+      "title": "6. Jenkins for Beginners - Search Panel",
+      "duration": 575
+    },
+    {
+      "id": "RFGPFVATONw",
+      "title": "7. Jenkins for Beginners - Configuration Overview",
+      "duration": 359
+    },
+    {
+      "id": "Nih9eM-p-CQ",
+      "title": "8. Jenkins for Beginners - Install First Plugin ( How to Change Jenkins Theme)",
+      "duration": 436
+    },
+    {
+      "id": "ycbZWweZGAw",
+      "title": "9. Jenkins for Beginners - Create First User",
+      "duration": 257
+    },
+    {
+      "id": "dWIfBoHOCDI",
+      "title": "10. Jenkins for Beginners - Jenkins Role Base Access Control (RBAC)",
+      "duration": 623
+    },
+    {
+      "id": "XqYWQbpeQ18",
+      "title": "11. Jenkins for Beginners -  Use of git plugin and clean workspace.",
+      "duration": 597
+    },
+    {
+      "id": "MKCMILHYdSY",
+      "title": "12. Jenkins for Beginners - Trigger Build Remotely",
+      "duration": 205
+    },
+    {
+      "id": "AVkifwRJfc0",
+      "title": "13. Jenkins for Beginners - Trigger Build Remotely-2",
+      "duration": 246
+    },
+    {
+      "id": "tvLsHm1uv1k",
+      "title": "14. Jenkins for Beginners - Build after other project are build (jenkins upstream and downstream)",
+      "duration": 194
+    },
+    {
+      "id": "But9783rr8s",
+      "title": "15. Jenkins for Beginners - Build after other project are build (unstable job jenkins)- part-2",
+      "duration": 213
+    },
+    {
+      "id": "BN3qth6Bzeg",
+      "title": "16. Jenkins for Beginners  - Build Periodically",
+      "duration": 180
+    },
+    {
+      "id": "WUI4T_1rmRs",
+      "title": "17. Jenkins for Beginners -  Poll SCM",
+      "duration": 353
+    },
+    {
+      "id": "AVLxwbcl8RU",
+      "title": "18. Jenkins for Beginners - Environment Variable",
+      "duration": 388
+    },
+    {
+      "id": "WP2IJWhpZ7Y",
+      "title": "19. Jenkins for Beginners - Global Environment Variable",
+      "duration": 307
+    },
+    {
+      "id": "xmZ3CEW7nH8",
+      "title": "20. Jenkins for Beginners - Parameterized jobs in Jenkins",
+      "duration": 296
+    },
+    {
+      "id": "K0RpCavlSh4",
+      "title": "21. Jenkins for beginners - Parameterized job - part 2",
+      "duration": 102
+    },
+    {
+      "id": "muV_Ay2urUM",
+      "title": "22. Jenkins for beginners - Parameterized job - File Parameter",
+      "duration": 113
+    },
+    {
+      "id": "hlS3LvtjvFA",
+      "title": "23. Jenkins for beginners - Timeout",
+      "duration": 312
+    },
+    {
+      "id": "uA8xb-B5brM",
+      "title": "24. Jenkins for Beginners - TimeStamp",
+      "duration": 170
+    },
+    {
+      "id": "vIWB9nYCZjU",
+      "title": "25. Jenkins for Beginners - Enable/Disable Job",
+      "duration": 157
+    },
+    {
+      "id": "uQqzmRGrBXA",
+      "title": "26. Jenkins for Beginners - Build a Job Concurrent or Parallels",
+      "duration": 134
+    },
+    {
+      "id": "ISE_ftObQLw",
+      "title": "27. Jenkins for Beginners - Retry Count",
+      "duration": 222
+    },
+    {
+      "id": "QKPhg-_my98",
+      "title": "28. Jenkins for Beginners - throttle Build",
+      "duration": 288
+    },
+    {
+      "id": "VqlnnMKUV8c",
+      "title": "29. Jenkins for Beginners - Custom workspace",
+      "duration": 276
+    },
+    {
+      "id": "lcvDPeydStI",
+      "title": "30. Jenkins for Beginners - Change Display Name And Rename Job",
+      "duration": 142
+    },
+    {
+      "id": "_jsFFUBz8NA",
+      "title": "31. Jenkins for Beginners - Block Build when Upstream/Downstream job is building",
+      "duration": 481
+    },
+    {
+      "id": "6Z8B3AMz_TY",
+      "title": "32. Jenkins for Beginners - General Discussion",
+      "duration": 289
+    },
+    {
+      "id": "fhIKugIdtMc",
+      "title": "33. Jenkins for Beginners - Create first Jenkins Pipeline using Build Pipeline",
+      "duration": 424
+    },
+    {
+      "id": "R48W6BmGfbA",
+      "title": "34. Jenkins for Beginners - Continuous Delivery/Deployment",
+      "duration": 366
+    },
+    {
+      "id": "cJ9jlzHZRhQ",
+      "title": "35. Jenkins for Beginners - Parallel Job in Jenkins Pipeline",
+      "duration": 235
+    },
+    {
+      "id": "87DqGj2gwYs",
+      "title": "36. Jenkins for Beginners - Deploy WAR to Tomcat Server ( Manual Steps )",
+      "duration": 1190
+    },
+    {
+      "id": "KONExz_a37o",
+      "title": "37. Jenkins for Beginners - Deploy WAR to Tomcat Server From Jenkins (Automations)",
+      "duration": 2776
+    },
+    {
+      "id": "kALMqmdMkNA",
+      "title": "38. Jenkins for Beginners: What/Why Jenkins Slave (Jenkins Slave Installation) (Setup Jenkins Slave)",
+      "duration": 842
+    },
+    {
+      "id": "kr_jE3h0uIs",
+      "title": "39. Jenkins for Beginners: Assign a Job to jenkins slave",
+      "duration": 493
+    },
+    {
+      "id": "Ks1QtkB7vus",
+      "title": "40. Jenkins for Beginners: Create first Pipeline as code - Create first Jenkinsfile",
+      "duration": 615
+    },
+    {
+      "id": "h7MAXJtlPDk",
+      "title": "41. Jenkins for Beginners: Pipeline as code - Run a Command",
+      "duration": 229
+    },
+    {
+      "id": "MVdenrUpDnA",
+      "title": "42. Jenkins for Beginners: Pipeline as code - Variable/Environment Variable",
+      "duration": 393
+    },
+    {
+      "id": "8N8nes2ta2M",
+      "title": "43. Jenkins for Beginners: Pipeline as code - Build Parameters - Parameters",
+      "duration": 402
+    },
+    {
+      "id": "AAlYhKGL1Aw",
+      "title": "44. Jenkins for Beginners: Pipeline as code - Input Parameters - Input From User",
+      "duration": 186
+    },
+    {
+      "id": "XkLUiL39PJs",
+      "title": "45. Jenkins for Beginners: Pipeline as code - Post Actions",
+      "duration": 557
+    },
+    {
+      "id": "jV9v0hFwvZU",
+      "title": "46. Jenkins for Beginners: Pipeline as code - Short Trick",
+      "duration": 1290
+    },
+    {
+      "id": "J1uxyuyg4R8",
+      "title": "47. Jenkins for Beginners - Pipeline as Code - Easiest Way To Write Jenkinsfile",
+      "duration": 938
+    },
+    {
+      "id": "12U_f34SS-0",
+      "title": "48. (Last) Jenkins for Beginners - Jenkins Maven Project Pipeline As Code - Send Slack Notification",
+      "duration": 2051
+    }
+  ]
+}

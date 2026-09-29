@@ -1,0 +1,30 @@
+{
+  "courseId": "ballerina-integrated-query-basics-114289",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7JOecNWBb0Lld0QfwGW4EKZEoeduyHKD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:42:09.305Z",
+  "title": "Ballerina Integrated Query Basics",
+  "channel": "Ballerina Programming Language",
+  "videos": [
+    {
+      "id": "I59ySekTH4k",
+      "title": "Ballerina Language Integrated Query - Introduction",
+      "duration": 100
+    },
+    {
+      "id": "XPFpJ2r3Ve8",
+      "title": "Ballerina Language Integrated Query - Query Expressions",
+      "duration": 624
+    },
+    {
+      "id": "HEKxa-v9lAk",
+      "title": "Ballerina Language Integrated Query - Construct Ballerina Types using Query Expressions",
+      "duration": 473
+    },
+    {
+      "id": "ogmPZFWmOrU",
+      "title": "Ballerina Language Integrated Query - Query Actions",
+      "duration": 313
+    }
+  ]
+}

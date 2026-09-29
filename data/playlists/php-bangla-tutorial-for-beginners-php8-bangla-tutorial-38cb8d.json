@@ -1,0 +1,355 @@
+{
+  "courseId": "php-bangla-tutorial-for-beginners-php8-bangla-tutorial-38cb8d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:38.317Z",
+  "title": "php bangla tutorial for beginners | php8 bangla tutorial | php basic to advanced bangla tutorial",
+  "channel": "Learn Hunter",
+  "videos": [
+    {
+      "id": "5JavawJuXCA",
+      "title": "00 php bangla tutorial for beginners | php8 bangla tutroial | Introduction",
+      "duration": 324
+    },
+    {
+      "id": "PKQC6bZYinI",
+      "title": "01 php bangla tutorial for beginners | php8 bangla tutroial | Run PHP on your PC",
+      "duration": 714
+    },
+    {
+      "id": "F5wiwqviehs",
+      "title": "02 php bangla tutorial for beginners | php8 bangla tutroial | php syntax",
+      "duration": 571
+    },
+    {
+      "id": "bCF5r5MNydw",
+      "title": "03 php bangla tutorial for beginners | php8 bangla tutroial | comments",
+      "duration": 438
+    },
+    {
+      "id": "xi_BU9gDxlQ",
+      "title": "04 php bangla tutorial for beginners | php8 bangla tutroial | variables",
+      "duration": 468
+    },
+    {
+      "id": "2NMEX17Uvqs",
+      "title": "05 php bangla tutorial for beginners | php8 bangla tutroial | Print Vs Echo",
+      "duration": 399
+    },
+    {
+      "id": "D2Ix7Bt1LXE",
+      "title": "06 php bangla tutorial for beginners | php8 bangla tutroial | Data Types",
+      "duration": 517
+    },
+    {
+      "id": "BVe7qyZiSCY",
+      "title": "07  php bangla tutorial for beginners | php8 bangla tutroial | Str pos, str replace,str_word_count",
+      "duration": 507
+    },
+    {
+      "id": "q2znt8iAbPo",
+      "title": "08 php bangla tutorial for beginners | php8 bangla tutroial |  PHP Numbers",
+      "duration": 726
+    },
+    {
+      "id": "fGOsdWR_XSI",
+      "title": "9 php bangla tutorial for beginners | php8 bangla tutroial | PHP Math",
+      "duration": 346
+    },
+    {
+      "id": "B7IRbaERIeY",
+      "title": "10 php bangla tutorial for beginners | php8 bangla tutroial | what is constant in php?",
+      "duration": 802
+    },
+    {
+      "id": "u9m8b-Q88JE",
+      "title": "11 php bangla tutorial for beginners | php8 bangla tutroial | What is Operators in php",
+      "duration": 283
+    },
+    {
+      "id": "VPBdYNkp9Eo",
+      "title": "12 php bangla tutorial for beginners | php8 bangla tutroial |  Arithematic Operator",
+      "duration": 398
+    },
+    {
+      "id": "MPfnbBM5f9E",
+      "title": "13 php bangla tutorial for beginners | php8 bangla tutroial | Assignment Operator in php",
+      "duration": 289
+    },
+    {
+      "id": "ZsljaaxJZVw",
+      "title": "14 php bangla tutorial for beginners | php8 bangla tutroial |Comparison Operator ,Spaceship Operator",
+      "duration": 746
+    },
+    {
+      "id": "nbg0CQwUXPw",
+      "title": "15 php bangla tutorial for beginners | php8 bangla tutroial | increment decrement operator in php",
+      "duration": 253
+    },
+    {
+      "id": "ngw_KMm8NKA",
+      "title": "16 php bangla tutorial for beginners | php8 bangla tutroial | logical Operators in php programming",
+      "duration": 481
+    },
+    {
+      "id": "szWq1dwH6Wk",
+      "title": "17 php bangla tutorial for beginners | php8 bangla tutroial | String Operators",
+      "duration": 255
+    },
+    {
+      "id": "if29P0HdLc0",
+      "title": "18 php bangla tutorial for beginners | php8 bangla tutroial | Array Operators",
+      "duration": 482
+    },
+    {
+      "id": "hoi5QJDNAa0",
+      "title": "19 php bangla tutorial for beginners | php8 bangla tutroial | PHP statement",
+      "duration": 278
+    },
+    {
+      "id": "tn7-1KK0EnY",
+      "title": "20 php bangla tutorial for beginners | php8 bangla tutroial | If condition",
+      "duration": 357
+    },
+    {
+      "id": "dba1XKZFL30",
+      "title": "21 php bangla tutorial for beginners | php8 bangla tutroial | if else statement",
+      "duration": 182
+    },
+    {
+      "id": "x4RPSDx3WPk",
+      "title": "22 php bangla tutorial for beginners | php8 bangla tutroial | if elseif else statement",
+      "duration": 285
+    },
+    {
+      "id": "hC25eMEYBv8",
+      "title": "23 php bangla tutorial for beginners | php8 bangla tutroial |Switch case in php",
+      "duration": 310
+    },
+    {
+      "id": "O83h2Udjiy4",
+      "title": "24 php bangla tutorial for beginners | php8 bangla tutroial | Loop in php",
+      "duration": 374
+    },
+    {
+      "id": "_ClxiOuHYD0",
+      "title": "25 php bangla tutorial for beginners | php8 bangla tutroial | While loop in php",
+      "duration": 289
+    },
+    {
+      "id": "3Xz-45Q2Rbs",
+      "title": "26 php bangla tutorial for beginners | php8 bangla tutroial | Do while loop",
+      "duration": 215
+    },
+    {
+      "id": "pkCePLexJgg",
+      "title": "27 php bangla tutorial for beginners | php8 bangla tutroial |for loop in php",
+      "duration": 237
+    },
+    {
+      "id": "F_7aGcXuFxQ",
+      "title": "28 php bangla tutorial for beginners | php8 bangla tutroial | php foreach loop",
+      "duration": 535
+    },
+    {
+      "id": "TRp0bqAtuiE",
+      "title": "29 php bangla tutorial for beginners | php8 bangla tutroial | break & continue",
+      "duration": 268
+    },
+    {
+      "id": "YInuehlgnl0",
+      "title": "30 php bangla tutorial for beginners | php8 bangla tutroial |  PHP function",
+      "duration": 424
+    },
+    {
+      "id": "s-WiIjZGhNs",
+      "title": "31  php bangla tutorial for beginners | php8 bangla tutroial |  Function arguments",
+      "duration": 330
+    },
+    {
+      "id": "UeiA2yk2Aus",
+      "title": "32 php bangla tutorial for beginners | php8 bangla tutroial | loosely typed",
+      "duration": 330
+    },
+    {
+      "id": "s-ydRRIggDc",
+      "title": "33  php bangla tutorial for beginners | php8 bangla tutroial | function returning value",
+      "duration": 424
+    },
+    {
+      "id": "D_Y9qxRwAUM",
+      "title": "34 php bangla tutorial for beginners | php8 bangla tutroial | What is an array in php",
+      "duration": 301
+    },
+    {
+      "id": "ky_E-DCR6Gk",
+      "title": "35 php bangla tutorial for beginners | php8 bangla tutroial | Indexed array",
+      "duration": 352
+    },
+    {
+      "id": "XVia_z9lOTw",
+      "title": "36 php bangla tutorial for beginners | php8 bangla tutroial | associative array in php",
+      "duration": 255
+    },
+    {
+      "id": "_e1z9oZlI4g",
+      "title": "37  php bangla tutorial for beginners | php8 bangla tutroial | multi dimensional arrays",
+      "duration": 483
+    },
+    {
+      "id": "IK8HbjuH7Vw",
+      "title": "38 php bangla tutorial for beginners | php8 bangla tutroial | Array sorting in php",
+      "duration": 516
+    },
+    {
+      "id": "49zn4PazVDM",
+      "title": "39 php bangla tutorial for beginners | Array change key case, array chunk , array column",
+      "duration": 548
+    },
+    {
+      "id": "-SluwsE1Q-4",
+      "title": "40 php bangla tutorial for beginners | array combine, array count values, array diff",
+      "duration": 427
+    },
+    {
+      "id": "10ly-zzEwxU",
+      "title": "41 php bangla tutorial for beginners | Array diff assoc,array diff key,array diff uassoc",
+      "duration": 463
+    },
+    {
+      "id": "pfsZMrbI0xg",
+      "title": "42 php bangla tutorial | array flip, array intersect, array intersect key, array intersect uassoc",
+      "duration": 340
+    },
+    {
+      "id": "Pskk1L3MObw",
+      "title": "43 php bangla tutorial |  array merge, array merge recursive",
+      "duration": 568
+    },
+    {
+      "id": "S0VYNIEhNYY",
+      "title": "44 php bangla tutorial | arraypop, array pad , array push ,array product",
+      "duration": 340
+    },
+    {
+      "id": "uqG9BDqJtK8",
+      "title": "45 php bangla tutorial | array rand , array reduce , array replace, array search",
+      "duration": 395
+    },
+    {
+      "id": "nZ-WZhUilAM",
+      "title": "46 php bangla tutorial |array slice, array splice, array unique,array sum",
+      "duration": 506
+    },
+    {
+      "id": "KikAsc-amDw",
+      "title": "47  php bangla tutorial | arsort,asort,compact,count",
+      "duration": 391
+    },
+    {
+      "id": "sCrs7d72UT8",
+      "title": "48  php bangla tutorial | array size of, array shuffle,array current",
+      "duration": 374
+    },
+    {
+      "id": "iLvKpQ277q0",
+      "title": "49 Super global variable in php bangla tutorial",
+      "duration": 418
+    },
+    {
+      "id": "liDK5jdUlH0",
+      "title": "50  $_SERVER super global variable | php bangla tutorial",
+      "duration": 271
+    },
+    {
+      "id": "GO_XRIedvTI",
+      "title": "51  $_REQUEST super global variable | php bangla tutorial",
+      "duration": 600
+    },
+    {
+      "id": "wvwvmhbArnc",
+      "title": "52 $_GET and $_POST super global variable | php bangla tutorial",
+      "duration": 440
+    },
+    {
+      "id": "gov3rf_gozY",
+      "title": "53 Regular Expression (RegEx) in php | php bangla tutorial |basic to advanced php",
+      "duration": 473
+    },
+    {
+      "id": "tfsRrXTn8Ts",
+      "title": "54 form handling in php | php bangla tutorial",
+      "duration": 625
+    },
+    {
+      "id": "UBVzZd5JT4k",
+      "title": "55 Form Validation in php | php bangla tutorial |basic to advanced php",
+      "duration": 595
+    },
+    {
+      "id": "rXwvHROlGQc",
+      "title": "56 filter var and sanitize in php | php bangla tutorial |basic to advanced php",
+      "duration": 712
+    },
+    {
+      "id": "lMKhpV35Buc",
+      "title": "57 Date Time function in php | php advanced bangla tutorial | php8 bangla tutorial",
+      "duration": 1036
+    },
+    {
+      "id": "vg_pBtZD1Nw",
+      "title": "58 php bangla tutorial for beginners | php8 bangla tutroial | Date From a String With strtotime",
+      "duration": 486
+    },
+    {
+      "id": "y9LqCrmP9Ls",
+      "title": "59 php bangla tutorial for beginners | php8 bangla tutroial | Include & recuired in php",
+      "duration": 526
+    },
+    {
+      "id": "O0LN7c9aMH0",
+      "title": "60 php bangla tutorial for beginners | php8 bangla tutroial | file handling php  readfile",
+      "duration": 299
+    },
+    {
+      "id": "BS2SCd6wmUQ",
+      "title": "61 fopen ,fread ,fclose in php | php bangla tutorial | php8 bangla tutorial basic tp advanced",
+      "duration": 440
+    },
+    {
+      "id": "Cr87X40kFEU",
+      "title": "62 file create and write php bangla tutorial | php 8 basic to advanced bangla tutorial",
+      "duration": 345
+    },
+    {
+      "id": "CsXNu7dyTR8",
+      "title": "63 file upload in php | how to upload image or other file in php",
+      "duration": 1029
+    },
+    {
+      "id": "LNBUSoUYUzM",
+      "title": "64 file download in php | easy way to implement download file in php",
+      "duration": 124
+    },
+    {
+      "id": "w7_f1KKaU7s",
+      "title": "65 cookie in PHP | what is cookie and how it is working bangla tutorial",
+      "duration": 483
+    },
+    {
+      "id": "uMh1CTSwN0w",
+      "title": "66 session in php | how session is working on php | what is session in php bangla tutorial",
+      "duration": 561
+    },
+    {
+      "id": "3rpkQDCmduk",
+      "title": "67 filter var function in php with sanitized and validate | php bangla tutorial",
+      "duration": 422
+    },
+    {
+      "id": "tL_rr-2A04U",
+      "title": "68 callback function in php | what is it and how it is working? | php bangla tutorial",
+      "duration": 302
+    }
+  ]
+}

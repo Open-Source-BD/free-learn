@@ -1,0 +1,575 @@
+{
+  "courseId": "java-tutorials-for-beginners-in-hindi-e0d9ef",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:16.632Z",
+  "title": "Java Tutorials For Beginners In Hindi",
+  "channel": "CodeWithHarry",
+  "videos": [
+    {
+      "id": "ntLJmHOJ0ME",
+      "title": "Introduction to Java + Installing Java JDK and IntelliJ IDEA for Java",
+      "duration": 1140
+    },
+    {
+      "id": "zIdg7hkqNE0",
+      "title": "Basic Structure of a Java Program: Understanding our First Java Hello World Program",
+      "duration": 849
+    },
+    {
+      "id": "X0zdAG7gfgs",
+      "title": "Java Tutorial: Variables and Data Types in Java Programming",
+      "duration": 1488
+    },
+    {
+      "id": "b2VJmyarV3I",
+      "title": "Java Tutorial: Literals in Java",
+      "duration": 994
+    },
+    {
+      "id": "HRfmLqqvzUs",
+      "title": "Java Tutorial: Getting User Input in Java",
+      "duration": 938
+    },
+    {
+      "id": "C5me8SeuW9M",
+      "title": "Java Programming Exercise 1: CBSE Board Percentage Calculator",
+      "duration": 283
+    },
+    {
+      "id": "d9oF3MNzmuk",
+      "title": "Java Tutorial: Chapter 1- Practice Set | Java Practice Problems With Solution",
+      "duration": 636
+    },
+    {
+      "id": "pnn2VTSr1Ko",
+      "title": "Java Tutorial: Operators, Types of Operators & Expressions in Java",
+      "duration": 959
+    },
+    {
+      "id": "vh16INx13h4",
+      "title": "Java Tutorial: Associativity of Operators in Java",
+      "duration": 1073
+    },
+    {
+      "id": "xGsUs3XQ0t0",
+      "title": "Java Tutorial:  Data Type of Expressions & Increment/Decrement Operators",
+      "duration": 844
+    },
+    {
+      "id": "HQxKktmOXQY",
+      "title": "Java Tutorial: Exercise 1 - Solutions + Shoutouts",
+      "duration": 601
+    },
+    {
+      "id": "WC7B7LffdkI",
+      "title": "Java Tutorial: Chapter 2 - Practice Set (Java Practice Questions)",
+      "duration": 742
+    },
+    {
+      "id": "tem1bKt2Osc",
+      "title": "Java Tutorial: Introduction to Strings",
+      "duration": 753
+    },
+    {
+      "id": "1SJK4Y4axXs",
+      "title": "Java Tutorial: String Methods in Java",
+      "duration": 2342
+    },
+    {
+      "id": "MO3GfaHwHsw",
+      "title": "Java Practice Questions on Strings: Practice Set on Java Strings (Must Solve!)",
+      "duration": 834
+    },
+    {
+      "id": "YPK6NYMJt_A",
+      "title": "Java Conditionals: If-else Statement in Java",
+      "duration": 789
+    },
+    {
+      "id": "Y-c8gQV2Tuw",
+      "title": "Java Tutorial: Relational and Logical Operators in Java",
+      "duration": 745
+    },
+    {
+      "id": "hdOtQSuPBRY",
+      "title": "Java Tutorial: Switch Case Statements in Java",
+      "duration": 1071
+    },
+    {
+      "id": "lGHzXsEoUkM",
+      "title": "Java Tutorial: Practice Questions On Conditionals & Switch Case",
+      "duration": 1748
+    },
+    {
+      "id": "UClkmZOZhhs",
+      "title": "Java Programming Exercise 2: Rock, Paper Scissors Game in Java",
+      "duration": 452
+    },
+    {
+      "id": "GE5C_So1y00",
+      "title": "Java Tutorial: While Loops in Java",
+      "duration": 1002
+    },
+    {
+      "id": "XFyNiI6ozO0",
+      "title": "Java Tutorial: The do-while loop in Java",
+      "duration": 737
+    },
+    {
+      "id": "XHgC6Md8L9o",
+      "title": "Java Tutorial: The for Loop in Java",
+      "duration": 1194
+    },
+    {
+      "id": "HguqMkdIkcs",
+      "title": "Java Tutorial: break and continue in Java",
+      "duration": 886
+    },
+    {
+      "id": "zY87HRloM18",
+      "title": "Java tutorial: Practice Questions on Loops",
+      "duration": 1549
+    },
+    {
+      "id": "qMePCtjeqB4",
+      "title": "Java Tutorial: Introduction to Arrays",
+      "duration": 952
+    },
+    {
+      "id": "-AJGE_8htCI",
+      "title": "Java Tutorial: For Each Loop in Java",
+      "duration": 899
+    },
+    {
+      "id": "CfqjAKN-AwI",
+      "title": "Java Tutorial: Multidimensional Arrays in Java",
+      "duration": 952
+    },
+    {
+      "id": "XDlxr2wYNfU",
+      "title": "Java Tutorial: Practice Questions on Arrays in Java",
+      "duration": 2923
+    },
+    {
+      "id": "1etC1g0HNBg",
+      "title": "How to Make IntelliJ IDEA look Amazing!",
+      "duration": 528
+    },
+    {
+      "id": "t6e5AyYWLFw",
+      "title": "Java Tutorial: Methods in Java",
+      "duration": 1296
+    },
+    {
+      "id": "pFaB68naMiU",
+      "title": "Java Tutorial: Method Overloading in Java",
+      "duration": 1440
+    },
+    {
+      "id": "PpRpiMReGXY",
+      "title": "Java Tutorial: Variable Arguments (VarArgs) in Java",
+      "duration": 772
+    },
+    {
+      "id": "QLbG77JngYc",
+      "title": "Java Tutorial: Recursion in Java",
+      "duration": 763
+    },
+    {
+      "id": "VXR3HKRg51w",
+      "title": "Java Tutorial: Practice Questions on Java Methods",
+      "duration": 1880
+    },
+    {
+      "id": "5OrZpBbGKgc",
+      "title": "Java Tutorial: Introduction to Object Oriented Programming",
+      "duration": 913
+    },
+    {
+      "id": "HHWPcyFmw2o",
+      "title": "Java Tutorial: Basic Terminologies in Object Oriented Programming",
+      "duration": 933
+    },
+    {
+      "id": "0HIR0rzj8pQ",
+      "title": "Java Tutorial: Creating Our Own Java Class",
+      "duration": 1061
+    },
+    {
+      "id": "wQZCbojRawg",
+      "title": "Java Tutorial: Basic Questions on Object Oriented Programming",
+      "duration": 1223
+    },
+    {
+      "id": "25zw-ljLLw0",
+      "title": "Java Tutorial: Access modifiers, getters & setters in Java",
+      "duration": 776
+    },
+    {
+      "id": "5XF_POby0Q0",
+      "title": "Java Tutorial: Exercise 2 - Solution and Shoutouts",
+      "duration": 603
+    },
+    {
+      "id": "Fxj4n8En8lw",
+      "title": "Java Tutorial: Constructors in Java",
+      "duration": 953
+    },
+    {
+      "id": "2heXAHrmmsk",
+      "title": "Java Exercise 3: Guess the Number (OOPs Edition)",
+      "duration": 473
+    },
+    {
+      "id": "N3Xu1rO6feY",
+      "title": "Java Tutorial: Exercise on Access Modifiers and Constructors",
+      "duration": 1136
+    },
+    {
+      "id": "XSuybcFfLx4",
+      "title": "Inheritance in Java",
+      "duration": 1279
+    },
+    {
+      "id": "-b-_NNlCcng",
+      "title": "Constructors in Inheritance in Java",
+      "duration": 1185
+    },
+    {
+      "id": "R1SXNJElXHo",
+      "title": "this and super keyword in Java",
+      "duration": 788
+    },
+    {
+      "id": "DSZI90Db24I",
+      "title": "Method Overriding in Java",
+      "duration": 879
+    },
+    {
+      "id": "qbXNFOuD9k4",
+      "title": "Dynamic Method Dispatch in Java",
+      "duration": 1126
+    },
+    {
+      "id": "rfKz08bClBA",
+      "title": "Java Tutorial: Exercise 3 - Solutions & Shoutouts",
+      "duration": 916
+    },
+    {
+      "id": "iOaDMWkmc3Q",
+      "title": "Java Tutorial: Exercise 4 - Online Library",
+      "duration": 243
+    },
+    {
+      "id": "dm_bclqGhuc",
+      "title": "Java Tutorial: Exercise & Practice Questions on Inheritance",
+      "duration": 1175
+    },
+    {
+      "id": "vqV22AszAdw",
+      "title": "Java Tutorial: Abstract Class & Abstract Methods",
+      "duration": 1455
+    },
+    {
+      "id": "VYhmL038G1I",
+      "title": "Java Tutorial: Introduction to Interfaces",
+      "duration": 925
+    },
+    {
+      "id": "qZEFslUVfx0",
+      "title": "Java Tutorial: Abstract Classes Vs Interfaces",
+      "duration": 890
+    },
+    {
+      "id": "HnaVobvfSyc",
+      "title": "Why multiple inheritance is not supported in java?",
+      "duration": 800
+    },
+    {
+      "id": "D4TYED_gKTE",
+      "title": "Java Interfaces Example & Default Methods",
+      "duration": 962
+    },
+    {
+      "id": "F_CrLyz5xW4",
+      "title": "Inheritance in Interfaces",
+      "duration": 601
+    },
+    {
+      "id": "08u8RlXca2I",
+      "title": "Java Tutorial: Polymorphism in Interfaces",
+      "duration": 963
+    },
+    {
+      "id": "-1ibsVnP64Q",
+      "title": "Java Practice Questions on Abstract Classes & Interfaces",
+      "duration": 901
+    },
+    {
+      "id": "VysxZDROr64",
+      "title": "Java Exercise 4: Solution & Shoutouts!",
+      "duration": 904
+    },
+    {
+      "id": "jtXJP_BqXes",
+      "title": "Interpreted vs Compiled Languages!",
+      "duration": 678
+    },
+    {
+      "id": "luxOkCvJBcQ",
+      "title": "Is Java interpreted or compiled?",
+      "duration": 782
+    },
+    {
+      "id": "k7TwStbkK70",
+      "title": "Packages in Java",
+      "duration": 1165
+    },
+    {
+      "id": "av816KIz8nM",
+      "title": "Java Tutorial: Creating Packages in Java",
+      "duration": 1318
+    },
+    {
+      "id": "vgg9T4_0CNA",
+      "title": "Access Modifiers in Java",
+      "duration": 994
+    },
+    {
+      "id": "MvmZgflfT8M",
+      "title": "Practice Set on Java Package & Access Modifiers",
+      "duration": 680
+    },
+    {
+      "id": "QjwtW7GHjcY",
+      "title": "Java Exercise 5: Creating a Custom Package",
+      "duration": 332
+    },
+    {
+      "id": "YDH7f9dTXAs",
+      "title": "Multithreading in Java",
+      "duration": 863
+    },
+    {
+      "id": "b_h4-_j6JmY",
+      "title": "Creating a Thread by Extending Thread class",
+      "duration": 1107
+    },
+    {
+      "id": "7wpFNKnCpiQ",
+      "title": "Creating a Java Thread Using Runnable Interface",
+      "duration": 510
+    },
+    {
+      "id": "9O9tTS6LseI",
+      "title": "Java Thread Life Cycle",
+      "duration": 633
+    },
+    {
+      "id": "DAHHFj39RRY",
+      "title": "Constructors from Thread class in Java",
+      "duration": 803
+    },
+    {
+      "id": "0s46eRixwnk",
+      "title": "Java Thread Priorities",
+      "duration": 613
+    },
+    {
+      "id": "rVDWb0stlfQ",
+      "title": "Java Thread Methods",
+      "duration": 739
+    },
+    {
+      "id": "AKuu92ELIrE",
+      "title": "Java Tutorial: Practice Questions on Thread",
+      "duration": 898
+    },
+    {
+      "id": "O5mEqyUzRVA",
+      "title": "Exercise 5: Solution & Shoutouts!",
+      "duration": 1016
+    },
+    {
+      "id": "ZovnoASlIaE",
+      "title": "Errors & Exception in Java",
+      "duration": 1025
+    },
+    {
+      "id": "gtszMcGWW10",
+      "title": "Syntax Errors, Runtime Errors & Logical Errors in Java (Demo)",
+      "duration": 1071
+    },
+    {
+      "id": "bMhDwdT5AHw",
+      "title": "Try Catch Block in Java",
+      "duration": 756
+    },
+    {
+      "id": "UXvMSMnYAzE",
+      "title": "Handling Specific Exceptions in Java",
+      "duration": 738
+    },
+    {
+      "id": "To6tsfRADL4",
+      "title": "Nested Try-Catch in Java",
+      "duration": 670
+    },
+    {
+      "id": "UZIIY5CK0TM",
+      "title": "The Exception class in Java",
+      "duration": 1156
+    },
+    {
+      "id": "sOcZgWyoQuk",
+      "title": "Throw vs Throws in Java",
+      "duration": 1049
+    },
+    {
+      "id": "a0TkfbAGuKw",
+      "title": "Finally Block in Java & Why is it needed!",
+      "duration": 1002
+    },
+    {
+      "id": "iH9Hkh9C-YM",
+      "title": "Practice Set on Errors & Exceptions",
+      "duration": 847
+    },
+    {
+      "id": "93CDUtPjCPk",
+      "title": "Java Exercise 6: Custom Calculator | Java Practice Question",
+      "duration": 428
+    },
+    {
+      "id": "s8yrPZlvNP0",
+      "title": "Java Collections Framework",
+      "duration": 758
+    },
+    {
+      "id": "M5DlD4VMNO8",
+      "title": "Collections Hierarchy in Java",
+      "duration": 585
+    },
+    {
+      "id": "3HO65WF1sPY",
+      "title": "How to View Java Documentation (Correct Way)",
+      "duration": 718
+    },
+    {
+      "id": "hxUGjnVaPgE",
+      "title": "ArrayList in Java: Demo & Methods",
+      "duration": 1235
+    },
+    {
+      "id": "eAyUSV164Ro",
+      "title": "LinkedList in Java: Demo & Methods",
+      "duration": 900
+    },
+    {
+      "id": "07HKJO4B96M",
+      "title": "ArrayDeque in Java",
+      "duration": 826
+    },
+    {
+      "id": "JVdMD3r7dSs",
+      "title": "Hashing in Java",
+      "duration": 675
+    },
+    {
+      "id": "tqC_U2Y7rr4",
+      "title": "HashSet in Java",
+      "duration": 506
+    },
+    {
+      "id": "PCJRuBQa4Pk",
+      "title": "Date and Time in Java",
+      "duration": 751
+    },
+    {
+      "id": "AykO23IwSLw",
+      "title": "The Date Class in Java",
+      "duration": 551
+    },
+    {
+      "id": "5v2XK-HIRnc",
+      "title": "Calendar Class in Java",
+      "duration": 471
+    },
+    {
+      "id": "2a6zZBrT92o",
+      "title": "GregorianCalendar class & TimeZone in java",
+      "duration": 760
+    },
+    {
+      "id": "LfxKvn2Ri4E",
+      "title": "java.time API - Classes & Methods",
+      "duration": 549
+    },
+    {
+      "id": "icQM98mzlG0",
+      "title": "DateTimeFormatter in Java",
+      "duration": 825
+    },
+    {
+      "id": "-b93mslJ2j8",
+      "title": "Advanced Java Practice Set",
+      "duration": 882
+    },
+    {
+      "id": "KRIb4hm6uDI",
+      "title": "Java Exercise 6: Solution | Custom Calculator",
+      "duration": 1068
+    },
+    {
+      "id": "IgPDDiFcA88",
+      "title": "Java Exercise 7: Library Management System in Java",
+      "duration": 521
+    },
+    {
+      "id": "IrSbN7Y2lOA",
+      "title": "Generating our own JavaDocs for our Package",
+      "duration": 553
+    },
+    {
+      "id": "u7hFzG1n4mg",
+      "title": "Javadocs: Tags for Documenting Classes",
+      "duration": 1047
+    },
+    {
+      "id": "gZJXbmC8Yno",
+      "title": "Javadocs: Method Tags For Generating java Documentation",
+      "duration": 786
+    },
+    {
+      "id": "jy8Glegc5Xo",
+      "title": "Annotations in Java",
+      "duration": 895
+    },
+    {
+      "id": "FTk7bGPAYpo",
+      "title": "Java Anonymous Classes & Lambda Expressions",
+      "duration": 1165
+    },
+    {
+      "id": "BsBK3UZ0RGM",
+      "title": "Java Generics",
+      "duration": 935
+    },
+    {
+      "id": "Vy2l3lGAb2I",
+      "title": "File Handling in Java",
+      "duration": 952
+    },
+    {
+      "id": "K4iaIuPx7Go",
+      "title": "Advanced Java 2 - Practice Set",
+      "duration": 689
+    },
+    {
+      "id": "j-k6ppZZ-ho",
+      "title": "Exercise 7: Solutions + Shoutouts",
+      "duration": 754
+    }
+  ]
+}

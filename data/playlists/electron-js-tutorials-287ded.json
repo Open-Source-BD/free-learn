@@ -1,0 +1,70 @@
+{
+  "courseId": "electron-js-tutorials-287ded",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:40.631Z",
+  "title": "Electron js Tutorials",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "tqBi_Tou6wQ",
+      "title": "Electron js Tutorial - 1 - Introduction",
+      "duration": 224
+    },
+    {
+      "id": "RL305ldfzm8",
+      "title": "Electron js Tutorial - 2 - Hello World",
+      "duration": 904
+    },
+    {
+      "id": "yeYiuUONO9I",
+      "title": "Electron js Tutorial - 3 - Main and Renderer Process",
+      "duration": 808
+    },
+    {
+      "id": "zq7GrAym-KI",
+      "title": "Electron js Tutorial - 4 - BrowserWindow",
+      "duration": 657
+    },
+    {
+      "id": "qyAG4M9eH8o",
+      "title": "Electron js Tutorial - 5 - Quote Widget",
+      "duration": 757
+    },
+    {
+      "id": "rX3axskesDw",
+      "title": "Electron js Tutorial - 6 - IPC",
+      "duration": 1066
+    },
+    {
+      "id": "MGC2W-dJtYM",
+      "title": "Electron js Tutorial - 7 - Application Menu",
+      "duration": 581
+    },
+    {
+      "id": "MkVLaM9JAxM",
+      "title": "Electron js Tutorial - 8 - Context Menu",
+      "duration": 325
+    },
+    {
+      "id": "-POUsDEfI14",
+      "title": "Electron js Tutorial - 9 - Accelerators and Global Shortcuts",
+      "duration": 455
+    },
+    {
+      "id": "tFawuDeSGWM",
+      "title": "Electron js Tutorial - 10 - Shell Module",
+      "duration": 298
+    },
+    {
+      "id": "6guMb33u7Kg",
+      "title": "Electron js Tutorial - 11 - Tray Module",
+      "duration": 341
+    },
+    {
+      "id": "m7dXcuK03ho",
+      "title": "Electron js Tutorial - 12 - CRUD File",
+      "duration": 862
+    }
+  ]
+}

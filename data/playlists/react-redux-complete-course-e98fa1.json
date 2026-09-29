@@ -1,0 +1,225 @@
+{
+  "courseId": "react-redux-complete-course-e98fa1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:20.264Z",
+  "title": "React - Redux Complete Course",
+  "channel": "Stack Learner",
+  "videos": [
+    {
+      "id": "EX2jPSw_RRc",
+      "title": "1. React - Redux Course Intro - Why We Should Learn React",
+      "duration": 1008
+    },
+    {
+      "id": "jO8YqPqTnkE",
+      "title": "2. Create React App Install and Project Structure in Bangla",
+      "duration": 1252
+    },
+    {
+      "id": "7iYjiSt8gw8",
+      "title": "3. What is JSX in React in Bangla | How to Use JSX in React 16",
+      "duration": 1024
+    },
+    {
+      "id": "xi_OiJf4zYY",
+      "title": "4. What is Component in React in Bangla | How to Decide What Should be a Component",
+      "duration": 834
+    },
+    {
+      "id": "QoQg52XQO90",
+      "title": "5. Create You First React Component in Bangla | First React js Component in Bangla",
+      "duration": 703
+    },
+    {
+      "id": "ngVvyalBQcU",
+      "title": "6. What are Props in React | How to Use React Props in Action",
+      "duration": 731
+    },
+    {
+      "id": "-CLsHGszdds",
+      "title": "7. What is State in React in Bangla | How to Re Render DOM Using State in React",
+      "duration": 1544
+    },
+    {
+      "id": "7DRSswWWxQo",
+      "title": "8  Event Handler in React in Bangla | How to Handle Events in React 16",
+      "duration": 1510
+    },
+    {
+      "id": "eWyJ6_oLvKI",
+      "title": "9. What is Stateless Component in React in Bangla | How to Use Stateless Component in React js",
+      "duration": 530
+    },
+    {
+      "id": "y-EeEHr8Tfc",
+      "title": "10. Working with Styles in React 16 in Bangla | How to Use CSS in React 16",
+      "duration": 666
+    },
+    {
+      "id": "QmyfphquZVQ",
+      "title": "11. List & Events in React in Bangla Part 1 | Working with List is React",
+      "duration": 1485
+    },
+    {
+      "id": "Z20lC_B_kCs",
+      "title": "12. List & Events in React in Bangla Part 2 | Working with List is React | Twinkle Cats",
+      "duration": 1216
+    },
+    {
+      "id": "FiYJWcZot4I",
+      "title": "13. Lifecycle Methods in React 16 In Bangla | How to Use Lifecycle Methods | Twinkle Cats",
+      "duration": 1211
+    },
+    {
+      "id": "0IG8hj56Jhc",
+      "title": "14. Fetch Data From Server in React in Bangla | How to Use Axios in React | Twinkle Cats",
+      "duration": 787
+    },
+    {
+      "id": "gxAoFa_p4Xk",
+      "title": "15. React Forms in Bangla Part 1 | How to Work with Forms in React 16 | Twinkle Cats",
+      "duration": 1356
+    },
+    {
+      "id": "4L4lImmB474",
+      "title": "16. React Forms in Bangla Part 2 | How to Work with Forms in React 16 | Twinkle Cats",
+      "duration": 1337
+    },
+    {
+      "id": "kYPMmDLa0RQ",
+      "title": "17. React Developer Tools in Bangla | How to Use React Dev Tools | Twinkle Cats",
+      "duration": 450
+    },
+    {
+      "id": "mELFfH71-ww",
+      "title": "18. Post Form Data Using Axios in Bangla | React Post Request Using Axios",
+      "duration": 1441
+    },
+    {
+      "id": "YakGxvVYpjw",
+      "title": "React Router 4 Crash Course in Bangla | All You Need to Know About React Router | Twinkle Cats",
+      "duration": 4450
+    },
+    {
+      "id": "xu3v398prbo",
+      "title": "1. Fullstack Project Setup in Bangla | MERN Stack Project | Twinkle Cats",
+      "duration": 1515
+    },
+    {
+      "id": "OwTLzoym9UM",
+      "title": "2. Fullstack Project Setup | MERN Stack Project | Twinkle Cats",
+      "duration": 709
+    },
+    {
+      "id": "cRIknb-RExk",
+      "title": "3. Fullstack Project - Planning in Bangla | MERN Stack Project | Twinkle Cats",
+      "duration": 762
+    },
+    {
+      "id": "SvhC6MjzMWQ",
+      "title": "4. Fullstack Project - Create User Model in Bangla | MERN Stack Project | Twinkle Cats",
+      "duration": 695
+    },
+    {
+      "id": "BU3f68fFX5Y",
+      "title": "5. Fullstack Project - Create User Route in Bangla | MERN Stack Project | Twinkle Cats",
+      "duration": 673
+    },
+    {
+      "id": "ENfIZEnYuic",
+      "title": "6. Fullstack Project - Install Postman in Bangla | MERN Stack Project | Twinkle Cats",
+      "duration": 639
+    },
+    {
+      "id": "F6--3xadez4",
+      "title": "7. Fullstack Project - User Controller & Custom Validation in Bangla | Twinkle Cats",
+      "duration": 1274
+    },
+    {
+      "id": "x79DGjCAxCY",
+      "title": "8. Fullstack Project - User Registration Using Bcrypt in Bangla | Twinkle Cats",
+      "duration": 811
+    },
+    {
+      "id": "fHupdYJVQEQ",
+      "title": "9. Fullstack Project - User Login Using Bcrypt in Bangla | Twinkle Cats",
+      "duration": 1778
+    },
+    {
+      "id": "W5cGl77CRTU",
+      "title": "10. Fullstack Project - React Redux Project Setup in Bangla | Twinkle Cats",
+      "duration": 1325
+    },
+    {
+      "id": "udxQcPRe4as",
+      "title": "11. Fullstack Project - Login Registration Form Using JSX in Bangla | Twinkle Cats",
+      "duration": 783
+    },
+    {
+      "id": "60w0jUJNa5Y",
+      "title": "12. Fullstack Project - Registration with Error Handling in Bangla | Twinkle Cats",
+      "duration": 2417
+    },
+    {
+      "id": "LslteF6ADPI",
+      "title": "13. Fullstack Project - Login Logout System in React in Bangla | Twinkle Cats",
+      "duration": 2301
+    },
+    {
+      "id": "bM1qYZPE16o",
+      "title": "14. Fullstack Project - Transaction API Backend | Twinkle Cats",
+      "duration": 2514
+    },
+    {
+      "id": "O04tBxtcRvQ",
+      "title": "15. Fullstack Project - Authentication Middleware with Passport Bangla | Twinkle Cats",
+      "duration": 3163
+    },
+    {
+      "id": "Qxx3nVBomgE",
+      "title": "16. Fullstack Project - Creating A Dashboard in Bangla | Twinkle Cats",
+      "duration": 1269
+    },
+    {
+      "id": "4NTeZ6jw7Es",
+      "title": "17. Fullstack Project - Creating Transaction JSX Part in Bangla | Twinkle Cats",
+      "duration": 1593
+    },
+    {
+      "id": "t8FGqK7y2JY",
+      "title": "18. Fullstack Project - Creating Transaction Redux Part in Bangla | Twinkle Cats",
+      "duration": 848
+    },
+    {
+      "id": "nDlOoM4s6mY",
+      "title": "19. Fullstack Project - Remove Transactions in Bangla | Twinkle Cats",
+      "duration": 1208
+    },
+    {
+      "id": "qKPKBHDz5nI",
+      "title": "20. Fullstack Project - Update Transactions in Bangla | Twinkle Cats",
+      "duration": 1074
+    },
+    {
+      "id": "2b2I80CEUts",
+      "title": "21. Fullstack Project - Create Dynamic Navbar in Bangla | Twinkle Cats",
+      "duration": 1265
+    },
+    {
+      "id": "rjHXWskLox8",
+      "title": "22. Fullstack Project - Deploy Application to Heroku in Bangla | Twinkle Cats",
+      "duration": 1429
+    },
+    {
+      "id": "Z078ebqz8Fs",
+      "title": "Official Release of Understand ReactJS Core Features - Absolute Beginners Bangla Course",
+      "duration": 482
+    },
+    {
+      "id": "jc12ox_bisU",
+      "title": "Thinking in React - Think Everything as a Component | React Bangla Tutorial",
+      "duration": 1691
+    }
+  ]
+}

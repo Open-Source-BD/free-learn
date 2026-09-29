@@ -1,0 +1,185 @@
+{
+  "courseId": "jetpack-compose-91085f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:56.061Z",
+  "title": "Jetpack Compose",
+  "channel": "Philipp Lackner",
+  "videos": [
+    {
+      "id": "cDabx3SjuOY",
+      "title": "Creating Your First Jetpack Compose App - Android Jetpack Compose - Part 1",
+      "duration": 665
+    },
+    {
+      "id": "rHKeRWK3zL4",
+      "title": "Rows, Columns & Basic Sizing - Android Jetpack Compose - Part 2",
+      "duration": 1044
+    },
+    {
+      "id": "XCuC_p3E0qo",
+      "title": "Modifiers - Android Jetpack Compose - Part 3",
+      "duration": 1107
+    },
+    {
+      "id": "KPVoQjwmWX4",
+      "title": "Creating an Image Card Composable - Android Jetpack Compose - Part 4",
+      "duration": 1076
+    },
+    {
+      "id": "nm_LNJWHi9A",
+      "title": "Styling Text - Android Jetpack Compose - Part 5",
+      "duration": 657
+    },
+    {
+      "id": "s3m1PSd7VWc",
+      "title": "State - Android Jetpack Compose - Part 6",
+      "duration": 765
+    },
+    {
+      "id": "_yON9d9if6g",
+      "title": "Textfields, Buttons & Showing Snackbars - Android Jetpack Compose - Part 7",
+      "duration": 823
+    },
+    {
+      "id": "1Thp0bB5Ev0",
+      "title": "Lists - Android Jetpack Compose - Part 8",
+      "duration": 477
+    },
+    {
+      "id": "FBpiOAiseD0",
+      "title": "ConstraintLayout - Android Jetpack Compose - Part 9",
+      "duration": 718
+    },
+    {
+      "id": "gxWcfz3V2QE",
+      "title": "Full Guide to Jetpack Compose Effect Handlers",
+      "duration": 1496
+    },
+    {
+      "id": "trVmP1rw0uw",
+      "title": "Simple Animations - Android Jetpack Compose - Part 11",
+      "duration": 822
+    },
+    {
+      "id": "ZasJB95VBtM",
+      "title": "How to Make an Animated Circular Progress Bar in Jetpack Compose - Android Studio Tutorial",
+      "duration": 827
+    },
+    {
+      "id": "TOflUdgx4pw",
+      "title": "How to Make a Draggable Music Knob in Jetpack Compose - Android Studio Tutorial",
+      "duration": 1970
+    },
+    {
+      "id": "g5-wzZUnIbQ",
+      "title": "Making a Meditation UI With Jetpack Compose - Android Studio Tutorial",
+      "duration": 3432
+    },
+    {
+      "id": "2mKhmMrt2Ok",
+      "title": "How to Make a Timer in Jetpack Compose - Android Studio Tutorial",
+      "duration": 1546
+    },
+    {
+      "id": "WdQUDHOwlgE",
+      "title": "How to Make a 3D Animated Drop Down in Jetpack Compose - Android Studio Tutorial",
+      "duration": 844
+    },
+    {
+      "id": "Kw4_i4l5y4s",
+      "title": "Instagram Profile UI in Jetpack Compose - Android Studio Tutorial",
+      "duration": 3049
+    },
+    {
+      "id": "4gUeyNkGE3g",
+      "title": "Jetpack Compose Navigation for Beginners - Android Studio Tutorial",
+      "duration": 1163
+    },
+    {
+      "id": "GhNwvGePTbY",
+      "title": "How to Make an Animated Splash Screen With Jetpack Compose - Android Studio Tutorial",
+      "duration": 635
+    },
+    {
+      "id": "4xyRnIntwTo",
+      "title": "How to Make A Bottom Navigation With Badges in Jetpack Compose - Android Studio Tutorial",
+      "duration": 1122
+    },
+    {
+      "id": "1qscY5b4Q2s",
+      "title": "How to Make a Multi-Layer Parallax Scroll Effect in Jetpack Compose - Android Studio Tutorial",
+      "duration": 1228
+    },
+    {
+      "id": "pvNcJXprrKM",
+      "title": "How to Implement a Multi-Select LazyColumn in Jetpack Compose - Android Studio Tutorial",
+      "duration": 461
+    },
+    {
+      "id": "ltHN50BdDc4",
+      "title": "How to Do PROPER Permission Handling in Jetpack Compose - Android Studio Tutorial",
+      "duration": 1228
+    },
+    {
+      "id": "Pur_0KroFR8",
+      "title": "How to Migrate XML ↔ Compose - Android Studio Tutorial",
+      "duration": 693
+    },
+    {
+      "id": "S61mXlMQkLY",
+      "title": "Clean Theming in Compose (You're Doing It Wrong!)",
+      "duration": 643
+    },
+    {
+      "id": "Q3iZyW2etm4",
+      "title": "Compose Navigation Just Got SO MUCH EASIER 😱",
+      "duration": 720
+    },
+    {
+      "id": "HmXgVBys7BU",
+      "title": "How to Support All Screen Sizes in Jetpack Compose",
+      "duration": 717
+    },
+    {
+      "id": "1g3SPJxk4wc",
+      "title": "Build Complex Animations With MotionLayout in Jetpack Compose - Android Studio Tutorial",
+      "duration": 2059
+    },
+    {
+      "id": "D6Eus3f6U9I",
+      "title": "How to Implement Pagination With Jetpack Compose - Android Studio Tutorial",
+      "duration": 1758
+    },
+    {
+      "id": "6wnd4WF9V5E",
+      "title": "How to Create a Bottom Sheet With Jetpack Compose - Android Studio Tutorial",
+      "duration": 855
+    },
+    {
+      "id": "JLICaBEiJS0",
+      "title": "How to Create a Navigation Drawer With Jetpack Compose - Android Studio Tutorial",
+      "duration": 1184
+    },
+    {
+      "id": "UhnTTk3cwc4",
+      "title": "Full Guide to Lazy Grid in Jetpack Compose - Android Studio Tutorial",
+      "duration": 487
+    },
+    {
+      "id": "z6VlP0o_sDc",
+      "title": "The FULL Deeplinking Guide With Jetpack Compose! - Android Studio Tutorial",
+      "duration": 1157
+    },
+    {
+      "id": "EVVFhyuVV5g",
+      "title": "I Bet You DON'T Know These 3 Performance Optimizations for your Jetpack Compose UI",
+      "duration": 1302
+    },
+    {
+      "id": "07ZdBCyh7sc",
+      "title": "How to Create an Animated Counter Text with Jetpack Compose - Android Studio Tutorial",
+      "duration": 714
+    }
+  ]
+}

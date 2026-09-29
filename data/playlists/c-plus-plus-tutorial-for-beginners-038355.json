@@ -1,0 +1,540 @@
+{
+  "courseId": "c-plus-plus-tutorial-for-beginners-038355",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLk6CEY9XxSIAQ2vE_Jb4Dbmum7UfQrXgt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:52.126Z",
+  "title": "C++ Tutorial For Beginners",
+  "channel": "CppNuts",
+  "videos": [
+    {
+      "id": "3IynvwjrV-U",
+      "title": "Introduction To C++",
+      "duration": 398
+    },
+    {
+      "id": "0k66wQY6cms",
+      "title": "Sample Program In C++",
+      "duration": 535
+    },
+    {
+      "id": "MFhUqFaMOOQ",
+      "title": "Cin And Cout In C++ | Input And Output Operations In C++ Programming",
+      "duration": 647
+    },
+    {
+      "id": "q_7dH6WbuNc",
+      "title": "QUIZ :: C++ Input And Output Operations [cin & cout]",
+      "duration": 415
+    },
+    {
+      "id": "CgV2x8XTI7I",
+      "title": "Comments In C++",
+      "duration": 203
+    },
+    {
+      "id": "RsrlAR_ZmX8",
+      "title": "Escape Sequence In C++",
+      "duration": 407
+    },
+    {
+      "id": "qa960QezGDE",
+      "title": "Variables And Data Types In C++",
+      "duration": 690
+    },
+    {
+      "id": "NGKt3Xwlobg",
+      "title": "Reference Variable In C++",
+      "duration": 370
+    },
+    {
+      "id": "7OynEW7vOWM",
+      "title": "Array In C++",
+      "duration": 464
+    },
+    {
+      "id": "B94U6ny0n0Y",
+      "title": "QUIZ :: Array In C++",
+      "duration": 614
+    },
+    {
+      "id": "iIKno0ImSEw",
+      "title": "Two Dimensional Array In C++",
+      "duration": 773
+    },
+    {
+      "id": "MZooPpCPMk4",
+      "title": "Arithmetic Operators In C++",
+      "duration": 798
+    },
+    {
+      "id": "ZMrXNXaPOZo",
+      "title": "Assignment Operator In C++",
+      "duration": 350
+    },
+    {
+      "id": "wyPnaM0dwr8",
+      "title": "Equality Operator In C++",
+      "duration": 258
+    },
+    {
+      "id": "YEZZUboUGqE",
+      "title": "Relational Operators In C++",
+      "duration": 317
+    },
+    {
+      "id": "ZLJAGxe_EsA",
+      "title": "Logical Operators In C And C++",
+      "duration": 481
+    },
+    {
+      "id": "OsBGU9MjRns",
+      "title": "Bitwise Operators In C++",
+      "duration": 1755
+    },
+    {
+      "id": "5M4EukY1FgQ",
+      "title": "Pre Increment And Decrement Operator In C++",
+      "duration": 316
+    },
+    {
+      "id": "Sp-nod1_fMg",
+      "title": "Post Increment And Decrement Operator In C++",
+      "duration": 395
+    },
+    {
+      "id": "4ikx59ygS8s",
+      "title": "Conditional Operator | Ternary Operator In C & C++",
+      "duration": 381
+    },
+    {
+      "id": "-DwuylKTlTM",
+      "title": "sizeof Operator in C++",
+      "duration": 803
+    },
+    {
+      "id": "YpvVnZNMk_g",
+      "title": "Switch Case Statement In C++",
+      "duration": 582
+    },
+    {
+      "id": "lqOsDPZP6VQ",
+      "title": "For Loop In C++",
+      "duration": 677
+    },
+    {
+      "id": "7Mrn7ycP-Ss",
+      "title": "While Loop In C",
+      "duration": 306
+    },
+    {
+      "id": "AWDKLzNHMtA",
+      "title": "Do While Loop In C",
+      "duration": 302
+    },
+    {
+      "id": "vAWT36qNycw",
+      "title": "goto Statement In C++",
+      "duration": 152
+    },
+    {
+      "id": "61_gGyV4gOg",
+      "title": "Break Statement In C++",
+      "duration": 639
+    },
+    {
+      "id": "_RFfqllWtjo",
+      "title": "Continue Statement In C & C++",
+      "duration": 343
+    },
+    {
+      "id": "GdKR0XK3zk8",
+      "title": "Function Call By Value In C++",
+      "duration": 421
+    },
+    {
+      "id": "1bqzDbNxt7Q",
+      "title": "Function Call By Reference In C++",
+      "duration": 287
+    },
+    {
+      "id": "CcPsCFg7aNo",
+      "title": "Function Call By Pointer In C++",
+      "duration": 581
+    },
+    {
+      "id": "xBHHIjU3fd8",
+      "title": "Passing One Dimensional Array In Function In C++",
+      "duration": 235
+    },
+    {
+      "id": "QEKmS221MtM",
+      "title": "Passing Two Dimensional Array In Function In C++",
+      "duration": 426
+    },
+    {
+      "id": "zMcfPv82tYI",
+      "title": "Function Overloading In C++",
+      "duration": 674
+    },
+    {
+      "id": "n9ryobxgtx0",
+      "title": "const Keyword Behaviour With Function Overloading In C++",
+      "duration": 392
+    },
+    {
+      "id": "SFgBr6Jd7ok",
+      "title": "Inline Function In C++",
+      "duration": 1065
+    },
+    {
+      "id": "6Q0Cff29YwU",
+      "title": "Class And Object In C++ | Class And Object With Examples In C++",
+      "duration": 781
+    },
+    {
+      "id": "qKQzpoPk4wk",
+      "title": "Constructors In C++",
+      "duration": 769
+    },
+    {
+      "id": "Fk8LrQ1H6a0",
+      "title": "Destructor In C++",
+      "duration": 714
+    },
+    {
+      "id": "P-WsU-hBf7c",
+      "title": "Initializer List In C++",
+      "duration": 439
+    },
+    {
+      "id": "0OaMlTMMoL8",
+      "title": "Recursion In C++",
+      "duration": 469
+    },
+    {
+      "id": "StlsYRNnWaE",
+      "title": "C++ Data Members",
+      "duration": 433
+    },
+    {
+      "id": "u8jw0LsQFFg",
+      "title": "Static Data Member And Static Member Function In C++",
+      "duration": 1039
+    },
+    {
+      "id": "YHr-ywZ30c0",
+      "title": "Const Data Member In C++",
+      "duration": 903
+    },
+    {
+      "id": "6_dfnExctxY",
+      "title": "Reference Data Member In C++",
+      "duration": 838
+    },
+    {
+      "id": "70qXSmuqB2I",
+      "title": "This Pointer In C++",
+      "duration": 742
+    },
+    {
+      "id": "mD5f3-30HEc",
+      "title": "Friend Function | Friend Class In C++",
+      "duration": 986
+    },
+    {
+      "id": "ZhTB24eWJ58",
+      "title": "Encapsulation In C++",
+      "duration": 244
+    },
+    {
+      "id": "hB3orHE4IOc",
+      "title": "Data Hiding In C++",
+      "duration": 402
+    },
+    {
+      "id": "MR37gqFEmFA",
+      "title": "Const Member Function In C++",
+      "duration": 290
+    },
+    {
+      "id": "_vmtpsNgD7o",
+      "title": "Structure In C++",
+      "duration": 309
+    },
+    {
+      "id": "PYyeTZvD8Us",
+      "title": "Union In C++",
+      "duration": 690
+    },
+    {
+      "id": "S30RAtj-0dQ",
+      "title": "Bit Fields In C & C++",
+      "duration": 1236
+    },
+    {
+      "id": "DVMZPOt816E",
+      "title": "Operator Overloading In C++",
+      "duration": 830
+    },
+    {
+      "id": "ULp4eSHL3SM",
+      "title": "Unary Operator Overloading In C++",
+      "duration": 476
+    },
+    {
+      "id": "8rSB8qwaOUM",
+      "title": "Array Subscript Operator Overloading In C++",
+      "duration": 471
+    },
+    {
+      "id": "2972LRdyquk",
+      "title": "Stream Insertion | Stream Extraction Operator Overloading In C++",
+      "duration": 830
+    },
+    {
+      "id": "ieD3l--qgK4",
+      "title": "Assignment Operator Overloading In C++",
+      "duration": 986
+    },
+    {
+      "id": "I6C2u8WjHto",
+      "title": "Assignment Operator Overloading In C++",
+      "duration": 794
+    },
+    {
+      "id": "kgKFYD9hIMU",
+      "title": "Overload TypeCast In C++",
+      "duration": 426
+    },
+    {
+      "id": "8v_3ITNhEZo",
+      "title": "Overloading new And delete Operator In C++",
+      "duration": 1319
+    },
+    {
+      "id": "W3kpFSbkqQ8",
+      "title": "Inheritance In C++",
+      "duration": 1709
+    },
+    {
+      "id": "ReObxd_vzl4",
+      "title": "Single Inheritance In C++",
+      "duration": 569
+    },
+    {
+      "id": "gHiURx5Hby8",
+      "title": "Is-A And Has-A Relationship In C++",
+      "duration": 292
+    },
+    {
+      "id": "xpYLxol3k5M",
+      "title": "Multilevel Inheritance In C++",
+      "duration": 322
+    },
+    {
+      "id": "-902HO2DO5I",
+      "title": "Multiple Inheritance In C++",
+      "duration": 1370
+    },
+    {
+      "id": "zfzEHIfnOOI",
+      "title": "Hierarchical Inheritance In C++",
+      "duration": 942
+    },
+    {
+      "id": "2yGg17ILub0",
+      "title": "Hybrid Inheritance In C++",
+      "duration": 623
+    },
+    {
+      "id": "U0usxMpy_KE",
+      "title": "MultiPath Inheritance In C++",
+      "duration": 618
+    },
+    {
+      "id": "WObyOa2FXwI",
+      "title": "How To Make A Class Non Inheritable Without Using final Keyword In C++",
+      "duration": 601
+    },
+    {
+      "id": "5iQ7xG4kd1c",
+      "title": "How To Initialize Base Class Data Memers From Derived Class In C++",
+      "duration": 509
+    },
+    {
+      "id": "mv5_l4kuVho",
+      "title": "Polymorphism In C++ | Static & Dynamic Binding | Lazy & Early Binding In C++",
+      "duration": 1108
+    },
+    {
+      "id": "w3brYyLx8S0",
+      "title": "size_t In C And C++",
+      "duration": 408
+    },
+    {
+      "id": "vUI5GvWexsM",
+      "title": "Template In C++",
+      "duration": 636
+    },
+    {
+      "id": "yC_lqDHFStI",
+      "title": "Overloading Function Template In C++",
+      "duration": 1172
+    },
+    {
+      "id": "7SqySe4Lkow",
+      "title": "Template Specialization In C++",
+      "duration": 607
+    },
+    {
+      "id": "TPVH_coGAQs",
+      "title": "Multithreading In C++",
+      "duration": 1090
+    },
+    {
+      "id": "hCvc9y39RDw",
+      "title": "How To Create Threads In C++",
+      "duration": 449
+    },
+    {
+      "id": "q3-5sDe6lzg",
+      "title": "Join And Detach In C++",
+      "duration": 1035
+    },
+    {
+      "id": "eZ8yKZo-PGw",
+      "title": "Mutex In C++",
+      "duration": 982
+    },
+    {
+      "id": "UgcyOBUaR6M",
+      "title": "Mutex Try Lock",
+      "duration": 643
+    },
+    {
+      "id": "r-PDHNWYdes",
+      "title": "try_lock In C++",
+      "duration": 700
+    },
+    {
+      "id": "x0sHzDyETUc",
+      "title": "Timed Mutex In C++",
+      "duration": 710
+    },
+    {
+      "id": "yCYU2k77E4A",
+      "title": "Recursive Mutex In C++",
+      "duration": 1246
+    },
+    {
+      "id": "ACoYnEzjEz4",
+      "title": "Lock Guard In C++",
+      "duration": 528
+    },
+    {
+      "id": "NsqqWDQHldo",
+      "title": "Unique Lock In C++",
+      "duration": 702
+    },
+    {
+      "id": "eh_9zUNmTig",
+      "title": "Condition Variable In C++",
+      "duration": 870
+    },
+    {
+      "id": "VG2Va80XZdo",
+      "title": "DeadLock In C++",
+      "duration": 529
+    },
+    {
+      "id": "WdOe1bPf_pg",
+      "title": "Virtual Function In C++",
+      "duration": 908
+    },
+    {
+      "id": "kDHiOLC5sQo",
+      "title": "Virtual Destructor In C++",
+      "duration": 617
+    },
+    {
+      "id": "y8LoET4oSKc",
+      "title": "Pure Virtual Function In C++",
+      "duration": 975
+    },
+    {
+      "id": "RspbK8tfU0Y",
+      "title": "Rule Of Three And Rule Of Five In C++ Programming",
+      "duration": 297
+    },
+    {
+      "id": "EElsUaoWxIo",
+      "title": "Lvalue And Rvalue In C++",
+      "duration": 556
+    },
+    {
+      "id": "pAaxuVTLnRU",
+      "title": "Memory Leak Is Not Dangerous Any More Let's See Why ?",
+      "duration": 309
+    },
+    {
+      "id": "KmHfIaPJn5o",
+      "title": "Difference Between Function And Method In C++",
+      "duration": 65
+    },
+    {
+      "id": "HT_s8A5BIss",
+      "title": "Alternative Operators In C++",
+      "duration": 179
+    },
+    {
+      "id": "j7BCyw4f5JA",
+      "title": "span in C++20",
+      "duration": 240
+    },
+    {
+      "id": "OpJIAEvpjkI",
+      "title": "mdspan in C++20",
+      "duration": 193
+    },
+    {
+      "id": "bAuXdmJOZDI",
+      "title": "valarray in cpp 98 [Very Fast]",
+      "duration": 312
+    },
+    {
+      "id": "aH7tYWjndgk",
+      "title": "std string_view in C++17 | Fastest String In C++",
+      "duration": 450
+    },
+    {
+      "id": "4M8Qcwodrb4",
+      "title": "Small String Optimisation In C++ (SSO)",
+      "duration": 302
+    },
+    {
+      "id": "iXIuOe1agH4",
+      "title": "Assert In C and Cpp",
+      "duration": 275
+    },
+    {
+      "id": "KhJY2OM-HC4",
+      "title": "static assert in cpp11",
+      "duration": 244
+    },
+    {
+      "id": "yB5helse3T8",
+      "title": "Move Constructor In C++",
+      "duration": 483
+    },
+    {
+      "id": "QkROUMxwb40",
+      "title": "Use of Move Constructor In C++ Programming Language",
+      "duration": 481
+    },
+    {
+      "id": "7dn5tn9DMBk",
+      "title": "Move Assignment Operator C++",
+      "duration": 407
+    }
+  ]
+}

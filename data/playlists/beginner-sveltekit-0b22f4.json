@@ -1,0 +1,105 @@
+{
+  "courseId": "beginner-sveltekit-0b22f4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:29.381Z",
+  "title": "Beginner SvelteKit",
+  "channel": "this.stephie",
+  "videos": [
+    {
+      "id": "F-7OIBSep4Y",
+      "title": "Beginner SvelteKit: Course Intro",
+      "duration": 172
+    },
+    {
+      "id": "CAPb6Inm65g",
+      "title": "Beginner SvelteKit: Getting Started",
+      "duration": 558
+    },
+    {
+      "id": "xOAie3Kw7Es",
+      "title": "Beginner SvelteKit: Svelte's Reactivity",
+      "duration": 329
+    },
+    {
+      "id": "ITg6tgt_TWs",
+      "title": "Beginner SvelteKit: Element Directives",
+      "duration": 377
+    },
+    {
+      "id": "VRxLdJDjqRE",
+      "title": "Beginner SvelteKit: Conditionals and Loops",
+      "duration": 335
+    },
+    {
+      "id": "e7AWBWZqm_4",
+      "title": "Beginner SvelteKit: CSS",
+      "duration": 317
+    },
+    {
+      "id": "NEmWbEqHYCE",
+      "title": "Beginner SvelteKit: Tailwind",
+      "duration": 132
+    },
+    {
+      "id": "ykkGhU79FpQ",
+      "title": "Beginner SvelteKit: Working With Components",
+      "duration": 379
+    },
+    {
+      "id": "V3bt6bms1oE",
+      "title": "Beginner SvelteKit: Data binding and Event forwarding",
+      "duration": 426
+    },
+    {
+      "id": "BlG6IBRYCnw",
+      "title": "Beginner SvelteKit: Context API",
+      "duration": 279
+    },
+    {
+      "id": "9H4YaEwi-Kw",
+      "title": "Beginner SvelteKit: Stores",
+      "duration": 500
+    },
+    {
+      "id": "5RhjSJSFwmo",
+      "title": "Beginner SvelteKit: Slots",
+      "duration": 308
+    },
+    {
+      "id": "p_zsc5XUtuc",
+      "title": "Beginner SvelteKit: Animations & Transitions",
+      "duration": 224
+    },
+    {
+      "id": "5mtT5CTRI4w",
+      "title": "Beginner SvelteKit: Routing",
+      "duration": 276
+    },
+    {
+      "id": "Oyf9-GBqn3Q",
+      "title": "Beginner SvelteKit: Layouts",
+      "duration": 340
+    },
+    {
+      "id": "rnOQHrYiiD8",
+      "title": "Beginner SvelteKit: Endpoints",
+      "duration": 335
+    },
+    {
+      "id": "SsnUgDIXWTU",
+      "title": "Beginner SvelteKit: Loading",
+      "duration": 476
+    },
+    {
+      "id": "SZ4Ak2PlC-w",
+      "title": "Beginner SvelteKit: Prefetch",
+      "duration": 147
+    },
+    {
+      "id": "e8chgjxWu4o",
+      "title": "Beginner SvelteKit: Adapters",
+      "duration": 248
+    }
+  ]
+}

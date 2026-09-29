@@ -1,0 +1,215 @@
+{
+  "courseId": "kotlin-beginner-tutorials-hindi-complete-series-7c4375",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:37.565Z",
+  "title": "Kotlin Beginner Tutorials Hindi | Complete Series",
+  "channel": "Cheezy Code",
+  "videos": [
+    {
+      "id": "NosAkIKgA4Y",
+      "title": "Kotlin - Complete Course From Scratch | CheezyCode Tutorial #0",
+      "duration": 56
+    },
+    {
+      "id": "vhfzN69ALpY",
+      "title": "What is Kotlin? Introduction To Kotlin Tutorial | CheezyCode #1",
+      "duration": 313
+    },
+    {
+      "id": "1RuNijeB_yc",
+      "title": "Kotlin - Development Environment Setup Tutorial | Install Intelli J | CheezyCode #2",
+      "duration": 344
+    },
+    {
+      "id": "IdeqQE_POXo",
+      "title": "Kotlin - Hello World Program | Compilation & ByteCode | CheezyCode #3",
+      "duration": 310
+    },
+    {
+      "id": "bq-6IJ5-klk",
+      "title": "Variables & Data Types in Kotlin Tutorial | var & val | CheezyCode #4",
+      "duration": 419
+    },
+    {
+      "id": "iPdVy8sAzX8",
+      "title": "Kotlin Operators Tutorial | Arithmetic & Relational Operators Kotlin | CheezyCode #5",
+      "duration": 473
+    },
+    {
+      "id": "n8fcjc9QU1M",
+      "title": "Kotlin Logical Operators & Short Circuiting Tutorial | CheezyCode #6",
+      "duration": 378
+    },
+    {
+      "id": "S6QHTZNbE7E",
+      "title": "Kotlin If Else Statement and Expression Tutorial | CheezyCode #7",
+      "duration": 386
+    },
+    {
+      "id": "izzJqv9cfJg",
+      "title": "Kotlin When Statement & Expression | Ranges in Kotlin Tutorial | CheezyCode #8",
+      "duration": 336
+    },
+    {
+      "id": "xmYXGZPouek",
+      "title": "Kotlin While & Do-While Loops Tutorial | CheezyCode #9",
+      "duration": 430
+    },
+    {
+      "id": "RmqXF8cn0p4",
+      "title": "Kotlin For Loop, Ranges & String Templating Tutorial | CheezyCode #10",
+      "duration": 395
+    },
+    {
+      "id": "U3r-iJ0o6JY",
+      "title": "Kotlin Functions & Default Arguments Tutorial | CheezyCode #11",
+      "duration": 534
+    },
+    {
+      "id": "NvQTAcVnsq0",
+      "title": "Kotlin Function Overloading & Named Arguments Tutorial | CheezyCode #12",
+      "duration": 403
+    },
+    {
+      "id": "1maBb3B2LRo",
+      "title": "Arrays in Kotlin With Examples | CheezyCode #13",
+      "duration": 392
+    },
+    {
+      "id": "SZKZlU2kjNs",
+      "title": "Classes & Objects in Kotlin | Object Oriented Programming | CheezyCode #14",
+      "duration": 574
+    },
+    {
+      "id": "SWFXMwPSqR8",
+      "title": "More about Classes & Objects in Kotlin | User Defined Data Type | CheezyCode #15",
+      "duration": 432
+    },
+    {
+      "id": "ls5UyXMJgZE",
+      "title": "Constructors in Kotlin | Primary & Secondary Constructors | CheezyCode #16",
+      "duration": 645
+    },
+    {
+      "id": "UCPCoBrFbmI",
+      "title": "Getters & Setters Kotlin + LateInit With Examples| CheezyCode #17",
+      "duration": 510
+    },
+    {
+      "id": "Bzk0BhVrTWw",
+      "title": "Inheritance in Kotlin with Examples | OOPS in Kotlin Tutorial CheezyCode #18",
+      "duration": 679
+    },
+    {
+      "id": "2aglx2LHP2s",
+      "title": "Overriding in Kotlin Inheritance Concepts & Examples | CheezyCode #19",
+      "duration": 589
+    },
+    {
+      "id": "wsbVWQaCbwc",
+      "title": "Polymorphism in Kotlin with Example | Kotlin For Beginners CheezyCode #20",
+      "duration": 582
+    },
+    {
+      "id": "RpZEpQpHpc0",
+      "title": "Polymorphism & Inheritance in Kotlin with Example | Kotlin For Beginners CheezyCode #21",
+      "duration": 417
+    },
+    {
+      "id": "2aiKe4-Q70k",
+      "title": "Abstract Class and Abstract Methods in Kotlin Tutorial | Cheezycode #22",
+      "duration": 464
+    },
+    {
+      "id": "9LO0c05NSek",
+      "title": "Kotlin Interface Tutorial with Examples | With Polymorphism | Cheezycode #23",
+      "duration": 725
+    },
+    {
+      "id": "1H8Syr7XNFw",
+      "title": "Kotlin Type Checking and Smart Casting With Examples | Cheezycode #24",
+      "duration": 391
+    },
+    {
+      "id": "TngGNdANl9I",
+      "title": "Kotlin Visibility Modifiers With Examples | Cheezycode #25",
+      "duration": 484
+    },
+    {
+      "id": "KCen8cXCF5M",
+      "title": "Kotlin Object Declaration & Expressions | Singleton Pattern | Cheezycode #26",
+      "duration": 649
+    },
+    {
+      "id": "XS663gPic08",
+      "title": "Kotlin Companion Object & JVM Static | Kotlin Factory Pattern Tutorial | Cheezycode #27",
+      "duration": 525
+    },
+    {
+      "id": "QmdavCOFEMI",
+      "title": "Kotlin Data Classes | Equals & Hashcode Method Tutorial | Cheezycode #28",
+      "duration": 524
+    },
+    {
+      "id": "gL-3W2R5GPA",
+      "title": "Kotlin Enum Class and Sealed Class Tutorial | Cheezycode #29",
+      "duration": 656
+    },
+    {
+      "id": "IWfLygrwanQ",
+      "title": "Kotlin Null Safety | Safe Call and Elvis Operator Kotlin Tutorial | Cheezycode #30",
+      "duration": 561
+    },
+    {
+      "id": "SQWqtCdR7jc",
+      "title": "Kotlin Exception Handling Tutorial | Try - Catch - Finally in Kotlin With Examples | Cheezycode #31",
+      "duration": 588
+    },
+    {
+      "id": "_HO-TUISG6s",
+      "title": "Kotlin Collections Tutorial | List and Map in Kotlin With Examples | Cheezycode #32",
+      "duration": 603
+    },
+    {
+      "id": "ZEtwgSF-9Nk",
+      "title": "Kotlin Higher Order Functions and Function Types in Kotlin With Examples | Cheezycode #33",
+      "duration": 514
+    },
+    {
+      "id": "_GogUOLqc64",
+      "title": "Kotlin Lambdas Expressions | Higher Order Functions in Kotlin | Cheezycode #34",
+      "duration": 535
+    },
+    {
+      "id": "vL_3r9tz1gM",
+      "title": "Kotlin Map, Filter, ForEach | Higher Order Functions | Cheezycode #35",
+      "duration": 592
+    },
+    {
+      "id": "o9Nvyfc2x5M",
+      "title": "Kotlin Extension Functions & Inline Functions | Cheezycode #36",
+      "duration": 431
+    },
+    {
+      "id": "vDP9yVrN_UM",
+      "title": "Kotlin apply, let, with, run functions | Scoped Functions in Kotlin | Cheezycode #37",
+      "duration": 403
+    },
+    {
+      "id": "llDmyWi7V0M",
+      "title": "Kotlin Generics - Introduction & vararg in Kotlin | Cheezycode #38",
+      "duration": 438
+    },
+    {
+      "id": "0SLGtVSdCu4",
+      "title": "Kotlin Nested Class and Inner Class Tutorial| Cheezycode #39",
+      "duration": 267
+    },
+    {
+      "id": "g791UEwX7JA",
+      "title": "Kotlin Final Video & Future Updates | Kotlin Complete Series | CheezyCode - 40",
+      "duration": 135
+    }
+  ]
+}

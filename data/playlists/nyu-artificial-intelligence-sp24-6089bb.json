@@ -1,0 +1,55 @@
+{
+  "courseId": "nyu-artificial-intelligence-sp24-6089bb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:27.562Z",
+  "title": "NYU Artificial Intelligence SP24",
+  "channel": "Alfredo Canziani (冷在)",
+  "videos": [
+    {
+      "id": "GyKlMcsl72w",
+      "title": "00 – Course introduction",
+      "duration": 168
+    },
+    {
+      "id": "QQKae_mY69M",
+      "title": "Chapter 1, video 1–3",
+      "duration": 46
+    },
+    {
+      "id": "jgmaQiVBBEE",
+      "title": "01 – Course first part recap, Naïve Bayes intro",
+      "duration": 3908
+    },
+    {
+      "id": "ys-G9uEW3O0",
+      "title": "02 – Discrete probability recap, Naïve Bayes classification",
+      "duration": 4001
+    },
+    {
+      "id": "xkS9GyujiqQ",
+      "title": "03 – Naïve Bayes parameters estimation and Laplace smoothing",
+      "duration": 3636
+    },
+    {
+      "id": "g4sSU6B99Ek",
+      "title": "Chapter 2, video 4–6",
+      "duration": 67
+    },
+    {
+      "id": "sg_vQvmwK44",
+      "title": "04 – Binary classifier evaluation, binary Perceptron",
+      "duration": 3365
+    },
+    {
+      "id": "i31lQ18Gcbc",
+      "title": "05 – Multi-class perceptron, binary and multi-class logistic regression",
+      "duration": 3552
+    },
+    {
+      "id": "WYnYCKXVfhg",
+      "title": "06 – Optimisation and gradient ascent",
+      "duration": 3539
+    }
+  ]
+}

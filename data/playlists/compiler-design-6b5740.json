@@ -1,0 +1,530 @@
+{
+  "courseId": "compiler-design-6b5740",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGa0qAEcNGJo2HSRC5_KMT6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:39.803Z",
+  "title": "Compiler Design",
+  "channel": "TutorialsPoint",
+  "videos": [
+    {
+      "id": "0hU5-aLtaxo",
+      "title": "Compiler Design - Getting Started",
+      "duration": 50
+    },
+    {
+      "id": "ffH5WTnwXDY",
+      "title": "Language Processing System",
+      "duration": 304
+    },
+    {
+      "id": "3iXd9qgMiYs",
+      "title": "Compilers and Interpreters",
+      "duration": 346
+    },
+    {
+      "id": "cToJ_FexgIA",
+      "title": "Phases of a Compiler",
+      "duration": 878
+    },
+    {
+      "id": "jE7f3sGLGVk",
+      "title": "Phases of a Compiler Example",
+      "duration": 495
+    },
+    {
+      "id": "x0ihqiiRXo8",
+      "title": "Finite Automaton",
+      "duration": 539
+    },
+    {
+      "id": "LOZxYBOKRLg",
+      "title": "Finite State Machine",
+      "duration": 483
+    },
+    {
+      "id": "M84oEgYgw6U",
+      "title": "Acceptability Of A String By DFA",
+      "duration": 449
+    },
+    {
+      "id": "quBzmvsxzkw",
+      "title": "Acceptability Of A String By NFA",
+      "duration": 532
+    },
+    {
+      "id": "L2WSbIGJmGA",
+      "title": "Exercise On Finite Automata",
+      "duration": 211
+    },
+    {
+      "id": "VlHIbKz6Ytg",
+      "title": "DFA Construction - GATE Exercise 1",
+      "duration": 332
+    },
+    {
+      "id": "k6yLHAheAeU",
+      "title": "DFA Construction - GATE Exercise 2",
+      "duration": 431
+    },
+    {
+      "id": "DI0XcLkQaqw",
+      "title": "NFA To DFA Conversion  - GATE Exercise 1",
+      "duration": 405
+    },
+    {
+      "id": "fx9ZCPfzvgg",
+      "title": "NFA To DFA Conversion  - GATE Exercise 2",
+      "duration": 304
+    },
+    {
+      "id": "abEX4P9BcxI",
+      "title": "Exercise On FA To Find Input String",
+      "duration": 480
+    },
+    {
+      "id": "GqGA5Hx9ioA",
+      "title": "Minimization Of Finite Automata",
+      "duration": 353
+    },
+    {
+      "id": "FKPYRi39bhA",
+      "title": "Exercise On Minimization Of FA",
+      "duration": 1114
+    },
+    {
+      "id": "wS3I-XvPzZM",
+      "title": "Definition Of Grammar",
+      "duration": 513
+    },
+    {
+      "id": "1PmfoAE8cdc",
+      "title": "Left Linear and Right Linear Grammar",
+      "duration": 145
+    },
+    {
+      "id": "tI7OPQDuEmE",
+      "title": "Chomsky Classification of Languages",
+      "duration": 522
+    },
+    {
+      "id": "Y-kAhNSN6l0",
+      "title": "Regular Expression and Identities",
+      "duration": 549
+    },
+    {
+      "id": "vQb0lTmzJUU",
+      "title": "Regular Expression and Transition System Part 1",
+      "duration": 465
+    },
+    {
+      "id": "RGDx1hpPBE8",
+      "title": "Regular Expression and Transition System Part 2",
+      "duration": 470
+    },
+    {
+      "id": "ZyjqR9JYHgc",
+      "title": "Lambda Transition Elimination",
+      "duration": 251
+    },
+    {
+      "id": "dgpEvZ6Q47Q",
+      "title": "Regular Expression - GATE Exercise 1",
+      "duration": 185
+    },
+    {
+      "id": "Z2qJpV6ivpI",
+      "title": "Regular Expression - GATE Exercise 2",
+      "duration": 419
+    },
+    {
+      "id": "BHb0omSAAHU",
+      "title": "Regular Expression - GATE Exercise 3",
+      "duration": 181
+    },
+    {
+      "id": "ennQuSCziIM",
+      "title": "Regular Expression - GATE Exercise 4",
+      "duration": 266
+    },
+    {
+      "id": "m3gaxBdh3Jw",
+      "title": "Regular Expression - GATE Exercise 5",
+      "duration": 192
+    },
+    {
+      "id": "0fLyZCHkK7o",
+      "title": "Left Most And Right Most Derivations in CFG",
+      "duration": 585
+    },
+    {
+      "id": "C6OElB-ud3U",
+      "title": "Context Free Grammar  - GATE Exercise 1",
+      "duration": 220
+    },
+    {
+      "id": "Nza3fDlHVsY",
+      "title": "Context Free Grammar  - GATE Exercise 2",
+      "duration": 192
+    },
+    {
+      "id": "JqZs-nw2UBU",
+      "title": "Context Free Grammar  - GATE Exercise 3",
+      "duration": 105
+    },
+    {
+      "id": "OzeBkUOEKpA",
+      "title": "Context Free Grammar  - GATE Exercise 4",
+      "duration": 122
+    },
+    {
+      "id": "xnolCgyx2LM",
+      "title": "Introduction to Lexical Analyzer",
+      "duration": 508
+    },
+    {
+      "id": "912hi4nLp0E",
+      "title": "Implementation by LEX Program",
+      "duration": 473
+    },
+    {
+      "id": "28qFohQ0pwI",
+      "title": "Token Recognizer of Lexical Analyzer",
+      "duration": 368
+    },
+    {
+      "id": "jN8zvENdjBg",
+      "title": "NFA To DFA Conversion Using Epsilon Closure",
+      "duration": 428
+    },
+    {
+      "id": "PP7c8EWU0cs",
+      "title": "NFA for Tokens",
+      "duration": 197
+    },
+    {
+      "id": "2ZYsKiEb5w4",
+      "title": "DFA for Tokens",
+      "duration": 242
+    },
+    {
+      "id": "wFfOp_HddGA",
+      "title": "Lexical Analysis - GATE Exercise 1",
+      "duration": 103
+    },
+    {
+      "id": "WIAxDmIP67s",
+      "title": "Lexical Analysis - GATE Exercise 2",
+      "duration": 115
+    },
+    {
+      "id": "hF9aIV5H7Xo",
+      "title": "Operator Precedence Parsing",
+      "duration": 772
+    },
+    {
+      "id": "bNR0io9jyWQ",
+      "title": "Ambiguity in Context Free Grammars",
+      "duration": 264
+    },
+    {
+      "id": "DIg2-eIbGqU",
+      "title": "Operator Precedence Relations",
+      "duration": 310
+    },
+    {
+      "id": "9tpTeCV6Eck",
+      "title": "Resolving Ambiguous Grammar using Operator Precedence",
+      "duration": 568
+    },
+    {
+      "id": "m3GAQkJ0mco",
+      "title": "Operator Grammar  - GATE Exercise 1",
+      "duration": 124
+    },
+    {
+      "id": "RjwBP2JkVJA",
+      "title": "Operator Grammar  - GATE Exercise 2",
+      "duration": 286
+    },
+    {
+      "id": "lHyQoKCdTSs",
+      "title": "Ambiguous Grammar  - GATE Exercise",
+      "duration": 167
+    },
+    {
+      "id": "2ytJN402Upw",
+      "title": "Stack Implementation for Shift Reduce Parser",
+      "duration": 498
+    },
+    {
+      "id": "weDN5qZWek0",
+      "title": "Parse Tree construction for Shift Reduce Parser",
+      "duration": 219
+    },
+    {
+      "id": "PzX4IAM7Luk",
+      "title": "Exercise On Parse Tree Generation",
+      "duration": 315
+    },
+    {
+      "id": "WYb-Iblk7J0",
+      "title": "Top Down Parsing",
+      "duration": 631
+    },
+    {
+      "id": "ptJ2PB_zTS8",
+      "title": "Elimination of Left Recursion",
+      "duration": 396
+    },
+    {
+      "id": "ve-WQooi48E",
+      "title": "Left Factoring",
+      "duration": 266
+    },
+    {
+      "id": "iACdVbRAEr4",
+      "title": "LL (K) Grammar",
+      "duration": 491
+    },
+    {
+      "id": "QBa5ll_WglY",
+      "title": "LR (K) Grammar",
+      "duration": 300
+    },
+    {
+      "id": "js7z2oWgQQA",
+      "title": "Calculation of First",
+      "duration": 707
+    },
+    {
+      "id": "pP1-ragPlkQ",
+      "title": "Calculation of Follow",
+      "duration": 583
+    },
+    {
+      "id": "KbTkcSz4ulE",
+      "title": "Predictive Parsing Table Construction",
+      "duration": 546
+    },
+    {
+      "id": "QXv-WjKFOAw",
+      "title": "Predictive Parser",
+      "duration": 694
+    },
+    {
+      "id": "NMimIgrQ4Uo",
+      "title": "Exercise On Parsing",
+      "duration": 134
+    },
+    {
+      "id": "YaxgdFxh--w",
+      "title": "Predictive Parser - GATE Exercise 1",
+      "duration": 217
+    },
+    {
+      "id": "uoWCIMUvfl0",
+      "title": "Predictive Parser - GATE Exercise 2",
+      "duration": 299
+    },
+    {
+      "id": "9gu3BNNP1Q4",
+      "title": "Augmented Grammar",
+      "duration": 187
+    },
+    {
+      "id": "IcrydbDrNSw",
+      "title": "Viable Prefixes and Valid Items",
+      "duration": 435
+    },
+    {
+      "id": "ukCW2WX7u0c",
+      "title": "Calculations of set of LR(1) items",
+      "duration": 583
+    },
+    {
+      "id": "u6vU1Law_2M",
+      "title": "SLR Parser Set of Items Construction",
+      "duration": 707
+    },
+    {
+      "id": "JsCx0p4QvqM",
+      "title": "SLR Parser Parsing Table Construction",
+      "duration": 450
+    },
+    {
+      "id": "P7L8omu7Xs8",
+      "title": "SLR Parser Parsing an Input String",
+      "duration": 879
+    },
+    {
+      "id": "D6h3-qJwWYA",
+      "title": "Introduction to Canonical LR Parser",
+      "duration": 310
+    },
+    {
+      "id": "UOVQQq_dOn8",
+      "title": "Canonical LR Parsing Table Construction",
+      "duration": 490
+    },
+    {
+      "id": "wSj0-LVIRYY",
+      "title": "LALR Parsing Table Construction",
+      "duration": 550
+    },
+    {
+      "id": "dwpHHoipmVM",
+      "title": "Exercise On LALR Parser",
+      "duration": 245
+    },
+    {
+      "id": "Dzik1WWhbQc",
+      "title": "Syntax Directed Translation Scheme for Implementation",
+      "duration": 507
+    },
+    {
+      "id": "Duw5X8KXY7Y",
+      "title": "Syntax Directed Translation Scheme for Desk Calculator",
+      "duration": 355
+    },
+    {
+      "id": "3SO-WyzUpPc",
+      "title": "Syntax Directed Translation  - GATE Exercise 1",
+      "duration": 291
+    },
+    {
+      "id": "CLnWr7vAwA4",
+      "title": "Syntax Directed Translation  - GATE Exercise 2",
+      "duration": 226
+    },
+    {
+      "id": "oyG_JfrbTCQ",
+      "title": "Symbol Table with Example",
+      "duration": 412
+    },
+    {
+      "id": "GwuYLFZNu4M",
+      "title": "Activation Tree and Activation Record",
+      "duration": 421
+    },
+    {
+      "id": "3jw2Onu59F0",
+      "title": "Structure of Activation Record",
+      "duration": 218
+    },
+    {
+      "id": "jNbSX8dID3g",
+      "title": "Three Address, Quadruples, Triples and Indirect Triples",
+      "duration": 300
+    },
+    {
+      "id": "XTwWqrmFX0E",
+      "title": "3-Address Code - GATE Exercise 1",
+      "duration": 131
+    },
+    {
+      "id": "iwEDswcI-TY",
+      "title": "3-Address Code - GATE Exercise 2",
+      "duration": 287
+    },
+    {
+      "id": "_AhGC5qwEDg",
+      "title": "Post Fix Expression - GATE Exercise 1",
+      "duration": 184
+    },
+    {
+      "id": "mNKnMISjI88",
+      "title": "Post Fix Expression - GATE Exercise 2",
+      "duration": 229
+    },
+    {
+      "id": "4bD1FzNIU6Y",
+      "title": "Register Allocation - GATE Exercise",
+      "duration": 269
+    },
+    {
+      "id": "D7JmYNaYt4k",
+      "title": "Introduction to Code Optimization",
+      "duration": 550
+    },
+    {
+      "id": "1f0w9uGI0tw",
+      "title": "Construction of Basic Block",
+      "duration": 280
+    },
+    {
+      "id": "Ql6JZqwzgZM",
+      "title": "Construction of Flow Graph",
+      "duration": 407
+    },
+    {
+      "id": "wdwQoo4f_sE",
+      "title": "Removal of Loop Invariant Computation",
+      "duration": 283
+    },
+    {
+      "id": "Kbm-sXBG74I",
+      "title": "Removal of Induction Variable",
+      "duration": 302
+    },
+    {
+      "id": "Y0h_5hldibU",
+      "title": "Directed Acyclic Graph DAG",
+      "duration": 431
+    },
+    {
+      "id": "Ed3iwPiZxj8",
+      "title": "Directed Acyclic Graph Example",
+      "duration": 626
+    },
+    {
+      "id": "NS6nqPg82hc",
+      "title": "Code Optimization - GATE Exercise 1",
+      "duration": 150
+    },
+    {
+      "id": "nQs27Sj8Tgs",
+      "title": "Code Optimization - GATE Exercise 2",
+      "duration": 333
+    },
+    {
+      "id": "MIL2cjgFQdU",
+      "title": "Code Optimization - GATE Exercise 3",
+      "duration": 240
+    },
+    {
+      "id": "9FeO3djF8-k",
+      "title": "Code Optimization - GATE Exercise 4",
+      "duration": 284
+    },
+    {
+      "id": "1qeW2YxhupA",
+      "title": "Code Optimization - GATE Exercise 5",
+      "duration": 287
+    },
+    {
+      "id": "9e6U1N1_xZo",
+      "title": "Code Generation - GATE Exercise 1",
+      "duration": 210
+    },
+    {
+      "id": "zTr-4mIwdWo",
+      "title": "Code Generation - GATE Exercise 2",
+      "duration": 225
+    },
+    {
+      "id": "knS2L7R4Lys",
+      "title": "Run Time Environment - GATE Exercise",
+      "duration": 166
+    },
+    {
+      "id": "1iJn6quPp50",
+      "title": "Tutorix Simply Easy Learning Steps",
+      "duration": 15
+    },
+    {
+      "id": "lezQQ0d1pxc",
+      "title": "Tutorix Brings Simply Easy Learning",
+      "duration": 16
+    }
+  ]
+}

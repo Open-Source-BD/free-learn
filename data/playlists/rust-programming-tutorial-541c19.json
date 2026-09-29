@@ -1,0 +1,210 @@
+{
+  "courseId": "rust-programming-tutorial-541c19",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:57.764Z",
+  "title": "Rust Programming Tutorial 🦀",
+  "channel": "Trevor Sullivan",
+  "videos": [
+    {
+      "id": "lTjGt17bQ3k",
+      "title": "Install the Rust Toolchain on an Ubuntu Linux Server 🦀",
+      "duration": 1811
+    },
+    {
+      "id": "MJrBLTHJPCo",
+      "title": "Beginner's Guide to Rust Data Types and Variables 🦀",
+      "duration": 1572
+    },
+    {
+      "id": "io7MSlvYyWg",
+      "title": "Rust Functions and Modules 🦀",
+      "duration": 1315
+    },
+    {
+      "id": "3XpxkJXggHA",
+      "title": "Intro to Rust Control Flow Statements & Conditional Expressions 🦀",
+      "duration": 1521
+    },
+    {
+      "id": "qXNUHfpalts",
+      "title": "Understanding Rust Closures aka. Anonymous Functions 🦀 💻",
+      "duration": 1822
+    },
+    {
+      "id": "pf8eQwWkTaY",
+      "title": "Rust Match Expressions and Patterns 🦀",
+      "duration": 2151
+    },
+    {
+      "id": "z8k_EViGC10",
+      "title": "Rust Option Enum Type Overview",
+      "duration": 1239
+    },
+    {
+      "id": "3Ly25IYHIMc",
+      "title": "Intro to Developing User-Defined Rust Structs 🦀",
+      "duration": 2500
+    },
+    {
+      "id": "7EYSXQFRyKY",
+      "title": "Implement Methods on Rust Structs 🦀",
+      "duration": 1647
+    },
+    {
+      "id": "XKbOVFt3UNY",
+      "title": "Rust Generics and Traits: Define Common Struct Behaviors 🦀",
+      "duration": 1943
+    },
+    {
+      "id": "VIBbzFQcedU",
+      "title": "Use the Rust Vec Type for Dynamically Expanding Arrays 🦀",
+      "duration": 2711
+    },
+    {
+      "id": "KYw3Lnf0nSY",
+      "title": "Rust HashMap and HashSet Collection Types 🦀",
+      "duration": 2189
+    },
+    {
+      "id": "81CC2V9uR5Y",
+      "title": "Popular Rust Iterator Methods 🦀",
+      "duration": 3294
+    },
+    {
+      "id": "hZ0hT2LVxCc",
+      "title": "Rust Time Module and Chrono Crate Intro 🦀",
+      "duration": 3519
+    },
+    {
+      "id": "YKBwKy5PrpQ",
+      "title": "Rust Threading Basics 🦀 Rust Tutorial",
+      "duration": 1706
+    },
+    {
+      "id": "3bFSrhm4nEM",
+      "title": "Rust Scoped Threads 🦀 Rust Tutorial",
+      "duration": 1416
+    },
+    {
+      "id": "ycM5jqYT9Og",
+      "title": "Share Rust Thread Data With Mutexes 🦀 Rust Tutorial",
+      "duration": 2136
+    },
+    {
+      "id": "0P6XfhM5PRA",
+      "title": "Message Passing With Rust MPSC Channels 🦀 Rust Tutorial",
+      "duration": 1852
+    },
+    {
+      "id": "0H3pg_pjyRE",
+      "title": "Beginner's Guide to Rust Filesystem APIs 🦀 Rust Tutorial",
+      "duration": 2462
+    },
+    {
+      "id": "YsGLqvMIjrQ",
+      "title": "Overview of Rust Cargo Tool 🦀📦 Rust Tutorial",
+      "duration": 1686
+    },
+    {
+      "id": "yZQ2vYsRE7A",
+      "title": "Parse CLI Arguments With Rust Standard Crate 🦀📦 Rust Tutorial",
+      "duration": 1610
+    },
+    {
+      "id": "Ot3qCA3Iv_8",
+      "title": "Parse Rust CLI Args With Clap 🦀 Rust Tutorial",
+      "duration": 3243
+    },
+    {
+      "id": "YLZtw8_aLwA",
+      "title": "Hitchhiker's Guide to JSON Data in Rust 🦀 Serialize and  Deserialize with Serde 🗺️ Rust Tutorial",
+      "duration": 2058
+    },
+    {
+      "id": "E2qnMh3W7TM",
+      "title": "Sending HTTP Requests in Rust Applications 🦀 Rust Tutorial for Developers",
+      "duration": 1933
+    },
+    {
+      "id": "3biW5NkNnrk",
+      "title": "Hands-on With Dynamic Dispatch Traits in Rust 🦀 Rust Tutorial for Developers",
+      "duration": 2229
+    },
+    {
+      "id": "i07Uq2sU5YI",
+      "title": "Implement the Simple Rust Default Trait 🦀 Rust Tutorial for Developers",
+      "duration": 1159
+    },
+    {
+      "id": "hfftA0FlaRY",
+      "title": "Beginner's Guide to Rust Operator Overloading 🦀 Rust Programming Tutorial for Developers",
+      "duration": 2202
+    },
+    {
+      "id": "G2_Tb2f2F1s",
+      "title": "Intro Guide to Rust Documentation With Rustdoc 🦀 Rust Tutorial for Developers",
+      "duration": 3224
+    },
+    {
+      "id": "_YFZZc5jIfY",
+      "title": "Linting Rust Code With Clippy CLI Rules 🤯🦀 Rust Programming Tutorial for Developers",
+      "duration": 2342
+    },
+    {
+      "id": "NSgyNb0egm4",
+      "title": "Intro to Rust Async Function Execution With Smol 🦀 Rust Programming Tutorial for Developers",
+      "duration": 3145
+    },
+    {
+      "id": "PabDPIrt9fk",
+      "title": "Implement Rust Async Future Trait with Tokio Executor 🦀 Rust Programming Tutorial for Developers",
+      "duration": 3341
+    },
+    {
+      "id": "RtVzlk4om6U",
+      "title": "Spawn External Processes with Rust Standard Library 🦀 Rust Programming Tutorial for Developers",
+      "duration": 3246
+    },
+    {
+      "id": "9w3rVqsdLRE",
+      "title": "Read CSV Files with Rust CSV Crate 🦀📦 Rust Programming Tutorial for Developers",
+      "duration": 2509
+    },
+    {
+      "id": "4W4uD99DlmI",
+      "title": "Beginner's Guide to Regular Expressions in Rust 🦀 Rust Programming Tutorial for Developers",
+      "duration": 2672
+    },
+    {
+      "id": "rXL8i4nGY6s",
+      "title": "Call Amazon S3 APIs with AWS SDK for Rust | Rust Programming Tutorial for Developers",
+      "duration": 3034
+    },
+    {
+      "id": "0G_5uUe_NXk",
+      "title": "Write Unit Tests in Rust 🦀 Rust Programming Tutorial for Developers",
+      "duration": 2189
+    },
+    {
+      "id": "-ewL14Gr1UY",
+      "title": "Organize Rust Projects with Cargo Virtual Workspaces 🦀 Rust Programming Tutorial for Developers",
+      "duration": 2269
+    },
+    {
+      "id": "hBc8WQzoJIs",
+      "title": "Prompt for User Input with Rust Inquire Crate 🦀 Rust Programming Tutorial for Developers",
+      "duration": 3057
+    },
+    {
+      "id": "uirhS_Y1164",
+      "title": "Validate Command Line Arguments in Rust with Clap Crate 📦",
+      "duration": 2947
+    },
+    {
+      "id": "7RlVM0D4CEA",
+      "title": "Build REST APIs with the Rust Axum Web Framework",
+      "duration": 5966
+    }
+  ]
+}

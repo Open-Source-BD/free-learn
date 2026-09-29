@@ -1,0 +1,205 @@
+{
+  "courseId": "compiler-design-complete-playlist-57355a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:20:11.181Z",
+  "title": "Compiler Design (Complete Playlist)",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "XUsw5igq4DM",
+      "title": "Lec-1: Compiler Design Syllabus Discussion for Competitive & College/University Exams",
+      "duration": 384
+    },
+    {
+      "id": "PT9iWM80PDU",
+      "title": "Lec-2: Phases of Compiler with examples | Compiler Design",
+      "duration": 873
+    },
+    {
+      "id": "BgNdtk9h8Ok",
+      "title": "Lec-3: Lexical Analysis in Compiler Design with Examples",
+      "duration": 550
+    },
+    {
+      "id": "3NbakcFk2xg",
+      "title": "Lec-4: Token Count using Lexical Analysis | Questions on Lexical Analysis | Imp Questions",
+      "duration": 527
+    },
+    {
+      "id": "UXYqQ_CJsVE",
+      "title": "Lec-5: Find First() in Compiler Design | First() & Follow() | Compiler Design",
+      "duration": 637
+    },
+    {
+      "id": "WUwG50xJ9vc",
+      "title": "Lec-6: Find FOLLOW() in Compiler Design | Learn First() & Follow() in Easiest way",
+      "duration": 567
+    },
+    {
+      "id": "hGuXUIefVkc",
+      "title": "Lec-7: What is Parsing & Types of Parsers | Syntax Analysis",
+      "duration": 578
+    },
+    {
+      "id": "WTxdKQmsfho",
+      "title": "Lec-8: LL(1) Parsing Table | Check Whether a Grammar is LL(1) or Not",
+      "duration": 657
+    },
+    {
+      "id": "GimDicPMQ68",
+      "title": "Lec-9: How to Check a Grammar is LL(1) or Not | Short Trick",
+      "duration": 552
+    },
+    {
+      "id": "YvGW4Z_6POU",
+      "title": "Lec-10: What is LL(1) Parser | How it Works | Full Concept",
+      "duration": 567
+    },
+    {
+      "id": "J4ZME5KOB-s",
+      "title": "Lec-11: LR(0) Parsing Table | Check Whether a Grammar is LR(0) or not | Bottom-Up Parser",
+      "duration": 1006
+    },
+    {
+      "id": "Z1Hu9TIef9k",
+      "title": "Lec-12: SLR(1) Parsing Table | Check Whether a Grammar is SLR(1) or Not | Bottom-Up Parser",
+      "duration": 466
+    },
+    {
+      "id": "sMxqUQc_jHQ",
+      "title": "Lec-13: CLR Parsing Table | LR(1) Canonical Items",
+      "duration": 710
+    },
+    {
+      "id": "GOlsYofJjyQ",
+      "title": "Lec-14: LALR Parsing Table | LALR vs CLR | Compiler Design",
+      "duration": 786
+    },
+    {
+      "id": "pMeq6OIB2eI",
+      "title": "Lec-15: Difference between LALR & CLR parsing table | Imp. Example | Compiler Design",
+      "duration": 1033
+    },
+    {
+      "id": "QNv2g-lwH2c",
+      "title": "Lec-16: Difference between LR(0), SLR(1), LALR(1) & CLR(1) using Same example",
+      "duration": 514
+    },
+    {
+      "id": "_CloXDbYAAg",
+      "title": "Lec-17: What is SDT(Syntax Directed Translation) & its Applications | Semantic Analysis",
+      "duration": 391
+    },
+    {
+      "id": "7wlyOkz61ig",
+      "title": "Lec-18: How to Parse SDT (Top Down vs Bottom Up Parsing) | Syntax Directed Translation",
+      "duration": 546
+    },
+    {
+      "id": "CrLGZlvNvCw",
+      "title": "Lec-19: How to Evaluate Arithmetic Expression using SDT | Syntax Directed Translation Example",
+      "duration": 574
+    },
+    {
+      "id": "w03voSY4REs",
+      "title": "Lec-20: S-Attributed vs L-Attributed SDT | Types of SDT",
+      "duration": 611
+    },
+    {
+      "id": "sY1pyew6ZJI",
+      "title": "Lec-21: Gate Question on S-Attributed and L-Attributed SDT | Compiler Design",
+      "duration": 288
+    },
+    {
+      "id": "j-bLeUysUiE",
+      "title": "Lec-22: Intermediate Code Generation with example",
+      "duration": 492
+    },
+    {
+      "id": "tJUYVGDn0JE",
+      "title": "Lec-23: What is 3-Address Code in Compiler",
+      "duration": 317
+    },
+    {
+      "id": "clb4tnEm8l4",
+      "title": "Lec-24: Peephole Optimization in Compiler | Dead code elimination | Strength reduction",
+      "duration": 619
+    },
+    {
+      "id": "O5YlRUYFDA8",
+      "title": "Lec-25: What is Code Optimization | Machine Dependent vs Machine Independent Techniques",
+      "duration": 445
+    },
+    {
+      "id": "AKYuP3vpdlg",
+      "title": "Lec-26: Loop Optimization in Compiler",
+      "duration": 416
+    },
+    {
+      "id": "kdpLBNPg_ZE",
+      "title": "Lec-27: Question on Code Optimization in Compiler",
+      "duration": 429
+    },
+    {
+      "id": "tKnNqiU4gCI",
+      "title": "Lec-28: What is Control Flow Graph | Basic Blocks",
+      "duration": 609
+    },
+    {
+      "id": "tkSsh91ehUA",
+      "title": "Lec-29: What is Basic Block & Flow Graph in Compiler | Partition Algorithm in Basic Block",
+      "duration": 511
+    },
+    {
+      "id": "rq1Xo0TUkA4",
+      "title": "Lec-30: Local vs Global Optimization | Scope of Optimization",
+      "duration": 536
+    },
+    {
+      "id": "ERzKug9_9tg",
+      "title": "Lec-31: Liveness Analysis in Code optimization | Dataflow analysis",
+      "duration": 908
+    },
+    {
+      "id": "ixymnEQrlWU",
+      "title": "Lec-32: Comparison of all Parsers in Compiler Design",
+      "duration": 327
+    },
+    {
+      "id": "O-iMkZ7FhKU",
+      "title": "Lec-33: Symbol Table in Compiler Design | Attributes of Symbol Table in Hindi",
+      "duration": 490
+    },
+    {
+      "id": "xLMUOkYi70w",
+      "title": "Lec-34: Error Detection And Recovery | Lexical Phase Error | Compiler Design",
+      "duration": 398
+    },
+    {
+      "id": "XU4estEbsro",
+      "title": "Lec-35: Symbol Table Data Structure Implementation in Hindi",
+      "duration": 508
+    },
+    {
+      "id": "2cewrsV-qaY",
+      "title": "Lec-36: Lexeme vs Tokens in Compiler Design",
+      "duration": 354
+    },
+    {
+      "id": "Ov1N3UJEe28",
+      "title": "Lec-37: Ambiguous vs Unambiguous Grammar with examples | Conversion Ambiguous ➡️ Unambiguous",
+      "duration": 570
+    },
+    {
+      "id": "nUVmsW68K0Y",
+      "title": "Lec-48: Derivation Tree 🌲Parse Tree 🌲 with example in TOC & Compiler design",
+      "duration": 393
+    },
+    {
+      "id": "Yw8MbMhstZg",
+      "title": "Lec-50: Recursive vs Non-Recursive CFG with examples | Classification of CFG",
+      "duration": 344
+    }
+  ]
+}

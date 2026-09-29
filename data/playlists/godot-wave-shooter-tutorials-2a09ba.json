@@ -1,0 +1,70 @@
+{
+  "courseId": "godot-wave-shooter-tutorials-2a09ba",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6bQeQE-ybqAYoaWz_ZEE2X4wX6PhwCWR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:56.212Z",
+  "title": "Godot Wave Shooter Tutorials",
+  "channel": "PlugWorld",
+  "videos": [
+    {
+      "id": "YqkfTjXzA9w",
+      "title": "Godot 3 Wave Shooter Tutorial #1 - Developing Player Movement",
+      "duration": 370
+    },
+    {
+      "id": "6e9I_e8aHD4",
+      "title": "Godot 3 Wave Shooter Tutorial #2 - Player Shooting",
+      "duration": 957
+    },
+    {
+      "id": "S7Tsdno51PE",
+      "title": "Godot 3 Wave Shooter Tutorial #3 - Enemy AI",
+      "duration": 829
+    },
+    {
+      "id": "klBvssJE5Qg",
+      "title": "Godot 3 Wave Shooter Tutorial #4 - Enemy Spawning",
+      "duration": 407
+    },
+    {
+      "id": "2iJWSd6jouE",
+      "title": "Godot 3 Wave Shooter Tutorial #5 - BLOOD",
+      "duration": 705
+    },
+    {
+      "id": "Xdm9zYUZq7c",
+      "title": "Godot 3 Wave Shooter Tutorial #6 - Scoring",
+      "duration": 417
+    },
+    {
+      "id": "eJNB6lhQHhw",
+      "title": "Godot 3 Wave Shooter Tutorial #7 - Changes to Wave System and Player Death",
+      "duration": 324
+    },
+    {
+      "id": "omP-t-xU6uA",
+      "title": "Godot 3 Wave Shooter Tutorial #8 - Screen shake",
+      "duration": 1018
+    },
+    {
+      "id": "BOG8adC64zU",
+      "title": "Godot 3 Wave Shooter Tutorial #9 - Enemy Spawn Difficulty System + Highscore",
+      "duration": 424
+    },
+    {
+      "id": "qM0iQDnfJZs",
+      "title": "Godot 3 Wave Shooter Tutorial #10 - New Enemies + Refining Screen Shake System",
+      "duration": 1559
+    },
+    {
+      "id": "QyFaqdWhpsg",
+      "title": "Godot 3 Wave Shooter Tutorial #11 - Blood matches Enemy Color + Power ups",
+      "duration": 1759
+    },
+    {
+      "id": "e0mK8HlpOU0",
+      "title": "Godot 3 Wave Shooter Tutorial #12 - Blood Fade + Save System",
+      "duration": 1176
+    }
+  ]
+}

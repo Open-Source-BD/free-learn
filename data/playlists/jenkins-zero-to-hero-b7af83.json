@@ -1,0 +1,40 @@
+{
+  "courseId": "jenkins-zero-to-hero-b7af83",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:30.516Z",
+  "title": "Jenkins Zero to Hero",
+  "channel": "Abhishek.Veeramalla",
+  "videos": [
+    {
+      "id": "zZfhAXfBvVA",
+      "title": "Day-19 | Jenkins ZERO to HERO | 3 Projects Live |Docker Agent |Interview Questions | #k8s #gitops",
+      "duration": 3566
+    },
+    {
+      "id": "jNPGo6A4VHc",
+      "title": "ULTIMATE CI/CD PIPELINE | JENKINS END TO END PROJECT ||#devopsinterviewquestions | #kubernetes #2023",
+      "duration": 1973
+    },
+    {
+      "id": "JGQI5pkK82w",
+      "title": "JENKINS END TO END CICD Implementation with Detailed Notes | BEST CICD PROJECT",
+      "duration": 5231
+    },
+    {
+      "id": "LAYV7x_aIC0",
+      "title": "Day-21 | CICD Interview Questions | GitHub Repo with Q&A #cicd #jenkins #github #gitlab #devops",
+      "duration": 1367
+    },
+    {
+      "id": "BLQ0PDjgN8w",
+      "title": "JENKINS SHARED LIBRARIES TUTORIAL | WHAT IS SHARED LIBRARY IN JENKINS| DEMO INCLUDED | #devops #cicd",
+      "duration": 1498
+    },
+    {
+      "id": "CmVxoNkkACQ",
+      "title": "Day-18 | What is CICD ? | Introduction to CICD | How CICD works ? | #devops #abhishekveeramalla",
+      "duration": 2005
+    }
+  ]
+}

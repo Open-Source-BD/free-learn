@@ -1,0 +1,85 @@
+{
+  "courseId": "flask-tutorials-8c3112",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:56.064Z",
+  "title": "Flask Tutorials",
+  "channel": "Corey Schafer",
+  "videos": [
+    {
+      "id": "MwZwr5Tvyxo",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started",
+      "duration": 1029
+    },
+    {
+      "id": "QnDWIZuWYW0",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 2 - Templates",
+      "duration": 1902
+    },
+    {
+      "id": "UIJKdCIEXUQ",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input",
+      "duration": 2896
+    },
+    {
+      "id": "cYWiDiIUxQc",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy",
+      "duration": 1798
+    },
+    {
+      "id": "44PvX0Yv368",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure",
+      "duration": 1238
+    },
+    {
+      "id": "CSHx6eCkmv0",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication",
+      "duration": 2835
+    },
+    {
+      "id": "803Ei2Sq-Zs",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture",
+      "duration": 2535
+    },
+    {
+      "id": "u0oDDZrDz9U",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts",
+      "duration": 2893
+    },
+    {
+      "id": "PSWf2TjTGNY",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination",
+      "duration": 1882
+    },
+    {
+      "id": "vutyTx7IaAI",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset",
+      "duration": 2532
+    },
+    {
+      "id": "Wfx4YBzg16s",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration",
+      "duration": 2563
+    },
+    {
+      "id": "uVNfQDohYNI",
+      "title": "Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages",
+      "duration": 765
+    },
+    {
+      "id": "goToXTC96Co",
+      "title": "Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+      "duration": 4500
+    },
+    {
+      "id": "LUFn-QVcmB8",
+      "title": "Python Flask Tutorial: How to Use a Custom Domain Name for Our Application",
+      "duration": 1440
+    },
+    {
+      "id": "Gdys9qPjuKs",
+      "title": "Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt",
+      "duration": 1034
+    }
+  ]
+}

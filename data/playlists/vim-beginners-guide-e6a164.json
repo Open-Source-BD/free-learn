@@ -1,0 +1,40 @@
+{
+  "courseId": "vim-beginners-guide-e6a164",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:17.231Z",
+  "title": "Vim Beginners Guide",
+  "channel": "Learn Linux TV",
+  "videos": [
+    {
+      "id": "wACD8WEnImo",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 1 - Introduction)",
+      "duration": 1173
+    },
+    {
+      "id": "yIxRhAzkhPk",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 2  - Modes & Navigation)",
+      "duration": 967
+    },
+    {
+      "id": "JBKoBuuoF28",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 3 - Buffers)",
+      "duration": 558
+    },
+    {
+      "id": "rOKL1pW1UUc",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 4 - Visual Mode)",
+      "duration": 613
+    },
+    {
+      "id": "fBsxD6itAgw",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 5 -Splitting Windows)",
+      "duration": 585
+    },
+    {
+      "id": "mW_YiBIJPo4",
+      "title": "Vim Essentials: Linux Editing Made Simple (Episode 6 - Configuration)",
+      "duration": 795
+    }
+  ]
+}

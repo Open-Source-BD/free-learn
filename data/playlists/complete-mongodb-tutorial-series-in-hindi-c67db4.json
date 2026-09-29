@@ -1,0 +1,725 @@
+{
+  "courseId": "complete-mongodb-tutorial-series-in-hindi-c67db4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL5IobCNPDnI_Xh2iya6p37Ain_71ro71w",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:59.238Z",
+  "title": "Complete MongoDB Tutorial Series in Hindi",
+  "channel": "Simple Snip Code",
+  "videos": [
+    {
+      "id": "uySOLLcrcYU",
+      "title": "#1: MongoDB Introduction | What is Database, Collection, Document in MongoDB |MongoDB Tutorial Hindi",
+      "duration": 624
+    },
+    {
+      "id": "7-R-f1WgMd0",
+      "title": "#2: Download and Install MongoDB | Download MongoDB Compass, Shell, DB Tools |MongoDB Tutorial Hindi",
+      "duration": 478
+    },
+    {
+      "id": "m9oxHTKpzOk",
+      "title": "#3: Download and Install MongoDB in Ubuntu | Download MongoDB Compass, Shell |MongoDB Tutorial Hindi",
+      "duration": 268
+    },
+    {
+      "id": "fYPWZB1ZtoM",
+      "title": "#4: MongoDB Connection Error Fix in Windows | ECONNREFUSED 127.0.0.1:27017 | MongoDB Tutorial Hindi",
+      "duration": 130
+    },
+    {
+      "id": "4AlK4BTE9v4",
+      "title": "#5: Show Databases in MongoDB | show dbs command in mongodb | MongoDB Tutorial Hindi",
+      "duration": 160
+    },
+    {
+      "id": "yMDskpsaXXo",
+      "title": "#6: Create Database in MongoDB | use dbname command in mongodb | MongoDB Tutorial Hindi",
+      "duration": 258
+    },
+    {
+      "id": "yQsUltCGLW8",
+      "title": "#7: Rename Database in MongoDB | How to Rename Database | MongoDB Tutorial Hindi",
+      "duration": 355
+    },
+    {
+      "id": "q-D1mW7IbAU",
+      "title": "#8: Delete Database in MongoDB | How to Delete or Drop Database | MongoDB Tutorial Hindi",
+      "duration": 115
+    },
+    {
+      "id": "eLImdD5p86c",
+      "title": "#9: Show Collections in MongoDB | How to show tables in MongoDB Database | MongoDB Tutorial Hindi",
+      "duration": 106
+    },
+    {
+      "id": "sWv6RZzRRYk",
+      "title": "#10: Create Collection in MongoDB | How to create table in MongoDB Database | MongoDB Tutorial Hindi",
+      "duration": 203
+    },
+    {
+      "id": "Ok79F9OCI2U",
+      "title": "#11: Rename Collection in MongoDB | How to rename table name in MongoDB | MongoDB Tutorial Hindi",
+      "duration": 154
+    },
+    {
+      "id": "r9c3Nnfu3Qc",
+      "title": "#12: Drop Collection in MongoDB | How to delete/drop table in MongoDB | MongoDB Tutorial Hindi",
+      "duration": 171
+    },
+    {
+      "id": "5oq3B8COucc",
+      "title": "#13: Datatypes in MongoDB | Type of datatypes in mongodb | MongoDB Tutorial Hindi",
+      "duration": 197
+    },
+    {
+      "id": "Ts6nFbde3co",
+      "title": "#14: Insert Document in MongoDB | how to insert document in mongodb | MongoDB Tutorial Hindi",
+      "duration": 85
+    },
+    {
+      "id": "krlgI0da1HE",
+      "title": "#15: Insert One Document in MongoDB | how to insert document in mongodb | MongoDB Tutorial Hindi",
+      "duration": 336
+    },
+    {
+      "id": "hG6q2I4_adw",
+      "title": "#16: Create Unique Index in MongoDB | how to insert Unique field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 423
+    },
+    {
+      "id": "2vhg64WpQBE",
+      "title": "#17: Insert Array in MongoDB | how to insert array field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 408
+    },
+    {
+      "id": "pG1J7a6dbX8",
+      "title": "#18 Insert Embedded Document in MongoDB | how to insert object in mongodb | MongoDB Tutorial Hindi",
+      "duration": 347
+    },
+    {
+      "id": "QXQ4lwbiSGQ",
+      "title": "#19 Insert Many Document in MongoDB | how to insert multiple in mongodb | MongoDB Tutorial Hindi",
+      "duration": 265
+    },
+    {
+      "id": "K4EXYce8xoc",
+      "title": "#20 Rename Field Name in MongoDB | how to rename field name in mongodb | MongoDB Tutorial Hindi",
+      "duration": 534
+    },
+    {
+      "id": "INdluyF-65U",
+      "title": "#21 Rename All Field in Collection | how to rename all field name in col | MongoDB Tutorial Hindi",
+      "duration": 312
+    },
+    {
+      "id": "KNQos521yzQ",
+      "title": "#22 Delete Field in Collection | how to delete field in collection | MongoDB Tutorial Hindi",
+      "duration": 489
+    },
+    {
+      "id": "Rr-vWMJ1vas",
+      "title": "#23 Insert Documents for all Videos | MongoDB Tutorial Hindi",
+      "duration": 1021
+    },
+    {
+      "id": "YZWgzYsDW_o",
+      "title": "#24: find and findOne in MongoDB | how to find document in mongodb | MongoDB Tutorial Hindi",
+      "duration": 343
+    },
+    {
+      "id": "imy1t-8Y9_0",
+      "title": "#25: Find Query Document in Mongodb | write query in find method | MongoDB Tutorial Hindi",
+      "duration": 412
+    },
+    {
+      "id": "io1qObyqHgQ",
+      "title": "#26: Projection in MongoDB | how to select filed in find query | MongoDB Tutorial Hindi",
+      "duration": 279
+    },
+    {
+      "id": "yZuX4V59iL4",
+      "title": "#27: Update One Document | Update Nested Document | how to update document | MongoDB Tutorial Hindi",
+      "duration": 754
+    },
+    {
+      "id": "hjBbfI1gq_Q",
+      "title": "#28: Update Many Document | how to update multiple document in mongodb | MongoDB Tutorial Hindi",
+      "duration": 610
+    },
+    {
+      "id": "oFy06VuHQbQ",
+      "title": "#29: Adding New Field in Document in MongoDB | how to add field in document | MongoDB Tutorial Hindi",
+      "duration": 473
+    },
+    {
+      "id": "omTalTYJhkM",
+      "title": "#30: Upsert Option in MongoDB | Upsert parameter in mongodb | MongoDB Tutorial Hindi",
+      "duration": 420
+    },
+    {
+      "id": "Jl7RLiGFGt4",
+      "title": "#31: Delete One Document in MongoDB | how to delete one document | MongoDB Tutorial Hindi",
+      "duration": 538
+    },
+    {
+      "id": "_70HlAsY9zE",
+      "title": "#32: Delete Many Document in MongoDB | how to delete many document | MongoDB Tutorial Hindi",
+      "duration": 315
+    },
+    {
+      "id": "WjDfjLKk0QY",
+      "title": "#33: Remove Document in MongoDB | how to remove document from collection | MongoDB Tutorial Hindi",
+      "duration": 137
+    },
+    {
+      "id": "BMtZ4Zjc6xY",
+      "title": "#34: MongoDB Operators | Different type of mongodb operators | MongoDB Tutorial Hindi",
+      "duration": 127
+    },
+    {
+      "id": "IgTYRGMmY-g",
+      "title": "#36: $eq operator in mongodb | Equal Comparison Query Operator | MongoDB Tutorial Hindi",
+      "duration": 499
+    },
+    {
+      "id": "ZpkufYHTxFg",
+      "title": "#35: MongoDB Comparison Query Operators | type of comparison operators | MongoDB Tutorial Hindi",
+      "duration": 178
+    },
+    {
+      "id": "SMFWVhhmvwk",
+      "title": "#37: $ne operator in mongodb | Not Equal Comparison Query Operator | MongoDB Tutorial Hindi",
+      "duration": 579
+    },
+    {
+      "id": "sgZJWW4On9A",
+      "title": "#38: $gt operator in mongodb | Greater Than Comparison Query Operator | MongoDB Tutorial Hindi",
+      "duration": 508
+    },
+    {
+      "id": "oH-6ildAOq4",
+      "title": "#39: $gte operator in mongodb | Greater Than Equal Comparison Query Operator |MongoDB Tutorial Hindi",
+      "duration": 453
+    },
+    {
+      "id": "VV1ei22XReA",
+      "title": "#40: $lt operator in mongodb | Less Than Comparison Query Operator |MongoDB Tutorial Hindi",
+      "duration": 378
+    },
+    {
+      "id": "LcajFu1EzY0",
+      "title": "#41: $lte operator in mongodb | Less Than Equal Comparison Query Operator | MongoDB Tutorial Hindi",
+      "duration": 389
+    },
+    {
+      "id": "xcUYTt9X2IY",
+      "title": "#42: $in operator in mongodb | Value In Array Comparison Query Operator | MongoDB Tutorial Hindi",
+      "duration": 453
+    },
+    {
+      "id": "HBqKx_gSmSM",
+      "title": "#43: $nin operator in mongodb | Value Not In Array Comparison Query Operator |MongoDB Tutorial Hindi",
+      "duration": 457
+    },
+    {
+      "id": "nN7tlyLpP44",
+      "title": "#44: logical query operator in mongodb | Logical Query Operator | MongoDB Tutorial Hindi",
+      "duration": 176
+    },
+    {
+      "id": "bLhYHyuGY6w",
+      "title": "#45: $and logical query operator in mongodb | AND Logical Query Operator | MongoDB Tutorial Hindi",
+      "duration": 502
+    },
+    {
+      "id": "0YotT-hKy6o",
+      "title": "#46: $or logical query operator in mongodb | OR Logical Query Operator | MongoDB Tutorial Hindi",
+      "duration": 350
+    },
+    {
+      "id": "YJJMB9X0YLk",
+      "title": "#47: $nor logical query operator in mongodb | NOR Logical Query Operator | MongoDB Tutorial Hindi",
+      "duration": 423
+    },
+    {
+      "id": "2MzM_ZWe1QA",
+      "title": "#48: $not logical query operator in mongodb | NOT Logical Query Operator | MongoDB Tutorial Hindi",
+      "duration": 419
+    },
+    {
+      "id": "bNwyAkueXRk",
+      "title": "#49: Element Query Operator in MongoDB | element query operator | MongoDB Tutorial Hindi",
+      "duration": 159
+    },
+    {
+      "id": "5M1HzRYC25U",
+      "title": "#50: $exists operator in mongodb | $exists Element Query Operator in mongodb |MongoDB Tutorial Hindi",
+      "duration": 457
+    },
+    {
+      "id": "Wc_6Xy0IBi8",
+      "title": "#51: $type operator in mongodb | $type Element Query Operator in mongodb | MongoDB Tutorial Hindi",
+      "duration": 636
+    },
+    {
+      "id": "x0U7O2xQWeQ",
+      "title": "#52: Evaluation Query Operator in mongodb | Evaluation Query Operator | MongoDB Tutorial Hindi",
+      "duration": 175
+    },
+    {
+      "id": "e3-iqt5POAs",
+      "title": "#53: $expr operator in mongodb | $expr Evaluation Query Operator in mongodb | MongoDB Tutorial Hindi",
+      "duration": 434
+    },
+    {
+      "id": "SoDRtOkehfc",
+      "title": "#54: $mod operator in mongodb | $mod Evaluation Query Operator in mongodb | MongoDB Tutorial Hindi",
+      "duration": 307
+    },
+    {
+      "id": "gwf7OvJCbro",
+      "title": "#55: $regex operator in mongodb | $regex Evaluation Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 565
+    },
+    {
+      "id": "GsXDLQXsZD4",
+      "title": "#56: $text operator in mongodb | $text Evaluation Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 430
+    },
+    {
+      "id": "HXLPmV8wusw",
+      "title": "#57: $where operator in mongodb | $where Evaluation Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 352
+    },
+    {
+      "id": "UlXyAAsw8oE",
+      "title": "#58: array query operator in mongodb | Array Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 104
+    },
+    {
+      "id": "pOvEEz8jNLs",
+      "title": "#59: $all array query operator in mongodb | $All Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 321
+    },
+    {
+      "id": "OCOi0gJVCiY",
+      "title": "#60: $size array query operator in mongodb | $Size Query Operator in mongodb MongoDB Tutorial Hindi",
+      "duration": 242
+    },
+    {
+      "id": "lnMxYcg_SHc",
+      "title": "#61: $elemMatch array query operator in mongodb | elemMatch Operator mongodb MongoDB Tutorial Hindi",
+      "duration": 269
+    },
+    {
+      "id": "O5pVoY-eFjE",
+      "title": "#62: $comment operator in mongodb | Comment Operator in mongodb | MongoDB Tutorial Hindi",
+      "duration": 190
+    },
+    {
+      "id": "QFIFgFsh36k",
+      "title": "#63: field update operator in mongodb | Field Update Operator in mongodb | MongoDB Tutorial Hindi",
+      "duration": 191
+    },
+    {
+      "id": "tT1LygA4oHM",
+      "title": "#64: $currentDate field update operator in mongodb | $currentDate in mongodb |MongoDB Tutorial Hindi",
+      "duration": 594
+    },
+    {
+      "id": "bHAi6u4cA64",
+      "title": "#65: $inc field update operator in mongodb | increment field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 517
+    },
+    {
+      "id": "OuxyBv_4vPY",
+      "title": "#66: $min field update operator in mongodb | minimum field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 478
+    },
+    {
+      "id": "Img_ZvM62mE",
+      "title": "#67: $max field update operator in mongodb | maximum field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 445
+    },
+    {
+      "id": "X4L1QzUkjjk",
+      "title": "#68: $mul field update operator in mongodb | multiply field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 407
+    },
+    {
+      "id": "P1-UUAWfNzU",
+      "title": "#69: $rename field update operator in mongodb | rename field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 493
+    },
+    {
+      "id": "xjmH6oQuB78",
+      "title": "#70: $set field update operator in mongodb | set field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 400
+    },
+    {
+      "id": "0T31DUKz83Y",
+      "title": "#71: $setOnInsert field update operator in mongodb | setin field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 313
+    },
+    {
+      "id": "dusAvLLp8o4",
+      "title": "#72: $unset field update operator in mongodb | unset field in mongodb | MongoDB Tutorial Hindi",
+      "duration": 350
+    },
+    {
+      "id": "XGelIOBbV2c",
+      "title": "#73: Array update operator in mongodb | update array operators in mongodb | MongoDB Tutorial Hindi",
+      "duration": 200
+    },
+    {
+      "id": "dTbT6A2Ayi8",
+      "title": "#74: $ Array update operator in mongodb | update array operators in mongodb | MongoDB Tutorial Hindi",
+      "duration": 382
+    },
+    {
+      "id": "67tlMYRZYdA",
+      "title": "#75: $[] Array update operator in mongodb | update all element in array field|MongoDB Tutorial Hindi",
+      "duration": 181
+    },
+    {
+      "id": "dZfa2WsB4As",
+      "title": "#76: $[indentifier] Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 436
+    },
+    {
+      "id": "r9WSjxyPFS8",
+      "title": "#77: $addToSet Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 660
+    },
+    {
+      "id": "v3CBWURgvEU",
+      "title": "#78 : $pop Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 319
+    },
+    {
+      "id": "6A1ybF52wj0",
+      "title": "#79 : $pull Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 294
+    },
+    {
+      "id": "9EzeR1J_6x8",
+      "title": "#80 : $push Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 506
+    },
+    {
+      "id": "UR19-BhFqR0",
+      "title": "#81: $pullAll Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 207
+    },
+    {
+      "id": "r2bqrqp-P-Y",
+      "title": "#82: $each Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 431
+    },
+    {
+      "id": "eNQnkypz8oQ",
+      "title": "#83: $position Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 454
+    },
+    {
+      "id": "tgsgx_lLPA4",
+      "title": "#84: $slice Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 437
+    },
+    {
+      "id": "OQ6m1QLdA5I",
+      "title": "#85: $sort Array update operator in mongodb | Array Filter Update | MongoDB Tutorial Hindi",
+      "duration": 405
+    },
+    {
+      "id": "eekHXgV7sOs",
+      "title": "#86: MongoDB find() and findOne() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 314
+    },
+    {
+      "id": "jLYWTpfe1UU",
+      "title": "#87: MongoDB findAndModify() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 371
+    },
+    {
+      "id": "igdggkGz5gI",
+      "title": "#88: MongoDB findOneAndDelete() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 181
+    },
+    {
+      "id": "_l2vyl5e2LA",
+      "title": "#89: MongoDB findOneAndReplace() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 367
+    },
+    {
+      "id": "DuzwthEbUZ8",
+      "title": "#90: MongoDB findOneAndUpdate() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 352
+    },
+    {
+      "id": "GVzZ96L0W5g",
+      "title": "#91: MongoDB sort() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 235
+    },
+    {
+      "id": "qRHS6BFfyiQ",
+      "title": "#92: MongoDB count() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 201
+    },
+    {
+      "id": "vlkZGprK8FI",
+      "title": "#93: MongoDB countDocuments() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 83
+    },
+    {
+      "id": "0cYT22NFNY0",
+      "title": "#94: MongoDB itcount() Methods Explained | MongoDB Tutorial in Hindi",
+      "duration": 234
+    },
+    {
+      "id": "XwhYbbyYbIE",
+      "title": "#95 : MongoDB skip() Methods Explained | How to Skip Document in Mongodb| MongoDB Tutorial in Hindi",
+      "duration": 388
+    },
+    {
+      "id": "FoePTWDwurc",
+      "title": "#96 : MongoDB limit() Methods Explained | How to Limit Document in Mongodb|MongoDB Tutorial in Hindi",
+      "duration": 309
+    },
+    {
+      "id": "73ZjU9ndmjU",
+      "title": "#97: MongoDB distinct() Methods Explained | Distinct  Document in Mongodb |MongoDB Tutorial in Hindi",
+      "duration": 380
+    },
+    {
+      "id": "Iw-Vv_qelbI",
+      "title": "#98: MongoDB Find Array Length Explained | Find Array Length in Mongodb | MongoDB Tutorial in Hindi",
+      "duration": 277
+    },
+    {
+      "id": "4pHSzDaZlSc",
+      "title": "#99: How to Find Documents by _id in MongoDB | MongoDB ObjectId Explained in Hindi",
+      "duration": 192
+    },
+    {
+      "id": "UNfoVGp4uS8",
+      "title": "#100: MongoDB Comments Explained | How to Write Comments in MongoDB Queries in Hindi",
+      "duration": 235
+    },
+    {
+      "id": "sdvvQwRo0b0",
+      "title": "#101: MongoDB validate() Method Explained | How to Validate Collection in MongoDB in Hindi",
+      "duration": 203
+    },
+    {
+      "id": "aCInI2bZE7g",
+      "title": "#102 : MongoDB Check Collection Storage | db.collection.stats() Explained in Hindi",
+      "duration": 174
+    },
+    {
+      "id": "aVvzI4FIfHI",
+      "title": "#103: Indexing in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 148
+    },
+    {
+      "id": "LeHouhz1_U4",
+      "title": "#104: Creating an Index in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 616
+    },
+    {
+      "id": "MdqD5Sdu7jI",
+      "title": "#105: Creating Unique Index in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 536
+    },
+    {
+      "id": "E5z275RMyrw",
+      "title": "#106: Creating Index and Unique Index on Embedded Field in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 587
+    },
+    {
+      "id": "9hbSN08BqVA",
+      "title": "#107: Creating Multiple Indexes in MongoDB using createIndexes() | MongoDB Tutorial in Hindi",
+      "duration": 240
+    },
+    {
+      "id": "VBJxIN0N8-k",
+      "title": "#108: Types of Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 56
+    },
+    {
+      "id": "1Ayg3Tzrzgo",
+      "title": "#109: Single Field Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 250
+    },
+    {
+      "id": "cvyENcFs6HA",
+      "title": "#110: Compound Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 393
+    },
+    {
+      "id": "b-KZCkEAcoM",
+      "title": "#111: Multikey Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 301
+    },
+    {
+      "id": "JqUylKc6dOk",
+      "title": "#112: Geospatial Indexes in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 119
+    },
+    {
+      "id": "txYJL3qEa-U",
+      "title": "#113: Text Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 304
+    },
+    {
+      "id": "UzEGpZzbCCY",
+      "title": "#114: Wildcard Index in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 307
+    },
+    {
+      "id": "KYjg2jod3DA",
+      "title": "#115: getIndexes() Method in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 86
+    },
+    {
+      "id": "Vto9bD95a2A",
+      "title": "#116: dropIndex() Method in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 177
+    },
+    {
+      "id": "LeW_Wb4GOrI",
+      "title": "#117: dropIndexes() Method in MongoDB Explained | MongoDB Tutorial in Hindi",
+      "duration": 134
+    },
+    {
+      "id": "57pZN_TZlAg",
+      "title": "#118: MongoDB Aggregation Pipeline Explained with Examples | Hindi Tutorial",
+      "duration": 714
+    },
+    {
+      "id": "Yq2Op9P7jX4",
+      "title": "#119: $match Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 764
+    },
+    {
+      "id": "fmnOpZfw_P8",
+      "title": "#120: $project Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 843
+    },
+    {
+      "id": "AT-SIygbYHw",
+      "title": "#121: $group Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 757
+    },
+    {
+      "id": "3nAGjtbr2T0",
+      "title": "#122: $group Aggregation Operator and Accumulators in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 147
+    },
+    {
+      "id": "1M5EjcCoPYw",
+      "title": "#123: Using $sum with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 575
+    },
+    {
+      "id": "PDydAuPLc8A",
+      "title": "#124: Using $count with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 545
+    },
+    {
+      "id": "gX5E1BZ_8v8",
+      "title": "#125: Using $avg with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 590
+    },
+    {
+      "id": "D3HZbjxuOwU",
+      "title": "#126: Using $min with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 640
+    },
+    {
+      "id": "kjL4x1NvF6c",
+      "title": "#127: Using $max with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 513
+    },
+    {
+      "id": "JKez6wW1Pwk",
+      "title": "#128: Using $first with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 474
+    },
+    {
+      "id": "LtF9cjPCus4",
+      "title": "#129: Using $last with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 581
+    },
+    {
+      "id": "kdCRSBJ_JSs",
+      "title": "#130: Using $push with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 488
+    },
+    {
+      "id": "JdsTcDajFok",
+      "title": "#131 : Using $addToSet with $group in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 417
+    },
+    {
+      "id": "HztbzFozX8Q",
+      "title": "#132: $sort Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 624
+    },
+    {
+      "id": "aectWPIGXA8",
+      "title": "#133: $skip Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 440
+    },
+    {
+      "id": "MB4bfjRsPfI",
+      "title": "#134: $limit Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 293
+    },
+    {
+      "id": "YXyD-ad6fdc",
+      "title": "#135: $unwind Stage in MongoDB Aggregation Explained | MongoDB Tutorial in Hindi",
+      "duration": 390
+    },
+    {
+      "id": "yLTBUXm2Q7s",
+      "title": "#137: Using $toUpper String Expression Operator in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 430
+    },
+    {
+      "id": "G81fSMMAFHo",
+      "title": "#138: Using $toLower String Expression Operator in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 378
+    },
+    {
+      "id": "QCjlD4Ih0vk",
+      "title": "#139: Using $concat String Expression Operator in MongoDB Aggregation | MongoDB Tutorial in Hindi",
+      "duration": 370
+    },
+    {
+      "id": "xff7LafFmVA",
+      "title": "#140: How to Get Last Document from MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 135
+    },
+    {
+      "id": "I8pAV_zytSY",
+      "title": "#141: How to Dump and Restore All Databases in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 248
+    },
+    {
+      "id": "A2a6RQyCD4s",
+      "title": "#142: How to Dump and Restore a Single Database in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 233
+    },
+    {
+      "id": "SZnSc1P2k5I",
+      "title": "#143: How to Dump and Restore a Single Collection in MongoDB | MongoDB Tutorial in Hindi",
+      "duration": 232
+    },
+    {
+      "id": "o0tUsCXW6ew",
+      "title": "#144: How to Export and Import Collection in MongoDB Compass | MongoDB Tutorial in Hindi",
+      "duration": 167
+    }
+  ]
+}

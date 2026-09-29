@@ -1,0 +1,975 @@
+{
+  "courseId": "java-tutorial-for-beginners-07c1f0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:46.950Z",
+  "title": "Java Tutorial For Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "WOUpjal8ee4",
+      "title": "1.1 How to be a Java Programmer | What is Java",
+      "duration": 1039
+    },
+    {
+      "id": "9_CJYK47d6M",
+      "title": "1.1.2 Prerequisites to Learn Java",
+      "duration": 280
+    },
+    {
+      "id": "FK4a6XrM2P0",
+      "title": "1.2 Is it the End of Java?",
+      "duration": 293
+    },
+    {
+      "id": "5W568dNIVPM",
+      "title": "1.3 Java Tutorial for Beginners",
+      "duration": 486
+    },
+    {
+      "id": "9Kk1dGkpGPI",
+      "title": "1.4 Software Requirements for Java",
+      "duration": 383
+    },
+    {
+      "id": "E-LMhKEwL_w",
+      "title": "1.5 Simple Example Code in Java | Java Tutorial",
+      "duration": 565
+    },
+    {
+      "id": "haI01OWwFPk",
+      "title": "#2.1 Java Tutorial | Variable in Java",
+      "duration": 289
+    },
+    {
+      "id": "n7D5El5-pEU",
+      "title": "2.2 What is Variable in Java",
+      "duration": 429
+    },
+    {
+      "id": "4NGi9WzLTFg",
+      "title": "2.3 More on variables Java Tutorial part 5 | Lecture",
+      "duration": 467
+    },
+    {
+      "id": "VtDBsy_enkE",
+      "title": "#2.4 Naming Convention in Java",
+      "duration": 443
+    },
+    {
+      "id": "neTl7g7dGqI",
+      "title": "How Java Works",
+      "duration": 92
+    },
+    {
+      "id": "PKLvLJcSs8A",
+      "title": "3.1 How Java works Demo",
+      "duration": 383
+    },
+    {
+      "id": "IZJWI0d0zw8",
+      "title": "3.2 How to learn Java from Telusko",
+      "duration": 312
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "WkfoBYV_zX4",
+      "title": "4.1 Introduction to Netbeans IDE Practical Free Java Course | Tutorial | Lecture",
+      "duration": 693
+    },
+    {
+      "id": "0-nM4IoQXsY",
+      "title": "4.2 How to use Printf method in Java",
+      "duration": 251
+    },
+    {
+      "id": "JWFWbSH2Q_M",
+      "title": "4.3 Short Hand Operators in Java | With Java Tricks | Tutorial",
+      "duration": 294
+    },
+    {
+      "id": "Dhe1Q_N89EE",
+      "title": "4.4 Binary Literal in Java",
+      "duration": 169
+    },
+    {
+      "id": "TnJ_bzLfUXk",
+      "title": "4.5 Post and Pre Increment in Java",
+      "duration": 426
+    },
+    {
+      "id": "ifu2UlqIoYM",
+      "title": "Premium Java and spring boot Courses",
+      "duration": 51
+    },
+    {
+      "id": "rzfiE0UuZnQ",
+      "title": "4.6 Bitwise And & Or | Operator in Java",
+      "duration": 231
+    },
+    {
+      "id": "pv1C0_6k78A",
+      "title": "4.7 Left and Right Shift Operator in Java",
+      "duration": 199
+    },
+    {
+      "id": "tpP8EQE8DNU",
+      "title": "5.1 how to use Boolean in java",
+      "duration": 138
+    },
+    {
+      "id": "ywYMkaoIvYA",
+      "title": "5.2 If Else in Java Tutorial Part 8 | Lecture",
+      "duration": 525
+    },
+    {
+      "id": "g5Kphf1exzg",
+      "title": "5.3 How to use Ternary Operator in Java Tutorial",
+      "duration": 357
+    },
+    {
+      "id": "4K0vDFyPa2o",
+      "title": "5.4 Java Trick | Print Hello World without using Semicolon",
+      "duration": 165
+    },
+    {
+      "id": "zFORKqC4lKA",
+      "title": "5.5 Switch Case in Java Tutorial Part 9 | Lecture",
+      "duration": 306
+    },
+    {
+      "id": "eqtzsqMiFss",
+      "title": "5.6 Loop For, while, do while Java Tutorial Part 10 | Lecture",
+      "duration": 620
+    },
+    {
+      "id": "JlRgBWWYOSE",
+      "title": "5.7 How to use Labeled Break Statement in Java | Hidden Feature",
+      "duration": 245
+    },
+    {
+      "id": "M2Q052lF55Y",
+      "title": "5.8 How to Print Ascii values in Java",
+      "duration": 242
+    },
+    {
+      "id": "jp6O9SPf5T0",
+      "title": "5.9 Java Tutorial Part 10.1 Patterns with loops | Lecture",
+      "duration": 640
+    },
+    {
+      "id": "jvBnoA5sUfA",
+      "title": "5.10 Loop pattern Logic in Java Tutorial",
+      "duration": 668
+    },
+    {
+      "id": "EbnofpvSZx4",
+      "title": "5.11 Pattern Example in Java for Beginners Tutorial | Lecture",
+      "duration": 414
+    },
+    {
+      "id": "jrq-XSfrisY",
+      "title": "5.12 Pattern Example in Java Part 2 for Begineers Tutorial | Lecture",
+      "duration": 141
+    },
+    {
+      "id": "2kyctZDPeio",
+      "title": "5.13 How to print Fibonacci Series in Java Tutorial | Lecture",
+      "duration": 317
+    },
+    {
+      "id": "2-TKmwzxtZ8",
+      "title": "5.14 Palindrome or not Java Tutorial",
+      "duration": 573
+    },
+    {
+      "id": "0_vyy5oRn-c",
+      "title": "5.15 Perfect Number in Java",
+      "duration": 348
+    },
+    {
+      "id": "KkAiNXR42fk",
+      "title": "5.16 Armstrong Number in Java",
+      "duration": 361
+    },
+    {
+      "id": "V7-PnNDPwVk",
+      "title": "5.17 How to check a given number is prime or not in Java Tutorial | Lecture",
+      "duration": 303
+    },
+    {
+      "id": "lSKrdopNNks",
+      "title": "5.18 Swapping of Two Numbers in Java in 3 Different ways",
+      "duration": 564
+    },
+    {
+      "id": "CZFr8wR4xlk",
+      "title": "5.19 Swapping of 2 Numbers in Easy way",
+      "duration": 200
+    },
+    {
+      "id": "xftdnEpZRuA",
+      "title": "Java Tutorial | Array Theory",
+      "duration": 388
+    },
+    {
+      "id": "oMwU4lTAO8g",
+      "title": "6.2 Array in Java Tutorial",
+      "duration": 881
+    },
+    {
+      "id": "okHL1h5rhNM",
+      "title": "6.3 Array in Java Tutorial With Example",
+      "duration": 308
+    },
+    {
+      "id": "rYVX-hCAUIo",
+      "title": "6.4 Enhanced Forloop Tutorial Theory",
+      "duration": 247
+    },
+    {
+      "id": "cWLUROPLPZc",
+      "title": "6.5 Array in Java Tutorial With Example using Enhanced For Loop",
+      "duration": 208
+    },
+    {
+      "id": "vEzd6CfQYnA",
+      "title": "6.6 Array in Java Tutorial With Example using Random Class",
+      "duration": 148
+    },
+    {
+      "id": "3gWUH_4ExQ8",
+      "title": "6.7 Array in Java Tutorial With Example ArrayIndexOutOfBoundsException",
+      "duration": 158
+    },
+    {
+      "id": "NU5Wgj560fs",
+      "title": "6.8 How to use Array in Java Tutorial With Example 2 Dimensional Array",
+      "duration": 138
+    },
+    {
+      "id": "5pLNsNKWbsk",
+      "title": "6.9 2D Array in Java",
+      "duration": 589
+    },
+    {
+      "id": "6P0YVDMJIyQ",
+      "title": "6.10 Enhance For Loop in Java | For Each Loop",
+      "duration": 317
+    },
+    {
+      "id": "4LZc6WtloIc",
+      "title": "6.11 Enhanced for Loop with 2D Array",
+      "duration": 216
+    },
+    {
+      "id": "6A5SRl1VwbE",
+      "title": "6.12 Jagged Array in Java",
+      "duration": 213
+    },
+    {
+      "id": "TlFC8tAqD9w",
+      "title": "6.13 3D ( Multi Dimensional ) Array in Java",
+      "duration": 326
+    },
+    {
+      "id": "vKyyexUlit8",
+      "title": "6.14 How to use Varargs Variable Arguments in Java Tutorial Lecture",
+      "duration": 432
+    },
+    {
+      "id": "Bz36rTn5WEQ",
+      "title": "6.15 Different Ways of writing main method in java | Cool Tricks",
+      "duration": 177
+    },
+    {
+      "id": "bn3zKuU6gwI",
+      "title": "7.1 Class and Object in Java",
+      "duration": 112
+    },
+    {
+      "id": "V-PQvKUtSY8",
+      "title": "7.2 Creating Object in Java",
+      "duration": 344
+    },
+    {
+      "id": "AozJ0CR2W4A",
+      "title": "7.3 Object Instantiation | How to create Object in Java",
+      "duration": 141
+    },
+    {
+      "id": "YqBVgUh64Ks",
+      "title": "#4.2 Constructor in Java Theory",
+      "duration": 655
+    },
+    {
+      "id": "lrYghXs9EEU",
+      "title": "7.5 Constructor Example in Java",
+      "duration": 185
+    },
+    {
+      "id": "I0o0olRhLDk",
+      "title": "7.6 Constructor Example in Java Constructor Overloading",
+      "duration": 172
+    },
+    {
+      "id": "5hMqIdPexVs",
+      "title": "7.7 Constructor Example in Java Constructor Overloading Implicit Conversion",
+      "duration": 121
+    },
+    {
+      "id": "mAoJtlLfrqg",
+      "title": "7.8 Object Passing in Java",
+      "duration": 182
+    },
+    {
+      "id": "mjjEPYPCri8",
+      "title": "7.9 Packages in Java Theory",
+      "duration": 385
+    },
+    {
+      "id": "eEujVn-ZTLE",
+      "title": "7.10 What are Packages in Java",
+      "duration": 338
+    },
+    {
+      "id": "5nNTafzmX9o",
+      "title": "7.11 Access Modifiers in Java | Public, Protected, Private",
+      "duration": 308
+    },
+    {
+      "id": "kP6VKOtpf2M",
+      "title": "7.12 How to use javap Command in Java Tutorial",
+      "duration": 294
+    },
+    {
+      "id": "-TxHjyC8WY4",
+      "title": "7.13 What is Static Keyword in Java | static method and static variable",
+      "duration": 272
+    },
+    {
+      "id": "msXJVIecGp0",
+      "title": "7.14 Why Non-Static variables does not work in Static method in Java?",
+      "duration": 293
+    },
+    {
+      "id": "zZlqRkgNSrg",
+      "title": "7.15 Count Number of Objects of Class in Java",
+      "duration": 408
+    },
+    {
+      "id": "dCvEChffnTA",
+      "title": "7.16 How to use Static Block in Java Tutorial",
+      "duration": 381
+    },
+    {
+      "id": "kHWcA4X2anE",
+      "title": "7.17 Static Import in Java",
+      "duration": 214
+    },
+    {
+      "id": "tt_astMjep0",
+      "title": "8.1 What is Encapsulation in Java Tutorial",
+      "duration": 399
+    },
+    {
+      "id": "-Alpmo-OfJs",
+      "title": "8.2 Encapsulation Example in Java",
+      "duration": 245
+    },
+    {
+      "id": "aFZ-0bbSLi8",
+      "title": "8.3 What is Inheritance in Java | Lecture | Tutorial",
+      "duration": 533
+    },
+    {
+      "id": "361J5nra5PU",
+      "title": "8.4 Inheritance Example in Java Single Level",
+      "duration": 405
+    },
+    {
+      "id": "y6qpkSS15hw",
+      "title": "8.5 Inheritance Example in Java Multi Level",
+      "duration": 218
+    },
+    {
+      "id": "P89hOqvBhCw",
+      "title": "8.6 Object Creation in Inheritance | Constructor | Super",
+      "duration": 367
+    },
+    {
+      "id": "AmdgVatPL9k",
+      "title": "8.7 Polymorphism in Java",
+      "duration": 550
+    },
+    {
+      "id": "Y49U25-sRo8",
+      "title": "8.8 Polymorphism | OOPs | Method Overloading",
+      "duration": 253
+    },
+    {
+      "id": "a6cdFZwX7kQ",
+      "title": "8.9 Polymorphism | OOPs | Method Overriding",
+      "duration": 210
+    },
+    {
+      "id": "RAaPv49jkCw",
+      "title": "8.10 Dynamic Method Dispatch in Java",
+      "duration": 214
+    },
+    {
+      "id": "1ZDApgnufSI",
+      "title": "8.11 What is Super Keyword in Java Part 1",
+      "duration": 395
+    },
+    {
+      "id": "i710R2JDZ7c",
+      "title": "8.12 What is Super Keyword in Java Part 2",
+      "duration": 276
+    },
+    {
+      "id": "WZgcRSWVgpQ",
+      "title": "8.13 Final Keyword in Java",
+      "duration": 289
+    },
+    {
+      "id": "P5DOzTL3O_w",
+      "title": "8.14 This Keyword in Java",
+      "duration": 315
+    },
+    {
+      "id": "AmRjm4Cksmo",
+      "title": "8.15 Anonymous Object in Java",
+      "duration": 773
+    },
+    {
+      "id": "zZq_XDhU-rc",
+      "title": "8.16 Abstraction in Java",
+      "duration": 582
+    },
+    {
+      "id": "TIPnQe2-iPE",
+      "title": "8.17 Abstract Class in Java Tutorial Theory",
+      "duration": 510
+    },
+    {
+      "id": "RcIsb9iFKH8",
+      "title": "8.18 Abstract Class in Java Example",
+      "duration": 927
+    },
+    {
+      "id": "TMh91DIR-A0",
+      "title": "8.20 What is Interface in java with example",
+      "duration": 480
+    },
+    {
+      "id": "Ggjxn8Q9VuE",
+      "title": "8.21 Interface in Java Tutorial with Example",
+      "duration": 808
+    },
+    {
+      "id": "4e_RsZWdiSc",
+      "title": "8.22 Interface in Java 8 Default , Static Methods | New features",
+      "duration": 1100
+    },
+    {
+      "id": "1MY9VjQrgho",
+      "title": "8.23 Marker Interface in Java Tutorial Serialization, Remote",
+      "duration": 459
+    },
+    {
+      "id": "5J9o2Q7MqUQ",
+      "title": "9.1 String Operations in Java Tutorial | Lecture",
+      "duration": 444
+    },
+    {
+      "id": "aRxZ4jw5YPk",
+      "title": "9.2 What is toString method in Java Example",
+      "duration": 429
+    },
+    {
+      "id": "HuOuWTeGmEk",
+      "title": "9.3 User Input using System.in.read() method in java",
+      "duration": 574
+    },
+    {
+      "id": "iVbgcByqFic",
+      "title": "User Input using BufferedReader",
+      "duration": 293
+    },
+    {
+      "id": "--5rs8QFKOs",
+      "title": "9.5 Java Scanner Class Tutorial | User input",
+      "duration": 257
+    },
+    {
+      "id": "Jcd91wP6MV4",
+      "title": "9.6 How to use Wrapper classes in Java?",
+      "duration": 302
+    },
+    {
+      "id": "XKEBjp1k8cQ",
+      "title": "9.7 Wrapper Class in Java Tutorial",
+      "duration": 413
+    },
+    {
+      "id": "1PRVeeYG8z8",
+      "title": "9.8 String Spliting from CSV (comma seperated Values) in Java",
+      "duration": 236
+    },
+    {
+      "id": "to9DPVsdByE",
+      "title": "9.9 String is Immutable",
+      "duration": 409
+    },
+    {
+      "id": "oYcb0N1YfVw",
+      "title": "StringBuffer and StringBuilder in Java",
+      "duration": 395
+    },
+    {
+      "id": "8WTVLa1Xtsk",
+      "title": "10.1 Exception Handling in Java Theory",
+      "duration": 600
+    },
+    {
+      "id": "RrKmwLBEv-U",
+      "title": "10.2 Exception Handling in Java Practical Part 1 Try Catch",
+      "duration": 409
+    },
+    {
+      "id": "F4uv1ks11Co",
+      "title": "10.3 Exception Handling in Java Practical Part 2 Try with Multiple Catch Unchecked",
+      "duration": 319
+    },
+    {
+      "id": "_dm5E-TUm9E",
+      "title": "10.4 Exception Handling in Java Practical Part 3 Checked",
+      "duration": 338
+    },
+    {
+      "id": "gCwOHA7w_UY",
+      "title": "10.5 Exception Handling in Java Practical Part 4 Finally Block",
+      "duration": 236
+    },
+    {
+      "id": "V3X6uV4Xg34",
+      "title": "10.6 Exception Handling in Java Practical Part 4.1 Try with Resources",
+      "duration": 401
+    },
+    {
+      "id": "0N-DhLQ5pxs",
+      "title": "10.7 Exception Handling in Java Practical Part 5 Throw and Throws",
+      "duration": 304
+    },
+    {
+      "id": "EaNlSWOnOjE",
+      "title": "10.8 Exception Handling in Java Practical Part 6 User Defined Exception",
+      "duration": 251
+    },
+    {
+      "id": "b2uFL4BFDYg",
+      "title": "11.1 Object Cloning in Java Theory",
+      "duration": 287
+    },
+    {
+      "id": "WIh-TVq4ifI",
+      "title": "11.2 Object Cloning in Java Part 1",
+      "duration": 424
+    },
+    {
+      "id": "KWbr7B5LDzs",
+      "title": "11.3 Object Cloning in Java part 2",
+      "duration": 488
+    },
+    {
+      "id": "yFpkdkibvfg",
+      "title": "11.4 QR(Quick Response) Code Generation in Java using API",
+      "duration": 470
+    },
+    {
+      "id": "PeRMCPRpc84",
+      "title": "12.1 File Handling in Java Tutorial",
+      "duration": 438
+    },
+    {
+      "id": "w7D5YB2U2jU",
+      "title": "12.2 Properties File in Java",
+      "duration": 623
+    },
+    {
+      "id": "qo9S2CeoqQE",
+      "title": "12.3 Object Serialization in java | Serializable Interface",
+      "duration": 653
+    },
+    {
+      "id": "MG5BlkfecdU",
+      "title": "12.4 Serialization of Java Object in XML using XMLEncoder Tutorial",
+      "duration": 655
+    },
+    {
+      "id": "V6iY-kan_6E",
+      "title": "12.5 DeSerialization of Java Object in XML using XMLEncoder Tutorial",
+      "duration": 215
+    },
+    {
+      "id": "0vO0XVN3H-s",
+      "title": "12.6 Calling Private Method in Java Class using Reflection API",
+      "duration": 352
+    },
+    {
+      "id": "MN7MgQz0bCI",
+      "title": "12.7 More Methods of class Class Java Reflection API | Tutorial | Lecture",
+      "duration": 277
+    },
+    {
+      "id": "L95658yXRgI",
+      "title": "MultiThreading in Java Theory",
+      "duration": 653
+    },
+    {
+      "id": "Xj1uYKa8rIw",
+      "title": "13.2 Multithreading in Java Practical",
+      "duration": 750
+    },
+    {
+      "id": "xvXbvrUUGMM",
+      "title": "13.3 Multithreading using Runnable Interface",
+      "duration": 303
+    },
+    {
+      "id": "VDYSgjPxu18",
+      "title": "13.4 MultiThreading using Lambda Expression",
+      "duration": 268
+    },
+    {
+      "id": "b3C3ODumC24",
+      "title": "13.5 MultiThreading join and isAlive method in Java",
+      "duration": 235
+    },
+    {
+      "id": "BeV8eh84tEM",
+      "title": "13.6 Multithreading Thread Priority in Java",
+      "duration": 393
+    },
+    {
+      "id": "RH7G-N2pa8M",
+      "title": "13.7 Multithreading Synchronized Keyword",
+      "duration": 617
+    },
+    {
+      "id": "A1tnVMpWHh8",
+      "title": "13.8 Multithreading InterThread Communication | Producer Consumer",
+      "duration": 1030
+    },
+    {
+      "id": "5NOLuoG6fcQ",
+      "title": "Collection and Generics in Java",
+      "duration": 872
+    },
+    {
+      "id": "HhrQqmp3hXI",
+      "title": "14.2 Collection and Generics in Java |  Practical",
+      "duration": 873
+    },
+    {
+      "id": "XMvznsY02Mk",
+      "title": "Generics in Java",
+      "duration": 866
+    },
+    {
+      "id": "EKSfTGHZ_ZE",
+      "title": "14.3 Collection and Generics | List Interface",
+      "duration": 383
+    },
+    {
+      "id": "4BWmtZQSedU",
+      "title": "14.4 Vector vs ArrayList in Java",
+      "duration": 539
+    },
+    {
+      "id": "QWMyhFUtFHo",
+      "title": "14.5 LinkedList vs ArrayList in Java",
+      "duration": 556
+    },
+    {
+      "id": "0xrhqxTOphI",
+      "title": "14.6 Comparator Interface in Java Part 3",
+      "duration": 746
+    },
+    {
+      "id": "c8bghFb_WrA",
+      "title": "14.7 Collection and Generics Part 4 Comparator with Custom Type",
+      "duration": 367
+    },
+    {
+      "id": "W5gnVp1NUNU",
+      "title": "14.8 Collection and Generics Part 5 in Java with Comparable Interface",
+      "duration": 218
+    },
+    {
+      "id": "oAp4GYprVHM",
+      "title": "Interview Question | Comparable vs Comparator in Java",
+      "duration": 778
+    },
+    {
+      "id": "BeR8AcSu-OU",
+      "title": "14.9 Set Interface in Java Collection Framework",
+      "duration": 372
+    },
+    {
+      "id": "uu20xO9AaU4",
+      "title": "14.10 Map Interface in Java Collection Framework",
+      "duration": 601
+    },
+    {
+      "id": "z5tZ0Zb5rJQ",
+      "title": "14.11 HashMap and HashTable in Java",
+      "duration": 524
+    },
+    {
+      "id": "D42jIaoFM1c",
+      "title": "14.12 How to print duplicate Elements in ArrayList in Java Tutorial",
+      "duration": 236
+    },
+    {
+      "id": "7KThZb9G7II",
+      "title": "14.13 How to use CurrentTimeMillis of System Class to calculate execution time in Java Tutorial",
+      "duration": 353
+    },
+    {
+      "id": "okruEgWGVGU",
+      "title": "15.1 Inner Class in Java Tutorial",
+      "duration": 1324
+    },
+    {
+      "id": "LyAMUSKBBuo",
+      "title": "15.2 Inner Member Class In Java",
+      "duration": 372
+    },
+    {
+      "id": "PYMKk4XothI",
+      "title": "15.3 Inner Nested and Anonymous Class",
+      "duration": 465
+    },
+    {
+      "id": "jOLH1eLjs84",
+      "title": "15.4 Inner Class with Lambda Expression",
+      "duration": 430
+    },
+    {
+      "id": "sI4utYmh7O4",
+      "title": "15.5 enum in Java part 1 | Basics",
+      "duration": 396
+    },
+    {
+      "id": "KOAsLaK4Wzw",
+      "title": "15.6 enum in Java part 2 | Switch & Working",
+      "duration": 429
+    },
+    {
+      "id": "ThN8IXr0n_k",
+      "title": "15.7 enum in Java part 3 | Enum class",
+      "duration": 497
+    },
+    {
+      "id": "JV0atjBcUv4",
+      "title": "15.8 Annotation in Java part 1 | Basics",
+      "duration": 514
+    },
+    {
+      "id": "rWlHQnvrZcw",
+      "title": "15.9 Annotation in Java part 2 | Creating Custom Annotation",
+      "duration": 391
+    },
+    {
+      "id": "o9vn4No_ii4",
+      "title": "15.10 Annotation in Java part 3 | Using Custom Annotation",
+      "duration": 483
+    },
+    {
+      "id": "y_YxwyYRJek",
+      "title": "16.1  JDBC | Java Database Connectivity Theory Tutorial",
+      "duration": 1279
+    },
+    {
+      "id": "5vzCjvUwMXg",
+      "title": "16.2 Java Database Connectivity Practical",
+      "duration": 1222
+    },
+    {
+      "id": "1Ws4dPpV2lI",
+      "title": "16.3 Java Database Connectivity Practical Part 2",
+      "duration": 271
+    },
+    {
+      "id": "DyTEu08x3o0",
+      "title": "16.4 Java Database Connectivity Practical Part 3 | insert",
+      "duration": 661
+    },
+    {
+      "id": "me9CcSXLHHc",
+      "title": "16.5 Class forName use in JDBC",
+      "duration": 374
+    },
+    {
+      "id": "8QOjN89wA-Y",
+      "title": "16.6 Java Database Connectivity with DAO Example",
+      "duration": 691
+    },
+    {
+      "id": "55tCJ8Odjvw",
+      "title": "16.7 Java Database Connectivity with DAO Example part 2",
+      "duration": 350
+    },
+    {
+      "id": "fkqeCvFJs_o",
+      "title": "17.1 Java 8 Stream Api Features part 1 Internal Iteration",
+      "duration": 412
+    },
+    {
+      "id": "A620gzL0XPU",
+      "title": "17.2 Java 8 Stream Api Features part 2 forEach Method",
+      "duration": 221
+    },
+    {
+      "id": "_GLjsVdAhGw",
+      "title": "17.3 Java 8 Stream Api Features part 3 Consumer Interface",
+      "duration": 294
+    },
+    {
+      "id": "8man0ZNx3FU",
+      "title": "17.4 Lambda Expression in Java 8",
+      "duration": 224
+    },
+    {
+      "id": "mY1IquoLFhg",
+      "title": "17.5 Java 8 Stream Api Features part 5 Lambda Expression Functional Interface",
+      "duration": 360
+    },
+    {
+      "id": "akCAvlyHN2k",
+      "title": "17.6 Why we should not modify Java Interfaces once they are published",
+      "duration": 364
+    },
+    {
+      "id": "0yah_nXy94s",
+      "title": "17.7 Java 8 Stream Api Features part 6 Defining methods in Interface using Default Keyword",
+      "duration": 176
+    },
+    {
+      "id": "Hf4nVJjtD8k",
+      "title": "17.8 Java 8 Stream Api Features part 7 foreach method in Iterable Interface",
+      "duration": 131
+    },
+    {
+      "id": "y97AhsHq0Kw",
+      "title": "17.9 Java 8 Stream Api Features part 8 foreach Method Reference",
+      "duration": 206
+    },
+    {
+      "id": "2UbiwEt_rro",
+      "title": "17.10 Java 8 Stream Api Features part 9 foreach Method Reference 2",
+      "duration": 161
+    },
+    {
+      "id": "9Orn0Pwp3YU",
+      "title": "17.11 Stream API in Java 8 Tutorial",
+      "duration": 656
+    },
+    {
+      "id": "b0On2gN020k",
+      "title": "17.12 Java 8 Stream Api Features part 10 stream map reduce methods",
+      "duration": 340
+    },
+    {
+      "id": "kbs3SowJozQ",
+      "title": "17.13 Java 8 Stream Api Features part 11 stream map reduce methods in Detail",
+      "duration": 367
+    },
+    {
+      "id": "VjnmgzXMKlM",
+      "title": "17.14 Java 8 Stream Api Features part 12 Function BinaryOperator BiFunction Interface",
+      "duration": 328
+    },
+    {
+      "id": "pNQaBBqLHuc",
+      "title": "17.15 Java 8 Stream Api Features part 13 Function BinaryOperator BiFunction Interface Lambda",
+      "duration": 401
+    },
+    {
+      "id": "uS-2raW5s9g",
+      "title": "17.16 Java 8 Stream Api Features part 14 sum method of Integer Class for reduce",
+      "duration": 134
+    },
+    {
+      "id": "4zvGCilsWL4",
+      "title": "17.17 Java 8 Stream Api Features part 15 filter reduce predicate Interface",
+      "duration": 322
+    },
+    {
+      "id": "36rRIQciNSM",
+      "title": "17.18 Java 8 Stream Api Features part 16 filter reduce predicate Interface test method",
+      "duration": 321
+    },
+    {
+      "id": "qQHDS5kXRdY",
+      "title": "17.19 Java 8 Stream Api Features part 17 findFirst orElse function",
+      "duration": 357
+    },
+    {
+      "id": "WavMGROrKKs",
+      "title": "17.20 Java 8 Stream Api Features part 18 Lazy Evaluation and Terminal Function",
+      "duration": 367
+    },
+    {
+      "id": "hFF-E9swEr8",
+      "title": "17.21 Java 8 Stream Api Features part 19 Lazy Evaluation and Terminal Function Proof",
+      "duration": 198
+    },
+    {
+      "id": "nvluJ9yf4ho",
+      "title": "17.22 New Date Time Api in Java 8",
+      "duration": 683
+    },
+    {
+      "id": "svQKKg3aFzo",
+      "title": "Method Reference in Java 8",
+      "duration": 1266
+    },
+    {
+      "id": "PV5ds3uSXac",
+      "title": "Big Update for Java Learners and Trainers | JDK 21",
+      "duration": 399
+    },
+    {
+      "id": "AZb1wLIQ1R4",
+      "title": "What's new in Java Switch | Switch Statement and Expression",
+      "duration": 669
+    },
+    {
+      "id": "pmVgs8wOk5o",
+      "title": "Record Classes in Java | Java 17 features",
+      "duration": 962
+    },
+    {
+      "id": "glvYULuaf-k",
+      "title": "Sealed Classes in Java | Java 17 features",
+      "duration": 580
+    },
+    {
+      "id": "2zXbRJty4vc",
+      "title": "Var in Java | New Java 10 Feature",
+      "duration": 588
+    },
+    {
+      "id": "laPmEW913_k",
+      "title": "JUnit 5 Tutorial by Hyder Abbas",
+      "duration": 7924
+    }
+  ]
+}

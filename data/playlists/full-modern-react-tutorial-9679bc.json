@@ -1,0 +1,170 @@
+{
+  "courseId": "full-modern-react-tutorial-9679bc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:50.719Z",
+  "title": "Full Modern React Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "j942wKiXFu8",
+      "title": "Full React Tutorial #1 - Introduction",
+      "duration": 367
+    },
+    {
+      "id": "kVeOpcw4GWY",
+      "title": "Full React Tutorial #2 - Creating a React Application",
+      "duration": 782
+    },
+    {
+      "id": "9D1x7-2FmTA",
+      "title": "Full React Tutorial #3 - Components & Templates",
+      "duration": 397
+    },
+    {
+      "id": "pnhO8UaCgxg",
+      "title": "Full React Tutorial #4 - Dynamic Values in Templates",
+      "duration": 332
+    },
+    {
+      "id": "0sSYmRImgRY",
+      "title": "Full React Tutorial #5 - Multiple Components",
+      "duration": 369
+    },
+    {
+      "id": "NbTrGcz4DW8",
+      "title": "Full React Tutorial #6 - Adding Styles",
+      "duration": 400
+    },
+    {
+      "id": "0XSDAup85SA",
+      "title": "Full React Tutorial #7 - Click Events",
+      "duration": 441
+    },
+    {
+      "id": "4pO-HcG2igk",
+      "title": "Full React Tutorial #8 - Using State (useState hook)",
+      "duration": 402
+    },
+    {
+      "id": "rb1GWqCJid4",
+      "title": "Full React Tutorial #9 - Intro to React Dev Tools",
+      "duration": 260
+    },
+    {
+      "id": "tHjxSVaj_wY",
+      "title": "Full React Tutorial #10 - Outputting Lists",
+      "duration": 404
+    },
+    {
+      "id": "PHaECbrKgs0",
+      "title": "Full React Tutorial #11 - Props",
+      "duration": 536
+    },
+    {
+      "id": "-YpnB-zlkPU",
+      "title": "Full React Tutorial #12 - Reusing Components",
+      "duration": 177
+    },
+    {
+      "id": "CWEOYFzgOJs",
+      "title": "Full React Tutorial #13 - Functions as Props",
+      "duration": 271
+    },
+    {
+      "id": "gv9ugDJ1ynU",
+      "title": "Full React Tutorial #14 - useEffect Hook (the basics)",
+      "duration": 236
+    },
+    {
+      "id": "jQc_bTFZ5_I",
+      "title": "Full React Tutorial #15 - useEffect Dependencies",
+      "duration": 260
+    },
+    {
+      "id": "eao7ABGFUXs",
+      "title": "Full React Tutorial #16 - Using JSON Server",
+      "duration": 311
+    },
+    {
+      "id": "qdCHEUaFhBk",
+      "title": "Full React Tutorial #17 - Fetching Data with useEffect",
+      "duration": 475
+    },
+    {
+      "id": "qtheqr0jgIQ",
+      "title": "Full React Tutorial #18 - Conditional Loading Message",
+      "duration": 227
+    },
+    {
+      "id": "DTBta08fXGU",
+      "title": "Full React Tutorial #19 - Handling Fetch Errors",
+      "duration": 459
+    },
+    {
+      "id": "Jl4q2cccwf0",
+      "title": "Full React Tutorial #20 - Making a Custom Hook",
+      "duration": 529
+    },
+    {
+      "id": "aZGzwEjZrXc",
+      "title": "Full React Tutorial #21 - The React Router",
+      "duration": 502
+    },
+    {
+      "id": "EmUa_tcSM-k",
+      "title": "Full React Tutorial #22 - Exact Match Routes",
+      "duration": 324
+    },
+    {
+      "id": "DO-pSysGItQ",
+      "title": "Full React Tutorial #23 - Router Links",
+      "duration": 210
+    },
+    {
+      "id": "aKOQtGLT-Yk",
+      "title": "Full React Tutorial #24 - useEffect Cleanup",
+      "duration": 410
+    },
+    {
+      "id": "t7VmF4WsLCo",
+      "title": "Full React Tutorial #25 - Route Parameters",
+      "duration": 483
+    },
+    {
+      "id": "c-5VXl8yPQA",
+      "title": "Full React Tutorial #26 - Reusing Custom Hooks",
+      "duration": 316
+    },
+    {
+      "id": "IkMND33x0qQ",
+      "title": "Full React Tutorial #27 - Controlled Inputs (forms)",
+      "duration": 567
+    },
+    {
+      "id": "pJiRj02PkJQ",
+      "title": "Full React Tutorial #28 - Submit Events",
+      "duration": 172
+    },
+    {
+      "id": "EcRFYF4B3IQ",
+      "title": "Full React Tutorial #29 - Making a POST Request",
+      "duration": 318
+    },
+    {
+      "id": "TmVqwhBUiSM",
+      "title": "Full React Tutorial #30 - Programmatic Redirects",
+      "duration": 218
+    },
+    {
+      "id": "Wb-0CkLiyQk",
+      "title": "Full React Tutorial #31 - Deleting Blogs",
+      "duration": 226
+    },
+    {
+      "id": "XW0t2lk4Ffo",
+      "title": "Full React Tutorial #32 - 404 Pages & Next Steps",
+      "duration": 257
+    }
+  ]
+}

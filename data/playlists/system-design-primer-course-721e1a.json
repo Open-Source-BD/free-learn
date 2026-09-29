@@ -1,0 +1,155 @@
+{
+  "courseId": "system-design-primer-course-721e1a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:25.763Z",
+  "title": "System Design Primer Course",
+  "channel": "sudoCODE",
+  "videos": [
+    {
+      "id": "FSR1s2b-l_I",
+      "title": "Introduction to System Design | System Design Tutorials | Part 1 | 2020",
+      "duration": 289
+    },
+    {
+      "id": "aSvOThsVe5w",
+      "title": "Components of System Design |  System Design Tutorials | Part 2 | 2020",
+      "duration": 363
+    },
+    {
+      "id": "Dg1U-jwVUrg",
+      "title": "Client Server Architecture |  System Design Tutorials | Part 3 | 2020",
+      "duration": 363
+    },
+    {
+      "id": "Nu-4Q3OoR4E",
+      "title": "Proxies |  System Design Tutorials | Part 4 | 2020",
+      "duration": 271
+    },
+    {
+      "id": "YBRGp_CNzXw",
+      "title": "Data & Data Flow |  System Design Tutorials | Part 5 | 2020",
+      "duration": 719
+    },
+    {
+      "id": "O_c7lzNbcKo",
+      "title": "Databases types: SQL, NoSQL, Column, Search, Key Value | System Design Tutorials | Part 6 | 2020",
+      "duration": 1098
+    },
+    {
+      "id": "iuR7rzNvbxs",
+      "title": "Anatomy of applications and services | System Design Tutorials | Part 7 | 2020",
+      "duration": 786
+    },
+    {
+      "id": "dpcILJ8BTzU",
+      "title": "Application Programming Interface (API) | System Design Tutorials | Part 8 | 2020",
+      "duration": 524
+    },
+    {
+      "id": "Ez1GK2imrsY",
+      "title": "Caching | Cache Patterns | Cache Invalidation & Eviction | System Design Tutorials | Part 9 | 2020",
+      "duration": 1376
+    },
+    {
+      "id": "nUuAWn0AAiY",
+      "title": "What is a REST API? | CRUD APIs| REST vs HTTP | System Design Tutorials | Part 10 | 2020",
+      "duration": 1463
+    },
+    {
+      "id": "J6CBdSCB_fY",
+      "title": "Message Queues | Producer Consumer Model | System Design Tutorials | Part 11 | 2020",
+      "duration": 1367
+    },
+    {
+      "id": "EgJ7xts82Mg",
+      "title": "Pub Sub Messaging | Publisher Subscriber(Part 1 of 2) | System Design Tutorials | Part 12 | 2020",
+      "duration": 1250
+    },
+    {
+      "id": "-vd_Ay0pvFY",
+      "title": "Pub Sub Use Cases | Publisher Subscriber (Part 2 of 2) | System Design Tutorials | Lect 13 | 2020",
+      "duration": 677
+    },
+    {
+      "id": "HrfgslRY7Ak",
+      "title": "Performance Metrics | System Design Tutorials | Lecture 14 | 2020",
+      "duration": 818
+    },
+    {
+      "id": "R72h2D3Y76g",
+      "title": "Performance Metrics of components in a software | System Design Tutorials | Lecture 15 | 2020",
+      "duration": 1118
+    },
+    {
+      "id": "7vIzGmxdUvI",
+      "title": "Fault and Failure in distributed systems | System Design Tutorials | Lecture 16 | 2020",
+      "duration": 835
+    },
+    {
+      "id": "G1Z7w9_vspY",
+      "title": "Scaling in a nutshell | Horizontal vs vertical scaling | System Design Tutorials | Lecture 17 | 2020",
+      "duration": 830
+    },
+    {
+      "id": "RIcNswROzCc",
+      "title": "Database Replication | Synchronous vs Asynchronous | System Design Tutorials | Lecture 18 | 2020",
+      "duration": 1195
+    },
+    {
+      "id": "pSoKUfLTe8Y",
+      "title": "CAP | Consistency, Availability and Partitioning | System Design Tutorials | Lecture 19 | 2020",
+      "duration": 964
+    },
+    {
+      "id": "kwCFHLbIhak",
+      "title": "What is CAP Theorem? Degrees of CAP theorem, use cases | System Design Tutorials | Lecture 20 | 2020",
+      "duration": 1075
+    },
+    {
+      "id": "YCb-tDQWrXk",
+      "title": "What is Database Sharding, Logical and Physical Shards, Dynamic vs Algorithmic Sharding | 2021",
+      "duration": 1075
+    },
+    {
+      "id": "arUpleGFdt4",
+      "title": "Key based Sharding | Shard Key | Hash function | Advantages and disadvantages | 2021",
+      "duration": 462
+    },
+    {
+      "id": "avepna2q9w0",
+      "title": "Range based sharding | Advantages and disadvantages | Hotspots | Use Cases",
+      "duration": 371
+    },
+    {
+      "id": "62adurZ_Muw",
+      "title": "Directory based sharding",
+      "duration": 347
+    },
+    {
+      "id": "cITtFpz3a3Y",
+      "title": "A simple introduction to basics of hashing & need for Consistent Hashing|System Design Primer Course",
+      "duration": 911
+    },
+    {
+      "id": "oKAU6LaYFhw",
+      "title": "Basics of consistent hashing in plain english | System Design fundamentals",
+      "duration": 896
+    },
+    {
+      "id": "xRdjEd-VQTU",
+      "title": "Foundation of System Design Interview starting with Functional vs Non Functional Requirements",
+      "duration": 623
+    },
+    {
+      "id": "VBw703pjC3E",
+      "title": "How to solve capacity estimation problems faster? | Thumb rules and quick tips | System Design",
+      "duration": 512
+    },
+    {
+      "id": "ySfpftMZnoU",
+      "title": "5 mistakes I made in System Design Interviews that you should avoid | System Design Tutorials | 2021",
+      "duration": 414
+    }
+  ]
+}

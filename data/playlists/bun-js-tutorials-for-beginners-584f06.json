@@ -1,0 +1,55 @@
+{
+  "courseId": "bun-js-tutorials-for-beginners-584f06",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:07.824Z",
+  "title": "Bun JS Tutorials for Beginners",
+  "channel": "TechWebDocs",
+  "videos": [
+    {
+      "id": "3S2In1X07G8",
+      "title": "How to install Bun JS on Ubuntu 22.04 LTS | Linux | Faster JS Runtime | Bun",
+      "duration": 374
+    },
+    {
+      "id": "UrO2UhA8SQE",
+      "title": "How to create and run React App on Bun JavaScript Runtime",
+      "duration": 215
+    },
+    {
+      "id": "U4sX83dlZx8",
+      "title": "How to create and run Next.js App on Bun JavaScript Runtime",
+      "duration": 218
+    },
+    {
+      "id": "-3-PlKgJmEg",
+      "title": "How to create React App with TypeScript on Bun JavaScript Runtime",
+      "duration": 270
+    },
+    {
+      "id": "cJ4E9TNwkIU",
+      "title": "How to use and run an existing Next.js App on Bun JavaScript Runtime",
+      "duration": 233
+    },
+    {
+      "id": "B1JbGipTGys",
+      "title": "How to use and run an existing React App on Bun JavaScript Runtime",
+      "duration": 300
+    },
+    {
+      "id": "a_WFb8xU8tc",
+      "title": "How to build a Rest APIs CRUD App with Bun.js and Hono.js Web Framework and SQLite",
+      "duration": 1809
+    },
+    {
+      "id": "Qq87Dd2Lr8E",
+      "title": "Fetch API Call (GET, POST, PUT, DELETE) from RESTful API in Bun.js | Bun Fetch API",
+      "duration": 546
+    },
+    {
+      "id": "FYLJxAYkgpU",
+      "title": "Create Your First Web Server with Bun.js | Bun Web Server | Bun Fetch API",
+      "duration": 648
+    }
+  ]
+}

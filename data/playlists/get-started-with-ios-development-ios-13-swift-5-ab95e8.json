@@ -1,0 +1,125 @@
+{
+  "courseId": "get-started-with-ios-development-ios-13-swift-5-ab95e8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLSzsOkUDsvdu5Mm67aBYs2YPu2OM4mFzt",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:56.355Z",
+  "title": "Get Started with iOS Development (iOS 13, Swift 5)",
+  "channel": "London App Brewery",
+  "videos": [
+    {
+      "id": "UNH0bE4zPtY",
+      "title": "The Complete iOS 13 App Development Course",
+      "duration": 269
+    },
+    {
+      "id": "n7UFxV7zHKw",
+      "title": "How Does an App Work?",
+      "duration": 494
+    },
+    {
+      "id": "HxssFtenD_M",
+      "title": "How to Make an App",
+      "duration": 543
+    },
+    {
+      "id": "FSo3uS1ZfiE",
+      "title": "Developing for iOS: Tools and Materials",
+      "duration": 656
+    },
+    {
+      "id": "paJ5FnJT6cI",
+      "title": "Getting Set Up with Xcode",
+      "duration": 253
+    },
+    {
+      "id": "nbF6g95LnYg",
+      "title": "What We'll Make: The \"I am Rich\" App",
+      "duration": 205
+    },
+    {
+      "id": "tzXUOAkWD6g",
+      "title": "How to create an iOS Project from Scratch in Xcode",
+      "duration": 419
+    },
+    {
+      "id": "Y2Y8dIx7EXc",
+      "title": "A Walkthrough of the Xcode Development Environment",
+      "duration": 881
+    },
+    {
+      "id": "zzgqWRovVC8",
+      "title": "Let's Design the User Interface for our App!",
+      "duration": 1027
+    },
+    {
+      "id": "7SlLLH0BGxg",
+      "title": "Let's Incorporate Some Image Assets",
+      "duration": 664
+    },
+    {
+      "id": "VilvtI6K6Yg",
+      "title": "How to Design and Add an App Icon",
+      "duration": 577
+    },
+    {
+      "id": "Fo1A36RsoCI",
+      "title": "Run Your App on Your iPhone or Simulator",
+      "duration": 811
+    },
+    {
+      "id": "YuLANfArajs",
+      "title": "What You'll Make: The Dicee App",
+      "duration": 147
+    },
+    {
+      "id": "Rrf0ul01Ry8",
+      "title": "Cloning from GitHub and How to Download the L.A.B. Project Stubs",
+      "duration": 555
+    },
+    {
+      "id": "khNgd4bUm24",
+      "title": "Design the Dicee App's User Interface (UI)",
+      "duration": 602
+    },
+    {
+      "id": "F730CPdnfdI",
+      "title": "Let's Link the Design to your Code",
+      "duration": 1400
+    },
+    {
+      "id": "OoHD9L9Ix_M",
+      "title": "Responding to User Interactions with IBActions",
+      "duration": 538
+    },
+    {
+      "id": "NVUlchb8S2w",
+      "title": "Swift Deep Dive: Naming Conventions, Commenting and String Interpolation",
+      "duration": 589
+    },
+    {
+      "id": "ag1BEpRRCrE",
+      "title": "Storing Data using Variables and Arrays",
+      "duration": 1042
+    },
+    {
+      "id": "pqhNVC-G5F4",
+      "title": "Swift Deep Dive: Variables",
+      "duration": 696
+    },
+    {
+      "id": "_HfGCrbWxMw",
+      "title": "Swift Deep Dive: Arrays",
+      "duration": 442
+    },
+    {
+      "id": "oXo7pzMbz70",
+      "title": "How to Randomise the Dice Images",
+      "duration": 906
+    },
+    {
+      "id": "7xMOwmIe6LA",
+      "title": "Swift Deep Dive: Constants, the Range Operator and Randomisation",
+      "duration": 924
+    }
+  ]
+}

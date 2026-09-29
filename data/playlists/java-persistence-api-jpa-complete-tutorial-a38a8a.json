@@ -1,0 +1,60 @@
+{
+  "courseId": "java-persistence-api-jpa-complete-tutorial-a38a8a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL6oD2syjfW7COL__RNrWl4S97vNcqh3mO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:31.974Z",
+  "title": "Java Persistence API (JPA) Complete Tutorial",
+  "channel": "Giuseppe Scaramuzzino",
+  "videos": [
+    {
+      "id": "ndHywjc3-kY",
+      "title": "#01 - Introduction | JAVA PERSISTENCE API (JPA) | Tutorial | Java",
+      "duration": 1086
+    },
+    {
+      "id": "LEgkdCBnjcM",
+      "title": "#02 - Persistence Operations | JAVA PERSISTENCE API (JPA) | Tutorial | Java",
+      "duration": 1561
+    },
+    {
+      "id": "cg8tFvW7jZk",
+      "title": "#03 - Java Persistence Query Language (JPQL) | JAVA PERSISTENCE API (JPA) | Tutorial | Java",
+      "duration": 1366
+    },
+    {
+      "id": "70cPmHd-D9c",
+      "title": "#04 - OneToOne Entity Relationship JPA | JAVA PERSISTENCE API JPA | Tutorial | Java",
+      "duration": 654
+    },
+    {
+      "id": "dd2mom6R0fA",
+      "title": "#05 OneToMany Entity Relationship JPA | JAVA PERSISTENCE API JPA | Tutorial | Java | Jakarta",
+      "duration": 827
+    },
+    {
+      "id": "BWc9-YDq_QA",
+      "title": "#06 ManyToOne Entity Relationship JPA | JAVA PERSISTENCE API JPA | Tutorial | Java | Jakarta",
+      "duration": 395
+    },
+    {
+      "id": "49OWzc81884",
+      "title": "#07 ManyToMany Entity Relationship JPA | JAVA PERSISTENCE API JPA | Tutorial | Java | JakartaEE",
+      "duration": 341
+    },
+    {
+      "id": "zL6tCtv0VlQ",
+      "title": "#08 Inheritance Strategy JPA | JAVA PERSISTENCE API JPA | Tutorial | Java | Jakarta",
+      "duration": 616
+    },
+    {
+      "id": "Id_5VCGX5to",
+      "title": "#09 Criteria API JPA | JAVA PERSISTENCE API JPA | Tutorial | Java | JakartaEE",
+      "duration": 559
+    },
+    {
+      "id": "tihaNJyW1NQ",
+      "title": "#10 JPA & POSTGRESQL | JAVA PERSISTENCE API JPA | Tutorial | Java | JakartaEE | Docker | PostgreSQL",
+      "duration": 494
+    }
+  ]
+}

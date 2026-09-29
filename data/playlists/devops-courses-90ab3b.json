@@ -1,0 +1,65 @@
+{
+  "courseId": "devops-courses-90ab3b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:10.728Z",
+  "title": "Git & GitHub",
+  "channel": "freeCodeCamp.org",
+  "videos": [
+    {
+      "id": "vR-y_2zWrIE",
+      "title": "Git & GitHub: Introduction to Git & GitHub",
+      "duration": 70
+    },
+    {
+      "id": "2GO1a1vgNrc",
+      "title": "Git & GitHub: Branching and the GitHub Workflow",
+      "duration": 133
+    },
+    {
+      "id": "4VY0kHqIqyU",
+      "title": "Git & GitHub: GitHub Workflow for Open Source",
+      "duration": 98
+    },
+    {
+      "id": "09wR8kYT3t8",
+      "title": "Git & GitHub: Cloning & Working Locally",
+      "duration": 109
+    },
+    {
+      "id": "bbanTh2CoAY",
+      "title": "Git & GitHub: Most Used Git Commands",
+      "duration": 119
+    },
+    {
+      "id": "JXM7MO2GgGg",
+      "title": "Git & GitHub: How Commits Work",
+      "duration": 55
+    },
+    {
+      "id": "TfbgO07ZEYE",
+      "title": "Git & GitHub: 2-Step Commit",
+      "duration": 89
+    },
+    {
+      "id": "tYOl25gyuvk",
+      "title": "Git & GitHub: Merging",
+      "duration": 43
+    },
+    {
+      "id": "sfT0WrChMrM",
+      "title": "Git & GitHub: Merge Conflicts",
+      "duration": 89
+    },
+    {
+      "id": "PBtApBmgc1M",
+      "title": "Git & GitHub: Rebasing",
+      "duration": 72
+    },
+    {
+      "id": "XiFYShmnI4k",
+      "title": "Git & GitHub: Undoing Commits",
+      "duration": 90
+    }
+  ]
+}

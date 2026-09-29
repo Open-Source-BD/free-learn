@@ -1,0 +1,915 @@
+{
+  "courseId": "flutter-app-development-338353",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:58.581Z",
+  "title": "Flutter App Development",
+  "channel": "Code With Dhruv",
+  "videos": [
+    {
+      "id": "nXh1W5vSqWc",
+      "title": "[HINDI] || Flutter App Development Course || With 20+ Projects || Completely Free ||",
+      "duration": 715
+    },
+    {
+      "id": "_DBd-hqYR8Y",
+      "title": "[HINDI] | How to install flutter | Set up flutter in Android Studio | Flutter App Development Course",
+      "duration": 872
+    },
+    {
+      "id": "GZti2EArZbM",
+      "title": "[HINDI] || Introduction To Android Studio || Android Studio Shortcuts And Settings ||",
+      "duration": 830
+    },
+    {
+      "id": "0YnOM2J-Ws8",
+      "title": "[HINDI] || Dart Programming Basics || Part -1 || Flutter App Development ||",
+      "duration": 992
+    },
+    {
+      "id": "VYFoClAmmgU",
+      "title": "[HINDI] | PART-2 |Object Oriented Programming Basics In Dart |  Flutter App Development",
+      "duration": 990
+    },
+    {
+      "id": "wC7JxCCEhYQ",
+      "title": "[HINDI] || Hello World! App In Flutter || Flutter Basics || Flutter For Beginners",
+      "duration": 565
+    },
+    {
+      "id": "z7I4a6Hil-Y",
+      "title": "#1 [HINDI] || Project 01 ||  My Portfolio App In Flutter || Creating Layout || Flutter App Projects",
+      "duration": 1344
+    },
+    {
+      "id": "ukrGAyahkik",
+      "title": "#2 [HINDI] || My Portfolio App in Flutter || SizedBox, Icons, TextStyle, Axis Alignment in Flutter",
+      "duration": 1069
+    },
+    {
+      "id": "Mg5oh5__ano",
+      "title": "#3 [HINDI] | P-2 | MY PORTFOLIO APP IN FLUTTER | Adding Image, Custom Fonts Into Our Flutter App",
+      "duration": 1070
+    },
+    {
+      "id": "vTFyz1KNxLE",
+      "title": "[HINDI] #4 How to set background image in flutter | Making Dark Theme UI |  Portfolio App In Flutter",
+      "duration": 907
+    },
+    {
+      "id": "noTXPpUADdg",
+      "title": "[HINDI] #5 Finishing Our Project | Conclusion | What you learnt, Tips , Export App, Next Project",
+      "duration": 569
+    },
+    {
+      "id": "MZ-pOAeqyuo",
+      "title": "[HINDI] #1 Project 02 | Mausam App | How To Make Weather App In Flutter | Flutter Projects In Hindi",
+      "duration": 281
+    },
+    {
+      "id": "KSz8xR_Iexk",
+      "title": "[HINDI] #2 Adding Pages | Weather App In Flutter | Flutter Projects",
+      "duration": 451
+    },
+    {
+      "id": "vybKvqL3QP4",
+      "title": "[HINDI] #3 Creating Routes In Flutter | Routes In Flutter | Mausam - Weather App In Flutter |",
+      "duration": 732
+    },
+    {
+      "id": "Y8oAavGYKoE",
+      "title": "[HINDI] #4 Stateful Widget In Flutter | Stateful Widget Explained In Hindi |Flutter Weather App |",
+      "duration": 923
+    },
+    {
+      "id": "sGwti6wIAUY",
+      "title": "[HINDI] #5 Future Delayed Method In Flutter | Flutter Weather App | Flutter Tutorials In Hindi",
+      "duration": 429
+    },
+    {
+      "id": "2JEnsFjHJ4o",
+      "title": "[HINDI] #6 Introduction To Async Function | What is async in flutter | What is await in flutter",
+      "duration": 380
+    },
+    {
+      "id": "jQqaOzMEMdk",
+      "title": "[HINDI] #7 Async Method In Flutter | Await In Flutter | Async and await explained in hindi | Flutter",
+      "duration": 892
+    },
+    {
+      "id": "AJ26N1i9V3Q",
+      "title": "[HINDI] #8 Flutter Packages | What is flutter packages | Flutter Tutorial in Hindi 2021",
+      "duration": 261
+    },
+    {
+      "id": "5OEuF5BMz1o",
+      "title": "[HINDI] #9 What is Map Datatype In Dart | What is JSON | Map and JSON Explained | Flutter Tutorials",
+      "duration": 502
+    },
+    {
+      "id": "guW_HvVjWmk",
+      "title": "[HINDI] #10 http Package In Flutter | How to import data from API in flutter | Flutter Weather App",
+      "duration": 775
+    },
+    {
+      "id": "FcO_RflrYYU",
+      "title": "[HINDI] #11 Weather API for Flutter App | Open Weather Map API in Flutter | Weather App In Flutter",
+      "duration": 715
+    },
+    {
+      "id": "277o5Gma5ys",
+      "title": "[HINDI] #12 List Datatype In Flutter Dart | What is List In Dart | Flutter Tutorials In Hindi",
+      "duration": 247
+    },
+    {
+      "id": "n5QjT5iRFXg",
+      "title": "[HINDI] #13 Filtering Data From JSON Data | Getting Relevant Information From JSON Data",
+      "duration": 765
+    },
+    {
+      "id": "ud9s6w1cGzI",
+      "title": "[HINDI] PART - 1 || Class, Data Members & Methods In Dart | OOPs Basics In Dart | Flutter Tutorial",
+      "duration": 674
+    },
+    {
+      "id": "iOJd8gfvrek",
+      "title": "[HINDI] PART - 2 | Constructors In Dart | Basic Of OOPs In Dart | Flutter Tutorial",
+      "duration": 458
+    },
+    {
+      "id": "cDNnpcffZgw",
+      "title": "[HINDI] #14 Making Our Code More Usable | Creating Worker Class | Flutter Weather App",
+      "duration": 1749
+    },
+    {
+      "id": "W760ONG7Lv4",
+      "title": "[HINDI] #15 Error Handling In Flutter | Flutter Weather App | Flutter App Development",
+      "duration": 524
+    },
+    {
+      "id": "SZsKaQ_Ljco",
+      "title": "[HINDI] #16 How to pass data between two routes in flutter | Passing Data In Routes In Flutter",
+      "duration": 704
+    },
+    {
+      "id": "E8gyGd7ecZk",
+      "title": "[HINDI] #17 Converting Data Units | Flutter Tutorials For Beginners Flutter Weather App |",
+      "duration": 323
+    },
+    {
+      "id": "VEjTV71NA7g",
+      "title": "[HINDI] #18 Making Loading Page | Flutter Weather App | Flutter Tutorial For Beginners",
+      "duration": 1269
+    },
+    {
+      "id": "yaeFG_V8_G4",
+      "title": "[HINDI] #19 Update New Home Page Design",
+      "duration": 325
+    },
+    {
+      "id": "Qf6UN4-lhRU",
+      "title": "[HINDI] #20 How To Create Search Bar In Flutter | Making Search Bar In Home Page | Flutter Tutorial",
+      "duration": 1340
+    },
+    {
+      "id": "84VFu4HQtqw",
+      "title": "[HINDI] #21 How to make gradient background in flutter | Flutter Linear Gradient Widget Tutorial",
+      "duration": 643
+    },
+    {
+      "id": "8dtDaajLE2Y",
+      "title": "[HINDI] #22 Creating Beautiful Containers | How to create stylish containers in flutter",
+      "duration": 1063
+    },
+    {
+      "id": "lq3tORpwhxU",
+      "title": "[HINDI] #24 How to make gradient status bar in flutter | Gradient App Bar In Flutter",
+      "duration": 350
+    },
+    {
+      "id": "kFG5Qnxx5CE",
+      "title": "[HINDI] #23 How to change the color of status bar in flutter | Hacky Method 😎😎",
+      "duration": 273
+    },
+    {
+      "id": "mAOb9FxqEc0",
+      "title": "[HINDI] #25 Adding Text In Our App | Mausam Weather App In Flutter | Flutter Tutorials For Beginners",
+      "duration": 1026
+    },
+    {
+      "id": "EIEzYXbUHas",
+      "title": "[HINDI] #26 Adding Data From The API In Our Home Page | Mausam Weather App In Flutter",
+      "duration": 1336
+    },
+    {
+      "id": "ts1g-eDqSFc",
+      "title": "[HINDI] #27 How To Make Search Functionality In Weather App In Flutter | Flutter Weather App",
+      "duration": 908
+    },
+    {
+      "id": "Fwi1L9Lotnk",
+      "title": "[HINDI] #28 Fixing Error In Our App | Bottom Overflow By x Pixels Problem Fix | Empty Search Problem",
+      "duration": 975
+    },
+    {
+      "id": "jM6PqDbrqD0",
+      "title": "[HINDI] #29 How to get .apk and .ipa file from flutter? | How To Export Flutter .apk File ?",
+      "duration": 655
+    },
+    {
+      "id": "tu3pmaG7AcE",
+      "title": "[HINDI] #30 Conclusion | Mausam Weather App | Flutter Tutorial For Beginners",
+      "duration": 476
+    },
+    {
+      "id": "TufzJRQgqqE",
+      "title": "[PROJECT - 3] #0 Food Recipe App Project In Flutter | Flutter Tutorial For Beginners |",
+      "duration": 720
+    },
+    {
+      "id": "ZgNmVvR1e9A",
+      "title": "[HINDI] #1 Starting Our Project | Food Recipe App In Flutter | Flutter Tutorial For Beginners",
+      "duration": 441
+    },
+    {
+      "id": "xm4vUAygIrA",
+      "title": "[HINDI] #2 What is Stack In Flutter | What is MediaQuery In Flutter | Flutter Tutorial For Begineers",
+      "duration": 645
+    },
+    {
+      "id": "-d8UlpcwlZE",
+      "title": "[HINDI] #3 Adding Search Bar And Heading In Our App | Food Recipe App In Flutter | Flutter Tutorial",
+      "duration": 728
+    },
+    {
+      "id": "t15_Rz-_ZzI",
+      "title": "[HINDI] #4 Getting Data From Food Recipe API | API Setup | Food Recipe App In Flutter",
+      "duration": 1005
+    },
+    {
+      "id": "hKbCnYgvgPk",
+      "title": "[HINDI] #5 Models In Flutter | How To Make Models Using OOPs In Flutter | Flutter Tutorial In Hindi",
+      "duration": 1586
+    },
+    {
+      "id": "CMZOm8i8mtg",
+      "title": "[HINDI] #2 Google Authentication With Firebase Integration In Flutter App | Firebase Authentication",
+      "duration": 2079
+    },
+    {
+      "id": "r-jAsl9t5QA",
+      "title": "[HINDI] #6 ListView.Builder In Flutter | How to make List Of Widgets In Flutter | ListView Flutter",
+      "duration": 736
+    },
+    {
+      "id": "b4wyDh_y57o",
+      "title": "#7 What is InKWell, Card, Positioned Widget ? | Explained In Hindi",
+      "duration": 1796
+    },
+    {
+      "id": "RDdh1qoAFgw",
+      "title": "[HINDI] #8 How To Make Horizontal Scrollable ListView In Flutter | Horizontal ListView.Builder",
+      "duration": 548
+    },
+    {
+      "id": "ozNpYGmCQnE",
+      "title": "[HINDI] How To Save Data Using Shared Preferences In Flutter | Save User Data Locally",
+      "duration": 1442
+    },
+    {
+      "id": "WJ9y5E-Euzs",
+      "title": "[HINDI] Making Search Page & Making A Circular Progress Indicator In Our App",
+      "duration": 693
+    },
+    {
+      "id": "W_9CIe5PwFs",
+      "title": "[HINDI] How to keep user logged in ? | Google Sign In Flutter | Using Shared Preferences",
+      "duration": 1034
+    },
+    {
+      "id": "1VPDrIg8P08",
+      "title": "[HINDI] #10 WebView In Flutter App || Website View In Flutter App || WebView Flutter Tutorial",
+      "duration": 1268
+    },
+    {
+      "id": "46EzX53xdR0",
+      "title": "[HINDI] Part - 1 | Registering Our App On Firebase | How to upload files on a firebase in flutter",
+      "duration": 920
+    },
+    {
+      "id": "XDVJyHyLM8o",
+      "title": "[HINDI] Part - 2 | How To Select Files In Flutter Using File Picker | Media Files Upload Flutter",
+      "duration": 567
+    },
+    {
+      "id": "ggEKIs812VQ",
+      "title": "Conclusion | Food Recipe App In Flutter | Tips to upgrade , What you learnt, Next Project",
+      "duration": 424
+    },
+    {
+      "id": "F4V1gMK4gcY",
+      "title": "[HINDI] PART - 3 | Uploading Files On Firebase | Flutter Media Files Upload On Firebase | TUTORIAL",
+      "duration": 1225
+    },
+    {
+      "id": "nhYGO-SutvE",
+      "title": "[HINDI] Project 04 | News App In Flutter | Flutter App Development Course In Hindi",
+      "duration": 593
+    },
+    {
+      "id": "a7rNKjGP0R8",
+      "title": "[HINDI] #1 Making Our Project | News App In Flutter | Flutter App Development 2021",
+      "duration": 274
+    },
+    {
+      "id": "1dwa99n0Jo0",
+      "title": "[HINDI] #2 Making Search Bar | How to use search button in keyboard in flutter ||",
+      "duration": 419
+    },
+    {
+      "id": "pVPFWfpPHPs",
+      "title": "[HINDI] #3 How To Create Nav Bar | Horizontal Scrollable Category List | Flutter Tutorial",
+      "duration": 632
+    },
+    {
+      "id": "yNQTdbBeWjE",
+      "title": "[HINDI] #4 How to Create Slideshow In Flutter | AutoScroll + User Controllable + Animation |",
+      "duration": 873
+    },
+    {
+      "id": "aovU79zNduY",
+      "title": "[HINDI] #5 Making A Card In Our App | Making Home Page | News App In Flutter",
+      "duration": 1355
+    },
+    {
+      "id": "TEfI_HJy518",
+      "title": "[HINDI] #6 Completing Our Home Page UI | News App In Flutter | Flutter UI",
+      "duration": 1093
+    },
+    {
+      "id": "ArdhkJRF1dI",
+      "title": "[HINDI] #7 News API Introduction | News App In Flutter",
+      "duration": 299
+    },
+    {
+      "id": "xl7aHCpxAcA",
+      "title": "[HINDI] #8 Displaying News In Our News App | Making Model In Our App | Flutter News App In Hindi",
+      "duration": 1299
+    },
+    {
+      "id": "SNQYV5LhtpM",
+      "title": "[HINDI] #9 Showing Category Wise News | News App In Hindi | Flutter For Beginners",
+      "duration": 1002
+    },
+    {
+      "id": "sf8_b9bjFos",
+      "title": "[HINDI] #11 Show More News Functionality | Flutter News App In Hindi | News App",
+      "duration": 211
+    },
+    {
+      "id": "AA2vBKo64js",
+      "title": "[HINDI] #12 Search News Functionality | Flutter News App | Flutter Tutorial In Hindi",
+      "duration": 401
+    },
+    {
+      "id": "JE_gX5S-Rmw",
+      "title": "[HINDI] #13 Error Handling In Our App | News App In Hindi | Flutter News App",
+      "duration": 821
+    },
+    {
+      "id": "z4dLbvdqbhU",
+      "title": "[HINDI] #14 WebView In Flutter | Showing Complete News Using WebView | News App In Flutter",
+      "duration": 707
+    },
+    {
+      "id": "mS-Z4Msjq-4",
+      "title": "[COMPLETED] #15 News App In Flutter | CONCLUSION | What you learned | Tips To Upgrade | Next Project",
+      "duration": 434
+    },
+    {
+      "id": "hXqIPNt70a8",
+      "title": "[PROJECT 05] #0 Google Keep Notes Clone App In Flutter | TODO App Using SQLite In Flutter",
+      "duration": 681
+    },
+    {
+      "id": "iPUWpsGTYV0",
+      "title": "[HINDI] #1 PART 01 | Google Keep Notes UI Clone | Completely Explained",
+      "duration": 3897
+    },
+    {
+      "id": "sEL2k1wN4tI",
+      "title": "[HINDI] #2 PART 02 | Google Keep Notes UI Clone | Completely Explained",
+      "duration": 5000
+    },
+    {
+      "id": "X9cZQLyNJTg",
+      "title": "[HINDI] #3 How To Create Database Table In SQLite Database | SQL Database Storage Using Sqflite",
+      "duration": 1373
+    },
+    {
+      "id": "_swOhLi_dss",
+      "title": "[HINDI] #4 How To Read Data From Database In SQLite Database | SQL Database Storage Using Sqflite",
+      "duration": 1238
+    },
+    {
+      "id": "7Yp-mRJCido",
+      "title": "[HINDI] #5 How to update data in Database Using Sqflite Flutter",
+      "duration": 712
+    },
+    {
+      "id": "WXvVa6UPjso",
+      "title": "How to delete data from database in flutter sqflite",
+      "duration": 105
+    },
+    {
+      "id": "ri1YxMwvSCI",
+      "title": "[HINDI] #7 Making Our Code More Efficient | Models In Flutter | Using Model In App",
+      "duration": 2064
+    },
+    {
+      "id": "epfc4Cm_u-I",
+      "title": "[HINDI] #8 Showing Notes In Our App | Integrating UI with Backend",
+      "duration": 679
+    },
+    {
+      "id": "mNYYn6tDOxI",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "s8eBftPw5S8",
+      "title": "[HINDI] #9 Showing Complete Note Detail In Our App | Integrating UI with Backend",
+      "duration": 253
+    },
+    {
+      "id": "k-5WX8JeYDo",
+      "title": "[HINDI] #10 Making Edit Note Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 1077
+    },
+    {
+      "id": "S0Yx3agkm9I",
+      "title": "[HINDI] #11 Making Search Notes Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 969
+    },
+    {
+      "id": "yio7hswKOc4",
+      "title": "[HINDI] #12 Making Create Note Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 706
+    },
+    {
+      "id": "klTI0c1E5Dc",
+      "title": "[HINDI] #13 Making Delete Note Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 446
+    },
+    {
+      "id": "_4X_EBLjZ_c",
+      "title": "[HINDI] #14 Making Pin Note Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 498
+    },
+    {
+      "id": "uTtTZsSWMm4",
+      "title": "[HINDI] #15 Making Archive Note Functionality In Our App || Google Keep Notes Clone Flutter",
+      "duration": 1012
+    },
+    {
+      "id": "WC5X1Bq3Mz4",
+      "title": "Registering Our App On Firebase || Implementing Sync Note Functionality",
+      "duration": 1061
+    },
+    {
+      "id": "rLUMS957_EI",
+      "title": "[HINDI] #17 Integrating Google Sign In || Implementing Sync Note Functionality || Keep Notes Clone",
+      "duration": 1008
+    },
+    {
+      "id": "ybGQahGBafc",
+      "title": "[HINDI] #18 CRUD Operation On Firestore Firebase || Sync Note Functionality In Flutter",
+      "duration": 3448
+    },
+    {
+      "id": "S9LxaXCU2_s",
+      "title": "[HINDI] #19 Fixing Some Bugs In Our App || Google Keep Notes Clone App In Flutter",
+      "duration": 4559
+    },
+    {
+      "id": "GnoUBbugzXE",
+      "title": "[HINDI] #20 Project Completed || DOWNLOAD MY APP || Google Keep Notes Clone App In Flutter",
+      "duration": 601
+    },
+    {
+      "id": "UIyWhCoEZ7w",
+      "title": "[PROJECT 06] #0 KBC Quiz App In Flutter In Hindi || Quiz App In Flutter In Hindi",
+      "duration": 697
+    },
+    {
+      "id": "u4j-juzFbZs",
+      "title": "[HINDI] #1 Creating Our Project || Quiz App In Flutter",
+      "duration": 1146
+    },
+    {
+      "id": "jyaSfBamCDI",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "fbrlyGEqx9A",
+      "title": "[HINDI] #2 Creating Login Screen || KBC Quiz App In Flutter With Firebase || Flutter Game App",
+      "duration": 1300
+    },
+    {
+      "id": "44qPIbvQgP4",
+      "title": "[HINDI] #3 Adding Google Sign In In Our App || Quiz App In Flutter",
+      "duration": 1406
+    },
+    {
+      "id": "6Vorr7tCZDY",
+      "title": "[HINDI] #4 Registering Our User In Our App || Firestore Tutorial In Flutter",
+      "duration": 1516
+    },
+    {
+      "id": "CsQYWmSW9bY",
+      "title": "[HINDI] #5 Fixing A Bug In Our App || Firestore Tutorial In Flutter",
+      "duration": 529
+    },
+    {
+      "id": "yodIxg4pJlE",
+      "title": "[HINDI] #6 Check Internet Connectivity In Flutter ||  Internet Connectivity In Realtime",
+      "duration": 672
+    },
+    {
+      "id": "Lj3P_KajvDI",
+      "title": "[HINDI] #8 Creating Home Screen UI For Our App || KBC Quiz App In Flutter",
+      "duration": 2645
+    },
+    {
+      "id": "2sPU9jodq8c",
+      "title": "[HINDI] #10 Creating Our Quiz Introduction UI || Flutter KBC Quiz App",
+      "duration": 1773
+    },
+    {
+      "id": "rAHh2tfd8Js",
+      "title": "[HINDI] #11 Creating Question UI In KBC App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1369
+    },
+    {
+      "id": "SnZGw1hgbOs",
+      "title": "[HINDI] #12 Creating Lifelines UI In KBC App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1078
+    },
+    {
+      "id": "OnSi49XbT5k",
+      "title": "[HINDI] |PART-2| #12 Creating PRIZES UI In KBC App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 959
+    },
+    {
+      "id": "1ebrQVO-LGo",
+      "title": "[HINDI] #13 Creating Winning Screen In Our App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1586
+    },
+    {
+      "id": "eS0fjULsXp4",
+      "title": "[HINDI] #14 Creating Wrong Answer Screen In Our App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 713
+    },
+    {
+      "id": "Fug-5KZg7SQ",
+      "title": "[HINDI] #15 Creating Profile UI With Leaderboard In Our App || Flutter KBC Quiz App Tutorial In",
+      "duration": 1611
+    },
+    {
+      "id": "RVLiFJNHzJk",
+      "title": "#16 Backend Database Architecture For Our Quiz App",
+      "duration": 423
+    },
+    {
+      "id": "ZDQVj8Q2Izc",
+      "title": "[HINDI] #17 Creating Database in firebase || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 620
+    },
+    {
+      "id": "Gp58g1pbH9k",
+      "title": "[HINDI] #18 Showing User Details From Database In Our App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 2452
+    },
+    {
+      "id": "cEYylur-qRo",
+      "title": "[HINDI] #19 Showing User Details In Profile Page || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 893
+    },
+    {
+      "id": "WAuGlq6_vQs",
+      "title": "[HINDI] #20 Fixing Some Bugs In Our App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 792
+    },
+    {
+      "id": "y0MLPMb5An4",
+      "title": "[HINDI] #21 New Home Page Design || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 320
+    },
+    {
+      "id": "DHwRQGsyUsg",
+      "title": "[HINDI] #22 Creating New Home Page UI || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1987
+    },
+    {
+      "id": "rE0I-rF5gJ8",
+      "title": "[HINDI] #23 Importing Quizzes From Firestore Database In To Flutter UI || Flutter KBC Quiz App",
+      "duration": 855
+    },
+    {
+      "id": "Nbo4OSKs1AQ",
+      "title": "[HINDI] #24 Making Quiz Intro Page Working || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1548
+    },
+    {
+      "id": "pT0n0RlRJqM",
+      "title": "[HINDI] #25 Making \"BUY QUIZ\" Feature In Our App || Flutter KBC Quiz App Tutorial In Hindi",
+      "duration": 1704
+    },
+    {
+      "id": "jvNsSyWII-M",
+      "title": "[HINDI] #26 KBC QUIZ APP COMPLETE PROJECT IN ONE VIDEO || Flutter Tutorial For Beginners || Quiz App",
+      "duration": 14686
+    },
+    {
+      "id": "WQGjvgMxux4",
+      "title": "[HINDI] #27 KBC QUIZ APP || PROJECT COMPLETED || Flutter Tutorial For Beginners || QuizApp",
+      "duration": 2446
+    },
+    {
+      "id": "3-lsVs9vffg",
+      "title": "[HINDI] Publish Your Flutter App On Play Store || Step By Step || Flutter Tutorial For Beginners",
+      "duration": 3299
+    },
+    {
+      "id": "38kDDiV8xr8",
+      "title": "[HINDI] #0 Flutter Provider Tutorial 2022 || Flutter Advanced Tutorial In Hindi",
+      "duration": 188
+    },
+    {
+      "id": "PQXxV0FkEh8",
+      "title": "[HINDI] #01 Yoga App In Flutter || Home Workout App Project In Flutter 2022 || Flutter Provider",
+      "duration": 420
+    },
+    {
+      "id": "ilDhzAcQ6co",
+      "title": "[HINDI] #02 What Is Provider In Flutter|| Flutter Provider Explained With Example",
+      "duration": 547
+    },
+    {
+      "id": "C-n9x1KqM7M",
+      "title": "[HINDI] #03 What Is Provider Widget || Flutter Provider Explained With Examples || Flutter Provider",
+      "duration": 709
+    },
+    {
+      "id": "7GLzafCHWeg",
+      "title": "[HINDI] #7 Flutter Tutorial - Sidebar Menu & Navigation Drawer In Flutter [2021]",
+      "duration": 1301
+    },
+    {
+      "id": "Mpdw4YDnPe8",
+      "title": "[HINDI] #04 ChangeNotifier Provider Widget ||  ChangeNotifier Explained || Flutter Provider",
+      "duration": 420
+    },
+    {
+      "id": "Zs18JTy6hJE",
+      "title": "[HINDI] #04 What Is FutureProvider Widget || Flutter FutureProvider Explained With Examples",
+      "duration": 415
+    },
+    {
+      "id": "fbOm183oIZI",
+      "title": "[HINDI] #05 What Is StreamProvider Widget || Flutter StreamProvider Explained With Examples ||",
+      "duration": 610
+    },
+    {
+      "id": "9q80iztHQvM",
+      "title": "[HINDI] #06 Home Page UI Of Yoga App In Flutter || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 1286
+    },
+    {
+      "id": "RGzhyEKbUQg",
+      "title": "[HINDI] #07 Custom Animation App Bar || App bar with scrolling animation || Yoga App Flutter",
+      "duration": 1731
+    },
+    {
+      "id": "x8E5FltfHrk",
+      "title": "[HINDI] #08 Home Page UI Of Yoga App In Flutter || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 1812
+    },
+    {
+      "id": "NDmXEbF9LCA",
+      "title": "[HINDI] #09 Custom Drawer UI Of Yoga App In Flutter || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 646
+    },
+    {
+      "id": "kIP64wcM2i8",
+      "title": "[HINDI] #10 Sliver App Bar In Flutter || Flutter Custom App Bar || Sliver Flutter Tutorial",
+      "duration": 768
+    },
+    {
+      "id": "NLrwJonIlZc",
+      "title": "[HINDI] #11 Creating Start Yoga UI In Flutter || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 917
+    },
+    {
+      "id": "rc4dI3E1Qs0",
+      "title": "[HINDI] #12 Yoga App UI With Provider || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 3483
+    },
+    {
+      "id": "LtbMtCRZg_s",
+      "title": "[HINDI] #13 Pause Yoga Screen In Flutter || Provider Tutorial Flutter || Flutter Provider",
+      "duration": 1076
+    },
+    {
+      "id": "LhcxNRuNl1s",
+      "title": "[HINDI] #14 Finishing Screen Yoga App Flutter || Flutter Provider Tutorial",
+      "duration": 952
+    },
+    {
+      "id": "_vVJh1pZNQE",
+      "title": "[HINDI] #15 Creating Database In Flutter || SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 1140
+    },
+    {
+      "id": "HLCZAshMCig",
+      "title": "[HINDI] #16 Creating Table And CRUD Operation || SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 1117
+    },
+    {
+      "id": "FYoYBy7IRf4",
+      "title": "[HINDI] #17 [P2] Creating Table And CRUD Operation in || SQFlite Package || Flutter Yoga App",
+      "duration": 948
+    },
+    {
+      "id": "Cr2lh9Cvxig",
+      "title": "[HINDI] #18 Inserting Data In Database || SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 657
+    },
+    {
+      "id": "HWWM7mRW2_0",
+      "title": "[HINDI] #19 Reading Data From Database ||| SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 358
+    },
+    {
+      "id": "-A1UYtvQXNI",
+      "title": "[HINDI] #20 Reading Data From Database || SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 690
+    },
+    {
+      "id": "QtHWU8NhELw",
+      "title": "[HINDI] #21 Displaying Data In Database || SQFlite Package In Flutter || Flutter Yoga App",
+      "duration": 690
+    },
+    {
+      "id": "1aoWtkMIaKk",
+      "title": "[HINDI] #22 Starting Yoga || Yoga App In Flutter || Provider In Flutter",
+      "duration": 2086
+    },
+    {
+      "id": "ZW_v95mty4Y",
+      "title": "[HINDI] #23 Starting Yoga PART 2 || Yoga App In Flutter || Provider In Flutter",
+      "duration": 1841
+    },
+    {
+      "id": "Twl4OVwAqSM",
+      "title": "[HINDI] #24 Pause, Resume And Quit Functionality || Yoga App Flutter In Hindi ||",
+      "duration": 1260
+    },
+    {
+      "id": "n95HK-9M7T4",
+      "title": "[HINDI] #25 Fixing Break Screen And Bugs In App || Yoga App In Flutter",
+      "duration": 799
+    },
+    {
+      "id": "R122BwU-vGg",
+      "title": "[HINDI] #26 Break Screen Bug Fixing || Yoga App In Flutter",
+      "duration": 1230
+    },
+    {
+      "id": "3nHqgcz3BXg",
+      "title": "[HINDI] #27 Finish Screen In Yoga App || Yoga App In Flutter",
+      "duration": 550
+    },
+    {
+      "id": "5Ort0EBe4ZY",
+      "title": "[HINDI] #28 Updating Fitness Data In Yoga App || Yoga App In Flutter || Provider In Flutter",
+      "duration": 993
+    },
+    {
+      "id": "q57bMXURVq8",
+      "title": "[HINDI] #29 Concluding Our Project || Yoga App In Flutter || Provider In Flutter",
+      "duration": 361
+    },
+    {
+      "id": "3qZwDy8OK-0",
+      "title": "[HINDI] #00 GetX Course For Beginners || Flutter Course || GetX Flutter Course In Hindi",
+      "duration": 404
+    },
+    {
+      "id": "3RLuDj0CHVQ",
+      "title": "[HINDI] #01 TikTok Clone In Flutter || Flutter GetX Tutorial || Flutter Tutorial In Hindi",
+      "duration": 510
+    },
+    {
+      "id": "lWy7hfO5OKA",
+      "title": "[HINDI] #02  Setuping Project || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 618
+    },
+    {
+      "id": "L0yrTbjsefE",
+      "title": "[HINDI] #03 Login Screen UI + MVC Architecture Explained || TikTok Clone In Flutter",
+      "duration": 1740
+    },
+    {
+      "id": "PtWB_HCbzq4",
+      "title": "[HINDI] #04 SignUp Screen UI || TikTok Clone In Flutter || Flutter Tutorials In Hindi",
+      "duration": 999
+    },
+    {
+      "id": "fTmI66csK9w",
+      "title": "[HINDI] #05 Auth Controller ||TikTok Clone In Flutter || Flutter Tutorials In Hindi",
+      "duration": 571
+    },
+    {
+      "id": "hx2PK_01o6E",
+      "title": "[HINDI] #06 Firebase Setup || TikTok Clone In Flutter || Flutter Tutorials In Hindi",
+      "duration": 1418
+    },
+    {
+      "id": "UoW_2Qw2hOQ",
+      "title": "[HINDI] #07  Creating User Model || TikTok Clone In Flutter | Flutter Tutorial In Hindi",
+      "duration": 1775
+    },
+    {
+      "id": "oUiMdPSnPqU",
+      "title": "[HINDI] #08 Login User Method And Persisting User State | TikTok Clone In Flutter | Flutter Tutorial",
+      "duration": 1197
+    },
+    {
+      "id": "45Mp6p16lhQ",
+      "title": "[HINDI] #09 Bottom Navigation Bar || TikTok Clone In Flutter | Flutter Tutorial In Hindi",
+      "duration": 964
+    },
+    {
+      "id": "3YPQvVV-26M",
+      "title": "[HINDI] #10 Picking Video Screen || TikTok Clone In Flutter | Flutter Tutorial In Hindi",
+      "duration": 1117
+    },
+    {
+      "id": "l-Q0qdX_EFc",
+      "title": "[HINDI] #11 Creating Add Caption Screen || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 1478
+    },
+    {
+      "id": "O6omdZNKaqw",
+      "title": "[HINDI] #12 Creating Video Controller || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 1838
+    },
+    {
+      "id": "FTXeUqXB3y8",
+      "title": "[HINDI] #13 Creating Video Model || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 1739
+    },
+    {
+      "id": "txRkVj2UC2U",
+      "title": "[HINDI] #14 Creating Home Screen UI || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 2318
+    },
+    {
+      "id": "FOuR6W2-iQU",
+      "title": "[HINDI] #15 Completing Home Screen UI || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 851
+    },
+    {
+      "id": "LnWOHpaK1Ls",
+      "title": "[HINDI] #16 Creating Video Controller || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 1159
+    },
+    {
+      "id": "XT6Db_NVjGg",
+      "title": "[HINDI] #17 Making Like Functionality || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 570
+    },
+    {
+      "id": "guhdIrfvJmE",
+      "title": "[HINDI] #18 Making Comment Functionality || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 4987
+    },
+    {
+      "id": "kJpg76FDYj4",
+      "title": "[HINDI] #19 Making Search User Functionality || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 1581
+    },
+    {
+      "id": "VY1UXxXFA-o",
+      "title": "[HINDI] #20 Making User Profile Page || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 4855
+    },
+    {
+      "id": "4MewO_zNiRk",
+      "title": "[HINDI] #21 Final Touch & Conclusion || TikTok Clone In Flutter || Flutter Tutorial In Hindi",
+      "duration": 2258
+    }
+  ]
+}

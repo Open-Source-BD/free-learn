@@ -1,0 +1,160 @@
+{
+  "courseId": "kubernetes-tutorial-for-beginners-e2691d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:42.133Z",
+  "title": "Kubernetes Tutorial for Beginners | Edureka",
+  "channel": "edureka!",
+  "videos": [
+    {
+      "id": "YXfLAWGTI38",
+      "title": "Kubernetes Full Course in 6 Hours | Kubernetes Tutorial | Kubernetes Training | Edureka",
+      "duration": 22546
+    },
+    {
+      "id": "F-p_7XaEC84",
+      "title": "What Is Kubernetes | Kubernetes Introduction | Kubernetes Tutorial For Beginners | Edureka",
+      "duration": 3915
+    },
+    {
+      "id": "hJjLGoQTazY",
+      "title": "Introduction to Kubernetes | What is Kubernetes | Edureka",
+      "duration": 734
+    },
+    {
+      "id": "M_mBcS2pC9o",
+      "title": "Kubernetes Vs Docker | Difference between Kubernetes and Docker | Kubernetes Training | Edureka",
+      "duration": 1284
+    },
+    {
+      "id": "UWg3ORRRF60",
+      "title": "Install Kubernetes On Ubuntu | Setup Kubernetes Cluster Step By Step | Kubernetes Training | Edureka",
+      "duration": 1677
+    },
+    {
+      "id": "RNgjy31gFuI",
+      "title": "Setting Up Kubernetes Dashboard | Kubernetes Dashboard Overview | Kubernetes Training | Edureka",
+      "duration": 1333
+    },
+    {
+      "id": "pdRdUqV0KQ4",
+      "title": "What is Kubernetes | Kubernetes Explained in 5 Minutes | Kubernetes Training | Edureka",
+      "duration": 342
+    },
+    {
+      "id": "kac5yDBYk0U",
+      "title": "Kubectl Commands Tutorial | Minikube and Kubectl Explained | Kubernetes Training | Edureka",
+      "duration": 1646
+    },
+    {
+      "id": "vYl4VkgMZhU",
+      "title": "Kubernetes YAML Tutorial | How to create a Kubernetes Deployment using YAML | Edureka",
+      "duration": 1824
+    },
+    {
+      "id": "Mn6Jc0AOUTE",
+      "title": "Kubernetes Tutorial | Learn Kubernetes from Scratch in 30 Minutes | Kubernetes Training | Edureka",
+      "duration": 1725
+    },
+    {
+      "id": "qTYfDVvTGmk",
+      "title": "Kubernetes Architecture | Understanding Kubernetes Components | Kubernetes Training | Edureka",
+      "duration": 982
+    },
+    {
+      "id": "OaXWwBLqugk",
+      "title": "Kubernetes Networking | Kubernetes Services, Pods & Ingress Networks | Kubernetes Training | Edureka",
+      "duration": 1909
+    },
+    {
+      "id": "aavsiTbL9zc",
+      "title": "Kubernetes Deployment Tutorial | Kubernetes Tutorial For Beginners | Kubernetes Training | Edureka",
+      "duration": 1506
+    },
+    {
+      "id": "6H5sXQoJiso",
+      "title": "Kubernetes On AWS | AWS Kubernetes Tutorial | AWS EKS Tutorial | AWS Training | Edureka",
+      "duration": 2924
+    },
+    {
+      "id": "FmrAGliHvzQ",
+      "title": "Kubernetes vs Docker Swarm |  Comparison of Docker and Kubernetes | Kubernetes Training | Edureka",
+      "duration": 1586
+    },
+    {
+      "id": "gWam6HY3o1g",
+      "title": "What is Jenkins X | Easy CI/CD for Kubernetes | DevOps Certification Training | Edureka",
+      "duration": 598
+    },
+    {
+      "id": "GMI8B31zBA8",
+      "title": "Certified Kubernetes Administrator (CKA) Exam | Kubernetes Certification Training | Edureka",
+      "duration": 1070
+    },
+    {
+      "id": "aFBK5Afbqfo",
+      "title": "Kubernetes Operators | Kubernetes Controllers Explained | Kubernetes Training | Edureka",
+      "duration": 1727
+    },
+    {
+      "id": "ECBXfWtO3x4",
+      "title": "Kubernetes Minikube Tutorial | Kubernetes Minikube Dashboard | Kubernetes Training | Edureka",
+      "duration": 1805
+    },
+    {
+      "id": "a3RYFRHgCxc",
+      "title": "Kubernetes Certification (CKA) | Certified Kubernetes Certification | Kubernetes Training | Edureka",
+      "duration": 448
+    },
+    {
+      "id": "0C-v3U6S1X0",
+      "title": "Kubernetes Monitoring with Prometheus and Grafana | Kubernetes Certification Training | Edureka",
+      "duration": 2000
+    },
+    {
+      "id": "qp41IEhu6gM",
+      "title": "Kubernetes Security Best Practices | Kubernetes RBAC | Kubernetes Certification Training | Edureka",
+      "duration": 1691
+    },
+    {
+      "id": "s6fUfbKCV2Q",
+      "title": "Kubernetes StatefulSet Tutorial | StatefulSet Kubernetes Example | Kubernetes Training | Edureka",
+      "duration": 1031
+    },
+    {
+      "id": "qqS_889_K88",
+      "title": "Kubernetes Storage | Kubernetes Volumes Explained - PV and PVC | Kubernetes Training | Edureka",
+      "duration": 1267
+    },
+    {
+      "id": "2gDvViyEtJ0",
+      "title": "Kubernetes Project for Beginners | Run your First App on Kubernetes | Kubernetes Training | Edureka",
+      "duration": 2142
+    },
+    {
+      "id": "fblsY6uQ8Hs",
+      "title": "Kubernetes Controllers and Services | Kubernetes Service Types | Kubernetes Training | Edureka",
+      "duration": 721
+    },
+    {
+      "id": "kazN5x15j1Q",
+      "title": "Kubernetes Ingress Tutorial | How to setup NGINX Ingress Controller on Kubernetes Cluster | Edureka",
+      "duration": 1448
+    },
+    {
+      "id": "tChOqEupZmM",
+      "title": "Docker and Kubernetes Tutorial | Docker and Kubernetes Explained | Kubernetes Training | Edureka",
+      "duration": 2768
+    },
+    {
+      "id": "S7JEPz6sY5g",
+      "title": "Kubernetes Interview | Kubernetes Interview Questions and Answers | Kubernetes Training | Edureka",
+      "duration": 2716
+    },
+    {
+      "id": "y3WTwzx5ABk",
+      "title": "Kubernetes Full Course In 10 Hours | Kubernetes Tutorial For Beginners | Learn Kubernetes | Edureka",
+      "duration": 36695
+    }
+  ]
+}

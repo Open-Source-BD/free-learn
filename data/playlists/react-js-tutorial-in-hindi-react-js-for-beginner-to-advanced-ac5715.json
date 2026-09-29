@@ -1,0 +1,350 @@
+{
+  "courseId": "react-js-tutorial-in-hindi-react-js-for-beginner-to-advanced-ac5715",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:27:45.039Z",
+  "title": "React JS Full Free Course by WsCube Tech",
+  "channel": "WsCube Tech",
+  "videos": [
+    {
+      "id": "ygsrt33azpk",
+      "title": "React JS Full Tutorial for Beginners | What is React JS? - Learn React JS in 9 Hours",
+      "duration": 35084
+    },
+    {
+      "id": "LX4JUscM9Sk",
+      "title": "What is React JS? How does React JS Work - Features of React Js #1",
+      "duration": 618
+    },
+    {
+      "id": "MI122C6yW4w",
+      "title": "How to Install React JS on Windows | Environment Setup for React JS - Getting Started #2",
+      "duration": 657
+    },
+    {
+      "id": "qNV47eXGWFs",
+      "title": "Directory Structure of React App | React JS Project Directory Structure | React JS Tutorial #3",
+      "duration": 682
+    },
+    {
+      "id": "aRxTrjWWt0U",
+      "title": "The Workflow of React App - How the react app works | Full Information #4",
+      "duration": 494
+    },
+    {
+      "id": "T1jptFgaj1E",
+      "title": "What are React Components? Introduction to Components | Types of Components #5",
+      "duration": 263
+    },
+    {
+      "id": "JDu2kphu6N0",
+      "title": "React JS Functional Vs Class Components | React JS Tutorial #6",
+      "duration": 1049
+    },
+    {
+      "id": "WlhFIulWcGQ",
+      "title": "What is JSX & Why use it in React JS? | Introduction to JSX in Hindi #6",
+      "duration": 569
+    },
+    {
+      "id": "u-qe-9QWbBg",
+      "title": "Understanding React JS Props in हिंदी | React JS Tutorial #7",
+      "duration": 712
+    },
+    {
+      "id": "w2zdX_onGig",
+      "title": "What is State in React JS & How to use it? | Explained State and setState in Hindi #9",
+      "duration": 494
+    },
+    {
+      "id": "QkDcw5jn1Xo",
+      "title": "Event Handling with Method in React JS [HINDI] | React JS Tutorial #10",
+      "duration": 525
+    },
+    {
+      "id": "p0X9jGaJiNg",
+      "title": "How to add CSS to React Component in Hindi | React JS Tutorial #11",
+      "duration": 578
+    },
+    {
+      "id": "lJZgmdwbWSA",
+      "title": "Module Style for a Component in React JS [HINDI] | React JS Tutorial #12",
+      "duration": 248
+    },
+    {
+      "id": "oii_E53qKWU",
+      "title": "What is AXIOS & How to use it with React JS? [Hindi] #13",
+      "duration": 271
+    },
+    {
+      "id": "2zqnGUY9eZs",
+      "title": "Redux Flow - What is Redux and How it work? | React JS Tutorial #14",
+      "duration": 260
+    },
+    {
+      "id": "M2q7RtNiQ08",
+      "title": "How to Render List in React Component | React JS Tutorial in Hindi #15",
+      "duration": 558
+    },
+    {
+      "id": "JqjYuS8ss9M",
+      "title": "What is Key Prop in React JS & Its Importance? | React JS Tutorial in Hindi #16",
+      "duration": 328
+    },
+    {
+      "id": "Sx0sxGTW0AI",
+      "title": "How to Render Data Conditional in React Component? | React JS Tutorial in Hindi #17",
+      "duration": 371
+    },
+    {
+      "id": "ofdktP2Ma6g",
+      "title": "How to Delete Data from the State in React JS? | React JS Tutorial in Hindi #18",
+      "duration": 453
+    },
+    {
+      "id": "UpY5rqTEiYc",
+      "title": "Handling the form inputs in React JS | React JS Tutorial in Hindi #19",
+      "duration": 852
+    },
+    {
+      "id": "CP3-e-9uJ_A",
+      "title": "Form Handling using Controlled Components in React JS | React JS Tutorial in Hindi #20",
+      "duration": 542
+    },
+    {
+      "id": "QeZUCJ2Mkek",
+      "title": "How to Create a Registration Form using Greeting Screen in React JS | React JS Tutorial #21",
+      "duration": 1115
+    },
+    {
+      "id": "h4w16FdCYpE",
+      "title": "Show and Hide Password along with Dynamic Style in React JS | React JS Tutorial in Hindi #22",
+      "duration": 568
+    },
+    {
+      "id": "CQez-Ik-RU8",
+      "title": "How to Add CSS Classes Dynamically in React JS | React JS Tutorial in Hindi #23",
+      "duration": 324
+    },
+    {
+      "id": "MIpdWhiNeNw",
+      "title": "Styled Component Library in React JS | Explained in Hindi | React JS Tutorial in Hindi #24",
+      "duration": 535
+    },
+    {
+      "id": "E8wfbmBzaVs",
+      "title": "Implementing Media Query and Hover using Styled Component | React JS Tutorial in Hindi #25",
+      "duration": 328
+    },
+    {
+      "id": "73FC39Ppbbs",
+      "title": "How to use \"Props\" inside a Styled Component in React JS? | React JS Tutorial in Hindi #26",
+      "duration": 470
+    },
+    {
+      "id": "9nLggV55nnI",
+      "title": "How to Set up the Environment for Firebase with React JS  | React JS Tutorial in Hindi #27",
+      "duration": 457
+    },
+    {
+      "id": "ZLYV_UyHJuU",
+      "title": "Setup of the Survey Project in React JS  | React JS Tutorial in Hindi #28 | Survey Project",
+      "duration": 897
+    },
+    {
+      "id": "2dEb2_fUzyA",
+      "title": "Handling the Name and the Answers with State in React JS | Survey Project |React JS Tutorial #29",
+      "duration": 852
+    },
+    {
+      "id": "vSRVTtbHc6g",
+      "title": "How to Initialize the Firebase in React JS Project | Survey Project | React JS Tutorial #30",
+      "duration": 369
+    },
+    {
+      "id": "RWEiZeLDU7s",
+      "title": "Send the Data to the Firebase | Survey Project | React JS Tutorial in Hindi #31",
+      "duration": 489
+    },
+    {
+      "id": "4dkPewrTdSI",
+      "title": "Setup the Login and Register Components in React JS | Survey Project | React JS Tutorial #32",
+      "duration": 448
+    },
+    {
+      "id": "srW55VvDp2o",
+      "title": "Register User using Firebase in React JS | Survey Project |React JS Tutorial in Hindi #33",
+      "duration": 1173
+    },
+    {
+      "id": "sRi_1wNlEdc",
+      "title": "Sign in with Email and Password using Firebase | Survey Project | React JS Tutorial in Hindi #34",
+      "duration": 714
+    },
+    {
+      "id": "rftB0waAUPc",
+      "title": "Google Login using Firebase in React JS | Survey Project | React JS Tutorial in Hindi #35",
+      "duration": 574
+    },
+    {
+      "id": "914gq_X0dLU",
+      "title": "Converting a Template into React JS - Project (in Hindi) | React JS Tutorial in Hindi #36",
+      "duration": 934
+    },
+    {
+      "id": "C9UZxkzcw7Y",
+      "title": "Complete Setup for React Router Packages [Step-by-Step] | React JS Tutorial in Hindi #37",
+      "duration": 884
+    },
+    {
+      "id": "sqLFEgo7Nm8",
+      "title": "Create React 404 Page Not Found using React Router | React JS Tutorial in Hindi #40",
+      "duration": 202
+    },
+    {
+      "id": "lca2MXZnlmw",
+      "title": "Redirecting Page After Successful Login and Logout using with Router in React JS - Step by Step",
+      "duration": 540
+    },
+    {
+      "id": "DBTmEVmsPQA",
+      "title": "Nested Routing in React | Nesting the routes ​| React JS Tutorial in Hindi #42",
+      "duration": 870
+    },
+    {
+      "id": "x5eaV1ePcAI",
+      "title": "useState Hook to Handel State inside Function Components | React JS Tutorial #43",
+      "duration": 608
+    },
+    {
+      "id": "qyUUxJhYp5Y",
+      "title": "Stateful and Stateless Component in React JS | React JS Tutorial for Beginners #44",
+      "duration": 124
+    },
+    {
+      "id": "BXnQo5qpPIU",
+      "title": "Component Lifecycle Method in React JS |  React JS Tutorial for Beginners #45",
+      "duration": 357
+    },
+    {
+      "id": "YR6l3UzbDmE",
+      "title": "Class Component Mounting Lifecycle Method in React JS |  React JS Tutorial for Beginners #46",
+      "duration": 623
+    },
+    {
+      "id": "Vf5Jj_gm9jc",
+      "title": "Class Component Unmounting Lifecycle Method in React JS |  React JS Tutorial for Beginners #47",
+      "duration": 268
+    },
+    {
+      "id": "6yVUKPgwlOU",
+      "title": "Understanding the HTTP/AJAX Request in React JS | React JS Tutorial for Beginners #48",
+      "duration": 380
+    },
+    {
+      "id": "pycGTwObBaA",
+      "title": "Fetching Data using GET HTTP Request in React JS | React JS Tutorial for Beginners #49",
+      "duration": 467
+    },
+    {
+      "id": "VWfGZuZe8KA",
+      "title": "Displaying the Fetched Data in the Blog Project | React JS Tutorial for Beginners #50",
+      "duration": 803
+    },
+    {
+      "id": "_vODE0kIiYQ",
+      "title": "How to Post Data to the API with React JS | Handling HTTP | React JS Tutorial for Beginners #51",
+      "duration": 459
+    },
+    {
+      "id": "KOL-tsr9nqA",
+      "title": "Deleting Data using Axios in React JS | React JS Project | React JS Tutorial for Beginners #52",
+      "duration": 391
+    },
+    {
+      "id": "K5LW52UaAf8",
+      "title": "Default Global Configuration for AXIOS | React JS Project | React JS Tutorial for Beginners #53",
+      "duration": 245
+    },
+    {
+      "id": "luuR5bnVbs0",
+      "title": "Creating and Using Axios Instances | React JS | The Complete Guide  - in Hindi  #54",
+      "duration": 344
+    },
+    {
+      "id": "thbrQsZnXsU",
+      "title": "Weather App in React JS | Complete Outline - Getting Start #55",
+      "duration": 398
+    },
+    {
+      "id": "9qjP-Ek5PhQ",
+      "title": "Converting the Template into Component - Complete Process -| React JS Tutorial in Hindi #56",
+      "duration": 1146
+    },
+    {
+      "id": "Idlz7fegbGY",
+      "title": "Handling the Lat and Lon using State in React JS | Weather App Project #57",
+      "duration": 851
+    },
+    {
+      "id": "KdMUJ9LDPrk",
+      "title": "How to Get Data using API in React JS | Complete Tutorial in Hindi #58",
+      "duration": 1102
+    },
+    {
+      "id": "WDsuyflJi9I",
+      "title": "Show Loading Screen While Fetching Data in React JS | Weather App Project | React JS Tutorial #59",
+      "duration": 345
+    },
+    {
+      "id": "QcZkcPzvVy4",
+      "title": "Recent Search Bar Filter in React JS | Complete Tutorial - in Hindi #60",
+      "duration": 916
+    },
+    {
+      "id": "8L5ouHMrxR4",
+      "title": "Research the Recent Searched Data in React JS | Search Filter Tutorial - in Hindi #61",
+      "duration": 502
+    },
+    {
+      "id": "emDOBzEplkM",
+      "title": "Save Recent Searches in Local Storage | React JS Weather Project - in Hindi #63",
+      "duration": 554
+    },
+    {
+      "id": "Zg0LY3Ah8l0",
+      "title": "Understanding State and its Complexity in React JS | React JS Weather App Project  #64",
+      "duration": 252
+    },
+    {
+      "id": "WtZSkAGHH7U",
+      "title": "Setting up Reducer and Store in React JS | Complete React Tutorial #65",
+      "duration": 464
+    },
+    {
+      "id": "giF_8a5l1dE",
+      "title": "Create Dispatching Action in React JS | Complete Tutorial - in Hindi #66",
+      "duration": 312
+    },
+    {
+      "id": "sQyT2wHgyec",
+      "title": "Create Subscription in React JS | Complete Video - in Hindi #67",
+      "duration": 387
+    },
+    {
+      "id": "noHBXSFb9Ts",
+      "title": "Connect React to Redux | React JS | Complete Tutorial - in Hindi #68",
+      "duration": 365
+    },
+    {
+      "id": "cy2IyjVY7ME",
+      "title": "Dispatching Actions from within the Component | Complete Tutorial 70",
+      "duration": 543
+    },
+    {
+      "id": "AcJwgqvZnkI",
+      "title": "Connect React JS to Store | Complete Tutorial - in Hindi #69",
+      "duration": 400
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "courseId": "ruby-on-rails-course-urdu-hindi-b82290",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9WbyKqkuCAYT-IPvo5PxR_hijMuR1RCB",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:33:47.220Z",
+  "title": "Ruby on Rails Course | Urdu / Hindi",
+  "channel": "Code With Naqvi",
+  "videos": [
+    {
+      "id": "bT0DP3i3tlw",
+      "title": "How to install Ruby on Rails setup in Ubuntu 22.04 LTS (Urdu / Hindi)",
+      "duration": 781
+    },
+    {
+      "id": "lpHMIHaOLuM",
+      "title": "How to start Ruby on Rails as a beginner?",
+      "duration": 255
+    },
+    {
+      "id": "BPA7OVVwQHY",
+      "title": "Intro to Rails: Why we should learn Ruby on Rails? | Urdu / Hindi",
+      "duration": 401
+    },
+    {
+      "id": "Om5GsK_Cgrs",
+      "title": "Rails File Structure | How we can create rails project? | Urdu / Hindi",
+      "duration": 397
+    },
+    {
+      "id": "nFpuTnam-jQ",
+      "title": "Rails MVC  (Model View Controller) Pattern ? | Urdu / Hindi",
+      "duration": 468
+    },
+    {
+      "id": "GBB3tV-SHtU",
+      "title": "Understanding Rails Asset Pipeline | Urdu / Hindi",
+      "duration": 443
+    },
+    {
+      "id": "tuFRVvEFBEo",
+      "title": "Garbage Collection in Ruby | Urdu/Hindi",
+      "duration": 351
+    },
+    {
+      "id": "SyO0fNptV78",
+      "title": "Pry Rails | binding.pry | introduction for beginners | Urdu / Hindi",
+      "duration": 347
+    },
+    {
+      "id": "xk2pU8Sz90Q",
+      "title": "Rails Console | How to use Rails Console? | Urdu / Hindi",
+      "duration": 418
+    },
+    {
+      "id": "I86uhXEbXgg",
+      "title": "Rails Routing | Urdu / Hindi",
+      "duration": 419
+    },
+    {
+      "id": "1oaOI43xBj0",
+      "title": "hash vs hash with indifferent access | Ruby on Rails",
+      "duration": 331
+    },
+    {
+      "id": "rgM2qA_j4bs",
+      "title": "Active Record Validations | Rails Validations | Urdu / Hindi",
+      "duration": 722
+    },
+    {
+      "id": "0fNUE3ixxis",
+      "title": "Custom Validation in Rails | Urdu / Hindi",
+      "duration": 287
+    },
+    {
+      "id": "9_vfDljyCKE",
+      "title": "proc vs lamda in ruby | Urdu / Hindi",
+      "duration": 697
+    },
+    {
+      "id": "-hEZNsbuBUk",
+      "title": "Scope in Rails | Urdu / Hindi",
+      "duration": 402
+    },
+    {
+      "id": "hJwdhi3WxNM",
+      "title": "Callbacks in Rails | Urdu / Hindi",
+      "duration": 726
+    },
+    {
+      "id": "amBJk3jebBo",
+      "title": "Dirty Methods in Rails | Urdu/ Hindi",
+      "duration": 369
+    },
+    {
+      "id": "_SlyLgLFVXA",
+      "title": "Rails Crud | Build a Crud App | Rails in  Hindi / Urdu",
+      "duration": 1882
+    },
+    {
+      "id": "gWyUV9SEANo",
+      "title": "Create a Basic API with Ruby on Rails| REST API From Scratch  | Urdu / Hindi",
+      "duration": 1137
+    },
+    {
+      "id": "NEdSJPt0_88",
+      "title": "User Authentication with Devise gem in Ruby on Rails",
+      "duration": 1197
+    },
+    {
+      "id": "LEIPxwyNRBY",
+      "title": "Share your localhost at anywhere | ngrok | Urdu / Hindi",
+      "duration": 289
+    },
+    {
+      "id": "9x7zO5kJsJw",
+      "title": "How to use helpers in rails | Urdu / Hindi",
+      "duration": 459
+    },
+    {
+      "id": "WZF93jCm1Mw",
+      "title": "Single Table Inheritance | STI | Ruby on Rails | Urdu / Hindi",
+      "duration": 501
+    },
+    {
+      "id": "3Jt17XYeUoA",
+      "title": "has_one & belongs_to | Association in Rails | Urdu / Hindi",
+      "duration": 607
+    },
+    {
+      "id": "eJmZJ3UEd7M",
+      "title": "has many association | Ruby on Rails | Urdu / Hindi",
+      "duration": 575
+    },
+    {
+      "id": "m3Znm_LrQE4",
+      "title": "has and belongs to many association | Ruby on Rails | Urdu /  Hindi",
+      "duration": 596
+    },
+    {
+      "id": "jn7vcEIkRm8",
+      "title": "How to use ENUM in Rails | Urdu / Hindi",
+      "duration": 450
+    },
+    {
+      "id": "nynvd2DvBdA",
+      "title": "Up/Down specific migration in rails | Urdu / Hindi",
+      "duration": 164
+    },
+    {
+      "id": "znvPj_keg18",
+      "title": "Has many through associations in Rails | Urdu / Hindi",
+      "duration": 653
+    },
+    {
+      "id": "eCmGdFF1Pbs",
+      "title": "Polymorhic Associations in  Rails | Urdu / Hindi",
+      "duration": 619
+    },
+    {
+      "id": "2CzfIA1-30k",
+      "title": "Accepts Nested Attributes in Rails | Urdu / Hindi",
+      "duration": 819
+    },
+    {
+      "id": "3HSqRMPON1M",
+      "title": "Mixpanel Integration | Ruby on Rails | Urdu / Hindi",
+      "duration": 930
+    },
+    {
+      "id": "_jQSC3he2Oo",
+      "title": "Devise JWT Authentication  for Rails API Tutorial | Urdu / Hindi",
+      "duration": 1328
+    },
+    {
+      "id": "_rkBhz39IZ0",
+      "title": "Understanding Resource vs Resources Routes in Rails | Urdu / Hindi",
+      "duration": 410
+    },
+    {
+      "id": "4zR4as5wS0k",
+      "title": "How to Use attr_accessor, attr_writer & attr_reader | Ruby on Rails| Urdu / Hindi",
+      "duration": 456
+    },
+    {
+      "id": "w7I_hEJeKpk",
+      "title": "Serializer in  Ruby on Rails | Ruby Api Serializer | Urdu / Hindi",
+      "duration": 386
+    },
+    {
+      "id": "YYS8seT2DaE",
+      "title": "Implement Ransack Gems in Ruby on Rails | Urdu / Hindi",
+      "duration": 731
+    },
+    {
+      "id": "zni3nMA5_AY",
+      "title": "Pagination Gem in Rails | Pagy Gem | Ruby on Rails",
+      "duration": 654
+    },
+    {
+      "id": "B_cIn6h4_RE",
+      "title": "Integrate Sidekiq in Ruby on Rails | Background Jobs | Urdu/Hindi",
+      "duration": 352
+    },
+    {
+      "id": "eSHHZZhGqys",
+      "title": "Importmap in Rails 7 | Integration of Bootstrap and JQuery | Ruby on Rails",
+      "duration": 830
+    },
+    {
+      "id": "bIRniiEwGaQ",
+      "title": "Need Suggestions for Ruby on Rails | Share Your Ideas!",
+      "duration": 140
+    },
+    {
+      "id": "eoTxcRlK6Hw",
+      "title": "Fixing JavaScript Errors After Running rails importmap in Ruby on Rails",
+      "duration": 373
+    },
+    {
+      "id": "MHxZBSkd6RY",
+      "title": "Rails Best Query Practices | Optimize Your Rails Queries | Code With Naqvi",
+      "duration": 350
+    },
+    {
+      "id": "rXteXrwct30",
+      "title": "How to Setup a Ruby on Rails App on Heroku in 2024 | Complete Step-by-Step Guide",
+      "duration": 464
+    },
+    {
+      "id": "-5cR7ckDP7E",
+      "title": "\"Ruby on Rails 8: What's New? | A Beginner's Guide to Rails 8 Features\" | Code With Naqvi",
+      "duration": 411
+    },
+    {
+      "id": "Qw6XfFTeut4",
+      "title": "Building a Blog App in Rails 8 | Project in Rails 8 |Urdu / Hindi",
+      "duration": 1052
+    },
+    {
+      "id": "k2nVVORYp_U",
+      "title": "Rails N+1 Queries Full Guide (Urdu/Hindi) | Fix with includes, preload, eager_load",
+      "duration": 531
+    },
+    {
+      "id": "_Axukb6W_Dk",
+      "title": "How to Install Ruby on Rails on Windows 11 (WSL) | Step-by-Step Guide 2026",
+      "duration": 516
+    },
+    {
+      "id": "jhe8QH-WeBQ",
+      "title": "If I Had to Learn Ruby on Rails Again in 2026 (My Exact Roadmap) | CodeWithNaqvi",
+      "duration": 443
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "courseId": "mongodb-tutorial-in-hindi-10febc",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:10.559Z",
+  "title": "MongoDB tutorial in hindi",
+  "channel": "Code Improve",
+  "videos": [
+    {
+      "id": "FNzx0hzX8sY",
+      "title": "Introduction and Installation | Part #1 | MongoDB tutorial in Hindi",
+      "duration": 198
+    },
+    {
+      "id": "1RCtj1BY62A",
+      "title": "GUI Interface Compass | Part #2 | MongoDB tutorial in Hindi",
+      "duration": 251
+    },
+    {
+      "id": "wJqQ9MZd5Jc",
+      "title": "Create Database & Drop Database | Part #3 | MongoDB tutorial in Hindi",
+      "duration": 228
+    },
+    {
+      "id": "Iu_w1rqqHPM",
+      "title": "Create Collection & Drop Collection | Part #4 | MongoDB tutorial in Hindi",
+      "duration": 320
+    },
+    {
+      "id": "BKK3JVxJJ-E",
+      "title": "Insert Document Into Collection | Part #5 | MongoDB tutorial in Hindi",
+      "duration": 560
+    },
+    {
+      "id": "reE4F16WLhQ",
+      "title": "All Queries | Part #6 | MongoDB tutorial in Hindi",
+      "duration": 712
+    },
+    {
+      "id": "Vxwyesl7vhM",
+      "title": "Projection | Part #7 | MongoDB tutorial in Hindi",
+      "duration": 160
+    },
+    {
+      "id": "2EiA7vPxAaE",
+      "title": "Update | Part #8 | MongoDB tutorial in Hindi",
+      "duration": 272
+    },
+    {
+      "id": "_oNhMqgMtlQ",
+      "title": "Delete | Part #9 | MongoDB tutorial in Hindi",
+      "duration": 215
+    },
+    {
+      "id": "WKWAKNGFpyo",
+      "title": "Limit, Skip And Sort | Part #10 | MongoDB tutorial in Hindi",
+      "duration": 257
+    },
+    {
+      "id": "wmIF9k20W1s",
+      "title": "$elemMatch | Part #11 | MongoDB tutorial in Hindi",
+      "duration": 225
+    },
+    {
+      "id": "aQmxQtMf0QI",
+      "title": "Distinct & Count | Part #12 | MongoDB tutorial in Hindi",
+      "duration": 144
+    },
+    {
+      "id": "FQmBitxPu2U",
+      "title": "$match Aggregate | Part #13 | MongoDB tutorial in Hindi",
+      "duration": 169
+    },
+    {
+      "id": "WB7fs7Tu3yk",
+      "title": "$group Aggregate | Part #14 | MongoDB tutorial in Hindi",
+      "duration": 251
+    },
+    {
+      "id": "M3DT0zHqYk8",
+      "title": "Skip & Sort Aggregate | Part #15 | MongoDB tutorial in Hindi",
+      "duration": 143
+    },
+    {
+      "id": "skORFlX5BSo",
+      "title": "$project & $type Aggregate | Part #16 | MongoDB tutorial in Hindi",
+      "duration": 295
+    },
+    {
+      "id": "N1Zv1JQynYc",
+      "title": "$count Aggregate | Part #17 | MongoDB tutorial in Hindi",
+      "duration": 103
+    },
+    {
+      "id": "NlzeWiM0bZQ",
+      "title": "$limit Aggregate | Part #18 | MongoDB tutorial in Hindi",
+      "duration": 265
+    },
+    {
+      "id": "Tm1pm_uxcNc",
+      "title": "$unwind Aggregate | Part #19 | MongoDB tutorial in Hindi",
+      "duration": 247
+    },
+    {
+      "id": "ZXxarHQyFIQ",
+      "title": "$match & $group | Part #20 | MongoDB tutorial in Hindi",
+      "duration": 273
+    },
+    {
+      "id": "0z4krv03bEA",
+      "title": "$out Aggregate | Part #21 | MongoDB tutorial in Hindi",
+      "duration": 230
+    },
+    {
+      "id": "u5fMslpVoW4",
+      "title": "Import &  export | Mongodump &  Mongorestore | Part #22 | MongoDB tutorial in Hindi",
+      "duration": 425
+    },
+    {
+      "id": "oVPNN82RhrY",
+      "title": "$lookup | Part #23 | MongoDB tutorial in Hindi",
+      "duration": 259
+    },
+    {
+      "id": "UG7hl0RrFrE",
+      "title": "MongoDb in One Video 🔥🔥  | MongoDb Tutorial For Beginners in Hindi | Install, Aggregation  & Export",
+      "duration": 4816
+    }
+  ]
+}

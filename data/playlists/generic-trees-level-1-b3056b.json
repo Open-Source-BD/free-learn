@@ -1,0 +1,275 @@
+{
+  "courseId": "generic-trees-level-1-b3056b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:15:10.203Z",
+  "title": "Generic Trees - Level 1",
+  "channel": "Pepcoding",
+  "videos": [
+    {
+      "id": "MhpRvvdRBqY",
+      "title": "Generic Tree - Introduction and Data Members",
+      "duration": 303
+    },
+    {
+      "id": "9Oi3WamOCPo",
+      "title": "Generic Tree - Constructor",
+      "duration": 580
+    },
+    {
+      "id": "3xovYxKCgBQ",
+      "title": "Display a Generic Tree",
+      "duration": 1041
+    },
+    {
+      "id": "TLWt90wcFIM",
+      "title": "Size of a Generic Tree | Question",
+      "duration": 38
+    },
+    {
+      "id": "epQq3XWitxA",
+      "title": "Size of a Generic Tree | Solution",
+      "duration": 448
+    },
+    {
+      "id": "FqONnzlCSWQ",
+      "title": "Maximum in a Generic Tree | Question",
+      "duration": 22
+    },
+    {
+      "id": "eJnf0QBg64g",
+      "title": "Maximum in a Generic Tree | Solution",
+      "duration": 706
+    },
+    {
+      "id": "Vm5ubT7aPmI",
+      "title": "Height of a Generic Tree | Question",
+      "duration": 103
+    },
+    {
+      "id": "duRYlVs72js",
+      "title": "Height of a Generic Tree | Solution",
+      "duration": 555
+    },
+    {
+      "id": "kL6tIGhVW1k",
+      "title": "Traversal in Generic Tree | Question",
+      "duration": 138
+    },
+    {
+      "id": "YnufWAWOfI8",
+      "title": "Traversals in a Generic Tree | Solution",
+      "duration": 813
+    },
+    {
+      "id": "ZHdnMxqgQOM",
+      "title": "Level Order Traversal in a Generic Tree | Question",
+      "duration": 33
+    },
+    {
+      "id": "TUxo5YpKvxw",
+      "title": "Level order traversal in Generic Tree | Solution",
+      "duration": 251
+    },
+    {
+      "id": "t4ts_6m4z68",
+      "title": "Level Order Linewise in Generic Tree | Question",
+      "duration": 57
+    },
+    {
+      "id": "amG7xun8k4w",
+      "title": "Level Order Linewise in Generic Tree | Solution",
+      "duration": 250
+    },
+    {
+      "id": "Yde0l3q-qJs",
+      "title": "Level Order Linewise - Zig Zag | Question",
+      "duration": 57
+    },
+    {
+      "id": "eDdPZ05y4Os",
+      "title": "Level Order line wise - Zig Zag | Solution",
+      "duration": 542
+    },
+    {
+      "id": "NuASXwfaFaY",
+      "title": "Level Order Traversals - More Approaches",
+      "duration": 1374
+    },
+    {
+      "id": "CjtGTcG-fUU",
+      "title": "Mirror a Generic Tree | Question",
+      "duration": 71
+    },
+    {
+      "id": "PDjTi3WGSNA",
+      "title": "Mirror a Generic Tree | Solution",
+      "duration": 425
+    },
+    {
+      "id": "EqhPE8tJ-K8",
+      "title": "Remove Leaves from a Generic Trees | Question",
+      "duration": 45
+    },
+    {
+      "id": "0PBC_EEBHGg",
+      "title": "Removes leaves from a Generic Tree | Solution",
+      "duration": 662
+    },
+    {
+      "id": "SuPnlZacta0",
+      "title": "Linearize a Generic Tree | Question",
+      "duration": 100
+    },
+    {
+      "id": "TKZEBXtzKSM",
+      "title": "Linearize a Generic Tree | Solution",
+      "duration": 516
+    },
+    {
+      "id": "D5RYXVgJ5NM",
+      "title": "Linearize a Generic Tree | Efficient Approach",
+      "duration": 474
+    },
+    {
+      "id": "H65rNN3TJkE",
+      "title": "Find an element in a Generic Tree | Question",
+      "duration": 35
+    },
+    {
+      "id": "dWri78Z4khs",
+      "title": "Find an element in Generic Tree | Solution",
+      "duration": 380
+    },
+    {
+      "id": "5r6yB_muOj4",
+      "title": "Node to Root Path | Question",
+      "duration": 47
+    },
+    {
+      "id": "oEBwL5pHzTs",
+      "title": "Node to Root Path | Solution",
+      "duration": 414
+    },
+    {
+      "id": "5xlRdBskWJE",
+      "title": "Lowest Common Ancestor | Question",
+      "duration": 51
+    },
+    {
+      "id": "w8rr1AYMlfw",
+      "title": "Lowest Common Ancestor | Solution",
+      "duration": 250
+    },
+    {
+      "id": "1raYelrrhFM",
+      "title": "Distance between Nodes in Generic Tree | Question",
+      "duration": 45
+    },
+    {
+      "id": "5N5tpizDXys",
+      "title": "Distance between nodes | Solution",
+      "duration": 221
+    },
+    {
+      "id": "rumfdyFR-_A",
+      "title": "Are Trees Similar in Shape | Question",
+      "duration": 43
+    },
+    {
+      "id": "y_PIhsd9vt0",
+      "title": "Are Trees Similar in Shape | Solution",
+      "duration": 473
+    },
+    {
+      "id": "GfEQs3qhMws",
+      "title": "Are Trees Mirror in Shape | Question",
+      "duration": 120
+    },
+    {
+      "id": "v2MqQoma9uc",
+      "title": "Are Trees Mirror in Shape | Solution",
+      "duration": 593
+    },
+    {
+      "id": "ewEAjK83ZVM",
+      "title": "Is Generic Tree Symmetric | Question",
+      "duration": 96
+    },
+    {
+      "id": "gn2ApElF2i0",
+      "title": "Is Generic Tree Symmetric | Solution",
+      "duration": 503
+    },
+    {
+      "id": "cBQs7kqK_Dw",
+      "title": "Generic Tree - Multisolver",
+      "duration": 830
+    },
+    {
+      "id": "vfNlLP-oOUg",
+      "title": "Predecessor and Successor of an element | Question",
+      "duration": 130
+    },
+    {
+      "id": "lXL9xs0G8Uo",
+      "title": "Predecessor and Successor of an element | Solution",
+      "duration": 439
+    },
+    {
+      "id": "m__4qg_G_gs",
+      "title": "Ceil and Floor | Question",
+      "duration": 121
+    },
+    {
+      "id": "I1rAT8hRnWI",
+      "title": "Ceil and Floor | Solution",
+      "duration": 251
+    },
+    {
+      "id": "7Vi6GkgtWpg",
+      "title": "Kth Largest Element | Question",
+      "duration": 39
+    },
+    {
+      "id": "DmAGEAeYhJs",
+      "title": "Kth Largest Element | Solution",
+      "duration": 244
+    },
+    {
+      "id": "TKqOZ3tp1D8",
+      "title": "Node with Maximum Subtree Sum | Question",
+      "duration": 147
+    },
+    {
+      "id": "tDx3PPwgSxs",
+      "title": "Node with Maximum Subtree Sum | Solution",
+      "duration": 607
+    },
+    {
+      "id": "_LVi8UWDCh8",
+      "title": "Diameter of Generic Tree | Question",
+      "duration": 81
+    },
+    {
+      "id": "GIA2cZgOdwg",
+      "title": "Diameter of a Generic Tree | Solution",
+      "duration": 1086
+    },
+    {
+      "id": "CiOS8EczYB4",
+      "title": "Iterative Pre-order and Post-order Traversal | Question",
+      "duration": 92
+    },
+    {
+      "id": "5ry6gRrzPqc",
+      "title": "Iterative Pre-order and Post-order | Solution",
+      "duration": 972
+    },
+    {
+      "id": "t4IKNhNBTdo",
+      "title": "Iterable and Iterator",
+      "duration": 2352
+    }
+  ]
+}

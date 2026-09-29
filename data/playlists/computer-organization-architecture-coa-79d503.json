@@ -1,0 +1,510 @@
+{
+  "courseId": "computer-organization-architecture-coa-79d503",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:01.413Z",
+  "title": "Computer Organization & Architecture (COA)",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "Ol8D69VKX2k",
+      "title": "Introduction to Computer Organization and Architecture (COA)",
+      "duration": 421
+    },
+    {
+      "id": "GRInNLx3Tug",
+      "title": "Basics of Computer Architecture",
+      "duration": 359
+    },
+    {
+      "id": "6_PHIL4LZEU",
+      "title": "Classifications of Computer Architecture",
+      "duration": 389
+    },
+    {
+      "id": "PujjqfUhtNo",
+      "title": "Introduction to Memory",
+      "duration": 466
+    },
+    {
+      "id": "lQcU4WwVALI",
+      "title": "Memory Hierarchy & Interfacing",
+      "duration": 483
+    },
+    {
+      "id": "bG9kSO85rb4",
+      "title": "Memory Interfacing – Solved PYQs",
+      "duration": 348
+    },
+    {
+      "id": "Ez_kyBS-y5w",
+      "title": "Introduction to Cache Memory",
+      "duration": 416
+    },
+    {
+      "id": "V_QS1HzJ8Bc",
+      "title": "Direct Memory Mapping",
+      "duration": 523
+    },
+    {
+      "id": "OxaYvJquPe0",
+      "title": "Direct Memory Mapping – Solved Examples",
+      "duration": 648
+    },
+    {
+      "id": "bFzo9xzYS7s",
+      "title": "Direct Memory Mapping – Solved PYQs (Part 1)",
+      "duration": 715
+    },
+    {
+      "id": "SuVmdDd3eGE",
+      "title": "Direct Memory Mapping – Solved PYQs (Part 2)",
+      "duration": 549
+    },
+    {
+      "id": "z7UCw5zf_Lk",
+      "title": "Direct Memory Mapping – Solved PYQs (Part 3)",
+      "duration": 647
+    },
+    {
+      "id": "_2AZ8ZLLxlE",
+      "title": "Direct Memory Mapping – Hardware Implementation",
+      "duration": 622
+    },
+    {
+      "id": "uwnsMaH-iV0",
+      "title": "Associative Mapping",
+      "duration": 591
+    },
+    {
+      "id": "mVw7HiUVYt0",
+      "title": "Associative Mapping – Solved Examples",
+      "duration": 447
+    },
+    {
+      "id": "-Ara-kdrYUs",
+      "title": "Associative Mapping – Solved PYQ",
+      "duration": 352
+    },
+    {
+      "id": "KhAh6thw_TI",
+      "title": "Set Associative Mapping",
+      "duration": 652
+    },
+    {
+      "id": "ejTCm7eHsM8",
+      "title": "Set Associative Mapping – Solved Examples (Part 1)",
+      "duration": 772
+    },
+    {
+      "id": "-oaiLatXdXw",
+      "title": "Set Associative Mapping – Solved Examples (Part 2)",
+      "duration": 506
+    },
+    {
+      "id": "DyxCVGH3350",
+      "title": "Set Associative Mapping – Solved PYQs (Part 1)",
+      "duration": 589
+    },
+    {
+      "id": "AByFL521DRg",
+      "title": "Set Associative Mapping – Solved PYQs (Part 2)",
+      "duration": 435
+    },
+    {
+      "id": "e8RCnG2ibJk",
+      "title": "Cache Memory Mapping – A Comparative Study",
+      "duration": 602
+    },
+    {
+      "id": "F_gOWc50MtI",
+      "title": "Cache Memory Mapping – Solved PYQ",
+      "duration": 576
+    },
+    {
+      "id": "3pEFBchq9vc",
+      "title": "Set Associative Mapping – Bonus PYQs",
+      "duration": 662
+    },
+    {
+      "id": "1tvW8kzOpSA",
+      "title": "Cache Design - An Overview",
+      "duration": 899
+    },
+    {
+      "id": "7lxAfszjy68",
+      "title": "Cache Replacement Policies - RR, FIFO, LIFO, & Optimal",
+      "duration": 914
+    },
+    {
+      "id": "_Hh-NcdbHCY",
+      "title": "Cache Replacement Policies - MRU, LRU, Pseudo-LRU, & LFU",
+      "duration": 1760
+    },
+    {
+      "id": "QyQf9KvkQA4",
+      "title": "LRU Cache Replacement Policy - Solved PYQs",
+      "duration": 808
+    },
+    {
+      "id": "r_ZE1XVT8Ao",
+      "title": "Cache Coherence Problem & Cache Coherency Protocols",
+      "duration": 718
+    },
+    {
+      "id": "YNpaELJZm2c",
+      "title": "Snooping-based Cache Coherency Protocol",
+      "duration": 362
+    },
+    {
+      "id": "KEc4NQZjkMI",
+      "title": "Directory-based Cache Coherency Protocol",
+      "duration": 380
+    },
+    {
+      "id": "h_kAcVuJEm0",
+      "title": "Introduction to Primary Memory",
+      "duration": 1102
+    },
+    {
+      "id": "MOh4kLGPpH0",
+      "title": "Primary Memory – Architecture of ROM (Part 1)",
+      "duration": 925
+    },
+    {
+      "id": "N0D_PC910wE",
+      "title": "Primary Memory – Architecture of ROM (Part 2)",
+      "duration": 1263
+    },
+    {
+      "id": "N7srLwPd1gw",
+      "title": "Primary Memory – Architecture of ROM (Part 3)",
+      "duration": 970
+    },
+    {
+      "id": "KsDrKNcmHZ0",
+      "title": "Primary Memory – Architecture of ROM (Part 4)",
+      "duration": 740
+    },
+    {
+      "id": "mjdKssAPtPs",
+      "title": "ROM – Solved Examples",
+      "duration": 498
+    },
+    {
+      "id": "SNcbZXtS6NI",
+      "title": "Primary Memory – RAM",
+      "duration": 681
+    },
+    {
+      "id": "nlLxrMBzsMM",
+      "title": "Primary Memory – Solved Example",
+      "duration": 541
+    },
+    {
+      "id": "I1Gz2jlBg-s",
+      "title": "Introduction to Secondary Memory",
+      "duration": 915
+    },
+    {
+      "id": "MSB2GZ0xydc",
+      "title": "Secondary Memory – Hard Disk Drives",
+      "duration": 442
+    },
+    {
+      "id": "MiDFgPYrjBk",
+      "title": "Hard Disk Drives (Solved Problems) - Set 1",
+      "duration": 470
+    },
+    {
+      "id": "JcI82I_WHok",
+      "title": "Hard Disk Drives – Recording Density & Rotational Speed",
+      "duration": 396
+    },
+    {
+      "id": "8YMPJ9NC_n8",
+      "title": "Hard Disk Drives (Solved Problems) - Set 2",
+      "duration": 417
+    },
+    {
+      "id": "YGOlvcTlrYc",
+      "title": "Hard Disk Drives (Solved Problems) - Set 3",
+      "duration": 576
+    },
+    {
+      "id": "0hWNRPHd93U",
+      "title": "Hard Disk Drives (Solved Problems) - Set 4",
+      "duration": 699
+    },
+    {
+      "id": "ZP8J1tBtbvw",
+      "title": "Hard Disk Drives (Solved Problems) - Set 5",
+      "duration": 458
+    },
+    {
+      "id": "Lyez-JarHV8",
+      "title": "Secondary Memory – Solid State Drives",
+      "duration": 479
+    },
+    {
+      "id": "Nrw1vQrFSa8",
+      "title": "Introduction to Number Systems",
+      "duration": 654
+    },
+    {
+      "id": "3pXr3N_Wwp8",
+      "title": "Binary Number System",
+      "duration": 432
+    },
+    {
+      "id": "MGu-P4OOnh0",
+      "title": "Octal Number System",
+      "duration": 499
+    },
+    {
+      "id": "WGN4NWICTpQ",
+      "title": "Hexadecimal Number System",
+      "duration": 634
+    },
+    {
+      "id": "AlMkuzzNMmg",
+      "title": "Conversion to Decimal Number System",
+      "duration": 856
+    },
+    {
+      "id": "hCvAW_5-cJE",
+      "title": "Conversion from Decimal Number System",
+      "duration": 535
+    },
+    {
+      "id": "CnrTega81Ik",
+      "title": "Number System – Solved Problems (Set 1)",
+      "duration": 983
+    },
+    {
+      "id": "yBJK5l3P_7A",
+      "title": "Number System – Solved Problems (Set 2)",
+      "duration": 718
+    },
+    {
+      "id": "Ls70hTLijdA",
+      "title": "Number System – Solved Problems (Set 3)",
+      "duration": 569
+    },
+    {
+      "id": "P0AqK6ecOvo",
+      "title": "Number System – Solved Problems (Set 4)",
+      "duration": 699
+    },
+    {
+      "id": "InuCUa1jzFI",
+      "title": "Introduction to Complementary Number Systems",
+      "duration": 626
+    },
+    {
+      "id": "8HQChU2u2ik",
+      "title": "Complementary Number Systems - Examples",
+      "duration": 557
+    },
+    {
+      "id": "BGrFRN0qNq4",
+      "title": "Diminished Radix and Radix Complement",
+      "duration": 366
+    },
+    {
+      "id": "29huxQik8zU",
+      "title": "Subtraction in Diminished Radix Complement",
+      "duration": 1017
+    },
+    {
+      "id": "ATocwy9Y6jc",
+      "title": "Subtraction in Radix Complement",
+      "duration": 758
+    },
+    {
+      "id": "-CEJXDeDsAQ",
+      "title": "Representations of Binary Numbers",
+      "duration": 1033
+    },
+    {
+      "id": "NoFP9Nvu1qc",
+      "title": "Representations of Binary Numbers - Solved Problems",
+      "duration": 418
+    },
+    {
+      "id": "hlh1sdnvvvk",
+      "title": "Sign bit Extension (Part 1)",
+      "duration": 631
+    },
+    {
+      "id": "V2FdCdRqhvI",
+      "title": "Sign bit Extension (Part 2)",
+      "duration": 763
+    },
+    {
+      "id": "7towQUO9aZI",
+      "title": "Overflow in Signed and Unsigned Numbers",
+      "duration": 611
+    },
+    {
+      "id": "B-irf7FZNHA",
+      "title": "Introduction to Binary Codes",
+      "duration": 633
+    },
+    {
+      "id": "WxQ5oxBLmjk",
+      "title": "8421, Excess-3, and 3321 Codes",
+      "duration": 838
+    },
+    {
+      "id": "3hT9oh_4K2Y",
+      "title": "Binary Codes - Solved Problems",
+      "duration": 821
+    },
+    {
+      "id": "xmJVtDm333I",
+      "title": "BCD Addition",
+      "duration": 688
+    },
+    {
+      "id": "ss9FpyRgIjw",
+      "title": "BCD Adder",
+      "duration": 605
+    },
+    {
+      "id": "ribi_XiBq5s",
+      "title": "Excess-3 Addition",
+      "duration": 487
+    },
+    {
+      "id": "Pai6toNcI1I",
+      "title": "Gray Code",
+      "duration": 497
+    },
+    {
+      "id": "0chMy4T4u3o",
+      "title": "Error Detection",
+      "duration": 686
+    },
+    {
+      "id": "H4sNsd20jDs",
+      "title": "Error Correction",
+      "duration": 419
+    },
+    {
+      "id": "wRQnDAsuS28",
+      "title": "Problem of Encoding in Error Detection and Correction",
+      "duration": 776
+    },
+    {
+      "id": "WdmGSWrcMvM",
+      "title": "Hamming Code",
+      "duration": 820
+    },
+    {
+      "id": "GTAWwk31mbE",
+      "title": "Hamming Code – Solved Problems",
+      "duration": 1177
+    },
+    {
+      "id": "SPw9f2eXh8Y",
+      "title": "Floating Point Numbers",
+      "duration": 752
+    },
+    {
+      "id": "yvdtwKF87Ts",
+      "title": "Representations of Floating Point Numbers",
+      "duration": 830
+    },
+    {
+      "id": "BCSf8SzKYts",
+      "title": "Explicit vs. Implicit Normalization of Floating Point Numbers",
+      "duration": 520
+    },
+    {
+      "id": "kI4PjBbUaQ8",
+      "title": "Floating Point Numbers - Solved Problems",
+      "duration": 1216
+    },
+    {
+      "id": "_NFaYk9R9jI",
+      "title": "IEEE Standard for Floating-Point Arithmetic (IEEE 754)",
+      "duration": 556
+    },
+    {
+      "id": "TaDrBnRS0_Q",
+      "title": "IEEE 754 - Single and Double Precision",
+      "duration": 642
+    },
+    {
+      "id": "K-g-qtV_pC8",
+      "title": "IEEE 754 - Solved Problems (Set 1)",
+      "duration": 793
+    },
+    {
+      "id": "fnhFHAMQy3o",
+      "title": "IEEE 754 - Solved Problems (Set 2)",
+      "duration": 656
+    },
+    {
+      "id": "PjmWG_8b3os",
+      "title": "Binary Multiplication",
+      "duration": 673
+    },
+    {
+      "id": "meSn0UXmgac",
+      "title": "The Concept of Booth’s Algorithm",
+      "duration": 711
+    },
+    {
+      "id": "tnLKU07b-HA",
+      "title": "The Implementation of Booth’s Algorithm",
+      "duration": 994
+    },
+    {
+      "id": "MVpOKwTKVSc",
+      "title": "Binary Division",
+      "duration": 512
+    },
+    {
+      "id": "kGYA3rvnWdU",
+      "title": "The Concept of Restoring Division",
+      "duration": 1181
+    },
+    {
+      "id": "Q8GPrxlbQy4",
+      "title": "Implementation of Restoring Division",
+      "duration": 735
+    },
+    {
+      "id": "l3fM0XslOS0",
+      "title": "Improving the Hardware of Restoring Division",
+      "duration": 797
+    },
+    {
+      "id": "ge09GjFUmKg",
+      "title": "Non-Restoring Division",
+      "duration": 634
+    },
+    {
+      "id": "tGZvB_YorIM",
+      "title": "Machine Instructions & Addressing Modes | Chapter-4 | Computer Organization & Architecture (COA)",
+      "duration": 78
+    },
+    {
+      "id": "UVumk3Vc1Fo",
+      "title": "ALU, Data Path & Control Unit | Chapter-5 | Computer Organization & Architecture (COA)",
+      "duration": 67
+    },
+    {
+      "id": "hcSVNyZG5BM",
+      "title": "I/O Interfacing | Chapter-6 | Computer Organization & Architecture (COA)",
+      "duration": 46
+    },
+    {
+      "id": "j8RKaeANQ-o",
+      "title": "Instruction Pipelining | Chapter-7 | Computer Organization & Architecture (COA)",
+      "duration": 57
+    }
+  ]
+}

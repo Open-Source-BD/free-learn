@@ -1,0 +1,140 @@
+{
+  "courseId": "django-tutorial-for-beginners-0add0c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:25.118Z",
+  "title": "Django Tutorial for Beginners",
+  "channel": "Telusko",
+  "videos": [
+    {
+      "id": "SIyxjRJ8VNY",
+      "title": "#1 Django tutorials | What is Django? | Python Web Framework",
+      "duration": 313
+    },
+    {
+      "id": "VuETrwKYLTM",
+      "title": "#2 Django tutorials | Setup",
+      "duration": 676
+    },
+    {
+      "id": "ykpuyNy5oUM",
+      "title": "#3 Django tutorials | First App in Django - part 1",
+      "duration": 505
+    },
+    {
+      "id": "4UMs7DxWn_Q",
+      "title": "#4 Django tutorials | First App Django - part 2",
+      "duration": 474
+    },
+    {
+      "id": "GNlIe5zvBeQ",
+      "title": "#5 Django tutorials | Django Template Language | DTL",
+      "duration": 525
+    },
+    {
+      "id": "Kz-G6GnumsI",
+      "title": "#6 Django tutorials | Django Template Language - part 2",
+      "duration": 240
+    },
+    {
+      "id": "_xBMAoDfydg",
+      "title": "#7 Django tutorials | Addition of Two Numbers in Django",
+      "duration": 502
+    },
+    {
+      "id": "QD4GlXtf-WU",
+      "title": "#8 Django tutorials | GET vs POST | HTTP Methods",
+      "duration": 367
+    },
+    {
+      "id": "GGkFg52Ot5o",
+      "title": "#9 Django tutorials | Model View Template in Django | MVT",
+      "duration": 354
+    },
+    {
+      "id": "Bwd9hr5Fz5E",
+      "title": "Support Telusko",
+      "duration": 71
+    },
+    {
+      "id": "K8Uem148uOU",
+      "title": "#10 Django tutorials | Static Files - 1",
+      "duration": 451
+    },
+    {
+      "id": "Tt3mgy2ECug",
+      "title": "#11 Django tutorials | Static Files - 2",
+      "duration": 602
+    },
+    {
+      "id": "Huk9tIRD_rQ",
+      "title": "#12 Django tutorials | Passing Dynamic Data in Html part 1",
+      "duration": 656
+    },
+    {
+      "id": "cHBn87eRFwo",
+      "title": "#13 Django tutorials | Passing Dynamic Data in Html - part 2",
+      "duration": 596
+    },
+    {
+      "id": "nuW0o4-dSpo",
+      "title": "#14 Django tutorials | If Statement",
+      "duration": 330
+    },
+    {
+      "id": "7E1M1W9o7PA",
+      "title": "#15 Django tutorials | ORM | Object Relational Mapper | Theory",
+      "duration": 281
+    },
+    {
+      "id": "d--mEqEUybA",
+      "title": "#16 Django tutorials | Postgres and PgAdmin Setup",
+      "duration": 306
+    },
+    {
+      "id": "69YkZqZgz9s",
+      "title": "#17 Django tutorials | Models and Migrations",
+      "duration": 733
+    },
+    {
+      "id": "sU7_reASCAw",
+      "title": "#18 Django tutorials | Re-Migration",
+      "duration": 177
+    },
+    {
+      "id": "iLhcV7t3zug",
+      "title": "#19 Django tutorials | Admin Panel",
+      "duration": 386
+    },
+    {
+      "id": "ExTaxRmDnP8",
+      "title": "#20 Django tutorials | Add and Fetch data from Database",
+      "duration": 553
+    },
+    {
+      "id": "6Q5OVCKufBU",
+      "title": "#21 Django tutorials | User Registration - 1",
+      "duration": 825
+    },
+    {
+      "id": "JXBCw_4gwc0",
+      "title": "#22 Django tutorials | User Registration - 2",
+      "duration": 620
+    },
+    {
+      "id": "Mf_97YaUKag",
+      "title": "#23 Django tutorials | Passing Messages",
+      "duration": 405
+    },
+    {
+      "id": "teaeVbcT9BI",
+      "title": "#24 Django tutorials | User login",
+      "duration": 493
+    },
+    {
+      "id": "iT15mk4y1iw",
+      "title": "#25 Django Tutorials | User Logout",
+      "duration": 326
+    }
+  ]
+}

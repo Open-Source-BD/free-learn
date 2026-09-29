@@ -1,0 +1,175 @@
+{
+  "courseId": "statistics-and-probability-dd065b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:29:46.492Z",
+  "title": "Statistics and Probability",
+  "channel": "Dr.Gajendra Purohit",
+  "videos": [
+    {
+      "id": "V3iEsLPAD68",
+      "title": "Statistics And Probability | Overview Of Random Variable & Probability Distribution",
+      "duration": 480
+    },
+    {
+      "id": "7MJ3b_J_ZCE",
+      "title": "Random Variable, Probability Mass Function, Distribution Function",
+      "duration": 1118
+    },
+    {
+      "id": "l0ecMiNUZu8",
+      "title": "Random Variable, Probability Density Function, Cumulative Distribution Function",
+      "duration": 1282
+    },
+    {
+      "id": "H2Ji-Q4MfqU",
+      "title": "Mathematical Expectation, Variance Of Continuous & Discrete Random Variable",
+      "duration": 768
+    },
+    {
+      "id": "gT26Y_VJmOM",
+      "title": "Binomial Distribution | Mean & Variance | Moment Generating Function",
+      "duration": 994
+    },
+    {
+      "id": "Nhw5qGKZm5o",
+      "title": "Binomial Distribution | Fitting of  Binomial Distribution | Examples",
+      "duration": 845
+    },
+    {
+      "id": "onFv73Btdno",
+      "title": "Poisson Distribution | Proof  Binomial Tends to Poisson Distribution",
+      "duration": 634
+    },
+    {
+      "id": "pkpe4aMGRg8",
+      "title": "Poisson Distribution | Mean & Variance | Moment Generating Function",
+      "duration": 781
+    },
+    {
+      "id": "raySzcgcBFk",
+      "title": "Poisson Distribution | Poisson Distribution Examples with  Solutions",
+      "duration": 643
+    },
+    {
+      "id": "v6M1-ljpSg4",
+      "title": "Poisson Distribution | Fitting of Poisson Distribution | Example",
+      "duration": 460
+    },
+    {
+      "id": "z5gongqrMv8",
+      "title": "Exponential Distribution | Mean & Variance | Moment Generating Function",
+      "duration": 581
+    },
+    {
+      "id": "S8YrED3mf5s",
+      "title": "Normal Distribution | Mean and Variance of Normal Distribution",
+      "duration": 720
+    },
+    {
+      "id": "Hdhnq9Oyryc",
+      "title": "Normal Distribution | Moment Generating Function | Mean & Variance By MGF",
+      "duration": 920
+    },
+    {
+      "id": "mYFygtQrDxc",
+      "title": "Uniform Distribution | Rectangular Distribution | Mean & Variance | Moment Generating Function",
+      "duration": 648
+    },
+    {
+      "id": "lBB4stn3exM",
+      "title": "Correlation Coefficient | Correlation Coefficient Example | Statistics",
+      "duration": 1323
+    },
+    {
+      "id": "0WejW9MiTGg",
+      "title": "Rank Correlation | Rank Correlation Coefficient | Spearman Rank Correlation",
+      "duration": 988
+    },
+    {
+      "id": "G0H340p97YE",
+      "title": "Rank Correlation | Repeated Rank Correlation | Spearman Rank Correlation",
+      "duration": 566
+    },
+    {
+      "id": "QAEZOhE13Wg",
+      "title": "Regression Analysis, Regression Coefficient, Linear Regression Part-I",
+      "duration": 1497
+    },
+    {
+      "id": "ddYNq1TxtM0",
+      "title": "Regression Analysis, Regression Coefficient, Linear Regression Part-II",
+      "duration": 1159
+    },
+    {
+      "id": "YciBHHeswBM",
+      "title": "Regression Analysis, Angle Between Two Regression Lines, Proof",
+      "duration": 895
+    },
+    {
+      "id": "L0zWnBrjhng",
+      "title": "Joint Probability Distribution , Joint PMF, Marginal PMF, Bivariate RV",
+      "duration": 1245
+    },
+    {
+      "id": "C8DLKwVRQeE",
+      "title": "Joint Probability Distribution , Joint PMF, Marginal PMF, Statistical Independence",
+      "duration": 975
+    },
+    {
+      "id": "m9a6rg0tNSM",
+      "title": "Skewness & Kurtosis | Moments | Leptokurtic, Mesokurtic, Platykurtic",
+      "duration": 1057
+    },
+    {
+      "id": "wDXMYRPup0Y",
+      "title": "Skewness & Kurtosis | Moments | Leptokurtic, Mesokurtic, Platykurtic | Examples",
+      "duration": 1172
+    },
+    {
+      "id": "JeX5omyI6Aw",
+      "title": "Normal Distribution | Normal Distribution Table & Area Under Curve | Examples",
+      "duration": 1250
+    },
+    {
+      "id": "PJ5tTEiBthI",
+      "title": "Normal Distribution | Normal Distribution Table & Area Under Curve | Examples Part-II",
+      "duration": 1195
+    },
+    {
+      "id": "PIFbx7YmqJM",
+      "title": "Job Scheduling | n-Jobs, 2-Machine | Johnson Algorithm",
+      "duration": 1607
+    },
+    {
+      "id": "NCB-lM_link",
+      "title": "Time Series Analysis | Component Of Time Series | Moving Average Method Of Time Series",
+      "duration": 833
+    },
+    {
+      "id": "HHWy-qgR92Q",
+      "title": "Time Series | Least Square Method | Curve Fitting Straight Line & Second Degree Parabola | By GP Sir",
+      "duration": 1649
+    },
+    {
+      "id": "pmzn-PB6pnk",
+      "title": "Seasonal Variation | Simple Average | Time Series by GP Sir",
+      "duration": 645
+    },
+    {
+      "id": "aHstfeYQjLY",
+      "title": "Ratio To Moving Average Method | Seasonal Variation | Time Series by GP Sir",
+      "duration": 688
+    },
+    {
+      "id": "7Cyaxw0lc8Y",
+      "title": "Time Series | Ratio To Trend Method | Seasonal Variation | Time Series by GP Sir",
+      "duration": 640
+    },
+    {
+      "id": "shmXITv5qUY",
+      "title": "Time Series | Link Relative Method | Seasonal Variation | Time Series by GP Sir",
+      "duration": 609
+    }
+  ]
+}

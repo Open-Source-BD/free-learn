@@ -1,0 +1,90 @@
+{
+  "courseId": "jenkins-tutorial-step-by-step-0358ee",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:47:27.920Z",
+  "title": "Jenkins Tutorial Step by Step",
+  "channel": "The Testing Academy",
+  "videos": [
+    {
+      "id": "qHkBX8jlBqo",
+      "title": "Jenkins Tutorial Step by Step  | Day1 | Why we need to Learn Jenkins as QA",
+      "duration": 683
+    },
+    {
+      "id": "DMzlntzNmDQ",
+      "title": "How to Install Jenkins on Windows, Mac and Create Your Freestyle Job in Jenkins. - Day 2",
+      "duration": 1148
+    },
+    {
+      "id": "i9pr0m8ZdIY",
+      "title": "Running Jenkins On Docker | Day 3 |  Jenkins Tutorial for Beginners",
+      "duration": 597
+    },
+    {
+      "id": "3hSHCgqTeEE",
+      "title": "Maven And Jenkins Integration | How To Integrate Maven With Jenkins | Maven not found Jenkins |",
+      "duration": 420
+    },
+    {
+      "id": "Bz3ArJxQWR8",
+      "title": "How to Create Users, Manage Them and  Assign Roles in Jenkins | Jenkins Tutorial for Beginners.",
+      "duration": 959
+    },
+    {
+      "id": "5oX0cP1clcA",
+      "title": "Top 19 IMPORTANT Jenkins Plugins for Software Testers",
+      "duration": 502
+    },
+    {
+      "id": "OEiG8AUuScs",
+      "title": "How To Publish HTML Report using Jenkins and Add Git SCM to Selenium Project?",
+      "duration": 775
+    },
+    {
+      "id": "kaG3nTdiRX0",
+      "title": "How to Create Jenkins Pipeline Project for Selenium Java Maven project(Beginners)",
+      "duration": 881
+    },
+    {
+      "id": "-N3Gi2teBeU",
+      "title": "Jenkins CLI : How Build, Create Job using Jenkins Command LINE option.",
+      "duration": 365
+    },
+    {
+      "id": "BSr8clA898Y",
+      "title": "How To Create Jenkins Job With Parameter |  Jenkins Tutorial Step by Step",
+      "duration": 506
+    },
+    {
+      "id": "Jz0urXOQhbk",
+      "title": "Jenkins Email Notification Configuration : How to Send Email from Jenkins Job? ( SUPER Easy Way)",
+      "duration": 534
+    },
+    {
+      "id": "vQi6jKkX5OM",
+      "title": "Jenkins Slack integration : How to Send Notification Jenkins to Slack,Test Report or Custom Messages",
+      "duration": 512
+    },
+    {
+      "id": "7xCpFbj37fg",
+      "title": "How to Backup Your Selenium HTML Reports Results in Jenkins?",
+      "duration": 483
+    },
+    {
+      "id": "-cy1sJygqmI",
+      "title": "Jenkins Workspace Cleanup | How to clear workspace in Jenkins in 5 min",
+      "duration": 298
+    },
+    {
+      "id": "j29X8a-mHD0",
+      "title": "Multi Branch Pipeline Job using Jenkins",
+      "duration": 491
+    },
+    {
+      "id": "LCKm3tlQSCA",
+      "title": "Create Your Jenkins Job with Code ( Job DSL Plugin)",
+      "duration": 467
+    }
+  ]
+}

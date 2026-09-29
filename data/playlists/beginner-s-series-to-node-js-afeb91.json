@@ -1,0 +1,140 @@
+{
+  "courseId": "beginner-s-series-to-node-js-afeb91",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:25.547Z",
+  "title": "Node.js for Beginners",
+  "channel": "Microsoft Developer",
+  "videos": [
+    {
+      "id": "FeJVdCz_uco",
+      "title": "What is Node.js and why you should learn it [1 of 26] | Node.js for Beginners",
+      "duration": 150
+    },
+    {
+      "id": "vrKSEMpOwYg",
+      "title": "How to install Node.js on Linux, macOS or WSL [2 of 26] | Node.js for Beginners",
+      "duration": 213
+    },
+    {
+      "id": "c_Bb7D7W5LI",
+      "title": "How to install Node.js on Windows [3 of 26] | Node.js for Beginners",
+      "duration": 199
+    },
+    {
+      "id": "g_34i8vfGZA",
+      "title": "How to run JavaScript code in Node.js using files or REPL [4 of 26] | Node.js for Beginners",
+      "duration": 139
+    },
+    {
+      "id": "76xR4O2YcfE",
+      "title": "How to set up VS Code for Node.js development [5 of 26] | Node.js for Beginners",
+      "duration": 312
+    },
+    {
+      "id": "EBxsKGdIWaE",
+      "title": "How to create a new Node.js project [6 of 26] | Node.js for Beginners",
+      "duration": 216
+    },
+    {
+      "id": "amSVXzDiVuk",
+      "title": "How to use NPM scripts for your development task automation [7 of 26] | Node.js for Beginners",
+      "duration": 137
+    },
+    {
+      "id": "P1qWARtquFg",
+      "title": "How to add and remove a dependency in a Node.js app [8 of 26] | Node.js for Beginners",
+      "duration": 241
+    },
+    {
+      "id": "DWgZQiFJSzY",
+      "title": "What is a lockfile and why you should commit it [9 of 26] | Node.js for Beginners",
+      "duration": 120
+    },
+    {
+      "id": "PVlhepXQc1Y",
+      "title": "How to update your Node.js dependencies [10 of 26] | Node.js for Beginners",
+      "duration": 262
+    },
+    {
+      "id": "kr9G2UXtOh4",
+      "title": "How to manage Node.js vulnerabilities [11 of 26] | Node.js for Beginners",
+      "duration": 137
+    },
+    {
+      "id": "Za3F4qVZ6fI",
+      "title": "How to work with files and directories with Node.js [12 of 26] | Node.js for Beginners",
+      "duration": 111
+    },
+    {
+      "id": "3xm7spsmtRg",
+      "title": "How to list the contents in directories with Node.js [13 of 26] | Node.js for Beginners",
+      "duration": 347
+    },
+    {
+      "id": "7UIXzCEqgas",
+      "title": "How to use filesystem paths with Node.js [14 of 26] | Node.js for Beginners",
+      "duration": 290
+    },
+    {
+      "id": "1mv9rSI9FFA",
+      "title": "How to create files and directories with Node.js [15 of 26] | Node.js for Beginners",
+      "duration": 223
+    },
+    {
+      "id": "4Vg1NECQ_Kg",
+      "title": "How to read and update JSON files with Node.js [16 of 26] | Node.js for Beginners",
+      "duration": 238
+    },
+    {
+      "id": "X2bHZ7R_4Kk",
+      "title": "How to create a web API with Node.js and Express [17 of 26] | Node.js for Beginners",
+      "duration": 267
+    },
+    {
+      "id": "fdq0V7uIXtc",
+      "title": "How to create a GET API with Node.js and Express [18 of 26] | Node.js for Beginners",
+      "duration": 276
+    },
+    {
+      "id": "e_aNOyeqsAU",
+      "title": "How to handle API routing with Node.js and Express [19 of 26] | Node.js for Beginners",
+      "duration": 231
+    },
+    {
+      "id": "hapS6wpKuX8",
+      "title": "How to create an API that receives JSON with Node.js and Express [20 of 26] | Node.js for Beginners",
+      "duration": 283
+    },
+    {
+      "id": "cqapa6mI3jE",
+      "title": "How to create update and delete APIs with Node.js and Express [21 of 26] | Node.js for Beginners",
+      "duration": 290
+    },
+    {
+      "id": "w4Uz06b8BOE",
+      "title": "How to run your code step by step in Node.js built-in debugger [22 of 26] | Node.js for Beginners",
+      "duration": 358
+    },
+    {
+      "id": "llPW0b1dQms",
+      "title": "How to configure VS Code to debug JavaScript Node.js apps [23 of 26] | Node.js for Beginners",
+      "duration": 204
+    },
+    {
+      "id": "yfm35n-USr8",
+      "title": "How to use the VS Code debugger with Node.js apps [24 of 26] | Node.js for Beginners",
+      "duration": 273
+    },
+    {
+      "id": "9AZReNXoC1E",
+      "title": "How to read a stack trace in VS Code to debug a Node.js app [25 of 26] | Node.js for Beginners",
+      "duration": 217
+    },
+    {
+      "id": "H4HC_UUGVos",
+      "title": "How to use advanced debugging features in VS Code [26 of 26] | Node.js for Beginners",
+      "duration": 329
+    }
+  ]
+}

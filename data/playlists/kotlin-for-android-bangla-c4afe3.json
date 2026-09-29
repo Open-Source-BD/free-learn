@@ -1,0 +1,405 @@
+{
+  "courseId": "kotlin-for-android-bangla-c4afe3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:49.951Z",
+  "title": "Kotlin For Android - Bangla",
+  "channel": "Touhid Apps!",
+  "videos": [
+    {
+      "id": "bjZof3NV8js",
+      "title": "Mastering Kotlin - What is Kotlin & why Kotlin? - কটলিন কি এবং কেন? - Kotlin Tutorial Bangla",
+      "duration": 694
+    },
+    {
+      "id": "CJ9i2wpa8yg",
+      "title": "Mastering Kotlin - 000 - JDK Download - Kotlin Tutorial Bangla",
+      "duration": 464
+    },
+    {
+      "id": "Y24gTTrUelQ",
+      "title": "Mastering Kotlin - 000-1 - JDK Install in Windows - Kotlin Tutorial Bangla",
+      "duration": 130
+    },
+    {
+      "id": "kQIRWSsh9vI",
+      "title": "Mastering Kotlin - 001 - Install Intellij IDEA CE (MAC) - Kotlin Tutorial Bangla",
+      "duration": 206
+    },
+    {
+      "id": "p2czPPv13QY",
+      "title": "Mastering Kotlin - 001-1 IDEA Install (Windows) - Kotlin Tutorial Bangla",
+      "duration": 70
+    },
+    {
+      "id": "TVxo7u65mYE",
+      "title": "Mastering Kotlin - Hello World - update 2022 - Kotlin Bangla Tutorial",
+      "duration": 297
+    },
+    {
+      "id": "4kKq8vnzW9M",
+      "title": "Mastering Kotlin - 002-1 - Kotlin Hello World - Kotlin Tutorial Bangla",
+      "duration": 494
+    },
+    {
+      "id": "fjpBRNOxxWc",
+      "title": "Mastering Kotlin - 002_1 Kotlin main function - Kotlin Tutorial Bangla",
+      "duration": 406
+    },
+    {
+      "id": "q5vQeqwyYXc",
+      "title": "Mastering Kotlin - 003 - Hello World Playground - Kotlin Tutorial Bangla",
+      "duration": 66
+    },
+    {
+      "id": "40DVTje_x5Q",
+      "title": "Mastering Kotlin - 003-1 Project Structure and Package - Kotlin Tutorial Bangla",
+      "duration": 487
+    },
+    {
+      "id": "jw6g37lDxIM",
+      "title": "Mastering Kotlin - 003-2 Kotlin Architecture - Kotlin Tutorial Bangla",
+      "duration": 201
+    },
+    {
+      "id": "QypiboEuVGk",
+      "title": "Mastering Kotlin - 003-3 Braces in Programing - Kotlin Tutorial Bangla",
+      "duration": 282
+    },
+    {
+      "id": "7FWG15d1-L0",
+      "title": "Mastering Kotlin - 003-4 JDK, JRE, JVM, JIT - Kotlin Tutorial Bangla",
+      "duration": 199
+    },
+    {
+      "id": "vr_Gru0UO4U",
+      "title": "Mastering Kotlin - 004 - Kotlin Variable - Kotlin Tutorial Bangla",
+      "duration": 499
+    },
+    {
+      "id": "F-KOSr1m4iA",
+      "title": "Mastering Kotlin - 005 - Data Type Part 1 - Int, Long, Float, Double - Kotlin Tutorial Bangla",
+      "duration": 401
+    },
+    {
+      "id": "726QLSyK9dw",
+      "title": "Mastering Kotlin - 006 - Data Type - Part 2 - Char, Boolean, String - Kotlin Tutorial Bangla",
+      "duration": 368
+    },
+    {
+      "id": "KRbJaviNcV4",
+      "title": "Mastering Kotlin - 007 - Kotlin Data Type - Part 3 - Array - Kotlin Tutorial Bangla",
+      "duration": 656
+    },
+    {
+      "id": "xCt5p6ecdFU",
+      "title": "Mastering Kotlin - 008 - Data Type - Part 3 - Primitive - non-primitive - Kotlin Tutorial Bangla",
+      "duration": 223
+    },
+    {
+      "id": "f2QzCjamaMs",
+      "title": "Mastering Kotlin - 009 - Add Two Variables - Kotlin Tutorial Bangla",
+      "duration": 345
+    },
+    {
+      "id": "e3s22cw7ghU",
+      "title": "Mastering Kotlin - 010 - Kotlin Type Conversion - Kotlin Tutorial Bangla",
+      "duration": 444
+    },
+    {
+      "id": "QeCrmfrLMlM",
+      "title": "Mastering Kotlin - 011 Kotlin - Mathematical Operator - Kotlin Tutorial Bangla",
+      "duration": 215
+    },
+    {
+      "id": "8trQe8SbS5E",
+      "title": "Mastering Kotlin - 012 Kotlin Relational Operator - Kotlin Tutorial Bangla",
+      "duration": 320
+    },
+    {
+      "id": "i7KJJlIcgrE",
+      "title": "Mastering Kotlin - 013 - Kotlin Assignment Operator - Kotlin Tutorial Bangla",
+      "duration": 387
+    },
+    {
+      "id": "5I907pEQh2U",
+      "title": "Mastering Kotlin - 014 Kotlin Unary Operator - Kotlin Tutorial Bangla",
+      "duration": 426
+    },
+    {
+      "id": "nSFiRALVYpU",
+      "title": "Mastering Kotlin - 015 Kotlin Logical Operator - Kotlin Tutorial Bangla",
+      "duration": 195
+    },
+    {
+      "id": "bOd0PMdW7Vs",
+      "title": "Mastering Kotlin - 016 Kotlin Bitwise Operator - Part-1 - Kotlin Tutorial Bangla",
+      "duration": 627
+    },
+    {
+      "id": "TfKTdxkz19E",
+      "title": "Mastering Kotlin - 017 Kotlin Bitwise Operator - Part-2 - Kotlin Tutorial Bangla",
+      "duration": 792
+    },
+    {
+      "id": "N8GiWdNIA8I",
+      "title": "Mastering Kotlin - 018 Kotlin Bitwise Operator - Part-3 - Kotlin Tutorial Bangla",
+      "duration": 743
+    },
+    {
+      "id": "I92jUvsW13o",
+      "title": "Mastering Kotlin - 019 Kotlin Input Output - Kotlin Tutorial Bangla",
+      "duration": 449
+    },
+    {
+      "id": "9jGjH_UDYX4",
+      "title": "Mastering Kotlin - 020 Kotlin Comment - Kotlin Tutorial Bangla",
+      "duration": 290
+    },
+    {
+      "id": "-FMHQurKMg8",
+      "title": "Mastering Kotlin - 021 - Kotlin Project - Calculator - Part - 1 - Kotlin Tutorial Bangla",
+      "duration": 462
+    },
+    {
+      "id": "K14ShTTHuDc",
+      "title": "Mastering Kotlin - 022 - Kotlin if-else - Part - 1 - Kotlin Tutorial Bangla",
+      "duration": 1005
+    },
+    {
+      "id": "ex4UrwCs-6I",
+      "title": "Mastering Kotlin - 023 - Kotlin if-else - Part - 2 - Kotlin Tutorial Bangla",
+      "duration": 522
+    },
+    {
+      "id": "dlAdAR81JsE",
+      "title": "Mastering Kotlin - 024 - Kotlin when statement and expression - Kotlin Tutorial Bangla",
+      "duration": 1114
+    },
+    {
+      "id": "uHfUNCvSDyI",
+      "title": "Mastering Kotlin - 025 - Kotlin for Loop - Kotlin Tutorial Bangla",
+      "duration": 946
+    },
+    {
+      "id": "GVEH8bwOupI",
+      "title": "Mastering Kotlin - 026 - Kotlin for-each Loop - Kotlin Tutorial Bangla",
+      "duration": 387
+    },
+    {
+      "id": "vgTLsZ89YuM",
+      "title": "Mastering Kotlin - 027 - Kotlin while & do-while Loop - Kotlin Tutorial Bangla",
+      "duration": 726
+    },
+    {
+      "id": "Xv5oeLo7Gdc",
+      "title": "Mastering Kotlin - 028 - Kotlin return and jump (break, continue, return) - Kotlin Tutorial Bangla",
+      "duration": 739
+    },
+    {
+      "id": "2kmJJbVmRAM",
+      "title": "Mastering Kotlin - 029 - Project - Calculator - Part - 2 - Kotlin Tutorial Bangla",
+      "duration": 1490
+    },
+    {
+      "id": "qEGLj4ATqKk",
+      "title": "Mastering Kotlin - 030 - Kotlin Standard Library Function - Kotlin Tutorial Bangla",
+      "duration": 571
+    },
+    {
+      "id": "dgwpB9o1hjE",
+      "title": "Mastering Kotlin - 031 - Kotlin User defined Function - Kotlin Tutorial Bangla",
+      "duration": 845
+    },
+    {
+      "id": "OB6p5r00UjQ",
+      "title": "Mastering Kotlin - 032 - Kotlin Recursive Function Part - 1 - Kotlin Tutorial Bangla",
+      "duration": 314
+    },
+    {
+      "id": "xX_v1V97Muk",
+      "title": "Mastering Kotlin - 033 - Recursive Function - 2  (tailrec) - Kotlin Tutorial Bangla",
+      "duration": 407
+    },
+    {
+      "id": "pnHayADiPWE",
+      "title": "Mastering Kotlin - 034 - Default and Named Argument - Kotlin Tutorial Bangla",
+      "duration": 422
+    },
+    {
+      "id": "I_bRc-mvasY",
+      "title": "Mastering Kotlin - 035 - Kotlin Higher order function and lambda - Kotlin Tutorial Bangla",
+      "duration": 1393
+    },
+    {
+      "id": "5mK7QGTnEhM",
+      "title": "Mastering Kotlin - 036 - Inline Function (inline - noinline - crossinline) - Kotlin Tutorial Bangla",
+      "duration": 645
+    },
+    {
+      "id": "Kc7TdnQstII",
+      "title": "Mastering Kotlin - 037 - String - Part - 1 - Chararray - String Template - Kotlin Tutorial Bangla",
+      "duration": 479
+    },
+    {
+      "id": "fbH1LPyF81k",
+      "title": "Mastering Kotlin - 038 - String - Part-2 - String Compare - String Property - Kotlin Tutorial Bangla",
+      "duration": 430
+    },
+    {
+      "id": "aMyZtByuuv8",
+      "title": "Mastering Kotlin - 039 - Kotlin String - Part - 3 - String Functions - Kotlin Tutorial Bangla",
+      "duration": 849
+    },
+    {
+      "id": "gQt1Nm0GND4",
+      "title": "Mastering Kotlin - 040 - Kotlin String - Part - 4 - String functions - Kotlin Tutorial Bangla",
+      "duration": 1083
+    },
+    {
+      "id": "HEXG2mwyXzs",
+      "title": "Mastering Kotlin - 041 - Kotlin String - Part - 5 - String functions - Kotlin Tutorial Bangla",
+      "duration": 631
+    },
+    {
+      "id": "cX_iCD_WCZs",
+      "title": "Mastering Kotlin - 042 - Kotlin Try - Catch - Part - 1 - Kotlin Tutorial Bangla",
+      "duration": 614
+    },
+    {
+      "id": "C_AZstbfmqg",
+      "title": "Mastering Kotlin - 043 - Kotlin Try - Catch - Part - 2 (Finally) - Kotlin Tutorial Bangla",
+      "duration": 350
+    },
+    {
+      "id": "bUTOw0nBGVs",
+      "title": "Mastering Kotlin - 044 - Kotlin Try - Catch - Part - 3 (Multiple Catch) - Kotlin Tutorial Bangla",
+      "duration": 528
+    },
+    {
+      "id": "x6ZolXpPM90",
+      "title": "Mastering Kotlin - 045 - Kotlin Try - Catch - Part - 4 (Nested-try-catch) - Kotlin Tutorial Bangla",
+      "duration": 219
+    },
+    {
+      "id": "MJw4Mkk5o0M",
+      "title": "Mastering Kotlin - 046 - Kotlin Try - Catch - Part - 5 (throw) - Kotlin Tutorial Bangla",
+      "duration": 547
+    },
+    {
+      "id": "RgEQqr9jAOk",
+      "title": "Mastering Kotlin - 047 - range - 1 - for loop - Kotlin Bangla Tutorial",
+      "duration": 367
+    },
+    {
+      "id": "QEcFDP_mghA",
+      "title": "Mastering Kotlin - 048 - range - 2 - in range - Kotlin Bangla Tutorial",
+      "duration": 232
+    },
+    {
+      "id": "jWO9ZxCiOnU",
+      "title": "Mastering Kotlin - 049 - range - 3 - (downTo - until - step) - Kotlin Bangla Tutorial",
+      "duration": 348
+    },
+    {
+      "id": "ehXjq2D4Bog",
+      "title": "Mastering Kotlin - 050 - range - 4 - (iterator) - Kotlin Tutorial Bangla",
+      "duration": 225
+    },
+    {
+      "id": "-XGWvuOsuVU",
+      "title": "Mastering Kotlin - 051 - range - 5 - (utility-functions) - Kotlin Bangla Tutorial",
+      "duration": 823
+    },
+    {
+      "id": "6kAvZVRSTqc",
+      "title": "Mastering Kotlin - 052 - Collections - Part - 1 - Kotlin Tutorial Bangla",
+      "duration": 536
+    },
+    {
+      "id": "NE0D3I3pRPI",
+      "title": "Mastering Kotlin - 053 - Collections - Part - 2 - Kotlin Tutorial Bangla",
+      "duration": 1093
+    },
+    {
+      "id": "RuPJkzcl1gk",
+      "title": "Mastering Kotlin - 054 - Collections - Part - 3 - Kotlin Tutorial Bangla",
+      "duration": 480
+    },
+    {
+      "id": "czpS8D_EjNU",
+      "title": "Mastering Kotlin - 055 - Collections - Part - 4 (Set-1) - Kotlin Tutorial Bangla",
+      "duration": 1172
+    },
+    {
+      "id": "DvW00atKbh8",
+      "title": "Mastering Kotlin - 056 - Collections - Part - 5 (Set-2) - Kotlin Tutorial Bangla",
+      "duration": 705
+    },
+    {
+      "id": "2MBqhDl5BnI",
+      "title": "Mastering Kotlin - 057 - Collections - Part - 6 (Set-3) - Kotlin Tutorial Bangla",
+      "duration": 214
+    },
+    {
+      "id": "wCScnUuUwrU",
+      "title": "Mastering Kotlin - 058 - Collections - Part - 7 (Map-1) - Kotlin Tutorial Bangla",
+      "duration": 479
+    },
+    {
+      "id": "OHtioYOy7aE",
+      "title": "Mastering Kotlin - 059 - Collections - Part - 8 (Map-2) - Kotlin Tutorial Bangla",
+      "duration": 423
+    },
+    {
+      "id": "OS-M-xrDDIA",
+      "title": "Mastering Kotlin - 060 - Collections - Part - 9 (Map-3 - MutableMap) - Kotlin Tutorial Bangla",
+      "duration": 496
+    },
+    {
+      "id": "-P6E7MM0Ric",
+      "title": "Mastering Kotlin - 061 - Collections - Part - 10 (Map-4 - HashMap) - Kotlin Tutorial Bangla",
+      "duration": 394
+    },
+    {
+      "id": "ISZtBpr56tw",
+      "title": "Mastering Kotlin - 062 - Collections - Part - 11 (ArrayList) - Kotlin Tutorial Bangla",
+      "duration": 622
+    },
+    {
+      "id": "Iq2RBjB3fXI",
+      "title": "Mastering Kotlin - part 1 - basics - outro - Kotlin Bangla Tutorial",
+      "duration": 129
+    },
+    {
+      "id": "VjZgIa9x0hg",
+      "title": "Mastering Kotlin - Advanced - intro - Kotlin Bangla Tutorial",
+      "duration": 258
+    },
+    {
+      "id": "FsMCxlX8aoM",
+      "title": "কটলিন ও এন্ড্রয়েড বিষয়ক আজকের আড্ডা - ২৩ অক্টোবর ২০২২",
+      "duration": 5025
+    },
+    {
+      "id": "fCnnx86mJpQ",
+      "title": "Mastering Kotlin - Thread_Coroutine - 01 - intro - Asynchronous Programming - Kotlin Bangla Tutorial",
+      "duration": 605
+    },
+    {
+      "id": "DaOP8SSbf4c",
+      "title": "Mastering Kotlin - Thread & Coroutine - 02 - Sync_Async - Thread Example - Kotlin Bangla Tutorial",
+      "duration": 942
+    },
+    {
+      "id": "OusFzsFnTT4",
+      "title": "Mastering kotlin next step - Kotlin Bangla Tutorial",
+      "duration": 52
+    },
+    {
+      "id": "IM-OV149mS8",
+      "title": "Kotlin Filter and Map function - Kotlin Bangla Tutorial",
+      "duration": 224
+    }
+  ]
+}

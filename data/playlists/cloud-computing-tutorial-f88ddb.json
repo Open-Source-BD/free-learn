@@ -1,0 +1,265 @@
+{
+  "courseId": "cloud-computing-tutorial-f88ddb",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:19:30.995Z",
+  "title": "Cloud Computing Tutorial",
+  "channel": "University Academy",
+  "videos": [
+    {
+      "id": "0rrDqBIP2qU",
+      "title": "CC1: Introduction to Cloud Computing | Definition of Cloud Computing | Cloud Computing  Architecture",
+      "duration": 662
+    },
+    {
+      "id": "mphoO_bxWy0",
+      "title": "CC2: Evolution of Cloud Computing | Distributed Computing | Cluster Computing | Grid Computing",
+      "duration": 754
+    },
+    {
+      "id": "x1Z-ZtdbDqM",
+      "title": "CC3: Components of Cloud Computing | Cloud Computing Architecture and Advantages",
+      "duration": 444
+    },
+    {
+      "id": "GLcVL53lC3U",
+      "title": "CC5: Deployment Models in Cloud Computing | Public, Private, Community, and Hybrid  Models",
+      "duration": 542
+    },
+    {
+      "id": "j8Aw8-hDBAM",
+      "title": "CC6: Deployment Models in Cloud Computing | Advantages and Disadvantages of Cloud Service Models",
+      "duration": 794
+    },
+    {
+      "id": "wwNad1EqJjo",
+      "title": "CC4: Cloud Computing  Service Models|Software as a Service (SaaS)|Platform as a Service (PaaS), IaaS",
+      "duration": 670
+    },
+    {
+      "id": "8GQ44gx3QN4",
+      "title": "CC7: Cloud Enabling Technologies| Virtualization | Types of Virtualization | Cloud Computing",
+      "duration": 612
+    },
+    {
+      "id": "sS8m9hQrOYg",
+      "title": "CC8: Virtualization in Cloud Computing | Need , Advantages and Disadvantages of Virtualization |",
+      "duration": 601
+    },
+    {
+      "id": "kfvupeMqPGw",
+      "title": "CC9: Virtualization Reference Model in Cloud Computing | Virtualization Structures",
+      "duration": 679
+    },
+    {
+      "id": "FLPFTImUM7E",
+      "title": "CC10: Types of Virtualization in cloud computing | Network, Storage, Server, Data Virtualization",
+      "duration": 1456
+    },
+    {
+      "id": "UAeAnAbIYZs",
+      "title": "CC11: Implementation Levels of Virtualization | Level of Virtualization in Cloud Computing",
+      "duration": 1172
+    },
+    {
+      "id": "bmufNyhqMhU",
+      "title": "CC12: Virtualization of CPU Memory and I/O Devices | Virtualization in Cloud Computing",
+      "duration": 640
+    },
+    {
+      "id": "zNLuH0NsMQE",
+      "title": "CC13: Virtualization of Memory | Memory Virtualization in Cloud Computing",
+      "duration": 748
+    },
+    {
+      "id": "HOE1pMMTx4E",
+      "title": "CC14: I/O Virtualization (IOV), or Input/Output Virtualization | Device and I/O Virtualization",
+      "duration": 922
+    },
+    {
+      "id": "QDgaQD3F6kA",
+      "title": "CC15: Service-Oriented Architecture (SOA) | SOA Architecture in Cloud Computing | SOA",
+      "duration": 602
+    },
+    {
+      "id": "-3gu6clLn8w",
+      "title": "CC16: Components of SOA in Cloud Computing | SOA Architecture | SOA Process Model",
+      "duration": 646
+    },
+    {
+      "id": "WMTElFeexno",
+      "title": "CC17: SOA Reference Model | SOA Reference Architecture Services Layer | SOA Layer Architecture",
+      "duration": 766
+    },
+    {
+      "id": "cS019N9MwIA",
+      "title": "CC18: Guiding Principles of SOA in Cloud Computing | SOA (Service Oriented Architecture) Principles",
+      "duration": 726
+    },
+    {
+      "id": "P8rIWqe8XE0",
+      "title": "CC19: Application of Service Oriented Architecture | Application of SOA in Cloud Computing",
+      "duration": 666
+    },
+    {
+      "id": "RXJ1tcsg5Sw",
+      "title": "CC20: Web Services in Cloud Computing | Configuring Web Services with WSDL, SOAP",
+      "duration": 541
+    },
+    {
+      "id": "AoimJr4WBac",
+      "title": "CC21: Working of Web Services in Cloud Computing | Configuring Web Services with WSDL, SOAP",
+      "duration": 608
+    },
+    {
+      "id": "CAFDO1pUvNs",
+      "title": "CC22: SOAP  in cloud computing | Simple Object Access Protocol | SOAP advantages and disadvantages",
+      "duration": 754
+    },
+    {
+      "id": "r8W8wbovsNg",
+      "title": "CC23 SOAP  Building Blocks  in cloud computing | Simple Object Access Protocol",
+      "duration": 398
+    },
+    {
+      "id": "4Wz7NCKzBx8",
+      "title": "CC24: Representational state transfer (REST) | REST in Cloud Computing",
+      "duration": 775
+    },
+    {
+      "id": "jN9Sit1sEPk",
+      "title": "CC25: Publisher Subscriber Model in Cloud Computing | Publisher-Subscriber Pattern",
+      "duration": 642
+    },
+    {
+      "id": "yta601HSuWw",
+      "title": "CC26: Layered Cloud Architecture Design | NIST Cloud Computing Reference Architecture",
+      "duration": 988
+    },
+    {
+      "id": "_SkSsWK-dio",
+      "title": "CC27: Cloud Computing Services | IaaS, PaaS, SaaS | Software as a Service Platform Architecture",
+      "duration": 713
+    },
+    {
+      "id": "JSR6nbMOFlQ",
+      "title": "CC28: Platform as a Service (paas) | Cloud Computing Services | IaaS, PaaS, SaaS",
+      "duration": 772
+    },
+    {
+      "id": "DsKeoqNgGCY",
+      "title": "CC29: Infrastructure as a service (IaaS) | Cloud Computing Services | IaaS, PaaS, SaaS",
+      "duration": 692
+    },
+    {
+      "id": "re-cV8re_-E",
+      "title": "CC30: Cloud Storage | Storage-as-a-Service | Advantages of Cloud Storage | Cloud Storage Providers",
+      "duration": 576
+    },
+    {
+      "id": "CDQIsUy1LbU",
+      "title": "CC31: Storage as a Service in Cloud Computing | Storage as a service (STaaS)",
+      "duration": 613
+    },
+    {
+      "id": "WX1neJWy7QM",
+      "title": "CC32: Cloud Storage Providers | Best Cloud Storage and File-Sharing Services for 2020",
+      "duration": 570
+    },
+    {
+      "id": "B5ywO7yU734",
+      "title": "CC33: Public vs Private vs Hybrid Cloud Explained | difference between public, private, hybrid cloud",
+      "duration": 752
+    },
+    {
+      "id": "EILbXdhkiAA",
+      "title": "CC34: Resource Management and Security in Cloud | Inter Cloud Resource Management",
+      "duration": 604
+    },
+    {
+      "id": "7Azrm1doKjc",
+      "title": "CC35: Resource Provisioning and Resource Provisioning Methods  in Cloud Computing",
+      "duration": 675
+    },
+    {
+      "id": "gXAW2nziZRQ",
+      "title": "CC36: Global Exchange of Cloud Resources | Cloud Computing Lecture by Arti Mam",
+      "duration": 619
+    },
+    {
+      "id": "-dUuot0bano",
+      "title": "CC37: Cloud Computing Security Overview  | Cloud Computing Security Issues and Challenges",
+      "duration": 790
+    },
+    {
+      "id": "D2Jdf7ZjN0w",
+      "title": "CC38: Categories of Cloud Computing Security | Types of Cloud Security | Saas , PaaS, IaaS Security",
+      "duration": 988
+    },
+    {
+      "id": "Dkr96EOm6qg",
+      "title": "CC39: Cloud Security Governance | Architecture of  Cloud Computing Security Governance",
+      "duration": 616
+    },
+    {
+      "id": "jdT3Pux7FqQ",
+      "title": "CC40: Cloud Security Governance Deployment Framework | Cloud computing security",
+      "duration": 777
+    },
+    {
+      "id": "Li0icMM9Tp0",
+      "title": "CC41 : Virtual Machine Security  in Cloud Computing | VM Security in Cloud",
+      "duration": 654
+    },
+    {
+      "id": "VPgMYASGhjw",
+      "title": "CC42: IAM Security Standards | Identity and access management (IAM) solutions",
+      "duration": 685
+    },
+    {
+      "id": "-7tuRJ1g74c",
+      "title": "CC43: : IAM Security Standards | Identity and access management (IAM) solutions Part-2",
+      "duration": 569
+    },
+    {
+      "id": "doF9codrMv0",
+      "title": "CC44: Cloud Technologies and Advancements | Mapreduce  Data Drocessing Tool | Hadoop - MapReduce",
+      "duration": 684
+    },
+    {
+      "id": "mKWTgl2l4Q4",
+      "title": "CC45: Apache Hadoop | Hadoop Framework Architecture | Hadoop Benefits",
+      "duration": 628
+    },
+    {
+      "id": "yTtnEGqeDCY",
+      "title": "CC46 : Virtual Box | Virtualbox Installation Windows 10 | Creating VM in Virtualbox",
+      "duration": 1016
+    },
+    {
+      "id": "QaZz2IHq_no",
+      "title": "CC47: Virtual Box | Virtualbox Installation Windows 10 | Creating VM in Virtualbox",
+      "duration": 727
+    },
+    {
+      "id": "e9Wfl5EaTC0",
+      "title": "CC48: Google App Engine | Google Cloud Platform Fundamentals Core Infrastructure",
+      "duration": 721
+    },
+    {
+      "id": "SyWYgYmtLB0",
+      "title": "CC49: Federation in the Cloud Computing | Federation Advantages and Disadvantages",
+      "duration": 815
+    },
+    {
+      "id": "3JHycxvQGEU",
+      "title": "CC50: Four Levels of Federation | Federated Services and Applications |  Federation in the Cloud",
+      "duration": 729
+    },
+    {
+      "id": "YNupPeSbIOA",
+      "title": "CC: Cloud Computing  Important Questions (Unit-Wise ) For AKTU  Semester Examination",
+      "duration": 736
+    }
+  ]
+}

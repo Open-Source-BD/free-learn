@@ -1,0 +1,105 @@
+{
+  "courseId": "tailwind-css-tutorial-d879b6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:50:35.719Z",
+  "title": "Tailwind CSS Tutorial",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "bxmDnn7lrnk",
+      "title": "Tailwind CSS Tutorial #1 - Intro & Setup",
+      "duration": 821
+    },
+    {
+      "id": "3ZMUgga6SsY",
+      "title": "Tailwind CSS Tutorial #2 - HTML Template",
+      "duration": 602
+    },
+    {
+      "id": "w0KZhi3DD-0",
+      "title": "Tailwind CSS Tutorial #3 - Fonts & Colors",
+      "duration": 523
+    },
+    {
+      "id": "1g4W2U-l350",
+      "title": "Tailwind CSS Tutorial #4 - Margin, Padding & Borders",
+      "duration": 425
+    },
+    {
+      "id": "6UVQlB1eo5A",
+      "title": "Tailwind CSS Tutorial #5 - Tailwind Config",
+      "duration": 676
+    },
+    {
+      "id": "arfDRUIZOiw",
+      "title": "Tailwind CSS Tutorial #6 - Custom Fonts",
+      "duration": 245
+    },
+    {
+      "id": "WK6u8YDYqak",
+      "title": "Tailwind CSS Tutorial #7 - Using Flexbox",
+      "duration": 401
+    },
+    {
+      "id": "VYFjvMfVv2o",
+      "title": "Tailwind CSS Tutorial #8 - Responsive Classes",
+      "duration": 345
+    },
+    {
+      "id": "vqKie-xmcFs",
+      "title": "Tailwind CSS Tutorial #9 - Cards",
+      "duration": 411
+    },
+    {
+      "id": "cY0XJY98d3w",
+      "title": "Tailwind CSS Tutorial #10 - Badges",
+      "duration": 217
+    },
+    {
+      "id": "somWrB-wumY",
+      "title": "Tailwind CSS Tutorial #11 - @apply Directive",
+      "duration": 227
+    },
+    {
+      "id": "_r2qB44o_Fs",
+      "title": "Tailwind CSS Tutorial #12 - Grids",
+      "duration": 409
+    },
+    {
+      "id": "kMiMlB5PZRM",
+      "title": "Tailwind CSS Tutorial #13 - Buttons",
+      "duration": 284
+    },
+    {
+      "id": "aNmBiqK2uQ0",
+      "title": "Tailwind CSS Tutorial #14 - Icons",
+      "duration": 322
+    },
+    {
+      "id": "t19h2Ki_DUw",
+      "title": "Tailwind CSS Tutorial #15 - Hover Effects",
+      "duration": 225
+    },
+    {
+      "id": "Yn7C8MI6ymo",
+      "title": "Tailwind CSS Tutorial #16 - Responsive Nav (part 1)",
+      "duration": 290
+    },
+    {
+      "id": "kdF-OVtBtHU",
+      "title": "Tailwind CSS Tutorial #17 - Responsive Nav (part 2)",
+      "duration": 435
+    },
+    {
+      "id": "0zA6GZa2ZKc",
+      "title": "Tailwind CSS Tutorial #18 - Transitions",
+      "duration": 229
+    },
+    {
+      "id": "LqSOFdSupks",
+      "title": "Tailwind CSS Tutorial #19 - Wrap Up",
+      "duration": 102
+    }
+  ]
+}

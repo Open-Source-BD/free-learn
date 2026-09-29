@@ -1,0 +1,55 @@
+{
+  "courseId": "pokedex-app-with-jetpack-compose-e988ce",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:08.700Z",
+  "title": "Pokédex App with Jetpack Compose",
+  "channel": "Philipp Lackner",
+  "videos": [
+    {
+      "id": "v0of23TxIKc",
+      "title": "MVVM Pokédex App with Jetpack Compose - Android Studio Tutorial - Part 1",
+      "duration": 1131
+    },
+    {
+      "id": "aaChg9aJDW4",
+      "title": "Retrofit Setup - MVVM Pokédex App with Jetpack Compose - Part 2",
+      "duration": 1303
+    },
+    {
+      "id": "O6k5Q2LoL0k",
+      "title": "SearchBar & PokémonListScreen - Pokédex App With Jetpack Compose - Part 3",
+      "duration": 881
+    },
+    {
+      "id": "D06EV3PngJY",
+      "title": "Pokédex List Entries & PokémonListViewModel - Pokédex App With Jetpack Compose - Part 4",
+      "duration": 1171
+    },
+    {
+      "id": "jrIfGAk8PyQ",
+      "title": "Paginating Pokémon List - Pokédex App With Jetpack Compose - Part 5",
+      "duration": 1328
+    },
+    {
+      "id": "X4Y63Cw9Gmw",
+      "title": "Bug fix & Searching Pokémon - MVVM Pokédex App with Jetpack Compose - Part 6",
+      "duration": 826
+    },
+    {
+      "id": "FgJLP-VIiRA",
+      "title": "Pokémon Detail Screen (1) - MVVM Pokédex App With Jetpack Compose - Part 7",
+      "duration": 1410
+    },
+    {
+      "id": "18N-5MJlPKY",
+      "title": "Pokémon Detail Screen (2) - MVVM Pokédex App With Jetpack Compose - Part 8",
+      "duration": 1132
+    },
+    {
+      "id": "UR-lrDimmPI",
+      "title": "Pokémon Detail Screen (3) - MVVM Pokédex App With Jetpack Compose - Part 9",
+      "duration": 1031
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "courseId": "c-plus-plus-programming-language-c-plus-plus-tutorial-5c9f95",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:42.556Z",
+  "title": "C++ Programming Language | C++ Tutorial",
+  "channel": "Naresh i Technologies",
+  "videos": [
+    {
+      "id": "l0qvxPPISuY",
+      "title": "C++ Introduction | C ++ Tutorial | Mr. Kishore",
+      "duration": 1576
+    },
+    {
+      "id": "7BVt6OGfVfQ",
+      "title": "Object Oriented Programming Part 1 | C ++ Tutorial | Mr. Kishore",
+      "duration": 1095
+    },
+    {
+      "id": "5Y74odV3IAI",
+      "title": "Features of Object Oriented Programming Part 2 | C ++ Tutorial | Mr. Kishore",
+      "duration": 1593
+    },
+    {
+      "id": "_cbfR690u74",
+      "title": "Object Oriented Programming Features Part 3 | C ++ Tutorial | Mr. Kishore",
+      "duration": 1836
+    },
+    {
+      "id": "mgU_ZAX7Gbs",
+      "title": "Object Oriented Programming Features Part 4 | C ++ Tutorial | Mr. Kishore",
+      "duration": 895
+    },
+    {
+      "id": "nmq3PkD1gEU",
+      "title": "Object Oriented Programming Features Part 5 | C ++ Tutorial | Mr. Kishore",
+      "duration": 1276
+    },
+    {
+      "id": "2DirmQuogsY",
+      "title": "History of C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1163
+    },
+    {
+      "id": "pci97hk17rM",
+      "title": "Cout in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 286
+    },
+    {
+      "id": "HvhxbpJYNM0",
+      "title": "Cin in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1293
+    },
+    {
+      "id": "ALXaZ3A5rNs",
+      "title": "Cout and Cin in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 672
+    },
+    {
+      "id": "l6rZ2YSQrh0",
+      "title": "Manipulators In C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1605
+    },
+    {
+      "id": "-0Wo4v0g_pY",
+      "title": "Dynamic Memory Allocation in C++ Part 1  | C ++ Tutorial | Mr. Kishore",
+      "duration": 1589
+    },
+    {
+      "id": "CHTuOKmXQ9s",
+      "title": "Dynamic Memory Allocation in C++ Part 2  | C ++ Tutorial | Mr. Kishore",
+      "duration": 929
+    },
+    {
+      "id": "jyAyzvOvL-I",
+      "title": "Reference data type in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1381
+    },
+    {
+      "id": "uxhaXnk3FOs",
+      "title": "Function with default arguments in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1296
+    },
+    {
+      "id": "W1f3TelobMg",
+      "title": "Structure and Class differences in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 767
+    },
+    {
+      "id": "FslMc6k-ZB0",
+      "title": "C++ Structure example | C ++ Tutorial | Mr. Kishore",
+      "duration": 839
+    },
+    {
+      "id": "GOYEMyCoHCE",
+      "title": "Class Introduction | C ++ Tutorial | Mr. Kishore",
+      "duration": 628
+    },
+    {
+      "id": "QmZuerApkOk",
+      "title": "Class Declaration in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1095
+    },
+    {
+      "id": "cLd1IwWCXZc",
+      "title": "Class Member Function Definition | C ++ Tutorial | Mr. Kishore",
+      "duration": 1132
+    },
+    {
+      "id": "ss7NJ1r6XTA",
+      "title": "Class Member Function Definition with Example | C ++ Tutorial | Mr. Kishore",
+      "duration": 584
+    },
+    {
+      "id": "LGGm8hqn9Z4",
+      "title": "Member Function with Arguments | C ++ Tutorial | Mr. Kishore",
+      "duration": 701
+    },
+    {
+      "id": "dAKEmNxicDU",
+      "title": "Member Function with Arguments and return values | C ++ Tutorial | Mr. Kishore",
+      "duration": 596
+    },
+    {
+      "id": "FJA1Dnkurjo",
+      "title": "Passing class type Parameters (Objects) to member Functions | C ++ Tutorial | Mr. Kishore",
+      "duration": 574
+    },
+    {
+      "id": "wA8LriKDBAI",
+      "title": "This Pointer in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 787
+    },
+    {
+      "id": "8AT9JPS79ug",
+      "title": "Accessing Private member functions in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 535
+    },
+    {
+      "id": "3S_Dxf4e8Lw",
+      "title": "Member Function with class type return value (Object) | C ++ Tutorial | Mr. Kishore",
+      "duration": 885
+    },
+    {
+      "id": "Hu2tePjqcZ4",
+      "title": "Array of Objects in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 967
+    },
+    {
+      "id": "qvtEl-HCwXc",
+      "title": "Using Array Inside Class | C ++ Tutorial | Mr. Kishore",
+      "duration": 982
+    },
+    {
+      "id": "PVrnazUTMm4",
+      "title": "Constructor Introduction, Default Constructor in C++ | C ++ Tutorial | Mr. Kishore",
+      "duration": 1177
+    },
+    {
+      "id": "OmqTPFCdC-w",
+      "title": "Constructor Overloading Example-1 | C++ Tutorial | Mr. Kishore",
+      "duration": 880
+    },
+    {
+      "id": "V9sWulrIgl0",
+      "title": "Constructor Overloading Example-2 | C++ Tutorial | Mr. Kishore",
+      "duration": 967
+    },
+    {
+      "id": "FDnvm5QAo1A",
+      "title": "Destructor in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 807
+    },
+    {
+      "id": "dcWTU5uRZrc",
+      "title": "Copy Constructor in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 853
+    },
+    {
+      "id": "eQ9jj76eaqk",
+      "title": "Constructor with Default Arguments | C++ Tutorial | Mr. Kishore",
+      "duration": 661
+    },
+    {
+      "id": "V-uIlFcTGdg",
+      "title": "Friend Function in C++ Part 1 | C++ Tutorial | Mr. Kishore",
+      "duration": 1058
+    },
+    {
+      "id": "JY_tXO-wppk",
+      "title": "Friend Function in C++ Part 2 | C++ Tutorial | Mr. Kishore",
+      "duration": 513
+    },
+    {
+      "id": "noRJK8wU3BI",
+      "title": "Friend Class in C++ Example 1 | C++ Tutorial | Mr. Kishore",
+      "duration": 905
+    },
+    {
+      "id": "6jN_EVogZAA",
+      "title": "Friend Class in C++ Example 2 (Composition) | C++ Tutorial | Mr. Kishore",
+      "duration": 651
+    },
+    {
+      "id": "0ToUv0Mu3Qs",
+      "title": "Static Data Members Example 1 | C++ Tutorial | Mr. Kishore",
+      "duration": 736
+    },
+    {
+      "id": "ms0oEkpOr1w",
+      "title": "Static Data Members Example 2 | C++ Tutorial | Mr. Kishore",
+      "duration": 616
+    },
+    {
+      "id": "Yas2j1_xlOU",
+      "title": "Static Member Functions | C++ Tutorial | Mr. Kishore",
+      "duration": 1011
+    },
+    {
+      "id": "lZjh-G8bt6g",
+      "title": "Constant Members in Class | C++ Tutorial | Mr. Kishore",
+      "duration": 1204
+    },
+    {
+      "id": "vx-zQv6t8UY",
+      "title": "Operator Overloading in C++ Example 1 | C++ Tutorial | Mr. Kishore",
+      "duration": 1908
+    },
+    {
+      "id": "IN9bGoRjlBs",
+      "title": "Operator Overloading in C++ Example 2 | C++ Tutorial | Mr. Kishore",
+      "duration": 997
+    },
+    {
+      "id": "Wyf52VN3lQA",
+      "title": "Overloading Unary Operator in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 879
+    },
+    {
+      "id": "PoD10qspKrM",
+      "title": "Operator Overloading using Friend in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 946
+    },
+    {
+      "id": "wElBXMmgWzM",
+      "title": "Overloading Insertion and  Extraction Operator in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 1015
+    },
+    {
+      "id": "8fDao3MBbwk",
+      "title": "Introduction to Inheritance in C++ Part 1 | C++ Tutorial | Mr. Kishore",
+      "duration": 573
+    },
+    {
+      "id": "p75VeBnqmyQ",
+      "title": "Introduction to Inheritance Part 2 | C++ Tutorial | Mr. Kishore",
+      "duration": 868
+    },
+    {
+      "id": "rWT1TBYTwpc",
+      "title": "Single Level Inheritance in public & private Visibility Modes | C++ Tutorial | Mr. Kishore",
+      "duration": 720
+    },
+    {
+      "id": "9koINmwq6a8",
+      "title": "Multiple Inheritance in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 1098
+    },
+    {
+      "id": "R7uJLNq4Zls",
+      "title": "Multilevel Inheritance in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 596
+    },
+    {
+      "id": "NIrWSggUUds",
+      "title": "Hierarchical Inheritance in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 610
+    },
+    {
+      "id": "TnC2iDaHnTE",
+      "title": "Hybrid Inheritance in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 789
+    },
+    {
+      "id": "Fva8M10oGoA",
+      "title": "Default Constructors in Inheritance | C++ Tutorial | Mr. Kishore",
+      "duration": 796
+    },
+    {
+      "id": "ABRn25V0C6A",
+      "title": "Destructors in Inheritance | C++ Tutorial | Mr. Kishore",
+      "duration": 532
+    },
+    {
+      "id": "UtZUkmMZTCw",
+      "title": "Parameterized Constructors in Inheritance | C++ Tutorial | Mr. Kishore",
+      "duration": 1165
+    },
+    {
+      "id": "i7IAXn7TMio",
+      "title": "Virtual class in C++ | C++ Tutorial | Mr. Kishore",
+      "duration": 953
+    },
+    {
+      "id": "oS3N7KTZzVs",
+      "title": "Pure Virtual function, Abstract base class | C ++ Tutorial | Mr. Kishore",
+      "duration": 1055
+    },
+    {
+      "id": "04uRHxonfxo",
+      "title": "Destructors in Inheritance | C ++ Tutorial | Mr. Kishore",
+      "duration": 431
+    },
+    {
+      "id": "3InUMCqviv0",
+      "title": "Virtual Destructors | C ++ Tutorial | Mr. Kishore",
+      "duration": 532
+    },
+    {
+      "id": "C0mYp-l-XsM",
+      "title": "Local Class | C ++ Tutorial | Mr. Kishore",
+      "duration": 599
+    },
+    {
+      "id": "8XTMa3GhZwg",
+      "title": "Templates or Generics Part 1 | C ++ Tutorial | Mr. Kishore",
+      "duration": 726
+    },
+    {
+      "id": "6ehVekmFXGw",
+      "title": "Templates or Generics Part 2 | C ++ Tutorial | Mr. Kishore",
+      "duration": 654
+    },
+    {
+      "id": "xJJnycYjZIE",
+      "title": "Templates or Generics Part 3 | C ++ Tutorial | Mr. Kishore",
+      "duration": 812
+    },
+    {
+      "id": "bM2NoUjXk-0",
+      "title": "Templates or Generics in C++ Part 4 | C ++ Tutorial | Mr. Kishore",
+      "duration": 665
+    },
+    {
+      "id": "rxu0QnYZPiE",
+      "title": "Templates or Generics in C++ Part 5 | C ++ Tutorial | Mr. Kishore",
+      "duration": 992
+    },
+    {
+      "id": "p-yMXd7q8p8",
+      "title": "Exception Handling in C++ Part-1 | C ++ Tutorial | Mr. Kishore",
+      "duration": 986
+    },
+    {
+      "id": "08lp4Kjl-ZE",
+      "title": "Exception Handling in C++ Part-2 | C ++ Tutorial | Mr. Kishore",
+      "duration": 778
+    },
+    {
+      "id": "I3Nh-lU-mjg",
+      "title": "Exception Handling in C++ Part-3 | C ++ Tutorial | Mr. Kishore",
+      "duration": 569
+    },
+    {
+      "id": "Q0mH6CpjXaI",
+      "title": "Exception Handling in C++ Part-4 | C ++ Tutorial | Mr. Kishore",
+      "duration": 213
+    },
+    {
+      "id": "JdQiOgaVn50",
+      "title": "Exception Handling in C++ Part-5 Base class and class | C ++ Tutorial | Mr. Kishore",
+      "duration": 658
+    },
+    {
+      "id": "t6eW5_nCSi0",
+      "title": "Exception Handling in C++ Part-6 Nested Try block | C ++ Tutorial | Mr. Kishore",
+      "duration": 404
+    },
+    {
+      "id": "YAcvYwScL0E",
+      "title": "Exception Handling in C++ Part-7 File Operations | C ++ Tutorial | Mr. Kishore",
+      "duration": 666
+    },
+    {
+      "id": "CXxggQQez6k",
+      "title": "File Handling in C++ Part 1 | C++ Tutorials | Mr.Kishore",
+      "duration": 749
+    },
+    {
+      "id": "3LLGDvKAEwI",
+      "title": "File Handling in C++ Part 2 | C++ Tutorials | Mr.Kishore",
+      "duration": 1017
+    },
+    {
+      "id": "QOWilc0P124",
+      "title": "File Handling in C++ Part 3 | C++ Tutorials | Mr.Kishore",
+      "duration": 539
+    },
+    {
+      "id": "go4R0hEeOJs",
+      "title": "File Handling in C++ Part 4 | C++ Tutorials | Mr.Kishore",
+      "duration": 665
+    }
+  ]
+}

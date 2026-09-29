@@ -1,0 +1,70 @@
+{
+  "courseId": "object-oriented-php-for-beginners-3a2df1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:58:50.927Z",
+  "title": "Object Oriented PHP",
+  "channel": "Code With Dary",
+  "videos": [
+    {
+      "id": "CopZs0_y6ZA",
+      "title": "What Is Object-Oriented PHP? | Object-Oriented PHP For Beginners | PHP Tutorials",
+      "duration": 379
+    },
+    {
+      "id": "gs6qc3VuUAY",
+      "title": "Classes, Properties & Methods | Introduction To Object-Oriented PHP | PHP Tutorials",
+      "duration": 464
+    },
+    {
+      "id": "ISacA3ps5ms",
+      "title": "What Are Access Modifiers? | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 265
+    },
+    {
+      "id": "uEONKeZzY_Q",
+      "title": "What Is Class Inheritance? | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 520
+    },
+    {
+      "id": "MZ4UPzjwTWQ",
+      "title": "Constructor & Deconstructor | Introduction To Object-Oriented PHP | PHP Tutorials",
+      "duration": 447
+    },
+    {
+      "id": "Yc3XmenjZZ4",
+      "title": "Getters & Setters | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 556
+    },
+    {
+      "id": "S0prpWk4UoM",
+      "title": "Static Properties & Methods In OOP PHP | Introduction To Object-Oriented PHP | PHP Tutorials",
+      "duration": 402
+    },
+    {
+      "id": "Lsbs4XFZTXE",
+      "title": "Abstract Classes & Methods | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 276
+    },
+    {
+      "id": "m5EAo0E1tE0",
+      "title": "toString Method In OOP PHP | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 252
+    },
+    {
+      "id": "GIV5-CS9jog",
+      "title": "What Is The Final Method & Class? | Introduction To Object-Oriented PHP | PHP Tutorials",
+      "duration": 290
+    },
+    {
+      "id": "gRrhBwW8wcY",
+      "title": "What Is PDO? | Introduction To Object-Oriented PHP | OOP For Beginners | PHP Tutorials",
+      "duration": 785
+    },
+    {
+      "id": "-cXiECiJOHY",
+      "title": "What Is MVC? | MVC Explained In 3 Minutes |Introduction To Object-Oriented PHP| PHP Tutorials",
+      "duration": 190
+    }
+  ]
+}

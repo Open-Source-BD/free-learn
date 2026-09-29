@@ -1,0 +1,605 @@
+{
+  "courseId": "advance-python-hindi-a1a79c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:50.622Z",
+  "title": "Advance Python (Hindi)",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "jdXXA5l3KzE",
+      "title": "Requirements before Learning Advance Python (Hindi)",
+      "duration": 100
+    },
+    {
+      "id": "Xja5xrGvHHY",
+      "title": "Download Advance Python Study Material PPT and Code",
+      "duration": 338
+    },
+    {
+      "id": "J6WBLSde7nQ",
+      "title": "What is Object Oriented Programming (Hindi)",
+      "duration": 158
+    },
+    {
+      "id": "FshQqituMes",
+      "title": "What is Encapsulation (Hindi)",
+      "duration": 364
+    },
+    {
+      "id": "I4UdFeXykpo",
+      "title": "What is Abstraction (Hindi)",
+      "duration": 224
+    },
+    {
+      "id": "bAOUGGxbGdY",
+      "title": "What is Inheritance (Hindi)",
+      "duration": 294
+    },
+    {
+      "id": "BQZ9EwoX5Ss",
+      "title": "What is Polymorphism (Hindi)",
+      "duration": 289
+    },
+    {
+      "id": "53dkdz4jndg",
+      "title": "Class and Object in Python (Hindi)",
+      "duration": 3157
+    },
+    {
+      "id": "wDGGQml2zhI",
+      "title": "Constructor in Python (Hindi)",
+      "duration": 795
+    },
+    {
+      "id": "rKIcbfJOnLY",
+      "title": "Instance Variable in Python (Hindi)",
+      "duration": 811
+    },
+    {
+      "id": "V1rJ1ntWOf0",
+      "title": "Class Variable or Static Variable in Python (Hindi)",
+      "duration": 951
+    },
+    {
+      "id": "vAhA7vaLo_o",
+      "title": "Namespace in Python (Hindi)",
+      "duration": 558
+    },
+    {
+      "id": "b-ExgVmFxmg",
+      "title": "Instance Method in Python (Hindi)",
+      "duration": 831
+    },
+    {
+      "id": "eWQaO_jZnKc",
+      "title": "Accessor or Getter Method and Mutator or Setter Method in Python (Hindi)",
+      "duration": 568
+    },
+    {
+      "id": "JGN-fpH5Gro",
+      "title": "Class Method in Python (Hindi)",
+      "duration": 976
+    },
+    {
+      "id": "DTAI7Lk6nt0",
+      "title": "Static Method in Python (Hindi)",
+      "duration": 650
+    },
+    {
+      "id": "cvRB7jGZ26A",
+      "title": "Passing Member of one Class to another Class in Python (Hindi)",
+      "duration": 472
+    },
+    {
+      "id": "xm-ToxgPNRU",
+      "title": "Nested Class in Python (Hindi)",
+      "duration": 914
+    },
+    {
+      "id": "ZDd-hNawRbY",
+      "title": "Inheritance in Python (Hindi)",
+      "duration": 577
+    },
+    {
+      "id": "1o3sD_j_Bnk",
+      "title": "Why do we need Inheritance in Python (Hindi)",
+      "duration": 559
+    },
+    {
+      "id": "7vAJGN9o_SQ",
+      "title": "Single Inheritance in Python (Hindi)",
+      "duration": 1198
+    },
+    {
+      "id": "oiF60qzLjXU",
+      "title": "Constructor in Inheritance in Python (Hindi)",
+      "duration": 555
+    },
+    {
+      "id": "lQUrBI-lecY",
+      "title": "Constructor Overriding in Python (Hindi)",
+      "duration": 729
+    },
+    {
+      "id": "k64B3DuD97w",
+      "title": "Constructor with Super Method or Call Parent Class Constructor in Child Class in Python (Hindi)",
+      "duration": 789
+    },
+    {
+      "id": "ZLoBqAYvNr0",
+      "title": "Multilevel Inheritance in Python (Hindi)",
+      "duration": 1486
+    },
+    {
+      "id": "EtpIjTbM4no",
+      "title": "Hierarchical Inheritance in Python (Hindi)",
+      "duration": 1094
+    },
+    {
+      "id": "rYUGnVPOih4",
+      "title": "Multiple Inheritance and Method Resolution Order in Python (Hindi)",
+      "duration": 1486
+    },
+    {
+      "id": "7oPy6yn9TdM",
+      "title": "Polymorphism in Python (Hindi)",
+      "duration": 87
+    },
+    {
+      "id": "1YgeU5Afmro",
+      "title": "Duck Typing in Python (Hindi)",
+      "duration": 836
+    },
+    {
+      "id": "v1QRsIJhoRQ",
+      "title": "Strong Typing in Python (Hindi)",
+      "duration": 532
+    },
+    {
+      "id": "Mqa2VScXNBw",
+      "title": "Method Overloading in Python (Hindi)",
+      "duration": 844
+    },
+    {
+      "id": "8xtVEDgoLWE",
+      "title": "Method Overriding and Method with super in Python (Hindi)",
+      "duration": 828
+    },
+    {
+      "id": "pCFPYQGPCvs",
+      "title": "Operator Overloading in Python (Hindi)",
+      "duration": 802
+    },
+    {
+      "id": "biz8CDpIt9w",
+      "title": "Module in Python (Hindi)",
+      "duration": 4882
+    },
+    {
+      "id": "0-Kh2vmSPWU",
+      "title": "Package in Python (Hindi)",
+      "duration": 5181
+    },
+    {
+      "id": "yPzCYDy7yCo",
+      "title": "Abstract Class Abstract Method and Concrete Method in Python (Hindi)",
+      "duration": 1783
+    },
+    {
+      "id": "l51kEMJ4u2Q",
+      "title": "Interface in Python (Hindi)",
+      "duration": 1039
+    },
+    {
+      "id": "SE6Y_6n9I58",
+      "title": "Difference between Abstract Class and Interface in Python (Hindi)",
+      "duration": 229
+    },
+    {
+      "id": "HL7-TExjAzo",
+      "title": "time Module in Python (Hindi)",
+      "duration": 705
+    },
+    {
+      "id": "6cMmGDoN1Fo",
+      "title": "datetime Class in Python (Hindi)",
+      "duration": 733
+    },
+    {
+      "id": "pAkTz2aOoiU",
+      "title": "date class in Python (Hindi)",
+      "duration": 262
+    },
+    {
+      "id": "ch2rpEIyAUc",
+      "title": "time Class in Python (Hindi)",
+      "duration": 201
+    },
+    {
+      "id": "24um_m4C2lc",
+      "title": "timedelta Class in Python (Hindi)",
+      "duration": 355
+    },
+    {
+      "id": "Lbbn767-Wes",
+      "title": "Comparing Two Dates in Python (Hindi)",
+      "duration": 271
+    },
+    {
+      "id": "mXFa3Rnpuws",
+      "title": "Formatting Date and Time in Python (Hindi)",
+      "duration": 651
+    },
+    {
+      "id": "YCcnEnv5DIs",
+      "title": "sleep Method in Python (Hindi)",
+      "duration": 214
+    },
+    {
+      "id": "u_MfmgPEnVk",
+      "title": "How to Calculate age in Python (Hindi)",
+      "duration": 267
+    },
+    {
+      "id": "EoclstYvg7k",
+      "title": "Multitasking in Python (Hindi)",
+      "duration": 486
+    },
+    {
+      "id": "pZq3trxavlk",
+      "title": "Thread and Multithreading in Python (Hindi)",
+      "duration": 422
+    },
+    {
+      "id": "n-dmqNvzObE",
+      "title": "Main Thread in Python (Hindi)",
+      "duration": 223
+    },
+    {
+      "id": "6gsxe5jyT7A",
+      "title": "Creating a Thread without using a Class in Python (Hindi)",
+      "duration": 1322
+    },
+    {
+      "id": "mBoO6aD-XwA",
+      "title": "Set and Get Thread Name in Python (Hindi)",
+      "duration": 1043
+    },
+    {
+      "id": "6WkbQIemhIE",
+      "title": "Creating a Thread by creating Child Class to Thread Class in Python (Hindi)",
+      "duration": 654
+    },
+    {
+      "id": "PwraxQyWadQ",
+      "title": "Thread Child Class with Constructor in Python (Hindi)",
+      "duration": 314
+    },
+    {
+      "id": "1hd1_LI-rgs",
+      "title": "Creating a Thread without Creating Child Class to Thread Class in Python (Hindi)",
+      "duration": 339
+    },
+    {
+      "id": "OYbcqsLtIRo",
+      "title": "Single Tasking using a Thread in Python (Hindi)",
+      "duration": 262
+    },
+    {
+      "id": "hodgpdfncsQ",
+      "title": "Multitasking using Multiple Thread in Python (Hindi)",
+      "duration": 779
+    },
+    {
+      "id": "syUkQ92GaTE",
+      "title": "Thread Race Condition in Python (Hindi)",
+      "duration": 1218
+    },
+    {
+      "id": "oeSo0R3GTnA",
+      "title": "Thread Synchronization Lock in Python (Hindi)",
+      "duration": 1280
+    },
+    {
+      "id": "qX9ovYD9-JY",
+      "title": "Thread Synchronization RLock in Python (Hindi)",
+      "duration": 475
+    },
+    {
+      "id": "20EexRJrnj0",
+      "title": "Thread Synchronization Semaphore and BoundedSemaphore in Python (Hindi)",
+      "duration": 982
+    },
+    {
+      "id": "esUgSSFIEXA",
+      "title": "Thread Communication Event in Python (Hindi)",
+      "duration": 925
+    },
+    {
+      "id": "z_NUAa6SbyI",
+      "title": "Thread Communication Condition in Python (Hindi)",
+      "duration": 714
+    },
+    {
+      "id": "d6UacAYAtZs",
+      "title": "Thread Communication Queue in Python (Hindi)",
+      "duration": 706
+    },
+    {
+      "id": "lmjOkvvLVgU",
+      "title": "Daemon Thread in Python (Hindi)",
+      "duration": 2911
+    },
+    {
+      "id": "LfHv73-BeCA",
+      "title": "What is File and File Handling in Python (Hindi)",
+      "duration": 676
+    },
+    {
+      "id": "B7eZDYR6Uw8",
+      "title": "Text Mode and Binary Mode in Python (Hindi)",
+      "duration": 454
+    },
+    {
+      "id": "04qmzwg6VvI",
+      "title": "Opening a File in Python (Hindi)",
+      "duration": 775
+    },
+    {
+      "id": "v-9lvCfpeLE",
+      "title": "Text File Modes and Binary File Modes in Python (Hindi)",
+      "duration": 446
+    },
+    {
+      "id": "OecKMfjx1z4",
+      "title": "Closing a File in Python (Hindi)",
+      "duration": 351
+    },
+    {
+      "id": "LMvHsyurJFE",
+      "title": "File Object Variables in Python (Hindi)",
+      "duration": 1233
+    },
+    {
+      "id": "nWJdfKlpdrY",
+      "title": "Check File exists or not in Python (Hindi)",
+      "duration": 335
+    },
+    {
+      "id": "3HetyOoLXCQ",
+      "title": "Writing Data to File using write Method in Python (Hindi)",
+      "duration": 904
+    },
+    {
+      "id": "pM9Gp4c6j7g",
+      "title": "Writing Data to File using wirtelines Method in Python (Hindi)",
+      "duration": 358
+    },
+    {
+      "id": "HLEPMifjsJ4",
+      "title": "Reading Data from File using read Method in Python (Hindi)",
+      "duration": 418
+    },
+    {
+      "id": "xZuEiGNdNTQ",
+      "title": "Reading Data from file using readline and readlines Method in Python (Hindi)",
+      "duration": 354
+    },
+    {
+      "id": "gkMCf_b_2DE",
+      "title": "tell and seek Method in Python (Hindi)",
+      "duration": 722
+    },
+    {
+      "id": "e4VPjkd-QA4",
+      "title": "File Mode r+ w+ a+ in Python (Hindi)",
+      "duration": 1281
+    },
+    {
+      "id": "0T2n6RZJkHE",
+      "title": "How to Copy File Contents in Python (Hindi)",
+      "duration": 218
+    },
+    {
+      "id": "Ab02zyUZIgc",
+      "title": "with Statement in Python (Hindi)",
+      "duration": 203
+    },
+    {
+      "id": "yo24I2OAmgw",
+      "title": "Pickling and Unpickling in Python (Hindi)",
+      "duration": 2374
+    },
+    {
+      "id": "KdQ0RcnbpRk",
+      "title": "Directory in Python (Hindi)",
+      "duration": 1367
+    },
+    {
+      "id": "REfSPTTRgY0",
+      "title": "Introduction to Database in Python (Hindi)",
+      "duration": 686
+    },
+    {
+      "id": "LZh_MTlobdM",
+      "title": "How to Download and Install MySQL and Python Connector (Hindi)",
+      "duration": 1646
+    },
+    {
+      "id": "tYO5CwG7N3Y",
+      "title": "How to Create Check and Close Database Connection in Python (Hindi)",
+      "duration": 1628
+    },
+    {
+      "id": "vjOstWt1Bzg",
+      "title": "How to Create and Show Database in Python (Hindi)",
+      "duration": 1136
+    },
+    {
+      "id": "j0BocxuFkMQ",
+      "title": "How to make Connection to Database in Python (Hindi)",
+      "duration": 261
+    },
+    {
+      "id": "lNLRFg_4hiQ",
+      "title": "How to Create and Show Database Tables in Python (Hindi)",
+      "duration": 600
+    },
+    {
+      "id": "t4-kfqH_enk",
+      "title": "How to Insert Data in Table in Python (Hindi)",
+      "duration": 981
+    },
+    {
+      "id": "RRohvuInAQs",
+      "title": "rowcount Property in Python (Hindi)",
+      "duration": 226
+    },
+    {
+      "id": "rViTsJZT2zE",
+      "title": "lastrowid Property in Python (Hindi)",
+      "duration": 403
+    },
+    {
+      "id": "dK2Vy7Mj3ew",
+      "title": "How to Delete Data from Table in Python (Hindi)",
+      "duration": 243
+    },
+    {
+      "id": "7-aFsY7V1WI",
+      "title": "How to Update Data in Table in Python (Hindi)",
+      "duration": 187
+    },
+    {
+      "id": "uoqfrFPKqYk",
+      "title": "How to Fetch Data from Table using fetchone Method in Python (Hindi)",
+      "duration": 724
+    },
+    {
+      "id": "NimttaPNgkE",
+      "title": "How to fetch Data from Table using fetchall Method in Python (Hindi)",
+      "duration": 436
+    },
+    {
+      "id": "MAC_zXa88xM",
+      "title": "How to Fetch Data from Table using fetchmany Method (Hindi)",
+      "duration": 444
+    },
+    {
+      "id": "xW6w7LTnDp4",
+      "title": "How to Fetch Data from Table with WHERE Clause in Python (Hindi)",
+      "duration": 389
+    },
+    {
+      "id": "SVpFxmsjM3Q",
+      "title": "Parameterized Query in Python (Hindi)",
+      "duration": 470
+    },
+    {
+      "id": "RHIck65VtGE",
+      "title": "How to Insert Data into Table Parameterized Query Tuple in Python (Hindi)",
+      "duration": 333
+    },
+    {
+      "id": "j_U3sP4-Pcg",
+      "title": "Insert Data into Table using executemany Parameterized Query Tuple in Python (Hindi)",
+      "duration": 374
+    },
+    {
+      "id": "jdHrBQC20sE",
+      "title": "Input from user into Table Parameterized Query Tuple in Python (Hindi)",
+      "duration": 871
+    },
+    {
+      "id": "2pjHV83FPDs",
+      "title": "How to Insert Data into Table Parameterized Query Dictionary in Python (Hindi)",
+      "duration": 541
+    },
+    {
+      "id": "_BE0Lpp8mBw",
+      "title": "Insert Data into Table using executemany Parameterized Query Dictionary in Python (Hindi)",
+      "duration": 278
+    },
+    {
+      "id": "_FxBX6U0QWU",
+      "title": "Input from user into Table Parameterized Query Dictionary in Python (Hindi)",
+      "duration": 757
+    },
+    {
+      "id": "hj5_8fDwo64",
+      "title": "How to Delete Data from Table Parameterized Query in Python (Hindi)",
+      "duration": 421
+    },
+    {
+      "id": "REeM-fhP75I",
+      "title": "How to Update Data in Table Parameterized Query in Python (Hindi)",
+      "duration": 935
+    },
+    {
+      "id": "-1M-FmqEaZk",
+      "title": "Retrieve Single Row with WHERE Clause Parameterized Query Tuple in Python (Hindi)",
+      "duration": 432
+    },
+    {
+      "id": "zBHiIM447N0",
+      "title": "Retrieve Multiple Row with WHERE Clause Parameterized Query Tuple in Python (Hindi)",
+      "duration": 412
+    },
+    {
+      "id": "UtXQSl02_Ug",
+      "title": "Retrieve Single Row with WHERE Clause Parameterized Query Dictionary in Python (Hindi)",
+      "duration": 228
+    },
+    {
+      "id": "E8mt8EfiNHI",
+      "title": "Retrieve Multiple Row with WHERE Clause Parameterized Query Dictionary in Python (Hindi)",
+      "duration": 385
+    },
+    {
+      "id": "atJwIJB4Ygk",
+      "title": "Prepared Statement in Python (Hindi)",
+      "duration": 3468
+    },
+    {
+      "id": "VuGYWSs1Tjo",
+      "title": "Exception Handling and Builtin Exception in Python (Hindi)",
+      "duration": 2236
+    },
+    {
+      "id": "0JW44nw9AOI",
+      "title": "Assert Statement in Python (Hindi)",
+      "duration": 245
+    },
+    {
+      "id": "alnua4JlqNk",
+      "title": "User Defined Exception in Python (Hindi)",
+      "duration": 873
+    },
+    {
+      "id": "61F4Iob7hJg",
+      "title": "Difference between Error and Exception in Python (Hindi)",
+      "duration": 88
+    },
+    {
+      "id": "kpFs91UdIck",
+      "title": "Difference between Error and Warning in Python (Hindi)",
+      "duration": 165
+    },
+    {
+      "id": "aCk-qE_WQJ4",
+      "title": "Logging in Python (Hindi)",
+      "duration": 1855
+    },
+    {
+      "id": "PgzWzOYOsmI",
+      "title": "Getting Help in Python (Hindi)",
+      "duration": 361
+    },
+    {
+      "id": "Jbri-d0-2mg",
+      "title": "What should you do after Learning Python (Hindi)",
+      "duration": 290
+    }
+  ]
+}

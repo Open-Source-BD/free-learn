@@ -1,0 +1,1260 @@
+{
+  "courseId": "c-plus-plus-full-course-c-plus-plus-tutorial-data-structures-241767",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:18:45.464Z",
+  "title": "C++ Full Course |  C++ Tutorial | Data Structures & Algorithms",
+  "channel": "Apna College",
+  "videos": [
+    {
+      "id": "z9bZufPHFLU",
+      "title": "1. Introduction to C++ | Data Structures and Algorithms | College Placement Course | Lecture 1",
+      "duration": 1563
+    },
+    {
+      "id": "VTLCoHnyACE",
+      "title": "Lecture 1 : Flowchart & Pseudocode + Installation | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 5152
+    },
+    {
+      "id": "Dxu7GKtdbnA",
+      "title": "Lecture 2 : Variable, Data Types & Operators | DSA Series by Shradha Ma'am | C++",
+      "duration": 4604
+    },
+    {
+      "id": "qR9U6bKxJ7g",
+      "title": "Lecture 3: Conditional Statements & Loops | DSA Series by Shradha Ma'am | C++",
+      "duration": 5679
+    },
+    {
+      "id": "rga_q2N7vU8",
+      "title": "Lecture 4: Patterns | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 5467
+    },
+    {
+      "id": "P08Z_NC8GuY",
+      "title": "Lecture 5: Functions | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2953
+    },
+    {
+      "id": "xpy5NXiBFvA",
+      "title": "Binary Number System | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2240
+    },
+    {
+      "id": "r-u4uh3QvsQ",
+      "title": "Bitwise Operators, Data Type Modifiers & more | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 2313
+    },
+    {
+      "id": "8wmn7k1TTcI",
+      "title": "Array Data Structure - Part1 | DSA Series by Shradha Khapra Ma'am | C++",
+      "duration": 3247
+    },
+    {
+      "id": "NWg38xWYzEg",
+      "title": "Vectors in C++ | Arrays Part 2 | DSA Series by Shradha Ma'am | Lecture 9",
+      "duration": 2406
+    },
+    {
+      "id": "9IZYqostl2M",
+      "title": "Kadane's Algorithm | Maximum Subarray Sum | DSA Series by Shradha Ma'am",
+      "duration": 1409
+    },
+    {
+      "id": "_xqIp2rj8bo",
+      "title": "Majority Element | Brute- Better-Best Approach | Moore's Voting Algorithm | & Pair Sum",
+      "duration": 2350
+    },
+    {
+      "id": "PwKv8fOcriM",
+      "title": "Time & Space Complexity - DSA Series by Shradha Ma'am",
+      "duration": 5141
+    },
+    {
+      "id": "WBzZCm46mFo",
+      "title": "Buy and Sell Stock Problem and Pow(X,N) Power exponential Problem - Leetcode | DSA Series",
+      "duration": 1750
+    },
+    {
+      "id": "EbkMABpP52U",
+      "title": "Container with Most Water Problem | Brute & Optimal Solution | Two Pointer Approach - Leetcode 11",
+      "duration": 1920
+    },
+    {
+      "id": "TW2m8m_FNJE",
+      "title": "Product of Array Except Self | Brute to Optimal Solution | Leetcode 238",
+      "duration": 1770
+    },
+    {
+      "id": "qYEjR6M0wSk",
+      "title": "Pointers in C++ | In Detail | DSA Series by Shradha Ma'am",
+      "duration": 2768
+    },
+    {
+      "id": "TbbSJrY5GqQ",
+      "title": "Binary Search Algorithm - Iterative and Recursive Method | [Theory + Code] with Example",
+      "duration": 2656
+    },
+    {
+      "id": "6WNZQBHWQJs",
+      "title": "Search in Rotated Sorted Array | Binary Search | Leetcode 33",
+      "duration": 1170
+    },
+    {
+      "id": "RjxD6UXGlhc",
+      "title": "Peak Index in Mountain Array | Binary Search | Leetcode 852",
+      "duration": 1414
+    },
+    {
+      "id": "qsbCBduIs40",
+      "title": "Single Element in Sorted Array | Binary Search | DSA Series Lecture 20",
+      "duration": 1653
+    },
+    {
+      "id": "1yrh60og6qc",
+      "title": "DSA Complete Series 🚀 : Data Structures & Algorithms | by Shradha Khapra Ma'am",
+      "duration": 353
+    },
+    {
+      "id": "0yn7irrHzM8",
+      "title": "VS Code Installation for C++ in Windows | Step by step process explanation",
+      "duration": 615
+    },
+    {
+      "id": "cnT1oW5_ePM",
+      "title": "2.1 Data Types & Type Modifiers | Data Structures & Algorithms Course in C++ | Lecture 2.1",
+      "duration": 669
+    },
+    {
+      "id": "7dPdMtBX1d8",
+      "title": "2.2 Input/Output in C++ | Data Structures and Algorithm Course in C++ | Lecture 2.2",
+      "duration": 522
+    },
+    {
+      "id": "cyB3HNlQyjY",
+      "title": "2.3 If/else statement in C++ programming | Data Structure and Algorithm Course | Lecture 2.3",
+      "duration": 471
+    },
+    {
+      "id": "IlIn_D1RT7M",
+      "title": "2.4 Introduction to Loops in C++ programming | Guaranteed Placement Course | Lecture 2.4",
+      "duration": 578
+    },
+    {
+      "id": "Stf7KBiA1vs",
+      "title": "3.1 Break and Continue statement in C++ Programming | Guaranteed Placement Course | Lecture 3.1",
+      "duration": 572
+    },
+    {
+      "id": "G80-j_xnE_8",
+      "title": "3.2 Switch-Case statement in C++ Programming | Guaranteed Placement Course | Lecture 3.2",
+      "duration": 418
+    },
+    {
+      "id": "JBgZxnAj4hg",
+      "title": "3.3 Operators in C++ Programming | Guaranteed Placement Course | 3.3",
+      "duration": 1798
+    },
+    {
+      "id": "LfgAOZ1kKMw",
+      "title": "4.1 Awesome Pattern Questions -1 | Guaranteed Placement Course",
+      "duration": 1417
+    },
+    {
+      "id": "k9OlCJFy5yo",
+      "title": "4.2 Advanced Pattern Questions in C++ | Guaranteed Placement Course | Lecture 4.2",
+      "duration": 1688
+    },
+    {
+      "id": "QIyugGzih4k",
+      "title": "5.1 Binary Number System | Guaranteed Placement Course | Lecture 5.1",
+      "duration": 525
+    },
+    {
+      "id": "6TzUHrAXytM",
+      "title": "5.2 How to reverse a number | Check if a number is Prime or Armstrong | C++ Placement Course | # 5.2",
+      "duration": 645
+    },
+    {
+      "id": "83KtncYgHYQ",
+      "title": "6.1 Functions in C++ | Guaranteed Placement Course",
+      "duration": 491
+    },
+    {
+      "id": "8vzk_JBKGcQ",
+      "title": "6.2 Functions Challenges | C++ Guaranteed Course | Lecture 6.2",
+      "duration": 793
+    },
+    {
+      "id": "lYnPK1svd-4",
+      "title": "6.3 Advanced Placement Questions on Functions | C++ Placement Course",
+      "duration": 1935
+    },
+    {
+      "id": "rq_rwnveh8s",
+      "title": "7.1 Time Complexity | C++ Placement Course",
+      "duration": 1845
+    },
+    {
+      "id": "PyTK_g1l8V8",
+      "title": "8.1 Introduction to Arrays in C++ | Guaranteed Placement Course",
+      "duration": 752
+    },
+    {
+      "id": "13ocRMSJy5M",
+      "title": "8.2 Searching in Arrays | Linear and Binary Search | C++ Placement Course |",
+      "duration": 806
+    },
+    {
+      "id": "dQa4A2Z0_Ro",
+      "title": "8.3.1 Sorting in Arrays | Selection Sort |  C++ Placement Course",
+      "duration": 512
+    },
+    {
+      "id": "xcPFUCh0jT0",
+      "title": "8.3.2 Bubble Sort | Sorting in C++ | Guaranteed Placement Course",
+      "duration": 406
+    },
+    {
+      "id": "3GC83dh4cf0",
+      "title": "8.3.3 Insertion Sort | Sorting Algorithms | C++ Placement Course |",
+      "duration": 577
+    },
+    {
+      "id": "eJcBH0xvG98",
+      "title": "8.4 Array Challenges | C++ Placement Course",
+      "duration": 2381
+    },
+    {
+      "id": "kJW_iXrwePE",
+      "title": "8.5 Arrays - Q's asked by Top MNC's | C++ Placement Course",
+      "duration": 1431
+    },
+    {
+      "id": "0JYgnhnZFcE",
+      "title": "8.6 Subarrays - Challenges | Questions asked by Top MNC's | C++ Placement Course",
+      "duration": 1938
+    },
+    {
+      "id": "Xx1tWbb37hY",
+      "title": "9.1 Two Dimensional Arrays | 2D Arrays | C++ Placement Course",
+      "duration": 1284
+    },
+    {
+      "id": "xKZFAkSt2UU",
+      "title": "9.2 \"2D Array\" Challenges | Asked by Top MNC's | C++ Placement Course",
+      "duration": 1443
+    },
+    {
+      "id": "TkTgo_7ab0M",
+      "title": "10. Character Arrays | C++ Placement Course",
+      "duration": 773
+    },
+    {
+      "id": "gHxmAgedyDk",
+      "title": "11. Pointers in C++ | Guaranteed Placement Course",
+      "duration": 1143
+    },
+    {
+      "id": "bbym08gSWvQ",
+      "title": "12. Stack & Heap | C++ Placement Course",
+      "duration": 662
+    },
+    {
+      "id": "W8hPsBquD6Y",
+      "title": "13. Strings in C++  | Guaranteed Placement Course | Lecture 13",
+      "duration": 1420
+    },
+    {
+      "id": "1pVI0yiEBR8",
+      "title": "13.2 Strings Challenges | C++ Placement Course",
+      "duration": 712
+    },
+    {
+      "id": "MiJdgxTWaFs",
+      "title": "14.1 BIT Manipulation in 11 minutes | C++ Placement Course",
+      "duration": 646
+    },
+    {
+      "id": "s8l8NWII3qw",
+      "title": "14.2 BIT Manipulation Challenges | C++ Placement Course",
+      "duration": 930
+    },
+    {
+      "id": "WEpLyOc0bCE",
+      "title": "14.3 BIT Manipulation | Challenges - Part 2 | Questions asked by Top MNC's",
+      "duration": 1208
+    },
+    {
+      "id": "nDPo9hsDNvU",
+      "title": "15.1 Sieve of Eratosthenes | Challenge | C++ Placement Course",
+      "duration": 647
+    },
+    {
+      "id": "IW4hJEgZLWI",
+      "title": "15.2 Inclusion- Exclusion Principle | GCD  | C++ Placement Course",
+      "duration": 427
+    },
+    {
+      "id": "oSQbwlepoCU",
+      "title": "16.1 Recursion - Introduction | C++ Placement Course",
+      "duration": 1431
+    },
+    {
+      "id": "7F3MYyw3Jmg",
+      "title": "16.2 Recursion - Challenges | C++ Placement Course",
+      "duration": 1060
+    },
+    {
+      "id": "j9RG18jfnRY",
+      "title": "7 Best Problems on Recursion | Recursion in C++ | Placement Course | Lec 16.3",
+      "duration": 2045
+    },
+    {
+      "id": "9rt-hFcXd0M",
+      "title": "Advanced Recursion Problems | C++ Placement Course | Lecture 16.4",
+      "duration": 989
+    },
+    {
+      "id": "VQVeAQVs1d8",
+      "title": "Recursion | Last Lecture on Advanced Problems | Lecture 16.4",
+      "duration": 1163
+    },
+    {
+      "id": "4BBB0mvvbGA",
+      "title": "Backtracking - Rat in a Maze | C++ Placement Course | Lecture 18.1",
+      "duration": 1107
+    },
+    {
+      "id": "28okqq8raXM",
+      "title": "Permutation - Return all possible permutations | C++ Placement Course | Lecture 17",
+      "duration": 879
+    },
+    {
+      "id": "1OkZKjxRokU",
+      "title": "N-Queen Problem - Backtracking | C++ Placement Course - 18.2",
+      "duration": 1034
+    },
+    {
+      "id": "4z9I6ZmeLOQ",
+      "title": "Merge Sort | Code and Explanation | C++ Course - 19.1",
+      "duration": 1030
+    },
+    {
+      "id": "Dl6HT-NM_q4",
+      "title": "Quick Sort | Code and Explanation | C++ Course - 19.2",
+      "duration": 924
+    },
+    {
+      "id": "yoZy5RicIPc",
+      "title": "Vectors and Pair | C++ Course - 19",
+      "duration": 930
+    },
+    {
+      "id": "imqr13aIBAY",
+      "title": "Count Sort | C++ Placement Course | Lecture 20.1",
+      "duration": 678
+    },
+    {
+      "id": "2C4CQ32961Y",
+      "title": "DNF Sort | C++ Placement Course  | Lecture 20.2",
+      "duration": 513
+    },
+    {
+      "id": "N97M67GQTwI",
+      "title": "Wave Sort | C++ Placement Course - 20.3",
+      "duration": 450
+    },
+    {
+      "id": "sV4RhDIIKO0",
+      "title": "Count Inversion - Merge Sort | C++ Placement Course - 19.3",
+      "duration": 547
+    },
+    {
+      "id": "YscEcXRmBoY",
+      "title": "Object Oriented Programming in C++ | Important Concept | Lecture 21.1",
+      "duration": 1289
+    },
+    {
+      "id": "kpRNDl-b9Dw",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "7ZfEp71tIec",
+      "title": "Inheritance in OOP's | C++ Placement Course | Lecture 21.3",
+      "duration": 525
+    },
+    {
+      "id": "F5PbnZkHqmg",
+      "title": "Polymorphism in Object Oriented Programming | C++ Placement Course Lecture 21.4",
+      "duration": 609
+    },
+    {
+      "id": "Crqgl10aIGQ",
+      "title": "Introduction to Linked List | C++ Placement Course | Lecture 22",
+      "duration": 917
+    },
+    {
+      "id": "kvk8gfAJLeg",
+      "title": "Deletion in Linked List | C++ Placement Course | Lecture 22.2",
+      "duration": 382
+    },
+    {
+      "id": "bjtMCwy_LMA",
+      "title": "Reverse a Linked List | C++ Placement Course | Lecture 22.3",
+      "duration": 543
+    },
+    {
+      "id": "LCRGV8avvUY",
+      "title": "Reverse K Nodes in a Linked List | C++ Placement Course | Lecture 22.4",
+      "duration": 403
+    },
+    {
+      "id": "Fj1ywT9ETQk",
+      "title": "Detection and Removal of Cycle in Linked List | Lecture 22.5",
+      "duration": 851
+    },
+    {
+      "id": "c_dqAyQu84A",
+      "title": "Doubly Linked List | Data Structures & Algorithms | C++ Placement Course | Lecture 22.6",
+      "duration": 721
+    },
+    {
+      "id": "v6g1g4lNowM",
+      "title": "Append Last K Nodes of a Linked List | C++ Placement Course | Lecture 22.7",
+      "duration": 367
+    },
+    {
+      "id": "8CACsqPWpHo",
+      "title": "Find Intersection point of 2 Linked List | Lecture 22.8",
+      "duration": 510
+    },
+    {
+      "id": "n5_9DMCX0Yk",
+      "title": "Merge 2 Sorted Linked List | C++ Placement Course | Lecture 22.9",
+      "duration": 542
+    },
+    {
+      "id": "1t8NAjIXvVA",
+      "title": "Circular Linked List - C++ Placement Course | Lecture 22.10",
+      "duration": 802
+    },
+    {
+      "id": "TaNfBSbpX_o",
+      "title": "Put Even Position Nodes after Odd Position Nodes | C++ Placement Course | Lecture 22.11",
+      "duration": 374
+    },
+    {
+      "id": "s2fwy4ri0RU",
+      "title": "2021 - Top 5 Programming Language for College Students 2021",
+      "duration": 568
+    },
+    {
+      "id": "oZ-ZIhJyy9o",
+      "title": "Time Complexity using Masters Theorem | C++ Placement Course | Lecture 16.5",
+      "duration": 415
+    },
+    {
+      "id": "JvuaAgDar1c",
+      "title": "Stack Data Structure - Introduction | C++ Placement Course | Lecture 23.1",
+      "duration": 614
+    },
+    {
+      "id": "k1O1PhuarpI",
+      "title": "Reverse a Sentence using Stacks | Stack Challenge | C++ Placement Course | Lecture 23.2",
+      "duration": 338
+    },
+    {
+      "id": "V2reKQOgE88",
+      "title": "Reverse a Stack | C++ Placement Course | Lecture 23.3",
+      "duration": 501
+    },
+    {
+      "id": "6T3jMNUCRNU",
+      "title": "Introduction to Prefix, Infix and Postfix | C++ Placement Course | Lecture 23.4",
+      "duration": 681
+    },
+    {
+      "id": "MuF5p8-oWc8",
+      "title": "Prefix Expression Evaluation | C++ Placement Course | Lecture 23.5",
+      "duration": 399
+    },
+    {
+      "id": "5B6jw4wOJR0",
+      "title": "Postfix Expression Evaluation | C++ Placement Course | Lecture 23.6",
+      "duration": 504
+    },
+    {
+      "id": "mg9yi6YuAVk",
+      "title": "Infix to Postfix - Stack Challenges | C++ Placement Course | Lecture 23.7",
+      "duration": 468
+    },
+    {
+      "id": "snDDBjT8jYA",
+      "title": "Infix to Prefix | C++ Placement Course | Lecture 23.8",
+      "duration": 599
+    },
+    {
+      "id": "P31WyOcQvaE",
+      "title": "Balanced Parenthesis | C++ Placement Course | Lecture 23.9",
+      "duration": 465
+    },
+    {
+      "id": "fbonDkYsKj0",
+      "title": "Introduction to Queue Data Structure | C++ Placement Course | Lecture 24.1",
+      "duration": 702
+    },
+    {
+      "id": "Yi8Im4_eSQI",
+      "title": "Linked List Implementation of Queues | C++ Placement Course | Lecture 24.2",
+      "duration": 377
+    },
+    {
+      "id": "iEwX3XA5SDo",
+      "title": "Queue using Stack | C++ Placement Course | Lecture 24.3",
+      "duration": 477
+    },
+    {
+      "id": "FbPIay0KN00",
+      "title": "Stack using Queue | C++ Placement Course | Lecture 24.4",
+      "duration": 460
+    },
+    {
+      "id": "AJCse3XPkrY",
+      "title": "Stacking using Queues (Method 2) | C++ Placement Course | Lecture 24.4.2",
+      "duration": 441
+    },
+    {
+      "id": "4JstGzs6Q9I",
+      "title": "Sliding Window Maximum using Deque | C++ Placement Course | Lecture 25.1",
+      "duration": 580
+    },
+    {
+      "id": "hGl8Boeb7S4",
+      "title": "Largest Rectangle Code | C++ Placement Course | Lecture 25.2",
+      "duration": 311
+    },
+    {
+      "id": "BsPbCLj4_Mw",
+      "title": "Trapping Rainwater | C++ Placement Course | Lecture 25.3",
+      "duration": 292
+    },
+    {
+      "id": "rlCSjCGc3Z0",
+      "title": "Redundant Parenthesis | C++ Placement Course | Lecture 25.4",
+      "duration": 307
+    },
+    {
+      "id": "XlD5VsOZsyA",
+      "title": "The Stock Span Problem | C++ Placement Course | Lecture 25.5",
+      "duration": 329
+    },
+    {
+      "id": "BCLfxQja9dI",
+      "title": "Two Pointers | Three Sum Problem | C++ Placement Course | Lecture 26.1",
+      "duration": 389
+    },
+    {
+      "id": "7FE5Q_Bqzw8",
+      "title": "Max Consecutive Ones | C++ Placement Course | Lecture 26.2",
+      "duration": 457
+    },
+    {
+      "id": "T-Oj2Ajj9vA",
+      "title": "Longest substring without repeating characters | C++ Placement Course | Lecture 26.3",
+      "duration": 391
+    },
+    {
+      "id": "_jKa4gycZTw",
+      "title": "Binary Tree Introduction | C++ Placement Course | Lecture 27.1",
+      "duration": 583
+    },
+    {
+      "id": "67zlUtAr2LE",
+      "title": "Binary Tree Traversals| Preorder, Inorder, Postorder Traversal | C++ Placement Course | Lecture 27.2",
+      "duration": 959
+    },
+    {
+      "id": "HJKoNLGRnYk",
+      "title": "Build Tree from Preorder and Inorder | C++ Placement Course | Lecture 27.3",
+      "duration": 940
+    },
+    {
+      "id": "PJX9T2oVKmk",
+      "title": "Build Tree Postorder and Inorder | C++ Placement Course | Lecture 27.4",
+      "duration": 993
+    },
+    {
+      "id": "vQIiUWofWw8",
+      "title": "Level Order Traversal , Sum at Kth Level In Binary Tree | C++ Placement Course | Lecture 27.5",
+      "duration": 735
+    },
+    {
+      "id": "IHfZaRZFg7s",
+      "title": "Count and Sum of Nodes | C++ Placement Course | Lecture 27.6",
+      "duration": 271
+    },
+    {
+      "id": "9fj_-Sr84CU",
+      "title": "Height and Diameter in Binary Tree | C++ Placement Course | Lecture 27.7",
+      "duration": 709
+    },
+    {
+      "id": "xDayqPCWmkY",
+      "title": "Sum Replacement in Binary Tree | C++ Placement Course | Lecture 27.8",
+      "duration": 527
+    },
+    {
+      "id": "bh4eb_6SwRA",
+      "title": "Height Balanced Binary Tree | C++ Placement Course | Lecture 27.9",
+      "duration": 946
+    },
+    {
+      "id": "jeJTgKPydAw",
+      "title": "Right View of Binary Tree | C++ Placement Course | Lecture  27.10",
+      "duration": 443
+    },
+    {
+      "id": "zDkNaQYusu0",
+      "title": "Left View of Binary Trees | C++ Placement Course | Lecture 27.11",
+      "duration": 450
+    },
+    {
+      "id": "E1f9ncPxgPE",
+      "title": "Shortest Distance between 2 Nodes | C++ Placement Course | Lecture 27.12",
+      "duration": 701
+    },
+    {
+      "id": "WR6-DrAsNpc",
+      "title": "Flatten a Binary Tree | C++ Placement Course | Lecture 27.13",
+      "duration": 697
+    },
+    {
+      "id": "f-oTsCUCiXk",
+      "title": "Nodes at Distance K in Binary Tree | C++ Placement Course | Lecture 27.14",
+      "duration": 911
+    },
+    {
+      "id": "JW-9nhktGGA",
+      "title": "Lowest Common Ancestor in Binary Tree | C++ Placement Course | Lecture 27.15",
+      "duration": 1245
+    },
+    {
+      "id": "NIJN63astRc",
+      "title": "Max Sum Path from One Node to Another in Binary Tree | C++ Placement Course | Lecture 27.16",
+      "duration": 919
+    },
+    {
+      "id": "ScdwdSCnXDU",
+      "title": "Binary Search Trees | Introduction & Build | C++ Placement Course | Lecture 28.1",
+      "duration": 900
+    },
+    {
+      "id": "kU9Lv3e_kxs",
+      "title": "Search and Delete in Binary Search Tree | C++ Placement Course | Lecture 28.2",
+      "duration": 1529
+    },
+    {
+      "id": "vFW80O0NzBU",
+      "title": "Construct Binary Search Tree from Preorder | C++ Placement Course | Lecture 28.3",
+      "duration": 1000
+    },
+    {
+      "id": "_XgTN72fguk",
+      "title": "Check for Binary Search Tree | C++ Placement Course | Lecture 28.4",
+      "duration": 826
+    },
+    {
+      "id": "C59kWTK4_Zs",
+      "title": "Build Balanced BST from Sorted Array | C++ Placement Course | Lecture 28.5",
+      "duration": 690
+    },
+    {
+      "id": "1ZAotQGnbi4",
+      "title": "Catalan Numbers Application | C++ Placement Course | Lecture 28.6",
+      "duration": 1605
+    },
+    {
+      "id": "xtuhK-a18is",
+      "title": "Zig Zag Traversal Binary Search Tree | C++ Placement Course | Lecture 28.7",
+      "duration": 1111
+    },
+    {
+      "id": "ftBT8kH-QtM",
+      "title": "Identical Binary Search Tree | C++ Placement Course | Lecture 28.8",
+      "duration": 969
+    },
+    {
+      "id": "YgC-IXiMrRM",
+      "title": "Largest Binary Search Tree in BT | C++ Placement Course | Lecture 28.10",
+      "duration": 1408
+    },
+    {
+      "id": "eI3lzXlmH2U",
+      "title": "Recover Binary Search Tree | C++ Placement Course | Lecture 28.11",
+      "duration": 1249
+    },
+    {
+      "id": "F3Cpo4Cc04A",
+      "title": "Set & Multiset | Standard Template Library | C++ Placement Course | Lecture 28.12",
+      "duration": 738
+    },
+    {
+      "id": "xP_aCKJtFPg",
+      "title": "Place Elements to Maximise Minimum Distance | C++ Placement Course | Lecture 29.1",
+      "duration": 949
+    },
+    {
+      "id": "tck6hjcFzzc",
+      "title": "Page Allocation Problem | C++ Placement Course | Lecture 29.2",
+      "duration": 1098
+    },
+    {
+      "id": "U4vEszMVNsM",
+      "title": "Painters Partition Problem | C++ Placement Course | Lecture 29.3",
+      "duration": 844
+    },
+    {
+      "id": "Iqjo4PNQT7A",
+      "title": "Search in Sorted & Rotated Array | C++ Placement Course | Lecture 29.4",
+      "duration": 710
+    },
+    {
+      "id": "KWDUOForS2s",
+      "title": "Find the Peak Element | C++ Placement Course | Lecture 29.5",
+      "duration": 611
+    },
+    {
+      "id": "nvE5kQVdLc4",
+      "title": "Max Sum Subarray | Sliding Window Challenge | C++ Placement Course | Lecture 30.1",
+      "duration": 850
+    },
+    {
+      "id": "b7wMv62Y1l4",
+      "title": "Minimum Subarray Size | Sliding Window Challenge | C++ Placement Course | Lecture 30.2",
+      "duration": 1094
+    },
+    {
+      "id": "d75iHEzPx8k",
+      "title": "Form Number Divisible by 3 | Sliding Window Challenge | C++ Placement Course | Lecture 30.3",
+      "duration": 871
+    },
+    {
+      "id": "PsdZOG9dJic",
+      "title": "Subarray with Palindromic Concatenation | C++ Placement Course | Lecture 30.4",
+      "duration": 924
+    },
+    {
+      "id": "PiSs-3z9LUY",
+      "title": "Perfect Numbers in Subarrays | C++ Placement Course | Lecture 30.5",
+      "duration": 1027
+    },
+    {
+      "id": "MCuERE9Ewbo",
+      "title": "Heap Intro Final Export for Upload",
+      "duration": 235
+    },
+    {
+      "id": "MMTQz-G8e-I",
+      "title": "HeapsSort | C++ Placement Course | Lecture 31.2",
+      "duration": 500
+    },
+    {
+      "id": "XzA5Ts_vXfw",
+      "title": "Heap STL | C++ Placement Course | Lecture 31.3",
+      "duration": 242
+    },
+    {
+      "id": "NIUgvZxt3Lg",
+      "title": "Heaps - Median of Running Stream | C++ Placement Course | Lecture 31.4",
+      "duration": 626
+    },
+    {
+      "id": "VV19JFP6-0c",
+      "title": "Heaps - Merge K sorted Arrays | C++ Placement Course",
+      "duration": 583
+    },
+    {
+      "id": "Yqh1DadzGXU",
+      "title": "Heap -Smallest Sequence with sum K | C++ Placement Course | Lecture 31.6",
+      "duration": 361
+    },
+    {
+      "id": "0kfM_YEzR94",
+      "title": "Hashing - Introduction to Hasing | C++ Placement Coure | Lecture 32.1",
+      "duration": 287
+    },
+    {
+      "id": "oJx-w2CB8d4",
+      "title": "Hashing STL - C++ Placement Course | Lecture 32.2",
+      "duration": 206
+    },
+    {
+      "id": "2yCsrWvHcKQ",
+      "title": "Hashing - Count frequency of elements | C++ Placement Course | Lecture 32.3",
+      "duration": 247
+    },
+    {
+      "id": "oGsohYOOfRQ",
+      "title": "Hashing - Vertical Order Print | C++ Placement Course | Lecture 32.4",
+      "duration": 636
+    },
+    {
+      "id": "5g03Ydcwseg",
+      "title": "Hashing - Number of Subarrays with Sum Zero | C++ Placement Course | Lec 32.5",
+      "duration": 471
+    },
+    {
+      "id": "y-ua1zS9wU0",
+      "title": "Hashing - Sliding Window Technique | C++ Placement Course",
+      "duration": 369
+    },
+    {
+      "id": "bZ5Sif6L7Jg",
+      "title": "Hashing - TOP K MOST FREQUENT ELEMENTS | C++ Placement Course | Lecture 32.7",
+      "duration": 497
+    },
+    {
+      "id": "q79pZ_iwP50",
+      "title": "Sudoku Solver - Hashing | C++ Placement Course | Lecture 32.8",
+      "duration": 694
+    },
+    {
+      "id": "bDPtZO_Skyc",
+      "title": "Greedy Algorithm - Introduction | C++ Placement Course Lecture 33.1",
+      "duration": 183
+    },
+    {
+      "id": "IUQRh7SJwEM",
+      "title": "Indian Coin Change - Greedy Algorithm | C++ Placement Course | Lecture 33.2",
+      "duration": 352
+    },
+    {
+      "id": "DHr-Mn_vzs0",
+      "title": "Activity Selection Problem - Greedy Algorithm | C++ Placement Course | Lecture 33.3",
+      "duration": 518
+    },
+    {
+      "id": "2i5pclQprGk",
+      "title": "Fractional Knapsack - Greedy Algorithm | C++ Placement Course | Lecture 33.4",
+      "duration": 461
+    },
+    {
+      "id": "mhaXVXFjsgI",
+      "title": "Optimal Pattern Merge - Greedy Algorithm | C++ Placement Course | Lecture 33.5",
+      "duration": 358
+    },
+    {
+      "id": "so1E0lSytz0",
+      "title": "Expedi - Greedy Algorithm | C++ Placement Course | Lecture 33.6",
+      "duration": 1345
+    },
+    {
+      "id": "trZjhJk4LxM",
+      "title": "Maximum and Minimum Difference - Greedy Algorithm | C++ Placement Course | Lecture 33.7",
+      "duration": 576
+    },
+    {
+      "id": "eGc5TQpBMjA",
+      "title": "Graphs - Introduction | C++ Placement Course | Lecture 34.1",
+      "duration": 443
+    },
+    {
+      "id": "sPeKpctCL-c",
+      "title": "Dynamic Programming - Introduction | C++ Placement Course | Lecture 35.1",
+      "duration": 442
+    },
+    {
+      "id": "ymMZEudHUsk",
+      "title": "Graph Terminologies | C++ Placement Course | Lecture 34.2",
+      "duration": 505
+    },
+    {
+      "id": "3pr9Ce9vECc",
+      "title": "Graphs - Representation | C++ Placement Course | Lecture 34.3",
+      "duration": 570
+    },
+    {
+      "id": "geOBaNYYInc",
+      "title": "BFS - Breadth First Search | C++ Placement Course | Lecture 34.4",
+      "duration": 259
+    },
+    {
+      "id": "GmZNp9_-imM",
+      "title": "DFS - Depth First Search | C++ Placement Course | Lecture 34.5",
+      "duration": 302
+    },
+    {
+      "id": "Yh5o_PSK9to",
+      "title": "Graphs - Topological Sort | C++ Placement Course | Lecture 34.6",
+      "duration": 698
+    },
+    {
+      "id": "SRIVJzucPoU",
+      "title": "Cycle Detection in Undirected Graphs | C++ Placement Course | Lecture 34.7",
+      "duration": 413
+    },
+    {
+      "id": "hGscdp38JKM",
+      "title": "Cycle Detection in Directed Graph | C++ Placement Course | Lecture 34.8",
+      "duration": 394
+    },
+    {
+      "id": "nY-VMGp72NI",
+      "title": "Connected Components | C++ Placement Course | Lecture 34.9",
+      "duration": 631
+    },
+    {
+      "id": "orl8SsQOToc",
+      "title": "Bipartite Graph - C++ Placement Course | Lecture 34.10",
+      "duration": 495
+    },
+    {
+      "id": "C0O8T3C8irU",
+      "title": "Disjoint Set Union - Graphs | C++ Placement Course | Lecture 34.11",
+      "duration": 580
+    },
+    {
+      "id": "YZ40AZQi0bk",
+      "title": "Cycle Detection in Undirected Graph using DSU | C++ Placement Course | Lecture 34.12",
+      "duration": 517
+    },
+    {
+      "id": "z52TfBnBrhQ",
+      "title": "Cycle Detection in Undirected Graph using DSU | C++ Placement Course | Lecture 34.12",
+      "duration": 517
+    },
+    {
+      "id": "J7nUacHWtsM",
+      "title": "Kruskal's Algorithm | C++ Placement Course | Lecture 34.13",
+      "duration": 472
+    },
+    {
+      "id": "IU5L8oePljw",
+      "title": "Prims Algorithm | C++ Placement Course | Lecture 34.14",
+      "duration": 499
+    },
+    {
+      "id": "SnZ2SQARTVI",
+      "title": "Dijkstra's Algorithm | C++ Placement Course | Lecture 34.15",
+      "duration": 552
+    },
+    {
+      "id": "LKfIjVZ6kg4",
+      "title": "Bellman Ford Algorithm | C++ Placement Course | Lecture 34.16",
+      "duration": 448
+    },
+    {
+      "id": "wjv-w6q4ip4",
+      "title": "Floyd Warshall Algorithm | C++ Placement Course | Lecture 34.17",
+      "duration": 430
+    },
+    {
+      "id": "jcMMi4bBeVo",
+      "title": "Snakes and Ladders - Graphs | C++ Placement Course | Lecture 34.18",
+      "duration": 671
+    },
+    {
+      "id": "_KLesu_89Ec",
+      "title": "Graphs - Surrounded Region | C++ Placement Course | Lecture 34.19",
+      "duration": 443
+    },
+    {
+      "id": "YkBch12jNE0",
+      "title": "Fibonacci Sequence - Dynamic Programming | C++ Placement Course | Lecture 35.2",
+      "duration": 388
+    },
+    {
+      "id": "EoMxK6zh9wU",
+      "title": "Minimum Number of Squares - Dynamic Programming | C++ Placement Course | Lecture 35.3",
+      "duration": 617
+    },
+    {
+      "id": "GBBRjI_1LRI",
+      "title": "Coin Change Problem - Dynamic Programming | C++ Placement Course | Lecture 35.4",
+      "duration": 1257
+    },
+    {
+      "id": "PPcpC5QbMx0",
+      "title": "01 Knapsack - Dynamic Programming | C++ Placement Course | Lecture 35.7",
+      "duration": 728
+    },
+    {
+      "id": "okgM58Tv9jQ",
+      "title": "Longest Increasing Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.8",
+      "duration": 663
+    },
+    {
+      "id": "Esx-TxF5PSo",
+      "title": "Longest Common Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.9",
+      "duration": 800
+    },
+    {
+      "id": "-g_xhI_tZfA",
+      "title": "Matrix Chain Multiplication - Dynamic Programming | C++ Placement Course | Lecture 35.10",
+      "duration": 976
+    },
+    {
+      "id": "0cjO51vAY44",
+      "title": "Minimum Jumps to Reach End - Dynamic Programming | C++ Placement Course | Lecture 35.11",
+      "duration": 462
+    },
+    {
+      "id": "g1uZPKKrm3U",
+      "title": "Optimal Game Strategy - Dynamic Programming | C++ Placement Course | Lecture 35.12",
+      "duration": 434
+    },
+    {
+      "id": "zgphvsIBMz4",
+      "title": "Number of Subsequences - Dynamic Programming | C++ Placement Course | Lecture 35.13",
+      "duration": 603
+    },
+    {
+      "id": "qXNJD7giQmU",
+      "title": "Count Number of Binary Strings - Dynamic Programming | C++ Placement Course | Lecture 35.14",
+      "duration": 524
+    },
+    {
+      "id": "CB8w6MzXsx4",
+      "title": "0-N Knapsack - Dynamic Programming | C++ Placement Course | Lecture 35.15",
+      "duration": 432
+    },
+    {
+      "id": "6PxU4rfnf4Q",
+      "title": "Kadane Algorithm - Dynamic Programming | C++ Placement Course | Lecture 35.5",
+      "duration": 388
+    },
+    {
+      "id": "uVGrbtm69Vo",
+      "title": "Maximum Length of Bitonic Subsequence - Dynamic Programming | C++ Placement Course | Lecture 35.19",
+      "duration": 466
+    },
+    {
+      "id": "AWfLtXPQjhE",
+      "title": "Friends Paring Problem - Dynamic Programming | C++ Placement Course | Lecture 35.20",
+      "duration": 310
+    },
+    {
+      "id": "okH3HAPWTVs",
+      "title": "Ugly Numbers - Dynamic Programming | C++ Placement Course | Lecture 35.18",
+      "duration": 320
+    },
+    {
+      "id": "86F87X8iRd0",
+      "title": "LCS with 3 Strings - Dynamic Programming | C++ Placement Course | Lecture 35.16",
+      "duration": 529
+    },
+    {
+      "id": "VzO_ueJZqXc",
+      "title": "K-Ordered LCS - Dynamic Programming | C++ Placement Course | Lecture 35.17",
+      "duration": 551
+    },
+    {
+      "id": "dOXfffhl4uI",
+      "title": "Tries - Introduction | C++ Placement Course | Lecture 36.1",
+      "duration": 374
+    },
+    {
+      "id": "IpQW7GWLxYA",
+      "title": "XOR SubArray - Tries Challenges | C++ Placement Course | Lecture36.2",
+      "duration": 624
+    },
+    {
+      "id": "akoIMy9NmFc",
+      "title": "Trie bash - Challenge | C++ Placement Course | Lecture 36.3",
+      "duration": 561
+    },
+    {
+      "id": "xcsDEn2G-tY",
+      "title": "Digital Dictionary - Tries Challenges | C++ Placement Course | Lecture 36.4",
+      "duration": 632
+    },
+    {
+      "id": "0oP6XLTI2tY",
+      "title": "Extended Euclid Algorithm - Number Theory Advanced | C++ Placement Course | Lecture 37.1",
+      "duration": 558
+    },
+    {
+      "id": "jWD-BQmbhkk",
+      "title": "Multiplicative Modulo Inverse - Number Theory Advanced | Lecture 37.2",
+      "duration": 606
+    },
+    {
+      "id": "iMZEwYfBWDY",
+      "title": "Euler Totient Function - Number Theory Advanced | C++ Placement Course | Lecture 37.3",
+      "duration": 475
+    },
+    {
+      "id": "US1_VVD98Vw",
+      "title": "Binary Exponentiation - Number Theory Advanced | C++ Placement Course | Lecture 37.4",
+      "duration": 537
+    },
+    {
+      "id": "-siXttWLVto",
+      "title": "Fermat Little and Wilson Theorem - Number Theory Advanced | C++ Placement Course | Lecture 37.5",
+      "duration": 425
+    },
+    {
+      "id": "nwUOmzFh78o",
+      "title": "Boring Factorials SPOJ - Number Theory Advanced | C++ Placement Course | Lecture 37.6",
+      "duration": 483
+    },
+    {
+      "id": "oBH9dH6KGLM",
+      "title": "Introduction, Fibonacci in Log(n) - Matrix Exponentiation | C++ Placement Course | Lecture 38.1",
+      "duration": 1411
+    },
+    {
+      "id": "JEOj8U54Cek",
+      "title": "String Hashing - String Algorithms | C++ Placement Course | Lecture 39.1",
+      "duration": 767
+    },
+    {
+      "id": "q2HYCMeUXXQ",
+      "title": "SubStr() Function - String Algorithm | C++ Placement Course | Lecture 39.2",
+      "duration": 205
+    },
+    {
+      "id": "lhhqbGH7Pao",
+      "title": "KMP Algorithms - String Algorithm | C++ Placement Course | Lecture 39.3",
+      "duration": 1024
+    },
+    {
+      "id": "-WdkLyTeZ3Q",
+      "title": "Rabin Karp - String Algorithms | C++ Placement Course | Lecture 39.4",
+      "duration": 288
+    },
+    {
+      "id": "iNHbQ0diNZc",
+      "title": "Guide to Interactive Problems | C++ Placement Course | Lecture 43",
+      "duration": 671
+    },
+    {
+      "id": "xOogmSgym9Y",
+      "title": "Segment Tree - Introduction and Build | C++ Placement Course | Lecture 40.1",
+      "duration": 1286
+    },
+    {
+      "id": "c6GDAgiX5Yw",
+      "title": "Query in Segment Tree | C++ Placement Course | Lecture 40.2",
+      "duration": 724
+    },
+    {
+      "id": "Df6Fr6EYMpY",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "payOcHP24NY",
+      "title": "Maximum and Minimum Queries/Update | C++ Placement Course | Lecture 40.4",
+      "duration": 1093
+    },
+    {
+      "id": "uZEbkca2yFM",
+      "title": "Number of minimums on a segment | C++ Placement Course | Lecture 40.5",
+      "duration": 759
+    },
+    {
+      "id": "uqBgvO5DAUc",
+      "title": "User Snippets in VSCode | C++ Placement Course | Lecture 40.6",
+      "duration": 228
+    },
+    {
+      "id": "pS6xaqaLuCU",
+      "title": "Segment with Max Sum | C++ Placement Course | Lecture 40.7",
+      "duration": 900
+    },
+    {
+      "id": "1AHKqRrJ8_s",
+      "title": "Kth One - Segment Tree | C++ Placement Course | Lecture 40.8",
+      "duration": 923
+    },
+    {
+      "id": "Hooe5ORdFsc",
+      "title": "First Element at Least X - Segment Tree | C++ Placement Course | Lecture 40.9",
+      "duration": 659
+    },
+    {
+      "id": "cOfjx4kM7q0",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "5_iI3UXY00M",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "lPWCLJLokzs",
+      "title": "Nested Segments - Segment Tree | C++ Placement Course | Lecture 40.12",
+      "duration": 679
+    },
+    {
+      "id": "YH4aS0F0D8c",
+      "title": "Intersecting Segments - Segment Tree | C++ Placement Course | Lecture 40.13",
+      "duration": 709
+    },
+    {
+      "id": "fIQABUIeWYg",
+      "title": "Fenwick Tree - Introduction | C++ Placement Course | Lecture 41.1",
+      "duration": 621
+    },
+    {
+      "id": "08HzVTjCAsk",
+      "title": "Point & Range Updates - Fenwick Tree | C++ Placement Course | Lecture 41.2",
+      "duration": 805
+    },
+    {
+      "id": "qvwdpqVvcRQ",
+      "title": "Count Inversion - Fenwick Tree | C++ Placement Course | Lecture 41.3",
+      "duration": 545
+    },
+    {
+      "id": "tuxMRkKuP8Y",
+      "title": "Square Root Decomposition - Introduction | C++ Placement Course | Lecture 42.1",
+      "duration": 645
+    },
+    {
+      "id": "NreaqzAKvg0",
+      "title": "RMQSQ - Spoj | C++ Placement Course | Lecture 42.2",
+      "duration": 449
+    },
+    {
+      "id": "0Cu9Kg7RJYg",
+      "title": "Mo's Algorithm - Square Root Decomposition | Lecture 42.3",
+      "duration": 1146
+    },
+    {
+      "id": "XPedtcrgA4E",
+      "title": "DQueary - SPOJ | C++ Placement Course | Lecture 42.4",
+      "duration": 840
+    },
+    {
+      "id": "f88s33eFGDo",
+      "title": "Policy Based Data Structures | C++ Placement Course | Lecture 44",
+      "duration": 579
+    },
+    {
+      "id": "gEsZZWyGRKg",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "JRAByolWqhw",
+      "title": "Book Allocation or Allocate Books Problem | DSA Series - Binary Search",
+      "duration": 1979
+    },
+    {
+      "id": "srsFN5OHBgw",
+      "title": "Painter's Partition Problem | DSA Placement Series - Binary Search | Lecture 22",
+      "duration": 1664
+    },
+    {
+      "id": "7wOzDqsfXy0",
+      "title": "Aggressive Cows Problem | DSA Placement Series - Binary Search | Lecture 23",
+      "duration": 1812
+    }
+  ]
+}

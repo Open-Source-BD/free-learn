@@ -1,0 +1,305 @@
+{
+  "courseId": "foundations-of-cryptography-1f0ed2",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:15.777Z",
+  "title": "Foundations of Cryptography",
+  "channel": "NPTEL - Indian Institute of Science, Bengaluru",
+  "videos": [
+    {
+      "id": "iTVyKbDCJrA",
+      "title": "noc20 cs02 lec01 Introduction",
+      "duration": 1718
+    },
+    {
+      "id": "eIJzIUhks6E",
+      "title": "noc20 cs02 lec02 Symmetric key Encryption",
+      "duration": 2796
+    },
+    {
+      "id": "NrRJInkFsyQ",
+      "title": "noc20 cs02 lec03 Historical Ciphers and their Cryptanalysis",
+      "duration": 1608
+    },
+    {
+      "id": "DOMayh6QnTE",
+      "title": "noc20 cs02 lec04 Perfect Security",
+      "duration": 3110
+    },
+    {
+      "id": "lDCD2AVis3Q",
+      "title": "noc20 cs02 lec05 Limitations of Perfect Security",
+      "duration": 1248
+    },
+    {
+      "id": "N6YzR_8zdE0",
+      "title": "noc20 cs02 lec06 Introduction to Computational Security",
+      "duration": 2173
+    },
+    {
+      "id": "UVPNA8so2lg",
+      "title": "noc20 cs02 lec07 Semantic Security",
+      "duration": 2996
+    },
+    {
+      "id": "00_xpi3zTkU",
+      "title": "noc20 cs02 lec08 Pseudo random Generators PRGs",
+      "duration": 1859
+    },
+    {
+      "id": "XrHrmus5pAo",
+      "title": "noc20 cs02 lec09 Operations on Pseudorandom Generators",
+      "duration": 1822
+    },
+    {
+      "id": "pBELpoglnvQ",
+      "title": "noc20 cs02 lec10 Stream Ciphers",
+      "duration": 1210
+    },
+    {
+      "id": "YgB_ae1UjMI",
+      "title": "noc20 cs02 lec11 Provably secure Instantiation of PRG",
+      "duration": 2389
+    },
+    {
+      "id": "JUYdd4FHC78",
+      "title": "noc20 cs02 lec12 Practical Instantiations of PRG",
+      "duration": 1985
+    },
+    {
+      "id": "wXI4cjZzB3A",
+      "title": "noc20 cs02 lec13 CPA security",
+      "duration": 2101
+    },
+    {
+      "id": "_iPVd87B_zc",
+      "title": "noc20 cs02 lec14 Pseudo random Functions PRFs",
+      "duration": 2511
+    },
+    {
+      "id": "QRquzIsPPJk",
+      "title": "noc20 cs02 lec15 CPA secure Encryption from PRF",
+      "duration": 2236
+    },
+    {
+      "id": "3ujQWgW41-M",
+      "title": "noc20 cs02 lec16 Modes of Operations of Block Ciphers Part I",
+      "duration": 1608
+    },
+    {
+      "id": "RKd8I5R_bM8",
+      "title": "noc20 cs02 lec17 Modes of Operations of Block Ciphers Part II",
+      "duration": 2099
+    },
+    {
+      "id": "-Oza6jm56eE",
+      "title": "noc20 cs02 lec18 Theoretical Constructions of Block Ciphers",
+      "duration": 2316
+    },
+    {
+      "id": "q9CgbEC3qbg",
+      "title": "noc20 cs02 lec19 Practical Constructions of Block Ciphers  Part I",
+      "duration": 2553
+    },
+    {
+      "id": "UxtR-CB69Rw",
+      "title": "noc20 cs02 lec20 Practical Constructions of Block Ciphers  Part II",
+      "duration": 2499
+    },
+    {
+      "id": "-lYoMYslB10",
+      "title": "noc20 cs02 lec21 From Passive to Active Adversary",
+      "duration": 2176
+    },
+    {
+      "id": "D7law6sIL9Q",
+      "title": "noc20 cs02 lec22 Message Integrity and Authentication",
+      "duration": 1604
+    },
+    {
+      "id": "4AKQiWGuQGk",
+      "title": "noc20 cs02 lec23 Message Authentication for Long Messages   Part I",
+      "duration": 1822
+    },
+    {
+      "id": "GRU_AcMX6cU",
+      "title": "noc20 cs02 lec24 Message Authentication for Long Messages   Part II",
+      "duration": 2013
+    },
+    {
+      "id": "SZHqphyYBQg",
+      "title": "noc20 cs02 lec25 Information theoretic MACs   Part I",
+      "duration": 1630
+    },
+    {
+      "id": "IAEiNJkz6PI",
+      "title": "noc20 cs02 lec26 Information theoretic MACs   Part II",
+      "duration": 1825
+    },
+    {
+      "id": "FOk8TN7HQLo",
+      "title": "noc20 cs02 lec27 Cryptographic Hash Functions   Part I",
+      "duration": 1811
+    },
+    {
+      "id": "S5CjxbRDj-s",
+      "title": "noc20 cs02 lec28 Cryptographic Hash Functions  Part II",
+      "duration": 2034
+    },
+    {
+      "id": "b6cZMalRs84",
+      "title": "noc20 cs02 lec29 Message Authentication Using Hash Functions",
+      "duration": 2576
+    },
+    {
+      "id": "l5aQJJpI1kE",
+      "title": "noc20 cs02 lec30 Generic Attacks on Hash Functions and Additional Applications of Hash Functions",
+      "duration": 2509
+    },
+    {
+      "id": "lN_5J0IRvAg",
+      "title": "noc20 cs02 lec31 Random Oracle Model  Part I",
+      "duration": 1598
+    },
+    {
+      "id": "STKDTs4gd10",
+      "title": "noc20 cs02 lec32 Random Oracle Model  Part II",
+      "duration": 2305
+    },
+    {
+      "id": "Ez5feo06wy4",
+      "title": "noc20 cs02 lec33 Authenticated Encryption",
+      "duration": 1934
+    },
+    {
+      "id": "t-OQFQLEWqw",
+      "title": "noc20 cs02 lec34 Composing CPA secure Cipher with a Secure MAC   Part I",
+      "duration": 2968
+    },
+    {
+      "id": "h8N3ExKSQSg",
+      "title": "noc20 cs02 lec35 Composing CPA secure Cipher with a Secure MAC  Part II",
+      "duration": 1994
+    },
+    {
+      "id": "m3BJbPGlTEQ",
+      "title": "noc20 cs02 lec36 Key Exchange Protocols   Part I",
+      "duration": 2090
+    },
+    {
+      "id": "lAOeNquHhnM",
+      "title": "noc20 cs02 lec37 Key Exchange Protocols   Part II",
+      "duration": 1283
+    },
+    {
+      "id": "0c-0oMjuUv4",
+      "title": "noc20 cs02 lec38 Cyclic groups",
+      "duration": 2251
+    },
+    {
+      "id": "LF9GnfnShUs",
+      "title": "noc20 cs02 lec39 Cryptographic Hardness Assumptions in the Cyclic Groups",
+      "duration": 1911
+    },
+    {
+      "id": "Fs-mNyay6Uc",
+      "title": "noc20 cs02 lec40 Candidate Cyclic Groups for Cryptographic Purposes   Part I",
+      "duration": 1467
+    },
+    {
+      "id": "debalr6sjMM",
+      "title": "noc20 cs02 lec41 Candidate Cyclic Groups for Cryptographic Purposes   Part II",
+      "duration": 1640
+    },
+    {
+      "id": "19tskoxC7qw",
+      "title": "noc20 cs02 lec42 Cryptographic Applications of the Discrete Log Assumption",
+      "duration": 1925
+    },
+    {
+      "id": "tBRP0aSeHyE",
+      "title": "noc20 cs02 lec43 Public key Encryption",
+      "duration": 1858
+    },
+    {
+      "id": "D7qYmC-PoBI",
+      "title": "noc20 cs02 lec44 El Gamal Public key Encryption Scheme",
+      "duration": 2191
+    },
+    {
+      "id": "sb-0W2EMvMY",
+      "title": "noc20 cs02 lec45 RSA Assumption",
+      "duration": 1511
+    },
+    {
+      "id": "gVPyTRbBc70",
+      "title": "noc20 cs02 lec46 RSA Public key Cryptosystem",
+      "duration": 2714
+    },
+    {
+      "id": "rQrVuH5HFIk",
+      "title": "noc20 cs02 lec47 Hybrid Public key Cryptosystem",
+      "duration": 2234
+    },
+    {
+      "id": "UGqHs7MmCBQ",
+      "title": "noc20 cs02 lec48 CCA Secure Public key Ciphers",
+      "duration": 1947
+    },
+    {
+      "id": "KBhcg9jnU3Q",
+      "title": "noc20 cs02 lec49 CCA Secure Public key Ciphers Based on Diffie Hellman Problems",
+      "duration": 1542
+    },
+    {
+      "id": "71YY4Pf6FtU",
+      "title": "noc20 cs02 lec50 CCA Secure Public key Ciphers Based on RSA Assumption",
+      "duration": 2331
+    },
+    {
+      "id": "JMq2RaFYWXI",
+      "title": "noc20 cs02 lec51 Digital Signatures",
+      "duration": 2197
+    },
+    {
+      "id": "ML5ncYzTks4",
+      "title": "noc20 cs02 lec52 RSA Signatures",
+      "duration": 1165
+    },
+    {
+      "id": "vANEg9zVPxM",
+      "title": "noc20 cs02 lec53 Identification Schemes",
+      "duration": 2421
+    },
+    {
+      "id": "y5vBnyPpkWI",
+      "title": "noc20 cs02 lec54 Schnorr Signature Scheme and TLS or SSL",
+      "duration": 1788
+    },
+    {
+      "id": "H4j-NU011Dc",
+      "title": "noc20 cs02 lec55 Number Theory",
+      "duration": 2015
+    },
+    {
+      "id": "Rsn8HjNiQpA",
+      "title": "noc20 cs02 lec56 Secret Sharing",
+      "duration": 2165
+    },
+    {
+      "id": "Ntt7CLHaepU",
+      "title": "noc20 cs02 lec57 Zero Knowledge Protocols   Part I",
+      "duration": 1548
+    },
+    {
+      "id": "AsIAQhG5_hA",
+      "title": "noc20 cs02 lec58 Zero Knowledge Protocols   Part II",
+      "duration": 1853
+    },
+    {
+      "id": "-Wja13AA2DA",
+      "title": "noc20 cs02 lec59 Good Bye for Now",
+      "duration": 622
+    }
+  ]
+}

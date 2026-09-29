@@ -1,0 +1,610 @@
+{
+  "courseId": "reactjs-tutorial-for-beginners-dfd8aa",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:55:15.169Z",
+  "title": "ReactJS Tutorial for Beginners",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "QFaFIcGhPoM",
+      "title": "ReactJS Tutorial - 1 - Introduction",
+      "duration": 574
+    },
+    {
+      "id": "9hb_0TZ_MVI",
+      "title": "ReactJS Tutorial - 2 - Hello World",
+      "duration": 294
+    },
+    {
+      "id": "9VIiLJL0H4Y",
+      "title": "ReactJS Tutorial - 3 - Folder Structure",
+      "duration": 335
+    },
+    {
+      "id": "Y2hgEGPzTZY",
+      "title": "ReactJS Tutorial - 4 - Components",
+      "duration": 299
+    },
+    {
+      "id": "Cla1WwguArA",
+      "title": "ReactJS Tutorial - 5 - Functional Components",
+      "duration": 393
+    },
+    {
+      "id": "lnV34uLEzis",
+      "title": "ReactJS Tutorial - 6 - Class Components",
+      "duration": 382
+    },
+    {
+      "id": "oecI26cWqzk",
+      "title": "ReactJS Tutorial - 7 - Hooks Update",
+      "duration": 234
+    },
+    {
+      "id": "7fPXI_MnBOY",
+      "title": "ReactJS Tutorial - 8 - JSX",
+      "duration": 685
+    },
+    {
+      "id": "m7OWXtbiXX8",
+      "title": "ReactJS Tutorial - 9 - Props",
+      "duration": 697
+    },
+    {
+      "id": "4ORZ1GmjaMc",
+      "title": "ReactJS Tutorial - 10 - State",
+      "duration": 635
+    },
+    {
+      "id": "uirRaVjRsf4",
+      "title": "ReactJS Tutorial - 11 - setState",
+      "duration": 870
+    },
+    {
+      "id": "5_PdMS9CLLI",
+      "title": "ReactJS Tutorial - 12 - Destructuring props and state",
+      "duration": 285
+    },
+    {
+      "id": "Znqv84xi8Vs",
+      "title": "ReactJS Tutorial - 13 - Event Handling",
+      "duration": 456
+    },
+    {
+      "id": "kVWpBtRjkCk",
+      "title": "ReactJS Tutorial - 14 - Binding Event Handlers",
+      "duration": 716
+    },
+    {
+      "id": "QpfyjwhY9kg",
+      "title": "ReactJS Tutorial - 15 - Methods as props",
+      "duration": 525
+    },
+    {
+      "id": "7o5FPaVA9m0",
+      "title": "ReactJS Tutorial - 16 - Conditional Rendering",
+      "duration": 706
+    },
+    {
+      "id": "5s8Ol9uw-yM",
+      "title": "ReactJS Tutorial - 17 - List Rendering",
+      "duration": 717
+    },
+    {
+      "id": "0sasRxl35_8",
+      "title": "ReactJS Tutorial - 18 - Lists and Keys",
+      "duration": 452
+    },
+    {
+      "id": "xlPxnc5uUPQ",
+      "title": "ReactJS Tutorial - 19 - Index as Key Anti-pattern",
+      "duration": 660
+    },
+    {
+      "id": "j5P9FHiBVNo",
+      "title": "ReactJS Tutorial - 20 - Styling and CSS Basics",
+      "duration": 700
+    },
+    {
+      "id": "7Vo_VCcWupQ",
+      "title": "ReactJS Tutorial - 21 - Basics of Form Handling",
+      "duration": 829
+    },
+    {
+      "id": "qnN_FuFNq2g",
+      "title": "ReactJS Tutorial - 22 - Component Lifecycle Methods",
+      "duration": 159
+    },
+    {
+      "id": "KDXZibVdiEI",
+      "title": "ReactJS Tutorial - 23 - Component Mounting Lifecycle Methods",
+      "duration": 637
+    },
+    {
+      "id": "DyPkojd1fas",
+      "title": "ReactJS Tutorial - 24 - Component Updating Lifecycle Methods",
+      "duration": 635
+    },
+    {
+      "id": "bHdh1T0-US4",
+      "title": "ReactJS Tutorial - 25 - Fragments",
+      "duration": 583
+    },
+    {
+      "id": "YCRuTT31qR0",
+      "title": "ReactJS Tutorial - 26 - Pure Components",
+      "duration": 765
+    },
+    {
+      "id": "7TaBhrnPH78",
+      "title": "ReactJS Tutorial - 27 - memo",
+      "duration": 261
+    },
+    {
+      "id": "FXa9mMTKOu8",
+      "title": "ReactJS Tutorial - 28 - Refs",
+      "duration": 573
+    },
+    {
+      "id": "8aCXVC9Qmto",
+      "title": "ReactJS Tutorial - 29 - Refs with Class Components",
+      "duration": 341
+    },
+    {
+      "id": "RLWniwmfdq4",
+      "title": "ReactJS Tutorial - 30 - Forwarding Refs",
+      "duration": 447
+    },
+    {
+      "id": "HpHLa-5Wdys",
+      "title": "ReactJS Tutorial - 31 - Portals",
+      "duration": 559
+    },
+    {
+      "id": "DNYXgtZBRPE",
+      "title": "ReactJS Tutorial - 32 - Error Boundary",
+      "duration": 653
+    },
+    {
+      "id": "B6aNv8nkUSw",
+      "title": "ReactJS Tutorial - 33 - Higher Order Components (Part 1)",
+      "duration": 410
+    },
+    {
+      "id": "rsBQj6X7UK8",
+      "title": "ReactJS Tutorial - 34 - Higher Order Components (Part 2)",
+      "duration": 759
+    },
+    {
+      "id": "l8V59zIdBXU",
+      "title": "ReactJS Tutorial - 35 - Higher Order Components (Part 3)",
+      "duration": 222
+    },
+    {
+      "id": "NdapMDgNhtE",
+      "title": "ReactJS Tutorial - 36 - Render Props (Part 1)",
+      "duration": 297
+    },
+    {
+      "id": "EZil2OTyB4w",
+      "title": "ReactJS Tutorial - 37 - Render Props (Part 2)",
+      "duration": 670
+    },
+    {
+      "id": "j3j8St50fNY",
+      "title": "ReactJS Tutorial - 38 - Context (Part 1)",
+      "duration": 205
+    },
+    {
+      "id": "lTjQjWemKgE",
+      "title": "ReactJS Tutorial - 39 - Context (Part 2)",
+      "duration": 445
+    },
+    {
+      "id": "A9WlkhdLnn0",
+      "title": "ReactJS Tutorial - 40 - Context (Part 3)",
+      "duration": 284
+    },
+    {
+      "id": "GTmjthNvrxY",
+      "title": "ReactJS Tutorial - 41 - HTTP and React",
+      "duration": 197
+    },
+    {
+      "id": "NEYrSUM4Umw",
+      "title": "ReactJS Tutorial - 42 - HTTP GET Request",
+      "duration": 466
+    },
+    {
+      "id": "x9UEDRbLhJE",
+      "title": "ReactJS Tutorial - 43 - HTTP Post Request",
+      "duration": 435
+    },
+    {
+      "id": "cF2lQ_gZeA8",
+      "title": "React Hooks Tutorial - 1 - Introduction",
+      "duration": 476
+    },
+    {
+      "id": "lAW1Jmmr9hc",
+      "title": "React Hooks Tutorial - 2 - useState Hook",
+      "duration": 645
+    },
+    {
+      "id": "d0plTCQgsXs",
+      "title": "React Hooks Tutorial - 3 - useState with previous state",
+      "duration": 381
+    },
+    {
+      "id": "-3lL8oyev9w",
+      "title": "React Hooks Tutorial - 4 - useState with object",
+      "duration": 439
+    },
+    {
+      "id": "RZ5wKYbOM_I",
+      "title": "React Hooks Tutorial - 5 - useState with array",
+      "duration": 355
+    },
+    {
+      "id": "06Y6aJzTmXY",
+      "title": "React Hooks Tutorial - 6 - useEffect Hook",
+      "duration": 227
+    },
+    {
+      "id": "nAuWOnFMlOw",
+      "title": "React Hooks Tutorial - 7 - useEffect after render",
+      "duration": 444
+    },
+    {
+      "id": "8DYlzVUTC7s",
+      "title": "React Hooks Tutorial - 8 - Conditionally run effects",
+      "duration": 459
+    },
+    {
+      "id": "BH4xvzHa7H8",
+      "title": "React Hooks Tutorial - 9 - Run effects only once",
+      "duration": 325
+    },
+    {
+      "id": "DTlmk6QeOHY",
+      "title": "React Hooks Tutorial - 10 - useEffect with cleanup",
+      "duration": 354
+    },
+    {
+      "id": "SP-NrbQHFww",
+      "title": "React Hooks Tutorial - 11 - useEffect with incorrect dependency",
+      "duration": 625
+    },
+    {
+      "id": "bYFYF2GnMy8",
+      "title": "React Hooks Tutorial - 12 - Fetching data with useEffect Part 1",
+      "duration": 338
+    },
+    {
+      "id": "1tfd6ANaNRY",
+      "title": "React Hooks Tutorial - 13 - Fetching data with useEffect Part 2",
+      "duration": 285
+    },
+    {
+      "id": "zm_09NER-R0",
+      "title": "React Hooks Tutorial - 14 - Fetching data with useEffect Part 3",
+      "duration": 178
+    },
+    {
+      "id": "CI7EYWmRDJE",
+      "title": "React Hooks Tutorial - 15 - useContext Hook Part 1",
+      "duration": 223
+    },
+    {
+      "id": "tEqNSOhCHLU",
+      "title": "React Hooks Tutorial - 16 - useContext Hook Part 2",
+      "duration": 369
+    },
+    {
+      "id": "UjjtvroahBU",
+      "title": "React Hooks Tutorial - 17 - useContext Hook Part 3",
+      "duration": 182
+    },
+    {
+      "id": "cVYp4u1m6iA",
+      "title": "React Hooks Tutorial - 18 - useReducer Hook",
+      "duration": 523
+    },
+    {
+      "id": "IHJ-TO_1nME",
+      "title": "React Hooks Tutorial - 19 - useReducer (simple state & action)",
+      "duration": 589
+    },
+    {
+      "id": "uX7lxFrWUbA",
+      "title": "React Hooks Tutorial - 20 - useReducer (complex state & action)",
+      "duration": 514
+    },
+    {
+      "id": "5DsCKNRA8s4",
+      "title": "React Hooks Tutorial - 21 - Multiple useReducers",
+      "duration": 189
+    },
+    {
+      "id": "BCD2irXaVoE",
+      "title": "React Hooks Tutorial - 22 - useReducer with useContext",
+      "duration": 731
+    },
+    {
+      "id": "snzS7-73SEQ",
+      "title": "React Hooks Tutorial - 23 - Fetching data with useReducer Part 1",
+      "duration": 423
+    },
+    {
+      "id": "imjfiXxvMD8",
+      "title": "React Hooks Tutorial - 24 - Fetching data with useReducer Part 2",
+      "duration": 429
+    },
+    {
+      "id": "3VClygDRSsU",
+      "title": "React Hooks Tutorial - 25 - useState vs useReducer",
+      "duration": 259
+    },
+    {
+      "id": "IL82CzlaCys",
+      "title": "React Hooks Tutorial - 26 - useCallback Hook",
+      "duration": 926
+    },
+    {
+      "id": "qySZIzZvZOY",
+      "title": "React Hooks Tutorial - 27 - useMemo Hook",
+      "duration": 641
+    },
+    {
+      "id": "yCS2m01bQ6w",
+      "title": "React Hooks Tutorial - 28 - useRef Hook Part 1",
+      "duration": 258
+    },
+    {
+      "id": "LWg0OyZQffc",
+      "title": "React Hooks Tutorial - 29 - useRef Hook Part 2",
+      "duration": 586
+    },
+    {
+      "id": "l-s9MgoMwTI",
+      "title": "React Hooks Tutorial - 30 - Custom Hooks",
+      "duration": 109
+    },
+    {
+      "id": "4yp6T-hF5ZY",
+      "title": "React Hooks Tutorial - 31 - useDocumentTitle Custom Hook",
+      "duration": 539
+    },
+    {
+      "id": "W3_GIiN-nuc",
+      "title": "React Hooks Tutorial - 32 - useCounter Custom Hook",
+      "duration": 467
+    },
+    {
+      "id": "6am-yn3ZLEw",
+      "title": "React Hooks Tutorial - 33 - useInput Custom Hook",
+      "duration": 586
+    },
+    {
+      "id": "d10qxIXgLbg",
+      "title": "How To Debug React Apps",
+      "duration": 1065
+    },
+    {
+      "id": "YP2f-ErXG_M",
+      "title": "React Render Tutorial - 1 - Introduction",
+      "duration": 164
+    },
+    {
+      "id": "VPtL6dU0YXc",
+      "title": "React Render Tutorial - 2 - Rendering",
+      "duration": 344
+    },
+    {
+      "id": "OQYsHvEq7nE",
+      "title": "React Render Tutorial - 3 - useState",
+      "duration": 761
+    },
+    {
+      "id": "xgDb05jNpAo",
+      "title": "React Render Tutorial - 4 - useReducer",
+      "duration": 565
+    },
+    {
+      "id": "-hi-QQHWlHg",
+      "title": "React Render Tutorial - 5 - State Immutability",
+      "duration": 678
+    },
+    {
+      "id": "b_DtnmQkhWM",
+      "title": "React Render Tutorial - 6 - Parent and Child",
+      "duration": 663
+    },
+    {
+      "id": "K19dWjcI1Jk",
+      "title": "React Render Tutorial - 7 - Same Element Reference",
+      "duration": 762
+    },
+    {
+      "id": "bZeBToIqaR4",
+      "title": "React Render Tutorial - 8 - React memo",
+      "duration": 504
+    },
+    {
+      "id": "8T1TRh8xDig",
+      "title": "React Render Tutorial - 9 - Questions on Optimization",
+      "duration": 342
+    },
+    {
+      "id": "fVnnPImZ6a8",
+      "title": "React Render Tutorial - 10 - Incorrect memo with children",
+      "duration": 371
+    },
+    {
+      "id": "orrme2ydRfs",
+      "title": "React Render Tutorial - 11 - Incorrect memo with Impure Component",
+      "duration": 307
+    },
+    {
+      "id": "df6OFeIl2l0",
+      "title": "React Render Tutorial - 12 - Incorrect memo with props Reference",
+      "duration": 447
+    },
+    {
+      "id": "v3J9hYAMVPc",
+      "title": "React Render Tutorial - 13 - useMemo and useCallback",
+      "duration": 263
+    },
+    {
+      "id": "QIhKdivu0ok",
+      "title": "React Render Tutorial - 14 - Context",
+      "duration": 674
+    },
+    {
+      "id": "OyW9wL1jf3A",
+      "title": "React Render Tutorial - 15 - Context and memo",
+      "duration": 252
+    },
+    {
+      "id": "C5ORrpny8Nw",
+      "title": "React - 16 - Context and Same Element Reference",
+      "duration": 219
+    },
+    {
+      "id": "TiSGujM22OI",
+      "title": "React TypeScript Tutorial - 1 - Introduction",
+      "duration": 205
+    },
+    {
+      "id": "Kt4PQlcLHco",
+      "title": "React TypeScript Tutorial - 2 - Getting Started",
+      "duration": 281
+    },
+    {
+      "id": "KpA6oEaCHtk",
+      "title": "React TypeScript Tutorial - 3 - Typing Props",
+      "duration": 349
+    },
+    {
+      "id": "mDu54a5U3OU",
+      "title": "React TypeScript Tutorial - 4 - Basic Props",
+      "duration": 496
+    },
+    {
+      "id": "zLyeWSfTMa8",
+      "title": "React TypeScript Tutorial - 5 - Advanced Props",
+      "duration": 588
+    },
+    {
+      "id": "xNSIHFi8o2M",
+      "title": "React TypeScript Tutorial - 6 - Event Props",
+      "duration": 446
+    },
+    {
+      "id": "FNfHtujZE4k",
+      "title": "React TypeScript Tutorial - 7 - Style Props",
+      "duration": 219
+    },
+    {
+      "id": "4Ml7Lp_QcSo",
+      "title": "React TypeScript Tutorial - 8 - Prop Types and Tips",
+      "duration": 261
+    },
+    {
+      "id": "2NKNjeB0WVs",
+      "title": "React TypeScript Tutorial - 9 - useState Hook",
+      "duration": 276
+    },
+    {
+      "id": "LNpWuRUIR5A",
+      "title": "React TypeScript Tutorial - 10 - useState Future Value",
+      "duration": 381
+    },
+    {
+      "id": "U3UizPM4aSk",
+      "title": "React TypeScript Tutorial - 11 - useState Type Assertion",
+      "duration": 146
+    },
+    {
+      "id": "lSh9RyYcnPA",
+      "title": "React TypeScript Tutorial - 12 - useReducer Hook",
+      "duration": 396
+    },
+    {
+      "id": "bcmes6hUO3U",
+      "title": "React TypeScript Tutorial - 13 - useReducer Strict Action Types",
+      "duration": 341
+    },
+    {
+      "id": "rbtTb9hLYS8",
+      "title": "React TypeScript Tutorial - 14 - useContext Hook",
+      "duration": 441
+    },
+    {
+      "id": "9726Yq3Scjk",
+      "title": "React TypeScript Tutorial - 15 - useContext Future Value",
+      "duration": 703
+    },
+    {
+      "id": "hA4i1RTbZ2A",
+      "title": "React TypeScript Tutorial - 16 - useRef Hook",
+      "duration": 391
+    },
+    {
+      "id": "JOhIMtMxjpU",
+      "title": "React TypeScript Tutorial - 17 - Class Component",
+      "duration": 236
+    },
+    {
+      "id": "qvdnTfyv7y8",
+      "title": "React TypeScript Tutorial - 18 - Component Prop",
+      "duration": 322
+    },
+    {
+      "id": "xFNk2nfDh4M",
+      "title": "React TypeScript Tutorial - 19 - Generic Props",
+      "duration": 523
+    },
+    {
+      "id": "yqn9Fkv7f2M",
+      "title": "React TypeScript Tutorial - 20 - Restricting Props",
+      "duration": 346
+    },
+    {
+      "id": "jrnIh0RPeCw",
+      "title": "React TypeScript Tutorial - 21 - Template Literals and Exclude",
+      "duration": 383
+    },
+    {
+      "id": "4GchlC06ca0",
+      "title": "React TypeScript Tutorial - 22 - Wrapping HTML Elements",
+      "duration": 461
+    },
+    {
+      "id": "AHadSDk7i6s",
+      "title": "React TypeScript Tutorial - 23 - Extracting a Components Prop Types",
+      "duration": 191
+    },
+    {
+      "id": "uZ8GZm5KEXY",
+      "title": "React TypeScript Tutorial - 24 - Polymorphic Components",
+      "duration": 611
+    },
+    {
+      "id": "YmATkdc-5NY",
+      "title": "React TypeScript Tutorial - 25 - Wrapping up",
+      "duration": 146
+    },
+    {
+      "id": "tfPq0iCJioQ",
+      "title": "React Interview Questions | A Preparation Guide",
+      "duration": 509
+    },
+    {
+      "id": "vYnk_SxVJKE",
+      "title": "Learn react-admin in 30 minutes",
+      "duration": 1565
+    }
+  ]
+}

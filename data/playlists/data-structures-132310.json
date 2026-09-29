@@ -1,0 +1,730 @@
+{
+  "courseId": "data-structures-132310",
+  "sourceUrl": "https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:25.970Z",
+  "title": "Data Structures",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "xLetJpcjHS0",
+      "title": "Introduction to Data Structures",
+      "duration": 678
+    },
+    {
+      "id": "ZniDyolzrBw",
+      "title": "Data Types vs. Abstract Data Types",
+      "duration": 471
+    },
+    {
+      "id": "2JroZSycSXs",
+      "title": "Data Structure Definition & Advantages",
+      "duration": 233
+    },
+    {
+      "id": "T9DSBhBR_I4",
+      "title": "Types of Data Structures",
+      "duration": 268
+    },
+    {
+      "id": "f_IaKCB7Zo8",
+      "title": "Basics of Asymptotic Analysis (Part 1)",
+      "duration": 392
+    },
+    {
+      "id": "Xhl3LS_7ulY",
+      "title": "Basics of Asymptotic Analysis (Part 2)",
+      "duration": 191
+    },
+    {
+      "id": "MgyLGVUn8LQ",
+      "title": "Basics of Asymptotic Analysis (Part 3)",
+      "duration": 590
+    },
+    {
+      "id": "_lO-qsfk_0Q",
+      "title": "Basics of Asymptotic Analysis (Part 4)",
+      "duration": 464
+    },
+    {
+      "id": "lRy3RmxjR0k",
+      "title": "Basics of Asymptotic Analysis (Part 5)",
+      "duration": 735
+    },
+    {
+      "id": "BpiMRyWoDu0",
+      "title": "Guidelines for Asymptotic Analysis (Part 1)",
+      "duration": 304
+    },
+    {
+      "id": "Aky8vEtC2dY",
+      "title": "Guidelines for Asymptotic Analysis (Part 2)",
+      "duration": 506
+    },
+    {
+      "id": "HFjJgSguqUA",
+      "title": "Asymptotic Analysis (Solved Problem 1)",
+      "duration": 443
+    },
+    {
+      "id": "_92v4uTrTwM",
+      "title": "Asymptotic Analysis (Solved Problem 2)",
+      "duration": 229
+    },
+    {
+      "id": "WWeUhPlUt1k",
+      "title": "Asymptotic Analysis (Solved Problem 3)",
+      "duration": 247
+    },
+    {
+      "id": "ij2jrsUmwCI",
+      "title": "Understanding the Void Pointers",
+      "duration": 259
+    },
+    {
+      "id": "oPScHNQDCkc",
+      "title": "Understanding the Null Pointers",
+      "duration": 263
+    },
+    {
+      "id": "qNgV7oAHElk",
+      "title": "Understanding the Dangling Pointers",
+      "duration": 311
+    },
+    {
+      "id": "NMxqA8OG2gE",
+      "title": "Understanding the Wild Pointers",
+      "duration": 147
+    },
+    {
+      "id": "udfbq4M2Kfc",
+      "title": "Basics of Dynamic Memory Allocation",
+      "duration": 258
+    },
+    {
+      "id": "Vch7_YeGKH4",
+      "title": "Dynamic Memory Allocation using malloc()",
+      "duration": 509
+    },
+    {
+      "id": "8q0jLDun0_0",
+      "title": "Dynamic Memory Allocation using calloc()",
+      "duration": 126
+    },
+    {
+      "id": "j1jo8QQT7zw",
+      "title": "Dynamic Memory Allocation using realloc()",
+      "duration": 292
+    },
+    {
+      "id": "qG0wUzuBI_A",
+      "title": "Releasing the Dynamically Allocated Memory using free()",
+      "duration": 244
+    },
+    {
+      "id": "16P51olKuzk",
+      "title": "Structures and Functions (Part 1)",
+      "duration": 431
+    },
+    {
+      "id": "uw8gkmhUwQ8",
+      "title": "Structures and Functions (Part 2)",
+      "duration": 170
+    },
+    {
+      "id": "f-AR6vUuTYc",
+      "title": "Structures and Functions (Part 3)",
+      "duration": 168
+    },
+    {
+      "id": "bN2h1cdj1to",
+      "title": "Structures and Functions (Part 4)",
+      "duration": 218
+    },
+    {
+      "id": "NA_bM5Jwxiw",
+      "title": "Structures and Functions (Part 5)",
+      "duration": 470
+    },
+    {
+      "id": "8kOtIcar3ck",
+      "title": "Structures and Functions (Part 6)",
+      "duration": 314
+    },
+    {
+      "id": "otu7gJVcwDw",
+      "title": "Self Referential Structures",
+      "duration": 380
+    },
+    {
+      "id": "R9PTBwOzceo",
+      "title": "Introduction to Linked List",
+      "duration": 381
+    },
+    {
+      "id": "b5QR4AmrspU",
+      "title": "Array vs. Single Linked List (In Terms of Representation)",
+      "duration": 250
+    },
+    {
+      "id": "DneLxrPmmsw",
+      "title": "Creating the Node of a Single Linked List",
+      "duration": 360
+    },
+    {
+      "id": "nxtDe6Gq4t4",
+      "title": "Creating a Single Linked List (Part 1)",
+      "duration": 277
+    },
+    {
+      "id": "HrY_YmU1vdg",
+      "title": "Creating a Single Linked List (Part 2)",
+      "duration": 420
+    },
+    {
+      "id": "e0s-zmpedYo",
+      "title": "Traversing a Single Linked List (Counting the Nodes)",
+      "duration": 367
+    },
+    {
+      "id": "FIV-0A0mZd8",
+      "title": "Traversing a Single Linked List (Printing the Data)",
+      "duration": 224
+    },
+    {
+      "id": "b7HpuVs3Xi0",
+      "title": "Traversing the List (Linked List vs. Arrays)",
+      "duration": 240
+    },
+    {
+      "id": "LYGbeWnYXd8",
+      "title": "Single Linked List (Inserting a Node at the End)",
+      "duration": 349
+    },
+    {
+      "id": "80gNiLhyr7A",
+      "title": "Insertion at the End (Linked List vs. Array) - Part 1",
+      "duration": 455
+    },
+    {
+      "id": "egUHjERGf88",
+      "title": "Insertion at the End (Linked List vs. Array) - Part 2",
+      "duration": 487
+    },
+    {
+      "id": "jgqg6Qw68_Q",
+      "title": "Single Linked List (Inserting a Node at the Beginning)",
+      "duration": 337
+    },
+    {
+      "id": "YL8MnLAJOMg",
+      "title": "Inserting the Data at the Beginning of Single Linked Lists (Possible Mistake)",
+      "duration": 347
+    },
+    {
+      "id": "90zyJ1eVeUw",
+      "title": "Inserting the Data at the Beginning of Single Linked List (2nd Method)",
+      "duration": 227
+    },
+    {
+      "id": "IdRq1uz4-t0",
+      "title": "Inserting the Data at the Beginning (Singly Linked List vs. Array)",
+      "duration": 448
+    },
+    {
+      "id": "0hGxILnKvJk",
+      "title": "Single Linked List (Inserting a Node at a Certain Position)",
+      "duration": 412
+    },
+    {
+      "id": "_ajoEqskMHE",
+      "title": "Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 1",
+      "duration": 187
+    },
+    {
+      "id": "pBbVRIjy3VY",
+      "title": "Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 2",
+      "duration": 488
+    },
+    {
+      "id": "-rcIWx-JTxw",
+      "title": "Single Linked List (Deleting the First Node)",
+      "duration": 227
+    },
+    {
+      "id": "TpgxJupHATQ",
+      "title": "Single Linked List (Deleting the Last Node)",
+      "duration": 306
+    },
+    {
+      "id": "8flOSiGsO-g",
+      "title": "Single Linked List (Deleting the Last Node using Single Pointer)",
+      "duration": 241
+    },
+    {
+      "id": "h0qOcQs-nSw",
+      "title": "Deletion at the End (Singly Linked List vs. Array)",
+      "duration": 265
+    },
+    {
+      "id": "AhE22mHckzE",
+      "title": "Deletion at the Beginning (Single Linked List vs. Array)",
+      "duration": 259
+    },
+    {
+      "id": "f1r_jxCyOl0",
+      "title": "Single Linked List (Deleting the Node at a Particular Position)",
+      "duration": 583
+    },
+    {
+      "id": "ScKTk5GwmG4",
+      "title": "Deleting the Entire Single Linked List",
+      "duration": 366
+    },
+    {
+      "id": "XgABnoJLtG4",
+      "title": "Reverse a Single Linked List",
+      "duration": 717
+    },
+    {
+      "id": "bgtqECHpy8k",
+      "title": "Singly Linked List (Solved Problem 1)",
+      "duration": 301
+    },
+    {
+      "id": "VBxq-gpFWSU",
+      "title": "Singly Linked List (Solved Problem 2)",
+      "duration": 443
+    },
+    {
+      "id": "g5533n34-2A",
+      "title": "Singly Linked List (Solved Problem 3)",
+      "duration": 344
+    },
+    {
+      "id": "z7Q3fd1ylEE",
+      "title": "Singly Linked List (Solved Problem 4)",
+      "duration": 464
+    },
+    {
+      "id": "WJmFjm_N_mw",
+      "title": "Singly Linked List (Solved Problem 5)",
+      "duration": 265
+    },
+    {
+      "id": "J_XaK17r6rY",
+      "title": "Singly Linked List (Solved Problem 6)",
+      "duration": 414
+    },
+    {
+      "id": "7lMlHBOEhag",
+      "title": "Rapid Fire Quiz (Singly Linked List)",
+      "duration": 324
+    },
+    {
+      "id": "e9NG_a6Z0mg",
+      "title": "Introduction to Doubly Linked List",
+      "duration": 183
+    },
+    {
+      "id": "nsMWbs-r4vE",
+      "title": "Doubly Linked List (Inserting a Node in an Empty List)",
+      "duration": 161
+    },
+    {
+      "id": "SPKCATQ--KY",
+      "title": "Doubly Linked List (Insertion at the Beginning)",
+      "duration": 223
+    },
+    {
+      "id": "LDMF8iqO8pg",
+      "title": "Doubly Linked List (Insertion at the End)",
+      "duration": 262
+    },
+    {
+      "id": "le9RuwN2sQg",
+      "title": "Doubly Linked List (Insertion between the Nodes) - Part 1",
+      "duration": 379
+    },
+    {
+      "id": "vL-4DvU4nK4",
+      "title": "Doubly Linked List (Insertion between the Nodes) - Part 2",
+      "duration": 309
+    },
+    {
+      "id": "EgrSkwnuZUU",
+      "title": "Creating an Entire Doubly Linked List",
+      "duration": 421
+    },
+    {
+      "id": "ZxGz3XkGlyA",
+      "title": "Doubly Linked List (Deleting the First Node)",
+      "duration": 216
+    },
+    {
+      "id": "hJ7lVSt0AsQ",
+      "title": "Doubly Linked List (Deleting the Last Node)",
+      "duration": 202
+    },
+    {
+      "id": "4ZOk5g67Lzg",
+      "title": "Doubly Linked List (Deleting the Intermediate Node)",
+      "duration": 313
+    },
+    {
+      "id": "-vWXY57N5xU",
+      "title": "Reversing the Doubly Linked List",
+      "duration": 468
+    },
+    {
+      "id": "ZENzuR6Vbsw",
+      "title": "Doubly Linked List (Solved Problem 1)",
+      "duration": 266
+    },
+    {
+      "id": "u4jeDAgIoqc",
+      "title": "Doubly Linked List (Solved Problem 2)",
+      "duration": 247
+    },
+    {
+      "id": "WEI2GA5mBq8",
+      "title": "Why Doubly Linked List?",
+      "duration": 298
+    },
+    {
+      "id": "DySVJ3O20aU",
+      "title": "Rapid Fire Quiz (Doubly Linked List)",
+      "duration": 325
+    },
+    {
+      "id": "HMkdlu5sP4A",
+      "title": "Introduction to Circular Linked List",
+      "duration": 269
+    },
+    {
+      "id": "IVae9CP-dlo",
+      "title": "Circular Singly Linked List (Insertion at the Beginning)",
+      "duration": 328
+    },
+    {
+      "id": "zI8qPtnQ2tQ",
+      "title": "Traversing a Circular Singly Linked List",
+      "duration": 307
+    },
+    {
+      "id": "kErHUGvFrNg",
+      "title": "Circular Singly Linked List (Insertion at the End)",
+      "duration": 193
+    },
+    {
+      "id": "UlwpE_4y_A0",
+      "title": "Circular Singly Linked List (Insertion between the Nodes)",
+      "duration": 391
+    },
+    {
+      "id": "5pD7P43hL2Q",
+      "title": "Creating a Circular Singly Linked List",
+      "duration": 338
+    },
+    {
+      "id": "D_qSNKsGfrA",
+      "title": "Circular Singly Linked List (Deleting the First Node)",
+      "duration": 269
+    },
+    {
+      "id": "2bqbgNQi2UE",
+      "title": "Circular Singly Linked List (Deleting the Last Node)",
+      "duration": 262
+    },
+    {
+      "id": "HQ6y6kEWbiU",
+      "title": "Circular Singly Linked List (Deleting the Intermediate Node)",
+      "duration": 275
+    },
+    {
+      "id": "j0HZepsDpWo",
+      "title": "Circular Singly Linked List (Counting the Number of Elements)",
+      "duration": 250
+    },
+    {
+      "id": "kDdHfUofhrg",
+      "title": "Circular Singly Linked List (Searching an Element)",
+      "duration": 452
+    },
+    {
+      "id": "3ZrkixbHCTI",
+      "title": "Circular Doubly Linked List (Insertion at the Beginning)",
+      "duration": 370
+    },
+    {
+      "id": "Ynjr36a0NFU",
+      "title": "Circular Doubly Linked List (Insertion at the End)",
+      "duration": 289
+    },
+    {
+      "id": "gF52eWekqz4",
+      "title": "Circular Doubly Linked List (Insertion between the Nodes)",
+      "duration": 328
+    },
+    {
+      "id": "xiLKeIHAqdc",
+      "title": "Circular Doubly Linked List (Deleting the First Node)",
+      "duration": 248
+    },
+    {
+      "id": "hzvneUGiWj4",
+      "title": "Circular Doubly Linked List (Deleting the Last Node)",
+      "duration": 223
+    },
+    {
+      "id": "zb82RiXmVnA",
+      "title": "Circular Doubly Linked List (Deleting the Intermediate Node)",
+      "duration": 353
+    },
+    {
+      "id": "Gg89CzoRDfc",
+      "title": "Sorted Singly Linked List (Inserting a New Element)",
+      "duration": 735
+    },
+    {
+      "id": "eppL94aNwBI",
+      "title": "Application of Linked List (Polynomial Arithmetic) - Part 1",
+      "duration": 254
+    },
+    {
+      "id": "YrwAuv0n1Wk",
+      "title": "Application of Linked List (Polynomial Arithmetic) - Part 2",
+      "duration": 1374
+    },
+    {
+      "id": "cFHZ-a87Vp4",
+      "title": "Application of Linked List (Addition of Two Polynomials)",
+      "duration": 1049
+    },
+    {
+      "id": "_XjzQzZY2gg",
+      "title": "Application of Linked List (Multiplication of Two Polynomials)",
+      "duration": 840
+    },
+    {
+      "id": "bNWPciD7ogg",
+      "title": "Application of Linked List (Multiplication of Two Polynomials) - Improvements",
+      "duration": 721
+    },
+    {
+      "id": "DB0L2_pDFeo",
+      "title": "Adding Two Numbers using Linked Lists - Part 1",
+      "duration": 1114
+    },
+    {
+      "id": "bkElP6EjVEA",
+      "title": "Adding Two Numbers using Linked Lists - Part 2",
+      "duration": 578
+    },
+    {
+      "id": "N0K16q61Hw8",
+      "title": "Adding Two Numbers using Linked Lists - Part 3",
+      "duration": 1076
+    },
+    {
+      "id": "I37kGX-nZEI",
+      "title": "Introduction to Stacks",
+      "duration": 514
+    },
+    {
+      "id": "rS-ZKTqwi90",
+      "title": "Array Implementation of Stacks (Part 1)",
+      "duration": 600
+    },
+    {
+      "id": "Mlv2fMvt9b4",
+      "title": "Array Implementation of Stacks (Part 2)",
+      "duration": 661
+    },
+    {
+      "id": "1tDjNwntufU",
+      "title": "Array Implementation of Stacks (Part 3)",
+      "duration": 608
+    },
+    {
+      "id": "xZuA5hA2yF8",
+      "title": "Array Implementation of Stacks (Part 4)",
+      "duration": 947
+    },
+    {
+      "id": "Yu6BE-zFncU",
+      "title": "Stacks (Important Questions) – Set 1",
+      "duration": 383
+    },
+    {
+      "id": "wJjk3BeOmqA",
+      "title": "Stacks (Important Questions) – Set 2",
+      "duration": 804
+    },
+    {
+      "id": "jj7q_LfW0hQ",
+      "title": "Stacks (Program 1) – Part 1",
+      "duration": 987
+    },
+    {
+      "id": "5PodMf7uc-o",
+      "title": "Stacks (Program 1) – Part 2",
+      "duration": 609
+    },
+    {
+      "id": "pq9mq_AiELo",
+      "title": "Stacks (Program 1) – Part 3",
+      "duration": 816
+    },
+    {
+      "id": "Bhap9SG4EvI",
+      "title": "Stacks (Program 2) – Part 1",
+      "duration": 576
+    },
+    {
+      "id": "PHHyjJk82Mo",
+      "title": "Stacks (Program 2) – Part 2",
+      "duration": 707
+    },
+    {
+      "id": "eEAQX2FzfKo",
+      "title": "Stacks (Program 3)",
+      "duration": 752
+    },
+    {
+      "id": "0-kkDfCOXOI",
+      "title": "Linked List Implementation of Stacks (Part 1)",
+      "duration": 564
+    },
+    {
+      "id": "25oEU6h6zqw",
+      "title": "Linked List Implementation of Stacks (Part 2)",
+      "duration": 709
+    },
+    {
+      "id": "311qJJHiQjU",
+      "title": "Linked List Implementation of Stacks (Part 3)",
+      "duration": 706
+    },
+    {
+      "id": "hrgkobEya0U",
+      "title": "Stacks (Program 4) – Part 1",
+      "duration": 622
+    },
+    {
+      "id": "Oi33tvniyHY",
+      "title": "Stacks (Program 4) – Part 2",
+      "duration": 561
+    },
+    {
+      "id": "m3Frh9R_Phc",
+      "title": "Stacks (Program 4) – Part 3",
+      "duration": 602
+    },
+    {
+      "id": "lRsaSyUFlA4",
+      "title": "Stacks (Program 4) – Part 4",
+      "duration": 674
+    },
+    {
+      "id": "wLMac4N28Kw",
+      "title": "Stacks (Program 4) – Part 5",
+      "duration": 718
+    },
+    {
+      "id": "haeA3bErNpw",
+      "title": "Stacks (Program 4) – Part 6",
+      "duration": 865
+    },
+    {
+      "id": "wzYfTX7qhGY",
+      "title": "Stacks (Program 4) – Part 7",
+      "duration": 878
+    },
+    {
+      "id": "uDfqjMIXB8s",
+      "title": "Stacks (Program 5)",
+      "duration": 1079
+    },
+    {
+      "id": "POM1dnAYgL4",
+      "title": "Application of Stacks (Nested Brackets) - Part 1",
+      "duration": 1141
+    },
+    {
+      "id": "BDiPAuWrcJc",
+      "title": "Application of Stacks (Nested Brackets) - Part 2",
+      "duration": 1532
+    },
+    {
+      "id": "XfX5jlzWQsg",
+      "title": "Application of Stacks (Infix to Postfix) - Part 1",
+      "duration": 633
+    },
+    {
+      "id": "IQ3p9yCLYuQ",
+      "title": "Application of Stacks (Infix to Postfix) - Part 2",
+      "duration": 822
+    },
+    {
+      "id": "aq8S_RJN7bE",
+      "title": "Application of Stacks (Infix to Postfix) - Part 3",
+      "duration": 576
+    },
+    {
+      "id": "ymG0zxuC__I",
+      "title": "Application of Stacks (Infix to Postfix) - Part 4",
+      "duration": 707
+    },
+    {
+      "id": "8HeJxuJ8qeY",
+      "title": "Application of Stacks (Infix to Postfix) - Part 5",
+      "duration": 516
+    },
+    {
+      "id": "7jLR-al8RaM",
+      "title": "Application of Stacks (Infix to Postfix) - Part 6",
+      "duration": 1129
+    },
+    {
+      "id": "qmz9nFacAOE",
+      "title": "Application of Stacks (Infix to Postfix) - Part 7",
+      "duration": 1682
+    },
+    {
+      "id": "imfuqa9E6O8",
+      "title": "Application of Stacks (Infix to Postfix) - Part 8",
+      "duration": 1367
+    },
+    {
+      "id": "4WwkxT_tU9A",
+      "title": "Stacks (GATE Problems) - Set 1",
+      "duration": 915
+    },
+    {
+      "id": "zxvEOvb5z1g",
+      "title": "Stacks (GATE Problems) - Set 2",
+      "duration": 481
+    },
+    {
+      "id": "D80AB1WkzRk",
+      "title": "Queues | Chapter-7 | Data Structures | nesoacademy.org",
+      "duration": 88
+    },
+    {
+      "id": "lAo9r_asiew",
+      "title": "Binary Trees | Chapter-8 | Data Structures | nesoacademy.org",
+      "duration": 184
+    },
+    {
+      "id": "CwJgfGsyArA",
+      "title": "Binary Search Trees | Chapter-9 | Data Structures | nesoacademy.org",
+      "duration": 69
+    },
+    {
+      "id": "8de0iwrsuO0",
+      "title": "AVL Trees | Chapter-10 | Data Structures | nesoacademy.org",
+      "duration": 70
+    }
+  ]
+}

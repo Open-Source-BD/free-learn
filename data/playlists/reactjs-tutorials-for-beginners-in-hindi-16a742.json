@@ -1,0 +1,310 @@
+{
+  "courseId": "reactjs-tutorials-for-beginners-in-hindi-16a742",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:03.122Z",
+  "title": "ReactJS Tutorials for Beginners In Hindi",
+  "channel": "Tutorials Website",
+  "videos": [
+    {
+      "id": "ItGluNVKWlk",
+      "title": "ReactJS Tutorials in Hindi | Introduction | Part-1",
+      "duration": 996
+    },
+    {
+      "id": "q8GQJCirrvs",
+      "title": "ReactJS Tutorials in Hindi | Environment Setup | CDN Links | Part-2",
+      "duration": 651
+    },
+    {
+      "id": "NPXf-QbHTH4",
+      "title": "ReactJS Tutorials in Hindi | Environment Setup using NPM or NPX | Part-3",
+      "duration": 999
+    },
+    {
+      "id": "LQFoCn2iwQM",
+      "title": "NPM Crash Course in Hindi",
+      "duration": 2432
+    },
+    {
+      "id": "kZso009o7XI",
+      "title": "ReactJS Tutorials in Hindi | What is DOM? | DOM vs Virtual DOM  | Part-4",
+      "duration": 1083
+    },
+    {
+      "id": "mfFMKdqrPkU",
+      "title": "ReactJS Tutorials in Hindi | What is Component? | Function and Class Components | Part-5",
+      "duration": 1978
+    },
+    {
+      "id": "hMgYkn8cCqc",
+      "title": "ReactJS Tutorials in Hindi | What is JSX? | Expression in JSX | Part-6",
+      "duration": 2150
+    },
+    {
+      "id": "29uJmmiaQyM",
+      "title": "ReactJS Tutorials in Hindi | What is Props? | Props in React JS | Part-7",
+      "duration": 1784
+    },
+    {
+      "id": "UhIUt-qA1Wk",
+      "title": "ReactJS Tutorials in Hindi | Typechecking With PropTypes| Props Validation in React JS | Part-8",
+      "duration": 1189
+    },
+    {
+      "id": "BqfTG-YEq3c",
+      "title": "ReactJS Tutorials in Hindi | Fragments in React JS | Part-9",
+      "duration": 833
+    },
+    {
+      "id": "1f9niyCIuUs",
+      "title": "ReactJS Tutorials in Hindi | State in React Component | Part-10",
+      "duration": 1749
+    },
+    {
+      "id": "RLM5gwAX-OA",
+      "title": "ReactJS Tutorials in Hindi | Handling Event in React | Part-11",
+      "duration": 1719
+    },
+    {
+      "id": "Q7y1Pru7xHQ",
+      "title": "ReactJS Tutorials in Hindi | Passing Arguments to Event Handlers | Part-12",
+      "duration": 1361
+    },
+    {
+      "id": "KdJYo7Bh5ng",
+      "title": "ReactJS Tutorials in Hindi | Update State Details Using setState Method | Part-13",
+      "duration": 936
+    },
+    {
+      "id": "3E-FhPjAThE",
+      "title": "ReactJS Tutorials in Hindi | Children in JSX | Children in React | Part-14",
+      "duration": 514
+    },
+    {
+      "id": "y331Xd6Q8Zg",
+      "title": "ReactJS Tutorials in Hindi | Rendering an Array of Data with map() and JSX | Part-15",
+      "duration": 453
+    },
+    {
+      "id": "4I062FHjiMo",
+      "title": "ReactJS Tutorials in Hindi | Lifecycle Methods in ReactJS | Part-16",
+      "duration": 894
+    },
+    {
+      "id": "_hX8y81z9PA",
+      "title": "ReactJS Tutorials in Hindi | Component Mounting Lifecycle Methods in ReactJS | Part-17",
+      "duration": 806
+    },
+    {
+      "id": "qfBmPzRcmf0",
+      "title": "ReactJS Tutorials in Hindi | Component Updating Lifecycle Methods in ReactJS | Part-18",
+      "duration": 1733
+    },
+    {
+      "id": "8sDiU9Ud5Sk",
+      "title": "ReactJS Tutorials in Hindi | Component Unmounting Lifecycle Methods in ReactJS | Part-19",
+      "duration": 837
+    },
+    {
+      "id": "1D_j9iKEEsY",
+      "title": "ReactJS Tutorials in Hindi | Pure Component in ReactJS | Part-20",
+      "duration": 1534
+    },
+    {
+      "id": "u3DmIVZxKMw",
+      "title": "ReactJS Tutorials in Hindi | React.memo() for Functional Components Rendering Control | Part-21",
+      "duration": 810
+    },
+    {
+      "id": "-pg-HmRBQ80",
+      "title": "ReactJS Tutorials in Hindi | Hooks in ReactJS | useState | Part-22",
+      "duration": 1138
+    },
+    {
+      "id": "Gt8GHUfOivs",
+      "title": "ReactJS Tutorials in Hindi | React useEffect Hook | useState | Part-23",
+      "duration": 863
+    },
+    {
+      "id": "lB9V-ZE7Bdo",
+      "title": "ReactJS Tutorials in Hindi | Custom Hook in ReactJS | useState | Part-24",
+      "duration": 1148
+    },
+    {
+      "id": "I4VK0aTDMNQ",
+      "title": "ReactJS Tutorials in Hindi | Fetch Data From An API With React Hooks | AJAX and APIs",
+      "duration": 1685
+    },
+    {
+      "id": "6txIE6ZvMZ8",
+      "title": "ReactJS Tutorials in Hindi | If-Else Conditional rendering in React.js | Part-25",
+      "duration": 1684
+    },
+    {
+      "id": "9au0boJfMDY",
+      "title": "ReactJS Tutorials in Hindi | Inline if with Logical && Operator  | Ternary Operator | Part-26",
+      "duration": 790
+    },
+    {
+      "id": "XnLpB0qbVzk",
+      "title": "ReactJS Tutorials in Hindi | Lists in ReactJS | React Map() function | Part-27",
+      "duration": 1611
+    },
+    {
+      "id": "a8PXfCU87d0",
+      "title": "ReactJS Tutorials in Hindi | Keys in ReactJS | React Map() function | Part-28",
+      "duration": 620
+    },
+    {
+      "id": "vMeaYjgFpYQ",
+      "title": "ReactJS Tutorials in Hindi | Styling Component Inline CSS in React JS  | Part-29",
+      "duration": 1247
+    },
+    {
+      "id": "2CSvxQC01Vs",
+      "title": "ReactJS Tutorials in Hindi | How to use External CSS in React JS  | Part-30",
+      "duration": 1083
+    },
+    {
+      "id": "f2mdRb0-KQU",
+      "title": "ReactJS Tutorials in Hindi | How to use CSS Module in React JS  | Part-31",
+      "duration": 959
+    },
+    {
+      "id": "VDWv-kSCnQE",
+      "title": "ReactJS Tutorials in Hindi | How to use or import image in React JS  | Part-32",
+      "duration": 1196
+    },
+    {
+      "id": "hddcCOzZcfQ",
+      "title": "ReactJS Tutorials in Hindi | Form Handling in React JS  | Part-33",
+      "duration": 2551
+    },
+    {
+      "id": "hDEI5DnpthA",
+      "title": "Refs in Reactjs | ReactJS Tutorials in Hindi  | Part-34",
+      "duration": 1783
+    },
+    {
+      "id": "p_4-GnIpkJU",
+      "title": "Integrate Bootstrap with React.js | ReactJS Tutorials in Hindi  | Part-35",
+      "duration": 1855
+    },
+    {
+      "id": "lxU9dRcKc_A",
+      "title": "Lifting State Up in React.js | ReactJS Tutorials in Hindi  | Part-36",
+      "duration": 2312
+    },
+    {
+      "id": "LpzKRXv-Ico",
+      "title": "Composition vs Inheritance in React | ReactJS Tutorials in Hindi  | Part-37",
+      "duration": 1336
+    },
+    {
+      "id": "wEav7aDxYEE",
+      "title": "React Context API | Context in React.js | ReactJS Tutorials in Hindi  | Part-38",
+      "duration": 2777
+    },
+    {
+      "id": "pOP0IoHWHaE",
+      "title": "Context Type in React.js | ReactJS Tutorials in Hindi  | Part-39",
+      "duration": 965
+    },
+    {
+      "id": "YRo6LlbiGuc",
+      "title": "Higher Order Component (HOC) in React.js | ReactJS Tutorials in Hindi  | Part-40",
+      "duration": 2486
+    },
+    {
+      "id": "opTRz917xDY",
+      "title": "Error Boundaries in React.js | ReactJS Tutorials in Hindi  | Part-41",
+      "duration": 1646
+    },
+    {
+      "id": "CYEQZ0WYjt8",
+      "title": "Strict Mode in React.js | ReactJS Tutorials in Hindi  | Part-42",
+      "duration": 1024
+    },
+    {
+      "id": "V961cMZKB5M",
+      "title": "Library vs. Framework | Difference B/W Framework and  Library",
+      "duration": 670
+    },
+    {
+      "id": "Dv6EkVbyzzg",
+      "title": "Write Code Faster with React Snippets | ReactJS Tutorials in Hindi  | Part-43",
+      "duration": 564
+    },
+    {
+      "id": "jLC_sC4yRRI",
+      "title": "React Router Tutorial | React For Beginners in Hindi |  React Router Dom | Part -44",
+      "duration": 1760
+    },
+    {
+      "id": "YmZUVZ3waCU",
+      "title": "Nested routes with React Router | Nested Routing in React | React For Beginners in Hindi | Part -45",
+      "duration": 1504
+    },
+    {
+      "id": "X7Zop1c2gVI",
+      "title": "React Redux Tutorial for Beginners in Hindi | Introduction | Part- 1",
+      "duration": 1146
+    },
+    {
+      "id": "9vMWndTegvQ",
+      "title": "React Redux Tutorial for Beginners in Hindi | Getting Started | dispatch | store | Part- 2",
+      "duration": 1958
+    },
+    {
+      "id": "r8ERxTpqd3E",
+      "title": "Multiple Actions | Multiple Action Creators | React Redux Tutorial for Beginners in Hindi  | Part- 3",
+      "duration": 746
+    },
+    {
+      "id": "HXIfraCiQFM",
+      "title": "Multiple Reducers | Combine Reducers | React Redux Tutorial for Beginners in Hindi  | Part- 4",
+      "duration": 1174
+    },
+    {
+      "id": "5BpVcpMMEmo",
+      "title": "Middleware | Redux Middleware | logger | React Redux Tutorial for Beginners in Hindi  | Part- 5",
+      "duration": 744
+    },
+    {
+      "id": "IxDXVBHz09o",
+      "title": "Async Actions | Redux Thunk | Axios  | React Redux Tutorial for Beginners in Hindi  | Part- 6",
+      "duration": 2033
+    },
+    {
+      "id": "0oVOtWjz2C0",
+      "title": "Setup Redux with React | How to use Redux with React | Tutorial for Beginners in Hindi  | Part- 7",
+      "duration": 1553
+    },
+    {
+      "id": "4ePKohGW8EU",
+      "title": "React Redux connect | Connect Redux with React | Tutorial for Beginners in Hindi  | Part- 8",
+      "duration": 1031
+    },
+    {
+      "id": "BRkv72QERug",
+      "title": "Use Redux with React Hooks | useSelector | useDispatch  | Tutorial for Beginners in Hindi  | Part- 9",
+      "duration": 958
+    },
+    {
+      "id": "hC4UR-PilEk",
+      "title": "logger middleware in Redux  | Tutorial for Beginners in Hindi  | Part- 10",
+      "duration": 364
+    },
+    {
+      "id": "PmYTTdUCqFk",
+      "title": "React Redux : Action Payload  | Tutorial for Beginners in Hindi  | Part- 11",
+      "duration": 959
+    },
+    {
+      "id": "9tn82yBrX90",
+      "title": "MERN STACK Tutorials for Beginners in Hindi | Basic Introduction",
+      "duration": 531
+    }
+  ]
+}

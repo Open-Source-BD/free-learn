@@ -1,0 +1,80 @@
+{
+  "courseId": "go-lang-course-2023-hindi-f9c071",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLGlmW7jT-nQOVVgFV3cvztEcNxXylqj2",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:52.268Z",
+  "title": "GO Lang Course in Hindi",
+  "channel": "Studytonight with Abhishek",
+  "videos": [
+    {
+      "id": "eDT-AsElU2E",
+      "title": "What is Go language? Why learn GO language? [Ep-1] | Go language course in Hindi🔥#golangtutorial",
+      "duration": 368
+    },
+    {
+      "id": "yA9FFf8r00o",
+      "title": "First Program (Hello World) in GO [Ep-2] | Go language course in Hindi🔥🔥#golangtutorial",
+      "duration": 477
+    },
+    {
+      "id": "EchklOy_ulw",
+      "title": "Introduction to fmt Package [Ep-3] | GO Language course in Hindi #golang 🤩",
+      "duration": 402
+    },
+    {
+      "id": "jEvYnu60gbA",
+      "title": "How to add Comments [Ep-4] | GO Language course in Hindi #golang",
+      "duration": 352
+    },
+    {
+      "id": "N8iONIqtf5o",
+      "title": "Understanding compilation Error [Ep-5] | GO Language course in Hindi #golang",
+      "duration": 254
+    },
+    {
+      "id": "GPJKrBLtGUc",
+      "title": "Different types of Data [Ep-6] | GO Language course in Hindi #golang",
+      "duration": 870
+    },
+    {
+      "id": "HVoTvVubf7w",
+      "title": "Import Multiple Packages in 🥸 GO [Ep-7] | GO Language course in Hindi #golang",
+      "duration": 340
+    },
+    {
+      "id": "JnScirJC0Lo",
+      "title": "Different ways to create Variables 😲 [Ep-8] | GO Language course in Hindi #golang",
+      "duration": 1161
+    },
+    {
+      "id": "euPauhBKKeQ",
+      "title": "If-else Conditional statement & Operators [Ep-9] | GO Language Course in Hindi 2023 #golang",
+      "duration": 1640
+    },
+    {
+      "id": "Zk5-Knn7oXc",
+      "title": "for Loop, break and continue with examples [Ep-10] | GO Language course in Hindi #golang",
+      "duration": 1496
+    },
+    {
+      "id": "MsfWc9t9CMg",
+      "title": "Type conversion & Log Package [Ep-11] | GO Language course in Hindi #golang #golangtutorial",
+      "duration": 834
+    },
+    {
+      "id": "TSfIJX3K4Dg",
+      "title": "Shadowing of Names [Ep. 12] | GO Language Course in Hindi",
+      "duration": 367
+    },
+    {
+      "id": "RYXhLNvhTt8",
+      "title": "Install and Run GO Locally [Ep. 13] | GO Lang Hindi Course",
+      "duration": 562
+    },
+    {
+      "id": "Pl1KduUFXtg",
+      "title": "Untitled",
+      "duration": null
+    }
+  ]
+}

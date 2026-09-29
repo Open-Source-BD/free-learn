@@ -1,0 +1,415 @@
+{
+  "courseId": "spring-framework-tutorial-with-springboot-in-hindi-complete-f693d8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:22.509Z",
+  "title": "Spring Framework Tutorial with SpringBoot | in Hindi| Complete Course | CoderX Ankit",
+  "channel": "CoderX Ankit",
+  "videos": [
+    {
+      "id": "QJ04ZIhSEBU",
+      "title": "Spring Framework Tutorial: Let's learn Spring framework | in Hindi",
+      "duration": 66
+    },
+    {
+      "id": "Lo5RP6O81fg",
+      "title": "Spring Framework Tutorial: Understanding Spring Framework | Spring Core Module | Hindi",
+      "duration": 1133
+    },
+    {
+      "id": "RJoLBrlfTTM",
+      "title": "Spring Framework Tutorial: Understanding different types framework  | Spring Core Module | Hindi",
+      "duration": 1698
+    },
+    {
+      "id": "ssu7YGmF9xo",
+      "title": "Spring Framework Tutorial: Spring is Non-Invasive Framework | Spring Core Module | Hindi",
+      "duration": 980
+    },
+    {
+      "id": "4SBsP42j6Xw",
+      "title": "#SpringFramework: #Java Bean Class | Use of Java Bean class in hindi | Java Beans in Hindi",
+      "duration": 1245
+    },
+    {
+      "id": "4SoMps4gyv0",
+      "title": "Spring Framework Tutorial: Important Terminology in Spring | Spring Core Module | Hindi",
+      "duration": 817
+    },
+    {
+      "id": "FocseXWLn3E",
+      "title": "Spring Framework Tutorial: What is Spring Bean? POJO & POJI | Spring Core Module | Hindi",
+      "duration": 980
+    },
+    {
+      "id": "R7llO0nxcNU",
+      "title": "#SpringFramework: Introduction to Spring Framework | Spring Framework Tutorial in Hindi #java",
+      "duration": 1529
+    },
+    {
+      "id": "Uhtk3_647so",
+      "title": "Dependency Management in Spring Framework | Dependency Injection & Dependency Lookup in Spring #java",
+      "duration": 2128
+    },
+    {
+      "id": "DnhEwKrMZiI",
+      "title": "#SpringFramework: Spring Core Module | Spring Container | Spring Core Tutorial in Hindi | #java",
+      "duration": 1438
+    },
+    {
+      "id": "PbADdHIYiVw",
+      "title": "Downloading Spring Framework | Spring Framework Tutorial in hindi",
+      "duration": 341
+    },
+    {
+      "id": "WZogjeGc8zo",
+      "title": "#SpringFramework: What is IOC in Spring? | Inversion of Control in Hindi | Spring Framework Tutorial",
+      "duration": 3489
+    },
+    {
+      "id": "uxuJEC92hMs",
+      "title": "#SpringFramework: Setter Injection in Spring Framework | Dependency Injection |",
+      "duration": 2621
+    },
+    {
+      "id": "h0wO7LEsTQ0",
+      "title": "Understanding Namespaces and XSD in Spring framework | Xml configuration file in spring | #spring",
+      "duration": 3070
+    },
+    {
+      "id": "9nGxN3EW7Dw",
+      "title": "#SpringFramework: How Spring IOC creates Spring Beans class objects | Uses newInstance() method |",
+      "duration": 2659
+    },
+    {
+      "id": "H7t9QCFD_OY",
+      "title": "#SpringFramework: How spring containers creates spring beans objects? | Part - 02 | #spring_ioc",
+      "duration": 2084
+    },
+    {
+      "id": "t8usi46ea-M",
+      "title": "#SpringFramework: Internal working of Spring Framework | Spring Framework Tutorial",
+      "duration": 3912
+    },
+    {
+      "id": "42ubRq2Pzxs",
+      "title": "#SpringFramework: Constructor Injection in Spring | Spring framework tutorial | Spring Core Tutorial",
+      "duration": 3491
+    },
+    {
+      "id": "p9JfQivw1lk",
+      "title": "#SpringFramework: Typesafety in Spring | Typecasting getBean returned instance",
+      "duration": 2722
+    },
+    {
+      "id": "CEHNMIBo0YY",
+      "title": "Factory Design Pattern in Java | Factory Design Pattern in Hindi | Design Patterns - OOPs",
+      "duration": 3606
+    },
+    {
+      "id": "0u5qnm2cYs8",
+      "title": "Strategy Design Pattern in Java & Spring Framework | Part - 01 | #java",
+      "duration": 3153
+    },
+    {
+      "id": "EDLV3L_uUKU",
+      "title": "Strategy Design Pattern in Java & Spring | Part - 02 | Hindi | #java",
+      "duration": 3699
+    },
+    {
+      "id": "EGou1alWgWc",
+      "title": "Strategy Design Pattern in Java - Loose Coupling | Part - 3 #SpringFramework #java",
+      "duration": 5445
+    },
+    {
+      "id": "yvnCALrw46s",
+      "title": "#SpringFramework: Strategy Design Pattern Implementation in Spring | Dependency Injection Usecases",
+      "duration": 3379
+    },
+    {
+      "id": "i78sMri0Wc0",
+      "title": "#SpringFramework: Resolving Constructor Args in Spring | Spring Framework Tutorial",
+      "duration": 4036
+    },
+    {
+      "id": "8Yb_iiiYww4",
+      "title": "#SpringFramework: Cyclic Dependency Injection in Spring | Spring Framework Tutorial",
+      "duration": 3703
+    },
+    {
+      "id": "RA8aS5nXANA",
+      "title": "#SpringFramework: How to create Spring library in STS/Eclipse IDE?",
+      "duration": 1058
+    },
+    {
+      "id": "zpJtqSE4KWo",
+      "title": "#SpringFramework: Setter Injection vs Constructor Injection in Spring | Spring Framework Tutorial",
+      "duration": 709
+    },
+    {
+      "id": "m1-4ztRwECk",
+      "title": "#SpringFramework: DefaultListableBeanFactory class vs XmlBeanFactory | ClassPathResource",
+      "duration": 3271
+    },
+    {
+      "id": "_9RO_lbThuE",
+      "title": "Spring Framework Tutorial: Realtime Dependency Injection-Layered Application | Spring Core Module",
+      "duration": 3008
+    },
+    {
+      "id": "6sugzHhgHh8",
+      "title": "Spring Framework Tutorial: Realtime Dependency Injection-Layered Application | Spring Core Module",
+      "duration": 3953
+    },
+    {
+      "id": "p2Pdd-Uf7_8",
+      "title": "#SpringFramework: Realtime Dependency Injection | Layered Application Part - 3",
+      "duration": 3732
+    },
+    {
+      "id": "_Wc5xaf2vTc",
+      "title": "Spring Framework Tutorial: Logics for Layered Application-Realtime-DI | Spring Core Module | Hindi",
+      "duration": 4149
+    },
+    {
+      "id": "0KyNwzxGPdk",
+      "title": "#SpringFramework: How to use STS in Eclipse? | STS Integration in Eclipse",
+      "duration": 445
+    },
+    {
+      "id": "66x29WpfboY",
+      "title": "Spring Framework Tutorial: Layered Application Development-Realtime DI | Spring Core Module",
+      "duration": 4418
+    },
+    {
+      "id": "FoUcqP6kpoA",
+      "title": "Spring Framework Tutorial: Layered Application Development-Realtime DI | Spring Core Module",
+      "duration": 6266
+    },
+    {
+      "id": "rBwipUNWga8",
+      "title": "Spring Framework Tutorial: Collection Injection in Spring Framework | Spring Core Module | in Hindi",
+      "duration": 3164
+    },
+    {
+      "id": "-Ny2UdFRip8",
+      "title": "Spring Framework Tutorial: Collection Injection - List & Set Collection | Spring Core Module | Hindi",
+      "duration": 2498
+    },
+    {
+      "id": "spTdxWKYfpk",
+      "title": "Spring Framework Tutorial: Collection Injection - Map Injection | Spring Core Module | Hindi",
+      "duration": 2272
+    },
+    {
+      "id": "bm2ffxWI8cQ",
+      "title": "Spring Framework Tutorial: Collection Injection - Properties | Spring Core Module | Hindi",
+      "duration": 2493
+    },
+    {
+      "id": "gj-z3ZFYs2s",
+      "title": "Spring Framework Tutorial: Null Injection | Spring Core Module | Hindi",
+      "duration": 2949
+    },
+    {
+      "id": "_EChPVuxSVY",
+      "title": "Spring Framework Tutorial: Bean Inheritence | Spring Core Module | Hindi",
+      "duration": 10386
+    },
+    {
+      "id": "nJH5FNC__Co",
+      "title": "Spring Framework Tutorial: Collection Merging in Spring | Spring Core Module",
+      "duration": 3632
+    },
+    {
+      "id": "z-8FZGaw4k4",
+      "title": "Spring Framework Tutorial: Default Bean Id by IOC container | Spring Core Module",
+      "duration": 1325
+    },
+    {
+      "id": "13XlaqjwH3o",
+      "title": "Spring Framework Tutorial: Inner Beans | Spring Core Tutorial",
+      "duration": 3936
+    },
+    {
+      "id": "usg4nFOauPM",
+      "title": "Spring Framework Tutorial: Bean Alias - Naming Beans | Spring Core Tutorial",
+      "duration": 1707
+    },
+    {
+      "id": "B70Pih3_I-A",
+      "title": "Spring Framework Tutorial: Dependency Lookup | Best Explained with Practical | Spring Core Tutorial",
+      "duration": 2432
+    },
+    {
+      "id": "nvOOc6aKGVc",
+      "title": "Spring Framework Tutorial: idref tag - injecting bean id",
+      "duration": 1330
+    },
+    {
+      "id": "8Rd24cHdfW8",
+      "title": "Spring Framework Tutorial: Autowiring in Spring | Hindi | CoderX Ankit",
+      "duration": 3999
+    },
+    {
+      "id": "zrpBDzqOeDc",
+      "title": "Spring framework Tutorial: Autowiring by Constructor | no Autowiring | Hindi",
+      "duration": 2362
+    },
+    {
+      "id": "wW9EwQTtBeY",
+      "title": "Spring Framework Tutorial: FactoryMethod Bean Instantiation | Hindi",
+      "duration": 2497
+    },
+    {
+      "id": "Jj0FAhEmO5o",
+      "title": "Spring Framework Tutorial: Singleton Design Pattern | Java - Singleton Class",
+      "duration": 3704
+    },
+    {
+      "id": "T88YyQ47EVU",
+      "title": "Spring Framework Tutorial: Singleton Bean Scope & Prototype Bean Scope - Explained in detail | Hindi",
+      "duration": 3979
+    },
+    {
+      "id": "A0LCNMioIak",
+      "title": "Spring Framework Tutorial: ApplicationContext in Spring Framework | Java Development Course",
+      "duration": 2468
+    },
+    {
+      "id": "ANp8rYaQz0g",
+      "title": "Spring Framework Tutorial: Features of ApplicationContext | Java Development Course",
+      "duration": 2676
+    },
+    {
+      "id": "TtLq_Fl3P0U",
+      "title": "Spring Framework Tutorial: Working with Properties File - ApplicationContext IOC Container",
+      "duration": 2443
+    },
+    {
+      "id": "83zqGHLjZWo",
+      "title": "Spring Framework Tutorial: Internationlisation (I18N / i18n) in Spring/Java | CoderX Ankit",
+      "duration": 3444
+    },
+    {
+      "id": "EIrQOva9AWc",
+      "title": "Spring Framework Tutorial: Internationalisation in Spring/Java | Part - 2 | CoderX Ankit",
+      "duration": 3249
+    },
+    {
+      "id": "tTmqo0gY6qM",
+      "title": "Spring Framework Tutorial: Event Handling in Spring | CoderX Ankit",
+      "duration": 3192
+    },
+    {
+      "id": "BdvuxNe_Dpg",
+      "title": "Spring Framework Tutorial: P & C Namespaces in Spring | CoderX Ankit",
+      "duration": 2052
+    },
+    {
+      "id": "9jDI3CKDiUQ",
+      "title": "Spring Framework Tutorial: Nested IOC Container in Spring | CoderX Ankit",
+      "duration": 1851
+    },
+    {
+      "id": "nZEEjKg2YnQ",
+      "title": "Spring Framework Tutorial: Mini Project #2  - Spring Core Project | Jdbc | NestedIOC Container",
+      "duration": 3954
+    },
+    {
+      "id": "mFZbS0LRbcM",
+      "title": "Spring Framework Tutorial: Spring Project | CoderX Ankit",
+      "duration": 5538
+    },
+    {
+      "id": "ZzPdGRHEO1Q",
+      "title": "Spring Framework Tutorial: Required Annotation | CoderX Ankit",
+      "duration": 2919
+    },
+    {
+      "id": "mhLSGIrgW8Q",
+      "title": "Spring Framework Tutorial: Autowired annotation | CoderX Ankit |",
+      "duration": 3657
+    },
+    {
+      "id": "AnclPAd0d7E",
+      "title": "Spring Framework Tutorial: Using Autowired annotation | Part - 2",
+      "duration": 2890
+    },
+    {
+      "id": "fX6yVVTE61A",
+      "title": "Spring Framework Tutorial: Stereotype Annotations - Component, Service, Repository, Controller",
+      "duration": 3797
+    },
+    {
+      "id": "EtXV0Jzalcw",
+      "title": "Spring Framework Tutorial: Service, Repository, Controller, Lazy, Scope Annotation",
+      "duration": 3596
+    },
+    {
+      "id": "h-jJHc59Kms",
+      "title": "Spring Framework Tutorial:  Value +Java Config Annotation - Inject, Named",
+      "duration": 3976
+    },
+    {
+      "id": "wiTYuh4akOY",
+      "title": "Spring Framework Tutorial: Resource annotation | Autowired, Resource, Inject",
+      "duration": 1576
+    },
+    {
+      "id": "ykfDgnbp6dI",
+      "title": "Spring Framework Tutorial: Spring Bean Life Cycle",
+      "duration": 3992
+    },
+    {
+      "id": "4YUL5_ogrkc",
+      "title": "Spring Bean Life Cycle Programmatic using Approach & '@PostConstruct' and '@PreDestroy' annotation",
+      "duration": 4064
+    },
+    {
+      "id": "lkq127GE-RM",
+      "title": "Aware Injection, Contextual Dependency Lookup or Interface Injection in Spring | Part 1",
+      "duration": 3766
+    },
+    {
+      "id": "3sCYMyy2jUw",
+      "title": "Aware Injection, Contextual Dependency Lookup or Interface Injection in Spring | Part 2",
+      "duration": 3257
+    },
+    {
+      "id": "kdVXhUZ345I",
+      "title": "Lookup Method Injection in Spring",
+      "duration": 5782
+    },
+    {
+      "id": "3UuWRULIRQ8",
+      "title": "'@Lookup’ Annotation - lookup method injection (LMI) in Spring",
+      "duration": 677
+    },
+    {
+      "id": "4eO8oEJmqFY",
+      "title": "Method Replacer or Method Injection in Spring",
+      "duration": 3127
+    },
+    {
+      "id": "3HRxYdaNzqw",
+      "title": "Method Replacer or Method Injection Internal Work Flow",
+      "duration": 2459
+    },
+    {
+      "id": "ILRERzZRgr4",
+      "title": "FactoryBean in Spring",
+      "duration": 1777
+    },
+    {
+      "id": "L2XEW6Uo_90",
+      "title": "ServiceLocator design pattern - use-case",
+      "duration": 2052
+    },
+    {
+      "id": "7M6eSQe1l9M",
+      "title": "Spring Boot and Microservices Live Batch: Winter-7 | The wait is over ❤️",
+      "duration": 124
+    }
+  ]
+}

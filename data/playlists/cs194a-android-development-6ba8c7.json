@@ -1,0 +1,55 @@
+{
+  "courseId": "cs194a-android-development-6ba8c7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:40:50.470Z",
+  "title": "CS194A Android Development",
+  "channel": "Rahul Pandey",
+  "videos": [
+    {
+      "id": "xZEaFcn5WrE",
+      "title": "Android Dev - Lecture 1 - Why/What/How Android",
+      "duration": 3223
+    },
+    {
+      "id": "YKfBrDfRcPU",
+      "title": "Android Dev - Lecture 2 - Intro to Kotlin",
+      "duration": 3614
+    },
+    {
+      "id": "o1SZJNYJ7vg",
+      "title": "Android Dev - Lecture 3 - Layouts, UI, Responding to User Input",
+      "duration": 4225
+    },
+    {
+      "id": "p6ADP07OrtQ",
+      "title": "Android Dev - Lecture 4 - ImageView + RecyclerView",
+      "duration": 4175
+    },
+    {
+      "id": "NW1j8DSqMtI",
+      "title": "Android Dev - Lecture 5 - RecyclerView and Activities",
+      "duration": 3559
+    },
+    {
+      "id": "e5WpKy055s4",
+      "title": "Android Dev - Lecture 6 - Intents and the Activity Backstack",
+      "duration": 1860
+    },
+    {
+      "id": "k2N3EoZI3eU",
+      "title": "Android Dev - Lecture 7 - Networking and APIs, Activity Lifecycle",
+      "duration": 3336
+    },
+    {
+      "id": "JuBpWzEoDw4",
+      "title": "Android Dev - Lecture 8 - Firebase, Fragments, Testing, Architecture, Cross Platform Development",
+      "duration": 3259
+    },
+    {
+      "id": "QqsYeU7tGWE",
+      "title": "Android Panel Discussion with Annyce Davis, Chiu-Ki Chan, Christina Lee, and Sam Thompson",
+      "duration": 4937
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "courseId": "software-engineering-0999be",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:38.133Z",
+  "title": "Software Engineering",
+  "channel": "TutorialsPoint",
+  "videos": [
+    {
+      "id": "4b1D1QFEel0",
+      "title": "Software Engineering Basics",
+      "duration": 89
+    },
+    {
+      "id": "ITlyBV4ttts",
+      "title": "Overview of Software Engineering",
+      "duration": 307
+    },
+    {
+      "id": "ciTu06q3iW0",
+      "title": "Software Evolution",
+      "duration": 213
+    },
+    {
+      "id": "zNroF_WeIB0",
+      "title": "Software Evolution Laws",
+      "duration": 201
+    },
+    {
+      "id": "-dCJi82Euco",
+      "title": "E-Type Software Evolution",
+      "duration": 292
+    },
+    {
+      "id": "1MGNuW0HjFA",
+      "title": "Software Paradigms",
+      "duration": 218
+    },
+    {
+      "id": "pi2nP3rXZ3k",
+      "title": "Need of Software Engineering",
+      "duration": 221
+    },
+    {
+      "id": "ehuYDUUuRio",
+      "title": "Characteristics of Good Software",
+      "duration": 239
+    },
+    {
+      "id": "sARoc6GyCq8",
+      "title": "Software Development Life Cycle",
+      "duration": 912
+    },
+    {
+      "id": "d1cfea_olQk",
+      "title": "Software Development Paradigm",
+      "duration": 137
+    },
+    {
+      "id": "fN6JgY6BEFs",
+      "title": "Waterfall Model",
+      "duration": 387
+    },
+    {
+      "id": "-tZdpLDWZJ8",
+      "title": "Structured Evolutionary Prototyping Model",
+      "duration": 358
+    },
+    {
+      "id": "0r2yu-8RdEA",
+      "title": "Incremental Model",
+      "duration": 279
+    },
+    {
+      "id": "yngKRepAgSg",
+      "title": "Rapid Application Development (RAD)",
+      "duration": 291
+    },
+    {
+      "id": "z8CqlcPjmGE",
+      "title": "Spiral Model",
+      "duration": 352
+    },
+    {
+      "id": "5jJ_PBX3XsE",
+      "title": "V Model",
+      "duration": 421
+    },
+    {
+      "id": "Txz-Tnm_aSM",
+      "title": "Scrum Development Model",
+      "duration": 281
+    },
+    {
+      "id": "uij0JPt4YzI",
+      "title": "Big Bang Model",
+      "duration": 163
+    },
+    {
+      "id": "fbwmAzPY8tE",
+      "title": "Software Project Management",
+      "duration": 285
+    },
+    {
+      "id": "FCn0xVZQx3w",
+      "title": "Need of Software Project Management",
+      "duration": 302
+    },
+    {
+      "id": "kXuzVl1Eo-E",
+      "title": "Software Project Manager",
+      "duration": 240
+    },
+    {
+      "id": "eOTcPOvT-H4",
+      "title": "Software Project Management Activities",
+      "duration": 485
+    },
+    {
+      "id": "IdBSLvoP6uY",
+      "title": "Project Estimation",
+      "duration": 555
+    },
+    {
+      "id": "QYhcTULL1tU",
+      "title": "Project Estimation Techniques",
+      "duration": 298
+    },
+    {
+      "id": "SkQzQCAWf8M",
+      "title": "Project Scheduling",
+      "duration": 576
+    },
+    {
+      "id": "u3Y71H98AZU",
+      "title": "Resource Management",
+      "duration": 352
+    },
+    {
+      "id": "SA5F_GIXbok",
+      "title": "Project Risk Management",
+      "duration": 429
+    },
+    {
+      "id": "dXYMZDaPkUE",
+      "title": "Project Execution and Monitoring",
+      "duration": 415
+    },
+    {
+      "id": "0q-ZVshvypU",
+      "title": "Project Communication Management",
+      "duration": 357
+    },
+    {
+      "id": "nDp6uBFHfQU",
+      "title": "Configuration Management",
+      "duration": 711
+    },
+    {
+      "id": "e1NYaiwIla0",
+      "title": "Project Management Tools",
+      "duration": 527
+    },
+    {
+      "id": "6e_GCocYNv8",
+      "title": "Critical Path Analysis",
+      "duration": 342
+    },
+    {
+      "id": "Z9mKgHbfPpE",
+      "title": "Requirement Engineering Process",
+      "duration": 592
+    },
+    {
+      "id": "1UEzc2E71Hk",
+      "title": "Requirement Elicitation Techniques",
+      "duration": 604
+    },
+    {
+      "id": "8uk-2-mX53U",
+      "title": "Software Requirements",
+      "duration": 286
+    },
+    {
+      "id": "ryFB-Tl3ZEk",
+      "title": "User Interface Requirements",
+      "duration": 235
+    },
+    {
+      "id": "bnydxXPN_rI",
+      "title": "Software Metrics and Measures",
+      "duration": 330
+    },
+    {
+      "id": "K7npUb4czqg",
+      "title": "Software Design Levels",
+      "duration": 219
+    },
+    {
+      "id": "dah74-XZVXc",
+      "title": "Modularization",
+      "duration": 215
+    },
+    {
+      "id": "bKYlMcyuvcM",
+      "title": "Cohesion and Coupling",
+      "duration": 694
+    },
+    {
+      "id": "TT_rUCMTmhg",
+      "title": "Software Quality Attributes",
+      "duration": 320
+    },
+    {
+      "id": "Oe2I5OLYF3I",
+      "title": "Data Flow Diagram",
+      "duration": 473
+    },
+    {
+      "id": "vdUO-sGA1DA",
+      "title": "Structured Charts",
+      "duration": 331
+    },
+    {
+      "id": "eqtnhKcYoHk",
+      "title": "HIPO Diagram",
+      "duration": 212
+    },
+    {
+      "id": "aLwtxmJ5ZgI",
+      "title": "Structured English",
+      "duration": 286
+    },
+    {
+      "id": "Q6uewwnqRBk",
+      "title": "Pseudo Code",
+      "duration": 172
+    },
+    {
+      "id": "lOpmv4WpJbM",
+      "title": "Decision Tables",
+      "duration": 240
+    },
+    {
+      "id": "p7GsjrXoW28",
+      "title": "Entity Relationship Model",
+      "duration": 350
+    },
+    {
+      "id": "zKzcvLtKq0c",
+      "title": "Data Dictionary",
+      "duration": 348
+    },
+    {
+      "id": "nzLvmyBgOfk",
+      "title": "Structured Design",
+      "duration": 233
+    },
+    {
+      "id": "63dQN4yN9eY",
+      "title": "Function Oriented Design",
+      "duration": 287
+    },
+    {
+      "id": "JK6LYUSGnWo",
+      "title": "Object Oriented Design",
+      "duration": 578
+    },
+    {
+      "id": "J5jM4wquM3Q",
+      "title": "Software Design Approaches",
+      "duration": 287
+    },
+    {
+      "id": "Ky_80dA7mD0",
+      "title": "Software User Interface Design",
+      "duration": 288
+    },
+    {
+      "id": "4aEETgIA_Wo",
+      "title": "Command Line Interface (CLI)",
+      "duration": 306
+    },
+    {
+      "id": "O2xzkCgV0PY",
+      "title": "Graphical User Interface",
+      "duration": 593
+    },
+    {
+      "id": "gxQmn3_JMZ0",
+      "title": "User Interface Golden Rules",
+      "duration": 444
+    },
+    {
+      "id": "2bjMmjOwSuE",
+      "title": "Halstead’s Complexity Measures",
+      "duration": 372
+    },
+    {
+      "id": "ihkUVzUzztY",
+      "title": "Cyclomatic Complexity Measures",
+      "duration": 363
+    },
+    {
+      "id": "LgMwjnqkjZg",
+      "title": "Function Point",
+      "duration": 630
+    },
+    {
+      "id": "qpUQpxpeixA",
+      "title": "Structured Programming",
+      "duration": 331
+    },
+    {
+      "id": "tKxSKN9yWDA",
+      "title": "Functional Programming",
+      "duration": 414
+    },
+    {
+      "id": "9T7p-Sx7G-Y",
+      "title": "Programming Style",
+      "duration": 452
+    },
+    {
+      "id": "ApqnZIWPw7s",
+      "title": "Software Documentation",
+      "duration": 537
+    },
+    {
+      "id": "bGOyenMJUPw",
+      "title": "Software Validation and Verification",
+      "duration": 368
+    },
+    {
+      "id": "3J4-aCF37z0",
+      "title": "Manual Vs  Automated Testing",
+      "duration": 242
+    },
+    {
+      "id": "Urphtihj-Bg",
+      "title": "Testing Approaches",
+      "duration": 222
+    },
+    {
+      "id": "5KQQtXGBBiA",
+      "title": "Black Box Testing",
+      "duration": 329
+    },
+    {
+      "id": "qOKPHpXuEvY",
+      "title": "White Box Testing",
+      "duration": 189
+    },
+    {
+      "id": "dBnbaB80aZo",
+      "title": "Testing Levels",
+      "duration": 649
+    },
+    {
+      "id": "LO9Hs09BbZQ",
+      "title": "Testing Documentation",
+      "duration": 375
+    },
+    {
+      "id": "ZsSPBsl1Ld8",
+      "title": "Software Maintenance Overview",
+      "duration": 194
+    },
+    {
+      "id": "nA4ev7jM6ek",
+      "title": "Types of Maintenance",
+      "duration": 228
+    },
+    {
+      "id": "Tq2p3eegguI",
+      "title": "Cost of Maintenance",
+      "duration": 241
+    },
+    {
+      "id": "X5cBc9z_Ibs",
+      "title": "Maintenance Activities",
+      "duration": 413
+    },
+    {
+      "id": "UXERB3xFgc4",
+      "title": "Software Re engineering",
+      "duration": 478
+    },
+    {
+      "id": "dapI52aXDLo",
+      "title": "Component Reusability",
+      "duration": 421
+    },
+    {
+      "id": "_74Nra8h5Go",
+      "title": "CASE Tools",
+      "duration": 105
+    },
+    {
+      "id": "L_r106MpBis",
+      "title": "Components of CASE Tools",
+      "duration": 179
+    },
+    {
+      "id": "iX6EntDbbYw",
+      "title": "Scope of CASE Tools",
+      "duration": 650
+    }
+  ]
+}

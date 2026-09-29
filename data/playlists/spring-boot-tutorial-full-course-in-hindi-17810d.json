@@ -1,0 +1,115 @@
+{
+  "courseId": "spring-boot-tutorial-full-course-in-hindi-17810d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:30.961Z",
+  "title": "Spring Boot Tutorial | Full Course In Hindi | Java Spring boot Framework",
+  "channel": "Surya Automation Tech",
+  "videos": [
+    {
+      "id": "TYzWSWAQhDg",
+      "title": "#1 Introduction to Spring boot | Why Spring Boot ? | Spring Boot Tutorial in Hindi -By Surya Sir",
+      "duration": 900
+    },
+    {
+      "id": "KNNT4WqxR_k",
+      "title": "#2 Creating  First Application In Spring boot | start.spring.io | Spring Boot Tutorial in Hindi",
+      "duration": 1068
+    },
+    {
+      "id": "27qn1LR7_GI",
+      "title": "#3 Run JSP  In Spring boot | @Controller,@RequestMapping | Spring Boot Tutorial in Hindi",
+      "duration": 906
+    },
+    {
+      "id": "gC0wiT1o1y4",
+      "title": "#4 Spring boot on SpringToolSuite4 | @Controller,@RequestMapping | Spring Boot Tutorial in Hindi",
+      "duration": 598
+    },
+    {
+      "id": "pqGeUau3uks",
+      "title": "#5 Spring boot on Eclipse IDE | @Controller,@RequestMapping | Spring Boot Tutorial in Hindi",
+      "duration": 634
+    },
+    {
+      "id": "o1aYxSzp9UU",
+      "title": "#6 Spring boot Core | DI & IOC | Dependency Injection Need  | Spring Boot Tutorial in Hindi",
+      "duration": 1337
+    },
+    {
+      "id": "ELncCR3_FF8",
+      "title": "#7@Autowired |@Component | @Qualifier|@ Primary| Dependency Injection |Spring Boot Tutorial in Hindi",
+      "duration": 1517
+    },
+    {
+      "id": "4lKxCXIeEkk",
+      "title": "#8 Html Form |@Controller | @RequestMapping| Spring boot |Spring MVC  |Spring Boot Tutorial in Hindi",
+      "duration": 2805
+    },
+    {
+      "id": "cSs9-QUbPoE",
+      "title": "#9 JdbcTemplate | HttpServletRequest | HttpServletResponse | Spring Boot | Spring Tutorial in Hindi",
+      "duration": 1733
+    },
+    {
+      "id": "KvT8FSDzQM8",
+      "title": "#10 JdbcTemplate | Prepared Statement | HttpServletResponse | Spring Boot | Spring Tutorial in Hindi",
+      "duration": 911
+    },
+    {
+      "id": "hk8spp0FhzI",
+      "title": "#11 Spring Boot Tutorial [Hindi] | Spring Boot ModelAndView | Spring Model Object | Spring Boot",
+      "duration": 2199
+    },
+    {
+      "id": "lYI9w7I4N0I",
+      "title": "#12 Spring Boot Tutorial [Hindi] |  Use of Model, ModelMap, Map and ModelAndView By Surya Sir Java",
+      "duration": 957
+    },
+    {
+      "id": "WCYcUM2Ueio",
+      "title": "#13 PathVariable Vs RequestParam. Difference between PathVariable and RequestParam In Spring Boot",
+      "duration": 1961
+    },
+    {
+      "id": "N4zq04c7eGQ",
+      "title": "#14 Handling Form with @ModelAttribute Annotation | @ModelAttribute Annotation In Spring Boot  Surya",
+      "duration": 2109
+    },
+    {
+      "id": "ZdwQbZjFBjE",
+      "title": "#15 @Controller, @RestController , @RequestBody , @ResponseBody  In Spring Boot  Application",
+      "duration": 1509
+    },
+    {
+      "id": "ECL1llvRr6Q",
+      "title": "Introduction to Thymeleaf Template Engine | Spring Boot Tutorial in HINDI | Thymeleaf Tutorial #1",
+      "duration": 1463
+    },
+    {
+      "id": "aywHvtWu138",
+      "title": "Variable Expression - Spring Boot Thymeleaf Tutorial | Spring Boot Tutorial in HINDI | Thymeleaf #2",
+      "duration": 1396
+    },
+    {
+      "id": "hJFHGkza-sc",
+      "title": "@PathVariable Handling In Thymeleaf | Thymeleaf Tutorial | Spring Tutorial in HINDI | Thymeleaf #3",
+      "duration": 1031
+    },
+    {
+      "id": "2EgbC42k5xE",
+      "title": "#17 What is ORM , Hibernate vs JPA , Dao , Why ORM  In Java | Spring  In Spring Boot  Application",
+      "duration": 2211
+    },
+    {
+      "id": "idtQFzP_e9M",
+      "title": "JPA with MySQL | Spring  In Spring Boot  Application | Why Lombok |  CRUD In JPA Using spring boot",
+      "duration": 2570
+    },
+    {
+      "id": "sZtN6AucpWE",
+      "title": "Store Data In MySQL Using JpaRepository || CRUD In JPA Using spring boot ||  JPA  ,Springboot & JSP",
+      "duration": 2306
+    }
+  ]
+}

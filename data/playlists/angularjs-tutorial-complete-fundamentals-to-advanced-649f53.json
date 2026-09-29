@@ -1,0 +1,180 @@
+{
+  "courseId": "angularjs-tutorial-complete-fundamentals-to-advanced-649f53",
+  "sourceUrl": "https://youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:17.398Z",
+  "title": "Angularjs Tutorial - Complete (Fundamentals to Advanced)",
+  "channel": "Tech CBT",
+  "videos": [
+    {
+      "id": "nO1ROKMjPqI",
+      "title": "AngularJS: Basic Introduction (for very beginners)",
+      "duration": 1558
+    },
+    {
+      "id": "pzrLTg4EvsI",
+      "title": "AngularJS: What are Controllers and how to use them",
+      "duration": 1693
+    },
+    {
+      "id": "FDhGmFul4YU",
+      "title": "Angular JS: Understanding $scope and its relation with Controller/View",
+      "duration": 3184
+    },
+    {
+      "id": "V4nocbBMaFU",
+      "title": "AngularJS: Understanding Scope Inheritance",
+      "duration": 1781
+    },
+    {
+      "id": "P1b9ohOyWAo",
+      "title": "AngularJS: Understanding RootScope ($rootScope)",
+      "duration": 1492
+    },
+    {
+      "id": "30b1xWY9JIM",
+      "title": "AngularJS: Understanding (one-way, two-way, one-time) Data Binding",
+      "duration": 2738
+    },
+    {
+      "id": "7-ahq_hxWQo",
+      "title": "AngularJS: AJAX using ASP.NET Web API & Node.JS",
+      "duration": 4022
+    },
+    {
+      "id": "oUXku28ex-M",
+      "title": "AngularJS: Developing Custom Services (factory vs service vs Provider)",
+      "duration": 4347
+    },
+    {
+      "id": "kuzrQK3-KIA",
+      "title": "AngularJS: ng-if, ng-repeat, ng-show, ng-hide and Bootstrap CSS framework integration",
+      "duration": 3180
+    },
+    {
+      "id": "3gejqYbXwCk",
+      "title": "AngularJS: How to work with \"Filters\"",
+      "duration": 1854
+    },
+    {
+      "id": "ubigWmtTzQM",
+      "title": "AngularJS: Custom Directives - Getting Started",
+      "duration": 2609
+    },
+    {
+      "id": "bjFqSyddCeA",
+      "title": "AngularJS Directives - Compile and Link in depth - Part 1",
+      "duration": 2503
+    },
+    {
+      "id": "1M3LZ1cu7rw",
+      "title": "AngularJS Compile and Link - Part 2: DOM Manipulation and Event handling",
+      "duration": 1715
+    },
+    {
+      "id": "VS6vDlsqW7o",
+      "title": "AngularJS - Understanding Watcher, $watch, $watchGroup, $watchCollection, ng-change",
+      "duration": 2551
+    },
+    {
+      "id": "SYuc1oSjhgY",
+      "title": "AngularJS - Understanding digest cycle (digest phase or digest process or digest loop)",
+      "duration": 2215
+    },
+    {
+      "id": "3m41zdbWboE",
+      "title": "AngularJS Tutorial - Understanding $apply and $digest (in depth)",
+      "duration": 2453
+    },
+    {
+      "id": "1LUyO_mzSXE",
+      "title": "AngularJs Tutorial: $eval vs. $parse vs. $interpolate",
+      "duration": 2474
+    },
+    {
+      "id": "CClhX52kNIA",
+      "title": "AngularJs Tutorial: What is Shared Scope (in Directives)",
+      "duration": 1400
+    },
+    {
+      "id": "UTugxBskmJQ",
+      "title": "AngularJs Tutorial: Inherited Scope (or Child Scope) in Directives & Controllers",
+      "duration": 2998
+    },
+    {
+      "id": "STKRRuSkL3c",
+      "title": "AngularJs Tutorial: Isolated Scope In Directives (in-depth)",
+      "duration": 3493
+    },
+    {
+      "id": "P0EG48zfq-Y",
+      "title": "AngularJs Tutorial: Transclusion (Getting Started)",
+      "duration": 1848
+    },
+    {
+      "id": "ABfTMEFu3Dw",
+      "title": "AngularJS Tutorial: Clone Linking Function in Transclusion (transclude function)",
+      "duration": 1041
+    },
+    {
+      "id": "NSTWSvin9t8",
+      "title": "AngularJS Tutorial: Transclusion Scope and Custom data",
+      "duration": 2679
+    },
+    {
+      "id": "ix8WF7IT1Tw",
+      "title": "Angular.js Routing: Getting Started (using ngRoute)",
+      "duration": 2344
+    },
+    {
+      "id": "MeVef77dSp4",
+      "title": "AngularJS - Routing Parameters (using ngRoute, $routeParams and redirection))",
+      "duration": 1915
+    },
+    {
+      "id": "YCP2W7Lf5GM",
+      "title": "AngularJS Tutorial: $route Service and AJAX content (using ngRoute)",
+      "duration": 3297
+    },
+    {
+      "id": "ilPfVMzrH4c",
+      "title": "AngularJS 'Resolve' in Routing - Resolving Routes in ngRoute",
+      "duration": 2777
+    },
+    {
+      "id": "lGhc8E-L2G0",
+      "title": "AngularJs UI-Router: Introduction & Getting Started",
+      "duration": 2136
+    },
+    {
+      "id": "YdgRjXdEYKg",
+      "title": "AngularJS UI-Router Tutorial - Working with Parameters",
+      "duration": 3072
+    },
+    {
+      "id": "CZ1v2GJ7L9g",
+      "title": "AngularJS UI Router: Working with $state Service",
+      "duration": 2624
+    },
+    {
+      "id": "Z3zKvXou7w0",
+      "title": "AngularJS UI Router: Understanding \"Resolve\"",
+      "duration": 2236
+    },
+    {
+      "id": "TV4xq8TZFyo",
+      "title": "AngularJS UI-Router: Multiple and Simultaneous Views",
+      "duration": 1930
+    },
+    {
+      "id": "dJ6320ZqR5U",
+      "title": "AngularJs UI-Router: Nested States and Nested Views",
+      "duration": 3689
+    },
+    {
+      "id": "Faidszv2G2I",
+      "title": "AngularJs: Broadcast, Emit and Custom Events",
+      "duration": 3040
+    }
+  ]
+}

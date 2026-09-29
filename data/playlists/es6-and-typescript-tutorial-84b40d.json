@@ -1,0 +1,260 @@
+{
+  "courseId": "es6-and-typescript-tutorial-84b40d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:52:13.629Z",
+  "title": "ES6 and Typescript Tutorial",
+  "channel": "Codevolution",
+  "videos": [
+    {
+      "id": "n3zrCxB8sj8",
+      "title": "ES6 and Typescript Tutorial - 1 - Introduction",
+      "duration": 170
+    },
+    {
+      "id": "dVut_aE2XX8",
+      "title": "ES6 and Typescript Tutorial - 2 - Transpiler",
+      "duration": 95
+    },
+    {
+      "id": "j8zDXBSfAAk",
+      "title": "ES6 and Typescript Tutorial - 3 - Tooling Setup",
+      "duration": 459
+    },
+    {
+      "id": "L8Rd7nWXRxI",
+      "title": "ES6 and Typescript Tutorial - 4 - ScratchJS",
+      "duration": 143
+    },
+    {
+      "id": "izlLVx_dTH0",
+      "title": "ES6 and Typescript Tutorial - 5 - Var Hoisting & Functional Scope",
+      "duration": 256
+    },
+    {
+      "id": "dvpKScnKOHw",
+      "title": "ES6 and Typescript Tutorial - 6 - let Keyword",
+      "duration": 436
+    },
+    {
+      "id": "WiwMkh9_WGw",
+      "title": "ES6 and Typescript Tutorial - 7 - let in for loops",
+      "duration": 220
+    },
+    {
+      "id": "QS-c5aQS_Mw",
+      "title": "ES6 and Typescript Tutorial - 8 - const Keyword",
+      "duration": 182
+    },
+    {
+      "id": "kFgb4Hcxer8",
+      "title": "ES6 and Typescript Tutorial - 9 - let vs const",
+      "duration": 153
+    },
+    {
+      "id": "4N-L3Mmzu0Y",
+      "title": "ES6 and Typescript Tutorial - 10 - Arrow Functions",
+      "duration": 280
+    },
+    {
+      "id": "0T5M3agKEnk",
+      "title": "ES6 and Typescript Tutorial - 11 - lexical 'this'",
+      "duration": 264
+    },
+    {
+      "id": "6eOOh1b03-o",
+      "title": "ES6 and Typescript Tutorial - 12-  Default Function Parameters",
+      "duration": 477
+    },
+    {
+      "id": "TK0xDoQ4UKA",
+      "title": "ES6 and Typescript Tutorial - 13 - Rest Operator",
+      "duration": 377
+    },
+    {
+      "id": "Fc6DPYx9aQU",
+      "title": "ES6 and Typescript Tutorial - 14 - Spread Operator",
+      "duration": 194
+    },
+    {
+      "id": "fgoNcYHxfdM",
+      "title": "ES6 and Typescript Tutorial - 15 - Object Literals Part 1",
+      "duration": 431
+    },
+    {
+      "id": "L8JdlGYQGfw",
+      "title": "ES6 and Typescript Tutorial - 16 - Object Literals Part 2",
+      "duration": 142
+    },
+    {
+      "id": "ol5sgcMvONU",
+      "title": "ES6 and Typescript Tutorial - 17 - Destructuring Array",
+      "duration": 353
+    },
+    {
+      "id": "kgMglU8gZAo",
+      "title": "ES6 and Typescript Tutorial - 18 - Destructuring Objects",
+      "duration": 191
+    },
+    {
+      "id": "001s2FJ10E8",
+      "title": "ES6 and Typescript Tutorial - 19 - String Templates",
+      "duration": 200
+    },
+    {
+      "id": "TtZg_11aZ6Q",
+      "title": "ES6 and Typescript Tutorial - 20 - for of Loop",
+      "duration": 144
+    },
+    {
+      "id": "LfIoymnF6Mg",
+      "title": "ES6 and Typescript Tutorial - 21 - Class",
+      "duration": 191
+    },
+    {
+      "id": "oC8lDb4v40g",
+      "title": "ES6 and Typescript Tutorial - 22 - Class Body and Methods",
+      "duration": 221
+    },
+    {
+      "id": "DTis5P-1m4c",
+      "title": "ES6 and Typescript Tutorial - 23 - Class Inheritance",
+      "duration": 422
+    },
+    {
+      "id": "-9ShVF-FUtI",
+      "title": "ES6 and Typescript Tutorial - 24 - Introduction to Modules",
+      "duration": 122
+    },
+    {
+      "id": "pLD3OkGeKj8",
+      "title": "ES6 and Typescript Tutorial - 25 - Module Loader Setup",
+      "duration": 193
+    },
+    {
+      "id": "jpFAvYV-8tM",
+      "title": "ES6 and Typescript Tutorial - 26 - Named Exports",
+      "duration": 538
+    },
+    {
+      "id": "OMunaJ0YZxM",
+      "title": "ES6 and Typescript Tutorial - 27 - Default Exports",
+      "duration": 150
+    },
+    {
+      "id": "Ex11_N-Fn94",
+      "title": "ES6 and Typescript Tutorial - 28 - Exporting Functions and Classes",
+      "duration": 188
+    },
+    {
+      "id": "4FJrP6aAwSs",
+      "title": "ES6 and Typescript Tutorial - 29 - Sets & Maps",
+      "duration": 340
+    },
+    {
+      "id": "z79gEQLlc_s",
+      "title": "ES6 and Typescript Tutorial - 30 - Sets",
+      "duration": 301
+    },
+    {
+      "id": "-t-aMzm3ngo",
+      "title": "ES6 and Typescript Tutorial - 31 - WeakSets",
+      "duration": 246
+    },
+    {
+      "id": "4fjmYzEXdWo",
+      "title": "ES6 and Typescript Tutorial - 32 - Maps",
+      "duration": 266
+    },
+    {
+      "id": "_vKXUNBaMDc",
+      "title": "ES6 and Typescript Tutorial - 33 - Iterating over Maps",
+      "duration": 246
+    },
+    {
+      "id": "sWEGv9iS2BA",
+      "title": "ES6 and Typescript Tutorial - 34 - forEach",
+      "duration": 228
+    },
+    {
+      "id": "SoQS2mJIDfU",
+      "title": "ES6 and Typescript Tutorial - 35 - WeakMaps",
+      "duration": 108
+    },
+    {
+      "id": "Psdf5Bo1SFM",
+      "title": "ES6 and Typescript Tutorial - 36 - Symbols",
+      "duration": 505
+    },
+    {
+      "id": "Lo70ypUOHNk",
+      "title": "ES6 and Typescript Tutorial - 37 - Symbol iterator",
+      "duration": 271
+    },
+    {
+      "id": "c5x7z02Idfo",
+      "title": "ES6 and Typescript Tutorial - 38 - Iterables and Iterators",
+      "duration": 377
+    },
+    {
+      "id": "0kHJgw6Li_4",
+      "title": "ES6 and Typescript Tutorial - 39 - Iterating Objects",
+      "duration": 196
+    },
+    {
+      "id": "8n8ASL1pPt0",
+      "title": "ES6 and Typescript Tutorial - 40 - Generators",
+      "duration": 354
+    },
+    {
+      "id": "fa0FEqm9_dc",
+      "title": "ES6 and Typescript Tutorial - 41 - Enter Typescript",
+      "duration": 129
+    },
+    {
+      "id": "4FMVgV2nJsU",
+      "title": "ES6 and Typescript Tutorial - 42 - Declarations and Annotations",
+      "duration": 173
+    },
+    {
+      "id": "3ui_st7rtfA",
+      "title": "ES6 and Typescript Tutorial - 43 - Type Inference",
+      "duration": 139
+    },
+    {
+      "id": "4dfxhQ3Y3N4",
+      "title": "ES6 and Typescript Tutorial - 44 - Any Type",
+      "duration": 86
+    },
+    {
+      "id": "gTecM7FWe-I",
+      "title": "ES6 and Typescript Tutorial - 45 - Enumeration",
+      "duration": 197
+    },
+    {
+      "id": "1QgEdeejdDY",
+      "title": "ES6 and Typescript Tutorial - 46 - Arrays and Tuples",
+      "duration": 222
+    },
+    {
+      "id": "lrVPcQgNyeM",
+      "title": "ES6 and Typescript Tutorial - 47 - Class Constructors",
+      "duration": 91
+    },
+    {
+      "id": "2yJu0kOIVr0",
+      "title": "ES6 and Typescript Tutorial - 48 - Interfaces",
+      "duration": 200
+    },
+    {
+      "id": "8KQYogIzRq4",
+      "title": "ES6 and Typescript Tutorial - 49 - Decorators",
+      "duration": 121
+    },
+    {
+      "id": "xfeEVVfWiPA",
+      "title": "ES6 and Typescript Tutorial - 50 - Further Reading",
+      "duration": 40
+    }
+  ]
+}

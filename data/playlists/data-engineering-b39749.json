@@ -1,0 +1,280 @@
+{
+  "courseId": "data-engineering-b39749",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:44.887Z",
+  "title": "Data Engineering",
+  "channel": "Kahan Data Solutions",
+  "videos": [
+    {
+      "id": "_Nk0v9qUWk4",
+      "title": "ETL vs ELT | Modern Data Architectures",
+      "duration": 282
+    },
+    {
+      "id": "pOL59k9AQeo",
+      "title": "3 Must-Know Trends for Data Engineers | DataOps",
+      "duration": 485
+    },
+    {
+      "id": "Vw0Lm-fpPOs",
+      "title": "The 3 Pillars of Data Engineering",
+      "duration": 234
+    },
+    {
+      "id": "jICGyPYrWUE",
+      "title": "The Hidden Cost of Open Source",
+      "duration": 248
+    },
+    {
+      "id": "wBVmnvvQ_b0",
+      "title": "Why Your Data Team Needs Version Control",
+      "duration": 266
+    },
+    {
+      "id": "GVyuPHumef8",
+      "title": "Modern vs Traditional Data Stacks (3 differences)",
+      "duration": 278
+    },
+    {
+      "id": "pQuHDlF8N04",
+      "title": "Data Warehouse vs Data Lake | Explained (non-technical)",
+      "duration": 312
+    },
+    {
+      "id": "P0_91qAj26w",
+      "title": "3 Ways to Deploy Data Projects",
+      "duration": 209
+    },
+    {
+      "id": "RFcKr2nAV5c",
+      "title": "Data Automation (CI/CD) with a Real Life Example",
+      "duration": 323
+    },
+    {
+      "id": "aGKDQ5cfamU",
+      "title": "Why Data Migrations Go Wrong (3 reasons)",
+      "duration": 282
+    },
+    {
+      "id": "NARrRbFKHeI",
+      "title": "Data Architecture 101: The Modern Data Warehouse",
+      "duration": 348
+    },
+    {
+      "id": "RGWFrZ5Xfno",
+      "title": "Common Data Team Structures (Engineer vs Analyst vs Scientist)",
+      "duration": 317
+    },
+    {
+      "id": "XCoDlRjix1M",
+      "title": "Data Architecture 101: The Lambda Strategy",
+      "duration": 297
+    },
+    {
+      "id": "cNUinJ8ezSk",
+      "title": "How to Build a Modern Data Stack (3 Case Studies) | Small Business",
+      "duration": 431
+    },
+    {
+      "id": "cAiQ1-1podk",
+      "title": "Data Architecture 101: Kappa (Real-Time Data)",
+      "duration": 276
+    },
+    {
+      "id": "m9asl61Hc8U",
+      "title": "What is Data Mesh?",
+      "duration": 268
+    },
+    {
+      "id": "XUFdbyb49B8",
+      "title": "Data Warehouse Security w/ 4 Simple Roles",
+      "duration": 709
+    },
+    {
+      "id": "PcliwzrAtNQ",
+      "title": "How to Pick Tools for a Data Stack (considerations)",
+      "duration": 645
+    },
+    {
+      "id": "SLHCfIUTYZI",
+      "title": "What is Data Streaming?",
+      "duration": 408
+    },
+    {
+      "id": "NmWtdM0vqzY",
+      "title": "A Brief History of Data Engineering | What is Data Engineering?",
+      "duration": 482
+    },
+    {
+      "id": "h11JKppo93k",
+      "title": "3 Strategy Killers for Data Teams",
+      "duration": 370
+    },
+    {
+      "id": "GwSq5rNkadg",
+      "title": "How Data Teams Deploy To Prod (with high quality)",
+      "duration": 383
+    },
+    {
+      "id": "vM-DLkAAWoM",
+      "title": "How to Build Modern Data Architectures (faster & with more structure)",
+      "duration": 744
+    },
+    {
+      "id": "ARJJ91arUv0",
+      "title": "The 10 Modern Data Components - Essentials (Part 1)",
+      "duration": 823
+    },
+    {
+      "id": "EePasQnd9bo",
+      "title": "The 10 Modern Data Components - Advanced (Part 2)",
+      "duration": 765
+    },
+    {
+      "id": "d0ary4y-EJM",
+      "title": "The First Step in a Data Architecture (Data Ingestion)",
+      "duration": 354
+    },
+    {
+      "id": "TaSIdUX4YXk",
+      "title": "Fix Your Data Pipeline...From The Start",
+      "duration": 255
+    },
+    {
+      "id": "z_TrtkJKXoA",
+      "title": "The Missing Piece in Many Data Pipelines",
+      "duration": 595
+    },
+    {
+      "id": "Nro18RmwE6E",
+      "title": "How to Create a Data Modeling Pipeline (3 Layer Approach)",
+      "duration": 581
+    },
+    {
+      "id": "dlnjCpPJoEY",
+      "title": "Managing the \"End\" of a Data Pipeline",
+      "duration": 439
+    },
+    {
+      "id": "a7H9Rkz2kqo",
+      "title": "Modern Data Engineering Workflows, Explained",
+      "duration": 398
+    },
+    {
+      "id": "xCJLM9FjhjY",
+      "title": "A \"Simple Stack\" Data Architecture (w/ example tools)",
+      "duration": 386
+    },
+    {
+      "id": "QwY5PpDP0iI",
+      "title": "dbt vs Stored Procedures (3 key differences)",
+      "duration": 627
+    },
+    {
+      "id": "eVlV7vmFb2E",
+      "title": "The Hidden Benefits of Data Security (for data engineers)",
+      "duration": 565
+    },
+    {
+      "id": "aFnVt99Gkls",
+      "title": "Common Pricing Models of Data Tools (& what costs most)",
+      "duration": 555
+    },
+    {
+      "id": "6h-4Gq28cr4",
+      "title": "3 Simple Ways to Improve Your Data Workflow",
+      "duration": 447
+    },
+    {
+      "id": "x48u6ZpagME",
+      "title": "Build vs Buy: What's best for your data team?",
+      "duration": 426
+    },
+    {
+      "id": "8p77fOWp5F4",
+      "title": "The Medallion Data Architecture (Pros & Cons)",
+      "duration": 556
+    },
+    {
+      "id": "qJfDGi7Lrac",
+      "title": "The Modern Data Viewpoint (3 Principles)",
+      "duration": 523
+    },
+    {
+      "id": "NZd0M4-TIj0",
+      "title": "Can Small Data Teams Afford a \"Modern\" Database?",
+      "duration": 391
+    },
+    {
+      "id": "RrGaafllmMs",
+      "title": "The Business Case for Your New Data Architecture",
+      "duration": 370
+    },
+    {
+      "id": "lkRm5EEoqSk",
+      "title": "Don't Overlook Workflow (as a Small Data Team)",
+      "duration": 430
+    },
+    {
+      "id": "0LKX-1R1L5M",
+      "title": "The 3-Environment Design for Your Database (DEV vs CI vs PROD)",
+      "duration": 598
+    },
+    {
+      "id": "5sS9SmnXRmQ",
+      "title": "The Risks of Lazy Database Roles",
+      "duration": 360
+    },
+    {
+      "id": "nqPE4dWatcI",
+      "title": "Avoid These 5 Costly Mistakes (as a small data team)",
+      "duration": 505
+    },
+    {
+      "id": "JgymbmG8Xgo",
+      "title": "5 Ways To Improve Your Data Workflow (w/Examples)",
+      "duration": 391
+    },
+    {
+      "id": "2Xf0ACFGdQk",
+      "title": "Data Architecture 101: The 5 Key Questions",
+      "duration": 533
+    },
+    {
+      "id": "OQ9QxkqpOXM",
+      "title": "Why Bother With Naming Conventions? | Data Architecture",
+      "duration": 708
+    },
+    {
+      "id": "hRWapCqPb48",
+      "title": "The Gift & Curse of Small Data Teams",
+      "duration": 591
+    },
+    {
+      "id": "LK2mvBDyYvc",
+      "title": "Avoiding Vendor Lock-In With Your Data Stack",
+      "duration": 543
+    },
+    {
+      "id": "VZws9NHfsq0",
+      "title": "The Biggest Cost of Owning Your Data (as a small team)",
+      "duration": 1126
+    },
+    {
+      "id": "vYBHh0eftVQ",
+      "title": "The Art of Data Team Workflows (Environments, Automation & More)",
+      "duration": 754
+    },
+    {
+      "id": "o6SLkWknLS8",
+      "title": "Are Strict Data Conventions Helpful or Overkill?",
+      "duration": 721
+    },
+    {
+      "id": "5xf3RZ8nUg4",
+      "title": "The 4-Role Security Model for Your Data Warehouse",
+      "duration": 625
+    }
+  ]
+}

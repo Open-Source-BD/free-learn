@@ -1,0 +1,890 @@
+{
+  "courseId": "dbms-for-gate-exams-a99fa8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:46:17.303Z",
+  "title": "DBMS for GATE Exams",
+  "channel": "TutorialsPoint",
+  "videos": [
+    {
+      "id": "fHAfc7Hjq28",
+      "title": "DBMS - Introduction",
+      "duration": 247
+    },
+    {
+      "id": "Zde-Lzx_kt4",
+      "title": "DBMS - Database System Applications",
+      "duration": 195
+    },
+    {
+      "id": "8dYCZFTtYjY",
+      "title": "DBMS - Database System Versus File System",
+      "duration": 587
+    },
+    {
+      "id": "2ie8fvgIsOU",
+      "title": "DBMS - Data abstraction",
+      "duration": 253
+    },
+    {
+      "id": "rq6e9AeWRtE",
+      "title": "DBMS - Instances and Schemas",
+      "duration": 293
+    },
+    {
+      "id": "spTr96768qk",
+      "title": "DBMS - Database users and user interfaces",
+      "duration": 228
+    },
+    {
+      "id": "oNXAm1hS8C8",
+      "title": "DBMS - Database Administrator",
+      "duration": 268
+    },
+    {
+      "id": "ow4rUuqsDbI",
+      "title": "DBMS - Data Models",
+      "duration": 503
+    },
+    {
+      "id": "9TwMRs3qTcU",
+      "title": "DBMS - Database Languages",
+      "duration": 306
+    },
+    {
+      "id": "LlYUPPDK79w",
+      "title": "DBMS - Database System Structure",
+      "duration": 472
+    },
+    {
+      "id": "UlT5hs0mOHE",
+      "title": "DBMS - Entity and Entity set",
+      "duration": 268
+    },
+    {
+      "id": "-hhrZM78rm8",
+      "title": "DBMS - Attribute and Domain",
+      "duration": 410
+    },
+    {
+      "id": "516N5ZqviqA",
+      "title": "DBMS - Keys Super, Candidate, Primary, Alternate",
+      "duration": 554
+    },
+    {
+      "id": "TAXIfmEngoo",
+      "title": "DBMS - Keys Foreign, Partial, Secondary",
+      "duration": 601
+    },
+    {
+      "id": "81XvwJRrqxM",
+      "title": "DBMS - Keys Unique, Surrogate, Composite",
+      "duration": 422
+    },
+    {
+      "id": "y4SFDTl67QU",
+      "title": "DBMS - Mapping Cardinalities",
+      "duration": 197
+    },
+    {
+      "id": "hRBFJnRedlM",
+      "title": "DBMS - Relationship and Relationship Sets",
+      "duration": 608
+    },
+    {
+      "id": "obb7SlUmKQE",
+      "title": "DBMS - Entity Relationship Diagram",
+      "duration": 316
+    },
+    {
+      "id": "3GpwG6Q7zpc",
+      "title": "DBMS - Symbols in ER-Diagram",
+      "duration": 219
+    },
+    {
+      "id": "qUcscgWNJYM",
+      "title": "DBMS - Mapping Cardinalities in ER-Diagram",
+      "duration": 360
+    },
+    {
+      "id": "YwWkVYC7E6I",
+      "title": "DBMS - ER-Diagram with Role-Indicators",
+      "duration": 183
+    },
+    {
+      "id": "6vf8FYstd0s",
+      "title": "DBMS - ER-Diagram with Ternary Relationship",
+      "duration": 145
+    },
+    {
+      "id": "vzuzUvbj_bU",
+      "title": "DBMS - Weak Entity Set with Total Participation",
+      "duration": 416
+    },
+    {
+      "id": "4_vsGgy9cGs",
+      "title": "DBMS - Specialization and Generalization",
+      "duration": 315
+    },
+    {
+      "id": "H2AGn0QHcSI",
+      "title": "DBMS - ER-Diagram with Aggregation",
+      "duration": 259
+    },
+    {
+      "id": "3_lnxr3-1oY",
+      "title": "DBMS - ER-Diagram with Existence Dependency",
+      "duration": 273
+    },
+    {
+      "id": "0EXfb3HzBTs",
+      "title": "DBMS - Forming Schemas from ER-Diagram",
+      "duration": 670
+    },
+    {
+      "id": "qlLpDBSOe3o",
+      "title": "DBMS - Case Study on Banking System",
+      "duration": 461
+    },
+    {
+      "id": "YFtZMelEJRI",
+      "title": "DBMS - Question Solve on ER-Diagram - 1",
+      "duration": 135
+    },
+    {
+      "id": "EEqqpqPtKfk",
+      "title": "DBMS - Question Solve on ER-Diagram - 2",
+      "duration": 123
+    },
+    {
+      "id": "cyPd9s3AqBQ",
+      "title": "DBMS - Question Solve on ER-Diagram - 3",
+      "duration": 126
+    },
+    {
+      "id": "reVxI2PeMzU",
+      "title": "DBMS - Question Solve on ER-Diagram - 4",
+      "duration": 197
+    },
+    {
+      "id": "lNspnCjmpCc",
+      "title": "DBMS - Introduction to Relational Calculus",
+      "duration": 73
+    },
+    {
+      "id": "4FYN_mErztg",
+      "title": "DBMS - Tuple Relational Calculus",
+      "duration": 210
+    },
+    {
+      "id": "zS6Ey6v8YBg",
+      "title": "DBMS - Tuple Relational Calculus Query Example-1",
+      "duration": 270
+    },
+    {
+      "id": "xH1F8zviKls",
+      "title": "DBMS - Tuple Relational Calculus Query Example-2",
+      "duration": 347
+    },
+    {
+      "id": "qcFwrzd9oZo",
+      "title": "DBMS - Domain Relational Calculus Query Example-1",
+      "duration": 286
+    },
+    {
+      "id": "awvGldAyndY",
+      "title": "DBMS - Domain Relational Calculus Query Example-2",
+      "duration": 383
+    },
+    {
+      "id": "sUIomh75ySg",
+      "title": "DBMS - Safety of Expressions of Domain and Tuple Relational Calculus",
+      "duration": 145
+    },
+    {
+      "id": "dIchk61LOn8",
+      "title": "DBMS - Formal Definition of Domain Relational Calculus",
+      "duration": 107
+    },
+    {
+      "id": "JdkKIrs0q5g",
+      "title": "DBMS - Select Operation in Relational Algebra",
+      "duration": 243
+    },
+    {
+      "id": "zmZ6VY-Balo",
+      "title": "DBMS - Project Operation in Relational Algebra",
+      "duration": 315
+    },
+    {
+      "id": "luyFk6o3e8s",
+      "title": "DBMS - Union Operation in Relational Algebra",
+      "duration": 225
+    },
+    {
+      "id": "sKGgoUPQtuE",
+      "title": "DBMS - Set-Difference Operation in Relational Algebra",
+      "duration": 169
+    },
+    {
+      "id": "23YxoY3erH0",
+      "title": "DBMS - Set Intersection Operation in Relational Algebra",
+      "duration": 134
+    },
+    {
+      "id": "cNpZQCOBjoY",
+      "title": "DBMS - Cartesian Product Operation in Relational Algebra",
+      "duration": 389
+    },
+    {
+      "id": "AiHBCgZnnpk",
+      "title": "DBMS - Rename Operation in Relational Algebra",
+      "duration": 698
+    },
+    {
+      "id": "hIh5-Y1QwFw",
+      "title": "DBMS - Join Operation In Relational Algebra",
+      "duration": 440
+    },
+    {
+      "id": "v9jKHphtdzs",
+      "title": "DBMS - Division Operation in Relational Algebra",
+      "duration": 514
+    },
+    {
+      "id": "MyQnpZnRzmE",
+      "title": "DBMS - Assignment Operation in Relational Algebra",
+      "duration": 114
+    },
+    {
+      "id": "pVVKjbCW1e8",
+      "title": "DBMS - Aggregate Function in Relational Algebra",
+      "duration": 247
+    },
+    {
+      "id": "NglwBiZWS3w",
+      "title": "DBMS - Deletion Operation on Database Using Relational Algebra",
+      "duration": 150
+    },
+    {
+      "id": "j9q4GGDaBJU",
+      "title": "DBMS - Insert Operation on Database Using Relational Algebra",
+      "duration": 343
+    },
+    {
+      "id": "JoKZG4nWm6o",
+      "title": "DBMS - Update Operation on Database Using Relational Algebra",
+      "duration": 272
+    },
+    {
+      "id": "uF0-C3iHBUs",
+      "title": "DBMS - View Using Relational Algebra",
+      "duration": 347
+    },
+    {
+      "id": "sXX6318ZOKk",
+      "title": "DBMS - Question Solve on Relational Algebra - 1",
+      "duration": 136
+    },
+    {
+      "id": "LrgalIAb61A",
+      "title": "DBMS - Question Solve on Relational Algebra - 2",
+      "duration": 183
+    },
+    {
+      "id": "pfuzmbUmojQ",
+      "title": "DBMS - Question Solve on Relational Algebra -3",
+      "duration": 155
+    },
+    {
+      "id": "kh3a--gzIPg",
+      "title": "DBMS - Basic Structure of SQL",
+      "duration": 370
+    },
+    {
+      "id": "W3ZwDBSQ3eQ",
+      "title": "DBMS - Select From Where",
+      "duration": 369
+    },
+    {
+      "id": "t5PIjvdXwss",
+      "title": "DBMS - Rename in SQL",
+      "duration": 347
+    },
+    {
+      "id": "TzL3KAhC_Ys",
+      "title": "DBMS - String Related Operations in SQL",
+      "duration": 282
+    },
+    {
+      "id": "MAxkyk98wUg",
+      "title": "DBMS - Ordering Tuples in SQL",
+      "duration": 229
+    },
+    {
+      "id": "OXqVNueMPW0",
+      "title": "DBMS - Union and Intersect Operation in SQL",
+      "duration": 193
+    },
+    {
+      "id": "Rkqw0IvKDcA",
+      "title": "DBMS - Except Operation in SQL",
+      "duration": 186
+    },
+    {
+      "id": "doIh2HqJ7CA",
+      "title": "DMS - Aggregate Functions in SQL",
+      "duration": 510
+    },
+    {
+      "id": "Ulf4l3PDa88",
+      "title": "DBMS - Null Values in SQL",
+      "duration": 137
+    },
+    {
+      "id": "jcXjgnS0flU",
+      "title": "DBMS - Set Membership in SQL",
+      "duration": 234
+    },
+    {
+      "id": "UQn1D0DzAGE",
+      "title": "DBMS - Set comparison in SQL",
+      "duration": 444
+    },
+    {
+      "id": "xvgsVV8PjWQ",
+      "title": "DBMS - Test for Empty Relations in SQL",
+      "duration": 661
+    },
+    {
+      "id": "EQ0pnRLfqRQ",
+      "title": "DBMS - Test For Absence of Duplicate Tuples In SQL",
+      "duration": 330
+    },
+    {
+      "id": "AZBPXm9vvJ8",
+      "title": "DBMS - Assignment on Company Database",
+      "duration": 241
+    },
+    {
+      "id": "BEy2vAnaLBY",
+      "title": "DBMS - Assignment on Company Database Query-1",
+      "duration": 136
+    },
+    {
+      "id": "ZRYNqWQTUfw",
+      "title": "DBMS - Assignment on Company Database Query-2",
+      "duration": 402
+    },
+    {
+      "id": "SOt69R37PvY",
+      "title": "DBMS - Assignment on Company Database Query-3",
+      "duration": 172
+    },
+    {
+      "id": "Gk-2m9cJAMI",
+      "title": "DBMS - Assignment on Company Database Query-4",
+      "duration": 221
+    },
+    {
+      "id": "zbe1yuCV2Ds",
+      "title": "DBMS - Assignment on Company Database Query-5",
+      "duration": 209
+    },
+    {
+      "id": "aOrVMUA1XJA",
+      "title": "DBMS - Assignment on Company Database Query-6",
+      "duration": 117
+    },
+    {
+      "id": "Tqsa9dLpHtY",
+      "title": "DBMS - Assignment on Company Database Query-7",
+      "duration": 156
+    },
+    {
+      "id": "JOyhWDbDiYQ",
+      "title": "DBMS - Assignment on Company Database Query-8",
+      "duration": 335
+    },
+    {
+      "id": "leTfmMQD5ZU",
+      "title": "DBMS - Assignment on Company Database Query-9",
+      "duration": 180
+    },
+    {
+      "id": "HpFrGAiIy10",
+      "title": "DBMS - Assignment on Company Database Query-10",
+      "duration": 197
+    },
+    {
+      "id": "Lw69T9whKlw",
+      "title": "DBMS - Assignment on Company Database Query-11",
+      "duration": 148
+    },
+    {
+      "id": "rOTLUWzwQWE",
+      "title": "DBMS - Assignment on Company Database Query-12",
+      "duration": 113
+    },
+    {
+      "id": "zZ6mzr5v7ws",
+      "title": "DBMS - Functional Dependencies (FDs)",
+      "duration": 396
+    },
+    {
+      "id": "qTR8QnYXHvQ",
+      "title": "DBMS - Introduction to Normalization of Database",
+      "duration": 516
+    },
+    {
+      "id": "7F9ni-IVD90",
+      "title": "DBMS - First Normal Form (INF)",
+      "duration": 212
+    },
+    {
+      "id": "Ko_LE3TNO64",
+      "title": "DBMS - Second Normal Form (2NF)",
+      "duration": 621
+    },
+    {
+      "id": "p62he-WUp9E",
+      "title": "DBMS - Third Normal Form (3NF)",
+      "duration": 497
+    },
+    {
+      "id": "FGesKHcqf2c",
+      "title": "DBMS - Boyce-Codd Normal Form (BCNF)",
+      "duration": 613
+    },
+    {
+      "id": "OBiNTE14EEg",
+      "title": "DBMS - Fourth Normal Form 4NF",
+      "duration": 193
+    },
+    {
+      "id": "-vSU1QD-D7g",
+      "title": "DBMS - Closure on Attribute Sets",
+      "duration": 433
+    },
+    {
+      "id": "3j-VokBpKDI",
+      "title": "DBMS - Canonical Cover of FDs",
+      "duration": 553
+    },
+    {
+      "id": "uIqXyx1pdKw",
+      "title": "DBMS - 3NF Algorithm",
+      "duration": 649
+    },
+    {
+      "id": "PDR-s5D1bpc",
+      "title": "DBMS - 3NF Algorithm Problem Solve -1",
+      "duration": 309
+    },
+    {
+      "id": "of_4gkMZwJE",
+      "title": "DBMS - 3NF Algorithm Problem Solve-2",
+      "duration": 508
+    },
+    {
+      "id": "BAIpLlaqs_c",
+      "title": "DBMS - Algorithm To check Whether a Decomposition is Lossless",
+      "duration": 403
+    },
+    {
+      "id": "dgYJmclPsEQ",
+      "title": "DBMS - Problem-1 To check Whether a Decomposition is Lossless",
+      "duration": 286
+    },
+    {
+      "id": "6L-AK_Ib17k",
+      "title": "DBMS - Problem-2 To check Whether a Decomposition is Lossless",
+      "duration": 284
+    },
+    {
+      "id": "hwhCah5fsLo",
+      "title": "DBMS - Question Solve on Normalization - 1",
+      "duration": 208
+    },
+    {
+      "id": "ADM1ouYvEIo",
+      "title": "DBMS - Question Solve on Normalization - 2",
+      "duration": 309
+    },
+    {
+      "id": "rCfNoL5_DOc",
+      "title": "DBMS - Question Solve on Normalization - 3",
+      "duration": 137
+    },
+    {
+      "id": "dmVpHc9Ii3Y",
+      "title": "DBMS - Question Solve on Normalization - 4",
+      "duration": 111
+    },
+    {
+      "id": "gJh72OemGvI",
+      "title": "DBMS - Question Solve on Normalization - 5",
+      "duration": 124
+    },
+    {
+      "id": "nXzqGLJcu60",
+      "title": "DBMS - Question Solve on Functional Dependency",
+      "duration": 176
+    },
+    {
+      "id": "WE6Pqp61S1E",
+      "title": "DBMS - Question Solve on Referential Integrity",
+      "duration": 281
+    },
+    {
+      "id": "GgwiO0lFyXo",
+      "title": "DBMS - Disk Management",
+      "duration": 899
+    },
+    {
+      "id": "08P0dZp5JGc",
+      "title": "DBMS - Pages and Blocks",
+      "duration": 246
+    },
+    {
+      "id": "zR3k8gf6m-s",
+      "title": "DBMS - IO Time to Access a Page",
+      "duration": 386
+    },
+    {
+      "id": "626Pw_eq-k0",
+      "title": "DBMS - Heap Files",
+      "duration": 466
+    },
+    {
+      "id": "lyTPtoBfs9I",
+      "title": "DBMS - Index and Index Structure",
+      "duration": 318
+    },
+    {
+      "id": "lK_kmSGpu5I",
+      "title": "DBMS - Sorted Files",
+      "duration": 500
+    },
+    {
+      "id": "WeiyF5NjUzc",
+      "title": "DBMS - Storage Structure",
+      "duration": 261
+    },
+    {
+      "id": "4PNqQbY9Sck",
+      "title": "DBMS - Clustered Index",
+      "duration": 184
+    },
+    {
+      "id": "WzT15bxXhvI",
+      "title": "DBMS - Unclustered Structure",
+      "duration": 195
+    },
+    {
+      "id": "2bzId0SxD7g",
+      "title": "DBMS - Problem on Cost of Range Search",
+      "duration": 291
+    },
+    {
+      "id": "lg8S2s_yTh4",
+      "title": "DBMS - Sparse vs. Dense Index",
+      "duration": 235
+    },
+    {
+      "id": "ZSovmk3wOXM",
+      "title": "DBMS - Two Level Index",
+      "duration": 141
+    },
+    {
+      "id": "Olpt8Q2xhQk",
+      "title": "DBMS - Multi Level Index",
+      "duration": 165
+    },
+    {
+      "id": "EiW1VVPor10",
+      "title": "DBMS - Index Sequential Access Method (ISAM)",
+      "duration": 400
+    },
+    {
+      "id": "r37E6RNxB6w",
+      "title": "B-Tree Definition And Properties",
+      "duration": 390
+    },
+    {
+      "id": "KdbFmwRvkvg",
+      "title": "B-Tree An Example",
+      "duration": 519
+    },
+    {
+      "id": "9AkRxwT8T1E",
+      "title": "DBMS - B+ Tree",
+      "duration": 361
+    },
+    {
+      "id": "b0FYZuPXZps",
+      "title": "DBMS - Insertion and Deletion of B+ Tree",
+      "duration": 415
+    },
+    {
+      "id": "zz8ZyV9fRQg",
+      "title": "DBMS - Hash Index",
+      "duration": 243
+    },
+    {
+      "id": "2WpcZiDfOkg",
+      "title": "DBMS - Choosing a Hash Function",
+      "duration": 278
+    },
+    {
+      "id": "vBHJVXELWHs",
+      "title": "DBMS - Problems of Hash Addresses",
+      "duration": 147
+    },
+    {
+      "id": "WeBiqTxgTrk",
+      "title": "DBMS - Extendable hashing",
+      "duration": 486
+    },
+    {
+      "id": "cg56iKgISJY",
+      "title": "DBMS - Question Solve on B Tree",
+      "duration": 195
+    },
+    {
+      "id": "-FE6cIv-F4E",
+      "title": "DBMS - Question Solve on B+ Tree - 1",
+      "duration": 111
+    },
+    {
+      "id": "QtBskc9QMe4",
+      "title": "DBMS - Question Solve on B+ Tree - 2",
+      "duration": 108
+    },
+    {
+      "id": "gK0A93PUFWI",
+      "title": "DBMS - Question Solve on B+ Tree - 3",
+      "duration": 135
+    },
+    {
+      "id": "iGYQMZGkSDo",
+      "title": "Question Solve on Disk Scheduling",
+      "duration": 458
+    },
+    {
+      "id": "3OwuvyvwC7s",
+      "title": "DBMS - Question Solve on Disk - 1",
+      "duration": 403
+    },
+    {
+      "id": "VOWAY5OmQOM",
+      "title": "DBMS - Question Solve on Disk - 2",
+      "duration": 593
+    },
+    {
+      "id": "9gsw5zDB-nA",
+      "title": "DBMS - Question Solve on Disk - 3",
+      "duration": 514
+    },
+    {
+      "id": "y9hK9yyiLkA",
+      "title": "DBMS - Question Solve on Disk - 4",
+      "duration": 338
+    },
+    {
+      "id": "PgXo4unl3FQ",
+      "title": "DBMS - Introduction to Query Processing",
+      "duration": 220
+    },
+    {
+      "id": "5ANGbZdB30I",
+      "title": "DBMS - Introduction to Query Processing - Example",
+      "duration": 418
+    },
+    {
+      "id": "w83Ug6IwVTw",
+      "title": "DBMS - Definition of Transaction",
+      "duration": 171
+    },
+    {
+      "id": "9cduan7Z9N0",
+      "title": "DBMS - State Transition of a Transaction",
+      "duration": 236
+    },
+    {
+      "id": "fFY8cIEEFa8",
+      "title": "DBMS - ACID Properties of a Transaction",
+      "duration": 246
+    },
+    {
+      "id": "c8SXIr22oWI",
+      "title": "DBMS - Architecture of a Database Transaction",
+      "duration": 243
+    },
+    {
+      "id": "UGA4xjEGi-0",
+      "title": "DBMS - Serializability and Recoverability",
+      "duration": 473
+    },
+    {
+      "id": "VqpfBwzFWUA",
+      "title": "DBMS - Testing of Serializability",
+      "duration": 503
+    },
+    {
+      "id": "Thm0xW9oTow",
+      "title": "DBMS - Concurrency Control",
+      "duration": 274
+    },
+    {
+      "id": "C_J6K8DodS8",
+      "title": "DBMS - Concurrency Control – Lost Update Problem",
+      "duration": 189
+    },
+    {
+      "id": "d4Ziyuri0L0",
+      "title": "DBMS - Concurrency Control – Uncommitted Dependency Problem",
+      "duration": 231
+    },
+    {
+      "id": "IIcR3G5w4ZI",
+      "title": "DBMS - Concurrency Control – Inconsistent Analysis problem",
+      "duration": 334
+    },
+    {
+      "id": "a74V14OnDvw",
+      "title": "DBMS - Locking Methods",
+      "duration": 307
+    },
+    {
+      "id": "e9sBoXom6Zs",
+      "title": "DBMS - Two Phase Locking",
+      "duration": 199
+    },
+    {
+      "id": "4-lgOg8Webo",
+      "title": "DBMS - Preventing Lost Update Problem using 2PL",
+      "duration": 264
+    },
+    {
+      "id": "aCG8v220aMU",
+      "title": "DBMS - Preventing Uncommitted Dependency Problem using 2PL",
+      "duration": 212
+    },
+    {
+      "id": "UnVMmDiuaq8",
+      "title": "DBMS - Preventing Inconsistent Analysis Problem using 2PL",
+      "duration": 277
+    },
+    {
+      "id": "DqeV3pl1Q4o",
+      "title": "DBMS - Cascading Rollback Problem Using 2PL",
+      "duration": 315
+    },
+    {
+      "id": "q_-fhQXOQbg",
+      "title": "DBMS - Granularity of Data Items",
+      "duration": 167
+    },
+    {
+      "id": "cAF-2_qfnsg",
+      "title": "DBMS - Non-Repeatable (or Fuzzy) read",
+      "duration": 90
+    },
+    {
+      "id": "uqQAqh8wq5k",
+      "title": "DBMS - Phantom Read and Phantom Tuple",
+      "duration": 106
+    },
+    {
+      "id": "7IpmFjFFFv0",
+      "title": "DBMS - Deadlock and Livelock",
+      "duration": 158
+    },
+    {
+      "id": "RRiPKkH3sPw",
+      "title": "DBMS - Time Stamping Methods",
+      "duration": 279
+    },
+    {
+      "id": "MKIoDIuVsr4",
+      "title": "DBMS - Thomas’s Write Rule",
+      "duration": 267
+    },
+    {
+      "id": "vvLBColXHic",
+      "title": "DBMS - Thomas’s Write Rule – Example",
+      "duration": 333
+    },
+    {
+      "id": "gS59GdeA7AE",
+      "title": "DBMS - Optimistic Techniques",
+      "duration": 536
+    },
+    {
+      "id": "Bds-jFgmoks",
+      "title": "DBMS - Reliable and Reliability",
+      "duration": 93
+    },
+    {
+      "id": "XcxIrUBAxKs",
+      "title": "DBMS - Failure, Error and Fault",
+      "duration": 249
+    },
+    {
+      "id": "MDCpVvr3bNk",
+      "title": "DBMS - Types of Failure",
+      "duration": 494
+    },
+    {
+      "id": "u8bvrg7ITkA",
+      "title": "DBMS - Audit Trails",
+      "duration": 183
+    },
+    {
+      "id": "v5qKiXa36o4",
+      "title": "DBMS - Recovery Schemes",
+      "duration": 346
+    },
+    {
+      "id": "fi5NIMndT9s",
+      "title": "DBMS - Recovery in a Centralized DBMS",
+      "duration": 176
+    },
+    {
+      "id": "Z7LFfOlDrOA",
+      "title": "DBMS - Logs",
+      "duration": 260
+    },
+    {
+      "id": "9V8MDe2AuAQ",
+      "title": "DBMS - Checkpoints",
+      "duration": 521
+    },
+    {
+      "id": "yCjdpThgGoM",
+      "title": "DBMS - Archival Database and Implementation of Storage",
+      "duration": 348
+    },
+    {
+      "id": "JAMRnR1dkQc",
+      "title": "DBMS - Do, Undo, Redo",
+      "duration": 327
+    },
+    {
+      "id": "5VE1qitVRAw",
+      "title": "DBMS - Reflecting Updates to the Database and Recovery",
+      "duration": 230
+    },
+    {
+      "id": "S1jdUKetxig",
+      "title": "DBMS - Client Server Model",
+      "duration": 359
+    },
+    {
+      "id": "aoMOmSx5Zyw",
+      "title": "DBMS - Introduction to Distributed Database",
+      "duration": 209
+    }
+  ]
+}

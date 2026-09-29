@@ -1,0 +1,230 @@
+{
+  "courseId": "flask-fridays-d90189",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:00:51.492Z",
+  "title": "Create A Flask Blog - Flask Friday",
+  "channel": "John Elder",
+  "videos": [
+    {
+      "id": "0Qxtt4veJIc",
+      "title": "Before You Install Flask...Watch This!  Flask Fridays #1",
+      "duration": 1260
+    },
+    {
+      "id": "4yaG-jFfePc",
+      "title": "How To Use Python On A Web Page With Jinja2  - Flask Fridays #2",
+      "duration": 1290
+    },
+    {
+      "id": "3O4ZmH5aolg",
+      "title": "Custom Error Pages and Version Control - Flask Fridays #3",
+      "duration": 1393
+    },
+    {
+      "id": "y62Dvo2Ml7o",
+      "title": "Templates, Bootstrap Navbars, and Links - Flask Fridays #4",
+      "duration": 985
+    },
+    {
+      "id": "GbJPqu0ff9A",
+      "title": "Web Forms With WTF! - Flask Fridays #5",
+      "duration": 1376
+    },
+    {
+      "id": "abCSKRMGZ3A",
+      "title": "How To Use Messages With Flask - Flask Fridays #6",
+      "duration": 643
+    },
+    {
+      "id": "w54WLGm4OrE",
+      "title": "How to Use CSS Javascript and Images With Flask Static Files - Flask Fridays #7",
+      "duration": 739
+    },
+    {
+      "id": "Q2QmST-cSwc",
+      "title": "How to Use Databases With SQLAlchemy  - Flask Fridays #8",
+      "duration": 1536
+    },
+    {
+      "id": "hQl2wyJvK5k",
+      "title": "How To Use MySQL Database With Flask - Flask Fridays #9",
+      "duration": 1140
+    },
+    {
+      "id": "Wicjkn5_nIQ",
+      "title": "How To Update A Record In The Database - Flask Fridays #10",
+      "duration": 935
+    },
+    {
+      "id": "ca-Vj6kwK7M",
+      "title": "How To Migrate Database With Flask - Flask Fridays #11",
+      "duration": 853
+    },
+    {
+      "id": "7jKsHOZk-IE",
+      "title": "Delete Database Records With Flask - Flask Fridays #12",
+      "duration": 563
+    },
+    {
+      "id": "8ebIEefhBpM",
+      "title": "Hashing Passwords With Werkzeug - Flask Fridays #13",
+      "duration": 775
+    },
+    {
+      "id": "QCf9Bz2nydo",
+      "title": "Using Hashed Passwords For Registration - Flask Fridays #14",
+      "duration": 960
+    },
+    {
+      "id": "FYsPj40aQoc",
+      "title": "Comparing Hashed Passwords To Plaintext Passwords - Flask Fridays #15",
+      "duration": 1022
+    },
+    {
+      "id": "Up5Gm_Ls2oQ",
+      "title": "How To Return JSON With Flask For an API - Flask Fridays #16",
+      "duration": 309
+    },
+    {
+      "id": "1RmU8lderG8",
+      "title": "Add A Blog Post Model and Form - Flask Fridays #17",
+      "duration": 1020
+    },
+    {
+      "id": "BQu9FBf6p7I",
+      "title": "Show Blog Posts Page - Flask Fridays #18",
+      "duration": 654
+    },
+    {
+      "id": "HsqoCbswnQo",
+      "title": "Individual Blog Post Pages - Flask Fridays #19",
+      "duration": 650
+    },
+    {
+      "id": "N4Nz0cYuCnc",
+      "title": "Edit Blog Posts - Flask Fridays #20",
+      "duration": 770
+    },
+    {
+      "id": "KMvh8MS1ASQ",
+      "title": "Delete Blog Posts - Flask Fridays #21",
+      "duration": 518
+    },
+    {
+      "id": "bxyaJ8w_wak",
+      "title": "User Login with Flask_Login - Flask Fridays #22",
+      "duration": 1431
+    },
+    {
+      "id": "o0r_4zxz9z8",
+      "title": "Create A User Dashboard - Flask Fridays #23",
+      "duration": 712
+    },
+    {
+      "id": "1xRppAbal2E",
+      "title": "Two Ways To Lock Down Your Flask App - Flask Fridays #24",
+      "duration": 372
+    },
+    {
+      "id": "o6YjyOt2Zhc",
+      "title": "Update User Profile From Dashboard - Flask Fridays #25",
+      "duration": 681
+    },
+    {
+      "id": "4uU_uhg-8gM",
+      "title": "Clean Up Our Flask Code! - Flask Fridays #26",
+      "duration": 654
+    },
+    {
+      "id": "6hxc-FSlTwQ",
+      "title": "Update Correct User  - Flask Fridays #27",
+      "duration": 460
+    },
+    {
+      "id": "mwjrtntk0PE",
+      "title": "Create One To Many Database Relationship  - Flask Fridays #28",
+      "duration": 807
+    },
+    {
+      "id": "ohMjB8tRANM",
+      "title": "Only Allow Correct User To Delete Posts - Flask Fridays #29",
+      "duration": 264
+    },
+    {
+      "id": "TddK6Uoa9dE",
+      "title": "Only Allow Correct User To Edit Posts - Flask Fridays #30",
+      "duration": 436
+    },
+    {
+      "id": "kmtZTo-_gJY",
+      "title": "Search Blog Posts From Navbar - Flask Fridays #31",
+      "duration": 891
+    },
+    {
+      "id": "5jnAnnxZGQQ",
+      "title": "How To Add A Rich Text Editor - Flask Fridays #32",
+      "duration": 504
+    },
+    {
+      "id": "3QkEjJdWoGA",
+      "title": "Edit Blog Posts With Rich Text Editor - Flask Fridays #33",
+      "duration": 265
+    },
+    {
+      "id": "WqHtmz8Ibn8",
+      "title": "Basic Admin Page - Flask Fridays #34",
+      "duration": 504
+    },
+    {
+      "id": "puMI8EHEamU",
+      "title": "Format Search Results - Flask Fridays #35",
+      "duration": 346
+    },
+    {
+      "id": "5PkulS_7KJo",
+      "title": "Set Default Profile Pic - Flask Fridays #36",
+      "duration": 476
+    },
+    {
+      "id": "7-v6jshCy08",
+      "title": "About Author Section - Flask Fridays #37",
+      "duration": 613
+    },
+    {
+      "id": "ZHQtxITPcAs",
+      "title": "Upload Profile Picture - Flask Fridays #38",
+      "duration": 1241
+    },
+    {
+      "id": "SiCAIRc0pEI",
+      "title": "Deploy Flask App With Database On Heroku For Webhosting - Flask Fridays #39",
+      "duration": 797
+    },
+    {
+      "id": "34TGoBXKgko",
+      "title": "Only Delete Correct User - Flask Fridays #40",
+      "duration": 348
+    },
+    {
+      "id": "CDDWZE0n7Mk",
+      "title": "Fix And Show Profile Picture - Flask Fridays #41",
+      "duration": 290
+    },
+    {
+      "id": "xUgXB4OFU7w",
+      "title": "Null Profile Pic? - Flask Fridays #42",
+      "duration": 268
+    },
+    {
+      "id": "yUGRzhkCIwo",
+      "title": "Add Profile Pic To Blog Posts - Flask Fridays #43",
+      "duration": 435
+    },
+    {
+      "id": "CGd0wOux7Ec",
+      "title": "Designate Admin To Delete Posts - Flask Fridays #44",
+      "duration": 372
+    }
+  ]
+}

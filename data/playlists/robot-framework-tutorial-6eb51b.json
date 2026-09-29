@@ -1,0 +1,325 @@
+{
+  "courseId": "robot-framework-tutorial-6eb51b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:31.274Z",
+  "title": "ROBOT FRAMEWORK TUTORIAL - Learn Robot Framework Automation - FULL COURSE",
+  "channel": "Software Testing Mentor",
+  "videos": [
+    {
+      "id": "zcT8hSipe2A",
+      "title": "Robot Framework Tutorial #1 - Install Python and PIP on Mac OS",
+      "duration": 657
+    },
+    {
+      "id": "qnA2P3VBkeA",
+      "title": "Robot Framework Tutorial #2 - Introduction, Installation of RobotFramework and SeleniumLibrary",
+      "duration": 628
+    },
+    {
+      "id": "ZqqIRgNn1vM",
+      "title": "Robot Framework Tutorial #3 - Installing PyCharm and IntelliBot Plugin",
+      "duration": 850
+    },
+    {
+      "id": "ZV47LblOeYA",
+      "title": "Robot Framework Tutorial #4 - Create New Robot Framework Automation Project",
+      "duration": 535
+    },
+    {
+      "id": "TPJFqFiq000",
+      "title": "Robot Framework Tutorial #5 - Key Sections of Robot Framework File",
+      "duration": 363
+    },
+    {
+      "id": "_82AEg5u59c",
+      "title": "Robot Framework Tutorial #6 - Create First TestCase in Robot Framework",
+      "duration": 592
+    },
+    {
+      "id": "paMrZeoSARM",
+      "title": "Robot Framework Tutorial #7 - Convert Manual Test into Automation Script",
+      "duration": 1251
+    },
+    {
+      "id": "Gf-3arXnkRY",
+      "title": "Robot Framework Tutorial #8 - Overview of Builtin and Selenium Library",
+      "duration": 409
+    },
+    {
+      "id": "gu0mrxMmUMI",
+      "title": "Robot Framework Tutorial #9 - Basics of Locating WebPage Elements",
+      "duration": 559
+    },
+    {
+      "id": "ksco1w4QPq0",
+      "title": "Robot Framework Tutorial #10 - How to Create User Defined Keywords",
+      "duration": 409
+    },
+    {
+      "id": "MjZURMGxQtk",
+      "title": "Robot Framework Tutorial #11 - Move User Defined Keywords to Resource File",
+      "duration": 836
+    },
+    {
+      "id": "o9Ng_StDTOs",
+      "title": "Robot Framework Tutorial #12 - Robot Framework Test Setup and Teardown",
+      "duration": 519
+    },
+    {
+      "id": "vspDkYak7PQ",
+      "title": "Robot Framework Tutorial #13-Page Object Model(POM) in Robot Framework",
+      "duration": 500
+    },
+    {
+      "id": "hTK7rNxPOt0",
+      "title": "Robot Framework Tutorial #14 - Implement POM in Robot Framework",
+      "duration": 1050
+    },
+    {
+      "id": "9P6cFIBNZns",
+      "title": "Robot Framework Tutorial #15 - Scalar Variable in Robot Framework",
+      "duration": 773
+    },
+    {
+      "id": "qNof3y9B_VM",
+      "title": "Robot Framework Tutorial #16 - List Variable in Robot Framework",
+      "duration": 381
+    },
+    {
+      "id": "P8lpTs7j3Vw",
+      "title": "Robot Framework Tutorial #17 - Dictionary Variable in Robot Framework",
+      "duration": 812
+    },
+    {
+      "id": "0XKAW1Bx0zs",
+      "title": "Robot Framework Tutorial #18 - Variable Scope in Robot Framework",
+      "duration": 771
+    },
+    {
+      "id": "MSp_pf4EgSg",
+      "title": "Robot Framework Tutorial #19 - Arguments in Robot Framework",
+      "duration": 928
+    },
+    {
+      "id": "BxM_IBtT8K8",
+      "title": "Robot Framework Tutorial #20 - Pass Variables from Command Line",
+      "duration": 548
+    },
+    {
+      "id": "Uwxnnbdbyxc",
+      "title": "Robot Framework Tutorial #21 - Refactor Selenium Webelement Locators",
+      "duration": 892
+    },
+    {
+      "id": "6i7qsn2Rx08",
+      "title": "Robot Framework Tutorial #22 - How to Find Webelement by ID or Name",
+      "duration": 736
+    },
+    {
+      "id": "p-YtezhSyKg",
+      "title": "Robot Framework Tutorial #23 - How to Install Eskry and Chropath",
+      "duration": 429
+    },
+    {
+      "id": "1pKGcOMwFmc",
+      "title": "Robot Framework Tutorial #24 - Click WebElement by LinkText or PartialLinkText",
+      "duration": 510
+    },
+    {
+      "id": "5LV4z_-91WY",
+      "title": "Selenium XPath Tutorial #1 - Introduction to XPath | Basic XPath Syntax",
+      "duration": 967
+    },
+    {
+      "id": "V5vWvs2clBw",
+      "title": "Selenium XPath Tutorial #2 - Relative Vs Absolute XPath",
+      "duration": 547
+    },
+    {
+      "id": "4ex4Onm6ma8",
+      "title": "Selenium XPath Tutorial #3 - XPath Starts-with Function with Examples",
+      "duration": 436
+    },
+    {
+      "id": "OY1wJfTWz-4",
+      "title": "Selenium XPath Tutorial #4 - XPath Contains Function with Examples",
+      "duration": 509
+    },
+    {
+      "id": "ZDVoFyZipAw",
+      "title": "Selenium XPath Tutorial #5 - XPath text() Method | Find element by Text",
+      "duration": 346
+    },
+    {
+      "id": "QB09mSPvhWc",
+      "title": "Selenium XPath Tutorial #6 - XPath AND Operator | XPath OR Operator",
+      "duration": 431
+    },
+    {
+      "id": "IbjfO4czy0Q",
+      "title": "Selenium XPath Tutorial #7 - XPath Axes Methods | Parent, Child, Self",
+      "duration": 751
+    },
+    {
+      "id": "Qg-hW_xiVSM",
+      "title": "Selenium XPath Tutorial #8 - Axes Method descendant, descendant-or-self",
+      "duration": 562
+    },
+    {
+      "id": "1_TGzj5X2QU",
+      "title": "Selenium XPath Tutorial #9 - Axes Methods | ancestor, ancestor-or-self",
+      "duration": 424
+    },
+    {
+      "id": "wpiuDZ6pUN0",
+      "title": "Selenium XPath Tutorial #10 - XPath Axes following, following-sibling",
+      "duration": 475
+    },
+    {
+      "id": "qtUkI3Jjods",
+      "title": "Selenium XPath Tutorial #11 - XPath Axes preceding,  preceding-sibling",
+      "duration": 498
+    },
+    {
+      "id": "RUT6fZeLnGk",
+      "title": "Selenium CSS Selector #1 - Introduction to CSS and CSS Selector",
+      "duration": 811
+    },
+    {
+      "id": "RLHmTi-P9L4",
+      "title": "Selenium CSS Selector #2 - Write CSS Selector using Class Attribute",
+      "duration": 401
+    },
+    {
+      "id": "WFy5Z2ijRSo",
+      "title": "Selenium CSS Selector #3 - CSS Selector with Multiple Attributes",
+      "duration": 852
+    },
+    {
+      "id": "2GTqU0v2rWk",
+      "title": "Selenium CSS Selector #4 - CSS Selector Substring Matching",
+      "duration": 725
+    },
+    {
+      "id": "t6TQYwdAsgc",
+      "title": "Selenium CSS Selector #5 - Finding Direct Child or Sub-child Elements",
+      "duration": 753
+    },
+    {
+      "id": "o0Txupo01gM",
+      "title": "Selenium CSS Selector #6 - Next Sibling | Adjacent Sibling Combinator",
+      "duration": 401
+    },
+    {
+      "id": "waPDXyLvACo",
+      "title": "Selenium CSS Selector #7 - First-Child, Last-Child, Nth-Child, Nth-Last-Child",
+      "duration": 604
+    },
+    {
+      "id": "gBCWQECPmXE",
+      "title": "Selenium CSS Selector #8 - First-of-type, Last-of-type, Nth-of-type()",
+      "duration": 411
+    },
+    {
+      "id": "dLhZuf0RKqQ",
+      "title": "Robot Framework Tutorial #25 - How to Handle Browser Windows",
+      "duration": 1009
+    },
+    {
+      "id": "D0LOql-_3-s",
+      "title": "Robot Framework Tutorial #26 - How to handle Tabbed Browser Windows",
+      "duration": 762
+    },
+    {
+      "id": "7bZYQZnUq7s",
+      "title": "Robot Framework Tutorial #27 - Working with Webelements",
+      "duration": 1496
+    },
+    {
+      "id": "FniVAPhuz3I",
+      "title": "Robot Framework Tutorial #28 - How to handle Radio Buttons",
+      "duration": 762
+    },
+    {
+      "id": "IDQGYXyvb6M",
+      "title": "Robot Framework Tutorial #29 - Working with Checkboxes",
+      "duration": 647
+    },
+    {
+      "id": "F_L0aSMWrjQ",
+      "title": "Robot Framework Tutorial #30 - How to handle Frames in Robot Framework",
+      "duration": 629
+    },
+    {
+      "id": "9QYvWyhjTZg",
+      "title": "Robot Framework Tutorial #31 - How to handle List in Robot Framework",
+      "duration": 1450
+    },
+    {
+      "id": "g_Ui-JzIY9U",
+      "title": "Robot Framework Tutorial #32 - How to handle Alerts in Robot Framework",
+      "duration": 1177
+    },
+    {
+      "id": "X84WJtri8RY",
+      "title": "Robot Framework Tutorial #33 - How to handle Mouse Actions",
+      "duration": 878
+    },
+    {
+      "id": "-rKFQxueFuY",
+      "title": "Robot Framework Tutorial #34 - How to Set Selenium Timeout and Speed",
+      "duration": 1305
+    },
+    {
+      "id": "mcMz_cKNgPI",
+      "title": "Robot Framework Tutorial #35 - Implicit Wait vs Explicit Wait",
+      "duration": 685
+    },
+    {
+      "id": "6Ogia3l8RKI",
+      "title": "Robot Framework Tutorial #36 - How to use Implicit Wait",
+      "duration": 855
+    },
+    {
+      "id": "gf1SSqq1fo0",
+      "title": "Robot Framework Tutorial #37 - How to use Explicit Wait",
+      "duration": 1231
+    },
+    {
+      "id": "tKTU6VT-Y88",
+      "title": "Robot Framework Tutorial #38 - How to use IF ELSE in Robot Framework",
+      "duration": 787
+    },
+    {
+      "id": "yrT46ur_MKE",
+      "title": "Robot Framework Tutorial #39 - How to use FOR Loop in Robot Framework",
+      "duration": 681
+    },
+    {
+      "id": "I4qhmT5vEGs",
+      "title": "Robot Framework Tutorial #40 - How to do Data Driven Testing",
+      "duration": 1549
+    },
+    {
+      "id": "fhVE37k9lLM",
+      "title": "Robot Framework Tutorial #41 - How to do Data Driven Testing using CSV File",
+      "duration": 816
+    },
+    {
+      "id": "gD6XnnU1pYs",
+      "title": "Robot Framework Tutorial #42 - How to do Data Driven Testing using Excel File",
+      "duration": 640
+    },
+    {
+      "id": "xDBkWKsntdk",
+      "title": "Selenium CSS Selector Tutorial - CSS Selectors in Selenium WebDriver | CSS Selector Full Tutorial",
+      "duration": 4552
+    },
+    {
+      "id": "U0WMFjnbb4I",
+      "title": "Selenium XPath Tutorial - XPath in Selenium WebDriver | XPath Full Tutorial | SoftwareTestingMentor",
+      "duration": 5428
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "courseId": "golang-web-development-bangla-d60124",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:20.397Z",
+  "title": "Golang Web Development Bangla",
+  "channel": "Learn with Raihan",
+  "videos": [
+    {
+      "id": "5ZrgNvXHUGI",
+      "title": "Golang Hello World Web server -Golang Web Development Bangla",
+      "duration": 862
+    },
+    {
+      "id": "Xcl_K7OtdiU",
+      "title": "Golang Template Parsing - Golang Web Development Bangla",
+      "duration": 680
+    },
+    {
+      "id": "LapfGQBzwA4",
+      "title": "Inserting Data into HTML Templates - Golang Web Development Bangla",
+      "duration": 322
+    },
+    {
+      "id": "fE18Jcomv7o",
+      "title": "Golang Templates - Using if/else Statements and Comparison Functions - Golang Web Dev Bangla",
+      "duration": 585
+    },
+    {
+      "id": "61xXwGGnuwM",
+      "title": "range Function for Golang Templates - Golang Web Development Bangla",
+      "duration": 455
+    },
+    {
+      "id": "N6rChwwYnKA",
+      "title": "Inserting Templates Inside of Templates - Golang Web Development Bangla",
+      "duration": 560
+    },
+    {
+      "id": "qvEAnLbh1_w",
+      "title": "Serving Files from Golang Web Server - Golang Web Development Bangla",
+      "duration": 544
+    },
+    {
+      "id": "OVIKa7d4x-U",
+      "title": "HTTP Requests and Responses - Golang Web Development Bangla",
+      "duration": 442
+    },
+    {
+      "id": "D_J5nX4p_pc",
+      "title": "Retrieving Values from Forms using Golang - Golang Web Development Bangla",
+      "duration": 401
+    },
+    {
+      "id": "IAlVzwhI0JU",
+      "title": "Reading the file from html Forms using golang",
+      "duration": 778
+    },
+    {
+      "id": "Hkl0WQBotRo",
+      "title": "File upload using Golang - Golang Web Development Bangla || Learn With Raihan",
+      "duration": 312
+    },
+    {
+      "id": "jVMOoacrsvs",
+      "title": "Upload files by extension - Golang Web Development Bangla",
+      "duration": 453
+    },
+    {
+      "id": "iwYNjib2kWc",
+      "title": "http redirect page - Golang Web Development Bangla || Learn With Raihan",
+      "duration": 281
+    },
+    {
+      "id": "9btIojjfmdk",
+      "title": "GoLang Packages and Modules - Golang Web Development Bangla || Learn With Raihan",
+      "duration": 411
+    },
+    {
+      "id": "j95E7y8fMtE",
+      "title": "Password hashing using bcrypt in Golang || Golang Web Development Bangla || Learn With Raihan",
+      "duration": 582
+    },
+    {
+      "id": "GscIylN07sQ",
+      "title": "HTTP Cookies - Golang Web Development Bangla || Learn With Raihan",
+      "duration": 198
+    },
+    {
+      "id": "CGRT1f0i-Nk",
+      "title": "Create Cookie using Golang || Golang Web Development Bangla || Learn With Raihan",
+      "duration": 290
+    },
+    {
+      "id": "7J5VmD6GE1k",
+      "title": "read and delete HTTP cookie using Golang || Golang Web Dev Bangla Turorial || Learn With Raihan",
+      "duration": 392
+    }
+  ]
+}

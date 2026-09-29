@@ -1,0 +1,210 @@
+{
+  "courseId": "aws-zero-to-hero-2d46a3",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:44:27.265Z",
+  "title": "AWS Zero to Hero - AWS Simplified",
+  "channel": "Abhishek.Veeramalla",
+  "videos": [
+    {
+      "id": "GkKNxyLp_V0",
+      "title": "Day-0 | Course Details | Free AWS Zero to Hero Course for DevOps Engineers #devops #aws #interview",
+      "duration": 1443
+    },
+    {
+      "id": "n6RWhajimZg",
+      "title": "Day-1 | Introduction to AWS | What is Public Cloud ? | Create an AWS Account | #aws #devops #cloud",
+      "duration": 1710
+    },
+    {
+      "id": "mCLYcsJ0GXQ",
+      "title": "Day-2 | AWS IAM deep dive with practicals and notes | IAM Project |#devops #aws #abhishekveeramalla",
+      "duration": 2760
+    },
+    {
+      "id": "Dc0t4LDOySY",
+      "title": "Day-3 | EC2 Deep Dive | Deploy Jenkins on AWS | Available in 1080P Quality | Project | #aws #devops",
+      "duration": 2535
+    },
+    {
+      "id": "MkIRh1mi8Ms",
+      "title": "HOW TO CONNECT TO EC2 INSTANCE FROM WINDOWS LAPTOP | MOBAXTERM | #aws #devops #abhishekveeramalla",
+      "duration": 460
+    },
+    {
+      "id": "P8g7Z4NYk3Q",
+      "title": "Day-4 | Best VPC explanation| VPC explained in 30 mins #devops #aws #abhishekveeramalla",
+      "duration": 1969
+    },
+    {
+      "id": "TtlKFgfN3PU",
+      "title": "Day-5 | AWS Security Group and NACL | Theory + Practical | AWS FREE COURSE by Abhishek |#devops #aws",
+      "duration": 2880
+    },
+    {
+      "id": "6BoTfTtNsGU",
+      "title": "Day-6 | Route53 explained in 15 mins | AWS FREE COURSE |#devops #aws #abhishekveeramalla",
+      "duration": 1040
+    },
+    {
+      "id": "FZPTL_kNvXc",
+      "title": "Day-7 | AWS Project Used In Production | Complete Implementation | #aws #abhishekveeramalla #devops",
+      "duration": 2752
+    },
+    {
+      "id": "qtkWHhikLh8",
+      "title": "Day-8 |AWS Scenario Based Interview Questions on EC2, IAM and VPC |#aws #devops #abhishekveeramalla",
+      "duration": 1550
+    },
+    {
+      "id": "DiWWPo2Qoso",
+      "title": "Day-9 | AWS S3 Buckets Deep Dive | 2 Demo Projects with Code | #aws #s3 #abhishekveeramalla",
+      "duration": 3779
+    },
+    {
+      "id": "TiDSwf8gydk",
+      "title": "Day-10 | AWS CLI Deep Dive | Concept + Installation + Demo | #aws #abhishekveeramalla #devops",
+      "duration": 2637
+    },
+    {
+      "id": "ov4WmWgQgsA",
+      "title": "Day-11 | IaC with AWS CFT | Tips and Tricks to Write CFT | CFT vs Terraform |  #abhishekveeramalla",
+      "duration": 4317
+    },
+    {
+      "id": "n42nFDTkTCI",
+      "title": "Day-12 | AWS CICD | AWS CodeCommit | What is CICD on AWS ? |  #abhishekveeramalla #devops #awm",
+      "duration": 1886
+    },
+    {
+      "id": "Tbp8325cKJ8",
+      "title": "Day-13 | AWS Code Pipeline | Jenkins vs AWS Code Pipeline | Open Source vs AWS Managed | #aws",
+      "duration": 1581
+    },
+    {
+      "id": "kOU-7_Sc72U",
+      "title": "Day-14 | AWS END TO END CI | REALTIME PROJECT | DEMO WITH NOTES | #aws #devops #abhishekveeramalla",
+      "duration": 3460
+    },
+    {
+      "id": "8ftrKNbSv28",
+      "title": "Day-15 | AWS ULTIMATE CICD PIPEPLINE | END TO END DEMO | AWS CODE PIPELINE | #aws #devops #cicd",
+      "duration": 4027
+    },
+    {
+      "id": "u4XngwbY-O0",
+      "title": "Day-16 | AWS CLOUD WATCH DEEP DIVE | DEMO - LIVE EC2 CPU ALERTING THROUGH SNS | #aws #devops",
+      "duration": 3436
+    },
+    {
+      "id": "5fTtmeCpSRw",
+      "title": "Day-17 | AWS LAMBDA INTRODUCTION | HOW DEVOPS ENGINEERS USE SERVERLESS ARCHITECTURE ?| #aws #devops",
+      "duration": 2113
+    },
+    {
+      "id": "OKYJCHHSWb4",
+      "title": "Day-18 | AWS Cost Optimization | Most Popular Cloud and DevOps project| Event Driven Serverless #aws",
+      "duration": 2686
+    },
+    {
+      "id": "yhieOhvHz6Q",
+      "title": "Day-19 | AWS CLOUD FRONT | Ft: Piyush | Content Delivery Network | #aws #devops #abhishekveeramalla",
+      "duration": 2282
+    },
+    {
+      "id": "-8_r28jJ6AM",
+      "title": "Day-20 | AWS ECR | ECR vs DockerHub | Free AWS job ready course | #aws #devops #abhishekveeramalla",
+      "duration": 1767
+    },
+    {
+      "id": "nnIFkEOzNp4",
+      "title": "Day-21 | AWS ECS | ECS vs EKS vs Kubernetes | Free AWS job ready course| #devops #abhishekveeramalla",
+      "duration": 3308
+    },
+    {
+      "id": "RRCrY12VY_s",
+      "title": "Kubernetes End to End project on EKS | EKS Install and app deploy with Ingress | #abhishekveeramalla",
+      "duration": 4466
+    },
+    {
+      "id": "FllcHYsBm78",
+      "title": "Day-23 | Secret Management on AWS | Most asked Interview question | #aws #abhishekveeramalla",
+      "duration": 1035
+    },
+    {
+      "id": "Koabqyopqns",
+      "title": "Day-24 | TERRAFORM WITH AWS PROJECT  | @cloudchamp  | AWS REAL TIME PROJECT #aws",
+      "duration": 5243
+    },
+    {
+      "id": "ig1KxKgN8ls",
+      "title": "Day-25 | AWS Config | Identify Compliant and Non Compliant AWS resources   |#aws #abhishekveeramalla",
+      "duration": 1817
+    },
+    {
+      "id": "bCS9m5RVPyo",
+      "title": "Day-26 | AWS Load Balancers | ALB vs NLB vs GWLB | Detailed Comparison | #aws #abhishekveeramalla",
+      "duration": 1902
+    },
+    {
+      "id": "rsw74PifwSA",
+      "title": "500 AWS Interview Q&A | 30 AWS services covered | Basic, Advanced and Scenario Based #aws #devops",
+      "duration": 428
+    },
+    {
+      "id": "cAXPA5lqkV4",
+      "title": "Day-28 | Migrating applications to AWS cloud | Complete project details |  #aws #abhishekveeramalla",
+      "duration": 2013
+    },
+    {
+      "id": "Y0sIQnvu4DA",
+      "title": "Day-29 | HOW TO CRACK AWS DEVOPS JOB ? | FOLLOW THESE 5 TIPS NOW |  #aws #abhishekveeramalla",
+      "duration": 509
+    },
+    {
+      "id": "PYtgemvmHcU",
+      "title": "Day-30 | THREE-TIER ARCHITECTURE IMPLEMENTATION ON AWS | #aws #abhishekveeramalla",
+      "duration": 1064
+    },
+    {
+      "id": "8T0UnSgywzY",
+      "title": "Deploy an E Commerce Three Tier application on AWS EKS | 8 Services and 2 Databases",
+      "duration": 3318
+    },
+    {
+      "id": "_BTpd2oYafM",
+      "title": "Create EKS Cluster with VPC using Terraform | Real Time Terraform Modules Implementation",
+      "duration": 2972
+    },
+    {
+      "id": "8nx_RLaX5gE",
+      "title": "Beginner Level Shell Scripting Project for DevOps Engineers | AWS Shell Scripting Project",
+      "duration": 2391
+    },
+    {
+      "id": "Ka08OEr7Mls",
+      "title": "How to reduce your AWS Billing ? | Best Practices for Beginners and Experienced.",
+      "duration": 1255
+    },
+    {
+      "id": "cW-J3xLEn1k",
+      "title": "Amazon CodeCatalyst Explained with Demo",
+      "duration": 1694
+    },
+    {
+      "id": "mMtQPfNfcEM",
+      "title": "Automate DevOps using Amazon Q Developer CLI",
+      "duration": 1455
+    },
+    {
+      "id": "mcF3iefRqLY",
+      "title": "Redis vs Valkey Explained using AWS ElastiCache Serverless | Complete Demo",
+      "duration": 1170
+    },
+    {
+      "id": "cbVwmdoVvAg",
+      "title": "The End of Kubernetes Complexity | Amazon EKS Auto Mode Deep dive",
+      "duration": 1501
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "nest-js-crash-course-da1f26",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:55.204Z",
+  "title": "Nest.js Crash Course",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "pcX97ZrTE6M",
+      "title": "Nest.js Crash Course #1 - Introduction & Setup",
+      "duration": 485
+    },
+    {
+      "id": "qZfO4EopfPA",
+      "title": "Nest.js Crash Course #2 - Modules",
+      "duration": 331
+    },
+    {
+      "id": "QTA8emDmH-s",
+      "title": "Nest.js Crash Course #3 - Controllers",
+      "duration": 597
+    },
+    {
+      "id": "MPYNkau4Bgg",
+      "title": "Nest.js Crash Course #4 - Providers",
+      "duration": 676
+    },
+    {
+      "id": "LIqItrgFLrw",
+      "title": "Nest.js Crash Course #5 - Exception Handling",
+      "duration": 307
+    },
+    {
+      "id": "dxPZzkXX9GE",
+      "title": "Nest.js Crash Course #6 - Pipes",
+      "duration": 361
+    },
+    {
+      "id": "shw2sctnDe8",
+      "title": "Nest.js Crash Course #7 - Guards",
+      "duration": 326
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "courseId": "rust-crash-course-tutorial-for-beginners-c01aed",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:01:51.911Z",
+  "title": "Rust Crash Course Tutorial for Beginners",
+  "channel": "Francesco Ciulla",
+  "videos": [
+    {
+      "id": "R33h77nrMqc",
+      "title": "Rust Installation, Hello World, Hello Cargo -  Full Crash Rust Tutorial for Beginners",
+      "duration": 1034
+    },
+    {
+      "id": "6Ag0MZUlvBE",
+      "title": "Variables, Shadowing, Constants in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 533
+    },
+    {
+      "id": "NyqJp5M3hRE",
+      "title": "Data Types in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 841
+    },
+    {
+      "id": "hJLc2Zu405A",
+      "title": "Functions in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 743
+    },
+    {
+      "id": "2w_FTiD74JI",
+      "title": "Control flow in Rust: If, Match, loop, while, for -  Full Crash Rust Tutorial for Beginners",
+      "duration": 739
+    },
+    {
+      "id": "9VBLOwmNE1g",
+      "title": "Ownership in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 1193
+    },
+    {
+      "id": "Q_0yoX07Fhs",
+      "title": "References and Borrowing in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 1113
+    },
+    {
+      "id": "dKymZbFp0ZQ",
+      "title": "Slice in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 716
+    },
+    {
+      "id": "PCjuO-Bv5FI",
+      "title": "Structs in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 591
+    },
+    {
+      "id": "mgK5LezkHl8",
+      "title": "An example of Struct in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 496
+    },
+    {
+      "id": "94iSHoKmPmY",
+      "title": "Methods for Structs -  Full Crash Rust Tutorial for Beginners",
+      "duration": 689
+    },
+    {
+      "id": "XQWX7dMqY3U",
+      "title": "Enums in Rust - Rust full tutorial",
+      "duration": 933
+    },
+    {
+      "id": "sd1M_CLXl4I",
+      "title": "Mastering Rust's Match Control Flow - Full Crash Rust Tutorial for Beginners",
+      "duration": 1225
+    },
+    {
+      "id": "DrCNi2Am304",
+      "title": "The \"if let\" Construct in Rust: Full Tutorial and Examples",
+      "duration": 519
+    },
+    {
+      "id": "5LdnfzFdWhE",
+      "title": "Understanding Rust Structure: Packages, Crates, Modules - Full Crash Rust Tutorial for Beginners",
+      "duration": 498
+    },
+    {
+      "id": "C0_b9r1Wcpo",
+      "title": "Mastering Rust Modules: Keywords, Paths, and Visibility - Full Crash Rust Tutorial for Beginners",
+      "duration": 853
+    },
+    {
+      "id": "fQvqih6fTBw",
+      "title": "Paths in rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 651
+    },
+    {
+      "id": "-WWHgod2Ac8",
+      "title": "Master the \"use\" Keyword in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 739
+    },
+    {
+      "id": "f4a8rWkSl8U",
+      "title": "Master Rust Collections: Vectors, Enums, and Iteration - Full Crash Rust Tutorial for Beginners",
+      "duration": 620
+    },
+    {
+      "id": "GK9Iz_ihmV8",
+      "title": "Mastering Strings and UTF-8 in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 660
+    },
+    {
+      "id": "-yXcVNqo0DQ",
+      "title": "Master Hash Maps in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 571
+    },
+    {
+      "id": "2XwP1U0XL0E",
+      "title": "Panic!, Unrecoverable Errors and Debugging in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 232
+    },
+    {
+      "id": "NBFH3BnCIvU",
+      "title": "Debugging Rust with Recoverable Errors: Result, Match, ? - Full Crash Rust Tutorial for Beginners",
+      "duration": 820
+    },
+    {
+      "id": "6AkRRzcAUKk",
+      "title": "Rust Error Handling: When to Use panic! vs Result Explained - Full Crash Rust Tutorial for Beginners",
+      "duration": 596
+    },
+    {
+      "id": "gFTJcroX5Ww",
+      "title": "Generics, Traits, and Lifetimes in Rust: Concepts & Examples -Full Crash Rust Tutorial for Beginners",
+      "duration": 500
+    },
+    {
+      "id": "sLjOV8kYxfE",
+      "title": "Generics in Rust: Functions, Structs, Enums, and Performance",
+      "duration": 1000
+    },
+    {
+      "id": "w8lmMaKY3Hs",
+      "title": "Understanding Traits in Rust: A Comprehensive Guide - Full New Crash Rust Tutorial for Beginners",
+      "duration": 1078
+    },
+    {
+      "id": "S-SkEA4QWWE",
+      "title": "Rust Lifetimes explained Tutorial",
+      "duration": 875
+    },
+    {
+      "id": "UyJ1mEqKMvE",
+      "title": "Testing in Rust - Full Rust Crash Course Tutorial for beginners",
+      "duration": 1386
+    },
+    {
+      "id": "Cjp4acZbPcY",
+      "title": "Controlling How Tests Are Run in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 497
+    },
+    {
+      "id": "MiLp0InGOkI",
+      "title": "Test Integration and organizing tests - Full Crash Rust Tutorial for Beginners",
+      "duration": 555
+    },
+    {
+      "id": "lZ2xWczv1lI",
+      "title": "Build a simple Command Line Interface (CLI) in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 350
+    },
+    {
+      "id": "_T4sE6NEcV0",
+      "title": "Build a Rust CLI - Getting Command Line Arguments - Full Crash Rust Tutorial for Beginners",
+      "duration": 339
+    },
+    {
+      "id": "cJLRKj_N1dw",
+      "title": "Reading Files in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 481
+    },
+    {
+      "id": "D_76TcfzDTU",
+      "title": "Build a CLI in Rust, Error Handling and Project Structure - Full Crash Rust Tutorial for Beginners",
+      "duration": 1159
+    },
+    {
+      "id": "uMzMDU5q7UY",
+      "title": "Test Driven Development in Rust - Full Crash Rust tutorial for Beginners",
+      "duration": 501
+    },
+    {
+      "id": "5mL3mFGQHM0",
+      "title": "Environment Variables in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 828
+    },
+    {
+      "id": "2B7vyCE8P-E",
+      "title": "Writing Error Messages to Standard Error & Standard Output - Full Crash rust Tutorial for beginners",
+      "duration": 405
+    },
+    {
+      "id": "agm_oW8t8tE",
+      "title": "Closures: Anonymous Functions that Capture Environment - Full Crash Rust Tutorial for beginners",
+      "duration": 1076
+    },
+    {
+      "id": "Dtkv5i2nelk",
+      "title": "Iterators in Rust Explained - Map, filter, fold (reduce) - Full Crash Rust Tutorial for Beginners",
+      "duration": 1343
+    },
+    {
+      "id": "qI2JY52i6Ns",
+      "title": "Build a CLI Project - Improved version with Iterators - Full Crash Rust Tutorial for Beginners",
+      "duration": 252
+    },
+    {
+      "id": "_5-Jp5A-OzE",
+      "title": "Release Profiles in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 177
+    },
+    {
+      "id": "8HlMJUYTsTQ",
+      "title": "How to publish a crate on Crates.io - Full Crash Rust Tutorial for Beginners",
+      "duration": 1425
+    },
+    {
+      "id": "PF5rozqH974",
+      "title": "Cargo Workspaces, Cargo Install, Cargo custom commands - Full Crash Rust Tutorial for Beginners",
+      "duration": 974
+    },
+    {
+      "id": "QmWQUkqkxDs",
+      "title": "Smart Pointers - data structures that act like a pointer -  Full Crash Rust Tutorial for Beginners",
+      "duration": 469
+    },
+    {
+      "id": "esTddv6MOY4",
+      "title": "Using The Box Smart pointer to Point to Data on the Heap - Full Crash Rust Tutorial for Beginners",
+      "duration": 1163
+    },
+    {
+      "id": "9g-UG0BC9A4",
+      "title": "The Deref Trait in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 505
+    },
+    {
+      "id": "_lvKmkspl1w",
+      "title": "Rust Concurrency and Parallelism - Threads in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 429
+    },
+    {
+      "id": "CgLkktqyu98",
+      "title": "Memory leaks in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 1135
+    },
+    {
+      "id": "BNEHeQtmPiM",
+      "title": "The RC Smart pointer - Full Crash Rust Tutorial for Beginners",
+      "duration": 2267
+    },
+    {
+      "id": "K6TeVyGm8cs",
+      "title": "The Drop Trait in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 1055
+    },
+    {
+      "id": "y6KEp53J3rY",
+      "title": "Rust Concurrency and Parallelism - Message Passing in Rust -  Full Crash Rust Tutorial for Beginners",
+      "duration": 346
+    },
+    {
+      "id": "aGkgwXQ-OwU",
+      "title": "Shared-state Concurrency in Rust - Full Crash Rust Tutorial for Beginners",
+      "duration": 280
+    },
+    {
+      "id": "62i_zC-6xFI",
+      "title": "🚨 RefCell Type and the Interior Mutability Pattern",
+      "duration": 2069
+    }
+  ]
+}

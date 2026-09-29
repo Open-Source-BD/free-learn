@@ -1,0 +1,190 @@
+{
+  "courseId": "flutter-tutorial-for-beginners-c0c365",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:48:06.903Z",
+  "title": "Flutter Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "1ukSR1GRtMU",
+      "title": "Flutter Tutorial for Beginners #1 - Intro & Setup",
+      "duration": 726
+    },
+    {
+      "id": "bKueYVtV0eA",
+      "title": "Flutter Tutorial for Beginners #2 - Flutter Overview",
+      "duration": 267
+    },
+    {
+      "id": "LtlsX_lCfK4",
+      "title": "New Flutter Masterclass Course!",
+      "duration": 184
+    },
+    {
+      "id": "FLQ-Vhw1NYQ",
+      "title": "Flutter Tutorial for Beginners #3 - Dart Primer",
+      "duration": 1633
+    },
+    {
+      "id": "TSIhiZ5jRB0",
+      "title": "Flutter Tutorial for Beginners #4 - Creating a Flutter App in Android Studio",
+      "duration": 827
+    },
+    {
+      "id": "C5lpPjoivaw",
+      "title": "Flutter Tutorial for Beginners #5 - Scaffold & AppBar Widgets",
+      "duration": 527
+    },
+    {
+      "id": "km2P_KQJyO0",
+      "title": "Flutter Tutorial for Beginners #6 - Colours & Fonts",
+      "duration": 643
+    },
+    {
+      "id": "zwPBMg3SHVU",
+      "title": "Flutter Tutorial for Beginners #7 - Stateless Widgets & Hot Reload",
+      "duration": 520
+    },
+    {
+      "id": "Hxh6nNHSUjo",
+      "title": "Flutter Tutorial for Beginners #8 - Images & Assets",
+      "duration": 413
+    },
+    {
+      "id": "ABmqtI7ec7E",
+      "title": "Flutter Tutorial for Beginners #9 - Buttons & Icons",
+      "duration": 471
+    },
+    {
+      "id": "H0cJ0gUlgE8",
+      "title": "Flutter Tutorial for Beginners #10 - Containers & Padding",
+      "duration": 473
+    },
+    {
+      "id": "a6oKFvGuTH4",
+      "title": "Flutter Tutorial for Beginners #11 - Rows",
+      "duration": 499
+    },
+    {
+      "id": "siFU8c_Heu0",
+      "title": "Flutter Tutorial for Beginners #12 - Columns",
+      "duration": 371
+    },
+    {
+      "id": "RdPkFd6_fTA",
+      "title": "Flutter Tutorial for Beginners #13 - Flutter Outline & Shortcuts",
+      "duration": 307
+    },
+    {
+      "id": "zNZvuP8h1vs",
+      "title": "Flutter Tutorial for Beginners #14 - Expanded Widgets",
+      "duration": 461
+    },
+    {
+      "id": "c063ddhWafo",
+      "title": "Flutter Tutorial for Beginners #15 - Ninja ID Project",
+      "duration": 1218
+    },
+    {
+      "id": "p5dkB3Mrxdo",
+      "title": "Flutter Tutorial for Beginners #16 - Stateful Widgets",
+      "duration": 651
+    },
+    {
+      "id": "_AC90CiDoKA",
+      "title": "Flutter Tutorial for Beginners #17 - Lists of Data",
+      "duration": 536
+    },
+    {
+      "id": "QgQJJ0y0A6w",
+      "title": "Flutter Tutorial for Beginners #18 - Custom Classes",
+      "duration": 586
+    },
+    {
+      "id": "XIxahpXU_QE",
+      "title": "Flutter Tutorial for Beginners #19 - Cards",
+      "duration": 480
+    },
+    {
+      "id": "jAxNZYX7mHM",
+      "title": "Flutter Tutorial for Beginners #20 - Extracting Widgets",
+      "duration": 506
+    },
+    {
+      "id": "aqePcMyeoIY",
+      "title": "Flutter Tutorial for Beginners #21 - Functions as Parameters",
+      "duration": 293
+    },
+    {
+      "id": "WghpP9W2vXo",
+      "title": "Flutter Tutorial for Beginners #22 - Starting the World Time App",
+      "duration": 559
+    },
+    {
+      "id": "WG5tJIAq5b0",
+      "title": "Flutter Tutorial for Beginners #23 - Maps & Routing",
+      "duration": 759
+    },
+    {
+      "id": "pDzQGolJayE",
+      "title": "Flutter Tutorial for Beginners #24 - Widget Lifecycle",
+      "duration": 496
+    },
+    {
+      "id": "nHsxIQ9KMn0",
+      "title": "Flutter Tutorial for Beginners #25 - Asynchronous Code",
+      "duration": 693
+    },
+    {
+      "id": "WdXcJdhWcEY",
+      "title": "Flutter Tutorial for Beginners #26 - Flutter Packages (http)",
+      "duration": 577
+    },
+    {
+      "id": "AqsmaT1U6sQ",
+      "title": "Flutter Tutorial for Beginners #27 - World Time API",
+      "duration": 598
+    },
+    {
+      "id": "9lCQhwo8WT4",
+      "title": "Flutter Tutorial for Beginners #28 - WorldTime Custom Class",
+      "duration": 1026
+    },
+    {
+      "id": "HemchBJQdgM",
+      "title": "Flutter Tutorial for Beginners #29 - Error Handling",
+      "duration": 329
+    },
+    {
+      "id": "KIAwGfnoteE",
+      "title": "Flutter Tutorial for Beginners #30 - Passing Route Data",
+      "duration": 368
+    },
+    {
+      "id": "c7Ap0iLwv6k",
+      "title": "Flutter Tutorial for Beginners #31 - Formatting & Showing Dates",
+      "duration": 421
+    },
+    {
+      "id": "nLlVANBmFJM",
+      "title": "Flutter Tutorial for Beginners #32 - Loaders / Spinners",
+      "duration": 321
+    },
+    {
+      "id": "NDulhXVcLuI",
+      "title": "Flutter Tutorial for Beginners #33 -Ternary Operators",
+      "duration": 894
+    },
+    {
+      "id": "TdWhYERuv7g",
+      "title": "Flutter Tutorial for Beginners #34 - List View Builder",
+      "duration": 590
+    },
+    {
+      "id": "j6c_vHdbUfg",
+      "title": "Flutter Tutorial for Beginners #35 - Updating the Time",
+      "duration": 781
+    }
+  ]
+}

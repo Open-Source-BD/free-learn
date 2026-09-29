@@ -1,0 +1,105 @@
+{
+  "courseId": "mvvm-spotify-clone-ec100e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:03.569Z",
+  "title": "MVVM Spotify Clone",
+  "channel": "Philipp Lackner",
+  "videos": [
+    {
+      "id": "yV1152xCBzA",
+      "title": "Project Structure - MVVM Spotify Clone - Part 1",
+      "duration": 548
+    },
+    {
+      "id": "TTGNaFwCuxg",
+      "title": "Firebase Setup - MVVM Spotify Clone - Part 2",
+      "duration": 1235
+    },
+    {
+      "id": "tH5CIpeULiE",
+      "title": "Dagger-Hilt Setup - MVVM Spotify Clone - Part 3",
+      "duration": 1181
+    },
+    {
+      "id": "4cOg0LBx2U4",
+      "title": "Music Service Setup - MVVM Spotify Clone - Part 4",
+      "duration": 789
+    },
+    {
+      "id": "-rqYHUUpuqE",
+      "title": "Implementing the Firebase Music Source - MVVM Spotify Clone - Part 5",
+      "duration": 799
+    },
+    {
+      "id": "_oOXD3Jp4NM",
+      "title": "Finishing the Firebase Music Source - MVVM Spotify Clone - Part 6",
+      "duration": 975
+    },
+    {
+      "id": "pt6IRUpDQGw",
+      "title": "Setting up the Music Notification - MVVM Spotify Clone - Part 7",
+      "duration": 1099
+    },
+    {
+      "id": "HkP7vBD9ZK8",
+      "title": "Preparing the Music Player - MVVM Spotify Clone - Part 8",
+      "duration": 1030
+    },
+    {
+      "id": "mSflSlCgYZQ",
+      "title": "Finishing off the Music Service - MVVM Spotify Clone - Part 9",
+      "duration": 967
+    },
+    {
+      "id": "ujSaJ1f7j8c",
+      "title": "Resource & Event Class - MVVM Spotify Clone - Part 10",
+      "duration": 658
+    },
+    {
+      "id": "-ClM1SO_Dp8",
+      "title": "Music Service Connection - MVVM Spotify Clone - Part 11",
+      "duration": 1365
+    },
+    {
+      "id": "o_TQjyPTI4k",
+      "title": "MainViewModel - MVVM Spotify Clone - Part 12",
+      "duration": 1326
+    },
+    {
+      "id": "Mi7DN11jZLA",
+      "title": "SongAdapter & HomeFragment - MVVM Spotify Clone - Part 13",
+      "duration": 1390
+    },
+    {
+      "id": "O9BSszEMXK4",
+      "title": "BaseSongAdapter - MVVM Spotify Clone - Part 14",
+      "duration": 821
+    },
+    {
+      "id": "oBMX2JZ33fY",
+      "title": "Swiping Through Songs - MVVM Spotify Clone - Part 15",
+      "duration": 995
+    },
+    {
+      "id": "18H3igsSoik",
+      "title": "Toggling the Play State - MVVM Spotify Clone - Part 16",
+      "duration": 719
+    },
+    {
+      "id": "0P46K-5HSPo",
+      "title": "SongViewModel - MVVM Spotify Clone - Part 17",
+      "duration": 756
+    },
+    {
+      "id": "P14aU7eEo0U",
+      "title": "Displaying Current Song in SongFragment - MVVM Spotify Clone - Part 18",
+      "duration": 940
+    },
+    {
+      "id": "x1xXfZKYsns",
+      "title": "Setting up the SeekBar - MVVM Spotify Clone - Part 19",
+      "duration": 998
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+{
+  "courseId": "python-gui-s-with-tkinter-d3b8c4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:59:53.137Z",
+  "title": "Python GUI's With TKinter",
+  "channel": "John Elder",
+  "videos": [
+    {
+      "id": "yQSEXcf6s2I",
+      "title": "Create Graphical User Interfaces With Python And TKinter",
+      "duration": 717
+    },
+    {
+      "id": "BSfbjrqIw20",
+      "title": "Positioning With Tkinter's Grid System - Python Tkinter GUI Tutorial #2",
+      "duration": 593
+    },
+    {
+      "id": "yuuDJ3-EdNQ",
+      "title": "Creating Buttons With TKinter - Python Tkinter GUI Tutorial #3",
+      "duration": 661
+    },
+    {
+      "id": "7A_csP9drJw",
+      "title": "Creating Input Fields With TKinter - Python Tkinter GUI Tutorial #4",
+      "duration": 626
+    },
+    {
+      "id": "F5PfbC5ld-Q",
+      "title": "Build A Simple Calculator App - Python Tkinter GUI Tutorial #5",
+      "duration": 1085
+    },
+    {
+      "id": "XhCfsuMyhXo",
+      "title": "Continue Building A Simple Calculator App - Python Tkinter GUI Tutorial #6",
+      "duration": 813
+    },
+    {
+      "id": "oq3lJdhnPp8",
+      "title": "Finish Building A Simple Calculator App - Python Tkinter GUI Tutorial #7",
+      "duration": 717
+    },
+    {
+      "id": "NoTM8JciWaQ",
+      "title": "Using Icons, Images, and Exit Buttons - Python Tkinter GUI Tutorial #8",
+      "duration": 629
+    },
+    {
+      "id": "zg4c92pNFeo",
+      "title": "Build an Image Viewer App With Python and TKinter - Python Tkinter GUI Tutorial #9",
+      "duration": 1378
+    },
+    {
+      "id": "MGu7zKi5azQ",
+      "title": "Adding A Status Bar - Python Tkinter GUI Tutorial #10",
+      "duration": 664
+    },
+    {
+      "id": "_auZ8TTkojQ",
+      "title": "Adding Frames To Your Program - Python Tkinter GUI Tutorial #11",
+      "duration": 540
+    },
+    {
+      "id": "uqJZWLlnSqs",
+      "title": "Radio Buttons with TKinter - Python Tkinter GUI Tutorial #12",
+      "duration": 1064
+    },
+    {
+      "id": "S3AaSwpb5GE",
+      "title": "Message Boxes with TKinter - Python Tkinter GUI Tutorial #13",
+      "duration": 709
+    },
+    {
+      "id": "qC3FYdpJI5Y",
+      "title": "Create New Windows in tKinter - Python Tkinter GUI Tutorial #14",
+      "duration": 592
+    },
+    {
+      "id": "Aim_7fC-inw",
+      "title": "Open Files Dialog Box - Python Tkinter GUI Tutorial #15",
+      "duration": 754
+    },
+    {
+      "id": "knUHd8ZGyiM",
+      "title": "Sliders With TKinter - Python Tkinter GUI Tutorial #16",
+      "duration": 791
+    },
+    {
+      "id": "4IsLwwb_yDs",
+      "title": "Checkboxes With TKinter - Python Tkinter GUI Tutorial #17",
+      "duration": 595
+    },
+    {
+      "id": "3E_fK5hCUnI",
+      "title": "Dropdown Menus With TKinter - Python Tkinter GUI Tutorial #18",
+      "duration": 434
+    },
+    {
+      "id": "YR3h2CY21-U",
+      "title": "Using Databases With TKinter - Python Tkinter GUI Tutorial #19",
+      "duration": 580
+    },
+    {
+      "id": "AK1J8xF4fuk",
+      "title": "Building Out The GUI for our Database App - Python Tkinter GUI Tutorial #20",
+      "duration": 1693
+    },
+    {
+      "id": "c9_gcIeAru0",
+      "title": "Delete A Record From Our Database - Python Tkinter GUI Tutorial #21",
+      "duration": 994
+    },
+    {
+      "id": "EAs3gr9mC9g",
+      "title": "Update A Record With SQLite - Python Tkinter GUI Tutorial #22",
+      "duration": 904
+    },
+    {
+      "id": "0Ms0-68IgTY",
+      "title": "Update A Record With SQLite Part 2 - Python Tkinter GUI Tutorial #23",
+      "duration": 960
+    },
+    {
+      "id": "vJCjDevYDt8",
+      "title": "Build a Weather App - Python Tkinter GUI Tutorial #24",
+      "duration": 1377
+    },
+    {
+      "id": "ARQH_3_Erao",
+      "title": "Change Colors In our Weather App - Python Tkinter GUI Tutorial #25",
+      "duration": 785
+    },
+    {
+      "id": "Lcb6PTjnTOo",
+      "title": "Add Zipcode Lookup Form - Python Tkinter GUI Tutorial #26",
+      "duration": 670
+    },
+    {
+      "id": "8exB6Ly3nx0",
+      "title": "Matplotlib Charts With Tkinter - Python Tkinter GUI Tutorial #27",
+      "duration": 723
+    },
+    {
+      "id": "_RLq1jfapcA",
+      "title": "Create a CRM Database Tool - Python Tkinter GUI Tutorial #28",
+      "duration": 904
+    },
+    {
+      "id": "A8rxsqvcKrY",
+      "title": "Create a Database and Table for our CRM - Python Tkinter GUI Tutorial #29",
+      "duration": 847
+    },
+    {
+      "id": "ZuEbBvUPGzE",
+      "title": "Add Input Boxes For Our CRM Tool - Python Tkinter GUI Tutorial #30",
+      "duration": 1512
+    },
+    {
+      "id": "Q2uRvncE_gM",
+      "title": "Lookup All Customers CRM - Python Tkinter GUI Tutorial #31",
+      "duration": 996
+    },
+    {
+      "id": "2MMwfNKN1_s",
+      "title": "Export CRM Database To Excel File  - Python Tkinter GUI Tutorial #32",
+      "duration": 808
+    },
+    {
+      "id": "N9bsC8fbfls",
+      "title": "Lookup Customer By Last Name in CRM - Python Tkinter GUI Tutorial #33",
+      "duration": 1024
+    },
+    {
+      "id": "fXotGRP6x4E",
+      "title": "Drop Down Box Database Search CRM - Python Tkinter GUI Tutorial #34",
+      "duration": 997
+    },
+    {
+      "id": "9GzuP7DbYd8",
+      "title": "Multiple CRM Search Results - Python Tkinter GUI Tutorial #35",
+      "duration": 775
+    },
+    {
+      "id": "KIErRzInMNA",
+      "title": "Update MySQL Record - Python Tkinter GUI Tutorial #36",
+      "duration": 973
+    },
+    {
+      "id": "ju-pQ6_-zxc",
+      "title": "Update MySQL Record Part 2 - Python Tkinter GUI Tutorial #37",
+      "duration": 1313
+    },
+    {
+      "id": "XuNKxXS3Sdc",
+      "title": "How To Resize Entry Box By Height - Python Tkinter GUI Tutorial #38",
+      "duration": 464
+    },
+    {
+      "id": "f7HE2S4opdY",
+      "title": "Random Winner Generator - Python Tkinter GUI Tutorial #39",
+      "duration": 1037
+    },
+    {
+      "id": "QWqxRchawZY",
+      "title": "Standalone Python EXE Executable - Python Tkinter GUI Tutorial #40",
+      "duration": 595
+    },
+    {
+      "id": "2_qUokpB1fw",
+      "title": "Remove Labels - Python Tkinter GUI Tutorial #41",
+      "duration": 598
+    },
+    {
+      "id": "Q-rRF6c8kJM",
+      "title": "Overwrite Grid Labels - Python Tkinter GUI Tutorial #42",
+      "duration": 556
+    },
+    {
+      "id": "Jl1xsH6MR1g",
+      "title": "Classes with tKinter - Python Tkinter GUI Tutorial #43",
+      "duration": 560
+    },
+    {
+      "id": "GLnNPjL1U2g",
+      "title": "Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44",
+      "duration": 675
+    },
+    {
+      "id": "OPUSBBD2OJw",
+      "title": "Binding Dropdown Menus and Combo Boxes - Python Tkinter GUI Tutorial #45",
+      "duration": 719
+    },
+    {
+      "id": "ZS2_v_zsPTg",
+      "title": "Menu Bars With tKinter - Python Tkinter GUI Tutorial #46",
+      "duration": 662
+    },
+    {
+      "id": "1cWWiXU02-g",
+      "title": "Using Frames With Menus - Python Tkinter GUI Tutorial #47",
+      "duration": 633
+    },
+    {
+      "id": "9Hyltpk2tSM",
+      "title": "Paned Windows - Python Tkinter GUI Tutorial #48",
+      "duration": 607
+    },
+    {
+      "id": "NDCirUTTrhg",
+      "title": "Color Picker - Python Tkinter GUI Tutorial #49",
+      "duration": 601
+    },
+    {
+      "id": "A6m7TmjuNzw",
+      "title": "Delete Frame Children Widgets - Python Tkinter GUI Tutorial #50",
+      "duration": 677
+    },
+    {
+      "id": "b_8sPENjHw4",
+      "title": "Unicode Characters & Special Characters - Python Tkinter GUI Tutorial #51",
+      "duration": 555
+    },
+    {
+      "id": "k4R4TN-2oX4",
+      "title": "Build a Geography Flashcard App - Python Tkinter GUI Tutorial #52",
+      "duration": 872
+    },
+    {
+      "id": "zbt3ov7eDaA",
+      "title": "Build a Geography Flashcard App Part 2 - Add Images - Python Tkinter GUI Tutorial #53",
+      "duration": 998
+    },
+    {
+      "id": "ufinq1bDlZs",
+      "title": "Build a Geography Flashcard App Part 3 -- Input Answer - Python Tkinter GUI Tutorial #54",
+      "duration": 742
+    },
+    {
+      "id": "WCm_YKef1ic",
+      "title": "Build a Geography Flashcard App Part 4 -- Randomize Images - Python Tkinter GUI Tutorial #55",
+      "duration": 772
+    },
+    {
+      "id": "e7wR8loXI1k",
+      "title": "State Capital Flash Cards - Part 5 - Python Tkinter GUI Tutorial #56",
+      "duration": 1499
+    },
+    {
+      "id": "CoJO1kZ_TyQ",
+      "title": "State Capital Radio Buttons - Part 6 - Python Tkinter GUI Tutorial #57",
+      "duration": 925
+    },
+    {
+      "id": "aHEtKAMK1Xg",
+      "title": "State Capital Answers - Part 7 - Python Tkinter GUI Tutorial #58",
+      "duration": 811
+    },
+    {
+      "id": "PURw3zgI_O0",
+      "title": "Addition Flashcard App - Python Tkinter GUI Tutorial #59",
+      "duration": 1261
+    },
+    {
+      "id": "oeg3VdOABT4",
+      "title": "Answer Logic For Addition Flashcards - Python Tkinter GUI Tutorial #60",
+      "duration": 746
+    },
+    {
+      "id": "wEv3BworNK8",
+      "title": "List Boxes - Python Tkinter GUI Tutorial #61",
+      "duration": 752
+    },
+    {
+      "id": "8ijKnxkaoHE",
+      "title": "Add Scrollbars to List Boxes - Python Tkinter GUI Tutorial #62",
+      "duration": 1219
+    },
+    {
+      "id": "tqKyMDqp-3E",
+      "title": "Using .config() to Update Widgets - Python Tkinter GUI Tutorial #63",
+      "duration": 480
+    },
+    {
+      "id": "kqbkUKIc1Gk",
+      "title": "Create tabs in your GUI interface using Notebook - Python Tkinter GUI Tutorial #64",
+      "duration": 634
+    },
+    {
+      "id": "H3Cjtm6NuaQ",
+      "title": "Creating Multiple Entry Boxes Automatically - Python Tkinter GUI Tutorial #65",
+      "duration": 955
+    },
+    {
+      "id": "bVnKX0315lo",
+      "title": "Image Buttons And Rounded Buttons - Python Tkinter GUI Tutorial #66",
+      "duration": 530
+    },
+    {
+      "id": "IbpInH4q4Sg",
+      "title": "How to Validate an Entry Widget as an Integer - Python Tkinter GUI Tutorial #67",
+      "duration": 558
+    },
+    {
+      "id": "HrK9Kmz3_9A",
+      "title": "How to Draw Lines and Shapes With Canvas - Python Tkinter GUI Tutorial #68",
+      "duration": 866
+    },
+    {
+      "id": "xifcE6xvnyg",
+      "title": "Move Canvas Shapes With Arrow Keys - Python Tkinter GUI Tutorial #69",
+      "duration": 762
+    },
+    {
+      "id": "2rF8-jbTL-8",
+      "title": "How To Move Images On Canvas - Python Tkinter GUI Tutorial #70",
+      "duration": 536
+    },
+    {
+      "id": "Z4zePg2M5H8",
+      "title": "Drag and Drop Images With The Mouse - Python Tkinter GUI Tutorial #71",
+      "duration": 745
+    },
+    {
+      "id": "fqfy-3IoVvs",
+      "title": "Create A Date Picker Calendar - Python Tkinter GUI Tutorial #72",
+      "duration": 449
+    },
+    {
+      "id": "5_VNqv-uH6o",
+      "title": "Don't .pack On The Same Line!  - Python Tkinter GUI Tutorial #73",
+      "duration": 522
+    },
+    {
+      "id": "xu1ZKkgr-hE",
+      "title": "How To Open External Programs With Tkinter - Python Tkinter GUI Tutorial #74",
+      "duration": 656
+    },
+    {
+      "id": "-NSQR3VRiq4",
+      "title": "Tkinter Mouse On Hover Image Animation - Python Tkinter GUI Tutorial #75",
+      "duration": 553
+    },
+    {
+      "id": "cP93Uw0wVyE",
+      "title": "Text To Speech With Tkinter - Python Tkinter GUI Tutorial #76",
+      "duration": 483
+    },
+    {
+      "id": "w0mtuHsE7IM",
+      "title": "How To Resize Images With Tkinter - Python Tkinter GUI Tutorial #77",
+      "duration": 518
+    },
+    {
+      "id": "Grbx15jRjQA",
+      "title": "Progress Bars With Tkinter - Python Tkinter GUI Tutorial #78",
+      "duration": 780
+    },
+    {
+      "id": "ruohUTTo8Kw",
+      "title": "Timers and Clocks with TKinter - Python Tkinter GUI Tutorial #79",
+      "duration": 750
+    },
+    {
+      "id": "NytF3pJSMc8",
+      "title": "How To Resize A Window Dynamically - Python Tkinter GUI Tutorial #80",
+      "duration": 459
+    },
+    {
+      "id": "0aZxW_iim80",
+      "title": "Build a Paint App With TKinter - Python Tkinter GUI Tutorial #81",
+      "duration": 468
+    },
+    {
+      "id": "_bZFyvMgS6M",
+      "title": "Get Height and Width Of Tkinter App - Python Tkinter GUI Tutorial #82",
+      "duration": 565
+    },
+    {
+      "id": "X5k_Uag6DVA",
+      "title": "Word Jumble Game - Python Tkinter GUI Tutorial #83",
+      "duration": 911
+    },
+    {
+      "id": "dT-N_2egPb4",
+      "title": "Show Hint on Word Jumble Game - Python Tkinter GUI Tutorial #84",
+      "duration": 937
+    },
+    {
+      "id": "o_YumT2iWBc",
+      "title": "Button Mouse On-Hover Popup Message - Python Tkinter GUI Tutorial #85",
+      "duration": 499
+    },
+    {
+      "id": "djDcVWbEYoE",
+      "title": "Sounds and Music in Tkinter - Python Tkinter GUI Tutorial #86",
+      "duration": 503
+    },
+    {
+      "id": "88IJCBKlAPA",
+      "title": "Build An MP3 Player With Tkinter pt1 - Python Tkinter GUI Tutorial #87",
+      "duration": 1495
+    },
+    {
+      "id": "xknYbrbdKnA",
+      "title": "MP3 Player Pause Button pt2 - Python Tkinter GUI Tutorial #88",
+      "duration": 702
+    },
+    {
+      "id": "dCXKxgj70R0",
+      "title": "MP3 Player Forward and Back Buttons pt3 - Python Tkinter GUI Tutorial #89",
+      "duration": 1216
+    },
+    {
+      "id": "1zPyYf_XBD4",
+      "title": "MP3 Player Song Duration and Length (pt4) - Python Tkinter GUI Tutorial #90",
+      "duration": 1265
+    },
+    {
+      "id": "s_YUe0z09XU",
+      "title": "MP3 Player Song Slider (pt5) - Python Tkinter GUI Tutorial #91",
+      "duration": 1084
+    },
+    {
+      "id": "CXMcNbo8PLE",
+      "title": "MP3 Player Song Position Slider (part 6) - Python Tkinter GUI Tutorial #92",
+      "duration": 1289
+    },
+    {
+      "id": "gC8dRDqWw6I",
+      "title": "Finishing Our Song Position Slider (MP3 Player | Part 7) - Python Tkinter GUI Tutorial #93",
+      "duration": 915
+    },
+    {
+      "id": "3MLCsVRRKD4",
+      "title": "Volume Control (MP3 Player | Part 8) - Python Tkinter GUI Tutorial #94",
+      "duration": 1036
+    },
+    {
+      "id": "2StvyiYl29A",
+      "title": "Volume Meter Image (MP3 Player | Part 9) - Python Tkinter GUI Tutorial #95",
+      "duration": 883
+    },
+    {
+      "id": "0WafQCaok6g",
+      "title": "Adding a Full Screen ScrollBar - Python Tkinter GUI Tutorial #96",
+      "duration": 908
+    },
+    {
+      "id": "jnrCpA1xJPQ",
+      "title": "Threading With Tkinter - Python Tkinter GUI Tutorial #97",
+      "duration": 550
+    },
+    {
+      "id": "FfYDWBdX-_s",
+      "title": "Spinboxes With TKinter - Python Tkinter GUI Tutorial #98",
+      "duration": 506
+    },
+    {
+      "id": "Qrmab6lSzU4",
+      "title": "Text Box Widgets in Tkinter - Python Tkinter GUI Tutorial #99",
+      "duration": 674
+    },
+    {
+      "id": "Z_0ISFfT_eM",
+      "title": "Read And Write To Text Files - Python Tkinter GUI Tutorial #100",
+      "duration": 873
+    },
+    {
+      "id": "bdKxTH7Y-38",
+      "title": "Add Images to Text Box Widgets - Python Tkinter GUI Tutorial #101",
+      "duration": 701
+    },
+    {
+      "id": "X6zqePBPDVU",
+      "title": "Text Widget Bold and Italics Text - Python Tkinter GUI Tutorial #102",
+      "duration": 968
+    },
+    {
+      "id": "yd2a_olJ4WM",
+      "title": "Undo and Redo Text Button - Python Tkinter GUI Tutorial #103",
+      "duration": 459
+    },
+    {
+      "id": "UlQRXJWUNBA",
+      "title": "Build A Text Editor - Python Tkinter GUI Tutorial #104",
+      "duration": 795
+    },
+    {
+      "id": "w5Nd4O76tDw",
+      "title": "Build A Text Editor Part 2 - Open and Save As Files - Python Tkinter GUI Tutorial #105",
+      "duration": 1077
+    },
+    {
+      "id": "yG0fAUn2uB0",
+      "title": "Build A Text Editor Part 3 - Save Files - Python Tkinter GUI Tutorial #106",
+      "duration": 769
+    },
+    {
+      "id": "rUgAC_Ssflw",
+      "title": "Build A Text Editor Part 4 - Cut Copy Paste - Python Tkinter GUI Tutorial #107",
+      "duration": 1206
+    },
+    {
+      "id": "XW65JTd8UgI",
+      "title": "Build A Text Editor Part 5 - Undo Redo and Horizontal Scrollbar - Python Tkinter GUI Tutorial #108",
+      "duration": 659
+    },
+    {
+      "id": "721wxwOOdw8",
+      "title": "Build A Text Editor Part 6 - Creating Bold and Italic Text - Python Tkinter GUI Tutorial #109",
+      "duration": 868
+    },
+    {
+      "id": "CtENi3AhuY4",
+      "title": "Build A Text Editor Part 7 - Change Text Colors - Python Tkinter GUI Tutorial #110",
+      "duration": 783
+    },
+    {
+      "id": "gkWtBrVq3W8",
+      "title": "Print A File - Build A Text Editor Part 8 - Python Tkinter GUI Tutorial #111",
+      "duration": 643
+    },
+    {
+      "id": "lrRKbbF6YyQ",
+      "title": "Select All and Clear - Build A Text Editor Part 9 - Python Tkinter GUI Tutorial #112",
+      "duration": 471
+    },
+    {
+      "id": "xx0qmpuA-vM",
+      "title": "Tic Tac Toe Game - Python Tkinter GUI Tutorial #113",
+      "duration": 1676
+    },
+    {
+      "id": "l6-HG0FJPsQ",
+      "title": "Using Excel Spreadsheets With Tkinter and Openpyxl - Python Tkinter GUI Tutorial #114",
+      "duration": 887
+    },
+    {
+      "id": "35V5r6S2_FA",
+      "title": "Night Mode - Build A Text Editor Part 10 - Python Tkinter GUI Tutorial #115",
+      "duration": 676
+    },
+    {
+      "id": "YTqDYmfccQU",
+      "title": "Treeview - Python Tkinter GUI Tutorial #116",
+      "duration": 1221
+    },
+    {
+      "id": "rtR5wHXPKZ4",
+      "title": "Add And Remove Records From Treeview - Python Tkinter GUI Tutorial #117",
+      "duration": 907
+    },
+    {
+      "id": "ewxT3ZEGKAA",
+      "title": "Color and Style Our Treeview - Python Tkinter GUI Tutorial #118",
+      "duration": 712
+    },
+    {
+      "id": "GJSvcwjqZEs",
+      "title": "Striped Treeview Rows - Python Tkinter GUI Tutorial #119",
+      "duration": 626
+    },
+    {
+      "id": "-rVA37OVDs8",
+      "title": "Treeview Scrollbar - Python Tkinter GUI Tutorial #120",
+      "duration": 491
+    },
+    {
+      "id": "lKiNlSs_cms",
+      "title": "Treeview Update Records - Python Tkinter GUI Tutorial #121",
+      "duration": 762
+    },
+    {
+      "id": "tvXFpMGlHPk",
+      "title": "Binding and Moving Rows In Treeview - Python Tkinter GUI Tutorial #122",
+      "duration": 649
+    },
+    {
+      "id": "tpwu5Zb64lQ",
+      "title": "Custom Message Box Popups - Python Tkinter GUI Tutorial #123",
+      "duration": 883
+    },
+    {
+      "id": "Kcduy4fPZWg",
+      "title": "How To Add Excel Spreadsheet Columns To Listbox - Python Tkinter GUI Tutorial #124",
+      "duration": 748
+    },
+    {
+      "id": "Bn1n1diGv_0",
+      "title": "Open Excel Spreadsheet In Treeview With Pandas and Numpy - Python Tkinter GUI Tutorial #125",
+      "duration": 1307
+    },
+    {
+      "id": "TdTks2eSx3c",
+      "title": "How To Center a Tkinter Window On The Screen - Python Tkinter GUI Tutorial #126",
+      "duration": 836
+    },
+    {
+      "id": "s1WDk9-jJ6A",
+      "title": "How To Disable Or Delete A Menu Item - Python Tkinter GUI Tutorial #127",
+      "duration": 649
+    },
+    {
+      "id": "TjRH1h0ClyI",
+      "title": "Dates and 2020 Countdown App - Python Tkinter GUI Tutorial #128",
+      "duration": 792
+    },
+    {
+      "id": "KCWWL54He_g",
+      "title": "Using Other Python Programs In Your Tkinter App - Python Tkinter GUI Tutorial #129",
+      "duration": 493
+    },
+    {
+      "id": "GjVZUIayxQg",
+      "title": "How To Reset A Spinbox With Tkinter - Python Tkinter GUI Tutorial #130",
+      "duration": 523
+    },
+    {
+      "id": "hkSDx-K-cHM",
+      "title": "Balloon Text Tool Tips With Tkinter - Python Tkinter GUI Tutorial #131",
+      "duration": 642
+    },
+    {
+      "id": "JB7ZwypM9hk",
+      "title": "Secret Label Copying Hack - Python Tkinter GUI Tutorial #132",
+      "duration": 657
+    },
+    {
+      "id": "05wbBHY3YMc",
+      "title": "How To Position Label Text The Right Way - Python Tkinter GUI Tutorial #133",
+      "duration": 373
+    },
+    {
+      "id": "68TIx0RJMow",
+      "title": "How To Unlock The Hidden Keys Of A Widget - Python Tkinter GUI Tutorial #134",
+      "duration": 653
+    },
+    {
+      "id": "qDVxLMuNs7E",
+      "title": "Transparent Windows With TKinter - Python Tkinter GUI Tutorial #135",
+      "duration": 773
+    },
+    {
+      "id": "75jbNpc8vN4",
+      "title": "New Transparent Widget Hack With Tkinter - Python Tkinter GUI Tutorial #136",
+      "duration": 642
+    },
+    {
+      "id": "KRuUtNxOb_k",
+      "title": "Right Click Menu Popups With Tkinter - Python Tkinter GUI Tutorial #137",
+      "duration": 533
+    },
+    {
+      "id": "A5Tbh_8nscA",
+      "title": "How To Set Tab Order And Focus - Python Tkinter GUI Tutorial #138",
+      "duration": 564
+    },
+    {
+      "id": "LTVvHObxc4E",
+      "title": "How To Create A Splash Screen - Python Tkinter GUI Tutorial #139",
+      "duration": 687
+    },
+    {
+      "id": "gX8Sm4PEOWE",
+      "title": "One Sided Widget Padding - Python Tkinter GUI Tutorial #140",
+      "duration": 411
+    },
+    {
+      "id": "tlMPVGSEEDw",
+      "title": "Tile Matching Game - Python Tkinter GUI Tutorial #141",
+      "duration": 1757
+    },
+    {
+      "id": "tW8Bzokv8CQ",
+      "title": "Finishing Our Tile Matching Game - Python Tkinter GUI Tutorial #142",
+      "duration": 886
+    },
+    {
+      "id": "JKnFT-OEflA",
+      "title": "How To Read A PDF File With Tkinter - Python Tkinter GUI Tutorial #143",
+      "duration": 928
+    },
+    {
+      "id": "ZDiPqfFF7pw",
+      "title": "Rock Paper Scissors Game - Python Tkinter GUI Tutorial #144",
+      "duration": 1344
+    },
+    {
+      "id": "rZxOe1kVF8Q",
+      "title": "Dynamically Resize Buttons When Resizing a Window - Python Tkinter GUI Tutorial #145",
+      "duration": 675
+    },
+    {
+      "id": "m4Oo1crYZTM",
+      "title": "How To Dynamically Resize Button Text - Python Tkinter GUI Tutorial #146",
+      "duration": 848
+    },
+    {
+      "id": "WurCpmHtQc4",
+      "title": "How To Use Images as Backgrounds - Python Tkinter GUI Tutorial #147",
+      "duration": 1195
+    },
+    {
+      "id": "xiGQD2J47nA",
+      "title": "Dynamically Resize Background Images - Python Tkinter GUI Tutorial #148",
+      "duration": 745
+    },
+    {
+      "id": "32v2rdQnXvQ",
+      "title": "Using Entry Boxes On Canvas - Python Tkinter GUI Tutorial #149",
+      "duration": 996
+    },
+    {
+      "id": "jBhDWcQRyu4",
+      "title": "How To Ring The System Bell - Python Tkinter GUI Tutorial #150",
+      "duration": 376
+    },
+    {
+      "id": "JIqE3RMCMFE",
+      "title": "How To Define Custom Fonts - Python Tkinter GUI Tutorial #151",
+      "duration": 487
+    },
+    {
+      "id": "bH9r3wM9Idw",
+      "title": "Dependent Drop Downs and List Boxes - Python Tkinter GUI Tutorial #152",
+      "duration": 1072
+    },
+    {
+      "id": "l2Qs0GvI6Ho",
+      "title": "How To Save To a Dat File Instead of Databases - Python Tkinter GUI Tutorial #153",
+      "duration": 1075
+    },
+    {
+      "id": "xB68I2fMAuU",
+      "title": "Todo List App Part 1 - Python Tkinter GUI Tutorial #154",
+      "duration": 989
+    },
+    {
+      "id": "kI__2rHTdGo",
+      "title": "How To Cross and Uncross Items From A ToDo List - Python Tkinter GUI Tutorial #155",
+      "duration": 754
+    },
+    {
+      "id": "Vm0ivVxNaA8",
+      "title": "Save and Open ToDo Lists - Python Tkinter GUI Tutorial #156",
+      "duration": 1052
+    },
+    {
+      "id": "6Bky5KsM2mg",
+      "title": "Color Changing Number Guessing Game - Python Tkinter GUI Tutorial #157",
+      "duration": 1192
+    },
+    {
+      "id": "tRC5Yi50WM8",
+      "title": "Window Resizer Control Panel - Python Tkinter GUI Tutorial #158",
+      "duration": 952
+    },
+    {
+      "id": "5oCBzMXIcPo",
+      "title": "Button Bitmaps - Python Tkinter GUI Tutorial #159",
+      "duration": 527
+    },
+    {
+      "id": "qRQZAsKI0kA",
+      "title": "How To Change The Mouse Cursor - Python Tkinter GUI Tutorial #160",
+      "duration": 663
+    },
+    {
+      "id": "n1ucrkly2nc",
+      "title": "On/Off Button Switch - Python Tkinter GUI Tutorial #161",
+      "duration": 622
+    },
+    {
+      "id": "0CXQ3bbBLVk",
+      "title": "Basic Search and Autofill - Python Tkinter GUI Tutorial #162",
+      "duration": 913
+    },
+    {
+      "id": "LQsZyGNM9ag",
+      "title": "How To Build A Bitcoin Price Grabber Using Beautiful Soup - Python Tkinter GUI Tutorial #163",
+      "duration": 1991
+    },
+    {
+      "id": "kvd6i1mXec8",
+      "title": "How To Animate Widgets - Python Tkinter GUI Tutorial #164",
+      "duration": 1111
+    },
+    {
+      "id": "frNj1E-MA14",
+      "title": "How To Use The Message Widget For Blocks of Text - Python Tkinter GUI Tutorial #165",
+      "duration": 689
+    },
+    {
+      "id": "d6UitRCstiQ",
+      "title": "How To Use HTML In Your Tkinter App - Python Tkinter GUI Tutorial #166",
+      "duration": 852
+    },
+    {
+      "id": "8lkyOGUhK8Q",
+      "title": "How To Resize Your App With The Sizegrip Widget - Python Tkinter GUI Tutorial #167",
+      "duration": 807
+    },
+    {
+      "id": "Pd3XoLSQ5wg",
+      "title": "Build A Foreign Language Flashcard App - Python Tkinter GUI Tutorial #168",
+      "duration": 1471
+    },
+    {
+      "id": "iBiAmmqIcyk",
+      "title": "Build A Wikipedia Search App - Python Tkinter GUI Tutorial #169",
+      "duration": 1069
+    },
+    {
+      "id": "XaVp2l6Z_Dc",
+      "title": "Build A Strong Password Generator App - Python Tkinter GUI Tutorial #170",
+      "duration": 1009
+    },
+    {
+      "id": "1VVlRgDZ0bg",
+      "title": "Build A Currency Converter App - Python Tkinter GUI Tutorial #171",
+      "duration": 1920
+    },
+    {
+      "id": "G9seoA3Mv4Y",
+      "title": "Build a CRM Tool With Treeview And Database - Python Tkinter GUI Tutorial #172",
+      "duration": 1537
+    },
+    {
+      "id": "I9gQurGuqSI",
+      "title": "Add Functionality To Treeview CRM App - Python Tkinter GUI Tutorial #173",
+      "duration": 1291
+    },
+    {
+      "id": "pSXlKihUTlU",
+      "title": "Connect Treeview To Database - Python Tkinter GUI Tutorial #174",
+      "duration": 1056
+    },
+    {
+      "id": "8y3JHCnVPMw",
+      "title": "Treeview Primary Key With SQLite3 - Python Tkinter GUI Tutorial #175",
+      "duration": 719
+    },
+    {
+      "id": "q7KXEMkMBLk",
+      "title": "Update Database Record With Treeview - Python Tkinter GUI Tutorial #176",
+      "duration": 614
+    },
+    {
+      "id": "zDDkNDg_y3I",
+      "title": "Add New Database Record With Treeview - Python Tkinter GUI Tutorial #177",
+      "duration": 543
+    },
+    {
+      "id": "n0usdtoU5cE",
+      "title": "Delete Database Record With Treeview - Python Tkinter GUI Tutorial #178",
+      "duration": 536
+    },
+    {
+      "id": "tkBpehUruZ4",
+      "title": "Delete All Database Record And Drop Table - Python Tkinter GUI Tutorial #179",
+      "duration": 721
+    },
+    {
+      "id": "LfzX6rBAGDs",
+      "title": "Delete Many Selected Database Records - Python Tkinter GUI Tutorial 180",
+      "duration": 963
+    },
+    {
+      "id": "4j__fwak70g",
+      "title": "Add A Color Chooser To Treeview - Python Tkinter GUI Tutorial 181",
+      "duration": 810
+    },
+    {
+      "id": "odt87CeLlro",
+      "title": "Search Database Treeview By Last Name - Python Tkinter GUI Tutorial 182",
+      "duration": 893
+    },
+    {
+      "id": "P1nXClsPHwc",
+      "title": "Save Color Options To A Configuration File - Python Tkinter GUI Tutorial 183",
+      "duration": 986
+    },
+    {
+      "id": "YifqMJUymBo",
+      "title": "How To Find Instant Help From The Terminal - Python Tkinter GUI Tutorial 184",
+      "duration": 718
+    },
+    {
+      "id": "H_zZiIlnB8M",
+      "title": "Limit The Number Of New Windows To Open - Python Tkinter GUI Tutorial 185",
+      "duration": 490
+    },
+    {
+      "id": "UV6rHVw-GwA",
+      "title": "Timed Background Images - Python Tkinter GUI Tutorial 186",
+      "duration": 655
+    },
+    {
+      "id": "fRrR3shjFVY",
+      "title": "Using Postgres Cloud Database With Tkinter - Python Tkinter GUI Tutorial 187",
+      "duration": 1218
+    },
+    {
+      "id": "s0cpxPSN4k4",
+      "title": "Custom Titlebar Hack! - Python Tkinter GUI Tutorial 188",
+      "duration": 825
+    },
+    {
+      "id": "Iwaek1UDV8s",
+      "title": "Software Registration Key Generator - Python Tkinter GUI Tutorial 189",
+      "duration": 984
+    },
+    {
+      "id": "XWj-5CBmbGg",
+      "title": "Validate Software Registration Key - Python Tkinter GUI Tutorial 190",
+      "duration": 1010
+    },
+    {
+      "id": "SYrjAUFqPZU",
+      "title": "Center Widgets With Place() - Python Tkinter GUI Tutorial 191",
+      "duration": 441
+    },
+    {
+      "id": "QG0_RSNkMCo",
+      "title": "Create Font Chooser App - Python Tkinter GUI Tutorial 192",
+      "duration": 704
+    },
+    {
+      "id": "wItYLrPnsYA",
+      "title": "Change Font Size and Font Style - Python Tkinter GUI Tutorial 193",
+      "duration": 1033
+    },
+    {
+      "id": "nDV7a9_SATg",
+      "title": "Unicode Dice Roller App - Python Tkinter GUI Tutorial 194",
+      "duration": 876
+    },
+    {
+      "id": "fPjMgtlsvnc",
+      "title": "Open Web Browser From Tkinter (Halloween Edition!) - Python Tkinter GUI Tutorial 195",
+      "duration": 454
+    },
+    {
+      "id": "s9OswEmRmgU",
+      "title": "Connect One Scrollbar To Multiple TextBoxes - Python Tkinter GUI Tutorial 196",
+      "duration": 467
+    },
+    {
+      "id": "oBi16YJjf8w",
+      "title": "Create An Url Link Shortener - Python Tkinter GUI Tutorial 197",
+      "duration": 608
+    },
+    {
+      "id": "URozV-5yL-g",
+      "title": "Create A Mortgage Calculator - Python Tkinter GUI Tutorial 198",
+      "duration": 772
+    },
+    {
+      "id": "h4GsyYvoLPM",
+      "title": "Take Screenshots From Your Tkinter App - Python Tkinter GUI Tutorial 199",
+      "duration": 477
+    },
+    {
+      "id": "64f5fKBM3-o",
+      "title": "Build a Language Translator App - Python Tkinter GUI Tutorial 200",
+      "duration": 1286
+    },
+    {
+      "id": "9CfSugrD-No",
+      "title": "Add Text To Speech To Our Translator App - Python Tkinter GUI Tutorial 201",
+      "duration": 449
+    },
+    {
+      "id": "WK8vEvw2HIM",
+      "title": "How To Get System Info From Tkinter - Python Tkinter GUI Tutorial 202",
+      "duration": 479
+    },
+    {
+      "id": "bmzDUQRPEdE",
+      "title": "Add Text To Images With Pillow - Python Tkinter GUI Tutorial 203",
+      "duration": 778
+    },
+    {
+      "id": "5IHpLjKLDFI",
+      "title": "Build An Age Calculator - Python Tkinter GUI Tutorial 204",
+      "duration": 448
+    },
+    {
+      "id": "DAGNhLOTGzc",
+      "title": "Bind Text From Textbox - Python Tkinter GUI Tutorial 205",
+      "duration": 377
+    },
+    {
+      "id": "xJZksz2UpqE",
+      "title": "Create A Deck Of Cards And Deal Them Out - Python Tkinter GUI Tutorial 206",
+      "duration": 1487
+    },
+    {
+      "id": "2BDx3poRPBY",
+      "title": "Create War Card Game - Python Tkinter GUI Tutorial 207",
+      "duration": 960
+    },
+    {
+      "id": "gBS2pYAGUgA",
+      "title": "Build A Blackjack Card Game - Python Tkinter GUI Tutorial 208",
+      "duration": 1236
+    },
+    {
+      "id": "_ECjcYJah60",
+      "title": "Check For Blackjack When Game Starts - Python Tkinter GUI Tutorial 209",
+      "duration": 855
+    },
+    {
+      "id": "1hPb7nLpW6E",
+      "title": "Blackjack Check For Tie/Push - Python Tkinter GUI Tutorial 210",
+      "duration": 490
+    },
+    {
+      "id": "g9Ty4R7oOHI",
+      "title": "Blackjack Hit Me! - Python Tkinter GUI Tutorial 211",
+      "duration": 549
+    },
+    {
+      "id": "IZusv0XiKwA",
+      "title": "Blackjack Convert Ace To One - Python Tkinter GUI Tutorial 212",
+      "duration": 493
+    },
+    {
+      "id": "gG8goJCP06A",
+      "title": "Blackjack Player Stand and Dealer Hit - Python Tkinter GUI Tutorial 213",
+      "duration": 706
+    },
+    {
+      "id": "dJ9z4eYGR7M",
+      "title": "Blackjack Draw Five Cards and Win - Python Tkinter GUI Tutorial 214",
+      "duration": 568
+    },
+    {
+      "id": "PXec_LxI8Sk",
+      "title": "Build A Word Dictionary - Python Tkinter GUI Tutorial 215",
+      "duration": 728
+    },
+    {
+      "id": "0NfDGNcuyAQ",
+      "title": "Build A Base64 Encrypt and Decrypt Tool - Python Tkinter GUI Tutorial 216",
+      "duration": 889
+    },
+    {
+      "id": "QvO4LTNDIyA",
+      "title": "How To Add Maps To Your Tkinter App - Python Tkinter GUI Tutorial 217",
+      "duration": 510
+    },
+    {
+      "id": "yU2C65KvX-E",
+      "title": "Add Slider and Lookup Form To Map App - Python Tkinter GUI Tutorial 218",
+      "duration": 535
+    },
+    {
+      "id": "JDU-ycsxvqM",
+      "title": "Modern GUI Design With Tkinter - Python Tkinter GUI Tutorial 219",
+      "duration": 532
+    },
+    {
+      "id": "Ew9dsDDy7pk",
+      "title": "Modernize Our Dictionary App With CustomTkinter - Python Tkinter GUI Tutorial 220",
+      "duration": 690
+    },
+    {
+      "id": "6VbzpWL49Q4",
+      "title": "Modern Buttons With Images - Python Tkinter GUI Tutorial 221",
+      "duration": 562
+    },
+    {
+      "id": "Dhky5WuulRE",
+      "title": "Build a Quick Language Detection App - Python Tkinter GUI Tutorial 222",
+      "duration": 580
+    },
+    {
+      "id": "oJmxP6Ks2Z8",
+      "title": "Want My New Tkinter Book For Free?!",
+      "duration": 310
+    },
+    {
+      "id": "v0uBiBO_z1c",
+      "title": "Get My New Tkinter Book For Free Today!",
+      "duration": 279
+    },
+    {
+      "id": "PxpsBSjjqAU",
+      "title": "Announcing the Tkinter.com Affiliate Program!",
+      "duration": 227
+    },
+    {
+      "id": "-lL0Y9g_cg0",
+      "title": "Build 3 Tkinter Apps Using Pieces and A.I. In Seconds!",
+      "duration": 1686
+    },
+    {
+      "id": "7WSKKN-Lhyg",
+      "title": "Build Space Invaders With Tkinter! - Tkinter.com",
+      "duration": 1397
+    },
+    {
+      "id": "dNDLU_JOTSk",
+      "title": "Space Invaders Part 2! - Tkinter.com",
+      "duration": 2083
+    },
+    {
+      "id": "JRDnnvBAaGU",
+      "title": "Create the Classic PONG Game in Tkinter - Tkinter.com",
+      "duration": 2555
+    }
+  ]
+}

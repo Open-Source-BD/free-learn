@@ -1,0 +1,130 @@
+{
+  "courseId": "github-with-visual-studio-hindi-ed4b39",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:22:49.505Z",
+  "title": "Git and GitHub",
+  "channel": "Geeky Shows",
+  "videos": [
+    {
+      "id": "HGJ4eb5A4Yo",
+      "title": "What is Git and Github",
+      "duration": 353
+    },
+    {
+      "id": "Cf5VFSJKb4U",
+      "title": "How to download and install Git in windows 11 (Hindi)",
+      "duration": 209
+    },
+    {
+      "id": "EZbpnS0zK5g",
+      "title": "What is Repository",
+      "duration": 286
+    },
+    {
+      "id": "8gh31--sDkw",
+      "title": "Difference between Local Repository and Remote Repository",
+      "duration": 492
+    },
+    {
+      "id": "KJv5Rq3lfZ4",
+      "title": "git Directory",
+      "duration": 584
+    },
+    {
+      "id": "b-Q7CVtFpqI",
+      "title": "Untracked and Tracked Files in Git",
+      "duration": 355
+    },
+    {
+      "id": "rjiVRxYNsH4",
+      "title": "Unstaged and Staged Area in Git",
+      "duration": 787
+    },
+    {
+      "id": "S9pmWGjsawg",
+      "title": "Snapshot and Commit in Git",
+      "duration": 624
+    },
+    {
+      "id": "z9R_ifzkGAQ",
+      "title": "What is HEAD in Git",
+      "duration": 106
+    },
+    {
+      "id": "BPO2WXOyzXI",
+      "title": "Branch and Branching Strategy in Git",
+      "duration": 1201
+    },
+    {
+      "id": "Qp7VvU4ITOU",
+      "title": "What is Tag in Git",
+      "duration": 330
+    },
+    {
+      "id": "7gSc8LhfcE0",
+      "title": "What is Rollback in Git",
+      "duration": 119
+    },
+    {
+      "id": "Zm7gE4QSSvk",
+      "title": "What is Upstream in Git",
+      "duration": 182
+    },
+    {
+      "id": "nFMK_icPXZw",
+      "title": "What is Conflict Merge in Git",
+      "duration": 145
+    },
+    {
+      "id": "jhucqYjk3XM",
+      "title": "Complete Git and Github Course",
+      "duration": 6153
+    },
+    {
+      "id": "-oyToM_c8-o",
+      "title": "Git and Github Branching Strategy Example",
+      "duration": 2352
+    },
+    {
+      "id": "DX5qJaJD734",
+      "title": "Integrate git bash with VS Code",
+      "duration": 387
+    },
+    {
+      "id": "Us8ppNu1jus",
+      "title": "How to Contribute to Open Source Project and Handle Contribution",
+      "duration": 2578
+    },
+    {
+      "id": "uyay0qCxXnI",
+      "title": "Make User a Collaborator for Open Source Project in Github",
+      "duration": 1477
+    },
+    {
+      "id": "Zr9bBw-OzcY",
+      "title": "Branching Rules in Github",
+      "duration": 1359
+    },
+    {
+      "id": "M807PZiQ1Zo",
+      "title": "Repository Review and Conversations in Git and Github",
+      "duration": 2261
+    },
+    {
+      "id": "9At8XcYicF8",
+      "title": "Create and Resolve Conflict Merge in Git and Github",
+      "duration": 2077
+    },
+    {
+      "id": "A4usVjplxbU",
+      "title": "Setup SSH for Github Account",
+      "duration": 955
+    },
+    {
+      "id": "bRHaOo0FNAI",
+      "title": "Config SSH with Custom SSH Key Git and Github",
+      "duration": 1067
+    }
+  ]
+}

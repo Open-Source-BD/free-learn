@@ -1,0 +1,220 @@
+{
+  "courseId": "learn-apl-with-neural-networks-6deb98",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:14.674Z",
+  "title": "Learn APL with Neural Networks",
+  "channel": "Rodrigo's APL Corner",
+  "videos": [
+    {
+      "id": "19YvHLDZEpE",
+      "title": "00 - Objectives and Prerequisites | \"Learn APL with Neural Networks\"",
+      "duration": 277
+    },
+    {
+      "id": "CrTvHn-Pw7Y",
+      "title": "01 - APL Setup | \"Learn APL with Neural Networks\"",
+      "duration": 499
+    },
+    {
+      "id": "Vwr7ByLTB74",
+      "title": "02 - Neural Network Overview | \"Learn APL with Neural Networks\"",
+      "duration": 461
+    },
+    {
+      "id": "XswSB7LbJ2Q",
+      "title": "03 - Roll, Reshape, and Dfns | \"Learn APL with Neural Networks\"",
+      "duration": 688
+    },
+    {
+      "id": "KOz_LvmC7bI",
+      "title": "04 - Basic Arithmetics, Log, Pi, and Trigonometry | \"Learn APL with Neural Networks\"",
+      "duration": 418
+    },
+    {
+      "id": "k29P0gX8Gwg",
+      "title": "05 - Creating a Random Array | \"Learn APL with Neural Networks\"",
+      "duration": 184
+    },
+    {
+      "id": "7Wyp2vp2Bwg",
+      "title": "06 - Drawing a Bell Curve | \"Learn APL with Neural Networks\"",
+      "duration": 347
+    },
+    {
+      "id": "Z0nJilklvlg",
+      "title": "07 - Weight Matrices and Bias Vectors in a Network | \"Learn APL with Neural Networks\"",
+      "duration": 464
+    },
+    {
+      "id": "fVP1U7VsBBw",
+      "title": "08 - Matrix Multiplication in APL | \"Learn APL with Neural Networks\"",
+      "duration": 450
+    },
+    {
+      "id": "zg9A0VlDhS0",
+      "title": "09 - Catenate, Transpose, Each, and Beside | \"Learn APL with Neural Networks\"",
+      "duration": 492
+    },
+    {
+      "id": "uJJ7CcaORnU",
+      "title": "10 - Drop, Table, Switch, and Reduce | \"Learn APL with Neural Networks\"",
+      "duration": 364
+    },
+    {
+      "id": "KmfTnxVxiuU",
+      "title": "11 - Initialising a Neural Network | \"Learn APL with Neural Networks\"",
+      "duration": 645
+    },
+    {
+      "id": "t2NKHlKqPUQ",
+      "title": "12 - Activation Functions | \"Learn APL with Neural Networks\"",
+      "duration": 676
+    },
+    {
+      "id": "CarxSxkK2FE",
+      "title": "13 - Using Arithmetic to Mask Values | \"Learn APL with Neural Networks\"",
+      "duration": 471
+    },
+    {
+      "id": "sGExNhuQLbo",
+      "title": "14 - Implementing the LeakyReLU | \"Learn APL with Neural Networks\"",
+      "duration": 202
+    },
+    {
+      "id": "EnUvYTGNtuk",
+      "title": "15 - Enclose, Disclose, Reverse, and Idioms | \"Learn APL with Neural Networks\"",
+      "duration": 787
+    },
+    {
+      "id": "BK7pCxcSv94",
+      "title": "16 - Iota, Tally, Argument Currying, and Special Assignments | \"Learn APL with Neural Networks\"",
+      "duration": 755
+    },
+    {
+      "id": "uDT4oipOsJg",
+      "title": "17 - Power Operator | \"Learn APL with Neural Networks\"",
+      "duration": 286
+    },
+    {
+      "id": "WGvx6XBuYxk",
+      "title": "18 - User Defined Operators | \"Learn APL with Neural Networks\"",
+      "duration": 452
+    },
+    {
+      "id": "C3b9g2Wu1NI",
+      "title": "19 - Implementing the Forward Pass | \"Learn APL with Neural Networks\"",
+      "duration": 957
+    },
+    {
+      "id": "TR7dP7_mcGQ",
+      "title": "20 - Assessing the Network Output | \"Learn APL with Neural Networks\"",
+      "duration": 341
+    },
+    {
+      "id": "MqTKkUOk4EQ",
+      "title": "21 - Implementing the Loss Function | \"Learn APL with Neural Networks\"",
+      "duration": 304
+    },
+    {
+      "id": "GU_13H7d8P8",
+      "title": "22 - Derivatives and Directions of Change | \"Learn APL with Neural Networks\"",
+      "duration": 701
+    },
+    {
+      "id": "7H72lqIVfYk",
+      "title": "23 - Numerical Approximation of the Derivative | \"Learn APL with Neural Networks\"",
+      "duration": 575
+    },
+    {
+      "id": "jxt8Ppwwv6U",
+      "title": "24 - Implementing the Derivative of the Loss Function | “Learn APL with Neural Networks”",
+      "duration": 238
+    },
+    {
+      "id": "rtwPPnSVD9c",
+      "title": "25 - Verifying the Derivative Empirically | \"Learn APL with Neural Networks\"",
+      "duration": 435
+    },
+    {
+      "id": "Ebag9ljCSxI",
+      "title": "26 - Namespaces | “Learn APL with Neural Networks”",
+      "duration": 345
+    },
+    {
+      "id": "GlI6aZZPnZk",
+      "title": "27 - Defining the Loss Function and the Derivative in a Namespace | “Learn APL with Neural Networks”",
+      "duration": 253
+    },
+    {
+      "id": "MxCShiCbhno",
+      "title": "28 - Implementing the Derivative of the LeakyReLU | “Learn APL with Neural Networks”",
+      "duration": 339
+    },
+    {
+      "id": "emoujcxkycI",
+      "title": "29 - What is Backpropagation? | \"Learn APL with Neural Networks\"",
+      "duration": 754
+    },
+    {
+      "id": "dF6CyMrYoL0",
+      "title": "30 - Tradfns and Traditional Control Structures | \"Learn APL with Neural Networks\"",
+      "duration": 879
+    },
+    {
+      "id": "kwbzdbqrwdo",
+      "title": "31 - Implementing Backpropagation and Checking it Works | “Learn APL with Neural Networks”",
+      "duration": 889
+    },
+    {
+      "id": "YrQ-_amN3i0",
+      "title": "32 - Preparing the MNIST dataset example | \"Learn APL with Neural Networks\"",
+      "duration": 162
+    },
+    {
+      "id": "VveU4os8ijU",
+      "title": "33 - Reading from a file with NGET, CSV, and NTIE | \"Learn APL with Neural Networks\"",
+      "duration": 877
+    },
+    {
+      "id": "pJQtw76ZyIE",
+      "title": "34 - Bracket Indexing and Mask Visualisation | \"Learn APL with Neural Networks\"",
+      "duration": 336
+    },
+    {
+      "id": "7EwWqbN3SzQ",
+      "title": "35 - Drawing MNIST digits | \"Learn APL with Neural Networks\"",
+      "duration": 593
+    },
+    {
+      "id": "2U6Ep4iIbDY",
+      "title": "36 - Setting Up the Network | \"Learn APL with Neural Networks\"",
+      "duration": 499
+    },
+    {
+      "id": "TmAq5Z7Upvc",
+      "title": "37 - Network Classification | \"Learn APL with Neural Networks\"",
+      "duration": 408
+    },
+    {
+      "id": "5a4FBUZlulo",
+      "title": "38 - Array Rank and the Rank Operator | \"Learn APL with Neural Networks\"",
+      "duration": 575
+    },
+    {
+      "id": "rrpqYDzzm-U",
+      "title": "39 - Testing the Network | \"Learn APL with Neural Networks\"",
+      "duration": 607
+    },
+    {
+      "id": "trzb3cJ5Q1k",
+      "title": "40 - Outer Product and the Over Operator | \"Learn APL with Neural Networks\"",
+      "duration": 397
+    },
+    {
+      "id": "H6a1eK7roYQ",
+      "title": "41 - Training the Network | \"Learn APL with Neural Networks\"",
+      "duration": 602
+    }
+  ]
+}

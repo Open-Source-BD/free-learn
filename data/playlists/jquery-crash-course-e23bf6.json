@@ -1,0 +1,35 @@
+{
+  "courseId": "jquery-crash-course-e23bf6",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:53:46.027Z",
+  "title": "jQuery Crash Course",
+  "channel": "Traversy Media",
+  "videos": [
+    {
+      "id": "3nrLc_JOF7k",
+      "title": "jQuery Crash Course [1] - Intro & Selectors",
+      "duration": 1272
+    },
+    {
+      "id": "VlWsJHsVb-E",
+      "title": "jQuery Crash Course [2] - Events",
+      "duration": 1459
+    },
+    {
+      "id": "q4FWSdX55ls",
+      "title": "jQuery Crash Course [3] - DOM Manipulation",
+      "duration": 1259
+    },
+    {
+      "id": "kVc_XfZY0vI",
+      "title": "jQuery Crash Course [4] - Effects and Animation",
+      "duration": 904
+    },
+    {
+      "id": "eR3rcalj06Q",
+      "title": "jQuery Crash Course [5] - Ajax",
+      "duration": 1215
+    }
+  ]
+}

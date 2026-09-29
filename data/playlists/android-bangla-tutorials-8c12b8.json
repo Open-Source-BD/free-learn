@@ -1,0 +1,835 @@
+{
+  "courseId": "android-bangla-tutorials-8c12b8",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:18.225Z",
+  "title": "Android Bangla Tutorials ( সহজেই শিখুন Android )",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "ZYvbmVEwX14",
+      "title": "Android Bangla Tutorial 1.0 : Android Course Plan",
+      "duration": 264
+    },
+    {
+      "id": "DL0T-luGlOw",
+      "title": "Android Bangla Tutorial 1.1 : Android course plan (updated)",
+      "duration": 78
+    },
+    {
+      "id": "Q9ywOcR-VVU",
+      "title": "Android Bangla Tutorial 1.2 : introduction of android | android fundamental",
+      "duration": 302
+    },
+    {
+      "id": "QKKdrgGQljA",
+      "title": "Java Bangla Tutorials 2 :  How to download and install JDK",
+      "duration": 289
+    },
+    {
+      "id": "7nae6RM9we0",
+      "title": "Android Bangla Tutorial 1.4 : android studio download and install",
+      "duration": 371
+    },
+    {
+      "id": "1bskvMyC_p0",
+      "title": "Android Bangla Tutorial 1.5 : Running first app and avd setup in android studio",
+      "duration": 646
+    },
+    {
+      "id": "mP6Kk1H6NRg",
+      "title": "Android Bangla Tutorial 1.6 : some important tips",
+      "duration": 413
+    },
+    {
+      "id": "oA3FXdRWOno",
+      "title": "Android Bangla Tutorial 1.7 : android file structure explained",
+      "duration": 493
+    },
+    {
+      "id": "9EvYvy7tUOc",
+      "title": "Android Bangla Tutorial 1.8 : screen orientation android studio",
+      "duration": 269
+    },
+    {
+      "id": "PqbBXyQ-DS8",
+      "title": "Android Bangla Tutorial 1.9 : End of the part-1",
+      "duration": 102
+    },
+    {
+      "id": "7lHCzzj_vK8",
+      "title": "Android Bangla Tutorial 2.1 : Introduction to part 2 | Widget",
+      "duration": 96
+    },
+    {
+      "id": "IMaKFFzCVLE",
+      "title": "Android Bangla Tutorial 2.2 : textview in android example (part-1)",
+      "duration": 441
+    },
+    {
+      "id": "OO79qdxMxm0",
+      "title": "Android Bangla Tutorial 2.3 : textview in android example (part-2)",
+      "duration": 456
+    },
+    {
+      "id": "nVLwpQPBmj8",
+      "title": "Android Bangla Tutorial 2.4 : textview in android example (part-3)",
+      "duration": 430
+    },
+    {
+      "id": "hRsXZg9hFNc",
+      "title": "Android Bangla Tutorial 2.5 : textview in android example (part-4)",
+      "duration": 410
+    },
+    {
+      "id": "c7nZJ7XRPE4",
+      "title": "Android Bangla Tutorial 2.6 : using color in android",
+      "duration": 338
+    },
+    {
+      "id": "A6HkvSjusKI",
+      "title": "Android Bangla Tutorial 2.7 : android margin vs padding",
+      "duration": 240
+    },
+    {
+      "id": "ZPXA192TVS8",
+      "title": "Android Bangla Tutorial 2.8 : android button tutorial",
+      "duration": 487
+    },
+    {
+      "id": "U3avhSVd42I",
+      "title": "Android Tutorial 2.9: Button with Listener (Part 1)",
+      "duration": 435
+    },
+    {
+      "id": "hixCvAU0osc",
+      "title": "Android Bangla Tutorial 2.10 : Button with Listener (part-2)",
+      "duration": 440
+    },
+    {
+      "id": "VbCKRxZCN9U",
+      "title": "Android Bangla Tutorial 2.11 : Button with Listener (part-3)",
+      "duration": 397
+    },
+    {
+      "id": "RtOsnhncJeU",
+      "title": "Android Tutorial 2.12 : Button with Listener (Part 4)",
+      "duration": 330
+    },
+    {
+      "id": "x-O9KUTGxww",
+      "title": "Android Bengali Tutorial 2.13: Button Click Handling (Part 5)",
+      "duration": 225
+    },
+    {
+      "id": "skl9Y3enKSE",
+      "title": "Android Tutorial 2.14: Android Toast Tutorial",
+      "duration": 353
+    },
+    {
+      "id": "Y6bf1CAOHNE",
+      "title": "Android Bangla Tutorial 2.15 : Login Output in android",
+      "duration": 286
+    },
+    {
+      "id": "Qc76uf2oPJA",
+      "title": "Android Bangla Tutorial 2.16 : EditText (part-1)",
+      "duration": 812
+    },
+    {
+      "id": "6CFUA40cT2c",
+      "title": "Android Bangla Tutorial 2.17 : EditText (part-2)",
+      "duration": 537
+    },
+    {
+      "id": "1gNPctpCFiA",
+      "title": "Android Bangla Tutorial 2.18 : EditText (part-3)",
+      "duration": 207
+    },
+    {
+      "id": "sIMab-JGY3Q",
+      "title": "Android Bangla Tutorial 2.21 : displaying image in android studio using imageview (part-1)",
+      "duration": 307
+    },
+    {
+      "id": "5HZnqTsaKko",
+      "title": "Android Bangla Tutorial 2.22 : displaying image in android studio using imageview (part-2)",
+      "duration": 293
+    },
+    {
+      "id": "zy5BDW1TBy4",
+      "title": "Android Bangla Tutorial 2.23 : custom toast in android example (part-1)",
+      "duration": 452
+    },
+    {
+      "id": "Vk2gYl-9uqY",
+      "title": "Android Bangla Tutorial 2.24 : custom toast in android example (part-2)",
+      "duration": 516
+    },
+    {
+      "id": "FIfl3Pdq9f0",
+      "title": "Android Bangla Tutorial 2.25 : checkbox in android example (Part-1)",
+      "duration": 667
+    },
+    {
+      "id": "mSJQt4A5mAw",
+      "title": "Android Bangla Tutorial 2.26 : checkbox in android example (Part-2)",
+      "duration": 615
+    },
+    {
+      "id": "KxFHGakIvOM",
+      "title": "Android Bangla Tutorial 2.27 : radio button in android studio example",
+      "duration": 873
+    },
+    {
+      "id": "ZTgpz4yZhjg",
+      "title": "Android Bangla Tutorial 2.28 : ratingbar in android studio example",
+      "duration": 579
+    },
+    {
+      "id": "TCUE8shKVMA",
+      "title": "Android Bangla Tutorial 2.29 : SeekBar in android studio example",
+      "duration": 651
+    },
+    {
+      "id": "e9H9JsMdbjk",
+      "title": "Android Bangla Tutorial 2.30 : switch in android studio example",
+      "duration": 431
+    },
+    {
+      "id": "4dSmROBY_Us",
+      "title": "Android Bangla Tutorial 2.31 : How to convert  website into android application | WebView  (part-1)",
+      "duration": 365
+    },
+    {
+      "id": "O56xZlhHjvg",
+      "title": "Android Bangla Tutorial 2.32 : How To Change Label And Icon Of Your App | WebView  (part-2)",
+      "duration": 225
+    },
+    {
+      "id": "t3a5d8SMVwo",
+      "title": "Android Bangla Tutorial 2.33 : BackPressed with WebView | WebView (part-3)",
+      "duration": 233
+    },
+    {
+      "id": "h3acN22MD3Q",
+      "title": "Android Bangla Tutorial 2.34 : datepicker in android studio example",
+      "duration": 732
+    },
+    {
+      "id": "M-11fiLGDiI",
+      "title": "Android Bangla Tutorial 2.35: datepickerdialog android tutorial",
+      "duration": 865
+    },
+    {
+      "id": "PVsolk-xYPA",
+      "title": "Android Bangla Tutorial 2.36 : timepicker android tutorial",
+      "duration": 470
+    },
+    {
+      "id": "fIxGZWK2Zv4",
+      "title": "Android Bangla Tutorial 2.37 : TimePickerDialog",
+      "duration": 463
+    },
+    {
+      "id": "QUMsDgfFCRc",
+      "title": "Android Bangla Tutorial 2.38 : android clock tutorial",
+      "duration": 479
+    },
+    {
+      "id": "TcVgaRQHA0I",
+      "title": "Android Bangla Tutorial 2.39 : alertdialog in android example",
+      "duration": 991
+    },
+    {
+      "id": "mGbUgV3dfFY",
+      "title": "Android Bangla Tutorial 2.40 : font in android example",
+      "duration": 603
+    },
+    {
+      "id": "krDArwOwI5M",
+      "title": "Android Bangla Tutorial 2.41 : layout_weight and weightSum",
+      "duration": 793
+    },
+    {
+      "id": "Z66e3z6OizQ",
+      "title": "Android Bangla Tutorial 2.42 : zoomcontrols in android",
+      "duration": 776
+    },
+    {
+      "id": "ajP2rhaIgEw",
+      "title": "Android Bangla Tutorial 2.43 : VideoView | How to play video in android",
+      "duration": 522
+    },
+    {
+      "id": "NwjmxyLOOUU",
+      "title": "Android Bangla Tutorial 2.44 : End of the part-2",
+      "duration": 88
+    },
+    {
+      "id": "xeAq3DnP6qo",
+      "title": "Android Bangla Tutorial 3.1 : Introduction to part 3 | Activity, Intent",
+      "duration": 140
+    },
+    {
+      "id": "WkOs3hJgsps",
+      "title": "Android Bangla Tutorial 3.2 : Activity Life Cycle in android",
+      "duration": 915
+    },
+    {
+      "id": "YTx7GA9vPvo",
+      "title": "Android Bangla Tutorial 3.3 : intent in android studio tutorial",
+      "duration": 892
+    },
+    {
+      "id": "gaInOxnuB0M",
+      "title": "Android Bangla Tutorial 3.4 : how to send data from one activity to another in android",
+      "duration": 694
+    },
+    {
+      "id": "-CQnqUIJby0",
+      "title": "Android Bangla Tutorial 3.5 : CountryProfile Project (part-1)",
+      "duration": 842
+    },
+    {
+      "id": "etCqSoKkQQg",
+      "title": "Android Bangla Tutorial 3.6 : Countryprofile Project (part-2)",
+      "duration": 915
+    },
+    {
+      "id": "rhWlAqi0MyU",
+      "title": "Android Bangla Tutorial 3.7 : Countryprofile Project (part-3)",
+      "duration": 457
+    },
+    {
+      "id": "w_HEs1AYBPM",
+      "title": "Android Bangla Tutorial 3.8 : onActivityForResult in android",
+      "duration": 1113
+    },
+    {
+      "id": "BYuphh6K4pA",
+      "title": "Android Bangla Tutorial 3.9 : End Of The Part 3 | Activity, Intent",
+      "duration": 113
+    },
+    {
+      "id": "EYVXaiJYS4c",
+      "title": "Android Bangla Tutorial 4.1 : Introduction to part 4",
+      "duration": 78
+    },
+    {
+      "id": "uZ8c3TL0Ds0",
+      "title": "Android Bangla Tutorial 4.2 : listview in android studio example (Theory)",
+      "duration": 522
+    },
+    {
+      "id": "CLpqTPgW94I",
+      "title": "Android Bangla Tutorial 4.3 : listview in android studio example (Practical)",
+      "duration": 866
+    },
+    {
+      "id": "dUCgLLGnKDc",
+      "title": "Android Bangla Tutorial 4.4 : listview with onitemclicklistener android example",
+      "duration": 490
+    },
+    {
+      "id": "5T-qkGkvS8M",
+      "title": "Android Bangla Tutorial 4.5 : listview custom adapter android (part-1)",
+      "duration": 622
+    },
+    {
+      "id": "0bOoX2x0m_o",
+      "title": "Android Bangla Tutorial 4.6 :  listview custom adapter android (part-2)",
+      "duration": 1042
+    },
+    {
+      "id": "8hK6Z_ArqE4",
+      "title": "Android Bangla Tutorial 4.7 : ListView Filtering and SearchView",
+      "duration": 504
+    },
+    {
+      "id": "z0lFhOukIZI",
+      "title": "Android Bangla Tutorial 4.8 : option menu in android studio example with code",
+      "duration": 850
+    },
+    {
+      "id": "dHnOojjXa6c",
+      "title": "Android Bangla Tutorial 4.9 : searchview in actionbar android studio example",
+      "duration": 773
+    },
+    {
+      "id": "LggY_BdVOB0",
+      "title": "Android Bangla Tutorial 4.11 : how to create gradient background in android",
+      "duration": 320
+    },
+    {
+      "id": "OrYTZoEZGbg",
+      "title": "Android Bangla Tutorial 4.12 :  gridview android studio example (Part-1)",
+      "duration": 649
+    },
+    {
+      "id": "W1CbkH9QSrA",
+      "title": "Android Bangla Tutorial 4.13 :  gridview android studio example (Part-2)",
+      "duration": 464
+    },
+    {
+      "id": "t9PD3B6xsrE",
+      "title": "Android Bangla Tutorial 4.14 : spinner android studio example",
+      "duration": 896
+    },
+    {
+      "id": "6FrxzzTiNFQ",
+      "title": "Android Bangla Tutorial 4.15 : Spinner with OnItemSelected Listener (part-1)",
+      "duration": 616
+    },
+    {
+      "id": "uSWUiZRmFRM",
+      "title": "Android Bangla Tutorial 4.16 : Spinner with OnItemSelected Listener (part-2)",
+      "duration": 500
+    },
+    {
+      "id": "BIANGwJ7fFE",
+      "title": "Android Bangla Tutorial 4.17 : progressbar android studio example",
+      "duration": 775
+    },
+    {
+      "id": "NeAP3i309WE",
+      "title": "Android Bangla Tutorial 4.18 : FullScreen Activity",
+      "duration": 209
+    },
+    {
+      "id": "pMo-x1QzzLs",
+      "title": "Android Bangla Tutorial 4.19 : How To Create SplashScreen",
+      "duration": 795
+    },
+    {
+      "id": "Ay8_GyZLJY0",
+      "title": "Android Bangla Tutorial 4.20 : mediaplayer in android studio",
+      "duration": 969
+    },
+    {
+      "id": "giOK-4zcbxk",
+      "title": "Android Bangla Tutorial 4.22 : Adding share menu item in Android action bar",
+      "duration": 812
+    },
+    {
+      "id": "5gpx-9CCuQM",
+      "title": "Android Bangla Tutorial 4.23 : Adding feedback menu item in action bar (part-1)",
+      "duration": 745
+    },
+    {
+      "id": "3aA29t8j1GQ",
+      "title": "Android Bangla Tutorial 4.24 : Adding feedback menu item in action bar (part-2)",
+      "duration": 675
+    },
+    {
+      "id": "nf54LCFdfR8",
+      "title": "Android Bangla Tutorial 4.26 : autocompletetextview example in android studio",
+      "duration": 641
+    },
+    {
+      "id": "7GObJkWYrgw",
+      "title": "Android Bangla Tutorial 4.27 : expandable listview android studio example",
+      "duration": 756
+    },
+    {
+      "id": "rLFYe04zyWc",
+      "title": "Android Bangla Tutorial 4.28 : Preparing data for the Expandable Listview",
+      "duration": 745
+    },
+    {
+      "id": "KE2vgXGyM14",
+      "title": "Android Bangla Tutorial 4.29 : Expandable Listadapter android example (part-1)",
+      "duration": 559
+    },
+    {
+      "id": "eWXVW9ew-eA",
+      "title": "Android Bangla Tutorial 4.30 : Expandable Listadapter android example (part-2)",
+      "duration": 516
+    },
+    {
+      "id": "dFfrlDpaIrM",
+      "title": "Android Bangla Tutorial 4.31 : Expandable Listview With Listener (part-1)",
+      "duration": 524
+    },
+    {
+      "id": "kH3KiFv6rJM",
+      "title": "Android Bangla Tutorial 4.32 : Expandable Listview With Listener (part-2)",
+      "duration": 248
+    },
+    {
+      "id": "olNlHo59uQc",
+      "title": "Android Bangla Tutorial 4.33 : Preparing data for the Expandable Listview (2nd way)",
+      "duration": 460
+    },
+    {
+      "id": "hr6yk6JKK8w",
+      "title": "Android Bangla Tutorial 4.34 : fragment android example (Part-1)",
+      "duration": 643
+    },
+    {
+      "id": "BrkFLJlGRvE",
+      "title": "Android Bangla Tutorial 4.35 : fragment android example (Part-2)",
+      "duration": 886
+    },
+    {
+      "id": "a8FsF5-_TNg",
+      "title": "Android Bangla Tutorial 4.36 : Android Tricks",
+      "duration": 385
+    },
+    {
+      "id": "vvUNPlLVZH0",
+      "title": "Android Bangla Tutorial 4.37 : End of the part-4",
+      "duration": 90
+    },
+    {
+      "id": "5Z_x91bstjA",
+      "title": "Android Bangla Tutorial 5.1 : Introduction to part 5 | Layout",
+      "duration": 63
+    },
+    {
+      "id": "0zYONSlUlLI",
+      "title": "Android Bangla Tutorial 5.2 : Relative Layout android example",
+      "duration": 624
+    },
+    {
+      "id": "pfuUmV2Nlfo",
+      "title": "Android Bangla Tutorial 5.3 : table Layout android example",
+      "duration": 811
+    },
+    {
+      "id": "7qKFL0W0Smg",
+      "title": "Android Bangla Tutorial 5.4 : frame Layout android example",
+      "duration": 450
+    },
+    {
+      "id": "Rzt6Arjjkx4",
+      "title": "Android Bangla Tutorial 5.5 : End of the part 5",
+      "duration": 152
+    },
+    {
+      "id": "1SLXsrwQ-ak",
+      "title": "Android Bangla Tutorial 6.1 : Introduction to part 6",
+      "duration": 85
+    },
+    {
+      "id": "Amy-ndLkcdg",
+      "title": "Android Bangla Tutorial 6.2 : Adding Back / Up Button To Toolbar (part-1)",
+      "duration": 302
+    },
+    {
+      "id": "Omg1SyWWyxQ",
+      "title": "Android Bangla Tutorial 6.3 : Adding Back / Up Button To Toolbar (part-2)",
+      "duration": 354
+    },
+    {
+      "id": "BwRDktAlB5M",
+      "title": "Android Bangla Tutorial 6.4 : How to use logo on Actionbar",
+      "duration": 260
+    },
+    {
+      "id": "Z7UjuzaVhFQ",
+      "title": "Android Bangla Tutorial 6.6 :  Applying style",
+      "duration": 734
+    },
+    {
+      "id": "WHzPSB-ISPY",
+      "title": "Android Bangla Tutorial 6.7 : Types of Intent",
+      "duration": 699
+    },
+    {
+      "id": "xi-LpqKSUCo",
+      "title": "Android Bangla Tutorial 6.8 : html content in android webview",
+      "duration": 556
+    },
+    {
+      "id": "aFecLXRrxUA",
+      "title": "Android Bangla Tutorial 6.9 : html content in android textview",
+      "duration": 231
+    },
+    {
+      "id": "sgUQatpf5I8",
+      "title": "Android Bangla Tutorial 6.10 : scroll tabs android (part-1)",
+      "duration": 684
+    },
+    {
+      "id": "UI9OvQKwgAU",
+      "title": "Android Bangla Tutorial 6.11 : scroll tabs android (part-2)",
+      "duration": 324
+    },
+    {
+      "id": "vlNd2N20NGs",
+      "title": "Android Bangla Tutorial 6.13 : How to design and create a Login Application (part-1)",
+      "duration": 783
+    },
+    {
+      "id": "bAPae8hKdXc",
+      "title": "Android Bangla Tutorial 6.14 : How to design and create a Login Application (part-2)",
+      "duration": 591
+    },
+    {
+      "id": "qUXkc-eEfxA",
+      "title": "Android Bangla Tutorial 6.15 : Android CardView (part-1)",
+      "duration": 1212
+    },
+    {
+      "id": "pt5CbCCKuhU",
+      "title": "Android Bangla Tutorial 6.16 : Android CardView (part-2)",
+      "duration": 505
+    },
+    {
+      "id": "FenGJwgl5jA",
+      "title": "Android Bangla Tutorial 6.17 : How to make a specific activity into full screen activity",
+      "duration": 261
+    },
+    {
+      "id": "XCwz-d9Raik",
+      "title": "Android Bangla Tutorial 6.20 : End of the part 6",
+      "duration": 41
+    },
+    {
+      "id": "8OIf2urmEMk",
+      "title": "Android Bangla Tutorial 7.1 : Introduction to part 7 | Android Database",
+      "duration": 204
+    },
+    {
+      "id": "0UEbgvKoYeo",
+      "title": "Android Bangla Tutorial 7.2 : SharedPreference Example 1 (part-1) | Storing user details",
+      "duration": 724
+    },
+    {
+      "id": "ghAv9QJzpiQ",
+      "title": "Android Bangla Tutorial 7.3 : SharedPreference Example 1 (part-2) | Storing user details",
+      "duration": 741
+    },
+    {
+      "id": "nPuOfhh9MNU",
+      "title": "Android Bangla Tutorial 7.4 : SharedPreference Example 2 | Storing last score",
+      "duration": 723
+    },
+    {
+      "id": "4AAnnz_-ttM",
+      "title": "Android Bangla Tutorial 7.5 : SharedPreference Example 3 (part-1) | Storing user setting",
+      "duration": 729
+    },
+    {
+      "id": "LXgqip58-mk",
+      "title": "Android Bangla Tutorial 7.6 : SharedPreference Example 3 (part-2) | Storing user setting",
+      "duration": 336
+    },
+    {
+      "id": "87M9DcJUFcA",
+      "title": "Android Bangla Tutorial 7.7 : Storing data using file (part-1)",
+      "duration": 649
+    },
+    {
+      "id": "kMzWoNKhIV8",
+      "title": "Android Bangla Tutorial 7.8 : Storing data using file (part-2)",
+      "duration": 356
+    },
+    {
+      "id": "lXmeQHBDAP8",
+      "title": "Android Bangla Tutorial 7.9 : Introduction to SQLite data storage",
+      "duration": 262
+    },
+    {
+      "id": "WRrB7WUj4zQ",
+      "title": "Android Bangla Tutorial 7.10 : Creating table And database (part-1) | SQLite Database",
+      "duration": 698
+    },
+    {
+      "id": "3e5umHntt6w",
+      "title": "Android Bangla Tutorial 7.11 : Creating table And database (part-2) | SQLite Database",
+      "duration": 664
+    },
+    {
+      "id": "OmW1gkVb0QY",
+      "title": "Android Bangla Tutorial 7.12 : how to pull sqlite database file from android device (old version)",
+      "duration": 247
+    },
+    {
+      "id": "SX8qRKzaYGQ",
+      "title": "Android Bangla Tutorial 7.13 : how to pull sqlite database file from android device (new version)",
+      "duration": 95
+    },
+    {
+      "id": "4_MTudbHgz8",
+      "title": "Android Bangla Tutorial 7.14 : inserting data in sqlite | SQLite Database",
+      "duration": 961
+    },
+    {
+      "id": "rXD4UQ67Jh8",
+      "title": "Android Bangla Tutorial 7.15 : read data from sqlite android (part-1) | SQLite Database",
+      "duration": 807
+    },
+    {
+      "id": "4mqqM4RHrp8",
+      "title": "Android Bangla Tutorial 7.16 : read data from sqlite android (part-2) | SQLite Database",
+      "duration": 235
+    },
+    {
+      "id": "wU6MMr6bSnk",
+      "title": "Android Bangla Tutorial 7.17 : update data from the sqlite database android | SQLite Database",
+      "duration": 887
+    },
+    {
+      "id": "zX5sGVWZX6Y",
+      "title": "Android Bangla Tutorial 7.18 : delete data from the sqlite database android | SQLite Database",
+      "duration": 494
+    },
+    {
+      "id": "Tfdos1nVGz0",
+      "title": "Android Bangla Tutorial 7.19 : sign in and sign up code in android (part-1) | SQLite Database",
+      "duration": 883
+    },
+    {
+      "id": "EO4hQ3n0p4o",
+      "title": "Android Bangla Tutorial 7.20 : sign in and sign up code in android (part-2) | SQLite Database",
+      "duration": 520
+    },
+    {
+      "id": "Wx6L6NSy9Hc",
+      "title": "Android Bangla Tutorial 7.21 : sign in and sign up code in android (part-3) | SQLite Database",
+      "duration": 649
+    },
+    {
+      "id": "XB1w1VP0DYY",
+      "title": "Android Bangla Tutorial 7.22 : sign in and sign up code in android (part-4) | SQLite Database",
+      "duration": 606
+    },
+    {
+      "id": "mjNE1wcg828",
+      "title": "Android Bangla Tutorial 7.23 : display sqlite data in listview android (part-1) | SQLite Database",
+      "duration": 729
+    },
+    {
+      "id": "Sfw7ok4q4A0",
+      "title": "Android Bangla Tutorial 7.24 : display sqlite data in listview android (part-2) | SQLite Database",
+      "duration": 782
+    },
+    {
+      "id": "QTa0dz0eVmA",
+      "title": "Android Bangla Tutorial 7.25 : display sqlite data in listview android (part-3) | SQLite Database",
+      "duration": 468
+    },
+    {
+      "id": "OU-yZkVnt1E",
+      "title": "Making your app responsive (part-1)",
+      "duration": 348
+    },
+    {
+      "id": "poP0cg4Ul64",
+      "title": "Android Bangla Tutorial 2.19 : Guessing Game",
+      "duration": 618
+    },
+    {
+      "id": "ozngjsn92Vo",
+      "title": "Android Bangla Tutorial 2.20 : Debugging",
+      "duration": 556
+    },
+    {
+      "id": "5l7upg8iRZc",
+      "title": "Screen Navigation (TabLayout, ViewPager, Fragments)",
+      "duration": 720
+    },
+    {
+      "id": "TEwt3G9fzWs",
+      "title": "autoLink in TextView",
+      "duration": 230
+    },
+    {
+      "id": "NeSdSY96REM",
+      "title": "Implicit Intent in android",
+      "duration": 178
+    },
+    {
+      "id": "NO2hah2ntdw",
+      "title": "RecyclerView in Android app (part-1)",
+      "duration": 1288
+    },
+    {
+      "id": "jKrcw3EPY5o",
+      "title": "RecyclerView in Android app (part-2)",
+      "duration": 442
+    },
+    {
+      "id": "afMsmNNepn0",
+      "title": "cardview inside recyclerview",
+      "duration": 868
+    },
+    {
+      "id": "A37aDZ1enys",
+      "title": "Making your app responsive (part-2)",
+      "duration": 227
+    },
+    {
+      "id": "wyALJe7yhc8",
+      "title": "Making your app responsive (part-3)",
+      "duration": 633
+    },
+    {
+      "id": "K_cfIVdceHY",
+      "title": "Introdcution to Firebase Bangla Tutorial",
+      "duration": 423
+    },
+    {
+      "id": "E3KbPoSofpw",
+      "title": "Firebase Authentication part 1 : How to sign up a user",
+      "duration": 1240
+    },
+    {
+      "id": "q9JQZAk6Z1g",
+      "title": "Firebase Authentication part 2 : How to sign in",
+      "duration": 798
+    },
+    {
+      "id": "rbsfuh6vtzo",
+      "title": "Firebase Authentication part 3 : How to sign out",
+      "duration": 330
+    },
+    {
+      "id": "mn6M2cKRZ7c",
+      "title": "Firebase RealTime DataBase part 1 - How to store data",
+      "duration": 920
+    },
+    {
+      "id": "2NinkAloIxQ",
+      "title": "Firebase RealTime DataBase part 2 : How to Retrieve data",
+      "duration": 1077
+    },
+    {
+      "id": "i1Sjc1uSDCo",
+      "title": "Firebase Storage part 1 : store, retrieve and delete image",
+      "duration": 795
+    },
+    {
+      "id": "8V3iNEMWnwc",
+      "title": "Firebase Storage part 2 : store, retrieve and delete image",
+      "duration": 924
+    },
+    {
+      "id": "R23JdgfFSD4",
+      "title": "Firebase Storage part 3 : store, retrieve and delete image",
+      "duration": 647
+    },
+    {
+      "id": "vmx2qm9KRjY",
+      "title": "Firebase Storage part 4 : store, retrieve and delete image",
+      "duration": 602
+    },
+    {
+      "id": "NU7lL5hcmZ4",
+      "title": "How to change android package name in android studio",
+      "duration": 146
+    },
+    {
+      "id": "NGuOpL-yI3w",
+      "title": "How to make launcher icon for any android device Bangla Tutorial",
+      "duration": 150
+    },
+    {
+      "id": "1llNkHslGPI",
+      "title": "How to generate signed apk | Android Bangla Tutorial 2019",
+      "duration": 238
+    }
+  ]
+}

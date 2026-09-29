@@ -1,0 +1,350 @@
+{
+  "courseId": "kotlin-tutorial-for-beginners-basics-and-fundamentals-for-an-d97abd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:56:36.662Z",
+  "title": "Kotlin Tutorial for Beginners: Basics and Fundamentals for Android",
+  "channel": "Smartherd",
+  "videos": [
+    {
+      "id": "VEqhzCFmEQI",
+      "title": "Kotlin Programming for Android: Beginners Tutorial [ FREE COURSE ] Overview",
+      "duration": 159
+    },
+    {
+      "id": "iC8LRjd67Ds",
+      "title": "Introduction to Kotlin Programming Language. Kotlin tutorials for Beginners",
+      "duration": 359
+    },
+    {
+      "id": "toesg2HLMSs",
+      "title": "Kotlin Setup on Windows: How to Install JAVA JDK for Coding in Kotlin #1.1",
+      "duration": 320
+    },
+    {
+      "id": "mcCt-Dv1lg8",
+      "title": "Kotlin Setup for Windows: Installing INTELLIJ IDEA #1.2",
+      "duration": 171
+    },
+    {
+      "id": "sX_-bEpV6M0",
+      "title": "Kotlin Setup for MacOSX: Install Java JDK #1.3",
+      "duration": 228
+    },
+    {
+      "id": "QUI0PopN1nw",
+      "title": "Kotlin Setup for MacOSX: Install INTELLIJ IDEA #1.4",
+      "duration": 159
+    },
+    {
+      "id": "G6oVG5XetnE",
+      "title": "Kotlin Hello World: Write your first code in Kotlin and Run it in INTELLIJ IDEA #2",
+      "duration": 603
+    },
+    {
+      "id": "MM1jRsXiWBg",
+      "title": "Kotlin Hello World: How it works? Part-2 #2.1",
+      "duration": 541
+    },
+    {
+      "id": "LANjqm3Sfpw",
+      "title": "Kotlin Basic Syntax Tutorial: COMMENTS Part-1 #3.1",
+      "duration": 118
+    },
+    {
+      "id": "TGYehzj_NFI",
+      "title": "Kotlin Variables and Data Types. Kotlin Basic Syntaxes #3.2",
+      "duration": 200
+    },
+    {
+      "id": "KQbVF-GVDU0",
+      "title": "Kotlin Basics and Syntax: FUNCTIONS CLASS & STRING INTERPOLATION Part-3 #3.3",
+      "duration": 474
+    },
+    {
+      "id": "5GyB6Ndy818",
+      "title": "Kotlin Basics and Syntax: FUNCTIONS CLASS & STRING INTERPOLATION Part-4 #3.4",
+      "duration": 257
+    },
+    {
+      "id": "r-IEGuDD2rU",
+      "title": "Kotlin REPL : Read Eval Print Loop. Kotlin Tutorial for Beginners #4.1",
+      "duration": 368
+    },
+    {
+      "id": "qAJTqI_aKJU",
+      "title": "Kotlin Data Types: VAR vs VAL: Variables and Constants Part-1 #4.2",
+      "duration": 376
+    },
+    {
+      "id": "SItGASY92HE",
+      "title": "Kotlin Data Types: VAR vs VAL: Variables and Constants DEMO Part-2 #4.3",
+      "duration": 280
+    },
+    {
+      "id": "EXPZqS8UBrk",
+      "title": "Kotlin String Templates: String Interpolation. Kotlin for Android #4.4",
+      "duration": 422
+    },
+    {
+      "id": "jNRbbMKOd-E",
+      "title": "Kotlin RANGES and DOUBLE DOT Operators. Kotlin for Android. #4.5",
+      "duration": 333
+    },
+    {
+      "id": "CkvYXSpXS2s",
+      "title": "Kotlin IF as Expression. Kotlin Tutorials for Android #5.1",
+      "duration": 222
+    },
+    {
+      "id": "2V6et2FdS8I",
+      "title": "Kotlin WHEN as Expression. Kotlin for Android #5.2",
+      "duration": 497
+    },
+    {
+      "id": "S_DDdmsOyVE",
+      "title": "Kotlin LOOPS or ITERATORS and Loop Control Statements. For, While, Do-while loops in Kotlin #6.1",
+      "duration": 195
+    },
+    {
+      "id": "ugz2W_yF208",
+      "title": "Kotlin FOR Loop. Kotlin Tutorial for Android #6.2",
+      "duration": 281
+    },
+    {
+      "id": "FSHjROeqT38",
+      "title": "Kotlin WHILE Loop. Kotlin for Android #6.3",
+      "duration": 258
+    },
+    {
+      "id": "cWuVrCxtRqM",
+      "title": "Kotlin DO-WHILE Loop. Kotlin Tutorial for Android #6.4",
+      "duration": 258
+    },
+    {
+      "id": "sLdcnko9LwE",
+      "title": "Kotlin BREAK Statements with LABELED FOR Loop. Kotlin for Android #6.5",
+      "duration": 270
+    },
+    {
+      "id": "fVK7JeHZ3dQ",
+      "title": "Kotlin CONTINUE with Labeled FOR Loop. Kotlin for Android #6.6",
+      "duration": 288
+    },
+    {
+      "id": "YxixgkS_B1s",
+      "title": "Kotlin Functions and Methods example. Basics and Syntax. Kotlin Android Tutorial. #7.1",
+      "duration": 394
+    },
+    {
+      "id": "w3MMiPwU80k",
+      "title": "Kotlin Functions as Expressions. One line functions. Kotlin Android Tutorial. #7.2",
+      "duration": 340
+    },
+    {
+      "id": "UiIfCzu9fTk",
+      "title": "Kotlin Java Interoperability: How Kotlin code is compiled & converted to a .class file #7.3",
+      "duration": 312
+    },
+    {
+      "id": "GSAuDYM_xrA",
+      "title": "Kotlin Java Interoperability: Calling Kotlin functions from Java file and vice-versa #7.4",
+      "duration": 595
+    },
+    {
+      "id": "E6WndBrdkSc",
+      "title": "Kotlin Default Functions with Interoperability with @JvmOverloads #7.5",
+      "duration": 396
+    },
+    {
+      "id": "X8K4eNgzk1s",
+      "title": "Kotlin Functions: Named Parameters #7.6",
+      "duration": 224
+    },
+    {
+      "id": "6oFvZKF6KKg",
+      "title": "Kotlin EXTENSION FUNCTIONS with example. Kotlin Android Tutorial #7.7",
+      "duration": 697
+    },
+    {
+      "id": "ikUF1z_WOZc",
+      "title": "Kotlin INFIX FUNCTION. Kotlin Tutorials for Beginners for Android #7.8",
+      "duration": 253
+    },
+    {
+      "id": "J2We4LfGZhc",
+      "title": "Kotlin TAILREC Function example. Use Recursion in Optimised way. Kotlin Android Tutorial #7.9",
+      "duration": 409
+    },
+    {
+      "id": "5YtmN2V9Om4",
+      "title": "Kotlin Class Definition, init Block and Primary Constructor. Object Oriented Kotlin for Android #8.1",
+      "duration": 626
+    },
+    {
+      "id": "4i3bN80YkYM",
+      "title": "Kotlin Secondary Constructors. Kotlin Android Tutorial #8.2",
+      "duration": 422
+    },
+    {
+      "id": "903Kv9ByDK0",
+      "title": "Kotlin understanding INHERITANCE with Example. Object Oriented Programming in Kotlin #8.3",
+      "duration": 455
+    },
+    {
+      "id": "0Zb0TwD9xzg",
+      "title": "Kotin INHERITANCE Demo example Part:4. Kotlin Android Beginner Tutorial #8.4",
+      "duration": 378
+    },
+    {
+      "id": "4vHAl7DyMjQ",
+      "title": "Kotlin Overriding Properties and Methods during Inheritance. Kotlin Tutorials for Beginner #8.5",
+      "duration": 570
+    },
+    {
+      "id": "DmSLv-fX8PA",
+      "title": "Kotlin Inheritance with Primary and Secondary Constructors #8.6",
+      "duration": 618
+    },
+    {
+      "id": "0JT2M2jb7Lo",
+      "title": "Kotlin Visibility Modifiers: public, protected, internal and private. Object Oriented Concepts #8.7",
+      "duration": 522
+    },
+    {
+      "id": "nN5KhABIbHQ",
+      "title": "Kotlin Abstract class, Method and Abstract Properties. Kotlin Tutorial for Android #8.8",
+      "duration": 700
+    },
+    {
+      "id": "jea0OEGHi38",
+      "title": "Kotlin INTERFACE example. Kotlin object-oriented programming for beginners #8.9",
+      "duration": 950
+    },
+    {
+      "id": "Z6xj7hta7Ac",
+      "title": "Kotlin DATA CLASS. Object Oriented Programming in Kotlin for Android #8.10",
+      "duration": 427
+    },
+    {
+      "id": "mK-0Zdjhcuk",
+      "title": "Kotlin 'object' declaration. Alternative to STATIC in Java. Kotlin Android Tutorials #8.11",
+      "duration": 629
+    },
+    {
+      "id": "6Gtsp2M8rr8",
+      "title": "Kotlin COMPANION OBJECT- Lets be static. Kotlin Programming for Android #8.12",
+      "duration": 198
+    },
+    {
+      "id": "1rW52kazuJk",
+      "title": "Kotlin Enum class (with Demo Source Code)",
+      "duration": 665
+    },
+    {
+      "id": "PMwiMNeFSM0",
+      "title": "Kotlin Sealed Class (With Demo Source code)",
+      "duration": 677
+    },
+    {
+      "id": "S0Vkldrh0SE",
+      "title": "Kotlin Lambdas and Higher Order Functions Part - 1. Kotlin Tutorial for Beginners #9.1",
+      "duration": 1007
+    },
+    {
+      "id": "IuPULpQ0q8I",
+      "title": "Kotlin Lambdas and Higher Order Functions Part - 2. Kotlin Tutorial for Beginners #9.2",
+      "duration": 714
+    },
+    {
+      "id": "dwko93d33Ko",
+      "title": "Kotlin CLOSURES. Lambdas and Higher-Order Functions. Part-3. Kotlin Tutorial #9.3",
+      "duration": 241
+    },
+    {
+      "id": "kQ7Q8YI9Etk",
+      "title": "Kotlin \"it\" keyword in Lambda expression. Complete example tutorial. Kotlin android Tutorial #9.4",
+      "duration": 279
+    },
+    {
+      "id": "osnaXRyQ350",
+      "title": "Kotlin WITH and APPLY. Lambdas and Higher-Order Function PART-5.Kotlin Tutorial #9.5",
+      "duration": 233
+    },
+    {
+      "id": "aFXfZH4RRfQ",
+      "title": "Kotlin: Introduction to Collections: Explore ARRAYS in Kotlin PART-1 #10.1",
+      "duration": 611
+    },
+    {
+      "id": "Je_YXshSFmY",
+      "title": "Kotlin LIST and ARRAYLIST tutorial. Mutable and Immutable Collections for Android PART-2 #10.2",
+      "duration": 608
+    },
+    {
+      "id": "73RTzuFWqm4",
+      "title": "Kotlin MAP and HASH MAP. Mutable and Immutable Collections example PART-3 #10.3",
+      "duration": 537
+    },
+    {
+      "id": "MJkCDXhLtDI",
+      "title": "Kotlin SET and HASH SET. Mutable and Immutable Collections examples PART-4 #10.4",
+      "duration": 405
+    },
+    {
+      "id": "zEqSP2y1o3s",
+      "title": "Kotlin 'filter' and 'map'. Using Lambdas for Filtering & Sorting. Collections Tutorial PART-1 #11.1",
+      "duration": 773
+    },
+    {
+      "id": "vhzpCAt1LxY",
+      "title": "Kotlin PREDICATES: all, any, count, find. Using Lambdas in Collections PART-2 #11.2",
+      "duration": 532
+    },
+    {
+      "id": "I9YijlV1nok",
+      "title": "Kotlin Null Safe Operators. Safe Call, with Let, Elvis & Non-null operator. Kotlin Tutorials #12.1",
+      "duration": 539
+    },
+    {
+      "id": "f1pHcsoGuFY",
+      "title": "Kotlin LATEINIT Keyword. Avoid NullPointerException. Kotlin Tutorial for beginners: #12.2",
+      "duration": 294
+    },
+    {
+      "id": "orUgnUuYW44",
+      "title": "Kotlin 'LAZY' delegation. LateInit vs Lazy.  Kotlin Tutorials for Beginners #12.3",
+      "duration": 310
+    },
+    {
+      "id": "_yiYMn4YIzg",
+      "title": "Backing Property in Kotlin and Android (With Demo Code in One Video)",
+      "duration": 915
+    },
+    {
+      "id": "H5TYt3ZlS0Q",
+      "title": "Backing Field in Kotlin ('field' keyword within custom Getter and Setter methods)",
+      "duration": 448
+    },
+    {
+      "id": "MHxGv4K6BsM",
+      "title": "Kotlin Scope Functions: let, apply, run, with, and also : With Differences",
+      "duration": 1615
+    },
+    {
+      "id": "C38lG2wraoo",
+      "title": "Kotlin Coroutines: Explore what are coroutines in kotlin. Threads vs. Coroutines",
+      "duration": 1989
+    },
+    {
+      "id": "whc_4PdvHkI",
+      "title": "Kotlin Programming for Android: Beginners Tutorial [ COURSE SUMMARY ]",
+      "duration": 75
+    },
+    {
+      "id": "DbaIA8t7h54",
+      "title": "Kotlin Overview as per Google IO 2017. Is Java Dead?",
+      "duration": 356
+    }
+  ]
+}

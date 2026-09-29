@@ -1,0 +1,310 @@
+{
+  "courseId": "bootstrap-bangla-tutorial-with-projects-235559",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:07:55.901Z",
+  "title": "Bootstrap Bangla Tutorial With Projects",
+  "channel": "Moshiur",
+  "videos": [
+    {
+      "id": "aXRS-YzWyJw",
+      "title": "Bootstrap 4 [#1] Introduction",
+      "duration": 546
+    },
+    {
+      "id": "6H43yyRuy8Q",
+      "title": "Bootstrap 4 [#2] Initial Environment Setup",
+      "duration": 1415
+    },
+    {
+      "id": "kLXnS_ZoN8Y",
+      "title": "Bootstrap 4 [#3]  Headings & Basic Typography",
+      "duration": 1441
+    },
+    {
+      "id": "G7Ns6p0GVho",
+      "title": "Bootstrap 4 [#4] Text Alignment & Display",
+      "duration": 1468
+    },
+    {
+      "id": "s1EYrAkFBZI",
+      "title": "Bootstrap 4 [#5] Floats & Fixed Positions",
+      "duration": 935
+    },
+    {
+      "id": "SX-M7yJARpg",
+      "title": "Bootstrap 4 [#6] Colors & Background",
+      "duration": 485
+    },
+    {
+      "id": "HBDzxu_oazc",
+      "title": "Bootstrap 4 [#7] Margin & Padding",
+      "duration": 1470
+    },
+    {
+      "id": "5tIDVuFOtpE",
+      "title": "Bootstrap 4 [#8] Width & Height",
+      "duration": 727
+    },
+    {
+      "id": "I2xKCd2MSA0",
+      "title": "Bootstrap 4 [#9] Media Queries",
+      "duration": 999
+    },
+    {
+      "id": "bvDjYEj5dGA",
+      "title": "Bootstrap 4 [#10] Buttons & Button Groups",
+      "duration": 1430
+    },
+    {
+      "id": "Jwi1F1ndwRY",
+      "title": "Bootstrap 4 [#11]  Navbar & Navs",
+      "duration": 2111
+    },
+    {
+      "id": "gVleD-9s14s",
+      "title": "Bootstrap 4 [#12] List Groups & Badges",
+      "duration": 812
+    },
+    {
+      "id": "Sbmw1MsRLhk",
+      "title": "Bootstrap 4 [#13] Forms & Input",
+      "duration": 1140
+    },
+    {
+      "id": "R_PRKYKd6uQ",
+      "title": "Bootstrap 4 [#14]  Input Groups & Addon",
+      "duration": 909
+    },
+    {
+      "id": "K-VvND4yPfE",
+      "title": "Bootstrap 4 [#15]  Alerts & Progress Bars",
+      "duration": 906
+    },
+    {
+      "id": "itGHfEZBF6Y",
+      "title": "Bootstrap 4 [#16] Tables & Pagination",
+      "duration": 773
+    },
+    {
+      "id": "LFuE1xm5eOs",
+      "title": "Bootstrap 4 [#17]  Cards",
+      "duration": 1899
+    },
+    {
+      "id": "odsTmpl4_ww",
+      "title": "Bootstrap 4 [#18]  Media Object",
+      "duration": 527
+    },
+    {
+      "id": "QqZDZYsvxX4",
+      "title": "Bootstrap 4 [#19] Grid System",
+      "duration": 1771
+    },
+    {
+      "id": "0mRqN1PNwIg",
+      "title": "Bootstrap 4 [#20] Grid Alignment",
+      "duration": 636
+    },
+    {
+      "id": "N91nLdCnWOg",
+      "title": "Bootstrap 4 [#21] Flexbox",
+      "duration": 1326
+    },
+    {
+      "id": "7dcJyFnzdbI",
+      "title": "Bootstrap 4 [#22] Auto Margin, Wrap & Ordering",
+      "duration": 482
+    },
+    {
+      "id": "9GayDGpePc4",
+      "title": "Bootstrap 4 [#23]  Carousel Slider",
+      "duration": 1482
+    },
+    {
+      "id": "yGn27prviuQ",
+      "title": "Bootstrap 4 [#24] Collapse & Accordion",
+      "duration": 625
+    },
+    {
+      "id": "WDEPyz6Ni6U",
+      "title": "Bootstrap 4 [#25] Tooltips",
+      "duration": 834
+    },
+    {
+      "id": "sgAlYsZc--c",
+      "title": "Bootstrap 4 [#26] Popovers",
+      "duration": 801
+    },
+    {
+      "id": "w7AJk9ed8sI",
+      "title": "Bootstrap 4 [#27] Modals",
+      "duration": 960
+    },
+    {
+      "id": "FvUDETTo1tM",
+      "title": "Bootstrap 4 [#28] Install NPM Dependencies",
+      "duration": 1411
+    },
+    {
+      "id": "2ONFwvizykA",
+      "title": "Bootstrap 4 [#29] Creating The Gulpfile",
+      "duration": 1809
+    },
+    {
+      "id": "etGrptGE7OU",
+      "title": "Bootstrap 4 [#30] Completing The Starter Pack",
+      "duration": 909
+    },
+    {
+      "id": "EdIPobdE-_0",
+      "title": "Bootstrap 4 [#31] Project 1.0 - LoopLAB [Setup & Navbar]",
+      "duration": 1671
+    },
+    {
+      "id": "BFX7V9UrOUU",
+      "title": "Bootstrap 4 [#32] Project 1.1 - LoopLAB [Home Section]",
+      "duration": 3380
+    },
+    {
+      "id": "F_dvw8dS4sY",
+      "title": "Bootstrap 4 [#33] Project 1.2 - LoopLAB [Explore Section]",
+      "duration": 1916
+    },
+    {
+      "id": "JXM6EK4bNsw",
+      "title": "Bootstrap 4 [#34] Project 1.3 - LoopLAB [Create Section]",
+      "duration": 1099
+    },
+    {
+      "id": "5qf_c3Mwq_A",
+      "title": "Bootstrap 4 [#35] Project 1.4 - LoopLAB [Share & Footer Section]",
+      "duration": 3220
+    },
+    {
+      "id": "YLndlvHxnCc",
+      "title": "Bootstrap 4 [#36] Project 2.0 - Mizuxe [Setup & Navbar]",
+      "duration": 1701
+    },
+    {
+      "id": "rjiwCPj6Sxo",
+      "title": "Bootstrap 4 [#37] Project 2.1 - Mizuxe [Showcase Section]",
+      "duration": 1428
+    },
+    {
+      "id": "FT_17pVoutg",
+      "title": "Bootstrap 4 [#38] Project 2.2 - Mizuxe [Subscribe & Boxes Section]",
+      "duration": 1225
+    },
+    {
+      "id": "JivaV1TiGd0",
+      "title": "Bootstrap 4 [#39] Project 2.3 - Mizuxe [About Section]",
+      "duration": 1154
+    },
+    {
+      "id": "06IdUVmdFbI",
+      "title": "Bootstrap 4 [#40] Project 2.4 - Mizuxe [Authors Section]",
+      "duration": 1634
+    },
+    {
+      "id": "lg5ZOc9vfJY",
+      "title": "Bootstrap 4 [#41] Project 2.5 - Mizuxe [Contact & Footer Section]",
+      "duration": 1786
+    },
+    {
+      "id": "w2UlydnxEnI",
+      "title": "Bootstrap 4 [#42] Project 3.0- Glozzom [Introduction]",
+      "duration": 289
+    },
+    {
+      "id": "ZbQ7JrgK9y4",
+      "title": "Bootstrap 4 [#43] Project 3.1 - Glozzom [Setup & Navbar]",
+      "duration": 1145
+    },
+    {
+      "id": "j3JYU1oY9Ns",
+      "title": "Bootstrap 4 [#44] Project 3.2 - Glozzom [Carousel Slider]",
+      "duration": 980
+    },
+    {
+      "id": "Ary1PUobX4o",
+      "title": "Bootstrap 4 [#45] Project 3.3 - Glozzom [Home Icon]",
+      "duration": 502
+    },
+    {
+      "id": "kvujDSEVdyM",
+      "title": "Bootstrap 4 [#46] Project 3.4 - Glozzom [Get Started Section]",
+      "duration": 682
+    },
+    {
+      "id": "78j5hwE2PLg",
+      "title": "Bootstrap 4 [#47] Project 3.5 - Glozzom [Info Section]",
+      "duration": 500
+    },
+    {
+      "id": "43rTanJhQqM",
+      "title": "Bootstrap 4 [#48] Project 3.6 - Glozzom [Lightbox Video Section]",
+      "duration": 883
+    },
+    {
+      "id": "-2owE04JdT4",
+      "title": "Bootstrap 4 [#49] Project 3.7 - Glozzom [Photo Gallery]",
+      "duration": 755
+    },
+    {
+      "id": "Fa2NF3j8bGA",
+      "title": "Bootstrap 4 [#50] Project 3.8 - Glozzom [Newsletter]",
+      "duration": 489
+    },
+    {
+      "id": "7aj51XHlsDQ",
+      "title": "Bootstrap 4 [#51] Project 3.9 - Glozzom [Copyright & Sticky]",
+      "duration": 703
+    },
+    {
+      "id": "BL8jXS-thp4",
+      "title": "Bootstrap 4 [#52] Project 3.10 - Glozzom [About Page Header]",
+      "duration": 650
+    },
+    {
+      "id": "5chvji1mdcM",
+      "title": "Bootstrap 4 [#53] Project 3.11 - Glozzom [About Info]",
+      "duration": 486
+    },
+    {
+      "id": "VOixofCSzBY",
+      "title": "Bootstrap 4 [#54] Project 3.12 - Glozzom [Icon Boxes]",
+      "duration": 606
+    },
+    {
+      "id": "F6SxKTx0cGQ",
+      "title": "Bootstrap 4 [#55] Project 3.13 - Glozzom [Testimonial]",
+      "duration": 1258
+    },
+    {
+      "id": "XGpBWkIPgpo",
+      "title": "Bootstrap 4 [#56] Project 3.14 - Glozzom [Services Page Header]",
+      "duration": 317
+    },
+    {
+      "id": "dPBh6gMbAy4",
+      "title": "Bootstrap 4 [#57] Project 3.15 - Glozzom [Services Section]",
+      "duration": 620
+    },
+    {
+      "id": "45svOPy8_VY",
+      "title": "Bootstrap 4 [#58] Project 3.16 - Glozzom [Services FAQ Section]",
+      "duration": 1048
+    },
+    {
+      "id": "FQAz0Yfo4nA",
+      "title": "Bootstrap 4 [#59] Project 3.17 - Glozzom [Blog Page]",
+      "duration": 646
+    },
+    {
+      "id": "wZ3cczRCVfI",
+      "title": "Bootstrap 4 [#60] Project 3.18 - Glozzom [Contact Page]",
+      "duration": 968
+    }
+  ]
+}

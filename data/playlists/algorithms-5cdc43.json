@@ -1,0 +1,430 @@
+{
+  "courseId": "algorithms-5cdc43",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:39:02.796Z",
+  "title": "Algorithms",
+  "channel": "Abdul Bari",
+  "videos": [
+    {
+      "id": "0IAPZzGSbME",
+      "title": "1. Introduction to Algorithms",
+      "duration": 709
+    },
+    {
+      "id": "-JTq1BFBwmo",
+      "title": "1.1 Priori Analysis and Posteriori Testing",
+      "duration": 108
+    },
+    {
+      "id": "FbYzBWdhMb0",
+      "title": "1.2 Characteristics of Algorithm",
+      "duration": 337
+    },
+    {
+      "id": "xGYsEqe9Vl0",
+      "title": "1.3 How Write and Analyze Algorithm",
+      "duration": 637
+    },
+    {
+      "id": "1U3Uwct45IY",
+      "title": "1.4 Frequency Count Method",
+      "duration": 742
+    },
+    {
+      "id": "9TlHvipP5yA",
+      "title": "1.5.1 Time Complexity #1",
+      "duration": 584
+    },
+    {
+      "id": "9SgLBjXqwd4",
+      "title": "1.5.2 Time Complexity Example #2",
+      "duration": 853
+    },
+    {
+      "id": "p1EnSvS3urU",
+      "title": "1.5.3 Time Complexity of While and if #3",
+      "duration": 1314
+    },
+    {
+      "id": "w7t4_JUUTeg",
+      "title": "1.6 Classes of functions",
+      "duration": 190
+    },
+    {
+      "id": "5v-tKX2uRAk",
+      "title": "1.7 Compare Class of Functions",
+      "duration": 311
+    },
+    {
+      "id": "A03oI0znAoc",
+      "title": "1.8.1 Asymptotic Notations Big Oh - Omega - Theta #1",
+      "duration": 946
+    },
+    {
+      "id": "Nd0XDY-jVHs",
+      "title": "1.8.2 Asymptotic Notations - Big Oh - Omega - Theta #2",
+      "duration": 607
+    },
+    {
+      "id": "NI4OKSvGAgM",
+      "title": "1.9 Properties of Asymptotic Notations",
+      "duration": 718
+    },
+    {
+      "id": "mwN18xfwNhk",
+      "title": "1.10.1 Comparison of Functions #1",
+      "duration": 568
+    },
+    {
+      "id": "WlBBTSL0ZRc",
+      "title": "1.10.2 Comparison of Functions #2",
+      "duration": 626
+    },
+    {
+      "id": "lj3E24nnPjI",
+      "title": "1.11 Best Worst and Average Case Analysis",
+      "duration": 1136
+    },
+    {
+      "id": "wU6udHRIkcc",
+      "title": "1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find",
+      "duration": 1564
+    },
+    {
+      "id": "2Rr2tW9zvRg",
+      "title": "2 Divide And Conquer",
+      "duration": 424
+    },
+    {
+      "id": "4V30R3I1vLI",
+      "title": "2.1.1 Recurrence Relation (T(n)= T(n-1) + 1) #1",
+      "duration": 823
+    },
+    {
+      "id": "IawM82BQ4II",
+      "title": "2.1.2 Recurrence Relation (T(n)= T(n-1) + n) #2",
+      "duration": 960
+    },
+    {
+      "id": "MhT7XmxhaCE",
+      "title": "2.1.3 Recurrence Relation (T(n)= T(n-1) + log n) #3",
+      "duration": 745
+    },
+    {
+      "id": "JvcqtZk2mng",
+      "title": "2.1.4 Recurrence Relation T(n)=2 T(n-1)+1  #4",
+      "duration": 642
+    },
+    {
+      "id": "CyknhZbfMqc",
+      "title": "2.2 Masters Theorem Decreasing Function",
+      "duration": 490
+    },
+    {
+      "id": "8gt0D0IqU5w",
+      "title": "2.3.1 Recurrence Relation Dividing Function T(n)=T(n/2)+1 #1",
+      "duration": 521
+    },
+    {
+      "id": "XcZw01FuH18",
+      "title": "2.3.2 Recurrence Relation Dividing [ T(n)=T(n/2)+ n].   #2",
+      "duration": 446
+    },
+    {
+      "id": "1K9ebQJosvo",
+      "title": "2.3.3 Recurrence Relation [ T(n)= 2T(n/2) +n]  #3",
+      "duration": 680
+    },
+    {
+      "id": "OynWkEj0S-s",
+      "title": "2.4.1 Masters Theorem in Algorithms for Dividing Function #1",
+      "duration": 1010
+    },
+    {
+      "id": "kGcO-nAm9Vc",
+      "title": "2.4.2 Examples for Master Theorem #2",
+      "duration": 341
+    },
+    {
+      "id": "9rVuyjxzwgM",
+      "title": "2.5 Root function (Recurrence Relation)",
+      "duration": 337
+    },
+    {
+      "id": "C2apEw9pgtw",
+      "title": "2.6.1 Binary Search Iterative Method",
+      "duration": 1176
+    },
+    {
+      "id": "uEUXGcc2VXM",
+      "title": "2.6.2 Binary Search Recursive Method",
+      "duration": 431
+    },
+    {
+      "id": "HqPJF2L5h9U",
+      "title": "2.6.3 Heap - Heap Sort - Heapify - Priority Queues",
+      "duration": 3068
+    },
+    {
+      "id": "6pV2IF0fgKY",
+      "title": "2.7.1  Two Way MergeSort - Iterative method",
+      "duration": 1219
+    },
+    {
+      "id": "mB5HXBb_HY8",
+      "title": "2.7.2.  Merge Sort Algorithm",
+      "duration": 1223
+    },
+    {
+      "id": "ak-pz7tS5DE",
+      "title": "2.7.3 MergeSort in-depth Analysis",
+      "duration": 808
+    },
+    {
+      "id": "7h1s2SojIRw",
+      "title": "2.8.1  QuickSort Algorithm",
+      "duration": 823
+    },
+    {
+      "id": "-qOVVRIZzao",
+      "title": "2.8.2 QuickSort Analysis",
+      "duration": 697
+    },
+    {
+      "id": "0oJyNmEbS4w",
+      "title": "2.9 Strassens Matrix Multiplication",
+      "duration": 1420
+    },
+    {
+      "id": "ARvQcqJ_-NY",
+      "title": "3. Greedy Method -  Introduction",
+      "duration": 722
+    },
+    {
+      "id": "oTTzNMHM05I",
+      "title": "3.1 Knapsack Problem - Greedy Method",
+      "duration": 930
+    },
+    {
+      "id": "zPtI8q9gvX8",
+      "title": "3.2 Job Sequencing with Deadlines - Greedy Method",
+      "duration": 809
+    },
+    {
+      "id": "HHIc5JZyenI",
+      "title": "3.3 Optimal Merge Pattern - Greedy Method",
+      "duration": 573
+    },
+    {
+      "id": "co4_ahEDCho",
+      "title": "3.4 Huffman Coding - Greedy Method",
+      "duration": 1053
+    },
+    {
+      "id": "4ZlRH0eK-qQ",
+      "title": "3.5 Prims and Kruskals Algorithms - Greedy Method",
+      "duration": 1212
+    },
+    {
+      "id": "XB4MIexjvY0",
+      "title": "3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method",
+      "duration": 1115
+    },
+    {
+      "id": "5dRGRueKU3M",
+      "title": "4 Principle  of Optimality  - Dynamic Programming introduction",
+      "duration": 892
+    },
+    {
+      "id": "9iE9Mj4m8jk",
+      "title": "4.1 MultiStage Graph - Dynamic Programming",
+      "duration": 1267
+    },
+    {
+      "id": "FcScLYJI42E",
+      "title": "4.1.1 MultiStage Graph (Program) - Dynamic Programming",
+      "duration": 866
+    },
+    {
+      "id": "oNI0rf2P9gE",
+      "title": "4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming",
+      "duration": 853
+    },
+    {
+      "id": "prx1psByp7U",
+      "title": "4.3 Matrix Chain Multiplication - Dynamic Programming",
+      "duration": 1380
+    },
+    {
+      "id": "_WncuhSJZyA",
+      "title": "[New] Matrix Chain Multiplication using Dynamic Programming Formula",
+      "duration": 3122
+    },
+    {
+      "id": "eKkXU3uu2zk",
+      "title": "4.3.1 Matrix Chain Multiplication (Program) - Dynamic Programming",
+      "duration": 1120
+    },
+    {
+      "id": "FtN3BYH2Zes",
+      "title": "4.4 Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming",
+      "duration": 1032
+    },
+    {
+      "id": "nLmhmB6NzcM",
+      "title": "4.5 0/1 Knapsack - Two Methods - Dynamic Programming",
+      "duration": 1704
+    },
+    {
+      "id": "zRza99HPvkQ",
+      "title": "4.5.1 0/1 Knapsack Problem (Program) - Dynamic Programming",
+      "duration": 1020
+    },
+    {
+      "id": "vLS-zRCHo-Y",
+      "title": "4.6 Optimal Binary Search Tree (Successful Search Only) - Dynamic Programming",
+      "duration": 1819
+    },
+    {
+      "id": "wAy6nDMPYAE",
+      "title": "4.6.2 [New] Optimal Binary Search Tree Successful and Unsuccessful Probability - Dynamic Programming",
+      "duration": 3420
+    },
+    {
+      "id": "Q4zHb-Swzro",
+      "title": "4.7 [New] Traveling Salesman Problem - Dynamic Programming using Formula",
+      "duration": 1038
+    },
+    {
+      "id": "uJOmqBwENB8",
+      "title": "4.8 Reliability Design - Dynamic Programming",
+      "duration": 1592
+    },
+    {
+      "id": "sSno9rV8Rhg",
+      "title": "4.9 Longest Common Subsequence (LCS)  - Recursion and Dynamic Programming",
+      "duration": 1415
+    },
+    {
+      "id": "pcKY4hjDrxk",
+      "title": "5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search",
+      "duration": 1111
+    },
+    {
+      "id": "jFZsDDB0-vo",
+      "title": "5.2 Articulation Point and Biconnected Components",
+      "duration": 517
+    },
+    {
+      "id": "DKCbsiDBN6c",
+      "title": "6 Introduction to Backtracking - Brute Force Approach",
+      "duration": 495
+    },
+    {
+      "id": "xFv_Hl4B83A",
+      "title": "6.1 N Queens Problem using Backtracking",
+      "duration": 821
+    },
+    {
+      "id": "kyLxTdsT8ws",
+      "title": "6.2 Sum Of Subsets Problem - Backtracking",
+      "duration": 739
+    },
+    {
+      "id": "052VkKhIaQ4",
+      "title": "6.3 Graph Coloring Problem - Backtracking",
+      "duration": 952
+    },
+    {
+      "id": "dQr4wZCiJJ4",
+      "title": "6.4 Hamiltonian Cycle - Backtracking",
+      "duration": 1115
+    },
+    {
+      "id": "3RBNPc0_Q6g",
+      "title": "7 Branch and Bound Introduction",
+      "duration": 580
+    },
+    {
+      "id": "M7Fl_z7_J2k",
+      "title": "7.1 Job Sequencing with Deadline - Branch and Bound",
+      "duration": 656
+    },
+    {
+      "id": "yV1d-b_NeK8",
+      "title": "7.2 0/1 Knapsack using Branch and Bound",
+      "duration": 648
+    },
+    {
+      "id": "1FEP_sNb62k",
+      "title": "7.3 Traveling Salesman Problem - Branch and Bound",
+      "duration": 1482
+    },
+    {
+      "id": "e2cF8a5aAhE",
+      "title": "8. NP-Hard and NP-Complete Problems",
+      "duration": 1913
+    },
+    {
+      "id": "qZs767KQcvE",
+      "title": "8.1 NP-Hard Graph Problem - Clique Decision Problem",
+      "duration": 1034
+    },
+    {
+      "id": "V5-7GzOfADQ",
+      "title": "9.1 Knuth-Morris-Pratt KMP String Matching Algorithm",
+      "duration": 1136
+    },
+    {
+      "id": "qQ8vS2btsxI",
+      "title": "9.2 Rabin-Karp String Matching Algorithm",
+      "duration": 1430
+    },
+    {
+      "id": "jDM6_TnYIqE",
+      "title": "10.1 AVL Tree - Insertion and Rotations",
+      "duration": 2588
+    },
+    {
+      "id": "aZjYr87r1b8",
+      "title": "10.2  B Trees and B+ Trees. How they are useful in Databases",
+      "duration": 2381
+    },
+    {
+      "id": "ddsP7NecEBk",
+      "title": "Asymptotic Notations - Simplified",
+      "duration": 1364
+    },
+    {
+      "id": "mFY0J5W8Udk",
+      "title": "Hashing Technique - Simplified",
+      "duration": 1024
+    },
+    {
+      "id": "2raV0H9KqY8",
+      "title": "Shortest Path Algorithms (Dijkstra and Bellman-Ford)  - Simplified",
+      "duration": 1573
+    },
+    {
+      "id": "kyUpc_5705s",
+      "title": "BFS DFS - Simplified",
+      "duration": 1153
+    },
+    {
+      "id": "q6RicK1FCUs",
+      "title": "Tower of Hanoi Problem - Made Easy",
+      "duration": 572
+    },
+    {
+      "id": "MJZd6uPi88E",
+      "title": "Row-Major and Column-Major Mapping",
+      "duration": 1156
+    },
+    {
+      "id": "zXhWPrMLXGo",
+      "title": "Merge Sort Algorithm - Hindi",
+      "duration": 998
+    }
+  ]
+}

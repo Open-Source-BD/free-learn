@@ -1,0 +1,250 @@
+{
+  "courseId": "data-build-tool-dbt-061dee",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:45:42.015Z",
+  "title": "dbt (data-build-tool)",
+  "channel": "Kahan Data Solutions",
+  "videos": [
+    {
+      "id": "5rNquRnNb4E",
+      "title": "Intro to Data Build Tool (dbt)  // Create your first project!",
+      "duration": 895
+    },
+    {
+      "id": "qOx8l_QFz9I",
+      "title": "5 Tips to Improve Your dbt Project",
+      "duration": 493
+    },
+    {
+      "id": "Y03CsVDK69Y",
+      "title": "Add raw \"sources\" to your dbt project",
+      "duration": 643
+    },
+    {
+      "id": "CbhobcWZ3Hk",
+      "title": "How does dbt actually compile queries?",
+      "duration": 183
+    },
+    {
+      "id": "AvrVQr5FHwk",
+      "title": "Deploy to custom schemas & override dbt defaults",
+      "duration": 401
+    },
+    {
+      "id": "aCZUiCzoJt4",
+      "title": "How to test and debug your dbt models",
+      "duration": 367
+    },
+    {
+      "id": "zpACZu31154",
+      "title": "Change the materialization (aka how dbt models deploy)",
+      "duration": 281
+    },
+    {
+      "id": "gTnS5YQyELI",
+      "title": "Package management and dbt Hub // packages.yml",
+      "duration": 172
+    },
+    {
+      "id": "sfKXR612p_I",
+      "title": "View your dbt documentation as a website",
+      "duration": 221
+    },
+    {
+      "id": "CWetaAaEdKw",
+      "title": "Use dbt Seeds to work with static CSV data",
+      "duration": 309
+    },
+    {
+      "id": "dn6FiXlzO8U",
+      "title": "Create custom tests or override defaults",
+      "duration": 500
+    },
+    {
+      "id": "mtore826Ovs",
+      "title": "Add dbt project variables & use them in models",
+      "duration": 313
+    },
+    {
+      "id": "8n-JFq8Uj9c",
+      "title": "Use hooks to simplify repetitive dbt run activities",
+      "duration": 426
+    },
+    {
+      "id": "lcBD8qncQKk",
+      "title": "Simplify dbt documentation with docs blocks",
+      "duration": 335
+    },
+    {
+      "id": "JHpLfcFOe90",
+      "title": "How to monitor your source freshness in dbt",
+      "duration": 455
+    },
+    {
+      "id": "e2-AfNvq2Ts",
+      "title": "How to use Snowflake query tags in dbt",
+      "duration": 165
+    },
+    {
+      "id": "9SI10BSd5W4",
+      "title": "Use the dbt \"state\" method to only run modified models",
+      "duration": 308
+    },
+    {
+      "id": "yGjrKnm4DNk",
+      "title": "The multi-repo approach // how to structure dbt projects",
+      "duration": 406
+    },
+    {
+      "id": "HGeSL4iRFC0",
+      "title": "Audit your dbt runs by using {{ invocation_id }}",
+      "duration": 268
+    },
+    {
+      "id": "SfWr9n6qTHs",
+      "title": "Install dbt in a virtual environment // best practice",
+      "duration": 230
+    },
+    {
+      "id": "sW2oXYfG_o0",
+      "title": "How to \"clean\" your dbt project files",
+      "duration": 213
+    },
+    {
+      "id": "ruXJgSLui7w",
+      "title": "An EASY way to run/test models in groups",
+      "duration": 365
+    },
+    {
+      "id": "Lw8K9BML6jQ",
+      "title": "How do EPHEMERAL dbt models work?",
+      "duration": 299
+    },
+    {
+      "id": "YbIu1wnlnUY",
+      "title": "Handle JSON with dbt // jinja & macros",
+      "duration": 1016
+    },
+    {
+      "id": "qxFxOBPyZNY",
+      "title": "How to use ONE dbt project for all environments",
+      "duration": 443
+    },
+    {
+      "id": "eXYlHtI1_zM",
+      "title": "How to use the dbt \"analyses\" directory",
+      "duration": 340
+    },
+    {
+      "id": "SVvRP8CS0qY",
+      "title": "A simple 4-step process for creating dbt models",
+      "duration": 266
+    },
+    {
+      "id": "wxUXl_RZtnA",
+      "title": "How to use managed repos on dbt Cloud",
+      "duration": 319
+    },
+    {
+      "id": "vhq8g_r6bpA",
+      "title": "Intro to dbt Cloud // Use Free for Life",
+      "duration": 799
+    },
+    {
+      "id": "2ZDs_3ja7WY",
+      "title": "3 Time-Saving dbt Cloud Features (for free)",
+      "duration": 253
+    },
+    {
+      "id": "_wqtEmFCGN8",
+      "title": "How to use Exposures in dbt",
+      "duration": 406
+    },
+    {
+      "id": "pkLqiWQcpm0",
+      "title": "How to use dbt Operators to run dynamic commands",
+      "duration": 465
+    },
+    {
+      "id": "9x5EBQk2P5Q",
+      "title": "dbt Project Naming Conventions (recommended approach)",
+      "duration": 430
+    },
+    {
+      "id": "SNtM_RUa5G4",
+      "title": "How to use dbt Snapshots to track data history",
+      "duration": 654
+    },
+    {
+      "id": "1sB90GFH488",
+      "title": "dbt Environments vs Targets | What's the Difference?",
+      "duration": 621
+    },
+    {
+      "id": "19HbdyPb90M",
+      "title": "dbt & Reverse ETL | Census Integration & CI Checks",
+      "duration": 428
+    },
+    {
+      "id": "XfoEF4VAB3U",
+      "title": "What are \"intermediate\" models in dbt?",
+      "duration": 507
+    },
+    {
+      "id": "0WsZjhYX6xM",
+      "title": "How to Run Queries from the Terminal (dbt Show Command)",
+      "duration": 276
+    },
+    {
+      "id": "-9RzZRkHay4",
+      "title": "How to Build Incremental Models | dbt tutorial",
+      "duration": 651
+    },
+    {
+      "id": "dXSQHvyOh58",
+      "title": "How to Use Jinja w/ dbt Macros (3 Examples)",
+      "duration": 694
+    },
+    {
+      "id": "2puVz_1np48",
+      "title": "The Power of Naming in Data Projects (especially dbt)",
+      "duration": 538
+    },
+    {
+      "id": "5KWP15l1XVw",
+      "title": "SQL vs dbt Models (& the value of CTEs)",
+      "duration": 248
+    },
+    {
+      "id": "QwY5PpDP0iI",
+      "title": "dbt vs Stored Procedures (3 key differences)",
+      "duration": 627
+    },
+    {
+      "id": "p-j-dcmOOqs",
+      "title": "Creating a Data Model w/ dbt: Dimensions (Part 1/3)",
+      "duration": 846
+    },
+    {
+      "id": "SGMnsP7M3Tc",
+      "title": "Creating a Data Model w/ dbt: Facts (Part 2/3)",
+      "duration": 520
+    },
+    {
+      "id": "qBGA9Yy2PY0",
+      "title": "Creating a Data Model w/ dbt: Tests (Part 3/3)",
+      "duration": 330
+    },
+    {
+      "id": "tvIJqHAucU0",
+      "title": "Data Architecture w/ dbt: Putting It All Together",
+      "duration": 542
+    },
+    {
+      "id": "qJfDGi7Lrac",
+      "title": "The Modern Data Viewpoint (3 Principles)",
+      "duration": 523
+    }
+  ]
+}

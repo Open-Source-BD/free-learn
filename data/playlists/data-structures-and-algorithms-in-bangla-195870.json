@@ -1,0 +1,225 @@
+{
+  "courseId": "data-structures-and-algorithms-in-bangla-195870",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:06:22.365Z",
+  "title": "Data Structures and Algorithms in Bangla",
+  "channel": "Tamim Shahriar (Subeen)",
+  "videos": [
+    {
+      "id": "Mz9BlmST31w",
+      "title": "ডেটা স্ট্রাকচার ও অ্যালগরিদম",
+      "duration": 229
+    },
+    {
+      "id": "bfB4YN_4Vyo",
+      "title": "টাইম কমপ্লেক্সিটি - ১ (time complexity - 1)",
+      "duration": 1368
+    },
+    {
+      "id": "aNpBA0SgL0c",
+      "title": "টাইম কমপ্লেক্সিটি - ২ (time complexity - 2)",
+      "duration": 251
+    },
+    {
+      "id": "DC-1dIY2fBE",
+      "title": "স্পেস কমপ্লেক্সিটি (space complexity)",
+      "duration": 674
+    },
+    {
+      "id": "IbV2eELjP2k",
+      "title": "লিনিয়ার সার্চ - linear search",
+      "duration": 591
+    },
+    {
+      "id": "NMC6ltspWys",
+      "title": "বাইনারি সার্চ - binary search",
+      "duration": 1123
+    },
+    {
+      "id": "qHmByz1YvQs",
+      "title": "সিলেকশন সর্ট - Selection Sort",
+      "duration": 1004
+    },
+    {
+      "id": "ZUI0VQ9JvDw",
+      "title": "বাবল সর্ট - Bubble Sort",
+      "duration": 830
+    },
+    {
+      "id": "aBi8ptRBWY8",
+      "title": "Insertion Sort - Bangla Video",
+      "duration": 1133
+    },
+    {
+      "id": "-8JxL-dXg6w",
+      "title": "স্ট্যাক - Stack",
+      "duration": 1259
+    },
+    {
+      "id": "IFWHj7_OW2k",
+      "title": "কিউ - Queue",
+      "duration": 1509
+    },
+    {
+      "id": "k3wD1KtP8EE",
+      "title": "লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা",
+      "duration": 960
+    },
+    {
+      "id": "rBc-CApEe3s",
+      "title": "Linked List 2",
+      "duration": 984
+    },
+    {
+      "id": "VLd6EnfUuWU",
+      "title": "লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা",
+      "duration": 872
+    },
+    {
+      "id": "XLBBmEUILi4",
+      "title": "লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা",
+      "duration": 177
+    },
+    {
+      "id": "kyuPR9SqvDY",
+      "title": "লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট",
+      "duration": 332
+    },
+    {
+      "id": "DKpe5gsySag",
+      "title": "লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য",
+      "duration": 445
+    },
+    {
+      "id": "0I1JVXbHpec",
+      "title": "ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা",
+      "duration": 611
+    },
+    {
+      "id": "Rz93CQd7jXc",
+      "title": "ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়?",
+      "duration": 310
+    },
+    {
+      "id": "cCnYkrZbsAg",
+      "title": "বাইনারি ট্রি (Binary Tree) ১ - বাইনারি ট্রি-এর বৈশিষ্ট্য",
+      "duration": 547
+    },
+    {
+      "id": "p0ltqTz93Nk",
+      "title": "বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল - Binary Tree Preorder Traversal",
+      "duration": 426
+    },
+    {
+      "id": "zd5ayCGPQXA",
+      "title": "বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল - Binary Tree Postorder Traversal",
+      "duration": 427
+    },
+    {
+      "id": "D9cvhd-jPGs",
+      "title": "Binary Tree Inorder Traversal",
+      "duration": 479
+    },
+    {
+      "id": "mWuk56Aa6xw",
+      "title": "মার্জ সর্ট - ১ (Merge Sort - 1) - অ্যালগরিদম",
+      "duration": 737
+    },
+    {
+      "id": "-UzllqjFHW8",
+      "title": "মার্জ সর্ট - ২ (Merge Sort - 2) - সি দিয়ে ইমপ্লিমেন্টেশন",
+      "duration": 486
+    },
+    {
+      "id": "g63rwGXC720",
+      "title": "মার্জ সর্ট - ৩ (Merge Sort - 3) - স্পেস ও টাইম কমপ্লেক্সিটি",
+      "duration": 617
+    },
+    {
+      "id": "PmlfVdY_XjI",
+      "title": "কুইক সর্ট ১ - অ্যালগরিদম (Quick Sort Algorithm)",
+      "duration": 611
+    },
+    {
+      "id": "kwG0C2Lv-fQ",
+      "title": "কুইক সর্ট ২ - পার্টিশন (Quick Sort Partition)",
+      "duration": 791
+    },
+    {
+      "id": "MbO_N_7xSD0",
+      "title": "কুইক সর্ট ৩ - কমপ্লেক্সিটি (Quick Sort Complexity)",
+      "duration": 506
+    },
+    {
+      "id": "m7x0GETKPaU",
+      "title": "হিপ - ১ (Heap - 1) - হিপ ডেটা স্ট্রাকচার",
+      "duration": 623
+    },
+    {
+      "id": "8Kwh0WgO_TU",
+      "title": "হিপ - ২ (Heap - 2) - হিপ তৈরি করা",
+      "duration": 1128
+    },
+    {
+      "id": "FibnepuyOLY",
+      "title": "হিপ - ৩ (Heap 3) - হিপসর্ট",
+      "duration": 638
+    },
+    {
+      "id": "v0tzjgW0i8E",
+      "title": "প্রায়োরিটি কিউ - (Priority Queue)",
+      "duration": 821
+    },
+    {
+      "id": "FpekDm8ztVA",
+      "title": "Binary Search Tree - 1 - Basic Concepts",
+      "duration": 432
+    },
+    {
+      "id": "PrHoIGnU3c0",
+      "title": "বাইনারি সার্চ ট্রি - ২ (Binary Search Tree - 2) - সার্চ করা",
+      "duration": 557
+    },
+    {
+      "id": "IAHqCl5b4fE",
+      "title": "বাইনারি সার্চ ট্রি - ৩ (Binary Search Tree - 3) - ইনসার্ট করা",
+      "duration": 714
+    },
+    {
+      "id": "F2uwPe3GaVU",
+      "title": "বাইনারি সার্চ ট্রি - ৪ (Binary Search Tree - 4) - ডিলিট করা",
+      "duration": 1386
+    },
+    {
+      "id": "MP6Ep0aCYHs",
+      "title": "হ্যাশ টেবিল - ১ (Hash Table) - উদাহরণ",
+      "duration": 262
+    },
+    {
+      "id": "RSR3BofKK3Q",
+      "title": "হ্যাশ টেবিল - ২ (Hash Table) - হ্যাশ ফাংশন",
+      "duration": 414
+    },
+    {
+      "id": "ZkT9H8R4WaM",
+      "title": "হ্যাশ টেবিল - ৩ (Hash Table) - কলিশন",
+      "duration": 834
+    },
+    {
+      "id": "VMS8xd_xLGg",
+      "title": "হ্যাশ টেবিল - ৪ (Hash Table) - হ্যাশ টেবিলের অ্যানিমেশন",
+      "duration": 695
+    },
+    {
+      "id": "KdZZvSNR53s",
+      "title": "গ্রাফ পরিচিতি - (Introduction to Graph)",
+      "duration": 434
+    },
+    {
+      "id": "xu8Uqiqq2BA",
+      "title": "গ্রাফ ডেটা স্ট্রাকচার - Graph Data Structure",
+      "duration": 811
+    }
+  ]
+}

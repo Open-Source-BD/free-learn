@@ -1,0 +1,290 @@
+{
+  "courseId": "react-js-tutorial-bangla-series-for-beginners-1f1682",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:10:26.046Z",
+  "title": "React JS Tutorial Bangla Series for Beginners | Think in a React way",
+  "channel": "Learn with Sumit - LWS - Bangladesh",
+  "videos": [
+    {
+      "id": "5Xy-t8k_M4A",
+      "title": "#1 What is React and How it works - React Tutorial Bangla Series",
+      "duration": 1687
+    },
+    {
+      "id": "2C5834qx0sA",
+      "title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "duration": 2152
+    },
+    {
+      "id": "ii8GaRjRoNI",
+      "title": "#3 [Deprecated] ESLint, Formatting with Prettier & Project Setup - React Tutorial Bangla Series",
+      "duration": 1665
+    },
+    {
+      "id": "DOC3MyuuWhM",
+      "title": "How to install React in 2023 - new react.dev Website",
+      "duration": 960
+    },
+    {
+      "id": "-oGMwOOHFyk",
+      "title": "#4 React Prerequisites - React শিখতে কি কি জানা প্রয়োজন - React Tutorial Bangla Series",
+      "duration": 617
+    },
+    {
+      "id": "Uj-Bt0pWEP4",
+      "title": "#5 React JSX Element & Rendering Elements -  React Tutorial Bangla Series",
+      "duration": 1792
+    },
+    {
+      "id": "xVx5VqfX75Q",
+      "title": "#6  React Components and Props Core Concept  - React Tutorial Bangla Series",
+      "duration": 2176
+    },
+    {
+      "id": "CzyspyBe7rk",
+      "title": "#7 React State & Lifecycle in Class Component - React Tutorial Bangla Series",
+      "duration": 2460
+    },
+    {
+      "id": "QLxjMwVu0xY",
+      "title": "#8 React Event Handling & Control Re Rendering - React Tutorial Bangla Series",
+      "duration": 3833
+    },
+    {
+      "id": "k_q-SCeYLJU",
+      "title": "#9 React Conditional Rendering, List and Keys - React Tutorial Bangla Series",
+      "duration": 2325
+    },
+    {
+      "id": "hbLTt10nhOA",
+      "title": "#10 React Form Handling - Controlled vs Uncontrolled Component- React Tutorial Bangla Series",
+      "duration": 2650
+    },
+    {
+      "id": "v7UpjUQJjWY",
+      "title": "#11 React Lifting State Up - React Tutorial Bangla Series",
+      "duration": 3247
+    },
+    {
+      "id": "X0L0oHli4Ss",
+      "title": "#12 React Composition vs Inheritance - React Tutorial Bangla Series",
+      "duration": 2372
+    },
+    {
+      "id": "Tz1JhhWlJvA",
+      "title": "#13 React Higher Order Components (HOC) - React Tutorial Bangla Series",
+      "duration": 1332
+    },
+    {
+      "id": "_cXDtc4Mjqo",
+      "title": "#14 React Render Props - React Tutorial Bangla Series",
+      "duration": 1765
+    },
+    {
+      "id": "dl3oo2YFYac",
+      "title": "#15 React Context API - What is Context API - Why Context API - React Tutorial Bangla Series",
+      "duration": 883
+    },
+    {
+      "id": "uNGzqgeFQZc",
+      "title": "#16 React Context API - How to use React Context API - React Tutorial Bangla Series",
+      "duration": 1425
+    },
+    {
+      "id": "ibka_018IFI",
+      "title": "#17 React Context API - contextType & useContext hook - React Tutorial Bangla Series",
+      "duration": 1610
+    },
+    {
+      "id": "HHttzJuecas",
+      "title": "#18 React Hooks Bangla - What is React Hook - React Hook Introduction - React Tutorial Bangla Series",
+      "duration": 2182
+    },
+    {
+      "id": "6tni9ZhMcPM",
+      "title": "#19 React Hooks Bangla - React useState hook Bangla - React Tutorial Bangla Series",
+      "duration": 2474
+    },
+    {
+      "id": "vVwCyii5GJk",
+      "title": "#20 React Hooks Bangla - React useEffect hook Bangla - React Tutorial Bangla Series",
+      "duration": 2237
+    },
+    {
+      "id": "iZHNf6MXhFM",
+      "title": "#21 React Hooks Bangla - React useCallback & useMemo hook Bangla - React Tutorial Bangla Series",
+      "duration": 1611
+    },
+    {
+      "id": "sXkyogEPiqQ",
+      "title": "#22 React Hooks Bangla - React useRef hook Bangla - React Tutorial Bangla Series",
+      "duration": 1614
+    },
+    {
+      "id": "BNB-Q5yI-_o",
+      "title": "#23 React Hooks Bangla - React useReducer hook Bangla - React Tutorial Bangla Series",
+      "duration": 4039
+    },
+    {
+      "id": "CALpSpnlef0",
+      "title": "#24 React Hooks Bangla - React custom hook Bangla Tutorial - React Tutorial Bangla Series",
+      "duration": 1620
+    },
+    {
+      "id": "WUBBGU-IILw",
+      "title": "#25 Styling React Components - Stylesheets Inline Style & CSS Modules - React Tutorial Bangla Series",
+      "duration": 1715
+    },
+    {
+      "id": "RqwnR2osQqc",
+      "title": "#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series",
+      "duration": 3222
+    },
+    {
+      "id": "vOdW8JsmB5c",
+      "title": "#27 [Deprecated] React Router DOM Complete Guide - React Tutorial Bangla Series",
+      "duration": 2698
+    },
+    {
+      "id": "W3zMJxCUJAA",
+      "title": "#28 React Project Tutorial - Quiz Application with Firebase - Part 1",
+      "duration": 505
+    },
+    {
+      "id": "BIsKWtNmFs0",
+      "title": "#29 React Project Tutorial - Quiz Application with Firebase - Part 2",
+      "duration": 444
+    },
+    {
+      "id": "KkF0xaMFoJY",
+      "title": "#30 React Project Tutorial - Quiz Application with Firebase - Part 3",
+      "duration": 655
+    },
+    {
+      "id": "xuhlsOVVfks",
+      "title": "#31 React Project Tutorial - Quiz Application with Firebase - Part 4",
+      "duration": 1492
+    },
+    {
+      "id": "S27o8rIy3dk",
+      "title": "#32 React Project Tutorial - Quiz Application with Firebase - Part 5",
+      "duration": 1721
+    },
+    {
+      "id": "wGBOvtLixCU",
+      "title": "#33 React Project Tutorial - Quiz Application with Firebase - Part 6",
+      "duration": 1305
+    },
+    {
+      "id": "YTQYTkrEU9M",
+      "title": "#34 React Project Tutorial - Quiz Application with Firebase - Part 7",
+      "duration": 653
+    },
+    {
+      "id": "QztelPPR0-0",
+      "title": "#35 React Project Tutorial - Quiz Application with Firebase - Part 8",
+      "duration": 546
+    },
+    {
+      "id": "4E1BGGhoInY",
+      "title": "#36 React Project Tutorial - Quiz Application with Firebase - Part 9",
+      "duration": 2253
+    },
+    {
+      "id": "0pdBa8dVqNQ",
+      "title": "#37 React Project Tutorial - Quiz Application with Firebase - Part 10",
+      "duration": 1892
+    },
+    {
+      "id": "IeFpqc0I-fk",
+      "title": "#38 React Project Tutorial - Quiz Application with Firebase - Part 11",
+      "duration": 701
+    },
+    {
+      "id": "jCZrhX3zKHk",
+      "title": "#39 React Project Tutorial - Quiz Application with Firebase - Part 12",
+      "duration": 3234
+    },
+    {
+      "id": "KcSgAFZqIK0",
+      "title": "#40 React Project Tutorial - Quiz Application with Firebase - Part 13",
+      "duration": 3780
+    },
+    {
+      "id": "fdG2pq5hQYY",
+      "title": "#41 React Project Tutorial - Quiz Application with Firebase - Part 14",
+      "duration": 1916
+    },
+    {
+      "id": "ngXw9L-j9AI",
+      "title": "#42 React Project Tutorial - Quiz Application with Firebase - Part 15",
+      "duration": 1204
+    },
+    {
+      "id": "apU72laFS68",
+      "title": "#43 React Project Tutorial - Quiz Application with Firebase - Part 16",
+      "duration": 1661
+    },
+    {
+      "id": "Zxi30kuC42k",
+      "title": "#44 React Project Tutorial - Quiz Application with Firebase - Part 17",
+      "duration": 927
+    },
+    {
+      "id": "34tjWL9wi4g",
+      "title": "#45 React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "duration": 2139
+    },
+    {
+      "id": "99RWZsEITx4",
+      "title": "#46 React Router v6 Private Route Tutorial",
+      "duration": 1711
+    },
+    {
+      "id": "K8pzpxfES4U",
+      "title": "React 18 new features - What's new in React",
+      "duration": 998
+    },
+    {
+      "id": "6O4s7v28nlw",
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "duration": 2684
+    },
+    {
+      "id": "7exOfIAKuWU",
+      "title": "4 ways to fetch fetch data from API in React (Bangla) | fetch axios swr and react-query",
+      "duration": 2225
+    },
+    {
+      "id": "oeYnAFrAuVQ",
+      "title": "Master React State Management with Preact Signals | Step-by-Step Tutorial",
+      "duration": 1279
+    },
+    {
+      "id": "GHriWlXHiwE",
+      "title": "React Developer Roadmap 2024 - Beginner to Advanced",
+      "duration": 1896
+    },
+    {
+      "id": "-AtfFUeeuIs",
+      "title": "React 19 new Features - What's new in React 19",
+      "duration": 5491
+    },
+    {
+      "id": "qhll3DXuLHI",
+      "title": "React Redux Crash Course with Redux Toolkit",
+      "duration": 5857
+    },
+    {
+      "id": "SQxJRPQK0KI",
+      "title": "Importance of legacy React.js code in Job Market",
+      "duration": 1263
+    },
+    {
+      "id": "XV_AfYgzx6g",
+      "title": "Reactive Accelerator - Batch 2 - Bangla React and Next.js Course by Learn with Sumit",
+      "duration": 403
+    }
+  ]
+}

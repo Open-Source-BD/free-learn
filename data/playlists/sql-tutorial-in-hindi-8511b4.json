@@ -1,0 +1,115 @@
+{
+  "courseId": "sql-tutorial-in-hindi-8511b4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:19.200Z",
+  "title": "SQL Tutorial In Hindi",
+  "channel": "Rishabh Mishra",
+  "videos": [
+    {
+      "id": "yH1zCq-iaeU",
+      "title": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1",
+      "duration": 432
+    },
+    {
+      "id": "HmH-76_2Ak8",
+      "title": "Data Types, Primary-Foreign Keys & Constraints in SQL | SQL Tutorial In Hindi 2",
+      "duration": 505
+    },
+    {
+      "id": "E-Qn2tbcmDE",
+      "title": "how to install postgresql and pgadmin4",
+      "duration": 327
+    },
+    {
+      "id": "v-2cIUgx_jw",
+      "title": "Create Table In SQL & Create Database | SQL Tutorial In Hindi 3",
+      "duration": 529
+    },
+    {
+      "id": "4YAAgrm8_ZI",
+      "title": "INSERT UPDATE, DELETE & ALTER Table in SQL With Example | SQL Tutorial in Hindi 4",
+      "duration": 376
+    },
+    {
+      "id": "eiLqDeDp7Oc",
+      "title": "SELECT Statement & WHERE Clause with Example | Operators in SQL | SQL Tutorial in Hindi 5",
+      "duration": 432
+    },
+    {
+      "id": "rfWYbMd3ApA",
+      "title": "How To Import Excel File (CSV) to SQL | Import Data From File | SQL Tutorial in Hindi 6",
+      "duration": 206
+    },
+    {
+      "id": "55_UN5gVARs",
+      "title": "String Functions in SQL | Functions in SQL | SQL Tutorial in Hindi 7",
+      "duration": 451
+    },
+    {
+      "id": "9NfthspfXEo",
+      "title": "Aggregate Functions in SQL - COUNT, SUM, AVG, MAX, MIN | SQL Tutorial in Hindi 8",
+      "duration": 300
+    },
+    {
+      "id": "SvJLXj05cow",
+      "title": "Group By and Having Clause in SQL | SQL Tutorial in Hindi 9",
+      "duration": 637
+    },
+    {
+      "id": "kwGh6XvLrEk",
+      "title": "TimeStamp and Extract Function | Date Time Function |  SQL Tutorial in Hindi 10",
+      "duration": 422
+    },
+    {
+      "id": "H6988OpZKTU",
+      "title": "Complete SQL JOINS For Beginners | SQL JOIN Queries with Examples | SQL Tutorial in Hindi 11",
+      "duration": 1245
+    },
+    {
+      "id": "V3xjmBi1QQE",
+      "title": "SQL SELF JOIN | UNION & UNION ALL in SQL | SQL Tutorial in Hindi 12",
+      "duration": 499
+    },
+    {
+      "id": "5O2OuN1ougU",
+      "title": "Complete SQL Subquery Using Comparison and Logical Operators | SQL Tutorial in Hindi 13",
+      "duration": 700
+    },
+    {
+      "id": "S1do1EeA7ng",
+      "title": "SQL Window Function with Example- RANK, DENSE RANK, ROW NUMBER, LEAD/LAG | SQL Tutorial in Hindi 14",
+      "duration": 1281
+    },
+    {
+      "id": "n_0kijUi7IA",
+      "title": "SQL Case Statement/Expression with Examples | WHEN THEN ELSE in sql | SQL Tutorial in Hindi 15",
+      "duration": 535
+    },
+    {
+      "id": "WHBH0yz35_8",
+      "title": "SQL WITH Clause with examples | SQL CTE (Common Table Expression) | SQL Tutorial in Hindi 16",
+      "duration": 681
+    },
+    {
+      "id": "Rp3EcF9nx6U",
+      "title": "Recursive CTE | Recursive SQL Queries | SQL Tutorial in Hindi 17",
+      "duration": 990
+    },
+    {
+      "id": "VFIuIjswMKM",
+      "title": "Data Analyst Portfolio Project - Music Store Data Analysis Project using SQL",
+      "duration": 2703
+    },
+    {
+      "id": "9gHIiuyySws",
+      "title": "Most Asked SQL Interview Question - Solved Using 3 Methods",
+      "duration": 891
+    },
+    {
+      "id": "5JFrzN6r1KI",
+      "title": "Solve SQL Interview Questions for Data Analyst - Product Based Company Job Interview",
+      "duration": 920
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "courseId": "unity-beginner-tutorials-4523f1",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:49:14.957Z",
+  "title": "Unity Beginner Tutorials",
+  "channel": "Brackeys",
+  "videos": [
+    {
+      "id": "j48LtUkZRjU",
+      "title": "How to make a Video Game - Getting Started (Unity)",
+      "duration": 201
+    },
+    {
+      "id": "IlKaB1etrik",
+      "title": "How to make a Video Game in Unity - BASICS (E01)",
+      "duration": 686
+    },
+    {
+      "id": "9ZEu_I-ido4",
+      "title": "How to make a Video Game in Unity - PROGRAMMING (E02)",
+      "duration": 611
+    },
+    {
+      "id": "Au8oX5pu5u4",
+      "title": "How to make a Video Game in Unity - MOVEMENT (E03)",
+      "duration": 537
+    },
+    {
+      "id": "HVB6UVcb3f8",
+      "title": "How to make a Video Game in Unity - CAMERA FOLLOW (E04)",
+      "duration": 401
+    },
+    {
+      "id": "gAB64vfbrhI",
+      "title": "How to make a Video Game in Unity - COLLISION (E05)",
+      "duration": 468
+    },
+    {
+      "id": "D4I0I3QJAvc",
+      "title": "GAMEPLAY - How to make a Video Game in Unity (E06)",
+      "duration": 495
+    },
+    {
+      "id": "TAGZxRMloyU",
+      "title": "SCORE & UI - How to make a Video Game in Unity (E07)",
+      "duration": 548
+    },
+    {
+      "id": "VbZ9_C4-Qbo",
+      "title": "GAME OVER - How to make a Video Game in Unity (E08)",
+      "duration": 731
+    },
+    {
+      "id": "Iv7A8TzreY4",
+      "title": "WINNING LEVELS - How to make a Video Game in Unity (E09)",
+      "duration": 718
+    },
+    {
+      "id": "r5NWZoTSjWs",
+      "title": "FINISHING UP - How to make a Video Game in Unity (E10)",
+      "duration": 576
+    },
+    {
+      "id": "7nxKAtxGSn8",
+      "title": "How to BUILD / EXPORT your Game in Unity (Windows | Mac | WebGL)",
+      "duration": 1005
+    },
+    {
+      "id": "JDVuTBHnGWw",
+      "title": "TOP 10 UNITY TIPS - 2017",
+      "duration": 197
+    },
+    {
+      "id": "vZU51tbgMXk",
+      "title": "How to make a HIGH SCORE in Unity",
+      "duration": 528
+    },
+    {
+      "id": "IHeMmFxvmkY",
+      "title": "TOP 10 UNITY TIPS #2",
+      "duration": 180
+    },
+    {
+      "id": "MFQhpwc6cKE",
+      "title": "Smooth Camera Follow in Unity - Tutorial",
+      "duration": 472
+    },
+    {
+      "id": "owZneI02YOU",
+      "title": "How to get Good Graphics in Unity",
+      "duration": 494
+    },
+    {
+      "id": "6OT43pvUyfY",
+      "title": "Introduction to AUDIO in Unity",
+      "duration": 866
+    },
+    {
+      "id": "CLSiRf_OrBk",
+      "title": "POWER UPS in Unity",
+      "duration": 654
+    },
+    {
+      "id": "VnG2gOKV9dw",
+      "title": "LIGHTING in Unity",
+      "duration": 973
+    },
+    {
+      "id": "ryISV_nH8qw",
+      "title": "TILEMAPS in Unity",
+      "duration": 825
+    },
+    {
+      "id": "FEA1wTMJAR0",
+      "title": "Everything to know about the PARTICLE SYSTEM",
+      "duration": 608
+    },
+    {
+      "id": "wwm98VdzD8s",
+      "title": "REALTIME LIGHTING in Unity",
+      "duration": 948
+    },
+    {
+      "id": "9A9yj8KnM8c",
+      "title": "CAMERA SHAKE in Unity",
+      "duration": 568
+    },
+    {
+      "id": "ifNyVS2_6f8",
+      "title": "MAKE YOUR GAME RUN SMOOTH - Unity LOD Tutorial",
+      "duration": 498
+    },
+    {
+      "id": "CHV1ymlw-P8",
+      "title": "Unity NavMesh Tutorial - Basics",
+      "duration": 698
+    },
+    {
+      "id": "JWAnQiN9Zkw",
+      "title": "SCULPT, PAINT & TEXTURE in Unity",
+      "duration": 724
+    },
+    {
+      "id": "blPglabGueM",
+      "title": "Unity NavMesh Tutorial - Animated Character",
+      "duration": 900
+    },
+    {
+      "id": "UtNvtIrJcNc",
+      "title": "THIS TOOL IS AWESOME - ProGrids Tutorial",
+      "duration": 432
+    },
+    {
+      "id": "PUSOg5YEflM",
+      "title": "MODELING IN UNITY?! - ProBuilder Tutorial",
+      "duration": 676
+    },
+    {
+      "id": "Ar9eIn4z6XE",
+      "title": "Basics of Shader Graph - Unity Tutorial",
+      "duration": 749
+    },
+    {
+      "id": "KGGB5LFEejg",
+      "title": "HOLOGRAM using Unity Shader Graph",
+      "duration": 768
+    },
+    {
+      "id": "qsU4nM0L_n0",
+      "title": "MAKE GAMES WITHOUT CODE! - Unity 3D Game Kit",
+      "duration": 819
+    },
+    {
+      "id": "on9nwbZngyw",
+      "title": "How to make a 2D Game in Unity",
+      "duration": 868
+    },
+    {
+      "id": "dwcT-Dch0bA",
+      "title": "2D Movement in Unity (Tutorial)",
+      "duration": 1269
+    },
+    {
+      "id": "6_gAiPPKyUg",
+      "title": "NEW PREFAB WORKFLOWS! - Unity Tutorial",
+      "duration": 619
+    },
+    {
+      "id": "2jTY11Am0Ig",
+      "title": "2D Camera in Unity (Cinemachine Tutorial)",
+      "duration": 559
+    },
+    {
+      "id": "wkKsl1Mfp5M",
+      "title": "2D Shooting in Unity (Tutorial)",
+      "duration": 1272
+    },
+    {
+      "id": "GSo_fU1JdfM",
+      "title": "MAKE ORGANIC LEVELS!! Unity Sprite Shape",
+      "duration": 718
+    },
+    {
+      "id": "eXIuizGzY2A",
+      "title": "ANIMATE 2D CHARACTERS in Unity",
+      "duration": 941
+    },
+    {
+      "id": "FvZNVQuLDjI",
+      "title": "MILLIONS OF PARTICLES! - Unity VFX Graph",
+      "duration": 736
+    },
+    {
+      "id": "Pzd8NhcRzVo",
+      "title": "NEW INPUT SYSTEM in Unity",
+      "duration": 1024
+    },
+    {
+      "id": "R6D1b7zZHHA",
+      "title": "FIRE AND SMOKE with Unity VFX Graph!",
+      "duration": 837
+    },
+    {
+      "id": "e7VEe_qW4oE",
+      "title": "QUESTING SYSTEM in Unity!",
+      "duration": 1089
+    },
+    {
+      "id": "12gkcdLc77s",
+      "title": "How to get GOOD GRAPHICS - Upgrading to HDRP",
+      "duration": 993
+    },
+    {
+      "id": "Vg0L9aCRWPE",
+      "title": "SIMPLE CARTOON WATER in Unity",
+      "duration": 806
+    },
+    {
+      "id": "IC9g5hlfV6o",
+      "title": "SNOW in Unity - SHADER GRAPH",
+      "duration": 1033
+    },
+    {
+      "id": "nkgGyO9VG54",
+      "title": "2D Lights in Unity!",
+      "duration": 826
+    },
+    {
+      "id": "p-3S73MaDP8",
+      "title": "CONTROLLER INPUT in Unity!",
+      "duration": 1004
+    },
+    {
+      "id": "whzomFgjT50",
+      "title": "TOP DOWN MOVEMENT in Unity!",
+      "duration": 1350
+    },
+    {
+      "id": "LNLVOjbrQj4",
+      "title": "TOP DOWN SHOOTING in Unity",
+      "duration": 1192
+    },
+    {
+      "id": "_QajrabyTJc",
+      "title": "FIRST PERSON MOVEMENT in Unity - FPS Controller",
+      "duration": 1433
+    },
+    {
+      "id": "wnzJ06Y8mdg",
+      "title": "MAKE AN RPG WITHOUT CODE - Unity Creator Kit",
+      "duration": 1458
+    },
+    {
+      "id": "b4oqOdBCy3c",
+      "title": "BUILD LEVELS QUICKLY in Unity with SNAPS!",
+      "duration": 1093
+    },
+    {
+      "id": "jE3ZJ_tCGTo",
+      "title": "MAKING YOUR FIRST FPS in Unity with FPS Microgame!",
+      "duration": 1181
+    },
+    {
+      "id": "sPiVz1k-fEs",
+      "title": "MELEE COMBAT in Unity",
+      "duration": 1267
+    },
+    {
+      "id": "iCEHarLRCzI",
+      "title": "FIREWORKS in Unity using VFX Graph!",
+      "duration": 1144
+    },
+    {
+      "id": "CE9VOZivb3I",
+      "title": "How to make AWESOME Scene Transitions in Unity!",
+      "duration": 1185
+    },
+    {
+      "id": "_E0JXOZDTKA",
+      "title": "HIGH QUALITY LIGHTING using Light Probes - Unity Tutorial",
+      "duration": 609
+    },
+    {
+      "id": "5dzGj9k8Qy8",
+      "title": "Get started with 2D Shader Graph in Unity - Dissolve Tutorial",
+      "duration": 1019
+    },
+    {
+      "id": "4HpC--2iowE",
+      "title": "THIRD PERSON MOVEMENT in Unity",
+      "duration": 1265
+    },
+    {
+      "id": "9tjYz6Ab0oc",
+      "title": "EVERY Image Effect in Unity Explained - Post Processing v2 Tutorial",
+      "duration": 805
+    }
+  ]
+}

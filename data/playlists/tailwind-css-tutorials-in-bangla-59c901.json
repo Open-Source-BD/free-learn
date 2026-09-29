@@ -1,0 +1,275 @@
+{
+  "courseId": "tailwind-css-tutorials-in-bangla-59c901",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:08:10.241Z",
+  "title": "Tailwind CSS Tutorials in Bangla",
+  "channel": "Programming Shikhbo",
+  "videos": [
+    {
+      "id": "Uw6FZgFGpao",
+      "title": "introduction to tailwind css | tailwind css bangla tutorial for beginners to advanced",
+      "duration": 514
+    },
+    {
+      "id": "DL5K3RcvXhM",
+      "title": "how to setup tailwind css with cdn or which tools need for tailwind | tailwind css bangla tutorial",
+      "duration": 928
+    },
+    {
+      "id": "rv8YQjnZVtM",
+      "title": "how to setup tailwind css for production or professional setup for tailwind | tailwind css tutorial",
+      "duration": 1426
+    },
+    {
+      "id": "S3jvq5O9kHI",
+      "title": "how to install tailwind intellisense or create simple navigation with tailwind | tailwind tutorial",
+      "duration": 1262
+    },
+    {
+      "id": "N64nPOg0F70",
+      "title": "how to use font family in tailwind css or customize font family in tailwind config file",
+      "duration": 947
+    },
+    {
+      "id": "iYy0dzmwL8Q",
+      "title": "how to use font size font style or font weight in tailwind or how to customize tailwind config file",
+      "duration": 1077
+    },
+    {
+      "id": "2lHCP7flSdg",
+      "title": "how to use letter spacing or line height or line clamp in tailwind | tailwind css bangla tutorial",
+      "duration": 1093
+    },
+    {
+      "id": "pPibjY8zBe0",
+      "title": "how to use list style image or list style position or list style type in tailwind css tutorial",
+      "duration": 846
+    },
+    {
+      "id": "HVmuFWKMQVk",
+      "title": "text align or text decoration or text underline offset in tailwind css bangla tutorial",
+      "duration": 1059
+    },
+    {
+      "id": "_UkoVL8KJqM",
+      "title": "text transform or text overflow or text indent in tailwind css | tailwind css bangla tutorial",
+      "duration": 1024
+    },
+    {
+      "id": "N6DOKl8Shqo",
+      "title": "whitespace or word break or hyphens or content in tailwind css | tailwind css bangla tutorial",
+      "duration": 1265
+    },
+    {
+      "id": "l8y0Q1_AyoA",
+      "title": "background attachment or bg color or bg size positon in tailwind css | tailwind css bangla tutorial",
+      "duration": 1015
+    },
+    {
+      "id": "QXTlwxOU_Us",
+      "title": "background clip or background gradient or background origin in tailwind css | tailwind css tutorial",
+      "duration": 1006
+    },
+    {
+      "id": "Mpb02eyops0",
+      "title": "border radius or border width or border color in tailwind css | tailwind css bangla tutorial",
+      "duration": 1241
+    },
+    {
+      "id": "YxP9vu3WJGI",
+      "title": "how to use divide or outline in tailwind css or how does this work | tailwind css bangla tutorial",
+      "duration": 1046
+    },
+    {
+      "id": "flk862hC9KA",
+      "title": "how to use ring width or ring offset width color in tailwind css bangla tutorial",
+      "duration": 627
+    },
+    {
+      "id": "UT5tNIA-0tI",
+      "title": "how to use box shadow or box shadow color or opacity in tailwind css bangla tutorial",
+      "duration": 707
+    },
+    {
+      "id": "6TG1kOgTzic",
+      "title": "how to use background blend mode or mix blend mode in tailwind css bangla tutorial",
+      "duration": 947
+    },
+    {
+      "id": "TF7fDpbEkdk",
+      "title": "how to use width or height in tailwind | in this video we will talk about the tailwind sizing topic",
+      "duration": 945
+    },
+    {
+      "id": "SKKXUCiqKEs",
+      "title": "how to use min width max width or min height max height in tailwind css",
+      "duration": 653
+    },
+    {
+      "id": "lph150EfImU",
+      "title": "how to use padding margin or space between in tailwind css spacing chapter",
+      "duration": 1037
+    },
+    {
+      "id": "9wJfH-b7F2g",
+      "title": "how to use flex basis or flex direction and flex wrap in tailwind css flex and grid chapter",
+      "duration": 957
+    },
+    {
+      "id": "DxmGIfNi-Ak",
+      "title": "how to use flex or flex grow and shrink or order in tailwind css",
+      "duration": 1107
+    },
+    {
+      "id": "7N4YSK_iQfI",
+      "title": "how to use grid template columns in tailwind css or how its work",
+      "duration": 925
+    },
+    {
+      "id": "RVKYSgxObYo",
+      "title": "how to span grid template column in tailwind css or grid column start end",
+      "duration": 1099
+    },
+    {
+      "id": "E43KdgVNX7Y",
+      "title": "grid template rows tutorial in tailwind css bangla",
+      "duration": 664
+    },
+    {
+      "id": "oiBdMdfid1w",
+      "title": "span grid rows tutorial in tailwind css bangla or how to use grid gap",
+      "duration": 962
+    },
+    {
+      "id": "sYJ6Fate_e0",
+      "title": "justify content tutorial in tailwind css with justify items or justify self",
+      "duration": 1044
+    },
+    {
+      "id": "lw_SurVn1fc",
+      "title": "Align content tutorial in tailwind css with align items or align self",
+      "duration": 1029
+    },
+    {
+      "id": "oFBiFs4iPwU",
+      "title": "Place content tutorial in tailwind css with place items or place self",
+      "duration": 803
+    },
+    {
+      "id": "7x3kEUWf1UU",
+      "title": "aspect ratio in tailwind css with how to use container or columns",
+      "duration": 864
+    },
+    {
+      "id": "iLj69zCmGlQ",
+      "title": "break after or break before in tailwind css with box decoration break",
+      "duration": 1060
+    },
+    {
+      "id": "KDENzk188YE",
+      "title": "display in tailwind css or how to work flow root in tailwind",
+      "duration": 832
+    },
+    {
+      "id": "chedE6mE4KI",
+      "title": "object fit in tailwind css or how to work float or overflow topic",
+      "duration": 1120
+    },
+    {
+      "id": "J9bAeUnphMg",
+      "title": "overscroll behavior or position in tailwind css or how to work visibility or z index",
+      "duration": 1114
+    },
+    {
+      "id": "Sqn2KhN0H7Y",
+      "title": "filters topic in tailwind css or how to work or use blur drop shadow",
+      "duration": 1077
+    },
+    {
+      "id": "UuYQH_GdG7A",
+      "title": "tables in tailwind css or how to use border collapse or border spacing",
+      "duration": 885
+    },
+    {
+      "id": "IGwWSwfvO8Y",
+      "title": "transitions & animation in tailwind css or how to use transition timing function or animation",
+      "duration": 1210
+    },
+    {
+      "id": "MseUKD8xAXE",
+      "title": "transforms in tailwind css or how to use scale or rotate",
+      "duration": 915
+    },
+    {
+      "id": "sdYm-LNgYwg",
+      "title": "interactivity in tailwind css or how to use accent color or appearance or caret color",
+      "duration": 1134
+    },
+    {
+      "id": "bNpGHW0zLL0",
+      "title": "scroll behavior in tailwind css or how to work tailwind scroll behavior",
+      "duration": 1019
+    },
+    {
+      "id": "MtZgI5gnSZc",
+      "title": "scroll snap type in tailwind css or how to work tailwind scroll snap align or scroll margin",
+      "duration": 1082
+    },
+    {
+      "id": "sln0EjVMzIc",
+      "title": "user select or svg in tailwind css or how to work tailwind touch action or svg stroke",
+      "duration": 999
+    },
+    {
+      "id": "3op7nErQp3s",
+      "title": "utility first fundamentals in tailwind or how to work utility first css framework",
+      "duration": 804
+    },
+    {
+      "id": "TIbzy8df4js",
+      "title": "discuss about handling hover or Focus and other states in tailwind css",
+      "duration": 644
+    },
+    {
+      "id": "f3KN3Hh6l9U",
+      "title": "concept of Responsive design in tailwind css talk about how to work tailwind breakpoints",
+      "duration": 969
+    },
+    {
+      "id": "P_jliHiytaQ",
+      "title": "dark mode toggle tailwind css or how to enable dark mode on websites using tailwind css",
+      "duration": 1158
+    },
+    {
+      "id": "6Pgq_hwDakQ",
+      "title": "Reusing styles with @apply Directive | Tailwind CSS Bangla Tutorial",
+      "duration": 1410
+    },
+    {
+      "id": "JbgnEhdRTxk",
+      "title": "Tailwind @layer Directive or with adding base styles | Tailwind CSS Bangla Tutorial",
+      "duration": 1042
+    },
+    {
+      "id": "VVVhGL8QFTE",
+      "title": "Tailwind @layer utilities with function directive | Tailwind CSS Bangla Tutorial",
+      "duration": 537
+    },
+    {
+      "id": "T1f4ig-QWXQ",
+      "title": "build tailwind css for production with npm run build | Tailwind CSS Bangla Tutorial",
+      "duration": 924
+    },
+    {
+      "id": "8AetDsH5Oyk",
+      "title": "tailwind components templates or playground community with tailwind | Tailwind CSS Bangla Tutorial",
+      "duration": 1111
+    },
+    {
+      "id": "CQa8Ro0qfhw",
+      "title": "Master DaisyUI Tailwind Components Today: Boost Your Web Development Speed | DaisyUI Setup tutorial",
+      "duration": 1603
+    }
+  ]
+}

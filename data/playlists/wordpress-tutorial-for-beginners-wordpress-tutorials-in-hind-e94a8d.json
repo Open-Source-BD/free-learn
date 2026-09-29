@@ -1,0 +1,385 @@
+{
+  "courseId": "wordpress-tutorial-for-beginners-wordpress-tutorials-in-hind-e94a8d",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:35:24.475Z",
+  "title": "Wordpress Tutorial for Beginners | Wordpress Tutorials in Hindi - The Complete Guide For Beginners",
+  "channel": "WsCube Tech",
+  "videos": [
+    {
+      "id": "RtXA60HewUw",
+      "title": "Install WordPress on Localhost  - WordPress Tutorial for Beginners",
+      "duration": 1001
+    },
+    {
+      "id": "NhFleu_0Lk0",
+      "title": "How to Install a WordPress Theme on localhost - WordPress Tutorial",
+      "duration": 527
+    },
+    {
+      "id": "O7nqn2zjKb4",
+      "title": "How to create Page in WordPress - WordPress Tutorial for Beginners",
+      "duration": 622
+    },
+    {
+      "id": "8WO3VYcAhs4",
+      "title": "How to Create and Publish Post in WordPress [Step-by-Step] | WordPress Tutorial",
+      "duration": 452
+    },
+    {
+      "id": "jgLcO1EjX-M",
+      "title": "How to Create Post & Add Categories in WordPress? | WordPress Tutorial for Beginners",
+      "duration": 618
+    },
+    {
+      "id": "51_unEI5MLg",
+      "title": "How to Limit Posts per Page in Wordpress [In Hindi] | Wordpress Tutorial for Beginners | Part-6",
+      "duration": 338
+    },
+    {
+      "id": "sWkmXzW240c",
+      "title": "How to Create a Separate Page for Blog Posts in WordPress - WordPress Tutorial",
+      "duration": 253
+    },
+    {
+      "id": "ENtwbvLKDbI",
+      "title": "How to Setup a Homepage in WordPress - WordPress Tutorial for Beginners",
+      "duration": 319
+    },
+    {
+      "id": "7EdlzHKAm1g",
+      "title": "How to Approve, Edit, or Delete Comments in WordPress Post - WordPress Tutorial",
+      "duration": 506
+    },
+    {
+      "id": "wyi2IlRAYAc",
+      "title": "Learn How to Enable and Disable Comments In WordPress Pages & Posts - WordPress Tutorial",
+      "duration": 318
+    },
+    {
+      "id": "4x7LpDmj8iQ",
+      "title": "WordPress Permalink Setting - How to Change Permalinks in WordPress | WordPress Tutorial",
+      "duration": 487
+    },
+    {
+      "id": "zd_LxHgYCbo",
+      "title": "How To Use The New WordPress Widgets Section | WordPress Tutorial",
+      "duration": 530
+    },
+    {
+      "id": "3mON8lDXo7U",
+      "title": "Learn How to Add Image Gallery in Wordpress (With OR Without Plugins) | WordPress Tutorial",
+      "duration": 467
+    },
+    {
+      "id": "0kgTGDwurYk",
+      "title": "Learn How to Change Logo and Title in Wordpress | WordPress Tutorial in Hindi",
+      "duration": 305
+    },
+    {
+      "id": "_B0qOPxO67c",
+      "title": "Explain Adding WordPress Mobile Menu using Free Plugin | WordPress Tutorial in Hindi",
+      "duration": 384
+    },
+    {
+      "id": "iwnOfeZivB8",
+      "title": "How to Create Smart Slider in WordPress? | Step-By-Step Process for Beginners",
+      "duration": 665
+    },
+    {
+      "id": "1SXQoSa-84Y",
+      "title": "How To Change Block Editor To Classic Editor In WordPress | WordPress Tutorial",
+      "duration": 395
+    },
+    {
+      "id": "x6Z2_GMOFds",
+      "title": "How To Show Recent Posts With Thumbnails In WordPress | WordPress Tutorials",
+      "duration": 445
+    },
+    {
+      "id": "OQLKshwZ4rU",
+      "title": "Learn How to Add RSS Feed on Your Wordpress | WordPress Tutorial in Hindi",
+      "duration": 600
+    },
+    {
+      "id": "a155ERje40w",
+      "title": "What are WP News and Scrolling Widgets | WordPress Tutorials in Hindi",
+      "duration": 305
+    },
+    {
+      "id": "tts3-btpkz8",
+      "title": "Learn How to Add Testimonial Showcase Slider in WordPress | WordPress Tutorials in Hindi",
+      "duration": 484
+    },
+    {
+      "id": "T0cLwUsdZHA",
+      "title": "How to Optimize and Compress WordPress Images using Smush Plugin | WordPress Tutorial",
+      "duration": 425
+    },
+    {
+      "id": "E_3ljmegi9Q",
+      "title": "How to Move a WordPress Website from Localhost to a Live Server Using CPanel (Complete Tutorial)",
+      "duration": 1114
+    },
+    {
+      "id": "_hOnG2W0oyc",
+      "title": "How to Add Custom Links to WordPress Menus | WordPress Tutorials for Beginners",
+      "duration": 236
+    },
+    {
+      "id": "UdXTZrfx9FI",
+      "title": "How to Add Social Media Icons to WordPress | Wordpress Tutorials in Hindi",
+      "duration": 360
+    },
+    {
+      "id": "7pHiiDiQWWg",
+      "title": "What is Post Type and How to Create Custom Post Type in WordPress | WordPress Tutorial",
+      "duration": 297
+    },
+    {
+      "id": "GUsMJEpbAm4",
+      "title": "How to Use WordPress Contact Form 7 Plugin On Your Website | WordPress Tutorials",
+      "duration": 648
+    },
+    {
+      "id": "5-sRkGy1v94",
+      "title": "How to Display Contact Form 7 Data in WordPress | WordPress Tutorial in Hindi",
+      "duration": 316
+    },
+    {
+      "id": "0W0KqOSjO7c",
+      "title": "How To Redirect Your Contact Form 7 To A Thank You Page in WordPress | WordPress Tutorial",
+      "duration": 282
+    },
+    {
+      "id": "8YoD-nAxRbs",
+      "title": "How to Show popup message in Contact form 7 in WordPress | WordPress Tutorial in Hindi",
+      "duration": 278
+    },
+    {
+      "id": "Dsf9ET5JKNc",
+      "title": "How to Add reCAPTCHA v3 in Contact Form 7 in WordPress | WordPress in Hindi",
+      "duration": 276
+    },
+    {
+      "id": "BS-84QsHUk0",
+      "title": "How to Open Contact Form 7 in Popup Using Free Plugin | WordPress Tutorial",
+      "duration": 444
+    },
+    {
+      "id": "VvqnE-JywLk",
+      "title": "How to Install & Setup Easy WP SMTP in WordPress with contact form 7 | WordPress in Hindi",
+      "duration": 467
+    },
+    {
+      "id": "-djzn1zHzBU",
+      "title": "How to add DatePicker in Contact Form 7 Using Free Plugin | WordPress Tutorial",
+      "duration": 339
+    },
+    {
+      "id": "RomvyhRmtn4",
+      "title": "How to Increase Maximum Execution Time in WordPress Website | WordPress in Hindi",
+      "duration": 202
+    },
+    {
+      "id": "8N4Z2G8CvhU",
+      "title": "How to Add Google Translate in Wordpress Website | WordPress Tutorials",
+      "duration": 248
+    },
+    {
+      "id": "TBF6c3fc4v0",
+      "title": "How to Add Google Map in Wordpress Website | WordPress Tutorials",
+      "duration": 205
+    },
+    {
+      "id": "TGI9h8AtEpQ",
+      "title": "How to Add Google Analytics Code in Wordpress Website | WordPress Tutorials",
+      "duration": 191
+    },
+    {
+      "id": "L4xAXURPNRs",
+      "title": "How do I Add a Pre-loader to my website? | WordPress Tutorial in Hindi",
+      "duration": 193
+    },
+    {
+      "id": "gyJOKWCNMag",
+      "title": "How to Remove Sidebar in WordPress | WordPress Tutorial in Hindi",
+      "duration": 264
+    },
+    {
+      "id": "bPlPdbvP3V4",
+      "title": "How to Disable Automatic Updates in WordPress | WordPress Tutorial",
+      "duration": 194
+    },
+    {
+      "id": "A4fOKAk4JIQ",
+      "title": "How to Reset Password from phpMyAdmin | WordPress Tutorials",
+      "duration": 258
+    },
+    {
+      "id": "nBgiy7Z9e1s",
+      "title": "How To Disable Comments In WordPress | WordPress Tutorial in Hindi",
+      "duration": 134
+    },
+    {
+      "id": "UC7J1Wseijk",
+      "title": "How to Setup FAQ Section on Your WordPress Website | WordPress Tutorial in Hindi",
+      "duration": 321
+    },
+    {
+      "id": "FwqmuguN70E",
+      "title": "How to Add Social Share Buttons in WordPress | WordPress Tutorials in Hindi",
+      "duration": 211
+    },
+    {
+      "id": "5lH98sQurLY",
+      "title": "How to Change the WordPress Admin User-Name | WordPress Tutorial in Hindi",
+      "duration": 180
+    },
+    {
+      "id": "P0C0HVehAcY",
+      "title": "How to Add Custom Fonts in Wordpress | WordPress Tutorials",
+      "duration": 504
+    },
+    {
+      "id": "smyIaB-KNBQ",
+      "title": "How to Change The Footer Copyright Credits in WordPress | WordPress Tutorial",
+      "duration": 286
+    },
+    {
+      "id": "VqPjYWEPoAM",
+      "title": "Learn How to Edit Text Editor with Elementor in WordPress | WordPress Tutorial",
+      "duration": 319
+    },
+    {
+      "id": "kdalUsT8C34",
+      "title": "How to Create Column Layouts With Elementor in Hindi | WordPress Tutorial",
+      "duration": 290
+    },
+    {
+      "id": "AaBmH5zNYjY",
+      "title": "Learn How to Add Text Heading with Elementor in WordPress | WordPress Tutorial",
+      "duration": 254
+    },
+    {
+      "id": "8_HIEkZq6TE",
+      "title": "Learn How to Add Image with Elementor in WordPress | WordPress Tutorial",
+      "duration": 168
+    },
+    {
+      "id": "4VKO49UM2pg",
+      "title": "Learn How to Add Video with Elementor in WordPress | WordPress Tutorial",
+      "duration": 289
+    },
+    {
+      "id": "Y5TKRIXIZGQ",
+      "title": "Learn How to Add MAP with Elementor in WordPress | WordPress Tutorial",
+      "duration": 143
+    },
+    {
+      "id": "Uq6ffnQj3_M",
+      "title": "Learn How to Add TABS with Elementor in WordPress | WordPress Tutorial",
+      "duration": 341
+    },
+    {
+      "id": "8ljv50UsCz0",
+      "title": "Learn How to Add Image Carousel Slider with Elementor in WordPress | WordPress Tutorial",
+      "duration": 304
+    },
+    {
+      "id": "C_LBzjfylFg",
+      "title": "Learn How to Add Progress Bar with Elementor in WordPress | WordPress Tutorial",
+      "duration": 240
+    },
+    {
+      "id": "dW6xL2VcFCw",
+      "title": "Learn How to Add Counter with Elementor in WordPress | Elementor Page Builder | WordPress Tutorial",
+      "duration": 344
+    },
+    {
+      "id": "RsNDQHLZV90",
+      "title": "Learn How to Add Image Gallery with Elementor in WordPress | Elementor Page Builder",
+      "duration": 417
+    },
+    {
+      "id": "6AYzMXdGB4g",
+      "title": "How to Redirect Non-WWW to WWW URL in WordPress | Redirects in WordPress | WordPress Tutorial",
+      "duration": 280
+    },
+    {
+      "id": "hCEFwfy3NZs",
+      "title": "Disable File Editing Option Using WP-Config File in WordPress Website | WordPress Tutorial",
+      "duration": 181
+    },
+    {
+      "id": "9veM5sRyumU",
+      "title": "How to Add New Users To Your WordPress Site | WordPress in Hindi",
+      "duration": 445
+    },
+    {
+      "id": "VN4ZeORZuu4",
+      "title": "Learn How to Add Call Now Button on WordPress | WordPress Tutorials",
+      "duration": 297
+    },
+    {
+      "id": "qbCK3WJp2_8",
+      "title": "Learn How to Add Scroll to Top Button on Wordpress Website | WordPress Tutorials",
+      "duration": 360
+    },
+    {
+      "id": "wgozU8_EwAM",
+      "title": "Learn How to create one page website on WordPress | WordPress Tutorials",
+      "duration": 1351
+    },
+    {
+      "id": "P1HqD2v_4FA",
+      "title": "Learn How to Hide Breadcrumbs in Wordpress One Page Website | Website Tutorials",
+      "duration": 453
+    },
+    {
+      "id": "Es4gpBkAY3I",
+      "title": "Add WhatsApp Chat to WordPress Website  (😮Free Plugin😮)",
+      "duration": 340
+    },
+    {
+      "id": "ohz25CtO4lI",
+      "title": "How To Change Wordpress Login URL | Change wp-admin URL | WordPress Tutorial",
+      "duration": 358
+    },
+    {
+      "id": "E5-iRW3CqBY",
+      "title": "Learn How to Add Bing Maps to Wordpress Website | Website Tutorials",
+      "duration": 235
+    },
+    {
+      "id": "iBa9erkWLTk",
+      "title": "Twitter Feeds on Wordpress - How to Display Recent Tweets in WordPress | WordPress Tutorials",
+      "duration": 492
+    },
+    {
+      "id": "q6TNVcGs5WU",
+      "title": "How to Add Facebook Video in WordPress | Embed a Facebook Video | WordPress Tutorials",
+      "duration": 547
+    },
+    {
+      "id": "PQCkS_vYHAI",
+      "title": "Learn How to Install WordPress in C-Panel (Softaculous Apps Installer) | WordPress Tutorial",
+      "duration": 580
+    },
+    {
+      "id": "7RbCyBztLis",
+      "title": "Learn How to Make a Coming Soon & Maintenance Page in WordPress | WordPress Tutorials",
+      "duration": 619
+    },
+    {
+      "id": "XTQvEQUbOKs",
+      "title": "Learn How to Create Duplicate Page or Post in Wordpress | WordPress Tutorials",
+      "duration": 504
+    },
+    {
+      "id": "zi1P4Ol7s4I",
+      "title": "Learn How to Add Contact Form Using WPForm Plugin | WordPress Tutorial",
+      "duration": 863
+    }
+  ]
+}

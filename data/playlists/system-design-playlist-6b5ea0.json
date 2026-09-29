@@ -1,0 +1,210 @@
+{
+  "courseId": "system-design-playlist-6b5ea0",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:22.270Z",
+  "title": "System Design Full Course",
+  "channel": "Coder Army",
+  "videos": [
+    {
+      "id": "AK0hu0Zxua4",
+      "title": "Introduction To System Design",
+      "duration": 1486
+    },
+    {
+      "id": "QbGoqAgP_zg",
+      "title": "OOPs Real-World Examples | OOPs Pillars | Abstraction | Encapsulation",
+      "duration": 3241
+    },
+    {
+      "id": "KGOEK0-XBIg",
+      "title": "Inheritance & Polymorphism in OOPs",
+      "duration": 2679
+    },
+    {
+      "id": "nPJyyO9pb5s",
+      "title": "What is UML Diagrams | Class & Sequence Diagrams with Real Examples",
+      "duration": 4330
+    },
+    {
+      "id": "UsNl8kcU4UA",
+      "title": "SOLID Design Principles | Complete Guide with Code Examples",
+      "duration": 4052
+    },
+    {
+      "id": "hU9koy6A2I0",
+      "title": "SOLID Design Principles | part 2",
+      "duration": 4631
+    },
+    {
+      "id": "MT9qZFGQXOU",
+      "title": "Build Google Docs | A Real-World LLD Project | Document Editor LLD |",
+      "duration": 2720
+    },
+    {
+      "id": "PpKvPrl_gRg",
+      "title": "Strategy Design Pattern Explained with Real-World Example | Design Patterns in LLD",
+      "duration": 1960
+    },
+    {
+      "id": "dMK4TbG29fk",
+      "title": "Factory Design Pattern | Simple, Factory Method & Abstract Factory with Real-Life Examples",
+      "duration": 1930
+    },
+    {
+      "id": "CD3meit-WDc",
+      "title": "Singleton Design Pattern | Thread-Safe, Lazy & Eager Initialization + Real Use Cases",
+      "duration": 1955
+    },
+    {
+      "id": "2SAUqTn3TrU",
+      "title": "Build Zomato Food Delivery App | System Design",
+      "duration": 4040
+    },
+    {
+      "id": "Jpmp4GY8r3Q",
+      "title": "Observer Design Pattern Explained | Real-Life Use Case + Code Example",
+      "duration": 1711
+    },
+    {
+      "id": "Z9rFlZClYNI",
+      "title": "Decorator Pattern Explained | Real-world use case + Code | Design patterns in LLD",
+      "duration": 1760
+    },
+    {
+      "id": "t-4r2AsJz_Q",
+      "title": "Build Your Own Notification Engine | System Design",
+      "duration": 2547
+    },
+    {
+      "id": "cnQZsN0jxEY",
+      "title": "Command Design Pattern | Real-world use case + Code | Design patterns in LLD",
+      "duration": 1795
+    },
+    {
+      "id": "FV3x69rpwm0",
+      "title": "Adapter Design Pattern | Real-world use case + Code | Design patterns in LLD",
+      "duration": 1313
+    },
+    {
+      "id": "0KlnSdvsojc",
+      "title": "Facade Design Pattern | Real-world use case + Code | Design patterns in LLD",
+      "duration": 1133
+    },
+    {
+      "id": "DkLwFqbCsu8",
+      "title": "Build Spotify, Music Player App | System Design",
+      "duration": 4501
+    },
+    {
+      "id": "xaaiMGmyDJk",
+      "title": "Composite Design Pattern | Build File System (UML & Code) | System Design",
+      "duration": 2284
+    },
+    {
+      "id": "8-vE_bmEt18",
+      "title": "Template Method Pattern | Step-by-Step Example (UML + Code)",
+      "duration": 1222
+    },
+    {
+      "id": "xuT6OOYVJTQ",
+      "title": "Proxy Design Pattern | Virtual Proxy | Protection Proxy | Remote Proxy",
+      "duration": 2245
+    },
+    {
+      "id": "LXVKB6deQMo",
+      "title": "Chain of Responsibility Pattern | Build Cash Dispenser(UML & Code) | System Design",
+      "duration": 1790
+    },
+    {
+      "id": "36FDqIRBGRg",
+      "title": "Build Payment Gateway System | System Design",
+      "duration": 3649
+    },
+    {
+      "id": "jbVevoGN_pM",
+      "title": "Build Discount Coupon Engine | System Design",
+      "duration": 4999
+    },
+    {
+      "id": "KVf8dwgTbiM",
+      "title": "Bridge Pattern | Real-world use case + Code | System Design",
+      "duration": 1882
+    },
+    {
+      "id": "FcbsppIX0bg",
+      "title": "Build Zepto | 10-Mins Quick Commerce | Inventory Management | System Design",
+      "duration": 5773
+    },
+    {
+      "id": "IcgLSo6--ok",
+      "title": "Build Tinder | Dating Site | System Design",
+      "duration": 4919
+    },
+    {
+      "id": "G4Ntl9KzIxY",
+      "title": "Builder Design Pattern | Classic Builder | Step Builder | UML + Code | System Design",
+      "duration": 6544
+    },
+    {
+      "id": "30fveBRLqMw",
+      "title": "Iterator Design Pattern | UML + Code | System Design",
+      "duration": 2409
+    },
+    {
+      "id": "vNSRcegCO8E",
+      "title": "Flyweight Design Pattern | UML + Code | System Design",
+      "duration": 3324
+    },
+    {
+      "id": "cWtBZUAQpcc",
+      "title": "Build Splitwise Clone | Expense Splitting App | System Design",
+      "duration": 5780
+    },
+    {
+      "id": "bJPmvie_p4w",
+      "title": "State Design Pattern | Build Vending Machine (UML & Code) | System Design",
+      "duration": 4485
+    },
+    {
+      "id": "BGFzYjGtRP4",
+      "title": "Build Tic Tac Toe Game | UML + Code | System Design",
+      "duration": 3132
+    },
+    {
+      "id": "1NJB54UB8nE",
+      "title": "Build Snake and Ladder Game | UML + Code | System Design",
+      "duration": 4101
+    },
+    {
+      "id": "3lGIICzgyQQ",
+      "title": "Mediator Design Pattern | Build Chat Room | UML + Code | System Design",
+      "duration": 2885
+    },
+    {
+      "id": "KMQFNV8LFec",
+      "title": "Prototype Design Pattern | UML + Code | System Design",
+      "duration": 1891
+    },
+    {
+      "id": "eULHvaMZUks",
+      "title": "Build Chess Game | UML + Code | System Design",
+      "duration": 6795
+    },
+    {
+      "id": "DnmsxnlCyl0",
+      "title": "Visitor Design Pattern | UML + Code | System Design",
+      "duration": 2454
+    },
+    {
+      "id": "p8-ile_nWnY",
+      "title": "Memento Design Pattern | UML + Code | System Design",
+      "duration": 2071
+    },
+    {
+      "id": "iXHlc_S3Ae4",
+      "title": "Null Object Pattern | Anti-Patterns in System Design",
+      "duration": 1548
+    }
+  ]
+}

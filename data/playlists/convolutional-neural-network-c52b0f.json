@@ -1,0 +1,70 @@
+{
+  "courseId": "convolutional-neural-network-c52b0f",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:57:15.618Z",
+  "title": "Convolutional Neural Network",
+  "channel": "Learn With Jay",
+  "videos": [
+    {
+      "id": "E5Z7FQp7AQQ",
+      "title": "What is CNN in deep learning? Convolutional Neural Network Explained",
+      "duration": 365
+    },
+    {
+      "id": "gLwX3zHkims",
+      "title": "Convolution Operation in CNN",
+      "duration": 658
+    },
+    {
+      "id": "-1xVmU8Z6Bs",
+      "title": "Padding in Convolutional Neural Network",
+      "duration": 250
+    },
+    {
+      "id": "lxk_nmpqI5M",
+      "title": "Stride in Convolutional Neural Network (CNN)",
+      "duration": 225
+    },
+    {
+      "id": "zg_AA3fZpE0",
+      "title": "Max Pooling in Convolutional Neural Network",
+      "duration": 456
+    },
+    {
+      "id": "rxSmwM7z0_4",
+      "title": "Fully Connected Layer in CNN",
+      "duration": 270
+    },
+    {
+      "id": "VF4BDE7uqY0",
+      "title": "CNN architecture | Explaining the Architecture of CNN",
+      "duration": 750
+    },
+    {
+      "id": "Pn7RK7tofPg",
+      "title": "Backpropagation in CNN - Part 1",
+      "duration": 1203
+    },
+    {
+      "id": "vbUozbkMhI0",
+      "title": "Backpropagation in CNN  - PART 2",
+      "duration": 1171
+    },
+    {
+      "id": "VMyoi7Aksmc",
+      "title": "What is Keras and Tensorflow | Keras vs Tensorflow",
+      "duration": 221
+    },
+    {
+      "id": "TnVc6kPqr3U",
+      "title": "Why use Tensorflow? Explaining Tensorflow and why to use it",
+      "duration": 440
+    },
+    {
+      "id": "J1jhfAw5Uvo",
+      "title": "Image Classification using CNN Keras | Full implementation",
+      "duration": 1076
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "courseId": "getting-started-with-ios-in-hindi-fcde03",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:27.094Z",
+  "title": "iOS App Development for Beginners",
+  "channel": "iOS Academy",
+  "videos": [
+    {
+      "id": "vmvb--mZQvg",
+      "title": "Getting Started With iOS & Swift: Welcome to the Course",
+      "duration": 252
+    },
+    {
+      "id": "UC53g9VVDiI",
+      "title": "Getting Started: Swift At A Glance",
+      "duration": 197
+    },
+    {
+      "id": "hCMfyGOFMNs",
+      "title": "Getting Started: iOS At A Glance",
+      "duration": 376
+    },
+    {
+      "id": "C-5GeJiuZJQ",
+      "title": "Getting Started: Download and Setup Xcode",
+      "duration": 254
+    },
+    {
+      "id": "lhtx0NZ7hJk",
+      "title": "Getting Started: An Overview of Xcode",
+      "duration": 460
+    },
+    {
+      "id": "cmaV_E0PtRk",
+      "title": "Getting Started: Overview of Apple Developer Program",
+      "duration": 416
+    },
+    {
+      "id": "Vqo36o9fSMM",
+      "title": "Swift To Do List App for Beginners (Make First App, Xcode 14, 2023, iOS) - Swift 5",
+      "duration": 1093
+    }
+  ]
+}

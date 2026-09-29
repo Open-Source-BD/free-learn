@@ -1,0 +1,130 @@
+{
+  "courseId": "linux-basic-tutorials-in-hindi-36df0b",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYEK_dHOjwtNX9NcnILJR1q5hL_4N0cdu",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:28:48.860Z",
+  "title": "Linux Basic tutorials in Hindi",
+  "channel": "Linux Wale Guruji",
+  "videos": [
+    {
+      "id": "CLS4eTZJtys",
+      "title": "How to Create File & Directory in Linux | mkdir and touch | Data creation in Linux | Linux Tutorial",
+      "duration": 8197
+    },
+    {
+      "id": "iQrGNC52Yro",
+      "title": "CAT TAC WC TEE Command Example in Linux | Usage of CAT TAC | Linux Daily Commands | Linux Tutorials",
+      "duration": 4237
+    },
+    {
+      "id": "GZ27_SrDMxM",
+      "title": "Head Tail Commands in Unix || Linux Basic Head & tail Commands in Hindi | Linux Tutorials in Hindi",
+      "duration": 1361
+    },
+    {
+      "id": "xdUo5aM5UqE",
+      "title": "How To Use Sed Command In Linux With Examples | usage of sed command in Unix | Sed Command Tutorials",
+      "duration": 2771
+    },
+    {
+      "id": "XNmkfw5sBGE",
+      "title": "grep egrep  fgrep Command Linux Unix | Linux tutorials in Hindi |grep command Examples in Hindi",
+      "duration": 3435
+    },
+    {
+      "id": "0CRclbaQWRY",
+      "title": "Cut and awk Commands example in Linux Hindi || Linux Tutorials || Linux tutorials in HINDI",
+      "duration": 1898
+    },
+    {
+      "id": "vVLoEUfob-I",
+      "title": "nmcli command examples in rhel-8 || nmcli explain in hindi || Linux nmcli basic examples in hindi",
+      "duration": 7171
+    },
+    {
+      "id": "dnlbZImfbXc",
+      "title": "What is inode number ? || Soft Link and hard Link in Hindi ||Define Soft Link and Hard Link in Hindi",
+      "duration": 2567
+    },
+    {
+      "id": "K4mBPOZdobY",
+      "title": "RHEL 8 Installation Using GUI Mode || Linux rhel-8 installation || Online Linux Classes in Hindi",
+      "duration": 7353
+    },
+    {
+      "id": "sJ0PG3I6_Jg",
+      "title": "RHEL 9 ISO Downloading Steps || RHEL 9 Beta version Launched || RHEL 9 Tutorials  || rhel 9 download",
+      "duration": 397
+    },
+    {
+      "id": "8bfyuyD4UsM",
+      "title": "RHEL 8 ISO download || rhel 8 downloading steps || Redhat Linux Tutorials || Linux online classes",
+      "duration": 196
+    },
+    {
+      "id": "oxlQ__OF3II",
+      "title": "RHN account Creation Steps || Red hat Login ID || How we can create RHN login in Hindi",
+      "duration": 541
+    },
+    {
+      "id": "BR2EPRfeFwk",
+      "title": "Reset root password using single User Mode and Set password on GRUB menu in RHEL-9 in Hindi | RHEL-9",
+      "duration": 1220
+    },
+    {
+      "id": "EBBB2EYEw_M",
+      "title": "How we can download VMware workstation pro software to create Virtual machine",
+      "duration": 389
+    },
+    {
+      "id": "2TOzV72QqE4",
+      "title": "How we can download RHEL ISO image  ||  rhel 9.4 latest ISO download steps",
+      "duration": 297
+    },
+    {
+      "id": "eKDKfVuA--w",
+      "title": "Access Control List Examples | File Permissions Examples using chmod and setfacl command | DEMO",
+      "duration": 5314
+    },
+    {
+      "id": "qqECmk_4zOE",
+      "title": "Discussion about basic terms before Starts learning Linux & Work in IT Industry | Linux Live Classes",
+      "duration": 5857
+    },
+    {
+      "id": "V2hLqu62TRI",
+      "title": "Introduction to System Patching with Red Hat Satellite 6 | Red Hat Satellite 6 Latest Live Class",
+      "duration": 6797
+    },
+    {
+      "id": "1jAY9PJMo6Y",
+      "title": "Writing Your First Python Program | Learn Python from Scratch Day 2",
+      "duration": 6314
+    },
+    {
+      "id": "5HLY6evF27w",
+      "title": "Red Hat Linux ISO Downloading Steps & Create Red Hat Linux Lab Step-by-Step | RHEL-10 Live Class",
+      "duration": 3801
+    },
+    {
+      "id": "MUB4WxGzBXg",
+      "title": "Basic Terms need to understand before Linux OS Installation | RHEL 10 Live Class | Day-2 (Part-01)",
+      "duration": 7089
+    },
+    {
+      "id": "vjNDU38EDys",
+      "title": "Docker & Containerization Architecture Explained | DevOps Engineering  Latest Live Classes",
+      "duration": 2413
+    },
+    {
+      "id": "0W6bArzzJYI",
+      "title": "VMware Virtualization Explained: From Fundamentals to Cloud Infrastructure | VCP-DCV Training",
+      "duration": 11028
+    },
+    {
+      "id": "U-InMtkUUlE",
+      "title": "Learn How Istio Manages Microservices Communication, Kubernetes Traffic & Application Resilience",
+      "duration": 4416
+    }
+  ]
+}

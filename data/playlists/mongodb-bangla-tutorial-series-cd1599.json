@@ -1,0 +1,100 @@
+{
+  "courseId": "mongodb-bangla-tutorial-series-cd1599",
+  "sourceUrl": "https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:11:06.579Z",
+  "title": "MongoDB-Mongoose bangla tutorial series",
+  "channel": "Anisul Islam",
+  "videos": [
+    {
+      "id": "rQYZ3JmZsdI",
+      "title": "MongoDB bangla tutorial 1 : Introduction to MongoDB",
+      "duration": 795
+    },
+    {
+      "id": "M1bOoZJJjZk",
+      "title": "MongoDB bangla tutorial 2 : CRUD | Insert document in mongodb",
+      "duration": 554
+    },
+    {
+      "id": "Ix1ujccZImE",
+      "title": "MongoDB bangla tutorial 3 : CRUD | Read documents",
+      "duration": 305
+    },
+    {
+      "id": "t6I9AbH316E",
+      "title": "MongoDB bangla tutorial 4 : CRUD | update document",
+      "duration": 202
+    },
+    {
+      "id": "btyJ3sZXQxA",
+      "title": "MongoDB bangla tutorial 5 : CRUD | delete document",
+      "duration": 230
+    },
+    {
+      "id": "ts8OdvNWQkI",
+      "title": "MongoDB bangla tutorial 6 : how to use mongodb compass",
+      "duration": 292
+    },
+    {
+      "id": "1_f1O7oR-Bk",
+      "title": "MongoDB bangla tutorial 7 : connect MongoDB database with mongoose",
+      "duration": 1089
+    },
+    {
+      "id": "JG_GFbKdlak",
+      "title": "MongoDB bangla tutorial 8 : mongoose schema and model",
+      "duration": 829
+    },
+    {
+      "id": "g1NjeAaVNjU",
+      "title": "MongoDB bangla tutorial 9 : save data in database from express server",
+      "duration": 1217
+    },
+    {
+      "id": "WQvXoSWC7BQ",
+      "title": "MongoDB bangla tutorial 10 : find single | multiple data from database",
+      "duration": 1306
+    },
+    {
+      "id": "N2lBBqrxMKo",
+      "title": "MongoDB bangla tutorial 11 : find data using comparison query parameter",
+      "duration": 999
+    },
+    {
+      "id": "-2knF6h0tTE",
+      "title": "MongoDB bangla tutorial 12 : find data using logical operator",
+      "duration": 930
+    },
+    {
+      "id": "p55OCxz2yMA",
+      "title": "MongoDB bangla tutorial 13 : counting, sorting and selecting data",
+      "duration": 465
+    },
+    {
+      "id": "OcIL2csQGz8",
+      "title": "MongoDB bangla tutorial 14 : Delete data from the MongoDB database",
+      "duration": 646
+    },
+    {
+      "id": "FawoxpIMbP8",
+      "title": "MongoDB bangla tutorial 15 : update data",
+      "duration": 897
+    },
+    {
+      "id": "gJt98C7kNxU",
+      "title": "MongoDB bangla tutorial 16 : mongoose built-in schema validation",
+      "duration": 935
+    },
+    {
+      "id": "DqWIRump3y4",
+      "title": "MongoDB bangla tutorial 17 : mongoose custom schema validation",
+      "duration": 797
+    },
+    {
+      "id": "ADFDxhipgiI",
+      "title": "Your Complete Guide to Full Stack Web Development in 2024 (Bangla)",
+      "duration": 2171
+    }
+  ]
+}

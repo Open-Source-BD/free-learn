@@ -1,0 +1,45 @@
+{
+  "courseId": "object-oriented-programming-oop-in-java-course-26f431",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:51:53.162Z",
+  "title": "Object Oriented Programming (OOP) in Java Course",
+  "channel": "Kunal Kushwaha",
+  "videos": [
+    {
+      "id": "BSVKUk58K6U",
+      "title": "OOP 1 | Introduction & Concepts - Classes, Objects, Constructors, Keywords",
+      "duration": 6147
+    },
+    {
+      "id": "_Ya6CN13t8k",
+      "title": "OOP 2 | Packages, Static, Singleton Class, In-built Methods",
+      "duration": 4753
+    },
+    {
+      "id": "46T2wD3IuhM",
+      "title": "OOP 3 | Principles - Inheritance, Polymorphism, Encapsulation, Abstraction",
+      "duration": 7971
+    },
+    {
+      "id": "W145DXs8fFg",
+      "title": "OOP 4 | Access Control, In-built Packages, Object Class",
+      "duration": 3045
+    },
+    {
+      "id": "rgHZa7-Dibg",
+      "title": "OOP 5 | Abstract Classes, Interfaces, Annotations",
+      "duration": 4242
+    },
+    {
+      "id": "OY2lPr8h93U",
+      "title": "OOP 6 | Generics, Custom ArrayList, Lambda Expressions, Exception Handling, Object Cloning",
+      "duration": 5513
+    },
+    {
+      "id": "9ogGan-R1pc",
+      "title": "OOP 7 | Collections Framework, Vector Class, Enums in Java",
+      "duration": 1600
+    }
+  ]
+}

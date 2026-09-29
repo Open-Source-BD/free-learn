@@ -1,0 +1,580 @@
+{
+  "courseId": "theory-of-computation-automata-theory-67e6bf",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:45.712Z",
+  "title": "Theory of Computation & Automata Theory",
+  "channel": "Neso Academy",
+  "videos": [
+    {
+      "id": "58N2N7zJGrQ",
+      "title": "Introduction to Theory of Computation",
+      "duration": 695
+    },
+    {
+      "id": "TpIBUeyOuv8",
+      "title": "Finite State Machine (Prerequisites)",
+      "duration": 932
+    },
+    {
+      "id": "Qa6csfkK7_I",
+      "title": "Finite State Machine (Finite Automata)",
+      "duration": 665
+    },
+    {
+      "id": "40i4PKpM0cI",
+      "title": "Deterministic Finite Automata (Example 1)",
+      "duration": 588
+    },
+    {
+      "id": "2KindKcLjos",
+      "title": "Deterministic Finite Automata (Example 2)",
+      "duration": 681
+    },
+    {
+      "id": "_2cKtLkdwnc",
+      "title": "Deterministic Finite Automata (Example 3)",
+      "duration": 1049
+    },
+    {
+      "id": "Fpmr1nHqYrw",
+      "title": "Deterministic Finite Automata (Example 4)",
+      "duration": 674
+    },
+    {
+      "id": "WrzaPNj9OZ4",
+      "title": "Regular Languages",
+      "duration": 397
+    },
+    {
+      "id": "6aRJQNYYz4s",
+      "title": "Operations on Regular Languages",
+      "duration": 465
+    },
+    {
+      "id": "ehy0jGIYRtE",
+      "title": "Non-Deterministic Finite Automata",
+      "duration": 387
+    },
+    {
+      "id": "egXhe55dAIk",
+      "title": "Formal Definition of Non-Deterministic Finite Automata (NFA)",
+      "duration": 645
+    },
+    {
+      "id": "4bjqVsoy6bA",
+      "title": "Non-Deterministic Finite Automata (Solved Example 1)",
+      "duration": 425
+    },
+    {
+      "id": "Bcen1W_uFEU",
+      "title": "Non-Deterministic Finite Automata (Solved Example 2)",
+      "duration": 534
+    },
+    {
+      "id": "NGF-b3QVeJU",
+      "title": "Non-Deterministic Finite Automata (Solved Example 3)",
+      "duration": 550
+    },
+    {
+      "id": "--CSVsFIDng",
+      "title": "Conversion of NFA to DFA",
+      "duration": 568
+    },
+    {
+      "id": "pnyXgIXpKnc",
+      "title": "Conversion of NFA to DFA (Example 1)",
+      "duration": 546
+    },
+    {
+      "id": "i-fk9o46oVY",
+      "title": "Conversion of NFA to DFA (Example 2)",
+      "duration": 721
+    },
+    {
+      "id": "dY1bCC6syLI",
+      "title": "Conversion of NFA to DFA (Example 3)",
+      "duration": 479
+    },
+    {
+      "id": "Y92dtMnarAU",
+      "title": "Conversion of NFA to DFA (Example 4)",
+      "duration": 695
+    },
+    {
+      "id": "hOzc4BUIXRk",
+      "title": "Minimization of Deterministic Finite Automata (DFA)",
+      "duration": 370
+    },
+    {
+      "id": "0XaGAkY09Wc",
+      "title": "Minimization of DFA (Example 1)",
+      "duration": 956
+    },
+    {
+      "id": "ex9sPLq5CRg",
+      "title": "Minimization of DFA (Example 2)",
+      "duration": 675
+    },
+    {
+      "id": "DV8cZp-2VmM",
+      "title": "Minimization of DFA (With Multiple Final States)",
+      "duration": 548
+    },
+    {
+      "id": "kYMqDgB2GbU",
+      "title": "Minimization of DFA (With Unreachable States)",
+      "duration": 436
+    },
+    {
+      "id": "UiXkJUTkp44",
+      "title": "Myhill Nerode Theorem - Table Filling Method",
+      "duration": 1180
+    },
+    {
+      "id": "Dx2RJ2DXRYs",
+      "title": "Myhill Nerode Theorem - Table Filling Method (Example)",
+      "duration": 905
+    },
+    {
+      "id": "EzMWYmRkHFQ",
+      "title": "Finite Automata With Outputs",
+      "duration": 636
+    },
+    {
+      "id": "LioitkXDfmA",
+      "title": "Construction of Mealy Machine",
+      "duration": 554
+    },
+    {
+      "id": "s-Ul9dIS9AE",
+      "title": "Construction of Mealy Machine (Example 1)",
+      "duration": 391
+    },
+    {
+      "id": "fkdufhcBraw",
+      "title": "Construction of Mealy Machine (Example 2)",
+      "duration": 552
+    },
+    {
+      "id": "MFnRF07SoFo",
+      "title": "Construction of Moore Machine",
+      "duration": 532
+    },
+    {
+      "id": "BQPSt8dRX1Q",
+      "title": "Construction of Moore Machine (Example 1)",
+      "duration": 579
+    },
+    {
+      "id": "UKTzwXSJiIk",
+      "title": "Construction of Moore Machine (Example 2)",
+      "duration": 385
+    },
+    {
+      "id": "HEVWx4irOx4",
+      "title": "Conversion of Moore Machine to Mealy Machine",
+      "duration": 401
+    },
+    {
+      "id": "lqvVtBdazvg",
+      "title": "Conversion of Moore Machine to Mealy Machine (Example 1)",
+      "duration": 376
+    },
+    {
+      "id": "GHStZkC080k",
+      "title": "Conversion of Moore Machine to Mealy Machine (Example 2)",
+      "duration": 397
+    },
+    {
+      "id": "-etILQcfgTg",
+      "title": "Conversion of Mealy Machine to Moore Machine",
+      "duration": 630
+    },
+    {
+      "id": "rkgbhngdJ5Y",
+      "title": "Conversion of Mealy Machine to Moore Machine (Example 1)",
+      "duration": 676
+    },
+    {
+      "id": "t48LqMDqNrA",
+      "title": "Conversion of Mealy Machine to Moore Machine (Example 2)",
+      "duration": 585
+    },
+    {
+      "id": "j8IkqBJNMwA",
+      "title": "Conversion of Mealy Machine to Moore Machine (Using Transition Table)",
+      "duration": 525
+    },
+    {
+      "id": "84oNUttWlN4",
+      "title": "Epsilon NFA",
+      "duration": 349
+    },
+    {
+      "id": "WSGcmaHNBFM",
+      "title": "Conversion of Epsilon NFA to NFA",
+      "duration": 581
+    },
+    {
+      "id": "I6GFKekMr7s",
+      "title": "Conversion of Epsilon NFA to NFA - Examples (Part 1)",
+      "duration": 429
+    },
+    {
+      "id": "Jz4YQ09nOxA",
+      "title": "Conversion of Epsilon NFA to NFA - Examples (Part 2)",
+      "duration": 440
+    },
+    {
+      "id": "upu_TeZImN0",
+      "title": "Regular Expression",
+      "duration": 283
+    },
+    {
+      "id": "paOPoZyjzdg",
+      "title": "Regular Expression - Examples",
+      "duration": 332
+    },
+    {
+      "id": "yp4pYgXfYD8",
+      "title": "Identities of Regular Expression",
+      "duration": 404
+    },
+    {
+      "id": "Idl_0mPzZjE",
+      "title": "Arden’s Theorem",
+      "duration": 455
+    },
+    {
+      "id": "TkqcPh0BFUw",
+      "title": "An Example Proof using Identities of Regular Expressions",
+      "duration": 349
+    },
+    {
+      "id": "FOhEmW_nMRs",
+      "title": "Designing Regular Expressions",
+      "duration": 415
+    },
+    {
+      "id": "OKFrju0HB7k",
+      "title": "NFA to Regular Expression Conversion",
+      "duration": 817
+    },
+    {
+      "id": "SmT1DXLl3f4",
+      "title": "DFA to Regular Expression Conversion",
+      "duration": 379
+    },
+    {
+      "id": "fRVljh8y7Qw",
+      "title": "DFA to Regular Expression Conversion (when the DFA has Multiple Final States)",
+      "duration": 507
+    },
+    {
+      "id": "RxfXyvfTsgQ",
+      "title": "Conversion of Regular Expression to Finite Automata",
+      "duration": 267
+    },
+    {
+      "id": "62JAy4oH6lU",
+      "title": "Conversion of Regular Expression to Finite Automata - Examples (Part 1)",
+      "duration": 534
+    },
+    {
+      "id": "RsSQPwUIR8U",
+      "title": "Conversion of Regular Expression to Finite Automata - Examples (Part 2)",
+      "duration": 380
+    },
+    {
+      "id": "zSHS_7omxRY",
+      "title": "Conversion of Regular Expression to Finite Automata - Examples (Part 3)",
+      "duration": 408
+    },
+    {
+      "id": "nX4JrcHgpZY",
+      "title": "Equivalence of Two Finite Automata",
+      "duration": 658
+    },
+    {
+      "id": "5Jg3KqRQTvM",
+      "title": "Equivalence of Two Finite Automata (Example)",
+      "duration": 362
+    },
+    {
+      "id": "dikEDuepOtI",
+      "title": "Pumping Lemma (For Regular Languages)",
+      "duration": 488
+    },
+    {
+      "id": "Ty9tpikilAo",
+      "title": "Pumping Lemma (For Regular Languages) | Example 1",
+      "duration": 856
+    },
+    {
+      "id": "kZzH8E-s-9o",
+      "title": "Pumping Lemma (For Regular Languages) | Example 2",
+      "duration": 518
+    },
+    {
+      "id": "WgEsPTAL55Q",
+      "title": "Regular Grammar",
+      "duration": 614
+    },
+    {
+      "id": "ejXgLRSIxsA",
+      "title": "Derivations from a Grammar",
+      "duration": 589
+    },
+    {
+      "id": "5_tfVe7ED3g",
+      "title": "Context Free Grammar & Context Free Language",
+      "duration": 472
+    },
+    {
+      "id": "_dfj__KOo8U",
+      "title": "Regular Languages & Finite Automata (Solved Problem 1)",
+      "duration": 1130
+    },
+    {
+      "id": "efKSarb5oxM",
+      "title": "Regular Languages & Finite Automata (Solved Problem 2)",
+      "duration": 228
+    },
+    {
+      "id": "rtAy-CDYJeo",
+      "title": "Regular Languages & Finite Automata (Solved Problem 3)",
+      "duration": 680
+    },
+    {
+      "id": "XIHctzKa6P4",
+      "title": "Regular Languages & Finite Automata (Solved Problem 4)",
+      "duration": 691
+    },
+    {
+      "id": "gLSLHDYsE38",
+      "title": "Regular Languages & Finite Automata (Solved Problem 5)",
+      "duration": 314
+    },
+    {
+      "id": "x7jO9Dai6Go",
+      "title": "Regular Languages & Finite Automata (Solved Problem 6)",
+      "duration": 376
+    },
+    {
+      "id": "htoFbcwES28",
+      "title": "Method to find whether a String belongs to a Grammar or not",
+      "duration": 691
+    },
+    {
+      "id": "u4-rpIlV9NI",
+      "title": "Derivation Tree (Left & Right Derivation Trees)",
+      "duration": 753
+    },
+    {
+      "id": "wQjppolFdas",
+      "title": "Ambiguous Grammar",
+      "duration": 344
+    },
+    {
+      "id": "EF09zxzpVbk",
+      "title": "Simplification of CFG (Reduction of CFG)",
+      "duration": 837
+    },
+    {
+      "id": "B2o75KpzfU4",
+      "title": "Simplification of CFG (Removal of Unit Productions)",
+      "duration": 516
+    },
+    {
+      "id": "mlXYQ8ug2v4",
+      "title": "Simplification of CFG (Removal of Null Productions)",
+      "duration": 511
+    },
+    {
+      "id": "Mh-UQVmAxnw",
+      "title": "Chomsky Normal Form & CFG to CNF Conversion",
+      "duration": 398
+    },
+    {
+      "id": "FNPSlnj3Vt0",
+      "title": "Conversion of CFG to Chomsky Normal Form",
+      "duration": 778
+    },
+    {
+      "id": "ZCbJan6CGNM",
+      "title": "Greibach Normal Form & CFG to GNF Conversion",
+      "duration": 797
+    },
+    {
+      "id": "rauqqM0nfuI",
+      "title": "CFG to GNF Conversion (Removal of Left Recursion)",
+      "duration": 680
+    },
+    {
+      "id": "jRhqx1_KcCk",
+      "title": "Pumping Lemma (For Context Free Languages)",
+      "duration": 486
+    },
+    {
+      "id": "eQ0XkUk3qGk",
+      "title": "Pumping Lemma (For Context Free Languages) - Examples (Part 1)",
+      "duration": 742
+    },
+    {
+      "id": "DPs8sBcIjs8",
+      "title": "Pumping Lemma (For Context Free Languages) - Examples (Part 2)",
+      "duration": 1064
+    },
+    {
+      "id": "4ejIAmp_Atw",
+      "title": "Pushdown Automata (Introduction)",
+      "duration": 427
+    },
+    {
+      "id": "JtRyd7Svlew",
+      "title": "Pushdown Automata (Formal Definition)",
+      "duration": 556
+    },
+    {
+      "id": "eY7fwj5jvC4",
+      "title": "Pushdown Automata (Graphical Notation)",
+      "duration": 732
+    },
+    {
+      "id": "TEQcJybMMFU",
+      "title": "Pushdown Automata Example - Even Palindrome (Part 1)",
+      "duration": 851
+    },
+    {
+      "id": "BxA-aI2dyRo",
+      "title": "Pushdown Automata Example - Even Palindrome (Part 2)",
+      "duration": 1159
+    },
+    {
+      "id": "xHj2WI1Rrl4",
+      "title": "Pushdown Automata Example - Even Palindrome (Part 3)",
+      "duration": 829
+    },
+    {
+      "id": "FjGrU7vczyg",
+      "title": "Equivalence of CFG and PDA (Part 1)",
+      "duration": 1369
+    },
+    {
+      "id": "kyvLetfjOhc",
+      "title": "Equivalence of CFG and PDA (Part 2a)",
+      "duration": 1307
+    },
+    {
+      "id": "DjbukiTf-48",
+      "title": "Equivalence of CFG and PDA (Part 2b)",
+      "duration": 1173
+    },
+    {
+      "id": "PvLaPKPzq2I",
+      "title": "Turing Machine - Introduction (Part 1)",
+      "duration": 485
+    },
+    {
+      "id": "GPSk9tRsK2I",
+      "title": "Turing Machine - Introduction (Part 2)",
+      "duration": 593
+    },
+    {
+      "id": "yFEdBR-rP9g",
+      "title": "Turing Machine (Formal Definition)",
+      "duration": 578
+    },
+    {
+      "id": "D9eF_B8URnw",
+      "title": "Turing Machine (Example 1)",
+      "duration": 635
+    },
+    {
+      "id": "cR4Re0YfoOo",
+      "title": "Turing Machine (Example 2)",
+      "duration": 831
+    },
+    {
+      "id": "0D7yInuKvKs",
+      "title": "The Church-Turing Thesis",
+      "duration": 805
+    },
+    {
+      "id": "KW9md3j4_cU",
+      "title": "Turing Machine for Even Palindromes",
+      "duration": 949
+    },
+    {
+      "id": "BKhQJP4sa_8",
+      "title": "Turing Machine Programming Techniques (Part 1)",
+      "duration": 688
+    },
+    {
+      "id": "23vQEJWXc-k",
+      "title": "Turing Machine Programming Techniques (Part 2)",
+      "duration": 579
+    },
+    {
+      "id": "CyB3aQhH9u4",
+      "title": "Turing Machine Programming Techniques (Part 3)",
+      "duration": 477
+    },
+    {
+      "id": "CLLutxGVDY4",
+      "title": "Multitape Turing Machine",
+      "duration": 1053
+    },
+    {
+      "id": "gQnPM6sydkk",
+      "title": "Nondeterministic Turing Machine (Part 1)",
+      "duration": 949
+    },
+    {
+      "id": "9Bk11XgiC1E",
+      "title": "Nondeterministic Turing Machine (Part 2)",
+      "duration": 838
+    },
+    {
+      "id": "f_1GptvagSw",
+      "title": "Turing Machine as Problem Solvers",
+      "duration": 724
+    },
+    {
+      "id": "JfX7VK7ocRU",
+      "title": "Decidability and Undecidability",
+      "duration": 462
+    },
+    {
+      "id": "eKCX-4_jzck",
+      "title": "Universal Turing Machine",
+      "duration": 500
+    },
+    {
+      "id": "6XZvw9W9QSc",
+      "title": "The Halting Problem",
+      "duration": 446
+    },
+    {
+      "id": "_eM0-KfAmhQ",
+      "title": "Undecidability of the Halting Problem",
+      "duration": 480
+    },
+    {
+      "id": "VZNN1OGoqr8",
+      "title": "The Post Correspondence Problem",
+      "duration": 869
+    },
+    {
+      "id": "7w9elZjJ9Ko",
+      "title": "Undecidability of the Post Correspondence Problem",
+      "duration": 1666
+    },
+    {
+      "id": "BBuBv3P2aSs",
+      "title": "TOC – Conclusion and Summary",
+      "duration": 452
+    }
+  ]
+}

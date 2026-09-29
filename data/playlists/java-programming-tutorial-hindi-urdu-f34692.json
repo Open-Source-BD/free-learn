@@ -1,0 +1,400 @@
+{
+  "courseId": "java-programming-tutorial-hindi-urdu-f34692",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:25:04.114Z",
+  "title": "Java Programming Tutorial (HINDI/URDU)",
+  "channel": "easytuts4you",
+  "videos": [
+    {
+      "id": "FKzoriOapnU",
+      "title": "Introduction to Java (HINDI/URDU)",
+      "duration": 726
+    },
+    {
+      "id": "hsiD7Zr4AK8",
+      "title": "Features of Java (HINDI/URDU)",
+      "duration": 869
+    },
+    {
+      "id": "Qe026vn1tbc",
+      "title": "Basic Concepts of Object Oriented Programming (HINDI)",
+      "duration": 1016
+    },
+    {
+      "id": "Keok13el9Ag",
+      "title": "How to Set Java Path (HINDI/URDU)",
+      "duration": 923
+    },
+    {
+      "id": "KilSR4bUzTw",
+      "title": "How to Set Path in Java Windows 10 (HINDI)",
+      "duration": 289
+    },
+    {
+      "id": "sHZ7qpss4aQ",
+      "title": "Basic Structure of a Java Program (HINDI)",
+      "duration": 792
+    },
+    {
+      "id": "iOpNgJCEFog",
+      "title": "Data Types in Java (HINDI/URDU)",
+      "duration": 546
+    },
+    {
+      "id": "YcJyY9g7L1s",
+      "title": "Java Virtual Machine (HINDI/URDU)",
+      "duration": 367
+    },
+    {
+      "id": "_wDcUwblE9s",
+      "title": "public static void main(String args[]) in Java Explanation (HINDI)",
+      "duration": 507
+    },
+    {
+      "id": "6sv8wzcy2Fs",
+      "title": "System.out.println in Java Explanation (HINDI)",
+      "duration": 572
+    },
+    {
+      "id": "G24OgNQaOjo",
+      "title": "Compiling and Running a Java Program (HINDI)",
+      "duration": 525
+    },
+    {
+      "id": "85qGu3CFjo8",
+      "title": "A Simple Java Program (HINDI/URDU)",
+      "duration": 442
+    },
+    {
+      "id": "FOuv-mLpjmQ",
+      "title": "Getting Input from User in Java (HINDI)",
+      "duration": 742
+    },
+    {
+      "id": "pQG-ojR0K3Y",
+      "title": "Decision Making and Branching in Java (HINDI)",
+      "duration": 350
+    },
+    {
+      "id": "g3IOLGC-WwM",
+      "title": "If Statement in Java (HINDI/URDU)",
+      "duration": 783
+    },
+    {
+      "id": "UvEkW1wizOo",
+      "title": "If Else Statement in Java (HINDI)",
+      "duration": 621
+    },
+    {
+      "id": "cfNEBWjwLRQ",
+      "title": "Else If Ladder in Java (HINDI/URDU)",
+      "duration": 902
+    },
+    {
+      "id": "-OavipqGUWA",
+      "title": "Nested If statement in Java (HINDI)",
+      "duration": 1060
+    },
+    {
+      "id": "Vg0uPfA4JJk",
+      "title": "Switch Statement in Java (HINDI/URDU)",
+      "duration": 875
+    },
+    {
+      "id": "KAiKPR2eG4A",
+      "title": "Conditional Operator in Java (HINDI/URDU)",
+      "duration": 598
+    },
+    {
+      "id": "IfJsi2noC8s",
+      "title": "While Loop in Java (HINDI/URDU)",
+      "duration": 472
+    },
+    {
+      "id": "YSVX5GWJqH0",
+      "title": "Do While Loop in Java (HINDI)",
+      "duration": 463
+    },
+    {
+      "id": "ygivEeptFZo",
+      "title": "For Loop in Java (HINDI/URDU)",
+      "duration": 479
+    },
+    {
+      "id": "1Uy9fiNohcI",
+      "title": "Nesting of For Loops in Java (HINDI)",
+      "duration": 491
+    },
+    {
+      "id": "hguOi6hXBKE",
+      "title": "Jumps in Loops in Java (HINDI)",
+      "duration": 706
+    },
+    {
+      "id": "izwzvDrKJ_A",
+      "title": "Labeled Loops  in Java (HINDI)",
+      "duration": 1074
+    },
+    {
+      "id": "mzyY8YuKqrg",
+      "title": "Defining Class in Java (HINDI/URDU)",
+      "duration": 1302
+    },
+    {
+      "id": "a5Vszq32Giw",
+      "title": "Creating Objects and Accessing Class Members in Java (HINDI)",
+      "duration": 792
+    },
+    {
+      "id": "6Xb6IeQU1mQ",
+      "title": "Program with Multiple Classes in Java (HINDI)",
+      "duration": 521
+    },
+    {
+      "id": "IogV9vO2HIc",
+      "title": "Constructors in Java (HINDI/URDU)",
+      "duration": 559
+    },
+    {
+      "id": "UZpYmDAmtMs",
+      "title": "Default Constructor in Java (HINDI/URDU)",
+      "duration": 601
+    },
+    {
+      "id": "DigTjJ4t98k",
+      "title": "Parameterized Constructor in Java (HINDI)",
+      "duration": 657
+    },
+    {
+      "id": "bxp8l1E10OE",
+      "title": "Method Overloading in Java (HINDI/URDU)",
+      "duration": 963
+    },
+    {
+      "id": "d_QyK1YLluo",
+      "title": "Static Members in Java (HINDI/URDU)",
+      "duration": 728
+    },
+    {
+      "id": "2dRQR2nx0Nk",
+      "title": "Static Methods in Java (HINDI/URDU)",
+      "duration": 678
+    },
+    {
+      "id": "7zVTYut2DnM",
+      "title": "Nesting of Methods in Java (HINDI/URDU)",
+      "duration": 810
+    },
+    {
+      "id": "u0RAtq7KWXQ",
+      "title": "Inheritance in Java (HINDI/URDU)",
+      "duration": 838
+    },
+    {
+      "id": "P3SCj8y2_4M",
+      "title": "Single Inheritance in Java (HINDI)",
+      "duration": 913
+    },
+    {
+      "id": "Qa46_4aCfdg",
+      "title": "Multilevel Inheritance in Java (HINDI)",
+      "duration": 855
+    },
+    {
+      "id": "p8MCAyq8oKg",
+      "title": "Hierarchical Inheritance in Java (HINDI)",
+      "duration": 948
+    },
+    {
+      "id": "S9QdqH5FgzQ",
+      "title": "Methods Overriding in Java (HINDI)",
+      "duration": 723
+    },
+    {
+      "id": "RASt7XCJX7g",
+      "title": "Abstract Methods and Classes in Java (HINDI)",
+      "duration": 1438
+    },
+    {
+      "id": "uMXuUzb78zU",
+      "title": "Final Variable Methods and Classes in Java (HINDI)",
+      "duration": 1189
+    },
+    {
+      "id": "Bop2o1iUrjw",
+      "title": "Interface in Java (HINDI/URDU)",
+      "duration": 938
+    },
+    {
+      "id": "t0Za6e-P9ro",
+      "title": "Extending & Implementing Interfaces in Java (HINDI)",
+      "duration": 1105
+    },
+    {
+      "id": "x9sIOGqr-qg",
+      "title": "Multiple Inheritance Using Interface in Java (HINDI)",
+      "duration": 916
+    },
+    {
+      "id": "xiqHjwBb5-E",
+      "title": "Arrays in Java (HINDI)",
+      "duration": 2463
+    },
+    {
+      "id": "IBH93bKQFAo",
+      "title": "Super Keyword in Java (HINDI/URDU)",
+      "duration": 1202
+    },
+    {
+      "id": "MeXsbSVQOlY",
+      "title": "Calling Super Class Constructors Using 'Super' Keyword in Java (HINDI)",
+      "duration": 1471
+    },
+    {
+      "id": "H1SYzdEMWvY",
+      "title": "Introduction to Packages in Java (HINDI)",
+      "duration": 1663
+    },
+    {
+      "id": "ydsQOkS5xDE",
+      "title": "Access Modifiers in Java (HINDI/URDU)",
+      "duration": 2865
+    },
+    {
+      "id": "TOWCWYxRlqw",
+      "title": "Creating and Using Packages in Java (HINDI)",
+      "duration": 1611
+    },
+    {
+      "id": "Pv-YzR_DogU",
+      "title": "Creating Package Inside Another Package in Java (HINDI)",
+      "duration": 1019
+    },
+    {
+      "id": "6Goe4pfvK5c",
+      "title": "Example Program for Creating and Using Packages in Java (HINDI)",
+      "duration": 653
+    },
+    {
+      "id": "Tyur6ZHjg_s",
+      "title": "Threads in Java (HINDI)",
+      "duration": 958
+    },
+    {
+      "id": "-Du4oc6M8dg",
+      "title": "Multithreading in Java (HINDI)",
+      "duration": 977
+    },
+    {
+      "id": "Wse4OQLO-PY",
+      "title": "Life Cycle of a Thread in Java (HINDI)",
+      "duration": 935
+    },
+    {
+      "id": "s14Z-b-tfkw",
+      "title": "Creating Threads in Java (HINDI)",
+      "duration": 895
+    },
+    {
+      "id": "ikvCkpzNxnw",
+      "title": "Creating Threads by Extending Thread Class in Java (HINDI)",
+      "duration": 1898
+    },
+    {
+      "id": "Kvm_BKklpTc",
+      "title": "Exception Handling in Java  (HINDI)",
+      "duration": 895
+    },
+    {
+      "id": "PETeuPk0BLU",
+      "title": "Catching Invalid Command Line Arguments in Java (HINDI)",
+      "duration": 1360
+    },
+    {
+      "id": "n6cYtMKgN10",
+      "title": "Exception Handling Explanation with an Example Program in Java (HINDI)",
+      "duration": 1367
+    },
+    {
+      "id": "opYe7jVF9Yo",
+      "title": "Nested Try Blocks / Statements in Java (HINDI)",
+      "duration": 1446
+    },
+    {
+      "id": "diKAgTWbLO4",
+      "title": "Creating Threads by Implementing Runnable Interface in Java (HINDI)",
+      "duration": 1122
+    },
+    {
+      "id": "WRkSW_Apvp4",
+      "title": "Strings in Java (HINDI/URDU)",
+      "duration": 1261
+    },
+    {
+      "id": "xMDBvcZtivU",
+      "title": "String Concatenation in Java (HINDI)",
+      "duration": 1943
+    },
+    {
+      "id": "MU1RIBFfl4o",
+      "title": "Comparing Two Strings using compareTo() Method in Java (HINDI)",
+      "duration": 1334
+    },
+    {
+      "id": "aAybe7kKxCo",
+      "title": "Sorting Strings Alphabetically using compareTo() Method in Java (HINDI)",
+      "duration": 1719
+    },
+    {
+      "id": "ij6uAiiO2vg",
+      "title": "Comparing Strings using equals() & equalsIgnoreCase() in Java (HINDI)",
+      "duration": 985
+    },
+    {
+      "id": "kdEx6nkiJv0",
+      "title": "StringBuffer Class in Java with Example (HINDI)",
+      "duration": 1311
+    },
+    {
+      "id": "GdDKb_9kHnk",
+      "title": "charAt() and setCharAt() in Java (HINDI)",
+      "duration": 995
+    },
+    {
+      "id": "9k_mUCJBVhg",
+      "title": "delete() and  deleteCharAt() Method in Java (HINDI)",
+      "duration": 745
+    },
+    {
+      "id": "FUzaAcyzOOQ",
+      "title": "insert() & append() Method in Java (HINDI)",
+      "duration": 1062
+    },
+    {
+      "id": "WYn3Dnb5ov8",
+      "title": "Applets in Java (HINDI)",
+      "duration": 1643
+    },
+    {
+      "id": "HMJYgF35D1I",
+      "title": "Installing and Enabling Java Plugin to Run Java Applets in Browser  (HINDI)",
+      "duration": 261
+    },
+    {
+      "id": "zG52H-yHBJc",
+      "title": "How to Configure Java Control Panel to Run Local Java Applets in Browser? (HINDI)",
+      "duration": 252
+    },
+    {
+      "id": "ADBW7bST2KQ",
+      "title": "Running Java Applet using Web Browser and Applet Viewer (HINDI)",
+      "duration": 826
+    },
+    {
+      "id": "qms4mzmf45k",
+      "title": "Using the Status Window in Java Applet (HINDI)",
+      "duration": 369
+    }
+  ]
+}

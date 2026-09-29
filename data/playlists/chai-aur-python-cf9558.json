@@ -1,0 +1,150 @@
+{
+  "courseId": "chai-aur-python-cf9558",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:31:53.245Z",
+  "title": "Chai aur Python",
+  "channel": "Chai aur Code",
+  "videos": [
+    {
+      "id": "Ca5DLSDfPec",
+      "title": "Python series launch | chai aur python for beginners",
+      "duration": 471
+    },
+    {
+      "id": "0e2e2KcoQm4",
+      "title": "What is the best way to install python",
+      "duration": 1202
+    },
+    {
+      "id": "3HTKc-ZgZbg",
+      "title": "Python inner working",
+      "duration": 1128
+    },
+    {
+      "id": "OEKrDogH5ew",
+      "title": "Python in shell",
+      "duration": 1206
+    },
+    {
+      "id": "MDZ4y-GgZ8k",
+      "title": "Immutable and mutable in python",
+      "duration": 1030
+    },
+    {
+      "id": "v8veitfmmDo",
+      "title": "Python Data Types - Big Picture | #chaiaurpython",
+      "duration": 1850
+    },
+    {
+      "id": "brp5aiuWfso",
+      "title": "Internal working of python | Copy, reference counts, slice",
+      "duration": 1820
+    },
+    {
+      "id": "E4GNbP4SbKM",
+      "title": "Numbers in depth in python",
+      "duration": 2873
+    },
+    {
+      "id": "ekrgx893sig",
+      "title": "Strings in python",
+      "duration": 1844
+    },
+    {
+      "id": "AY_3MOo8tHw",
+      "title": "List in python",
+      "duration": 1934
+    },
+    {
+      "id": "DHQWUXeEvow",
+      "title": "Dictionary in python",
+      "duration": 1576
+    },
+    {
+      "id": "ALGOl8pJc44",
+      "title": "Tuples in python",
+      "duration": 582
+    },
+    {
+      "id": "Nx-43wgs_Bo",
+      "title": "Solve 10 conditional problem in python",
+      "duration": 3217
+    },
+    {
+      "id": "AuRbiiB6x4I",
+      "title": "Solve 10 loops problem in python",
+      "duration": 2979
+    },
+    {
+      "id": "_VxQ5jzo37o",
+      "title": "Behind the scene of loops in python",
+      "duration": 1747
+    },
+    {
+      "id": "JptOj-D6gtw",
+      "title": "Solve 10 problems on functions in python",
+      "duration": 3552
+    },
+    {
+      "id": "UPf0o6xKARY",
+      "title": "Scopes and closure in python",
+      "duration": 1854
+    },
+    {
+      "id": "6soT3DMBJGQ",
+      "title": "Object Oriented Programming in python",
+      "duration": 4109
+    },
+    {
+      "id": "ZEKiIwWv9nM",
+      "title": "What are decorators in python",
+      "duration": 2361
+    },
+    {
+      "id": "ADjFcApMoIs",
+      "title": "Farewell to python series",
+      "duration": 333
+    },
+    {
+      "id": "nqE4HOtZt1Y",
+      "title": "Python Project  - Youtube manager app",
+      "duration": 4057
+    },
+    {
+      "id": "rq5mUupP-Tg",
+      "title": "Python project   Youtube manager with sqlite3",
+      "duration": 1973
+    },
+    {
+      "id": "g33-tYIs7zU",
+      "title": "Handling API in python",
+      "duration": 1644
+    },
+    {
+      "id": "SWPJwE0TVXw",
+      "title": "Python Project   Youtube manager with mongoDB",
+      "duration": 2636
+    },
+    {
+      "id": "nwN27ORTUXg",
+      "title": "Python Virtual environment guide",
+      "duration": 1100
+    },
+    {
+      "id": "iKG6qg9ksJ0",
+      "title": "Explore Open source code of python",
+      "duration": 831
+    },
+    {
+      "id": "glllhcr-LXY",
+      "title": "Conda and jupyter notebook in python",
+      "duration": 1734
+    },
+    {
+      "id": "mIw7HppKRys",
+      "title": "Python for javascript developers",
+      "duration": 893
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "courseId": "deep-generative-models-86fc3c",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:41:38.671Z",
+  "title": "Deep Generative Models (Cornell Tech CS 6785, Spring 2023)",
+  "channel": "Volodymyr Kuleshov",
+  "videos": [
+    {
+      "id": "IZgvgLy1wyg",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 1: Course Introduction",
+      "duration": 4043
+    },
+    {
+      "id": "FBGj_B6hH9Y",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 2: Introduction to Probabilistic Modeling",
+      "duration": 3934
+    },
+    {
+      "id": "Y3cJFaM8w2w",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 3: Autoregressive Models",
+      "duration": 4190
+    },
+    {
+      "id": "-OjBWNmXYyg",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 4: Maximum Likelihood Learning",
+      "duration": 3820
+    },
+    {
+      "id": "KQOQyrkU8rk",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 5: Latent Variable Models",
+      "duration": 3970
+    },
+    {
+      "id": "v86nlzoYrYI",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 6: Learning Latent Variable Models",
+      "duration": 3765
+    },
+    {
+      "id": "3IqRV40LKPs",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 7: Normalizing Flows",
+      "duration": 3803
+    },
+    {
+      "id": "IEx8ZgeN8kQ",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 8: Advanced Flow Models",
+      "duration": 4171
+    },
+    {
+      "id": "-3fzhDufRDc",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 9: Generative Adversarial Networks",
+      "duration": 4081
+    },
+    {
+      "id": "Ml15crPldBk",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 10: Advanced Topics in GANs",
+      "duration": 3854
+    },
+    {
+      "id": "W0rCcPKF4Yc",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 11: Energy-Based Models",
+      "duration": 4293
+    },
+    {
+      "id": "jW48tmRwv4U",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 12: Score-Based Generative Models",
+      "duration": 4593
+    },
+    {
+      "id": "yUnIzzNiyho",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 13: Diffusion Models",
+      "duration": 4336
+    },
+    {
+      "id": "hD2cakJLKpg",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 14: Evaluating Generative Models",
+      "duration": 4192
+    },
+    {
+      "id": "gwUN1vCt0oU",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 15: Combining Generative Model Families",
+      "duration": 4129
+    },
+    {
+      "id": "akj-5TetUjk",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 16: Discrete Deep Generative Models",
+      "duration": 4318
+    },
+    {
+      "id": "AmycLF6hCvU",
+      "title": "Cornell CS 6785: Deep Generative Models. Lecture 17: Probabilistic Reasoning",
+      "duration": 4405
+    }
+  ]
+}

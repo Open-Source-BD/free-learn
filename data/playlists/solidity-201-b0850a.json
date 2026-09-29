@@ -1,0 +1,35 @@
+{
+  "courseId": "solidity-201-b0850a",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLYORQHvGMg-V9w6UZ_YOQYjG5NPqnRwdc",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:49.505Z",
+  "title": "Solidity 201",
+  "channel": "Secureum",
+  "videos": [
+    {
+      "id": "0kx8M4u5980",
+      "title": "Solidity 201 (Block 5)",
+      "duration": 1837
+    },
+    {
+      "id": "L_9Fk6HRwpU",
+      "title": "Solidity 201 (Block 4)",
+      "duration": 1235
+    },
+    {
+      "id": "C0zBhTgppLQ",
+      "title": "Solidity 201 (Block 3)",
+      "duration": 2373
+    },
+    {
+      "id": "TqMIbouwePE",
+      "title": "Solidity 201 (Block 2)",
+      "duration": 2110
+    },
+    {
+      "id": "3bFgsmsQXrE",
+      "title": "Solidity 201 (Block 1)",
+      "duration": 1620
+    }
+  ]
+}

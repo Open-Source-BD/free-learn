@@ -1,0 +1,585 @@
+{
+  "courseId": "c-plus-plus-e31442",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:24.675Z",
+  "title": "C++",
+  "channel": "by The Cherno",
+  "videos": [
+    {
+      "id": "18c3MTX0PK0",
+      "title": "Welcome to C++",
+      "duration": 425
+    },
+    {
+      "id": "1OsGXuNA5cc",
+      "title": "How to Setup C++ on Windows",
+      "duration": 516
+    },
+    {
+      "id": "1E_kBSka_ec",
+      "title": "How to Setup C++ on Mac",
+      "duration": 209
+    },
+    {
+      "id": "LKLuvoY6U0I",
+      "title": "How to Setup C++ on Linux",
+      "duration": 492
+    },
+    {
+      "id": "SfGuIVzE_Os",
+      "title": "How C++ Works",
+      "duration": 1221
+    },
+    {
+      "id": "3tIqpEmWMLI",
+      "title": "How the C++ Compiler Works",
+      "duration": 1075
+    },
+    {
+      "id": "H4s55GgAg0I",
+      "title": "How the C++ Linker Works",
+      "duration": 952
+    },
+    {
+      "id": "zB9RI8_wExo",
+      "title": "Variables in C++",
+      "duration": 826
+    },
+    {
+      "id": "V9zuox47zr0",
+      "title": "Functions in C++",
+      "duration": 590
+    },
+    {
+      "id": "9RJTQmK0YPI",
+      "title": "C++ Header Files",
+      "duration": 910
+    },
+    {
+      "id": "0ebzPwixrJA",
+      "title": "How to DEBUG C++ in VISUAL STUDIO",
+      "duration": 1160
+    },
+    {
+      "id": "qEgCT87KOfc",
+      "title": "CONDITIONS and BRANCHES in C++ (if statements)",
+      "duration": 1423
+    },
+    {
+      "id": "qeH9Xv_90KM",
+      "title": "BEST Visual Studio Setup for C++ Projects!",
+      "duration": 728
+    },
+    {
+      "id": "_1AwR-un4Hk",
+      "title": "Loops in C++ (for loops, while loops)",
+      "duration": 740
+    },
+    {
+      "id": "a3IZ8WaIFAA",
+      "title": "Control Flow in C++ (continue, break, return)",
+      "duration": 500
+    },
+    {
+      "id": "DTxHyVn0ODg",
+      "title": "POINTERS in C++",
+      "duration": 1019
+    },
+    {
+      "id": "IzoFn3dfsPA",
+      "title": "REFERENCES in C++",
+      "duration": 613
+    },
+    {
+      "id": "2BP8NhxjrO0",
+      "title": "CLASSES in C++",
+      "duration": 522
+    },
+    {
+      "id": "fLgTtaqqJp0",
+      "title": "CLASSES vs STRUCTS in C++",
+      "duration": 512
+    },
+    {
+      "id": "3dHBFBw13E0",
+      "title": "How to Write a C++ Class",
+      "duration": 692
+    },
+    {
+      "id": "f3FVU-iwNuA",
+      "title": "Static in C++",
+      "duration": 389
+    },
+    {
+      "id": "V-BFlMrBtqQ",
+      "title": "Static for Classes and Structs in C++",
+      "duration": 552
+    },
+    {
+      "id": "x55jfOd5PEE",
+      "title": "ENUMS in C++",
+      "duration": 465
+    },
+    {
+      "id": "FXhALMsHwEY",
+      "title": "Constructors in C++",
+      "duration": 418
+    },
+    {
+      "id": "D8cWquReFqw",
+      "title": "Destructors in C++",
+      "duration": 287
+    },
+    {
+      "id": "X8nYM8wdNRE",
+      "title": "Inheritance in C++",
+      "duration": 480
+    },
+    {
+      "id": "oIV2KchSyGQ",
+      "title": "Virtual Functions in C++",
+      "duration": 405
+    },
+    {
+      "id": "UWAdd13EfM8",
+      "title": "Interfaces in C++ (Pure Virtual Functions)",
+      "duration": 415
+    },
+    {
+      "id": "6OVQ8nh3KP0",
+      "title": "Visibility in C++",
+      "duration": 529
+    },
+    {
+      "id": "ENDaJi08jCU",
+      "title": "Arrays in C++",
+      "duration": 1111
+    },
+    {
+      "id": "ijIxcB9qjaU",
+      "title": "How Strings Work in C++ (and how to use them)",
+      "duration": 1166
+    },
+    {
+      "id": "FeHZHF0f2dw",
+      "title": "String Literals in C++",
+      "duration": 847
+    },
+    {
+      "id": "4fJBrditnJU",
+      "title": "CONST in C++",
+      "duration": 774
+    },
+    {
+      "id": "bP9z3H3cVMY",
+      "title": "The Mutable Keyword in C++",
+      "duration": 416
+    },
+    {
+      "id": "1nfuYMXjZsA",
+      "title": "Member Initializer Lists in C++ (Constructor Initializer List)",
+      "duration": 517
+    },
+    {
+      "id": "ezqsL-st8qg",
+      "title": "Ternary Operators in C++ (Conditional Assignment)",
+      "duration": 481
+    },
+    {
+      "id": "Ks97R1knQDY",
+      "title": "How to CREATE/INSTANTIATE OBJECTS in C++",
+      "duration": 783
+    },
+    {
+      "id": "NUZdUSqsCs4",
+      "title": "The NEW Keyword in C++",
+      "duration": 653
+    },
+    {
+      "id": "Rr1NX1lH3oE",
+      "title": "Implicit Conversion and the Explicit Keyword in C++",
+      "duration": 474
+    },
+    {
+      "id": "mS9755gF66w",
+      "title": "OPERATORS and OPERATOR OVERLOADING in C++",
+      "duration": 764
+    },
+    {
+      "id": "Z_hPJ_EhceI",
+      "title": "The \"this\" keyword in C++",
+      "duration": 368
+    },
+    {
+      "id": "iNuTwvD6ciI",
+      "title": "Object Lifetime in C++ (Stack/Scope Lifetimes)",
+      "duration": 660
+    },
+    {
+      "id": "UOB7-B2MfwA",
+      "title": "SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)",
+      "duration": 697
+    },
+    {
+      "id": "BvR1Pgzzr38",
+      "title": "Copying and Copy Constructors in C++",
+      "duration": 1252
+    },
+    {
+      "id": "4p3grlSpWYA",
+      "title": "The Arrow Operator in C++",
+      "duration": 473
+    },
+    {
+      "id": "PocJ5jXv8No",
+      "title": "Dynamic Arrays in C++ (std::vector)",
+      "duration": 854
+    },
+    {
+      "id": "HcESuwmlHEY",
+      "title": "Optimizing the usage of std::vector in C++",
+      "duration": 584
+    },
+    {
+      "id": "f7mtWD9GdJ4",
+      "title": "Local Static in C++",
+      "duration": 460
+    },
+    {
+      "id": "or1dAmUO8k0",
+      "title": "Using Libraries in C++ (Static Linking)",
+      "duration": 1123
+    },
+    {
+      "id": "pLy69V2F_8M",
+      "title": "Using Dynamic Libraries in C++",
+      "duration": 607
+    },
+    {
+      "id": "Wt4dxDNmDA8",
+      "title": "Making and Working with Libraries in C++ (Multiple Projects in Visual Studio)",
+      "duration": 747
+    },
+    {
+      "id": "3cm0VckC8q0",
+      "title": "How to Deal with Multiple Return Values in C++",
+      "duration": 1040
+    },
+    {
+      "id": "I-hZkUa9mIs",
+      "title": "Templates in C++",
+      "duration": 1078
+    },
+    {
+      "id": "wJ1L2nSIV1s",
+      "title": "Stack vs Heap Memory in C++",
+      "duration": 1171
+    },
+    {
+      "id": "j3mYki1SrKE",
+      "title": "Macros in C++",
+      "duration": 1176
+    },
+    {
+      "id": "2vOPEuiGXVo",
+      "title": "The \"auto\" keyword in C++",
+      "duration": 1024
+    },
+    {
+      "id": "Hw42GkHPyvk",
+      "title": "Static Arrays in C++ (std::array)",
+      "duration": 639
+    },
+    {
+      "id": "p4sDgQ-jao4",
+      "title": "Function Pointers in C++",
+      "duration": 761
+    },
+    {
+      "id": "mWgmBBz0y8c",
+      "title": "Lambdas in C++",
+      "duration": 714
+    },
+    {
+      "id": "4NYC-VU-svE",
+      "title": "Why I don't \"using namespace std\"",
+      "duration": 875
+    },
+    {
+      "id": "ts1Eek5w7ZA",
+      "title": "Namespaces in C++",
+      "duration": 797
+    },
+    {
+      "id": "wXBcwHwIt_I",
+      "title": "Threads in C++",
+      "duration": 695
+    },
+    {
+      "id": "oEx5vGNFrLk",
+      "title": "Timing in C++",
+      "duration": 675
+    },
+    {
+      "id": "gNgUMA_Ur0U",
+      "title": "Multidimensional Arrays in C++ (2D arrays)",
+      "duration": 1221
+    },
+    {
+      "id": "x0uUKWJzSO4",
+      "title": "Sorting in C++",
+      "duration": 403
+    },
+    {
+      "id": "8egZ_5GA9Bc",
+      "title": "Type Punning in C++",
+      "duration": 800
+    },
+    {
+      "id": "6uqU9Y578n4",
+      "title": "Unions in C++",
+      "duration": 530
+    },
+    {
+      "id": "jELbKhGkEi0",
+      "title": "Virtual Destructors in C++",
+      "duration": 475
+    },
+    {
+      "id": "pWZS1MtxI-A",
+      "title": "Casting in C++",
+      "duration": 805
+    },
+    {
+      "id": "9ncNA6Co2Nk",
+      "title": "Conditional and Action Breakpoints in C++",
+      "duration": 668
+    },
+    {
+      "id": "CWglkNBUmD4",
+      "title": "Safety in modern C++ and how to teach it",
+      "duration": 1072
+    },
+    {
+      "id": "eSI4wctZUto",
+      "title": "Precompiled Headers in C++",
+      "duration": 1290
+    },
+    {
+      "id": "CiHfz6pTolQ",
+      "title": "Dynamic Casting in C++",
+      "duration": 839
+    },
+    {
+      "id": "YG4jexlSAjc",
+      "title": "BENCHMARKING in C++ (how to measure performance)",
+      "duration": 892
+    },
+    {
+      "id": "eUsTO5BO3WI",
+      "title": "STRUCTURED BINDINGS in C++",
+      "duration": 603
+    },
+    {
+      "id": "UAAiwObNhQ0",
+      "title": "How to Deal with OPTIONAL Data in C++",
+      "duration": 606
+    },
+    {
+      "id": "qCc_Vqg3hJk",
+      "title": "Multiple TYPES of Data in a SINGLE VARIABLE in C++?",
+      "duration": 603
+    },
+    {
+      "id": "7nPrUBNGRAk",
+      "title": "How to store ANY data in C++",
+      "duration": 794
+    },
+    {
+      "id": "5HWCsmE9DrE",
+      "title": "How to make C++ run FASTER (with std::async)",
+      "duration": 1390
+    },
+    {
+      "id": "ZO68JEgoPeg",
+      "title": "How to make your STRINGS FASTER in C++!",
+      "duration": 902
+    },
+    {
+      "id": "xlAH4dbMVnU",
+      "title": "VISUAL BENCHMARKING in C++ (how to measure performance visually)",
+      "duration": 1089
+    },
+    {
+      "id": "PPup1yeU45I",
+      "title": "SINGLETONS in C++",
+      "duration": 1156
+    },
+    {
+      "id": "S7oVXMzTo4w",
+      "title": "Small String Optimization in C++",
+      "duration": 794
+    },
+    {
+      "id": "sLlGEUO_EGE",
+      "title": "Track MEMORY ALLOCATIONS the Easy Way in C++",
+      "duration": 805
+    },
+    {
+      "id": "fbYknr-HPYE",
+      "title": "lvalues and rvalues in C++",
+      "duration": 853
+    },
+    {
+      "id": "FHPtchw-eHA",
+      "title": "Continuous Integration in C++",
+      "duration": 882
+    },
+    {
+      "id": "vYW6TOwFK2M",
+      "title": "Static Analysis in C++",
+      "duration": 875
+    },
+    {
+      "id": "qYxTP7wrCho",
+      "title": "Argument Evaluation Order in C++",
+      "duration": 682
+    },
+    {
+      "id": "ehMg6zvXuMY",
+      "title": "Move Semantics in C++",
+      "duration": 790
+    },
+    {
+      "id": "OWNeCTd7yQE",
+      "title": "std::move and the Move Assignment Operator in C++",
+      "duration": 966
+    },
+    {
+      "id": "TzB5ZeKQIHM",
+      "title": "ARRAY - Making DATA STRUCTURES in C++",
+      "duration": 1399
+    },
+    {
+      "id": "ryRf4Jh_YC0",
+      "title": "VECTOR/DYNAMIC ARRAY -  Making DATA STRUCTURES in C++",
+      "duration": 2725
+    },
+    {
+      "id": "SgcHcbQ0RCQ",
+      "title": "ITERATORS in C++",
+      "duration": 1029
+    },
+    {
+      "id": "F9eDv-YIOQ0",
+      "title": "Writing an ITERATOR in C++",
+      "duration": 1184
+    },
+    {
+      "id": "_zQqN5OYCCM",
+      "title": "How to REALLY learn C++",
+      "duration": 493
+    },
+    {
+      "id": "KXwRt7og0gI",
+      "title": "Intro to Binary and Bitwise Operators in C++",
+      "duration": 1300
+    },
+    {
+      "id": "HoQhw6_1NAA",
+      "title": "Bitwise AND (&), OR (|), XOR (^) and NOT (~) in C++",
+      "duration": 1227
+    },
+    {
+      "id": "kQsHF7C-FUY",
+      "title": "I did a C++ University Assignment",
+      "duration": 3023
+    },
+    {
+      "id": "vWXrFetSH8w",
+      "title": "BEST WAY to make Desktop Applications in C++",
+      "duration": 1560
+    },
+    {
+      "id": "KiB0vRi2wlc",
+      "title": "Maps in C++ (std::map and std::unordered_map)",
+      "duration": 1800
+    },
+    {
+      "id": "PksUUwvq-po",
+      "title": "What exactly is NULL?",
+      "duration": 1086
+    },
+    {
+      "id": "5glH8dGoeCA",
+      "title": "How to Properly Setup C++ Projects",
+      "duration": 1966
+    },
+    {
+      "id": "OK0G4cmeX-I",
+      "title": "Conversion Operators in C++",
+      "duration": 1196
+    },
+    {
+      "id": "JPlTuRj1OJo",
+      "title": "Make C++ Apps & Games FOR THE WEB",
+      "duration": 930
+    },
+    {
+      "id": "M0GLQEfplxs",
+      "title": "Weak Pointers in C++ (std::weak_ptr)",
+      "duration": 1045
+    },
+    {
+      "id": "Xx-NcqmveDc",
+      "title": "Stop using std::vector wrong",
+      "duration": 1394
+    },
+    {
+      "id": "LlzT3OBD5fA",
+      "title": "Naming Conventions in C++",
+      "duration": 968
+    },
+    {
+      "id": "teOe2IKGlC0",
+      "title": "C++ FINALLY Made Logging GOOD!",
+      "duration": 837
+    },
+    {
+      "id": "Vz40rDiWnN8",
+      "title": "C++ FINALLY Improved Error Handling with std::expected!",
+      "duration": 1351
+    },
+    {
+      "id": "RzdM54i7buY",
+      "title": "HTTP in C++",
+      "duration": 784
+    },
+    {
+      "id": "y5MQPlIASHg",
+      "title": "Be Careful with References! // Bugs of C++",
+      "duration": 710
+    },
+    {
+      "id": "CKgNHc9YNe0",
+      "title": "HTTP SERVER in C++",
+      "duration": 934
+    },
+    {
+      "id": "KhftHT09F5g",
+      "title": "DON'T DELETE THIS! // Bugs of C++",
+      "duration": 1023
+    },
+    {
+      "id": "FP27I7v0BeM",
+      "title": "Reference Counting in C++",
+      "duration": 843
+    },
+    {
+      "id": "vtGjBFBrYEw",
+      "title": "Is This C++ Code Actually Safe?",
+      "duration": 777
+    }
+  ]
+}

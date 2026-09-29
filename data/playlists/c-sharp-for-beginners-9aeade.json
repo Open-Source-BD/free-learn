@@ -1,0 +1,105 @@
+{
+  "courseId": "c-sharp-for-beginners-9aeade",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:18.694Z",
+  "title": "C# for Beginners",
+  "channel": "dotnet",
+  "videos": [
+    {
+      "id": "9THmGiSPjBQ",
+      "title": "What is C#? [Pt 1] | C# for Beginners",
+      "duration": 103
+    },
+    {
+      "id": "HFLALzkcjLM",
+      "title": "Hello World! [Pt 2] | C# for Beginners",
+      "duration": 363
+    },
+    {
+      "id": "3ST-7TP09qk",
+      "title": "Basics of VS Code and the C# DevKit [Pt 3] | C# for Beginners",
+      "duration": 358
+    },
+    {
+      "id": "lXheKhL6dDA",
+      "title": "Hello World, Introducing Strings! [Pt 4] | C# for Beginners",
+      "duration": 320
+    },
+    {
+      "id": "nus5SP3AoHM",
+      "title": "The Basics of Strings! [Pt 5] | C# for Beginners",
+      "duration": 593
+    },
+    {
+      "id": "UETol82cPZk",
+      "title": "Searching Strings [Pt 6] | C# for Beginners",
+      "duration": 950
+    },
+    {
+      "id": "ZXCMBOxry8A",
+      "title": "Numbers, Integers, and Math [Pt 7] | C# for Beginners",
+      "duration": 866
+    },
+    {
+      "id": "Kg_k0vL0dD4",
+      "title": "Numbers, Precision, Casting, Doubles, and More [Pt 8] | C# for Beginners",
+      "duration": 693
+    },
+    {
+      "id": "yH-ewL_u8w8",
+      "title": "Branching, Ifs, and Conditional Logic [Pt 9] | C# for Beginners",
+      "duration": 869
+    },
+    {
+      "id": "GLzAkJb0eoA",
+      "title": "Branching and While Loops [Pt 10] | C# for Beginners",
+      "duration": 616
+    },
+    {
+      "id": "yuRdCZMuak0",
+      "title": "For Loops [Pt 11] | C# for Beginners",
+      "duration": 653
+    },
+    {
+      "id": "M3UsM9l1m6c",
+      "title": "List T and Collections of Data [Pt 12]  | C# for Beginners",
+      "duration": 728
+    },
+    {
+      "id": "7PDNqmBdtrE",
+      "title": "Arrays, Lists, Indexing, and Foreach [Pt 13] | C# for Beginners",
+      "duration": 686
+    },
+    {
+      "id": "2sp4gWCq3o4",
+      "title": "Sorting and Searching Lists [Pt 14] | C# for Beginners",
+      "duration": 495
+    },
+    {
+      "id": "4ro5UCqU0P4",
+      "title": "Language Integrated Query (LINQ) and IEnumerable [Pt 15]  | C# for Beginners",
+      "duration": 677
+    },
+    {
+      "id": "Wy1pvmcEqKw",
+      "title": "LINQ Query Expressions From, Where, Orderby, and Select [Pt 16] | C# for Beginners",
+      "duration": 599
+    },
+    {
+      "id": "jAPcP-QbCGA",
+      "title": "LINQ Method Syntax vs Query [Pt 17] | C# for Beginners",
+      "duration": 477
+    },
+    {
+      "id": "Vp0vVzJgJ5g",
+      "title": "Object-oriented Programming (OOP) [Pt 18] | C# for Beginners",
+      "duration": 1031
+    },
+    {
+      "id": "P1VJu5V3da8",
+      "title": "OOP with derived or abstract classes, overrides | IEnumerable [Pt 19] | C# for Beginners",
+      "duration": 1054
+    }
+  ]
+}

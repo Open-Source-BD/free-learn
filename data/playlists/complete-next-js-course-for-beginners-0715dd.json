@@ -1,0 +1,485 @@
+{
+  "courseId": "complete-next-js-course-for-beginners-0715dd",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLynWqC6VC9KOvExUuzhTFsWaxnpP_97BD",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:07.345Z",
+  "title": "Complete Next.js Course For Beginners",
+  "channel": "Daily Tuition",
+  "videos": [
+    {
+      "id": "HejT6QXmgtc",
+      "title": "Complete Next.js Course for Beginners #1 - Introduction",
+      "duration": 188
+    },
+    {
+      "id": "aU4itxoNaDg",
+      "title": "Complete Next.js Course for Beginners #2 - Setup React with CDN",
+      "duration": 448
+    },
+    {
+      "id": "S8BGdCZg0TQ",
+      "title": "Complete Next.js Course for Beginners #3 - Next.js Setup with NPM",
+      "duration": 364
+    },
+    {
+      "id": "voqM_xJaKuE",
+      "title": "Complete Next.js Course for Beginners #4 - Project Structure",
+      "duration": 364
+    },
+    {
+      "id": "rUm4cc-ciWE",
+      "title": "Complete Next.js Course for Beginners #5 - Pages",
+      "duration": 539
+    },
+    {
+      "id": "THFJZ1eWQxw",
+      "title": "Complete Next.js Course for Beginners #6 - Assets",
+      "duration": 400
+    },
+    {
+      "id": "wQO9z6nhLE0",
+      "title": "Complete Next.js Course for Beginners #7 - CSS Supports",
+      "duration": 626
+    },
+    {
+      "id": "hz95FuVA5gI",
+      "title": "Complete Next.js Course for Beginners #8 - Layout Component",
+      "duration": 576
+    },
+    {
+      "id": "SQKsbPZxgMA",
+      "title": "Complete Next.js Course for Beginners #9 - Pre-Rendering",
+      "duration": 193
+    },
+    {
+      "id": "jfCr1boF-Lk",
+      "title": "Complete Next.js Course for Beginners #10 - getStaticProps()",
+      "duration": 326
+    },
+    {
+      "id": "8AeD9acdsZg",
+      "title": "Complete Next.js Course for Beginners #11 - getServerSideProps()",
+      "duration": 262
+    },
+    {
+      "id": "m2fNmfhMVBg",
+      "title": "Complete Next.js Course for Beginners #13 - App Component",
+      "duration": 572
+    },
+    {
+      "id": "CAM698JA_KQ",
+      "title": "Complete Next.js Course for Beginners #12 - Client-Side Fetching",
+      "duration": 379
+    },
+    {
+      "id": "VMJEan1qUh8",
+      "title": "Complete Next.js Course for Beginners #14 - Dynamic Routes",
+      "duration": 821
+    },
+    {
+      "id": "UOIbonKlVgw",
+      "title": "Complete Next.js Course for Beginners #15 - 404.js Custom Error Page",
+      "duration": 227
+    },
+    {
+      "id": "a_7DdeXq_TI",
+      "title": "Complete Next.js Course for Beginners #16 - API Routes",
+      "duration": 412
+    },
+    {
+      "id": "XiS8_bQEw0E",
+      "title": "Complete Next.js Course for Beginners #17 - useRoute() Hook",
+      "duration": 356
+    },
+    {
+      "id": "iKIFaeSBrAM",
+      "title": "Complete Next.js Course for Beginners #18 - Navigation Link",
+      "duration": 401
+    },
+    {
+      "id": "7y1cp8mm45c",
+      "title": "Complete Next.js Course for Beginners #19 - SWR",
+      "duration": 330
+    },
+    {
+      "id": "FnOuiDB4JJ8",
+      "title": "Complete Next.js Course for Beginners #20 - MongoDB Database Connection",
+      "duration": 727
+    },
+    {
+      "id": "upLlY60b9jk",
+      "title": "Complete Next.js Course for Beginners #21 - API HTTP Requests",
+      "duration": 229
+    },
+    {
+      "id": "jHFQnSoLd14",
+      "title": "Complete Next.js Course for Beginners #22 - SWR Own Hooks",
+      "duration": 326
+    },
+    {
+      "id": "MERtH_EU5p4",
+      "title": "Complete Next.js Course for Beginners #23 - Fetcher Function",
+      "duration": 371
+    },
+    {
+      "id": "JMhsEUave44",
+      "title": "Complete Next.js Course for Beginners #24 - SSR with SWR",
+      "duration": 373
+    },
+    {
+      "id": "i7ck-bx0yCw",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#1]",
+      "duration": 367
+    },
+    {
+      "id": "wTZ69ZnEUck",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#2] - Navigation Menu",
+      "duration": 717
+    },
+    {
+      "id": "TLsiwl07GXI",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#3] - Social Icons",
+      "duration": 309
+    },
+    {
+      "id": "_nWH92OUMiY",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#4] - Layout Component",
+      "duration": 401
+    },
+    {
+      "id": "ul5G9AcpW5o",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#5] - Section 1",
+      "duration": 743
+    },
+    {
+      "id": "qJ7wrNRaVds",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#6] - Author Component",
+      "duration": 430
+    },
+    {
+      "id": "dcCDkp0-dnQ",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#7] - Swiper Slider",
+      "duration": 355
+    },
+    {
+      "id": "ffWt0Bs3llw",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#8] - Latest Posts",
+      "duration": 434
+    },
+    {
+      "id": "zgtQuxdI4iY",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#9] - Most Popular",
+      "duration": 320
+    },
+    {
+      "id": "9lsWtk0XYbE",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#10] - Section 4",
+      "duration": 415
+    },
+    {
+      "id": "GPVTZkg_qGI",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#11] - Footer",
+      "duration": 476
+    },
+    {
+      "id": "-m4Ai6QhluA",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#12] - Blog Page",
+      "duration": 426
+    },
+    {
+      "id": "3Uus1qYgFhI",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#13] - Related Component",
+      "duration": 257
+    },
+    {
+      "id": "NXw9EJSjZVg",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#14] - APIs",
+      "duration": 465
+    },
+    {
+      "id": "mc1CewH1Uzg",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#15] - API Dynamic Routes",
+      "duration": 561
+    },
+    {
+      "id": "jjoAVHDMHrU",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#16] - Fetching",
+      "duration": 385
+    },
+    {
+      "id": "QdbEfWv_DwY",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#17] - SWR",
+      "duration": 536
+    },
+    {
+      "id": "A4h6iUM9eIg",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#18] - Display Fetch Data",
+      "duration": 392
+    },
+    {
+      "id": "y5iJ1ySCTjQ",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#19] - IsLoading & isError Components",
+      "duration": 449
+    },
+    {
+      "id": "N1sziVLIzwU",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#20] - Display All Fetch Data",
+      "duration": 606
+    },
+    {
+      "id": "blC-lislpiw",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#21] - Dynamic Route",
+      "duration": 616
+    },
+    {
+      "id": "SZyEUNEBl6M",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#22] - SWR",
+      "duration": 510
+    },
+    {
+      "id": "lQsCvOQ1VMg",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#23] - Link Navigation",
+      "duration": 294
+    },
+    {
+      "id": "KEuiU50R8AA",
+      "title": "Next.js Blog Application with Tailwind CSS - For Beginners [#24] - Finalizing Website",
+      "duration": 413
+    },
+    {
+      "id": "07MFFOKTm9k",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#1]",
+      "duration": 449
+    },
+    {
+      "id": "LhngvY3C6KM",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#2] - Getting Started",
+      "duration": 491
+    },
+    {
+      "id": "OM56YYNxCMI",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#4] - Form",
+      "duration": 647
+    },
+    {
+      "id": "O2i30oYr6ZE",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#5] - Getting Form Data",
+      "duration": 464
+    },
+    {
+      "id": "X8ilqMUvh20",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#6] - onSuccess Form",
+      "duration": 409
+    },
+    {
+      "id": "8SU5VAtc-_8",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#7] - Collapsible Form",
+      "duration": 400
+    },
+    {
+      "id": "NbCeW6oHbpk",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#8] - Mimic Backend",
+      "duration": 358
+    },
+    {
+      "id": "iD0y3F767aU",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#9] - MongoDB Connection",
+      "duration": 417
+    },
+    {
+      "id": "OiPBOSFk_Ss",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#10] - APIs",
+      "duration": 377
+    },
+    {
+      "id": "AQh7wu4BGD4",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#11] - Schema & Controllers",
+      "duration": 523
+    },
+    {
+      "id": "MD8qMfbhUYY",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#12] - Posting Data",
+      "duration": 331
+    },
+    {
+      "id": "pNp3pHneUno",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#13] - PUT Request",
+      "duration": 342
+    },
+    {
+      "id": "v6uHpUyHDPQ",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#14] - Delete Request",
+      "duration": 336
+    },
+    {
+      "id": "nPh73Xc7QVU",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#15] - Dynamic API Endpoint",
+      "duration": 389
+    },
+    {
+      "id": "_kQI6FKmPw4",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#16] - Consume Backend API",
+      "duration": 290
+    },
+    {
+      "id": "8u52wEFeVTE",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#17] - React Query",
+      "duration": 361
+    },
+    {
+      "id": "i4D0CJUveYc",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#18] - Helper Function",
+      "duration": 429
+    },
+    {
+      "id": "yLJVc_3Rk3o",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#19] - Redux Toolkit",
+      "duration": 623
+    },
+    {
+      "id": "3uPgtkI6DFM",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#20] - Dispatch Actions",
+      "duration": 282
+    },
+    {
+      "id": "CxfUNatOnO8",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#21] - Create Employee",
+      "duration": 658
+    },
+    {
+      "id": "LlcweXnRfqM",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#22] - Update Toggle Form",
+      "duration": 216
+    },
+    {
+      "id": "_sSilzUJVf8",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#23] - Update Form",
+      "duration": 405
+    },
+    {
+      "id": "xl0CGRcKdA8",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#24] - Fill Textboxes",
+      "duration": 408
+    },
+    {
+      "id": "xZj3LuVYZNo",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#25] - Redux Middleware",
+      "duration": 304
+    },
+    {
+      "id": "KQJawniE9m0",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#26] - Update Employee",
+      "duration": 532
+    },
+    {
+      "id": "-wcB4OEJm6w",
+      "title": "CRUD Application with Redux & React Query - Next.js For Beginners [#27] - Delete Employee",
+      "duration": 732
+    },
+    {
+      "id": "fAdrdiTfGgc",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#1]",
+      "duration": 232
+    },
+    {
+      "id": "Yhp7en_kyeo",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#2] - Getting Started",
+      "duration": 396
+    },
+    {
+      "id": "rt9__6mA-c8",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#3] - Layout Component",
+      "duration": 369
+    },
+    {
+      "id": "IrR4uhuiDgg",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#4] - Live Image",
+      "duration": 638
+    },
+    {
+      "id": "lQagratbG3w",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#5] - Login Form",
+      "duration": 376
+    },
+    {
+      "id": "cyXVE4lilbc",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#6] - Style Login Form",
+      "duration": 496
+    },
+    {
+      "id": "DX41PfWZZpc",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#7] - React Icons",
+      "duration": 388
+    },
+    {
+      "id": "D8RONluiy8s",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#8] - Register Form",
+      "duration": 372
+    },
+    {
+      "id": "JRr_tZ14iEQ",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#9] -  Authorize Homepage",
+      "duration": 373
+    },
+    {
+      "id": "IRDVQwHcAhE",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#10] - NextAuth",
+      "duration": 418
+    },
+    {
+      "id": "dFqKyn7IW6c",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#11] - Google Auth",
+      "duration": 483
+    },
+    {
+      "id": "s3rFYeLTMrk",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#12] - Protected Routes",
+      "duration": 293
+    },
+    {
+      "id": "2nq3rJ3gBvU",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#13] - Github Login",
+      "duration": 319
+    },
+    {
+      "id": "8WOvYX84Ds8",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#14] - Formik",
+      "duration": 446
+    },
+    {
+      "id": "CL-rlA5g9Zg",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#15] - Register Formik",
+      "duration": 212
+    },
+    {
+      "id": "mRGtvJVi4wI",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#16] - Validation",
+      "duration": 519
+    },
+    {
+      "id": "xeFwg3MczJ0",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#17] - Register Validation",
+      "duration": 425
+    },
+    {
+      "id": "ZDXtUOo4qEM",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#18] - MongoDB",
+      "duration": 386
+    },
+    {
+      "id": "53VEf66w-bs",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#19] - Schema",
+      "duration": 338
+    },
+    {
+      "id": "FT3d5GELPg8",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#20] - Sign Up",
+      "duration": 536
+    },
+    {
+      "id": "GQ0iMonRcJ4",
+      "title": "Authentication App with Google & Github Login - Next.js For Beginners [#21] - Login",
+      "duration": 596
+    }
+  ]
+}

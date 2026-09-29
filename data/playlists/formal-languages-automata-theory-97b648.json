@@ -1,0 +1,645 @@
+{
+  "courseId": "formal-languages-automata-theory-97b648",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:03:37.739Z",
+  "title": "Formal Languages and Automata Theory / Theory of Computation",
+  "channel": "Lalit Vashishtha",
+  "videos": [
+    {
+      "id": "APRPT4KrzMA",
+      "title": "Formal Languages & Automata Theory",
+      "duration": 697
+    },
+    {
+      "id": "Nz7eyLqhoiU",
+      "title": "Formal definition of DFA",
+      "duration": 411
+    },
+    {
+      "id": "sUoeEpFEUYc",
+      "title": "DFA for strings of length 2, less than 2, less than or equal to 2, greater than or equal to 2.",
+      "duration": 918
+    },
+    {
+      "id": "c8gJNPkMpRk",
+      "title": "DFA for the strings having legth divisible by 2 and 3 and their cases",
+      "duration": 545
+    },
+    {
+      "id": "dfjA7AiMZ70",
+      "title": "DFA for the strings ending with b and of the form a^n b",
+      "duration": 527
+    },
+    {
+      "id": "b5liwxe3AzY",
+      "title": "DFA for binary strings having decimal equivalent divisible by 2, divisible by 3",
+      "duration": 551
+    },
+    {
+      "id": "Ng97CHVIdzo",
+      "title": "DFA for strings with exactly 1a, atleast 1a, no more than 3a's, at least 1a and exactly 2b's",
+      "duration": 687
+    },
+    {
+      "id": "ytKrEBY-KFs",
+      "title": "DFA for strings containing exactly 2 a's, containing more than 2 a's and other cases",
+      "duration": 592
+    },
+    {
+      "id": "x-8Pg4FJ4H4",
+      "title": "DFA for strings of the form ab^5wb^2, where length of w may be 0, 1,........",
+      "duration": 511
+    },
+    {
+      "id": "FlFXmvI0O8o",
+      "title": "DFA for strings which contain exactly 2a's and exactly 3b's and other combinations",
+      "duration": 690
+    },
+    {
+      "id": "9zGO56qAGTc",
+      "title": "DFA for a^n, where n is greater than or equal to 0 and n is not equal to 4",
+      "duration": 240
+    },
+    {
+      "id": "4UcmUjNeSuo",
+      "title": "DFA for strings which start and end with a, start and end with the same symbol, start with either aa",
+      "duration": 804
+    },
+    {
+      "id": "snsEaqn6by4",
+      "title": "DFA for ab^na^m where n is greater than or equal to 2 ,m is greater than equal to 3",
+      "duration": 268
+    },
+    {
+      "id": "6YhjrNxSf1Y",
+      "title": "DFA for the strings having no of a's 2, greater than or equal to 2, less than or equal to 2, , less",
+      "duration": 313
+    },
+    {
+      "id": "PMAJ9x9Hc_w",
+      "title": "DFA for na(w) mod2=0, na(w)mod2=1, na(w)mod3=0",
+      "duration": 426
+    },
+    {
+      "id": "8UdtOJmQmWI",
+      "title": "DFA for strings which contain aa, ba, abb",
+      "duration": 316
+    },
+    {
+      "id": "G96QsdLpz7U",
+      "title": "DFA for strings containing either aa or bb, a^mb^n where, m,n are greater than or equal to 1, and gr",
+      "duration": 406
+    },
+    {
+      "id": "IcJvvt1IBNU",
+      "title": "DFA for union, intersection, difference and complimentation of two dfas",
+      "duration": 1120
+    },
+    {
+      "id": "orf98wWeUxI",
+      "title": "DFA for strings in which every a is followed by b, secnd ast symbol is b,  b should not follow a",
+      "duration": 300
+    },
+    {
+      "id": "Z1oaapgxlJk",
+      "title": "DFA for length of string should be divisible by 3 but length should not be 6",
+      "duration": 261
+    },
+    {
+      "id": "mpk--3ztbz8",
+      "title": "DFA for strings starting and ending with same symbol, with different symbols, with a and b",
+      "duration": 551
+    },
+    {
+      "id": "CqvDnBNy-gk",
+      "title": "DFA for a^mb^n where m+n is even",
+      "duration": 580
+    },
+    {
+      "id": "aHBdfHMk20M",
+      "title": "DFA for a^mb^n where m+n is odd",
+      "duration": 479
+    },
+    {
+      "id": "-c443uQDjwA",
+      "title": "DFA for a^mb^nc^p where m,n, p are greater than 0",
+      "duration": 264
+    },
+    {
+      "id": "roLG_B-R-Wg",
+      "title": "DFA for a^nb^mc^p where n,m,p are greater than or equal to 0",
+      "duration": 313
+    },
+    {
+      "id": "j0bU_JNEVo4",
+      "title": "DFA for strings in which every 0 is followed by 11",
+      "duration": 398
+    },
+    {
+      "id": "aoURB8lgMpc",
+      "title": "DFA for complementing the DFA",
+      "duration": 404
+    },
+    {
+      "id": "cY_nsHU13SA",
+      "title": "DFA for concatenation of two languages(please read aw1aaw2a in place of awaawa)",
+      "duration": 480
+    },
+    {
+      "id": "ClBa08-q1xc",
+      "title": "DFA for strings having second last symbol b",
+      "duration": 421
+    },
+    {
+      "id": "2aFXJhL8BYU",
+      "title": "Formal definition of NFA with examples",
+      "duration": 364
+    },
+    {
+      "id": "TRVC2BX_p5g",
+      "title": "NFA for a^nb^n where n lies in [0,5] and n is an integer",
+      "duration": 297
+    },
+    {
+      "id": "FOfGfTkxL3M",
+      "title": "NFA for closure of {ab, abc}",
+      "duration": 313
+    },
+    {
+      "id": "ZgZExbbL_Vo",
+      "title": "NFA for strings for the set {abab^n, n is greater than or equal to 0} U{aba^n, n is greater than=0}",
+      "duration": 356
+    },
+    {
+      "id": "E6Q1_OKBStI",
+      "title": "NFA for set {a^n, n is GTE 1} U {b^m a^k,  m and k are GTE 0}",
+      "duration": 344
+    },
+    {
+      "id": "NeOYBSJ_MrU",
+      "title": "NFA to DFA Conversion 1",
+      "duration": 702
+    },
+    {
+      "id": "Bg72rbISnJE",
+      "title": "NFA to DFA conversion 2",
+      "duration": 271
+    },
+    {
+      "id": "ouOgLfuSB-o",
+      "title": "NFA to DFA Conversion 3",
+      "duration": 504
+    },
+    {
+      "id": "BAx4VQhvxrY",
+      "title": "NFA to DFA Conversion 4",
+      "duration": 782
+    },
+    {
+      "id": "Od0Fc4zKBaA",
+      "title": "NFA to DFA Conversion 5",
+      "duration": 763
+    },
+    {
+      "id": "QFNZwj90EpM",
+      "title": "NFA to DFA Conversion 6",
+      "duration": 484
+    },
+    {
+      "id": "97MT647nsGI",
+      "title": "NFA to DFA Conversion 7",
+      "duration": 778
+    },
+    {
+      "id": "xDZXssKV_CU",
+      "title": "NFA to DFA 8",
+      "duration": 773
+    },
+    {
+      "id": "5ynzVuxf0Bc",
+      "title": "DFA minimization 1",
+      "duration": 782
+    },
+    {
+      "id": "ZAQiPjtl1fs",
+      "title": "DFA minimization 2",
+      "duration": 503
+    },
+    {
+      "id": "HM6mmYrYisY",
+      "title": "DFA minimization 3",
+      "duration": 341
+    },
+    {
+      "id": "mCuMwyEBF7s",
+      "title": "DFA minimization 4",
+      "duration": 471
+    },
+    {
+      "id": "OHhNikRp7Sg",
+      "title": "DFA minimization 5",
+      "duration": 848
+    },
+    {
+      "id": "HLZJsnGF0Fg",
+      "title": "DFA minimization 6",
+      "duration": 518
+    },
+    {
+      "id": "-65xSAR4rCQ",
+      "title": "Regular Expressions 1",
+      "duration": 636
+    },
+    {
+      "id": "osTQckbUCKw",
+      "title": "Regular expressions 2",
+      "duration": 600
+    },
+    {
+      "id": "Es1AS4FohIo",
+      "title": "Regular Expressions 3",
+      "duration": 519
+    },
+    {
+      "id": "TyYk9ZidQH0",
+      "title": "Regular Expressions 4",
+      "duration": 577
+    },
+    {
+      "id": "0Nwhlj6Fk6o",
+      "title": "Regular Expressions 5",
+      "duration": 514
+    },
+    {
+      "id": "e-ig0ctJTHw",
+      "title": "Regular Expressions 6",
+      "duration": 608
+    },
+    {
+      "id": "Qedrfyzi97k",
+      "title": "Regular Expressions 7",
+      "duration": 806
+    },
+    {
+      "id": "24G_wIEEveg",
+      "title": "Regular Expressions 8",
+      "duration": 496
+    },
+    {
+      "id": "tyvYJjHjqZA",
+      "title": "Identities of Regular Expressions",
+      "duration": 1570
+    },
+    {
+      "id": "Puc6b8_aHAY",
+      "title": "Regular Expression to DFA",
+      "duration": 381
+    },
+    {
+      "id": "VakQUUleLiI",
+      "title": "Regular Expression  to NFA 1",
+      "duration": 769
+    },
+    {
+      "id": "pZqiUTmOIq0",
+      "title": "Regular Expression to NFA 2",
+      "duration": 426
+    },
+    {
+      "id": "NJ6-WlLBKYo",
+      "title": "Finite Automata to Regular Expression conversion 1",
+      "duration": 824
+    },
+    {
+      "id": "2cNhERbdnQ4",
+      "title": "Finite Automata to Regular Expression 2",
+      "duration": 553
+    },
+    {
+      "id": "wP0t8ruxiRA",
+      "title": "Finite Automata to Regular Expression 3",
+      "duration": 664
+    },
+    {
+      "id": "I8ItPCB3_t8",
+      "title": "Finite Automata to Regular Expression 4",
+      "duration": 892
+    },
+    {
+      "id": "70EnT4mvtpI",
+      "title": "Finite Automata to Regular Expression 5",
+      "duration": 1292
+    },
+    {
+      "id": "UAj1WNs5Gqw",
+      "title": "Finite Automata to Regular Expression 6",
+      "duration": 1060
+    },
+    {
+      "id": "m3HahkWejb8",
+      "title": "DFA for Concatenation of two Languages",
+      "duration": 380
+    },
+    {
+      "id": "z7wxOPPVnPc",
+      "title": "Lembda NFA to NFA Conversion",
+      "duration": 481
+    },
+    {
+      "id": "mzhV7Chewy4",
+      "title": "NFA to DFA Conversion 10",
+      "duration": 356
+    },
+    {
+      "id": "A_To6XPe2qY",
+      "title": "Mid Sem Exam Solution Q1",
+      "duration": 893
+    },
+    {
+      "id": "X9sW3GNfV7A",
+      "title": "Mid Sem Exam Solution Q2",
+      "duration": 381
+    },
+    {
+      "id": "OWo4QUrx-tM",
+      "title": "Mid Sem Exam Solution Q3",
+      "duration": 964
+    },
+    {
+      "id": "L7e_devBjy4",
+      "title": "Mid Sem Exam Solution Q4",
+      "duration": 272
+    },
+    {
+      "id": "do1qeq-Wmgs",
+      "title": "Mid Sem Exam Solution Q5",
+      "duration": 1367
+    },
+    {
+      "id": "5Cb71aBVU-M",
+      "title": "NFA to DFA conversion 11",
+      "duration": 639
+    },
+    {
+      "id": "GkzUpEIYkrc",
+      "title": "Closure Properties of Regular Languages 1",
+      "duration": 338
+    },
+    {
+      "id": "32qIOXYiTjA",
+      "title": "Closure Properties of Regular Languages 2",
+      "duration": 698
+    },
+    {
+      "id": "Kz_Sn7UyCxI",
+      "title": "RIGHT QUOTIENT1 (at 1:55 L1/L2 will be eleph instead of elepha)",
+      "duration": 601
+    },
+    {
+      "id": "jzqAkspdvUs",
+      "title": "RIGHT QUOTIENT2",
+      "duration": 366
+    },
+    {
+      "id": "ct1nkaGSltM",
+      "title": "RIGHT QUOTIENT3",
+      "duration": 355
+    },
+    {
+      "id": "UWYuGbodt4M",
+      "title": "RIGHT QUOTIENT4",
+      "duration": 316
+    },
+    {
+      "id": "Te2ZS-8iDeA",
+      "title": "GRAMMAR1",
+      "duration": 354
+    },
+    {
+      "id": "fOoOosr9tqI",
+      "title": "Languages generated by the grammars",
+      "duration": 448
+    },
+    {
+      "id": "S1MXeVQCbfE",
+      "title": "Finite Automata to left linear and right linear grammar",
+      "duration": 302
+    },
+    {
+      "id": "7_uwg12kwJU",
+      "title": "REGULAR GRAMMAR1",
+      "duration": 456
+    },
+    {
+      "id": "zcZy6O3IU0Q",
+      "title": "REGULAR GRAMMAR2",
+      "duration": 437
+    },
+    {
+      "id": "-898Og4e7-4",
+      "title": "Right Linear Grammar and Left Linear Grammar, Finite automata construction using regular grammar",
+      "duration": 705
+    },
+    {
+      "id": "V9DYNdwYto4",
+      "title": "Right Linear Grammar and Left Linear Grammar Example1",
+      "duration": 665
+    },
+    {
+      "id": "Gnk7mHqaig8",
+      "title": "Right Linear Grammar and Left Linear Grammar Example2",
+      "duration": 649
+    },
+    {
+      "id": "9t4LqE0n_yw",
+      "title": "Right Linear Grammar and Left Linear Grammar Example3",
+      "duration": 387
+    },
+    {
+      "id": "2FM4LZnUfrQ",
+      "title": "REGULAR GRAMMAR3",
+      "duration": 339
+    },
+    {
+      "id": "vo0-PcEe3Cc",
+      "title": "REGULAR GRAMMAR4",
+      "duration": 594
+    },
+    {
+      "id": "mXcy2PSPkK8",
+      "title": "CONTEXT FREE GRAMMAR",
+      "duration": 823
+    },
+    {
+      "id": "9rPkfGq5tx0",
+      "title": "Simplification of CFG1",
+      "duration": 335
+    },
+    {
+      "id": "bbP7Ty-iAnQ",
+      "title": "Simplification of CFG2",
+      "duration": 520
+    },
+    {
+      "id": "h5WRxrMjk-0",
+      "title": "Simplification of CFG3",
+      "duration": 335
+    },
+    {
+      "id": "tptMW89clYI",
+      "title": "Simplification of CFG4",
+      "duration": 332
+    },
+    {
+      "id": "R4H_mo-eMqU",
+      "title": "Chomsky Normal Form (CNF)",
+      "duration": 369
+    },
+    {
+      "id": "7s6IG2j6ld4",
+      "title": "Conversion of a grammar into CNF1",
+      "duration": 448
+    },
+    {
+      "id": "kVpIq0S9UYg",
+      "title": "Conversion of a Grammar into CNF2",
+      "duration": 598
+    },
+    {
+      "id": "2dhxoM1nk2U",
+      "title": "Conversion of a grammar into CNF3 (B produces PA |YY in final production)",
+      "duration": 337
+    },
+    {
+      "id": "fzndSTwDMzo",
+      "title": "Greibach Normal Form (GNF) ( at 1:28, by mistake it's written b instead of B then it will be in GNF)",
+      "duration": 447
+    },
+    {
+      "id": "bizRnDOfFNA",
+      "title": "Conversion of a grammar into GNF",
+      "duration": 319
+    },
+    {
+      "id": "VOtnDks-Guo",
+      "title": "Push Down Automata",
+      "duration": 842
+    },
+    {
+      "id": "MwOgfdj2IUA",
+      "title": "Push Down Automata for a context free language1",
+      "duration": 638
+    },
+    {
+      "id": "TKST75k2h88",
+      "title": "Push Down Automata for a context free language2",
+      "duration": 789
+    },
+    {
+      "id": "Tx5agltlVwQ",
+      "title": "Push Down Automata for a context free language3",
+      "duration": 1089
+    },
+    {
+      "id": "1t7fe5RHe_k",
+      "title": "Non Deterministic Push Down Automata",
+      "duration": 913
+    },
+    {
+      "id": "O5xFON_erY4",
+      "title": "Push Down Automata for Context Free Grammar1",
+      "duration": 1257
+    },
+    {
+      "id": "aKep0VjihOM",
+      "title": "Push Down Automata for Context Free Grammar2",
+      "duration": 1229
+    },
+    {
+      "id": "iNSIYuq2_Zs",
+      "title": "Push Down Automata for Context Free Grammar3",
+      "duration": 771
+    },
+    {
+      "id": "rH3pjqG9KlE",
+      "title": "Deterministic Push Down Automata",
+      "duration": 1214
+    },
+    {
+      "id": "27_iiKXfPo8",
+      "title": "Finding Context Free Grammar for Some Languages1",
+      "duration": 663
+    },
+    {
+      "id": "v8fqKmvJufw",
+      "title": "Finding Context Free Grammars for some Languages2",
+      "duration": 895
+    },
+    {
+      "id": "XHoz9cMg1gQ",
+      "title": "Finding Context Free Grammar for some Languages3(see below for correction in grammar for L 7)",
+      "duration": 1095
+    },
+    {
+      "id": "xEJ6skSW2Z4",
+      "title": "Leftmost Derivation,Rightmost Derivation and Derivation Tree",
+      "duration": 943
+    },
+    {
+      "id": "XlqnjA9zPBA",
+      "title": "S grammar or Simple Grammar",
+      "duration": 827
+    },
+    {
+      "id": "RtPiaOxPM1A",
+      "title": "Eliminating Ambiguity from the Grammar",
+      "duration": 778
+    },
+    {
+      "id": "_Tkq3dj_R40",
+      "title": "Closure Properties of Context Free Languages1",
+      "duration": 846
+    },
+    {
+      "id": "JIFKBA-ills",
+      "title": "Ambiguous Grammars",
+      "duration": 680
+    },
+    {
+      "id": "kAkwy3UE_FQ",
+      "title": "Closure Properties of Context Free Languages 2",
+      "duration": 765
+    },
+    {
+      "id": "yuFF0gXC6HU",
+      "title": "DFA for equal number of 01 and 10",
+      "duration": 492
+    },
+    {
+      "id": "YR8SF_qOwCE",
+      "title": "Minimum number of states in dfa for strings containing at most 1b and at least 2 a's",
+      "duration": 397
+    },
+    {
+      "id": "2CRdh_ewAYU",
+      "title": "Introduction to Turimg Machine and Turing machine for a exp n b exp n",
+      "duration": 1110
+    },
+    {
+      "id": "I829fsF22iI",
+      "title": "Turing Machine for wwR",
+      "duration": 745
+    },
+    {
+      "id": "beqgfFEdOSE",
+      "title": "Turing Machine for wcw",
+      "duration": 895
+    },
+    {
+      "id": "jgxtKKsR0BQ",
+      "title": "DFA accepting the strings divisible by 4 containing the integers 0 to 9",
+      "duration": 413
+    }
+  ]
+}

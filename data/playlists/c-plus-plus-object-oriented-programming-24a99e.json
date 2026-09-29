@@ -1,0 +1,100 @@
+{
+  "courseId": "c-plus-plus-object-oriented-programming-24a99e",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:43:32.829Z",
+  "title": "C++ Object-Oriented Programming",
+  "channel": "CodeBeauty",
+  "videos": [
+    {
+      "id": "iVLQeWbgbXs",
+      "title": "C++ OOP - Introduction to classes and objects for beginners",
+      "duration": 726
+    },
+    {
+      "id": "1LGJSRFrxqQ",
+      "title": "C++ OOP (2025) - What are constructors and class methods? How to use them?",
+      "duration": 906
+    },
+    {
+      "id": "a8ZB-TPB6EU",
+      "title": "C++ OOP - What is encapsulation in programming?",
+      "duration": 681
+    },
+    {
+      "id": "-W-TYjL0aFE",
+      "title": "C++ OOP - What is inheritance in programming?",
+      "duration": 992
+    },
+    {
+      "id": "wK93q-JQUvw",
+      "title": "C++ OOP - What is polymorphism in programming? (simple example)",
+      "duration": 920
+    },
+    {
+      "id": "T8f4ajtFU9g",
+      "title": "Relationship between Virtual Functions, Pure Virtual Functions and Abstract Classes in OOP explained",
+      "duration": 1242
+    },
+    {
+      "id": "Ui7Dca5Kbvw",
+      "title": "Abstraction explained with real-life examples and code! - C++ OOP Course",
+      "duration": 1327
+    },
+    {
+      "id": "BnMnozsSPmw",
+      "title": "C++ Operator Overloading beginner to advanced (in-depth explanation)",
+      "duration": 2119
+    },
+    {
+      "id": "KXDzBglp83M",
+      "title": "Friend functions and classes in C++ (Programming for beginners)",
+      "duration": 1098
+    },
+    {
+      "id": "wN0x9eZLix4",
+      "title": "Object Oriented Programming (OOP) in C++ Course",
+      "duration": 5426
+    },
+    {
+      "id": "hBq6EGX5II4",
+      "title": "OOP Constructors - Types of Constructors You Need to Know (Basics to Mastery)",
+      "duration": 1721
+    },
+    {
+      "id": "gEcLCba7HQU",
+      "title": "Destructors in Programming: Practical Demonstration",
+      "duration": 1210
+    },
+    {
+      "id": "UYYoq784pQY",
+      "title": "C++ Copy constructors (beginner-friendly tutorial + practical examples)",
+      "duration": 1599
+    },
+    {
+      "id": "lsuSwV1FBbA",
+      "title": "Advanced Inheritance & Polymorphism - example with Array of Objects (in-depth Data Structures & OOP)",
+      "duration": 1286
+    },
+    {
+      "id": "KccYKSF4A4g",
+      "title": "Programmer Q&A - Answering your most interesting questions!",
+      "duration": 1171
+    },
+    {
+      "id": "pKKXGxEapaU",
+      "title": "Difference between copy constructor and assignment operator in C++ (OOP tutorial for beginners)",
+      "duration": 2783
+    },
+    {
+      "id": "ZB-np0g2eGk",
+      "title": "What are Interfaces in Programming - C# Programming Course for Beginners",
+      "duration": 979
+    },
+    {
+      "id": "aLnX80TFvZs",
+      "title": "Override Keyword & Overriding Methods - C# Programming for Beginners",
+      "duration": 666
+    }
+  ]
+}

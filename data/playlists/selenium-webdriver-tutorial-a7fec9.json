@@ -1,0 +1,690 @@
+{
+  "courseId": "selenium-webdriver-tutorial-a7fec9",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:02:35.097Z",
+  "title": "SELENIUM WEBDRIVER TUTORIAL - Learn Selenium Automation with Java - FULL COURSE",
+  "channel": "Software Testing Mentor",
+  "videos": [
+    {
+      "id": "25U-KUpWd1c",
+      "title": "Selenium WebDriver Tutorial #1 - Introduction to Selenium",
+      "duration": 643
+    },
+    {
+      "id": "WMn_2ItCNJI",
+      "title": "Selenium WebDriver Tutorial #2 - Selenium WebDriver Architecture",
+      "duration": 741
+    },
+    {
+      "id": "rZv5duo8mjc",
+      "title": "Selenium WebDriver Tutorial #3 - How to install Java on Windows OS",
+      "duration": 639
+    },
+    {
+      "id": "tJ50W_ijaCA",
+      "title": "Selenium WebDriver Tutorial #4 - How to install Eclipse IDE on Windows",
+      "duration": 552
+    },
+    {
+      "id": "FVwSjBXb20o",
+      "title": "Selenium WebDriver Tutorial #5 - How to Setup Selenium WebDriver in Eclipse IDE",
+      "duration": 1333
+    },
+    {
+      "id": "EwbTx9xvR3U",
+      "title": "Selenium WebDriver Tutorial #6 - How to run Tests on Different Browsers",
+      "duration": 599
+    },
+    {
+      "id": "4gHSwvs0HiA",
+      "title": "Selenium WebDriver Tutorial #7 - Maven Introduction and Installation",
+      "duration": 764
+    },
+    {
+      "id": "qFy6uoTXK30",
+      "title": "Selenium WebDriver Tutorial #8 - How to Manage Dependencies with Maven",
+      "duration": 901
+    },
+    {
+      "id": "5fBZy8Tevbc",
+      "title": "Selenium WebDriver Tutorial #9 - How to use WebDriver Manager",
+      "duration": 649
+    },
+    {
+      "id": "NHvEMDxYeMU",
+      "title": "Selenium WebDriver Tutorial #10 - How to Write First TestCase in Selenium",
+      "duration": 942
+    },
+    {
+      "id": "sgV7YPhYRi0",
+      "title": "Selenium WebDriver Tutorial #11 - Understand WebDriver Interface",
+      "duration": 1309
+    },
+    {
+      "id": "rOczbXi8Ll4",
+      "title": "Selenium WebDriver Tutorial #12 - What are Locators in Selenium WebDriver",
+      "duration": 1179
+    },
+    {
+      "id": "H5Ft55Y-OVU",
+      "title": "Selenium WebDriver Tutorial #13 - What is Relative Locator in Selenium",
+      "duration": 927
+    },
+    {
+      "id": "5LV4z_-91WY",
+      "title": "Selenium XPath Tutorial #1 - Introduction to XPath | Basic XPath Syntax",
+      "duration": 967
+    },
+    {
+      "id": "V5vWvs2clBw",
+      "title": "Selenium XPath Tutorial #2 - Relative Vs Absolute XPath",
+      "duration": 547
+    },
+    {
+      "id": "4ex4Onm6ma8",
+      "title": "Selenium XPath Tutorial #3 - XPath Starts-with Function with Examples",
+      "duration": 436
+    },
+    {
+      "id": "OY1wJfTWz-4",
+      "title": "Selenium XPath Tutorial #4 - XPath Contains Function with Examples",
+      "duration": 509
+    },
+    {
+      "id": "ZDVoFyZipAw",
+      "title": "Selenium XPath Tutorial #5 - XPath text() Method | Find element by Text",
+      "duration": 346
+    },
+    {
+      "id": "QB09mSPvhWc",
+      "title": "Selenium XPath Tutorial #6 - XPath AND Operator | XPath OR Operator",
+      "duration": 431
+    },
+    {
+      "id": "IbjfO4czy0Q",
+      "title": "Selenium XPath Tutorial #7 - XPath Axes Methods | Parent, Child, Self",
+      "duration": 751
+    },
+    {
+      "id": "Qg-hW_xiVSM",
+      "title": "Selenium XPath Tutorial #8 - Axes Method descendant, descendant-or-self",
+      "duration": 562
+    },
+    {
+      "id": "1_TGzj5X2QU",
+      "title": "Selenium XPath Tutorial #9 - Axes Methods | ancestor, ancestor-or-self",
+      "duration": 424
+    },
+    {
+      "id": "wpiuDZ6pUN0",
+      "title": "Selenium XPath Tutorial #10 - XPath Axes following, following-sibling",
+      "duration": 475
+    },
+    {
+      "id": "qtUkI3Jjods",
+      "title": "Selenium XPath Tutorial #11 - XPath Axes preceding,  preceding-sibling",
+      "duration": 498
+    },
+    {
+      "id": "RUT6fZeLnGk",
+      "title": "Selenium CSS Selector #1 - Introduction to CSS and CSS Selector",
+      "duration": 811
+    },
+    {
+      "id": "RLHmTi-P9L4",
+      "title": "Selenium CSS Selector #2 - Write CSS Selector using Class Attribute",
+      "duration": 401
+    },
+    {
+      "id": "WFy5Z2ijRSo",
+      "title": "Selenium CSS Selector #3 - CSS Selector with Multiple Attributes",
+      "duration": 852
+    },
+    {
+      "id": "2GTqU0v2rWk",
+      "title": "Selenium CSS Selector #4 - CSS Selector Substring Matching",
+      "duration": 725
+    },
+    {
+      "id": "t6TQYwdAsgc",
+      "title": "Selenium CSS Selector #5 - Finding Direct Child or Sub-child Elements",
+      "duration": 753
+    },
+    {
+      "id": "o0Txupo01gM",
+      "title": "Selenium CSS Selector #6 - Next Sibling | Adjacent Sibling Combinator",
+      "duration": 401
+    },
+    {
+      "id": "waPDXyLvACo",
+      "title": "Selenium CSS Selector #7 - First-Child, Last-Child, Nth-Child, Nth-Last-Child",
+      "duration": 604
+    },
+    {
+      "id": "gBCWQECPmXE",
+      "title": "Selenium CSS Selector #8 - First-of-type, Last-of-type, Nth-of-type()",
+      "duration": 411
+    },
+    {
+      "id": "DyMcEs6EWEQ",
+      "title": "Selenium WebDriver Tutorial #14 - What are the Basic Methods in WebDriver Interface",
+      "duration": 1003
+    },
+    {
+      "id": "FtpIv7T6G28",
+      "title": "Selenium WebDriver Tutorial #15 - Basic Methods in WebDriver Interface - Part 2",
+      "duration": 1077
+    },
+    {
+      "id": "-D-9yHX0QQA",
+      "title": "Selenium WebDriver Tutorial #16 - WebElement Methods in Selenium",
+      "duration": 1132
+    },
+    {
+      "id": "nrqVGAV51Fw",
+      "title": "Selenium WebDriver Tutorial #17 - How to Handle Dropdown in Selenium-Part 1",
+      "duration": 735
+    },
+    {
+      "id": "FeVfSCyG6qc",
+      "title": "Selenium WebDriver Tutorial #18 - How to Handle Dropdown in Selenium - Part 2",
+      "duration": 930
+    },
+    {
+      "id": "fKicuPJEkJ0",
+      "title": "Selenium WebDriver Tutorial #19 - How to Print all Links of a Webpage",
+      "duration": 939
+    },
+    {
+      "id": "resI3NLastE",
+      "title": "Selenium WebDriver Tutorial #20 - How to Handle Auto Suggestion Dropdown",
+      "duration": 781
+    },
+    {
+      "id": "hqxJHwgwnDs",
+      "title": "Selenium WebDriver Tutorial #21 - How to Handle Checkbox in Selenium",
+      "duration": 772
+    },
+    {
+      "id": "xvf74By9dwg",
+      "title": "Selenium WebDriver Tutorial #22 - How to Select Radio Button in Selenium",
+      "duration": 890
+    },
+    {
+      "id": "2v-8eUaR29M",
+      "title": "Selenium WebDriver Tutorial #23 - How to Handle Frames in Selenium",
+      "duration": 1027
+    },
+    {
+      "id": "7T_E_mN1pJQ",
+      "title": "Selenium WebDriver Tutorial #24 - How to Handle Alert Popup in Selenium",
+      "duration": 980
+    },
+    {
+      "id": "D5Sd0MxhAD0",
+      "title": "Selenium WebDriver Tutorial #25 - How to Handle Multiple Windows in Selenium",
+      "duration": 1229
+    },
+    {
+      "id": "ar1fDvovGXs",
+      "title": "Selenium WebDriver Tutorial #26-How to Perform Mouse Hover in Selenium",
+      "duration": 617
+    },
+    {
+      "id": "pgEmFYx0dS0",
+      "title": "Selenium WebDriver Tutorial #27 - How to Perform Drag and Drop in Selenium",
+      "duration": 600
+    },
+    {
+      "id": "CnECm68JIcA",
+      "title": "Selenium WebDriver Tutorial #28 - How to Handle Resize Widget in Selenium",
+      "duration": 671
+    },
+    {
+      "id": "vUo_uRM0CSY",
+      "title": "Selenium WebDriver Tutorial #29 - How to Automate Slider in Selenium",
+      "duration": 412
+    },
+    {
+      "id": "lebJAYfZ_aM",
+      "title": "Selenium WebDriver Tutorial#30 - How to Perform Right Click in Selenium",
+      "duration": 382
+    },
+    {
+      "id": "8LB_Zs9Ohg4",
+      "title": "Selenium WebDriver Tutorial #31 - How to Perform Keyboard Events in Selenium",
+      "duration": 955
+    },
+    {
+      "id": "PsSDX4UvBAM",
+      "title": "Selenium WebDriver Tutorial #32 - Different Types of Wait in Selenium",
+      "duration": 472
+    },
+    {
+      "id": "2QSh7V2_-fQ",
+      "title": "Selenium WebDriver Tutorial #33 - What is Implicit Wait in Selenium",
+      "duration": 757
+    },
+    {
+      "id": "x6ei6WOfQBo",
+      "title": "Selenium WebDriver Tutorial #34 - What is Explicit Wait in Selenium",
+      "duration": 794
+    },
+    {
+      "id": "EihPj2o0U04",
+      "title": "Selenium WebDriver Tutorial #35 - How to Use Fluent Wait in Selenium",
+      "duration": 575
+    },
+    {
+      "id": "eFFwXgDWKjY",
+      "title": "Selenium WebDriver Tutorial #36 - How to Handle Web Table in Selenium",
+      "duration": 1569
+    },
+    {
+      "id": "6cQgtmZ_H1c",
+      "title": "Selenium WebDriver Tutorial#37 - What is JavaScriptExecutor in Selenium",
+      "duration": 1245
+    },
+    {
+      "id": "i_s1KoPlbWY",
+      "title": "Selenium WebDriver Tutorial #38 - How to Take Screenshot in Selenium",
+      "duration": 882
+    },
+    {
+      "id": "yWNFF5cpL70",
+      "title": "Selenium WebDriver Tutorial #39 - How to Handle SSL Certificate in Selenium",
+      "duration": 939
+    },
+    {
+      "id": "1_H_VPUhDOY",
+      "title": "Selenium WebDriver Tutorial #40 - How to Handle Authentication Popup in Selenium",
+      "duration": 567
+    },
+    {
+      "id": "55pyFTSLdx0",
+      "title": "Selenium WebDriver Tutorial #41 - How to Read Data From Properties File",
+      "duration": 939
+    },
+    {
+      "id": "KegGpNMhGF0",
+      "title": "TestNG Tutorial #1 - How to Install TestNG in Eclipse IDE",
+      "duration": 920
+    },
+    {
+      "id": "jfd4SKAhlDg",
+      "title": "TestNG Tutorial #2 - How to Write Test Cases Using TestNG",
+      "duration": 696
+    },
+    {
+      "id": "o-VguiLYvHw",
+      "title": "TestNG Tutorial #3 - TestNG Annotations | BeforeMethod vs BeforeTest",
+      "duration": 691
+    },
+    {
+      "id": "5pykBxm7n0E",
+      "title": "TestNG Tutorial #4 - How to Use Assertion in Selenium TestNG",
+      "duration": 804
+    },
+    {
+      "id": "VPr6Sn4Im2E",
+      "title": "TestNG Tutorial #5 - Soft Assertion in TestNG | SoftAssert vs HardAssert",
+      "duration": 873
+    },
+    {
+      "id": "Izd8spO6Srs",
+      "title": "TestNG Tutorial #6 - How to Group Test Cases in TestNG | Grouping",
+      "duration": 704
+    },
+    {
+      "id": "LtuEYvs_Vew",
+      "title": "TestNG Tutorial #7 - How to Create Test Suite in TestNG",
+      "duration": 925
+    },
+    {
+      "id": "eD3RXIJGqto",
+      "title": "TestNG Tutorial #8 - How to Skip Test Cases in TestNG",
+      "duration": 780
+    },
+    {
+      "id": "USJgzjVa8JE",
+      "title": "TestNG Tutorial #9 - TestNG Annotations | BeforeGroups | BeforeClass",
+      "duration": 706
+    },
+    {
+      "id": "1eikteZWxe0",
+      "title": "TestNG Tutorial #10 - TestNG Annotations | BeforeSuite and AfterSuite",
+      "duration": 835
+    },
+    {
+      "id": "bBy5-Dq8iPk",
+      "title": "TestNG Tutorial #11 - DataProvider in TestNG | Data Driven Testing",
+      "duration": 1248
+    },
+    {
+      "id": "kmLYFPRFXBQ",
+      "title": "TestNG Tutorial #12 - How to Use DataProvider in TestNG Selenium",
+      "duration": 673
+    },
+    {
+      "id": "oVh5xMb90ak",
+      "title": "TestNG Tutorial #13 - Move TestNG DataProvider into Different File",
+      "duration": 821
+    },
+    {
+      "id": "PVvIIxukxrc",
+      "title": "TestNG Tutorial #14 - How to Pass Parameter from TestNG.xml File",
+      "duration": 613
+    },
+    {
+      "id": "a6yhw-sG_jM",
+      "title": "TestNG Tutorial #15 - What are TestNG Listeners",
+      "duration": 879
+    },
+    {
+      "id": "4chQnh4MQLU",
+      "title": "TestNG Tutorial #16 - How to Capture Screenshot for Failed Tests in TestNG",
+      "duration": 1102
+    },
+    {
+      "id": "esAIkbLkRis",
+      "title": "TestNG Tutorial #17 - How to Execute Failed Test Cases in Selenium",
+      "duration": 826
+    },
+    {
+      "id": "7w-fDuUQv20",
+      "title": "TestNG Tutorial #18 - TestNG Report Generation in Selenium | Part 1",
+      "duration": 834
+    },
+    {
+      "id": "-dJ5rsaD-GM",
+      "title": "TestNG Tutorial #19 - TestNG Report Generation in Selenium | Part 2",
+      "duration": 1249
+    },
+    {
+      "id": "eCGT3jta0v4",
+      "title": "TestNG Tutorial #20 - How to Manage Dependency Between Test Cases",
+      "duration": 713
+    },
+    {
+      "id": "lIBM0aptpFA",
+      "title": "Java for Testers #1 - Introduction to Java Programming",
+      "duration": 560
+    },
+    {
+      "id": "b6PI-DsRJl0",
+      "title": "Java for Testers #2 - What is Java Classes and Objects",
+      "duration": 810
+    },
+    {
+      "id": "Ygc1VjAsLNk",
+      "title": "Java for Testers #3 - How to Write First Program in Java",
+      "duration": 908
+    },
+    {
+      "id": "I4Ayicxufmg",
+      "title": "Java for Testers #4 - What are Data Types in Java",
+      "duration": 913
+    },
+    {
+      "id": "WMnn9Scr9ZY",
+      "title": "Java for Testers #5 - Difference Between String Literal and String Object",
+      "duration": 678
+    },
+    {
+      "id": "T7H7iHoMmak",
+      "title": "Java for Testers #6 - What are Variables in Java | Variable Types",
+      "duration": 562
+    },
+    {
+      "id": "xifhdrfQrxE",
+      "title": "Java for Testers #7 - Operators in Java | Introduction and Examples",
+      "duration": 1011
+    },
+    {
+      "id": "qVet44v2DFg",
+      "title": "Java for Testers #8 - How to use IF ELSE in Java",
+      "duration": 827
+    },
+    {
+      "id": "LKYKyKoQXnw",
+      "title": "Java for Testers #9 - What is Ternary Operator in Java",
+      "duration": 504
+    },
+    {
+      "id": "nPBNV9fSblE",
+      "title": "Java for Testers #10 - How to use Switch Case in Java",
+      "duration": 561
+    },
+    {
+      "id": "IH13-I3Ycz4",
+      "title": "Java for Testers #11 - How to use While Loop in Java",
+      "duration": 604
+    },
+    {
+      "id": "m1Ux6PGfGj4",
+      "title": "Java for Testers #12 - How to use Do While Loop in Java",
+      "duration": 606
+    },
+    {
+      "id": "EYdIqHkKHfI",
+      "title": "Java for Testers #13 - How to use For Loop in Java",
+      "duration": 777
+    },
+    {
+      "id": "W7i9NpKLtFQ",
+      "title": "Java for Testers #14 - How to use Break and Continue in Java",
+      "duration": 538
+    },
+    {
+      "id": "EWE9MiK_c4c",
+      "title": "Java for Testers #15 - How to use Nested Loops in Java",
+      "duration": 818
+    },
+    {
+      "id": "bwVkWXtvcTg",
+      "title": "Java for Testers #16 - How to use Single Dimensional Array in Java",
+      "duration": 826
+    },
+    {
+      "id": "3kP682nvWik",
+      "title": "Java for Testers #17 - Multidimensional Array in Java | With Examples",
+      "duration": 1172
+    },
+    {
+      "id": "sxr38UagfbY",
+      "title": "Java for Testers #18 - What are Methods in Java | With Examples",
+      "duration": 681
+    },
+    {
+      "id": "ueSAZRUnAvw",
+      "title": "Java for Testers #19 - How to Add Parameters to a Method in Java",
+      "duration": 776
+    },
+    {
+      "id": "y-xsceUyzHA",
+      "title": "Java for Testers #20 - What are Packages in Java | With Examples",
+      "duration": 700
+    },
+    {
+      "id": "0vDscoOZwVY",
+      "title": "Java for Testers #21 - Access Modifiers in Java with Example",
+      "duration": 957
+    },
+    {
+      "id": "CO5yczwQZFU",
+      "title": "Java for Testers #22 - Access Modifiers in Java with Example - Part 2",
+      "duration": 1068
+    },
+    {
+      "id": "jkFw82fPs_w",
+      "title": "Java for Testers #23 - Encapsulation in Java | Data Hiding in Java",
+      "duration": 1470
+    },
+    {
+      "id": "Ou6d_e4ur3A",
+      "title": "Java for Testers #24 - Inheritance in Java | Types of Inheritance",
+      "duration": 1328
+    },
+    {
+      "id": "2bb-9yc-0XM",
+      "title": "Java for Testers #25 - Java Polymorphism | Method Overloading in Java",
+      "duration": 895
+    },
+    {
+      "id": "S2hWPuvOfbY",
+      "title": "Java for Testers #26 - Java Polymorphism | Method Overriding in Java",
+      "duration": 697
+    },
+    {
+      "id": "w9GbgjbRR5A",
+      "title": "Java for Testers #27 - Abstract Classes and Methods in Java",
+      "duration": 1044
+    },
+    {
+      "id": "83EYGJV0pDo",
+      "title": "Java for Testers #28 - What is Interface in Java | with Example",
+      "duration": 628
+    },
+    {
+      "id": "KHoBImU0nVE",
+      "title": "Java for Testers #29 - What are Constructors in Java",
+      "duration": 710
+    },
+    {
+      "id": "Qagrzh40BvU",
+      "title": "Java for Testers #30 - Super Keyword in Java",
+      "duration": 651
+    },
+    {
+      "id": "o0DR7MPguEg",
+      "title": "Java for Testers #31 - This Keyword in Java",
+      "duration": 668
+    },
+    {
+      "id": "S6auH05xksc",
+      "title": "Java for Testers #32 - Final Keyword in Java",
+      "duration": 569
+    },
+    {
+      "id": "iCFowjMYVd8",
+      "title": "Java for Testers #33 - Try Catch Java | Exception Handling in Java",
+      "duration": 935
+    },
+    {
+      "id": "r1lmy2WhnHs",
+      "title": "Java for Testers #34 - How to Read Data from Properties File",
+      "duration": 940
+    },
+    {
+      "id": "Vp4bI36GFCo",
+      "title": "Java for Testers #35 - How to Write in Java Properties File",
+      "duration": 712
+    },
+    {
+      "id": "Q39kE8FmCfI",
+      "title": "Java for Testers #36 - How to Write to a CSV and Text File in Java",
+      "duration": 770
+    },
+    {
+      "id": "WyScJoiaM_8",
+      "title": "Java for Testers #37 - How to Read Data from CSV and Text File in Java",
+      "duration": 581
+    },
+    {
+      "id": "FEIfL1skR8o",
+      "title": "Java for Testers #38 - How to Write Data in Excel using Java",
+      "duration": 1218
+    },
+    {
+      "id": "gVvlbTv2TME",
+      "title": "Java for Testers #39 - How to Read Excel File in Java",
+      "duration": 1128
+    },
+    {
+      "id": "hn6qRoLayAM",
+      "title": "Java for Testers #40 - Collections in Java | Wrapper Classes in Java",
+      "duration": 941
+    },
+    {
+      "id": "S2Q0wgbAWas",
+      "title": "Java for Testers #41 - ArrayList in Java Tutorial with Examples",
+      "duration": 1275
+    },
+    {
+      "id": "DulrIs_aVKI",
+      "title": "Java for Testers #42 - What is HashSet in Java | Java HashSet Tutorial",
+      "duration": 827
+    },
+    {
+      "id": "nZggJ_MlvAU",
+      "title": "Java for Testers #43 - What is HashMap in Java | HashMap Tutorial",
+      "duration": 1036
+    },
+    {
+      "id": "U0WMFjnbb4I",
+      "title": "Selenium XPath Tutorial - XPath in Selenium WebDriver | XPath Full Tutorial | SoftwareTestingMentor",
+      "duration": 5428
+    },
+    {
+      "id": "HOf0qkOUSUs",
+      "title": "Selenium Framework Tutorial #1 - Create Project Structure and Understand Basics",
+      "duration": 867
+    },
+    {
+      "id": "beWEdwfjF28",
+      "title": "Selenium Framework Tutorial #2 - Setup Selenium Maven Project in Eclipse",
+      "duration": 648
+    },
+    {
+      "id": "Sa7JJwQPmIY",
+      "title": "Selenium Framework Tutorial#3 - Selenium Test without Framework Approach",
+      "duration": 1452
+    },
+    {
+      "id": "dCE4AZbdkYM",
+      "title": "Selenium Framework Tutorial #4 - Read Values from Property File",
+      "duration": 537
+    },
+    {
+      "id": "j3o6r1BB2hI",
+      "title": "Selenium Framework Tutorial #5 - Move Common Details to Base Class",
+      "duration": 1117
+    },
+    {
+      "id": "BnsgrhDOSOo",
+      "title": "Selenium Framework Tutorial #6 - Remove Hardcoded FilePath in Framework",
+      "duration": 388
+    },
+    {
+      "id": "R3z_Vhk7huQ",
+      "title": "Selenium Framework Tutorial #7 - Externalize Locators from Test Script",
+      "duration": 927
+    },
+    {
+      "id": "0DbjTjuUoZQ",
+      "title": "Selenium Framework Tutorial #8 - Create and use TestNG.XML in Selenium",
+      "duration": 585
+    },
+    {
+      "id": "clPh36ThzHI",
+      "title": "Selenium Framework Tutorial #9 - Data Driven Testing with TestNG DataProvider",
+      "duration": 1055
+    },
+    {
+      "id": "8vTDS8NFBTE",
+      "title": "Selenium Framework Tutorial #10 - Read Excel File in Selenium with Apache POI - Part 1",
+      "duration": 618
+    },
+    {
+      "id": "NtW4TLgKFHY",
+      "title": "Selenium Framework Tutorial #11 - Read Excel File in Selenium with Apache POI - Part 2",
+      "duration": 1211
+    },
+    {
+      "id": "FteLT8uiVbI",
+      "title": "Selenium Framework Tutorial #12 - Read Excel File in Selenium with Apache POI - Part 3",
+      "duration": 758
+    }
+  ]
+}

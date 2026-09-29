@@ -1,0 +1,365 @@
+{
+  "courseId": "java-and-dsa-foundation-course-9db138",
+  "sourceUrl": "https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:24:52.614Z",
+  "title": "Java and DSA Foundation Course",
+  "channel": "College Wallah",
+  "videos": [
+    {
+      "id": "RJ733wzbNoA",
+      "title": "Introduction to Java | Java Architecture | Lecture 1 | Java and DSA Foundation Course",
+      "duration": 1993
+    },
+    {
+      "id": "Byf6xOYdNcw",
+      "title": "Java in One Shot | Revision - 1 | Output, Input, Variables, Operators | Java Course",
+      "duration": 12586
+    },
+    {
+      "id": "VvYhfj2g4Zo",
+      "title": "Visual Studio Code Installation on M1 Mac, Windows & Intel Mac | VS Code for Java, C & C++",
+      "duration": 3201
+    },
+    {
+      "id": "FBTuKtGuAUY",
+      "title": "IntelliJ Idea Installation | Lecture 2 | Java and DSA Foundation Course",
+      "duration": 477
+    },
+    {
+      "id": "BQ5PwItzNBY",
+      "title": "Variables & Input/Output in Java | Lecture 3 | Java and DSA Foundation Course",
+      "duration": 3503
+    },
+    {
+      "id": "bprX1WB0HEw",
+      "title": "Taking Input in Java : Scanner Class | Lecture 4 | Java and DSA Foundation Course",
+      "duration": 1434
+    },
+    {
+      "id": "qydXBwQQfM8",
+      "title": "Operators in Java | Lecture 5 | Java and DSA Foundation Course",
+      "duration": 2891
+    },
+    {
+      "id": "1ueMk6-Msng",
+      "title": "Bitwise Operators | Java and DSA Foundation Course",
+      "duration": 962
+    },
+    {
+      "id": "DEsTnOBTM_8",
+      "title": "If Else in Java | Revision 2 | Java and DSA Course",
+      "duration": 10963
+    },
+    {
+      "id": "b0iROJuA97g",
+      "title": "If Else & Switch Statement | Conditionals in Java | Lecture 6 | Java and DSA Foundation Course",
+      "duration": 1848
+    },
+    {
+      "id": "eAPA7O6M8Gk",
+      "title": "Loops in Java | For/While/Do-while | Lecture 7 | Java and DSA Foundation Course",
+      "duration": 2925
+    },
+    {
+      "id": "H-3OEn3Wz4E",
+      "title": "Problems on Loops - Part 1 | Using Operators | Lecture 8 | Java and DSA Foundation Course",
+      "duration": 2311
+    },
+    {
+      "id": "oznvzN6lc_k",
+      "title": "Untitled",
+      "duration": null
+    },
+    {
+      "id": "nxYY0PLtSmk",
+      "title": "Problems on Loops - Part 2 | Pattern Printing Problems | Lecture 9 | Java and DSA Foundation Course",
+      "duration": 3095
+    },
+    {
+      "id": "U_SntCGtzDQ",
+      "title": "Number Systems | Decimal & Binary | Lecture 10 | Java and DSA Foundation Course",
+      "duration": 1307
+    },
+    {
+      "id": "YmJGs7AySM4",
+      "title": "Introduction to OOPs | Classes and Objects | Lecture 11 | Java and DSA Foundation Course",
+      "duration": 2323
+    },
+    {
+      "id": "YoPbuJhFWHY",
+      "title": "Java Methods | Declaring and Calling Methods | Lecture 12 | Java and DSA Foundation Course",
+      "duration": 3501
+    },
+    {
+      "id": "dS2WgerE_cY",
+      "title": "Methods & Scope | Pass by Value & Pass by Reference | Lecture 13 | Java and DSA Foundation Course",
+      "duration": 2068
+    },
+    {
+      "id": "YsBUVLGAS5g",
+      "title": "Arrays | Types, Declaration, Creation, Operations | Lecture 14 | Java and DSA Foundation Course",
+      "duration": 4542
+    },
+    {
+      "id": "FBGJ4m3OpZE",
+      "title": "Arrays- 2| Taking Input, Array Reference, Cloning and Copy |Lecture 15| Java & DSA Foundation Course",
+      "duration": 4645
+    },
+    {
+      "id": "Au9CAdI_Ihc",
+      "title": "Target Sum | Intermediate Coding Practice in Arrays | Lecture 16 | Java and DSA Foundation",
+      "duration": 4028
+    },
+    {
+      "id": "ODBaRTfZsDg",
+      "title": "Arrays 4 | Basic Problem Solving - 2 | Lecture 17 | Java and DSA Foundation Course",
+      "duration": 4764
+    },
+    {
+      "id": "FmXF2df9OVo",
+      "title": "Two Pointers | Advanced Problem Solving in Arrays | Lecture 18 | Java and DSA Foundation",
+      "duration": 3837
+    },
+    {
+      "id": "5_DFKL4zYLc",
+      "title": "Arrays 6 | Prefix Sum Problems Solving | Lecture 19 | Java and DSA Foundation Course",
+      "duration": 3588
+    },
+    {
+      "id": "lhgH-Ehmlk4",
+      "title": "2D Arrays | Why use them, Taking 2D Arrays as Input | Lecture 20 | Java and DSA Foundation Course",
+      "duration": 5443
+    },
+    {
+      "id": "_4QAUfXERsU",
+      "title": "2D Arrays Practice | Matrix Transpose & Rotation, Pascal's Triangle | Lecture 21 | Java & DSA Course",
+      "duration": 4135
+    },
+    {
+      "id": "LJeY_cL0oC8",
+      "title": "2D Arrays Problem Solving-2 | Spiral Matrix Traversal & Generation | Lecture 22 | Java & DSA Course",
+      "duration": 2839
+    },
+    {
+      "id": "OEmIdnR-9zg",
+      "title": "Problem Solving in 2D Arrays - 3 | Prefix Sum | Lecture 23 | Java and DSA Foundation Course",
+      "duration": 4259
+    },
+    {
+      "id": "XYQ_T3SKwN0",
+      "title": "Java & DSA Course | Arraylist in Java | Collections, Lists, Arraylist Methods & Problem | Lecture 24",
+      "duration": 2694
+    },
+    {
+      "id": "ptoPN1TCJ9Q",
+      "title": "Time and Space Complexity and Big O Notation | How to avoid TLE | Lecture 25 | Java and DSA Course",
+      "duration": 6041
+    },
+    {
+      "id": "Gb_zKNcR1Ck",
+      "title": "Calculating Time Complexity | Problem Solving | Lecture 26 | Java and DSA Foundation Course",
+      "duration": 3970
+    },
+    {
+      "id": "R3e_nMpvqLY",
+      "title": "Recursion | Recursion concept and problems | Lecture 27 | Java and DSA Course",
+      "duration": 5862
+    },
+    {
+      "id": "TvaYJwSRkcE",
+      "title": "Problem Solving on Recursion-1 | Factorial & nth fibonacci number | Lecture 28 | Java and DSA Course",
+      "duration": 6243
+    },
+    {
+      "id": "AFeipKz8cWg",
+      "title": "Problem Solving on Recursion 2 | Sum of digits & power of a number | Lecture 29 | Java & DSA Course",
+      "duration": 4816
+    },
+    {
+      "id": "REzy_vexmdA",
+      "title": "Recursion Questions - 3 | k multiples | Alternate Sum Series | | Lecture 30 | Java and DSA Course",
+      "duration": 3995
+    },
+    {
+      "id": "m2W5o71wexs",
+      "title": "Recursion Questions - 4 | GCD | Euclids Algorithm | Lecture 31 | Java & DSA Course",
+      "duration": 1922
+    },
+    {
+      "id": "giTEHwVvYoE",
+      "title": "Recursion Questions 5 | Recursion on Arrays | Max Value | Sum of arrays | 32 | Java & DSA Course",
+      "duration": 5298
+    },
+    {
+      "id": "IVrWo-AlSik",
+      "title": "Recursion Questions - 6 | Linear Search | Find all indices | Lecture 33 | Java and DSA Course",
+      "duration": 5430
+    },
+    {
+      "id": "qgEV1wxb67M",
+      "title": "Recursion Questions - 7 | Recursion on Strings | Remove occurences | Lecture 34 | Java & DSA Course",
+      "duration": 5911
+    },
+    {
+      "id": "ebp7xkCQ9Fs",
+      "title": "Recursion Questions - 8 | Find Subsequences | Subsets | Lecture 35 | Java and DSA Course",
+      "duration": 5718
+    },
+    {
+      "id": "ueIlh_cmVOc",
+      "title": "Recursion Questions 9 | Recursion on Array & Strings | Frog Problem | Lecture 36 | Java & DSA Course",
+      "duration": 5526
+    },
+    {
+      "id": "0tabZULILOY",
+      "title": "Bubble Sort Algorithm | Optimized Bubble Sort | Lecture-37 | Java and DSA Foundation course",
+      "duration": 3127
+    },
+    {
+      "id": "onMreupiT0Q",
+      "title": "Selection Sort Algorithm | Lecture-38 | Java and DSA Foundation course",
+      "duration": 2509
+    },
+    {
+      "id": "Pf4XVLAGse0",
+      "title": "Insertion Sort Algorithm  | Lecture-39 | Java and DSA Foundation course",
+      "duration": 2040
+    },
+    {
+      "id": "1_bhi1KCp3k",
+      "title": "Problem on Sorting Algorithms-1 | Lecture-40 | Java and DSA Foundation course",
+      "duration": 1623
+    },
+    {
+      "id": "H88uKxPLA48",
+      "title": "Merge Sort Algorithm | Lecture-41 | Java and DSA Foundation course",
+      "duration": 5319
+    },
+    {
+      "id": "NcUYSqMl_as",
+      "title": "Quick Sort Algorithm | Lecture-42 | Java and DSA Foundation course",
+      "duration": 4877
+    },
+    {
+      "id": "9zppWXdJI2M",
+      "title": "Count Sort | Bucket Sort | Radix Sort  | Lecture-43 | Java and DSA Foundation course",
+      "duration": 6488
+    },
+    {
+      "id": "vV_U3bZ-coI",
+      "title": "Problem Solving on Sorting Algorithms-2 | Lecture-44 | Java and DSA Foundation Course",
+      "duration": 4031
+    },
+    {
+      "id": "tu7YGrJWTbI",
+      "title": "Binary Search Algorithm | Lecture-45 | Java and DSA Foundation course",
+      "duration": 4691
+    },
+    {
+      "id": "V-Mc5FJ_rds",
+      "title": "Search in Rotated Sorted Array Pattern 1 | Lecture-46 | Java & DSA Foundation course",
+      "duration": 4492
+    },
+    {
+      "id": "hDaHRTonyuo",
+      "title": "Binary Search Problems - 2 | Lecture-47 | Java and DSA Foundation course",
+      "duration": 4222
+    },
+    {
+      "id": "dR6JOzumI2I",
+      "title": "Binary Search on answer value Pattern| Lecture - 48 | Java and DSA Foundation Course",
+      "duration": 5204
+    },
+    {
+      "id": "MwlXNPFLBzE",
+      "title": "Strings in One Shot | Java Lecture 49 | java srings | strings | stringbuilder |",
+      "duration": 10452
+    },
+    {
+      "id": "00tmb4vdr80",
+      "title": "Java OOPS One Shot | Java and DSA Foundation course",
+      "duration": 9133
+    },
+    {
+      "id": "j5hWoyjrl14",
+      "title": "Linked List in Java - Part 1 | Lecture 51 | Java and DSA Foundation Course",
+      "duration": 10398
+    },
+    {
+      "id": "FrGKsNBaq_4",
+      "title": "Linked List INTERVIEW QUESTIONS in 5 Hours | Java and DSA Foundation course",
+      "duration": 19639
+    },
+    {
+      "id": "7heYkXsi5BU",
+      "title": "Doubly Linked List and Circular Linked List in Java | Lecture 53 | Java and DSA Course",
+      "duration": 7118
+    },
+    {
+      "id": "1byexQBGhas",
+      "title": "Stacks : Basic, STL and Implementation | Lecture 54 | Java and DSA Course",
+      "duration": 10321
+    },
+    {
+      "id": "B5RbUqdPK80",
+      "title": "Stacks: Interview Questions | Leetcode Problems | DSA in Java Full Course for Beginners | Lecture 55",
+      "duration": 13791
+    },
+    {
+      "id": "Evn_JL40go4",
+      "title": "Stacks - Infix, Prefix and Postfix expressions | DSA in Java Full Course for Beginners | Lecture 56",
+      "duration": 11460
+    },
+    {
+      "id": "lXIcS3qXGMY",
+      "title": "Queues - Basic, STL and Implementation | DSA in Java Full Course for Beginners | Lecture 57",
+      "duration": 9310
+    },
+    {
+      "id": "Uu6Y8aDSDww",
+      "title": "Queue Interview Questions and LeetCode Problems in Java | DSA Lecture 58",
+      "duration": 7190
+    },
+    {
+      "id": "-klVeM0x8K8",
+      "title": "Java Collections Framework in One Shot | DSA in Java Full Course for Beginners | Lecture 59",
+      "duration": 4435
+    },
+    {
+      "id": "wlODaRSgEWc",
+      "title": "Hashmap in Java | Hashing, Collisions and Rehashing | DSA Lecture 60",
+      "duration": 11913
+    },
+    {
+      "id": "MxgBfF5ti8o",
+      "title": "Hashmap - Important Problems | Anagram | DSA in Java Full Course for Beginners | Lecture 61",
+      "duration": 5111
+    },
+    {
+      "id": "4uyUuxxqcuM",
+      "title": "Introduction to Hashset and Important Problems | DSA in Java Full Course for Beginners | Lecture 62",
+      "duration": 2924
+    },
+    {
+      "id": "PAgvK1Oku6U",
+      "title": "Backtracking Part 1 in Java | N-Queens and Rat in a Maze | DSA Lecture 63",
+      "duration": 11930
+    },
+    {
+      "id": "OBSqZ2L0G10",
+      "title": "Backtracking Part 2 in Java | Sudoku Solver and N-Knights | DSA Lecture 64",
+      "duration": 7146
+    },
+    {
+      "id": "SW6btyQjY_0",
+      "title": "C++ and Java Course Update | New Learning Content and Course Details",
+      "duration": 115
+    },
+    {
+      "id": "ThQ7dGtBdAE",
+      "title": "Binary Trees in One Shot | Complete DSA in Java for Beginners",
+      "duration": 28390
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "courseId": "next-js-tutorial-for-beginners-364e18",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T14:54:19.379Z",
+  "title": "Next.js Tutorial for Beginners",
+  "channel": "Net Ninja",
+  "videos": [
+    {
+      "id": "A63UxsQsEbU",
+      "title": "Next.js Tutorial #1 - Introduction & Setup",
+      "duration": 523
+    },
+    {
+      "id": "zktJ8-k0JDc",
+      "title": "Next.js Tutorial #2 - Pages & Routes",
+      "duration": 303
+    },
+    {
+      "id": "MJT_WXdSPjE",
+      "title": "Next.js Tutorial #3 - Adding Other Components",
+      "duration": 246
+    },
+    {
+      "id": "u8vaAc3ivcY",
+      "title": "Next.js Tutorial #4 - Linking Between Pages",
+      "duration": 304
+    },
+    {
+      "id": "DGn25s42NvQ",
+      "title": "Next.js Tutorial #5 - Creating a Layout Component",
+      "duration": 274
+    },
+    {
+      "id": "qKwnlTVAGnA",
+      "title": "Next.js Tutorial #6 - Adding Styles",
+      "duration": 641
+    },
+    {
+      "id": "dlee0ESZvlc",
+      "title": "Next.js Tutorial #7 - Custom 404 Page",
+      "duration": 205
+    },
+    {
+      "id": "O3yKwz4wRHc",
+      "title": "Next.js Tutorial #8 - Redirecting Users",
+      "duration": 252
+    },
+    {
+      "id": "rHncMH1CfCU",
+      "title": "Next.js Tutorial #9 - Images & Metadata",
+      "duration": 361
+    },
+    {
+      "id": "zueyEdRZQlk",
+      "title": "Next.js Tutorial #10 - Fetching Data (getStaticProps)",
+      "duration": 481
+    },
+    {
+      "id": "WPdJaBFquNc",
+      "title": "Next.js Tutorial #11 - Dynamic Routes (part 1)",
+      "duration": 352
+    },
+    {
+      "id": "mAHqpdVzJmA",
+      "title": "Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)",
+      "duration": 388
+    },
+    {
+      "id": "2zRHlqc0_yw",
+      "title": "Next.js Tutorial #13 - Fetching a Single Item",
+      "duration": 349
+    },
+    {
+      "id": "_8wkKL0LKks",
+      "title": "Next.js Tutorial #14 - Deploying to Vercel",
+      "duration": 279
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "courseId": "operating-system-in-hindi-ac0b63",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqcuf9-ILPYARwquS3KOD3bDe0NSaD-oK",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:51.312Z",
+  "title": "Operating System in Hindi",
+  "channel": "CS Engineering Gyan",
+  "videos": [
+    {
+      "id": "IErOy0t87Z8",
+      "title": "Introduction to Operating System in Hindi |  Operating System Tutorials Hindi - 02",
+      "duration": 311
+    },
+    {
+      "id": "90wr9MJ9O3E",
+      "title": "Basic of Software | Types of Software | Operating System Tutorials Hindi - 01",
+      "duration": 333
+    },
+    {
+      "id": "XRhhfeujs-8",
+      "title": "Functions of Operating system in computer(Hindi) | Operating System Tutorials Hindi - 03",
+      "duration": 456
+    },
+    {
+      "id": "SNFTwIhQx94",
+      "title": "Types of operating system in Hindi with notes | Operating System Tutorials Hindi - 04",
+      "duration": 496
+    },
+    {
+      "id": "GqIOYjqHYg0",
+      "title": "Explain the objectives of an operating system | Operating System Tutorials Hindi - 05",
+      "duration": 261
+    },
+    {
+      "id": "T_uEKIgb1-w",
+      "title": "Popular Operating Systems for Desktop/Laptop and Mobile/Tablet 2022 | Examples in Hindi #6",
+      "duration": 159
+    },
+    {
+      "id": "ahtWU2qbhaA",
+      "title": "Explain Spooling in Operating System | Types in Hindi | Operating System Tutorials Hindi - 07",
+      "duration": 246
+    },
+    {
+      "id": "B0Uq9Mjz4gM",
+      "title": "What is Process in Operating System in Hindi | Operating System - 08",
+      "duration": 240
+    },
+    {
+      "id": "t346H6yC82w",
+      "title": "What are the attributes of process in OS? Operating System in Hindi - 09",
+      "duration": 294
+    },
+    {
+      "id": "7GRWdV0W5o0",
+      "title": "States of Process/ Process Life Cycle in Hindi - Operating System tutorial - 10",
+      "duration": 485
+    },
+    {
+      "id": "6AwjG87Rm6E",
+      "title": "What are Process Control Block(PCB) and Task Control Block(TCB) Hindi? Operating system tutorial-11",
+      "duration": 291
+    },
+    {
+      "id": "P1IKn-LvQpc",
+      "title": "What is process scheduling in operating system in Hindi ? Os Tutorial #12",
+      "duration": 308
+    },
+    {
+      "id": "oRc6UGFbprA",
+      "title": "What is a scheduler in operating system (Hindi)? OS tutorial #13",
+      "duration": 218
+    },
+    {
+      "id": "f7TPMrKn0Ak",
+      "title": "What are the different types of scheduler in Hindi ? Operating system tutorial #14",
+      "duration": 402
+    },
+    {
+      "id": "8rX5YW9BvOM",
+      "title": "Comparison between Schedulers in operating system | OS Tutorial in Hindi - #15",
+      "duration": 234
+    },
+    {
+      "id": "rMPCgeIo3VY",
+      "title": "Introduction to CPU Scheduling in Operating Systems Tutorial - 16 (Hindi)",
+      "duration": 283
+    },
+    {
+      "id": "BED3fZjUdvo",
+      "title": "Types of scheduling #algorithm in OS in hindi | Operating System Tutorial #17",
+      "duration": 313
+    },
+    {
+      "id": "0dRbMu2LxRM",
+      "title": "First come first serve (FCFS) scheduling algorithm with example | Operating System Tutorial Hindi 18",
+      "duration": 719
+    },
+    {
+      "id": "976ouzywr5E",
+      "title": "First come first serve (FCFS) example Hindi | Operating System Tutorial #19",
+      "duration": 573
+    },
+    {
+      "id": "2qeTIKhsE0Y",
+      "title": "Explain First come first serve (FCFS) with example Hindi #20",
+      "duration": 435
+    },
+    {
+      "id": "XwwMeZz6jsw",
+      "title": "Shortest job first scheduling example | Operating System tutorial #21",
+      "duration": 415
+    },
+    {
+      "id": "uc2pXxYkgj0",
+      "title": "Shortest Job First (SJF) example in Hindi | Operating System Tutorial #22",
+      "duration": 529
+    },
+    {
+      "id": "5wGTWA1qzyI",
+      "title": "Easy Shortest Job First (SJF) Preemptive example in Hindi | Operating System Tutorial -23",
+      "duration": 589
+    },
+    {
+      "id": "AJKiWXxNTjw",
+      "title": "Shortest Job First (SJF) Algorithm Preemptive | Non-Preemptive Example in Hindi - 24",
+      "duration": 810
+    },
+    {
+      "id": "mOsHkSfLvo8",
+      "title": "Priority scheduling example in non-preemptive algorithm | Operating System Tutorial - 25",
+      "duration": 449
+    },
+    {
+      "id": "YCOPwCcudoY",
+      "title": "OS Preemptive Priority Scheduling #example in Hindi | Operating System Tutorial - 26",
+      "duration": 520
+    },
+    {
+      "id": "l7fXqfpG5uM",
+      "title": "Round robin scheduling Example in hindi | Operating System Tutorial- 27",
+      "duration": 551
+    },
+    {
+      "id": "MJ3pJNJCtKQ",
+      "title": "Introduction of Deadlock in Operating System (Hindi) - OS Tutorial 28",
+      "duration": 348
+    },
+    {
+      "id": "oY578BedpmQ",
+      "title": "What are the 4 conditions of deadlock? Hindi - Operating System Tutorial-29",
+      "duration": 344
+    },
+    {
+      "id": "uVx796aXdho",
+      "title": "What are Deadlock handling methods and deadlock prevention ? Hindi - Operating System Tutorial- 30",
+      "duration": 210
+    },
+    {
+      "id": "BHyJJUaLq1g",
+      "title": "Explain Deadlock Prevention Method In Operating System Hindi - Os Tutorial - 31",
+      "duration": 472
+    },
+    {
+      "id": "VNbELpiPN_k",
+      "title": "Explain Banker's Algorithm | Deadlock Avoidance in Hindi - Operating System - 32",
+      "duration": 411
+    },
+    {
+      "id": "rWscZjdCsrQ",
+      "title": "Banker's Algorithm Example in Operating System Hindi - 33",
+      "duration": 804
+    },
+    {
+      "id": "f2v0CrWYktY",
+      "title": "Explain Resource Allocation Graph (RAG) in Operating System Hindi - OS Tutorial - 34",
+      "duration": 355
+    },
+    {
+      "id": "P90SuC6UKPo",
+      "title": "Resource Allocation Graph (RGA) EXAMPLE in operating systems Hindi - 35",
+      "duration": 410
+    },
+    {
+      "id": "NLQLLjqQOGk",
+      "title": "Most Important Operating System Question and Answers for exam | Last Moment Tutorials",
+      "duration": 268
+    },
+    {
+      "id": "fi7lW4saWSs",
+      "title": "What is Memory Management in Operating System (OS) ?",
+      "duration": 358
+    },
+    {
+      "id": "DIAGAQJy1wI",
+      "title": "Explain Logical and Physical Address in Operating System (OS) in Hindi",
+      "duration": 248
+    },
+    {
+      "id": "TPHITElg364",
+      "title": "Difference between Logical and Physical Address in Operating System",
+      "duration": 240
+    },
+    {
+      "id": "vzI9Np-obak",
+      "title": "Memory Management Techniques in Operating System",
+      "duration": 348
+    },
+    {
+      "id": "39DxqHPJIQ4",
+      "title": "Contiguous Memory Allocation | Single CMA in Operating System",
+      "duration": 536
+    },
+    {
+      "id": "5rnycAs4xNQ",
+      "title": "Fixed Partitioning in Operating System | Multiple Partition type | Contiguous Memory Allocation",
+      "duration": 440
+    },
+    {
+      "id": "kjtGzEQT3JY",
+      "title": "Variable (or dynamic) Partitioning in Operating System | Dynamic partitioning in OS",
+      "duration": 407
+    },
+    {
+      "id": "pw6a_xeyd0k",
+      "title": "Non-Contiguous Memory Allocation in Operating System (OS) in Hindi",
+      "duration": 368
+    },
+    {
+      "id": "95aVn8ccarA",
+      "title": "Difference between Contiguous and Non-Contiguous Memory Allocation in operating system",
+      "duration": 355
+    },
+    {
+      "id": "B3MiDjJ_ZQw",
+      "title": "Paging in OS (Operating System) in Hindi",
+      "duration": 341
+    },
+    {
+      "id": "Vowi9I0Y4AM",
+      "title": "Calculate the Number of Pages and Frames given Logical Address & Physical Address | Paging in OS",
+      "duration": 298
+    },
+    {
+      "id": "ZJF6B1iVEZo",
+      "title": "Explain Segmentation in OS (Operating System) Tutorials",
+      "duration": 452
+    },
+    {
+      "id": "4EjmWpv0n4c",
+      "title": "Difference Between Paging and Segmentation in Operating System Tutorials",
+      "duration": 257
+    },
+    {
+      "id": "5GfM2hSkQdE",
+      "title": "FIFO - Page Replacement Algorithms in Operating Systems",
+      "duration": 530
+    },
+    {
+      "id": "pOfizlvT9GM",
+      "title": "Belady's Anomaly in Page Replacement Algorithms",
+      "duration": 556
+    },
+    {
+      "id": "zqXajarKJg4",
+      "title": "Optimal Page Replacement Algorithm with Example in OS ( Operating System) in Hindi",
+      "duration": 613
+    },
+    {
+      "id": "RMEvwDzOD5U",
+      "title": "Least Recently Used (LRU) algorithm in OS | Page Replacement Algorithm",
+      "duration": 558
+    },
+    {
+      "id": "ywI9RxrBNA8",
+      "title": "Most Recently Used (MRU) Page Replacement algorithm in OS",
+      "duration": 494
+    },
+    {
+      "id": "-J2ocDrx-n8",
+      "title": "Hard Disk Architecture in Operating System in Hindi | Magnetic Disk Architecture",
+      "duration": 622
+    },
+    {
+      "id": "0si6uyzbKwE",
+      "title": "What is Thrashing in OS (Operating System) | Explain Thrash in Hindi",
+      "duration": 547
+    },
+    {
+      "id": "QwN3EsCvUXM",
+      "title": "What is Virtual Memory in OS (Operating System) with Example",
+      "duration": 572
+    },
+    {
+      "id": "sRkkysWxCyk",
+      "title": "Disk Scheduling Algorithms in OS (Operating System)",
+      "duration": 324
+    },
+    {
+      "id": "cViRj2g5XRk",
+      "title": "FCFS Disk Scheduling Algorithms with Example | First Come First Serve in Operating System in Hindi",
+      "duration": 408
+    },
+    {
+      "id": "lYBnUJLB-NI",
+      "title": "Explain Shortest Seek Time First (SSTF) with Example | SSTF in Disk scheduling in OS",
+      "duration": 426
+    },
+    {
+      "id": "AobvNroe5OU",
+      "title": "SCAN Disk Scheduling Algorithm with Example in OS",
+      "duration": 377
+    },
+    {
+      "id": "wYkzsSAGfsM",
+      "title": "LOOK Disk Scheduling Algorithm with Example - Operating System Tutorials in Hindi",
+      "duration": 319
+    },
+    {
+      "id": "xKVkYoze3F8",
+      "title": "C-SCAN Disk Scheduling Algorithm - Operating System Tutorials in Hindi",
+      "duration": 341
+    },
+    {
+      "id": "L9mDOavcOYA",
+      "title": "C-LOOK Disk Scheduling Algorithm in Operating System Tutorials in Hindi",
+      "duration": 301
+    },
+    {
+      "id": "Dem4JsYzxiY",
+      "title": "Explain File Systems in Operating System Tutorials",
+      "duration": 361
+    },
+    {
+      "id": "W8-N5OU7jec",
+      "title": "What are File Attributes and Operations ? File Systems in Operating System Tutorials | CSE GYAN",
+      "duration": 321
+    },
+    {
+      "id": "E98jGM8q1vg",
+      "title": "WAP to Return Second Largest Number in the List using Python Programming - Easy and Simple Learning",
+      "duration": 369
+    },
+    {
+      "id": "15nkEAzZa4A",
+      "title": "CBSE CS - WAP to read a LIST of n integers and find their MEDIAN | Python Programming in Hindi",
+      "duration": 531
+    }
+  ]
+}

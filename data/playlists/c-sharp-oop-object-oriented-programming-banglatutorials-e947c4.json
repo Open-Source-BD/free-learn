@@ -1,0 +1,320 @@
+{
+  "courseId": "c-sharp-oop-object-oriented-programming-banglatutorials-e947c4",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:05:59.416Z",
+  "title": "C# OOP (object oriented programming) BanglaTutorials",
+  "channel": "Programming Palli",
+  "videos": [
+    {
+      "id": "wUvwRKja5vk",
+      "title": "OOP course content in C# | OOP in C# Part-1 | C# OOP Bangla Tutorial",
+      "duration": 209
+    },
+    {
+      "id": "3PhDGyVAiqQ",
+      "title": "Class and Object in C# | OOP in C# Part-2 | C# OOP Bangla Tutorial",
+      "duration": 360
+    },
+    {
+      "id": "PR6Lwn7Xx5s",
+      "title": "Basic OOP with Class and Objecct | OOP in C# Part-3 | C# OOP Bangla Tutorial",
+      "duration": 1274
+    },
+    {
+      "id": "3pUKpkN06dQ",
+      "title": "Class diagrams in C# | UML Class Diagram | Generating class from diagram | OOP in C# Part-4",
+      "duration": 490
+    },
+    {
+      "id": "ZWOzzytaSUA",
+      "title": "Value Type & Reference Type in C# | OOP in C# Part-5 | C# OOP Bangla Tutorial",
+      "duration": 916
+    },
+    {
+      "id": "6uavhQSKsWg",
+      "title": "Value Type & Reference Type Sample Code | OOP in C# Part-6 | C# OOP Bangla Tutorial",
+      "duration": 885
+    },
+    {
+      "id": "Vh5hk8wMnJ8",
+      "title": "Data Hiding in C# | OOP in C# Part-7 | C# OOP Bangla Tutorial",
+      "duration": 1092
+    },
+    {
+      "id": "ow7toSLdRbw",
+      "title": "Properties in C# | OOP in C# Part-8 | C# OOP Bangla Tutorial",
+      "duration": 720
+    },
+    {
+      "id": "aLw84K48Sug",
+      "title": "Auto Properties in C# | OOP in C# Part-9 | C# OOP Bangla Tutorial",
+      "duration": 262
+    },
+    {
+      "id": "wi7QZgxOx5w",
+      "title": "Constructor in C# | OOP in C# Part-10 | C# OOP Bangla Tutorial",
+      "duration": 538
+    },
+    {
+      "id": "Iu9nr0FqXf0",
+      "title": "Constructor overloading in c# | OOP in C# Part-11 | C# OOP Bangla Tutorial",
+      "duration": 336
+    },
+    {
+      "id": "VpdyqYuRlDI",
+      "title": "Default Constructor in C# | OOP in C# Part-12 | C# OOP Bangla Tutorial",
+      "duration": 259
+    },
+    {
+      "id": "wzbSqry7qXU",
+      "title": "Constructor chaining in C# | OOP in C# Part-13 | C# OOP Bangla Tutorial",
+      "duration": 292
+    },
+    {
+      "id": "aOjMUpZQHmQ",
+      "title": "Association relationship in C# | OOP in C# Part-14 | C# OOP Bangla Tutorial",
+      "duration": 773
+    },
+    {
+      "id": "dsitYqyuTrA",
+      "title": "One to one association relationship in C# | OOP in C# Part-15 | C# OOP Bangla Tutorial",
+      "duration": 727
+    },
+    {
+      "id": "tvLnTHIq6sg",
+      "title": "One to many association relationship in C# | OOP in C# Part-16 | C# OOP Bangla Tutorial",
+      "duration": 2401
+    },
+    {
+      "id": "UZfwIpMv9-s",
+      "title": "Uses relationship in C# | OOP in C# Part-17 | C# OOP Bangla Tutorial",
+      "duration": 467
+    },
+    {
+      "id": "v46URtKyrp8",
+      "title": "Inheritance introduction | OOP in C# Part-18 | C# OOP Bangla Tutorial",
+      "duration": 485
+    },
+    {
+      "id": "CdCFeAueOVI",
+      "title": "Inheritance relationship in C# | OOP in C# Part-19 | C# OOP Bangla Tutorial",
+      "duration": 1448
+    },
+    {
+      "id": "qZzlOo1uHzo",
+      "title": "Up casting & Down casting in C# | OOP in C# Part-20 | C# OOP Bangla Tutorial",
+      "duration": 860
+    },
+    {
+      "id": "VpWaLl5FI2Q",
+      "title": "Method overriding in C# | OOP in C# Part-21 | C# OOP Bangla Tutorial",
+      "duration": 1726
+    },
+    {
+      "id": "x8mDVOD9kjI",
+      "title": "Using constructor base and sub class | OOP in C# Part-22 | C# OOP Bangla Tutorial",
+      "duration": 1238
+    },
+    {
+      "id": "JAup2IOqF9k",
+      "title": "Runtime polymorphism in C# | OOP in C# Part-23 | C# OOP Bangla Tutorial",
+      "duration": 674
+    },
+    {
+      "id": "3Dc8HRkAMLs",
+      "title": "Object class in C# | OOP in C# Part-24 | C# OOP Bangla Tutorial",
+      "duration": 414
+    },
+    {
+      "id": "vonwoaUl0Hw",
+      "title": "Abstract class & Abstract  method in C# | OOP in C# Part-25 | C# OOP Bangla Tutorial",
+      "duration": 1790
+    },
+    {
+      "id": "ldE-LZFcvhk",
+      "title": "Interface introduction in C# | OOP in C# Part-26 | C# OOP Bangla Tutorial",
+      "duration": 570
+    },
+    {
+      "id": "1ClsLMdZgjo",
+      "title": "Interface Example in C# | OOP in C# Part-27 | C# OOP Bangla Tutorial",
+      "duration": 2066
+    },
+    {
+      "id": "bhdetMkZ2yY",
+      "title": "Multiple interface implementation in C# | OOP in C# Part-28 | C# OOP Bangla Tutorial",
+      "duration": 676
+    },
+    {
+      "id": "OTQrF2GBub0",
+      "title": "Difference between abstract class and interface | OOP in C# Part-29 | C# OOP Bangla Tutorial",
+      "duration": 687
+    },
+    {
+      "id": "1mILPMsPI2U",
+      "title": "Explicit interface implementation in C# | OOP in C# Part-30 | C# OOP Bangla Tutorial",
+      "duration": 803
+    },
+    {
+      "id": "bm6aEtietFM",
+      "title": "Object Initializer in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 440
+    },
+    {
+      "id": "gva1vYWmG64",
+      "title": "Collection initializer in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 791
+    },
+    {
+      "id": "3oPEER0LdfQ",
+      "title": "Understanding the Var keyword in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 887
+    },
+    {
+      "id": "ojFOptweMxc",
+      "title": "Dynamic Data Type in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 577
+    },
+    {
+      "id": "ny61hMfWnno",
+      "title": "Dynamic Data Type Example in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 1081
+    },
+    {
+      "id": "YP1yDwYwVLk",
+      "title": "Extensible dynamic type in C# | Expand Object In C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 365
+    },
+    {
+      "id": "Myz-tD1SSIo",
+      "title": "Differences between var and dynamic in C# | Var vs Daynamic | C# Bangla Tutorial | Advanced C#",
+      "duration": 415
+    },
+    {
+      "id": "X31nylyEqUU",
+      "title": "Anonymous Type in C# | Anonymous object | C# Bangla Tutorial | Advanced C#",
+      "duration": 907
+    },
+    {
+      "id": "nJCMxcnxPsI",
+      "title": "Anonymous Type Example in C# | Anonymous object | C# Bangla Tutorial | Advanced C#",
+      "duration": 764
+    },
+    {
+      "id": "J7rcYhpW5ZY",
+      "title": "Anonymous array in C#| Anonymous Collection | C# Bangla Tutorial | Advanced C#",
+      "duration": 772
+    },
+    {
+      "id": "pbJnXR5UVP0",
+      "title": "Enum in C# | What is Enum | Enumeration type in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 770
+    },
+    {
+      "id": "eDQ1KMKWcNw",
+      "title": "Enum example in C# | What is Enum | Enumeration type in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 1045
+    },
+    {
+      "id": "U67CWT-I4oY",
+      "title": "Static in C# | What is static | Static Methods & Classes | C# Bangla Tutorial | Advanced C#",
+      "duration": 654
+    },
+    {
+      "id": "ij_EUD6Ru1I",
+      "title": "Static example in C# | What is static | Static Methods & Classes | C# Bangla Tutorial | Advanced C#",
+      "duration": 1164
+    },
+    {
+      "id": "xGjX0R_6qDg",
+      "title": "Generics type in C# | Generic Class | Generic Method | C# Bangla Tutorial | Advanced C#",
+      "duration": 1102
+    },
+    {
+      "id": "xfDjyg9jKSk",
+      "title": "Generics type example in C# | Generic Class | Generic Method | C# Bangla Tutorial | Advanced C#",
+      "duration": 1507
+    },
+    {
+      "id": "72C6R_BkwCc",
+      "title": "Delegates in C# | Delegates and events | what is a delegates | C# Bangla Tutorial | Advanced C#",
+      "duration": 721
+    },
+    {
+      "id": "lv2VvZJJr0U",
+      "title": "Single delegates in C# | Delegates and events | C# Bangla Tutorial | Advanced C#",
+      "duration": 830
+    },
+    {
+      "id": "GfcTSJf5Rc8",
+      "title": "Pass method as parameter using C# | Delegates in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 607
+    },
+    {
+      "id": "EXG4GOFMitw",
+      "title": "Delegates and lambda expression in C# | Anonymous Methods |  C# Bangla Tutorial | Advanced C#",
+      "duration": 864
+    },
+    {
+      "id": "gDR-ypAnLms",
+      "title": "Multicast delegates in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 784
+    },
+    {
+      "id": "XotHYwRuhOM",
+      "title": "Generic delegates in C# | What is generic delegates | C# Bangla Tutorial | Advanced C#",
+      "duration": 531
+    },
+    {
+      "id": "UPqN5gm4mD0",
+      "title": "Generic delegate example in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 968
+    },
+    {
+      "id": "L1FetjyfPHQ",
+      "title": "Func generic delegate in C# | What is Func | C# Bangla Tutorial | Advanced C#",
+      "duration": 857
+    },
+    {
+      "id": "bxTAeE62WaA",
+      "title": "Func delegate example in C# | What is Func | C# Bangla Tutorial | Advanced C#",
+      "duration": 710
+    },
+    {
+      "id": "hXkztwCUZz4",
+      "title": "Action generic delegates in C# | Generic delegates in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 437
+    },
+    {
+      "id": "9j1NvBxiVzc",
+      "title": "Action delegates example in C# | Generic delegates in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 619
+    },
+    {
+      "id": "iULLuVpqrGQ",
+      "title": "Predicate delegate in C# | Generic Delegate In C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 731
+    },
+    {
+      "id": "bdvgEnKRe5o",
+      "title": "Extension method in C# | C# static extension method | C# Bangla Tutorial | Advanced C#",
+      "duration": 451
+    },
+    {
+      "id": "HKLZZ2MkTmc",
+      "title": "Extension method example in C# | C# static extension method | C# Bangla Tutorial | Advanced C#",
+      "duration": 772
+    },
+    {
+      "id": "3Fh5jCM7I90",
+      "title": "Reflection in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 371
+    },
+    {
+      "id": "gkCYsx8ZeCg",
+      "title": "Reflection example in C# | C# Bangla Tutorial | Advanced C#",
+      "duration": 1209
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "courseId": "flutter-3-tutorial-in-hindi-04b000",
+  "sourceUrl": "https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:21:55.203Z",
+  "title": "Flutter 3 tutorial in Hindi",
+  "channel": "CODERS NEVER QUIT",
+  "videos": [
+    {
+      "id": "hZPis2IrPJw",
+      "title": "#0 Flutter Introduction and SDK installation in windows | Flutter 2 tutorials in Hindi | हिंदी में",
+      "duration": 391
+    },
+    {
+      "id": "VPJjCkdK0EU",
+      "title": "#1 Android Studio installation for Flutter हिंदी में |  How to setup flutter in Android studio",
+      "duration": 855
+    },
+    {
+      "id": "jIgNDP5zb38",
+      "title": "#2 How to use Android Studio as a IDE for Flutter App Development | Flutter 2 tutorial in Hindi",
+      "duration": 464
+    },
+    {
+      "id": "UVsl8AHbxqo",
+      "title": "#3 Dart Crash Course for Flutter In Hindi | Dart programming in Hindi | Flutter 2 tutorial in Hindi",
+      "duration": 2477
+    },
+    {
+      "id": "NqsltarVOoU",
+      "title": "#4 Setup Visual Studio Code for Flutter हिंदी में | Flutter in VScode | Flutter 2 tutorial in Hindi",
+      "duration": 507
+    },
+    {
+      "id": "apTjGHq6tHA",
+      "title": "#5 Hello World in Flutter explained | Flutter 2 tutorial in Hindi | Flutter हिंदी में",
+      "duration": 488
+    },
+    {
+      "id": "Xe4-XJPCtSQ",
+      "title": "#6 Scaffold, AppBar, FloatingActionButton in Flutter | Flutter 2 tutorials in Hindi",
+      "duration": 853
+    },
+    {
+      "id": "j4iOQRUhiUQ",
+      "title": "#7 TextStyle and Floating Action Button Location in Flutter हिंदी में | Flutter 2 tutorial in Hindi",
+      "duration": 490
+    },
+    {
+      "id": "btKJjP0mhMU",
+      "title": "#8 Stateful Widget in Flutter in Hindi हिंदी में | Flutter 2 tutorial in Hindi for beginners",
+      "duration": 732
+    },
+    {
+      "id": "Dz3Ighg1jKc",
+      "title": "#9 Coding Jokes App in Flutter | Flutter 2 tutorial for beginners in Hindi | Flutter हिंदी में",
+      "duration": 647
+    },
+    {
+      "id": "mskNOkyTMuE",
+      "title": "#10 Container, Box Decoration and Gradient | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 795
+    },
+    {
+      "id": "WBqSHkyCYiw",
+      "title": "#11 Final vs Const in Dart & Flutter | TextButton, ElevatedButton & OutlinedButton हिंदी में",
+      "duration": 872
+    },
+    {
+      "id": "k4NWkBAOl6c",
+      "title": "#12 Row and Column widget in Flutter | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 443
+    },
+    {
+      "id": "mTKQkBtFSmo",
+      "title": "#13 Love Calculator App and Migrating to null safety | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1457
+    },
+    {
+      "id": "hnEyQEcy4x0",
+      "title": "#14 Input Decoration and Circular Progress Indicator | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 661
+    },
+    {
+      "id": "XB7nM70X7dM",
+      "title": "#15 Adding validation in Text Field and Text Form Field | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1472
+    },
+    {
+      "id": "vur8n5B8iWM",
+      "title": "#16 Theme & Theme Data in Flutter | Flutter 2 tutorial for beginners in Hindi हिंदी में",
+      "duration": 695
+    },
+    {
+      "id": "vxDV8r_wDZM",
+      "title": "#17 Widget Lifecycle in Flutter in Hindi | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 601
+    },
+    {
+      "id": "Lm2BIggeGwk",
+      "title": "#18 Deploy Flutter Web App to Gitub pages | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 584
+    },
+    {
+      "id": "q3PthjpydL0",
+      "title": "#19 Single child scroll view and List View in Flutter | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 881
+    },
+    {
+      "id": "QDrEUHfpKB0",
+      "title": "#20 List View builder in Flutter | Flutter 2 tutorial for beginners in Hindi हिंदी में",
+      "duration": 751
+    },
+    {
+      "id": "sV6ujAUkVyo",
+      "title": "#21 Add Images in Flutter | Wallpaper App Part 1 | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1369
+    },
+    {
+      "id": "LNpVBT-4zVk",
+      "title": "#22 Alert Dialog in Flutter | Wallpaper App Part 2 | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 400
+    },
+    {
+      "id": "BoDCdTUdwpo",
+      "title": "#23 Set Image as home screen Wallpaper Part 3 | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 689
+    },
+    {
+      "id": "vXYCsiUSb9A",
+      "title": "#24 Navigator and Passing data to other screen | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1586
+    },
+    {
+      "id": "EacIWhFwlu0",
+      "title": "#25 Navigate with named routes & Pass arguments | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 890
+    },
+    {
+      "id": "bgg2EVLOZlo",
+      "title": "#26 Contact App in Flutter | Flutter 2 tutorial for beginners in Hindi हिंदी में",
+      "duration": 2141
+    },
+    {
+      "id": "LWIvRcW5ld8",
+      "title": "#27 Future Async Await (Asynchronous code) in Flutter | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1523
+    },
+    {
+      "id": "TM9GrDEKrQw",
+      "title": "#28 Contact App with dynamic data | Flutter 2 tutorial for beginners in Hindi हिंदी में",
+      "duration": 759
+    },
+    {
+      "id": "PsOlc8gcSvg",
+      "title": "#29 GridView and GridView builder in Flutter in Hindi | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 970
+    },
+    {
+      "id": "whAd6gvNlnw",
+      "title": "#30 Build TIC TAC TOE Game in Flutter in Hindi | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1431
+    },
+    {
+      "id": "x9zbqDGQgMU",
+      "title": "#31 TIC TAC TOE Game part 2 in Flutter in Hindi | Flutter 2 tutorial for beginners हिंदी में",
+      "duration": 1073
+    },
+    {
+      "id": "c4p0EwuyOMw",
+      "title": "#32 Build Portfolio website using Flutter for web | Flutter Web Crash Course | Flutter 2 हिंदी में",
+      "duration": 4390
+    }
+  ]
+}

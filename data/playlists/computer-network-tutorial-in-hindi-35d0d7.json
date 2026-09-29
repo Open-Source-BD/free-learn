@@ -1,0 +1,270 @@
+{
+  "courseId": "computer-network-tutorial-in-hindi-35d0d7",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL-JvKqQx2AteLNR8UO4UQiDmQF-Wotu5G",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:30:30.663Z",
+  "title": "Computer Network Tutorial in Hindi",
+  "channel": "University Academy",
+  "videos": [
+    {
+      "id": "04A4PRikkCY",
+      "title": "CN1: Introduction to Computer Network | Computer Network Vs Distributed System",
+      "duration": 969
+    },
+    {
+      "id": "MGTMrVM1kxQ",
+      "title": "CN2: Goals of Computer Network | Application of Computer Network | Goals and Application of CN",
+      "duration": 715
+    },
+    {
+      "id": "ArG4SAMWreE",
+      "title": "CN3: Computer Network Hardware and Software | Point to Point Link| Broadcast Network Examples",
+      "duration": 1064
+    },
+    {
+      "id": "M8putkwe1Bs",
+      "title": "CN4: Network Structure and Architecture in Computer Networks| Network Topology and its Type",
+      "duration": 896
+    },
+    {
+      "id": "pMsHqYnrzHE",
+      "title": "CN5: Network Structure| Network Topology | Ring Topology| Tree Topology | Habrid Topology",
+      "duration": 645
+    },
+    {
+      "id": "EuVSkvVVawU",
+      "title": "CN6: Network Categories| Personal Area Network (PAN)|Local Area Network (LAN)|Metropolitan (MAN)",
+      "duration": 744
+    },
+    {
+      "id": "dwP4HfPDwjg",
+      "title": "CN7: Network Categories| Wide area network (WAN)| Internetworks (Internet)",
+      "duration": 499
+    },
+    {
+      "id": "aY6m7oh9Ee4",
+      "title": "CN8: Network Software : Protocol Hierarchies, Network Architecture,  Layered Architecture of Network",
+      "duration": 986
+    },
+    {
+      "id": "HBsjX8403I4",
+      "title": "CN9: Design Issue for Network Layers | Connection oriented and Connectionless Services In Hindi",
+      "duration": 1001
+    },
+    {
+      "id": "i5wbGyPSxW8",
+      "title": "CN10:Computer Network Reference Model|Open System Interconnection (OSI) Seven Layers Reference Model",
+      "duration": 1490
+    },
+    {
+      "id": "4FxBJ9NHhkA",
+      "title": "CN11: TCP/IP Reference Model | transmission control protocol/internet protocol (TCP/IP) model",
+      "duration": 950
+    },
+    {
+      "id": "L0MV4KJ06xU",
+      "title": "CN12: Difference Between OSI and TCP/IP Model | Hybrid Reference Model",
+      "duration": 455
+    },
+    {
+      "id": "wVFx0c2d86o",
+      "title": "CN13: Backbone Network in Computer Network| Bus Backbone | Star Backbone | Connecting Remote LANs",
+      "duration": 752
+    },
+    {
+      "id": "RYFMVBtjCTw",
+      "title": "CN14: Local Access Network Design | Residential Access Network| Company Access| Wireless Access",
+      "duration": 608
+    },
+    {
+      "id": "UxA-vZdUZlU",
+      "title": "CN15: Switching in Networking| Circuit Switching | Message Switching | Packet Switching in Hindi",
+      "duration": 730
+    },
+    {
+      "id": "8q5fRKIvdOo",
+      "title": "CN16:  Switching in Networking| Circuit Switching | Message Switching | Packet Switching Part-2",
+      "duration": 894
+    },
+    {
+      "id": "pk2VF8IYuHA",
+      "title": "CN17:Delays in computer networks|Transmission delay|Propagation delay|Queuing delay|Processing delay",
+      "duration": 897
+    },
+    {
+      "id": "gO7vm7QnZsA",
+      "title": "CN18: Physical layer transmission media in computer network| iGuided Media | Unguided Media",
+      "duration": 934
+    },
+    {
+      "id": "VQXlODgeCP8",
+      "title": "CN19: Integrated Services Digital Network (ISDN) | Types of ISDN Services| Basic rate interface, PRI",
+      "duration": 804
+    },
+    {
+      "id": "gDOYNl0VKW4",
+      "title": "CN20: Data link Layer Introduction | Functionality of Data link Layer | Services Provided by DLL",
+      "duration": 744
+    },
+    {
+      "id": "vJxJ5vJBAdo",
+      "title": "CN21: Framing in Data Link Layer| Types of Framing DLL In OSI | Computer Network",
+      "duration": 640
+    },
+    {
+      "id": "OMhohmVn-Gk",
+      "title": "CN22: Character stuffing & Bit Stuffing in Computer Networks | Framing in Computer Networks",
+      "duration": 771
+    },
+    {
+      "id": "x0CRuqP0has",
+      "title": "CN23: Bit Stuffing | Flag bits with bit stuffing framing method | Bit Stuffing in Data Link Layer",
+      "duration": 447
+    },
+    {
+      "id": "FKmqpBvptys",
+      "title": "CN24: Error Detection and Correction in Computer Networks | Single Bit Error and Burst Error",
+      "duration": 499
+    },
+    {
+      "id": "jUF7x5drAE0",
+      "title": "CN25: Error Detecting Techniques | Single Parity Check | Drawbacks Of Single Parity Checking",
+      "duration": 936
+    },
+    {
+      "id": "koLlTsuFTmM",
+      "title": "CN26: Two-dimensional parity check | Error Detecting Techniques | Drawbacks Of 2D Parity Check",
+      "duration": 918
+    },
+    {
+      "id": "_qQpxsi51Vw",
+      "title": "CN27: Checksum Error Detecting Techniques | Checksum Generator | Checksum Checker",
+      "duration": 755
+    },
+    {
+      "id": "QZtWv9ZX4T4",
+      "title": "CN28: Cyclic Redundancy Check (CRC) | CRC Error Detection Example | CRC in Computer Network",
+      "duration": 905
+    },
+    {
+      "id": "D5rlfoSGuy8",
+      "title": "CN29: Cyclic Redundancy Check (CRC) Error Detection Example | CRC in Computer Network",
+      "duration": 499
+    },
+    {
+      "id": "bNhYdUHKiqo",
+      "title": "CN30: Hamming Code Error Detection and Correction | Hamming Code Encoding and Decoding",
+      "duration": 1494
+    },
+    {
+      "id": "2oi7aCRgcL0",
+      "title": "CN31: Flow Control in Computer Networks | Noiseless and Noisy protocols | Flow Control Protocols",
+      "duration": 354
+    },
+    {
+      "id": "lZ-809FF508",
+      "title": "CN32: Simplest Protocol for noiseless channel | Stop and Wait Protocol | Flow Control",
+      "duration": 507
+    },
+    {
+      "id": "oUlm6FUU2OE",
+      "title": "CN33: Stop-and-wait ARQ Protocol | Noisy channel protocols in computer networks | Flow Control",
+      "duration": 553
+    },
+    {
+      "id": "Ox7EhpkCss8",
+      "title": "CN34: Go-Back-N ARQ Protocol | Sliding Window Protocol | Flow Control - Go-Back-N ARQ Protocol",
+      "duration": 678
+    },
+    {
+      "id": "Vuhd0MsEDlA",
+      "title": "CN35: Go-Back-N ARQ Protocol Solved Example | Flow Control - Go-Back-N ARQ Protocol",
+      "duration": 494
+    },
+    {
+      "id": "9FW88qrufhA",
+      "title": "CN36: Selective Repeat | Sliding Window Protocol | Selective-Repeat ARQ Protocol",
+      "duration": 498
+    },
+    {
+      "id": "tZ4yd8slIGE",
+      "title": "CN37: Sub Layers of the Data Link Layer | LLC or DLC | Medium Access Control (MAC)",
+      "duration": 467
+    },
+    {
+      "id": "XagDjWBwOcw",
+      "title": "CN38: Multiple Access Protocols | Random Access Protocol | Controlled Access,Channelization Protocol",
+      "duration": 776
+    },
+    {
+      "id": "iBakS-bhHSI",
+      "title": "CN39: Selective Repeat Protocol Solved Example  | Selective Repeat ARQ Problems",
+      "duration": 471
+    },
+    {
+      "id": "r9u0_09mpsw",
+      "title": "CN40: Pure ALOHA| What is Pure ALOHA in computer networks | Random Access Protocol",
+      "duration": 876
+    },
+    {
+      "id": "jvViFn-50UQ",
+      "title": "CN41: Slotted Aloha | Slotted Aloha Explained with Examples",
+      "duration": 461
+    },
+    {
+      "id": "YuxQcFtTvHw",
+      "title": "CN42: Carrier Sense Multiple Access (CSMA) | CSMA in Computer Network | Types of CSMA Protocols",
+      "duration": 818
+    },
+    {
+      "id": "6e0mAXmy6YE",
+      "title": "CN43: CSMA with Collision Detection CSMA/CD | Carrier Sense Multiple Access with Collision Detection",
+      "duration": 669
+    },
+    {
+      "id": "cTXLvd1vDxk",
+      "title": "CN44: Carrier Sense Multiple Access with Collision Avoidance | CSMA/CA | CSMA",
+      "duration": 333
+    },
+    {
+      "id": "RB68yd6UijA",
+      "title": "CN45: Controlled Access Protocols | Reservation Protocols | Polling Protocols",
+      "duration": 623
+    },
+    {
+      "id": "NetOqgM4t8U",
+      "title": "CN46: Controlled Access Protocol | Token Passing | Token Ring in Networking",
+      "duration": 295
+    },
+    {
+      "id": "CdCPVFSlxi8",
+      "title": "CN47: Channelization Protocols | FDMA | TDMA | Frequency-Division  and Time-Division Multiple Access",
+      "duration": 816
+    },
+    {
+      "id": "3DeKd3OCL44",
+      "title": "CN48:  Code Division Multiple Access (CDMA)  | CDMA | Channelization Protocols",
+      "duration": 991
+    },
+    {
+      "id": "cW3Q3z0-0HA",
+      "title": "CN49: Network  connecting Devices (Hub, Repeater, Bridge, Switch, Router, and Brouter)",
+      "duration": 718
+    },
+    {
+      "id": "s77nuUWAASA",
+      "title": "CN50: Network  connecting Devices (Hub, Repeater, Bridge, Switch, Router, and Brouter) Part-2",
+      "duration": 758
+    },
+    {
+      "id": "0UK1ULgx2pg",
+      "title": "CN51: Network  Connecting Devices,  Bridge, Switch, Switch in Computer Network",
+      "duration": 931
+    },
+    {
+      "id": "GaIOxtH7oB0",
+      "title": "CN52: Link layer switches & bridges (learning bridge and Spanning Tree Algorithms)",
+      "duration": 978
+    }
+  ]
+}

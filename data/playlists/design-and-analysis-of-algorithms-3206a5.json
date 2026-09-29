@@ -1,0 +1,405 @@
+{
+  "courseId": "design-and-analysis-of-algorithms-3206a5",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+  "kind": "playlist",
+  "fetchedAt": "2026-09-28T15:14:15.865Z",
+  "title": "Design and Analysis of algorithms (DAA)",
+  "channel": "Gate Smashers",
+  "videos": [
+    {
+      "id": "u8JZ9gU5o4g",
+      "title": "L-1.1: Introduction to Algorithm & Syllabus Discussion for GATE/NET & Placements Preparation | DAA",
+      "duration": 687
+    },
+    {
+      "id": "itbkP50iggM",
+      "title": "L-1.2: What is Algorithm | How to Analyze an Algorithm | Priori vs Posteriori Analysis | DAA",
+      "duration": 471
+    },
+    {
+      "id": "7dz8Iaf_weM",
+      "title": "L-1.3: Asymptotic Notations | Big O | Big Omega | Theta Notations | Most Imp Topic Of Algorithm",
+      "duration": 865
+    },
+    {
+      "id": "OLttwv_4Ltw",
+      "title": "L-1.4: Various Properties of Asymptotic Notation with Example | Algorithm | DAA",
+      "duration": 536
+    },
+    {
+      "id": "19N3gWGBh5E",
+      "title": "L-1.5: Comparison of Various Time Complexities | Different types in Increasing Order| Must Watch",
+      "duration": 581
+    },
+    {
+      "id": "gBz44smaa9A",
+      "title": "L-1.6: Time Complexities of all Searching and Sorting Algorithms in 10 minute | GATE & other Exams",
+      "duration": 772
+    },
+    {
+      "id": "EH8wQaRI6YE",
+      "title": "L-1.7: Question#1 on Comparison of Various Time Complexities | GATE Questions",
+      "duration": 394
+    },
+    {
+      "id": "tVJdWy5NKW0",
+      "title": "L-1.8: Question#2 on Comparison of Various Time Complexities |  GATE Questions",
+      "duration": 326
+    },
+    {
+      "id": "NW-naslChdo",
+      "title": "L-2.1: What is Recurrence Relation| How to Write Binary Search Recurrence Relation|How we Solve them",
+      "duration": 435
+    },
+    {
+      "id": "x0n75VFd31U",
+      "title": "L-2.2: Recurrence Relation [ T(n)= T(n/2) + c]  | Substitution Method | Algorithm",
+      "duration": 338
+    },
+    {
+      "id": "icS-e8RaCyo",
+      "title": "L-2.3: Recurrence Relation [ T(n)= n*T(n-1) ] | Substitution Method | Algorithm",
+      "duration": 460
+    },
+    {
+      "id": "VHGisohk3Ck",
+      "title": "L-2.4: Recurrence Relation [ T(n)= 2T(n/2) +n] | Substitution Method | Algorithm",
+      "duration": 537
+    },
+    {
+      "id": "JCX8noGdY7k",
+      "title": "L-2.5: Recurrence Relation [ T(n)= T(n-1) +logn] | Substitution Method | Algorithm",
+      "duration": 623
+    },
+    {
+      "id": "FBKjvXGGCJM",
+      "title": "L-2.6: Recurrence Relation [ T(n)= 8T(n/2) + n^2 ] | Master Theorem | Example#1 | Algorithm",
+      "duration": 394
+    },
+    {
+      "id": "nNabmfua14c",
+      "title": "L-2.7: Recurrence Relation [ T(n)= T(n/2) +c] | Master Theorem | Example-2 | Algorithm",
+      "duration": 238
+    },
+    {
+      "id": "gazsHlpcfCE",
+      "title": "L-2.8: Recurrence Relation T(n)=T(√n)+logn | Master Theorem",
+      "duration": 386
+    },
+    {
+      "id": "bJg_sv7PV-g",
+      "title": "L-2.9: Recurrence Relation [T(n)= 2T(n/2) +cn] | Recursive Tree method | Algorithm",
+      "duration": 434
+    },
+    {
+      "id": "zeVYepdQ9lY",
+      "title": "L-2.10: Recurrence Relation [T(n)= 3T(n/4) +cn^2] | Recursive Tree method | Algorithm",
+      "duration": 571
+    },
+    {
+      "id": "I8w2XN0w-fQ",
+      "title": "L-3.0: Divide and Conquer | Algorithm",
+      "duration": 243
+    },
+    {
+      "id": "tWCaFVJMUi8",
+      "title": "L-3.1: How Quick Sort Works | Performance of Quick Sort with Example | Divide and Conquer",
+      "duration": 807
+    },
+    {
+      "id": "eN4RBi4pMvI",
+      "title": "L-3.2: Performance of Quick Sort | Worst Case Time Complexity with Example | Algorithm",
+      "duration": 496
+    },
+    {
+      "id": "tn9hxD8gx2M",
+      "title": "L-3.3: How Merge Sort Works?? Full explanation with example",
+      "duration": 592
+    },
+    {
+      "id": "aeI8GGtiLGg",
+      "title": "L -3.4: Merge Sort Pseudocode | Merge Sort with example",
+      "duration": 489
+    },
+    {
+      "id": "Ms8g8w-6r2Q",
+      "title": "L-3.5: Imp. Question on Merge Sort | Divide and Conquer | Algorithm",
+      "duration": 360
+    },
+    {
+      "id": "re9ytVtt5zg",
+      "title": "L-3.6: How Bubble Sort Works | Performance of Bubble Sort | All Imp Points with Example | Algorithm",
+      "duration": 514
+    },
+    {
+      "id": "s9fmGjFY1v0",
+      "title": "L-3.7: Insertion Sort | Time Complexity Analysis | Stable Sort | Inplace Sorting",
+      "duration": 932
+    },
+    {
+      "id": "Lrd1QaKyok4",
+      "title": "L-3.8: Selection Sort | Time Complexity(Best, Avg & Worst) Analysis | Stable or Not | Inplace or Not",
+      "duration": 697
+    },
+    {
+      "id": "9QSgBO9yjKU",
+      "title": "L-3.9: Radix Sort | Easiest explanation with example",
+      "duration": 365
+    },
+    {
+      "id": "mowMVn9wTnE",
+      "title": "L-3.10: Counting Sort | Easiest explanation with example",
+      "duration": 457
+    },
+    {
+      "id": "E9OccfF9mpI",
+      "title": "L-3.11: Bucket Sort | Easiest explanation with examples | Time Complexity analysis with Pseudocode",
+      "duration": 621
+    },
+    {
+      "id": "I_JuQ5ayPmc",
+      "title": "L-3.12: Introduction to Trees (Binary Tree, Almost Complete Binary Tree, Full BT, Complete BT, BST)",
+      "duration": 645
+    },
+    {
+      "id": "uuot9ItgTEI",
+      "title": "L-3.13: Introduction to Heap Tree with examples | Max Min Heap",
+      "duration": 465
+    },
+    {
+      "id": "KzXpfxRzVQM",
+      "title": "L-3.14: Insertion in Heap Tree | Max-Heap & Min-Heap Creation | Time Complexities",
+      "duration": 693
+    },
+    {
+      "id": "7gWrUhQxFIU",
+      "title": "L-3.15: Imp Question on Max Heap | GATE Question on Max/Min Heap | Algorithm",
+      "duration": 619
+    },
+    {
+      "id": "8noP3YjjJCM",
+      "title": "L-3.16: Build Heap in O(n) time complexity | Heapify Method | Full Derivation with example",
+      "duration": 1265
+    },
+    {
+      "id": "4GsxDWMI7tQ",
+      "title": "L-3.17: Deletion in Heap tree | Time complexity",
+      "duration": 375
+    },
+    {
+      "id": "nJ6FdAIr_6g",
+      "title": "L-3.18: Heap sort with Example | Heapify Method",
+      "duration": 818
+    },
+    {
+      "id": "v0eQ4nXJjsk",
+      "title": "L-4.1: Introduction to Greedy Techniques With Example | What is Greedy Techniques",
+      "duration": 452
+    },
+    {
+      "id": "M79iHjAG1tg",
+      "title": "L-4.2: Knapsack Problem With Example| Greedy Techniques| Algorithm",
+      "duration": 701
+    },
+    {
+      "id": "uDS8AkTAcIU",
+      "title": "L-4.3: Huffman Coding Algorithm in Hindi with Example | Greedy Techniques(Algorithm)",
+      "duration": 750
+    },
+    {
+      "id": "ocFO1rmh4Zc",
+      "title": "L-4.4: Huffman Coding Question in Greedy Technique | Imp Question for all competitive exams",
+      "duration": 470
+    },
+    {
+      "id": "Tpp7o0jQ-8w",
+      "title": "L-4.5: Job Sequencing Algorithm with Example | Greedy Techniques",
+      "duration": 639
+    },
+    {
+      "id": "C7me2iKbty4",
+      "title": "L-4.6: Optimal Merge Pattern using Greedy Method in Hindi | Algorithm",
+      "duration": 651
+    },
+    {
+      "id": "h6cUkkaKNHw",
+      "title": "L-4.7: What is Spanning Tree with Examples in Hindi | Algorithm",
+      "duration": 432
+    },
+    {
+      "id": "huQojf2tevI",
+      "title": "L-4.8: Kruskal Algorithm for Minimum Spanning Tree in Hindi | Algorithm",
+      "duration": 677
+    },
+    {
+      "id": "_KX8GDvRzBc",
+      "title": "L-4.9: Prim's Algorithm for Minimum Cost Spanning Tree | Prims vs Kruskal",
+      "duration": 595
+    },
+    {
+      "id": "Gd92jSu_cZk",
+      "title": "L-4.10: Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method",
+      "duration": 949
+    },
+    {
+      "id": "_0s2e5SqhSk",
+      "title": "L-4.11: Dijkstra's Algorithm Analysis | Time Complexity | Pseudocode Explanation",
+      "duration": 683
+    },
+    {
+      "id": "R3g2SSlyY_0",
+      "title": "L-4.12: Why does Dijkstra fail on Negative Weights?? Full Explanation with examples",
+      "duration": 474
+    },
+    {
+      "id": "SiI03wnREt4",
+      "title": "L-4.13: Bellman Ford Algorithm | Dijkstra's Vs Bellman Ford | Single Source Shortest Path",
+      "duration": 992
+    },
+    {
+      "id": "0hXj05XXT7M",
+      "title": "L-4.14: Bellman Ford pseudo code and Time complexity | Single Source Shortest Path",
+      "duration": 470
+    },
+    {
+      "id": "N2P7w22tN9c",
+      "title": "L-4.15: BFS & DFS | Breadth First Search | Depth First Search | Graph Traversing | DAA",
+      "duration": 676
+    },
+    {
+      "id": "0BhhiQGDbEA",
+      "title": "L-5.1: Introduction to Dynamic Programming | Greedy Vs Dynamic Programming | Algorithm(DAA)",
+      "duration": 548
+    },
+    {
+      "id": "LveF2qwHrqU",
+      "title": "L-5.2: 0/1 Knapsack failed using Greedy approach",
+      "duration": 594
+    },
+    {
+      "id": "i8NqAEsZn54",
+      "title": "L-5.3: 0/1 Knapsack Problem |Dynamic Programming |Recursive Equation |Recursion Tree Time Complexity",
+      "duration": 1024
+    },
+    {
+      "id": "3QiSyc7KyC4",
+      "title": "L-5.4: Traveling Salesman Problem | Dynamic Programming",
+      "duration": 852
+    },
+    {
+      "id": "MLSy2_iQdmY",
+      "title": "L-5.5: Sum of Subsets Problem | Dynamic Programming",
+      "duration": 906
+    },
+    {
+      "id": "PE1wsnvbquA",
+      "title": "L-5.6: Multistage Graph | Dynamic Programming",
+      "duration": 1052
+    },
+    {
+      "id": "c5vQS40VBcU",
+      "title": "L-5.7: Introduction to All Pair Shortest Path (Floyd Warshall Algorithm)",
+      "duration": 384
+    },
+    {
+      "id": "pgNE06YbDZ8",
+      "title": "L-5.8: Floyd Warshall Working with example | All Pair Shortest Path Algorithm",
+      "duration": 1531
+    },
+    {
+      "id": "HAFAD8XbXps",
+      "title": "L-5.9: Floyd Warshall Time & Space complexity | All Pair Shortest Path",
+      "duration": 554
+    },
+    {
+      "id": "W5q0xgxmRd8",
+      "title": "L-6.1: What is hashing with example | Hashing in data structure",
+      "duration": 353
+    },
+    {
+      "id": "j612Fj-mgCY",
+      "title": "L-6.2: Collision Resolution Techniques in Hashing | What are the collision resolution techniques?",
+      "duration": 333
+    },
+    {
+      "id": "hmMYPZ5wLX0",
+      "title": "L-6.3: Chaining in Hashing | What is chaining in hashing with examples",
+      "duration": 402
+    },
+    {
+      "id": "ZEyPqqRTO00",
+      "title": "L-6.4: Linear Probing in Hashing with example",
+      "duration": 760
+    },
+    {
+      "id": "go45eeMrwA4",
+      "title": "L-6.5: Imp Question on Hashing | Linear Probing for Collision in Hash Table | GATE Questions",
+      "duration": 569
+    },
+    {
+      "id": "-yQ2Kj-Jn0A",
+      "title": "L-6.6: Quadratic Probing in Hashing with example",
+      "duration": 461
+    },
+    {
+      "id": "1P7ygNSe9lY",
+      "title": "L-6.7: Double Hashing | Collision Resolution Technique",
+      "duration": 628
+    },
+    {
+      "id": "3tkcfvCNtM8",
+      "title": "L- 6.8:Topological Sorting with examples | Topological Sorting using DFS",
+      "duration": 693
+    },
+    {
+      "id": "96owfLr89Lk",
+      "title": "L-6.9:Kahn's Algorithm | Topological Sorting | DAA | Imp for Placements",
+      "duration": 451
+    },
+    {
+      "id": "XZbrmetb9VE",
+      "title": "Lec-41: Branch & Bound Algorithm with Example | Easiest Explanation of B&B with example",
+      "duration": 793
+    },
+    {
+      "id": "CwM-Mv0Bm4Y",
+      "title": "Lec-42 : 0/1 Knapsack using Branch and Bound with example",
+      "duration": 680
+    },
+    {
+      "id": "2jhN6aazfSQ",
+      "title": "Shortcut for Swaps🔁 in Bubble🫧 Sorting📶| Best Case | Worst Case",
+      "duration": 186
+    },
+    {
+      "id": "g6hr8B3OWio",
+      "title": "Optimized Bubble Sort | Best Case | O(n) Time Complexity | Sorting Algorithms |DAA",
+      "duration": 512
+    },
+    {
+      "id": "EnIuY1GpG3g",
+      "title": "Recurrence Relation [T(n) = 2T(n/2) + 2] | Min-Max Algorithm",
+      "duration": 605
+    },
+    {
+      "id": "rJAsiBW0oZ0",
+      "title": "Min-Max Algorithm without Divide & Conquer🏆 | Linear Approach | Find Max & Min",
+      "duration": 406
+    },
+    {
+      "id": "g8DJiGWoQmk",
+      "title": "Min Max Algorithm with Divide & Conquer🏆",
+      "duration": 517
+    },
+    {
+      "id": "1lqoJ-NSmDE",
+      "title": "Time complexity and Comparison of All Data Structures",
+      "duration": 493
+    },
+    {
+      "id": "lV0Ls4NGYWY",
+      "title": "Bubble Sort Pseudocode | Performance & Time Complexity",
+      "duration": 454
+    }
+  ]
+}
