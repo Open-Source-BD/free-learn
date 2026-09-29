@@ -1,0 +1,25 @@
+---
+import CourseCard from '@/components/browse/CourseCard';
+import type { CourseCardData } from '@/lib/types';
+
+interface Props {
+  courses: CourseCardData[];
+  name: string;
+  slug: string;
+}
+const { courses, name, slug } = Astro.props;
+---
+
+{
+  courses.length > 0 && (
+    <section class="space-y-3" aria-labelledby="more-h">
+      <div class="flex items-baseline justify-between px-1">
+        <h2 id="more-h" class="text-base font-semibold">More in {name}</h2>
+        <a href={`/c/${slug}`} class="text-sm text-white/60 hover:text-white">View all →</a>
+      </div>
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
+        {courses.map((c) => <CourseCard course={c} />)}
+      </div>
+    </section>
+  )
+}

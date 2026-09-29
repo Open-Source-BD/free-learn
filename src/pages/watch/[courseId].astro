@@ -1,0 +1,28 @@
+---
+import MoreInCategory from '@/components/watch/MoreInCategory.astro';
+import WatchApp from '@/components/watch/WatchApp';
+import AppShell from '@/layouts/AppShell.astro';
+import { toCardData, toWatchCourse } from '@/lib/catalog';
+import { loadCatalog } from '@/lib/load-catalog';
+import type { Course } from '@/lib/types';
+
+export function getStaticPaths() {
+  return loadCatalog()
+    .courses.filter((c) => c.kind !== 'unknown')
+    .map((c) => ({ params: { courseId: c.id }, props: { course: c } }));
+}
+
+const { course } = Astro.props as { course: Course };
+const catalog = loadCatalog();
+const videos = catalog.videosFor(course.id);
+const more = catalog.courses
+  .filter((c) => c.categorySlug === course.categorySlug && c.id !== course.id)
+  .slice(0, 9)
+  .map(toCardData);
+---
+
+<AppShell title={course.title} description={`Watch ${course.title} for free.`} docked={false}>
+  <WatchApp client:load course={toWatchCourse(course)} videos={videos}>
+    <MoreInCategory courses={more} name={course.categoryName} slug={course.categorySlug} />
+  </WatchApp>
+</AppShell>
