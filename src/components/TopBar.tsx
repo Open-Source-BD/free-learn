@@ -1,7 +1,6 @@
 import { Menu, Search } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import LiquidGlass from '@/components/glass/LiquidGlass';
-import { CHROME_GLASS } from '@/lib/liquid-glass/params';
 import SearchDialog from '@/components/SearchDialog';
 
 export default function TopBar() {
@@ -20,7 +19,7 @@ export default function TopBar() {
 
   return (
     <header className="fixed inset-x-3 top-3 z-40">
-      <LiquidGlass borderRadius={28} height="56px" params={CHROME_GLASS}>
+      <LiquidGlass borderRadius={28} height="56px">
         <div className="flex h-full w-full items-center gap-3 px-2">
           <button
             type="button"

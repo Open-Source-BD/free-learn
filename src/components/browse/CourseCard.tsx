@@ -13,17 +13,17 @@ export default function CourseCard({ course, watchedCount = 0 }: { course: Cours
     <a
       href={courseHref(course)}
       {...(external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
-      className="glass lift block p-2"
+      className="group block"
       data-testid="course-card"
     >
-      <div className="relative aspect-video overflow-hidden rounded-[10px] bg-white/5">
+      <div className="relative aspect-video overflow-hidden rounded-md bg-white/5">
         {course.thumbVideoId && (
           <img
             src={thumbUrl(course.thumbVideoId)}
             alt=""
             loading="lazy"
             decoding="async"
-            className="size-full object-cover"
+            className="size-full object-cover transition-transform duration-300 group-hover:scale-[1.04] motion-reduce:transition-none motion-reduce:group-hover:scale-100"
             onError={(e) => (e.currentTarget.style.display = 'none')}
           />
         )}
@@ -36,8 +36,8 @@ export default function CourseCard({ course, watchedCount = 0 }: { course: Cours
           </span>
         )}
       </div>
-      <h3 className="mt-2 line-clamp-2 text-sm leading-snug font-semibold">{course.title}</h3>
-      <p className="mt-0.5 line-clamp-1 text-xs text-white/60" data-testid="course-meta">
+      <h3 className="mt-3 line-clamp-2 text-[15px] leading-snug tracking-[0.08em] uppercase">{course.title}</h3>
+      <p className="mt-1 line-clamp-1 text-xs text-white/55" data-testid="course-meta">
         {meta}
       </p>
     </a>

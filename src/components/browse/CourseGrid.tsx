@@ -27,7 +27,7 @@ export default function CourseGrid({ courses }: { courses: CourseCardData[] }) {
   }
   return (
     <>
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
+      <div className="grid grid-cols-1 gap-x-7 gap-y-8 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
         {courses.slice(0, limit).map((c) => (
           <CourseCard key={c.id} course={c} watchedCount={progress[c.id]?.watched.length ?? 0} />
         ))}

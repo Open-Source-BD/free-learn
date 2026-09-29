@@ -26,7 +26,9 @@ const {
 } = Astro.props;
 const { categories } = loadCatalog();
 const mainClass = [
-  'min-w-0 px-4 md:pr-6 md:pl-[84px]',
+  // browse pages run under the glass rail (demo look); pages with a player keep clear of it
+  'min-w-0 px-4 md:pr-6',
+  hasChips ? '' : 'md:pl-[84px]',
   hasChips ? 'pt-[136px]' : 'pt-[84px]',
   bottomBar ? 'pb-[120px]' : 'pb-10',
 ].join(' ');
@@ -41,7 +43,6 @@ const mainClass = [
     <title>{title} · FreeLearn</title>
   </head>
   <body class="min-h-dvh antialiased">
-    <div class="bg-glows" aria-hidden="true"></div>
     <main class={mainClass}>
       <slot />
     </main>

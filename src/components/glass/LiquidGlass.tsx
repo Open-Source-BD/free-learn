@@ -75,7 +75,7 @@ export default function LiquidGlass({ children, className = '', borderRadius = 1
         backdropFilter: `url(#${filterId})`,
         WebkitBackdropFilter: `url(#${filterId})`,
         background: tint ?? `rgba(255,255,255,${p.glassBgOpacity})`,
-        boxShadow: 'inset 0 1px 0 rgba(255,255,255,.18), 0 4px 19px rgba(0,0,0,.35)',
+        boxShadow: '0 4px 19px rgba(0,0,0,.35)',
       }
     : { borderRadius, ...(tint ? { background: tint } : {}) };
 

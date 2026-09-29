@@ -26,14 +26,19 @@ export default function BrowseView({ courses, heading, showContinue = false }: P
   return (
     <>
       <ChipBar value={filter} onChange={update} />
-      <div className="space-y-5">
-      {heading && (
-        <h1 className="px-1 text-2xl font-semibold">
-          {heading} <span className="text-base font-normal text-white/50">· {visible.length} courses</span>
-        </h1>
-      )}
-      {showContinue && <ContinueWatching />}
-      <CourseGrid courses={visible} />
+      <div className="space-y-6">
+        {/* text rows stay clear of the floating rail; the thumbnail grid runs under it */}
+        {heading && (
+          <h1 className="px-1 text-2xl font-semibold md:pl-[68px]">
+            {heading} <span className="text-base font-normal text-white/50">· {visible.length} courses</span>
+          </h1>
+        )}
+        {showContinue && (
+          <div className="md:pl-[68px]">
+            <ContinueWatching />
+          </div>
+        )}
+        <CourseGrid courses={visible} />
       </div>
     </>
   );

@@ -16,9 +16,6 @@ export const GLASS_DEFAULTS: GlassParams = {
   glassBgOpacity: 0,
 };
 
-/** Shell pills (top bar, chips, rail, control bar): faint white edge so they read as glass over dark areas. */
-export const CHROME_GLASS: Partial<GlassParams> = { specularOpacity: 0.3, glassBgOpacity: 0.04 };
-
 /** Large text panels (rail popover): gentler bend and more blur so text stays readable. */
 export const PANEL_GLASS: Partial<GlassParams> = { specularOpacity: 0.3, refraction: 0.45, blur: 4 };
 

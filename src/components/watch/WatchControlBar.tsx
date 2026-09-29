@@ -1,7 +1,6 @@
 import { Check, ExternalLink, ListVideo, Pause, Play, Share2, SkipBack, SkipForward } from 'lucide-react';
 import { useState } from 'react';
 import LiquidGlass from '@/components/glass/LiquidGlass';
-import { CHROME_GLASS } from '@/lib/liquid-glass/params';
 import { Switch } from '@/components/ui/switch';
 
 interface Props {
@@ -34,7 +33,7 @@ export default function WatchControlBar(p: Props) {
 
   return (
     <div className="fixed bottom-5 left-1/2 z-40 w-[min(720px,92vw)] -translate-x-1/2" data-testid="control-bar">
-      <LiquidGlass borderRadius={32} height="64px" params={CHROME_GLASS}>
+      <LiquidGlass borderRadius={32} height="64px">
         <div className="flex h-full w-full items-center gap-1 px-2 sm:gap-2">
           {p.isList && (
             <button type="button" aria-label="Previous" disabled={!p.hasPrev} onClick={p.onPrev} className="glass-btn glass-icon size-10 shrink-0">

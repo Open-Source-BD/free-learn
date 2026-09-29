@@ -22,10 +22,10 @@ export default function ContinueWatching() {
       <h2 id="continue-h" className="px-1 text-base font-semibold">
         Continue watching
       </h2>
-      <div className="grid auto-cols-[minmax(220px,1fr)] grid-flow-col gap-3 overflow-x-auto pb-2">
+      <div className="grid auto-cols-[minmax(220px,300px)] grid-flow-col justify-start gap-3 overflow-x-auto pb-2">
         {items.map((i) => (
-          <a key={i.id} href={i.href} className="glass lift block p-2" data-testid="continue-card">
-            <div className="relative aspect-video overflow-hidden rounded-[10px] bg-white/5">
+          <a key={i.id} href={i.href} className="group block" data-testid="continue-card">
+            <div className="relative aspect-video overflow-hidden rounded-md bg-white/5">
               <img src={thumbUrl(i.videoId)} alt="" loading="lazy" className="size-full object-cover" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <span className="absolute inset-x-0 bottom-0 h-1 bg-white/20">
                 <span className="block h-full bg-red-500" style={{ width: `${i.total ? (i.watchedCount / i.total) * 100 : 0}%` }} />

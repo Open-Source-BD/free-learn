@@ -4,7 +4,7 @@ interface Props {
   topStrength?: number;
   bottomStrength?: number;
 }
-const { topStrength = 3, bottomStrength = 5 } = Astro.props;
+const { topStrength = 0, bottomStrength = 10 } = Astro.props;
 type Layer = { blur: number; from: number; to: number };
 const layersFor = (strength: number): Layer[] =>
   Array.from({ length: 6 }, (_, i) => ({
@@ -18,9 +18,13 @@ const style = (dir: 'top' | 'bottom', l: Layer) => {
 };
 ---
 
-<div class="progressive-blur top" aria-hidden="true">
-  {layersFor(topStrength).map((l) => <div style={style('top', l)} />)}
-</div>
+{
+  topStrength > 0 && (
+    <div class="progressive-blur top" aria-hidden="true">
+      {layersFor(topStrength).map((l) => <div style={style('top', l)} />)}
+    </div>
+  )
+}
 <div class="progressive-blur bottom" aria-hidden="true">
   {layersFor(bottomStrength).map((l) => <div style={style('bottom', l)} />)}
 </div>

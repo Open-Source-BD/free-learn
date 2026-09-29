@@ -1,8 +1,6 @@
 :root {
-  --bg: #0a0a0c;
+  --bg: #000;
   --fg: #e5e7eb;
-  --glow-1: #1e293b;
-  --glow-2: #312e81;
   --glass-bg: rgba(255, 255, 255, 0.05);
   --glass-border: rgba(255, 255, 255, 0.1);
   --glass-hi: rgba(255, 255, 255, 0.12);
@@ -18,16 +16,6 @@ body {
 }
 
 @layer components {
-  .bg-glows {
-    position: fixed;
-    inset: -20%;
-    z-index: -1;
-    pointer-events: none;
-    filter: blur(80px);
-    background:
-      radial-gradient(35% 40% at 25% 30%, var(--glow-1), transparent 70%),
-      radial-gradient(30% 35% at 80% 70%, var(--glow-2), transparent 70%);
-  }
 
   .glass {
     background: var(--glass-bg);

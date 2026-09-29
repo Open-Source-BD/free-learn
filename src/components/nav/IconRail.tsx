@@ -1,7 +1,6 @@
 import { House } from 'lucide-react';
 import { useEffect, useRef, useState } from 'react';
 import LiquidGlass from '@/components/glass/LiquidGlass';
-import { CHROME_GLASS } from '@/lib/liquid-glass/params';
 import type { CategoryGroup, CategoryNode } from '@/lib/types';
 import { GROUP_ICONS, GROUP_TINTS } from './group-style';
 import RailPopover from './RailPopover';
@@ -77,7 +76,7 @@ export default function IconRail({ categories, activeSlug }: Props) {
       }}
     >
       <nav aria-label="Categories">
-        <LiquidGlass borderRadius={28} params={CHROME_GLASS}>
+        <LiquidGlass borderRadius={28}>
           <ul className="max-h-[calc(100dvh-92px)] overflow-y-auto flex w-10 flex-col items-center gap-2 py-1">
             <li>
               <a
