@@ -42,16 +42,17 @@ export default function WatchApp({ course, videos, children }: Props) {
     return () => window.removeEventListener('popstate', onPop);
   }, []);
 
-  const select = (id: string) => {
+  const select = (id: string, replace = false) => {
     setError(null);
     setCurrent(id);
     setStartAt(0);
-    history.pushState(null, '', `?v=${id}`);
+    if (replace) history.replaceState(null, '', `?v=${id}`);
+    else history.pushState(null, '', `?v=${id}`);
   };
 
-  const goNext = (skip: Set<string> = unavailable) => {
+  const goNext = (skip: Set<string> = unavailable, replace = false) => {
     const next = nextVideoId(videos, current, skip);
-    if (next) select(next);
+    if (next) select(next, replace);
   };
 
   const markWatched = () => {
@@ -76,7 +77,7 @@ export default function WatchApp({ course, videos, children }: Props) {
       const skip = new Set(unavailable).add(current);
       setUnavailable(skip);
       if (nextVideoId(videos, current, skip)) {
-        goNext(skip);
+        goNext(skip, true);
         return;
       }
     }
