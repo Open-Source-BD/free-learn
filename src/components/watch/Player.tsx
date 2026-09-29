@@ -1,5 +1,11 @@
-import { useEffect, useRef, useState } from 'react';
+import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from 'react';
 import { loadYouTubeApi } from '@/lib/yt-api';
+
+export interface PlayerHandle {
+  play(): void;
+  pause(): void;
+  isPlaying(): boolean;
+}
 
 interface Props {
   videoId: string;
@@ -7,20 +13,35 @@ interface Props {
   onProgress(t: number, duration: number): void;
   onEnded(): void;
   onError(code: number): void;
+  onPlayingChange?(playing: boolean): void;
 }
 
 const POLL_MS = 5000;
 
-export default function Player({ videoId, startSeconds, onProgress, onEnded, onError }: Props) {
+const Player = forwardRef<PlayerHandle, Props>(function Player(
+  { videoId, startSeconds, onProgress, onEnded, onError, onPlayingChange },
+  ref,
+) {
   const host = useRef<HTMLDivElement>(null);
   const player = useRef<YT.Player | null>(null);
   const ready = useRef(false);
   const want = useRef({ videoId, startSeconds });
   const loaded = useRef(videoId);
-  const cb = useRef({ onProgress, onEnded, onError });
-  cb.current = { onProgress, onEnded, onError };
+  const cb = useRef({ onProgress, onEnded, onError, onPlayingChange });
+  cb.current = { onProgress, onEnded, onError, onPlayingChange };
   want.current = { videoId, startSeconds };
   const [apiFailed, setApiFailed] = useState(false);
+
+  useImperativeHandle(
+    ref,
+    () => ({
+      // YT.Player methods only exist after onReady; optional-call so an early click is a no-op
+      play: () => player.current?.playVideo?.(),
+      pause: () => player.current?.pauseVideo?.(),
+      isPlaying: () => player.current?.getPlayerState?.() === 1,
+    }),
+    [],
+  );
 
   useEffect(() => {
     let cancelled = false;
@@ -45,6 +66,8 @@ export default function Player({ videoId, startSeconds, onProgress, onEnded, onE
             },
             onStateChange: (e) => {
               if (e.data === api.PlayerState.ENDED) cb.current.onEnded();
+              if (e.data === api.PlayerState.PLAYING) cb.current.onPlayingChange?.(true);
+              else if (e.data === api.PlayerState.PAUSED || e.data === api.PlayerState.ENDED) cb.current.onPlayingChange?.(false);
             },
             onError: (e) => cb.current.onError(e.data),
           },
@@ -96,4 +119,6 @@ export default function Player({ videoId, startSeconds, onProgress, onEnded, onE
     );
   }
   return <div ref={host} className="size-full [&>iframe]:size-full" />;
-}
+});
+
+export default Player;
