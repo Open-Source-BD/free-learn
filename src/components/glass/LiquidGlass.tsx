@@ -10,11 +10,13 @@ interface Props {
   borderRadius?: number;
   height?: string;
   params?: Partial<GlassParams>;
+  /** CSS colour for the lens background (overrides glassBgOpacity), e.g. a dark wash behind text. */
+  tint?: string;
 }
 
 let warned = false;
 
-export default function LiquidGlass({ children, className = '', borderRadius = 16, height = 'auto', params }: Props) {
+export default function LiquidGlass({ children, className = '', borderRadius = 16, height = 'auto', params, tint }: Props) {
   const box = useRef<HTMLDivElement>(null);
   const filterId = `lg-${useId().replace(/[^a-zA-Z0-9_-]/g, '')}`;
   const [enabled, setEnabled] = useState(false);
@@ -72,10 +74,10 @@ export default function LiquidGlass({ children, className = '', borderRadius = 1
         borderRadius,
         backdropFilter: `url(#${filterId})`,
         WebkitBackdropFilter: `url(#${filterId})`,
-        background: `rgba(255,255,255,${p.glassBgOpacity})`,
-        boxShadow: '0 4px 19px rgba(0,0,0,.35)',
+        background: tint ?? `rgba(255,255,255,${p.glassBgOpacity})`,
+        boxShadow: 'inset 0 1px 0 rgba(255,255,255,.18), 0 4px 19px rgba(0,0,0,.35)',
       }
-    : { borderRadius };
+    : { borderRadius, ...(tint ? { background: tint } : {}) };
 
   return (
     <div ref={box} className={`relative ${className}`} style={{ borderRadius, height }} data-liquid-glass={markup ? 'svg' : 'css'}>

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { filterMarkup } from '@/lib/liquid-glass/filter';
 import { computeMaps } from '@/lib/liquid-glass/maps';
-import { GLASS_DEFAULTS } from '@/lib/liquid-glass/params';
+import { CHROME_GLASS, GLASS_DEFAULTS, PANEL_GLASS, PANEL_TINT } from '@/lib/liquid-glass/params';
 import { bezelProfile, SAMPLES } from '@/lib/liquid-glass/physics';
 import { supportsSvgBackdrop } from '@/lib/liquid-glass/support';
 
@@ -10,6 +10,16 @@ describe('params', () => {
     expect(GLASS_DEFAULTS).toEqual({
       specularOpacity: 0, specularSaturation: 50, refraction: 1, blur: 1.8, progressiveBlur: 10, glassBgOpacity: 0,
     });
+  });
+});
+
+describe('glass presets', () => {
+  it('gives shell pills a faint white edge and a light tint', () => {
+    expect(CHROME_GLASS).toEqual({ specularOpacity: 0.3, glassBgOpacity: 0.04 });
+  });
+  it('makes large panels readable: gentler bend, more blur, dark tint', () => {
+    expect(PANEL_GLASS).toEqual({ specularOpacity: 0.3, refraction: 0.45, blur: 4 });
+    expect(PANEL_TINT).toBe('rgba(10, 10, 12, 0.55)');
   });
 });
 

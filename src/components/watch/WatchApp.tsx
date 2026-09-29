@@ -111,7 +111,10 @@ export default function WatchApp({ course, videos, children }: Props) {
     <>
       <div className={`grid gap-4 ${showList ? 'lg:grid-cols-[minmax(0,1fr)_380px]' : ''}`}>
         <div className="min-w-0 space-y-4 lg:col-start-1">
-          <div className="relative aspect-video overflow-hidden rounded-2xl border border-white/10 bg-black">
+          <div
+            className="relative mx-auto aspect-video w-full max-w-[calc((100dvh-220px)*16/9)] overflow-hidden rounded-2xl border border-white/10 bg-black"
+            data-testid="player-frame"
+          >
             {current && (
               <Player
                 key={reloadKey}

@@ -1,4 +1,5 @@
 import LiquidGlass from '@/components/glass/LiquidGlass';
+import { PANEL_GLASS, PANEL_TINT } from '@/lib/liquid-glass/params';
 import type { CategoryNode } from '@/lib/types';
 
 interface Props {
@@ -10,7 +11,7 @@ interface Props {
 export default function RailPopover({ id, node, activeSlug }: Props) {
   return (
     <div id={id} role="group" aria-label={node.group} className="absolute top-0 left-[64px] w-64">
-      <LiquidGlass borderRadius={20}>
+      <LiquidGlass borderRadius={20} params={PANEL_GLASS} tint={PANEL_TINT}>
         <div className="max-h-[calc(100dvh-120px)] w-full overflow-y-auto">
           <p className="glass-icon px-2 pb-1 text-[11px] font-semibold tracking-wider text-white/75 uppercase">{node.group}</p>
           <ul>

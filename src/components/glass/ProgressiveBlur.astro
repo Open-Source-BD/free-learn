@@ -1,24 +1,26 @@
 ---
-import { GLASS_DEFAULTS } from '@/lib/liquid-glass/params';
-
 interface Props {
-  strength?: number;
+  /** Top band is light so the top-bar glass refracts real content, not pre-blurred pixels. */
+  topStrength?: number;
+  bottomStrength?: number;
 }
-const { strength = GLASS_DEFAULTS.progressiveBlur } = Astro.props;
-const layers = Array.from({ length: 6 }, (_, i) => ({
-  blur: (strength / 10) * 2 ** i * 0.25,
-  from: (i / 6) * 100,
-  to: ((i + 1) / 6) * 100,
-}));
-const style = (dir: 'top' | 'bottom', l: (typeof layers)[number]) => {
+const { topStrength = 3, bottomStrength = 5 } = Astro.props;
+type Layer = { blur: number; from: number; to: number };
+const layersFor = (strength: number): Layer[] =>
+  Array.from({ length: 6 }, (_, i) => ({
+    blur: (strength / 10) * 2 ** i * 0.25,
+    from: (i / 6) * 100,
+    to: ((i + 1) / 6) * 100,
+  }));
+const style = (dir: 'top' | 'bottom', l: Layer) => {
   const mask = `linear-gradient(to ${dir}, transparent ${l.from}%, #000 ${l.to}%)`;
   return `backdrop-filter:blur(${l.blur}px);-webkit-backdrop-filter:blur(${l.blur}px);mask-image:${mask};-webkit-mask-image:${mask}`;
 };
 ---
 
 <div class="progressive-blur top" aria-hidden="true">
-  {layers.map((l) => <div style={style('top', l)} />)}
+  {layersFor(topStrength).map((l) => <div style={style('top', l)} />)}
 </div>
 <div class="progressive-blur bottom" aria-hidden="true">
-  {layers.map((l) => <div style={style('bottom', l)} />)}
+  {layersFor(bottomStrength).map((l) => <div style={style('bottom', l)} />)}
 </div>

@@ -122,3 +122,12 @@ test('control bar fits at phone width', async ({ page }) => {
   const b = await bar.boundingBox();
   expect(b!.x + b!.width).toBeLessThanOrEqual(390);
 });
+
+test('on a short screen the whole video stays above the control bar', async ({ page }) => {
+  await page.setViewportSize({ width: 1414, height: 662 });
+  await openFirstPlaylist(page);
+  const video = await page.getByTestId('player-frame').boundingBox();
+  const bar = await page.getByTestId('control-bar').boundingBox();
+  expect(video!.y + video!.height).toBeLessThanOrEqual(bar!.y);
+  expect(Math.abs(video!.width / video!.height - 16 / 9)).toBeLessThan(0.02);
+});
