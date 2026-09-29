@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { filterMarkup } from '@/lib/liquid-glass/filter';
 import { computeMaps } from '@/lib/liquid-glass/maps';
-import { GLASS_DEFAULTS, PANEL_GLASS, PANEL_TINT } from '@/lib/liquid-glass/params';
+import { FROSTED_GLASS, GLASS_DEFAULTS, PANEL_GLASS, PANEL_TINT } from '@/lib/liquid-glass/params';
 import { bezelProfile, SAMPLES } from '@/lib/liquid-glass/physics';
 import { supportsSvgBackdrop } from '@/lib/liquid-glass/support';
 
@@ -14,6 +14,9 @@ describe('params', () => {
 });
 
 describe('glass presets', () => {
+  it('frosts the header: heavy blur, light white tint, faint rim', () => {
+    expect(FROSTED_GLASS).toEqual({ blur: 12, glassBgOpacity: 0.08, specularOpacity: 0.2 });
+  });
   it('makes large panels readable: gentler bend, more blur, dark tint', () => {
     expect(PANEL_GLASS).toEqual({ specularOpacity: 0.3, refraction: 0.45, blur: 4 });
     expect(PANEL_TINT).toBe('rgba(10, 10, 12, 0.55)');

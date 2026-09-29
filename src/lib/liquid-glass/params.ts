@@ -21,3 +21,6 @@ export const PANEL_GLASS: Partial<GlassParams> = { specularOpacity: 0.3, refract
 
 /** Dark wash behind panel text. */
 export const PANEL_TINT = 'rgba(10, 10, 12, 0.55)';
+
+/** Header: frosted liquid glass — keeps the refracting rim, heavily frosts the middle. */
+export const FROSTED_GLASS: Partial<GlassParams> = { blur: 12, glassBgOpacity: 0.08, specularOpacity: 0.2 };
