@@ -56,10 +56,10 @@ describe('computeMaps', () => {
     expect(Math.abs(r - 128)).toBeLessThanOrEqual(1);
     expect(g).toBeGreaterThan(128);
   });
-  it('displaces the left edge horizontally only (inward = +x)', () => {
-    const [r, g] = at(m.disp, 22, 20);
+  it('displaces the left cap mostly horizontally (inward = +x)', () => {
+    const [r, g] = at(m.disp, 5, 20);
     expect(r).toBeGreaterThan(128);
-    expect(Math.abs(g - 128)).toBeLessThanOrEqual(1);
+    expect(Math.abs(g - 128)).toBeLessThan(Math.abs(r - 128) / 4);
   });
 });
 

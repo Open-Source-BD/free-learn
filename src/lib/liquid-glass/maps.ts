@@ -20,7 +20,7 @@ export function sdfRoundRect(px: number, py: number, hw: number, hh: number, r: 
   if (qx > 0 && qy > 0) {
     gx = ox / out;
     gy = oy / out;
-  } else if (Math.abs(px) > Math.abs(py)) {
+  } else if (qx > qy) {
     gx = 1;
     gy = 0;
   } else {
@@ -33,7 +33,7 @@ export function sdfRoundRect(px: number, py: number, hw: number, hh: number, r: 
 /** Pure RGBA buffers: displacement (R = x, G = y, 128 = none) and a white specular rim. */
 export function computeMaps(W: number, H: number, radius: number) {
   const r = Math.min(radius, W / 2, H / 2);
-  const bezel = r * 2;
+  const bezel = Math.min(W, H) / 2;
   const prof = bezelProfile(bezel);
   const disp = new Uint8ClampedArray(W * H * 4);
   const spec = new Uint8ClampedArray(W * H * 4);
