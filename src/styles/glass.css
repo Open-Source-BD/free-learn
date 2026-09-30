@@ -1,8 +1,6 @@
 :root {
-  --bg: #0a0a0c;
+  --bg: #000;
   --fg: #e5e7eb;
-  --glow-1: #1e293b;
-  --glow-2: #312e81;
   --glass-bg: rgba(255, 255, 255, 0.05);
   --glass-border: rgba(255, 255, 255, 0.1);
   --glass-hi: rgba(255, 255, 255, 0.12);
@@ -18,16 +16,6 @@ body {
 }
 
 @layer components {
-  .bg-glows {
-    position: fixed;
-    inset: -20%;
-    z-index: -1;
-    pointer-events: none;
-    filter: blur(80px);
-    background:
-      radial-gradient(35% 40% at 25% 30%, var(--glow-1), transparent 70%),
-      radial-gradient(30% 35% at 80% 70%, var(--glow-2), transparent 70%);
-  }
 
   .glass {
     background: var(--glass-bg);
@@ -76,4 +64,102 @@ body {
     transition: none;
     transform: none;
   }
+}
+
+@layer components {
+  /* keep icons/labels readable on liquid glass: tight dark edge + small drop + soft halo */
+  /* text follows the letters (never the chip/button box); icons get a tight glyph shadow */
+  .glass-icon {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7), 0 0 4px rgba(0, 0, 0, 0.45);
+  }
+  svg.glass-icon,
+  .glass-icon svg {
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 3px rgba(0, 0, 0, 0.3));
+  }
+  .chip.glass-icon[data-state='on'],
+  .chip.glass-icon[aria-pressed='true'] {
+    text-shadow: none;
+  }
+  .glass-btn {
+    display: inline-grid;
+    place-items: center;
+    border-radius: 999px;
+    color: #fff;
+    transition: transform 0.15s ease;
+  }
+  .glass-btn:hover:not(:disabled) {
+    transform: scale(1.12);
+  }
+  .glass-btn:active:not(:disabled) {
+    transform: scale(0.94);
+  }
+  .glass-btn:focus-visible {
+    outline: 2px solid #a9c4f5;
+    outline-offset: 3px;
+  }
+  .glass-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  .progressive-blur {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    pointer-events: none;
+  }
+  .progressive-blur.top {
+    top: 0;
+    height: 60px;
+  }
+  .progressive-blur.bottom {
+    bottom: 0;
+    height: 160px;
+  }
+  .progressive-blur > div {
+    position: absolute;
+    inset: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progressive-blur {
+    display: none;
+  }
+  .glass-btn:hover:not(:disabled),
+  .glass-btn:active:not(:disabled) {
+    transform: none;
+  }
+}
+
+/* thumbnails: soft shimmer until the image paints over it */
+.thumb-skeleton {
+  background: linear-gradient(100deg, rgba(255, 255, 255, 0.04) 30%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.04) 70%);
+  background-size: 300% 100%;
+  animation: thumb-shimmer 1.4s ease-in-out infinite;
+}
+@keyframes thumb-shimmer {
+  from { background-position: 100% 0; }
+  to { background-position: 0 0; }
+}
+
+/* browse grid runs under the glass rail: keep first-column text clear of it (rail right edge 68px, main gutter 16px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .course-grid > :nth-child(2n + 1) .tile-text { padding-left: 56px; }
+}
+@media (min-width: 1024px) and (max-width: 1535px) {
+  .course-grid > :nth-child(3n + 1) .tile-text { padding-left: 56px; }
+}
+@media (min-width: 1536px) {
+  .course-grid > :nth-child(4n + 1) .tile-text { padding-left: 56px; }
+}
+
+/* phones: a shorter bottom blur so it doesn't smear the card in view */
+@media (max-width: 767px) {
+  .progressive-blur.bottom { height: 72px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .thumb-skeleton { animation: none; }
 }

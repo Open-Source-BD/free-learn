@@ -29,3 +29,15 @@ export function classifyPlayerError(code: number): PlayerErrorAction {
   if (code === 100) return 'skip';
   return 'retry';
 }
+
+export function prevVideoId(
+  videos: { id: string }[],
+  current: string | null,
+  unavailable: Set<string> = new Set(),
+): string | null {
+  const i = videos.findIndex((v) => v.id === current);
+  for (let j = i - 1; j >= 0; j--) {
+    if (!unavailable.has(videos[j].id)) return videos[j].id;
+  }
+  return null;
+}

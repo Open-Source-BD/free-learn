@@ -21,7 +21,7 @@ const more = catalog.courses
   .map(toCardData);
 ---
 
-<AppShell title={course.title} description={`Watch ${course.title} for free.`} docked={false}>
+<AppShell title={course.title} description={`Watch ${course.title} for free.`} hasChips={false} bottomBar>
   <WatchApp client:load course={toWatchCourse(course)} videos={videos}>
     <MoreInCategory courses={more} name={course.categoryName} slug={course.categorySlug} />
   </WatchApp>

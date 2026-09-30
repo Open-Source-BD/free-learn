@@ -39,9 +39,10 @@ const GROUPS: Record<Exclude<CategoryGroup, 'Other'>, string[]> = {
   ],
   Web: [
     'Angular', 'ASP.NET', 'Astro', 'Blockchain', 'CodeIgniter', 'Figma', 'HTML and CSS', 'Laravel', 'Nest.js',
-    'Spring Boot', 'UI/UX', 'Web Development', 'Web3', 'WordPress',
+    'Next.js', 'Node.js', 'React', 'Remix', 'Spring Boot', 'Svelte', 'Three.js', 'UI/UX', 'Web Development', 'Web3',
+    'WordPress',
   ],
-  Mobile: ['Android', 'Flutter', 'iOS'],
+  Mobile: ['Android', 'Flutter', 'iOS', 'React Native'],
   'Data & AI': [
     'Artificial Intelligence', 'CUDA', 'Data Science', 'Databases', 'Deep Learning', 'Machine Learning', 'MongoDB',
     'MySQL', 'Natural Language Processing', 'PostgreSQL', 'Redis', 'Spark',
@@ -69,4 +70,25 @@ export function canonicalCategory(raw: string): string {
 
 export function groupOf(name: string): CategoryGroup {
   return GROUP_BY_NAME.get(name) ?? 'Other';
+}
+
+/**
+ * The source list files a whole JavaScript-frameworks section under "Nest.js";
+ * split that bucket by course title. Every other category passes through unchanged.
+ */
+const NEST_BUCKET_RULES: [RegExp, string][] = [
+  [/react\s*native/i, 'React Native'],
+  [/next\s*\.?\s*js/i, 'Next.js'],
+  [/nest\s*\.?\s*js/i, 'Nest.js'],
+  [/\bnode\b|node\.js|express/i, 'Node.js'],
+  [/react|redux|framer motion/i, 'React'],
+  [/remix/i, 'Remix'],
+  [/svelte/i, 'Svelte'],
+  [/three\.?js/i, 'Three.js'],
+];
+
+export function refineCategory(name: string, title: string): string {
+  if (name !== 'Nest.js') return name;
+  for (const [re, category] of NEST_BUCKET_RULES) if (re.test(title)) return category;
+  return 'JavaScript';
 }

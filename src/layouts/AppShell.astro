@@ -4,6 +4,8 @@ import '@fontsource-variable/inter';
 import '@fontsource-variable/noto-sans-bengali';
 import '@fontsource-variable/noto-sans-devanagari';
 import CategorySidebar from '@/components/CategorySidebar';
+import ProgressiveBlur from '@/components/glass/ProgressiveBlur.astro';
+import IconRail from '@/components/nav/IconRail';
 import TopBar from '@/components/TopBar';
 import { loadCatalog } from '@/lib/load-catalog';
 
@@ -11,16 +13,25 @@ interface Props {
   title: string;
   description?: string;
   activeSlug?: string;
-  docked?: boolean;
+  hasChips?: boolean;
+  bottomBar?: boolean;
 }
 
 const {
   title,
   description = 'Free programming courses from YouTube, organised by topic.',
   activeSlug,
-  docked = true,
+  hasChips = true,
+  bottomBar = false,
 } = Astro.props;
 const { categories } = loadCatalog();
+const mainClass = [
+  // browse pages run under the glass rail (demo look); pages with a player keep clear of it
+  'min-w-0 px-4 md:pr-6',
+  hasChips ? '' : 'md:pl-[84px]',
+  hasChips ? 'pt-[136px]' : 'pt-[84px]',
+  bottomBar ? 'pb-[120px]' : 'pb-10',
+].join(' ');
 ---
 
 <!doctype html>
@@ -32,13 +43,12 @@ const { categories } = loadCatalog();
     <title>{title} · FreeLearn</title>
   </head>
   <body class="min-h-dvh antialiased">
-    <div class="bg-glows" aria-hidden="true"></div>
-    <TopBar client:load menuOnDesktop={!docked} />
-    <div class="mx-auto flex max-w-[1600px] gap-4 px-3 pt-4 pb-12 md:px-4">
-      <CategorySidebar client:load categories={categories} activeSlug={activeSlug} docked={docked} />
-      <main class="min-w-0 flex-1">
-        <slot />
-      </main>
-    </div>
+    <main class={mainClass}>
+      <slot />
+    </main>
+    <ProgressiveBlur />
+    <TopBar client:load />
+    <IconRail client:load categories={categories} activeSlug={activeSlug} />
+    <CategorySidebar client:load categories={categories} activeSlug={activeSlug} />
   </body>
 </html>

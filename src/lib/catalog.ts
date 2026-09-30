@@ -1,4 +1,5 @@
-import { canonicalCategory, GROUP_ORDER, groupOf } from './categories';
+import { canonicalCategory, GROUP_ORDER, groupOf, refineCategory } from './categories';
+import { courseLength } from './length';
 import { assignSlugs } from './slug';
 import { listSourceCourses } from './source';
 import type {
@@ -7,17 +8,21 @@ import type {
 
 export { courseHref } from './href';
 
+/** Source titles carry markdown escapes (e.g. `\\|`); ids still come from the raw title. */
+const cleanTitle = (t: string) => t.replace(/\\(.)/g, '$1').replace(/\s+/g, ' ').trim();
+const categoryOf = (raw: { category: string; title: string }) => refineCategory(canonicalCategory(raw.category), raw.title);
+
 export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFile>): Catalog {
   const sources = listSourceCourses(raw);
-  const slugs = assignSlugs([...new Set(sources.map((s) => canonicalCategory(s.raw.category)))]);
+  const slugs = assignSlugs([...new Set(sources.map((s) => categoryOf(s.raw)))]);
   const courses: Course[] = [];
   const videos = new Map<string, PlaylistVideo[]>();
 
   for (const s of sources) {
-    const categoryName = canonicalCategory(s.raw.category);
+    const categoryName = categoryOf(s.raw);
     const base = {
       id: s.id,
-      title: s.raw.title.trim(),
+      title: cleanTitle(s.raw.title),
       url: s.raw.url,
       authors: s.raw.authors,
       notes: s.raw.notes,
@@ -28,7 +33,7 @@ export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFil
     };
     const p = s.parsed;
     if (p.kind === 'video') {
-      courses.push({ ...base, kind: 'video', listId: null, videoCount: 1, firstVideoId: p.videoId, thumbVideoId: p.videoId });
+      courses.push({ ...base, kind: 'video', listId: null, videoCount: 1, firstVideoId: p.videoId, thumbVideoId: p.videoId, totalSeconds: null });
       videos.set(s.id, [{ id: p.videoId, title: base.title, duration: null }]);
     } else if (p.kind === 'playlist' || p.kind === 'channel') {
       const pf = playlists.get(s.id);
@@ -40,12 +45,13 @@ export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFil
         kind: p.kind,
         listId: p.kind === 'playlist' ? p.listId : null,
         videoCount: pf.videos.length,
+        totalSeconds: courseLength(pf.videos),
         firstVideoId: start,
         thumbVideoId: start,
       });
       videos.set(s.id, pf.videos);
     } else {
-      courses.push({ ...base, kind: 'unknown', listId: null, videoCount: 0, firstVideoId: null, thumbVideoId: null });
+      courses.push({ ...base, kind: 'unknown', listId: null, videoCount: 0, firstVideoId: null, thumbVideoId: null, totalSeconds: null });
     }
   }
 
@@ -70,7 +76,7 @@ function buildCategoryTree(courses: Course[]): CategoryNode[] {
 export function toCardData(c: Course): CourseCardData {
   return {
     id: c.id, title: c.title, url: c.url, authors: c.authors, lang: c.lang, kind: c.kind, videoCount: c.videoCount,
-    thumbVideoId: c.thumbVideoId,
+    thumbVideoId: c.thumbVideoId, totalSeconds: c.totalSeconds, categorySlug: c.categorySlug,
   };
 }
 

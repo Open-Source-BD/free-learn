@@ -1,11 +1,12 @@
-import { useEffect, useMemo, useState, type ReactNode } from 'react';
-import { classifyPlayerError, nextVideoId, resolveStartVideo, type PlayerErrorAction } from '@/lib/player-logic';
+import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
+import { classifyPlayerError, nextVideoId, prevVideoId, resolveStartVideo, type PlayerErrorAction } from '@/lib/player-logic';
 import { createProgressStore } from '@/lib/progress';
 import type { PlaylistVideo, WatchCourse } from '@/lib/types';
 import { youtubeWatchUrl } from '@/lib/youtube-url';
-import Player from './Player';
+import Player, { type PlayerHandle } from './Player';
 import PlayerMeta from './PlayerMeta';
 import PlaylistPanel from './PlaylistPanel';
+import WatchControlBar from './WatchControlBar';
 
 interface Props {
   course: WatchCourse;
@@ -22,6 +23,9 @@ export default function WatchApp({ course, videos, children }: Props) {
   const [autoplay, setAutoplay] = useState(true);
   const [error, setError] = useState<PlayerErrorAction | null>(null);
   const [reloadKey, setReloadKey] = useState(0);
+  const [playing, setPlaying] = useState(false);
+  const [playlistOpen, setPlaylistOpen] = useState<boolean | null>(null);
+  const playerRef = useRef<PlayerHandle>(null);
   const isList = videos.length > 1;
 
   useEffect(() => {
@@ -33,6 +37,7 @@ export default function WatchApp({ course, videos, children }: Props) {
     setStartAt(id && saved && id === saved.lastVideo ? saved.t : 0);
     setWatched(new Set(saved?.watched ?? []));
     setAutoplay(store.getPrefs().autoplay);
+    setPlaylistOpen(window.matchMedia('(min-width: 1024px)').matches);
 
     const onPop = () => {
       setError(null);
@@ -54,6 +59,18 @@ export default function WatchApp({ course, videos, children }: Props) {
   const goNext = (skip: Set<string> = unavailable, replace = false) => {
     const next = nextVideoId(videos, current, skip);
     if (next) select(next, replace);
+  };
+
+  const goPrev = () => {
+    const prev = prevVideoId(videos, current, unavailable);
+    if (prev) select(prev);
+  };
+
+  const togglePlay = () => {
+    const p = playerRef.current;
+    if (!p) return;
+    if (p.isPlaying()) p.pause();
+    else p.play();
   };
 
   const markWatched = () => {
@@ -87,73 +104,89 @@ export default function WatchApp({ course, videos, children }: Props) {
 
   const video = videos.find((v) => v.id === current);
   const hasNext = !!nextVideoId(videos, current, unavailable);
+  const hasPrev = !!prevVideoId(videos, current, unavailable);
+  const showList = isList && playlistOpen !== false;
 
   return (
-    <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_380px]">
-      <div className="min-w-0 space-y-4 lg:col-start-1">
-        <div className="relative aspect-video overflow-hidden rounded-2xl border border-white/10 bg-black">
-          {current && (
-            <Player
-              key={reloadKey}
-              videoId={current}
-              startSeconds={startAt}
-              onProgress={onProgress}
-              onEnded={onEnded}
-              onError={onError}
-            />
-          )}
-          {error && current && (
-            <div className="absolute inset-0 grid place-items-center bg-black/80 p-6 text-center">
-              <div className="glass max-w-sm space-y-3 p-5">
-                <p>{error === 'embed-blocked' ? "This video can't be played here." : 'Something went wrong loading this video.'}</p>
-                <div className="flex flex-wrap justify-center gap-2">
-                  {error === 'retry' && (
-                    <button type="button" className="chip" onClick={() => { setError(null); setReloadKey((k) => k + 1); }}>
-                      Retry
-                    </button>
-                  )}
-                  <a className="chip" href={youtubeWatchUrl(current, course.listId)} target="_blank" rel="noopener noreferrer">
-                    Watch on YouTube ↗
-                  </a>
-                  {hasNext && (
-                    <button type="button" className="chip" onClick={() => goNext()}>
-                      Skip to next
-                    </button>
-                  )}
+    <>
+      <div className={`grid gap-4 ${showList ? 'lg:grid-cols-[minmax(0,1fr)_380px]' : ''}`}>
+        <div className="min-w-0 space-y-4 lg:col-start-1">
+          <div
+            className="relative mx-auto aspect-video w-full max-w-[calc((100dvh-220px)*16/9)] overflow-hidden rounded-2xl border border-white/10 bg-black"
+            data-testid="player-frame"
+          >
+            {current && (
+              <Player
+                key={reloadKey}
+                ref={playerRef}
+                videoId={current}
+                startSeconds={startAt}
+                onProgress={onProgress}
+                onEnded={onEnded}
+                onError={onError}
+                onPlayingChange={setPlaying}
+              />
+            )}
+            {error && current && (
+              <div className="absolute inset-0 grid place-items-center bg-black/80 p-6 text-center">
+                <div className="glass max-w-sm space-y-3 p-5">
+                  <p>{error === 'embed-blocked' ? "This video can't be played here." : 'Something went wrong loading this video.'}</p>
+                  <div className="flex flex-wrap justify-center gap-2">
+                    {error === 'retry' && (
+                      <button type="button" className="chip" onClick={() => { setError(null); setReloadKey((k) => k + 1); }}>
+                        Retry
+                      </button>
+                    )}
+                    <a className="chip" href={youtubeWatchUrl(current, course.listId)} target="_blank" rel="noopener noreferrer">
+                      Watch on YouTube ↗
+                    </a>
+                    {hasNext && (
+                      <button type="button" className="chip" onClick={() => goNext()}>
+                        Skip to next
+                      </button>
+                    )}
+                  </div>
                 </div>
               </div>
-            </div>
-          )}
+            )}
+          </div>
+          {current && <PlayerMeta course={course} videoTitle={video?.title ?? course.title} />}
         </div>
-        {current && (
-          <PlayerMeta
-            course={course}
-            videoId={current}
-            videoTitle={video?.title ?? course.title}
-            isWatched={watched.has(current)}
-            autoplay={autoplay}
-            showAutoplay={isList}
-            onMarkWatched={markWatched}
-            onAutoplayChange={(v) => {
-              setAutoplay(v);
-              store.setPrefs({ autoplay: v });
-            }}
-          />
+        {showList && (
+          <div className={`lg:col-start-2 lg:row-span-2 lg:row-start-1 ${playlistOpen === null ? 'hidden lg:block' : ''}`}>
+            <PlaylistPanel
+              title={course.title}
+              videos={videos}
+              current={current}
+              watched={watched}
+              unavailable={unavailable}
+              onSelect={select}
+            />
+          </div>
         )}
+        <div className="min-w-0 lg:col-start-1">{children}</div>
       </div>
-      {isList && (
-        <div className="lg:col-start-2 lg:row-span-2 lg:row-start-1">
-          <PlaylistPanel
-            title={course.title}
-            videos={videos}
-            current={current}
-            watched={watched}
-            unavailable={unavailable}
-            onSelect={select}
-          />
-        </div>
+      {current && (
+        <WatchControlBar
+          isList={isList}
+          hasPrev={hasPrev}
+          hasNext={hasNext}
+          playing={playing}
+          isWatched={watched.has(current)}
+          autoplay={autoplay}
+          playlistOpen={playlistOpen === true}
+          youtubeUrl={youtubeWatchUrl(current, course.listId)}
+          onPrev={goPrev}
+          onNext={() => goNext()}
+          onTogglePlay={togglePlay}
+          onMarkWatched={markWatched}
+          onAutoplayChange={(v) => {
+            setAutoplay(v);
+            store.setPrefs({ autoplay: v });
+          }}
+          onTogglePlaylist={() => setPlaylistOpen((o) => !(o ?? false))}
+        />
       )}
-      <div className="min-w-0 lg:col-start-1">{children}</div>
-    </div>
+    </>
   );
 }

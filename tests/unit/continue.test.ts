@@ -19,8 +19,8 @@ describe('pickContinue', () => {
       { courseId: 'b', progress: { watched: [], lastVideo: 'bv', t: 0, updatedAt: 6 } },
     ];
     expect(pickContinue(recent, index)).toEqual([
-      { id: 'a', title: 'T-a', videoId: 'v3', watchedCount: 2, total: 10, href: '/watch/a?v=v3' },
-      { id: 'b', title: 'T-b', videoId: 'bv', watchedCount: 0, total: 1, href: '/watch/b?v=bv' },
+      { id: 'a', title: 'T-a', videoId: 'v3', watchedCount: 2, total: 10, resumeAt: 12, href: '/watch/a?v=v3' },
+      { id: 'b', title: 'T-b', videoId: 'bv', watchedCount: 0, total: 1, resumeAt: 0, href: '/watch/b?v=bv' },
     ]);
   });
 

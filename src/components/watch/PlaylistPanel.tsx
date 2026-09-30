@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { formatDuration } from '@/lib/format';
+import { courseLength, formatLengthLong } from '@/lib/length';
 import type { PlaylistVideo } from '@/lib/types';
 import { thumbUrl } from '@/lib/youtube-url';
 
@@ -20,13 +21,15 @@ export default function PlaylistPanel({ title, videos, current, watched, unavail
 
   const index = videos.findIndex((v) => v.id === current);
   const done = videos.filter((v) => watched.has(v.id)).length;
+  const total = formatLengthLong(courseLength(videos));
 
   return (
     <aside className="glass flex max-h-[70vh] flex-col lg:sticky lg:top-20 lg:max-h-[calc(100dvh-6rem)]" data-testid="playlist">
       <div className="border-b border-white/10 p-3">
         <h2 className="line-clamp-1 font-semibold">{title}</h2>
         <p className="text-xs text-white/60">
-          {index + 1} / {videos.length} · {done} watched
+          {index + 1} / {videos.length}
+          {total && <> · {total} total</>} · {done} watched
         </p>
         <div className="mt-2 h-1 rounded bg-white/15">
           <div className="h-full rounded bg-white" style={{ width: `${(done / videos.length) * 100}%` }} />

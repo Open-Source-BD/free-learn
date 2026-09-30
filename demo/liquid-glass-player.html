@@ -1,0 +1,215 @@
+<!doctype html>
+<!--
+  THROWAWAY SPIKE — kube.io liquid-glass music player, rebuilt for FreeLearn.
+  Filter chain copied from kube.io's #mixed-ui-player-filter (see demo/source.html).
+  Displacement + specular maps generated in JS (Snell's law over a squircle bezel).
+  Chrome/Edge only (SVG filters in backdrop-filter).
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Liquid Glass Player</title>
+<style>
+  :root { --fg: #e8e8ea; --muted: rgba(232,232,234,.75); color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; color: var(--fg); font-family: Inter, system-ui, -apple-system, sans-serif; }
+  body {
+    min-height: 100vh; padding: 32px 24px 48px; display: grid; justify-items: center; gap: 36px;
+    background-color: #17171a;
+    background-image:
+      repeating-linear-gradient(60deg, rgba(0,0,0,.35) 0 2px, transparent 2px 22px),
+      repeating-linear-gradient(-60deg, rgba(0,0,0,.35) 0 2px, transparent 2px 22px);
+  }
+
+  .window { position: relative; width: min(1060px, 100%); height: min(78vh, 820px); border-radius: 22px; overflow: hidden;
+    background: #000; border: 1px solid rgba(255,255,255,.08); }
+  .scroller { position: absolute; inset: 0; overflow-y: auto; padding: 28px 28px 140px; scrollbar-width: thin; scrollbar-color: #555 transparent; }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px 28px; }
+  @media (max-width: 760px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  .tile img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; }
+  .tile p { margin: 14px 0 0; font-size: 15px; letter-spacing: .1em; text-transform: uppercase; line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .progressive { position: absolute; left: 0; right: 0; bottom: 0; height: 200px; pointer-events: none; }
+  .progressive > div { position: absolute; inset: 0; }
+
+  .player { position: absolute; left: 50%; bottom: 28px; transform: translateX(-50%); width: min(640px, 92%); height: 63px; }
+  .player .lens { position: absolute; inset: 0; border-radius: 34px; background: rgba(255,255,255,var(--glass-bg, 0));
+    box-shadow: 0 4px 19px rgba(0,0,0,.35); }
+  .player .content { position: absolute; inset: 0; display: flex; align-items: center; gap: 18px; padding: 0 30px; border-radius: 34px; }
+  .player svg { width: 24px; height: 24px; flex: none; }
+  .player .big svg { width: 30px; height: 30px; }
+  .player .sp { flex: 1; }
+  .player button { all: unset; display: grid; place-items: center; cursor: pointer; color: #fff; border-radius: 50%;
+    transition: transform .15s ease; }
+  /* keep every icon readable over bright or busy backgrounds: tight dark edge + soft halo */
+  .player .content svg { color: #fff;
+    filter: drop-shadow(0 0 1px rgba(0,0,0,.85)) drop-shadow(0 1px 2px rgba(0,0,0,.6)) drop-shadow(0 0 8px rgba(0,0,0,.45)); }
+  .player button:hover { transform: scale(1.12); }
+  .player button:active { transform: scale(.94); }
+  .player button:focus-visible { outline: 2px solid #a9c4f5; outline-offset: 4px; }
+
+  .controls { width: min(1060px, 100%); padding: 0 36px; }
+  .controls h2 { margin: 0 0 22px; display: flex; align-items: center; gap: 28px;
+    font: 500 15px/1 Inter, system-ui, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+  .controls h2::after { content: ''; flex: 1; height: 1px; background: rgba(255,255,255,.12); }
+  .row { display: grid; grid-template-columns: 300px 80px 1fr; align-items: center; gap: 26px; min-height: 60px; }
+  .row label { font-size: 17px; letter-spacing: .1em; text-transform: uppercase; line-height: 1.2; }
+  .row output { text-align: right; font: 17px ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--muted); }
+  input[type=range] { -webkit-appearance: none; appearance: none; width: 100%; height: 22px; background: transparent; cursor: pointer; }
+  input[type=range]::-webkit-slider-runnable-track { height: 2px; background: rgba(255,255,255,.2); border-radius: 2px; }
+  input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 30px; height: 30px; margin-top: -14px; border-radius: 50%; background: #a9c4f5; border: 0; }
+  input[type=range]::-moz-range-track { height: 2px; background: rgba(255,255,255,.2); }
+  input[type=range]::-moz-range-thumb { width: 30px; height: 30px; border-radius: 50%; background: #a9c4f5; border: 0; }
+  @media (max-width: 760px) { .row { grid-template-columns: 1fr 64px; } .row input { grid-column: 1 / -1; } }
+</style>
+</head>
+<body>
+  <section class="window">
+    <div class="scroller"><div class="grid" id="grid"></div></div>
+    <div class="progressive" id="progressive"></div>
+
+    <div class="player" id="player">
+      <div class="lens" id="lens"></div>
+      <div class="content">
+        <button aria-label="Shuffle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
+        <button aria-label="Previous" class="big"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M11 18V6l-8.5 6zM21 18V6l-8.5 6z"/></svg></button>
+        <button aria-label="Pause" class="big"><svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
+        <button aria-label="Next" class="big"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 18V6l8.5 6zM3 18V6l8.5 6z"/></svg></button>
+        <button aria-label="Repeat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l4 4-4 4M3 11V9a3 3 0 0 1 3-3h15M7 22l-4-4 4-4M21 13v2a3 3 0 0 1-3 3H3"/></svg></button>
+        <span class="sp"></span>
+        <span class="big" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2 21 7v10l-9 5-9-5V7z" opacity=".25"/><path d="M12 2a10 10 0 0 1 0 20z"/></svg></span>
+        <span class="sp"></span>
+        <button aria-label="More"><svg viewBox="0 0 24 24" fill="currentColor"><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/></svg></button>
+        <button aria-label="Queue"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M9 6h12M9 12h12M9 18h12"/><circle cx="4" cy="6" r=".6" fill="currentColor"/><circle cx="4" cy="12" r=".6" fill="currentColor"/><circle cx="4" cy="18" r=".6" fill="currentColor"/></svg></button>
+        <button aria-label="Cast"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="1.6" fill="currentColor"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7M5.6 5.6a9 9 0 0 0 0 12.8M18.4 5.6a9 9 0 0 1 0 12.8"/></svg></button>
+        <button aria-label="Volume"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg></button>
+      </div>
+    </div>
+  </section>
+
+  <section class="controls">
+    <h2>Parameters</h2>
+    <div class="row"><label for="specOpacity">Specular opacity</label><output id="o-specOpacity"></output><input id="specOpacity" type="range" min="0" max="1" step="0.01" value="0"></div>
+    <div class="row"><label for="specSat">Specular saturation</label><output id="o-specSat"></output><input id="specSat" type="range" min="0" max="50" step="1" value="50"></div>
+    <div class="row"><label for="refraction">Refraction level</label><output id="o-refraction"></output><input id="refraction" type="range" min="0" max="1" step="0.01" value="1"></div>
+    <div class="row"><label for="blur">Blur level</label><output id="o-blur"></output><input id="blur" type="range" min="0" max="10" step="0.1" value="1.8"></div>
+    <div class="row"><label for="progressive">Progressive blur strength</label><output id="o-progressive"></output><input id="progressive" type="range" min="0" max="10" step="0.01" value="10"></div>
+    <div class="row"><label for="glassBg">Glass background opacity</label><output id="o-glassBg"></output><input id="glassBg" type="range" min="0" max="1" step="0.01" value="0"></div>
+  </section>
+
+  <svg width="0" height="0" style="position:absolute" color-interpolation-filters="sRGB" aria-hidden="true"><defs id="defs"></defs></svg>
+
+<script>
+(() => {
+  const VIDEOS = ["tIQeuzBz4Fs","S47aSEqm_0I","Qwow9xWCHc4","W1McvE4a910","982nK2Vdk_o","uRyvNKRkwbs","uzbB1UO6L4g","LYRWGWKLfQA","-U-eUHI6euM","fg_q5tOiDZo","yOlUKEN7oxA","V3iEsLPAD68","v0of23TxIKc","tMZn54M8tGU","f8_uF_IDV50","GbOW74e4xZE","tzy_kedkAv0","gHE9lCxid0k","bTjOfVePvFw","0oXYLzuucwE","_t2GVaQasRY","X0fRPWwTHOA","uYlbaTAI3G8","FpvnF7_-tW8","15QUCu7KD3E","yH1zCq-iaeU","Fre99th2ao4","ur6I5m2nTvk","XY96d0vEdFk","bT0DP3i3tlw"];
+  const TITLES = ["Go Bangla Tutorials","Programming & Data Structures","Node.js in Hindi","C++ STL","C Bangla Tutorials","Android App Development","Spring Boot (Hindi)","Frontend: HTML, CSS & JS","Git and GitHub","Electron.js in Hindi","Spring Boot Tutorials","Statistics & Probability","Jetpack Compose Pokédex","Data Science Course","VS Code Basics","Data Structure & Algorithm","Web Information Retrieval","PHP & MySQL (Hindi)","Android with Kotlin","REST API with Node.js","DSA in Python","AWS for Beginners","Python with Jupyter","Artificial Intelligence","iOS Development (Hindi)","SQL in Hindi","PHP Bangla Tutorial","React Native Basics","Play with DOM (বাংলা)","Ruby on Rails"];
+  const grid = document.getElementById('grid');
+  VIDEOS.forEach((id, i) => {
+    const el = document.createElement('div');
+    el.className = 'tile';
+    el.innerHTML = `<img loading="lazy" src="https://i.ytimg.com/vi/${id}/mqdefault.jpg" alt=""><p>${TITLES[i]}</p>`;
+    grid.appendChild(el);
+  });
+
+  // ---------- glass geometry (fixed, tuned to kube.io's player: 640×63, r=34, scale ≈ 75) ----------
+  const RADIUS = 34, IOR = 1.5, THICKNESS = 90, RIM_PX = 3, SAMPLES = 127;
+  const squircle = (x) => Math.pow(Math.max(0, 1 - (1 - x) ** 4), 0.25);
+
+  // Snell's law across the bezel: displacement (px, along inward normal), x = 0 at rim → 1 inside
+  function bezelProfile(bezelPx) {
+    const disp = new Float32Array(SAMPLES), d = 1e-3;
+    for (let i = 0; i < SAMPLES; i++) {
+      const x = Math.min(1 - d, Math.max(d, i / (SAMPLES - 1)));
+      const h = THICKNESS * squircle(x);
+      const slope = (THICKNESS / bezelPx) * (squircle(x + d) - squircle(x - d)) / (2 * d);
+      const t1 = Math.atan(Math.abs(slope)), t2 = Math.asin(Math.sin(t1) / IOR);
+      disp[i] = Math.sign(slope) * Math.tan(t1 - t2) * h;
+    }
+    let max = 0;
+    for (const v of disp) max = Math.max(max, Math.abs(v));
+    return { disp, max: max || 1 };
+  }
+
+  function sdf(px, py, hw, hh, r) {
+    const qx = Math.abs(px) - (hw - r), qy = Math.abs(py) - (hh - r);
+    const ox = Math.max(qx, 0), oy = Math.max(qy, 0), out = Math.hypot(ox, oy);
+    let gx, gy;
+    if (qx > 0 && qy > 0) { gx = ox / out; gy = oy / out; } else if (qx > qy) { gx = 1; gy = 0; } else { gx = 0; gy = 1; }
+    return { dist: out + Math.min(Math.max(qx, qy), 0) - r, gx: gx * Math.sign(px || 1), gy: gy * Math.sign(py || 1) };
+  }
+
+  const cv = document.createElement('canvas'), cx = cv.getContext('2d');
+  const png = (img) => { cv.width = img.width; cv.height = img.height; cx.putImageData(img, 0, 0); return cv.toDataURL('image/png'); };
+
+  function buildMaps(W, H) {
+    const r = Math.min(RADIUS, W / 2, H / 2), bezel = Math.min(W, H) / 2, prof = bezelProfile(bezel);
+    const dm = new ImageData(W, H), sm = new ImageData(W, H), D = dm.data, S = sm.data;
+    for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) {
+      const i = (y * W + x) * 4;
+      D[i] = D[i + 1] = D[i + 2] = 128; D[i + 3] = 255;
+      const s = sdf(x + 0.5 - W / 2, y + 0.5 - H / 2, W / 2, H / 2, r), inside = -s.dist;
+      if (inside <= 0) continue;
+      // specular = thin, even rim all the way round (it masks the saturated colour)
+      const a = Math.max(0, 1 - inside / RIM_PX);
+      S[i] = S[i + 1] = S[i + 2] = 255; S[i + 3] = Math.round(Math.min(1, a * 1.15) * 255);
+      if (inside >= bezel) continue;
+      const m = prof.disp[Math.min(SAMPLES - 1, Math.round((inside / bezel) * (SAMPLES - 1)))] / prof.max;
+      D[i] = Math.round(128 - s.gx * m * 127);
+      D[i + 1] = Math.round(128 - s.gy * m * 127);
+    }
+    return { map: png(dm), spec: png(sm), max: prof.max };
+  }
+
+  // ---------- render ----------
+  const $ = (id) => document.getElementById(id);
+  const val = (id) => parseFloat($(id).value);
+  const player = $('player'), lens = $('lens'), defs = $('defs');
+  let maps = null, mapsKey = '';
+
+  function render() {
+    const W = Math.round(player.offsetWidth), H = Math.round(player.offsetHeight);
+    if (`${W}x${H}` !== mapsKey) { maps = buildMaps(W, H); mapsKey = `${W}x${H}`; }
+    // identical primitive chain to kube.io's #mixed-ui-player-filter
+    defs.innerHTML = `<filter id="player-filter">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="${val('blur')}" result="blurred_source"/>
+      <feImage href="${maps.map}" x="0" y="0" width="${W}" height="${H}" result="displacement_map"/>
+      <feDisplacementMap in="blurred_source" in2="displacement_map" xChannelSelector="R" yChannelSelector="G" result="displaced" scale="${(maps.max * val('refraction')).toFixed(3)}"/>
+      <feColorMatrix in="displaced" type="saturate" result="displaced_saturated" values="${val('specSat')}"/>
+      <feImage href="${maps.spec}" x="0" y="0" width="${W}" height="${H}" result="specular_layer"/>
+      <feComposite in="displaced_saturated" in2="specular_layer" operator="in" result="specular_saturated"/>
+      <feComponentTransfer in="specular_layer" result="specular_faded"><feFuncA type="linear" slope="${val('specOpacity')}"/></feComponentTransfer>
+      <feBlend in="specular_saturated" in2="displaced" mode="normal" result="withSaturation"/>
+      <feBlend in="specular_faded" in2="withSaturation" mode="normal"/>
+    </filter>`;
+    lens.style.backdropFilter = lens.style.webkitBackdropFilter = 'url(#player-filter)';
+    player.style.setProperty('--glass-bg', val('glassBg'));
+
+    // progressive blur under the player: stacked, masked backdrop blurs
+    const host = $('progressive'), k = val('progressive');
+    host.innerHTML = '';
+    for (let i = 0; k > 0 && i < 6; i++) {
+      const layer = document.createElement('div');
+      const blur = (k / 10) * Math.pow(2, i) * 0.25;          // up to 8px at strength 10
+      layer.style.backdropFilter = layer.style.webkitBackdropFilter = `blur(${blur}px)`;
+      layer.style.maskImage = layer.style.webkitMaskImage =
+        `linear-gradient(to bottom, transparent ${(i / 6) * 100}%, #000 ${((i + 1) / 6) * 100}%)`;
+      host.appendChild(layer);
+    }
+  }
+
+  const digits = { specOpacity: 2, specSat: 0, refraction: 2, blur: 1, progressive: 2, glassBg: 2 };
+  let raf = 0;
+  for (const [id, dp] of Object.entries(digits)) {
+    const input = $(id), out = $(`o-${id}`);
+    const sync = () => { out.textContent = (+input.value).toFixed(dp); };
+    sync();
+    input.addEventListener('input', () => { sync(); cancelAnimationFrame(raf); raf = requestAnimationFrame(render); });
+  }
+  new ResizeObserver(() => { cancelAnimationFrame(raf); raf = requestAnimationFrame(render); }).observe(player);
+  render();
+})();
+</script>
+</body>
+</html>

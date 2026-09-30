@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { classifyPlayerError, nextVideoId, resolveStartVideo } from '@/lib/player-logic';
+import { classifyPlayerError, nextVideoId, prevVideoId, resolveStartVideo } from '@/lib/player-logic';
 
 const vids = [{ id: 'a' }, { id: 'b' }, { id: 'c' }, { id: 'd' }];
 
@@ -45,4 +45,17 @@ describe('classifyPlayerError', () => {
     [2, 'retry'],
     [5, 'retry'],
   ] as const)('%i → %s', (code, action) => expect(classifyPlayerError(code)).toBe(action));
+});
+
+describe('prevVideoId', () => {
+  it('returns the previous available video', () => {
+    expect(prevVideoId(vids, 'c')).toBe('b');
+    expect(prevVideoId(vids, 'd', new Set(['c', 'b']))).toBe('a');
+  });
+
+  it('returns null at the start, when all earlier are unavailable, or when current is unknown', () => {
+    expect(prevVideoId(vids, 'a')).toBeNull();
+    expect(prevVideoId(vids, 'c', new Set(['a', 'b']))).toBeNull();
+    expect(prevVideoId(vids, 'zzz')).toBeNull();
+  });
 });

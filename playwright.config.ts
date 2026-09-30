@@ -10,5 +10,10 @@ export default defineConfig({
     reuseExistingServer: true,
     timeout: 300_000,
   },
-  projects: [{ name: 'chromium', use: { ...devices['Desktop Chrome'] } }],
+  projects: [
+    {
+      name: 'chromium',
+      use: { ...devices['Desktop Chrome'], launchOptions: { args: ['--autoplay-policy=no-user-gesture-required'] } },
+    },
+  ],
 });

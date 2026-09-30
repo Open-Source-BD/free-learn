@@ -5,7 +5,7 @@ import type { Course } from '@/lib/types';
 const course = (over: Partial<Course>): Course => ({
   id: 'x', title: 'X', url: 'https://youtu.be/QnbsCC8wvJk', authors: [], notes: [], lang: 'en', categoryName: 'Python',
   categorySlug: 'python', group: 'Languages', kind: 'playlist', listId: 'PL', videoCount: 3, firstVideoId: 'QnbsCC8wvJk',
-  thumbVideoId: 'QnbsCC8wvJk', ...over,
+  thumbVideoId: 'QnbsCC8wvJk', totalSeconds: null, ...over,
 });
 
 describe('search', () => {

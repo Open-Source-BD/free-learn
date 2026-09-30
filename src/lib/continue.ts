@@ -7,6 +7,8 @@ export interface ContinueItem {
   videoId: string;
   watchedCount: number;
   total: number;
+  /** saved position (seconds) in the last video */
+  resumeAt: number;
   href: string;
 }
 
@@ -25,6 +27,7 @@ export function pickContinue(
       videoId: progress.lastVideo,
       watchedCount: progress.watched.length,
       total: e.n,
+      resumeAt: progress.t,
       href: `${e.h}?v=${encodeURIComponent(progress.lastVideo)}`,
     });
     if (out.length === limit) break;

@@ -1,0 +1,30 @@
+---
+interface Props {
+  /** Top band is light so the top-bar glass refracts real content, not pre-blurred pixels. */
+  topStrength?: number;
+  bottomStrength?: number;
+}
+const { topStrength = 0, bottomStrength = 10 } = Astro.props;
+type Layer = { blur: number; from: number; to: number };
+const layersFor = (strength: number): Layer[] =>
+  Array.from({ length: 6 }, (_, i) => ({
+    blur: (strength / 10) * 2 ** i * 0.25,
+    from: (i / 6) * 100,
+    to: ((i + 1) / 6) * 100,
+  }));
+const style = (dir: 'top' | 'bottom', l: Layer) => {
+  const mask = `linear-gradient(to ${dir}, transparent ${l.from}%, #000 ${l.to}%)`;
+  return `backdrop-filter:blur(${l.blur}px);-webkit-backdrop-filter:blur(${l.blur}px);mask-image:${mask};-webkit-mask-image:${mask}`;
+};
+---
+
+{
+  topStrength > 0 && (
+    <div class="progressive-blur top" aria-hidden="true">
+      {layersFor(topStrength).map((l) => <div style={style('top', l)} />)}
+    </div>
+  )
+}
+<div class="progressive-blur bottom" aria-hidden="true">
+  {layersFor(bottomStrength).map((l) => <div style={style('bottom', l)} />)}
+</div>
