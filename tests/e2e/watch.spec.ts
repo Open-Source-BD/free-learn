@@ -4,7 +4,7 @@ import { expect, test } from '@playwright/test';
 async function openFirstPlaylist(page: import('@playwright/test').Page) {
   await page.goto('/?type=playlist');
   await expect(page.getByRole('button', { name: 'Playlists' })).toHaveAttribute('aria-pressed', 'true');
-  await expect(page.getByTestId('course-badge').first()).toHaveText(/^▶ \d+$/);
+  await expect(page.getByTestId('course-badge').first()).toHaveText(/^▶ \d+( · \d+ [hm])?$/);
   await page.getByTestId('course-card').first().click();
   await expect(page).toHaveURL(/\/watch\//);
 }

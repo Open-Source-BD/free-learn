@@ -31,6 +31,17 @@ describe('buildCatalog titles', () => {
     expect(cat.courses[0].id).toBe(courseId('Data Structures \\| Python', url));
   });
 
+  it('adds total length for playlists and none for single videos', () => {
+    const pl = 'https://www.youtube.com/playlist?list=PLlen';
+    const id = courseId('Len', pl);
+    const cat = buildCatalog(
+      { en: block([c('Len', pl, 'Python'), c('One', 'https://youtu.be/QnbsCC8wvJk', 'Python')]) },
+      new Map([[id, { courseId: id, sourceUrl: '', kind: 'playlist' as const, fetchedAt: '', title: '', channel: '', videos: [{ id: 'aaaaaaaaaaa', title: 'a', duration: 100 }, { id: 'bbbbbbbbbbb', title: 'b', duration: 50 }] }]]),
+    );
+    expect(cat.courses.map((x) => x.totalSeconds)).toEqual([150, null]);
+    expect(toCardData(cat.courses[0])).toMatchObject({ totalSeconds: 150, categorySlug: 'python' });
+  });
+
   it('splits the Nest.js bucket by title', () => {
     const cat = buildCatalog({ en: block([c('React Hooks', 'https://youtu.be/QnbsCC8wvJk', 'Nest.js')]) }, new Map());
     expect(cat.courses[0]).toMatchObject({ categoryName: 'React', categorySlug: 'react', group: 'Web' });
@@ -85,6 +96,7 @@ describe('buildCatalog', () => {
     expect(courseHref(algo)).toBe(`/watch/${algo.id}`);
     expect(toCardData(algo)).toEqual({
       id: algo.id, title: 'Algo', url: PL, authors: ['Author'], lang: 'en', kind: 'playlist', videoCount: 2, thumbVideoId: 'bbbbbbbbbbb',
+      totalSeconds: 20, categorySlug: 'algorithms-data-structures',
     });
   });
 });

@@ -14,7 +14,7 @@ test('home lists courses and language chips filter them', async ({ page }) => {
   await page.getByRole('button', { name: 'Playlists' }).click();
   await expect(page).toHaveURL(/lang=bn&type=playlist/);
   const badges = await page.getByTestId('course-badge').allTextContents();
-  for (const b of badges) expect(b).toMatch(/^▶ \d+$/);
+  for (const b of badges) expect(b).toMatch(/^▶ \d+( · \d+ [hm])?$/);
 });
 
 test('filter state survives reload from the URL', async ({ page }) => {

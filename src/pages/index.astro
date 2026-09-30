@@ -4,9 +4,16 @@ import AppShell from '@/layouts/AppShell.astro';
 import { toCardData } from '@/lib/catalog';
 import { loadCatalog } from '@/lib/load-catalog';
 
-const { courses } = loadCatalog();
+const SHELF_COUNT = 8;
+const { courses, categories } = loadCatalog();
+// topic rows: the biggest categories across all groups
+const shelves = categories
+  .flatMap((g) => g.items)
+  .sort((a, b) => b.count - a.count)
+  .slice(0, SHELF_COUNT)
+  .map(({ slug, name }) => ({ slug, name }));
 ---
 
 <AppShell title="Learn to code for free">
-  <BrowseView client:load courses={courses.map(toCardData)} showContinue />
+  <BrowseView client:load courses={courses.map(toCardData)} home shelves={shelves} />
 </AppShell>

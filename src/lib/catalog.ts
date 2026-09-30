@@ -1,4 +1,5 @@
 import { canonicalCategory, GROUP_ORDER, groupOf, refineCategory } from './categories';
+import { courseLength } from './length';
 import { assignSlugs } from './slug';
 import { listSourceCourses } from './source';
 import type {
@@ -32,7 +33,7 @@ export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFil
     };
     const p = s.parsed;
     if (p.kind === 'video') {
-      courses.push({ ...base, kind: 'video', listId: null, videoCount: 1, firstVideoId: p.videoId, thumbVideoId: p.videoId });
+      courses.push({ ...base, kind: 'video', listId: null, videoCount: 1, firstVideoId: p.videoId, thumbVideoId: p.videoId, totalSeconds: null });
       videos.set(s.id, [{ id: p.videoId, title: base.title, duration: null }]);
     } else if (p.kind === 'playlist' || p.kind === 'channel') {
       const pf = playlists.get(s.id);
@@ -44,12 +45,13 @@ export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFil
         kind: p.kind,
         listId: p.kind === 'playlist' ? p.listId : null,
         videoCount: pf.videos.length,
+        totalSeconds: courseLength(pf.videos),
         firstVideoId: start,
         thumbVideoId: start,
       });
       videos.set(s.id, pf.videos);
     } else {
-      courses.push({ ...base, kind: 'unknown', listId: null, videoCount: 0, firstVideoId: null, thumbVideoId: null });
+      courses.push({ ...base, kind: 'unknown', listId: null, videoCount: 0, firstVideoId: null, thumbVideoId: null, totalSeconds: null });
     }
   }
 
@@ -74,7 +76,7 @@ function buildCategoryTree(courses: Course[]): CategoryNode[] {
 export function toCardData(c: Course): CourseCardData {
   return {
     id: c.id, title: c.title, url: c.url, authors: c.authors, lang: c.lang, kind: c.kind, videoCount: c.videoCount,
-    thumbVideoId: c.thumbVideoId,
+    thumbVideoId: c.thumbVideoId, totalSeconds: c.totalSeconds, categorySlug: c.categorySlug,
   };
 }
 

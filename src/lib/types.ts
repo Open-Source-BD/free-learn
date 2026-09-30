@@ -77,6 +77,8 @@ export interface Course {
   videoCount: number;
   firstVideoId: string | null;
   thumbVideoId: string | null;
+  /** total length in seconds, null when unknown (single videos, sparse durations) */
+  totalSeconds: number | null;
 }
 
 export interface CategoryNode {
@@ -90,7 +92,10 @@ export interface Catalog {
   videosFor(courseId: string): PlaylistVideo[];
 }
 
-export type CourseCardData = Pick<Course, 'id' | 'title' | 'url' | 'authors' | 'lang' | 'kind' | 'videoCount' | 'thumbVideoId'>;
+export type CourseCardData = Pick<
+  Course,
+  'id' | 'title' | 'url' | 'authors' | 'lang' | 'kind' | 'videoCount' | 'thumbVideoId' | 'totalSeconds' | 'categorySlug'
+>;
 
 export type WatchCourse = Pick<
   Course,

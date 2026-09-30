@@ -36,12 +36,13 @@ test('rail popover closes when keyboard focus leaves the rail', async ({ page })
 test('content starts below the language pill and scrolls under the floating rail', async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 900 });
   await page.goto('/');
-  const card = await page.getByTestId('course-card').first().boundingBox();
+  const first = await page.getByTestId('course-card').first().boundingBox();
+  const gridCard = await page.locator('.course-grid [data-testid="course-card"]').first().boundingBox();
   const chips = await page.locator('[aria-label="Language"]').boundingBox();
   const rail = await page.getByRole('navigation', { name: 'Categories' }).boundingBox();
-  expect(card!.y).toBeGreaterThanOrEqual(chips!.y + chips!.height);
-  // like the demo, the grid runs under the glass rail so it always has imagery to refract
-  expect(card!.x).toBeLessThan(rail!.x + rail!.width);
+  expect(first!.y).toBeGreaterThanOrEqual(chips!.y + chips!.height);
+  // like the demo, the full grid runs under the glass rail so it always has imagery to refract
+  expect(gridCard!.x).toBeLessThan(rail!.x + rail!.width);
 });
 
 test('phone width: rail hidden, drawer works, no runtime errors', async ({ page }) => {
@@ -62,6 +63,6 @@ test('first-column titles are not hidden under the rail', async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 900 });
   await page.goto('/');
   const rail = await page.getByRole('navigation', { name: 'Categories' }).boundingBox();
-  const title = await page.getByTestId('course-card').first().locator('h3').boundingBox();
+  const title = await page.locator('.course-grid [data-testid="course-card"]').first().locator('h3').boundingBox();
   expect(title!.x).toBeGreaterThanOrEqual(rail!.x + rail!.width);
 });
