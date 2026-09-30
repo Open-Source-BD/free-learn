@@ -1,4 +1,4 @@
-import { canonicalCategory, GROUP_ORDER, groupOf } from './categories';
+import { canonicalCategory, GROUP_ORDER, groupOf, refineCategory } from './categories';
 import { assignSlugs } from './slug';
 import { listSourceCourses } from './source';
 import type {
@@ -7,17 +7,21 @@ import type {
 
 export { courseHref } from './href';
 
+/** Source titles carry markdown escapes (e.g. `\\|`); ids still come from the raw title. */
+const cleanTitle = (t: string) => t.replace(/\\(.)/g, '$1').replace(/\s+/g, ' ').trim();
+const categoryOf = (raw: { category: string; title: string }) => refineCategory(canonicalCategory(raw.category), raw.title);
+
 export function buildCatalog(raw: RawCatalog, playlists: Map<string, PlaylistFile>): Catalog {
   const sources = listSourceCourses(raw);
-  const slugs = assignSlugs([...new Set(sources.map((s) => canonicalCategory(s.raw.category)))]);
+  const slugs = assignSlugs([...new Set(sources.map((s) => categoryOf(s.raw)))]);
   const courses: Course[] = [];
   const videos = new Map<string, PlaylistVideo[]>();
 
   for (const s of sources) {
-    const categoryName = canonicalCategory(s.raw.category);
+    const categoryName = categoryOf(s.raw);
     const base = {
       id: s.id,
-      title: s.raw.title.trim(),
+      title: cleanTitle(s.raw.title),
       url: s.raw.url,
       authors: s.raw.authors,
       notes: s.raw.notes,

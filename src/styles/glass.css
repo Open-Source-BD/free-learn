@@ -132,3 +132,34 @@ body {
     transform: none;
   }
 }
+
+/* thumbnails: soft shimmer until the image paints over it */
+.thumb-skeleton {
+  background: linear-gradient(100deg, rgba(255, 255, 255, 0.04) 30%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.04) 70%);
+  background-size: 300% 100%;
+  animation: thumb-shimmer 1.4s ease-in-out infinite;
+}
+@keyframes thumb-shimmer {
+  from { background-position: 100% 0; }
+  to { background-position: 0 0; }
+}
+
+/* browse grid runs under the glass rail: keep first-column text clear of it (rail right edge 68px, main gutter 16px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .course-grid > :nth-child(2n + 1) .tile-text { padding-left: 56px; }
+}
+@media (min-width: 1024px) and (max-width: 1535px) {
+  .course-grid > :nth-child(3n + 1) .tile-text { padding-left: 56px; }
+}
+@media (min-width: 1536px) {
+  .course-grid > :nth-child(4n + 1) .tile-text { padding-left: 56px; }
+}
+
+/* phones: a shorter bottom blur so it doesn't smear the card in view */
+@media (max-width: 767px) {
+  .progressive-blur.bottom { height: 72px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .thumb-skeleton { animation: none; }
+}

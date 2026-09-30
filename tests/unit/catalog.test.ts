@@ -23,6 +23,20 @@ const pf = (id: string, ids: string[]): PlaylistFile => ({
   videos: ids.map((v) => ({ id: v, title: v, duration: 10 })),
 });
 
+describe('buildCatalog titles', () => {
+  it('unescapes markdown pipes in titles but keeps ids from the raw title', () => {
+    const url = 'https://youtu.be/QnbsCC8wvJk';
+    const cat = buildCatalog({ en: block([c('Data Structures \\| Python', url, 'Python')]) }, new Map());
+    expect(cat.courses[0].title).toBe('Data Structures | Python');
+    expect(cat.courses[0].id).toBe(courseId('Data Structures \\| Python', url));
+  });
+
+  it('splits the Nest.js bucket by title', () => {
+    const cat = buildCatalog({ en: block([c('React Hooks', 'https://youtu.be/QnbsCC8wvJk', 'Nest.js')]) }, new Map());
+    expect(cat.courses[0]).toMatchObject({ categoryName: 'React', categorySlug: 'react', group: 'Web' });
+  });
+});
+
 describe('buildCatalog', () => {
   const algoId = courseId('Algo', PL);
   const cat = buildCatalog(raw, new Map([[algoId, pf(algoId, ['aaaaaaaaaaa', 'bbbbbbbbbbb'])]]));

@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { pickContinue, type ContinueItem } from '@/lib/continue';
 import { createProgressStore } from '@/lib/progress';
 import type { SearchEntry } from '@/lib/types';
+import { formatDuration } from '@/lib/format';
 import { thumbUrl } from '@/lib/youtube-url';
 
 export default function ContinueWatching() {
@@ -25,7 +26,7 @@ export default function ContinueWatching() {
       <div className="grid auto-cols-[minmax(220px,300px)] grid-flow-col justify-start gap-3 overflow-x-auto pb-2">
         {items.map((i) => (
           <a key={i.id} href={i.href} className="group block" data-testid="continue-card">
-            <div className="relative aspect-video overflow-hidden rounded-md bg-white/5">
+            <div className="thumb-skeleton relative aspect-video overflow-hidden rounded-md">
               <img src={thumbUrl(i.videoId)} alt="" loading="lazy" className="size-full object-cover" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <span className="absolute inset-x-0 bottom-0 h-1 bg-white/20">
                 <span className="block h-full bg-red-500" style={{ width: `${i.total ? (i.watchedCount / i.total) * 100 : 0}%` }} />
@@ -33,7 +34,8 @@ export default function ContinueWatching() {
             </div>
             <h3 className="mt-2 line-clamp-1 text-sm font-semibold">{i.title}</h3>
             <p className="text-xs text-white/60">
-              {i.watchedCount} / {i.total} watched
+              {i.resumeAt >= 5 && <>Resume at {formatDuration(i.resumeAt)} · </>}
+              {i.watchedCount} of {i.total} done
             </p>
           </a>
         ))}

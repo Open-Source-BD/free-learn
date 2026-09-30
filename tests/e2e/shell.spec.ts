@@ -57,3 +57,11 @@ test('phone width: rail hidden, drawer works, no runtime errors', async ({ page 
   await expect(page.getByRole('dialog').locator('a[href^="/c/"]').first()).toBeVisible();
   expect(errors).toEqual([]);
 });
+
+test('first-column titles are not hidden under the rail', async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 900 });
+  await page.goto('/');
+  const rail = await page.getByRole('navigation', { name: 'Categories' }).boundingBox();
+  const title = await page.getByTestId('course-card').first().locator('h3').boundingBox();
+  expect(title!.x).toBeGreaterThanOrEqual(rail!.x + rail!.width);
+});

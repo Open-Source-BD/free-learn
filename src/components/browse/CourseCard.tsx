@@ -16,7 +16,7 @@ export default function CourseCard({ course, watchedCount = 0 }: { course: Cours
       className="group block"
       data-testid="course-card"
     >
-      <div className="relative aspect-video overflow-hidden rounded-md bg-white/5">
+      <div className="thumb-skeleton relative aspect-video overflow-hidden rounded-md">
         {course.thumbVideoId && (
           <img
             src={thumbUrl(course.thumbVideoId)}
@@ -36,10 +36,12 @@ export default function CourseCard({ course, watchedCount = 0 }: { course: Cours
           </span>
         )}
       </div>
-      <h3 className="mt-3 line-clamp-2 text-[15px] leading-snug tracking-[0.08em] uppercase">{course.title}</h3>
-      <p className="mt-1 line-clamp-1 text-xs text-white/55" data-testid="course-meta">
-        {meta}
-      </p>
+      <div className="tile-text">
+        <h3 className="mt-3 line-clamp-2 text-[15px] leading-snug tracking-[0.08em] uppercase">{course.title}</h3>
+        <p className="mt-1 line-clamp-1 text-xs text-white/55" data-testid="course-meta">
+          {meta}
+        </p>
+      </div>
     </a>
   );
 }
